@@ -126,13 +126,11 @@ Para la determinación de la línea hasta donde se extienden las playas de mar, 
 
 30) Playa balneario.- Se entiende como tal el paraje dedicado ex profeso a baños públicos, esparcimiento y recreo y no a playas, que, si bien se encuentran dentro de un territorio comunal en el que existan balnearios, no están ubicadas dentro de uno de éstos y que han sido o pueden ser otorgados en concesión para otros fines.
 
-31) Pleamar equinoccial o línea de las más altas mareas.- En el mar es la línea que se puede trazar en la costa en el momento de la crecida máxima anual del mar en aguas tranquilas. Se establece:
+31) Pleamar máxima o línea de las más altas mareas y Línea de crecientes normales de invierno y/o verano.
 
-1.o Matemáticamente, por tablas de mareas, estudios con instrumentos apropiados en el lugar, etc., y
+a) Línea de las más altas mareas es la intersección del plano de la pleamar de sicigias con la costa estando la luna en perigeo. Puede establecerse matemáticamente por tablas de mareas, estudios con instrumentos adecuados en el terreno, etc.
 
-2.o Prácticamente, en aquellos lugares en los que no se necesita determinarla con absoluta exactitud, estableciendo un término medio apreciativo de la línea marcada en la costa por restos de algas o desperdicios.
-
-En los ríos y lagos, en la línea que se puede trazar en sus riberas en la época de las crecidas máximas normales de invierno.
+b) Línea de crecientes normales de invierno y/o verano, es el nivel hasta donde llegan las aguas máximas en los ríos o lagos, en su lecho o ribera.
 
 32) Rampa.-Es una construcción plana inclinada que se interna aguas adentro, como prolongación de malecones o muelles, en aquellos lugares de gran amplitud de mareas, con el objeto de facilitar la movilización de carga o pasajeros. Se considerarán como muelles en la clasificación que corresponda, atracaderos, según sean aptos para el atraque de embarcaciones mayores (muelles) o menores (atracaderos).
 
@@ -204,11 +202,11 @@ Las concesiones a título gratuito a que se refiere el inciso precedente, si se 
 
 #### Artículo 6
 
-o La Dirección del Litoral y de Marina Mercante podrá otorgar a título oneroso, en carácter de transitorios, permisos o autorizaciones a particulares para el usufructo de concesiones marítimas por plazos que no excedan de un año, o para aquellas cuyas rentas o tarifas sean inferiores a Eº 5 anuales; para las extracciones de restos y especies náufragas, y para la extracción de ripio, arena, piedra, carbón mineral caído al mar en procesos o faenas como los de carga o descarga; algas marinas (pelillo, agar-agar, chasca, etc.) y otros materiales en cantidades superiores a 100 m3., bajo las condiciones generales del presente reglamento y las especiales que se señalen en los decretos que las concedan, siempre que haya manifiesta conveniencia pública en permitirlas o autorizarlas.
+o La Dirección del Litoral y de Marina Mercante podrá otorgar a título oneroso, en carácter de transitorios, permisos o autorizaciones a particulares para el usufructo de concesiones marítimas por plazos que no excedan de un año, o para aquellas cuyas rentas o tarifas sean inferiores a Eº 5 anuales; para las extracciones de restos y especies náufragas, y para la extracción de ripio, arena, piedra, carbón mineral caído al mar en procesos o faenas como los de carga o descarga; algas marinas (pelillo, agar-agar, chasca, etc.) y otros materiales en cantidades superiores a 100 m3., bajo las condiciones generales del presente reglamento y las especiales que se señalen en los resoluciones que las concedan, siempre que haya manifiesta conveniencia pública en permitirlas o autorizarlas.
 
 #### Artículo 7
 
-o La Dirección del Litoral y de Marina Mercante, por intermedio de las autoridades marítimas de su dependencia, podrá otorgar a título oneroso permisos o autorizaciones, de escasa importancia, a particulares, para la instalación de carpas u otras construcciones desarmables, en las playas y terrenos fiscales, durante las temporadas veraniegas; para la extracción de especies náufragas, arena, ripio, piedras , carbón mineral caído al mar en procesos o faenas como los de carga o descarga; algas marinas (pelillo, agar-agar, chasca, etc.) y otros materiales en cantidades hasta 100 m3.; para botadero y para avisos de propaganda bajo las condiciones generales del presente reglamento y las especiales que se señalen en los decretos que las concedan.
+o La Dirección del Litoral y de Marina Mercante, por intermedio de las autoridades marítimas de su dependencia, podrá otorgar a título oneroso permisos o autorizaciones, de escasa importancia, a particulares, para la instalación de carpas u otras construcciones desarmables, en las playas y terrenos fiscales, durante las temporadas veraniegas; para la extracción de especies náufragas, arena, ripio, piedras , carbón mineral caído al mar en procesos o faenas como los de carga o descarga; algas marinas (pelillo, agar-agar, chasca, etc.) y otros materiales en cantidades hasta 100 m3.; para botadero y para avisos de propaganda bajo las condiciones generales del presente reglamento y las especiales que se señalen en los resoluciones que las concedan.
 
 #### Artículo 8
 
@@ -240,7 +238,7 @@ a) El plazo de concesión hasta por 5 años se determinará de acuerdo a la decl
 
 b) El plazo de concesión superior a 5 años y hasta 20 años se establecerá de acuerdo con la cuantía de los capitales que se invertirán en las obras o construcciones, lo que se acreditará de manera fehaciente.
 
-Terminada la obra dentro del plazo fijado en el artículo 17, o en el especial que se indique en el decreto, el concesionario entregará a la autoridad marítima el informe del avalúo comercial de la obra, practicado por la respectiva oficina de Impuestos Internos para modificar el plazo de la concesión si fuere procedente.
+Terminada la obra dentro del plazo fijado en el artículo 17, o en el especial que se indique en el decreto, el concesionario entregará a la autoridad marítima el informe del avalúo comercial de la obra, practicado por la respectiva oficina de Impuestos Internos. Con el mérito de estos antecedentes, podrá aumentarse o disminuirse, según corresponda, el plazo primitivamente concedido.
 
 c) En las renovaciones de concesiones se establecerá el mismo plazo señalado para la concesión primitiva, salvo que se acredite que el monto de la inversión ha variado, en cuyo caso el concesionario podrá solicitar la modificación de dicho plazo.
 
@@ -254,13 +252,7 @@ Toda concesión se entenderá otorgada sin perjuicio de los derechos adquiridos 
 
 Se considerará fundada una oposición:
 
-a) Cuando las obras a construirse por terceros obstruyan la vista, al mar de una casa existente en los terrenos particulares adyacentes.
-
-b) Cuando el propietario de los terrenos colindantes manifieste que desea solicitar para sí el terreno de playa o la playa con el objeto de ampliar industrias instaladas, y
-
-c) Cuando el propietario de los terrenos colindantes manifieste que desea solicitar para sí el terreno de playa o la playa con el objeto de desarrollar proyectos para la construcción de una casa, instalación de industrias o balnearios.
-
-En los casos de las letras b) y c) desaparecerán las causales invocadas por el opositor, si dentro del plazo de los 6 meses siguientes no presentare la solicitud de concesión, y si otorgada ésta no iniciare o terminare las obras dentro del plazo fijado en el Art. 17.o en el que se indique en el decreto respectivo.
+SUPRIMIDO-.
 
 #### Artículo 13
 
@@ -286,7 +278,7 @@ La autorización que los concesionarios deban pedir a la Municipalidad respectiv
 
 #### Artículo 17
 
-Los concesionarios a cualquier título deberán iniciar la construcción de las obras objeto de la concesión, dentro de los 30 días siguientes a la fecha en que se haya reducido a escritura pública el respectivo decreto supremo, y deberán quedar terminadas dentro de los 12 meses posteriores a esa fecha, salvo que el decreto indique otros plazos.
+Los concesionarios a cualquier título deberán iniciar la construcción de las obras objeto de la concesión, dentro de los 60 días siguientes a la fecha en que se haya reducido a escritura pública el respectivo decreto supremo, y deberán quedar terminadas dentro de los 12 meses posteriores a esa fecha, salvo que el decreto indique otros plazos.
 
 #### Artículo 18
 
@@ -422,7 +414,7 @@ Las solicitudes de arrendamiento de una concesión o parte de ésta deberán tra
 
 6) El concesionario y el arrendatario serán solidariamente responsables del pago de las rentas, multas, indemnizaciones, y en general de todas las obligaciones impuestas por el decreto de concesión o que se deriven de él;
 
-7) El arrendatario no puede hacer variar el objetivo de la concesión, bajo pena de caducidad de ésta;
+7) El arrendatario no podrá hacer variar el objeto de la concesión sin autorización del Ministerio de Defensa Nacional, quien calificará cada caso particular;
 
 8) Tratándose de concesiones destinadas a la instalación de industrias de harina de pescado, de congelados y de conservas de este producto, y en general, en las concesiones otorgadas para desarrollar actividades pesqueras, no se autorizará el arriendo de concesiones marítimas;
 
@@ -636,6 +628,8 @@ Estos permisos se otorgarán siempre que la playa no haya sido concedida previam
 
 > **Nota.** NOTA 5 El Decreto 755, Defensa, publicado el 01.10.1965, modifican la presente norma en el sentido de modificar la letra j) de la presente norma, intercalando entre los puertos de Mejillones y Caldera allí señalados y cuya tarifa por metro lineal de cañería es de tres pesos oro, los puertos de "Antofagasta, Taltal y Chañaral.
 
+> **Nota.** NOTA 6 El numeral 1 letra g del decreto 68, Defensa, publicado el 15.02.1966, modifican la presente norma en l sentido de reemplazar en el inciso 2º de la letra j) del artículo 39-III-C, la frase "que ocupe sectores de playa, playa y/o fondos de mar" por "que ocupe sectores de terrenos de playa, playa, fondos de mar y/o porción de agua
+
 IV REGALIAS
 
 #### Artículo 40
@@ -652,7 +646,7 @@ Sin embargo, estarán exentos del pago de la regalía indicada en el inciso ante
 
 #### Artículo 42
 
-La regalía que se exige a favor del Fisco en los permisos otorgados por la Dirección del Litoral y de Marina Mercante será enterada en Tesorería anticipadamente dentro de los 15 días siguientes a la fecha de la notificación del decreto de autorización o permiso en moneda corriente, de acuerdo con el recargo fijado para el peso oro, y según las modalidades establecidas en el artículo 39, acápite "Tarifas". La autoridad marítima no permitirá que se inicie la extracción de estos materiales mientras los interesados no hayan comprobado el pago correspondiente.
+La regalía que se exige a favor del Fisco en los permisos otorgados por la Dirección del Litoral y de Marina Mercante será enterada en Tesorería anticipadamente dentro de los 15 días siguientes a la fecha de la notificación de la resolución de autorización o permiso en moneda corriente, de acuerdo con el recargo fijado para el peso oro, y según las modalidades establecidas en el artículo 39, acápite "Tarifas". La autoridad marítima no permitirá que se inicie la extracción de estos materiales mientras los interesados no hayan comprobado el pago correspondiente.
 
 ## Capítulo VI
 
@@ -808,7 +802,7 @@ Las solicitudes de concesiones marítimas por plazos superiores a un año se dir
 
 Cuando se trate de concesiones por plazos menores y hasta un año, serán dirigidas a la Dirección del Litoral y de Marina Mercante.
 
-Las solicitudes se presentarán en papel sellado competente y deberán contener los datos y antecedentes mínimos, según sea la materia cuestionada, y exhibir los documentos que se indican para cada caso:
+Las solicitudes se presentarán en papel sellado competente con una copia simple y deberán contener los datos y antecedentes mínimos, según sea la materia cuestionada, y exhibir los documentos que se indican para cada caso:
 
 A.--Concesión onerosa.
 
@@ -816,7 +810,7 @@ a) Nombre y apellidos o razón social, nacionalidad, estado civil, domicilio, pr
 
 b) Designación de la provincia, departamento, comuna y lugar en que se encuentra situada la materia u objeto de la concesión solicitada, con sus referencias de orientación y distancias a lugares o puntos permanentes y conocidos que precisen su ubicación;
 
-c) Dimensiones (frente y fondo en metros), superficie (en metros cuadrados), deslindes, naturaleza (terrenos de playa, playa, fondos de mar, ríos o lagos, ocupación de porción de agua, muelles o atracaderos, varaderos, instalación de construcciones desarmables, como carpas, quioscos, etc., extracción de restos o de especies náufragas o de materiales, como arena, ripio, conchuela, etc.);
+c) Dimensiones, (frente y fondo en metros), superficie (en metros cuadrados), deslinde, naturaleza (terrenos de playa, playa, fondo de mar, ríos o lagos, porción de agua);
 
 d) Objeto a que se destinará;
 
@@ -826,7 +820,7 @@ f) Capital aproximado de inversión de las obras que se proyectan, según su ava
 
 g) Plazo de la concesión;
 
-h) Tratándose de obras tales como: muelles, malecones, molos, rampas y atracaderos, sean comunes, semi o mecanizados, defensas, rellenos, varaderos, astilleros, edificios, balnearios, etc., u otros que requieran una construcción sólida y definitiva, se especificará en detalle el material que se usará en la construcción, sus dimensiones, el número de grúas o pescantes que se instalarán, la capacidad de movilización de carga en 24 horas, líneas férreas o decauville con que se dotará, escalas de servicios o para tránsito de pasajeros y todo otro elemento o utilería que se empleará en la explotación.
+h) Tratándose de obras tales como: muelles, malecones, molos, rampas y atracaderos, sean comunes, semi o mecanizados, defensas, rellenos, varaderos, astilleros, edificios, balnearios, etc., u otros que requieran una construcción sólida y definitiva, se acompañarán especificaciones del material que se usará en la construcción, sus dimensiones, el número de grúas o pescantes que se instalarán, la capacidad de movilización de carga en 24 horas, líneas férreas o decauville con que se dotará, escalas de servicios o para tránsito de pasajeros y todo otro elemento o utilería que se empleará en la explotación.
 
 Cuando se trate de varaderos o astilleros, fuera de los datos anteriores que puedan indicarse, se agregará el tonelaje máximo de las embarcaciones que puedan carenarse, repararse o construirse en éstos y su número y capacidad máxima;
 
@@ -850,11 +844,9 @@ n) Cuando se trate de concesiones destinadas a las actividades de la pesca o de 
 
 ñ) Cuando se trate de concesiones destinadas al desarrollo de actividades industriales pesqueras, ampliaciones o cambio de ubicación de las ya establecidas, deberá acompañarse copia del decreto supremo tramitado expedido por el Ministerio de Agricultura que otorgue el permiso correspondiente.
 
-o) El postulante deberá acompañar un certificado que acredite encontrarse al día en la declaración del impuesto a la renta en el que se indicará, además, el número de inscripción en el Rol del Contribuyente.
+o) SUPRIMIDO.
 
-p) Las personas jurídicas que soliciten concesión deberán acompañar copias autorizadas de los respectivos estatutos o escrituras sociales, asimismo, deberán acreditar el mandato de su representante.
-
-El Ministerio de Defensa Nacional, Subsecretaría de Marina, podrá exigir que se acredite la vigencia de la correspondiente personalidad jurídica.
+p) Las Personas Jurídicas que soliciten concesiones deberán acreditar la existencia y vigencia de su personalidad, pero tratándose de renovaciones, modificaciones, transferencias y términos, bastará acreditar la vigencia legal de la misma. En ambos casos el que actúe en nombre de la entidad interesada deberá probar personería suficiente.
 
 q) Dejará constancia del valor de los impuestos acompañados ya sea en estampillas de impuestos o en su reemplazo por comprobantes de ingreso en Tesorería.
 
@@ -886,57 +878,57 @@ f) Del Alcalde de la I. Municipalidad, cuando se trate de concesiones de playa o
 
 g) Del propietario colindante, a fin de no incurrir en perjuicio de terceros, poniendo en su conocimiento, por escrito, las características de la concesión que se solicita, dándole un plazo de 15 días, como máximo, para que formule las objeciones u oposiciones a que crea tener derecho. Transcurrido el plazo, se dará por cumplida la diligencia.
 
-## Capítulo VIII
+## Capítulo IX
 
-Entrega de las concesiones y su legalización
+Legalización y entrega de las concesiones
+
+> **Nota.** NOTA 8 El numero 1 letra n del decreto 68, Defensa, publicada el 15-02-1968, modifica el epígrafe del Capitulo IX, no obstante sel el epigrafe del Capitulo VIII.
 
 #### Artículo 64
 
-Recibida la copia de transcripción del decreto de concesión, la autoridad marítima entregará un ejemplar al interesado, notificándolo que dentro del plazo de 30 días, contados desde esa fecha, deberá solicitar la entrega de la concesión y efectuar el primer pago del semestre o anualidad, según lo disponga el decreto.
+El concesionario deberá reducir a escritura pública el decreto de concesión dentro del plazo de 30 días contados desde la fecha en que la Autoridad Marítima le haga entrega oficial de la transcripción correspondiente". Previo al cumplimiento de esta obligación deberá enterar en la Tesorería correspondiente la renta y/o tarifa anual o semestral que dispone el decreto.
 
 #### Artículo 65
 
-Recibido el decreto por el interesado, solicitará la entrega de la concesión, la que se hará efectiva mediante la subscripción de un acta, en la que se dejará constancia de haberse enterado en Tesorería el primer pago semestral o anual fijado en el decreto, que ha constituído la garantía en el caso de existir mejoras y de que deberá reducir a escritura pública el mencionado decreto dentro de los 30 días siguientes.
+La escritura pública deberá contener:
+
+"a) El texto íntegro del decreto de concesión;
+
+"b) Constancia de haberse enterado el valor de la renta y/o tarifa anual o semestral;
+
+"c) Si se ha constituido la correspondiente garantía en el caso de que la concesión comprenda mejoras fiscales; y
+
+"d) Aceptación por parte del concesionario de todas las condiciones y obligaciones que le imponga el decreto supremo correspondiente.
 
 #### Artículo 66
 
-Al efectuarse la entrega se dejarán marcados visiblemente en el suelo los deslindes de la concesión y firmemente señalados sus vértices, cuando se trate de playa o terrenos de playa; tratándose de fondos de mar, río o lago, estos vértices se señalarán con orinques, los que no estarán afectos al pago de tarifas que establece este reglamento. Esta demarcación se hará de acuerdo al plano de concesión.
-
-El acta de entrega se extenderá en cuadruplicado, debiendo enviarse un ejemplar a la Dirección del Litoral y de Marina Mercante, adjuntando la garantía que se constituye, en el caso de existir mejoras; a la Gobernación Marítima respectiva; al archivo de la Capitanía de Puerto y al interesado.
+Si la concesión comprende bienes fiscales, la escritura pública deberá inscribirla el interesado en el Conservador de Bienes Raíces correspondiente para los efectos del pago del impuesto territorial.
 
 #### Artículo 67
 
-Si por cualquier motivo imputable al interesado no se subscribiera el acta de entrega dentro del plazo indicado en el artículo 64, la autoridad marítima solicitará se deje sin efecto el decreto de concesión.
+El incumplimiento por parte del concesionario a cualquiera de las obligaciones señaladas en los artículos precedentes, facultará al Ministerio de Defensa Nacional, Subsecretaría de Marina para disponer de oficio la derogación del decreto de concesión previo informe de la Dirección del Litoral y de Marina Mercante.
 
 #### Artículo 68
 
-Inmediatamente de efectuada la entrega, la autoridad marítima informará por escrito al funcionario autorizado para subscribir la escritura pública en representación del Fisco, quien procederá a subscribirla dentro de los 30 días siguientes, desde la fecha de la mencionada comunicación.
+La Autoridad Marítima, una vez reducido a escritura pública el decreto supremo respectivo dentro del plazo señalado, hará entrega material al concesionario de la concesión, lo que se hará efectivo mediante un acta.
+
+"En este caso se demarcarán en forma visible en el terreno los deslindes de la concesión tratándose de terrenos de playa y playa; en el caso de los fondos de mar, ríos o lagos, los vértices de ella se señalarán con orinques que no estarán afectos al pago de tarifas. Toda esta demarcación deberá efectuarse conforme al plano que dio origen al decreto supremo.
 
 #### Artículo 69
 
-La escritura pública deberá contener:
-
-a) Copia del decreto de concesión o de renovación de concesión;
-
-b) Copia del acta de entrega;
-
-c) Constancia que se ha tenido a la vista: El comprobante de pago en Tesorería por el primer semestre o anualidad de la concesión, indicándose su número, fecha de pago y la cantidad pagada, y la boleta bancaria o póliza de seguro constituída a favor del Fisco sobre las mejoras fiscales, en caso de existir, indicándose el nombre del Banco o compañía aseguradora, su número, fecha y cantidad depositada;
-
-d) Declaración de aceptación por parte del concesionario de todas las condiciones que le imponga el decreto de concesión, de renovación o de transferencia.
+Los permisos que otorgue la Dirección del Litoral y de Marina Mercante en virtud a las disposiciones de este Reglamento no se reducirán a escritura pública, pero regirá respecto de ellos el requisito de acta de entrega en que se dejará constancia, además, de la aceptación por parte del concesionario de todas las condiciones y obligaciones que le imponga la resolución correspondiente.
 
 #### Artículo 70
 
-El concesionario deberá entregar a la autoridad marítima respectiva copia de la escritura pública, dentro de 30 días, contados desde su subscripción. Tratándose de terrenos de playa, deberá inscribir, además, la escritura pública en el Conservador de Bienes Raíces correspondiente, dentro del mismo plazo, enviando copia a la autoridad marítima.
-
-La autoridad marítima remitirá por conducto regular las copias indicadas a la Dirección del Litoral y de Marina Mercante.
+No podrá hacerse efectiva la entrega de ninguna concesión si no se ha cumplido con todas las formalidades del decreto tramitado y reducido a escritura pública.
 
 #### Artículo 71
 
-Si por cualquier motivo imputable al concesionario, no se redujere a escritura pública el decreto de concesión dentro del plazo indicado en el artículo 68, la autoridad marítima solicitará la caducidad de la concesión.
+SUPRIMIDO.
 
 #### Artículo 72
 
-Los permisos otorgados por la Dirección del Litoral y de Marina Mercante, en virtud de las disposiciones de este reglamento, no se reducirán a escritura pública, pero regirá para ellos el requisito del acta de entrega, dejándose constancia de la aceptación por parte del concesionario de las condiciones fijadas en el decreto.
+SUPRIMIDO.
 
 ## Capítulo X
 
@@ -966,7 +958,11 @@ i) Solicitar por escrito semestralmente a la Tesorería respectiva información 
 
 j) Enviar a la Dirección del Litoral y de Marina Mercante, por conducto regular, las órdenes de ingreso emitidas por las Capitanías de Puertos con el timbre que acredite que el concesionario ha efectuado el pago de la renta y/o tarifa correspondiente en Tesorería, inmediatamente después de efectuada la cancelación para llevar el control en el Libro de Registro, y
 
-k) Dictado un decreto de permiso o de autorización en virtud a las disposiciones del artículo 7.o, deberá enviar copias al interesado, a la Dirección del Litoral y de Marina Mercante adjuntando el comprobante de ingreso en Tesorería que acredite que el interesado ha efectuado el pago correspondiente, al Ministerio de Defensa Nacional, Subsecretaría de Marina, a la Contraloría General de la República, Tesorero, Municipalidad, Administrador Local del Puerto y a Carabineros.
+k) Dictada la resolución de un permiso o de autorización en virtud a las disposiciones del artículo 7.o, deberá enviar copias al interesado, a la Dirección del Litoral y de Marina Mercante adjuntando el comprobante de ingreso en Tesorería que acredite que el interesado ha efectuado el pago correspondiente, al Ministerio de Defensa Nacional, Subsecretaría de Marina, a la Contraloría General de la República, Tesorero, Municipalidad, Administrador Local del Puerto y a Carabineros.
+
+l) Remitir a la Dirección del Litoral y de Marina Mercante las copias de las solicitudes a que se refiere el artículo 62, inciso 3º, inmediatamente de recibida, indicando su registro y fecha de recepción".
+
+m) Remitir a la Dirección del Litoral y de Marina Mercante copias de las escrituras públicas y de las actas de entrega.
 
 ## Capítulo XI
 
@@ -1002,7 +998,7 @@ a) Recibida la transcripción de un decreto de concesión, la enviará de inmedi
 
 La transcripción para el archivo de Impuestos Internos y autoridad marítima será acompañada de un plano o croquis de concesión y de ubicación; a la de la Dirección de Pesca se acompañará, además, una copia de la solicitud;
 
-b) Dictado un decreto de permiso o autorización, enviará, además, copia al Ministerio de Defensa Nacional, Subsecretaría de Marina, y a la Contraloría General de la República;
+b) Dictada la resolución de un permiso o autorización, enviará, además, copia al Ministerio de Defensa Nacional, Subsecretaría de Marina, y a la Contraloría General de la República;
 
 c) Poner en conocimiento del Departamento de Bienes Nacionales toda mejora que al término de una concesión deba quedar a beneficio fiscal, acompañando la tasación de la respectiva Oficina de Impuestos Internos, y
 
@@ -1070,7 +1066,7 @@ La solicitud será informada por la autoridad marítima respectiva, la que compr
 
 #### Artículo 84
 
-El decreto autorizando la extracción contendrá los siguientes datos:
+La Resolución autorizando la extracción contendrá los siguientes datos:
 
 a) Individualización del interesado;
 
@@ -1110,7 +1106,7 @@ a) El interesado cumplirá los requisitos contemplados en el artículo 83, agreg
 
 b) La autoridad marítima cumplirá lo dispuesto en el artículo 83, agregando en su informe, una estimación sobre el monto a cobrar por concepto de regalía, y
 
-c) Para los efectos de la dictación del decreto de permiso se considerará lo dispuesto en el artículo 84, agregando una cláusula sobre el pago de la regalía a favor del Fisco.
+c) Para los efectos de la dictación de la resolución de permiso se considerará lo dispuesto en el artículo 84, agregando una cláusula sobre el pago de la regalía a favor del Fisco.
 
 #### Artículo 87
 
@@ -1154,9 +1150,9 @@ Para la extracción de las especies náufragas y en cumplimiento de las disposic
 
 a) Tratándose de naves y sus cargas arrojadas a las playas, los interesados solicitarán el permiso correspondiente de la Dirección del Litoral y de Marina Mercante, por intermedio de la autoridad marítima respectiva;
 
-b) Tratándose de embarcaciones menores, lanchones o faluchos y sus cargas arrojadas a las playas, de cualquier objeto caído al mar o de especies que aisladamente se encuentren en la playa, aunque primitivamente hayan constituído parte de una nave, sus efectos muebles, aparejos o carga, el permiso será otorgado por la autoridad marítima respectiva, remitiendo copia del decreto a la Dirección del Litoral y de Marina Mercante.
+b) Tratándose de embarcaciones menores, lanchones o faluchos y sus cargas arrojadas a las playas, de cualquier objeto caído al mar o de especies que aisladamente se encuentren en la playa, aunque primitivamente hayan constituído parte de una nave, sus efectos muebles, aparejos o carga, el permiso será otorgado por la autoridad marítima respectiva, remitiendo copia de la resolución a la Dirección del Litoral y de Marina Mercante.
 
-c) Los decretos que se dicten de acuerdo con las disposiciones que anteceden especificarán los límites de la zona en que podrán efectuarse los trabajos, excluyendo espacios fijando condiciones especiales, cuando a juicio de la autoridad marítima la extracción de las especies puedan afectar las faenas, obras o locales, como ser: en las proximidades de muelles, cañerías de petróleo, bancos de moluscos, etc.;
+c) Las resoluciones que se dicten de acuerdo con las disposiciones que anteceden especificarán los límites de la zona en que podrán efectuarse los trabajos, excluyendo espacios fijando condiciones especiales, cuando a juicio de la autoridad marítima la extracción de las especies puedan afectar las faenas, obras o locales, como ser: en las proximidades de muelles, cañerías de petróleo, bancos de moluscos, etc.;
 
 d) En estos permisos tendrán preferencia los propietarios, si lo solicitan, y su plazo máximo será por un año cada vez;
 
@@ -1168,7 +1164,7 @@ g) Cuando la extracción de estas especies se ha efectuado bajo las órdenes o d
 
 #### Artículo 92
 
-Cuando las especies náufragas entorpezcan la navegación, el amarre o atraque de embarcaciones y nadie se interese por su extracción, la autoridad marítima exigirá que, dentro de un plazo prudencial, los propietarios procedan a extraerlas.
+Cuando las especies náufragas entorpezcan la navegación, el amarre o atraque de embarcaciones y nadie se interese por su extracción, la autoridad marítima exigirá que, dentro de un plazo prudencial, los propietarios procedan a extraerlas. Igual exigencia podrá hacer cuando estas especies se encuentren ubicadas en zonas balnearias o afecten la estética del puerto.
 
 Vencidos los plazos fijados, la autoridad marítima podrá hacerlo ciñéndose, en lo demás, a lo indicado en los artículos 114 y siguientes de la Ordenanza de Aduanas.
 
