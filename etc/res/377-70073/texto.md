@@ -1,0 +1,3 @@
+Por Resolución Nº 377, de 14 de marzo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por PESCA SURIBERICA S.A., para ampliación de área de actividad pesquera en zona de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA), sobre los recursos Dissostichus eleginoides y Dissostichus mawsoni con las naves "Isla Sofía", "Isla Isabel" e "Isla Camila", en virtud de lo establecido en la medida de conservación 31/X de la CCRVMA.
+
+Valparaíso, 14 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
