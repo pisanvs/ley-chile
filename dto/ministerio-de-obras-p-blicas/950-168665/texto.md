@@ -1,0 +1,3 @@
+Por decreto MOP Nº950, de 30 de marzo del 2000, se expropió el lote de terreno Nº8, superficie 37.528 m², rol de avalúo 2204-8, comuna de Chillán, para la obra Concesión Internacional Ruta 5; Tramo: Talca-Chillán, Octava Región y se acordó el valor de indemnización con su propietaria Adriana del Carmen Méndez Parra, ascendente a la cantidad de $191.515.291.
+
+Fiscal del Ministerio de Obras Públicas.
