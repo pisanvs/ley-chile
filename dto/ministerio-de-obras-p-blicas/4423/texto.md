@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.423, de 29 de septiembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Puente Blanco, sector Puelo, que figura a nombre de Luis Edgardo Rigo Rigui, rol de avalúo 144-35, superficie 4.979 m2., comuna de Cochamó. La Comisión de Peritos, fijó con fecha 10 de diciembre de 1998, la indemnización provisional en la cantidad de $746.850, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
