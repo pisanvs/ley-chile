@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.062 de fecha 29 de abril de 1999, se expropiaron los lotes de terreno Nºs. 5 y 6, superficies 587 y 1.335 m2., respectivamente, rol de avalúo 2223-11, comuna de Chillán Viejo, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector 1 Km. 414.265,20 al Km. 423.633,50'' y se acordó el valor de indemnización con su propietario Sociedad Comercial Agropecuaria Puyaral Limitada, ascendente a la cantidad de $1.981.582.-
+
+Fiscal del Ministerio de Obras Públicas.
