@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº1.699 de fecha 29 de noviembre de 2002, se expropió el lote de terreno Nº36 y 36-A, superficie 1.355 y 924 m2, rol de Avalúo Nº512-118, comuna de Carahue, para la obra "Camino Ruta S-36, Sector Tranapuente-Nehuentue, Tramo Km. 0,000 al 9,997062 correspondiente al Subtramo I, Km. 0,000 al 4,230", IX Región y se acordó el valor de la indemnización con su propietario Nieves Arnoldo Salazar Valencia, ascendente a la cantidad de $1.440.065.-
+
+Fiscal del Ministerio de Obras Públicas.
