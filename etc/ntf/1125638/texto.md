@@ -1,0 +1,13 @@
+﻿Suscricion para socorrer a las familias pobres de los que murieron en la batalla de Maipú.
+
+Señor:
+
+Se acerca el día mas glorioso en los anales de Chile, el día 5 de abril al que todos debemos nuestra existencia: es justo, pues, que todos recordemos su gloria, i la de aquellos ilustres desgraciados que sellaron con su sangre la libertad del pais. Me persuado que este Supremo Gobierno tiene el designio de celebrar ese dia con medios dignos de sí, i de aquel. Mas al mismo tiempo no pudiendo yo como individuo privado, o como ciudadano, desentenderme de lo que debo a las víctimas de aquel dia, me he tomado la libertad de poner a la disposicion de S.E. el Supremo Director quince onzas de oro con el objeto siguiente:
+
+Que haga V.E. una invitacion a nuestros compatriotas (muchos desean lo que yo propongo) para, que subscriban con lo que pudieren a fin de formar un fondo, el cual se sortee el día 5 del próximo Abril entre las viudas, i familias pobres de aquellos que perecieron en la batalla de Maipú, para que esos desgraciados gocen la satisfaccion de recibir de la Patria un auxilio en el mismo dia en que por ella perdieron los que les eran mas caro. Yo ofrezco mi persona para recojer las cantidades que se subscriban, i costear los pequeños gastos que puedan orijinarse. S.E. puede arreglar todo del modo que crea mas justo.
+
+V.E. tendrá la bondad de poner mi nota en la consideracion de S.E. el Supremo Director, i de recibir mis sinceras protestas de respeto.
+
+Dios guarde a V.S. muchos años.- Santiago de Chile, Marzo 7 de 1819.- Estanislao Linch.- Señor Ministro de Estado en el Departamento de la Guerra.
+
+Santiago i Marzo 11 de 1819.- Dígase al ciudadano don Estanislao Linch, que el jeneroso rasgo de beneficencia con que se ofrece aliviar la miseria de las recomendables familias de los ilustres guerreros que con el sacrificio de su vida sellaron la libertad de la patria en la gloriosa jornada de Maipú, ha merecido toda la aprobacion i reconocimiento del Gobierno. I que en la persuacion de que ninguno realizará tan benéfico puesto con mas actividad i celo que su mismo autor, se le comisiona desde luego para que, abriendo la suscripcion que propone, colecte las cantidades que el esclarecido patriotismo i filantropía de este vecindario quiera erogar para tan laudable objeto. El modo de distribuir la suma que se juntare será acordado con oportunidad. I entre tanto publíquese en la Gaceta este decreto con la representacion que lo motiva, debiendo a su tiempo publicarse igualmente la lista de los donantes para su satisfaccion i que sirvan de estímulo a sus demas conciudadanos.- O'Higgins.- Zenteno.
