@@ -218,23 +218,25 @@ Los Diputados son reelegibles indefinidamente.
 
 (23)
 
-No pueden ser elegidos Diputados los siguientes individuos:
+No pueden ser elegidos Diputados:
 
-Los eclesiásticos regulares;
+1.º Los eclesiásticos regulares, los párrocos y vice-párrocos;
 
-Los párrocos y vice-párrocos;
+2.º Los magistrados de los Tribunales Superiores de Justicia, los jueces de letras y los funcionarios que ejercen el ministerio público;
 
-Los jueces letrados de primera instancia;
+3.º Los Intendentes de provincia y los Gobernadores de plaza ó departamento;
 
-Los Intendentes de provincias y Gobernadores de departamentos;
+4.º Las personas que tienen ó caucionan contratos con el Estado sobre obras públicas ó sobre provisión de cualquiera especie de artículos;
 
-Los chilenos á que se refiere el inciso 3.° del artículo 5.°, si no hubieren estado en posesión de su carta de naturalización á lo menos cinco años antes de su elección.
+5.º Los chilenos á que se refiere el inciso 3.º del artículo 5.º, si no hubieren estado en posesión de su carta de naturalización, á lo menos, cinco años antes de ser elegidos.
 
-Pueden ser elegidos, pero deben optar entre el cargo de Diputado y sus respectivos empleos;
+El cargo de Diputado es gratuito é incompatible con el de Municipal y con todo empleo público retribuído, y con toda función ó comisión de la misma naturaleza. El electo debe optar entre el cargo de Diputado y el empleo, función ó comisión que desempeñe dentro de quince días, si se hallare en el territorio de la República, y dentro de ciento si estuviere ausente. Estos plazos se contarán desde la aprobación de la elección. A falta de opción declarada dentro del plazo, el electo cesará en su cargo de Diputado.
 
-Los empleados con residencia fuera del lugar de las sesiones del Congreso.
+Ningún Diputado, desde el momento de su elección y hasta seis meses después de terminar su cargo, puede ser nombrado para función, comisión ó empleos públicos retribuídos.
 
-Todo Diputado que, desde el momento de su elección, acepte empleo retribuido de nombramiento exclusivo del Presidente de la República, cesará en su representación, salvo la excepción consignada en el artículo 81 de esta Constitución.
+Esta disposición no rige en caso de guerra exterior ni se extiende á los cargos de Presidente de la República, Ministro del Despacho y Agente Diplomático; pero sólo los cargos conferidos en estado de guerra y los Ministros del Despacho son compatibles con las funciones de Diputado.
+
+El Diputado, durante el ejercicio de su cargo, no puede celebrar ó caucionar los contratos indicados en el número 4.º, y cesará en sus funciones si sobreviene la inhabilidad designada en el número 1.º.
 
 DE LA CÁMARA DE SENADORES
 
@@ -284,7 +286,7 @@ Para ser Senador se necesita:
 
 4.° Una renta de dos mil pesos á lo menos.
 
-La condición exclusiva impuesta á los Diputados en el artículo 21 comprende también á los Senadores.
+Lo dispuesto en el artículo 21 respecto de los Diputados, comprende también á los Senadores.
 
 ATRIBUCIONES DEL CONGRESO, Y ESPECIALES DE CADA CÁMARA
 
