@@ -27058,43 +27058,25 @@ para determinados fines, como se señala en el N° 2 siguiente.
 
 ### 2. Giros
 
-Los depósitos mantenidos en la "Cuenta Especial de Depósito Número 2, en dólares
+Los depósitos mantenidos en la "Cuenta Especial de Depósito Número 2, en dólares de Estados Unidos de América", podrán girarse únicamente para alguna de las siguientes finalidades, según sea el origen de los recursos depositados:
 
-de Estados Unidos de América", podrán girarse únicamente para alguna de las
+2.1. Aportes de capital ingresados al amparo del D.L. N° 600 y sus modificaciones por bancos y sociedades financieras:
 
-siguientes finalidades, según sea el origen de los recursos depositados:
+a) Para efectuar su venta al Banco Central, con pacto de recompra, en los términos de los Capítulos IV.E.1 y IV.E.3 del Compendio de Normas Financieras;
 
-2.1. Aportes de capital ingresados al amparo del D.L. N° 600 y sus
-
-modificaciones por bancos y sociedades financieras:
-
-a) Para efectuar su venta al Banco Central, con pacto de recompra, en los
-
-términos de los Capítulos IV.E.1 y IV.E.3 del Compendio de Normas Financieras;
-
-b) Para adquirir pagarés en dólares de los Estados Unidos de América emitidos
-
-por la Tesorería General de la República; y,
+b) Para adquirir pagarés en dólares de los Estados Unidos de América emitidos por la Tesorería General de la República; y,
 
 c) Para convertir a pesos, moneda corriente.
 
+d) Para convertir a pesos, moneda corriente, con el objeto de remesar al exterior, cuando proceda, previa autorización del Banco Central de Chile.
+
 2.2. Reservas en moneda extranjera de instituciones bancarias:
 
-Únicamente para financiar operaciones de comercio exterior y para utilizarlas en
-
-el castigo de operaciones en moneda extranjera, previa autorización del Banco
-
-Central de Chile y de esta Superintendencia, según lo establecido en el Capítulo
-
-13-28 de esta Recopilación de Normas y en el N° 9 del Capítulo III del Compendio
-
-de Normas de Cambios Internacionales del Instituto Emisor.
+Únicamente para financiar operaciones de comercio exterior y para utilizarlas en el castigo de operaciones en moneda extranjera, previa autorización del Banco Central de Chile y de esta Superintendencia, según lo establecido en el Capítulo 13-28 de esta Recopilación de Normas y en el N° 9 del Capítulo III del Compendio de Normas de Cambios Internacionales del Instituto Emisor.
 
 2.3. Provisiones en moneda extranjera constituidas por empresas bancarias:
 
-Solamente para efectuar castigos de operaciones en moneda extranjera, en los
-
-términos previstos en las normas ya citadas.
+Solamente para efectuar castigos de operaciones en moneda extranjera, en los términos previstos en las normas ya citadas.
 
 ### 3. Normas contables
 
