@@ -1,0 +1,5 @@
+EXTRACTO DE EXPROPIACION
+
+Por resolución Nº 122 de 18 diciembre 2001, conforme artículo 51 ley 16.391 y D.L. 2.186, Serviu Región de Tarapacá, ordenó expropiación siguientes inmuebles aparente dominio don Humberto Ponce Silva para ejecución programas habitacionales Minvu años 2002 y siguientes: Uno) Expropiación parcial Lote I, presunto Rol de avalúo 676-41, superficie 21.773,87 m2, dentro de polígono A-B-C-D-A y linderos señalados en plano expropiación SVU 1435; Dos) Expropiación Lote L, presunto Rol de avalúo 676-44, superficie 33.223,00 m2, dentro de polígono D-E-F-G-D y linderos señalados en plano expropiación SVU 1435. Comisión peritos integrada por Sergio Moreno Ramírez, arquitecto y constructores civiles Oscar Escárate Arancibia y Jorge Romero Ossio, según informe de 18 diciembre 2001, fijó monto provisional indemnización en $99.000.000 para lote I Rol de avalúo 676-41 y en $151.000.000 para lote L Rol de avalúo 676-44, pagadera de contado.
+
+Iván Figueroa Llona, Director Serviu Región de Tarapacá.
