@@ -1,0 +1,3 @@
+Por Resolución N° 1.105, de 12 de Junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por CRISTINA FLORELIA NANCUANTE MAÑAO, para un centro de cultivo ubicado en desembocadura del Estero Tocoihue, Comuna de Dalcahue, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14° del D.S. N° 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 12 de Junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
