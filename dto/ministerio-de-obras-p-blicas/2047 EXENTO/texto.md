@@ -1,0 +1,3 @@
+Por decreto MOP. (exento) Nº 2.047, de 31 de diciembre de 2001, se expropió el lote de terreno Nº 17, superficie 427 m2., rol de avalúo 104-125, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Tramo 6A1: Kms. 31.430,00 al 33.260,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Luis Enrique Oyanedel Ruz, ascendente a la cantidad de $2.844.368.
+
+Fiscal del Ministerio de Obras Públicas.
