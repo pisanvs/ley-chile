@@ -1,0 +1,1 @@
+Reconoce derecho a montepío en conformidad al decreto con fuerza de ley 3,743, de 26 de diciembre de 1927, y en defecto de éste, a desahucio, a los herederos legítimos del personal que fué licenciado o expulsado de la Armada por los Consejos de Guerra con motivo de los sucesos ocurridos en Coquimbo y Talcahuano en 1931.
