@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.234, de 31 de marzo de 2000, se expropiaron los lotes de terreno Nºs. 84A, 84B, 85, 86, 87, 88, 89, 90 y 91, roles de avalúo 222-34, 222-45 y 214-19, comuna de Monte Patria, IV Región, para la obra Camino Ruta D-597, Monte Patria - Carén, Sector Juntas Carén y se acordó precio de indemnización con su propietario Inversiones Agriluz Limitada, ascendente a la cantidad de $18.031.461.
+
+Fiscal del Ministerio de Obras Públicas.
