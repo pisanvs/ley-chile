@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 439 de 26 de marzo de 2004, se expropió el lote de terreno Nº 17-D, superficie 24,19 m2, rol de avalúo Nº 323-20, comuna de Río Negro, para la obra "Camino Ruta U-72, Sector Huilma-Riachuelo, Tramo Km. 18,14000 al 33,91000", X Región y se acordó el valor de la indemnización con su propietaria Mireya del Carmen Arismendi Arismendi, ascendente a la cantidad de $298.935.
+
+Fiscal del Ministerio de Obras Públicas.
