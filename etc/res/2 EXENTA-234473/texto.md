@@ -1,0 +1,11 @@
+AUXILIAR DE REGISTRO DE IMPUESTO DE TIMBRES Y ESTAMPILLAS DE BANCOS E INSTITUCIONES FINANCIERAS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 2 del 4/1/05 que crea "Auxiliar de Registro de Impuesto de Timbres y Estampillas de Bancos e Instituciones Financieras" en reemplazo del libro especial, que deben llevar tales instituciones para el control del impuesto señalado, fija formato e instrucciones y establece obligación de remitir semestralmente a este Servicio en la forma que se indica.
+
+1. Mediante resolución exenta Nº 2 de 4 de enero de 2005 fíjase modelo de "Auxiliar de Registro de Impuesto de Timbres y Estampillas de Bancos e Instituciones Financieras", según formato e instrucciones en anexo, que deberán llevar los bancos e instituciones financieras y las sucursales de bancos extranjeros, regidos por la Ley General de Bancos establecida en el DFL Nº 3, de 1997. Este nuevo registro reemplazará al Libro Especial de Control establecido en circular Nº 92, de fecha 20.09.74, complementado con circular Nº 72, de 08.10.1980, debiendo consignarse en él, los datos relativos a actuaciones y documentos que den cuenta de los actos jurídicos, contratos y otras convenciones gravadas con el Impuesto de Timbres y Estampillas establecido en el D.L. Nº 3.475, de 1980, incluyendo las operaciones exentas y sin considerar los hechos gravados consagrados en el Nº 1 del artículo 1 de dicha ley.
+
+2. Se deberá remitir a la Subdirección de Informática de la Dirección Nacional del Servicio de Impuestos Internos, los archivos mensuales del Auxiliar de Registro de Impuesto de Timbres y Estampillas de Bancos e Instituciones Financieras, en la forma que se indica en la resolución.
+
+3. La obligación de llevar el Auxiliar de Registro de Impuesto de Timbres y Estampillas de Bancos e Instituciones Financieras, establecido en la resolución regirá a contar de julio de 2005. La obligación de remitir archivos semestralmente al Servicio de Impuestos Internos, regirá a contar del 1 de febrero de 2006, por las operaciones efectuadas de julio a diciembre de 2005.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de enero de 2005.
