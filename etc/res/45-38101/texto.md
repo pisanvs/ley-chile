@@ -1,0 +1,5 @@
+INCREMENTA FRECUENCIA PARA EFECTUAR TRANSPORTE INTERNACIONAL TERRESTRE DE PASAJEROS QUE INDICA, A LA SOCIEDAD QUE SEÑALA
+
+Por Resolución Exenta N° 45 de fecha 13 de Enero de 1995, modificada por Resolución Exenta N° 131 de fecha 26.01.95, increméntase en una frecuencia diaria, las otorgadas por la Resolución Exenta N° 130 de 26 de Enero de 1988 a la sociedad González y Compañía Limitada (Transportes Aconcagua Santiago T.A.S. Choapa Limitada o T.A.S. Choapa Limitada) para efectuar transporte internacional terrestre de pasajeros entre Viña del Mar-Valparaíso-Santiago (Chile) y Mendoza (Argentina), por paso fronterizo Cristo Redentor (Sistema Cristo Redentor). El servicio autorizado se efectuará con un total de cuatro frecuencias diarias de ida y vuelta.-
+
+Jaime Herrera Ferrada, Subsecretario de Transportes (S).
