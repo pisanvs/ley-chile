@@ -1,0 +1,3 @@
+Por decreto MOP Nº 436, de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 4, superficie 808,12 m2, rol Nº 55-00004, comuna de Hijuelas, V Región, para la obra "Calle de Servicio Poniente, Sector Enlace Romeral - Punta Torrejón, Sector Punta Torrejón, Km. 0,00000 a Km. 0,60895" y se acordó el valor de indemnización con su propietaria Marisol Eliana Ortiz Solís y Otros, ascendente a la cantidad de $10.704.837.
+
+Fiscal del Ministerio de Obras Públicas.
