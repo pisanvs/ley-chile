@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 632, de 30 de octubre de 1995, se expropió el lote de terrero Nº 24, superficie 1.491 m2., rol de avalúo 426-18, comuna de Cauquenes, para la obra Camino Cauquenes límite Regional Quirihue, sector Cauquenes Límite Regional, y se acordó precio de indemnización con su propietario Alfonso Octavio Meyer Galleguillos, ascendente a la cantidad de $ 155.000.
+
+Fiscal del Ministerio de Obras Públicas.
