@@ -1,0 +1,3 @@
+Por Resolución N° 1.847, de 28 de octubre de 1996, de esta Subsecretaría de Pesca de Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por CULTIVOS YADRAN S.A., para un centro de cultivo ubicado en Isla San Pedro, Canal San Pedro, comuna de Quellón, provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos 78° y 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
