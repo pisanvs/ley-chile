@@ -1,0 +1,3 @@
+Por decreto MOP Nº 856 de 30 de septiembre de 2004, se expropió el lote de terreno Nº 42, superficie 90 m2, Rol Nº 1405-8, comuna de Antofagasta, II Región para la obra "Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Avda. Costanera" y se acordó el valor de indemnización con su propietario Rafael Hernández Romero, ascendente a la cantidad de $16.633.508.
+
+Fiscal del Ministerio de Obras Públicas.
