@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.047, de fecha 29 de septiembre del 2003, se expropió el lote de terreno Nº4, superficie 3.048 m², Rol Nº63-302, comuna de Lonquimay, IX Región para la obra "Camino Malalcahuello-Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Liucura-Paso Pino Hachado Km. 158.54000 a Km. 179,59862, tramo II Km. 164,75450 a Km. 179,59862, y se acordó el valor de indemnización con su propietario Rolando Eduardo Meliqueo Marchant, ascendente a la cantidad de $1.076.762.
+
+Fiscal del Ministerio de Obras Públicas.
