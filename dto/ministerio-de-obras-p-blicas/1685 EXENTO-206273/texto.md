@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.685 de fecha 29 de noviembre de 2002, se expropió el lote de terreno Nº 45-J, superficie 660,00 m2, rol de avalúo Nº 331-57, comuna de Río Negro, para la obra ''Camino Ruta U-72, Sector Osorno - Huilma, Km. 0,000 al Km. 18,100'', X Región y se acordó el valor de la indemnización con su propietaria Roswita Eggers Gantz, ascendente a la cantidad de $465.083.-
+
+Fiscal del Ministerio de Obras.
