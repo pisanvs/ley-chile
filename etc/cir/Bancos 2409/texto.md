@@ -7606,29 +7606,29 @@ Cuando al pactar un beneficio se reconozca su efecto respecto a períodos anteri
 
 Al cierre de cada mes las instituciones financieras deberán constituir provisiones por todas las obligaciones correspondientes a gastos que se encuentren pendientes de pago, con abono a una o más cuentas abiertas para tal efecto en la partida 3040.
 
-### VI. IMPUESTO A LA RENTA
+VI.- IMPUESTO A LA RENTA.
 
-### 1. Provisión de impuesto a la renta
+1.- Provisión de impuesto a la renta.
 
-1.1. Provisión del ejercicio anual
+Al cierre del ejercicio anual y provisionalmente
 
-Al cierre del ejercicio anual, las instituciones financieras deberán determinar el correspondiente resultado tributario y registrar, cuando corresponda, la respectiva provisión de impuesto a la renta.
+al término de cada mes (enero a noviembre), las instituciones financieras deberán determinar el correspondiente resultado tributario y registrar, cuando corresponda, la respectiva provisión de impuesto a la renta.
 
 Para cumplir con las disposiciones de la Ley sobre Impuesto a la Renta, las empresas deberán hacer todos los agregados y deducciones pertinentes a partir de la información que registre la contabilidad, manteniendo todos los antecedentes en archivos debidamente ordenados.
 
-La provisión para impuesto a la renta se registrará en la cuenta "Provisión para impuesto a la renta" de la partida 4120, con cargo a la cuenta "Impuesto a la renta" de la partida 6605.
+La provisión para impuesto a la renta se informará en la cuenta "Provisión para impuesto a la renta" de la partida 4115, o bien en la cuenta con el mismo nombre de la partida 2115 en caso de que el monto de los Pagos
 
-1.2. Provisión de periodos interinos.
+Provisionales Mensuales correspondientes al ejercicio fuere mayor que el importe de la provisión.
 
-En el proceso de cierre de cada mes, las instituciones financieras estimarán el importe del impuesto a la renta que correspondería pagar de acuerdo con los resultados tributarios acumulados y registrarán provisionalmente, cuando corresponda, el importe del impuesto que resulte de acuerdo con dicho cálculo, el que será revertido al mes siguiente, antes de efectuar la misma operación al tratarse de un período interino (cierres de los meses de enero a noviembre).
+Los pagos provisionales de impuestos se informarán en la cuenta "Pagos provisionales mensuales (PPM)" de la partida 4115 cuando la provisión de impuesto a la renta sea superior al monto de los PPM pagados, o en la cuenta con el mismo nombre de la partida 2115, en caso contrario.
 
-### 2. Pagos provisionales mensuales
+2.- Impuestos diferidos.
 
-Los pagos provisionales de impuestos se registrarán en la cuenta "Pagos provisionales mensuales (PPM)" de la partida 2120.
+Las instituciones financieras registrarán al cierre del ejercicio y provisionalmente al término de cada mes, los impuestos diferidos que se originen en las diferencias temporales que correspondan, de conformidad con lo señalado en el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
 
-### 3. Impuestos diferidos
+Los impuestos diferidos que corresponda contabilizar en el activo serán informados en la cuenta "Impuestos diferidos por cobrar", de la partida 2115, en tanto que los impuestos diferidos que corresponda contabilizar en el pasivo serán informados en la cuenta "Impuestos diferidos por pagar", de la partida 4115. Los saldos acreedores o deudores por amortizar de las diferencias de impuestos diferidos originadas en el primer ejercicio de aplicación del Boletín Técnico N° 60, se incluirán, respectivamente, en las cuentas "Cuenta complementaria de impuestos diferidos por cobrar" de la partida 2115 y "Cuenta complementaria de impuestos diferidos por pagar" de la partida 4115. La provisión que se constituya en caso de incertidumbre respecto a la realización del activo, se reflejará en la cuenta "Provisión sobre impuestos diferidos por cobrar" de la partida 2115.
 
-Las instituciones financieras no registrarán el efecto de los impuestos diferidos por las diferencias temporales, debiendo cargar a los resultados del ejercicio el costo tributario total en que incurran de acuerdo con las disposiciones de la Ley sobre Impuesto a la Renta.
+La pérdida o utilidad neta por impuestos se mostrará en la cuenta "Impuesto a la renta", de la partida 6605.
 
 ### VII. UTILIZACION DE CUENTAS DE ORDEN
 
@@ -16276,13 +16276,13 @@ Para los efectos de estas instrucciones se entiende por sociedad filial aquella 
 
 Las inversiones en sucursales en el exterior así como en empresas filiales y coligadas, se registrarán en el activo a valor patrimonial proporcional (VPP).
 
-Dicho método de contabilización se aplicará siguiendo los criterios descritos en los Boletines Técnicos N°s. 42 y 51 del Colegio de Contadores de Chile A.G., debiendo reconocerse proporcionalmente los resultados, las demás variaciones patrimoniales y los efectos de la homologación de criterios contables y conversión de monedas, como asimismo las utilidades no realizadas, cuando proceda.
+Dicho método de contabilización se aplicará siguiendo los criterios descritos en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G., debiendo reconocerse proporcionalmente los resultados, las demás variaciones patrimoniales y los efectos de la homologación de criterios contables y conversión de monedas, como asimismo las utilidades no realizadas, cuando proceda.
 
 En el caso de sucursales y de las sociedades sujetas a la fiscalización de esta Superintendencia, el cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión deberán efectuarse mensualmente de acuerdo con los resultados de las entidades al término del mes respectivo. Cuando se trate de sociedades coligadas que no estuvieren sujetas a la fiscalización de este Organismo, los ajustes se harán sobre la base de la última información disponible.
 
 La homologación de criterios contables que debe efectuarse en el caso de las sucursales y filiales, alcanza a los que, por norma de esta Superintendencia o, en su defecto, por aplicación de principios contables generalmente aceptados en Chile, debe aplicar la matriz, o bien, cuando sea pertinente, las sociedades chilenas sujetas a la fiscalización de esta Superintendencia. En ningún caso la constitución de provisiones voluntarias a que se refiere el artículo 66 de la Ley General de Bancos, puede ser considerada como un criterio contable de la matriz para estos efectos.
 
-Las diferencias que se generen en el valor de la inversión como consecuencia de la conversión a moneda chilena de los estados financieros de las sucursales y filiales en el exterior, serán registradas en la cuenta patrimonial "Ajuste acumulado por diferencia de cambio", de la partida 4320, de conformidad con lo descrito en el Boletín Técnico N° 51 antes mencionado.
+Las diferencias que se generen en el valor de la inversión como consecuencia de la conversión a moneda chilena de los estados financieros de las sucursales y filiales en el exterior, serán registradas en la cuenta patrimonial "Ajuste acumulado por diferencia de conversión, de la partida 4350, de conformidad con lo descrito en el Boletín Técnico N° 64 antes mencionado.
 
 El patrimonio contable de una sucursal según criterios contables chilenos, se registrará en la cuenta "Sucursales en el exterior" de la partida 2132. Las utilidades y las pérdidas se registrarán en las cuentas "Utilidades de sucursales en el exterior" de la partida 8320 y "Pérdidas de sucursales en el exterior", de la partida 6320.
 
@@ -16340,7 +16340,7 @@ Para acceder al procedimiento especial de autorización tratado en el numeral 3.
 
 1.- Criterios de consolidación.
 
-La consolidación se efectuará sobre la base de los criterios contables referidos a estados financieros consolidados descritos en los Boletines Técnicos N°s. 42 y 51 del Colegio de Contadores de Chile A.G., incluyendo a la matriz con sus sucursales y filiales del país y del exterior. Se excluyen de la consolidación, en consecuencia, las inversiones en otras sociedades que no sean filiales.
+La consolidación se efectuará sobre la base de los criterios contables referidos a estados financieros consolidados descritos en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G., incluyendo a la matriz con sus sucursales y filiales del país y del exterior. Se excluyen de la consolidación, en consecuencia, las inversiones en otras sociedades que no sean filiales.
 
 Los activos y pasivos que integrarán los estados financieros consolidados se ajustarán a los criterios establecidos en el Capítulo 18-1 para la publicación de estados financieros.
 
@@ -19602,7 +19602,7 @@ Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera v
 
 - "Equivalente reservas en M/E constituidas con utilidades remesables al exterior".
 
-- "Provisión de impuesto por remesas de utilidades", de la partida 4120, para reflejar el impuesto correspondiente a la utilidad remesada, en forma independiente del pago,provisional. Esta provisión se saldará al año siguiente, de acuerdo con la respectiva declaración de impuestos.
+- "Provisión de impuesto por remesas de utilidades", de la partida 4115 ó 2115, para reflejar el impuesto correspondiente a la utilidad remesada, en forma independiente del pago,provisional. Esta provisión se saldará al año siguiente, de acuerdo con la respectiva declaración de impuestos.
 
 En todo caso, se entiende que para efectuar la remesa se debe haber dado cumplimiento a las disposiciones tributarias mediante el pago provisional del impuesto correspondiente.
 
@@ -22262,7 +22262,7 @@ El balance general y el estado de resultados deberán acompañarse con las sigui
 
 - Provisiones.
 
-- Capital, reservas y resultado del ejercicio.
+- Patrimonio.
 
 - Inversiones.
 
@@ -22384,9 +22384,11 @@ Esta nota deberán presentarla solamente las instituciones financieras que tenga
 
 En esta nota se mostrará la composición y movimiento de las provisiones para cubrir riesgos de activos y la información relativa a las provisiones voluntarias, siguiendo para el efecto el modelo incluido en el Anexo N° 7 de este Capítulo.
 
-4.6.- Nota sobre capital, reservas y resultado del ejercicio.
+4.6.- Patrimonio.
 
-Esta nota deberá contener todos los antecedentes necesarios para entender la composición del Capital y Reservas de la institución y el destino de la utilidad del ejercicio o, si fuere el caso, la forma como se absorberá la pérdida.
+Esta nota estará compuesta por dos partes La primera se referirá al patrimonio contable y la segunda al capital básico y patrimonio efectivo en relación con las exigencias de la Ley General de Bancos sobre patrimonio mínimo.
+
+La primera parte de la nota deberá contener todos los antecedentes necesarios para entender la composición y el movimiento del capital pagado, reservas y las demás cuentas patrimoniales de la institución, y el destino de la utilidad del ejercicio o, si fuere el caso, la forma como se absorberá la pérdida.
 
 En general, con respecto al capital pagado, utilidades retenidas y otras reservas, se demostrará resumidamente el movimiento que tuvieron las cuentas patrimoniales en el ejercicio. Asimismo se informará, cuando corresponda, sobre los acuerdos de la junta de accionistas que tengan relación con esos cambios y aquellos acuerdos que incidirán o pueden incidir en el capital pagado y en las reservas que se muestran al cierre del ejercicio. En lo que se refiere a las utilidades del ejercicio, se señalarán, cuando proceda, las restricciones en el reparto de utilidades y los importes susceptibles de distribuirse como dividendos o de remesarse, sujetos a la decisión de la junta de accionistas o de la casa matriz, en su caso
 
@@ -22404,7 +22406,9 @@ e) Absorción de pérdidas contra capital y reservas; y,
 
 f) Cualquier otra información importante sobre esta materia.
 
-La nota deberá redactarse considerando el texto introductorio y cuadro demostrativo incluido en el Anexo N° 8 de este Capítulo.
+En la segunda parte de la nota se incluirá información acerca de los indicadores de Basilea, la determinación del capital básico y patrimonio efectivo para estos efectos, como asimismo el cómputo de los activos totales y su clasificación y ponderación por riesgo
+
+Ambas partes de esta nota deberán redactarse considerando el tipo de información y cuadros demostrativos incluidos en el Anexo N° 8 de este Capítulo.
 
 4.7. Nota de Inversiones.
 
@@ -22514,7 +22518,7 @@ Constituyen sociedades filiales para estos efectos, todas aquellas en las cuales
 
 1.- Bases de preparación.
 
-Los balances consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en los Boletines Técnicos N°s. 42 y 51 del Colegio de Contadores de Chile A.G.
+Los balances consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G.
 
 De acuerdo con lo establecido en los Capítulos 11-6 y 11-7 de esta Recopilación, las instituciones financieras deben efectuar una consolidación a una sola línea de sus subsidiarias, reconociendo en el método de contabilización del Valor Patrimonial Proporcional (VPP) tanto los efectos de los resultados no realizados como de la aplicación de los criterios seguidos por la matriz, cuando corresponda, conforme a criterios contables generalmente aceptados.
 
@@ -22592,7 +22596,7 @@ Los saldos correspondientes a ingresos por recuperación de colocaciones castiga
 
 Las demás reclasificaciones que deben efectuarse en relación con los importes que se muestran en las partidas del Sistema de Información, se indican en las instrucciones de la sección IV siguiente, en lo que toca a situaciones en que no bastaría la simple agrupación de saldos a nivel de partidas.
 
-IV PARTIDAS QUE DEBEN SUMARSE.
+IV.- PARTIDAS QUE DEBEN SUMARSE.
 
 .
 
@@ -22600,15 +22604,13 @@ OBSERVACIONES:
 
 [#A]: Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
 
-[#B]: Importe de las letras de crédito de propia emisión y su respectivo ajuste a valor de mercado, según lo indicado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
+[#B]: Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
 
-[#C]s Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
+[#C]: Ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 3 de las instrucciones sobre reagrupaciones de saldos.
 
-[#D]: Ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 3 de las instrucciones sobre reagrupaciones de saldos.
+INSTRUCCIONES:
 
-INSTRUCCIONES;
-
-1: Incluye solamente las provisiones por nesgo de crédito y riesgo-país de las colocaciones En el evento de que, por razones extraordinarias, se hubieren constituido provisiones especiales por operaciones interbancarias (no consideradas en el método de clasificación de cartera) o con pacto (incluidas en la partida 4205), o provisiones sobre inversiones financieras (partida 4210), los importes correspondientes se restarán en las correspondientes líneas del activo Del mismo modo, las provisiones por riesgo país que no correspondan a colocaciones, deben deducirse de los respectivos activos
+1: Incluye solamente las provisiones por riesgo de crédito y riesgo-país de las colocaciones En el evento de que, por razones extraordinarias, se hubieren constituido provisiones especiales por operaciones interbancarias (no consideradas en el método de clasificación de cartera) o con pacto (incluidas en la partida 4205), o provisiones sobre inversiones financieras (partida 4210), los importes correspondientes se restarán en las correspondientes lineas del activo Del mismo modo, las provisiones por riesgo país que no correspondan a colocaciones, deben deducirse de los respectivos activos
 
 2: Se entiende que los saldos con sucursales se encuentran en la partida 2105 o en la partida 4105, pero no en ambas
 
@@ -22644,41 +22646,77 @@ ANEXO N° 3
 
 PUBLICACIONES RESUMIDAS EN EL PERIODICO
 
-Para publicar en un periódico los estados financieros sin la totalidad de sus notas, las instituciones fiscalizadas deberán atenerse a lo siguiente:
+Para publicar en un periódico los estados financieros sin la totalidad de sus notas, las instituciones fiscalizadas deberán atenerse a lo siguiente.
 
 1.- Notas mínimas
 
-En la publicación deberán incluirse, al menos, las siguientes notas
+En la publicación deberán incluirse, al menos, las siguientes notas:
 
-a) "Principales criterios contables utilizados"
+a) "Principales criterios contables utilizados".
 
 b) "Cambios Contables".
 
-c) "Obligación subordinada con el Banco Central de Chile"
+c) "Operaciones con partes relacionadas".
 
-d) "Operaciones con partes relacionadas"
+d) "Inversiones en sociedades", cuando se incluya la participación en alguna filial.
 
-e) "Inversiones en sociedades", cuando se incluya la participación en alguna filial
+e) "Provisiones".
 
-f) "Provisiones"
+f) "Patrimonio".
 
-g) "Capital, reservas y resultado del ejercicio"
+g) "Operaciones con productos derivados".
 
-h) "Operaciones con productos derivados"
+h) "Otros ingresos de operación"; "Otros Gastos de Operación"; "Ingresos no Operacionales"; "Gastos no Operacionales" y nota sobre hechos relevantes, cuando la respectiva nota haya debido incluirse en los estados financieros de acuerdo con las instrucciones de este Capítulo .
 
-i) "Otros ingresos de operación", "Otros Gastos de Operación", "Ingresos no Operacionales", "Gastos no Operacionales" y nota sobre hechos relevantes, cuando la respectiva nota haya debido incluirse en los estados financieros de acuerdo con las instrucciones de este Capítulo.
-
-j) Notas requeridas por los auditores externos, cuando éstos estimen que dichas notas deben incluirse también en la publicación resumida de que se trata.
+i) Notas requeridas por los auditores externos, cuando éstos estimen que dichas notas deben incluirse también en la publicación resumida de que se trata.
 
 2.- Numeración de las notas y leyenda sobre la información no publicada.
 
 Las notas no se renumerarán, debiendo mantenerse en el Balance General y en el Estado de Resultados la mención a la cantidad de notas que realmente componen el estado financiero auditado.
 
-Al final de las notas que se publican se incluirá, en forma destacada, la siguiente leyenda
+Al final de las notas que se publican se incluirá, en forma destacada, la siguiente leyenda:
 
-(*) Incluir el número y enunciado de cada nota omitida.
+1) Incluir el número y enunciado de cada nota omitida.
+
+(2) En caso de que se mantengan los estados financieros en páginas Web, podrá indicarse también el sitio para la consulta.
 
 ANEXO N° 4
+
+MODELO DE NOTA SOBRE CRITERIOS CONTABLES APLICADOS.
+
+NOTA N°1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS
+
+a) Información proporcionada
+
+Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados (1).
+
+Las cifras correspondientes al ejercicio (2) se presentan actualizadas según la variación del IPC utilizada para efectos de corrección monetaria (%).
+
+b) Intereses y reajustes
+
+Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio.
+
+Sin embargo, en el caso de las colocaciones vencidas ./y de las vigentes con alto riesgo de irrecuperabilidad/ se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes (3).
+
+c) Corrección monetaria
+
+El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC) La aplicación de este mecanismo de ajuste significó un /cargo/abono/ neto a resultados ascendente a $ millones ($ millones en (2)).
+
+Las cuentas de resultado no se presentan corregidas monetariamente.
+
+d) Moneda extranjera
+
+Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $ por US$1 ($ por US$ 1 en (2)).
+
+El saldo de $ millones correspondiente a la /Utilidad/pérdida de cambio neta que se muestra en el Estado de Resultados, incluye tanto los resultados obtenidos en operaciones de cambio, como el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera (4).
+
+e) Inversiones Financieras
+
+Las inversiones en instrumentos financieros con mercado secundario y vencimiento a más de un año, se presentan ajustadas a su valor de mercado de acuerdo con instrucciones específicas de la Superintendencia de Bancos e Instituciones Financieras Dichas instrucciones exigen reconocer tales ajustes contra los resultados del ejercicio, salvo que se trate de cartera que tenga la cualidad de permanente, caso en que, sujeto a ciertos limites, se permite realizar tales ajustes directamente contra la cuenta patrimonial "Fluctuación de valores de inversiones financieras".
+
+La aplicación de dicho ajuste significó un /cargo/abono/ neto a los resultados del ejercicio ascendente a $ millones ($ millones en (2)), monto que se incluye en los resultados operacionales correspondientes a la /"Utilidad por intermediación de documentos"/" Pérdida por intermediación de documentos"/ El ajuste de la cartera permanente, por su parte, significó un cargo/abono neto contra patrimonio ascendente a $ millones.
+
+Las demás inversiones correspondientes a instrumentos financieros se presentan al valor de adquisición, más sus reajustes e intereses devengados.
 
 f) Activo fijo físico.
 
@@ -22798,27 +22836,19 @@ NOTA... - PROVISIONES.
 
 ANEXO N° 8
 
-MODELO DE NOTA SOBRE CAPITAL. RESERVAS Y RESULTADO DEL EJERCICIO.
+MODELO DE NOTA SOBRE PATRIMONIO.
 
-NOTA... - CAPITAL, RESERVAS Y RESULTADO DEL EJERCICIO.
+NOTA... - PATRIMONIO.
 
-.
-
-En el cuadro recién indicado deben incluirse sólo los conceptos en que corresponda consignar algún importe. A continuación de éste se agregará la información de que trata el numeral 4.6 del título III de este Capítulo.
-
-En el caso de las instituciones que mantienen obligación subordinada con el Banco Central de Chile y emisiones de acciones preferidas, la información relativa a los excedentes destinados a amortizar la obligación con el Instituto Emisor y de aquellos susceptibles de repartirse como dividendos se presentará de acuerdo con el siguiente texto:
-
-El excedente del ejercicio 199.. después de efectuada la provisión para impuestos, alcanzó a MM$.............de los cuales deben destinarse MM$................al pago de la obligación subordinada con el Banco Central de Chile y MM$ ......................para el eventual reparto como dividendo, de acuerdo con los términos de la Ley N° 18.401, a los propietarios de acciones preferentes o para capitalizarse si así lo determinan los accionistas propietarios de ..../esas/las respectivas senes de/.... acciones con preferencia.
-
-La parte del excedente que corresponde a las acciones preferentes ha sido calculada según las condiciones de preferencia acordadas por la junta de accionistas al aprobar la(s) respectiva(s) emisión(es) y equivale globalmente a un ....% de aquél según se muestra a continuación:
+A) PATRIMONIO CONTABLE.
 
 .
 
-(1): Porcentaje que representan las acciones de la serie en el total de acciones emitidas.
+B) Capital básico y patrimonio efectivo.
 
-(2): Porcentaje del derecho a dividendo sobre el excedente proporcional que le corresponde a las acciones de la serie.
+De acuerdo con lo dispuesto en la Ley General de Bancos, el capital básico mínimo de una institución financiera no puede ser inferior al 3% de los activos totales, a la vez que el patrimonio efectivo no puede ser inferior al 8% de sus activos ponderados por nesgo Al cierre de cada ejercicio, esta institución presenta la siguiente situación.
 
-(3): Porcentaje del excedente susceptible de repartirse como dividendo calculado sobre el excedente total del ejercicio.
+.
 
 ANEXO N° 9
 
@@ -22828,13 +22858,11 @@ NOTA...- INVERSIONES
 
 .
 
-INSTRUCCIONES:
-
-(1): La información debe ser consistente con lo expuesto en el Balance General, de manera que no se incluyen en este cuadro las letras de crédito de propia emisión.
-
 (2): Párrafo aplicable sólo si es relevante el importe potencial no demostrado en el balance general que pudiere representar la enajenación de esos bienes. El monto que se indique debe corresponder a un valor razonable de realización, basado en los precios que se obtendrían en transacciones libres entre partes independientes y de acuerdo con la situación actual del mercado.
 
 ANEXO N° 10
+
+MODELO DE NOTA DE VENCIMIENTO DE ACTIVOS Y PASIVOS.
 
 .
 
@@ -22850,15 +22878,15 @@ Demostración de los saldos de las colocaciones y otras operaciones de crédito:
 
 - El concepto "Otras operaciones de crédito" sigue el criterio de exposición del balance general.
 
-Demostración de los saldos de las inversiones financieras
+Demostración de los saldos de las inversiones financieras:
 
-- Las inversiones financieras se incluirán en dos grupos, según lo indicado al pié de la nota
+- Las inversiones financieras se incluirán en dos grupos, según lo indicado al pié de la nota.
 
-- Para aquellas denominadas "valores negociables" se incluirá su importe, neto de ajustes a valor de mercado, en la columna "Hasta un año".
+- Para la "cartera no permanente" se incluirá su importe, neto de ajustes a valor de mercado, en la columna "Hasta un año".
 
-- El monto de las inversiones clasificadas como "Instrumentos de inversión" debe, en cambio, distribuirse en las columnas considerando su valor contable y las fechas de vencimiento de los documentos
+- El monto de las inversiones clasificadas como "cartera permanente" debe, en cambio, distribuirse en las columnas considerando su valor contable y las fechas de vencimiento de los documentos.
 
-Información adicional
+Información adicional.
 
 La información de esta nota puede ampliarse con comentarios adicionales a los señalados en el modelo.
 
@@ -22896,7 +22924,7 @@ NOTA.... - CONTINGENCIAS, COMPROMISOS Y RESPONSABILIDADES.
 
 En todo caso, cuando existan otros saldos importantes y que sea pertinente incorporarlos en esta relación, deberán agregarse, utilizando el nombre que corresponda. Debe tenerse presente que, no obstante estar incluida la partida 9210 (Valores y letras en garantía), no debe considerarse en esta nota el monto de las garantías prendarias e hipotecarias (partida 9220).
 
-(2) Otras contingencias, compromisos o responsabilidades significativas, cuando proceda, según lo indicado en el numeral 4.13 del título III de este Capitulo.
+(2) Otras contingencias, compromisos o responsabilidades significativas, cuando proceda, según lo indicado en el numeral 4.11 del título III de este Capítulo.
 
 ANEXO N°14
 
