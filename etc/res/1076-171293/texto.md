@@ -1,0 +1,3 @@
+Por resolución Nº 1.076 de 15 de junio de 2000, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1.915 de 1995 y Nº 1.339 de 1996, de esta Subsecretaría, que autorizaron a SOCIEDAD VERDUGO SANTA MARIA LIMITADA, RUT Nº 78.590.100-2, domiciliada en Constitución, calle Pinto Nº 151, en virtud de lo dispuesto en las letras b) y d) del artículo 143 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
