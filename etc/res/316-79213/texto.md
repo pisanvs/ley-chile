@@ -1,0 +1,11 @@
+Por Resolución No. 316 de 09 de Abril de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las siguientes autorizaciones, de conformidad a lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción:
+
+- **a)** Resolución No. 1.110, de 1989, de esta Subsecretaría, que autorizó a Exportadora Cono Sur Limitada, R.U.T. No. 79.637.490-K, domiciliada en la ciudad de Santiago, para instalar y operar un establecimiento de Cultivo del recurso Ostión del Norte (Chlamys purpurata), en un sector de Bahía Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, en un área de 200.000 m2.
+
+- **b)** Resolución No. 607, de 1990, de esta Subsecretaría, que autorizó a don Jaime Alberto Mellado Provoste, R.U.T. No. 6.917.466-3, domiciliado en calle Angosta No. 19, La Herradura, Coquimbo, para instalar y operar un establecimiento de cultivo del recurso Ostión del Norte (Argopecten purpuratus), en Bahía Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, en un área de 300.000 m2
+
+- **c)** Resolución No. 844, de 1990, de esta Subsecretaría, por la cual se autorizó a don Herman Enrique Vergara Legua, R.U.T. No. 5.410.633-5, domiciliado en la ciudad de La Serena, calle Adolfo Ballas No. 875, Población Oscar Praguer, para instalar y operar un esablecimiento de cultivo del recurso Ostión del Norte (Argopecten purpuratus), en Bahía de Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, en un área total de 700.000 m2.
+
+- **d)** Resolución No. 310, de 1988 y No. 871, de 1990, ambas de esta Subsecretaría, la cual se autorizó a don Eduardo Maddaleno Herrera, R.U.T. No. 6.264.0375, domiciliado en Calle Almagro No. 242, La Serena. IV Región, para instalar y operar un establecimienlo de cultito del recurso Ostión del Norte (Chlamys purpurata), ubicado en un sector de Bahía Tongoy Comuna de Coquimbo Provincia de Elqui IV Región en un área de 200.000 m2.
+
+Valparaíso, 09 de Abril de 1992. Andrés Couve Rioseco, Subsecretario de Pesca.
