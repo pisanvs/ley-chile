@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 601, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 2 y 3, superficie 3.582 m2. y 1.985 m2. respectivamente, rol de avalúo 2087-64, comuna de Melipilla, para la obra Camino Autopista Santiago - San Antonio, Sector Enlace y Plaza de Peaje de Pomaire, y se acordó precio de indemnización con Grazioli Menossi Luisa, ascendente a la cantidad de $71.913.192.-
+
+Fiscal del Ministerio de Obras Públicas
