@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.029, de 25 de junio de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº38-A1 para la obra:
+
+''Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco. Sector: Km. 608,70000 AL Km. 609,40000'', Novena Región, que figura a nombre de Servanti Cazes Gabriel Roberto, rol de avalúo 698-6, comuna de Victoria, superficie 2.532 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, María Soledad Núñez Arroyo y Hugo Wilibaldo Repetto Vera, fijó con fecha 25 de abril de 2002, el valor provisional de la indemnización en la cantidad de $26.474.560.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
