@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº1.235 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 46-A y 47-A, para la obra: Camino Mejoramiento Ruta N-45, Sector Variante Cato, Tramo Km.
+
+0,00000 - Km. 4,15551, que figuran a nombre de Bosselin Ochsenius Carlos y Sepúlveda Clarkson Adriano, rol de avalúo 13209-13 y 2209-27, Comuna de Chillán, VIII Región, superficies 20 m2. y 67 m2. La comisión de peritos, fijó con fecha 31 de enero de 2002, en la cantidad de $65.000 para el lote Nº46-A y $302.750 para el lote Nº47-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
