@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.077, de 5 de agosto de 2004, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL PESQUERA CURAUMA LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta 68 Nº 1240, Sala de Proceso Nº 2, Placilla, Peñuelas, Valparaíso, V Región, donde podrá procesar, en las líneas de elaboración de Congelado y Fresco-Enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 5 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
