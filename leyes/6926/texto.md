@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Cañete contratar empréstito hasta por $ 70,000, a fin de destinarlo a la adquisición de un equipo sonoro para el Teatro Municipal.
