@@ -1,0 +1,3 @@
+Por R.M. (Ex.) Nº 59, de 15 de marzo de 2001, del Ministerio de Economía, Fomento y Reconstrucción, acógese parcialmente el recurso de reclamación interpuesto por PESQUERA AURO S.A. Considérese en la determinación de su límite máximo de captura, en las unidades de pesquerías que se indican, las siguientes capturas totales de la nave Albimer: a) Jurel, V a IX Regiones: enero 1998: 555 t.; b) Anchoveta, V a X Regiones: octubre 1998: 227 t.; noviembre 1998: 497 t.; marzo 2000: 1512 t.
+
+José de Gregorio Rebeco, Ministro de Economía, Fomento y Reconstrucción.
