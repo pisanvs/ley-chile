@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE "ADMINISTRADORA DE FONDOS DE INVERSION INVERFONDOS S.A."
+
+Certifico: Que por Resolución N° 318, de fecha 11 de diciembre de 1996, esta Superintendencia de Valores y Seguros aprobó una reforma de estatutos de la sociedad "Administradora de Fondos de Inversión Inverfondos S.A.", reducida a escritura pública el 15 de noviembre de 1996 ante el Notario de Santiago don Enrique Morgan Torres, con domicilio en Agustinas 1111, Santiago.
+
+Reforma consiste en sustituir el actual artículo 3° de los estatutos sociales por el siguiente: "El objeto de la sociedad es la administración de Fondos de Inversión de conformidad con las disposiciones de la Ley N° 18.815, como asimismo, la administración de Fondos de Inversión de Capital Extranjero de Riesgo, regulados por la Ley 18.657, la que ejercerá a nombre del o los Fondos de Inversión que administre y por cuenta y riesgo de sus aportantes y de acuerdo a las disposiciones establecidas en los reglamentos de las referidas leyes y los reglamentos internos que para cada Fondo de Inversión que administre apruebe la Superintendencia de Valores y Seguros".
+
+Santiago, 11 de diciembre de 1996.- Rodrigo O. Costa Aranda, Secretario General.
