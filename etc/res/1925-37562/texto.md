@@ -1,0 +1,3 @@
+Por Resolución N° 1.925 de 11 de noviembre de 1996 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura N° 91001137, presentada por MANUEL RODRIGO BARRIENTOS ALVARADO, para un centro de cultivo ubicado en Sector Tey, Estero Castro, Comuna de Castro, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
