@@ -1,0 +1,3 @@
+Por resolución Nº 2.149, de 7 de octubre de 2002, de esta Subsecretaría, autorízase a CONGELADOS PACIFICO S.A., RUT. Nº 94.599.000-7, domiciliada en Avenida Gran Bretaña Nº 955, Talcahuano, VIII Región, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Congelados del Pacífico Limitada, RUT. Nº 79.773.390-3, del mismo domicilio, mediante las resoluciones Nº 702 de 1988, Nº 279 y Nº 510, ambas de 1994, Nº 265 de 1995, Nº 231 y Nº 1.033, ambas de 1998, y Nº 1.706 de 1999, todas de esta Subsecretaría, en virtud de las escrituras públicas y demás documentos citados en Visto.
+
+Valparaíso, 7 de octubre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
