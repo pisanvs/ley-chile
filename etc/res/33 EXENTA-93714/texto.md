@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN LAS COMUNAS DE YERBAS BUENAS Y SAN JAVIER
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 33 de 06 de Enero de 1989, conforme Art. 5° Transitorio Código de Aguas, determinó derechos aprovechamiento aguas proporcionales que corresponden a sector excluido y sector expropiado predios "Santa María de Arquén conocido como El Colmenar", "San José de Arquén", "El Olivar" "Resto de Lisonjera" y "Fundo Santa Marta de Peñuelas", de las comunas de Yerbas Buenas y San Javier, VII Región; y derechos aprovechamiento aguas que corresponden a parcelas N°s. 1 a la 59, sitios 1 al 28 29A, 29B, del 30 al 53;.54A, 54B, del 56 al 86A, 86B, 87A y 87B, 88A, 88B, 88C, 89A, 89B, 90, 91A, 91B y del 92 al 102 y Reservas Cora N°s. 1, 2A, 2B, 3A, 3B, 4 y 5 del Proyecto de Parcelación "El Olivar", formado por predios señalados y otros. Los Derechos de Agua se extraen de los canales Gatica, Peñuelas, Olivar, Romero, San Lorenzo, Cunaco, Lobos, San Pablo, Unión Molino, San Ignacio, Esperanza. Derrames de los canales: Pando, Baeza y Norambuena. Publicación hecha conforme Art. 13 ley N° 18.377.
+
+Director Ejecutivo.
