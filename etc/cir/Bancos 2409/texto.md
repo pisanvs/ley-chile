@@ -3482,7 +3482,7 @@ En cambio, si se trata de personas diferentes que no son mandatarios o represent
 
 Para los vales a la vista son plenamente aplicables las normas sobre pérdida o deterioro de títulos de crédito de que trata el Capítulo 2-12 de esta Recopilación Actualizada de Normas.
 
-Por otra parte, estos documentos están sujetos a caducidad según las normas del D.L. N° 2.099, materia de que trata el Capítulo 2-13 de esta Recopilación.
+Por otra parte, estos documentos están sujetos a caducidad según las normas del Capítulo 2-13 de esta Recopilación.
 
 4.- Instrucciones contables.
 
@@ -4464,105 +4464,69 @@ MATERIA:
 
 CADUCIDAD DE DEPOSITOS O DE CUALQUIERA OTRA ACREENCIA EN FAVOR DE TERCEROS.
 
-### I. ACREENCIAS SUJETAS A CADUCIDAD
+1.- Acreencias sujetas a caducidad.
 
-El Decreto Ley N° 2.099, publicado en el Diario Oficial de 13 de enero de 1978, introdujo varias modificaciones de importancia a la legislación bancaria, entre las cuales se contempla el nuevo sistema que establece ese texto legal en materia de caducidad de depósitos, captaciones o cualquiera otra acreencia a favor de terceros derivada del giro financiero de la institución y se comprenden, además, expresamente, las provenientes de dividendos pagados a sus accionistas.
+El artículo 156 de la Ley General de Bancos establece la caducidad de depósitos, captaciones o cualquiera otra acreencia a favor de terceros derivada del giro de las instituciones financieras, comprendiendo, además, expresamente las provenientes de los dividendos a favor de sus accionistas, que se mantengan inmovilizadas o no hayan sido cobradas por los titulares o por sus herederos. Se entienden asimismo, incluidos en dichas acreencias las órdenes de pago emitidas en el país y pagaderas en el exterior, como también los sobrantes de caja.
 
-En efecto, el mencionado precepto legal, por una parte, establece la caducidad de todas las acreencias ya señaladas, con respecto a los dineros pertenecientes a depositantes o inversionistas, que se han mantenido inmovilizadas o no hayan sido cobradas por los titulares o por sus herederos y el entero de su importe enarcas fiscales; y por otra, dispone un régimen particular de publicidad de los créditos que resulten afectados por esta medida, encaminada a prevenir a sus dueños del riesgo de prescripción a que esos dineros quedan expuestos y a hacerles posible su reclamación mientras no se haya producido esta caducidad legal.
+La mencionada norma establece, además, la obligación de enterar el importe de esas acreencias en arcas fiscales y dispone un régimen particular de publicidad de los créditos que resulten afectados por esta medida, encaminada a prevenir a sus dueños del riesgo de extinción a que esos créditos quedan expuestos y a hacerles posible su reclamación mientras no se haya producido esta caducidad legal.
 
-Dicha norma dispone:
+2.- Excepciones.
 
-#### Artículo decimo
+No se aplica la caducidad antes señalada a las siguientes acreencias:
 
-cuarto. Las instituciones financieras estarán sujetas al siguiente sistema de caducidad de los depósitos, captaciones o de cualquier otra acreencia a favor de terceros derivada de su giro financiero, comprendidas expresamente las provenientes de dividendos pagados a sus accionistas:
+a) Depósitos y captaciones a plazo indefinido o con cláusula de renovación automática, incluidas las cuentas de ahorro;
 
-Transcurridos dos años desde que la cuenta respectiva no haya tenido movimiento no haya sido cobrada la acreencia por el titular, la institución financiera formará una lista en el mes de enero siguiente, la que fijará en su domicilio principal. Podrán omitirse de la lista las acreencias inferiores al equivalente de una Unidad de Fomento. Las que excedan individualmente del equivalente de cinco Unidades de Fomento deberán publicarse en el Diario Oficial en un día del mes de marzo siguiente.
+b) Boletas o depósitos de garantía;
 
-Transcurridos tres años desde el mes de enero en que corresponda formar la lista, la acreencia correspondiente caducará y se extinguirán a su respecto todos los derechos del titular, debiendo la institución financiera enterar las cantidades correspondientes, deducidos los gastos de publicación en su caso, en la Tesorería Comunal que corresponda a su domicilio principal.
+c) Sumas recibidas por cheques viajeros; y,
 
-No se aplicará lo dispuesto en este artículo:
+d) Los casos en que haya retención, prenda o embargo sobre los dineros correspondientes.
 
-a) A los depósitos y captaciones a plazo indefinido o con cláusula de renovación automática;
+3.- Listas de acreencias y sus publicaciones.
 
-b) A las boletas o depósitos de garantía;
+Las instituciones financieras confeccionarán, en el mes de enero de cada año, una lista de las acreencias afectas a caducidad que hayan cumplido dos años de inmovilización en el curso del año calendario inmediatamente anterior. Deberán fijar dicha lista en su domicilio principal.
 
-c) A las sumas recibidas por cheques viajeros, y
+El plazo de dos años a que se refiere el párrafo precedente, se cuenta desde la fecha en que la acreencia debió haber sido cobrada por su titular, o bien, desde la fecha en que se registró el último giro. En el caso de los dividendos, el plazo de caducidad comienza a regir desde la fecha en que el accionista haya tenido derecho a exigir su pago.
 
-d) En los casos en que haya retención, prenda o embargo sobre los dineros correspondientes.
+Podrán omitirse de la lista antes mencionada, aquellas acreencias cuyo importe sea inferior al equivalente de una unidad de fomento, calculado al valor que dicha unidad registre al 31 de diciembre inmediatamente anterior.
 
-Derógase el artículo 20 de la Ley N° 7.869, y cualquiera otra disposición que se refiera a la materia tratada en este artículo y que hubiere sido aplicable a las instituciones referidas en él".
+Por otra parte, las acreencias cuyo importe sea superior al equivalente de cinco unidades de fomento, calculado al valor de dicha unidad señalado en el párrafo precedente, deberán ser publicadas, además, en el Diario Oficial en un día del mes de marzo siguiente.
 
-Cabe recordar que dicho artículo 20 de la Ley N° 7.869, que fue derogado por la disposición legal de que se trata, establecía un sistema de prescripción especial de depósitos y otras acreencias inmovilizados en los bancos comerciales.
+Las acreencias que registren las instituciones financieras correspondientes a sobrantes de caja cuyo titular no pueda individualizarse, quedan exentas de las citadas publicaciones.
 
-Asimismo, el referido artículo 14 del D.L. N° 2.099, deroga en forma orgánica todas aquellas otras disposiciones que establezcan sistemas de caducidad distintos del señalado en ese precepto legal, que hubieran sido aplicables a las instituciones financieras. Por tal motivo, no rige con respecto a estas instituciones lo establecido en la Ley N° 6.057, sobre dividendos no cobrados de acciones de sociedades anónimas.
+4.- Plazo de caducidad.
 
-De lo expuesto y con las excepciones de que más adelante se hablará, se concluye que la caducidad establecida en el D.L. N° 2.099, es un sistema general aplicable a todas las instituciones financieras, en lo referente a los depósitos, captaciones o cualquiera otra acreencia a favor de terceros derivada de las operaciones autorizadas por las respectivas normas que las rigen. Quedan incluidos, por ende, los fondos inmovilizados que puedan existir por cuenta de terceros en el Banco Central, Banco del Estado, bancos comerciales, sociedades financieras y demás instituciones financieras.
+Las acreencias a favor de terceros, cualquiera que sea su monto, caducarán cuando hayan transcurrido tres años contados desde el día 31 del mes de enero en que corresponda formar la lista de que trata el primer párrafo del N° 3 precedente.
 
-El concepto indicado comprende, por lo tanto, la caducidad de los depósitos a la vista y a plazo y otras cuentas de depósito y en general todas las captaciones que pueden legalmente efectuar las instituciones financieras, además de cualquiera otra acreencia en favor de terceros, incluidas las órdenes de pago emitidas en el país y pagaderas en el exterior, entendiéndose por ella los derechos que pueden ejercer sobre los dineros que existen en su favor, entre los cuales quedan expresamente incluidos los dividendos pagados por la institución a sus accionistas y, por disposición de esta Superintendencia, los sobrantes de caja.
+Cumplido este plazo, se extinguen a su respecto todos los derechos de los titulares sobre esos importes.
 
-Debe dejarse en claro, desde ya, que la caducidad sólo afecta a las acreencias en dinero y, por lo tanto, quedan expresamente excluidos de ella todos aquellos otros valores que no tengan esa calidad.
+Por lo tanto, las mencionadas acreencias deben permanecer inmovilizadas durante un período total de cinco años para que caduquen los derechos de sus titulares.
 
-Procede, ahora, establecer las condiciones que exige esta disposición legal, para determinar cuáles son los fondos que pueden ser objeto de caducidad. En realidad, puede decirse que quedan afectas a esa disposición todas las cuentas de depósito que no hayan tenido movimiento o cualquiera otra cuenta que represente acreencias de terceros, sea cual fuere su monto, cuando en el curso de cinco años consecutivos no hayan experimentado variaciones cuantitativas por concepto de abonos o retiros efectuados o percibidos por sus titulares. El término de caducidad exigido no puede ser inferior a cinco años si se considera que la ley contempla un lapso de dos años para los efectos de incluir una determinada acreencia en la lista a que se hizo mención anteriormente y un período de tres años contado desde el mes de enero en que corresponde formar la lista para que se extingan los derechos que tiene su titular sobre ella.
+5.- Forma de confeccionar las listas.
 
-En el caso de las acreencias, puede precisarse que el plazo de caducidad se cuenta desde la fecha en que debió haber sido cobrada por su titular. Lo mismo ocurre en el caso del pago de dividendos, en que el plazo de caducidad comienza a regir desde la fecha en que el accionista tuvo derecho a exigir su pago.
-
-Excepciones.
-
-En general, puede decirse que la caducidad se aplica en aquellos casos en que el acreedor por ignorancia, olvido o simplemente por abandono dejó de percibir una determinada acreencia. Por este motivo, se han establecido en la disposición legal en comento ciertas excepciones a dicho sistema en que no se cumple la condición ya señalada.
-
-Las excepciones son las siguientes:
-
-a) Los depósitos y captaciones a plazo indefinido o con cláusula de renovación automática, que comprenden los instrumentos de captación cualquiera sea su naturaleza, denominados a plazo indefinido, o a plazo renovable, esto es,aquellos en que no se ha estipulado una fecha de vencimiento determinada o existe cláusula de renovación automática.
-
-b) Las boletas o depósitos de garantía salvo en caso de que se les haya fijado una fecha de vencimiento a contar desde la cual regirá la fecha de caducidad respectiva.
-
-c) Las sumas recibidas por cheques viajeros dadas las características propias de estos documentos contenidas en el artículo 40 de la Ley sobre Cuentas Corrientes Bancarias y Cheques; y
-
-d) Los casos en que haya retención, prenda o embargo sobre los dineros correspondientes, puesto que no pudiendo los titulares de esos bienes disponer libremente de ellos, su falta de reclamación, se ha debido a fuerza mayor y no invalida sus derechos sobre los mismos.
-
-En conclusión, las acreencias que cada institución debe analizar con el fin de clasificar separadamente aquellas que quedan sujetas a caducidad legal, son todas aquéllas que figuren ya sea en cuentas corrientes, ya en depósitos a la vista o a plazo, en Varios Acreedores, Letras por Pagar, Giros Telegráficos,Operaciones Pendientes (sobrantes de caja), etc., esto es, en la totalidad delas cuentas susceptibles de registrar acreencias en dinero pertenecientes a terceros, salvo las que provengan de las excepciones señaladas.
-
-### II. DE LAS PUBLICACIONES Y DE LA CADUCIDAD
-
-El nuevo texto legal ha introducido variaciones sustanciales en esta materia, ya que para estos efectos se atiende ahora fundamentalmente a la cuantía de las acreencias que se determinan según el valor que tenga la Unidad de Fomento al 31 de diciembre del año en que se cumpla el período de dos años en que la acreencia se encuentre inmovilizada.
-
-El sistema establecido es el siguiente:
-
-a) Acreencias cuyo valor sea igual o superior al equivalente de una Unidad de Fomento. En este caso, transcurrido el período de dos años, la institución financiera formará una lista en el mes de enero siguiente, la que deberá fijar en su domicilio principal, es decir, en su casa matriz.
-
-b) Acreencias cuyo valor exceda del equivalente de cinco Unidades de Fomento. Estas acreencias además de haber sido incorporadas en la lista a que se refiere la letra anterior deberán publicarse en el Diario Oficial en un día del mes de marzo siguiente.
-
-c) Acreencias cuyo valor sea inferior al equivalente a una Unidad de Fomento. En este evento, la ley faculta a la institución financiera para omitirlas de la lista a que se refiere la letra a).
-
-Esta Superintendencia, por su parte, dispone, en relación con los sobrantes de caja, que éstos quedan exentos de la obligación de publicar a que se refieren las letras a) y b) anteriores.
-
-### III. CONFECCION DE LA NOMINA
-
-Tanto la lista que corresponde fijar en el domicilio principal de la institución financiera, como la publicación que debe efectuarse en el Diario Oficial, en su caso, deberá confeccionarse en la siguiente forma:
+Tanto la lista que corresponde fijar en el domicilio principal de la institución financiera, como la publicación que debe efectuarse en el Diario Oficial, en su caso, deberá confeccionarse de la siguiente forma:
 
 a) Fecha de origen de la acreencia.
 
-b) Apellido paterno, apellido materno y nombre completo del acreedor. En el caso de sociedades, compañías, comunidades o empresas deberán individualizarse en la forma en que aparezcan registradas en el Banco.
+b) Apellido paterno, apellido materno y nombre del acreedor. Las personas jurídicas deberán ser individualizadas en la forma que aparezcan registradas en el Banco.
 
-c) Ultima dirección del acreedor, conocida del Banco.
+c) Ultima dirección del acreedor conocida del Banco.
 
-d) Procedencia del crédito.
+d) Origen del crédito.
 
-e) Monto del crédito que se indicará por su valor exacto.
+e) Monto exacto del crédito.
 
-f) La respectiva publicación deberá iniciarse con el nombre y domicilio de la institución respectiva y a continuación y en caracteres destacados se estampará el siguiente subtítulo:
+La respectiva publicación deberá iniciarse con el nombre y domicilio de la institución respectiva y a continuación se estampará el siguiente subtítulo en caracteres destacados:
 
-"Nómina de depósitos o acreencias sujetos a la caducidad establecida en el artículo 14 del D.L. N° 2.099, por haber permanecido inmovilizado".
+"Nómina de depósitos y otras acreencias sujetos a la caducidad establecida en el artículo 156 de la Ley General de Bancos, por haber permanecido inmovilizados".
 
-### IV. NORMAS CONTABLES
+6.- Normas contables.
 
-Transcurridos dos años desde que la cuenta respectiva no haya tenido movimiento o no haya sido cobrada la acreencia, sus saldos se traspasarán en el mes de enero siguiente, a una cuenta que se denominará "Saldos inmovilizados art. 14 D.L. 2.099", la que se incluirá en la partida 3010 "Otros saldos acreedores a la vista", del formulario MB1.
+Transcurridos dos años desde la fecha en que la cuenta respectiva no haya tenido movimiento o la acreencia no haya sido cobrada, sus saldos se traspasarán, en el mes de enero siguiente, a la cuenta "Saldos inmovilizados art. 156 LGB", de la partida 3010.
 
-### V. TRASPASO DE ESTOS VALORES
+7.- Traspaso de estos valores al Fisco de Chile.
 
-El artículo 14 del D.L. N° 2.099, dispone que transcurrido el plazo de caducidad, esto es, tres años computados desde el mes de enero en que corresponda formar la lista, la acreencia correspondiente caducará y se extinguirán a su respecto todos los derechos del titular, por lo que la institución financiera deberá enterar las cantidades correspondientes deducidos los gastos de publicación, en su caso, en la Tesorería Comunal que corresponda a su domicilio principal.
-
-Los desembolsos a que se refiere esta norma son aquellos que deriven de los gastos que origine la publicación en el Diario Oficial de las acreencias sujetas a esa obligación.
+Cumplido el plazo de tres años señalado en el N° 4 precedente, las instituciones financieras deberán enterar el importe de las acreencias caducadas en la Tesorería Comunal que corresponda a su domicilio principal, previa deducción de los gastos inherentes a la publicación en el Diario Oficial indicada en el N° 3 de este Capítulo.
 
 CAPITULO 2-15 (Bancos)
 
