@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 97, de fecha 18 de octubre del año 2002, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo en Servicios Tecnológicos Silvoagropecuarios, Comercialización y Turismo Valle Florido Limitada, de nombre de fantasía "Cooperativa Valle Florido Ltda.", de la comuna de Olmué, Región de Valparaíso, en los términos que da cuenta el Acta Constitutiva protocolizada ante el Notario de la ciudad de Viña del Mar, Luis Enrique Tavolari Oliveros, bajo el Nº 18-2002, de fecha 12 de septiembre del año 2002.
+
+Por orden del señor Subsecretario, Raúl Oliva Camadro, Jefe Departamento de Cooperativas.
