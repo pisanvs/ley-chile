@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.627, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 62, superficie 400 m², rol de avalúo en trámite, comuna de Navidad, VI Región, para la obra ''Camino Ruta G-880, Sector Rapel - Navidad - La Boca, Km. 0.000,00 al 16.680,00'' y se acordó el valor de indemnización con su propietario don Luis Horacio Leiva Menares, ascendente a la cantidad de $859.600.-
+
+Fiscal del Ministerio de Obras Públicas.
