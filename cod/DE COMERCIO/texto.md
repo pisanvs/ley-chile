@@ -794,6 +794,18 @@ El acreedor que tiene varios créditos vencidos contra un deudor, puede imputar 
 
 El comerciante que al recibir una cuenta paga o da finiquito, no pierde el derecho de solicitar la rectificación de los errores, omisiones, partidas duplicadas u otros vicios que aquélla contenga.
 
+#### Artículo 123
+
+<!-- parte:8725901 -->
+
+Derogado.
+
+#### Artículo 124
+
+<!-- parte:8725902 -->
+
+Derogado.
+
 #### Artículo 125
 
 <!-- parte:8725350 -->
@@ -4689,6 +4701,974 @@ El contrato de cambio es una convención por la cual una de las partes se obliga
 <!-- parte:8725811 -->
 
 El contrato de cambio se perfecciona por el solo consentimiento de las partes acerca de la cantidad que debe ser pagada, el precio de ella, el lugar y época del pago y puede ser probado por cualquiera de los medios que admite este Código.
+
+#### Artículo 622
+
+<!-- parte:8725903 -->
+
+Las personas que pueden obligarse pueden celebrar el contrato de cambio por su propia cuenta o por la de un tercero que las haya autorizado especialmente al efecto.
+
+> **Nota.** El N° 5 del Artículo 108 de la Ley 18092, publicada el 14.01.1982, deroga el inciso segundo de la presente norma.
+
+#### Artículo 623
+
+<!-- parte:8725904 -->
+
+Derogado.
+
+#### Artículo 624
+
+<!-- parte:8725905 -->
+
+Derogado.
+
+#### Artículo 625
+
+<!-- parte:8725906 -->
+
+Derogado.
+
+#### Artículo 626
+
+<!-- parte:8725907 -->
+
+Derogado.
+
+#### Artículo 627
+
+<!-- parte:8725908 -->
+
+Derogado.
+
+#### Artículo 628
+
+<!-- parte:8725909 -->
+
+Derogado.
+
+#### Artículo 629
+
+<!-- parte:8725910 -->
+
+Derogado.
+
+#### Artículo 630
+
+<!-- parte:8725911 -->
+
+Derogado.
+
+#### Artículo 631
+
+<!-- parte:8725912 -->
+
+Derogado.
+
+#### Artículo 632
+
+<!-- parte:8725913 -->
+
+Derogado.
+
+#### Artículo 633
+
+<!-- parte:8725914 -->
+
+Derogado.
+
+#### Artículo 634
+
+<!-- parte:8725915 -->
+
+Derogado.
+
+#### Artículo 635
+
+<!-- parte:8725916 -->
+
+Derogado.
+
+#### Artículo 636
+
+<!-- parte:8725917 -->
+
+Derogado.
+
+#### Artículo 637
+
+<!-- parte:8725918 -->
+
+Derogado.
+
+#### Artículo 638
+
+<!-- parte:8725919 -->
+
+Derogado.
+
+#### Artículo 639
+
+<!-- parte:8725920 -->
+
+Derogado.
+
+#### Artículo 640
+
+<!-- parte:8725921 -->
+
+Derogado.
+
+#### Artículo 641
+
+<!-- parte:8725922 -->
+
+Derogado.
+
+#### Artículo 642
+
+<!-- parte:8725923 -->
+
+Derogado.
+
+#### Artículo 643
+
+<!-- parte:8725924 -->
+
+Derogado.
+
+#### Artículo 644
+
+<!-- parte:8725925 -->
+
+Derogado.
+
+#### Artículo 645
+
+<!-- parte:8725926 -->
+
+Derogado.
+
+#### Artículo 646
+
+<!-- parte:8725927 -->
+
+Derogado.
+
+#### Artículo 647
+
+<!-- parte:8725928 -->
+
+Derogado.
+
+#### Artículo 648
+
+<!-- parte:8725929 -->
+
+Derogado.
+
+#### Artículo 649
+
+<!-- parte:8725930 -->
+
+Derogado.
+
+#### Artículo 650
+
+<!-- parte:8725931 -->
+
+Derogado.
+
+#### Artículo 651
+
+<!-- parte:8725932 -->
+
+Derogado.
+
+#### Artículo 652
+
+<!-- parte:8725933 -->
+
+Derogado.
+
+#### Artículo 653
+
+<!-- parte:8725934 -->
+
+Derogado.
+
+#### Artículo 654
+
+<!-- parte:8725935 -->
+
+Derogado.
+
+#### Artículo 655
+
+<!-- parte:8725936 -->
+
+Derogado.
+
+#### Artículo 656
+
+<!-- parte:8725937 -->
+
+Derogado.
+
+#### Artículo 657
+
+<!-- parte:8725938 -->
+
+Derogado.
+
+#### Artículo 658
+
+<!-- parte:8725939 -->
+
+Derogado.
+
+#### Artículo 659
+
+<!-- parte:8725940 -->
+
+Derogado.
+
+#### Artículo 660
+
+<!-- parte:8725941 -->
+
+Derogado.
+
+#### Artículo 661
+
+<!-- parte:8725942 -->
+
+Derogado.
+
+#### Artículo 662
+
+<!-- parte:8725943 -->
+
+Derogado.
+
+#### Artículo 663
+
+<!-- parte:8725944 -->
+
+Derogado.
+
+#### Artículo 664
+
+<!-- parte:8725945 -->
+
+Derogado.
+
+#### Artículo 665
+
+<!-- parte:8725946 -->
+
+Derogado.
+
+#### Artículo 666
+
+<!-- parte:8725947 -->
+
+Derogado.
+
+#### Artículo 667
+
+<!-- parte:8725948 -->
+
+Derogado.
+
+#### Artículo 668
+
+<!-- parte:8725949 -->
+
+Derogado.
+
+#### Artículo 669
+
+<!-- parte:8725950 -->
+
+Derogado.
+
+#### Artículo 670
+
+<!-- parte:8725951 -->
+
+Derogado.
+
+#### Artículo 671
+
+<!-- parte:8725952 -->
+
+Derogado.
+
+#### Artículo 672
+
+<!-- parte:8725953 -->
+
+Derogado.
+
+#### Artículo 673
+
+<!-- parte:8725954 -->
+
+Derogado.
+
+#### Artículo 674
+
+<!-- parte:8725955 -->
+
+Derogado.
+
+#### Artículo 675
+
+<!-- parte:8725956 -->
+
+Derogado.
+
+#### Artículo 676
+
+<!-- parte:8725957 -->
+
+Derogado.
+
+#### Artículo 677
+
+<!-- parte:8725958 -->
+
+Derogado.
+
+#### Artículo 678
+
+<!-- parte:8725959 -->
+
+Derogado.
+
+#### Artículo 679
+
+<!-- parte:8725960 -->
+
+Derogado.
+
+#### Artículo 680
+
+<!-- parte:8725961 -->
+
+Derogado.
+
+#### Artículo 681
+
+<!-- parte:8725962 -->
+
+Derogado.
+
+#### Artículo 682
+
+<!-- parte:8725963 -->
+
+Derogado.
+
+#### Artículo 683
+
+<!-- parte:8725964 -->
+
+Derogado.
+
+#### Artículo 684
+
+<!-- parte:8725965 -->
+
+Derogado.
+
+#### Artículo 685
+
+<!-- parte:8725966 -->
+
+Derogado.
+
+#### Artículo 686
+
+<!-- parte:8725967 -->
+
+Derogado.
+
+#### Artículo 687
+
+<!-- parte:8725968 -->
+
+Derogado.
+
+#### Artículo 688
+
+<!-- parte:8725969 -->
+
+Derogado.
+
+#### Artículo 689
+
+<!-- parte:8725970 -->
+
+Derogado.
+
+#### Artículo 690
+
+<!-- parte:8725971 -->
+
+Derogado.
+
+#### Artículo 691
+
+<!-- parte:8725972 -->
+
+Derogado.
+
+#### Artículo 692
+
+<!-- parte:8725973 -->
+
+Derogado.
+
+#### Artículo 693
+
+<!-- parte:8725974 -->
+
+Derogado.
+
+#### Artículo 694
+
+<!-- parte:8725975 -->
+
+Derogado.
+
+#### Artículo 695
+
+<!-- parte:8725976 -->
+
+Derogado.
+
+#### Artículo 696
+
+<!-- parte:8725977 -->
+
+Derogado.
+
+#### Artículo 697
+
+<!-- parte:8725978 -->
+
+Derogado.
+
+#### Artículo 698
+
+<!-- parte:8725979 -->
+
+Derogado.
+
+#### Artículo 699
+
+<!-- parte:8725980 -->
+
+Derogado.
+
+#### Artículo 700
+
+<!-- parte:8725981 -->
+
+Derogado.
+
+#### Artículo 701
+
+<!-- parte:8725982 -->
+
+Derogado.
+
+#### Artículo 702
+
+<!-- parte:8725983 -->
+
+Derogado.
+
+#### Artículo 703
+
+<!-- parte:8725984 -->
+
+Derogado.
+
+#### Artículo 704
+
+<!-- parte:8725985 -->
+
+Derogado.
+
+#### Artículo 705
+
+<!-- parte:8725986 -->
+
+Derogado.
+
+#### Artículo 706
+
+<!-- parte:8725987 -->
+
+Derogado.
+
+#### Artículo 707
+
+<!-- parte:8725988 -->
+
+Derogado.
+
+#### Artículo 708
+
+<!-- parte:8725989 -->
+
+Derogado.
+
+#### Artículo 709
+
+<!-- parte:8725990 -->
+
+Derogado.
+
+#### Artículo 710
+
+<!-- parte:8725991 -->
+
+Derogado.
+
+#### Artículo 711
+
+<!-- parte:8725992 -->
+
+Derogado.
+
+#### Artículo 712
+
+<!-- parte:8725993 -->
+
+Derogado.
+
+#### Artículo 713
+
+<!-- parte:8725994 -->
+
+Derogado.
+
+#### Artículo 714
+
+<!-- parte:8725995 -->
+
+Derogado.
+
+#### Artículo 715
+
+<!-- parte:8725996 -->
+
+Derogado.
+
+#### Artículo 716
+
+<!-- parte:8725997 -->
+
+Derogado.
+
+#### Artículo 717
+
+<!-- parte:8725998 -->
+
+Derogado.
+
+#### Artículo 718
+
+<!-- parte:8725999 -->
+
+Derogado.
+
+#### Artículo 719
+
+<!-- parte:8726000 -->
+
+Derogado.
+
+#### Artículo 720
+
+<!-- parte:8726001 -->
+
+Derogado.
+
+#### Artículo 721
+
+<!-- parte:8726002 -->
+
+Derogado.
+
+#### Artículo 722
+
+<!-- parte:8726003 -->
+
+Derogado.
+
+#### Artículo 723
+
+<!-- parte:8726004 -->
+
+Derogado.
+
+#### Artículo 724
+
+<!-- parte:8726005 -->
+
+Derogado.
+
+#### Artículo 725
+
+<!-- parte:8726006 -->
+
+Derogado.
+
+#### Artículo 726
+
+<!-- parte:8726007 -->
+
+Derogado.
+
+#### Artículo 727
+
+<!-- parte:8726008 -->
+
+Derogado.
+
+#### Artículo 728
+
+<!-- parte:8726009 -->
+
+Derogado.
+
+#### Artículo 729
+
+<!-- parte:8726010 -->
+
+Derogado.
+
+#### Artículo 730
+
+<!-- parte:8726011 -->
+
+Derogado.
+
+#### Artículo 731
+
+<!-- parte:8726012 -->
+
+Derogado.
+
+#### Artículo 732
+
+<!-- parte:8726013 -->
+
+Derogado.
+
+#### Artículo 733
+
+<!-- parte:8726014 -->
+
+Derogado.
+
+#### Artículo 734
+
+<!-- parte:8726015 -->
+
+Derogado.
+
+#### Artículo 735
+
+<!-- parte:8726016 -->
+
+Derogado.
+
+#### Artículo 736
+
+<!-- parte:8726017 -->
+
+Derogado.
+
+#### Artículo 737
+
+<!-- parte:8726018 -->
+
+Derogado.
+
+#### Artículo 738
+
+<!-- parte:8726019 -->
+
+Derogado.
+
+#### Artículo 739
+
+<!-- parte:8726020 -->
+
+Derogado.
+
+#### Artículo 740
+
+<!-- parte:8726021 -->
+
+Derogado.
+
+#### Artículo 741
+
+<!-- parte:8726022 -->
+
+Derogado.
+
+#### Artículo 742
+
+<!-- parte:8726023 -->
+
+Derogado.
+
+#### Artículo 743
+
+<!-- parte:8726024 -->
+
+Derogado.
+
+#### Artículo 744
+
+<!-- parte:8726025 -->
+
+Derogado.
+
+#### Artículo 745
+
+<!-- parte:8726026 -->
+
+Derogado.
+
+#### Artículo 746
+
+<!-- parte:8726027 -->
+
+Derogado.
+
+#### Artículo 747
+
+<!-- parte:8726028 -->
+
+Derogado.
+
+#### Artículo 748
+
+<!-- parte:8726029 -->
+
+Derogado.
+
+#### Artículo 749
+
+<!-- parte:8726030 -->
+
+Derogado.
+
+#### Artículo 750
+
+<!-- parte:8726031 -->
+
+Derogado.
+
+#### Artículo 751
+
+<!-- parte:8726032 -->
+
+Derogado.
+
+#### Artículo 752
+
+<!-- parte:8726033 -->
+
+Derogado.
+
+#### Artículo 753
+
+<!-- parte:8726034 -->
+
+Derogado.
+
+#### Artículo 754
+
+<!-- parte:8726035 -->
+
+Derogado.
+
+#### Artículo 755
+
+<!-- parte:8726036 -->
+
+Derogado.
+
+#### Artículo 756
+
+<!-- parte:8726037 -->
+
+Derogado.
+
+#### Artículo 757
+
+<!-- parte:8726038 -->
+
+Derogado.
+
+#### Artículo 758
+
+<!-- parte:8726039 -->
+
+Derogado.
+
+#### Artículo 759
+
+<!-- parte:8726040 -->
+
+Derogado.
+
+#### Artículo 760
+
+<!-- parte:8726041 -->
+
+Derogado.
+
+#### Artículo 761
+
+<!-- parte:8726042 -->
+
+Derogado.
+
+#### Artículo 762
+
+<!-- parte:8726043 -->
+
+Derogado.
+
+#### Artículo 763
+
+<!-- parte:8726044 -->
+
+Derogado.
+
+#### Artículo 764
+
+<!-- parte:8726045 -->
+
+Derogado.
+
+#### Artículo 765
+
+<!-- parte:8726046 -->
+
+Derogado.
+
+#### Artículo 766
+
+<!-- parte:8726047 -->
+
+Derogado.
+
+#### Artículo 767
+
+<!-- parte:8726048 -->
+
+Derogado.
+
+#### Artículo 768
+
+<!-- parte:8726049 -->
+
+Derogado.
+
+#### Artículo 769
+
+<!-- parte:8726050 -->
+
+Derogado.
+
+#### Artículo 770
+
+<!-- parte:8726051 -->
+
+Derogado.
+
+#### Artículo 771
+
+<!-- parte:8726052 -->
+
+Derogado.
+
+#### Artículo 772
+
+<!-- parte:8726053 -->
+
+Derogado.
+
+#### Artículo 773
+
+<!-- parte:8726054 -->
+
+Derogado.
+
+#### Artículo 774
+
+<!-- parte:8726055 -->
+
+Derogado.
+
+#### Artículo 775
+
+<!-- parte:8726056 -->
+
+Derogado.
+
+#### Artículo 776
+
+<!-- parte:8726057 -->
+
+Derogado.
+
+#### Artículo 777
+
+<!-- parte:8726058 -->
+
+Derogado.
+
+#### Artículo 778
+
+<!-- parte:8726059 -->
+
+Derogado.
+
+#### Artículo 779
+
+<!-- parte:8726060 -->
+
+Derogado.
+
+#### Artículo 780
+
+<!-- parte:8726061 -->
+
+Derogado.
+
+#### Artículo 781
+
+<!-- parte:8726062 -->
+
+Derogado.
+
+#### Artículo 781 bis
+
+<!-- parte:8726063 -->
+
+Derogado.
 
 ## Título XII
 
