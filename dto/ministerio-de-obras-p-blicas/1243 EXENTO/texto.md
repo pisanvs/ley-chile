@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.243, de fecha 31 de Agosto de 2001, se expropiaron los lotes de terreno Nºs.62, 63 y 64, superficies 812 M2, 201 M2 y 1.913 M2, respectivamente, rol de avalúo 536,39, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno-Crucero, Sector T-90-U y T-933, Tramo Km.0,00000 al 20,90000" y se acordó el valor de indemnización con su propietario don Luis Alberto Martínez Moreira, ascendente a la cantidad de $2.122.022.-
+
+Fiscal del Ministerio de Obras Públicas.
