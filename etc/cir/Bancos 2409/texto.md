@@ -5662,9 +5662,9 @@ Los intereses y reajustes devengados por colocaciones vigentes que se encuentren
 
 financiera fiscalizada.
 
-b) Colocaciones clasificadas en categoría "C" por más de un año.
+b) Colocaciones clasificadas en categoría "C" por más de un año o reclasificadas desde la categoría "D".
 
-Las entidades financieras suspenderán la contabilización del devengo de los intereses y reajustes de créditos vigentes, cuando éstos hayan completado un período superior a un año clasificados en categoría "C". En el caso de créditos que se reclasifiquen de categoría "D" a categoría "C", el período señalado se computará considerando también el tiempo en que los créditos se hayan mantenido clasificados en la categoría "D".
+Las entidades financieras suspenderán la contabilización del devengo de los intereses y reajustes de créditos vigentes, cuando éstos hayan completado un período superior a un año clasificados en categoría "C". En el caso de créditos que se reclasifiquen de categoría "D" a categoría "C", se mantendrá la suspensión a que estaban afectos por el hecho de encontrarse en aquella categoría.
 
 c) Colocaciones vigentes otorgadas bajo condiciones especiales.
 
@@ -5724,17 +5724,17 @@ A partir de la fecha de vencimiento se suspenderá la contabilización del deven
 
 Cuando se trate de préstamos en letras de crédito o de otro tipo de préstamos pagaderos en cuotas, la suspensión del devengo de reajustes e intereses posteriores al vencimiento, a que se refiere el numeral precedente, rige también para la cuota que no haya sido pagada, aplicándose a los intereses o reajustes de ésta que se devengan a contar de la fecha en que ella debió ser pagada.
 
-Para el resto del crédito se seguirá el criterio de suspender la contabilización de los reajustes e intereses, a contar del momento en que alguna parcialidad o cuota morosa permanezca 90 días impaga, aunque ella se componga solamente de intereses. Dicha suspensión durará desde esa fecha hasta que se paguen todas las cuotas o parcialidades que estuvieren en mora, oportunidad en que se reconocerán contablemente los reajustes e intereses devengados y no pagados que se encontraban suspendidos, sin perjuicio de lo dispuesto en los numerales 3.1.1 a 3.1.4 de este capítulo.
+Para el saldo no vencido se seguirá el criterio de suspender la contabilización de los reajustes e intereses, a contar del momento en que alguna parcialidad o cuota morosa permanezca 90 días impaga, aunque ella se componga solamente de intereses. Dicha suspensión durará desde esa fecha hasta que se paguen o renegocien todas las cuotas o parcialidades que estuvieren en mora, oportunidad en que se reconocerán contablemente los reajustes e intereses devengados y no pagados que se encontraban suspendidos, sin perjuicio de lo dispuesto en los numerales 3.1.1 a 3.1.4 de este capítulo.
 
 3.2.3 Otras instrucciones.
 
-Las disposiciones de los numerales 3.2.1 y 3.2.2 precedentes, son aplicables tanto a las colocaciones como a las inversiones financieras total o parcialmente impagas. Los intereses y reajustes de que se trata no se reflejarán en las cuentas de orden a que se refiere el numeral 3.1.3 de este capítulo
+Las disposiciones de los numerales 3.2.1 y 3.2.2 precedentes, son aplicables tanto a las colocaciones como a las inversiones financieras total o parcialmente impagas. Los intereses y reajustes de que se trata no se reflejarán en las cuentas de orden a que se refiere el numeral 3.1.3 de este capítulo.
 
-### 4. Percepción de reajustes e intereses suspendidos
+### 4. Percepción o capitalización de reajustes e intereses suspendidos
 
-Los reajustes e intereses suspendidos se reconocerán en las cuentas de resultados en el momento en que sean efectivamente percibidos.
+Los reajustes e intereses suspendidos se reconocerán en las cuentas de resultados en el momento en que sean efectivamente percibidos o cuando sean capitalizados por renegociación de los respectivos créditos, debiendo constituirse, cuando corresponda, las provisiones sobre cartera renegociada según lo dispuesto en el N° 2 del título I del Capítulo 8-29 de esta Recopilación.
 
-Al recibirse el pago de intereses o reajustes cuyo devengo se encontraba registrado en cuentas de orden, según lo indicado en el numeral 3.1.3 de este Capítulo, se revertirán los respectivos importes en esas cuentas.
+Los intereses y reajustes que sean reconocidos en cuentas de resultado con motivo de su pago o capitalización, deberán revertirse de las cuentas de orden en las que se encontraban registrados, a lo menos al término del mes en que se haya procedido a su pago o capitalización.
 
 5. Información sobre las operaciones que generan los respectivos intereses y reajustes.
 
@@ -10252,17 +10252,15 @@ correspondiente cuenta de colocaciones vigentes.
 
 1.3.3. Reingreso a cartera vigente de créditos pagaderos en cuotas traspasados a cartera vencida por contener una cláusula de aceleración.
 
-Los importes correspondientes a los créditos pagaderos en cuotas que se hubieren traspasado a cartera vencida por contener una cláusula de aceleración, podrán considerarse como renegociados cuando se convenga con el deudor que, previo pago de las cuotas en mora, continúe sirviendo el préstamo en la forma originalmente pactada. En este caso, los créditos podrán reingresarse a cartera
-
-vigente una vez que se paguen todas las cuotas morosas.
+Los importes correspondientes a los créditos pagaderos en cuotas que se hubieren traspasado a cartera vencida por contener una cláusula de aceleración, podrán considerarse como renegociados cuando se convenga con el deudor que, previo pago o renegociación de las cuotas en mora, continúe sirviendo el préstamo en la forma originalmente pactada. En este caso, los créditos podrán reingresarse a cartera vigente una vez que se paguen o renegocien todas las cuotas morosas.
 
 1.3.4. Registro contable de los créditos vencidos renegociados.
 
-Los créditos renegociados se contabilizarán en subcuentas que, con el nombre de "Créditos renegociados provenientes de cartera vencida", se demostrarán en las partidas que correspondan del rubro colocaciones del MB1, de acuerdo a la naturaleza del crédito de que se trate. Sin embargo, cuando según lo previsto en el numeral 1.3.2 precedente, se reingresen a cartera vigente los saldos de créditos que se hubieren traspasado a cartera vencida por la causal establecida en el tercer párrafo del numeral 1.1 de este Capítulo, el reingreso se efectuará por los montos respectivos, a la cuenta en que originalmente se encontraban registrados dichos saldos.
+Los créditos renegociados se contabilizarán en subcuentas que, con el nombre de "Créditos renegociados provenientes de cartera vencida", se demostrarán en las partidas que correspondan del rubro colocaciones del MB1, de acuerdo a la naturaleza del crédito de que se trate. Sin embargo, cuando según lo previsto en el numeral 1.3.3 precedente, se reingresen a cartera vigente los saldos de créditos que se hubieren traspasado a cartera vencida por la causal establecida en el tercer párrafo del numeral 1.1 de este Capítulo, el reingreso se efectuará por los montos respectivos, a la cuenta en que originalmente se encontraban registrados dichos saldos.
 
 Los créditos se reingresarán a la cartera vigente junto con los intereses y reajustes que se hubieren suspendido por las causales señaladas en el N° 3 del Capítulo 7-1 de esta Recopilación, los cuales se reconocerán en las respectivas cuentas de resultados y se considerarán capitalizados.
 
-Junto con el reingreso de los créditos renegociados a la cartera vigente, se deberán constituir, cuando corresponda, las provisiones por cartera renegociada de acuerdo con las instrucciones sobre la materia.
+Junto con el reingreso de los créditos renegociados a la cartera vigente, se deberán constituir, cuando corresponda, las provisiones por cartera renegociada de acuerdo con las instrucciones del N° 2 del título I del Capítulo 8-29 de esta Recopilación.
 
 ### 2. Inversiones financieras vencidas
 
@@ -10824,13 +10822,17 @@ concurrencia del saldo deudor que demuestren esas cuentas. En consecuencia, los 
 
 2.1. Exigencia de provisiones sobre créditos renegociados.
 
-Además de la provisión global sobre la cartera de colocaciones y de las provisiones individuales para créditos vencidos, los bancos y sociedades financieras que renegocien algún crédito, deben constituir una provisión por el equivalente al 100% de la diferencia que pudiere producirse entre el valor al cual estuviere registrado dicho crédito en el activo antes de la renegociación y el mayor valor al cual quedare contabilizado una vez que ésta se haya efectuado, como ocurre normalmente cuando se capitalizan reajustes e intereses.
+Además de la provisión global sobre la cartera de colocaciones y de las provisiones individuales para créditos vencidos, los bancos y sociedades financieras que renegocien algún crédito o cuota después de transcurridos 90 días desde su vencimiento, deberán constituir una provisión equivalente al 100% de la diferencia entre el valor al cual estuviere registrado el crédito en el activo antes de la renegociación y el mayor valor al cual quedare contabilizado una vez que ésta se haya efectuado.
 
-Estas provisiones deberán mantenerse íntegramente hasta que esta Superintendencia examine en sus inspecciones habituales, la clasificación de los créditos renegociados e informe un nuevo riesgo para la cartera. Una vez examinada la clasificación podrán liberarse dichas provisiones, sin perjuicio de enterar, cuando corresponda, la provisión necesaria para cubrir la nueva pérdida
+La misma provisión deberá constituirse, cualquiera sea la oportunidad en que se efectúe la renegociación, cuando el crédito renegociado se encuentre en alguna de las situaciones que determinan la suspensión de intereses y reajustes antes del vencimiento, señaladas en el numeral 3.1.1 del Capítulo 7-1 de esta Recopilación.
 
-estimada de la cartera, derivada de esa clasificación.
+Para los efectos de constituir las provisiones transitorias de que se trata, se considerarán también los otorgamientos de nuevos créditos, ya sea al mismo deudor o a un tercero, que se destinen a pagar algún crédito que se encuentre en alguna de las situaciones señaladas en los párrafos precedentes.
 
-Quedan excluidos de estas disposiciones los créditos de consumo y los préstamos hipotecarios para la vivienda de que tratan los números 3 y 4 del título II del Capítulo 8-28 de esta Recopilación, respectivamente, y cualquier otro crédito cuyo saldo después de la renegociación sea igual o inferior al equivalente de 1.000 unidades de fomento.
+Estas provisiones deberán mantenerse íntegramente hasta que esta Superintendencia examine en sus inspecciones habituales, la clasificación de los créditos renegociados e informe un nuevo riesgo para la cartera. Una vez examinada la clasificación podrán liberarse todas las provisiones sobre créditos renegociados constituidas hasta la fecha a la que esté referida la evaluación
+
+efectuada por esta Superintendencia, sin perjuicio de enterar, cuando corresponda, la provisión necesaria para cubrir la nueva pérdida estimada de la cartera, derivada de esa clasificación.
+
+Quedan excluidos de estas disposiciones los créditos de consumo y los préstamos hipotecarios para la vivienda de que tratan los números 3 y 4 del título II del Capítulo 8-28 de esta Recopilación, respectivamente. Asimismo, quedarán exentos los créditos renegociados cuyo saldo después de la renegociación sea igual o inferior al equivalente de 1.000 unidades de fomento y aquellos que se destinen a pagar obligaciones que se encuentren en las situaciones antes señaladas, cuando no superen ese monto equivalente.
 
 2.2. Cómputo de las provisiones.
 
@@ -10900,15 +10902,17 @@ La contabilización, en este caso, se ceñirá a lo dispuesto en el numeral prec
 
 En los casos en que se castiguen créditos en moneda extranjera que cuenten con acceso autorizado al mercado de divisas, las instituciones bancarias procederán a registrar la venta de la moneda extranjera en la forma que lo hacen habitualmente, con la diferencia de que la moneda chilena será debitada a la correspondiente provisión individual que se hubiere constituido y, si ésta fuere insuficiente, se recurrirá, por la parte que faltare, a la provisión global para la cartera de colocaciones.
 
-3.5. Recuperación o renegociación de créditos castigados.
+3.5.- Recuperación de créditos castigados.
 
-Las sumas que se recuperen con posterioridad al castigo de un crédito, ya sea a través de pagos o bien mediante renegociaciones, deben considerarse como ingreso en el momento de su recuperación. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" que se incluirá en la partida 7910, o la cuenta del mismo nombre de la Partida 8105 del formulario MR1, según se trate de créditos castigados en el mismo ejercicio o en años anteriores.
+Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas. Para ese efecto se utilizará la cuenta "Recuperación de colocaciones e inversiones castigadas" que se incluirá en la partida 7910, o la cuenta del mismo nombre de la Partida 8105 del MR1, según se trate de créditos castigados en el mismo
 
-Al mismo tiempo, deberá revertirse el monto que corresponda, registrado en las cuentas "Colocaciones castigadas" y "Responsabilidad por operaciones castigadas" de las partidas 9600 y 9900, respectivamente, del formulario MB1.
+ejercicio o en años anteriores.
+
+Estas recuperaciones, cuando corresponda, darán origen a ajustes en las cuentas "Colocaciones castigadas" y "Responsabilidad por operaciones castigadas" de las partidas 9600 y 9900, respectivamente, del MB1".
 
 ### 4. Efecto tributario de provisiones sobre colocaciones
 
-De conformidad con lo dispuesto en el N° 4 del artículo 31 de la Ley sobre Impuesto a la Renta y con las instrucciones que impartió esta Superintendencia en conjunto con el Servicio de Impuestos Internos mediante Circular N° 2.002-450 de 6 de abril de 1984, las provisiones individuales que se constituyan sobre la cartera vencida, de acuerdo con lo instruido en el numeral 1.2 de este título, son deducibles como gastos para efectos tributarios. Como ya se indicó, estas provisiones deben corresponder sólo a créditos que se encuentren registrados en la cartera vencida de acuerdo con las instrucciones de esta Superintendencia,
+De conformidad con lo dispuesto en el N° 4 del artículo 31 de la Ley sobre Impuesto a la Renta, las provisiones individuales que se constituyan sobre la cartera vencida, de acuerdo con lo instruido en el numeral 1.2 de este título, seguirán siendo deducibles como gastos para efectos tributarios. Como ya se indicó, estas provisiones deben corresponder sólo a créditos que se encuentren registrados en la cartera vencida de acuerdo con las instrucciones de esta Superintendencia,
 
 incluidos los intereses por cobrar vencidos, y alcanzarán hasta el 100% de la parte o del total vencido del respectivo crédito, que no se encuentre amparado por garantías reales.
 
@@ -10970,7 +10974,7 @@ Haber: - La cuenta de activo que corresponda.
 
 - "Responsabilidad por operaciones condonadas" de la partida 9900 del formulario MB1.
 
-Al mismo tiempo, cuando se condonen colocaciones vencidas se deberán revertir las provisiones individuales que se hubieren constituido, con abono a la cuenta "Provisión por inversiones financieras riesgosas" de la partida 6120 y cuando proceda deberán revertirse, también, los asientos que se hubieren efectuado por los intereses y reajustes reconocidos sólo en cuentas de orden de acuerdo con las instrucciones del Capítulo 7-1 de esta Recopilación.
+Además, cuando se condonen colocaciones vencidas deberán liberarse las provisiones individuales que se hubieren constituido y, cuando proceda, deberán revertirse también los asientos que se hubieren efectuado por los intereses y reajustes reconocidos sólo en cuentas de orden de acuerdo con las instrucciones del Capítulo 7-1 de esta Recopilación.
 
 Los importes que se registren en las cuentas "Colocaciones condonadas" e "Inversiones condonadas" de la partida 9601 y en la cuenta "Responsabilidad por operaciones condonadas", de la partida 9900, se mantendrán en dichas cuentas hasta el cierre del ejercicio siguiente a aquel en que se efectúe la condonación. En consecuencia, en la apertura del ejercicio subsiguiente se
 
@@ -11011,16 +11015,6 @@ correspondientes al formulario M41 y a los archivos D05 y D06.
 Los montos registrados en las cuentas de orden "Colocaciones castigadas" e "Inversiones castigadas", de la partida 9600 del formulario MB1, deberán corresponder a las operaciones informadas a esta Superintendencia como créditos directos castigados, deducidas sus aclaraciones. En consecuencia, dichos saldos se revertirán cuando existan recuperaciones, condonaciones u otros hechos que signifiquen eliminar todo o parte de los respectivos créditos de la información que las instituciones financieras envían a este Organismo.
 
 Por otra parte, sólo deben informarse a esta Superintendencia como créditos castigados y registrarse en las referidas cuentas de orden, aquellos que no fueron pagados a su vencimiento, existiendo un título ejecutivo válido.
-
-### 5. Disposiciones transitorias
-
-Las instituciones financieras tendrán plazo hasta el 30 de abril de 1989 para contabilizar en cuentas de orden los montos correspondientes a créditos castigados, según lo dispuesto en el numeral precedente.
-
-Dentro del mismo plazo, las instituciones financieras deberán registrar en las cuentas "Operaciones condonadas" y "Responsabilidad por operaciones condonadas", de las partidas 9601 y 9900, todas las operaciones que se hubieren condonado en
-
-el curso del presente año y en el ejercicio anterior.
-
-Los montos que se mantienen registrados en la cuenta "Documentos y operaciones castigadas" de la partida 1405 del formulario MB1 y en "Inversiones financieras castigadas" de la partida 1745 del mismo formulario, para registrar los castigos efectuados, por el valor simbólico de $1, se saldarán con cargo a una cuenta de la partida 6140 o de la partida 6150 del formulario MR1, según se trate de colocaciones o de inversiones financieras castigadas.
 
 CAPITULO 9-1 (Bancos y Financieras)
 
