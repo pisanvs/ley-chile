@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.756, de 28 de abril del 2000, se expropió el lote de terreno Nº64, superficie 180 m², rol de avalúo 5472-4, comuna de La Granja, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Antonio Agüero Barrías, ascendente a la cantidad de $18.546.411.-
+
+Fiscal del Ministerio de Obras Públicas.
