@@ -844,69 +844,7 @@ MATERIA:
 
 ACCIONISTAS. DISPOSICIONES VARIAS.
 
-I.- CUMPLIMIENTO DEL ARTICULO 54 DE LA LEY N° 18.045 SOBRE MERCADO DE VALORES.
-
-La Ley N° 18.045 de Mercado de Valores, establece en su artículo 54 que, "cuando una o más personas directamente o a través de una sociedad filial o coligada pretendan obtener el control de una sociedad, sometida a la fiscalización de la Superintendencia, deberán informar previamente tal propósito al público en general. En dicha información se indicará a lo menos el precio y condiciones de la negociación a efectuarse, cualquiera sea la forma de adquisición de las acciones, comprendiéndose incluso la que pudiere realizarse por suscripciones directas o transacciones privadas".
-
-De acuerdo con lo dispuesto en el citado precepto legal, la adquisición de las acciones que signifique obtener el control de una sociedad sólo se podrá perfeccionar después de transcurridos cinco días hábiles desde la fecha en que se publique el referido aviso. Conforme a lo señalado en el artículo 97 de esa Ley de Mercado de Valores, se entiende que obtiene el control de una sociedad toda persona o grupo de personas con acuerdo de actuación conjunta que, directamente o a través de otras personas naturales o jurídicas, participa en su propiedad y tiene poder para asegurar la mayoría de los votos en las juntas de accionistas y elegir la mayoría de los directores, o influir decisivamente en la administración.
-
-Para los efectos del cumplimiento de lo dispuesto en el Artículo 54 y de acuerdo con lo establecido en el artículo 69 de esa misma Ley, este Organismo imparte las siguientes instrucciones que son concordantes con las que dio a conocer sobre la misma materia, la Superintendencia de Valores y Seguros a las sociedades anónimas sometidas a su fiscalización:
-
-1.- Disposiciones de carácter general.
-
-El cumplimiento de la publicación que ordena la norma establecida en el artículo 54 de la Ley N° 18.045 sobre Mercado de Valores, compete a las personas que directa o indirectamente pretendan, a través de la adquisición de acciones, asumir el control de una sociedad anónima. En el caso de los bancos y de las sociedades financieras constituidos como sociedades anónimas en el país, esa disposición es plenamente aplicable a las personas que, por la vía indicada, procuren controlar la empresa.
-
-Si bien la información antedicha debe ser proporcionada a la Superintendencia y publicada por las personas interesadas en tomar el control de la sociedad, compete a la propia sociedad y a su administración, velar porque esas personas cumplan con la norma legal que establece la mencionada obligación.
-
-2.- Información que debe proporcionarse.
-
-Las personas que pretendan adquirir una parte importante del capital social de un banco o sociedad financiera, con el objeto de obtener su control, deberán comunicar su intención a esta Superintendencia, a lo menos diez días hábiles bancarios antes de la fecha en que se proponga realizar la operación.
-
-La información mínima que debe entregarse sobre la materia, será la siguiente:
-
-a) Nombre completo y RUT de los adquirentes. En caso de tratarse de una persona jurídica, además será necesario incluir los nombres de las principales personas naturales que directa o indirectamente sean socios o accionistas del informante.
-
-b) Razón social de la empresa cuyas acciones se desea adquirir.
-
-c) Cantidad de las acciones que se pretende adquirir y precio que se pagaría por ellas.
-
-d) Porcentaje que alcanzarían las acciones que se adquirirían, sobre el capital suscrito de la sociedad cuyo control se desea asumir.
-
-e) Participación - en caso de conocerse - que alcanzaría el o los informantes, en el capital, directa o indirectamente, una vez que se materialice la transacción que se informa.
-
-3.- Publicación del aviso en un diario de circulación nacional.
-
-La misma información que se entregue a esta Superintendencia, deberán publicarla bajo su responsabilidad, las personas que proyecten realizar esa adquisición de acciones.
-
-Esa publicación deberá realizarse, de acuerdo con la pertinente disposición legal, mediante un aviso notorio en un diario de circulación nacional, por lo menos, con cinco días de anticipación a la fecha en que se proyecte realizar la adquisición de las acciones.
-
-En el aviso que se publique deberán destacarse, tanto el nombre del banco o sociedad financiera de que se trate, como la palabra "control". Al respecto, se sugiere que tales avisos lleven por título "Control de ...(nombre de la sociedad)", seguido luego del nombre completo del o de los posibles adquirentes, con la demás información indicada en el número dos precedente y la que se indica en las letras siguientes del mismo número.
-
-Deberá también hacerse mención que tal aviso se publica de acuerdo a lo dispuesto en el artículo 54 de la Ley N° 18.045.
-
-4.- Información que deben proporcionar las entidades financieras.
-
-Las instituciones financieras, cuyas acciones cambien de propietario y como consecuencia de ello, cambie el control sobre la propiedad de la empresa, deben comunicar a esta Superintendencia la ocurrencia de ese hecho, tan pronto como tomen conocimiento de él. Simultáneamente con informar de ello a este Organismo, deberán también hacerlo a las Bolsas de Valores.
-
-La información que se entregue para estos efectos, consistirá en la individualización de los respectivos accionistas, según la forma indicada en la letra a) del N° 2 de este título; número de acciones adquiridas y precio pagado por ellas; proporción que las acciones adquiridas representan en el capital social de la empresa; y, fecha en que los adquirentes asumieron el control de la sociedad o adquirieron las acciones.
-
-5.- Control que deben ejercer las entidades financieras sobre el cumplimiento de estas disposiciones.
-
-Corresponde a las mismas instituciones financieras afectadas por el cambio de propiedad, velar porque las personas adquirentes de las acciones, hayan dado cumplimiento a las instrucciones que se imparten en las presentes normas y, por ende, al artículo 54 de la Ley N° 18.045. Para los efectos señalados, el banco o la sociedad financiera exigirá al momento de anotar la adquisición de las correspondientes acciones, que el comprador o los compradores le acompañen un ejemplar del diario en que fue publicado el aviso a que se refiere el N° 3 de este título y una copia de la carta que dichas personas debieron enviar a esta Superintendencia, de acuerdo con lo señalado en el N° 2 precedente.
-
-En el caso que no se hubiere cumplido con alguno de los requisitos indicados, no podrá darse curso al registro de la transacción, sin que previamente los interesados procedan a cumplir las mencionadas exigencias, debiendo en tal caso, observarse los plazos correspondientes.
-
-6.- Publicación de estas transacciones como hechos esenciales.
-
-Las transacciones de que se trata pueden constituir un hecho esencial para la institución financiera afectada, como se establece en el Capítulo 18-10 de esta Recopilación y como tal, debe ser publicado, de acuerdo con lo dispuesto en esas instrucciones y en cumplimiento a lo establecido en los artículos 9° y 10 de la Ley N° 18.045.
-
-Debe entenderse que esta publicación es sin perjuicio de las que deben efectuar oportunamente los propios adquirentes de las acciones, en virtud de las presentes disposiciones.
-
-II.- CUMPLIMIENTO DEL ARTICULO 12 DE LA LEY N° 18.045 SOBRE MERCADO DE VALORES.
-
-La exigencia contenida en el artículo 12 de la Ley N° 18.045 será cumplida por las instituciones financieras enviando la información correspondiente a la Superintendencia de Valores y Seguros conforme a lo señalado en el título I del Capítulo 18-11 de esta Recopilación Actualizada de Normas, y remitiendo la misma información a las bolsas de valores, dentro del plazo señalado en dicho Capítulo.
-
-III.- ACTAS DE LAS JUNTAS DE ACCIONISTAS. SU ENVIO A LA SUPERINTENDENCIA.
+I.- ACTAS DE LAS JUNTAS DE ACCIONISTAS. SU ENVIO A LA SUPERINTENDENCIA.
 
 Las instituciones financieras deberán enviar a este Organismo una copia simple de las actas de las juntas ordinarias y extraordinarias de accionistas, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de celebración de la respectiva Junta.
 
@@ -914,25 +852,11 @@ En caso de que el acta sea objeto de modificaciones, se comunicarán a esta Supe
 
 Lo anterior es sin perjuicio, naturalmente, de la obligación de enviar, además, en aquellos casos en que la ley lo exige, dichas actas reducidas a escritura pública.
 
-IV.- COMPUTO DEL PLAZO A QUE ALUDE EL ARTICULO 62 DE LA LEY N° 18.046.
+II.- COMPUTO DEL PLAZO A QUE ALUDE EL ARTICULO 62 DE LA LEY N° 18.046.
 
 El artículo 62 de la Ley N° 18.046 dispone que solamente podrán participar en las Juntas y ejercer sus derechos de voz y voto los titulares de acciones inscritas en el Registro de Accionistas con cinco días de anticipación a aquel en que haya de celebrarse la respectiva Junta. El artículo 104 del Reglamento aclara que el plazo es de días hábiles.
 
 Para computar los plazos hacia atrás no existe norma legal que señale la forma de hacerlo, pero esta Superintendencia siempre ha entendido que debe contarse dicho plazo desde el día anterior a aquel en que se ha de realizar la actuación correspondiente, en este caso, la Junta de Accionistas. Si la Junta se va a realizar, por ejemplo, un lunes 20, el plazo de cinco días se contará desde el sábado 18 hacia atrás y corresponderá, por lo tanto, el día martes 14, salvo que exista otro feriado intermedio. En ese caso, los inscritos hasta ese día 14 inclusive, tendrán derecho a votar.
-
-V.- PREVENCION DE IRREGULARIDADES EN EL TRASPASO DE ACCIONES.
-
-1.- Procedimiento para cursar traspasos efectuados fuera de bolsa.
-
-A fin de precaver eventuales irregularidades en las operaciones efectuadas fuera de bolsa, en que los títulos de las acciones se encuentren en poder de la sociedad emisora por no haber sido retirados por los accionistas, las instituciones financieran deberán:
-
-a) Abstenerse de cursar los traspasos de acciones efectuados fuera de bolsa en que los títulos de las acciones no hayan sido previamente retirados y acompañados al traspaso, salvo que la institución compruebe la autenticidad de la venta.
-
-b) Mantener las medidas de seguridad que sean pertinentes para resguardar el interés de sus accionistas, entre las cuales están: i) verificar la firma del accionista contenida en el traspaso, esté o no firmado ante notario, con la que figure en sus registros; ii) llevar un registro con los datos de la persona que presenta los traspasos, el cual deberá contener, a lo menos, los siguientes datos: nombres, apellidos, domicilio, teléfono, firma y fotocopia de la cédula de identidad; y iii) contactarse con el accionista vendedor, en la medida que sea posible, a fin de confirmar la venta. En igual forma se deberá actuar frente a los poderes para vender que no estén otorgados por escritura pública.
-
-2.- Comunicación a esta Superintendencia.
-
-En caso de que se incurriera en un acto fraudulento en el traspaso de acciones, los hechos deberán ser informados a esta Superintendencia a más tardar el día hábil bancario siguiente a que se tome conocimiento de la irregularidad.
 
 CAPITULO 1-4 (Bancos y Financieras)
 
@@ -22408,9 +22332,9 @@ INFORMACION A LA SUPERINTENDENCIA DE VALORES Y SEGUROS.
 
 I.- INFORMACION DE TRANSACCIONES DE ACCIONISTAS.
 
-El artículo 12 de la Ley N° 18.045 dispone que las personas que directamente o a través de otras personas naturales o jurídicas posean el 10% o más del capital suscrito de una sociedad cuyas acciones se encuentren inscritas en el Registro de Valores, así como los directores y gerentes de esas sociedades, cualquiera sea la cantidad de acciones que posean, deben informar a la Superintendencia de Valores y Seguros y a las bolsas de valores en que dichas acciones se coticen, toda transacción que de ellas efectúen, sean adquisiciones o enajenaciones, dentro de los cinco días siguientes al de la respectiva operación.
+El artículo 12 de la Ley N° 18.045 modificado por el artículo 1° de la Ley N° 19.705 dispone que las personas que directamente o a través de otras personas naturales o jurídicas posean el 10% o más del capital suscrito de una sociedad cuyas acciones se encuentren inscritas en el Registro de Valores, así como los directores y gerentes de esas sociedades, cualquiera sea la cantidad de acciones que posean, deben informar a la Superintendencia de Valores y Seguros y a las bolsas de valores en que dichas acciones se coticen, toda transacción que de ellas efectúen, sean adquisiciones o enajenaciones, dentro de los dos días hábiles siguientes al de la respectiva operación.
 
-De acuerdo con lo señalado precedentemente y de conformidad con lo dispuesto en el artículo 69 de la ley en comento, se establece que los bancos y sociedades financieras cuyas acciones se encuentren incorporadas al Registro de Valores que lleva esta Superintendencia deben dar cumplimiento, en todo lo que les sea aplicable, a las instrucciones impartidas por la Superintendencia de Valores y Seguros acerca de esas materias mediante su Circular N° 585 del 29 de enero de 1986, de manera que la información que entreguen a esa Superintendencia sea concordante y armónica con la que es proporcionada por las demás empresas emisoras de valores de oferta pública.
+De acuerdo con lo señalado precedentemente y de conformidad con lo dispuesto en el artículo 69 de la ley en comento, se establece que los bancos y sociedades financieras cuyas acciones se encuentren incorporadas al Registro de Valores que lleva esta Superintendencia deben dar cumplimiento, en todo lo que les sea aplicable, a las instrucciones impartidas por la Superintendencia de Valores y Seguros acerca de esas materias mediante su Circular N° 585 del 29 de enero de 1986 modificada por la Circular N° 1.531 de 9 de marzo de 2001, de manera que la información que entreguen a esa Superintendencia sea concordante y armónica con la que es proporcionada por las demás empresas emisoras de valores de oferta pública.
 
 ### II. INFORMACION PRIVILEGIADA
 
@@ -22418,7 +22342,7 @@ El Título XXI de la Ley N° 18.045 establece normas relativas al manejo y uso d
 
 El artículo 171 de dicha Ley establece que las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto a las transacciones de estas entidades, deberán informar a la dirección de la respectiva empresa y ésta a la Superintendencia de Valores y Seguros, toda adquisición o enajenación de valores que hayan realizado, en la forma y oportunidades que ese Organismo Contralor determine.
 
-Sobre la base de la disposición antes mencionada y de conformidad con lo señalado en el artículo 69 de la Ley N° 18.045, esta Superintendencia de Bancos e Instituciones Financieras establece, sin perjuicio de las facultades de fiscalización que le competen, que los bancos y las sociedades financieras deberán remitir directamente a la Superintendencia de Valores y Seguros la información requerida por ese Servicio mediante sus Circulares N°s. 1.003 y 1.237, del 21 de marzo de 1991 y 31 de agosto de 1995, respectivamente, en la forma y dentro de los plazos que esas instrucciones señalan.
+Sobre la base de la disposición antes mencionada y de conformidad con lo señalado en el artículo 69 de la Ley N° 18.045, esta Superintendencia de Bancos e Instituciones Financieras establece, sin perjuicio de las facultades de fiscalización que le competen, que los bancos y las sociedades financieras deberán remitir directamente a la Superintendencia de Valores y Seguros la información requerida por ese Servicio mediante su Circular N° 1.003 de 21 de marzo de 1991, modificada por la Circular N° 1.340 de 11 de agosto de 1997, y su Circular N° 1.237 de 31 de agosto de 1995, en la forma y dentro de los plazos que esas instrucciones señalan.
 
 III.- INFORMACION SOBRE EL GRUPO EMPRESARIAL.
 
