@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº308 de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 26 y 29, superficies 210,28 y 529,13 m² respectivamente, rol de avalúo 1252-131, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128 - Cuatro Esquinas, Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Juan Bautista Ortega Sánchez, ascendente a la cantidad de $1.548.779.
+
+Fiscal del Ministerio de Obras Públicas.
