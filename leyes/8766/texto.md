@@ -1,0 +1,3 @@
+Fija escala de sueldos para el personal de Carabineros de Chile; gratificación de mando;
+
+viáticos; asignación para pérdidas de Caja; asignación de rancho; ascensos; asignación familiar; gratificación de zona; condona anticipo de sueldos concedido por ley 8,515, de 23 de agosto de 1946; reemplaza el artículo 4° del decreto ley 322, de 28 de julio de 1932, que fijó planta y sueldos a Carabineros de Chile; agrega inciso al artículo 3° de la ley 6,485, de 8 de enero de 1940, modifica el artículo 17° de la ley 7,872, de 16 de septiembre de 1944, que fija grados y sueldos, quinquenios y asignación de zona al personal de Carabineros de Chile.
