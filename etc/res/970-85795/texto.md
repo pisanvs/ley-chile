@@ -1,0 +1,3 @@
+Por resolución No. 970, de 13 de Octubre de 1992; de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase el extracto de la resolución No. 680, de 1992, de esta Subsecretaría, la que otorgó una ampliación de plazo a la UNIVERSIDAD DE ANTOFAGASTA, en sentido de que donde dice "21 de agosto de 1991" debe decir "21 de agosto de 1992".
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
