@@ -1,0 +1,7 @@
+﻿ Comercio de cabotaje
+
+Santiago i Mayo 29 de 1818.
+
+Vista la solicitud de don Gregorio Cordovez, en que espone, que tratando de conducir en el bergantin Teodosio, de su pertenencia, varios frutos del pais, para el fomento de las minas de Coquimbo, Huasco i Copiapó, se le han exjido los mismos derechos que en los que se esportan a reinos estranjeros; i pide se decrete no deber pagar otros, que los mismos, que se adeudan en los trasportes por tierra; i conformándose con lo informado por los Ministros de Hacienda, i dictámen fiscal, que fundan la necesidad de fomentar en beneficio de las minas, agricultura i artes de comercio de cabotaje, desconocido en el pais durante la dominacion española, declaro: que todos los frutos i efectos manufacturados en él, que se estrajeren por mar de unas provincias a otras, solo paguen, como solicita el espresado Cordovez, los derechos que se cobran en los trasportes por tierra, observándose la formalidad de torna-guias, que embaracen la estraccion a otros reinos, i se reforma el artículo 168 del Reglamento de libre comercio, en la parte que fuere contraria, a este decreto, del que se tomará razon en la Aduana, Cajas del Estado i Tribunal Mayor de Cuentas, i publíquese en la Gazeta para noticia de todos.-
+
+O'Higgins.- Infante.
