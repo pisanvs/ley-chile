@@ -1,0 +1,29 @@
+DEROGA DECRETO QUE INDICA, POR RAZONES QUE SEÑALA Santiago, 11 de Enero de 1994.- Hoy se decretó lo que sigue:
+
+Núm 3. Vistos: El D.S. N° 124, (V y U.), de 1990; el artículo 70 de la ley N° 16.391, agregado por el D.L. N° 708, de 1974; el D.L. N° 1.305, de 1976; el Oficio Ordinario N° 8.084, de 11 de Octubre de 1993, del Consejo de Defensa del Estado, y
+
+Considerando:
+
+a) Que por Decreto Supremo N° 124, de Vivienda y Urbanismo, de 13 de Julio de 1990, publicado en el Diario Oficial de 3 de Septiembre de 1990, se autorizó al SERVIU I Región de Tarapacá para transigir extrajudicialmente con la empresa "Constructora C Y T Ltda.", en relación con el contrato de construcción y con los contratos de mutuo singularizados en los considerandos a) y d) de dicho decreto, respectivamente, que tenía por objeto construir conforme a la Resolución N° 71, de 10 de Octubre de 1988, del SERVIU I Región de Tarapacá, actuando por mandato de los pobladores, 600 viviendas sociales en la ciudad de Iquique, por el precio de 177.900 Unidades de Fomento, a cuyo efecto se otorgaron los mutuos que se indican en el citado decreto por la cantidad de 28.500 Unidades de Fomento, entre el 3 de Noviembre de 1989 y el 12 de Enero de 1990;
+
+b) Que el Ministerio de Vivienda y Urbanismo practicó una revisión del balance de la empresa "Constructora C Y T Ltda.", al 31 de Julio de 1990, con posterioridad a la dictación del D.S. N° 124, de 13 de Julio de 1990, a fin de verificar si su patrimonio era suficiente para dar cumplimiento a las obligaciones que debería asumir en el cumplimiento del contrato de transacción que se autorizó suscribir al SERVIU I Región de Tarapacá, por el citado D.S. N° 124, de 1990. De dicha revisión se concluyó que la empresa constructora no tenía la capacidad suficiente para cumplir las condiciones a que se sujetaba la transacción autorizada, todo lo cual aconsejaba, en interés del SERVIU I Región de Tarapacá, no suscribir el contrato de transacción autorizado por el citado decreto.
+
+c) Que sin perjuicio de lo dispuesto en el considerando precedente, se ha examinado por el SERVIU I Región de Tarapacá, la situación de los terrenos en los cuales se debían construir las 600 viviendas contratadas, los cuales fueron incorporados al área urbana de la Comuna de Iquique mediante Resolución N° 5, de 1989, de la Secretaría Ministerial de Vivienda y Urbanismo I Región, publicada en el Diario Oficial de 5 de Agosto de 1989, que modificó el Plan Regulador Comunal de Iquique, y amplió su límite urbano, de tal modo que a partir de la vigencia de dicha resolución, "Constructora C Y T Ltda.", pudo haber ingresado a la I. Municipalidad de Iquique el expediente de solicitud de permiso de construcción, trámite el cual fue precedido de la aprobación en principio del loteo proyectado, con fecha 12 de Enero de 1989, por la Dirección de Obras de la I. Municipalidad de Iquique. Cabe agregar a lo anterior que la entrega oficial del terreno fue formalizada mediante acta suscrita con fecha 27 de Enero de 1989, a plena conformidad de "Constructora C Y T Ltda.", todo lo cual descarta cualquier alteración en el desarrollo de los trabajos de construcción, como lo estableciera el considerando b) del citado D.S. N° 124, de 1990, como asimismo el apoyo económico que le brindó el SERVIU I Región, al otorgarle créditos a la misma empresa costructora y enajenarle un terreno con el fin de construir viviendas sociales en el mismo, como se deja constancia en el considerando c) del D.S. N° 124, de 1990, antes mencionado.
+
+d) Que la modificación del trazado del loteo y de sus rasantes, según se comprobó con posterioridad a la dictación del D.S. N° 124, de 1990, se debió al mal emplazamiento del mismo, de todo lo cual se notificó a la empresa "Constructora C Y T Ltda.", otorgándole la opción de corregir las pendientes máximas y aceptándose la modificación del ancho de una de las avenidas colindantes al terreno.
+
+e) Que con respecto a las 200 viviendas a que se refiere el considerando e) del D.S. N° 124, de 1990, el SERVIU I Región de Tarapacá formuló diversas observaciones, las que no fueron subsanadas por la empresa "Constructora C Y T Ltda."
+
+f) Que la empresa "Constructora C Y T Ltda.", en su calidad de comerciante, representada por los Sres. Luis Enrique Caballero Brun y Sergio Torretti Costa, fue declarada en quiebra, por sentencia del Décimo Segundo Juzgado Civil de Santiago, de 2 de Diciembre de 1991, publicada en el Diario Oficial de 26 de Enero de 1993, recaída en autos rol N° 447-91.
+
+g) Que la empresa "Constructora C Y T Ltda.", demandó al SERVIU I Región de Tarapacá, en juicio ordinario de resolución del contrato de ejecución de obras antes mencionado y de indemnización de perjuicios, ante el Cuarto Juzgado de Letras de Iquique, con fecha 20 de Diciembre de 1990. A su vez el SERVIU I Región de Tarapacá, reconvino a la empresa constructora demandante, a fin que se declare resuelto el mismo contrato con indemnización de perjuicios.
+
+h) Que todos los antecedentes expuestos en los considerandos precedentes, hacen imposible la celebración del contrato de transacción cuya celebración se autorizara por el D.S. N° 124, de 1990, bajo las condiciones y modalidades establecidas en dicho decreto y hacen del todo inconveniente que se mantenga vigente la referida autorización,
+
+Decreto:
+
+Derógase el Decreto Supremo N° 124, de Vivienda y Urbanismo, de 13 de Julio de 1990, publicado en el Diario Oficial de 3 de Septiembre de 1990.
+
+Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República. Alberto Etchegaray Aubry, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Joan Mac Donald M., Subsecretaria de Vivienda y Urbanismo.-
