@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.477, de 31 de mayo de 1999, se expropiaron los lotes de terrenos Nºs.66-A y 66-B, superficies 1.547,60 y 1.625,50 m2., rol de avalúo 461-21, comuna de Constitución, para la obra Camino Constitución - Chanco, rol M-50, Sector Reloca - Las Cañas y se acordó precio de indemnización con su propietario María Vergara Véliz, ascendente a la cantidad de $18.345.220.-
+
+Fiscal del Ministerio de Obras Públicas.
