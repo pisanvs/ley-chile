@@ -1,0 +1,5 @@
+DELEGA EN LOS DIRECTORES REGIONALES DE LA XIII, XIV, XV y XVI DIRECCIONES REGIONALES METROPOLITANA LA FACULTAD QUE INDICA
+
+Por la Resolución N° 1.385 exenta, de 25 de marzo de 1994, el Director del Servicio de Impuestos Internos delegó en los Directores Regionales de la XII Dirección Regional Metropolitana, Santiago Centro; XIV Dirección Regional Metropolitana, Santiago Poniente; XV Dirección Regional Metropolitana, Santiago Oriente y XVI Dirección Regional Metropolitana, Santiago Sur, la facultad de representar al Servicio de Impuestos Internos en los recursos de apelación y de hecho que se interpongan en los procesos sometidos al procedimiento especial para la aplicación de ciertas multas establecido en el artículo 165 del Código Tributario, seguidos en sus respectivas Direcciones Regionales y ratificó la resolución 5657 de 23 de octubre de 1993, publicada en el Diario Oficial de 23 de octubre de 1993.-
+
+Javier Etcheberry Celhay, Director.
