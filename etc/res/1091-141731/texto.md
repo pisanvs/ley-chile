@@ -1,0 +1,3 @@
+Por resolución Nº 1.091, 11 de junio de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Carrizal Bajo, III Región, individualizada en el artículo 1º) Nº 1) del D.S. Nº 510 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES Y PESCADORES ARTESANALES en todas sus categorias de Caleta Carrizal Bajo, comuna de Huasco, provincia de Huasco.
+
+Valparaíso, 11 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
