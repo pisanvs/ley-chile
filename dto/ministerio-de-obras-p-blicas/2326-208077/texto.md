@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.326 de 31 de diciembre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron para el Fisco los lotes de terreno Nºs 50 y 58 para la obra: Camino Ruta C-489 Sector Alto del Carmen-El Corral, Tramo Km. 0,000 a Km.
+
+70,000, Etapa II, que figuran a nombre de Escuela y Suc. Iriarte Fredes, sin rol, comuna de Alto del Carmen, III Región, superficies 367 m2 y 4.926 m2. La comisión de peritos fijó con fecha 18 de marzo de 2000, el monto de la indemnización provisional en las cantidades de $2.843.500.- para el lote 50 y $4.868.560.- para el lote 58. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
