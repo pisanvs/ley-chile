@@ -1,0 +1,1 @@
+Declara en reorganización el Servicio de Gobierno Interior, dependiente del Ministerio del Interior, y fija la planta de su personal.
