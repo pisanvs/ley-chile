@@ -1,0 +1,3 @@
+Por decreto MOP Nº951, de 30 de marzo del 2000, se expropió el lote de terreno Nº5, superficie 433 m², rol de avalúo 18-67, comuna de San Gregorio de Ñiquén, para la obra Concesión Internacional Ruta 5; Tramo: Talca-Chillán, Octava Región y se acordó el valor de indemnización con su propietaria Betzabé del Carmen Fuentes Bahamondez, ascendente a la cantidad de $1.357.600.
+
+Fiscal del Ministerio de Obras Públicas.
