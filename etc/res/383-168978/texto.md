@@ -1,0 +1,3 @@
+Por resolución No. 383, de 5 de Abril de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por 30 días a contar de esta fecha, el plazo otorgado en el numeral 4° de la Resolución No. 182, de 1991, de esta Subsecretaría, a don VICTOR SANTIAGO CORREA CACERES, R.U.T. No. 5.587.530-8, domiciliado en Pasaje Isla San Ambrosio No. 026, San Antonio, en virtud de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 5 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
