@@ -1,0 +1,5 @@
+Por decreto MOP Nº823, de 30 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 6 y 7-A, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Enlace Villa Alemana. Ramal Nor Oriente Km.
+
+90.894,40 a Km. 91.560,00'', Quinta Región, que figuran a nombre de Soc. Ag. Rosenquist Senoret Ltda., rol de avalúo 847-12, comuna de Villa Alemana, superficies 4.507 m2 y 128 m2, respectivamente. La comisión de peritos integrada por los señores Eduardo Alejandro Silva Aracena, Patricio Benjamín García Toso e Inés Elena Otárola Castillo, fijó con fecha 25 de septiembre de 2000, el valor provisional de la indemnización en las cantidades de $27.042.000.- para el lote Nº6 y de $894.150.- para el lote Nº7-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas .
