@@ -1,0 +1,3 @@
+Por resolución exenta Nº 20 de fecha 21.01.2002, de la Secretaría Regional Ministerial de Bienes Nacionales, concede a la I. Municipalidad de Macul, el uso gratuito del inmueble fiscal ubicado en Sector D-4, Pasaje Diecisiete, Ex calle "A", Población Jaime Eyzaguirre, comuna de Macul, antes, Ñuñoa, Provincia de Santiago y Región Metropolitana. Su texto íntegro se encuentra en exhibición a disposición de los interesados en el Edificio Consistorial, Los Plátanos Nº 3130, Macul.
+
+- Luis Gómez Muñoz, Alcalde (S).
