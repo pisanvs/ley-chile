@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 150, de 28 de junio de 1991, se expropió el lote No. 6, superficie 4.900 m2., rol de avalúo 303-127, Comuna de Quillota, para la obra Camino Internacional Ruta 60-CH, sector Cruce Ruta 5 Puente Lo Venecia, Acceso a La Cruz, Acceso a San Isidro (Ruta F-386) y se acordó precio de indemnización con su propietario don Efraín Pérez Gómez, ascendente a la cantidad de $ 4.799.185.
+
+Fiscal del Ministerio de Obras Públicas.
