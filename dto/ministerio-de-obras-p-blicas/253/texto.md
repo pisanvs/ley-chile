@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 253, de 26 de agosto de 1993, se expropió el lote de terreno N° 40, superficie 7.025 m2., rol de avalúo 5017-8, Comuna de Coronel, para la obra Camino By Pass Coronel-Lota (Ruta 160), sector Segunda Calzada, Tramo Interurbano Coronel-Lota y se acordó precio de indemnización con sus propietarios Sindicato de Trabajadores N° 1 de ENACAR S.A. Establecimiento Lota, ascendente a la cantidad de $ 19.108.320.-
+
+Fiscal del Ministerio de Obras Públicas.
