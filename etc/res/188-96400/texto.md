@@ -1,0 +1,3 @@
+Por resolución 188 de fecha 21 de Diciembre de 1990 del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la Cámara de Turismo de Huasco y Vallenar Asociación Gremial inscrita bajo el No. 22-3 del registro que para tal efecto lleva este Ministerio, por haberse configurado respecto de ella, la causal de cancelación contemplada en el artículo 18 No. 2, letra a) del DL No. 2.757, de 1979.-
+
+Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
