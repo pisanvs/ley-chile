@@ -1,0 +1,3 @@
+Por resolución No. 527 de 26 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, -parte inmueble- ubicado Ricardo Santa Cruz 744, presunto rol avalúos No. 630-21, comuna Santiago, aparentemente dominio de don Juan Parada Merino. Comisión integrada por peritos Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos y Raúl Varela Hernández, ingeniero civil según informe de 2 de diciembre 1988, fijó monto provisional indemnización en $ 940.060, pagadera al contado.
+
+- SERVIU Metropolitano.
