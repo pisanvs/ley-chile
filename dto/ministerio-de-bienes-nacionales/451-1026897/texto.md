@@ -1,0 +1,21 @@
+ESTABLECE LIMITES DEL SECTOR "OCOA" DEL PARQUE NACIONAL LA CAMPANA
+
+Núm. 451.- Santiago, 7 de Noviembre de 1980.- Vistos estos antecedentes; lo informado por el Departamento de Bienes Nacionales en oficio Nº 2314, de 10 de Octubre y por el Ministerio de Agricultura en oficio Nº 597, de 22 de Julio, ambos de 1980; la ley número 16.699 de 1967 que declaró Parque Nacional el cerro denominado La Campana de la comuna de La Calera, provincia de Quillota, V Región de Valparaíso; en virtud de lo dispuesto en los artículos 1º y 21º del D.L. N° 1.939 de 1977; y
+
+Considerando: Que el "Parque Nacional La Campana" comprende dentro de su superficie el sector denominado "Ocoa", cuyos deslindes es necesario fijar, teniendo como referencia la Carta "La Calera" (3245-7100), Sección "E" Nº 42 del Levantamiento Aerofotogramétrico. Escala 1:50.000, elaborada por el Instituto Geográfico Militar,
+
+Decreto:
+
+Fíjanse como límites del Sector "Ocoa" o Sector número 1 del Parque Nacional La Campana, los siguientes:
+
+NORTE: Desde el Portezuelo Hondo, se sigue en dirección Nor-Este, por la divisoria de las aguas que separan la Quebrada El Piñón (lado Norte) y la Quebrada Las Palmeras (lado Sur), hasta la curva de nivel 400. Se continúa por dicha curva hacia el Sur, hasta la intersección con la Quebrada El Litre. Desde ese punto en dirección Este cruzando el estero Rabuco hasta el cerco (Pirca) ubicado entre el estero antes citado y el camino interior del predio en dirección Norte hasta interceptar una línea recta imaginaria de dirección Este-Oeste que es tangente a la curva de nivel de 350 metros en la estribación Nor-Poniente del Morro El Cardonal. Siguiendo dicha línea en dirección Este y luego la curva de nivel de 350 metros hasta el límite con los fundos "Las Palmas de Llay-Llay" y "Don Bosco". De ahí en línea recta imaginaria en dirección Sur hasta el Morro El Cardonal (584 metros sobre el nivel mar). Se continúa hacia el Sur-Este a través de la divisoria de las aguas que separa la Quebrada El Limonal con la Quebrada La Buitrera y el Cajón El Roble (al Sur), uniendo el Morro El Cardonal con el Morro Pedroso (920 metros sobre el nivel del mar). Se continúa hacia el Sur-Este, por la divisoria de las aguas, pasando por la cota 812 hasta el Morro El Peumo (1.978 metros sobre el nivel del mar).
+
+ESTE: Del Morro El Peumo, por la parte más alta, se sigue en dirección Sur-Este, pasando por la cumbre de un cerro sin nombre (cota 1.941) hasta el cerro Robles y cerro Los Robles, cuyo punto geodésico es de 2.222 metros sobre el nivel del mar. Desde el punto mencionado, por la divisoria de las aguas, en dirección Sur-Oeste se continúa hasta la Puntilla El Imán (2.035 metros sobre el nivel del mar).
+
+SUR: Desde la Puntilla El Imán, continuando hacia el Oeste por la divisoria de las aguas pasando al Morro Pedregoso (1.561 metros sobre el nivel del mar). De este lugar, en dirección Nor-Este, por la parte más alta, pasando por un cerro sin nombre ubicado a 1.523 metros sobre el nivel del mar donde se desvía en dirección Sur-Oeste hasta el Morro El Peñón (1.856 metros sobre el nivel del mar) que corresponde a la parte más alta de la Quebrada Agua El Manzano (ubicada al lado Sur). Desde el Morro El Peñón, en dirección Nor-Oeste, por la parte más alta, hasta el punto o vértice geodésico 1.361 metros sobre el nivel del mar (Cerro Penitentes), para luego cambiar hacia el Sur-Este y dirigirse al Oeste-Nor-Este, en la cota 925 al cerro Los Roblecitos (1.286 metros sobre el nivel del mar).
+
+OSTE: Desde el cerro Los Roblecitos siguiendo siempre la divisoria de las aguas, pasando por el Morro El Litre (1.621 metros sobre el nivel del mar) hasta el cerro La Campana (1.828 metros sobre el nivel del mar). Desde la cota 1.600 se sigue hacia el Nor-Oeste hasta la cota 1.150 y de ahí, por la parte más alta, se termina en Portezuelo Hondo, habiendo pasado por un cerro sin nombre, cuya altitud es de 970 metros sobre el nivel del mar.
+
+Regístrese, tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- René Peri Fagerstrom, General Inspector de Carabineros, Ministro de Bienes Nacionales.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Luis Simón Figueroa del Río. Subsecretario de Bienes Nacionales.
