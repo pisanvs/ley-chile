@@ -1,0 +1,5 @@
+Por decreto MOP Nº658, de 5 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº25, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo 3. Lámina Especial 3. Km. 98.650,00 a Km.
+
+99.200,00", Quinta Región, que figura a nombre de Vasseur Lavín Juan, rol de avalúo 1079-1, comuna de Quilpué, superficie 1.699 m2. La comisión de peritos integrada por los señores Claudia Paola Arellano Gómez, Joaquín Prieto Ochagavía y Luis Pablo Padilla Vergara, fijó con fecha 15 de junio de 2001, el valor provisional de la indemnización en la cantidad de $6.965.900.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
