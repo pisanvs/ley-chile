@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 404, 16 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez Nº 502, Rol de Avalúo Nº 2630-00002, comuna Chiguayante, superficie 90,0 m² de terreno y 77,42 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R 19.042, de aparente dominio de Mafalda Artínez Valenzuela, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por Ingeniero Civil, Gabriel Fernández de la Maza, Constructor Civil, Sergio Labarca G. y Arquitecto, Boris Aptecar G., según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $16.864.660.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
