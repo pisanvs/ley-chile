@@ -1,0 +1,3 @@
+Por Resolución N° 61 de 30 de Diciembre de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VII Región, se adjudicó a TECONSA S.A., la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en la calle Andrés Bello N° 1554 de la comuna de Curicó, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Carlos Pérez Molina, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Region del Maule.
