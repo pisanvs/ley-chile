@@ -1,0 +1,13 @@
+Por resolución Nº2.083, de 25 de septiembre de 2000, de esta Subsecretaría, autorízase a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Jurel Trachurus symmetricus murphyi realizada por la flota artesanal en bahías de la III y IV Región'', elaborados por dicha Universidad y aprobados por esta Subsecretaría de Pesca.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en caracterizar las capturas de Jurel Trachurus symmetricus murphyi realizadas por la flota artesanal en las bahías de la III y IV Región.
+
+La pesca de investigación se efectuará en el área de reserva artesanal de la III y IV Regiones, entre la fecha de la presente resolución y el 31 de diciembre de 2000, ambas fecha inclusive.
+
+La pesca de investigación se realizará con las embarcaciones artesanales que a continuación se indican, las que se encuentran inscritas en el Registro Artesanal de la III y IV Región, sección pesquería de la especie Jurel, debiendo operar en la región correspondiente su inscripción: a) III Región: Don José Miguel, Punta Pichicuy, Lonquimay II, Don Eleuterio, Babilonia, La Raquel, Teresita, Chelita, María I, Don Benito, Tom y Jerry, Llauca I, María Fernanda, Gustavo I, Fortuna, Concanmar I, Doña Edelmira, Sea Warrior; b) IV Región: Don Alfredo I, Dos Mil Uno, Lorena I, Green Peace, Rocky I, Falcon, María Soledad, Puerto Edén II, Marina Bernarda II, Julio Iglesias, Atlántico III, María Sofía, Perla Mar, Pez Volador, Don Gustavo, La Garota, Nidia, Sandy, Atenea II, Caren Rocío, Jennifer I, La Quintrala, Santa Verónica, Tzunami, Niebla, Doña Olga, Haití y Ñandú.
+
+En cumplimiento del objetivo de la presente investigación, las naves participantes podrán extraer un límite máximo de captura de 3.800 toneladas de la especie Jurel, que corresponde al remanente no capturado en la primera etapa autorizada mediante resolución Nº923 de 2000 de esta Subsecretaría.
+
+La Universidad Católica del Norte, designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Vicerrector de la Sede Coquimbo de dicha casa de estudios, don Renzo Follegati Ghio.
+
+Valparaíso, 25 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
