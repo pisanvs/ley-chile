@@ -1,0 +1,5 @@
+Por resolución Nº93, de 3 de Febrero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESQUERA LAGO RANCO S.A. (ex-Pesquera Lago Ranco Ltda.), R.U.T. Nº79.851.360-5, domiciliada en Santiago, para modificar las resoluciones Nº1.009, de 1988 y Nº311, de 1989, ambas de esta Subsecretaría, en orden a sustituir las naves "Normorshav" y "Gangstad J.R.", autorizadas por las resoluciones precitadas, por las naves "Karahav" y "Kvitbjorn", de conformidad con lo dispuesto en el Decreto Nº137, de 1990, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Declárase la caducidad conforme al Artículo 7º del Decreto Nº175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de las resoluciones Nº1009, de 1988 y Nº311, de 1989, ambas de esta Subsecretaría.
+
+Valparaíso, 3 de Febrero de 1992.- Andrés Couve Rioseco Subsecretario de Pesca.
