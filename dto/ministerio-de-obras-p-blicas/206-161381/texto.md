@@ -1,0 +1,3 @@
+Por decreto MOP Nº 206, de 31 de enero de 2000, se expropiaron los lotes de terreno Nºs. 42-B y 42-C, superficies 11.509 m² y 11.346 m², rol de avalúo 1547-219, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietaria Clotilde del Carmen Novoa Peña, ascendente a la cantidad total de $28.368.757.
+
+- Fiscal del Ministerio de Obras Públicas.
