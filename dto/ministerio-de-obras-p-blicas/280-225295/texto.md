@@ -1,0 +1,3 @@
+Por decreto MOP Nº 280 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 122-A, superficie 744 m2, Rol Nº 601-551, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, sector Chol Chol - Nueva Imperial Tramo Km. 24,30269 al 43,5000, Sub - Tramo III Km. 35,380 al 43,50000" y se acordó el valor de indemnización con su propietario Sergio Orlando Leal Leal, ascendente a la cantidad de $5.271.488.- para el lote Nº 122-A.
+
+- Fiscal del Ministerio de Obras Públicas.
