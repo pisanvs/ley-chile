@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A TERCIADOS, EMBALAJES Y MOLDURAS S.A.
+
+Núm. 1.- Certifico que Terciados, Embalajes y Molduras S.A., RUT Nº 96.873.930-1, domiciliada en Ruta 5 Sur km. 284, comuna de Villa Alegre, cuyo representante legal es López Urrutia Arturo, RUT Nº 5.893.120-9, cumple todos lo requisitos y exigencias establecidas en resolución Nº Ex. 4.916 de 31.10.2000, de la Dirección Nacional del Servicio de Impuestos Internos, y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado, en las adquisiciones de madera que efectúe durante el período comprendido entre el día 1º del mes siguiente al de la publicación en el Diario Oficial, de este certificado, lo que regirá en forma indefinida.
+
+Talca, 15 de enero de 2003.- Mirtha Barra Paredes, Directora Regional.
