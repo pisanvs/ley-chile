@@ -1,0 +1,9 @@
+EXTRACTO DE LA REFORMA DE ESTATUTOS DEL BANCO DEL PACIFICO
+
+Certifico que por Resolución Nº 176 de 29 de septiembre de 1988, se aprobaron las reformas introducidas a los estatutos del Banco del Pacífico, en la Junta Extraordinaria de Accionistas celebrada en Santiago con fecha 4 de agosto de 1988, cuya acta se redujo a escritura pública el mismo día, rectificada por la de 22 de septiembre de 1988, ambas otorgadas en la Notaría de Santiago de don Raúl Undurraga Laso,
+
+Extracto de la reforma:
+
+Se aumentó el capital social de $ 2.003.614.722 dividido en 4.487.050 acciones ordinarias de la Serie A y 2.416.104 acciones de la Serie B o preferidas, a la suma de $ 2.499.933.222 representado por 8.493.154 acciones nominativas sin valor nominal. El aumento de $ 496.318.500 se efectuará mediante la emisión de 1.590.000 acciones preferidas de la serie C, que deberán ser suscritas y pagadas en dinero efectivo o mediante la capitalización de créditos o títulos de la deuda externa suscritos o aceptados por el Banco del Pacífico, dentro del plazo de ciento ochenta días contado desde la fecha de la resolución que aprobó esta reforma. Las acciones de la Serie C que se emitirán gozarán del derecho a recibir dividendos con cargo a los excedentes de cada ejercicio social que transcurra mientras existan vigentes pactos de recompra de cartera vendida por el Banco del Pacífico al Banco Central de Chile, dividendo que alcanzará al sesenta por ciento de aquella parte de los excedentes que proporcionalmente corresponde a las acciones de esta Serie C, en relación con el número total de acciones que estén emitidas al término del ejercicio cuyo excedente corresponda repartir. Las acciones que no estén totalmente pagadas se considerarán sólo por la parte pagada para calcular la proporción indicada.
+
+Santiago, 29 de Septiembre de 1988.- Guillermo Ramírez Vilardell, Superintendente de Bancos e Instituciones Financieras.
