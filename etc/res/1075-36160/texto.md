@@ -1,0 +1,3 @@
+Por Resolución N° 1.075, de 11 de junio de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ALIMENTOS CAMPOMAR LIMITADA, para un centro de cultivo ubicado entre Punta Vilo y Punta Lobo, Isla Tranqui, Comuna de Queilén. Provincia de Chiloé, X Región, por no dar cumplimiento el respectivo proyecto técnico a lo dispuesto en el artículo 14 inciso 2° del D.S. N° 290 de 1993 modificado por el D.S. N° 604 de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
