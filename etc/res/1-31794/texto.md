@@ -1,0 +1,5 @@
+ADJUDICA CONCESIONES PARA OPERAR ESTABLECIMIENTOS DESTINADOS A LA REVISION TECNICA
+
+Por Resolución N° 1, de 2 de Noviembre de 1995, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XII Región, se adjudicó a Davison Automotriz Ltda., la concesión para operar, por un plazo de 5 años, a contar de la publicación del presente extracto, un establecimiento ubicado en calle Diagonal Don Bosco esquina Magallanes S/N° de la comuna de Punta Arenas, destinado a la revisión técnica y verificación de emisión contaminantes de vehículos a que se refiere el inciso segundo del artículo 7° del D.S. N° 156/90 del Ministerio de Transportes y Telecomunicaciones, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Dante Fernández Barría, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la XII Región.
