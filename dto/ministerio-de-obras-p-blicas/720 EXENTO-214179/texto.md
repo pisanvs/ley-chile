@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 720 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº 89, superficie 313,00 m², rol Nº 764-113, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, sector El Noviciado - Cruce Ruta G-16 (Lipangue), tramo Km. 4,450 a 15,04419, y se acordó el valor de indemnización con su propietario Domingo Gustavo Velásquez Morales, ascendente a la cantidad de $1.611.058.
+
+Fiscal del Ministerio de Obras Públicas.
