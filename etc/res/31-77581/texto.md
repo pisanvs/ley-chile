@@ -1,0 +1,3 @@
+Por Resolución No. 031, del 20 de Marzo de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la I Región, se adjudicó a Sociedad Touring Club Ltda., la concesión para operar, por un plazo de cinco años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en Calle Sotomayor sitio No. 10, Barrio Industrial, de Iquique, destinado a la revisión técnica y verificación de emisión de contaminantes de los vehículos que se señalen en el inciso segundo del artículo 7° del D.S. 156/90 del Ministerio, en la forma y condiciones que se señalan en el contrato que se aprueba.
+
+Yerko Luksic Sandoval, Secretario Regional Ministerial Transportes y Telecomunicaciones, I Región.
