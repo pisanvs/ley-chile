@@ -1,0 +1,5 @@
+Por decreto MOP N°1.896 de 15 de octubre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP N°850 de 1997, que fijó el texto actualizado de la Ley N°15.840 y del D.F.L. MOP N°206 de 1960, se expropió los lotes 246-2 y 252-B, para la Obra Camino Ruta 5 Norte. Tramo Santiago - Los Vilos. Sector Km.
+
+55.620,00 al 63.400,00, Región Metropolitana, que figura a nombre de Emp. FFCC del Estado, rol de avalúo 90074-2, comuna de Til-Til, superficies 68 m2., y 952 m2 respectivamente. La Comisión de Peritos integrada por los señores Marly Ester Flores Altonaga, Mónica de Carmen Conejeros Rudloff y María Marcela Schmauk Oelckers, fijó con fecha 3 de julio de 1998, los valores provisionales de las indemnizaciones en las cantidades de $68.000.- para el lote N°246-2 y en la cantidad de $761.600.- para el lote N°252-B.- Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
