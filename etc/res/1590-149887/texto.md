@@ -1,0 +1,3 @@
+Por resolución Nº 1.590, de 16 de agosto de 1999, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Chigualoco Sector B, IV Región, individualizada en el artículo 1º) Nº 2 del DS Nº 10 de 1998, citado en visto, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES Y BUZOS MARISCADORES EXTRACTORES DE PRODUCTOS DEL MAR, CALETA CHIGUALOCO.
+
+Valparaíso, 16 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
