@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.352, de 25 de noviembre de 2004, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PACIFICO AUSTRAL LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar una planta ubicada en La Ribera Sur Nº 300, Ancud, Chiloé, X Región, donde podrá procesar en las líneas de elaboración Cocido y congelado, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 25 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
