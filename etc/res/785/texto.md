@@ -1,0 +1,5 @@
+Por Resolución N° 785, de 8 de Octubre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a INDUSTRIA PESQUERA TIMONEL S.A., R.U.T. N° 93.452.000-9, para ampliar actividades pesqueras autorizadas por Decreto N° 41, de 1972, del Ministerio de Agricultura y la Resolución N° 125, de 1986, de esta Subsecretaría, en orden a incorporar a las líneas de proceso autorizadas para su planta industrial ubicada en Calle 7 de Enero N° 57, Talcahuano, los sigientes recursos hidrobiológicos: Harina y aceite de pescado: Merluza de cola y Merluza de tres aletas.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 8 de Octubre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
