@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA LOA SUR S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DECLARA CADUCIDAD DE LA RESOLUCION QUE SEÑALA
+
+Por resolución Nº 129, de 6 de Marzo de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, pronunciándose sobre la solicitud de 7 de Diciembre de 1984, se autoriza a Pesquera Loa Sur S.A., domiciliada en Santiago, comuna de Providencia, para instalar y operar una planta procesadora de harina y aceite de pescado en la Bahía de Coronel y para operar las embarcaciones "Loa 6", "Loa 7" y "Loa 8", en el litoral de la I, II y VIII Región, en labores extractivas de sardina común, anchoa, sardina española, jurel y caballa, recursos que empleará como materia prima en la planta reductora. Además, se declara la caducidad, conforme al artículo 7º del decreto de Economía Nº 175, de 1980, de la resolución Nº 327, de 1983, de la misma Subsecretaría, que autorizó a Pesquera Loa Sur S.A., para desarrollar las actividades pesqueras a que se refiere la presente resolución.
+
+Santiago, 6 de Marzo de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
