@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.851, de 14 de octubre de 2004, de esta Subsecretaría, autorízase a CECILIA ADELA MANCILLA OYARZUN para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Costanera s/n, Puerto Williams, XII Región , donde podrá elaborar en las líneas de proceso de Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
