@@ -1,0 +1,3 @@
+Por decreto MOP Nº 454 de 9 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6, para la obra: Mejoramiento Ruta 60-CH, sector Villa Dulce - Torquemada, Tramo Km. 0,00000 a Km. 10,47641, que figura a nombre de Congr Hermanitas de Los Pobres, rol de avalúo 2473-5, Comuna de Viña del Mar, V Región, superficie 522 m². La Comisión de Peritos, fijó con fecha 17 de noviembre de 2003, en la cantidad de $15.267.900. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
