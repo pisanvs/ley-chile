@@ -1,0 +1,3 @@
+Por resolución Nº 1.904, de 5 de septiembre de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Arauco Sector A, VIII Región, individualizada en el artículo 1º) Nº 9 del DS Nº 152 de 1998 del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES PESCADORES INDEPENDIENTES DE CALETA ARAUCO.
+
+Valparaíso, 5 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
