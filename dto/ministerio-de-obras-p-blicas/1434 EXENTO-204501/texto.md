@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.434, de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº69, superficie 154 m2, rol Nº5050-198, comuna de Punta Arenas, XII Región, para la obra ''Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349 (Acceso Aeropuerto) Km. 0,000 al 1,295819'' y se acordó el valor de indemnización con su propietaria Clarisa de Lourdes Ojeda Zúñiga y Otros, ascendente a la cantidad de $1.582.217.-
+
+Fiscal del Ministerio de Obras Públicas.
