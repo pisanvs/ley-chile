@@ -464,7 +464,7 @@ Reajustes e Intereses moratorios
 
 #### Artículo 53
 
-Todo impuesto o contribución que no se pague dentro del plazo legal se reajustará en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el segundo mes que precede al de su vencimiento y el segundo mes que precede al de su pago.
+Todo impuesto o contribución que no se pague dentro del plazo legal se reajustará en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el último día del segundo mes que precede al de su vencimiento y el último día del segundo mes que precede al de su pago.
 
 Los impuestos que sean pagados durante el mes calendario en que se incurrió en mora no serán objeto de reajuste.
 
@@ -473,8 +473,6 @@ El contribuyente estará afecto, además, a un interés penal del uno y medio po
 El monto de los intereses así determinados, no estará afecto a ningún recargo.
 
 No procederá el reajuste ni se devengarán los intereses penales a que se refieren los incisos precedentes, cuando el atraso en el pago se haya debido a causa imputable a los Servicios de Impuestos Internos o Tesorería, lo cual deberá ser declarado por el respectivo Director Regional o Tesorero Provincial, en su caso.
-
-El contribuyente podrá siempre y en cualquier tiempo pagar la totalidad del impuesto inicialmente adeudado, y desde ese momento dejarán de devengarse los reajustes e intereses señalados anteriormente; ello sin perjuicio de la facultad del Servicio de Tesorerías para perseguir el cobro judicial de los reajustes e intereses adeudados, de acuerdo al procedimiento establecido en el Título V del Libro III.
 
 Sin embargo, en caso de convenios de pago, cada cuota constituye un abono a los impuestos adeudados y, en consecuencia, las cuotas pagadas no seguirán devengando intereses ni serán susceptibles de reajuste.
 
@@ -678,9 +676,11 @@ Los tesoreros municipales deberán enviar al Servicio copia del rol de patentes 
 
 #### Artículo 82
 
-Las municipalidades no podrán renovar las patentes municipales ni conceder nuevas, sin que el solicitante acredite previamente estar al día en las obligaciones tributarias relativas a la declaración de los impuestos a la renta y compraventas, o servicios en su caso, que correspondan al giro del negocio, lo que se comprobará con el recibo de declaración correspondiente al último período.
+Las Municipalidades no podrán renovar las patentes municipales ni conceder nuevas, sin que el solicitante acredite previamente estar al día en las obligaciones tributarias relativas a la declaración de los impuestos a la renta y compraventas, o servicios en su caso, que correspondan al giro del negocio, lo que se comprobará con el recibo de declaración correspondiente al último período.
 
 Tampoco podrán aceptar cambios de nombres en sus respectivos registros ni otorgar nuevas patentes de vehículos sin que se acredite el pago de los impuestos que se hubieren devengado.
+
+> **Nota.** NOTA: 4 El artículo 23 del DL 1532, de 1976, dispuso:"Deróganse el artículo 15° de la ley 17066 y todas las disposiciones legales o reglamentarias que condicionan el pago de impuestos o derechos municipales al cumplimiento previo de tributos u obligaciones fiscales o de carácter previsional".
 
 #### Artículo 83
 
@@ -1734,7 +1734,7 @@ Transcurrido el plazo de tres años a que se refieren los artículos 200 y 201, 
 
 Los créditos privilegiados de la primera clase establecidos en los cincos primeros números del artículo 2.472 del Código Civil serán los únicos que prevalecerán sobre el crédito privilegiado que el número sexto de ese artículo contempla a favor del Fisco en su calidad de acreedor de impuestos fiscales y municipales devengados.
 
-En todo caso los créditos fiscales privilegiados, prevalecerán sobre aquéllos que mantengan los Organismos de Previsión por deudas de imposiciones, desahucios, indemnizaciones y por cualquier otro concepto que no corresponda estrictamente al de remuneraciones.
+Para los efectos señalados en el inciso anterior, se entenderá que los créditos de que sean titulares los organismos de previsión por imposiciones adeudadas, o que se recauden por su intermedio para ser destinados a fines asistenciales o de seguridad social, se encuentren incluidos en el artículo 2.472, N° 4, del Código Civil, sin perjuicio de que deban prevalecer por sobre ellos los créditos por remuneraciones de empleados y obreros a que se refiere el mencionado artículo.
 
 #### Artículo 199°
 
