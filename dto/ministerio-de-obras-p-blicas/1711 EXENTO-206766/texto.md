@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº1711, de fecha 29 de noviembre de 2002, se expropiaron los lotes de terreno Nºs 2 y 3, superficies 309 m2 y 71 m2, respectivamente, Rol de Avalúo 129-99, comuna de El Carmen, VIII Región, para la obra "Canal Matriz Sector Pemuco-Diguillín Descarga Dren Nº4 Km.0,021 al 0,528, del Proyecto Laja Diguillín", y se acordó el valor de indemnización con su propietario don José Aladino Rubilar Rubilar,ascendente a la cantidad de $204.607.-
+
+Fiscal del Ministerio de Obras Públicas.
