@@ -1,0 +1,3 @@
+Por decreto MOP Nº90, de 31 de enero de 2001, se expropió el lote de terreno Nº 13, superficie 3.848 m², rol de avalúo 2907-10, comuna de Pudahuel, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Tramo 3, Región Metropolitana y se acordó el valor de indemnización con su propietario Jean Loup Mathieu, ascendente a la cantidad de $21.040.192.-
+
+Fiscal del Ministerio de Obras Públicas.
