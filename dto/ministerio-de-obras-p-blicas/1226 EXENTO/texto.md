@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.226, de 31 de agosto de 2001, se expropió el lote de terreno Nº94, superficie 248 m2., de avalúo 700-4, comuna de Algarrobo, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo-Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario Parque Santa María de Algarrobo S.A., ascendente a la cantidad de $2.135.265.-
+
+Fiscal del Ministerio de Obras Públicas.
