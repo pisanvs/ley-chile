@@ -1,0 +1,3 @@
+Por resolución No. 649, de 15 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución No. 765, de 1990, de esta Subsecretaría, que autorizó a EXPORTADORA DE PRODUCTOS DEL MAR LIMITADA, R.U.T. No. 79.624.640-5, domiciliada en Gran Avenida No. 7321, Antofagasta, para operar tres establecimientos de cultivo en tres sectores, que en dicha resolución se indican, ubicados en Caleta Errázuriz, Comuna y Provincia de Antofagasta, II Región, por renuncia total de su titular.
+
+Valparaíso, 15 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
