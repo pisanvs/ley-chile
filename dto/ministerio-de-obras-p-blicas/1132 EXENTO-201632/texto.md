@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.132, de fecha 30 de julio de 2002, se expropió el lote de terreno Nº10, superficie 651,30 m2, rol de avalúo Nº552-30, comuna de Linares, para la obra ''Camino Ruta L-45, Sector Linares - Llepo, Tramo Km. 2,750.2 a Km. 13,147, Comuna de Linares, Provincia de Linares'', VII Región y se acordó el valor de la indemnización con su propietaria Raquel Sotomayor Toledo, ascendente a la cantidad de $2.092.977.-
+
+Fiscal del Ministerio de Obras Públicas.
