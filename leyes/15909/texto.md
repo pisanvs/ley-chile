@@ -162,7 +162,7 @@ Declárase feriado legal en la comuna de Talcahuano, el día 5 de Noviembre de 1
 
 <!-- parte:8372092 -->
 
-Derógase el artículo 4.o de la ley N.o 15.209, de 2 de Julio de 1963.
+Derogado.
 
 #### Artículo 16º
 
