@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. N° 30 de fecha 12 de Marzo de 1993, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme D.S. N° 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble calle Erasmo Escala N° 2233, rol 401-004, Santiago, aparente dominio doña Enedina Pérez Pérez. Superficie aproximada a expropiar 80,33 m2. Deslindes: Norte, 15,30 mts. calle Santa Mónica; Sur, 15,30 mts. resto del predio; Oriente, 5,25 mts. otro propietario; y Poniente, 5,25 mts. calle Santa Mónica. Indemnización provisional $3.556.550 pagadera contado.-
+
+Jaime Ravinet de la Fuente, Alcalde Santiago.
