@@ -1,0 +1,5 @@
+EXTRACTOS DE DECRETOS DE EXPROPIACION
+
+Alcaldesa I. Municipalidad de Providencia, mediante Decreto Ex. No. 172 de 28 de Enero de 1988, dispone expropiación total, conforme Decreto Supremo No. 458, de Vivienda, de 1976, y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en calle Santa Isabel No. 075, Rol de Avalúo No. 918-15, aparentemente de propiedad de don Hernán Toledo Riquelme, para el ensanche de la calle Santa Isabel. Deslindes inmueble expropiado son los siguientes: Norte, 6.00 mts. con calle Santa Isabel; Sur, 6.00 mts. con otros propietarios; Oriente, 17.80 mts. con Rol No. 918-16 y Poniente, 17.80 mts. con Rol No. 918-14. Indemnización provisional $ 2.110.000. fijada por Comisión tasadora integrada por los Sres. René Ureta Koster, Luis Rojas Quezada y Roberto Correa Bezanilla, pagadera contado.
+
+Carmen Grez de Anrique, Alcaldesa.- Priscilla Doerr Pairoa, Secretario Abogado Municipal Subrogante.
