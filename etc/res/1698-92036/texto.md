@@ -1,0 +1,9 @@
+AUTORIZA A DON JOAQUIN DE LA MAZA DE LA MAZA PARA INICIAR ACTIVIDADES PESQUERAS.DENIEGA AUTORIZACIONES QUE INDICA
+
+Por Resolución No. 1.698 de 08 de Noviembre de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción. se autoriza a don Joaquín De la Maza De la Maza, R.U.T. No. 2.464.933-4 domiciliado en la ciudad de Constitución, calle Prieto No. 297, para iniciar actividades pesqueras, en orden a operar la embarcación "Carmela", en el litoral de las Regiones que a continuación se indica. donde podrá extraer los siguientes recursos hidrobiológicos: a) Entre las Regiones V y IX; Congrio dorado y congrio negro.
+
+b) Entre Punta Liles y el limite Sur de la IX Región, ambas inclusive; Bacalao de profundidad o mero, c) Entre las Regiones IV y X, ambas inclusive: Albacora o pez espada.
+
+Deniégase la autorización solicitada por el peticionario para capturar con la nave a que se refiere la presente Resolución, el recurso bacalao de profundidad o mero, en el litoral comprendido al Norte de Punta Liles, de conformidad con lo dispuesto en el Decreto No. 439, de 1985, del Ministerio de Economía, Fomento y Reconstrucción. Deniégase autorización para operar en el litoral de las Regiones IV y X, sin perjuicio de lo expresado respecto de la albacora o pez espada, en la letra c) del numeral 3° de esta Resolución. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
