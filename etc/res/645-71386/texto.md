@@ -1,0 +1,3 @@
+Por Resolución Nº 645, de 7 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 96083004, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DEL MAR CALETA DICHATO, para un sector ubicado en Caleta Dichato, Bahía Coliumo, comuna de Tomé, Provincia de Concepción, VIII Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 7 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
