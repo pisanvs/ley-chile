@@ -1,0 +1,3 @@
+Por decreto MOP Nº305, de fecha 29 de diciembre de 2000, se expropió el lote de terreno Nº22, superficie 64,00 m2, rol de avalúo 231-5, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre - Esperanza), Tramo Km. 0,000.00 a Km. 10.623.89" y se acordó el valor de indemnización con su propietario Ramón Adolfo Villalobos Méndez, ascendente a la cantidad de $539.216.-
+
+Fiscal del Ministerio de Obras Públicas.
