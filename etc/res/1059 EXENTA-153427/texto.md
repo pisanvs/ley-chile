@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 1.059 del fecha 16 de Octubre de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifican los recorridos que se individualizan más adelante, de la Línea de Taxibuses N° 43 "Estación Central Villa Naciones Unidas", autorizados por resoluciones N°s 1.285/81; 721/82 y 182/85, quedando sus nuevos trazados como se describen a continuación:
+
+a) TRONCAL N° 43 "JOSE ARRIETA-AEROPUERTO" Ida: Desde su terminal en Río Claro frente al N° 1087 continúa por Río Claro- Las Vertientes (Valle Hermoso) Quebrada de Suca- Av. José Arrieta- Los Molineros- Av. Lo Hermida- Av. Greda- Av. Matta- Santa Elena- Coquimbo- Portugal- Av. Libertador Bernardo O'Higgins- Av. General Velásquez, hacia el norte y frente al N° 083 vira hacia el Sur- Av. General Velásquez Cinco de Abril Hermanos Heyraud- Gandarillas- Juana Weber- San José- Río Quetro Palena- Yeleho- Aeropuerto, hasta J.M. Infante, su terminal.
+
+Regreso: Desde su terminal en Aeropuerto con J.M. Infante continúa por Aeropuerto Yelcho- Palena- Río Quetro San José- Juana Weber- Candarillas- Cinco de Abril- Toro Mazzotte- Av. Libertador Bernardo O'Higgins- Arturo Prat Av. Malta- Av. Grecia- Av. Lo Hermida- Los Molineros- Av. José Arrieta- Quebrada de Suca Las Vertientes- Río Claro, hasta frente al N° 1087, su terminal.
+
+b) VARIANTE N° 43-B "PROVIDENCIA- MAPOCHO" Ida: Desde su terminal en Río Claro frente al N° 1087, continúa por Río Claro- Las Vertientes (Valle Hermoso) Quebrada de Suca- Av. José Arrieta- Javiera Carrera- Av. Larraín- Av. Irarr zaval- Av. Salvador- Av. Providencia Av. Cardenal José María Caro Balmaceda- Av. Brasil- Rosas Av. Matucana- Av. Libertador Bernardo O'Higgins- Las Rejas- Cinco de Abril- Aeropuerto hasta Luis Infante Cerda, su terminal.
+
+Regreso: Desde su terminal en Aeropuerto con Luis Infante Cerda, continúa por Aeropuerto- Cinco de Abril- Las Rejas Av. Libertador Bernardo O'Higgins- San Alfonso- Salvador Sanfuentes- Bascuñ n Guerrero- Maipú- Romero Chacabuco- Mapocho- Manuel Rodríguez- San Pablo Manuel Rodríguez- General Mackenna- Ismael Valdés Vergara- Santo Domingo- Monjitas- Merced- Irene Morales Av. Libertador Bernardo O'Higgins- Av. Providencia Av. Salvador- Lincoy n- Av. José M. Infante- Av. Irarr zaval- Av. Larraín- Paula Jaraquemada- Av. José Arrieta Quebrada de Suca-Las Vertientes- Río Claro, hasta frente al N° 1087, su terminal.
+
+Santiago, 16 de Octubre de 1986.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
