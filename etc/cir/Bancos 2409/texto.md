@@ -11180,15 +11180,13 @@ En cualquier caso, en las cuentas de orden de que trata esta letra b) debe inclu
 
 3.4. Castigo de créditos en moneda extranjera.
 
-Para castigar operaciones en moneda extranjera que no tienen acceso al mercado de divisas, con cargo a reservas o provisiones en moneda extranjera, debe obtenerse la respectiva autorización de esta Superintendencia y del Banco Central de Chile, conforme a lo dispuesto en el Capítulo 13-28 de esta Recopilación.
+Para castigar operaciones en moneda extranjera que no tienen acceso al mercado de divisas, con cargo a reservas o provisiones en moneda extranjera, las empresas bancarias deben proceder conforme a lo señalado en el Capítulo 13-28 de esta Recopilación.
 
 La contabilización, en este caso, se ceñirá a lo dispuesto en el numeral precedente, debiendo utilizarse, además, el procedimiento descrito en el Capítulo mencionado en el párrafo anterior para rebajar la cuenta de colocaciones en moneda extranjera, con cargo a la cuenta respectiva de la cual se detraigan las divisas que se utilicen para el efecto, de la partida 4520 "Divisas autorizadas como reservas o provisiones".
 
 En los casos en que se castiguen créditos en moneda extranjera que cuenten con acceso autorizado al mercado de divisas, las instituciones bancarias procederán a registrar la venta de la moneda extranjera en la forma que lo hacen habitualmente, con la diferencia de que la moneda chilena será debitada a la correspondiente provisión individual que se hubiere constituido y, si ésta fuere insuficiente, se recurrirá, por la parte que faltare, a la provisión global para la cartera de colocaciones.
 
 El mismo procedimiento antes señalado se aplicará cuando los bancos castiguen créditos en moneda extranjera sin acceso al mercado cambiario formal, con divisas no sujetas a liquidación, las que deberán ingresar previamente a su posición de cambios.
-
-Cuando el Banco Central de Chile exija la conformidad previa de esta Superintendencia para autorizar los castigos que se cursen de acuerdo con la modalidad mencionada en el párrafo precedente, como asimismo cuando se trate de castigos con cargo a reservas o provisiones de moneda extranjera, las empresas bancarias deberán presentar la correspondiente solicitud con un detalle de las operaciones que se castigarán para dar cumplimiento a las normas del presente Capítulo.
 
 3.5.- Recuperación de créditos castigados.
 
@@ -20690,71 +20688,53 @@ MATERIA:
 
 RESERVAS Y PROVISIONES EN MONEDA EXTRANJERA.
 
-1.- Generalidades.
+1.- Reservas o provisiones en moneda extranjera constituidas con ingresos netos en esas monedas.
 
-Los bancos pueden mantener divisas en calidad de reservas o provisiones en moneda extranjera, generadas principalmente por la compra que en su oportunidad les permitió efectuar el Banco Central de Chile, de sus ingresos netos en esas monedas.
+Los bancos pueden mantener divisas en calidad de reservas o provisiones en moneda extranjera, generadas principalmente por la compra de sus ingresos netos en esas monedas.
 
-De conformidad con lo dispuesto en los Capítulos III y XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, a partir del cierre del ejercicio del año 1992 los bancos pueden, sujetos sólo a la previa autorización de esta Superintendencia, constituir reservas en monedas extranjeras mediante la adquisición de todo o parte del ingreso neto que generen anualmente en esas monedas. Dichas reservas se constituirán a más tardar el último día hábil del mes de febrero del año siguiente a aquel en que se obtenga el ingreso neto.
+De conformidad con lo dispuesto en los Capítulos III y XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, a partir del cierre del ejercicio del año 1992 los bancos pueden constituir reservas en monedas extranjeras mediante la adquisición de todo o parte del ingreso neto que generen anualmente en esas monedas. Dichas reservas se constituirán a más tardar el último día hábil del mes de febrero del año siguiente a aquel en que se obtenga el ingreso neto.
 
-Además, los bancos receptores de aportes de capital del exterior acogidos a las disposiciones del Decreto Ley N° 600, de 1974, como sucede con las sucursales de bancos extranjeros, pueden mantener en calidad de reservas sus utilidades liquidas, convertidas a moneda extranjera, siempre que para ello cuenten con la aprobación de esta Superintendencia y del Banco Central de Chile.
+Los bancos están facultados para castigar activos en moneda extranjera con cargo a las reservas o provisiones antes mencionadas.
 
-El uso que las entidades bancarias pueden dar a estos recursos en moneda extranjera, es el que se indica en los N°s. 2 y 3 de este Capitulo.
+2.- Reservas correspondientes a utilidades remesables al exterior.
 
-2.- Reservas en moneda extranjera no remesables al exterior y provisiones en moneda extranjera.
+Los bancos receptores de aportes de capital del exterior acogidos a las disposiciones del Decreto Ley N° 600, de 1974, como sucede con las sucursales de bancos extranjeros, pueden mantener en calidad de reservas sus utilidades líquidas, convertidas a moneda extranjera, siempre que para ello cuenten con la aprobación del Banco Central de Chile.
 
-Las reservas o provisiones en moneda extranjera que mantengan los bancos, originadas en la adquisición de los ingresos netos en esas monedas o provenientes de otras fuentes distintas a las utilidades de los aportes de capital del D.L. 600, podrán utilizarse solamente en los siguientes fines, según lo dispuesto en el Compendio de Normas Financieras del Banco Central de Chile:
+De conformidad con lo dispuesto en el Capítulo XI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, la moneda extranjera que sea el producto de utilidades acumuladas remesables al exterior, sólo podrá ser remesada, previa autorización de esta Superintendencia y del Instituto Emisor.
 
-a) Financiar operaciones de comercio exterior de conformidad con las normas del Instituto Emisor.
+3.- Liquidación de compra y venta de divisas.
 
-b) Castigar operaciones en moneda extranjera, previa autorización de este Organismo Fiscalizador y del Banco Central de Chile, según lo señalado en el N° 4 de este Capitulo.
+3.1.- Castigos de activos con cargo a reservas o provisiones.
 
-3.- Reservas correspondientes a utilidades remesables al exterior.
+Cuando los bancos decidan castigar activos en moneda extranjera, deberán liquidar en el mercado cambiarlo formal, con cargo a sus provisiones o reservas en monedas extranjeras, una cantidad igual al monto de los activos que en esas monedas se castiguen.
 
-La moneda extranjera que sea el producto de utilidades acumuladas remesables al exterior, mantenidas como reservas con autorización de esta Superintendencia y del Banco Central de Chile, sólo podrá destinarse a ser remesada al exterior, de conformidad con lo dispuesto en el Capítulo XI del Título I del Compendio de Normas de Cambios Internacionales.
+El ingreso que se haga a la Posición de Cambios de las divisas que se detraigan de las provisiones o reservas, deberá hacerse simultáneamente con el egreso o venta de la moneda extranjera con cargo a la misma Posición, para el castigo del activo que corresponda.
 
-4.- Castigo de operaciones en moneda extranjera con provisiones o reservas en dichas monedas.
+3.2.- Remesas de utilidades que fueron convertidas a moneda extranjera.
 
-4.1.- Facultad de castigar operaciones en moneda extranjera.
+Para remesar las utilidades líquidas que dieron origen a las reservas de que trata el N°2 de este Capítulo, las instituciones deberán liquidar en el mercado cambiario formal los importes constituidos en su oportunidad, para luego adquirir las divisas correspondientes para su remesa al exterior.
 
-Los bancos pueden utilizar las provisiones y reservas en moneda extranjera que mantengan, para castigar colocaciones en dichas monedas, que estimen irrecuperables, siempre que obtengan previamente la autorización del Banco Central de Chile y de esta Superintendencia para tal efecto.
+4.- Instrucciones contables.
 
-4.2.- Autorización de esta Superintendencia
+Las empresas bancarias deberán atenerse a las siguientes instrucciones para el registro de las operaciones de que se trata:
 
-En la solicitud para obtener la autorización de esta Superintendencia con el fin de efectuar un castigo con reservas o provisiones en moneda extranjera, deberá detallarse cada una de las operaciones que se desea castigar y las razones que motivan el castigo.
+4.1.- Reservas y provisiones en moneda extranjera.
 
-4.3.- Liquidación de compra y venta de moneda extranjera.
+a) Moneda extranjera.
 
-Los bancos, previa la autorización a que se refiere el numeral 4.1 anterior, deberán liquidar en el mercado cambiario formal, con cargo a sus provisiones o reservas en monedas extranjeras, una cantidad igual al monto de las colocaciones que en esas monedas se castigue.
-
-Si la operación que va a ser castigada esta expresada en una moneda distinta a aquellas en que están constituidas las provisiones o reservas que se aplicarán, la suma de éstas que se liquide deberá calcularse sobre la relación de paridad que exista entre la moneda correspondiente a la colocación que se castiga y aquélla que se detraerá de la provisión o reserva, informada por el Banco Central de Chile en el "Informativo Diario" correspondiente a la fecha en que se realice el castigo.
-
-El ingreso que se haga a la Posición de Cambios de las divisas que se detraigan de las provisiones o reservas, deberá hacerse simultáneamente con el egreso o venta de la moneda extranjera con cargo a la misma Posición, para el castigo de la respectiva colocación.
-
-4.4.- Información sobre las operaciones castigadas.
-
-Los bancos deberán mantener a disposición de esta Superintendencia, para la oportunidad en que les sean requeridos, todos los antecedentes relativos a cada una de las operaciones que castiguen con cargo a sus propios recursos en monedas extranjeras, incluidos en ellos copias de las respectivas planillas de ingreso y egreso de cambios, por la compra y venta de divisas a que dé origen cada castigo.
-
-5.- Instrucciones contables.
-
-Las empresas bancarias deberán atenerse a las siguientes instrucciones para el registro de las operaciones de que se trata.
-
-5.1.- Reservas y provisiones en moneda extranjera
-
-a) Moneda extranjera
-
-Los importes de las reservas en moneda extranjera que mantienen las empresas bancarias deben encontrarse registrados en la cuenta "Reservas en M/E constituidas con excedentes en M/E" o en la cuenta "Reservas en M/E constituidas con utilidades remesables al exterior", según cual sea su origen, ambas de la partida 4520 Al tratarse de provisiones, ellas se reflejarán en la cuenta "Provisiones en moneda extranjera", de la misma partida.
+Los importes de las reservas en moneda extranjera que mantienen las empresas bancarias deben encontrarse registrados en la cuenta "Reservas en M/E constituidas con excedentes en M/E" o en la cuenta "Reservas en M/E constituidas con utilidades remesables al exterior", según cual sea su origen, ambas de la partida 4520. Al tratarse de provisiones, ellas se reflejarán en la cuenta "Provisiones en moneda extranjera", de la misma partida.
 
 b) Moneda chilena.
 
 El respectivo equivalente en moneda chilena de las reservas y provisiones en moneda extranjera, a su vez, debe estar registrado en las cuentas "Equivalente reservas en M/E constituidas con excedentes en M/E", "Equivalente reservas en M/E constituidas con utilidades remesables al exterior" o "Equivalente provisiones en moneda extranjera", según corresponda, todas de la partida 2520.
 
-5.2.- Ajuste de las cuentas que registren los equivalentes en moneda chilena
+4.2.- Ajuste de las cuentas que registren los equivalentes en moneda chilena.
 
-El saldo de las cuentas "Equivalente reservas en M/E constituidas con excedentes en M/E", "Equivalente reservas en M/E constituidas con utilidades remesables al exterior" y "Equivalente provisiones en moneda extranjera", deberá ajustarse mensualmente de acuerdo con el tipo de cambio de representación contable vigente a la fecha del ajuste, con abono a la cuenta "Variación del tipo de cambio de recursos en M/E-Reservas y Provisiones", de la partida 7725 Esta misma cuenta debe utilizarse en el evento de que se produjere una variación negativa del tipo de cambio, que signifique un cargo a resultados.
+El saldo de las cuentas "Equivalente reservas en M/E constituidas con excedentes en M/E", "Equivalente reservas en M/E constituidas con utilidades remesables al exterior" y "Equivalente provisiones en moneda extranjera", deberá ajustarse mensualmente de acuerdo con el tipo de cambio de representación contable vigente a la fecha del ajuste, con abono a la cuenta "Variación del tipo de cambio de recursos en M/E-Reservas y Provisiones", de la partida 7725. Esta misma cuenta debe utilizarse en el evento de que se produjere una variación negativa del tipo de cambio, que signifique un cargo a resultados.
 
-5.3.- Remesa de utilidades.
+4.3.- Remesa de utilidades.
 
-Las instituciones bancarias que, previa autorización de esta Superintendencia, remesen al exterior utilidades por las cuales hayan constituido reservas en moneda extranjera, registrarán dicha operación de la forma que se indica a continuación.
+Las instituciones bancarias que, previa autorización de esta Superintendencia, remesen al exterior utilidades por las cuales hayan constituido reservas en moneda extranjera, registrarán dicha operación de la forma que se indica a continuación:
 
 a) Moneda extranjera.
 
@@ -20776,15 +20756,15 @@ Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera v
 
 - "Equivalente reservas en M/E constituidas con utilidades remesables al exterior".
 
-- "Provisión de impuesto por remesas de utilidades", de la partida 4120, para reflejar el impuesto correspondiente a la utilidad remesada, en forma independiente del pago provisional Esta provisión se saldará al año siguiente, de acuerdo con la respectiva declaración de impuestos.
+- "Provisión de impuesto por remesas de utilidades", de la partida 4120, para reflejar el impuesto correspondiente a la utilidad remesada, en forma independiente del pago,provisional. Esta provisión se saldará al año siguiente, de acuerdo con la respectiva declaración de impuestos.
 
 En todo caso, se entiende que para efectuar la remesa se debe haber dado cumplimiento a las disposiciones tributarias mediante el pago provisional del impuesto correspondiente.
 
 La respectiva cuenta del equivalente en moneda chilena de la partida 2520 se deberá ajustar previamente sobre la base del tipo de cambio establecido para el efecto, que se encuentre vigente en la fecha del ajuste.
 
-5.4.- Castigo de colocaciones en moneda extranjera.
+4.4.- Castigo de colocaciones en moneda extranjera.
 
-a) Moneda extranjera
+a) Moneda extranjera.
 
 Debe: - La cuenta de provisiones o reservas que corresponda de la partida 4520, por el importe en moneda extranjera que se utilice en el castigo.
 
