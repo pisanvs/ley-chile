@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA
+
+Por resolución Nº 108, de 27 diciembre 2002, Serviu Región de Tarapacá, conforme a D.L. Nº 1.523 de 1976 y Nº2.186 de 1978 y D.S. Nº 355 de 1976, 131 de 2002 y 120 de 2000, todos de Vivienda y Urbanismo, dispuso expropiación parcial en 70,80 m2 aproximadamente del inmueble ubicado en Iquique, calle Antártica Nº 2320, Rol de Avalúo 56-02, que corresponde a retazo no expropiado del mismo inmueble mediante resolución Nº 148 de 28 noviembre 2000, de presunto dominio de María Eugenia Marín Astroza. Comisión integrada por peritos señores Jorge Romero Ossio y Ricardo Muixi Decona, constructores civiles, y Santiago Vallejo Medic, según informe de tasación de 6 agosto 2000, fijó monto provisional de indemnización por la totalidad del inmueble en $28.689.893, pagadera al contado.-
+
+Alberto Ramírez Urzúa, Director Serviu Región de Tarapacá.
