@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 527 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 85, superficie 351,00 m², Rol de Avalúo Nº 764-134, comuna de Lampa, para la obra ''Camino Ruta G-184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 al Km. 15,04419'' Región Metropolitana y se acordó el valor de indemnización con su propietario Pedro Arturo Alcaíno Valenzuela, ascendente a la cantidad de $1.687.903.-
+
+Fiscal del Ministerio de Obras Públicas.
