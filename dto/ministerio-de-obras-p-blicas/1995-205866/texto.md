@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.995, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº5-A, superficie 6.103 m², rol de avalúo 157-13, comuna de Pemuco, VIII Región, para la obra "Area de Riego Pemuco Canal San Ramón Faja Adicional Km. 0,022 al 6,378, del Proyecto Laja Digillín" y se acordó el valor de indemnización con su propietario don Francisco Antonio Riquelme Valdebenito, ascendente a la cantidad de $3.905.706.-
+
+Fiscal del Ministerio de Obras Públicas.
