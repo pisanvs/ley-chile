@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 348 de 27 de febrero de 2004, se expropió el lote de terreno Nº 49, superficie 164 m2, rol de Avalúo 335-18, comuna de Laja, para la obra "Camino Ruta Q-34, Candelaria - La Laja, Sector Millantú - La Laja, Km. 20,00000 a Km. 35.88380", VIII Región y se acordó el valor de la indemnización con su propietaria Silvia Eliana Morales Burdiles, ascendente a la cantidad de $373.377.-
+
+Fiscal del Ministerio de Obras Públicas.
