@@ -1,0 +1,5 @@
+AUTORIZA A DON ANDRES PIRAZZOLI REGIS PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 1.210, de 19 de Octubre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Andrés Pirazzoli Regis, R.U.T. N° 2.355.759-2, domiciliado en Almirante Montt N° 472, Santiago, para iniciar actividades de cultivo del recurso Trucha arcoiris, en el Fundo Esmeralda, situado en Potrero Grande, Comuna y Provincia de Curicó, VIII Región (Plano Ordinal Sernap N° 700). Importará las ovas previa autorización de esta Subsecretaría de Pesca. La presente autorización es sin perjuicio de las quecorresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 19 Octubre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
