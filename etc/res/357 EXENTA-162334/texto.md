@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta No. 357 de 26 de agosto de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se autoriza a Roberto Montecinos Gatica, Hugo Lovera González, Luis Delgado Azócar, Guillermo Pempelfort López, Luis Muñoz Sanzana, José Ortiz Palma, Leonardo Martínez González, Manuel Carrillo Contreras, Luis Garnica Vargas, Guillermo Lovera Becerra, Jorge Ruiz Ruiz, Blanca Martin Martin, Howard Olate Frigerio, Héctor Oyarzún Oyarzo, Sergio Vega Vidal, Irma Clasing Mardones, José Meneses Grobe, César Eduardo de Vicenzi, Osvaldo Gómez Sánchez, María Baeza Inzunza, Ernestina Vergara Fuentes, Telmo Silva López, Sergio Baeza Inzunza, Rosendo Peña Poblete y Olga Duarte Quezada para efectuar servicio de taxi colectivo urbano de la Línea No. 15 "San Luis-Centro" de Valdivia, cuyo trazado fue autorizado por Resolución Exenta No. 356 de 26 de agosto de 1985, de esta Secretaría Regional.
+
+- Luis Boldt Quezada, Secretario Regional Ministerial de Transportes y Telecomunicaciones, X Región.
