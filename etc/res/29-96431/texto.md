@@ -1,0 +1,3 @@
+Por resolución No. 29 de 10 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar del 09.10.90., el plazo otorgado a doña MARIA LUCIA ZARECHT ORTEGA, RUT No. 8.059.255-8, domiciliada en la ciudad de Puerto Montt, Pasaje Carolina No. 950, Población Kennedy, en el numeral 5° de la resolución No. 1.354, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 10 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
