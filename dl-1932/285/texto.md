@@ -1,0 +1,51 @@
+SUPLEMENTA PRESUPUESTO MINISTERIO DEL INTERIOR Núm. 285.- Santiago, 25 de Julio de 1932.- He acordado y dicto el siguiente
+
+Decreto-ley:
+
+1.o Supleméntase el Presupuesto del Ministerio del Interior en la suma de doscientos cincuenta y siete mil doscientos setenta y cinco pesos ($ 257,275), que se distribuirá como sigue:
+
+04|01|04:
+
+a) Dos mil doscientos setenta y
+
+cinco pesos_________________ $ 2,275
+
+g) Cinco mil pesos_____________ 5,000
+
+j) Quince mil pesos____________ 15,000
+
+l) Seis mil pesos______________ 6,000
+
+m) Veinte mil pesos____________ 20,000
+
+v) Ochenta mil pesos___________ 80,000
+
+w) Diez mil pesos______________ 10,000
+
+04|02|04|f:
+
+1) Cinco mil pesos_____________ 5,000
+
+g) Veinte mil pesos____________ 20,000
+
+j) Diez mil pesos______________ 10,000
+
+k) Quince mil pesos____________ 15,000
+
+l) Veinticuatro mil pesos______ 24,000
+
+v) Veinte mil pesos____________ 20,000
+
+w) Diez mil pesos______________ 10,000
+
+04|04|04|:
+
+b) Diez mil pesos______________ 10,000
+
+g) Cinco mil pesos_____________ 5,000
+
+2.o El mayor gasto que importa el presente decreto, se deducirá del ítem 02|02|03.
+
+3.o El presente decreto comenzará a regir desde esta fecha.
+
+Tómese razón, regístrese, comuníquese e insértese en el Boletín de Leyes y Decretos del Gobierno.- CARLOS DAVILA.- J. E. Peña Villalón.
