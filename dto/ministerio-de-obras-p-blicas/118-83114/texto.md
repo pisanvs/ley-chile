@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 118, de 25 de Abril de 1990, se expropiaron y autorizaron los Convenios Directos de Precio Ad Referendum para los lotes 2 y 3, superficies 1.026,38 m2. y 1.356,75 m2., roles de avalúo 266 32 y 266 14, Comuna de El Monte, para Autopista Santiago San Antonio, sector Bajada El Paico, con sus propietarios Manuela Armijo Alarcón y Juan Armijo Alarcón, ascendente a $ 475.270.- y $ 757.250.- respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
