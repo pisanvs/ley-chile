@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 24, de 31 de Enero de 1986, se expropió el lote 1 superficie 13.332,75 M2., rol de avalúo 117-1, Comuna de Quilicura, para Circunvalación Américo Vespucio, Sector Panamericana Norte Pudahuel, km. 3.627 al 4.060 y se acordó precio con los propietarios doña a Mercedes Luisa Zamorano Gonz lez y otros, ascendente a $ 2.225.488.
+
+Fiscal del Ministerio de Obras Públicas Subrogante.
