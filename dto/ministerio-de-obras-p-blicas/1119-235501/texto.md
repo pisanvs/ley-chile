@@ -1,0 +1,5 @@
+(
+
+Por decreto MOP Nº 1.119, de 25 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 89 y 155, para la obra Camino Ruta W-853 - Teupa - Queilen, sector Santa María - Queilen, Tramo Km. 25,96000 a Km. 42,34833, que figuran a nombre de Pinto Andrade Pedro Sucesión y Nahuelquín González Pedro, roles de avalúo 143-10 y 113-9, comuna de Queilen, X Región; superficies 21.547 M2. y 110 M2. La Comisión de Peritos fijó con fecha 25 de octubre de 2002, en las cantidades de $4.740.340, para el lote Nº 89 y $20.064.200, para el lote Nº 155. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
