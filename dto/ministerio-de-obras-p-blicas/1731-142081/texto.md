@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.731, de 25 de junio de 1999, se expropió el lote de terreno No. 1, superficie 212 m2, rol de avalúo 5-9, comuna de San Gregorio, para la obra "Ruta 5 Tramo Talca - Chillán, sector: Solución Acceso Principal San Gregorio", Octava Región y se acordó el valor de indemnización con su propietario Pedro Anjel Soto, ascendente a la cantidad de $ 1.874.083.-
+
+Fiscal del Ministerio de Obras Públicas.
