@@ -1,0 +1,3 @@
+Por decreto MOP. Nº572 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº31-C, superficie 110 m2, Rol Nº52-19, comuna de Coínco, para la obra ''Camino Quinta de Tilcoco-Coínco, Sector Quinta de Tilcoco-Coínco, Km. 0.000,000 a Km. 12.732,500'' y se acordó el valor de indemnización con su propietario don Heraldo Antonio Moya Zúñiga, ascendente a la cantidad de $5.683.625.-
+
+Fiscal del Ministerio de Obras Públicas.
