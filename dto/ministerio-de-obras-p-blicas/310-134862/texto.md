@@ -1,0 +1,3 @@
+Por decreto MOP Nº 310, de 26 de febrero de 1999, se expropió el lote de terreno Nº 452-B, superficie 2.578,2 m², rol de avalúo 554-66, comuna de Paillaco, para la obra ''Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno'', Décima Región y se acordó el valor de indemnización con su propietario Hernán Alejandro Gómez Gutiérrez, ascendente a la cantidad de $13.740.052.-
+
+Fiscal del Ministerio de Obras Públicas.
