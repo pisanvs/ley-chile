@@ -1,0 +1,3 @@
+Por decreto MOP Nº198, de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº17, superficie 704,45 m², rol de avalúo 162-21, comuna de Pto. Octay, para la obra "Camino Nochaco-Ensenada, Sector Bif. Lago Rupanco-Pte. Las Cascadas, Km. 10,300 a Km. 31,33251" y se acordó el valor de indemnización con su propietaria Karin Eliana Raddatz Rosenberg y Otros, ascendente a la cantidad de $410.144.-
+
+Fiscal del Ministerio de Obras Públicas.
