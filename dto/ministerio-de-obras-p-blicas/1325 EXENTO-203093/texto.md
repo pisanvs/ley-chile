@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.325 de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº13-A, superficie 1.475 m2, rol de Avalúo Nº524-305, comuna de La Unión, para la obra ''Camino Ruta T-80, Sector La Unión - Las Trancas, tramo Km. 0,900 a Km. 10,99034'', X Región y se acordó el valor de la indemnización con su propietaria María Carolina Grob Anwandter, ascendente a la cantidad de $1.751.478.-
+
+Fiscal del Ministerio de Obras Públicas.
