@@ -1,0 +1,3 @@
+Por Resolución Nº 1.663, de 3 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 91000811, presentada por SEAFINE SALMON S.A., para operar un centro de cultivo en Ensenada Cheñique, Isla Caucahue, Comuna de Quemchi, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78 y 87 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
