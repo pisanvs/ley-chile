@@ -1,0 +1,3 @@
+Por resolución Nº 876, de 18 de mayo de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº 626 de 1996, de esta Subsecretaría, que autorizó a JOSE RICARDO VILLARROEL OYARZO para instalar y operar el centro de cultivo ubicado en Estero Chauquiar, Isla Puluqui, comuna de Calbuco, provincia de Llanquihue, X Región.
+
+Valparaíso, 18 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
