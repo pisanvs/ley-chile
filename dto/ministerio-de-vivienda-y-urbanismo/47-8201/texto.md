@@ -1616,15 +1616,19 @@ En aquellos casos en que los Instrumentos de Planificación Territorial vigentes
 
 #### Artículo 2
 
-1.36. Para los efectos de la confección y aplicación de los Instrumentos de Planificación Territorial se distinguirán tres escalas de equipamiento:
+1.36. Para los efectos de la aplicación de los Instrumentos de Planificación Territorial se distinguirán cuatro escalas de equipamiento independientes de su clase. Estas escalas se dividirán de acuerdo a la carga de ocupación y cantidad de estacionamientos requeridos para el equipamiento y su ubicación estará condicionada a la categoría de la vía que enfrentan y por la cual acceden. Las escalas son las siguientes:
 
-1. Equipamiento Mayor: el de cualquier clase y tamaño, ubicado en predios que enfrentan vías expresas, o vías troncales en al menos la mitad de su perímetro, o vías troncales y además un parque o plaza de superficie mayor a 1 há y el de cualquier clase ubicado en predios que enfrentan vías troncales en menos de la mitad de su perímetro, siempre que contemplen una carga de ocupación de hasta 5.000 personas y no requieran más de 1.000 estacionamientos.
+1. Equipamiento Mayor: El que contempla una carga de ocupación sobre las 4.000 personas y requiere más de 800 estacionamientos; en este caso, sólo se podrá ubicar en predios que enfrenten vías expresas.
 
-2. Equipamiento Mediano: el de cualquier clase ubicado en predios que enfrentan vías colectoras o de servicio, siempre que contemple una carga de ocupación de hasta 2.000 personas y no requiera más de 500 estacionamientos.
+2. Equipamiento Mediano: El que contempla una carga de ocupación de hasta 4.000 personas y no requiere más de 800 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías troncales o expresas.
 
-3. Equipamiento Menor: el de cualquier clase ubicado en predios que enfrentan vías de servicio o locales, siempre que contemple una carga de ocupación de hasta 1.000 personas y no requiera más de 250 estacionamientos.
+También el que contemple una carga de ocupación de hasta 3.000 personas y no requiera más de 500 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías colectoras, troncales o expresas.
 
-Los Municipios podrán asimilar el equipamiento vecinal a las denominaciones de equipamiento mediano o menor señaladas en este artículo, al redefinir su localización conforme al inciso segundo del artículo 2.1.13.
+3. Equipamiento Menor: El que contempla una carga de ocupación de hasta 1.000 personas y no requiere más de 250 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas.
+
+4. Equipamiento Básico: El que contempla una carga de ocupación de hasta 250 personas y no requiere más de 50 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
+
+Los municipios podrán asimilar el equipamiento vecinal a las denominaciones de equipamiento menor o básico señalados en este artículo, al redefinir su localización conforme al inciso segundo del artículo 2.1.13.
 
 #### Artículo 2
 
@@ -3190,39 +3194,41 @@ La cantidad, disposición, capacidad y características de los ascensores que ex
 
 #### Artículo 4
 
-1.13. Los edificios no contiguos que forman parte de un mismo proyecto, deberán contemplar una distancia mínima libre horizontal frente a las fachadas que contemplen vanos de recintos habitables, equivalente a 1/4, 1/3 o 1/2 de la altura del respectivo piso en relación al suelo natural, según se trate de edificaciones ubicadas en la zona norte, centro o sur, conforme se definen en la tabla de rasantes del artículo 2.6.3. de esta Ordenanza. Dicha distancia libre se medirá en forma perpendicular a la fachada respectiva.
+1.13. Los edificios colectivos no contiguos que forman parte de un mismo proyecto, deberán contemplar una distancia mínima libre horizontal frente a las fachadas que contemplen vanos de recintos habitables, equivalente a 1/4, 1/3 o 1/2 de la altura del respectivo piso en relación al suelo natural, según se trate de edificaciones ubicadas en la zona norte, centro o sur, conforme se definen en la tabla de rasantes del artículo 2.6.3. de esta Ordenanza. Dicha distancia libre se medirá en forma perpendicular a la fachada respectiva.
 
 En el caso de fachadas que contemplen sectores con vanos de recintos habitables y otros sin ellos, la distancia mínima horizontal antes señalada deberá cumplirse sólo en el sector que contempla dichos vanos.
 
-Con todo, la distancia mínima libre horizontal frente a las fachadas con o sin vanos de recintos habitables, medida en forma perpendicular a los vanos o a la fachada respectiva, será la que señala la siguiente tabla:
+Con todo, la distancia mínima libre horizontal frente a los vanos de recintos habitables será la siguiente:
 
-Altura de la Distancia mínima libre horizontal
+Cuando estén ubicados a una altura
 
-edificación entre fachadas
+de hasta 3,5 m 4 m
 
-Fachada Fachada
+Cuando estén ubicados a una altura
 
-con vano sin vano
+sobre 3,5 m y hasta 7 m 6 m
 
-Hasta 3,5 m 4,0 m 2,0 m
+Cuando estén ubicados a una altura
 
-Sobre 3,5 m y 6,0 m 3,0 m
+sobre 7 m 8 m"
 
-hasta 7,0 m
+INCISO DEROGADO.
 
-Sobre 7,0 m 8,0 m 4,0 m
-
-A las fachadas o sectores de las mismas, con vanos de recintos no habitables, se les aplicará la distancia mínima horizontal señalada para las fachadas sin vanos de recintos habitables.
-
-Para los efectos de este artículo se considerarán como edificios contiguos aquellos que se encuentran unidos en al menos un tercio de su altura.
+Para los efectos de este artículo se considerarán como edificios contiguos aquellos que se encuentran unidos en al menos un tercio de su altura. Estos edificios deberán cumplir las distancias mínimas libres horizontales señaladas en el artículo 4.1.14.
 
 Los Planes Reguladores Comunales, según sean las características ambientales, topográficas o de asoleamiento, podrán disponer mayores exigencias que las señaladas en este artículo.
 
 #### Artículo 4
 
-1.14. Las fachadas de un mismo edificio colectivo con vanos de recintos habitables deberán contemplar entre ellas una distancia mínima libre horizontal de 6 m, y las fachadas o sectores de ellas sin dichos vanos deberán conservar una distancia mínima libre horizontal de 3 m, en ambos casos medida en forma perpendicular a los vanos o la fachada respectiva.
+1.14. Las fachadas de un mismo edificio colectivo con vanos de recintos habitables de distintas unidades independientes deberán contemplar entre ellas una distancia mínima libre horizontal de 6 m, y las fachadas o sectores de ellas sin dichos vanos deberán conservar una distancia mínima libre horizontal de 3 m, en ambos casos medida en forma perpendicular a los vanos o la fachada respectiva.
 
-Se exceptúan de la distancia mínima indicada en el inciso anterior las fachadas sin vanos y las fachadas con vanos de recintos no habitables cuyos vanos estén ubicados a más de 1,60 m de altura con respecto al piso del recinto.
+Se exceptúan de la distancia mínima indicada en el inciso anterior las fachadas sin vanos y las fachadas con vanos de recintos no habitables cuyos vanos estén ubicados a más de 1,80 m de altura con respecto al piso del recinto.
+
+#### Artículo 4
+
+1.15. Los conjuntos de viviendas unifamiliares, en extensión de hasta 3 pisos de altura, estén o no acogidos al régimen de copropiedad inmobiliaria, deberán contemplar una distancia mínima libre horizontal frente a los vanos de recintos habitables, equivalente a 4,0 m cuando enfrenten vanos de recintos habitables de otra vivienda, y a 2,0 m cuando no enfrenten vanos de recintos habitables. En esta última situación se incluyen los vanos de recintos habitables que enfrentan un muro de cierro, un muro de fachada sin vano de recinto habitable o un muro de fachada con vano pero de recinto no habitable.
+
+Lo dispuesto en el inciso anterior no será exigible en el caso de fachadas o partes de las mismas que no consulten vanos o que consultándolos éstos correspondan a recintos no habitables, las que no deben cumplir ninguna distancia mínima libre.
 
 ## Capítulo 2
 
@@ -7749,6 +7755,10 @@ En estos casos, deberá pagarse el derecho municipal correspondiente a la amplia
 Para su posterior ejecución, el propietario deberá presentar ante la Dirección de Obras Municipales un aviso de iniciación de obras, identificando al profesional competente que supervisará los trabajos.
 
 A estas ampliaciones no les será aplicable lo dispuesto en el artículo 1.4.17. mientras subsista la vivienda original.
+
+#### Artículo 6
+
+1.10. Las viviendas unifamiliares que forman parte de un conjunto a que se refiere el artículo 6.1.8, y las que forman parte de un loteo con construcción simultánea conforme al artículo 6.2.5. cuando se desarrollan en extensión, deberán cumplir, entre ellas, con las distancias mínimas horizontales señaladas en el artículo 4.1.15, sin que les sean aplicables las disposiciones del artículo 2.6.3, todos de esta Ordenanza.
 
 ## Capítulo 2
 
