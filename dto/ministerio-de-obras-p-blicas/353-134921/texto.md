@@ -1,0 +1,3 @@
+Por decreto MOP Nº 353, de 26 de febrero de 1999, se expropió el lote de terreno Nº 53, superficie 18.995 m², rol de avalúo 106-34, comuna de San Pablo, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno-Puerto Montt, Sector San Pablo-Osorno, Décima Región y se acordó el valor de indemnización con sus propietarios Sady Roberto Soto Martínez y Otros, ascendente a la cantidad de $12.034.697.-
+
+Fiscal del Ministerio de Obras Públicas.
