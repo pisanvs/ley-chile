@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.179 de fecha 31 de julio de 2002, se expropió el lote de terreno Nº 9-A, superficie 1.253 m2, rol de avalúo Nº 337-5, comuna de Loncoche, para la obra ''Camino Ruta 741 - Ruta 743 Acceso Huiscapi, sector Acceso Huiscapi, Tramo Km. 0,010 al Km. 3,148'', IX Región y se acordó el valor de la indemnización con su propietaria Elsa Irma Manosalva Cerda, ascendente a la cantidad de $1.892.720.-
+
+Fiscal del Ministerio de Obras Públicas.
