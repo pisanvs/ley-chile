@@ -1,0 +1,3 @@
+Por resolución Nº 1.462, de 9 de octubre de 1998, de esta Subsecretaría, apruébase proyecto de manejo y explotación del área de manejo correspondiente a Los Vilos Sector A, IV Región, individualizada en el artículo 1º Nº 1) del D.S. Nº 509, de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES CALETA SAN PEDRO, comuna Los Vilos, IV Región.
+
+Valparaíso, 9 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
