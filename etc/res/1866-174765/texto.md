@@ -1,0 +1,3 @@
+Por resolución Nº 1.866, de 25 de agosto de 2000, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.729 de 2000, de esta Subsecretaría de Pesca que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad c Nº 2000-14 denominado ''Evaluación acústica del stock desovante de Merluza del Sur en aguas exteriores'', en el sentido de señalar que la pesca de investigación se efectuará entre el 5 de agosto y el 1º de septiembre del presente año, ambas fechas inclusive.
+
+Valparaíso, 25 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
