@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.697 de fecha 29 de noviembre del 2002, se expropió el lote de terreno Nº72-A, superficie 630 m2, Rol Nº162-32, comuna de San Clemente, VII Región para la obra "Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46,140.00 al 76,107.70" y se acordó el valor de indemnización con su propietario Guillermo José Vilches Rojas, ascendente a la cantidad de $1.056.460.-
+
+Fiscal del Ministerio de Obras Públicas.
