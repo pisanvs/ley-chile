@@ -1,0 +1,3 @@
+Por decreto MOP. No. 978, de 30 de julio de 1998, se dejó sin efecto el decreto MOP. No. 841, de 29 de agosto de 1997, en la parte que se refiere a la expropiación de los lotes de terreno No. s.8, 9, 11, 15-F y 47, roles de avalúo No. s.9317-94, 9317-85, 9317-1 y 9317-47, de la comuna de Valparaíso, que figuran a nombre de Humberto Espinoza Gaete, Vicenta Peric de Ostojic, Banco O'Higgins y Isidoro Arensbrug Sponicof, para la ejecución de la obra Habilitación Nuevo Camino La Pólvora Etapa I, Sector Ruta 68 - Acceso Sur a Valparaíso, Camino La Pólvora Rol F-724 y F-730, Sector Placilla - Puertas Negras.-
+
+Fiscal del Ministerio de Obras Públicas.
