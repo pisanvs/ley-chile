@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.400, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº16 - B, superficie 1.692 m², Rol de Avalúo 75-2, comuna de Teno, VII Región, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,22000 al 25,00000'' y se acordó el valor de indemnización con su propietario don José del Carmen Aliaga Castro, ascendente a la cantidad de $2.403.083.
+
+- Fiscal del Ministerio de Obras Públicas.
