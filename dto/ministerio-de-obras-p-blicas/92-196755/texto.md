@@ -1,0 +1,5 @@
+Por decreto MOP Nº 92, de 29 de enero de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 37-1, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago Km.
+
+-0.150,00 al Km. 10.986,00"; Región Metropolitana, que figura a nombre de Alvarez Mora Juan H., rol de avalúo 5353-10, comuna de La Granja, superficie 197 m2. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Ramón Enrique Domingo Labarca y Patricia Verónica Zavala Contreras, fijó con fecha 5 de noviembre de 2001, el valor provisional de la indemnización en la cantidad de $29.142.250.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
