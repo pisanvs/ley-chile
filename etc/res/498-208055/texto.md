@@ -1,0 +1,3 @@
+Por resolución Nº 498, de 18 de febrero de 2003, de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A. para ampliar las actividades pesqueras extractivas con la nave "Alcántara", con arrastre de media agua, en las áreas marítimas que a continuación se indican, sobre los siguientes recursos hidrobiológicos: a) En la III Región, por fuera del área de reserva artesanal: Merluza de cola, b) En la IV Región, por fuera de las 60 millas náuticas contadas desde las líneas de base: Merluza de cola.
+
+Valparaíso, 18 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretaria de Pesca (S).
