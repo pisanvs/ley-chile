@@ -1918,7 +1918,7 @@ Si la solicitada fuere mujer, hija, madre, hermana, o a fin legítima en los mis
 
 #### Artículo 260
 
-Para los efectos de este título y del párrafo IV del título tercero, se reputa empleado todo el que desempeña un cargo público semifiscal, de administración autónoma y municipal, aunque no sea de nombramiento del Jefe de la República, ni reciba sueldo del Estado.
+Para los efectos de este Título y del Párrafo IV del Título III, se reputa empleado todo el que desempeñe un cargo o función pública, sea en la Administración Central o en instituciones o empresas semifiscales, municipales, autónomas u organismos creados por el Estado o dependientes de él, aunque no sean de nombramiento del Jefe de la República ni reciban sueldo del Estado. No obstará a esta calificación el que el cargo sea de elección popular.
 
 ## Título Sexto
 
