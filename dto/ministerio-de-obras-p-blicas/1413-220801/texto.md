@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.413, de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 24-E, superficie 614 m2, rol Nº 286-322, comuna de San Fernando, para la obra "Camino San Fernando - Roma, rol I-301; I-255; I-151, km. 0,000 a km. 10,954.264", VI Región y se acordó el valor de la indemnización con su propietaria Sylvia del Carmen Aravena Vidal y otros, ascendente a la cantidad de $3.103.649.
+
+Fiscal del Ministerio de Obras Públicas.
