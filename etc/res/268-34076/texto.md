@@ -1,0 +1,3 @@
+Por Resolución N° 268, de 10 de marzo de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MAR PROFUNDO S.A., R.U.T. N° 89.919.000-9, para continuar desarrollando, las actividades pesqueras autorizadas por esta Subsecretaría de Pesca a Sociedad Pesquera Mar Profundo Ltda., del mismo R.U.T. y domicilio en virtud de la Escritura Pública y disposiciones legales citadas en Visto.
+
+Valparaíso, 10 de marzo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
