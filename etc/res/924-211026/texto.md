@@ -1,0 +1,5 @@
+AUTORIZA INCORPORACION DE ESPECIES
+
+Resolución (M) 924, de 17 de marzo de 2003, Subsecretaría de Marina, Ministerio de Defensa Nacional, autorizó a Cultivos Marinos Vilupulli y Cía. Limitada, RUT. 78.634.370-4, con domicilio en calle Irarrázabal 47, Casilla 14, Chonchi, para incorporar el cultivo de los grupos de especies Mitílidos, Pectínidos, Ostreídos y el recurso Abalón Rojo, en el establecimiento concesionado según resolución (M) 764, de 3 de febrero de 1997, en Canal Lemuy, frente al Sector Vilupulli, comuna de Chonchi, provincia de Chiloé, X Región de Los Lagos, individualizada en el plano 020/95-A, visado por la autoridad marítima de Chonchi y el plano visado por la Subsecretaría de Pesca.
+
+Santiago, 19 de mayo de 2003.- Por el Subsecretario, Carlos de la Maza Urrutia, Subjefe Subsecretaría de Marina.
