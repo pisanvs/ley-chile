@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.444 de fecha 30 de agosto del 2002, se expropiaron los lotes de terreno Nºs 43 y 44, superficies 4.965 y 6.250 m2 respectivamente, Rol Nº159-5, comuna de Ránquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas Tramo II, Km. 0,00000 al 5,58300'' y se acordó el valor de indemnización con su propietaria Sociedad Inmobiliaria Bellolio Limitada, ascendente a la cantidad de $17.456.505.-
+
+Fiscal del Ministerio de Obras Públicas.
