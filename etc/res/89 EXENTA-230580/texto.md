@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION Nº 89 EXENTA, DE 15 DE SEPTIEMBRE DE 2004, QUE AUTORIZA PRESENTACION DE DECLARACIONES JURADAS QUE SEÑALA, MEDIANTE TRANSMISION ELECTRONICA DE DATOS VIA INTERNET Y QUE ESTABLECE OBLIGACION DE REMITIRSE A LAS INSTRUCCIONES Y FORMULARIOS QUE ESTE SERVICIO MANTIENE A DISPOSICION EN LA PAGINA WEB
+
+A partir del año tributario 2005 los contribuyentes que deban presentar las declaraciones juradas contenidas en los formularios 1856, 1857, 1858, 1859, 1860, 1861, 1864 y 1865 podrán cumplir con esta obligación a través de la transmisión electrónica de datos vía Internet en la página web del Servicio de Impuestos Internos u otro medio tecnológico que este Servicio disponga.
+
+Los contribuyentes que de acuerdo a lo dispuesto en el resolutivo Nº 1 estén obligados a proporcionar la información requerida a través de la transmisión electrónica de datos vía Internet, al igual que aquellos que deben presentar formularios de declaración jurada 1850, 1851, 1853, 1854, de acuerdo a lo dispuesto en las resoluciones exentas Nº 22 y 23 de 2004, deberán remitirse, para efecto de cumplir con esta obligación, a las instrucciones y formatos de registro que este Servicio mantiene disponible en su página web.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en septiembre de 2004.
