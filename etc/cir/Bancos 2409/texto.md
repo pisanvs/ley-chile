@@ -6588,6 +6588,10 @@ Código Plaza Cámara de la Agrupación Jurisdicción
 
 0324 Colina " "
 
+0308 Tiltil " "
+
+0310 Lampa " "
+
 0328 Maipú " "
 
 0360 Peñaflor " "
@@ -6597,6 +6601,14 @@ Código Plaza Cámara de la Agrupación Jurisdicción
 0344 San Bernardo " "
 
 0352 Puente Alto " "
+
+0356 San José de Maipo " "
+
+0357 Pirque " "
+
+0370 El Monte " "
+
+0378 Isla de Maipo " "
 
 0384 Buin " "
 
