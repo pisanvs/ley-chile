@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.448 de 1 de septiembre de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203031014 presentada por HERNAN ALFONSO FRERES CASTILLO, para instalar estructuras de apoyo en un sector de terreno de playa ubicado en Puerto Calderilla, al noreste de Punta Este, III Región.
+
+Valparaíso, 1 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
