@@ -1,0 +1,3 @@
+Por decreto MOP No. 886, de 30 de junio de 1998, se expropiaron los lotes de terreno No. 2 y 4, superficies 1.062 y 1.126 m2. respectivamente, roles de avalúo 218-16 y 218-3, comuna de Villa Alegre, para la obra Camino San Javier Constitución Rol M-30.L, sector Ptes. Los Gemelos y se acordó precio de las indemnizaciones con sus propietarios José Ignacio Sepúlveda y María Inés García, ascendentes a las cantidades de $ 429.425.- para el lote No. 2 y $ 323.207.- para el lote No. 4.
+
+Fiscal del Ministerio de Obras Públicas.
