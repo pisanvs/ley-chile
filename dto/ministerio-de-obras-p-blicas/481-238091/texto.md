@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 481, de 28 de junio de 1996, se expropiarion los lotes de terreno N°s. 1 y 2, superficies 35.600 y 38.879 M2., rol de avalúo 1004-74, comuna de Natales, para la obra Proyecto Mejoramiento Ruta 9 Norte, sector Puerto Natales Aeródromo Ultima Esperanza y se acordó precio de indemnización con su propietario don Humberto Omar Zúñiga Romero, ascedente a la cantidad de $8.483.704.
+
+- Fiscal del Ministerio de Obras Públicas.
