@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 101, de 31 de enero de 1997, se expropiaron los lotes de terreno Nºs. 86, 89, 89-A, 90-G y 116 superficies 3.027 m2, 2.309 m2, 786 m2, 277 m2 y 988 m2, respectivamente, roles de avalúo 2224-544, 2224-522, 2224-543, 2235-16 y 2224-48, comuna de Chillán, para la obra Camino Acceso Norte a Concepción y se acordó el valor de indemnización con sus propietarios Carlos Alfonso Bastías Fuentes, Segundo Laureno Cires, Francisco González Hernández y Víctor Carrasco de la Hoz, ascendente a las cantidades de $1.569.735.-, $2.990.954.-, $725.999.-, $311.826.- y $895.279.-
+
+Fiscal del Ministerio de Obras Públicas.
