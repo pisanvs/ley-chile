@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.027, de 29 de abril de 1999, se expropió el lote de terreno Nº 168-A, superficie 2.625 m², rol de avalúo 357-61, comuna de Yumbel, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli'', Octava Región y se acordó el valor de indemnización con su propietario Aquiles René Burgos Cifuentes, ascendente a la cantidad de $10.522.072.-.
+
+Fiscal del Ministerio de Obras Públicas.
