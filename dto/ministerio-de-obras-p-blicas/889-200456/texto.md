@@ -1,0 +1,3 @@
+Por decreto MOP Nº889, de 31 de mayo de 2002, se expropió el lote de terreno Nº75-D, superficie 48 m², Rol de Avalúo Nº284-94, comuna de San Fernando, para la obra Camino San Fernando Roma, Rol I-301; I-255; I-151, Km. 0,000 a Km. 10,954264, VI Región y se acordó el valor de indemnización con su propietaria Elena Margarita Jara Fuentes, ascendente a la cantidad de $263.676.-
+
+Fiscal del Ministerio de Obras Públicas.
