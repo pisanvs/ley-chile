@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.298, de 20 de septiembre de 2001 y en base a la facultada otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 7, 8, 10, 12, 13 y 36, para la obra Camino Ruta W-80, sector Cruce Longitudinal-Huillinco, Kms 0,000 al 9,556, que figuran a nombre de Pérez Pérez Zenón, Bórquez Pérez Clemente, Mariman Leuquen José del Trans y Márquez Báez José Baldovino, roles de avalúo 152-14, 178-29, 178-62 y 151-8, superficies 77,80 m2; 51,30 m2; 1.493,40 m2;
+
+2.200,00 m2; 2.115,80 m2 y 21,00 m2, comuna de Chonchi. La Comisión de Peritos, con fecha 12 de abril de 1999, fijó la indemnización provisional en las cantidades de $82.790, lote 7, $167.215, lote 8, $746.700, lote 10, $1.146.000, lote 12, $1.127.900, lote 13 y $7.350, lote 36, las que se pagarán al contado. La publicación se efectúa en cumplimiento de lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
