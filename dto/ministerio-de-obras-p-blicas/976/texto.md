@@ -1,0 +1,3 @@
+Por Decreto MOP N 976 de fecha 20 de noviembre de 1996, se expropiaron los lotes de terreno N°s.34 y 35, superficies 21.444 m2 y 2.538 m2 respectivamente, roles de avalúo 1035-8, Comuna de Maipú, para la obra Camino Autopista Santiago San Antonio, sector Empalme Isabel riquelme-Bif.Malloco, Km. 9703 al 24.734,99, y se acordó valor de indemnización con sus propietario Angel Escalona Daza. ascedente a la cantidad de $253.975.539
+
+Fiscal del Ministerio de Obras Públicas.
