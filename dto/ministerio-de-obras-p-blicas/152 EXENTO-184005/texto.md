@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 152, de 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 194-1 y 195-A1, superficies 277 m2. y 105 m2., rol de avalúo 179-28, comuna de Nogales, para la obra Camino Ruta 5 Norte. Tramo: Santiago-Los Vilos, Quinta Región, y se acordó el valor de indemnización con su propietario Juan Manuel Ramírez Navarro, ascendente a la cantidad total de $1.646.777.-
+
+Fiscal del Ministerio de Obras Públicas.
