@@ -5800,6 +5800,8 @@ Código Plaza Jurisdicción
 
 0200 La Ligua "
 
+0202 Puchuncavi "
+
 0208 San Felipe "
 
 0216 Putaendo "
