@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 211, de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº 90, superficie 31 m2, Rol Nº 509-13, comuna de Longaví, VII Región, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietaria Marta del Carmen Garrido Vallejos, ascendente a la cantidad de $285.863.-
+
+Fiscal del Ministerio de Obras Públicas.
