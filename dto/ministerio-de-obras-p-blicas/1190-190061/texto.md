@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.190, de 31 de julio de 2001, se expropió el lote de terreno Nº 9, superficie 1.219 m², rol de avalúo 2908-56, comuna de Pudahuel, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 4, Región Metropolitana y se acordó el valor de indemnización con su propietaria Sociedad de Inversiones Zulú Limitada, ascendente a la cantidad de $29.714.560.-
+
+Fiscal del Ministerio de Obras Públicas.
