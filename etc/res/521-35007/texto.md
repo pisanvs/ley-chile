@@ -1,0 +1,7 @@
+Por Resolución N° 521, de 23 de Julio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA ROYALE LIMITADA, R.U.T. N° 79.706.130-1, para ampliar actividades pesqueras autorizadas por Resoluciones N° 779 y N° 996, ambas de 1987, de esta Subsecretaría de Pesca, en orden a ampliar las líneas de proceso ya autorizadas para su planta ubicada en la X Región, camino Nueva Bruna, Km.4, Puerto Varas, pudiendo incorporar la línea de semita-conserva y, además los siguientes recursos hidrobiológicos: Albacora, o pez espada, Anguila, Bacalao de profundidad, Caballa, Cojinoba del sur, Cojinoba moteada, Corvina, Chancharro, Lenguado de ojos chicos, Lenguado de ojos grandes , Merluza de cola, Merluza de tres aletas, Navaja, Puye, Róbalo, Turbot, Calamar pota o jibia, Caracol tegula, Caracol trophon, Caracol palo palo, Caracol rubio, Caracol picuyo, Chitón o apretador, Chitón espinoso, Juliana, Tumbao, Jibia, Ostión del norte, Ostra del Pacífico, Gamba, Jaiba mora, Jaiba panchote y Pepino de mar.
+
+El recurso Ostra del Pacífico, deberá provenir de centros autorizados par realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
