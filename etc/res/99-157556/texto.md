@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PESQUERA FERMAR LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 99, de 15 de Febrero de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Pesquera Fermar Limitada, domiciliaria en Sagasca 2274, Iquique, para operar la embarcación denominada "FERMAR I", que tiene autorizada por la resolución 499, de 1984, modificada por la resolución 529, de 1984, ambas de la Subsecretaría de Pesca, en el litoral de la VIII Región, durante el período comprendido entre esta fecha y el 31 de Marzo de 1985, en labores extractivas de los siguientes recursos: jurel, sardina española, caballa, anchoa y sardina común.
+
+Santiago, 15 de Febrero de 1985.- Jorge Valenzuela Durán, Coronel de Ejército, Subsecretario de Pesca, subrogante.
