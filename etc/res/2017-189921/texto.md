@@ -1,0 +1,13 @@
+Por resolución Nº 2.017, de 21 de septiembre de 2001, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las capturas de jurel en la I y II Región (Cuarta Etapa)", aprobado por esta Subsecretaría, cuyo objetivo principal consiste en determinar la distribución espacio temporal de las capturas del recurso jurel y su comportamiento gregario con especial énfasis en la estructura de tamaños del recurso y los rendimientos de la flota de cerco de la Zona Norte (I-II Región).
+
+La pesca de investigación que se autoriza se efectuará en el área marítima comprendida entre los paralelos 18º21' L.S. y 26º03' L.S., entre las 08:00 horas del día 24 de septiembre y las 24:00 horas del día 31 de diciembre de 2001, con participación de las siguientes naves:
+
+Naves Industriales: Costa Grande 1, Costa Grande 2, Costa Grande 3, Costa Grande 4, Atacama II, Atacama III, Oficina Germania, Esturión, Oficina Vigo, Huelén, Ralún, Collen, Loa 2, Loa 4, Loa 5, Loa 7, Angamos 1, Angamos 2, Angamos 4, Angamos 9, Don Ernesto Ayala, Máfil, Eperva 61, Eperva 65, Guanaye, Parina I, Relámpago, Trueno, Manuel Rojas, Livilcar, Tambo, Corpesca I, Audaz, Aventurero, Alerce, Blanquillo, Halcón, Marlín, Eperva 49, Eperva 50, Eperva 51, Eperva 56, Eperva 57, Eperva 64, Eperva 66, Gavilán, Huracán, Don Gino, Intrépido, Mero, Patillos, Raulí, Roble, Salmón, Tornado, San Jorge I, Icalma, Reñaca, Juan Manuel, Mar Caribe, Coray II. Naves Artesanales: Don Ubaldo H.Q., Doña Mercedes, Juan Pablo II, Trinquete, Don Rufino, Pompeya II, Santa Carolina II, Ike II, Isaura, Desiderio Rojas, Pampino IV, Santa Mercedes, Loreto IV, Loreto III, Don Juan, Tata Pancho.
+
+En cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer un límite máximo de captura de 80.000 toneladas del recurso Jurel.
+
+El instituto designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su Directora Ejecutiva doña Juanita Gana Quiroz.
+
+Déjase sin efecto las resoluciones Nº 1.409; Nº 1.585, Nº 1.606, Nº 1.706, Nº 1.713, Nº 1.734, Nº 1.771, Nº 1.777, Nº 1.798, Nº 1.884, Nº 1.930, todas de 2001, de esta Subsecretaría.
+
+Valparaíso, 21 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
