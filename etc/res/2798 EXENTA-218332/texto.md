@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.798, de 12 de noviembre de 2003, de esta Subsecretaría, autorízase a FRIGORIFICO COSTANERA S.A. para ampliar actividades pesqueras de transformación, en orden a instalar una planta de transformación, donde podrá procesar, en las líneas de elaboración que se indican, el siguiente recurso hidrobiológico: Cocido, Fresco-Enfriado, Fresco- Refrigerado, Congelado y Seco-Salado: Loco.
+
+Valparaíso, 12 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
