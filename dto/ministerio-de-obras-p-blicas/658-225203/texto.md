@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 658 de 30 de agosto de 1996, se expropió el lote de terreno N°8, superficie 3.770 m2., rol de avalúo 1004-18 comuna de Natales, para la obra Proyecto Habilitación y Construcción Regadío Huertos Familiares de Puerto Natales, Aducción 2a. Etapa y se acordó precio de indemnización con su propietario Juan Andrés Cárdenas Zúñiga, ascendente a la cantidad de $373.366.
+
+Fiscal del Ministerio de Obras Públicas.
