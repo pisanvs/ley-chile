@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.465 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº96, superficie 585 m2., rol de avalúo Nº520-11, comuna de Parral, para la obra ''Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00'' y se acordó el valor de indemnización con su propietario Gladys Udolina Cabrera Troncoso, ascendente a la cantidad de $1.866.488.
+
+- Fiscal del Ministerio de Obras Públicas.
