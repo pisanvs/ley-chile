@@ -1,0 +1,3 @@
+Por resolución Nº 928, de 20 de mayo de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 1.060 de 1988, de esta Subsecretaría, que autorizó a don OLEGARIO ERNESTO DELGADO DIAZ, para operar la nave ''Alborada'', por haber suspendido actividades extractivas por más de 12 meses sucesivos, respecto de los recursos Anchoveta, Sardina española, Jurel y otros pelágicos no declarados en plena explotación de la I a la III Regiones, configurándose la causal prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
