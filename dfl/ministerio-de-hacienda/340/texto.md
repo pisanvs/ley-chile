@@ -16,6 +16,10 @@ DECRETO CON FUERZA DE LEY:
 
 ° Son concesiones marítimas, las que se otorgan sobre bienes nacionales de uso público o bienes fiscales cuyo control, fiscalización y supervigilancia corresponde al Ministerio de Defensa Nacional, Subsecretaría de Marina, cualquiera que sea el uso a que se destine la concesión y el lugar en que se encuentren ubicados lo bienes.
 
+Son concesiones de acuicultura para los efectos de
+
+esta ley, las definidas como tales en la Ley General de Pesca y Acuicultura, que se otorgan para fines de cultivo de especies hidrobiológicas, en las áreas fijadas como apropiadas para el ejercicio de la acuicultura, por el Ministerio de Defensa Nacional y se rigen por las disposiciones de la Ley General Pesca y Acuicultura.
+
 Son permisos o autorizaciones aquellas concesiones marítimas de escasa importancia y de carácter transitorio y que sólo son otorgadas hasta por el plazo de un año.
 
 Las autorizaciones o permisos serán otorgados directamente por la Dirección del Litoral y de Marina Mercante. Las demás concesiones se otorgarán por decreto supremo del Ministerio de Defensa Nacional, Subsecretaría de Marina.
