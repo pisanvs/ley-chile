@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 113 EXENTO, DE 1999
+
+Por decreto exento Nº 113 de fecha 20 de abril de 1999 del Ministerio de Educación, se modificó el decreto exento Nº 246 del 16 de agosto de 1991, que reconoció oficialmente a la Corporación Universidad Católica Blas Cañas, la cual pasa a denominarse Corporación Universidad Católica Cardenal Raúl Silva Henríquez, en conformidad a las modificaciones introducidas a los Estatutos respectivos, que constan en escrituras públicas de fechas 23 de noviembre de 1998 y 16 de marzo de 1999. En conformidad con lo dispuesto en el artículo 46° de los nuevos Estatutos de la Universidad, las citadas modificaciones entrarán en vigencia 90 días después de la publicación del presente decreto en el Diario Oficial.
+
+Santiago, 28 de abril de 1999.- Jaime Perez de Arce Araya, Subsecretario de Educación.
