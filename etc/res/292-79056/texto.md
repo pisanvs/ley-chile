@@ -1,0 +1,3 @@
+Por Resolución No. 292, del 30 de Marzo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 1556, de 1989, de esta Subsecretaría, por la cual se autorizó a don JAIME ALBERTO MARQUEZ OVANDO, R.U.T No. 8.356.965-4 domiciliado en calle Comercio No. 432, La Unión, para instalar y operar un establecimiento de cultivo del recurso alga del género Gracilaria en el río Quenuir, Comuna de Maullín, Provincia de Llanquihue, X Región, por renuncia total y voluntaria del peticionario.
+
+Valparaíso, 30 de Marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
