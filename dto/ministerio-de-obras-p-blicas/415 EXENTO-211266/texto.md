@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº415 de fecha 30 de abril del 2003, se expropió el lote de terreno Nº44-B, superficie 986 m², Rol de Avalúo Nº279-170, comuna de Pelluhue, VII Región para la obra "Camino Chovellen-Cobquecura, Sector Chovellen-Límite Regional, Tramo Km. 18,260.00 a Km. 35,158.60" y se acordó el valor de indemnización con su propietario Oscar Vega Suazo, ascendente a la cantidad de $2.224.128.-
+
+Fiscal del Ministerio de Obras Públicas.
