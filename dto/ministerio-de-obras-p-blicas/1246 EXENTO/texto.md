@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.246, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº107, superficie 192 m², rol de avalúo 184-37, comuna de San Clemente, VII Región, para la obra "Camino Los Robles - Huencuecho - Bajo Perquín, Sector Huencuecho - Bajo Perquín, Tramo Km. 46,140.00 al 76,107.70" y se acordó el valor de indemnización con su propietaria Club Deportivo Unidad Vecinal Nº7 Corralones, ascendente a la cantidad de $1.550.856.
+
+Fiscal del Ministerio de Obras Públicas.
