@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.233, de 30 de noviembre de 2000, se expropió el lote de terreno Nº251, superficie 162 m², rol de avalúo 5463-7, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Pedro Pablo Zúñiga Bravo, ascendente a la cantidad de $16.800.017.-
+
+Fiscal del Ministerio de Obras Públicas.
