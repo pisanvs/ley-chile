@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 644 de 30 de abril de 2004, se expropió el lote de terreno Nº 63-G, superficie 661 m2, rol de Avalúo 334-48, comuna de Laja, para la obra "Camino Ruta Q-34, Candelaria - La Laja, Sector Millantú - La Laja, Km. 20,00000 a Km. 35,88380", VIII Región y se acordó el valor de la indemnización con su propietario Juan Carlos Díaz Maldonado, ascendente a la cantidad de $719.603.
+
+Fiscal del Ministerio de Obras Públicas.
