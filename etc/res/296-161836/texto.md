@@ -1,0 +1,5 @@
+AUTORIZA A MAR JORDAN LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 296, de 02 de Abril de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Mar Jord n Ltda., domiciliada en Arica, para operar la embarcación actualmente en construcción a que se refiere el contrato de construcción de 02 de Diciembre de 1985, celebrado entre Sociedad Mar Jord n Ltda. y Astilleros y Servicios Navales Ltda., en el litoral de las Regiones III y IV, en labores extractivas de sardina española, común, anchoa, jurel y caballa, destinadas a la producción de harina; y de agujilla, atún aleta larga, atún aleta amarilla, ayanque, barrilete, cabinza, cojinova, dorado, pampanito, roncador y rollo, destinados para consumo humano directo mediante algún proceso de preservación. La embarcación debera contar a bordo con sistemas adecuados de preservación de materia prima.
+
+Valparaíso, 02 de Abril de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
