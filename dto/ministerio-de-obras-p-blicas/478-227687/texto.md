@@ -1,0 +1,3 @@
+Por decreto MOP Nº 478 de 15 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 66 para la obra: Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, km. 0,000 a km. 9,317, que figura a nombre de Echeverría Alessandri Javier, rol de avalúo en trámite, Comuna de San Francisco de Mostazal, VI Región, superficie 3.608 m². La Comisión de Peritos, fijó con fecha 15 de septiembre de 2000, en la cantidad de $16.462.000.- lote Nº 66. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7 del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
