@@ -1,0 +1,3 @@
+Por decreto MOP Nº 383, de fecha 25 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 9 y 10, superficies 6.248 M2 y 3.007 M2, rol de avalúo 204-92, comuna de Los Alamos, VIII Región, para la obra "Camino Ruta P-46, Sector Los Alamos-Sara de Lebu, Km. 0,00000 al 16,84000" y se acordó el valor de indemnización con su propietario don Guido Pincheira Vega, ascendente a la cantidad de $9.077.530.
+
+Fiscal del Ministerio de Obras Públicas.
