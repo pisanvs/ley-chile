@@ -1,0 +1,5 @@
+Por decreto MOP Nº600, de 17 de junio de 2003, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP.
+
+Nº206, de 1960, se expropió el lote de terreno Nº20, para la obra: "PROYECTO SISTEMA AMERICO VESPUCIO SUR. RUTA 78 - AV. GRECIA. SECTOR 2: RUTA 5 - AV. GENERAL VELASQUEZ", Región Metropolitana, que figura a nombre de MUNICIPALIDAD DE LO ESPEJO, rol de avalúo 4386-1, comuna de Lo Espejo, superficie 545 m2. La comisión de peritos integrada por los señores Patricia Verónica Zavala Contreras, Carmen Pilar Ríos Marcuello y Jimena Francisca Asenjo Burgos, fijó con fecha 9 de mayo de 2003, el valor provisional de la indemnización en la cantidad de $11.270.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
