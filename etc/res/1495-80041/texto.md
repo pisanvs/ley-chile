@@ -1,0 +1,7 @@
+Por Resolución Nº. 1.495, de 18 de Diciembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA RALUN LTDA., R.U.T. Nº. 89.044.700-7, domiciliada en Santiago, para ampliar actividades pesqueras de transformación, autorizadas por Resolución Nº. 184 y Nº. 193, de 1983 y Nº. 36, de 1986, todas de esta Subsecretaría, en orden a incorporar a los procesos autorizados de la planta industrial ubicada en calle 6 Andina Sitios 41, 46 del Barrio Industrial, Puerto Montt, los siguientes recursos hidrobiológicos: Albacora o pez espada, Anchoa o anchoveta, Bacalao de J. Fernández, Bacalao de profundidad o mero, Blanquillo, Cabrilla, Cabrilla común, Cazón, Lenguado de ojos chicos, Lenguado de ojos grandes, Palometa, Pejezorro, Puye, Róbalo, Salmón del Atlántico, Sardina, Caracol tegula, Caracol palo palo, Caracol locate, Caracol rubio, Huepo o navaja de mar, Jibia, Lapa, Navajuela, Ostión del Norte, Ostión del Sur, Ostra del Pacífico, Pulpo, Camarón de roca, Camarón de río del Norte, Centollón, Gamba, Jaiba mora, Krill y Piure.
+
+Los recursos Salmón del Atlántico, Ostra del Pacífico y Ostión del Norte, deberán provenir de centros cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Diciembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
