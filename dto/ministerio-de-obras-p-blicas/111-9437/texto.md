@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 111, de fecha 31 de marzo de 1994, se expropiaron los lotes de terreno N°s. 14 y 16, superficies 1.860 m2 y 1.650 m2., roles de avalúos 102-009 y 105-006, Comuna de Pencahue, para la obra Regadío Pencahue, Canal Poniente, por el cual se fijó precio de indemnización con sus propietarios Oscar Rodríguez Cerpa y otros, ascendente a la cantidad de $200.138.
+
+Fiscal del Ministerio de Obras Públicas.
