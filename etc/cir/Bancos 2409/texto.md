@@ -10720,11 +10720,11 @@ i) Categoría "A": el saldo de los préstamos de consumo con sus cuotas al día;
 
 ii) Categoría "B": el saldo de préstamos de consumo cuyas cuotas presentan un atraso de hasta un mes;
 
-iii) Categoría "B-": el saldo de los préstamos de consumo cuyas cuotas atrasadas presentan un atraso superior a un mes y hasta tres meses.
+iii) Categoría "B-": el saldo de los préstamos de consumo cuyas cuotas atrasadas presentan un atraso superior a un mes y hasta dos meses;
 
-iv) Categoría "C": el saldo de los préstamos de consumo con cuotas atrasadas por más de tres meses y hasta cinco meses.
+iv) Categoría "C": el saldo de los préstamos de consumo con cuotas atrasadas por más de dos meses y hasta cuatro meses; y,
 
-v) Categoría "D": el saldo de los préstamos de consumo con cuotas atrasadas por más de cinco meses.
+v) Categoría "D": el saldo de los préstamos de consumo con cuotas atrasadas por más de cuatro meses.
 
 En el caso de créditos correspondientes a tarjetas de crédito, se entenderá que la cuota que determina la morosidad conforme a las instrucciones precedentes, corresponde al pago mínimo u obligación exigible más antigua que no haya sido totalmente cubierta.
 
@@ -10774,19 +10774,39 @@ Si el valor actual de las rebajas resulta inferior al 5% del valor total del res
 
 5.2.- Riesgo adicional de los créditos de consumo y créditos hipotecarios para vivienda.
 
-El criterio de clasificar los créditos de consumo y los créditos hipotecarios para vivienda tomando en cuenta solamente la morosidad, según lo establecido en los N°s. 3 y 4 de este título, supone que la institución financiera aplicará procedimientos generales elaborados sobre la base de una prudente ponderación de los factores de riesgo inherentes a esos créditos de carácter masivo.
+El criterio de clasificar los créditos de consumo y los créditos hipotecarios para vivienda tomando en cuenta solamente la morosidad, según lo establecido en los N°s. 3 y 4 de este título, supone que la institución financiera aplicará procedimientos generales elaborados sobre la base de una prudente ponderación de los factores de riesgo inherentes a esos créditos de carácter masivo.Por lo tanto, si en la práctica existen hechos que hagan suponer que la mera aplicación de la metodología de clasificación según la morosidad es insuficiente para determinar el riesgo de dicha cartera, es imprescindible que la institución financiera examine objetivamente los procedimientos que se han seguido en el otorgamiento de dichos créditos y su posterior administración, a fin de establecer el riesgo que no ha sido cubierto.
 
-Por lo tanto, si en la práctica existen hechos que hagan suponer que la mera aplicación de la metodología de clasificación según la morosidad es insuficiente para determinar el riesgo de dicha cartera, es imprescindible que la institución financiera examine objetivamente los procedimientos que se han seguido en el otorgamiento de dichos créditos y su posterior administración, a fin de establecer el riesgo que no ha sido cubierto.
+Para ese efecto, las instituciones financieras se ceñirán a lo siguiente:
 
-Para ese efecto, en el caso de los créditos de consumo se le dará especial importancia a las políticas de selección de deudores, entre otros, en aspectos tales como la verificación de sus antecedentes comerciales y financieros, la estabilidad y comprobación de sus fuentes de ingresos y la relación entre la cuota de pago resultante para el servicio del crédito y el ingreso del deudor.
+5.2.1. Necesidad de calcular el riesgo adicional en los créditos de consumo.
 
-Asimismo, deberá considerarse especialmente la política aplicada en la administración de los créditos que presenten algún grado de morosidad. En este aspecto, las instituciones financieras deben tener presente que la clasificación de los créditos de consumo según la morosidad de pago supone la aplicación de políticas estrictas, tanto en las renegociaciones de los préstamos, ampliaciones o readecuaciones de plazos, como en las novaciones de deudas, en el otorgamiento de nuevos créditos, etc., en que las decisiones se adoptan sobre la base de criterios realistas, estando la institución en condiciones de establecer, al examinar la capacidad de pago del deudor y el comportamiento que ha mostrado en el servicio de su deuda, que el nuevo préstamo será pagado en las condiciones de plazo y tasa de interés que se acuerden. Es evidente, por ejemplo, que se requiere reconocer un riesgo adicional al que deriva de la simple clasificación según la morosidad, si existen renegociaciones recurrentes de ciertos créditos, sea que se nove o no la obligación primitiva, o cuando en alguna renegociación el deudor no ha cubierto al menos los gastos incurridos en la cobranza y parte sustantiva de los intereses devengados.
+Se presumirá insuficiente la sola clasificación de la cartera de créditos de consumo de acuerdo con su morosidad, si en el otorgamiento y administración de dichos créditos no se contemplan los siguientes elementos mínimos:
 
-En lo que concierne a los préstamos hipotecarios para vivienda, por su parte, deberá dársele especial importancia a la política que se emplee en la selección de los prestatarios, a la tasación de los bienes adquiridos con el producto del crédito que sirven como garantía de la operación, a la determinación de la capacidad de pago del deudor y a la estabilidad de la fuente de sus recursos. Asimismo, se considerará con mayor rigurosidad a aquellos prestatarios que hayan recibido préstamos adicionales para completar el precio del bien adquirido u otro crédito para fines diferentes caucionado con la misma hipoteca, debiendo respetarse la norma del artículo 22 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile, que establece un límite al monto total del crédito de manera que el dividendo resultante, en aquellos préstamos iguales o inferiores a UF 3.000, no exceda del 25% del ingreso acreditado por el deudor.
+a) Que las políticas y procedimientos para la selección de los deudores consideren, al menos: la verificación de sus antecedentes comerciales y financieros; la estabilidad y comprobación de sus fuentes de ingresos; y, la relación entre la cuota de pago resultante para el servicio del crédito y la capacidad de pago del deudor, teniendo en cuenta la renta efectivamente disponible, la que deberá considerar, especialmente, su nivel de endeudamiento con otras instituciones financieras o casas comerciales y el tamaño y composición del grupo familiar.
 
-Si, como consecuencia de una evaluación efectuada de acuerdo con las pautas antes descritas, el método de clasificación de cartera sobre la base de la morosidad se demostrare insuficiente, por apartarse el comportamiento objetivo de dicha cartera de las pautas señaladas, la institución financiera, siguiendo un criterio estrictamente prudencial en la evaluación del riesgo potencial, deberá cuantificar el mayor riesgo, considerando para el efecto factores tales como el número de renegociaciones efectuadas, el comportamiento de pago, antecedentes comerciales, estabilidad y suficiencia del ingreso, amortizaciones realizadas al préstamo original, etc., que permitan corregir las insuficiencias según las situaciones que se presenten en cada caso. Los criterios seguidos por la institución financiera para determinar el riesgo adicional, cuando corresponda, deberán quedar debidamente documentados.
+b) Manuales de procedimientos que contengan detalladamente los requisitos para el otorgamiento de los créditos en cuanto a las condiciones y verificaciones necesarias y, además, los procedimientos de excepción para la aprobación de créditos por instancias superiores cuando no se cumplen todos los requisitos preestablecidos.
 
-En todo caso, se presumirá que no es necesario establecer el riesgo adicional, si en la política de otorgamiento y administración de estos créditos se han observado adecuadamente los criterios anteriormente señalados.
+c) Que las políticas para el tratamiento de los créditos en mora consideren criterios realistas para las renegociaciones de los préstamos, novaciones de deudas, ampliaciones o readecuaciones de plazos, como asimismo, para el otorgamiento de nuevos créditos, estando la institución en condiciones de establecer, al examinar la capacidad de pago del deudor y el comportamiento que ha mostrado en el servicio de su deuda, que el nuevo préstamo será pagado en las condiciones de plazo y tasa de interés que se acuerden. Los procedimientos en esta materia comprenden, entre otros: exigencias mínimas respecto de pagos o abonos parciales y límites a las capitalizaciones de intereses y gastos; adecuado nivel jerárquico del comité de créditos o de los funcionarios que autorizan las renegociaciones; y, número máximo de renegociaciones permitidas, asociado a políticas claras de castigos de créditos morosos.
+
+d) Un adecuado sistema de control interno, que asegure el cumplimiento de los procedimientos establecidos para: la selección de deudores; autorización y otorgamiento de los créditos; las novaciones, renegociaciones y cambios en las condiciones de pago en general; la cobranza prejudicial y judicial; y, los castigos contables.
+
+En síntesis, deberá estimarse el riesgo adicional cuando las políticas crediticias no se ajusten a sanos criterios financieros o cuando el riesgo de la cartera de créditos de consumo no responda solamente a los factores previstos en el establecimiento de dichas políticas, sino que se vea afectado por omitirse su cumplimiento debido a un control interno deficiente.
+
+5.2.2. Necesidad de calcular el riesgo adicional en los créditos hipotecarios para la vivienda.
+
+En los préstamos hipotecarios para vivienda, deberá dársele especial importancia a la política que se emplee en la selección de los prestatarios, a la tasación de los bienes adquiridos con el producto del crédito que sirven como garantía de la operación, a la determinación de la capacidad de pago del deudor y a la estabilidad de la fuente de sus recursos. En ese sentido, se considerará con mayor rigurosidad a aquellos prestatarios que mantengan otros préstamos caucionados con la misma hipoteca. Además, en aquellos préstamos iguales o inferiores a 3.000 Unidades de Fomento, se observará en forma especial el cumplimiento del artículo 22 del Capítulo II.A.l del Compendio de Normas Financieras del Banco Central de Chile, que establece un límite al monto total de dichos créditos de manera que el dividendo resultante no exceda del 25% del ingreso acreditado por el deudor y su cónyuge, en el caso que éste se constituya en codeudor solidario.
+
+Todo ello también dentro del contexto de la aplicación de políticas y procedimientos operativos y de control adecuados para el otorgamiento y posterior administración de esos créditos.
+
+5.2.3. Determinación del riesgo adicional.
+
+En caso de que el comportamiento objetivo de la cartera se aparte de las pautas antes señaladas, la institución financiera deberá cuantificar el mayor riesgo en relación con el que se calcula mediante la sola clasificación de la cartera según su morosidad, utilizando una metodología de aplicación permanente que permita, sobre la base de un criterio estrictamente prudencial, corregir las insuficiencias según las situaciones que se presenten.
+
+Dicha metodología deberá incorporar los aspectos o variables de riesgo relevantes para la situación que presente la cartera, como por ejemplo: el comportamiento de pago, tanto en lo que se refiere a las amortizaciones realizadas al préstamo original como al número de renegociaciones efectuadas, el nivel de endeudamiento, el comportamiento de pago en otras instituciones financieras y antecedentes del Boletín de Informaciones Comerciales, la estabilidad y suficiencia de los ingresos, etc.
+
+Los criterios seguidos por la institución financiera para determinar, cuando corresponda, el riesgo adicional de que se trata, como asimismo la aplicación de la metodología establecida, deberán quedar debidamente documentados o respaldados, debiendo contemplarse todos los elementos de control y de información que permitan asegurar y verificar su correcta aplicación y perfeccionar dicha metodología en caso de que se muestre insuficiente.
+
+En todo caso, como ya se indicó, se presumirá que no es necesario establecer el riesgo adicional, si en el otorgamiento y administración de estos créditos se han observado adecuadamente los criterios señalados en los numerales precedentes.
 
 ### 6. Pérdida estimada de la cartera
 
@@ -10874,7 +10894,7 @@ En todo caso, si se otorga un nuevo crédito que tenga alguna de las caracterís
 
 La revisión de esta Superintendencia incluirá también el examen de la razonabilidad del eventual riesgo adicional que hubiera reconocido la institución de acuerdo con lo establecido en el numeral 5.2 de este título o de la necesidad de reconocer tal riesgo adicional.
 
-En caso de observarse que el riesgo adicional determinado por la institución financiera no se ajusta a la realidad observada mediante muestras representativas de la cartera clasificada según su morosidad, este Organismo Fiscalizador podrá establecer la necesidad de reconocer un mayor riesgo potencial de dicha cartera.
+En caso de observarse que el riesgo adicional determinado por la institución financiera no se ajusta a la realidad examinada o en el evento de que los sistemas de información no permitan la aplicación de una metodología adecuada para determinar el riesgo adicional de que se trata, este Organismo Fiscalizador podrá establecer la necesidad de reconocer un mayor riesgo potencial de dicha cartera.
 
 ### 9. Exigencia de provisiones
 
@@ -11336,9 +11356,9 @@ En el caso en que sólo una parte del crédito se encuentre cubierta con garant�
 
 3.2.2. Créditos pagaderos en cuotas.
 
-Cuando se trate de créditos pagaderos en cuotas, como lo son los préstamos en letras de crédito y otros con modalidades de servicio similares, el plazo para efectuar el castigo será de 36 meses a partir de la fecha en que se traspase a cartera vencida la cuota impaga más antigua. Al momento de cumplirse 36 meses de permanencia de una cuota en cartera vencida, se castigará esa cuota y las demás que estuvieren en situación de mora. Las restantes cuotas aún cobrables deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada una de ellas, sin perjuicio de que puede también castigarse el total del saldo del crédito.
+Cuando se trate de créditos pagaderos en cuotas, como lo son los préstamos en letras de crédito y otros con modalidades de servicio similares, el plazo para efectuar el castigo será de 36 meses a partir de la fecha en que se traspase a cartera vencida la cuota impaga más antigua. Al momento de cumplirse 36 meses de permanencia de una cuota diferentes a créditos de consumo en cartera vencida, se castigará esa cuota y las demás que estuvieren en situación de mora. Las restantes cuotas aún cobrables deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada una de ellas, sin perjuicio de que puede también castigarse el total del saldo del crédito.
 
-No obstante, en el caso de los créditos de consumo a que se refiere el numeral 3.1 del título II del Capítulo 8-28 de esta Recopilación, incluidos los créditos correspondientes al uso de tarjetas de crédito, el plazo a que se refiere el párrafo precedente será de 12 meses.
+En el caso de los créditos de consumo a que se refiere el numeral 31 del título II del Capítulo 8-28 de esta Recopilación, incluidos los créditos correspondientes a tarjetas de crédito, deberá castigarse la totalidad del crédito al momento en que una cuota cumpla 6 meses, a contar de su vencimiento, sin que ella se haya pagado.
 
 3.3. Contabilización de los castigos de colocaciones.
 
