@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.153 de 25 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 1, 2, 3 y 4 para la obra: Camino Colonia Central - Roberto Opazo, Rol L-539, Sector Puente Liguay, Km. 2,832.07 a Km. 3,016.22, que figuran a nombre de Parada Ruiz Hernán, Verdejo Maturana Luis, Mackenna Salas Eduardo, roles de avalúo 196-4, 196-34 y 195-42, Comuna de Longaví, VII Región, superficies 323,38; 329,97; 448,26 y 370,21 m2. respectivamente. La Comisión de Peritos, fijó con fecha 11 de diciembre de 2001; el monto de la indemnización provisional en la cantidad de $913.183.- lote Nº 1; $115.490.- lote Nº 2;
+
+$372.891.- lote Nº 3 y $217.574.- lote Nº 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
