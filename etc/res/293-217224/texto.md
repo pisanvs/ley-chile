@@ -1,0 +1,5 @@
+DISPONEN EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+Resolución 293, 13 octubre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle 8 Oriente Sitio 17, Los Boldos, Rol de Avalúo Nº 2754-17, comuna Chiguayante, superficie 305,20 m2 de terreno, y 152,90 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.546; de aparente dominio de Junta de Vecinos Los Boldos, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Chiguayante, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por María Pamela Mac-Guire Acevedo, arquitecto, Víctor Felipe Toledo Quijada, arquitecto, y Roxana Cecilia Abarzúa Gajardo, ingeniero constructor, según informe de fecha 11 de septiembre de 2003, fijó monto provisional indemnización en $21.668.000.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
