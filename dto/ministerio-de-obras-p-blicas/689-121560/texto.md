@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 689, de 29 de mayo de 1998, se expropiaron los lotes de terreno Nº s. 2 y 3, superficies 733 m2. y 211 m2., roles de avalúos 41-31 y 44-26, comuna de Peumo, obra Construcción Ciclovías en Caminos Red Vial Nacional y se acordó precio de indemnización con sus propietarios Angélica Fuentes Rubio y Rolando Cerda Cerda, ascendente a las cantidades de $ 4.151.585 y $ 831.438.-
+
+Fiscal del Ministerio de Obras Públicas.
