@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALA NOTIFICACION
+
+Resolución 372, 5 diciembre 2003, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en el sector Michaihue, Rol de Avalúo Nº15009-640, comuna San Pedro de la Paz, superficie 135.605 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18669, de aparente dominio de Miguel Vera Toledo y Otros, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de San Pedro de la Paz, conforme artículo 51 ley 16.391 y D.L. Nº2.186. Comisión Peritos integrada por María Pamela Mac-Guire Acevedo, arquitecto; Roxana Cecilia Abarzúa Gajardo, ingeniero constructor, e Italo Zerga Arancibia, constructor civil, según informe de fecha 17 de noviembre de 2003, fijó monto provisional indemnización en $33.901.250, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
