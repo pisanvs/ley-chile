@@ -1,0 +1,3 @@
+Por resolución Nº 291, de 26 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95105019, presentada por SALMONES AUCAR LTDA., para operar un centro de cultivo en Golfo de Ancud, Rada Pido, Comuna de Quemchi, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290 de 1993 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
