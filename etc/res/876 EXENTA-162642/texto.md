@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resoluciones exentas N°s. 1550 de 29 de Octubre de 1984 y 876 de 15 de Julio de 1985, conforme Art. 5° - transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a derecho de adquisición y sector expropiado predio: "Casablanca" de la comuna de Renaico, IX Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1, a la 17 sitios N° 10 al 22, bienes comunes generales N° 1 y 2 y Bien común especial, del proyecto de parcelación "Casasblancas" formado por predio señalado. Los derechos de agua se extraen del Canal Santa Ana conducidos por el Derivado Roblería Sur.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+- Director Ejecutivo.
