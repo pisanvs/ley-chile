@@ -1,0 +1,3 @@
+Por Resolución N° 1.106, de 25 de Agosto de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a FRIGORIFICO DAL NORD LTDA., R.U.T. N° 79.704.110-6, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Baquedano N° 302, Coquimbo, en las líneas de elaboración de Congelado y Seco-salado, el recurso hidrobiológico Reineta Brama brama.
+
+Valparaíso, 25 de Agosto de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
