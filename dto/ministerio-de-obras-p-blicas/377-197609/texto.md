@@ -1,0 +1,3 @@
+Por decreto MOP Nº377, de fecha 25 de Febrero del 2002, se expropió el lote de terreno Nº59-B, superficie 77 m2., Rol de Avalúo Nº2213-204, comuna de Chillán, para la obra "Camino Ruta N-45, Sector Cruce Ruta N-49 (Chillán) - La Capilla - Tres Esquinas, Km. 6,26000 a 28,54000", VIII Región, y se acordó el valor de indemnización con su propietario José Angel Montecinos Palma, ascendente a la cantidad de $9.140.421.-
+
+Fiscal del Ministerio de Obras Públicas.
