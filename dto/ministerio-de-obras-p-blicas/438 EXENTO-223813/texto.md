@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 438 de 26 de marzo de 2004, se expropiaron los lotes de terrenos Nº s. 22-E y 22-F, superficies 269,15 y 44,10 m2 respectivamente, rol de avalúo Nº 237-51 y 327-52 respectivamente, comuna de Río Negro, para la obra "Camino Ruta U-72, Sector Huilma-Riachuelo, Tramo Km. 18,14000 al 33,91000", X Región y se acordó el valor de la indemnización con su propietaria Eloiza Vidal Deuman, ascendente a la cantidad de $602.746.
+
+Fiscal del Ministerio de Obras Públicas.
