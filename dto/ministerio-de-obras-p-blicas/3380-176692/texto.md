@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.380, de 31 de julio de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra Camino Ruta M-40, Santa Olga Empedrado, sector Santa Olga-Los Pellines Kms. 0.000 al 10.847,92, que figura a nombre de José Muñoz Arroyo, rol de avalúo en trámite, comuna de Constitución, superficie 662 m2. La Comisión de Peritos, fijó con fecha 26 de mayo de 1998, en la cantidad de $66.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
