@@ -12736,13 +12736,9 @@ El cupón podrá comprender interés y amortización o sólo el interés, según
 
 Cuando se trate de letras de crédito con tasa de interés flotante, se indicará en los respectivos cupones, en lugar del monto de intereses, la fórmula que se utilizará para determinar su importe.
 
-1.2.- Tamaño de las láminas de letras de crédito.
+1.2.- Codificación de las letras de crédito.
 
-Las letras de crédito deben imprimirse en láminas cuyas dimensiones no excederán las señaladas en el Anexo N°1 del Capítulo II.A.1 del Compendio de Normas Financieras. A la misma disposición deberán atenerse con respecto a la ubicación de los antecedentes en las referidas láminas.
-
-1.3.- Codificación de las letras de crédito.
-
-1.3.1.- Código de identificación.
+1.2.1.- Código de identificación.
 
 Las distintas series de letras deberán identificarse mediante un sistema alfanumérico que permita conocer las características de la serie a través de ese código de identificación.
 
@@ -12788,7 +12784,7 @@ Luego del signo alfabético a que se refiere la letra c) precedente, se imprimir
 
 La aplicación práctica de las instrucciones contenidas en este numeral se demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito para vivienda, emitida a 20 años plazo, con una tasa de interés del 8,5% anual y expresada en Indice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2. Asimismo, una letra de crédito de iguales características que la señalada pero con tasa de interés flotante, llevará el siguiente código: ADTIP20V2. No obstante que mediante esta codificación se identifican ahora las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda". Este código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
 
-1.3.2.- Código de transacción bursátil.
+1.2.2.- Código de transacción bursátil.
 
 Las instituciones financieras están facultadas para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación de estos títulos y armonizar también los procedimientos de custodia de aquellos títulos mantenidos en el Banco Central de Chile.
 
@@ -12802,23 +12798,19 @@ DIGITOS : 3 caracteres alfabéticos, numéricos o mixtos, como máximo.
 
 Esta codificación podrá agregarse a las letras de crédito en la oportunidad en que cada institución lo estime necesario.
 
-1.3.3.- Color de las letras de crédito.
+1.3.- Texto de las letras de crédito para la vivienda.
 
-Las letras de crédito para vivienda continuarán imprimiéndose exclusivamente en color azul, tanto para las que se expresen en Unidades de Fomento como para aquellas que se emitan en Indice Valor Promedio.
+El texto y las menciones que deberán contener las letras de crédito para vivienda se indican en los Anexos N°s. 3, 4, 5 y 6 de este capítulo, según se trate de letras expresadas en Unidades de Fomento, en Indice Valor Promedio, a tasa de interés fija o variable. Las letras de crédito para otros fines que contemplen la misma modalidad de amortización ordinaria directa, podrán incorporar el mismo texto de los Anexos señalados, según corresponda.
 
-Las letras de crédito para fines generales se imprimirán en el color que determine la respectiva institución emisora, con excepción, como resulta obvio, del color azul, debiendo procurar cierta uniformidad y permanencia en la utilización de los colores que elijan.
+El texto de las letras de crédito con amortización ordinaria indirecta se ajustará al que se señala en los Anexos N°s. 7 y 8.
 
-1.4.- Uniformidad en la impresión de las letras de crédito y en la confección de las tablas de desarrollo.
+En los anexos N°s. 9 y 10 se muestra el diseño de un cupón de letra de crédito con tasa de interés fija y tasa de interés variable, respectivamente, que como se puede apreciar, incluye la identificación de la letra a que corresponde.
 
-Las instituciones financieras procurarán, entre ellas, uniformar el diseño de los caracteres para imprimir las láminas de las letras de crédito, como asimismo la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de crédito de similares características, colores de los caracteres, fondos, etc. Para tal efecto, pueden considerar las sugerencias que les hiciere la Casa de Moneda de Chile, teniendo en cuenta que, al poner en práctica las medidas señaladas, se simplificará el trabajo de impresión de las letras de crédito, con los consiguientes beneficios de una mayor rapidez de esos trabajos y
-
-abaratamiento de costos.
-
-1.5.- Registro del Prospecto.
+1.4.- Registro del Prospecto.
 
 Si el prospecto presentado por la institución solicitante cumple con todos los requisitos y exigencias legales y reglamentarios, esta Superintendencia procederá a anotarlo en su Registro, de lo cual se dejará constancia en el respectivo certificado de inscripción que se entregará a la entidad financiera.
 
-1.6.- Modificación del Prospecto.
+1.5.- Modificación del Prospecto.
 
 En los casos en que se requiera ampliar el monto de emisión de una serie incluida en un prospecto inscrito en el Registro, será necesario obtener un Certificado de este Organismo.
 
@@ -12896,15 +12888,53 @@ Los plazos establecidos en el Reglamento Financiero del Banco Central de Chile p
 
 En cualquier caso, las instituciones financieras no podrán comprometer operaciones sobre la base de tablas de desarrollo que aún no hayan sido autorizadas por esta Superintendencia.
 
-3.- Condiciones materiales de emisión.
+3.- Confección de las láminas y registro de las medidas de seguridad.
 
-Las letras de crédito serán impresas en la Casa de Moneda. Sin embargo, también pueden serlo en imprentas particulares cuando así lo haya autorizado el Consejo del Banco Central de Chile. En este último casó, las instituciones financieras deberán verificar que las imprentas elegidas para realizar el trabajo cuenten con los medios técnicos y de seguridad necesarios que garanticen una impresión perfecta de estos documentos y que impidan la consumación de irregularidades o de hechos delictuosos que pudieran afectar la confianza en este tipo de instrumentos. En este mismo aspecto, las entidades financieras mantendrán los controles adecuados relacionados con las firmas autorizadas, Registro de Letras y puesta en circulación de éstas.
+3.1.- Características generales.
 
-El texto y las menciones que deberá contener la letra de crédito para vivienda se indican en los Anexos N°s .3, 4, 5 Y 6 de este capítulo, según se trate de letras expresadas en Unidades de Fomento, en Indice Valor Promedio, a tasa de interés fija o variable. Las letras de crédito para otros fines que contemplen la misma modalidad de amortización ordinaria directa, podrán incorporar igual texto.
+Las dimensiones de las láminas no excederán de las señaladas en el Anexo N° 1 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile. A la misma disposición deberán atenerse con respecto a la ubicación de los antecedentes de las referidas láminas.
 
-El texto de las letras de crédito con amortización ordinaria indirecta se ajustará al que se señala en los Anexos N°s. 7 y 8.
+Las letras de crédito para la vivienda deben ser de color azul, en tanto que las letras de crédito para fines generales podrán ser de cualquier otro color, diferente del azul, debiendo procurarse cierta uniformidad y permanencia en su utilización.
 
-En los Anexos N°s. 9 y 10 se muestra el diseño de un cupón de letra de crédito con tasa de interés fija y tasa de interés variable, respectivamente que, como se puede apreciar, incluye la identificación de la letra a que corresponde.
+Las instituciones financieras procurarán, entre ellas, uniformar el diseño de los caracteres para imprimir las láminas de las letras de crédito, como asimismo la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de crédito de similares características, colores de los caracteres, fondos, etc.
+
+3.2- Impresión de las letras de crédito.
+
+La impresión de las letras de crédito se podrá efectuar en láminas separadas y únicas de menciones fijas o en formularios continuos de computación que lleven el texto fijo del instrumento y permitan la inserción de las especificaciones variables del mismo al momento de su emisión material.
+
+Sin perjuicio de las demás instrucciones contenidas en este título, la impresión de las láminas deberá realizarse ciñiéndose a las siguientes disposiciones:
+
+3.2.1.- Normas de seguridad.
+
+Conforme a lo dispuesto en el Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile, las letras de crédito deberán ser confeccionadas considerando al menos dos de las siguientes medidas de seguridad:
+
+a) El papel que se utilice deberá ser con reacción química, sello de agua del emisor o exclusivo para especies valoradas.
+
+b) El papel debe tener incorporadas fibrillas invisibles que reaccionen a la luz ultravioleta.
+
+c) La impresión deberá hacerse con tintas con reacción química o al agua.
+
+d) Contemplar el diseño de seguridad para especies valoradas.
+
+Además, el papel debe contener un porcentaje de algodón que garantice la conservación temporal de las letras de crédito, según el plazo de vencimiento al que serán emitidas.
+
+3.2.2.- Selección de Imprenta.
+
+Las instituciones financieras que decidan contratar la impresión de sus letras de crédito con entidades distintas de la Casa de Moneda, deberán asegurarse de que la imprenta elegida cuente con los medios técnicos que garanticen una impresión perfecta de estos instrumentos y con las medidas de seguridad suficientes que impidan la consumación de irregularidades o de hechos delictuosos que pudieran afectar la confianza en este tipo de documentos.
+
+A fin de dar cumplimiento a las normas del Banco Central de Chile sobre la materia, antes de ordenar la impresión de los referidos instrumentos a entidades dis4 tintas de la Casa de Moneda, las instituciones financieras deberán verificar que se haya acreditado ante esta Superintendencia que la empresa elegida es capaz de cumplir cabalmente con las normas de seguridad señaladas en el numeral 3.2.1 precedente.
+
+Para los efectos de acreditar ante esta Superintendencia esa capacidad, deberá enviarse a este Organismo por parte de la institución financiera que se proponga encargar el trabajo de impresión, un informe técnico de un perito que designe la propia institución financiera, en el que conste que la imprenta de que se trata cumple con las normas de seguridad y está habilitada para efectuar impresiones con las condiciones técnicas establecidas por el Banco Central de Chile para la confección de documentos valorados. Con el recibo de dicho informe, copia del cual se entregará a la empresa que prestará el servicio de impresión, se entenderá cumplida la acreditación señalada en el párrafo precedente, tanto para ese trabajo en particular como para otros trabajos futuros de la misma especie que la empresa ya evaluada técnicamente, contrate con cualquier institución financiera.
+
+3.4.- Información sobre las características de la letra impresa.
+
+Una vez impresas las letras de crédito y antes de su colocación en el mercado, el emisor enviará a esta Superintendencia y a las bolsas de valores en las que las haya inscrito, un ejemplar debidamente inutilizado de las láminas impresas.
+
+Al iniciar la emisión de letras de crédito, el emisor deberá registrar en esta Superintendencia las medidas de seguridad empleadas en su confección; las características de las letras de crédito tales como el tamaño, la entidad que las imprimió, el peso del papel por unidad de superficie y cualquier otro antecedente que pudiera servir para identificar el título o determinar su autenticidad.
+
+En los casos en que las letras de crédito se impriman por lotes parciales, será de responsabilidad de las instituciones financieras emisoras mantener uniformes las medidas de seguridad empleadas en la confección de esos instrumentos y las características de éstos registradas en esta Superintendencia.
+
+Cuando las instituciones emisoras decidan cambiar las medidas de seguridad de las letras de crédito o las características de éstas registradas en esta Superintendencia, para imprimir otros lotes estarán obligadas a enviar un nuevo ejemplar y solicitar su registro, de acuerdo con lo dispuesto en los dos primeros párrafos de este numeral.
 
 4.- Emisión nominal y material de las letras.
 
