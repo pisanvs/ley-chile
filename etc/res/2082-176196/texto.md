@@ -1,0 +1,3 @@
+Por resolución Nº 2.082, de 22 de septiembre de 2000, de esta Subsecretaría, modifícase el numeral 6º de la resolución Nº 1.689 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Investigacion del Jurel entre la III y la X Regiones'', en el sentido de reemplazar la nave ''Líder'' por la nave ''Ligrunn'', ambas de propiedad de Pacific Fisheries S.A. de la nómina de naves participantes en la etapa de delimitación de focos de abundancia de la señalada investigación.
+
+Valparaíso, 22 de septiembre de 2000.- Edith Saa Collantes, Subsecretario de Pesca (S).
