@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.083, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 13 y 69, superficies 12.330 y 672 m², roles de avalúo 21-113 y en trámite, comunas de Río Claro y Pelarco, obra Camino Los Robles-Huencuecho-Bajo Perquín, Sector Los Robles-Huencuecho, y se acordó precio de indemnización con sus propietarios Floridor Segundo Parraguez Cornejo y Abraham del Tránsito Sepúlveda Casanova, ascendente a las cantidades de $4.168.350.- y $661.584.-
+
+Fiscal del Ministerio de Obras Públicas.
