@@ -1,0 +1,3 @@
+Por resolución N° 1.284, de 28 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, facúltase a PESCA CHILE S.A., R.U.T. N° 95.023.000-2, domiciliada en Santiago, calle Estado N° 10, oficina N° 801, para reiniciar las actividades pesqueras con la nave denominada "Corfo I", autorizada mediante resolución N° 1283, de 1992, dentro del plazo de nueve meses contados desde el 2 de enero de 1992, por haber acreditado fuerza mayor que justifica la paralización de las actividades pesqueras extractivas de esa nave.
+
+Valparaíso, 28 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
