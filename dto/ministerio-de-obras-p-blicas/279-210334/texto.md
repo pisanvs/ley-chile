@@ -1,0 +1,3 @@
+Por decreto MOP Nº279, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº122, superficie 256 m2., rol de avalúo 208-10, comuna de Coelemu, para la obra "Camino Ruta O-170, O-176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000", VIII Región y se acordó el valor de indemnización con su propietaria Cristobalina del Campo González, ascendente a la cantidad de $23.600.400.-
+
+Fiscal del Ministerio de Obras Públicas.
