@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.900, de 15 de octubre de 2004, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 201091006 presentada por SOCIEDAD ACUICOLA, AGRICOLA Y COMERCIAL WE NEWEN LIMITADA, para instalar y operar una piscicultura en un terreno privado localizado en estero Llihuin, IX Región.
+
+Valparaíso, 15 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
