@@ -1,0 +1,5 @@
+Por decreto MOP Nº 583 de 9 de julio de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 77 para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2:
+
+Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00" Quinta Región, que figura a nombre de Spratz Sorge Hermann y otros, rol de avalúo 224-5, comuna de La Calera, superficie 9.855 m2. La comisión de peritos integrada por los señores Manuel Hernán Díaz Farfán, María Isabel Ríos Marcuello y José Cristián Larraín Barros, fijó con fecha 17 de mayo de 2004, el valor provisional de la indemnización en la cantidad de $55.446.585.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
