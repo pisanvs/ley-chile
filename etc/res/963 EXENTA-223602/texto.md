@@ -1,0 +1,5 @@
+Por resolución exenta Nº 963, de 6 de abril de 2004, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.999 de 2001, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA LANGEVELD LIMITADA, para operar la nave "Cocha", sobre el recurso Reineta en el litoral de la III Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Asimismo declárase la caducidad parcial de las resoluciones Nº 1.999 de 2001 y Nº 2.349 de 2002, ambas de esta Subsecretaría, sólo en cuanto autorizaron a la nave para operar sobre los recursos Alfonsino en el litoral de la I a IV Regiones y Besugo en el litoral de la I a IV y X Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
