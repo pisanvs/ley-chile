@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.452 de fecha 30 de mayo de 2000, se expropió el lote de terreno Nº13, superficie 794 m², rol de avalúo 3800-260, comuna de Puente Alto, para la obra ''Mejoramiento Eje La Florida, El Peñón-Las Vizcachas, Sector: Km. 6.980 a Km. 10.340 Camino Ruta G-25, Camino Puente Alto'' y se acordó el valor de indemnización con su propietario Guillermo Segundo Espinoza Cabezas, ascendente a la cantidad de $48.084.240.
+
+Fiscal del Ministerio de Obras Públicas.
