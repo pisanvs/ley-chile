@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 478, de 30 de abril de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 5, 5-A y 16-C. Obra: Camino Ruta G-420, sector Camino a Naltagua Tramo Km. 0,000 al Km.
+
+7,700, que figuran a nombre de Suc. Alcalde Irarrázabal Patricio y Ximena Antoncich, roles de avalúos 2509-3 y en trámite, comuna de Isla de Maipo, superficies 42, 93 y 47 m2, respectivamente. La Comisión de Peritos, fijó con fecha 3 de septiembre de 1998, para los lotes 5 y 5-A y con fecha 30 de enero de 1999, para el lote Nº 16-C, en las cantidades de $126.000, lote 5; $279.000, lote 5-A y $141.000, lote 16-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
