@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 442, DE 2004
+
+Por resolución Nº 442, de 23 de agosto de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región de Los Lagos, se aprobó el contrato de concesión, adjudicado mediante resolución exenta Nº 374/2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase AB en la comuna de Puerto Montt, una Planta Revisora Clase AB en la comuna de Valdivia, una Planta Revisora Clase AB en la comuna de Osorno y una Planta Revisora Clase AB en la comuna de Ancud, suscrito el 10 de agosto de 2004, entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la X Región, y la concesionaria "Sociedad Tüv Rheinland - Acchi Limitada". El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Iván Leonhardt Cárdenas, Secretario Regional Ministerial de Transportes y Telecomunicaciones X Región de Los Lagos.
