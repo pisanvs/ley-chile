@@ -1,0 +1,1 @@
+Autoriza a la Empresa de los Ferrocarriles del Estado para poner a disposición de la Municipalidad de San Rosendo la suma de $ 150.000 con el objeto de financiar la construcción de un estadio en dicho pueblo.
