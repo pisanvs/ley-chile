@@ -1,0 +1,3 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A INAGRAM S.A.
+
+La Dirección Regional Metropolitana Santiago Poniente del Servicio de Impuestos Internos, por Resolución N° Ex. 1.755, de 19-12-96 de 1996, otorga la calidad de Agente Retenedor del IVA en la Adquisición de Especies Hidrobiológicas, a contar de la fecha de esta publicación, a la empresa INAGRAM S.A., RUT N° 96.582.600-9, conforme a lo establecido en la parte final del inciso primero del Resolutivo N° 11, de la Resolución N° Ex. 3.069, de la Dirección Nacional, publicada en el D.O. del día 02.07.1996.
