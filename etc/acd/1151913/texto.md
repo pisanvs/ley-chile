@@ -1,0 +1,19 @@
+﻿Sepultaciones en el Monasterio de Santa Rosa
+
+Excmo. Señor:
+
+La Convencion para asegurar su deliberacion en la solicitud del monasterio de Santa Rosa, dirijida a sepultarse en panteon particular dentro de su claustro, oyó el informe de la junta suprema de sanidad: examinado como corresponde i teniendo presente el estado actual del panteon jeneral de esta ciudad, que como todo establecimiento en sus principios, no llena todavía los deseos del público, cuya disposicion piadosa favorece la solicitud de las recurrentes, acordó que no hai inconveniente, para que se permita a las relijiosas la gracia que solicitan, pues en los términos que propone la junta de sanidad están conciliados los derechos de la salud pública, i se camina siempre al fin que se propuso el Excmo. Senado en la instalacion de panteones, como puede V. E. verlo en la adjunta copia que tengo el honor de incluir.
+
+Reciba V. E. la respetuosa consideracion de la Sala i mi particular aprecio.-Sala de la Convencion i Setiembre 28 de 1822.-Excmo. Señor.-Francisco Ruiz Tagle.-Camilo Henríquez secretario.- José Gabriel Palma secretario.-Excmo. Señor Supremo Director del Estado.
+
+Santiago, Octubre 1.° de 1822.-Se sanciona el acuerdo de la Honorable Convencion en los términos contenidos en él.
+
+Publíquese para su observancia en la Gaceta Ministerial i contéstese.-O'Higgins.-Echeverría.
+
+Honorable Convencion:
+
+Discutida por la sesion médica de esta junta la solicitud de la comunidad de Santa Rosa, relativa a sepultar sus religiosas dentro de su clausura, convinieron unánimes sus miembros, que los elementos del hombre en su descomposicion solo son nocivos cuando la aglomeracion de cadáveres en un punto cerrado o cubierto no dan lugar a separarlos como buscan las leyes naturales de su gravedad; pero que humados bajo seis o siete piés de tierra a descubierto con una capa de cal inmediata i en corto número, no pueden producir infeccion pública ni particular, i convencidos de sus fundamentos opina la junta que se les permita por consuelo, i su justa recompensa de su virtud i mérito, a todos los monasterios de mujeres, erijir un pequeño panteon particular dentro de sus muros para sepultar en él las relijiosas profesas, bajo las calidades siguientes:
+
+Tendrá efecto el permiso desde el dia en que esté concluido el panteon privado de cada monasterio, i examinado por el juez de policía urbana, lo apruebe i dé cuenta al Supremo Gobierno. Para hacerlo designará el mismo sitio i su forma que debe ser a descubierto en patio o huerto, sin nichos ni bóvedas, sino por humacion bajo siete pies de tierra. Sobre cada cadáver se pondrá una sesma de cal viva mezclada de arena i asistirá al acto del entierro un eclesiástico nombrado por el juez de policía, que presencie el cumplimiento de este artículo; a cuyo efecto le avisará la prelada la hora del entierro. Solo las monjas profesas gozarán de este privilejio, ni sus criadas, educandas, ni las propias novicias que no hayan profesado en artículo de muerte, podrán disfrutarlo bajo la pena de privacion de esta gracia perpetuamente a la casa que contraviniere. Incidirán en la propia pena los que contravinieren a las demas calidades con que es concedida la gracia. De este modo serán consoladas estas señoras, dignas de nuestra consideracion, como lo han sido en igual caso en todas partes: no sufrirá el público ni ellas mismas en su sanidad, i V. H. tendrá la satisfaccion de combinar los derechos de la salud pública con los de la sensibilidad relijiosa o resolverá segun sea de su agrado.
+
+Dios guarde a V. H. muchos años.- Santiago, Setiembre 17 de 1822.-José Toribio Larrain.-Honorable Convencion del Estado.
