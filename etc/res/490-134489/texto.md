@@ -1,0 +1,5 @@
+Por resolución Nº 490, de 29 de marzo de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.688 de 1989, que autorizó a PESQUERA FAMSO S.A., para operar la nave ''Bermudes II'', sólo en lo relativo a las especies Merluza de cola, Machuelo o tritre, Anchoveta, Caballa, Jurel, Sardina común y Sardina española en el litoral de la III y IV Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Declárase la caducidad de las resoluciones Nº 305 de 1984, Nº 771 de 1985 y Nº 1.688 de 1989, todas de esta Subsecretaría, que autorizaron a Pesquera Famso S.A., antes individualizada, para operar con la nave ''Bermudes II'', en virtud de lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
