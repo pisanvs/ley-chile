@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 1.394 de 28 de noviembre de 2003, se dejó sin efecto el decreto M.O.P. Nº 625 de 29 de febrero de 2000, el cual autorizó el Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 24, por la suma de $791.428.-. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 24 fijada por la Comisión de Peritos con fecha 4 de junio de 1997 ascendente a la cantidad de $638.800.-. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
