@@ -1,0 +1,3 @@
+Por Decreto MOP. No 368,de 31 de marzo de 1998, se expropió el lote de terreno No 6, superficie 2OO m2., rol de avalúo 221-21, comuna de Rengo, obra Construcción Pasarelas Peatonales y Puentes Sexta Región, sector Caminos de Acceso al Puente Popeta H-521, Acceso Sur y se acordó precio de indemnización con su propietario Belisario José Arenas y Otros, ascendente a la cantidad de $2.813.514.
+
+Fiscal del Ministerio de Obras Públicas.
