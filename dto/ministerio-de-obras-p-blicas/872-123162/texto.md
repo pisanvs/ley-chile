@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 872, de 30 de junio de 1998, se expropiaron los lotes de terreno No. s. 1 y 2, superficies 3.893 y 922,50 m², roles de avalúo 247-197 y 247-1, comuna de Salamanca, para la obra Camino Acceso a La Maroma, Puente La Maroma y se acordó precio de indemnización con sus propietarios Rodolfo del Tránsito Zúñiga Soto y Jorge Enrique Cepeda Vicencio, ascendente a la cantidad de $ 4.495.709, para el lote No. 1 y $ 1.857.493, para el lote No. 2.
+
+- Fiscal del Ministerio de Obras Públicas.
