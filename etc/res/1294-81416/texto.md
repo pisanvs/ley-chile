@@ -1,0 +1,3 @@
+Por Resolución No. 1.294, de 26 de Octubre de 1990, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por seis meses a contar de esta fecha, el plazo otorgado a C.I.P., CONSTRUCCION INGENIERIA Y PROYECTOS LIMITADA, RUT No. 85.521.800-3, domiciliada en Santiago, en el numeral 5° de la Resolución No. 804, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 26 de Octubre de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
