@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.596 de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nºs 8-A y 12-A, superficie 215 y 342 m2 respectivamente, rol Nº 153-6 y 153-4, comuna de San Vicente, VI Región, para la obra ''Mejoramiento Camino Ruta H-724, Sector La Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187 y Sector Ruta H-730, Km. 1,600 al Km. 3,292'' y se acordó el valor de indemnización con su propietario Sylvia del Carmen Garrido Valenzuela, ascendente a la cantidad de $2.506.588.-
+
+Fiscal del Ministerio de Obras Públicas.
