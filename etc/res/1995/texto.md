@@ -1,0 +1,7 @@
+Por Resolución N° 1.995, de 29 de Noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PETROPESCA S.A., para ampliar actividades pesqueras de transformación, autorizadas por Resolución N° 1.027, de 1987, de esta Subsecretaría, en orden a incorporar a la planta ubicada en calle El Teniente N° 041, Parque Industrial, Puerto Montt, X Región, las líneas de elaboración de Ahumado y Seco-Salado, para procesar los siguientes recursos hidrobiológicos: Anchoveta, Anguila, Bacalao de profundidad, Brótula, Caballa, Cabrilla común, Cojinoba del norte, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Chancharro, Jurel, Lenguado de ojos grandes, Lisa, Marrajo o tiburón, Merluza común, Merluza de cola, Merluza de tres aletas, Merluza del sur, Palometa, Pejegallo, Pejerrey de mar, Pejesapo, Raya, Róbalo, Rollizo, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado, Sardina común, Sierra, Tollo y Trucha arcoiris.
+
+Los recursos Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado y trucha arcoiris, deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
