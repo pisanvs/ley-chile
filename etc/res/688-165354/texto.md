@@ -1,0 +1,5 @@
+AUTORIZA A DON RAUL MONSALVE PINO, PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución N° 688 de 25 de Octubre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Raúl Monsalve Pino, Cédula de Identidad 4.906.794-1, de Arica, domiciliado en Antofagasta, calle Calafquén 1447, para extraer con las embarcaciones "Gedeón" y "Margarita", autorizadas operar respectivamente por resoluciones 229 de 1984 y 34, de 1985, de la misma Subsecretaría, además de los recursos hidrobiológicos que en ellas se especifican, las especies cojinova, bonito y dorado, destinadas a plantas conserveras y de congelado, atendido lo cual el interesado deberá contar a bordo de las embarcaciones con sistemas adecuados de preservación de la materia prima, tales como contenedores con hielo, cámaras isotérmicas o refrigeradas.
+
+Valparaíso, 25 de Octubre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
