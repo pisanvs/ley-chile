@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.293 de fecha 31 de octubre del 2003, se expropió el lote de terreno Nº 79, superficie 4.447 m2, Rol en trámite, comuna de Pelluhue, VII Región para la obra "Camino Chovellen-Cobquecura, Sector: Chovellen- Límite Regional, Tramo 18,260.00 al 35,158.60", y se acordó el valor de indemnización con su propietario Marcos Alberto Valdés Latapia, ascendente a la cantidad de $8.365.500.
+
+Fiscal del Ministerio de Obras Públicas.
