@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.165 de fecha 29 de noviembre del 2002, se expropió el lote de terreno Nº46, superficie 250 m2, sin rol, comuna de Alto del Carmen, III Región para la obra "Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa II" y se acordó el valor de indemnización con su propietario sucesión de Alicia del Carmen Ossandón Bolados, ascendente a la cantidad de $3.413.100.-
+
+Fiscal del Ministerio de Obras Públicas.
