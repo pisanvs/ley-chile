@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución ministerial Nº 86, del 1 de octubre del año 2001, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo en Prestación de Servicios Agropecuarios y Turísticos Flores del Viento Limitada, de nombre de fantasía Cooperativa Flores del Viento Ltda., de la comuna de Llay Llay; en los términos que dan testimonio el acta constitutiva protocolizada con fecha 3 de abril del 2001, al final de los registros del Notario de Viña del Mar, don Raúl Tavolari Vásquez, bajo el Nº 1.992, y en el acta rectificatoria protocolizada con fecha 15 de junio del 2001, al final de los registros del mismo Notario, bajo el Nº 2.999.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
