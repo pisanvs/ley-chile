@@ -19758,7 +19758,7 @@ En todo caso, la ley contempla una responsabilidad específica para los director
 
 4.1.- Información a las Bolsas de Valores y a esta Superintendencia.
 
-Los hechos o antecedentes que constituyan información esencial, serán comunicados a las Bolsas de Valores y a esta Superintendencia. Cuando se trate de un hecho esencial que tenga su origen en decisiones adoptadas por este mismo Organismo, sólo se enviará a esta Superintendencia una copia del texto de la comunicación entregada a las Bolsas de Valores.
+Los hechos o antecedentes que constituyan información esencial, serán comunicados a esta Superintendencia, como a las Bolsas de Valores y a la Superintendencia de Valores y Seguros. La comunicación a las Bolsas de Valores se hará siguiendo las instrucciones que la Superintendencia de Valores y Seguros tenga establecidas para el efecto. Cuando se trate de un hecho esencial que tenga su origen en decisiones adoptadas por esta Superintendencia de Bancos e Instituciones Financieras, sólo se enviará a este organismo supervisor una copia de la comunicación entregada a las entidades antes mencionadas.
 
 4.2.- Información a los accionistas.
 
@@ -19772,7 +19772,7 @@ Cualquier divulgación de información esencial en la prensa, se efectuará en e
 
 Las instituciones financieras enviarán a esta Superintendencia un ejemplar o fotocopia de las publicaciones efectuadas en el periódico, dentro de los cuatro días hábiles bancarios siguientes a la fecha de la respectiva publicación.
 
-CAPITULO 18-11 (Bancos y Financieras)
+CAPITULO 18-11 (Bancos)
 
 MATERIA:
 
@@ -19782,21 +19782,23 @@ I.- INFORMACION DE TRANSACCIONES DE ACCIONISTAS.
 
 El artículo 12 de la Ley N° 18.045 modificado por el artículo 1° de la Ley N° 19.705 dispone que las personas que directamente o a través de otras personas naturales o jurídicas posean el 10% o más del capital suscrito de una sociedad cuyas acciones se encuentren inscritas en el Registro de Valores, así como los directores y gerentes de esas sociedades, cualquiera sea la cantidad de acciones que posean, deben informar a la Superintendencia de Valores y Seguros y a las bolsas de valores en que dichas acciones se coticen, toda transacción que de ellas efectúen, sean adquisiciones o enajenaciones, dentro de los dos días hábiles siguientes al de la respectiva operación.
 
-De acuerdo con lo señalado precedentemente y de conformidad con lo dispuesto en el artículo 69 de la ley en comento, se establece que los bancos y sociedades financieras cuyas acciones se encuentren incorporadas al Registro de Valores que lleva esta Superintendencia deben dar cumplimiento, en todo lo que les sea aplicable, a las instrucciones impartidas por la Superintendencia de Valores y Seguros acerca de esas materias mediante su Circular N° 585 del 29 de enero de 1986 modificada por la Circular N° 1.531 de 9 de marzo de 2001, de manera que la información que entreguen a esa Superintendencia sea concordante y armónica con la que es proporcionada por las demás empresas emisoras de valores de oferta pública.
+De acuerdo con lo señalado precedentemente y de conformidad con lo dispuesto en el artículo 69 de la ley en comento, se establece que los bancos deben dar cumplimiento, en todo lo que les sea aplicable, a las instrucciones impartidas por la Superintendencia de Valores y Seguros acerca de esas materias, de manera que la información que entreguen a esa Superintendencia sea concordante y armónica con la que es proporcionada por las demás empresas emisoras de valores de oferta pública.
 
-### II. INFORMACION PRIVILEGIADA
+II - INFORMACION PRIVILEGIADA.
 
 El Título XXI de la Ley N° 18.045 establece normas relativas al manejo y uso de la información privilegiada tanto de emisores de valores de oferta pública y de sus negocios, como de dichos valores y señala que cualquier persona que en razón de su cargo, posición, actividad o relación tenga acceso a dicha información, está obligada a guardar estricta reserva y no la puede utilizar para beneficio propio o ajeno.
 
-El artículo 171 de dicha Ley establece que las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto a las transacciones de estas entidades, deberán informar a la dirección de la respectiva empresa y ésta a la Superintendencia de Valores y Seguros, toda adquisición o enajenación de valores que hayan realizado, en la forma y oportunidades que ese Organismo Contralor determine.
+El artículo 171 de dicha Ley establece que las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto a las transacciones de estas entidades, deberán informar a la dirección de la
 
-Sobre la base de la disposición antes mencionada y de conformidad con lo señalado en el artículo 69 de la Ley N° 18.045, esta Superintendencia de Bancos e Instituciones Financieras establece, sin perjuicio de las facultades de fiscalización que le competen, que los bancos y las sociedades financieras deberán remitir directamente a la Superintendencia de Valores y Seguros la información requerida por ese Servicio mediante su Circular N° 1.003 de 21 de marzo de 1991, modificada por la Circular N° 1.340 de 11 de agosto de 1997, y su Circular N° 1.237 de 31 de agosto de 1995, en la forma y dentro de los plazos que esas instrucciones señalan.
+respectiva empresa y ésta a la Superintendencia de Valores y Seguros, toda adquisición o enajenación de valores que hayan realizado, en la forma y oportunidades que ese Organismo Contralor determine.
+
+Sobre la base de la disposición antes mencionada y de conformidad con lo señalado en el artículo 69 de la Ley N° 18.045, esta Superintendencia de Bancos e Instituciones Financieras establece, sin perjuicio de las facultades de fiscalizacion que le competen, que los bancos deberán remitir directamente a la Superintendencia de Valores y Seguros la información requerida por ese Servicio, siguiendo para el efecto las instrucciones que dicha Superintendencia ha impartido para ese objeto, en la forma y dentro de los plazos que ella señale.
 
 III.- INFORMACION SOBRE EL GRUPO EMPRESARIAL.
 
-Las instituciones financieras deberán hacer llegar a la Superintendencia de Valores y Seguros la información acerca del grupo empresarial del que forma parte la sociedad, que ese Organismo ha exigido a las entidades sujetas a su fiscalización mediante su Circular N° 1.246 de 27 de octubre de 1995.
+Las instituciones financieras deberán hacer llegar a la Superintendencia de Valores y Seguros la información acerca del grupo empresarial del que forma parte la sociedad, que ese Organismo ha exigido a las entidades sujetas a su fiscalización
 
-Dicha información se confeccionará de acuerdo a las definiciones sobre grupos empresariales y controladores contenidas en el Título XV de la Ley N° 18.045, debiendo entregarse semestralmente los datos específicos exigidos en aquella Circular, dentro de los cuarenta días siguientes al 30 de junio y 31 de diciembre de cada año.
+Dicha información se confeccionará de acuerdo a las definiciones sobre grupos empresariales y controladores contenidas en el Título XV de la Ley N° 18.045, debiendo entregarse los datos específicos exigidos por esa Superintendencia, en las oportunidades y dentro de los plazos que para esos fines ha establecido.
 
 CAPITULO 18-12 (Bancos y Financieras)
 
