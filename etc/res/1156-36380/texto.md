@@ -1,0 +1,5 @@
+Por Resolución N° 1.156, de 20 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 649, de 1992, de esta Subsecretaría, en el sentido de reemplazar su numeral 1° por el siguiente:
+
+"1.- Déjase sin efecto la Resolución 765, de 1990, de esta Subsecretaría, que autorizó a EXPORTADORA DE PRODUCTOS DEL MAR LIMITADA, R.U.T. N° 79.624.640-5, para operar tres establecimientos de cultivo en tres sectores, que en dicha Resolución se indican, ubicados en Caleta Errázuriz, Comuna y Provincia de Antofagasta, II Región, con excepción de su numeral 11, quedando en consecuencia vigente la Resolución N° 148, de 1983, de esta Subsecretaría, que autorizó a PEDRO GRANIC ROMERO, R.U.T. N° 7.921.724-7, para operar un centro de cultivo ubicado en Caleta Errázuriz, Comuna y Provincia de Antofagasta, II Región".
+
+Valparaíso, 20 de junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
