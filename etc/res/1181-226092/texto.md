@@ -1,0 +1,5 @@
+Por resolución Nº1.181, de 30 de abril de 2004, de esta Subsecretaría, aplícase al grupo de armadores EMDEPES S.A., PESCA CHILE S.A., YELCHO S.A., FRIOSUR VII S.A., FRIOSUR X S.A., cuya participación conjunta fue reconocida mediante resolución Nº136, de 2003, de esta Subsecretaría, la sanción establecida en el artículo 12 inciso 4º de la Ley Nº19.713, respecto de la unidad de pesquería de Merluza del sur, sur exterior individualizada en el artículo 2º letra i) de la Ley Nº19.713.
+
+Descuéntese al grupo de armadores individualizado 478,879 toneladas que corresponden al 10% del límite máximo de captura al grupo de armadores antes individualizado, reconocidos mediante decreto exento Nº1.117 del 2002, del Ministerio de Economía, Fomento y Reconstrucción, ascendente a 4.788,785 toneladas.
+
+Valparaíso, 30 de abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
