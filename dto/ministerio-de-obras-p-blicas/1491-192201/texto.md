@@ -1,0 +1,3 @@
+Por decreto MOP Nº1491 de fecha 28 de septiembre del 2001, se expropió el lote de terreno Nº41 superficie 276 m², rol de avalúo 543-87, comuna de Linares, para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta, Tramo: Km.0,00000 a Km. 15,48000" y se acordó el valor de indemnización con su propietario Eduardo Enrique Tapia Alarcón, ascendente a la cantidad de $6.831.975.-
+
+Fiscal del Ministerio de Obras Públicas.
