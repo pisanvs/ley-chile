@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A ''CHILENA CONSOLIDADA SEGUROS DE VIDA S.A.''
+
+Certifico: Que por resolución exenta Nº 15, de 12 de enero de 1999, se aprobó reforma de estatutos de la sociedad anónima ''Chilena Consolidada Seguros de Vida S.A.'', acordada en Junta Extraordinaria de Accionistas de 23 de noviembre de 1998, cuya acta consta de la escritura pública de 23 de noviembre de 1998 otorgada ante el Notario de Santiago don Iván Torrealba Acevedo. La reforma consiste en dejar sin efecto la parte no suscrita ni pagada del capital y aumentarlo de $26.015.311.576.- dividido en 109.164.727 acciones sin valor nominal a $40.015.311.576.- dividido en 165.164.727 acciones sin valor nominal, dentro del plazo de 3 años contado desde el 23 de novimbre de 1998.
+
+Santiago, 12 de enero de 1999.- Nelson Torres Morgado, Secretario General Subrogante.
