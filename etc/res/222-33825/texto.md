@@ -1,0 +1,3 @@
+Por Resolución N° 222, de 6 de febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SALMONES MULTIEXPORT LIMITADA, para operar un centro de cultivo ubicado en Punta Balseo, Canal Dalcahue, Comuna de Curaco de Vélez, Provincia de Chiloé, X Región, en virtud a lo dispuesto en el artículo 78 inciso 2° de la Ley General de Pesca y Acuicultura, por sobreponerse con una concesión de acuicultura ya otorgada.
+
+Valparaíso, 6 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
