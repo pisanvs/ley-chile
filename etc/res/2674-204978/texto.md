@@ -1,0 +1,3 @@
+Por resolución Nº 2.674, de 15 de noviembre de 2002, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111076 presentada por MARINE HARVEST CHILE S.A. para un centro de cultivo ubicado en Golfillo de la Lobada de Quetros, Sector Puerto Cholga, Islas Mercedes, XI Región.
+
+Valparaíso, 15 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
