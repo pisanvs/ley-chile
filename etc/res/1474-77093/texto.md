@@ -1,0 +1,3 @@
+Por Resolución Nº 1.474, de 5 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95103211, presentada por AGUAS CLARAS S.A., para la concesión de acuicultura ubicada en Sector Punta Putique, Isla Quinchao, Comuna de Quinchao, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
