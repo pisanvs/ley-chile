@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.378, de 31 de julio de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 368, para la obra:
+
+''Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Av. Grecia. Sector 3: Ruta 5 - Acceso Sur a Santiago'', Región Metropolitana, que figura a nombre de Sandoval Godoy Elsa, rol de avalúo 2240-12, comuna de La Granja, superficie 39 m2. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, Miguel Juan Fernández Cádiz y María Soledad Saffie Duery, fijó con fecha 12 de junio de 2002, el valor provisional de la indemnización en la cantidad de $4.494.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
