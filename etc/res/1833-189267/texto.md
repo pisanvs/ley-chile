@@ -1,0 +1,3 @@
+Por resolución número 1.833, de 5 de septiembre de 2001, de esta Subsecretaría, recházase la solicitud de instalación y operación de vivero, solicitud Nº 99102020, presentada por la AGRUPACION DE LOCATARIOS FERIA FLUVIAL MEHUIN, para instalar un vivero ubicado en Río Lingue, Comuna de Mariquina, Provincia de Valdivia, X Región.
+
+Valparaíso, 5 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
