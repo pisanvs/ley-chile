@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 871 EXENTA, DE 2004
+
+Por resolución exenta Nº871, de 23 de julio de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº475, de 2004, del mismo origen, para la instalación y operación de cuatro plantas revisoras clase B, en zonas centro; nor oriente; sur oriente y poniente de la Región Metropolitana, y una planta clase A2 en cualquier zona de la Región Metropolitana, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, y la concesionaria "SGS Chile Limitada", el 5 de julio de 2004. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
