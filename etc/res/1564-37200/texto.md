@@ -1,0 +1,3 @@
+Por Resolución N° 1.564, de 3 de Noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución N° 108 de 1979, de esta Subsecretaría, solamente en cuanto autorizó a PESQUERA RIQUELME, CARTES Y COMPAÑIA LIMITADA, R.U.T. N° 85.673.200-2, para realizar actividades pesqueras extractivas con la nave "Punta Grande", matrícula 1646, respecto de la autorización para capturar Merluza común, Merluccius gayi, en el litoral de las VII y VIII Regiones, en virtud de lo señalado en el inciso 2° de la letra b) del Art. 143 del D.S. N° 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de Noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
