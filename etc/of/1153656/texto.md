@@ -1,0 +1,5 @@
+﻿Oficio de la Junta de Gobierno al Congreso
+
+Con el mensaje de V. A. hemos recibido un auto de esta fecha, que, a consecuencia de nuestro oficio de ayer, ha dictado este ilustre ayuntamiento por peticion del pueblo, que, instruido de aquél i de la residencia que pedimos en público por nuestros secretarios, tuvo a bien deliberar. En él está declarada nuestra cesacion del Poder Ejecutivo que ejercíamos, la misma que ratifica el enviado en términos que obligan nuestro reconocimiento. Sírvase V. E. aceptarlo trasmitiéndolo por el mismo cabildo al pueblo, sobre el concepto, que desde la esfera de hombres privados en que desde aquel momento existimos, deseamos el apreciable de ratificar nuestra mas ciega obediencia.-Nuestro Señor guarde la importante vida de V. A. muchos años.-
+
+Santiago, 16 de Noviembre de 1811.-Dr. José Gaspar Marin.-Martin Calvo Encalada. -Juan Enrique Rosales.-Juan Miguel Benavente.-Juan Mackenna.-Agustin de Vial, secretario.
