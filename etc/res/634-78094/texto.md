@@ -1,0 +1,5 @@
+Por resolución No. 634, de 14 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PESCA CHILE S.A. R.U.T. No.
+
+95.023.000-2, domiciliada en la ciudad de Santiago, calle Estado No. 10, Oficina 801, para ampliar actividades pesqueras de transformación, en orden a incluir entre los recursos hidrobiológicos que puede procesar en su Planta Industrial de la XI Región, ubicada en Puerto Chacabuco, Patricio Lynch S/N, en la línea de elaboración de Congelado, los siguientes: Langosta enana, Cangrejo de profundidad. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que establezcan.
+
+Valparaíso, 14 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
