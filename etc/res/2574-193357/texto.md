@@ -1,0 +1,3 @@
+Por resolución Nº 2.574 de 27 de diciembre de 2001, de esta Subsecretaría, autorízase a PESQUERA YELCHO S.A., para realizar operaciones pesqueras, a contar del 1º de enero del 2002 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con el barco fábrica denominado Gualas, en aguas exteriores, por fuera de las líneas de base recta, al Sur del paralelo 44°30 de latitud sur, respecto de las áreas y recursos y con las obligaciones establecidas en su autorización.
+
+Valparaíso, 27 de diciembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
