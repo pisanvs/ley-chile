@@ -1,0 +1,3 @@
+Por resolución Nº2.355, de 20 de octubre de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº487 de 1995, de esta Subsecretaría, que autorizó a don JUAN ALBERTO CARRIZO URBINA, para ampliar actividades pesqueras con la nave ''Aurora Patricia'', en virtud de lo dispuesto en el artículo 143 letras b) y d) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
