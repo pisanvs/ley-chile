@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 81, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2315-2321, Rol 332-2 Santiago, aparente dominio Alfonso Penjean y Otros, superficie aproximada a expropiar 411 m2. Deslindes: Norte, 14,30 mts. con resto del predio; Sur, 14,30 mts. con calle Agustinas; Oriente 28,50 mts. con otra propiedad y Poniente, 29,00 mts. con otro propietario Indemnización provisional $ 10.008.500.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
