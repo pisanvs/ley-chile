@@ -1,0 +1,5 @@
+Por resolución Nº 1.913, de 30 de diciembre de 1998, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A., para ampliar actividades pesqueras autorizadas por las resoluciones Nº 14, de 1989, Nº 239, de 1992 y Nº 1.343, de 1996, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en calle Pedro Montt Nº 405, Talcahuano, VIII Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Congelado: Albacora o pez espada, Anguila, Azulejo, Blanquillo, Brótula, Camarón del sur, Cojinoba del norte, Corvina, Corvinilla, Gamba, Lenguado de ojos chicos, Merluza de cola, Merluza de tres aletas, Orange roughy, Oreo dorie, Palometa, Sierra y Marrajo o tiburón.
+
+El recursos Orange roughy y el Oreo dorie como su fauna acompañante, deberán provenir de pesqueros que cuenten con permisos extraordinarios de pesca para la captura del recurso.
+
+Valparaíso, 30 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
