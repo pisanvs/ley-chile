@@ -1,0 +1,5 @@
+Por decreto MOP Nº914, de 15 de mayo de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº22-2, para la obra: ''Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Av. Grecia. Sector 4: Acceso Sur A Santiago -
+
+Av. Vicuña Mackenna'', Región Metropolitana, que figura a nombre de Castro Castro Raúl, rol de avalúo 441-2, comuna de La Florida, superficie 307 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Itsang Lu Chen y Joaquín Guillermo Enrique Eyzaguirre Edwards, fijó con fecha 05 de abril de 2002, el valor provisional de la indemnización en la cantidad de $52.609.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
