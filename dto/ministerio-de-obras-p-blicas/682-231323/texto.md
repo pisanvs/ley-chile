@@ -1,0 +1,3 @@
+Por decreto MOP Nº 682, de 19 de agosto de 2004, autorizó el convenio Directo de Precio de fecha 13 de mayo de 2004, suscrito con el Servicio de Salud Metropolitano Sur Oriente, representado por don Pedro Alejandro Yáñez Alvarado, en virtud del cual se fijó el monto definitivo de la indemnización por la expropiación del lote Nº 216L4 en la suma de $148.669.300.
+
+- Fiscal del Ministerio de Obras Públicas.
