@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº276 de fecha 22 de marzo del 2002, se expropió el lote de terreno Nº30, superficie 668,2 m², Rol de Avalúo Nº307-110, comuna de Curacautín, para la obra "Lautaro Curacautín III, Segunda Etapa, Km. 28,000 al Km. 56,04946" y se acordó el valor de indemnización con su propietario Pedro Luis Fernández Mardones, ascendente a la cantidad de $571.724.-
+
+Fiscal del Ministerio de Obras Públicas.
