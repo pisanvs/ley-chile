@@ -1,0 +1,3 @@
+Por resolución exenta Nº 725, de 18 de marzo de 2005, de esta Subsecretaría, autorízase a LUIS AMABLE JESUS BERNALES MAUJER para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Pasaje 3-A, Nº 725 (ex Fundo La Vega), sector Boca Sur, San Pedro de la Paz, VIII Región, donde podrá elaborar en las líneas de procesos de Cocido, Fresco enfriado, Fresco refrigerado, Congelado, Seco salado, Deshidratado y Salado húmedo, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
