@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.088, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº74, superficie 3.447 m², rol de Avalúo Nº165-162, comuna de Fresia, para la obra "Mejoramiento Ruta V-46 Sector Tegualda-Fresia, Tramo 2, Km. 1,90990 al 15,88000", X Región y se acordó el valor de la indemnización con su propietario Hugo Horacio Contreras Guerrero, ascendente a la cantidad de $1.489.120.-
+
+Fiscal del Ministerio de Obras Públicas.
