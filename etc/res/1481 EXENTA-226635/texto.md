@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.481, de 27 de mayo de 2004 de esta Subsecretaría, autorízase a SALMONOIL S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en sector La Campana s/n, Calbuco, X Región, en las líneas de elaboración de harina y aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 27 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
