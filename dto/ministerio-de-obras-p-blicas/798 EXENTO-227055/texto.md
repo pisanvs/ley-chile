@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 798 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 75, superficie 2.016 m2, Rol Nº 231-54, comuna de Toltén, IX Región, para la obra "Camino Ruta S-790 Sector Nueva Toltén - Limite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietaria María Graciela Calcumil Curihuinca, ascendente a la cantidad de $1.077.941.
+
+- Fiscal del Ministerio de Obras Públicas.
