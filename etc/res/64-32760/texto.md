@@ -1,0 +1,3 @@
+Por resolución N° 64 de 30 de Diciembre de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VII Región, se adjudicó a GARAJE LAS ACACIAS LTDA., la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en el Camino La Posada s/n° de la comuna de Linares, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Carlos Pérez Molina, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Maule.
