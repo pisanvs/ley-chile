@@ -1,0 +1,3 @@
+Por resolución Nº 1.297, de 18 de junio de 2003, de esta Subsecretaría, autorízase a FAENADORA SUPER LTDA. para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en el kilómetro 18 Ruta H-30 S/N, localidad de Lo Miranda, comuna de Doñihue, VI Región, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Hamburguesas, Empanizados y Marinados: Salmón del Pacífico, Salmón del Atlántico y Trucha arcoiris.
+
+Valparaíso, 18 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
