@@ -490,31 +490,33 @@ La Municipalidad deberá publicar en el Diario Oficial el texto íntegro de la r
 
 #### Artículo 2
 
-1.8. Para los fines previstos en el número 1 del inciso segundo del artículo 45 de la Ley General de Urbanismo y Construcciones, en el equipamiento vecinal se entenderá comprendido todo lo relacionado con la proyección y construcción de canchas deportivas, cines, juegos electrónicos, bares, fuentes de soda, locales comerciales, ferias, correos, lavanderías, peluquerías, gasfiterías, talleres de costuras o modas, jardines de plantas, talleres pequeños de cualquier tipo, dispensarios, consultorios, escuelas básicas, jardines infantiles, parvularios, retenes, capillas, bibliotecas, sedes de juntas vecinales, centros de madres, centros sociales y, en general, todas aquellas construcciones de análogo nivel que, de una u otra manera, beneficien a la comunidad que habita en una unidad vecinal.
+1.8. Las enmiendas a que se refiere el inciso segundo del artículo 45 de la Ley General de Urbanismo y Construcciones serán elaboradas por la Municipalidad y aprobadas por el Concejo Municipal respectivo, conforme a las reglas de este artículo.
 
-Para los efectos de lo dispuesto en el número 3 del inciso segundo del artículo precitado, se establecen los márgenes que se indican en relación con las condiciones de edificación que se señalan en el cuadro siguiente:
+Para los fines previstos en el número 1. del inciso segundo, del artículo 45 de la Ley General de Urbanismo y Construcciones, el Concejo Municipal podrá redefinir la localización del equipamiento vecinal en los barrios o sectores, para lo cual deberá cambiar los usos de suelo así establecidos en el Plan Regulador Comunal, ya sea suprimiendo algunos o permitiendo otros, en la misma área o en otra nueva.
 
-_______________________________________________________
+Para efectos de lo dispuesto en el número 2. del inciso segundo, del citado artículo 45, el Concejo Municipal podrá autorizar Planos Seccionales, confeccionados por el Asesor Urbanista, en que se precisen los trazados viales contemplados en el Plan Regulador Comunal o en los Seccionales vigentes.
 
-|CONDICIONES DE EDIFICACION MARGENES |
+Para efectos de lo dispuesto en el número 3 del inciso segundo del artículo precitado, el Concejo Municipal podrá autorizar enmiendas que alteren las condiciones de edificación y urbanización del Plan Regulador Comunal o de los Seccionales vigentes, dentro de los márgenes que se señalan en el siguiente cuadro:
 
-|=====================================================|
+Condiciones de Edificación Márgenes
 
-|Coeficiente de |
+Coeficiente de constructibilidad Puede aumentarse
 
-|constructibilidad -Puede aumentarse hasta un 20% |
+hasta un 20%
 
-|Coeficiente de |
+Coeficiente de ocupación de suelo Puede aumentarse
 
-|ocupación de suelo -Puede aumentarse hasta un 20% |
+hasta un 20%
 
-|Tamaño predial -Puede disminuirse hasta un 20% |
+Tamaño predial Puede disminuirse
 
-|Frente predial -Puede disminuirse hasta un 20% |
+hasta un 20%
 
-|_____________________________________________________|
+Para estos efectos, será aplicable, además, en las Regiones I, II, XI y XII lo dispuesto en el penúltimo inciso del artículo 2.6.3. de esta Ordenanza.
 
-Las modificaciones que alteren los márgenes en cada condición de edificación podrán ser ejercitadas en forma parcial, sucesiva o total dentro de la vigencia de cada Plan Regulador Comunal, pero en ningún caso la suma total de ellas podrá exceder los porcentajes antes indicados para cada condición.
+Las enmiendas que alteren los márgenes en cada condición de edificación podrán ser ejercitadas en forma parcial, sucesiva o total dentro de la vigencia de cada Plan Regulador Comunal, pero en ningún caso la suma total de ellas podrá exceder los porcentajes antes indicados para cada condición. Las enmiendas que se aprueben conforme a este artículo deberán comprender, homogéneamente, zonas o subzonas del plan, o bien, parte de ellas.
+
+Una vez concluidos los trámites de aprobación de las aludidas enmiendas, que incluyen el proceso de exposición al público y evaluación de las observaciones formuladas por los interesados, a que se refiere la letra a) del artículo 43 de la Ley General de Urbanismo y Construcciones, el decreto alcaldicio que las sanciona junto con el acuerdo del Concejo y la Ordenanza respectiva, se publicarán en el Diario Oficial, todo lo cual se archivará junto a los respectivos planos, con todos sus antecedentes, en el Municipio y en el Conservador de Bienes Raíces correspondiente. Copia oficial de estos antecedentes deberá ser remitida por la Municipalidad a la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, a la División de Desarrollo Urbano del mismo Ministerio y al Gobierno Regional, los que podrán ser adquiridos por cualquier Interesado.
 
 #### Artículo 2
 
@@ -1724,6 +1726,34 @@ Cuando se requiera de juntas de dilatación, éstas no podrán ser superiores a 
 
 1.9. Las Direcciones de Obras Municipales podrán dar permiso de edificación, y otorgar la recepción final de las construcciones, siempre que se cumplan los requisitos establecidos en las disposiciones a que se refiere el artículo anterior, correspondiéndole a las autoridades de salud controlar su aplicación desde el momento en que se haga uso de los edificios.
 
+#### Artículo 4
+
+1.10.- Todas las viviendas deberán cumplir con las exigencias de acondicionamiento térmico que se señalan a continuación:
+
+1.- El complejo de techumbre de la vivienda, entendido éste como el conjunto de elementos que la conforman, en adelante el complejo de techumbre, deberá tener una transmitancia térmica ''U'' igual o menor, o una resistencia térmica total ''RT'' igual o superior, a la señalada para la zona que le corresponda a la localidad de la comuna en que se ubique el proyecto, de acuerdo a los planos aprobados por resoluciones del Ministro de Vivienda y Urbanismo y a la siguiente tabla:
+
+2.- En el caso de mansardas o paramentos inclinados, se considerará complejo de techumbre aquel elemento cuyo cielo tenga una inclinación de 60° sexagesimales o menos medidos desde la horizontal y se considerará muro o tabique a aquel con más de 60°, medidos desde la horizontal.
+
+3.- Para minimizar la ocurrencia de puentes térmicos, los materiales aislantes térmicos o soluciones constructivas especificadas en el proyecto, sólo podrán estar interrumpidos por elementos estructurales de la techumbre, tales como cerchas, vigas y/o por tuberías, ductos o cañerías de las instalaciones domiciliarias.
+
+4.- Los materiales aislantes térmicos o soluciones constructivas especificadas en el proyecto, deberán cubrir el máximo de la superficie de la parte superior de los muros, tales como cadenas, vigas, soleras, conformando un elemento continuo por todo el contorno de los muros perimetrales.
+
+5.- Para obtener una continuidad en el acondicionamiento térmico de la techumbre, todo muro o tabique que sea parte de ésta, tal como lucarna, antepecho, dintel, que interrumpa el acondicionamiento térmico de la techumbre y delimite un recinto habitable, deberá cumplir con la misma exigencia que le corresponda al complejo de techumbre, de acuerdo a lo señalado en el punto 1 del presente artículo.
+
+6.- Para toda ventana que forme parte de la techumbre de una vivienda emplazada en las zonas 3 a 7, ambas inclusive, cuyo plano tenga una inclinación de 60° sexagesimales o menos, medidos desde la horizontal, se deberá especificar una solución de doble vidrio.
+
+7.- Para los efectos de cumplir con las condiciones establecidas en el punto 1, se podrá optar entre las siguientes alternativas:
+
+a) Especificar y colocar un material aislante térmico, adosado al elemento cielo del complejo de techumbre, cuyo R100 mínimo, rotulado según la norma técnica NCh 2251, sea el siguiente:
+
+b) Demostrar el cumplimiento de la transmitancia o resistencia térmica total de la solución del complejo de techumbre mediante un Certificado de Ensaye otorgado por una Institución Oficial de Control Técnico de Calidad de los Materiales y Elementos Industriales para la Construcción.
+
+c) Demostrar el cumplimiento de la transmitancia o resistencia térmica del complejo de techumbre mediante cálculo, el que deberá ser realizado de acuerdo a lo señalado en la norma técnica NCh 853. Dicho cálculo deberá ser efectuado por un profesional competente.
+
+d) La solución constructiva especificada para el complejo de techumbre, deberá corresponder a alguna de las soluciones inscritas en el Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico, confeccionado por el Ministerio de Vivienda y Urbanismo.
+
+8.- En el Listado de Soluciones Constructivas para Acondicionamiento Térmico, que llevará el Ministerio de Vivienda y Urbanismo, se inscribirán las soluciones constructivas del complejo techumbre, de acuerdo a la transmitancia térmica o la resistencia térmica total de cada solución.
+
 ## Capítulo 2
 
 DE LAS CONDICIONES GENERALES DE SEGURIDAD
@@ -2264,7 +2294,7 @@ No corresponderá a las Direcciones de Obras Municipales exigir ni verificar el 
 
 #### Artículo 4
 
-5.4. Las solicitudes de permiso para construir o destinar edificios existentes a locales escolares, que consulten una capacidad superior a 360 alumnos, deberán acompañarse de un estudio sobre el impacto que ellos puedan generar en el barrio o sector donde se proyecten localizar.
+5.4. Las solicitudes de permiso para construir o destinar edificios existentes a locales escolares, que consulten una capacidad superior a 720 alumnos, deberán acompañarse de un estudio sobre el impacto que ellos puedan generar en el barrio o sector donde se proyecten localizar.
 
 El estudio estará destinado a identificar, evaluar y proponer soluciones ante los efectos negativos que el proyecto pueda generar sobre la estructura urbanística y ambiental del respectivo sector o barrio.
 
@@ -2372,80 +2402,6 @@ Los recintos nombrados en los incisos primero y segundo del presente artículo d
 
 5.7. Los hogares estudiantiles y los locales escolares, exceptuados los del nivel superior y educación de adultos, deberán consultar superficies destinadas a patio, aptas para el esparcimiento de los alumnos y para el desarrollo de actividades de educación física, deportivas, celebraciones y otras, cuyo tamaño se indica en la tabla siguiente. Una parte de dicha superficie deberá estar cubierta conforme a lo señalado a continuación:
 
-______________________________________________
-
-|SUPERFICIE TOTAL|SUPERFICIE DE PATIO |
-
-|DE PATIO |EXIGIBLE A SER CUBIERTA |
-
-|EXIGIBLE E |E INCREMENTO |
-
-|INCREMENTO | |
-
-_________|________________|___________________________|
-
-|NIVEL DE| I a XII Reg. |I a VI Reg.|VII a XII Reg |
-
-|LOCAL | y RM |y RM | |
-
-|ESCOLAR | | | |
-
-|========|================|===========|===============|
-
-|Sala |Hasta 20 al. | - - |Hasta 20 al. |
-
-|Cuna | 60 m2 | - - | 20 m2 |
-
-| |Sobre 20 al. | - - |Sobre 20 al. |
-
-| | 3 m2/al. | - - | 1 m2/al.|
-
-|________|________________|___________|_______________|
-
-|Jardín |Hasta 30 al. | - - |Hasta 20 al. |
-
-|infantil| 90 m2. | - - | 20 m2 |
-
-| |Sobre 30 al. | - - |Sobre 20 al. |
-
-| | 3 m2/al. | - - | 1 m2/al.|
-
-|________|________________|___________|_______________|
-
-|General |Hasta 180 al. |Con 270 al.|Con 270 al. |
-
-|Básico | 450 m2 | 70 m2 | 70 m2 |
-
-|y Medio |Sobre 180 al. |Sobre 270 |Sobre 270 al. |
-
-| | | al. | |
-
-| | 2,50 m2/al.| 0,15 | 0,15 m2/al. |
-
-| | | m2/al. | |
-
-|________|________________|___________|_______________|
-
-|Básico |Hasta 60 al. | - - | - - |
-
-|Especial| 180 m2 | - - | - - |
-
-| |Sobre 180 al. | - - | - - |
-
-| | 3,00 m2/al.| - - | - - |
-
-|________|________________|___________|_______________|
-
-|Hogar |Hasta 20 al. | - - | - - |
-
-|Estu- | 50 m2 | - - | - - |
-
-|diantil |Sobre 20 al. | - - | - - |
-
-| | 2,50 m2/al.| - - | - - |
-
-|________|________________|___________|_______________|
-
 Los patios, para los niveles general básico y medio, deberán tener una ancho mínimo de 5,50 m, pudiendo ubicarse en niveles distintos al del terreno natural.
 
 La superficie total de patio exigida, se calculará sumando todas las superficies descubiertas y las cubiertas, más las circulaciones inmediatas lateralmente abiertas.
@@ -2459,6 +2415,10 @@ Si la sala cuna se ubica en pisos superiores al del terreno natural, la superfic
 Los locales escolares de niveles generales básico y medio con capacidad igual o superior a 135 alumnos, deberán contar con una superficie mínima de 18 m por 30 m destinada a una multicancha pavimentada, la cual podrá ser imputada a la superficie total de patio exigida.
 
 Cuando los locales escolares atiendan además al jardín infantil, deberán contar con patio independiente para el uso exclusivo de los alumnos del jardín, cuya superficie será la que señala para dichos patios la tabla inserta en el inciso primero, debiendo cumplir con las demás características exigidas en el presente artículo.
+
+En casos calificados por el Director de Obras Municipales, previo informe favorable de las respectivas Secretarías Regionales Ministeriales de Educación y de Vivienda y Urbanismo, se podrá rebajar hasta en un 50% los estándares mínimos de patios para los niveles de educación general básico y medio y básico especial, cuando se trate de establecimientos existentes al 17 de noviembre de 1997, fecha de publicación en el Diario Oficial de la ley Nº 19.532, que amplíen sus instalaciones para acogerse al régimen de jornada escolar completa diurna.
+
+En los casos señalados en el inciso anterior, el Director de Obras Municipales deberá autorizar la construcción del proyecto, si los patios considerados cumplen con las disposiciones de este artículo y si las respectivas Secretarías Regionales Ministeriales de Educación y de Vivienda y Urbanismo han informado favorablemente la disminución de dicho estándar.
 
 #### Artículo 4
 
@@ -5690,6 +5650,36 @@ N° 2, de 1959, las del presente Título referidas a las viviendas sociales, y e
 
 Para la aplicación del coeficiente de constructibilidad se estará a lo dispuesto en el número 2, del artículo 5.1.11., de la presente Ordenanza, pudiendo excederse hasta en un 20% la superficie máxima resultante de la aplicación de dicho precepto, sin perjuicio de lo dispuesto en el artículo 7.2.6. de la presente Ordenanza.
 
+#### Artículo 7
+
+1.6. A los conjuntos de viviendas económicas de hasta 4 pisos de altura sólo les serán aplicables las siguientes normas de los Instrumentos de Planificación Territorial:
+
+- Rasantes y distanciamiento, respecto de los predios vecinos al proyecto.
+
+- Antejardines y sistemas de agrupamiento con respecto a la o las vías públicas, existentes o previstas en el Instrumento de Planificación Territorial.
+
+- Zonas de riesgo.
+
+- Uso de suelo residencial.
+
+Para acceder al beneficio señalado en el inciso anterior, estos conjuntos deberán cumplir las siguientes condiciones:
+
+- Que el predio en que se emplaza el proyecto tenga una superficie no inferior a 1 ha.
+
+- No sobrepasar una altura máxima de edificación de 14 m.
+
+- No superar los 3 pisos y 10,5 m de altura en zonas en que el Instrumento de Planificación Territorial admite sólo viviendas con una altura máxima de 2 pisos, más mansarda, salvo que se contemple un distanciamiento hacia los deslindes de los predios vecinos de al menos 10 m, en cuyo caso no les será aplicable esta restricción.
+
+En caso que el predio en que se emplace el conjunto esté afectado por ensanches o apertura de nuevas calles, previstas en el Instrumento de Planificación Territorial, deberá también cumplir con las disposiciones que establece el Capítulo 2 de este mismo Título.
+
+#### Artículo 7
+
+1.7. En las viviendas de 1 y 2 pisos que forman parte de un proyecto acogido al artículo anterior se podrá, además, dejar proyectada la envolvente y la estructura de una ampliación futura, a la cual podrá acogerse el propietario.
+
+En estos casos, deberá pagarse el derecho municipal correspondiente a la ampliación, en conjunto con el resto del permiso.
+
+Para su posterior ejecución, el propietario deberá presentar ante la Dirección de Obras Municipales un aviso de iniciación de obras, identificando al profesional competente que supervisará los trabajos.
+
 "CAPITULO 2 DE LAS NORMAS DE URBANIZACIÓN
 
 #### Artículo 7
@@ -5704,11 +5694,7 @@ Las viviendas económicas no podrán emplazarse en zonas de restricción y de ri
 
 #### Artículo 7
 
-2.3. En las poblaciones o conjuntos de viviendas de que trata este Título, que se proyecten con la apertura de nuevos pasajes o vías de tránsito de uso público, se destinarán para áreas libres de esparcimiento, 24 m2 por cada vivienda sin patio propio. Para los efectos del presente artículo se considerará que una vivienda tiene patio propio, cuando la superficie de éste sea igual o superior a 24 m2. Los pasajes y vías de tránsito no se considerarán para el cómputo de estas superficies.
-
-Las áreas libres de esparcimiento, por formar parte del terreno, tendrán el carácter de bienes comunes, de acuerdo al artículo 111 de la Ley General de Urbanismo y Construcciones, y se mantendrán en el dominio privado de los comuneros en la proporción que corresponda a cada uno de ellos.
-
-Lo dispuesto en este artículo no se aplicará en "Zonas de Remodelación" y en "Zonas de Construcción Obligatoria", cuando así lo establezca el decreto supremo que apruebe dichas Zonas.
+2.3. En los loteos con construcción simultánea acogidos a las disposiciones de este Título, constituidos por conjuntos de viviendas de hasta 4 pisos, deberá considerarse un patio mínimo de 24 m2 por cada unidad de vivienda, salvo que se contemple una superficie equivalente de área verde para uso común.
 
 #### Artículo 7
 
@@ -5722,19 +5708,17 @@ Se exceptuarán de esta obligación los predios existentes con una vivienda y qu
 
 #### Artículo 7
 
-2.6. Los conjuntos de viviendas con construcción simultánea que se proyecten en terrenos de una hectárea o más podrán alterar las normas del instrumento de planificación territorial respectivo, relativas a tamaños prediales, tipos de agrupamiento, antejardines, altura de edificación, coeficientes de constructibilidad y de ocupación del suelo, rasantes y distanciamientos, de acuerdo a lo que señale el autor del proyecto.
+2.6. Los proyectos de loteo con construcción simultánea de viviendas, que se emplacen en terrenos de una superficie igual o superior a 1 ha, podrán alterar las normas del Instrumento de Planificación Territorial respectivo, con excepción de aquellas consignadas en el inciso primero del artículo 7.1.6. de esta Ordenanza, siempre que cumplan los requisitos que señala el inciso segundo del mismo artículo.
 
-Estos proyectos deberán cumplir, respecto a los sitios ubicados en el perímetro del loteo donde éste deslinda con otros predios, con las normas sobre rasantes y distanciamientos establecidas en el instrumento de planificación territorial, si lo hubiere, o a falta de éste, las de esta Ordenanza.
+El proyecto de loteo, sus condiciones generales definidas por el arquitecto autor del proyecto y el proyecto de las viviendas, serán aprobados en un solo acto. Estos loteos se denominarán "Loteos D.F.L. N°2".
 
-Respecto a los sitios que enfrenten espacios de uso público, tales como vías, calles o áreas verdes, existentes o previstos en el instrumento de planificación territorial correspondiente, deberán cumplirse las normas sobre tipo de agrupamiento, antejardines, alturas de edificación y rasantes establecidas en el instrumento de planificación territorial, si lo hubiere, o a falta de éste, las de esta Ordenanza.
+En estos conjuntos no se podrá consultar tamaños prediales inferiores a 60 m2 para viviendas en dos pisos o más y a 100 m2 para viviendas en un piso.
 
-Los proyectos de loteo, sus condiciones generales definidas por el arquitecto proyectista y el proyecto de las viviendas, serán aprobados en un solo acto. Estos loteos se denominarán "Loteos D.F.L. N° 2".
+Los Instrumentos de Planificación Territorial podrán aumentar hasta en tres veces los tamaños mínimos prediales indicados en el inciso anterior cuando se trate de loteos emplazados en predios cuya pendiente promedio sea de más de 20%.
 
-Los instrumentos de planificación territorial podrán rebajar la superficie mínima de una hectárea donde se emplacen estos conjuntos, de acuerdo a las características propias de cada centro urbano, siempre que no sea inferior a 2.500 m2.
+En el caso de predios cuya pendiente promedio sea de más de 25%, los proyectos de loteo de que trata este artículo deberán adjuntar los proyectos específicos de las obras de defensa que correspondan.
 
-En estos conjuntos no se podrá consultar tamaños prediales inferiores a 60 m2 para viviendas en dos pisos o más y 100 m2 para viviendas en un piso. Estos mínimos podrán ser aumentados según las características locales y regionales, en los respectivos instrumentos de planificación territorial.
-
-Para efectos de la aplicación de las disposiciones de este artículo, se considerarán también conjuntos de construcción simultánea los conformados por infraestructuras sanitarias y viviendas progresivas.
+Para efectos de la aplicación de las disposiciones de este artículo, se considerarán también loteos con construcción simultánea los conformados por infraestructuras sanitarias o viviendas progresivas.
 
 #### Artículo 7
 
