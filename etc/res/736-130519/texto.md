@@ -1,0 +1,5 @@
+DENIEGA PRORROGA DE PLAZO DECLARA CADUCIDAD DE RESOLUCION QUE SEÑALA
+
+Por resolución No. 736 de 19 de Julio de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega a don Juan Francisco Cárdenas Díaz, RUT No. 9.357.900-3, domiciliado en calle Caicumeo Interior No. 966, Ancud, X Región, la autorización para prorrogar el plazo establecido en el numeral 6° de la Resolución No. 356, de 1987, de esta Subsecretaria, por no haberse acreditado a su respecto la ocurrencia de un caso fortuito o fuerza mayor. Se declara la caducidad de la resolución No. 356, de 1987, que autorizó a don Juan Francisco Cárdenas Díaz, para instalar y operar un establecimiento de cultivo de chorito, en un sector de Ensenada Yal, Comuna de Chonchi, Provincia de Chiloé, X Región, de conformidad con lo dispuesto en el artículo 7° del DS No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 19 de Julio de 1988.- Roberto Cabezas Bello Subsecretario de Pesca.
