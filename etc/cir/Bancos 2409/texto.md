@@ -1200,7 +1200,7 @@ En el caso de reajustes, su pago sólo puede efectuarse para operaciones a plazo
 
 Quedan excluidas de las condiciones de plazos mínimos señaladas en los párrafos precedentes las siguientes operaciones:
 
-a) Los intereses que el Banco del Estado de Chile debe pagar por los depósitos a la orden judicial en virtud de lo dispuesto en el artículo 509 del Código Orgánico de Tribunales;
+a) Los intereses que el Banco del Estado de Chile debe pagar por los depósitos a la orden judicial en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales;
 
 b) Los pagos de intereses por los depósitos en moneda extranjera a la vista efectuados mediante el documento "Giro a la vista en dólares de los Estados Unidos de América endosables" de que trata el Capítulo 13-26 de esta Recopilación Actualizada de Normas; y,
 
@@ -1662,7 +1662,7 @@ Las disposiciones del Capitulo III.B.1 del Compendio de Normas Financieras del B
 
 La prohibición anterior no establece excepciones respecto de las cuentas corrientes bancarias. Por consiguiente, los bancos deben abstenerse, igualmente, de pagar intereses sobre los saldos mantenidos en dichas cuentas corrientes.
 
-Lo anterior no alcanza, naturalmente, a los intereses que debe pagar el Banco del Estado de Chile en virtud de lo dispuesto en el artículo 509 del Código Orgánico de Tribunales.
+Lo anterior no alcanza, naturalmente, a los intereses que debe pagar el Banco del Estado de Chile en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales.
 
 ### 7. Entrega de estados de movimiento y saldos de cuentas corrientes
 
@@ -2057,8 +2057,6 @@ El artículo 46 de la Ley sobre Cuentas Corrientes Bancarias y Cheques contiene 
 11.5. Pago de cheques a través de la cámara de compensación.
 
 El pago de cheques presentados en el canje, a través de la cámara de compensación, debe efectuarse de acuerdo con las disposiciones contenidas en el Reglamento de Cámara de Compensación del Banco Central de Chile y con las disposiciones impartidas por esta Superintendencia mediante el Capítulo 5-1 de esta Recopilación de normas.
-
-Los cheques en moneda extranjera deben ser cobrados directamente por el banco portador al librado, sin incluirlos en el canje.
 
 11.6. Pago de cheques recibidos de otras plazas.
 
@@ -4410,7 +4408,7 @@ Los depósitos, captaciones y otras obligaciones en moneda nacional, que manteng
 
 1.1.1. Depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial.
 
-Los depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial efectuados conforme al artículo 507 del Código Orgánico de Tribunales, estarán afectos a una tasa de encaje de 10%.
+Los depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial efectuados conforme al artículo 517 del Código Orgánico de Tribunales, estarán afectos a una tasa de encaje de 10%.
 
 1.1.2. Depósitos a la orden judicial.
 
@@ -4434,7 +4432,7 @@ a) Bancos.
 
 N° 3005 "Acreedores en cuentas corrientes";
 
-N° 3010 "Otros saldos acreedores a la vista" (exceptuados los depósitos por consignaciones judiciales artículo 507); y,
+N° 3010 "Otros saldos acreedores a la vista" (exceptuados los depósitos por consignaciones judiciales artículo 517); y,
 
 N° 3015 "Depósitos de ahorro a la vista"; y,
 
@@ -4446,7 +4444,7 @@ N° 3015 "Depósitos de ahorro a la vista".
 
 2.1.2. Depósitos a la orden judicial
 
-Estará afecto a encaje a la tasa señalada en el numeral 1.1.2 anterior, el saldo de la cuenta "Depósitos por consignaciones judiciales artículo 507" que se demuestra en la partida N° 3010 del MB1.".
+Estará afecto a encaje a la tasa señalada en el numeral 1.1.2 anterior, el saldo de la cuenta "Depósitos por consignaciones judiciales artículo 517", de la partida 3010.
 
 La nueva tasa de encaje para los depósitos a la orden judicial será aplicable a contar del "período mensual" de encaje que finaliza el 8 de enero en curso.
 
@@ -14764,7 +14762,7 @@ Los descuentos o las primas, correspondientes al monto necesario para cuadrar co
 
 respectivamente.Estas diferencias se llevarán a resultados, mes a mes, linealmente en el período de duración del título, según la fecha de vencimiento pactada. Por consiguiente,en caso de rescate anticipado, el saldo que se mantuviese registrado en alguna de las citadas cuentas, correspondiente al título amortizado, deberá traspasarse de inmediato a resultados. Para efectuar estos traspasos se abrirá la cuenta"Diferencias de precio por emisión de bonos" en la partida 5620 o la cuenta"Beneficios obtenidos por emisión de bonos", en la partida 7620 del formulario MR1, según sea el caso.
 
-Los reajustes e intereses devengados por los bonos en circulación se registrarán en cuentas complementarias de acuerdo con las normas generales, con cargo a las respectivas cuentas de resultado de las partidas 5310 y 5125, respectivamente.
+Los reajustes e intereses devengados por los bonos en circulación se registrarán en cuentas complementarias de acuerdo con las normas generales, con cargo a las respectivas cuentas de resultado de las partidas 5315 y 5140, respectivamente.
 
 ### 9. Límites legales
 
@@ -16342,7 +16340,7 @@ apoyo.
 
 4.1.- Administración de las sociedades.
 
-Las sociedades a que se refiere este capítulo deberán tener gerente, personal, local, equipamiento y servicios independientes de sus entidades financieras propietarias. Sin embargo, como estas sociedades forman parte del patrimonio delas instituciones financieras, podrán tener directores comunes con éstas. Por este mismo motivo, tampoco cabe aplicar lo dispuesto en el número 16 del artículo 65 de la Ley General de Bancos.
+Las sociedades a que se refiere este capítulo deberán tener gerente, personal, local, equipamiento y servicios independientes de sus entidades financieras propietarias. Sin embargo, como estas sociedades forman parte del patrimonio delas instituciones financieras, podrán tener directores comunes con éstas. Por este mismo motivo, no cabe en este caso aplicar lo dispuesto en el N° 16 del artículo 65 de la Ley General de Bancos ni tampoco computar el cargo de director de sociedad filial para los efectos del artículo 65, N° 10, inciso segundo, de la misma ley.
 
 4.2.- Inversiones que pueden efectuar las sociedades de apoyo al giro.
 
@@ -19672,7 +19670,7 @@ Debe: - "Cambio futuro", para revertir el importe que corresponda
 
 - "Caja" o la cuenta que corresponda por la recepción de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea inferior a aquél.
 
-Haber: - "Deudores por compras a futuro de divisas", para revertir el importe en moneda chilena pactado a futuro
+Haber: - "Deudores por ventas a futuro de divisas", para revertir el importe en moneda chilena pactado a futuro
 
 - "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea superior a aquél.
 
@@ -20590,7 +20588,7 @@ Las entidades financieras cuentan con acceso al mercado de divisas para pagarlos
 
 1.8. Impuesto adicional sobre los intereses.
 
-Las entidades financieras deben verificar, en la nómina que mantiene el Banco Central de Chile para los efectos de lo dispuesto en el Título IV, artículo 59 de la Ley sobre Impuesto a la Renta, como anexo al Capítulo XV del Título I del Compendio de Normas de Cambios Internacionales, si la empresa otorgante del crédito o titular del depósito o captación, es una institución bancaria o financiera extranjera autorizada por el Instituto Emisor, exenta, en consecuencia, del impuesto adicional a la renta.
+Las entidades financieras deben verificar, en la nómina que mantiene el Banco Central de Chile para los efectos de lo dispuesto en el Título IV, artículo 59 de la Ley sobre Impuesto a la Renta, como anexo al Capítulo XV del Título I del Compendio de Normas de Cambios Internacionales, si la empresa otorgante del crédito o titular del depósito o captación, es una institución bancaria o financiera extranjera autorizada por el Instituto Emisor afecta, en consecuencia, a lo dispuesto en el N° 1 del referido artículo 59.
 
 1.9. Devolución al exterior de los créditos, depósitos o captaciones.
 
@@ -24746,1139 +24744,75 @@ CAPITULO 13-29 (Financieras)
 
 MATERIA:
 
-OPERACIONES QUE PUEDEN EFECTUAR LAS SOCIEDADES FINANCIERAS AUTORIZADAS PARA
+CASA DE CAMBIO DE SOCIEDADES FINANCIERAS.
 
-OPERAR EN EL GIRO DE CASA DE CAMBIO. NORMAS CONTABLES.
+1.- Sociedades financieras que pueden operar.
 
-### 1. Sociedades financieras que pueden operar
+Podrán realizar las operaciones señaladas en el Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales, relativo a Casas de Cambio del mercado cambiario formal, todas aquellas sociedades financieras que hayan sido previamente autorizadas para tal efecto por el Banco Central de Chile y por esta Superintendencia.
 
-Podrán realizar las operaciones señaladas en el Capítulo IV del Compendio de
+2.- Requisitos que se deben cumplir para obtener la autorización de esta Superintendencia.
 
-Normas de Cambios Internacionales, relativo a Casas de Cambio, todas aquellas
+Las sociedades financieras que deseen obtener la autorización de esta Superintendencia para operar en el giro de Casa de Cambio, deberán presentar una solicitud acompañada de un Certificado emitido por el Banco Central de Chile que acredite que la entidad solicitante ha dado cumplimiento a todas las exigencias impuestas por el Instituto Emisor.
 
-sociedades financieras que hayan sido previamente autorizadas para tal efecto
+3.- Local para el giro de Casa de Cambio.
 
-por el Banco Central de Chile y por esta Superintendencia.
+Las transacciones inherentes al giro de Casa de Cambio, serán efectuadas por las sociedades financieras en los mismos locales que este Organismo les haya autorizado para realizar las operaciones propias de su giro.
 
-### 2. Requisitos que se deben cumplir para obtener la autorización de esta
+Sin embargo, y sólo en casos previamente calificados, esta Superintendencia les autorizará la apertura de un local especial para realizar las operaciones del giro de Casa de Cambio. En tal eventualidad dicho local deberá estar ubicado en un lugar próximo a las oficinas de la respectiva sociedad financiera y en él no podrá desarrollarse ninguna otra actividad que no sea la propia de las operaciones permitidas a las Casas de Cambio.
 
-Superintendencia.
+En todo caso, el local destinado a esos fines, deberá reunir las condiciones adecuadas de comodidad para los clientes y de seguridad para las operaciones de dinero.
 
-Las sociedades financieras que deseen obtener la autorización de esta
+4.- Operaciones que pueden realizar.
 
-Superintendencia para operar en el giro de Casa de Cambio, deberán presentar una
+Las sociedades financieras que se encuentren facultadas para ello, podrán realizar, en el giro de Casa de Cambio, únicamente las operaciones que se encuentren expresamente autorizadas en el Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales.
 
-solicitud acompañada de un Certificado emitido por el Banco Central de Chile que
+5.- Atención al público.
 
-acredite que la entidad solicitante ha dado cumplimiento a todas las exigencias
+5.1.- Horario normal.
 
-impuestas por el Instituto Emisor.
+La atención al público para la realización de las transacciones del giro de Casa de Cambio se efectuará de lunes a viernes de 09-00 hasta las 14:00 horas, excepto los días festivos y el 31 de diciembre.
 
-### 3. Local para el giro de Casa de Cambio
+5.2.- Horario especial.
 
-Las transacciones inherentes al giro de Casa de Cambio, serán efectuadas por las
+Las sociedades financieras que deseen extender el horario de atención al público para realizar las operaciones propias del giro de Casa de Cambio, deberán comunicarlo previamente a esta Superintendencia.
 
-sociedades financieras en los mismos locales que este Organismo les haya
+Los comprobantes contables y planillas que se emitan por las transacciones que cursen en este horario especial, deberán llevar un timbre con la leyenda: "CAJA HORARIO ESPECIAL", para distinguirlas de aquéllas efectuadas dentro del horario normal.
 
-autorizado para realizar las operaciones propias de su giro.
+6.- Tipo de Cambio aplicable a las compras y ventas de divisas.
 
-Sin embargo, y sólo en casos previamente calificados, esta Superintendencia les
+El tipo de cambio aplicable a las compras y a las ventas de divisas que realicen, será el que libremente convengan con las personas y entidades interesadas.
 
-autorizará la apertura de un local especial para realizar las operaciones del
+7.- Comisiones.
 
-giro de Casa de Cambio. En tal eventualidad dicho local deberá estar ubicado en
+Las sociedades financieras podrán convenir libremente con sus clientes las comisiones que cobrarán por las operaciones de cambios que realicen. Dichas comisiones podrán percibirse solamente en moneda chilena.
 
-un lugar próximo a las oficinas de la respectiva sociedad financiera y en él no
+En todo caso deberá cuidarse de que se apliquen tasas o montos idénticos para operaciones iguales o de similares características, de modo que se eviten situaciones que pudieran originar cobros discriminatorios.
 
-podrá desarrollarse ninguna otra actividad que no sea la propia de las
+8.- Información al público.
 
-operaciones permitidas a las Casas de Cambio.
+Las sociedades financieras de que se trata, deberán mantener en el lugar donde se atiendan las operaciones de cambio y fácilmente visible para el público, las cotizaciones comprador y vendedor de las monedas extranjeras que se transen habitualmente.
 
-En todo caso, el local destinado a esos fines deberá reunir las condiciones
+Además, deberán indicar los montos fijos y tasas, según corresponda, de las comisiones y gastos que cobren por esas operaciones. En la eventualidad de que esos cobros estén incorporados en los tipos de cambio que fijen para sus transacciones, deberán indicarlo asi en las mismas listas de cotizaciones.
 
-adecuadas de comodidad para los clientes y de seguridad para las operaciones de
+Igualmente deberán mantener a la vista del público la autorización otorgada por el Banco Central de Chile, para operar en el rubro de Casa de Cambio.
 
-dinero.
+9.- Posiciones de Cambio.
 
-### 4. Operaciones que pueden realizar
+Las sociedades financieras autorizadas podrán mantener, bajo su exclusivo cargo y responsabilidad, posiciones de cambio en las diversas monedas extranjeras, sujetas a los límites establecidos en el anexo N° 5 del Capítulo IV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-Las sociedades financieras que se encuentren facultadas para ello, podrán
+El saldo neto de la Posición de Cambio de cada institución autorizada, expresado en dólares estadounidenses, solamente podrá ser acreedor (posición sobrecomprada) o igual a cero, pero bajo ninguna circunstancia se admitirá un saldo global deudor (sobrevendido).
 
-realizar, en el giro de Casa de Cambio, únicamente las operaciones que se
+Para la determinación diaria de su Posición de Cambio las sociedades financieras deberán considerar los saldos sobrevendidos y sobrecomprados de cada una de las diferentes monedas extranjeras, reflejados en las respectivas cuentas "POSICION" de sus registros auxiliares para moneda extranjera. Esos saldos serán los que se registren al cierre de sus operaciones a las 14:00 horas, convertidos a dólares norteamericanos a las paridades informadas por el Banco Central de Chile el último día hábil del mes calendario inmediatamente anterior, de conformidad con lo dispuesto en el N° 6 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales. Una vez efectuadas esas conversiones se hará la suma algebraica de ellas para determinar la Posición global neta en términos de dólares, que deberá Coincidir con aquella que se informará al Banco Central de Chile. No se considerarán para estos efectos, las monedas extranjeras denominadas "de libre disposición".
 
-encuentren expresamente autorizadas en el Capítulo IV del Compendio de Normas de
+Todas las compras y ventas de monedas extranjeras que se incluyen en la Posición de Cambio, deben declararse al Banco Central de Chile mediante la correspondiente Planilla de Operación de Cambios (Casas de Cambio-Comercio Invisible).
 
-Cambios Internacionales.
+Copias de cada una de dichas planillas, así como del Informe Diario de Posición y Operaciones de Cambios Internacionales deberá mantenerse en los archivos de la empresa.
 
-### 5. Atención al público
+10.- Cuentas corrientes con bancos del exterior y con bancos comerciales del país.
 
-5.1. Horario normal.
+Las sociedades financieras que operen el giro de Casa de Cambio, podrán mantener para las necesidades propias de dicho giro, sendas cuentas corrientes en moneda extranjera, hasta en tres empresas bancarias situadas fuera del país. Además, podrán establecer hasta en tres bancos comerciales del país y en cada uno de ellos, una cuenta corriente en moneda extranjera y una cuenta corriente en moneda chilena.
 
-La atención al público para la realización de las transacciones del giro de Casa
-
-de Cambio se efectuará de lunes a viernes de 9.00 hasta las 14.00 horas, excepto
-
-los días festivos y el 31 de diciembre.
-
-5.2. Horario especial.
-
-Las sociedades financieras que deseen extender el horario de atención al público
-
-para realizar las operaciones propias del giro de Casa de Cambio, deberán
-
-comunicarlo previamente a esta Superintendencia.
-
-Los comprobantes contables y planillas que se emitan por las transacciones que
-
-cursen en este horario especial, deberán llevar un timbre con la leyenda: "CAJA
-
-HORARIO ESPECIAL", para distinguirlas de aquéllas efectuadas dentro del horario
-
-normal.
-
-### 6. Personas con las cuales pueden realizar operaciones de cambio
-
-Las sociedades financieras podrán realizar las operaciones de cambio que les
-
-están permitidas únicamente con las personas y entidades que se indican en el
-
-Capítulo IV del Compendio de Normas de Cambios Internacionales.
-
-### 7. Tipo de Cambio aplicable a las compras y ventas de divisas
-
-El tipo de cambio aplicable a las compras y a las ventas de divisas que
-
-realicen, será el que libremente convengan con las personas y entidades
-
-interesadas.
-
-### 8. Comisiones
-
-Las sociedades financieras podrán convenir libremente con sus clientes las
-
-comisiones que cobrarán por las operaciones de cambios que realicen. Dichas
-
-comisiones podrán percibirse solamente en moneda chilena.
-
-En todo caso deberá cuidarse de que se apliquen tasas o montos idénticos para
-
-operaciones iguales o de similares características, de modo que se eviten
-
-situaciones que pudieran originar cobros discriminatorios.
-
-### 9. Información al público
-
-Las sociedades financieras de que se trata, deberán mantener en el lugar donde
-
-se atiendan las operaciones de cambio y fácilmente visible para el público, las
-
-cotizaciones comprador y vendedor de las monedas extranjeras que se transen
-
-habitualmente.
-
-Además, deberán indicar los montos fijos y tasas, según corresponda, de las
-
-comisiones y gastos que cobren por esas operaciones. En la eventualidad de que
-
-esos cobros estén incorporados en los tipos de cambio que fijen para sus
-
-transacciones, deberán indicarlo así en las mismas listas de cotizaciones.
-
-Igualmente deberán mantener a la vista del público la autorización otorgada por
-
-el Banco Central de Chile, para operar en el rubro de Casa de Cambio.
-
-### 10. Posiciones de Cambio
-
-Las sociedades financieras autorizadas podrán mantener, bajo su exclusivo cargo
-
-y responsabilidad, posiciones de cambio en las diversas monedas extranjeras,
-
-sujetas a los límites establecidos en el anexo N° 5 del Capítulo IV del
-
-Compendio de Normas de Cambios Internacionales del Banco Central de Chile. El
-
-saldo neto de la Posición de Cambio de cada institución autorizada, expresado en
-
-dólares estadounidenses, solamente podrá ser acreedor (posición sobrecomprada) o
-
-igual a cero, pero bajo ninguna circunstancia se admitirá un saldo global deudor
-
-(sobrevendido).
-
-Para la determinación diaria de su Posición de Cambio las sociedades financieras
-
-deberán considerar los saldos sobrevendidos y sobrecomprados de cada una de las
-
-diferentes monedas extranjeras, reflejados en las respectivas cuentas "POSICION"
-
-de sus registros auxiliares para moneda extranjera. Esos saldos serán los que se
-
-registren al cierre de sus operaciones a las 14.00 horas, convertidos a dólares
-
-norteamericanos a las paridades que comunica diariamente el Banco Central de
-
-Chile. Una vez efectuadas esas conversiones se hará la suma algebraica de ellas
-
-para determinar la Posición global neta en términos de dólares, que deberá
-
-coincidir con aquella que se informará al Banco Central de Chile. No se
-
-considerarán para estos efectos, las monedas extranjeras denominadas "de libre
-
-disposición" de que trata el Capítulo XXX del Compendio de Normas de Cambios
-
-Internacionales.
-
-Todas las compras y ventas de monedas extranjeras que se incluyen en la Posición
-
-de Cambio, deben declararse al Banco Central de Chile mediante la
-
-correspondiente Planilla de Operaciones de Cambios (Casas de Cambio-Comercio
-
-Invisible).
-
-Copias de cada una de dichas planillas, así como del Informe Diario de Posición
-
-y Operaciones de Cambios Internacionales deberá mantenerse en los archivos de la
-
-empresa.
-
-### 11. Cuentas corrientes con bancos del exterior y con bancos comerciales del
-
-país.
-
-Las sociedades financieras que operen el giro de Casa de Cambio, podrán mantener
-
-para las necesidades propias de dicho giro, sendas cuentas corrientes en moneda
-
-extranjera, hasta en tres empresas bancarias situadas fuera del país.
-
-Además,podrán establecer hasta en tres bancas comerciales del país y en cada uno
-
-de ellos, una cuenta corriente en moneda extranjera y una cuenta corriente en
-
-moneda chilena.
-
-El movimiento que se registre en las referidas cuentas corrientes, deberá
-
-corresponder, exclusivamente, a operaciones de su giro de Casa de Cambio.
-
-### 12. Instrucciones contables
-
-12.1. Fecha de contabilización de las operaciones.
-
-Las operaciones correspondientes al giro de Casa de Cambio que se efectúen
-
-dentro del horario de atención al público señalado en el numeral 5.1
-
-precedente,se contabilizarán el mismo día en que se cursen. Las operaciones
-
-cursadas en el horario especial indicado en el numeral 5.2. de este capítulo
-
-serán contabilizadas el día hábil bancario siguiente de aquél en que se hayan
-
-realizado.
-
-12.2. Moneda en que deben contabilizarse las operaciones en monedas extranjeras.
-
-Las operaciones en monedas extranjeras que realicen las sociedades financieras
-
-en el giro de Casa de Cambio, se contabilizarán por su equivalente en moneda
-
-chilena. Sin embargo, paralelamente, deberán llevar registros Auxiliares en los
-
-que anotarán, en la respectiva moneda extranjera, las transacciones que cursen
-
-en cada una de esas monedas.
-
-12.3. Arqueo de caja.
-
-Diariamente, al cierre de sus operaciones, se hará un arqueo de Caja, tanto en
-
-moneda extranjera como en moneda chilena, del que deberá quedar constancia en el
-
-respectivo Libro de Arqueo, bajo la firma del cajero responsable.
-
-Las diferencias que se establecieren en los arqueos de caja deberán tratarse en
-
-la forma indicada en el numeral 12.9.6 de este capítulo.
-
-12.4. Ajuste de los saldos de cuentas.
-
-El sistema contable establecido para el control de las operaciones en moneda
-
-extranjera, opera exclusivamente en moneda chilena y requiere como principio
-
-fundamental que, al cierre de cada día se practique el ajuste de los saldos
-
-delas diferentes cuentas a los tipos de cambio que tenga fijados para la
-
-respectiva fecha el Banco Central de Chile.
-
-Para ese objeto, diariamente, al cierre de las operaciones, a las 14 horas, las
-
-financieras convertirán los saldos de los correspondientes registros auxiliares
-
-en moneda extranjera, a moneda chilena, a las equivalencias del día señaladas
-
-por el Banco Central de Chile.
-
-Las diferencias que se produzcan entre los equivalentes así determinados y los
-
-saldos de las respectivas cuentas en moneda chilena, se acreditarán o debitarán
-
-a esas cuentas en moneda chilena, con cargo o abono a las cuentas que se señalan
-
-en el numeral 12.9.10 de este capítulo.
-
-12.5. Balance diario de saldos.
-
-Una vez efectuado el ajuste señalado en el numeral 12.4 anterior, se
-
-confeccionará un balance diario de saldos que debe incluir todas las cuentas
-
-utilizadas en el giro de Casa de Cambio, el cual será firmado por el Contador de
-
-la respectiva sociedad financiera.
-
-12.6. Avisos de cargos o abonos de bancos corresponsales.
-
-Todos los avisos que reciban de sus corresponsales, relativos a cargos o abonos
-
-efectuados en las cuentas corrientes que mantienen con ellos, serán
-
-correspondidos el mismo día de su recepción o, a más tardar, al día hábil
-
-siguiente.
-
-12.7. Conciliación de cuentas corrientes.
-
-La conciliación de las cuentas corrientes a que se refiere el número 11 de este
-
-capítulo, será efectuada al inmediato recibo de los estados de cuenta que les
-
-envían las entidades bancarias respectivas, debiendo dejar constancia en ellos
-
-de las fechas en que los cargos y abonos que aparecen en él, fueron registrados
-
-en la contabilidad de la sociedad.
-
-12.8. Numeración de formularios.
-
-Los formularios que se empleen para las compras y ventas de divisas serán
-
-numerados correlativamente. Los comprobantes de todas y cada una de las
-
-transacciones que realicen, serán mantenidos en archivos ordenados día por día y
-
-fácilmente accesibles.
-
-12.9. Cuentas que deberán utilizar.
-
-Las cuentas que se indican a continuación serán utilizadas exclusivamente para
-
-registrar las transacciones correspondientes al giro de Casa de Cambio. Estas
-
-cuentas, no obstante tratarse de operaciones en moneda extranjera, se llevarán
-
-en moneda chilena, salvo en lo que respecta a los registros auxiliares, en los
-
-que las anotaciones se harán en la respectiva moneda, de modo que por esa vía se
-
-pueda conocer en detalle la situación efectiva correspondiente a cada moneda en
-
-particular.
-
-12.9.1. Compra de divisas.
-
-a) En los libros de contabilidad.
-
-Las cuentas que corresponde utilizar para el registro de las compras que realice
-
-la empresa, son las siguientes, según se trate de adquisición de billetes o de
-
-documentos en moneda extranjera:
-
-Debe: - "CAJA MONEDA EXTRANJERA-EN PESOS", Subcuenta con el nombre de la moneda
-
-extranjera objeto de la compra. Esta cuenta se utilizará cuando se trate de una
-
-adquisición de moneda extranjera entregada en dinero efectivo. Se demuestra en
-
-la partida 1005 del formulario MB1.
-
-- "DEPOSITOS EN BANCOS DEL país-MONEDA EXTRANJERA-EN PESOS, nombre del banco en
-
-que se mantiene la cuenta que se afectará y nombre de la moneda
-
-extranjera".Corresponderá registrar en esta cuenta los documentos en moneda
-
-extranjera que se adquieran y que se depositen en la cuenta que se mantiene con
-
-el banco del país. Esta cuenta se demostrará en la partida 1020 del formulario
-
-MB1.
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR-MONEDA EXTRANJERA-EN PESOS, nombre del banco
-
-del exterior en el que se deposita el documento adquirido y nombre de la moneda
-
-extranjera". Esta cuenta se demostrará en la partida 1025 del formulario MB1.
-
-- "CHEQUES POR COBRAR-MONEDA EXTRANJERA-EN PESOS", subcuenta con el nombre de la
-
-moneda extranjera, la que será incluida en la partida 1015 del formulario MB1.
-
-Esta cuenta se utilizará cuando el cheque adquirido permanezca en poder de la
-
-Casa de Cambio hasta el día siguiente, para su depósito o canje. La permanencia
-
-en esta cuenta no podrá exceder de un día hábil bancario.
-
-Haber: - "CAJA-PESOS", por el equivalente en Pesos pagados por la moneda
-
-extranjera adquirida. Esta cuenta se demuestra en la partida 1005 del formulario
-
-MB1.
-
-b) En los registros auxiliares
-
-Las anotaciones en los libros de contabilidad de la empresa se complementarán
-
-con las que deben hacerse en los registros auxiliares, en la propia moneda
-
-extranjera, motivo de la transacción que se contabiliza:
-
-Debe: - "CAJA-nombre de la moneda extranjera", si el importe comprado ha sido
-
-recibido en billetes.
-
-- "DEPOSITOS EN BANCOS DEL país-nombre del banco y de la moneda extranjera".
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR-nombre del banco y de la moneda extranjera",
-
-o bien,
-
-- "CHEQUES POR COMPRAR-nombre de la moneda extranjera", según corresponda, de
-
-acuerdo con lo señalado en el párrafo anterior.
-
-Haber: - Como se trata de una adquisición de moneda extranjera, la operación
-
-deberá acreditarse a la cuenta:
-
-- "POSICION-nombre de la moneda extranjera".
-
-Esta cuenta demostrará el movimiento de las operaciones de compras y ventas de
-
-cada una de las diferentes monedas extranjeras y, si su saldo es acreedor,
-
-significa que las compras han sido mayores que las ventas y, por consiguiente,
-
-existe una disponibilidad de esa moneda para vender. Si por el contrario,
-
-registra un saldo deudor, ello indicaría que se ha vendido una cantidad
-
-superiora las compras efectuadas de la misma moneda.
-
-Los saldos de estas cuentas tendrán que ser coincidentes con los que se declaren
-
-al Banco Central de Chile en los "Informes Diarios de Posición y Operaciones de
-
-Cambios Internacionales" de cada una de las diferentes monedas que opere la Casa
-
-de Cambio.
-
-12.9.2. Ventas de divisas.
-
-a) En los libros de contabilidad.
-
-Debe: - "CAJA-PESOS", cuando el pago por la moneda extranjera vendida se reciba
-
-en dinero efectivo.
-
-- "DEPOSITOS EN BANCOS DEL PAÍS-PESOS-nombre del Banco", si la venta de divisas
-
-ha sido pagada con cheques contra un banco del país, que es depositado en la
-
-empresa bancaria en que la Casa de Cambio mantiene cuenta corriente.
-
-Esta cuenta se demostrará en la partida 1020 del formulario MB1.
-
-- "CHEQUES POR COBRAR-PESOS", en el caso de que el cheque recibido en pago de la
-
-moneda extranjera no alcance a ser depositado en cuenta corriente en el mismo
-
-día en que fue recibido. Esta cuenta se demostrará en la partida 1015 del
-
-formulario MB1. La permanencia en esta cuenta no podrá exceder de un día hábil
-
-bancario.
-
-Haber: - "CAJA MONEDA EXTRANJERA-EN PESOS", subcuenta con el nombre de la
-
-respectiva moneda extranjera. Esta cuenta se acreditará si la venta se efectúa
-
-en billetes.
-
-- "DEPOSITOS EN BANCOS DEL PAÍS (nombre de la moneda extranjera)-EN PESOS
-
-(nombre del banco)". Si la venta se cumple con la entrega de la moneda
-
-extranjera mediante cheque girado contra la cuenta corriente que, en la
-
-correspondiente moneda, se mantenga en un banco del país.
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR (nombre de la moneda extranjera) EN PESOS
-
-(nombre del banco del exterior)". En caso de que la moneda extranjera se
-
-entregue mediante giro, cheque u orden de pago, contra la cuenta corriente que
-
-la empresa mantiene con alguno de sus corresponsales del exterior.
-
-b) En los registros auxiliares.
-
-Debe: - "POSICION (nombre de la moneda extranjera)" por el importe de la
-
-respectiva moneda extranjera vendida.
-
-Haber: - "CAJA (nombre de la moneda extranjera)", si se ha vendido moneda
-
-extranjera en dinero efectivo.
-
-- "DEPOSITOS EN BANCOS DEL PAÍS-(nombre del banco y de la moneda extranjera)",
-
-si el importe vendido se entrega mediante cheque o giro contra la cuenta
-
-corriente que, en la respectiva moneda se mantenga con un banco del país.
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR (nombre del banco y de la moneda
-
-extranjera)", en el caso de que las divisas vendidas se entreguen mediante
-
-giro,orden de pago o cheque contra la cuenta corriente que la empresa mantenga,
-
-en la respectiva moneda extranjera, en un banco corresponsal del exterior.
-
-12.9.3. Arbitrajes.
-
-a) En los libros de contabilidad.
-
-Debe: - "CAJA-MONEDA EXTRANJERA-EN PESOS", subcuenta (nombre de la moneda
-
-extranjera que se recibe), en el caso de recibirse la moneda comprada, en dinero
-
-efectivo,
-
-- "DEPOSITOS EN BANCOS DEL PAÍS (nombre de la moneda extranjera que se recibe) -
-
-EN PESOS- (nombre del banco)" si la moneda adquirida es abonada en cuenta
-
-corriente de la Casa de Cambio con un banco del país.
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR (nombre de la moneda extranjera que se
-
-recibe) -EN PESOS- (nombre del banco)", en el caso que la moneda adquirida se
-
-reciba mediante abono en la cuenta con un corresponsal del exterior.
-
-- "CHEQUES POR COBRAR - MONEDA EXTRANJERA - EN PESOS", subcuenta (nombre de la
-
-moneda extranjera que se recibe), en el evento de que la moneda comprada sea
-
-recibida en un cheque o documento bancario que no alcanza a ser depositado o
-
-cobrado en el mismo día en que es recibido. La permanencia en esta cuenta no
-
-puede exceder de un día hábil bancario.
-
-Haber: - "CAJA - MONEDA EXTRANJERA - EN PESOS", subcuenta (nombre de la moneda
-
-extranjera que se vende). Si las divisas vendidas se entregan en efectivo.
-
-- "DEPOSITOS EN BANCOS DEL PAÍS - (nombre de la moneda extranjera que se
-
-entrega) -EN PESOS- (nombre del banco)", cuando la entrega de la moneda vendida
-
-se cumple mediante giro contra cuenta mantenida en un banco del país.
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR - (nombre de la moneda extranjera que se
-
-entrega) -EN PESOS- (nombre del banco)", en el caso que la venta se pague con
-
-cheque o giro contra la cuenta que se mantiene con un corresponsal del exterior.
-
-b) En los registros auxiliares.
-
-i) Por la moneda extranjera que se recibe.
-
-Debe: - "CAJA (nombre de la moneda extranjera)", por la recepción de la moneda
-
-adquirida, en el caso que se reciba en efectivo.
-
-- "DEPOSITOS EN BANCOS DEL PAÍS (nombre del banco y de la moneda extranjera)",
-
-si la moneda recibida es acreditada en la cuenta que la empresa mantiene en un
-
-banco del país, en la misma moneda extranjera.
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR (nombre del banco y de la moneda
-
-extranjera)", si las divisas adquiridas son abonadas en la cuenta corriente que
-
-se mantiene con un banco corresponsal del exterior.
-
-- "CHEQUES POR COBRAR - (nombre de la moneda extranjera)", si en los libros de
-
-contabilidad se hubiera debitado la cuenta "CHEQUES POR COBRAR - MONEDA
-
-EXTRANJERA - EN PESOS", debido a que el cheque que se recibe por el valor de la
-
-moneda adquirida, no alcanza a ser depositado el mismo día. La permanencia en
-
-esta cuenta no podrá exceder de un día hábil bancario.
-
-Haber: - "POSICION (nombre de la moneda extranjera)", por el ingreso de las
-
-divisas compradas.
-
-ii) Por la moneda extranjera que se entrega.
-
-Debe: - "POSICION (nombre de la moneda extranjera)", por el egreso de la moneda
-
-extranjera vendida.
-
-Haber: - "CAJA (nombre de la moneda extranjera)", si el egreso de la moneda
-
-vendida se realiza en dinero efectivo.
-
-- "DEPOSITOS EN BANCOS DEL PAÍS (nombre del banco y de la moneda extranjera)",
-
-si las divisas vendidas se entregan mediante giro contra cuenta corriente en un
-
-banco del país.
-
-- "DEPOSITOS EN BANCOS DEL EXTERIOR (nombre del banco y de la moneda
-
-extranjera)", en el caso que la moneda extranjera vendida se entregue en cheque,
-
-giro u orden de pago contra la cuenta que, en la respectiva moneda se mantenga
-
-con un corresponsal del exterior.
-
-12.9.4. Cheques no pagados por el librado.
-
-Los cheques en Pesos, recibidos en pago de operaciones de cambio y los
-
-documentos expresados en moneda extranjera comprados por las Casas de Cambio,
-
-cuyo pago sea rehusado por el librado, se registrarán en la cuenta "VARIOS
-
-DEUDORES-PESOS", cuando se trate de documentos extendidos en moneda chilena y en
-
-la cuenta "VARIOS DEUDORES - MONEDA EXTRANJERA - EN PESOS" (subcuenta con el
-
-nombre de la moneda extranjera) si el documento impago ha sido girado en moneda
-
-extranjera. Ambas cuentas se demostrarán en la partida 1140 del formulario MB1.
-
-Para la moneda extranjera se establecerá en los registros auxiliares una cuenta
-
-que se denominará "VARIOS DEUDORES - (nombre de la moneda extranjera)", a la que
-
-se cargará el importe del documento devuelto. A la vez se acreditará la cuenta
-
-en la que permanecía debitado desde su ingreso.
-
-12.9.5. Cartera vencida.
-
-Si el importe de los documentos que se han contabilizado en "VARIOS DEUDORES -
-
-PESOS" o en "VARIOS DEUDORES - MONEDA EXTRANJERA - EN PESOS" no es pagado dentro
-
-de los 90 días siguientes a la fecha en que se hubieren recibido
-
-devueltos,deberá traspasarse a la cuenta "CARTERA VENCIDA - PESOS" o "CARTERA
-
-VENCIDA MONEDA EXTRANJERA - EN PESOS, subcuenta" (nombre de la moneda
-
-extranjera)", ya se trate de efectos en moneda chilena o en moneda extranjera.
-
-Ambas cuentas se demostrarán en la partida 1405 del formulario MB1.
-
-En el caso de los documentos en moneda extranjera es necesario además anotar su
-
-monto en la cuenta "CARTERA VENCIDA - (nombre de la moneda extranjera)", que se
-
-llevará en los registros auxiliares. Simultáneamente con el registro en esta
-
-cuenta, deberá descargarse el valor anotado en la cuenta de "Varios Deudores".
-
-12.9.6. Diferencias de caja.
-
-Las diferencias de caja que se verificar en con motivo del arqueo diario, ya sea
-
-en moneda chilena o en moneda extranjera, se contabilizarán en la cuenta
-
-"OPERACIONES PENDIENTES DEUDORAS PESOS", subcuenta "Pérdidas de caja" u
-
-"OPERACIONES PENDIENTES ACREEDORAS - PESOS", subcuenta "Sobrantes de
-
-caja",cuando se trate de pérdidas o sobrantes en moneda chilena y en las cuentas
-
-"OPERACIONES PENDIENTES DEUDORAS - MONEDA EXTRANJERA - EN PESOS", subcuenta
-
-"Pérdidas de caja - (nombre de la moneda extranjera)" o bien "OPERACIONES
-
-PENDIENTES ACREEDORAS MONEDA EXTRANJERA - EN PESOS, subcuenta "Sobrantes de
-
-caja(nombre de la moneda extranjera)", si la diferencia ha ocurrido en alguna de
-
-las monedas extranjeras.
-
-En los casos de diferencias producidas en monedas extranjeras corresponderá
-
-hacer las anotaciones pertinentes en los registros auxiliares:
-
-Las pérdidas se debitarán en una cuenta que se denominará "OPERACIONES
-
-PENDIENTES DEUDORAS(nombre de la moneda extranjera)", subcuenta "Pérdidas de
-
-caja".
-
-El importe de la pérdida de caja deberá ser restituido dentro de un plazo máximo
-
-de dos días hábiles. Los excedentes de caja se abonarán a "OPERACIONES
-
-PENDIENTES ACREEDORAS (nombre de la moneda extranjera)", subcuenta "Sobrantes de
-
-caja".
-
-En ambos casos deberá, además, hacerse el respectivo asiento en la cuenta
-
-"CAJA"- (nombre de la moneda extranjera).
-
-Los sobrantes de caja, tanto en moneda chilena como en moneda extranjera, se
-
-mantendrán hasta por un lapso de dos años en las cuentas respectivas de
-
-Operaciones Pendientes Acreedoras. Al cabo de ese período, siempre que no hayan
-
-sido reclamados, se les aplicará las normas de caducidad de las acreencias a
-
-favor de terceros, de que trata el Capítulo 2-13 de esta Recopilación de Normas.
-
-12.9.7. Cheques en moneda extranjera recibidos en gestión de cobro para su
-
-posterior compra.
-
-Los cheques girados en moneda extranjera, que la Casa de Cambio reciba de sus
-
-clientes con el objeto de efectuar su compra una vez que se haya obtenido su
-
-pago, serán registrados en las cuentas de orden "CHEQUES POR COMPRAR - MONEDA
-
-EXTRANJERA - EN PESOS", subcuenta "(nombre de la moneda extranjera)" y
-
-"DEPOSITANTES DE CHEQUES POR COMPRAR - MONEDA EXTRANJERA - EN PESOS", las que se
-
-incluirán en las partidas 9280 y 9900 del formulario MB1, respectivamente.
-
-Tan pronto reciban el pago o el aviso de abono en su cuenta corriente,
-
-revertirán el asiento señalado y, si no se liquida de inmediato el importe del
-
-documento pagado, se acreditará su monto a la cuenta "VARIOS ACREEDORES - MONEDA
-
-EXTRANJERA - EN PESOS", subcuenta "Cheques por comprar - (nombre de la moneda
-
-extranjera)", la que se incluirá en la partida 3010 del formulario MB1.
-
-Simultáneamente se debitará la cuenta en que el banco encargado del cobro,
-
-acreditó el valor respectivo.
-
-En los registros auxiliares se establecerán las cuentas "CHEQUES POR COMPRAR -
-
-(nombre de la moneda extranjera)" y "DEPOSITANTES DE CHEQUES POR COMPRAR -
-
-(nombre de la moneda extranjera)".
-
-En el momento de recibir el pago o el aviso de abono, se revertirá el asiento
-
-registrado en las citadas cuentas y se acreditará la cuenta "VARIOS ACREEDORES -
-
-(nombre de la moneda extranjera)", subcuenta "Cheques por comprar", a la vez que
-
-se debitará la cuenta que corresponda a aquélla en la que la entidad bancaria
-
-encargada del cobro haya abonado el importe del documento.
-
-12.9.8. Traspaso de dinero.
-
-Los traspasos de dinero entre la Casa de Cambio y la Casa Matriz de la
-
-respectiva sociedad financiera o entre la Casa de Cambio y sus sucursales,
-
-excluidos aquellos que correspondan a una compraventa de divisas, se
-
-contabilizarán en la cuenta "SALDO CON SUCURSALES PESOS", subcuenta "(Sucursal o
-
-Casa Matriz)", según corresponda, o "SALDO CON SUCURSALES - MONEDA EXTRANJERA -
-
-EN PESOS", subcuenta"(nombre de la moneda extranjera y de la sucursal)", si se
-
-trata de moneda extranjera traspasada a una sucursal de la Casa de Cambio.
-
-Estas cuentas se incluirán en la partida 2105 ó 4105 del MB1, según sea su
-
-saldo. Estos traspasos en moneda extranjera deberán ser anotados además, en los
-
-registros auxiliares, en una cuenta llamada "SALDO CON SUCURSALES (nombre de la
-
-moneda extranjera)", subcuenta "(Sucursal o Casa Matriz)".
-
-12.9.9. Impuestos retenidos.
-
-Los impuestos que eventualmente les corresponda retener para su posterior entero
-
-en Tesorería, los acreditarán a la cuenta "IMPUESTOS POR PAGAR - PESOS"
-
-o"IMPUESTOS POR PAGAR - MONEDA EXTRANJERA - EN PESOS", subcuenta "(nombre de la
-
-moneda extranjera)", según se trate de moneda chilena o de moneda extranjera.
-
-Estas cuentas serán incluidas en la partida 3010 del formulario MB1. En los
-
-casos en que se trate de moneda extranjera, deberán efectuar también la
-
-anotación correspondiente en los registros auxiliares en una cuenta denominada
-
-"IMPUESTOS POR PAGAR (nombre de la moneda extranjera)".
-
-12.9.10. Ajustes de cambios.
-
-Los ajustes diarios de las cuentas que registren el equivalente en Pesos de
-
-monedas extranjeras, a que se refiere el numeral 12.4 de este capítulo, deberán
-
-contabilizarse como sigue:
-
-a) Pérdidas.
-
-Por las pérdidas que arroje dicho ajuste, se cargará la cuenta "PERDIDAS DE
-
-CAMBIO - PESOS", que se demostrará en la partida 5705 del formulario MR1.
-
-b) Utilidades.
-
-Las utilidades que se produzcan por estos ajustes se acreditarán en la cuenta
-
-"UTILIDADES DE CAMBIO - PESOS", la que se demostrará en la partida 7705 del
-
-formulario MR1.
-
-12.9.11. Comisiones.
-
-a) Comisiones percibidas.
-
-Las comisiones percibidas se acreditarán a la cuenta "COMISIONES GANADAS -
-
-PESOS", que se incluirá en la partida 7530 del formulario MR1.
-
-En la eventualidad de que se percibiera una comisión en moneda extranjera, ella
-
-deberá liquidarse en el mercado de cambios y el importe obtenido en Pesos, se
-
-abonará a la cuenta recién mencionada.
-
-b) Comisiones pagadas.
-
-Estas comisiones se cargarán a la cuenta "COMISIONES PAGADAS - PESOS", o a la
-
-cuenta "COMISIONES PAGADAS - MONEDA EXTRANJERA - EN PESOS", subcuenta "(nombre
-
-de la moneda extranjera)" partida 5530 del formulario MR1, según se trate de
-
-comisiones pagadas en Pesos chilenos o en moneda extranjera. En este último caso
-
-debitarán, además, en la propia moneda, la cuenta "COMISIONES PAGADAS (nombre de
-
-la moneda extranjera)", de los correspondientes registros auxiliares.
-
-12.9.12. Gastos en moneda extranjera.
-
-a) Gastos pagados.
-
-Los gastos distintos de las comisiones y de los intereses que deban pagarse en
-
-moneda extranjera a bancos y corresponsales, serán debitados a la cuenta "GASTOS
-
-PAGADOS A BANCOS Y CORRESPONSALES - MONEDA EXTRANJERA - EN PESOS", subcuenta
-
-"(nombre de la moneda extranjera)". Esta cuenta se demostrará en la partida 5900
-
-del formulario MR1. En los registros auxiliares cargarán la cuenta "GASTOS
-
-PAGADOS A BANCOS Y CORRESPONSALES - (nombre de la moneda extranjera)".
-
-b) Ingresos por recuperación de gastos desembolsados.
-
-En caso que los gastos señalados en la letra a) precedente sean recuperados en
-
-moneda extranjera, dicha recuperación se acreditará a la cuenta "RECUPERACION DE
-
-GASTOS - MONEDA EXTRANJERA EN PESOS", subcuenta "(nombre de la moneda
-
-extranjera)", cuya demostración se hará en la partida 8115 del formulario MR1.
-
-En los registros auxiliares se acreditará la cuenta "RECUPERACION DE GASTOS
-
-(nombre de la moneda extranjera)".
-
-12.9.13. Intereses.
-
-Los intereses en moneda extranjera que eventualmente se perciban por los
-
-depósitos en garantía a favor del Banco Central de Chile deben ser liquidados en
-
-el mercado de divisas y su producto acreditado a la cuenta "INTERESES GANADOS-
-
-PESOS", la que se demostrará en la partida 7200 del formulario MR1.
-
-12.9.14. Cheques viajeros recibidos en consignación.
-
-Los cheques viajeros que las Casas de Cambio reciban en consignación se
-
-registrarán en las siguientes cuentas, en sus libros de contabilidad: "CHEQUES
-
-VIAJEROS RECIBIDOS EN CONSIGNACION-MONEDA EXTRANJERA-EN PESOS", subcuenta
-
-"(nombre de la moneda extranjera)" y "RESPONSABILIDAD POR CHEQUES VIAJEROS
-
-RECIBIDOS EN CONSIGNACION- MONEDA EXTRANJERA-EN PESOS". Estas cuentas se
-
-demostrarán en las partidas 9260 y 9900 del formulario MB1.
-
-En los registros auxiliares de moneda extranjera, se anotarán en las cuentas
-
-"CHEQUES VIAJEROS RECIBIDOS EN CONSIGNACION (nombre de la moneda extranjera)" y
-
-"RESPONSABILIDAD POR CHEQUES VIAJEROS RECIBIDOS EN CONSIGNACION (nombre de la
-
-moneda extranjera)".
-
-En la medida en que se efectúe la venta de los referidos cheques, se rebajará el
-
-importe que corresponda, tanto en los libros de contabilidad, por los
-
-equivalentes respectivas, como en los registros auxiliares, por los valores en
-
-moneda extranjera.
-
-12.9.15. Garantía a favor del Banco Central de Chile.
-
-Las garantías que las Casas de Cambio deben constituir a favor del Banco Central
-
-de Chile para caucionar el cumplimiento de todas las normas, obligaciones e
-
-instrucciones contenidas o que se incluyan en el Compendio de Normas de Cambias
-
-Internacionales del Instituto Emisor, podrán consistir en depósitos en dólares,
-
-boletas de garantía, pólizas de seguro o hipotecas, según lo expresan las
-
-propias disposiciones del Banco Central de Chile.
-
-A continuación se imparten las instrucciones para la contabilización de cada una
-
-de las formas en que pueden enterarse esas garantías:
-
-a) Mediante divisas adquiridas en el mercado cambiario.
-
-Cuando la garantía se entere mediante un depósito constituido por dólares
-
-norteamericanos adquiridos para ese fin en el mercado de cambios, se efectuarán
-
-las siguientes contabilizaciones por los equivalentes en moneda chilena:
-
-Debe: - "DEPOSITOS EN GARANTIA A FAVOR DEL BANCO CENTRAL-DOLARES -EN PESOS-
-
-(nombre del banco en que se mantenga el depósito)". Esta cuenta se demostrará en
-
-la partida 1770 del formulario MB1.
-
-Haber: - "CAJA-PESOS", o
-
-- "DEPOSITOS EN BANCOS DEL PAÍS-PESOS-(nombre del banco)", por el egreso de la
-
-moneda chilena que se destine a la compra de las divisas necesarias para el
-
-referido depósito de garantía.
-
-En los registros auxiliares de moneda extranjera se realizarán los siguientes asientos:
-
-Debe: - "DEPOSITOS EN GARANTIA A FAVOR DEL BANCO CENTRAL-DOLARES".
-
-Haber: - "GARANTIAS ENTERADAS A FAVOR DEL BANCO CENTRAL-DOLARES".
-
-b) Caución enterada mediante boleta de garantía en moneda extranjera emitida
-
-contra suscripción de pagaré.
-
-Si la empresa ha suscrito un pagaré para obtener una boleta de garantía en una
-
-entidad bancaria, a fin de cumplir con la exigencia del Banco Central, se harán
-
-los siguientes registros contables:
-
-Debe: - "BOLETAS DE GARANTIA A FAVOR DEL BANCO CENTRAL-DOLARES-EN PESOS", cuenta
-
-que se incluirá en la partida 2115 del formulario MB1.
-
-Haber: - "OBLIGACIONES POR PAGARES PARA BOLETAS DE GARANTIA A FAVOR DEL BANCO
-
-CENTRAL DE CHILE DOLARES-EN PESOS (nombre del banco acreedor)", la que se
-
-demostrará en alguna de las siguientes partidas: 3410, 3415, 3460 ó 3465, según
-
-sea la institución acreedora y el plazo de la obligación.
-
-En los registras auxiliares se anotará como sigue:
-
-Debe: - "BOLETAS DE GARANTIA A FAVOR DEL BANCO CENTRAL-DOLARES".
-
-Haber: - "OBLIGACIONES POR PAGARES PARA BOLETAS DE GARANTIA A FAVOR DEL BANCO
-
-CENTRAL DE CHILE-DOLARES".
-
-c) Caución constituida mediante hipoteca o póliza de seguro.
-
-En el caso que la garantía se constituya mediante hipoteca o póliza de seguro,
-
-corresponderá hacer las siguientes contabilizaciones:
-
-Debe: - "CAUCIONES OTORGADAS POR LA EMPRESA-PESOS", cuenta que se incluirá en la
-
-partida 9290 del formulario MB1.
-
-Haber: - "BENEFICIARIOS DE CAUCIONES OTORGADAS POR LA EMPRESA-PESOS", que se
-
-demostrará en la partida 9900 del formulario MB1.
-
-Si la garantía se constituye mediante una póliza de seguro expresada en moneda
-
-extranjera:
-
-Debe: - "CAUCIONES OTORGADAS POR LA EMPRESA-(nombre de la moneda extranjera)-EN
-
-PESOS", que se demostrará en la partida 9290 del formulario MB1.
-
-Haber: - "BENEFICIARIOS DE CAUCIONES OTORGADAS POR LA EMPRESA (nombre de la
-
-moneda extranjera)-EN PESOS", que se incluirá en la partida 9900 del formulario
-
-MB1.
-
-Las garantías hipotecarias serán registradas por los valores de tasación
-
-aceptados por el Banco Central, en tanto que las pólizas de seguro, lo serán por
-
-el monto que declaren caucionar, expresado en el respectivo documento.
-
-Estas cauciones se anotarán también en los registros auxiliares, atendido el
-
-hecho que están expresadas en moneda extranjera. Las cuentas que se utilizarán
-
-en dichos registros serán las siguientes:
-
-Debe: - "CAUCIONES OTORGADAS POR LA EMPRESA-(nombre de la moneda extranjera)".
-
-Haber: - "BENEFICIARIOS DE CAUCIONES OTORGADAS POR LA EMPRESA-(nombre de la
-
-moneda extranjera)".
-
-12.10. Liquidación de cuentas de resultados por ingresos y gastos en monedas
-
-extranjeras.
-
-Al término de cada ejercicio las sociedades financieras que operen en el giro de
-
-Casa de Cambio, liquidarán los saldos que registren en las cuentas de resultado
-
-relativas a ingresos y gastos habidos en monedas extranjeras y originados en el
-
-movimiento propio de esa actividad.
-
-Los egresos registrados en las cuentas "COMISIONES PAGADAS - MONEDAS
-
-EXTRANJERAS- EN PESOS" y "GASTOS PAGADOS A BANCOS y CORRESPONSALES - MONEDA
-
-EXTRANJERA -EN PESOS", se debitarán a las cuentas "COMISIONES PAGADAS - PESOS" Y
-
-"GASTOS PAGADOS A BANCOS y CORRESPONSALES PESOS", partidas 5530 y 5900 del
-
-formulario MR1, respectivamente, sin perjuicio de la solicitud de giro, que para
-
-esas coberturas debe presentarse al Banco Central de Chile.
-
-En los registros auxiliares de la empresa, se acreditaran las cuentas"COMISIONES
-
-PAGADAS - (nombre de la moneda extranjera)" y "GASTOS PAGADOS A BANCOS y
-
-CORRESPONSALES - (nombre de la moneda extranjera)", con cargo a la cuenta
-
-"POSICION-(nombre de la moneda extranjera)" en las respectivas monedas
-
-extranjeras. Estos asientos reflejarán así el egreso o venta de moneda
-
-extranjera que se ha debido efectuar a si misma la Casa de Cambio, para cubrir
-
-esos gastos.
-
-Los ingresos que se encuentren contabilizados en las cuentas "RECUPERACION DE
-
-GASTOS - MONEDA EXTRANJERA - EN PESOS" Y "OTROS INGRESOS - MONEDA EXTRANJERA -EN
-
-PESOS", se acreditaran en las cuentas respectivas en moneda chilena
-
-"RECUPERACION DE GASTOS - PESOS" Y "OTROS INGRESOS PESOS".
-
-Las cuentas expresadas en moneda extranjera de los registros auxiliares
-
-"RECUPERACION DE GASTOS - (nombre de la moneda extranjera)" y "OTROS INGRESOS
-
-(nombre de la moneda extranjera)" se debitarán por los saldos que cada una de
-
-ellas registre en las distintas monedas, para acreditar los respectivos
-
-importes, también en cada una de las monedas en que estén expresados, a la
-
-cuenta "POSICION" - (nombre de la moneda extranjera)". El crédito en esta última
-
-cuenta demuestra la compra de los ingresos de moneda extranjera que se ha hecho
-
-a si misma la Casa de Cambio.
-
-12.11. Otras instrucciones contables
-
-Las sociedades financieras que operen en el giro de Casa de Cambio podrán
-
-establecer, ademas de las señaladas, otras cuentas y subcuentas, de acuerdo con
-
-sus necesidades. En todo caso, los nombres que se den a dichas cuentas tendrán
-
-que ser concordantes con la denominación utilizada en este capitulo,
-
-especialmente para diferenciar las cuentas que correspondan a moneda chilena de
-
-aquellas que registren operaciones en las propias monedas extranjeras, a fin
-
-deque se mantenga la homogeneidad en el sistema. Además, dichas cuentas deberán
-
-asimilarse a las partidas actualmente vigentes en los formularios MB1 y MR1.
+El movimiento que se registre en las referidas cuentas corrientes, deberá corresponder, exclusivamente, a operaciones de su giro de Casa de Cambio.
 
 CAPITULO 13-30 (Bancos y Financieras)
 
@@ -27828,7 +26762,7 @@ Haber: - "Cartas de crédito a la vista - Zonas Francas", cuando se trate de acr
 
 Estas cuentas formarán parte de la partida 3615.
 
-3-1.2. Por la negociación.
+3.1.2. Por la negociación.
 
 Una vez producida la negociación, los bancos revertirán las contabilizaciones señaladas en el numeral anterior y registrarán la operación en una de las siguientes cuentas, según corresponda:
 
@@ -27860,7 +26794,7 @@ El banco que reciba una carta de crédito abierta por otro banco situado en el p
 
 En el caso que el banco notificador o receptor de la carta de crédito sea una sucursal del propio banco emisor del acreditivo, registrará como deudor el nombre del ordenante de la carta de crédito y el nombre de la oficina del banco que la emitió.
 
-Si el banco emisor es otro banco distinto del emisor, será considerada como deudora la entidad bancaria que emitió la carta de crédito. La reversión de estos asientos se operará en el momento en que el crédito sea confirmado, traspasado, negociado o cancelado.
+Si el banco emisor es otro banco distinto del notificador o receptor, será considerada como deudora la entidad bancaria que emitió la carta de crédito. La reversión de estos asientos se operará en el momento en que el crédito sea confirmado, traspasado, negociado o cancelado.
 
 3.2.2. Confirmación de la carta de crédito.
 
@@ -27896,7 +26830,7 @@ En el Haber de las cuentas de orden se contabilizará en la cuenta "Responsabili
 
 Estos asientos se revertirán en la oportunidad en que se realice el pago de la carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
 
-### V. COBRANZAS
+### IV. COBRANZAS
 
 Los documentos que las entidades bancarias reciban en cobranza y que correspondan a importaciones desde las Zonas Francas a las Zonas Francas de Extensión o al resto del país, serán registrados con cargo a la cuenta "Cobranzas por liquidar - Zonas Francas" y abono a "Depositantes de Cobranzas por liquidar - Zonas Francas". Estas cuentas se demostrarán en las partidas 9340 y 9900, respectivamente.
 
@@ -28194,7 +27128,7 @@ Estos asientos se revertirán en la oportunidad en que se realice el pago de la
 
 carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
 
-### VI. MARGENES LEGALES
+### V. MARGENES LEGALES
 
 A los bancos que emitan cartas de crédito pagaderas a plazo o contra aceptación, confirmadas o negociadas por otras instituciones bancarias, les serán aplicables, por parte de los bancos confirmadores o negociadores, los márgenes individuales de crédito de que trata el artículo 84 de la Ley General de Bancos.
 
@@ -29862,7 +28796,7 @@ b) Se excluirán, asimismo, los deudores contra quienes existan títulos ejecuti
 
 c) Se suspenderá la información de aquellos deudores contra quienes existan títulos ejecutivos y hayan sido demandados, pero cuyas ejecuciones hayan sido rechazadas o abandonadas por resolución judicial ejecutoriada, así como de aquellos a quienes no se les haya notificado la demanda antes del vencimiento del plazo establecido en las leyes para la prescripción de las respectivas acciones; sin embargo, estos últimos se reinformarán cuando se obtenga su notificación.
 
-Debe tenerse presente lo dispuesto en el artículo 152 del Código de Procedimiento Civil, en el sentido de que el ejecutado puede pedir el abandono del procedimiento aun después de dictada la sentencia u omitida ésta. Este es, por lo tanto, uno de los casos en que se produce el fin del juicio ejecutivo seguido contra el deudor y en que sólo procede reincorporarlo a la información refundida sobre deudores cuando se inicie uno nuevo, si todavía hay lugar a ello.
+Debe tenerse presente lo dispuesto en el artículo 153 del Código de Procedimiento Civil, en el sentido de que el ejecutado puede pedir el abandono del procedimiento aun después de dictada la sentencia u omitida ésta. Este es, por lo tanto, uno de los casos en que se produce el fin del juicio ejecutivo seguido contra el deudor y en que sólo procede reincorporarlo a la información refundida sobre deudores cuando se inicie uno nuevo, si todavía hay lugar a ello.
 
 ### 3. Manejo de la información por parte de las instituciones financieras
 
