@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.238, de 30 de noviembre del 2000, se expropió el lote de terreno Nº 30, superficie 1.227 m²., rol de avalúo 104-251, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Enlace Los Panguiles, Región Metropolitana y se acordó el valor de indemnización con su propietario Carlos Hernán Sánchez Ruz, ascendente a la cantidad de $14.678.055.
+
+Fiscal del Ministerio de Obras Públicas.
