@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.137, de 30 de abril de 1999, se expropiaron los lotes de terrenos Nºs. 97, 98 y 102, superficies 3.850 m2., 20.527 m2. y 559 m2., rol de avalúo 851-43, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5, Tramo Chillán - Collipulli, Sector 1'', Octava Región y se acordó el valor de indemnización con su propietaria Plásticos Bellavista Limitada, ascendente a la cantidad total de $40.881.096.
+
+Fiscal del Ministerio de Obras Públicas.
