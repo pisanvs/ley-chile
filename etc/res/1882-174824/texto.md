@@ -1,0 +1,3 @@
+Por resolución Nº1.882, de 29 de agosto de 2000, de esta Subsecretaría, deniégase la solicitud de autorización de acuicultura Nº99102003, presentada por JUAN FRANCISCO AUCAPAN MIRANDA, para realizar actividades de acuicultura en un centro de cultivo ubicado en Río Llesquehue, Sector de Pucatrihue, comuna de San Juan de la Costa, provincia de Osorno, X Región.
+
+Valparaíso, 29 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
