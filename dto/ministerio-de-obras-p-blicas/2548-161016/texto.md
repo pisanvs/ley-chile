@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.548, de 31 de agosto de 1999, se dejó sin efecto la expropiación de los lotes Nºs 2-B y 2-F, roles de avalúo Nº 160-106 y 160-109, comuna de Pemuco, para la obra Proyecto Laja Diguillín Area de Riego Pemuco, Canal San Miguel Pal Pal Bajo Ramal Nº 4-B, aprobada por el decreto MOP Nº 845 de fecha 25 de junio de 1998, complementado por el Nº 821 de 25 de junio de 1998.
+
+Fiscal del Ministerio de Obras Públicas.
