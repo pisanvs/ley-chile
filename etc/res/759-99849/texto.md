@@ -1,0 +1,3 @@
+Por resolución Nº 759, de 26 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 95103026, presentada por PEDRO DOMINGO MARTINEZ BARRIA, para operar un centro de cultivo en Estero Rilán, comuna de Castro, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
