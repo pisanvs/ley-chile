@@ -1,0 +1,3 @@
+Por decreto MOP Nº 671 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 64-B, superficie 3.000 m2, rol de avalúo 142-42, comuna de Chonchi, para la obra "Camino Ruta 5, Sector Chonchi-Tara, Km. 1.205,160 a Km. 1.215,004" y se acordó el valor de indemnización con su propietario Tita Marilú Pérez Bórquez, ascendente a la cantidad de $1.146.100.-
+
+Fiscal del Ministerio de Obras Públicas.
