@@ -1,0 +1,3 @@
+Por resolución Nº1.322, de 10 de mayo de 2004 de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A. Alimar para ampliar actividades pesqueras extractivas con la nave "Paniahue", en las áreas que en cada caso se indica, donde podrá capturar los recursos que a continuación se señalan: a) En el área marítima correspondiente a las Regiones V, VI, VII, IX y X, con cerco: Jibia; b) En el área marítima correspondiente a las Regiones V, VI, VII, IX y X, por fuera de las 60 millas náuticas, con arrastre de media agua: Jibia.
+
+Valparaíso, 10 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
