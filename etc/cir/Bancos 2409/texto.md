@@ -1552,6 +1552,8 @@ f) No podrán transferirse al público documentos de la cartera de inversiones f
 
 g) Los documentos en que consten créditos vencidos o que correspondan a operaciones castigadas no podrán ser transferidos, salvo que sean adquiridos por un banco o sociedad financiera y la operación tenga como fin último renegociar dichos documentos con los respectivos deudores. No obstante, excepcionalmente y con ese mismo fin, podrán cederse a otras instituciones de crédito distintas de bancos y sociedades financieras siempre que se cuente con la conformidad previa de esta Superintendencia.
 
+h) Las cesiones de cartera a empresas securitizadoras deben sujetarse a los límites y demás condiciones establecidos por el Banco Central de Chile en el Capítulo III.B.4 de su Compendio de Normas Financieras.
+
 Además de las condiciones o limitaciones generales señaladas en las letras precedentes, las instituciones financieras deben tener presente las instrucciones específicas que afectan la venta de cartera de colocaciones o de inversiones financieras, contenidas en el Capítulo 8-19 y 8-21 de esta Recopilación, respectivamente.
 
 5. Responsabilidad de la institución financiera en el pago de los documentos que venda o transfiera.
@@ -7618,9 +7620,15 @@ Para fines exclusivos de información, el endoso deberá anotarse al margen de l
 
 La venta de estos créditos se hará siempre por documentos completos, no pudiendo, por lo tanto, cederse participaciones sobre los mismos. Tampoco podrán venderse con pacto de retrocompra.
 
-Podrán ser cesionarios de estos créditos los bancos, las sociedades financieras y otras entidades reguladas por leyes especiales que les permitan efectuar este tipo de inversiones. En este último caso, esta Superintendencia declara que cumplen este requisito las compañías de seguros del segundo grupo según la definición contenida en el artículo 8° del Decreto con Fuerza de Ley N° 251, de 1931 y sus modificaciones, y las sociedades a que se refiere el inciso tercero del artículo 21 bis de ese mismo cuerpo legal, siempre que se encuentren inscritas en el registro especial que llevará para estos efectos la Superintendencia de Valores y Seguros. Asimismo, conforme a lo dispuesto en el artículo 134 del D.L. N° 3.500, podrán ser cesionarias de los mutuos de que trata este Capítulo, las "sociedades anónimas inmobiliarias" a que se refiere el artículo 98, letra j) de dicho Decreto Ley.
+Podrán ser cesionarios de estos créditos las siguientes entidades:
 
-En caso de que el cesionario no sea un banco o sociedad financiera, el crédito deberá quedar en cobranza en la institución financiera cedente, la que estará facultada para percibir los importes que correspondan y para alzar el gravamen, cuando proceda.
+a) Los bancos y sociedades financieras.
+
+b) Las sociedades securitizadoras de que trata la Ley N° 18.045 y los fondos de inversión de créditos securitizados a que se refiere la Ley N° 18.815, debiendo darse cumplimiento a las normas contenidas en el Capítulo III.B.4 del Compendio de Normas Financieras del Banco Central de Chile, para la cesión de tales instrumentos.
+
+c) Las compañías de seguros del segundo grupo según la definición contenida en el artículo 8° del Decreto con Fuerza de Ley N° 251 de 1931 y sus modificaciones, y las sociedades a que se refiere el inciso tercero del artículo 21 bis de ese mismo cuerpo legal, siempre que se encuentren inscritas en el registro especial que llevará para estos efectos la Superintendencia de Valores y Seguros. Además, conforme a lo dispuesto en el artículo 134 del D.L. N° 3.500, podrán ser cesionarias las "sociedades anónimas inmobiliarias" a que se refiere el artículo 98, letra j) de dicho Decreto Ley.
+
+Salvo en los casos en que el cesionario sea un banco, sociedad financiera o sociedad securitizadora, el crédito deberá quedar en cobranza en la institución financiera cedente, la que estará facultada para percibir los importes que correspondan y para alzar el gravamen, cuando proceda.
 
 ### 13. Numeración de los mutuos hipotecarios endosables
 
@@ -9998,17 +10006,19 @@ e) Depósitos a plazo y efectos de comercio adquiridos de terceros (pagarés o c
 
 f) Bonos, debentures y otros valores de renta fija inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
 
-g) Depósitos a plazo en el exterior e instrumentos financieros tales como bonos, letras u otras obligaciones de renta de entidades del exterior que permitan las normas de cambios internacionales del Banco Central de Chile.
+g) Documentos emitidos por sociedades securitizadoras.
 
-h) Cuotas de fondos mutuos cuyas inversiones estén constituidas sólo por instrumentos de renta fija.
+h) Depósitos a plazo en el exterior e instrumentos financieros tales como bonos, letras u otras obligaciones de renta de entidades del exterior que permitan las normas de cambios internacionales del Banco Central de Chile.
 
-i) Oro sellado, amonedado o en pasta de que trata el Capítulo 8-23 de esta Recopilación.
+i) Cuotas de fondos mutuos cuyas inversiones estén constituidas sólo por instrumentos de renta fija.
 
-j) Pagarés por conversión de deuda externa chilena,
+j) Oro sellado, amonedado o en pasta de que trata el Capítulo 8-23 de esta Recopilación.
 
-k) Títulos de la deuda externa chilena, adquiridos en la oportunidad en que las normas del Banco Central de Chile permitieron tales operaciones.
+k) Pagarés por conversión de deuda externa chilena,
 
-l) Otros valores que expresamente autorice esta Superintendencia.
+l) Títulos de la deuda externa chilena, adquiridos en la oportunidad en que las normas del Banco Central de Chile permitieron tales operaciones.
+
+m) Otros valores que expresamente autorice esta Superintendencia.
 
 Con todo, se excluye de las Inversiones Financieras cualquier documento que se adquiera con la responsabilidad del cedente, distinto del propio emisor, caso en el que debe registrarse en el activo el crédito contra el respectivo cedente o vendedor, de acuerdo con las disposiciones del Capítulo 8-19 de esta Recopilación.
 
