@@ -1,0 +1,3 @@
+Por decreto MOP Nº964 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº2, superficie 2.581 m2., Rol Nº286-20, comuna de Los Vilos, IV Región, para la obra "Construcción Puente Sobre Río Quilimarí y Accesos, sector Quilimarí, Km. 0,00000 a Km. 0,98350" y se acordó el valor de indemnización con su propietario Walter Gustavo Rodríguez Carrasco, ascendente a la cantidad de $9.523.017.
+
+Fiscal del Ministerio de Obras Públicas.
