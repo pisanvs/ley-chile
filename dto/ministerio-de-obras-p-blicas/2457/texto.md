@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.457, de 31 de agosto de 1999, se expropió el lote de terreno Nº61-1, superficie 481,0 m2., rol de avalúo 639-80, comuna de Victoria, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco'', Novena Región y se acordó el valor de indemnización con su propietario Vicente Purrán Contreras, ascendente a la cantidad de $1.899.567.-
+
+Fiscal del Ministerio de Obras Públicas.
