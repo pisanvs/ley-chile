@@ -1,0 +1,5 @@
+Por decreto MOP Nº 625 de 30 de junio de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco los lotes de terreno Nºs. 5-A, 7-A y 9-A para la obra: Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Tranapuente - Puerto Saavedra - Chelle, Km. 53,250000 - Km. 56,315096 y Km. 65,260000 - Km. 100,240000, Subtramo V, Accesos Puente Budi Km. 72,52677 - Km. 73,910, que figuran a nombre de Etelvina Díaz, Fuentes Cortés Gabriel y Calfuleo Duelran Segundo, sin rol y 576-23, comuna de Saavedra, IX Región, superficies 5.462,03 m2; 995,05 y 2.626,58 m2. La Comisión de Peritos, fijó con fecha 2 de noviembre de 2001, complementada por Acta de fecha 22 de enero de 2002, en lo que respecta al lote Nº 9-A, el monto de la indemnización provisional en la cantidad de $3.987.282.-, lote 5-A;
+
+$7.096.387.-, lote 7-A y $3.728.606.-, lote 9-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
