@@ -1,0 +1,45 @@
+DL 190 Ministerio de la Vivienda y Urbanismo DESIGNA CON EL NOMBRE DE "DIEGO PORTALES" EL COMPLEJO URBANISTICO QUE INDICA
+
+(Publicado en el "Diario Oficial" N° 28.726, de 14 de diciembre de 1973)
+
+NUM. 190.- Santiago, 10 de diciembre de 1973.- Visto: lo dispuesto en el decreto ley 1, de 11 de septiembre de 1973, y Considerando: 1° Que el complejo arquitectónico que sirvió de sede a la Tercera Conferencia Mundial de Comercio y Desarrollo de las Naciones Unidas (UNCTAD III) está destinado en la actualidad al funcionamiento de la Junta de Gobierno, Ministerios y servicios dependientes:
+
+2° Que es necesario definir con claridad el organismo a cargo del cual debe estar su administración, y
+
+3° El propósito de dar a este complejo un nombre que simbolice e interprete fielmente el carácter del nuevo Gobierno;
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+DECRETO LEY:
+
+#### Artículo 1°
+
+Desígnase con el nombre de "Diego Portales" el complejo urbanístico integrado por la Placa de Equipamiento ex sede UNCTAD y el edificio Torre N° 22 de la Remodelación San Borja, anexo a dicha Placa, y sus dependencias.
+
+#### Artículo 2°
+
+El edificio "Diego Portales" estará destinado al funcionamiento de la Junta de Gobierno y de los Ministerios y Servicios Públicos que ella determine, sólo por el período indicado en las disposiciones transitorias decimotercera y vigesimanovena de la Constitución Política de la República. A partir del término de dicho período, destínase al funcionamiento del Ministerio de Defensa Nacional.
+
+INCISO SEGUNDO: DEROGADO.
+
+#### Artículo 3°
+
+Los gastos que irroguen la administración, mantención, alhajamiento y reparación del Edificio Diego Portales, se imputarán con cargo al presupuesto del Poder Legislativo Junta de Gobierno, durante el período referido en el artículo 2°, y, a contar del término de ese período, se imputarán con cargo al presupuesto del Ministerio de Defensa Nacional.
+
+#### Artículo 4°
+
+La Corporación de Mejoramiento Urbano, en virtud de la facultad conferida por el artículo 1° de la ley 17.699, de 14 de agosto de 1972, transferirá gratuitamente al Fisco el edificio Torre N° 22 de la Remodelación San Borja y sus dependencias.
+
+#### Artículo 5°
+
+Derógase el inciso 2° del artículo 25° de la ley 17.457, de 23 de julio de 1971, y su reglamento, fijado por decreto supremo 43, de Educación, de 11 de enero de 1973, publicado en el Diario Oficial de 7 de marzo del mismo año.
+
+#### Artículo 6°
+
+El presente decreto ley regirá a contar del 12 de septiembre de 1973.
+
+#### Artículo TRANSITORIO
+
+A contar del 12 de septiembre de 1973 y hasta el 31 de diciembre del mismo año, el personal contratado para prestar servicios en el ex Centro Cultural Gabriela Mistral, hoy Edificio "Diego Portales" y que continúe en funciones, percibirá sus remuneraciones con cargo al Programa N° 7 del Presupuesto de la Secretaría y Administración General del Ministerio de Educación Pública.
+
+Anótese, regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación oficial de dicha Contraloría y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros e Investigaciones.- AUGUSTO PINOCHET UGARTE.- JOSE T. MERINO CASTRO.- GUSTAVO LEIGH GUZMAN.- CESAR MENDOZA DURAN.- Arturo Vivero.- Hugo Castro.
