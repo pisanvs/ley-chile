@@ -1,0 +1,5 @@
+Por decreto MOP Nº827, de 30 de abril de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+30-B y 30-C, para la obra: ''Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt. Sector: C.S. Colonia Ponce Km. 961, 200 al Km. 962, 640'', Decima Región, que figuran a nombre de Klocker Hornig Manfredo, rol de avalúo 329-44, comuna de Purranque, superficies 695 m2 y 4.098 m2, respectivamente. La comisión de peritos integrada por los señores Nelson Bernardo Turra Turra, Luis Felipe Navarro González y Enrique Edgardo Hoelck Altmann, fijó con fecha 26 de diciembre de 2001, el valor provisional de la indemnización en las cantidades de $521.250.- para el lote Nº30-B y de $3.073.500.- para el lote Nº30-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas .
