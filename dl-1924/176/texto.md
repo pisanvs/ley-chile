@@ -72,19 +72,19 @@ IV.- De las penas
 
 #### Artículo 11
 
-Los dueños o tenedores de animales enfermos o sospechosos de que lo estén que no hicieren la declaracion a que se refiere el artículo o y no los mantuvieren aislados hasta que se responda a su denuncia sufrirán reclusion menor en su grado mínimo o multa de cien a trescientos pesos, conforme al artículo 289 del Código Penal.
+Los dueños o tenedores de animales enfermos o sospechosos de que lo estén, que no hicieren la declaración a que se refiere el artículo 1° y no los mantuvieren aislados hasta que se responda a su denuncia, sufrirá una multa no inferior a un cuarto ni superior a un sueldo vital mensual.
 
 #### Artículo 12
 
-Los dueños o tenedores de animales que no procedan a ejecutar cualquiera de las medidas sanitarias que se ordenen de acuerdo con lo dispuesto en el artículo 7.o, sufrirán la pena de reclusion menor en su grado mínimo o multa de ciento a quinientos pesos, con arreglo a lo dispuesto en el artículo 290 del Código Penal.
+Los dueños o tenedores de animales que no procedan a ejecutar cualquiera de las medidas sanitarias que se ordenen, de acuerdo con lo dispuesto en el artículo 7°, sufrirán una multa no inferior a un cuarto ni superior a un sueldo vital mensual.
 
 #### Artículo 13
 
-Las empresas o ferias que no practiquen las desinfecciones que establece el artículo 9.o, y en la forma dispuesta por los reglamentos respectivos, sufrirán una multa de quinientos a mil pesos cada vez, sin perjuicio de las medidas que pueda dictar el Presidente de la República, de prohibir el trasporte o la venta de animales.
+Las empresas o ferias que no practiquen las desinfecciones que establece el artículo 9.o, y en la forma dispuesta por los reglamentos respectivos, sufrirán una multa equivalente al valor de uno a tres sueldos vitales mensuales cada vez, sin perjuicio de las medidas que pueda dictar el Presidente de la República, de prohibir el trasporte o la venta de animales.
 
 #### Artículo 14
 
-Todo aquel que infrinjiere cualquiera de las disposiciones del reglamento de la presente lei o que se oponga a su cumplimiento, será penado con una multa de cincuenta a trescientos pesos.
+Todo aquel que infrinjiere cualquiera de las disposiciones del reglamento de la presente lei o que se oponga a su cumplimiento, será penado con una multa de equivalente a medio sueldo vital a tres sueldos vitales mensuales.
 
 #### Artículo 15
 
