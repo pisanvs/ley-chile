@@ -1,0 +1,3 @@
+Por resolución Nº 2.028, de 25 de septiembre de 2002, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.595 de 2002, modificada mediante resolución Nº 1.860 de 2002, ambas de esta Subsecretaría, que autorizaron a la UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación directa de langostino amarillo y langostino colorado, entre las regiones V y VIII, 2002", en el sentido de señalar que la pesca de investigación se realizará entre el 1 de agosto y el 16 de noviembre de 2002, ambas fechas inclusive.
+
+Valparaíso, 25 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
