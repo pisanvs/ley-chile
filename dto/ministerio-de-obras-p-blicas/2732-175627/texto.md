@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.732, de 30 de junio de 2000, se expropió el lote de terreno Nº45, superficie 183,63 m2., Rol de avalúo 1.128-13, comuna de Castro, para la obra Camino Ruta W-65 y W-55, sector Cruce Longitudinal (Pid Pid) - Putemun - Dalcahue, Kms. 0,000 al 11,991647 y se acordó precio de la indemnización con su propietario Wenceslao Torres Barría, ascendente a la cantidad de $387.234, para el lote Nº45.
+
+- Fiscal del Ministerio de Obras Públicas.
