@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 902, de fecha 29 de junio de 2001, se expropió el lote de terreno Nº 106, superficie 7 m², rol de avalúo Nº 281-22, comuna de San Fernando, para la obra "Camino San Fernando - Roma, Rol I-301, I-255, I-151, Km. 0.000 al 10.954.264" y se acordó el valor de indemnización con su propietario Félix José Danna Vivalda, ascendente a la cantidad de $407.039.-
+
+Fiscal del Ministerio de Obras Públicas.
