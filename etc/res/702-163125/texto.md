@@ -1,0 +1,7 @@
+DECLARA CADUCIDAD DE LAS RESOLUCIONES QUE SE INDICA
+
+Por resolución No. 702 de 29 de Octubre de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad conforme a lo dispuesto en el artículo 7° del decreto de Economía 175, de 1980, de las siguientes resoluciones de la Subsecretaría citada: No. 186, de 1981, que autorizó a don Juan Veas Veas, Cédula de Identidad No.
+
+2.809.464-7 de Quintero, domiciliado en Santa Filomena 2768, Quintero, para instalar y operar una planta de congelado en la comuna de Quintero; No. 268, de 08 de Octubre de 1982, y sus ampliaciones, que autorizaron a Pesquera Artesanal Santibáñez Ltda., domiciliada en Quintero para efectuar actividades extractivas con las embarcaciones Osiris e Isis e instalar y operar una planta elaboradora de recursos hidrobiológicos en Quintero, calle Bello Mar 1073; No. 4 de 03 de Enero de 1983 que autorizó a don Héctor Muñoz Figueroa, cédula de identidad 38.636 de Ancud, domiciliado en calle Lord Cochrane 458 de Ancud, para instalar y operar un establecimiento de cultivo Pe algas Gracilaria spp. en Quetalmahue, X Región.
+
+Valparaíso, 29 de Octubre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
