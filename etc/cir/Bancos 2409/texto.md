@@ -1768,7 +1768,7 @@ Además de las instrucciones de este capítulo, los bancos deben tener presente 
 
 ### 1. Apertura de cuentas corrientes
 
-1.1- Exigencias mínimas para la apertura de cuentas corrientes.
+1.1. Exigencias mínimas para la apertura de cuentas corrientes.
 
 Para abrir una cuenta corriente a una persona natural, las empresas bancarias deben cumplir con las siguientes exigencias mínimas:
 
@@ -1790,15 +1790,19 @@ h) Suscribir con el interesado un documento que contenga las condiciones general
 
 Puede prescindirse de las exigencias señaladas en las letras f) y g) anteriores, cuando la persona que abre la cuenta corriente sea notoriamente conocida por alguna actividad pública o privada de importancia o cuando el solicitante sea presentado por un cliente de la empresa que le merezca absoluta fe y se responsabilice, bajo su firma, de conocer el domicilio y las actividades de la persona que presenta.
 
+Los requisitos señalados en las letras a), b), c) y e), se exigirán también, junto, con el correspondiente mandato otorgado por el titular, para registrar a las personas que actuarán por poder en cuentas corrientes abiertas a nombre de una persona natural. Sin embargo, podrá prescindirse de los tres primeros requisitos en los casos en que la respectiva cuenta corriente tenga una cierta antigüedad y haya sido llevada en forma satisfactoria, o cuando su titular sea una persona suficientemente conocida por el Banco.
+
 Para abrir cuentas corrientes a personas jurídicas, debe verificarse que la sociedad esté legalmente constituida y que sus representantes estén debidamente facultados para girar. En este caso, los requisitos mencionados en las letras a), b), c),
 
 - **d)** y
 
-- **e)** anteriores se cumplirán respecto de los representantes legales de ellas y los indicados en las letras a), en lo que se refiere al Rol Unico Tributario, f),
+- **e)** anteriores se cumplirán respecto de los representantes legales que procedan a abrir la cuenta corriente a nombre de ella, y los indicados en las letras a), en lo que se refiere al Rol Unico Tributario, f),
 
 - **g)** y
 
-- **h)** respecto de la sociedad misma, sin perjuicio de los mayores requisitos que el banco estime necesario establecer.
+- **h)** respecto de la sociedad misma, sin perjuicio de los mayores requisitos que el banco estime necesario establecer. Para el registro de los demás apoderados se exigirá obligatoriamente sólo el requisito señalado en la letra
+
+- **e)** y la acreditación de que están legalmente facultados para girar sobre la cuenta corriente.
 
 La documentación en que conste el cumplimiento de las exigencias antes señaladas, se mantendrá archivada en la oficina en que se abra la cuenta corriente.
 
