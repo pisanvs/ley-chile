@@ -21512,15 +21512,7 @@ disposiciones contenidas en los artículos 19 y 23 del D.L. N° 1.097.
 
 ### 9. Disposición transitoria
 
-Los ajustes que deben aplicarse a las tasaciones de garantías warrants, a que se
-
-refiere el numeral 3.3.4. del título anterior, al igual que la instrucción
-
-contenida en la letra f) del N° 1 del mismo título, en lo que concierne a
-
-considerar solamente los vales de prenda de almacenes generales de depósito
-
-clasificados en categoría "A", regirán a partir del 31 de marzo de 1989.
+La instrucción contenida en la letra f) del N° 1 del título IV de este capítulo, en lo que concierne a considerar solamente los vales de prenda de almacenes generales de depósito clasificados en categoría "A", regirá a partir del 31 de marzo de 1989.
 
 ANEXO N° 1
 
