@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 75, de 16 de marzo de 1992, y en base a la facultad otorgada por el artículo 105 del Decreto MOP.
+
+No. 294, de 1984, que fijó el texto actualizado de la Ley No. 15.840, se expropió el lote de terreno No. 33, para la obra Camino By Pass Coronel-Lota (Ruta 160), sector By Pass Coronel-Lota, que figura a nombre de la Suc. Carlos Erratchou Thompson, rol de avalúo 5015-20, Comuna de Coronel, superficie 34.629 m2., deslindes: Norte, Caja Estero Manco; Sur y Este, Resto del predio, y Oeste, Lote No. 34. La Comisión de peritos compuesta por los señores Jorge Valenzuela Rodríguez, Jaime García Molina y Pablo Carrillo Valenzuela, fijó con fecha febrero de 1990, el valor provisional de la indeminización en la cantidadd de $ 4.155.480.-. La indeminización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
