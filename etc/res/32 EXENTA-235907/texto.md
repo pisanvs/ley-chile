@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A AGRICOLA NOVA LIMITADA
+
+La Dirección Grandes Contribuyentes del SII, por resolución Ex. Nº 32, de 21 de febrero de 2005 otorga, a contar del 1º del mes siguiente al de esta publicación y con vigencia indefinida a Agrícola Nova Limitada, RUT Nº 79.811.120-5, la calidad de agente retenedor del Impuesto al Valor Agregado en la compra de productos silvestres que realicen, establecido en la res. Ex. Nº 4.095/2000 de la Dirección Nacional, publicada en el Diario Oficial del día 29.08.2000.
