@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.850 de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº2, superficie 1.655 m², rol de avalúo Nº126-28, comuna de El Carmen, para la obra ''Area de Riego Rinconada Canal San Fernando Mogotillo Ramal 8, Km. 0,004 al Km. 0,339, del Proyecto Laja Diguillín'', VIII Región y se acordó el valor de indemnización con su propietario Gerardo Leiva Arriagada, ascendente a la cantidad de $834.699.
+
+- Fiscal del Ministerio de Obras Públicas.
