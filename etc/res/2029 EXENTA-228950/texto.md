@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.029, de 3 de agosto de 2004, de esta Subsecretaría, autorízase a PESQUERA QURBOSA DOS S.A. para continuar desarrollando las actividades pesqueras autorizadas mediante resoluciones citadas en Visto a Pesquera Qurbosa S.A. con las naves "Hilmir" y "Talismán", en virtud de la escritura pública y disposiciones legales citadas en Visto.
+
+Valparaíso, 3 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
