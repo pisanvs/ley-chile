@@ -1,0 +1,3 @@
+Por Resolución N° 373, de 21 de febrero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente la Resolución N° 245, de 1989, de esta Subsecretaría, que autorizó a don PEDRO AVILEZ SEPULVEDA, en cuanto a la autorización para operar la nave "Punta Galant", en virtud de lo dispuesto en el artículo 143° letras b) y d) del D.S. N° 430, de 1991 del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
