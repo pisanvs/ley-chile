@@ -1,0 +1,3 @@
+Por resolución Nº 1.568 de 12 de agosto de 1999, de esta Subsecretaría de Pesca, recházase la solicitud de concesión de acuicultura Nº 95110299, presentada por SALMONES UNIMARC S.A., hoy Inversiones Errázuriz Ltda., para operar un centro de cultivo en Canal Puyuguapi ''E'', comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 12 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
