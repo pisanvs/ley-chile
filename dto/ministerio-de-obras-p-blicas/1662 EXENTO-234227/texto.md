@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.662 de fecha 30 de noviembre del 2004, se expropió el lote de terreno Nº9, superficie 105 m², rol Nº 214-34, comuna de Curepto, VII Región para la obra ''Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco - Curepto - Puente Lautaro, Tramo Km. 46,180 a Km. 83,91430'' y se acordó el valor de indemnización con su propietario Alfonso del Carmen Saavedra Salazar, ascendente a la cantidad de $1.535.076.-
+
+Fiscal del Ministerio de Obras Públicas.
