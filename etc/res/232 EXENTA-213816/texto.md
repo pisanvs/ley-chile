@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE "SABCO ADMINISTRADORA DE FONDOS DE INVERSION S.A."
+
+Certifico: Que por resolución exenta Nº 232, de 8 de agosto de 2003, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Sabco Administradora de Fondos de Inversión S.A.", acordada en la Junta Extraordinaria de accionistas celebrada el 30 de junio de 2003, y reducida a escritura pública el 1º de julio del mismo año, en la 1º notaría de Santiago de don Rubén Galecio Gómez, domiciliado en Moneda Nº 1356, Santiago; consistente en el aumento de capital de la sociedad de $375.220.057 dividido en 300.000 acciones nominativas, de una misma serie y sin valor nominal que se encuentra suscrito y pagado a la suma de $410.220.057, dividido en 400.000 acciones nominativas, de una misma serie y sin valor nominal, mediante la emisión de 100.000 nuevas acciones de pago, que se pagarán dentro de los 30 días siguientes desde que la Superintendencia de Valores y Seguros apruebe esta reforma; reemplazando para estos efectos los artículos cuarto y tercero transitorio de los estatutos sociales.-
+
+Gonzalo Quiroga Riobo, Secretario General Subrogante.
