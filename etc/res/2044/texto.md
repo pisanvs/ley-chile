@@ -1,0 +1,3 @@
+Por resolución Nº 2.044 de 11 de octubre de 1999 de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 98103035, presentada por SALMONES LLANQUIHUE S.A., para operar un centro de cultivo ubicado en Desembocadura Estero Soledad en Estero Comau, comuna de Chaitén, provincia de Palena, X Región.
+
+Valparaíso, 11 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
