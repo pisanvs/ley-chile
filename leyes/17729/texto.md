@@ -6,339 +6,271 @@ Por cuanto el H. Congreso Nacional ha dado su aprobación al siguiente
 
 Proyecto de ley:
 
-## Título Primero
+## Título I
 
-DE LOS INDIGENAS Y DE LAS TIERRAS INDIGENAS
+De los Indígenas, de las Tierras Indígenas, de la división de las Reservas y de la liquidación de las Comunidades Indígenas.
 
-Párrafo Primero
+## Capítulo I
 
-De las definiciones y de la disposición de las tierras indígenas.
+Definiciones y disposiciones generales
 
-#### Artículo 1
+#### Artículo 1°
 
-Se tendrá por indígena, para todos los efectos legales, a la persona que se encuentre en algunos de los siguientes casos:
+Son tierras indígenas para los efectos de esta ley, las concedidas:
 
-1.- Que invoque un derecho que emane directa e inmediatamente de un título de merced o título gratuito de dominio otorgado en conformidad a las leyes de fecha 4 de Diciembre de 1866, 4 de Agosto de 1874 y 20 de Enero de 1883; a la ley N° 4.169, de 8 de Septiembre de 1927; a la ley N° 4.802, de 11 de Febrero de 1930; al decreto N° 4.111, de 9 de Julio de 1931; a la ley N° 14.511, de 3 de Enero de 1961 y demás disposiciones legales que las modifican o complementan;
+a) A título de merced de conformidad a las leyes de 4 de Diciembre de 1866, de 4 de Agosto de 1874 y 20 de Enero de 1883, mientras permanezcan en estado de indivisión;
 
-2.- Que invoque un derecho declarado por sentencia dictada en juicio de división de una comunidad indígena con título conferido de acuerdo con las disposiciones legales mencionadas en el número precedente, salvo que dicho derecho se haya adquirido por un título oneroso anterior o posterior a la división, y
+b) Mediante título gratuito de dominio de conformidad con los artículos 4° y 14 de la ley número 4.169; artículos 13, 29 y 30 de la ley número 4.802; artículos 70 al 74 -ambos inclusive- del decreto supremo número 4.111, que fijó el texto definitivo de la ley N° 4.802; artículos 82 y 84 de la ley N° 14.511; la ley N° 16.436 y con las disposiciones legales que las hayan modificado o complementado, mientras dichas tierras estén indivisas.
 
-3.- Que, habitando en cualquier lugar del territorio nacional, forme parte de un grupo que se exprese habitualmente en un idioma aborigen y se distinga de la generalidad de los habitantes de la República por conservar sistemas de vida, normas de convivencia, costumbres, formas de trabajo o religión, provenientes de los grupos étnicos autóctonos del país.
+A partir de la fecha de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces, las hijuelas resultantes de la división de las reservas, dejarán de considerarse tierras indígenas, e indígenas a sus dueños o adjudicatorios.
 
-La calidad de indígena se acreditará con un certificado del Instituto de Desarrollo Indígena. Si éste deniega el certificado, el interesado podrá ocurrir ante el Juez de Letras respectivo, quien resolverá breve y sumariamente, previo informe del Instituto.
+#### Artículo 2°
 
-No obstante, todo el que tenga interés en ello podrá desconocer en juicio la calidad de indígena que invoque otra persona, aunque tenga certificado del Instituto, y resolverá el Tribunal oyendo al Instituto.
+Para los efectos de la aplicación de esta ley se entenderán como "reservas" las tierras amparadas por los títulos señalados en el artículo anterior, mientras permanezcan indivisas.
 
-#### Artículo 2
+"Goces" son las diferentes porciones de terreno de la reserva ocupadas por una persona que las explota en forma independiente, en provecho y por cuenta propia.
 
-Se tendrá por tierras indígenas, para todos los efectos legales:
+Por "hijuela" se entenderá la porción de terreno que en la división de la reserva se adjudique a una persona en propiedad individual y exclusiva.
 
-1.- Las concedidas en merced a nombre de la República, de conformidad a las leyes de 4 de Diciembre de 1866, de 4 de Agosto de 1874 y de 20 de Enero de 1883;
+#### Artículo 3°
 
-2.- Las concedidas mediante título gratuito de dominio de conformidad a los artículos 4 y 14 de la ley N° 4.169; artículos 13, 29 y 30 de la ley N° 4.802; artículos 70 y 74, ambos inclusive..." del decreto N° 4.111, que fijó el texto definitivo de la ley N° 4.802; artículos 82, 83 y 84 de la ley N° 14.511 y demás disposiciones legales que las modifican o complementan.
+Para los efectos de esta ley, se considerará "indígena" a toda persona que posea derechos que emanen directa o indirectamente de algunos de los títulos mencionados en el artículo 1°, o la calidad de herederos de los que figuran o hayan debido figurar en ellos. Para acreditar que reviste tal calidad de indígena, bastará un certificado otorgado por el Instituto de Desarrollo Agropecuario, suscrito por el Director Regional correspondiente. Si éste denegare el certificado, el interesado podrá ocurrir ante el Juez de Letras respectivo, quien resolverá breve y sumariamente, previo informe del Instituto de Desarrollo Agropecuario.
 
-#### Artículo 3
+La comunidad correspondiente a una reserva se individualizará por el nombre del primer beneficiario que aparezca en el título respectivo.
 
-Para todos los efectos legales, la posesión notoria del estado de padre, madre, marido, mujer o hijo se considerará como título bastante para constituir en favor de los indígenas los mismos derechos que, conforme a las leyes comunes, emanan de la filiación legítima y del matrimonio civil.
+Son "ocupantes" las personas que poseyendo o no derechos de los indicados en el inciso primero de este artículo, exploten en forma independiente, en beneficio y por cuenta propia un goce en una reserva. Se tendrá también por ocupantes a los arrendatarios de uno o más goces de una reserva perteneciente a comuneros que sean asignatarios de tierras en el área agrícola reformada y a las personas que posean y exploten en provecho y por cuenta propia terrenos de aquellas reservas en que por su naturaleza, topografía o cualquier otra circunstancia no se hayan constituido o delimitado goces.
 
-Para acreditar la posesión notoria de dichos estados civiles bastará la información testimonial de parientes o vecinos y el informe del Instituto de Desarrollo Indígena, sin perjuicio de las medidas para mejor resolver que decrete el Tribunal.
+Para los efectos de esta ley se presume de derecho que todos los ocupantes de una reserva son "comuneros" de ella y tienen la calidad de indígenas. Las demás personas se tendrán por "particulares".
 
-El Juez de Letras resolverá sobre la posesión notoria del estado civil y, en caso de declararla acreditada con los medios probatorios indicados en el inciso anterior, ordenará extender las partidas que correspondan o rectificar las existentes, en su caso, para lo cual oficiará al respectivo Oficial del Registro Civil.
+#### Artículo 4°
 
-Se entenderá que la mitad de los bienes pertenecen al marido y la otra mitad a la mujer, o a todas ellas por iguales partes, cuando fueren varias, a menos que conste que ellos han sido aportados por uno solo de los cónyuges.
+La posesión notoria del estado civil de padre, madre, marido, mujer o hijo se considerará como título bastante para constituir en favor de los indígenas los mismos derechos y obligaciones que, conforme a las leyes comunes, emanen de la filiación legítima y del matrimonio civil.
 
-#### Artículo 4
+Para acreditarla bastará la información testimonial de parientes o vecinos, que podrá rendirse en forma incidental en cualquier juicio, o un informe del Instituto de Desarrollo Agropecuario suscrito por el Director Regional correspondiente.
 
-Para los efectos de la presente ley, se tendrá por ausente al comunero que por más de un año no viva o no trabaje personalmente en tierras indígenas, salvo que la ausencia se deba a razones de fuerza mayor, de estudio o a alguna causa ajena a la voluntad del comunero.
+Se entenderá que la mitad de los bienes pertenecen al marido y la otra mitad a la mujer o a todas ellas por iguales partes cuando fueren varias, a menos que conste que los terrenos han sido aportados por sólo uno de los cónyuges.
 
-Se presume de derecho que es ausente el comunero de tierras indígenas que se incorpore a cualquiera unidad de producción del área agrícola reformada, una vez transcurrido el plazo de un año.
+#### Artículo 5°
 
-El ausente, en caso alguno, podrá obtener que se le entere en tierras la cuota o parte que le corresponda en la comunidad.
+Los ocupantes no podrán enajenar, gravar ni dar en arrendamiento los goces que posean en la reserva, ni los derechos que les correspondan en la comunidad, excepto en favor de otro u otros miembros de la misma que vivan o trabajen en la reserva, siempre que obtengan la autorización a que se refiere el artículo 7°.
 
-Los derechos de los ausentes en las tierras indígenas se entenderán caducos desde que quede ejecutoriada la resolución del Instituto de Desarrollo Indígena que declare la ausencia y, sin perjuicio de la indemnización a que se refiere el artículo siguiente, tales derechos acrecerán, por iguales partes, en beneficio de los comuneros que vivan o trabajen personalmente en la comunidad, se encuentren o no constituidos en cooperativas.
+#### Artículo 6°
 
-El Reglamento determinará los requisitos de la resolución que declare la ausencia, la que se notificará por medio de dos avisos, uno de los cuales se publicará en un diario o periódico del departamento donde se encuentre ubicada la comunidad, o de la capital de la provincia si allí no lo hubiere, y el otro en el Diario Oficial.
+Podrá autorizarse la enajenación del todo o parte de un goce:
 
-Dentro del plazo de 30 días, contado desde la última publicación, el interesado podrá reclamar ante el Juez de Letras del referido departamento, quien resolverá conforme a las normas del procedimiento sumario, sin ulterior recurso.
+a) Para fines educacionales o sociales;
 
-#### Artículo 5
+b) Para transigir juicios de restitución o reivindicatorios pendientes;
 
-Los comuneros a quienes afecte la caducidad de sus derechos podrán exigir de la cooperativa o de la comunidad, en su caso, que se les pague el justo precio de su acción o cuota.
+c) Para la normalización de poblaciones declaradas en situación irregular en conformidad a la ley.
 
-El derecho a que se refiere el inciso anterior deberá ejercerse ante el Juez de Letras del departamento donde esté ubicada la comunidad, se sustanciará sin forma de juicio y prescribirá en el plazo de un año, contado desde que quede firme la resolución que declara la ausencia.
+También podrán gravar sus goces a favor de cualquier organismo del Estado, como son el Banco del Estado de Chile, la Corporación de Fomento de la Producción, el Instituto de Desarrollo Agropecuario u otras instituciones de crédito o de asistencia técnica o financiera en que el Estado tenga aportes mayoritarios de capital.
 
-El Juez solicitará al Instituto que tase la acción o cuota del ausente y si éste no practicare la tasación dentro del plazo de 30 días de requerida, se prescindirá de ella.
+Para el solo efecto de otorgar tales actos o contratos, se presume de derecho que son dueños de los goces los ocupantes que viven o laboran en ellos, lo que se acreditará mediante un certificado otorgado por el Instituto de Desarrollo Agropecuario, que se insertará en el contrato.
 
-Para pagar al ausente, el Instituto deberá otorgar un préstamo al deudor que lo solicite, quien lo reembolsará en siete cuotas anuales e iguales, a contar del tercer año posterior a la fecha del mutuo, con el 3% de interés anual.
+#### Artículo 7°
 
-El pago se hará al ausente en cuotas CORVI, que le darán derecho preferente para obtener un préstamo para la adquisición, construcción, reparación o ampliación de su vivienda, a menos que el interesado manifieste expresamente su voluntad de ser pagado en dinero efectivo.
+Las enajenaciones, gravámenes y arrendamientos a que se refieren los dos artículos precedentes, deberán ser siempre autorizados por el Instituto de Desarrollo Agropecuario, mediante resolución fundada del Director Regional correspondiente.
 
-#### Artículo 6
+Iniciado el juicio de división de la reserva ya no podrán celebrarse esos actos y contratos.
 
-Sólo en conformidad a las disposiciones de esta ley los indígenas podrán enajenar las tierras indígenas, gravarlas, darlas en arrendamiento, aparcería u otra forma de explotación por terceros.
+Términado el procedimiento de división de la reserva e inscritas las hijuelas resultantes de la misma en el Registro de Propiedad del Conservador de Bienes Raíces, se estará a lo dispuesto en el artículo 26.
 
-#### Artículo 7
+#### Artículo 8°
 
-Los indígenas no podrán enajenar los terrenos comprendidos en el título de merced o en título gratuito de dominio común, pero podrán gravarlos en favor del Banco del Estado de Chile, de la Corporación de la Reforma Agraria, de la Corporación de Fomento de la Producción, del Instituto de Desarrollo Agropecuario o de otras instituciones de crédito o de fomento en que el Estado tenga aporte mayoritario de capital. También podrán transferir, a cualquier título, los terrenos necesarios para fines educacionales, religiosos, deportivos o sociales.
+Si con posterioridad al 1° de Enero de 1977 se hubieren alterado o perturbado violenta o clandestinamente las condiciones de ocupación, explotación o goce del predio común, el Juez de Letras competente, a petición de los interesados o del Abogado Defensor de Indígenas, restablecerá las cosas al estado anterior a la perturbación o alteración.
 
-Para el solo efecto de otorgar los instrumentos que tales actos exijan, se presume de derecho que son dueños de los terrenos los comuneros que vivan y laboren en la comunidad, lo que se acreditará mediante certificado del Instituto de Desarrollo Indígena que deberá insertarse en el acto o contrato.
+El Juez resolverá en única instancia sin otro trámite que la audiencia de los ocupantes y de los perturbadores y la inspección personal del lugar si lo estimare necesario, oyendo al Instituto de Desarrollo Agropecuario. Las pruebas que procedan deberán rendirse en la misma audiencia y serán apreciadas en conciencia.
 
-Tampoco podrán enajenar sus acciones y derechos en la comunidad, excepto en favor de otro miembro indígena de la misma comunidad que viva y trabaje en ella y de cooperativas campesinas; pero podrán gravarlos en favor de las instituciones indicadas en el inciso primero.
+Podrá el Juez condenar a quienes hubieran alterado o perturbado violenta o clandestinamente la explotación de el o los goces, o del predio común, al pago de perjuicios cuyo monto regulará prudencialmente.
 
-Las enajenaciones y gravámenes a que se refieren los incisos anteriores deberán ser autorizados por el Instituto de Desarrollo Indígena y tal autorización deberá insertarse en el acto o contrato.
+## Capítulo II
 
-#### Artículo 8
+De la división de las reservas y de la liquidación
 
-Los indígenas podrán celebrar contratos de arrendamiento o de aparcería sobre las parcelas que estuvieren ocupando en el inmueble de la comunidad, siempre que el arrendatario o aparcero sea indígena que viva y labore en la misma u otra comunidad o que sea dueño de una hijuela singular o se trate de una cooperativa o asentamiento campesino.
+de las comunidades
 
-En estos casos no se requerirá el acuerdo de los demás comuneros, pero se exigirá la autorización del Instituto de Desarrollo Indígena, el que no podrá otorgarla por un plazo superior a cinco años, en la forma que determine el Reglamento.
+### Párrafo 1°
 
-Las disposiciones del DFL. RRA. N° 9, de 15 de Enero de 1968, y sus modificaciones posteriores, no se aplicarán a los contratos de arrendamiento, mediería o aparcería a que se refiere este artículo.
+Generalidades
 
-#### Artículo 9
+#### Artículo 9°
 
-Los actos y contratos permitidos en los artículos 7 y 8 no requerirán, para su validez, más autorizaciones o formalidades habilitantes que las que en dichos preceptos se establecen.
+Serán competentes para conocer de la división de las reservas y la liquidación de las comunidades, los Jueces de Letras de Mayor Cuantía de Turno en lo Civil que correspondan de conformidad a lo establecido en los artículos 136 y 175 del Código Orgánico de Tribunales, no siendo aplicable a esta materia lo dispuesto en el artículo 176 del mismo cuerpo legal.
 
-#### Artículo 10
+Los jueces resolverán en única instancia y apreciarán la prueba en conciencia. En lo no previsto en esta ley, se sujetarán a las disposiciones comunes a todo procedimiento consignadas en el Libro I del Código de Procedimiento Civil.
 
-Los indígenas no podrán enajenar a ningún título los bosques naturales que se encuentren en los terrenos de la comunidad. Sólo con autorización del Instituto podrán entregar la explotación de dichos bosques a terceros, en las condiciones que el mismo Instituto determine y con sujeción a las normas legales que estén vigentes sobre esta materia.
+La defensa y la representación judicial de los indígenas corresponderá al Abogado Defensor de Indígenas. Sus actuaciones gozarán de privilegio de pobreza.
+
+Las notificaciones a que haya lugar se practicarán por el estado diario, salvo que esta ley disponga otra cosa. Cuando se ordene la comparecencia personal de un ocupante la citación se practicará por un funcionario del Instituto de Desarrollo Agropecuario que tendrá el carácter de ministro de fe y será designado por el Tribunal a proposición del Abogado Defensor de Indígenas.
+
+### Párrafo 2°
+
+De la división de las reservas
+
+#### Artículo 10°
+
+El procedimiento de la división de la reserva se iniciará por una solicitud del Abogado Defensor de Indígenas, formulada al Juez competente a requerimiento escrito de cualesquiera de los ocupantes de ella. El requerimiento se hará al Director Regional correspondiente del Instituto de Desarrollo Agropecuario.
+
+En la solicitud referida se pedirá la división de la reserva conforme al proyecto que dicho Instituto deberá elaborar, el que se acompañará a la misma con el plano correspondiente.
+
+El proyecto referido señalará la reserva a dividirse y su título; el o los comuneros que requirieron la división; el avalúo fiscal de la reserva; la individualización de los actuales ocupantes, y los goces que ellos tengan en la reserva; las hijuelas en que se proyecta dividir aquélla, indicando sus superficies y linderos, su avalúo fiscal proporcional correspondiente y los adjudicatarios de cada una de ellas. Señalará, además los terrenos ocupados por escuelas, cementerios, retenes de carabineros u otros organismos públicos, sus superficies, deslindes y avalúos. Las hijuelas proyectadas deberán, en lo posible, corresponder a los goces que los adjudicatarios tienen actualmente en la reserva y tener acceso al camino público. El proyecto y plano referidos harán plena prueba en cuanto a los hechos consignados en ellos.
+
+Tanto en el proyecto como en la división misma de la reserva, no podrá formarse ninguna hijuela para el o los comuneros que sean asignatarios de tierras del área agrícola reformada, a menos que no existan otros ocupantes en la reserva.
 
 #### Artículo 11
 
-Los Notarios y Conservadores de Bienes Raíces no autorizarán escrituras, actos o contratos que puedan privar a los indígenas del dominio, posesión o tenencia de las tierras indígenas, ni autorizarán su inscripción, en su caso, si se hubiera omitido la autorización previa exigida para su validez.
+Interpuesta la solicitud, el Tribunal ordenará tener por iniciado el procedimiento y citará a los interesados a la audiencia del vigésimo día hábil después de la notificación para que en ellas puedan deducir las oposiciones a que haya lugar, bajo los apercibimientos señalados en el artículo 12.
 
-Si el Notario o el Conservador de Bienes Raíces tuviere dudas respecto del cumplimiento de las disposiciones de la presente ley, requerirá informe al Instituto de Desarrollo Indígena, el que deberá emitirlo en todo caso.
+La notificación se practicará mediante un aviso económico publicado en un diario de la capital de la provincia, en el que se dará cuenta de haberse iniciado el juicio divisorio de la reserva, que se individualizará, señalando el día, hora y lugar de la audiencia a que se cita a los interesados para formular las oposiciones a que pueda haber lugar y bajo el apercibimiento ya referido. El costo de esta publicación será de cargo del Instituto de Desarrollo Agropecuario.
 
-El Notario o el Conservador de Bienes Raíces que contraviniere las disposiciones contenidas en este artículo será sancionado en la forma establecida en el artículo 441 del Código Orgánico de Tribunales.
+Esta resolución se pondrá en conocimiento de los ocupantes mediante cédula que contendrá las mismas menciones del aviso precitado. Ella se entregará por un funcionario del Instituto de Desarrollo Agropecuario que tendrá el carácter de ministro de fe y será designado por el Tribunal a proposición del Abogado Defensor de Indígenas. La cédula se entregará a cualquiera persona adulta del domicilio del ocupante, o fijándola en la puerta del mismo si allí no hubiere nadie, al menos 10 días antes de la fecha de la audiencia. De la entrega de la cédula se dejará testimonio en autos; pero su omisión no invalidará la notificación y sólo hará responsable al infractor de los perjuicios que origine. Para todos los efectos legales, los ocupantes se entenderán domiciliados en el goce que tengan en la reserva.
 
 #### Artículo 12
 
-Los actos y contratos celebrados en contravención a las disposiciones de este párrafo adolecen de nulidad absoluta. La acción de nulidad será inprescriptible y podrá ser ejercida por todo el que tenga interés en ello y por el Instituto de Desarrollo Indígena.
+La audiencia se llevará a efecto con sólo los que concurran a ella y en rebeldía de los inasistentes.
+
+La oposición a la división de la reserva únicamente podrá formularse en esta audiencia y siempre que se funde en alguno de los hechos siguientes:
+
+a) La existencia de juicios pendientes de reivindicación u otros en que se persiga la restitución del todo o parte del inmueble.
+
+b) Que la reserva ya esté dividida por sentencia judicial ejecutoriada.
+
+c) Que entre los actuales ocupantes exista pacto de indivisión ajustado a lo dispuesto en el inciso segundo del artículo 1.317 del Código Civil.
+
+Las pruebas a que haya lugar se rendirán en la misma audiencia y el Juez de la causa las apreciará en conciencia, resolviendo de inmediato sobre las oposiciones formuladas.
+
+En la misma audiencia se ratificarán las donaciones hechas para escuelas, retenes de carabineros, cementerios u otros organismos públicos, las que no requerirán para su perfeccionamiento de solemnidad alguna y quedarán exentas del trámite de insinuación y de todo impuesto.
 
 #### Artículo 13
 
-En la subasta judicial de tierras indígenas o de acciones y derechos que incidan en ellas, sólo podrán participar como postores los indígenas que trabajen personalmente tierras indígenas y las cooperativas campesinas.
+La oposición fundada en la existencia de juicios de restitución o reivindicación pendientes, sólo será admisible si esta circunstancia se hubiere anotado al margen de la inscripción del título dentro de 180 días corridos, a partir de la fecha en que entre en vigencia esta ley y siempre que se acompañe boleta de consignación en arcas fiscales, por una cantidad equivalente al 10% del avalúo fiscal de la reserva. La suma consignada quedará a favor del Fisco si la oposición se declarare inadmisible, o si, en definitiva, no se hiciera lugar a la restitución o reivindicación correspondiente; de otro modo, será devuelta oportunamente al que la hubiere consignado.
 
-Párrafo Segundo
-
-De las tierras Indígenas y su destino
+Las acciones que pudieran hacerse valer y que no hubieren prescrito según las leyes comunes, prescribirán por el solo hecho de no haberse ejercitado en la forma y en el plazo señalados en el inciso primero y en el artículo precedente.
 
 #### Artículo 14
 
-Las comunidades indígenas sólo podrán dividirse cuando lo pida al Instituto de Desarrollo Indígena la mayoría absoluta de los comuneros que vivan o trabajen personalmente en la respectiva comunidad, o cuando lo acuerde el propio Instituto.
-
-Pedida o acordada la división, el Instituto de Desarrollo Indígena procederá, dentro de los sesenta días siguientes, previos los trámites que estime necesarios, a realizar el empadronamiento de la comunidad, con el fin de determinar especialmente la ubicación, cabida y deslindes del predio común, la nómina de los comuneros y los derechos de cada uno de éstos en el predio común. En el empadronamiento referido también deberá quedar constancia de la nómina de los comuneros ausentes y de las observaciones relativas a la caducidad o prescripción de sus derechos en el predio común.
-
-Si vencido el plazo a que se refiere el inciso anterior el Instituto de Desarrollo Indígena no realizare el empadronamiento señalado, la mayoría absoluta de los comuneros podrá pedir la división al Juez de Letras del departamento respectivo, quien realizará dicho empadronamiento y efectuará la división. Para practicar el empadronamiento, el Juez podrá requerir del Instituto todos los antecedentes que estime necesarios, quedando éste obligado a proporcionárselos en el más breve plazo, que no podrá exceder de treinta días.
-
-Cumplido el plazo de sesenta días a que se refiere el inciso segundo, el Instituto, de acuerdo con los antecedentes que haya podido reunir, elaborará un informe, dentro de los seis meses siguientes, que contendrá una proposición de liquidación de la comunidad, la que, si fuere aceptada por los comuneros, ratificará el Juez ordenando las inscripciones de dominio pertinentes.
-
-Si la proposición fuere rechazada por uno o más de los comuneros, el informe elaborado por el Instituto de Desarrollo Indígena, con todos sus antecedentes, pasará al Juez de Letras respectivo, quien resolverá en definitiva con el mérito de ese informe y antecedentes y de los demás trámites que procedan o estime menester.
-
-El comunero a quien el Instituto o el Juez, en su caso, reconozca derechos en la liquidación de una comunidad y tenga en otro derecho a tierra, deberá enajenar los que le correspondan en una de dichas comunidades a cualquiera de los respectivos comuneros o, en su defecto, al Instituto, el que deberá adquirirlos para transferirlos a alguno de éstos.
-
-Producida la división, el asignatario sólo podrá enajenar su parte a aquel otro de la misma comunidad que sea dueño de un terreno de una cabida inferior a una unidad agrícola familiar.
-
-En los casos de los dos incisos precedentes, si el comprador lo requiere, el Instituto deberá concederle un préstamo para pagar al contado la parte de terreno que compra.
-
-El monto del crédito no podrá ser superior al valor de la adquisición y su amortización se efectuará en no más de quince cuotas anuales, cada una de las cuales sólo se reajustará en un 50% del alza que experimente el índice de precios al consumidor y devengará un interés del 3% anual.
-
-El Instituto de Desarrollo Indígena deberá adoptar las medidas conducentes a que ninguno de los adjudicatarios de una comunidad que se divide reciba en la liquidación una superficie de tierra inferior a una unidad agrícola familiar definida en la letra h) del artículo 1° de la ley N° 16.640.
-
-Si las tierras de la comunidad que se divide fueren insuficientes para cumplir lo dispuesto en el inciso anterior, el Instituto asignará a los adjudicatarios afectados las tierras más próximas a la zona donde vivan, sea que ellas provengan de expropiaciones o adquisiciones realizadas por la Corporación de la Reforma Agraria o de adquisiciones efectuadas por el Instituto de Desarrollo Indígena para el fin señalado en este inciso, lo que deberá hacer en el mismo orden de prioridad en que se realice la división de las comunidades.
-
-En ningún caso podrá completarse a un asignatario su unidad agrícola familiar con retazos de terrenos que no sean contiguos.
-
-Las unidades agrícolas familiares que correspondan a los asignatarios indígenas no podrán dividirse ni aun por transmisión.
-
-Para determinar la superficie de una unidad agrícola familiar, el Instituto requerirá el concurso del Servicio Agrícola y Ganadero, el que quedará obligado a proporcionarlo y a proponer los planes más beneficiosos para cultivar la tierra, y, en caso de que el respectivo asignatario se comprometa a realizarlos, el Instituto de Desarrollo Indígena le concederá los créditos necesarios.
+Si la oposición fundada en la causal señalada en la letra a) del artículo 12 fuere declarada admisible, el Juez pedirá informe al Instituto de Desarrollo Agropecuario sobre la procedencia de la restitución o reivindicación pendiente. Este informe deberá evacuarse dentro del término de 30 días, aportará todos los antecedentes necesarios para la mejor resolución del asunto y deberá ser firmado por el Director Regional y un abogado de dicho organismo.
 
 #### Artículo 15
 
-Serán inembargables:
-
-1) Las tierras indígenas, incluidos los edificios, árboles y demás cosas que adhieran permanentemente a ellas, mientras se conserven en el dominio de los indígenas;
-
-2) Las sementeras, cosechas y demás productos de los bienes a que se refiere el número anterior;
-
-3) Los aperos, animales de labor, materiales y demás bienes destinados por su dueño al uso o cultivo de las tierras indígenas, hasta el monto de un sueldo vital anual para empleado particular, escala A del departamento de Santiago, y
-
-4) Los créditos que tenga el indígena y que provengan de la comercialización de los productos de tierras indígenas, hasta el monto indicado en el número anterior.
-
-Sin perjuicio de las disposiciones del derecho común sobre inembargabilidad de los bienes del deudor, aquellos a que se refieren los números precedentes serán embargables por obligaciones contraídas en favor del Fisco, de las Instituciones indicadas en el artículo 7°, por sueldos y salarios y por prestaciones alimentarias.
+Evacuado el informe, el Juez citará sin más trámite al opositor y al Abogado Defensor de Indígenas a una nueva audiencia para dentro de quinto día, la que tendrá lugar con sólo los que concurran. Si las partes no llegan a un avenimiento, el Juez podrá resolver que se prescinda en la división de los terrenos de la reserva afectados por las acciones reivindicatorias o de restitución, si la superficie de ellos fuera exigua, o cuando los títulos en que se funden aquellas acciones fueren preferentes al de la reserva, o cuando otras razones de conveniencia o mera equidad así lo aconsejaren. Esta resolución será siempre fundada, deberá dictarse dentro de tercero día y dispondrá continuar con la división limitándola al remanente de la reserva.
 
 #### Artículo 16
 
-Sólo los herederos que vivan y trabajen personalmente en tierras indígenas al momento de abrirse la sucesión de su causante, tendrán derecho a sucederle por causa de muerte en las tierras indígenas, acciones y derechos que incidan en ellas e inmuebles por destinación o adherencia.
+En el caso del artículo anterior, el Juez podrá ordenar al Instituto de Desarrollo Agropecuario confeccionar un nuevo proyecto de hijuelación que se pondrá en conocimiento de los ocupantes. Si no se dedujere nueva oposición de conformidad al artículo 12 en la audiencia a que se cite para dentro de quinto día, o si las oposiciones fueren desechadas, el Tribunal tendrá por aprobado dicho proyecto y la correspondiente división, procediéndose en lo demás, de acuerdo con lo prescrito en los artículos 19 y siguientes.
 
-Si ninguna de las personas llamadas a la sucesión del causante cumpliere con dicho requisito, los bienes indicados en el inciso anterior acrecerán a la comunidad o a la cooperativa, en su caso, y sólo a falta de ellas al Fisco.
-
-Si por aplicación de las disposiciones de este artículo resultare excluido un heredero forzoso, deberá ser indemnizado por aquellos a quienes beneficie la exclusión, en conformidad con lo dispuesto en el artículo 5°.
-
-Párrafo Tercero
-
-De la restitución de tierras indígenas
+De otro modo, se suspenderá el juicio de división mientras se fallen el o los juicios de restitución o reivindicación en que se hubiere fundado la oposición.
 
 #### Artículo 17
 
-El Consejo del Instituto de Desarrollo Indígena, a petición del interesado o de oficio, podrá acordar la restitución total o parcial de los terrenos indicados en el artículo 2° de esta ley que se encuentren ocupados por personas no indígenas, en los siguientes casos:
+Si la reserva ya estuviera dividida por resolución judicial ejecutoriada y no se hubiere dado cumplimiento a ella, el Juez ordenará al Instituto de Desarrollo Agropecuario cumplirla con auxilio de la fuerza pública, dentro de sesenta días, disponiendo que se practiquen las inscripciones ordenadas en el artículo 19.
 
-1.- Cuando el ocupante carezca de todo título sobre dichos terrenos;
-
-2.- Cuando los títulos del ocupante o de sus antecesores en la posesión de tierras indígenas se hubieren otorgado con infracción a las normas de los cuerpos legales mencionados en el N° 1 del artículo 1° y no pudiere acreditar dominio sobre ellas, y
-
-3.- Cuando la posesión del ocupante emane de títulos otorgados con infracción a la presente ley.
+Pero, si hubieren transcurrido más de cinco años desde la fecha de la resolución referida sin que se hubiere hecho entrega material de las hijuelas resultantes de la división, los derechos emanados de la misma se entenderán extinguidos y la oposición fundada en la causal de la letra b) del artículo 12 se declarará inadmisible. Además, el Juez dispondrá la cancelación de las inscripciones que se hubieren practicado y procederá a efectuar una nueva división de la reserva de conformidad con la presente ley.
 
 #### Artículo 18
 
-El acuerdo de restitución a que se refiere el artículo anterior se notificará personalmente al afectado o dejando copia autorizada del mismo a una persona adulta que se encuentre en el predio.
+Si se acogiera la oposición fundada en la letra c) del artículo 12 el Juez dejará constancia del pacto de indivisión existente o del que se conviniere en la respectiva audiencia, ordenando a la vez adjudicar en común, los terrenos de la reserva a sus ocupantes e inscribirlos a nombre de ellos en el Registro de Propiedad del Conservador de Bienes Raíces competente. Salvo acuerdo en contrario, se entenderá que dichos ocupantes son dueños del predio por partes iguales.
 
-La notificación del acuerdo de restitución se hará por un funcionario del Instituto de Desarrollo Indígena acompañado por un funcionario del Cuerpo de Carabineros quienes, para este efecto tendrán la calidad de Ministro de Fe. En igual forma se notificarán las resoluciones posteriores hasta que el afectado, en cualquiera gestión que efectúe, fije su domicilio, en cuyo caso las notificaciones se le harán por carta certificada dirigida a ese domicilio.
-
-Además, un extracto del acuerdo deberá publicarse gratuitamente en el Diario Oficial, por una sola vez, los días 1° ó 15 de cada mes o al día siguiente hábil si alguno de aquéllos fuere festivo. Igual publicación y en los mismos días deberá hacerse en uno de los diarios de mayor circulación del departamento cabecera de la provincia respectiva.
-
-Practicadas las publicaciones a que se refiere el inciso anterior, no podrá alegarse, en ningún caso; falta o nulidad de la notificación del acuerdo de restitución.
+En lo demás se procederá conforme a los artículos siguientes.
 
 #### Artículo 19
 
-Efectuadas las publicaciones anteriormente referidas, el acuerdo se inscribirá sin más trámite en el Registro de Interdicciones y Prohibiciones del Conservador de Bienes Raíces respectivo, cuando los terrenos a que el acuerdo se refiere estuvieren inscritos. El Conservador dejará constancia en la inscripción de las publicaciones del extracto y agregará copia autorizada de la resolución correspondiente al final de dicho Registro.
+Si no se hubiese deducido oposición, o desechada la formulada, el Juez dictará una resolución fundada aprobando la división de la reserva en los términos propuestos por el Instituto de Desarrollo Agropecuario. En ella adjudicará a cada ocupante en propiedad individual y exclusiva las correspondientes hijuelas, las que no estarán sujetas a ninguna limitación de superficie. En la misma resolución se señalará el avalúo total de la reserva dividida, el que será coincidente con el fiscal, y el proporcional correspondiente a cada hijuela. También se ordenará proceder a la inscripción de las hijuelas resultantes de la división en el Registro de Propiedad del Conservador de Bienes Raíces respectivo y oficiar al efecto.
 
-El predio ordenado restituir no podrá ser objeto de disposición ni de venta en pública subasta, ni de arrendamiento, medierías, usufructo, fideicomiso, censo vitalicio, uso, habitación, comodato o anticresis, una vez efectuadas las publicaciones referidas. Será nulo todo acto o contrato celebrado en contravención a esta norma y en caso que el ocupante enajenare o gravare a cualquier título la totalidad o parte del predio, los trámites de la restitución se seguirán con él como si no hubiese enajenado o gravado, presumiéndose de pleno derecho, para todos los efectos legales, que representa a sus sucesores en el dominio.
+De igual modo se procederá respecto de los terrenos ocupados por escuelas, cementerios, retenes de carabineros u otros organismos públicos, los que se inscribirán a nombre del Fisco con declaración de que queda sin efecto ni valor cualquier título anterior sobre esos inmuebles.
+
+En contra de esta resolución no procederá recurso alguno, salvo el de rectificación y enmienda en los casos y del modo que señalan los artículos 182 y siguientes del Código de Procedimiento Civil.
 
 #### Artículo 20
 
-Conjuntamente con acordar la restitución, el Instituto deberá tasar las mejoras introducidas en el predio por el ocupante y que deban serle abonadas y regular, cuando éste haya poseído de mala fe, el monto de la indemnización que dicho ocupante debe pagar por el tiempo de su ocupación personal.
-
-Sin embargo, el Instituto podrá convenir directamente con el ocupante el monto y forma de pago de las indemnizaciones a que se refiere el inciso anterior.
+La inscripción de cada una de las hijuelas antes señaladas se practicará con el solo mérito del oficio del Juez, debiendo, además, archivarse al final del Registro de Propiedad correspondiente una copia autorizada de la resolución a que se refiere el artículo precedente. No será necesario exhibir recibo del pago de contribuciones de bienes raíces, certificado de pavimentación, ni otra documentación alguna. El Conservador de Bienes Raíces remitirá dentro de quince días copia autorizada de esas inscripciones al Juez, a fin de que sean agregados a la causa.
 
 #### Artículo 21
 
-Las indemnizaciones a que se refiere el artículo anterior cuando corresponda, deberán compensarse y la diferencia deberá pagarse con un 20% al contado y el saldo en cinco cuotas iguales anuales, que se reajustarán en la forma indicada en el inciso segundo del artículo 50 de la ley N° 16.640.
+Hechas las inscripciones se entenderán extinguidos por el solo ministerio de la ley los títulos primitivos que sirvieron de base a la división. El Juez oficiará a los funcionarios competentes para que procedan a la cancelación de los títulos que hayan servido de base a la división, remitiéndoles al efecto copia de las inscripciones de las hijuelas y de la resolución a que se refiere el artículo 19, las que éstos archivarán convenientemente dando cuenta al Juez del cumplimiento de lo ordenado, dentro del plazo de 15 días siguientes a la fecha de remisión del oficio y demás piezas necesarias para efectuar la cancelación.
 
-Si resultaren deudores el o los indígenas que recuperaren el predio, tendrán derecho a un préstamo para el pago de la deuda, que les otorgará el Instituto de Desarrollo Indígena en la forma que determine el Reglamento.
-
-Lo que al indígena corresponda pagar al contado se consignará ante el Juez de Letras respectivo antes de la toma de posesión material y el Instituto otorgará su garantía por el saldo insoluto.
+Cuando procediere de conformidad con el inciso segundo del artículo 19, el Juez ordenará también oficiar al Ministro de Tierras y Colonización, dando cuenta de lo obrado y remitiendo las copias correspondientes.
 
 #### Artículo 22
 
-Dentro del plazo de 30 días, contado desde la última de las publicaciones a que se refiere el artículo 18, el ocupante de los terrenos ordenados restituir podrá solicitar al Instituto de Desarrollo Indígena que reconsidere lo resuelto.
+Los Notarios, Conservadores de Bienes Raíces y Archiveros, cobrarán sólo el 10% de los derechos arancelarios que correspondan, los cuales serán de cargo del Instituto de Desarrollo Agropecuario. Las inscripciones, subinscripciones, cancelaciones y copias, estarán exentas de todo impuesto fiscal.
 
-El Consejo del Instituto deberá resolver la reconsideración en los 30 días siguientes a su presentación, o en la primera sesión ordinaria o extraordinaria que celebre si no se hubiere reunido dentro de dicho plazo. Si así no lo hiciere, se tendrá por aceptado el recurso.
-
-El ocupante podrá reclamar de la resolución que falla la reconsideración ante el Juez de Letras de Mayor Cuantía del departamento donde se encuentre ubicado el inmueble, dentro del plazo de 15 días contado desde que se le notifique.
-
-Si dentro de los plazos señalados el ocupante no solicitare reconsideración, o si fallada ésta no reclamare, o si interpuesto el reclamo no hiciere notificar al Instituto de la resolución recaída en él dentro de los 30 días siguientes a la fecha de la providencia referida, el acuerdo de restitución quedará ejecutoriado, tendrá mérito ejecutivo, y podrá procederse de inmediato a la toma de posesión material del predio, sin perjuicio de lo dispuesto en el inciso tercero del artículo 21 y en el artículo 24.
-
-Los plazos a que se refiere este artículo serán de días corridos.
+Los Notarios, Conservadores de Bienes Raíces y Archiveros que no dieren cumplimiento estricto y oportuno a las obligaciones que le impone la presente ley, serán sancionados en la forma establecida en el artículo 441 del Código Orgánico de Tribunales.
 
 #### Artículo 23
 
-La reclamación se tendrá como demanda, deberá notificarse al Instituto de Desarrollo Indígena y sustanciarse conforme a las normas del procedimiento sumario, con las siguientes modificaciones:
-
-1.- El actor deberá presentar con su reclamación los instrumentos en que la funde, y se aplicará lo dispuesto en los incisos segundo y tercero del artículo 255 del Código de Procedimiento Civil aún cuando no lo exija el demandado;
-
-2.- La reclamación se notificará al Instituto en la forma establecida en el inciso segundo del artículo 44 del Código de Procedimiento Civil, sin necesidad de resolución del Tribunal, en el domicilio que aquél deberá fijar en el acuerdo de restitución;
-
-3.- Todos los incidentes se tramitarán conjuntamente con la cuestión principal, con excepción del contemplado en el artículo 25 de esta ley, que se tramitará en conformidad con el artículo 302 del Código de Procedimiento Civil;
-
-4.- El término probatorio será fatal para rendir toda clase de pruebas y en ningún caso podrá exceder de 8 días hábiles, sin perjuicio de las medidas para mejor resolver que decrete el Tribunal;
-
-5.- El informe evacuado por un topógrafo del Instituto Indígena y acompañado por éste a la contestación de la demanda, tendrá el mérito de informe pericial respecto de la cabida y deslindes del predio ordenado restituir;
-
-6.- Contra la sentencia definitiva sólo procederá el curso de apelación, el que deberá ser fundado, contener peticiones concretas y se concederá en el solo efecto devolutivo;
-
-7.- Si no se dedujere apelación, la sentencia que acoja la reclamación deberá consultarse;
-
-8.- Para la vista del recurso no será necesaria la comparecencia de las partes y la causa deberá agregarse extraordinariamente a la Tabla del quinto día hábil siguiente al del ingreso de los autos a la Secretaría de la Corte;
-
-9.- La sentencia de segunda instancia deberá dictarse dentro de los 5 días siguientes hábiles al término de la vista de la causa, sin que sea aplicable lo dispuesto en el artículo 776 del Código de Procedimiento Civil;
-
-10.- Contra la sentencia definitiva de segunda instancia no procederá recurso alguno, y
-
-11.- Los indígenas interesados podrán hacerse parte en cualquier estado del juicio.
+A petición del Abogado Defensor de Indígenas, el Juez ordenará practicar la entrega material de las hijuelas resultantes de la división, siempre con el auxilio de la fuerza pública. La diligencia se hará por un funcionario del Instituto de Desarrollo Agropecuario, quien proporcionará a cada una de los adjudicatarios o a quienes sus derechos representen, una copia autorizada del título definitivo de su hijuela, la que será de cargo de dicho Instituto. Estos nuevos títulos se entenderán saneados para todos los efectos legales.
 
 #### Artículo 24
 
-En todo caso, el Instituto de Desarrollo Indígena podrá tomar posesión material de los terrenos ordenados restituir transcurrido el plazo de 90 días, contado desde la última de las publicaciones a que se refiere el artículo 18.
-
-A solicitud del Instituto y con la sola constancia de la publicación del extracto y de haber transcurrido el plazo mencionado, lo que será certificado por el propio Instituto de Desarrollo Indígena, el Gobernador del departamento en que esté ubicado el predio podrá conceder el auxilio de la fuerza pública para tomar posesión material de él, sin perjuicio de lo dispuesto en el artículo siguiente.
+Las divisiones hechas de acuerdo con los preceptos de esta ley, no podrán anularse ni rescindirse.
 
 #### Artículo 25
 
-El juez podrá suspender la toma de posesión material cuando el ocupante del predio ordenado restituir lo solicite y acompañe antecedentes que constituyan, a lo menos, presunción grave del derecho que pretende sobre el predio, el que en ningún caso podrá ser sólo la actual posesión material.
-
-Sin embargo, deberá suspenderla cuando el ocupante exhiba un título de dominio o de mera tenencia que emane de los comuneros, de los adjudicatarios o de los herederos de unos u otros, o cuando el predio ordenado restituir sea su único medio de subsistencia.
-
-La petición de suspensión deberá formularse conjuntamente con la reclamación a que se refiere el inciso tercero del artículo 22.
+El Instituto de Desarrollo Agropecuario podrá dividir, conforme a los procedimientos señalados en los artículos precedentes, los predios rurales que la Corporación de la Reforma Agraria, la Oficina de Normalización Agraria, que es la sucesora legal de dicha Institución conforme lo dispuesto en el decreto ley N° 2.405, de 1978, la Corporación de Fomento de la Producción, el Fisco u otros organismos hubieren acordado o acordaren transferirle. Para estos efectos, estas entidades transferirán gratuitamente dichos predios al Instituto de Desarrollo Agropecuario.
 
 #### Artículo 26
 
-Si al tiempo de la toma de posesión material del predio ordenado restituir hubiera frutos pendientes, el Instituto podrá autorizar su cosecha o proceder a realizarla, en cuyo caso indemnizará al contado a quien corresponda, sobre la base del valor que tengan a esa fecha.
+Las hijuelas cuyo dominio se haya inscrito de acuerdo a las prescripciones de la presente ley, serán indivisibles aun en el caso de sucesión por causa de muerte. Los Conservadores de Bienes Raíces estarán obligados a inscribir de oficio esta prohibición.
 
-El interesado podrá reclamar del valor de los frutos determinado por el Instituto ante el Tribunal indicado en el artículo 22, dentro del plazo de 15 días, contado desde la fecha de la notificación de la resolución del Instituto que fija dicho valor.
+Tampoco podrán enajenarse durante veinte años a partir de la fecha de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces, salvo con autorización expresa del correspondiente Director Regional del Instituto de Desarrollo Agropecuario, la que deberá insertarse en el instrumento que dé cuenta de la enajenación, como asimismo en la inscripción correspondiente. La mencionada autorización solamente podrá concederse:
 
-La reclamación se sujetará a las normas del artículo 23.
+a) Cuando el adquirente sea dueño de otra hijuela resultante de alguna división de tierra practicada de acuerdo con esta ley;
 
-El valor de los frutos se pagará directamente a quien hubiere correspondido cosecharlos, o se consignará ante el Tribunal que esté conociendo de la reclamación, a fin de que éste, resuelta la reclamación, pague al reclamante. Cuando la cosecha de los frutos pendientes se realice por el indígena o la comunidad en el predio que se les ha restituido, el Instituto de Desarrollo Indígena tendrá derecho a repetir en su contra el valor de lo que hubiere pagado a terceros por dicho concepto.
+b) Cuando la enajenación tenga por objeto subrogar otro inmueble a la hijuela que se proyecta enajenar y en los instrumentos de permuta o de compra y de venta, en su caso, se exprese el ánimo de subrogar;
+
+c) Para fines sociales o educacionales.
+
+En los casos de las letras a) y b) la prohibición afectará a la hijuela enajenada o a la que se adquiera, en su caso, durante todo el tiempo que falte para completar el plazo de veinte años antes señalado.
+
+Con autorización expresa del Director Regional correspondiente del Instituto de Desarrollo Agropecuario, podrán gravarse o hipotecarse las hijuelas a favor de cualquier organismo del Estado, de instituciones financieras, crediticias o bancarias.
+
+En el caso de sucesión por causa de muerte, tendrá aplicación lo dispuesto en el artículo 19 del decreto con fuerza de ley N° 6, de 1968.
+
+### Párrafo 3°
+
+De la liquidación de las comunidades
 
 #### Artículo 27
 
-Los indígenas podrán ejercer las acciones establecidas en el derecho común para obtener la restitución de sus tierras sólo en el caso de que el Instituto de Desarrollo Indígena no acoja sus peticiones.
+Terminada la división de la reserva, el Juez de la causa declarará de oficio iniciado el procedimiento de la liquidación de la comunidad.
+
+Esta resolución se notificará mediante dos avisos de tipo económico de los cuales uno se publicará en un diario de la capital de la provincia y el otro en el Diario Oficial. El costo de estos avisos será de cargo del Instituto de Desarrollo Agropecuario.
+
+La publicación que deba efectuarse en el Diario Oficial se hará los días 1° ó 15 de cada mes o el siguiente hábil, si aquéllos fueren feriados.
 
 #### Artículo 28
 
-Las disposiciones contenidas en la ley N° 16.640 y cuerpos legales complementarios, relativos a tomas de posesión material, tasaciones, indemnizaciones, consignaciones y pagos de frutos y mejoras, serán aplicables a las restituciones y reclamaciones a que se refiere este Párrafo, en lo que no se opongan a él.
+Se presume de derecho que el acervo partible de la comunidad sujeta a la liquidación, es el avalúo fiscal del predio, señalado en la resolución a que se refiere el artículo 19, reajustado conforme a las variaciones que haya experimentado el Indice de Precios al Consumidor entre la fecha de aquélla y la de la resolución que liquide la Comunidad.
 
-### Párrafo C — uarto
-
-De la expropiación de tierras para indígenas
+También se presume de derecho haberse enterado totalmente los haberes de aquellos comuneros u ocupantes a quienes se hubiere adjudicado una hijuela en la división de la reserva, mediante la referida adjudicación, en los términos señalados en ella. En este caso, se entenderán pagados todos sus derechos respecto de él, sus mujeres y sus hijos menores.
 
 #### Artículo 29
 
-Se declara de utilidad pública e interés social y se autoriza a la Corporación de la Reforma Agraria para que, a petición y en representación del Instituto de Desarrollo Indígena, expropie el todo o parte de los predios rústicos que se señalan en el artículo.
+Dentro del término de seis meses contados desde la fecha del aviso publicado en el Diario Oficial que declare abierto el procedimiento de liquidación de la comunidad, cualesquiera de los interesados en ella podrá solicitar se le enteren sus derechos en la misma, acompañando los antecedentes que los acrediten.
+
+Se entenderán por interesados a las personas que figuren en el título respectivo, y a sus herederos o cesionarios, en su caso, con exclusión de los señalados en el inciso final del artículo precedente.
 
 #### Artículo 30
 
-No serán expropiables conforme a las disposiciones de esta ley:
-
-1.- Las tierras indígenas de que sean dueñas personas que tengan como actividad principal la explotación agropecuaria, siempre que, además, se reúnan los siguientes requisitos:
-
-a) Que el propietario trabaje personalmente en ellas;
-
-b) Que no se encuentren abandonadas o mal explotadas, y
-
-c) Que el propietario sea dueño de terrenos que, en conjunto e incluidas las tierras indígenas, no excedan de 10 hectáreas de riego básico.
-
-La concurrencia y cumplimiento de estos requisitos se determinarán en conformidad a las normas de la ley N° 16.640 y cuerpos legales complementarios;
-
-2.- Los predios expropiados por la Corporación de la Reforma Agraria que estaban constituidos en asentamientos al 30 de Julio de 1971, y
-
-3.- Las tierras indígenas ocupadas por poblaciones a la fecha de publicación de esta ley, salvo que éstas sean accesorias o estén destinadas al servicio de las tierras indígenas que se expropien.
+Para la determinación de los derechos de cada interesado se computarán como una sola persona a los herederos del jefe de familia o del individuo fallecido, dividiéndose entre éstos y sus sucesores o cesionarios las cuotas que habrían cabido a aquéllos, pero sin que opere entre ninguno de ellos el derecho de acrecer.
 
 #### Artículo 31
 
-La expropiación de los terrenos a que se refiere este párrafo se regirá por las disposiciones de la ley N° 16.640 y cuerpos legales complementarios con las siguientes modificaciones:
+Transcurrido el término fatal señalado en el inciso primero del artículo 29, el Abogado Defensor de Indígenas solicitará que así se certifique por el Secretario del Tribunal y el Juez tendrá por extinguidos los derechos de todos aquellos interesados que no los hubieren hecho valer dentro del término referido.
 
-1.- Si el expropiado es dueño de terrenos que en conjunto tengan una superficie igual o inferior a 20 hectáreas de riego básico, el pago de la indemnización se hará con el 50% al contado y el saldo en 5 cuotas anuales iguales en Bonos de la Reforma Agraria, clase B;
-
-2.- Si el expropiado es dueño de terrenos que en conjunto tengan una superficie superior a 20 hectáreas de riego básico e inferior a 80, el pago de la indemnización se hará con el 50% al contado respecto de las primeras 20 hectáreas, con el 10% también al contado en cuanto a las que excedan de dicha cantidad y el saldo en Bonos de la Reforma Agraria, clase B;
-
-3.- Sin embargo, el pago de la indemnización se hará siempre al contado en aquella parte en que los aludidos predios no excedan de 20 hectáreas de riego básico, cuando el propietario trabaje personalmente en ellos y tenga como actividad principal la explotación agropecuaria, y
-
-4.- Si el expropiado se encuentra en las situaciones contempladas en el Capítulo I, del Título I de la ley N° 16.640, el pago de la indemnización se hará, en todo caso, en la forma dispuesta en dicha ley.
+Ordenará también al Instituto de Desarrollo Agropecuario confeccionar un empadronamiento de la comunidad para determinar si los interesados que se hubieren presentado son efectivamente miembros de ella y los derechos que cada uno posea. Agregado dicho informe a la causa, se dará traslado a los interesados, por el término fatal de 15 días para que expongan lo que estimen conveniente a sus derechos.
 
 #### Artículo 32
 
-Autorízase al Presidente de la República para emitir Bonos de la Reforma Agraria, hasta por la suma de cien millones de escudos, los cuales se aplicarán al pago del saldo a plazo de las indemnizaciones por las expropiaciones que se efectúen en conformidad a la presente ley.
-
-La emisión de los bonos y sus servicios, administración y pago se realizará conforme a las disposiciones del Título VI de la ley N° 16.640.
-
-Los bonos de la ley N° 16.640 podrán servir de garantía en toda clase de operaciones bancarias que se destinen al fomento de la industria y del turismo.
+Si se suscitare cuestión respecto al número de herederos, o de si una persona figura o no en el título primitivo respectivo, o tiene la calidad de heredera o cesionaria, el Juez de la causa se pronunciará sobre el particular con el solo mérito de los antecedentes de autos y los que ordene agregar, apreciándolos en conciencia.
 
 #### Artículo 33
 
-Las tierras expropiadas en conformidad a las normas de este párrafo se asignarán por el Instituto de Desarrollo Indígena, en la forma establecida en el Título IV de la ley N° 16.640 en cuanto no se ponga a las disposiciones de esta ley, a campesinos indígenas, a comunidades indígenas o a cooperativas campesinas integradas por indígenas.
+Vencido el plazo de 15 días señalado en el artículo 31, o resueltas las cuestiones a que se refiere el artículo 32, el Juez de la causa dictará sentencia, fijando el haber que corresponda a cada uno de los interesados que hubieran hecho valer sus derechos en tiempo y forma, ordenando oficiar al Instituto de Desarrollo Agropecuario para que pague los correspondientes valores dentro de 3 años, actualizados según la variación que haya experimentado el Indice de Precios al Consumidor entre el mes anterior al de la sentencia y el mes anterior al del pago efectivo.
 
-Las tierras adquiridas por el Instituto de Desarrollo Indígena de conformidad a lo dispuesto en los artículos 35, letra d, 38 y 39 de esta ley, deberán ser asignadas a campesinos indígenas en cualquiera de las formas establecidas en el referido Título IV, o destinadas a desarrollar proyectos específicos que beneficien directamente a los indígenas.
+La sentencia se notificará por cédula a los interesados, al Abogado Defensor de Indígenas y al Director Regional del Instituto de Desarrollo Agropecuario.
 
 ## Título Segundo — del Instituto de Desarrollo Indígena
 
@@ -540,8 +472,6 @@ Presentada la demanda, el Juez deberá darle curso de inmediato, aunque el inter
 
 A este informe deberán agregarse, de oficio o a petición de parte, los documentos e instrumentos que se estime procedentes.
 
-Tratándose de conflictos entre comuneros, el Instituto deberá, para emitir su informe, escuchar la opinión de la Asamblea de Comuneros, del Comité Campesino o de los Comités de Disciplina de las Cooperativas, en su caso, de cuyas declaraciones u opiniones deberá, levantarse un acta inmediata y circunstanciada que será firmada por todos los asistentes.
-
 En todo caso, el informe deberá ser suscrito por un abogado del Instituto de Desarrollo Indígena, quien será responsable de su autenticidad;
 
 5.- Dentro del plazo de 10 días de recibidos ambos informes, el Tribunal dictará sentencia definitiva sin más trámite, a menos que estime necesario que el Instituto amplíe su informe, el que deberá hacerlo en el término de diez días;
@@ -560,7 +490,17 @@ En todo caso, el informe deberá ser suscrito por un abogado del Instituto de De
 
 12.- En lo no previsto por esta ley, el Juez actuará como árbitro arbitrador, y
 
-13.- Estas normas no se aplicarán a las cuestiones que, conforme a esta ley, tienen señalado un procedimiento distinto.
+13.- Eliminado.
+
+#### Artículo 53 Bis
+
+Las normas del artículo anterior se aplicarán también a los juicios reinvindicatorios o de restitución en que los indígenas figuren como demandantes o demandados.
+
+En caso de controversia acerca del dominio emanado de un título de merced, éste prevalecerá sobre cualquier otro, excepto en los casos siguientes:
+
+1°- Cuando el ocupante exhiba un título definitivo que emane del Estado, posterior al 4 de Diciembre de 1866 y de fecha anterior al de merced, y
+
+2°- Cuando el ocupante exhiba un título de origen particular de fecha anterior al de merced, aprobado de conformidad con la ley de Constitución de la Propiedad Austral.
 
 #### Artículo 54
 
@@ -568,13 +508,11 @@ Las demandas a que se refiere el artículo anterior se presentarán al Juzgado d
 
 #### Artículo 55
 
-Los indígenas gozarán de privilegio de pobreza para todos los efectos legales y administrativos. El Reglamento determinará la forma de hacer valer este derecho.
+Los indígenas gozarán de privilegio de pobreza para todos los efectos legales y administrativos.
 
 #### Artículo 56
 
-El Instituto de Desarrollo Indígena, a petición de parte, podrá asumir la defensa y representación de los indígenas y de sus organizaciones en todos los asuntos judiciales o extrajudiciales en que sólo una de las partes sea indígena.
-
-Esta defensa y representación deberá ser gratuita.
+La defensa y representación de los indígenas en los juicios con particulares a que se refiere esta ley, corresponderá al Abogado Defensor de Indígenas que tendrá las facultades ordinarias del mandato judicial señaladas en el inciso primero del artículo 7° del Código de Procedimiento Civil. Tendrán tal carácter los Abogados del Instituto de Desarrollo Agropecuario que designe su Vicepresidente Ejecutivo.
 
 #### Artículo 57
 
@@ -586,7 +524,7 @@ Normas Administrativas
 
 #### Artículo 58
 
-Facúltase al Presidente de la República para que, dentro del plazo de 180 días contado desde la publicación de esta ley, dicte normas sobre organización, funcionamiento y atribuciones del Archivo General de Asuntos Indígenas, que dependerá del Instituto de Desarrollo Indígena.
+El Archivo General de Asuntos Indígenas estará a cargo del funcionario del Instituto de Desarrollo Agropecuario que señale el Vicepresidente Ejecutivo de dicho organismo; tendrá el título de Archivero General de Asuntos Indígenas y, para todos los efectos legales, el carácter de ministro de fe.
 
 #### Artículo 59
 
@@ -594,11 +532,11 @@ Los archivos de la Comisión Radicadora de Indígenas, de los protectorados de i
 
 #### Artículo 60
 
-El Intendente o Gobernador respectivo podrán conceder el auxilio de la fuerza pública a los funcionarios del Instituto de Desarrollo Indígena que lo soliciten, cuando éstos se vieren impedidos para visitar, inspeccionar, levantar planos, tasar o efectuar cualquiera diligencia que diga relación con el cumplimiento de las disposiciones de la presente ley.
+El Intendente o Gobernador respectivo podrán conceder el auxilio de la fuerza pública a los funcionarios del Instituto de Desarrollo Agropecuario que lo soliciten, cuando éstos se vieren impedidos para visitar, inspeccionar, levantar planos, tasar o efectuar cualquiera diligencia que diga relación con el cumplimiento de las disposiciones de la presente ley.
 
 #### Artículo 61
 
-Agrégase, en la letra c) del artículo 1° del DFL. RRA. N° 10, de 1963, sustituyendo el punto y coma (;) por una coma (,) la siguiente frase final: "y el Director Ejecutivo del Instituto de Desarrollo Indígena o su representante;".
+Derogado.
 
 #### Artículo 62
 
@@ -628,11 +566,11 @@ e) Por fallecimiento.", y
 
 #### Artículo 63
 
-La Corporación de la Reforma Agraria deberá reservar, para asignar a campesinos indígenas o a comunidades indígenas, en cualquiera de las formas señaladas en los artículos 66 y 67 de la ley N° 16.640, un porcentaje de las tierras que haya expropiado y no asignado a la fecha de vigencia de esta ley o que en el futuro expropie en las provincias de Bío Bío a Llanquihue, ambas inclusive. Este porcentaje se fijará anualmente por el Presidente de la República, y los Jefes Zonales de la Corporación de la Reforma Agraria serán personal y directamente responsables del cumplimiento de esta obligación.
+Derogado.
 
 #### Artículo 64
 
-Si con motivo de la aplicación de las normas contenidas en los Párrafos Tercero y Cuarto del Título Primero de esta ley el afectado conservare en su dominio una superficie de terreno inferior a diez hectáreas de riego básicas, tendrá derecho a exigir su compra por el Instituto de Desarrollo Indígena, siempre que hubiere acuerdo respecto del precio, el que deberá pagarse al contado.
+Derogado.
 
 #### Artículo 65
 
@@ -686,8 +624,6 @@ Los juicios y asuntos en actual tramitación ante los Juzgados de Letras de Indi
 
 Para estos efectos y dentro del plazo de 15 días, contado desde el ingreso de la causa a la Secretaría del Tribunal, el Juez decretará las medidas que estime convenientes para ordenar y regularizar el procedimiento, para sanear los errores u omisiones que advierta en el proceso y que puedan acarrear la nulidad de todo o parte de lo obrado y, en general, para dejar la causa en condiciones de seguirse sustanciando en forma ordenada. Esta resolución se notificará a las partes personalmente y en contra de ella no procederá recurso alguno.
 
-En lo demás, se observarán las reglas contempladas en el artículo 24;
-
 2.- Los juicios seguidos entre indígenas continuarán tramitándose conforme al procedimiento indicado en el Párrafo Primero del Título Tercero de esta ley;
 
 3.- En los juicios a que se refieren los números anteriores no podrá alegarse el abandono de la instancia hasta después de dos años de vigencia de la presente ley, y
@@ -718,7 +654,7 @@ El Instituto de Desarrollo Indígena quedará solidariamente obligado al pago de
 
 #### Artículo 6
 
-La facultad conferida al Consejo del Instituto de Desarrollo Indígena por el artículo 17 de esta ley, podrá ser ejercida respecto del todo o parte de los terrenos sobre los cuales existiere juicio de restitución pendiente a la fecha de publicación de esta ley. En tal caso se tendrá por abandonada la instancia por ambas partes para todos los efectos legales.
+Derogado.
 
 #### Artículo 7
 
@@ -726,9 +662,7 @@ Exceptúase a los indígenas de la obligación de exhibir los documentos a que s
 
 #### Artículo 8
 
-Mientras se eligen los consejeros a que se refiere la letra j) del artículo 40, dichos cargos serán desempeñados en forma provisional y por un lapso que no podrá exceder de 18 meses, por las personas que designe el Presidente de la República a propuesta en ternas que las respectivas comunidades indígenas deberán presentar en el plazo de 90 días contado desde la publicación de esta ley.
-
-Dentro del plazo de 18 meses a que se refiere el inciso anterior, se procederá a la elección de los consejeros definitivos en representación de los indígenas indicados en la referida letra j), la que se ceñirá a las normas del Reglamento respectivo, en la forma señalada en el artículo 41, transcurrido este plazo y aun cuando dicha elección no se hubiere realizado, los consejeros provisionales cesarán en sus cargos.
+Derogado.
 
 #### Artículo 9
 
