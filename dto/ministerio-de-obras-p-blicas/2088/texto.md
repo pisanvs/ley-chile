@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.088, de 30 de octubre de 1998, se expropió el lote de terreno Nº 11, superficie 302 m2, rol de avalúo 221-16, comuna de Rengo, para la obra Construcción Pasarelas Peatonales y Puentes Sexta Región, sector caminos de Acceso al Puente Popeta H-521, acceso Sur y se acordó precio de indemnización con sus propietarios José Israel González Orellana y Carlos Manuel González Orellana, ascendentes a la cantidad de $ 820.714.
+
+- Fiscal del Ministerio de Obras Públicas.
