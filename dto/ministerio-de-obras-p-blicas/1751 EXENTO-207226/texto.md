@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.751 de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº8-A, superficie 148 m2, rol de Avalúo Nº187-31, comuna de San Vicente, para la obra "Proyecto Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Km. 0.000 a Km. 8.622,631", VI Región y se acordó el valor de la indemnización con su propietaria Verónica Alejandra Cornejo Pino, ascendente a la cantidad de $394.891.-
+
+Fiscal del Ministerio de Obras Públicas.
