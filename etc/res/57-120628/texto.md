@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Por resolución Nº 57 de 12 de junio de 1998, Serviu II Región, dispuso conforme D.L. 2.186 de 1978 y para ejecución proyecto ''Mejoramiento Eje San Martín e Iquique-Antofagasta'', expropiación parcial del inmueble ubicado en calle Iquique Nº 4670, rol de avalúo Nº 1432-33, comuna de Antofagasta, superficie 26,00 m2., de aparente dominio de don Erick David y don Francisco Javier Pérez Oblitas, y doña Etelvina Eduviges Oblitas Delgado, según inscripción fs. 1274, Nº 1927, año 1992, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted Barcells, Sra. Eleonora Román Latorre, Arquitectos; y Sr. Héctor Villegas González, Constructor Civil, según informe de 22 de mayo de 1998, fijó monto provisional indemnización en $2.070.659.-, pagadera al contado.
+
+Antofagasta, 18 de junio de 1998.- Director Serviu II Región.
