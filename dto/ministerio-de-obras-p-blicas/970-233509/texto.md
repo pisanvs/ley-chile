@@ -1,0 +1,3 @@
+Por decreto MOP Nº 970 de fecha 29 de octubre del 2004, se expropió el lote de terreno Nº 575 superficie 2.109 m²., Rol Nº 32-53, comuna de Pichidegua, VI Región para la obra ''Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 al Km. 12,70000'' y se acordó el valor de indemnización con su propietaria Sociedad Agrícola Lyon Limitada, ascendente a la cantidad de $3.334.363.-
+
+Fiscal del Ministerio de Obras Públicas.
