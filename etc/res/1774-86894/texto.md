@@ -1,0 +1,3 @@
+Por resolución Nº1.774, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la autorización contenida en la resolución Nº730 de 1995, de esta Subsecretaría, que autorizó a PESQUERA ATLANTICA LTDA., para operar la nave "La Portada", matrícula 2345, en virtud de lo dispuesto en el artículo 143 literal b) de la Ley de Pesca y Acuicultura, por no haber iniciado la nave "La Portada" operaciones pesqueras dentro del plazo previsto en el numeral 5 de la resolución Nº730 de 1995, de esta Subsecretaría.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez. Subsecretario de Pesca.
