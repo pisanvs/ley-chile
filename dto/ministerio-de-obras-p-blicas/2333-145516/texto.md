@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.333, de 30 de agosto de 1999, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.
+
+8, 9 y 11, para la ejecución de la obra Camino Nochaco - Ensenada, Sector Bif. Lago Rupanco - Pte. Las Cascadas, Km. 10,300 a Km. 31,332.51, que figuran a nombre de Alfredo Gebahuer Droppelman, Luis Eduardo Willer Folch y Jorge Recondo Recondo Brauning, roles de avalúo 160-42; 160-48 y 161-127, comuna de Puerto Octay, X Región, superficies 80,5; 130,0 y 445,6 m2. La comisión de peritos compuesta por los señores Carlos Eugenio Mera Santibáñez, Jaime Sanz Bahamonde y Leopoldo Ramón Schumacher Guarda, fijó con fecha 15 de agosto de 1998, el valor provisional de las indemnizaciones en las cantidades de $20.125, lote 8; $32.500, lote 9 y $89.120, lote 11. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
