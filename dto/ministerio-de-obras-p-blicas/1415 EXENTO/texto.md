@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.415 de fecha 28 de septiembre del 2001, se expropiaron los lotes de terreno Nºs 2 y 2-A, superficie 257 y 407 m2., respectivamente, rol de avalúo 1385-10, comuna de Angol, para la obra ''Camino Ruta R-226, Sector Angol-Vegas Blancas, Tramo km. 0,07350 al 0,26050'', y se acordó el valor de indemnización con su propietario José Herminio Díaz García, ascendente a la cantidad de $3.785.267.
+
+- Fiscal del Ministerio de Obras Públicas.
