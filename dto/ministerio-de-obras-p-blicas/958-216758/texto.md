@@ -1,0 +1,3 @@
+Por decreto MOP Nº958, de fecha 29 de agosto del 2003, se expropió el lote de terreno Nº150, superficie 250 m², Rol Nº39-109, comuna de Pichidegua, VI Región para la obra "Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, tramo Km. 12,30000 a 26,00400" y se acordó el valor de indemnización con su propietario Andrés Humberto Gaete Gaete, ascendente a la cantidad de $3.408.240.
+
+Fiscal del Ministerio de Obras Públicas.
