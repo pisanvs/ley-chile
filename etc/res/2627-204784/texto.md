@@ -1,0 +1,3 @@
+Por resolución Nº 2.627, de 8 de noviembre de 2002, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98110170 presentada por ERCIRA ELIANA CHODIL CHODIL, para instalar y operar un centro de cultivo ubicado en Isla Clotilde, Canal Carbunco, comuna de Guaitecas, Provincia de Aysén, XI Región.
+
+Valparaíso, 8 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
