@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 932, de 30 de septiembre de 1997, se expropió el lote de terreno Nº 29 , superficies 503 m2. rol de avalúo 226-20, comuna de Santa Juana, para la obra Camino de la Madera, sector Bifurcación Diuquín - Santa Juana, y se acordó precio de indemnización con sus propietarias Alicia González Yáñez y otra, ascendente a la cantidad de $410.167.
+
+Fiscal del Ministerio de Obras Públicas
