@@ -144,6 +144,12 @@ Toda nave nacional o extranjera que se dirija a un puerto, avisara su llegada al
 
 En esta comunicación indicará: la hora probable de llegada; si conduce pasajeros; el número de ellos; el número de valijas de correspondencia para el puerto; el número de cuadrillas de obreros que va a necesitar para las faenas; clase de patente de sanidad que trae o si se ha presentado algún casos sospechosos durante la última navegación.
 
+#### Artículo 27 bis
+
+Sin perjuicio de lo dispuesto en el artículo anterior, toda nave que se dirija a un puerto nacional o que ingrese, en tránsito, a la Zona Marítima "Nacional de 200 millas, establecida en la Declaración sobre Zona Marítima de 1952, deberá comunicar su posición diaria a las 08.00 y 20.00 horas, como "asimismo, informará el rumbo, velocidad horaria y puerto de destino.
+
+Las comunicaciones correspondientes deberán "efectuarse a través de las radioestaciones de: Antofagasta, Valparaíso, Talcahuano o Punta Arenas, según cual de ellas sea la más cercana. La nave que no haya podido establecer comunicación con alguna de las radioestaciones señaladas, deberá dar cuenta a la Autoridad Marítima por el medio más rápido de que pueda disponer, señalando las causas de ello. En todo caso, si recalare a puerto chileno, deberá informar o ratificar dichas causas a la Autoridad Marítima correspondiente a ese puerto.
+
 #### Artículo 28
 
 Estas comunicaciones, como así mismo las que cambien los capitanes de puerto con los capitanes o comandantes de las naves mercantes o de guerra, nacionales o extranjeras, surtas en los puertos o que naveguen por el mar del litoral, sea en lenguaje ordinario o en clave, con el objeto de informar sobre el estado del tiempo, novedades de navegación u otras de interés público o confidenciales, tendrán franquicia radiotelegráfica liberada de porte .
