@@ -1,0 +1,3 @@
+Por resolución Nº 2.512, de 7 de noviembre de 2002, de esta Subsecretaría, desígnase como nuevo integrante del Cómite Técnico establecido en el artículo 59º del DS Nº 319 de 2001 del Ministerio de Economía, Fomento y Reconstrucción, a don Adolfo Leopoldo Alvial Muñoz, en representación de la Asociación de la Industria del Salmón de Chile A.G. y en reemplazo de don José Daniel Rebolledo.
+
+Valparaíso, 7 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
