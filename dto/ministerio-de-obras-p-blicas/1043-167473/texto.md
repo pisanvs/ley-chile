@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1043, de 30 de marzo del 2000, se expropió el lote de terreno Nº 422 superficie 101 m², rol de avalúo 7855-44, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Heriberto León Provoste, ascendente a la cantidad de $5.038.736.
+
+Fiscal del Ministerio de Obras Públicas.
