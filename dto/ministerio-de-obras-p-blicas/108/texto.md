@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 108, de 31 de marzo de 1994, se expropiaron los lotes de terreno N°s 3 y 8, superficies 726 M2. y 136,65 M2., rol de avalúo 123-18, Comuna de Pencahue, para la obra Regadío Pencahue, Canales Las Doscientas Norte y del Tranque y se acordó precio de indemnización con su propietario Sergio Rocco Bravo, ascendente a la cantidad de $48.379.
+
+Fiscal del Ministerio de Obras Públicas.
