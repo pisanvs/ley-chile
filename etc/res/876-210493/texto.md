@@ -1,0 +1,3 @@
+Por resolución Nº 876 de 24 de abril de 2003 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Bonifacio sector B, X Región, individualizada en el artículo 1º, Nº2, del D.S. Nº506 de 1999, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES, PESCADORES ARTESANALES Y ACTIVIDADES SIMILARES DE CALETA BONIFACIO, X Región.
+
+Valparaíso, 24 de abril de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
