@@ -1,0 +1,1 @@
+Aprueba las plantas y fija la ubicación en la Escala Unica del personal de la Empresa de Comercio Agrícola
