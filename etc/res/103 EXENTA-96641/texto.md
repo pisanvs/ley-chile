@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN CAMBIO SUJETO IVA A COMERCIAL MIRASOL S.A.
+
+La Dirección Regional Puerto Montt del S.I.I., por resolución Nº Ex-103 de 2 de febrero de 1998, excepciona, a contar del 1º del mes siguiente al de esta publicación a Comercial Mirasol S.A., RUT Nº 96.789.760-4 del régimen de Cambio de Sujeto de IVA establecido en la resolución Nº Ex-3.173 de la Dirección Nacional, publicada en el Diario Oficial del día 4 de julio de 1997.
