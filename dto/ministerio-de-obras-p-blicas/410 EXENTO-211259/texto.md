@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 410 de fecha 30 de abril de 2003, se expropiaron los lotes de terreno Nº 42, 43 y 43-A, superficies 5.260, 508 y 2.264 m2, rol de avalúo Nº 65-10, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado, Rutas R891, R-955 y R-89, sector Lonquimay - acceso pedregoso, Km. 119,30000 al Km. 141,00000, correspondiente al tramo II, Km. 130,78300 al Km. 141,00000", IX Región y se acordó el valor de la indemnización con su propietario Carlos Juan Schweitzer Montecino y otro, ascendente a la cantidad de $1.736.602.-
+
+Fiscal del Ministerio de Obras Públicas.
