@@ -8,9 +8,9 @@ Decreto:
 
 #### Artículo 1°
 
-El Fondo de Mejoras de la Locomoción Colectiva por calles y caminos se forma con una parte del valor de los pasajes de los medios de transporte público de pasajeros, cantidad que fijará el Ministerio de Transportes.
+El Fondo de Mejoras se forma con el aporte voluntario de los "empresarios de los servicias de locomoción colectiva de pasajeros por calles y "caminos, establecido por la Comisión a que se refiere el artículo 3°, en una parte "del valor de los pasajes.
 
-El Banco del Estado de Chile, con ocasión de la venta de los pasajes a los empresarios de la locomoción de pasajeros por calles y caminos, recaudará los valores que se indiquen por el Ministerio de Transportes y los depositará en una cuenta corriente a nombre del Fondo de Mejoras de la Locomoción Colectiva del Ministerio de Transportes.
+"El Banco del Estado de Chile, al vender los pasajes a los empresarios, recaudará "los valores establecidos por la Comisión señalada, y los depositará en una cuenta "corriente a nombre del Fondo de Mejoras.
 
 #### Artículo 2°
 
@@ -24,17 +24,27 @@ Un 3% de los ingresos del Fondo pertenecerá al Servicio da Bienestar del Minist
 
 El Fondo estará administrado por el Ministro de Transportes, quien tendrá, además, su representación judicial y extrajudicial.
 
-El Ministro podrá requerir la asesoría de una Comisión integrada por las siguientes personas:
+Sin perjuicio de lo señalado, el monto de los aportes voluntarios indicados en "el artículo 1° y los presupuestos anuales de entradas y gastos del Fondo de Mejoras, "serán establecidos por una Comisión integrada por las siguientes personas:
 
--Subsecretario de Transportes;
+"1°) Ministro de Transportes, que la presidirá, o su subrogante legal.
 
--Jefe del Departamento de Transporte Terrestre;
+"2°) Jefe del Departamento de Transporte Terrestre.
 
--Jefe del Departamento de Locomoción Colectiva, y
+"3°) Jefe del Departamento de Locomoción Colectiva.
 
--Jefe de la Oficina de presupuesto.
+"4°) Un representante de los empresarios de locomoción colectiva de cada uno de "los siguientes sectores:
 
-La Comisión en referencia funcionará y tomará sus acuerdos en conformidad a las normas que el Ministro de Transportes señale. Esta Comisión deberá presentar antes del 30 de Septiembre de cada año un programa de obras a realizar en el período siguiente y una estimación proyectada de las entradas.
+"a) Sector autobuses urbanos;
+
+"b) Sector taxibuses, y
+
+"c) Sector buses rurales e interprovinciales.
+
+"La Comisión adoptará sus acuerdos por simple mayoría y en caso de empate decidirá "el voto del Presidente.
+
+"El quorum para sesionar será de 4 miembros a lo menos.
+
+"Sin perjuicio de lo anterior, el Ministro de Transportes tendrá derecho a veto sobre las decisiones de la Comisión.
 
 #### Artículo 4°
 
@@ -52,7 +62,7 @@ a) Coordinar al Ministerio de Transportes con el Fondo velando, en especial, por
 
 b) Relacionar al Fondo de Mejoras con otros organismos públicos, municipales o privados;
 
-c) Aprobar los presupuestos anuales de entradas y gastos del Fondo que se prepararán según se expresa más adelante;
+c) DEROGADO
 
 d) Autorizar los gastos de acuerdo a los presupuestas o, en casos calificados, autorizar dichos gatos excediéndose de los ítem presupuestarios, ordenando los traspasos correspondientes;
 
@@ -78,7 +88,7 @@ n) Hacer donaciones de los bienes que construya o adquiera para el cumplimiento 
 
 #### Artículo 6°
 
-La Oficina de Presupuestos del Ministerio de Transportes, llevará la contabilidad del Fondo de Mejoras de la Locomoción Colectiva, debiendo presentar un Estado de Situación Mensual al Ministro.
+DEROGADO
 
 #### Artículo 7°
 
@@ -86,7 +96,7 @@ Los refugios y las garitas que sean desarmables, construidas o que se construyan
 
 Los refugios construidos o que se construyan, en terrenos fiscales o municipales, serán mantenidos por las Municipalidades respectivas o por el Fisco (Ministerio de Obras Públicas), según corresponda.
 
-Las garitas serán entregadas a las respectivas líneas o asociaciones de locomoción colectiva, a título de mera tenencia y sujeto a la condición de su cuidado y mantención.
+Las garitas y los refugios podrán ser entregados por el Secretario Regional de "Transportes que corresponda, a las Municipalidades o a las Agrupaciones de Empresarios "con personalidad jurídica, a título de mera tenencia y sujetos a la condición de su "cuidado y conservación.
 
 #### Artículo 8°
 
@@ -108,7 +118,7 @@ d) Los bienes que se encuentren bajo el régimen de fijación de precios por la 
 
 #### Artículo 10°
 
-Los dineros del Fondo podrán ser colocados en Inversiones del Estado o de Organismos Financieros Privados autorizados por el Estado, para evitar que pierdan su valor adquisitivo.
+Los dineros del Fondo podrán ser colocados sin restricciones en Inversiones del Estado o de Organismos Financieros Privados autorizados por el Estado, para evitar que pierdan su valor adquisitivo.
 
 #### Artículo 11°
 
