@@ -1,0 +1,3 @@
+Por decreto MOP Nº545 de fecha 28 de marzo del 2002, se expropiaron los lotes de terreno Nº1 y 2, superficies 3.593,02 y 363,00 m2., Rol de Avalúo Nº301-4, comuna de Vilcún, para la obra "Puente Lan Lan 1, Camino Cajón - Refujio Llaima, Km. 55,600 al Km. 56,300", IX Región y se acordó el valor de indemnización con su propietario Guillermo Abraham Chahín Ananías, ascendente a la cantidad de $3.281.971.-
+
+Fiscal del Ministerio de Obras Públicas.
