@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 108, de 23 de abril de 1992, se expropió el lote de terreno No. 9, superficies 88 m2., rol de avalúo 548-5 Comuna de Curicó, para la obra camino Longitudinal Sur, sector Romeral - Molina, acceso Los Nilches a Planta Iansa, y se acordó precio de indemnización con su propietaria Juana Cervera Torres, ascendente a la cantidad de $ 158.551 .-
+
+Fiscal del Ministerio de Obras Publicas.
