@@ -1,0 +1,7 @@
+DISPONE EXCLUSION DE DOÑA CLAUDIA CRISTINA CARMONA MUÑOZ DE LAS NOMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL
+
+Res. exenta Nº 0684, de fecha 12 de marzo de 1999, dispone la exclusión de doña Claudia Cristina Carmona Muñoz de las nóminas de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario 2-97 Título II a Postulación para la Adquisición o Construcción de Viviendas Rurales Emplazadas en Asentamientos Poblacionales del Sistema de Subsidio Habitacional para la Atención del Sector Rural, para damnificados de la III Región de Atacama.
+
+Como consecuencia de ello queda en 110 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al llamado extraordinario 2-97 Título II a Postulación para la Adquisición o Construcción de Viviendas Rurales Emplazadas en Asentamientos Poblacionales del Sistema de Subsidio Habitacional para la Atención del Sector Rural, para damnificados de la III Región de Atacama y en 22.000 Unidades de Fomento (U.F.), el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.-
+
+Sergio González Tapia, Subsecretario de Vivienda y Urbanismo Subrogante.
