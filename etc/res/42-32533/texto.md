@@ -1,0 +1,3 @@
+Por Resolución N° 42, de 13 de enero de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar del 2 de junio de 1994, el plazo otorgado a PROCEMAR S.A., R.U.T. N° 88.969.300-2, en orden a sustituir la embarcación "Tacora", en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 13 de Enero de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
