@@ -1,0 +1,5 @@
+ORDENA ESTUDIO DE EXPROPIACION DE TERRENO QUE INDICA
+
+Por Decreto Alcaldicio No. 0261, de fecha 13 de Marzo de 1987, se ordenó el estudio pertinente para proceder a la expropiación correspondiente al trazado de la calle 14 Oriente (ex-Epsilón) del Plano Seccional No. 7 del Plan Regulador de Talca, Rol No. 3.710-12 del Servicio de Impuestos Internos, que corresponde a los terrenos donde se ubica el Parque Industrial. Aparentemente de propiedad de Financiera CIGA S.A. en liquidación retazo de terreno que aparece inscrito a nombre de ésta a fs. 2.586 vta. No. 2.302 del Registro de Propiedad del Conservador de Bienes Raíces de Talca, año 1986. Para determinar indemnización provisional se designan peritos a los señores Renato Guerra Estévez, Emilio Kort Micaly y Pedro Barros Donoso.-
+
+Manuel Gamboa Valenzuela, Alcalde.- Germán Verdugo Soto, Secretario Municipal.
