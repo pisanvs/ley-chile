@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.074, de 29 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 144, 145-A y 145-B; para la obra: Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A:
+
+Km. 29.014,00 al Km. 42.800,00, Región Metropolitana, que figuran a nombre de Gordo Ortiz Antonio, rol de avalúo 103-9, comuna de Paine, superficies 2.379 m2, 1.782 m2 y 972 m2, respectivamente. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Gustavo Domínguez Errázuriz y Carmen Pilar Ríos Marcuello, fijó con fecha 16 de marzo de 2000, el valor provisional de la indemnización en las cantidades de $18.272.700.- para el lote Nº144, $44.851.190 para el lote Nº145-A y de $30.048.400.- para el lote Nº145-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
