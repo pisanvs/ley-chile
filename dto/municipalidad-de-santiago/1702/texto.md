@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 1702 de 05 de Diciembre de 1986, Alcalde I. Municipalidad de Santiago, dispone expropiación total conformidad Decreto Supremo No. 458 Vivienda y Urbanismo, Decretos Leyes 1289 y 2186. de inmueble Pablo Urzúa No. 1490 Rol 3548 Santiago dominio aparente Selma E. Newman Zambrano. Superficie aproximada 278 m2. Deslindes según pido confeccionado Municipalidad. Norte, 8,30 tots. calle Pablo Urzúa, Sur, 8,30 mts. otro propietario, Oriente, 33,50 mts. con otro propietario; Poniente, 33,50 mts. otro propietario. Indemnización provisional $ 982.600.- pagadera contado.
+
+- Carlos Bombal Otaegui, Alcalde de Santiago.
