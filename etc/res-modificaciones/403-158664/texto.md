@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. 239, DE 1986. QUE AUTORIZO A PESQUERA YADRAN SOCIEDAD LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 403, de 14 de Mayo de 1986, de |a Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución 239, de 13 de Mayo de 1986, de la Subsecretaría de Pesca, que autorizó a Pesquera Yadrán Sociedad Limitada para instalar y operar una planta procesadora de recursos hidrobiológicos en la localidad de Puerto Cisnes, XI Región en las líneas de congelado, deshidratado, semideshidratado y conserva, en orden a incluir en numeral 3°, entre las especies que la empresa podrá emplear como materia prima en la elaboración de los productos señalados, el denominado loco.
+
+Valparaíso, 14 de Mayo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
