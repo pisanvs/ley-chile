@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 2.259, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs 9-A y 96-C, superficies 920 y 84 m2, roles de avaluó 12094-4 y 655-25, comuna de Rancagua, para la obra proyecto mejoramiento Ruta 5 Sur Sector Pasada por Rancagua camino Ruta 5 Sur y se acordó precio de indemnización con sus propietarios Sociedad Santiago Espina y Compañía Limitada y Luis Segundo Padilla Pérez ascendentes a las cantidades de $ 53.245.470, para el lote Nº 9-A y $ 3.403.540, para el lote Nº 96-C.
+
+- Fiscal del Ministerio de Obras Públicas.
