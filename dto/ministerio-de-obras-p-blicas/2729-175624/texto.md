@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.729, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 13 y 15, superficies 1.285 y 1.068 m2., respectivamente, Rol de avalúo 48-51, comuna de Lonquimay, para la obra Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Puente La Puntilla - Lonquimay, Km. 106,69041 al Km. 119,30000 y se acordó precio de la indemnización con su propietaria Norka Ester Celedón Pino, en la cantidad de $532.010, para los lotes Nºs. 13 y 15.
+
+- Fiscal del Ministerio de Obras Públicas.
