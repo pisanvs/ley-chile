@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO EXENTO No. 109, DE 1989
+
+Por decreto supremo exento de Educación No. 109, de 1° de junio de 1989 se ha modificado, a contar del año escolar 1989, el plan de estudio para el 4° año medio aprobado por el decreto supremo exento de Educación No. 287 de 1981, sobre planes especiales de estudio de Educación Media Humanístico Científica para la Fundación Educacional Colegio de los Sagrados Corazones de Manquehue, de Santiago. Asimismo, se aprueban programas de estudio para las asignaturas del curso matemático aplicado del plan diferenciado y para las asignaturas que se indican del plan electivo para el mencionado curso y se declara que la evaluación de los alumnos de este establecimiento se regirá por las normas vigentes sobre la materia.
+
+Santiago, 20 de Junio de 1989.- María Sixtina Barriga Guzmán, Subsecretaria de Educación Pública.
