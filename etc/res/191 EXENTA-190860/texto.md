@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 191 EXENTA, DE 2001
+
+Por resolución exenta Nº 191 de 05.10.2001, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región autorizó el funcionamiento del terminal de taxis colectivos urbanos ubicado en Santa Cruz, calle Pacífico Marín Nº 168, propiedad de la comunidad Pérez Molina Marlene del Carmen y Otros, compuesta por veintiocho (28) miembros, individualizados en escritura pública de compraventa inscrita a fojas 1.630 Nº 1.556, de 12 de noviembre de 1999, en el Registro de Propiedades del Registro del Conservador de Bienes Raíces de Santa Cruz; recinto clasificado en categoría "C", con una capacidad máxima de 200 vehículos, dejándose constancia que el funcionamiento del terminal que se autoriza, se mantendrá en la medida que los propietarios cumplan con las especificaciones señaladas en la resolución exenta que autoriza su funcionamiento. Los administradores del terminal serán los señores Luis Leonel Godoy Donoso y Olayo del Carmen Bravo Duque.-
+
+Lincoln Pérez Vera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Sexta Región.
