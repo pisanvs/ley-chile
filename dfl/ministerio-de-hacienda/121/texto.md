@@ -1,0 +1,3 @@
+El D.F.L. que llevaba este número fué publicado en el "Diario Oficial" N° 22.603, de 22 de julio de 1953. No obstante, su publicación y, por lo tanto, el D.F.L. mismo, carece de valor legal por cuanto se publicó sin que se hubiera tomado razón por la Contraloría General. (Véanse: Oficios 53.643, de 28 de octubre de 1953, y 56.269, de 7 de noviembre de 1953, dirigidos por el señor Contralor General a los señores Ministro de Hacienda y Presidente de la Cámara de Diputados, respectivamente, y "Diario Oficial" N° 22.697, de 13 de noviembre de 1953).
+
+> **Nota.** NOTA: 1 Ver título de este DFL.
