@@ -1,0 +1,3 @@
+Por resolución Nº481 de 29 de Mayo de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMPAÑIA PESQUERA SAN BERNARDO S.A., R.U.T. Nº79.523.690-2, domiciliada en Huérfanos 1022, Oficina 403, Santiago, para continuar desarrollando las actividades pesqueras autorizadas a Pesquera San Bernardo Limitada por Resoluciones Nº419, de 1986 y Nº919, de 1988, ambas de esta Subsecretaría, al tenor de la tranformación y cambio de razón social de que da cuenta la escritura pública citada en Visto.
+
+Valparaíso, 29 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
