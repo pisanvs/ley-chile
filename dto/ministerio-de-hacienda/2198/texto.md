@@ -364,6 +364,8 @@ b.- Para la actividad industrial señalada en los N.os 1.5.1; 1.5.4; 1.5.5; 1.5.
 
 c.- Para la actividad industrial señalada en los N.os 1.2; 1.4; 1.5.2; 1.5.3; 1.5.7; 1.5.9; 1.5.10; 1.6; 1.7.1; 1.7.2; 1.9; 2.3; 2.4; 4; 5; y 6, un 10% de rebaja.
 
+En el caso de las industrias señaladas en el número 25 del artículo anterior, cuando las importaciones de partes y piezas, conjuntos y subconjuntos, que ellas realicen para atender a las necesidades de su producción, se encuentren afectas a impuestos adicionales fijados en conformidad al artículo 169 de la ley N° 13.305, ellos se pagarán con una rebaja del 50% de su monto, siempre que la industria respectiva se encuentre instalada en las provincias de O'Higgins o Aconcagua.
+
 #### Artículo 4°
 
 <!-- parte:8997799 -->
