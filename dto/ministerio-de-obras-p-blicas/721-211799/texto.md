@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 721, de fecha 30 de Noviembre de 1995, se expropiaron los lotes de terrenos N°s. 26 y.28, superficies 1.071 M2., y 1.793 M2, rol de avalúo 1092-47, comuna de Quillón, para la obra Camino Ruta N-78-0, sector Quillón, Nueva Aldea y se acordó precio de indemnización con su propietario Sucesión Manuel A. Contreras Mora, ascendente a la cantidad de $3.003.927.
+
+Fiscal del Ministerio de Obras Públicas.
