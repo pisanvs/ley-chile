@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por Resolución No. 1.010, de 02.11.89, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado calle Sierra Bella No. 2712, presunto rol avalúos No. 614-40, comuna San Joaquín, aparentemente dominio de don Osvaldo Medina Romero. Comisión integrada por peritos Srs. José Miguel Haltenhoff Aenishanslin, constructor civil. Italo Núñez Núñez, arquitecto, y Sergio Rojas Ibáñez, ingeniero civil según informe de 17.07.89, fijó monto provisional indemnización en $ 3.292.600.- pagadera al contado.
+
+Director SERVIU Metropolitano.
