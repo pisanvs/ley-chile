@@ -20,53 +20,33 @@ De la materia y destino del impuesto
 
 Establécese, de conformidad a la presente ley, a beneficio fiscal, un impuesto sobre la renta.
 
-### Párrafo 2
+### Párrafo 2°
 
 Definiciones
 
-#### Artículo 2°
+#### Artículo 2
 
-Para los efectos de la presente ley se aplicarán, en lo que no sean contrarias a ella, las definiciones establecidas en el Código Tributario y, además, salvo que la naturaleza del texto implique otro significado, se entenderá:
+o- Para los efectos de la presente ley se aplicarán, en lo que no sean contrarias a ella, las definiciones establecidas en el Código Tributario y, además, salvo que la naturaleza del texto implique otro significado, se entenderá:
 
 1.- Por "renta", los ingresos que constituyan utilidades o beneficios que rinda una cosa o actividad y todos los beneficios, utilidades e incrementos de patrimonio que se perciban o devenguen, cualquiera que sea su naturaleza, origen o denominación.
 
 2.- Por "renta devengada", aquélla sobre la cual se tiene un título o derecho, independientemente de su actual exigibilidad y que constituye un crédito para su titular.
 
-3.- Por "renta percibida", aquélla que ha ingresado materialmente al patrimonio de una persona. Debe, asimismo, entenderse que una renta devengada se percibe desde que la obligación se cumple por algún modo de extinguir distinto al pago.
+3.- Por "renta percibida", aquella que ha ingresado materialmente al patrimonio de una persona. Debe, asimismo, entenderse que una renta devengada se percibe desde que la obligación se cumple por algún modo de extinguir distinto al pago.
 
 4.- Por "renta mínima presunta", la cantidad que no es susceptible de deducción alguna por parte del contribuyente.
 
 5.- Por "capital efectivo", el total del activo con exclusión de aquellos valores que no representen inversiones efectivas, tales como valores intangibles, nominales, transitorios y de orden.
 
-En el caso de contribuyentes no sometidos a las normas del artículo 41°, la valorización de los bienes que conforman su capital efectivo se hará por su valor real vigente a la fecha en que se determine dicho capital. Los bienes físicos del activo inmovilizado se valorizarán según su valor de adquisición debidamente reajustado de acuerdo a la variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes que anteceda al de su adquisición y el último día del mes que anteceda a aquél en que se determine el capital efectivo, menos las depreciaciones anuales que autorice la Dirección. Los bienes físicos del activo realizable se valorizarán según su valor de costo de reposición en la plaza respectiva a la fecha en que se determine el citado capital, aplicándose las normas contempladas en el N° 3 del artículo 41.
+En el caso de contribuyentes no sometidos a las normas del artículo 41°, la valorización de los bienes que conforman su capital efectivo se hará por su valor real vigente a la fecha en que se determine dicho capital. Los bienes físicos del activo inmovilizado se valorizarán según su valor de adquisición debidamente reajustado de acuerdo a la variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes que anteceda al de su adquisición y el segundo mes que anteceda a aquél en que se determine el capital efectivo, menos las depreciaciones anuales que autorice la Dirección. Los bienes físicos del activo realizable se valorizarán según su valor de costo de reposición en la plaza respectiva a la fecha en que se determine el citado capital, aplicándose las normas contempladas en el N° 3 del artículo 41°.
 
 6.- Por "sociedades de personas", las sociedades de cualquier clase o denominación, excluyéndose únicamente a las anónimas.
 
-Para todos los efectos de esta ley, las sociedades por acciones reguladas en el Párrafo 8° del Título VII del Código de Comercio, se considerarán anónimas.
+7.- Por "año calendario", el período de doce meses que termina el 31 de diciembre.
 
-7.- Por "año calendario", el período de doce meses que termina el 31 de Diciembre.
-
-8.- Por "año comercial", el período de doce meses que termina el 31 de Diciembre o el 30 de Junio y, en los casos de término de giro, del primer ejercicio del contribuyente o de aquél en que opere por primera vez la autorización de cambio de fecha del balance, el período que abarque el ejercicio respectivo según las normas de los incisos séptimo y octavo del artículo 16 del Código Tributario.
+8.- Por "año comercial", el período de doce meses que termina el 31 de Diciembre o el 30 de Junio y, en los casos de término de giro, del primer ejercicio del contribuyente o de aquél en que opere por primera vez la autorización de cambio de fecha del balance, el período que abarque el ejercicio respectivo según las normas de los incisos séptimo y octavo del artículo 16° del Código Tributario.
 
 9.- Por "año tributario", el año en que deben pagarse los impuestos o la primera cuota de ellos.
-
-10.- "Por capital propio tributario", el conjunto de bienes, derechos y obligaciones, a valores tributarios, que posee una empresa. Dicho capital propio se determinará restando al total de activos que representan una inversión efectiva de la empresa, el pasivo exigible, ambos a valores tributarios. Para la determinación del capital propio tributario deberán considerarse los activos y pasivos valorados conforme a lo señalado en el artículo 41, cuando corresponda aplicar dicha norma.
-
-Tratándose de una empresa individual, formarán parte del capital propio tributario los activos y pasivos del empresario individual que hayan estado incorporados al giro de la empresa, debiendo excluirse los activos y pasivos que no originen rentas gravadas en la primera categoría o que no correspondan al giro, actividades o negocios de la empresa.
-
-11.- Por "impuestos finales", los impuestos global complementario y adicional establecidos en esta ley.
-
-12.- Por "establecimiento permanente", un lugar que sea utilizado para la realización permanente o habitual de todo o parte del negocio, giro o actividad de una persona o entidad sin domicilio ni residencia en Chile, ya sea utilizado o no en forma exclusiva para este fin, tales como, oficinas, agencias, instalaciones, proyectos de construcción y sucursales.
-
-También se considerará que existe un establecimiento permanente cuando una persona o entidad sin domicilio ni residencia en Chile realice actividades en el país representado por un mandatario y en el ejercicio de tales actividades dicho mandatario habitualmente concluya contratos propios del giro ordinario del mandante, desempeñe un rol principal que lleve a su conclusión o negocie elementos esenciales de éstos sin que sean modificados por la persona o entidad sin domicilio ni residencia en Chile. En consecuencia, no constituirá establecimiento permanente de una persona o entidad sin domicilio ni residencia en Chile un mandatario no dependiente ni económica ni jurídicamente del mandante, que desempeñe actividades en el ejercicio de su giro ordinario.
-
-No se considerará que existe un establecimiento permanente si la persona o entidad sin domicilio ni residencia en Chile realiza exclusivamente actividades auxiliares del negocio o giro, o actividades preparatorias para la puesta en marcha del mismo en el país.
-
-> **Nota.** El Art. 4º del DL 1533, Hacienda, publicado el 29.07.1976, dispone que las modificaciones introducidas a este artículo regirán a contar del día primero del mes siguiente al de su publicación.
-
-> **Nota.** NOTA: 1 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-> **Nota.** NOTA: 2 El numeral 1° letra a), ii), del artículo primero de la ley 20780, publicada el 29.09.2014, derogo el párrafo segundo del numero 1 de la presente norma.
 
 ### Párrafo 3°
 
@@ -78,9 +58,9 @@ Salvo disposición en contrario de la presente ley, toda persona domiciliada o r
 
 Con todo, el extranjero que constituya domicilio o residencia en el país, durante los tres primeros años contados desde su ingreso a Chile sólo estará afecto a los impuestos que gravan las rentas obtenidas de fuentes chilenas. Este plazo podrá ser prorrogado por el Director Regional en casos calificados. A contar del vencimiento de dicho plazo o de sus prórrogas, se aplicará, en todo caso, lo dispuesto en el inciso primero.
 
-#### Artículo 4°
+#### Artículo 4
 
-Para los efectos de esta ley, la ausencia o falta de residencia en el país no es causal que determine la pérdida de domicilio en Chile si la persona conserva, en forma directa o indirecta, el asiento principal de sus negocios en Chile.
+o- La sola ausencia o falta de residencia en el país no es causal que determine la pérdida de domicilio en Chile, para los efectos de esta ley. Esta norma se aplicará, asimismo, respecto de las personas que se ausenten del país, conservando el asiento principal de sus negocios en Chile, ya sea individualmente o a traves de sociedades de personas.
 
 #### Artículo 5°
 
@@ -92,7 +72,7 @@ En todo caso, transcurrido el plazo de tres años desde la apertura de la sucesi
 
 #### Artículo 6°
 
-En los casos de comunidades cuyo origen no sea la sucesión por causa de muerte o la disolución de la sociedad conyugal o de la comunidad de bienes entre convivientes civiles que optaron por dicho régimen, como también en los casos de sociedades de hecho, los comuneros o socios serán solidariamente responsables de la declaración y pago de los impuestos de esta ley que afecten a las rentas obtenidas por la comunidad o sociedad de hecho.
+En los casos de comunidades cuyo origen no sea la sucesión por causa de muerte o la disolución de la sociedad conyugal, como también en los casos de sociedades de hecho, los comuneros o socios serán solidariamente responsables de la declaración y pago de los impuestos de esta ley que afecten a las rentas obtenidas por la comunidad o sociedad de hecho.
 
 Sin embargo, el comunero o socio se liberará de la solidaridad, siempre que en su declaración individualice a los otros comuneros o socios, indicando su domicilio y actividad y la cuota o parte que les corresponde en la comunidad o sociedad de hecho.
 
@@ -126,893 +106,157 @@ Disposiciones varias
 
 Se considerarán rentas de fuente chilena, las que provengan de bienes situados en el país o de actividades desarrolladas en él cualquiera que sea el domicilio o residencia del contribuyente.
 
-Son rentas de fuente chilena, entre otras, las regalías, los derechos por el uso de marcas y otras prestaciones análogas derivadas del uso, goce o explotación en Chile de la propiedad industrial o intelectual.
-
-Se encontrarán afectas al impuesto establecido en el artículo 58 número 3), las rentas obtenidas por un enajenante no residente ni domiciliado en el país, que provengan de la enajenación de derechos sociales, acciones, cuotas, bonos u otros títulos convertibles en acciones o derechos sociales, o de la enajenación de otros derechos representativos del capital de una persona jurídica constituida o residente en el extranjero, o de títulos o derechos de propiedad respecto de cualquier tipo de entidad o patrimonio, constituido, formado o residente en el extranjero, en los siguientes casos:
-
-a) Cuando al menos un 20% del valor de mercado del total de las acciones, cuotas, títulos o derechos extranjeros que dicho enajenante posee, directa o indirectamente, en la sociedad o entidad extranjera, ya sea a la fecha de la enajenación o en cualquiera de los doce meses anteriores a esta, provenga de uno o más de los activos subyacentes indicados en los literales (i), (ii) y (iii) siguientes y en la proporción que corresponda a la participación indirecta que en ellos posee el enajenante extranjero. Para estos efectos, se atenderá al valor corriente en plaza de los referidos activos subyacentes chilenos o los que normalmente se cobren en convenciones de similar naturaleza considerando las circunstancias en que se realiza la operación, pudiendo el Servicio ejercer su facultad de tasación conforme a lo dispuesto en el artículo 64 del Código Tributario:
-
-(i) Acciones, derechos, cuotas u otros títulos de participación en la propiedad, control o utilidades de una sociedad, fondo o entidad constituida en Chile;
-
-(ii) Una agencia u otro tipo de establecimiento permanente en Chile de un contribuyente sin domicilio ni residencia en el país, considerándose para efectos tributarios que dicho establecimiento permanente es una empresa independiente de su matriz u oficina principal, y
-
-(iii) Cualquier tipo de bien mueble o inmueble situado en Chile, o de títulos o derechos respecto de los mismos, cuyo titular o dueño sea una sociedad o entidad sin domicilio o residencia en Chile.
-
-Además de cumplirse con el requisito establecido en esta letra, es necesario que la enajenación referida lo sea de, al menos, un 10% del total de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera, considerando todas las enajenaciones, directas o indirectas, de dichas acciones, cuotas, títulos o derechos, efectuadas por el enajenante y otros miembros no residentes o domiciliados en Chile de su grupo empresarial, en los términos del artículo 96 de la ley N° 18.045, sobre Mercado de Valores, en un período de doce meses anteriores a la última de ellas.
-
-b) Cuando a la fecha de la enajenación de las acciones, cuotas, títulos o derechos extranjeros o en cualquier momento durante los doce meses anteriores a ésta, el valor corriente en plaza de uno o más de los activos subyacentes descritos en los literales (i), (ii) y (iii) de la letra a) anterior, y en la proporción que corresponda a la participación indirecta que en ellos posea el enajenante extranjero, sea igual o superior a 210.000 unidades tributarias anuales determinadas según el valor de ésta a la fecha de la enajenación. Será también necesario en este caso que se transfiera al menos un 10% del total de las acciones, cuotas, títulos o derechos de la persona jurídica o entidad extranjera, considerando todas las enajenaciones efectuadas por el enajenante y otros miembros no residentes o domiciliados en Chile de su grupo empresarial, en los términos del artículo 96 de la ley N° 18.045, sobre Mercado de Valores, en un periodo de doce meses anteriores a la última de ellas.
-
-c) Cuando las acciones, cuotas, títulos o derechos extranjeros enajenados, hayan sido emitidos por una sociedad o entidad domiciliada o constituida en uno de los territorios o jurisdicciones que se consideren como un régimen fiscal preferencial conforme a las reglas establecidas en el artículo 41 H. En este caso, bastará que cualquier porcentaje del valor de mercado del total de las acciones, cuotas, títulos o derechos extranjeros que dicho enajenante posea, directa o indirectamente, en la sociedad o entidad extranjera domiciliada o constituida en uno de estos territorios o jurisdicciones, provenga de uno o más de los activos subyacentes indicados en los literales (i), (ii) y (iii) de la letra
-
-- **a)** anterior y en la proporción que corresponda a la participación indirecta que en ellos posea el enajenante extranjero, salvo que el enajenante, su representante en Chile o el adquirente, si fuere el caso, acredite en forma fehaciente ante el Servicio, que: (A) no existan personas con domicilio o residencia en Chile, que directa o indirectamente, y a cualquier título, sean titulares, accionistas o beneficiario de un 5% o más de las acciones, cuotas, títulos o derechos que se enajenan de la sociedad o entidad extranjera, y, que, además, (B) sus socios, accionistas, titulares o beneficiarios que controlan, directa o indirectamente, un 50% o más de su capital o utilidades, son residentes o domiciliados en territorio o jurisdicción que no tenga un régimen fiscal preferencial en los términos dispuestos en el artículo 41 H, en cuyo caso la renta obtenida por el enajenante extranjero sólo se gravará en Chile si se cumple con lo dispuesto en las letras
-
-- **a)** o
-
-- **b)** precedentes.
-
-En la aplicación de las letras anteriores, para determinar el valor de mercado de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera, el Servicio podrá ejercer las facultades del artículo 41 E.
-
-Los valores anteriores cuando estén expresados en moneda extranjera, se considerarán según su equivalente en moneda nacional a la fecha de enajenación, considerando para tales efectos lo dispuesto en la letra a), del número 7.-, del artículo 41 A. En la determinación del valor corriente en plaza de los activos subyacentes indirectamente adquiridos a que se refieren los literales (i) y (ii) de la letra a) anterior, se excluirán las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenación de los títulos, cuotas, derechos o acciones extranjeras, así como cualquier pasivo contraído para su adquisición y que se encuentre pendiente de pago a dicha fecha. Las inversiones referidas se considerarán igualmente según su valor corriente en plaza. El Servicio, mediante resolución, determinará las reglas aplicables para correlacionar pasivos e inversiones en la aplicación de la exclusión establecida en este inciso.
-
-El impuesto que grave las rentas de los incisos anteriores, se determinará, declarará y pagará conforme a lo dispuesto en el artículo 58 número 3).
-
-Con todo, lo dispuesto en el inciso tercero anterior no se aplicará cuando las enajenaciones ocurridas en el exterior se hayan efectuado en el contexto de una reorganización del grupo empresarial, según éste se define en el artículo 96, de la ley Nº 18.045, sobre Mercado de Valores, siempre que en dichas operaciones no se haya generado renta o un mayor valor para el enajenante, renta o mayor valor determinado conforme a lo dispuesto en el artículo 58 número 3).
+Son rentas de fuente chilena, entre otras, las regalías, los derechos por el uso de marcas y otras prestaciones análogas derivadas de la explotación en Chile de la propiedad industrial o intelectual.
 
 #### Artículo 11°
 
-Para los efectos del artículo anterior, se entenderá que están situadas en Chile las acciones de una sociedad anónima constituida en el país. Igual regla se aplicará en relación a los derechos en sociedad de personas. También se considerarán situados en Chile los bonos y demás títulos de deuda de oferta pública o privada emitidos en el país por contribuyentes domiciliados, residentes o establecidos en el país.
+Para los efectos del artículo anterior, se entenderá que están situadas en Chile las acciones de una sociedad anónima constituida en el país. Igual regla se aplicará en relación a los derechos en sociedades de personas.
 
-En el caso de los créditos, bonos y demás títulos o instrumentos de deuda, la fuente de los intereses se entenderá situada en el domicilio del deudor, o de la casa matriz u oficina principal cuando hayan sido contraídos o emitidos a través de un establecimiento permanente en el exterior.
+En el caso de los créditos, la fuente de los intereses se entenderá situada en el domicilio del deudor.
 
-No se considerarán situados en Chile los valores extranjeros o los Certificados de Depósito de Valores emitidos en el país y que sean representativos de los mismos, a que se refieren las normas del Título XXIV de la ley Nº 18.045, de Mercado de Valores, por emisores constituidos fuera del país u organismos de carácter internacional o en los casos del inciso segundo del artículo 183 del referido Título de dicha ley. Igualmente, no se considerarán situados en Chile los valores autorizados por la Superintendencia de Valores y Seguros para ser transados de conformidad a las normas del Título XXIV de la ley Nº 18.045, siempre que estén respaldados en al menos un 90% por títulos, valores o activos extranjeros. El porcentaje restante sólo podrá ser invertido en instrumentos de renta fija cuyo plazo de vencimiento no sea superior a 120 días, contado desde su fecha de adquisición. Las cuotas de fondos de inversión y cuotas de fondos mutuos, se regirán por lo establecido en la ley N° 20.712 sobre Administración de Fondos de Terceros y Carteras Individuales.
+#### Artículo 12
 
-> **Nota.** El Nº5 de la Circular Nº11, Hacienda, Servicio de Impuestos Internos, publicada el 16.02.2001, dispuso que por aplicación del Art. 3º del Código Tributario, las modificaciones introducidas al presente artículo rigen a contar de los impuestos anuales a la renta que deben declararse y pagarse a contar del 1º de enero del año 2001; esto es a partir del Año Tributario 2001.
+o- Cuando deban computarse rentas de fuente extranjera, se considerarán las rentas líquidas percibidas o devengadas, excluyéndose aquéllas de que no se pueda disponer en razón de caso fortuito o fuerza mayor o de disposiciones legales o reglamentarias del país de origen. La exclusión de tales rentas se mantendrá mientras subsistan las causales que hubieren impedido poder disponer de ellas y, entretanto, no empezará a correr plazo alguno de prescripción en contra del Fisco.
 
-#### Artículo 12°
+#### Artículo 13
 
-Cuando deban computarse rentas de fuente extranjera, sin perjuicio de lo dispuesto en el artículo 41 G, se considerarán las rentas líquidas percibidas, excluyéndose aquellas de que no se pueda disponer en razón de caso fortuito o fuerza mayor o de disposiciones legales o reglamentarias del país de origen. La exclusión de tales rentas se mantendrá mientras subsistan las causales que hubieren impedido poder disponer de ellas y, entretanto, no empezará a correr plazo alguno de prescripción en contra del Fisco. En el caso de las agencias u otros establecimientos permanentes en el exterior, se considerarán en Chile tanto las rentas percibidas como las devengadas, incluyendo los impuestos a la renta adeudados o pagados en el extranjero.
+o- El pago de los impuestos que correspondan por las rentas que provengan de bienes recibidos en usufructo o a título de mera tenencia, serán de cargo del usufructuario o del tenedor, en su caso, sin perjuicio de los impuestos que correspondan por los ingresos que le pueda representar al propietario la constitución del usufructo o del título de mera tenencia, los cuales se considerarán rentas.
 
-> **Nota.** El Artículo 10º de la LEY 19247, publicada el 15.09.1993, ordenó que lo dispuesto por su artículo 1º, regirá a contar del 1º de enero de 1994, afectando a las rentas que se perciban o se devenguen desde esa fecha, a excepción de la letra j), que regirá a contar del 4 de junio de 1993, y de las letras g) y h), que tendrán vigencia desde el 1° de enero de 1995.
+#### Artículo 14
 
-#### Artículo 13°
+o- Las rentas que se determinen o correspondan a una sociedad de personas, de conformidad al Título II, se gravarán respecto de ésta con los impuestos de categoría que procedan. Dichas rentas, más todos los ingresos, beneficio y participaciones percibidos o devengados por la sociedad, que no formen parte de su renta imponible de categoría, se entenderá que son percibidos o devengados por sus socios, en proporción a su participación en las utilidades, sólo para los efectos de los impuestos global complementario o adicional.
 
-El pago de los impuestos que correspondan por las rentas que provengan de bienes recibidos en usufructo o a título de mera tenencia, serán de cargo del usufructuario o del tenedor, en su caso, sin perjuicio de los impuestos que correspondan por los ingresos que le pueda representar al propietario la constitución del usufructo o del título de mera tenencia, los cuales se considerarán rentas.
+Sin embargo, tratándose de sociedades en comandita por acciones, los socios gestores tributarán con el impuesto global complementario o adicional respecto de su participación en las rentas percibidas o devengadas por la respectiva sociedad, y los accionistas tributarán con dichos impuestos por las rentas percibidas de la sociedad correspondiente; todo ello, sin perjuicio de la tributación que procede respecto de la sociedad y del crédito a favor de los accionistas a que se refieren los artículos 56, N.o 3 ó 63.o, en su caso.
 
-Por las rentas que provengan de una asociación o cuentas en participación y de cualquier encargo fiduciario, se gravará al gestor con los impuestos de esta ley. No obstante, en caso que se pruebe la efectividad, condiciones y monto de la participación de un partícipe o beneficiario que sea contribuyente de impuesto de primera categoría, dicha participación se computará para la aplicación del impuesto referido según el régimen aplicable al contribuyente. Por su parte, si se prueba la efectividad, condiciones y monto de la participación de un partícipe o beneficiario contribuyente de impuestos finales, dicha participación se computará para la aplicación del impuesto referido y se podrá imputar como crédito el impuesto de primera categoría que gravó la asociación o cuentas en participación o el encargo, conforme con el artículo 14, el artículo 56 número 3) y el artículo 63.
+En el caso de las sociedades anónimas, las rentas de dichas sociedades se gravarán respecto de éstas con los impuestos que procedan y respecto de los accionistas, dichas rentas se gravarán únicamente cuando éstos las perciban, y sólo con los impuestos global complementario o adicional, sin perjuicio del crédito a que se refieren los artículos 56, N.o 3 ó 63.o, en su caso.
 
-En la forma y plazo que el Servicio determine mediante resolución, el gestor deberá informar los saldos iniciales y finales de la participación o cuenta y los créditos respectivos.
+#### Artículo 15
 
-#### Artículo 14°
+o- Para determinar los impuestos establecidos por esta ley, los ingresos se imputarán al ejercicio en que hayan sido devengados o percibidos, de acuerdo con las normas pertinentes de esta ley y del Código Tributario, salvo que las operaciones generadoras de la renta abarquen más de un periodo como en los contratos de larga ejecución, ventas extraordinarias de pago diferido y remuneraciones anticipadas o postergadas por servicios prestados durante un largo espacio de tiempo.
 
-Para aplicar los impuestos finales sobre las rentas o cantidades retiradas, repartidas, remesadas, o distribuidas por las empresas sujetas al impuesto de primera categoría, determinadas según el Título II, se aplicarán las siguientes reglas:
+En estos casos, el Director dictará normas generales para cada grupo de contribuyentes de actividades similares y fijará el procedimiento para determinar o distribuir los ingresos en los diversos ejercicios y para practicar el ajuste final que corresponda.
 
-A) Rentas provenientes de empresas obligadas a declarar el impuesto de primera categoría según renta efectiva determinada con contabilidad completa.
+El Director Regional podrá disponer que si en el ajuste final que se practique, resulta que el contribuyente ha postergado todo o parte del impuesto ánual que normalmente le habría correspondido, pague el interés penal y el reajuste moratorio señalados en el Código Tributario por los impuestos que se hubieren postergado.
 
-1.- Régimen tributario de los propietarios de las empresas, afectos a los impuestos finales.
+En cada caso particular que conozca el Director Regional, podrá rebajar o condonar el interés señalado en el inciso anterior, atendidos los antecedentes y circunstancias; asimismo, determinará los diversos períodos a que deban imputarse las rentas.
 
-Los propietarios de empresas que declaren el impuesto de primera categoría con base en renta efectiva determinada con contabilidad completa, quedarán gravados con los impuestos finales sobre todas las cantidades que a cualquier título retiren, les remesen, o les sean distribuidas desde dichas empresas, en conformidad a las reglas del presente artículo y lo dispuesto en los artículos 54, número 1; 58, números 1) y 2); 60 y 62 de la presente ley, salvo que se trate de ingresos no constitutivos de renta, rentas exentas de los impuestos finales, rentas con tributación cumplida o de devoluciones de capital y sus reajustes efectuados de acuerdo al número 7°.- del artículo 17.
-
-2.- Registros tributarios de las rentas empresariales.
-
-Las empresas sujetas a las disposiciones de esta letra deberán confeccionar al término de cada ejercicio los siguientes registros tributarios, donde deberán efectuar y mantener el control de las siguientes cantidades:
-
-a) Registro RAI o de rentas afectas a los impuestos finales. Deberán registrar las rentas o cantidades que correspondan a la diferencia positiva, entre:
-
-i) El valor positivo del capital propio tributario, y
-
-ii) El saldo positivo de las cantidades que se mantengan en el registro REX, sumado al valor del capital aportado efectivamente a la empresa más sus aumentos y menos sus disminuciones posteriores, reajustado de acuerdo a la variación del índice de precios al consumidor entre el mes anterior a aquel en que se efectúa el aporte, aumento o disminución y el mes anterior al del término del año comercial.
-
-Para estos efectos, si el capital propio fuese negativo, se considerará como valor cero.
-
-Para el cálculo de estas rentas, se sumarán al capital propio tributario que se determine los retiros, remesas o dividendos efectuados durante el ejercicio, reajustados de acuerdo a la variación del índice de precios al consumidor entre el mes anterior a aquel en que se efectúa el retiro, remesa o distribución y el mes anterior al término del año comercial, y el saldo negativo del registro REX.
-
-b) Registro DDAN o de diferencias entre la depreciación normal y las aceleradas que establecen los números 5 y 5 bis, del inciso cuarto del artículo 31.
-
-Las empresas anotarán en este registro la diferencia positiva que se determine entre la depreciación acelerada y la normal de los bienes que se someten a depreciación acelerada. Asimismo, se anotarán los ajustes que correspondan por cualquier causa que impida continuar depreciando el bien, tales como su enajenación o que se haya terminado de depreciar aceleradamente.
-
-Al confeccionar el registro, en primer término, se adicionará el remanente que provenga del ejercicio anterior, reajustados de acuerdo a la variación del índice de precios al consumidor entre el último día del segundo mes anterior al de iniciación del ejercicio y el último día del mes anterior al término del año comercial respectivo.
-
-c) Registro REX o de rentas exentas e ingresos no constitutivos de renta. Deberán registrarse las rentas exentas de los impuestos finales, los ingresos no constitutivos de renta obtenidos por la empresa, y las rentas con tributación cumplida, así como todas aquellas cantidades de la misma naturaleza que perciba a título de retiros o dividendos provenientes de otras empresas.
-
-Al confeccionar el registro, en primer término, se adicionarán o deducirán, según corresponda, los remanentes de cada tipo de renta o cantidad que provengan del ejercicio anterior, reajustados de acuerdo a la variación del índice de precios al consumidor entre el último día del segundo mes anterior al de iniciación del ejercicio y el último día del mes anterior al término del año comercial respectivo.
-
-De estas cantidades se rebajarán, previo a su incorporación en este registro, los costos, gastos y desembolsos imputables a los ingresos netos de la misma naturaleza, según lo dispuesto en la letra e) del número 1 del artículo 33, de manera que se registrarán cantidades netas o líquidas disponibles para ser retiradas, remesadas o distribuidas. Si producto de esta rebaja se determina un saldo negativo, este deberá imputarse a los remanentes de ejercicios anteriores o a las rentas o cantidades que se determinen en el ejercicio siguiente, y así sucesivamente.
-
-d) Registro SAC o de saldo acumulado de créditos. Deberá mantenerse el control y registro del saldo acumulado de créditos por impuesto de primera categoría que establecen los artículos 56, número 3), y 63, y el crédito total disponible contra impuestos finales establecido en el artículo 41 A, a que tendrán derecho los propietarios de estas empresas, sobre los retiros, remesas o distribuciones afectos a los impuestos finales, cuando corresponda conforme al número 5.- siguiente. Deberá controlarse de manera separada aquella parte de dichos créditos cuya devolución no sea procedente de acuerdo a la ley, en caso de determinarse un excedente producto de su imputación en contra del impuesto global complementario que corresponda pagar al propietario. Del mismo modo, se controlará en forma separada el crédito contra impuestos finales a que se refiere el artículo 41 A. El saldo acumulado de créditos estará compuesto por: (i) el impuesto de primera categoría que haya afectado a la empresa sobre la renta líquida imponible del año comercial respectivo; (ii) el monto del impuesto de primera categoría que corresponda a los retiros, dividendos o remesas afectos a los impuestos finales, que perciba de otras empresas sujetas a las disposiciones de esta letra o del número 3 de la letra D) de este artículo, y (iii) los créditos por impuestos pagados en el extranjero de acuerdo a las normas establecidas en el artículo 41 A, todos estos conceptos sumados al remanente de los mismos que provengan del ejercicio anterior, reajustados de acuerdo a la variación del índice de precios al consumidor entre el último día del segundo mes anterior al de iniciación del ejercicio y el último día del mes anterior al término del año comercial respectivo. Salvo lo señalado en el número (iii) anterior u otros casos que contempla la ley, los créditos que ingresen al registro SAC que establece esta letra d), incluyendo los señalados en el número (i) y (ii) precedentes, tendrán la obligación de restitución contemplada en los artículos 56 número 3 y 63.
-
-Del saldo así determinado al término del ejercicio deberán rebajarse aquellos créditos que sean asignados a los retiros, remesas o distribuciones del ejercicio y a las partidas del inciso segundo, del artículo 21, en la forma establecida en los números 4 y 5 siguientes. En el caso de las partidas del inciso segundo del artículo 21, salvo el caso del impuesto de primera categoría, deberá rebajarse a todo evento y como última imputación del año comercial, el monto del crédito correspondiente al impuesto de primera categoría que corresponda sobre dichas partidas. Asimismo, en este registro se agregará o deducirá, según corresponda, el crédito asignado con motivo de reorganización de empresas, en los términos de la letra C), de este artículo. El Servicio determinará mediante resolución la forma en que deberán llevarse los registros con las cantidades que establece este número.
-
-3.- Liberación de llevar ciertos registros. Con todo, quedan liberadas de llevar los registros RAI, DDAN y REX, las empresas que no mantengan rentas o cantidades que deban ser controladas en el registro REX, razón por la cual todos los retiros, remesas o distribuciones quedarán gravados con los impuestos finales, con derecho al crédito acumulado en el SAC, en los términos dispuestos en los números 4 y 5 siguientes, salvo que consistan en devoluciones de capital y sus reajustes efectuados de acuerdo al número 7°.- del artículo 17.
-
-Sin embargo, en el caso que se efectúen retiros, remesas o distribuciones con cargo al capital aportado por los propietarios, en los términos del numeral v), del número 4 de esta letra, las empresas deberán reconstituir los registros antes señalados para el ejercicio correspondiente, para efectos de beneficiarse con el tratamiento tributario que se indica en dicho numeral.
-
-4.- Orden de imputación y sus efectos tributarios.
-
-Para la aplicación de los impuestos finales, los retiros, remesas o distribuciones del ejercicio se imputarán al término del ejercicio respectivo, reajustados de acuerdo a la variación del índice de precios al consumidor entre el mes anterior a aquel en que se efectúa el retiro, remesa o distribución y el mes anterior al término del año comercial, en el orden cronológico en que los retiros, remesas o distribuciones se efectúen, hasta agotar el saldo positivo de los registros RAI, DDAN y REX del número 2 anterior, en el orden y con los efectos que se indican a continuación:
-
-(i) En primer lugar, a las rentas o cantidades anotadas en el registro RAI, afectándose con el impuesto final que corresponda.
-
-(ii) En segundo lugar, a las rentas o cantidades anotadas en el registro DDAN afectándose con el impuesto final que corresponda.
-
-(iii) En tercer lugar, a los ingresos con tributación cumplida, luego a las rentas exentas y posteriormente a los ingresos no constitutivos de renta, anotadas en el registro REX, las que no se afectarán con impuesto alguno, considerándose en todo caso aquellos efectuados con cargo a las rentas exentas del impuesto global complementario para efectos de la progresividad que establece el artículo 54. En el caso que las rentas sólo estén exentas del impuesto global complementario, y no del impuesto adicional, corresponderá la tributación con este último.
-
-(iv) Agotadas las cantidades señaladas con anterioridad, la imputación se efectuará a las utilidades de balance retenidas en exceso de las tributables, conforme se refleje en el balance de la empresa al término del ejercicio comercial, afectándose con el impuesto final que corresponda.
-
-(v) Posteriormente, agotadas las utilidades de balance retenidas en exceso de las tributables, la imputación se efectuará al capital y sus reajustes, hasta la concurrencia de la participación que le corresponda al propietario en el capital. Para estos efectos, se reajustará el capital según la variación del índice de precios al consumidor entre el mes anterior a aquel en que se efectúa el aporte, aumento o disminución y el mes anterior al término del año comercial. Cuando los retiros, remesas o distribuciones resulten imputados al capital y sus reajustes, no se afectarán con impuesto alguno, conforme al artículo 17 número 7°.-, en la medida que los retiros, remesas o distribuciones imputadas al capital sean formalizados como disminuciones de capital conforme al tipo de empresa que se trate. Para tal efecto, la disminución de capital deberá formalizarse a más tardar en el mes de febrero del año siguiente al del retiro, remesa o distribución. Tratándose del empresario individual, para hacer uso de esta imputación, la disminución de capital deberá informarse al Servicio dentro del mismo plazo.
-
-(vi) Finalmente, cualquier retiro, remesa, o distribución que exceda de las cantidades señaladas precedentemente, se afectará con el impuesto final que corresponda.
-
-El orden de imputación señalado precedentemente es sin perjuicio de las preferencias especiales de imputación establecidas en esta u otras leyes.
-
-5.- Determinación del crédito aplicable a los propietarios de la empresa.
-
-En todos aquellos casos en que, en conformidad al número anterior, los retiros, remesas o distribuciones de la empresa resulten afectos a los impuestos finales, los propietarios tendrán derecho al crédito a que se refieren los artículos 41 A, 56, número 3), y 63, con tope del saldo acumulado de crédito que se mantenga en el registro SAC al cierre del ejercicio.
-
-El monto del crédito corresponderá al que resulte de aplicar a los retiros, dividendos y demás cantidades gravadas un factor resultante de dividir la tasa de impuesto de primera categoría vigente según el régimen en que se encuentre la empresa al cierre del año del retiro, remesa o distribución, por cien menos dicha tasa, todo ello expresado en porcentaje.
-
-Las empresas liberadas de la obligación de llevar registros RAI, DDAN y REX, aplicarán esta misma regla para determinar el crédito que resulte aplicable.
-
-El factor así determinado, se aplicará sobre los retiros, remesas o distribuciones afectos a impuestos finales y se imputará al SAC determinado al término del ejercicio, comenzando por la asignación de los créditos sin derecho a devolución, y una vez agotados estos, se asignarán los créditos con derecho a devolución.
-
-El crédito a que se refiere el artículo 41 A, se asignará conjuntamente con las distribuciones o retiros de utilidades afectos a impuestos finales, o asignado a las partidas señaladas en el inciso segundo del artículo 21, según corresponda. Para este efecto, la distribución del crédito se efectuará aplicando una tasa de crédito que corresponderá a la diferencia entre la tasa de impuesto de primera categoría, según el régimen al que esté sujeta la empresa en el año del retiro, remesa o distribución y una tasa de 35%, sobre una cantidad tal que, al deducir dicha cantidad, el resultado arroje un monto equivalente al retiro, remesa, distribución o partida señalada, previamente incrementados en el monto del crédito que establecen los artículos 56 número 3) y 63. En todo caso, el crédito asignado no podrá ser superior al saldo de crédito contra impuestos finales que se mantenga registrado en el registro SAC.
-
-En estos casos, cuando las rentas retiradas, remesadas o distribuidas tengan derecho al crédito por impuesto de primera categoría establecido en los artículos 56 número 3) y 63, o cuando deba rebajarse el crédito correspondiente a las partidas del inciso segundo del artículo 21, este se calculará sobre una cantidad tal que, al deducir dicho crédito de esa cantidad, el resultado arroje un monto equivalente al retiro, remesa, distribución o partida señalada, previamente incrementados en el monto del crédito que establece el artículo 41 A.
-
-El remanente de crédito que se mantenga luego de las imputaciones referidas constituirá el saldo acumulado de crédito para el ejercicio siguiente.
-
-6.- Opción de la empresa de anticipar a sus propietarios el crédito por impuesto de primera categoría.
-
-En caso que los retiros, remesas o distribuciones resulten afectos a los impuestos finales y no se les asigne crédito, atendido que no existe un saldo acumulado de créditos al cierre del ejercicio o el total de éste haya sido asignado a una parte de dichos retiros, remesas o distribuciones, y quienes perciban tales cantidades sean contribuyentes que se encuentran gravados con dichos tributos, la empresa podrá optar voluntariamente por pagar a título de impuesto de primera categoría una suma equivalente a la que resulte de aplicar la tasa del referido tributo a una cantidad tal que al restarle dicho impuesto, la cantidad resultante sea el monto neto del retiro, remesa o distribución. Este impuesto deberá ser declarado y pagado según lo establecido en los artículos 65, 69 y 72, y podrá ser imputado por los propietarios en contra de los impuestos finales que graven a los retiros, remesas o distribuciones efectuados en el ejercicio conforme a lo dispuesto en el artículo 56, número 3) y 63.
-
-Efectuado el pago del impuesto señalado, la empresa podrá deducir en la determinación de la renta líquida imponible correspondiente al año comercial en que se haya pagado el impuesto, y hasta el monto positivo que resulte de ésta, una suma equivalente a la cantidad sobre la cual se aplicó y pagó efectivamente la tasa del impuesto de primera categoría de acuerdo al párrafo anterior. Si de la deducción referida, se determinare un excedente, ya sea por la existencia de una pérdida para fines tributarios o por otra causa, dicho excedente podrá deducirse en el ejercicio siguiente y en los subsiguientes, hasta su total extinción. Para los efectos de su imputación, dicho excedente se reajustará según el porcentaje de variación del índice de precios al consumidor entre el mes anterior al del cierre del ejercicio en que se haya determinado y el mes anterior al cierre del ejercicio de su imputación.
-
-Del pago voluntario de este impuesto no podrá deducirse ninguna clase de créditos que la ley establezca contra el impuesto de primera categoría.
-
-7.- Normas para compensar rentas y créditos improcedentes.
-
-Cuando la empresa hubiere informado al Servicio créditos de primera categoría en exceso de las sumas correspondientes, deberá pagar a título de impuesto las diferencias respectivas de acuerdo a lo dispuesto en los artículos 65, 69 y 72, en cuyo caso no procederá la rectificación de las declaraciones que hubieren sido presentadas por los respectivos propietarios, sea que se trate de contribuyentes de la primera categoría o de impuestos finales. El monto restituido corresponderá a una partida del inciso segundo del artículo 21 y deberá ser agregado al SAC en la medida que tal cantidad se haya rebajado de este registro.
-
-Tampoco procederán dichas rectificaciones por los respectivos propietarios cuando se hubiere asignado un crédito menor respecto del ejercicio en que se constate la menor asignación del crédito por la empresa, lo que deberá informar al Servicio en la declaración anual de renta que corresponda. No obstante lo anterior, procederá la rectificación cuando así lo solicite el o los propietarios interesados, sin perjuicio que se ajusten los saldos del ejercicio y de los ejercicios siguientes, de las cantidades referidas en este artículo, cuando corresponda.
-
-Lo dispuesto en los incisos anteriores también podrá aplicarse a las diferencias que se determinen sobre las utilidades o cantidades sobre las cuales se aplican los créditos e impuestos finales.
-
-Con todo, procederá que el propietario o la empresa rectifique cuando se trate de diferencias que se originen en procesos de reorganización, respecto de los valores inicialmente registrados o declarados en procesos de fiscalización del Servicio, y que generen cambios impositivos en las declaraciones de los propietarios.
-
-8.- Información anual al Servicio.
-
-Las empresas sujetas a las disposiciones de esta letra A), deberán informar anualmente al Servicio, en la forma y plazo que éste determine mediante resolución, las siguientes materias:
-
-a) El monto de los retiros, remesas o distribuciones que se realicen en el año comercial respectivo, y la renta que se asigne a los propietarios en virtud de lo señalado en el número 8 de la letra D) de este artículo, con indicación de los propietarios que las reciben, la fecha en que se hayan efectuado y si se trata de rentas o cantidades afectas a los impuestos finales, rentas exentas, ingresos no constitutivos de renta o rentas con tributación cumplida. También deberán informar el monto del crédito que hayan determinado para el ejercicio, de acuerdo a los artículos 41 A, 56 número 3), y 63, con indicación si el excedente que se determine luego de su imputación puede o no ser objeto de devolución.
-
-b) El remanente proveniente del ejercicio anterior, aumentos o disminuciones del ejercicio, así como el saldo final que se determine para los registros RAI, DDAN, REX y SAC, según resulte aplicable.
-
-c) El detalle de la determinación del saldo anual del registro RAI, identificando los valores que han servido para determinar el capital propio tributario y el capital aportado efectivamente a la empresa, más sus aumentos y disminuciones posteriores, reajustados de acuerdo a la variación del índice de precios al consumidor entre el mes anterior en que se efectúa el aporte, aumento o disminución y el mes anterior al del término del ejercicio. Asimismo, las empresas deberán informar su patrimonio financiero determinado al término del ejercicio.
-
-d) El monto de las diferencias entre la depreciación acelerada y la normal que mantenga la empresa a que se refiere el registro DDAN, determinadas para cada bien, según corresponda.
-
-Con todo, quedarán liberados de entregar la información señalada en las letras
-
-- **b)** y
-
-- **d)** anteriores, las empresas que se encuentren eximidas de llevar los registros conforme a lo señalado en el número 3 de esta letra A, a excepción del registro SAC, respecto del cual se deberá informar lo señalado en la letra
-
-- **b)** anterior.
-
-e) Las inversiones realizadas en el extranjero durante el año comercial anterior, con indicación del monto y tipo de inversión, del país o territorio en que se encuentre, en el caso de tratarse de acciones, cuotas o derechos, el porcentaje de participación en el capital de la sociedad o entidad constituida en el extranjero, el destino de los fondos invertidos, así como cualquier otra información adicional que el Servicio de Impuestos Internos requiera respecto de tales inversiones. Esta información deberá presentarse hasta el 30 de junio de cada año. El retardo u omisión en la presentación de la información, o la presentación de declaraciones incompletas o con antecedentes erróneos, será sancionada con una multa de diez unidades tributarias anuales, incrementada con una unidad tributaria anual adicional por cada mes de retraso, con tope de 50 unidades tributarias anuales. La referida multa se aplicará conforme al procedimiento establecido en el artículo 161 del Código Tributario.
-
-Cuando las inversiones a que se refiere esta letra se hayan efectuado directa o indirectamente en países o territorios que se consideren como un territorio o jurisdicción que tiene un régimen fiscal preferencial de tributación conforme al artículo 41 H, en forma adicional, deberán informar anualmente, en el plazo señalado, el estado de dichas inversiones, con indicación de sus aumentos o disminuciones, el destino que las entidades receptoras han dado a los fondos respectivos, así como cualquier otra información que requiera el Servicio de Impuestos Internos respecto de las referidas inversiones. El retardo u omisión en la presentación de la información, o la presentación de declaraciones incompletas o con antecedentes erróneos, será sancionada en los mismos términos establecidos en el inciso anterior.
-
-Lo señalado en los incisos precedentes aplicará sin perjuicio de lo establecido en el párrafo segundo del número (i) del inciso tercero del artículo 21, en cuyo caso el Servicio de Impuestos Internos deberá citar previamente al contribuyente conforme al artículo 63 del Código Tributario.
-
-9.- Facultad especial de revisión del Servicio de Impuestos Internos.
-
-Tratándose de una empresa que tenga, directa o indirectamente, propietarios contribuyentes de impuesto global complementario y que sus propietarios, directos o indirectos, sean contribuyentes relacionados, el Servicio de Impuestos Internos podrá revisar, conforme con este número 9, las razones comerciales, económicas, financieras, patrimoniales o administrativas para que los retiros o la distribución anual de las utilidades que corresponde a dichos propietarios relacionados se realice en forma desproporcionada a su participación en el capital de la empresa.
-
-Si de la revisión efectuada el Servicio fundadamente determina que, considerando las circunstancias de la empresa y la de sus propietarios los retiros o, las distribuciones desproporcionadas carecen de las razones señaladas en el inciso anterior, previa citación del artículo 63 del Código Tributario, se aplicará a la empresa que realiza la distribución, o desde la cual se efectúan los retiros, lo establecido en el inciso primero del artículo 21 sobre la parte de la distribución o del retiro que corresponde al exceso sobre la participación en el capital del propietario.
-
-El impuesto único podrá también ser declarado por la propia empresa de acuerdo al artículo 65, 69 y 72.
-
-Producto de la declaración y pago del impuesto establecido en este número 9, se entenderá cumplida totalmente la tributación con el impuesto a la renta de tales cantidades, por lo que el contribuyente del impuesto de primera categoría, receptor de las mismas, las anotará en el registro REX señalado en la letra c) del número 2 de la letra A) de este artículo, como un ingreso no constitutivo de renta y podrán ser retiradas, remesadas o distribuidas en la oportunidad que se estime conveniente, con preferencia a cualquier otra suma y sin considerar las reglas de imputación que establece esta ley que estén vigentes a la fecha del retiro, remesa o distribución.
-
-Si un propietario hubiere pagado impuesto global complementario por las utilidades percibidas, como consecuencia de la liquidación del Servicio de Impuestos Internos del impuesto que corresponda por aplicación de lo establecido en este número 9, se les devolverá el impuesto global complementario pagado en el mismo procedimiento administrativo, mediante una rectificación de su declaración y la acreditación del pago del impuesto único liquidado. Para estos efectos, se efectuará una redeterminación del impuesto aplicable al propietario, excluyendo los retiros o distribuciones, así como los créditos que se hubieren asignado a los mismos, los que se anotarán en el registro SAC de la empresa.
-
-Para estos efectos, se entenderán relacionados los cónyuges, convivientes civiles y parientes ascendientes o descendientes hasta el segundo grado de consanguinidad.".
-
-B) Rentas provenientes de empresas que declaren el impuesto de primera categoría determinado sin contabilidad completa.
-
-1.- En el caso de empresas afectas al impuesto de primera categoría que declaren rentas efectivas y que no las determinen sobre la base de un balance general, según contabilidad completa, las rentas establecidas en conformidad con el Título II, más todos los ingresos o beneficios percibidos o devengados por la empresa por participaciones en otras entidades, se gravarán respecto de los propietarios con los impuestos finales, en el mismo ejercicio al que correspondan.
-
-2.- Las rentas presuntas se afectarán con los impuestos de primera categoría e impuestos finales, en el mismo ejercicio al que correspondan.
-
-En los casos señalados en los números 1.- y 2.- anteriores, las rentas se entenderán retiradas o distribuidas por los propietarios en proporción a su participación en las utilidades. Si se tratare de una comunidad, las rentas se asignarán en proporción a sus respectivas cuotas en la comunidad.
-
-C) Efectos tributarios de las reorganizaciones empresariales para fines de registros y asignación de capital propio tributario.
-
-1.- Efectos de la división, conversión y fusión de empresas obligadas a determinar su renta efectiva con contabilidad completa.
-
-a) En caso de división, deberán confeccionarse a dicha fecha los registros RAI, DDAN, REX y SAC de la empresa que se divide. El saldo de la totalidad de las cantidades que deban anotarse en los registros RAI, REX y SAC de la empresa, según el caso, a esa fecha, se asignará a cada una de ellas en proporción al capital propio tributario respectivo; y el saldo de las cantidades que deban anotarse en el registro DDAN, debe ser asignado conjuntamente con los bienes físicos del activo inmovilizado que dieron origen a la diferencia entre la depreciación normal y acelerada.
-
-En estos casos, el capital efectivamente aportado se asignará en cada una de las empresas en la misma proporción antes señalada, considerando como capital efectivamente aportado el monto considerado en la determinación del registro RAI a la fecha de la división.
-
-No obstante, las empresas podrán solicitar al Servicio de Impuestos Internos autorización para efectos de realizar las asignaciones correspondientes en base al patrimonio financiero. Dicha solicitud deberá efectuarse con antelación a la división. En caso que no se realice la solicitud, se deberá informar la misma al Servicio, debiendo, para efectos tributarios, realizar las asignaciones en base a lo señalado en los párrafos precedentes. El Servicio deberá resolver fundadamente la petición en el plazo de 15 días desde que la empresa pone a disposición del Servicio todos los antecedentes necesarios para resolver su presentación, tomando como consideración principal para efectos de su decisión, el debido cumplimiento de las obligaciones tributarias.
-
-b) En el caso de la conversión o de la fusión, la empresa continuadora deberá llevar o mantener el registro y control de las cantidades anotadas en los registros RAI, DDAN, REX y SAC de la empresa convertida o absorbida determinadas a esa fecha. Estas cantidades se entenderán incorporadas a la empresa continuadora en la fecha en que se materialice la conversión o fusión, las que posteriormente se reajustarán al término del ejercicio. En estos casos, las empresas que se convierten o fusionan se afectarán con los impuestos que procedan, por las rentas determinadas en el año comercial correspondiente al término de su giro, sin que corresponda aplicar el impuesto a que se refiere el N° 1 del artículo 38 bis. En el caso que la empresa continuadora y las absorbidas no se encuentren obligadas a llevar los registros conforme a lo dispuesto en el número 3 de la letra A) de este artículo, la empresa continuadora mantendrá dicha liberación. Para efectos de continuar determinando el RAI, las empresas absorbentes o continuadoras deberán considerar como un aumento efectivo de capital el monto que se haya utilizado como tal en el cálculo del registro RAI efectuado por la empresa absorbida o convertida a la fecha de la fusión o conversión.
-
-2.- Efectos de la fusión o absorción de empresas obligadas a determinar su renta efectiva con contabilidad completa, con empresas sujetas a lo dispuesto en los artículos 14 letra B) número 1, 14 letra D), y 34.
-
-a) En la fusión o absorción de empresas, en que la absorbente se encuentre sujeta a las disposiciones de la letra
-
-- **A)** de este artículo, y una o más de las empresas absorbidas o fusionadas se encuentren sujetas a lo dispuesto en el número 1 de la letra
-
-- **B)** o en la letra
-
-- **D)** del mismo artículo, estas últimas deberán determinar, a la fecha de fusión o absorción, un inventario inicial considerando todos sus activos y pasivos a valor tributario, considerando una depreciación normal y de acuerdo a lo dispuesto en el artículo 41°.- para determinar un capital propio tributario al momento de la fusión. Para efectos tributarios, el capital propio tributario así determinado se entenderá que corresponde a un aumento efectivo de capital aportado por los nuevos propietarios a la empresa absorbente.
-
-b) En la fusión o absorción de empresas, en que la absorbente se encuentre sujeta a las disposiciones de la letra A) de este artículo, y una o más de las empresas absorbidas o fusionadas se encuentren sujetas a lo dispuesto en el artículo 34, estas últimas deberán determinar a la fecha de fusión o absorción, un inventario inicial considerando todos sus activos y pasivos a valor tributario, de acuerdo a lo dispuesto en el artículo 34.- y determinar un capital propio tributario al momento de la fusión. Para efectos tributarios, el capital propio tributario así determinado, se entenderá que corresponde a un aumento efectivo de capital aportado por los nuevos propietarios a la empresa absorbente.
-
-c) En caso que una empresa sujeta a las disposiciones del artículo 14 letra
-
-- **B)** número 1, a la letra
-
-- **D)** de este artículo, o al artículo 34, absorba o se fusione con otra sujeta a las disposiciones de la letra
-
-- **A)** de este artículo, la empresa absorbente deberá incorporarse al régimen de renta efectiva según contabilidad completa de la letra
-
-- **A)** de este artículo 14, a contar del inicio del año comercial en que se efectúa la fusión o absorción; para estos efectos, a las empresas absorbentes les serán aplicables, en todo lo pertinente, las reglas establecidas en las letras
-
-- **a)** y
-
-- **b)** anteriores de este número 2. Posteriormente, se aplicarán las disposiciones de la letra
-
-- **b)** del número 1 de esta letra C).
-
-3.- Efectos en empresas obligadas a determinar su renta efectiva con contabilidad completa, acogidas al artículo 14 letra A), al momento de optar por sujetarse a lo dispuesto en los artículos 14 letra B) número 1 o 34.
-
-Las empresas obligadas a determinar su renta efectiva en base a contabilidad completa, acogidas al artículo 14 letra A), que opten por sujetarse a lo dispuesto en los artículos 14 letra B) número 1 o 34, deberán efectuar el siguiente tratamiento a las partidas que a continuación se indican, según sus saldos al 31 de diciembre del año anterior al que comiencen a tributar conforme al nuevo régimen, sin perjuicio de la tributación que afecte en dicho período a la empresa y a sus propietarios:
-
-a) El saldo de rentas acumuladas en el registro RAI se entenderá retirado, remesado o distribuido al término del ejercicio anterior a aquel en que ingresan al nuevo régimen, a sus propietarios en la proporción en que participan en las utilidades de la empresa, para afectarse con los impuestos finales en dicho período, incrementado en una cantidad equivalente al crédito por impuesto de primera categoría y el crédito por impuestos finales establecido en el artículo 41 A, incorporados en el registro SAC.
-
-El monto que resulte gravado con los impuestos finales conforme a esta letra, tendrá derecho a la proporción que corresponda del saldo de créditos registrados en el registro SAC. Para efectos de asignar la participación en las utilidades de la empresa se estará al capital enterado o pagado, o en su defecto, al capital suscrito o aportado. En el caso de comunidades, se estará a las cuotas de dominio según conste en un instrumento público.
-
-b) En los mismos términos de la letra anterior, se entenderá retirado, remesado o distribuido el saldo de rentas acumuladas en el registro REX.
-
-c) Si la empresa opta por acogerse al artículo 14 letra B) número 1, se deberá también aplicar lo siguiente:
-
-i) Las pérdidas tributarias determinadas al término del ejercicio anterior deberán considerarse como un gasto del primer día del ejercicio inicial sujeto al nuevo régimen tributario.
-
-ii) Los activos fijos físicos depreciables conforme a lo dispuesto en los números 5 y 5 bis del artículo 31, a su valor neto tributario, deberán considerarse como un gasto del primer día del ejercicio inicial sujeto al nuevo régimen tributario.
-
-iii) Las existencias de bienes del activo realizable, a su valor tributario, deberán considerarse como un gasto del primer día del ejercicio inicial sujeto al nuevo régimen tributario.
-
-iv) Los ingresos devengados y los gastos adeudados al término del ejercicio inmediatamente anterior al ingreso al nuevo régimen, no deberán ser reconocidos por el contribuyente al momento de su percepción o pago, según corresponda.
-
-4.- Información de antecedentes sobre reorganizaciones empresariales:
-
-Las empresas que se hayan sometido a algún proceso de reorganización empresarial, deberán comunicarlo al Servicio de Impuestos Internos, en la forma y plazo que establece el inciso sexto del artículo 68 del Código Tributario. Para esos efectos, el Servicio mediante resolución, establecerá la información que deberán proporcionar las empresas según cada tipo de reorganización de que se trate.
-
-D) Régimen para las micro, pequeñas y medianas empresas (Pymes).
-
-Se aplicará un régimen especial para incentivar la inversión, capital de trabajo y liquidez de las Pymes, denominado Régimen Pro Pyme, según lo que se establece a continuación:
-
-1.- Concepto de Pyme
-
-Para efectos de este artículo, se entenderá por Pyme, aquella empresa que reúna las siguientes condiciones copulativas:
-
-(a) Que el capital efectivo al momento del inicio de sus actividades no exceda de 85.000 unidades de fomento, según el valor de esta al primer día del mes de inicio de las actividades.
-
-(b) Que el promedio anual de ingresos brutos percibidos o devengados del giro, considerando los tres ejercicios anteriores a aquel en que se vaya a ingresar al régimen, no exceda de 75.000 unidades de fomento, y mantenga dicho promedio mientras se encuentren acogidos al mismo. Si la empresa ejerciera actividades por menos de 3 ejercicios, el promedio se calculará considerando los ejercicios que corresponda a los que realice sus actividades.
-
-Una vez ingresado al Régimen Pro Pyme, para efectos de calcular el promedio de tres años señalado en el párrafo anterior, sólo se considerarán los ejercicios que corresponda a aquellos en que la Pyme ha estado acogida a este régimen.
-
-El límite de ingresos promedio de 75.000 unidades de fomento podrá excederse por una sola vez. Con todo, los ingresos brutos de un ejercicio no podrán exceder en ningún caso de 85.000 unidades de fomento.
-
-Para efectos de realizar el cómputo, se considerarán ingresos del giro los que provienen de la actividad que realiza habitualmente el contribuyente, incluyendo ventas, exportaciones, prestaciones de servicios y otras operaciones; y, excluyendo aquellos ingresos extraordinarios, como en el caso de ganancias de capital, o esporádicos, como los obtenidos en la venta de activo inmovilizado.
-
-Para el cómputo de los ingresos brutos del giro no se considerará el impuesto al valor agregado ni otros impuestos adicionales o específicos que se recarguen al precio o remuneración ni las rentas señaladas en la letra (c) siguiente.
-
-Para los cálculos y límites que establece esta letra se utilizará el valor de la unidad de fomento que corresponda al último día del respectivo ejercicio.
-
-El cálculo del promedio de ingresos brutos se determinará en base a la información de ventas contenida en el registro electrónico de compras y ventas, establecido en el artículo 59 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el decreto ley 825 de 1974. Dicha información será puesta a disposición en el sitio personal del contribuyente por el Servicio de Impuestos Internos y deberá ser complementada o ajustada por la empresa, según corresponda. El Servicio mediante una o más resoluciones establecerá la forma en que se llevará a cabo la determinación del ingreso bruto y la forma de poner a disposición la información.
-
-Los créditos incobrables que correspondan a ingresos devengados que se castiguen durante el ejercicio, se descontarán para efectos del cómputo del promedio anual de ingresos brutos.
-
-Adicionalmente, para el cálculo del promedio de ingresos brutos se deberá sumar los ingresos brutos del giro percibidos o devengados por las empresas o entidades relacionadas, y además, sumar las rentas de dichas empresas o entidades relacionadas provenientes de la tenencia, rescate o enajenación de inversiones en capitales mobiliarios, de la enajenación de derechos sociales o acciones, y las rentas que las entidades relacionadas perciban con motivo de participaciones en otras empresas o entidades.
-
-Para efectos de este artículo, se considerarán empresas o entidades relacionadas según se establece en el artículo 8° número 17 del Código Tributario y los ingresos de las entidades relacionadas se sumarán, en su totalidad, en los casos de las letras
-
-- **a)** y
-
-- **b)** de dicho artículo; en tanto que, en los casos de las letras c),
-
-- **d)** y
-
-- **e)** del artículo referido se considerará la proporción que corresponda a la participación en el capital, utilidades, ingresos o derechos a votos, según resulte mayor.
-
-Las empresas o entidades relacionadas deberán informar anualmente a la empresa respectiva, en la forma y plazo que establezca el Servicio de Impuestos Internos mediante resolución, el monto total de los ingresos que deban sumarse para efectos de determinar la aplicación de este régimen, los que se expresarán en unidades de fomento conforme a lo señalado en el párrafo sexto de esta letra (b).
-
-(c) Que el conjunto de los ingresos que percibe la Pyme en el año comercial respectivo, correspondientes a las siguientes actividades, no excedan de un 35% del total de sus ingresos brutos del giro:
-
-(i) Cualquiera de las descritas en los números 1°.- y 2°.- del artículo 20. Con todo, no se computarán para el cálculo del límite del 35% las rentas que provengan de la posesión o explotación de bienes raíces agrícolas.
-
-(ii) Participaciones en contratos de asociación o cuentas en participación.
-
-Para los efectos señalados en esta letra, se considerarán sólo los ingresos que consistan en frutos o cualquier otro rendimiento derivado del dominio, posesión o tenencia a título precario de los bienes y participaciones señaladas. No se considerarán las enajenaciones de tales bienes que generen una renta esporádica o la cesión a título oneroso de los derechos reales constituidos sobre dichos bienes.
-
-(iii) De la posesión o tenencia a cualquier título de derechos sociales y acciones de sociedades o cuotas de fondos de inversión.
-
-2.- Acceso al financiamiento de la Pyme
-
-El Servicio de Impuestos Internos, previa solicitud, entregará, en el sitio personal de la Pyme, un informe de la situación tributaria de la empresa, con la información que mantenga a su disposición y sea relevante para facilitar el acceso al financiamiento de la Pyme, según lo determine mediante resolución. La Pyme podrá utilizar este informe para efectos de obtener financiamiento u otros que les parezcan necesarios, siendo de su exclusiva responsabilidad la veracidad de la información que contenga y entregarlo a terceros.
-
-Con el propósito de promover el emprendimiento e innovación tecnológica, no se entenderán entidades relacionadas con la Pyme, aquellas que participen en ella o la financien con ese fin. Para estos efectos, el acuerdo en que conste la participación o financiamiento de la entidad en la Pyme, deberá estar previamente certificado por la Corporación de Fomento a la Producción y tener por finalidad apoyar la puesta en marcha, el desarrollo o crecimiento de emprendimientos o de proyectos de innovación tecnológica.
-
-Mediante resolución conjunta con el Servicio de Impuestos Internos, la Corporación de Fomento a la Producción determinará los procedimientos de certificación y requisitos que deben cumplir los acuerdos entre las entidades y la Pyme. Dicha resolución deberá exigir, al menos, que el acuerdo contenga: (a) un plan de ejecución y desarrollo del emprendimiento o del proyecto de innovación tecnológica por un plazo no menor a 2 años, que refleje adecuadamente los costos en que incurrirá la Pyme para el logro de su objetivo, los que deberán ajustarse a las condiciones observadas en el mercado, (b) una prohibición de efectuar disminuciones de capital que afecten el aporte de la entidad que participa o financia la Pyme, durante el plazo de su plan de ejecución y desarrollo y (c) una declaración jurada de no encontrarse la entidad y la Pyme relacionadas de manera previa o coetánea al acuerdo en cuestión, a menos que esto ocurra únicamente por uno o más acuerdos previamente certificados en éstos términos.
-
-3.- Tributación de la Pyme
-
-La Pyme acogida al régimen de esta letra D) podrá optar por declarar su renta efectiva según contabilidad simplificada de acuerdo a lo establecido en el artículo 68, entre el 1 de enero y el 30 de abril del año en que ejerza dicha opción, la que se ejercerá en la forma y plazo que determine el Servicio de Impuestos Internos mediante resolución. La Pyme que no ejerza dicha opción deberá llevar contabilidad completa en cuyo caso, la determinación de sus resultados tributarios se realizará igualmente conforme a lo establecido en esta letra D), mediante los ajustes que corresponda realizar. Aún en el caso que la Pyme opte por llevar contabilidad simplificada, podrá llevar contabilidad completa, sin que ello altere la determinación de sus resultados tributarios conforme a esta letra D).
-
-Para efectos de llevar la contabilidad simplificada y determinar la tributación de la Pyme, se aplicarán las siguientes reglas:
-
-(a) El Servicio de Impuestos Internos pondrá a disposición, en el sitio personal del contribuyente, entre el 15 y el 30 de abril del año tributario respectivo, la información digital con la que cuente, en especial aquella contenida en el registro electrónico de compras y ventas establecido en el artículo 59 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el decreto ley N° 825 de 1974, para que la Pyme realice su declaración y el pago de los impuestos anuales a la renta, complementando o ajustando, en su caso, la información que corresponda. Lo anterior no liberará a la empresa de realizar una rectificación de su declaración en caso que dicha empresa o terceros hayan entregado información inexacta o fuera de plazo al Servicio, siendo aplicables en ese caso los intereses y multas que correspondan de conformidad a la ley, sin perjuicio de lo establecido en el número 7 de la letra A) de este artículo que resultará aplicable a la Pyme.
-
-Lo dispuesto en esta letra (a) también será aplicable respecto de las Pymes que opten por el régimen del número 8 de esta letra D).
-
-(b) Deberá tributar anualmente con impuesto de primera categoría, con la tasa establecida en el artículo 20 para este tipo de empresas. Serán procedentes todos los créditos que correspondan conforme a las normas de esta ley a las Pymes sujetas a este régimen.
-
-(c) Estará liberada de aplicar la corrección monetaria establecida en el artículo 41.
-
-(d) Depreciará sus activos físicos del activo inmovilizado de manera instantánea e íntegra en el mismo ejercicio comercial en que sean adquiridos o fabricados.
-
-(e) Reconocerá como gasto o egreso, las existencias e insumos del negocio adquiridos o fabricados en el año y no enajenados o utilizados dentro del mismo, según corresponda.
-
-(f) Determinará la base imponible, sumando los ingresos del giro percibidos en el ejercicio y deduciendo los gastos o egresos pagados en el mismo, salvo en operaciones de la Pyme con entidades relacionadas que estén sujetas al régimen de tributación de la letra A) de este artículo, en cuyo caso la Pyme deberá determinar la base imponible y los pagos provisionales computando los ingresos percibidos o devengados y los gastos pagados o adeudados, conforme con las normas generales.
-
-Para la determinación de la base imponible se aplicarán además las siguientes reglas:
-
-(i) Normas especiales respecto de los ingresos.
-
-Para determinar los ingresos provenientes del rescate o enajenación de las inversiones en capitales mobiliarios, o de la enajenación de participaciones a que se refiere la letra c), del número 1.- de esta letra D), o en general, en la enajenación de bienes que no pueden depreciarse conforme a esta ley, se rebajará del ingreso percibido, y en el mismo ejercicio en que ocurra, el valor de la inversión efectivamente realizada, reajustada de acuerdo con la variación del índice de precios al consumidor en el período comprendido entre el mes que antecede al del egreso o inversión y el mes anterior al de su enajenación o rescate, según corresponda.
-
-En ningún caso formarán parte de los ingresos para efectos de determinar la base imponible de la Pyme las rentas percibidas con motivo de participaciones en otras empresas o entidades sujetas a la letra A) de este artículo o al régimen del número 3 de la letra D) de este artículo.
-
-(ii) Normas especiales respecto de los egresos o gastos.
-
-Se entenderá por gastos pagados o egresos aquellas cantidades efectivamente pagadas por concepto de compras, importaciones, prestaciones de servicios, remuneraciones, honorarios, intereses e impuestos que no sean los de esta ley. Asimismo, corresponderá a un egreso o gasto las pérdidas de ejercicios anteriores y los créditos incobrables castigados durante el ejercicio que previamente hayan sido reconocido en forma devengada o por préstamos otorgados por la Pyme.
-
-En el caso de adquisiciones de bienes o servicios pagaderos en cuotas o a plazo, podrán rebajarse sólo aquellas cuotas o parte del precio o valor efectivamente pagado durante el ejercicio correspondiente.
-
-Tratándose de la enajenación o rescate de inversiones en capitales mobiliarios, o en participaciones a que se refiere la letra c), del número 1.- de esta letra D), o en general, en bienes que no pueden depreciarse conforme a esta ley, el egreso respectivo, correspondiente al valor de la inversión efectivamente realizada, se deducirá en el ejercicio en que se perciba el valor de rescate o enajenación, reajustada de acuerdo con la variación del índice de precios al consumidor en el período comprendido entre el mes que antecede al de la inversión y el mes anterior al de su enajenación o rescate, según corresponda.
-
-Para la deducción de los egresos o gastos, aplicará el artículo 31, con las modificaciones que establece este artículo y considerando la naturaleza de Pyme de las empresas acogidas a este régimen.
-
-(g) Estará liberada de mantener y preparar los registros de rentas empresariales establecido en las letras (a), (b) y (c) el número 2 de la letra A) de este artículo, salvo que perciba o genere rentas exentas de los impuestos finales, ingresos no constitutivos de renta o rentas con tributación cumplida. En este último caso, podrá eximirse de esta obligación en caso que las modificaciones de capital, retiros o distribuciones y en general las operaciones que afecten el capital propio o los créditos respectivos se realicen mediante la emisión de documentos tributarios electrónicos según determine el Servicio de Impuestos Internos mediante resolución y de acuerdo a las reglas que se establecen a continuación.
-
-Si la empresa no emitiera los documentos electrónicos respectivos, la Pyme preparará y mantendrá los registros de rentas empresariales a que se refieren las letras (a), (c) y (d) del número 2 de la letra A) de este artículo, para lo cual considerará el capital propio tributario que se determine conforme a la letra (j) del número 3 de esta letra D).
-
-(h) No aplicará un orden de imputación a los retiros, remesas o distribuciones de utilidades si la Pyme no obtiene rentas exentas de los impuestos finales, ingresos no constitutivos de renta o rentas con tributación cumplida que se controlen en el registro REX, gravándose, en ese caso, todo retiro, remesa o distribución con impuestos finales, con derecho al crédito por impuesto de primera categoría, cuando proceda, según lo dispuesto en la letra (i) siguiente.
-
-En los demás casos, para la aplicación de los impuestos finales, los retiros, remesas o distribuciones se imputarán conforme a lo dispuesto en el número 4 de la letra A) de este artículo.
-
-(i) Para efectos de asignar los créditos establecidos en los artículos 56 N° 3, 63 y 41 A, deberán mantener y preparar el registro SAC, conforme a lo dispuesto en la letra
-
-- **d)** del N° 2 de la letra
-
-- **A)** de este artículo, registrando en forma separada los créditos por impuesto de primera categoría sin la obligación de restitución y aquellos con la obligación de restitución. Los créditos con obligación de restitución corresponden a aquellos que, directa o indirectamente, provienen de empresas acogidas al régimen establecido en la letra
-
-- **A)** de este artículo.
-
-La asignación del crédito del registro SAC se realizará conforme a lo dispuesto en el número 5.- de la letra A) de este artículo. En caso que se mantengan registrados créditos por impuesto de primera categoría sin la obligación de restitución y con la obligación de restitución, se asignarán en primer lugar los créditos sin obligación de restitución, y una vez agotados estos, se asignarán los créditos con obligación de restitución.
-
-Para efectos de lo establecido en la letra (h) y en la letra (i) precedentes, podrá aplicarse a la empresa acogida al N° 3 de esta letra D), lo señalado en la letra a) del N° 8 de la letra A), según determine el Servicio de Impuestos Internos mediante resolución.
-
-(j) Reglas especiales para determinar un capital propio tributario simplificado.
-
-Para todos los efectos, la forma de determinación del capital propio tributario, al 1° de enero de cada año, de una Pyme acogida al Régimen Pro Pyme, se realizará determinando la diferencia entre:
-
-- El valor del capital aportado formalizado mediante las disposiciones legales aplicables al tipo de empresa, más las bases imponibles del impuesto de primera categoría determinada cada año, según corresponda, más las rentas percibidas con motivo de participaciones en otras empresas; y,
-
-- El valor de las disminuciones de capital, de las pérdidas, de las partidas del inciso segundo del artículo 21 pagadas y de los retiros y distribuciones efectuadas a los propietarios en cada año.
-
-El capital propio tributario será informado por el Servicio de Impuestos Internos a la empresa, para que proceda a su complementación o rectificación en caso que corresponda, en la forma en que lo establezca mediante resolución.
-
-(k) Reglas especiales para determinar los pagos provisionales mensuales.
-
-Las empresas acogidas al Régimen Pro Pyme efectuarán un pago provisional conforme a lo siguiente:
-
-(i) En el año del inicio de sus actividades, la tasa será de 0,25%.
-
-(ii) Si los ingresos brutos del giro del año anterior no exceden de 50 mil unidades de fomento, se efectuarán con una tasa de 0,25% sobre los ingresos respectivos.
-
-(iii) Si los ingresos brutos del giro del año anterior exceden de 50 mil unidades de fomento, se efectuarán con una tasa de 0,5% sobre los ingresos respectivos.
-
-El saldo anual debidamente reajustado se imputará y podrá ponerse a disposición de los propietarios, según corresponda, de acuerdo a los artículos 93 a 97. El Servicio de Impuestos Internos instruirá la forma de determinación de los pagos provisionales y su puesta a disposición mediante resolución.
-
-4.- Tributación de los propietarios contribuyentes de impuestos finales de la Pyme
-
-Los propietarios de la Pyme quedarán afectos a los impuestos finales, conforme a las reglas establecidas en la letra A) de este artículo, considerando las disposiciones de esta letra D).
-
-5.- Procedimiento para acogerse al Régimen Pro Pyme
-
-Las empresas que cumplan con las condiciones establecidas en el número 1.- de esta letra D), y que no opten por otro régimen al momento de iniciar sus actividades, quedarán acogidas por el solo ministerio de la ley al Régimen Pro Pyme sin necesidad de efectuar una declaración expresa. Lo anterior será informado por el Servicio de Impuestos Internos en el sitio personal del contribuyente al momento del inicio de actividades.
-
-Tratándose de contribuyentes que hayan iniciado actividades en ejercicios anteriores, o respecto de los cuales no haya operado el Régimen Pro Pyme por el ministerio de la ley, la opción de acogerse al mismo se manifestará dando el respectivo aviso al Servicio de Impuestos Internos entre el 1 de enero al 30 de abril del año calendario en que se incorporen al referido régimen, en la forma y plazo que establezca dicho Servicio mediante resolución.
-
-No obstante lo anterior, serán reclasificadas por el Servicio de Impuestos Internos al Régimen Pro Pyme aquellas Pymes que se encuentren sujetas a la letra A) del artículo 14, que al término del año comercial del inicio de sus actividades obtengan ingresos que no excedan de 1.000 unidades de fomento y que cumplan los requisitos que el Servicio establezca mediante resolución. En estos casos el Servicio de Impuestos Internos deberá realizar un aviso en el sitio personal del contribuyente, incluyendo información con las implicancias de este cambio.
-
-6.- Traslado desde el régimen de la letra A) de este artículo al Régimen Pro Pyme
-
-Las empresas sujetas al régimen de la letra A) de este artículo que pasen a estar sujetas al Régimen Pro Pyme, deberán efectuar el siguiente tratamiento a las partidas que a continuación se indican, según los valores contabilizados o saldos al 31 de diciembre del año anterior al ingreso al régimen, sin perjuicio de la tributación que afecte en dicho período a la empresa y a sus propietarios:
-
-(a) Reconocerán como gasto o egreso del primer día del ejercicio sujeto a este régimen los activos fijos depreciables conforme a lo dispuesto en el número 5 o 5 bis del artículo 31, según su valor neto determinado conforme a esta ley.
-
-(b) Reconocerán como gasto o egreso del primer día del ejercicio sujeto a este régimen las existencias e insumos que formen parte del activo realizable.
-
-(c) Considerarán como un gasto o egreso del primer día del ejercicio sujeto a este régimen las pérdidas tributarias determinadas conforme a las disposiciones de esta ley.
-
-(d) No deberán reconocer nuevamente, al momento de su percepción o pago, según corresponda, los ingresos devengados y los gastos adeudados hasta el término del ejercicio inmediatamente anterior al del ingreso al presente régimen, sin perjuicio de la obligación de mantenerlos registrados y controlados.
-
-(e) Registrarán como saldo inicial del registro RAI, el saldo del registro RAI que mantenga al 31 de diciembre del año anterior al de ingreso al régimen.
-
-(f) Registrarán como saldo inicial del registro REX, el saldo del registro REX que mantenga al 31 de diciembre del año anterior al de ingreso al régimen.
-
-(g) Reconocerán como saldo inicial del registro SAC, el saldo acumulado de crédito en el registro SAC al 31 de diciembre del año anterior al ingreso al régimen.
-
-Lo dispuesto en las letras (e) y (f) de este número aplicará sólo en caso que la empresa que ingresa al Régimen Pro Pyme tenga a esa fecha rentas exentas de los impuestos finales, ingresos no constitutivos de renta o rentas con tributación cumplida.
-
-El Servicio de Impuestos Internos mediante resolución señalará la forma de preparar y mantener la información y los registros respectivos.
-
-Las Pymes que ingresen al régimen informarán al Servicio de Impuestos Internos entre el 1 de enero al 30 de abril del año calendario en que se incorporen al mismo, si tuvieren saldos en los registros señalados en las letras (e), (f) y (g), según lo determine el Servicio mediante resolución.
-
-7.- Retiro o exclusión del Régimen Pro Pyme
-
-Las empresas que opten por abandonar el Régimen Pro Pyme o que, por incumplimiento de alguno de los requisitos, deban abandonarlo obligatoriamente, darán aviso al Servicio de Impuestos Internos entre el 1 de enero y el 30 de abril del año comercial en que decidan abandonarlo o del año comercial siguiente a aquel en que ocurra el incumplimiento, según corresponda, en la forma y plazo que establezca el Servicio de Impuestos Internos mediante resolución. En este caso, las empresas quedarán sujetas a las normas de la letra A) de este artículo a contar del día 1 de enero del año comercial del aviso.
-
-Con motivo del cambio de régimen, los ingresos devengados y los gastos adeudados que no hayan sido computados en virtud de las disposiciones de esta letra D) deberán ser reconocidos y deducidos, respectivamente por la empresa, al momento de su incorporación al régimen de la letra A) de este artículo.
-
-Adicionalmente, cuando la empresa decida o deba abandonar el Régimen Pro Pyme y corresponda aplicar el régimen de la letra A) de este artículo, se estará a las siguientes reglas:
-
-(a) Capital propio tributario
-
-Se considerará el valor resultante de lo dispuesto en el capital propio tributario determinado conforme a la letra (j) del número 3.- de este Régimen Pro Pyme.
-
-(b) Valoración del inventario inicial de activos y pasivos
-
-Se deberá preparar un inventario inicial, aplicando las siguientes reglas:
-
-(i) Maquinarias, vehículos, equipos y enseres
-
-Serán valorizados en un peso, los que no quedarán sometidos a las normas del artículo 41 y deberán permanecer en los registros contables hasta la eliminación total del bien motivada por la venta, castigo, retiro u otra causa.
-
-Sin perjuicio de lo anterior, podrá reconocer el valor neto de adquisición reajustado de acuerdo al N° 2 del artículo 41, menos una amortización lineal por el plazo transcurrido entre su adquisición y la fecha de cambio de régimen.
-
-(ii) Materias primas y productos en diferentes estados
-
-Serán valorizados en un peso, los que no quedarán sometidos a las normas del N° 3 del artículo 41 y deberán permanecer en los registros contables hasta la eliminación total del bien motivada por la venta, castigo, retiro u otra causa. Sin perjuicio de lo anterior, podrá reconocer el valor de adquisición o de traspaso de costos o de venta menos el margen de comercialización del respectivo contribuyente, según proceda.
-
-(iii) Bienes raíces
-
-Tratándose de bienes raíces depreciables, éstos serán valorizados en un peso, los que no quedarán sometidos a las normas del artículo 41 y deberán permanecer en los registros contables hasta la eliminación total del bien motivada por la venta, castigo, retiro u otra causa.
-
-(iv) Intangibles tales como marcas, patentes o derechos
-
-El valor de adquisición pagado, o su valor de inscripción a falta de aquel, reajustado de acuerdo a la variación del índice de precios al consumidor entre el mes anterior al desembolso y el mes anterior al cierre del año comercial respectivo.
-
-(v) Bienes no depreciables
-
-Se reconocerá el valor de adquisición, reajustado de acuerdo al N°2 del artículo 41 entre el mes anterior a la adquisición y el mes anterior al cierre del ejercicio respectivo.
-
-(vi) Otros bienes
-
-Los criterios señalados en los literales i), ii), iv) o v) serán aplicables según corresponda a la naturaleza del respectivo bien.
-
-El Servicio de Impuestos Internos podrá definir un criterio aplicable distinto en caso de ser requerido por un contribuyente.
-
-(vii) Los pasivos exigibles se reconocerán según el tipo de obligación de que se trate, sean éstos reajustables, en moneda extranjera o según el reajuste acordado, según corresponda.
-
-Cuando la valorización de los activos que corresponda se realice en un peso o según el valor de adquisición reajustado en caso de bienes no depreciables o intangibles, no procederá efectuar ningún ajuste a los resultados que se obtengan a partir del 1 de enero del año en que se encuentre bajo el régimen de la letra A) de este artículo. En aquellos casos en que se aplique una valorización distinta a la señalada anteriormente en este inciso, se reconocerán los efectos en la determinación del capital propio tributario al término del ejercicio en que se encuentre bajo el régimen de la letra A) de este artículo y procederá en su caso la depreciación normal del artículo 31, sin que se deba reconocer un ingreso tributable por el cambio de régimen.
-
-La incorporación al régimen de la letra A) no podrá generar utilidades o pérdidas distintas a las señaladas en los incisos anteriores, provenientes de partidas que afectaron o debían afectar el resultado de algún ejercicio bajo la aplicación del Régimen Pro Pyme.
-
-(c) Registro de las utilidades acumuladas al cambio de régimen
-
-A contar del capital propio señalado en la letra (a) precedente y del capital efectivamente pagado, deberá determinarse la cantidad o los ajustes a las utilidades pendientes de tributación, a las rentas exentas de los impuestos finales, a los ingresos no constitutivos de renta, a las rentas con tributación cumplida y el crédito de primera categoría que pudiere estar disponible, las que pasarán a formar parte de los saldos iniciales de los registros a que se refiere la letra A) de este artículo. El Servicio establecerá mediante resolución la forma y plazo para dar cumplimiento a estos registros.
-
-8.- Régimen opcional de transparencia tributaria
-
-Las Pymes podrán optar por acogerse a un régimen de transparencia tributaria, en caso que, además de los requisitos establecidos en el número 1 anterior, sus propietarios sean contribuyentes de impuestos finales durante el ejercicio respectivo, incluyendo a los contribuyentes que se encuentren en el tramo exento de impuesto global complementario. Para estos efectos, aquel empresario individual que haya asignado la participación en la Pyme a la contabilidad de la empresa individual deberá igualmente tributar con impuestos finales sobre la base imponible que determine la Pyme, en la forma que señala la letra (b) siguiente.
-
-(a) Tributación de la Pyme en el régimen de transparencia tributaria
-
-La Pyme que opte por el régimen se sujetará a las siguientes reglas:
-
-(i) Quedará liberada del impuesto de primera categoría y sus propietarios se afectarán con impuestos finales sobre la base imponible que determine la empresa, en la forma que señala la letra (b) siguiente.
-
-(ii) Estará liberada, para efectos tributarios, de llevar contabilidad completa, practicar inventarios, confeccionar balances, efectuar depreciaciones, aplicar corrección monetaria conforme con el artículo 41 y llevar los registros de rentas empresariales establecidos en el número 2 de la letra A.
-
-(iii) Realizará el control de los ingresos y egresos de acuerdo al registro electrónico de compras y ventas establecido en el artículo 59 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el decreto ley N° 825 de 1974, salvo en caso que no se encuentre obligada a llevar dicho registro, en que llevará un libro de ingresos y egresos, en el que se registrará el resumen diario, tanto de los ingresos percibidos como devengados que obtenga, así como los egresos pagados o adeudados, según instruya el Servicio de Impuestos Internos mediante resolución.
-
-Adicionalmente, las Pymes acogidas a este régimen deberán llevar un libro de caja que reflejará cronológicamente el resumen diario del flujo de sus ingresos y egresos, según instruya el Servicio de Impuestos Internos mediante resolución.
-
-La Pyme podrá también llevar contabilidad completa, sin que se altere la forma de determinación de sus resultados tributarios conforme a este número 8.
-
-(iv) Determinará la base imponible, aplicando lo establecido en las letras (d), (e) y (f) del número 3, con los siguientes ajustes:
-
-Para efectos de determinar la base imponible, se incluirán todos los ingresos y egresos, sin considerar su fuente u origen ni si se trata de cantidades no afectas o exentas conforme a la ley.
-
-Formarán también parte de los ingresos para efectos de determinar la base imponible, las rentas percibidas con motivo de participaciones en otras empresas o entidades sujetas a la letra A o B del artículo 14 o sujetas al régimen del número 3 de esta letra D).
-
-Estas rentas se incorporarán a la base imponible incrementándose previamente en una cantidad equivalente al crédito por impuesto de primera categoría que establecen los artículos 56 número 3) y 63. Dicho crédito se imputará en contra de los impuestos finales que deban pagar los propietarios en el mismo ejercicio. Para los efectos de su imputación, dicho crédito se reajustará según la variación del índice de precios al consumidor entre el mes anterior al del cierre del ejercicio en que se haya determinado y el mes anterior al cierre del ejercicio de su imputación.
-
-(v) La base imponible se afectará con los impuestos finales en el mismo ejercicio en que se determine, de la que no podrá deducirse ningún crédito o rebaja, salvo los que se establecen en este número 8 y en el artículo 33 bis, no siendo aplicable lo señalado en la letra (i) del número 3 de esta letra D.
-
-El crédito del artículo 33 bis, se imputará a los impuestos finales que afecten a los propietarios, y se asignará en la forma dispuesta en la letra (b) siguiente. Para todos los efectos, este crédito se entenderá que corresponde a un crédito por impuesto de primera categoría y no podrá exceder del monto del impuesto que hubiere gravado a la base imponible que determine la empresa durante el ejercicio si esta hubiere estado afecta.
-
-El Servicio de Impuestos Internos entregará a la empresa la información que tenga a su disposición respecto de los créditos a que se refiere este número (v), para su complementación o rectificación, según determine mediante resolución.
-
-(vi) No aplicará un orden de imputación a los retiros, remesas o distribuciones de utilidades.
-
-(vii) Las Pymes con ingresos que excedan las 50.000 unidades de fomento determinadas en conformidad a la letra (b) del número 1 de esta letra D), y estén sometidas a este régimen opcional de transparencia tributaria, determinarán un capital propio tributario simplificado según la información que dispone el Servicio de Impuestos Internos de acuerdo a lo establecido en la letra (j) del número 3 de la letra D) de este artículo, considerando las disposiciones de esta letra (a).
-
-(viii) Para determinar los pagos provisionales mensuales aplicará lo señalado en la letra (k) del número 3 de esta letra D), aplicando una tasa de 0,2% en el ejercicio de su inicio de actividades, y en los ejercicios posteriores en la medida que los ingresos brutos del giro del año anterior no excedan de 50 mil unidades de fomento.
-
-(b) Tributación de los propietarios de la Pyme acogida a la transparencia tributaria
-
-Los propietarios de la Pyme quedarán afectos a los impuestos finales, conforme a las reglas establecidas en la letra A) de este artículo, considerando las disposiciones de este número 8 de la letra D).
-
-La tributación de los propietarios sobre la base imponible que determine la Pyme corresponderá según la forma que ellos hayan acordado repartir sus utilidades de acuerdo a lo estipulado en el pacto social, los estatutos o, si no son procedentes dichos instrumentos por el tipo de empresa de que se trata, en una escritura pública. En caso que no resulte aplicable lo anterior, la proporción que corresponderá a cada propietario se determinará de acuerdo a la participación en el capital enterado o pagado, y en su defecto, el capital aportado o suscrito. Para el caso de comuneros que no hayan acordado una forma distinta mediante una escritura pública, la proporción se determinará según su cuota en el bien de que se trate.
-
-(c) Procedimiento para acogerse a la transparencia tributaria
-
-Tratándose de contribuyentes que inicien sus actividades, la opción de acogerse al régimen de transparencia tributaria se manifestará hasta el 30 de abril del año calendario siguiente a dicho inicio. En este caso, transcurrido el primer año calendario acogido a este régimen, podrán excepcionalmente optar por abandonarlo a contar del 1 de enero del año calendario siguiente, debiendo avisar tal circunstancia al Servicio de Impuestos Internos entre el 1 de enero y el 30 de abril del año en que se incorporan al régimen de la letra A) o del número 3 de la letra D) de este artículo.
-
-El Servicio de Impuestos Internos informará de la opción del régimen de transparencia tributaria a las empresas que realicen un inicio de actividades.
-
-Tratándose de otros contribuyentes, la opción de acogerse se manifestará dando el respectivo aviso al Servicio de Impuestos Internos entre el 1 de enero al 30 de abril del año calendario en que se incorporen al referido régimen, en la forma y plazo que establezca dicho Servicio mediante resolución.
-
-Para ejercer la opción, los empresarios individuales, las empresas individuales de responsabilidad limitada y los contribuyentes del artículo 58, número 1), deberán presentar al Servicio de Impuestos Internos, en la oportunidad que este señale mediante resolución, una declaración suscrita por la Pyme, en la que contenga la decisión de acogerse a la transparencia tributaria. Tratándose de comunidades, la declaración en que se ejerce el derecho a esta opción deberá ser suscrita por todos los comuneros, quienes deben adoptar por unanimidad dicha decisión. En el caso de sociedades de personas y sociedades por acciones, la opción se ejercerá presentando la declaración suscrita por la sociedad, acompañada de una escritura pública en que conste el acuerdo unánime de todos los socios o accionistas. Tratándose de sociedades anónimas, la opción se ejercerá presentando la declaración suscrita por la sociedad, acompañada de una escritura pública de la junta extraordinaria en que conste el acuerdo de las dos terceras partes de las acciones emitidas con derecho a voto.
-
-(d) Traslado desde el régimen de la letra A) de este artículo o desde el régimen del número 3 de esta letra D) al régimen de transparencia tributaria
-
-Las empresas que opten por ingresar desde el régimen de la letra A) o desde el régimen del número 3 de esta letra D), al régimen de transparencia tributaria, aplicarán lo señalado en el número 6 de esta letra D), con los siguientes ajustes:
-
-(i) No determinarán los registros RAI, REX y SAC, según lo señalan las letras (e), (f) y (g) del número 6 de esta letra D), sin perjuicio de informar el saldo de dichos registros al cierre del año anterior al ingreso al régimen, al Servicio de Impuestos Internos, según lo determine mediante resolución.
-
-(ii) Deberán considerar como un ingreso diferido, las rentas o cantidades que correspondan a la diferencia entre el valor positivo del capital propio tributario y las cantidades que se indican a continuación:
-
-- El monto de los aportes de capital efectivamente pagados o enterados, más los aumentos y descontadas las disminuciones del mismo, todos reajustados según la variación del índice de precios al consumidor entre el mes anterior al aporte, aumento o disminución y el último mes del año anterior al cambio de régimen.
-
-- Las cantidades anotadas en el registro REX, establecido en el número 2 de la letra A) o de acuerdo a la letra (g) del número 3 de la letra D).
-
-El ingreso diferido se computará incrementado en una cantidad equivalente al crédito por impuesto de primera categoría establecido en los artículos 56 número 3) y 63, que mantenga la empresa registrados en el SAC establecido en el número 2 de la letra A) o según la letra (g) del número 3 de la letra D). Tal crédito se imputará a los impuestos finales que deban pagar los propietarios luego de que la empresa se incorpore al régimen de transparencia tributaria. Para tal efecto, el crédito se reajustará según la variación del índice de precios al consumidor entre el mes anterior al cambio de régimen y el mes anterior al término del ejercicio respectivo. En caso de resultar un excedente de crédito, este se imputará contra los impuestos finales en la misma forma en los ejercicios siguientes. Este crédito no dará derecho a devolución, o a imputación contra impuestos distintos a los impuestos finales. Con todo, el crédito que se impute en el ejercicio respectivo, no excederá de la cantidad que se determine al aplicar la tasa efectiva de impuestos finales de cada propietario sobre el ingreso diferido incrementado que les corresponda reconocer en dicho ejercicio.
-
-El Servicio de Impuestos Internos entregará a la empresa la información que tenga a su disposición respecto de los créditos a que se refiere este número (ii), para su complementación o rectificación, según determine mediante resolución.
-
-El ingreso diferido se computará dentro de los ingresos percibidos o devengados del ejercicio respectivo, en un periodo de hasta diez ejercicios comerciales consecutivos, contados desde el ingreso al régimen de transparencia tributaria. Para esos efectos se computará como mínimo una décima parte del ingreso en cada ejercicio, hasta su total computación independientemente que abandonen o no el régimen de transparencia. En caso que la empresa termine sus actividades, aquella parte del ingreso diferido cuyo reconocimiento se encuentre pendiente se computará como un ingreso del ejercicio del término de giro. Para efectos de su cómputo, el ingreso diferido se reajustará de acuerdo a la variación del índice de precios al consumidor entre el mes anterior al cierre del año que precede al de incorporación al régimen y el mes anterior al término del ejercicio en que se compute.
-
-El ingreso diferido no se considerará para efectos del artículo 84 ni para computar el límite de ingresos establecido en la letra (b) del número 1 de esta letra D).
-
-(e) Retiro o exclusión del régimen de transparencia tributaria
-
-Las empresas que opten por abandonar el régimen de transparencia tributaria o que, por incumplimiento de alguno de los requisitos, deban abandonarlo obligatoriamente, les será aplicable lo señalado en el número 7 de esta letra D), cuando pasen al régimen de la letra A). En aquellos casos en que pasen al régimen del número 3 de la letra D), sólo deberán preparar los registros respectivos en los casos que corresponda, y determinar su capital propio tributario conforme con la letra (a) este número 8, sin que se produzcan utilidades o pérdidas, provenientes de partidas que afectaron o debían afectar el resultado de algún ejercicio bajo la aplicación del régimen de transparencia.
-
-Las empresas que se hayan retirado del régimen de transparencia tributaria podrán volver a incorporarse después de transcurridos cinco años comerciales consecutivos acogidos a las reglas de la letra A) o a las del número 3 de la letra D) de este artículo, pudiendo para estos efectos sumar el plazo en cualquiera de dichos regímenes.
-
-(f) Obligación de informar y certificar
-
-Las empresas acogidas al régimen de transparencia tributaria deberán informar anualmente al Servicio de Impuestos Internos y certificar a sus propietarios, en la forma y plazo que el Servicio determine mediante resolución, la base imponible y la parte que le corresponda a los propietarios, el monto de los pagos provisionales y el monto de los créditos que conforme a este régimen le corresponda a cada propietario declarar e imputar, según corresponda al régimen de este número 8, con indicación de aquellos créditos por impuesto de primera categoría con obligación de restitución por provenir, directa o indirectamente, de empresas acogidas al régimen establecido en la letra A) de este artículo.
-
-E) Incentivo al ahorro para empresas con ingresos brutos anuales inferiores a 100.000 unidades de fomento.
-
-Los contribuyentes sujetos a las disposiciones de la letra A) y D) del presente artículo, salvo aquellos acogidos al número 8.- de la referida letra D), cuyo promedio anual de ingresos de su giro no exceda de las 100.000 unidades de fomento en los tres años comerciales anteriores, podrán optar anualmente por efectuar una deducción de la renta líquida imponible afecta al impuesto de primera categoría hasta por un monto equivalente al 50% de la renta líquida imponible que se mantenga invertida en la empresa.
-
-La referida deducción no podrá exceder del equivalente a 5.000 unidades de fomento, según el valor de ésta el último día del año comercial respectivo.
-
-Para los efectos señalados en esta letra, se considerará que la renta líquida imponible que se mantiene invertida en la empresa corresponde a la determinada de acuerdo al Título II de esta ley, descontados los gastos rechazados del inciso segundo del artículo 21 que forma parte de ella y las cantidades retiradas, remesadas o distribuidas en el mismo año comercial, sea que éstas deban gravarse o no con los impuestos de esta ley. Las empresas sujetas a la letra A) de ese artículo deberán reajustar dichas cantidades de acuerdo al inciso final del número 1 del artículo 41.
-
-Para el cálculo del límite de ingresos brutos que establece el párrafo primero de esta letra, las empresas sujetas a la letra
-
-- **A)** de este artículo expresarán los ingresos del ejercicio en unidades de fomento según el valor de ésta en el último día del respectivo ejercicio y la empresa deberá sumar a sus ingresos los obtenidos por sus empresas relacionadas en los términos establecidos en el número 17 del artículo 8 del Código Tributario, de la misma forma señalada en la letra
-
-- **D)** de este artículo. Por su parte, las empresas acogidas a la letra
-
-- **D)** de este artículo, aplicarán lo señalado en la letra (b) del número 1 de dicha letra.
-
-Los contribuyentes deberán ejercer la opción a que se refiere esta letra, dentro del plazo para presentar la declaración anual de impuestos a la renta respectiva, debiendo manifestarlo de manera expresa en la forma que establezca el Servicio mediante resolución.
-
-No podrán invocar el incentivo que establece esta letra las empresas cuyos ingresos provenientes de instrumentos de renta fija y de la posesión o explotación a cualquier título de derechos sociales, cuotas de fondos de inversión, cuotas de fondos mutuos, acciones de sociedades anónimas, contratos de asociación o cuentas en participación, excedan del 20% del total de sus ingresos brutos del ejercicio determinados según lo señalado en el inciso cuarto anterior.
-
-F) Exención de impuesto adicional por ciertos pagos al extranjero.
-
-Los pagos realizados por empresas sujetas a lo establecido en el artículo 14 letra A) o D) cuyo promedio anual de ingresos de su giro no exceda de 100.000 unidades de fomento en los tres años comerciales anteriores a aquel en que se realiza el pago respectivo, por la prestación de servicios de publicidad en el extranjero y el uso y suscripción de plataformas de servicios tecnológicos de internet, a contribuyentes no domiciliados ni residentes en Chile, estarán exentos del impuesto adicional establecido en el número 2 del artículo 59.
-
-Para efectos de determinar los ingresos de su giro, las empresas sujetas a la letra
-
-- **D)** de este artículo aplicarán lo establecido en su letra (b) número 1. Por su parte, las empresas sujetas a la letra
-
-- **A)** de este artículo convertirán sus ingresos del ejercicio según el valor de la unidad de fomento al último día del cierre del año respectivo y deberán aplicar las normas para la letra (b) del número 1 de la letra
-
-- **D)** de este artículo para sumar los resultados de sus empresas o entidades relacionadas.
-
-No obstante, si el contribuyente no domiciliado ni residente en Chile que presta el servicio se encuentran en la circunstancia indicada en la parte final del inciso primero del artículo 59, que se acredite y declare en la forma señalada en dicho inciso, no será procedente la exención y en su reemplazo aplicará una tasa de impuesto adicional de 20%.
-
-G) Contribuyentes no sujetos al artículo 14.
-
-Las disposiciones de este artículo no resultan aplicables a aquellos contribuyentes que, no obstante obtener rentas afectas al impuesto de primera categoría, carecen de un vínculo directo o indirecto con personas que tengan la calidad de propietarios y que resulten gravados con los impuestos finales, tales como las fundaciones y corporaciones reguladas en el Título XXXIII, del Libro I del Código Civil, y de las empresas en que el Estado tenga la totalidad de su propiedad. No obstante, las cooperativas, y todo contribuyente, podrán aplicar este artículo debiendo en ese caso cumplir con todas sus disposiciones.
-
-H) Definiciones.
-
-Para los efectos de este artículo y de las normas relacionadas con él, se entenderá por:
-
-a) Empresa: la empresa individual, la empresa individual de responsabilidad limitada, los contribuyentes del artículo 38, las comunidades, las sociedades de personas, sociedades por acciones y sociedades anónimas, según corresponda.
-
-b) Propietarios: el titular de la empresa individual o empresa individual de responsabilidad limitada, el contribuyente del artículo 58 número 1), el socio, accionista o comunero. También se considerará propietarios a los usufructuarios de dichos derechos o acciones, cuando corresponda.
-
-c) Renta con tributación cumplida: rentas o cantidades que fueron gravadas con los impuestos a la renta contenidos en esta u otras leyes, sin que tengan pendiente tributación con impuestos finales.
-
-> **Nota.** El artículo 10 de la ley 21681, publicada el 01.07.2024, dispone que los contribuyentes sujetos al impuesto de primera categoría sobre la base de un balance general según contabilidad completa, sujetos al régimen de la letra A) del presente artículo, que al término del año comercial 2023 mantengan un saldo de utilidades tributables acumuladas contenidas en el registro de rentas afectas a impuestos (RAI) a contar del 1 de enero de 2017, las que incluyen las utilidades tributables acumuladas que hayan sido generadas hasta el 31 de diciembre de 2016, a que se refiere el párrafo segundo del numeral i), letra a), número 1, del numeral I del artículo tercero transitorio de la ley Nº 20.780, podrán optar por pagar a título de impuesto de la Ley sobre Impuesto a la Renta, un tributo sustitutivo de los impuestos finales con tasa de 12%, sobre una parte o el total de dicho saldo, sin derecho a los créditos contenidos en el registro SAC o saldo acumulado de créditos del presente artículo. Para estos efectos, se deberán aplicar las normas que indica la citada ley.
-
-> **Nota.** NOTA 1 El artículo 11 de la ley 21681, publicada el 01.07.2024, dispone que los contribuyentes sujetos al impuesto de primera categoría sobre la base de un balance general según contabilidad completa, sujetos al régimen del número 3 de la letra D) del presente artículo, que al término del año comercial 2023 mantengan un saldo de utilidades tributables acumuladas contenidas en el registro de rentas afectas a impuestos (RAI) a contar del 1 de enero de 2017, las que incluyen las utilidades tributables acumuladas que hayan sido generadas hasta el 31 de diciembre de 2016, a que se refiere el párrafo segundo del numeral i), letra a), número 1, del numeral I del artículo tercero transitorio de la ley Nº 20.780, podrán optar por pagar a título de impuesto de la Ley sobre Impuesto a la Renta, un tributo sustitutivo de los impuestos finales con tasa de 30%, sobre una parte o el total de dicho saldo. Para estos efectos, se deberán aplicar las normas que indica la citada ley.
-
-#### Artículo 14° bis
-
-Derogado.
-
-#### Artículo 14° ter
-
-Derogado.
-
-#### Artículo 14° quáter
-
-Derogado.
-
-#### Artículo 15°
-
-Para determinar los impuestos establecidos por esta ley, los ingresos se imputarán al ejercicio en que hayan sido devengados o percibidos, de acuerdo con las normas pertinentes de esta ley y del Código Tributario.
-
-Cuando con motivo de la fusión de sociedades, comprendiéndose dentro de este concepto la reunión del total de los derechos o acciones de una sociedad en manos de una misma persona, el valor de la inversión total realizada en derechos o acciones de la sociedad fusionada, resulte menor al valor total o proporcional, según corresponda, que tenga el capital propio de la sociedad absorbida, determinado de acuerdo al artículo 41 de esta ley, la diferencia que se produzca deberá, en primer término, distribuirse entre todos los activos no monetarios que se reciben con motivo de la fusión cuyo valor tributario sea superior al corriente en plaza. La distribución se efectuará en la proporción que represente el valor corriente en plaza de cada uno de dichos bienes sobre el total de ellos, disminuyéndose el valor tributario de éstos hasta concurrencia de su valor corriente en plaza o de los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación. De subsistir la diferencia o una parte de ella, ésta se considerará como un ingreso diferido y se imputará por el contribuyente dentro de sus ingresos brutos en un lapso de hasta diez ejercicios comerciales consecutivos contados desde aquel en que éste se generó, incorporando como mínimo un décimo de dicho ingreso en cada ejercicio, hasta su total imputación.
-
-Si el contribuyente pone término al giro de sus actividades, aquella parte del ingreso diferido cuyo reconocimiento se encuentre pendiente, deberá agregarse a los ingresos del ejercicio del término de giro. El valor de adquisición de los derechos o acciones a que se refiere el inciso anterior, para determinar la citada diferencia, deberá reajustarse según el porcentaje de variación del Índice de Precios al Consumidor entre el mes anterior al de la adquisición de los mismos y el mes anterior al del balance correspondiente al ejercicio anterior a aquel en que se produce la fusión.
-
-Para los efectos de su imputación, el ingreso diferido que se haya producido durante el ejercicio, se reajustará de acuerdo con el porcentaje de variación experimentado por el Índice de Precios al Consumidor, en el período comprendido entre el mes anterior a aquel en que se produjo la fusión de la respectiva sociedad y el último día del mes anterior al del balance. Por su parte, el saldo del ingreso diferido por imputar en los ejercicios siguientes, se reajustará de acuerdo al porcentaje de variación del Índice de Precios al Consumidor en el período comprendido entre el mes anterior al del cierre del ejercicio anterior y el mes anterior al del balance.
-
-Conforme a lo dispuesto en el artículo 64 del Código Tributario, el Servicio podrá tasar fundadamente los valores determinados por el contribuyente. La diferencia que se determine en virtud de la referida tasación, se considerará como un ingreso del ejercicio en que se produce la fusión.
-
-Tratándose de los contratos de construcción de obras de uso público cuyo precio se pague con la concesión temporal de la explotación de la obra, el ingreso respectivo se entenderá devengado en el ejercicio en que se inicie su explotación y será equivalente al costo de construcción de la misma, representado por las partidas y desembolsos que digan relación a la construcción de ella, tales como mano de obra, materiales, utilización de servicios, gastos financieros y subcontratación por administración o suma alzada de la construcción de la totalidad o parte de la obra.
-
-Si la construcción la realiza el concesionario por cesión, el ingreso respectivo se entenderá devengado en el ejercicio señalado en el inciso anterior y será equivalente al costo de construcción en que efectivamente hubiere incurrido el cesionario. A dicho costo deberá adicionarse el valor de adquisición de la concesión.
-
-El ingreso bruto por concepto de los servicios de conservación, reparación y explotación de la obra dada en concesión se entenderá devengado en la fecha de su percepción y será equivalente a la diferencia que resulte de restar al ingreso total anual percibido por concepto de la explotación de la concesión, la cantidad que resulte de dividir el costo de construcción de la obra, descontados los eventuales subsidios estatales, por el número de meses que medie entre la puesta en servicio de la obra y el término de la concesión, multiplicada por el número de meses del ejercicio respectivo. Dicho plazo podrá, alternativamente y a elección del concesionario, ser reducido a un tercio. No se considerará ingreso el subsidio pagado por el concedente al concesionario original o al concesionario por cesión, como aporte a la construcción de la obra. No obstante, dicho ingreso deberá documentarse en la forma que señale el Director del Servicio de Impuestos Internos.
-
-En el caso de que los servicios señalados en el inciso anterior sean prestados por el concesionario por cesión, el ingreso bruto se entenderá devengado en la fecha de su percepción. Dicho ingreso será equivalente a la diferencia que resulte de restar al ingreso total anual percibido por concepto de la explotación de la concesión, la cantidad que resulte de dividir el valor de adquisición de la concesión de explotación por el número de meses que medie entre la fecha de cesión de la concesión y el término de ésta, multiplicada por el número de meses del ejercicio respectivo. Dicho plazo podrá, alternativamente y a elección del concesionario, ser reducido a un tercio.
-
-Si la concesión hubiere sido adquirida por cesión antes del término de la construcción, el ingreso por los servicios de conservación, reparación y explotación será equivalente a la diferencia que resulte de restar al ingreso total anual percibido por concepto de la explotación de la concesión, la cantidad que resulte de dividir el costo total de la obra por el número de meses que medie entre la fecha de la puesta en servicio de la obra y el término de la concesión, multiplicada por el número de meses del ejercicio respectivo. Dicho plazo podrá, alternativamente y a elección del concesionario, ser reducido a un tercio. Para estos efectos, el costo total de la obra será equivalente al costo de construcción en que efectivamente hubiere incurrido el concesionario por cesión más el valor de adquisición de la concesión de explotación.
+El contribuyente no podrá oponer excepción de prescripción en contra de la liquidación correspondiente a dicho ajuste final, en razón de haberse imputado rentas a un período diferente a aquél en que los ingresos se percibieron, sin perjuicio de que empiecen a correr los plazos de prescripción, de acuerdo con las reglas generales, desde que se notifique la liquidación mencionada.
 
 #### Artículo 16°
 
 Para los efectos del artículo 27 del Código Tributario, tratándose de la venta separada de bienes muebles e inmuebles de un establecimiento afecto a las disposiciones de la Categoría Primera de esta ley, se considerará como una sola operación la enajenación de estos bienes efectuada en el lapso de un año.
 
-#### Artículo 17°
+#### Artículo 17
 
-No constituye renta:
+o- No constituye renta:
 
-1°.- La indemnización de cualquier daño emergente y del daño moral, siempre que la indemnización por este último haya sido establecida por sentencia ejecutoriada. Tratándose de bienes susceptibles de depreciación, la indemnización percibida hasta concurrencia del valor inicial del bien reajustado de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor entre el último día del mes que antecede al de la adquisición del bien y el último día del mes anterior a aquél en que haya ocurrido el siniestro que da origen a la indemnización.
+1.o- La indemnización de cualquier daño emergente y del daño moral, siempre que la indemnización por este último haya sido establecida por sentencia ejecutoriada. Tratándose de bienes susceptibles de depreciación, la indemnización percibida hasta concurrencia del valor inicial del bien reajustado de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor entre el segundo mes que antecede al de adquisición del bien y el segundo mes anterior a aquél en que haya ocurrido el siniestro que da origen a la indemnización.
 
 Lo dispuesto en este número no regirá respecto de la indemnización del daño emergente en el caso de bienes incorporados al giro de un negocio, empresa o actividad, cuyas rentas efectivas deban tributar con el impuesto de la Primera Categoría, sin perjuicio de la deducción como gasto de dicho daño emergente.
 
-2°.- Las indemnizaciones por accidentes del trabajo, sea que consistan en sumas fijas, rentas o pensiones.
+2.o- Las indemnizaciones por accidentes del trabajo, sea que consistan en sumas fijas, rentas o pensiones.
 
-3°.- Las sumas percibidas por el beneficiario o asegurado en cumplimiento de contratos de seguros de vida, seguros de desgravamen, seguros dotales o seguros de rentas vitalicias durante la vigencia del contrato, al vencimiento del plazo estipulado en él o al tiempo de su transferencia o liquidación. Sin embargo, la exención contenida en este número no comprende las rentas provenientes de contratos de seguros de renta vitalicia convenidos con los fondos capitalizados en Administradoras de Fondos de Pensiones, en conformidad a lo dispuesto en el Decreto Ley N° 3.500, de 1980.
+3.o- Las sumas percibidas por el beneficiario o asegurado en cumplimiento de contratos de seguros de vida, seguros de desgravamen, seguros dotales o seguros de rentas vitalicias durante la vigencia del contrato, al vencimiento del plazo estipulado en él o al tiempo de su transferencia o liquidación.
 
-Lo dispuesto en este número se aplicará también a aquellas cantidades que se perciban en cumplimiento de un seguro dotal por el mero hecho de cumplirse el plazo estipulado, siempre que dicho plazo sea superior a cinco años, pero sólo por aquella parte que no exceda anualmente de diecisiete unidades tributarias mensuales, según el valor de dicha unidad al 31 de diciembre del año en que se perciba el ingreso, considerando cada año que medie desde la celebración del contrato y el año en que se perciba el ingreso y el conjunto de los seguros dotales contratados por el perceptor. Para determinar la renta correspondiente se deducirá del monto percibido, acrecentado por todas las sumas percibidas con cargo al conjunto de seguros dotales contratados por el contribuyente debidamente reajustadas según la variación del índice de precios al consumidor ocurrida entre el primero del mes anterior a la percepción y el primero del mes anterior al término del año respectivo, aquella parte de los ingresos percibidos anteriormente que se afectaron con los impuestos de esta ley y el total de la prima pagada a la fecha de percepción del ingreso, reajustados en la forma señalada. Si de la operación anterior resultare un saldo positivo, la compañía de seguros que efectúe el pago deberá retener un 15% de dicho saldo, retención que se sujetará, en lo que corresponda, a lo dispuesto en el Párrafo 2º del Título V de esta ley. Con todo, se considerará renta toda cantidad percibida con cargo a un seguro dotal, cuando no hubiere fallecido el asegurado, o se hubiere invalidado totalmente, si el monto pagado por concepto de prima hubiere sido rebajado de la base imponible del impuesto establecido en el artículo 43º.
+4.o- Las sumas percibidas por los beneficiarios de pensiones o rentas vitalicias derivadas de contratos que, sin cumplir con los requisitos establecidos en el Párrafo 2° del Título XXXIII del libro IV del Código Civil, hayan sido o sean convenidos con sociedades anónimas chilenas, cuyo objeto social sea el de constituir pensiones o rentas vitalicias, siempre que el monto mensual de las pensiones o rentas mencionadas no sea, en conjunto, respecto del beneficiario, superior a un cuarto de una unidad tributaria.
 
-4°.- Las sumas percibidas por los beneficiarios de pensiones o rentas vitalicias derivadas de contratos que, sin cumplir con los requisitos establecidos en el Párrafo 2° del título XXXIII del Libro IV del Código Civil, hayan sido o sean convenidos con sociedades anónimas chilenas, cuyo objeto social sea el de constituir pensiones o rentas vitalicias, siempre que el monto mensual de las pensiones o rentas mencionadas no sea, en conjunto, respecto del beneficiario, superior a un cuarto de una unidad tributaria.
+5.o- El valor de los aportes recibidos por sociedades, sólo respecto de éstas, y el sobreprecio obtenido por sociedades anónimas en la colocación de acciones de su propia emisión. Tampoco constituirán renta las sumas o bienes que tengan el carácter de aportes entregados por el asociado al gestor de una cuenta en participación, sólo respecto de la asociación, y siempre que fueren acreditados fehacientemente.
 
-5°.- El valor de los aportes recibidos por sociedades y sus reajustes, sólo respecto de éstas.
+6.o- La distribución de utilidades o de fondos acumulados que las sociedades anónimas hagan a sus accionistas en forma de acciones total o parcialmente liberadas o mediante el aumento del valor nominal de las acciones, todo ello representativo de una capitalización equivalente.
 
-Tampoco constituirá renta el mayor valor o sobreprecio y sus reajustes obtenidos por sociedades anónimas en la colocación de acciones de su propia emisión, los que se considerarán capital respecto de la sociedad. Asimismo, no constituirán renta las sumas o bienes que tengan el carácter de aportes entregados por el asociado al gestor de una cuenta en participación, sólo respecto de la asociación, y siempre que fueren acreditados fehacientemente.
+7.o- Las devoluciones de capitales sociales, los reajustes de éstos, efectuados en conformidad a esta ley o las leyes anteriores, sin perjuicio de lo dispuesto en el N° 1 del artículo 54, y en el N° 2 del artículo 58.
 
-6°.- La distribución de utilidades o de fondos acumulados que las sociedades anónimas hagan a sus accionistas en forma de acciones total o parcialmente liberadas o mediante el aumento del valor nominal de las acciones, todo ello representativo de una capitalización equivalente, como así también, la parte de los dividendos que provengan de los ingresos a que se refiere este artículo, sin perjuicio de lo dispuesto en el artículo 29 respecto de los números 25 y 28 del presente artículo.
+8.o- El mayor valor, incluido el reajuste del saldo de precio, obtenido en las siguientes operaciones, sin perjuicio de lo dispuesto en el artículo 18:
 
-Las acciones totalmente liberadas a que refiere el párrafo anterior, no tendrán valor de adquisición en su futura enajenación y el mayor valor obtenido en la misma no se beneficiará con la tributación contemplada en el artículo 107. Tratándose de acciones parcialmente liberadas o de acciones que aumentaron su valor nominal, no formará parte del valor de adquisición de las mismas aquella parte liberada o aquella en que aumentó su valor nominal, respectivamente, no siendo procedente en dicha parte la tributación contemplada en el artículo 107 respecto del mayor valor obtenido en su enajenación.
+a) Enajenación o cesión de acciones de sociedades anónimas;
 
-7°.- Las devoluciones de capital, hasta el valor de aporte o de adquisición de su participación, y sus reajustes, siempre que no correspondan a utilidades capitalizadas que deban pagar los impuestos de esta ley. Las sumas retiradas, remesadas o distribuidas por estos conceptos se imputarán y afectarán con los impuestos de primera categoría, global complementario o adicional, según corresponda, en la forma dispuesta por el artículo 14.
+b) Enajenación de bienes raíces, excepto aquéllos que forman parte del activo inmovilizado de empresas obligadas a declarar su renta efectiva en la primera categoría;
 
-8°.- Las cantidades que se señalan a continuación, obtenidas por personas naturales, siempre que no se originen en la enajenación de bienes asignados a su empresa individual, con las excepciones y en los casos y condiciones que se indican en los párrafos siguientes:
+c) Enajenación de pertenencias mineras;
 
-a) Enajenación o cesión de acciones de sociedades anónimas, en comandita por acciones o de derechos sociales en sociedades de personas.
+d) Enajenación de derechos de agua efectuada por personas que no sean contribuyentes obligados a declarar su renta efectiva en la Primera Categoría;
 
-i) No constituirá renta aquella parte que se obtenga hasta la concurrencia del costo tributario del bien respectivo, esto es, aquel conformado por su valor de aporte o adquisición, incrementado o disminuido, según el caso, por los aumentos o disminuciones de capital posteriores efectuados por el enajenante, debidamente reajustados de acuerdo al porcentaje de variación experimentado por el índice de precios al consumidor entre el mes anterior al de adquisición, aporte, aumento o disminución de capital, y el mes anterior al de la enajenación.
+e) Enajenación del derecho de propiedad intelectual o industrial, en caso que dicha enajenación sea efectuada por el inventor o autor;
 
-ii) Para determinar el mayor valor que resulte de la enajenación, se deducirá del precio o valor asignado a dicha enajenación, el costo tributario del bien respectivo.
+f) Adjudicación de bienes en partición de herencia y a favor de uno o más herederos del causante, de uno o más herederos de éstos, o de los cesionarios de ellos;
 
-iii) Del mayor valor así determinado deberán deducirse las pérdidas provenientes de la enajenación de los bienes señalados en esta letra, obtenidas en el mismo ejercicio. Para estos efectos, dichas pérdidas se reajustarán de acuerdo con el porcentaje de variación del índice de precios al consumidor en el período comprendido entre el mes anterior al de la enajenación que produjo esas pérdidas y el mes anterior al del cierre del ejercicio. En todo caso, para que proceda esta deducción, dichas pérdidas deberán acreditarse fehacientemente ante el Servicio.
+g) Adjudicación de bienes en liquidación de sociedad conyugal a favor de cualquiera de los cónyuges o de uno o más de sus herederos, o de los cesionarios de ambos;
 
-iv) El mayor valor que se determine conforme a los literales anteriores, se afectará con impuestos finales en base percibida.
+h) Enajenación de acciones y derechos en una sociedad contractual minera, que no sea anónima, constituida exclusivamente para explotar determinadas pertenencias, siempre que quien enajena haya adquirido sus derechos antes de la inscripción del acta de mensura o dentro de los 5 años siguientes a dicha inscripción y que la enajenación se efectúe antes de transcurrido 8 años, contados desde la inscripción del acta de mensura;
 
-v) Sin perjuicio de lo anterior, el impuesto global complementario podrá declararse y pagarse sobre la base de renta devengada, en cuyo caso podrán aplicarse las siguientes reglas:
+i) Enajenación de derechos o cuotas respecto de bienes raíces poseídos en comunidad;
 
-El mayor valor referido se entenderá devengado durante el período de años comerciales en que las acciones o derechos sociales que se enajenan han estado en poder del enajenante, hasta un máximo de diez años, en caso de ser superior a éste, y aun cuando en dichos años el enajenante no hubiere obtenido rentas afectas al señalado impuesto o las obtenidas hubieren quedado exentas del mismo. Para tal efecto, las fracciones de años se considerarán como un año completo.
+j) Enajenación de bonos y debentures.
 
-La cantidad correspondiente a cada año se obtendrá de dividir el total del mayor valor obtenido, reajustado en la forma indicada en el párrafo siguiente, por el número de años de tenencia de las acciones o derechos sociales, con un máximo de diez.
+En los casos señalados en las letras c), d), e), h) y j), no constituirá renta sólo aquella parte del mayor valor que se obtenga hasta la concurrencia de la cantidad que resulte de aplicar al valor de adquisición del bien respectivo el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes anterior al de la adquisición y el segundo mes anterior al de la enajenación, todo ello sin perjuicio de lo dispuesto en el artículo 18. Por fecha de enajenación se entenderá la del respectivo contrato, instrumento u operación.
 
-Para los efectos de realizar la declaración anual, respecto del citado mayor valor serán aplicables las normas sobre reajustabilidad del número 4º del artículo 33, y no se aplicará en ningún período la exención establecida en el artículo 57.
+La parte del mayor valor que exceda de la cantidad referida en el inciso anterior se gravará con el impuesto de primera categoría en el carácter de impuesto único a la renta, a menos que operen las normas sobre habitualidad a que se refiere el artículo 18.
 
-Las cantidades reajustadas correspondientes a cada año se convertirán a unidades tributarias mensuales, según el valor de esta unidad en el mes de diciembre del año en que haya tenido lugar la enajenación, y se ubicarán en los años en que se devengaron, con el objeto de liquidar el impuesto global complementario de acuerdo con las normas vigentes y según el valor de la citada unidad en el mes de diciembre de los años respectivos.
+9.°- La adquisición de bienes de acuerdo con los párrafos 2° y 4° del Título V del Libro II del Código Civil, o por prescripción, sucesión por causa de muerte o donación.
 
-Las diferencias de impuestos o reintegros de devoluciones que se determinen por aplicación de las reglas anteriores, según corresponda, se expresarán en unidades tributarias mensuales del año respectivo y se solucionarán en el equivalente de dichas unidades en el mes de diciembre del año en que haya tenido lugar la enajenación.
+10.°- Los beneficios que obtiene el deudor de una renta vitalicia por el mero hecho de cumplirse la condición que le pone término o disminuye su obligación de pago, como también el incremento del patrimonio derivado del cumplimiento de una condición o de un plazo suspensivo de un derecho, en el caso de fideicomiso y del usufructo.
 
-El impuesto que resulte de la reliquidación establecida precedentemente se deberá declarar y pagar en el año tributario que corresponda al año calendario o comercial en que haya tenido lugar la enajenación.
+11.°- Las cuotas que eroguen los asociados.
 
-La reliquidación del impuesto global complementario conforme con los párrafos anteriores en ningún caso implicará modificar las declaraciones de impuesto a la renta correspondientes a los años comerciales que se tomaron en consideración para efectos del cálculo de dicho impuesto.
+12.°- El mayor valor que se obtenga en la enajenación ocasional de bienes muebles de uso personal del contribuyente o de todos o algunos de los objetos que forman parte del mobiliario de su casa habitación.
 
-vi) Cuando el conjunto de los resultados determinados en la enajenación de los bienes a que se refieren las letras a), c) y d) de este número, no exceda del equivalente a 10 unidades tributarias anuales, según su valor al cierre del ejercicio en que haya tenido lugar la enajenación, se considerarán para los efectos de esta ley como un ingreso no constitutivo de renta. En caso que excedan dicha suma, los respectivos mayores valores se afectarán con la tributación que corresponda.
+13°.- La asignación familiar, los beneficios previsionales y la indemnización por desahucio o retiro, ya sea que esta última se encuentre establecida en la ley o en un convenio o contrato colectivos, todo ello, sin perjuicio del impuesto que corresponda por las pensiones, jubilaciones y rentas análogas. Tampoco constituirá renta la indemnización establecida en un contrato individual y/o la pagada voluntariamente, sólo por aquella parte que, en conjunto con la indemnización legal, no exceda de la que tienen derecho los empleados civiles de la administración pública, considerando los años de servicio o trabajo y el monto de la remuneración mensual imponible, y siempre que el beneficiario no tenga derecho a otra indemnización similar establecida en un contrato o convenio colectivos.
 
-b) Enajenación de bienes raíces situados en Chile, o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad.
+14.°- La alimentación o alojamiento proporcionado al empleado u obrero sólo en el interés del empleador o patrón, o la cantidad que se pague en dinero por esta misma causa, siempre que sea razonable a juicio del Director Regional.
 
-i) Se aplicarán, en lo que fuesen pertinentes, las reglas señaladas en los literales ii) y iii), de la letra a) anterior. No obstante, para efectos de esta letra b), el costo tributario también estará conformado por el valor de adquisición del bien respectivo y los desembolsos incurridos en mejoras que hayan aumentado su valor, reajustados de acuerdo a la variación del índice de precios al consumidor entre el mes anterior al de la adquisición o mejora, según corresponda, y el mes anterior a la enajenación. Las referidas mejoras deberán haber sido efectuadas por el enajenante o un tercero, siempre que hayan pasado a formar parte de la propiedad del enajenante, y declaradas en la oportunidad que corresponda ante el Servicio, en la forma que establezca mediante resolución, para ser incorporadas en la determinación del avalúo fiscal de la respectiva propiedad para los fines del impuesto territorial, con anterioridad a la enajenación.
+15.°- Las asignaciones de traslación y viáticos, a juicio del Director Regional.
 
-ii) No constituirá renta, asimismo, aquella parte del mayor valor que no exceda, independiente del número de enajenaciones realizadas o del número de bienes raíces de propiedad del contribuyente, la suma total equivalente a 8.000 unidades de fomento. Para el cómputo del valor de ésta, se utilizará el valor de la unidad de fomento que corresponda al último día del ejercicio en que tuvo lugar la enajenación respectiva. El Servicio mantendrá a disposición de los contribuyentes los antecedentes de que disponga sobre las enajenaciones que realicen para efectos de computar el límite señalado.
+16.°- Las sumas percibidas por concepto de gastos de representación siempre que dichos gastos estén determinados legalmente o sean razonables, a juicio del Director.
 
-iii) En caso que el mayor valor referido exceda en todo o en parte el límite del ingreso no constitutivo de renta anterior, se gravará dicho exceso con el impuesto global complementario o adicional, según corresponda, o bien, tratándose de personas naturales con domicilio o residencia en Chile, con un impuesto único y sustitutivo de 10%, a elección del enajenante, en ambos casos sobre la base de renta percibida.
+17.°- Las pensiones o jubilaciones de fuente extranjera.
 
-iv) Lo establecido en los números ii) y iii) precedentes aplicará siempre que entre la fecha de adquisición y enajenación del bien raíz transcurra un plazo que exceda de un año. No obstante, dicho plazo será de cuatro años en caso de una enajenación de un bien raíz producto de una subdivisión de terrenos, urbanos o rurales, o derivado de la construcción de edificios por pisos o departamentos, incluyendo en este caso las bodegas y los estacionamientos, el que se contará desde la adquisición o la construcción, según corresponda.
+18.°- Las cantidades percibidas o los gastos pagados con motivo de becas de estudio.
 
-v) Sin perjuicio de lo anterior, el impuesto global complementario que corresponda conforme a los números precedentes podrá declararse y pagarse sobre la base de la renta devengada, en cuyo caso podrán aplicarse las reglas dispuestas en el literal v), de la letra a) anterior.
+19.°- Las pensiones alimenticias que se deben por ley a determinadas personas, únicamente respecto de éstas.
 
-vi) En la enajenación de los bienes referidos, adquiridos por sucesión por causa de muerte, el enajenante podrá deducir, en la proporción que le corresponda, como crédito en contra del impuesto respectivo, el impuesto sobre las asignaciones por causa de muerte de la ley número 16.271 pagado sobre dichos bienes. El monto del crédito corresponderá a la suma equivalente que resulte de aplicar al valor del impuesto efectivamente pagado por el asignatario, la proporción que se determine entre el valor del bien raíz respectivo que se haya considerado para el cálculo del impuesto y el valor líquido del total de las asignaciones que le hubieren correspondido al enajenante de acuerdo a la ley. El monto del crédito a que tenga derecho el enajenante, se determinará al término del ejercicio en que se efectúe la enajenación, y para ello el valor del impuesto sobre las asignaciones por causa de muerte, el valor del bien y de las asignaciones líquidas que le hubieren correspondido al enajenante, se reajustarán de acuerdo a la variación del índice de precios al consumidor entre el mes anterior a la fecha de pago del referido impuesto y el mes anterior al término del ejercicio en que se efectúa la enajenación.
+20.°- La constitución de la propiedad intelectual, como también la constitución de los derechos que se originen de acuerdo a los Títulos III, IV, V y VI del Código Minería y su artículo 72, sin perjuicio de los beneficios que se obtengan de dichos bienes.
 
-c) Enajenación de pertenencias mineras y derechos de aguas. Para determinar el mayor valor obtenido en la enajenación de dichos bienes y el ingreso no constitutivo de renta, se aplicarán, en lo que fuesen pertinentes, las reglas establecidas en los literales i), ii), iii) y vi) de la letra a) anterior. En el evento que proceda gravar el mayor valor determinado, este se afectará con los impuestos global complementario o adicional, según corresponda, sobre la base de la renta percibida.
+21.o- El hecho de obtener de la autoridad correspondiente una merced, una concesión o un permiso fiscal o municipal.
 
-d) Enajenación de bonos y demás títulos de deuda. Para determinar el mayor valor obtenido en la enajenación de dichos bienes y el ingreso no constitutivo de renta, se aplicarán, en lo que fuesen pertinentes, las reglas establecidas en los literales i), ii), iii) y vi) de la letra a) anterior. Sin embargo, en este caso, el valor de adquisición deberá disminuirse con las amortizaciones de capital recibidas por el enajenante, reajustadas de acuerdo al porcentaje de variación del índice de precios al consumidor entre el mes anterior a la amortización y el mes anterior a la enajenación. En el evento que proceda gravar el mayor valor determinado, este se afectará con los impuestos global complementario o adicional, según corresponda, sobre la base de renta percibida.
+22.o- Las remisiones, por ley, de deudas, intereses u otras sanciones.
 
-e) Enajenación del derecho de propiedad intelectual o industrial. No constituye renta el mayor valor obtenido en su enajenación, siempre que el enajenante sea el respectivo inventor o autor.
+23.o- Los premios otorgados por el Estado o las Municipalidades, por la Universidad de Chile, por la Universidad Técnica del Estado, por una Universidad reconocida por el Estado, por una corporación o fundación de derechos público o privado, o por alguna otra persona o personas designadas por ley, siempre que se trate de galardones establecidos de un modo permanente en beneficio de estudios, investigaciones y creaciones de ciencia o de arte, y que la persona agraciada no tenga la calidad de empleado u obrero de la entidad que lo otorga.
 
-f) No constituye renta la adjudicación de bienes en la partición de una comunidad hereditaria y a favor de uno o más herederos del causante, de uno o más herederos de éstos, o de los cesionarios de ellos, ya sea que se trate de personas naturales o no. El valor de adquisición para fines tributarios de los bienes que se le adjudiquen corresponderá al valor que se haya considerado para los fines del impuesto a las herencias en relación al bien de que se trate, reajustado de acuerdo a la variación del índice de precios al consumidor entre el mes anterior al de la apertura de la sucesión y el mes anterior al de la adjudicación.
+24.o- Los premios de rifas de beneficencia autorizadas previamente por decreto supremo.
 
-g) No constituye renta la adjudicación de bienes que se efectúe en favor del propietario, comunero, socio o accionista, se trate de una persona natural o no, con ocasión de la liquidación o disolución de una empresa o sociedad, en tanto, la suma de los valores tributarios del total de los bienes que se le adjudiquen, no exceda del capital que haya aportado a la empresa, determinado en conformidad al número 7º.- de este artículo, más las rentas o cantidades que le correspondan en la misma y que se hayan considerado para efectos de la aplicación en el artículo 38 bis, al término de giro. El valor de adquisición de los bienes que se le adjudiquen corresponderá a aquel que haya registrado la empresa o sociedad de acuerdo a las normas de la presente ley al término de giro, conforme a lo establecido en el referido artículo 38 bis.
+25.o- Los reajustes y amortizaciones de bonos, pagarés y otros títulos de créditos emitidos por cuenta o con garantía del Estado y los emitidos por cuenta de instituciones, empresas y organismos autónomos del Estado y las Municipalidades; los reajustes y las amortizaciones de los bonos o letras hipotecarias emitidos por instituciones de crédito hipotecario; los reajustes de depósitos de ahorro en el Banco del Estado de Chile, en la Corporación de la Vivienda, y en las Asociaciones de Ahorro y Préstamos; los reajustes de los certificados de ahorro reajustables del Banco Central de Chile, de los bonos y pagarés reajustables de la Caja Central de Ahorros y Préstamos y de las hipotecas del sistema nacional de ahorros y préstamos y los reajustes de los depósitos y cuotas de ahorros en cooperativas y demás instituciones regidas por el decreto R.R.A. N.o 20, de 5 de Abril de 1963, todo ello sin perjuicio de lo dispuesto en el artículo 29.
 
-h) No constituye renta la adjudicación de bienes en liquidación de sociedad conyugal a favor de cualquiera de los cónyuges, de comunidad de bienes a favor de cualquiera de los convivientes civiles, o de uno o más de los herederos o cesionarios de éstos o aquellos y ya sea que se trate de personas naturales o no. El valor de adquisición para fines tributarios de los bienes que se le adjudiquen corresponderá al valor de adjudicación. Las reglas precedentes se aplicarán a la adjudicación de bienes con ocasión de la liquidación de la comunidad pactada por los convivientes civiles.
+También se comprenderán los reajustes que en las operaciones de créditos de dinero de cualquier naturaleza, o instrumentos financieros, tales como bonos, debentures, pagarés, letras o valores hipotecarios, estipulen las partes contratantes, se fijen por el emisor o deban, según la ley, ser presumidos o considerados como tales, pero sólo hasta las sumas o cantidades que resulten de aplicar al capital inicial el porcentaje de variación del indice de precios al consumidor ocurrida en el período comprendido entre el segundo mes que antecede a aquel en que comience a correr el plazo de la operación y el segundo mes que antecede a aquél en que termine dicho plazo, todo ello sin perjuicio de lo dispuesto en el artículo 29.o
 
-i) No constituye renta el mayor valor proveniente de la enajenación de vehículos destinados al transporte de pasajeros o exclusivamente al transporte de carga ajena, que sean de propiedad de personas naturales que a la fecha de enajenación posean sólo uno de dichos vehículos, aun cuando lo hubiere asignado a su empresa individual que tributa sobre renta presunta.
+26.o- Los montepíos a que se refiere la ley número 5.311.
 
-j) No se considerará enajenación, para los efectos de esta ley, las cesiones de instrumentos financieros que se efectúen con ocasión de un contrato de retrocompra celebrado con un banco, corredora de bolsa o agente de valores. La diferencia que en estos casos se determine entre el valor de la compraventa al contado y el valor de la compraventa a plazo, celebradas ambas operaciones en forma conjunta y simultánea, será considerada para el vendedor al contado como un gasto por intereses de aquellos indicados en el número 1°.-, del inciso cuarto del artículo 31, y para el comprador al contado, como un ingreso percibido o devengado, según corresponda, el que tributará conforme a las normas generales de esta ley. Las reglas referidas en este párrafo se aplicarán ya sea que el comprador al contado sea una persona natural o no, y aun cuando actúe en su calidad de empresario individual.
+27.o- Las gratificaciones de zona establecidas o pagadas en virtud de una ley.
 
-k) No se considerará enajenación, para los efectos de esta ley, ya sea que las partes sean personas naturales o no, y aun cuando se trate de bienes asignados a su empresa individual, la cesión y la restitución de acciones de sociedades anónimas abiertas con presencia bursátil, que se efectúen con ocasión de un préstamo o arriendo de acciones, en una operación bursátil de venta corta, siempre que las acciones que se den en préstamo o en arriendo se hubieren adquirido en una bolsa de valores del país o en un proceso de oferta pública de acciones regido por el título XXV de la ley número 18.045, con motivo de la constitución de la sociedad o de un aumento de capital posterior, o de la colocación de acciones de primera emisión.
+28.o- El monto de los reajustes que, de conformidad a las disposiciones del párrafo 3.o del Título V de esta ley, proceda respecto de los pagos provisionales efectuados por los contribuyentes, sin perjuicio de lo dispuesto en el artículo 29.o
 
-Para determinar los impuestos que graven los ingresos que perciba o devengue el cedente por las operaciones señaladas en el inciso anterior, se aplicarán las normas generales de esta ley. En el caso del cesionario, los ingresos que obtuviese producto de la enajenación de las acciones cedidas se entenderán percibidos o devengados, en el ejercicio en que se deban restituir las acciones al cedente, cuyo costo se reconocerá conforme a lo establecido en el artículo 30.
-
-Lo dispuesto en los dos párrafos anteriores se aplicará también al préstamo de bonos en operaciones bursátiles de venta corta. En todo caso, el prestatario deberá adquirir los bonos que deba restituir en alguno de los mercados formales a que se refiere el artículo 48 del decreto ley Nº 3.500, de 1980.
-
-l) Tratamiento tributario de los planes de compensación laboral que consistan en la entrega de opciones para adquirir acciones, bonos u otros títulos emitidos en Chile o en el exterior.
-
-i) Planes de compensación laboral pactados en contratos individuales de trabajo o en contratos o convenios colectivos de trabajo.
-
-No constituye renta para los directores, consejeros y trabajadores, la entrega que efectúa la empresa, o sus relacionados, en los términos del número 17 del artículo 8° del Código Tributario, de una opción para adquirir acciones, bonos u otros títulos emitidos en Chile o en el exterior, así como tampoco el ejercicio de la misma. Sin embargo, el mayor valor obtenido en la enajenación de la respectiva opción tributará conforme a lo dispuesto en el número iv) de la letra a) anterior, el que será equivalente a la diferencia entre el precio o valor de enajenación y el valor pagado con ocasión de la entrega de la opción, de existir.
-
-El mayor valor obtenido en la enajenación de las acciones, bonos u otros títulos emitidos en Chile o en el exterior adquiridos una vez ejercida la opción tributará conforme a las reglas generales. Para estos efectos, se entenderá por mayor valor la diferencia entre el precio o valor de enajenación y el monto que se determine de la suma de los valores pagados con ocasión de la entrega o adquisición y ejercicio de la opción, de existir. No obstante, en caso que aplique al mayor valor lo dispuesto en el artículo 107, se afectará con impuestos finales la diferencia entre el valor de adquisición determinado de acuerdo a lo indicado en el número iii) siguiente, y la cantidad que corresponda a la suma de los valores pagados con ocasión de la entrega y ejercicio de la opción, si fuera aplicable.
-
-ii) Planes de compensación laboral que no fueron pactados en contratos individuales de trabajo o en convenios o contratos colectivos de trabajo.
-
-No constituye renta para los directores, consejeros y trabajadores, la entrega que efectúa la empresa, o sus relacionados, en los términos del número 17 del artículo 8° del Código Tributario, de una opción para adquirir acciones, bonos u otros títulos emitidos en Chile o en el exterior.
-
-Constituye mayor remuneración para las referidas personas el ejercicio de la respectiva opción, remuneración que se gravará con el impuesto único de segunda categoría, o con impuestos finales, según corresponda, y que será equivalente a la diferencia entre el valor de adquisición de las acciones, bonos u otros títulos emitidos en Chile o en el exterior, de acuerdo a lo indicado en el literal iii) siguiente, y el monto que se determine de la suma de los valores pagados con ocasión de la entrega y ejercicio de la opción, de existir.
-
-Asimismo, el mayor valor obtenido en la enajenación de la respectiva opción tributará conforme a lo dispuesto en el número iv) de la letra a) anterior, y será equivalente a la diferencia entre el precio o valor de enajenación y el valor pagado con ocasión de la entrega de la opción, de existir.
-
-El mayor valor obtenido en la enajenación de las acciones, bonos u otros títulos emitidos en Chile o en el exterior adquiridos una vez ejercida la opción, tributará conforme a las reglas generales. Para estos efectos, se entenderá por mayor valor la diferencia entre el precio o valor de enajenación y el valor de adquisición de dichas acciones, bonos o títulos, a que se refiere el literal iii) siguiente.
-
-iii) Para efectos de lo dispuesto en los literales i) y ii) precedentes, se deberán tener presente las siguientes reglas, según corresponda:
-
-Los valores pagados con ocasión de la entrega y ejercicio de una opción se reajustarán de acuerdo al porcentaje de variación experimentado por el índice de precios al consumidor entre el mes anterior al de su pago y el mes anterior al de la enajenación de la opción o de las de acciones, bonos u otros títulos emitidos en Chile o en el exterior, según corresponda.
-
-Se considerará como valor de adquisición de las acciones, adquiridas mediante el ejercicio de una opción, el valor de libros o el valor de mercado, a que se refieren los artículos 130 a 132 del Decreto Supremo número 702, de 2011, del Ministerio de Hacienda, que aprueba el nuevo reglamento de sociedades anónimas, según se trate de acciones de sociedades anónimas cerradas o abiertas. En el caso de acciones emitidas en el exterior, se utilizarán los mismos parámetros de valoración, atendiendo a las características de las acciones de que se trate.
-
-Tratándose de bonos u otros títulos emitidos en Chile o en el exterior, adquiridos mediante el ejercicio de una opción, se considerará como valor de adquisición el valor de mercado, tomando en cuenta, entre otros elementos, su valor nominal, la tasa de cupón, el plazo para su rescate o la calificación del instrumento.
-
-Los valores de adquisición referidos en los dos párrafos precedentes se reajustarán de acuerdo al porcentaje de variación experimentado por el índice de precios al consumidor entre el mes anterior al de la adquisición de las acciones, bonos o demás títulos y el mes anterior al de la enajenación de los mismos.
-
-m) Enajenaciones de toda clase de bienes no contemplados en las letras precedentes. Se aplicarán, en lo que fuesen pertinentes, las reglas señaladas en los literales i), ii), iii) y iv) de la letra a) anterior. En estos casos, el costo tributario estará conformado por el valor de adquisición de los respectivos bienes, debidamente reajustado de acuerdo al porcentaje de variación experimentado por el índice de precios al consumidor entre el mes anterior a la adquisición y el mes anterior al de la enajenación.
-
-No obstante lo dispuesto en las letras precedentes, si la enajenación de dichos bienes se efectúa por el propietario a una sociedad de personas o anónima cerrada en que participe directa o indirectamente; o, al cónyuge, conviviente civil o parientes ascendientes o descendientes hasta el segundo grado de consanguinidad; o, a un relacionado en los términos del número 17 del artículo 8° del Código Tributario; o, a los directores, gerentes, administradores, ejecutivos principales o liquidadores, así como a toda entidad controlada directamente o indirectamente por estos últimos, el mayor valor obtenido se gravará con impuestos finales en base devengada. Lo establecido en este inciso no aplicará a la entrega y ejercicio de opciones a que se refiere la letra l) anterior.
-
-Por su parte, en los mismos casos señalados en el inciso anterior, no se aplicará lo dispuesto en los literales v) y vi) de la letra a) anterior, esto es, la renta no podrá considerarse devengada en más de un ejercicio y no tendrá lugar el ingreso no constitutivo de renta de 10 unidades tributarias anuales.
-
-El Servicio podrá aplicar lo dispuesto en el artículo 64 del Código Tributario, cuando el valor de la enajenación de un bien raíz o de otros bienes o valores que se transfieran sea notoriamente superior al valor comercial de los inmuebles de características y ubicación similares en la localidad respectiva, o de los corrientes en plaza, considerando las circunstancias en que se realiza la operación. La diferencia entre el valor de la enajenación y el que se determine en virtud de esta disposición estará sujeta a la tributación establecida en el literal ii) del inciso primero del artículo 21. La tasación, liquidación y giro que se efectúen con motivo de la aplicación del citado artículo 64 del Código Tributario podrán reclamarse en la forma y plazos que esta disposición señala y de acuerdo con los procedimientos que indica.
-
-Para los efectos de este número, se entenderá por fecha de adquisición o enajenación la del respectivo contrato, instrumento u operación, sin perjuicio que, tratándose de las operaciones de la letra b) anterior, se considerará la fecha de la inscripción respectiva.
-
-9°.- La adquisición de bienes de acuerdo con los párrafos 2° y 4° del Título V del Libro II del Código Civil, o por prescripción, sucesión por causa de muerte o donación.
-
-10°.- Los beneficios que obtiene el deudor de una renta vitalicia por el mero hecho de cumplirse la condición que le pone término o disminuye su obligación de pago, como también el incremento del patrimonio derivado del cumplimiento de una condición o de un plazo suspensivo de un derecho, en el caso de fideicomiso y del usufructo.
-
-11°.- Las cuotas que eroguen los asociados.
-
-12°.- El mayor valor que se obtenga en la enajenación ocasional de bienes muebles de uso personal del contribuyente o de todos o algunos de los objetos que forman parte del mobiliario de su casa habitación.
-
-13°.- La asignación familiar, los beneficios previsionales y la indemnización por desahucio y la de retiro hasta un máximo de un mes de remuneración por cada año de servicio o fracción superior a seis meses. Tratándose de dependientes del sector privado, se considerará remuneración mensual el promedio de lo ganado en los últimos 24 meses, excluyendo gratificaciones, participaciones, bonos y otras remuneraciones extraordinarias y reajustando previamente cada remuneración de acuerdo a la variación que haya experimentado el Indice de Precios al Consumidor entre el último día del mes anterior al del devengamiento de la remuneración y el último día del mes anterior al del término del contrato.
-
-14°.- La alimentación, movilización o alojamiento proporcionado al empleado u obrero sólo en el interés del empleador o patrón, o la cantidad que se pague en dinero por esta misma causa, siempre que sea razonable a juicio del Director Regional.
-
-15°.- Las asignaciones de traslación y viáticos, a juicio del Director Regional.
-
-16°.- Las sumas percibidas por concepto de gastos de representación siempre que dichos gastos estén establecidos por ley.
-
-17°.- Las pensiones o jubilaciones de fuente extranjera.
-
-18°.- Las cantidades percibidas o los gastos pagados con motivo de becas de estudio.
-
-19°.- Las pensiones alimenticias que se deben por ley a determinadas personas, únicamente respecto de éstas.
-
-20°.- La constitución de la propiedad intelectual, como también la constitución de los derechos que se originen de acuerdo a los Títulos III, IV, V y VI del Código Minería y su artículo 72, sin perjuicio de los beneficios que se obtengan de dichos bienes.
-
-21°.- El hecho de obtener de la autoridad correspondiente una merced, una concesión o un permiso fiscal o municipal.
-
-22°.- Las remisiones, por ley, de deudas, intereses u otras sanciones.
-
-23°.- Los premios otorgados por el Estado o las Municipalidades, por la Universidad de Chile, por la Universidad Técnica del Estado, por una Universidad reconocida por el Estado, por una corporación o fundación de derechos público o privado, o por alguna otra persona o personas designadas por ley, siempre que se trate de galardones establecidos de un modo permanente en beneficio de estudios, investigaciones y creaciones de ciencias o de arte, y que la persona agraciada no tenga la calidad de empleado u obrero de la entidad que lo otorga; como asimismo, los premios del Sistema de Pronósticos y Apuestas creados por el Decreto Ley N° 1.298, de 1975.
-
-24°.- Los premios de rifas de beneficencia autorizadas previamente por decreto supremo.
-
-25°.- Los reajustes y amortizaciones de bonos, pagarés y otros títulos de créditos emitidos por cuenta o con garantía del Estado y los emitidos por cuenta de instituciones, empresas y organismos autónomos del Estado y las Municipalidades; los reajustes y las amortizaciones de los bonos o letras hipotecarias emitidas por instituciones de crédito hipotecario; los reajustes de depósitos de ahorro en el Banco del Estado de Chile, en la Corporación de la Vivienda y en las Asociaciones de Ahorro y Préstamos; los reajustes de los certificados de ahorro reajustables del Banco Central de Chile, de los bonos y pagarés reajustables de la Caja Central de Ahorros y Préstamos y de las hipotecas del sistema nacional de ahorros y préstamos, y los reajustes de los depósitos y cuotas de ahorros en cooperativas y demás instituciones regidas por el Decreto R.R.A. N° 20, de 5 de abril de 1963, todo ello sin perjuicio de lo dispuesto en el artículo 29.
-
-También se comprenderán los reajustes que en las operaciones de crédito de dinero de cualquier naturaleza, o instrumentos financieros, tales como bonos, debentures, pagarés, letras o valores hipotecarios estipulen las partes contratantes, se fije por el emisor o deban, según la ley, ser presumidos o considerados como tales, pero sólo hasta las sumas o cantidades determinadas de acuerdo con lo dispuesto en el artículo 41 bis, todo ello sin perjuicio de lo señalado en el artículo 29.
-
-26°.- Los montepíos a que se refiere la ley número 5.311.
-
-27°.- Las gratificaciones de zona establecidas o pagadas en virtud de una ley.
-
-28°.- El monto de los reajustes que, de conformidad a las disposiciones del párrafo 3o del Título V de esta ley, proceda respecto de los pagos provisionales efectuados por los contribuyentes, sin perjuicio de lo dispuesto en el artículo 29°.
-
-29°.- Los ingresos que no se consideren rentas o que se reputen capital según texto expreso de una ley.
-
-30° La parte de los gananciales que uno de los cónyuges, sus herederos o cesionarios, perciba del otro cónyuge, sus herederos o cesionarios, como consecuencia del término del régimen patrimonial de participación en los gananciales.
-
-31.- Las compensaciones económicas convenidas por los cónyuges o los convivientes civiles en escritura pública, acta de avenimiento o transacción y aquellas decretadas por sentencia judicial.
-
-> **Nota.** El Art. 4º del DL 1533, Hacienda, publicado el 29.07.1976, dispone que las modificaciones introducidas a este artículo regirán a contar del día primero del mes siguiente al de su publicación.
-
-> **Nota.** NOTA 2 El artículo 15 Nº 9 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que la modificación introducidas por el Nº 1 c) de su Artículo 1º, rige contar del 1º de enero de 1976, afectando a los hechos que ocurran desde dicha fecha.
-
-> **Nota.** NOTA 4 El artículo 3º del DL 3474, Hacienda, publicado el 04.09.1980, dispone que la modificación por esta norma, rige a contar del 1º del mes siguiente al de la fecha de publicación, afectando a las rentas que se perciban desde dicha fecha.
-
-> **Nota.** NOTA 8 El artículo 2º de la LEY 19347, publicada el 17.11.1994, dispuso que ésta norma regirá a contar de la misma fecha en que deba entrar en vigencia la LEY 19335, en conformidad con lo establecido en su artículo 37, que dice, a la letra: "Esta ley entrará en vigencia, con excepción de lo dispuesto en los números 8 y 9 de su artículo 28, transcurridos 3 meses desde su publicación.
-
-> **Nota.** NOTA 9 El Nº 1 del Art. 1º transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación regirá respecto de los seguros dotales que se contraten a contar de la fecha de publicación de esta ley.
-
-> **Nota.** NOTA 10 El Art. 2 de la LEY 20239, publicada el 08.02.2008, dispuso que la modificación introducida en el presente artículo rige desde la entrada en vigencia de la LEY 19947, que establece la nueva Ley de Matrimonio Civil.
+29.o- Los ingresos que no se consideren rentas o que se reputen capital según texto expreso de una ley.
 
 #### Artículo 18°
 
-Derogado
+En los casos indicados en las letras a), b), c), d), i) y j) del N° 8 del artículo 17, si tales operaciones representan el resultado de negociaciones o actividades realizadas habitualmente por LEY 18293 el contribuyente, el mayor valor que se obtenga estará afecto a los impuestos de Primera Categoría y Global Complementario o Adicional, según corresponda.
 
-#### Artículo 18° bis
+Cuando el Servicio determine que las operaciones a que se refiere el inciso anterior son habituales, considerando el conjunto de circunstancias previas o concurrentes a la enajenación o cesión de que se trate, corresponderá al contibuyente probar lo contrario.
 
-Derogado.
+Se presumirá de derecho que existe habitualidad en los casos de subdivisión de terrenos urbanos y en la venta de edificios por pisos o departamentos, siempre que la enajenación se produzca dentro de los cuatro años siguientes a la adquisición o construcción en su caso. Asimismo, en todos los demás casos se presumirá la habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo inferior a un año.
 
-> **Nota.** NOTA 1 El artículo único de la Ley 20466, publicado el 30.09.2010, dispuso que cualquier referencia al presente artículo derogado que se haga en las leyes, debe entenderse hecha al Art. 106 de la presente ley.
+Para los fines de establecer el mayor valor afecto a impuestos en los casos de bienes no sometidos al sistema de reajuste del artículo 41°, se aplicarán las normas sobre actualización del valor de adquisición contempladas en el penúltimo inciso del N° 8 del Artículo 17.
 
-#### Artículo 18° ter
+Para los efectos de esta ley, las crías o acciones liberadas únicamente incrementarán el número de acciones de propiedad del contribuyente, manteniéndose como valor de adquisición del conjunto de acciones sólo el valor de adquisición de las acciones madres. En caso de enajenación o cesión parcial de estas acciones, se considerará como valor de adquisición de cada acción la cantidad que resulte de dividir el valor de adquisición de las acciones madres por el número total de acciones de que sea dueño el contribuyente a la fecha de la enajenación o cesión.
 
-Derogado.
-
-> **Nota.** NOTA 2 El artículo único de la Ley 20466, publicado el 30.09.2010, dispuso que cualquier referencia al presente artículo derogado que se haga en las leyes, debe entenderse hecha al Art. 107 de la presente ley.
-
-#### Artículo 18° quater
-
-Derogado.
-
-> **Nota.** NOTA 3 El artículo único de la Ley 20466, publicado el 30.09.2010, dispuso que cualquier referencia al presente artículo derogado que se haga en las leyes, debe entenderse hecha al Art. 108 de la presente ley.
+> **Nota.** NOTA: 6.4.- La modificación introducida por la ley N° 18682 rige a contar del 1° de enero de 1988 (Ley 18682, art. 10, A),c)).
 
 ## Título II
 
 Del impuesto cedular por categorías
 
-#### Artículo 19°
+#### Artículo 19
 
 Las normas de este Título se aplicarán a todas las rentas percibidas o devengadas.
-
-> **Nota.** Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
 
 PRIMERA CATEGORIA
 
@@ -1024,87 +268,87 @@ comerciales, industriales, mineras y otras
 
 De los contribuyentes y de la tasa del impuesto
 
-#### Artículo 20°
+#### Artículo 20
 
-Establécese un impuesto de 25% que podrá ser imputado a los impuestos finales de acuerdo con las normas de los artículos 56, número 3), y 63. Conforme a lo anterior, para los contribuyentes que se acojan al Régimen Pro Pyme contenido en la letra D) del artículo 14, la tasa será de 25%. En el caso de los contribuyentes sujetos al régimen del artículo 14 letra A, el impuesto será de 27%. Este impuesto se determinará, recaudará y pagará sobre:
+Establécese un impuesto de 15% que se determinará, recaudará y pagará sobre:
 
-1°.- La renta de los bienes raíces en conformidad a las normas siguientes:
+1.- La renta de los bienes raíces en conformidad a las normas siguientes:
 
-a) Tratándose de contribuyentes que posean o exploten a cualquier título bienes raíces se gravará la renta efectiva de dichos bienes.
+a) Tratándose de sociedades anónimas que posean o exploten a cualquier título bienes raíces agrícolas y/o no agrícolas se gravará la renta efectiva de dichos bienes.
 
-En el caso de los bienes raíces agrícolas, del monto del impuesto de esta categoría podrá rebajarse el impuesto territorial pagado por el período al cual corresponde la declaración de renta. Sólo tendrá derecho a esta rebaja el propietario o usufructuario. Si el monto de la rebaja contemplada en este párrafo excediere del impuesto aplicable a las rentas de esta categoría, dicho excedente no podrá imputarse a otro impuesto ni solicitarse su devolución. Tampoco dará derecho a devolución conforme a lo dispuesto en los artículos 56, número 3 y 63, ni a ninguna otra disposición legal, el impuesto de primera categoría en aquella parte que se haya deducido de dicho tributo el crédito por el impuesto territorial. El Servicio, mediante resolución, impartirá las instrucciones para el control de lo dispuesto en este párrafo.
+Por consiguiente, no serán aplicables a dichas sociedades las normas establecidas en las letras siguientes, con excepción de las del inciso segundo de la letra c).
 
-La cantidad cuya deducción se autoriza en el párrafo anterior se reajustará de acuerdo con el porcentaje de variación experimentado por el índice de precios al consumidor en el período comprendido entre el mes anterior a la fecha de pago de la contribución y el mes anterior al de cierre del ejercicio respectivo.
+Del monto del impuesto de esta categoría podrá rebajarse el impuesto territorial pagado por el período al cual corresponde la declaración de renta. Sólo tendrá derecho a esta rebaja el propietario o usufructuario. Si el monto de la rebaja contemplada en este inciso excediere del impuesto aplicable a las rentas de esta categoría, dicho excedente no podrá imputarse a ningún otro impuesto ni solicitarse su devolución.
 
-b) En el caso de contribuyentes que no declaren su renta efectiva según contabilidad completa, y den en arrendamiento, subarrendamiento, usufructo u otra forma de cesión o uso temporal, bienes raíces, se gravará la renta efectiva de dichos bienes, acreditada mediante el respectivo contrato, sin deducción alguna.
+Si el bien raíz estuviere total o parcialmente exento del impuesto territorial, la rebaja mencionada en el inciso precedente se autorizará hasta el monto representativo del impuesto que debería haberse pagado de no existir dicha exención.
 
-Para estos efectos, se considerará como parte de la renta efectiva el valor de las mejoras útiles, contribuciones, beneficios y demás desembolsos convenidos en el respectivo contrato o posteriormente autorizados, siempre que no se encuentren sujetos a la condición de reintegro y queden a beneficio del arrendador, subarrendador, nudo propietario o cedente a cualquier título de bienes raíces.
+Las cantidades cuya deducción se autoriza en los incisos anteriores se reajustarán de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes anterior a la fecha de pago de la contribución y el segundo mes anterior al de cierre del ejercicio respectivo;
 
-Serán aplicables a los contribuyentes de esta letra las normas de los dos últimos párrafos de la letra
+b) Tratándose de bienes raíces agrícolas explotados por sus propietarios o usufructuarios que no sean sociedades anónimas, se presume de derecho que la renta de dichos bienes es igual al 10% de su avalúo fiscal. Esta presunción será 4% respecto de las personas que exploten bienes raíces agrícolas en una calidad distinta a la de propietario o usufructuario de dichos bienes. Para los fines de estas presunciones se considerará como ejercicio agrícola el período anual que termina el 31 de Diciembre.
 
-- **a)** de este número, salvo aquellos que den dichos inmuebles en arrendamiento, subarrendamiento, usufructo u otra forma de cesión o uso temporal al cónyuge, conviviente civil, o parientes ascendientes o descendientes hasta el segundo grado de consanguinidad; o, a relacionados conforme con el artículo 8 número 17 del Código Tributario; o, al cónyuge, conviviente civil, o parientes ascendientes o descendientes hasta el segundo grado de consanguinidad de las personas señaladas en las letras
+No obstante lo dispuesto en el inciso anterior, facúltase al Presidente de la República para exigir, previo informe de los Ministros de Hacienda y Agricultura, contabilidad fidedigna a los contribuyentes que desarrollen actividades agroindustriales que él determine, para los efectos de gravar la renta efectiva de dichas actividades. En el decreto respectivo deberá fijarse el ejercicio financiero o periodo futuro desde el cual será exigible la obligación en referencia.
 
-- **c)** y
+Serán aplicables a los contribuyentes de esta letra las normas de los tres últimos incisos de la letra a) de este número;
 
-- **e)** del artículo 8 número 17 del Código Tributario, ya referido.
+c) En el caso de personas que den en arrendamiento, subarrendamiento, usufructo u otra forma de cesión o uso temporal de bienes raíces agrícolas, se gravará la renta efectiva de dichos bienes, acreditada mediante el respectivo contrato.
 
-c) Las empresas constructoras e inmobiliarias por los inmuebles que construyan o manden construir para su venta posterior, podrán imputar al impuesto de este párrafo el impuesto territorial pagado desde la fecha de la recepción definitiva de las obras de edificación, aplicándose las normas de los dos últimos párrafos de la letra a) de este número.
+Para estos efectos, se considerará como parte de la renta efectiva el valor de las mejoras útiles, contribuciones, beneficios y demás desembolsos convenidos en el respectivo contrato o posteriormente autorizados, siempre que no se encuentren sujetos a la condición de reintegro y queden a beneficio del arrendador, subarrendador, nudo propietario o cedente a cualquier título de bienes raíces agrícolas.
 
-2°. Las rentas provenientes de capitales mobiliarios, entendiéndose por estos últimos aquellos activos o instrumentos de naturaleza mueble, corporales o incorporales, que consistan en frutos derivados del dominio, posesión o tenencia a título precario de dichos bienes.
+Serán aplicables a los contribuyentes de esta letra las normas de los tres últimos incisos de la letra a) de este número;
 
-En el caso de los instrumentos de deuda de oferta pública a que se refiere el artículo 104, las rentas se gravarán cuando se hayan devengado, y se considerarán devengadas en cada ejercicio, a partir de la fecha que corresponda a su colocación y así sucesivamente hasta su pago. El impuesto se aplicará a los titulares de los referidos instrumentos, y gravará los intereses que hayan devengado en el año calendario o comercial respectivo, desde la fecha de su colocación o adquisición hasta el día de su enajenación o rescate, ambas inclusive. El interés devengado se determinará de la siguiente forma: (i) multiplicando la tasa de interés fiscal anual del instrumento determinada conforme al artículo 104, por el capital del mismo, a su valor nominal o par; (ii) el resultado obtenido conforme al literal anterior se dividirá por los días del año calendario, en base a lo establecido en los términos de emisión del instrumento respectivo para el pago del interés o cupón, y (iii) finalmente, se multiplicará tal resultado por el número de días del año calendario o comercial en que el título haya estado en poder del contribuyente titular, en base a lo establecido en los términos de emisión del instrumento respectivo para el pago del interés o cupón.
+d) Se presume que la renta de los bienes raíces no agrícolas es igual al 7% de su avalúo fiscal, respecto del propietario o usufructuario. Sin embargo, podrá declararse la renta efectiva siempre que se demuestre mediante contabilidad fidedigna de acuerdo con las normas generales que dictará el Director. En todo caso, deberá declararse la renta efectiva de dichos bienes cuando ésta exceda del 11% de su avalúo fiscal.
 
-No obstante las rentas de este número, percibidas o devengadas por contribuyentes que desarrollen actividades de los números 1°, 3°, 4° y 5° de este artículo, que demuestren sus rentas efectivas mediante un balance general, y siempre que la inversión generadora de dichas rentas forme parte del patrimonio de la empresa, se comprenderán en estos últimos números, respectivamente.
+Se presume de derecho que la renta de la casa habitada permanentemente por su propietario es igual al 5% del avalúo, siempre que éste no exceda de 25 unidades tributarias anuales. Sobre el exceso se presumirá una renta del 7%.
 
-3°.- Las rentas de la industria, del comercio, de la minería y de la explotación de riquezas del mar y demás actividades extractivas, compañías aéreas, de seguros, de los bancos, asociaciones de ahorro y préstamos, sociedades administradoras de fondos, sociedades de inversión o capitalización, de empresas financieras y otras de actividad análoga, constructora, periodísticas, publicitarias, de radiodifusión, televisión, procesamiento automático de datos y telecomunicaciones.
+Respecto de los demás inmuebles destinados al uso de su propietario y/o de su familia, se presume de derecho que la renta de dichos bienes es igual al 7% de su avalúo. No se aplicarán estas presunciones respecto de los inmuebles destinados a casa habitación o al uso de su propietario que se encuentren acogidos a las disposiciones de la ley N.o 9.135, del DFL. N.o 2, de 1.959, o que hayan sido adquiridos por intermedio de cajas de previsión, siempre que, en este último caso, los saldos de precio adeudados sean reajustables y que el avalúo fiscal no exceda de 30 unidades tributarias anuales;
 
-4°.- Las rentas obtenidas por corredores, sean titulados o no, sin perjuicio de lo que al respecto dispone el N° 2° del artículo 42°, comisionistas con oficina establecida, martilleros, agentes de aduanas, embarcadores y otros que intervengan en el comercio marítimo, portuario y aduanero, y agentes de seguros que no sean personas naturales; colegios, academias e institutos de enseñanza particulares y otros establecimientos particulares de este género; clínicas, hospitales, laboratorios y otros establecimientos análogos particulares y empresas de diversión y esparcimiento.
+e) Respecto de las personas que exploten bienes raíces no agrícolas, en una calidad distinta a la de propietario o usufructuario, se gravará la renta efectiva de dichos bienes;
 
-5°.- Todas las rentas, cualquiera que fuera su origen, naturaleza o denominación, cuya imposición no esté establecida expresamente en otra categoría ni se encuentren exentas.
+f) No se presumirá renta alguna respecto de los bienes raíces propios o parte de ellos destinados exclusivamente al giro de las actividades indicadas en los artículos 20.o, N.o 3.o, 4.o y 5.o y 42.o, N.o 2; ni respecto de los bienes raíces propios de los contribuyentes de los artículos 22.o y 42.o, N.o 1.o, siempre que el monto total de los avalúos del conjunto de dichos inmuebles no exceda de 20 unidades tributarias anuales y siempre que dichos contribuyentes obtengan únicamente rentas referidas en los artículos 22.o, 42.o, N.o 1, y 57.o, inciso primero.
 
-6°.- Los premios de lotería, pagarán el impuesto, de esta categoría con una tasa del 15% en calidad de impuesto único de esta ley. Este impuesto se aplicará también sobre los premios correspondientes a boletos no vendidos o no cobrados en el sorteo anterior.
+Con todo, las personas que deban pagar el impuesto de esta categoría correspondiente a las actividades señaladas en los N.o 3.o, 4.o y 5.o de este artículo, podrán rebajar de éste la contribución territorial por los bienes referidos, aplicándose las normas de los tres últimos incisos de la letra a) de este número.
 
-> **Nota.** El artículo 25 de la Ley 21755, publicada el 11.07.2025, dispone disminuir transitoriamente la tasa establecida en el presente artículo, para las empresas acogidas al Régimen Pro Pyme contemplado en la letra D) del artículo 14 de dicha ley, a 12,5 % para las rentas que se perciban o devenguen durante los ejercicios 2025, 2026, y 2027 siempre que, al cierre del ejercicio respectivo, la cotización establecida en el artículo cuarto transitorio de la ley N° 21.735, que crea un nuevo sistema mixto de pensiones y un seguro social en el pilar contributivo, mejora la pensión garantizada universal y establece beneficios y modificaciones regulatorias que indica, sea de 1 %, 3,5 % y 4,25 %, respectivamente. A su vez, a los contribuyentes que se beneficien de la disminución transitoria de tasa señalada se les disminuirá a la mitad la tasa de pagos provisionales mensuales que, según lo establecido en la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, les corresponde pagar en los ejercicios 2025, 2026, y 2027. La disminución de la tasa de pagos provisionales mensuales aplicará respecto de la declaración y pago que corresponda realizar en el mes subsiguiente a la publicación de la citada ley en el Diario Oficial. En tanto, respecto de las rentas que se perciban o devenguen durante el ejercicio 2028, dicha tasa será de 15 %, siempre que la tasa de cotización mencionada en el inciso primero sea de 5 %, al cierre de dicho ejercicio.
+Para los fines del presente número deberá considerarse el avalúo fiscal de los bienes raíces vigente al 1° de Enero del año en que debe declararse el impuesto.
 
-#### Artículo 20° bis
+2.o- Las rentas de capitales mobiliarios consistentes en intereses, pensiones o cualesquiera otros productos derivados del dominio, posesión o tenencia a título precario de cualquiera clase de capitales mobiliarios, sea cual fuere su denominación, y que no estén expresamente exceptuados, incluyéndose las rentas que provengan de:
 
-DEROGADO
+a) Bonos y debentures o títulos de crédito, sin perjuicio de lo que se disponga en convenios internacionales;
 
-#### Artículo 21°
+b) Créditos de cualquier clase, incluso los resultantes de operaciones de bolsas de comercio, con excepción de los créditos originados provenientes de las actividades clasificadas en los números 3.o, 4.o y 5.o, de este artículo;
 
-Las sociedades anónimas, los contribuyentes del número 1 del artículo 58, los empresarios individuales, comunidades y sociedades de personas que declaren sus rentas efectivas de acuerdo a un balance general según contabilidad completa, deberán declarar y pagar conforme a los artículos 65, número 1, y 69 de esta ley, un impuesto único de 40%, que no tendrá el carácter de impuesto de categoría, el que se aplicará sobre:
+c) Los dividendos y demás beneficios derivados del dominio, posesión o tenencia a cualquier título de acciones de sociedades anónimas extranjeras, que no desarrollen actividades en el país, percibidos por personas domiciliadas o residentes en Chile;
 
-i. Las partidas del número 1 del artículo 33, que correspondan a retiros de especies o a cantidades representativas de desembolsos de dinero que no deban imputarse al valor o costo de los bienes del activo y que beneficien directa o indirectamente a los relacionados a la empresa o sus propietarios, según dispone el inciso final de este artículo, o bien, en aquellos casos en que el contribuyente no logre acreditar la naturaleza y efectividad del desembolso. La tributación señalada se aplicará, salvo que estas partidas resulten gravadas conforme a lo dispuesto en el literal i) del inciso tercero de este artículo;
+d) Depósitos en dinero, ya sea a la vista o a plazo;
 
-ii. Las cantidades que se determinen por aplicación de lo dispuesto en los artículos 17, número 8, inciso cuarto; 35 inciso tercero, 36, inciso segundo; 38, 41 E, 70 y 71 de esta ley, y aquellas que se determinen por aplicación de lo dispuesto en los incisos tercero al sexto del artículo 64, y en el artículo 65 del Código Tributario, según corresponda, y
+e) Cauciones en dinero, y
 
-No se afectarán con este impuesto, ni con aquel señalado en el inciso tercero siguiente: (i) los gastos anticipados que deban ser aceptados en ejercicios posteriores; (ii) el impuesto de Primera Categoría; el impuesto único de este artículo, el impuesto establecido en el número 2, del artículo 38 bis y el impuesto territorial, todos ellos pagados; (iii) los intereses, reajustes y multas pagados al Fisco, municipalidades y a organismos o instituciones públicas creadas por ley; (iv) las partidas a que se refiere el número 12° del artículo 31 y las patentes mineras, en ambos casos en la parte que no puedan ser deducidas como gasto, y (v) los gastos efectuados por Corporaciones y Fundaciones chilenas, salvo que se aplique, según su naturaleza, los supuestos del numeral iii) del inciso tercero.
+f) Contratos de renta vitalicia. Las rentas respectivas pagarán el impuesto por el solo hecho de encontrarse devengadas.
 
-Los contribuyentes de los impuestos global complementario o adicional, que sean propietarios, comuneros, socios o accionistas de empresas, comunidades o sociedades que determinen su renta efectiva de acuerdo a un balance general según contabilidad completa, deberán declarar y pagar los impuestos referidos, según corresponda, sobre las cantidades que se señalan a continuación en los literales i) al iv), impuestos cuyo importe se incrementará en un monto equivalente al 10% de las citadas cantidades. Esta tributación se aplicará en reemplazo de la establecida en el inciso primero:
+En las operaciones de crédito de dinero, se considerará interés el que define el artículo 4.o del decreto ley N.o 455, de 1974.
 
-i) Las partidas del número 1 del artículo 33, que corresponden a retiros de especies o a cantidades representativas de desembolsos de dinero que no deban imputarse al valor o costo de los bienes del activo, cuando hayan beneficiado al propietario, socio, comunero o accionista. En estos casos, el Servicio podrá, fundadamente, determinar el beneficio que tales sujetos han experimentado. Cuando dichas cantidades beneficien a dos o más accionistas, comuneros o socios y no sea posible determinar el monto del beneficio que corresponde a cada uno de ellos, se afectarán con la tributación establecida en este inciso, en proporción a su participación en el capital o en las utilidades de la empresa o sociedad respectiva.
+3.o- Las rentas de la industria, del comercio, de la minería y de la explotación de riquezas del mar y demás actividades extractivas. Las rentas de los bancos, fondos mutuos, sociedades de inversión o capitalización, de empresas financieras y otras de actividad análoga, se considerarán dentro de este número.
 
-El Servicio de Impuestos Internos podrá revisar la efectividad de los montos declarados como utilidades afectas a impuestos finales no retiradas, remesadas o distribuidas de la empresa, y los activos que la representan, para efectos de determinar la procedencia de lo señalado en este número (i) siempre que el Servicio determine en forma fundada que constituyen un retiro, remesa o distribución encubierta, que haya debido resultar imputada a cantidades afectas a dichos impuestos cuando así corresponda de acuerdo a lo dispuesto en el artículo 14. Para estos efectos el Servicio considerará, entre otros elementos, las utilidades de balance acumuladas en la empresa a la fecha de la revisión, los activos de la misma y la relación entre dichos antecedentes y el monto que se pretende como retiro, remesa o distribución encubierta. Asimismo, deberá considerar el origen de los activos, junto a otras circunstancias relevantes, lo que deberá ser expresado por el Servicio, fundadamente, al determinar que se trata de un retiro, remesa o distribución encubierto de cantidades afectas a la tributación de este inciso.
+Por consiguiente, tratándose de rentas de los bancos, empresas financieras y otras similares, no les serán aplicables las disposiciones tributarias del D.L.
 
-ii) Los préstamos que la empresa, establecimiento permanente, la comunidad o sociedad respectiva, con excepción de las sociedades anónimas abiertas, efectúe a sus propietarios, comuneros, socios o accionistas contribuyentes de los impuestos global complementario o adicional, en la medida que el Servicio determine de manera fundada que constituyen un retiro, remesa o distribución, encubierta, que resulte imputada a cantidades afectas a dichos impuestos cuando así corresponda de acuerdo a lo señalado en el artículo 14. La tributación de este inciso se aplicará sobre el total de la cantidad prestada, reajustada según el porcentaje de variación del Índice de Precios al Consumidor entre el mes anterior al del otorgamiento del préstamo y el mes que antecede al término del ejercicio, deduciéndose debidamente reajustadas todas aquellas cantidades que el propietario, socio o accionista beneficiario haya restituido a la empresa o sociedad a título de pago del capital del préstamo y sus reajustes durante el ejercicio respectivo. Para estos efectos el Servicio considerará, entre otros elementos, las utilidades de balance acumuladas en la empresa a la fecha del préstamo y la relación entre éstas y el monto prestado; el destino y destinatario final de tales recursos; el plazo de pago del préstamo, sus prórrogas o renovaciones, tasa de interés u otras cláusulas relevantes de la operación, circunstancias y elementos que deberán ser expresados por el Servicio, fundadamente, al determinar que el préstamo es un retiro, remesa o distribución encubierto de cantidades afectas a la tributación de este inciso.
+N.o 455, de 1974. Estos contribuyentes tributarán no sólo por sus rentas percibidas o devengadas, sino también por los anticipos de intereses que obtengan.
 
-Las sumas que establece este numeral se deducirán en la empresa, comunidad o sociedad acreedora, de las cantidades a que se refieren el número 4.-, de la letra A), del artículo 14 y el número 2.- de la letra B), de dicho artículo, en la misma forma que los retiros, remesas o distribuciones.
+4.o- Las rentas obtenidas por corredores, sean titulados o no, sin perjuicio de lo que al respecto dispone el N.o 2 del artículo 42, comisionistas con oficina establecida, martilleros, empresas constructoras, agentes de aduana, embarcadores y otros que intervengan en el comercio marítimo, portuario y aduanero y agentes de seguros que no sean personas naturales.
 
-iii) El beneficio que represente el uso o goce, a cualquier título, o sin título alguno, que no sea necesario para producir la renta, de los bienes del activo de la empresa o sociedad respectiva. Para estos efectos, se presumirá de derecho que el valor mínimo del beneficio será del 10% del valor del bien determinado para fines tributarios al término del ejercicio; del 20% del mismo valor en el caso de automóviles, station wagons y vehículos similares; y del 11% del avalúo fiscal tratándose de bienes raíces, o en cualquiera de los casos señalados, el monto equivalente a la depreciación anual mientras sea aplicable, cuando represente una cantidad mayor, cualquiera que sea el período en que se hayan utilizado los bienes en el ejercicio o en la proporción que justifique fehacientemente el contribuyente.
+5.o- Todas las rentas, cualquiera que fuera su origen, naturaleza o denominación, cuyo imposición no esté establecida expresamente en otra categoría ni se encuentren exentas.
 
-Del valor mínimo del beneficio calculado conforme a las reglas anteriores podrán rebajarse las sumas efectivamente pagadas que correspondan al período por el uso o goce del bien, aplicándose a la diferencia la tributación establecida en este inciso tercero.
+6.o- Los premios de lotería, pagarán el impuesto, de esta categoría con una tasa del 15% en calidad de impuesto único de esta ley. Este impuesto se aplicará también sobre los premios correspondientes a boletos no vendidos o no cobrados en el sorteo anterior.
 
-En el caso de contribuyentes que realicen actividades en zonas rurales, no se aplicará la tributación establecida en el inciso tercero al beneficio que represente el uso o goce de los activos de la empresa ubicados en tales sitios. Tampoco se aplicará dicha tributación al beneficio que represente el uso o goce de los bienes de la empresa destinados al esparcimiento de su personal, o el uso de otros bienes por éste, si estuviera disponible y pudiera ser utilizada por todos los trabajadores de la empresa, bajo criterios de universalidad y sin exclusiones. En caso que dicho uso fuere exclusivo para ciertos trabajadores o para directores de la empresa, se aplicará el impuesto establecido en el inciso primero de este artículo, que será de cargo de la empresa, comunidad o sociedad propietaria y el beneficio por dicho uso se calculará conforme a las reglas precedentes.
+Las rentas de los créditos originados o provenientes de las actividades clasificadas en los números 3.o, 4.o y 5.o de este artículo, se comprenderán en dichos números, respectivamente.
 
-Cuando el uso o goce de un mismo bien se haya concedido simultáneamente a más de un socio, comunero o accionista y no sea posible determinar la proporción del beneficio que corresponde a cada uno de ellos, éste se determinará distribuyéndose conforme a las reglas que establece el artículo 14, letra A), para la atribución de rentas. En caso que el uso o goce se haya conferido por un período inferior al año comercial respectivo, circunstancia que deberá ser acreditada por el beneficiario, ello deberá ser considerado para efectos del cálculo de los impuestos.
+#### Artículo 21
 
-Las sumas que establece este numeral no se deducirán en la empresa, comunidad o sociedad respectiva, de las cantidades a que se refieren el número 4.- de la letra A) del artículo 14, y el número 2.- de la letra B) del mismo artículo.
+o- Las sociedades anónimas y las en comandita por acciones constituidas en Chile pagarán, además del impuesto de esta categoría, una tasa adicional del 40% sobre la cantidad final que resulte de aplicar las siguientes normas:
 
-iv) En el caso que cualquier bien de la empresa, comunidad o sociedad sea entregado en garantía de obligaciones, directas o indirectas, del propietario, comunero, socio o accionista, y ésta fuera ejecutada por el pago total o parcial de tales obligaciones, se aplicará la tributación de este párrafo al propietario, comunero, socio o accionista cuyas deudas fueron garantizadas de esta forma. En este caso, la tributación referida se calculará sobre la garantía ejecutada, según su valor corriente en plaza, conforme a lo dispuesto en el artículo 64 del Código Tributario.
+1.o- Se adicionarán a la renta líquida imponible de primera categoría todas las cantidades percibidas o devengadas por la sociedad anónima o en comandita por acciones durante el ejercicio comercial respectivo y que no se encuentren formando parte de la citada renta líquida imponible, excluyéndose únicamente las cantidades percibidas en calidad de accionista de otras sociedades y siempre que estén afectadas en estas últimas por la tasa adicional.
 
-Las sumas que establece este numeral, hasta el valor tributario del activo que resulta ejecutado, se deducirán en la empresa, comunidad o sociedad respectiva, de las cantidades a que se refieren el número 4.- de la letra A) del artículo 14, y el número 2.- de la letra B), de dicho artículo, en la misma forma que los retiros, remesas o distribuciones.
+2.o- Del total resultante de aplicar lo dispuesto en el número anterior se deducirá el monto del impuesto de primera categoría que corresponda pagar por el mismo ejercicio. También se deducirán los desembolsos de dinero y/o retiros de especies efectuados con cargo a los resultados del ejercicio, que la ley no acepta como gastos de la empresa, siempre que dichos desembolsos y/o retiros se hayan agregado en la determinación de la renta líquida imponible de primera categoría y cuyos beneficiarios estén identificados fehacientemente. En el caso de sociedades en comandita por acciones procederá la deducción de aquella parte de las utilidades que correspondan a los socios gestores. En ningún caso se deducirán las cantidades distribuidas a los accionistas, por su calidad de tales, como tampoco el monto del impuesto con la tasa adicional que se establece en este artículo.
 
-Para la aplicación de la tributación establecida en el inciso tercero, se entenderá que las partidas señaladas en el literal i) benefician, que el préstamo se ha efectuado, que el beneficio señalado en el literal iii) se ha conferido o que se han garantizado obligaciones al propietario, comunero, socio o accionista, según sea el caso, cuando dichas cantidades tengan como beneficiario de las partidas señaladas en el literal i), deudor del préstamo, beneficiario por el uso o goce señalado en el literal iii), o sujeto cuyas deudas se han garantizado, a sus respectivos cónyuges, convivientes civiles, hijos no emancipados legalmente, o bien a cualquier persona relacionada con aquellos conforme a las normas de relación del número 17 del artículo 8° del Código Tributario o, a los directores, gerentes, administradores, ejecutivos principales o liquidadores, así como a toda entidad controlada directamente o indirectamente por ellos, y, además, se determine que el beneficiario final, en el caso de los préstamos y garantías es el propietario, socio, comunero o accionista respectivo.
+Para todos los efectos legales esta tasa adicional no tendrá el carácter de impuesto de Primera Categoría .
 
 ### Párrafo 2°
 
@@ -1116,43 +360,17 @@ Los contribuyentes que se enumeran a continuación que desarrollen las actividad
 
 1°.- Los "pequeños mineros artesanales", entendiéndose por tales las personas que trabajan personalmente una mina y/o una planta de beneficio de minerales, propias o ajenas, con o sin la ayuda de su familia y/o con un máximo de cinco dependientes asalariados. Se comprende también en esta denominación las sociedades legales mineras que no tengan más de seis socios, y las cooperativas mineras, y siempre que los socios o cooperados tengan todos el carácter de mineros artesanales de acuerdo con el concepto antes descrito.
 
-2°.- Los "pequeños comerciantes que desarrollen actividades en la vía pública", entendiéndose por tales las personas naturales que prestan servicios o venden productos en la vía pública, en forma ambulante o estacionada y directamente al público, según calificación que quedará determinada en el respectivo permiso municipal, sin perjuicio de la facultad del Director Regional para excluir a determinados contribuyentes del régimen que se establece en el artículo 24, cuando existan circunstancias que los coloquen en una situación de excepción con respecto del resto de los contribuyentes de su misma actividad o cuando la rentabilidad de sus negocios no se compadezca con la tributación especial a que estén sometidos.
+2°.- Los "pequeños comerciantes que desarrollen actividades en la vía pública", entendiéndose por tales las personas naturales que prestan servicios o venden productos en la vía pública, en forma ambulante o estacionada y directamente al público, según calificación que quedará determinada en el respectivo permiso municipal, sin perjuicio de la facultad del Director Regional para excluir a determinados contribuyentes del régimen que se establece en este párrafo, cuando existan circunstancias que los coloquen en una situación de excepción con respecto del resto de los contribuyentes de su misma actividad o cuando la rentabilidad de sus negocios no se compadezca con la tributación especial a que estén sometidos.
 
-3°.- Los "Suplementeros", entendiéndose por tales los pequeños comerciantes que ejercen la actividad de vender en la vía pública, periódicos, revistas, folletos, fascículos y sus tapas, álbunes de estampas y otros impresos análogos.
+3°.- Los "Suplementeros", entendiéndose por tales los pequeños comerciantes que ejercen la actividad de vender an la vía pública, periódicos, revistas, folletos, fascículos y sus tapas, álbumes de estampas y otros impresos análogos.
 
 4°.- Los "Propietarios de un taller artesanal u obrero", entendiéndose por tales personas naturales que posean una pequeña empresa y que la exploten personalmente, destinada a la fabricación de bienes o a la prestación de servicios de cualquier especie, cuyo capital efectivo no exceda de 10 unidades tributarias anuales al comienzo del ejercicio respectivo, y que no emplee más de 5 operarios, incluyendo los aprendices y los miembros del núcleo familiar del contribuyente. El trabajo puede ejercerse en un local o taller o a domicilio, pudiendo emplearse materiales propios o ajenos.
 
-5º.- Los pescadores artesanales inscritos en el registro establecido al efecto por la Ley General de Pesca y Acuicultura, que sean personas naturales, calificados como armadores artesanales a cuyo nombre se exploten una o dos naves que, en conjunto, no superen las quince toneladas de registro grueso.
+> **Nota.** NOTA: 12 Las modificaciones introducidas por el DL 1.604, publicado en el Diario Oficial de 3 de diciembre de 1976, art. 1° N°s. 4, 5, 10, 27 letra d) y 28 letra c), regirán a contar del día primero del mes siguiente al de su publicación, afectando a las ventas que se realicen desde dicha fecha. No obstante, dichas disposiciones, en lo que fuere pertinente, afectarán también a los ejercicios comerciales que se cierren a contar de la fecha de publicación del citado DL. (DL 1604, art. 12°).
 
-Para determinar el tonelaje de registro grueso de las naves sin cubierta, éste se estimará como el resultado de multiplicar la eslora por la manga, por el puntal y por el factor 0.212, expresando en metros las dimensiones de la nave.
+#### Artículo 23
 
-Tratándose de naves con cubierta, que no cuenten con certificado de la autoridad marítima que acredite su tonelaje de registro grueso, éste se estimará como el resultado de multiplicar la eslora por la manga, por el puntal y por el factor 0.279, expresando en metros las dimensiones de la nave.
-
-> **Nota.** El artículo 12 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que las modificaciones introducidas por su artículo 1º números 4, 5, 10, 27 letra d) y 28 letra c), regirán a contar del día primero del mes siguiente al de su publicación, afectando a las ventas que se realicen desde dicha fecha. No obstante, dichas disposiciones, en lo que fuere pertinente, afectarán también a los ejercicios comerciales que se cierren a contar de la fecha de publicación del citado Decreto Ley.
-
-> **Nota.** NOTA: 1 El inciso 1º del Artículo 22 de la LEY 19506, publicada el 30.07.1997, dispone que la presente modificación regirá a contar del año tributario 1998 y le será aplicable lo dispuesto en los artículos 1° y 3° de la ley N° 19484.
-
-#### Artículo 23°
-
-Los pequeños mineros artesanales estarán afectos a un impuesto único sustitutivo de todos los impuestos de esta ley por las rentas provenientes de la actividad minera, que se aplicará sobre el valor neto de las ventas de productos mineros con arreglo a las siguientes tasas:
-
-1% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, no excede de 397,00 centavos de dólar por libra;
-
-2% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 397,00 centavos de dólar por libra y no sobrepasa de 510,49 centavos de dólar por libra, y
-
-4% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 510,49 centavos de dólar por libra.
-
-Se entiende por valor neto de la venta el precio recibido por el minero, excluida o deducida la renta de arrendamiento o regalía, cuando proceda.
-
-El Servicio de Impuestos Internos, previo informe del Ministerio de Minería, determinará la equivalencia que corresponda respecto del precio internacional del oro y la plata, a fin de hacer aplicable la escala anterior a las ventas de dichos minerales y a las combinaciones de esos minerales con cobre.
-
-Si se trata de otros productos mineros sin contenido de cobre, oro o plata, la tasa será del 2% sobre el valor neto de la venta.
-
-No obstante, estos contribuyentes podrán optar por tributar anualmente mediante el régimen de renta presunta contemplado en el art. 34°.
-
-> **Nota.** El artículo 12 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que las modificación introducida por el artículo 1º número 5, regirá a contar del día primero del mes siguiente al de su publicación, afectando a las ventas que se realicen desde dicha fecha. No obstante, dichas disposiciones, en lo que fuere pertinente, afectarán también a los ejercicios comerciales que se cierren a contar de la fecha de publicación del citado Decreto Ley.
-
-> **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, dispone que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984, sin perjuicio de vigencias especiales indicadas por la citada Ley.
+o- Los pequeños mineros artesanales estarán afectos exclusivamente al impuesto del 2% sobre las ventas de minerales establecido en las leyes números 10.270 y 11.127, mediante el cual se entenderán cumplidos los impuestos de esta ley en relación con las rentas provenientes de la actividad minera.
 
 #### Artículo 24°
 
@@ -1182,18 +400,6 @@ Los contribuyentes de este artículo cuyo capital efectivo, existente al comienz
 
 > **Nota.** El Nº 1 del artículo 8º del DL 2324, Hacienda, publicado el 31.08.1978, dispone que la modificación introducidas por el Nº 1 de su artículo 1º, regirá respecto de las rentas que se deban declarar a contar del 1° de enero de 1978.
 
-#### Artículo 26° bis
-
-Los pescadores artesanales señalados en el número 5º del artículo 22, pagarán como impuesto de esta categoría una cantidad equivalente a:
-
-- Media unidad tributaria mensual, vigente en el último mes del ejercicio respectivo, los armadores artesanales de una o dos naves artesanales que, en su conjunto, no superen las cuatro toneladas de registro grueso;
-
-- Una unidad tributaria mensual, vigente en el último mes del ejercicio respectivo, los armadores artesanales de una o dos naves artesanales que, en su conjunto, tengan sobre cuatro y hasta ocho toneladas de registro grueso, y
-
-- Dos unidades tributarias mensuales, vigentes en el último mes del ejercicio respectivo, los armadores artesanales de una o dos naves que, en conjunto, tengan sobre ocho y hasta quince toneladas de registro grueso.
-
-> **Nota.** El inciso 1º del Art. 22 de la LEY 19506, publicada el 30.07.1997, dispone que la presente modificación regirá a contar del año tributario 1998 y le será aplicable lo dispuesto en los artículos 1° y 3° de la ley N° 19.484.
-
 #### Artículo 27°
 
 Para los fines de justificar gastos de vida o inversiones, se presume que las rentas cuya tributación se ha cumplido mediante las disposiciones de este párrafo es equivalente a dos unidades tributarias anuales, excepto en el caso de los contribuyentes referidos en el artículo 23.o en que la presunción será equivalente al 10% de las ventas anuales de minerales.
@@ -1210,199 +416,61 @@ Facúltase al Presidente de la República para incorporar a otros grupos o gremi
 
 De la base imponible
 
-#### Artículo 29°
+#### Artículo 29
 
-Constituyen "ingresos brutos" todos los ingresos derivados de la explotación de bienes y actividades incluidas en la presente categoría, excepto los ingresos que no constituyan renta a que se refiere el artículo 17. En los casos de contribuyentes de esta categoría que estén obligados o puedan llevar, según la ley, contabilidad fidedigna, se considerarán dentro de los ingresos brutos los reajustes mencionados en los números 25 y 28 del artículo 17 y las rentas referidas en el número 2 del artículo 20°. Sin embargo, estos contribuyentes podrán rebajar del impuesto el importe del gravamen retenido sobre dichas rentas que para estos efectos tendrá el carácter de pago provisional sujeto a las disposiciones del Párrafo 3° del Título V. Las diferencias de cambio en favor del contribuyente, originadas de créditos, también constituirán ingresos brutos.
+o- Constituyen "ingresos brutos" todos los ingresos derivados de la explotación de bienes y actividades incluidas en la presente categoría, excepto los ingresos a que se refiere el artículo 17. En los casos de contribuyentes de esta categoría que esten obligados o puedan llevar, segun la ley, contabilidad fidedigna, se considerarán dentro de los ingresos brutos los reajustes mencionados en los números 25 y 28 del artículo 17 y las rentas referidas en el número 2 del artículo 20.o. Sin embargo, estos contribuyentes podrán rebajar del impuesto el importe del gravamen retenido sobre dichas rentas que para estos efectos tendrá el carácter de pago provisional sujeto a las disposiciones del Párrafo 3.o del Título V. Las diferencias de cambio en favor del contribuyente, originadas de créditos, también constituirán ingresos brutos.
 
-El monto a que asciende la suma de los ingresos mencionados, será incluido en los ingresos brutos del año en que ellos sean devengados o, en su defecto, del año en que sean percibidos por el contribuyente, con excepción de las rentas mencionadas en el número 2° del artículo 20°, que se incluirán en el ingreso bruto del año en que se perciban.
+El monto a que ascienda la suma de los ingresos mencionados, será incluido en los ingresos brutos del año en que ellos sean devengados o, en su defecto, del año en que sean percibidos por el contribuyente, con excepción de las rentas mencionadas en el número 2.o del artículo 20.o que se incluirán en el ingreso bruto del año en que se perciban.
 
-Los ingresos obtenidos con motivo de contratos de promesa de venta de inmueble se incluirán en los ingresos brutos del año en que se suscriba el contrato de venta correspondiente. En los contratos de construcción por suma alzada el ingreso bruto, representado por el valor de la obra ejecutada, será incluído en el ejercicio en que se formule el cobro respectivo.
+#### Artículo 30
 
-Con todo, no se considerará en los ingresos brutos la diferencia positiva entre el valor nominal y el de adquisición en operaciones de compra de títulos de crédito y carteras de crédito, sin perjuicio del reconocimiento como ingreso bruto de las sumas que sean percibidas. El mismo tratamiento tendrá la adquisición y colocación de bonos a un valor inferior al nominal o de emisión. Lo dispuesto en este inciso no se aplicará en el caso de empresas relacionadas conforme a la definición contemplada en el número 17 del artículo 8 del Código Tributario, salvo que se acredite que las operaciones se han realizado de acuerdo a precios o valores normales de mercado que habrían acordado partes no relacionadas.
+o- La renta bruta de una persona natural o jurídica que explote bienes o desarrolle actividades afectas al impuesto de esta categoría en virtud de los N.os 1, 3, 4 y 5 del artículo 20, será determinada deduciendo de los ingresos brutos el costo directo de los bienes y servicios que se requieran para la obtención de dicha renta. En el caso de mercaderías adquiridas en el país, se considerará como costo directo el valor o precio de adquisición, según la respectiva factura, contrato o convención, y el valor del flete y seguros hasta las bodegas del adquirente. Si se trata de mercaderías internadas al país, se considerará como costo directo el valor CIF, los derechos de internación, los gastos de desaduanamiento y el flete y seguros hasta las bodegas del importador. Respecto de bienes producidos o elaborados por el contribuyente, se considerará como costo directo el valor de la materia prima aplicando las normas anteriores y el valor de la mano de obra.
 
-Constituirán ingresos brutos del ejercicio los anticipos de intereses que obtengan los bancos, las empresas financieras y otras similares.
-
-El ingreso bruto de los servicios de conservación, reparación y explotación de una obra de uso público entregada en concesión, será equivalente a la diferencia que resulte de restar del ingreso total mensual percibido por el concesionario por concepto de la explotación de la concesión, la cantidad que resulte de dividir el costo total de la obra por el número de meses que comprenda la explotación efectiva de la concesión o, alternativamente, a elección del concesionario, por un tercio de este plazo. En el caso del concesionario por cesión, el costo total a dividir en los mismos plazos anteriores, será equivalente al costo de la obra en que él haya incurrido efectivamente más el valor de adquisición de la concesión. Si se prorroga el plazo de la concesión antes del término del período originalmente concebido, se considerará el nuevo plazo para los efectos de determinar el costo señalado precedentemente, por aquella parte del valor de la obra que reste a la fecha de la prórroga. De igual forma, si el concesionario original o el concesionario por cesión asume la obligación de construir una obra adicional, se sumará el valor de ésta al valor residual de la obra originalmente construida para determinar dicho costo. Para los efectos de lo dispuesto en este inciso, deberán descontarse del costo los eventuales subsidios estatales y actualizarse de conformidad al artículo 41, N° 7.
-
-> **Nota.** El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
-
-> **Nota.** NOTA: 1 Las modificaciones introducidas por el artículo 1º de la LEY 18897, publicada el 09.01.1990, rigen según lo dispone su artículo 2º, desde el año tributario 1990.
-
-> **Nota.** NOTA: 2 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-#### Artículo 30°
-
-La renta bruta de una persona natural o jurídica que explote bienes o desarrolle actividades afectas al impuesto de esta categoría en virtud de los N°s 1, 3, 4 y 5 del artículo 20, será determinada deduciendo de los ingresos brutos el costo directo de los bienes y servicios que se requieran para la obtención de dicha renta. En el caso de mercaderías adquiridas en el país, se considerará como costo directo el valor o precio de adquisición, según la respectiva factura, contrato o convención, y optativamente el valor del flete (9-a-b) y seguros hasta las bodegas del adquirente. Si se trata de mercaderías internadas al país, se considerará como costo directo el valor CIF, los derechos de internación, los gastos de desaduanamiento y optativamente el flete y seguros hasta las bodegas del importador. Respecto de bienes producidos o elaborados por el contribuyente, se considerará como costo directo el valor de la materia prima aplicando las normas anteriores y el valor de la mano de obra. El costo directo del mineral extraído considerará también la parte del valor de adquisición de las pertenencias respectivas que corresponda a la proporción que el mineral extraído represente en el total del mineral que técnicamente se estime contiene el correspondiente grupo de pertenencias, en la forma que determine el Reglamento.
-
-Para los efectos de establecer el costo directo de venta de las mercaderías, materias primas y otros bienes del activo realizable o para determinar el costo directo de los mismos bienes cuando se apliquen a procesos productivos y/o artículos terminados o en proceso, deberán utilizarse los costos directos más antiguos, sin perjuicio que el contribuyente opte por utilizar el método denominado "Costo Promedio Ponderado". El método de valorización adoptado respecto de un ejercicio determinará a su vez el valor de las existencias al término de éste, sin perjuicio del ajuste que ordena el artículo 41°. El método elegido deberá mantenerse consistentemente a lo menos durante cinco ejercicios comerciales consecutivos.
-
-Tratándose de bienes enajenados o prometidos enajenar a la fecha del balance respectivo que no hubieren sido adquiridos, producidos, fabricados o construidos totalmente por el enajenante, se estimará su costo directo de acuerdo al que el contribuyente haya tenido presente para celebrar el respectivo contrato. En todo caso, el valor de la enajenación o promesa deberá arrojar una utilidad estimada de la operación que diga relación con la que se ha obtenido en el mismo ejercicio respecto de las demás operaciones; todo ello, sin perjuicio de ajustar la renta bruta definitiva de acuerdo al costo directo real en el ejercicio en que dicho costo se produzca.
-
-No obstante, en el caso de contratos de promesa de venta de inmuebles, el costo directo de su adquisición o construcción se deducirá en el ejercicio en que se suscriba el contrato de venta correspondiente. Tratándose de contratos de construcción por suma alzada, el costo directo deberá deducirse en el ejercicio en que se presente cada cobro.
-
-En los contratos de construcción de una obra de uso público a que se refiere el artículo 15, el costo representado por el valor total de la obra, en los términos señalados en los incisos sexto y séptimo del referido artículo, deberá deducirse en el ejercicio en que se inicie la explotación de la obra.
+Tratándose de mercaderías enajenadas que a la fecha del balance respectivo no han sido producidas o fabricadas totalmente por el enajenante, se estimará el costo directo de ellas de acuerdo al costo que el contribuyente haya tenido presente para celebrar el respectivo contrato. En todo caso, el valor de enajenación deberá arrojar una utilidad estimada de la operación que diga relación con la que se ha obtenido en el mismo ejercicio respecto de las demás operaciones. Todo ello, sin perjuicio de ajustar la renta bruta definitiva de acuerdo al costo directo real en el ejercicio en que dicho costo se produzca.
 
 En los casos en que no pueda establecerse claramente estas deducciones, la Dirección Regional podrá autorizar a los contribuyentes que dichos costos directos se rebajen conjuntamente con los gastos necesarios para producir la renta, a que se refiere el artículo siguiente.
 
-> **Nota.** El artículo 15 Nº 1 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que las modificaciones introducidas a la presente norma, regirán a contar del año tributario 1977.
+#### Artículo 31
 
-> **Nota.** NOTA: 1 El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
+o- La renta líquida de las personas referidas en el artículo anterior se determinará deduciendo de la renta bruta todos los gastos necesarios para producirla que no hayan sido rebajados en virtud del artículo 30.o, pagados o adeudados, durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en forma fehaciente ante el Servicio. No se deducirán los gastos incurridos en la adquisición, mantención o explotación de bienes no destinados al giro del negocio o empresa.
 
-> **Nota.** NOTA: 2 Las modificaciones introducidas por el artículo 1º la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
+Especialmente procederá la deducción de los siguientes gastos, en cuanto se relacionen con el giro del negocio:
 
-#### Artículo 31°
+1.o- Los intereses pagados o devengados sobre las cantidades adeudadas, dentro del año a que se refiere el impuesto. No se aceptará la deducción de intereses y reajustes pagados o adeudados, respecto de créditos o préstamos empleados directa o indirectamente en la adquisición, mantención y/o explotación de bienes que no produzcan rentas gravadas en esta categoría.
 
-La renta líquida de las personas referidas en el artículo anterior se determinará deduciendo de la renta bruta todos los gastos necesarios para producirla, entendiendo por tales aquellos que tengan aptitud de generar renta, en el mismo o futuros ejercicios y se encuentren asociados al interés, desarrollo o mantención del giro del negocio, que no hayan sido rebajados en virtud del artículo 30°, pagados o adeudados, durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en forma fehaciente ante el Servicio. No se deducirán los gastos incurridos en la adquisición, mantención o explotación de bienes no destinados al giro del negocio o empresa, de los bienes de los cuales se aplique la presunción de derecho a que se refiere el literal iii) del inciso tercero del artículo 21 y la letra f), del número 1°, del artículo 33, como tampoco en la adquisición y arrendamiento de automóviles, station wagons y similares, cuando no sea éste el giro habitual, y en combustible, lubricantes, reparaciones, seguros y, en general, todos los gastos para su mantención y funcionamiento. No obstante, procederá la deducción de los gastos respecto de los vehículos señalados, cuando el Director, mediante resolución fundada, lo establezca por cumplirse los requisitos establecidos en la primera parte de este inciso.
+2.o- Los impuestos establecidos por leyes chilenas, en cuando se relacionen con el giro de la empresa y siempre que no sean los de esta ley, ni de bienes raíces, y que no constituyan contribuciones especiales de fomento o mejoramiento. Sólo podrán rebajarse los impuestos que se hayan pagado efectivamente, no procediendo esta rebaja en los casos en que el pago del impuesto haya sido sustituido por una inversión en beneficio del contribuyente.
 
-Sin perjuicio de lo indicado en el inciso precedente, los gastos incurridos en el extranjero se acreditarán con los correspondientes documentos emitidos en el exterior de conformidad a las disposiciones legales del país respectivo, siempre que conste en ellos, a lo menos, la individualización y domicilio del prestador del servicio o del vendedor de los bienes adquiridos según corresponda, la naturaleza u objeto de la operación y la fecha y monto de la misma. El contribuyente deberá presentar una traducción al castellano de tales documentos cuando así lo solicite el Servicio de Impuestos Internos. Aun en el caso que no exista el respectivo documento de respaldo, la Dirección Regional podrá aceptar la deducción del gasto si a su juicio éste es razonable y necesario para la operación del contribuyente, atendiendo a factores tales como la relación que exista entre las ventas, servicios, gastos o los ingresos brutos y el desembolso de que se trate de igual o similar naturaleza, de contribuyentes que desarrollen en Chile la misma actividad o una semejante.
+3.o- Las pérdidas sufridas por el negocio o empresa durante el año comercial a que se refiere el impuesto, comprendiendo las que provengan de delitos contra la propiedad.
 
-Respecto de las cantidades a que se refiere el artículo 59, cuando se originen en actos o contratos celebrados con partes directa o indirectamente relacionadas de la entidad local respectiva en los términos del artículo 41 E, sólo procederá su deducción como gasto en el año calendario o comercial de su pago, abono en cuenta o puesta a disposición. Para que proceda su deducción, se requiere que se haya declarado y pagado el respectivo impuesto adicional, salvo que tales cantidades se encuentren exentas o no gravadas con el citado tributo, ya sea por ley o por aplicación de un convenio para evitar la doble tributación internacional. Adicionalmente, para que sea procedente su deducción deberán cumplir con los requisitos que establece este artículo, en cuanto sean aplicables. Lo dispuesto en este inciso, no obsta a la aplicación de lo dispuesto en el citado artículo 41 E.
+Podrán, asimismo, deducirse las pérdidas de hasta dos ejercicios anteriores, siempre que concurran los requisitos del inciso precedente. Para estos efectos, las pérdidas del ejercicio financiero de un año deberán imputarse a las utilidades obtenidas en el ejercicio siguiente a aquél en que se produjeron dichas pérdidas, y si las utilidades del referido ejercicio no fueren suficientes para absorberlas, la diferencia deberá imputarse al ejercicio siguiente.
 
-Procederá la deducción de los siguientes gastos especiales, siempre que, además de los requisitos que para cada caso se señalen, cumplan los requisitos generales de los gastos a que se refiere el inciso primero, en la medida que a estos últimos les sean aplicables estos requisitos generales conforme a la naturaleza del gasto respectivo:
+Las pérdidas se determinarán aplicando a los resultados del balance las normas relativas a la determinación de la renta líquida imponible contenidas en este párrafo y su monto se reajustará de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes anterior al del cierre del ejercicio comercial en que se generaron las pérdidas y el segundo mes anterior al del cierre del ejercicio en que proceda su deducción.
 
-1°.- Los intereses pagados o devengados sobre las cantidades adeudadas, dentro del año a que se refiere el impuesto.
+4.o- Los créditos incobrables castigados durante el año, siempre que hayan sido contabilizados oportunamente y se hayan agotado prudencialmente los medios de cobro.
 
-Con todo, los intereses y demás gastos financieros que conforme a las disposiciones de este artículo cumplan con los requisitos para ser deducidos como gastos, que provengan de créditos destinados a la adquisición de derechos sociales, acciones, bonos y, en general, cualquier tipo de capital mobiliario, podrán ser deducidos como tales.
+5.o- Una depreciación para compensar el agotamiento, desgaste y destrucción de los bienes usados en el negocio o empresa, incluyendo una asignación sobre el valor residual de los bienes, cuando éstos deban dejarse en desuso o ser reemplazados. Los plazos o consiguientes porcentajes de depreciación serán determinados mediante normas que establecerá la Dirección considerando la probable duración útil de los respectivos bienes, según su naturaleza o características y las condiciones de trabajo y desgaste a que estén sometidos. Para los efectos de esta ley, no se admitirán depreciaciones por agotamiento de las substancias naturales contenidas en la propiedad minera. La depreciación anual se calculará sobre el valor neto del bien a la fecha del balance respectivo, una vez efectuada la revalorización obligatoria que dispone el artículo 41.
 
-2°.- Los impuestos establecidos por leyes chilenas, en cuanto se relacionen con el giro de la empresa y siempre que no sean los de esta ley, con excepción del impuesto territorial, a menos que en este último caso no proceda su utilización como crédito y que no constituyan contribuciones especiales de fomento o mejoramiento. No procederá esta rebaja en los casos en que el impuesto haya sido sustituido por una inversión en beneficio del contribuyente.
+6.o- Sueldos, salarios y otras remuneraciones pagados o adeudados por la prestación de servicios personales, incluso las gratificaciones legales y contractuales. Las participaciones y gratificaciones voluntarias que se otorguen a empleados y obreros se aceptarán como gasto cuando se paguen o abonen en cuenta y siempre que ellas sean repartidas a cada empleado y obrero en proporción a los sueldos y salarios pagados durante el ejercicio, así como en relación a la antigüedad, cargas de familia u otras normas de carácter general y uniforme aplicables a todos los empleados o a todos los obreros de la empresa.
 
-3°.- Las pérdidas sufridas por el negocio o empresa durante el año comercial a que se refiere el impuesto, comprendiendo las que provengan de delitos contra la propiedad.
+Los sueldos, gratificaciones o remuneraciones en general, cualquiera que sea su denominación, pagados a personas que por ser principales accionistas o por la importancia de su haber en la empresa, cualquiera que sea la condición jurídica de ésta, o que por cualesquiera otras circunstancias personales, hayan podido influir, a juicio de la Dirección Regional, en la fijación de las remuneraciones, sólo se aceptarán como gastos en la parte que, según el Servicio, sean razonablemente proporcionadas a la importancia de la empresa, a las rentas declaradas, a los servicios prestados y a la rentabilidad del capital, sin perjuicio de los impuestos que procedan respecto de quienes perciban tales pagos.
 
-Se incluye, también, la deducción del costo para fines tributarios de aquellos alimentos destinados al consumo humano, alimentos para mascotas, productos de higiene y aseo personal, y productos de aseo y limpieza, libros, artículos escolares, ropa, juguetes, materiales de construcción, entre otros, que correspondan a bienes de uso o consumo, cuyas características y condiciones se determinen mediante resolución del Servicio. Para estos efectos, se exigirá que se trate de bienes respecto de los cuales su comercialización se ha vuelto inviable por razones de plazo, desperfectos o fallas en su fabricación, manipulación o transporte, por modificaciones sustantivas en las líneas de comercialización que conlleven la decisión de productores y vendedores de eliminar tales bienes del mercado pero que, conservando sus condiciones para el consumo o uso según corresponda, son entregados gratuitamente a instituciones sin fines de lucro, debidamente inscritas ante el Servicio, para su distribución gratuita, consumo o utilización entre personas naturales de escasos recursos beneficiarias de tales instituciones, u otras instituciones sin fines de lucro que las puedan utilizar en el cumplimiento de sus fines, todas circunstancias que deberán ser acreditadas de manera fehaciente ante el Servicio, en la forma que éste determine mediante resolución.
+Con todo, procederá la deducción de los sueldos asignados al empresario o socios que efectiva y permanentemente trabajen en el negocio o empresa, siempre que sobre su monto se efectúen imposiciones en una institución de previsión social. En caso que las imposiciones previsionales se efectúen sobre una cantidad inferior al monto del sueldo asignado, se aceptará como gasto sólo hasta dicha cantidad. Esta deducción procederá en una sola empresa y deberá ser contabilizada en calidad de sueldo. Los sueldos que se puedan deducircomo gasto quedarán afectos al impuesto único de Segunda Categoría que se establece en el N.o 1 del artículo 42, aplicándose todas las normas de la presente ley que afectan a las rentas referidas en dicha disposición.
 
-Del mismo modo, se procederá en la entrega gratuita de especialidades farmacéuticas y otros productos farmacéuticos que autorice el reglamento que emite el Ministerio de Salud para el control de los productos farmacéuticos de uso humano, bajo los requisitos y condiciones que dicho reglamento determine, a los establecimientos asistenciales públicos o privados, para ser dispensados en la misma condición de gratuidad a los pacientes.
+Las remuneraciones por servicios prestados en el extranjero se aceptarán también como gastos, siempre que se acrediten con documentos fehacientes y sean, a juicio de la Dirección Regional, por su monto y naturaleza, necesarias y convenientes para producir la renta en Chile.
 
-En conformidad con lo dispuesto en la ley número 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, no se aceptará como gasto y se afectará con el impuesto único establecido en el inciso primero del artículo 21, la destrucción voluntaria de materias primas, insumos o bienes procesados o terminados que puedan ser entregados gratuitamente en los términos de los párrafos anteriores.
+7.o- Las donaciones efectuadas cuyo único fin sea la realización de programas de instrucción básica o media gratuitas, técnica, profesional o universitaria en el país, ya sean privados o fiscales, sólo en cuanto no excedan del 2% de la renta líquida imponible de la empresa. Esta disposición no será aplicada a las empresas afectas a la ley número 16.624.
 
-Podrán, asimismo, deducirse las pérdidas de ejercicios anteriores, siempre que concurran los requisitos del inciso primero, las cuales deberán imputarse al ejercicio inmediatamente siguiente y así sucesivamente.
-
-Las rentas o cantidades que se perciban a título de retiros o dividendos provenientes de otras empresas no se imputarán a las pérdidas de la empresa receptora. Por su parte, el monto del impuesto de primera categoría asociado a los retiros o dividendos que se perciban de otras empresas, se controlará en el registro SAC de la empresa receptora, establecido en el artículo 14 letra A N° 2 letra d).
-
-Las pérdidas se determinarán aplicando a los resultados del balance las normas relativas a la determinación de la renta líquida imponible contenidas en este párrafo y su monto se reajustará, cuando deba imputarse a los años siguientes, de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes anterior al del cierre del ejercicio comercial en que se generaron las pérdidas y el último día del mes anterior al del cierre del ejercicio en que proceda su deducción.
-
-Con todo, las sociedades con pérdidas que en el ejercicio hubieren sufrido cambio en la propiedad de los derechos sociales, acciones o del derecho a participación en sus utilidades, no podrán deducir las pérdidas generadas antes del cambio de propiedad de los ingresos percibidos o devengados con posterioridad a dicho cambio. Ello siempre que, además, con motivo del cambio señalado o en los doce meses anteriores o posteriores a él la sociedad haya cambiado de giro o ampliado el original a uno distinto, salvo que mantenga su giro principal, o bien al momento del cambio indicado en primer término, no cuente con bienes de capital u otros activos propios de su giro de una magnitud que permita el desarrollo de su actividad o de un valor proporcional al de adquisición de los derechos o acciones, o pase a obtener solamente ingresos por participación, sea como socio o accionista, en otras sociedades o por reinversión de utilidades. Para este efecto, se entenderá que se produce cambio de la propiedad en el ejercicio cuando los nuevos socios o accionistas adquieran o terminen de adquirir, directa o indirectamente, a través de sociedades relacionadas, a lo menos el 50% de los derechos sociales, acciones o participaciones. Lo dispuesto en este inciso no se aplicará cuando el cambio de propiedad se efectúe entre empresas relacionadas, en los términos que establece el número 17 del artículo 8° del Código Tributario.
-
-4°.- Los créditos incobrables castigados durante el año, siempre que hayan sido contabilizados oportunamente y se hayan agotado prudencialmente los medios de cobro.
-
-Sin perjuicio de lo dispuesto en el párrafo anterior, los contribuyentes podrán deducir de su renta líquida, salvo que se trate de operaciones con relacionados, en los términos del número 17.- del artículo 8° del Código Tributario, los créditos que se encuentren impagos por más de 365 días contados desde su vencimiento o el valor que resulte de aplicar un porcentaje sobre el monto de los créditos vencidos. El Servicio, mediante sucesivas resoluciones, establecerá los rangos de porcentajes tomando de referencia indicadores de incobrabilidad del sector o mercado relevante en que opera el contribuyente. Las recuperaciones totales o parciales de créditos se considerarán de acuerdo a lo dispuesto en el artículo 29.
-
-Las provisiones y castigos de los créditos incluidos en la cartera vencida de los bancos e instituciones financieras, entendiéndose dentro de estas últimas a las empresas operadoras y/o emisoras de tarjetas de crédito no bancarias, de acuerdo a las instrucciones que impartan en conjunto la Superintendencia de Bancos e Instituciones Financieras y el Servicio de Impuestos Internos. Las recuperaciones totales o parciales de créditos se considerarán de acuerdo a lo dispuesto en el artículo 29.
-
-Las instrucciones de carácter general que se impartan en virtud del inciso anterior, serán también aplicables a las remisiones de créditos riesgosos que efectúen los bancos y sociedades financieras a sus deudores, en la parte en que se encuentren afectos a provisiones constituídas conforme a la normativa sobre clasificación de la cartera de créditos establecida por la Superintendencia de Bancos e Instituciones financieras.
-
-Las normas generales que se dicten deberán contener, a lo menos, las siguientes condiciones:
-
-a) Que se trate de créditos clasificados en las dos últimas categorías de riesgo establecidas para la clasificación de cartera, y
-
-b) Que el crédito de que se trata haya permanecido en alguna de las categorías indicadas a lo menos por el período de un año, desde que se haya pronunciado sobre ella la Superintendencia.
-
-Lo dispuesto en este número se aplicará también a los créditos que una institución financiera haya adquirido de otra, siempre que se cumpla con las condiciones antedichas.
-
-Lo dispuesto en el párrafo segundo no se aplicará en el caso de créditos entre empresas consideradas relacionadas conforme al número 17 del artículo 8° del Código Tributario, salvo que se trate de empresas o sociedades de apoyo al giro. Se entenderá que constituyen empresas o sociedades de apoyo al giro aquellas sociedades o empresas cuyo objeto único sea prestar servicios destinados a facilitar el cumplimiento o desarrollo del negocio de empresas relacionadas, o que por su intermedio se pueda realizar operaciones del giro de las mismas.
-
-5°.- Una cuota anual de depreciación por los bienes físicos del activo inmovilizado a contar de su utilización en la empresa, calculada sobre el valor neto de los bienes a la fecha del balance respectivo, una vez efectuada la revalorización obligatoria que dispone el artículo 41°.
-
-El porcentaje o cuota correspondiente al período de depreciación dirá relación con los años de vida útil que mediante normas generales fije la Dirección y operará sobre el valor neto total del bien. No obstante, el contribuyente podrá aplicar una depreciación acelerada, entendiéndose por tal aquélla que resulte de fijar a los bienes físicos del activo inmovilizado adquiridos nuevos o internados, una vida útil equivalente a un tercio de la fijada por la Dirección o Dirección Regional. No podrán acogerse al régimen de depreciación acelerada los bienes nuevos o internados cuyo plazo de vida útil total fijada por la Dirección o Dirección Regional sea inferior a tres años. Los contribuyentes podrán en cualquiera oportunidad abandonar el régimen de depreciación acelerada, volviendo así definitivamente al régimen normal de depreciaciones a que se refiere este número. Al término del plazo de depreciación del bien, éste deberá registrarse en la contabilidad por un valor equivalente a un peso, valor que no quedará sometido a las normas del artículo 41°, y que deberá permanecer en los registros contables hasta la eliminación total del bien motivada por la venta, castigo, retiro u otra causa. Tratándose de bienes que se han hecho inservibles para la empresa antes del término del plazo de depreciación que se les haya asignado, podrá aumentarse al doble la depreciación correspondiente.
-
-En todo caso, cuando se aplique el régimen de depreciación acelerada, sólo se considerará para los efectos de lo dispuesto en el artículo 14, la depreciación normal que corresponde al total de los años de vida útil del bien. La diferencia que resulte en el ejercicio respectivo entre la depreciación acelerada y la depreciación normal, sólo podrá deducirse como gasto para los efectos de primera categoría.
-
-La Dirección Regional, en cada caso particular, a petición del contribuyente o del Comité de Inversiones Extranjeras, podrá modificar el régimen de depreciación de los bienes cuando los antecedentes así lo hagan aconsejable.
-
-Para los efectos de esta ley no se admitirán depreciaciones por agotamiento de las sustancias naturales contenidas en la propiedad minera, sin perjuicio de lo dispuesto en el inciso primero del artículo 30.
-
-5º bis.- Para los efectos de lo dispuesto en el número 5° precedente, los contribuyentes que en los 3 ejercicios anteriores a aquel en que comience la utilización del bien, sea que se trate de bienes nuevos o usados, tengan un promedio anual de ingresos del giro igual o inferior a 100.000 unidades de fomento, podrán depreciar los bienes del activo inmovilizado considerando como vida útil del respectivo bien el equivalente a un décimo de la vida útil fijada por la Dirección o Dirección Regional, expresada en años, despreciando los valores decimales que resulten. En todo caso, la vida útil resultante no podrá ser inferior a un año. Si la empresa tuviere una existencia inferior a 3 ejercicios, el promedio se calculará considerando los ejercicios de existencia efectiva.
-
-Para efectos de determinar el promedio de ingresos anuales del giro conforme a lo dispuesto en los párrafos precedentes, los ingresos de cada mes se expresarán en unidades de fomento según el valor de ésta en el último día del mes respectivo.
-
-En lo demás, se aplicarán las reglas que establece el número 5° anterior.
-
-6°.- Sueldos, salarios y otras remuneraciones, pagados o adeudados por la prestación de servicios personales.
-
-Se aceptarán como gasto las asignaciones de movilización, alimentación, viático, las cantidades por concepto de gastos de representación, participaciones, gratificaciones legales y contractuales e indemnizaciones, como así también otros conceptos o emolumentos de similar naturaleza, siempre que los mismos guarden relación directa con la naturaleza de la actividad de los trabajadores en la empresa. Tratándose de pagos voluntarios por estos conceptos, se aceptarán como gasto cuando se paguen o abonen en cuenta y se retengan o paguen los impuestos que sean aplicables.
-
-Tratándose de personas que por cualquiera circunstancia personal o por la importancia de su haber en la empresa, cualquiera sea la condición jurídica de ésta, hayan podido influir, a juicio de la Dirección Regional, en la fijación de sus remuneraciones, éstas sólo se aceptarán como gasto en la parte que, según el Servicio, sean razonablemente proporcionadas a la importancia de la empresa, a las rentas declaradas, a los servicios prestados y a la rentabilidad del capital, sin perjuicio de los impuestos que procedan respecto de quienes perciban tales pagos.
-
-No obstante disposición legal en contrario, para fines tributarios, se aceptará como gasto la remuneración razonablemente proporcionada en los términos del párrafo anterior, que se asigne al socio, accionista o empresario individual que efectivamente trabaje en el negocio o empresa. En todo caso, dichas remuneraciones se considerarán rentas del artículo 42, número 1. Asimismo, se aceptará como gasto las remuneraciones pagadas al cónyuge o conviviente civil del propietario o a sus hijos, en la medida que se trate de una remuneración razonablemente proporcionada en los términos del párrafo anterior y que efectivamente trabajen en el negocio o empresa.
-
-Las remuneraciones por servicios prestados en el extranjero se aceptarán también como gastos, siempre que se acrediten fehacientemente y se encuentren, por su naturaleza, vinculadas directa o indirectamente al desarrollo del giro.
-
-En el caso de reorganizaciones de grupos empresariales, sea que consistan en reorganizaciones societarias o de funciones, incluyendo los procesos de toma de control o traspasos dentro de grupos económicos, que contemplen el traslado total o parcial de trabajadores dentro de un mismo grupo empresarial, sin solución de continuidad laboral, en que se reconozcan por el nuevo empleador los años de servicio prestados a otras empresas del grupo, procederá la deducción como gasto el pago de las indemnizaciones que correspondan por años de servicio al término de la relación laboral, proporcionalmente según el tiempo trabajado en las empresas donde se hayan prestado efectivamente los servicios.
-
-6º bis.- Las becas de estudio que se paguen a los hijos de los trabajadores de la empresa, siempre que ellas sean otorgadas con relación a las cargas de familia u otras normas de carácter general y uniforme aplicables a todos los trabajadores de la empresa. En todo caso, el monto de la beca por cada hijo, no podrá ser superior en el ejercicio hasta la cantidad equivalente a una y media unidad tributaria anual, salvo que el beneficio corresponda a una beca para estudiar en un establecimiento de educación superior y se pacte en un contrato o convenio colectivo de trabajo, caso en el cual este límite será de hasta un monto equivalente a cinco y media unidades tributarias anuales.
-
-7°.- Las donaciones efectuadas cuyo único fin sea la realización de programas de instrucción básica o media gratuitas, técnica, profesional o universitaria en el país, ya sean privados o fiscales, ya sea que los programas de instrucción sean realizados directamente por la institución donataria o a través de otras entidades o establecimientos docentes, académicos o educacionales, sólo en cuanto no excedan del 2% de la renta líquida imponible de la empresa o del 1,6°/°° del capital propio de la empresa al término del correspondiente ejercicio. Esta disposición no será aplicada a las empresas afectas a la ley N° 16.624.
-
-Lo dispuesto en el inciso anterior se aplicará también a las donaciones que se hagan a los Cuerpos de Bomberos de la República, Fondo de Solidaridad Nacional, Fondo de Abastecimiento y Equipamiento Comunitario, Servicio Nacional de Menores y a los Comités Habitacionales Comunales.
+Lo dispuesto en el inciso anterior se aplicará también a las donaciones que se hagan a los Cuerpos de Bomberos de la República.
 
 Las donaciones a que se refiere este número no requerirán del trámite de la insinuación y estarán exentas de toda clase de impuestos.
 
-8°.- Los reajustes y diferencias de cambio provenientes de créditos o préstamos destinados al giro del negocio o empresa, incluso los originados en la adquisición de bienes del activo inmovilizado y realizable.
+8.o- Los reajustes y diferencias de cambio provenientes de créditos o préstamos destinados al giro del negocio o empresa, incluso los originados en la adquisición de bienes del activo inmovilizado y realizable.
 
-9°.- Los gastos de organización y puesta en marcha, los cuales podrán ser amortizados hasta en un lapso de seis ejercicios comerciales consecutivos contados desde que se generaron dichos gastos o desde el año en que la empresa comience a generar ingresos de su actividad principal, cuando este hecho sea posterior a la fecha en que se originaron los gastos.
+9.o- Los gastos de organización y puesta en marcha, los cuales deberán ser amortizados en un lapso de cinco ejercicios comerciales consecutivos contados desde que se generaron dichos gastos.
 
-En el caso de empresas cuyo único giro según la escritura de constitución sea el de desarrollar determinada actividad por un tiempo inferior a 6 años no renovable o prorrogable, los gastos de organización y puesta en marcha se podrán amortizar en el número de años que abarque la existencia legal de la empresa.
+En el caso de empresas cuyo único giro según la escritura de constitución sea el de desarrollar determinada actividad por un tiempo inferior a 5 años no renovable o prorrogable, los gastos de organización y puesta en marcha se amortizarán en el número de años que abarque la existencia legal de la empresa.
 
-Cuando con motivo de la fusión de sociedades, comprendiéndose dentro de este concepto la reunión del total de los derechos o acciones de una sociedad en manos de una misma persona, el valor de la inversión total realizada en los derechos o acciones de la sociedad fusionada, resulte mayor al valor total o proporcional, según corresponda, que tenga el capital propio de la sociedad absorbida, determinado de acuerdo al artículo 41 de esta ley, la diferencia que se produzca deberá, en primer término, distribuirse entre todos los activos no monetarios que se reciben con motivo de la fusión cuyo valor tributario sea inferior al corriente en plaza. La distribución se efectuará en la proporción que represente el valor corriente en plaza de cada uno de dichos bienes sobre el total de ellos, aumentándose el valor tributario de éstos hasta concurrencia de su valor corriente en plaza o de los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación. De subsistir la diferencia o una parte de ella, ésta se considerará como un activo intangible, sólo para los efectos de que sea castigado o amortizado a la disolución de la empresa o sociedad, o bien, al término de giro de la misma. Con todo, este activo intangible formará parte del capital propio de la empresa, y se reajustará anualmente conforme a lo dispuesto en el número 6 del artículo 41.
-
-El valor de adquisición de los derechos o acciones a que se refiere el inciso anterior, para determinar la citada diferencia, deberá reajustarse según el porcentaje de variación del Índice de Precios al Consumidor entre el mes anterior al de la adquisición de los mismos y el mes anterior al del balance correspondiente al ejercicio anterior a aquel en que se produce la fusión.
-
-Conforme a lo dispuesto en el artículo 64 del Código Tributario, el Servicio podrá tasar fundadamente los valores de los activos determinados por el contribuyente en caso que resulten ser notoriamente superiores a los corrientes en plaza o los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación. La diferencia determinada en virtud de la referida tasación, se considerará como parte del activo intangible, según lo señalado en este número.
-
-10°.- Los gastos incurridos en la promoción o colocación en el mercado de artículos nuevos fabricados o producidos por el contribuyente, pudiendo el contribuyente prorratearlos hasta en tres ejercicios comerciales consecutivos, contados desde que se generaron dichos gastos.
-
-11°.- Los gastos incurridos en la investigación científica y tecnológica en interés de la empresa aún cuando no sean necesarios para producir la renta bruta del ejercicio, pudiendo ser deducidos en el mismo ejercicio en que se pagaron o adeudaron o hasta en seis ejercicios comerciales consecutivos.
-
-12º.- Los pagos que se efectúen al exterior por los conceptos indicados en el inciso primero del artículo 59 de esta ley, hasta por un máximo de 4% de los ingresos por ventas o servicios, del giro, en el respectivo ejercicio.
-
-El límite establecido en el inciso anterior no se aplicará cuando, en el ejercicio respectivo, entre el contribuyente y el beneficiario del pago no exista o no haya existido relación directa o indirecta en el capital, control o administración de uno u otro. Para que sea aplicable lo dispuesto en este inciso, dentro de los dos meses siguientes al del término del ejercicio respectivo, el contribuyente o su representante legal, deberá formular una declaración jurada en la que señale que en dicho ejercicio no ha existido la relación indicada. Esta declaración deberá conservarse con los antecedentes de la respectiva declaración anual de impuesto a la renta, para ser presentada al Servicio cuando éste lo requiera. El que maliciosamente suscriba una declaración jurada falsa será sancionado en conformidad con el artículo 97, número 4, del Código Tributario.
-
-Tampoco se aplicará el límite establecido en el inciso primero de este número, si en el país de domicilio del beneficiario de la renta ésta se grava con impuestos a la renta con tasa igual o superior a 30%. El Servicio de Impuestos Internos, de oficio o a petición de parte, verificará los países que se encuentran en esta situación.
-
-Para determinar si los montos pagados por los conceptos indicados en el inciso primero de este número se encuentran o no dentro del límite allí indicado, deberán sumarse en primer lugar todos los pagos que resulten de lo dispuesto en los incisos segundo y tercero. Los restantes pagos se sumarán a continuación de aquéllos.
-
-13°.- Los gastos o desembolsos incurridos con motivo de exigencias, medidas o condiciones medioambientales impuestas para la ejecución de un proyecto o actividad, contenidas en la resolución dictada por la autoridad competente que apruebe dicho proyecto o actividad de acuerdo a la legislación vigente sobre medio ambiente.
-
-También podrán deducirse: a) los gastos o desembolsos en los que el titular incurra con ocasión de compromisos ambientales incluidos en el estudio o en la declaración de impacto ambiental, respecto de un proyecto o actividad que cuente o deba contar, de acuerdo con la legislación vigente sobre medio ambiente, con una resolución dictada por la autoridad competente que apruebe dicho proyecto o actividad y b) los gastos o desembolsos efectuados en favor de la comunidad y que supongan un beneficio de carácter permanente, tales como gastos asociados a la construcción de obras o infraestructuras de uso comunitario, su equipamiento o mejora, el financiamiento de proyectos educativos o culturales específicos y otros aportes de similar naturaleza. En ambos casos, los gastos o desembolsos deben constar en un contrato o convenio suscrito con un órgano de la administración del Estado. Dichos pagos o desembolsos no deben efectuarse directa o indirectamente en beneficio de empresas del mismo grupo empresarial en los términos del número 14 del artículo 8° del Código Tributario o de personas o entidades relacionadas en los términos del número 17 de la misma norma. Si los pagos o desembolsos exceden de la cantidad mayor entre la suma equivalente al 2% de la renta líquida imponible del ejercicio respectivo, del 1,6 por mil del capital propio tributario de la empresa, según el valor de éste al término del ejercicio respectivo, o del 5% de la inversión total anual que se efectúe en la ejecución del proyecto, dicho exceso no será aceptado como gasto.
-
-14°. Los desembolsos o descuentos, ordenados por entidades fiscalizadoras, que efectivamente pague el contribuyente en cumplimiento de una obligación legal de compensar el daño patrimonial a sus clientes o usuarios, cuando dicha obligación legal no exija probar la negligencia del contribuyente.
-
-Las cantidades que obtenga el contribuyente tras repetir en contra de los terceros responsables se agregará a la renta líquida del ejercicio en que se perciban. En estos casos, las sumas que pague el tercero responsable para reembolsar los desembolsos o descuentos a que se refiere este número, no serán aceptados como gasto deducible de la renta líquida imponible del tercero responsable, pero no se gravarán con el impuesto establecido en el artículo 21 de esta ley. Asimismo, pendientes las acciones de repetición en contra de los terceros responsables, los desembolsos o descuentos efectuados en cumplimiento de la obligación legal de compensar no constituirán un activo para efectos tributarios ni tendrán el tratamiento contemplado en el número 4 de este artículo. Si se determina la negligencia del contribuyente por autoridad competente, los desembolsos o descuentos pagados no serán aceptados como gasto deducible de la renta líquida imponible, pero no se gravarán con el impuesto establecido en el artículo 21 de esta ley.
-
-Las mismas reglas anteriores se aplicarán en caso que el contribuyente, sin mediar culpa infraccional de su parte, reponga o restituya un producto, o bonifique o devuelva cantidades pagadas, a sus clientes o usuarios en los términos de los artículos 19, 20 y 21 de la ley número 19.496. En estos casos, se considerarán como un menor ingreso del ejercicio en que se obtuvieron las cantidades pagadas y se agregarán a la renta líquida imponible del ejercicio en que efectúen la referida reposición, restitución, bonificación o devolución, y hasta el valor de reposición, tratándose de productos.
-
-También constituyen gasto los desembolsos acordados entre partes no relacionadas que tengan como causa el cumplimiento de una transacción, judicial o extrajudicial, o el cumplimiento de una cláusula penal.
-
-> **Nota.** El artículo 20 letra b del DL 1244, Hacienda, publicado el 08.11.1975, dispone que la modificación introducida a esta norma, regirá a contar del 1º de enero de 1975.
-
-> **Nota.** NOTA: 1 El Art. 4º del DL 1533, Hacienda, publicado el 29.07.1976, dispone que las modificaciones introducidas a este artículo regirán a contar del día primero del mes siguiente al de su publicación.
-
-> **Nota.** NOTA: 2 El artículo 15 Nº 8 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que la modificación introducida a esta norma, regirá a contar de las rentas correspondientes a los ejercicios finalizados desde el 1º de enero de 1975.
-
-> **Nota.** NOTA: 3 El artículo 15 Nº 1 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que las modificaciones introducidas a la presente norma, regirán a contar del año tributario 1977.
-
-> **Nota.** NOTA: 4 El artículo 2º del DL 1859, Hacienda, publicado el 26.07.1977, dispone que estas modificaciones regirán a contar del 1° de junio de 1979, y sólo podrán ser acogidos al régimen de depreciación acelerada los bienes a que aluda, cuya adquisición, inversión, internación, término de construcción o edificación o incorporación al activo inmovilizado de la empresa se efectúe a contar de dicha fecha.
-
-> **Nota.** NOTA: 5 El artículo 3º del DL 3473, Hacienda, publicado el 04.09.1980, dispone que la modificación por esta norma, rige a contar del 1º del mes siguiente al de la fecha de publicación, afectando a las rentas que se perciban desde dicha fecha.
-
-> **Nota.** NOTA: 6 El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
-
-> **Nota.** NOTA: 7 El artículo 4º de la LEY 18775, publicada el 14.01.1989, dispone que las modificaciones introducidas a la presente norma, regirá a contar del 1º de enero de 1989 y, en consecuencia, serán aplicables a partir del año tributario 1990.
-
-> **Nota.** NOTA: 8 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-> **Nota.** NOTA: 9 El inciso 1º del Art. 22 de la LEY 19506, publicada el 30.07.1997, dispone que la presente modificación regirá a contar del año tributario 1998.
-
-> **Nota.** NOTA: 10 El inciso 2º del Art. 22 de la LEY 19506, publicada el 30.07.1997, dispone que la presente modificación regirá desde el 1º de enero de 1998, por los pagos y gastos que se efectúen y las rentas que se obtengan, a contar desde esa fecha.
-
-> **Nota.** NOTA: 11 El N° 1 del Artículo 1° transitorio de la LEY 19270, publicada el 06.12.1993, dispuso que la modificación introducida a este artículo, regirá desde el año tributario 1989. No obstante, podrán acogerse a las nuevas disposiciones, los contribuyentes que hayan enterado en arcas fiscales el impuesto que correspondía según el texto vigente antes de las modificaciones que se introducen por la citada ley, ya sea voluntariamente o en cumplimiento de un fallo jurisdiccional que se encuentre ejecutoriado a la fecha de publicación de la misma.
-
-> **Nota.** NOTA: 12 El Artículo 2° transitorio de la LEY 19270, publicada el 06.12.1993, dispuso que, sin perjuicio de la vigencia de la modificación contenida en el número 1.- del artículo 1°, las remisiones o condonaciones efectuadas por bancos y sociedades financieras hasta el 30 de junio de 1993 a deudores de créditos hipotecarios destinados a la adquisición de una vivienda, serán consideradas gasto para los efectos de las deducciones de que trata el número 4 del presente artículo 31 y no les será aplicable lo dispuesto en el artículo 21 de la misma ley, cualquiera sea la clasificación de riesgo que éstos hayan tenido.
-
-> **Nota.** NOTA 13 El artículo 18 de la LEY 19578, publicada el 29.07.1998, establece la forma en que regirá la la presente modificación a este artículo.
-
-> **Nota.** NOTA : 14 El Art. transitorio de la LEY 19721, dispuso que la modificación introducida al presente artículo rige desde el 1º de enero de 2000, por los gastos relativos a las becas de estudio que se paguen o adeuden a partir de esa fecha.
-
-> **Nota.** NOTA : 15 El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la presente modificación regirá desde el 1º de enero del año 2003 por los bienes que se adquieran o se construyan desde dicha fecha o desde la fecha de publicación de esta ley, si ésta fuere anterior, al igual que la nueva vida útil que fije el Servicio de Impuestos Internos para estos bienes.
+10.o- Los gastos incurridos en la promoción o colocación en el mercado de artículos nuevos fabricados o producidos por el contribuyente, pudiendo el contribuyente prorratearlos hasta en tres ejercicios comerciales consecutivos, contados desde que se generaron dichos gastos.
 
 #### Artículo 32°
 
@@ -1422,347 +490,81 @@ a) El monto del reajuste de las disminuciones del capital propio inicial del eje
 
 b) El monto de los ajustes del activo a que se refieren los números 2° al 9° del artículo 41°, a menos que ya se encuentren formando parte de la renta líquida.
 
-c) El monto de los ajustes de precio de transferencia realizados por el contribuyente, regulados en el numeral 9 del artículo 41 E.
-
 > **Nota.** El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
 
-#### Artículo 33°
+#### Artículo 33
 
-Para la determinación de la renta liquida imponible, se aplicarán las siguientes normas:
+o- Para la determinación de la renta líquida imponible, se aplicarán las siguientes normas:
 
-1°.- Se agregarán a la renta líquida las partidas que se indican a continuación y siempre que hayan disminuido la renta líquida declarada:
+1.o- Se agregarán a la renta líquida las partidas que se indican a continuación y siempre que hayan disminuido la renta liquida declarada:
 
-a) SUPRIMIDA
+a) Los intereses de haberes pertenecientes a los empresarios o socios, invertidos en la empresa;
 
-b) SUPRIMIDA
+b) Las remuneraciones pagadas al cónyuge del contribuyente o a los hijos de éste, solteros menores de 18 años;
 
-c) Los retiros particulares en dinero o especies efectuados por el contribuyente;
+c) Los retiros particulares en dinero o especies efectuados por el contribuyente, salvo que se traten de los sueldos referidos en el penúltimo inciso del número 6 del artículo 31.o;
 
 d) Las sumas pagadas por bienes del activo inmovilizado o mejoras permanentes que aumenten el valor de dichos bienes y los desembolsos que deban imputarse al costo de los bienes citados;
 
 e) Los costos, gastos y desembolsos que sean imputables a ingresos no reputados renta o rentas exentas, los que deberán rebajarse de los beneficios que dichos ingresos o rentas originan;
 
-En los casos de gastos y desembolsos imputables tanto a rentas gravadas como ingresos no renta y/o rentas exentas de los impuestos finales, se deberá agregar aquella parte asociada a los ingresos no renta y rentas exentas. Para determinar dicho valor el contribuyente deberá optar por una de las siguientes alternativas, la cual deberá mantener por al menos 3 años comerciales consecutivos:
+f) Los siguientes beneficios que se otorguen a las personas señaladas en el inciso segundo del N.o 6 del artículo 31.o o a accionistas que no desempeñen un cargo en la empresa: uso o entrega de bienes a título gratuito o avaluados en un valor inferior al costo, condonación total o parcial de deudas, exceso de intereses pagados, arriendos pagados o percibidos que se consideren desproporcionados, acciones suscritas a precios especiales y todo otro beneficio similar, y
 
-1) Aplicar al total de gastos de utilización común, pagados o adeudados en el ejercicio, el porcentaje que resulte de dividir el total de ingresos no constitutivos de rentas y rentas exentas de los impuestos finales, sobre el total de ingresos brutos del ejercicio, incluyendo dentro de estos últimos los ingresos no renta y rentas exentas.
+g) Las cantidades cuya deducción no autoriza el artículo 31.o o que se rebajen en exceso de los márgenes permitidos por la ley o la Dirección Regional, en su caso.
 
-2) Aplicar al total de gastos de utilización común, pagados o adeudados en el ejercicio, el factor que resulte de multiplicar el resultado individual de las operaciones señaladas en las letras a) y b) siguientes:
+En caso de que el contribuyente sea una sociedad de personas, deberá entenderse que el término
 
-a) La proporción entre el monto de los activos que generan rentas no gravadas y exentas de los impuestos finales sobre el monto total de activos asociados a la generación de tales rentas. Los valores aludidos se determinarán al cierre del ejercicio considerando lo dispuesto en el artículo 41, según proceda. Si dichos activos no existieren al término del ejercicio, se atenderá a su valor al inicio del ejercicio o en su defecto, al valor de adquisición.
+"contribuyente" empleado en las letras b) y c) precedentes, comprende a los socios de dichas sociedades.
 
-b) La proporción entre los ingresos no constitutivos de rentas y rentas exentas de los impuestos finales, sobre el total de ingresos brutos, incluidos en estos últimos los ingresos no renta y rentas exentas, al término del ejercicio respectivo, relacionadas con los activos y gastos de este inciso.
+2.o- Se deducirán de la renta líquida las partidas que se señalan a continuación, siempre que hayan aumentado la renta líquida declarada:
 
-Para las operaciones descritas en las letras a) y b) anteriores deberá considerarse la permanencia en días de dichos activos e ingresos brutos durante el ejercicio respectivo, tomando como base 365 días o la cantidad que corresponda al año comercial respectivo.
+a) Los dividendos percibidos y las utilidades sociales percibidas o devengadas por el contribuyente;
 
-3) Con todo, cuando las metodologías señaladas anteriormente no reflejen adecuadamente la situación del modelo de negocios del contribuyente, éste podrá proponer al Servicio un método alternativo que podrá considerar factores de proporcionalidad, fijos o móviles, en base al valor presente de los flujos futuros de los respectivos bienes o funciones, u otra metodología basada en técnicas de general aceptación. Para este efecto, se aplicará el procedimiento previsto en el artículo 26 bis del Código Tributario, en la forma y con los requisitos que el Servicio regulará mediante resolución.
+b) Rentas exentas por esta ley o leyes especiales. En el caso de rentas exentas cuyo monto por aplicación del decreto ley número 455, de 1974, exceda de lo que dicho texto legal considera capital, sólo podrá deducirse el citado exceso.
 
-f) Los gastos o desembolsos provenientes de los siguientes beneficios que se otorguen a las personas señaladas en el inciso segundo del N° 6 del artículo 31° o a accionistas de sociedades anónimas cerradas o a accionistas de sociedades anónimas abiertas dueños del 10% o más de las acciones, al empresario individual o socios de sociedad de personas y a personas que en general tengan interés en la sociedad o empresa: uso o goce que no sea necesario para producir la renta, de bienes a título gratuito o avaluados en un valor inferior al costo, casos en los cuales se les aplicará como renta a los beneficiarios no afectados por el artículo 21 la presunción de derecho establecida en el literal iii) del inciso tercero de dicho artículo, sin perjuicio de lo dispuesto en la oración final de ese inciso, condonación total o parcial de deudas, exceso de intereses pagados, arriendos pagados o percibidos que se consideren desproporcionados, acciones suscritas a precios especiales y todo otro beneficio similar, y sin perjuicio de los impuestos que procedan respecto de sus beneficiarios, y
+3.o- Los agregados a la renta líquida que procedan de acuerdo con las letras a), b), c), f) y g), del N.o 1.o se efectuarán reajustándolos previamente de acuerdo con el porcentaje de variación que haya experimentado el índice indice de precios al consumidor en el período comprendido entre el segundo mes anterior a la fecha de la erogación o desembolso efectivo de la respectiva cantidad y el segundo mes anterior a la fecha del balance.
 
-g) Las cantidades cuya deducción no autoriza el artículo 31° o que se rebajen en exceso de los márgenes permitidos por la ley o la Dirección Regional, en su caso.
+4.o- La renta líquida imponible correspondiente a actividades clasificadas en esta categoría, que no se determine en base a los resultados de un balance general, deberá reajustarse de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes anterior a aquel en que se percibió o devengó y el segundo mes anterior al del cierre del ejercicio respectivo. Tratándose de rentas del artículo 20.o, N.o 2, se considerará el segundo mes anterior al de su percepción.
 
-2°.- Se deducirán de la renta líquida las partidas que se señalan a continuación, siempre que hayan aumentado la renta líquida declarada:
+No quedará sujeta a las normas sobre reajuste contempladas en este número ni a las de los artículos 54.o inciso penúltimo, y 62.o, inciso primero, la renta líquida imponible que se establezca en base al sistema de presunciones contemplado en los artículos 20.o, N.o 1 y 34.o.
 
-a) Los dividendos percibidos y las utilidades sociales percibidas o devengadas por el contribuyente en tanto no provengan de sociedades o empresas constituidas fuera del país, aún cuando se hayan constituido con arreglo a las leyes chilenas;
+#### Artículo 34
 
-b) Rentas exentas por esta ley o leyes especiales chilenas. En el caso de intereses exentos, sólo podrán deducirse los determinados de conformidad a las normas del artículo 41 bis.
+o- La renta líquida imponible de los siguientes contribuyentes será determinada de acuerdo con las normas que se indican:
 
-c) Las cantidades a que se refieren los numerales i. del inciso primero e i) del inciso tercero, del artículo 21.
+1.- Respecto de los contribuyentes regidos por la ley No 10.270 y sus modificaciones, que empleen maquinarias y equipos propios o ajenos cuyo valor en conjunto no exceda de 100 unidades tributarias anuales y que sus ventas de minerales en cada año calendario no exceda de 400 unidades tributarias anuales calculadas éstas a su valor promedio en el año o ejercicio respectivo, se presume que la renta líquida imponible de la actividad de la minería es equivalente al 10% de las ventas anuales de minerales. Para estos efectos, las ventas mensuales deberán reajustarse de acuerdo con la variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes anterior al de las ventas y el segundo mes anterior al del cierre del ejercicio respectivo. No obstante, estos contribuyentes podrán declarar la renta efectiva demostrada mediante contabilidad fidedigna.
 
-3°.- Los agregados a la renta líquida que procedan de acuerdo con las letras a), b), c), f) y g), del N° 1° se efectuarán reajustándolos previamente de acuerdo con el porcentaje de variación que haya experimentado el Indice de Precios al Consumidor en el período comprendido entre el último día del mes anterior a la fecha de la erogación o desembolso efectivo de la respectiva cantidad y el último día del mes anterior a la fecha del balance.
+2.- Se presume de derecho que la renta líquida imponible de los empresarios personas naturales y sociedades de personas que exploten vehículos destinados al transporte de pasajeros o carga que sean microbuses, taxis, taxibuses, automóviles, station-wagons, furgones o camionetas, es equivalente al 10% del valor corriente en plaza de cada vehículo determinado por la Dirección Nacional, al 1.o de Enero del año en que debe declararse el impuesto.
 
-4°.- La renta líquida correspondiente a actividades clasificadas en esta categoría, que no se determine en base a los resultados de un balance general, deberá reajustarse de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes anterior a aquél en que se percibió o devengó y el último día del mes anterior al del cierre del ejercicio respectivo. Tratándose de rentas del artículo 20, N° 2, se considerará el último día del mes anterior al de su percepción.
+3.- Se presume de derecho que la renta líquida imponible de los empresarios personas naturales y sociedades de personas que exploten camiones destinados al transporte de carga ajena, es equivalente al 10% del valor corriente en plaza de cada camión, determinado por el Director Nacional, a su juicio exclusivo, al 1.o de Enero del año en que deba declararse el impuesto.
 
-No quedará sujeta a las normas sobre reajuste contempladas en este número ni a las de los artículos 54° inciso penúltimo, y 62°, inciso primero, la renta líquida imponible que se establezca en base al sistema de presunciones que contempla el artículo 34°. Tampoco quedará sujeta a las normas sobre reajuste antes señaladas, la renta líquida imponible que se determine por inversiones en el extranjero e ingresos gravados en el extranjero, la cual se regirá por lo dispuesto en el artículo 41 A número 7 letra a) y 41 B inciso primero.
+En los casos en que la explotación de los vehículos referidos en los números 2 y 3 de este artículo haya debido suspenderse por un mes o más en forma ininterrumpida en el año respectivo, por razones de fuerza mayor que deberá justificar fehacientemente el contribuyente, la renta presunta se disminuirá en la proporción correspondiente al número de meses no trabajados. Al efecto, se considerará como mes el período de 30 días corridos, computándose como mes completo las fracciones superiores a 15 días.
 
-5º.- Derogado.
+Los contribuyentes indicados en los números 2.o y 3.o de este artículo pagarán como impuesto mínimo de primera categoría una cantidad equivalente a dos unidades tributarias mensuales vigentes en el mes en que deba presentarse la respectiva declaración anual, por un vehículo, y a una unidad tributaria mensual por cada uno de los vehículos siguientes.
 
-> **Nota.** El Art. 4º del DL 1533, Hacienda, publicado el 29.07.1976, dispone que las modificaciones introducidas a este artículo regirán a contar del día primero del mes siguiente al de su publicación.
+#### Artículo 35
 
-> **Nota.** NOTA: 1 El artículo 15 Nº 8 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que la modificación introducida a esta norma, regirá a contar de las rentas correspondientes a los ejercicios finalizados desde el 1º de enero de 1975.
+o- Cuando la renta líquida imponible no pueda determinarse clara y fehacientemente, por falta de antecedentes o cualquiera otra circunstancia, se presume que la renta mínima imponible de las personas sometidas al impuesto de esta categoría es igual al 10% del capital efectivo invertido en la empresa o a un porcentaje de las ventas realizadas durante el ejercicio, el que será determinado por la Dirección Regional, tomando como base, entre otros antecedentes, un promedio de los porcentajes obtenidos por este concepto o por otros contribuyentes que giren en el mismo ramo o en la misma plaza. Corresponderá, en cada caso, al Director Regional, adoptar una u otra base de determinación de la renta.
 
-> **Nota.** NOTA: 2 El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
+No se aplicarán las presunciones establecidas en el inciso anterior, cuando a juicio de la Dirección Regional, no pueda determinarse la renta líquida imponible debido a caso fortuito.
 
-> **Nota.** NOTA: 3 Las modificaciones introducidas por el artículo 1º de la LEY 18897, publicada el 09.01.1990, rigen según lo dispone su artículo 2º, desde el año tributario 1990.
+#### Artículo 36
 
-> **Nota.** NOTA: 4 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-> **Nota.** NOTA: 5 El Artículo 10º de la LEY 19247, publicada el 15.09.1993, ordenó que lo dispuesto por su artículo 1º, regirá a contar del 1º de enero de 1994, afectando a las rentas que se perciban o se devenguen desde esa fecha, a excepción de la letra j), que regirá a contar del 4 de junio de 1993, y de las letras g) y h), que tendrán vigencia desde el 1° de enero de 1995.
-
-#### Artículo 33° bis
-
-Crédito por inversiones en activo fijo.
-
-a) Los contribuyentes que declaren el impuesto de primera categoría sobre renta efectiva determinada según contabilidad completa, que en los 3 ejercicios anteriores a aquel en que adquieran, terminen de construir o tomen en arrendamiento con opción de compra los bienes respectivos, según corresponda, registren un promedio de ventas anuales que no superen las 25.000 unidades de fomento, tendrán derecho a un crédito equivalente al 6% del valor de los bienes físicos del activo inmovilizado, adquiridos nuevos, terminados de construir durante el ejercicio o que tomen en arrendamiento, según proceda. Para este efecto, las ventas anuales se expresarán en unidades de fomento, considerando para ello el valor de los ingresos mensuales según el valor de la unidad de fomento al término de cada mes. Si la empresa tuviere una existencia inferior a 3 ejercicios, el promedio se calculará considerando los ejercicios de existencia efectiva.
-
-Respecto de los bienes construidos, no darán derecho a crédito las obras que consistan en mantención o reparación de los mismos. Tampoco darán derecho a crédito los activos que puedan ser usados para fines habitacionales o de transporte, excluidos los camiones, camionetas de cabina simple y otros destinados exclusivamente al transporte de carga o buses que presten servicios interurbanos o rurales de transporte público remunerado de pasajeros, inscritos como tales en el Registro Nacional de Servicios de Transporte de Pasajeros, que lleva el Ministerio de Transportes y Telecomunicaciones.
-
-El crédito establecido en el inciso primero se deducirá del impuesto de primera categoría que deba pagarse por las rentas del ejercicio en que ocurra la adquisición o término de la construcción, y, de producirse un exceso, no dará derecho a devolución.
-
-Para los efectos de calcular el crédito, los bienes se considerarán por su valor actualizado al término del ejercicio, en conformidad con las normas del artículo 41 de esta ley, y antes de deducir la depreciación correspondiente.
-
-En ningún caso el monto anual del crédito podrá exceder de 500 unidades tributarias mensuales, considerando el valor de la unidad tributaria mensual del mes de cierre del ejercicio.
-
-El crédito establecido en este artículo no se aplicará a las empresas del Estado ni a las empresas en las que el Estado, sus organismos o empresas o las municipalidades tengan una participación o interés superior al 50% del capital.
-
-Tampoco se aplicará dicho crédito respecto de los bienes que una empresa entregue en arrendamiento con opción de compra.
-
-Para los efectos de lo dispuesto en este artículo se entenderá que forman parte del activo físico inmovilizado los bienes corporales muebles nuevos que una empresa toma en arrendamiento con opción de compra. En este caso el crédito se calculará sobre el monto total del contrato.
-
-b) Aquellos contribuyentes que en los 3 ejercicios anteriores a aquel en que adquieran, terminen de construir, o tomen en arrendamiento con opción de compra los bienes respectivos, según corresponda, registren un promedio de ventas anuales superior a 25.000 unidades de fomento y que no supere las 100.000 unidades de fomento, tendrán derecho al crédito establecido en los incisos precedentes con el porcentaje que resulte de multiplicar 6% por el resultado de dividir 100.000 menos los ingresos anuales, sobre 75.000. Para este efecto, las ventas anuales se expresarán en unidades de fomento, considerando para ello el valor de los ingresos mensuales según el valor de la unidad de fomento al término de cada mes. Si la empresa tuviere una existencia inferior a 3 ejercicios, el promedio se calculará considerando los ejercicios de existencia efectiva.
-
-Si el porcentaje que resulte es inferior al 4%, será este último porcentaje el que se aplicará para la determinación del referido crédito.
-
-En todo lo demás, se aplicarán las reglas establecidas en la letra a) precedente.
-
-c) Eliminada.
-
-#### Artículo 34°
-
-Rentas presuntas.
-
-1.- Normas generales.
-
-Los contribuyentes cuya actividad sea la explotación de bienes raíces agrícolas, la minería o el transporte terrestre de carga o pasajeros, atendidas las condiciones en que desarrollan su actividad, podrán optar por pagar el impuesto de primera categoría sobre la base de la renta presunta, determinada de la forma que para cada caso dispone este artículo, y siempre que cumplan con los requisitos que a continuación se establecen.
-
-Sólo podrán acogerse al régimen de presunción de renta contemplado en este artículo, los contribuyentes cuyas ventas o ingresos netos anuales de la primera categoría, no excedan de 9.000 unidades de fomento, tratándose de la actividad agrícola; 5.000 unidades de fomento en la actividad de transporte, o no excedan de 17.000 unidades de fomento, en el caso de la minería. Para la determinación de las ventas o ingresos, se computarán la totalidad de ingresos obtenidos por los contribuyentes, sea que provengan de actividades sujetas al régimen de renta efectiva o presunta, según corresponda, y no se considerarán las enajenaciones ocasionales de bienes muebles o inmuebles que formen parte del activo inmovilizado del contribuyente. Para este efecto, las ventas o ingresos de cada mes deberán expresarse en unidades de fomento de acuerdo con el valor de ésta el último día del mes respectivo.
-
-La opción a que se refiere el primer párrafo de este número, deberá ejercerse dando el respectivo aviso al Servicio entre el 1 de enero y el 30 de abril, del año calendario en que se incorporan al referido régimen, entendiéndose que las rentas obtenidas a contar de dicho año tributarán en conformidad con el régimen de renta presunta. Sin perjuicio de la regla anterior, tratándose de contribuyentes que inicien actividades, la opción deberá ejercerse dentro del plazo que establece el artículo 68 del Código Tributario, siempre que no registren a la fecha de inicio de actividades, un capital efectivo superior a 18.000 unidades de fomento, tratándose de la actividad agrícola, 10.000 unidades de fomento en el caso del transporte, o de 34.000 unidades de fomento, en el caso de la actividad minera, determinado según el valor de esta unidad al día de inicio de actividades.
-
-Sólo podrán acogerse a las disposiciones de este artículo las personas naturales que actúen como empresarios individuales, las empresas individuales de responsabilidad limitada y las comunidades, cooperativas, sociedades de personas y sociedades por acciones, conformadas en todo momento, desde que se incorporan a este régimen y mientras se mantengan acogidos a él, sólo por comuneros, cooperados, socios o accionistas personas naturales.
-
-No podrán acogerse a las disposiciones del presente artículo los contribuyentes que posean o exploten, a cualquier título, derechos sociales, acciones de sociedades o cuotas de fondos de inversión, salvo que los ingresos provenientes de tales inversiones no excedan del 10% de los ingresos brutos totales del año comercial respectivo. En caso de exceder dicho límite, se aplicará lo dispuesto en el inciso penúltimo de este artículo.
-
-Para el control del límite de las ventas o ingresos a que se refiere este número, los contribuyentes que se acojan a las disposiciones de este artículo considerarán la información de sus documentos tributarios electrónicos o en su defecto un sistema de control de su flujo de ingresos, que cumpla con los requisitos y forma que establezca el Servicio, mediante resolución. Con todo, los contribuyentes que califiquen como microempresas según lo prescrito en el artículo 2° de la ley N° 20.416, que sean personas naturales que actúen como empresarios individuales, empresas individuales de responsabilidad limitada o comunidades, estarán exentas de esta última obligación.
-
-El Servicio de Impuestos Internos deberá llevar un Registro de Contribuyentes acogidos al régimen de presunción de renta a que se refiere este artículo.
-
-2.- Determinación de la renta presunta.
-
-a) Actividad agrícola.
-
-Se presume de derecho que la renta líquida imponible de los contribuyentes que exploten bienes raíces agrícolas, es igual al 10% del avalúo fiscal del predio, vigente al 1° de enero del año en que debe declararse el impuesto.
-
-Serán aplicables a estos contribuyentes, las normas de los dos últimos párrafos de la letra a) del número 1° del artículo 20.
-
-b) Transporte terrestre de carga o pasajeros.
-
-Se presume de derecho que la renta líquida imponible de los contribuyentes que exploten vehículos de transporte terrestre de carga o pasajeros, es igual al 10% del valor corriente en plaza del vehículo, incluido su remolque, acoplado o carro similar, respectivamente. Para estos efectos, se entenderá que el valor corriente en plaza del vehículo es el determinado por el Director del Servicio de Impuestos Internos al 1° de enero de cada año en que deba declararse el impuesto, mediante resolución que será publicada en el Diario Oficial o en otro diario de circulación nacional.
-
-c) Minería.
-
-Se presume de derecho que la renta líquida imponible de la actividad minera, incluyendo en ella la actividad de explotación de plantas de beneficio de minerales, siempre que el volumen de los minerales tratados provenga en más de un 50% de la pertenencia explotada por el mismo contribuyente, será la que resulte de aplicar sobre las ventas netas anuales de productos mineros, la siguiente escala:
-
-4% si el precio promedio de la libra de cobre en el año o ejercicio respectivo no excede de 374,25 centavos de dólar;
-
-6% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 374,25 centavos de dólar y no sobrepasa de 397,00 centavos de dólar;
-
-10% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 397,00 centavos de dólar y no sobrepasa de 453,69 centavos de dólar;
-
-15% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 453,69 centavos de dólar y no sobrepasa de 510,49 centavos de dólar, y
-
-20% si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 510,49 centavos de dólar.
-
-Por precio de la libra de cobre se entiende el Precio de Productores Chilenos fijado por la Comisión Chilena del Cobre.
-
-Para estos efectos, el valor de las ventas mensuales de productos mineros deberá reajustarse de acuerdo con la variación experimentada por el índice de precios al consumidor en el período comprendido entre el mes anterior al de las ventas y el mes anterior al del cierre del ejercicio respectivo.
-
-El Servicio de Impuestos Internos, previo informe del Ministerio de Minería, determinará la equivalencia que corresponda respecto del precio promedio del oro y la plata, a fin de hacer aplicable la escala anterior a las ventas de dichos minerales y a las combinaciones de esos minerales con cobre.
-
-Si se trata de otros productos mineros sin contenido de cobre, oro o plata, se presume de derecho que la renta líquida imponible es del 6% del valor neto de la venta de ellos.
-
-Las cantidades expresadas en centavos de dólar de los Estados Unidos de Norteamérica, que conforman las escalas contenidas en el artículo 23 y en el presente artículo, serán reactualizadas antes del 15 de febrero de cada año, mediante decreto supremo, de acuerdo con la variación experimentada por el índice de precios al consumidor en dicho país, en el año calendario precedente, según lo determine el Banco Central de Chile. Esta reactualización regirá, en lo que respecta a la escala del artículo 23, a contar del 1 de marzo del año correspondiente y hasta el último día del mes de febrero del año siguiente y, en cuanto a la escala de este artículo, regirá para el año tributario en que tenga lugar la reactualización.
-
-3.- Normas de relación.
-
-Para establecer si el contribuyente cumple con el límite de ventas o ingresos establecido en el número 1.- anterior, deberá sumar a sus ingresos por ventas y servicios los ingresos por ventas y servicios obtenidos por las personas, empresas, comunidades, cooperativas y sociedades con las que esté relacionado, sea que realicen o no la misma actividad por la que se acoge al régimen de renta presunta a que se refiere este artículo. Si al efectuar las operaciones descritas el resultado obtenido excede dicho límite, tanto el contribuyente como las personas, empresas, comunidades, cooperativas y sociedades con las que esté relacionado y que determinen su renta conforme a este artículo, deberán determinar el impuesto de esta categoría sobre renta efectiva determinada en base a un balance general, según contabilidad completa conforme al artículo 14 A o según lo contemplado en la letra D) del mismo artículo, si cumplen los requisitos para acogerse a esta última disposición.
-
-Para la determinación de los ingresos no se considerarán las enajenaciones ocasionales de bienes muebles o inmuebles que formen parte del activo inmovilizado del contribuyente, y los ingresos de cada mes deberán expresarse en unidades de fomento de acuerdo con el valor de ésta en el último día del mes respectivo.
-
-Para estos efectos, se considerarán relacionados con una persona, empresa, comunidad, cooperativa o sociedad, cualquiera sea su naturaleza jurídica, los contribuyentes que cumplan con las normas de relación establecidas en el número 17 del artículo 8° del Código Tributario.
-
-En estos casos deberán computar la proporción de los ingresos totales que corresponda a la relación que la persona natural mantiene con dicha entidad.
-
-Tratándose de los casos señalados en las letras a) y b) del número 17 del artículo 8° del Código Tributario, el contribuyente deberá sumar a sus ingresos el total de los ingresos obtenidos por sus entidades relacionadas, sea que mantenga la relación directamente o a través de otra u otras empresas.
-
-En el caso de las entidades relacionadas de acuerdo a las letras
-
-- **c)** y
-
-- **d)** del número 17 del artículo 8 del Código Tributario, que no se encuentren en las situaciones descritas en las letras a),
-
-- **b)** y
-
-- **e)** del mismo artículo, computarán el porcentaje de ingresos obtenidos por sus entidades relacionadas que le corresponda según su participación en el capital o las utilidades, ingresos o derechos de voto. Cuando el porcentaje de participación en el capital sea distinto al porcentaje que le corresponde en las utilidades, ingresos o derechos a voto, se deberá considerar el porcentaje de participación mayor.
-
-Las entidades relacionadas conforme a las reglas del número 17 del artículo 8° del Código Tributario, deberán informar anualmente a la empresa o sociedad respectiva, en la forma y plazo que establezca el Servicio mediante resolución, el monto total de los ingresos de su giro percibidos o devengados en el ejercicio respectivo, los que se expresarán en unidades de fomento conforme a lo señalado.
-
-4.- Otras normas.
-
-Los contribuyentes que, por incumplimiento de alguno de los requisitos establecidos en este artículo, salvo el contemplado en el inciso cuarto del número 1 de este artículo, deban abandonar el régimen de renta presunta, lo harán a contar del primero de enero del año comercial siguiente a aquel en que ocurra el incumplimiento, sujetándose en todo a las normas comunes de esta ley. Sin perjuicio de lo anterior, si en el año, de manera individual, se excede el límite de ingresos que corresponda a cada actividad, se deberá establecer la renta líquida imponible de dicho año de acuerdo a un porcentaje sobre los ingresos brutos, en la forma que señala el número 5 siguiente. En tal caso, podrán optar por aplicar las disposiciones de la letra A) del artículo 14, dando el respectivo aviso al Servicio entre el 1 de enero y el 30 de abril del año calendario en que se incorporan al referido régimen, en la forma que establecen las normas referidas, o bien podrán optar por el de Régimen Pro Pyme del artículo 14 letra D), siempre que cumplan los requisitos para acogerse a dicha disposición. Los contribuyentes no podrán volver al régimen de renta presunta, salvo que no desarrollen la actividad agrícola, minera o de transporte terrestre de carga o pasajeros, según corresponda, por 5 ejercicios consecutivos o más, caso en el cual deberá estarse a las reglas de los números precedentes para determinar si pueden o no volver a acogerse al régimen de renta presunta. Para los efectos de computar el plazo de 5 ejercicios, se considerará que el contribuyente desarrolla actividades agrícolas, mineras o de transporte, cuando, respectivamente, arrienda o cede en cualquier forma el goce de pertenencias mineras, predios agrícolas o vehículos, cuya propiedad o usufructo conserva. Cuando se incumpla el requisito establecido en el párrafo cuarto del número 1.- de este artículo, esto es, que correspondan al tipo de entidades allí indicadas y los comuneros, cooperados, socios o accionistas sean en todo momento personas naturales, se considerará que han abandonado el régimen desde el 1 de enero del año comercial en que se produce el incumplimiento y que se han incorporado a partir de esa fecha al régimen establecido en la letra A) del artículo 14, debiendo dar aviso de tal circunstancia entre el 1 de enero y el 30 de abril del año comercial siguiente.
-
-Asimismo, los contribuyentes a que se refiere este artículo, que tomen en arrendamiento o que a otro título de mera tenencia exploten el todo o parte de predios agrícolas, pertenencias mineras o vehículos motorizados de transporte de carga o pasajeros, de contribuyentes que deban tributar sobre su renta efectiva demostrada mediante un balance general según contabilidad completa de acuerdo a la letra A) del artículo 14, o de acuerdo al Régimen Pro Pyme de la letra D) del artículo 14, cuando opten por este régimen y cumplan los requisitos para acogerse a dicha disposición, quedarán sujetos a uno de estos regímenes, según corresponda, a contar del 1 de enero del año siguiente a aquel en que concurran tales circunstancias, y no podrán volver al régimen de renta presunta, salvo que, se cumplan dentro del mismo plazo de 5 ejercicios, las condiciones señaladas en el párrafo anterior.
-
-Los contribuyentes de este artículo podrán optar por pagar el impuesto de esta categoría sobre sus rentas efectivas demostradas mediante un balance general según contabilidad completa de acuerdo a la letra A) del artículo 14, o de acuerdo a la al Régimen Pro Pyme de la letra D) del artículo 14, cuando puedan optar y cumplan los requisitos para acogerse, según corresponda. Una vez ejercida dicha opción no podrán reincorporarse al sistema de presunción de renta. El ejercicio de la opción se efectuará dando aviso al Servicio entre el 1 de enero y el 30 de abril del año calendario en que deseen cambiar, quedando sujetos a todas las normas comunes de esta ley a contar del día primero de enero del año del aviso.
-
-El contribuyente que por efecto de las normas de relación quede obligado a declarar sus impuestos sobre renta efectiva deberá informar de ello, mediante carta certificada, a las personas, empresas, comunidades, cooperativas o sociedades con las que se encuentre relacionado. Las personas, empresas, comunidades, cooperativas o sociedades que reciban dicha comunicación deberán, a su vez, informar conforme al mismo procedimiento a todos los contribuyentes que tengan en ellas una participación superior al 10% de la propiedad, capital, utilidades o ingresos en ella.
-
-5.- Inventario de activos y pasivos, y utilidades acumuladas por el retiro o exclusión del régimen simplificado.
-
-Los contribuyentes que se encuentren acogidos al régimen de tributación sobre renta presunta que establece este artículo y que opten o deban abandonarlo por dejar de cumplir los requisitos para mantenerse en el mismo, deberán en tales casos declarar su renta efectiva sobre la base de contabilidad completa, registrando sus activos y pasivos en el balance inicial que al efecto deberán confeccionar a contar del 1 de enero del año siguiente a la exclusión o retiro, de acuerdo a las siguientes normas:
-
-A) Contribuyentes que exploten bienes raíces agrícolas.
-
-a) Los terrenos agrícolas se registrarán por su avalúo fiscal a la fecha de balance inicial o por su valor de adquisición reajustado de acuerdo a la variación del Índice de Precios al Consumidor entre el último día del mes anterior a la adquisición y el último día del mes anterior al balance inicial, a elección del contribuyente.
-
-b) Los demás bienes físicos del activo inmovilizado se registrarán por su valor de adquisición o construcción, debidamente documentado y actualizado de acuerdo a la variación del Índice de Precios al Consumidor entre el último día del mes anterior al de la adquisición o desembolso y el último día del mes anterior al del balance, deduciendo la depreciación normal que corresponda por el mismo período en virtud de lo dispuesto en el número 5° del artículo 31.
-
-c) El valor de costo de los bienes del activo realizable se determinará en conformidad con las normas del artículo 30, de acuerdo con la documentación correspondiente, y se actualizará a su costo de reposición según las normas contenidas en el artículo 41, número 3°.-.
-
-d) Las plantaciones, siembras, bienes cosechados en el predio y animales nacidos en él, se valorizarán a su costo de reposición a la fecha del balance inicial, considerando su calidad, el estado en que se encuentren, su duración real a contar de esa fecha, y su relación con el valor de bienes similares existentes en la misma zona.
-
-e) Los demás bienes del activo se registrarán por su costo o valor de adquisición, debidamente documentado y actualizado en conformidad con las normas del artículo 41.
-
-f) Los pasivos se registrarán según su monto exigible, debidamente documentado y actualizado de acuerdo con las normas del artículo 41.
-
-g) Los pasivos que obedezcan a operaciones de crédito de dinero sólo podrán registrarse si se ha pagado oportunamente el impuesto de timbres y estampillas, a menos que se encuentren expresamente exentos de éste.
-
-h) La diferencia positiva que se determine entre los activos y pasivos registrados en la forma antes indicada, se considerará capital para efectos tributarios. Si la diferencia es negativa, en ningún caso podrá deducirse en conformidad con el artículo 31, número 3°.-.
-
-B) Contribuyentes que desarrollan actividades mineras.
-
-Estos contribuyentes deberán aplicar las normas establecidas en las letras a) a la h), de la letra A) anterior, a excepción de lo establecido en la letra d).
-
-Lo señalado en la letra a) se aplicará respecto de los terrenos de propiedad del contribuyente que hayan sido destinados a su actividad de explotación minera.
-
-C) Contribuyentes que desarrollan la actividad de transporte.
-
-Estos contribuyentes deberán aplicar las normas establecidas en las letras a) a la h), de la letra A) anterior, a excepción de lo establecido en la letra d), con las siguientes modificaciones:
-
-Lo señalado en la letra a) se aplicará respecto de los terrenos no agrícolas, de propiedad del contribuyente, que hayan sido destinados a su actividad de transporte.
-
-Respecto de lo indicado en la letra b), opcionalmente podrán registrar los vehículos motorizados de transporte terrestre de carga o de pasajeros de acuerdo con su valor corriente en plaza, fijado por el Servicio en el ejercicio anterior a aquel en que deban determinar su renta según contabilidad completa. Ese valor deberá actualizarse por la variación del Índice de Precios al Consumidor entre el último día del mes anterior a la publicación de la lista que contenga dicho valor corriente en plaza en el Diario Oficial y el último día del mes anterior al del cierre del ejercicio en que esa lista haya sido publicada.
-
-D) Normas comunes.
-
-a) Para todos los efectos tributarios, se presumirá que los activos incluidos en el balance inicial han sido adquiridos con ingresos que tributaron con anterioridad. El Servicio podrá rebajar los valores registrados en el balance inicial, haciendo uso del procedimiento establecido en el artículo 64 del Código Tributario, en todos aquellos casos en que la valorización del contribuyente no cumpla los requisitos señalados en este número 5.- o no se acredite fehacientemente. Las diferencias que se determinen por aplicación de dicha facultad no se afectarán con lo dispuesto en el artículo 21.
-
-b) Los contribuyentes a que se refiere este número, respecto de los bienes físicos del activo inmovilizado existentes a la fecha del balance inicial, podrán aplicar el régimen de depreciación acelerada establecido en los números 5 y 5 bis, ambos del artículo 31, en tanto cumplan los requisitos para tal efecto.
-
-c) El primer año comercial en que deban declarar su renta efectiva mediante balance general, según contabilidad completa, los contribuyentes deberán dar aviso de esta circunstancia al Servicio, en la forma y plazo que éste establezca mediante resolución, debiendo acompañar el balance inicial mencionado en el párrafo primero de esta letra. La falta de este aviso hará aplicable el plazo de prescripción a que se refiere el inciso segundo del artículo 200 del Código Tributario.
-
-d) Los ingresos que se perciban a contar del momento en que el contribuyente deba determinar su renta efectiva según contabilidad completa, y que correspondan a contratos u operaciones celebrados con anterioridad a esa fecha, deberán ser considerados en el ejercicio de su percepción a menos que hubieran sido facturados y entregados los bienes o prestados los servicios, cuando el contribuyente estaba aún bajo el régimen de renta presunta, en cuyo caso se estará a las reglas generales sobre devengo.
-
-e) Las enajenaciones del todo o parte de predios agrícolas, o del todo o parte de pertenencias mineras efectuadas por los contribuyentes a que se refiere este número 5.-, en el ejercicio inmediatamente anterior a aquél en que deban operar bajo el régimen de renta efectiva según contabilidad completa o en el primer ejercicio sometido a dicho régimen, obligarán a los adquirentes de tales predios o pertenencias mineras, según el caso, a tributar también según ese sistema. La misma norma se aplicará respecto de las enajenaciones hechas por estos últimos en los ejercicios citados. Lo dispuesto en esta letra se aplicará también cuando, durante los ejercicios señalados, los contribuyentes entreguen en arrendamiento o a cualquier otro título de mera tenencia el todo o parte de predios agrícolas, el todo o parte de pertenencias o vehículos de transporte de carga terrestre o de pasajeros. En tal circunstancia, el arrendatario o mero tenedor quedará también sujeto al régimen de renta efectiva según contabilidad completa. Se aplicará respecto de lo dispuesto en este inciso lo prescrito en el artículo 75 bis del Código Tributario; sin embargo, en estos casos, el enajenante, arrendador o persona que a título de mera tenencia entregue el predio, la pertenencia o el vehículo de carga, podrá cumplir con la obligación de informar su régimen tributario hasta el último día hábil del mes de enero del año en que deba comenzar a determinar su renta efectiva según contabilidad completa. En este caso, la información al adquirente, arrendatario o mero tenedor deberá efectuarse mediante carta certificada dirigida a través de un notario al domicilio que aquél haya señalado en el contrato y, en la misma forma, al Director Regional del Servicio correspondiente al mismo domicilio.
-
-E) Sistemas de contabilidad que podrán llevar para acreditar la renta efectiva.
-
-Para estos efectos, serán aplicables las disposiciones del Código de Comercio, del Código Tributario y de esta ley, en lo que resulten pertinentes.
-
-Los contribuyentes que realicen actividades agrícolas deberán aplicar, además, lo dispuesto en el decreto supremo número 1.139, de 1990, del Ministerio de Hacienda, que establece Normas contables para los contribuyentes obligados a declarar la renta efectiva, o que opten a ello, para los efectos de la Ley sobre Impuesto a la Renta y aprueba el Reglamento sobre Contabilidad Agrícola.
-
-Los contribuyentes que exploten pertenencias mineras deberán aplicar lo dispuesto en el decreto supremo número 209, de 1990, del Ministerio de Minería, que reglamenta forma de costear el valor de adquisición de las pertenencias mineras.
-
-#### Artículo 34° bis
-
-Derogado.
-
-#### Artículo 35°
-
-Cuando la contabilidad del contribuyente no refleje adecuadamente la renta efectiva debido a caso fortuito o fuerza mayor, acreditada conforme a las reglas generales, el contribuyente dispondrá del plazo de 6 meses, contado desde el hecho respectivo, para ajustar su contabilidad, y reemplazar las declaraciones correspondientes. Los plazos de prescripción se entenderán aumentados por igual plazo. El contribuyente deberá informar al Servicio en la forma que éste determine mediante resolución. Para estos efectos, el Servicio habilitará un expediente electrónico de acuerdo a lo dispuesto y con los efectos que señala el artículo 21 del Código Tributario. No podrán acogerse a este procedimiento quienes se encuentren formalizados, querellados o sancionados por delito tributario dentro de los 3 años tributarios anteriores al que corresponda.
-
-Con todo, cuando la renta líquida del contribuyente respecto de los ingresos brutos se encuentre dentro de los márgenes observados para contribuyentes de similar actividad, negocio, segmento o localidad que publique el Servicio, no procederá la calificación de no fidedigna de la contabilidad, debiéndose en todo caso aplicar lo dispuesto en el inciso anterior.
-
-Cuando la renta líquida imponible no pueda determinarse clara y fehacientemente, por falta de antecedentes o cualquiera otra circunstancia, imputable al contribuyente, situación que deberá ser declarada fundadamente por el Servicio en el acto respectivo, se presume que la renta mínima imponible de las personas sometidas al impuesto de esta categoría es igual al 10% del capital efectivo invertido en la empresa o a un porcentaje de las ventas realizadas durante el ejercicio, el que será determinado por la Dirección Regional, tomando como base, entre otros antecedentes, un promedio de los porcentajes obtenidos por este concepto o por otros contribuyentes que giren en el mismo ramo o en la misma plaza. Corresponderá, en cada caso, al Director Regional, adoptar una u otra base de determinación de la renta.
-
-#### Artículo 36°
-
-Sin perjuicio de otras normas de esta ley, para determinar la renta efectiva de los contribuyentes que efectúen importaciones o exportaciones, o ambas operaciones, la Dirección Regional podrá, respecto de dichas operaciones, impugnar los precios o valores en que efectúen sus transacciones o contabilicen su movimiento, cuando ellos difieran de los que se obtienen de ordinario en el mercado interno o externo. Para estos efectos, la Dirección Regional podrá solicitar informe del Servicio Nacional de Aduanas.
+o- Sin perjuicio de otras normas de esta ley, para determinar la renta efectiva de los contribuyentes que efectúen importaciones o exportaciones, o ambas operaciones, la Dirección Regional podrá, respecto de dichas operaciones, impugnar los precios o valores en que efectuén sus transacciones o contabilicen su movimiento, cuando ellos difieran de los que se obtienen de ordinario en el mercado interno o externo. Para estos efectos, la Dirección Regional podrá solicitar informe al Banco Central de Chile.
 
 Se presume que la renta mínima imponible de los contribuyentes que comercien en importación o exportación, o en ambas operaciones, será respecto de dichas operaciones, igual a un porcentaje del producto total de las importaciones o exportaciones, o de la suma de ambas, realizadas durante el año por el cual deba pagarse el impuesto, que fluctuará, según su naturaleza, entre un uno y doce por ciento. El Servicio determinará, en cada caso, el porcentaje mínimo para los efectos de este artículo, con los antecedentes que obren en su poder.
 
 La presunción establecida en el inciso anterior sólo se aplicará cuando no se acredite fehacientemente por el contribuyente la renta efectiva. Para determinar el producto de las importaciones o exportaciones realizadas se atenderá a su valor de venta.
 
-> **Nota.** El artículo 11 de la LEY 18970, publicada el 10.03.1990, dispuso que la modificación introducida al presente artículo regirá a contar del 19 de abril de 1990.
+#### Artículo 37
 
-#### Artículo 37°
+o- Los Bancos que no estén constituidos en calidad de sociedades chilenas pagarán como impuesto mínimo de esta categoría una cantidad equivalente al 2,6°/°° del total de sus depósitos.
 
-En el caso de los bancos que no estén constituidos en calidad de sociedades chilenas, y sin perjuicio de lo dispuesto en los artículos 31, inciso tercero y 41 E, la Dirección Regional podrá rechazar como gasto necesario para producir la renta el exceso que determine por las cantidades pagadas o adeudadas a sus casas matrices por concepto de intereses, comisiones y cualquier otro pago que provenga de operaciones financieras cuando los montos de estas cantidades no guarden relación con las que se cobran habitualmente en situaciones similares, conforme a los antecedentes que proporcione el Banco Central de Chile y la Superintendencia de Bancos e Instituciones Financieras a solicitud del respectivo Director Regional.
+El monto medio de los depósitos bancarios se determinará por la Superintendencia de Bancos con los antecedentes que aparezcan en los estados que deben presentarle los Bancos.
 
-#### Artículo 37° bis
+#### Artículo 38
 
-Derogado.
-
-#### Artículo 38°
-
-La renta de las agencias, sucursales u otras formas de establecimientos permanentes de empresas extranjeras que operen en Chile, se determinará sobre la base de los resultados obtenidos por éstos en su gestión en el país y en el exterior que les sean atribuibles de acuerdo a las disposiciones de este artículo. Para los efectos de determinar los resultados atribuibles al establecimiento permanente, se considerarán sólo aquellas rentas originadas por actividades desarrolladas por éste, o por bienes que hayan sido asignados al establecimiento permanente o utilizados por él, y se aplicará, en lo que sea pertinente, lo dispuesto en los artículos 12, 41 A y 41 B. Sin perjuicio de lo anterior, los contribuyentes a que se refiere este artículo deberán determinar los referidos resultados del establecimiento permanente de que se trate sobre la base de un balance general según contabilidad completa, considerándose como si se tratara de una empresa totalmente separada e independiente de su matriz, tanto respecto de las operaciones que lleve a cabo con ella; con otros establecimientos permanentes de la misma matriz; con empresas relacionadas con aquella en los términos del artículo 41 E, o con terceros independientes. Para llevar a cabo ajustes a los resultados del establecimiento permanente a fin de adecuarlos a lo dispuesto en este artículo, cuando ello sea procedente, tanto el contribuyente como el Servicio deberán estarse a lo dispuesto en el artículo 41 E, en cuanto sea aplicable.
-
-Sin perjuicio de lo dispuesto en el artículo 35, cuando los elementos contables de estos establecimientos permanentes no permitan establecer su renta efectiva, el Servicio podrá determinar la renta afecta, aplicando a los ingresos brutos del establecimiento permanente la proporción que guarden entre sí la renta líquida total de la casa matriz y los ingresos brutos de ésta, determinados todos estos rubros conforme a las normas de la presente ley. Podrá, también, fijar la renta afecta, aplicando al activo del establecimiento permanente, la proporción existente entre la renta líquida total de la casa matriz y el activo total de ésta.
-
-Será aplicable a la asignación de activos de cualquier clase, corporales o incorporales, que se efectúe desde el exterior por la matriz a un establecimiento permanente en el país, o desde éste a su matriz extranjera o a otro establecimiento permanente ubicado en Chile o en el exterior, lo dispuesto en el inciso tercero del artículo 64 del Código Tributario. Tratándose de la asignación de acciones o derechos sociales en sociedades constituidas en el país efectuada desde el exterior por la matriz a un establecimiento permanente en el país, el Servicio carecerá de la facultad de tasar con tal que dicha asignación obedezca a una legítima razón de negocios, no origine un flujo efectivo de dinero para la matriz y sea efectuada y registrada en la contabilidad del establecimiento permanente al valor contable o tributario en que los activos estaban registrados en ella.
-
-#### Artículo 38° bis
-
-Al término de giro de las empresas acogidas a las reglas de la primera categoría, sea que se haya declarado por la empresa o en caso que, por aplicación de lo dispuesto en el inciso sexto del artículo 69 del Código Tributario, el Servicio de Impuestos Internos pueda liquidar o girar los impuestos correspondientes, se aplicarán las siguientes normas:
-
-1.- Las empresas que declaren sobre la base de su renta efectiva según contabilidad completa sujetas a las disposiciones de la letra A) del artículo 14, deberán considerar retiradas, remesadas o distribuidas las rentas o cantidades acumuladas en ella, indicadas en el inciso siguiente, incrementadas en una cantidad equivalente al 100% del crédito por impuesto de primera categoría y al crédito por impuestos finales establecido en el artículo 41 A, incorporados en el registro SAC, por parte de sus propietarios, en la proporción en que participan en las utilidades de la empresa, para afectarse con la tributación que a continuación se indica.
-
-Tales cantidades corresponden a las diferencias positivas que se determinen entre el valor positivo del capital propio tributario de la empresa, a la fecha de término de giro incrementado en el saldo negativo del registro REX, asignándole valor cero si resultare negativo y las siguientes cantidades:
-
-i) El saldo positivo de las cantidades anotadas en el registro REX; y
-
-ii) El monto de los aportes de capital enterados efectivamente en la empresa, más los aumentos y descontadas las disminuciones posteriores que se hayan efectuado del mismo, todos ellos reajustados de acuerdo al porcentaje de variación del Índice de Precios al Consumidor entre el mes anterior a la fecha de aporte, aumento o disminución de capital, y el mes anterior al término de giro.
-
-Estas empresas tributarán por esas rentas o cantidades con un impuesto del 35%, sólo respecto a la parte de las rentas o cantidades que correspondan a los propietarios contribuyentes de impuestos finales o propietarios no obligados a llevar contabilidad completa. Contra este impuesto, podrá deducirse la proporción que corresponda del saldo de créditos registrados en el registro SAC, aplicando cuando corresponda, la obligación de restitución conforme a los artículos 56 N° 3 y 63.
-
-El exceso de créditos que se produzca, luego de imputar los créditos señalados al impuesto del 35% por término de giro, no podrá ser imputado a ninguna otra obligación tributaria, ni dará derecho a devolución.
-
-Respecto a la parte de las rentas o cantidades que correspondan a propietarios que consistan en empresas sujetas a las disposiciones de la letra A) o D) N° 3, del artículo 14, ésta deberá considerarse retirada o distribuida a dichos propietarios a la fecha del término de giro, con el crédito que les corresponda proporcionalmente.
-
-2.- Las empresas acogidas al N° 3 de la letra D) del artículo 14, cuyos propietarios tributan en base a retiros, deberán considerar retiradas, remesadas o distribuidas las rentas o cantidades acumuladas en ella, indicadas en el número 1.- precedente y tributar según las reglas señaladas en el mismo numeral. Para este efecto, deberán considerar como capital propio tributario de la empresa el determinado considerando el siguiente valor de los activos:
-
-i) Aquellos que formen parte de su activo realizable, valorados según costo de reposición.
-
-ii) Los bienes físicos de su activo inmovilizado, a su valor actualizado al término de giro, conforme al artículo 31 número 5 y artículo 41, aplicando la depreciación normal.
-
-iii) Los demás activos valorizados conforme a lo dispuesto en el artículo 41.
-
-Las empresas acogidas al régimen del N° 8 de la letra D) del artículo 14, al término de giro deberán practicar un inventario final en el que registrarán los bienes conforme con las mismas reglas señaladas en los números (i), (ii) y (iii) precedentes. En estos casos, la diferencia de valor que se determine entre la suma de las partidas señaladas en dichos números y el monto de las pérdidas determinadas conforme a esta ley al término de giro, se gravará con el impuesto final que corresponde entendiéndose percibida por los propietarios, en la proporción en que participan en las utilidades de la empresa. También se gravará al término de giro el ingreso diferido pendiente de tributación, al que se refiere la letra (d) del número 8 de la letra D) del artículo 14.
-
-3.- Los propietarios de las empresas señaladas en el número 1 y 2 precedentes, que sean contribuyentes del impuesto global complementario, podrán optar por declarar, las rentas o cantidades que les correspondan, conforme a la determinación señalada en dichos números 1 y 2, como afectas al impuesto global complementario de acuerdo con las siguientes reglas:
-
-La renta o cantidad que le corresponda se entenderá devengada durante el período de años comerciales en que ha sido propietario, excluyendo el año del término de giro, hasta un máximo de diez años, y aun cuando en dichos años no hubiere obtenido rentas afectas al señalado impuesto o las obtenidas hubieren quedado exentas del mismo. Para tal efecto, las fracciones de años se considerarán como un año completo.
-
-La cantidad correspondiente a cada año se obtendrá de dividir el total de la renta o cantidad, reajustado en la forma indicada en el párrafo siguiente, por el número de años determinado conforme al párrafo anterior.
-
-Las cantidades reajustadas correspondientes a cada año se convertirán a unidades tributarias mensuales, según el valor de esta unidad en el mes del término de giro, y se ubicarán en los años en que se devengaron, con el objeto de liquidar el impuesto global complementario de acuerdo con las normas vigentes y según el valor de la citada unidad en el mes de diciembre para cada año respectivo.
-
-Las diferencias de impuestos o reintegros de devoluciones que se determinen por aplicación de las reglas anteriores, según corresponda, se expresarán en unidades tributarias mensuales del año respectivo y se solucionarán en el equivalente de dichas unidades en el término de giro.
-
-Aquella porción del impuesto de que trata este artículo, contra el cual se imputen créditos del registro SAC que hayan sido cubiertos con el crédito por impuesto territorial pagado o se originen en el crédito establecido en el artículo 41 A, no podrán ser objeto de devolución.
-
-Esta reliquidación del impuesto global complementario conforme con los párrafos anteriores en ningún caso implicará modificar las declaraciones de impuesto a la renta correspondientes a los años comerciales que se tomen en consideración para efectos del cálculo de dicho impuesto.
-
-La reliquidación de que trata este número, será efectuada en reemplazo del impuesto establecido en el N° 1 anterior. Con dicha finalidad, la reliquidación deberá efectuarse en conjunto con el término de giro de la empresa, mediante la declaración y pago del impuesto global complementario que corresponda, sin considerar para estos efectos el año en que se efectúa la reliquidación. Si solo algunos propietarios ejercen la opción de reliquidar, la empresa deberá pagar el impuesto establecido en el N° 1 únicamente respecto a la parte de las rentas o cantidades que correspondan a aquellos propietarios que no ejerzan la opción. No obstante, en caso que el propietario no ejerciera la opción de reliquidar en conjunto con el término de giro de la empresa, y en consecuencia, esta última haya pagado el impuesto establecido en el N° 1 anterior, el propietario podrá ejercer la opción de reliquidar en su declaración anual de impuesto a la renta que corresponda al ejercicio del término de giro, en los mismos términos señalados, pudiendo solicitar la devolución del impuesto establecido en el N° 1 pagado por la empresa, en exceso del impuesto reliquidado que le corresponda pagar.
-
-Lo contemplado en el párrafo anterior no aplicará para aquellos casos en que, por aplicación de lo dispuesto en el inciso sexto del artículo 69 del Código Tributario, el Servicio pueda liquidar o girar los impuestos correspondientes.
-
-4.- En los casos señalados en los números 1 y 2 anteriores, la empresa que termina su giro deberá pagar los impuestos respectivos que se determinen a esa fecha.
-
-En caso que la empresa haya optado voluntariamente por anticipar a sus propietarios el crédito por impuesto de primera categoría, conforme al N° 6 de la letra A) del artículo 14 de esta ley, podrá deducir de la renta líquida imponible del ejercicio de término de giro, hasta el monto positivo que resulte de ésta, la cantidad sobre la cual se aplicó y pagó efectivamente la tasa del impuesto de primera categoría, que no haya sido ajustada previamente. En caso que se produzca un excedente este se extinguirá.
-
-5.- El valor de adquisición para fines tributarios de los bienes que se adjudiquen los propietarios de las empresas de que trata este artículo, en la disolución o liquidación de las mismas, corresponderá a aquel que haya registrado la empresa de acuerdo a las normas de la presente ley, a la fecha del término de giro, considerando el valor determinado conforme al número 2 precedente para las empresas que resulte aplicable. La empresa certificará el valor de adquisición de los bienes al adjudicatario respectivo en la forma y plazo que establezca el Servicio mediante resolución. En esta adjudicación no corresponderá aplicar la facultad de tasación dispuesta en el artículo 64 del Código Tributario.
-
-En caso que el valor de los bienes, determinado según el inciso anterior, que corresponde adjudicar a las empresas sujetas a las disposiciones de la letra
-
-- **A)** o
-
-- **D)** N° 3 del artículo 14, exceda del valor de la inversión total realizada por dichas empresas en la empresa que realiza el término de giro, la diferencia que se produzca deberá reconocerse como un ingreso del ejercicio de la empresa adjudicataria. Por su parte, en caso que el valor de los bienes, determinado según el inciso anterior, que corresponda adjudicar a las empresas sujetas a las disposiciones de la letra
-
-- **A)** o
-
-- **D)** N° 3 del artículo 14, sea menor al valor de la inversión total realizada por dichas empresas en la empresa que realiza el término de giro, la diferencia que se produzca deberá deducirse como un gasto del ejercicio de la empresa adjudicataria.
-
-El valor de la inversión total realizada para determinar la diferencia a que se refiere el inciso anterior deberá reajustarse según la variación del Índice de Precios al Consumidor entre el mes anterior al de adquisición de dicha inversión y el mes anterior al del balance correspondiente al ejercicio anterior a aquel en que se produce el término de giro.
+o- La renta de fuente chilena de las agencias, sucursales u otras formas de establecimientos permanentes de empresas extranjeras que operan en Chile, se determinará sobre la base de los resultados reales obtenidos en su gestión en el país. Sin perjuicio de lo expuesto en el articulo 35.o, cuando los elementos contables de estas empresas no permitan establecer tales resultados, la Dirección Regional podrá determinar la renta afecta, aplicando a los ingresos brutos de la agencia la proporción que guarden entre sí la renta líquida total de la casa matriz y los ingresos brutos de ésta, determinados todos estos rubros conforme a las normas de la presente ley. Podrá, también, fijar la renta afecta, aplicando al activo de la agencia, la proporción existente entre la renta líquida total de la casa matriz y el activo total de ésta.
 
 ### Párrafo 4°
 
@@ -1772,15 +574,13 @@ De las exenciones
 
 Estarán exentas del impuesto de la presente categoría las siguientes rentas:
 
-1°.- Las utilidades pagadas por sociedades de personas respecto de sus socios y los dividendos pagados por sociedades anónimas o en comandita por acciones respecto de sus accionistas, con excepción de las que provengan de sociedades extranjeras, que no desarrollen actividades en el país.
+1°.- Los dividendos pagados por sociedades anónimas o en comandita por acciones, respecto de sus accionistas, con excepción de las rentas referidas en la letra c) del N° 2 del artículo 20°.
 
 2°.- Las rentas que se encuentren exentas expresamente en virtud de leyes especiales.
 
-3°.- La renta efectiva de los bienes raíces no agrícolas obtenida por personas naturales.
+3°.- Las rentas de los bienes raíces no agrícolas sólo respecto del propietario o usufructuario que no sea sociedad anónima, sin perjuicio de que tributen con el Impuesto Global Complementario o Adicional. Con todo, esta exención no regirá cuando la renta efectiva de los bienes raíces no agrícolas exceda del 11% de su avalúo fiscal, aplicándose en este caso lo dispuesto en los tres últimos incisos del artículo 20°, N° 1, letra a).
 
-4°.- Los intereses o rentas que provengan de:
-
-a) Los bonos, pagarés y otros títulos de créditos emitidos por cuenta o con garantía del Estado o por las instituciones, empresas y organismos autónomos del Estado.
+4°.- Los intereses o rentas que provengan de: a) Los bonos, pagarés y otros títulos de créditos emitidos por cuenta o con garantía del Estado o por las instituciones, empresas y organismos autónomos del Estado.
 
 b) Los bonos o letras hipotecarios emitidos por las instituciones autorizadas para hacerlo.
 
@@ -1796,131 +596,83 @@ g) Los depósitos a plazo en moneda nacional o extranjera y los depósitos de cu
 
 h) Los efectos del comercio emitidos por terceros e intermediados por alguna de las instituciones financieras fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras o por intermediarios fiscalizados por la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio.
 
-Las exenciones contempladas en los Nos 2° y 4° de este artículo, relativas a operaciones de crédito o financieras, no regirán cuando las rentas provenientes de dichas operaciones sean obtenidas por empresas que desarrollen actividades clasificadas en los N°s 3, 4 y 5 del artículo 20 y declaren la renta efectiva.
+Las exenciones contempladas en los Nos 2° y 4° de este artículo, relativas a operaciones de crédito o financieras, no regirán cuando las rentas provenientes de dichas operaciones sean obtenidas por empresas que desarrollen actividades clasificadas en los N°s 3, 4 y 5 VER NOTA 2.- del artículo 20 y declaren la renta efectiva.
 
-> **Nota.** El artículo 20 letra c del DL 1244, Hacienda, publicado el 08.11.1975, dispone que la modificación que se introduce este artículo, rige a contar del 1º de julio de 1975.
+> **Nota.** NOTA: 22 Esta modificación rige a contar del 1° de julio de 1975.- (DL 1.244, 1975, art. 20, c).).
 
-> **Nota.** NOTA: 1 El artículo 8º Nº del DL 2324, Hacienda, publicado el 31.08.1978, dispone que la modificación introducida a este artículo, afectará a las rentas que se paguen, abonen en cuenta, se pongan a disposición o se contabilicen como gasto, a partir del 1º de enero de 1978.
+> **Nota.** NOTA: 23 La modificación introducida por el DL 2324, de 1978, art. 1° N° 2, afectará a las rentas que se paguen, abonen en cuenta, se pongan a disposición o se contabilicen como gasto, a partir del 1° de enero de 1978. (DL 2324, de 1978, art. 8° N° 2).
 
-> **Nota.** NOTA: 2 El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
+#### Artículo 40
 
-#### Artículo 40°
+o- Estarán exentas del impuesto de la presente categoría las rentas percibidas por las personas que enseguida se enumeran:
 
-Estarán exentas del impuesto de la presente categoría las rentas percibidas por las personas que en seguida se enumeran:
+1.o- El Fisco, las instituciones Fiscales y semifiscales, las instituciones fiscales y semifiscales de administración autónoma, las instituciones y organismos autónomos del Estado y las Municipalidades.
 
-1°.- El Fisco y demás instituciones que comparten la personalidad jurídica del Fisco, así como las instituciones fiscales y semifiscales, las instituciones fiscales y semifiscales de administración autónoma, las instituciones y organismos autónomos del Estado y las Municipalidades.
+2.o- Las instituciones exentas por leyes especiales.
 
-2°.- Las instituciones exentas por leyes especiales.
+3.o- Las instituciones de beneficencia, ahorro y previsión social que determine el Presidente de la República. La Asociación de Boy Scouts de Chile y las instituciones de Socorros Mutuos afiliados a la Confederación Mutualistas de Chile, y
 
-3°.- Las instituciones de ahorro y previsión social que determine el Presidente de la República. La Asociación del Boy Scouts de Chile y las instituciones de Socorros Mutuos afiliados a la Confederación Mutualistas de Chile, y
+4.o- Los comerciantes ambulantes, siempre que no desarrollen otra actividad gravada en esta categoría.
 
-4°.- Las instituciones de beneficencia que determine el Presidente de la República. Sólo podrán impetrar este beneficio aquellas instituciones que no persigan fines de lucro y que tengan por objeto principal y efectivo proporcionar ayuda, aun cuando no se otorgue de manera totalmente gratuita, de modo directo a personas de escasos recursos económicos que no alcanzan a satisfacer sus necesidades básicas. En caso que, concedida la exención, el Servicio constate y declare fundadamente el incumplimiento de los requisitos señalados, podrá liquidar y girar los impuestos que corresponda por el o los años en que se verificó el incumplimiento.
+5.o- Las empresas individuales que obtengan rentas líquidas de esta categoría conforme a los números 1, 3, 4 y 5 del artículo 20.o, que no excedan en conjunto de una unidad tributaria anual.
 
-5°.- Los comerciantes ambulantes, siempre que no desarrollen otra actividad gravada en esta categoría.
-
-6°.- Las empresas individuales que obtengan rentas líquidas de esta categoría conforme a los números 1, 3, 4 y 5 del artículo 20°, que no excedan en conjunto de una unidad tributaria anual.
-
-7°.- Eliminado.
-
-Con todo, las exenciones a que se refieren los números 1, 2 y 3 no regirán respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos números ni de las rentas clasificadas en los números 3 y 4 del artículo 20°. Para los efectos de este artículo, la empresa pertenece a una institución cuando, compartiendo su personalidad jurídica, permite a la institución realizar actividades a través de un conjunto constituido por el capital y el trabajo, encaminado a la realización de actividades mercantiles, industriales o de prestación de servicios con fines lucrativos.
-
-> **Nota.** El Nº 3 del artículo 9º del DL 1362, Hacienda, publicado el 06.03.1976, dispone que las modificaciones a éste artículo, regirán a contar del 1º de enero de 1975.
+Con todo, las exenciones a que se refieren los números 1, 2 y 3 no regirán respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos números ni de las rentas clasificadas en los números 3 y 4 del artículo 20.o.
 
 ### Párrafo 5°
 
 De la corrección monetaria de los activos y pasivos
 
-#### Artículo 41°
+#### Artículo 41
 
-Los contribuyentes de esta categoría que declaren sus rentas efectivas conforme a las normas contenidas en el artículo 20°, demostradas mediante un balance general, deberán reajustar anualmente su capital propio y los valores o partidas del activo y del pasivo exigible, conforme a las siguientes normas:
+o- Los contribuyentes de esta categoría que declaren sus rentas efectivas conforme a las normas contenidas en el artículo 20.o, demostradas mediante un balance general, deberán reajustar anualmente su capital propio y los valores o partidas del activo y del pasivo exigible, conforme a las siguientes normas:
 
-1°.- El capital propio tributario inicial del ejercicio se reajustará de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del segundo mes anterior al de iniciación del ejercicio y el último día del mes anterior al del balance.
+1.o- El capital propio inicial del ejercicio se reajustará de acuerdo con el porcentaje de variación experimentada por el indice de precios al consumidor en el período comprendido entre el segundo mes anterior al de iniciación del ejercicio y el segundo mes anterior al del balance. Para los efectos de la presente disposición se entenderá por capital propio la diferencia entre el activo y el pasivo exigible a la fecha de iniciación de ejercicio comercial, debiendo rebajarse previamente los valores intangibles, nominales, transitorios y de orden y otros que determine la Dirección Nacional, que no representen inversiones efectivas. Formarán parte del capital propio los valores del empresario o socio de sociedades de personas que hayan estado incorporados al giro de la empresa. En el caso de contribuyentes que sean personas naturales deberán excluirse de la contabilidad los bienes y deudas que no originen rentas gravadas en esta categoría o que no correspondan al giro, actividades o negociaciones de la empresa.
 
-Los aumentos del capital propio ocurridos en el ejercicio se reajustarán de acuerdo con el porcentaje de variación experimentada por el índice mencionado en el período comprendido entre el último día del mes anterior al del aumento y el último día del mes anterior al del balance.
+Los aumentos de capital propio ocurridos en el ejercicio se reajustarán de acuerdo con el porcentaje de variación experimentada por el índice mencionado por el período comprendido entre el segundo mes anterior al del aumento y el segundo mes anterior al del balance.
 
-Las disminuciones de capital propio ocurridas en el ejercicio se reajustarán de acuerdo con el porcentaje de variación que haya experimentado el citado índice en el período comprendido entre el último día del mes anterior al del retiro y el último día del mes anterior al del balance. Los retiros personales del empresario o socio, los dividendos repartidos por sociedades anónimas y toda cantidad que se invierta en bienes o derechos que la ley excluya del capital propio, se considerarán en todo caso disminuciones de capital y se reajustarán en la forma indicada anteriormente.
+Las disminuciones de capital propio ocurridas en el ejercicio se reajustarán de acuerdo con el porcentaje de variación que haya experimentado el citado índice en el período comprendido entre el segundo mes anterior al del retiro y el segundo mes anterior al del balance. Los retiros personales del empresario o socio y los dividendos provisorios o interinos repartidos por sociedades anónimas se considerarán disminuciones de capital propio.
 
-2°.- El valor neto inicial en el ejercicio respectivo de los bienes físicos del activo inmovilizado se reajustará en el mismo porcentaje referido en el inciso primero del número 1°. Respecto de los bienes adquiridos durante el ejercicio, su valor neto inicial se reajustará de acuerdo con el porcentaje de variación experimentada por el índice mencionado en el número 1°, en el período comprendido entre el último día del mes anterior al de adquisición y el último día del mes anterior al del balance.
+El mayor valor que resulte del reajuste del capital propio inicial más el monto del reajuste de los aumentos de capital propio y menos el monto del reajuste de las disminuciones de capital propio, se cargará a los resultados del balance y disminuirán la renta líquida. Este mayor valor no estará afecto a impuesto y se considerará capital propio para todos los efectos legales desde el día siguiente a la fecha del balance, tanto respecto del contribuyente como de los accionistas o socios.
 
-Los bienes adquiridos con créditos en moneda extranjera o con créditos reajustables también se reajustarán en la forma señalada, pero las diferencias de cambio o el monto de los reajustes, pagados o adeudados, no se considerarán como mayor valor de adquisición de dichos bienes, sino que se cargarán a los resultados del balance y disminuirán la renta líquida cuando así proceda de acuerdo con las normas de los artículos 31° y 33°.
+2.o- El valor neto inicial en el ejercicio respectivo de los bienes físicos del activo inmovilizado se reajustará en el mismo porcentaje referido en el inciso primero del número 1.o. Respecto de los bienes adquiridos durante el ejercicio, su valor neto inicial se reajustará de acuerdo con el porcentaje de variación experimentada por el índice mencionado en el número 1.o, en el período comprendido entre el segundo mes anterior al de adquisición y el segundo mes anterior al del balance.
 
-3°.- El valor de adquisición o de costo directo de los bienes físicos del activo realizable, existentes a la fecha del balance, se ajustará a su costo de reposición a dicha fecha. Para estos fines se entenderá por costos de reposición de un artículo o bien, el que resulte de aplicar las siguientes normas:
+Los bienes adquiridos con créditos en moneda extranjera o con créditos reajustables también se reajustarán en la forma señalada, pero las diferencias de cambio o el monto de los reajustes, pagados o adeudados, no se considerarán como mayor valor de adquisición de dichos bienes, sino que se cargarán a los resultados del balance y disminuirán la renta líquida según lo dispuesto en el número 8 del artículo 31.o.
+
+3.o- El valor de adquisición o de costo directo de los bienes físicos del activo realizable, existentes a la fecha del balance, se ajustará a su costo de reposición a dicha fecha. Para estos fines se entenderá por costo de reposición de un artículo o bien, el que resulte de aplicar las siguientes normas:
 
 a) Respecto de aquellos bienes en que exista factura, contrato o convención para los de su mismo género, calidad y características, durante el segundo semestre del ejercicio comercial respectivo, su costo de reposición será el precio que figure en ellos, el cual no podrá ser inferior al precio más alto del citado ejercicio.
 
-b) Respecto de aquellos bienes en que sólo exista factura, contrato o convención para los de su mismo género, calidad o características durante el primer semestre del ejercicio comercial respectivo, su costo de reposición será el precio más alto que figure en los citados documentos, reajustado según el porcentaje de variación experimentada por el índice de precios al consumidor entre el último día del segundo mes anterior al segundo semestre y el último día del mes anterior al del cierre del ejercicio correspondiente.
+b) Respecto de aquellos bienes de los cuales no exista factura, contrato o convención en el segundo semestre del ejercicio comercial, su costo de reposición se determinará reajustado su costo directo de acuerdo con la variación experimentada por el índice de precios al consumidor entre el segundo mes anterior a dicho semestre y el segundo mes anterior al del cierre del ejercicio correspondiente.
 
-c) Respecto de los bienes cuyas existencias se mantienen desde el ejercicio comercial anterior, y de los cuales no exista factura, contrato o convención durante el ejercicio comercial correspondiente, su costo de reposición se determinará reajustando su valor de libros de acuerdo con la variación experimentada por el índice de precios al consumidor entre el último día del segundo mes anterior al de iniciación del ejercicio comercial y el último día del mes anterior al de cierre de dicho ejercicio.
+c) Respecto de los bienes cuyas existencias se mantienen desde el ejercicio comercial anterior, y de los cuales no exista factura, contrato o convención durante el ejercicio comercial correspondiente, su costo de reposición se determinará reajustando su valor de libros de acuerdo con la variación experimentada por el índice de precios al consumidor entre el segundo mes anterior al de iniciación del ejercicio comercial y el segundo mes anterior al de cierre de dicho ejercicio.
 
-d) El costo de reposición de aquellos bienes adquiridos en el extranjero respecto de los cuales exista internación de los de su mismo género, calidad y características durante el segundo semestre del ejercicio comercial respectivo, será equivalente al valor de la última importación.
+d) Respecto de las mercaderías y materias primas importadas, su costo de reposición se determinará reajustando su costo directo de acuerdo con la variación del tipo de cambio de la respectiva moneda extranjera, ocurrida entre la fecha de adquisición de los bienes o del último inventario, según corresponda, y la fecha del balance. Del mismo modo se procederá respecto de las mercaderías y materias primas importadas que se encuentren en tránsito a la fecha del balance. Para estos efectos, se considerará la moneda extranjera según su valor de cotización, tipo comprador, en el mercado bancario.
 
-Respecto de aquellos bienes adquiridos en el extranjero en que la última internación de los de su mismo género, calidad y característica se haya realizado durante el primer semestre, su costo de reposición será equivalente al valor de la última importación, reajustado éste según el porcentaje de variación experimentada por el tipo de cambio de la respectiva moneda extranjera ocurrida durante el segundo semestre.
-
-Tratándose de aquellos bienes adquiridos en el extranjero y de los cuales no exista importación para los de su mismo género, calidad o característica durante el ejercicio comercial correspondiente, su costo de reposición será equivalente al valor de libros reajustado según el porcentaje de variación experimentada por el tipo de cambio de la moneda respectiva durante el ejercicio.
-
-Por el valor de importación se entenderá el valor C.I.F. según tipo de cambio vigente a la fecha de la factura del proveedor extranjero, más los derechos de internación y gastos de desaduanamiento.
-
-La internación del bien se entenderá realizada en la oportunidad en que se produzca su nacionalización. Con anterioridad los bienes se encontrarán en tránsito, debiendo valorizarse cada desembolso en base al porcentaje de variación experimentada por la respectiva moneda extranjera entre la fecha de su erogación y la del balance.
-
-Para los efectos de esta letra, se considerará la moneda extranjera según su valor de cotización, tipo comprador, en el mercado bancario.
-
-e) Respecto de los productos terminados o en proceso, su costo de reposición se determinará considerando la materia prima de acuerdo con las normas de este número y la mano de obra por el valor que tenga en el último mes de producción, excluyéndose las remuneraciones que no correspondan a dicho mes.
+c) Respecto de los productos terminados o en proceso, su costo de reposición se determinará considerando la materia prima de acuerdo con las normas de este número y la mano de obra por el valor que tenga en el último mes de producción, excluyéndose las remuneraciones que no correspondan a dicho mes.
 
 En los casos no previstos en este número, la Dirección Nacional determinará la forma de establecer el costo de reposición.
 
 Con todo, el contribuyente que esté en condiciones de probar fehacientemente que el costo de reposición de sus existencias a la fecha del balance es inferior del que resulta de aplicar las normas anteriores, podrá asignarles el valor de reposición que se desprende de los documentos y antecedentes probatorios que invoque.
 
-4°.- El valor de los créditos o derechos en moneda extranjera o reajustables, existentes a la fecha del balance, se ajustará de acuerdo con el valor de cotización de la respectiva moneda o con el reajuste pactado, en su caso. El monto de los pagos provisionales mensuales pendientes de imputación a la fecha del balance se reajustará de acuerdo a lo previsto en el artículo 95°.
+4.o- El valor de los créditos o derechos en moneda extranjera o reajustables, existentes a la fecha del balance, se ajustará de acuerdo con el valor de cotización de la respectiva moneda o con el reajuste pactado, en su caso. El monto de los pagos provisionales mensuales pendientes de imputación a la fecha del balance se reajustará de acuerdo a lo previsto en el artículo 95.o.
 
-5°.- El valor de las existencias de monedas extranjeras y de monedas de oro se ajustará a su valor de cotización, tipo comprador, a la fecha del balance, de acuerdo al cambio que corresponda al mercado o área en el que legalmente deban liquidarse.
+5.o- El valor de las existencias de monedas extranjeras y de monedas de oro se ajustará a su valor de cotización, tipo comprador, a la fecha del balance, de acuerdo al cambio que corresponda al mercado o área en el que legalmente deban liquidarse.
 
-6°.- El valor de los derechos de llave, pertenencias y concesiones mineras, derechos de fabricación, derechos de marca y patentes de invención, pagados efectivamente, se reajustará aplicando las normas del número 2°. El valor del derecho de usufructo se reajustará aplicando las mismas normas a que se refiere este número.
+6.o- El valor de los derechos de llave, derechos de fabricación, derechos de marca y patentes de invención, pagados efectivamente, se reajustará aplicando las normas del número 2.o.
 
-7°.- El monto de los gastos de organización y de puesta en marcha registrado en el activo para su castigo, en ejercicios posteriores, se reajustará de acuerdo con las normas del número 2°. De igual modo se procederá con los gastos y costos pendientes a la fecha del balance que deban ser diferidos a ejercicios posteriores.
+7.o- El monto de los gastos de organización y de puesta en marcha registrado en el activo para su castigo, en ejercicios posteriores, se reajustará de acuerdo con las normas del número 2.o. De igual modo se procederá con los gastos y costos pendientes a la fecha del balance que deban ser diferidos a ejercicios posteriores.
 
-8°.- El valor de adquisición de las acciones de sociedades anónimas o de sociedades en comandita por acciones se reajustará de acuerdo con la variación del índice de precios al consumidor, en la misma forma que los bienes físicos del activo inmovilizado. Para estos efectos se aplicarán las normas sobre determinación del valor de adquisición establecidas en el artículo 17, número 8.
+8.o- El valor de las acciones de sociedades anónimas se reajustará de acuerdo con la variación del índice de precios al consumidor, en la misma forma que los bienes físicos del activo inmovilizado. Para estos efectos se aplicarán las normas sobre determinación del valor de adquisición establecidas en el inciso final del artículo 18.
 
-9°.- Los derechos en sociedades de personas se reajustarán en la misma forma indicada en el número anterior.
+9.o- Los aportes a sociedades de personas se reajustarán según el porcentaje indicado en el inciso primero del N.o 1, aplicándose al efecto el procedimiento señalado en el N.o 2 de este artículo. Lo anterior es sin perjuicio de rectificar posteriormente dicho reajuste de acuerdo al que haya correspondido en la respectiva sociedad de personas. Las diferencias que se produzcan de esta rectificación se contabilizarán, según corresponda, con cargo o abono a la cuenta "Revalorización del Capital Propio".
 
-Cuando los contribuyentes señalados en el inciso primero de este artículo enajenen los derechos a que se refiere este número o las acciones señaladas en el número anterior, podrán deducir como costo para los fines de esta ley el valor de adquisición reajustado conforme a lo dispuesto en el número 8 precedente, al término del ejercicio anterior a la fecha de enajenación, considerando además los aumentos y disminuciones de capital que se efectúen durante el ejercicio respectivo, de acuerdo a lo dispuesto en el artículo 17, número 8, sin considerar reajuste alguno sobre dichas cantidades.
+10.o- Las deudas u obligaciones en moneda extranjera o reajustables, existentes a la fecha del balance, se reajustarán de acuerdo a la cotización de la respectiva moneda a la misma fecha o con el reajuste pactado, en su caso, con cargo a los resultados del balance y el monto del ajuste disminuirá la renta líquida cuando así proceda de acuerdo con las normas de los artículos 31.o y 33.o.
 
-10°.- Las deudas u obligaciones en moneda extranjera o reajustables, existentes a la fecha del balance, se reajustarán de acuerdo a la cotización de la respectiva moneda a la misma fecha o con el reajuste pactado, en su caso.
+El monto de los ajustes señalados en los números 2 al 9 se abonará a los resultados del balance e incrementará la renta líquida, a menos que por aplicación del artículo 29.o ya se encuentren formando parte de ésta.
 
-11°.- En aquellos casos en que este artículo no establezca normas de reajustabilidad para determinados bienes, derechos, deudas u obligaciones, la Dirección Nacional determinará a su juicio exclusivo la forma en que debe efectuarse su reajustabilidad.
+Al término de cada ejercicio los contribuyentes sometidos a las normas del presente artículo, deberán registrar en sus libros de contabilidad los ajustes exigidos por este precepto. Al efecto, los ajustes que incidan en los resultados del ejercicio se registrarán en una cuenta que se denominará "Corrección Monetaria", y el ajuste del capital propio en una cuenta del pasivo no exigible que se denominará "Revalorización del Capital Propio" sin perjuicio de que posteriormente esta revalorización se traspase optativamente al capital y/o reservas de la empresa, pudiendo hacerse su distribución en forma proporcional entre todas las cuentas del pasivo no exigible.
 
-12°.- Al término de cada ejercicio, los contribuyentes sometidos a las disposiciones del presente artículo, deberán registrar en sus libros de contabilidad los ajustes exigidos por este precepto, de acuerdo a las siguientes normas:
-
-a) Los ajustes del capital propio inicial y de sus aumentos, efectuados de conformidad a lo dispuesto en los incisos primero y segundo del N° 1° se cargarán a una cuenta de resultados denominada "Corrección Monetaria" y se abonarán al pasivo no exigible en una cuenta denominada "Revalorización del Capital Propio";
-
-b) Los ajustes a que se refiere el inciso tercero del N° 1° se cargarán a la cuenta "Revalorización del Capital Propio" y se abonarán a la cuenta "Corrección Monetaria";
-
-c) Los ajustes señalados en los números 2° al 9°, se cargarán a la cuenta de Activo que corresponda y se abonarán a la cuenta "Corrección Monetaria", a menos que por aplicación del artículo 29° ya se encuentren formando parte de ésta.
-
-INCISO SEGUNDO DEROGADO
-
-d) Los ajustes a que se refiere el N° 10°, se cargarán a la cuenta "Corrección Monetaria" y se abonarán a la cuenta del Pasivo Exigible respectiva, siempre que así proceda de acuerdo con las normas de los artículos 31° y 33°.
-
-INCISO SEGUNDO DEROGADO
-
-13°.- El mayor valor que resulte de la revalorización del capital propio y de sus variaciones no estará afecto a impuesto y será considerado "capital propio" a contar del primer día del ejercicio siguiente, pudiendo traspasarse su valor al capital y/o reservas de la empresa. El menor valor que eventualmente pudiese resultar de la revalorización del capital propio y sus variaciones, será considerado una disminución del capital y/o reservas a contar de la misma fecha indicada anteriormente. No obstante, el reajuste que corresponda a las utilidades estará afecto al Impuesto Global Complementario o Adicional, cuando sea retirado o distribuido.
-
-INCISO SEGUNDO DEROGADO
-
-INCISO TERCERO DEROGADO
-
-Los contribuyentes que enajenen ocasionalmente bienes y cuya enajenación sea susceptible de generar rentas afectas al impuesto de esta categoría y que no estén obligados a declarar sus rentas mediante un balance general, deberán para los efectos de determinar la renta proveniente de la enajenación, deducir del precio de venta el valor inicial actualizado de dichos bienes, según la variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes que antecede al de la adquisición del bien y el último día del mes anterior al de la enajenación, debiendo deducirse las depreciaciones correspondientes al período respectivo.
-
-INCISOS ELIMINADOS
-
-> **Nota.** El Art. 4º del DL 1533, Hacienda, publicado el 29.07.1976, dispone que las modificaciones introducidas a este artículo regirán a contar del día primero del mes siguiente al de su publicación.
-
-> **Nota.** NOTA: 1 El artículo 15 del DL 1604, Hacienda, publicado el 03.12.1976, establece las diferentes fechas en que regirán las modificaciones introducidas a la presente norma.
-
-> **Nota.** NOTA: 2 El artículo 8º Nº 3 del DL 2324, Hacienda, publicado el 31.08.1984, dispone que las modificaciones introducidas a esta norma, regirán respecto de los balances que se cierren a contar del 31 de diciembre de 1977.
-
-> **Nota.** NOTA: 3 El artículo 2º de la LEY 18293, dispone que las modificaciones introducidas por la presente norma, regirán a contar del 1º de enero de 1984, sin perjuicio de vigencias especiales indicadas por la citada Ley.
-
-> **Nota.** NOTA 4 El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
+Los contribuyentes de esta categoría que no estén obligados a demostrar sus rentas mediante un balance general y que enajenen bienes de su activo inmovilizado deberán, para los efectos de determinar la renta proveniente de la enajenación, deducir del precio de venta el valor inicial actualizado de dichos bienes. Para estos efectos, dicho valor inicial actualizado se determinará revalorizando el valor de adquisición de los bienes enajenados de acuerdo al porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes anterior al de la adquisición y el segundo mes anterior al de la enajenación, debiendo deducir las depreciaciones de dichos bienes correspondientes al período respectivo.
 
 #### Artículo 41° bis
 
@@ -1929,462 +681,6 @@ Los contribuyentes no incluidos en el artículo anterior, que reciban intereses 
 1.- El valor del capital originalmente adeudado en moneda del mismo valor adquisitivo se determinará reajustando la suma numérica originalmente entregada o adeudada de acuerdo con la variación de la unidad de fomento experimentada en el plazo que comprende la operación.
 
 2.- En las obligaciones de dinero se considerará interés la cantidad que el acreedor tiene derecho a cobrar al deudor, en virtud de la ley o de la convención, por sobre el capital inicial debidamente reajustado en conformidad a lo dispuesto en el N° 1 de este artículo. No se considerarán interés sin embargo, las costas procesales y personales, si las hubiere.
-
-### Párrafo 6°
-
-De las normas relativas a la tributación internacional
-
-#### Artículo 41°
-
-A.- Los contribuyentes o entidades domiciliados, residentes, constituidos o establecidos en Chile, que obtengan rentas que hayan soportado impuestos en el extranjero, se regirán por las normas de este artículo para efectos de utilizar como crédito los impuestos pagados sobre dichas rentas.
-
-1.- Rentas cuyos impuestos soportados en el extranjero pueden ser utilizados como crédito.
-
-Darán derecho a crédito los impuestos soportados en el extranjero respecto de las siguientes rentas:
-
-a) Dividendos y retiros de utilidades;
-
-b) Rentas por el uso de intangibles, tales como marcas, patentes y fórmulas;
-
-c) Rentas por la prestación de servicios profesionales o técnicos, o servicios calificados de exportación;
-
-d) Rentas clasificadas en los números 1 y 2 del artículo 42;
-
-e) Rentas de establecimientos permanentes situados en el extranjero;
-
-f) Rentas pasivas que resulten de la aplicación de lo dispuesto en el artículo 41 G, cuando corresponda a las rentas a que se refieren las letras a), b) y g) de este numeral; y
-
-g) Rentas provenientes de países con los cuales Chile haya suscrito un convenio para evitar la doble tributación, que esté vigente y en el que se haya comprometido el otorgamiento de un crédito por el o los impuestos a la renta pagados en el otro país contratante.
-
-2.- Impuestos soportados en el extranjero que pueden ser utilizados como crédito.
-
-Darán derecho a crédito los siguientes impuestos soportados en el extranjero:
-
-a) Crédito directo por impuesto de retención.
-
-Dará derecho a crédito el impuesto a la renta retenido en el extranjero sobre las rentas señaladas en el número 1 de este artículo.
-
-b) Crédito indirecto por impuesto corporativo.
-
-Dará derecho a crédito el impuesto a la renta pagado por la sociedad o entidad en el extranjero, en la parte que proporcionalmente corresponda a las utilidades que se remesan a Chile, o que deban computarse de acuerdo a lo establecido en el artículo 41 G.
-
-Tratándose de establecimientos permanentes situados en el extranjero, o entidades controladas sin domicilio ni residencia en Chile conforme con el artículo 41 G, también darán derecho a crédito los impuestos a la renta que se adeuden hasta el ejercicio siguiente sobre las rentas de dichos establecimientos permanentes o entidades controladas que se deban incluir en la renta líquida imponible del contribuyente con domicilio, residencia, constituido o establecido en Chile. Para estos efectos, se considerarán sólo los impuestos pagados hasta el 31 de diciembre del ejercicio de presentación de la declaración anual de impuestos a la renta, conforme a lo dispuesto en el artículo 69. En caso que los impuestos sean pagados luego de la fecha de presentación de la declaración anual de impuestos a la renta, conforme a lo dispuesto en el artículo 69, el crédito podrá utilizarse en el ejercicio siguiente.
-
-c) Crédito indirecto respecto de entidades subsidiarias.
-
-También dará derecho a crédito el impuesto a la renta pagado o retenido por una o más sociedades o entidades en la parte que proporcionalmente corresponda a las utilidades que repartan a la sociedad o entidad que remesa dichas utilidades a Chile, o que se devenguen de acuerdo a lo establecido en el artículo 41 G, siempre que todas se encuentren domiciliadas o residentes, o estén constituidas o establecidas en el mismo país y la referida sociedad o entidad que remesa las utilidades a Chile o cuyas rentas se devengan conforme con el artículo 41 G, sea dueña directa o indirecta del 10% o más del capital de las sociedades o entidades subsidiarias señaladas.
-
-Asimismo, dará derecho a crédito el impuesto pagado o retenido por una sociedad o entidad domiciliada o residente, constituida o establecida en un tercer país con el cual Chile haya suscrito un convenio para evitar la doble tributación internacional u otro que permita el intercambio de información para fines tributarios, que se encuentre vigente, en el cual se hayan aplicado los impuestos acreditables en Chile. En este caso, la sociedad o entidad que remesa las utilidades a Chile o cuya renta se devenga conforme con el artículo 41 G, deberá ser dueña directa o indirecta del 10% o más del capital de las sociedades o entidades subsidiarias señaladas.
-
-d) Crédito por impuesto adicional.
-
-Dará derecho a crédito el impuesto adicional de esta ley, cuando las rentas que deban reconocerse en Chile correspondan en su origen a rentas de fuente chilena obtenidas por contribuyentes o entidades sin domicilio ni residencia en el país.
-
-3.- Determinación del monto de crédito por impuestos soportados en el extranjero.
-
-Al término de cada ejercicio los contribuyentes determinarán una Renta Imponible y una Renta Neta para efectos del uso del crédito conforme con este artículo.
-
-La Renta Imponible estará conformada por la Renta Neta más la totalidad de impuestos que pueden ser utilizados como créditos, con sus respectivos topes.
-
-La Renta Neta consistirá en el resultado consolidado de utilidad líquida percibida o pérdida en relación a rentas respecto de las cuales se soportaron los impuestos en el extranjero, que constituya la renta del contribuyente afecta a impuesto en Chile, deducidos los gastos para producirla, en la proporción que corresponda. Para la determinación de la Renta Neta, se aplicarán, en lo que corresponda, las normas de esta ley sobre determinación de la base imponible de primera categoría, con excepción de la deducción de la pérdida de ejercicios anteriores y de la aplicación de las reglas de corrección monetaria y de depreciación.
-
-El crédito total disponible corresponderá a los impuestos soportados en el extranjero, el cual no podrá exceder de la cantidad menor entre el tope individual y el tope global que se describen a continuación:
-
-a) Tope individual.
-
-Corresponderá a la cantidad menor entre el impuesto efectivamente soportado en el extranjero y un 35% sobre la renta bruta de cada tipo de renta gravada en el extranjero, considerada en forma separada. Cuando no pueda acreditarse la renta bruta, el crédito no podrá exceder del 35% de una cantidad tal, que al restarle dicho 35%, el resultado sea equivalente a la renta líquida percibida.
-
-b) Tope global.
-
-Corresponderá al 35% de la cantidad que resulte de sumar a la Renta Neta de cada ejercicio, la cantidad menor entre los impuestos soportados en el extranjero y el tope individual precedentemente indicado.
-
-Los contribuyentes que deban considerar como devengadas o percibidas las rentas pasivas a que se refiere el artículo 41 G, calcularán la Renta Neta y los topes individual y global para la aplicación del crédito, en el ejercicio en que se devenguen las rentas pasivas y, posteriormente, realizarán nuevamente la referida determinación en el ejercicio en que se perciban los dividendos o retiros de utilidades que correspondan a dichas rentas pasivas devengadas en ejercicios anteriores, considerando los valores reajustados. Para la determinación del crédito y del tope individual y global en el ejercicio en que se percibe el retiro o dividendo, se deberá computar el impuesto soportado respecto de dichas rentas en el ejercicio en que se consideraron devengadas y el impuesto retenido sobre los dividendos o retiros percibidos. Del crédito así calculado, deberá descontarse aquel que se rebajó del impuesto respectivo en el ejercicio en que se devengaron las rentas pasivas del artículo 41 G, reajustado. La determinación del crédito en el ejercicio en que se percibe el retiro o dividendo no afectará en caso alguno el crédito utilizado en el ejercicio en que se devengó la renta pasiva.
-
-4.- Imputación del crédito por impuestos soportados en el extranjero, correspondiente a rentas clasificadas en el artículo 20.
-
-El crédito anual por impuestos soportados en el extranjero, determinado en conformidad a lo dispuesto en el número anterior, constituirá el crédito total disponible del contribuyente para el ejercicio respectivo, el que se deducirá del impuesto de primera categoría y de los impuestos finales, en la forma que se indica a continuación:
-
-A) Aplicación del crédito en relación con empresas definidas en el artículo 14.
-
-a) Crédito imputable contra el impuesto de primera categoría.
-
-i) Se agregará a la base imponible del impuesto de primera categoría, el crédito total disponible referido en el inciso primero, de este número 4.
-
-ii) El crédito que se imputará contra el impuesto de primera categoría será equivalente a la cantidad que resulte de aplicar la tasa de dicho impuesto sobre la Renta Imponible determinada de acuerdo a este artículo.
-
-iii) El crédito determinado en la forma indicada precedente, se imputará a continuación de aquellos créditos o deducciones que no dan derecho a reembolso y antes de aquellos que lo permiten.
-
-iv) Cuando en el ejercicio respectivo se determine un excedente del crédito imputable contra el impuesto de primera categoría, ya sea por la existencia de una pérdida para fines tributarios o por otra causa, dicho excedente se imputará en los ejercicios siguientes, hasta su total extinción. Para efectos de su imputación, dicho crédito se reajustará según la variación del Índice de Precios al Consumidor entre el último día del mes anterior al del cierre del ejercicio en que se haya determinado y el último día del mes anterior al cierre del ejercicio de su imputación.
-
-v) El impuesto de primera categoría que haya sido pagado con crédito por impuestos soportados en el extranjero y que constituya, al momento del retiro o distribución, crédito conforme con lo que establecen los artículos 56 número 3) y 63, deberá registrarse en el saldo acumulado de crédito del registro SAC establecido en el artículo 14, letra A, número 2, letra d, y podrá deducirse de los impuestos finales, de acuerdo con lo indicado en la letra b) siguiente.
-
-vi) No podrá en caso alguno ser objeto de devolución el impuesto de primera categoría en aquella parte en que se haya deducido de dicho tributo el crédito por impuestos soportados en el extranjero. Tampoco otorgará tal derecho, cualquier otro crédito al que se impute el crédito por impuestos de primera categoría que haya sido pagado de la forma indicada.
-
-b) Crédito imputable contra los impuestos finales.
-
-La cantidad que resulte después de restar al crédito total disponible, aquella parte imputable al impuesto de primera categoría conforme a lo establecido en la letra a) precedente, constituirá el saldo de crédito imputable contra los impuestos finales.
-
-El saldo de crédito aludido en el párrafo anterior, deberá registrarse en el registro SAC establecido en el artículo 14, letra A, número 2, letra d, y podrá deducirse de los impuestos finales, sin derecho a devolución o imputación a otros impuestos, o a recuperarse en los años posteriores, en caso de existir un remanente.
-
-B) Personas naturales domiciliadas o residentes en Chile.
-
-Las rentas que soportaron impuestos en el extranjero percibidas, o devengadas conforme con el artículo 41 G, por personas naturales domiciliadas o residentes en Chile, siempre que no formen parte de los activos asignados a su empresa individual, se encontrarán exentas del impuesto de primera categoría, debiendo afectarse la Renta Imponible determinada de acuerdo a este artículo, con el impuesto global complementario establecido en el artículo 52.
-
-El crédito total disponible a que se refiere el inciso primero del presente número 4, se imputará contra el impuesto global complementario determinado en el ejercicio. El remanente de crédito que se determine, no dará derecho a devolución o imputación a otros impuestos ni podrá recuperarse en los años posteriores.
-
-5.- Imputación del crédito por impuestos soportados en el extranjero, correspondiente a rentas clasificadas en los números 1 y 2 del artículo 42.
-
-a) Imputación contra el impuesto global complementario.
-
-Los contribuyentes domiciliados o residentes en Chile que perciban rentas que soportaron impuestos en el extranjero clasificadas en el número 2 del artículo 42, podrán imputar como crédito contra el impuesto establecido en el artículo 52, los impuestos soportados en el extranjero respecto de dichas rentas.
-
-El crédito anual por los impuestos soportados en el extranjero deberá ser imputado en contra del impuesto global complementario que se calcule sobre la Renta Imponible determinada de conformidad con lo establecido en el número 3 de este artículo.
-
-El remanente de crédito que se determine, no dará derecho a devolución o imputación a otros impuestos, ni podrá recuperarse en los años posteriores.
-
-b) Imputación contra el impuesto único de segunda categoría.
-
-Los contribuyentes domiciliados o residente en Chile que perciban rentas que soportaron impuestos en el extranjero clasificadas en el número 1 del artículo 42, podrán imputar como crédito contra el impuesto establecido en el número 1 del artículo 42, los impuestos soportados en el extranjero por dichas rentas.
-
-Para efectos de determinar el crédito, se aplicará lo establecido en el número 3 precedente, considerando que la Renta Imponible determinada conforme con este artículo estará conformada por las rentas líquidas percibidas clasificadas en el número 1 del artículo 42, más la totalidad de los impuestos que pueden ser utilizados como créditos, aplicando sólo el tope individual.
-
-Para la imputación del crédito, los contribuyentes deberán efectuar una reliquidación anual del impuesto único de segunda categoría en conformidad a lo dispuesto en el artículo 47. El crédito anual que corresponda por los impuestos soportados en el extranjero que se calcula sobre la Renta Imponible determinada conforme al párrafo anterior, deberá ser imputado en contra del impuesto único de segunda categoría reliquidado que corresponda a las rentas que soportaron los impuestos en el extranjero.
-
-El exceso que resulte de la comparación del impuesto único de segunda categoría pagado o retenido en Chile y el de la reliquidación de dicho impuesto, rebajado el crédito, se imputará a otros impuestos anuales o se devolverá al contribuyente por el Servicio de Tesorerías de acuerdo con las normas del artículo 97.
-
-Lo anterior, salvo que los contribuyentes del artículo 42 número 1 obtuvieran, en el mismo ejercicio, otras rentas gravadas con el impuesto global complementario, en cuyo caso la Renta Imponible determinada conforme con este artículo se gravará de acuerdo a la letra a) precedente.
-
-Si se determina un remanente de crédito, este no dará derecho a devolución o imputación contra otros impuestos, ni podrá recuperarse en los años posteriores.
-
-6.- Registro de Inversiones en el Extranjero y deberes de información.
-
-Los contribuyentes que realicen inversiones de las que produzcan rentas respecto de las cuales se tendría derecho a crédito conforme con este artículo, deberán inscribirse en el Registro de Inversiones en el Extranjero que llevará el Servicio de Impuestos Internos. La inscripción deberá realizarse en el año en que se efectúe la inversión respectiva. Alternativamente, en vez de inscribirse en el registro, los contribuyentes podrán presentar una declaración jurada en la forma y plazo que señale el Servicio mediante resolución. El Servicio emitirá una resolución donde determinará las formalidades del registro y la forma de realizar la inscripción. Asimismo, los contribuyentes deberán informar las inversiones, rentas e impuestos y demás antecedentes necesarios para identificar dichos conceptos en la forma y plazo que establezca el Servicio de Impuestos Internos mediante resolución.
-
-El retardo u omisión en la inscripción o presentación de las declaraciones establecidas en esta letra, o la presentación de dicha declaración incompleta o con antecedentes erróneos, será sancionada con una multa de diez unidades tributarias mensuales, incrementada con una unidad tributaria mensual adicional por cada mes de retraso, con tope de cien unidades tributarias mensuales. La referida multa se aplicará conforme al procedimiento establecido en el artículo 161 del Código Tributario.
-
-7.- Normas comunes.
-
-a) Para efectuar el cálculo del crédito por los impuestos soportados en el extranjero, tanto los impuestos respectivos como las rentas a que se refiere este artículo, se convertirán a su equivalente en pesos chilenos de acuerdo a la paridad cambiaria entre la moneda nacional y la moneda extranjera correspondiente, vigente en la fecha en que dichas cantidades se perciban, salvo que se trate de contribuyentes que no estén obligados a aplicar las normas sobre corrección monetaria, en cuyo caso se utilizará la paridad cambiaria vigente al término del ejercicio respectivo.
-
-Para determinar la paridad cambiaria entre la moneda nacional y la moneda extranjera, se estará a la información que publique el Banco Central de Chile en conformidad a lo dispuesto en el número 6 del Capítulo I del Compendio de Normas de Cambios Internacionales. Si la moneda extranjera en que se ha efectuado el pago no es una de aquellas informada por el Banco Central, el impuesto pagado en el extranjero en dicha divisa deberá primeramente ser calculado en su equivalente en dólares de los Estados Unidos de América, de acuerdo a la paridad entre ambas monedas que se acredite en la forma y plazo que establezca el Servicio de Impuestos Internos mediante resolución, para luego convertirse a su equivalente en pesos chilenos de la forma ya indicada. A falta de norma especial, para efectos de establecer el tipo de cambio aplicable, se considerará el valor de las respectivas divisas en el día en que se ha percibido o devengado, según corresponda, la respectiva renta.
-
-No se aplicará el reajuste a que se refiere este número cuando el contribuyente lleve su contabilidad en moneda extranjera, sin perjuicio de convertir los impuestos que corresponda pagar en el extranjero y las rentas gravadas en el extranjero a su equivalente en la misma moneda extranjera en que lleva su contabilidad.
-
-b) Darán derecho a crédito los impuestos obligatorios a la renta pagados, retenidos o adeudados en forma definitiva en el extranjero, siempre que sean equivalentes o similares a los impuestos contenidos en la presente ley, ya sea que se apliquen sobre rentas determinadas de resultados reales o rentas presuntas sustitutivas de ellos. Los créditos otorgados por la legislación extranjera al impuesto pagado en el extranjero, se considerarán como parte de este último. Si el total o parte de un impuesto a la renta fuere acreditable a otro impuesto a la renta, respecto de la misma renta, se rebajará el primero del segundo, a fin de no generar una doble deducción de un mismo impuesto respecto de la misma renta determinada por un mismo contribuyente. Si la aplicación o monto del impuesto soportado en el extranjero depende de su admisión como crédito contra el impuesto a la renta que grava en el país de residencia al contribuyente que obtiene una renta de las incluidas en este artículo, dicho impuesto no dará derecho a crédito en Chile.
-
-c) Los impuestos pagados, retenidos o adeudados en el extranjero, deberán acreditarse mediante el correspondiente comprobante de pago o declaración de impuestos en el extranjero, o bien, con un certificado oficial expedido por la autoridad competente del país extranjero. Cuando no se disponga del comprobante de pago, declaración de impuestos en el extranjero o el certificado oficial expedido por la autoridad competente del país extranjero, el contribuyente podrá acreditarlo por cualquier medio de prueba legal. Para la acreditación será suficiente una traducción no oficial de los antecedentes, salvo que se requiera por motivos fundados una traducción oficial en un proceso de fiscalización conforme con el artículo 59 del Código Tributario. De la misma forma deberá acreditarse la participación en las sociedades y entidades extranjeras que dan origen al crédito directo e indirecto. Los funcionarios del Servicio deberán agotar todos los medios que estén a su disposición para los efectos de verificar la veracidad y exactitud de los antecedentes aportados, aun cuando se trate de documentos que no hubiesen sido traducidos, legalizados o autenticados.
-
-e) El Servicio de Impuestos Internos podrá verificar la efectividad de los pagos o retenciones de los impuestos soportados en el extranjero y el cumplimiento de las demás condiciones que se establecen en el presente artículo, a través de intercambios de información de conformidad con los convenios suscritos que correspondan.
-
-#### Artículo 41°
-
-B.- Los contribuyentes que tengan inversiones en el extranjero e ingresos de fuente extranjera no podrán aplicar, respecto de estas inversiones e ingresos, lo dispuesto en los números 7 y 8 del artículo 17, con excepción de las letras f), g) y h) de dicho número, y en el artículo 57. No obstante, estos contribuyentes podrán retornar al país el capital invertido en el exterior sin quedar afectos a los impuestos de esta ley hasta el monto invertido, siempre que la suma respectiva se encuentre previamente registrada en o declarada ante el Servicio de Impuestos Internos en la forma establecida en el número 6 del artículo 41 A, y se acredite con instrumentos públicos o certificados de autoridades competentes del país extranjero, debidamente autentificados. En los casos en que no se haya efectuado oportunamente el registro o declaración o no se pueda contar con la referida documentación, la disminución o retiro de capital deberá acreditarse mediante la documentación pertinente, debidamente autentificada, cuando corresponda, de la forma y en el plazo que establezca el Servicio de Impuestos Internos mediante resolución. Para efectos de lo anterior, los contribuyentes que obtengan ingresos de fuente extranjera o que retornen el capital invertido en el exterior, deberán convertir dichas cantidades a su equivalente en pesos chilenos de acuerdo a la paridad cambiaria entre la moneda nacional y la moneda extranjera correspondiente vigente al termino del ejercicio respectivo conforme a lo dispuesto en la letra a), del número 7 del artículo 41 A.
-
-Las empresas constituidas en Chile que declaren su renta efectiva según contabilidad deberán aplicar las disposiciones de esta ley con las siguientes modificaciones:
-
-1.- En el caso que tengan agencias u otros establecimientos permanentes en el exterior, el resultado de ganancias o pérdidas que obtengan se reconocerá en Chile sobre base percibida o devengada. Dicho resultado se calculará aplicando las normas de esta ley sobre determinación de la base imponible de primera categoría, con excepción de la deducción de la pérdida de ejercicios anteriores dispuesta en el número 3 del artículo 31, y se agregará a la renta líquida imponible de la empresa al término del ejercicio. El resultado de las rentas extranjeras se determinará en la moneda del país en que se encuentre radicada la agencia o establecimiento permanente y se convertirá a moneda nacional de acuerdo con el tipo de cambio establecido en la letra a), del número 7 del artículo 41 A, vigente al término del ejercicio en Chile.
-
-2.- Aplicarán el artículo 21 por las partidas que correspondan a las agencias o establecimientos permanentes que tengan en el exterior.
-
-3.- Las inversiones efectuadas en el exterior en acciones, derechos sociales y en agencias o establecimientos permanentes, se considerarán como activos en moneda extranjera para los efectos de la corrección monetaria, aplicándose al respecto el número 4 del artículo 41. Para determinar la renta proveniente de la enajenación de las acciones y derechos sociales, los contribuyentes sujetos al régimen de corrección monetaria de activos y pasivos deducirán el valor al que se encuentren registrados dichos activos al comienzo del ejercicio, incrementándolo o disminuyéndolo previamente con las nuevas inversiones o retiros de capital. Los contribuyentes que no estén sujetos a dicho régimen deberán aplicar el inciso segundo del artículo 41 para calcular el mayor valor en la enajenación de los bienes que correspondan a dichas inversiones. El tipo de cambio que se aplicará en este número será el resultante de aplicar la letra a), del número 7 del artículo 41 A. También formarán parte del costo referido anteriormente, las utilidades o cantidades que se hayan afectado con las normas del artículo 41 G que se encuentren acumuladas en la entidad controlada a la fecha de enajenación y que previamente se hayan gravado con el impuesto que corresponda al contribuyente o entidad que controla a dicha entidad. Para estos efectos, las citadas utilidades o cantidades se considerarán por el monto a que se refiere el artículo 41 G.
-
-4.- Los créditos o deducciones del impuesto de primera categoría, en los que la ley no autorice expresamente su rebaja del impuesto que provenga de las rentas de fuente extranjera, sólo se deducirán del tributo que se determine por las rentas chilenas. Para estos efectos se considerará que el impuesto de primera categoría aplicado sobre las rentas de fuente extranjera, es aquel que se determine sobre la renta imponible de fuente extranjera a que se refiere el número 3.- del artículo 41 A.
-
-#### Artículo 41°
-
-C.- Suprimido.
-
-#### Artículo 41°
-
-D.- Derogado.
-
-#### Artículo 41°
-
-E.- Para los efectos de esta ley, el Servicio podrá impugnar los precios, valores o rentabilidades fijados, o establecerlos en caso de no haberse fijado alguno, cuando las operaciones transfronterizas y aquellas que den cuenta de las reorganizaciones o reestructuraciones empresariales o de negocios que contribuyentes domiciliados, o residentes o establecidos en Chile, que se lleven a cabo con partes relacionadas en el extranjero y no cumplan con el principio de plena competencia, esto es, cuando sus operaciones no se hayan efectuado a precios, valores o rentabilidades normales de mercado.
-
-Las disposiciones de este artículo se aplicarán respecto de las reorganizaciones o reestructuraciones empresariales o de negocios señaladas cuando a juicio del Servicio, en virtud de ellas, se haya producido a cualquier título o sin título alguno, el traslado desde Chile al extranjero o viceversa, de funciones, activos, riesgos, bienes y/o actividades susceptibles de generar rentas gravadas en el país, o se ponga término a convenciones, acuerdos o contratos vigentes o se lleven a cabo modificaciones sustanciales de ellos, y se estime que en la respectiva reorganización o restructuración no se cumple el principio de plena competencia, para cuyos efectos deberá aplicar los métodos referidos en este artículo.
-
-Se entenderá por precios, valores o rentabilidades normales de mercado los que hayan o habrían acordado u obtenido partes independientes en operaciones y circunstancias comparables, considerando por ejemplo, las características de los mercados relevantes, las funciones, activos y riesgos asumidos por las partes, las características específicas, componentes y elementos determinantes de los bienes, servicios, contratos, o cualquier otra operación o circunstancias razonablemente relevantes según el caso que se analice. Cuando tales operaciones no se hayan efectuado a sus precios, valores o rentabilidades normales de mercado, el Servicio podrá impugnarlos fundadamente, conforme a lo dispuesto en este artículo.
-
-1.- Normas de relación.
-
-Para los efectos de este artículo, las partes intervinientes se considerarán relacionadas cuando:
-
-a) Una de ellas participe directa o indirectamente en la dirección, control, capital, utilidades o ingresos de la otra, o
-
-b) Una misma persona o personas participen directa o indirectamente en la dirección, control, capital, utilidades o ingresos de ambas partes, entendiéndose todas ellas relacionadas entre sí.
-
-Se considerarán partes relacionadas una agencia, sucursal o cualquier otra forma de establecimiento permanente con su casa matriz; con otros establecimientos permanentes de la misma casa matriz; con partes relacionadas de esta última y establecimientos permanentes de aquellas.
-
-También existe relación cuando las operaciones se lleven a cabo con partes residentes, domiciliadas, establecidas o constituidas en un país, territorio o jurisdicción a los que se refiere el artículo 41 H, independientemente de si forman parte o no de un mismo grupo empresarial.
-
-Igualmente, se considerará que existe relación entre los intervinientes cuando una parte lleve a cabo una o más operaciones con un tercero que, a su vez, lleve a cabo, directa o indirectamente, con un relacionado de aquella parte, una o más operaciones similares o idénticas a las que realiza con la primera, cualquiera sea la calidad en que dicho tercero y las partes intervengan en tales operaciones.
-
-2.- Métodos de precios de transferencia.
-
-El Servicio, para los efectos de impugnar conforme a este artículo los precios, valores o rentabilidades respectivos, deberá citar al contribuyente de acuerdo con el artículo 63 del Código Tributario, para que aporte todos los antecedentes que sirvan para comprobar que sus operaciones con partes relacionadas se han efectuado a precios, valores o considerando rentabilidades normales de mercado, según alguno de los siguientes métodos:
-
-a) Método de Precio Comparable no Controlado: Es aquel que consiste en determinar el precio o valor normal de mercado de los bienes o servicios, considerando el que hayan o habrían pactado partes independientes en operaciones y circunstancias comparables;
-
-b) Método de Precio de Reventa: Consiste en determinar el precio o valor normal de mercado de los bienes o servicios, considerando el precio o valor a que tales bienes o servicios son posteriormente revendidos o prestados por el adquirente a partes independientes. Para estos efectos, se deberá deducir del precio o valor de reventa o prestación, el margen de utilidad bruta que se haya o habría obtenido por un revendedor o prestador en operaciones y circunstancias comparables entre partes independientes. El margen de utilidad bruta se determinará dividiendo la utilidad bruta por las ventas de bienes o prestación de servicios en operaciones entre partes independientes. Por su parte, la utilidad bruta se determinará deduciendo de los ingresos por ventas o servicios en operaciones entre partes independientes, los costos de ventas del bien o servicio;
-
-c) Método de Costo más Margen: Consiste en determinar el precio o valor normal de mercado de bienes y servicios que un proveedor transfiere a una parte relacionada, a partir de sumar a los costos directos e indirectos de producción, sin incluir gastos generales ni otros de carácter operacional, incurridos por tal proveedor, un margen de utilidad sobre dichos costos que se haya o habría obtenido entre partes independientes en operaciones y circunstancias comparables. El margen de utilidad sobre costos se determinará dividiendo la utilidad bruta de las operaciones entre partes independientes por su respectivo costo de venta o prestación de servicios. Por su parte, la utilidad bruta se determinará deduciendo de los ingresos obtenidos de operaciones entre partes independientes, sus costos directos e indirectos de producción, transformación, fabricación y similares, sin incluir gastos generales ni otros de carácter operacional;
-
-d) Método de División de Utilidades: Consiste en determinar la utilidad que corresponde a cada parte en las operaciones respectivas, mediante la distribución entre ellas de la suma total de las utilidades obtenidas en tales operaciones. Para estos efectos, se distribuirá entre las partes dicha utilidad total, sobre la base de la distribución de utilidades que hayan o habrían acordado u obtenido partes independientes en operaciones y circunstancias comparables;
-
-e) Método Transaccional de Márgenes Netos: Consiste en determinar el margen neto de utilidades que corresponde a cada una de las partes en las transacciones u operaciones de que se trate, tomando como base el que hubiesen obtenido partes independientes en operaciones y circunstancias comparables. Para estos efectos, se utilizarán indicadores operacionales de rentabilidad o márgenes basados en el rendimiento de activos, márgenes sobre costos o ingresos por ventas, u otros que resulten razonables, y
-
-f) Métodos residuales: Cuando atendidas las características y circunstancias del caso no sea posible aplicar alguno de los métodos mencionados precedentemente, el contribuyente podrá determinar los precios o valores de sus operaciones utilizando otros métodos que razonablemente permitan determinar o estimar los precios o valores normales de mercado que hayan o habrían acordado partes independientes en operaciones y circunstancias comparables. En tales casos calificados el contribuyente deberá justificar que las características y circunstancias especiales de las operaciones no permiten aplicar los métodos precedentes.
-
-El contribuyente deberá emplear el método más apropiado considerando las características y circunstancias del caso en particular. Para estos efectos, se deberán tener en consideración las ventajas y desventajas de cada método; la aplicabilidad de los métodos en relación al tipo de operaciones y a las circunstancias del caso; la disponibilidad de información relevante; la existencia de operaciones comparables; selección de la parte analizada; número de años de información financiera utilizada; de rangos y ajustes de comparabilidad y cualquier otro antecedente que se estime pertinente.
-
-3.- Estudios o informes de precios de transferencia.
-
-Los contribuyentes podrán acompañar un estudio de precios de transferencia que dé cuenta de la determinación de los precios, valores o rentabilidades de sus operaciones con partes relacionadas.
-
-La aplicación de los métodos o presentación de estudios a que se refiere este artículo, es sin perjuicio de la obligación del contribuyente de mantener a disposición del Servicio la totalidad de los antecedentes en virtud de los cuales se han aplicado tales métodos o elaborado dichos estudios, ya sean antecedentes propios o de la o las partes relacionadas ubicadas en el extranjero, que tengan vinculación con la operación que se analiza, ello conforme a lo dispuesto por los artículos 59 y siguientes del Código Tributario. El Servicio podrá requerir información a autoridades extranjeras respecto de las operaciones que sean objeto de fiscalización por precios de transferencia.
-
-4.- Ajustes de precios de transferencia.
-
-Si el contribuyente, a juicio del Servicio, no logra acreditar que la o las operaciones con sus partes relacionadas se han efectuado a precios, valores o rentabilidades normales de mercado, este último determinará fundadamente, para los efectos de esta ley, tales precios, valores o rentabilidades, utilizando los medios probatorios aportados por el contribuyente y cualesquiera otros antecedentes de que disponga, incluyendo aquellos que hayan sido obtenidos desde el extranjero, debiendo aplicar para tales efectos los métodos ya señalados.
-
-Determinados por el Servicio los precios, valores o rentabilidades normales de mercado para la o las operaciones de que se trate, se practicará la liquidación de impuestos o los ajustes respectivos, y la determinación de los intereses y multas que correspondan, considerando especialmente lo siguiente:
-
-El ajuste de precios de transferencia podrá llevarse a cabo mediante la determinación de una cifra única, ya sea un precio o un margen de utilidad comparable, que constituirá la referencia para establecer si una operación cumple las condiciones de plena competencia. Sin embargo, en caso de que haya dos o más precios, valores o rentabilidades consideradas comparables, se deberá utilizar un rango intercuartil.
-
-Si el precio, valor o margen de la transacción analizada se encuentra fuera del rango intercuartil, contenido entre el primer y el tercer cuartil, se considerará que el valor, precio o margen no es de plena competencia.
-
-Cuando el contribuyente acepte el análisis de precios de transferencia del Servicio y rectifique su declaración de impuestos anuales a la renta, el ajuste de precios de transferencia se realizará mediante la determinación de una cifra única, o bien a un punto o valor dentro del rango intercuartil, según se establezca con el Servicio. Si el Servicio emite una liquidación de impuestos conforme al artículo 24 del Código Tributario o una resolución, según corresponda, el ajuste por precios de transferencia se realizará siempre a la cifra única o a la mediana del rango intercuartil, según el caso.
-
-Cuando en virtud de los ajustes de precios, valores o rentabilidades a que se refiere este artículo, se determine una diferencia, esta cantidad se afectará en el ejercicio a que corresponda, sólo con el impuesto único del inciso primero del artículo 21, ya sea que el contribuyente rectifique su declaración de impuestos anuales a la renta o se emita una liquidación de impuestos o resolución según corresponda.
-
-En los casos en que se liquide el impuesto único del inciso primero del artículo 21, se aplicará además una multa equivalente al 5% del monto de la diferencia, salvo que el contribuyente haya cumplido debida y oportunamente con la entrega de los antecedentes requeridos por el Servicio durante la fiscalización. El Servicio determinará mediante circular los antecedentes mínimos que deberá aportar para que la multa no sea procedente.
-
-Los ajustes de precios, valores o rentabilidades de mercado determinados conforme al presente artículo no producirán efectos en otros impuestos distintos de los establecidos en la presente ley.
-
-5.- Reclamación.
-
-El contribuyente podrá reclamar de la liquidación en que se hayan fijado los precios, valores o rentabilidades asignados a la o las operaciones de que se trata y determinado los impuestos, intereses y multas aplicadas, de acuerdo al procedimiento general establecido en el Libro III del Código Tributario.
-
-6.- Declaración.
-
-Los contribuyentes domiciliados, residentes o establecidos en Chile que realicen operaciones con partes relacionadas, incluidas las reorganizaciones o reestructuraciones empresariales a que se refiere este artículo, deberán presentar anualmente una o más declaraciones con la información que requiera el Servicio, en la forma y plazo que éste establezca mediante resolución. En dichas declaraciones, el Servicio podrá solicitar, entre otros antecedentes, que los contribuyentes aporten información sobre las características de sus operaciones tanto con partes relacionadas como no relacionadas, los métodos aplicados para la determinación de los precios o valores de tales operaciones, información de sus partes relacionadas en el exterior, entendiéndose por tales aquellas señaladas en el numeral 1 de este artículo. La no presentación de la declaración que corresponda, o su presentación errónea, incompleta o extemporánea, se sancionará con una multa de 10 a 50 unidades tributarias anuales. Con todo, dicha multa no podrá exceder del límite mayor entre el equivalente al 15% del capital propio del contribuyente determinado conforme al numeral 10.- del artículo 2 o el 5% de su capital efectivo. La aplicación de dicha multa se someterá al procedimiento establecido por el número 1°, del artículo 165, del Código Tributario. Si una declaración presentada conforme a este número fuere maliciosamente falsa, se sancionará conforme a lo dispuesto por el inciso primero, del número 4°, del artículo 97, del Código Tributario. El contribuyente podrá solicitar al Director Regional respectivo, o al Director de Grandes Contribuyentes, según corresponda, por una vez, prórroga de hasta tres meses del plazo para la presentación de la declaración que corresponda. La prórroga concedida ampliará, en los mismos términos, el plazo de fiscalización a que se refiere la letra a), del artículo 59 del Código Tributario.
-
-7.- Acuerdos anticipados.
-
-Los contribuyentes que pretendan presentar una solicitud de acuerdo anticipado que determine los precios, valores o rentabilidades normales de mercado de las operaciones vinculadas que llevarán a cabo con sus partes relacionadas ubicadas en el exterior, podrán presentar una consulta previa al Servicio, cuyo contenido será el siguiente:
-
-a) Identificación de las personas o entidades que vayan a realizar las operaciones.
-
-b) Descripción de las operaciones objeto del acuerdo anticipado.
-
-c) Elementos básicos de la propuesta de valoración que pretenda formular.
-
-d) Indicación de un correo electrónico para las comunicaciones entre el contribuyente y el Servicio.
-
-El Servicio analizará la consulta previa, podrá requerir a los contribuyentes las aclaraciones y antecedentes que estime pertinentes, y comunicará a los interesados la viabilidad del acuerdo previo de valoración dentro de los dos meses siguientes a la fecha de presentación de dicha solicitud. Esta comunicación se realizará al correo electrónico que indique el contribuyente y se referirá exclusivamente a la posibilidad de presentación del acuerdo anticipado y no a su resultado, por tanto, no impide el derecho del contribuyente a presentar la solicitud. El Servicio determinará mediante resolución la forma y oportunidad en que podrá presentarse la consulta previa.
-
-Se haya o no presentado una consulta previa, los contribuyentes que realicen operaciones con partes relacionadas podrán proponer al Servicio un acuerdo anticipado en cuanto a la determinación del precio, valor o rentabilidad normal de mercado de tales operaciones para estos efectos, en la forma y oportunidad que establezca el Servicio mediante resolución. El contribuyente interesado deberá presentar una solicitud con una descripción de las operaciones respectivas, sus precios, valores o rentabilidades normales de mercado y el período que debiera comprender el acuerdo, acompañada de la documentación o antecedentes en que se funda y de un informe o estudio de precios de transferencia en que se hayan aplicado a tales operaciones los métodos a que se refiere este artículo. El Servicio, mediante resolución, podrá rechazar a su juicio exclusivo, la solicitud de acuerdo anticipado, la que no será reclamable, ni admitirá recurso alguno. En caso de que el Servicio acepte total o parcialmente la solicitud del contribuyente, se dejará constancia del acuerdo anticipado en un acta, la que será suscrita por el Servicio y un representante del contribuyente autorizado expresamente al efecto, y deberá constar en ella los antecedentes en que se funda. El Servicio podrá suscribir acuerdos anticipados en los cuales intervengan además otras administraciones tributarias a los efectos de determinar anticipadamente el precio, valor o rentabilidad normal de mercado de las respectivas operaciones llevando a cabo las coordinaciones necesarias para su correcta implementación de acuerdo con la normativa vigente de cada jurisdicción. Si se trata de la importación de mercancías, el acuerdo deberá ser suscrito en conjunto con el Servicio Nacional de Aduanas. El Ministerio de Hacienda establecerá mediante resolución el procedimiento a través del cual ambas instituciones resolverán sobre la materia.
-
-El acuerdo anticipado, una vez suscrita el acta, se aplicará respecto de las operaciones llevadas a cabo por el solicitante a partir del mismo año comercial en que se suscriba el acta de acuerdo anticipado y por los cuatro años comerciales siguientes, y podrá ser prorrogado o renovado, previo acuerdo suscrito por el contribuyente, el Servicio de Impuestos Internos, el Servicio Nacional de Aduanas, cuando se trate de importaciones de mercancías, y, cuando corresponda, por la otra u otras administraciones tributarias. Asimismo, podrá determinarse que sus efectos alcancen a las operaciones realizadas hasta en los tres años comerciales anteriores a la suscripción del acuerdo, no se aplicará respecto de dichos periodos el impuesto único del inciso primero del artículo 21, sin intereses penales ni multas, y será además aplicable lo dispuesto en el párrafo final del número 4 del presente artículo.
-
-El Servicio de Impuestos Internos, y el Servicio Nacional de Aduanas cuando corresponda, efectuarán un seguimiento del cumplimiento del acuerdo por parte del contribuyente, para lo cual en la respectiva acta se fijará la forma y plazo en que el contribuyente entregará un informe anual en el que se demuestre la conformidad de sus precios de transferencia con las condiciones pactadas. De no cumplirse con dicha obligación se requerirá al contribuyente para que presente dicho informe bajo apercibimiento que, en caso de no hacerlo dentro del plazo de treinta días, el Servicio podrá poner término al acuerdo anticipado por incumplimiento de las obligaciones del contribuyente. El término del acuerdo anticipado regirá desde el mismo ejercicio en que se notifique la resolución que así lo establece.
-
-El Servicio deberá pronunciarse respecto de la solicitud del contribuyente ya sea concurriendo a la suscripción del acta respectiva o rechazándola mediante resolución, dentro del plazo de doce meses contado desde que el contribuyente haya entregado o puesto a disposición de dicho Servicio la totalidad de los antecedentes que estime necesarios para resolverla. En caso de que el Servicio no se pronuncie dentro del plazo señalado, o bien el contribuyente no aporte los antecedentes solicitados por el Servicio dentro de este procedimiento, se entenderá rechazada la solicitud del contribuyente. Éste podrá volver a proponer la suscripción del acuerdo. Para los efectos del cómputo del plazo, se dejará constancia de la entrega o puesta a disposición referida en una certificación del jefe de la oficina del Servicio que conozca de la solicitud.
-
-El Servicio podrá, en cualquier tiempo, dejar sin efecto el acuerdo anticipado cuando la solicitud del contribuyente se haya basado en antecedentes erróneos, maliciosamente falsos, hayan variado sustancialmente los antecedentes o circunstancias esenciales que se tuvieron a la vista al momento de su suscripción, prórroga o renovación, o cuando el contribuyente incumpla total o parcialmente el acuerdo. La resolución que deje sin efecto el acuerdo anticipado deberá fundarse en el carácter erróneo de los antecedentes, en su falsedad maliciosa, en la variación sustancial de los antecedentes o circunstancias esenciales en virtud de las cuales el Servicio aceptó la solicitud de acuerdo anticipado o en el incumplimiento del acuerdo; señalará de qué forma éstos son erróneos, maliciosamente falsos, han variado sustancialmente o en qué forma se incumplió el acuerdo, según corresponda, y detallará los antecedentes que se han tenido a la vista para tales efectos. La resolución que deje sin efecto el acuerdo anticipado regirá a partir de su notificación al contribuyente, salvo cuando se funde en el carácter maliciosamente falso de los antecedentes de la solicitud, caso en el cual se dejará sin efecto a partir de la fecha de suscripción del acta original o de sus renovaciones o prórrogas, considerando la oportunidad en que tales antecedentes hayan sido invocados por el contribuyente. Asimismo, la resolución será comunicada, cuando corresponda, a la o las demás administraciones tributarias respectivas. Esta resolución no será reclamable ni procederá a su respecto recurso alguno, ello sin perjuicio de la reclamación o recursos que procedan respecto de las resoluciones, liquidaciones o giros de impuestos, intereses y multas dictadas o aplicadas por el Servicio que sean consecuencia de haberse dejado sin efecto el acuerdo anticipado. Por su parte, el contribuyente podrá dejar sin efecto el acuerdo anticipado que haya suscrito cuando hayan variado sustancialmente los antecedentes o circunstancias esenciales que se tuvieron a la vista al momento de su suscripción, prórroga o renovación. Para estos efectos, deberá manifestar su voluntad en tal sentido a través de aviso por escrito al Servicio, en la forma que éste establezca mediante resolución, de modo que el referido acuerdo quedará sin efecto desde la fecha del aviso, y podrá el Servicio ejercer respecto de las operaciones del contribuyente la totalidad de las facultades que le confiere la ley.
-
-Sin perjuicio de lo señalado en el párrafo anterior, la presentación de antecedentes maliciosamente falsos en una solicitud de acuerdo anticipado que haya sido aceptada total o parcialmente por el Servicio será sancionada en la forma establecida por el inciso primero, del número 4°, del artículo 97 del Código Tributario.
-
-Una vez suscrita el acta de acuerdo anticipado, o sus prórrogas o renovaciones, y mientras se encuentren vigentes de acuerdo a lo señalado precedentemente, el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas cuando corresponda, no podrán determinar diferencias de impuestos por precios de transferencias o valoración aduanera en las operaciones comprendidas en él, siempre que el valor de las importaciones, los precios, valores o rentabilidades hayan sido establecidos o declarados por el contribuyente conforme a los términos previstos en el acuerdo.
-
-Las actas de acuerdos anticipados y los antecedentes en virtud de los cuales han sido suscritas quedarán amparados por el deber de secreto que establece el artículo 35 del Código Tributario. Aquellos contribuyentes que autoricen al Servicio la publicación de los criterios, razones económicas, financieras, comerciales, entre otras, y métodos en virtud de los cuales se suscribieron los acuerdos anticipados conforme a este número, deberán dejar constancia de la autorización en el acta respectiva. Si así lo autorizan, serán incluidos en una nómina pública de contribuyentes socialmente responsables que mantendrá dicho Servicio, mientras se encuentre vigente el acuerdo. Aun cuando no hayan autorizado ser incluidos en la nómina precedente, no se aplicará respecto de ellos interés penal y multa algunos con motivo de las infracciones y diferencias de impuestos que se determinen durante dicha vigencia, salvo que se trate de infracciones susceptibles de ser sancionadas con penas corporales, caso en el cual serán excluidos de inmediato de la nómina señalada. Lo anterior es sin perjuicio del deber del contribuyente de subsanar las infracciones cometidas dentro del plazo que señale el Servicio, el que no podrá ser inferior a treinta días hábiles contados desde la notificación de la infracción; y/o declarar y pagar las diferencias de impuestos determinadas, y sin perjuicio de su derecho a reclamar de tales actuaciones, según sea el caso. Cuando el contribuyente no haya subsanado la infracción y/o declarado y pagado los impuestos respectivos dentro de los plazos que correspondan, salvo que haya deducido reclamación respecto de tales infracciones, liquidaciones o giros, el Servicio girará sin más trámite los intereses penales y multas que originalmente no se habían aplicado. En caso de haberse deducido reclamación, procederá el giro señalado cuando no haya sido acogida por sentencia ejecutoriada o el contribuyente se haya desistido de ella.
-
-8.- Ajuste correspondiente.
-
-Los contribuyentes podrán, previa autorización del Servicio tanto respecto de la naturaleza como del monto del ajuste, rectificar el precio, valor o rentabilidad de las operaciones llevadas a cabo con partes relacionadas, sobre la base de los ajustes de precios de transferencia que hayan efectuado otros Estados con los cuales se encuentre vigente un Convenio para evitar la doble tributación internacional que no prohíba dicho ajuste, y respecto de los cuales no se hayan deducido, ni se encuentren pendientes, los plazos establecidos para deducir recursos o acciones judiciales o administrativas. No obstante lo anterior, cuando se hayan deducido dichos recursos o acciones, el contribuyente podrá acogerse a lo dispuesto en este número en tanto el ajuste deba considerarse definitivo en virtud de la respectiva sentencia judicial o resolución administrativa. Para estos efectos, el Servicio deberá aplicar respecto de las operaciones materia de rectificación, en la forma señalada, los métodos contemplados en este artículo. La solicitud de rectificación deberá ser presentada en la forma que fije el Servicio mediante resolución, acompañada de todos los documentos en que se funde, incluyendo copia del instrumento que dé cuenta del ajuste practicado por el otro Estado, dentro del plazo de un año contado desde que el ajuste de precios de transferencia se considere definitivo en la otra jurisdicción. El Servicio deberá denegar total o parcialmente la rectificación solicitada por el contribuyente, cuando el ajuste de precios de transferencia efectuado por el otro Estado se estime incompatible con las disposiciones de esta ley, sin que en este caso proceda recurso administrativo o judicial alguno.
-
-Cuando con motivo de este ajuste resultare una diferencia de impuestos a favor del contribuyente, para los efectos de su devolución, ésta se reajustará de acuerdo al porcentaje de variación que haya experimentado el Índice de Precios al Consumidor en el período comprendido entre el mes anterior al del pago del impuesto y el mes anterior a la fecha de la resolución que ordene su devolución.
-
-9.- Autoajuste de precios de transferencia realizado por el contribuyente.
-
-Los contribuyentes podrán ajustar sus precios, valores o rentabilidades en las operaciones llevadas a cabo con partes relacionadas ubicadas en el extranjero, considerando aquellos que habrían acordado u obtenido partes independientes en operaciones y circunstancias comparables, cuando en su análisis determinen que sus operaciones vinculadas no cumplen el principio de plena competencia, para cuyos efectos deberá aplicar los métodos referidos en este artículo.
-
-En consecuencia, se entenderá por autoajuste de precios de transferencia aquel que realice un contribuyente en forma previa a un requerimiento del Servicio y en el que determine, en su opinión, un precio, valor o rentabilidad de plena competencia en el marco de una operación vinculada, aunque dicho precio difiera del importe realmente cargado entre las empresas relacionadas.
-
-Este autoajuste podrá llevarse a cabo mediante la determinación de una cifra única, ya sea un precio o un margen de utilidad comparable, que constituirá la referencia para establecer si una operación cumple las condiciones de plena competencia. En caso de que haya dos o más precios, valores o rentabilidades consideradas comparables, deberá utilizar un rango intercuartil, pudiendo ajustarse a cualquier punto o valor dentro del indicado rango.
-
-El ajuste determinado deberá ser agregado a la base imponible del impuesto de primera categoría y sólo procederá cuando ello implique un aumento de la base imponible indicada. No se podrán realizar ajustes para disminuir la renta líquida imponible de primera categoría y determinar un menor impuesto o una mayor pérdida tributaria. El ajuste tendrá solo efectos sobre los impuestos establecidos en la presente ley, en los términos establecidos en el párrafo final del número cuatro del presente artículo.
-
-Los contribuyentes deberán conservar la totalidad de los antecedentes que permitan acreditar que el autoajuste aplicado a la o las operaciones con sus partes relacionadas, se ha efectuado considerando los precios, valores o rentabilidades normales de mercado. En caso de que el Servicio determine un ajuste respecto de estas operaciones, este se afectará con el impuesto único del inciso primero del artículo 21 de esta ley, conforme a lo establecido en el número cuatro de este artículo.
-
-#### Artículo 41°
-
-F.- Los intereses, comisiones, remuneraciones por servicios y gastos financieros y cualquier otro recargo convencional, incluyendo los que correspondan a reembolsos, recargos de gastos incurridos por el acreedor o entidad relacionada en beneficio directo o indirecto de otras empresas relacionadas en el exterior que afecten los resultados del contribuyente domiciliado, residente, establecido o constituido en el país, en virtud de los préstamos, instrumentos de deuda y otros contratos u operaciones a que se refiere este artículo, y que correspondan al exceso de endeudamiento determinado al cierre del ejercicio, se gravarán con un impuesto único de tasa 35%, de acuerdo a las siguientes reglas:
-
-1. Este impuesto gravará a los contribuyentes domiciliados, residentes, constituidos o establecidos en Chile, por los conceptos señalados precedentemente que correspondan al exceso de endeudamiento y que se hayan pagado, abonado en cuenta o puesto a disposición durante el ejercicio respectivo.
-
-2. Este impuesto se declarará y pagará anualmente en la forma y plazo que establecen los artículos 65, número 1, y 69, respecto de los intereses y demás partidas del inciso primero, pagados, abonados en cuenta o puestos a disposición durante el ejercicio respectivo en beneficio de entidades relacionadas constituidas, domiciliadas, residentes o establecidas en el extranjero.
-
-3. Para que exista el exceso a que se refiere este artículo, el endeudamiento total anual del contribuyente debe ser superior a tres veces su patrimonio al término del ejercicio respectivo.
-
-4. Para los fines de este artículo, por patrimonio se entenderá el capital propio determinado al 1 de enero del ejercicio respectivo, o a la fecha de la iniciación de actividades, según corresponda, de conformidad a lo dispuesto en el artículo 41. Se agregará, considerando proporcionalmente su permanencia en el período respectivo, el valor de los aportes y aumentos efectivos de capital efectuados dentro del ejercicio. Se deducirá del valor del capital propio señalado, considerando proporcionalmente aquella parte del período en que tales cantidades no hayan permanecido en el patrimonio, el valor de las disminuciones efectivas de capital, así como los retiros o distribuciones del ejercicio respectivo.
-
-También se deducirá del valor del capital propio tributario, determinado en la forma señalada, el valor de aquel aporte que directa o indirectamente haya sido financiado con préstamos, créditos, instrumentos de deuda y otros contratos u operaciones a que se refiere el número 5 siguiente con partes directa o indirectamente relacionadas, salvo que se encuentren pagados en el ejercicio respectivo, a menos que el pago se haya efectuado o financiado directa o indirectamente con ese mismo tipo de préstamos, instrumentos de deuda y otros contratos u operaciones.
-
-Cuando por aplicación de las normas señaladas se determine un valor negativo del patrimonio, se considerará que éste es igual a 1.
-
-5. Por endeudamiento total anual se considerará la suma de los valores de los créditos y pasivos señalados en las letras a), b), c), d), g) y h) del N° 1 del artículo 59, que la empresa registre durante el ejercicio, así como cualquier otro crédito o pasivo contratado con partes domiciliadas, residentes, constituidas o establecidas en el exterior, sean relacionadas o no. Igualmente, formará parte del endeudamiento total anual el valor de los créditos o pasivos contratados con partes domiciliadas, residentes, constituidas o establecidas en Chile.
-
-Se incluirán también las deudas o pasivos de un establecimiento permanente en el exterior de la empresa domiciliada, residente, establecida o constituida en Chile. El impuesto se aplicará sobre aquellas partidas del inciso primero que correspondan al establecimiento permanente, aplicando en lo que corresponda las reglas de este artículo.
-
-En el caso de fusiones, divisiones, disoluciones o cualquier otro acto jurídico u operación que implique el traspaso o la novación de deudas, éstas se considerarán en el cálculo de exceso de endeudamiento de la empresa a la cual se traspasó o asumió la deuda, préstamos, créditos y otros contratos u operaciones a que se refiere este artículo, a contar de la fecha en que ocurra dicha circunstancia.
-
-Para el cálculo del endeudamiento total anual, se considerarán la suma de los valores de los créditos, deudas, pasivos y demás contratos u operaciones a que se refiere este artículo, a su valor promedio por los meses de permanencia en el mismo, más los intereses y demás partidas del inciso primero devengados en estas mismas deudas que no se hubieren pagado, abonado en cuenta o puesto a disposición, y que a su vez devenguen intereses u otra de las partidas señaladas a favor del acreedor.
-
-Con todo, no se considerarán dentro del endeudamiento total anual aquellos créditos o pasivos contratados con partes no relacionadas y cuyo plazo sea igual o inferior a 90 días, incluidas sus prórrogas o renovaciones.
-
-6. Se considerará que el beneficiario de las partidas a que se refiere el inciso primero es una entidad relacionada con quien las paga, abona en cuenta o pone a disposición cuando:
-
-i) Eliminado.
-
-ii) El beneficiario se encuentre domiciliado, residente, constituido o establecido en un territorio o jurisdicción que quede comprendido en al menos dos de los supuestos que establece el artículo 41 H.
-
-iii) El beneficiario y quién paga, abona en cuenta o pone a disposición, pertenezcan al mismo grupo empresarial, o directa o indirectamente posean o participen en 10% o más del capital o de las utilidades del otro o cuando se encuentren bajo un socio o accionista común que directa o indirectamente posea o participe en un 10% o más del capital o de las utilidades de uno u otro, y dicho beneficiario se encuentre domiciliado, residente, constituido o establecido en el exterior.
-
-iv) El financiamiento es otorgado con garantía directa o indirecta de terceros relacionados con el deudor en los términos señalados en los numerales ii), iii) y v) de este número, siempre que los terceros se encuentren domiciliados o residentes en el extranjero y sean los beneficiarios finales de los intereses del financiamiento.
-
-v) Se trate de instrumentos financieros colocados y adquiridos por empresas independientes y que posteriormente son adquiridos o traspasados a empresas relacionadas en los términos señalados en los numerales i) al iv) anteriores.
-
-vi) Una parte lleve a cabo una o más operaciones con un tercero que, a su vez, lleve a cabo, directa o indirectamente, con un relacionado de aquella parte, una o más operaciones similares o idénticas a las que realiza con la primera, cualquiera sea la calidad en que dicho tercero y las partes intervengan en tales operaciones.
-
-7. Respecto de las operaciones a que se refiere este artículo, el deudor deberá presentar una declaración sobre las deudas, sus garantías y si entre los beneficiarios finales de los intereses y demás partidas señaladas en el inciso primero de este artículo se encuentran entidades relacionadas en los términos señalados en el número 6 anterior, todo ello en la forma y plazo que establezca el Servicio mediante resolución. Si el deudor se negare a formular dicha declaración o si la presentada fuera incompleta o falsa, se entenderá que existe relación entre el perceptor del interés y demás partidas y el deudor, o entre el deudor y acreedor de las deudas no informadas, según corresponda.
-
-8. Para determinar la base imponible del impuesto que establece este artículo, cuando resulte un exceso de endeudamiento conforme a lo dispuesto en el número 3, se aplicará el porcentaje que se obtenga de dividir el endeudamiento total anual de la empresa menos tres veces el patrimonio, por el referido endeudamiento total anual, todo ello multiplicado por cien, sobre la suma de los intereses y demás partidas a que se refiere el inciso primero, pagadas, abonadas en cuenta o puestas a disposición durante el ejercicio respectivo, que: i) Se hayan afectado con el impuesto adicional con tasa 4%, o ii) Se hayan afectado con una tasa de impuesto adicional inferior a 35% o no se hayan afectado con dicho tributo, en virtud de la aplicación de una rebaja o deducción, de una exención establecida por ley o de la aplicación de un convenio para evitar la doble tributación internacional suscrito por Chile que se encuentre vigente.
-
-En todo caso, la base imponible del impuesto que establece este artículo no podrá exceder de la suma total de los intereses y demás partidas a que se refiere el inciso anterior, pagadas, abonadas en cuenta o puestas a disposición durante el ejercicio respectivo.
-
-9. Se dará de crédito al impuesto resultante, el monto de la retención total o proporcional, según corresponda, de Impuesto Adicional que se hubiese declarado y pagado sobre los intereses y demás partidas del inciso primero del número 8 anterior que se afecten con este tributo.
-
-10. El impuesto resultante será de cargo de la empresa deudora, la cual podrá deducirlo como gasto, de acuerdo con las normas del artículo 31.
-
-11. Con todo, no se aplicará el impuesto que establece este artículo cuando el contribuyente acredite ante el Servicio que el financiamiento obtenido y los servicios recibidos corresponden al financiamiento del desarrollo, ampliación o mejora de uno o más proyectos en Chile, otorgados mayoritariamente por entidades no relacionadas con el deudor, en que por razones legales, financieras o económicas, las entidades prestamistas o prestadoras de servicios hayan exigido constituir entidades de propiedad común con el deudor o sus entidades relacionadas, o que por otras circunstancias, los créditos otorgados queden comprendidos en las normas de relación del número 6 anterior, todo lo anterior siempre que los intereses y las demás cantidades a que se refiere el inciso primero, así como las garantías que existan, se hayan pactado a sus valores normales de mercado, para cuyos efectos se aplicará lo dispuesto en el artículo 41 E.
-
-12. La entrega maliciosa de información incompleta o falsa en la declaración jurada a que se refiere éste artículo, que implique la no aplicación de lo dispuesto en los párrafos precedentes, se sancionará en la forma prevista en el inciso primero del artículo 97, N° 4, del Código Tributario.
-
-13. La norma de control que establece este artículo no se aplicará cuando el deudor sea un banco, compañía de seguros, cooperativa de ahorro y crédito, emisores de tarjetas de crédito, agentes administradores de mutuos hipotecarios endosables, cajas de compensación de asignación familiar y las demás entidades de crédito autorizadas por ley o una caja, sujetas, según corresponda, a la fiscalización de la Superintendencia de Bancos e Instituciones financieras, a la Superintendencia de Valores y Seguros y,o a la Superintendencia de Seguridad Social.
-
-Tampoco se aplicará cuando el deudor sea una entidad cuya actividad haya sido calificada de carácter financiero por el Ministerio de Hacienda mediante resolución fundada, y siempre que al término de cada año comercial se determine que a lo menos durante 330 días continuos o discontinuos, el 90% o más del total de los activos de dicha entidad corresponden a créditos otorgados o a bienes entregados en arrendamiento con opción de compra a personas o entidades no relacionadas. Para estos efectos, se considerarán los activos a su valor tributario de acuerdo a las normas de esta ley, y se entenderá que existe relación cuando se cumplan las condiciones de los numerales iii), iv), v) o vi) del número 6 de este artículo. No procederá la calificación referida, cuando la entidad sea considerada como filial, coligada, agencia u otro tipo de establecimiento permanente o como parte de un mismo grupo empresarial de personas o entidades que queden comprendidas en al menos dos de los supuestos que establece el artículo 41 H.
-
-Con todo, el endeudamiento con entidades relacionadas e independientes no podrá durante el año comercial ser superior al 120% del total de los créditos otorgados o de los bienes entregados en arrendamiento con opción de compra. En caso de producirse un exceso que no se corrija en el plazo de 90 días contados desde su ocurrencia, se aplicará lo dispuesto en los incisos precedentes. Para estos efectos, la entidad que haya sido calificada de carácter financiero deberá informar al Servicio, en la forma y plazo que establezca mediante resolución, el cumplimiento de los requisitos que establece este párrafo.
-
-#### Artículo 41°
-
-G.- No obstante lo dispuesto en el artículo 12 y en los artículos precedentes de este Párrafo, los contribuyentes o patrimonios de afectación con domicilio, residencia o constituidos en Chile, que directa o indirectamente controlen entidades sin domicilio ni residencia en el país, deberán considerar como devengadas o percibidas las rentas pasivas percibidas o devengadas por dichas entidades controladas, conforme a las reglas del presente artículo.
-
-A.- Entidades controladas sin domicilio ni residencia en Chile.
-
-Para los efectos de este artículo, se entenderá por entidades controladas sin domicilio o residencia en Chile, aquellas que, cualquiera sea su naturaleza, posean personalidad jurídica propia o no, tales como sociedades, fondos, comunidades, patrimonios o trusts, constituidas, domiciliadas, establecidas, formalizadas o residentes en el extranjero, cumplan con los siguientes requisitos copulativos:
-
-1) Para efectos de los impuestos de la presente ley, las rentas de la entidad controlada, no deban computarse en Chile de conformidad al artículo 41 B, N°1.
-
-2) Sean controladas por entidades o patrimonios constituidos, domiciliados, establecidos o residentes en Chile. Se entenderá que la entidad es controlada por tales contribuyentes cuando al cierre del ejercicio respectivo o en cualquier momento durante los doce meses precedentes, éstos, por sí solos o en conjunto y en la proporción que corresponda, con personas o entidades relacionadas, cualquiera sea la naturaleza de los intervinientes, posean directa o indirectamente, respecto de la entidad de que se trate, el 50% o más de:
-
-i) El capital, o
-
-ii) Del derecho a las utilidades, o
-
-iii) De los derechos a voto.
-
-También se considerarán entidades controladas, cuando los contribuyentes, entidades o patrimonios constituidos, domiciliados, establecidos o residentes en Chile, directa o indirectamente, por sí o a través de las referidas personas relacionadas, puedan elegir o hacer elegir a la mayoría de los directores o administradores de las entidades en el exterior o posean facultades unilaterales para modificar los estatutos, o para cambiar o remover a la mayoría de los directores o administradores, y aquellas entidades que estén bajo el control de una entidad controlada directa o indirectamente por los contribuyentes, entidades o patrimonio constituidos, domiciliados, establecidos o residentes en Chile.
-
-Salvo prueba en contrario, se presumirá que se trata de una entidad controlada para los fines de este artículo, cualquiera sea el porcentaje de participación en el capital, las utilidades o el derecho a voto que tenga directa o indirectamente el contribuyente constituido, domiciliado, establecido o residente en Chile, cuando aquélla se encuentre constituida, domiciliada o residente en un país o territorio con un régimen fiscal preferencial.
-
-Del mismo modo, se presume que se trata de una entidad controlada cuando el contribuyente constituido, domiciliado, establecido o residente en Chile tenga, directa o indirectamente, una opción de compra o adquisición de una participación o derecho en dicha entidad, en los términos de los literales i), ii) o iii) anteriores.
-
-Para efectos del presente artículo se entenderá como personas o entidades relacionadas a las señaladas en el número 17 del artículo 8 del Código Tributario. Asimismo, salvo prueba en contrario, se presumirá como relacionados al cónyuge, conviviente civil o parientes ascendientes o descendientes hasta el segundo grado de consanguinidad. También se presumirá como relacionados, salvo prueba en contrario, a los parientes hasta el segundo grado de consanguinidad cuando participen en la misma entidad o patrimonio constituido en Chile a través de la cual se controla una entidad sin domicilio ni residencia en Chile.
-
-Las presunciones establecidas en el párrafo anterior deberán fundarse, además, en la existencia de alguno de los supuestos contenidos en el párrafo segundo del número 2 de la letra A del presente artículo.
-
-Para los efectos señalados, no se considerarán como personas o entidades relacionadas el controlador que sea una entidad no constituida, establecida, ni domiciliada o residente en Chile, que a su vez no sea controlada por una entidad local.
-
-B.- País o territorio con un régimen fiscal preferencial.
-
-Para los efectos de lo dispuesto en el presente artículo se entenderá como un país o territorio con un régimen fiscal preferencial aquéllos a que se refiere el artículo 41 H.
-
-C.- Rentas pasivas.
-
-Para los efectos de lo dispuesto en el presente artículo, se considerarán rentas pasivas las siguientes:
-
-1. Dividendos, retiros, repartos y cualquier otra forma de distribución, o devengo de utilidades provenientes de participaciones en otras entidades, incluso cuando se hubiesen capitalizado en el extranjero. No obstante, no se considerará renta pasiva la distribución, reparto o devengo de utilidades que una entidad controlada sin domicilio ni residencia en Chile haya obtenido desde otra entidad que, a su vez, sea controlada directa o indirectamente por la primera, cuando esta última no tenga como giro o actividad principal la obtención de rentas pasivas.
-
-2. Intereses y demás rentas a que se refiere el artículo 20, número 2, de esta ley, salvo que la entidad controlada no domiciliada que las genera sea una entidad bancaria o financiera regulada como tal por las autoridades del país respectivo y no se encuentre constituida, establecida, domiciliada o residente en una jurisdicción o territorio que se considere como un régimen fiscal preferencial conforme a las reglas establecidas en el artículo 41 H.
-
-3. Rentas derivadas de la cesión del uso, goce o explotación de marcas, patentes, fórmulas, programas computacionales y otras prestaciones similares, sea que consistan en regalías o cualquier otra forma de remuneración; excepto las rentas provenientes de proyectos de investigación y desarrollo definidos conforme a la letra f) del artículo 1° de la ley N° 20.241, que establece un incentivo tributario a la inversión en investigación y desarrollo, y que sean aprobados previamente por la Corporación de Fomento de la Producción, conforme al procedimiento que determine dicha institución mediante resolución conjunta con el Servicio de Impuestos Internos.
-
-4. Ganancias de capital o mayores valores provenientes de la enajenación de bienes o derechos que generen rentas de las indicadas en los números precedentes.
-
-5. Las rentas provenientes del arrendamiento o cesión temporal de bienes inmuebles, salvo que la entidad controlada tenga por giro o actividad principal la explotación de inmuebles situados en el país donde se encuentre constituida, domiciliada o residente.
-
-6. Las ganancias de capital provenientes de la enajenación de inmuebles, salvo que éstos hubieran sido utilizados o explotados en el desarrollo de una actividad empresarial generadora de rentas distintas de aquellas calificadas como pasivas de acuerdo a este artículo.
-
-7. Las rentas provenientes de la cesión de derechos sobre las facultades de usar o disfrutar cualquiera de los bienes o derechos generadores de las rentas consideradas pasivas de acuerdo con los números precedentes.
-
-8. Las rentas que las entidades controladas no domiciliadas ni residentes en Chile obtengan como consecuencia de operaciones realizadas con contribuyentes constituidos, domiciliados, establecidos o residentes en Chile, siempre que:
-
-- **a)** sean partes relacionadas en los términos del artículo 41 E;
-
-- **b)** tales rentas constituyan gasto deducible para los contribuyentes constituidos, domiciliados, establecidos o residentes en el país para la determinación de sus impuestos a la renta en Chile, o deban formar parte de valores sujetos a depreciación o amortización en Chile, según proceda, y
-
-- **c)** dichas rentas no sean de fuente chilena, o siendo de fuente chilena o extranjera, estén sujetas a una tasa de impuesto en Chile menor al 35%.
-
-Si las rentas pasivas a que se refiere este artículo representan el 80% o más del total de los ingresos de la entidad controlada constituida, domiciliada o residente en el extranjero, el total de los ingresos de ésta serán considerados como rentas pasivas para los efectos de este artículo.
-
-Se presumirá, salvo prueba en contrario, que: (i) Todas las rentas obtenidas por una entidad controlada constituida, domiciliada o residente en un territorio o jurisdicción a que se refiere el artículo 41 H, son rentas pasivas. (ii) Una entidad controlada domiciliada, constituida o residente en un país o territorio con un régimen fiscal preferencial, genera en el ejercicio a lo menos una renta neta pasiva igual al resultado de multiplicar la tasa de interés promedio que cobren las empresas del sistema financiero del referido país o territorio por el valor de adquisición de la participación o el valor de participación patrimonial, el que resulte mayor, que corresponda a la participación, directa o indirecta, de los propietarios constituidos, domiciliados o residentes en Chile. En caso que el país o territorio publique oficialmente la tasa de interés promedio de las empresas de su sistema financiero, se utilizará dicha tasa. En caso que no pueda determinarse la tasa indicada, se utilizará la tasa promedio que establezca anualmente el Ministerio de Hacienda mediante decreto supremo.
-
-Lo dispuesto en este artículo se aplicará sólo cuando las rentas pasivas de la entidad controlada excedan del 10% de los ingresos totales de aquella, en el ejercicio que corresponda. Sin perjuicio de lo anterior, no se aplicará lo dispuesto en este artículo cuando el valor de los activos de la entidad controlada susceptibles de producir rentas pasivas, considerados proporcionalmente según su permanencia en el ejercicio, no exceda de un 20% del valor total de sus activos, determinado también proporcionalmente en la forma señalada. Tampoco se aplicará cuando las rentas pasivas de la entidad controlada se hayan gravado con impuestos a la renta cuya tasa efectiva sea igual o superior a un 30% en el país donde se encuentra domiciliada, establecida o constituida dicha entidad, conforme a las normas que ahí se apliquen.
-
-D.- Forma de reconocer en Chile las rentas percibidas o devengadas de conformidad a este artículo.
-
-Las rentas pasivas percibidas o devengadas por las entidades controladas, se considerarán a su vez percibidas o devengadas por sus propietarios constituidos, domiciliados, establecidos o residentes en Chile, al cierre del ejercicio respectivo, conforme a las siguientes reglas:
-
-1. Las rentas pasivas se considerarán percibidas o devengadas por los propietarios domiciliados o residentes en Chile, en proporción a la participación, directa o indirecta, que ellos tengan en la entidad controlada. Para los efectos de determinar dicha proporción, el Servicio podrá ejercer las facultades de fiscalización que correspondan.
-
-2. Para determinar el monto de las rentas pasivas que debe computarse en Chile, se aplicarán las normas de esta ley sobre determinación de la base imponible de primera categoría, y se agregará a la renta líquida imponible de la empresa al término del ejercicio, salvo que el resultado arroje una pérdida, caso en el cual no se reconocerá en el país.
-
-3. Cuando los gastos deducibles incidan en la generación de las rentas pasivas y de otras rentas, la deducción se efectuará en la misma proporción que tales rentas pasivas representen en los ingresos totales de la entidad controlada.
-
-4. El resultado de las rentas pasivas extranjeras se determinará en la moneda del país en que se encuentre radicada la entidad respectiva y se convertirá, cuando corresponda, a moneda nacional de acuerdo con el tipo de cambio establecido en la letra a), del número 7 del artículo 41 A, vigente al término del ejercicio en Chile.
-
-5. Los contribuyentes deberán aplicar el artículo 21 a las entidades controladas que tengan en el exterior.
-
-6. Los contribuyentes constituidos, domiciliados, establecidos o residentes en Chile a que se refiere este artículo no deberán considerar como devengadas las rentas pasivas percibidas o devengadas en el ejercicio por entidades controladas en el exterior, cuando no excedan de 2.400 unidades de fomento en total al término del ejercicio respectivo.
-
-Para determinar si un contribuyente cumple con el límite señalado en el párrafo anterior deberá considerar también aquellas rentas pasivas obtenidas, dentro del mismo ejercicio, por personas o entidades con las que esté relacionado. Si al efectuar la agregación anterior el resultado obtenido excede dicho límite, tanto el contribuyente como todos sus relacionados deberán considerar como devengadas la totalidad de sus rentas pasivas, según las disposiciones del presente artículo. Para estos efectos se entenderán como relacionados con un contribuyente las personas y entidades en los términos del número 2) de la letra A) de este artículo.
-
-Lo dispuesto en el presente numeral no procederá cuando las rentas pasivas percibidas o devengadas procedan de una entidad controlada domiciliada o residente en un país o territorio con un régimen fiscal preferencial.
-
-E.- Dividendos que corresponden a rentas pasivas.
-
-Los dividendos retiros, repartos y cualquier otra forma de distribución de utilidades, beneficios o ganancias que las entidades controladas distribuyan a los contribuyentes con domicilio o residencia en Chile, no estarán gravados en el país con el impuesto a la renta cuando correspondan a las rentas netas pasivas que hubiesen tributado previamente de conformidad al presente artículo. En estos casos, deberá estarse a lo dispuesto en el artículo 41 A.
-
-Para estos efectos, se considerará que los dividendos y otras formas de distribución de utilidades, beneficios o ganancias distribuidas corresponden a las rentas netas pasivas en la misma proporción que dichas rentas representan en el total de las rentas netas de la entidad controlada. La misma regla se aplicará para la determinación de la distribución de utilidades que la entidad que distribuye hubiese recibido a su vez de otras entidades controladas, y así sucesivamente.
-
-F.- Obligaciones de registro e información.
-
-Los contribuyentes constituidos, domiciliados, establecidos o residentes en el país deberán mantener un registro detallado y actualizado de las rentas pasivas que se hayan computado en el país de acuerdo a este artículo, de los dividendos u otra forma de participación en las utilidades, beneficios o ganancias provenientes de entidades controladas, así como del o los impuestos pagados o adeudados respecto de estas rentas en el exterior, entre otros antecedentes.
-
-El Servicio, mediante resolución, fijará la información que debe anotarse en el citado registro, pudiendo requerir al contribuyente, en la forma y plazo que éste establezca mediante resolución una o más declaraciones con la información que determine para los efectos de aplicar y fiscalizar el cumplimiento de lo dispuesto en este artículo. La no presentación de esta declaración, o su presentación errónea, incompleta o extemporánea, se sancionará con una multa de 10 a 50 unidades tributarias anuales. Con todo, dicha multa no podrá exceder del límite mayor entre el equivalente al 15% del capital propio del contribuyente determinado conforme al número 10 del artículo 2 o el 5% de su capital efectivo. La aplicación de dicha multa se someterá al procedimiento establecido en el número 1° del artículo 165 del Código Tributario. Si la declaración presentada conforme a este número fuere maliciosamente falsa, se sancionará conforme a lo dispuesto en el párrafo primero del número 4° del artículo 97 del Código Tributario. El contribuyente podrá solicitar al Director Regional respectivo, o al Director de Grandes Contribuyentes, según corresponda, por una vez, prórroga de hasta tres meses del plazo para la presentación de la citada declaración. La prórroga concedida ampliará, en los mismos términos, el plazo de fiscalización a que se refiere la letra a) del artículo 59 del Código Tributario.
-
-#### Artículo 41
-
-H.- Para los efectos de esta ley se considerará que un territorio o jurisdicción tiene un régimen fiscal preferencial cuando cumpla copulativamente las condiciones indicadas a continuación:
-
-a) No haya celebrado con Chile un convenio que permita el intercambio de información para fines tributarios o el celebrado no se encuentre vigente o, si se encuentra vigente, contiene limitaciones que impide un intercambio efectivo de información.
-
-b) No reúna las condiciones para ser considerado cumplidor o sustancialmente cumplidor en materia de transparencia e intercambio de información con fines fiscales. Para estos efectos se estará a las calificaciones realizadas por el Foro Global sobre Transparencia e Intercambio de Información para Fines Fiscales u otro organismo internacional que lo reemplace siempre que Chile sea un miembro permanente.
-
-El Servicio se pronunciará mediante resolución de los territorios o jurisdicciones que se encuentran en la situación que establece este artículo.
 
 SEGUNDA CATEGORIA
 
@@ -2396,15 +692,11 @@ De la materia y tasa del impuesto
 
 #### Artículo 42°
 
-Se aplicará, calculará y cobrará un impuesto en conformidad a lo dispuesto en el artículo 43, sobre las siguientes rentas:
-
-1°.- Sueldos, sobresueldos, salarios, premios, dietas, gratificaciones, participaciones y cualesquiera otras asimilaciones y asignaciones que aumenten la remuneración pagada por servicios personales, montepíos y pensiones, exceptuadas las imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro, y las cotizaciones que se destinen a financiar las prestaciones de salud, calculadas sobre el límite máximo imponible del artículo 16 del decreto ley N° 3.500, de 1980. En el caso de pensionados, se considerará el límite máximo imponible indicado en el artículo 85 del decreto ley N° 3.500, de 1980. Asimismo, se exceptúa la cotización para el seguro de desempleo establecido en la letra a) del artículo 5° de la ley N° 19.728, que establece un seguro de desempleo, calculada sobre la base establecida en el artículo 6° de dicha ley, como también las cantidades por concepto de gastos de representación.
-
-Cuando los depósitos efectuados en la cuenta de ahorro voluntario a que se refiere el artículo 21 del decreto ley N°3.500, de 1980, se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43, se rebajará de la base de dicho tributo el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a ella representen tales depósitos. Este saldo será determinado por la Administradora de Fondos de Pensiones de acuerdo a lo establecido en el artículo 22 del decreto ley Nº 3.500, de 1980, registrando separadamente el capital invertido, expresado en unidades tributarias mensuales, el que corresponderá a la diferencia entre los depósitos y los retiros netos, convertidos cada uno de ellos al valor que tenga dicha unidad en el mes en que se efectúen estas operaciones.
-
-Respecto de los obreros agrícolas el impuesto se calculará sobre la misma cantidad afecta a imposiciones del Servicio de Seguro Social, sin ninguna deducción.
+Se aplicará, calculará y cobrará un impuesto en conformidad a lo dispuesto en el artículo 43, sobre las siguientes rentas: 1°.- Sueldos, sobresueldos, salarios, premios, dietas, gratificaciones, participaciones y cualesquiera otras asimilaciones y asignaciones que aumenten la remuneración pagada por servicios personales, montepíos y pensiones, exceptuadas las imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro, y las cantidades percibidas por concepto de gastos de representación. Respecto de los obreros agrícolas el impuesto se calculará sobre la misma cantidad afecta a imposiciones del Servicio de Seguro Social, sin ninguna deducción.
 
 Los choferes de taxis, que no sean propietarios de los vehículos que exploten, tributarán con el impuesto de este número con tasas de 3,5% sobre el monto de dos unidades tributarias mensuales, sin derecho a deducción alguna. El impuesto debe ser recaudado mensualmente por el propietario del vehículo el que debe ingresarlo en arcas fiscales entre el 1° y el 12 del mes siguiente.
+
+Se incluyen en este número las rentas que obtengan, en su calidad de tales, los prácticos de puertos y canales autorizados por la Dirección del Litoral y de la Marina Mercante.
 
 2°.- Ingresos provenientes del ejercicio de las profesiones liberales o de cualquiera otra profesión u ocupación lucrativa no comprendida en la primera categoría ni en el número anterior, incluyéndose los obtenidos por los auxiliares de la administración de justicia por los derechos que conforme a la ley obtienen del público, los obtenidos por los corredores que sean personas naturales y cuyas rentas provengan exclusivamente de su trabajo o actuación personal, sin que empleen capital, y los obtenidos por sociedades de profesionales que presten exclusivamente servicios o asesorías profesionales.
 
@@ -2422,95 +714,49 @@ En ningún caso quedarán comprendidas en este número las rentas de sociedades 
 
 > **Nota.** NOTA: 3 El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
 
-> **Nota.** NOTA 4: El Art. 1º Transitorio de la LEY 20219, publicada el 03.10.2007, dispuso que la modificación introducida en el presente artículo rige a contar del primer día del mes subsiguiente al de su publicación.
+#### Artículo 43
 
-#### Artículo 42° bis
+o- El impuesto establecido en esta categoría se aplicará sobre la renta líquida imponible y conforme a las siguientes tasas:
 
-Los contribuyentes del artículo 42º, Nº 1, que efectúen depósitos de ahorro previsional voluntario, cotizaciones voluntarias y ahorro previsional voluntario colectivo de conformidad a lo establecido en los párrafos 2 y 3 del Título III del decreto ley Nº 3.500, de 1980, podrán acogerse al régimen que se establece a continuación:
+1.o Rentas mensuales a que se refiere el N.o 1 del artículo 42, a las cuales se aplicará la siguientes escala de tasas:
 
-1. Podrán rebajar, de la base imponible del impuesto único de segunda categoría, el monto del depósito de ahorro previsional voluntario, cotización voluntaria y ahorro previsional voluntario colectivo, efectuado mediante el descuento de su remuneración por parte del empleador, hasta por un monto total mensual equivalente a 50 unidades de fomento, según el valor de ésta al último día del mes respectivo.
+Las rentas que no excedan de 2 unidades tributarias mensuales, 3,5%;
 
-2. Podrán reliquidar, de conformidad al procedimiento establecido en el artículo 47º, el impuesto único de segunda categoría, rebajando de la base imponible el monto del depósito de ahorro previsional voluntario, cotización voluntaria y ahorro previsional voluntario colectivo, que hubieren efectuado directamente en una institución autorizada de las definidas en la letra p) del artículo 98 del decreto ley Nº 3.500, de 1980, o en una administradora de fondos de pensiones, hasta por un monto total máximo anual equivalente a la diferencia entre 600 unidades de fomento, según el valor de ésta al 31 de diciembre del año respectivo, menos el monto total del ahorro voluntario, de las cotizaciones voluntarias y del ahorro previsional voluntario colectivo, acogidos al número 1 anterior.
+Sobre la parte que exceden de 2 y no sobrepase las 5 unidades tributarias mensuales, 10%;
 
-Para los efectos de impetrar el beneficio, cada inversión efectuada en el año deberá considerarse según el valor de la unidad de fomento en el día que ésta se realice.
+Sobre la parte que exceda de 5 y no sobrepase las 10 unidades tributarias mensuales, 15%;
 
-3. En caso que los recursos originados en depósitos de ahorro previsional voluntario, cotizaciones voluntarias o ahorro previsional voluntario colectivo a que se refieren los párrafos 2 y 3 del Título III del decreto ley Nº 3.500, de 1980, sean retirados y no se destinen a anticipar o mejorar las pensiones de jubilación, el monto retirado, reajustado en la forma dispuesta en el inciso penúltimo del número 3 del artículo 54º, quedará afecto a un impuesto único que se declarará y pagará en la misma forma y oportunidad que el impuesto global complementario. La tasa de este impuesto será tres puntos porcentuales superior a la que resulte de multiplicar por el factor 1,1, el producto, expresado como porcentaje, que resulte de dividir, por el monto reajustado del retiro efectuado, la diferencia entre el monto del impuesto global complementario determinado sobre las remuneraciones del ejercicio incluyendo el monto reajustado del retiro y el monto del mismo impuesto determinado sin considerar dicho retiro. Si el retiro es efectuado por una persona pensionada o, que cumple con los requisitos de edad y de monto de pensión que establecen los artículos 3º y 68 letra b) del decreto ley Nº 3.500, de 1980, o con los requisitos para pensionarse que establece el decreto ley Nº 2.448, de 1979, no se aplicarán los recargos porcentuales ni el factor antes señalados.
+Sobre la parte que exceda de 10 y no sobrepase las 15 unidades tributarias mensuales, 20%;
 
-Las administradoras de fondos de pensiones y las instituciones autorizadas que administren los recursos de ahorro previsional voluntario desde las cuales se efectúen los retiros descritos en el inciso anterior, deberán practicar una retención de impuesto, con tasa 15% que se tratará conforme a lo dispuesto en el artículo 75º de esta ley y servirá de abono al impuesto único determinado. Con todo, no se considerarán retiros los traspasos de recursos que se efectúen entre las entidades administradoras, siempre que cumplan con los requisitos que se señalan en el numeral siguiente.
+Sobre la parte que exceda de 15 y no sobrepase las 20 unidades tributarias mensuales, 30%;
 
-Los recursos originados en depósitos de ahorro previsional voluntario, cotizaciones voluntarias o ahorro previsional voluntario colectivo, acogidos a lo dispuesto en el número 1 del presente artículo, y que hayan sido destinados a pólizas de seguros de vida autorizadas por la Superintendencia de Valores y Seguros como planes de ahorro previsional voluntario, se gravarán en caso de muerte del asegurado con el impuesto que establece este numeral, en aquella parte que no se haya destinado a financiar costos de cobertura. Dicho impuesto, cuya tasa será, en este caso, de un 15%, deberá ser retenido por la Compañía de Seguros al momento de efectuar el pago de tales recursos a los beneficiarios, y enterado en arcas fiscales hasta el día 12 del mes siguiente a aquél en que haya efectuado la retención. Para los efectos de la determinación de este impuesto, las cantidades afectas a la tributación señalada se reajustarán en la forma dispuesta en el inciso penúltimo, del número 3 del artículo 54. El impuesto a que se refiere este inciso no se aplicará cuando los beneficiarios hayan optado por destinar tales recursos a la cuenta de capitalización individual del asegurado.
+Sobre la parte que exceda de 20 y no sobrepase las 40 unidades tributarias mensuales, 40%;
 
-4. Al momento de incorporarse al sistema de ahorro a que se refiere este artículo, la persona deberá manifestar a las administradoras de fondos de pensiones o a las instituciones autorizadas, su voluntad de acogerse al régimen establecido en este artículo, debiendo mantener vigente dicha expresión de voluntad. La entidad administradora deberá dejar constancia de esta circunstancia en el documento que dé cuenta de la inversión efectuada. Asimismo, deberá informar anualmente respecto de los montos de ahorro y de los retiros efectuados, al contribuyente y al Servicio de Impuestos Internos, en la oportunidad y forma que este último señale.
+Sobre la parte que exceda de 40 y no sobrepase las 80 unidades tributarias mensuales 50%;
 
-5. Eliminado.
+Sobre la parte que exceda de las 80 unidades tributarias mensuales, 60%.
 
-6. También podrán acogerse al régimen establecido en este artículo las personas indicadas en el inciso tercero del número 6º del artículo 31, hasta por el monto en unidades de fomento que represente la cotización obligatoria que efectúe en el año respectivo, de acuerdo a lo dispuesto en el primer inciso del artículo 17 del decreto ley Nº 3.500, de 1980.
+Esta escala se aplicará a las personas que obtengan mensualmente una renta que exceda de una unidad tributaria.
 
-Si el contribuyente no opta, al momento de incorporarse al sistema de ahorro a que se refiere este artículo, por acogerse al régimen establecido en el inciso anterior, o habiendo optado sus depósitos exceden de los límites que establece dicho inciso, los depósitos de ahorro previsional voluntario, las cotizaciones voluntarias, el ahorro previsional voluntario colectivo correspondiente a los aportes del trabajador, a que se refieren los números 2. y 3. del Título III del decreto ley Nº 3.500, de 1980, o el exceso en su caso, no se rebajarán de la base imponible del impuesto único de segunda categoría y no estarán sujetos al impuesto único que establece el número 3. del inciso primero de este artículo, cuando dichos recursos sean retirados. En todo caso, la rentabilidad de dichos aportes estará sujeta a las normas establecidas en el artículo 22 del mencionado decreto ley. Asimismo, cuando dichos aportes se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43, se rebajará el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a pensión representen las cotizaciones voluntarias, aportes de ahorro previsional voluntario y aportes de ahorro previsional voluntario colectivo que la persona hubiere acogido a lo dispuesto en este inciso y los que no hubiese podido acoger por exceder de los límites que establece el inciso primero. El saldo de dichas cotizaciones y aportes será determinado por las Administradoras de Fondos de Pensiones de acuerdo a lo establecido en el artículo 20 L del decreto ley N° 3.500, de 1980.
+El impuesto establecido en este número será de un monto mínimo equivalente a un 3,5% sobre la renta líquida imponible o a un 6% tratándose de rentas en moneda extranjera, sin derecho a los créditos que se establecen en el artículo 44.
 
-Los aportes que los empleadores efectúen a los planes de ahorro previsional voluntario colectivo se considerarán como gasto necesario para producir la renta de aquéllos. A su vez, cuando los aportes del empleador, más la rentabilidad que éstos generen, sean retirados por éste, aquéllos serán considerados como ingresos para efectos de la Ley sobre Impuesto a la Renta. En este último caso, la Administradora o Institución Autorizada deberá efectuar la retención establecida en el N°3 de este artículo.
+El impuesto de este número tendrá el carácter de único respecto de las cantidades a las cuales se aplique.
 
-> **Nota.** El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
+Las regalías por concepto de alimentación que perciban en dinero los trabajadores eventuales y discontinuos, que no tienen patrón fijo y permanente, no serán consideradas como remuneración para los efectos del pago del impuesto de este número.
 
-> **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
-
-> **Nota.** NOTA 2 El artículo Quinto transitorio de la Ley 20552, publicada el 17.12.2011, dispone que la modificación introducida por el N° 2) del artículo 4° regirá respecto de los seguros de vida a que se refiere dicha disposición, que se contraten a partir de la fecha de publicación de esta ley en el Diario Oficial, y para todos los nuevos aportes enterados, desde esa fecha, en las pólizas ya contratadas.
-
-#### Artículo 42° ter
-
-El monto de los excedentes de libre disposición, calculado de acuerdo a lo establecido en el decreto ley Nº 3.500, de 1980, determinado al momento en que los afiliados opten por pensionarse, podrá ser retirado libre de impuesto hasta por un máximo anual equivalente a 200 unidades tributarias mensuales, no pudiendo, en todo caso, exceder dicha exención el equivalente a 1.200 unidades tributarias mensuales. Con todo, el contribuyente podrá optar, alternativamente, por acoger sus retiros a una exención máxima de 800 unidades tributarias mensuales durante un año. Aquella parte del excedente de libre disposición que corresponda a recursos originados en depósitos convenidos, tributará de acuerdo al siguiente artículo.
-
-Para que opere la exención señalada, los aportes que se efectúen para constituir dicho excedente, por concepto de cotización voluntaria, depósito de ahorro voluntario o depósito de ahorro previsional voluntario colectivo, deberán haberse efectuado con a lo menos cuarenta y ocho meses de anticipación a la determinación de dicho excedente.
-
-Los retiros que efectúe el contribuyente se imputarán, en primer lugar, a los aportes más antiguos, y así sucesivamente.
-
-> **Nota.** El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
-
-> **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
-
-#### Artículo 42° quáter
-
-El monto de los excedentes de libre disposición, calculado de acuerdo a lo establecido en el decreto ley N° 3.500, de 1980, que corresponda a depósitos convenidos efectuados por sobre el límite establecido en el inciso tercero del artículo 20 del citado decreto ley, podrá ser retirado libre de impuestos. Con todo, la rentabilidad generada por dichos depósitos, tributará conforme a las reglas generales. Aquella parte de los excedentes de libre disposición que correspondan a recursos originados en depósitos convenidos de montos inferiores al límite contemplado en el artículo 20 del decreto ley N° 3.500, de 1980, tributará conforme a las reglas generales.
-
-#### Artículo 43°
-
-Las rentas de esta categoría quedarán gravadas de la siguiente manera:
-
-1.- Rentas mensuales a que se refiere el N° 1 del artículo 42, a las cuales se aplicará la siguiente escala de tasas:
-
-Sobre la parte que exceda de 13,5 y no sobrepase las 30 unidades tributarias mensuales, 4%;
-
-Sobre la parte que exceda de 30 y no sobrepase las 50 unidades tributarias mensuales, 8%;
-
-Sobre la parte que exceda de 50 y no sobrepase las 70 unidades tributarias mensuales, 13,5%;
-
-Sobre la parte que exceda de 70 y no sobrepase las 90 unidades tributarias mensuales, 23%;
-
-Sobre la parte que exceda de 90 y no sobrepase las 120 unidades tributarias mensuales, 30,4%;
-
-Sobre la parte que exceda de 120 y no sobrepase las 310 unidades tributarias mensuales, 35%; y
-
-Sobre la parte que exceda de 310 unidades tributarias mensuales, 40%.
-
-El impuesto de este número tendrá el carácter de único respecto de las cantidades a las cuales se aplique. Las regalías por concepto de alimentación que perciban en dinero los trabajadores eventuales y discontinuos, que no tienen patrón fijo y permanente, no serán consideradas como remuneraciones para los efectos del pago del impuesto de este número.
-
-Los trabajadores eventuales y discontinuos que no tienen patrón fijo y permanente, pagarán el impuesto de este número por cada turno o día-turno de trabajo, para lo cual la escala de tasas mensuales se aplicará dividiendo cada tramo de ella por el promedio mensual de turnos o días turnos trabajados.
+Los trabajadores eventuales y discontinuos que no tienen patrón fijo y permanente, pagarán el impuesto de este número por cada turno o día-turno de trabajo, para lo cual la escala de tasas mensuales se aplicará dividiendo cada tramo de ella por el promedio mensual de turnos o días-turnos trabajados.
 
 Para los créditos, se aplicará el mismo procedimiento anterior.
 
-Los obreros agrícolas cuyas rentas sobrepasan las 10 unidades tributarias mensuales pagarán como impuesto de este número un 3,5% sobre la parte que exceda de dicha cantidad, sin derecho a los créditos que se establecen en el artículo 44°.
+Respecto de los obreros agrícolas se aplicará sólo la tasa del 3,5%, sobre el monto de la renta imponible que se establece en el N° 1 del artículo 42 sin derecho a los créditos indicados en el artículo 44.
 
-2.- Las rentas mencionadas en el N° 2 del artículo 42 sólo quedarán afectas al Impuesto Global Complementario o Adicional, en su caso, cuando sean percibidas.
+Para los fines del impuesto de este número, se considerará la unidad tributaria que rija en los meses de Marzo, Junio, Septiembre y Diciembre de cada año.
 
-> **Nota.** El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
-
-> **Nota.** NOTA : 4 Las letras c) y d) del Art. 1° transitorio de la LEY 19753, publicada el 28.09.2001, disponen que las tasas contenidas en la presente actualización regirán a contar del 1° de enero de 2003, por las rentas obtenidas desde esa fecha.
+2°. Rentas mencionadas en el N° 2, del artículo anterior, 7%.
 
 #### Artículo 44°
 
-DEROGADO
-
-> **Nota.** La letra b) del Art. 1° transitorio de la LEY 19753, publicada el 28.09.2001, dispuso que la derogación del presente artículo regirá a contar del 1° de enero de 2002, por las rentas que se obtengan a contar de esa fecha.
+Los contribuyentes afectos al impuesto establecido en el N° 1 del artículo 43 gozarán de un crédito contra el impuesto resultante de aplicar la escala de tasas señaladas en el N° 1 de dicho artículo, igual a un 10% de la unidad tributaria mensual.
 
 #### Artículo 45°
 
@@ -2530,27 +776,17 @@ INCISO TERCERO DEROGADO
 
 #### Artículo 46°
 
-Tratándose de remuneraciones del número 1° del artículo 42 pagadas íntegramente con retraso, ellas se ubicarán en el o los períodos en que se devengaron y el impuesto se liquidará de acuerdo con las normas vigentes en esos períodos.
+Tratándose de remuneraciones del número 1° del artículo 42° pagadas íntegramente con retraso, ellas se ubicarán en el o los períodos en que se devengaron y el impuesto se liquidará de acuerdo con las normas vigentes en esos períodos.
 
-En el caso de diferencia o saldos de remuneraciones o de remuneraciones accesorias o complementarias devengadas en más de un período y que se pagan con retraso, las diferencias o saldos se convertirán en unidades tributarias y se ubicarán en los períodos correspondientes, reliquidándose de acuerdo al valor de la citada unidad en los períodos respectivos.
-
-Los saldos de impuestos resultantes se expresarán en unidades tributarias y se solucionarán en el equivalente de dichas unidades del mes de pago de la correspondiente remuneración.
+Si se trata de diferencias o saldos de remuneraciones o de remuneraciones accesorias o complementarias devengadas en más de un período que se pagan con retraso, ellas se ubicarán en los períodos en que se devengaron y tributarán con la tasa más alta de la escala del impuesto establecido en el número 1° del artículo 43° que haya afectado a las rentas pagadas en cada uno de esos períodos.
 
 Para los efectos del inciso anterior, las remuneraciones voluntarias que se paguen en relación a un determinado lapso, se entenderá que se han devengado uniformemente en dicho lapso, el que no podrá exceder de doce meses.
 
-> **Nota.** Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
 #### Artículo 47°
 
-Los contribuyentes del número 1º, del artículo 42, que durante un año calendario o en una parte de él hayan obtenido rentas de más de un empleador, patrón o pagador simultáneamente, deberán reliquidar el impuesto del número 1, del artículo 43, aplicando al total de sus rentas imponibles, la escala de tasas que resulte en valores anuales, según la unidad tributaria del mes de diciembre y los créditos y demás elementos de cálculo del impuesto. En los casos que de la reliquidación no resulte un mayor impuesto a pagar, el contribuyente no estará obligado a realizarla.
+Los contribuyentes del número 1° del artículo 42° que durante un año calendario o en una parte de él hayan obtenido rentas de más de un empleador, patrón o pagador simultáneamente, deberán reliquidar el impuesto del N° 1 del artículo 43 por el período correspondiente, considerando el monto de los tramos de las tasas progresivas y de los créditos pertinentes, que hubieren regido en cada período.
 
-Estos contribuyentes podrán efectuar pagos provisionales a cuenta de las diferencias que se determinen en la reliquidación, las cuales deben declararse anualmente en conformidad al número 5, del artículo 65.
-
-Los demás contribuyentes del impuesto del número 1°, del artículo 43, que no se encuentren obligados a reliquidar dicho tributo conforme al inciso primero, ni a declarar anualmente el Impuesto Global Complementario por no haber obtenido otras rentas gravadas con el referido tributo, podrán efectuar una reliquidación anual de los impuestos retenidos durante el año, aplicando el mismo procedimiento descrito anteriormente.
-
-Para la aplicación de lo dispuesto en los incisos anteriores, las rentas imponibles se reajustarán en conformidad al inciso penúltimo del número 3 del artículo 54 y los impuestos retenidos según el artículo 75.
-
-La cantidad a devolver que resulte de la reliquidación a que se refieren los incisos precedentes, se reajustará en la forma establecida en el artículo 97 y se devolverá por el Servicio de Tesorerías, en el plazo que señala dicha disposición.
+Estos contribuyentes podrán efectuar pagos provisionales a cuenta de las diferencias que se determinen en la reliquidación, las cuales deben declararse anualmente en conformidad al N° 5 del artículo 65.
 
 Se faculta al Presidente de la República para eximir a los citados contribuyentes de dicha declaración anual, reemplazándola por un sistema que permita la retención del impuesto sobre el monto correspondiente al conjunto de las rentas percibidas.
 
@@ -2570,17 +806,13 @@ DEROGADO
 
 Los contribuyentes señalados en el número 2 del artículo 42° deberán declarar la renta efectiva proveniente del ejercicio de sus profesiones u ocupaciones lucrativas. Para la deducción de los gastos les serán aplicables las normas que rigen esta materia respecto de la Primera Categoría, en cuanto fueren pertinentes.
 
-Especialmente, procederá la deducción como gasto de las imposiciones previsionales de cargo del contribuyente que en forma independiente se haya acogido a un régimen de previsión. En el caso de sociedades de profesionales, procederá la deducción de las imposiciones que los socios efectúen en forma independiente a una institución de previsión social.
+Especialmente, procederá la deducción como gasto de las imposiciones previsionales de cargo del contribuyente que en forma independiente se haya acogido ART 1° a un régimen de previsión. En el caso de sociedades de profesionales, procederá la deducción de las imposiciones que los socios efectúen en forma independiente a una institución de previsión social.
 
-Asimismo, procederá la deducción de aquellas cantidades señaladas en el artículo 42º bis, que cumpla con las condiciones que se establecen en los números 3 y 4 de dicho artículo, aun cuando el contribuyente se acoja a lo dispuesto en el inciso siguiente. Para estos efectos, se convertirá la cantidad pagada por dichas cotizaciones a unidades de fomento, según el valor de ésta al último día del mes en que se pagó la cotización respectiva. En ningún caso esta rebaja podrá exceder al equivalente a 600 unidades de fomento, de acuerdo al valor de ésta al 31 de diciembre del año respectivo. La cantidad deducible señalada considerará el ahorro previsional voluntario que el contribuyente hubiere realizado como trabajador dependiente.
+Con todo, los contribuyentes del N° 2 del artículo 42° que ejerzan su profesión u ocupación en forma individual, podrán declarar sus rentas sólo a base de los ingresos brutos, sin considerar los gastos efectivos. En tales casos, los contribuyentes tendrán derecho a rebajar a título de gastos necesarios para producir la renta, un 30% de los ingresos brutos anuales. En ningún caso dicha rebaja podrá exceder de la cantidad de 15 unidades tributarias anuales vigentes al cierre del ejercicio respectivo.
 
-Con todo, los contribuyentes del N° 2 del artículo 42° que ejerzan su profesión u ocupación en forma individual, podrán declarar sus rentas sólo a base de los ingresos brutos, sin considerar los gastos efectivos. En tales casos, los contribuyentes tendrán derecho a rebajar a título de gastos necesarios para producir la renta, un 30% de los ingresos brutos anuales. El monto de las cotizaciones previsionales que se enteren por estos trabajadores independientes no se rebajará como gasto necesario para producir la renta. En ningún caso dicha rebaja podrá exceder de la cantidad de 15 unidades tributarias anuales vigentes al cierre del ejercicio respectivo.
+> **Nota.** NOTA: 30 Esta modificación regirá a contar del año tributario 1977. (DL 1604, 1976, art. 15 N° 2.).
 
-> **Nota.** El artículo 15 Nº 2 del DL 1604, Hacienda, publicado el 13.12.1975, dispone que la modificación a esta norma, regirá a contar del año tributario 1977.
-
-> **Nota.** NOTA : 1 El inciso 2º de la LEY 18293, publicada el 31.01.1984, dispone que la modificación introducida por a este artículo rige desde el año tributario 1987.
-
-> **Nota.** NOTA : 2 El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
+> **Nota.** NOTA: 31 La modificación introducida por la ley 18293 regirá desde el año tributario 1987. (Ley 18293, art. 2° inciso final).
 
 #### Artículo 51°
 
@@ -2600,75 +832,35 @@ De la materia y tasa del impuesto
 
 Se aplicará, cobrará y pagará anualmente un impuesto global complementario sobre la renta imponible determinada en conformidad al párrafo 2 de este Título, de toda persona natural, residente o que tenga domicilio o residencia en el país, y de las personas o patrimonios a que se refieren los artículo 5°, 7° y 8°, con arreglo a las siguientes tasas:
 
-Las rentas que no excedan de 13,5 unidades tributarias anuales, estarán exentas de este impuesto;
+Las rentas que no excedan de 10 unidades tributarias anuales estarán exentas de este impuesto;
 
-Sobre la parte que exceda de 13,5 y no sobrepase las 30 unidades tributarias anuales, 4%;
+Sobre la parte que exceda de 10 y no sobrepase las 30 unidades tributarias anuales, 5%;
 
-Sobre la parte que exceda de 30 y no sobrepase las 50 unidades tributarias anuales, 8%;
+Sobre la parte que exceda de 30 y no sobrepase las 50 unidades tributarias anuales, 10%;
 
-Sobre la parte que exceda de 50 y no sobrepase las 70 unidades tributarias anuales, 13,5%;
+Sobre la parte que exceda de 50 y no sobrepase las 70 unidades tributarias anuales, 15%;
 
-Sobre la parte que exceda de 70 y no sobrepase las 90 unidades tributarias anuales, 23%;
+Sobre la parte que exceda de 70 y no sobrepase las 90 unidades tributarias anuales, 25%;
 
-Sobre la parte que exceda de 90 y no sobrepase las 120 unidades tributarias anuales, 30,4%;
+Sobre la parte que exceda de 90 y no sobrepase las 120 unidades tributarias anuales, 35%;
 
-Sobre la parte que exceda de 120 y no sobrepase las 310 unidades tributarias anuales, 35%; y
+Sobre la parte que exceda de 120 y no sobrepase las 150 unidades tributarias anuales, 45%;
 
-Sobre la parte que exceda de 310 unidades tributarias anuales, 40%.
+Sobre la parte que exceda las 150 unidades tributarias anuales, 50%.
 
-La tasa que en definitiva se aplique de acuerdo con este artículo con motivo de lo dispuesto en el artículo 14, podrá llegar hasta un máximo de 44,45%, para cuyo efecto se aplicará lo señalado en el artículo 56.
+> **Nota.** NOTA: 32 El artículo 4º de la LEY 17989, estableció que esta modificación regirá a contar del año tributario 1982.
 
-#### Artículo 52° bis
+> **Nota.** NOTA: 33 La escala de tasas contemplada en este artículo regirá desde el año tributario 1989. (Ley 18293, art. 2° inciso final, modificada por el art. 2°, de la Ley N° 18.489).
 
-El Presidente de la República, los ministros de Estado, los subsecretarios, los senadores y los diputados, que obtengan mensualmente rentas del artículo 42, número 1 de la presente ley, provenientes de dicha función, y que superen el equivalente a 150 unidades tributarias mensuales, se gravarán con el Impuesto Único de Segunda Categoría aplicando al efecto las escalas de tasas que se indica en la letra a) siguiente, en reemplazo de la contenida en el artículo 43, número 1. Para estos efectos se considerará el valor de la unidad tributaria del mes respectivo.
+> **Nota.** NOTA: 34 Durante los años tributarios 1985, 1986, 1987 y 1988 la escala de tasas contenida en el presente artículo 52, será la que indica el artículo 2° transitorio, letras a), b) y c) de la Ley 18293, modificada por el art. 8° de la Ley N° 18.489.
 
-Las autoridades a que se refiere el inciso anterior que obtengan rentas provenientes de las funciones señaladas y deban gravarse respecto de ellas con el Impuesto Global Complementario, cuando superen el equivalente a 150 unidades tributarias anuales, se gravarán con dicho tributo, aplicando al efecto la escala de tasas que se indica en la letra b) siguiente, en reemplazo de la contenida en el artículo 52 de la presente ley. Para estos efectos se considerará el valor de la unidad tributaria anual del último mes del año comercial respectivo.
-
-Para la aplicación del Impuesto Global Complementario de los contribuyentes a que se refiere el inciso primero, cuando deban incluir otras rentas distintas de las señaladas anteriormente en su declaración anual de impuesto, se aplicará el referido tributo sobre el conjunto de ellas de acuerdo a las reglas generales sobre la materia, y considerando la escala de tasas señalada en el inciso anterior. No obstante ello, cuando la suma de las otras rentas, no señaladas en este artículo, exceda de la suma de 150 unidades tributarias anuales, se dará de crédito contra el impuesto que resulte de aplicar la escala mencionada al conjunto de rentas, la cantidad que resulte de multiplicar el referido exceso por una tasa de 5%.
-
-a) Las rentas del artículo 42, número 1, que obtengan mensualmente quedarán gravadas de la siguiente manera:
-
-1.- Rentas mensuales a que se refiere el N° 1 del artículo 42, a las cuales se aplicará la siguiente escala de tasas:
-
-Sobre la parte que exceda de 13,5 y no sobrepase las 30 unidades tributarias mensuales, 4%.
-
-Sobre la parte que exceda de 30 y no sobrepase las 50 unidades tributarias mensuales, 8%.
-
-Sobre la parte que exceda de 50 y no sobrepase las 70 unidades tributarias mensuales, 13,5%.
-
-Sobre la parte que exceda de 70 y no sobrepase las 90 unidades tributarias mensuales, 23%.
-
-Sobre la parte que exceda de 90 y no sobrepase las 120 unidades tributarias mensuales, 30,4%.
-
-Sobre la parte que exceda de 120 y no sobrepase las 150 unidades tributarias mensuales, 35%.
-
-Sobre la parte que exceda de 150 unidades tributarias mensuales, 40%.
-
-b) Las rentas gravadas con el impuesto global complementario quedarán gravadas de la siguiente manera:
-
-Las rentas que no excedan de 13,5 unidades tributarias anuales, estarán exentas de este impuesto.
-
-Sobre la parte que exceda de 13,5 y no sobrepase las 30 unidades tributarias anuales, 4%.
-
-Sobre la parte que exceda de 30 y no sobrepase las 50 unidades tributarias anuales, 8%.
-
-Sobre la parte que exceda de 50 y no sobrepase las 70 unidades tributarias anuales, 13,5%.
-
-Sobre la parte que exceda de 70 y no sobrepase las 90 unidades tributarias anuales, 23%.
-
-Sobre la parte que exceda de 90 y no sobrepase las 120 unidades tributarias anuales, 30,4%.
-
-Sobre la parte que exceda de 120 y no sobrepase las 150 unidades tributarias anuales, 35%.
-
-Sobre la parte que exceda las 150 unidades tributarias anuales, 40%.
+> **Nota.** NOTA: 35 El artículo 1º de la LEY 19622, publicada el 29.07.1999, dispuso que los contribuyentes de este artículo, podrán deducir de sus rentas afectas a los impuestos respectivos, las cuotas que paguen en el año comercial que corresponda, por las obligaciones con garantía hipotecaria contraidas con bancos e instituciones financieras y agentes administradores de créditos hipotecarios endosables, que operen en el país, en la adquisición de una vivienda nueva acogida a las normas del decreto con fuerza de ley Nº 2, de 1959, que se constituya en garantía hipotecaria de dichas obligaciones.
 
 #### Artículo 53°
 
-Los cónyuges que estén casados bajo el régimen de participación en los gananciales o de separación de bienes, sea ésta convencional, legal o judicial, incluyendo la situación contemplada en el artículo 150 del Código Civil, así como los convivientes civiles que se sometan al régimen de separación total de bienes, declararán sus rentas independientemente.
+Los cónyuges que estén bajo el régimen de separación de bienes, sea ésta convencional, legal o judicial, incluyendo la situación contemplada en el artículo 150 del Código Civil, declararán sus rentas independiente mente.
 
-Sin embargo, los cónyuges o convivientes civiles con separación total convencional de bienes deberán presentar una declaración conjunta de sus rentas cuando los cónyuges no hayan liquidado efectivamente la sociedad conyugal o conserven sus bienes en comunidad o cuando los convivientes civiles no hayan liquidado su comunidad de bienes, o cuando, en uno u otro caso, cualquiera de ellos tuviere poder del otro para administrar o disponer de sus bienes.
-
-> **Nota.** El artículo 2º de la LEY 19347, publicada el 17.11.1994, dispuso que ésta norma regirá a contar de la misma fecha en que deba entrar en vigencia la LEY 19335, en conformidad con lo establecido en su artículo 37, que dice, a la letra: "Esta ley entrará en vigencia, con excepción de lo dispuesto en los números 8 y 9 de su artículo 28, transcurridos 3 meses desde su publicación.
+Sin embargo, los cónyuges con separación total convencional de bienes deberán presentar una declaración conjunta de sus rentas, cuando no hayan liquidado efectivamente la sociedad conyugal o conserven sus bienes en comunidad o cuando cualquiera de ellos tuviere poder del otro para administrar o disponer de sus bienes.
 
 ### Párrafo 2°
 
@@ -2678,135 +870,51 @@ De la base imponible
 
 Para los efectos del presente impuesto, la expresión renta bruta global comprende:
 
-1°.- La totalidad de las cantidades percibidas o retiradas por el contribuyente a cualquier título desde la empresa, comunidad o sociedad respectiva, en conformidad a lo dispuesto en el artículo 14 y en el número 7°.- del artículo 17 de esta ley.
+1°- La suma de las rentas imponibles devengadas o percibidas por el contribuyente, de acuerdo con las normas de las categorías anteriores.
 
-Las cantidades a que se refieren los literales i) al iv) del inciso tercero del artículo 21, en la forma y oportunidad que dicha norma establece, gravándose con el impuesto de este título el que se aplicará incrementado en un monto equivalente al 10% sobre las citadas partidas. Asimismo, formarán parte de la renta bruta global las rentas asignadas en virtud de lo establecido en el número 8 de la letra D) del artículo 14.
+Se comprenderá también la totalidad de las cantidades distribuidas a cualquier título por las sociedades anónimas y en comandita por acciones, constituidas en Chile, respecto de sus accionistas salvo la distribución de utilidades o fondos acumulados que éstas efectúen en forma de acciones, total o parcialmente liberadas o mediante el aumento del valor nominal de las acciones, todo ello representativo de una capitalización equivalente, y con excepción, también, en caso de liquidación de la sociedad respectiva de las devoluciones de capital reajustado en conformidad a la ley y de las devoluciones de fondos provenientes de ganancias de capital obtenidas con anterioridad a la vigencia de la presente ley, y con excepción finalmente, y previo informe de la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, en caso de división de sociedades anónimas, de la distribución de acciones recibidas de otras sociedades anónimas constituidas con parte del patrimonio de las primeras para el desempeño de una o más de las actividades de su giro.
 
-Se incluirán también las rentas o cantidades percibidas de empresas o sociedades constituidas en el extranjero y aquellas que resulten de la aplicación de lo dispuesto en el artículo 41 G, en ambos casos luego de haberse gravado previamente con el impuesto de primera categoría cuando corresponda, y las rentas establecidas con arreglo a lo dispuesto en los artículos 70 y 71.
+Tratándose de socios de sociedades de personas, se comprenderá en la renta bruta global todos los ingresos, beneficios, utilidades o participaciones que les corresponda en la respectiva sociedad, de conformidad a lo dispuesto en el artículo 14, siempre que no estén excepcionados por el artículo 17.
 
-Las rentas del artículo 20, número 2, y las rentas referidas en el número 8 del artículo 17, obtenidas por personas naturales que no estén obligadas a declarar según contabilidad, podrán compensarse rebajando las pérdidas de los beneficios que se hayan derivado de este mismo tipo de inversiones en el año calendario.
+2°- Las rentas exentas del impuesto de categoría o sujetas a impuestos sustitutivos, que se encuentren afectas al impuesto global complementario de acuerdo con las leyes respectivas. Las rentas que gocen de la rebaja parcial de la tasa del impuesto de categoría, en virtud de leyes especiales, quedarán afectas en su totalidad al impuesto global complementario, salvo que la ley respectiva las exima también de dicho impuesto. En este último caso, dichas rentas se incluirán en la renta bruta global para los efectos de lo dispuesto en el número siguiente.
 
-Se incluirán también todas las demás rentas que se encuentren afectas al impuesto de este título, y que no estén señaladas de manera expresa en el presente número o los siguientes.
+3°- Las rentas totalmente exentas de impuesto global complementario, las rentas parcialmente exentas de este tributo, en la parte que lo estén, las rentas sujetas a impuestos sustitutivos especiales y las rentas referidas en el N° 1 del artículo 42°.
 
-Cuando corresponda aplicar el crédito establecido en el artículo 56, número 3, tratándose de las cantidades referidas en el párrafo primero de este número, retiradas o distribuidas de empresas sujetas a las disposiciones de la letra A) del artículo 14, se agregará un monto equivalente a dicho crédito para determinar la renta bruta global del mismo ejercicio. Se procederá en los mismos términos cuando corresponda aplicar el crédito contra impuestos finales establecido en el artículo 41 A.
+Las rentas comprendidas en este número, se incluirán en la renta bruta global, sólo para los efectos de aplicar la escala progresiva del impuesto global complementario; pero se dará de crédito contra el impuesto que resulte de aplicar la escala mencionada al conjunto de las rentas a que se refiere este artículo, el impuesto que afectaría a las rentas exentas señaladas en este número si se les aplicara aisladamente la tasa media que, según dicha escala, resulte para el conjunto total de rentas del contribuyente.
 
-2°.- Las rentas exentas del impuesto de categoría o sujetas a impuestos sustitutivos, que se encuentren afectas al impuesto global complementario de acuerdo con las leyes respectivas. Las rentas que gocen de la rebaja parcial de la tasa del impuesto de categoría, en virtud de leyes especiales quedarán afectas en su totalidad al impuesto global complementario, salvo que la ley respectiva las exima también de dicho impuesto. En este último caso, dichas rentas se incluirán en la renta bruta global para los efectos de lo dispuesto en el número siguiente.
+La obligación de incluir las rentas exentas en la renta bruta global, no regirá de aquellas rentas que se encuentran exentas del impuesto global complementario en virtud de contratos suscritos por autoridad competente, en conformidad a la ley vigente al momento de la concesión de las franquicias respectivas.
 
-3°.- Las rentas totalmente exentas de impuesto global complementario, las rentas parcialmente exentas de este tributo, en la parte que lo estén, las rentas sujetas a impuestos sustitutivos especiales y las rentas referidas en el N° 1 del artículo 42°.
+Para los fines de su inclusión en la renta bruta global, las rentas clasificadas en los artículos 42° N° 1 y 48°, como asimismo aquéllas que no han sido objeto de reajuste o de corrección monetaria en virtud de otras disposiciones de la presente ley, deberán reajustarse de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el segundo mes anterior a la fecha de obtención de la renta y el mes de Octubre del año respectivo. La Dirección Nacional podrá establecer un solo porcentaje de reajuste a aplicarse al monto total de las rentas aludidas, considerando las variaciones generalizadas de dichas rentas en el año respectivo, las variaciones del índice de precios al consumidor y los períodos en que dichas variaciones se han producido.
 
-Las rentas comprendidas en este número, se incluirán en la renta bruta global sólo para los efectos de aplicar la escala progresiva del impuesto global complementario; pero se dará de crédito contra el impuesto que resulte de aplicar la escala mencionada al conjunto de las rentas a que se refiere este artículo, el impuesto que afectaría a las rentas exentas señaladas en este número si se les aplicara aisladamente la tasa media que, según dicha escala, resulte para el conjunto total de rentas del contribuyente.
-
-Tratándose de las rentas referidas en el N° 1 del artículo 42, se dará de crédito el impuesto único a la renta retenido por dichas remuneraciones, reajustado en la forma indicada en el artículo 75.
-
-La obligación de incluir las rentas exentas en la renta bruta global, no regirá respecto de aquellas rentas que se encuentran exentas del impuesto global complementario en virtud de contratos suscritos por autoridad competente, en conformidad a la ley vigente al momento de la concesión de las franquicias respectivas.
-
-Para los fines de su inclusión en la renta bruta global, las rentas clasificadas en los artículos 42° N° 1 y 48°, como asimismo todas aquellas rentas o cantidades a que se refieren los literales i) al iv), del inciso tercero del artículo 21 que no han sido objeto de reajuste o de corrección monetaria en virtud de otras disposiciones de la presente ley, deberán reajustarse de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes que antecede al de la obtención de la renta o desembolso de las cantidades referidas y el último día del mes de noviembre del año respectivo. La Dirección Nacional podrá establecer un solo porcentaje de reajuste a aplicarse al monto total de las rentas o cantidades aludidas, considerando las variaciones generalizadas de dichas rentas o cantidades en el año respectivo, las variaciones del índice de precios al consumidor y los periodos en que dichas variaciones se han producido.
-
-Tratándose de rentas o cantidades establecidas mediante balances practicados en fechas diferentes al 31 de diciembre, dichas rentas o cantidades se reajustarán adicionalmente en el porcentaje de variación experimentada por el índice de precios al consumidor entre el último día del mes anterior al del balance y el mes de noviembre del año respectivo.
-
-4°. Los intereses provenientes de los instrumentos de deuda de oferta pública a que se refiere el artículo 104, los que se gravarán cuando se hayan devengado en la forma establecida en el número 2º del artículo 20.
-
-> **Nota.** El Art. 4º del DL 1533, Hacienda, publicado el 29.07.1976, dispone que las modificaciones introducidas a este artículo regirán a contar del día primero del mes siguiente al de su publicación.NOTA 9: El artículo 1º transitorio de la LEY 20170, publicada el 21.02.2007, dispone que las modificaciones introducidas por la presente norma, rigen a contar del 1º de enero del año 2007.
-
-> **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, dispone que las modificaciones introducidas por la presente norma, regirán a contar del 1º de enero de 1984, sin perjuicio de vigencias especiales indicadas por la citada Ley.
-
-> **Nota.** NOTA: 2 El inciso 2º de la LEY 18293, publicada el 31.01.1984, dispone que la modificación introducida por a este artículo rige desde el año tributario 1987.
-
-> **Nota.** NOTA: 3 El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
-
-> **Nota.** NOTA. 4 El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
-
-> **Nota.** NOTA: 7 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-> **Nota.** NOTA: 8 Ver artículo 18 de la LEY 19578, sobre vigencia de la modificación.
-
-#### Artículo 54° bis
-
-Eliminado.
+Tratándose de rentas establecidas mediante balances practicados en fechas diferentes al 31 de Diciembre, dichas rentas se reajustarán adicionalmente en el porcentaje de variación experimentada por el índice de precios al consumidor entre el mes anterior al del balance y el mes de Octubre del año respectivo.
 
 #### Artículo 55°
 
-Para determinar la renta neta global se deducirán de la renta bruta global las siguientes cantidades:
+Para determinar la renta neta global se deducirá de la renta bruta global el monto del impuesto territorial y de los impuestos de categorías, pagados en el año calendario a que corresponda la renta bruta global. Los impuestos de categorías, por aquella parte que se cumpla mediante la imputación de pagos provisionales mensuales y/o de impuestos retenidos, se considerarán pagados en el mes en que debe presentarse la respectiva declaración de renta. No procederá la deducción de los impuestos referidos en los artículos 20° N° 6 y 43 N° 1 ni del impuesto territorial respecto de bienes raíces cuyas rentas no se computan en la renta bruta global.
 
-a) El impuesto territorial efectivamente pagado en el año calendario o comercial a que corresponda la renta bruta global, incluso el correspondiente a la parte de los bienes raíces destinados al giro de las actividades indicadas en los artículos 20 Nos, 3°, 4° y 5° y 42° N° 2. No procederá esta rebaja en el caso de bienes raíces cuyas rentas no se computen en la renta bruta global así como tampoco en aquellos casos en que el impuesto territorial sea crédito contra el impuesto de este título.
+Tratándose de socios de sociedades de personas, excluidos los accionistas de sociedades en comandita por acciones, también procederá la deducción de impuestos de categorías pagados por la respectiva sociedad, en la proporción correspondiente a cada socio según su participación en las utilidades sociales.
 
-b) Las cotizaciones a que se refiere el inciso primero del artículo 20 del decreto ley N° 3.500, de 1980, efectivamente pagadas por el año comercial al que corresponda la renta bruta global, que sean de cargo del contribuyente empresario individual, socio de sociedades de personas o socio gestor de sociedades en comandita por acciones, siempre que dichas cotizaciones se originen en las rentas que retiren las citadas personas en empresas o sociedades que sean contribuyentes del impuesto de Primera Categoría y que determinen su renta imponible sobre la base de un balance general según contabilidad. Esta deducción no procederá por las cotizaciones correspondientes a las remuneraciones a que se refiere el inciso tercero del número 6 del artículo 31.
-
-En el caso de sociedades de personas, excluidos los accionistas de sociedades en comandita por acciones, la deducción indicada en la letra a) precedente podrán ser impetradas por los socios en proporción a la forma en que se distribuyan las utilidades sociales.
-
-Las cantidades cuya deducción autoriza este artículo y que hayan sido efectivamente pagadas en el año calendario o comercial anterior a aquél en que debe presentarse la declaración de este tributo, se reajustarán de acuerdo con el porcentaje de variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes que antecede al del pago del impuesto o de la cotización previsional, según corresponda, y el mes de noviembre del año correspondiente.
-
-> **Nota.** El artículo 15 Nº 1 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que las modificaciones introducidas a la presente norma, regirán a contar del año tributario 1977.
-
-> **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
-
-> **Nota.** NOTA: 2 El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
-
-> **Nota.** NOTA: 3 Las modificaciones introducidas por el artículo 1º de la LEY 18897, publicada el 09.01.1990, rigen según lo dispone su artículo 2º, desde el año tributario 1990.
-
-> **Nota.** NOTA: 4 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-#### Artículo 55° bis
-
-Los contribuyentes personas naturales, gravados con este impuesto, o con el establecido en el artículo 43º Nº 1, podrán rebajar de la renta bruta imponible anual los intereses efectivamente pagados durante el año calendario al que corresponde la renta, devengados en créditos con garantía hipotecaria que se hubieren destinado a adquirir o construir una o más viviendas, o en créditos de igual naturaleza destinados a pagar los créditos señalados.
-
-Para estos efectos se entenderá como interés deducible máximo por contribuyente, la cantidad menor entre 8 unidades tributarias anuales y el interés efectivamente pagado. La rebaja será por el total del interés deducible en el caso en que la renta bruta anual sea inferior al equivalente de 90 unidades tributarias anuales, y no procederá en el caso en que ésta sea superior a 150 unidades tributarias anuales. Cuando dicha renta sea igual o superior a 90 unidades tributarias anuales e inferior o igual a 150 unidades tributarias anuales, el monto de los intereses a rebajar se determinará multiplicando el interés deducible por el resultado, que se considerará como porcentaje, de la resta entre 250 y la cantidad que resulte de multiplicar el factor 1,667 por la renta bruta anual del contribuyente, expresada en unidades tributarias anuales.
-
-Esta rebaja podrá hacerse efectiva sólo por un contribuyente persona natural por cada vivienda adquirida con un crédito con garantía hipotecaria. En el caso que ésta se hubiere adquirido en comunidad y existiere más de un deudor, deberá dejarse constancia en la escritura pública respectiva, de la identificación del comunero que se podrá acoger a la rebaja que dispone este artículo.
-
-Para los efectos de la aplicación de lo dispuesto en este artículo, las personas gravadas con el impuesto establecido en el Nº 1 del artículo 43º, deberán efectuar una reliquidación anual de los impuestos retenidos durante el año, deduciendo del total de sus rentas imponibles, las cantidades rebajables de acuerdo al inciso primero. Al reliquidar deberán aplicar la escala de tasas que resulte en valores anuales, según la unidad tributaria del mes de diciembre y los créditos y demás elementos de cálculo del impuesto.
-
-Para la aplicación de lo dispuesto en el inciso anterior, las rentas imponibles se reajustarán en conformidad con lo dispuesto en el inciso penúltimo del número 3 del artículo 54º y los impuestos retenidos según el artículo 75º. Para estos efectos y del Impuesto Global Complementario, se aplicará a los intereses deducibles la reajustabilidad establecida en el inciso final del artículo 55º.
-
-La cantidad a devolver que resulte de la reliquidación a que se refieren los dos incisos precedentes, se reajustará en la forma dispuesta en el artículo 97º y se devolverá por el Servicio de Tesorerías, en el plazo que señala dicha disposición.
-
-Las entidades acreedoras deberán proporcionar tanto al Servicio de Impuestos Internos como al contribuyente, la información relacionada con los créditos a que se refiere este artículo, por los medios, forma y plazos que dicho Servicio determine.
-
-> **Nota.** La letra e) del Art. 1º transitorio de la LEY 19753, publicada el 28.09.2001, dispuso que lo previsto en la presente modificación rige para los intereses que se paguen a contar del 1 de enero del año 2001.
-
-#### Artículo 55° ter
-
-Los contribuyentes personas naturales, gravados con este impuesto, o con el establecido en el artículo 43, número 1, podrán imputar anualmente como crédito, en contra de dichos tributos, la cantidad de 4,4 unidades de fomento por cada hijo, según su valor al término del ejercicio. Este crédito se otorga en atención a los pagos a instituciones de enseñanza pre escolar, básica, diferencial y media, reconocidas por el Estado, por concepto de matrícula y colegiatura de sus hijos y, asimismo, por los pagos de cuotas de centros de padres, transporte escolar particular y todo otro gasto de similar naturaleza y directamente relacionado con la educación de sus hijos. El referido crédito se aplicará conforme a las reglas de los siguientes incisos.
-
-Sólo procederá el crédito respecto de hijos no mayores de 25 años, que cuenten con el certificado de matrícula emitido por alguna de las instituciones señaladas en el inciso anterior y que exhiban un mínimo de asistencia del 85%, salvo impedimento justificado o casos de fuerza mayor, requisitos todos, que serán especificados en un reglamento del Ministerio de Educación.
-
-La suma anual de las rentas totales del padre y de la madre, se hayan o no gravado con estos impuestos, no podrá exceder de 792 unidades de fomento anuales, según el valor de ésta al término del ejercicio.
-
-Para los efectos de la aplicación de lo dispuesto en este artículo, los contribuyentes gravados con el impuesto establecido en el Nº 1 del artículo 43, deberán efectuar una reliquidación anual de los impuestos retenidos durante el año. Al reliquidar deberán aplicar la escala de tasas que resulte en valores anuales, según la unidad tributaria del mes de diciembre y los créditos y demás elementos de cálculo del impuesto.
-
-Para la aplicación de lo dispuesto en el inciso anterior, las rentas se reajustarán en conformidad con lo dispuesto en el inciso penúltimo del artículo 54 y los impuestos retenidos según el artículo 75. Por su parte, el monto del crédito de 4,4 unidades de fomento se considerará según el valor de la misma al término del respectivo ejercicio.
-
-Cuando con motivo de la imputación del crédito establecido en este artículo proceda devolver el todo o parte de los impuestos retenidos o de los pagos provisionales efectuados por el contribuyente, la devolución que resulte de la reliquidación a que se refiere el inciso quinto anterior, se reajustará en la forma dispuesta en el artículo 97 y se devolverá por el Servicio de Tesorerías, en el plazo que señala dicha disposición. Si el monto del crédito establecido en este artículo excediere los impuestos señalados, dicho excedente no podrá imputarse a ningún otro impuesto ni solicitarse su devolución.
-
-Las instituciones de educación pre escolar, básica, diferencial y media, y los contribuyentes que imputen este crédito, deberán entregar al Servicio la información y documentación pertinente para acreditar el cumplimiento de los requisitos, por los medios, forma y plazos que dicho Servicio establezca mediante resolución.
+Las cantidades cuya deducción autoriza este artículo se reajustarán de acuerdo con el porcentaje de variación experimentada por el Indice de Precios al Consumidor en el período comprendido entre el segundo mes anterior al del pago del impuesto respectivo y el mes de Octubre del año correspondiente.
 
 #### Artículo 56°
 
-A los contribuyentes afectos a este impuesto se les otorgarán los siguientes créditos contra el impuesto final resultante, créditos que deberán imputarse en el orden que a continuación se establece:
+A los contribuyentes afectos a este impuesto se les otorgará los siguientes créditos contra el impuesto final resultante:
 
-1) DEROGADO
+1°- Todo contribuyente gozará de un crédito igual a un 10% de una unidad tributaria anual.
 
-2) La cantidad que resulte de aplicar las normas del N° 3 del artículo 54.
+2°- El contribuyente que tenga a su cargo personas que den origen al goce de asignación familiar, tendrá derecho, además, a un crédito igual a un 10% de una unidad tributaria anual por cada carga familiar. En el caso de contribuyentes no acogidos a un régimen de previsión, también darán derecho al goce de este crédito las personas a su cargo, cuando cumplan los requisitos que exige la Caja de Previsión de los Empleados Particulares para reconocerlas como cargas familiares.
 
-3) La cantidad que resulte de aplicar a las rentas o cantidades que se encuentren incluidas en la renta bruta global, la misma tasa del impuesto de primera categoría con la que se gravaron. También tendrán derecho a este crédito por impuesto de primera categoría y el crédito contra impuestos finales que establece el artículo 41 A, por el monto que se determine conforme a lo dispuesto en el N°5, de la letra A), del artículo 14, sobre las rentas retiradas o distribuidas desde empresas sujetas a tal disposición, por la parte de dichas cantidades que integren la renta bruta global de las personas aludidas, sea que al momento de generarse dichos créditos la entidad respectiva tenga o no propietarios contribuyentes de impuestos finales. Asimismo, tendrán derecho a crédito las personas naturales que sean socios o accionistas de sociedades, por las cantidades obtenidas por éstas en su calidad de socias o accionistas de otras sociedades, por la parte de dichas cantidades que integre la renta bruta global de las personas aludidas. También procederá el crédito que corresponda por aplicación de los números 3 y 4 de la letra D) del artículo 14 y de las letras (a) y (d) del número 8 de la referida letra D). En los demás casos, procederá el crédito por el impuesto de primera categoría que hubiere gravado las demás rentas o cantidades incluidas en la renta bruta global.
+Serán incompatibles los créditos contra el impuesto establecido en este número y en el anterior con los señalados en el artículo 44. Por consiguiente, los contribuyentes que obtengan rentas del N° 1 del artículo 42° no tendrán derecho a los créditos del N° 1 y del presente, respecto de un mismo período.
 
-En ningún caso dará derecho al crédito referido en el inciso anterior, el impuesto establecido en el artículo 20 determinado sobre rentas presuntas y de cuyo monto pueda rebajarse el impuesto territorial pagado.
+3°- La cantidad que resulte de aplicar un 40% sobre el monto de las rentas gravadas conforme al inciso segundo del N° 1 del artículo 54, siempre que hayan estado afectadas por el impuesto del artículo 21°.
 
-Sin perjuicio de lo anterior, los contribuyentes que utilicen el crédito por impuesto de primera categoría sujeto a la obligación de restitución acumulado en el registro SAC de empresas sujetas al artículo 14, sea que éste se impute contra los impuestos que deba declarar anualmente el contribuyente o que el contribuyente solicite una devolución del excedente que se determine, deberán restituir a título de débito fiscal, una cantidad equivalente al 35% del monto del referido crédito. Para todos los efectos legales, dicho débito fiscal se considerará un mayor impuesto global complementario determinado. En todo caso, esta obligación de restitución no será aplicable en caso que el crédito sea utilizado por cooperados cuya renta imponible no exceda de 50 unidades tributarias anuales.
+4°- La cantidad que resulte de aplicar las normas del N° 3 del artículo 54.
 
-4) La cantidad que resulte de aplicar una tasa del 5%, sobre aquella parte de la suma total de retiros o dividendos afectos a impuesto global complementario percibidos en el ejercicio y que tengan derecho al crédito establecido en el número 3 anterior sujeto a la obligación de restitución, que exceda de trescientas diez unidades tributarias anuales, según el valor de ésta al término del ejercicio. Para estos efectos, los referidos retiros o dividendos se incrementarán en el monto del crédito señalado en el número 3 anterior y en el monto del crédito contra impuestos finales que corresponda conforme a la letra A) del artículo 41 A.
-
-5) En el caso de personas naturales propietarias o usufructuarias de bienes raíces no agrícolas, que tributen en renta efectiva por la explotación de dichos bienes mediante el respectivo contrato, podrán imputar como crédito el impuesto territorial pagado hasta el monto neto del impuesto global complementario determinado. El referido crédito se imputará antes de los que dan derecho a imputación o a devolución. En caso de generarse un excedente, éste no tendrá derecho a devolución ni a imputación a otro impuesto. Para este efecto, el respectivo impuesto territorial deberá estar pagado dentro del año comercial respectivo.
-
-Los créditos o deducciones que las leyes permiten rebajar de los impuestos establecidos en esta ley y que dan derecho a devolución del excedente se aplicarán a continuación de aquéllos no susceptibles de reembolso.
-
-Si el monto de los créditos establecidos en este artículo excediere del impuesto de este Título, dicho excedente no podrá imputarse a ningún otro impuesto ni solicitarse su devolución, salvo que el exceso provenga del crédito establecido en el N° 3 de este artículo, respecto de las cantidades efectivamente gravadas en primera categoría, con excepción de la parte en que dicho tributo haya sido cubierto con el crédito por el impuesto territorial pagado, o del indicado en el N° 2 de este artículo, respecto de las cantidades señaladas en el inciso tercero, del N° 3 del artículo 54, en cuyo caso se devolverá conforme al artículo 97. Para este efecto, la empresa anotará separadamente la parte del saldo acumulado de crédito que haya sido cubierto por el impuesto territorial pagado.
-
-> **Nota.** NOTA: 3 La letra b) del Art. 1° transitorio de la LEY 19753, publicada el 28.09.2001, dispuso que la modificación introducida a este artículo regirá desde el 1° de enero de 2002, por las rentas que se obtengan desde esa fecha.
+Si el monto de los créditos establecidos en este artículo excediere del impuesto de este Título, dicho excedente no podrá imputarse a ningún otro impuesto ni solicitarse ningún otro impuesto ni solicitarse devolución.
 
 #### Artículo 57°
 
-Estarán exentas del impuesto global complementario las rentas del artículo 20 N° 2 cuando el monto total de ellas no exceda en conjunto de veinte unidades tributarias mensuales vigentes en el mes de diciembre de cada año, y siempre que dichas rentas sean percibidas por contribuyentes cuyas otras rentas consistan únicamente en aquellas sometidas a la tributación de los artículos 22 y/o 42° N° 1. En los mismos términos y por igual monto estarán exentas del impuesto de primera categoría y del impuesto global complementario las rentas provenientes de mayor valor en la enajenación de acciones de sociedades anónimas o derechos en sociedades de personas.
+Estarán exentas del impuesto global complementario las rentas del artículo 20 N° 2 cuando el monto total de ellas no exceda en conjunto de veinte unidades tributarias mensuales vigentes en el mes de diciembre de cada año, y siempre que dichas rentas sean percibidas por contribuyentes cuyas otras rentas consistan únicamente en aquellas sometidas a la tributación de los artículos 22 y/o 42° N° 1. En los mismos términos y por igual monto estarán exentas del impuesto de primera categoría y del impuesto global complementario las rentas provenientes de mayor valor en la enajenación de acciones de sociedades anónimas.
 
 Asimismo estará exento del impuesto global complementario el mayor valor obtenido en el rescate de cuotas de fondos mutuos por los contribuyentes señalados en el inciso anterior cuando su monto no exceda de 30 unidades tributarias mensuales vigentes al mes de diciembre de cada año.
 
@@ -2818,9 +926,111 @@ INCISO FINAL DEROGADO
 
 > **Nota.** NOTA: 1 El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
 
-#### Artículo 57° bis
+#### Artículo 57 bis
 
-Derogado.
+Las personas gravadas con los impuestos establecidos en los artículos 43, N° 1, o 52 de esta ley, tendrán derecho a las deducciones y créditos que se mencionan en las letras que siguen, en la forma y condiciones que, para cada caso, se indica:
+
+A.- Acciones de sociedades anónimas abiertas.
+
+-
+
+Las personas referidas en este artículo podrán rebajar de sus rentas imponibles determinadas sobre la base de ingresos efectivos, y por cada año comercial, las siguientes cantidades:
+
+1° El 20% del valor efectivamente invertido en acciones de pago de sociedades anónimas abiertas, de que sean primeros dueños por más de un año al 31 de diciembre.
+
+Las cantidades deducibles por este concepto no podrán exceder en su conjunto, en cada año, de la cifra menor entre el 20% de la renta imponible que provenga de ingresos efectivos del contribuyente antes de efectuar la rebaja que autoriza este número, o 50 unidades tributarias anuales al 31 de diciembre de cada año. El remanente que se produzca no podrá deducirse de las rentas de los años siguientes.
+
+2° Un porcentaje de la suma total de los dividendos percibidos de sociedades anónimas abiertas y de las ganancias o pérdidas de capital producidas en la enajenación de acciones de dichas sociedades, que hayan sido considerados para determinar la renta bruta global.
+
+El porcentaje que se deducirá es 50% en la parte de la suma mencionada que no exceda de 50 unidades tributarias anuales, y 20% en el exceso de dicha cifra. Con todo, la cantidad final a rebajar no podrá exceder a las rentas netas declaradas de acuerdo con el inciso séptimo del número 1° del artículo 54 de esta ley.
+
+3° Para la aplicación de las rebajas dispuestas en esta letra, las inversiones, los dividendos y las ganancias o pérdidas en la enajenación de acciones, se reajustarán según la variación del índice de precios al consumidor entre el último día del mes anterior a la inversión, percepción del dividendo o enajenación, en su caso, y el último día del mes anterior al cierre del ejercicio.
+
+-
+
+B.- Otras inversiones.
+
+-
+
+Las personas referidas en este artículo que opten por invertir en los instrumentos o valores que se mencionan más adelante, en aquellas instituciones que se acojan al sistema establecido en esta letra, tendrán derecho a un crédito imputable al impuesto global complementario o al impuesto único a las rentas del trabajo, según corresponda o, en su caso, deberán considerar un débito al impuesto, en las condiciones y forma que se indica a continuación:
+
+1° Los instrumentos o valores susceptibles de acogerse al mecanismo que trata esta letra deben ser extendidos a nombre del contribuyente, en forma unipersonal y nominativa. Los instrumentos o valores indicados sólo podrán ser emitidos o tomados por bancos, sociedades financieras, compañías de seguros de vida, fondos mutuos, fondos de inversión y administradoras de fondos de pensiones, establecidos en Chile, los que para este efecto sse denominan Instituciones Receptoras. las compañías de seguros de vida se incluyen en éstas sólo en lo que se refiere a las cuentas de ahorro asociadas a seguros de vida.
+
+Supuesto que se sujeten a las condiciones antes referidas y que se cumplan los requisitos que se mencionan más adelante, se incluyen dentro de los instrumentos o valores indicados, entre otros, los certificados de depósito a plazo, las cuentas de ahorro bancarias, las cuotas de fondos mutuos, las cuentas de ahorro voluntario establecidas en el artículo 21 del decreto ley N° 3.500, de 1980, y las cuentas de ahorro asociadas a los seguros de vida. En ningún caso podrán acogerse al mecanismo de esta letra los instrumentos a plazo fijo de menos de un año. El Servicio de Impuestos Internos establecerá la lista de instrumentos susceptibles de acogerse al mecanismo que trata esta letra, previo informe de la Superintendencia respectiva.
+
+Al momento de hacer cada inversión la persona deberá manifestar a la Institución Receptora su voluntad de acogerse al mecanismo establecido en esta letra. La Institución Receptora deberá dejar constancia de esta circunstancia en el documento que dé cuenta de la inversión efectuada. Una vez ejercida la opción ésta es irrenunciable, quedando el respectivo instrumento o valor sometido a las normas establecidas en esta letra. En el caso de las cuentas de ahorro voluntario a que se refiere el artículo 21 del decreto ley N° 3.500, de 1980, cuando no existan fondos depositados en un año calendario y se efectúe un nuevo depósito o inversión, el ahorrante podrá optar nuevamente por ejercer la opción establecida en este número; cuando en dichas cuentas de ahorro existan fondos que se encuentran acogidos al régimen general de esta ley, se mantendrá sobre ellos el tratamiento tributario que tengan a la fecha de la opción, el cual se aplicará desde los primeros retiros que se efectúen, imputándose éstos a las cuotas más antiguas.
+
+El titular de los instrumentos o valores a que se refiere este número sólo podrá ceder o entregar la propiedad, el uso o el goce o la nuda propiedad de los mismos mediante el mecanismo de la cesión de créditos.
+
+2° Las Instituciones Receptoras deberán llevar una cuenta detallada por cada persona acogida al sistema y por cada instrumento o valor representantivo de ahorro que dicha persona tengan en la respectiva Institución Receptora. En la cuenta se anotará al menos el monto y fecha de toda cantidad que la persona deposite o invierta, y la fecha y monto de cada giro o retiro efectuado o percibido por la persona, sean éstos de capital, utilidades, intereses u otras.
+
+La cesión o entrega, voluntaria o forzosa, de la propiedad, y la cesión voluntaria del uso, el goce o la nuda propiedad, de los insrumentos o valores mencionados en el número anterior, deberá ser considerada por la Institución Receptora como un retiro o giro del total de la inversión incluyendo, sus rentas o intereses, a la fecha de dicha cesión o entrega. La cesión forzosa del goce obligará a considerar sólo los retiros o giros de intereses o rentas a que ella dé lugar.
+
+Para los efectos del inciso anterior, en el caso de la cesión o transferencia de cuotas de fondos mutuos la inversión deberá considerarse al valor menor entre el expresado en el contrato respectivo y el valor de rescate de la cuota del fondo en el día de la transacción. El retiro, en tanto, se considerará de acuerdo con el valor de rescate de la cuota en el día de la transacción, sin perjuicio de aplicarse las reglas generales de esta ley respecto de la ganancia obtenida en la enajenación, en la parte que el valor de la transacción exceda el valor de rescate de la cuota.
+
+Las cuotas de fondos de inversión, para estos mismos efectos, se regirán por las siguientes normas:
+
+- **a)** se considerarán al valor de emisión primaria en el caso de la adquisición por el primer propietario;
+
+- **b)** las transacciones posteriores se registrarán según el valor bursátil de la cuota en el mercado secundario formal en el día de la transacción, de acuerdo con las normas que la Superintendencia de Valores y Seguros establezca para determinar la presencia ajustada bursátil de las cuotas de fondos de inversión;
+
+- **c)** si no pudiera aplicarse la norma anterior, se considerará el valor contable de la cuota de acuerdo con el último estado informado a la Superintendencia de Valores y Seguros, reajustado según la variación del índice de precios al consumidor entre el último día del mes anterior de la presentación de dicho estado y el último día del mes anterior al de la transacción;
+
+- **d)** no obstante para efectos de contabilizar el depósito o inversión se considerará el valor de la transacción respectiva si éste fuera menor que el resultante de las normas de las letras precedentes, y
+
+- **e)** en el retiro o giro, se aplicarán las reglas generales de esta ley, respecto de la ganancia obtenida en la enajenación de cuotas, en la parte que el precio de la enajenación exceda el resultante en las letras
+
+- **b)** y c).
+
+Al 31 de diciembre la Institución Receptora preparará un resumen con el movimiento de las cuentas de cada contribuyente durante el año. Este resumen con el saldo correspondiente deberá ser enviado dentro de los dos meses siguientes al cierre del ejercicio al domicilio que aquél haya informado a la Institución Receptora. En este resumen deberá incluirse el saldo de ahorro neto, cada depósito o inversión y cada giro o retiro efectuado durante el año en las cuentas deberá considerarse proporcionalmente por el número de meses que resten hasta el término del año calendario, incluyendo el mes en que se efectúen. Esta proporción se calculará en relación a un período de doce meses La cantidad que resulte de restar el total de giros o retiros del año del total de depósitos o inversiones, ambos así calculados, constituirá el saldo de ahorro neto. Para los efectos de este inciso los depósitos o inversiones y los giros o retiros deberán ser reajustados según la variación del índice de precios al consumidor entre el último día del mes anterior a aquél en que se hayan efectuado y el último día del mes anterior al del cierre del ejercicio. Los depósitos y giros en instrumentos de ahorro en moneda extranjera se actualizarán según lo dispuesto en el artículo 41, N° 4, de esta ley. La Institución Receptora deberá enviar la información de los resúmenes indicados en este inciso al Servicio de Impuestos Internos, en la oportunidad y forma que éste señale.
+
+Las cantidades proporcionales de cada depósito o giro que según lo indicado no deban incluirse en el cálculo del saldo de ahorro neto del año, deberán sumarse y el saldo resultante tendrá que arrastrarse a la cuenta del año siguiente y sumarse a los depósitos o giros del mismo. El saldo de arrastre total de depósitos y giros deberá incluirse también en el resumen en el inciso anterior. Para su inclusión en el año al que esta cantidad deba arrastrarse, ella se reajustará según la variación del índice de precios al consumidor entre el último día del mes anteior al cierre del ejercicio precedente y el último día del mes anterior al cierre del ejercicio que se trate.
+
+La información de las Instituciones Receptoras relativa al movimiento y estado de las cuentas a que se refiere este número deberá estar disponible para el Servicio de Impuestos Internos.
+
+3° La suma de los saldos de ahorro neto de todos los instrumentos o valores constituirá el ahorro neto del año de la persona.
+
+4° Si la cifra determinada según el número anterior fuera positiva, ésta se multiplicará por la tasa promedio de impuesto de la persona antes de efectuar las rebajas por créditos que confiere la ley. La cantidad resultante constituirá un crédito imputable al impuesto global complementario o impuesto único de segunda categoría, según corresponda. Si el crédito excediera el impuesto Global Complementario del año, el exceso se devolverá al contribuyente en conformidad con el artículo 97 de esta ley.
+
+La cifra de ahorro neto del año a ser considerada en el cálculo del crédito mencionado, no podrá exceder la cantidad menor entre 30% de la renta imponible de la persona o 65 unidades tributarias anuales. El remanente de ahorro neto no utilizado, si lo hubiera, deberá ser agregado por la persona al ahorro neto del año siguiente, reajustado en la misma forma indicada en el penúltimo inciso del número 2° precedente.
+
+5° Si la cifra de ahorro neto del año fuera negativa, ésta, en la parte que exceda del equivalente a diez unidades tributarias anuales de acuerdo a su valor al 31 de diciembre del año respectivo, se multiplicará por la tasa que resulte de dividir el total acumulado de créditos calculados de acuerdo con el número 4° utilizados por el contribuyente desde que se haya acogido al mecanismo de esta letra, por el total acumulado de saldos de ahorro neto en los años en que hayan sido positivos en el mismo período. La cantidad resultante constituirá un débito que se considerará impuesto global complementario o impuesto único de segunda categoría del contribuyente, según corresponda, aplicándole las normas del artículo 72. Para el cálculo de la tasa indicada los créditos se reajustarán según la variación del índice de precios al consumidor entre el último día del mes anterior al cierre del ejercicio en que se hubieran imputado y el último día del mes anterior al cierre del ejercicio en que corresponda calcular dicha tasa. Los saldos de ahorro neto positivo sumarán debidamente reajustados de acuerdo con la variación del índice mencionado, entre el último día del mes anterior al cierre del ejercicio en que se hayan determinado y el último día del mes anterior al del cierre del ejercicio en que se deba calcular la tasa de impuesto de que trata este número.
+
+El débito fiscal no declarado tendrá para todos los efectos legales el carácter de impuesto sujeto a retención, pudiendo el Servicio de Impuestos Internos girarlo sin otro trámite previo.
+
+Los contribuyentes que no cumplan con la declaración del débito fiscal no podrán gozar de los beneficios tributarios establecidos en esta letra, mientras no paguen dicho débito y sus recargos.
+
+6° Las personas que utilicen el mecanismo de que trata esta letra deberán presentar declaraciones anuales de impuesto a la renta por los años en los que usen los créditos indicados en el número 4° o por los que deban aplicar los débitos a que se refiere el número 5° y, en su caso, por el año o años posteriores en los que por aplicación de las reglas precedentes deban arrastrar los excedentes de depósitos y retiros, con excepción de las personas cuya cifra de ahorro neto negativa del año no exceda de las diez unidades tributarias anuales a que se refiere el número 5°.
+
+7° Al fallecimiento de la persona titular de instrumentos de ahorro acogidos al mecanismo descrito en esta letra, se tendrá por retirado el total de las cantidades acumuladas en dichos instrumentos. Sobre tales sumas se aplicará como único impuesto de esta ley el que resulte de las normas del número 5°. La parte que corresponda al impuesto indicado estará exenta del impuesto de herencias establecido en la ley N° 16.271.
+
+El impuesto mencionado en el inciso anterior se determinará por el juez que deba conceder la posesión efectiva de la herencia, en la misma oportunidad que el impuesto de herencia y previo informe del Servicio de Impuestos Internos. El impuesto determinado se rejustará según la variación del índice de precios al consumidor entre el último día del mes anterior al fallecimiento del titular de los instrumentos de ahorro y el último día del mes anterior al de la determinación por el juez. El tributo se retendrá y pagará por las Instituciones Receptoras, a las que el mismo juez instruya al respecto, notificándoles personalmente o por cédula. El impuesto deberá ser enterado en arcas fiscales dentro de los doce primeros días del mes siguiente a aquél en que la o las Instituciones Receptoras sean notificadas. El impuesto establecido en este número tendrá preferencia para ser pagado, sobre los fondos acumulados en los instrumentos mencionados en el número 1°, respecto de toda otra deuda o acreedor del causante.
+
+Si entre los instrumentos o valores de la herencia acogidos al mecanismo de esta letra hubiera cuotas de fondos mutuos o fondos de inversión y si, de acuerdo con la resolución del juez, el todo o parte del impuesto debiera ser pagado con cargo a dichos fondos, el juez podrá ordenar el rescate o enajenación de parte de dichas cuotas hasta por el monto necesario para solventar el pago del tributo reajustado. La venta se efectuará en la forma dispuesta en el artículo 484 del Código de Procedimiento Civil.
+
+8° Si como consecuencia de la enajenación o liquidación forzada, o de una transacción o avenimiento, un instrumento de ahorro de los referidos en esta letra es transferido o liquidado, la Institución Receptora retendrá y pagará en arcas fiscales un impuesto de 15% de la cantidad invertida, incluyendo sus rentas o intereses. Esta retención será hecha por cuenta de la persona que efectuó la inversión, quien podrá considerarla como un pago provisional voluntario de aquéllos señalados en el artículo 88 de esta ley. El pago de esta retención deberá realizarse dentro de los doce primeros días del mes siguiente a aquél en que la Institución Receptora haya sido notificada de la transferencia o liquidación del instrumento. La misma norma se aplicará en el caso de la cesión o entrega forzosa del uso o goce de un instrumento de ahorro pero, en este caso, la retención se aplicará sólo sobre los intereses y rentas que se paguen como consecuencia de tal cesión o entrega.
+
+9° A los giros o retiros de los fondos invertidos en los instrumentos o valores acogidos a los beneficios de esta letra, sea que correspondan a capital, intereses, utilidades u otras, sólo se les aplicará el régimen tributario establecido en esta letra.
+
+10° Los contribuyentes que opten por invertir en instrumentos de ahorro o inversión en conformidad con las normas de esta letra, no podrán acogerse a los beneficios de la letra A respecto de los mismos instrumentos.
+
+11° Lo dispuesto en el número 3° del artículo 17 de esta ley no será aplicable respecto de las indemnizaciones o retiros de seguros de vida, en la parte que corresponda a cuentas de ahorro acogidas al mecanismo establecido en esta letra.
+
+C.- Normas especiales para los contribuyentes del artículo 42, N° 1.-
+
+-
+
+1° Para los efectos de la aplicación de lo dispuesto en el número 1° de la letra A.- y de la determinación del crédito a que se refiere la letra B.- de este artículo, las personas gravadas con el impuesto establecido en el número 1° del artículo 43 de esta ley, deberán efectuar una reliquidación anual de los impuestos retenidos durante el año, deduciendo del total de sus rentas imponibles las cantidades rebajables de acuerdo con el número 1° de esta letra A.-. Al reliquidar deberán aplicar la escala de tasas que resulte en valores anuales según la unidad tributaria al 31 de diciembre, y los créditos y demás elementos de cálculo del impuesto.
+
+Para la aplicación de las normas anteriores, las rentas imponibles se reajustarán en conformidad con lo dispuesto en el inciso penúltimo del artículo 54, y los impuestos retenidos, según el artículo 75, ambos de esta ley.
+
+2° En el caso del número 1°, de la letra A.-, si los impuestos retenidos fueran superiores al que resulte de la reliquidación, la diferencia será devuelta al contribuyente por el Servicio de Tesorerías de acuerdo con las normas del artículo 97 de esta ley.
+
+3° Tratándose del crédito determinado según las normas de la letra B.- y del número 1° de esta letra, también será devuelto al contribuyente por el Servicio de Tesorerías en conformidad con el artículo 97 de esta ley. Respecto del débito calculado en la forma establecida en el número 5 de la letra B.-, deberá ser declarado y pagado por el contribuyente en el mes de abril de cada año, por las sumas de ahorro negativas determinadas en el año anterior.
+
+> **Nota.** NOTA: 37 El Artículo 10 de la Ley N° 19.247, publicada en el "Diario Oficial" de 15 de Septiembre de 1993, ordenó que la modificación introducida al presente artículo regirá a contar del 4 de junio de 1993.
+
+> **Nota.** NOTA: 38 Ver artículos 6° y 7° transitorios de la Ley N° 19.247, publicada en el "Diario Oficial" de 15 de septiembre de 1993.
 
 ## Título IV
 
@@ -2828,205 +1038,65 @@ Del impuesto adicional
 
 #### Artículo 58°
 
-Se aplicará, cobrará y pagará un impuesto adicional a la renta, con tasa del 35%, en los siguientes casos:
+Se aplicará, cobrará y pagará un impuesto adicional a la renta, con tasa del 40%, en los siguientes casos:
 
-1) Las personas naturales que no tengan residencia ni domicilio en Chile y las sociedades o personas jurídicas constituidas fuera del país, incluso las que se constituyan con arreglo a las leyes chilenas y fijen su domicilio en Chile, que tengan en Chile cualquiera clase de establecimientos permanentes, tales como sucursales, oficinas, agentes o representantes, pagarán este impuesto por el total de las rentas que, remesen al exterior o sean retiradas conforme a lo dispuesto en los artículos 14; 17, número 7, y 38 bis, con excepción de los intereses a que se refiere el N° 1 del artículo 59°. Para estos efectos, el impuesto contemplado en este número se considerará formando parte de la base imponible representada por los retiros o remesas brutos.
+1) Las personas naturales extranjeras que no tengan residencia ni domicilio en Chile y las sociedades o personas jurídicas constituidas fuera del país, incluso las que se constituyan con arreglo a las leyes chilenas y fijen su domicilio en Chile, que tengan en Chile cualquiera clase de establecimientos permanentes, tales como sucursales, oficinas, agentes o representantes, pagarán este impuesto por el total de las rentas de fuente chilena que perciban o devenguen, con excepción de los intereses que se eximan de impuesto en virtud del N° 1 del artículo 59°.
 
-2) Las personas que carezcan de domicilio o residencia en el país pagarán este impuesto por la totalidad de las utilidades y demás cantidades que las sociedades anónimas o en comandita por acciones respecto de sus accionistas, constituidas en Chile, o acuerden distribuir a cualquier título, en su calidad de accionistas, en conformidad a lo dispuesto en los artículos 14; 17, número 7, y 38 bis. Estarán exceptuadas del gravamen establecido en este número las devoluciones de capitales internados al país que se encuentren acogidos a las franquicias del decreto ley N° 600, de 1974, de la ley Orgánica Constitucional del Banco Central de Chile y demás disposiciones legales vigentes, pero únicamente hasta el monto del capital efectivamente internado en Chile.
-
-Cuando corresponda aplicar el crédito establecido en el artículo 63, se agregará un monto equivalente a dicho crédito para determinar la base imponible de este impuesto. Se procederá en los mismos términos cuando en estos casos corresponda aplicar el crédito contra impuestos finales establecido en el artículo 41 A.
-
-3) También pagarán el impuesto de este artículo, en carácter de único, los contribuyentes no residentes ni domiciliados en el país, que enajenen las acciones, cuotas, títulos o derechos a que se refiere el inciso tercero del artículo 10. La renta gravada, a elección del enajenante, será: (a) la cantidad que resulte de aplicar, al precio o valor de enajenación de las acciones, cuotas, títulos o derechos extranjeros enajenados, rebajado por el costo de adquisición que en ellos tenga el enajenante, la proporción que represente el valor corriente en plaza o los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación, de los activos subyacentes a que se refieren los literales (i), (ii) y (iii) de la letra a), del inciso tercero, del artículo 10 y en la proporción correspondiente en que ellos son indirectamente adquiridos con ocasión de la enajenación ocurrida en el exterior, sobre el precio o valor de enajenación de las referidas acciones, cuotas, títulos o derechos extranjeros; (b) la proporción del precio o valor de enajenación de las acciones, cuotas, títulos o derechos extranjeros, que represente el valor corriente en plaza o los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación, de los activos subyacentes a que se refieren los literales (i), (ii) y (iii) de la letra a), del inciso tercero, del artículo 10 y en la proporción correspondiente en que ellos son indirectamente adquiridos con ocasión de la enajenación ocurrida en el exterior, por el precio o valor de enajenación de las referidas acciones, cuotas, títulos o derechos extranjeros, rebajado el costo tributario de los activos subyacentes situados en Chile del o los dueños extranjeros directos de los mismos y que se adquieren indirectamente con ocasión de la enajenación correspondiente.
-
-El costo tributario de los activos subyacentes situados en Chile, será aquel que habría correspondido aplicar conforme a la legislación chilena, si ellos se hubieran enajenado directamente. Tratándose de una agencia u otro tipo de establecimiento permanente referido en el literal (ii) de la letra a), del inciso tercero, del artículo 10, el costo tributario corresponderá al capital propio determinado según balance al 31 de diciembre del año anterior a la enajenación, descontadas las utilidades o cantidades pendientes de retiro o distribución desde la agencia.
-
-Cuando no se acredite fehacientemente el valor de adquisición de las referidas acciones, cuotas, títulos o derechos, que tenga el enajenante extranjero, el Servicio determinará la renta gravada con impuestos en Chile conforme a la letra (b) precedente con la información que obre en su poder, perdiéndose la posibilidad de elección establecida anteriormente. Cuando los valores anteriormente indicados estén expresados en moneda extranjera se convertirán a moneda nacional según su equivalente a la fecha de enajenación, considerando para tales efectos lo dispuesto en el número 1, de la letra D, del artículo 41 A.
-
-Este impuesto deberá ser declarado y pagado por el enajenante no domiciliado ni residente en el país, sobre base devengada, conforme a lo dispuesto en los artículos 65, número 1, y 69, de esta ley. Las rentas a que se refiere el artículo 10 podrán, a juicio del contribuyente, considerarse como esporádicas para efectos de lo dispuesto en el artículo 69 N° 3. No se aplicará lo establecido en este inciso, cuando el impuesto haya sido retenido en su totalidad por el comprador conforme a lo dispuesto por el número 4, del artículo 74.
-
-En caso que el impuesto no sea declarado y pagado conforme a lo dispuesto precedentemente, el Servicio, con los antecedentes que obren en su poder y previa citación, podrá liquidar y girar el tributo adeudado al adquirente de las acciones, cuotas, títulos o derechos emitidos por la sociedad o entidad extranjera. Con todo, responderá solidariamente sobre las cantidades señaladas, junto con el adquirente de las acciones, la entidad, empresa o sociedad emisora de los activos subyacentes a que se refiere el literal (i) del inciso tercero del artículo 10, o la agencia u otro establecimiento permanente en Chile a que se refiere el literal (ii) de la citada disposición.
-
-El Servicio podrá exigir al enajenante, a su representante en Chile o a la sociedad, entidad constituida en el país o al adquirente, una declaración en la forma y plazo que establezca mediante resolución, en la cual se informe el precio o valor de enajenación de los títulos, derechos, cuotas o acciones, y el valor corriente en plaza de los activos subyacentes situados en Chile a que se refiere el inciso tercero del artículo 10, así como cualquier otro antecedente que requiera para los efectos de la determinación del impuesto de este número.
-
-Con todo, el enajenante o el adquirente, en su caso, podrá, en sustitución del impuesto establecido en este número, optar por acoger la renta gravada determinada conforme a las reglas anteriores, al régimen de tributación que habría correspondido aplicar de haberse enajenado directamente los activos subyacentes situados en Chile a que se refieren los literales (i), (ii) y (iii) de la letra a), del inciso tercero del artículo 10, que hayan originado la renta gravada, por aplicación del inciso tercero del mismo artículo. Esta alternativa se aplicará considerando las normas y los requisitos y condiciones que hubieran sido aplicables a la enajenación por el titular directo de dichos bienes, incluyendo la existencia de un ingreso no renta que pudiere contemplar la legislación tributaria chilena vigente al momento de la enajenación extranjera.
-
-> **Nota.** El artículo 3º del DL 3454, Hacienda, publicado el 25.07.1980, dispone que la presente modificación se aplicará a los dividendos que se distribuyan a partir del 1 de enero de 1980.
-
-> **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
-
-> **Nota.** NOTA: 2 El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
-
-> **Nota.** NOTA: 3 El artículo 11 de la LEY 18970, publicada el 10.03.1990, dispuso que la modificación introducida al presente artículo regirá a contar del 19 de abril de 1990.
-
-> **Nota.** NOTA: 4 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-> **Nota.** NOTA 5 El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la modificación introducida al presente artículo regirá a contar del día 1º del mes siguiente a su publicación.
-
-> **Nota.** NOTA 6 El Art. quinto transitorio de la ley 21210, publicada el 24.02.2020, dispuso que las modificaciones que su Art. segundo N° 38 incorpora en este artículo regirán una vez que entren en vigencia la modificación establecida en la letra b) del N° 39 del Art. segundo de la misma ley, al inciso primero del Art. 59 de la presente norma.
+2) Las personas que carezcan de domicilio o residencia en el país, pagarán este impuesto por la totalidad de las utilidades y demás cantidades que las sociedades anónimas o en comandita por acciones respecto de sus accionistas, constituidas en Chile, les acuerden distribuir a cualquier título, en su calidad de accionistas, con excepción sólo de las cantidades que correspondan a la distribución de utilidades o de fondos acumulados que dichas sociedades efectúen entre sus accionistas en forma de acciones total o parcialmente liberadas o mediante el aumento del valor nominal de las acciones, todo ello representativo de una capitalización equivalente, y con excepción, también, en caso de liquidación de la sociedad respectiva, de las devoluciones de capital reajustado en conformidad a la ley. También estarán exceptuadas del gravamen establecido en este número las devoluciones de capitales internados al país que se encuentren acogidos o que se acojan a las franquicias del D.L. N° 600, de 1974, artículos 14°, 15° y 16° de la Ley de Cambios Internacionales contenidas en el decreto N° 1.272, de 1961, del Ministerio de Economía, Fomento y Reconstrucción y demás disposiciones legales vigentes, pero únicamente hasta el monto del capital efectivamente internado en Chile. Finalmente se excepciona, previo informe de la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, en caso de división de sociedades anónimas, la distribución de acciones recibidas de otras sociedades anóminas constituidas con parte del patrimonio de las primeras para el desempeño de una o más de las actividades de su giro.
 
 #### Artículo 59°
 
-Se aplicará un impuesto de 30% sobre el total de las cantidades pagadas o abonadas en cuenta, sin deducción alguna, a personas sin domicilio ni residencia en el país, por el uso, goce o explotación de marcas, patentes, fórmulas y otras prestaciones similares, sea que consistan en regalías o cualquier forma de remuneración, excluyéndose las cantidades que correspondan a pago de bienes corporales internados en el país hasta un costo generalmente aceptado. Con todo, la tasa de impuesto aplicable se reducirá a 15% respecto de las cantidades que correspondan al uso, goce o explotación de patentes de invención, de modelos de utilidad, de dibujos y diseños industriales, de esquemas de trazado o topografías de circuitos integrados, y de nuevas variedades vegetales, de acuerdo a las definiciones y especificaciones contenidas en la Ley de Propiedad Industrial y en la Ley que Regula Derechos de Obtentores de Nuevas Variedades Vegetales, según corresponda. Asimismo, se gravarán con tasa de 15% las cantidades correspondientes al uso, goce o explotación de programas computacionales, entendiéndose por tales el conjunto de instrucciones para ser usados directa o indirectamente en un computador o procesador, a fin de efectuar u obtener un determinado proceso o resultado, contenidos en un soporte físico o intangible, de acuerdo con la definición o especificaciones contempladas en la Ley Sobre Propiedad Intelectual, salvo que las cantidades se paguen o abonen en cuenta por el uso de programas computacionales estándar, entendiéndose por tales aquellos en que los derechos que se transfieren se limitan a los necesarios para permitir el uso del mismo, y no su explotación comercial, ni su reproducción o modificación con cualquier otro fin que no sea habilitarlo para su uso, en cuyo caso estarán exentas de este impuesto. No obstante, la tasa de impuesto aplicable será de 30% cuando el acreedor o beneficiario de las regalías o remuneraciones se encuentren constituidos, domiciliados o residentes en alguno de los países que se consideren como un régimen fiscal preferencial conforme a las reglas establecidas en el artículo 41 H. El contribuyente local obligado a retener el impuesto deberá acreditar estas circunstancias y efectuar una declaración jurada, en la forma y plazo que establezca el Servicio de Impuestos Internos mediante resolución.
+Se aplicará un impuesto de 40% sobre el total de las cantidades pagadas o abonadas en cuentas, sin dedución alguna, a personas sin domicilio ni residencia en el país, por el uso de marcas, patentes, formulas, asesoría técnica y otras prestaciones similares, sea que consistan en regalías o cualquiera forma de remuneración, excluyéndose las cantidades que correspondan a devolución de capitales o préstamos, a pago de bienes corporales internados en el país hasta un costo generalmente aceptado o a rentas sobre las cuales se hayan pagado los impuestos en Chile. En el caso de que ciertas regalías y asesorías técnicas sean calificadas de improductivas o prescindibles para el desarrollo económico del país, el Presidente de la República, previo informe de la Corporación de Fomento de la Producción y del Comité Ejecutivo del Banco Central de Chile, podrá elevar la tasa de este impuesto hasta el 80%.
 
-Las cantidades que se paguen al exterior a productores y/o distribuidores extranjeros por materiales para ser exhibidos a través de proyecciones de cine y televisión que no queden afectas a impuesto en virtud del artículo 58 N° 1,tributarán con la tasa señalada en el inciso segundo del artículo 60 sobre el total de dichas cantidades, sin deducción alguna.
+Las cantidades que se paguen al exterior a productores y/o distribuidores extranjeros por materiales para se exhibidos a través de proyecciones de cine y televisión, que no queden afectas a impuesto en virtud del artículo 58° N° 1, tributarán con tasa señalada en el inciso segundo del artículo 60 sobre el total de dichas cantidades, sin deducción alguna.
 
-Aquellas cantidades que se paguen por el uso de derechos de edición o de autor, estarán afectos a una tasa de 15%.
+Este impuesto se aplicará, también, respecto de las rentas que se paguen o abonen en cuentas a personas a que se refiere el inciso primero por concepto de:
 
-Este impuesto se aplicará, con tasa 35%, respecto de las rentas que se paguen o abonen en cuenta a personas a que se refiere el inciso primero por concepto de:
+1.- Intereses. Sin embargo, estarán exentos de este impuesto los intereses de créditos otorgados desde el exterior por instituciones bancarias o financieras extranjeras o internacionales, como también los intereses de los bonos o debentures o pagarés emitidos en moneda extranjera por empresas constituidas en Chile.
 
-1) Intereses. Estarán afectos a este impuesto, pero con una tasa del 4%, los intereses provenientes de:
+En el caso de las instituciones financieras sólo podrán gozar de esta exención aquellas instituciones financieras extranjeras o internacionales autorizadas expresamente por el Banco Central de Chile.
 
-a) Depósitos en cuenta corriente y a plazo en moneda extranjera, efectuados en cualquiera de las instituciones autorizadas por el Banco Central de Chile para recibirlos;
+Estarán también exentos de este mismo impuesto los intereses provenientes de los saldos de precios correspondientes a bienes internados al país con cobertura diferida o con sistema de cobranzas.
 
-b) Créditos otorgados desde el exterior por instituciones bancarias o financieras extranjeras o internacionales, así como por compañías de seguros y fondos de pensiones extranjeros que se encuentren acogidos a lo establecido en la letra A), del artículo 9º transitorio, de la Ley que Regula la Administración de Fondos de Terceros y Carteras Individuales.
+Con todo, las exenciones a que se refiere este número se aplicarán solamente si la respectiva operación de crédito ha sido autorizada por el Banco Central de Chile en conformidad a la legislación vigente.
 
-Para la procedencia de la tasa de 4% conforme con el párrafo anterior, el crédito no deberá ser otorgado mediante cualquier tipo de acuerdo estructurado de forma tal que la institución bancaria o financiera extranjera o internacional que reciba los intereses, los transfiera a otra persona o entidad que sea domiciliada o residente en el extranjero, y que no tendría derecho a la tasa reducida si hubiera recibido directamente los intereses del deudor. Adicionalmente, para la procedencia de la tasa de 4%, la institución bancaria o financiera deberá entregar al pagador de los intereses una declaración en la que deje constancia que no ha celebrado un acuerdo estructurado en los términos señalados.
+2) Remuneraciones por servicios prestados en el extranjero. Con todo, estarán exentas de este impuesto las sumas pagadas en el exterior por fletes, por gastos de embarque y desembarque, por pesaje, muestreo y análisis de los productos, por seguros, comisiones, por telecomunicaciones internacionales, y por someter productos chilenos a fundición, refinación o a otros procesos especiales. Para gozar de esta exención será necesario que las sumas sean verificadas por los organismos oficiales correspondientes, los cuales podrán ejercer las mismas facultades que confiere el artículo 36°, inciso primero. El impuesto de este artículo tendrá el carácter de impuesto único a la renta respecto de las cantidades a las cuales se aplique.
 
-Para efectos de lo dispuesto en este numeral, se entenderá por institución financiera extranjera o internacional, aquella entidad domiciliada, residente o constituida en el extranjero que tenga por objeto principal el otorgamiento de créditos, financiamiento u otras operaciones con esos fines, siempre que sus ingresos provengan mayoritariamente de su objeto principal, que sus operaciones de financiamiento sean realizadas en forma periódica, y que dicha entidad financiera cuente con un capital pagado y reservas igual o superior a la mitad del mínimo que se exija para la constitución de los bancos extranjeros en Chile, por la Ley General de Bancos, contenida en el decreto con fuerza de ley N° 3 de 1997, del Ministerio de Hacienda. Mediante resolución el Servicio de Impuestos Internos establecerá un registro voluntario de inscripción de instituciones financieras extranjeras o internacionales, y el respectivo procedimiento de inscripción, para efectos de que una entidad financiera pueda verificar el cumplimiento de estos requisitos en caso de así requerirlo.
-
-El pagador del interés informará al Servicio de Impuestos Internos en el plazo que éste determine, las condiciones de la operación.
-
-No obstante lo anterior, no se gravarán con los impuestos de esta ley los intereses provenientes de los créditos a que se refiere el párrafo anterior, cuando el deudor sea una institución financiera constituida en el país y siempre que ésta hubiere utilizado dichos recursos para otorgar un crédito al exterior. Para estos efectos, la institución deberá informar al Servicio de Impuestos Internos, en la forma y plazo que éste señale, el total de los créditos otorgados al exterior con cargo a los recursos obtenidos mediante los créditos a que se refiere esta disposición.
-
-c) Saldos de precios correspondientes a bienes internados al país con cobertura diferida o con sistema de cobranzas;
-
-d) Bonos o debentures emitidos en moneda extranjera por empresas constituidas en Chile. El pagador del interés informará al Servicio de Impuestos Internos en el plazo que éste determine, las condiciones de la operación. El pagador del interés informará al Servicio de Impuestos Internos en el plazo que éste determine, las condiciones de la operación;
-
-e) Bonos o debentures y demás títulos emitidos en moneda extranjera por el Estado de Chile o por el Banco Central de Chile; y
-
-f) Las Aceptaciones Bancarias Latinoamericanas ALADI (ABLAS) y otros beneficios que generen estos documentos.
-
-g) los instrumentos señalados en las letras a), d) y e) anteriores, emitidos o expresados en moneda nacional.
-
-INCISO SUPRIMIDO
-
-h) Los instrumentos de deuda de oferta pública a que se refiere el artículo 104, los que se gravarán cuando se hayan devengado en la forma establecida en el número 2° del artículo 20.
-
-2) Remuneraciones por servicios prestados en el extranjero. Con todo, estarán exentas de este impuesto las sumas pagadas en el exterior por fletes, por gastos de embarque y desembarque, por almacenaje, por pesaje, muestreo y análisis de los productos, por seguros y por operaciones de reaseguros que no sean aquellos gravados en el número 3, de este artículo, comisiones, por telecomunicaciones internacionales, y por someter productos chilenos a fundición, refinación o a otros procesos especiales. Las respectivas operaciones y sus características deberán ser informadas al Servicio de Impuestos Internos en la forma y plazo que éste determine mediante resolución.
-
-Igualmente estarán exentas de este impuesto las sumas pagadas, en el caso de bienes y servicios exportables, por publicidad y promoción, por análisis de mercado, por investigación científica y tecnológica, y por asesorías y defensas legales ante autoridades administrativas, arbitrales o jurisdiccionales del país respectivo. Para que proceda esta exención los servicios señalados deben guardar estricta relación con la exportación de bienes y servicios producidos en el país y los pagos correspondientes, considerarse razonables a juicio del Servicio de Impuestos Internos, debiendo para este efecto los contribuyentes comunicarlos, en la forma y plazo que fije el Director de dicho Servicio. Lo dispuesto en este párrafo se aplicará también a las sumas pagadas al exterior por trabajos y servicios de ingeniería o técnicos, en el caso de servicios exportables, siempre que el Servicio Nacional de Aduanas califique dichos servicios como exportación, de acuerdo a lo establecido en el número 16 de la letra E del artículo 12 del decreto ley N° 825, de 1974.
-
-En los casos que los pagos señalados los efectúen Asociaciones Gremiales que representen a los exportadores bastará, para que proceda la exención, que dichos pagos se efectúen con divisas de libre disponibilidad a que se refiere el inciso anterior, proporcionadas por los propios socios de tales entidades y que sean autorizados por el Servicio de Impuestos Internos, de acuerdo con las normas que al efecto imparta. Estarán afectas a este impuesto, con una tasa de 15%, las remuneraciones pagadas a personas naturales o jurídicas, por trabajos de ingeniería o técnicos y por aquellos servicios profesionales o técnicos que una persona o entidad conocedora de una ciencia o técnica, presta a través de un consejo, informe o plano, sea que se presten en Chile o el exterior. Sin embargo, se aplicará una tasa de 20% si los acreedores o beneficiarios de las remuneraciones se encuentran en cualquiera de las circunstancias indicadas en la parte final del inciso primero de este artículo, lo que deberá ser acreditado y declarado en la forma indicada en tal inciso.
-
-3) Primas de seguros contratados en compañías no establecidas en Chile que aseguren cualquier interés sobre bienes situados permanentemente en el país o la pérdida material en tierra sobre mercaderías sujetas al régimen de admisión temporal o en tránsito en el territorio nacional, como también las primas de seguros de vida u otros del segundo grupo, sobre personas domiciliadas o residentes en Chile, contratados con las referidas compañías.
-
-El impuesto de este número, que será el 22%, se aplicará sobre el monto de la prima de seguro o de cada una de las cuotas en que se haya dividido la prima, sin deducción de suma alguna. Tratándose de reaseguros contratados con las compañías a que se refiere el inciso primero de este número, en los mismos términos allí señalados, el impuesto será de 2% y se calculará sobre el total de la prima cedida, sin deducción alguna.
-
-Estarán exentas del impuesto a que se refiere este número, las primas provenientes de seguros del casco y máquinas, excesos, fletes, desembolsos y otros propios de la actividad naviera; y los de aeronaves, fletes y otros, propios de la actividad de aeronavegación, como asimismo los seguros de protección e indemnización relativos a ambas actividades y los seguros y reaseguros, por créditos de exportación. Estarán también exentas del impuesto las remuneraciones o primas provenientes de fianzas, seguros y reaseguros que garanticen el pago de las obligaciones por los créditos o derechos de terceros, derivadas del financiamiento de las obras o por la emisión de títulos de deuda, relacionados con dicho financiamiento, de las empresas concesionarias de obras públicas a que se refiere el decreto supremo N° 900, de 1996, del Ministerio de Obras Públicas, que contiene el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 164 de 1991 del mismo Ministerio, Ley de Concesiones de Obras Públicas, de las empresas portuarias creadas en virtud de la ley N° 19.542 y de las empresas titulares de concesiones portuarias a que se refiere la misma ley.
-
-4) Fletes marítimos, comisiones o participaciones en fletes marítimos desde o hacia puertos chilenos, y demás ingresos por servicios a las naves y a los cargamentos en puertos nacionales o extranjeros que sean necesarios para prestar dicho transporte.
-
-El impuesto de este número será de 5% y se calculará sobre el monto total de los ingresos provenientes de las operaciones referidas en el inciso anterior, sin deducción alguna.
-
-Este impuesto gravará también a las empresas navieras extranjeras que tengan establecimientos permanentes en Chile; pero dichas empresas podrán rebajar, de los impuestos que deban pagar en conformidad a las normas de esta ley, el gravamen de este número pagado por el período al cual corresponda la declaración de renta respectiva. Para los efectos de hacer esta rebaja, el impuesto pagado se reajustará según la variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes anterior al de su pago y el último día del mes anterior a la fecha de cierre del ejercicio. Si el monto de la rebaja contemplada en este inciso excediere de los impuestos contra los cuales procede aplicarse el excedente no podrá imputarse a ningún otro ni solicitarse su devolución.
-
-Los armadores, los agentes, consignatarios y embarcadores de naves, según corresponda, retendrán o recaudarán y entregarán en arcas fiscales este impuesto, por sí o por cuenta de quienes representen, dentro del mes subsiguiente a aquél en que la nave extranjera haya recalado en el último puerto chileno en cada viaje.
-
-El impuesto establecido en este número no se aplicará a dichos ingresos generados por naves extranjeras, a condición de que, en los países donde esas naves estén matriculadas, no exista un impuesto similar o se concedan iguales o análogas exenciones a las empresas navieras chilenas. Cuando la nave opere o pertenezca a una empresa naviera domiciliada en un país distinto de aquél en que se encuentra matriculada aquélla, el requisito de la reciprocidad se exigirá respecto de cada país. Sin perjuicio de lo expresado, el impuesto tampoco se aplicará cuando los ingresos provenientes de la operación de naves se obtengan por una persona jurídica constituída o domiciliada en un país extranjero, o por una persona natural que sea nacional o residente de un país extranjero, cuando dicho país extranjero conceda igual o análoga exención en reciprocidad a la persona jurídica constituída o domiciliada en Chile y a las personas naturales chilenas o residentes en el país. El Ministro de Hacienda, a petición de los interesados, calificará las circunstancias que acrediten el otorgamiento de la exención, pudiendo, cuando fuere pertinente, emitir el certificado de rigor.
-
-5) Arrendamiento, subarrendamiento, fletamento, subfletamento, usufructo o cualquier otra forma de cesión del uso o goce temporal de naves extranjeras que se destinen o utilicen en servicios de cabotaje o cuando los contratos respectivos permitan o no prohíban utilizar la nave para el cabotaje, pagarán el impuesto de este artículo con tasa de 20%. No se considerará cabotaje al transporte de contenedores vacíos entre puntos del territorio nacional.
-
-El impuesto de este Título no se aplicará a las sumas pagadas o abonadas en cuenta por los conceptos señalados, en el caso de naves que se reputen chilenas en conformidad al artículo 6° del decreto ley N° 3.059, de 1979, con excepción de las indicadas en su inciso tercero. Sin embargo, si dentro del plazo estipulado en dicho artículo 6°, no se opta por la compra ni se celebra el contrato prometido o se pone término anticipado al contrato sin ejercitar dicha opción o celebrar el contrato prometido, se devengará el impuesto de este Título con tasa del 20%, por las sumas pagadas o abonadas en cuenta por el arrendamiento, el que deberá pagarse dentro del mes siguiente a aquél en que venció el plazo para ejercitar la opción o celebrar el contrato prometido o aquél en que se puso término anticipado al contrato. Los impuestos que resulten adeudados se reajustarán en la variación que experimente la unidad tributaria mensual, entre el mes en que se devengaron y el mes en que efectivamente se paguen.
-
-6) Las cantidades que pague el arrendatario en cumplimiento de un contrato de arrendamiento con o sin opción de compra de un bien de capital importado, susceptible de acogerse a sistema de pago diferido de tributos aduaneros.
-
-El impuesto se aplicará sobre la parte que corresponda a la utilidad o interés comprendido en la operación, los que, para estos efectos, se presume de derecho que constituirán el 5% del monto de cada cuota que se pague en virtud del contrato mencionado.
-
-En todo caso quedarán afectos a la tributación única establecida en el inciso anterior sólo aquellas cantidades que se paguen o abonen en cuenta en cumplimiento de un contrato de arrendamiento en consideración al valor normal que tengan los bienes respectivos en el mercado internacional. El pagador de la renta informará al Servicio de Impuestos Internos en el plazo que éste determine, las condiciones de la operación.
-
-El impuesto de este artículo tendrá el carácter de impuesto único a la renta respecto de las cantidades a las cuales se aplique.
-
-> **Nota.** El artículo 1º transitorio del DL 3057, Hacienda, publicado el 10.01.1980, dispone que las modificaciones introducidas a esta norma, comenzarán a regir 90 días después de su publicación.
-
-> **Nota.** NOTA: 1 El artículo transitorio de la LEY 18031, publicada el 14.09.1981, dispone que el impuesto establecido en este número comenzará a aplicarse 3 meses después de la publicación de esta ley. No obstante lo anterior, a contar de dicha publicación las empresas navieras interesadas podrán solicitar una exención al Ministro de Hacienda y el otorgamiento del respectivo certificado en los casos a que se refiere la norma.
-
-> **Nota.** NOTA: 2 El artículo 110 de la LEY 18591, publicada el 03.01.1987, dispone que la modificación introducida por la citada ley, rige a contar del 1° de enero de 1987.
-
-> **Nota.** NOTA: 3 El artículo transitorio de la LEY 19155, publicada el 13.08.1993, dispuso que la modificación introducida al N° 5 del presente artículo, regirá desde la fecha de vigencia del artículo 3° de la LEY 18454, que agregó el número 5 referido al artículo 59 de la Ley de la Renta.
-
-> **Nota.** NOTA: 4 El Artículo 10º de la LEY 19247, publicada el 15.09.1993, ordenó que lo dispuesto por su artículo 1º, regirá a contar del 1º de enero de 1994, afectando a las rentas que se perciban o se devenguen desde esa fecha, a excepción de la letra j), que regirá a contar del 4 de junio de 1993, y de las letras g) y h), que tendrán vigencia desde el 1° de enero de 1995.
-
-> **Nota.** NOTA : 5 El N° 2 del Artículo 1° transitorio de la LEY 19270, publicada el 06.12.1993, dispuso que la modificación introducida al presente artículo, regirá desde la fecha de su publicación.
-
-> **Nota.** NOTA : 6 El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del año tributario 2002.
-
-> **Nota.** NOTA : 7 El N° 3 del artículo 1º transitorio de la LEY 19738, publicada el 19.06.2001, dispone que la presente modificación regirá respecto de las rentas que se paguen, abonen en cuenta, se contabilicen como gasto, se remesen o se pongan a disposición del interesado a contar de la fecha de publicación de esta ley. No obstante, lo dispuesto en los párrafos agregados al final del N° 1 regirá respecto de los intereses que se paguen a contar del 1 de enero del año 2003, originados en las operaciones señaladas en las letras b), c) y d) del Nº 1) del artículo 59 de la Ley de Impuesto a la Renta, contratadas o realizadas a la fecha de publicación de esta ley y siempre que a la fecha de celebración de dichas operaciones el endeudamiento haya sido superior a tres veces el patrimonio. En todo caso, esta vigencia no será aplicable a estas operaciones cuando sean prorrogadas o se modifique la tasa de interés pactada originalmente.
-
-> **Nota.** NOTA 9 El artículo transitorio de la LEY 20154, publicada el 09.01.2007, dispone que la modificación que introduce a la presente norma, rige a contar del 1º de enero de 2007.
-
-> **Nota.** NOTA 10 El artículo 3º transitorio de la LEY 20343, publicada el 28.04.2009, dispone que la modificación que introduce a la letra b, i) de la presente norma, rige a contar del 1º de mayo de 2009.
-
-> **Nota.** NOTA 11 La letra c) del numeral 40 del articulo 1º de la Ley 20780, publicada el 29.09.2014, elimina el inciso final de la presente norma.
-
-#### Artículo 59° bis
-
-Los contribuyentes no domiciliados ni residentes en Chile estarán exentos del impuesto adicional por la prestación de los servicios señalados en el artículo 8 letra n) de la ley de impuesto a las ventas y servicios contenida en el decreto ley N° 825 de 1974, a personas naturales que no tienen la calidad de contribuyentes del impuesto establecido en el referido decreto ley.
+Con todo, si las personas que obtienen dichas cantidades deben pagar por ellas el impuesto de este título, en virtud de lo dispuesto en el N° 1 del artículo 58° o en el artículo 61°, el impuesto que se les haya aplicado en conformidad a este artículo se considerará sólo como un anticipo que podrá abonarse a cuenta del impuesto definitivo que resulte de acuerdo con lo señalado en el N° 1 del artículo 58° o en el artículo 61°, ya citado.
 
 #### Artículo 60°
 
-Las personas naturales que no tengan residencia ni domicilio en Chile y las sociedades o personas jurídicas constituidas fuera del país, incluso las que se constituyan con arreglo a las leyes chilenas, que perciban o devenguen rentas de fuente chilena que no se encuentren afectas a impuesto de acuerdo con las normas de los artículos 58 y 59, pagarán respecto de ellas un impuesto adicional de 35%.
+Las personas naturales extranjeras que no tengan residencia ni domicilio en Chile y las sociedades o personas jurídicas constituidas fuera del país, incluso las que se constituyan con arreglo a las leyes chilenas, que perciban o devenguen rentas de fuentes chilenas que no se encuentren afectas a impuesto de acuerdo con las normas de los artículos 58° y 59°, pagarán respecto de ellas un impuesto adicional de 35%.
 
-No obstante, la citada tasa será de 20% cuando se trate de remuneraciones provenientes exclusivamente del trabajo o habilidad de personas, percibidas por las personas naturales a que se refiere el inciso anterior, sólo cuando éstas hubieren desarrollado en Chile actividades científicas, culturales o deportivas. Este impuesto deberá ser retenido y pagado antes de que dichas personas se ausenten del país, por quien o quienes contrataron sus servicios, de acuerdo con las normas de los artículos 74° y 79°.
+No obstante, la citada tasa será de 20% cuando se trate de remuneraciones provenientes exclusivamente del trabajo o habilidad de personas, percibidas por las personas naturales extranjeras a que se refiere el inciso anterior, sólo cuando éstas hubieren desarrollado en Chile actividades científicas, técnicas, culturales o deportivas. Este impuesto deberá ser retenido y pagado antes de que dichas personas se ausenten del país, por quien o quienes contrataron sus servicios, de acuerdo con las normas de los artículos 74° y 79°.
 
 El impuesto establecido en este artículo tendrá el carácter de impuesto único a la renta respecto de las rentas referidas en el inciso segundo, en reemplazo del impuesto de la Segunda Categoría, y se aplicará sobre las cantidades que se paguen, se abonen en cuenta o se pongan a disposición de las personas mencionadas en dicho inciso, sin deducción alguna.
 
 > **Nota.** El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
 
-> **Nota.** NOTA 1: El artículo transitorio de la LEY 20154, publicada el 09.01.2007, dispone que la modificación que introduce a la presente norma, rige a contar del 1º de enero de 2007.
-
 #### Artículo 61°
 
-DEROGADO.
+Los chilenos que residan en el extranjero y no tengan domicilio en Chile, pagarán un impuesto adicional del 35% sobre el conjunto de las rentas imponibles de las distintas categorías a que están afectas.
+
+Este gravamen no será aplicable a las personas referidas en el artículo 8°.
+
+Los contribuyentes a que se refiere este artículo que hubieran pagado los impuestos establecidos en el N° 2 del artículo 58° o en el artículo 59°, por cantidades que deban quedar afectas al impuesto contemplado en el presente artículo, podrán abonar dichos impuestos al que deba aplicarse en conformidad a lo dispuesto en este artículo.
+
+> **Nota.** El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
 
 #### Artículo 62°
 
-Para determinar la renta imponible en el caso de los impuestos establecidos en el N° 1 del artículo 58° y en el artículo 60 se sumarán las rentas imponibles de las distintas categorías y se incluirán también aquéllas exentas de los impuestos cedulares, exceptuando sólo las rentas gravadas con el impuesto del N° 1 del artículo 43°. Se observarán las normas de reajuste señaladas en el inciso penúltimo del número 3 del artículo 54° para la determinación de la renta imponible afecta al impuesto adicional. Se incluirá la totalidad de las cantidades percibidas o retiradas por el contribuyente a cualquier título desde la empresa, en conformidad a lo dispuesto en el artículo 14 y en el número 7°.- del artículo 17 de esta ley. El impuesto que grava estas rentas se devengará en el año en que se retiren de las empresas o se remesen al exterior.
+Para determinar la renta imponible en el caso de los impuestos establecidos en el N° 1 del artículo 58° y en los artículos 60° y 61° se sumarán las rentas imponibles de las distintas categorías y se incluirán también aquéllas exentas de los impuestos cedulares, exceptuando sólo las rentas gravadas con el impuesto del N° 1 del artículo 43°. Se observarán las normas de reajuste señaladas en el inciso penúltimo del artículo 54° para la determinación de la renta imponible afecta al impuesto adicional.
 
-Se incluirán las cantidades a que se refieren los literales i) al iv), del inciso tercero, del artículo 21, en la forma y oportunidad que dicha norma establece, gravándose con el impuesto de este título, el que se aplicará incrementado en un monto equivalente al 10% sobre las citadas partidas.
-
-Respecto del artículo 60, inciso primero, podrá deducirse de la renta imponible, a que se refiere el inciso primero, la contribución territorial pagada, comprendida en las cantidades declaradas.
-
-Las rentas del artículo 20°, número 2° y las rentas referidas en el número 8° del artículo 17°, percibidas por personas que no estén obligadas a declarar según contabilidad, podrán compensarse rebajando las pérdidas de los beneficios que se hayan derivado de este mismo tipo de inversiones en el año calendario.
-
-Se incluirán también las rentas presuntas determinadas según las normas de esta ley y las rentas establecidas con arreglo a lo dispuesto en los artículos 70 y 71.
-
-Cuando corresponda aplicar el crédito establecido en el artículo 63, tratándose de las cantidades retiradas o distribuidas de empresas sujetas a las disposiciones del artículo 14, se agregará, un monto equivalente a dicho crédito para determinar la base imponible del mismo ejercicio. Tratándose de las rentas referidas en el número 8 del artículo 17, éstas se incluirán cuando hayan sido percibidas o devengadas, según corresponda, de acuerdo con las reglas establecidas en dicha norma. Se procederá en los mismos términos cuando en estos casos corresponda aplicar el crédito contra impuestos finales establecido en el artículo 41 A.
-
-> **Nota.** NOTA: 2 El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
-
-> **Nota.** NOTA: 3 El artículo 4º de la LEY 18775, publicada el 14.01.1989, dispone que las modificaciones introducidas a la presente norma, regirá a contar del 1º de enero de 1989 y, en consecuencia, serán aplicables a partir del año tributario 1990.
-
-> **Nota.** NOTA: 4 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
-
-> **Nota.** NOTA 5: El artículo 1º transitorio de la LEY 20170, publicada el 21.02.2007, dispone que las modificaciones introducidas por la presente norma, rigen a contar del 1º de enero del año 2007.
+Tratándose de socios de sociedades de personas, se comprenderá en la renta imponible todos los ingresos, beneficios, utilidades o participaciones que les correspondan en la respectiva sociedad, de conformidad a lo dispuesto en el artículo 14, siempre que no estén excepcionados por el artículo 17.
 
 #### Artículo 63°
 
-A los contribuyentes del impuesto adicional, que obtengan rentas señaladas en los artículos 58 y 60 inciso primero, se les otorgará un crédito equivalente al monto que resulte de aplicar las normas señaladas en el inciso siguiente.
-
-El crédito corresponderá a la cantidad que resulte de aplicar a las rentas o cantidades que se encuentren incluidas en la base imponible, la misma tasa del impuesto de primera categoría con la que se gravaron. También tendrán derecho a este crédito por impuesto de primera categoría y el crédito contra impuestos finales que establece el artículo 41 A, por el monto que se determine conforme a lo dispuesto en el número 5 de la letra A) del artículo 14, sobre las rentas retiradas o distribuidas desde empresas sujetas a tal disposición, por la parte de dichas cantidades que integren la base imponible de las personas aludidas", sea que al momento de generarse dichos créditos la entidad respectiva tenga o no propietarios contribuyentes de impuestos finales. Asimismo, tendrán derecho a crédito los contribuyentes de impuesto adicional que sean socios o accionistas de sociedades, por las cantidades obtenidas por éstas en su calidad de socias o accionistas de otras sociedades, por la parte de dichas cantidades que integre la base imponible de las personas aludidas. También procederá el crédito que corresponda por aplicación de los números 3 y 4 de la letra D) del artículo 14 y de las letras (a) y (d) del número 8 de la referida letra D). En los demás casos, procederá el crédito por el impuesto de primera categoría que hubiere gravado las demás rentas o cantidades incluidas en la base imponible de este impuesto.
-
-En ningún caso dará derecho al crédito referido en los incisos anteriores el impuesto establecido en el artículo 20 determinado sobre rentas presuntas y de cuyo monto pueda rebajarse el impuesto territorial pagado.
-
-Los créditos o deducciones que las leyes permiten rebajar de los impuestos establecidos en esta ley y que dan derecho a devolución del excedente se aplicarán a continuación de aquéllos no susceptibles de reembolso.
-
-Sin perjuicio de lo anterior, los contribuyentes que imputen el crédito por impuesto de primera categoría sujeto a la obligación de restitución acumulado en el registro SAC de empresas sujetas al artículo 14, deberán restituir a título de débito fiscal, una cantidad equivalente al 35% del monto del referido crédito. Para todos los efectos legales, dicho débito fiscal se considerará un mayor impuesto adicional determinado. En todo caso, esta obligación de restitución no será aplicable a contribuyentes del impuesto adicional residentes en países con los cuales Chile haya suscrito un convenio para evitar la doble tributación que se encuentre vigente y que sean beneficiarios de las rentas retiradas, remesadas o distribuidas; siempre que en el referido convenio se haya acordado que el impuesto de primera categoría será deducible del impuesto adicional que sea aplicable conforme al convenio o, que se contemple otra cláusula que produzca el mismo efecto.
+A los contribuyentes afectos al impuesto de este Título se les otorgará un crédito contra dicho impuesto equivalente a un 40% sobre el monto de las rentas gravadas conforme al número 2 del artículo 58°, siempre que hayan estado afectadas por el impuesto del artículo 21°. Dicho crédito deberá ser deducido del monto del impuesto de este Título por los contribuyentes a que se refiere el N° 4 del artículo 74°, al momento de efectuar su retención respecto de dichas rentas.
 
 #### Artículo 64°
 
 Facúltase al Presidente de la República para dictar normas que en conformidad a los convenios internacionales suscritos y a la legislación interna eviten la doble tributación internacional o aminoren sus efectos.
-
-## Título IV — BIS
-
-Impuesto específico a la actividad minera Derogado.
-
-#### Artículo 64 bis
-
-Derogado.
-
-#### Artículo 64 ter
-
-Derogado.
 
 ## Título V
 
@@ -3040,31 +1110,25 @@ De la declaración y pago anual
 
 Están obligados a presentar anualmente una declaración jurada de sus rentas, en cada año tributario:
 
-1°.- Los contribuyentes gravados en la primera categoría del Titulo II o en el número 1° del artículo 58°, por las rentas devengadas o percibidas en el año calendario o comercial anterior, sin perjuicio de las normas especiales del artículo 69°. No estarán obligados a presentar esta declaración los contribuyentes que exclusivamente desarrollan actividades gravadas en los artículos 23° y 25°; en cuanto a los contribuyentes gravados en los artículos 24° y 26°, tampoco estarán obligados a presentar dicha declaración si el Presidente de la República ha hecho uso de la facultad que le confiere el inciso 1° del artículo 28. Asimismo el Director podrá liberar de la obligación establecida en este artículo a los contribuyentes no domiciliados ni residentes en Chile que solamente obtengan rentas de capitales mobiliarios, sea que éstas se originen en la tenencia o en la enajenación de dichos títulos, o rentas de aquellas que establezca el Servicio de Impuestos Internos mediante resolución, aun cuando estos contribuyentes hayan designado un representante a cargo de dichas inversiones en el país. En este caso se entenderá, para los efectos de esta ley, que el inversionista no tiene un establecimiento permanente de aquellos a que se refiere el artículo 58° número 1°).
+1°.- Los contribuyentes gravados con el impuesto único establecido en el inciso tercero del número 8° del artículo 17° en la primera categoría del Titulo II o en el número 1° del artículo 58°, por las rentas devengadas o percibidas en el año calendario o o comercial anterior, sin perjuicio de las normas especiales del artículo 69°. No estarán obligados a presentar esta declaración los contribuyentes que exclusivamente desarrollan actividades gravadas en los artículos 23° y 25°; en cuanto a los contribuyentes gravados en los artículos 24° y 26°, tampoco estarán obligados a presentar dicha declaración si el Presidente de la República ha hecho uso de la facultad que le confiere el inciso 1° del artículo 28.
 
-2. Los contribuyentes gravados con el impuesto contenido en la Ley sobre Royalty a la Minería.
+2°.- DEROGADO
 
-3°.- Los contribuyentes del impuesto global complementario establecido en el Título III, por las rentas a que se refiere el artículo 54°, obtenidas en el año calendario anterior, siempre que éstas, antes de efectuar cualquiera rebaja, excedan, en conjunto, del límite exento que establece el artículo 52.
+3°.- Los contribuyentes del impuesto global complementario establecido en el Título III, por las rentas a que se refiere el artículo 54°, obtenidas en el año calendario anterior, siempre que éstas, antes de efectuar cualquiera rebaja, excedan, en conjunto, de diez unidades tributarias anuales.
 
 No estarán obligados a presentar la declaración a que se refiere este número los contribuyentes de los artículos 22° y 42° N° 1, cuando durante el año calendario anterior hubieren obtenido únicamente rentas gravadas según dichos artículos u otras rentas exentas de global complementario.
 
-4º.- Los contribuyentes a que se refiere el artículo 60, inciso primero, por las rentas percibidas, devengadas o retiradas en el año anterior.
+4°.- Los contribuyentes a que se refieren los artículos 60° inciso primero y 61°, por las rentas percibidas, devengadas o retiradas, en el año anterior.
 
-5°.- Los contribuyentes del artículo 47°, inciso primero y tercero, aunque en este último caso, no estarán obligados, sino que podrán optar por reliquidar, presentando anualmente la declaración jurada de sus rentas.
+5°.- Los contribuyentes del artículo 47°, salvo que el impuesto se haya reliquidado mensualmente de conformidad al inciso final del citado artículo (20-b-b).
 
 Estas declaraciones podrán ser hechas en un solo formulario, en su caso, y deberán contener todos los antecedentes y comprobaciones que la Dirección exija para la determinación del impuesto y el cumplimiento de las demás finalidades a su cargo.
 
+INCISO PENULTIMO.- DEROGADO.-
+
 Iguales obligaciones pesan sobre los albaceas, partidores, encargados fiduciarios o administradores, de cualquier género.
 
-> **Nota.** El artículo 4º de la LEY 17989, publicada el 29.04.1981, dispone que la modificación introducida a la presente norma, rige a contar del año tributario 1982.
-
-> **Nota.** NOTA: 1 El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
-
-> **Nota.** NOTA: 2 El artículo 10 letra A a), de la LEY 18682, publicada el 31.12.1987, dispone que modificación introducida a esta norma, rige a contar del año el año tributario 1988.
-
-> **Nota.** NOTA: 3 El artículo 4º de la LEY 18775, publicada el 14.01.1989, dispuso que las modificaciones introducidas al presente artículo, regirán a contar del 1º de enero de 1989.
-
-> **Nota.** NOTA: 4 El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del año tributario 2002.
+> **Nota.** NOTA: 2.3 El artículo 4° de la ley 18.775, publicada en el Diario Oficial de 14 de enero de 1989, dispuso que las modificaciones introducidas al presente artículo regirán a contar del 1° de enero de 1989.
 
 #### Artículo 66°
 
@@ -3078,69 +1142,33 @@ Si las corporaciones, sociedades, empresas o cualquiera persona jurídica extran
 
 Los contribuyentes no estarán obligados a llevar contabilidad alguna para acreditar las rentas clasificadas en el N° 2 del artículo 20°, y en el artículo 22°, excepto en la situación prevista en el último inciso del artículo 26°, en el artículo 34° y en el N° 1 del artículo 42°, sin perjuicio de los libros auxiliares u otros registros especiales que exijan otras leyes o el Director Nacional. Con todo, estos contribuyentes deberán llevar un registro o libros de ingresos diarios, cuando estén sometidos al sistema de pagos provisionales en base a sus ingresos brutos.
 
-Asimismo el director podrá liberar de la obligación de llevar contabilidad a aquellos contribuyentes no domiciliados ni residentes en el país, que solamente obtengan renta producto de la tenencia o enajenación de capitales mobiliarios o rentas de aquellas que establezca el Servicio de Impuestos Internos mediante resolución, aun cuando estos contribuyentes hayan designado un representante a cargo de sus inversiones en el país. En ejercicio de esta facultad el Director podrá exigir que la persona a cargo de las inversiones en el país lleve un libro de ingresos y egresos.
-
-Sin embargo, los contribuyentes que declaren en la forma establecida en el inciso final del artículo 50, no estarán obligados a llevar contabilidad y ningún otro registro o libro de ingresos diarios.
-
 Los siguientes contribuyentes estarán facultados para llevar una contabilidad simplificada:
 
-a) Los contribuyentes de la Primera Categoría del Título II que, a juicio exclusivo de la Dirección Regional, tengan un escaso movimiento, capitales pequeños en relación al giro de que se trate, poca instrucción o se encuentren en cualquiera otra circunstancia excepcional. A estos contribuyentes la Dirección Regional podrá exigirles una planilla con detalle cronológico de las entradas y un detalle aceptable de los gastos. La Dirección Regional podrá cambiar el sistema aplicable a estos contribuyentes, pero dicha modificación regirá a contar del año calendario o comercial siguiente.
+a) Los contribuyentes de la Primera Categoría del Título II que, a juicio exclusivo de la Dirección Regional, tengan un escaso movimiento, capitales pequeños en relación al giro de que se trate, poca instrucción o se encuentren en cualquiera otra circunstancia excepcional. A estos contribuyentes la Dirección Regional podrá exigirles una planilla con detalle cronólogico de las entradas y un detalle aceptable de los gastos. La Dirección Regional podrá cambiar el sistema aplicable a estos contribuyentes, pero dicha modificación regirá a contar del año calendario o comercial siguiente.
 
-b) Los contribuyentes que obtengan rentas clasificadas en la Segunda Categoría del Título II, de acuerdo con el N° 2 del artículo 42°, con excepción de las sociedades de profesionales y de los acogidos a las disposiciones del inciso final del artículo 50, podrán llevar respecto de esas rentas un solo libro de entradas y gastos en el que se practicará un resumen anual de las entradas y gastos.
-
-c) Los contribuyentes acogidos al artículo 14 letra D), de acuerdo a las reglas señaladas en el número 3 de dicho artículo. No obstante llevar contabilidad simplificada a estos contribuyentes les aplicará lo establecido en el artículo 21, lo que excluye a los contribuyentes del número 8 de la referida letra D) del artículo 14.
-
-d) Las Fundaciones y Corporaciones que únicamente perciban aportes o donaciones cuyo destino esté exclusivamente orientado a ejecutar el objeto o fin para el cual fueron constituidas, y que no desarrollen actividades gravadas con el impuesto de primera categoría, podrán llevar un estado de fuentes y usos, el cual contendrá al menos la identificación del aportante o donante, el monto y tipo de aportes o donaciones recibidas y las especificaciones de uso de los mismos, considerando datos del perceptor de tales desembolsos, monto total pagado, número y tipo de documentos recibidos o emitidos, según corresponda. El registro de las operaciones en el estado de fuentes y usos deberá efectuarse en orden cronológico.
+b) Los contribuyentes que obtengan rentas clasificadas en la Segunda Categoría del Título II, de acuerdo con el N° 2 del artículo 42°, con excepción de las sociedades de profesionales, podrán llevar respecto de esas rentas un solo libro de entradas y gastos en el que se practicará un resumen anual de las entradas y gastos.
 
 Los demás contribuyentes no indicados en los incisos anteriores deberán llevar contabilidad completa o un solo libro si la Dirección Regional así lo autoriza.
 
-> **Nota.** El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
-
-> **Nota.** NOTA: 1 El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del año tributario 2002.
-
-#### Artículo 68° bis
-
-Los contribuyentes que perciban rentas por el ejercicio de aquellas actividades señaladas en el artículo 42 N° 2 y en el artículo 48 deberán emitir boletas de honorarios en forma electrónica en la forma y en el plazo que determine el Servicio de Impuestos Internos mediante una resolución.
-
-La obligación de emitir documentos electrónicos establecida en el inciso anterior no será aplicable en el caso de contribuyentes que desarrollen su actividad en un lugar geográfico sin cobertura de datos móviles o fijos de operadores de telecomunicaciones que tienen infraestructura, sin acceso a energía eléctrica, o en lugares declarados como zonas afectadas por catástrofe conforme al decreto supremo N° 104, de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del Título I de la ley Nº 16.282, a quienes el Servicio de Impuestos Internos les deberá autorizar y timbrar boletas de honorarios en papel. En estos casos, el Servicio de Impuestos Internos, de oficio o a petición de parte, dictará una o más resoluciones, según sea necesario, individualizando al contribuyente o grupo de contribuyentes que se encuentren en alguna de las situaciones referidas, en base a la información entregada por los organismos técnicos que corresponda, respecto de las zonas geográficas del territorio nacional que no cuentan con los servicios o suministros respectivos y el plazo durante el cual dicha situación se mantendrá o debiese mantenerse. Dicha información deberá ser entregada por los organismos referidos en forma periódica conforme lo solicite el Servicio de Impuestos Internos.
-
-El contribuyente que presente una solicitud para obtener una resolución según lo que se establece en el inciso anterior podrá emitir boletas de honorarios en papel mientras que la solicitud no sea resuelta, debiendo el Servicio de Impuestos Internos autorizar y timbrar aquellas boletas de honorarios que sean necesarias para su actividad mientras esté pendiente la resolución. En todo caso, transcurridos treinta días corridos desde la presentación sin que la solicitud sea resuelta por el Servicio de Impuestos Internos, ésta se entenderá aceptada.
-
-Tratándose de lugares declarados como zonas afectadas por catástrofe por terremoto o inundación, el Servicio de Impuestos Internos, dentro de los cinco días siguientes a la publicación en el Diario Oficial del respectivo decreto que realiza tal declaración, podrá de oficio dictar una resolución fundada autorizando el timbraje de boletas de honorarios en papel respecto de aquellas localidades afectadas que así lo determine.
-
 #### Artículo 69°
 
-Las declaraciones anuales exigidas por esta ley serán presentadas en el mes de abril de cada año, en relación a las rentas obtenidas en el año calendario o comercial anterior, salvo las siguientes excepciones:
+Las declaraciones anuales exigidas por esta ley serán presentadas en el mes de Marzo de cada año, en relación a las rentas obtenidas en el año calendario o comercial anterior, según proceda, salvo las siguientes excepciones:
 
-1°.- Los contribuyentes a que se refiere el N° 1 del artículo 65, cuyos balances se practiquen en el mes de junio, deberán presentar su declaración de renta en el mes de octubre del mismo año.
+1°- Los contribuyentes a que se refiere el N° 1 del artículo 65°, cuyos balances se practiquen en el mes de Junio, deberán presentar su declaración de renta en el mes de Septiembre del mismo año.
 
-2°.- Aquellos contribuyentes que terminen su giro, deberán declarar en la oportunidad señalada en el Código Tributario.
+2°- Aquellos contribuyentes que terminen su giro, deberán declarár en la oportunidad señalada en el Código Tributario.
 
-3°.- Aquellos contribuyentes que obtengan rentas esporádicas afectas al impuesto de primera categoría o al impuesto global complementario, según sea el caso, deberán declarar dentro del mes siguiente al de obtención de la renta, a menos que el citado tributo haya sido retenido en su totalidad de conformidad con lo dispuesto en los artículos 73 o 74. Se excluyen de esta norma los ingresos mencionados en las letras a), b) y c) del número 1.- del artículo 41 A. Si se tratare de rentas afectas a impuesto global complementario, deberá utilizarse para esta declaración mensual la tabla de cálculo establecida en el artículo 43 y reliquidarse posteriormente según las reglas generales de este impuesto.
-
-4°.- Aquellos contribuyentes sin domicilio ni residencia en Chile que deban pagar el impuesto del artículo 58 número 3), en relación al mayor valor obtenido en las enajenaciones a que se refiere el inciso tercero del artículo 10, podrán declarar dentro del mes siguiente al de obtención de la renta correspondiente. Con todo, cuando estos contribuyentes se encuentren obligados a presentar una declaración anual por otras rentas, podrán abonar los impuestos declarados y pagados de conformidad a este número, debidamente reajustados o convertidos a moneda nacional, según proceda, en la forma que señale el Servicio mediante resolución.
-
-> **Nota.** El Nº 1 del artículo 9 del DL 1362, Hacienda, publicado el 06.03.1976, dispone que la modificación que introduce a esta norma, regirá a contar del año tributario 1976.
+3°- Aquellos contribuyentes que obtengan rentas esporádicas afectas al impuesto de Primera Categoría, incluyéndose, cuando procedan, los ingresos mencionados en el N° 8 del artículo 17°, deberán declarar dentro del mes siguiente al de obtención de la renta.
 
 #### Artículo 70°
 
 Se presume que toda persona disfruta de una renta a lo menos equivalente a sus gastos de vida y de las personas que viven a sus expensas.
 
-Si el interesado no probare el origen de los fondos con que ha efectuado sus gastos, desembolsos o inversiones, se presumirá que corresponden a utilidades afectas al impuesto de Primera Categoría según el N° 3° del artículo 20 o clasificadas en la Segunda Categoría conforme al N° 2° del artículo 42, atendiendo a la actividad principal del contribuyente.
-
-Los contribuyentes que no estén obligados a llevar contabilidad completa, podrán acreditar el origen de dichos fondos por todos los medios de prueba que establece la ley.
-
-Cuando el contribuyente probare el origen de los fondos, pero no acreditare haber cumplido con los impuestos que hubiese correspondido aplicar sobre tales cantidades, los plazos de prescripción establecidos en el artículo 200 del Código Tributario se entenderán aumentados por el término de seis meses contados desde la notificación de la citación efectuada en conformidad con el artículo 63 del Código Tributario, para perseguir el cumplimiento de las obligaciones tributarias y de los intereses penales y multas que se derivan de tal incumplimiento.
-
-> **Nota.** El artículo 15 Nº 4 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que la modificación introducidas por el Nº 25 de su artículo 1º, rige contar de la fecha de su publicación.
-
-> **Nota.** NOTA: 1 El artículo 4 de la LEY 18775, publicada el 14.01.1989, dispone que la modificación introducida al presente artículo, rige a contar del 1º de enero de 1989.
-
-> **Nota.** NOTA: 2 El Artículo 10º de la LEY 19247, publicada el 15.09.1993, ordenó que lo dispuesto por su artículo 1º, regirá a contar del 1º de enero de 1994, afectando a las rentas que se perciban o se devenguen desde esa fecha, a excepción de la letra j), que regirá a contar del 4 de junio de 1993, y de las letras g) y h), que tendrán vigencia desde el 1° de enero de 1995.
+Si el interesado no probare el origen de los fondos con que ha efectuado sus gastos o inversiones, se presumirá que corresponden a utilidades afectas al impuesto establecido en Primera Categoría. Se gravarán, además, esas utilidades con el impuesto a las compraventas de bienes corporales muebles o con el impuesto a los servicios, establecidos en la ley respectiva según sea el giro principal de la actividad del infractor.
 
 #### Artículo 71°
 
-Si el contribuyente alegare que sus ingresos o inversiones provienen de rentas exentas de impuesto o afectas a impuestos sustitutivos, o de rentas efectivas de un monto superior que las presumidas de derecho, deberá acreditarlo mediante contabilidad fidedigna o en caso de que no se encuentre obligado a llevarla, por cualquier medio de prueba legal. En estos casos el Director Regional deberá comprobar el monto líquido de dichas rentas. Si el monto declarado por el contribuyente no fuere correcto, el Director Regional podrá fijar o tasar dicho monto, tomando como base la rentabilidad de las actividades a las que se atribuyen las rentas respectivas o, en su defecto, considerando otros antecedentes que obren en poder del Servicio.
+Si el contribuyente alegare que sus ingresos o inversiones provienen de rentas exentas de impuesto o afectas a impuestos sustitutivos, o de rentas efectivas de un monto superior que las presumidas de derecho, deberá acreditarlo mediante contabilidad fidedigna, de acuerdo con normas generales que dictará el Director. En estos casos el Director Regional deberá comprobar el monto líquido de dichas rentas. Si el monto declarado por el contribuyente no fuere correcto, el Director Regional podrá fijar o tasar dicho monto, tomando como base la rentabilidad de las actividades a las que se atribuyen las rentas respectivas o, en su defecto, considerando otros antecedentes que obren en poder del Servicio.
 
 La diferencia de renta que se produzca entre lo acreditado por el contribuyente y lo tasado por el Director Regional, se gravará de acuerdo con lo dispuesto en el inciso segundo del artículo 70°.
 
@@ -3168,67 +1196,23 @@ Tratándose de intereses anticipados o descuento de valores provenientes de oper
 
 Cuando estas rentas no se paguen en dinero y estén representadas por otros valores, deberá exigirse a los beneficiados, previamente, el pago del impuesto correspondiente.
 
-#### Artículo 74°
+#### Artículo 74
 
 Estarán igualmente sometidos a las obligaciones del artículo anterior:
 
-1°.- Los que paguen rentas gravadas en el N° 1 del artículo 42°.
+1°- Los que paguen rentas gravadas en el N° 1 del artículo 42°.
 
-2°.- Las instituciones fiscales, semifiscales, los organismos fiscales y semifiscales de administración autónoma, las Municipalidades, las personas jurídicas en general, y las personas que obtengan rentas de la Primera Categoría, que estén obligados, según la ley, a llevar contabilidad, que paguen rentas del N° 2 del artículo 42. La retención se efectuará con una tasa provisional del 17%.
+2°- las instituciones fiscales y semifiscales de administración autónoma, las Municipalidades, las personas jurídicas en general, y las personas que obtengan rentas de la Primera Categoría, que estén obligados, según la ley, a llevar contabilidad, que paguen rentas del N° 2 del artículo 42. La retención se efectuará con una tasa provisional del 10%.
 
-3°.- Las sociedades anónimas que paguen rentas gravadas en el artículo 48°. La retención se efectuará con una tasa provisional del 10%.
+3°- Las sociedades anónimas que paguen rentas gravadas en el artículo 48°. La retención se efectuará con una tasa provisional del 10%.
 
-4º.- Las personas o entidades que remesen al exterior, abonen en cuenta, pongan a disposición o paguen rentas o cantidades afectas al impuesto adicional de acuerdo con los artículos 58, 59 y 60, casos en los cuales la retención deberá efectuarse con la tasa de impuesto adicional que corresponda.
+4°- Los contribuyentes que distribuyan o paguen rentas afectas al impuesto adicional de acuerdo, con los artículos 58°, N° 2, 59° y 60°. Respecto de las rentas referidas en el inciso primero del artículo 60°. la retención se efectuará con una tasa provisional del 20% que se aplicará sobre las cantidades que se paguen, se abonen en cuenta o se pongan a disposición de las personas referidas en dicho inciso, sin deducción alguna, y el monto de lo retenido provisionalmente se dará de abono al conjunto de los impuestos de categoría, adicional y/o global complementario que declare el contribuyente respecto de las mismas rentas afectadas por la retención. No obstante, tratándose de la distribución o pago de participaciones de utilidades, la retención se efectuará con tasa del 40%.
 
-Tratándose de empresas sujetas a las disposiciones de la letra
-
-- **A)** y de la letra
-
-- **D)** del artículo 14, la retención que deba efectuarse sobre los retiros, remesas o distribuciones realizadas que se afecten con el impuesto adicional, se efectuará incrementando previamente la base en virtud de los artículos 58 y 62, con derecho a los créditos establecidos en los artículos 41 A y 63, determinados conforme a lo dispuesto en el número 5 de la letra
-
-- **A)** del artículo 14. En estos casos se otorgará un crédito provisorio por impuesto de primera categoría, sujeto a la obligación de restitución en los casos que corresponda conforme a los artículos 14 y 63, que se utilizará al momento de la retención, cuya tasa será la que corresponda asignar en el año del retiro, remesa o distribución. También se otorgará un crédito provisorio por aquel a que se refiere el artículo 41 A, siempre que, al momento de la retención, la empresa mantenga un saldo en el registro SAC al término del ejercicio anterior y, en ese caso, hasta el tope del crédito mantenido en el saldo del SAC, o bien, cuando en el ejercicio en que se realice la retención, la empresa que debe realizar dicha retención haya percibido retiros o dividendos que den derecho a dicho crédito, caso en el cual el crédito provisorio se otorgará hasta el tope del impuesto pagado en el extranjero. En todo caso, la tasa de crédito provisorio que procede según el artículo 41 A corresponderá a la diferencia entre la tasa del impuesto adicional y la tasa provisoria de crédito por impuesto de primera categoría que resulte aplicable en el año del retiro, remesa o distribución.
-
-Si al término del ejercicio se determina que la deducción del crédito por impuesto de primera categoría establecido en el artículo 63, o el crédito a que se refiere el artículo 41 A, otorgados en forma provisoria sobre los retiros remesas o distribuciones, resultare indebida, total o parcialmente, la empresa deberá pagar al Fisco, por cuenta del contribuyente de impuesto adicional, la diferencia de impuesto que resulte al haberse deducido un mayor crédito, sin perjuicio del derecho de la empresa de repetir contra aquél. Esta cantidad se pagará en la declaración anual a la renta que deba presentar la empresa, reajustada en el porcentaje de variación del Índice de Precios al Consumidor entre el mes anterior al de la retención y el mes anterior a la presentación de la declaración de impuesto a la renta.
-
-Si el crédito por impuesto de primera categoría que se imputó por la empresa en contra de la retención de impuesto adicional que afecta a los retiros, remesas o distribuciones consiste en un monto menor al que corresponde, el propietario podrá solicitar la devolución del exceso de retención conforme al artículo 126 del Código Tributario, o a través de su declaración anual de impuesto a la renta, aun cuando no se encuentre obligado a efectuar dicha declaración de acuerdo al artículo 65. El propietario podrá también solicitar que la respectiva suma incremente el SAC, establecido en la letra d) del número 2 de la letra A) del artículo 14, de la empresa al término del ejercicio correspondiente, lo que se hará constar mediante una declaración jurada simple que, en ese caso, la empresa deberá tener a disposición del Servicio.
-
-En el caso de las cantidades señaladas en los literales i) al iv) del inciso tercero del artículo 21, la empresa respectiva deberá efectuar una retención anual del 45% sobre dichas sumas, la que se declarará en conformidad a los artículos 65, número 1 y 69.
-
-El monto de lo retenido provisionalmente se dará de abono al conjunto de los impuestos que declare el contribuyente respecto de las mismas rentas o cantidades afectadas por la retención.
-
-Cuando al término del ejercicio los créditos establecidos en los artículos 41 A y 63, correspondientes a los retiros y remesas se informen a los propietarios para efectos de imputarlos en su declaración anual de impuestos, y asciendan a un monto mayor o menor al que corresponde, se aplicará lo dispuesto en el inciso primero o segundo del número 7 de la letra A), del artículo 14, según resulte aplicable.
-
-Tratándose de las rentas señaladas en la letra B) del artículo 14, la retención se efectuará de manera anual, sobre la renta que corresponda al propietario con tasa del 35%, con deducción del crédito establecido en el artículo 63, cuando la empresa respectiva se hubiere gravado con el impuesto de primera categoría. La retención en estos casos se declarará en conformidad a los artículos 65, número 1 y 69.
-
-Igual obligación de retener, tendrán los contribuyentes que remesen al exterior, pongan a disposición, abonen en cuenta o paguen a contribuyentes sin domicilio ni residencia en Chile, rentas o cantidades provenientes de las operaciones señaladas en las letras a), b), c), d), i) y m) del número 8 del artículo 17. La retención se efectuará con una tasa provisional del 10% sobre el total de las cantidades que se remesen al exterior, paguen, abonen en cuenta o pongan a disposición del contribuyente sin domicilio o residencia en Chile, sin deducción alguna, salvo que pueda determinarse el mayor valor afecto a impuesto, caso en el cual la retención se efectuará con la tasa del 35% sobre dicho mayor valor, montos que en ambos casos se darán de abono al conjunto de los impuestos que declare el contribuyente respecto de las mismas rentas o cantidades afectadas por la retención, sin perjuicio de su derecho de imputar en su declaración anual el remanente que resultare a otros impuestos anuales de esta ley o a solicitar su devolución en la forma prevista en el artículo 97. Si con la retención declarada y pagada se han solucionado íntegramente los impuestos que afectan al contribuyente, este último quedará liberado de presentar la referida declaración anual.
-
-Sin perjuicio de la declaración anual a la que pueda encontrarse obligado, el contribuyente enajenante podrá presentar una solicitud al Servicio de Impuestos Internos con anterioridad al vencimiento del plazo legal para la declaración y pago de la retención, en la forma que este establezca mediante resolución, con la finalidad de que se determine previamente el mayor valor sobre el cual deberá calcularse el monto de la retención. La presentación de esta solicitud suspenderá el plazo para efectuar la retención correspondiente contemplada en el artículo 79, hasta su resolución. Dicha solicitud deberá incluir, además de la estimación del mayor valor de la operación, todos los antecedentes que lo justifiquen. El Servicio se pronunciará fundadamente sobre dicha solicitud en un plazo de veinte días hábiles, contado desde la fecha en que el contribuyente enajenante haya puesto a disposición de aquel todos los antecedentes necesarios para resolver la solicitud, de lo que se dejará constancia en una certificación emitida por la oficina correspondiente del Servicio. Vencido este plazo sin que el Servicio se haya pronunciado sobre la solicitud, se entenderá que ésta ha sido aceptada, caso en el cual el monto de la retención se tendrá por determinado conforme a la propuesta del contribuyente enajenante y la retención se efectuará por el adquirente conforme a las reglas generales. El mayor valor que se haya determinado de acuerdo a lo anterior no podrá ser objeto de fiscalización alguna, salvo que los antecedentes acompañados por el contribuyente enajenante sean maliciosamente falsos, incompletos o erróneos, caso en el cual el Servicio, previa citación conforme al artículo 63 del Código Tributario, podrá liquidar y girar al contribuyente enajenante las diferencias de impuestos que se detecten conforme a las reglas generales, más los reajustes, intereses y multas pertinentes, o bien, en el caso que se proceda aplicar la tasación del valor de enajenación conforme al artículo 64 del Código Tributario.
-
-En todo caso, podrá no efectuarse la retención si se acredita, en la forma que establezca el Servicio mediante resolución, que los impuestos de retención o definitivos aplicables a la operación han sido declarados y pagados directamente por el contribuyente de impuesto adicional, o que se trata de cantidades que correspondan a ingresos no constitutivos de renta o rentas exentas de los impuestos respectivos o que de la operación respectiva resultó un menor valor o pérdida para el contribuyente, según corresponda. En estos casos, cuando no se acredite fehacientemente el cumplimiento de alguna de las causales señaladas, el contribuyente obligado a retener, será responsable del entero de la retención a que se refiere este número, sin perjuicio de su derecho a repetir en contra del contribuyente sin domicilio o residencia en Chile.
-
-No obstante lo dispuesto en los párrafos anteriores, los contribuyentes que remesen, distribuyan, abonen en cuenta, pongan a disposición o paguen rentas o cantidades a contribuyentes sin domicilio o residencia en Chile que sean residentes de países con los que exista un convenio vigente para evitar la doble tributación internacional y sean beneficiarios de dicho convenio, tratándose de rentas o cantidades que conforme al mismo sólo deban gravarse en el país del domicilio o residencia, o se les aplique una tasa inferior a la que corresponda de acuerdo a esta ley, podrán no efectuar las retenciones establecidas en este número o efectuarlas con la tasa prevista en el convenio, según sea el caso, cuando el beneficiario de la renta o cantidad les acredite mediante la entrega de un certificado emitido por la autoridad competente del otro Estado Contratante, su residencia en ese país y le declare en la forma que establezca el Servicio mediante resolución, que al momento de esa declaración no tiene en Chile un establecimiento permanente o base fija a la que se deban atribuir tales rentas o cantidades, y que cumple con los requisitos para ser beneficiario de las disposiciones del convenio respecto de la imposición de las rentas o cantidades señaladas. Se presumirá salvo prueba en contrario que un certificado de residencia fiscal emitido por autoridad competente, acreditará la residencia fiscal del contribuyente durante el año calendario en que se haya emitido. Cuando el Servicio establezca en el caso particular que no concurrían los requisitos para aplicar las disposiciones del respectivo convenio en virtud de las cuales no se efectuó retención alguna o la efectuada lo fue por un monto inferior a la que hubiese correspondido de acuerdo a este artículo, el contribuyente obligado a retener, será responsable del entero de la retención que total o parcialmente no se hubiese efectuado, sin perjuicio de su derecho a repetir en contra del contribuyente no residente ni domiciliado en Chile.
-
-Tratándose de las enajenaciones a que se refieren los artículos 10, inciso tercero, y 58, número 3), los adquirentes de las acciones, cuotas, derechos y demás títulos efectuarán una retención con una tasa provisional del 20% sobre el total de las cantidades que pongan a disposición del enajenante, sin deducción alguna, o 35% sobre la renta gravada determinada conforme a la letra b) del número 3) del artículo 58, retención que se declarará en conformidad a los artículos 65, número 1, y 69, o conforme al artículo 79, a elección del contribuyente.
-
-5°.- Las empresas periodísticas, editoras, impresoras e importadoras de periódicos, revistas e impresos, que vendan estos artículos a los suplementeros, sea directamente o por intermedio de agencias o de distribuidores, deberán retener el impuesto referido en el artículo 25° con la tasa del 0,5% aplicada sobre el precio de venta al público de los respectivos periódicos, revistas e impresos que los suplementeros hubieren vendido efectivamente.
-
-6°.- Los compradores de productos mineros de los contribuyentes a que se refiere la presente ley deberán retener el impuesto referido en el artículo 23° de acuerdo con las tasas que en dicha disposición se establecen, aplicadas sobre el valor neto de venta de los productos. Igual retención, y con las mismas tasas, procederá respecto de los demás vendedores de minerales que determinen sus impuestos de acuerdo a presunciones de renta. El contribuyente podrá solicitar a los compradores la retención de un porcentaje mayor.
-
-7º.- Los emisores de instrumentos de deuda de oferta pública a que se refiere el artículo 104, respecto de los tenedores de los mismos, con una tasa del 4% sobre los intereses devengados a la fecha de cada pago de interés o cupón o de un pago anticipado o rescate, desde el pago de cupón anterior o fecha de emisión, según sea el caso.
-
-Esta retención reemplazará a la que se refiere el número 4º de este artículo respecto de los mismos intereses, pagados o abonados en cuenta a contribuyentes sin domicilio ni residencia en el país. En el caso de contribuyentes domiciliados o residentes en Chile, el 4% sobre los intereses devengados durante el período en que dichos instrumentos hayan estado en su propiedad podrá darse de abono a los impuestos anuales de Primera Categoría o Global Complementario que graven los respectivos intereses, según corresponda, con derecho a solicitar la devolución del excedente que pudiese resultar de dicho abono.
-
-El emisor deberá declarar al Servicio de Impuestos Internos, en la forma y plazo que éste determine, los antecedentes de las retenciones que haya debido efectuar conforme a este número. La no presentación de esta declaración o su presentación extemporánea, incompleta o errónea será sancionada con la multa establecida en el número 2º del artículo 97 del Código Tributario, la que se aplicará conforme al procedimiento del artículo 165 del mismo texto legal.
-
-Después de cada retención, los inversionistas que no tengan la calidad de contribuyentes para los efectos de esta ley podrán solicitar por escrito al Servicio de Impuestos Internos la devolución del 4% sobre los intereses devengados durante el período en que dichos instrumentos hayan sido de su propiedad, mediante una declaración jurada en que identifiquen los instrumentos de deuda respectivos y el período en que dichos instrumentos hayan sido de su propiedad durante el plazo transcurrido entre dicha retención y la retención anterior o colocación de los instrumentos, según corresponda, todo ello en la forma y oportunidad que establezca el referido Servicio mediante resolución. La solicitud de devolución deberá presentarse a más tardar el día 5 del mes siguiente a cada fecha de retención. Dicha devolución se hará hasta el día 12 del mes siguiente a la fecha de retención, mediante un procedimiento que establecerá el Servicio de Impuestos Internos mediante resolución. La entrega maliciosa de información incompleta o falsa en la declaración jurada a que se refiere este párrafo, en virtud de la cual se obtenga una devolución indebida o superior a la que correspondiere, se sancionará en la forma prevista en el párrafo tercero del número 4º del artículo 97 del Código Tributario.
-
-Se exceptúa al emisor de la obligación de retener el 4% establecido en este numeral cuando se trate de instrumentos de deuda de oferta pública que hayan establecido, en sus condiciones de emisión, que la retención se efectuará en la forma señalada en el numeral 8° siguiente.
-
-8º.- Los representantes, custodios, intermediarios, depósitos de valores u otras personas domiciliadas o constituidas en el país que hayan sido designadas o contratadas por contribuyentes sin domicilio ni residencia en Chile, para los efectos de cumplir con las obligaciones tributarias provenientes de la tenencia o enajenación de los instrumentos de deuda de oferta pública a que se refiere el artículo 104 cuyas condiciones de emisión señalen que la retención se sujetará a lo establecido en este numeral, con una tasa de 4% sobre los intereses devengados durante el ejercicio respectivo, conforme a lo dispuesto en el artículo 20, número 2º, letra g). Esta retención reemplazará a la que establece el número 4º de este artículo respecto de los mismos intereses, pagados o abonados en cuenta a los contribuyentes sin domicilio ni residencia en Chile. Las personas señaladas precedentemente deberán informar al Servicio de Impuestos Internos, en la forma y plazo que éste determine mediante resolución, sobre los antecedentes de las retenciones que hayan debido efectuar conforme a este número. La no presentación de esta declaración o su presentación extemporánea, incompleta o errónea, será sancionada con la multa establecida en el número 2º, del artículo 97, del Código Tributario, la que se aplicará conforme al procedimiento del artículo 165 del mismo texto legal. Esta disposición no será aplicable a aquellos instrumentos incluidos en la nómina de instrumentos elegibles señalada en el número 4 del artículo 104, los que se regirán por lo establecido en el numeral anterior.
+5°- Las empresas periodísticas, editoras, impresoras e importadoras de periódicos, revistas e impresos, que vendan estos artículos a los suplementeros, sea directamente o por intermedio de agencias o de distribuidores, deberán retener el impuesto referido en el artículo 25° con la tasa del 0,5% aplicada sobre el precio de venta al público de los respectivos periódicos, revistas e impresos que los suplementeros hubieren vendido efectivamente.
 
 #### Artículo 75°
 
-Las retenciones practicadas de acuerdo a lo dispuesto en los artículos 73° y 74° que deban, según la ley, darse de abono a impuestos anuales, tendrán la calidad de pagos provisionales para los efectos de la imputación a que se refiere el artículo 95, y se reajustarán según la variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes anterior al de su retención y el último día del mes anterior a la fecha de cierre del ejercicio.
+Las retenciones practicadas de acuerdo a lo dispuesto en los artículos 73° y 74° que deban, según la ley, darse de abono a impuestos anuales, tendrán la calidad de pagos provisionales para los efectos de la imputación a que se refiere el artículo 95, y se reajustarán según la variación experimentada por el índice de precios al consumidor en el período comprendido entre el último día del mes anterior al de su retención y el último día del mes anterior a la fecha de cierre del ejercicio, con excepción de las sumas retenidas por concepto del impuesto contemplado en el artículo 43° N° 1.
 
 INCISO ELIMINADO
 
@@ -3252,21 +1236,17 @@ Dentro de los primeros doce días de cada mes, las personas obligadas a efectuar
 
 INCISO DEROGADO
 
-> **Nota.** El artículo 1º del DTO 1001, Hacienda, publicado el 12.10.2006, amplia, hasta el día 20 de cada mes, los plazos de Declaración y Pago de los impuestos, a que se refiere la presente norma, respecto de los contribuyentes que presenten las declaraciones de los impuestos correspondientes a través de internet, y que cumplan con los requisitos que en ella se indican.
-
 #### Artículo 79°
 
-Las personas obligadas a efectuar las retenciones a que se refiere el artículo 73° y el número 4 del artículo 74° deberán declarar y pagar los impuestos retenidos hasta el día 12 del mes siguiente de aquél en que fue pagada, distribuida, retirada, remesada, abonada en cuenta o puesta a disposición del interesado la renta respecto de la cual se ha efectuado la retención. No obstante, la retención que se efectúe por las cantidades a que se refieren los literales i) al iv), del inciso tercero del artículo 21 y por las rentas a que se refiere el inciso tercero del artículo 10 y 58 número 3), se declarará y pagará de acuerdo con las normas establecidas en los artículos 65, Nº 1, 69 y 72. Las retenciones que se efectúen conforme a lo dispuesto por los números 7° y 8° del artículo 74, se declararán y pagarán en el primer caso, dentro de los cinco días hábiles siguientes a la retención, sin reajuste alguno desde la fecha de retención respectiva, lo que se entenderá que ocurre cuando se produce el pago de interés al inversionista; y en el segundo, dentro del mes de enero siguiente al término del ejercicio en que se devengaron los intereses respectivos, sin perjuicio de lo dispuesto por el artículo 69 del Código Tributario.
+Las personas obligadas a efectuar las retenciones a que se refiere el artículo 73° y el número 4 del artículo 74° deberán declarar y pagar los impuestos retenidos hasta el día 12 del mes siguiente de aquél en que fue pagada, distribuida, retirada, remesada, abonada en cuenta o puesta a disposición del interesado la renta respecto de la cual se ha efectuado la retención. No obstante, la retención que se efectúe por las cantidades a que se refiere el inciso primero del artículo 21, se declarará y pagará de acuerdo con las normas establecidas en los artículos 65, N° 1, 69 y 72.
 
 > **Nota.** El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
 
 > **Nota.** NOTA: 1 Las modificaciones introducidas por el artículo 1º de la LEY 18897, publicada el 09.01.1990, rigen según lo dispone su artículo 2º, desde el año tributario 1990.
 
-> **Nota.** NOTA: 2 El artículo 1º del DTO 1001, Hacienda, publicado el 12.10.2006, amplia, hasta el día 20 de cada mes, los plazos de Declaración y Pago de los impuestos, a que se refiere la presente norma, respecto de los contribuyentes que presenten las declaraciones de los impuestos correspondientes a través de internet, y que cumplan con los requisitos que en ella se indican.
-
 #### Artículo 80°
 
-Si el monto total de la cantidad que se debe retener por concepto de un impuesto de categoría de aquellos que deben enterarse mensualmente, resultare inferior a la décima parte de una unidad tributaria mensual, la persona que deba retener o pagar dicho impuesto podrá hacer la declaración de seis meses conjuntamente.
+Si el monto total de la cantidad que se debe retener por concepto de un impuesto de categoría de aquellos que deben enterarse mensualmente, resultare inferior a la décima parte de una unidad tributaria, la persona que deba retener o pagar dicho impuesto podrá hacer la declaración de seis meses conjuntamente.
 
 #### Artículo 81°
 
@@ -3286,65 +1266,27 @@ La responsabilidad por el pago de los impuestos sujetos a retención en conformi
 
 Declaración y pago mensual provisional
 
-#### Artículo 84°
+#### Artículo 84
 
-Los contribuyentes obligados por esta ley a presentar declaraciones anuales de Primera y/o Segunda Categoría, deberán efectuar mensualmente pagos provisionales a cuenta de los impuestos anuales que les corresponda pagar, cuyo monto se determinará en la forma que se indica a continuación:
+Los contribuyentes obligados por esta ley a presentar declaraciones anuales de Primera y/o Segunda Categoría, deberán efectuar mensualmente pagos provisionales a cuenta de los impuestos anuales que les corresponda pagar, tanto de Categoría como de Global Complementario o Adicional, cuyo monto se determinará en la forma que se indica a continuación:
 
-a) Un porcentaje sobre el monto de los ingresos brutos mensuales, percibidos o devengados por los contribuyentes que desarrollen las actividades a que se refieren los números 1°, 3°, 4° y 5° del artículo 20, que declaren impuestos sobre renta efectiva. Para la determinación del monto de los ingresos brutos mensuales se estará a las normas del artículo 29.
+a) Un porcentaje sobre el monto de los ingresos brutos mensuales devengados por las actividades a que se refieren los números 1°, letras a) y e), 3, 4 y 5 del artículo 20°, excepto los correspondientes a rentas sujetas a impuestos sustitutivos de los de la ley de la Renta y sin perjuicio de lo dispuesto en las letras siguientes. Dicho porcentaje se establecerá en base a la relación porcentual existente entre el monto de los ingresos brutos devengados en los cinco ejercicios comerciales inmediatamente anteriores y el monto total de los impuestos de Primera Categoría y Global Complementario o Adicional del empresario o socios, que deben pagarse por dichos ejercicios, sin considerar el reajuste del artículo 72. Este porcentaje así determinado se aplicará a los ingresos brutos mensuales devengados desde el tercer mes de cada ejercicio comercial hasta el segundo mes inclusive del ejercicio comercial siguiente. Tratándose de sociedades anónimas o en comandita por acciones, se considerará también el impuesto establecido con tasa adicional en el artículo 21°, para el cálculo del citado porcentaje.
 
-El porcentaje aludido en el inciso anterior se establecerá sobre la base del promedio ponderado de los porcentajes que el contribuyente debió aplicar a los ingresos brutos mensuales del ejercicio comercial inmediatamente anterior, pero debidamente incrementado o disminuido en la diferencia porcentual que se produzca entre el monto total de los pagos provisionales obligatorios, actualizados conforme al artículo 95, y el monto total del impuesto de primera categoría que debió pagarse por el ejercicio indicado, sin considerar el reajuste del artículo 72.
+En los casos en que el porcentaje aludido en el inciso anterior no se produzca en razón de haber ocurrido pérdida en los cinco ejercicios comerciales anteriores o no pueda determinarse por tratarse del primer ejercicio comercial, se considera que dicho porcentaje es un 2%.
 
-Si el monto de los pagos provisionales obligatorios hubiera sido inferior al monto del impuesto anual indicado en el inciso anterior, la diferencia porcentual incrementará el promedio de los porcentajes de pagos provisionales determinados. En el caso contrario, dicha diferencia porcentual disminuirá en igual porcentaje el promedio aludido.
+Las ventas que se realicen por cuenta de terceros no serán consideradas, para estos efectos, como ingresos brutos.
 
-El porcentaje así determinado se aplicará a los ingresos brutos del mes en que deba presentarse la declaración de renta correspondiente al ejercicio comercial anterior y hasta los ingresos brutos del mes anterior a aquél en que deba presentarse la próxima declaración de renta.
+En caso de prestación de servicios no se considerarán entre los ingresos brutos las cantidades que el contribuyente reciba de su cliente como reembolso de pagos hechos por cuenta de dicho cliente, siempre que tales pagos y los reembolsos a que den lugar se comprueben con documentación fidedigna y se registren en la contabilidad debidamente individualizados y no en forma global o estimativa. Tratándose de contribuyentes afectos al impuesto a los servicios conforme a la ley respectiva, sólo se podrán deducir los gastos reembolsables a que se refiere este artículo en los casos y con los requisitos que se señalan en dicha ley y en su reglamento;
 
-En los casos en que el porcentaje aludido en el inciso anterior no sea determinable, por haberse producido pérdidas en el ejercicio anterior o no pueda determinarse por tratarse del primer ejercicio comercial o por otra circunstancia, se considerará que dicho porcentaje es de un 1%.
+b) 10% sobre el monto de los ingresos mensuales percibidos por las actividades a que se refiere en N° 2 del artículo 42°;
 
-Las ventas que se realicen por cuenta de terceros no se considerarán, para estos efectos, como ingresos brutos. En el caso de prestación de servicios, no se considerarán entre los ingresos brutos las cantidades que el contribuyente reciba de su cliente como reembolso de pagos hechos por cuenta de dicho cliente, siempre que tales pagos y los reembolsos a que den lugar se comprueben con documentación fidedigna y se registren en la contabilidad debidamente individualizados y no en forma global o estimativa;
+c) 2% sobre el monto de los ingresos brutos de los talleres artesanales u obreros a que se refiere el artículo 26°. Este porcentaje será del 1% respecto de dichos talleres que se dediquen a la fabricación de bienes en forma preponderante;
 
-Sin perjuicio de lo anterior, cuando el contribuyente experimente cambios relevantes en sus ingresos, costos o gastos que afecten o puedan afectar significativamente la renta líquida del ejercicio, podrá recalcular la tasa de los pagos provisionales a que se refiere esta letra. Para este efecto se considerarán las siguientes reglas:
+d) Los contribuyentes mencionados en el N° 1 del artículo 34° darán cumplimiento al pago provisional mensual con la retención del impuesto establecido en las leyes N°s. 10.270 y 11.127;
 
-i) La disminución o aumento de la renta líquida estimada de manera provisional determinada de acuerdo al literal siguiente, deberá ser al menos de un 30% respecto del monto de dicho concepto determinado por el trimestre que finaliza el 31 de marzo, 30 de junio o 30 de septiembre del mismo ejercicio, según corresponda, de acuerdo a los registros contables respectivos.
+e) 0,2% sobre el precio corriente en plaza de los vehículos a que se refiere en N° 2 del artículo 34°, respecto de los contribuyentes mencionados en dicha disposición;
 
-ii) La renta líquida provisional a que se refiere el numeral i) anterior se preparará de acuerdo a las reglas generales de determinación de la renta líquida, sin considerar ajustes de corrección monetaria ni determinar partidas a que se refiere el artículo 21 y constituirán un estado de situación de conformidad al artículo 60 del Código Tributario.
-
-iii) La nueva tasa de pago provisional se determinará multiplicando la tasa de pago provisional mensual que debió utilizar el contribuyente en el trimestre inmediatamente anterior por uno más el porcentaje de variación determinado conforme al numeral i) anterior.
-
-iv) La nueva tasa se utilizará respecto de los ingresos brutos que se perciban o devenguen a contar del mes siguiente de la fecha que corresponda a la determinación que permite este párrafo.
-
-v) Los contribuyentes que recalculen sus pagos provisionales mensuales por aplicación de este inciso deberán mantener a disposición del Servicio de Impuestos Internos los antecedentes de la renta líquida provisional del trimestre respectivo mediante el expediente electrónico.
-
-vi) El Servicio, mediante una o más resoluciones, establecerá las reglas necesarias para facilitar y hacer efectiva esta opción.
-
-b) 17% sobre el monto de los ingresos mensuales percibidos por los contribuyentes que desempeñen profesiones liberales, por los auxiliares de la administración de justicia respecto de los derechos que conforme a la ley obtienen del público y por los profesionales Contadores, Constructores y Periodistas, con o sin título universitario. La misma tasa anterior se aplicará para los contribuyentes que desempeñen cualquier otra profesión u ocupación lucrativa y para las sociedades de profesionales;
-
-c) 3% sobre el monto de los ingresos brutos de los talleres artesanales u obreros a que se refiere el artículo 26°. Este porcentaje será del 1,5% respecto de dichos talleres que se dediquen a la fabricación de bienes en forma preponderante;
-
-d) Salvo los contribuyentes mencionados en la letra a) de este artículo, los mineros sometidos a las disposiciones de la presente ley darán cumplimiento al pago mensual obligatorio, con las retenciones a que se refiere el número 6° del artículo 74;
-
-e) 0,3% sobre el precio corriente en plaza de los vehículos a que se refiere el artículo 34, respecto de los contribuyentes mencionados en dicha disposición sujetos al régimen de renta presunta. Se excepcionarán de esta obligación las personas naturales cuya presunción de renta determinada en cada mes del ejercicio comercial respectivo, sobre el conjunto de los vehículos que exploten, no exceda de una unidad tributaria anual;
-
-f) Eliminada.
-
-g) Eliminada.
-
-h) Eliminada.
-
-i) Suprimida.
-
-La tasa que se determine conforme a este párrafo, se aplicará a los ingresos brutos del mes en que deba presentarse la declaración de renta correspondiente al ejercicio comercial anterior y hasta los ingresos brutos del mes anterior a aquel en que deba presentarse la próxima declaración de renta.
-
-Para los fines indicados en este artículo, no formarán parte de los ingresos brutos el reajuste de los pagos provisionales contemplados en el Párrafo 3° de este Título, las rentas gravadas en el extranjero a que se refiere el artículo 41 A y el ingreso bruto a que se refieren los incisos segundo al sexto del artículo 15 y las rentas señaladas en la letra a), del número 2, del artículo 33.
-
-> **Nota.** El artículo 2º de la LEY 18293, dispone que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984, sin perjuicio de vigencias especiales indicadas por la citada Ley.
-
-> **Nota.** NOTA: 1 El artículo octavo transitorio de la LEY 18985, publicada el 28.06.1990, dispone que la modificación introducida a este artículo, rigen a contar del día primero del mes siguiente al de su publicación.
-
-> **Nota.** NOTA: 2 El Artículo 10º de la LEY 19247, publicada el 15.09.1993, ordenó que lo dispuesto por su artículo 1º, regirá a contar del 1º de enero de 1994, afectando a las rentas que se perciban o se devenguen desde esa fecha, a excepción de la letra j), que regirá a contar del 4 de junio de 1993, y de las letras g) y h), que tendrán vigencia desde el 1° de enero de 1995.
-
-> **Nota.** NOTA 3: El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
-
-> **Nota.** NOTA 4: El artículo 5º de la LEY 20326, publicado el 29.01.2009, rebaja transitoriamente los pagos provisionales mensuales del Impuesto de Primera Categoría cuyas tasas se ajusten anualmente, de conformidad a lo dispuesto en el presente artículo, que deban declararse y pagarse por los ingresos brutos percibidos o devengados a partir del mes de enero de 2009 y hasta el mes de diciembre de 2009, ambos incluidos, en la forma que la citada norma indica.
+f) 0,2% sobre el valor corriente en plaza de los camiones respecto de los contribuyentes mencionados en el N° 3 del artículo 34°.
 
 #### Artículo 85°
 
@@ -3354,9 +1296,7 @@ DEROGADO
 
 #### Artículo 86°
 
-Los contribuyentes que durante un ejercicio comercial obtengan ingresos brutos correspondientes a rentas total o parcialmente exentas del impuesto de primera categoría, y que no las hubieran obtenido en el ejercicio comercial anterior, podrán reducir la tasa de pago provisional obligatorio a que se refiere el artículo 84 letra a), en la misma proporción que corresponda a los ingresos exentos dentro de los ingresos totales de cada mes en que ello ocurra. La tasa así reducida se aplicará únicamente en el mes o meses en que se produzca la situación aludida. Para estos efectos, no se considerarán rentas exentas, aquellas señaladas en la letra a), del número 2, del artículo 33.
-
-> **Nota.** El artículo octavo transitorio de la LEY 18985, publicada el 28.06.1990, dispone que la modificación introducida a este artículo, rigen a contar del día primero del mes siguiente al de su publicación.
+En el caso de contribuyentes que durante un ejercicio comercial obtengan ingresos brutos correspondientes a rentas exentas total o parcialmente del impuesto de Primera Categoría en circunstancias que en los cinco ejercicios inmediatamente anteriores no obtuvo este tipo de ingresos, podrá reducir el porcentaje de pago provisional correspondiente al ejercicio mencionado en primer término, en la misma proporción que corresponda a los ingresos exentos dentro de los ingresos brutos totales de cada mes en que ello ocurra. La aplicación de la tasa así reducida tendrá lugar únicamente en el mes o meses en que se produzca la situación aludida.
 
 #### Artículo 87°
 
@@ -3380,23 +1320,17 @@ El impuesto retenido en conformidad a lo dispuesto en el N° 2 del artículo 74�
 
 #### Artículo 90°
 
-Los contribuyentes de la primera categoría que en un año comercial obtuvieran pérdidas para los efectos de declarar dicho impuesto, podrán suspender los pagos provisionales correspondientes a los ingresos brutos del primer trimestre del año comercial siguiente. Si la situación de pérdida se mantiene en el primer, segundo y tercer trimestre de dicho ejercicio comercial, o se produce en alguno de los citados trimestres, podrán suspender los pagos provisionales correspondientes a los ingresos brutos del trimestre siguiente a aquél en que la pérdida se produjo. Producida utilidad en algún trimestre, deberán reanudarse los pagos provisionales correspondientes a los ingresos brutos del trimestre inmediatamente siguiente.
+Los contribuyentes de la Primera Categoría que en el primer trimestre de su ejercicio comercial obtuvieren pérdida, podrán no efectuar los pagos provisionales correspondientes a los meses del trimestre siguiente, dando aviso de esta circunstancia al Servicio de Impuestos Internos, acompañado de un estado de pérdidas y ganancias de este trimestre. Si la situación de pérdida se mantiene durante el segundo o tercer trimestre del mismo ejercicio comercial, o se produce en alguno de ellos, podrán no efectuarse los pagos provisionales correspondientes a los meses del trimestre siguiente a aquél en que ella se produjo, dando el aviso correspondiente al Servicio de Impuestos Internos, acompañado del estado de pérdidas y ganancias del trimestre respectivo. Producida utilidad en algún trimestre, deberán reanudarse los pagos provisionales, sin necesidad de aviso a Impuestos Internos, en el trimestre inmediatamente siguiente, aún cuando en este último trimestre se produjere pérdida.
 
-Los contribuyentes que se encuentren en situación de suspender los pagos provisionales mensuales deberán mantener un estado de pérdidas y ganancias acumuladas hasta el trimestre respectivo a disposición del Servicio de Impuestos Internos. Este estado de pérdidas y ganancias deberá ajustarse de acuerdo a las reglas que esta ley establece para el cálculo de la renta líquida imponible de primera categoría, incluyendo la consideración de pérdidas de arrastre, si las hubiere, y los ajustes derivados del mecanismo de la corrección monetaria.
-
-La confección de un estado de pérdidas y ganancias maliciosamente incompleto o falso, dará lugar a la aplicación del máximo de las sanciones contempladas en el artículo 97, número 4°, del Código Tributario, sin perjuicio de los intereses penales y reajustes que procedan por los pagos provisionales no efectuados.
-
-> **Nota.** El artículo octavo transitorio de la LEY 18985, publicada el 28.06.1990, dispone que la modificación introducida a este artículo, rigen a contar del día primero del mes siguiente al de su publicación.
+La presentación de un estado de pérdidas y ganancias maliciosamente incompleto o falso, dará lugar a la aplicación del máximo de las sanciones contempladas en el N° 4 del artículo 97 del Código Tributario, sin perjuicio de los intereses penales y reajustes que procedan por los pagos provisionales no efectuados.
 
 #### Artículo 91°
 
-El pago del impuesto provisional mensual se realizará directamente en Tesorería, entre el 1° y el 12 del mes siguiente al de obtención de los ingresos.
+El pago del impuesto provisional mensual se realizará directamente en Tesorería, entre el 1° y el 15 del mes siguiente al de obtención de los ingresos sujetos a la obligación de dicho pago provisional.
 
-No obstante, los contribuyentes mencionados en la letra e) del artículo 84° podrán acumular los pagos provisionales obligatorios hasta por 4 meses e ingresarlos en Tesorería entre el 1° y el 12 (24-a-a-1) de abril, agosto y diciembre, respectivamente.
+No obstante, los contribuyentes mencionados en las letras e) y f) del artículo 84° podrán acumular los pagos provisionales obligatorios hasta por 4 meses e ingresarlos en Tesorería entre el 1° y el 15 de Abril, Agosto y Diciembre, respectivamente.
 
 Los pagos voluntarios se podrán efectuar en cualquier día hábil del mes.
-
-> **Nota.** El artículo 1º del DTO 1001, Hacienda, publicado el 12.10.2006, amplia, hasta el día 20 de cada mes, los plazos de Declaración y Pago de los impuestos, a que se refiere la presente norma, respecto de los contribuyentes que presenten las declaraciones de los impuestos correspondientes a través de internet, y que cumplan con los requisitos que en ella se indican.
 
 #### Artículo 92°
 
@@ -3410,13 +1344,9 @@ El impuesto provisional pagado en conformidad con los artículos anteriores por 
 
 1°.- Impuesto a la renta de Categoría, que debe declararse en el mes de abril, (24-a-b) por las rentas del año calendario anterior o en otra fecha, señalada por la Ley de la Renta.
 
-2. Impuesto establecido en la Ley sobre Royalty a la Minería.
+2°.- SUPRIMIDO 3°.- SUPRIMIDO
 
-3°.- SUPRIMIDO.
-
-4°.- Impuesto Global Complementario o Adicional que deben declarar los contribuyentes individuales, por las rentas del año calendario anterior, y
-
-5°.- Otros impuestos de declaración anual.
+4°.- Impuesto Global Complementario o Adicional que deben declarar los contribuyentes individuales, por las rentas del año calendario anterior, y 5°.- Otros impuestos de declaración anual.
 
 > **Nota.** El Nº 1 del artículo 9 del DL 1362, Hacienda, publicado el 06.03.1976, dispone que la modificación que introduce a esta norma, regirá a contar del año tributario 1976.
 
@@ -3428,17 +1358,17 @@ El impuesto provisional pagado por sociedades de personas deberá ser imputado e
 
 1°.- Impuesto a la renta de Categoría, que debe declararse en el mes de abril, por las rentas del año calendario anterior o en otra fecha, señalada por la Ley de la Renta.
 
-2. Impuesto establecido en la Ley sobre Royalty a la Minería.
+2°.- Impuesto Global Complementario o Adicional que deban declarar los socios de sociedades de personas. En este caso, aquella parte de los pagos provisionales que se imputen por los socios se considerará para todos los efectos de esta ley, como retiro efectuado en el mes en que se realice la imputación.
 
-3°.- Impuesto Global Complementario o Adicional que deban declarar los socios de sociedades de personas. En este caso, aquella parte de los pagos provisionales que se imputen por los socios se considerará para todos los efectos de esta ley, como retiro efectuado en el mes en que se realice la imputación.
+3°.- SUPRIMIDO
 
-4°.- SUPRIMIDO
-
-5°.- Otros impuestos de declaración anual.
+4°.- Otros impuestos de declaración anual.
 
 > **Nota.** El Nº 1 del artículo 9 del DL 1362, Hacienda, publicado el 06.03.1976, dispone que la modificación que introduce a esta norma, regirá a contar del año tributario 1976.
 
 > **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, publicada el 31.01.1984, señala que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984.
+
+> **Nota.** NOTA: 2 El artículo 13 de la LEY 18489, publicada el 04.01.1986, dispone que las modificaciones introducidas por la presente ley, rigen a contar del 1º de enero de 1986.
 
 #### Artículo 95°
 
@@ -3466,13 +1396,9 @@ Para los efectos de la devolución del saldo indicado en los incisos anteriores,
 
 En caso que el contribuyente dejare de estar afecto a impuesto por término de su giro o actividades y no existiere otro impuesto al cual imputar el respectivo saldo a favor, deberá solicitarse su devolución ante el Servicio de Impuestos Internos, en cuyo caso el reajuste se calculará en la forma señalada en el inciso tercero, pero sólo hasta el último día del mes anterior al de devolución.
 
-El Servicio de Tesorerías podrá efectuar la devolución a que se refieren los incisos precedentes, mediante depósito en la cuenta corriente, de ahorro a plazo o a la vista que posea el contribuyente. Cuando elcontribuyente no tenga alguna de las cuentas referidas o el Servicio de Tesorerías carezca de información sobre aquellas, la devolución podrá efectuarse mediante la puesta a disposición del contribuyente de las sumas respectivas mediante vale vista bancario o llevarse a cabo a través de un pago directo por caja en un banco o institución financiera habilitados al efecto.
-
 El contribuyente que perciba una cantidad mayor a la que le corresponda deberá restituir la parte indebidamente percibida, reajustada ésta, previamente, según el porcentaje de variación del Indice de Precios al Consumidor experimentado entre el último día del mes anterior al de devolución y el último día del mes anterior al reintegro efectivo; más un interés del 1,5% mensual por cada mes o fracción del mes, sin perjuicio de aplicar las sanciones que establece el Código Tributario en su artículo 97, N° 4 cuando la devolución tenga su origen en una declaración o solicitud de devolución, maliciosamente falsa o incompleta.
 
-Sin embargo, no se devengará interés sobre la restitución de la parte indebidamente percibida, cuando dicha circunstancia se haya debido a una causa imputable al Servicio de Impuestos Internos o Tesorería, lo cual deberá ser declarado por el respectivo Director Regional o Tesorero Regional o Provincial en su caso.
-
-> **Nota.** El artículo 3º inciso 4º del DL 3454, Hacienda, publicado el 25.07.1980, señala que lo dispuesto en el presente artículo, regirá a contar del 1º de enero de 1979, a excepción del inciso 4° que regirá respecto de los ejercicios terminados con posterioridad a la fecha de su publicación.NOTA 1: El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del año tributario 2002.
+> **Nota.** NOTA: 48 Lo dispuesto en este artículo 97, regirá a contar del 1° de enero de 1979, a excepción del inciso 4° que regirá respecto de los ejercicios terminados con posterioridad a la fecha de publicación del DL 3454. (DL 3454, D. Oficial de 25 de julio de 1980, art. 3°, inciso 4°).
 
 #### Artículo 98°
 
@@ -3492,23 +1418,17 @@ De los informes obligatorios
 
 #### Artículo 101°
 
-Las personas naturales o jurídicas que estén obligadas a retener el impuesto, deberán presentar al Servicio o a la oficina que éste designe, antes del 15 de marzo de cada año, un informe en que expresen con detalles los nombres y direcciones de las personas a las cuales hayan efectuado durante el año anterior el pago que motivó la obligación de retener, así como el monto de la suma pagada y de la cantidad retenida en la forma y cumpliendo las especificaciones que indique la Dirección. No obstante, la Dirección podrá liberar del referido informe a determinadas personas o grupos de personas o respecto de un determinado tributo sujeto a retención.
+Las personas naturales o jurídicas que estén obligadas a retener el impuesto, deberán presentar al Servicio o a la oficina que éste designe, antes del 15 de Marzo de cada año, un informe en que expresen con detalles los nombres y direcciones de las personas a las cuales hayan efectuado durante el año anterior el pago que motivó la obligación de retener, así como el monto de la suma pagada y de la cantidad retenida en la forma y cumpliendo las especificaciones que indique la Dirección. No obstante, la Dirección podrá liberar del referido informe a determinadas personas o grupos de personas o respecto de un determinado tributo sujeto a retención.
 
 Iguales obligaciones pesarán sobre:
 
 a) Las personas que paguen rentas o cualquier otro producto de acciones, incluso de acciones al portador;
 
-b) Los Bancos o Bolsas de Comercio por las rentas o cualquier otro producto de acciones nominativas que, sin ser de su propiedad, figuren inscritas a nombre de dichas instituciones;
+b) Los Bancos o Bolsas de Comercio por las rentas o cualquier otro producto de acciones nominativas que, sin ser de su propiedad, figuren inscritas a nombre de dichas instituciones.
 
 c) Los que paguen rentas a personas sin domicilio ni residencia en Chile.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, las mismas personas obligadas a retener el impuesto de Segunda Categoría sobre las rentas gravadas en el N° 1 del artículo 42°, quedarán también obligadas a certificar por cada persona, en la forma y oportunidad que determine la Dirección, el monto total de las rentas del citado N° 1 del artículo 42° que se le hubiere pagado en el año calendario, los descuentos que se hubieren hecho de dichas rentas por concepto de leyes sociales y, separadamente, por concepto de impuesto de Segunda Categoría, y el número de personas por las cuales se le pagó asignación familiar. Esta certificación se hará sólo a petición del respectivo empleado, obrero o pensionado, para acompañarlo a la declaración que exigen los números 3 y 5 del artículo 65°. El incumplimiento de esta obligación, la omisión de certificar parte de las rentas o la certificación de cantidades no descontadas por concepto de leyes sociales y/o de impuesto de segunda categoría se sancionará con la multa que se establece en el inciso primero del N° 6 del artículo 97° del Código Tributario, por cada infracción.
-
-A la obligación establecida en el inciso primero quedarán sometidos los Bancos e Instituciones Financieras respecto de los intereses u otras rentas que paguen o abonen a sus clientes, durante el año inmediatamente anterior a aquél en que deba presentarse el informe, por operaciones de captación de cualquier naturaleza que éstos mantengan en dichas instituciones y el Banco Central de Chile respecto de las operaciones de igual naturaleza que efectúe. Dicho informe deberá ser presentado antes del 15 de marzo de cada año y deberá cumplir con las exigencias que al efecto establezca el Servicio de Impuestos Internos.
-
-> **Nota.** Ver el artículo 18 de la LEY 19578, sobre vigencia de la presente modificación.
-
-> **Nota.** NOTA 1: El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del año tributario 2002.
 
 #### Artículo 102°
 
@@ -3528,246 +1448,6 @@ La prescripción de las acciones del Fisco por impuestos se suspende en caso que
 
 Transcurridos diez años no se tomará en cuenta la suspensión del inciso anterior.
 
-## Título VI
-
-Disposiciones especiales relativas al mercado de capitales
-
-#### Artículo 104°
-
-No obstante lo dispuesto en el artículo 17º, número 8º, no constituirá renta el mayor valor obtenido en la enajenación de los instrumentos de deuda de oferta pública a que se refiere este artículo, siempre que se cumpla con los requisitos indicados en los siguientes números 1 y 2:
-
-1.- Instrumentos beneficiados.
-
-Podrán acogerse a las disposiciones de este artículo los instrumentos que cumplan con los siguientes requisitos copulativos:
-
-a) Que se trate de instrumentos de deuda de oferta pública previamente inscritos en el Registro de Valores conforme a la ley Nº 18.045.
-
-b) Que hayan sido emitidos en Chile.
-
-c) Que se establezca, en la respectiva escritura de emisión, que los instrumentos se acogerán a lo dispuesto en este artículo y que, además de la tasa de cupón o de carátula, se determine, para cada colocación y después de cada una de ellas, una tasa de interés fiscal para efectos del cálculo de los intereses devengados conforme al inciso segundo, del número 2, del artículo 20.
-
-d) Que se trate de instrumentos que contemplen al menos un pago de interés o cupón por año, cuyo valor porcentual no sea inferior a 1/25 veces el valor de la tasa de interés fiscal.
-
-La tasa de interés fiscal aludida en el párrafo anterior corresponderá a la tasa de colocación anual del instrumento, la que se expresa en porcentaje y que en la fórmula que se describe a continuación, se identifica como "TF". Esta tasa corresponderá al número positivo que permita cumplir la siguiente igualdad:
-
-.
-
-La fórmula precedente es una identidad que indica que el precio del instrumento colocado corresponde a la suma del valor presente de cada flujo de caja "F" que el emisor del instrumento se compromete a pagar en cada fecha "t" y hasta el vencimiento del instrumento en la fecha "N".
-
-El valor presente de cada flujo de caja F que el instrumento se compromete a pagar en una determinada fecha t corresponde al flujo de caja F, multiplicado por un factor de descuento que corresponde al inverso de la suma de 1 más la tasa anual de colocación del instrumento "TF" elevada al número que resulte de dividir los días transcurridos entre la fecha en que ocurre el flujo respectivo y la fecha de colocación "fc" (t-fc), por 365.
-
-De acuerdo a lo anterior, las variables intervinientes en la ecuación indicada anteriormente se definen de la siguiente manera:
-
-TF = Tasa fiscal por determinar y corresponde a la tasa de colocación del instrumento. Esta tasa se expresa en porcentaje.
-
-= Sumatoria . desde la fecha de colocación del instrumento, fecha que definimos como "fc", hasta el vencimiento del instrumento en la fecha "N".
-
-Ft = Flujo de caja (que incluye cupón y,o amortización de capital) que promete pagar el instrumento al tenedor de éste en una fecha "t", según la tabla de desarrollo del instrumento, expresados como porcentaje del valor nominal.
-
-t = Fecha de ocurrencia de un flujo de caja.
-
-Precio de transacción = Relación expresada en porcentaje, entre la suma de dinero desembolsada por el o los inversionistas para adquirir el monto colocado por el emisor respecto a su valor nominal.
-
-No obstante lo anterior, una o varias colocaciones de la misma emisión, posteriores a la primera, tendrán la misma tasa de interés fiscal que aquella, sólo si su respectiva tasa de colocación es menor o igual a la tasa de interés fiscal de la primera colocación, en cuyo caso se aplicará la tasa de interés fiscal correspondiente a la colocación inicial, siempre que, previo a la respectiva colocación, el emisor haya informado a la Comisión para el Mercado Financiero, en la forma que ésta determine mediante norma de carácter general, que acogerá dicha colocación a lo dispuesto en este inciso. En todo caso, dicha norma de carácter general deberá incluir la forma de identificar las colocaciones que tengan tasa fiscal distinta de una misma emisión.
-
-En caso de aumentar el monto emitido de una misma serie de títulos que cumplan copulativamente los requisitos señalados en las letras a), b) y c) precedentes, a través de una reapertura, de la cual se deje constancia en la escritura de emisión, el nuevo monto emitido y sus respectivas colocaciones, tendrán la misma tasa de interés fiscal de la primera colocación, sólo si la tasa de colocación de cada una de ellas es menor o igual a la tasa de interés fiscal de la primera colocación de la emisión de la serie original, y siempre que el emisor haya informado a la Comisión para el Mercado Financiero, en la forma que ésta determine mediante norma de carácter general, que acogerá dicha emisión a lo dispuesto en este inciso. En este caso podrá aplicarse lo dispuesto en el inciso precedente, cumpliéndose los requisitos que allí se establecen, respecto de las sucesivas colocaciones de la misma reapertura.
-
-La tasa de interés fiscal será informada después de cada colocación, dentro del mismo día, por el emisor de los títulos a la Comisión para el Mercado Financiero, quien mantendrá un registro público de dichas tasas.
-
-2.- Contribuyentes beneficiados.
-
-Podrán acogerse a las disposiciones de este artículo, los contribuyentes que enajenen los instrumentos a que éste se refiere, cumpliendo con lo señalado en las letras a) o b) siguientes:
-
-a) Que entre la fecha de adquisición y enajenación de los instrumentos haya transcurrido a lo menos un año, o bien, el plazo inferior o la liberación de transcurrir un plazo, según se fije mediante decreto expedido bajo la fórmula "Por orden del Presidente de la República" por el Ministerio de Hacienda. En el caso de la primera dictación, de la modificación o reemplazo del señalado decreto, el plazo de permanencia que regirá para aquellos tenedores de bonos que hayan adquirido los títulos con anterioridad a su entrada en vigencia, será el menor entre el que falte por completar para cumplir con el que establece la ley o, en su caso, el que señala el decreto vigente al momento de la compra, y el plazo que señale el nuevo decreto que se dicte.
-
-b) Que hayan adquirido y enajenado los instrumentos en una Bolsa local, en un procedimiento de subasta continua que contemple un plazo de cierre de las transacciones que permita la activa participación de todos los intereses de compra y de venta, el que, para efectos de este artículo, deberá ser previamente autorizado por la Comisión para el Mercado Financiero y el Servicio de Impuestos Internos mediante resolución conjunta. Además, que hayan adquirido y enajenado los instrumentos por intermedio de un corredor de bolsa o agente de valores registrado en la Comisión para el Mercado Financiero, excepto en el caso de los bancos, en la medida que actúen de acuerdo a sus facultades legales.
-
-Tratándose de contribuyentes sin domicilio ni residencia en el país, deberán contratar o designar un representante, custodio, intermediario, depósito de valores u otra persona domiciliada o constituida en el país, que sea responsable de cumplir con las obligaciones tributarias que pudiesen afectarlos. El representante, custodio, intermediario, depósito de valores o quién haya sido contratado o designado, deberá proveer la información que el Servicio de Impuestos Internos les requiera, en la oportunidad y plazos que éste fije.
-
-3.- Disposiciones especiales relativas a los pagos anticipados.
-
-En el caso del pago anticipado o rescate por el emisor del todo o parte de los instrumentos de deuda a que se refiere este artículo, se considerarán intereses todas aquellas sumas pagadas por sobre el saldo del capital adeudado, además de los intereses referidos en el artículo 20, número 2, inciso tercero. Para los efectos de esta ley, los intereses a que se refiere este número se entenderán devengados en el ejercicio en que se produzca el pago anticipado o rescate.
-
-Lo dispuesto en este numeral no tendrá aplicación tratándose de los instrumentos de deuda incorporados en la nómina señalada en el número 4 de este artículo, incluido su canje por instrumentos de deuda correspondientes al mismo emisor, los cuales se regirán por las reglas generales.
-
-4.- Los instrumentos emitidos por el Banco Central de Chile o por la Tesorería General de la República podrán acogerse a lo dispuesto en este artículo aunque no cumplan con uno o más de los requisitos señalados en el número 1 y 2 anteriores, siempre que los respectivos títulos se encuentren incluidos en la nómina de instrumentos elegibles que, para estos efectos, establecerá el Ministro de Hacienda mediante decreto supremo expedido bajo la fórmula "Por orden del Presidente de la República", y que cumplan con las características y condiciones que en el mismo se definan, incluyendo la tasa de interés fiscal. Respecto de estos instrumentos procederá solamente la retención señalada en el número 7° del artículo 74. Tratándose de los instrumentos emitidos por el Banco Central de Chile, su inclusión en dicha nómina de instrumentos elegibles deberá ser previamente solicitada por dicho organismo.
-
-Respecto de los instrumentos a que se refiere este número, los requisitos dispuestos en la letra b) del número 2 se entenderán cumplidos cuando la adquisición o enajenación tenga lugar en alguno de los sistemas establecidos por el Banco Central de Chile o por el Ministerio de Hacienda, según corresponda, para operar con las instituciones o agentes que forman parte del mercado primario de dichos instrumentos de deuda. Asimismo, tales requisitos se entenderán cumplidos cuando se trate de adquisiciones o enajenaciones de instrumentos elegibles que correspondan a operaciones de compra de títulos con pacto de retroventa que efectúe el Banco Central de Chile con las empresas bancarias.
-
-5.- Disposiciones relativas a deberes de información, sanciones y normas complementarias.
-
-El emisor de los instrumentos a que se refiere este artículo, los depósitos de valores donde tales instrumentos estén depositados, las bolsas de valores del país que los acepten a cotización, los representantes de los tenedores de tales instrumentos, los custodios, intermediarios u otras personas responsables de cumplir con las obligaciones tributarias que pudiesen afectar a los contribuyentes tenedores, u otras personas que hayan participado en estas operaciones, deberán declarar al Servicio de Impuestos Internos, en la forma y plazo que éste determine mediante resolución, las características de dichas operaciones, individualizando a las partes e intermediarios que hayan intervenido, los valores de emisión y colocación de los instrumentos, si se efectuara la retención del impuesto a los intereses devengados de acuerdo a lo dispuesto en los números 7° u 8° del artículo 74 y las demás materias que establezca, asimismo, dicho Servicio. La no presentación de esta declaración o su presentación tardía, incompleta o errónea, será sancionada con la multa establecida en el número 1°, del artículo 97, del Código Tributario, conforme al procedimiento del artículo 165, número 2º, del mismo cuerpo legal.
-
-La emisión o utilización de declaraciones maliciosamente falsas, se sancionarán en la forma prevista en el inciso primero, del número 4º, del artículo 97 del Código Tributario.
-
-En caso que la información que se suministre conforme al presente número resultare ser falsa, o cuando la enajenación no se hubiere adecuado a las condiciones de mercado al tiempo de su realización, el inversionista o su administrador quedarán afectos a una multa de hasta el 20% del monto de las inversiones realizadas en el país, no pudiendo, en todo caso, dicha multa ser inferior al equivalente a 20 unidades tributarias anuales, la que podrá hacerse efectiva sobre el patrimonio del inversionista, sin perjuicio del derecho de éste contra el administrador. Las personas que hayan sido contratadas para los efectos de cumplir con las obligaciones tributarias provenientes de la tenencia o enajenación de los instrumentos de deuda de oferta pública a que se refiere este artículo, serán solidariamente responsables de esta multa, salvo que, cuando se haya aplicado con motivo de la entrega de información falsa, acrediten que las declaraciones de que se trate se fundaron en documentos proporcionados por el inversionista, o su administrador correspondiente, o que no tuvo incidencia en la inadecuación de la operación a las condiciones de mercado, y que el representante o intermediario no estuvo en condiciones de verificar en el giro ordinario de sus negocios. La multa que se establece en el presente párrafo se aplicará conforme al procedimiento del artículo 165, número 2º, del Código Tributario.
-
-El Servicio de Impuestos Internos podrá aplicar, respecto de las operaciones que establece este artículo, lo dispuesto en el artículo 17, Nº 8, inciso quinto, de la presente ley y en el artículo 64 del Código Tributario, en cuyo caso, la diferencia que se determine entre el precio o valor de la operación y el de la tasación se gravará conforme al inciso primero del artículo 21 de esta ley.
-
-6.- Tratamiento de las pérdidas en la enajenación de los instrumentos a que se refiere este artículo.
-
-Las pérdidas obtenidas en la enajenación de los instrumentos a que se refiere este artículo, solamente serán deducibles de los ingresos no constitutivos de renta del contribuyente.
-
-#### Artículo 105°
-
-Los contribuyentes del Impuesto de Primera Categoría que determinen su renta efectiva según contabilidad completa, que cedan o prometan ceder a sociedades securitizadoras establecidas en el Título XVIII de la ley Nº 18.045, el todo o parte de los flujos de pago que se generen con posterioridad a la fecha de la cesión y que comprendan más de un ejercicio, provenientes de sus ventas o servicios del giro, para la determinación de los impuestos que establece esta ley, deberán aplicar las siguientes normas:
-
-a) Los ingresos por ventas o servicios del giro correspondientes a los flujos de pago cedidos o prometidos ceder, de los contribuyentes a que se refiere este artículo, se deberán imputar en los ejercicios comprendidos en la cesión en que se perciban o devenguen, conforme a las normas generales de esta ley, deduciéndose también de acuerdo a las mismas normas, los costos y gastos necesarios para la obtención de tales ingresos;
-
-b) Para todos los efectos de esta ley, el cedente deberá considerar como un pasivo la totalidad de las cantidades percibidas, a que tenga derecho a título de precio de la cesión o promesa, en contra de la sociedad securitizadora durante los ejercicios comprendidos por el contrato de cesión o promesa de cesión de flujos de pago. Igualmente, el cedente considerará como un pago del pasivo a que se refiere esta letra, todas las cantidades pagadas a la sociedad securitizadora en cumplimiento de las obligaciones que emanan del contrato de cesión o promesa de cesión de flujos de pago durante los períodos respectivos;
-
-c) El resultado proveniente del contrato de que trata este artículo será determinado por el cedente en cada ejercicio comprendido en el mismo, y será equivalente a la diferencia entre el pasivo que corresponda proporcionalmente a cada ejercicio y los pagos a que se refiere la letra b). En esa misma oportunidad, y de acuerdo a las mismas reglas, la sociedad securitizadora deberá registrar en la contabilidad del patrimonio separado respectivo, los resultados provenientes del contrato a que se refiere este artículo, sin perjuicio que los excedentes obtenidos en la gestión del patrimonio separado no estarán afectos al Impuesto a la Renta en tanto dichos excedentes no sean traspasados al patrimonio común de la sociedad securitizadora.
-
-El Servicio, previa citación, podrá tasar el precio o valor de la cesión a que se refiere este artículo en los casos en que éste sea notoriamente inferior o superior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza considerando las circunstancias en que se realiza la operación.
-
-#### Artículo 106°
-
-DEROGADO.
-
-#### Artículo 107°
-
-El mayor valor obtenido en la enajenación o rescate, según corresponda, de los valores a que se refiere este artículo, se regirá para los efectos de esta ley por las siguientes reglas:
-
-1) Acciones de sociedades anónimas abiertas constituidas en Chile con presencia bursátil.
-
-No obstante lo dispuesto en el artículo 17, número 8, se afectará con un impuesto con tasa de 10%, que tendrá el carácter de impuesto único a la renta, el mayor valor obtenido en la enajenación de acciones emitidas por sociedades anónimas abiertas con presencia bursátil, que cumplan con los siguientes requisitos:
-
-a) La enajenación deberá ser efectuada en: i) una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045 o iii) en el aporte de valores acogido a lo dispuesto en el artículo 109;
-
-b) Las acciones deberán haber sido adquiridas en: i) una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045, o iii) en una colocación de acciones de primera emisión, con motivo de la constitución de la sociedad o de un aumento de capital posterior, o iv) con ocasión del canje de valores de oferta pública convertibles en acciones, o v) en un rescate de valores acogido a lo dispuesto en el artículo 109, y
-
-c) En el caso previsto en el literal iii), de la letra b), si las acciones se hubieren adquirido antes de su colocación en bolsa, el mayor valor afecto al impuesto único será el que se produzca por sobre el valor superior entre el de dicha colocación o el valor de libros que la acción tuviera el día antes de su colocación en bolsa, quedando en consecuencia afecto a los impuestos de esta ley, en la forma dispuesta en el artículo 17, el mayor valor que resulte de comparar el valor de adquisición inicial, debidamente reajustado en la forma dispuesta en dicho artículo, con el valor señalado precedentemente. Para determinar el valor de libros se aplicará lo dispuesto en el artículo 130 del decreto supremo N° 702, de 2011, del Ministerio de Hacienda, que Aprueba el Nuevo Reglamento de Sociedades Anónimas, o el que lo reemplace.
-
-En el caso previsto en el literal iv), de la letra b) anterior, se considerará como precio de adquisición de las acciones el precio asignado en el canje.
-
-2) Cuotas de fondos de inversión.
-
-Lo dispuesto en el numeral 1) será también aplicable a la enajenación, en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, de cuotas de fondos de inversión regidos por la ley Nº 20.712, que tengan presencia bursátil. Asimismo, se aplicará a la enajenación en dichas bolsas de las cuotas señaladas que no tengan presencia bursátil o al rescate de tales cuotas cuando el fondo se liquide o sus partícipes acuerden una disminución voluntaria de capital, siempre y cuando se establezca en la política de inversiones de los reglamentos internos, que a lo menos el 90% de la cartera de inversiones del fondo se destinará a la inversión en acciones con presencia bursátil. En ambos casos, para acogerse a lo dispuesto en este artículo, la política de inversiones de este tipo de fondos, contenida en su reglamento interno, deberá establecer la obligación por parte de la administradora de distribuir entre los partícipes la totalidad de los dividendos o distribuciones e intereses percibidos que provengan de los emisores de los valores en que el fondo haya invertido, durante el transcurso del ejercicio en el cual éstos hayan sido percibidos o dentro de los 180 días siguientes al cierre de dicho ejercicio, y hasta por el monto de los beneficios netos percibidos en el ejercicio, según dicho concepto está definido en la N° Ley 20.712, menos las amortizaciones de pasivos financieros que correspondan a dicho período y siempre que tales pasivos hayan sido contratados con a lo menos 6 meses de anterioridad a dichos pagos.
-
-Lo dispuesto en el párrafo anterior no resultará aplicable a las enajenaciones y rescates, según corresponda, de cuotas de fondos de inversión que dejaren de dar cumplimiento al porcentaje de inversión o a la obligación de distribución contemplados en el reglamento interno respectivo por causas imputables a la administradora o, cuando no siendo imputables a la administradora, dichos incumplimientos no hubieran sido regularizados dentro de los tres meses siguientes de producidos. Se tendrá por incumplido el requisito de porcentaje de inversión, si las inversiones del fondo respectivo en acciones con presencia bursátil resultasen inferiores a un 90% por un período continuo o discontinuo de 30 o más días en un año calendario.
-
-Las administradoras de los fondos deberán certificar anualmente al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos establecidos en este numeral. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el párrafo tercero del número 4º del artículo 97 del Código Tributario.
-
-3) Cuotas de fondos mutuos.
-
-3.1) Cuotas de fondos mutuos cuyas inversiones consistan en valores con presencia bursátil.
-
-Se afectará con un impuesto con tasa de 10%, que tendrá el carácter de impuesto único a la renta, el mayor valor obtenido en la enajenación de cuotas de fondos mutuos de la ley Nº 20.712, que cumplan con los siguientes requisitos:
-
-a) La enajenación deberá ser efectuada: i) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) mediante el aporte de valores conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo;
-
-b) Las cuotas deberán haber sido adquiridas: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero; o iii) en un rescate de valores efectuado de conformidad a lo dispuesto en el artículo 109;
-
-c) La política de inversiones del reglamento interno del fondo respectivo deberá establecer que a lo menos el 90% de su cartera se destinará a la inversión en los valores que tengan presencia bursátil a que se refiere este artículo, y en los valores a que se refiere el artículo 104. Se tendrá por incumplido este requisito si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por causas imputables a la ejecución de la política de inversiones por parte de la sociedad administradora o, cuando ello ocurra por otras causas, si en este último caso dicho incumplimiento no es subsanado dentro de un período máximo de seis meses contado desde que éste se ha producido. Las administradoras de los fondos deberán certificar al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el párrafo tercero, del Nº 4°, del artículo 97, del Código Tributario;
-
-d) El reglamento interno del fondo respectivo deberá contemplar la obligación de la sociedad administradora de distribuir entre los partícipes la totalidad de los dividendos percibidos entre la fecha de adquisición de las cuotas y la enajenación o rescate de las mismas, provenientes de los emisores de los valores a que se refiere la letra c) anterior. De igual forma, el reglamento interno deberá contemplar la obligación de distribuir entre los partícipes un monto equivalente a la totalidad de los intereses devengados por los valores a que se refiere el artículo 104 en que haya invertido el fondo durante el ejercicio comercial respectivo, conforme a lo dispuesto en el artículo 20. Esta última distribución deberá llevarse a cabo en el ejercicio siguiente al año comercial en que tales intereses se devengaron, independientemente de la percepción de tales intereses por el fondo o de la fecha en que se hayan enajenado los instrumentos de deuda correspondientes, y
-
-e) La política de inversiones del fondo contenida en su reglamento interno deberá contemplar la prohibición de adquirir valores que en virtud de cualquier acto o contrato priven al fondo de percibir los dividendos, intereses, repartos u otras rentas provenientes de tales valores que se hubiese acordado o corresponda distribuir. La sociedad administradora que infrinja esta prohibición será sancionada con una multa de 1 unidad tributaria anual por cada uno de los valores adquiridos en contravención a dicha prohibición, sin perjuicio de las sanciones que correspondan conforme a lo dispuesto en el Título III del decreto ley N° 3.538, de 1980.
-
-3.2) Cuotas de fondos mutuos con presencia bursátil.
-
-Se afectará con un impuesto con tasa de 10%, que tendrá el carácter de impuesto único a la renta, el mayor valor obtenido en la enajenación de cuotas de fondos mutuos de la ley N° 20.712, que tengan presencia bursátil y no puedan acogerse al número 3.1) anterior, siempre que se cumplan los siguientes requisitos:
-
-a) La enajenación de las cuotas deberá efectuarse: i) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o ii) mediante su aporte conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo cuando se realice en forma de valores conforme a lo dispuesto en el artículo 109;
-
-b) La adquisición de las cuotas deberá efectuarse: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Comisión para el Mercado Financiero, o iii) en un rescate de valores efectuado conforme a lo dispuesto en el artículo 109;
-
-c) La política de inversiones del reglamento interno del fondo respectivo deberá establecer que a lo menos el 90% de su cartera se destinará a la inversión en los siguientes valores emitidos en el país o en el extranjero:
-
-c.1) Valores de oferta pública emitidos en el país: i) acciones de sociedades anónimas abiertas constituidas en Chile y admitidas a cotización en a lo menos una bolsa de valores del país; ii) instrumentos de deuda de oferta pública a que se refiere el artículo 104 y valores representativos de deuda cuyo plazo sea superior a tres años admitidos a cotización en a lo menos una bolsa de valores del país que paguen intereses con una periodicidad no superior a un año, y iii) otros valores de oferta pública que generen periódicamente rentas y que estén establecidos en el reglamento que dictará mediante decreto supremo el Ministerio de Hacienda.
-
-c.2) Valores de oferta pública emitidos en el extranjero: Debe tratarse de valores que generen periódicamente rentas tales como intereses, dividendos o repartos, en que los emisores deban distribuir dichas rentas con una periodicidad no superior a un año. Asimismo, tales valores deberán ser ofrecidos públicamente en mercados que cuenten con estándares al menos similares a los del mercado local, en relación a la revelación de información, transparencia de las operaciones y sistemas institucionales de regulación, supervisión, vigilancia y sanción sobre los emisores y sus títulos. El mismo reglamento fijará una nómina de aquellos mercados que cumplan con los requisitos que establece este párrafo. Se entenderán incluidos en esta letra los valores a que se refiere el inciso final del artículo 11, siempre que cumplan con los requisitos señalados precedentemente.
-
-Se tendrá por incumplido el requisito establecido en esta letra si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por un período continuo o discontinuo de 30 o más días en un año calendario. Las administradoras de los fondos deberán certificar anualmente al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el párrafo tercero del número 4° del artículo 97 del Código Tributario;
-
-d) El reglamento interno del fondo respectivo deberá contemplar la obligación de la sociedad administradora de distribuir entre los partícipes la totalidad de los dividendos e intereses percibidos entre la fecha de adquisición de las cuotas y la enajenación o rescate de las mismas, provenientes de los emisores de los valores a que se refiere la letra c) anterior, salvo que se trate de intereses provenientes de los valores a que se refiere el artículo 104. En este último caso, el reglamento interno deberá contemplar la obligación de distribuir entre los partícipes un monto equivalente a la totalidad de los intereses devengados por dichos valores durante el ejercicio comercial respectivo conforme a lo dispuesto en el artículo 20. Esta última distribución deberá llevarse a cabo en el ejercicio siguiente al año comercial en que tales intereses se devengaron, independientemente de la percepción de tales intereses por el fondo o de la fecha en que se hayan enajenado los instrumentos de deuda correspondientes;
-
-e) Cuando se hayan enajenado acciones, cuotas u otros títulos de similar naturaleza con derecho a dividendos o cualquier clase de beneficios, sean éstos provisorios o definitivos, durante los cinco días previos a la determinación de sus beneficiarios, la sociedad administradora deberá distribuir entre los partícipes del fondo un monto equivalente a la totalidad de los dividendos o beneficios a que se refiere esta letra, el que se considerará percibido por el fondo.
-
-Cuando se hayan enajenado instrumentos de deuda dentro de los cinco días hábiles anteriores a la fecha de pago de los respectivos intereses, la sociedad administradora deberá distribuir entre los partícipes del mismo un monto equivalente a la totalidad de los referidos intereses, el que se considerará percibido por el fondo, salvo que provengan de los instrumentos a que se refiere el artículo 104.
-
-En caso de que la sociedad administradora no haya cumplido con la obligación de distribuir a los partícipes las rentas a que se refiere esta letra, dicha sociedad quedará afecta a una multa de hasta un cien por ciento de tales rentas, no pudiendo esta multa ser inferior al equivalente a 1 unidad tributaria anual. La aplicación de esta multa se sujetará al procedimiento establecido en el artículo 165 del Código Tributario. Además, la sociedad administradora deberá pagar por tales rentas un impuesto único y sustitutivo de cualquier otro tributo de esta ley con tasa de 35%. Este impuesto deberá ser declarado y pagado por la sociedad administradora en el mes de abril del año siguiente al año comercial en que debió efectuarse la distribución de tales rentas. Respecto del impuesto a que se refiere este parrafo, no se aplicará lo dispuesto en el artículo 21, y se considerará como un impuesto sujeto a retención para los efectos de la aplicación de sanciones, y
-
-f) La política de inversiones del fondo contenida en su reglamento interno deberá contemplar la prohibición de adquirir valores que en virtud de cualquier acto o contrato priven al fondo de percibir los dividendos, intereses, repartos u otras rentas provenientes de tales valores que se hubiese acordado o corresponda distribuir. La sociedad administradora que infrinja esta prohibición será sancionada con una multa de 1 unidad tributaria anual por cada uno de los valores adquiridos en contravención a dicha prohibición, sin perjuicio de las sanciones que correspondan conforme a lo dispuesto en el Título III del decreto ley N° 3.538, de 1980.
-
-4) Presencia bursátil.
-
-También se aplicará lo dispuesto en este artículo, cuando la enajenación se efectúe dentro de los 90 días siguientes a aquél en que el título o valor hubiere perdido presencia bursátil. En este caso el mayor valor obtenido se afectará con el impuesto único de tasa 10% sólo hasta el equivalente al precio promedio que el título o valor hubiere tenido en los últimos 90 días en que tuvo presencia bursátil. El exceso sobre dicho valor se gravará con los impuestos de primera categoría, global complementario o adicional, según corresponda. Para que proceda lo anterior, el contribuyente deberá acreditar, cuando el Servicio de Impuestos Internos así lo requiera, con un certificado de una bolsa de valores, tanto la fecha de la pérdida de presencia bursátil de la acción, como el valor promedio señalado.
-
-5) Las pérdidas obtenidas en la enajenación, en bolsa o fuera de ella, de los valores a que se refiere este artículo, solamente serán deducibles de los ingresos derivados de la enajenación de valores afectos a la tributación establecida en este artículo, obtenidas por el contribuyente en el mismo ejercicio o en los ejercicios siguientes, en el evento que el contribuyente no registre tales ingresos o éstos sean inferiores a dichas pérdidas. Para estos efectos, las pérdidas se reajustarán de acuerdo con el porcentaje de variación del Índice de Precios al Consumidor en el período comprendido entre el mes anterior al de la enajenación que produjo esas pérdidas y el mes anterior al del cierre del ejercicio que corresponda. En caso de que la pérdida hubiere sido deducida de la base imponible afecta al impuesto de primera categoría, ésta deberá ser agregada en la determinación de la renta líquida imponible, de conformidad con lo dispuesto en la letra e) del número 1 del artículo 33. Con todo, para que proceda esta deducción, las pérdidas deberán acreditarse fehacientemente ante el Servicio de Impuestos Internos.
-
-6) Retención, declaración y pago del impuesto.
-
-El adquirente o corredor de bolsa o agente de valores que actúa por cuenta del vendedor sin domicilio ni residencia en Chile deberá retener el monto del impuesto único al momento en que el precio de enajenación sea pagado, remesado, abonado en cuenta o puesto a disposición del enajenante.
-
-En los casos señalados en el párrafo anterior, la retención se efectuará con la tasa del 10% sobre el mayor valor afecto al impuesto establecido en este artículo, salvo que el adquirente o corredor de bolsa o agente de valores que actúa por cuenta del vendedor sin domicilio ni residencia en Chile, no disponga de información suficiente para efectos de determinar dicho mayor valor, en cuyo caso la retención se practicará con una tasa provisional del 1% sobre el total del precio de enajenación sin deducción alguna.
-
-Las retenciones practicadas conforme a este artículo se enterarán en arcas fiscales en el plazo establecido en la primera parte del artículo 79. Procederá además lo dispuesto en el artículo 83 y en lo que fuere aplicable el número 4 del artículo 74.
-
-El monto del impuesto retenido se dará de abono al total del impuesto único que se determine en los resultados obtenidos en las operaciones reguladas por el presente artículo. Para estos efectos, se aplicará al monto retenido lo establecido en el artículo 75.
-
-Los contribuyentes enajenantes estarán obligados a presentar la declaración anual a que se refiere el artículo 65 y solucionar en dicha oportunidad la diferencia entre las cantidades retenidas y el monto del impuesto aplicable. Si el total de las retenciones practicadas fuere superior al monto del impuesto que efectivamente deba aplicarse en el ejercicio correspondiente, el saldo que resultare a favor del contribuyente le será devuelto según lo establecido en el artículo 97.
-
-Sin perjuicio de lo señalado en el párrafo anterior, si con la retención declarada y pagada se han solucionado íntegramente los impuestos que afectan al contribuyente conforme a este artículo, este último quedará liberado de presentar la referida declaración anual.
-
-7) Determinación del mayor valor.
-
-Para efectos de determinar el mayor valor afecto al impuesto único con tasa de 10%, los contribuyentes con domicilio o residencia en Chile podrán considerar como valor de adquisición y/o aporte, a su elección:
-
-a) El precio de cierre oficial de los valores respectivos, al 31 de diciembre del año de la adquisición, considerando primero los valores más antiguos según su fecha de adquisición, lo que podrá ser propuesto por el Servicio de Impuestos Internos en la declaración de renta del año tributario que corresponda en virtud de la información que dicho Servicio tenga a su disposición. Dicha propuesta no liberará al contribuyente de complementar, o ajustar la información que corresponda de acuerdo con las normas generales; o
-
-b) El valor de adquisición y/o aporte conforme a las normas generales establecidas en la Ley sobre Impuesto a la Renta.
-
-Por su parte, los contribuyentes sin domicilio ni residencia en Chile, para efectos de determinar el mayor valor afecto al impuesto único con tasa de 10% deberán considerar el valor de adquisición y/o aporte conforme a la letra b) anterior.
-
-8) Efectos del pago del impuesto.
-
-Efectuada la declaración y pago del referido impuesto se entenderá cumplida totalmente la tributación con el impuesto a la renta de las cantidades a que se refiere este artículo, por lo que se deberán anotar como rentas con tributación cumplida en el registro REX o de rentas exentas e ingresos no constitutivos de renta establecido en la letra c) del número 2 de la letra A del artículo 14, y podrán ser retiradas, remesadas o distribuidas conforme a las reglas generales de imputación.
-
-Deberá incorporarse en el registro señalado en el párrafo anterior el resultado neto de las rentas que fueron afectadas con el impuesto único de tasa 10%, es decir, una vez deducidos los costos, gastos y desembolsos que sean imputables al término del ejercicio, según lo establecido en la letra e) del número 1 del artículo 33.
-
-9) Inversionistas institucionales.
-
-Sin perjuicio de lo anterior, no constituirá renta el mayor valor obtenido por inversionistas institucionales, sea que se encuentren domiciliados o residentes en Chile o en el extranjero, en la enajenación de los instrumentos indicados en este artículo que cumplan con los requisitos en él establecidos. Para estos efectos, debe entenderse por inversionista institucional aquellos a que se refiere la letra e) del artículo 4º bis de la ley Nº 18.045.
-
-#### Artículo 108°
-
-El mayor valor obtenido en el rescate o enajenación de cuotas de fondos mutuos que no se encuentren en las situaciones reguladas por el artículo 107, se considerará renta afecta a las normas de la primera categoría, global complementario o adicional de esta ley, según corresponda, a excepción del que obtengan los contribuyentes que no estén obligados a declarar sus rentas efectivas según contabilidad, el cual estará exento del impuesto de la referida categoría.
-
-El mayor valor se determinará como la diferencia entre el valor de adquisición y el de rescate o enajenación. Para los efectos de determinar esta diferencia, el valor de adquisición de las cuotas se expresará en su equivalente en unidades de fomento según el valor de dicha unidad a la fecha en que se efectuó el aporte y el valor de rescate se expresará en su equivalente en unidades de fomento según el valor de esta unidad a la fecha en que se efectúe el rescate.
-
-Para los efectos de lo dispuesto en este artículo, no se considerará rescate la liquidación de las cuotas de un fondo mutuo que haga el partícipe para reinvertir su producto en otro fondo mutuo que no sea de los descritos en los numerales 3.1 y 3.2 del artículo anterior. Para ello, el partícipe deberá instruir a la sociedad administradora del fondo mutuo en que mantiene su inversión, mediante un poder que deberá cumplir las formalidades y contener las menciones mínimas que el Servicio de Impuestos Internos establecerá mediante resolución, para que liquide y transfiera, todo o parte del producto de su inversión, a otro fondo mutuo administrado por ella o a otra sociedad administradora, quien lo destinará a la adquisición de cuotas en uno o más de los fondos mutuos administrados por ella.
-
-Los impuestos a que se refiere el presente artículo se aplicarán, en el caso de existir reinversión de aportes en fondos mutuos, comparando el valor de las cuotas adquiridas inicialmente por el partícipe, expresadas en unidades de fomento según el valor de dicha unidad el día en que se efectuó el aporte, menos los rescates de capital no reinvertidos efectuados en el tiempo intermedio, expresados en unidades de fomento según su valor el día en que se efectuó el rescate respectivo, con el valor de las cuotas que se rescatan en forma definitiva, expresadas de acuerdo al valor de la unidad de fomento del día en que se efectúe dicho rescate.
-
-Las sociedades administradoras de los fondos mutuos de los cuales se liquiden las cuotas y las administradoras de los fondos mutuos en que se reinviertan los recursos, deberán informar al Servicio de Impuestos Internos en la forma y plazos que éste determine, sobre las inversiones recibidas, las liquidaciones de cuotas no consideradas rescates y sobre los rescates efectuados. Además, las sociedades administradoras de los fondos mutuos de los cuales se realicen liquidaciones de cuotas no consideradas rescates, deberán emitir un certificado en el cual consten los antecedentes que exija el Servicio de Impuestos Internos en la forma y plazos que éste determine.
-
-La no emisión por parte de la sociedad administradora del certificado en la oportunidad y forma señalada en el inciso anterior, su emisión incompleta o errónea, la omisión o retardo de la entrega de la información exigida por el Servicio de Impuestos Internos, así como su entrega incompleta o errónea, se sancionará con una multa de una unidad tributaria mensual hasta una unidad tributaria anual por cada incumplimiento, la cual se aplicará de conformidad al procedimiento establecido en el Nº 1 del artículo 165 del Código Tributario.
-
-> **Nota.** El numeral 51 letra a del artículo primero de la ley 20780, publicada el 29.09.2014, suprimió los incisos tercero y cuarto de la presente norma.
-
-#### Artículo 109°
-
-El mayor o menor valor en el aporte y rescate de valores en fondos cuyo reglamento interno contemple ese tipo de aportes y rescates, se determinará, para efectos tributarios, conforme a las siguientes reglas:
-
-1) Adquisición de cuotas mediante el aporte de valores.
-
-a) El valor de adquisición de las cuotas del fondo para aquellos inversionistas que efectúen aportes en valores, se determinará conforme al valor cuota, definido por el Reglamento de la ley que regule la Administración de Fondos de Terceros y Carteras Individuales.
-
-b) El precio de enajenación de los valores que se aportan corresponderá al valor al que esos títulos o instrumentos fueron valorizados por la administradora del fondo correspondiente al convertir el aporte en cuotas del mismo, y deberá estar contenido en un certificado que al efecto emitirá la administradora del fondo.
-
-2) Rescate de cuotas mediante la adquisición de valores.
-
-a) El valor de rescate de las cuotas del fondo para aquellos inversionistas que lo efectúen mediante la adquisición de valores que formen parte de la cartera del fondo, se determinará en la misma forma señalada en la letra a) del número precedente, y deberá estar contenido en un certificado que al efecto emitirá la administradora del fondo.
-
-b) El valor de adquisición de los títulos o instrumentos mediante los cuales se efectúa el rescate a que se refiere el literal anterior, será aquél empleado por la administradora del fondo respectivo para pagar el rescate en esos valores. Del mismo modo, el valor de tales títulos o instrumentos deberá constar en el certificado que al efecto emitirá la administradora.
-
-#### Artículo 110°
-
-Para efectos de lo dispuesto en esta ley, constituirán valores con presencia bursátil los que se determinen en conformidad a la ley Nº 18.045 de Mercado de Valores.
-
-Sin perjuicio de lo anterior, si la presencia bursátil está dada exclusivamente en virtud de un contrato que asegure la existencia diaria de ofertas de compra y venta de los valores de acuerdo al párrafo tercero de la letra g) del artículo 4 bis de la ley Nº 18.045, el tratamiento del mayor valor según las reglas de este Título VI aplicará sólo por el plazo de un año contado desde la primera oferta pública de valores que se realice luego de inscrito el emisor o depositado el reglamento en el correspondiente registro de la Comisión para el Mercado Financiero, según corresponda.
-
 #### Artículo 2°
 
 El nuevo texto de la Ley sobre Impuesto a la Renta que se establece en el artículo 1° del presente decreto ley regirá a contar del 1° de enero de 1975, afectando, en consecuencia, a las rentas percibidas o devengadas desde esa misma fecha, como asimismo, a las rentas correspondientes a ejercicios financieros finalizados desde dicha fecha.
@@ -3786,9 +1466,7 @@ No obstante, se aplicarán las siguientes normas especiales de vigencia, tratán
 
 #### Artículo 3°
 
-A partir de la fecha de vigencia de los preceptos de la nueva ley sobre Impuesto a la Renta, cuyo texto se contiene en el artículo 1° del presente decreto ley, quedarán derogadas las disposiciones de la anterior Ley de Impuesto a la Renta contenida en el artículo 5° de la Ley N° 15.564 y del artículo 12 del decreto ley N° 297, de 1974 y sus modificaciones posteriores.
-
-> **Nota.** La derogación del artículo 12 del DL 297, Hacienda, publicado el 30.01.1974, a que se refiere el presente artículo, comprende únicamente las normas relativas al impuesto a la renta y los pagos provisionales.
+A partir de la fecha de vigencia de los preceptos de la nueva Ley sobre Impuesto a la Renta, cuyo texto se contiene en el artículo 1° del presente decreto ley, quedarán derogadas las disposiciones de la anterior Ley de Impuesto a la Renta contenida en el artículo 5° de la ley N° 15.564 y del artículo 12° del decreto ley N° 297, de 1974, y sus modificaciones posteriores.
 
 #### Artículo 4°
 
@@ -3898,19 +1576,15 @@ Los socios de estas cooperativas no podrán enajenar en forma habitual sus derec
 
 10°.- Las cooperativas no estarán obligadas a efectuar pagos provisionales mensuales obligatorios a cuenta del impuesto a la renta. No obstante, pueden hacerlo voluntariamente, por cualquier cantidad y en cualquiera fecha.
 
-11.- Para los fines de aplicar la tributación del número segundo que antecede, la cooperativa deberá considerar que los ingresos brutos corresponden a operaciones con personas que no sean socios cuando provengan de:
+11°.- Para los fines de aplicar la tributación del número segundo que antecede, se faculta al Presidente de la República para que, previo informe de los Ministerios de Economía y de Hacienda, determine en qué casos y bajo cuáles circunstancias las operaciones efectuadas por las cooperativas con cooperados o no cooperados, se entenderán realizadas con sus socios o con terceros.
 
-a) Cualquier operación que no sea propia del giro de la cooperativa, realizada con personas que no sean socios.
+El Presidente de la República dictará un reglamento para la aplicación de las disposiciones de este artículo.
 
-b) Cualquier operación que sea propia del giro de la cooperativa y cumpla las siguientes condiciones copulativas:
+> **Nota.** El artículo 4º del DL 910, Hacienda, publicado el 01.03.1975, dispone que las modificaciones introducidas a la presente norma, regirán a contar del 1º de enero de 1975.
 
-i. Que los bienes o servicios propios del giro de la cooperativa sean utilizados o consumidos, a cualquier título, por personas que no sean socios; y,
+> **Nota.** NOTA: 1 El artículo 2º del DL 1681, Hacienda, publicado el 26.01.1977, dispone que las modificaciones que introduce a la presente norma, regirán a contar del 1º de enero de 1975, afectando, en consecuencia, a los balances que se practiquen desde dicha fecha.
 
-ii. Que las materias primas, insumos, servicios u otras prestaciones que formen parte principal de los bienes o servicios propios del giro de la cooperativa hayan sido adquiridos de o prestados por personas que no sean socios, a cualquier título.
-
-Para estos efectos se considerará que las materias primas, insumos, servicios o cualquier otra prestación constituyen parte principal de los bienes o servicios del giro de la cooperativa cuando, en términos de costos de fabricación, producción o prestación de éstos, signifiquen más del 50% de su valor de costo total. La cooperativa deberá llevar un control en el Libro de Inventarios y Balance, que permita identificar el porcentaje señalado.
-
-No se considerarán formando parte de los ingresos brutos de la cooperativa aquellos provenientes de utilizar o consumir, a cualquier título, materias primas, insumos, servicios u otras prestaciones proporcionadas por los socios de la respectiva cooperativa y que formen parte principal de los bienes o servicios del giro de la cooperativa. Tampoco se considerarán los bienes o servicios del giro de la cooperativa que sean utilizados o consumidos, a cualquier título, entre ésta y sus cooperados.
+> **Nota.** NOTA: 2 El artículo cuarto de la LEY 18840, publicada el 10.10.1989, dispone que la modificación introducida a la presente norma, rige sesenta días después de su publicación.
 
 #### Artículo 18°
 
