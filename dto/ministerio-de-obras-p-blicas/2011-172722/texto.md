@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.011, de fecha 16 de mayo del 2000, se expropió los lotes de terreno Nºs. 89-A y 89-B, superficie 700 y 11.000 m² respectivamente, sin rol de avalúo, comuna de Alto del Carmen, para la obra ''Proyecto Embalse Santa Juana Sector La Laja IV Etapa'' y se acordó el valor de indemnización con su propietario Ismael Jofré Salazar, ascendente a la cantidad de $5.911.466.
+
+Fiscal del Ministerio de Obras Públicas.
