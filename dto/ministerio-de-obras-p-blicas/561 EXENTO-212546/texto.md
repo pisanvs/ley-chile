@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº561 de 30 de mayo de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº48 para la obra: Camino Ruta T-80, Sector La Unión- Las Trancas, Tramo km. 0,900 a km. 10,99034, que figura a nombre Arias Figueroa Francisco V., rol de avalúo 524-15, Comuna de La Unión, X Región, superficie 1.215 M2. La Comisión de Peritos, fijó con fecha 21 de enero 2000, el monto de la indemnización provisional en la cantidad de $423.750.-, para el lote 48. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
