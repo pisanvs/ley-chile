@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 624, de 27 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nos 3B, 9K y 9R, para la obra Camino Ruta T-665, sector Llifén-Calcurrupe, Tramo Km. 75,75334 a Km. 77,62103, X Región, que figuran a nombre de Zagner Leighton Ida Isabel, rol de avalúo 60-47, superficies 87,5 m²; 1.047 m² y 1.055 m²; comuna de Futrono. La comisión de peritos, con fecha 23 de agosto de 2000, fijó el monto de la indemnización provisional en las cantidades de $1.589.000, para el lote Nº 3B;
+
+$2.722.200, para el lote Nº 9K y $2.825.800, para el lote Nº 9R, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
