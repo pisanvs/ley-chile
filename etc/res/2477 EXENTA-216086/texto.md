@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.477, de 15 de octubre de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº342 de 2001, que rechazó la solicitud de concesión de acuicultura Nº 99103249 presentada por VICTORIA EULOGIA CARCAMO GUERRERO, para instalar y operar un centro de cultivo ubicado en Canal Queilén, sector Sureste de Islote Chagualín, X Región.
+
+Valparaíso, 15 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
