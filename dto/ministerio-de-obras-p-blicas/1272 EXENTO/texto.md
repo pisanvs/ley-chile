@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.272 de fecha 30 de agosto del 2002, se expropió el lote de terreno Nº59, superficie 195 m2, sin rol, comuna de Alto del Carmen, III Región para la obra ''Camino Ruta C-489, sector Alto del Carmen-El Corral, tramo Km. 0,000 al Km. 70,000, etapa II'' y se acordó el valor de indemnización con su propietario Rodolfo Monsalve Campos y Otros, ascendente a la cantidad de $318.280.-
+
+Fiscal del Ministerio de Obras Públicas.
