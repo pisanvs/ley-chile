@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.254, de 4 de diciembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112054 presentada por VICENTE ALEJANDRO GONZALEZ RUIZ, para instalar y operar un centro de cultivo ubicado en estero Barros Arana, lado weste de isla Mc Pherson (sector B), XI Región.
+
+Valparaíso, 4 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
