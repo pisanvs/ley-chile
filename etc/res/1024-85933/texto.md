@@ -1,0 +1,3 @@
+Por resolución No. 1.024 de 26 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase la resolución No. 1.324, de 1991, de esta Subsecretaría, por la cual se declaró la caducidad de la autorización conferida a don FERNANDO ARANCIBIA CARVAJAL, R.U.T. No. 6.780.149-0, domiciliado en calle Combarbal No. 535, Caldera, en el sentido de indicar que la resolución que se caduca es la No. 1.858, de 1989 de esta Subsecretaría y no la que allí se señala.
+
+Valparaíso, 26 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
