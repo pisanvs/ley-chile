@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 349, de 01 de diciembre de 1988, se expropió el lote N° 1, superficie 755,35 m2., rol de avalúo 2011, Comuna de Zapallar, para Servicio de Agua Potable Rural John Kennedy de Catapilco y se acordó precio de indemnización con su propietaria la Sociedad Civil y Comercial Colectiva Agrícola Ganadera Catapilco, Luis Fernández, Ernesto Vergara y Compañía, ascendente a $ 453.210.-
+
+Fiscal del Ministerio de Obras Públicas.
