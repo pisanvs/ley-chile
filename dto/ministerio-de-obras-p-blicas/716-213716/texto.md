@@ -1,0 +1,3 @@
+Por decreto MOP Nº 716 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 15, superficie 180,00 m2, Rol Nº 1500-279, comuna de Valparaíso, V Región para la obra "Habilitación Nuevo camino La Pólvora, Km. 17,86424 a Km. 22,47179, Sector 3, Quebrada Las Animas - Puerto Valparaíso" y se acordó el valor de indemnización con su propietario Juan Alberto Soto Argel, ascendente a la cantidad de $12.569.439.
+
+- Fiscal del Ministerio de Obras Públicas.
