@@ -1,0 +1,5 @@
+MUNICIPALIDAD DE CONCHALI
+
+Alcalde I. Municipalidad de Conchalí, mediante Decreto Exento N° 146, de 26 de marzo de 1996 dispongo expropiación parcial, conforme a D.F.L. 458 de 1976 MINVU Ley General de Urbanismo y Construcciones, Decreto Exento N° 556, de 07.11.82, ratificado por Decreto N° 73 de 03.05.83. MINVU, D.L. 2186 de 1978 y Art. 19° N° 24 de la Constitución Política, de inmueble ubicado en calle Pérez Cotapos N° 1497, Rol de Avalúo N° 2170-32, de la Comuna de Conchalí, de propiedad de la sucesión Peirano Ramírez, para la prolongación de la calle Augusto Ossa en el tramo Avenida Dorsal hasta Pérez Cotapos. Deslindes parte expropiada: al Norte: 11,00 mts. aprox. con calle Augusto Ossa; al Sur: 11,00 mts. aprox. con calle Pérez Cotapos; al Oriente: 27,50 mts. aprox. con otra propiedad; y al Poniente: 27,50 mts. aprox. con restos del mismo predio. Indemnización provisional: $9.900.000.- (nueve millones novecientos mil pesos), pagadera al contado.-
+
+Carlos Sottolichio Urquiza, Alcalde.- Adela Fuentealba Labbé, Secretaria Municipal.
