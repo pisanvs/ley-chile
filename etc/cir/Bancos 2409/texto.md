@@ -27222,7 +27222,7 @@ La información acerca de las transacciones con partes relacionadas debe referir
 
 Deben considerarse todos los contratos con vigencia en cualquier momento del ejercicio, aun cuando estén extinguidos al cierre de éste y aquéllos que se hayan suscrito con posterioridad, hasta la fecha de preparación de los estados financieros, informándolos, en este último caso, como hechos posteriores.
 
-Con todo, dado que las cifras de las notas deben expresarse en millones de pesos y que los montos inferiores son irrelevantes para los propósitos que se persiguen con su presentación, no se mencionarán en esta nota los contratos o transacciones con una parte relacionada, cuando la suma de los importes involucrados sea inferior al millón de pesos.
+A fin de que la nota incluya sólo información de cierta relevancia en relación con el efecto en los estados financieros, se informarán las operaciones con una persona relacionada solamente cuando el importe total involucrado en el o los contratos o el monto total de las transacciones efectuadas con ella, sea superior al equivalente de 1.000 Unidades de Fomento.
 
 4.4. Nota sobre inversiones en sociedades filiales y coligadas.
 
@@ -27364,7 +27364,7 @@ Las instituciones bancarias que tengan participación en sociedades filiales, po
 
 ANEXO N°1
 
-I.- MODELOS DE BALANCE Y ESTADO DE RESULTADOS,
+I.- MODELOS DE BALANCE Y ESTADO DE RESULTADOS.
 
 .
 
@@ -27439,6 +27439,8 @@ OBSERVACIONES:
 6. Para reflejar las comisiones por colocaciones en letras de crédito junto con los intereses.
 
 7. Para reflejar dentro de "Otros Ingresos de Operación" el ingreso neto por operaciones con pagarés de deuda externa.
+
+> **Nota.** La letras B y C) de la Circular 2762,SBIF, promulgada el 28.10.1993, modifican el presente anexo, reemplazando la expresión "Resultado del ejercicio" por "Utilidad (Pérdida) del ejercicio", a fin de dejarlo concordante con el modelo de estado de situación vigente". Por otra parte, se actualizan las instrucciones de la letra b) del N° 3 del título III del Anexo N° 1 del CAPITULO 18-1, con el propósito de adecuarlas a la disposiciones sobre operaciones a futuro establecidas mediante la Circular N° 2.752 de 10 de agosto de 1993.
 
 ANEXO N° 2
 
@@ -27604,12 +27606,6 @@ Para incorporar el valor de las garantías, debe tenerse presente que aquellas c
 
 (3): Párrafo aplicable sólo a instituciones que mantengan obligación subordinada.
 
-## Capítulo 18-1
-
-ANEXO N° 5
-
-Pág. 3
-
 Instituciones que no tienen operaciones con partes relacionada
 
 NOTA.3 - OPERACIONES CON PARTES RELACIONADAS.
@@ -27621,6 +27617,8 @@ Al cierre del ejercicio no existen créditos otorgados a personas relacionadas c
 Por otra parte, durante el ejercicio y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas .. / por montos superiores a $ 1 millón/
 
 > **Nota.** NOTA La letra C, de la Circula 2718, SBIF, promulgada el 16.12.1992, complementa las instrucciones para la preparación de las notas sobre operaciones con partes relacionadas y provisiones para cubrir activos riesgosos contenidas en el presente Anexo. Respecto de la nota sobre operaciones con partes relacionadas, se suprime la información que señalaba el porcentaje del capital y reservas que representaban los créditos a deudores relacionados con la institución, a la vez que se agrega la información sobre monto de los créditos castigados en los últimos cuatro años.
+
+> **Nota.** NOTA 1 La letra D de la Circular 2762, SBIF, promulgada el 28.10.1993, modifica el texto de los modelos de notas sobre operaciones con partes relacionadas, adecuando su redacción para que se utilice el mismo modelo tanto en los estados de situación como para los estados financieros anuales, contenidos en el presente Anexo.
 
 ANEXO N° 6
 
@@ -27770,6 +27768,8 @@ En todo caso, cuando existan otros saldos importantes y que sea pertinente incor
 
 (2) Otras contingencias, compromisos o responsabilidades significativas, cuando proceda, según lo indicado en el numeral 4.13 del título III de este Capitulo.
 
+> **Nota.** La letra E de la Circular 2762, SBIF, promulgada el 28.10.1993, actualiza el modelo e instrucciones de la nota sobre contingencias, compromisos y responsabilidades, eliminando la mención a partidas que no se encuentran vigentes.
+
 CAPITULO 18-2 (Bancos y Financieras)
 
 MATERIA
@@ -27846,7 +27846,7 @@ Esta nota incluirá información general sobre la obligación subordinada con el
 
 3.3. Preparación de la Nota N° 3 sobre operaciones con partes relacionadas.
 
-Esta nota contiene, en lo principal, la misma información que la nota que debe acompañar los estados financieros correspondientes al ejercicio anual. Por consiguiente, para su preparación debe tenerse presente lo dispuesto en el numeral 4.3 del titulo III del Capitulo 18-1 de esta Recopilación Actualizada de Normas, las instrucciones del Anexo N° 5 de ese Capitulo 18-1, en lo que sea aplicable, y el modelo que se incluye en el Anexo N° 2 del presente Capítulo.
+Esta nota debe contener la misma información que la nota de los estados financieros correspondientes al ejercicio anual, pero referida a la fecha del estado de situación. Por consiguiente, para su preparación las instituciones financieras deben ceñirse a lo dispuesto en el numeral 4.3 del título III del Capítulo 18-1 de esta Recopilación Actualizada de Normas y al modelo e instrucciones contenidos en el Anexo N° 5 de ese Capítulo 18-1.
 
 3.4. Preparación de las notas especiales.
 
@@ -27983,6 +27983,8 @@ MODELO DE NOTA SOBRE PROVISIONES MINIMAS EXIGIDAS
 NOTA N°...- PROVISIONES SOBRE COLOCACIONES.
 
 El monto de las provisiones sobre colocaciones que se muestra en el Estado de Situación está constituido por $ ........ millones correspondiente a provisiones mínimas exigidas por la Superintendencia de Bancos e Instituciones Financieras para cubrir los riesgos de la cartera y $ .......... millones correspondientes a provisiones adicionales o voluntarias.
+
+> **Nota.** La letra G de la Circular 2762, SBIF, promulgada el 28.10.1993, suprime el modelo y las instrucciones para la preparación de la nota sobre operaciones con partes relacionadas, contenidas en el presente Anexo.
 
 CAPITULO 18-3 (Bancos y Financieras)
 
