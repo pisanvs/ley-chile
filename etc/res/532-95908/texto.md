@@ -1,0 +1,3 @@
+Por resolución No. 532, de 26 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación conforme DL 2.186 de 1978 inmueble ubicado en calle Ricardo Santa Cruz No. 719, presunto rol avalúos 596-8 comuna Santiago, aparentemente dominio de don José Reyes Rodríguez. Comisión integrada por peritos Sres. Ricardo Carvallo Rodríguez y Luis del Pozo Concha, arquitectos y Raúl Varela Hernández, ingeniero civil, según a informe de 2 de diciembre de 1988, fijó monto provisional indemnización en $ 2.152.510, pagadera al contado.
+
+Director SERVIU Metropolitano.
