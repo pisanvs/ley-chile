@@ -1,0 +1,5 @@
+Medidas de Seguridad
+
+Ha llegado a este Gobierno el rumor de que varias personas han sido insultadas por varios jóvenes de inmoderado patriotismo, que dan con esto ocasion a que sigan su ejemplo, o se sirvan de su nombre, jentes que con sus excesos los deshonran a ellos, i al mismo sistema que pretenden sostener por medios que hacen el efecto contrario. Por esto se doblará la vijilancia de las justicias i patrullas; i cualquiera que sea encontrado perpetrando este delito, será castigado segun su clase, de manera que escarmiente i cese la inquietud, restituyéndose la seguridad personal i el sociego cuya proteccion es el primero de los deberes de la autoridad, sobre cuyo cuidado descansa el pueblo. Todo individuo podrá quejarse o delatar: se le hará justicia i guardará secreto. Imprímase i publíquese por bando.
+
+Santiago, Noviembre 24 de 1812.- Prado. -Portales. - Carrera.
