@@ -1,0 +1,31 @@
+DEJA SIN EFECTO SOLICITUDES DE INSCRIPCION AL SISTEMA DE SUBSIDIO HABITACIONAL PARA LA ATENCION DEL SECTOR RURAL, PRIMER LLAMADO 2000; I LLAMADO 2000 A POSTULACION PARA LA ADQUISICION O CONSTRUCCION DE VIVIENDAS RURALES EMPLAZADAS EN ASENTAMIENTOS POBLACIONALES Y LLAMADO 1-2000 A POSTULACION COLECTIVA CON PROYECTOS DE SANEAMIENTO SANITARIO PARA PREDIOS RURALES, POR LAS RAZONES QUE SEÑALA
+
+Santiago, 13 de septiembre de 2000.- Hoy se resolvió lo que sigue:
+
+Núm. 2.195 exenta.- Visto: El DS N° 167, (V. y U.), de 1986, y sus modificaciones, que regula el Sistema de Subsidio Habitacional para la Atención del Sector Rural, y en especial lo previsto en sus artículos 4º, 6º, 8º, 9º, 10, 17, 32, 33 y en sus Títulos II y III; las resoluciones exentas Nº 1.106 y Nº 1.107, ambas de este Ministerio, de fecha 27 de abril de 2000, publicadas en el Diario Oficial del 6 de mayo de 2000, modificada la última por resolución exenta N° 1.347, de este Ministerio, de fecha 26 de mayo de 2000, publicada en el Diario Oficial del 3 de junio de 2000; y,
+
+Considerando:
+
+a) Que en el número 1º de la resolución exenta Nº 1.107, modificada por resolución exenta N° 1.347, ambas de este Ministerio, de 2000, se dispuso el llamado a inscripción de postulantes para el Sistema de Subsidio Habitacional para la Atención del Sector Rural (primer llamado 2000), fijándose en esa misma resolución el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente y su forma de distribución regional y por tipo de postulación;
+
+b) Que en el número 2º de la resolución exenta Nº 1.107, modificada por resolución exenta N° 1.347, ambas de este Ministerio, de 2000, se dispuso el llamado a inscripción de postulantes para el Sistema de Subsidio Habitacional para la Atención del Sector Rural, en la modalidad de postulación para la adquisición o construcción de viviendas rurales emplazadas en asentamientos poblacionales (I llamado 2000), fijándose en esa misma resolución el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente y su forma de distribución regional y por tipo de postulación;
+
+c) Que en el número 3º de la resolución exenta Nº 1.107, modificada por resolución exenta N° 1.347, ambas de este Ministerio, de 2000, se dispuso el llamado a inscripción de postulantes para el Sistema de Subsidio Habitacional para la Atención del Sector Rural, en la modalidad de postulación colectiva con proyectos de saneamiento sanitario para predios rurales (llamado 1-2000), fijándose en esa misma resolución el monto de los recursos que se destinarían para el financiamiento del subsidio directo correspondiente y su forma de distribución regional;
+
+d) Que mediante resolución exenta Nº 1.106, de este Ministerio, de 2000, se fijaron las menciones y datos que deberán contener las solicitudes de inscripción para llamados a postulación del Sistema de Subsidio Habitacional para la Atención del Sector Rural (Título I); para llamados a postulación para la adquisición o construcción de viviendas rurales emplazadas en asentamientos poblacionales (Título II) y para llamados a postulación colectiva con proyectos de saneamiento sanitario para predios rurales (Título III), indicando los documentos que deberán acompañarse a ellas o exhibirse y su forma de presentación;
+
+e) Que el DS Nº 167 (V. y U.), de 1986, y sus modificaciones, establece algunas inhabilidades para postular al Sistema de Subsidio Habitacional para la Atención del Sector Rural, así como las causales por las cuales este Ministerio podrá dejar sin efecto, mediante resoluciones, las solicitudes para postular a dicho beneficio, dicto la siguiente,
+
+R e s o l u c i ó n:
+
+1º.- Déjanse sin efecto las 1.220 solicitudes de inscripción para el primer llamado 2000 del Sistema de Subsidio Habitacional para la atención del Sector Rural, efectuado por el número 1º de la resolución exenta Nº 1.107, modificada por resolución exenta N° 1.347, ambas de este Ministerio, de 2000, presentadas por las personas individualizadas en las nóminas que se acompañan, las cuales se entenderán formar parte integrante de la presente resolución, por las causales que en cada caso se expresan en dichas nóminas.
+
+2º.- Déjanse sin efecto las 1.016 solicitudes de inscripción de postulantes para el I llamado 2000 a postulación para la adquisición o construcción de viviendas rurales emplazadas en asentamientos poblacionales (Título II) del Sistema de Subsidio Habitacional para la Atención del Sector Rural, efectuado por el número 2º de la resolución exenta Nº 1.107, modificada por resolución exenta N° 1.347, ambas de este Ministerio, de 2000, presentadas por las personas individualizadas en las nóminas que se acompañan, las cuales se entenderán formar parte integrante de la presente resolución, por las causales que en cada caso se expresan en dichas nóminas, y acéptanse cuatro (4) renuncias voluntarias presentadas al referido llamado, por los postulantes que en las mismas nóminas se indican.
+
+3º.- Déjanse sin efecto las 430 solicitudes de inscripción de postulantes para el llamado 1-2000 a postulación colectiva con proyectos de saneamiento sanitario para predios rurales (Título III) del Sistema de Subsidio Habitacional para la Atención del Sector Rural, efectuado por el número 3º de la resolución exenta Nº 1.107, modificada por resolución exenta N° 1.347, ambas de este Ministerio, de 2000, presentadas por las personas individualizadas en las nóminas que se acompañan, las cuales se entenderán formar parte integrante de la presente resolución, por las causales que en cada caso se expresan en dichas nóminas.
+
+4º.- Publíquense las nóminas completas a que se refiere la presente resolución, en un periódico de circulación nacional, y exhíbanse dichas nóminas en las Oficinas de los Serviu.
+
+Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Claudio Orrego Larraín, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Sonia Tschorne Berestesky, Subsecretaria de Vivienda y Urbanismo.
