@@ -1,0 +1,1 @@
+Otorga anticipo de reajuste, de un 22,1%, sobre las remuneraciones permanentes a la fecha que indica, a todos los trabajadores del sector público e instituciones que señala
