@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.118, de 30 de noviembre del 2000, se expropió el lote de terreno Nº2, superficie 11.730 m², rol de avalúo 1511-69, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con sus propietarios Cremilda María Astete Martínez y Otros, ascendente a la cantidad de $13.327.242.-
+
+Fiscal del Ministerio de Obras Públicas.
