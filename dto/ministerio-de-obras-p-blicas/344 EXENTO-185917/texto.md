@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 344, de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs 18 y 23, superficies 844,5 M2 y 1.109,1 M2, roles de avalúos 68-291 y 68-290, respectivamente, comuna de Temuco, para la obra "Camino Teno - Maitenes, Sector La Montaña - Maitenes Tramo Km. 25,00046 al 27,61620" y se acordó el valor de indemnización con su propietario Servando del Carmen Reyes González, ascendente a la cantidad de $2.263.758.-
+
+Fiscal del Ministerio de Obras Públicas.
