@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.469, de 29 de septiembre de 2000, se expropió el lote de terreno Nº86, superficie 160 m², rol de avalúo 5354-18, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector A, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Enrique Guajardo Sepúlveda, ascendente a la cantidad de $23.251.848.-
+
+Fiscal del Ministerio de Obras Públicas.
