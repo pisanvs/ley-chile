@@ -1,0 +1,3 @@
+Por resolución No. 1.118 de 03 de Septiembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año a contar de esta fecha, el plazo otorgado a SOCIEDAD PESQUERA MARIA ELENA LIMITADA, R.U.T. No. 79.946.810-7, domiciliada en Talcahuano, para operar la embarcación "Don José", autorizada por resolución No. 224, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 03 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
