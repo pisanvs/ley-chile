@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.526, de 29 de diciembre del 2000, se expropió el lote de terreno Nº 108, superficie 8.642 m2., rol de avalúo 16-27, comuna de Olivar, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector E. Km. 28.160,00 al Km. 30.200,00, Sexta Región y se acordó el valor de indemnización con su propietario Carlos Ernesto Jaña González, ascendente a la cantidad de $64.880.709.-
+
+Fiscal del Ministerio de Obras Públicas.
