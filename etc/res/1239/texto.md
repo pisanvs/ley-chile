@@ -1,0 +1,5 @@
+Por Resolución N° 1.239, de 11 de Diciembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A.; R.U.T. N° 93.711.000-6, domiciliada en calle Manuel Montt N° 1941, Tomé, para ampliar actividades pesqueras de transformación, autorizadas por Resoluciones N° 11, de 1980, N° 183, de 1985, N° 709, de 1985 y N° 410, de 1987, todas de esta Subsecretaría, en orden a incorporar el recurso hidrobiológico Merluza de cola, Macruronus magellanicus, a las líneas de proceso de congelado, conserva y harina de la planta industrial ubicada en la VIII Región, calle Manuel Montt N° 1941, Tomé. Adquirirá el recurso de pescadores artesanales o industriales autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 11 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
