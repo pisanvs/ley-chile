@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.443, de 31 de agosto de 1998, se expropiaron los lotes de terreno Nos. 35 y 38, superficie 805 m². y 2.824 m²., rol de avalúo 20-95, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector G, By Pass Los Andes, y se acordó el valor de indemnización con sus propietarios Rivera Seagars Roberto y Otra, ascendente a las cantidades de $ 1.217.962.- y $ 2.993.369.-
+
+Fiscal del Ministerio de Obras Públicas.
