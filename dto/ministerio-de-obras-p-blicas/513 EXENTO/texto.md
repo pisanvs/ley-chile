@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 513, de 30 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 24, 25 y 26, para la obra Camino Reposición Ruta M-30-L, sector Cruce Ruta L-26-M, Puente Purapel Kms. 4,100.00 al 51,563.99, que figuran a nombre de Forestal Celco S.A., Rojas Soto Primitivo y otra y Novoa de Chamorro María, roles de avalúos 387-
+
+90, 381-55 y 381-9, comuna de San Javier, VII Región, superficies 683, 4.437 y 624 m², respectivamente. La Comisión de Peritos, fijó con fecha 10 de junio de 1999, en la cantidad de $261.640, lote 24; $623.960, lote 25 y $247.360, lote 26. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
