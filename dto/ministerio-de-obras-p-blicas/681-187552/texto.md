@@ -1,0 +1,3 @@
+Por decreto MOP Nº681 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº22, superficie 69,90 m2., rol de avalúo 1252-239, comuna de Parral, para la obra "Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Tramo Km. 0,000 a Km. 15,800" y se acordó el valor de indemnización con su propietario Heraldo Santiago Barriga Delgado, ascendente a la cantidad de $504.461.-
+
+Fiscal del Ministerio de Obras Públicas.
