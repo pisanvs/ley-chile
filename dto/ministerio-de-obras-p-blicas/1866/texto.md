@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.866, de 28 de abril de 2000, se expropió el lote de terreno Nº 82, superficie 220 m2., rol de avalúo 5355-1, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metroplitana y se acordó el valor de indemnización con su propietario Pablo Esteban Quezada Bustamante, ascendente a la cantidad de $30.751.610.-
+
+Fiscal del Ministerio de Obras Públicas.
