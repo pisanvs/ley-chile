@@ -1,0 +1,1 @@
+Suplementa los ítem que se indican del Presupuesto de 1945, y traspasa las cantidades que se expresa entre diversos ítem del mismo Presupuesto.
