@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE "ADMINISTRADORA DE FONDOS DE PENSIONES SANTA MARIA S.A."
+
+Por Resolución Nº E-138-97, de fecha 31 de marzo de 1997, de esta Superintendencia se autorizó la reforma introducida a los estatutos de la Administradora de Fondos de Pensiones Santa María S.A., acordada en la Séptima Junta General Extraordinaria de Accionistas, celebrada en la ciudad de Santiago, el día 5 de marzo de 1997, cuya acta se redujo a escritura pública con fecha 12 de marzo de 1997, ante el Notario Público de Santiago, don Patricio Zaldívar Mackenna, emitiéndose, con la misma fecha, el correspondiente Certificado que contenía el respectivo extracto, el que fue publicado en el Diario Oficial del día 14 de abril de 1997. Por el presente acto, el Superintendente que suscribe viene en rectificar el Certificado antes aludido, en términos de suprimir del Punto 1.- y del primer párrafo del Punto 2.- del extracto, las palabras "millones" que siguen al número "880.000.000".
+
+Santiago, 28 de abril de 1997.- Julio Bustamante Jeraldo, Superintendente.
