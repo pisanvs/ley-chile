@@ -1,0 +1,3 @@
+Por Decreto MOP. No. 197 de 30 de agosto de 1991, se expropiaron los lotes No. s. 8 y 10, superficies 588 m2. y 1.299 m2. roles de avalúo 2024-9 y 2024-7, Comuna de Melipilla para la ejecución de la obra Camino Autopista Santiago San Antonio, sector Melipilla Puangue y se acordó precio de indemnización con sus propietarias Sras. Rebeca y Regina de las Mercedes Martínez Rubio, y María Ofelia de la Cruz Fernández Padilla, ascendente a las sumas de $ 1.253.994.- para el lote 8 y $ 1.291.662.- para el lote 10, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
