@@ -1,0 +1,5 @@
+por resolución N° 102 de 19 de Enero de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL REIBACH LIMITADA, R.U.T. N° 78.439.340-2, para iniciar actividades pesqueras, en orden a operar una planta ubicada en la X Región, Las Tapas N° 555, Sector Población Techo para Todos, Puerto Montt, donde podrá procesar la línea de elaboración que se indica, los siguientes recursos hidrobiológicos: Conserva: Salmón cereza, Salmón del atlántico, Salmón plateado, Trucha arcoiris y Trucha café.
+
+Los recursos Salmón del atlántico, Salmón cereza, Salmón plateado, Trucha arcoiris y Trucha café, deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+Valparaíso, 19 de Enero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
