@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.109, de 30 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote Nº61, superficie 149 m2, para la obra Camino Chépica Bif. Teno sector Cuesta El Peral Chépica, que figura a nombre de Manuel Gajardo Vergara, rol de avalúo 59-15, comuna Chépica, VI Región. La Comisión de Peritos, fijó con fecha 30 de junio de 1997, el valor provisional de la indemnización en la cantidad de $329.800, el lote Nº61. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
