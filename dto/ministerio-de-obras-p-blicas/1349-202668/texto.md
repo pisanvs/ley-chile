@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.349, de 31 de julio de 2002, se expropiaron los lotes de terreno Nºs. 37-1 y 38-1 superficie 3.898 y 4.062 m2 respectivamente, rol de avalúo 155-2, comuna de Casablanca, para la obra Red Vial Litoral Central Sector 2: Camino Algarrobo-Casablanca (Ruta F-90). Tramo: Km. 0.000,00 al 32.100,00, Quinta Región y se acordó el valor de indemnización con su propietaria Marta Hurtado Hurtado ascendente a la cantidad de $17.434.815.-
+
+Fiscal del Ministerio de Obras Públicas.
