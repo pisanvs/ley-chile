@@ -1852,7 +1852,7 @@ La obligación de recomprar y revender que asumen las partes, deberá pactarse a
 
 a) Operaciones entre instituciones financieras.
 
-Las operaciones entre instituciones financieras establecidas en Chile podrán realizarse desde un día hábil bancario cuando se transfieran con pacto los instrumentos mencionados en el N° 3 de este título.
+Las operaciones entre instituciones financieras establecidas en Chile podrán realizarse desde un día hábil bancario cuando se transfieran con pacto los instrumentos mencionados en el N° 3 de este título, de acuerdo con lo indicado en la letra c) del N° 6 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 Para los demás valores o efectos de comercio que se transfieran, el plazo para la retrocompra no podrá ser inferior a 30 días corridos cuando se vendan documentos no reajustables, ni menor a 90 días cuando se trate de instrumentos reajustables.
 
@@ -1860,7 +1860,7 @@ b) Operaciones con el público.
 
 La venta con pacto a compradores distintos a otros bancos o sociedades financieras establecidos en el país de los instrumentos mencionados en el N° 3 de este título, debe contratarse con un plazo no inferior a cuatro días hábiles bancarios.
 
-Para la venta con pacto de retrocompra de otros valores, el plazo no podrá ser inferior a 30 días corridos cuando el pacto no incluya una cláusula de reajustabilidad, ni menor a 90 días cuando el pacto la incluya, en concordancia con 10 señalado en el N° 1 del título II de este Capítulo. En todo caso, para la inclusión de las cláusulas de reajustabilidad deberá observarse lo dispuesto en el numeral 2.5 siguiente.
+Para la venta con pacto de retrocompra de otros valores, el plazo no podrá ser inferior a 30 días corridos cuando el pacto no incluya una cláusula de reajustabilidad, ni menor a 90 días cuando el pacto la incluya, en concordancia con 10 señalado en el N° 1 del título II de este Capítulo. Por otra parte, sea que se trate o no de operaciones con pacto reajustables, el plazo para la recompra de instrumentos que incluyan una cláusula de reajustabilidad no podrá ser inferior a 90 días, según lo previsto en la letra c) del N° 6 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 Las compras con pacto al público pueden efectuarse desde un día hábil bancario.
 
@@ -1870,11 +1870,11 @@ Por tratarse de operaciones de crédito de dinero, la tasa de interés que se le
 
 Los pactos en moneda extranjera con tasa varia- ble deben expresarse con tasa libo o prime.
 
-Sólo se podrá pactar una reajustabilidad distinta que la expresada en el título transferido o realizar pactos reajustables sobre títulos no reajustables o viceversa, cuando se trate de operaciones con los instrumentos que se señalan en el N° 3 de este título y que no correspondan a instrumentos pagaderos, expresados o reajustables en moneda extranjera. Por lo contrario, en el caso de operaciones con Pagarés Reajustables de la Tesorería General de la República que se expresan en Unidades Tributarias Mensuales, como asimismo en el caso de los Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional, los pactos reajustables sólo podrán convenirse en alguno de los sistemas de reajuste autorizados por las normas generales, y no con la reajustabilidad del instrumento transado.
+La reajustabilidad de los pactos, al igual que las demás operaciones de crédito, sólo podrá convenirse en alguno de los sistemas autorizados por las normas generales, cualquiera sea la reajustabilidad que tuviere el instrumento transado.
 
 2.6. Pactos y documentos pagaderos en moneda extranjera.
 
-En ningún caso los bancos podrán adquirir o ceder documentos pagaderos en moneda extranjera mediante pactos que se solucionen en moneda chilena, ni viceversa.
+Los bancos podrán adquirir o ceder documentos en moneda extranjera mediante pactos que se solucionen en la misma u otra moneda, incluyendo la moneda chilena.
 
 Las sociedades financieras no podrán realizar pactos de compra o venta pagaderos en moneda extranjera.
 
