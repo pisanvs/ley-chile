@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº277, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº54, superficie 79 m², rol de avalúo 2023-334, comuna de Melipilla, para la obra ''Camino Reposición Ruta G-74-F, Sector Melipilla-Bollenar, Km. 0.00000 a Km. 14,23039'' y se acordó el valor de indemnización con su propietario Mario Rubio Navia, ascendente a la cantidad de $975.824.
+
+Fiscal del Ministerio de Obras Públicas.
