@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.695, de 24 de junio de 1999, se expropió el lote de terreno No. 1, superficie 201 m2, rol de avalúo 839-133, comuna de Parral, para la obra Camino Ruta 5, Tramo Talca-Chillán: Solución Calle de Servicio Sector Las Tinajas, Séptima Región y se acordó el valor de indemnización con su propietario José Santos Romero Romero, ascendente a la cantidad de $ 367.041.-
+
+Fiscal del Ministerio de Obras Públicas.
