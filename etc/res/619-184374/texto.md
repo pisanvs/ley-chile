@@ -1,0 +1,3 @@
+Por resolución Nº 619, de 10 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 98110009, presentada por SALMONES FRIOSUR S.A. para instalar y operar el centro de cultivo ubicado en un canal Rodríguez, isla Chaculay, caleta Claudio, comuna y provincia de Aysén, XI Región.
+
+Valparaíso, 10 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
