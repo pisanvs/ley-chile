@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.196 de fecha 31 de agosto de 2004, se expropiaron los lotes de terreno Nº 98-B y 98-C, superficies 32 m2 y 32 m2, rol de avalúo Nº 596-50, comuna de Santa Cruz, para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km.0,00000 a Km. 7,46939", VI Región y se acordó el valor de la indemnización con su propietario Carlos Roberto Bello, ascendente a la cantidad de $333.744.-
+
+Fiscal del Ministerio de Obras Públicas.
