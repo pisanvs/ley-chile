@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 427, de 30 de abril de 1997, se expropiaron los lotes Nºs. 29-A, 29-B y 29-C, superficies 193 m²., 970 m². y 635 m²., sin roles de avalúo, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Ramal Colector, sector Rafael - Agua Amarilla, y se acordó el valor de indemnización con sus propietarios Juana Mella Torres y otras, ascendente a la cantidad total de $291.546.-
+
+Fiscal del Ministerio de Obras Públicas.
