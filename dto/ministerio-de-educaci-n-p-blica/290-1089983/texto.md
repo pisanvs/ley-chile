@@ -14,7 +14,13 @@ Decreto:
 
 #### Artículo único
 
-Autorizase el funcionamiento al Instituto Profesional denominado "Instituto Nacional de Capacitación Profesional" (INACAP), Corporación de Derecho Privado, el cual tendrá su ubicación en Santiago, calle Chesterton N° 7028, Avenida Colón N° 8600 y Panamericana Norte N° 2980. Sus fines son la docencia en todas las profesiones relacionadas con el área de la educación, ciencias sociales y tecnológicas, excepto aquellas que la ley reserva para las Universidades.
+Autorízase el funcionamiento del Instituto Profesional que se indica, organizado por la persona jurídica que se señala:
+
+Nombre de la Institución: Instituto Profesional Instituto Nacional de Capacitación Profesional INACAP o Instituto Profesional INACAP.
+
+Domicilio: Santiago
+
+Organizador: Sociedad "Instituto Profesional del Instituto Nacional de Capacitación Profesional INACAP y Compañía en Comandita por Acciones, o Instituto Profesional INACAP o I.P. INACAP".
 
 Apruébanse, asimismo el reglamento a que se refiere el artículo 6° del DFL. N° 5 de 1981 y las condiciones para el otorgamiento de los títulos profesionales y técnicos.
 
