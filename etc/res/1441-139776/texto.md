@@ -1,0 +1,3 @@
+Por resolución Nº 1.441, de 23 de julio de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96103056, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES DE ALGUEROS DE PUTIQUE, para operar un centro de cultivo ubicado en sector norte Punta Putique, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, X Región.
+
+Valparaíso, 23 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
