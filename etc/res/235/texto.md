@@ -1,0 +1,5 @@
+Por Resolución N° 235, de 6 de Abril de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CONGELADOS Y CONSERVAS FITZ ROY S.A., R.U.T. N° 96.512.680-5, para ampliar actividades pesqueras autorizadas por Resoluciones N° 687, de 1987, N° 112, N° 506, N° 708, N° 846, todas de 1988, N° 459, de 1990, N° 525, N° 593, N° 602, N° 1494, todas de 1991 y N° 47, de 1992, todas de esta Subsecretaría, en orden a incorporar como materia prima a los procesos autorizados para su planta industrial, ubicada en Avenida Brasil N° 615, comuna de Calbuco, X Región, el siguiente recurso hidrobiológico: Fresco-refrigerado, congelado, conserva, ahumado y deshidratado; Tumbao.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de Abril de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
