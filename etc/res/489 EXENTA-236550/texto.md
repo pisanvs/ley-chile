@@ -1,0 +1,3 @@
+Por resolución Nº 489 exenta, de 23 de febrero de 2005, de esta Subsecretaría, autorízase a ALIMENTOS DEL MAR LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Parcela Nº 5, Escuadrón, Coronel, VIII Región, en las líneas de elaboración Cocido, Fresco enfriado, Fresco refrigerado, Congelado, Seco salado, Ahumado, Conserva, Alga seca y Deshidratado los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 23 de febrero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
