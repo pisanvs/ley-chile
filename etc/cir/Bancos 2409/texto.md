@@ -20652,7 +20652,7 @@ Los préstamos que cursen los bancos serán registrados en las cuentas "Préstam
 
 Para registrar los créditos otorgados a exportadores extranjeros se utilizarán las siguientes cuentas de la partida 1125 ó 1220: "Préstamos a bancos del exterior caucionados por documentos de importadores"; "Préstamos a personas del exterior caucionados por documentos de importadores"; "Documentos aceptados por importadores adquiridos sin responsabilidad"; y, "Documentos aceptados por importadores adquiridos con responsabilidad".
 
-5.- Límites.
+4.- Límites.
 
 Los créditos señalados precedentemente, otorgados para el financiamiento de importaciones hacia Chile, estarán afectos al límite de endeudamiento individual del 5% para operaciones sin garantía y al 25% en los casos en que exista garantía válida para estos efectos, de conformidad con lo dispuesto en el artículo 84 de la Ley General de Bancos y en el Capítulo 12-3 de esta Recopilación Actualizada de Normas, en tanto que aquellos cuya finalidad sea financiar el pago de exportaciones chilenas, podrán alcanzar los márgenes de 10% y 30% previstos para esos créditos en las disposiciones antes señaladas.
 
@@ -20666,11 +20666,13 @@ a) Emitir cartas de crédito a la vista o a plazo por cuenta de personas situada
 
 b) Financiar, a petición de los bancos emisores y por el plazo que se convenga, el rembolso de cartas de crédito emitidas por bancos situados en el extranjero a favor de beneficiarios ubicados en otros países, debiendo contar para tal efecto, con copia de los documentos de embarque.
 
-c) Adquirir y descontar letras de cambio aceptadas y pagarés suscritos por otros bancos, originados en la negociación de cartas de crédito a plazo, para lo cual los descontantes les deberán presentar copia de los respectivos documentos de embarque y de las cartas de crédito negociadas a plazo.
+c) Adquirir y descontar letras de cambio aceptadas y pagarés suscritos por otros bancos, originados en la negociación de cartas de crédito a plazo, para lo cual los descontantes les deberán presentar copia de los respectivos documentos de embarque y de las cartas de crédito.
 
 d) Adquirir, a los beneficiarios, los derechos sobre cartas de crédito negociadas a plazo, siempre que cuente con la conformidad del banco emisor y éste haya autorizado al banco adquirente para rembolsarse al vencimiento.
 
 e) Adquirir y descontar letras de cambio aceptadas y pagarés suscritos por importadores, incluidos aquellos con aval de bancos situados en el extranjero, originados en operaciones de comercio exterior entre terceros países bajo la modalidad de cobranza, acompañados de copia de los respectivos documentos de embarque.
+
+f) Financiar, a petición de bancos corresponsales y por el plazo que se convenga, operaciones de comercio exterior entre terceros países, debiendo contar, para tal efecto, con copia de los respectivos conocimientos de embarque y facturas.
 
 Todos los créditos señalados sólo pueden ser otorgados y pagaderos en dólares estadounidenses, razón por la cual las operaciones que se financien y los documentos que se adquieran o descuenten, originados en las operaciones de comercio exterior a que se refiere este título, también deben estar expresados y ser pagaderos en la moneda ya indicada.
 
