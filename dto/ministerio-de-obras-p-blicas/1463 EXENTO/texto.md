@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.463, de 28 de septiembre del 2001, se expropió el lote de terreno Nº 7-3, superficie 217 m2., rol de avalúo 162-67, comuna de Casablanca, para la obra Red Vial Litoral Central. Sector 3: Eje Costero Interior Subtramo Rosario Orrego Abajo, Quinta Región, y se acordó el valor de indemnización con su propietario Juan Hernán Abarca Guaico, ascendente a la cantidad de $654.319.-
+
+Fiscal del Ministerio de Obras Públicas.
