@@ -5928,7 +5928,9 @@ Código Plaza Jurisdicción
 
 0176 Salamanca "
 
-0184 Cabildo Valparaíso
+0178 Petorca Valparaíso
+
+0184 Cabildo "
 
 0200 La Ligua "
 
@@ -6052,6 +6054,8 @@ Código Plaza Jurisdicción
 
 0488 Chimbarongo "
 
+0490 Teno "
+
 0496 Curicó "
 
 0500 Licantén "
@@ -6124,6 +6128,8 @@ Código Plaza Jurisdicción
 
 0736 Nacimiento "
 
+0738 Los Álamos "
+
 0744 Lebu "
 
 0752 Mulchén "
@@ -6155,6 +6161,8 @@ Código Plaza Jurisdicción
 0840 Temuco "
 
 0848 Nueva Imperial "
+
+0850 Puerto Saavedra "
 
 0856 Cunco "
 
@@ -18134,7 +18142,7 @@ Para ese efecto, se tendrá como una infracción a las presentes instrucciones e
 
 VII.- DISPOSICION TRANSITORIA.
 
-El cumplimiento del margen de que trata el título II de este Capítulo, es obligatorio sólo a contar del 31 de agosto de 1999.
+No obstante lo dispuesto en las letras a) y b) del N°1 del título II de este Capítulo, transitoriamente las instituciones financieras podrán exceder los límites señalados en dichos literales, hasta en un 50% y un 25% respectivamente, debiendo encuadrarse en los límites permanentes a partir del 31 de marzo de 2.000.
 
 Las disposiciones del título V de este Capítulo rigen a contar del 30 de junio de 2000.
 
@@ -19966,11 +19974,11 @@ Debe: - "Beneficiarios de acreditivos enterados en efectivo por negociar".
 
 - "Deudores por cartas de crédito del exterior negociadas bajo reserva", de la partida 1130, cuando la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del Banco emisor.
 
-Haber: - La cuenta que corresponda según el destino que se de al retomo, de conformidad con las instrucciones del exportador.
+Haber: La cuenta que corresponda según el destino que se dé al retorno, de conformidad con las instrucciones del exportador, o bien,
 
-- "Retornos de exportación por liquidar", en caso que el importe respectivo se mantenga a disposición del exportador, en espera de sus instrucciones, o bien,
+- "Retornos de exportación por liquidar", en caso que el importe respectivo se mantenga a disposición del exportador, en espera de sus instrucciones.
 
-- "Obligaciones por créditos de exportación negociados bajo reserva", de la partida 3425, cuando la carta de crédito haya sido negociada bajo reserva y aún no se hubiere acreditado el importe respectivo a las cuentas definitivas, en espera de la conformidad del Banco emisor.
+Cuando los documentos de embarque presenten discrepancias con lo estipulado en la carta de crédito y ésta no sea negociada, en espera de la conformidad del Banco emisor, su importe será registrado con cargo a la cuenta "Cartas de crédito documentos pendientes de aprobación", de la partida 9360, con abono a la cuenta de orden de la partida 9900.
 
 3.1.4. Negociación de cartas de crédito con pago diferido.
 
@@ -20000,7 +20008,7 @@ Haber: - "Obligaciones por créditos de exportación negociados-ALADI",o bien,
 
 Estas cuentas serán demostradas en la partida 3425 ó 3480, según sea el plazo en el que deba efectuarse el pago al exportador, contado desde la fecha de la negociación.
 
-En caso que la carta de crédito haya sido negociada bajo reserva y aún no se hubiere recibido la conformidad del Banco emisor, ésta será registrada en las cuentas que para tales casos se indican en el numeral 3.1.3 precedente.
+En caso que los documentos de embarque presenten discrepancias con la carta de crédito y aún no se hubiere recibido la conformidad del Banco emisor, ésta será registrada en la cuenta de activo "Deudores por cartas de crédito del exterior negociadas bajo reserva", que se indica en el numeral 3.1.3 precedente, si hubiere sido negociada, y en las cuentas de orden que se indican en el último párrafo de dicho numeral, en caso de no haber sido negociada.
 
 Simultáneamente deberá revertirse el asiento contable a que se refiere el numeral 3.1.2 precedente, por el importe que corresponda.
 
