@@ -1,0 +1,5 @@
+AUTORIZA A CULTIVOS GRACILARIAS S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.184, de 6 de Octubre de 1987, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Cultivos Gracilarias S.A., domiciliada en Puerto Montt para ampliar las actividades que tiene autorizadas por resolución No. 264, de 17 de Marzo de 1986, de esta Subsecretaria de Pesca, en orden a instalar una planta secadora de algas en un lugar ubicado en Bahia Quillaipe de Puerto Montt, X Región, donde procesará las siguientes especies de algas: Pelillo, huiro, cochayuyo, chascón, chasca, chicorea de mar, luga-luga y luche. La capacidad inicial de la planta será de 30 toneladas mensuales de algas lavadas, secas y enfardadas.
+
+Valparaíso, 6 de Octubre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
