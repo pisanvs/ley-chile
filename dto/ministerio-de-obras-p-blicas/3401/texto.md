@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.401, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 28, 29-A y 30-B, superficies 12.253,0 m², 2.639,0 m² y 247,0 m², rol de avalúo 536-19, comuna de Victoria, para la obra Concesión Internacional Ruta 5, Tramo Collipulli-Temuco, Novena Región, y se acordó el valor de indemnización con su propietario Roberto R. Mermoud Hauenstein, ascendente a la cantidad total de $6.741.509.
+
+- Fiscal del Ministerio de Obras Públicas.
