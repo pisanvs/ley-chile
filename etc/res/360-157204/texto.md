@@ -1,0 +1,5 @@
+AUTORIZA A "DEL PINO Y SUAREZ LTDA." PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 360, de 20 de Junio de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a "Del Pino y Suárez Ltda.", domiciliada en Concepción, para elaborar recursos hidrobiológicos en la línea de congelado en las instalaciones que indica, ubicadas en calle 7 de Enero No. 60 de Talcahuano y calle Las Heras No. 2241 de Concepción, en las que podrá utilizar como materia prima: anchoa, cojinova del Norte, cojinova del Sur, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos chicos, lenguado de ojos grandes, merluza común, merluza española, merluza de cola, merluza de 3 aletas, mero o bacalao, pejegallo, pejerrey de mar, sardina común, sardina española, tollo, almeja o taca, almeja, caracol locate, caracol trumulco, cholga, chorito, choro zapato, loco, macha, navajuela, ostra, jaiba y erizo.
+
+Santiago, 20 de Junio de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
