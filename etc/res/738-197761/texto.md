@@ -1,0 +1,3 @@
+Por resolución Nº 738, de 12 de abril de 2002, de esta Subsecretaría, autorízase a CONSTRUCCIONES Y CARPINTERIA NAVAL CONCAR S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 1.159 y Nº 1.441, ambas de 1996, Nº 701 de 1998, Nº 122 de 1999 y Nº 2.248 de 2000, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Lote 5 D 5, Sector Río Guanaco, comuna de Navarino, Puerto Williams, XII Región, en las líneas de elaboración de Cocido, Congelado y Conserva, el recurso hidrobiológico Ostra del Pacífico.
+
+Valparaíso, 12 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
