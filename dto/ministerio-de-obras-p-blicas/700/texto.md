@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 700, de 29 de mayo de 1998, se expropiaron los lotes de terreno Nº s. 3, 6, 7 y 11, superficies 131, 1.783, 152 y 262 M2., roles de avalúo 3365-53, 3365-57, 3366-36 y 3366-18, comuna de Temuco, obra Camino Mejoramiento Ruta S-269 Padre Las Casas-Niágara, y se acordó precio de indemnización con sus propietarios Héctor Rodríguez Zamorano, Felipe Santiago Amigo Sánchez y Sonia Ester Hermosilla Otth, ascendente a las cantidades de $ 1.039.143, lotes 3 y 6; $ 159.574, lote 7 y $ 182.916, lote 11.-
+
+Fiscal del Ministerio de Obras Públicas.
