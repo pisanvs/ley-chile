@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 313, de 31 de marzo de 1998, se expropió el lote de terreno Nº 15, superficie 396,60 M2., rol de avalúo 109-9, comuna de Quilicura, obra Estudio de Ingeniería Habilitación, Segunda Calzada Avenida Américo Vespucio, sector Carretera Panamericana Norte, Ruta 72 y se acordó precio de indemnización con su propietario Maderas y Sintéticos Sociedad Anónima Masisa, ascendente a la cantidad de $15.376.452.-
+
+Fiscal del Ministerio de Obras Públicas.
