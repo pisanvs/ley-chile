@@ -1,0 +1,1 @@
+Autoriza a las Municipalidades de Nancagua y Chimbarongo contratar empréstitos por $ 350,000 y $ 600,000, respectivamente, de cuyo producto se destinará, $ 300,000 a obras de alumbrado, $ 25,000 a construcción de un estadio e igual suma a instalación de un Matadero, en la primera de las comunas; y el total de empréstito, de la segunda, a obras de alumbrado.
