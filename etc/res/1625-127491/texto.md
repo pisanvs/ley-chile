@@ -1,0 +1,11 @@
+Por resolución Nº 1.625 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza al INSTITUTO DE FOMENTO PESQUERO, en adelante IFOP, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto Código BIP Nº 20128429-0 denominado ''Investigación Situación Pesquería Pelágica Norte 1998'', los cuales se consideran parte integrante de la presente Resolución.
+
+El objetivo de la pesca de investigación que por la presente Resolución se autoriza consiste en evaluar el actual comportamiento espacio-temporal del proceso de reclutamiento del recurso Anchoveta en la I y II Regiones.
+
+La pesca de investigación se efectuará en el área marítima de la I y II Regiones, por fuera del área de reserva artesanal, entre las 06:00 horas del día 23 de noviembre y las 24:00 horas del día 25 de noviembre de 1998.
+
+La presente pesca de investigación se efectuará con las siguientes naves las cuales cuentan con autorización vigente para operar en la unidad de pesquería de la especie Anchoveta en la I y II Regiones declarada en régimen de plena explotación mediante decreto supremo Nº 354, de 1993, del Ministerio de Economía, Fomento y Reconstrucción, las que deberán zarpar y recalar en los puertos que a continuación se señalan: Puerto de Arica: Eperva S.A. Emp. Pesq.: Angamos 3, Angamos 9, Eperva 65; Iquique-Guanaye S.A. Pesq.: Don Ernesto Ayala Máfil, Parina; Coloso S.A. Soc. Pesq.: Trueno I; Puerto de Iquique: Eperva S.A. Emp. Pesq.: Eperva 51, Eperva 57, Toconao II; Iquique-Guanaye S.A. Pesq.: Halcón; Coloso S.A. Soc. Pesq.: Huracán, Costa Grande 5; Camanchaca S.A. Cía. Pesq.: Oficina Vigo, Esturión; Puerto de Mejillones: Eperva S.A. Emp. Pesq.: Eperva 50, Eperva 60; Iquique-Guanaye S.A. Pesq.: Barracuda IV, Juan Manuel; La Península S.A. Pesq.: Loa 1, Loa 7.
+
+El Instituto de Fomento Pesquero deberá dar cumplimiento a las obligaciones establecidas en los decretos Nº430, de 1991 y Nº461, de 1995, ambos del Ministerio de Economía, Fomento y Reconstrucción, sin perjuicio del cumplimiento de las obligaciones que se establecen en la presente Resolución. El incumplimiento hará incurrir al titular en el término inmediato de la pesca de investigación sin que sea necesario formalizarlo.
+
+Valparaíso, 20 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
