@@ -1,0 +1,3 @@
+Por resolución Nº 1.131, de 30 de mayo de 2003, de esta Subsecretaría, declárase la caducidad de la resolución Nº 2.553 de 2000, de esta Subsecretaría, que autorizó a PESQUERA CALCURRUPE LIMITADA para iniciar actividades pesqueras extractivas con la nave "Niño do Corvo", en el área marítima, por fuera del área de reserva artesanal, de las Islas San Félix, San Ambrosio y Archipiélago de Juan Fernández, sobre los recursos hidrobiológicos Marrajo o tiburón, Atún aleta amarilla, Atún aleta larga, Atún aleta azul, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de mayo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
