@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 284 de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs 4 y 6, superficies 6.650 y 5.840 m2., rol de avalúo 159-37, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal Carrizalillo y se acordó precio indemnización con su propietaria Luz Alba del Carmen Guiñez Guiñez ascendente a la cantidad de $4.408.014.
+
+Fiscal del Ministerio de Obras Públicas.
