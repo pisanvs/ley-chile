@@ -1,0 +1,3 @@
+Por Resolución N° 1.661, de 9 de septiembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS "LA ESPERANZA", para un centro de cultivo ubicado en estero El Dique, comuna de Ancud, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 9 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
