@@ -1,0 +1,1 @@
+Fija la renta mensual máxima de que podrán disfrutar los funcionarios de los servicios y entidades a que se refiere el artículo 202° de la ley 13.305, de 6 de abril de 1959.
