@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Mulchén contratar empréstito hasta por $ 300.000, destinado a instalación planta para el servicio de luz eléctrica; y eleva en 1% adicional el impuesto a la renta que grava las propiedades raíces de la comuna.
