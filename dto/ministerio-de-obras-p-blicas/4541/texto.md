@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.541, de fecha 29 de septiembre de 2000, se expropió el lote de terreno Nº16-A, superficie 172 M2., rol de avalúo 1053-6, comuna de Santa Cruz, para la obra ''Camino Ruta 1-50, Sector Nancagua - Santa Cruz, Km. 26.800 al Km. 42.321'' y se acordó el valor de indemnización con su propietario Carlos Alonso Bolbarán Calderón, ascendente a la cantidad de $4.994.164.-
+
+Fiscal del Ministerio de Obras Públicas.
