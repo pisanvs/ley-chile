@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.257 de 31 de agosto de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 50-A y 60, para la obra: Camino Ruta L-32, Sector Cruce Ruta 5 - Puente Sifón, Tramo km.
+
+2,320 a km. 17,666.44 y km. 0,000 - km. 0,963 (variante), que figuran a nombre de Ayala Vásquez César y Norambuena Inostroza Wildo Sanpe, rol de avalúo 528-79 y 528-75, comuna de Linares, VII Región, superficies 200 y 360 m². La Comisión de Peritos fijó con fecha 23 de julio de 1997, en la cantidad de $58.000.- lote Nº 60 y con fecha 10 de enero de 2000 en la cantidad de $238.000 lote Nº 50-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
