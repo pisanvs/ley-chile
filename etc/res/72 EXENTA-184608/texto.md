@@ -1,0 +1,3 @@
+Por R.M. (Ex.) Nº 72, de 19 de abril de 2001, del Ministerio de Economía, Fomento y Reconstrucción, acógese reconsideración interpuesta por Industrial Aries S.A. contra resolución exenta Nº 19 de 2001, de este Ministerio. Considérese en la determinación de su límite máximo de captura, en la unidad de pesquería de Sardina común, V a X Regiones, la siguiente captura total de la nave La Niña I, en el mes que se indica: Junio de 2000: 1.784,395 toneladas. Considérese como área autorizada el área marítima de la V, VI, VII y IX Regiones, y el área marítima comprendida entre el límite Norte de la X Región y el paralelo 43°00'L.S.
+
+Alvaro Díaz Pérez, Ministro de Economía, Fomento y Reconstrucción (S).
