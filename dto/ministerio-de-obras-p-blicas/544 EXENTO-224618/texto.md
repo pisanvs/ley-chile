@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 544 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 24-A, superficie 13 m2, Rol Nº 1101-13, comuna de Pichilemu, VI Región para la obra "Camino Pichilemu - Cáhuil, Ruta I-500, Km. 0,980 a Km. 12,76217", y se acordó el valor de indemnización con su propietaria Inés Herminia Parraguez Gómez, ascendente a la cantidad de $631.674.
+
+Fiscal del Ministerio de Obras Públicas.
