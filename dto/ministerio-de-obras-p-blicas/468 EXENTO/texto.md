@@ -1,0 +1,3 @@
+Por decreto exento MOP N° 468, de 19 de abril de 2002 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP N° 850, de 1997, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 147, para la obra Camino Ruta F-10-G, sector Cuesta La Dormida, Etapa 2, Km. 10,98400 al 34,50000, que figura a nombre de Altamirano Romero Manuel Anton, rol de avalúo 231-9, superficie 108 m2., comuna de Olmué. La Comisión de Peritos, con fecha 06 de octubre de 2000, fijó la indemnización provisional en la cantidad de $966.600, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
