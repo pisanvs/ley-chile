@@ -1,0 +1,1 @@
+Fija la planta de empleados civiles de la Armada para la Dirección del Litoral y Marina Mercante; y modifica el artículo 3.o del decreto con fuerza de ley 210, de 15 de mayo de 1931, y reemplaza la letra d) del artículo 5.o de la ley 6,669, de 24 de septiembre de 1940, que reorganiza los Servicios de la Dirección del Litoral y de Marina Mercante.
