@@ -1,0 +1,3 @@
+Por resolución No. 1.005, de 21 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadocase la resolución No. 1386, de 1989, de esta Subsecretaría, que autorizó a MARES DE GUAITECA LIMITADA, R.U.T. No. 79.908.360-4, domiciliada en Santiago, para operar una planta industrial ubicada en Avenida Costanera s/n, Melinka, Región XI; en virtud de lo dispuesto en el artículo 7° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción
+
+Valparaíso, 21 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
