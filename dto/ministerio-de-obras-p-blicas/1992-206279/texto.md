@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.992 de fecha 31 de octubre de 2002, se expropiaron los lotes de terreno Nº 128 y 129, superficies 546 y 777 m2, rol de avalúo Nº 32-975 y 32-976, comuna de Pichidegua, para la obra ''Camino Colchagua - Pichidegua, Sector San Roberto - Crucero, Tramo Km. 12,30000 al 26,00400'', VI Región y se acordó el valor de la indemnización con su propietario Sociedad de Inversiones Los Lagares Limitada, ascendente a la cantidad de $7.195.484.-
+
+Fiscal del Ministerio de Obras Públicas.
