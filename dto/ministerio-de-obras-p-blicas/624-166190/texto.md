@@ -1,0 +1,3 @@
+Por decreto MOP Nº624, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nº4-A, 4-B, 15-H y 75-D, superficies 2.399,43 M2., 8.446,54 M2., 155,07 M2., 378,00 M2., rol de avalúo 9317-93, 9317-98, 9262-1 y 9305-75, comuna de Valparaíso, Obra Habilitación Nuevo Camino La Pólvora, Etapa I, Sector Ruta 68, Acceso Sur a Valparaíso, Camino La Pólvora Rol F-724 F-730, Sector Placilla Puertas Negras y se acordó precio de indemnización con sus propietarios Fresia de las Mercedes Acevedo Ahumada, Demesiano Sánchez Bravo y Comunicaciones 101,3 S.A., ascendente a las cantidades de $61.231.787, para los lotes Nºs. 4-A y 4-B y $7.137.879, para el lote Nº15-H y $2.356.449, para el lote Nº75-D.-
+
+Fiscal del Ministerio de Obras Públicas.
