@@ -50,21 +50,7 @@ e) Espacio para la firma del médico cirujano que suscribe la receta.
 
 1.C.- Receta Cheque:
 
-a) La receta se confeccionará en papel autocopiativo y en materiales que impidan o dificulten la falsificación o mediante la introducción de medidas de seguridad en el sistema que garanticen su autenticidad.
-
-Para estos efectos, se podrán emplear, al menos, todos o algunos de los siguientes mecanismos:
-
-- Papel de Seguridad 80 gramos o más.
-
-- Fibrillas fluorescentes sensibles a la luz ultravioleta.
-
-- Tinta de seguridad antiabrasión y fugitiva química.
-
-- Impresión sello de agua o con tinta invisible reactiva luz ultravioleta.
-
-- Microimpresión.
-
-La edición, elaboración y distribución de los talonarios de recetas cheques se realizará por intermedio de la Central de Abastecimiento del Sistema Nacional de los Servicios de Salud, Cenabast.
+a) La Receta Cheque se imprimirá en el papel químico autocopiativo, en la casa de Moneda de Chile.
 
 b) Su tamaño será de 113 x 287 mm.
 
@@ -130,16 +116,6 @@ Fecha de emisión:
 
 Firma:
 
-Sexo del paciente.
-
-Fecha de nacimiento.
-
-Código del producto conforme al Nº de Registro
-
-Sanitario y la letra que le adiciona el Instituto
-
-de Salud Pública para su identificación.
-
 g) El cuerpo de uso exclusivo del Director Técnico, contendrá la siguiente información.
 
 Serie y número de la receta cheque:
@@ -166,19 +142,13 @@ Fecha de despacho:
 
 Firma y timbre del Director Técnico:
 
-Número de local del establecimiento en los casos
-
-en que la Farmacia tenga más de uno.
-
-Cantidad despachada expresada en cajas, frascos o
-
-miligramos.
-
 2.- Al despachar una Receta Cheque, el Director Técnico de la respectiva farmacia, deberá dar cumplimiento a lo dispuesto en los artículos 30 y 31 de los decretos supremos Nºs. 405 y 404, de 1983, del Ministerio de Salud, comprobando además, la absoluta identidad entre el original y la copia de dicha Receta Cheque.
 
 3.- Existirán tres tipos de Receta Cheque: En fondo café claro para uso exclusivo de médico cirujano; en fondo amarillo para uso en la farmacia, y en el fondo rojo para uso en hospitales psiquiátricos.
 
-4.- El listado de código identificatorio de los productos estupefacientes y psicotrópicos será entregado por el Servicio de Salud conjuntamente con los talonarios de recetas cheques. Corresponderá al Instituto de Salud Pública remitir dicho listado a la Dirección de cada uno de los Servicios de Salud, actualizándolo periódicamente según sea necesario.
+4.- Establécese el siguiente listado de códigos, correspondientes a productos sicotrópicos y estupefacientes que deberán utilizarse al llenar los formatos de la Receta Cheque:
+
+Este listado será actualizado cada vez que el Instituto de Salud Pública autorice la venta de un nuevo producto, determine la suspensión, incorpore o excluya de la categoría de venta con receta cheque alguno existente.
 
 5.- La presente resolución entrará en vigencia el 1º de Abril de 1985, conjuntamente con los decretos supremos Nº s. 364 y 365, ambos de 26 de Noviembre de 1984, de esta Secretaría de Estado, que modifican los reglamentos de Estupefacientes y productos Sicotrópicos, respectivamente.
 
