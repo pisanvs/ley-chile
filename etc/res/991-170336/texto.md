@@ -1,0 +1,3 @@
+Por resolución Nº 991, de 1 de junio de 2000, de esta Subsecretaría, deniégase la autorización solicitada por PESQUERA SAN JOSE S.A., para incluir a la nave ''Conquistador'', autorizada por las resoluciones Nº 1.319, de 1996, y Nº 972, de 1998, ambas de esta Subsecretaría, en la nómina de naves autorizadas para operar en las unidades de pesquería de los recursos hidrobiológicos Anchoveta y Sardina española, en la III y IV Regiones, fijadas por el artículo 1 letras a) y b), respectivamente, del D.S. 493 de 1996, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
