@@ -1,0 +1,5 @@
+AUTORIZA A SONIA ROJAS FERNANDEZ PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 106, de 21 de Febrero de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a doña Sonia Rojas Fern ndez, R.U.T. N° 4.518.217-7, domiciliada en calle Guanaco 1708, Villa Ascot n, Calama, para instalar y operar una planta elaboradora de ahumado, fileteado, seco-salado y congelado de recursos hidrobiológicos, en calle Barros Arana s/n Tocopilla, II Región. Los recursos que podrá utilizar como materia prima en la elaboración de los productos señalados son: anchoa, bonito, caballa, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, dorado, jurel, machuelo o tritre, pejerrey de mar, sardina española, sierra, almeja o taca, almeja, cholga, lapa, macha, ostión del Norte, pulpo y jaiba.
+
+Santiago, 21 de Febrero de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
