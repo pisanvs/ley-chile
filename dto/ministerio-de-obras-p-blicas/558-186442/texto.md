@@ -1,0 +1,3 @@
+Por decreto MOP Nº 558 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 28, superficie 45 m2, Rol de Avalúo 231-2, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Long. (Villa Alegre) - Esperanza, Tramo Kms. 0,000.00 al 10,623.89" y se acordó el valor de indemnización con su propietario Máximo Segundo Sepúlveda Bravo, ascendente a la cantidad de $458.150.-
+
+Fiscal del Ministerio de Obras Públicas.
