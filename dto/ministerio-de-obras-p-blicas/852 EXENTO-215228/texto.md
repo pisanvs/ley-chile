@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 852 de 28 de agosto de 2003, se modificó el numeral 2º del decreto MOP exento Nº 2.067, de 31 de diciembre de 2001, en el sentido de que el nombre del propietario de los lotes 7, 8, 9, 11 es Vivar Pérez Jaime Manases, Rol de Avalúo 1018-25, superficies 1.319,22 m²; 856,94 m²; 99,95 m² y 775,21 m², respectivamente. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
