@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 1.046 de 24 de octubre de 1997, , se expropiaron los lotes de terreno N°s 1 y 51, superficies 482 y 324 m2 respectivamente, roles de avalúos 4560-37 y 2590-119, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Las Acacias- Río Maipo, y se acordo precio de indemnización con sus propietarios Banasur Sociedad Anónima y ooña Rosa Amelia García Bahamondes y otro, ascendente a las cantidades de $20.815.652, para el lote N°1 y $12.580.664, para el lote N° 51.
+
+Fiscal del Ministerio de Obras Públicas
