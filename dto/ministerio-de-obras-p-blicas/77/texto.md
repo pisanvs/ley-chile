@@ -1,0 +1,3 @@
+Por decreto MOP. N° 77, de fecha 21 de marzo de 1994, se expropiaron los lotes de terreno N°s. 1, 2 y 3, superficies 2.500 m2., 1.520 m2. y 420 m2, rol de avalúo 2020-82, respectivamente, Comuna de Melipilla, para la obra Camino Acceso a Codigua, sector Cruce San Manuel a Codigua y se acordó valor de indemnización con su propietario Jorge Cantillana Armijo y otros, ascendente a la cantidad de $1.272.320.-
+
+Fiscal del Ministerio de Obras Públicas.
