@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 112, DE 2000
+
+Por resolución Nº 112, de 27 de junio de 2000, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se adjudicó a la Sociedad Revisiones Técnicas San Dámaso S.A., RUT Nº 96.888.000-4, la concesión para operar por el plazo de seis años, contados desde la fecha de publicación del presente extracto, una planta revisora clase A, ubicada en Av. Bernardo O'Higgins Nº 380, Placilla, Valparaíso, y dos plantas revisoras clase B, ubicadas en calle Tercera del Sur Nº 630, Placilla, Valparaíso, y calle Limache Nº 4821, de Viña del Mar, en la forma y condiciones que se señalan en el contrato que se aprueba por resolución exenta Nº 140, de 19 de julio de 2000.
+
+Valparaíso, 24 de agosto de 2000.- Carlos Inostroza Bilbao, Secretario Regional Ministerial V Región.
