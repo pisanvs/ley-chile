@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.050, de 29 de abril de 1999, se expropió el lote de terreno Nº 1, superficie 59 m², rol de avalúo 1334-34, comuna de San Carlos, para la obra Camino ''Ruta 5 Tramo Talca-Chillán, Sector Bifurcación San Pedro de Lilahue'', Octava Región y se acordó el valor de indemnización con su propietario Juan de Dios Contreras Fuenzalida, ascendente a la cantidad de $189.921.-
+
+Fiscal del Ministerio de Obras Públicas.
