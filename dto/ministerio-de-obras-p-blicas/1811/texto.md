@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.811, de 30 de septiembre de 1998, se expropió el lote de terreno No. 60, superficie 198 m², rol de avalúo en trámite, comuna de Chimbarongo, para la obra Camino Ruta I-85-J, Sector Cruce Longitudinal (Chimbarongo) - Codegua y se acordó precio de indemnización con sus propietarias Guillermina Becerra Espinoza y otra, ascendente a la cantidad de $1.051.466.-
+
+Fiscal del Ministerio de Obras Públicas.
