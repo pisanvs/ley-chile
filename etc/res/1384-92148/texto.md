@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA MONTEMAR S.A. PARA AMPLIAR ACTIVIDADES
+
+Por Resolución No. 1.384, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Montemar S.A., RUT No. 96.502.580-4, domiciliada en Viña del Mar para ampliar actividades pesqueras, autorizadas por Resolución No. 248, de 1986 y No. 927 de 1989, de esta Subsecretaría, en orden realizar un esfuerzo de pesca sobre el recurso Bacalao de profundidad o Mero, en el litoral al sur del paralelo 43° LS, con la nave "Kuky", autorizada por la Resolución antes citada. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 05 de Octubre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
