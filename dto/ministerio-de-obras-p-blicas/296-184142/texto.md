@@ -1,0 +1,3 @@
+Por decreto MOP Nº 296, de fecha 28 de febrero del 2001, se expropió el lote de terreno Nº 20, superficie 4.569 m2, rol de avalúo 3002-5, comuna de Ovalle, para la obra "Camino Ruta D-595, Hurtado, Sector Tranque Recoleta - Samo Alto, Km. 9.780,00 a Km. 31.840,00", y se acordó el valor de indemnización con su propietario Agrícola Partarrieu y Cía., ascendente a la cantidad de $2.869.438.-
+
+Fiscal del Ministerio de Obras Públicas.
