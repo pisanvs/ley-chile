@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 580, de 29 de septiembre de 1995, se expropió el lote de terrero Nº 1, superficie 4.159,69 m2., rol de avalúo 11-24, comuna de Pirque, para la obra Camino Puente Alto - Pirque, tramo acceso Puente San Ramón, y se acordó el precio de indemnización con su propietario Sociedad Anónima Viña Concha y Toro, ascendente a la cantidad de $ 155.000.
+
+Fiscal del Ministerio de Obras Públicas.
