@@ -1,0 +1,91 @@
+OTORGA A LA EMPRESA ELECTRICA EMEC S.A. CONCESION
+
+DEFINITIVA DE SERVICIO PUBLICO DE DISTRIBUCION EN LA
+
+QUINTA REGION
+
+Núm. 62.- Santiago, 7 de febrero de 1997.- Visto: Estos antecedentes y lo dispuesto en los artículos 11º y 28º del D.F.L. Nº 1, de 1982, del Ministerio de Minería, y en la Ley Nº 18.410.
+
+D e c r e t o:
+
+#### Artículo 1º
+
+Otórgase a la Empresa Eléctrica EMEC S.A. concesión definitiva para establecer, operar y explotar en la V Región, provincias de Petorca y Valparaíso, comunas de Papudo y Puchuncaví, respectivamente, las instalaciones de distribución de energía eléctrica correspondientes a los proyectos denominados "Electrificación Punta Puyai" y "Línea AT Campiche II Etapa", según planos EEC-7615 y EEC-6093, respectivamente, de EMEC S.A.
+
+#### Artículo 2º
+
+El objetivo de estas instalaciones será dar servicio público de distribución de energía eléctrica en la zona de concesión que se define en el artículo 7º del presente decreto.
+
+#### Artículo 3º
+
+El presupuesto global del costo de las obras asciende a la suma de $39.988.368.
+
+#### Artículo 4º
+
+Copias de los planos generales de las obras, de las memorias explicativas de las mismas y de los demás antecedentes técnicos, que pasan a formar parte del presente decreto, quedarán archivadas en la Superintendencia de Electricidad y Combustibles.
+
+#### Artículo 5º
+
+Reconócese el derecho a usar bienes nacionales de uso público para tender líneas aéreas y subterráneas destinadas a la distribución en la zona de concesión, en los términos del artículo 16º del D.F.L.
+
+Nº 1, de 1982, del Ministerio de Minería.
+
+#### Artículo 6º
+
+Las líneas podrán atravesar los ríos, canales, las líneas férreas, puentes, acueductos, cruzar calles, caminos y otras líneas eléctricas. Estos cruzamientos se ejecutarán en conformidad con las prescripciones que establecen los reglamentos, de manera que garanticen la seguridad de las personas y propiedades.
+
+#### Artículo 7º
+
+La zona de concesión comprenderá una franja de 100 metros circundante a todas las líneas de alta y baja tensión indicadas en los planos respectivos.
+
+#### Artículo 8º
+
+La presente concesión se otorga en conformidad a lo dispuesto en el D.F.L. Nº 1, de 1982, del Ministerio de Minería, y queda sometida a todas las disposiciones legales y reglamentarias vigentes o que se dicten en el futuro sobre la materia.
+
+#### Artículo 9º
+
+Esta concesión se otorga por plazo indefinido.
+
+#### Artículo 10º
+
+El plazo para la iniciación de las obras es de 30 días a partir de la fecha de reducción a escritura pública del presente decreto, y los plazos para su terminación serán los señalados a continuación, a contar de la fecha de iniciación de los trabajos.
+
+Los plazos para la terminación por etapas y total para la obra Electrificación Punta Puyai serán los siguientes:
+
+I Etapa : Estacado y montaje de
+
+estructuras: 30 días
+
+II Etapa : Tendido de conductores: 20 días
+
+III Etapa : Pruebas finales y recep-
+
+ción obras: 10 días
+
+Total: 60 días
+
+Los plazos para la terminación por etapas y total para la obra Línea AT Campiche II Etapa serán los siguientes:
+
+I Etapa : Estacado y montaje de
+
+estructuras: 15 días
+
+II Etapa : Tendido de conductores: 10 días
+
+III Etapa : Pruebas finales y recep-
+
+ción obras: 5 días
+
+Total: 30 días
+
+#### Artículo 11º
+
+El presente decreto deberá ser reducido a escritura pública por el interesado, antes de treinta días contados desde su publicación en el Diario Oficial, la cual deberá efectuarse en el plazo de treinta días a contar de la fecha de su comunicación.
+
+#### Artículo 12º
+
+La concesión obliga a su titular a mantener la calidad de servicios y suministro exigido por el ordenamiento jurídico vigente. En consecuencia, mediante decreto supremo fundado podrá decretarse caducada si la calidad del servicio suministrado no corresponde a las exigencias preestablecidas en dicho ordenamiento, o a las condiciones estipuladas en este decreto, a no ser que el concesionario, requerido por la Superintendencia de Electricidad y Combustibles, remediare tales situaciones en los plazos que ésta exija, sin perjuicio de las demás causales de caducidad contempladas en la ley.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Oscar Landerretche Gacitúa, Ministro de Economía, Fomento y Reconstrucción (S).
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Oscar Landerretche Gacitúa, Subsecretario de Economía, Fomento y Reconstrucción.
