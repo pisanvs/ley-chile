@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.682, de 30 de junio del 2000, se expropió el lote de terreno Nº3-C, superficie 54 m2., rol de avalúo 273-303, comuna de San Fernando, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H, Sexta Región, y se acordó el valor de indemnización con su propietario Luis Aurelio Cancino Pavez, ascendente a la cantidad de $186.438.
+
+- Fiscal del Ministerio de Obras Públicas.
