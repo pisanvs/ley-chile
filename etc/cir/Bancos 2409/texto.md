@@ -9520,7 +9520,7 @@ Por otra parte, para los efectos de las presentes instrucciones y en concordanci
 
 ### 1. Efectos de comercio adquiridos o descontados
 
-En virtud de las disposiciones legales antes señaladas, las instituciones financieras pueden adquirir del público o de otras instituciones financieras, letras de cambio, pagarés u otros documentos representativos de obligaciones de pago. En ningún caso, de acuerdo con la ley, pueden ser objeto de compra o descuento documentos tales como facturas u otros que no constituyen títulos de crédito.
+En virtud de las disposiciones legales antes señaladas, las instituciones financieras pueden adquirir del público o de otras instituciones financieras, letras de cambio, pagarés u otros documentos representativos de obligaciones de pago.
 
 Las presentes normas alcanzan a cualquier operación mediante la cual la institución financiera adquiere para sí un efecto de comercio. En ese sentido, no corresponde hacer una distinción entre documentos comprados o descontados; lo que importa, para el solo efecto del cómputo de los créditos, es si el vendedor o descontante queda o no como deudor de la institución adquirente del documento, es decir, si asume o no responsabilidad en el pago.
 
@@ -12656,7 +12656,7 @@ Cuando se garantice el pago de las obligaciones que asume un comprador, los mont
 
 4.- Información sobre las operaciones.
 
-Las créditos correspondientes a las operaciones de factoraje deberán ser incluidos dentro de los créditos comerciales para efectos de lo dispuesto en el artículo 14 de la Ley General de Bancos y en el Capítulo 18-5 de esta Recopilación. Esos créditos se incluirán también en la demás información relativa a deudores que se entregue a esta Superintendencia, salvo que en las instrucciones del Manual del Sistema de Información se indique expresamente lo contrario.
+Las deudas por operaciones de factoraje no serán informadas para efectos de lo dispuesto en el artículo 14 de la Ley General de Bancos y en el Capítulo 18-5 de esta Recopilación, como tampoco serán incluidas en la demás información sobre deudores o relativas a tasas de interés, salvo que se exija expresamente su inclusión en las instrucciones del Manual del Sistema de Información.
 
 II.- PROVISIONES POR RIESGO DE CREDITO.
 
