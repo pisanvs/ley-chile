@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s. 656 y 661, ambos de fecha 30 de agosto de 1996, se expropiaron los lotes de terreno N°s. 52, 53, 45, 46, 47 y 49, superficies 1.803, 570, 2.919, 17.978, 12.138, 13.054 m2., respectivamente, roles de avalúos 481-9, s/r, s/r, 485-29, comuna de Yungay, para la obra Proyecto Laja Diguillín, Canal Matriz, sector Trilaleo Pemuco, y se acordó precio de indemnización con sus propietarios Luisa Fuentes Saavedra y Nerio Herrera Fuentes, ascendente a las cantidades de $491.365 y $10.064.359.
+
+Fiscal del Ministerio de Obras Públicas.
