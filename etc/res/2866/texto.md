@@ -1,0 +1,3 @@
+Por resolución Nº 2.866 de 14 de octubre de 2004 de esta Subsecretaría, autorízase a COMPAÑÍA PESQUERA CAMANCHACA S.A. para ampliar actividades pesqueras extractivas con la nave "Costa Grande 1", en el área marítima comprendida entre la I y II Región, por fuera del área de reserva artesanal, donde podrá capturar, con cerco, los recursos: Jurel fino, Anchoa blanca, Sardina redonda, Vinciguerria y Jibia.
+
+Valparaíso, 14 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
