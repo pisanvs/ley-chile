@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 264, de fecha 24 de septiembre de 1992, se expropiaron los lotes de terreno No. s. 1 y 4, superficies 93 M2. y 4.124 M2., respectivamente, roles de avalúos 328-143 y 328-141, Comuna de Villarrica, para la obra Camino Villarrica-Coñaripe, sector Villarrica-Licanray, Acceso y Variante Puente Chesque y se acordó el valor de indemnización con sus propietarios Indalicio Javier Nuñez Reyes y José Antonio Huilipan Lagos, ascendente a las cantidades de $ 384.758 y $ 579.360.
+
+- Fiscal del Ministerio de Obras Públicas.
