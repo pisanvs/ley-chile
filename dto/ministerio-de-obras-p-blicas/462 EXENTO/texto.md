@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 462, de 30 de abril de 2001, se expropió el lote de terreno Nº 220-1, superficie 1.175 m², rol de avalúo 202-14, comuna de Zapallar, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Víctor Humberto Spada Olivares, ascendente a la cantidad de $2.029.801.-
+
+Fiscal del Ministerio de Obras Públicas.
