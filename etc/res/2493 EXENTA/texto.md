@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 2.493, de 27 de Noviembre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado predio "Resto del Predio Rústico Denominado Hacienda El Colorado" de la comuna de San Clemente, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 47, sitios N°s. 1 al 70 y Reservas Cora N°s. 1, 2 y 3 del Proyecto de Parcelación "El Colorado" formado por predio señalado. Los Derechos de Aguas se extraen del Canal Maule Norte. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
