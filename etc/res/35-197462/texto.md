@@ -1,0 +1,3 @@
+Por resolución Nº 35 de fecha 30 de abril de 2002, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, se revoca la autorización otorgada al concesionario Carlos Filippi Barra para que en su calidad de concesionario de la Planta de Revisión Técnica AB 0603, ubicada en el Parque Industrial de esta ciudad, practique revisiones técnicas en Avda. Cachapoal Nº 1300, kilómetro 85, Rancagua, dispuesta por resolución Nº 6 de 2001, de esta misma Secretaría Regional.-
+
+Héctor Iribarren Valdés, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
