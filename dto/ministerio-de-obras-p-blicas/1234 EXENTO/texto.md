@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.234 de 30 de agosto, de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº4 para la obra: Camino Ruta G-76, Sector María Pinto - Santa Inés, Tramo Km. 0,00000 a Km. 12,26088, que figura a nombre de Solar Manzano Aurelio, rol de avalúo 15-152, comuna de María Pinto, Región Metropolitana, superficie 1.885,50 m2. La Comisión de Peritos, fijó con fecha 28 de mayo de 2002, en la cantidad de $1.131.300.- para el lote Nº4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
