@@ -1,0 +1,3 @@
+Por resolución Nº 854, de 8 de mayo de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96103409, presentada por ABEL DEL CARMEN MANSILLA ALVAREZ, para operar un centro de cultivo ubicado entre Punta Animo y Punta Tutil, estero Castro, comuna de Castro, provincia de Chiloé, X Región, conforme a lo dispuesto en el artículo 78, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
