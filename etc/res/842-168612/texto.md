@@ -1,0 +1,3 @@
+Por resolución Nº 842 de 5 de mayo de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.632, de 1995, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA QURBOSA S.A., para operar por sustitución la nave ''Rapanui'' sobre los recursos hidrobiológicos Anchoveta y Sardina española, en el litoral de la III y IV Regiones, de conformidad con lo establecido en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
