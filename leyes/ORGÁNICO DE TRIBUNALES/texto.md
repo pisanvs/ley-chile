@@ -344,49 +344,15 @@ Región Metropolitana de Santiago:
 
 Colina, con cuatro jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 
-Pudahuel, con seis jueces, con competencia sobre la misma comuna.
+Puente Alto, con siete jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
 
-Conchalí, con quince jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca y Conchalí.
-
-Independencia, con ocho jueces, con competencia sobre las comunas de Independencia y Recoleta.
-
-Las Condes, con diecisiete jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
-
-Cerro Navia, con diez jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
-
-Estación Central, con ocho jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
-
-Santiago, con ocho jueces, con competencia sobre la misma comuna.
-
-Ñuñoa, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
-
-Maipú, con diecisiete jueces, con competencia sobre las comunas de Maipú y Cerrillos.
-
-Pedro Aguirre Cerda, con cinco jueces, con competencia sobre las comunas de Lo Espejo y Pedro Aguirre Cerda.
-
-San Miguel, con ocho jueces, con competencia sobre las comunas de San Miguel, La Cisterna y El Bosque.
-
-San Joaquín, con seis jueces, con competencia sobre las comunas de San Joaquín y La Granja.
-
-Macul, con doce jueces, con competencia sobre las comunas de Macul y Peñalolén.
-
-La Florida, con quince jueces, con competencia sobre la misma comuna.
-
-La Pintana, con ocho jueces, con competencia sobre las comunas de San Ramón y La Pintana.
-
-Puente Alto, con siete jueces, con competencia en las comunas de Puente Alto, San José de Maipo y Pirque.
-
-San Bernardo, con siete jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango.
-
-Buin, con tres jueces, con competencia sobre las comunas de Buin y Paine.
+San Bernardo, con diez jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
 
 Melipilla, con tres jueces, con competencia sobre las comunas de Melipilla, San Pedro y Alhué.
 
-Curacaví, con dos jueces, con competencia sobre las comunas de María Pinto y Curacaví.
+Talagante, con siete jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
 
-Talagante, con cuatro jueces, con competencia sobre las comunas de Talagante, El Monte e Isla de Maipo.
-
-Peñaflor, con tres jueces, con competencia sobre las comunas de Peñaflor y Padre Hurtado.
+Curacaví, con dos jueces, con competencia sobre las comunas de Curacaví y María Pinto.
 
 ### Párrafo 2º
 
@@ -474,7 +440,9 @@ Sexta Región del Libertador General Bernardo O'Higgins:
 
 Rancagua, con doce jueces, con competencia sobre las comunas de Mostazal, Graneros, Codegua, Rancagua, Machalí, Las Cabras, Coltauco, Doñihue, Olivar, Coinco, Requínoa, Peumo, Quinta de Tilcoco, Pichidegua, San Vicente, Malloa y Rengo.
 
-Santa Cruz, con seis jueces, con competencia sobre las comunas de Navidad, Litueche, La Estrella, Pichilemu, Marchigüe, Paredones, Peralillo, Palmilla, San Fernando, Pumanque, Santa Cruz, Nancagua, Placilla, Lolol, Chépica y Chimbarongo.
+San Fernando, con tres jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
+
+Santa Cruz, con tres jueces, con competencia sobre las comunas de Santa Cruz, Navidad, Litueche, La Estrella, Pichilemu, Marchigüe, Paredones, Peralillo, Palmilla, Pumanque, Nancagua, Lolol y Chépica.
 
 Séptima Región del Maule:
 
@@ -526,27 +494,13 @@ Región Metropolitana de Santiago:
 
 Colina, con seis jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 
-Pudahuel, con dieciocho jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.
-
-Independencia, con veintiún jueces, con competencia sobre las comunas de Quilicura, Huechuraba, Renca, Conchalí, Independencia y Recoleta.
-
-Providencia, con veinticuatro jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
-
-Santiago, con quince jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
-
-Maipú, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
-
-San Miguel, con veintisiete jueces, con competencia sobre las comunas de Lo Espejo, Pedro Aguirre Cerda, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque y La Pintana.
-
-La Florida, con veintisiete jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
-
 Puente Alto, con nueve jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
 
 San Bernardo, con nueve jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
 
-Melipilla, con seis jueces, con competencia sobre las comunas de Melipilla, María Pinto, Curacaví, San Pedro y Alhué.
+Melipilla, con seis jueces, con competencia sobre las comunas de Melipilla, San Pedro, Alhué, Curacaví y María Pinto.
 
-Talagante, con seis jueces, con competencia sobre las comunas de Talagante, Peñaflor, El Monte, Isla de Maipo y Padre Hurtado.
+Talagante, con seis jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
 
 #### Artículo 21
 
@@ -3980,7 +3934,7 @@ La remoción del administrador del tribunal podrá ser solicitada por el juez pr
 
 #### Artículo 389
 
-G. La certificación de las actuaciones procesales realizadas ante el juzgado de garantía o ante el tribunal de juicio oral en lo penal y de sus resoluciones cuando corresponda, la formación del estado diario, así como la autorización, en su caso, del mandato judicial, serán efectuadas por el jefe de la unidad administrativa que tenga a su cargo la administración de causas, de acuerdo a las instrucciones y procedimientos que establezca la Corte Suprema.
+G. Corresponderá al jefe de la unidad administrativa que tenga a su cargo la administración de causas del respectivo juzgado o tribunal autorizar el mandato judicial y efectuar las certificaciones que la ley señale expresamente.
 
 ### 5. Los Receptores
 
