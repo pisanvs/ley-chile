@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.033, de 3 de agosto de 2004, de esta Subsecretaría, modifícase la resolución Nº 1.130 de 2004, de esta Subsecretaría, que autorizó a MIGUEL ANTONIO ARGEL MANSILLA, para instalar colectores de semillas de Mitílidos en el Estero de Reloncaví, sector norte Farallones Marimeli, X Región, en el sentido de extender el plazo de vigencia que en ella aparece hasta el 30 de noviembre de 2004.
+
+Valparaíso, 3 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
