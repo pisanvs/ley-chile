@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.124, de 31 de agosto del 2000, se expropiaron los lotes de terreno Nºs. 256-2 y 256-3, superficies 3.226 m² y 2.995 m², rol de avalúo 99-28, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario José Samuel Figueroa Henríquez, ascendente a la cantidad total de $24.294.757.
+
+- Fiscal del Ministerio de Obras Públicas.
