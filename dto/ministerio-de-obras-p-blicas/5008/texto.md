@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.008, de 31 de octubre del 2000, se expropiaron los lotes de terreno Nºs. 3, 3-A y 3-B, superficies 602, 822 y 1.451 m². respectivamente, rol de avalúo 234-19, comuna de Rengo, para la obra Mejoramiento Camino Ruta H-450, sector El Abra - Esmeralda, Tramo Km. 2.994,58 a Km. 10.150,81 y se acordó precio de la indemnización con su propietaria Sociedad Agrícola La Capilla Limitada, ascendente a la cantidad de $9.997.465.
+
+- Fiscal del Ministerio de Obras Públicas.
