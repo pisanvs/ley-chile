@@ -1,0 +1,5 @@
+Por resolución Nº 29 de 15 de Enero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía. Fomento y Reconstrucción, se autoriza a TERRA NATUR S.A., R.U.T. Nº 96.602.650-2, domiciliada en calle Aníbal Pinto Nº 372, Oficina 81, Concepción, para iniciar actividades pesqueras de transformación, en orden a instalar y operar la planta ubicada en Camino El Aguila s/n, (Fundo Trinidad) Hualqui, donde procesará en la línea de deshidratado natural, los siguientes recursos hidrobiológicos: Cochayuyo, Luga-luga, Pelillo, Chicorea de mar y Pipino de mar.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 15 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
