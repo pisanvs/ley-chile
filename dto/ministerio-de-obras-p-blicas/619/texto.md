@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°619, de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 1-B, 3, 5 y 6, superficies 481, 264, 2.038 y 2.868 m2. respectivamente, roles de avaluó 17-27 y en trámite, comuna de Lolol, para la obra Camino Santa Cruz Lolol, Sector Puente Naval 1 y se acordó precio de indemnización con su propietario José Luis Becerra Allendes, ascendente a la cantidad de $4.062.862.
+
+Fiscal del Ministerio de Obras Públicas.
