@@ -1,0 +1,3 @@
+Por decreto MOP Nº 376, de 26 de febrero de 1999, se expropió el lote de terreno Nº 4, superficie 2.223 m², rol de avalúo 535-6, comuna de Río Bueno, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno-Puerto Montt, Sector Río Bueno-San Pablo, Décima Región y se acordó el valor de indemnización con su propietaria Ruth Sandrock Cordones, ascendente a la cantidad de $3.199.081.-
+
+Fiscal del Ministerio de Obras Públicas.
