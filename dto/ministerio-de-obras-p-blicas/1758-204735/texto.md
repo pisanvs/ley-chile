@@ -1,0 +1,7 @@
+Por decreto MOP Nº1.758, de 22 de octubre de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la obra: Proyecto Laja Diguillín, Area de Riego Los Puquios, canal Los Puquios (Tramo existente y proyectado), el lote Nº1; Canal Los Puquios - Ramal 1, Km. 0.000 a Km. 8.528; los lotes Nºs. 1 y 3; Canal Los Puquios - Ramal 1.1, Km. 0.006 a Km.
+
+2.408, el lote Nº1; Canal Los Puquios Ramal 2 Km. 0.005 a Km. 2.165, el lote Nº3, que figuran a nombre de Forestal Cholguán S.A., rol de avalúo 480-19, comuna de Yungay, VIII Región, superficies 25.287 m2, 15.036 m2, 44.941 m2, 4.321 m2, 14.754 m2 y 8.060 m2, respectivamente. La Comisión de Peritos fijó, con fecha 29 de noviembre de 2000, el monto de la indemnización provisional en la cantidad de $12.100.410.-, lote 1, Canal Los Puquios (Tramo existente); $8.520.480.-, lote 1 y $25.954.630.-, lote 3, Canal Los Puquios - Ramal 1;
+
+$2.638.030.-, Tramo proyectado y $8.144.220, Tramo existente, lote 1, Canal Los Puquios - Ramal 1.1; y $5.955.800.- lote 3, Canal Los Puquios - Ramal 2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
