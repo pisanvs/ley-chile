@@ -3972,8 +3972,6 @@ Financieras.
 
 - Superintendencia de Bancos e Instituciones Financieras.
 
-- Televisión Nacional de Chile.
-
 - Transporte por Containers S.A.
 
 - Zona Franca Iquique S.A.
@@ -8903,8 +8901,6 @@ ANEXO N° 1
 - Sociedad Agrícola Corfo Ltda.
 
 - Sociedad Transporte Marítimo Chiloé-Aysén Ltda.
-
-- Televisión Nacional de Chile
 
 - Transcontainer S.A.
 
