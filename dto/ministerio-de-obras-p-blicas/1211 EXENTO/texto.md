@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.211, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº10-C, superficie 200,00 m², rol de avalúo 65-289, comuna de Teno, VII Región, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal - La Montaña, Km. 0,22000 al 25,00000" y se acordó el valor de indemnización con su propietario don Humberto Guerrero Guerrero, ascendente a la cantidad de $701.017.
+
+Fiscal del Ministerio de Obras Públicas.
