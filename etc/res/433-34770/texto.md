@@ -1,0 +1,5 @@
+Por Resolución N° 433, de 25 de abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad del derecho de SOUTH PACIFIC FISHING COMPANY S.A., R.U.T. N° 96.537.900-2, para ingresar a la pesquería de Merluza común, en el litoral de la IV Región al paralelo 41° 28,6' L.S., Merluza del sur y Congrio dorado, en el litoral comprendido entre los paralelos 41° 28,6' L.S. y 47° L.S., reconocido en el literal g) del numeral 2°, de la Resolución N° 17, de 1992, en virtud de no haber ejercido tal derecho en el plazo establecido en el inciso 2° del artículo 3° transitorio de la Ley General de Pesca y Acuicultura, modificado por la Ley N° 19.245.
+
+Declárase la caducidad de la Resolución N° 1044, de 1989, de esta Subsecretaría, en cuanto autorizó a South Pacific Fishing Company S.A., para efectuar actividades pesqueras con 6 naves en construcción, en virtud de lo dispuesto en la letra b) del artículo 143, del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
