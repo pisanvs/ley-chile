@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.575, de 30 de junio de 2000, se expropió el lote de terreno Nº 177-1, superficie 14.546 m², rol de avalúo 150-262, comuna de Lampa, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Región Metropolitana y se acordó el valor de indemnización con su propietario Francisco Arturo Frez Arancibia, ascendente a la cantidad de $78.161.003.-
+
+Fiscal del Ministerio de Obras Públicas.
