@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.191, de 19 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No. s.11 y 12, para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno, Km. 718.300,00 al Km. 724.706,67, que figuran a nombre de Zielmann Henríquez Reinaldo, Rol de Avalúo No. 432-12, comuna de Gorbea, superficies 2.541,4 y 4.250,3 m². La Comisión de peritos integrada por Enrique Vallete De La Harpe, Fernando Luis Contreras Hennings y Carmen Luz Palacios Contreras, fijó con fecha 31 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $ 1.016.560.- para el lote No. 11 y $ 1.700.120.- para el lote No. 12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(15)
