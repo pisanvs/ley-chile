@@ -1,0 +1,5 @@
+AUTORIZA A SALMONES RANCO SUR LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 832, de 08 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Salmones Ranco Sur Limitada, R.U.T. No. 79.684.810-3, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras, autorizadas por resolución No. 25 de 1988, de esta Subsecretaría, en orden a incluir en el establecimiento de cultivo, ubicado en Canal Caicaén, Comuna de Calbuco, X Región, el recurso Trucha arco iris, y en el establecimiento ubicado en Canal San Agustín, Comuna de Calbuco, X Región, el recurso Salmón del Atlántico, ambos establecimientos autorizados por la resolución antes mencionada. Los smolts de Trucha arco iris y Salmón del Atlántico se adquirirán de centros de cultivosautorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
