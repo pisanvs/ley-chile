@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.950, de 16 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 12-1, para la obra Camino: Santiago - Colina - Los Andes. Sector: Calle de Servicio Caupolicán Km. 4.618,89 a Km.
+
+6.634,47, Región Metropolitana, que figura a nombre de Di Battista La Rosa José, rol de avalúo 118-199, comuna de Quilicura, superficie 80,6 m². La Comisión de Peritos integrada por los señores María Cristina Camus Palacios, Gustavo Domínguez Errázuriz y Carmen Pilar Ríos Marcuello, fijó con fecha 10 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $1.558.400.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
