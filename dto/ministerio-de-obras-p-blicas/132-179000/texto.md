@@ -1,0 +1,3 @@
+Por decreto MOP Nº132, de 24 de noviembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la obra Regadío Pencahue, Canal Oriente, Gancho 1 Derivado 2 del Tranque Prolongación Kms, 0,000 al 0,182; que figura a nombre de Ana Delia Muñoz Bravo, rol de avalúo 123-23, comuna de Pencahue, superficie 450 M2. La comisión de peritos, fijó con fecha 11 de abril de 1999, en la cantidad de $148.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
