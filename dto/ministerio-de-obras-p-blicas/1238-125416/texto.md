@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.238, de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, de 1964 y del DFL MOP.
+
+No. 206, 1960, se expropió el lote de terreno No. 160, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos-La Serena, Sector B Hornillos-La Herradura, km. 325.542 al 457.750, que figura a nombre de Olivares Acosta Angel, rol de avalúo 878-106, comuna de Coquimbo, IV Región, superficie 91 m2. La Comisión de Peritos compuesta por las señoras María Iris Marcich Moller y Elisa Mercedes Tapia Fernández y el señor Juan Agustín Ibáñez Palma, fijó con fecha 17 de junio de 1998, el valor provisional de la indemnización en la cantidad de $ 109.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
