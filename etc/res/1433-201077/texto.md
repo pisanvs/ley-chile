@@ -1,0 +1,3 @@
+Por resolución Nº 1.433, de 18 de julio de 2002, de esta Subsecretaría, autorízase a PESQUERA ITATA S.A., RUT Nº 80.860.400-0, con domicilio en Avenida 11 de Septiembre Nº 2353, piso 7º, Providencia, Santiago, para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 144 de 1985, Nº 327 de 1989, Nº 106 de 1992 y Nº 854 de 2002, todas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Bahía Coronel, Coronel, VIII Región, en las líneas de elaboración de Harina y Aceite, los siguientes recursos hidrobiológicos: Bacaladillo o mote, Jurel fino, Machuelo o tritre, Anchoveta blanca, Sardina redonda, Vinciguerria.
+
+Valparaíso, 18 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
