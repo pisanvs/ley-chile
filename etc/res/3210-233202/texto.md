@@ -1,0 +1,3 @@
+Por resolución Nº 3.210, de 10 de noviembre de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 384 de 2004, modificada mediante resoluciones Nº 1.332 y Nº 2.120, ambas de 2004, todas de esta Subsecretaría de Pesca, que autorizó a CONSULTORIAS Y SERVICIOS PROFESIONALES O.T.P. LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio biológico-pesquero de especies pelágicas costeras capturadas por la flota cerquera artesanal de San Antonio V Región", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2004.
+
+Valparaíso, 10 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
