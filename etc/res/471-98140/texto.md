@@ -1,0 +1,3 @@
+Por resolución Nº471, de 7 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95103195, presentada por LUIS ROBERTO MUÑOZ VILLEGAS, para operar un centro de cultivo ubicado en Sector Caleta Punilco, Isla Quenac, Comuna de Quinchao, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14 del DS Nº290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
