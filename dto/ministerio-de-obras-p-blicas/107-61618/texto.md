@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 107, de 31 de enero de 1997, se expropió el lote de terreno Nº 4 del Enlace Malvilla, superficie 13.175,7 m², rol de avalúo 1101-25, comuna de Cartagena, para la obra Enlaces Ruta 78, Camino Santiago - San Antonio, sector Leyda - Agua Buena, y se acordó el valor de indemnización con sus propietarios Dominga Mimica Scarpa y otro, ascendente a la cantidad de $40.680.550.-
+
+Fiscal del Ministerio de Obras Públicas.
