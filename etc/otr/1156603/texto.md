@@ -1,0 +1,9 @@
+Cartas de ciudadanía
+
+Excmo. Señor:
+
+Desde el 17 de Enero último han sido sancionadas las cartas de ciudadanía de los españoles europeos don José Montes, de don Gaspar Arredondo i la de don José Prado por haber justificado que manifestándose adictos a la causa del pais han observado la mejor conducta sin causar un perjuicio en el progreso de la opinión ni un daño a los patriotas comprometidos por ella; teniendo por norte en sus operaciones el hallarse avecindados en Chile de años a esta parte. La de don Cárlos González, porque confesando la justicia con que se declaró la emancipacion de este Estado, asegura la inevitable necesidad de separarnos de la denominacion del rei Fernando. La de don José Velasco por haber acreditado el interes de servir a los patriotas aun en tiempo de la subyugacion, hasta el estremo de ocultarle sus armas sin temor de las espantosas penas publicadas por el Gobierno español. La de don Francisco Concha, porque probo que debiendo a Chile la comodidad que ha disfrutado i contando con la distincion que le han dispensado los naturales, ha prestado los servicios que han estado a su alcance. La de Don Manuel Romero, por haber justificado su buen manejo, i el no haber tomado una parte por los españoles, ni en perjuicio del sistema de América, ni de los patriotas; i la de don Manuel Sans, porque detestando la tiránica dominacion de los españoles, se ha manifestado público defensor de la independencia i emancipacion de la América; i para satisfaccion de los interesados se servirá V. E. prevenir se publique en la Ministerial, que este es el resultado de los espedientes que quedan archivados en la secretaría del Senado.
+
+Dios guarde a V. E. muchos años. - Sala del Senado, Mayo 4 de 1821. - Francisco Antonio Pérez. - José María Villarreal, secretario. - Excmo. Señor Supremo Director de la República.
+
+Santiago, Mayo 5 de 1821. - Publíquese por la Gaceta Ministerial. - O'Higgins. - Echeverría.
