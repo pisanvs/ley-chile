@@ -346,13 +346,13 @@ Se exhibirán también los demás documentos necesarios, sean públicos o privad
 
 #### Artículo 58
 
-Para inscribir la transferencia por donación o contrato entre vivos de una finca que no ha sido antes inscrita, exigirá el Conservador constancia de haberse dado aviso de dicha transferencia al público por un periódico del departamento, si lo hubiere, y por carteles que se hayan fijado en tres de los parajes más frecuentados del departamento, con las designaciones relativas a las personas que transfieren y a los límites y nombre de la propiedad, materia del contrato.
+Para inscribir la transferencia por donación o contrato entre vivos de una finca que no ha sido antes inscrita, exigirá el Conservador constancia de haberse dado aviso de dicha transferencia al público por medio de tres avisos publicados en un periódico del departamento o de la capital de la provincia, si en aquél no lo hubiere, y por un cartel fijado durante quince días por lo menos en la oficina del mismo Conservador, con las designaciones relativas a las personas que transfieren y a los límites y nombre de la propiedad, materia del contrato.
 
-La fijación de carteles se hará constar al Conservador por certificados del escribano o juez del lugar, puestos al pie de dichos carteles, para que de este modo conste también que ha habido en el contenido de ellos la exactitud necesaria.
+El Conservador certificará el cumplimiento de los requisitos indicados en el inciso anterior al pie del cartel y procederá a protocolizar éste.
 
 Se sujetarán a la misma regla la inscripción o registro de la constitución o transferencia por acto entre vivos de los derechos de usufructo, uso, habitación, censo e hipoteca que se refieran a inmuebles no inscritos.
 
-Hasta treinta días después de dado el aviso no podrá hacerse la inscripción.
+La inscripción no podrá efectuarse sino una vez transcurridos treinta días contados desde el otorgamiento del certificado a que se refiere el inciso segundo.
 
 #### Artículo 59
 
