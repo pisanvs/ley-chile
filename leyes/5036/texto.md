@@ -1,0 +1,1 @@
+Concede facilidades a los contribuyentes que tengan hipotecados sus inmuebles a favor de algunos de las instituciones regidas por la ley de 29 de Agosto de 1855, y de otras instituciones de Previsión.
