@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.460, de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº69, superficie 3.977 m², rol de avalúo 611-19, comuna de Nueva Imperial, IX Región, para la obra ''Camino Ruta S-16, Sector Galvarino - Chol Chol, tramo Km. 0,00000 al 24,33510, correspondiente al Subtramo III Km. 14,667 al 24,333510'' y se acordó el valor de indemnización con su propietario don Iván Brkljaca Bezina, ascendente a la cantidad de $1.907.022.-
+
+Fiscal del Ministerio de Obras Públicas.
