@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº284, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº1, superficie 1.563,09 m2, rol de avalúo 50-32, comuna de Lonquimay, IX Región, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Acceso a Lonquimay Km. 0,09742 al 0,62000" y se acordó el valor de indemnización con su propietario don Pedro Eduardo Labayru Quintana, ascendente a la cantidad de $962.647.-
+
+Fiscal del Ministerio de Obras Públicas.
