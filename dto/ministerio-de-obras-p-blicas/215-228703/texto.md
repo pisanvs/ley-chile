@@ -1,0 +1,3 @@
+Por decreto MOP N° 215, de 21 de septiembre de 1987, se expropió el lote N° 5, cuya superficie es 7.330 m2., rol de avalúo 563-26, Comuna de Linares, para la obra Alcantarillado de Linares, Mejoramiento Integral del Sistema de Alcantarillado de Aguas Servidas de Linares y se acordó el precio de indemnización con su propietario don Jaime Osvaldo Labraña Labraña, ascendente a $ 1.568.767.
+
+Fiscal del Ministerio de Obras Públicas.
