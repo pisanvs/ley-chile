@@ -1,0 +1,5 @@
+Por decreto (exento) MOP Nº1.823 de fecha 30 de noviembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nº 1 y 2, para la ejecución de la obra "Laja-Diguillín, Area de Riego Rinconada, Canal San Fernando de Mogotillo, Ramal 4.1, Km. 0.008 al Km. 0.590", que figuran a nombre de Rubilar Felipe y González Arriagada Juvenal, Rol de Avalúo 126-34 y 126-
+
+48, de la comuna de El Carmen, VIII Región, superficies 3.378 y 2.848 m2. La Comisión de Peritos fijó con fecha 30 de septiembre de 2001, la indemnización provisional en la cantidad de $2.057.900, para el lote 1 y $1.566.400, para el lote 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
