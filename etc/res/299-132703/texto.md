@@ -1,0 +1,9 @@
+AUTORIZA A BAHIA AUSTRAL S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+(Extracto)
+
+Por resolución No. 299, de 23 de Marzo de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Bahía Austral S.A.. domiciliada en Avenida Antonio Varas No. 71, Oficina 202, Santiago, para iniciar actividades pesqueras de transformación en orden a operar en la planta industrial de propiedad de SURPESCA S.A., autorizada por resolución No. 143, de 1987, de esta Subsecretaría, en sector Usina y Muelle Francés, Corral, X Región, donde procesará en las líneas de elaboración de congelado, conservas, deshidratado, y fresco - refrigerado, los siguientes recursos hidrobiológicos: Albacora, atún aleta amarilla, atún aleta larga, azulejo, bacalao de J. Fernández, blanquillo, bonito, cazón, chancharro, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, jurel, lenguado de ojos chicos, lenguado de ojos grandes, lisa, machuelo, merluza común, merluza del Sur, merluza de cola, mero, pampanito, pejegallo, pejerrey de mar, pejezorro, raya, róbalo, roncacho, sardina común, sardina española, tollo, sierra, trucha arcoiris, jibia, caracol azul o tegula, caracol locate, caracol trumulco, cholga, chorito, choro, culengue, lapa, loco, macha, navajuela, ostra, pulpo, camarón nylon, centolla, gamba, langostino amarillo, jaiba, picoroco, erizo, piure, calamar, ostión del Norte, pepino de mar. El recurso Trucha deberá provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Marzo de 19&8.- Roberto Cabezas Bello, Subsecretario de Pesca.
