@@ -1,0 +1,5 @@
+Por decreto MOP, exento Nº1.125, de 27 de agosto de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs, 20, 21, 22 y 38, para la ejecución de la obra "Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 a Km. 9,317", que figuran a nombre de Scout de Chile, Román Clodomiro y Julio Riveros Campos, Rol de Avalúo en trámite y 141-125, comuna de Graneros, VI Región, superficies 270, 117, 222 y 1.089 m2. La Comisión de Peritos fijó con fecha 15 de septiembre de 2000, la indemnización provisional en la cantidad de $868.300, lote 20;
+
+$814.430, lote 21; $1.011.380, lote 22 y $1.843.500, lote 38. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
