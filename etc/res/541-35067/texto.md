@@ -1,0 +1,3 @@
+Por Resolución N° 541 de 23 de julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 1331, de 1989 y N° 1451, de 1990, ambas de esta Subsecretaría, que autorizaron a doña MADELEN BRAHM FUCHSLOCHER, R.U.T. N° 8.304.321-0, para operar un establecimiento de cultivo del recurso alga Gracilaria, en Chanhue, Río Maullín, Comuna de Maullín Provincia de Llanquihue, X Región por renuncia de su titular.
+
+Valparaíso, 23 de julio de 1993. Andrés Couve Rioseco, Subsecretario de Pesca.
