@@ -1,0 +1,3 @@
+Por decreto MOP Nº774 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº2, superficie 4.107 m2, rol de avalúo Nº169-10, comuna de Casablanca, para la obra ''Ruta F-830, Camino Casablanca - Las Dichas - Algarrobo, Sector Casablanca - Las Dichas'', V Región y se acordó el valor de indemnización con su propietario Daniel Segundo Godoy González y otros, ascendente a la cantidad de $14.623.054.-
+
+Fiscal del Ministerio de Obras Públicas .
