@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A SOCIEDAD AGROGANADERA UNIDA DEL NORTE LIMITADA
+
+La IV Dirección Regional La Serena del SII, por resolución DRE04.00 Nº Ex. 50 de 14 de julio de 1998, excepciona a contar del 1 del mes siguiente al de esta publicación y hasta el 31 de julio de 1999, a la Sociedad Agroganadera Unida del Norte Limitada, R.U.T. Nº 79.964.150-K, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, establecido en la resolución Nº Ex. 2.379 de 1998 de la Dirección Nacional, publicada en el Diario Oficial del 24.04.1998, modificada por la resolución Nº 3.785, de 1998, publicada en el Diario Oficial del 30.06.1998. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.-
+
+Luis Muñoz Arratia, Director Regional.
