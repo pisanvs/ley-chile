@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº3.892, 28 octubre 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle 8 Oriente Nº131 B, Recinto Machasa, Rol de Avalúo Nº2757-16, comuna Chiguayante, superficie 13,42 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R 16.563 M, de aparente dominio de Eugenio Sanhueza Riquelme, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por Hernán Cáceres Moscoso, ingeniero civil, Miguel Bonifetti Dall'Orso, arquitecto y Mario Bellolio Basticca, arquitecto, según informe de fecha 24 de septiembre 2004, fijó monto provisional indemnización en $1.064.530, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
