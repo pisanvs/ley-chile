@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.074, de 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs. 3, 6 y 8, superficies 660 m², 1.654 m² y 1.950 m², rol de avalúo 189-133, comuna de Longaví, para la obra Concesión Internacional Ruta 5. Tramo: Talca-Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Juan Bautista Ortuya Fuentes, ascendente a la cantidad total de $37.689.295.
+
+- Fiscal del Ministerio de Obras Públicas.
