@@ -1,0 +1,3 @@
+Por decreto MOP Nº394 de fecha 26 de febrero de 1999, se expropió el lote de terreno Nº91-D, superficie 1.287 m2., rol de avalúo 747-180, comuna de Bulnes, para la Obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli Sector 1 Km. 434.386,40 al Km. 436.788,50'' VIII Región, y se acordó el valor de indemnización con su propietario Elsa Gladys Valenzuela Vásquez, la cantidad de $2.291.776.-
+
+Fiscal del Ministerio de Obras Públicas.
