@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.006, de 30 de julio de 1999, se expropió el lote de terreno Nº 17, superficie 356 m², rol de avalúo 1334-26, comuna de San Carlos, para la obra ''Ruta 5 tramo Talca-Chillán, sectores Accesos Estación Ninquihue Oriente y Poniente, Calles de Servicio Ninquihue'', Octava Región y se acordó el valor de indemnización con su propietaria María del Tránsito Henríquez Vásquez, ascendente a la cantidad de $2.531.528.-
+
+Fiscal del Ministerio de Obras Públicas.
