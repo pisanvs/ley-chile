@@ -1,0 +1,3 @@
+Por resolución Nº1.148, de 3 de junio de 2003, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PESSUR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Pesur I", en el área marítima comprendida entre el paralelo 33° L.S. y la VII Región, por fuera del área de reserva artesanal, con espinel y arrastre, sobre el recurso hidrobiológico Raya volantín.
+
+Valparaíso, 3 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
