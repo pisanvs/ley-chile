@@ -1,0 +1,1 @@
+Fija monto líquido máximo de pensiones de jubilación, y retiro y montepío fiscales, semifiscales o municipales, y dispone que no serán proveídas las vacantes que se produzcan en los Servicios de la Administración Pública, desde la fecha de promulgación de la presente ley hasta el 31 de diciembre de 1933, salvo en los casos que indica.
