@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 873 de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº 10-A, superficie 80,0 m², rol Nº 297-70, comuna de Lautaro, IX Región, para la obra "Camino Lautaro - Curacautín III, Segunda Etapa, Km. 28,000 al Km. 56,04946" y se acordó el valor de indemnización con su propietario Jorge Rojas Fritz, ascendente a la cantidad de $205.392.
+
+- Fiscal del Ministerio de Obras Públicas.
