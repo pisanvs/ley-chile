@@ -1,0 +1,3 @@
+Por resolución Nº 1.680, de 28 de julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110285 presentada por PESCA CHILE S.A., para instalar y operar un centro de cultivo ubicado en Isla Quemada, canal Darwin, caleta Sur-Este, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 28 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
