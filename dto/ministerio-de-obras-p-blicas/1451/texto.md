@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.451, de 31 de agosto de 1998, se expropió el lote de terreno No. 134, superficie 911,6 m²., rol de avalúo 164-608, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector A, Américo Vespucio-By Pass Colina, y se acordó el valor de indemnización con su propietario Pezoa Díaz Juana Emilia, ascendente a la cantidad de $ 10.611.884.-
+
+Fiscal del Ministerio de Obras Públicas.
