@@ -1,0 +1,3 @@
+Por resolución Nº 1.730, de 2 de septiembre de 1999, de esta Subsecretaría, autorízase a COMPAÑÍA PESQUERA CAMANCHACA S.A., para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 11, de 1980, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Manuel Montt Nº 1941, comuna de Tomé, provincia de Concepción, VIII Región, en la línea de elaboración de Conserva, el recurso hidrobiológico Caballa.
+
+Valparaíso, 2 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
