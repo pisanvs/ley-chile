@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.787, de 30 de junio de 1999, se expropiaron los lotes de terreno Nºs. 58, 61, 61-A, 63, 64 y 64-A, superficies 428, 1.878, 989, 886, 1.741 y 1.772,22 m2 respectivamente, roles de avalúo 9309-17, 9309-6, 9309-1 y en trámite, comuna de Valparaíso, para la obra Habilitación nuevo Camino La Pólvora Etapa I, Sector Ruta 68 - Acceso Sur a Valparaíso, Camino La Pólvora, Rol F-724, F-730, sector Placilla - Puertas Negras y se acordó precio de indemnización con sus propietarios José Schafer Mateluna y otro, Vicente Pizarro Tureo y María Contador Bañados y otros, ascendente a las cantidades de $1.489.600, $9.465.435, $3.496.032, $6.689.982 y $6.257.059.-
+
+Fiscal del Ministerio de Obras Públicas.
