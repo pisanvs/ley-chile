@@ -1,0 +1,3 @@
+Por decreto MOP Nº 474, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº 6, superficie 1.665 M2, rol de avalúo 152-485, comuna de Graneros, VI Región, para la obra "Camino Ruta Rol H-10, Sector Graneros-San Francisco de Mostazal, Tramo Km. 0,000 al 9,317" y se acordó el valor de indemnización con su propietario don Alberto Ignacio Prieto Correa, ascendente a la cantidad de $2.939.696.-
+
+Fiscal del Ministerio de Obras Públicas.
