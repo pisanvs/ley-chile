@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.817, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº94, superficie 121 m², rol de avalúo 462-9, comuna de San Fernando, Sexta Región, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector H: Km. 128.400,00 a Km. 140.850,00. Posteriormente, por decreto MOP Nº728, de 29 de febrero del 2000, se autorizó el Convenio Directo de Precio Ad-Referéndum y se acordó el valor de indemnización con sus propietarios Anaís de las Mercedes Cabezas Sánchez y otros, ascendente a la cantidad de $3.832.163.-
+
+Fiscal del Ministerio de Obras Públicas.
