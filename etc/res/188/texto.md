@@ -1,0 +1,3 @@
+Por Resolución N°188 de 08 de Febrero de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el primer párrafo del extracto de la Resolución N°78, de 1994, de esta Subsecretaría, en el sentido de reemplazar la expresión "Resolución N°506, de 1992" por "Resolución N°507, de 1992".
+
+Valparaíso, 08 de Febrero de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
