@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 1.263 de 03 de Octubre de 1985, conforme Art.
+
+5° transitorio Código de Aguas, determinó derechos de Aprovechamiento de Aguas proporcionales que corresponden a Sector excluido y Sector expropiado Predios "Las Vegas o Los Montes", Hijuela Poniente e Hijuela Oriente del Huapi, denominado San Juan del Huapi', "Bellavista", "Varios retazos de terrenos que corresponden al Fundo Los Maitenes", de la Comuna de Linares. VII Región, y derechos Aprovechamiento de Aguas que corresponden a las Parcelas N° 1 a 14, Sitios N° 1 al 10 y Reserva Cora N° 1 y 2 del Proyecto de Parcelación "Linares", formado por Predios señalados. Los Derechos de Agua se extraen del Canal Melado, Canal Comunero Rojas derivado del Río Achibueno, Río Ancoa por Canal Maitenes, Canal Putag n, Canal G. Encina de Río Achibueno Derrames del fundo Los Aromos y Fundo Casablanca. Derrames por Desague Sta. Luisa y Aguas provenientes de Vertientes Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
