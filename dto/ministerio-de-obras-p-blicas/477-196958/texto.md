@@ -1,0 +1,3 @@
+Por decreto MOP Nº 477 de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs 368 y 368-A, superficie 6.042 y 3.373 m2., rol de avalúo Nº 33-40, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 12,70000 al 16,48000" y se acordó el valor de indemnización con su propietario Fernando R. Salinas Valladares, ascendente a la cantidad de $69.966.961.-
+
+Fiscal del Ministerio de Obras Públicas.
