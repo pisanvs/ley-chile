@@ -28416,7 +28416,7 @@ Esta nota deberá incluirse también en el caso en que no existan operaciones o 
 
 La primera parte de la nota (letra a) contendrá la información relativa a las colocaciones y demás créditos, incluidos sus intereses por cobrar, otorgados a personas relacionadas con la institución.
 
-En concordancia con las disposiciones del Capítulo 12-4 de esta Recopilación, no se considerarán los créditos otorgados a personas naturales que tengan un total de créditos igual o inferior a 3.000 U.F.
+La información relativa a los créditos otorgados a personas relacionadas se presentará sobre la base de aquellos que se consideran para efectos de los limites de que trata el Capítulo 12-4 de esta Recopilación. Por consiguiente, en la nota se informarán tanto los créditos que se incluyen en el activo del Balance General, sea que se trate de colocaciones, operaciones con pacto o inversiones financieras, como aquellos créditos vigentes y vencidos que estuvieren registrados solamente en cuentas de orden, debiéndose indicar además, cuando corresponda, el importe total de las operaciones castigadas en los últimos cuatro años que se computan para esos límites, todo ello sin considerar los créditos otorgados a personas naturales que tengan un total de créditos igual o inferior a 3.000 UF.
 
 Junto con las cifras correspondientes a los créditos otorgados, se incluirán los montos a que ascienden sus respectivas garantías, considerando sólo aquellas que cumplan con las características especificadas en el artículo 84 de la Ley General de Bancos. Para este efecto las instituciones deberán atenerse a las disposiciones del Capítulo 12-3 de esta Recopilación Actualizada de Normas, incluidas las instrucciones sobre su valorización.
 
@@ -28602,8 +28602,6 @@ i) Si la institución no mantuviere saldo por concepto de obligación subordinad
 
 ii) Las sociedades financieras que no muestren saldo alguno en las líneas "COLOCACIONES CONTINGENTES" (B5) y "OBLIGACIONES CONTINGENTES" (H6) podrán excluir ambos conceptos.
 
-iii) Las instituciones que no mantengan emisiones de bonos subordinados, podrán excluir la línea "OBLIGACIONES POR BONOS SUBORDINADOS" (J2). Si además se encuentran en la situación señalada en el literal i) precedente, presentarán sólo el total de "OTROS PASIVOS", en forma similar al "DISPONIBLE".
-
 III.- REAGRUPACIONES DE SALDOS.
 
 Para obtener las cifras que corresponde presentar en el balance general se sumarán los saldos de las partidas que se indican más adelante y, además, se efectuarán las reagrupaciones de saldos que se señalan a continuación:
@@ -28618,11 +28616,11 @@ El importe de la partida 1750 Ajuste a Valor de mercado de inversiones transable
 
 3.- Por diversas cuentas del activo y del pasivo.
 
-En el Balance General deberán agruparse vanos saldos o partidas en las líneas "OTROS ACTIVOS" (E2) y "OTROS PASIVOS" (K2), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones, además de los indicados en el numeral anterior, y de la suma de las partidas que más adelante se indican:
+En el Balance General deberán agruparse varios saldos o partidas en las líneas "OTROS ACTIVOS" (E2) y "OTROS PASIVOS" (K2), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones, además de los indicados en el numeral anterior, y de la suma de las partidas que más adelante se indican:
 
 a) El monto de los pagos provisionales de impuestos (P.P.M.) incluidos los gastos de capacitación imputables al pago de impuestos, se presentarán junto con las provisiones que se hayan constituido con ese mismo objeto, de manera que se demuestre sólo la obligación neta o los impuestos por recuperar netos, según corresponda, en el pasivo o en el activo.
 
-b) Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre sí. El mismo procedimiento se seguirá en el caso de los saldos de las partidas 2125 (Deudores por arbitrajes a futuro) y 4125 (Divisas arbitradas a futuro) . Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio. Sin embargo, la partida 4515 (Adeudado al Banco Central por divisas vendidas con pacto de recompra), no debe ser incluida en los mencionados ajustes.
+b) Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre si. El mismo procedimiento se seguirá en el caso de los saldos de las partidas 2125 (Deudores por arbitrajes a futuro) y 2126 (Compraventa de divisas a futuro) con respecto a las partidas 4125 (Divisas arbitradas a futuro) y 1426 (Compraventa de divisas a futuro) Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio. Sin embargo, la partida 4515 (Adeudado al Banco Central por divisas vendidas con pacto de recompra), no debe ser incluida en los mencionados ajustes.
 
 4.- Por recuperación de colocaciones castigadas
 
@@ -28834,6 +28832,8 @@ Al cierre del ejercicio no existen créditos otorgados a personas relacionadas c
 
 Por otra parte, durante el ejercicio y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas .. / por montos superiores a $ 1 millón/
 
+> **Nota.** NOTA La letra C, de la Circula 2718, SBIF, promulgada el 16.12.1992, complementa las instrucciones para la preparación de las notas sobre operaciones con partes relacionadas y provisiones para cubrir activos riesgosos contenidas en el presente Anexo. Respecto de la nota sobre operaciones con partes relacionadas, se suprime la información que señalaba el porcentaje del capital y reservas que representaban los créditos a deudores relacionados con la institución, a la vez que se agrega la información sobre monto de los créditos castigados en los últimos cuatro años.
+
 ANEXO N° 6
 
 MODELO DE NOTA SOBRE INVERSIONES EN SOCIEDADES.
@@ -28869,6 +28869,8 @@ El movimiento registrado durante el ejercicio en las cuentas de provisiones se r
 .
 
 A juicio de la administración, las provisiones constituidas cubren todas las eventuales pérdidas que pueden derivarse de la no recuperación de activos, según los antecedentes examinados por la institución.
+
+> **Nota.** La letra C, de la Circula 2718, SBIF, promulgada el 16.12.1992, complementa las instrucciones para la preparación de las notas sobre operaciones con partes relacionadas y provisiones para cubrir activos riesgosos contenidas en el presente Anexo, especificándose las partidas que originan los saldos que deben informarse en cada caso.
 
 ANEXO N° 8
 
