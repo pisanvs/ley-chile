@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.742, de 24 de septiembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+43-A y 43-B para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli - Temuco''; Km. 608,49000 al Km. 610,40000, Novena Región, que figuran a nombre de Pasche Cretton Heraldo Mario, rol de avalúo 698-14, comuna de Victoria, superficies de 926 m2 y 143 m2, respectivamente. La comisión de peritos integrada por los señores Luis Javier Donoso Moreno, Patricio Fernando Casagrande Ulloa y Hugo Wilibaldo Repetto Vera, fijó con fecha 25 de mayo de 1999, el valor provisional de las indemnizaciones en las cantidades de $9.260.000.- para el lote Nº43-A y de $1.430.000.- para el lote Nº43-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
