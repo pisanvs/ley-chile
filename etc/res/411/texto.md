@@ -1,0 +1,7 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por resolución N° 411 de 12 de Abril de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la autorización solicitada por don OCTAVIO OJEDA GUZMAN, R.U.T. N° 7.876.635-2, domiciliado en sector de Changué, Correo de Maullín, Comuna de maullín, Provincia de Llanquihue, X Región, para prorrogar el plazo de publicación a que se refiere el numeral 4° de la resolución N° 1.608, de 1988, de esta Subsecretaría, de acuerdo a lo dispuesto en el artículo 6° del decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. Se deniega, asimismo, la autorización solicitada por el peticionario para que se dicte en su favor una nueva resolución en los mismos términos que la citada resolución N° 1.608, en razón a que el área solicitada fue autorizada por la resolución N° 958, de 1990, de esta Subsecretaría, a don MANUEL DEL CARMEN NAVARRO MANSILLA.
+
+Se caduca, en mérito de lo antes señalado y de conformidad con lo dispuesto en el artículo 6° del decreto N° 175, antes citado, la resolución N° 1.608, de 1988, de esta Subsecretaría.
+
+Valparaíso, 12 de Abril de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
