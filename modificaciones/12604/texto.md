@@ -1,0 +1,1 @@
+Modifica el artículo 4° de la ley 12.166, de 20 de octubre de 1956, que autorizó a la Municipalidad de Puente Alto para contratar uno o más empréstitos con el fin de destinarlos a diversas obras de adelanto local.
