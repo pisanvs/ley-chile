@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.233,0 de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº1, superficie 2.441,9 m2., rol de Avalúo Nº1001-34, comuna de Puerto Natales, para la obra "Camino Puerto Natales - Fiordo Staines, sector Km. 0,000 al Km. 6,16592, 1ª etapa, Ultima Esperanza", y se acordó el valor de indemnización con su propietario Juan Rodrigo Mac-Lean Gómez, ascendente a la cantidad de $1.457.162.-
+
+Fiscal del Ministerio de Obras Públicas.
