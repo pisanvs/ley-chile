@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación de minerales de anhídrido fosfórico y abonos elaborados.
