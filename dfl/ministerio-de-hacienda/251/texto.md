@@ -972,6 +972,8 @@ Propuesto un convenio judicial o declarada la quiebra de una compañía de segur
 
 Declarada la quiebra, el síndico podrá citar a la junta de acreedores establecida en la ley N° 18.175, cuando lo estime necesario, para informar sobre el estado de los negocios de la fallida, sobre sus activos y pasivos, sobre la marcha del proceso de quiebra, y, en general, para proponer a la junta cualquier acuerdo que estime necesario para el más adecuado cumplimiento de las funciones que le competen.
 
+En la realización del activo de la quiebra, el síndico dispondrá de las facultades previstas en el artículo 109 de la ley Nº 18.175, sin sujeción a los límites que éste establece.
+
 #### Artículo 81
 
 En todas las quiebras de compañías de seguros, el tribunal, al día siguiente hábil a dicha declaración, dará aviso de ella por oficio al Ministerio Público e indicará todos los datos que permitan individualizar la persona del fallido.
@@ -983,6 +985,8 @@ Se presume que la quiebra es culpable si las reservas técnicas y el patrimonio 
 #### Artículo 82
 
 Declarada la quiebra de una compañía de seguros, el síndico podrá traspasar toda o parte de la cartera y negocios a una o más compañías en los términos señalados en el inciso primero del artículo 74, y los asegurados podrán poner término anticipado al contrato en que estén pendientes los riesgos, en cuyo caso tendrán derecho a la devolución proporcional de la prima en el concurso.
+
+Tratándose de la quiebra de una compañía de seguros del segundo grupo, cuyas reservas técnicas por seguros de renta vitalicia regidos por el decreto ley Nº 3.500, de 1980, no estén suficientemente respaldadas por inversiones, la Superintendencia podrá autorizar el traspaso de dichos seguros, sujetando el pago de las pensiones pactadas a un plazo determinado. En la autorización del traspaso de cartera, para efectos, de lo establecido en el artículo 82 del citado decreto ley, se determinará la fecha a partir de la cual se hará efectiva la garantía estatal.
 
 #### Artículo 83
 
