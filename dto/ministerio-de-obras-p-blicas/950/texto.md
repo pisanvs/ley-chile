@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 950, de 30 de septiembre de 1997, se expropió el lote de terreno Nº 2, superficie 15.330 m2., rol de avalúo 1165-41, comuna de Maipú, para la obra Camino Autopista Santiago - San Antonio, sector Empalme I. Riquelme - Bif. Malloco (Sector Rural) y se acordó el valor de indemnización con su propietaria Inmobiliaria Maullín Ltda., ascendente a la cantidad de $115.689.109.-
+
+Fiscal del Ministerio de Obras Públicas.
