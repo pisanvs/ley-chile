@@ -1,0 +1,9 @@
+Por Resolución N° 573, de 4 de Agosto de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a EMPRESA PESQUERA EPERVA S.A., R.U.T. N° 91.643.000-0, para ampliar actividades pesqueras, que tiene autorizadas por Resoluciones N° 396, de 1980 y N° 350, de 1983, ambas de esta Subsecretaría, en orden a operar la embarcación, a "Eperva 52" autorizada por las Resoluciones señaladas precedentemente en el litoral de las Regiones que se indican a continuación donde podrá extraer los siguientes recursos hidrobiológicos: Litoral entre la III y IV Región, con cerco: Agujilla, Anchoa o Anchoveta, Bonito, Caballa, Machuelo, Jurel, Sardina Española, Bacaladillo, Roncacho, Pejerrey y Palometa.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas y recursos no mencionados en esta Resolución, en virtud de los informes y disposiciones legales y reglamentarias citadas en Visto.
+
+Déjase sin efecto la autorización para realizar faenas de pesca extractiva otorgada por el Decreto Supremo N° 260, de 1975, del Ministerio de Agricultura en lo que respecta a la nave "Tirana" y la Resolución N° 115, de 1980, en lo que respecta a las naves "Eperva 52" y "Eperva 54", en virtud de lo dispuesto en las Resoluciones N° 396, de 1980; N° 30, de 1981; N° 274, de 1982; N° 350, de 1983 y N° 1182, de 1987, todas de esta Subsecretaría.
+
+Valparaíso, 4 de Agosto de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
