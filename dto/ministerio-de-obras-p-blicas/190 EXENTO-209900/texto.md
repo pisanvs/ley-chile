@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº190 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº19, superficie 1.470 m2, Rol Nº524-302, comuna de La Unión, X Región, para la obra "Camino Ruta T-80, Sector La Unión-Las Trancas Km.0,900 a Km. 10,99034" y se acordó el valor de indemnización con su propietaria María Carolina Grob Anwandter, ascendente a la cantidad de $1.093.098.
+
+Fiscal del Ministerio de Obras Públicas.
