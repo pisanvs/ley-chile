@@ -1,0 +1,3 @@
+Por resolución Nº 1.183, de 11 de junio de 2002, de esta Subsecretaría, recházase la solicitud de modificacióin de proyecto técnico de acuicultura Nº 200104038 presentada por SALMONES PACIFICO SUR S.A., para la concesión ubicada en Isla Abtao, Punta Quilque, X Región, autorizada por resoluciones Nº 1.938 de 1996 y Nº 1.537 de 1999, ambas de la Subsecretaría de Marina.
+
+Valparaíso, 11 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
