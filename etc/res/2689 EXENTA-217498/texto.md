@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.689, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 2.320 de 2003, de esta Subsecretaría, que autorizó a la PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto " Distribución y abundancia de Langostino colorado y Langostino amarillo en la región centro-sur (octubre, 2003), segunda etapa" , en el sentido de señalar que la pesca de investigación se extenderá hasta el 15 de noviembre de 2003.
+
+Valparaíso, 31 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
