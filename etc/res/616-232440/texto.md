@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 616, 20 octubre 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Bajón Nº 16, Rol de Avalúo Nº 2758-22, comuna Chiguayante, superficie 181,8 metros cuadrados de terreno y 46,2 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 16.588, de aparente dominio de José D. Cifuentes Orellana, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Mario Bellolio Bosticca, arquitecto, Italo Zerga Arancibia, constructor civil y Lía Fuentealba Rohland, arquitecto, según informe de fecha 7 de mayo 2004, fijó monto provisional indemnización en $17.889.190.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
