@@ -1,0 +1,3 @@
+Por resolución Nº 2.299, de 11 de noviembre de 1999 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 536 de 1991, de esta Subsecretaría, en cuanto autorizó a SOCIEDAD PESQUERA COLOSO S.A., para operar la nave ''Til Til'', matrícula 2197 en el litoral de la III y IV Regiones, en la captura de los recursos hidrobiológicos Anchoveta y Sardina española, de conformidad con lo establecido en el inciso segundo de la letra b) del artículo 143 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de noviembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
