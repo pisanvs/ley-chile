@@ -1,0 +1,3 @@
+Por decreto MOP Nº 289, de fecha 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 77, 78, 81 y 84, superficies 3.172 m2, 1.560 m2, 801 m2 y 2.735 m2, respectivamente, rol de avalúo 38-1, comuna de Requínoa, para la obra "Camino Caletones - Termas de Cauquenes, Conexión Ruta 5 Sur, Roles H-255, H-35, II-405, Sector Coya Gultro Km. 0,00000 a Km. 28,38019" y se acordó el valor de indemnización con su propietario Asoc. de Canales de la Ribera Sur del Cachapoal, ascendente a la cantidad de $20.246.617.-
+
+Fiscal del Ministerio de Obras Públicas.
