@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.076, de 30 de julio de 1999, se expropió el lote de terreno Nº 14, superficie 1.354 M2, rol de avalúo 12027-7, comuna de San Pedro, para la obra reposición Puente Bío-Bío Antiguo, Ruta 160 Concepción-San Pedro, Sector San Pedro, Enlace 3 y se acordó precio de indemnización con sus propietarios Aldo Lucidio Buglioni Navarrete y otros, ascendente a la cantidad de $133.486.119.
+
+- Fiscal del Ministerio de Obras Públicas.
