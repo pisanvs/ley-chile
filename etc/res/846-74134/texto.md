@@ -1,0 +1,3 @@
+Por Resolución Nº 846 de 20 de junio de 1997 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; autorízase a PESQUERA E INVERSIONES LIUCURA S.A., para continuar desarrollando las actividades pesqueras autorizadas a Pesquera San Bernardo S.A., en virtud de la escritura pública y disposiciones legales.
+
+Valparaíso, 20 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
