@@ -106,7 +106,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Construcción por partes»: ejecución de las obras de edificación o urbanización de un proyecto por partes que pueden recepcionarse independientemente.
 
-«Construcción simultánea»: obras de edificación que se ejecutan conjuntamente con la subdivisión y las obras de urbanización del suelo, cuyos permisos y recepciones definitivas parciales o totales se otorgan y cursan, respectivamente, en forma conjunta.
+«Construcción simultánea»: obras de edificación que se ejecutan conjuntamente con la subdivisión y las obras de urbanización del suelo, cuyos permisos y recepciones definitivas parciales o totales se otorgan y cursan respectivamente en forma conjunta. Se entenderá también que existe construcción simultánea en aquellos loteos en que previa autorización del Director de Obras Municipales, se garantice la ejecución de las obras de urbanización del suelo, siempre que las obras de edificación hayan sido ejecutadas y las edificaciones puedan habilitarse independientemente.
 
 «Constructor»: profesional competente que tiene a su cargo la ejecución de una obra sometida a las disposiciones de la Ley General de Urbanismo y Construcciones. Se entenderá también por «Constructor», la persona jurídica en cuyo objetivo social esté comprendida la ejecución de obras de construcción y urbanización y que para estos efectos actúe a través de un profesional competente.
 
@@ -138,7 +138,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Desmonte»:rebaje de terrenos no rocosos en la ladera de un cerro, que no requiere refuerzo estructural.
 
-«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.
+«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.".
 
 «Ducto» (Shaft) : conducto técnico generalmente destinado a contener las instalaciones de un edificio.
 
@@ -350,7 +350,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Revisor independiente»: profesional competente, con inscripción vigente en el correspondiente Registro del Ministerio de Vivienda y Urbanismo, que verifica e informa al respectivo Director de Obras Municipales que los anteproyectos, proyectos y obras cumplen con todas las disposiciones legales y reglamentarias pertinentes. Se entenderá también como tal, la persona jurídica en cuyo objetivo social esté comprendido dicho servicio y que para estos efectos actúe a través de un profesional competente.
 
-«Saldo predial»: sitio cuya superficie o frente, por efecto de una expropiación o cesión obligatoria, resulta menor a la subdivisión o frente predial mínimos establecidos en el Instrumento de Planificación Territorial respectivo.
+«Saldo predial»: sitio cuya superficie, por efecto de una expropiación o cesión obligatoria, resulta menor a la subdivisión predial mínima establecida en el Instrumento de Planificación Territorial respectivo.
 
 «Sector»: DEROGADO.
 
@@ -424,7 +424,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
-«Volumen de la edificación«: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
+«Volumen de la edificación»: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
 
 «Volumen teórico»: volumen o envolvente máxima, expresado en metros cúbicos, resultante de la aplicación de las disposiciones sobre superficies de rasante, distanciamientos, antejardines y alturas máximas, cuando las hubiere, en un terreno determinado.
 
@@ -444,7 +444,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
 
-> **Nota.** NOTA 2 El artículo primero transitorio del decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
+> **Nota.** NOTA 2 El artículo primero transitorio del decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
@@ -1592,6 +1592,8 @@ Asimismo, si el citado predio estuviere afecto por el Instrumento de Planificaci
 
 1.22. Los Instrumentos de Planificación Territorial que fijen densidad, deberán expresarla en habitantes por hectárea y se entenderá que su equivalencia o conversión en número de viviendas será igual al valor que resulte de dividir la densidad establecida por el coeficiente 4.
 
+Sin perjuicio de lo anterior, para los efectos de la densidad aplicable a los conjuntos de viviendas que se desarrollen en edificación colectiva, con excepción de los conjuntos de viviendas sociales, su equivalencia o conversión en número de viviendas será igual al valor que resulte de dividir la densidad establecida en el Instrumento de Planificación Territorial por 2 cuando la superficie total de la vivienda no supere los 35 m² y no considere más de 2 recintos habitables y por 1 cuando la superficie total de la vivienda no supere los 25 m² y no considere más de 1 recinto habitable.
+
 Para estos efectos, la superficie de terreno a considerar será la del predio en que se emplazará el proyecto, sin descontar áreas declaradas de utilidad pública que pudieran afectarlo, ni superficies de terreno que pudieran anexársele por distintos motivos.
 
 Cuando la declaratoria de utilidad pública por concepto de vialidad afecte al terreno en un porcentaje mayor que lo que debería entregar, para efectos de calcular la densidad neta se considerará el terreno total, restándole sólo el 30%.
@@ -1700,9 +1702,9 @@ Las áreas verdes públicas o privadas señaladas como tales en los Instrumentos
 
 #### Artículo 2
 
-1.32. Para los efectos de armonizar los diversos equipamientos con otros usos de suelo, o de aquéllos entre sí, los Instrumentos de Planificación Territorial que correspondan podrán distinguir escalas y clases de equipamiento, como también limitar o fomentar actividades específicas dentro de tales escalas y clases.
+1.32. Para los efectos de armonizar los diversos equipamientos con otros usos de suelo, o de aquellos entre sí, los Instrumentos de Planificación Territorial que correspondan podrán distinguir clases de equipamiento y limitar o fomentar actividades específicas dentro de cada una de las clases.
 
-En aquellos casos que un Instrumento de Planificación Territorial asigne a un predio o sector el uso de suelo de equipamiento, sin especificar alguna escala o clase del mismo, se entenderá que se admite cualquiera de ellas, de acuerdo a los parámetros establecidos en los artículos 2.1.33. y 2.1.36., cumpliendo con las normas de edificación que correspondan al citado predio o sector.
+En aquellos casos que un Instrumento de Planificación Territorial asigne a un predio o sector el uso de suelo de equipamiento, sin especificar alguna clase del mismo, se entenderá que se admite cualquiera de ellas, de acuerdo a los parámetros establecidos en los artículos 2.1.33. y 2.1.36., cumpliendo con las normas de edificación que correspondan al citado predio o sector.
 
 #### Artículo 2
 
@@ -1738,7 +1740,7 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 #### Artículo 2
 
-1.35. Las escalas o niveles de equipamiento se refieren a la magnitud o tamaño de las construcciones con tal destino, según la medida del efecto que produzcan en materia de ruidos, flujos vehiculares y eventualmente peatonales, de acuerdo al tipo de vía que enfrentan, sean éstas existentes, proyectadas o previstas en el Instrumento de Planificación Territorial, al número de personas contemplado según carga de ocupación, y a las condiciones sanitarias del proyecto.
+1.35. Las escalas o niveles de equipamiento se refieren a la magnitud o tamaño de las construcciones con tal destino, según la medida del efecto que produzcan en materia de ruidos, flujos vehiculares y eventualmente peatonales, de acuerdo al tipo de vía existente que enfrentan, al número de personas contemplado según carga de ocupación, y a las condiciones sanitarias del proyecto. Para los efectos de lo dispuesto en el presente artículo, se entenderá como vía existente aquella vía materializada y conectada con otra vía existente cuyo ancho de calzada sea igual o superior.
 
 En aquellos casos en que los Instrumentos de Planificación Territorial vigentes se refieran a niveles, escalas o denominaciones similares del equipamiento, sea que dichos niveles se denominen vecinal, comunal, intercomunal, metropolitano, regional o similares, cualquiera sea su tipo, se entenderán automáticamente reemplazados por las "escalas" señaladas en los artículos siguientes.
 
@@ -1918,7 +1920,7 @@ Sin embargo, se deberán considerar las obras de infraestructura de agua potable
 
 Asimismo, la aprobación del loteo estará sujeta a las cesiones gratuitas de terreno dispuestas en el artículo 70 del mismo cuerpo legal y en el artículo 2.2.5. de este mismo Capítulo, las que se perfeccionarán al momento de la recepción definitiva de las obras de urbanización. En caso que el proyecto consulte recepciones parciales, el propietario deberá entregar, al menos, las superficies de cesión en forma proporcional a la superficie de terreno que represente cada una de dichas partes.
 
-Cuando se trate de "loteos con construcción simultánea", se seguirán las mismas reglas de este artículo. No obstante, para la recepción de las edificaciones deberán haberse recibido previamente las obras de urbanización, salvo que se solicite una recepción conjunta, en ambos casos de conformidad a los artículos 3.4.3. y 5.2.5. de esta Ordenanza.
+Cuando se trate de "loteos con construcción simultánea", se seguirán las mismas reglas de este artículo. No obstante, para la recepción de las edificaciones deberá haberse recibido o garantizado previamente las obras de urbanización, salvo que se solicite una recepción conjunta, de conformidad a lo establecido en los artículos 3.3.1., 3.4.3. y 5.2.5. de esta Ordenanza.
 
 2. Cuando se trate de proyectos acogidos a la ley Nº 19.537, sobre copropiedad inmobiliaria, cuyo predio esté afecto a utilidad pública por el Instrumento de Planificación Territorial.
 
@@ -2244,7 +2246,7 @@ Los pasajes sin salida consultarán, en el extremo opuesto a su empalme con la v
 
 Los pasajes no podrán consultar acceso vehicular a edificios colectivos de más de tres pisos de altura.
 
-En el fondo de los pasajes los sitios no requieren cumplir un frente predial mínimo.
+ELIMINADO.
 
 La longitud de los pasajes se medirá en su eje, a partir de la línea oficial de la calle que les da acceso.
 
@@ -2582,7 +2584,7 @@ b) Estar emplazado en un terreno que constituya en sí una manzana existente, re
 
 c) Estar emplazado en un terreno resultante de una fusión predial, conforme al artículo 63 del D.F.L. N° 458, de Vivienda y Urbanismo, de 1975, siempre que su superficie no sea inferior a 2.500 m2.
 
-En los casos a que se refieren las letras a), b) y c) precedentes, los terrenos deberán deslindar, al menos por uno de sus costados, con una calle existente o consultada en el Plan Regulador respectivo, de un ancho mínimo de 20 m., con calzada de un ancho total mínimo de 13 m.
+En los casos a que se refieren las letras a), b) y c) precedentes, los terrenos deberán deslindar, al menos por uno de sus costados, con una calle existente o consultada en el Plan Regulador respectivo, de un ancho mínimo de 20 m., con calzada de un ancho total mínimo de 14 m.
 
 2.- Condición de uso:
 
@@ -3152,6 +3154,8 @@ Si por razones de fuerza mayor o caso fortuito, debidamente acreditados ante la 
 
 En los certificados de urbanización que se extiendan de acuerdo a lo dispuesto en el inciso tercero del artículo 136 de la Ley General de Urbanismo y Construcciones, se deberá dejar constancia que la urbanización se encuentra garantizada.
 
+En los loteos con construcción simultánea y en los Loteos D.F.L. Nº 2, las Direcciones de Obras podrán autorizar que se garantice la ejecución de las obras de urbanización pendientes, siempre que las obras de edificación respectivas hayan sido ejecutadas y las edificaciones puedan habilitarse independientemente.
+
 ## Capítulo 4
 
 DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
@@ -3510,15 +3514,27 @@ Los Planes Reguladores Comunales, según sean las características ambientales, 
 
 #### Artículo 4
 
-1.14. Las fachadas de un mismo edificio colectivo con vanos de recintos habitables de distintas unidades independientes deberán contemplar entre ellas una distancia mínima libre horizontal de 6 m, y las fachadas o sectores de ellas sin dichos vanos deberán conservar una distancia mínima libre horizontal de 3 m, en ambos casos medida en forma perpendicular a los vanos o la fachada respectiva.
+1.14. En un mismo edificio colectivo las fachadas de unidades independientes deberán cumplir las siguientes distancias mínimas:
 
-Se exceptúan de la distancia mínima indicada en el inciso anterior las fachadas sin vanos y las fachadas con vanos de recintos no habitables cuyos vanos estén ubicados a más de 1,80 m de altura con respecto al piso del recinto.
+1. Entre las fachadas con vano de recintos habitables y las fachadas con vano, deberá contemplarse una distancia mínima libre horizontal de 6 metros.
+
+2. Entre las fachadas con vano de recintos habitables y las fachadas sin vano, deberá contemplarse una distancia mínima libre horizontal de 3 metros.
+
+3. Entre las fachadas con vano de recintos no habitables deberá contemplarse una distancia mínima libre horizontal de 3 metros.
+
+Se exceptúan de cumplir con las distancias mínimas establecidas en el inciso anterior, las fachadas con vano de recintos no habitables que se enfrenten a fachadas sin vano y las fachadas sin vano que se enfrenten entre sí.
 
 #### Artículo 4
 
-1.15. Los conjuntos de viviendas unifamiliares, en extensión de hasta 3 pisos de altura, estén o no acogidos al régimen de copropiedad inmobiliaria, deberán contemplar una distancia mínima libre horizontal frente a los vanos de recintos habitables, equivalente a 4,0 m cuando enfrenten vanos de recintos habitables de otra vivienda, y a 2,0 m cuando no enfrenten vanos de recintos habitables. En esta última situación se incluyen los vanos de recintos habitables que enfrentan un muro de cierro, un muro de fachada sin vano de recinto habitable o un muro de fachada con vano pero de recinto no habitable.
+1.15. En los conjuntos de viviendas unifamiliares en extensión de hasta 3 pisos de altura, estén o no acogidos al régimen de copropiedad inmobiliaria, las fachadas de las viviendas o partes de estas fachadas, deberán contemplar, entre ellas, las siguientes distancias mínimas:
 
-Lo dispuesto en el inciso anterior no será exigible en el caso de fachadas o partes de las mismas que no consulten vanos o que consultándolos éstos correspondan a recintos no habitables, las que no deben cumplir ninguna distancia mínima libre.
+1. Entre las fachadas con vano de recintos habitables deberá contemplarse una distancia mínima libre horizontal de 4 metros.
+
+2. Entre las fachadas con vano de recintos habitables y las fachadas sin vano deberá contemplarse una distancia mínima libre horizontal de 2 metros. En esta última situación se incluyen las fachadas con vano de recintos habitables que enfrenten un cierro o una fachada con vano de recinto no habitable.
+
+3. Entre las fachadas con vano de recintos no habitables deberá contemplarse una distancia mínima libre horizontal de 2 metros.
+
+Se exceptúan de cumplir con las distancias mínimas establecidas en el inciso anterior las fachadas con vano de recintos no habitables que se enfrenten a fachadas sin vano y las fachadas sin vano que se enfrenten entre sí.
 
 #### Artículo 4
 
@@ -4294,13 +4310,13 @@ Se exceptúan de lo indicado en el inciso anterior los edificios que cuenten con
 
 Sin perjuicio de los requisitos específicos que establezcan las normas técnicas oficiales correspondientes, serán exigibles para las zonas de seguridad de dichos edificios, las siguientes normas generales:
 
-1. La distancia máxima desde la puerta de acceso de un departamento u oficina, hasta el ingreso a una zona vertical de seguridad del mismo piso será de 38 m.
+1. La distancia máxima desde la puerta de acceso de un departamento u oficina, hasta el ingreso a una zona vertical de seguridad del mismo piso será de 40 m.
 
 2. El diseño, construcción y terminaciones de las zonas verticales de seguridad y su continuidad hasta el egreso al exterior, a nivel de la calle, deben garantizar una resistencia al fuego correspondiente a la que se indica en la tabla del artículo 4.3.3. y facilitar el ingreso y desplazamiento del personal de bomberos con su material, en caso de incendio.
 
 3. Las zonas verticales de seguridad deben estar dotadas de sistemas de iluminación de emergencia y de ventilación o presurización en caso de escaleras interiores, que permitan a los usuarios evacuar el edificio, sin peligro de verse afectados por los humos y gases generados por el incendio, aun cuando el suministro normal de energía eléctrica sea interrumpido.
 
-4. Las puertas de acceso o egreso, en todos los pisos, deberán ser de cierre automático y con resistencia a la acción del fuego, tanto la hoja como sus componentes, correspondientes a la clase F-30. Todas ellas deberán estar señalizadas con el distintivo "Salida de Emergencia" por la cara que corresponda.
+4. Las puertas de acceso o egreso, en todos los pisos, deberán ser de cierre automático y con resistencia a la acción del fuego, tanto la hoja como sus componentes, correspondientes a la clase F-60. Todas ellas deberán estar señalizadas con el distintivo "Salida de Emergencia" por la cara que corresponda.
 
 PARRAFO SUPRIMIDO.
 
@@ -4317,6 +4333,8 @@ a) Que desde la escalera se acceda a un área de uso común con un ancho mínimo
 b) Que las salidas de la red seca y la red húmeda se ubiquen en dicha área común a no más de 2,0 m de la puerta de la escalera, separadas por al menos 4,0 m de la puerta de cualquier unidad funcional independiente.
 
 9. Los ductos de toma de aire de los equipos de presurización de las escaleras deberán contemplar una resistencia mínima al fuego de F-60 en toda su extensión.
+
+> **Nota.** La letra b) del Nº11 del Decreto 183, vivienda, publicado 22.03.2005, modifica el presente artículo en el sentido de reemplazar en su numeral 4. el guarismo "F-30" por "F-60". Dicha modificación, de acuerdo al artículo transitorio del citado decreto comenzará a regir una vez transcurrido un año desde la fecha de su publicación.
 
 #### Artículo 4
 
@@ -6104,7 +6122,17 @@ DE LOS PERMISOS DE EDIFICACION Y SUS TRAMITES
 
 6. Piscinas privadas a más de 1,5 m del deslinde con predios vecinos.
 
-7. Instalación de antenas. En este caso el interesado deberá presentar a la respectiva Dirección de Obras Municipales, con una antelación de al menos 15 días, un aviso de instalación y un plano que grafique el cumplimiento de las disposiciones previstas en el artículo 2.6.3. Dicho plano deberá ser suscrito por el propietario del predio donde se efectuará la instalación y por el operador responsable de la antena. La instalación de antenas adosadas a edificios existentes no requerirá del mencionado aviso.
+7. Instalación de antenas de telecomunicaciones. En este caso el interesado deberá presentar a la Dirección de Obras Municipales, con una antelación de al menos 15 días, un aviso de instalación, adjuntando los siguientes documentos:
+
+a) Plano que cumpla con lo dispuesto en los incisos decimoquinto al decimoséptimo del artículo 2.6.3. de la presente Ordenanza. Dicho plano deberá ser suscrito por el propietario del predio donde se efectuará la instalación y por el operador responsable de la antena.
+
+b) Plano de estructura de los soportes de la antena firmado por un profesional competente.
+
+c) Autorización del Ministerio de Transportes y Telecomunicaciones, en conformidad a lo establecido en la ley Nº 18.168 Ley General de Telecomunicaciones.
+
+d) Instrumento en que conste el cumplimiento de los requisitos establecidos por la Dirección General de Aeronáutica Civil, cuando corresponda.
+
+La instalación de antenas adosadas a edificios existentes no requerirá del mencionado aviso.
 
 #### Artículo 5
 
@@ -8432,7 +8460,7 @@ Corresponderá a la Secretaría Regional Ministerial de Vivienda y Urbanismo res
 
 Sin perjucio de lo anterior, los conjuntos de que trata este artículo deberán cumplir con las disposiciones de restricción, reserva y protección establecidas por los organismos públicos competentes de acuerdo a sus facultades legales y las establecidas en los Instrumentos de Planificación Territorial.
 
-Para solicitar las autorizaciones de los conjuntos de viviendas de que trata este artículo se estará al procedimiento contemplado en los artículos 3.1.7. y 5.1.6. de esta Ordenanza y se tramitará como loteo con construcción simultánea, en el cual se ejecuta simultáneamente la urbanización y la construcción de las edificaciones.
+Para solicitar las autorizaciones de los conjuntos de viviendas de que trata este artículo se estará al procedimiento contemplado en los artículos 3.1.7. y 5.1.6. de esta Ordenanza y se tramitará como loteo con construcción simultánea, en conformidad a lo dispuesto para tales efectos en el artículo 1.1.2. de la presente Ordenanza.
 
 #### Artículo 6
 
