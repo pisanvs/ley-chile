@@ -10480,21 +10480,21 @@ Además de los créditos que cumplan con esas características, se considerarán
 
 3.2. Procedimiento para la clasificación de los créditos de consumo.
 
-La determinación del riesgo involucrado en la cartera de créditos de consumo, por el gran número que ellos representan, se mide sobre bases agregadas según el comportamiento global de la morosidad observada.
+Los créditos de consumo se clasificarán de acuerdo con la morosidad de las obligaciones de sus deudores.
 
-En concordancia con lo expresado anteriormente, los créditos de consumo deben clasificarse según la morosidad de sus saldos, conforme a lo siguiente:
+Para este efecto, se considerará la siguiente situación de morosidad, debiendo quedar clasificado, en la categoría que corresponda, el saldo de los préstamos de consumo que se señalan:
 
-i) Categoría "A": el saldo de los préstamos de consumo con sus cuotas al día;
+i) Categoría "A": préstamos cuyos deudores mantienen todos sus pagos al día;
 
-ii) Categoría "B": el saldo de préstamos de consumo cuyas cuotas presentan un atraso de hasta un mes;
+ii) Categoría "B": préstamos cuyos deudores presentan atrasos no superiores a un mes;
 
-iii) Categoría "B-": el saldo de los préstamos de consumo cuyas cuotas atrasadas presentan un atraso superior a un mes y hasta dos meses;
+iii) Categoría "B-": préstamos cuyos deudores presentan atrasos superiores a un mes y hasta dos meses;
 
-iv) Categoría "C": el saldo de los préstamos de consumo con cuotas atrasadas por más de dos meses y hasta cuatro meses; y,
+iv) Categoría "C": préstamos cuyos deudores presentan atrasos de más de dos meses y hasta cuatro meses; Y,
 
-v) Categoría "D": el saldo de los préstamos de consumo con cuotas atrasadas por más de cuatro meses.
+v) Categoría "D": préstamos cuyos deudores mantienen atrasos por más de cuatro meses.
 
-En el caso de créditos correspondientes a tarjetas de crédito, se entenderá que la cuota que determina la morosidad conforme a las instrucciones precedentes, corresponde al pago mínimo u obligación exigible más antigua que no haya sido totalmente cubierta.
+El atraso a que se refieren los literales precedentes debe determinarse considerando la obligación que por más tiempo mantiene impaga el deudor, sea ésta una cuota o un pago mínimo exigido, como ocurre en el caso de tarjetas de crédito. En todo caso, si un deudor mantiene más de un crédito de consumo, todos ellos quedarán clasificados según el máximo atraso de su deudor.
 
 ### 4. Clasificación de la cartera de préstamos hipotecarios para la vivienda
 
@@ -10558,7 +10558,7 @@ c) Que las políticas para el tratamiento de los créditos en mora consideren cr
 
 d) Un adecuado sistema de control interno, que asegure el cumplimiento de los procedimientos establecidos para: la selección de deudores; autorización y otorgamiento de los créditos; las novaciones, renegociaciones y cambios en las condiciones de pago en general; la cobranza prejudicial y judicial; y, los castigos contables.
 
-En síntesis, deberá estimarse el riesgo adicional cuando las políticas crediticias no se ajusten a sanos criterios financieros o cuando el riesgo de la cartera de créditos de consumo no responda solamente a los factores previstos en el establecimiento de dichas políticas, sino que se vea afectado por omitirse su cumplimiento debido a un control interno deficiente.
+En síntesis, deberá estimarse el riesgo adicional cuando las políticas, procedimientos y controles internos no aseguren que la morosidad obedecerá sólo a situaciones impredecibles y propias de algunos deudores en particular. Así por ejemplo, resulta clara la existencia de un riesgo adicional si la institución financiera no verifica apropiadamente los antecedentes de los deudores, si en la práctica pasan a ser habituales las renegociaciones o reestructuraciones de deudas, o si la institución otorga con cierta frecuencia nuevos créditos para solucionar deudas anteriores.
 
 5.2.2. Necesidad de calcular el riesgo adicional en los créditos hipotecarios para la vivienda.
 
@@ -10572,9 +10572,55 @@ En caso de que el comportamiento objetivo de la cartera se aparte de las pautas 
 
 Dicha metodología deberá incorporar los aspectos o variables de riesgo relevantes para la situación que presente la cartera, como por ejemplo: el comportamiento de pago, tanto en lo que se refiere a las amortizaciones realizadas al préstamo original como al número de renegociaciones efectuadas, el nivel de endeudamiento, el comportamiento de pago en otras instituciones financieras y antecedentes del Boletín de Informaciones Comerciales, la estabilidad y suficiencia de los ingresos, etc.
 
-Los criterios seguidos por la institución financiera para determinar, cuando corresponda, el riesgo adicional de que se trata, como asimismo la aplicación de la metodología establecida, deberán quedar debidamente documentados o respaldados, debiendo contemplarse todos los elementos de control y de información que permitan asegurar y verificar su correcta aplicación y perfeccionar dicha metodología en caso de que se muestre insuficiente.
+Para determinar el riego adicional de la cartera de créditos de consumo, las instituciones financieras deberán utilizar las siguientes matrices de riesgo, de cuyo procesamiento se obtendrá el riesgo adicional que debe provisionarse como complemento a la clasificación de la cartera:
 
-En todo caso, como ya se indicó, se presumirá que no es necesario establecer el riesgo adicional, si en el otorgamiento y administración de estos créditos se han observado adecuadamente los criterios señalados en los numerales precedentes.
+a) Matriz para créditos renegociados.
+
+Esta matriz incluirá a todos los deudores que mantengan algún crédito renegociado, entendiéndose por tal al que haya sido reprogramado, refinanciado o que haya sido objeto de cualquier forma de readecuación del pago.
+
+Se entiende que todos los créditos que deben incluirse en esta matriz, contienen un riesgo adicional al que se recoge a través de la clasificación de la cartera y que mientras más operaciones renegociadas se hayan cursado a un mismo deudor, mayor será el riesgo que la institución debe reconocer para efectos de provisiones.
+
+Los préstamos otorgados para cancelar obligaciones castigadas, al igual que los créditos castigados que sean objeto de renegociaciones, deberán tener una ponderación especial que cubrirá, en un inicio, la totalidad del crédito.
+
+Mientras el deudor no demuestre un comportamiento de pago efectivo, no puede considerarse un menor riesgo para los créditos que conforman esta matriz.
+
+En la matriz deberán considerarse como mínimo las siguientes variables:
+
+- Clasificación que tenía el crédito que fue objeto de renegociación.
+
+- Desembolsos efectivos con recursos propios por parte del deudor al momento de la renegociación.
+
+- Información disponible del comportamiento de pago del deudor en el sistema financiero al momento que la institución le otorgue el nuevo crédito.
+
+- Ultima información disponible de ese comportamiento.
+
+- Otros antecedentes comerciales y de morosidad disponibles en el mercado.
+
+- Número de veces en que se ha concedido este tipo de créditos a lo largo del tiempo.
+
+- Plazo al cual está pactada la nueva operación.
+
+- Existencia de un período de gracia para la nueva operación.
+
+- Comportamiento de pago en la renegociación a lo largo del tiempo.
+
+- Relación existente entre toda la deuda registrada en el sistema financiero y en otras instituciones y el ingreso real del deudor.
+
+b) Matriz para el otorgamiento y seguimiento de créditos.
+
+Para la elaboración de esta matriz se deberán considerar, al menos, las siguientes variables, las cuales determinarán la necesidad de reconocer un riesgo adicional, según los casos:
+
+- Información disponible de comportamiento de pago del deudor en el sistema financiero.
+
+- Otros antecedentes comerciales y de morosidad disponibles en el mercado.
+
+- Plazo del crédito.
+
+- Existencia de un período de gracia.
+
+- Relación existente entre toda la deuda registrada en el sistema financiero y en otras instituciones y el ingreso real del deudor.
+
+Los criterios seguidos para la construcción de las matrices de riesgo antes señaladas deberán quedar debidamente documentados, debiendo contemplarse todos los elementos de control y de información que permitan asegurar y verificar su correcta aplicación y perfeccionar la metodología en caso de que se muestre insuficiente. La eficacia de las matrices para determinar los riesgos adicionales sobre la base de una prudente ponderación de las variables descritas, será determinante para la calificación de la institución financiera según lo indicado en el título I de este Capítulo.
 
 ### 6. Pérdida estimada de la cartera
 
@@ -10660,7 +10706,7 @@ En todo caso, si se otorga un nuevo crédito que tenga alguna de las caracterís
 
 8.5. Riesgos adicionales de la cartera clasificada según su morosidad.
 
-La revisión de esta Superintendencia incluirá también el examen de la razonabilidad del eventual riesgo adicional que hubiera reconocido la institución de acuerdo con lo establecido en el numeral 5.2 de este título o de la necesidad de reconocer tal riesgo adicional.
+La revisión de esta Superintendencia incluirá también el examen del riesgo adicional reconocido por la institución de acuerdo con lo establecido en el numeral 5.2 de este título.
 
 En caso de observarse que el riesgo adicional determinado por la institución financiera no se ajusta a la realidad examinada o en el evento de que los sistemas de información no permitan la aplicación de una metodología adecuada para determinar el riesgo adicional de que se trata, este Organismo Fiscalizador podrá establecer la necesidad de reconocer un mayor riesgo potencial de dicha cartera.
 
