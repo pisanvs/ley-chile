@@ -1,0 +1,5 @@
+Por Resolución Nº 138, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CONSUELO DEL CARMEN FREIRE SAAVEDRA, R.U.T. Nº 6.450.307-3, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en calle Atacama Nº 73, Taltal, en las líneas de elaboración de Congelado y Fresco-refrigerado, los siguientes recursos hidrobiológicos: Acha, Agujilla, Apañado, Corvina, Dorado, Lisa, Palometa, Pejeperro, Pejesapo, Pejerrey de mar, Raya, Reineta, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón rosado, Sargo, Sierra, Tollo, Tomoyo, Trucha arcoiris, Turbot, Vidriola o palometa, Vieja o mulata, Calamar, Chitón espinoso, Loco, Tumbao, Camarón nailon, Camarón de río, Centolla del norte, Centollón del norte, Gamba, Jaiba limón, Jaiba marmola, Jaiba peluda o pachona, Jaiba reina, Jaiba remadora.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
