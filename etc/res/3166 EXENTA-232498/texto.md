@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.166, de 2 de noviembre de 2004 de esta Subsecretaría, autorízase a PESQUERA ITATA S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Barrio Industrial s/n, Caldera, III Región, en las líneas de proceso de Harina y Aceite, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 2 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
