@@ -1,0 +1,3 @@
+Por resolución Nº502, de 3 de marzo de 2000, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº97082006, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, LANCHEROS Y ACTIVIDADES CONEXAS DE CALETA LOTA BAJO, para operar un centro de cultivo ubicado en Caleta Colcura, comuna de Lota, provincia de Concepción, VIII Región.
+
+Valparaíso, 3 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
