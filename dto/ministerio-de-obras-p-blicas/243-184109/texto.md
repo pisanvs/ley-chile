@@ -1,0 +1,5 @@
+Por decreto MOP Nº 243, de 27 de febrero de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 12-A, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca y Acceso Sur a Santiago. Sector: Km.
+
+68.400,00 al Km. 95.600,00", Sexta Región, que figura a nombre de José Horacio Alvarez Maturana, inscrito a Fojas 7713 Nº 6031, Registro de Propiedad año 1994, C.B.R. Rancagua, rol de avalúo 141-34, comuna de Codegua, superficie 27.500 m2. La comisión de peritos integrada por los señores Orlando Antonio Fariña Vásquez, Manuel Hernán Díaz Farfán y René Octavio Corvalán Correa, fijó con fecha 31 de agosto de 2000, el valor provisional de la indemnización en la cantidad de $58.321.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
