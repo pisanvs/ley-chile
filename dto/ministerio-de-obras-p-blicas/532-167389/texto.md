@@ -1,0 +1,3 @@
+Por decreto MOP Nº 532, de 28 de febrero del 2000, se expropiaron los lotes de terreno Nºs. 181-A y 182-A, superficies 1.127 m² y 615 m², rol de avalúo 1093-44, comuna de Quillón, para la obra Camino Acceso Norte a Concepción, Octava Región y se acordó el valor de indemnización con su propietaria Marta Sánchez Santana, ascendente a la cantidad total de $1.371.596.-
+
+Fiscal del Ministerio de Obras Públicas.
