@@ -1,0 +1,7 @@
+AUTORIZA A DON LUIS URIBE FLORES PARA AMPLIAR ACTIVIDADES PESQUERAS. DECLARA LA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+(Extracto)
+
+Por resolución No. 349, de 04 de Abril de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Luis Uribe Flores, RUT No. 3.514.874-4, domiciliado en Villa Los Ríos, calle 3, casa 22, Valdivia, X Región, para ampliar actividades pesqueras autorizadas por resoluciones No. 291, de 1984 y No. 145, de 1985, ambas de esta Subsecretaria, en orden a instalar y operar una planta de secado industrial de algas ubicada en el sector Agua del Obispo, kilómetro 8 del camino público Valdivia a Niebla sector rural, X Región. El alga deberá provenir de centros de cultivo autorizados o de terceros de conformidad a la legislación vigente. Declárase la caducidad de la resolución No. 291, de 1984.v No. 1.238, de 1987, ambas de esta Subsecretaria de Pesca de conformidad a lo dispuesto en los artículos 7 inciso 2° y 6 del decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias o que se establezcan.
+
+Valparaíso, 04 de Abril de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
