@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 582 de 30 de abril de 2002, se rectificó el decreto MOP exento Nº 154, de 25 de febrero de 2002, que ordenó la expropiación del lote de terreno Nº 101, rol de avalúo 159-51, comuna de Ranquil, para la Obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, Tramo II Km. 5,57900 al Km. 10,19480'', VIII Región en lo que respecta al tramo de la obra, en el sentido que es el ''tramo II'' y no el que allí se expresa.-
+
+Fiscal del Ministerio de Obras Públicas.
