@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.518, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº6, superficie 417,5 m2, rol de avalúo Nº3830-25, comuna de Talcahuano, para la obra ''Mejoramiento Avda. Las Golondrinas - Talcahuano, Sector Golondrinas (Sector I)'', VIII Región y se acordó el valor de la indemnización con su propietario Carlos Antonio Claros Herrera, ascendente a la cantidad de $54.066.849.-
+
+Fiscal del Ministerio de Obras Públicas.
