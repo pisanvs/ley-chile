@@ -72,7 +72,9 @@ Por su parte, el Gobierno de Chile otorgará, conforme a sus leyes y reglamentac
 
 <!-- parte:10512013 -->
 
-Los pagos correspondientes al intercambio de mercaderías entre la República de Chile y la República Popular Federativa de Yugoeslavia y los gastos y pagos accesorios relativos al mismo, excepto los correspondientes a los productos señalados en el Artículo VII, se realizarán en dólares de los Estados Unidos de América de la cuenta de "clearing" que establece el Artículo IX, en las condiciones estipuladas en el presente Convenio y conforme a las disposiciones sobre cambios vigentes en cada país.
+Los pagos correspondientes al intercambio de mercaderías entre la República de Chile y la República Popular Federativa de Yugoeslavia y los gastos y pagos accesorios relativos al mismo, exceptos los correspondientes a los productos señalados en el Artículo VII se realizarán en dólares de los Estados Unidos de América de la cuenta de "clearing" que establece el Artículo IX, en las condiciones estipuladas en el presente Convenio y conforme a las disposiciones sobre cambios vigentes en cada país.
+
+Sin embargo, con el objeto de facilitar y posibilitar aún más el intercambio ambas Partes están conformes en aceptar que los Organismos competentes de cada país, a través de los Bancos Centrales, mediante acuerdo mutuo, puedan autorizar operaciones de carácter especial en lo que en su forma o modalidad de pagos se refiera.
 
 Las cotizaciones de los productos que intercambien ambos países, así como los contratos y las facturas respectivas, se harán en dólares de los Estados Unidos de América.
 
@@ -80,11 +82,7 @@ Las cotizaciones de los productos que intercambien ambos países, así como los 
 
 <!-- parte:10512014 -->
 
-Las disposiciones del Artículo VI no serán aplicables a:
-
-a) Las exportaciones de cobre proveniente de la gran minería, sea en lingotes, semielaborado o elaborado, que se pagarán exclusivamente en dólares de los Estados Unidos de América, de libre disponibilidad;
-
-b) Las exportaciones de salitre, que se pagarán conforme a los acuerdos que para tal efecto celebren el Gobierno de la República Popular Federativa de Yugoeslavia y la Corporación de Ventas de Salitre y Yodo de Chile.
+Las disposiciones del Artículo VI no serán aplicables a las exportaciones de cobre provenientes de la gran minería, sea en lingotes, semi elaborado, que se pagarán exclusivamente en dólares de los Estados Unidos de América de libre disponibilidad.
 
 #### Artículo VIII
 
@@ -106,9 +104,7 @@ Al término de cada mes, los Bancos comerciales chilenos autorizados comunicará
 
 <!-- parte:10512017 -->
 
-El Banco Central de Chile y el Banco Nacional de la República Popular Federativa de Yugoeslavia podrán admitir, de común acuerdo y cuando lo estimen necesario, que la Cuenta arroje un saldo a favor o en contra de cualquiera de ellos, por un monto que convendrán ambos Institutos, y que no excederá de 300.000 dólares de los Estados Unidos de América.
-
-En caso de que el mencionado saldo llegue a sobrepasar el descubierto convenido, el Instituto acreedor podrá exigir del Instituto deudor la cancelación del exceso sobre dicho descubierto, dentro de un plazo de treinta días, en dólares de los Estados Unidos de América de libre disponibilidad, o de alguna otra manera que ambos convengan.
+El Banco Central de Chile y el Banco Nacional de la República Popular Federativa de Yugoeslavia podrán admitir de común acuerdo, cuando lo estimen necesario, que la cuenta arroje un saldo a favor o en contra de cualesquiera de ellos, por un monto que convendrían ambos Institutos y que no excederá de US$ 600.000 (seiscientos mil dólares).
 
 #### Artículo XI
 
