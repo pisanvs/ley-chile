@@ -1,0 +1,3 @@
+Por Resolución No. 407, de 8 de mayo de 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186, de 1978, inmueble ubicado en calle Aldunate No. 496-500, 1 presunto rol avalúos No. 648-27, comuna Santiago, aparentemente dominio de doña Isabel l Bunster de Sánchez. Comisión integrada por peritos Srs. Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos, y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de octubre, 1988, fijó monto provisional indemnización en $ 5.964.720, pagadera al contado.
+
+Director SERVIU Metropolitano.
