@@ -1,0 +1,5 @@
+EXPROPIA INMUEBLE QUE INDICA
+
+Alcalde de San Felipe, mediante Decreto Alcaldicio No. 837, de 30 de junio de 1986, dispone conformidad Decreto Ley 1.289 y Ley 18.138 la expropiación del inmueble ubicado en calle Sargento Aldea No. 30, Rol de Avalúos 15-68, de aparente dominio de don Hugo Caldera Castro. Deslindes parte expropiada: Norte, 133 mts. con otros propietarios; Sur, 122 mts. con pasaje No. 9 de la Población Manso de Velasco y Población Abraham Ahumada; Oriente, 211 mts. con otros propietarios, y Poniente, 155 mts. con lote B y 61 mts. con otros propietarios. Indemnización Provisional $4.874.850 (cuatro millones ochocientos setenta y cuatromil ochocientos cincuenta pesos). Superficie expropiada aproximada 27.186 metros cuadrados.
+
+- Sergio Jorquera Darricades, Alcalde.- Mario Vicanco Pino, Secretario Municipal.
