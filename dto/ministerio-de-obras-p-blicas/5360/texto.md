@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.360, de 28 de diciembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 284-B, 287 y 289, para la obra: "Camino Ruta 5 Norte, Tramo Santiago - Los Vilos", Sector Km. 157.100,00 al Km. 161.580,00; Quinta Región, que figuran a nombre de Coop. Pullally R. Agrar. Ltda., rol de avalúo 101-221, comuna de Papudo, superficies de 4.162 m2, 898 m2 y 2.170 m2, respectivamente. La comisión de peritos integrada por los señores Jorge Gregorio Mendoza Larral, María Cristina Ayala Muñoz y Pablo Antonio Aragón Bernal, fijó con fecha 23 de diciembre de 1999, el valor provisional de la indemnización en las cantidades de $9.299.000.- para el lote Nº 284-B;
+
+$1.856.000.- para el lote Nº 287 y $11.575.000.- para el lote Nº 289. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
