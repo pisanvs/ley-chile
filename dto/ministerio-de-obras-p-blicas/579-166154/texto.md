@@ -1,0 +1,3 @@
+Por decreto MOP N°579, de 28 de febrero del 2000, se expropió el lote de terreno N°365, superficie 2.237,6 m2, rol de avalúo 240-119, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario Domingo Segundo Cuevas Valdivia, ascendente a la cantidad de $4.638.752.-
+
+Fiscal del Ministerio de Obras Públicas.
