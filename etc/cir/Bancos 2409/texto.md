@@ -11746,6 +11746,8 @@ Conforme a lo indicado en la letra b) del numeral 3.1.2 del título I de este Ca
 
 El saldo de dichas cuentas deberá ajustarse, por lo menos al cierre de cada mes, por el importe de los reajustes e intereses devengados de los respectivos créditos y por los pagos que se hubieren efectuado, de manera que tales cuentas reflejen el valor actual de los correspondientes créditos. Si un crédito o una cuota de éste no es pagado dentro de los 90 días siguientes a su vencimiento, el crédito se informará como castigado, debiéndose revertir el importe correspondiente de las cuentas antes señaladas y efectuar su registro en las cuentas de que trata el numeral 4.1 precedente.
 
+Un procedimiento similar al de los créditos castigados anticipadamente debe seguirse con aquellos créditos que, habiendo sido castigados y sin que se hayan reingresado al activo según lo previsto en el numeral 3.6 del título I de este Capítulo, sean objeto de renegociaciones, convenios de pago o avenimientos judiciales o extrajudiciales, cuando el deudor se encuentre cumpliendo con los pagos convenidos.
+
 4.3. Registro contable de créditos que no se incluyen en la información sobre deudores.
 
 Lo indicado en el numeral 4.1 anterior, no es óbice para que las instituciones financieras contabilicen en cuentas de orden abiertas para los efectos de control interno, aquellos créditos que por las causales señaladas en el Capítulo 18-5 de esta Recopilación, deben excluirse de la información de deudas que se envía a esta Superintendencia. Los saldos de dichas cuentas se incluirán en la partida 9899 para efectos de información a este Organismo.
