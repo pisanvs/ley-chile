@@ -1,0 +1,3 @@
+Resolución 67, 22 abril 1998, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº774, Rol de Avalúo Nº343-0016, comuna Concepción, superficie 106 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R-343-0016; de aparente dominio de Julio Braunfeld Pak, para ejecución programa "Mejoramiento Interconexión Vial Centro Concepción-Autopista Talcahuano", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Boris Aptecar G., arquitecto, Gerardo Valverde V., arquitecto y Sergio Labarca G., constructor civil, según informe de fecha 27 de octubre de 1997, fijó monto provisional indemnización en $20.171.660.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
