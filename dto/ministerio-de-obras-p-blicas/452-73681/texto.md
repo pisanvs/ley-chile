@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 452, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 7, 8 y 9, superficies 3.213, 4.080 y 11.570 m², respectivamente, roles de avalúos 403-24, 403-23 y 403-18, comuna de Vicuña, obra Proyecto Embalse Puclaro, sector Variante a Ruta 41-Ch y se acordó precio de indemnización con sus propietarios Adelina Silva Rojas, Juan Cáceres Traslaviña y José Silva Rodríguez, ascendente a las cantidades de $433.238, $528.663 y $968.765.-
+
+Fiscal del Ministerio de Obras Públicas.
