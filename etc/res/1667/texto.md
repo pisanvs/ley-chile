@@ -1,0 +1,7 @@
+Por Resolución N° 1.667, de 9 de septiembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PEDRO SEGUNDO GONZALEZ ANTIÑIR, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Pasaje Martí N° 060, Puerto Montt, X Región, donde podrá procesar, en las líneas de elaboración que se señalan a continuación, los siguientes recursos hidrobiológicos: Ahumado: Jurel, Pejerrey de mar, Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado, Salmón sockeye y Cholga; Congelado: Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón rosado y Salmón sockeye.
+
+Los recursos Salmón del Atlántico, Salmón cereza, Salmón keta, Salmón plateado, Salmón rey, Salmón rosado, Salmón sockeye deberán provenir de centros autorizados para realizar actividades de cultivo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 9 de septiembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
