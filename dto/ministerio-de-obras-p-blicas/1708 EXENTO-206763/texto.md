@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.708 de 29 de noviembre de 2002, se expropió el lote de terreno Nº224-2, superficie 231 m2., rol de Avalúo 202-62, comuna de Zapallar, para la obra Camino Ruta 5 Norte Tramo: Santiago-Los Vilos Sector B: kms. 136.780,00 al 138.500,00, V Región y se acordó el valor de indemnización con su propietaria Isabel Verónica Navia Elgueta, ascendente a la cantidad de $379.062.-
+
+Fiscal del Ministerio de Obras Públicas.
