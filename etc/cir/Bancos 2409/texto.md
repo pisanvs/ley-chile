@@ -4614,21 +4614,7 @@ V.- Información a esta Superintendencia.
 
 Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a encaje, de conformidad con las instrucciones del Manual del Sistema de Información.
 
-VI.- DISPOSICION TRANSITORIA.
-
-Las instituciones financieras dispondrán de un plazo de cuatro períodos mensuales de encaje consecutivos, a partir de aquél que se inicia el 9 de junio de 1992, para enterar el encaje que debe ser mantenido de conformidad con lo dispuesto en los títulos III y IV de estas normas. Para ese efecto, los porcentajes de encaje exigido que deberán mantenerse en cada período mensual, serán los siguientes:
-
-Período mensual Encaje exigido por obligaciones
-
-vista plazo exterior
-
-09.06 92 al 08 07 92 18% 17% 20%
-
-09 07.92 al 08 08 92 22% 22% 22%
-
-09.08.92 al 08 09.92 26% 26% 26%
-
-09.09 92 al 08.10 92 30% 30% 30%.
+VI.- ELIMINADA.
 
 ANEXO N° 1
 
@@ -4637,6 +4623,8 @@ PARTIDAS Y CUENTAS DEL SISTEMA CONTABLE QUE PARTICIPAN EN LA DETERMINACION Y MAN
 A continuación se señalan los principales indicadores que guardan relación con el control del cumplimiento de las normas del presente Capítulo 4-1 y del Capítulo 4-2 de esta Recopilación Actualizada de Normas y que esta Superintendencia obtiene del computo de los saldos de las partidas, cuentas y subcuentas informadas en el archivo C03 del Sistema Contable que en cada caso se indican.
 
 .
+
+> **Nota.** La letra B) de la Circular 2759, SBIF, promulgada el 29.09.1993, modifica el presente Anexo, actualizando las cuentas consideradas para los principales indicadores que se utilizan en el control del cumplimiento de las normas relativas a encaje y a reserva técnica.
 
 CAPITULO 4-2 (Bancos y Financieras)
 
@@ -4820,9 +4808,9 @@ Los importes de caja que las instituciones financieras apliquen para enterar la 
 
 ### 2. Depósitos en el Banco Central de Chile
 
-Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar la reserva técnica, serán registrados en una cuenta que abrirán para tal efecto con el nombre de "Depósitos de reserva técnica en el Banco Central de Chile", cuyo saldo será demostrado en la partida 1010 del formulario MB1.
+Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar reserva técnica, serán registrados en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile", de la partida 1010.
 
-Los demás depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se registrarán además, en las cuentas "Depósitos Acuerdo 1657 aplicados a reserva técnica", "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica" u "Otros depósitos en el Banco Central aplicados en reserva técnica", según corresponda, de la partida 9165. Cuando los recursos de que se trata dejen de ser utilizados para constituir reserva técnica, se procederá a revertir esas cuentas de orden.
+Los demás importes correspondientes a depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se mantendrán registrados en su cuenta de origen. Sin embargo, para efectos de control, los montos efectivamente utilizados se registrarán, además, en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica", "Depósitos en garantía Art. 36L.G.B. aplicados en reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165. Los saldos de dichas cuentas de orden deberán reflejar diariamente los recursos efectivamente utilizados para constituir reserva técnica.
 
 3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
@@ -10310,17 +10298,25 @@ Simultáneamente con la contabilización indicada en el numeral 9.1, se registra
 
 Al realizarse la venta convenida, se abonarán las cuentas correspondientes a los créditos de que trata el numeral 9.1 anterior y, al mismo tiempo, se revertirán los importes correspondientes de las cuentas de orden mencionadas en el numeral 9.3 precedente.
 
-### 10. Provisiones
+### 10. Venta de pagarés del Banco Central de Chile con pacto de retroventa
+
+Las operaciones con pacto de retroventa a que se refieren los Capítulos IV.B.8.5 y IV.B.8.6 del Compendio de Normas Financieras del Banco Central de Chile se registrarán conforme a lo siguiente:
+
+a) El importe percibido por la venta se registrará con abono a la cuenta "Operaciones Repos con el Banco Central", que reflejará el compromiso de retrocomprar el instrumento vendido, de la partida 3405. Estas obligaciones se contabilizarán reconociendo los intereses devengados en una cuenta complementaria de acuerdo con las normas generales sobre la materia, con cargo a la respectiva cuenta de la partida 5155.
+
+b) Los importes correspondientes a los documentos vendidos se mantendrán registrados en su cuenta de origen. Por consiguiente, a diferencia de las operaciones con pacto de retro-compra a que se refiere el N° 8 de este Capítulo, en estas operaciones no se efectuará un traspaso a una cuenta de la partida 1740, sin perjuicio del control que necesariamente debe mantenerse por la custodia por cuenta del Banco Central de Chile y restricción de venta de los pagarés durante la vigencia del pacto.
+
+### 11. Provisiones
 
 Las provisiones que se constituyan según lo señalado en el N° 6 de este Capítulo deberán registrarse en la forma prevista en el Capítulo 8-29 de esta Recopilación Actualizada de Normas.
 
-### 11. Sistemas de información y control
+### 12. Sistemas de información y control
 
-Para el tratamiento contable dispuesto en este Capítulo, se da por entendido que las instituciones financieras deben utilizar sistemas de información y control que permitan, a lo menos: la individualización de cada inversión o instrumento, la fecha y la tasa de compra, sus valores nominal, par, contable y de mercado al cierre de un mes y la situación en que se encuentran los respectivos documentos, esto es, si se mantienen en cartera o están intermediados.
+Para el tratamiento contable dispuesto en este Capítulo, se da por entendido que las instituciones financieras deben utilizar sistemas de información y control que permitan, a lo menos: la individualización de cada inversión o instrumento, la fecha y la tasa de compra, sus valores nominal, par, contable y de mercado al cierre de un mes y la situación en que se encuentran los respectivos documentos, esto es, si se encuentran disponibles para la venta o si, por el contrario, están entregados en garantía, se encuentran enajenados al Banco Central de Chile con pacto de retroventa vigente o están intermediados (cedidos a terceros con pacto de recompra).
 
 Por otra parte, las instituciones financieras deben tener presente que las cuentas que se disponen en este Capítulo corresponden sólo a aquellas que deben ser informadas a esta Superintendencia, lo que no impide el uso de subcuentas para sus propias necesidades de información o adecuadas a los sistemas que utilicen. Se entiende, naturalmente, que la apertura de cuentas en la contabilidad de cada institución considerará también el tipo de reajustabilidad y la moneda que corresponda.
 
-### 12. Información para esta Superintendencia
+### 13. Información para esta Superintendencia
 
 Las instituciones financieras deberán informar a esta Superintendencia la composición de sus inversiones financieras al cierre de cada mes, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información.
 
