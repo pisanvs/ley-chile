@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION TOTAL DE INMUEBLE QUE SEÑALA
+
+Por resolución Nº 37, de 22 de julio de 1999, tomada razón por Contraloría Regional con fecha 3 de agosto del mismo año, Serviu XII Región Magallanes y Antártica Chilena dispuso expropiación total, conforme al decreto ley 1.523, de 1976, decreto supremo 140, de Vivienda y Urbanismo, de 1991 y decreto ley 2.186, de 1978, de inmueble ubicado en Punta Arenas, Avenida 21 de Mayo sin número, entre las calles Oscar Viel y Almirante Latorre, que corresponde al Lote B de la Subdivisión del Lote Nº 3, Rol Avalúo Nº 1382-38, de aparente dominio de doña Mila Franulic Dubravcic. Comisión Tasadora integrada por Sres. Hernán del Canto Garrido, constructor civil, José Barría Bonacic y Héctor Irribarra Pardo, ambos arquitectos, fijó monto provisional indemnización, según informe de fecha 14 de julio de 1999, en $14.898.500.-, que será pagada al contado, con los reajustes legales.
+
+Carlos López Osorio, Abogado, Director Servicio de Vivienda y Urbanización XII Región (S).
