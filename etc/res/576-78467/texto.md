@@ -1,0 +1,3 @@
+Por resolución No. 576, de 17 de Junio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deja sin efecto la Resolución No. 1440, de 1989, de esta Subsecretaría, que autorizó a PRODUCTORA DE AGAR S.A., RUT No. 95.232.000-9, domiciliada en Av. Vicente Pérez Rosales No. 800, Llanquihue, X Región, para operar un establecimiento de cultivo en el Sector Chuyaquen, Río Maullín, de la comunidad de Maullín, X Región por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 17 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
