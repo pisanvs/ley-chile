@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 383 de fecha 27 de febrero de 2004, se expropiaron los lotes de terreno Nº s. 56-A, 56-B, 58-C y 58-D, superficies 743, 92, 84 y 305 m2 respectivamente, rol Nº 277-8, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Limite Regional, Tramo Km. 18,260.00 a Km. 35,158.60", VII Región y se acordó el valor de la indemnización con su propietario Roberto Cruz Suazo Vásquez, ascendente a la cantidad de $3.331.504.
+
+- Fiscal del Ministerio de Obras Públicas.
