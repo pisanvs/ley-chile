@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.198, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº84, superficie 2.938 m², rol de avalúo Nº536-123, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno - Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 al 20,90000", y se acordó el valor de indemnización con su propietario don Omar Vergara Unión, ascendente a la cantidad de $2.308.928.-
+
+Fiscal del Ministerio de Obras Públicas.
