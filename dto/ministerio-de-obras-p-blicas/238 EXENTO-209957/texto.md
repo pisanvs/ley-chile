@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº238 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº58-A, superficie 3.230 m2, Rol Nº142-25, comuna de Chonchi, X Región para la obra "Camino Ruta 5, Sector Chonchi-Tara, Km.1.205,160 a Km. 1.215,004" y se acordó el valor de indemnización con su propietaria Brígida Pérez Oyarzún y otros, ascendente a la cantidad de $1.272.334.-
+
+Fiscal del Ministerio de Obras Públicas.
