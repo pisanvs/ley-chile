@@ -3532,9 +3532,11 @@ Conforme con lo anteriormente expresado, las referidas instituciones no deben da
 
 Los bancos y las sociedades financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, los saldos de las cuentas "Canje de la plaza", "Canje de otras plazas" y "Documentos deducibles de encaje a cargo de sucursales". Las dos primeras cuentas se incluyen en la partida 1015 del formulario MB1 y la última en la partida 2115 del mismo formulario.
 
+Mientras sea deducible de encaje, el canje generado por los depósitos que efectúen las instituciones afectas al DFL N° 1 de 1959, se contabilizará, además, en las cuentas "Canje de instituciones afectas al DFL N° 1" y "Responsabilidad por canje de instituciones afectas al DFL N° 1" que conformarán las partidas 9169 y 9900 del MB1, respectivamente.
+
 Los valores que conformen el saldo de la partida 1015 deberán corresponder exclusivamente a documentos girados a cargo de otras entidades financieras. Luego no podrán incluirse en ningún caso, documentos a cargo de la propia institución, ni los emitidos por ésta contra sus oficinas o corresponsales.
 
-Los bancos continuarán deduciendo del monto de sus depósitos diarios la compensación autorizada por la salida de caja que representa para ellos el pago por cuenta del Banco del Estado de Chile de los cheques de la Cuenta Unica Fiscal. Esa compensación es equivalente al 900% de los importes pagados, los que deben reflejarse en la partida 9160 "Cheques Fiscales pagados por cuenta del Banco del Estado" del formulario MB1.
+Los bancos continuarán deduciendo del monto de sus depósitos diarios la compensación autorizada por la salida de caja que representa para ellos el pago por cuenta del Banco del Estado de Chile de los cheques de la Cuenta Unica Fiscal. Esa compensación es equivalente al 900% de los importes pagados. El monto de la compensación debe reflejarse en la partida 9160 "Cheques Fiscales pagados por cuenta del Banco del Estado" del formulario MB1.
 
 Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a encaje, el excedente que se produzca diariamente cuando el saldo de las cuentas antes señaladas sea superior a sus depósitos y obligaciones a la vista sujetas a encaje.
 
@@ -3544,9 +3546,11 @@ En ningún caso podrá deducirse de las obligaciones afectas a encaje los docume
 
 Los bancos y sociedades financieras podrán deducir diariamente de sus obligaciones a la vista netas afectas a encaje, las obligaciones por las cuales deban constituir la reserva técnica de que trata el Capítulo 4-2 de esta Recopilación. En caso de que las obligaciones a la vista netas fueran inferiores al monto deducible, el remanente podrá ser rebajado de las obligaciones a plazo afectas a encaje.
 
-1.1.5. Encaje sobre depósitos a la vista de instituciones afectas al D.F.L. N° 1 de 1959.
+1.1.5. Encaje sobre depósitos de instituciones afectas al D.F.L. N° 1 de 1959.
 
 Respecto al encaje sobre los depósitos a la vista que las instituciones afectas al D.F.L. N° 1, de 1959, sobre Cuenta Unica Fiscal, mantengan en bancos diferentes del Banco del Estado de Chile o sobre depósitos a plazo que las mismas instituciones mantengan en cualquier banco, se deja en claro que la tasa del 100% regirá para los depósitos que dichas instituciones tomen o mantengan expresamente a su nombre y no para aquellas consignaciones que se hagan a su nombre por parte de terceros en función de trámites reglamentarios, en pago de obligaciones o a cualquier otro título.
+
+Los depósitos que las instituciones afectas al DFL N° 1 tomen o mantengan a su nombre, se demostrarán, además, en las cuentas "Depósitos en cta. cte. instituciones DFL N° 1", "Otros saldos acreedores a la vista instituciones DFL N° 1" o "Depósitos a plazo instituciones DFL N° 1", según corresponda, de la partida 9161 "Depósitos de instituciones afectas al DFL N° 1" del MB1, y en la cuenta "Responsabilidad por depósitos de instituciones afectas al DFL N° 1", de la partida 9900 del MB1. En estas cuentas no se incluirán los importes correspondientes a los intereses o reajustes de las operaciones de que se trata, mientras no hayan sido capitalizados.
 
 1.2. Encaje sobre depósitos, captaciones y obligaciones exigibles a plazo (30 días o más).
 
@@ -3558,7 +3562,7 @@ a) Los depósitos, captaciones y obligaciones a plazo desde 30 días y hasta un 
 
 b) Los depósitos a más de un año plazo estarán afectos a la tasa de encaje señalada en la letra a) precedente. Las demás captaciones a más de un año plazo estarán exentas de encaje.
 
-c) Los depósitos a la orden judicial constituidos según lo dispuesto en los artículos 507 y 509 del Código Orgánico de Tribunales y los fondos depositados en conformidad con lo establecido en el Decreto Ley N° 1.519 de 1976, estarán afectos a la tasa de encaje de 4% indicada en la letra a) precedente.
+c) Los depósitos a la orden judicial constituidos según lo dispuesto en los artículos 507 y 509 del Código Orgánico de Tribunales y los fondos depositados en conformidad con lo establecido en el Decreto Ley N° 1.519 de 1976, estarán afectos a la tasa de encaje de 4% indicada en la letra a) precedente, y se demostrarán, respectivamente, en las cuentas "Depósitos por consignaciones judiciales" y "Depósitos D.L. 1.519", las que formarán parte de la partida 3010 del MB1.
 
 d) Los depósitos y captaciones a plazo que mantengan las instituciones afectas al D.F.L. N° 1, de 1959 sobre Cuenta Unica Fiscal, estarán sujetos a un 100% de encaje.
 
@@ -3742,19 +3746,7 @@ Las instituciones financieras deberán registrar los depósitos y captaciones qu
 
 ### 4. Información a esta Superintendencia
 
-Las instituciones financieras deberán enviar los siguientes formularios relativos a encaje conforme con las instrucciones del Manual del Sistema de Información:
-
-a) Formulario D2-CH "Situación diaria de encaje en moneda chilena";
-
-b) Formulario M2-CH (M2-CH-1 Y M2-CH-2) "Comportamiento mensual del encaje en moneda chilena";
-
-c) Formulario M2-CH-4 "Clasificación de las obligaciones a plazo afectas a encaje";
-
-d) Formulario M2-E "Comportamiento mensual del encaje por moneda extranjera";
-
-e) Formulario M2-ES "Situación mensual de encaje en monedas extranjeras"; y,
-
-f) Formulario M2 (M2-1 y M2-2) "Situación mensual de encaje".
+Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a encaje, de conformidad con las instrucciones del Manual del Sistema de Información.
 
 CAPITULO 4-2 (Bancos y Financieras)
 
@@ -3778,9 +3770,11 @@ Las obligaciones en moneda chilena y extranjera que se considerarán para determ
 
 - N° 3010 "Otros saldos acreedores a la vista";
 
-- N° 3015 "Depósitos de ahorro a la vista"; y,
+- N° 3015 "Depósitos de ahorro a la vista";
 
-- N° 3035 "Depósitos de ahorro a plazo" (sólo las cuentas de ahorro a plazo con giro incondicional).
+- N° 3035 "Depósitos de ahorro a plazo" (sólo las cuentas de ahorro a plazo con giro incondicional);
+
+- N° 3425 "Otras obligaciones" (sólo la cuenta "Obligaciones con establecimientos afiliados por el uso de tarjetas de crédito").
 
 Además, de acuerdo a lo señalado en la ley, se entenderán también como obligaciones a la vista para estos efectos, los depósitos y captaciones a plazo en moneda chilena y extranjera, incluidos los depósitos renovables, desde el décimo día que preceda al de su vencimiento, que se demuestren en las partidas del formulario MB1 que a continuación se indican, más sus reajustes e intereses por pagar:
 
@@ -3912,7 +3906,7 @@ El rescate de los documentos especiales u ordinarios emitidos por el Banco Centr
 
 10.1. Obligación de informar el déficit de reserva técnica.
 
-Cuando una institución financiera registre un déficit de reserva técnica, el Gerente General deberá comunicar este hecho, por escrito, a esta Superintendencia, dentro del día hábil bancario siguiente a aquél en que se hubiere registrado el déficit, sin perjuicio del informe diario que debe remitir en el formulario D-4 a que se refiere el N° 2 del título III de este capítulo. En la misma comunicación deberá indicar las medidas adoptadas para dar cumplimiento a la reserva técnica exigida.
+Cuando una institución financiera registre un déficit de reserva técnica, el Gerente General deberá comunicar este hecho, por escrito, a esta Superintendencia, dentro del día hábil bancario siguiente a aquél en que se hubiere registrado el déficit. En la misma comunicación deberá indicar las medidas adoptadas para dar cumplimiento a la reserva técnica exigida.
 
 10.2. Suspensión de la facultad de constituir reserva técnica con desfase.
 
@@ -3922,29 +3916,31 @@ En caso que el déficit subsista por más de quince días, el directorio de la i
 
 ### II. NORMAS CONTABLES
 
-Las instituciones financieras registrarán los depósitos constituidos en el Banco Central de Chile y los instrumentos para enterar la reserva técnica, así como las obligaciones a plazo desde el décimo día corrido anterior a su vencimiento, incluidos sus intereses y reajustes y el endeudamiento contraído con el Instituto Emisor por financiamiento para reserva técnica, de la forma que a continuación se señala:
+Las instituciones financieras registrarán los saldos de caja utilizados, los depósitos constituidos en el Banco Central de Chile y los instrumentos para enterar la reserva técnica, así como las obligaciones a plazo desde el décimo día corrido anterior a su vencimiento, incluidos sus intereses y reajustes y el endeudamiento contraído con el Instituto Emisor por financiamiento para reserva técnica, de la forma que a continuación se señala:
 
-### 1. Depósitos en el Banco Central de Chile
+### 1. Saldos de caja utilizados para enterar reserva técnica
+
+Los importes de caja que las instituciones financieras apliquen para enterar la reserva técnica exigida, deberán registrarse, además, en las cuentas "Caja aplicada en reserva técnica" y "Responsabilidad por recursos aplicados en reserva técnica", las que
+
+se demostrarán en las partidas 9165 "Recursos aplicados en reserva técnica" y 9900, respectivamente, del MB1. Cuando los recursos de que se trata dejen de constituir reserva técnica, deberán revertirse los correspondientes importes registrados en estas cuentas.
+
+### 2. Depósitos en el Banco Central de Chile
 
 Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar la reserva técnica, serán registrados en una cuenta que abrirán para tal efecto con el nombre de "Depósitos de reserva técnica en el Banco Central de Chile", cuyo saldo será demostrado en la partida 1010 del formulario MB1.
 
-2. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
+Los demás depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se registrarán además, en las cuentas "Depósitos Acuerdo 1657 aplicados a reserva técnica" u "Otros depósitos en el Banco Central aplicados en reserva técnica", según corresponda, ambas de la partida 9165 del MB1, y en la cuenta "Responsabilidad por recursos aplicados en reserva técnica", de la partida 9900 del MB1. Cuando los recursos de que se trata dejen de ser utilizados para constituir reserva técnica, se procederá a revertir esas cuentas de orden.
 
-2.1. Registro de la inversión.
+3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
-Los documentos emitidos por el Banco Central de Chile, que mantengan o adquieran las instituciones financieras con el objeto de constituir la reserva técnica,serán registrados en la respectiva cuenta de inversiones, de la partida 1705 ó 1715 del formulario MB1.
+3.1. Registro de la inversión.
 
-Asimismo, los documentos emitidos por la Tesorería General de la República, que se mantengan o adquieran con la finalidad ya señalada, se contabilizarán en la cuenta correspondiente de la partida 1710 del formulario MB1.
+Los documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, que mantengan o a dquieran las instituciones financieras con el objeto de constituir la reserva técnica, serán registrados, de acuerdo con las instrucciones generales sobre la materia, de la misma forma que aquellos que no se destinen a ese efecto.
 
-Todos los documentos adquiridos serán contabilizados por su valor par, esto es, su valor nominal más los intereses y reajustes devengados hasta la fecha de su adquisición, en caso que proceda, o bien, por su valor nominal, cuando no contemplen intereses en forma explícita.
+3.2. Control del monto de los documentos computados como reserva técnica.
 
-Las diferencias que se produzcan entre el valor par o nominal del documento adquirido, según corresponda, y su valor de adquisición, serán registradas en la cuenta "Beneficios obtenidas y no devengados por compra de valores", de la partida 4120 del formulario MB1, o bien en la cuenta "Diferencias de precio diferidas por compra de valores", de la partida 2120 de dicho formulario, según proceda.
+Cada vez que los documentos de que se trata se utilicen efectivamente para enterar la reserva técnica, deberá registrarse además, el importe correspondiente al total o parte del valor par de los documentos que se aplican a enterar la reserva, en las cuentas de orden "Documentos emitidos por el Banco Central de Chile aplicados en reserva técnica" o "Documentos emitidos por la
 
-Los importes registrados en las referidas cuentas, serán traspasados el último día de cada mes, en forma proporcional al plazo remanente para el vencimiento del documento, a la cuenta "Beneficios obtenidos por compra de valores" de la partida 7610 ó 7615 del formulario MR1 y "Diferencias de precio por compra de valores", de la partida 5610 ó 5615 del formulario ya mencionado, respectivamente.
-
-2.2. Control del monto de los documentos computados como reserva técnica.
-
-Cada vez que el total o parte del valor de los documentos aludidos en el numeral precedente se aplique efectivamente a enterar la reserva técnica, dicho importe,que en ningún caso podrá exceder al contabilizado en el activo incluidos los intereses por cobrar, deberá registrarse además, en las cuentas de orden "Documentos emitidos por el Banco Central de Chile aplicados en reserva técnica" y "Documentos emitidos por la Tesorería General de la República aplicados en reserva técnica", según corresponda y en la cuenta "Responsabilidad por documentos aplicados en reserva técnica". Cuando se trate de documentos pagaderos en cuotas, sólo se registrará en estas cuentas el importe de capital correspondiente a la cuota que se percibirá dentro de los 90 días inmediatamente siguientes y los intereses efectivamente devengadas hasta la fecha. Los saldos de las dos primeras cuentas mencionadas se demostrarán en la partida 9165 "Documentos constituidos en reserva técnica", en tanto que la cuenta "Responsabilidad por documentos aplicados en reserva técnica", será incluida en la partida 9900 del formulario MB1.
+Tesorería General de la República aplicados en reserva técnica", según corresponda, ambas de la partida 9165, y en la ya mencionada cuenta "Responsabilidad por recursos aplicados en reserva técnica". Cuando se trate de instrumentos pagaderos en cuotas, sólo se registrará en estas cuentas el importe de capital correspondiente a la cuota que se percibirá dentro de los 90 días inmediatamente siguientes y los intereses efectivamente devengados hasta la fecha, según la tasa expresada en el documento.
 
 Las entidades financieras dejarán constancia en los respectivos registros que efectúen en estas cuentas de orden, de las características que permitan la individualización de cada documento contabilizado en ellas, tales como N° de orden, serie, fecha de emisión, fecha de vencimiento, o cualquier otro dato mediante el cual pueda identificarse el instrumento de que se trata.
 
@@ -3952,13 +3948,13 @@ Cuando los documentos a que se refiere este numeral dejen de constituir reserva 
 
 Los registros en estas cuentas deberán efectuarse rigurosamente en las fechas en que los respectivos documentos pasan a integrar la reserva técnica o dejen de formar parte de ella, según corresponda.
 
-3. Depósitos, captaciones y otros compromisos a plazo computables como obligaciones a la vista.
+4. Depósitos, captaciones y otros compromisos a plazo computables como obligaciones a la vista.
 
 En concordancia con lo dispuesto en la letra a) del artículo 80 bis ya citado, las instituciones financieras deberán distinguir en sus obligaciones a plazo, aquéllas cuyo pago deba efectuarse en los próximos diez días corridos, sea porque se cumple la fecha de vencimiento pactada o porque a pedido del depositante, de conformidad con las disposiciones vigentes, la entidad depositaria ha aceptado efectuar el pago antes de esa fecha. Como lo señala el precepto legal antes indicado, estas obligaciones se considerarán a la vista,para los efectos previstos en esa misma disposición.
 
 Con el fin de hacer la separación indicada, las obligaciones a plazo reflejadas en las partidas 3020, 3025 3030, 3065 y 3315, serán registradas, además, a partir del décimo día anterior a su vencimiento, en las cuentas de orden"Documentos a plazo afectos a reserva técnica" y "Responsabilidad por documentos a plazo afectos a reserva técnica", que se demostrarán en las partidas 9162 y 9900 del formulario MB1. El registro de las obligaciones respectivas en estas cuentas se mantendrá hasta la fecha de su pago o de los vencimientos correspondientes, oportunidad en que se efectuará su reversión. Igualmente se registrarán en estas cuentas, los importes de los depósitos y captaciones cuyo pago fuere requerido y aceptado para efectuarlo antes del vencimiento pactado.Este registro se hará al momento que la entidad reciba la correspondiente petición escrita del titular y si ésta es formulada con una anticipación mayor a diez días corridos de la fecha prevista para el pago, la anotación deberá hacerse en esas cuentas a más tardar el décimo día anterior a la fecha en que se materializará el pago anticipado.
 
-### 4. Cuentas de ahorro a plazo
+### 5. Cuentas de ahorro a plazo
 
 De conformidad con las disposiciones vigentes, existen dos tipos de cuentas de ahorro a plazo, según sea la modalidad pactada para girar de ellas, demostrándose ambas en sendas cuentas que se representan en la partida 3035 del formulario MB1:
 
@@ -3972,7 +3968,7 @@ En el caso de las cuentas de ahorro a plazo con giros diferidos, incluidas las q
 
 En el caso que los giros solicitados no se hicieran efectivos dentro del plazo establecido, se procederá a revertir el asiento en esas cuentas de orden, desafectando en consecuencia los importes correspondientes de la eventual exigencia de reserva técnica.
 
-### 5. Letras de crédito y cupones por vencer
+### 6. Letras de crédito y cupones por vencer
 
 Las instituciones financieras que mantengan letras de crédito en circulación, registrarán en las cuentas "Letras de crédito y cupones por vencer" y "Responsabilidad por las letras de crédito y cupones por vencer", cuyos saldos se demostrarán en las partidas 9162 y 9900, del formulario MB1, respectivamente, las letras de crédito que deban ser pagadas como consecuencia de una amortización ordinaria o extraordinaria, cuando les falten diez días corridos para que se cumpla la fecha en que se harán exigibles.
 
@@ -3980,21 +3976,9 @@ De la misma forma se procederá con los cupones por vencer, desde el momento en 
 
 En la fecha en que tales documentos -las letras de crédito y sus cupones- se hacen exigibles, se revertirá el asiento realizado en estas cuentas de orden, ya que, si no son cobrados en esa oportunidad por los respectivos tenedores, pasarán a ser registrados como obligaciones exigibles a la vista, según las normas que rigen para estas operaciones.
 
-### 6. Intereses y reajustes por pagar de depósitos y captaciones a plazo
+### 7. Intereses y reajustes por pagar de depósitos y captaciones a plazo
 
-Los reajustes e intereses por pagar de las obligaciones que han sido traspasadas a las cuentas de orden de que tratan los números 3, 4 y 5 de este título, se registrarán conjuntamente con la obligación a que correspondan, en las referidas cuentas de orden. Estos reajustes e intereses se actualizarán día a día en la medida en que se devenguen, salvo que, como ya se expresó en el N° 3 del título I, la institución financiera no esté en condiciones de efectuar el cálculo diario y, en tal caso, deba considerar solamente los intereses y reajustes por pagar que se hayan devengado hasta el último día del mes inmediatamente anterior a la fecha en que las respectivas obligaciones deban computarse como sujetas a reserva técnica.
-
-### 7. Reajustes sobre instrumentos de reserva técnica
-
-Los reajustes devengados por los depósitos de reserva técnica mantenidos en el Instituto Emisor y por los documentos que se destinen a constituir la reserva técnica, emitidos por el Banco Central de Chile o por la Tesorería General de la República, serán acreditados en la cuenta "Reajustes ganados" de la partida 7350 del formulario MR1, con cargo a la respectiva cuenta complementaria de activo, computándose en consecuencia, como reserva técnica mantenida.
-
-### 8. Intereses sobre instrumentos de reserva técnica
-
-Los intereses devengados por los depósitos mantenidos en el Instituto Emisor y por los documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, que se destinen a la constitución de la reserva técnica, serán acreditados en la cuenta "Intereses ganados" de la partida 7150 del formulario MR1, con cargo a la cuenta "Intereses por cobrar" de la partida 1815 del formulario MB1. Estos intereses, mientras el capital o el documento que los represente forme parte de la reserva técnica mantenida, se considerarán parte integrante de la misma.
-
-9. Rescate de los documentos de reserva técnica emitidos por el Banco Central de Chile.
-
-Tal como se indicó en el número 9 del título I, en el caso de producirse algunas de las situaciones contempladas en los párrafos 2° y 3° del título XV de la Ley General de Bancos, el Banco Central de Chile pagará en esos eventos, a su presentación, los documentos a su cargo, que a la fecha estuvieren integrando la reserva técnica de la institución. Esos pagos o rescates se harán por el capital adeudado, más los intereses y reajustes devengados hasta la fecha de rescate, en los casos que corresponda. Por lo tanto, al recibir el pago de estos documentos, por las circunstancias mencionadas, se acreditarán a "Reajustes ganados" e "Intereses ganados", los correspondientes al período comprendido entre el último devengo que de éstos se hubiera registrado y la fecha hasta la cual han sido pagados.
+Los reajustes e intereses por pagar de las obligaciones que han sido traspasadas a las cuentas de orden de que tratan los números 4, 5 y 6 de este título de este título, se registrarán conjuntamente con la obligación a que correspondan, en las referidas cuentas de orden. Estos reajustes e intereses se actualizarán día a día en la medida en que se devenguen, salvo que, como ya se expresó en el N° 3 del título I, la institución financiera no esté en condiciones de efectuar el cálculo diario y, en tal caso, deba considerar solamente los intereses y reajustes por pagar que se hayan devengado hasta el último día del mes inmediatamente anterior a la fecha en que las respectivas obligaciones deban computarse como sujetas a reserva técnica.
 
 ### III. OTRAS DISPOSICIONES
 
@@ -4008,7 +3992,9 @@ De acuerdo con lo anterior, las instituciones financieras deberán determinar di
 
 ### 2. Información a esta Superintendencia
 
-Las instituciones financieras deben enviar a esta Superintendencia la información sobre la reserva técnica exigida y constituida, mediante el formulario D-4 "Situación diaria de reserva técnica art. 80 bis Ley General de Bancos", de conformidad con las instrucciones del Manual del Sistema de Información.
+Las instituciones financieras deberán enviar a esta Superintendencia la información sobre la reserva técnica de que se trata, de conformidad con las instrucciones del Manual del Sistema de Información.
+
+Además de la información que debe enviarse normalmente para el Sistema de Información de este Organismo, en caso de que la institución financiera registre un déficit de reserva técnica, el Gerente General deberá dar cumplimiento a lo dispuesto en el penúltimo inciso del artículo 80 bis de la Ley General de Bancos, comunicando esa situación dentro del día hábil bancario siguiente a aquél en que haya ocurrido, tal como se instruye en el numeral 10.1 del título I de este Capítulo.
 
 ### 3. Disposición transitoria
 
