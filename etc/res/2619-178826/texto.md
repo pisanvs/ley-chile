@@ -1,0 +1,3 @@
+Por resolución Nº2.619, de 11 de diciembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº96105022, presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS ''Huentetique'' para instalar y operar el centro de cultivo ubicado en sector de Punta Melanhue, Estero Quetalmahue, comuna de Ancud, X Región.
+
+Valparaíso, 11 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
