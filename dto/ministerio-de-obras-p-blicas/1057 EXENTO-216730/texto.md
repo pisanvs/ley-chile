@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.057, de fecha 29 de septiembre del 2003, se expropió el lote de terreno Nº45, superficie 2.966 m², Rol Nº172-796, comuna de San Clemente, VII Región para la obra "Camino Mejoramiento Ruta K-705, Sector: Cruce Ruta 115CH (El Guindo)-Vilches Alto, tramo Km. 0,00000 a Km. 13,06400 (Ruta K-7059 y Km. 35,46000 a Km. 35,80000 (Ruta 115-CH)", y se acordó el valor de indemnización con su propietaria Irma del Carmen Monsalve Rodríguez, ascendente a la cantidad de $1.902.487.
+
+Fiscal del Ministerio de Obras Públicas.
