@@ -1,0 +1,3 @@
+Por Resolución No. 931 de 29 de Noviembre de 1991 de SERVIU Metropolitano, ordenóse expropiación, conforme DL No. 2.186 de 1978, inmueble ubicado en Avenida Las Rejas No. 085, presunto rol de avalúos No. 547-009, comuna Estación Central, aparente dominio de don Manuel Castillo Mejías. Comisión integrada por peritos Sres. Sergio Rojas Ibáñez, ingeniero civil, Fernando Merino de la Cerda y Roberto Correa Bezanilla, arquitectos, según informe de 12 de Agosto de 1991, fijó monto provisional indemnización en $ 10.006.000.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
