@@ -1,0 +1,3 @@
+Por resolución Nº1.150, de 16 de junio de 1999, de esta Subsecretaría, déjase sin efecto la resolución Nº2.004 de 1996, de esta Subsecretaría, que autorizó a JOSE ARNOLDO OYARZO GALLARDO, para instalar y operar el centro de cultivo ubicado en camino a Chinquihue, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 16 de junio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
