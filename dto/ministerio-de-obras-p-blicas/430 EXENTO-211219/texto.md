@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 430 de fecha 30 de abril del 2003, se expropió el de terreno Nº 19, superficie 2.537 m2, Rol Nº 267-53, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietario Eduardo Cruz Cruces, ascendente a la cantidad de $1.632.256.
+
+Fiscal del Ministerio de Obras Públicas.
