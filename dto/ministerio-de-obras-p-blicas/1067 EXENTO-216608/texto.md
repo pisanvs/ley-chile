@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.067 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº13-P, superficie 29 m2., Rol Nº160-539, comuna de Petorca, V Región, para la obra: "Ruta E-37D, Sector Pedegua - Palquico, Km. 0,000 a Km. 14,000" y se acordó el valor de indemnización con su propietario Javier del Carmen Villalobos Bustamante, ascendente a la cantidad de $222.723.-
+
+Fiscal del Ministerio de Obras Públicas.
