@@ -1,0 +1,3 @@
+Por resolución exenta Nº 51, de fecha 12 de junio de 1998, del Ministerio de Economía, Fomento y Reconstrucción se ha rechazado el Recurso de Reclamación interpuesto por la Sociedad Andacollo de Inversiones Limitada Rut. Nº79.933.390-2, y Pesquera Chris Limitada Rut. Nº79.525.040-9, en contra de la resolución Nº 39, de 1998, de la Subsecretaría de Pesca, en virtud de lo dispuesto en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+- Luis Sánchez Castellón, Subsecretario de Economía, Fomento y Reconstrucción (S).
