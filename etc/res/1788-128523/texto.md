@@ -1,0 +1,3 @@
+Por resolución Nº 1.788, de 11 de diciembre de 1998, de esta Subsecretaría, déjase sin efecto la resolución Nº 906, de 1998, de esta Subsecretaría que declaró la caducidad parcial de la resolución Nº 173, de 1997, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A., para operar por sustitución la nave Ranquilhue respecto de las especies Anchoveta y Sardina española en el litoral de la III y IV Regiones.
+
+Valparaíso, 11 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
