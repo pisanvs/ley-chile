@@ -1,0 +1,3 @@
+Por decreto MOP Nº 572, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 12, superficie 1.007 m², rol de avalúo 5026-105, comuna de Punta Arenas, para la obra "Actualización Proyecto Canal de Trasvase Estero Llau-Llau a Estero Bitsch de Punta Arenas Fase II, Tramo Km. -0.009 a Km. 1.066" y se acordó el valor de indemnización con su propietario José Alfonso Sánchez Paredes, ascendente a la cantidad de $422.416.-
+
+Fiscal del Ministerio de Obras Públicas.
