@@ -1,0 +1,3 @@
+Por Resolución N° 83, de 15 de enero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 358, de 1990, de esta Subsecretaría, que autorizó a PESQUERA SAN SEBASTIAN S.A., para operar la nave Arteta, en la captura del recurso Albacora, en el litoral de la I a la X Región y Langostino amarillo, en el litoral de la III y IV Regiones, en virtud de lo señalado en el Art. 143 letra b), del D.S. N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
