@@ -1268,9 +1268,17 @@ En estas cuentas lo normal será que giren todos los titulares conjuntamente,sal
 
 No existe ninguna disposición que exceptúe a estas cuentas corrientes a nombre de varios titulares, de las normas generales acerca de la sucesión por causa de muerte y de los impuestos que las afectan. Corresponderá, pues, a los titulares sobrevivientes, demostrar las relaciones que los unían con el causante y el origen y dominio del dinero que se encontraba depositado, si desean evitar que se colacione con su patrimonio.
 
-1.6. Cuentas corrientes con condiciones especiales.
+1.6. Cuentas corrientes bancarias de depósito con condiciones especiales.
 
-Las empresas bancarias deben cuidar que las operaciones que se efectúen a través de cuentas corrientes especiales abiertas de conformidad con los Capítulos V, X, XIV y XXIV del Título I y VIII del Título II del Compendio de Normas de Cambios Internacionales o de otras disposiciones impartidas o que pueda impartir en lo futuro el Banco Central de Chile, se limiten sólo a los fines señalados en las respectivas normas del Instituto Emisor.
+1.6.1. Cuentas corrientes especiales dispuestas por el Banco Central de Chile.
+
+Las empresas bancarias deben cuidar que las operaciones que se efectúen a través de cuentas corrientes especiales abiertas de conformidad con las disposiciones de las Normas de Cambios Internacionales del Banco Central de Chile, se limiten sólo a los fines establecidos por el Instituto Emisor.
+
+1.6.2. Cuentas corrientes a nombre del partidor de una sucesión.
+
+La sucesión hereditaria no es persona jurídica, razón por la cual no se abren cuentas corrientes bancarias a nombre de las sucesiones, sino de los herederos.
+
+Sin embargo, cuando se ha designado partidor de una herencia, por instrucciones del Colegio de Abogados dicho partidor debe depositar el dinero de la comunidad en una institución bancaria. La cuenta en tal caso se denomina "Sucesión de don........de la cual es partidor don.....El partidor debe acreditar su nombramiento y la aceptación del cargo. Para girar sobre los fondos deberá acompañar el acuerdo adoptado con tal objeto en el juicio de partición.
 
 1.7. Cuentas corrientes a nombre de patrimonios que carecen de personalidad jurídica pero cuyos administradores gozan de tal atributo.
 
@@ -1380,7 +1388,7 @@ Las referidas instrucciones se mantienen vigentes.
 
 Los depósitos en cuentas corrientes serán acreditados en la cuenta "Acreedores en cuentas corrientes", de la partida 3005.
 
-No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, aludidas en el numeral 1.6 de este título, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005.
+No obstante, las cuentas corrientes sujetas a condiciones especiales establecidas en las Normas de Cambios Internacionales del Banco Central de Chile, se reflejarán en la cuenta "Acreedores en cuentas corrientes especiales - normas de cambio", de la misma partida 3005.
 
 Los depósitos por consignaciones judiciales, a que se refiere el artículo 507 del Código Orgánico de Tribunales, se registrarán en la cuenta "Depósitos por consignaciones judiciales artículo 507", de la partida 3010 "Otros saldos acreedores a la vista".
 
