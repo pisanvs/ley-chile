@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº844 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº48, superficie 1.310 m², Rol de Avalúo Nº152-59, comuna de San Nicolás, para la obra ''Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Tramo Km. 6.900.00 al 28.833.35'', VIII Región y se acordó el valor de indemnización con su propietario Carlos Orlando Pino Carrasco, ascendente a la cantidad de $811.943.-
+
+Fiscal del Ministerio de Obras Públicas.
