@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 595, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 29, superficie 2.166,58 M2, rol de avalúo 138-79, comuna de Chonchi, X Región, para la obra ''Camino Acceso Sur a Chonchi, Sector Ruta 5-Chonchi, Km. 0.000 al 3,25253'' y se acordó el valor de indemnización con su propietario don Mario Benito Gómez Andrade, ascendente a la cantidad de $1.897.366.-
+
+Fiscal del Ministerio de Obras Públicas.
