@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.175, de 4 de noviembre de 2004, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº 2.615, Nº 2.617 y Nº 2.619, todas de 2004, de esta Subsecretaría, que declararon la caducidad de las resoluciones que autorizaron a SOCIEDAD PESCA MARINA LIMITADA para desarrollar actividades pesqueras extractivas con las naves "Pólux", "Gringo" e "Isla Lennox", en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 4 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
