@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.526, de 6 de septiembre de 2004, de esta Subsecretaría, autorízase a SALMOALIMENTOS S.A., para ampliar actividades pesqueras extractivas con la nave "Carolina III", en el área marítima correspondiente a las Regiones V, VI, VII y X, con cerco, donde podrá capturar, por fuera del área de reserva artesanal, el recurso hidrobiológico Jibia.
+
+Valparaíso, 6 de septiembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
