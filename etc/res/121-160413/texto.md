@@ -1,0 +1,5 @@
+EXTRACTO DE CANCELACION DE PERSONALIDAD JURIDICA DE "ASOCIACION GREMIAL DE LA MEDIANA Y PEQUEÑA INDUSTRIA, ARTESANADO Y APICULTURA DE LA PROVINCIA DE ARAUCO"
+
+Por resolución No. 121, de 31 de Diciembre de 1984, del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la "Asociación Gremial de la Me diana y Pequeña Industria, Artesanado y Apicultura de la Provincia de Arauco", inscrita bajo el No. 1.265, por haberse configurado respecto de ella la causal establecida en el artículo 5° inciso 3° en relación con el artículo 18° No. 2 letra a), ambos del DL No. 2.757, Los bienes quedados una vez liquidad la asociación deberán ser entre gados al Cuerpo de Bombero de Cañete.
+
+Jorge Valenzuela Durán, Coronel de Ejército Subsecretario de Economía, Fomento y Reconstrucción.
