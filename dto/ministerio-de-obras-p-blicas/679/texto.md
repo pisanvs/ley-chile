@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 679, de 29 de julio de 1997, se expropió el lote de terreno N° 72, superficie 21.175 m2, rol de avalúo 152-8, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Faja de Expropiación Canal Matriz, Sector Trilaleo Pemuco y se acordó precio de indemnización con su propietario José Eleodoro Muñoz Muñoz, ascendente a la cantidad de $4.563.782.
+
+Fiscal del Ministerio de Obras Públicas
