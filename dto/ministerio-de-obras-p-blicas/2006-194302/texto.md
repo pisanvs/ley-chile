@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.006, de 30 de noviembre de 2001, se expropió el lote de terreno Nº23-D1, superficie 406 m2, rol de avalúo 50-3, comuna de Purranque, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector: Población Dollinco de Kms. 957,100 al 957,400, Décima Región y se acordó el valor de indemnización con su propietario Humberto Pillancar Leiva, ascendente a la cantidad de $9.951.686.-
+
+Fiscal del Ministerio de Obras Públicas.
