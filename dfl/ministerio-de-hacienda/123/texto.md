@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación de material de propaganda, muestras, discos con música folklórica y otros elementos, destinados a las exposiciones extranjeras que se realicen en Chile; deroga el decreto con fuerza de ley 24, de 20 de marzo de 1953.
