@@ -1,0 +1,3 @@
+Por decreto Nº 129, de 30 de Abril de 1985, se expropió el lote Nº 11 y mejora 11-a, cuya superficie es 1.673,96 m²., rol de avalúo 294-1, comuna de Santiago, Región Metropolitana, para prolongación Línea Nº 2, del Metro, sector Mapocho con Avenida Manuel Rodríguez y se acordó el precio de indemnización con sus propietarios Esso Chile S.A. Petrolera y otro y Guillermo Hormazábal e Hijos y Compañía Limitada, ascendente a las cantidades de $ 20.793.392. y $ 3.097.520.-
+
+Fiscal del Ministerio de Obras Públicas.
