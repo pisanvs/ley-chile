@@ -1,0 +1,3 @@
+Por resolución Nº 2.760, de 29 de noviembre de 2002, de esta Subsecretaría, modifícase la resolución Nº 2.609 de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería artesanal de Merluza común en las caletas artesanales del sector centro de la VIII Región", en el sentido de aumentar en 100 toneladas la captura autorizada para el cumplimiento del objetivo de la investigación, las que acrecerán la fracción autorizada para el mes de diciembre.
+
+Valparaíso, 29 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
