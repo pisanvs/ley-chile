@@ -1,0 +1,5 @@
+Por resolución Nº 1.724, de 2 de septiembre de 1999 de esta Subsecretaría, autorízase a WALTERIO SEGUNDO PAEZ ALMEJO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en lote Panamericana Norte, Río Lluta, comuna y provincia de Arica, I Región, donde podrá procesar en las líneas de elaboración de Seco-salado y Deshidratado, los siguientes recursos hidrobiológicos: Anchoveta, Azulejo, Bonito, Sardina común, Pejerrey de mar, Cabinza, Cojinoba del norte, Lenguado de ojos grandes, Ayanque, Roncacho, Caballa, Palometa, Pampanito y Tollo.
+
+Déjase sin efecto la resolución Nº 1.099, de 1999, de esta Subsecretaría, en virtud de lo dispuesto en el artículo 6º del D.S. Nº 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
