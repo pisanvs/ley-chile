@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.707, de 24 de junio de 1999, se expropió el lote de terreno Nº 88, superficie 4.540 m2., rol de avalúo 218-1, comuna de Canela, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector A, Bifurcación Illapel - Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietaria Inmobiliaria Agua Dulce S.A., ascendente a la cantidad de $1.100.629.
+
+- Fiscal del Ministerio de Obras Públicas.
