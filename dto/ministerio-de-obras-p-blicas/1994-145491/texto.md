@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.994, de 30 de julio de 1999, se expropió el lote de terreno Nº22, superficie 17.238 m2., rol de avalúo 208-66, comuna de Rengo, para la obra Mejoramiento Ruta 5, Longitudinal Sur, Sector Pasada por Rengo, Sexta Región, y se acordó el valor de indemnización con sus propietarios Erika del Pilar Marmolejo Cubillos y otro, ascendente a la cantidad de $528.076.919.-
+
+Fiscal del Ministerio de Obras Públicas.
