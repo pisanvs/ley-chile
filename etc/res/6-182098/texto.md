@@ -1,0 +1,3 @@
+Mediante resolución Nº 6, de 22 de enero del año 2001, se aprobó reforma parcial al estatuto de la Federación Chilena de Cooperativas de Ahorro y Crédito Limitada, en los términos que da testimonio la escritura pública, de fecha 21 de diciembre de 2000, suscrita ante el Notario Público de Santiago, don Fernando Opazo Larraín.
+
+Por orden del señor Subsecretario, Cecilia González Martínez, Jefe Departamento de Cooperativas (S) Ministerio de Economía, Fomento y Reconstrucción.
