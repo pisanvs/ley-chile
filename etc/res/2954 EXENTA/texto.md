@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.954, de 19 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud Nº99103162 de modificación del proyecto técnico aprobado por resolución Nº46 de 1997, de esta Subsecretaría, presentada por PESQUERA TALCAN LIMITADA, para el centro de cultivo ubicado en Estero Tecol, Isla Talcan, X Región.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
