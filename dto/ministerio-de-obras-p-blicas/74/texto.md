@@ -1,0 +1,7 @@
+Por Decreto M.O.P. N° 74, de 8 de Marzo de 1993, y en base a la facultad otorgada por el artículo 105 del Decreto MOP. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terreno A y B, para la obra Agua Potable de Tomé, Desarenador Collén-Las Quilas, que figuran a nombre de Manuel Quiero Vásquez, rol de avalúo 403-1, Comuna de Tomé, superficies 7.650 m2. y 3.539 m2. Deslindes: Lote A: Norte, en 110 mts aproximadamente en línea quebrada con propiedad de la Sra. Patricia Quiero Fuentes; Sur, en 83 mts. aproximadamente en línea quebrada con Estero Collén; Oriente, en 86 mts. aproximadamente ocn propiedad de Essbío S.A., y Poniente, en 148 mts. aproximadamente en línea irregular con Estero Collén. Lote B: Norte, en 103 mts. aproximadamente en línea irregular con Estero Collén; Sur, en 53 mts. aproximadamente con camino Tomé Rafael; Oriente, en 220 mts. aproximadamente en línea irregular con propiedad de la Sra. Patricia Quiero F. y 6 mts. con propiedad de Essbío S.A., y Poniente, en 126 mts. aproximadamente en línea irregular con Estero Las Quilas. La Comisión de Peritos compuesta por los señores Manuel Concha Rojas, José Gálvez Alegría y Ramón Jofré Soto, fijó con fecha 11 de Noviembre de 1991, los valores provisionales de la indemnización en las cantidades de $ 1.530.000.- y $ 707.800.-
+
+respectivamente. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
+
+(3)
