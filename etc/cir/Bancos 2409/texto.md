@@ -2378,11 +2378,23 @@ Asimismo, no existe inconveniente legal para que dos o más personas abran una c
 
 No existe ninguna disposición que exceptúe a estas cuentas corrientes a nombre de varios titulares, de las normas generales acerca de la sucesión por causa de muerte y de los impuestos que las afectan. Corresponderá, pues, a los titulares sobrevivientes, demostrar las relaciones que los unían con el causante y el origen y dominio del dinero que se encontraba depositado, si desean evitar que se colacione con su patrimonio.
 
-1.6. Cuentas corrientes a nombre del partidor de una sucesión.
+1.6.- Cuentas corrientes a nombre del partidor de una sucesión y de personas naturales o jurídicas en quiebra.
+
+a) A nombre del partidor de una sucesión.
 
 La sucesión hereditaria no es persona jurídica, razón por la cual no se abren cuentas corrientes bancarias a nombre de las sucesiones, sino de los herederos.
 
-Sin embargo, cuando se ha designado partidor de una herencia, por instrucciones del Colegio de Abogados dicho partidor debe depositar el dinero de la comunidad en una institución bancaria. La cuenta en tal caso se denomina "Sucesión de don........de la cual es partidor don.....El partidor debe acreditar su nombramiento y la aceptación del cargo. Para girar sobre los fondos deberá acompañar el acuerdo adoptado con tal objeto en el juicio de partición.
+Sin embargo, cuando se ha designado partidor de una herencia, por instrucciones del Colegio de Abogados dicho partidor debe depositar el dinero de la comunidad en una institución bancaria La cuenta en tal caso se denomina "Sucesión de don de la cual es partidor don ". El partidor debe acreditar su nombramiento y la aceptación del cargo. Para girar sobre los fondos deberá acompañar el acuerdo adoptado con tal objeto en el juicio de partición.
+
+b) A nombre de una quiebra.
+
+El N° 17 del artículo 27 de la Ley N° 18.175 establece entre las obligaciones de un síndico de quiebra "Depositar a interés en un banco o institución financiera los fondos que perciba, en cuenta separada para cada quiebra y a nombre de ésta, y abrir una cuenta corriente con los fondos indispensables para solventar los gastos que aquella demande".
+
+En consecuencia y para que los síndicos puedan dar cumplimiento a la obligación legal antedicha, los bancos a los que se les solicite recibir tales depósitos, registrarán éstos a nombre de la quiebra correspondiente, seguido del nombre del respectivo síndico.
+
+Igual procedimiento deben aplicar para la apertura de la cuenta corriente, de la cual el síndico girará para pagar los gastos que demande la quiebra.
+
+Por las especiales características de estas cuentas y atendidos los requisitos que obligan a los partidores y síndicos a establecerlas, los bancos no debieran aplicar a ellas las condiciones que, en general pudieran exigir para una cuenta corriente, relativas a mantener un saldo mínimo o registrar un determinado movimiento".
 
 1.7. Cuentas corrientes a nombre de patrimonios que carecen de personalidad jurídica pero cuyos administradores gozan de tal atributo.
 
