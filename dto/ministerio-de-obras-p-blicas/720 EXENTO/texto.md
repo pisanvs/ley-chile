@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 720 de fecha 31 de mayo de 2001, se expropió el lote de terreno Nº 10-G, superficie 123,00 m2, rol de avalúo 65-286, comuna de Teno, para la obra "Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,22000 a Km. 25,00000" y se acordó el valor de indemnización con su propietario Gustavo Jesús Saavedra Muñoz, ascendente a la cantidad de $520.856.-
+
+Fiscal del Ministerio de Obras Públicas.
