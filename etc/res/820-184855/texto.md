@@ -1,0 +1,7 @@
+Por resolución Nº820, de 27 de abril de 2001, de esta Subsecretaría, autorízase a PESQUERA LIGURE S.A., para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en calle Manuel Rodríguez Nº302, comuna de Talcahuano, provincia de Concepción, VIII Región, donde podrá procesar en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Harina y Aceite de Pescado: Anchoveta, Sardina española, Sardina común, Caballa, Jurel, Merluza de cola, Merluza de tres aletas, Agujilla y Krill; Conservas: Agujilla, Cochinilla, Cabinza, Cojinoba del norte, Cojinoba del sur, Dorado, Palometa, Roncacho, Sierra, Jurel, Sardina española, Sardina común, Sardina austral, Caballa, Bonito, Barrilete o Cachurreta, Atún aleta amarilla, Atún aleta larga, Atún aleta azul, Atún ojos grandes, Congrio colorado, Congrio dorado, Congrio negro, Merluza austral, Merluza de cola, Merluza de tres aletas, Lenguado de ojos chicos, Cojinoba moteada, Corvina, Róbalo, Raya, Azulejo, Tollo, Bacaladillo o mote, Anchoveta y Machuelo o tritre.
+
+La materia prima deberá provenir de pescadores artesanales e industriales, debidamente autorizados.
+
+Déjase sin efecto las resoluciones Nº2 de 1980, Nº166 de 1984, Nº239 de 1993, Nº245 y Nº544, ambas de 1998 y Nº412 de 2000, todas de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 27 de abril de 2001.- Edith Saa Collantes, Subsecretario de Pesca (S).
