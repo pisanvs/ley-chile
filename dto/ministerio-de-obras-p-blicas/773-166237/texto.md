@@ -1,0 +1,3 @@
+Por decreto MOP Nº773, de 29 de febrero del 2000, se expropiaron los lotes de terreno Nºs. 105 y 105-1, superficies 2.876,0 m2. y 1.247,0 m2., rol de avalúo 251-30, comuna de Lautaro, para la obra Concesión Internacional Ruta 5. Tramo: Collipulli - Temuco, Novena Región y se acordó el valor de indemnización con sus propietarios Gastón Carlos Caminondo Vidal y Otros, ascendente a la cantidad total de $35.027.273.-
+
+Fiscal del Ministerio de Obras Públicas.
