@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 177, de 29 de julio de 1988, se expropiaron los lotes 1 y 2, superficies 1.346,5 m2. y 327 m3. respectivamente, rol de avalúo para ambos lotes 210-82, Comuna de Curacautín, IX Región, para Camino Manzanar - Pino Hachado, sector Manzanar - Lonquimay y se acordó precio de indemnización con su propietario don Ricardo Tascón González, ascendente a $ 132.179.-
+
+Fiscal del Ministerio de Obras Públicas.
