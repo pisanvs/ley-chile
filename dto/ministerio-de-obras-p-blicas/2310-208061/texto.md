@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.310, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº21, superficie 623 m2, Rol Nº106-55, comuna de Coltauco, VI Región, para la obra "Camino Molino-Hijuela del Medio, Rol H-320, Km. 0,000 a Km. 4,100" y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Coltauco, ascendente a la cantidad de $4.497.389.-
+
+Fiscal del Ministerio de Obras Públicas.
