@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 642 de fecha 30 de abril del 2004, se expropió el lote de terreno Nº 7-B, superficie 327 m², Rol Nº 503-2, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0.00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietario Nelson del Carmen Cornejo Santibáñez, ascendente a la cantidad de $509.028.
+
+- Fiscal del Ministerio de Obras Públicas.
