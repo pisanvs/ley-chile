@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 686, de 25 de julio de 1997, se expropió el lote de terreno Nº 12, superficie 824 m2., rol de avalúo 4505-154, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, sector Ruta 5 Sur - Departamental y Eje General Velásquez y se acordó precio de indemnización con la propietaria doña Gloria Patricia Gidi Hasbun, ascendente a la cantidad de $32.482.440.-
+
+Fiscal del Ministerio de Obras Públicas.
