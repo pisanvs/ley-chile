@@ -1,0 +1,7 @@
+Obsequio a la Biblioteca Nacional
+
+Excmo. Señor Director Supremo:
+
+Deseo ardientemente la prosperidad de nuestra República, i la ilustracion de los individuos, que la componen i sostienen. Para esto sin duda conduce mucho la Biblioteca Nacional, que se está realizando por su órden, i bajo su proteccion. Entre las selectas obras, que la componen i adornan, quizá falta alguna majistral que trate de medallas. Todos los ilustrados saben que la ciencia Numismática es como un almacen universal, donde cada facultad halla armas, con que defenderse. Tengo de mi uso la coleccion de las Colonias, Municipios i Pueblos Antiguos de España en tres tomos de a 4.° mayor en papel fino i buena pasta, i si V.E. la juzga útil al bien comun, con la licencia de su Prelado, la ofrece gustoso a la nacion chilena el ciudadano.- Fr. Gregorio Vázquez.
+
+Santiago, Setiembre 9 de 1820.- Se admite la jenerosa oferta del P. Fr. Gregorio Vázquez. Póngase en noticia del Director de la Biblioteca Nacional, para que reciba la obra que cita. La Patria estará siempre reconocida a los servicios de este digno ciudadano, que con esfuerzos superiores a sus facultades coopera a la ilustracion pública.-Insértese en la Gaceta Ministerial este memorial i su proveido.-O'Higgins.-Echeverría.
