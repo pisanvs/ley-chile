@@ -1,0 +1,3 @@
+Por Decto. Secc. 2ª. No. 626 de 12 de Julio de 1990 Alcalde I. Municipalidad de Santiago dispone expropiación total conforme D.S. 458 Vivienda y Urbanismo Ley 18.695 y D.Ley 2.186 inmueble Santa Isabel 156 Rol 609-7 Comuna de Stgo. Superficie aproximada 164 m2., deslindes Norte, 5,65 mts. calle Santa Isabel; Sur, 5,65 otro propietario; Oriente, 29 mts. otro propietario y, Poniente, 29 mts. propiedad Municipalidad de Santiago, Indemnización provisional $ 2.952.000,-pagadera contado.-
+
+Jaime Ravinet de la Fuente, Alcalde Stgo.
