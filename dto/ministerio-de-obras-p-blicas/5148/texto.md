@@ -1,0 +1,3 @@
+Por decreto MOP 5.148, de 30 de noviembre del 2000, se expropió el lote de terreno Nº152-36, superficie 185 m², rol de avalúo 1282-108, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Luis Humberto Negrete Sepúlveda, ascendente a la cantidad de $15.418.970.-
+
+Fiscal del Ministerio de Obras Públicas.
