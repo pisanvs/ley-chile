@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº318, de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº20, superficie 77 m2, Rol de Avalúo Nº511-51, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 al Km. 13,841.12" y se acordó el valor de indemnización con su propietario Oscar Arnaldo Carrasco Campos, ascendente a la cantidad de $516.633.-
+
+Fiscal del Ministerio de Obras Públicas.
