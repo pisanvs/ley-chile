@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.513, de 31 de agosto de 1999, se expropió el lote de terreno Nº36, superficie 18.000 m², rol de avalúo 250-3, comuna de Salamanca, para la obra Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias y se acordó el precio de indemnización con su propietario Eduardo de la Cruz Suárez Moyano, ascendente a la cantidad de $14.241.416.-
+
+Fiscal del Ministerio de Obras Públicas.
