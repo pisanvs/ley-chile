@@ -1,0 +1,3 @@
+Con fecha 21 de Abril de 1986, Diario Oficial No. 32.452, Página 3, se publicó Resolución No. 20 de 19-02-86 Departamento Cooperativas Ministerio Economía, La cual aprobó disolución "Sociedad de Edificación de Viviendas Río Claro Ltda.", de Talca, según acuerdo de socios, reducido escritura pública fecha 23-01-86, ante Notario de Talca don Manuel Alfredo Ibáñez Barrios. Rectifica siguiente sentido: donde decía "ante Notario de Talca don Manuel Alfredo Ibáñez Barrios", debió decir "ante Notario de Talca don Eduardo Ramírez Letelier".- La presente rectificación debe entenderse como parte integrante de la Resolución de Disolución de la Cooperativa mencionada, para todos los efectos legales.
+
+Talca, 24 de Mayo de 1989.
