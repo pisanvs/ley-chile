@@ -1,0 +1,3 @@
+Por resolución exenta N° 3 del 20 de Mayo de 1993, se adjudica a Servicio Oriente Soc. Ltda. la concesión para operar, hasta el 14 de Febrero de 1995, un establecimiento ubicado en calle Bilbao 1070, de la comuna de Providencia, destinado a la verificación de emisiones contaminantes de vehículos motorizados livianos, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Marcelo Belmar Berenguer, Secretario Regional Ministerial (S) Transportes y Telecomunicaciones, Región Metropolitana.
