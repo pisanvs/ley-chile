@@ -1,0 +1,3 @@
+Por Resolución Nº701 de 31 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución Nº563, de 1992, de esta Subsecretaría, que amplió por un año a contar del 05 de septiembre de 1992, el plazo otorgado a don NIBALDO EFRAIN TORRES MALDONADO, R.U.T. Nº7.976.152-4, domiciliado en la localidad de Nal, Estero El Dique, con domicilio postal casilla 52, Ancud, X Región, para realizar actividades de cultivo, en donde dice "en el numeral 5º de la Resolución Nº942, de 1991" debe decir "en el numeral 5º de la Resolución Nº428, de 1991".
+
+Valparaíso 31 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
