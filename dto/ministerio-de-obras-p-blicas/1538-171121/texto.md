@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.538, de 28 de abril de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+36-A y 36-C; para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector H: Km. 128.400,00 - Km. 140.850,00, Sexta Región, que figuran a nombre de Cartones San Fernando S.A., rol de avalúo 273-76, comuna de San Fernando, superficies 477 m² y 1.855 m². La Comisión de Peritos integrada por los señores Manuel Hernán Díaz Farfán, Orlando Antonio Fariña Vásquez y René Octavio Corvalán Correa, fijó con fecha 25 de febrero de 2000, el valor provisional de la indemnización en las cantidades de $2.651.300.- para el lote Nº36-A y de $12.104.700.- para el lote Nº36-C.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
