@@ -1,0 +1,3 @@
+Por decreto MOP Nº 566 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº 54, superficie 876 m2, rol de Avalúo Nº 2020-73, comuna de Melipilla, para la obra "Camino Ruta G-668, sector El Molino - Codigua, tramo Km. 0.000,00 a Km. 9.154,90", Región Metropolitana y se acordó el valor de la indemnización con su propietario Agrícola Las Aguilas Limitada, ascendente a la cantidad de $4.445.532.
+
+Fiscal del Ministerio de Obras Públicas.
