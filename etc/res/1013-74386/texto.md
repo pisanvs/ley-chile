@@ -1,0 +1,3 @@
+Por Resolución Nº 1.013 de 11 de julio de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95106053, presentada por Lidia del Rosario Diaz Vargas, para el centro de cultivo ubicado en Estero Huildad, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo Nº 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción y Nº 78º y Nº 88º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
