@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución 281, 4 septiembre 1996, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Los Carrera N° 2072-2080, Rol de Avalúo N° 350-30, comuna Concepción, superficie 144 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-11029-350-30; de aparente dominio de Convención Evangélica Bautista, para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 19 de julio de 1996, fijó monto provisional indemnización en $8.988.000.-, pagadera de contado.-
+
+Director SERVIU Región del Bío Bío.
