@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 148, de fecha 27 de diciembre del año 2000, se aprobó la disolución voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Los Morros Ltda., de sigla ''Coop. Los Morros'' de la ciudad de Santiago; que consta del acta protocolizada al final de los registros del Notario de Santiago Osvaldo Pereira González, bajo el Nº 5731-00, con fecha 13 de noviembre del año 2000.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
