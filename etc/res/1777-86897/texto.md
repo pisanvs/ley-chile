@@ -1,0 +1,5 @@
+Por resolución Nº 1.777, de 30 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se rechaza la solicitud de ampliación de plazo presentada por don BRANKO VALCIC VALCIC, por no constituir los antecedentes alegados un caso de fuerza mayor.
+
+Se declara la caducidad de los permisos y autorizaciones otorgados a don Branko Valcic Valcic, para operar la nave "Armiño", en virtud de las resoluciones Nº 1.053 de 1988 y Nº 1.601 de 1996, ambas de esta Subsecretaría, de acuerdo a lo dispuesto en el Art. Nº 143 letra b) del D.S. Nº 430 de 1991 del Ministerio de Economía, Fomento y Reconstrucción, por la causal de suspensión de operaciones de pesca por más de 12 meses.
+
+Valparaíso, 30 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
