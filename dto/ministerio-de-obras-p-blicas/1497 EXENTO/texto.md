@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.497, de 23 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº14-2, para la obra: ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Enlace Algarrobo. Lámina Especial Nº2. Peaje Lateral.
+
+Km. 66.200,00 a Km. 66.800,00'', Quinta Región, que figura a nombre de Hotel Manquehue Ltda., rol de avalúo 154-276, comuna de Casablanca, superficie 378 m2. La comisión de peritos integrada por los señores Joaquín Prieto Ochagavía, Mauricio Rodrigo Rojo Vega y Claudia Paola Arellano Gómez, fijó con fecha 29 de julio de 2002, el valor provisional de la indemnización en la cantidad de $2.026.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
