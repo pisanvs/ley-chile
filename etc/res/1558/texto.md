@@ -1,0 +1,3 @@
+Por Resolución N° 1.558, de 16 de agosto de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por PEDRO DOMINGO MARTINEZ BARRIA, para un centro de cultivo ubicado en Isla Butachauques, Comuna de Quemchi, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos 78° y 87°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
