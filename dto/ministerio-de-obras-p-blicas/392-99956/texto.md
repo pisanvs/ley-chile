@@ -1,0 +1,3 @@
+Por decreto MOP. No. 392, de 31 de marzo de 1998, se expropiaron los lotes de terreno No.s. 32, 37 y 38, superficies 5.746 m., 472 m. y 87 m., roles de avalúo en trámite, 2015-4 y 2015-5, comuna de Quilicura, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, y se acordó el valor de indemnización con su propietaria Inversiones Longisur Limitada, ascendente a la cantidad de $ 485.670.045.- para los tres lotes.
+
+- Fiscal del Ministerio de Obras Públicas.
