@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 47 EXENTA, DE 2003
+
+Por Res. SII Nº47 de 1 de septiembre de 2003, se autoriza como emisores de documentos tributarios electrónicos a contar del mes de septiembre de 2003 a los contribuyentes RUT 96.919.050-8, RUT 90.274.000-7, RUT 70.017.820-K, RUT 92.580.000-7, RUT 88.683.400-4, RUT 96.915.310-6, RUT 96.697.410-9, RUT 78.079.790-8, RUT 77.586.860-0, RUT 78.720.940-8, RUT 90.430.000-4, RUT 79.907.790-6, RUT 77.417.310-2 y RUT 93.360.000-9. En el sitio Web del SII se podrá consultar los documentos que cada contribuyente está autorizado a emitir en forma electrónica.
+
+El texto íntegro de la resolución se encuentra incluido en el sitio Web del Servicio de Impuestos Internos en Internet, cuya dirección es http://www.sii.cl y será publicado en el Boletín Oficial del Servicio del mes de septiembre de 2003.
