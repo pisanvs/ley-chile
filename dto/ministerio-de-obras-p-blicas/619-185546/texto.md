@@ -1,0 +1,3 @@
+Por decreto MOP Nº619, de 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs 38-A y 38-B, superficies 7.261 m² y 107 m², rol de avalúo 866-55, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar, Troncal Sur Tramo 1, Atravieso Los Almendros, Quinta Región y se acordó el valor de indemnización con su propietaria Margarita Delfina Yáñez Toledo, ascendente a la cantidad total de $39.337.991.
+
+Fiscal del Ministerio de Obras Públicas.
