@@ -1,0 +1,5 @@
+Por resolución Nº 495, de 3 de marzo de 2000 de esta Subsecretaría, autorízase a ALIMENTOS PACIFIC STAR S.A., para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 73, Nº 79, de 1979, Nº 91 de 1980, Nº 781 de 1985, Nº 200, de 1986, Nº 683 de 1989, Nº 59 de 1993, Nº 1.910 de 1998 y Nº 597 de 1999, todas de esta Subsecretaría, donde podrá incorporar a la planta ubicada en camino San Antonio s/nº, rural, Quellón, X Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco, Refrigerado y Congelado: Salmón rey, Salmón plateado, Salmón del Atlántico, Trucha arcoiris o Cabeza de acero y Salmón keta. Embutidos-Ahumado: Salmón keta.
+
+Los recursos Salmón rey, Salmón plateado, Salmón del Atlántico, Trucha arcoiris o Cabeza de acero, Salmón keta, deberán provenir de centros de cultivo debidamente autorizados.
+
+Valparaíso, 3 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
