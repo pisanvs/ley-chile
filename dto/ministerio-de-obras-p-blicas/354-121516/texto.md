@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 354, de 31 de marzo de 1998, se expropiaron los lotes de terreno Nº s. 8, 9 y 12, superficies 213,50; 2.140,50 y 2.897,00 m2., roles de avalúo 21-248 y 21-257, comuna de Río Claro, obra Camino Ruta K-245, Sector El Bolsico Cumpeo, y se acordó precio de indemnización con sus propietarios Víctor Manuel Aguilar Baeza y Gilberto Orlando Vergara Valenzuela, ascendente a la cantidad de $ 156.271.- lote 8 y $ 1.749.900.- lotes 9 y 12, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
