@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.045, de 29 de junio de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 15, para la obra Mejoramiento Ruta C-35, sector Paipote Cerrillos, que figura a nombre de Izquierdo Meléndez Maria Eujen y ot, rol de avalúo 23-2, superficie 5.200 m2, comuna de Tierra Amarilla. La Comisión de Peritos, con fecha 10 de mayo de 1999, fijó la indemnización provisional en la cantidad de $13.000.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
