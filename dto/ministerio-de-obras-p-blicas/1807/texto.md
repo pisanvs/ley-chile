@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.807, de 28 de abril de 2000, se expropió el lote de terreno Nº24-C1, superficie 56 m², rol de avalúo 1509-491, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5; Tramo Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Pedro Felidor Cáceres Sánchez, ascendente a la cantidad de $190.444.
+
+Fiscal del Ministerio de Obras Públicas.
