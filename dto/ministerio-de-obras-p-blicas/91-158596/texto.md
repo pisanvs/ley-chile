@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 91, de 22 de abril de 1986, se expropiaron los lotes N°s. 1 y 2, superficies 1.900 m2 y 7.900 m2, rol de avalúo 7.023-4, comuna de Talcahuano, para Camino Autopista Concepción a Talcahuano, sector Autopista Avda. O'Higgins, Km. 1.600 al 2.400 y se acordó preció de indemnización con sus propietarios don Juan José Herrera Riesco y otros, ascendente a $ 809.400 para el lote 1 y $ 2.776.455 para el lote 2, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
