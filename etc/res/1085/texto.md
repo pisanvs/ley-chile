@@ -1,0 +1,5 @@
+Por Resolución N° 1.085 de 24 de Diciembre de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, téngase por cumplida la condición establecida en el numeral 6° de las Resoluciones N° 1.431 y N° 1.432, ambas de 1992, de esta Subsecretaría, atendido el hecho de haberse verificado por el Servicio Nacional de Pesca, que la empresa PESQUERA QUINTERO UNO S.A., R.U.T. N°96.596.570-K, ha dado cumplimiento dentro del plazo legal a lo dispuesto en el artículo 3° transitorio, incisos 3° y 4° del D.S.
+
+N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, por cuanto ha completado la instalación de la capacidad de reducción, en la planta ubicada en Quintero, autorizada por Resolución N° 1.013, de 1991, de esta Subsecretaría, ascendente a 79,5 toneladas de materia prima por hora.
+
+Valparaíso, 24 de Diciembre de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
