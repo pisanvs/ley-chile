@@ -1,0 +1,3 @@
+Por decreto MOP Nº1589, de 12 de octubre de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Camino Punitaqui-Los Trigos, sector Estero El Toro, que figura a nombre de Comunidad Punitaqui, rol de avalúo 52-1, superficie 1.925 m², comuna de Punitaqui. La Comisión de Peritos con fecha 7 de febrero de 2001, fijó la indemnización provisional en la cantidad de $3.718.750, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
