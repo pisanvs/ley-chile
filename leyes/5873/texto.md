@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Florida contratar empréstito hasta por $ 60,000 a fin de destinar su producto al mejoramiento del servicio de alumbrado y fuerza eléctrica; y eleva a 1o/oo adicional el impuesto a la renta que grava las propiedades raíces de la comuna.
