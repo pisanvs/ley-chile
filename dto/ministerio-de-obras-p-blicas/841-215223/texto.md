@@ -1,0 +1,5 @@
+Por decreto MOP Nº 841, de 14 de agosto de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes de terreno Nºs. 42 y 42-A para la obra: Camino Ruta S-10, sector Cruce Long. (Lautaro) - Galvarino, tramo Km. 0,000 a Km. 34,50853, etapa Km.
+
+0,000 al Km. 18,000, que figuran a nombre de Inmobiliaria Bretana Limitada, Rol de Avalúo 252-7, comuna de Lautaro, IX Región, superficies 8.244 m² y 148 m². La Comisión de Peritos fijó con fecha 2 de octubre de 2002 el monto de la indemnización provisional en la cantidad de $6.439.380 para el lote Nº 42 y $95.460 para el lote Nº 42-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
