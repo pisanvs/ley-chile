@@ -1,0 +1,5 @@
+Por resolución No. 89 de 22 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a doña TERESA SALDIVIA MORAGA, RUT No. 6.316.095-4, domiciliada en calle Bellavista No. 059, Punta Arenas, para ampliar las actividades pesqueras, autorizadas por resolución No. 7, de 1985, de esta Subsecretaría, en orden a incorporar en la planta industrial autorizada a operar por la resolución No. 7, antes citada, la línea de elaboración de congelado, en la cual procesará, los siguientes recursos hidrobiológicos: Brótula, cojinoba, merluza del Sur, merluza de cola, raya, sardina común, almeja y piquilhue.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
