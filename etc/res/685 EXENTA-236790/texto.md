@@ -1,0 +1,11 @@
+Por resolución exenta Nº 685, de 15 de marzo de 2005, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia desarrollado dentro del marco del Proyecto FIP Nº 2005-05 "Evaluaciones hidroacústicas de Merluza común, año 2005", elaborados por el solicitante y aprobados por esta Subsecretaría y el Fondo de Investigación Pesquera.
+
+El objetivo de la pesca de investigación consiste en evaluar el stock de Merluza común, a través del método hidroacústico, entre el límite norte de la IV Región y la X Región, en dos distintos períodos del año 2005.
+
+La pesca de investigación se efectuará entre el límite norte de la IV Región (paralelo 29°10' L.S.) hasta el paralelo 42° L.S., desde la primera milla de la costa hasta una línea imaginaria paralela ubicada a una distancia de 7 millas marinas contadas desde las líneas de base respectivas o 500 metros de profundidad, entre la fecha de la presente resolución y el 31 de agosto de 2005, ambas fechas inclusive.
+
+En la pesca de investigación que se autoriza, participará realizando tareas de prospección hidroacústica y muestreo, utilizando red de arrastre de 6 paneles, con cubre copo, el B/I "Abate Molina". En cumplimiento del objetivo de la presente pesca de investigación, la nave participante podrá extraer una cuota total de 100 toneladas del recurso hidrobiológico Merluza común, como recurso objetivo, y 6 toneladas de Merluza de cola, 4 toneladas de Besugo, 4 toneladas de Raya volantín, 2 toneladas de Langostino amarillo, 1,5 toneladas de Jurel, 1 tonelada de Langostino colorado, 0,5 tonelada de Anchoveta, 1 tonelada de Camarón nailon, 0,5 tonelada de Merluza del sur y 0,5 tonelada de Alfonsino, como fauna acompañante. Asimismo, en cumplimiento de los objetivos de la presente pesca de investigación, la nave participante podrá extraer los recursos hidrobiológicos que constituyen fauna acompañante de Merluza común.
+
+El Instituto designa como persona responsable de esta pesca de investigación a su Director Ejecutivo, don Guillermo Moreno Paredes.
+
+Valparaíso, 15 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
