@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.037 de fecha 28 de junio de 2002, se expropiaron los lotes de terreno Nº2-A y 2-B, superficies 229,00 y 200,00 m2., rol de avalúo Nº157-3, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 a Km. 16,340'', X Región y se acordó el valor de indemnización con su propietario Bertoldo Guerrero Guerrero, ascendente a la cantidad de $3.233.330.
+
+Fiscal del Ministerio de Obras Publicas
