@@ -1,0 +1,5 @@
+Con esta fecha, el Director Regional del SENDOS, ha dispuesto lo siguiente: Vistos: Las facultades que me confieren los artículos 2 y 3 del DL No. 2.186 de 1978 y la resolución SENDOS exenta No. 376 de 07 de febrero de 1989 y teniendo presente la necesidad de mejoramiento del servicio de alcantarillado de aguas servidas de Yungay: Resuelvo: Sométase a estudio de expropiación el inmueble rol 589-28 comuna de Yungay, de una extensión de 12 cuadras aproximadamente y los siguientes deslindes: Norte: Río Trilaleo; Sur: Camino Yungay a Cabrero; Oriente: Manríquez y otros y Poniente: Sucesión Jara. Este inmueble se encuentra inscrito a fojas 186 número 254 del Registro de Propiedades de Yungay, del año 1966.
+
+Anótese, publíquese e inscríbase. Sergio Urra Molina, ingeniero civil, Director Regional del SENDOS Región del Bío-Bío.
+
+(21)
