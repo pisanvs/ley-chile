@@ -1,0 +1,7 @@
+Por Resolución N° 493 de 12 de Julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA INDO S.A., R.U.T. N° 92.484.000-5, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones N° 1.543, de 1990 y N° 1.132, de 1991, ambas de esta Subsecretaría, en orden a ampliar las actividades de pesca autorizadas para la nave "Parinacota", construida en Astilleros Arica S.A., por las Resoluciones citadas precedentemente, en el área de pesca de las Regiones que se indican a continuacion donde podrá extraer los siguientes recursos hidrobiológicos, con cerco: Litoral comprendido entre la III y IV Región, con cerco: Anchoveta, Agujilla, Bacaladillo, Bonito, Caballa, Jurel, Palometa, Pejerrey, Roncacho y Sardina.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para operar y capturar en las áreas y recursos hidrobiológicos solicitados no comprendidos en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias señaladas en Vistos.
+
+Valparaíso, 12 de Julio 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
