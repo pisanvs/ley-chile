@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 174 de 14 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado predio "Jaururo" de la comuna de La Ligua, Quinta Región; y derechos de aprovechamiento de aguas que corresponden a las parcelas N°s. 1 a la 4 del proyecto de parcelación "Jaururo" formado por predio señalado. Los derechos de agua se extraen del Estero Jaururo, a través de Canal. Jaururo y pozos.Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
