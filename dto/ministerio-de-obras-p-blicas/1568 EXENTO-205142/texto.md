@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.568, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 129, superficie 861 m2, Rol Nº 78-140, comuna de Galvarino, IX Región, para la obra ''Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al 34,50853'', correspondiente al Subtramo IV, Km. 18,000 al 25,837", y se acordó el valor de indemnización con su propietario Javier Alberto Paulsen Naulin, ascendente a la cantidad de $859.199.-
+
+Fiscal del Ministerio de Obras Públicas.
