@@ -1,0 +1,1 @@
+Concede facilidades a deudores Caja de Colonización Agrícola.
