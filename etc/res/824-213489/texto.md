@@ -1,0 +1,3 @@
+Por Resolución Nº 824 de 28 de noviembre 1990 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. 2.186 de 1978 parte inmueble ubicado en Avenida Santa Rosa Nº 6740, presunto rol avalúos Nº 2210-31, comuna La Granja aparentemente dominio de don Modesto Fontaine Mendieta. Comisión integrada por Peritos Sres. Roberto Correa Bezanilla, arquitecto, José Miguel Haltenhoff Aenishanslin, constructor civil y Sergio Rojas Ibáñez, ingeniero civil, según informe de 11 de octubre de 1990, fijó monto provisional indemnización en $ 601.750.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
