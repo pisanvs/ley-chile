@@ -1,0 +1,3 @@
+Resolución 321, de 27 de noviembre de 1998, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado al final de la calle Los Alamos, Rol de Avalúo Nº 212-16, comuna Florida, superficie 595,66 m² de terreno, dentro polígono y linderos señalados plano expropiación S8R-14.247, de aparente dominio de Forestal Celco S.A., para ejecución programa de viviendas en comuna de Florida, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Reyes, constructor civil, según informe de fecha 14 de octubre de 1998, fijó monto provisional indemnización en $1.260.498.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
