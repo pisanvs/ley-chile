@@ -1,0 +1,5 @@
+Por Resolución N° 187, de 26 de enero de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESCA CHILE S.A., para ampliar actividades pesqueras que tiene autorizadas por Resolución N° 875, de 1992, de esta Subsecretaría, en orden a operar la embarcación "Chomapi Maru", autorizada por la Resolución citada en el numeral precedente, en el área de pesca comprendida en el ámbito de competencia de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos, correspondiente a la subárea estadística 48.4, Sandwich del Sur, donde podrá extraer los siguientes recursos hidrobiológicos: Bacalao de profundidad, Bacalao antártico Dissostichus mawsoni, Centollón antártico Paralomis spinosissima y Centollón antártico Paralomis formosa.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de enero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
