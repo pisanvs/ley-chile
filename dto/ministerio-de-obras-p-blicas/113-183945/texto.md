@@ -1,0 +1,3 @@
+Por decreto MOP Nº 113 de fecha 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs 5 y 6, superficie 2.917,0 y 3.343,0 m², Rol de Avalúo 112-4, comuna de Corral, para la obra "Camino Longitudinal Costero Sur, Sector El Morro - Chaihuin II (1ª Parte) Km. 15,755 a Km. 27,017" y se acordó el valor de indemnización con su propietario José Anjel Vera Lara, ascendente a la cantidad de $3.091.159.-
+
+Fiscal del Ministerio de Obras Públicas.
