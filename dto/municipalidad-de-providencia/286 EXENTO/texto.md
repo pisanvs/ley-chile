@@ -1,0 +1,3 @@
+Alcaldesa de la I. Municipalidad de Providencia, mediante Decreto No. Ex. 286 de 09 de Mayo de 1986, dispone expropiación parcial, conforme Decreto Supremo No. 458, de Vivienda, de 1976 y Decretos Leyes 1.289, 2.186 y 3.464, de inmueble ubicado en Av. Suecia No. 1923, Rol de Avalúos No. 3233-6, y 3233-37 al 44, aparentemente de propiedad de la Comunidad Edificio Av. Suecia No. 1923, para el ensanche de Av. Bilbao. Deslindes parte expropiada: Al Norte, 17,75 mts. Av. Bilbao; al Sur, 17,75 mts. resto de la propiedad que se expropia; al Oriente, 5 mts. Av. Suecia; al Poniente, 5 mts. con Rol No. 3233-5. Indemnización provisional $ 1.022.750.
+
+- Carmen Grez de Anrique, Alcaldesa.- Jorge O. Herrera Ramírez, Secretario Abogado Municipal.
