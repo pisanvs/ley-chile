@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.066, de fecha 31 de julio del 2001, se expropió el lote de terreno Nº2-A, superficie 4.024 m², rol de avalúo Nº591-13, comuna de Yungay, para la obra "Area de Riego Yungay y Faja Adicional Ramal Entrega Estero Huencheco, Km. 0,023 al Km. 0,526, del Proyecto Laja Diguillín" y se acordó el valor de indemnización con su propietaria Olga Irene Ruiz Ramírez, ascendente a la cantidad de $1.327.655.-
+
+Fiscal del Ministerio de Obras Públicas.
