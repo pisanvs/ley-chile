@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº803 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº62-B, superficie 61 m², Rol de Avalúo Nº154-131, comuna de Ránquil, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas Tramo I, Km. 0,00000 a Km. 5,58300'', VIII Región y se acordó el valor de indemnización con su propietario Pedro del Tránsito Cartes Umaña, ascendente a la cantidad de $122.610.-
+
+Fiscal del Ministerio de Obras Públicas.
