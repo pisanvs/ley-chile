@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 112, de fecha 20 de noviembre del año 2000, se aprobó la Disolución Voluntaria de la Cooperativa de Vivienda y Servicios Habitacionales Colchagua Limitada, de San Fernando, que consta en la escritura pública suscrita con fecha 25 de septiembre del 2000, ante el Notario Público de San Fernando, don Héctor Villarreal Espinoza.-
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
