@@ -76,10 +76,6 @@ b) Colico – Trongol y Santiago;
 
 c) Lebu.
 
-> **Nota.** El artículo segundo del Decreto 110, Economía, publicado el 20.11.2012, complementa el artículo primero de la presente norma, en el sentido de adicionar a la Corporación Nacional del Cobre de Chile las siguientes unidades:a) División Ventanas;b) División Ministro Hales;c) División Radomiro Tomic;d) División Gabriela Mistral, tan pronto se perfeccionen los trámites de su creación.
-
-> **Nota.** NOTA 1 El artículo primero del Decreto 156, Economía, publicado el 24.09.2019, incorpora a la "División Proyectos", en el numeral 1 Corporación Nacional del Cobre de Chile del presente artículo primero.
-
 #### Artículo 2°
 
 Las siguientes empresas o establecimientos, según se señale, deberán presentar sus proyectos de contrato, para los efectos de la negociación colectiva, dentro de las fechas que se indican a continuación, y por los plazos que también se establece.
