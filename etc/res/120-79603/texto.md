@@ -1,0 +1,3 @@
+Por resolución No. 120 de 14 de Febrero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 120 días a contar de la fecha de la presente resolución, el plazo otorgado a SOCIEDAD PESQUERA SAN ANTONIO S.A., RUT No. 87.992.600-9, domiciliada en Santiago, para empezar a operar la nave "Panilonco", autorizada por la resolución No. 1.589, de 1990, de esta Subsecretaría, en razón de haberes acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 14 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
