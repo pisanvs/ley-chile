@@ -3136,7 +3136,7 @@ Para los efectos de las postulaciones en que participen estos ahorrantes, deber�
 
 Los titulares de cuentas de ahorro a plazo para la vivienda que cumplan con su convenio de ahorro y las personas que acrediten disponibilidad de sitio propio, una vez que obtengan del SERVIU el respectivo Certificado de Subsidio Habitacional, podrán optar en mía institución financiera a un préstamo complementario en letras de crédito.
 
-El monto del préstamo, que se curse de conformidad con este sistema, deberá destinarse, junto con la aplicación del subsidio habitacional y del ahorro previo, en caso que proceda, a pagar el saldo de precio de la vivienda adquirida o su construcción. Su importe no podrá exceder del monto máximo que indique el correspondiente Certificado de Subsidio Habitacional.
+El monto del préstamo, que se curse de conformidad con este sistema, deberá destinarse, junto con la aplicación del subsidio habitacional y del ahorro previo, en caso que proceda, a pagar el saldo de precio de la vivienda adquirida o su construcción.
 
 De acuerdo con las disposiciones del Reglamento, el monto residual del crédito que puede solicitar el interesado al amparo de estas normas, con subsidio implícito o sin él, no podrá exceder al menor de los siguientes importes: 1.000 Unidades de Fomento, 75% del precio de la respectiva vivienda o el precio de la vivienda deducido el monto del subsidio y el del ahorro o aporte de capital acreditado.
 
