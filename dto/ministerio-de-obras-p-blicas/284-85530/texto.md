@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 284, de 30 de septiembre de 1992, se expropiaron los lotes de terreno No. s. 60, 61 y 61-A, superficies 1.838 M2., 1.318 M2 y 5.028 M2., respectivamente, rol de avalúo 16-50, Comuna de Lolol, para la obra Mejoramiento Camino Santa Cruz-Lolol-Bucalemu, II Etapa y se acordó el valor de indemnización con su propietario Luis Alberto Mascaró Ulloa, ascendente a la cantidad de $ 1.033.724.
+
+- Fiscal del Ministerio de Obras Públicas.
