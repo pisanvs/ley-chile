@@ -1,0 +1,3 @@
+Por decreto MOP Nº 574 de fecha 30 de abril del 2001, se expropiaron los lotes de terreno Nºs 31 y 39, superficie 2.266,40 y 2.922,00 m2., respectivamente, rol de avalúo 385-67 y 385-30, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 2/5, Derivado Comuy", Sector Km. 6.120,36 al Km. 10.016,42 y se acordó el valor de indemnización con sus propietarios Aurora E. Jara Rubio y Bruno C. Redel Nikel, ascendente a la cantidad de $2.701.061.-
+
+Fiscal del Ministerio de Obras Públicas.
