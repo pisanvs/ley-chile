@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 339 de 24 de octubre de 1989, se expropiaron los lotes N°s. 19 20, 23-a, 24 y 23-b, superficies 1.703 m2., 5.886; m2. 2.243 m2., 1.912 m2. y 2.999 roles de avalúos N°s. 1290-20, 1290-73, 1290-53, 1281-53, Comuna de Penco, para la obra Ampliación y Reposición Ruta 150, Concepción-Lirquén, sector Concepción-Penco y se acordó el precio de indemnización con sus propietarios Sociedad Comercial Inmobiliaria Cruper Limitada, Rosario Selva Lobos Muñoz y Juan Becerra Díaz, ascendente a las sumas de $ 1.274.236, $ 10.689.983, $ 1.850.924, $ 5.855.619 y 3.205.631, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
