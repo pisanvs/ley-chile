@@ -1,0 +1,7 @@
+Por resolución Nº 1.640, de 31 de agosto de 1999, de esta Subsecretaría, autorízase a PESQUERA ICTUS LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Atacama esquina Los Baños S/Nº Chañaral, III Región, donde podrá procesar en las líneas de elaboración de Congelado y Fresco Refrigerado los siguientes recursos hidrobiológicos: Albacora o pez espada, Anchoveta, Atún, Azulejo, Bacalao de profundidad, Bonito, Caballa, Cazón, Cojinoba del norte, Congrio colorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos chicos, Tiburón marrajo, Reineta, Sardina española, Tollo, Almeja, Caracol locate, Caracol tegula, Chitón o apretador, Cholga, Chocha, Chorito, Choro, Lapa, Macha, Navajuela, Ostión del norte, Pulpo, Erizo y Piure.
+
+El abastecimiento del recurso Ostión del norte deberá provenir de centros de cultivo debidamente autorizados.
+
+Déjanse sin efecto las resoluciones Nº 519 de 1991, Nº 324 de 1993, Nº 58 de 1994 y Nº 803 de 1997, todas de esta Subsecretaría de Pesca, que autorizaron a Pesquera Huillinco Limitada, para operar la planta a que se refiere esta resolución, por renuncia de su titular.
+
+Valparaíso, 31 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
