@@ -1,0 +1,3 @@
+Por resolución 177 de fecha 30 de Noviembre de 1990 del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la Asociación Gremial de Jubilados de Elecmetal, inscrita bajo el No. 2.001 del registro que para tal efecto lleva este Ministerio, por haberse configurado respecto de ella, la causal de cancelación contemplada en el artículo 18 No. 2 letra d) del DL 2.757, de 1979.-
+
+Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
