@@ -1370,7 +1370,7 @@ El concepto de captación tiene en la legislación vigente una acepción amplia,
 
 El N° 1 del artículo 35 de su Ley Orgánica Constitucional, faculta al Banco Central de Chile para dictar las normas y condiciones a que deben sujetarse las captaciones de fondos del público que pueden realizar los bancos y sociedades financieras, como asimismo las cooperativas de ahorro y crédito. Las normas de carácter general que ha impartido el Banco Central de Chile sobre esa materia, se encuentran contenidas en el Capítulo III.B.1 de su Compendio de Normas Financieras, muchas de las cuales se mencionan, precisando en algunos casos su alcance, en el título II del presente Capítulo.
 
-En lo que concierne a la oferta pública de valores que los bancos y sociedades financieras pueden efectuar por cuenta de terceros, al amparo del N° 11 del artículo 83 en relación con el artículo 51, ambos de la Ley General de Bancos, las instituciones financieras quedan sujetas a las disposiciones establecidas en la Ley N° 18.045 para los agentes de valores. Esta materia se trata en el título IV de este Capítulo.
+En lo que concierne a la oferta pública de valores que los bancos y sociedades financieras pueden efectuar por cuenta de terceros, al amparo de los números 20 y 25 del artículo 69 de la Ley General de Bancos, las instituciones financieras quedan sujetas a las disposiciones establecidas en la Ley N° 18.045 para los agentes de valores. Esta materia se trata en el título IV de este Capítulo.
 
 ### II. NORMAS GENERALES SOBRE CAPTACIONES Y TRANSFERENCIAS DE TITULOS DE CREDITO
 
@@ -1484,9 +1484,7 @@ Las sociedades financieras podrán captar recursos en moneda extranjera únicame
 
 6.2. Prohibición de ofrecer a los depositantes beneficios diferentes a las tasas de interés y al reajuste.
 
-A las instituciones financieras no les está permitido ofrecer a sus depositantes ningún otro beneficio apreciable en dinero que no sea el interés y el reajuste en su caso.
-
-Sobre el particular esta Superintendencia estima que el negocio bancario debe desarrollarse sobre la base de pagos y abonos de intereses en las diversas operaciones pasivas y activas; tanto la legislación chilena como las prácticas aceptadas en nuestro país no admiten otro tipo de estímulos como regalos, sorteos, rifas, etc.
+Conforme a lo dispuesto en el Capítulo 18-13 de esta Recopilación Actualizada de Normas, a las instituciones financieras no les está permitido ofrecer a sus depositantes ningún otro beneficio apreciable en dinero que no sea el interés y el reajuste en su caso.
 
 6.3. Documentos a nombre de beneficiarios alternativos.
 
@@ -1542,9 +1540,9 @@ Las compras con pacto al público pueden efectuarse desde un día hábil bancari
 
 2.5. Intereses y reajustes.
 
-Por tratarse de operaciones de crédito de dinero, la tasa de interés que se les aplique a estas ventas o compras con pacto no podrá exceder a la tasa de interés máxima convencional vigente al momento de efectuarlas.
+Por tratarse de operaciones de crédito de dinero, la tasa de interés que se les aplique a las compras con pacto no podrá exceder a la tasa de interés máxima convencional vigente al momento de efectuarlas.
 
-Los reajustes de las operaciones deben corresponder al mismo tipo de reajustabilidad que la expresada en el título de crédito transferido, no pudiendo realizarse pactos reajustables sobre títulos no reajustables o viceversa, o aplicar otro sistema de reajustabilidad, salvo que se trate de operaciones con los instrumentos que se señalan en el N° 3 de este título.
+Los reajustes de las operaciones deben corresponder al mismo tipo de reajustabilidad que la expresada en el título de crédito transferido, no pudiendo realizarse pactos reajustables sobre títulos no reajustables o viceversa, o aplicar otro sistema de reajustabilidad, salvo que se trate de operaciones con los instrumentos que se señalan en el N° 3 de este título, cuando se trate de operaciones con deudores para los que rige ese límite.
 
 2.6. Pactos y documentos pagaderos en moneda extranjera.
 
@@ -1580,7 +1578,7 @@ iv) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos p
 
 Las ventas con pacto de retrocompra correspondientes a instrumentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, como asimismo las ventas de Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional, están exentas de encaje.
 
-Por otra parte, las obligaciones de retrocompra, cualesquiera sea el documento vendido, están exentas de la obligación de constituir la reserva técnica de que trata el artículo 80 bis de la Ley General de Bancos.
+Por otra parte, las obligaciones de retrocompra, cualesquiera sea el documento vendido, están exentas de la obligación de constituir la reserva técnica de que trata el artículo 65 de la Ley General de Bancos.
 
 ### 5. Límites de crédito
 
@@ -1594,7 +1592,7 @@ El artículo 25 de la Ley N° 18.045 sobre Mercado de Valores señala que los ba
 
 No obstante, agrega el artículo 25 antes mencionado, que las referidas instituciones financieras quedarán sujetas a todas las otras disposiciones de la Ley N° 18.045 en sus actividades de intermediación de valores.
 
-Por otra parte, de conformidad con lo dispuesto en el artículo 51 de la Ley General de Bancos, las instituciones financieras pueden comprar o vender acciones, bonos y demás valores mobiliarios, percibir dividendos o intereses y representar a los dueños de acciones, bonos y valores en lo que a éstos se refiera, como efectuar la cobranza de créditos o documentos, sin que para realizar esas operaciones se requiera de un Departamento de Comisiones de Confianza.
+Por otra parte, de conformidad con lo dispuesto en el artículo 88 de la Ley General de Bancos, las instituciones financieras pueden comprar o vender acciones, bonos y demás valores mobiliarios, percibir dividendos o intereses y representar a los dueños de acciones, bonos y valores en lo que a éstos se refiera, como efectuar la cobranza de créditos o documentos, sin que esas operaciones constituyan comisiones de confianza.
 
 ### 2. Valores que se pueden intermediar por cuenta de terceros
 
@@ -1616,13 +1614,23 @@ Las instituciones financieras no podrán comprar para sí los instrumentos que s
 
 ### 5. Colocación de emisiones de valores mobiliarios
 
-Las instituciones financieras pueden encargarse de la emisión y colocación de valores mobiliarios de renta fija por cuenta de terceros, siempre que se trate de los instrumentos de esa naturaleza señalados en el N° 2 de este título.
+Las instituciones financieras pueden encargarse de la emisión y colocación de valores mobiliarios por cuenta de terceros, siempre que se trate de los instrumentos de esa naturaleza señalados en el N° 2 de este título.
 
-El N° 15 del artículo 83 de la Ley General de Bancos permite garantizar la colocación ("underwriting") solamente si la institución emisora se ajusta a los márgenes de crédito de que trata el artículo 84 de la Ley General de Bancos, para cuyo efecto debe computarse el total de la emisión por colocar junto con los créditos que tuviere el emisor y los demás obligados al pago.
+El N° 20 del artículo 69 de la Ley General de Bancos permite garantizar la colocación de valores mobiliarios de renta fija solamente si la institución emisora se ajusta a los márgenes de crédito de que trata el artículo 84 de la Ley General de Bancos, para cuyo efecto debe computarse el total de la emisión por colocar junto con los créditos que tuviere el emisor y los demás obligados al pago.
 
-### 6. Comisiones
+Por otra parte, el N° 25 del mencionado artículo 69 permite garantizar la colocación de acciones de sociedades anónimas abiertas, debiendo computarse para los límites de crédito del artículo 84 los importes garantizados y las acciones adquiridas, y ajustarse a los límites especiales que se establecen en la ley para estas operaciones, señalados en el Capítulo 10-2 de esta Recopilación Actualizada de Normas.
+
+### 6. Instrucciones contables
+
+6.1. Comisiones.
 
 Las comisiones que perciban las instituciones financieras por las operaciones de que trata este título, serán registradas en la cuenta "Comisiones ganadas por intermediación", de la partida 7525.
+
+6.2.- Garantías de operaciones.
+
+Los importes garantizados de las operaciones de "underwriting" de instrumentos de renta fija se registrarán, mientras no se haga efectiva tal garantía, en la cuenta "Garantía por colocación de instrumentos de renta fija" de la partida 9291.
+
+Cuando se trate de colocación garantizada de acciones, las operaciones se registrarán según lo previsto en el Capítulo 10-2 de esta Recopilación.
 
 ANEXO N° 1
 
@@ -1658,11 +1666,11 @@ Además de lo precedentemente expuesto, cabe concluir:
 
 a) Que ninguna persona, natural o jurídica, que no tenga autorización por ley para ello, puede dedicarse a la intermediación de valores mobiliarios, efectos de comercio, títulos valores u otros títulos de crédito.
 
-b) Que tampoco pueden las personas naturales o jurídicas, que no sean bancos, sociedades Financieras, agentes de valores o corredores de bolsa, realizar habitualmente operaciones de compraventa de títulos valores, con pactos que permitan readquirirlos, ya que esa habitualidad refleja una captación de dinero del público, salvo que dichas operaciones se realicen con la intervención de corredores de bolsa o agentes de valores o que se concierten directamente entre entidades inscritas en el Registro de Valores.
+b) Que tampoco pueden las personas naturales o jurídicas, que no sean bancos, sociedades financieras, agentes de valores o corredores de bolsa, realizar habitualmente operaciones de compraventa de títulos valores, con pactos que permitan readquirirlos, ya que esa habitualidad refleja una captación de dinero del público, salvo que dichas operaciones se realicen con la intervención de corredores de bolsa o agentes de valores o que se concierten directamente entre entidades inscritas en el Registro de Valores.
 
-c) Que tampoco las personas naturales o jurídicas pueden recurrir al dinero del público a través de una emisión de valores de oferta pública para destinar su producido a otorgar créditos de cualquiera naturaleza, ya que ello implica una clara infracción al artículo 34 de la Ley General de Bancos. Con mayor razón se produce esta infracción si se realiza la operación descrita mediante títulos valores no inscritos.
+c) Que tampoco las personas naturales o jurídicas pueden recurrir al dinero del público a través de una emisión de valores de oferta pública para destinar su producido a otorgar créditos de cualquiera naturaleza, ya que ello implica una clara infracción al artículo 34(*) de la Ley General de Bancos. Con mayor razón se produce esta infracción si se realiza la operación descrita mediante títulos valores no inscritos.
 
-d) Que las instituciones autorizadas, esto es, los bancos, sociedades Financieras, agentes de valores y corredores de bolsa no pueden ejercer a través de otras personas o entidades no autorizadas, el giro que les está reservado, ni menos a través de entidades que no hayan cumplido con las formalidades previstas en la ley.
+d) Que las instituciones autorizadas, esto es, los bancos, sociedades financieras, agentes de valores y corredores de bolsa no pueden ejercer a través de otras personas o entidades no autorizadas, el giro que les está reservado, ni menos a través de entidades que no hayan cumplido con las formalidades previstas en la ley.
 
 Saludamos atentamente a Ud.,
 
@@ -1677,6 +1685,8 @@ JOSE FLORENCIO GUZMAN CORREA
 Superintendente de Bancos
 
 e Instituciones Financieras
+
+(*) Las alusiones a los artículos 34 y 62 deben entenderse referidas, en la actualidad, a los artículos 39 y 40 del texto refundido en la nueva Ley General de Bancos (Decreto con Fuerza de Ley N° 3 de 1997).
 
 CAPITULO 2-2 (Bancos)
 
@@ -15489,6 +15499,64 @@ Los bienes recibidos o adjudicados en pago no serán objeto de castigos contable
 Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
 
 Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso del N° 5 del artículo 84 de la Ley General de Bancos, se registrarán acreditando las respectivas cuentas de la partida 1765 con cargo a la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315, por el valor en que se encuentre registrado el bien que se castiga más las eventuales adiciones de que trata el N° 4 anterior.
+
+APITULO 10-2 (Bancos y Financieras)
+
+MATERIA:
+
+COLOCACION DE ACCIONES DE PRIMERA EMISION POR CUENTA DE TERCEROS.
+
+1.- Agentes colocadores de acciones.
+
+De conformidad con lo dispuesto en el N° 25 del artículo 69 de la Ley General de Bancos, las instituciones financieras pueden actuar como agentes colocadores de acciones de primera emisión de sociedades anónimas abiertas, encargándose de su colocación sin garantizarla, o bien, comprometiendo su garantía para tal efecto.
+
+2.- Garantía de colocación y tenencia de acciones.
+
+La garantía de colocación de acciones por cuenta de terceros que otorguen las instituciones financieras, no podrá superar los límites que se indican en el N° 3 siguiente.
+
+Las acciones que los bancos garantes pueden adquirir en estas operaciones, son solamente aquellas que se obtienen como consecuencia de hacerse efectiva esa garantía, debiendo la institución colocadora enajenarlas dentro de los plazos que se indican en el N° 4 de este Capítulo.
+
+Conforme a lo establecido en la ley, mientras las acciones se encuentren en poder de la institución financiera no gozarán del derecho a voz ni a voto en las juntas de accionistas.
+
+3.- Límites.
+
+3.1.- Límite de garantía e inversión en acciones por emisor.
+
+El monto de la garantía de colocación de acciones que otorguen las instituciones financieras, como asimismo el monto de las acciones que adquieran al hacerse ésta efectiva, no puede ser superior al equivalente del 35% del capital suscrito y pagado del respectivo emisor.
+
+3.2.- Límite global de inversión en acciones adquiridas por underwriting.
+
+El total de las acciones que una institución financiera mantenga por la aplicación de la garantía otorgada al asumir la colocación de tales instrumentos, no podrá tener un valor de mercado superior a su respectivo capital básico.
+
+3.3.- Límites de crédito del artículo 84.
+
+Tanto el importe de la garantía otorgada como el de las acciones que se adquieran, deben ser computados dentro de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
+
+Para este efecto las acciones se sumarán considerando el valor de adquisición actualizado que se menciona en el N° 4 siguiente.
+
+4.- Plazo para enajenar las acciones adquiridas.
+
+Las acciones que las instituciones financieras adquieran, deberán ser enajenadas dentro del plazo máximo de dos años contado desde la fecha de su adquisición. No obstante, este plazo será de un año si las acciones se encuentran incluidas, al momento de su adquisición, dentro de aquellas en que pueden invertir los Fondos de Pensiones según lo dispuesto en el artículo N° 106 del D.L. N° 3.500.
+
+Para la enajenación de las acciones la ley establece que debe hacerse en la forma, condiciones y bajo las sanciones contenidas en el artículo 84 N° 5 de la Ley General de Bancos, por lo que:
+
+a) La venta de las acciones debe realizarse en un mercado secundario formal, esto es, en rueda o remate en una Bolsa de Valores, a menos que esta Superintendencia autorice su venta a través de licitación pública. Para obtener dicha autorización, las instituciones financieras deben acompañar los antecedentes que justifiquen la venta directa, explicando las razones para seguir ese procedimiento y la forma en que se garantizará la transparencia de la operación.
+
+b) Las acciones que no sean enajenadas dentro del plazo previsto en la ley, deberán ser castigadas contablemente.
+
+c) La institución financiera que aún mantenga acciones después de vencido el plazo, incurrirá en una multa equivalente al 10% del valor de adquisición actualizado de las mismas, por cada mes calendario que transcurra después de vencido el plazo, sin que se hayan enajenado. Ese valor de adquisición actualizado corresponderá al que se obtenga de aplicar, al valor de adquisición el porcentaje de variación del índice de precios al consumidor entre el primer día del mes anterior al de la adquisición y el último día del mes anterior al que corresponde dicho valor actualizado.
+
+5.- Instrucciones contables.
+
+5.1.- Garantía otorgada.
+
+El importe de la garantía otorgada será registrado en la cuenta de orden "Garantías por colocación de acciones" de la partida 9291.
+
+5.2.- Acciones adquiridas.
+
+Las acciones adquiridas por haberse hecho efectiva la garantía de colocación otorgada, se registrarán por su valor de adquisición en la cuenta "Acciones adquiridas por underwriting", de la partida 1775, quedando sus saldos sujetos a corrección monetaria.
+
+Si el valor de mercado fuera menor que el costo corregido monetariamente registrado en la cuenta "Acciones adquiridas por underwriting" antes mencionada, se mantendrá una provisión por la diferencia de precios, la que se imputará a la cuenta complementaria "Provisión por acciones underwriting", de la partida 1775, con cargo a la cuenta del mismo nombre de la partida 6315. No obstante, si aún no hubieren transcurrido seis meses desde la fecha en que se adquirieron las acciones y existen razones para pensar que su precio puede evolucionar favorablemente, las instituciones financieras pueden prescindir de esta provisión con respecto a su valor de mercado.
 
 CAPITULO 11-1 (Bancos y Financieras)
 
