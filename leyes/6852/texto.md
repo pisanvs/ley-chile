@@ -1,0 +1,1 @@
+Autoriza a la Corporación de Reconstrucción y Auxilio para que destine fondos a los Cuerpos de Bomberos de Bulnes, Cauquenes, Concepción, Coronel, Chillán, Linares, Los Angeles, Parral, San Carlos, Talca, Talcahuano y Tomé, para los objetos que indica.
