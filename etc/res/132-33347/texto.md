@@ -1,0 +1,3 @@
+Por Resolución N° 132, de 28 de Enero de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por 30 días a contar de la fecha de la presente Resolución el plazo otorgado a NATIONAL FISHERIES PRODUCTS LTDA., R.U.T. N° 78.328.120-1, en orden a publicar en el Diario Oficial la Resolución N° 649, de 1993, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor, de conformidad con lo dispuesto en el artículo 7° del D.S. N° 175, de 1980 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de Enero de 1994.- Alvaro Briones Ramírez, Subsecretario de Pesca, Subrogante.
