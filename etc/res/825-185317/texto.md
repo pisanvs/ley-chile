@@ -1,0 +1,3 @@
+Por resolución Nº 825, de 27 de abril de 2001, de esta Subsecretaría, autorízase a SALMONES TECMAR S.A., para continuar desarrollando las actividades pesqueras autorizadas a Maintec S.A., autorizada por resolución Nº 1.304 de 1991, de esta Subsecretaría, de conformidad con la escritura pública señalada precedentemente.
+
+Valparaíso, 27 de abril de 2001.- Edith Saa Collantes, Subsecretario de Pesca (S).
