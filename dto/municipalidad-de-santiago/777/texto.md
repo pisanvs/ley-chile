@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 777, 08 de Julio de 1988, Alcalde I. Municipalidad de Santiago, dispone expropiación total inmueble Coronel Pantoja 139 y Vidaurre 1667 - 1669, Rol 448-11 Comuna de Santiago, aparentemente dominio sucesión Forster Berguecio. Deslindes: Norte, 15,90 mts. otro propietario y 0,90 ctms. otro propietario; Sur, 19,10 mts. calle Vidaurre; Oriente, 24,95 Coronel Pantoja; Poniente, 23,20 otro propietario. Indemnización provisional $ 4.969.725,- pagadera contado.
+
+Gustavo Alessandri V., Alcalde Santiago.
