@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 384 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 2, superficie 1.164 m2, rol de avalúo Nº 211-154, comuna de Curacautín, para la obra "Puente Blanco Sur Camino Curacautín - Conguillío. Tramo Km. 13,480 a Km. 14,117", IX Región y se acordó el valor de la indemnización con su propietaria María Margarita Figueroa Villa, ascendente a la cantidad de $1.149.284.-
+
+Fiscal del Ministerio de Obras Públicas.
