@@ -1,0 +1,5 @@
+Por resolución Nº 74, de 8 de enero de 2004 de esta Subsecretaría, reconócese la participación conjunta de los armadores que a continuación se indican, en la unidad de pesquería del recurso Merluza de tres aletas, en el área marítima comprendida entre el paralelo 41°28,6' L.S. y el límite sur de la XII región, individualizada en la letra l) del artículo 2º de la ley Nº 19.713, para ejercer el límite máximo de captura por armador establecido en el decreto exento Nº 853 de 2003, a partir de la fecha de la presente resolución y hasta el 31 de diciembre de 2004:
+
+EMDEPES S.A., FRIOSUR VII S.A., FRIOSUR VIII S.A., FRIOSUR X S.A., PESCA CHILE S.A., YELCHO S.A. La opción ejercida por el grupo de armadores antes indicados es irrevocable durante el presente año calendario.
+
+Valparaíso, 8 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
