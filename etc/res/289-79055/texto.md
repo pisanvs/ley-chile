@@ -1,0 +1,3 @@
+Por Resolución No. 289, del 30 de Marzo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 938, de 1988, de esta Subsecretaría, por la cual se autorizó a don DIEGO ANTONIO VERA VERA, R.U.T. No. 5.943.049-1 domiciliado en calle Los Carrera s/n°, Puqueldón, Isla de Lemuy, Provincia de Chiloé, X Región, para instalar y operar un establecimiento de cultivo de los recursos chorito, cholga y choro zapato en el lugar denominado Liucura, Isla de Lemuy, Comuna de Puqueldón, Provincia de Chiloé, X Región, por renuncia total y voluntaria del peticionario.
+
+Valparaíso, 30 de Marzo de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
