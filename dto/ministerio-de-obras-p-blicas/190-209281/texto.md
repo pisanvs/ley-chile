@@ -1,0 +1,5 @@
+Por decreto MOP Nº190, de 10 de marzo de 2003 , y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº2-1 para la obra:
+
+"Concesión Internacional Ruta 5. Tramo : Santiago - Talca. Sector A: Km. 29.014,00 AL KM. 42.800,00", Región Metropolitana, que figura a nombre de SOC AGROIND FRUTOS DEL MAIPO LT, rol de avalúo 452-48, comuna de Buin, superficie 532 m2. La comisión de peritos integrada por los señores Maria Pilar Quiroga González, Mauricio Humberto Salamanca Zamora y Marlene Teresa Ríos Marcuello, fijó con fecha 31 de agosto de 2001, el valor provisional de la indemnización en la cantidad de $4.186.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
