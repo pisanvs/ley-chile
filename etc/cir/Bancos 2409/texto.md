@@ -1052,7 +1052,7 @@ Las sucursales que los bancos chilenos abran en el exterior se regirán por las 
 
 1.1.4.- Las pérdidas que arrojen las sucursales en el exterior se demostrarán en el Balance de la Casa Matriz en el mismo ejercicio en que ellas ocurran, en la cuenta "Pérdidas de Sucursales en el Exterior", que se incluirá en la partida 5900 del MR1. Estas pérdidas deberán a la vez contabilizarse, hasta tanto no sean liquidadas, en una cuenta de pasivo que se denominará "Pérdidas de Sucursales en el exterior por liquidar" que formará parte de la partida 4120 "Pasivo Transitorio" del MB1.
 
-1.1.5.- El capital asignado a una sucursal en el exterior para los efectos de los márgenes de la ley chilena que les sean aplicables, autorizado por esta Superintendencia de acuerdo con lo dispuesto en el artículo 31 bis de la Ley General de Bancos, deberá registrarse en la cuenta "Capital asignado a sucursales en el exterior", de la partida 9700, con abono a la cuenta "Responsabilidad por control de límites legales", de la partida 9900.
+1.1.5.- El capital asignado a una sucursal en el exterior para los efectos de los márgenes de la ley chilena que les sean aplicables, autorizado por esta Superintendencia de acuerdo con lo dispuesto en el artículo 31 bis de la Ley General de Bancos, deberá registrarse en la cuenta de orden "Capital asignado a sucursales en el exterior", de la partida 9700.
 
 1.2.- Para las sucursales en el exterior.
 
@@ -2786,7 +2786,7 @@ Dichas comisiones sólo deben contabilizarse una vez que se hayan cargado a las 
 
 15.4. Solicitudes de giro de cuentas de ahorro a plazo con giro diferido.
 
-Para mantener un control sobre las solicitudes de giro recibidas que se encuentren en espera del cumplimiento del plazo para hacerse efectivas, según lo dispuesto en el numeral 7.2 de este Capítulo, las entidades financieras deben registrar los montos de los giros solicitados en las cuentas "Solicitudes de giro de cuentas de ahorro por cumplir" y "Responsabilidad por solicitudes de giro de cuentas de ahorro por cumplir", de las partidas 9570 y 9900, respectivamente.
+Para mantener un control sobre las solicitudes de giro recibidas que se encuentren en espera del cumplimiento del plazo para hacerse efectivas, según lo dispuesto en el numeral 7.2 de este Capítulo, las entidades financieras deben registrar los montos de los giros solicitados en la cuenta de orden "Solicitudes de giro de cuentas de ahorro por cumplir", de la partida 9570.
 
 Una vez que la solicitud de giro se haya hecho efectiva o caduque por haberse cumplido su plazo, debe revertirse el correspondiente asiento efectuado en esas cuentas de orden.
 
@@ -3156,9 +3156,7 @@ Las comisiones que se cobren sobre estas libretas se acreditarán a las cuentas 
 
 1.4. Solicitudes para efectuar giros de las cuentas de ahorro a plazo para vivienda con giro diferido.
 
-Las solicitudes de giro que se reciban de los titulares de las cuentas de ahorro a plazo para vivienda con giro diferido, serán registradas según las instrucciones generales al respecto utilizando las cuentas de orden "Solicitudes de giro de cuentas de ahorro para vivienda por cumplir" y "Responsabilidad por solicitudes de giro de cuentas de ahorro para vivienda por cumplir", de las partidas 9570 y 9900, del formulario MB1, respectivamente.
-
-Los asientos registrados en estas cuentas deben revertirse al momento de hacerse efectiva la solicitud o una vez cumplido el plazo sin que haya sido cobrada.
+Las solicitudes de giro que se reciban de los titulares de las cuentas de ahorro a plazo para vivienda con giro diferido, serán registradas según las instrucciones generales al respecto utilizando la cuenta de orden "Solicitudes de giro de cuentas de ahorro para vivienda por cumplir", de la partida 9570. Los importes registrados en esta cuenta deben revertirse al momento de hacerse efectivas las solicitudes o una vez cumplido el plazo sin que hayan sido cobrados.
 
 ### 2. Préstamos en letras de crédito
 
@@ -3174,7 +3172,7 @@ Al diferencial entre la tasa de interés del mutuo y la tasa de interés de las 
 
 2.3.1. Por la solicitud de rembolso de la diferencia.
 
-El monto de las diferencias solicitadas al Ministerio de la Vivienda y Urbanismo se registrará, una vez enviada la solicitud respectiva, en la cuenta "Diferencias por venta de letras de crédito, Sistema Subsidio Habitacional, solicitadas al MINVU", de la partida 9280 del formulario MB1, con abono a la cuenta "Responsabilidad por diferencias venta letras de crédito Sistema Subsidio Habitacional solicitado al MINVU", de la partida 9900 del dicho formulario.
+El monto de las diferencias solicitadas al Ministerio de la Vivienda y Urbanismo se registrará, una vez enviada la solicitud respectiva, en la cuenta de orden "Diferencias por venta de letras de crédito, Sistema Subsidio Habitacional, solicitadas al MINVU", de la partida 9280.
 
 2.3.2. Por la recepción de la diferencia.
 
@@ -4504,7 +4502,7 @@ Los depósitos de terceros enterados para cumplir con la obligación de que trat
 
 Los importes que los bancos reciban de terceros por concepto del depósito que deben constituir sobre los créditos que éstos obtengan del exterior de conformidad con la norma del Banco Central de Chile a que se refiere el N° 1 precedente, serán registrados en la cuenta "Depósitos por encaje de terceros" de la partida 3425.
 
-Por otra parte, con el objeto de obtener directamente de los saldos contables el importe de las obligaciones con el exterior exentas de encaje correspondiente a los créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, que se regirán en esta materia por sus propias normas y a las obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s 72-04-901113 y 72-06-901113, éstos serán registrados, además de su imputación en las respectivas cuentas del pasivo, en la cuenta de orden "Obligaciones con el exterior exentas de encaje" de la partida 9167 "Obligaciones exentas de encaje", con abono a la cuenta "Responsabilidad por obligaciones exentas de encaje" de la partida 9900. En estas cuentas se registrarán los importes de las operaciones sin incluir los intereses devengados.
+Por otra parte, con el objeto de obtener directamente de los saldos contables el importe de las obligaciones con el exterior exentas de encaje correspondiente a los créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, que se regirán en esta materia por sus propias normas y a las obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s 72-04-901113 y 72-06-901113, éstos serán registrados, además de su imputación en las respectivas cuentas del pasivo, en la cuenta de orden "Obligaciones con el exterior exentas de encaje" de la partida 9167 "Obligaciones exentas de encaje". En esa cuenta de orden quedará registrado el importe total de las operaciones de que se trata, sin incluir los intereses devengados.
 
 2.2. Encaje mantenido.
 
@@ -4750,15 +4748,13 @@ Las instituciones financieras registrarán los saldos de caja utilizados, los de
 
 ### 1. Saldos de caja utilizados para enterar reserva técnica
 
-Los importes de caja que las instituciones financieras apliquen para enterar la reserva técnica exigida, deberán registrarse, además, en las cuentas "Caja aplicada en reserva técnica" y "Responsabilidad por recursos aplicados en reserva técnica", las que
-
-se demostrarán en las partidas 9165 "Recursos aplicados en reserva técnica" y 9900, respectivamente, del MB1. Cuando los recursos de que se trata dejen de constituir reserva técnica, deberán revertirse los correspondientes importes registrados en estas cuentas.
+Los importes de caja que las instituciones financieras apliquen para enterar la reserva técnica exigida, deberán registrarse, además, en la cuenta de orden "Caja aplicada en reserva técnica", de la partida 9165. Cuando lo recursos de que se trata dejen de constituir reserva técnica, deberán revertirse los importes registrados en esa cuenta de orden.
 
 ### 2. Depósitos en el Banco Central de Chile
 
 Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar la reserva técnica, serán registrados en una cuenta que abrirán para tal efecto con el nombre de "Depósitos de reserva técnica en el Banco Central de Chile", cuyo saldo será demostrado en la partida 1010 del formulario MB1.
 
-Los demás depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se registrarán además, en las cuentas "Depósitos Acuerdo 1657 aplicados a reserva técnica", "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica" u "Otros depósitos en el Banco Central aplicados en reserva técnica", según corresponda, de la partida 9165, y en la cuenta "Responsabilidad por recursos aplicados en reserva técnica", de la partida 9900. Cuando los recursos de que se trata dejen de ser utilizados para constituir reserva técnica, se procederá a revertir esas cuentas de orden.
+Los demás depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se registrarán además, en las cuentas "Depósitos Acuerdo 1657 aplicados a reserva técnica", "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica" u "Otros depósitos en el Banco Central aplicados en reserva técnica", según corresponda, de la partida 9165. Cuando los recursos de que se trata dejen de ser utilizados para constituir reserva técnica, se procederá a revertir esas cuentas de orden.
 
 3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
@@ -4768,9 +4764,7 @@ Los documentos emitidos por el Banco Central de Chile o por la Tesorería Genera
 
 3.2. Control del monto de los documentos computados como reserva técnica.
 
-Cada vez que los documentos de que se trata se utilicen efectivamente para enterar la reserva técnica, deberá registrarse además, el importe correspondiente al total o parte del valor par de los documentos que se aplican a enterar la reserva, en las cuentas de orden "Documentos emitidos por el Banco Central de Chile aplicados en reserva técnica" o "Documentos emitidos por la
-
-Tesorería General de la República aplicados en reserva técnica", según corresponda, ambas de la partida 9165, y en la ya mencionada cuenta "Responsabilidad por recursos aplicados en reserva técnica". Cuando se trate de instrumentos pagaderos en cuotas, sólo se registrará en estas cuentas el importe de capital correspondiente a la cuota que se percibirá dentro de los 90 días inmediatamente siguientes y los intereses efectivamente devengados hasta la fecha, según la tasa expresada en el documento.
+Cada vez que los documentos de que se trata se utilicen efectivamente para enterar la reserva técnica, deberá registrarse además, el importe correspondiente al total o parte del valor par de los documentos que se aplican a enterar la reserva, en las cuentas de orden "Documentos emitidos por el Banco Central de Chile aplicados en reserva técnica" o "Documentos emitidos por la Tesorería General de la República aplicados en reserva técnica", según corresponda, ambas de la partida 9165. Cuando se trate de instrumentos pagaderos en cuotas, sólo se registrará en estas cuentas el importe de capital correspondiente a la cuota que se percibirá dentro de los 90 días inmediatamente siguientes y los intereses efectivamente devengados hasta la fecha, según la tasa expresada en el documento.
 
 Las entidades financieras dejarán constancia en los respectivos registros que efectúen en estas cuentas de orden, de las características que permitan la individualización de cada documento contabilizado en ellas, tales como N° de orden, serie, fecha de emisión, fecha de vencimiento, o cualquier otro dato mediante el cual pueda identificarse el instrumento de que se trata.
 
@@ -4782,7 +4776,7 @@ Los registros en estas cuentas deberán efectuarse rigurosamente en las fechas e
 
 En concordancia con lo dispuesto en la letra a) del artículo 80 bis ya citado, las instituciones financieras deberán distinguir en sus obligaciones a plazo, aquéllas cuyo pago deba efectuarse en los próximos diez días corridos, sea porque se cumple la fecha de vencimiento pactada o porque a pedido del depositante, de conformidad con las disposiciones vigentes, la entidad depositaria ha aceptado efectuar el pago antes de esa fecha. Como lo señala el precepto legal antes indicado, estas obligaciones se considerarán a la vista,para los efectos previstos en esa misma disposición.
 
-Con el fin de hacer la separación indicada, las obligaciones a plazo reflejadas en las partidas 3020, 3025 3030, 3065 y 3315, serán registradas, además, a partir del décimo día anterior a su vencimiento, en las cuentas de orden"Documentos a plazo afectos a reserva técnica" y "Responsabilidad por documentos a plazo afectos a reserva técnica", que se demostrarán en las partidas 9162 y 9900 del formulario MB1. El registro de las obligaciones respectivas en estas cuentas se mantendrá hasta la fecha de su pago o de los vencimientos correspondientes, oportunidad en que se efectuará su reversión. Igualmente se registrarán en estas cuentas, los importes de los depósitos y captaciones cuyo pago fuere requerido y aceptado para efectuarlo antes del vencimiento pactado.Este registro se hará al momento que la entidad reciba la correspondiente petición escrita del titular y si ésta es formulada con una anticipación mayor a diez días corridos de la fecha prevista para el pago, la anotación deberá hacerse en esas cuentas a más tardar el décimo día anterior a la fecha en que se materializará el pago anticipado.
+Con el fin de hacer la separación indicada, las obligaciones a plazo reflejadas en las partidas 3020, 3025 3030, 3065 y 3315, serán registradas, además, a partir del décimo día anterior a su vencimiento, en la cuenta de orden "Documentos a plazo afectos a reserva técnica" de la partida 9162. El registro de las obligaciones respectivas en la referida cuenta se mantendrá hasta la fecha de su pago o de los vencimientos correspondientes, oportunidad en que se efectuará su reversión. Igualmente se registrarán en la cuenta indicada, los importes de los depósitos y captaciones cuyo pago fuere requerido y aceptado para efectuarlo antes del vencimiento pactado.Este registro se hará al momento que la entidad reciba la correspondiente petición escrita del titular y si ésta es formulada con una anticipación mayor a diez días corridos de la fecha prevista para el pago, la anotación deberá hacerse en esas cuentas a más tardar el décimo día anterior a la fecha en que se materializará el pago anticipado.
 
 ### 5. Cuentas de ahorro a plazo
 
@@ -4794,17 +4788,17 @@ Los saldos que se demuestran en esta cuenta corresponden a aquellas libretas de 
 
 b) Cuentas de ahorro a plazo con giros diferidos.
 
-En el caso de las cuentas de ahorro a plazo con giros diferidos, incluidas las que bajo esta modalidad correspondan al sistema de ahorro y financiamiento de la vivienda, cuyos saldos se incluyen también en la partida 3035 del formulario MB1, las entidades financieras registrarán en las cuentas de orden "Documentos aplazo afectos a reserva técnica" y "Responsabilidad por documentos a plazo afectos a reserva técnica", de las partidas 9162 y 9900 del formulario MB1,todos aquellos giros a plazo que hayan solicitado sus titulares, a los que les falten diez días para la fecha en que deban hacerse efectivos, dándoles en consecuencia, un tratamiento similar a los depósitos y captaciones a plazo que se registran en estas cuentas de orden.
+En el caso de las cuentas de ahorro a plazo con giros diferidos, incluidas las que bajo esta modalidad correspondan al sistema de ahorro y financiamiento de la vivienda, cuyos saldos se incluyen también en la partida 3035 del formulario MB1, las entidades financieras registrarán en la cuenta de orden "Documentos a plazo afectos a reserva técnica" de la partida 9162, todos aquellos giros a plazo que hayan solicitado sus titulares, a los que les falten diez días para la fecha en que deban hacerse efectivos, dándoles en consecuencia, un tratamiento similar a los depósitos y captaciones a plazo que se registran en esta cuenta de orden.
 
-En el caso que los giros solicitados no se hicieran efectivos dentro del plazo establecido, se procederá a revertir el asiento en esas cuentas de orden, desafectando en consecuencia los importes correspondientes de la eventual exigencia de reserva técnica.
+En el caso que los giros solicitados no se hicieran efectivos dentro del plazo establecido, se procederá a revertir el asiento en la referida cuenta de orden, desafectando en consecuencia los importes correspondientes de la eventual exigencia de reserva técnica.
 
 ### 6. Letras de crédito y cupones por vencer
 
-Las instituciones financieras que mantengan letras de crédito en circulación, registrarán en las cuentas "Letras de crédito y cupones por vencer" y "Responsabilidad por las letras de crédito y cupones por vencer", cuyos saldos se demostrarán en las partidas 9162 y 9900, del formulario MB1, respectivamente, las letras de crédito que deban ser pagadas como consecuencia de una amortización ordinaria o extraordinaria, cuando les falten diez días corridos para que se cumpla la fecha en que se harán exigibles.
+Las instituciones financieras que mantengan letras de crédito en circulación, registrarán en la cuenta de orden "Letras de crédito y cupones por vencer" de la partida 9162, respectivamente, las letras de crédito que deban ser pagadas como consecuencia de una amortización ordinaria o extraordinaria, cuando les falten diez días corridos para que se cumpla la fecha en que se harán exigibles.
 
 De la misma forma se procederá con los cupones por vencer, desde el momento en que el plazo para que su pago se haga exigible, sea de diez días corridos.
 
-En la fecha en que tales documentos -las letras de crédito y sus cupones- se hacen exigibles, se revertirá el asiento realizado en estas cuentas de orden, ya que, si no son cobrados en esa oportunidad por los respectivos tenedores, pasarán a ser registrados como obligaciones exigibles a la vista, según las normas que rigen para estas operaciones.
+En la fecha en que tales documentos -las letras de crédito y sus cupones- se hacen exigibles, se revertirá el respectivo cargo a esta cuenta de orden, ya que, si no son cobrados en esa oportunidad por los respectivos tenedores, pasarán a ser registrados como obligaciones exigibles a la vista, según las normas que rigen para estas operaciones.
 
 ### 7. Intereses y reajustes por pagar de depósitos y captaciones a plazo
 
@@ -6490,15 +6484,13 @@ Los intereses y reajustes devengados a partir de la fecha en que las colocacione
 
 a) Colocaciones.
 
-Los intereses no reconocidos en los resultados, sobre las colocaciones que estén vigentes, se registraran en la cuenta "Intereses devengados de colocaciones riesgosas vigentes", de la partida 9490 del formulario MB1. En caso de que el respectivo crédito se traspase a cartera vencida, los montos registrados en esa cuenta se traspasaran, a su vez, a la cuenta "Intereses devengados de colocaciones riesgosas vencidas", de la misma partida 9490, atendido que estas cuentas de orden son complementarias de las cuentas del activo para efectos de información del monto adeudado.
+Los intereses no reconocidos en los resultados, sobre las colocaciones que estén vigentes, se registraran en la cuenta "Intereses devengados de colocaciones riesgosas vigentes", de la partida 9490. En caso de que el respectivo crédito se traspase a cartera vencida, los montos registrados en esa cuenta se traspasaran, a su vez, a la cuenta "Intereses devengados de colocaciones riesgosas vencidas", de la misma partida 9490, atendido que estas cuentas de orden son complementarias de las cuentas del activo para efectos de información del monto adeudado.
 
-Por su parte, los reajustes sobre las colocaciones de que se trata, se registraran en la cuenta "Reajustes devengados de colocaciones riesgosas vigentes" o "Reajustes devengados de colocaciones riesgosas vencidas", ambas de la partida 9510 del formulario MB1, siguiendo el mismo criterio señalado para los intereses en el párrafo precedente.
-
-La suma de dichos intereses y reajustes se registrara en la cuenta "Devengo de intereses y reajustes de colocaciones riesgosas" de la partida 9900 del formulario MB1.
+Por su parte, los reajustes sobre las colocaciones de que se trata, se registraran en la cuenta "Reajustes devengados de colocaciones riesgosas vigentes" o "Reajustes devengados de colocaciones riesgosas vencidas", ambas de la partida 9510, siguiendo el mismo criterio señalado para los intereses en el párrafo precedente.
 
 b) Bonos y debentures.
 
-Los intereses y reajustes devengados, no reconocidos en los resultados, por inversiones en bonos o debentures, se registraran en las siguientes cuentas: "Intereses devengados de bonos y debentures riesgosos vigentes" o "Intereses devengados de bonos y debentures riesgosos vencidos", de la partida 9490 del formulario MB1 y "Reajustes devengados de bonos y debentures riesgosos vigentes" o "Reajustes devengados de bonos y debentures riesgosos vencidos" de la partida 9510 de dicho formulario, respectivamente, con abono a la cuenta "Devengo de intereses y reajustes de bonos y debentures riesgosos", de la partida 9900 del formulario MB1.
+Los intereses y reajustes devengados, no reconocidos en los resultados, por inversiones en bonos o debentures, se registraran en las siguientes cuentas: "Intereses devengados de bonos y debentures riesgosos vigentes" o "Intereses devengados de bonos y debentures riesgosos vencidos", de la partida 9490 y "Reajustes devengados de bonos y debentures riesgosos vigentes" o "Reajustes devengados de bonos y debentures riesgosos vencidos" de la partida 9510, respectivamente.
 
 3.1.4. Suspensión de reajustes e intereses en créditos registrados a su valor final.
 
@@ -6866,6 +6858,18 @@ Los pagos provisionales de impuestos se registrarán en la cuenta "Pagos provisi
 
 Las instituciones financieras no registrarán el efecto de los impuestos diferidos por las diferencias temporales, debiendo cargar a los resultados del ejercicio el costo tributario total en que incurran de acuerdo con las disposiciones de la Ley sobre Impuesto a la Renta.
 
+### VII. UTILIZACION DE CUENTAS DE ORDEN
+
+1. Cuentas que no corresponden a las partidas específicas instruidas por esta Superintendencia.
+
+Las partidas específicas instruidas por esta Superintendencia, correspondientes a las cuentas de orden deudoras, no son óbice, como es natural, para que las instituciones financieras mantengan en su contabilidad, con los fines que estimen conveniente, cuentas de orden que no tienen cabida en aquellas partidas.
+
+Para efectos de cuadratura entre los saldos que registre la contabilidad y los informados a esta Superintendencia, esas cuentas de orden se incluirán, como un solo saldo, en la partida 9899 "Otras cuentas de orden".
+
+### 2. Cuentas acreedoras
+
+Las instrucciones contables impartidas por esta Superintendencia sobre el uso de cuentas de orden, señalan solamente la cuenta deudora que debe utilizarse, quedando a criterio de cada institución financiera la elección de la nominación y estructura de las cuentas de orden acreedoras que reciben la contrapartida de cada contabilización. En todo caso, todas las cuentas acreedoras conformarán el saldo de la partida 9900 y se informarán a esta Superintendencia como una sola cuenta.
+
 CAPITULO 8-1 (Bancos)
 
 MATERIA:
@@ -6946,37 +6950,13 @@ Los bancos deberán prevenir que, por efecto de la utilización de los sobregiro
 
 ### 6. Normas contables
 
-A nivel de cuentas individuales, los sobregiros deberán registrarse directamente
+A nivel de cuentas individuales, los sobregiros deberán registrarse directamente en la cuenta corriente ordinaria del cliente y no en cuentas complementarias, de manera que los abonos que en seguida se hagan a la cuenta, rebajen automáticamente las cantidades sobregiradas.
 
-en la cuenta corriente ordinaria del cliente y no en cuentas complementarias, de
+Los bancos deberán adaptar sus sistemas de información para mantener, en todo momento, un control estricto de los saldos disponibles y de los saldos contables de las cuentas corrientes, de modo de poder computar en forma exacta los sobregiros efectivamente utilizados por los comitentes.
 
-manera que los abonos que en seguida se hagan a la cuenta, rebajen
+El importe de los sobregiros efectivamente utilizados se contabilizará en la cuenta "Deudores en cuentas corrientes ordinarias", de la partida 1105.
 
-automáticamente las cantidades sobregiradas.
-
-Los bancos deberán adaptar sus sistemas de información para mantener, en todo
-
-momento, un control estricto de los saldos disponibles y de los saldos contables
-
-de las cuentas corrientes, de modo de poder computar en forma exacta los
-
-sobregiros efectivamente utilizados por los comitentes.
-
-El importe de los sobregiros efectivamente utilizados se contabilizará en una
-
-cuenta que se denominará "Deudores en cuentas corrientes ordinarias", la que
-
-integrará la partida 1105 del formulario MB1.
-
-Para un mejor control de las propias entidades bancarias, el monto de los
-
-sobregiros en cuenta corriente pactados se registrará en las cuentas de orden:
-
-"Créditos aprobados en cuenta corriente", deudora y, "Responsabilidad por
-
-créditos aprobados en cuenta corriente", acreedora; las que integrarán las
-
-partidas 9310 y 9900, respectivamente, del formulario MB1.
+El monto de los sobregiros en cuenta corriente pactados se registrará en la cuenta de orden "Créditos aprobados en cuenta corriente", de la partida 9310.
 
 CAPITULO 8-3 (Bancos y Financieras)
 
@@ -7646,91 +7626,37 @@ nuevo lugar de pago, en caso de que corresponda.
 
 IV NORMAS CONTABLES.
 
-1. Instrucciones contables para mutuos hipotecarios endosables otorgados con
+1. Instrucciones contables para mutuos hipotecarios endosables otorgados con recursos propios.
 
-recursos propios.
-
-Los bancos y sociedades financieras registrarán las operaciones de que se trata,
-
-de la siguiente forma:
+Los bancos y sociedades financieras registrarán las operaciones de que se trata, de la siguiente forma:
 
 a) Otorgamiento de los préstamos.
 
-Debe: - "Préstamos hipotecarios endosables para vivienda otorgados", en caso que
+Debe: - "Préstamos hipotecarios endosables para vivienda otorgados", en caso que se trate de créditos cursados para adquisición, ampliación, reparación o construcción de viviendas. Esta cuenta será demostrada en la partida "Préstamos hipotecarios para vivienda" que, con el N° 1247, se crea en el formulario MB1, o bien.
 
-se trate de créditos cursados para adquisición, ampliación, reparación o
+- "Préstamos hipotecarios endosables para fines generales otorgados", cuando se trate de créditos distintos a los señalados precedentemente, la que se demostrará en la partida "Préstamos hipotecarios endosables para fines generales" que, con el N° 1248, se crea en el formulario MB1.
 
-construcción de viviendas. Esta cuenta será demostrada en la partida "Préstamos
-
-hipotecarios para vivienda" que, con el N° 1247, se crea en el formulario MB1, o
-
-bien.
-
-- "Préstamos hipotecarios endosables para fines generales otorgados", cuando se
-
-trate de créditos distintos a los señalados precedentemente, la que se
-
-demostrará en la partida "Préstamos hipotecarios endosables para fines
-
-generales" que, con el N° 1248, se crea en el formulario MB1.
-
-Haber: "Caja" o la cuenta que corresponda por el desembolso del importe
-
-respectivo.
+Haber: "Caja" o la cuenta que corresponda por el desembolso del importe respectivo.
 
 b) Compra de préstamos hipotecarios endosables.
 
-Debe: - "Préstamos hipotecarios endosables para vivienda adquiridos" por el
+Debe: - "Préstamos hipotecarios endosables para vivienda adquiridos" por el valor par del crédito, esto es, su saldo de capital, más los intereses y reajustes devengados hasta la fecha de adquisición. El saldo de esta cuenta se demostrará en la partida 1247 del formulario MB1.
 
-valor par del crédito, esto es, su saldo de capital, más los intereses y
+- "Préstamos hipotecarios endosables para fines generales adquiridos", por el valor par del crédito, la que se demostrará en la partida 1248 del formulario MB1.
 
-reajustes devengados hasta la fecha de adquisición. El saldo de esta cuenta se
-
-demostrará en la partida 1247 del formulario MB1.
-
-- "Préstamos hipotecarios endosables para fines generales adquiridos", por el
-
-valor par del crédito, la que se demostrará en la partida 1248 del formulario
-
-MB1.
-
-- "Diferencias de precio diferidas por compra de P.H.E.", por la diferencia
-
-entre el valor par del crédito adquirido y el importe pagado por él, en caso que
-
-éste último sea superior. Esta cuenta se demostrará en la partida 2120 del
-
-formulario MB1.
+- "Diferencias de precio diferidas por compra de P.H.E.", por la diferencia entre el valor par del crédito adquirido y el importe pagado por él, en caso que éste último sea superior. Esta cuenta se demostrará en la partida 2120 del formulario MB1.
 
 Haber: - "Caja" o la cuenta que corresponda por el pago del crédito adquirido.
 
-- "Beneficios por devengar por compra de P.H.E.", por la diferencia entre el
-
-valor par del crédito adquirido y el importe pagado por él, en caso que este
-
-último sea inferior, la que se demostrará en la partida 4120 del formulario MB1.
+- "Beneficios por devengar por compra de P.H.E.", por la diferencia entre el valor par del crédito adquirido y el importe pagado por él, en caso que este último sea inferior, la que se demostrará en la partida 4120 del formulario MB1.
 
 c) Venta de préstamos hipotecarios endosables.
 
-Debe: - "Caja" o la cuenta que corresponda por la recepción del pago del crédito
-
-vendido.
+Debe: - "Caja" o la cuenta que corresponda por la recepción del pago del crédito vendido.
 
 - "Beneficios por devengar por compra de P.H.E.", cuando corresponda.
 
-- "Diferencias de precio por venta de P.H.E.", por la diferencia entre el valor
-
-al que se encuentre registrado el crédito en colocaciones, incluyendo sus
-
-intereses y reajustes por cobrar, más la diferencia de precio por devengar que
-
-se mantenga registrada en el activo transitorio o deducidos los beneficios por
-
-devengar, que estén registrados en la respectiva cuenta de pasivo
-
-transitorio,según corresponda, y el valor obtenido en la venta, cuando éste sea
-
-menor. Esta cuenta se demostrará en la partida 5605 del formulario MR1.
+- "Diferencias de precio por venta de P.H.E.", por la diferencia entre el valor al que se encuentre registrado el crédito en colocaciones, incluyendo sus intereses y reajustes por cobrar, más la diferencia de precio por devengar que se mantenga registrada en el activo transitorio o deducidos los beneficios por devengar, que estén registrados en la respectiva cuenta de pasivo transitorio,según corresponda, y el valor obtenido en la venta, cuando éste sea menor. Esta cuenta se demostrará en la partida 5605 del formulario MR1.
 
 Haber: - "Préstamos hipotecarios endosables para vivienda otorgados",
 
@@ -7738,131 +7664,59 @@ Haber: - "Préstamos hipotecarios endosables para vivienda otorgados",
 
 - "Préstamos hipotecarios endosables para vivienda adquiridos", o bien,
 
-- "Préstamos hipotecarios endosables para fines generales adquiridos", según
-
-corresponda.
+- "Préstamos hipotecarios endosables para fines generales adquiridos", según corresponda.
 
 - "Diferencias de precio diferidas por compra de P.H.E.", cuando proceda.
 
-- "Beneficios por venta de P.H.E.", por la diferencia entre el valor al que se
-
-encuentre registrado el crédito en colocaciones, incluyendo sus intereses y
-
-reajustes por cobrar, más la diferencia de precio diferida o deducido el importe
-
-de beneficios por devengar, según proceda, que se encuentren registrados en las
-
-respectivas cuentas de activo transitorio o pasivo transitorio y el precio
-
-obtenido en la venta del crédito. Esta cuenta se demostrará en la partida 7605
-
-del formulario MR1.
+- "Beneficios por venta de P.H.E.", por la diferencia entre el valor al que se encuentre registrado el crédito en colocaciones, incluyendo sus intereses y reajustes por cobrar, más la diferencia de precio diferida o deducido el importe de beneficios por devengar, según proceda, que se encuentren registrados en las respectivas cuentas de activo transitorio o pasivo transitorio y el precio obtenido en la venta del crédito. Esta cuenta se demostrará en la partida 7605 del formulario MR1.
 
 d) Intereses y reajustes.
 
-Los intereses que devenguen las instituciones financieras sobre los créditos de
+Los intereses que devenguen las instituciones financieras sobre los créditos de que se trata, serán registrados en la cuenta "Intereses ganados" de la partida 7105 del formulario MR1.
 
-que se trata, serán registrados en la cuenta "Intereses ganados" de la partida
-
-7105 del formulario MR1.
-
-Asimismo, los reajustes que devenguen sobre estos créditos, serán acreditados en
-
-la cuenta "Reajustes ganados", de la partida 7305 del formulario MR1.
+Asimismo, los reajustes que devenguen sobre estos créditos, serán acreditados en la cuenta "Reajustes ganados", de la partida 7305 del formulario MR1.
 
 e) Comisiones.
 
-Las comisiones que perciban las instituciones financieras por la cobranza de los
+Las comisiones que perciban las instituciones financieras por la cobranza de los préstamos hipotecarios endosables que hayan enajenado, serán registradas en la cuenta "Comisiones ganadas por cobranza de P.H.E.", la que será demostrada en la partida 7520 del formulario MR1.
 
-préstamos hipotecarios endosables que hayan enajenado, serán registradas en la
+f) Ajuste de diferencias y beneficios por compra de préstamos hipotecarios endosables.
 
-cuenta "Comisiones ganadas por cobranza de P.H.E.", la que será demostrada en la
-
-partida 7520 del formulario MR1.
-
-f) Ajuste de diferencias y beneficios por compra de préstamos hipotecarios
-
-endosables.
-
-Los importes registrados en las cuentas "Diferencias de precio diferidas por
-
-compra de P.H.E." y "Beneficios por devengar por compra de P.H.E.", serán
-
-traspasados a resultados al término de cada mes, en forma proporcional al plazo
-
-remanente del respectivo crédito adquirido. Dichos montos serán registrados en
-
-las cuentas "Diferencias de precio por compra de P.H.E." y "Beneficios obtenidos
-
-por compra de P.H.E.", las que se demostrarán en las partidas 5605 y 7605 del
-
-formulario MR1, respectivamente.
+Los importes registrados en las cuentas "Diferencias de precio diferidas por compra de P.H.E." y "Beneficios por devengar por compra de P.H.E.", serán traspasados a resultados al término de cada mes, en forma proporcional al plazo remanente del respectivo crédito adquirido. Dichos montos serán registrados en las cuentas "Diferencias de precio por compra de P.H.E." y "Beneficios obtenidos por compra de P.H.E.", las que se demostrarán en las partidas 5605 y 7605 del formulario MR1, respectivamente.
 
 g) Cobranza de los préstamos hipotecarios endosables.
 
-Las instituciones financieras que enajenen préstamos hipotecarios endosables
+Las instituciones financieras que enajenen préstamos hipotecarios endosables y,cuando sea del caso, mantengan en cobranza el respectivo contrato de mutuo, registrarán dichos instrumentos en la cuenta "Mutuos hipotecarios endosables en cobranza" de la partida 9280.
 
-y,cuando sea del caso, mantengan en cobranza el respectivo contrato de mutuo,
+En los casos en que la institución financiera cedente adquiera los referidos instrumentos en calidad de agente administrador de una compañía de seguros, no registrará importe alguno en la cuenta señalada en el párrafo precedente.
 
-registrarán dichos instrumentos en las cuentas "Mutuos hipotecarios endosables
+2. Instrucciones contables para operaciones con mutuos hipotecarios endosables realizadas como agente de las compañías de seguros.
 
-en cobranza" y "Responsabilidad por mutuos hipotecarios endosables en cobranza",
-
-las que serán demostradas en las partidas 9280 y 9900 del formulario MB1,
-
-respectivamente.
-
-En los casos en que la institución financiera cedente adquiera los referidos
-
-instrumentos en calidad de agente administrador de una compañía de seguros, no
-
-registrará importe alguno en las cuentas señaladas en el párrafo precedente.
-
-2. Instrucciones contables para operaciones con mutuos hipotecarios endosables
-
-realizadas como agente de las compañías de seguros.
-
-Las instituciones financieras deberán registrar las operaciones de que se trata
-
-de la siguiente forma:
+Las instituciones financieras deberán registrar las operaciones de que se trata de la siguiente forma:
 
 a) Recepción de los fondos.
 
-Debe: "Caja" o la cuenta que corresponda, por la recepción del dinero para
+Debe: "Caja" o la cuenta que corresponda, por la recepción del dinero para otorgar o adquirir préstamos hipotecarios endosables.
 
-otorgar o adquirir préstamos hipotecarios endosables.
-
-Haber: "Recursos recibidos de compañías de seguros por colocar en M.H.E.", la
-
-que se demostrará en la partida 3010 del formulario MB1.
+Haber: "Recursos recibidos de compañías de seguros por colocar en M.H.E.", la que se demostrará en la partida 3010.
 
 b) Otorgamiento o adquisición de mutuos.
 
 Debe: - "Recursos recibidos de compañías de seguros por colocar en M.H.E.".
 
-- "Mutuos hipotecarios endosables en custodia por cuenta de compañías de
-
-seguros", la que se demostrará en la partida 9260 del formulario MB1.
+- "Mutuos hipotecarios endosables en custodia por cuenta de compañías de seguros", la que se demostrará en la partida 9260 del formulario MB1.
 
 Haber: - "Caja" o la cuenta que corresponda por el pago del crédito.
 
-- "Responsabilidad de mutuos hipotecarios endosables en custodia por cuenta de
-
-compañías de seguro", la que se demostrará en la partida 9900 del formulario
-
-MB1.
+- "La cuenta de orden de la partida 9900". Además, en esta letra b) se suprime la expresión "del formulario MB1".
 
 c) Recepción del pago de dividendos.
 
 Debe: "Caja" o la cuenta que corresponda por la recepción del pago.
 
-Haber: "Recursos por entregar a compañías de seguros provenientes de M.H.E.", la
+Haber: "Recursos por entregar a compañías de seguros provenientes de M.H.E.", la que se demostrará en la partida 3010 del formulario MB1.
 
-que se demostrará en la partida 3010 del formulario MB1.
-
-Simultáneamente se deberá revertir en las cuentas de orden señaladas en el N° 2
-
-precedente, el importe de la amortización que se incluya en el dividendo.
+Simultáneamente se deberá revertir en las cuentas de orden señaladas en el N° 2 precedente, el importe de la amortización que se incluya en el dividendo.
 
 d) Entrega de los importes recibidos en pago de los mutuos.
 
@@ -7872,13 +7726,7 @@ Haber: "Caja" o la cuenta que corresponda, por la entrega del importe respectivo
 
 e) Comisiones.
 
-Las comisiones que las instituciones financieras cobren a las compañías de
-
-seguros por actuar en calidad de agentes administradores de éstas, serán
-
-acreditadas en la cuenta "Comisiones ganadas por administración de la que se
-
-demostrará en la partida 7525 del formulario MR1.
+Las comisiones que las instituciones financieras cobren a las compañías de seguros por actuar en calidad de agentes administradores de éstas, serán acreditadas en la cuenta "Comisiones ganadas por administración de la que se demostrará en la partida 7525 del formulario MR1.
 
 CAPITULO 8-5 (Bancos y Financieras)
 
@@ -8728,9 +8576,9 @@ Las colocaciones que se adquieran a instituciones financieras en liquidación qu
 
 Debe: - La cuenta de colocaciones que corresponda, según el crédito de que se trate, por el valor de adquisición del respectivo documento.
 
-Cuando se trate de documentos vencidos, se debitará la cuenta "Documentos vencidos adquiridos a instituciones en liquidación", cuyo saldo se demuestra en la partida 1415 del formulario MB1.
+Cuando se trate de documentos vencidos, se debitará la cuenta "Documentos vencidos adquiridos a instituciones en liquidación", cuyo saldo se demuestra en la partida 1415.
 
-- "Diferencias de precio por créditos adquiridos a instituciones en liquidación", por la diferencia entre el valor par del documento y el valor de adquisición. El saldo de esta cuenta se demuestra en la partida 9150 del formulario MB1.
+- "Diferencias de precio por créditos adquiridos a instituciones en liquidación", por la diferencia entre el valor par del documento y el valor de adquisición. El saldo de esta cuenta se demuestra en la partida 9150.
 
 Haber: - "Caja" o la cuenta que corresponda, por el importe pagado a la entidad vendedora.
 
@@ -8738,17 +8586,13 @@ Haber: - "Caja" o la cuenta que corresponda, por el importe pagado a la entidad 
 
 Esta cuenta se representa en las partidas 3420 ó 3475, del formulario MB1, según sea el plazo de pago pactado.
 
-- "Responsabilidad por diferencias de precio por créditos adquiridos a instituciones en liquidación", por la diferencia entre el valor de adquisición de los créditos y su valor par. El saldo de esta cuenta se demostrará en la partida 9900 del formulario MB1.
+- "La cuenta de orden de la partida 9900".
 
 7.2. Abono a resultados de las diferencias de precio obtenidas.
 
-En concordancia con lo expresado anteriormente, los importes que se registren en las cuentas de orden "Diferencias de precio por créditos adquiridos a instituciones en liquidación" y "Responsabilidad por diferencias de precio por créditos adquiridos a instituciones en liquidación", serán traspasados a la correspondiente cuenta de resultado, en la medida en que la respectiva
+En concordancia con lo expresado anteriormente, los importes contabilizados en la cuenta de orden "Diferencias de precio por créditos adquiridos a instituciones en liquidación" serán registrados en la correspondiente cuenta de resultado, en la medida en que la respectiva clasificación de esos créditos sea revisada por esta Superintendencia.
 
-clasificación de esos créditos sea revisada por esta Superintendencia.
-
-El abono a resultados de la mencionada diferencia se hará a la cuenta:
-
-"Beneficio por activación de créditos adquiridos a instituciones en liquidación", de la partida 7605 del formulario MR1, con cargo a la cuenta de colocaciones que corresponda, por el ajuste al valor par que debe hacerse de la respectiva colocación una vez revisada su clasificación. Simultáneamente deben revertirse las diferencias registradas en las cuentas de orden a que se refiere el numeral 7.1 precedente.
+El abono a resultados de la mencionada diferencia se hará a la cuenta "Beneficio por activación de créditos adquiridos a instituciones en liquidación", de la partida 7605, con cargo a la cuenta de colocaciones que corresponda, por el ajuste al valor par que debe hacerse de la respectiva colocación una vez revisada su clasificación. Simultáneamente deben revertirse las diferencias registradas en la cuenta de orden a que se refiere el numeral 7.1 precedente.
 
 7.3. Préstamos para vivienda en letras de crédito y préstamos pagaderos en cuotas.
 
@@ -8762,19 +8606,15 @@ Conjuntamente con el abono a la citada cuenta de resultados, deben constituirse 
 
 7.4. Devengo de intereses y reajustes sobre las diferencias de precio contabilizadas en cuentas de orden.
 
-Las instituciones financieras deben demostrar en las cuentas de orden "Reajustes devengados de cartera adquirida a instituciones financieras en liquidación","Intereses devengados de cartera adquirida a instituciones financieras en liquidación" y "Devengo de reajustes e intereses de cartera adquirida a instituciones financieras en liquidación", de las partidas 9430, 9440 y 9900 del formulario MB1, los intereses y reajustes devengados sobre la diferencia entre el precio pagado por el documento adquirido y su valor par. Estos devengos que se calcularán de acuerdo con las normas generales sólo sobre los créditos vigentes, se abonarán a las respectivas cuentas de resultado en la opornidad en que la colocación a que correspondan sea ajustada en el activo a su
-
-valor par,después de aprobada su clasificación, según lo previsto en estas instrucciones.
+Las instituciones financieras deben demostrar en las cuentas de orden "Reajustes devengados de cartera adquirida a instituciones financieras en liquidación" Intereses devengados de cartera adquirida a instituciones financieras en liquidación" de las partidas 9430 y 9440, respectivamente, los intereses y reajustes devengados sobre la diferencia entre el precio pagado por el documento adquirido y su valor par. Estos devengos que se calcularán de acuerdo con las normas generales sólo sobre los créditos vigentes, se abonarán a las respectivas cuentas de resultado en la opornidad en que la colocación a que correspondan sea ajustada en el activo a su valor par,después de aprobada su clasificación, según lo previsto en estas instrucciones.
 
 7.5. Créditos adquiridos por un valor igual o inferior al equivalente del cinco por ciento de su valor par.
 
-Los créditos cuyo valor de adquisición resulte igual o inferior al cinco por ciento de su valor par, determinado a la fecha de adquisición, serán contabilizados por su valor nominal en las cuentas de orden "Créditos adquiridos a instituciones en liquidación" y "Responsabilidad por créditos adquiridos a instituciones en liquidación". Los saldos de estas cuentas se demostrarán en las partidas 9150 y 9900, del formulario MB1, respectivamente.
+Los créditos cuyo valor de adquisición resulte igual o inferior al cinco por ciento de su valor par, determinado a la fecha de adquisición, serán contabilizados por su valor nominal en la cuenta de orden "Créditos adquiridos a instituciones financieras en liquidación" de la partida 9150.
 
-Los importes efectivamente pagados por la compra de estos créditos se debitarán,cuando sea procedente, en la cuenta "Diferencias por adquisición de créditos a instituciones en liquidación", cuyo saldo será demostrado en la partida 5605,del formulario MR1.
+Los importes efectivamente pagados por la compra de estos créditos se debitarán, cuando sea procedente, en la cuenta "Diferencias por adquisición de créditos a instituciones en liquidación", de la partida 5605.
 
-Los créditos que queden registrados en las cuentas "Créditos adquiridos a instituciones en liquidación" y "Responsabilidad por créditos adquiridos a instituciones en liquidación" antes señaladas, se mantendrán en dichas cuentas de orden, ajustados a su valor par, mientras no cumplan las condiciones generales que se establecen en el numeral 3.1 1 del título I del Capítulo 8-29 de esta Recopilación, para el castigo de colocaciones vencidas. Cuando un crédito adquiera alguna de esas condiciones, deberán revertirse los correspondientes importes de las referidas cuentas de orden. Simultáneamente con esa reversión, aquellos créditos vencidos cuyo cobro aún puede obtenerse por la vía de un juicio ejecutivo se registrarán en las cuentas "Colocaciones castigadas" y "Responsabilidad por operaciones castigadas" de las partidas 9600 y 9900, respectivamente, quedando sujeto su tratamiento posterior a las instrucciones contenidas en la letra b) del numeral 3.3 del título I del Capítulo 8-29 antes mencionado y a las normas relativas a la información sobre
-
-créditos castigados contenidas en el Manual del Sistema de Información.
+Los créditos que queden registrados en la cuenta de orden "Créditos adquiridos a instituciones en liquidación" se mantendrán en dicha cuenta mientras no cumplan las condiciones generales que se establecen en el Capítulo 8-29 de esta Recopilación para el castigo de colocaciones vencidas. Cuando el crédito adquiera alguna de esas condiciones, deberá rebajarse el respectivo importe de esa cuenta de orden, a fin de que refleje solamente las colocaciones vigentes. En todo caso, aquellos créditos vencidos cuyo cobro aún puede obtenerse por la vía de un juicio ejecutivo se registrarán en la cuenta de orden "Colocaciones castigadas" de la partida 9600, quedando sujeto su tratamiento posterior a las instrucciones del Capítulo 8-29 antes mencionado y a las normas relativas a la información sobre créditos castigados contenidas en el Manual del Sistema de Información.
 
 7.6. Garantías.
 
@@ -8782,7 +8622,7 @@ Las garantías inherentes a los créditos adquiridos deben registrarse en las si
 
 Debe: - "Garantías de créditos adquiridos a instituciones en liquidación", de las partidas 9210 ó 9220, según sea la naturaleza de la garantía.
 
-Haber: - "Responsabilidad por garantías de créditos adquiridos a instituciones en liquidación", cuyo saldo se demostrará en la partida 9900, del formulario MB1.
+Haber: - "La cuenta de orden de la partida 9900".
 
 ### 8. Márgenes
 
@@ -8990,21 +8830,11 @@ Especial cuidado deben prestar las entidades que se adjudiquen estas garantías 
 
 9.1. Monto de las garantías adjudicadas.
 
-La institución financiera que se adjudique una garantía del Fondo, registrará el importe total adjudicado en las cuentas de orden "Garantías adjudicadas por cursar del Fondo para Pequeños Empresarios" y "Responsabilidad por garantías adjudicadas por cursar del Fondo para Pequeños Empresarios", de las partidas 9230 y 9900, respectivamente.
+La institución financiera que se adjudique una garantía del Fondo, registrará el importe total adjudicado en la cuenta de orden "Garantías adjudicadas por cursar del Fondo para Pequeños Empresarios" de la partida 9230.
 
 9.2. Utilización de la garantía.
 
-Cada vez que la empresa curse un crédito al amparo de la garantía del Fondo, efectuará la siguiente contabilización en las cuentas de orden que se señalan, por el monto de la garantía comprometida en la respectiva operación.
-
-Debe: "Garantías cursadas con cargo al Fondo para Pequeños Empresarios"
-
-"Responsabilidad por garantías adjudicadas por cursar del Fondo para Pequeños Empresarios"
-
-Haber: "Responsabilidad por garantías cursadas con cargo al Fondo para Pequeños Empresarios".
-
-"Garantías adjudicadas por cursar del Fondo para Pequeños Empresarios".
-
-Las cuentas "Garantías cursadas con cargo al Fondo para Pequeños Empresarios y "Responsabilidad por garantías cursadas con cargo al Fondo para Pequeños Empresarios", se incluyen también en las partidas 9230 y 9900 ya mencionadas.
+Cada vez que la empresa curse un crédito al amparo de la garantía del Fondo, registrará el monto de la garantía comprometida en la operación en la cuenta de orden "Garantías cursadas con cargo al Fondo para Pequeños Empresarios", de la partida 9230. Simultáneamente, se efectuará el asiento para rebajar el mismo monto de la cuenta "Garantías adjudicadas por cursar del Fondo para Pequeños Empresarios" señalada en el numeral 9.1 precedente.
 
 9.3. Liberación de la garantía.
 
@@ -9408,11 +9238,7 @@ No obstante lo anterior, cuando un banco avalista efectúe la cobertura del impo
 
 7.5. Custodia de Certificados de Inscripción.
 
-Los certificados a en los casos que corresponda, deberán ser contabilizados, en la misma moneda en que estén expresados, en las cuentas que se indican a continuación:
-
-Debe: "Valores en custodia", de la partida 9260 del formulario MB1.
-
-Haber: "Depositantes de valores en custodia", de la partida 9900 del formulario MB1.
+Los certificados, en los casos que corresponda, deberán ser contabilizados en la misma moneda en que estén expresados, en la cuenta de orden "Valores en custodia", de la partida 9260.
 
 ### 8. Límites legales
 
@@ -10000,7 +9826,7 @@ Si la operación arroja pérdidas, se cargará la cuenta "Pérdida por venta de 
 
 En el caso que se efectúe alguna venta con pacto de retrocompra de instrumentos de la cartera de colocaciones, la operación se tratará contablemente como una captación a plazo, debiéndose utilizar para el efecto las cuentas para depósitos a plazo señaladas en el Capítulo 2-7 de esta Recopilación.
 
-La institución que adquiere el documento, por su parte, registrará la operación en forma similar a las adquisiciones con responsabilidad de que trata el N° 1 de este título, pero con cargo a la cuenta "Efectos de comercio adquiridos con pacto de retrocompra", de la partida 1135 ó 1230. Además, deberá registrar el valor nominal de los documentos adquiridos en la cuenta "Documentos de colocaciones adquiridos con pacto" de la partida 9261, con abono a la cuenta "Responsabilidad por documentos de colocaciones adquiridos con pacto", de la partida 9900.
+La institución que adquiere el documento, por su parte, registrará la operación en forma similar a las adquisiciones con responsabilidad de que trata el N° 1 de este título, pero con cargo a la cuenta "Efectos de comercio adquiridos con pacto de retrocompra", de la partida 1135 ó 1230. Además, deberá registrar el valor nominal de los documentos adquiridos en la cuenta "Documentos de colocaciones adquiridos con pacto" de la partida 9261.
 
 ### 5. Tratamientos contables especiales
 
@@ -10346,7 +10172,7 @@ En síntesis, los traspasos antes señalados tendrán sólo el efecto de present
 
 b) Por los instrumentos cedidos que hayan sido adquiridos con pacto de retrocompra.
 
-En el evento de venderse con pacto de retrocompra un instrumento que haya sido a su vez comprado con pacto, junto con registrar la operación de la forma señalada en el numeral 8.1, se deberá registrar el valor nominal del instrumento cedido con cargo a la cuenta de orden "Documentos adquiridos y cedidos con pacto" de la partida 9261 y abono a la cuenta "Responsabilidad por documentos adquiridos y cedidos con pacto", de la partida 9900.
+En el evento de venderse con pacto de retrocompra un instrumento que haya sido a su vez comprado con pacto, junto con registrar la operación de la forma señalada en el numeral 8.1, se deberá registrar el valor nominal del instrumento cedido con cargo a la cuenta de orden "Documentos adquiridos y cedidos con pacto" de la partida 9261.
 
 8.3. Cumplimiento del pacto.
 
@@ -10370,11 +10196,11 @@ Los intereses y reajustes se registrarán en las cuentas que correspondan de las
 
 9.3. Documentos adquiridos.
 
-Simultáneamente con la contabilización indicada en el numeral 9.1, se registrará, además, el valor nominal de los documentos adquiridos, en la cuenta de orden "Documentos de inversiones financieras adquiridos con pacto" de la partida 9261 "Documentos adquiridos y cedidos con pacto", con abono a la cuenta "Responsabilidad por documentos de inversiones financieras adquiridos con pacto", de la partida 9900.
+Simultáneamente con la contabilización indicada en el numeral 9.1, se registrará, además, el valor nominal de los documentos adquiridos, en la cuenta de orden "Documentos de inversiones financieras adquiridos con pacto" de la partida 9261 "Documentos adquiridos y cedidos con pacto.
 
 9.4. Cumplimiento del pacto.
 
-Al realizarse la venta convenida, se abonarán las cuentas correspondientes a los créditos de que trata el numeral 9.1 anterior y, al mismo tiempo, se revertirán los importes correspondientes de las cuentas de orden mencionadas en el numeral 9.3 precedente
+Al realizarse la venta convenida, se abonarán las cuentas correspondientes a los créditos de que trata el numeral 9.1 anterior y, al mismo tiempo, se revertirán los importes correspondientes de las cuentas de orden mencionadas en el numeral 9.3 precedente.
 
 ### 10. Provisiones
 
@@ -10632,7 +10458,7 @@ Estos importes serán registrados en la cuenta "Inversiones en oro", de la parti
 
 3.2.- Oro entregado en prenda.
 
-Sin perjuicio de lo anterior, las instituciones financieras que entregaren en prenda oro amonedado o en pastas de su propiedad, previa autorización del Instituto Emisor, registrarán el importe correspondiente a la cantidad prendada en la cuenta de orden "Oro entregado en garantía", con abono a la cuenta "Responsabilidad por oro entregado en garantía", de las partidas 9290 y 9900, respectivamente.
+Sin perjuicio de lo anterior, las instituciones financieras que entregaren en prenda oro amonedado o en pastas de su propiedad, previa autorización del Instituto Emisor, registrarán el importe correspondiente a la cantidad prendada en la cuenta de orden "Oro entregado en garantía", de la partida 9290.
 
 3.3.- Ajustes de los saldos contables.
 
@@ -11552,7 +11378,7 @@ b) Por el control de los créditos castigados:
 
 Debe: - "Colocaciones castigadas" o "Créditos vigentes castigados anticipadamente", de la partida 9600 "Operaciones castigadas", según se trate de créditos vencidos o vigentes, por el importe correspondiente al castigo del activo más los intereses y reajustes que estuvieren registrados en cuentas de orden según las instrucciones del Capítulo 7-1 de esta Recopilación. En el caso de los créditos registrados a su valor final, se considerará dicho valor final.
 
-Haber: - "Responsabilidad por operaciones castigadas", de la partida 9900.
+Haber: - "La cuenta de orden de la partida 9900".
 
 Se excluirán de la contabilización descrita precedentemente, los créditos vencidos que a su vez no se consideran para la información sobre créditos castigados que refunde esta Superintendencia, según lo indicado en el Capítulo 18-5 de esta Recopilación y en el Manual del Sistema de Información.
 
@@ -11616,33 +11442,31 @@ Debe: - "Provisión por inversiones financieras riesgosas" de la partida 4210 de
 
 Haber: - La cuenta en que se encuentren registrados los documentos que se castigan.
 
-- "Responsabilidad por operaciones castigadas" de la partida 9900 del formulario MB1.
+- "La cuenta de orden de la partida 9900.
 
 2.3. Recuperación de inversiones castigadas.
 
-Las sumas que se recuperen por el pago de inversiones financieras castigadas, se registrarán con abono a la cuenta "Recuperación de colocaciones e inversiones castigadas", de la partida 7910, en el caso de las recuperaciones de inversiones financieras castigadas en el mismo ejercicio o en la cuenta del mismo nombre incluida en la partida 8105 del formulario MR1, cuando se trate de recuperaciones de inversiones castigadas en años anteriores.
+Las sumas que se recuperen por el pago de inversiones financieras castigadas, se registrarán con abono a la cuenta "Recuperación de colocaciones e inversiones castigadas", de la partida 7910, en el caso de las recuperaciones de inversiones financieras castigadas en el mismo ejercicio o en la cuenta del mismo nombre de la partida 8105, cuando se trate de recuperaciones de inversiones castigadas en años anteriores.
 
-Al mismo tiempo, deberá revertirse el monto que corresponda, registrado en las cuentas "Inversiones castigadas" y Responsabilidad por operaciones castigadas" de las partidas 9600 y 9900, respectivamente.
+Al mismo tiempo, deberá revertirse el monto que corresponda registrado en la cuenta "Inversiones castigadas" de la partida 9600.
 
 ### III. CONDONACIONES
 
 Cuando se condone todo o parte de una colocación o de una inversión financiera, debido a que razonablemente existen motivos para rebajar el monto adeudado y porque se ha convenido la remisión con el deudor, las instituciones financieras deberán efectuar la siguiente contabilización:
 
-Debe: - "Condonaciones de créditos" de la partida 6140 o "Condonaciones de inversiones" de la partida 6150 del formulario MR1.
+Debe: - "Condonaciones de créditos" de la partida 6140 o "Condonaciones de inversiones" de la partida 6150 según corresponda.
 
-- "Colocaciones condonadas" o "Inversiones condonadas", según corresponda, que se abrirán para este efecto integrando la partida 9601 "Operaciones condonadas" que se incorpora en el formulario MB1, para registrar en cuentas de orden el total del monto condonado.
+- "Colocaciones condonadas" o "Inversiones condonadas", según corresponda, de la partida 9601 "Operaciones condonadas", para registrar en cuentas de orden el total del monto condonado.
 
 Haber: - La cuenta de activo que corresponda.
 
-- "Responsabilidad por operaciones condonadas" de la partida 9900 del formulario MB1.
+- "La cuenta de orden de la partida 9900.
 
 Además, cuando se condonen colocaciones vencidas deberán liberarse las provisiones individuales que se hubieren constituido y, cuando proceda, deberán revertirse también los asientos que se hubieren efectuado por los intereses y reajustes reconocidos sólo en cuentas de orden de acuerdo con las instrucciones del Capítulo 7-1 de esta Recopilación.
 
-Los importes que se registren en las cuentas "Colocaciones condonadas" e "Inversiones condonadas" de la partida 9601 y en la cuenta "Responsabilidad por operaciones condonadas", de la partida 9900, se mantendrán en dichas cuentas hasta el cierre del ejercicio siguiente a aquel en que se efectúe la condonación. En consecuencia, en la apertura del ejercicio subsiguiente se
+Los importes que se registren en las cuentas "Colocaciones condonadas" e "Inversiones condonadas" de la partida 9601 de la partida 9900, se mantendrán en dichas cuentas hasta el cierre del ejercicio siguiente a aquel en que se efectúe la condonación. En consecuencia, en la apertura del ejercicio subsiguiente se revertirán esos importes, de manera que el saldo de las cuentas reflejará sólo las condonaciones efectuadas durante el año en curso y en el ejercicio inmediatamente anterior.
 
-revertirán esos importes, de manera que el saldo de las cuentas reflejará sólo las condonaciones efectuadas durante el año en curso y en el ejercicio inmediatamente anterior.
-
-Cuando se trate de condonar una operación ya castigada, se registrará el importe correspondiente en las cuentas señaladas en el párrafo precedente y se revertirá el monto respectivo de las cuentas "Colocaciones castigadas" o "Inversiones castigadas" de la partida 9600 y "Responsabilidad por operaciones castigadas" de la partida 9900. Además, para efectos de la información que debe entregarse a esta Superintendencia y de acuerdo con lo indicado en el N° 4 del título IV de este capítulo, estas condonaciones deberán informarse a este Organismo junto con las recuperaciones de créditos castigados.
+Cuando se trate de condonar una operación ya castigada, se registrará el importe correspondiente en las cuentas señaladas en el párrafo precedente y se revertirá el monto respectivo de las cuentas "Colocaciones castigadas" o "Inversiones castigadas" de la partida 9600. Además, para efectos de la información que debe entregarse a esta Superintendencia y de acuerdo con lo indicado en el N° 4 del título IV de este capítulo, estas condonaciones deberán informarse a este Organismo junto con las recuperaciones de créditos castigados.
 
 ### IV. OTRAS DISPOSICIONES
 
@@ -11686,9 +11510,9 @@ Por otra parte, en el caso en que desaparezcan las causas que hubieren motivado 
 
 Deben informarse como créditos vigentes los créditos castigados cuyo vencimiento aún no se haya cumplido y aquellos que, estando castigados, hayan sido renegociados.
 
-Cuando un crédito castigado sea objeto de renegociación, sin que ella involucre el pago del crédito mediante el otorgamiento de un nuevo crédito, se registrará aquél en la cuenta de orden "Créditos castigados renegociados" que se incluirá en la partida 9600, con abono a la cuenta "Responsabilidad por operaciones castigadas", de la partida 9900.
+Cuando un crédito castigado sea objeto de renegociación, sin que ella involucre el pago del crédito mediante el otorgamiento de un nuevo crédito, se registrará aquél en la cuenta de orden "Créditos castigados renegociados" que se incluirá en la partida 9600.
 
-Tanto el saldo de la cuenta "Créditos vigentes castigados anticipadamente" como el de la cuenta "Créditos castigados renegociados", deberán ajustarse, por lo menos al cierre de cada mes, contra la cuenta "Responsabilidad por operaciones castigadas", por el importe de los reajustes e intereses devengados de los respectivos créditos y por los pagos que se hubieren efectuado, de manera que tales cuentas reflejen el valor actual de los correspondientes créditos.
+Tanto el saldo de la cuenta "Créditos vigentes castigados anticipadamente" como el de la cuenta "Créditos castigados renegociados", deberán ajustarse, por lo menos al cierre de cada mes, por el importe de los reajustes e intereses devengados de los respectivos créditos y por los pagos que se hubieren efectuado, de manera que tales cuentas reflejen el valor actual de los correspondientes créditos.
 
 Si un crédito castigado renegociado o una cuota de éste no es pagado dentro de los 90 días siguientes a su vencimiento, el crédito se informará en el Estado de Castigos, debiéndose revertir el importe correspondiente de las cuentas antes señaladas y efectuar su registro, cuando proceda, en las cuentas de que trata el numeral 4.1 precedente. Igual procedimiento deberá seguirse en el caso de los créditos que se hayan castigado aún estando vigentes a que se refiere el primer párrafo de este numeral.
 
@@ -13408,7 +13232,7 @@ Simultáneamente con los asientos indicados en los números 3 y 4 se deberá reg
 
 Debe: "Amortización directa de letras de crédito por efectuar" de la partida 9420 del formulario MB1.
 
-Haber: "Responsabilidad por amortización directa de letras de crédito por efectuar" de la partida 9900 del formulario MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 6.- Recepción del pago de dividendos.
 
@@ -13456,7 +13280,7 @@ Haber: - "Préstamos en letras de crédito con amortización directa" por el mon
 
 La institución financiera deberá utilizar el importe recibido en amortizar extraordinariamente letras de crédito, ya sea por sorteo a la par, compra en el mercado o rescate de las que estén en su poder.
 
-Simultáneamente se deberá registrar en el fondo de amortización el importe respectivo, mediante cargo a la cuenta "Amortización extraordinaria de letras de crédito por efectuar" de la partida 9420 del MB1 con abono a "Responsabilidad por amortización extraordinaria de letras de crédito por efectuar" de la partida 9900 del MB1.
+Simultáneamente se deberá cargar al fondo de amortización el importe respectivo, registrándolo en la cuenta de orden "Amortización extraordinaria de letras de crédito por efectuar" de la partida 9420.
 
 10.1.2.- Amortización extraordinaria por sorteo a la par.
 
@@ -13496,7 +13320,7 @@ Haber: - "Letras de crédito de emisión propia", de la partida 1735 del MB1.
 
 10.1.5.- Utilización del fondo de amortización.
 
-Conjuntamente con los asientos contables señalados en los numerales 10.1.2 letra a), 10.1.3 y 10.1.4, las entidades financieras deberán debitar la cuenta "Responsabilidad por amortización extraordinaria de letras de crédito por efectuar" y acreditar "Amortización extraordinaria de letras de crédito por efectuar", por el valor amortizado.
+Conjuntamente con las contabilizaciones descritas en los numerales 10.1.2 letra a), 10.1.3 y 10.1.4, el valor amortizado se rebajará del fondo de amortización, acreditando la cuenta de orden "Amortización extraordinaria de letras de crédito por efectuar".
 
 10.2.- Pago con letras de crédito.
 
@@ -13594,11 +13418,7 @@ El tratamiento de los créditos con dividendos en mora o vencidos será equivale
 
 6.- Constitución del fondo de amortización.
 
-Simultáneamente con efectuar el asiento señalado en el N° 3 precedente de esta letra "B", se registrará el importe que por concepto de amortización se incluye en el dividendo, como sigue;
-
-Debe: "Amortización indirecta de letras de crédito por efectuar" de la partida 9420 del MB1.
-
-Haber: "Responsabilidad por amortización indirecta de letras de crédito porefectuar", de la partida 9900 del MB1.
+Simultáneamente con efectuar la contabilización señalada en el N° 3 de esta letra "B", se registrará el importe que por concepto de amortización se incluye en el dividendo, en la cuenta de orden "Amortización indirecta de letras de crédito por efectuar", de la partida 9420.
 
 7.- Recepción del pago de dividendos.
 
@@ -13656,9 +13476,11 @@ Haber: -"Letras de crédito de emisión propia", de la partida 1735 del MB1.
 
 10.4.- Utilización del fondo de amortización.
 
-Conjuntamente con los asientos contables señalados en los numerales 10.1 letra a), 10.2 y 10.3 precedentes, las entidades financieras deberán debitar la cuenta "Responsabilidad por amortización indirecta de letras de crédito por efectuar"
+10.1.4. Documentos mantenidos por cuenta del inversionista.
 
-con abono a "Amortización indirecta de letras de crédito por efectuar", por el importe respectivo.
+Los documentos en que consten los depósitos a la vista o a plazo constituidos por el banco mandatario por cuenta del inversionista mientras se formaliza la inversión, como asimismo los instrumentos emitidos por el Banco Central de Chile que se hayan adquirido por cuenta del mandante, serán registrados en la cuenta de orden "Documentos de inversionistas títulos deuda externa" de la partida 9260, debiendo descargar de esa cuenta los respectivos importes cuando se rescaten los depósitos.".
+
+Conjuntamente con las contabilizaciones descritas en los numerales 10.1 letra a), 10.2 y 10.3 precedentes, se deberá descargar la cuenta de orden "Amortización indirecta de letras de crédito por efectuar", por el importe respectivo.
 
 11.- Pago anticipado del todo o parte de un préstamo.
 
@@ -13682,7 +13504,7 @@ Simultáneamente con efectuar el asiento indicado en el numeral 11.1.1, se regis
 
 Debe: "Amortización indirecta extraordinaria de letras de crédito por efectuar", de la partida 9420 del MB1.
 
-Haber: "Responsabilidad por amortización indirecta extraordinaria de letras de crédito por efectuar", de la partida 9900 del MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 11.1.3.- Utilización del fondo extraordinario de amortización.
 
@@ -13712,31 +13534,19 @@ D. VENTA DE LAS LETRAS DE CREDITO POR CUENTA DE TERCEROS.
 
 ### 1. Recepción de las letras en custodia
 
-En caso que las letras de crédito emitidas sean entregadas a la institución
+En caso que las letras de crédito emitidas sean entregadas a la institución emisora para su custodia y posterior venta, se registrarán en las cuentas:
 
-emisora para su custodia y posterior venta, se registrarán en las cuentas:
+Debe: "Letras de crédito en custodia", de la partida 9260.
 
-Debe: "Letras de crédito en custodia", de la partida 9260 del MB1.
-
-Haber: "Depositantes de letras de crédito en custodia", de la partida 9900 del
-
-MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 2.- Venta de las letras de crédito.
 
-La venta que la institución financiera realice por cuenta de terceros de las
+La venta que la institución financiera realice por cuenta de terceros de las letras de crédito recibidas en custodia con esa finalidad, se contabilizarán como sigue:
 
-letras de crédito recibidas en custodia con esa finalidad, se contabilizarán
+Debe: "Caja" o la cuenta que corresponda por la recepción del importe resultante de la venta de las letras.
 
-como sigue:
-
-Debe: "Caja" o la cuenta que corresponda por la recepción del importe resultante
-
-de la venta de las letras.
-
-Haber: "Pagos por efectuar por venta de letras de crédito", que se incluirá en
-
-la partida 3010 del MB1.
+Haber: "Pagos por efectuar por venta de letras de crédito", que se incluirá en la partida 3010 del MB1.
 
 Además, se deberá revertir el asiento señalado en el número 1 precedente.
 
@@ -15438,11 +15248,11 @@ En las respectivas fechas de vencimiento, el importe que corresponda de los bono
 
 7.4. Cuentas de orden para reflejar el cómputo como capital y la parte que corresponda computar como obligaciones con terceros.
 
-Las instituciones financieras que emitan bonos subordinados deberán registrar la parte computada como capital de acuerdo con las instrucciones del numeral 4.1 de este Capítulo, en la cuenta "Bonos subordinados computados como capital", de la partida 9700 "Valores complementarios para efectos de márgenes" que se incorpora al MB1, con abono a la cuenta "Responsabilidad por control de límites legales" de la partida 9900.
+Las instituciones financieras que emitan bonos subordinados deberán registrar la parte computada como capital de acuerdo con las instrucciones del numeral 4.1 de este Capítulo, en la cuenta "Bonos subordinados computados como capital", de la partida 9700 "Valores complementarios para efectos de márgenes".
 
 El saldo de la cuenta "Bonos subordinados computados como capital" deberá reflejar, al término de cada mes, el 85% de aquella parte del capital, reajustes e intereses devengados a la fecha, para cuyo pago falten más de dos años, menos el saldo de la cuenta "Descuentos en emisión de bonos subordinados" a la misma fecha, o el 20% del capital pagado y reservas, si ese equivalente fuere menor, teniendo presente lo dispuesto en el N° 6 de este Capítulo.
 
-Asimismo, cuando corresponda, las instituciones deberán demostrar en la cuenta "Bonos subordinados computados como obligaciones", de la partida 9700 antes señalada, registrándolo también en la cuenta "Responsabilidad por control de límites legales", el monto equivalente al valor par de los bonos no vencidos (la suma de las partidas 4190 y 3819), menos el 23,529% del capital pagado y reservas, considerando para el efecto lo señalado en el N° 6 de este Capítulo, más el importe de los bonos o cupones vencidos no cobrados.
+Asimismo, cuando corresponda, las instituciones deberán demostrar en la cuenta de orden "Bonos subordinados computados como obligaciones", de la partida 9700, el monto equivalente al valor par de los bonos no vencidos (partida 4190), menos el 23,529% del capital pagado y reservas, considerando para el efecto lo señalado en el Ne 6 de este Capítulo, más el importe de los bonos o cupones vencidos y no cobrados.
 
 CAPITULO 10-1 (Bancos y Financieras)
 
@@ -16180,43 +15990,27 @@ Finalmente, una sociedad filial podrá tener participación en otra sociedad fil
 
 ### 3. Carácter de socio mayoritario
 
-La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en
+La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en la que ésta controla directamente o a través de otra persona natural o jurídica, más del 50 por ciento del capital con derecho a voto, o simplemente del capital si se tratare de una sociedad no constituida por acciones, o bien si puede elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores.
 
-la que ésta controla directamente o a través de otra persona natural o jurídica,
+Al tratarse de filiales de empresas bancarias conforme al número 11 bis del artículo 83 de la Ley General de Bancos, esta Superintendencia autorizará la participación de un banco siempre que controle directamente al menos el 95 por ciento del capital de dicha sociedad.
 
-más del 50 por ciento del capital con derecho a voto, o simplemente del capital
+No obstante lo anterior, en casos calificados esta Superintendencia podrá autorizar una participación inferior por parte del banco, la que no podrá ser menor de un 51 por ciento. Para estos efectos, el banco deberá proporcionar los antecedentes relativos al cumplimiento de las siguientes condiciones mínimas:
 
-si se tratare de una sociedad no constituida por acciones, o bien si puede
+i) que el o los socios sean personas independientes de la propiedad o gestión del banco y puedan acreditar una destacada permanencia previa en el mercado;
 
-elegir o designar o hacer elegir o designar a la mayoría de sus directores o
+ii) que exista un acuerdo entre el banco y el o los socios, en los estatutos de la sociedad o en un pacto de accionistas, según corresponda, en que se establezca la calificación previa por la Superintendencia de los antecedentes de los socios o accionistas que ingresan a la sociedad y la participación y atribuciones de los socios en la gestión; y,
 
-administradores.
+iii) que la asociación permita mejorar en forma importante la rentabilidad de la eventual filial, por aportes significativos de el o los socios en alguno de los siguientes aspectos, según el tipo de filial de que se trate:
 
-Al tratarse de filiales de empresas bancarias conforme al número 11 bis del
+a) acceso a nuevos o mayores negocios o mercados;
 
-#### Artículo 83
+b) traspaso de nuevas tecnologías orientadas a sistemas operativos, software o procedimientos;
 
-de la Ley General de Bancos, esta Superintendencia autorizará la
+c) traspaso de conocimientos especializados del producto o mercado;
 
-participación de un banco siempre que controle directamente al menos el 95 por
+d) obtención de condiciones ventajosas para el financiamiento de los negocios;
 
-ciento del capital de dicha sociedad.
-
-No obstante lo anterior, en casos calificados esta Superintendencia podrá
-
-autorizar una participación inferior por parte del banco, la que no podrá ser
-
-menor de un 51 por ciento. Para estos efectos, el banco deberá proporcionar
-
-antecedentes que demuestren que:
-
-i) el o los socios son personas independientes de la propiedad o gestión del
-
-banco; y,
-
-ii) el o los socios harán un aporte tecnológico o profesional significativo, con
-
-el cual se mejoraría en forma importante la rentabilidad de la eventual filial.
+e) efectiva disminución en los gastos.
 
 ### 4. Enajenación de la participación en una filial
 
@@ -16952,7 +16746,7 @@ Para dar cumplimiento a lo anterior, el monto a deducir del capital y reservas d
 
 Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión, que se mantenga registrado a la misma fecha en alguna de las cuentas de utilidad o pérdida que se mencionan en el numeral 13.2 del Capítulo 11-2 o en el numeral 12.1.2 del Capítulo 11-3 de esta Recopilación Actualizada de Normas, según corresponda.
 
-El monto que corresponde rebajar del capital pagado y reservas para establecer, al término de cada mes, aquel que debe considerarse para efectos del artículo 81 ó 115 de la Ley General de Bancos, según las instrucciones de este numeral, se registrará en la cuenta "Deducción del capital por participación en filiales", de la partida 9700, "Valores complementarios para efectos de márgenes", del MB1, con abono a la cuenta "Responsabilidad por control de límites legales", de la partida 9900.
+El monto que corresponde rebajar del capital pagado y reservas para establecer, al término de cada mes, aquel que debe considerarse para efectos del artículo 81 ó 115 de la Ley General de Bancos, según las instrucciones de este numeral, se registrará en la cuenta de orden "Deducción del capital por participación en filiales", de la partida 9700.
 
 ### 2. Reparto de dividendos o remesas de utilidades
 
@@ -18862,55 +18656,13 @@ N° 4 ya citado.
 
 ### 6. Normas contables
 
-### 4. Préstamos para la adquisición de vivienda
+Las entidades financieras deben registrar los créditos que otorguen a sus trabajadores en las cuentas que correspondan, según la naturaleza de los préstamos o créditos otorgados.
 
-4.1. Exención de los límites de crédito para trabajadores.
+Los anticipos que se otorguen a los trabajadores, deberán registrarse en la cuenta "Anticipos al personal" de la partida 2110.
 
-El inciso segundo del N° 4 del artículo 84 de la Ley General de Bancos, faculta
+Para el control de los créditos a trabajadores se abrirán las siguientes cuentas de orden que formarán parte de la partida 9170:
 
-a las empresas para otorgar a sus trabajadores, sin sujeción a los límites del
-
-inciso primero del mismo artículo, préstamos con garantía hipotecaria con el
-
-objeto de que adquieran una casa habitación para su uso personal.
-
-Respecto de una misma persona esta facultad podrá ejercitarse en una sola
-
-oportunidad mientras subsista la calidad de trabajador, a no ser que se trate de
-
-un nuevo crédito hipotecario destinado a pagar anticipadamente préstamos de
-
-similar naturaleza y propósito, adeudados ya sea a la misma institución
-
-financiera o a una distinta.
-
-Debe tenerse presente que los créditos que las instituciones financieras
-
-otorguen a sus trabajadores bajo la forma de saldos de precio, para financiar la
-
-adquisición de bienes de propiedad de la respectiva institución, están sujetos a
-
-los límites a que se refiere el primer inciso del N° 4 del artículo 84.
-
-Las entidades financieras deben registrar los créditos que otorguen a sus
-
-trabajadores en las cuentas que correspondan y demostrarlas en las partidas del
-
-formulario MB1 que procedan, según la naturaleza de los préstamos o créditos
-
-otorgados.
-
-Los anticipos que se otorguen a los trabajadores, deberán registrarse en la
-
-cuenta "Anticipos al personal" de la partida 2110 del formulario MB1.
-
-Para el control de los créditos a trabajadores se abrirán las siguientes cuentas
-
-de orden que formarán parte de la partida 9170 del formulario MB1:
-
-a) "Préstamos en letras de crédito a trabajadores exentos del margen art. 84 N°
-
-4";
+a) "Préstamos en letras de crédito a trabajadores exentos del margen art. 84 N° 4";
 
 b) "Otros préstamos a trabajadores exentos del margen art. 84 N° 4".
 
@@ -18918,21 +18670,9 @@ c) "Obligaciones directas de trabajadores afectas a margen art. 84 N° 4"; y,
 
 d) "Obligaciones indirectas de trabajadores afectas a margen art. 84 N° 4".
 
-Las cuentas indicadas anteriormente se cargarán con abono a la cuenta
+Las cuentas indicadas anteriormente deberán ajustarse mensualmente, para reflejar los saldos de las respectivas obligaciones de los deudores, de acuerdo con la reajustabilidad e intereses pactados y los pagos efectuados.
 
-"Responsabilidad por obligaciones de trabajadores", de la partida 9900 del
-
-formulario MB1 y deberán ajustarse mensualmente, para reflejar los saldos de las
-
-respectivas obligaciones de los deudores, de acuerdo con la reajustabilidad e
-
-intereses pactados y los pagos efectuados.
-
-En la cuenta señalada en la letra d) anterior, se registrarán las obligaciones
-
-indirectas de los trabajadores y, cuando corresponda, las obligaciones directas
-
-o indirectas de la cónyuge y los créditos complementarios imputados de acuerdo
+En la cuenta señalada en la letra d) anterior, se registrarán las obligaciones indirectas de los trabajadores y, cuando corresponda, las obligaciones directas o indirectas de la cónyuge y los créditos complementarios imputados de acuerdo
 
 con las disposiciones del artículo 85 de la Ley General de Bancos.
 
@@ -19340,7 +19080,7 @@ a) Operaciones reajustables por la variación del tipo de cambio.
 
 Las instituciones financieras que mantengan activos o pasivos reajustables por la variación del tipo de cambio, deberán registrar los saldos correspondientes a esas operaciones en las siguientes cuentas de orden, según corresponda: "Colocaciones reajustables según tipo de cambio", "Compras con pacto reajustables según tipo de cambio"; "Inversiones en depósitos a plazo reajustables según tipo de cambio", "Otras inversiones financieras reajustables según tipo de cambio"; "Otros activos reajustables según tipo de cambio"; "Depósitos y captaciones reajustables según tipo de cambio"; "Otras obligaciones reajustables según tipo de cambio" y, "Otros pasivos reajustables según tipo de cambio".
 
-Estas cuentas integrarán la partida 9705 y se cargarán con abono a la cuenta "Responsabilidad por control de operaciones activas y pasivas" de la partida 9900.
+"Estas cuentas forman parte de la partida 9705 "Control de operaciones activas y pasivas".
 
 En la cuenta "Otras inversiones financieras reajustables según tipo de cambio", se incluirán los saldos contabilizados de las inversiones financieras que deben registrarse en pesos y que se reajustan por la variación del tipo de cambio, incluidos los de aquellas inversiones en instrumentos expresados en moneda extranjera y pagaderos en pesos que reciben dicho tratamiento contable según lo dispuesto en el Capítulo 8-21 de esta Recopilación Actualizada de Normas.
 
@@ -19348,9 +19088,7 @@ b) Capital, ingresado y utilidades remesables por la ex Ley de Cambios Internaci
 
 Las instituciones financieras que mantengan capitales ingresados al país al amparo de los artículos 14, 15 ó 16 de la ex Ley de Cambios Internacionales o del DL 600 de 1974 y sus modificaciones, deberán registrar el correspondiente importe en moneda extranjera en la cuenta de orden "Capital ingresado por DL. 600 o ex Ley de Cambios Internacionales".
 
-Por otra parte, dichas instituciones deberán registrar en la cuenta de orden "Utilidades remesables DL 600 o ex Ley de Cambios Internacionales", el importe al cual asciende, en moneda extranjera, el total de las utilidades remesables, considerando para el efecto el equivalente en moneda extranjera de la reserva legal y otras reservas provenientes de utilidades, más su correspondiente corrección monetaria calculada al cierre de cada mes.
-
-Las cuentas de orden señaladas en este numeral formarán parte de la partida 9705 "Control de operaciones activas y pasivas", y se cargarán contra la cuenta "Responsabilidad por control de operaciones activas y pasivas" de la partida 9900.
+Por otra parte, dichas instituciones deberán registrar en la cuenta de orden "Utilidades remesables DL 600 o ex Ley de Cambios Internacionales", de la partida 9705 antes mencionada, el importe al cual asciende, en moneda extranjera, el total de las utilidades remesables, considerando para el efecto el equivalente en moneda extranjera de la reserva legal y otras reservas provenientes de utilidades, más su correspondiente corrección monetaria calculada al cierre de cada mes.
 
 2.- Sanciones.
 
@@ -19852,9 +19590,9 @@ El último día de cada mes, los bancos ajustaran el saldo de la cuenta "Cambio 
 
 Al mes siguiente, antes de efectuar el nuevo ajuste de la cuenta "Cambio futuro", se revertirá el importe correspondiente al ajuste del mes precedente.
 
-9.8.- Garantías
+9.8.- Garantías.
 
-Las garantías que los bancos reciban, correspondientes a estas operaciones, serán registradas por el valor que hayan sido aceptadas, con cargo a la cuenta "Garantías por compraventas y arbitrajes a futuro" de la partida 9210 ó 9220, según proceda, y con abono a la cuenta "Responsabilidad por garantías por compraventas y arbitrajes a futuro", de la partida 9900.
+Las garantías que los bancos reciban por las operaciones de que trata este título, se registrarán en la cuenta de orden "Garantías por compraventas y arbitrajes a futuro" de la partida 9210 ó 9220, según proceda.
 
 ### III. ARBITRAJES A FUTURO
 
@@ -20044,7 +19782,7 @@ Haber: - "Equivalente divisas arbitradas a futuro compras".
 
 8.4.- Garantías.
 
-Las garantías que los bancos reciban, correspondientes a estas operaciones, serán registradas por el valor que hayan sido aceptadas, con cargo a la cuenta "Garantías por compraventas y arbitrajes a futuro" y con abono a la cuenta "Responsabilidad por garantías por compraventas y arbitrajes a futuro".
+Las garantías que los bancos reciban por las operaciones de que trata este título, se registrarán en la cuenta de orden "Garantías por compraventas y arbitrajes a futuro" de la partida 9210 ó 9220, según proceda.
 
 8.5.- Ajuste de las cuentas "Equivalente divisas arbitradas a futuro compras" y "Equivalente divisas arbitradas a futuro ventas".
 
@@ -20078,7 +19816,7 @@ Por otra parte las obligaciones que un banco mantenga por compraventas de divisa
 
 2.- Cómputo para efectos de límites de obligaciones.
 
-Para el cómputo de las obligaciones de los bancos de que trata el segundo párrafo del N° 1 precedente, las diferencias de su cargo se mantendrán registradas en la cuenta "Endeudamiento por contratos de compraventa y arbitrajes a futuro" de la partida 9700 con abono a "Responsabilidad por contratos de compraventa y arbitrajes a futuro" de la partida 9900.
+Para el cómputo de las obligaciones de los bancos de que trata el segundo párrafo del N° 1 precedente, las diferencias de su cargo se mantendrán registradas en la cuenta "Endeudamiento por contratos de compraventa y arbitrajes a futuro" de la partida 9700.
 
 CAPITULO 13-3 (Bancos)
 
@@ -20146,51 +19884,25 @@ Simultáneamente se deberá revertir el asiento contable señalado en la letra a
 
 2.1. Generalidades.
 
-Algunas empresas bancarias reciben en consignación cheques viajeros (Travelers
+Algunas empresas bancarias reciben en consignación cheques viajeros (Travelers Checks) emitidos por empresas extranjeras, con el objeto de ponerlos en circulación mediante su venta o canje, debiendo remitir el importe correspondiente en moneda extranjera a la institución emisora de tales documentos.
 
-Checks) emitidos por empresas extranjeras, con el objeto de ponerlos en
-
-circulación mediante su venta o canje, debiendo remitir el importe
-
-correspondiente en moneda extranjera a la institución emisora de tales
-
-documentos.
-
-Al recibir estos documentos, las empresas bancarias contraen una responsabilidad
-
-con la empresa que se los ha confiado, a la cual deben informar las
-
-transacciones que realicen con ellos.
+Al recibir estos documentos, las empresas bancarias contraen una responsabilidad con la empresa que se los ha confiado, a la cual deben informar las transacciones que realicen con ellos.
 
 2.2. Instrucciones contables.
 
 a) Recepción de los cheques.
 
-Las instituciones bancarias deben registrar la recepción y existencia de estos
+Las instituciones bancarias deben registrar la recepción y existencia de estos cheques como sigue:
 
-cheques como sigue:
+Debe: "Cheques viajeros en consignación", de la partida 9260.
 
-Debe: "Cheques viajeros en consignación", de la partida 9260 del formulario MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
-Haber: "Responsabilidad del banco por cheques viajeros en consignación", de la
-
-partida 9900 del formulario MB1.
-
-Al efectuar la venta o canje de los referidos cheques, se deberá revertir el
-
-asiento contable antes indicado por el importe que corresponda.
+Al efectuar la venta o canje de los referidos cheques, se deberá revertir el asiento contable antes indicado por el importe que corresponda.
 
 b) Comisión.
 
-Las comisiones que cobren los bancos por ventas o canjes de cheques viajeros,
-
-las que deben ser informadas al público en la forma prevista en las normas de
-
-esta Superintendencia sobre compra y venta de divisas, serán acreditadas en la
-
-cuenta"Comisiones ganadas cheques viajeros", la que se demostrará en la partida
-
-7530 del formulario MR1.
+Las comisiones que cobren los bancos por ventas o canjes de cheques viajeros, las que deben ser informadas al público en la forma prevista en las normas de esta Superintendencia sobre compra y venta de divisas, serán acreditadas en la cuenta"Comisiones ganadas cheques viajeros", de la partida 7530.
 
 CAPITULO 13-4 (Bancos)
 
@@ -21010,7 +20722,7 @@ La referida clasificación comprende las divisas correspondientes a las obligaci
 
 Haber: - "Conversión Créditos Externos-Acuerdo 1196".
 
-- "Recompra de divisas de créditos externos - Acuerdo 1196" de la partida 9900 del MB1.
+- "La cuenta de orden de la partida 9900.
 
 b) Moneda chilena.
 
@@ -21024,7 +20736,7 @@ a) Moneda extranjera.
 
 Debe: - "Conversión Créditos Externos-Acuerdo 1196".
 
-- "Recompra de divisas de Créditos Externos-Acuerdo 1196".
+- "La cuenta de orden de la partida 9900.
 
 Haber: - "Conversión Mercado Bancario". Las financieras acreditarán la cuenta del banco o del corresponsal donde mantenían disponible la moneda extranjera.
 
@@ -21144,7 +20856,7 @@ Mensualmente deberán efectuar el cálculo de los reajustes por cobrar y por pag
 
 4.11. Custodia de los Certificados de Aportes de Capital.
 
-Los Certificados de Aportes de Capital mantenidos en custodia se registran en las cuentas "Valores en Custodia-Certificados de Aportes de Capital-Acuerdo 1196" y "Depositantes de Valores en Custodia-Certificados de Aportes de Capital-Acuerdo 1196", de las partidas 9260 y 9900 del MB1, respectivamente, por el importe en moneda extranjera del respectivo documento.
+Los Certificados de Aportes de Capital mantenidos en custodia se registrarán en la cuenta de orden "Valores en Custodia-Certificados de Aportes de Capital-Acuerdo 1196" de la partida 9260, por el importe en moneda extranjera del respectivo documento.
 
 4.12. Intereses en moneda extranjera de inversiones con cargo a divisas recompradas de las sociedades financieras.
 
@@ -21262,7 +20974,7 @@ Debe: - "Préstamos en moneda chilena documentados en moneda extranjera-Acuerdo 
 
 Haber: - "Conversión Mercado Bancario" de la partida 2505 ó 4505.
 
-- "Responsabilidad por divisas liquidadas-Acuerdo 1418", de la partida 9900.
+- "La cuenta de orden de la partida 9900.
 
 b) Moneda chilena:
 
@@ -21282,7 +20994,7 @@ Debe: -"Conversión recursos propios-Acuerdo 1418", de la partida 2510
 
 Haber: - "Conversión Mercado Bancario", por el importe liquidado.
 
-- "Responsabilidad por divisas liquidadas-Acuerdo 1418".
+- "La cuenta de orden de la partida 9900".
 
 b) Moneda chilena.
 
@@ -21298,11 +21010,13 @@ Haber: "Caja" o la cuenta que corresponda por la entrega de la moneda chilena al
 
 6.2.- Recuperación de la moneda extranjera.
 
+6.2.1.- Préstamos documentados en moneda extranjera.
+
 a) Moneda extranjera.
 
 Debe: - "Conversión Mercado Bancario".
 
-- "Responsabilidad por divisas liquidadas- Acuerdo 1418".
+- "La cuenta de orden de la partida 9900".
 
 Haber: - "Préstamos en moneda chilena documentados en moneda extranjera-Acuerdo 1418" o la cuenta que corresponda.
 
@@ -21328,7 +21042,7 @@ a) Moneda extranjera.
 
 Debe: - "Conversión Mercado Bancario".
 
-- "Responsabilidad por divisas liquidadas-Acuerdo 1418".
+- "La cuenta de orden de la partida 9900".
 
 Haber:- "Conversión recursos propios-Acuerdo 1418"
 
@@ -21342,7 +21056,7 @@ Haber: "Cambio Mercado Bancario".
 
 6.3.- Márgenes cedidos y recibidos.
 
-El importe de los márgenes de que trata el numeral 3.1 de este Capítulo, que los bancos cedan a otros, será registrado en las cuentas "Cesión de márgenes-Acuerdo 1418" de la partida 9576 y "Responsabilidad por cesión de márgenes-Acuerdo 1418" de la partida 9900.
+El importe de los márgenes de que trata el numeral 3.1 de este Capítulo, que los bancos cedan a otros, será registrado en las cuentas "Cesión de márgenes-Acuerdo 1418" de la partida 9576.
 
 El monto de los márgenes recibidos de otros bancos, será registrado en las cuentas "Márgenes recibidos-Acuerdo 1418" de la partida 9575 y "Responsabilidad por márgenes recibidos-Acuerdo 1418" de la partida 9900.
 
@@ -21468,11 +21182,7 @@ La contabilización de las operaciones de que se trata, se realizará de la sigu
 
 10.1. Obtención de las lineas de crédito del exterior.
 
-Por el monto de la línea de crédito obtenida:
-
-Debe: "Líneas de crédito del exterior", de la partida 9380.
-
-Haber: "Responsabilidad por líneas de crédito del exterior" de la partida 9900.
+El monto de la línea de crédito obtenida se registrará en la cuenta de orden "Líneas de crédito del exterior", de la partida 9380.
 
 10.2. Utilización de lineas de crédito.
 
@@ -22122,15 +21832,11 @@ Simultáneamente se deberá revertir el asiento contable señalado en el numeral
 
 15.1.3. Canje o sustitución del título por el deudor.
 
-En estos casos, el banco mandatario, junto con revertir el asiento contable señalado en el numeral 15.1.1 precedente, registrará estos documentos con cargo a la cuenta "Documentos canjeados por títulos de deuda externa" y con abono a "Responsabilidad por documentos canjeados por títulos de deuda externa", de la partida 9260 y 9900 del formulario MB1, respectivamente.
+En estos casos, el banco mandatario, junto con revertir el asiento contable señalado en el numeral 15.1.1 precedente, registrará estos documentos en la cuenta de orden "Documentos canjeados por títulos de deuda externa" de la partida 9260, debiendo descargar de esa cuenta los respectivos importes cuando los documentos sean aportados a la entidad que corresponda, en cumplimiento del mandato, o bien cuando sean cedidos a terceros, recibidos en pago o adquiridos por el banco mandatario.
 
-El asiento contable señalado en el párrafo precedente, será revertido cuando los respectivos documentos sean aportados a la entidad que corresponda, en cumplimiento del mandato o bien cedidos a terceros, recibidos en pago o adquiridas por el banco mandatario.
+15.1.4. Documentos mantenidos por cuenta del inversionista.
 
-15.1.4. Depósitos a la vista o a plazo por cuenta del inversionista.
-
-Los documentos en que consten los depósitos a la vista o a plazo constituidos por el Banco mandatario por cuenta del inversionista, mientras se formaliza la inversión, serán registrados en las cuentas de orden "Documentos por depósitos de inversionistas títulos deuda externa" y "Responsabilidad por documentos por depósitos de inversionistas títulos deuda externa", cuyos saldos se demostrarán en las partidas 9260 y 9900 del formulario MB1, respectivamente.
-
-Este asiento contable será revertido cuando se rescaten los depósitos.
+Los documentos en que consten los depósitos a la vista o a plazo constituidos por el banco mandatario por cuenta del inversionista mientras se formaliza la inversión, como asimismo los instrumentos emitidos por el Banco Central de Chile que se hayan adquirido por cuenta del mandante, serán registrados en la cuenta de orden "Documentos de inversionistas títulos deuda externa" de la partida 9260, debiendo descargar de esa cuenta los respectivos importes cuando se rescaten los depósitos.
 
 15.2. Operaciones por cuenta de la entidad receptora de la inversión.
 
@@ -22146,15 +21852,11 @@ Este asiento será revertido cuando se utilice el dinero en realizar la inversi�
 
 15.2.2. Recepción de documentos emitidos por canje o sustitución de títulos de deuda externa.
 
-Estos documentos serán registrados en la cuenta "Documentos por cuenta inversionistas de títulos deuda externa" con abono a "Responsabilidad por documentos por cuenta inversionistas títulos deuda externa", de las partidas 9260 y 9900 del formulario MB1, respectivamente.
-
-Este asiento contable será revertido cuando los documentos respectivos, sean cobrados, cedidos a terceros o bien, recibidos en pago o adquiridos por el banco mandatario.
+Estos documentos serán registrados en la cuenta de orden "Documentos por cuenta inversionistas títulos deuda externa" de la partida 9260, debiendo descargarse los respectivos importes de esa cuenta cuando los documentos sean cobrados, cedidos a terceros o bien, recibidos en pago o adquiridos por el banco mandatario.
 
 15.2.3. Depósitos a la vista o a plazo.
 
-Los documentos relativos a los depósitos a la vista o a plazo que constituya el banco mandatario por cuenta de la entidad receptora de la inversión, deberán registrarse en la cuenta "Documentos por depósitos de receptores de inversiones títulos deuda externa" con abono a "Responsabilidad por documentos por depósitos de receptores inversiones títulos deuda externa", de las partidas 9260 y 9900 del formulario MB1, respectivamente.
-
-El asiento contable a que se refiere el párrafo anterior, deberá revertirse cuando los referidos depósitos sean cobrados.
+Los documentos relativos a los depósitos a la vista o a plazo que constituya el banco mandatario por cuenta de la entidad receptora de la inversión, deberán registrarse en la cuenta de orden "Documentos por depósitos de receptores de títulos deuda externa" de la partida 9260, debiendo descargarse los respectivos importes de esa cuenta cuando los depósitos sean cobrados.
 
 15.3. Pago, canje o sustitución de títulos de deuda externa por parte de la institución deudora.
 
@@ -22528,7 +22230,7 @@ Simultáneamente con las contabilizaciones antes indicadas, deberá registrarse,
 
 Debe: - "Margen disponible Capítulo XVIII" de la partida 9375 en el formulario MB1.
 
-Haber: - "Responsabilidad sobre margen disponible Capítulo XVIII", de la partida 9900 del formulario MB1.
+Haber: - "La cuenta de orden de la partida 9900.
 
 15.1.2 Rescate o cesión de pagarés.
 
@@ -22554,7 +22256,7 @@ Dicho traspaso a resultados se efectuará con cargo a la cuenta "Gastos operacio
 
 15.2.1. Recepción en cobro.
 
-Estos títulos serán registrados en la moneda en que estén expresados, en la cuenta "Títulos deuda externa recibidos en cobranza", con abono a "Depositante de títulos deuda externa en cobranza", las que se demuestran en las partidas 9280 y 9900 del formulario MB1, respectivamente.
+Estos títulos serán registrados en la moneda en que estén expresados, en la cuenta de orden "Títulos deuda externa recibidos en cobranza" de la partida 9280.
 
 15.2.2. Cobro del título al respectivo deudor.
 
@@ -22568,9 +22270,7 @@ Simultáneamente se deberá revertir el asiento contable señalado en el numeral
 
 15.2.3. Recepción del nuevo documento emitido por el deudor en canje o sustitución del título de deuda externa.
 
-En estos casos, la institución financiera mandataria, junto con revertir el asiento contable señalado en el numeral 15.2.1 precedente, registrará estos documentos recibidos del deudor con cargo a la cuenta "Documentos canjeados por títulos de deuda externa" y con abono a "Responsabilidad por documentos canjeados por títulos de deuda externa", en la moneda en que estén expresados los nuevos documentos. El saldo de estas cuentas se demuestra en las partidas 9260 y 9900 del formulario MB1, respectivamente.
-
-El asiento señalado en el párrafo precedente, será revertido cuando los respectivos documentos sean entregados al mandante o, en cumplimiento del mandato, cedidos a terceros o recibidos en pago de deuda o adquiridos por la institución mandataria.
+En estos casos, el banco mandatario, junto con revertir el asiento contable señalado en el numeral 15.2.1 precedente, registrará estos documentos, en la moneda en que estén expresados, en la cuenta de orden "Documentos canjeados por títulos de deuda externa" de la partida 9260, debiendo descargar de esa cuenta los respectivos importes cuando los documentos sean entregados al mandante, o bien, cuando en cumplimiento del mandato sean cedidos a terceros, recibidos en pago de deudas o adquiridos por la institución mandataria.
 
 15.3. Pago, canje o sustitución de títulos de deuda externa por parte de la institución deudora.
 
@@ -22914,17 +22614,17 @@ Haber: La cuenta que corresponda por el giro de la moneda extranjera para entreg
 
 b) Carta de crédito stand by.
 
-Debe: "Cauciones otorgadas por contratos a futuro de tasas de interés", cuenta que se crea con ese objeto, cuyo saldo será demostrado en la partida 9290 del formulario MB1.
+Debe: "Cauciones otorgadas por contratos a futuro de tasas de interés", cuenta que se crea con ese objeto, cuyo saldo será demostrado en la partida 9290.
 
-Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro de tasas de interés". Esta cuenta se demostrará en la partida 9900 del formulario MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 Los bancos registrarán en estas cuentas el importe en moneda extranjera de las cartas de crédito u otros documentos emitidos por cuenta propia, a favor del respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de garantía de los contratos vigentes.
 
 9.2. Venta de contratos a futuro.
 
-Debe: "Contratas a futuro de cobertura de tasas de interés vendidos", cuenta que habilitarán para tal efecto, y que será demostrada en la partida 9550 del formulario MB1.
+Debe: "Contratas a futuro de cobertura de tasas de interés vendidos", cuenta que habilitarán para tal efecto, y que será demostrada en la partida 9550.
 
-Haber: "Responsabilidad por contratos a futuro de cobertura de tasas de interés vendidos". El saldo de esta cuenta, que se crea con ese objeto, será demostrado en la partida 9900 del formulario MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 Al efectuar la liquidación de los referidos contratos, mediante la respectiva compra de contratos, las instituciones financieras revertirán los asientos contables señalados en este numeral. Asimismo, procederán a revertir, cuando corresponda, los asientos contables relativos a las garantías que se mantuvieren por los contratos que se liquiden.
 
@@ -22994,7 +22694,7 @@ Haber: "Cambio mercado bancario". Las sociedades financieras acreditarán la cue
 
 Debe: "Opciones put compradas sobre contratos de cobertura de tasas de interés", de la partida 9550 del formulario MB1.
 
-Haber: "Responsabilidad por opciones put compradas sobre contratos de cobertura de tasas de interés", de la partida 9900 del formulario MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
 
@@ -23002,7 +22702,7 @@ Los importes registrados en estas cuentas se revertirán al extinguirse o liquid
 
 Debe: "Opciones cali compradas sobre contratos de cobertura de tasas de interés", de la partida 9550 del formulario MB1.
 
-Haber: "Responsabilidad por opciones cali compradas sobre contratos de cobertura de tasas de interés", de la partida 9900 del MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
 
@@ -23156,15 +22856,15 @@ Corresponde contabilizar en estas cuentas el equivalente en pesos moneda chilena
 
 a) En efectivo:
 
-Debe: "Garantías en efectivo por contratos a futuro de monedas extranjeras", de la partida 1775 del MB1.
+Debe: "Garantías en efectivo por contratos a futuro de monedas extranjeras", de la partida 1775.
 
 Haber: La cuenta que corresponda por el giro de la moneda extranjera para entregar el importe que se constituirá para cumplir con el margen de garantía de los contratos a futuro vigentes.
 
 b) Carta de Crédito Stand By:
 
-Debe: "Cauciones otorgadas por contratos a futuro moneda extranjera", de la partida 9290 del MB1.
+Debe: "Cauciones otorgadas por contratos a futuro moneda extranjera", de la partida 9290.
 
-Haber: "Responsabilidad por cauciones otorgadas por contratos a futuro moneda extranjera", de la partida 9900 del MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 Quedará registrado en estas cuentas el importe en moneda extranjera de las cartas de crédito u otros documentos emitidos por el banco a favor del respectivo corredor de Bolsa Oficial Extranjera, para cumplir el margen de garantía de los contratos vigentes de compra o venta a futuro de moneda extranjera.
 
@@ -23176,25 +22876,27 @@ Los contratos de compra o venta a futuro de moneda extranjera comprenden además
 
 a) por los contratos de compra en la moneda adquirida. Debe: "Contratos a futuro moneda extranjera adquiridos" de la partida 9540.
 
-Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes" de la partida 9900 del MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 b) por el contravalor del contrato en la moneda del precio pactado.
 
-Debe: "Contravalor de contratos a futuro moneda extranjera comprados" de la partida 9545 "Contravalor de contratos a futuro moneda extranjera vigentes", del MB1.
+Debe: "Contravalor de contratos a futuro moneda extranjera comprados" de la partida 9545 "Contravalor de contratos a futuro moneda extranjera vigentes".
 
-Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900, del MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 5.2.2. Venta de contratas a futuro.
 
-a) por los contratos de venta, en la moneda vendida. Debe: "Contratos a futuro moneda extranjera vendidos", de la partida 9550 del MB1.
+a) por los contratos de venta, en la moneda vendida.
 
-Haber: "Responsabilidad por contratos a futuro moneda extranjera vigentes", de la partida 9900 del MB1.
+Debe: "Contratos a futuro moneda extranjera vendidos", de la partida 9550.
+
+Haber: "La cuenta de orden de la partida 9900.
 
 b) Por el contravalor del contrato en la moneda del precio pactado.
 
-Debe: "Contravalor contratos a futuro moneda extranjera vendidos", de la partida 9545 del MB1.
+Debe: "Contravalor contratos a futuro moneda extranjera vendidos", de la partida 9545.
 
-Haber: "Responsabilidad por contravalor contratos a futuro moneda extranjera vigentes", de la partida 9900 del MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 5.3. Remesas durante la vigencia de los contratos.
 
@@ -23308,7 +23010,7 @@ Haber: "Cambio mercado bancario".
 
 Debe: "Opciones call adquiridas sobre contratos a futuro de divisas", de la partida 9550.
 
-Haber: "Responsabilidad por opciones call adquiridas sobre contratos a futuro de divisas", de la partida 9900.
+Haber: "La cuenta de orden de la partida 9900.
 
 Los importes registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
 
@@ -23316,7 +23018,7 @@ Los importes registrados en estas cuentas se revertirán al extinguirse o liquid
 
 Debe: "Opciones put vendidas sobre contratos a futuro de divisas", de la partida 9550
 
-Haber: "Responsabilidad por opciones put vendidas sobre contratos a futuro de divisas", de la partida 9900.
+Haber: "La cuenta de orden de la partida 9900.
 
 Los montos registrados en estas cuentas se revertirán al extinguirse o liquidarse la opción.
 
@@ -23542,51 +23244,31 @@ Estado de Chile.
 
 ### 12. Instrucciones contables
 
-Las operaciones de que trata este capítulo, serán registradas de la siguiente
-
-forma:
+Las operaciones de que trata este capítulo, serán registradas de la siguiente forma:
 
 12.1. Contratos celebrados por los bancos por cuenta propia.
 
 12.1.1. Celebración del contrato.
 
-Debe: "Contratos de protección de tasas de interés por cuenta propia", por el
+Debe: "Contratos de protección de tasas de interés por cuenta propia", por el monto del capital sobre el cual se hubiere acordado la protección de la tasa de interés. Esta cuenta se incluye en la partida 9551.
 
-monto del capital sobre el cual se hubiere acordado la protección de la tasa de
+Haber: "La cuenta de orden de la partida 9900.
 
-interés. Esta cuenta será demostrada en la partida que con el nombre de
-
-"Contratos de protección de tasa de interés flotante" se abrirá bajo el N° 9551
-
-en el formulario MB1.
-
-Haber: "Responsabilidad por contratos de protección de tasas de interés por
-
-cuenta propia", de la partida 9900 del referido formulario.
-
-Esta contabilización debe hacerse una vez aprobado el contrato por el Banco
-
-Central de Chile.
+Esta contabilización debe hacerse una vez aprobado el contrato por el Banco Central de Chile.
 
 12.1.2. Pago de primas, honorarios o comisiones.
 
 a) Moneda extranjera.
 
-Debe: "Conversión mercado bancario", por el importe de la prima, honorario o
-
-comisión, de la partida 2505 ó 4505 del formulario MB1.
+Debe: "Conversión mercado bancario", por el importe de la prima, honorario o comisión, de la partida 2505 ó 4505.
 
 Haber: La cuenta que corresponda por el desembolso de la moneda extranjera.
 
 b) Moneda chilena.
 
-Debe: "Comisiones pagadas por contratos protección tasas de interés", por el
+Debe: "Comisiones pagadas por contratos protección tasas de interés", por el equivalente en moneda chilena del respectivo importe en moneda extranjera. Esta cuenta será demostrada en la partida 5530.
 
-equivalente en moneda chilena del respectivo importe en moneda extranjera. Esta
-
-cuenta será demostrada en la partida 5530 del formulario MR1.
-
-Haber: "Cambio mercado bancario", de la partida 2505 ó 4505 del formulario MB1.
+Haber: "Cambio mercado bancario", de la partida 2505 ó 4505.
 
 12.1.3. Pago de diferencias de cargo del banco.
 
@@ -23598,11 +23280,7 @@ Haber: La cuenta que corresponda por el giro para efectuar el pago.
 
 b) Moneda chilena.
 
-Debe: "Pérdidas por contratos protección tasas de interés", por el equivalente
-
-en moneda chilena del importe pagado al exterior. Esta cuenta será demostrada en
-
-la partida 5710 del formulario MR1.
+Debe: "Pérdidas por contratos protección tasas de interés", por el equivalente en moneda chilena del importe pagado al exterior. Esta cuenta será demostrada en la partida 5710.
 
 Haber: "Cambio mercado bancario".
 
@@ -23610,9 +23288,7 @@ Haber: "Cambio mercado bancario".
 
 a) Moneda extranjera.
 
-Debe: La cuenta que corresponda por la recepción del importe en moneda
-
-extranjera.
+Debe: La cuenta que corresponda por la recepción del importe en moneda extranjera.
 
 Haber: "Conversión mercado bancario".
 
@@ -23620,95 +23296,37 @@ b) Moneda chilena.
 
 Debe: "Cambio mercado bancario".
 
-Haber: "Utilidades por contratos protección tasas de interés", por el
-
-equivalente en moneda chilena del importe recibido. Esta cuenta será demostrada
-
-en la partida 7710 del formulario MR1.
+Haber: "Utilidades por contratos protección tasas de interés", por el equivalente en moneda chilena del importe recibido. Esta cuenta será demostrada en la partida 7710.
 
 12.1.5. Ajustes mensuales.
 
-El último día de cada mes, las instituciones bancarias procederán a calcular las
+El último día de cada mes, las instituciones bancarias procederán a calcular las variaciones de las tasas de interés pactadas en cada uno de los respectivos contratos y, en caso de determinar una diferencia a su favor o de cargo suyo, contabilizarán provisionalmente dicho importe, en la forma que se instruye en los párrafos siguientes de este numeral.
 
-variaciones de las tasas de interés pactadas en cada uno de los respectivos
+Al mes siguiente, antes de registrar el nuevo ajuste, o al efectuar la liquidación de las diferencias en caso que corresponda, procederán a revertir el que hubieren contabilizado en el mes precedente.
 
-contratos y, en caso de determinar una diferencia a su favor o de cargo suyo,
-
-contabilizarán provisionalmente dicho importe, en la forma que se instruye en
-
-los párrafos siguientes de este numeral.
-
-Al mes siguiente, antes de registrar el nuevo ajuste, o al efectuar la
-
-liquidación de las diferencias en caso que corresponda, procederán a revertir el
-
-que hubieren contabilizado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente en pesos moneda chilena de la
-
-respectiva moneda extranjera, con cargo o abono, según proceda, a la cuenta
-
-"Variación provisional por contratos protección tasas de interés", cuyo saldo se
-
-demostrará en la partida 2120 ó 4120 del formulario MB1 y con abono a la cuenta
-
-"Utilidades por contratos protección tasas de interés" o con cargo a "Pérdidas
+Dichos ajustes se registrarán por el equivalente en pesos moneda chilena de la respectiva moneda extranjera, con cargo o abono, según proceda, a la cuenta "Variación provisional por contratos protección tasas de interés", cuyo saldo se demostrará en la partida 2120 ó 4120 y con abono a la cuenta "Utilidades por contratos protección tasas de interés" o con cargo a "Pérdidas
 
 por contratos protección tasas de interés", según corresponda.
 
-Para determinar el equivalente en pesos de las mencionadas diferencias en moneda
-
-extranjera, se utilizará el tipo de cambio dado a conocer por esta
-
-Superintendencia para fines de representación contable vigente en la fecha del
-
-ajuste.
+Para determinar el equivalente en pesos de las mencionadas diferencias en moneda extranjera, se utilizará el tipo de cambio dado a conocer por esta Superintendencia para fines de representación contable vigente en la fecha del ajuste.
 
 12.2. Contratos celebrados por los bancos por cuenta de terceros.
 
 La celebración de estos contratos será registrada en las siguientes cuentas:
 
-Debe: "Contratos de protección de tasas de interés por cuenta de terceros", por
+Debe: "Contratos de protección de tasas de interés por cuenta de terceros", por el monto del capital sobre el cual se hubiere acordado la protección de la tasa de interés. El saldo de esta cuenta se demostrará en la partida 9551.
 
-el monto del capital sobre el cual se hubiere acordado la protección de la tasa
-
-de interés. El saldo de esta cuenta se demostrará en la partida 9551 del
-
-formulario MB1.
-
-Haber: "Responsabilidad por contratos de protección de tasas de interés por
-
-cuenta de terceros", de la partida 9900 del formulario MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 Una vez que se extinga el contrato, se revertirá el importe respectivo.
 
 12.3. Sociedades financieras.
 
-Atendido que las sociedades financieras que deseen celebrar contratos de
+Atendido que las sociedades financieras que deseen celebrar contratos de protección de tasa de interés flotante deberán hacerlo por intermedio de un banco, cuando realicen estas operaciones se limitarán a efectuar los asientos contables señalados en los numerales 12.1.1 y 12.1.5 precedentes.
 
-protección de tasa de interés flotante deberán hacerlo por intermedio de un
+Los importes que paguen en moneda extranjera por concepto de primas, honorarios o comisiones por estas operaciones, serán registrados por su correspondiente valor en moneda chilena en la cuenta "Comisiones pagadas por contratos protección tasas de interés".
 
-banco, cuando realicen estas operaciones se limitarán a efectuar los asientos
-
-contables señalados en los numerales 12.1.1 y 12.1.5 precedentes.
-
-Los importes que paguen en moneda extranjera por concepto de primas, honorarios
-
-o comisiones por estas operaciones, serán registrados por su correspondiente
-
-valor en moneda chilena en la cuenta "Comisiones pagadas por contratos
-
-protección tasas de interés".
-
-Asimismo, los importes en moneda extranjera que reciban o paguen por concepto de
-
-diferencias de cargo suyo o de beneficios a su favor, serán registrados por su
-
-equivalente pagado o recibido en moneda chilena en las cuentas "Pérdidas por
-
-contratos protección tasas de interés" y "Utilidades por contratos protección
-
-tasas de interés", respectivamente.
+Asimismo, los importes en moneda extranjera que reciban o paguen por concepto de diferencias de cargo suyo o de beneficios a su favor, serán registrados por su equivalente pagado o recibido en moneda chilena en las cuentas "Pérdidas por contratos protección tasas de interés" y "Utilidades por contratos protección tasas de interés", respectivamente.
 
 ### 13. Márgenes legales
 
@@ -24008,7 +23626,7 @@ Una vez solucionado el reparo, se enviará nuevamente la operación al Banco Cen
 
 Al recibir los correspondientes importes a favor de terceros, las instituciones financieras debitarán "Acreedores por diferencias de cambio a pagar por el Banco Central de Chile-Acuerdo 1657" con abono a "Diferencias de cambio-Acuerdo 1657 en trámite de cobro" por el monto que se reciba. Así, el saldo de esta cuenta reflejará el importe de las operaciones presentadas a cobro al Banco Central de Chile y que aún no han sido pagadas o rechazadas por el Instituto Emisor.
 
-Simultáneamente deberán registrar el importe de los documentos que reciban, en las cuentas "Documentos recibidos del Banco Central por diferencias de cambio-Acuerdo 1657" y "Documentos emitidos por el Banco Central por diferencias de cambio-Acuerdo 1657 por entregar a clientes", que se demuestran en las partidas 9260 "Valores en custodia" y 9900 "Depositantes de valores en custodia" del formulario MB1, respectivamente.
+Simultáneamente deberán registrar el importe de los documentos que reciban, en la cuenta "Documentos recibidos del Banco Central por diferencias de cambio Acuerdo 1657", de la partida 9260.
 
 8.8.2. Diferencias a favor de las instituciones financieras.
 
@@ -25318,9 +24936,9 @@ Las instituciones bancarias procederán a registrar las operaciones de que se tr
 
 3.1.1. Recepción de cartas de crédito sin agregar confirmación.
 
-Debe: "Deudores por créditos del exterior", de la partida 9360 del formulario MB1, por el importe en moneda extranjera de la respectiva carta de crédito.
+Debe: "Deudores por créditos del exterior", de la partida 9360, por el importe en moneda extranjera de la respectiva carta de crédito.
 
-Haber: "Beneficiarios de créditos del exterior", de la partida 9900 del formulario MB1
+Haber: "La cuenta de orden de la partida 9900.
 
 3.1.2. Recepción de cartas de crédito a las que se les agregue confirmación.
 
@@ -25360,13 +24978,13 @@ a) Cartas de crédito no confirmadas.
 
 Debe: - La cuenta que corresponda por el rembolso del importe negociado, cuando el banco negociador lo recibe de inmediato en virtud de contar con la autorización del banco emisor para ello o bien, si éste debe ser requerido, al momento del rembolso.
 
-- "Deudores por créditos del exterior negociados a la vista en espera de rembolso", la que se demostrará en la partida 9360 del formulario MB1, por el importe negociado de la respectiva carta de crédito.
+- "Deudores por créditos del exterior negociados a la vista en espera de rembolso", la que se demostrará en la partida 9360, por el importe negociado de la respectiva carta de crédito.
 
 Haber: - La cuenta que corresponda según el destino que se le dé al importe retornado, de conformidad con las instrucciones del exportador,
 
-- "Retornos de exportación por liquidar", de la partida 3010 del formulario MB1, en los casos en que el importe respectivo se mantenga a disposición del exportador en espera de sus instrucciones respecto al destino que se le dará, o bien,
+- "Retornos de exportación por liquidar", de la partida 3010, en los casos en que el importe respectivo se mantenga a disposición del exportador en espera de sus instrucciones respecto al destino que se le dará, o bien,
 
-- "Beneficiarios de créditos del exterior negociados a la vista en espera de rembolso", de la partida 9900 del formulario MB1, según corresponda.
+- "La cuenta de orden de la partida 9900.
 
 Simultáneamente se deberá revertir el asiento contable de que trata el numeral 3.1.1 precedente por el importe que corresponda.
 
@@ -25392,9 +25010,9 @@ Haber: - La cuenta que corresponda según el destino que se de al retomo, de con
 
 a) Cartas de créditos no confirmadas.
 
-Debe: - "Deudores por cartas de crédito negociadas a plazo", de la partida 9360 del formulario MB1, por el importe negociado de la carta de crédito.
+Debe: - "Deudores por cartas de crédito negociadas a plazo", de la partida 9360, por el importe negociado de la carta de crédito.
 
-Haber: - "Beneficiarios de cartas de crédito negociadas a plazo", de la partida 9900 del formulario MB1.
+Haber: - "La cuenta de orden de la partida 9900.
 
 Simultáneamente deberán revertir el asiento contable a que se refiere el numeral 3.1.1 por el importe que corresponda.
 
@@ -25408,13 +25026,13 @@ Debe: - "Deudores por créditos del exterior negociados a plazo ALADI", por el i
 
 - "Deudores por créditos del exterior negociados contra aceptación- Otros países", según corresponda.
 
-Estas cuentas serán demostradas en la partida 1130 ó 1225 del formulario MB1, según sea el plazo que medie entre la fecha de negociación y la fecha fijada para el rembolso de la carta de crédito.
+Estas cuentas serán demostradas en la partida 1130 ó 1225, según sea el plazo que medie entre la fecha de negociación y la fecha fijada para el rembolso de la carta de crédito.
 
 Haber: - "Obligaciones por créditos de exportación negociados-ALADI",o bien,
 
 - "Obligaciones por créditos de exportación negociados-Otros países", según corresponda.
 
-Estas cuentas serán demostradas en la partida 3425 ó 3480 del formulario MB1, según sea el plazo en el que deba efectuarse el pago al exportador, contado desde la fecha de la negociación.
+Estas cuentas serán demostradas en la partida 3425 ó 3480, según sea el plazo en el que deba efectuarse el pago al exportador, contado desde la fecha de la negociación.
 
 En caso que la carta de crédito haya sido negociada bajo reserva y aún no se hubiere recibido la conformidad del Banco emisor, ésta será registrada en las cuentas que para tales casos se indican en el numeral 3.1.3 precedente.
 
@@ -25464,9 +25082,9 @@ Haber: La cuenta que corresponda según el destino que se le dé a la moneda ext
 
 3.2.1.- Recepción de la cobranza.
 
-Debe: - "Cobranzas, documentarias sobre el exterior", de la partida 9280 del formulario MB1, por el importe de los documentos recibidos del exportador y que se envien en cobranza a un corresponsal extranjero.
+Debe: - "Cobranzas, documentarias sobre el exterior", de la partida 9280, por el importe de los documentos recibidos del exportador y que se envien en cobranza a un corresponsal extranjero.
 
-Haber: - "Depositantes de cobranzas documentarias sobre el exterior", de la partida 9900 del formulario MB1.
+Haber: - "La cuenta de orden de la partida 9900.
 
 3.2.2.- Recepción del pago de la cobranza.
 
@@ -26058,129 +25676,41 @@ disposiciones que regulan este Fondo.
 
 14.1. Monto de las garantías adjudicadas.
 
-La institución financiera que se adjudique una garantía del Fondo, registrará el
-
-importe total adjudicado en cuentas de orden que se denominarán "Garantías
-
-adjudicadas por cursar del Fondo para Exportadores no Tradicionales", la que se
-
-demostrará en la partida 9235 que, con el nombre de "Garantías adjudicadas del
-
-Fondo para Exportadores no Tradicionales", se crea en el formulario MB1, con
-
-abono a la cuenta "Responsabilidad por garantías adjudicadas por cursar del
-
-Fondo para Exportadores no Tradicionales", la que será demostrada en la partida
-
-9900 del formulario MB1.
+La institución financiera que se adjudique una garantía del Fondo, registrará el importe total adjudicado en la cuenta de orden "Garantías adjudicadas por cursar del Fondo para Exportadores no Tradicionales" de la partida 9235.
 
 14.2. Utilización de la garantía.
 
-Cada vez que la institución financiera curse un crédito amparado por la garantía
-
-de que se trata, efectuará el siguiente asiento contable en las cuentas de
-
-orden, por el monto comprometido de ésta:
-
-Debe: - "Garantías cursadas con cargo al Fondo para Exportadores no
-
-Tradicionales", la que será demostrada en la partida 9235 del formulario MB1.
-
-- "Responsabilidad por garantías adjudicadas por cursar del Fondo para
-
-Exportadores no Tradicionales"
-
-Haber: - "Responsabilidad por garantías cursadas con cargo al Fondo para
-
-Exportadores no Tradicionales", la que será demostrada en la partida 9900 del
-
-formulario MB1.
-
-- "Garantías adjudicadas por cursar del Fondo para Exportadores no
-
-Tradicionales".
+Cada vez que la institución financiera curse un crédito amparado con la garantía de que se trata, registrará el monto comprometido de ésta en la cuenta de orden "Garantías cursadas con cargo al Fondo para Exportadores no Tradicionales", de la partida 9235, a la vez que deberá revertirse el respectivo importe de la cuenta "Garantías adjudicadas por cursar del Fondo para Exportadores no Tradicionales" señalada en el numeral 14.1 precedente.
 
 14.3. Liberación de la garantía.
 
-En caso que la garantía no sea utilizada en el plazo de tres meses señalado
+En caso que la garantía no sea utilizada en el plazo de tres meses señalado precedentemente, se deberá revertir el asiento contable a que se refiere el numeral 14.1 precedente.
 
-precedentemente, se deberá revertir el asiento contable a que se refiere el
-
-numeral 14.1 precedente.
-
-Cuando la garantía sea liberada por la recuperación del préstamo caucionado, se
-
-revertirá el asiento contable de que trata el numeral 14.2 de este capitulo.
+Cuando la garantía sea liberada por la recuperación del préstamo caucionado, se revertirá el asiento contable de que trata el numeral 14.2 de este capitulo.
 
 14.4. Préstamos garantizados por el Fondo.
 
-Los préstamos amparados por el Fondo de Garantía que cursen las instituciones
-
-financieras, se registrarán en la cuenta "Préstamos a exportadores no
-
-tradicionales Ley 18.645" que se crea para tal efecto, la que será demostrada en
-
-la partida 1130 del formulario MB1.
+Los préstamos amparados por el Fondo de Garantía que cursen las instituciones financieras, se registrarán en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645" que se crea para tal efecto, la que será demostrada en la partida 1130 del formulario MB1.
 
 14.5. Préstamos vencidos pendiente de pago.
 
-Los préstamos vencidos, cuyo rembolso de la parte garantizada por el Fondo
+Los préstamos vencidos, cuyo rembolso de la parte garantizada por el Fondo estuviera en trámite, serán registrados en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645 con garantía pendiente de pago", en tanto que la parte no garantizada se registrará en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645 sin garantía". Ambas cuentas serán demostradas en la partida 1405 del formulario MB1.
 
-estuviera en trámite, serán registrados en la cuenta "Préstamos a exportadores
-
-no tradicionales Ley 18.645 con garantía pendiente de pago", en tanto que la
-
-parte no garantizada se registrará en la cuenta "Préstamos a exportadores no
-
-tradicionales Ley 18.645 sin garantía". Ambas cuentas serán demostradas en la
-
-partida 1405 del formulario MB1.
-
-En los casos en que el pago de la garantía sea rechazado por el Fondo, el total
-
-del crédito se deberá registrar en la cuenta "Préstamos a exportadores no
-
-tradicionales Ley 18.645 sin garantía".
+En los casos en que el pago de la garantía sea rechazado por el Fondo, el total del crédito se deberá registrar en la cuenta "Préstamos a exportadores no tradicionales Ley 18.645 sin garantía".
 
 14.6. Recaudación de la comisión a favor del Fondo.
 
-La comisión a favor del Fondo que las instituciones adjudicatarias de las
-
-respectivas garantías tienen que recaudar de los usuarios de los créditos, será
-
-acreditada, por el período que medie entre su percepción y la fecha en que se
-
-ponga a disposición del Banco del Estado de Chile, en la cuenta "Comisiones a
-
-favor del Fondo de Garantía para Exportadores no Tradicionales", cuyo saldo será
-
-demostrado en la partida 3010 del formulario MB1.
+La comisión a favor del Fondo que las instituciones adjudicatarias de las respectivas garantías tienen que recaudar de los usuarios de los créditos, será acreditada, por el período que medie entre su percepción y la fecha en que se ponga a disposición del Banco del Estado de Chile, en la cuenta "Comisiones a favor del Fondo de Garantía para Exportadores no Tradicionales", cuyo saldo será demostrado en la partida 3010 del formulario MB1.
 
 14.7. Intereses.
 
-Los intereses devengados sobre los préstamos que cursen al amparo de esta
-
-garantía, serán acreditados en la cuenta "Intereses ganados" de la partida 7105,
-
-7110 ó 7115 del formulario MR1, según corresponda.
+Los intereses devengados sobre los préstamos que cursen al amparo de esta garantía, serán acreditados en la cuenta "Intereses ganados" de la partida 7105, 7110 ó 7115 del formulario MR1, según corresponda.
 
 14.8. Recuperación de créditos vencidos a favor del Fondo.
 
-Los importes provenientes de recuperaciones de créditos vencidos que corresponda
+Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Fondo, en rembolso parcial o total de la garantía pagada por éste,se acreditarán en la cuenta "Recuperaciones de garantías por entregar al Fondo para exportadores no tradicionales", la que se demostrará en la partida 3010 del formulario MB1, hasta la fecha en que sean remitidos al Banco del Estado de Chile.
 
-entregar al Fondo, en rembolso parcial o total de la garantía pagada por éste,se
-
-acreditarán en la cuenta "Recuperaciones de garantías por entregar al Fondo para
-
-exportadores no tradicionales", la que se demostrará en la partida 3010 del
-
-formulario MB1, hasta la fecha en que sean remitidos al Banco del Estado de
-
-Chile.
-
-Los referidos montos serán entregados al Administrador del Fondo a lo menos
-
-semanalmente.
+Los referidos montos serán entregados al Administrador del Fondo a lo menos semanalmente.
 
 ### 15. Información al Banco del Estado de Chile
 
@@ -26680,23 +26210,17 @@ Haber: "Cambio mercado bancario".
 
 5.3.- Cobranzas del exterior.
 
-Las cobranzas del exterior serán registradas de la forma que a continuación se
-
-indica, ya sea que la mercadería, representada por los respectivos documentos,
-
-esté destinada a las Zonas Francas o al resto del país.
+Las cobranzas del exterior serán registradas de la forma que a continuación se indica, ya sea que la mercadería, representada por los respectivos documentos, esté destinada a las Zonas Francas o al resto del país.
 
 5.3.1.- Recepción de las cobranzas.
 
-Debe: - "Cobranzas del exterior por liquidar-Zonas Francas", o bien,
+Debe: - "Cobranzas del exterior Zonas Francas", o bien,
 
-- "Cobranzas del exterior por liquidar-Resto del país".
+- "Cobranzas del exterior por Resto del país".
 
-Estas cuentas serán demostradas en la partida 9340 del formulario MB1.
+Estas cuentas serán demostradas en la partida 9340.
 
-Haber: "Depositantes de cobranzas del exterior por liquidar", de la partida 9900
-
-del formulario MB1.
+Haber: "La cuenta de orden de la partida 9900.
 
 5.3.2.- Recepción del pago de las cobranzas sin acceso al mercado de divisas.
 
@@ -26704,11 +26228,9 @@ Debe: La cuenta que corresponda por la recepción de la moneda extranjera.
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
-- "Cobranzas por remesar", la que será demostrada en la partida 3010 del formulario MB1.
+- "Cobranzas por remesar", la que será demostrada en la partida 3010.
 
-Además, deben revertir el asiento contable señalado en el numeral 5.3.1
-
-precedente.
+Además, deben revertir el asiento contable señalado en el numeral 5.3.1 precedente.
 
 5.3.3.- Cobertura de las cobranzas que tengan acceso al mercado de divisas.
 
@@ -26718,7 +26240,7 @@ Debe: "Conversión mercado bancario", por el monto correspondiente a la importac
 
 Haber: - "Comisiones de agente por pagar", cuando proceda.
 
-- "Coberturas por remesar", de la partida 3010 del formulario MB1.
+- "Coberturas por remesar", de la partida 3010.
 
 b) Moneda chilena.
 
@@ -26982,7 +26504,7 @@ Cuando se trate de la negociación de cartas de crédito a la vista, se acredita
 
 3.2.1. Por la recepción de la carta de crédito.
 
-El banco que reciba una carta de crédito abierta por otro banco situado en el país, a favor de un usuario de la Zona Franca, procederá a registrar ese acreditivo en las cuentas "Deudores por créditos documentarios-Zonas Francas" y "Beneficiarios de créditos documentarios-Zonas Francas", de las partidas 9360 y 9900.
+El banco que reciba una carta de crédito abierta por otro banco situado en el país, a favor de un usuario de la Zona Franca, procederá a registrar ese acreditivo en la cuenta de orden "Deudores por créditos documentarios Zonas Francas" de la partida 9360.
 
 En el caso que el banco notificador o receptor de la carta de crédito sea una sucursal del propio banco emisor del acreditivo, registrará como deudor el nombre del ordenante de la carta de crédito y el nombre de la oficina del banco que la emitió.
 
@@ -27004,11 +26526,9 @@ Una vez recibido el abono del banco emisor del crédito, se revertirá ese asien
 
 Cuando un banco negocie una carta de crédito a plazo, emitida por otro banco, a la que haya otorgado su confirmación, la registrará en "Acreditivos confirmados negociados a plazo-Zonas Francas", cuyo saldo se demostrará en la partida 1120.
 
-En el Pasivo contabilizará ese compromiso en la cuenta «Acreedores por cartas de crédito confirmadas negociadas a plazo - Zonas Francas» de la partida 3425.
+En el Pasivo contabilizará ese compromiso en la cuenta "Acreedores por cartas de crédito confirmadas negociadas a plazo - Zonas Francas" de la partida 3425.
 
-Si la negociación la efectúa una sucursal del propio banco emisor de la carta de crédito, se contabilizará en las cuentas "Acreditivos negociados a plazo por cuenta de oficinas del mismo Banco". Esta cuenta se incluirá en la partida 9360.
-
-En el Haber se registrará en la cuenta "Responsabilidad por créditos negociados a plazo por cuenta de oficinas del mismo banco", que se demostrará en la partida 9900.
+Si la negociación la efectúa una sucursal del propio banco emisor de la carta de crédito, se contabilizará en la cuenta de orden "Acreditivos negociados a plazo por cuenta de oficinas del mismo Banco" de la partida 9360.
 
 3.2.5. Cartas de crédito negociadas contra aceptación.
 
@@ -27016,15 +26536,11 @@ Si la carta de crédito a plazo es negociada contra aceptación de una letra por
 
 En el pasivo se contabilizará ese compromiso en la cuenta "Acreedores por cartas de crédito negociadas contra aceptación - Zonas Francas" de la partida 3425.
 
-Si la aceptación se cursa por una sucursal del propio banco, será registrada en la cuenta denominada "Deudores por aceptaciones de créditos negociados - Zonas Francas", de la partida 9360.
-
-En el Haber de las cuentas de orden se contabilizará en la cuenta "Responsabilidad del banco por aceptaciones de créditos negociados - Zonas Francas", de la partida 9900.
-
-Estos asientos se revertirán en la oportunidad en que se realice el pago de la carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
+Si la aceptación se cursa por una sucursal del propio banco, será registrada en la cuenta de orden "Deudores por aceptaciones de créditos negociados-Zonas Francas" de la partida 9360 hasta que se realice el pago de la carta de crédito por haberse cumplido el plazo o haber vencido la aceptación.
 
 ### IV. COBRANZAS
 
-Los documentos que las entidades bancarias reciban en cobranza y que correspondan a importaciones desde las Zonas Francas a las Zonas Francas de Extensión o al resto del país, serán registrados con cargo a la cuenta "Cobranzas por liquidar - Zonas Francas" y abono a "Depositantes de Cobranzas por liquidar - Zonas Francas". Estas cuentas se demostrarán en las partidas 9340 y 9900, respectivamente.
+Los documentos que las entidades bancarias reciban en cobranza y que correspondan a importaciones desde las Zonas Francas a las Zonas Francas de Extensión o al resto del país, serán registrados en la cuenta de orden "Cobranzas - Zonas Francas" de la partida 9340.
 
 1.- Cartas de crédito que amparen importaciones desde las Zonas Francas al resto
 
@@ -27668,7 +27184,7 @@ La institución financiera que mantenga en otra institución congénere dinero e
 
 El saldo de esta cuenta que se demostrará en la partida 1005 del MB1 deberá ser coincidente con las certificaciones de custodia que mantenga en su poder la entidad depositante.
 
-La entidad depositaría, por su parte, contabilizará los valores de esta especie recibidos en custodia, en las cuentas de orden "Depósitos en efectivo mantenidos en custodia por cuenta de entidades financieras" y "Responsabilidad por depósitos en efectivo mantenidos en custodia por cuenta de entidades financieras", cuyos saldos se reflejarán en las partidas 9260 y 9900 del MB1.
+La entidad depositaría, por su parte, contabilizará los valores de esta especie recibidos en custodia, en la cuenta de orden "Depósitos en efectivo mantenidos en custodia por cuenta de entidades financieras" de la partida 9260.
 
 ### 4. Certificados de custodia
 
