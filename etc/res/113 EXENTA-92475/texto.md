@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta Nº113 del 13 de enero de 1998, conforme artículo 5º transitorio Código Aguas, aclaró resolución exenta Nº298, del 25 de febrero de 1991, en el sentido de establecer que los recursos del Canal Ranchillo son 120 lts/seg. formados por derrames del Fundo La Laguna y si faltare agua para completar su derecho, se alimentará del Canal Porvenir y que los derechos asignados al sector excluido del predio Hijuela Número Diez y a las parcelas Nºs. 1 a 10 y sitios Nºs. 14 al 20 y 31 al 40 del Proyecto de Parcelación "El Parrón", de la comuna de María Pinto, Región Metropolitana, son parte de los citados 120 lts/seg.
+
+Publicación hecha conforme artículo 13 Ley N° 18.377.- Director Nacional.
