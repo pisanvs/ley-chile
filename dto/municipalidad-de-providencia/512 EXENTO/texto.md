@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIONES QUE INDICA
+
+Alcaldesa I. Municipalidad de Providencia, mediante Decreto Alcaldicio Ex. No. 512 de fecha 17 de marzo de 1992, dispone expropiación total, conforme Art.
+
+4,6,7,21,y 39 del DL 2.186. de 1978, Ley Orgánica de Procedimiento de Expropiaciones ; Art. 35,38,42,48,51,83 y 85 del DFL No. 458 de Vivienda, de 1976 Ley General de Urbanismo y Construcciones Art. 19 No. 24 de la Constitución Política del Estado y Art. 5,10,27,53,55 letra f) y 78 letra f) de la Ley No. 18.695 Orgánica Constitucional de Municipalidades del inmueble ubicado en calle San Pío X No. 2422 Rol de Avalúos No. 537-160 y 537-324 aparentemente de propiedad de Radio Center para dar cumplimiento al Plan Comunal Regulador de Providencia. Los deslindes del inmueble expropiado son los siguientes: Norte, 49,85, mts. con otro propietario, Sur 49,85 mts. con calle San Pío X, Oriente, 17,80 mts con otro propietario y al Poniente 17,80 mts. con Avenida Los Leones. Indemnización provisional de $ 36.650.250 fijada en el mes de septiembre de 1991 por la Comisión Tasadora integrada por los Sres. Ramón Undurraga Montes, Reinaldo Correa Correa y Teresa Sancho Fernas, pagadera de contado.
+
+C.G. de A. Alcaldesa firmado J.O.H.R.
