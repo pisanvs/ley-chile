@@ -1,0 +1,3 @@
+Por resolución No. 45 de fecha 27 de febrero de 1990 del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la Asociación Gremial de Comerciantes del Mercado Seminario de Ñuñoa inscrita bajo el número 807 del registro que lleva este ministerio por haberse configurado respecto de ella la causal de cancelación contemplada en el artículo 18 No. 2 letra c) del Decreto Ley 2.757.-
+
+Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción.
