@@ -1,0 +1,3 @@
+Por decreto MOP Nº 156, de fecha 27 de febrero de 2004, se expropiaron los lotes de terreno Nº 495, 496, 497, 498 y 499, superficies 1.103 m², 280 m², 138 m², 91 m² y 554 m², rol de avalúo Nº 32-497, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo Km. 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietaria María Isabel Valdivieso Ovalle, ascendente a la cantidad de $8.004.226.-
+
+Fiscal del Ministerio de Obras Públicas.
