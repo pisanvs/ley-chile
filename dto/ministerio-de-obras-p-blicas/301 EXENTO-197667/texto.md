@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº301, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº409, superficie 175 m2, rol de avalúo 33-410, comuna de Pichidegua, VI Región, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Km. 12,70000 al 16,48000" y se acordó el valor de indemnización con su propietario don Carlos Segundo Sánchez Ruz, ascendente a la cantidad de $2.234.500.-
+
+Fiscal del Ministerio de Obras Públicas.
