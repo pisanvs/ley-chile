@@ -1,0 +1,7 @@
+Deserciones en el Ejército
+
+Don Hilarion de la Quintana, Coronel de los ejércitos de la patria i Director Supremo Delegado de Chile:
+
+Persuadido este Gobierno que muchos de los soldados del Ejército incurren en el crimen de desercion por inadvertencia de no tener los conocimientos precisos de la gravedad del delito que cometen; ha acordado perdonar a todos los individuos que hasta la fecha han desertado, con tal que en el preciso término de tres dias de esta promulgacion se presenten a los cuerpos en que han servido, o al sarjento mayor de esta plaza, los que se hallen en esta capital, prorrogándose al de quince para los que anden fuera de ella, pero tendrán entendido que si no se aprovechan de este temperamento de piedad, i que si desprecian este llamamiento jeneroso, sufrirán irremisiblemente, la pena a que la ordenanza los condena sin que ya entonces tenga escusa que los indemnice del delito: con advertencia, que publicado este bando, como deberá hacerse en todas las demas provincias del Estado, los desertores se presentarán para gozar del indulto concedido a los respectivos tenientes gobernadores de la jurisdiccion en que se hallen, obteniendo de éstos una papeleta o documento que lo acredite. Despues de publicado i fijado imprímase.-
+
+Santiago, 6 de Agosto de 1817.-Hilarion de la Quintana.-Gregorio de Echagüe, secretario interino de guerra.
