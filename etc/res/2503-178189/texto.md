@@ -1,0 +1,7 @@
+Por resolución Nº 2.503, de 16 de noviembre de 2000, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 2.455 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación de Merluza de cola entre la V y la X Regiones'', en el sentido de agregar la siguiente letra g):
+
+''g) Las embarcaciones seleccionadas para participar en la presente pesca de investigación podrán capturar Jurel como fauna acompañante de la pesca dirigida al recurso Merluza de cola, la que no podrá exceder de un 10%, medido en peso, de la captura total de la especie objetivo, por viaje de pesca. Para estos efectos, los armadores deberán comunicar al Servicio Nacional de Pesca, con cuatro horas de anticipación a la recalada de la nave, la circunstancia antes señalada.
+
+Las capturas de Jurel que se efectúen en calidad de fauna acompañante, se imputarán al límite máximo de captura autorizado para esta especie mediante resolución Nº 2.194 de 2000, de esta Subsecretaría.''
+
+Valparaíso, 16 de noviembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
