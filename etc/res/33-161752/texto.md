@@ -1,0 +1,3 @@
+Por resolución de la Fiscalía del Ministerio de Obras Públicas F. Nº 33, de 26 de Abril de 1985, sera adecuado pagar a las personas que a continuación se indican o a quienes acrediten derecho como valor del 100% del avalúo fijado por la Comisión de Hombres Buenos más su reajuste, para el lote expropiado para Servicios Públicos, municipalidad y Retén de Carabineros de Rinconada de Los Andes, cuya superficie y rol de avalúo de la comuna de Rinconada, se indican: Lote 1: Sucesión Joaquín del Villar, 1.778 m2., rol 19-46, $ 433.120. Se deja constancia que el plazo para reclamar judicialmente del avalúo es de 30 días contados desde la fecha de la 2a. publicación que se hará en un periódico de la y Región.-
+
+Fiscal del Ministerio de Obras Públicas.
