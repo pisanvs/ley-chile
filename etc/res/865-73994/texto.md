@@ -1,0 +1,3 @@
+Por Resolución Nº 865, de 24 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 912, de 1990, de esta Subsecretaría, que autorizó a PESQUERA LOS FIORDOS LTDA., para instalar y operar 7 establecimientos de cultivos ubicados en la comuna de Cisnes, provincia de Aysén, XI Región, por haberse denegado la respectiva solicitud de concesión de acuicultura.
+
+Valparaíso, 24 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
