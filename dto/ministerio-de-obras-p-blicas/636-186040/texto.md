@@ -1,0 +1,3 @@
+Por decreto MOP Nº 636, de 30 de marzo de 2001, se expropió el lote de terreno Nº 3, superficie 2.463 m², rol de avalúo 174-5, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Tramo 14, Quinta Región y se acordó el valor de indemnización con su propietaria Inversiones Peñuelas S.A., ascendente a la cantidad de $29.679.303.-
+
+Fiscal del Ministerio de Obras Públicas.
