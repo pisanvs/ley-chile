@@ -294,17 +294,21 @@ La Superintendencia, sin perjuicio del cumplimiento de los requisitos establecid
 
 En todo caso, una compañía sólo podrá deducir de las mencionadas reservas, la prima efectivamente pagada a su reasegurador, por las cesiones correspondientes a los riesgos asumidos.
 
-No obstante lo anterior, en el caso de seguros contemplados en el decreto ley Nº 3.500, de 1980, y tratándose de cesiones de reaseguro a reaseguradores extranjeros, la deducción por reaseguro no podrá exceder del 40% del total de las reservas técnicas correspondientes a los seguros señalados o del porcentaje superior que establezca la Superintendencia.
+No obstante lo anterior, en el caso de seguros contemplados en el decreto ley Nº 3.500, de 1980, y tratándose de cesiones de reaseguro a reaseguradores extranjeros, la deducción por reaseguro no podrá exceder del 40% del total de las reservas técnicas correspondientes a los seguros señalados o del porcentaje superior que establezca la Superintendencia. No obstante, tratándose de seguros de rentas vitalicias contemplados en el decreto ley Nº 3.500, de 1980, las tablas de mortalidad para el cálculo de las reservas técnicas serán fijadas por la Superintendencia conjuntamente con la Superintendencia de Administradoras de Fondos de Pensiones.
 
 #### Artículo 20 bis
 
-Con el objeto de mejorar la información de los asegurados, las compañías de seguros deberán contratar con a lo menos dos clasificadores de riesgo distintos e independientes entre sí, inscritos en el Registro que al efecto lleva la Superintendencia conforme a lo establecido en el Título XIV de la ley 18.045 de Mercado de Valores, la clasificación continua e ininterrumpida de las obligaciones que tengan con sus asegurados, en la forma que establezca una norma de carácter general dictada por la Superintendencia.
+Las compañías de seguros deberán contratar con a lo menos dos clasificadores de riesgo distintos e independientes entre sí, inscritos en el Registro que al efecto lleva la Superintendencia conforme a lo establecido en el Título XIV de la ley 18.045 de Mercado de Valores, la clasificación continua e ininterrumpida de las obligaciones que tengan con sus asegurados, en la forma que establezca una norma de carácter general dictada por la Superintendencia.
 
 El Título XIV mencionado se aplicará supletoriamente a la clasificación de las obligaciones de compañías de seguros en todo lo que no esté regulado específicamente, entiendiéndose que las referencias a emisor y valores en él contenidas, se considerarán hechas a compañías de seguros y obligaciones con sus asegurados, respectivamente.
 
 Esta clasificación se practicará en consideración a la cantidad y calidad de las inversiones y demás activos de la compañía, la suficiencia de las reservas en relación a las responsabilidades asumidas, la cantidad y calidad de reaseguros, la rentabilidad obtenida en los últimos años, el endeudamiento y nivel de operaciones de la compañía en relación a su patrimonio, el calce de plazos, monedas y reajustabilidades entre los activos y los pasivos, la capacidad técnica y experiencia de la administración y otra información disponible, en categorías que serán denominadas respectivamente con las letras AAA, AA, A, BBB, BB, B, C, D y E.
 
 La categoría AAA se usará para los aseguradores de más bajo riesgo, y la categoría D será aplicable a los aseguradores de más alto riesgo. La categoría E será aplicable a los aseguradores de los que se carece de información suficiente para clasificarlos.
+
+Las compañías de seguros del segundo grupo, que presenten una clasificación de riesgo igual o inferior a "BB", no podrán ofrecer ni contratar seguros de rentas vitalicias del decreto ley Nº 3.500, de 1980, mientras se encuentren en tal situación. Para estos efectos, se considerará la menor de las clasificaciones obtenidas.
+
+En caso que una compañía acreditare la imposibilidad de contratar la clasificación de riesgo a que se refiere este artículo, la Superintendencia podrá ordenar dicha clasificación a dos entidades inscritas en el registro que al efecto lleva. Los costos de dicha clasificación serán de cargo de la compañía clasificada.
 
 #### Artículo 21
 
@@ -612,7 +616,9 @@ De las infracciones
 
 #### Artículo 41
 
-DEROGADO.
+Las Compañías de Seguros, sus Directores, sus dependientes, los intermediarios, agentes de ventas u otras personas que intervengan en la comercialización de rentas vitalicias previsionales contempladas en el decreto ley Nº 3.500, de 1980, no podrán ofrecer u otorgar a los afiliados o beneficiarios incentivos o beneficios distintos a los establecidos en ese decreto ley, con el objeto de obtener la contratación de pensiones a través de la modalidad antes señalada. La infracción a lo dispuesto en este inciso será sancionada según lo establecido en el decreto ley N° 3.538, de 1980.
+
+Quien habiendo sido sancionado en los términos indicados en el inciso anterior, reincida en ofrecer u otorgar a los afiliados o beneficiarios, incentivos o beneficios distintos de los establecidos en el decreto ley N° 3.500, de 1980, con el objeto de obtener la contratación de pensiones a través de la modalidad de renta vitalicia, será sancionado con pena de presidio menor en su grado mínimo.
 
 #### Artículo 42
 
