@@ -1,0 +1,3 @@
+Por resolución Nº 1.996 de 11 de septiembre de 2000 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101136 presentada por JUAN ELIAS RIVAL ALMONACID, para instalar y operar un centro de cultivo ubicado en Lote B, Parcela Nº 4, Ribera Norte del Río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 11 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
