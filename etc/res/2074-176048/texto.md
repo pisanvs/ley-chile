@@ -1,0 +1,3 @@
+Por resolución Nº 2.074, de 15 de septiembre de 2000, de esta Subsecretaría, déjase sin efecto la resolución Nº 713 de 1986, de esta Subsecretaría, que autorizó a CARLOS SACKEL BAHAMONDES, para instalar y operar de cultivo ubicado en un sector de Estero del Medio, Seno Gala, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 15 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
