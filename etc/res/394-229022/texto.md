@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 394, 16 julio 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Rodríguez Nº 482, Rol de Avalúo Nº 2771-10, comuna Chiguayante, superficie 200 m². de terreno y 118,4 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.076, de aparente dominio de Domingo Liguencura Millanao, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y DL. 2186. Comisión Peritos integrada por Orlando Paredes Vásquez, ingeniero civil, Guillermo Villafañe Feres, arquitecto e Italo Zerga Arancibia, constructor civil, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $25.162.906.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío. Serviu Región del Bío Bío.
