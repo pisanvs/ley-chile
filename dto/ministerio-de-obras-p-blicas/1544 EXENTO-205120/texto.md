@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.544, de fecha 29 de octubre de 2002, se expropió el lote de terreno Nº15-E, superficie 477 m2, rol de avalúo 204-12, comuna de Los Alamos, VIII Región, para la obra ''Camino Ruta P-46, Sector Los Alamos - Sara de Lebu, Km. 0,00000 al 16,84000'' y se acordó el valor de indemnización con su propietario don Hernán Cid Benítez, ascendente a la cantidad de $357.213.-
+
+Fiscal del Ministerio de Obras Públicas.
