@@ -1,0 +1,15 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 1.763, de fecha 26 de Diciembre de 1984, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana, se modifican los recorridos de las Variantes que se individualizan más adelante, de la Línea de Buses N° 1 "Bernardo O'Higgins La Reina", autorizados por resolución N° 581, de Junio 16 de 1982, quedando sus nuevos trazados como sigue:
+
+a) VARIANTE N° 1-B "RADAL- PROVIDENCIA"
+
+Ida: Desde su terminal en La Unión frente al N° 1228, continúa por La Unión - José Joaquín Pérez - Teniente Cruz San Francisco - Los Retamos Camino Loyola - Júpiter - Vicuña Rosas - Radal - Av. Libertador Bernardo O'Higgins - Av. Providencia - Av. 11 de Septiembre - AV. Pedro de Valdivia Los Olmo - Ramón Cruz Madreselva - Av. Américo Vespucio - Rotonda Departamental - Av. La Florida - Santa Julia- Panamá - Enrique Olivares - Av. Perú - Calle 2 - José M. Carrera - Colombia - San Pedro - Guillermo Blest Gana - San Jorge - Santa Cecilia, hasta frente al N° 11380, su terminal Regreso: Desde su terminal en Santa. Cecilia frente al N° 11380, continúa por San Jorge - Guillermo Blest Gana San Pedro - Colombia - José M. Carrera - Calle 2 -Av. Perú Enrique Olivares - Panamá Santa Julia - Av. La Florida Rotonda Departamental - Av. Américo Vespucio - Transversal - La Chacarilla - Quilín - Siria Los Limoneros - Brown Sur Los Olmos - Av. Pedro de Valdivia - Av. Providencia - Av. Libertador Bernardo O"Higgins - Av. General Velásquez Ecuador - Radal - Vicuña Rosas Júpiter Camino Loyola - Los Retamos - San Francisco - Teniente Cruz - José Joaquín Pérez - La Unión hasta frente al N° 1228, su terminal,
+
+b) VARIANTE N° l-J "SAN PABLO - BRASIL - PEDBO DE VALDIVIA"
+
+Ida: Desde su terminal en La Unión frente al N° 1228, continúa por La Unión - José Joaquín Pérez - Neptuno - San Pablo - Av. Brasil - Av. Libertador Bernardo O'Higgins - Av. Providencia - Av. 11 de Septiembre - Av. Pedro de Valdivia -Av. Agrícola- Av. José Pedro Alessandri - Rotonda Departamental - Av. La Florida - Santa Julia - Panamá - Enrique Olivares - Av. Perú - Calle 2 - José M. Carrera - Colombia - San Pedro - Guillermo Blest Gana - San Jorge - Santa Cecilia hasta frente al N° 11380, su terminal.
+
+Regreso: Desde su terminal en Santa Cecilia frente al N° 11380, continúa por San Jorge - Guillermo Blest Gana San Pedro - Colombia - José M. Carrera - Calle 2 - Av. Perú Enrique Olivares - Panamá Santa Julia - Av. La Florida Rotonda Departamental - Av. José Pedro Alessandri - Av. Agrícola - Av. Pedro de Valdivia - Av. Providencia - Av. Cardenal José María Caro - 21 de Mayo - Rosas - Av. Matucana Santo Domingo - Barros Arana - San Pablo - Neptuno - José Joaquín Pérez - La Unión hasta frente al N° 1228, su terminal.-
+
+Carlos Román Toro, Secretario Regional Ministerial, Transportes y Telecomunicacines Región Metropolitana.
