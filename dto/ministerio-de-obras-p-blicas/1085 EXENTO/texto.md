@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.085, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº58, superficie 120 m², rol de avalúo Nº136-219, comuna de San Francisco, para la obra "Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, tramo Km. 0,000 a Km. 9,317", y se acordó el valor de indemnización con su propietaria María Sara González Bustos, ascendente a la cantidad de $884.424.-
+
+Fiscal del Ministerio de Obras Públicas.
