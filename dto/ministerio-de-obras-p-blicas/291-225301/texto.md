@@ -1,0 +1,3 @@
+Por decreto MOP Nº 291 de 31 de marzo de 2004, se expropiaron los lotes de terrenos Nº s. 65 y 65-A, superficies 387 y 98 m² respectivamente, rol de Avalúo Nº 63-80, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Acceso Pedregoso - Liucura Km. 141,00000 al Km. 158,54000, correspondiente al Tramo III Km. 153,84800 al Km. 158,54000", IX Región y se acordó el valor de la indemnización con su propietario Marcos Segundo Huillical Millalen, ascendente a la cantidad de $7.344.824.
+
+- Fiscal del Ministerio de Obras Públicas.
