@@ -1,0 +1,3 @@
+Por resolución Nº 1.293, de 9 de julio de 1999, de esta Subsecretaría, modifícase el numeral 2 de la resolución 654 de 1999, de esta Subsecretaría de Pesca, que autorizó a FRIOSUR S.A., para ampliar actividades pesqueras de transformación, en el sentido de agregar el siguiente inciso final: ''La materia prima podrá también provenir de terceros pesqueros artesanales e industriales debidamente autorizados''.
+
+Valparaíso, 9 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
