@@ -1,0 +1,3 @@
+Por resolución Nº 1.010, de 23 de Julio de 1998, de esta Subsecretaría, déjase sin efecto la resolución Nº1.201 de 1996, de esta Subsecretaría, que autorizó a don JUAN MANUEL ARANGUIZ GONZALES y a don Sergio del Carmen Aránguiz Gonzales, para operar la nave ''Don Valentín'', matrícula Nº 325 de San Vicente, por renuncia de sus titulares.
+
+Valparaíso, 23 de julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
