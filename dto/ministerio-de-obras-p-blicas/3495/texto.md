@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 3.495, de 31 de julio de 2000, se expropió el lote de terreno Nº 14, superficie 60 m2., rol de avalúo 1279-11, comuna de Curicó, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector M, Séptima Región y se acordó el valor de indemnización con su propietaria Filomena del Carmen Martínez Martínez, ascendente a la cantidad de $1.146.470.
+
+Fiscal del Ministerio de Obra Públicas.
