@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 605 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 29, superficie 102 m², rol de avalúo Nº 208-99, comuna de Cabildo, V Región, para la obra "Cabildo Putaendo, Ruta E-41, Sector La Vega - Guayacán, Km. 12,46900 a Km. 22,40000, comuna de Cabildo, provincia de Quillota" y se acordó el valor de indemnización con su propietario Moisés del Tránsito Riquelme de la Paz, ascendente a la cantidad de $335.863.-
+
+Fiscal del Ministerio de Obras Públicas.
