@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.731, de 30 de junio de 2004, de esta Subsecretaría, autorízase a EMILIO ALFREDO TAPIA BONILLA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Coquimbo Nº 181, Población Víctor Domingo Silva, Tongoy, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
