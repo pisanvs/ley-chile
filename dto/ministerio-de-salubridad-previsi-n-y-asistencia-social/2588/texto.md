@@ -164,6 +164,8 @@ La relación existente entre "el sueldo vital de Santiago vigente el último mes
 
 Esta gratificación se computará solamente hasta concurrencia del 25% del sueldo anual percibido, con límite de seis sueldos vitales mensuales del departamento de Santiago. Este límite de 6 sueldos vitales se elevará en un 25% en las provincias de Tarapacá, Antofagasta y Magallanes.
 
+Con todo en los casos de imponentes empleados de empresas que por su "giro principal explotan servicios de utilidad pública mediante concesiones "o contratos con el Fisco o las Municipalidades y que están sujetas al cobro "de tarifas por dichos servicios y tengan un capital pagado de ochenta "millones de pesos o más, la gratificación se computará hasta concurrencia "de 6 sueldos vitales mensuales del departamento de Santiago y con ese mismo "máximum.
+
 #### Artículo 15
 
 ° El sueldo base mensual para calcular los beneficios no podrá exceder, en ningún caso, de dos veces la remuneración media que resulte de dividir por 120 el total de las remuneraciones imponibles, percibidas por el imponente en los 10 años anteriores al día inicial de pago de la pensión. Para determinar esta remuneración media, las remuneraciones efectivas imponibles se expresarán en relación con los respectivos sueldos vitales de la época en que fueron percibidas, o sea, se establecerá la relación que existió entre el sueldo vital respectivo y cada una de aquéllas, y el valor medio de estas relaciones se multiplicará por el sueldo vital vigente en el momento de iniciarse el pago del beneficio. En consecuencia, para determinar la remuneración media, será necesario:
