@@ -1,0 +1,15 @@
+EXTRACTO DE RESOLUCION Nº 53 EXENTA, DE 2001
+
+1.- Por resolución Nº Ex. 53, de 12 de diciembre de 2001, el Servicio de Impuestos Internos fijó el procedimiento para que las Instituciones Acreedoras que indica cumplan la obligación de informar los intereses correspondientes a Créditos Hipotecarios que señala.
+
+a) En el dispositivo 1 de la resolución Nº Ex. 53, de 12 de diciembre de 2001, se establece que las entidades acreedoras cualquiera que sea su calidad jurídica (bancos, instituciones financieras, etc.) que hubieren otorgado créditos con garantía hipotecaria destinados a adquirir o construir una o más viviendas (destinadas a la habitación) o créditos de igual naturaleza (con garantía hipotecaria) destinados a pagar los créditos antes señalados, cualquiera que sea la fecha en que se otorgaron dichos créditos, deberán presentar al Servicio de Impuestos Internos, antes del 1º de marzo de cada año, un informe detallado con las menciones que se indican en el dispositivo 2 de la mencionada resolución.
+
+b) En el dispositivo 3 de la resolución Nº Ex. 53, de 12 de diciembre de 2001, se establece que la referida información deberá proporcionarse sólo mediante la transmisión electrónica de datos vía Internet, haciendo referencia al Formulario Nº 1898, denominado ''Declaración Jurada Anual Sobre Intereses Pagados correspondientes a Créditos con Garantía Hipotecaria y demás antecedentes relacionados con motivo del beneficio tributario establecido en el Art. 55 bis de la Ley de la Renta''. Para tales efectos, remítase a las instrucciones para la confección de la Declaración Jurada Nº 1898, que se incorporan como Anexo Nº 1 a la presente resolución;
+
+c) En el dispositivo 4 de la resolución Nº Ex. 53, del 12 de diciembre de 2001, se establece que las entidades acreedoras indicadas en el resolutivo primero, emitirán un certificado a las personas naturales, consignando el monto de los intereses correspondientes a créditos con garantía hipotecaria pagados por los deudores del mismo durante el ejercicio calendario respectivo, en cumplimiento de las obligaciones contraídas con motivo de la adquisición o construcción de una o más viviendas o de créditos de igual naturaleza destinados a pagar los créditos antes señalados; todo ello con el fin de que tales contribuyentes puedan hacer uso del beneficio tributario establecido por el artículo 55º bis de la Ley de la Renta.
+
+2.- La aludida resolución rige para los Certificados e Informes que deban emitirse o presentarse, según corresponda, a partir del Año Tributario 2002, esto es, respecto de la información y antecedentes relacionados con los intereses efectivamente pagados durante el ejercicio calendario 2001 y siguientes correspondientes a créditos otorgados con garantía hipotecaria.
+
+3.- El texto íntegro de esta resolución se encuentra incluido en la página Web del Servicio de Impuestos Internos en Internet, cuya dirección es www.sii.cl y, además, se publicará en el Boletín del Servicio del mes de diciembre de 2001.
+
+- Javier Etcheberry Celhay, Director.
