@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.228, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº5-C, superficie 171 m², rol de avaluó 5055-99, comuna de Punta Arenas, XII Región, para la obra "Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9) Km. 5,31490 al 19,342349, (Acceso Aeropuerto) Km. 0,000 al 1,295819" y se acordó el valor de indemnización con su propietario don Omar Orlando Díaz Ampuero, ascendente a la cantidad de $1.910.935.-
+
+Fiscal del Ministerio de Obras Públicas.
