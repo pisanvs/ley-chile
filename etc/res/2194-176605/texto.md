@@ -1,0 +1,13 @@
+Por resolución Nº 2.194, de 6 de octubre de 2000 de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre la III y la X Regiones'', aprobado por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación, que por la presente resolución se autoriza, consiste en caracterizar la distribución, estructura de tallas de jurel y sus agregaciones al oeste de las 5 millas náuticas de la costa de Chile, entre la III y X Regiones.
+
+La pesca de investigación se efectuará al oeste de las 5 millas náuticas de la costa de Chile, entre la III y X Regiones, subdividida en dos zonas de estudio: Zona 1: III y IV Regiones y Zona 2: V a X Regiones, entre las 12:00 horas del día 13 de octubre y las 12:00 horas del día 31 de diciembre del presente año.
+
+Los armadores seleccionados para participar en la pesca de investigación podrán operar las naves que se individualizan y que cuentan con autorización vigente para operar en las unidades de pesquería de la especie Jurel de la III y IV Regiones, V a la IX Regiones o X Región, declaradas en régimen de plena explotación mediante decretos supremos Nº608 de 1997, Nº354 de 1993 y Nº545 de 1998, respectivamente, todos del Ministerio de Economía, Fomento y Reconstrucción, pudiendo extraer un límite máximo de captura ascendente a 165.000 toneladas de la especie Jurel.
+
+El límite máximo de captura antes señalado se dividirá en 55.000 toneladas para el mes de octubre, 55.000 toneladas para el mes de noviembre y 55.000 toneladas para el mes de diciembre, las cuales se fraccionarán de la siguiente manera: a) Zona 1: 2.200 toneladas mensuales; b) Zona 2: 52.800 toneladas mensuales: Toyita y María Victoria II, Gangstad Junior, Toltén I, Yelcho I, Oceánica 4, Coral I, Don Tito, Terranova, Don Roberto I, Duqueco, Pehuenco, Vichuquén II, Arequipa VII, María José, La Niña I, Oficina Progreso, Arauco I, Lonco, Malleco, Ligrunn, Don Edmundo, Tricahue, Cobra, Vulcano I, Bronco, María Bernardita, Remoy Viking, Antarctic, Don Julio, Don Telésforo, Ventisquero, Llay Llay, Don Manuel, Cacique I, Atacama III, Corsario I, Rapa Nui, Hilmir.
+
+El Instituto designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del DS Nº430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su Director Ejecutivo (S) don Sergio Avilés Goycoolea.
+
+Valparaíso, 6 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
