@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.574, de 28 de octubre de 2003, de esta Subsecretaría, autorízase a PESQUERA PLAYA BLANCA S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Bahía Calderilla s/n, Caldera, III Región, en la línea de elaboración que se indica, el siguiente recurso hidrobiológico: Harina: Jibia.
+
+Valparaíso, 28 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
