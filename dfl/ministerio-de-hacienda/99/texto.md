@@ -1,0 +1,1 @@
+Fija planta de personal de la Dirección General de Educación Secundaria; deroga el N° 2° del decreto con fuerza de ley 21, de 18 de marzo de 1953.
