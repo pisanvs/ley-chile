@@ -1,0 +1,1 @@
+Declara en reorganización la Caja de Previsión de la Defensa Nacional y fija las plantas y remuneraciones de sus funcionarios.
