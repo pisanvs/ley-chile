@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº27, de 31 de enero de 2001, se expropió el lote de terreno Nº107, superficie 362 m2., rol de avalúo 601-111, comuna de Mulchén, para la obra Concesión Internacional Ruta 5. Tramo Chillán-Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Pedro Francisco Fuentes López, ascendente a la cantidad de $836.662.
+
+- Fiscal del Ministerio de Obras Públicas.
