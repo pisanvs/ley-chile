@@ -1,0 +1,7 @@
+PRORROGA EN FORMA EXTRAORDINARIA VIGENCIA DE CONTRATO DE PLANTA DE REVISION TECNICA QUE INDICA
+
+Por resolución Nº 323, de fecha 30 de octubre de 2004 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, XII Región, prorrógase en forma extraordinaria la vigencia del contrato de concesión para operar el establecimiento que practica revisión técnica de vehículos clase AB en la ciudad de Puerto Natales, Región de Magallanes, celebrado con la empresa Automotora Gómez Ltda., de fecha 22 de junio de 1999, aprobado por Resolución Nº 45/99, de esta Secretaría Regional de Transportes y Telecomunicaciones hasta que la demanda del servicio de revisión técnica pueda ser adecuadamente satisfecha con la operación de todos o parte de los establecimientos que se concesionen en la Región de Magallanes, lo que será determinado por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones.
+
+En virtud de esta prórroga, se mantienen vigentes las demás estipulaciones, derechos, obligaciones, procedimientos, así como las garantías que se contemplan en el contrato que se prorroga, según consta de la convención de prórroga que se acompaña y que forma parte integrante de la presente resolución.
+
+Gustavo Faraldo Iriarte, Secretario Regional Ministerial Transportes y Telecomunicaciones XII Región.
