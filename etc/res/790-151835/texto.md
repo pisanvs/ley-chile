@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA MANQUEHUE S,A, PARA AMPLIAR ACTIVIDADES PESQUERAS, DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 790 de 23 de Julio de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Manquehue S.A., domiciliada en Santiago, para ampliar actividades pesqueras autorizadas por resolución No. 575, de 1984 y 834, de 1985, de esta entidad, en orden a facultarle para operar, sin perjuicio del litoral ya autorizado, el correspondiente a las Regiones III, IV y V, desde donde podrá extraer con sus embarcaciones "Llaima y Sotavento" los siguientes recursos hidrobiológicos: Jurel, sardina española, anchoa, caballa y bonito. Además podrá extraer el recurso bonito de la y III Región. Deniégase autorización para hacerlo en la última región citada respecto de las cuatro primeras especies antes señaladas, conforme a lo dispuesto en el Decreto de Economía No. 436, de 1985.
+
+Valparaíso, 23 de Julio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
