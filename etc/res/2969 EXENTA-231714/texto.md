@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.969, de 18 de octubre de 2004, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 201102024 presentada por BRITANICO DEL CARMEN CANCINO ASTUDILLO, para instalar y operar una piscicultura en un terreno privado localizado en estero El Peligro, fundo Stella Maris, X Región.
+
+Valparaíso, 18 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
