@@ -1,0 +1,3 @@
+Por resolución Nº 2.093, de 13 de octubre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 95110280, presentada por Pesquera Mares Australes Limitada, para operar un centro de cultivo ubicado al lado norte de Seno Aysén, frente Punta Angosta, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 13 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
