@@ -1,0 +1,5 @@
+Por Decreto MOP. No. 801, de 22 de junio de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 237-A, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, Sector Km.49.300,00 al Km.
+
+55.620,00, que figuran a nombre de Trivelli Maldini Alfonso, Rol de Avalúo No. 75-43, comuna de Til-Til, superficies 5.147 m2. La comisión de Peritos integrada por Gustavo Domínguez Errázuriz, Paola Andrea Domingo Porcella y Andrés Echeverría Campo, fijó con fecha 07 de noviembre de 1997, el valor provisional de la indemnización es la cantidad de $ 5.404.350. para el lote No. 237-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
