@@ -46,19 +46,9 @@ Para ejecutar cualquiera de las obras de que hablan los artículos precedentes, 
 
 Este plazo no obstará a que de antemano se practiquen los estudios, presupuestos, tasaciones, etc. que fueren necesarios para la ejecucion inmediata o posterior de la obra.
 
-#### Artículo 6°
+#### Artículo 6
 
-Los edificios que se construyan en adelante en las calles actuales o de diez metros, no podrán tener mayor elevacion que la de doce metros; i en las nuevas calles i en las que se prolonguen, de veinte metros, cuando fueren de material de ladrillo o piedra, i quince metros si es de adobe u otro material.
-
-Esta última regla se seguirá respecto de los edificios que se construyan en la calle de las Delicias, en plazas, avenidas, parques, etc., pudiendo los edificios públicos elevarse hasta la altura de veinticinco metros.
-
-Se esceptúan de esta prescripcion los edificios cuyos propietarios los internen sobre la línea horizontal de la calle, en cuyo caso podrán dar a sus edificios la altura correspondiente al terreno que desocupan hacia el esterior
-
-En el cómputo de la elevacion se contará solo el de la pared esterior a la calle publica, desde su base a la línea recta que la termina, sin tomar en consideracion los techos, claraboyas, estátuas, jarrones o cualquiera superstructura que por via de adorno se coloque sobre las fachadas, cuyos adornos, en ningun caso, podrán tener una altura mayor de dos metros, cuando se les coloque en la línea vertical, de la calle.
-
-La línea de elevacion se contará desde la superficie de la acera esterior, deduciendo toda construccion subterránea hasta la línea recta superior de la pared esterior, sea que consista aquélla en cornisas balaustradas u otro remate análogo, cualquiera que sea el material de éste.
-
-Las prescripciones del presente artículo no rejirán respecto de los edificios en construccion a la fecha de la promulgacion de la presente leí.
+° Derogado.
 
 #### Artículo 7°
 
