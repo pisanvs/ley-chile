@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD ALE NASSER Y RODRIGUEZ CIA. LTDA. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 92, de 19 de Abril de 1982, de la Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad "Ale Nasser y Rodríguez Cía. Ltda., domiciliada en Santiago, para operar las naves denominadas "Tupungato", "Lonquimay", "Cristóbal Colón", "María Teresa" y "Arteta"; "Llo-Lleo"; "Eicomar I" y "Eicomar II", arrendadas a las sociedades "Pesquera San Antonio S.A.", "Alimentos Marinos S.A." y "Pesquera Eicomar Ltda.", respectivamente. La zona de operación de las naves será el litoral comprendido entre el paralelo 28º y 40º, de latitud Sur. Los recursos que podrá extraer son: jurel, sardina española, congrio, merluza, camarón, langostino amarillo, langostino colorado, locos, corvina y lenguado.-
+
+Pedro Pizarro Baltz, Subsecretario de Pesca.
