@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº244 de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº40-A, superficie 430,00 m2, Rol Nº2210-17, comuna de Osorno, X Región para la obra "Camino Ruta U-72, Sector Osorno-Huilma, tramo Km.0,000 a Km. 18,100" y se acordó el valor de indemnización con su propietario Eduardo Cárdenas Cárdenas, ascendente a la cantidad de $1.215.040.-
+
+Fiscal del Ministerio de Obras Públicas.
