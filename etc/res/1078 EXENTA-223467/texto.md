@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION Nº 1.078 EXENTA, DE 2004
+
+Res. Nº 1.078 exenta de fecha 2 de abril de 2004, dispone la inclusión en las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado extraordinario Título I 2003 y al llamado regular 2/2003 Título III del Sistema de Subsidio Habitacional Rural, de las personas que a continuación se indican, según Título, Región, Comuna cuando corresponde y Tipo de Postulación que en cada caso se menciona:
+
+NOTA: VER D.O. DEL 08.04.2004, PAGINA 11
+
+Como consecuencia de lo anterior, el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado extraordinario Título I 2003 del Sistema de Subsidio Habitacional Rural queda en 762 y el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados queda en 175.940 unidades de fomento (UF), y el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al llamado regular 2/2003 Título III del Sistema de Subsidio Habitacional Rural, queda en 207 y el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados queda en 17.595 unidades de fomento (UF). Los recursos que se comprometen como consecuencia de la inclusión en las nóminas de postulantes seleccionados correspondiente, de las personas señaladas anteriormente, se imputan a los dispuestos para el año 2004 para el otorgamiento de Certificados de Subsidio Habitacional del Sistema de Subsidio Habitacional Rural, autorizados por resolución exenta Nº36, de los Ministerios de Hacienda y de Vivienda y Urbanismo, de 2004, descontándose de los programas de las regiones respectivas.-
+
+Bernardo Garrido Valenzuela, Abogado, Ministro de Fe.
