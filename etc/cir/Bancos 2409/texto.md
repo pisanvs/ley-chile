@@ -9008,13 +9008,13 @@ a) Instrumentos financieros emitidos o garantizados por el Estado, entre los cua
 
 b) Títulos emitidos por el Banco Central de Chile,
 
-c) Instrumentos financieros emitidos por CORFO, ENAMI, INDAP y SERCOTEC,
+c) Instrumentos financieros emitidos por CORFO y ENAMI;
 
 d) Depósitos a plazo y otros títulos representativos de captaciones de empresas bancarias y sociedades financieras,
 
 e) Títulos garantizados por empresas bancarias y sociedades financieras, y, f) Letras de crédito emitidas por empresas bancarias y sociedades financieras
 
-Los instrumentos a que se refieren las letras c), d), e) y f) deberán estar clasificados en categoría A por la Comisión Clasificadora de Riesgo, conforme a lo establecido en el Artículo 104 del Título XI del DL N° 3500 y sus modificaciones.
+Los instrumentos a que se refieren las letras c), d), e) y f) deberán estar clasificados en categoría A de acuerdo con la clasificación que publique la Comisión Clasificadora de Riesgo, conforme a lo establecido en el Artículo 104 del Título XI del DL N° 3500 y sus modificaciones.
 
 ANEXO N° 1
 
@@ -17812,13 +17812,13 @@ MATERIA:
 
 LIMITE DE INVERSIONES EN LETRAS DE CREDITO DE PROPIA EMISION.
 
-De acuerdo con lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden invertir en instrumentos de propia emisión hasta una suma equivalente al 50% del capital pagado y reservas de la institución.
+De acuerdo con lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden invertir en instrumentos de propia emisión hasta una suma equivalente al 50% del capital básico de la institución.
 
-No obstante, se permite que las instituciones financieras excedan ese 50%, siempre que no sobrepasen el 100% del capital pagado y reservas, cuando el exceso corresponda a la adquisición de letras de crédito destinadas a financiar operaciones hipotecarias que hayan tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya finalidad hubiera sido el financiamiento de viviendas.
+No obstante, se permite que las instituciones financieras excedan ese 50%, siempre que no sobrepasen el 100% del capital básico, cuando el exceso corresponda a la adquisición de letras de crédito destinadas a financiar operaciones hipotecarias que hayan tenido por objeto pagar anticipadamente otras obligaciones hipotecarias cuya finalidad hubiera sido el financiamiento de viviendas.
 
 Para verificar el cumplimiento de límites de que se trata, se computará el valor de los instrumentos registrados en el activo, considerando los ajustes a su valor de mercado, de acuerdo con las instrucciones contables del Capítulo 8-21 de esta Recopilación.
 
-El capital pagado y reservas de la entidad financiera adquirente a la fecha de la inversión, se calculará de la forma señalada en el numeral 1.1 del Capítulo 12-1 de esta Recopilación Actualizada de Normas.
+El capital básico para estos efectos, corresponderá al monto conformado por el capital pagado, las reservas y las demás cuentas patrimoniales que, de acuerdo a las instrucciones contables de esta Superintendencia, deben incluirse en las partidas 43 05 a 4405, deducido el capital asignado a las sucursales en el exterior.
 
 CAPITULO 12-12 (Bancos y Financieras) MATERIA:
 
