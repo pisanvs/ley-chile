@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial N° 33.052 de 22 de Abril de 1988, se publicó el Decreto N° 99 que Modifica Decreto N° 175, de 1980, con los errores que se salvan a continuación: página seis, segunda columna, en el número 1, letra b, donde dice "...desde los lugares de descarga de las aguas afluentes y..." debe decir "...desde los lugares de descarga de las aguas de las aguas efluentes y..." y en la misma página y columna, en el número 2, donde dice "Efectuar tratamientos técnicos, físicos o químicos a los afluentes..." debe decir "Efectuar tratamientos técnicos, físicos o químicos a los efluentes...".
