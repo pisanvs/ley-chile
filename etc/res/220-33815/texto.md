@@ -1,0 +1,3 @@
+Por Resolución N° 220 de 25 Octubre 1994, del SERVIU V Región Valparaíso, se dispuso, conforme artículo 87 Ley 8.946, expropiación parcial de inmueble rol avalúo 86-11, calle Mina El Sauce, Cabildo, de dominio Alfredo Quiroz. Comisión Tasadora integrada por Sres. Osvaldo Muñoz Quintana, arquitecto, y Pablo Caria Giurici y Alvaro Verdejo Vidal, constructores civiles, según informe de 20 Septiembre 1994, fijó monto provisional indemnización en $551.040, que se pagará de contado.-
+
+Director Serviu V Región.
