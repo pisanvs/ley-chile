@@ -1,0 +1,7 @@
+Por Decreto MOP Nº 248, de 25 de agosto de 1989 y en base a la facultad otorgada por el artículo 105 del Decreto MOP No. 294, de 1984, que fijó el texto actualizado de la Ley No.
+
+15.840, se expropiaron los siguientes lotes de terreno para Avenida Américo Vespucio, sector Recoleta - Panamericana Norte, Región Metropolitana, cuyos propietarios, roles de avalúo, comuna, superficies, indemnizaciones y deslindes, son los que se indican: Lote No. 2: Soc. Buzeta Eichler y Cía. Ltda., 109-55, Quilicura, 2.870 m2., $ 8.229.500.- Norte: Resto del predio; Sur y Este: Faja fiscal Avda. Vespucio; Oeste: Camino público; Lote No. 5: Nelson Loyola Barros, 118-35, Quilicura, 9.450 m2., $ 36.000.000.- Noreste: Resto del predio; Sur: Camino público; Este:
+
+Vértice deslindes Noreste y Sur; Oeste: Ruta 5 Norte; Lote No. 7: Cía. Minera y Com. Ltda., 2121-20, Renca, 744 m2., $ 2.766.900.- Norte: Convergencia de deslindes este y oeste; Sur y Oeste: Resto del predio; Este: Camino público. La Comisión de Peritos compuesta por los señores Roberto Correa Bezanilla e Isaac Faiguenbaum Arcavi y señora Teresa Sancho Pernas, fijó con fecha 28 de abril de 1989, los valores provisionales antes indicados. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley No. 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
