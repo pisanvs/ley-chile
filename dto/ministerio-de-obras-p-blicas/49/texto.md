@@ -1,0 +1,3 @@
+Por Decretos MOP. N°s 47, 49 y 57, de 23 y 25 de febrero de 1993, se expropiaron los lotes de terreno N°s. 48-A, 29-A y 48-D, superficies 211m2., 657m2. y 58m2., respectivamente, roles de avalúo 547-26, 548-13 y 547-26, Comuna de Santa Cruz, para la obra Mejoramiento Camino Santa Cruz-Lolol-Bucalemu, II Etapa, sectores Santa Cruz-Cuesta La Lajuela y Santa Cruz-Los Maitenes, y se acordó precio de indemnización con sus propietarios Juan Manuel Becerra Miranda, Orfelina Lira Fredes e Ilka Leonor del C. Zúñiga Acevedo, ascendente a las cantidades de $321.297.-, $6.887.375.- y $235.229.-
+
+Fiscal del Ministerio de Obras Públicas.
