@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.420, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 95, superficie 439 m², Rol de Avalúo 520-92, comuna de Parral, VII Región, para la obra ''Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 al 23,400.00'' y se acordó el valor de indemnización con su propietario don Anselmo David Alfaro Ortega y Otro, ascendente a la cantidad de $1.002.344.
+
+- Fiscal del Ministerio de Obras Públicas.
