@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.520, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs. 16 y 19, superficies 211 y 573 M2., roles de avalúo 436-12 y 436-15, comuna de Concepción, para la obra Mejoramiento Autopista Concepción-Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio con sus propietarios Alejandro Cruz Saavedra y Juan Segundo Cruz Saavedra, ascendente a la cantidad de $30.278.040 y $72.412.090.
+
+Fiscal del Ministerio de Obras Públicas.
