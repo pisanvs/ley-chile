@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 457, de 28 de junio de 1996, se expropiaron los lotes de terreno Nºs. 43, 44, 46, 49 y 55, superficies 2.708 m2., 7.434 m2., 4.649 m2., 3.128 m2. y 169 m2., roles de avalúo 2229-62, 2229-61, 2229-55, 2229-126 y 2229-137, comuna de Chillán, para la obra Camino Acceso Norte a Concepción y se acordó el valor de indemnización con sus propietarios Gladys Ester Contreras Sepúlveda, Juan Félix San Martín Paredes, Carlos Alfonso Torres Contreras, Petronila Contreras Osorio y María Teresa Betancur Quiroga, ascendente a las cantidades de $3.941.222.-, $6.731.374.-, $36.717.393.-, $3.141.695.-y $452.132.-, respectivamente.
+
+- Fiscal del Ministerio de Obras Públicas.
