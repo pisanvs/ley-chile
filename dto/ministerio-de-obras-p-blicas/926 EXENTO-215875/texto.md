@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 926 de fecha 29 de agosto de 2003, se expropiaron los lotes de terreno Nos 62-A y 63-A, superficies 126 m² y 218 m², sin rol de avalúo, comuna de Alto del Carmen, para la obra "Camino Ruta C-489, Sector Alto del Carmen-El Corral, Tramo Km. 0,000 al Km. 70,000, Etapa II" III Región y se acordó el valor de la indemnización con su propietaria Fresia Nelly González Morales y otros, ascendente a la cantidad de $1.433.865.
+
+Fiscal del Ministerio de Obras Públicas.
