@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.322, de 30 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº101, para la obra Concesión Internacional Ruta 5. Tramo: Santiago Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Tasso Lira Silvia R., rol de avalúo 654-5, comuna de Buin, superficie 2.035 m2. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Marlen Teresa Ríos Marcuello y Maria Pilar Quiroga González, fijó con fecha 18 de abril de 2000, el valor provisional de la indemnización en la cantidad de $21.981.343.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
