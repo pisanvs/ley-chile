@@ -1,0 +1,7 @@
+Por resolución Nº757, de 13 de abril de 2000, de esta Subsecretaría de Pesca, autorízase a JUAN NEIRA ALTAMIRANO, para ampliar actividades pesqueras extractivas, en orden a operar la nave ''Guanilén II'', en el litoral que se indica, donde podrá capturar los recursos hidrobiológicos que en cada caso se señalan:
+
+a) Litoral de la VIII a XI Regiones, por fuera del área de reserva artesanal, donde corresponda, con espinel, sobre el recurso hidrobiológico Bacalao de profundidad.
+
+b) Litoral de la X a XI Regiones, por fuera del área de reserva artesanal, donde corresponda, con trampas, sobre el recurso hidrobiológico Centolla y Centollón. Deniégase la autorización solicitada respecto de los recursos Bacalao de Juan Fernández y Jaiba, solicitados en la VIII a XI Regiones, los recursos Congrio colorado, Congrio negro y Congrio dorado, en el área de la VIII Región al paralelo 41°28,6' L.S. y del paralelo 41°28,6' L.S. al límite sur de la XI Región, los recursos Raya, Merluza común y Merluza de cola en el área de la VIII Región al paralelo 41°28,6' L.S., respecto de los recursos Sardina común, Sardina española y Anchoveta, en el litoral de la XI y XII Regiones, sin perjuicio de lo dispuesto en la resolución Nº1.283 de 1998, de esta Subsecretaría referente a la operación en la XI y XII Regiones, conforme lo dispuesto en el artículo 19, letras a), c), y e) y el artículo 47 del DS Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de abril de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
