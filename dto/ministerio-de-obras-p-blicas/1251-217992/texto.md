@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 1.251, de 30 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 se expropió para el Fisco el lote de terreno Nº 48, para la obra Camino San Fernando-Roma, Rol I-301, I-255; I-151, Km. 0,000 a Km.
+
+10,954264, que figuran a nombre de Carreño Vidal Edison y Otros, Rol de avalúo 284-26, comuna de San Fernando, VI Región superficie 3.319 m2. La Comisión de Peritos, fijó con fecha 20 de septiembre de 2000, el monto de la indemnización provisional en la cantidad $12.447.500.- para el lote Nº 48. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
