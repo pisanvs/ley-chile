@@ -1,0 +1,7 @@
+﻿CONGRESO NACIONAL DE PLENIPOTENCIARIOS.
+
+Santiago, Setiembre 30 de 1830.
+
+A S.E. el Vice-Presidente de la República. Cuando los pacíficos pueblos de la República alzaron un grito de indignacion contra las infracciones que jamás viéramos, en las elecciones constitucionales, y en las cámaras lejislativas del año anterior, todas las provincias se pusieron de hecho independientes; y vino enseguida una guerra civil, provocada y sostenida por los obstinados autores de tanta nulidad e infraccion. Triunfó como era de esperar la causa del órden y de la justicia, y entónces las provincias nombraron este Congreso de plenipotenciarios para restablecer el pacto de union y el imperio de la Constitucion y de las leyes. Como uno de los medios de cumplir y asegurar tan sagrados objetos, se autorizó a S. E. el Vice-Presidente de la República en 7 de marzo último para que pudiese separar del pais a los desorganizadores que trabajaban en su ruina, y si la nota llevó la calidad de reservada, solo fué para que el Gobierno preparase medidas y tomase providencias que no pudiesen burlarse despues de su publicacion; puede pues S. E. mandarla publicar y tambien el juramento que se prestó en la sala, como lo propone en su nota de 27 del presente. -
+
+El Vice-Presidente que suscribe saluda S. E. el Vice-Presidente de la República. - F. A. ELIZALDE. - Manuel Camilo Vial, Secretario interino.
