@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.687, de fecha 31 de octubre del 2001, se expropiaron los lotes de terreno Nº 8, 9 y 10, superficies 3.431, 2.377 y 14.595 m², rol de avalúo 480-162, comuna de Yungay, para la obra "Area de Riego Los Puquios, Canal Los Puquios", VIII Región y se acordó el valor de indemnización con su propietario José Evangelista Sepúlveda Lagos, ascendente a la cantidad de $9.984.946.
+
+Fiscal del Ministerio de Obras Públicas.
