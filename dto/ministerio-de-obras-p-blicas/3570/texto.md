@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.570 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº38, superficie 391 m2, rol de avalúo 451-60, comuna de Chimbarongo, para la obra "Concesión Internacional Ruta 5 Tramo Santiago - Talca, Sector I: Km. 140.850,00 a Km. 151.500,00" y se acordó el valor de indemnización con su propietario Octavio Ismael Jara Calderón, ascendente a la cantidad de $884.959.-
+
+Fiscal del Ministerio de Obras Públicas.
