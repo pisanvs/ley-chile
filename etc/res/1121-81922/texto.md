@@ -1,0 +1,3 @@
+Por resolución N°. 1.121 de 03 de Septiembre de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N°. 1787, de 1989, de esta Subsecretaría, que autorizó a PESQUERA BAHIA AZUL S.A., RUT N°. 96.555.260-K, domiciliada en Vitacura N°. 5480, Of. 23, Santiago, para ampliar actividades extractivas, de conformidad con lo dispuesto en el Art. 7° del DS N°. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 03 de Septiembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
