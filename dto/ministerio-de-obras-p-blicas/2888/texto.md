@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.888, de 31 de diciembre de 1998, se expropiaron los lotes de terreno Nºs. 5-A y 39, superficies 1.401,78 y 4.509 M2. respectivamente, roles de avalúo 9317-265 y 9317-106, comuna de Valparaíso, para la obra: Habilitación Nuevo Camino La Pólvora Etapa I, Sector Ruta 68, Acceso Sur a Valparaíso Camino La Pólvora Rol F-724 F-730, Sector Placilla - Puertas Negras y se acordó precio de indemnización con sus propietarios Eugenia Barrales Donoso y otro y Gladys Violeta Guzmán Rojas y otros, ascendentes a la cantidad de $10.418.338.- para el lote 5-A y $13.819.519.- para el lote 39.-
+
+Fiscal del Ministerio de Obras Públicas.
