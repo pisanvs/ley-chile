@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.802, de 31 de octubre del 2000, se expropió el lote de terreno Nº132-B30, superficie 409 m2., rol de avalúo 107-31, comuna de Pemuco, para bra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Comité Sin Casa Progreso Santa Isabel, ascendente a la cantidad de $2.271.995.-
+
+Fiscal del Ministerio de Obras Públicas.
