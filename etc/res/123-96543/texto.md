@@ -1,0 +1,7 @@
+Por Resolución No. 123, de 29 de Enero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción se autoriza a PESQUERA SANTO DOMINGO S.A., R.U.T. No. 96.513.210-4, domiciliada en la ciudad de San Antonio, para ampliar las actividades pesqueras que tiene autorizadas por Resoluciones No. 306, de 1987, y No. 1.205, de 1988, ambas de esta Subsecretaría, en orden a incluir en las líneas de proceso de congelado y frescoenfriado de la planta industrial que tiene autorizada por las Resoluciones No. 306 y No. 1.205, antes citadas, la elaboración de los siguientes recursos hidrobiológicos: Agujilla, Anguila, Cabinza, Cabrilla común, Lenguado de ojos grandes, Machuelo o tritre, Merluza de cola, Merluza de tres aletas, Puye, Caracol tegula, Culengue, Ostra chilena, Ostra del Pacífico, Picoroco, Piure, Cochayuyo, Luche y Pelillo.
+
+El recurso Ostra del Pacífico deberá provenir de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Enero de 1991.- Andrés Couve Rioseco Subsecretario de Pesca.
