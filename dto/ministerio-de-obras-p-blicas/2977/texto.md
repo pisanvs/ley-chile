@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.977, de 30 de septiembre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº11, para la obra Camino Ruta L-55, sector Chalet Quemado-Quinta, tramo Km.
+
+11.860,99 al 19.272, que figura a nombre de Ricardo Ernesto Soto Campos, rol de avalúo 202-10, comuna de Longaví, VII Región, superficie 63 m2. La Comisión de Peritos, compuesta por los señores Renato Guerra Estévez, Carlos Sottolichio Díaz e Iván Correa Opazo, fijó con fecha 1º de abril de 1997, en la cantidad de $28.350. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
