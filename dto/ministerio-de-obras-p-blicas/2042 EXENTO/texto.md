@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 2.042 de 31 de diciembre de 2001, se expropió el lote de terreno Nº 9, superficie 196 m², rol de avalúo 374-82, comuna de El Quisco, para la obra Red Vial Litoral Central, Sector 1: Nuevo Camino Costero. Acceso a Punta de Tralca Kms 0.000,00 al 5.622,00, Quinta Región y se acordó el valor de indemnización con su propietaria María Verónica Barriga Sanhueza, ascendente a la cantidad de $704.912.-.
+
+Fiscal del Ministerio de Obras Públicas.
