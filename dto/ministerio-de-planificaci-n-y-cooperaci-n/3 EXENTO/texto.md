@@ -1,0 +1,11 @@
+DISPONE DIVERSAS MEDIDAS EXTRAORDINARIAS DE CARACTER ADMINISTRATIVO PARA EL FONDO DE SOLIDARIDAD E INVERSION SOCIAL POR ESTADO DE CATASTROFE EN ZONA QUE INDICA Santiago, 29 de Agosto de 1991.- Hoy se decretó lo que sigue: Núm. 3 exento.- Vistos: Lo dispuesto en el artículo 32, N° 8 de la Constitución Política de la República de Chile; los artículos 9° y 10 de la Ley N° 18.425; la Ley N° 18.989; artículo 3° del Decreto Supremo N° 104 de 1977, del Ministerio del Interior que fijó el texto refundido, coordinado y sistematizado del Título I de la Ley N° 16.282 y el Decreto Supremo N° 821 de 1991, del Ministerio del Interior, y Teniendo presente: La urgente necesidad de acudir en ayuda inmediata de los damnificados por la catástrofe que aflige a los habitantes de las comunas de Río Ibáñez y Chile Chico, y Que el señor Director Ejecutivo del FOSIS ha solicitado autorización para que el Servicio pueda invertir hasta la suma de $ 100.000.000 (cien millones de pesos) en ayuda a damnificados de la zona que indica. Decreto:
+
+1° Pónese a disposición del Secretario Regional Ministerial de Planificación y Coordinación de la XI Región, la suma de hasta $ 100.000.000.- (cien millones), para que la destine al financiamiento de operaciones de emergencia en las comunas de Río Ibáñez y Chile Chico, de conformidad a las instrucciones que le imparta el Director Ejecutivo del FOSIS.
+
+2° El funcionario antes mencionado deberá administrar estos recursos en cuenta corriente fiscal separada, y rendir cuenta documentada de su inversión, ajustándose a las instrucciones que imparta el Director Ejecutivo del FOSIS.
+
+3° Impútese el gasto que demande el presente decreto al Item correspondiente del Fondo de Solidaridad e Inversión Social.
+
+Anótese y comuníquese.- Por orden del Presidente de la República.- Alvaro García Hurtado, Ministro de Planificación y Cooperación (S).- Enrique Krauss Rusque, Ministro del Interior.
+
+Lo que transcribo a Ud.- para su conocimiento.- Alfonso Laso Barros, Subsecretario de Planificación y Cooperación (S).
