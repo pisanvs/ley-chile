@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.298, de 31 de mayo de 1999, se expropiaron los lotes de terreno Nºs.4-H, 45-B y 46-B, superficies 120 m2, 2.076 m2 y 348 m2, roles de avalúo 1226-100, Comuna de Cabrero y 201-33 Comuna de Yumbel, para la obra Camino Ruta 0-60, sector Monteáguila-Yumbel, y se acordó precio de indemnización con sus propietarios Exequiel Gutiérrez Cabezas e Irma Jenoveva Escobar Ulloa, ascendente a las cantidades de $230.436 para el lote 4-H y $1.027.205 para los lotes Nºs.45-B y 46-B.-
+
+Fiscal del Ministerio de Obras Públicas.
