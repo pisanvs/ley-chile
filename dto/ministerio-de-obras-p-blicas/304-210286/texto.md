@@ -1,0 +1,3 @@
+Por decreto MOP Nº304, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº1-D, superficie 4.670,00 m2., rol de avalúo 144-46, comuna de Cochamó, para la obra "Construcción Puente Río Puelo y Accesos, Sector Río Puelo, Km. 27.865 a Km. 29.500" , X Región y se acordó el valor de indemnización con su propietario Jorge Luis García Van Gein, ascendente a la cantidad de $3.408.640.-
+
+Fiscal del Ministerio de Obras Públicas.
