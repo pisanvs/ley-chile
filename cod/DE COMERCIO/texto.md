@@ -6536,6 +6536,10 @@ Para estos efectos, el concepto de nave incluirá los artefactos navales que pue
 
 Estas normas tendrán también aplicación cuando los hechos ocurran en aguas fluviales, lacustres o cualquier otra vía navegable.
 
+#### Artículo 1117
+
+Se aplicarán también las reglas de este párrafo, a los daños por abordaje que ocurra entre naves pertenecientes a un mismo dueño o sometidas a una misma administración.
+
 #### Artículo 1118
 
 En todo abordaje se aplicará la ley del Estado en cuyas aguas jurisdiccionales ocurrió.
@@ -7017,6 +7021,20 @@ Existirá pérdida total real o efectiva, cuando el objeto asegurado quede compl
 #### Artículo 1188
 
 Si transcurrido un plazo razonable, no se han recibido noticias de una nave, se presumirá su pérdida total efectiva y la de su cargamento.
+
+#### Artículo 1189
+
+Salvo que la póliza disponga otra cosa, existirá pérdida total asimilada, cuando el objeto asegurado sea razonablemente abandonado, ya sea porque la pérdida total efectiva parezca inevitable o porque no es posible evitar su pérdida, sin incurrir en un gasto que exceda del valor de dicho objeto después de efectuado el desembolso.
+
+Se considerarán como de pérdida total asimilada, en especial, los siguientes casos:
+
+1º Cuando el asegurado sea privado de la nave o de las mercancías a causa de un riesgo cubierto por la póliza y sea improbable que pueda recuperarlas o el costo de la recuperación exceda al valor de la nave o de las mercancías una vez recuperadas;
+
+2º Cuando el daño causado a una nave por un riesgo asegurado, sea de tal magnitud que el costo de repararla exceda al valor de esa nave, una vez reparada. Al estimarse el costo de reparación, no se hará deducción alguna por contribuciones de avería gruesa a esas reparaciones, de cargo de otros intereses. Pero se tomarán en cuenta los gastos de futuras operaciones de salvamento y de cualquier futura contribución de avería gruesa que afectaría a la nave, al ser reparada, y
+
+3º Cuando el costo de su reparación y los de reexpedición a su destino, excedan al valor de ellas en la fecha de arribo a su destino, si se trata de daños a las mercancías o carga.
+
+> **Nota.** El artículo Sexto de la LEY 18680, publicada el 11.01.1988, dispone que la sustitución de este artículo entrará en vigencia seis meses después de su publicación.
 
 #### Artículo 1190
 
