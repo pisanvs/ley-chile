@@ -1,0 +1,3 @@
+Por resolución Nº 771, de 20 de abril de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99103244, presentada por INVERTEC PESQUERA MAR DE CHILOE S.A., para instalar y operar el centro de cultivo ubicado al norte de Punta Negra, Isla Chulín, Comuna de Chaitén, Provincia de Palena, X Región.
+
+Valparaíso, 20 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
