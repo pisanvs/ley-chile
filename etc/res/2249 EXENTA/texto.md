@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE COLBUN
+
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 2.249 de fecha 22 de Diciembre de 1988, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado, Predios "Hijuela Número Tres del Fundo San Nicolás" y "Lote La Montaña de la Hijuela Quinta de la Hacienda Colbún de la Comuna de Colbún, VII Región y de Derechos de Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 40, sitios N°s. 1 al 49 y Reserva Cora N° 1 del Proyecto de Parcelación "San Nicolás de Colbún", formado por predios señalados y otros. Los Derechos de Aguas se extraen de los canales San Nicolás, Babilonia, Canal Hueso y Canal Matanza Rari. Publicación hecha conforme Art. 13 de la Ley N° 18.377.
+
+Director Ejecutivo.
