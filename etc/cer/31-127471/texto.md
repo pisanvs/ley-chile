@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD NATURAL RESPONSE S.A.
+
+Núm. 31.- Certifico que Sociedad Natural Response S.A., RUT Nº 96.768.300-0, cumple los requisitos establecidos en la resolución Nº 5.101 de 31.08.98 y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado por las compras de Productos Silvestres que efectúe, entendiendo por tales, rosa mosqueta, mora, hongos, frutos de espino, hojas de boldo, tilo, manzanilla, llantén, toronjil, cedrón, hierbas pectorales, romero, hojas y corteza de quillay, hierbas de hipérico y cera de abeja, durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial y el 31 de agosto de 1999.
+
+Valparaíso, 17 de noviembre de 1998.- Francisco Cárcamo Avendaño, Director Regional.
