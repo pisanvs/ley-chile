@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.780, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 29-A, 30-A, 30-B, 32-A, 33-A y 34-A, superficies 248, 1.024, 397, 222, 591 y 2.433 m2., respectivamente, Rol de avalúo 24-34, comuna de Navidad, para la obra Camino Ruta G-880, Sector Rapel - Navidad - La Boca, Tramo Km. 0.000,00 a Km. 16.680,00 y se acordó precio de la indemnización con su propietario Fermín Horacio Reyes Rubio, ascendente a la cantidad de $4.363.859.
+
+- Fiscal del Ministerio de Obras Públicas.
