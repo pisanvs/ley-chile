@@ -1,0 +1,65 @@
+Reorganiza Empresa Periodística "La Nación" Núm.111.- Santiago, 30 de Junio de 1932.-
+
+La Junta de Gobierno, ha dictado el siguiente Decreto-ley:
+
+#### Artículo 1
+
+o Derógase el decreto con fuerza de ley número 241, de 15 de Mayo de 1931, y todas las demás disposiciones que se hubieren dictado hasta ahora referente a la Empresa Periodística "La Nación".
+
+#### Artículo 2
+
+o La Empresa Periodística "La Nación", tendrá personalidad jurídica, su domicilio será la ciudad de Santiago, sus bienes y capital los de la actual Empresa, y su objeto editar los diarios "La Nación", "Los Tiempos", el "Diario Oficial", y otras publicaciones que se estimen convenientes, y ejecutar trabajos de imprenta en general.
+
+#### Artículo 3
+
+o Mientras el Gobierno adopta una resolución definitiva sobre la futura marcha y organización de esta Empresa, su actual giro queda entregado a un Consejo Técnico compuesto de un Presidente, cuatro Consejeros y un Secretario, de nombramiento del Presidente de la República.
+
+Uno de estos Consejeros tendrá el carácter de Gerente; otro de Director; un tercero de Asesor Técnico; y el último de Asesor Jurídico, y serán designados por el Presidente de la República.
+
+#### Artículo 4
+
+o El Consejo tendrá a su cargo no sólo lo concerniente a la administración general de la Empresa, sino también las facultades y obligaciones que siguen:
+
+1.o Reorganizar la actual Empresa, aprobar su Presupuesto, determinar la planta de empleados y fijar sus remuneraciones;
+
+2.o Estudiar y proponer dentro del plazo de noventa días a contar desde esta fecha, el financiamiento y la futura organización que el Estado desee darle a la Empresa, ya sea como entidad socializada, simplemente dependiente del Estado o de acuerdo con cualquiera otra modalidad;
+
+3.o Dirigir y resolver todos los asunto; económicos, administrativos y cualesquiera otros inherentes a la marcha de la Empresa; y
+
+4.o Arrendar, enajenar o gravar los bienes de la Empresa.
+
+Los acuerdos del Consejo serán por mayoría; sin embargo, los que apruebe con respecto al punto 4.o de este artículo y que signifiquen actos cuyos valor exceda de cincuenta mil pesos, deberán ser ratificados para su plena validez, por el Ejecutivo.
+
+#### Artículo 5
+
+o Las facultades y funciones especiales correspondientes a los cargos que ocuparán dentro de la Empresa cada uno de los miembros del Consejo, como asimismo la reglamentación a que deberá sujetarse el resto del personal, serán fijados por el mismo Consejo.
+
+La orientación política y social de los diarios que edite la Empresa, la darán el Presidente del Consejo y el Director.
+
+#### Artículo 6
+
+o El nombramiento del personal, ya sea de planta o a contrata, lo hará el Presidente a propuesta del Director cuando se trate de empleados de redacción, y del Gerente cuando se trate de empleados de Administración o del personal de obreros.
+
+#### Artículo 7
+
+o Las remuneraciones anuales de que gozarán los miembros del Consejo, serán las siguientes:
+
+Presidente_____________________________ $ 24,000
+
+Consejero director_____________________ 36,000
+
+Consejero asesor técnico_______________ 12,000
+
+Consejero gerente______________________ 36,000
+
+Consejero asesor jurídico______________ 12,000
+
+Secretario del Consejo_________________ 6,000
+
+#### Artículo 8
+
+o Este decreto-ley empezará a regir desde la fecha de su publicación en el Diario Oficial.
+
+Tómese razón, comuníquese, publíquese e insértese en el Boletín de las Leyes y Decretos del Gobierno.- CARLOS DAVILA.- Nolasco Cárdenas.- J. E. Peña Villalón.- J. A.
+
+Ríos M.
