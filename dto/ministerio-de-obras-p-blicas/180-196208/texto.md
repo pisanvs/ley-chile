@@ -1,0 +1,3 @@
+Por decreto MOP Nº 180 de 28 de febrero de 2002, se expropió el lote de terreno Nº 15-A, superficie 1.965 m2., rol de avalúo 620-16, comuna de El Tabo, para la obra Red Vial Litoral Central, Sector 1: Nuevo Camino Costero: Acceso a Las Cruces Kms. 0.000,00 al 3.000,00, Quinta Región y se acordó el valor de indemnización con su propietario Soc. Minera Los Cisnes Limitada., ascendente a la cantidad de $2.085.757.
+
+- Fiscal del Ministerio de Obras Públicas.
