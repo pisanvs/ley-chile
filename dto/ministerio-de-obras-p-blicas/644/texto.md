@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 644, de fecha 26 de diciembre de 1994, se expropió el lote N°12, superficie 4.123 m2., rol de avalúo 3130-122, Comuna de Huechuraba, para la obra Avenida Américo Vespucio, sector Recoleta - Independencia Kms. 1.070 al 3.988 y se acordó valor de la indemnización con su propietaria María Luisa Tasso Miranda, ascendente a la cantidad de $ 54.079.150.-
+
+Fiscal del Ministerio de Obras Públicas.
