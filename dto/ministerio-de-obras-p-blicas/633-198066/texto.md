@@ -1,0 +1,3 @@
+Por decreto MOP Nº633, de 28 de marzo de 2002, se expropió el lote de terreno Nº107-B1, superficie 296 m², rol de avalúo 136-768, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca, Sector B Km. 42.950,00 al Km. 55.200,00, Región Metropolitana, se acordó el valor de la indemnización con su propietario Patricio Alejandro Moya González, ascendente a la cantidad de $2.895.800.-
+
+Fiscal del Ministerio de Obras Públicas.
