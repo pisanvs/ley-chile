@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.074, de 30 de julio de 1999, se expropió el lote de terreno Nº195-A, superficie 1.201,0 m², rol de avalúo 386-5, comuna de Loncoche, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Novena Región y se acordó el valor de indemnización con su propietario Oscar López San Martín, ascendente a la cantidad de $38.337.477.-
+
+Fiscal del Ministerio de Obras Públicas.
