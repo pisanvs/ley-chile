@@ -1,0 +1,3 @@
+Resolución 352, 13 diciembre 1993, SERVIU Región del Bío Bío ordenó expropiación total, conforme art. 51 Ley 16.391, y D.L. 2186 de 1978, para programa obras infraestructura, inmueble ubicado en Arturo Prat N° 1521, rol de avalúos N° 618-26, comuna de Concepción, aparente dominio de Eloy Herrera Condeza. Comisión integrada por Peritos Sres. Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 03 de diciembre de 1993, fijó monto provisional indemnización en $10.084.000, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
