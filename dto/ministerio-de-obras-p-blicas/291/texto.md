@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°s.291 y 299, de fechas 20 y 23 de septiembre de 1993, se expropiaron los lotes de terreno N°s. 11-B, 3, 5, 6 y 7, superficies 588,30 M2., 173 M2., 728 M2., 2.410 M2. y 460 M2., respectivamente, roles de avalúos 296-1, 293-32 y 307-8, Comuna de San Fernando, para la obra Camino San Fernando Puente Negro, sector San Fernando Puente Negro y se acordó precio de indemnización con sus propietarios Carlos Arenas Yáñez, Jesús Bartolomé Pérez y otro y Darío Pollini Leiva ascendente a las cantidades de $1.089.068, $952.499 y $3.235.739.-
+
+Fiscal del Ministerio de Obras Públicas.
