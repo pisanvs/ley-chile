@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.059, de 31 de agosto del 2000, se expropió el lote de terreno Nº32, superficie 2.956 m², rol de avalúo 125-12, comuna de Machalí, para la obra Camino Caletones-Termas de Cauquenes, Conexión Ruta 5 Sur, Roles H-255; H-35 y H-405, Sector Coya-Gultro, Km. 0,00000 a Km. 28,38019 y se acordó precio de la indemnización con su propietario Julio César González Maturana, ascendente a la cantidad de $4.736.550.
+
+Fiscal del Ministerio de Obras Públicas.
