@@ -1,0 +1,3 @@
+Por resolución Nº 675, de 4 de abril de 2002, de esta Subsecretaría, autorízase a INDUSTRIAL COQUIMBO S.A., RUT Nº 96.940.000-6, domiciliada en Camino al Fuerte s/n, península de Coquimbo, Coquimbo, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Sarpesca S.A., RUT Nº 96.539.160-6, autorizada por resolución Nº 387 de 2001, de esta Subsecretaría.
+
+Valparaíso, 4 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
