@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.167, de fecha 31 de julio del 2001, se expropiaron los lotes de terreno Nº 45-A y 50-A, superficies 6.665,1 y 3.160 m², respectivamente, rol de avalúo Nº 2204-80, comuna de Puerto Montt, para la obra ''Camino Ruta 7 Chamiza - Quillaipe, Km. 4,83687 a Km. 15,84700'' y se acordó el valor de indemnización con su propietario Mario Olavarría Guerrero, ascendente a la cantidad de $ 14.098.243.
+
+Fiscal del Ministerio de Obras Públicas.
