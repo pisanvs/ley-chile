@@ -1,0 +1,3 @@
+Por Resolución No. 928 de 29 de Noviembre de 1991 de SERVIU Metropolitano ordenóse expropiación, conforme DL No. 2.186 de 1978, inmueble ubicado en Avenida Ecuador No. 5180 y Avenida Las Rejas S/N° , presunto rol de avalúos No. 547-023 Comuna Estación Central aparente dominio de Sucesión Rojas Adasme. Comisión integrada por peritos Sres. Sergio Rojas Ibáñez ingeniero civil, Fernando Merino de la Cerda y Roberto Correa Bezanila, arquitectos, según informe de 12 de Agosto de 1991, fijó monto provisional indemnización en $ 8.061.240.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
