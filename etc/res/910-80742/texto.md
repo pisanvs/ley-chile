@@ -1,0 +1,3 @@
+Por resolución No. 910 de 12 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 1° de la resolución No. 460, de 1991, de esta Subsecretaría, que autorizó a don OSVALDO CRISTIAN KOLBACH FRUGONE, domiciliado en Avda. España No. 501 interior, Valdivia, para ampliar actividades pesqueras extractivas, en el sentido de precisar que el R.U.T. del interesado es el No. 6.952.994-1, y no el que se consignó en dicha resolución.
+
+Valparaíso, 12 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
