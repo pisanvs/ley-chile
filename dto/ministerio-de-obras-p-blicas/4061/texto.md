@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.061, de fecha 31 de agosto de 2000, se expropió el lote de terreno Nº4, superficie 819,31 M2, rol de avalúo 21-1, comuna de Tierra Amarilla, para la obra ''Mejoramiento Ruta C-35 Sector Paipote - Cerrillos, Tramo Km. 0,000 a Km. 20,000'' y se acordó el valor de indemnización con su propietario Luis Revello Valencia, ascendente a la cantidad de $1.723.943.
+
+Fiscal del Ministerio de Obras Públicas.
