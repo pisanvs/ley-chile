@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 607, de 30 de junio de 1997, se expropió el lote de terreno Nº 2, superficie 60 M2., rol de avalúo 204-96, comuna de Chimbarongo, para la obra Construcción Pasarela en Ruta 5 Sur VI Región, Sector Pasarela Peatonal Chimbarongo Carretera Longitudinal 5 Sur y se acordó precio de indemnización con su propietario Agustín Araya Díaz, ascendente a la cantidad de $3.309.560.
+
+Fiscal del Ministerio de Obras Públicas.
