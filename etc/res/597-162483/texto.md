@@ -1,0 +1,7 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución N° 597, de 25 de Septiembre de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara, conforme al Art.
+
+7° del decreto 175, de 1980, del Ministerio citado, la caducidad de las siguientes resoluciones: Res. N° 255 de 1981, que auto rizó a don Baldomero Cácamo Contreras, C.I. N° 5.180.568-2 de Castro, para instalar y operar un cultivo de chorito quilmahue, en la localidad de Estero Huildad, comuna de Quellón, X Región.- Res. N° 340, de 1982, modificada por la Res, N° 99, de 1983, que autorizó a don Juan Morales Torres, RUT. 5.652.441-8, para, instalar y operar un establecimiento de cultivo de alga Gracilaria spp., en el sector de El Bolsón, Bahía de Coliumo, comuna de Tomé, VIII Región.- Res. N° 457, de 1983, que autorizó al Sindicato de Trabajadores Independientes Recolectores de Algas, del sector Pupelde, para instalar y operar un establecimiento de cultivo de alga Gracilaria, en el sector Las Cuevas, Río Pudeto, comuna de Ancud, X Región, en una superficie de 200.000 m2. Res. N° 477, de 1983, que autorizó a don Pedro Veganzones Cáceres, C.I. de extranjería N° 5.397.988-2 de Ancud, para instalar y operar un establecimiento de cultivo de algas Gracilaria y de ostra chilena, en Ensenada de Punta de Punta de Nagle, Golfo de Quetalmahue, Ancud, X Región, en una superficie de 20.000 m2.
+
+Valparaíso, 25 de Septiembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
