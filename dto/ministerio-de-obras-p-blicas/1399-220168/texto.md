@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.399, de 28 de noviembre de 2003, se expropió el lote de terreno Nº 22-1, superficie 839 m², rol de avalúo 154-224, comuna de Casablanca, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar: Camino El Carmen, Km. -0.300,00 a Km. 0.860,00. Quinta Región y se acordó el valor de indemnización con su propietario Gustavo Alejandro Hidalgo Núñez, ascendente a la cantidad de $3.432.545.
+
+Fiscal del Ministerio de Obras Públicas.
