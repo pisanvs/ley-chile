@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.140, de 25 de noviembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 48, para la obra:
+
+"Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Av. Grecia. Sector 5: Av. Vicuña Mackenna - Av. Grecia", Región Metropolitana, que figura a nombre de I. Municipalidad de Peñalolén, rol de avalúo en tramite, comuna de Peñalolen, superficie 1.134 m². La comisión de peritos integrada por los señores Carmen Pilar Ríos Marcuello, Franco Alejandro Salinas González y Enrique Luis Figueroa Echeverría, fijó con fecha 3 de diciembre de 2001, el valor provisional de la indemnización en la cantidad de $133.019.000.- La indemnización se pagará al contado. La se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
