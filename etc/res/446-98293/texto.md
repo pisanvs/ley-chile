@@ -1,0 +1,3 @@
+Por resolución Nº446, del 6 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA Y CONSERVERA REAL LIMITADA, para ampliar actividades pesqueras autorizadas por resolución Nº1.118, de 1995 de esta Subsecretaría, en orden a incorporar a la planta ubicada en Juan Williams Nº11810, camino Río Seco, Punta Arenas, XII Región, en las líneas de elaboración que se indican los siguientes recursos hidrobiológicos: Conserva, Congelado y Deshidratado: Caracol pintado, Caracol piquilhue, Caracol común y Caracol atigrado.
+
+Valparaíso, 6 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
