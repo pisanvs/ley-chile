@@ -1,0 +1,9 @@
+Por resolución No. 79, de 30 de enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LARUS LTDA., R.U.T.
+
+No. 78.106.990-6, domiciliada en la ciudad de Concepción, para iniciar actividades pesqueras, en orden a instalar y operar una planta industrial ubicada en calle Coquimbo No. 123, Chiguayante, Concepción, donde podrá procesar en la línea de elaboración de conservas, los siguientes recursos hidrobiológicos: Albacora o Pez espada, Anchoa o Anchoveta, Bacalao de Profundidad o Mero, Brótula, Caballa, Cabrilla española, Cabrilla común, Cochinilla, Cojinoba del Sur, Cojinoba moteada, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Lisa, Machuelo o tritre, Merluza común, Merluza de cola, Palometa, Pejegallo, Pejerrata, Pejerrey de mar, Raya, Raya volantín, Róbalo, Salmón del Atlántico, Salmón keta, Salmón plateado, Salmón rey, Sardina común, Sardina española, Sierra, Tiburón, Tiburón narigón, Tollo, Tollo de cachos, Trucha arcoiris, Almeja o taca, Almeja, Calamar, Caracol, Caracol locate, Caracol tegula, Caracol palopalo, Cholga, Chorito, Choro, Chorito maico, Culengue, Lapa, Macha, Navaja, Navajuela, Ostión del Sur, Ostra del Pacífico, Pulpo, Camarón de roca, Camarón de profundidad, Camarón nailon.
+
+Los recursos Ostra del Pacífico, salmón del Atlántico, salmón keta, salmón plateado, salmón rey y trucha arco iris deberán provenir de centros de cultivo autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria para procesar el recurso loco, de conformidad a lo establecido en el DS No. 614 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
