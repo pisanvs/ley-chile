@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.600, de 29 de septiembre del 2000, se expropió el lote de terreno Nº55, superficie 204 m2., rol de avalúo 5472-9, comuna de La Granja, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Arturo Bernabé Corro Brito, ascendente a la cantidad de $32.511.911.-
+
+Fiscal del Ministerio Obras Públicas.
