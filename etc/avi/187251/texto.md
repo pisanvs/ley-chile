@@ -1,0 +1,7 @@
+ENTIDADES RELIGIOSAS DE DERECHO PUBLICO
+
+Juan Ricardo San Martín Urrejola, Notario Público, Titular 43ª Notaría de Santiago, Morandé 261, Santiago, certifico: Que por escrituras públicas suscritas ante mí, de fecha 10 de noviembre de 2000, y las complementarias de 9 de enero de 2001, 25 de enero de 2001, y 28 de marzo de 2001, se constituyó "Iglesia Ejército Evangélico de Jesucristo": Domicilio: Avenida La Marina Nº 2070, comuna: Pedro Aguirre Cerda, Región Metropolitana, Persona de Derecho Público con Registro Público Nº 48 de 30 de enero de 2001, en virtud ley Nº 19.638: Constituyentes: Director General: Luis Alberto Verdugo Ferrada, Sub Director: Luis Iván Concha Otárola, Secretario: Genaro Segundo Ríos Obreque, Tesorero: Gilberto Antonio Roa Espinoza, Relacionador Público: Juan Ernesto Acosta García, Pro Secretario: Juan Fernando Leiva Leiva, Pro Tesorero: Luis Reineiro Ancantrío Sánchez, cuyo objetivo es: a) Predicar en el territorio nacional el Evangelio de Nuestro Señor Jesucristo de acuerdo a las sagradas escrituras "Id por todo el mundo y predicar el evangelio a toda creatura".
+
+b) Proveer a los que profesan el Evangelio, los medios necesarios para que celebren cultos dentro del respeto a la moral y las buenas costumbres de cada país. c) Fomentar la vida cristiana según las enseñanzas de Jesucristo, fundándose en la Biblia como única regla de fe. d) Apoyar, iniciar y desarrollar actividades educativas, sociales, culturales y de asistencia social.-
+
+Santiago, 27 de junio de 2001.
