@@ -1,0 +1,3 @@
+Por resolución Nº 926, de 15 de mayo de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97110396 presentada por PESCA CHILE S.A., para instalar y operar un centro de cultivo ubicado en Isla Rivero, Estero Duble Sur, Brazo Norte, Caleta del Fondo, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 15 de mayo de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
