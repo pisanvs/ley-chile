@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 106, de fecha 27 de noviembre del año 2001, se aprobó la reforma parcial al estatuto de la Cooperativa de Servicio de Agua Potable de Laguna Verde Ltda., de Laguna Verde, en los términos que da testimonio la escritura pública suscrita con fecha 9 de agosto del año 2001, ante el Notario don Gonzalo Mahan Marchese, Suplente del Titular don Julio Lavín Ahumada, de Valparaíso, bajo repertorio Nº 206-2001.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
