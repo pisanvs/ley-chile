@@ -1,0 +1,5 @@
+Por resolución No. 221 de 26 de Febrero de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a SOCIEDAD PESQUERA COLOSO S.A., R.U.T. No. 93.065.000-5, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras autorizadas por decreto No. 629, de 1976, del Ministerio de Agricultura, en orden a instalar y operar una planta industrial, ubicada en el sector Barrio Industrial del Puerto de Mejillones, Comuna de Mejillones, II Región, donde procesará en la línea de elaboración de harina, los siguientes recursos hidrobiológicos: Anchoa, caballa, jurel, sardina común y sardina.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Febrero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
