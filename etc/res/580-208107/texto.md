@@ -1,0 +1,3 @@
+Por resolución Nº 580, de 24 de febrero de 2003, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.773, de 2002, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 200111621 presentada por FRANCISCO JOSE LOPEZ HERRERA para un centro de cultivo ubicado en Canal Jacaf, al este de la Isla Suárez, XI Región.
+
+Valparaíso, 24 de febrero de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
