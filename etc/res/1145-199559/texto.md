@@ -1,0 +1,3 @@
+Por resolución Nº 1.145, de 11 de junio de 2002, de esta Subsecretaría, modifícase el numeral 5º letra e) inciso 1º de la resolución Nº 495 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la Actividad Extractiva de Pez Espada realizada por la Flota Palangrera Nacional en el Océano Pacífico", en el sentido de señalar que la talla mínima de desembarque de la mencionada especie, para efectos específicos de la presente investigación ascenderá a 100 centímetros, medidos desde la primera a la segunda aleta dorsal.
+
+Valparaíso, 11 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
