@@ -32288,6 +32288,20 @@ Tipo 4: Pago de pensiones.
 
 Otras: Para operaciones de la administradora.
 
+CAPITULO 18-7 (Bancos y Financieras)
+
+MATERIA:
+
+INFORMACION AL SERVICIO DE IMPUESTOS INTERNOS SOBRE TASACIONES DE BIENES RAICES.
+
+De conformidad con lo dispuesto en el artículo 85 del Decreto Ley N° 830, de 1974, los bancos y las sociedades financieras deben enviar al Servicio de Impuestos Internos, en la forma que determine el respectivo Director Regional de dicho Servicio, una copia de cada una de las tasaciones de bienes raíces que efectúen en el país.
+
+La referida información incluye tanto las tasaciones efectuadas por funcionarios de las propias instituciones financieras, como las realizadas por tasadores independientes a requerimiento de aquellas, cualquiera haya sido el objeto de las evaluaciones practicadas.
+
+En ningún caso las instituciones financieras proporcionarán información acerca de las operaciones que originan las respectivas tasaciones.
+
+La información sobre las tasaciones de bienes raíces debe ser enviada directamente a la respectiva Dirección Regional del Servicio de Impuestos Internos, División Evaluaciones, dentro de los cinco primeros días hábiles del mes siguiente a aquel en que se realicen.
+
 CAPITULO 18-8 (Bancos y Financieras)
 
 MATERIA:
