@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.172 de fecha 30 de noviembre de 2000, se expropió el lote de terreno Nº 2, superficie 4.003 m², rol de avalúo 5028-205, comuna de Punta Arenas, para la obra ''Actualización Proyecto Canal de Trasvase Estero Llau-Llau a Estero Bitsch de Punta Arenas Fase I, Canal de Trasvase Estero Llau-Llau a Estero Bitsch, Tramo Km. 1,384 al Km. 2,409'' y se acordó el valor de indemnización con su propietario José Ernesto Pervan Sharp y otros, ascendente a la cantidad de $23.293.617.-
+
+Fiscal del Ministerio de Obras Públicas.
