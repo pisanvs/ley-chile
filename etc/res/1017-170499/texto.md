@@ -1,0 +1,3 @@
+Por resolución N° 1.017, de esta Subsecretaría, autorízase a PESQUERA YELCHO S.A., para realizar operaciones pesqueras, a contar de la fecha de la presente resolución y hasta el 31 de diciembre de 2000, ambas fechas inclusive, con los barcos fábrica denominados ''Jin Yang N° 1'' y ''Gualas'', en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44°30 de latitud sur, respecto de las áreas y recursos y con las obligaciones establecidas en sus respectivas resoluciones.
+
+Valparaíso, 7 de junio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
