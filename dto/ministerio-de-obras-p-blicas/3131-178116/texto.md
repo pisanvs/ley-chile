@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.131, de 31 de julio de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L MOP Nº206, de 1960, se expropió el lote de terreno Nº101-A, para la obra:
+
+''Concesión Internacional Ruta 5, Tramo: Santiago - Talca, Sector B: Km. 42.950,00 al Km. 55.200,00 Región Metropolitana, que figura a nombre de Cid Lillo Rodolfo M., rol de avalúo 990-6, comuna de Paine, superficie 89 m². La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Iván Eduardo Guitart Acuña y Carmen Pilar Ríos Marcuello, fijó con fecha 13 de abril de 2000, el valor provisional de la indemnización en la cantidad de $722.990.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
