@@ -2066,7 +2066,7 @@ Dentro de las respectivas categorías del Escalafón General se colocará a los 
 
 A los funcionarios judiciales del Escalafón Secundario que hubieren desempeñado cargos en el Primario, se les abonará el tiempo servido en este último, para los efectos de su antigüedad en el puesto de ingreso.
 
-Igualmente, a los funcionarios del Escalafón Secundario que hubieren cumplido tres años en el grado y servido más de siete en la Administración Pública, se les computará este último tiempo para los efectos de su antigüedad en el puesto de ingreso.
+Inciso derogado.
 
 1). Escalafón Primario
 
@@ -2250,11 +2250,11 @@ Para secretarios de las categorías séptima y octava: con los funcionarios de e
 
 #### Artículo 287
 
-La terna para el nombramiento de notarios, conservadores y archiveros de las tres primeras categorías se formará con el funcionario más antiguo de la categoría inmediatamente inferior que se oponga al concurso y con dos funcionarios de esa categoría o de la misma categoría del cargo que se trata de proveer.
+La terna para el nombramiento de notarios, Conservadores y Archiveros de las tres primeras categorías se formará con el funcionario más antiguo de la misma serie de la categoría inmediatamente inferior que se oponga al concurso y con dos funcionarios de esa categoría o de la misma categoría del cargo que se trata de proveer, también de la misma serie.
 
-Podrán figurar funcionarios de la categoría subsiguiente que tengan más de diez años de antigüedad en el grado.
+Podrán figurar funcionarios de la misma serie de la categoría subsiguiente, siempre que tengan más de 10 años de antigüedad en el grado.
 
-A falta de opositores que reúnan los requisitos que preceden, los lugares libres de la terna serán llenados con abogados.
+A falta de opositores que reúnan los requisitos que preceden, la terna se formará con otros funcionarios de la misma serie y categorías inmediatamente inferior y subsiguientes señaladas; en su defecto, con abogados, y, a falta de éstos, con personas idóneas.
 
 #### Artículo 288
 
@@ -3520,7 +3520,7 @@ Cuando algún fiscal de las Cortes de Apelaciones que hubiere prestado el jurame
 
 Los notarios, los conservadores, los archiveros, los secretarios y los receptores de mayor cuantía y los de menor cuantía que actúen ante los jueces de distrito y subdelegación, antes de entrar en el ejercicio de sus funciones, deberán rendir una fianza para responder de las multas, costas e indemnizaciones de perjuicios a que puedan ser condenados en razón de los actos concernientes al desempeño de su ministerio.
 
-Esta fianza será de quince mil pesos para los notarios de asiento de Corte, de diez mil pesos para los de cabecera de provincia y de cinco mil pesos para los demás. Para los receptores de menor cuantía que actúen ante los jueces de distrito y de subdelegación, será de doscientos pesos.
+Esta fianza será de $ 300.000 para los notarios de asiento de Corte en Santiago; de $ 200.000 para los demás notarios de asiento de Corte; de $ 100.000 para los de capital de provincia y de $ 50.000 para los de departamentos.
 
 El monto de la fianza de los otros funcionarios se fijará por el Presidente de la República atendida la importancia del cargo.
 
@@ -3534,11 +3534,11 @@ Los auxiliares de la Administración de Justicia, salvo los relatores, estarán 
 
 #### Artículo 475
 
-Los secretarios, los receptores, los notarios, los conservadores y los archiveros estarán obligados a asistir todos los días a la sala de su despacho durante las horas de funcionamiento de los tribunales.
+Los secretarios y los receptores estarán obligados a asistir todos los días a la Sala de su despacho durante las horas de funcionamiento de los Tribunales.
 
-Los notarios y los archiveros deberán mantener abierta su oficina al público, por lo menos, desde las diez de la mañana hasta las cuatro de la tarde y los secretarios desde una hora antes de la designada para que tenga principio el despacho y hasta una hora después de terminado.
+Los secretarios deberán mantener abierta su oficina al público desde una hora antes de la designada para que tenga principio el despacho y hasta una hora después de terminado.
 
-Los conservadores deberán mantenerla abierta en las horas que señalen las leyes y los reglamentos respectivos.
+Los notarios, los Conservadores y los Archiveros deberán mantener abierta su oficina al público en las horas que señalen las leyes y los reglamentos respectivos.
 
 #### Artículo 476
 
@@ -3550,17 +3550,15 @@ Los procuradores deberán asistir a la secretaría de los tribunales a instruirs
 
 Las obligaciones de residencia y asistencia cesan durante los días feriados.
 
-Esta disposición no regirá en el feriado de vacaciones con los notarios y los conservadores, con los funcionarios que formen parte de los juzgados de letras de menor cuantía y demás inferiores o de los juzgados que queden de turno, ni con los que determinen las Cortes de Apelaciones para el funcionamiento de sus respectivas salas de verano.
-
-Los archiveros, en ese mismo período, deberán abrir su oficina, por lo menos, un día en cada semana.
+Esta disposición no regirá en el feriado de vacaciones con los notarios, Conservadores y Archiveros, con los Juzgados que queden de turno, ni con los que determinen las Cortes de Apelaciones para el funcionamiento de sus respectivas salas de verano.
 
 #### Artículo 478
 
-Ningún notario, conservador, archivero, secretario, procurador o receptor podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina sin permiso del presidente de la Corte, si ejerciere sus funciones en el lugar de asiento de este tribunal, o del juez de letras respectivo o de turno, en los demás casos.
+Ningún notario, Conservador, Archivero, secretario, procurador o receptor podrá ausentarse del lugar de su residencia ni dejar de asistir diariamente a su oficina sin permiso del Presidente de la Corte si ejerciere sus funciones en el lugar de asiento de este tribunal, o del juez de letras respectivo o de turno, en los demás casos.
 
-Este permiso no podrá otorgarse por más de ocho días a los secretarios, de dos meses a los notarios y de un mes a los otros funcionarios. Pasando de estos términos y no excediendo de un año, el permiso deberá solicitarse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
+Este permiso no podrá otorgarse por más de ocho días a los secretarios, de dos meses a los notarios, Conservadores y Archiveros, y de un mes a los otros funcionarios. Si el permiso solicitado excediere de este plazo y no pasare de un año, deberá pedirse por escrito ante el Presidente de la República. Si transcurrido un año no se presentare el funcionario a servir su destino, se tendrá esta inasistencia como causal bastante para que la autoridad competente, siguiendo los trámites legales, pueda declarar vacante el empleo.
 
-En los permisos hasta por dos meses, el notario podrá proponer al juez la persona que deba subrogarlo, bajo su responsabilidad. Si el permiso excede de dicho plazo corresponderá al Presidente de la República la designación del reemplazante.
+En los permisos hasta por dos meses el notario, Conservador y Archivero podrá proponer al juez el abogado que debe subrogarlo bajo su responsabilidad, propuesta que en el caso de los notarios y Conservadores de cuarta categoría podrá recaer en el oficial 1.o de la oficina respectiva. Si el permiso excediere de dicho plazo, corresponderá al Presidente de la República la designación del reemplazante.
 
 #### Artículo 479
 

@@ -130,7 +130,7 @@ Tendrá el Conservador un libro, denominado Repertorio, para anotar los títulos
 
 #### Artículo 22
 
-El expresado libro, desde el principio, estará encuadernado y cubierto con tapa firme, foliado y rubricadas todas sus páginas por el juez de letras, o el juez de primera instancia.
+El expresado Libro estará encuadernado, foliado y cubierto con tapa firme.
 
 #### Artículo 23
 
