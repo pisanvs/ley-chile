@@ -1,0 +1,7 @@
+AUTORIZA A CORPORACION MEGA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución Nº1.917 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Corporación Mega S.A., R.U.T. Nº96.544.160-3 domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras autorizadas por Resolución Nº1.916, de 1989, de esta Subsecretaría, en orden a operar una planta industrial ubicada en calle Arica Nº2399, Valdivia, donde procesará en la línea de elaboración de congelado y fresco, los siguientes recursos hidrobiológicos: Bacalao de profundidad o Mero, Blanquillo, Bonito, Cabrilla española, Cabrilla común, Chancharro, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Lenguado de ojos chicos, Lenguado de ojos grandes, Merluza común, Merluza del Sur, Merluza de cola, Merluza de tres aletas, Palometa, Pejegallo, Pejerrey de mar, Raya, Róbalo, Salmón del Atlántico, Salmón del Pacífico, Sardina común, Sardina, Sierra, Tollo, Almeja o taca, Almeja, Calamar, Caracol trumulco, Cholga, Chorito, Choro, Lapa, Loco, Macha, Navajuela, Centolla Centollón, Jaiba, Erizo, Piure y Pepino de mar.
+
+Las especies Salmón del Atlántico y Salmón del Pacífico, deberán ser adquiridos de centros de cultivo autorizados. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de Diciembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
