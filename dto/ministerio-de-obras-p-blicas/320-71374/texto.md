@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 320, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs 83, 91 y 117, superficies 4.514 m2., 3.766 m2. y 8.379 m2., roles de avalúo 2224-534, 2224-222 y 2236-127, comuna de Chillán, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Mario Sánchez Robles y Amanda Puentes Inostroza y otra, ascendente a las cantidades de $8.911.992.- para los lotes Nºs 83 y 91, y $6.154.327.- para el lote Nº 117.-
+
+Fiscal del Ministerio de Obras Públicas.
