@@ -1,0 +1,3 @@
+Por Decretos M.O.P. Nºs. 720 y 733, ambos de fecha 30 de noviembre de 1995, se expropiaron los lotes de terreros Nºs. 110, 111, 55, 60 y 61, superficie 3.472, 1.023, 482, 1.417 y 7.300, m2., respectivamente, roles de avalúos 317-78, 316-07 y 316-121, comuna de Quirihue, para la obra Camino Cuaquenes - Limite Regional Quirihue, sector Cuesta y se acordó precio de indemnización con sus propietarios Rosa Molina Bahamondes, Iván Aravena Aravena y Ramiro Hernández Yévenes, ascendente a las cantidades de $ 537.722, $ 199.367. y $ 839.423.-
+
+Fiscal del Ministerio de Obras Públicas.
