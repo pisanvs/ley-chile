@@ -1,0 +1,5 @@
+Por decreto MOP Nº2.253, de 30 de mayo de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº12, para la obra: Concesión Internacional Ruta 5. Tramo: Talca - Chillán. Sector: Km. 253.100,00 al Km. 255.960,00, Séptima Región, que figura a nombre de Villalta Planas Claudio, rol de avalúo 3710-13, comuna de Talca, superficie 2.002 m2. La comisión de peritos integrada por los señores Claudia Paola Arellano Gómez, Jorge Gregorio Mendoza Larral y Pablo Antonio Aragón Bernal, fijó con fecha 10 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $27.324.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(15)
