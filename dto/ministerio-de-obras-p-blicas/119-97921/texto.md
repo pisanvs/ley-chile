@@ -1,0 +1,3 @@
+Por decreto MOP. Nº119, de 13 de febrero de 1998, se expropiaron los lotes de terreno Nºs. 6 y 7, superficies 560 m2 y 1.420 m2., rol de avalúo 266-34, comuna del Monte, para la obra Camino Autopista Santiago - San Antonio, Sector Plaza de Peaje El Paico, Tramo Km. 24.100 al 24.700, y se acordó el valor de indemnización con el propietario Juan Alfonso Silva Silva, ascendente a la cantidad de $14.719.176.
+
+Fiscal del Ministerio de Obras Publicas.
