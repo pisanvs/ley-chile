@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 751 de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 204, superficie 261 m², rol Nº 520-97, comuna de Parral, VII Región para la obra "Camino Ruta L-75, Sector: El Ajial - Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario Pedro Luis Soto Jorquera, ascendente a la cantidad de $534.241.
+
+- Fiscal del Ministerio de Obras Públicas.
