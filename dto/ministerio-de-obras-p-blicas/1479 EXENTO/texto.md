@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.479 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº66, superficie 433,0 m2., rol de avalúo 112-43, comuna de Corral, para la obra ''Camino Longitudinal Costero Sur, Sector El Morro-Chaihuin II (2ª Parte) Km.15,755 a Km.27,017'' y se acordó el valor de indemnización con su propietario Oscar Manuel Stange Gebauer, ascendente a la cantidad de $665.475.
+
+- Fiscal del Ministerio de Obras Públicas.
