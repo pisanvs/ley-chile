@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 201, de 28 de marzo de 1996, se expropió el lote de terreno N° 8 y superficie 4.716 m2, rol de avalúo 542-26, comuna de Bulnes, para la obra Camino Ruta N-69, Sector Bulnes Cruce Ruta N-59, Kms 0.000 al 19.186,84 y se acordó precio de indemnización con su propietario Suc. de don Jorge Barahona A. y doña Marta Sandoval F. ascendente a la cantidad de $2.780.337.
+
+Fiscal del Ministerio de Obras Públicas.
