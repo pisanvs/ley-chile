@@ -1,0 +1,5 @@
+﻿ Imprenta de Gobierno
+
+Vencidas ya las dificultades para la existencia i uso de una Imprenta, a costa de gastos i fatigas del Gobierno, desea éste su adelantamiento i perfeccion que no puede procurar por sí en medio de cuidados urjentes i graves que llaman su atencion. Necesita el ausilio de una persona ilustrada i patriota. Ud. no rehusará seguramente un encargo propio de quien conoce toda la importancia del ser servicio que hará, tomando a su cuidado este instrumento de la instruccion de sus conciudadanos i que debe dar idea de la que poseen. En ese concepto le autoriza para que reconociendo su estado i las mejoras de que es susceptible, ejecute las que estén a sus alcances i proponga las que exijan el influjo desta autoridad, que le trasmite la suya en esta parte.-Dios guarde a US. muchos años.-
+
+Sala de Gobierno, Enero 12 de 1813.- Al señor Rejidor, don José Yrisarri.- (Publicado sin firma en La Aurora del 21 de Enero de 1813).
