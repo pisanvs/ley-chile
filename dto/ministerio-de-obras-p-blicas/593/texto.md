@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 593, de 30 de abril de 1998, se expropiaron los lotes de terreno Nºs. 63-B y 63-D, superficies 223,8 y 96,43 m², rol de avalúo en trámite, comuna de Licantén, obra Camino Curicó - Iloca (Ruta J-60), Sector Licantén Puente Lautaro y se acordó precio de indemnización con sus propietarios Manuel Enrique Pérez Leyton y Luis Solercio Reyes Morales y otros, ascendente a la cantidad de $9.387.091.- lote 63-B y $5.695.072.- lote 63-D.-
+
+Fiscal del Ministerio de Obras Públicas.
