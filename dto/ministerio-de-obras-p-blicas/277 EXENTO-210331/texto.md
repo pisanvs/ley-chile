@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº277 de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nº34 y 35, superficies 168 y 162 m², rol de avalúo Nº221-24, comuna de Coelemu, para la obra "Camino Ruta O - 170, O - 176, Acceso a Guarilihue, Km. 0,00000 a Km. 8,28000", VIII Región y se acordó el valor de la indemnización con su propietaria Florencia Alegría Flores y Otros, ascendente a la cantidad de $1.578.746.-
+
+Fiscal del Ministerio de Obras Públicas.
