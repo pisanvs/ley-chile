@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.197, de 12 de agosto de 2004, de esta Subsecretaría de Pesca, modifícase la resolución Nº 1.495 de 2004, modificada por resoluciones Nº 1.660, Nº 1.797, Nº 1.909, todas de 2004, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del Proyecto denominado "Monitoreo biológico-pesquero de las capturas de sardina común y anchoveta realizadas en la VIII Región, 2004", en el sentido de dejar sin efecto la autorización para realizar actividades de investigación durante el período de veda biológica de las especies en estudio establecida mediante decreto exento Nº 115 de 1998, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Déjase sin efecto la resolución Nº 2.004 de 2004, de esta Subsecretaría, que aprobó el calendario de operaciones de las embarcaciones artesanales participantes en la presente pesca de investigación durante el período de veda biológica, en virtud de lo dispuesto en el numeral anterior.
+
+Valparaíso, 12 de agosto de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
