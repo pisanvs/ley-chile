@@ -1,0 +1,3 @@
+Por Decreto MOP N°1.131, de 28 de noviembre de 1997, se expropiaron los lotes de terreno N°s 1 y 2-C, superficies 1.902 y 180 m2, roles de avalúo 160-117 y 160-127, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal San Migel Pal Pal Bajo y se acordó precio de indemnización con sus propietarios Gustavo Alberto Jiménez y Alicia Angélica Burgos Muñoz, ascendente a las cantidades de $758.193, para el lote N° 1 y $176.588, para el lote N° 2-C.-
+
+Fiscal del Ministerio de Obras Públicas.
