@@ -1,0 +1,239 @@
+ADOPTA LAS MEDIDAS QUE INDICA EN RELACION CON EL MINISTERIO DE ECONOMIA Y COMERCIO Y SUS ATRIBUCIONES Y ACTIVIDADES
+
+Núm, 88.- Santiago, 12 de Mayo de 1953 Teniendo presente:
+
+Que el artículo 12 de la ley N.o 7,200, de 21 de Julio de 1952 aprobó la creación del Ministerio de Economía y Comercio con el fin primordial de obtener la coordinación de las actividades de los organismos públicos que intervienen en la economía general del país, en su comercio interno y externo y en el abastecimiento;
+
+Que diversas disposiciones legales dictadas con posterioridad tendieron a reforzar esta idea central.
+
+Así, por ejemplo, la ley N.o 8,918 hizo del Comisariato General de Subsistencias y Precios una repartición fiscal dependiente del Ministerio, y dos de sus departamentos, el de "Cooperativas" y el de "Costos y Precios" pasaron a ser Departamentos propios del Ministerio;
+
+Que con el mismo objetivo se creó la Dirección de Comercio por ley N.o 8,939, restructurada más tarde por la ley N.o 10,509 y se elevó a la categoría de Dirección General de Departamento de Industrias Fabriles en virtud de la misma ley;
+
+Que a pesar de que al crear el Ministerio de Economía y Comercio se tuvo la intención de obtener un mecanismo eficaz encargado de formular y realizar una política económica general, y no obstante que esta idea directriz se ha mantenido en toda la legislación reglamentaria dictada en los diez años posteriores, en el hecho, el actual Ministerio de Economía y Comercio no ha podido realizar esta labor fundamental;
+
+Que la razón de la ineficacia en la acción de este Departamento de Estado reside fundamentalmente en el hecho de que ha carecido de los medios que le permitan desarrollar una labor verdaderamente ejecutiva, pues la mayor parte de sus servicios sólo han podido actuar en el campo del control administrativo de las funciones económicas;
+
+Que, el problema primordial que deberá encarar el Gobierno es la detención del proceso inflacionista, que agobia toda la estructura social y económica del país y ninguna solución será viable sin que previamente exista una organización económica estatal, capaz de llevar adelante, con eficiencia, las diversas medidas que será necesario adoptar;
+
+Que todos estos antecedentes aconsejan restructurar el actual Ministerio de Economía y Comercio en forma que permita concentrar en él y en sus instituciones dependientes todas las funciones económicas correspondientes a las actividades del comercio, de la producción industrial y de los transportes, como, asimismo, una participación activa en las decisiones que se refieren a Política Económica que, actualmente, se adoptar sin su intervención;
+
+Y vista la facultad que me confiere la ley N.o 11,151 de 5 de Febrero del presente año,
+
+dicto el siguiente Decreto con fuerza de ley:
+
+#### Artículo 1
+
+° Sin perjuicio de las atribuciones establecidas en el artículo 12.° de la ley 7.200, el Ministerio de Economía y Comercio, en lo sucesivo se denominará "Ministerio de Economía", tendrá a su cargo toda la intervención que realiza actualmente el Estado a través de sus diversas reparticiones en las actividades del comercio, de la industria y los transportes, en virtud de leyes y reglamentos vigentes y los que se dicten en el futuro.
+
+Le corresponderá especialmente:
+
+a) Formular un plan general de política comercial y adoptar las medidas que estime conveniente para la mejor orientación, coordinación, fomento y desarrollo del comercio interno y externo;
+
+b) DEROGADA
+
+c) Aprobar por decreto supremo el Cálculo Estimativo del Movimiento de Divisas elaborado por el Consejo Nacional de Comercio Exterior;
+
+d) Fijar por decreto supremo los tipos de cambios previo informe del Banco Central de Chile y del Consejo Nacional de Comercio Exterior e impartir normas generales sobre cambios internacionales y permisos, establecer contingentes, cuotas y prohibiciones de importación, exportación y reexportación;
+
+e) DEROGADA
+
+f) Elaborar los Convenios y Tratados Internacionales de carácter económico y comercial. Para los efectos de la firma de estos Convenios y Tratados el Presidente de la República podrá delegar en cada caso sus facultades en el Ministro de Relaciones Exteriores y en el de Economía, conjuntamente, o en representantes de estos Ministerios;
+
+g) Impartir, conjuntamente con el Ministerio de Relaciones Exteriores, las instrucciones de carácter económico y comercial a los Cónsules y demás agregados comerciales de Chile en el extranjero. Los Agregados Comerciales serán designados por el Ministerio de Relaciones Exteriores a propuesta del Ministerio de Economía.
+
+h) Las atribuciones y facultades que concede al Ministerio de Economía y Comercio la ley 10.255, de 12 de febrero de 1952 y su reglamento, referentes al comercio y exportaciones de cobre;
+
+i) DEROGADA
+
+j) Formular en coordinación con el Ministerio de Hacienda la política aduanera y tributaria que sea necesario adoptar, en cuanto incida en los precios de los artículos a que se refiere la letra anterior;
+
+k) Liberar, por decreto supremo que deberá llevar la firma del Ministro de Hacienda, del pago de derechos de internación, almacenaje, de los impuestos señalados en el decreto de Hacienda 2.772, de 1943, y sus modificaciones y, en general, de todo impuesto o contribución que se perciba por intermedio de las Aduanas, al trigo, a la harina de trigo y a las semillas que importe al país el Instituto Nacional de Comercio;
+
+l) Adoptar las medidas necesarias para fomentar las inversiones extranjeras en Chile;
+
+m) Formular la política general que deberá adoptarse en los transportes nacionales para satisfacer las necesidades del país, procurando su coordinación adecuada y el fomento y desarrollo de líneas internacionales de transporte marítimo y aéreo; todo ello de acuerdo con el Ministerio de Obras Públicas y Vías de Comunicación, y
+
+n) Fijar, de acuerdo con las disposiciones legales vigentes, las tarifas de los diferentes medios de transportes.
+
+> **Nota.** El artículo 1° de la Ley 14.171, publicada el 26.10.1960, dispuso que el Ministerio de Economía se denominará "Ministerio de Economía, Fomento y Reconstrucción" y la Subsecretaría de Comercio e Industrias se denominará "Subsecretaría de Economía, Fomento y Reconstrucción". Asimismo, dicho artículo le concede nuevas atribuciones.
+
+#### Artículo 2
+
+° El Ministerio de Economía comprenderá dos Subsecretarías: la de Comercio e Industrias y la de Transportes.
+
+> **Nota.** El artículo 1° de la Ley 14.171, publicada el 26.10.1960, dispuso que el Ministerio de Economía se denominará "Ministerio de Economía, Fomento y Reconstrucción" y la Subsecretaría de Comercio e Industrias se denominará "Subsecretaría de Economía, Fomento y Reconstrucción". Asimismo, dicho artículo le concede nuevas atribuciones.
+
+> **Nota.** NOTA 1: El artículo 10 de la Ley 16723, Hacienda, publicada el 13.12.1967, traspasó las funciones y atribuciones en materia de Transportes, del Ministerio de Economía, Fomento y Reconstrucción, al Ministerio de Obras Públicas. Posteriormente, el DL 557, Interior, publicado el 10.07.1974, las transfiere al Ministerio de Transportes.
+
+> **Nota.** NOTA 2: El DL 1.626, Economía, publicado el 21.12.1976, creó la Subsecretaría de Pesca en el Ministerio de Economía, Fomento y Reconstrucción. Posteriormente, el DL 2.442, Economía, publicado el 29.12.1978, estableció las funciones y atribuciones de este Ministerio en materia de Pesca; organizó la Subsecretaría, creó el Consejo Nacional y el Servicio Nacional de Pesca.
+
+#### Artículo 3
+
+° La Subsecretaría de Comercio e Industrias se dividirá en los siguientes Servicios dependientes: Departamento de Comercio Exterior, Departamento de Comercio Interno, Departamento de Industrias y Departamento de Cooperativas.
+
+> **Nota.** El artículo 1º del DFL 242, Hacienda, publicado el 06.04.1960, creó la Dirección de Industrias y Comercio dependiente de la Subsecretaría de Comercio e Industrias del Ministerio de Economía. El artículo 2º de la misma norma suprimió la Superintendencia de Abastecimientos y Precios y los Departamentos de Industrias, de Comercio Interno y de Cooperativas, dependientes de dicho Ministerio.
+
+> **Nota.** NOTA 1: El artículo 1º del DL 2313, Economía, publicado el 09.09.1978, dispuso que la Secretaría Ejecutiva del Comité de Inversiones Extranjeras constituye un servicio dependiente del Ministerio de Economía, Fomento y Reconstrucción. Posteriormente, el artículo 1º de la LEY 18065, publicada el 10.12.1981, la adscribió al Banco Central de Chile. Finalmente, el artículo 3º de la LEY 18840, publicada el 10.10.1989, la reestablece al Ministerio de Economía a contar del 1º de enero de 1990.
+
+> **Nota.** NOTA 2: El artículo 2º del D.F.L. 1/3.511, Economía, publicado el 03.05.1981, que reorganizó la Dirección de Industria y Comercio, traspasó los Departamentos de Cooperativas y de Propiedad Industrial a la Subsecretaría de Economía, Fomento y Reconstrucción, cuyas funciones quedan radicadas en ésta.
+
+> **Nota.** NOTA 3: El artículo 5º de la Ley 18959, Hacienda, publicada el 24.02.1990, dispuso que toda referencia que se haga en la leyes a la Dirección de Industria y Comercio debe entenderse hecha al Servicio Nacional del Consumidor.
+
+#### Artículo 4
+
+° Le corresponderá a la Subsecretaría de Comercio e Industrias, por intermedio de los organismos enunciados anteriormente, las siguientes atribuciones:
+
+1.°) Estudiar y proponer las medidas que estime convenientes para la mejor orientación, fomento y desarrollo de nuestro comercio exterior;
+
+2.°) Estudiar, elaborar y proponer los convenios internacionales económicos y comerciales;
+
+3.°) Estudiar y proponer instrucciones a la representación comercial de Chile en el extranjero;
+
+4.°) Estudiar y someter anualmente a la aprobación del Presidente de la República, por intermedio del Ministro de Economía, el cálculo estimativo del movimiento de divisas elaborado por el Consejo Nacional de Comercio Exterior para el año siguiente;
+
+5.°) Realizar un estudio permanente de la situación de los productos de exportación o importación y del desarrollo del Presupuesto de Divisas durante el año para proponer su oportuna modificación;
+
+6°) DEROGADO
+
+7.°) Estudiar y proponer las medidas tendientes a promover la inteligencia entre los productores y comerciantes chilenos con los clientes del exterior, proporcionándoles datos que tiendan a la concertación y fomento del intercambio;
+
+8.°) Proponer las normas relativas a política aduanera y tributaria de acuerdo con la letra j) del artículo 1.°;
+
+9.°) DEROGADO
+
+10.°) DEROGADO
+
+11.°) DEROGADO
+
+12.°) Delegar, en casos especiales, las facultades pertinentes contempladas en los números 10.°) y 11.°) para que la Superintendencia de Abastecimientos y Precios actúe con oportunidad y prontitud a través del territorio nacional en los estudios de costos y fijación de precios de artículos que le señalará la Subsecretaría de Comercio e Industrias, de acuerdo con las normas que le indique;
+
+13.°) DEROGADO
+
+14.°) Estudiar y conocer el monto de la producción industrial, tanto en su valor como en cuanto a su volumen físico, relacionado con la capacidad de producción de las fábricas y con la eficiencia de las instalaciones;
+
+15.°) DEROGADO.
+
+16.°) Actuar en el campo de la racionalización industrial, colaborar con el Instituto de Investigaciones Tecnológicas y Normalización para la preparación de normas de productos industriales, proponer su aprobación, de normas oficiales y vigilar su cumplimiento;
+
+17.°) DEROGADO
+
+18.°) DEROGADO
+
+19.°) DEROGADO
+
+20.°) Cumplir con las disposiciones legales vigentes sobre la Ley de Propiedad Industrial referentes a Patentes de Invención, Marcas y Modelos Industriales;
+
+21.°) Proponer, cuando las circunstancias lo aconsejen, el ejercicio de las facultades establecidas en el decreto ley 281, de 25 de julio de 1932, y
+
+22.°) Fomentar el sistema de organización de cooperativas en sus distintos aspectos, especialmente de distribución y de consumo.
+
+#### Artículo 5
+
+° La Subsecretaría de Transporte se dividirá en los siguientes Servicios dependientes: Departamento de Transporte Ferroviario; Departamento de Transporte Marítimo, Fluvial y Lacustre; Departamento de Transporte Aéreo; Departamento de Transporte y Tránsito Público y el Servicio de Explotación de Puertos.
+
+Le corresponderá a la Subsecretaría de Transportes, por intermedio de los organismos enunciados anteriormente, las siguientes atribuciones:
+
+1.°) Estudiar la política de transporte del país para satisfacer las necesidades internas y las de su comercio exterior, estableciendo la debida coordinación entre los diferentes sistemas de transporte y tomando en consideración el aumento que éstos deben normalmente adquirir de acuerdo con el crecimiento vegetativo de la población y el desarrollo de la industria, de la minería, de la agricultura y del comercio, conforme los planes puestos en ejecución por el Supremo Gobierno;
+
+2.°) Planificar los sistemas de transportes dándoles una estructuración racional y coordinada, que permita satisfacer las necesidades del país. Esta planificación debe alcanzar a todos los organismos y elementos complementarios del transporte, entendiéndose como tales todos aquellos que inciden directamente en la explotación comercial de los mismos y que permitan obtener el máximo de rendimiento del conjunto, elemento de transporte propiamente dicho (como ser trenes, camiones, buques, aviones), con sus complementos obligados (estaciones de carga y descarga, puertos, aeródromos, la utilería indispensable y las vías normales de acceso para la alimentación y desahogo de las zonas servidas por los transportes;
+
+Los problemas relacionados con aeródromos y servicios de protección a la navegación aérea, como también el control sobre la aeronavegación civil y de turismo serán atendidos por los organismos indicados en el decreto con fuerza de ley 36, de 26 de marzo de 1953, para cuyo efecto el Subsecretario de Transportes integrará la Junta Permanente de Aérodromos y la Junta de Aeronáutica Civil, dependientes del Ministerio de Defensa Nacional.
+
+3.°) Ocuparse del fomento y eficiencia de los sistemas de transportes;
+
+4.°) Supervigilar los aspectos que dicen relación con el material, (personal, previsión social, trabajo), y en general, de todos los factores que intervienen en el problema del transporte;
+
+5.°) Estudiar y proponer la legislación y la reglamentación que conviene a los sistemas de transporte, para permitir el funcionamiento expedito que exige el ritmo de la economía;
+
+6.°) Verificar la aplicación y cumplimiento de la legislación y reglamentación vigentes en materia de transporte;
+
+7.°) Estudiar, de acuerdo con las disposiciones legales vigentes, por intermedio de los organismos dependientes, las tarifas de los diferentes medios de transporte y de las prestaciones de servicio directamente relacionadas con la explotación de los mismos y controlar su aplicación;
+
+8.°) Informar las solicitudes presentadas por las Empresas de Transporte o Servicios Complementarios respecto de la compra y venta de los elementos que intervienen en esta actividad y patrocinar las que convengan a las necesidades del país y que estén comprendidas dentro de la planificación general de la política de transporte;
+
+9.°) Las atribuciones contenidas en el artículo 16.°, letra a), del decreto 884, de 26 de julio de 1948, del Ministerio de Economía y Comercio, en relación con las empresas nacionales de transportes, como asimismo de las empresas u organizaciones que presten servicios auxiliares.
+
+> **Nota.** El artículo 42 del Decreto con Fuerza de Ley 292, Hacienda, publicado el 05.08.1953, estableció que las atribuciones señaladas en los Nos. 4, 5 y 6 del artículo 5° del presente DFL, no regirán para los Servicios Marítimos en lo que concierne a las atribuciones que las leyes y reglamentos vigentes otorgan a la Dirección del Litoral y Marina Mercante. Posteriormente, el artículo 1º del DL 2837, Defensa, publicado el 30.08.1979, reeemplazó la expresión "Dirección del Litoral y Marina Mercante", por "Dirección General de Territorio Marítimo y de Marina Mercante".
+
+> **Nota.** NOTA 1 El Decreto con Fuerza de Ley 279, Hacienda, publicado el 06.04.1960, fijó normas sobre atribuciones del Ministerio de Economía en materia de Transportes y reestructuró la Subsecretaría de Transportes.
+
+> **Nota.** NOTA 2 El artículo 10 de la Ley 16723, Hacienda, publicada el 13.12.1967, traspasó las funciones y atribuciones en materia de Transportes, del Ministerio de Economía, Fomento y Reconstrucción, al Ministerio de Obras Públicas. Posteriormente, el DL 557, Interior, publicado el 10.07.1974, las transfiere al Ministerio de Transportes.
+
+#### Artículo 6
+
+° DEROGADO
+
+#### Artículo 7
+
+° Los Subsecretarios de Comercio e Industrias y de Transportes, tendrán, además de las atribuciones que le son propias de acuerdo con el decreto con fuerza de ley 7.912, artículo 14°, de 30 de noviembre de 1927, las siguientes funciones comunes:
+
+a) Dictar las resoluciones destinadas al cumplimiento de las actividades que les corresponde supervisar; controlar y coordinar sus servicios dependientes en conformidad con los Reglamentos Orgánicos que se dicten para los diferentes Departamentos o Servicios dependientes de las respectivas Subsecretarías;
+
+b) Proponer al Ministro de Economía los planos y medidas de orden general que correspondan a las funciones de las reparticiones de su dependencia y para una general aplicación;
+
+c) Dirigirse con la fórmula "Por el Ministro", a los demás organismos administrativos; y
+
+d) Dictar resoluciones de orden administrativo obligatorias para los funcionarios de los Servicios de su dependencia.
+
+#### Artículo 8
+
+° Cada Subsecretaría tendrá la responsabilidad administrativa de los asuntos a su cargo.
+
+#### Artículo 9
+
+° Por intermedio del Ministerio de Economía se ejercerán las atribuciones que corresponden al Presidente de la República en sus relaciones con los siguientes organismos:
+
+Corporación de Fomento de la Producción;
+
+Consejo Nacional de Comercio Exterior;
+
+Empresa de los Ferrocarriles del Estado;
+
+Empresa de Transportes Colectivos del Estado;
+
+Línea Aérea Nacional, y Dirección General de Aprovisionamiento del Estado.
+
+#### Artículo 10
+
+° La Dirección General de Estadística, que en lo sucesivo se denominará "Servicio Nacional de Estadística", será una institución autónoma, dependiente del Ministerio de Economía y, además de las atribuciones que le confiere el decreto 530, de 31 de agosto de 1932, tendrá las siguientes:
+
+a) Dar a conocer las estadísticas oficiales en forma exclusiva;
+
+b) Aprobar previamente los formularios a todos aquellos Servicios que en razón de sus funciones deban recoger datos estadísticos para su propio uso, y éstos tendrán la obligación de entregar copias de ellos al Servicio Nacional para su estudio, análisis y publicación, y
+
+c) Consultar en sus formularios las sugerencias de los diversos organismos que hacen investigaciones económicas, con el objeto de que ellos contengan los datos estadísticos necesarios para estas investigaciones;
+
+Todos los Servicios que recogen informaciones de valor estadístico, tales como las Aduanas, Consejo Nacional de Comercio Exterior, Superintendencia de Bancos, etc., deberán proporcionar oportunamente estos datos al Servicio Nacional de Estadística.
+
+#### Artículo 11
+
+° Dentro del plazo de 60 días se dictarán los respectivos Reglamentos Orgánicos que regirán los Servicios dependientes del Ministerio de Economía, a que se refiere el presente decreto con fuerza de ley.
+
+#### Artículo 12
+
+° El actual Departamento de Pesca y Caza, del Ministerio de Economía y Comercio, pasará a depender del Ministerio de Agricultura.
+
+Traspásase al Ministerio de Agricultura los ítem 17|04|01, 17|04|02, 17|04|04 y 17|04|11, del Presupuesto vigente de gastos para el Departamento de Pesca y Caza.
+
+> **Nota.** NOTA : El DL 1.626, Economía, publicado el 21.12.1976, creó la Subsecretaría de Pesca en el Ministerio de Economía, Fomento y Reconstrucción. Posteriormente, el DL 2.442, Economía, publicado el 29.12.1978, estableció las funciones y atribuciones de este Ministerio en materia de Pesca; organizó la Subsecretaría, creó el Consejo Nacional y el Servicio Nacional de Pesca.
+
+#### Artículo 13
+
+° Deróganse todas las disposiciones contrarias al presente decreto con fuerza de ley.
+
+ARTICULOS TRANSITORIOS
+
+#### Artículo 1
+
+° Mientras se fija la planta definitiva del personal del Ministerio de Economía y de sus Servicios dependientes, la actual Subsecretaría de Economía y Comercio ejercerá las atribuciones que les corresponden a las Subsecretarias de Comercio e Industrias y de Transportes.
+
+#### Artículo 2
+
+° El Ministerio de Economía dispondrá del Presupuesto de Gastos consultado en la Ley de Presupuestos vigente en los ítem 17|01|01, 17|01|02, 17|01|04, 17|01|07 h), 17|01|11, 17|02|01, 17|02|02, 17|02|04, 17|05|01, 17|05|02, 17|05|04, 17|06|01, 17|06|02, 17|06|04, 17|07|01, 17|07|02, 17|07|04, 17|08|01, 17|08|02 y 17|08|04.
+
+#### Artículo 3
+
+o Mientras se resuelve en definitiva el Estatuto Jurídico del Instituto de Crédito Industrial, sus relaciones con el Gobierno se mantendrán a través del Ministerio de Economía.
+
+Tómese razón, regístrese, comuníquese, publíquese e insértese en la Recopilación de Leyes y Decretos de la Contraloría General de la República.- CARLOS IBAÑEZ DEL CAMPO.- Rafael Tarud.- Oscar Fenner.- Osvaldo Koch.- Abdón Parra.- Orlando Latorre.- Juan B. Rossetti.- Alejandro Hales.
