@@ -1,0 +1,5 @@
+Por Decreto MOP. 762, de 7 de diciembre de 1995, y en base a la facultad otorgada por el artículo 105 del Decreto MOP. Nº 294, de 1984, que fijó el texto actualizado de la Ley 15.840, se expropiaron los lotes de terrenos Nºs. 1 y 2, para la obra Diseño Sistema de Tratamiento y Disposición Final de Aguas Servidas de Frutillar, Colector III, que figura a nombre de Emp.
+
+FF.CC. del Estado, Rol de Avalúo 90296-1, Comuna de Frutillar, X Región, superficies 202,2 y 165 m2. La comisión de Peritos compuesta por los señores Carlos Mera Santibáñez, Jaime Sanz Bahamonde y Leopoldo Schumacher Guarda, fijó con fecha 28 de agosto de 1995, el valor provisional de la indemnización en la cantidad de $444.840.- para el lote Nº 1 y $363.000.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
