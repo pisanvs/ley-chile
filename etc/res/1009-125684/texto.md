@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA LAGO RANCO LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 1.009, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Lago Ranco Limitada, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar las embarcaciones "Normorshav" y "Gangstad J.R.", en el litoral las Regiones VII y IX, donde podrá extraer los siguientes recursos: Anchoa, agujilla, caballa, cojinoba, jurel, merluza común, pejerrey, sardina española, sardina común, tiburón, tollo y lisa. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo con las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 22 de Septiembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
