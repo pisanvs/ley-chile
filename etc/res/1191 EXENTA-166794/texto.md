@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 1.191, de fecha 01 de Septiembre de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, autorízanse a los Sres. José Gerardo Navarrete Sandoval, Eugenio Enrique Concha Catalán, Juan Cvitanovic Celeghin, Joaquín Humberto Camus Ramírez, Alda Rosa del Carmen Santander Faúndez, María Angélica Raibaudi Escobar y Alfredo Riquelme Malhue, para efectuar el servicio de taxi - colectivo urbano de la Línea No. 165, "Villa Los Robles - Metro Paradero 18", cuyo trazado se encuentra autorizado por resolución exenta No. 589, de 26 Junio de 1986, de esta Secretaría Regional.
+
+Santiago, 08 de Septiembre de 1987.- Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
