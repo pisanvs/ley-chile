@@ -1,0 +1,7 @@
+DESIGNA COMO DELEGADO DEL GOBERNADOR EN PUERTO EDEN A DON FERNANDO BONIFACIO SEPULVEDA CONTRERAS
+
+Por Resolución Exenta N° 31 del 5 de Febrero de 1996 y en base a la facultad otorgada a los Gobernadores Provinciales; la disposición del artículo 5° de la Ley N° 19.175 y la autorización concedida por el Sr. Intendente Regional mediante oficio N° 039 del 2 de Febrero de 1996, considerando la situación de emergencia de la localidad de Puerto Edén, por efectos de Marea Roja y la necesidad de coordinar la acción de los Servicios Públicos y Privados para apoyar la formulación, gestión y seguimiento de proyectos de Desarrollo Económico y Social, se designó como Delegado del Gobernador en la localidad de Puerto Edén a don Fernando Bonifacio Sepúlveda Contreras, Jefe Administrativo de la Gobernación Provincial de Ultima Esperanza, quien ejercerá sus funciones a partir del 5 de Febrero hasta el 31 de Diciembre próximo, ambas fechas inclusive, siendo sus funciones las de coordinar la acción de los Servicios Públicos para Puerto Edén, canalizar las ayudas destinadas y toda función específica que se le señale.
+
+La publicación se efectúa en cumplimiento a lo dispuesto en el Artículo 5° de la Ley 19.175 del 20 de Marzo de 1993.
+
+Puerto Natales, 8 de Febrero de 1996.- Fernando Sepúlveda Contreras, Jefe Administrativo, Secretario Subrogante Gobernación Ultima Esperanza.
