@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.758, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº12, superficie 715 m2, rol de avalúo Nº109-21, comuna de Coltauco, VI Región, para la obra ''Camino Molino - Hijuela del Medio, Rol H-320, Km. 0,000 al 4,100'' y se acordó el valor de indemnización con su propietario la Sociedad Ramón Achurra y Compañía Limitada, ascendente a la cantidad de $2.177.760.-
+
+Fiscal del Ministerio de Obras Públicas.
