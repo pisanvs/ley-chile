@@ -1,0 +1,3 @@
+Por resolución Nº 606, de 23 de abril de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 91001119, presentada por MARIA EUGENIA GARCIA HERRERA, para un centro de cultivo ubicado al Sur de Punta Quento, Estero Castro, Comuna de Castro, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
