@@ -1,0 +1,5 @@
+Por Resolución N° 1.217 de 23 de diciembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 1.196, de 1994, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, R.U.T. N° 61.310.000-8, para efectuar una pesca de investigación dirigida al recurso Merluza del sur, en el sentido de reemplazar el numeral 9° por el siguiente:
+
+"9.- Las embarcaciones artesanales que participan en esta pesca de investigación y las embarcaciones que transporten la captura proveniente de esta pesca de investigación, podrán utilizar como puerto de desembarque el Puerto de Punta Arenas o aquellos lugares que determine expresamente el Servicio Nacional de Pesca."
+
+Valparaíso, 23 de Diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
