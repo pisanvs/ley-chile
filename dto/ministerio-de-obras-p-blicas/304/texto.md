@@ -1,0 +1,11 @@
+Por Decreto MOP. N° 304, de 22 de julio de 1994, se expropiaron los lotes de terreno N°s. 1 y 2,
+
+_______________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 34.955 DE 1° DE |
+
+| SEPTIEMBRE DE 1994, PAGINA 12 (CUERPO 2) |
+
+|_____________________________________________________|
+
+Fiscal del Ministerio de Obras Públicas.
