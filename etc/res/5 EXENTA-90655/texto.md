@@ -1,0 +1,15 @@
+Por resolución exenta No. O-5 de fecha 24 de Enero de 1990, se dispuso la publicación del siguiente extracto:
+
+"En Santiago de Chile, con fecha 06 de Noviembre de 1989 ante la Notario Suplente de la 1a. Notaría de Santiago, doña Laura Andrea Galecio Pesse, se otorgó la escritura pública de constitución del "Partido Tercera República", complementada por escritura pública otorgada ante la misma Notario Suplente el 23 de Enero de 1990.
+
+Su sigla es "P.T.R.", lema "Un camino hacia adelante", y símbolo un número 3 aumentado y estilizado con una boina en color rojo y azul. Los miembros de la Directiva Central Provisional son: Francisco Javier Iturriaga Steck, Presidente; Leonardo Aníbal Rivera Reyes, Secretario General; Juan Ernesto Meza Mascayano, Tesorero.
+
+Reemplazantes en caso de fallecimiento, renuncia, imposibilidad definitiva o transitoria: Raúl Augusto Droguett Inarejo, Josefina Rosa Fuentes Gutiérrez y Carlos Lautaro Rivera Barrera, respectivamente. Los del Tribunal Supremo Provisional son: Jorge Alfredo Figueroa Cruz, Delia Igualt Ossa, Foch Alberto Heresman Zurita Alvaro Manuel Iturriaga Aguera y Alfonso Roman Waldner. Reemplazantes en caso de fallecimiento, renuncia, imposibilidad definitiva o transitoria, designa como reemplazante del Presidente a don Jaime Matus Santos; del Vicepresidente a don Fernando Santelices Díaz, del Secretario a don Oscar Gómez Nordenfligich y de los directores; Pedro González Villalobos reemplazo de don Alvaro Manuel Uturriaga Aguera y don Fernando Santelices Díaz reemplazo de don Alfonso Román Walder.
+
+El domicilio común de la Directiva Central y del Tribunal Supremo es calle Vicuña Mackenna número cuatro, departamento número tres del piso cuarto de la ciudad de Santiago.
+
+Finalidades y Principios: 1) Formar cuadros de chilenos gran vocación patriótica para visualizar futuro real del país, encausado en moldes de una Tercera República capaz de dar felicidad a su pueblo, mediante desarrollo tecnológico, intelectual y socio político, de tal calidad que no admite grupos privilegiados ni marginadas; 2) Superación lesivas divisiones de chilenos sin incurrir en injusticias, fin pueda emerger sociedad civilizada, desarrollada libre, creadora, integrada y profundamente solidaria, respetuosa de derechos individuales y colectivos, mediante fuerza moral del pueblo y riqueza de nuestro territorio; 3) Crear organización cívico social ajustada a la Ley No. 18.603 y modificaciones, que sea motor ideas nuevas y sepa interpretar otra forma la realidad nacional, uniendo las fuerzas del trabajo con tecnología y capital. Estas finalidades pueden generar bienestar y democracia económica, único pedestal válido para democracia política, enraizada en nuestra historia.
+
+Afiliados serán respetuosos estado de derecho, instituciones y autoridades, las que evolucionarán en democracia hacia una Tercera República, la que se inicia luego de agotados históricamente lapsos precedentes".
+
+Juan Ignacio García Rodríguez, Director.
