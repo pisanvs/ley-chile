@@ -1,0 +1,3 @@
+Por decretos M.O.P. Nºs. 195 y 196, de 27 de febrero de 1998, se expropiaron los lotes de terreno Nºs. 21, 2 y 3, superficies 131, 715 y 189 M2. respectivamente, roles de avalúo 3507-10 y 3014-7, comuna de Valdivia, para la obra Camino Niebla-Los Molinos Ruta T - 352, Sector Niebla Los Molinos y se acordó precio de indemnización con sus propietarios Luis Zaror Cornejo y otra y María Bauer Forno, ascendente a las cantidades de $2.273.284.- para el lote 21 y $7.793.776.- para los lotes 2 y 3.
+
+Fiscal del Ministerio de Obras Públicas.
