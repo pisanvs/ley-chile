@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº784, de 31 de mayo de 2002, se expropió el lote de terreno Nº86, superficie 52 m², Rol de Avalúo Nº1420-44, comuna de Rancagua, para la obra Mejoramiento Ruta H-240, sector Rancagua-San Ramón, Km. 0,0000 a Km. 5,0000, VI Región y se acordó el valor de indemnización con su propietario Leopoldo Anselmo Espinoza Osorio, ascendente a la cantidad de $256.032.-
+
+Fiscal del Ministerio de Obras Públicas.
