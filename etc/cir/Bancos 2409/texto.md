@@ -1366,7 +1366,7 @@ Quedan excluidas de las condiciones de plazos mínimos señaladas en los párraf
 
 a) Los intereses que el Banco del Estado de Chile debe pagar por los depósitos a la orden judicial en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales.
 
-b) Los intereses que se paguen sobre los importes de divisas mantenidas en cuentas con bancos, de conformidad con lo dispuesto en el N°3 del punto I de la letra G del Capítulo XIV y en el numeral 4.3 del Capítulo XXVI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+b) Los intereses que se paguen sobre los importes de divisas mantenidas en cuentas con bancos, de conformidad con lo dispuesto en el numeral 4.3 del Capítulo XXVI del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 c) Los intereses y reajustes que se paguen por las captaciones realizadas mediante la venta con pacto de recompra de los instrumentos que se señalan en el N° 3 del título III de este Capítulo, en cuyo caso el plazo mínimo es de cuatro días hábiles bancarios.
 
@@ -1458,9 +1458,9 @@ Al respecto conviene tener presente que, si bien en la letra d) del N° 6 del Ca
 
 ### 6. Otras disposiciones
 
-6.1. Captación de recursos en moneda extranjera que pueden realizar las sociedades financieras.
+6.1.- Captación de recursos en moneda extranjera por las sociedades financieras.
 
-Las sociedades financieras podrán captar recursos en moneda extranjera únicamente cuando se trate de depósitos contratados en el exterior, a plazo fijo e internados al país al amparo de lo dispuesto en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, con el objeto de otorgar, con el producto de su liquidación, préstamos en moneda chilena.
+Las sociedades financieras podrán captar recursos en moneda extranjera únicamente cuando el Banco Central de Chile, en uso de sus atribuciones, las autorice para tal efecto.
 
 6.2. Prohibición de ofrecer a los depositantes beneficios diferentes a las tasas de interés y al reajuste.
 
@@ -3701,10 +3701,6 @@ Cuentas: -"Captaciones a más de un año exentas de encaje".
 En concordancia con las normas de encaje del Banco Central de Chile, la cuenta "Captaciones a más de un año con retiros dentro del año" será utilizada por los bancos y sociedades financieras para registrar aquellas operaciones en las cuales se pacte algún giro dentro del año, aunque se trate sólo del retiro de intereses.
 
 Por otra parte, en la cuenta "Depósitos y captaciones a más de un año afectos a encaje" se reflejarán, en la moneda que corresponda, los saldos de las operaciones en moneda extranjera en general, y de aquellas operaciones en moneda chilena que se documenten con certificados de depósito.
-
-c) Cuentas especiales.
-
-Se exceptúan de las instrucciones precedentes de este numeral, los depósitos a que se refiere el N° 3 de la letra A del número I del Capítulo XIV Título I del Compendio de Normas de Cambios Internacionales, los que deben registrarse en las cuentas que se señala en el Capítulo 13-33 de esta Recopilación Actualizada de Normas.
 
 6.2. Intereses y reajustes.
 
@@ -7761,6 +7757,16 @@ e) Bonos subordinados y bonos colocados en el exterior.
 Cuando se trate de bonos subordinados, las instituciones financieras deberán atenerse a las instrucciones complementarias o específicas contenidas en el Capítulo 9-6 de esta Recopilación Actualizada de Normas.
 
 Asimismo, en el evento de que se coloquen bonos en el exterior, deberán considerarse las normas del Capítulo 13-34 de esta Recopilación.
+
+IX.- LINEAS DE CREDITO DEL EXTERIOR.
+
+Los bancos registrarán las líneas de crédito que obtengan en el extranjero en la cuenta "Líneas de crédito del exterior", de la partida 9380.
+
+Los gastos por comisiones de estas líneas de crédito se imputarán a la cuenta "Comisiones pagadas por financiamientos del exterior", de la partida 5510.
+
+X.- FINANCIAMIENTO DE GASTOS LOCALES DE IMPORTACIONES.
+
+Los créditos en moneda extranjera que otorguen los bancos, al amparo de lo dispuesto en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, para financiar gastos locales que originen las importaciones, se incluirán en la cuenta "Préstamos para gastos locales" de la partida 1110 ó 1205, según proceda.
 
 CAPITULO 7-6 (Bancos)
 
@@ -17862,78 +17868,6 @@ c) Operaciones con pacto de retrocompra.
 
 d) Inversiones financieras.
 
-CAPITULO 12-8 (Bancos y Financieras)
-
-MATERIA:
-
-LIMITE DE OBLIGACIONES CON EL EXTERIOR.
-
-### 1. Monto máximo de endeudamiento con el exterior a menos de un año
-
-1.1. Sociedades financieras.
-
-Las únicas obligaciones que las sociedades financieras están autorizadas para contraer en el exterior son aquéllas correspondientes a créditos que pueden ingresar al país al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, con el solo fin de otorgar con el producto de su liquidación, los créditos a que se refiere el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
-
-El monto total de este endeudamiento, a menos de un año plazo, no puede exceder de una vez el capital pagado y reservas de la sociedad más el promedio de las divisas provenientes de la recompra de créditos externos vendidas al Banco Central de Chile con pacto de recompra.
-
-1.2. Bancos.
-
-Las obligaciones que las empresas bancarias mantengan en el exterior a menos de un año plazo, excluidas las que se destinen al financiamiento de exportaciones, no pueden exceder en promedio, de la suma de los siguientes rubros:
-
-a) El 100% del capital pagado y reservas.
-
-b) El promedio de los depósitos y captaciones en moneda extranjera, obtenidos de personas establecidas en el país, distintas de bancos y financieras.
-
-1.3. Excepciones.
-
-Se exceptúan de los márgenes a que se refieren los numerales precedentes, las instituciones financieras cuyo endeudamiento con el exterior, distinto de aquel destinado al financiamiento de exportaciones en el caso de los bancos, esté contratado a plazos promedios no inferiores a tres años.
-
-### 2. Obligaciones afectas a margen
-
-Quedan afectas al límite señalado en el número anterior, en los casos que corresponda, todas las obligaciones contraídas por las entidades financieras con acreedores del exterior a plazos inferiores a un año, distintas de aquellas que se destinen al financiamiento de exportaciones.
-
-En consecuencia, se considerarán dentro de este margen los préstamos y otras obligaciones registradas en las partidas 3505 a 3525 del formulario MB1, con excepción de las obligaciones que tengan por única finalidad el financiamiento de exportaciones chilenas.
-
-No se considerarán en el cómputo de las obligaciones, los intereses devengados por pagar que se registren en cuentas complementarias.
-
-### 3. Cesión de márgenes entre instituciones financieras
-
-Las instituciones financieras podrán traspasarse entre sí los márgenes que, de acuerdo a lo señalado en los números precedentes, tengan disponibles.
-
-Estas cesiones de margen podrán hacerse por períodos mínimos de un mes calendario completo.
-
-La entidad que traspase parte de su margen a otra institución no podrá exceder el promedio de sus obligaciones con el exterior, a menos de un año, del límite señalado en el número 1 de este capítulo, deducidas las cesiones de márgenes que haya efectuado, aun en el caso en que se encuentre facultada para excederse en razón de ser el plazo promedio de su endeudamiento externo no inferior a tres años.
-
-Los traspasos de márgenes deben ser comunicados en conjunto por la entidad cedente y por la cesionaria, tanto a esta Superintendencia como al Banco Central de Chile. Esa comunicación se efectuará a más tardar el último día hábil del mes en que se haya realizado el traspaso yen ella se informará el monto traspasado y el período de vigencia.
-
-Igualmente, dentro del mismo plazo, deberá comunicarse cualquiera modificación a los traspasos acordados.
-
-Las instituciones financieras que reciban márgenes traspasados no podrán, a su vez, cederlos a otros bancos o sociedades financieras.
-
-### 4. Determinación de los plazos
-
-Para los efectos de determinar el plazo de las obligaciones contraídas con
-
-acreedores del exterior, se considerará el período que transcurre entre la fecha
-
-en que se contrae la deuda y aquella en que debe ser reembolsada.
-
-Cuando se trate de obligaciones pagaderas en parcialidades, se calculará el
-
-plazo promedio del crédito sobre la base del importe de cada cuota y el tiempo
-
-que transcurre desde el desembolso de la operación hasta la fecha convenida para
-
-cada pago. En otros términos, se multiplicará el importe de cada parcialidad por
-
-el plazo corrido desde el desembolso del crédito hasta el vencimiento de cada
-
-cuota; luego se dividirá la suma de los productos obtenidos de esas
-
-multiplicaciones por el monto total del crédito y ello dará el plazo promedio de
-
-vigencia.
-
 CAPITULO 12-9 (Bancos y Financieras)
 
 MATERIA:
@@ -18778,104 +18712,6 @@ b) Comisión.
 
 Las comisiones que cobren los bancos por ventas o canjes de cheques viajeros, las que deben ser informadas al público en la forma prevista en las normas de esta Superintendencia sobre compra y venta de divisas, serán acreditadas en la cuenta"Comisiones ganadas cheques viajeros", de la partida 7530.
 
-CAPITULO 13-4 (Bancos)
-
-MATERIA:
-
-DIVISAS RECOMPRADAS POR PERSONAS QUE TRANSFIERAN A CHILE CAPITALES EN MONEDA
-
-EXTRANJERA Y POR SOCIEDADES QUE RECIBAN APORTES DE CAPITAL DE SOCIOS EXTRANJEROS.
-
-### 1. Recompra de divisas por personas que transfieran capitales al país
-
-1.1. Norma general.
-
-Las personas que transfieran capitales al país y los liquiden, al amparo de las normas del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile o del Decreto Ley N° 600, de 974, y sus modificaciones,podrán recomprar dólares de los Estados Unidos de América o la misma moneda extranjera vendida, hasta por un monto equivalente a la moneda extranjera liquidada en la respectiva operación, siempre que el destino de las divisas ingresadas no sea el de prepagar obligaciones según lo dispuesto en el N° 9, Título I, letra A) del Capítulo XIV ya citado.
-
-Estas recompras podrán ser por una parte o por el total de la moneda extranjera liquidada y deberán efectuarse simultáneamente con la referida liquidación.
-
-1.2. Obligación de mantener en una cuenta corriente especial las divisas recompradas.
-
-Las divisas recompradas de conformidad con lo indicado en el numeral 1.1 precedente, deberán mantenerse depositadas en una cuenta corriente especial única, abierta para tal objeto en un solo banco del país a nombre de la persona que ha efectuado la transferencia o ingreso de capital al país.
-
-Dado el carácter especial de esta cuenta corriente, los importes mantenidos en ella no devengarán intereses ni comisión alguna a favor de su titular, salvo en los casos señalados en el N° 3 del punto I de la letra G del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-Las empresas bancarias que abran este tipo de cuentas comentes deberán insertar en los correspondientes contratos una cláusula en la que conste que estas cuentas se manejarán, por parte del titular, con estricta sujeción a las disposiciones que, sobre el particular, se señalan en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, en especial en lo que se refiere a la utilización de sus fondos. Además, en los referidos contratos, el titular deberá facultar en forma irrevocable al respectivo banco, para que entregue al Banco Central de Chile toda la información y antecedentes relativos al movimiento de estas cuentas corrientes, cuando éste lo requiera.
-
-El saldo de esta cuenta no podrá exceder el monto total de las divisas recompradas en virtud de las disposiciones de que se trata, deducidos los importes a que se refieren las letras a) y b) del numeral 1.3 de este capítulo.
-
-1.3. Giros de las cuentas corrientes especiales.
-
-Los giros que se hagan con cargo a las cuentas corrientes especiales de que trata el presente capítulo, podrán destinarse exclusivamente a alguno de los siguientes fines:
-
-a) Para su conversión a moneda nacional.
-
-b) Para liquidar a moneda nacional con el objeto de efectuar pagos al exterior.
-
-c) Para traspasar el total del saldo a otra empresa bancaria establecida en el país.
-
-Los giros con cargo a esta cuenta, se efectuarán mediante "cheques internos" o "cheques sueltos", extendidos a la propia orden del titular de la cuenta y que, en cada oportunidad proporcionará el banco. Cada giro que se realice, deberá acompañarse de una declaración del titular en la que se indique el destino que se dará a esos recursos y que no podrá ser otro que alguno de los contemplados expresamente en las disposiciones del Banco Central de Chile. Además, cuando proceda, los bancos requerirán del titular la presentación de la respectiva autorización del Instituto Emisor para girar de esta cuenta.
-
-2. Recompra de divisas por sociedades receptoras de aportes de socios extranjeros.
-
-Los bancos que vendan divisas a las sociedades receptoras de aportes de capital de socios extranjeros por concepto de recompra de aportes de capital, exigirán a éstas una declaración en la que conste que los recursos aplicados a la recompra que se solicita, provienen de aportes en moneda corriente recibidos de socios que obtuvieron esos recursos como producto de aportes en moneda extranjera ingresados y liquidados conforme al D.L. N° 600 o al Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, debiendo dejarse constancia de la fecha y Notaría en que se extendió la respectiva escritura pública o del número y fecha de la autorización del Banco Central de Chile, según corresponda a aportes ingresados al amparo del D.L. N° 600 o del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
-
-En la misma declaración la sociedad deberá comprometerse a depositar las divisas adquiridas, en una cuenta corriente especial abierta en un banco a su propio nombre, y a girar de esos depósitos solamente para su conversión a moneda chilena o para su aplicación a alguno de los fines expresamente indicados por el Banco Central de Chile en el Capítulo XIV del Título I de su Compendio de Normas de Cambios Internacionales. La referida cuenta estará sujeta a las condiciones indicadas en los numerales 1.2 y 1.3 de este capítulo.
-
-Además, las referidas sociedades deberán presentar una declaración jurada simple suscrita por el socio aportante, en la cual éste exprese que renuncia a la recompra de las divisas ingresadas al país correspondientes al respectivo aporte.
-
-Las sociedades que decidan efectuar esta recompra de divisas, deberán hacerlo simultáneamente con la entrega de la moneda chilena por parte del socio extranjero aportante.
-
-### 3. Información al Banco Central de Chile
-
-Los bancos que vendan divisas a las personas que transfieran o ingresen
-
-capitales al país bajo el amparo de alguna de las disposiciones citadas o a las
-
-sociedades receptoras de aportes de socios extranjeros por concepto de
-
-recompra,deberán enviar a la sección de Aportes de Capital del Banco Central de
-
-Chile, al día hábil bancario siguiente de efectuada la venta de divisas, copia
-
-de la Planilla de Operación de Cambios - Egreso, en la que deberán dejar
-
-constancia dela Notaría y fecha en que se firmó la escritura pública o del
-
-número de autorización del Instituto Emisor, según corresponda. Además, deberán
-
-indicar el número y fecha de la Planilla de Operación de Cambios Ingreso,
-
-correspondiente ala liquidación del aporte de capital.
-
-Conjuntamente con el envío de la planilla antes señalada, los bancos informarán
-
-al Banco Central de Chile, el nombre de la empresa bancaria en la cual se abrirá
-
-la cuenta corriente especial de que trata el numeral 1.2 precedente y se
-
-depositará el importe recomprado.
-
-CAPITULO 13-5 (Bancos)
-
-MATERIA:
-
-RECOMPRA DE DIVISAS POR APORTES DE CAPITAL D.L. N° 600 EFECTUADOS POR EMPRESAS
-
-BANCARIAS.
-
-### 1. Generalidades
-
-Los bancos que ingresen al país aportes de capital de conformidad con lo dispuesto en la letra a) del artículo 2° del D.L. N° 600, de 1974 y sus modificaciones y que con ellos aumenten efectivamente su capital, pueden recomprar divisas por un monto no superior al de dichos aportes. La mencionada recompra debe efectuarse simultáneamente con la liquidación de los aportes deque se trata.
-
-Sin embargo, en los casos en que el producto de los referidos aportes de capital se destine a pagar anticipadamente créditos externos internados al amparo del Art. 14 de la Ley de Cambios Internacionales derogada por la Ley N°18.840 o del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, la recompra de divisas sólo se podrá hacer con el importe de las colocaciones recuperadas o castigadas que se hubieren cursado con cargo a dichos créditos externos. Si en la fecha de efectuar el pago anticipado de los mencionados créditos externos el banco mantuviere divisas recompradas con cargo a esos recursos, éstas pasarán a computarse como recompra del aporte de capital internado al amparo del D.L. N°600.
-
-### 2. Instrucciones contables
-
-Las divisas recompradas se acreditarán en la cuenta "Conversión recompra aportes de capital D.L. N° 600" de la partida 4510 del formulario MB1, en tanto que su equivalente en pesos moneda corriente, se registrará en la cuenta "Cambios recompra aportes de capital D.L. N° 600", de la partida 2510 del referido formulario.
-
-El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio recompra aportes de capital D.L. N° 600" y contabilizarán dicho ajuste en la forma prevista en el capítulo 13-30 de la Recopilación Actualizada de Normas, debiendo aplicar el tipo de cambio de representación contable vigente en esta fecha.
-
 CAPITULO 13-6 (Bancos)
 
 MATERIA:
@@ -18960,99 +18796,57 @@ El ajuste corresponderá exclusivamente a la diferencia que resulte, para cada c
 
 El derecho a recomprar divisas del Banco Central de Chile se considerará dentro de los importes a que se refiere la letra E) del N° 1 del título II del Capítulo 12-1 de esta Recopilación de Normas, para los efectos de determinar el activo total de la institución en relación con la exigencia de capital básico, así como se considerará también en las demás disposiciones correspondientes a instrumentos derivados.
 
-CAPITULO 13-13 (Bancos y Financieras)
+CAPITULO 13-13 (Bancos)
 
 MATERIA:
 
 PRESTAMOS Y CAPTACIONES DEL EXTERIOR PARA OTORGAR CREDITOS EN MONEDA CHILENA. CAPITULO V.B.1 CNF.
 
-1.- Créditos, depósitos y captaciones a plazo fijo del exterior.
+1. - Facultad de los bancos para internar créditos, depósitos y captaciones del exterior para otorgar préstamos en pesos.
 
-1.1.- Facultad de internar créditos, depósitos y captaciones del exterior para otorgar préstamos en pesos.
-
-Las normas establecidas en el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile, autorizan a los bancos y a las sociedades financieras para contratar créditos externos y recibir depósitos y captaciones del exterior, a plazo fijo e internarlos al amparo de las disposiciones del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, con el objeto de otorgar, con el producto de su liquidación, préstamos en moneda chilena.
-
-1.2.- Encaje de los Créditos externos.
-
-Los créditos externos que las instituciones financieras internen al país de acuerdo con las disposiciones de este Capítulo, deberán constituir el encaje a que se refiere el título V del Capítulo 4-1 de esta Recopilación Actualizada de Normas.
+Las normas establecidas en el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile, autorizan a los bancos para contratar créditos externos y recibir depósitos y captaciones del exterior, a plazo fijo e internarlos al amparo de las disposiciones del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales, con el objeto de otorgar, con el producto de su liquidación, préstamos en moneda chilena.
 
 2.- Préstamos en moneda chilena.
 
-Con el producto de la liquidación de los créditos, depósitos y captaciones internados para el efecto, las empresas bancarias y sociedades financieras pueden otorgar préstamos en pesos nominales, con cláusula de reajustabilidad según la variación de la unidad de fomento o bien expresados en moneda extranjera y pagaderos en pesos. Para los efectos del otorgamiento y pago de estos últimos, debe utilizarse el tipo de cambio vendedor de la empresa, vigente en la fecha en que se concede y se paga, respectivamente.
+Con el producto de la liquidación de los créditos, depósitos y captaciones internados para el efecto antes señalado, las empresas bancarias pueden otorgar préstamos en pesos nominales, con cláusula de reajustabilidad según la variación de la unidad de fomento o bien expresados en moneda extranjera y pagaderos en pesos. Para los efectos del otorgamiento y pago de estos últimos, debe utilizarse el tipo de cambio vendedor de la empresa, vigente en la fecha en que se concede y se paga, respectivamente.
 
 Los préstamos de que se trata se documentarán mediante la suscripción de pagaré o aceptación de letra de cambio, o bien podrán corresponder a descuentos de tales documentos si ellos cumplen las condiciones antes señaladas.
 
-Las comisiones y gastos relativos a la obtención de los créditos externos son de cargo de las respectivas entidades financieras.
+Las comisiones y gastos relativos a la obtención de los créditos externos son de cargo de los respectivos bancos.
 
-Los préstamos de que se trata se podrán otorgar asimismo a otros bancos y sociedades financieras, los que, a su vez, podrán conceder créditos a sus clientes con cargo a estos recursos y bajo cualquiera de las formas señaladas precedentemente.
+Los préstamos de que se trata se podrán otorgar asimismo a otros bancos o sociedades financieras, los que, a su vez, podrán conceder créditos a sus clientes con cargo a estos recursos y bajo alguna de las formas señaladas precedentemente.
 
-3.- Facultad de recomprar divisas.
+3.- Normas contables.
 
-3.1.- Recompra de divisas liquidadas.
-
-Los bancos y las sociedades financieras que internen al país y liquiden los referidos créditos, depósitos y captaciones del exterior, podrán recomprar, al momento de su liquidación, el total o parte de las divisas ingresadas, ateniéndose en todo caso a las normas del Instituto Emisor.
-
-Además, podría efectuar esas recompras de divisas con los importes que reciban de sus clientes en pago de los préstamos cursados con esos recursos externos, como también podrán hacerlo por los montos equivalentes a aquellos créditos de la misma especie que, en virtud de las disposiciones vigentes, sean castigados.
-
-3.2.- Monto máximo de divisas que pueden mantenerse recompradas.
-
-El monto máximo de divisas recompradas que mantengan las instituciones financieras, no podrá exceder en ningún momento del importe de las divisas ingresadas correspondientes a las operaciones que dan origen a las recompras, más el saldo de las líneas de crédito expresadas en dólares norteamericanos otorgadas por el Banco Central por la reprogramación de los créditos otorgados con esos recursos externos, deducidos el saldo de los créditos otorgados con estos recursos, que mantengan en su cartera de colocaciones o que hayan sido vendidos al Banco Central de Chile y rescatados con motivo de haberse novado la obligación de recompra de la cartera cedida.
-
-3.3.- Usos que se pueden dar a las divisas recompradas.
-
-Las instituciones financieras deberán utilizar las divisas recompradas solamente en algunos de los fines que a continuación se indican:
-
-a) Liquidar a moneda chilena para cursar las colocaciones a que se refiere este Capítulo.
-
-b) Liquidar a moneda chilena con el objeto de efectuar pagos al exterior, en caso que proceda, previa autorización del Banco Central de Chile.
-
-Además de lo anterior, las instituciones financieras que mantengan créditos externos ingresados al país con anterioridad al 1° de febrero de 1983, como asimismo créditos cuyo objeto haya sido prepagar esos créditos y que no correspondan a los que se indican en el N° 2 de la Circular conjunta de 27 de junio de 1985 de los señores Ministros de Hacienda y de Economía, Fomento y Reconstrucción y Presidente del Banco Central de Chile, pueden utilizar las correspondientes divisas recompradas para depositar en la cuenta corriente especial en dólares de los Estados Unidos de América a que se refiere el Capítulo IV.E.2 del Compendio de Normas Financieras del Instituto Emisor y el Capítulo 13-8 de esta Recopilación de Normas.
-
-4.- Normas contables.
-
-4.1.- Identificación de las obligaciones y colocaciones.
-
-Para los fines señalados en el numeral 3.2 de este Capítulo, las instituciones financieras deberán mantener apropiadamente identificadas en su contabilidad las obligaciones que contraigan por la obtención de estos recursos, como asimismo las colocaciones efectuadas con ellos.
-
-4.2.- Liquidación de los recursos obtenidos.
+3.1.- Liquidación de los recursos obtenidos.
 
 La liquidación de los recursos obtenidos se contabilizará de la forma que se describe a continuación:
 
 a) Moneda extranjera.
 
-Debe: - "Conversión Créditos Externos - V.B.1 CNF", de la partida 2510 ó 4510.
+"Conversión Créditos Externos - V.B.1 CNF", de la partida 2510 ó 4510.
 
-- "Depósito por encaje de créditos del exterior", de la partida 1770, por la constitución del encaje en el Banco Central de Chile.
-
-Haber: - "Conversión Mercado Bancario", de la partida 2505 ó 43505. Las sociedades financieras deben abonar la cuenta en la cual mantengan disponible el importe que liquiden.
-
-- La cuenta que corresponda por el giro para enterar el encaje en el Banco Central de Chile.
+"Conversión Mercado Bancario", de la partida 2505 ó 4505.
 
 b) Moneda chilena.
 
-Debe: - "Cambio Mercado Bancario", de la partida 2505 ó 4505. Las sociedades financieras debitarán la cuenta Caja o Banco según corresponda, por el valor líquido recibido.
+"Cambio Mercado Bancario", de la partida 2505 ó 4505.
 
-Haber: - "Cambio Créditos Externos-V.B.1 CNF" de la partida 4510 ó 2510.
+"Cambio Créditos Externos-V.B.1 CNF" de la partida 4510 ó 2510.
 
-4.3.- Divisas recompradas.
-
-La recompra de divisas se contabilizará abonando la cuenta "Conversión créditos externos-V.B.1 CNF" antes señalada. Simultáneamente, el importe recomprado se registrará en cuentas de orden con cargo a "Divisas disponibles por recompra de créditos externos-V.B.1 CNF" de la partida 9470.
-
-La liquidación de las divisas recompradas se registrará en las mismas cuentas de Conversión y Cambios indicadas en el numeral 4.2 precedente, debiéndose revertir el respectivo importe registrado en la cuenta de orden "Divisas disponibles por recompra de créditos externos-V.B.1 CNF".
-
-4.4.- Operaciones expresadas en moneda extranjera y pagaderas en pesos.
+3.2.- Operaciones expresadas en moneda extranjera y pagaderas en pesos.
 
 Los préstamos y descuentos documentados en moneda extranjera, serán registrados en la misma moneda en que estén documentados con abono a la cuenta "Conversión Créditos Externos-V.B.1 CNF", en tanto que la entrega de la moneda chilena será registrada con cargo a la cuenta "Cambio Créditos Externos-V.B.1 CNF".
 
-Las obligaciones que las instituciones financieras contraigan con otras, por la obtención de créditos documentados en moneda extranjera pagaderos en pesos, serán registradas en la misma moneda en que ellos estén documentados con cargo a la cuenta "Conversión Créditos Externos-V.B.1 CNF", en tanto que la moneda chilena recibida será registrada con abono a la cuenta "Cambio Créditos Externos-V.B.1 CNF".
+Las obligaciones que las entidades financieras contraigan con otras, por la obtención de créditos documentados en moneda extranjera pagaderos en pesos, serán registradas en la misma moneda en que ellos estén documentados con cargo a la cuenta "Conversión Créditos Externos -V.B.1 CNF", en tanto que la moneda chilena recibida será registrada con abono a la cuenta "Cambio Créditos Externos-V.B.1 CNF".
 
-4.5.- Intereses por cobrar o por pagar.
+3.3.- Intereses por cobrar o por pagar.
 
 Los ingresos y gastos por concepto de intereses correspondientes a las operaciones de que trata este Capítulo se reconocerán contablemente, en todos los casos, en pesos moneda chilena.
 
-4.6.- Ajuste de la cuenta "Cambio Créditos Externos-V.B.1 CNF".
+3.4.- Ajuste de la cuenta "Cambio Créditos Externos-V.B.1 CNF".
 
-El saldo de la cuenta "Cambio Créditos Externos-V.B.1 CNF" deberá ajustarse al cierre de cada mes en la forma prevista en el Capítulo 13-30 de esta Recopilación, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
+El saldo de la cuenta "Cambio Créditos Externos- V.B.1 CNF" deberá ajustarse al cierre de cada mes en la forma prevista en el Capítulo 13-30 de esta Recopilación, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
 
 CAPITULO 13-14 (Bancos)
 
@@ -19137,146 +18931,6 @@ Haber: "Cambio recursos propios-V.B.2 CNF", de la partida 4510.
 En el pago de los créditos se efectuará una contabilización inversa a la señalada, reflejando el importe recibido en moneda chilena y la correspondiente adquisición de las divisas.
 
 El saldo de la cuenta "Cambio recursos propios-V.B.2 CNF" deberá ajustarse al cierre de cada mes en la forma prevista en el Capítulo 13-30 de esta Recopilación, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
-
-CAPITULO 13-15 (Bancos)
-
-MATERIA:
-
-UTILIZACION DE LINEAS DE CREDITO DEL EXTERIOR.
-
-### 1. Contratación de lineas de crédito
-
-Los bancos están facultados para contratar, sin autorización previa del Banco Central de Chile, líneas de crédito en moneda extranjera con bancos del exterior.
-
-Los importes que los bancos giren con cargo a las referidas líneas de crédito deberán ser liquidados en el mercado cambiario formal, con excepción de aquellos recursos que se destinen a los usos que se indican en el N° 2 de este Capítulo.
-
-2. Uso que se debe dar a las lineas de crédito del exterior para exceptuarlas de liquidación.
-
-Los recursos provenientes de las líneas de crédito a que se refiere este capítulo, quedan exceptuados de la obligación de ser liquidados a moneda chilena, solamente cuando se destinen a los siguientes fines:
-
-a) Financiar importaciones de acuerdo con lo dispuesto en el número 3 de este Capítulo.
-
-b) Financiar exportaciones de conformidad con lo dispuesto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en el Capítulo 14-3 de esta Recopilación Actualizada de Normas.
-
-c) Financiar gastos locales correspondientes a importaciones de bienes de capital, de conformidad con lo dispuesto en el N° 4 de este capítulo.
-
-d) Depositar en la cuenta especial a que se refieren la letra A) del Capítulo IV.E.2 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 13-8 de esta Recopilación de Normas, cuando se trate de recursos provenientes de obligaciones contraídas con anterioridad al 1° de febrero de 1983, incluidas las pactadas a partir de esa fecha con el objeto de efectuar el pago anticipado de aquéllas antes indicadas y excluidas las obligaciones con el exterior a que se refiere el N° 2 de la Circular Conjunta del 27 de junio de 1985 del Ministro de Hacienda, Ministro de Economía, Fomento y Reconstrucción y Presidente del Banco Central de Chile.
-
-e) Otorgar créditos a personas naturales o jurídicas residentes en el exterior, con el único objeto de financiar importaciones procedentes de Chile o exportaciones destinadas a este país.
-
-f) Otorgar los créditos de que trata el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-### 3. Financiamiento de Importaciones
-
-Los créditos que otorguen los bancos a las personas situadas en Chile, para financiar importaciones, serán pactados libremente con los respectivos usuarios pero, en todo caso, los términos que se acuerden deberán ser concordantes, en los casos que corresponda con las condiciones que haya autorizado el Banco Central de Chile en el respectivo Informe de Importación emitido, así como con los términos de las líneas de crédito utilizadas para su refinanciamiento.
-
-### 4. Financiamiento de gastos locales
-
-Los bancos pueden otorgar créditos en moneda extranjera para financiar los gastos locales que originen las importaciones de los siguientes bienes:
-
-a) Bienes de capital (maquinaria, equipos) y sus repuestos, siempre que el valor de estos últimos no exceda al 10% de cada operación y que la compra haya sido contratada junto con la del bien a que se destinen.
-
-b) Embarcaciones.
-
-c) Aeronaves.
-
-d) Libros y Revistas.
-
-e) Animales reproductores, de pedigree y/o puros por cruza.
-
-4.1. Requisitos para cursar el crédito.
-
-Para cursar estos financiamientos de gastos locales, será necesario que se cumplan los siguientes requisitos:
-
-a) Que el solicitante cuente previamente con el correspondiente Informe de Importación emitido por el Banco Central de Chile, en el que se contemple un plazo de pago para las mercaderías superior a un año.
-
-b) Que tanto el préstamo para financiar los gastos locales como la importación correspondiente, sean cursados por el mismo banco.
-
-c) Que el monto del crédito se destine exclusivamente al financiamiento de los gastos que demande en Chile el bien importado para el que fue solicitado.
-
-Por otra parte, se procurará que el plazo convenido para la amortización de estos créditos, mantenga una adecuada relación con los vencimientos estipulados para la cobertura de la importación cuyos gastos se financien.
-
-4.2. Liquidación del crédito.
-
-El importe en moneda extranjera de estos préstamos deberá ser liquidado en el mercado cambiario formal por la misma institución que los curse, al tipo de cambio vigente en la fecha de su liquidación.
-
-La compra resultante de la liquidación de las divisas correspondientes, será declarada al Banco Central de Chile en una Planilla de Operación de Cambios-Comercio Invisible-Ingresos, con el código que para ese rubro tenga establecido el Instituto Emisor.
-
-4.3. Pago del préstamo.
-
-Los deudores pueden adquirir en el mercado cambiario formal, sin necesidad de liquidarlas, las divisas necesarias destinadas a rembolsar al banco, en las fechas que corresponda, el importe parcial o total del préstamo obtenido.
-
-Para realizar esas ventas la empresa bancaria que intervenga en la operación deberá requerir del deudor una copia de la Planilla de Ingreso que acredite la liquidación en el mercado de cambios formal de las divisas del crédito para cuyo rembolso solicita la venta de la moneda extranjera. Esa copia deberá remitirse al Banco Central de Chile conjuntamente con la respectiva Planilla de Operación de Cambios emitida por el egreso causado por esta venta.
-
-### 5. Financiamiento de exportaciones
-
-Los bancos podrán otorgar créditos con cargo a estos recursos del exterior, a personas situadas en Chile, para financiar exportaciones en las condiciones que acuerden con los respectivos exportadores, de conformidad con las normas contenidas en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales y en el Capítulo 14-3 de esta Recopilación de Normas.
-
-### 6. Documentación de los créditos
-
-Los créditos que los bancos otorguen de conformidad con las disposiciones de este capítulo, se documentarán mediante la aceptación de letras de cambio o suscripción de pagarés por parte del deudor.
-
-Cuando se trate de los créditos a que se refiere el título II del Capítulo 13-27 de esta Recopilación, se documentarán mediante letras de cambio, pagarés, o bien, se procederá de acuerdo con los usos y costumbres internacionales para cursar operaciones financieras o de comercio exterior.
-
-### 7. Plazo de los créditos
-
-El plazo al que se otorguen los créditos antes mencionados, se pactará libremente entre los bancos y los respectivos usuarios, acorde en todo caso, cuando corresponda, con las condiciones autorizadas por el Banco Central de Chile.
-
-### 8. Tasa de interés
-
-La tasa de interés de los créditos de que se trata, se pactará libremente entre el banco acreedor y los usuarios, con sujeción, en todo caso, a la tasa máxima convencional para operaciones en moneda extranjera y a lo aprobado por el Banco Central de Chile, en los casos que así corresponda.
-
-No regirá la limitación señalada en el párrafo precedente, cuando se trate de los créditos a que se refiere el título II del Capítulo 13-27 de esta Recopilación.
-
-### 9. Normas contables
-
-La contabilización de las operaciones de que se trata, se realizará de la siguiente forma:
-
-9.1. Obtención de las lineas de crédito del exterior.
-
-El monto de la línea de crédito obtenida se registrará en la cuenta de orden "Líneas de crédito del exterior", de la partida 9380.
-
-9.2. Utilización de lineas de crédito.
-
-Las obligaciones derivadas de la utilización de créditos externos o de las líneas de crédito, serán registradas en la cuenta "Adeudado a bancos y corresponsales del exterior", cuyo saldo se demostrará en la partida 3505, 3510 ó 3555, según corresponda. En caso de que la obligación sea contraída con una oficina del mismo banco en el exterior, se registrará en la cuenta "Adeudado al exterior a oficinas del mismo banco", la que se demostrará en la partida 3515 ó 3560.
-
-Si las obligaciones son pagaderas por intermedio del Convenio de Créditos Recíprocos ALADI, serán registradas en la cuenta "Adeudado a bancos y corresponsales con rembolso a través de convenios ALADI", cuyo saldo se demostrará en la partida 3520 ó 3565, según proceda.
-
-9.3. Créditos para financiar importaciones.
-
-Los créditos que se otorguen para financiar importaciones con cargo a los recursos de que se trata, serán registrados de conformidad con lo previsto en el Capítulo 15-1 de esta Recopilación.
-
-9.4. Créditos para financiar exportaciones.
-
-Los créditos que los bancos otorguen para financiar exportaciones, a personas situadas en Chile, serán registrados en la forma prevista en el Capítulo 14-3 de esta Recopilación de Normas.
-
-9.5. Créditos para financiar gastos locales.
-
-Los préstamos para financiar gastos locales de las importaciones señaladas en el número 4 de este capítulo, se registrarán en la cuenta "Préstamos para gastos locales" de la partida 1110 ó 1205, según proceda.
-
-9.6. Descuento de documentos provenientes de operaciones entre países de ALADI.
-
-Los descuentos de documentos emitidos sobre la base de instrumentos originados en operaciones de comercio exterior entre países miembros de ALADI, se registrarán en la forma prevista en el Capítulo 1327 de esta Recopilación.
-
-9.7. Intereses.
-
-Los intereses que se cobren por los créditos para importación otorgados a personas situadas en Chile, serán registrados en la forma señalada en el Capítulo 15-1 de esta Recopilación.
-
-Los intereses que se cobren sobre los créditos que se otorguen para financiar gastos locales, serán registrados en la cuenta "Intereses ganados por préstamos para gastos locales" de la partida 7115.
-
-Los intereses que se cobren sobre los financiamientos que se cursen para exportaciones, serán registrados de conformidad con lo previsto en el Capítulo 14-3 ya citado.
-
-Por otra parte, los intereses que los bancos paguen por las líneas de crédito del exterior a que se refiere este Capítulo, serán registrados en la cuenta "Intereses pagados por financiamientos externos", de la partida 5180 6 5185, según proceda.
-
-9.8. ELIMINADO.
-
-9.9. Créditos no pagados a su vencimiento.
-
-Los créditos otorgados por los bancos con cargo a los recursos de que trata este Capítulo que no sean pagados a su vencimiento, serán traspasados a Cartera Vencida de conformidad con las normas generales vigentes sobre la materia.
-
-### 10. Información al Banco Central de Chile
-
-Los bancos deben enviar al Banco Central de Chile la información relativa a las líneas de crédito externas, en los términos indicados en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales.
 
 CAPITULO 13-27 (Bancos)
 
@@ -19674,31 +19328,15 @@ Haber: - "Caja" o la cuenta que corresponda por la moneda extranjera que se entr
 
 Simultáneamente deben efectuarse los asientos de débito y crédito que correspondan, por los respectivos equivalentes en moneda chilena en las cuentas "Cambio Mercado Bancario", de la partida 2505 ó 4505.
 
-CAPITULO 13-33 (Bancos)
-
-MATERIA:
-
-DEPOSITOS CON DIVISAS COMPRADAS ANTICIPADAMENTE PARA PAGAR CREDITOS EXTERNOS.
-
-Los deudores de créditos externos internados al amparo de las disposiciones contenidas en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, pueden adquirir anticipadamente las divisas para el pago del capital, comisiones o intereses correspondientes a tales operaciones, siempre que mantengan depositada, en un banco situado en Chile, la moneda extranjera adquirida.
-
-Los titulares de los referidos depósitos sólo podrán girarlos para los fines que expresamente establece la disposición contenida en el N° 3 del número I de la letra A) del referido Capítulo.
-
-Asimismo, las empresas bancarias que reciban los mencionados depósitos, deberán dar cumplimiento a las normas del Banco Central de Chile aludidas en el párrafo precedente.
-
-Los mencionados depósitos serán registrados en la cuenta "Depósitos compra anticipada de divisas pago créditos externos", de la partida 3010 ó 3020.
-
-Los intereses que se paguen por tales depósitos, en los casos que proceda, serán registrados con cargo a la cuenta que corresponda de la partida 5110.
-
 CAPITULO 13-34 (Bancos)
 
 MATERIA:
 
-EMISION DE BONOS EN MONEDA EXTRANJERA PARA SER COLOCADOS EN EL EXTERIOR.
+EMISION DE BONOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS EN EL EXTERIOR.
 
-1.- Autorización para emitir bonos en moneda extranjera y colocarlos en el exterior.
+1.- Autorización para emitir y colocar bonos en el exterior.
 
-Los bancos están facultados para emitir bonos expresados y pagaderos en moneda extranjera, con el objeto de colocarlos en el mercado externo, con sujeción a las normas contenidas en el Capítulo XIV del título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en este Capítulo.
+Los bancos están facultados para emitir bonos expresados y pagaderos en moneda extranjera y bonos expresados en pesos o en Unidades de Fomento, desembolsables y pagaderos en moneda extranjera, con el objeto de colocarlos en el mercado externo, con sujeción a las normas contenidas en el Capítulo XIII del título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en este Capítulo.
 
 Para realizar tales operaciones, las empresas bancarias que decidan emitir los valores antes mencionados, deben obtener, para cada emisión, la autorización del Banco Central de Chile.
 
@@ -19706,41 +19344,35 @@ Por tratarse de bonos que se colocarán en el exterior, no resulta necesaria su 
 
 2.- Requisitos para efectuar la emisión de bonos.
 
-Sin perjuicio de lo indicado precedentemente, para emitir los bonos en moneda extranjera para ser colocados en el exterior de que trata este Capítulo, las respectivas empresas bancadas deben tener una clasificación emitida por las empresas IBCA o Thompson Bankwatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratings", respectivamente. Al tratarse de bonos subordinados, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BBB+" emitida por dos de las firmas clasificadoras señaladas en el Anexo N° 7 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
+Sin perjuicio de lo indicado precedentemente, para emitir los bonos pagaderos en moneda extranjera de que trata este Capítulo, las respectivas empresas bancarias deben tener una clasificación emitida por las empresas Fitch IBCA o Thomson BankWatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratmgs", respectivamente. Al tratarse de bonos subordinados, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BBB-" emitida por dos de las firmas clasificadoras señaladas en el Anexo N° 17 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
 3.- Características de los bonos.
 
-Las emisiones de bonos que realicen las empresas bancarias, deben reunir las siguientes características;
+Las emisiones de bonos que realicen las empresas bancarias, deben reunir las siguientes características:
 
-a) El monto de la emisión no podrá ser inferior a US$ 50.000.000 o su equivalente en otras monedas extranjeras O unidades de cuenta señaladas en los Anexos N°s. 2 y 3 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales.
+a) Los bonos pueden ser emitidos a la orden, al portador o nominativos.
 
-b) Los bonos pueden ser emitidos a la orden o al portador.
+b) El plazo promedio ponderado no podrá ser inferior a cuatro años, salvo que se trate de bonos subordinados, en cuyo caso no podrá ser inferior al plazo especial de cinco años que establece la Ley General de Bancos para ellos.
 
-c) El plazo promedio ponderado no podrá ser inferior a los cuatro años, salvo que se trate de bonos subordinados, en cuyo caso no podrá ser inferior al plazo especial que establece la ley para ellos.
+c) Debe existir una institución financiera, constituida y domiciliada en el extranjero, de reconocido prestigio, que garantice la colocación del 100% de la emisión.
 
-d) Debe existir una institución financiera, constituida y domiciliada en el extranjero, de reconocido prestigio, que garantice la colocación del 100% de la emisión.
+4.- Instrucciones contables.
 
-4.- Destino de la moneda extranjera.
-
-La moneda extranjera obtenida por la colocación de los bonos, deberá ser ingresada al país y liquidada en el Mercado Cambiario Formal o podrá ser destinada, total o parcialmente, al pago directo en el exterior de operaciones de importación y los gastos inherentes a dichas operaciones, o al pago de servicios contratados en el exterior y a los gastos relacionados con la emisión de los bonos, o bien, a los fines que establezca el Banco Central de Chile.
-
-5.- Instrucciones contables.
-
-5.1.- Registro de las obligaciones.
+4.1.- Registro de las obligaciones.
 
 Los bonos se registrarán en la respectiva moneda extranjera de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las cuentas "Bonos colocados en el exterior", "Descuentos por colocación de bonos en el exterior" y "Primas por colocación de bonos en el exterior", de la partida 3075.
 
 No obstante, si se trata de bonos subordinados se utilizarán las cuentas señaladas en el numeral 7.1 del Capítulo 9-6 de esta Recopilación.
 
-5.2.- Liquidación de la moneda extranjera.
+4.2.- Liquidación de la moneda extranjera
 
 En el caso que se determine liquidar los recursos captados por la colocación de los bonos, se utilizarán las cuentas "Conversión bonos en circulación en el exterior", de la partida 2510, y "Cambio bonos en circulación en el exterior", de la partida 4510, las que quedan sujetas al tratamiento normal de cuentas de "conversión" y "cambio", debiendo reflejar la primera el monto de moneda extranjera que se mantiene liquidada y, la segunda, el contravalor en pesos que debe ajustarse mensualmente, según lo dispuesto en el Capítulo 13-30 de esta Recopilación.
 
-6.- Información que deberá enviarse a esta Superintendencia.
+5.- Información que deberá enviarse a esta Superintendencia.
 
-Las empresas bancarias que coloquen bonos en el exterior deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile, los antecedentes que resulten pertinentes a la emisión entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas de conformidad con las exigencias dé la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que corresponda.
+Las empresas bancarias que coloquen bonos en el exterior deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile, los antecedentes que resulten pertinentes a la emisión entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que corresponda.
 
-Junto con esos antecedentes, deberán enviar la constancia de autorización del Banco Central de Chile y la siguiente información cuando ella no aparezca en la escritura pública de emisión;
+Junto con esos antecedentes, deberán enviar la constancia de autorización del Banco Central de Chile y la siguiente información cuando ella no aparezca en la escritura pública de emisión:
 
 a) País en el que se efectuará la colocación;
 
@@ -19751,10 +19383,6 @@ c) Obligaciones y derechos que las regulaciones del país extranjero les exijan 
 d) Información que el emisor debe proporcionar a los tenedores de bonos y al representante legal de éstos; y,
 
 e) Autorización del organismo extranjero regulador de los mercados bursátiles en los que se transarán los bonos.
-
-7.- Encaje
-
-Las obligaciones correspondientes a los bonos en circulación en el exterior quedan afectas a las normas de encaje sobre créditos externos, contenidas en el Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, salvo en los casos en que estén expresamente exceptuadas de acuerdo con las disposiciones de dicho Banco.
 
 CAPITULO 13-35 (Bancos)
 
