@@ -1,0 +1,3 @@
+Por resolución Nº1.642, de 26 de julio de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura 97103024, presentada por JACQUELINE IVETTE RIVAS ALVARADO, para instalar y operar el centro de cultivo ubicado en sector Quinched, canal Yal, comuna de Chonchi, provincia de Chiloé, X Región.
+
+Valparaíso, 26 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
