@@ -1,0 +1,3 @@
+Por decreto MOP Nº478, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nº410 y 411, superficies 608 y 1.075 m2, rol de avalúo Nº33-120, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua-Las Cabras, Sector San Roberto-El Toco-Ruta 66, Km. 12,70000 a Km. 16,48000", VI Región, y se acordó el valor de la indemnización con su propietario Orlando Enrique Ramírez Novoa, ascendente a la cantidad de $24.745.858.-
+
+Fiscal del Ministerio de Obras Públicas.
