@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.513 de fecha 29 de octubre de 2004, se expropió el lote de terreno Nº 14, superficie 664 m2, rol Nº 241-87, comuna de Chanco, para la obra "Camino Ruta M-450, sector Chanco - Empedrado, Tramo Km. 0,000.00 al Km. 38,388.14' y se acordó el valor de indemnización con su propietaria Emilia del Carmen Guajardo Gutiérrez y Otros, ascendente a la cantidad de $565.106.
+
+Fiscal del Ministerio de Obras Públicas.
