@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 61, de 27 de febrero de 1992, se expropiaron los lotes N°s. 1,3,4,5,8,10 y 12, rol de avalúo 548-4, comuna de Curicó, superficies 5.670 M2, 695 M2, 16.070 M2, 3.016 M2, 1.073 M2, 487 M2 y 198 M2, respectivamente, para la obra Camino Longitudinal Sur, Sector Romeral - Molina y se acordó el precio con su propietario don Ramón Leyton de la Fuente, ascendente en total a $ 34.983.064.-
+
+Fiscal del Ministerio de Obras Públicas.
