@@ -1,0 +1,9 @@
+SOLICITUD EN PROCEDIMIENTO DE INSCRIPCION EN EL REGISTRO DE PARTIDOS POLITICOS DEL ''PARTIDO LIBERAL'', EN FORMACION
+
+Por resolución O-Nº 12 de fecha 17 de enero de 2000, se dispuso publicar en el Diario Oficial, la solicitud de tener por subsanados los reparos formulados por el Servicio Electoral, a su inscripción como partido político del ''Partido Liberal'', en formación, formulada por los señores Adolfo Ballas Azócar y Eduardo González Y., Presidente y Secretario General, respectivamente. La inscripción solicitada se refiere a las Regiones VI del Libertador Bernardo O'Higgins, VII del Maule y VIII del Bío-Bío. Su sigla es PL, su lema, ''A Refundar la Sociedad'', y su símbolo es ''una estrella amarilla sobre un fondo azul con la expresión Partido Liberal en la parte inferior''. La escritura pública de constitución de la entidad, fue otorgada con fecha 4 de septiembre de 1998, ante Notario Público de Colina, doña María Isabel Zagal Cisternas, rectificada por escrituras públicas otorgadas con fechas 17 de noviembre y 9 de diciembre de 1998, ante el mismo Notario. El extracto de la escritura de constitución se publicó en el Diario Oficial de fecha 28 de diciembre de 1998.
+
+La solicitud pretende subsanar las deficiencias en que se fundó la resolución O-Nº 1.618 de fecha 15 de noviembre de 1999, publicada en el Diario Oficial de fecha 18 de noviembre del mismo año, en la VIII Región del Bío-Bío, expresando acompañar las afiliaciones de ciento treinta y ocho ciudadanos.
+
+Publicación que se ordena para los efectos contemplados en el artículo 9º de la ley Nº 18.603, por resolución O-Nº 12 de fecha 17 de enero de 2000.-
+
+Juan Ignacio García Rodríguez, Director.
