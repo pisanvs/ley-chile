@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.085, de 30 de octubre de 1998, se expropió el lote de terreno Nº69, superficie 214 m², rol de avalúo 24-76, comuna de Calle Larga, obra "Camino Ruta 57 CH. Santiago - Los Andes, Sector Túnel Chacabuco - Bifurcación Auco, y se acordó precio de indemnización con su propietario Manuel Francisco Albornoz Colombet y Otro, ascendente a la cantidad de $757.996.-
+
+Fiscal del Ministerio de Obras Públicas.
