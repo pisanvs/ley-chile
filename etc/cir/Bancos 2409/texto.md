@@ -4812,6 +4812,8 @@ A continuación se señalan los principales indicadores que guardan relación co
 
 > **Nota.** NOTA 3 La letra D) de la Circular 2817, SBIF, promulgada el 31.05.1995, modifica el presente Anexo, a fin de actualizar los indicadores incluyendo la cuenta "Depósitos de liquidez".
 
+> **Nota.** NOTA 4 La letra A) de Circular 2831, SBIF, promulgada el 16.10.1995, elimina, en le presente Anexo, el indicador correspondiente al saldo de Pagarés descontados terceros países ALADI, debido a que dichas operaciones carecen de vigencia y ya no se mantienen saldos por ese concepto.
+
 CAPITULO 4-2 (Bancos y Financieras)
 
 MATERIA:
@@ -4994,11 +4996,15 @@ Las instituciones financieras registrarán los saldos de caja utilizados, los de
 
 Los importes de caja que las instituciones financieras apliquen para enterar la reserva técnica exigida, deberán registrarse, además, en la cuenta de orden "Caja aplicada en reserva técnica", de la partida 9165. Cuando lo recursos de que se trata dejen de constituir reserva técnica, deberán revertirse los importes registrados en esa cuenta de orden.
 
-### 2. Depósitos en el Banco Central de Chile
+2.- Depósitos en el Banco Central de Chile.
+
+2.1.- Depósitos especiales para reserva técnica.
 
 Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar reserva técnica, serán registrados en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile", de la partida 1010.
 
-Los demás importes correspondientes a depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se mantendrán registrados en su cuenta de origen. Sin embargo, para efectos de control, los montos efectivamente utilizados se registrarán, además, en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica", "Depósitos en garantía Art. 36L.G.B. aplicados en reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165. Los saldos de dichas cuentas de orden deberán reflejar diariamente los recursos efectivamente utilizados para constituir reserva técnica.
+2.2.- Control de asignación de depósitos que pueden destinarse tanto a reserva técnica como a encaje.
+
+En el caso de depósitos que pueden destinarse tanto a reserva técnica como a encaje, los montos que efectivamente se utilicen para constituir la reserva técnica se demostrarán diariamente en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica", "Depósitos en garantía Art. 36 L.G.B. aplicados en reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165.
 
 3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
@@ -17056,11 +17062,7 @@ a) El saldo de la partida 1015 "Documentos a cargo de otros bancos";
 
 b) El saldo de la cuenta "‘Documentos deducibles de encaje a cargo de sucursales", de la partida 2115;
 
-c) El valor par de los documentos registrados en la cuenta "Letras de crédito de propia emisión", de la partida 1735;
-
-d) El valor par de los pagares provenientes del refinanciamiento de reprogramación de deudas, a que se refiere el N° 5 del Capítulo II.B.5 y el N° 6 del Capítulo II.B.5.3 del Compendio de Normas Financieras del Banco Central de Chile, que mantenga la institución y que hayan sido obtenidos directamente del Instituto Emisor, aun en el caso en que dichos instrumentos estén vendidos con pacto de retrocompra a la fecha del cómputo. En el evento de que todo o parte de esos pagares se hubieren aplicado en su oportunidad a la adquisición de certificados de depósito expresados en dólares de los Estados Unidos de América-Acuerdo 1649, se rebajará también una cantidad igual al valor de los pagares que se utilizaron en la compra de estos certificados de depósito El importe de esta última deducción deberá establecerse en cada oportunidad, considerando los pagarés aplicados a la referida compra, siempre que de acuerdo a su fecha de vencimiento se hubieren encontrado vigentes, por su valor par calculado a la fecha en que se determine el endeudamiento Dicho importe deberá registrarse en la cuenta "Pagares de reprogramación deducibles-Vendidos Acuerdo 1649", de la partida 9530, cuyo saldo reflejará, al cierre de cada mes, el monto deducible por ese concepto, y,
-
-e) El valor par de los pagarés "Acuerdo 1506" que mantenga la institución y que se hayan adquirido en la oportunidad de la venta de letras de crédito emitidas por la institución financiera, efectuada al Instituto Emisor, aunque ellos se encuentren vendidos con pacto de retrocompra a la fecha del cómputo del endeudamiento. En ningún caso se rebajarán los pagarés que hayan sido adquiridos a otras instituciones financieras o a terceros.
+c) El saldo de la cuenta "Letras de crédito de propia emisión", de la partida 1735.
 
 ### 3. Saldos en moneda extranjera
 
