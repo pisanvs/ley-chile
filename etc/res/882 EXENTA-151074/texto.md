@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 882 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Exeluido Reserva y Sector Expropiado Predios "Santa Rosa de Punta de Cortés", "Resto de la Hijuela Número 2 A de Punta de Cortés", "Fundo Las Mercedes de La Granja" de la comuna de Hancagua, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 39, sitios 1 al 36 y Reserva CORA, del Proyecto de Parcelación "Los Suspiros" formado por predios señalados. Los Derechos de Agua se extraen del canal Punta de Cortés derivado del Río Cachapoal.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
