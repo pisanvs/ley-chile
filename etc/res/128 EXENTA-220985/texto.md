@@ -1,0 +1,3 @@
+Por resolución exenta Nº 128, de 14 de enero de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado El Caleuche, III Región, individualizada en el artículo 1º del decreto exento Nº 980 del 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE MARISCADORES DE ORILLA ARTESANALES DE CHAÑARAL.
+
+Valparaíso, 14 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
