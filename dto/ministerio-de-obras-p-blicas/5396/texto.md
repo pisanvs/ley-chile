@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.396, de 29 de diciembre del 2000, se expropió el lote de terreno Nº 152-48, superficie 230 m², rol de avalúo 1282-50, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo: Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Juan Enrique Jiménez Tapia, ascendente a la cantidad de $24.335.527.-.
+
+Fiscal del Ministerio de Obras Públicas.
