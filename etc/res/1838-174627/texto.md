@@ -1,0 +1,3 @@
+Por resolución Nº 1.838, de 18 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101146 presentada por MARIA ZU-NILDA OJEDA ARTEAGA, para instalar y operar el centro de cultivo ubicado en lote D, parcela Nº 11, ribera norte del río Maullín, comuna de Maullín, provincia de Llanquihue, X Región.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
