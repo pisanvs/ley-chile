@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.193, de 09 de diciembre de 2002, se rectificó el decreto MOP Nº1.866, de 19 de noviembre de 2001, que ordenó la expropiación del lote de terreno Nº80, para la obra: "Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Subtramo: Cartagena - Las Cruces. Km. 3.700,00 al Km. 12.400,00". En el sentido de indicar que la comisión de peritos respectiva fijó con fecha 26 de septiembre de 2002, el valor provisional de la indemnización en la cantidad $52.021.000. Y no la antes señalada. La indemnización se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
