@@ -120,29 +120,11 @@ De acuerdo con el artículo 9.° de la Ley General de Ferrocarriles, al otorgars
 
 #### Artículo 13
 
-Los concesionarios de vía férrea deberán pagar al Fisco por el uso u ocupación de terrenos fiscales o bienes nacionales de uso público, necesarios para la vía y sus dependencias, la renta de arrendamiento que se fijará por decreto expedido por el Ministerio de Obras Públicas y Vías de Comunicación, de acuerdo con las normas que se indican:
-
-a) La renta correspondiente a los terrenos fiscales será fijada previo informe del Ministerio de Tierras y Colonización, y no será inferior al 6% del avalúo de dichos terrenos, practicado por la Dirección General de Impuestos Internos, más el 2% sobre dicha renta.
-
-El concesionario deberá pagar además, un derecho de arrendamiento de $ 100 por una sola vez, al otorgarse la respectiva concesión conforme a la Ley de Timbres y Estampillas;
-
-b) La renta correspondiente a los bienes nacionales de uso público será fijada previo informe del Ministerio nombrado en el párrafo anterior, y no será inferior al 4% del avalúo de los mismos, practicado por la Dirección General de Impuestos Internos;
-
-c) La renta correspondiente a los terrenos fiscales y caminos públicos, empezará a pagarse después de transcurridos los cinco primeros años desde la fecha inicial de la concesión;
-
-d) La renta de arrendamiento de las calles, plazas, puentes, playas y demás lugares de uso público, con excepción de los caminos públicos empezará a pagarse desde la fecha inicial de la concesión;
-
-e) Tratándose de vías férreas ya construídas, la renta de arrendamiento por terrenos fiscales o bienes nacionales de uso público ocupados por ramales o desvíos, se pagará en conformidad a las letras a), b), c) y d) precedentes, teniéndose las siguientes normas:
-
-a) Desde el 1.° de Enero de 1928, fecha en que se declararon caducadas todas las concesiones otorgadas a título gratuito, para los desvíos construídos con anterioridad a esa fecha;
-
-b) Desde la fecha de la construcción de la vía en caso de que ésta fuere posterior, lo que deberá acreditar el interesado; y
-
-f) La renta se pagará por anualidades anticipadas en la Tesorería Provincial de Santiago, previa orden del Departamento de Ferrocarriles del Ministerio de Obras Públicas y Vías de Comunicación.
+Derogado.
 
 #### Artículo 14
 
-Los pagos de derechos, renta de arrendamiento y demás, que deba hacer el concesionario en favor del Fisco, se harán previa orden del Departamento nombrado en la Tesorería Provincial de Santiago.
+Derogado.
 
 #### Artículo 15
 
