@@ -1,0 +1,3 @@
+Por resolución Nº 1.985, de 12 de septiembre de 2002, de esta Subsecretaría, apruébase la modificación del proyecto técnico y cronograma de actividades presentado por COMERCIALIZADORA DE PRODUCTOS ALIMENTICIOS FRIONATUR LTDA. para una piscicultura ubicada en Río Renegado, Cueva Los Pincheira, Fundo Potrero de Cordillera, VIII Región, autorizada por resoluciones Nº 235, de 1990, y Nº 2.711, del 2000, de esta Subsecretaría. El peticionario podrá cultivar grupo de especies salmónidas.
+
+Valparaíso, 12 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
