@@ -1,0 +1,3 @@
+Por decreto MOP Nº 163 de fecha 27 de febrero del 2004, se expropiaron los lotes de terrenos Nº s. 555, 556-A, 560 y 567, superficies 749, 47, 518 y 950 m2 respectivamente, Rol Nº 32-436, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 0,00000 a Km. 12,7000" y se acordó el valor de indemnización con su propietario Erasmo Segundo Tapia Tapia, ascendente a la cantidad de $9.902.001.-
+
+Fiscal del Ministerio de Obras Públicas.
