@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.129, de 31 de julio de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº9-2, para la obra: "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B: Km. 42.950,00 a Km.
+
+55.200,00", Región Metropolitana, que figura a nombre de Luzoro Montenegro Juan Fco., rol de avalúo 118-1, comuna de Paine, superficie 700 m2. La comisión de peritos integrada por los señores María Angélica Hurtado Arranz, Inés Elena Otárola Castillo y Marcela Alejandra Redard Ayala, fijó con fecha 16 de octubre de 2000, el valor provisional de la indemnización en la cantidad de $18.674.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
