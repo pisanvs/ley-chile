@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.078, de 20 de octubre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 112, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B: Km. 42.950,00 - Km.
+
+55.200,00, Región Metropolitana, que figura a nombre de Deshidratados Indust S.A., rol de avalúo 952-15, comuna de Paine, superficie 1.017 m². La comisión de peritos integrada por los señores Paola Andrea Domingo Porcella, Gustavo Domínguez Errázuriz y Carmen Pilar Ríos Marcuello, fijó con fecha 24 de junio de 1999, el valor provisional de la indemnización en la cantidad de $7.704.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
