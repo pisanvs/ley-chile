@@ -1,0 +1,3 @@
+Por Resolución N° 445, de 13 de Marzo de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; deniégase la solicitud de concesión de acuicultura presentada por MARINE HARVEST CHILE S.A., para un centro de cultivo ubicado en Isla Quinchao, comuna de Quinchao, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 13 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
