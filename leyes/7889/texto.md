@@ -10,7 +10,7 @@ Proyecto de Ley
 
 o Prohíbese vender boletos o fracción de boleto de la Lotería de la Universidad de Concepción o de la Polla Chilena de Beneficencia a mayor precio que el indicado en ellos.
 
-La infracción a lo dispuesto en el inciso anterior será sancionada con multa de cincuenta a mil pesos, la que se podrá duplicar en caso de reincidencia.
+La infracción a lo dispuesto en el inciso anterior será sancionada con multa de diez escudos (E° 10) a doscientos escudos (E° 200), la que se podrá duplicar en caso de reincidencia.
 
 #### Artículo 2
 
