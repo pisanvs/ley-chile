@@ -1,0 +1,301 @@
+MODIFICA REGLAMENTO ORGANICO DE LA DIRECCION DEL LITORAL Y DE MARINA MERCANTE
+
+Núm. 292.- Santiago, 25 de Julio de 1953.- Considerando:
+
+1.o La necesidad de estipular claramente las funciones y atribuciones del personal de la Dirección del Litoral y de Marina Mercante;
+
+2.o La conveniencia de refundir en un solo texto las diferentes disposiciones legales que, referentes a la Dirección del Litoral y de Marina Mercante, establecen las leyes N.os 6,669 y 10,317, dando cumplimiento así a lo dispuesto en el artículo 11, inciso 9, de la ley 10,317;
+
+3.o Que siendo las funciones de la citada Dirección del Litoral y de Marina Mercante, funciones de carácter técnico, deben éstas ser desempeñadas por oficiales en retiro de la Armada o de la Marina Mercante Nacional, motivo por el cual y ante la escasez actual de dicho personal técnico, se hace necesario modificar transitoriamente las disposiciones vigentes sobre incompatibilidades de sueldos en relación con las pensiones de retiro, ya que, de otro modo, se retirarían del servicio muchos funcionarios a los que no sería posible reemplazar.
+
+4.o Que por razones de equidad en las remuneraciones, imposiciones y pensiones de retiro, es necesario que todo el personal de la Dirección del Litoral y de Marina Mercante, esté afecto a un solo régimen de previsión, esto es, al de la Caja de Previsión de la Defensa Nacional, lo que a la vez constituye un menor gasto para el erario nacional;
+
+5.o Y vista la facultad que me confiere la ley N.o 11,151, de fecha 5 de Febrero de 1953,
+
+Decreto con fuerza de ley:
+
+El Servicio de la Dirección del Litoral y de Marina Mercante se regirá por las siguientes normas:
+
+I.- De la Dirección del Litoral y de Marina Mercante
+
+#### Artículo 1°
+
+, Las palabras "Dirección" y "Director" designan en este decreto a la Dirección General del Territorio Marítimo y de Marina Mercante y al Director General del Territorio Marítimo y de Marina Mercante respectivamente.
+
+#### Artículo 2
+
+o Los términos "el personal" o "al personal" usados en las frases de los artículos del presente decreto, se refieren exclusivamente a los funcionarios de la planta que consulta su artículo 19, y al personal de la planta transitoria contemplado en el artículo 5.o, transitorio de la ley N.o 10,317, de 18 de Abril de 1952.
+
+#### Artículo 3°
+
+Corresponde a la Dirección:
+
+a) Velar por la seguridad de la navegación y por la protección de la vida humana en el mar, controlando el cumplimiento de las disposiciones nacionales e internacionales sobre estas materias: atender la señalización de las costas y rutas marítimas en el litoral de la República; y atender las telecomunicaciones marítimas de la Marina Mercante;
+
+b) Velar por el desarrollo y eficiencia de la Marina Mercante Nacional, como asimismo, por el estudio de la organización y desarrollo del transporte marítimo, fluvial y lacustre;
+
+c) Controlar y fiscalizar el material de las naves y artefactos navales para asegurar su eficiencia y las condiciones de navegalidad de ellas;
+
+d) Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones relacionadas con la parte técnica y profesional de la Marina Mercante Nacional y de Pesca y Caza Marítima, de la Marina de Turismo y de los Deportes Náuticos, tanto en lo concerniente a su personal como a su material, comprendiendo en aquél a los empleados y obreros marítimos, fluviales y lacustres;
+
+e) Controlar y asegurar el mantenimiento del orden y la disciplina a bordo de las naves mercantes y especiales y de los artefactos navales;
+
+f) Juzgar y sancionar al personal de la Marina Mercante, al personal de naves especiales y, en general, al personal que trabaja en faenas que las leyes le encomiendan fiscalizar, por falta de carácter profesional o por faltas al orden, a la seguridad y a la disciplina;
+
+g) Multar a los infractores de las leyes y reglamentos vigentes y de los que se dicten concernientes a los servicios de la Marina Mercante Nacional;
+
+h) Velar por el cumplimiento de las medidas de seguridad de las naves en los puertos de la República y de las faenas marítimas, fluviales y lacustres;
+
+i) Dictaminar en los sumarios administrativos que se sustancien sobre accidentes y siniestros marítimos, determinar las responsabilidades que correspondan en ellos y aplicar sanciones.
+
+Estas facultades se aplicarán respecto del personal de naves chilenas en lo relativo a la situación profesional y disciplinaria, sea que los hechos ocurran en Chile o en el extranjero. Respecto al personal de naves extranjeras sólo se aplicarán estas facultades si los hechos han acaecido dentro de la jurisdicción de la Dirección.
+
+Por decreto supremo se fijarán el procedimiento para sustanciar los sumarios administrativos y las sanciones y multas que corresponda aplicar al personal de las naves nacionales y extranjeras y, en general a quienes por cualquier causa sean responsables en accidentes y siniestros marítimos;
+
+j) La Dirección General del Territorio Marítimo y de Marina Mercante no ejercerá su autoridad en los asuntos laborales cuya solución corresponde a los Tribunales de Justicia;
+
+k) Otorgar títulos, matrículas, licencias, permisos y libretas de embarques en conformidad a la ley y, en los demás casos, permisos de seguridad;
+
+l) Ejercer la Policía Marítima, Fluvial y Lacustre. El Director y las Autoridades Marítimas y los demás funcionarios en quienes el Director o las Autoridades Marítimas deleguen tales facultades, podrán efectuar allanamientos, incautaciones y arrestos, dentro de sus funciones de Policía Marítima;
+
+m) Ejercer la fiscalización y control de las playas y de los terrenos fiscales de playa colindantes con éstas en el mar, ríos y lagos; de las rocas, fondos de mar y porciones de agua dentro de las bahías, ríos y lagos, y a lo largo de las costas del litoral y de las islas, cuyo control y fiscalización otorgan las leyes al Ministerio de Defensa Nacional, Subsecretaría de Marina; y
+
+n) Realizar la movilización de la Marina Mercante Nacional y/o tomar el control de los servicios marítimos cuando el Gobierno decrete un estado de emergencia nacional o internacional que amenace la seguridad de la República, con el objeto de mantener la eficiencia de los servicios marítimos nacionales.
+
+#### Artículo 4
+
+o Corresponderán a la Dirección, además, todas las funciones que le encomienden otras leyes o reglamentos de la República.
+
+#### Artículo 5°
+
+La intervención que las leyes dan a la Dirección General de la Armada o al Comandante General de Marina en los asuntos relacionados con la navegación de la Marina Mercante Nacional y su personal, corresponderá a la Dirección General del Territorio Marítimo y de la Marina Mercante.
+
+#### Artículo 6
+
+o Para los efectos mencionados en los artículos anteriores, se considerará como jurisdicción de la Dirección el mar que baña las costas de la República hasta una distancia de doce millas (cuatro leguas marinas) medidas desde la línea de la más baja marea, o la extensión de mar territorial que se fije en acuerdos internacionales a los que se adhiera el Gobierno de Chile si es superior a la aquí señalada; las aguas interiores de golfos, bahías, estrechos y canales cualquiera que sea la distancia que exista entre sus costas; las playas, los roqueríos hasta donde alcanzan las más altas mareas; los lagos de dominio público, y los ríos navegables hasta donde alcanzan los efectos de las mareas; los diques, varaderos, desembarcaderos, muelles, espigones de atraque y, en general, toda construcción que se interne en las aguas marítimas, fluviales y lacustres, o construidas en ellas (Obras Marítimas); la extensión de ochenta metros de ancho en los bienes nacionales y fiscales, medidos desde la costa u orilla de mar, riberas de lagos o de ríos navegables hacia tierra firme y caletas. En los recintos portuarios de puertos artificiales de la Dirección tendrá jurisdicción sólo en cuanto el mantenimiento del orden, seguridad y disciplina.
+
+II.- Del Personal de la Dirección.
+
+#### Artículo 7
+
+o La Dirección estará a cargo de un Almirante o Capitán de Navío en servicio activo que ejercerá el mando y dirección de los servicios del Litoral.
+
+El Director dependerá militar y operativamente de la Comandancia en Jefe de la Armada. Para los asuntos de carácter administrativo cumplirá las disposiciones, directivas e instrucciones del Director General de los Servicios de la Armada (Material) y del Director del Personal de la Armada (Personal); sin embargo, en lo referente a la Marina Mercante Nacional, a la seguridad de la vida humana en el mar y en lo que se refiere al orden, seguridad y disciplina dentro de la jurisdicción marítima especificada en el artículo 3.o, letras c, d, e, f, g, h, i, k, l tendrá autonomía en sus decisiones.
+
+#### Artículo 8°
+
+El Subdirector del Litoral y de Marina Mercante será un Oficial de la Armada en servicio activo del grado de Capitán de Navío o Fragata nombrado para este cargo.
+
+> **Nota.** NOTA: 1 El artículo 1° del D.L. N° 2.837 reemplaza las denominaciones "DIRECCION DEL LITORAL Y DE MARINA MERCANTE" y "DIRECTOR DEL LITORAL Y DE MARINA MERCANTE", contenidas en cualquier texto legal y, en especial, en el D.F.L. N° 292, de 1953 y sus modificaciones, por "DIRECCION GENERAL DEL TERRITORIO MARITIMO Y DE MARINA MERCANTE" y "DIRECTOR GENERAL DEL TERRITORIO MARITIMO Y DE MARINA MERCANTE", respectivamente.
+
+#### Artículo 9
+
+o Los Jefes de los Departamentos I, II, III y los Jefes de Secciones respectivas serán los que se indiquen en el Reglamento orgánico de cada Departamento.
+
+III.- De los organismos integrantes de la Dirección.
+
+#### Artículo 10°
+
+La Dirección General del Territorio Marítimo y de Marina Mercante estará organizada internamente en, Direcciones Técnicas, Departamentos, Divisiones, Secciones y otras dependencias, las que serán fijadas por la Comandancia en Jefe de la Armada a propuesta del Director del Servicio mencionado.
+
+El Director General podrá delegar sus atribuciones y facultades en la forma dispuesta por el artículo 43 de la ley Nº 18.575.
+
+#### Artículo 11
+
+La Sección Inspección de Naves la formarán las siguientes Inspecciones de la Marina Mercante Nacional:
+
+1) Navegación y Maniobras.
+
+2) Máquinas y Calderas y Construcción Naval.
+
+3) Telecomunicaciones.
+
+IV.- De las Gobernaciones y Subdelegaciones
+
+Marítimas
+
+#### Artículo 12
+
+El litoral de la República se divide en Gobernaciones Marítimas y éstas en Subdelegaciones Marítimas y Alcaldías de Mar.
+
+#### Artículo 13°
+
+Las Gobernaciones Marítimas serán 16, a saber: Arica, Iquique, Antofagasta, Caldera, Coquimbo, Valparaíso, Hanga Roa, San Antonio, Talcahuano, Valdivia, Puerto Montt, Castro, Aysén, Punta Arenas, Puerto Williams y Antártica Chilena.
+
+#### Artículo 14°
+
+Las jurisdicciones de las Gobernaciones Marítimas y Subdelegaciones Marítimas así como el número de estas últimas serán fijados por el Presidente de la República.
+
+El número de Alcaldías de Mar, como sus jurisdicciones, serán fijadas por el Director General del Territorio Marítimo y de Marina Mercante.
+
+#### Artículo 15
+
+Las Gobernaciones y Subdelegaciones Marítimas estarán a cargo de funcionarios del servicio de la Dirección, o de Jefes de la Armada en Servicio Activo, designados con las denominaciones de Gobernadores Marítimos y Subdelegados Marítimos, respectivamente, los cuales actuarán como delegados de la Dirección dentro de sus respectivas jurisdicciones. El nombre genérico de estas autoridades marítimas será el de Capitanes de Puerto.
+
+Los subdelegados Marítimos estarán subordinados militar y administrativamente al Gobernador Marítimo respectivo y tendrán las atribuciones y deberes que les asignen las disposiciones legales y reglamentarias, y cumplirán las órdenes e instrucciones que les impartan el Director o Gobernador Marítimo correspondiente.
+
+Los Gobernadores Marítimos y Subdelegados Marítimos estarán además subordinados militarmente con respecto a las autoridades navales en la forma que establece la Ordenanza de la Armada.
+
+#### Artículo 16
+
+Para atender las Inspecciones Zonales de la Marina Mercante Nacional habrá en las Capitanías de Puerto que designe el Director, y en la Dirección, Inspectores Jefes e Inspectores de Primera y Segunda Clase de la Marina Mercante, de las especialidades que se estimen necesarias.
+
+#### Artículo 17
+
+En las Gobernaciones y Subdelegaciones Marítimas que designe el Director, habrá Subdelegados Marítimos que se desempeñarán como Ayudantes.
+
+#### Artículo 18
+
+El Director podrá, cuando las necesidades del servicio lo exijan, designar personas idóneas para que atiendan ad honorem las Subdelegaciones Marítimas y Alcaldías de Mar que en cada caso determine.
+
+Cuando los necesidades del servicio lo requieran, el Director podrá nombrar Prácticos Autorizados para atender un servicio determinado, quienes sin ser empleados del servicio, gozarán de los emolumentos que por los servicios prestados determine el Reglamento General de Servicio de Prácticos, siendo aquéllos de cargo del armador o agente de nave que solicite tales servicios.
+
+V.- Planta del Personal dependiente de la Dirección del Litoral
+
+#### Artículo 19
+
+DEROGADO
+
+#### Artículo 20
+
+DEROGADO
+
+#### Artículo 21
+
+DEROGADO
+
+VI.- Requisitos de Ingreso y Ascenso del Personal
+
+#### Artículo 22
+
+DEROGADO
+
+#### Artículo 23
+
+DEROGADO
+
+#### Artículo 24°
+
+El personal que haya permanecido en un grado determinado el tiempo conjunto que fija la ley para dicho grado y para el inmediatamente superior, tendrá derecho a gozar del sueldo correspondiente al grado del que preceda al inmediatamente superior al que está en posesión.
+
+Para este efecto se abonará al personal todo el tiempo servido en exceso en grados anteriores en la planta de la Dirección.
+
+El personal que goce de este beneficio y ascienda al grado superior, se considerará, para todos los efectos legales, que dicho beneficio corresponde al sueldo superior del grado que hubiere ascendido.
+
+El personal de la planta señalada en el artículo 19°, con asimilación a los grados de Capitán de Corbeta y de Fragata, gozará de los beneficios establecidos en el presente artículo, al cumplir los mismos tiempos que, respectivamente, para esos efectos, se exigen a los Oficiales de la Armada de igual graduación.
+
+En tal caso, las rentas que les corresponderá percibir serán las de las IV y III categorías del Estatuto Administrativo, respectivamente.
+
+#### Artículo 25
+
+El personal de la planta señalada en el artículo 19 que permanezca cuatro años efectivos en empleos asimilados al grado de Capitán de Fragata, gozará del sueldo sobresueldo y demás remuneraciones asignados al grado de Capitán de Navío.
+
+#### Artículo 26
+
+Los Prácticos recibirán, además de su sueldo, el 20% de las entradas procedentes de las faenas que efectuaren. Esta suma no podrá exceder del 50% del sueldo base.
+
+VII.- Los Alcaldes de Mar y otros Servicios
+
+Gratificados
+
+#### Artículo 27
+
+Los Alcaldes de Mar o no forman parte del personal. Sus atribuciones y deberes serán los que les asignen los reglamentos, directivas de la Dirección y las órdenes e instrucciones que les impartan los Capitanes de Puerto de quienes dependan.
+
+#### Artículo 28°
+
+Para ser nombrado Alcalde de Mar se requiere: ser Oficiales o Suboficiales de la Armada en retiro, u Oficiales de la Marina Mercante, o personal idóneo calificado por la Dirección General del Territorio Marítimo y de Marina Mercante.
+
+#### Artículo 29
+
+En las Leyes de Presupuesto se consultará, anualmente, una suma no inferior a cuatrocientos mil pesos para remunerar los servicios de las personas que se desempeñan como Alcaldes de Mar. Estos servicios se prestarán en virtud de contratos especiales que suscribirán el Director y el interesado, en los que se convendrá el monto de los estipendios respectivos, y su prestación no conferirá a los contratados otros derechos o beneficios económicos que los que en cada contrato se estipule.
+
+Con cargo a la misma suma a que se refiere el inciso anterior, la Dirección atenderá a gratificar a los funcionarios de la Administración Pública o Municipales que, accidentalmente, desempeñan las funciones de Capitán de Puerto o Alcaldes de Mar. Estas funciones serán desempeñadas previo decreto de nombramiento dictado por la Dirección, en el que deberá indicarse, además, en cada caso la gratificación a que dará derecho.
+
+VIII.- Disposiciones generales
+
+#### Artículo 30
+
+Serán únicamente los Capitanes de Puerto y su personal los que deberán exigir el cumplimiento a toda disposición sobre orden, seguridad y disciplina en las zonas de su jurisdicción y las que corresponda en razón de las funciones propias del servicio.
+
+Toda persona encargada de dar cumplimiento a alguna ley, reglamento u ordenanza dentro de dichas zonas, lo hará con el conocimiento de la autoridad marítima y con su conformidad en aquellas materias de la exclusiva competencia de la autoridad marítima.
+
+#### Artículo 31
+
+El personal de Carabineros, incluido el de Aduana y el personal de Investigaciones, prestarán a la autoridad marítima y al personal bajo sus órdenes el auxilio y cooperación que les soliciten para el cumplimiento de sus funciones.
+
+#### Artículo 32
+
+Los Capitanes de Puerto deberán como autoridad pública dar cumplimiento a todo mandato judicial y prestar la cooperación que soliciten los funcionarios públicos en cuanto se relacione al control y cumplimiento de las leyes que a dichos funcionarios les han sido encomendadas para su ejecución.
+
+#### Artículo 33
+
+Los Capitanes de Puerto y el personal bajo sus órdenes, en el desempeño de sus funciones de policía marítima, serán considerados como ministros de fe respecto a las denuncias que ellos hicieren sobre faltas o delitos cometidos dentro de su respectiva jurisdicción y en todas sus actuaciones propias del servicio.
+
+#### Artículo 34°
+
+La Autoridad Marítima, sin perjuicio de sus demás funciones y facultades, podrá llevar a cabo en el mar territorial y en aguas interiores, las actividades que se señalan a continuación, en las circunstancias que en cada caso de indican:
+
+a) Dar cumplimiento a las instrucciones que impartan los fiscales del Ministerio Público respecto de personas que pudieren encontrarse en naves o artefactos navales; respecto de dichas naves o artefactos, o de los recintos portuarios, y
+
+b) Realizar en los recintos portuarios y en las naves o artefactos navales las actuaciones que el Código Procesal Penal permite que la policía efectúe sin recibir previamente instrucciones particulares de los fiscales, informando sobre ellas de inmediato al Ministerio Público.
+
+Las medidas establecidas en este artículo se aplicarán también a las naves que enarbolen el pabellón nacional y que hacen uso de la libertad de navegación, con arreglo al derecho internacional. Tratándose de naves extranjeras, se estará en todo a lo dispuesto en los convenios y acuerdos internacionales sobre la materia.
+
+#### Artículo 35
+
+El personal de Prácticos de la planta del servicio y los Prácticos Autorizados que a solicitud de un armador o agente de naves deban cumplir una comisión propia del servicio, sólo percibirán como viáticos y demás gastos de movilización los que fije el Reglamento de Servicio de Prácticos, los que serán de cargo del armador o agente de naves que solicitó tales servicios y serán ajustados con intervención de la autoridad marítima que los autorizó.
+
+#### Artículo 36
+
+Los peritos ad hoc que designe la Dirección para desempeñar las funciones correspondientes al personal de las Inspecciones de naves percibirán por sus servicios una remuneración equivalente en dinero efectivo al arancel que corresponda al servicio prestado, y que le será pagada por el armador con intervención de la autoridad marítima.
+
+#### Artículo 37
+
+Por las inspecciones que efectúen los miembros de las Inspecciones de la Marina Mercante se cobrarán aranceles a beneficio fiscal, los que serán fijados en los reglamentos respectivos.
+
+#### Artículo 38
+
+Los armadores o agentes de naves que soliciten atención de sus naves en días festivos u horas extraordinarias, gratificarán al personal de Capitanías de Puerto, de las Inspecciones y demás personal dependiente de la Dirección que sean ocupados en esos servicios. Estas remuneraciones serán ajustadas mensualmente en la forma y condiciones que señalen los respectivos reglamentos, en los que se fijará, además, el monto de esas gratificaciones.
+
+#### Artículo 39
+
+Los impuestos o aranceles que deban pagarse se cancelaran con estampillas del tipo "Dirección Litoral", adheridas a los respectivos documentos, salvo los casos determinados por el reglamento.
+
+Las cantidades exceptuadas y las demás entradas a beneficio fiscal se cancelarán en dinero efectivo en las Tesorerías respectivas.
+
+#### Artículo 40
+
+El personal que goce durante cuatro años por lo menos del sueldo correspondiente a Capitán de Fragata y que tenga más de 30 años de servicios computables para el retiro, tendrá derecho a que su pensión de retiro le sea liquidada a base de las remuneraciones correspondientes al grado de Capitán de Navío que legalmente sean computables para éste o igual efecto.
+
+El desahucio que corresponda se liquidará a base de dicha remuneración.
+
+#### Artículo 41
+
+El ascenso del personal en ningún caso podrá significarle una disminución en las remuneraciones de que gozaba antes de dicho ascenso.
+
+Las disposiciones de la ley N.o 10,317, que no se encuentren incorporadas en el presente decreto con fuerza de ley se entienden derogadas, con excepción de los artículos transitorios de ella.
+
+Deróganse, además, el decreto supremo N.o 650, de 30 de Abril de 1934, y las disposiciones legales que lo complementen o modifiquen.
+
+#### Artículo 42°
+
+Las atribuciones establecidas en los N°s 4, 5 y 6 del artículo 5° del decreto con fuerza de ley 88, de 12 de mayo de 1953, para la Subsecretaría de Transportes dependiente del Ministerio de Economía, no regirán para los Servicios Marítimos en lo que concierne a las atribuciones que las leyes y reglamentos vigentes otorgan a la Dirección General del Territorio Marítimo y de Marina Mercante.
+
+#### Artículo 1
+
+o transitorio El personal tendrá derecho, para los efectos del retiro, a que se le compute todo el tiempo servido, ya sea en la Armada o en las Gobernaciones y Subdelegaciones Marítimas, como alumnos de la Escuela de Pilotines, embarcados en viajes de instrucción por orden del Supremo Gobierno o como oficiales de la Marina Mercante Nacional, sin perjuicio de los abonos que por otros servicios correspondan en conformidad a otras leyes.
+
+#### Artículo 2
+
+o Transitorio. El personal con goce de pensión de retiro incorporado a la planta del artículo 19 y que en conformidad a las disposiciones legales que rijan al efecto, tenga derecho a obtener nueva pensión de retiro, podrá optar a que ésta se liquide de acuerdo con la tabla correspondiente del decreto ley N.o 600, de 14 de Octubre de 1925 y conforme al artículo 67 del decreto con fuerza de ley N.o 3,743, de 26 de Diciembre de 1927, siempre que su retiro primitivo le haya sido concedido de acuerdo con esas normas, o a que su pensión se liquide conforme a las normas vigentes a la fecha de su retiro.
+
+#### Artículo 3
+
+o Transitorio. Al personal de la Dirección actualmente en servicio y que goza de los beneficios que le otorgó el artículo 4.o de la ley 11,175, de fecha 8 de Junio de 1953, no le será aplicable lo dispuesto en el artículo 53 de la ley 10,343, de fecha 28 de Mayo de 1952 y continuará afecto al régimen de compatibilidad del personal que no goza del sueldo de actividad.
+
+#### Artículo 4
+
+o Transitorio. El personal de la Dirección que, por las disposiciones del presente decreto con fuerza de ley, le correspondiese percibir un sueldo inferior al que actualmente disfruta, continuará percibiendo sus actuales sueldos hasta el momento que, de acuerdo con dichas disposiciones, le corresponda percibir un sueldo superior.
+
+Tómese razón, regístrese, comuníquese y publíquese.- CARLOS IBAÑEZ DEL CAMPO.- A. Parra U.- F. Herrera.
