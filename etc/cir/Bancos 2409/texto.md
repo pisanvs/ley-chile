@@ -1634,6 +1634,26 @@ Conviene tener en cuenta, en todo caso, que desde la perspectiva de la gestión 
 
 Si bien ese aspecto no se califica ni forma parte del fundamento de la clasificación, según lo descrito en los numerales anteriores, deberá ser tenido en cuenta por las propias instituciones evaluadas, como el elemento que determina, en definitiva, la calidad de su gestión.
 
+5.- Evaluación de la gestión por la propia empresa.
+
+Sin perjuicio de las revisiones que, de acuerdo a lo establecido en este Capítulo, realice esta Superintendencia, la administración de la propia institución financiera deberá analizar y pronunciarse, a lo menos una vez al año, acerca del desarrollo de su gestión.
+
+El resultado de esa evaluación deberá ser presentado al Directorio de la institución en el mes de marzo de cada año. De dicha presentación, como asimismo de los acuerdos que éste adopte en relación con el desarrollo de la gestión, deberá quedar constancia en actas.
+
+El Directorio deberá conocer y pronunciarse sobre cada una de las materias señaladas en el N° 3 de este titulo, lo que no excluye que considere e incluya igualmente otros aspectos relacionados con la gestión de la empresa.
+
+En el caso de las sucursales de bancos extranjeros, cuya gestión dependa de directivas de su Casa Matriz, el Gerente General o la autoridad máxima de la oficina en Chile, remitirá el resultado de la mencionada evaluación así como las eventuales medidas que proponga, a los auditores internos de la institución y a la autoridad jerárquica que corresponda. Los acuerdos que al respecto adopten las mencionadas autoridades serán comunicados a la sucursal en Chile, la que deberá darlos a conocer a esta Superintendencia.
+
+Las entidades financieras enviarán a este Organismo una copia del informe presentado al Directorio, junto con la copia del acta de la reunión en que éste tomó conocimiento y resolvió acerca de la gestión de la empresa, antes del 30 de abril de cada año.
+
+En el caso de las sucursales de bancos extranjeros se entregará a esta Superintendencia, en el mismo plazo antes señalado, la copia de la comunicación y de los antecedentes que sobre la materia haya informado el encargado de la sucursal en Chile, según lo indicado anteriormente y las resoluciones que al respecto haya acordado la Casa Matriz.
+
+6.- Disposición transitoria.
+
+Las instituciones financieras deberán realizar una primera evaluación de su gestión, durante el primer semestre del año en curso. En ella deberán considerarse todas las materias indicadas en este título. El informe correspondiente que deberá entregarse a esta Superintendencia hasta el 30 de septiembre próximo, podrá ser resumido, debiendo identificar las principales fortalezas y debilidades de la empresa, así como las acciones propuestas al Directorio, o que se encuentren en desarrollo, para corregir las deficiencias que se detectaren.
+
+Las sucursales de bancos extranjeros podrán limitarse, en esta primera oportunidad, a enviar a esta Superintendencia el informe de evaluación que sobre la materia hubieren preparado y las sugerencias propuestas al respecto para sus autoridades de la Casa Matriz, relativo al período antes indicado, sin necesidad de acompañar las resoluciones de éstas.
+
 ANEXO N°1
 
 .
