@@ -1,0 +1,3 @@
+Por decreto MOP Nº 791, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 9, 19, 23 y 45, roles de avalúo 62-43, 59-51, 60-44 y 59-31, comuna de Chépica, VI Región, para la obra Camino Chépica-Bif. Teno, Sector Cuesta El Peral-Chépica y se acordó precio de indemnización con sus propietarios Juan Navarro Sepúlveda, Isabel Fuentes Morales e Inelia González Marchant y otros, ascendente a las cantidades que se indican en dicho decreto.
+
+Fiscal del Ministerio de Obras Públicas.
