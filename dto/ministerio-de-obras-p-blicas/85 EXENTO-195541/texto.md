@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº85, de fecha 21 de febrero de 2002, se expropió el lote de terreno Nº23-G, superficie 232 m², rol de avalúo 162-33, comuna de San Nicolás, VIII Región, para la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Km. 6.900.00 a Km. 28.883.35" y se acordó el valor de indemnización con su propietaria doña Fresia Emilia Barrera Sandoval, ascendente a la cantidad de $120.988.-
+
+Fiscal del Ministerio de Obras Públicas.
