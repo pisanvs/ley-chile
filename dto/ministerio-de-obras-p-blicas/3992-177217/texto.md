@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.992, de 31 de agosto de 2000, se expropió el lote de terreno Nº82, superficie 1.324 m², respectivamente, rol de avalúo 12-4, comuna de Río Hurtado, para la obra Camino Ruta D-595 Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Km. 9.780,00 al 31.840,00, Etapa III, IV Región y se acordó el valor de la indemnización con su propietario Benito Segundo Honores Díaz, ascendente a la cantidad de $681.573.-
+
+Fiscal del Ministerio de Obras Públicas.
