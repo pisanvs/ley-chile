@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.879, de 31 de diciembre de 1998, se expropiaron los lotes de terreno Nºs. 13-A, 13-B y 20, superficies 302, 402 y 36 m², respectivamente, roles de avalúo 500-49, 500-51 y 6-18, comuna de Curicó, para la obra Camino Ruta 5 Sur, Sector Acceso Norte a Curicó y se acordó precio de indemnización con sus propietarios Sociedad Impregnadora de Maderas Ltda. y Héctor Lillo Miranda y otros, ascendente a las cantidades de $47.492.860.- para los lotes 13-A y 13-B y $4.150.675.- para el lote 20.
+
+Fiscal del Ministerio de Obras Públicas.
