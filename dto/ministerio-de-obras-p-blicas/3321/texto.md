@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.321, de 29 de octubre de 1999, se expropió el lote de terreno Nº 39-16, superficie 164,1 m2., rol de avalúo 164-754, comuna de Colina, para la obra Camino Santiago - Colina - Los Andes, Sector ''B'' By Pass Colina C. de Servicio Sta. Filomena, Región Metropolitana y se acordó el valor de indemnización con su propietario Herminio Jáuregui Ortega, ascendente a la cantidad de $734.886.-
+
+Fiscal del Ministerio de Obras Públicas.
