@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.557, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs. 4 y 4-A, rol de avalúo 60-47, comuna Futrono, lotes 5, 6, 8 y 9-B, rol de avalúo 63-205, comuna Lago Ranco, cuyas superficies se indican, X Región, para la obra Camino Ruta T-665, Tramo Accesos al Puente Calcurrupe y se acordó precio de indemnización con sus propietarios Edmundo Proboste Ziegler y Eleuterio Lehuey Calcumil en $8.313.694, lotes 4 y 4-A y $5.080.840, lotes 5, 6, 8 y 9 B.
+
+Fiscal del Ministerio de Obras Públicas.
