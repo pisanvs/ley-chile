@@ -16678,7 +16678,7 @@ La institución financiera que venda instrumentos con pacto de retrocompra, por 
 
 En todo caso, si la institución compradora, por cualquier causa, adquiere en forma definitiva los documentos, deberá computar en el acto los créditos que representan los documentos adquiridos, de acuerdo con lo indicado en el N° 3 y en el numeral 4.2 de este título; cualquier exceso, en tal caso, representa una infracción a lo dispuesto en el artículo 84 N° 1 de la Ley General de Bancos.
 
-Cuando, en las operaciones de compra de documentos con pacto, los documentos transados reúnan los requisitos para servir de garantía para los efectos de la ampliación del margen de crédito, la tenencia transitoria de los títulos permitirá cursar la operación como crédito con garantía para ese propósito, sin perjuicio de que la valorización de los respectivos documentos deba ajustarse a lo dispuesto en el título IV de este capítulo.
+Cuando, en las operaciones de compra de documentos con pacto, los instrumentos transados reúnan los requisitos para servir de garantía para los efectos de la ampliación del margen de crédito según lo señalado en el N° 3 del título III de este Capítulo, la tenencia transitoria de los títulos o su registro a nombre de la institución financiera adquirente en una empresa de depósito y custodia de valores regida por la Ley N° 18.876, permitirá cursar la operación con pacto como crédito con garantía. Para este efecto debe considerarse sólo el valor de los respectivos documentos adquiridos, calculado según lo dispuesto en el título IV de este Capítulo. El mismo criterio debe seguirse con los valores adquiridos con pacto a través de una empresa de depósito y custodia de valores.
 
 ### 5. Deudas complementarias
 
