@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 464, de 30 de abril de 2001, se expropió el lote de terreno Nº 13, superficie 116 m², rol de avalúo 220-46, comuna de San Javier, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Séptima Región y se acordó el valor de indemnización con su propietaria Alicia Violeta Vega Vega, ascendente a la cantidad de $1.226.041.-
+
+Fiscal del Ministerio de Obras Públicas.
