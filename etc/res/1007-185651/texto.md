@@ -1,0 +1,3 @@
+Por resolución No. 1.007 de 26 de Agosto de 1991 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la resolución No. 186, de 1989, de esta Subsecretaría, que autorizó a don JORGE F. RIVAS PALMA, RUT No. 5.065.614-4, domiciliado en calle Tomás Thayer No. 2819, Lonco Norte, Concepción, para desarrollar actividades pesqueras de cultivo de alga Gracilaria, en Playa Blanca, Bahía de San Vicente, Talcahuano, VIII Región, de conformidad con lo dispuesto en el Art. 7° del DS No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
