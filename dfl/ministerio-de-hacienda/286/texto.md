@@ -1,0 +1,1 @@
+Suprime las plantas de los funcionarios semifiscales de la Caja de la Habitación y funcionarios fiscales de la Corporación de Reconstrucción y crea la planta fiscal de los funcionarios de la Corporación de la Vivienda.
