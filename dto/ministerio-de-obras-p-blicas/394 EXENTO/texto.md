@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº394 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº84, superficie 245 m², rol de avalúo Nº41-67, comuna de Colbún, para la obra "Camino Ruta L-31, Sector Polvorines-La Floresta, tramo Km. 0,00000 a Km. 15,48000", VII Región y se acordó el valor de indemnización con su propietario Reinaldo del Carmen Muñoz Muñoz, ascendente a la cantidad de $538.638.-
+
+Fiscal del Ministerio de Obras Públicas.
