@@ -1,0 +1,3 @@
+Por Resolución N° 916 de 26 de Julio de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA SAN JOSE S.A., R.U.T. N° 96.535.470-0, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Playa Blanca s/n, Coquimbo, en las líneas de elaboración de Congelado y Conserva, el recurso hidrobiológico Loco Concholepas concholepas.
+
+Valparaíso, 26 de Julio de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
