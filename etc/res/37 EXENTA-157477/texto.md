@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 37 de 16 de Enero de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se autoriza a Alejandro Atero Sánchez, Gastón Aguilar Oyarzún, Gliceria Carter Inostroza, Héctor Carrasco Leyron, Roberto Duhalde Montecinos, Ricardo Jalabert Rodríguez, Francisco Martínez Pacheco, Blanca Obando Ojeda, Salvador Sepúlveda Rapiman, Carlos Silva Ponce, Nicolás Urquejo Tripailaf, Jaime Valdenegro Cortés, Lucio Vidal Andrade, Raúl Zambrano Caro, Fredy Rojas Rehl y Carlos Arias Saavedra, para efectuar el servicio de taxi colectivo urbano de la Línea N° 20 "Las Anima-Centro" de Valdivia, cuyo trazado fue autorizado por resolución exenta N° 35 de 16 de Enero de 1986, de esta Secretaría Regional.
+
+- Luis Boldt Quezada, Secretario Regional Ministerial Transportes y Telecomunicaciones X Región.
