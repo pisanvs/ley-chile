@@ -1,0 +1,1 @@
+Otorga facilidades a deudores de la Caja de Auxilios, creada por ley 3,926, de 18 de mayo de 1923, para contribuir a la reedificación de las propiedades privadas destruídas por el terremoto de 10 de noviembre de 1922, en las provincias de Atacama y Coquimbo.
