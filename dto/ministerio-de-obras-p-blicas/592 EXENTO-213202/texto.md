@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº592 de fecha 30 de junio de 2003, se expropió el lote de terreno Nº 49, superficie 44,25 m2, Rol Nº 161-111, comuna de Petorca, V Región para la obra "Ruta E-37-D sector Palquico - Las Palmas, Km. 10,04861 a Km. 26,13776" y se acordó el valor de indemnización con su propietario Galvarino del Pilar Díaz Tapia, ascendente a la cantidad de $229.889.
+
+Fiscal del Ministerio de Obras Públicas.
