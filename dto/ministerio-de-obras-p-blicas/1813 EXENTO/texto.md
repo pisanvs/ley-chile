@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.813, de fecha 30 de noviembre de 2001, se expropió el lote de terreno Nº 209, superficie 120 m2., rol de avalúo 68-253, comuna de Teno, VII Región para la obra "Camino Ruta J-25, Sector Cruce Longitudinal-La Montaña, Km. 0,22000 al 25,00000" y se acordó el valor de indemnización con su propietario don Miguel Cereceda Canales, ascendente a la cantidad de $287.155.
+
+Fiscal del Ministerio de Obras Públicas.
