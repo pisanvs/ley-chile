@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.423 de fecha 31 de octubre del 2003, se expropio el lote de terreno Nº 83-B, superficies 1.382 m2, Rol en trámite, comuna de Pelluhue, VII para la obra "Camino Chovellen-Cobquecura, Sector: Chovellen-Límite Regional, Tramo 18,260.00 al 35,158.60", y se acordó el valor de indemnización con su propietario Alvaro Prado Calvo, ascendente a la cantidad de $2.393.204.-
+
+Fiscal del Ministerio de Obras Públicas.
