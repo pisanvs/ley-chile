@@ -8668,7 +8668,7 @@ I.- BENEFICIARIOS
 
 #### Artículo 1°
 
-Sólo podrán optar a la garantía del Fondo las personas naturales que sean pequeños empresarios y las entidades integradas por éstos, que cumplan con las disposiciones establecidas en el Decreto Ley N° 3472 de 28 de agosto de 1980 y sus modificaciones y en el presente Reglamento.
+Sólo podrán optar a la garantía del Fondo las personas naturales y jurídicas que sean pequeños empresarios y las entidades integradas por éstos, que cumplan con las disposiciones establecidas en el Decreto Ley N° 3472 de 28 de agosto de 1980 y sus modificaciones y en el presente Reglamento.
 
 #### Artículo 2°
 
