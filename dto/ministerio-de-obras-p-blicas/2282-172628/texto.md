@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.282, de 30 de mayo de 2000, se expropió el lote de terreno Nº5, superficie 76 m2., rol de avalúo 1279-2, comuna de Curicó, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector M, Séptima Región y se acordó el valor de indemnización con su propietaria Teresa de Jesús Díaz Matus, ascendente a la cantidad de $11.295.759.
+
+- Fiscal del Ministerio de Obras Públicas.
