@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.430 de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 3, superficie 604 m2, rol de avalúo Nº 214-28, comuna de Canela, para la obra "Mejoramiento Calle Local en Huentelauquen Bajo, sector Huentelauquen Bajo Km. 0.00000 a Km. 0,81310" IV Región y se acordó el valor de la indemnización con su propietario Amador Segundo Caro Gaete, ascendente a la cantidad de $10.307.544.
+
+- Fiscal del Ministerio de Obras Públicas.
