@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD "VALENTIN GIUGLIANO RUZZI Y COMPAÑIA LIMITADA" PARA CONTINUAR DESARROLLANDO ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.125, de 24 de Septiembre de 1987, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad "Valentín Giugliano Ruzzi y Compañía Limitada", domiciliada en calle Santa Rosa No. 9233, Comuna de San Ramón, Santiago, para continuar desarrollando en su domicilio las mismas actividades pesqueras que tenia autorizadas su antecesora legal, Sociedad "Valentín Ciugliano Ruzzi y Cía.", por resolución No. 216, de 1982, de esta Subsecretaria, consistentes en la elaboración de los recursos hidrobiológicos que a continuación se indican, en la línea de congelado: Loco, caracol, chorito, almeja, macha, ostra, jaiba, erizo, merluza, congrio, corvina, tollo, lenguado, atún, pejerrey de mar, lisa, langosta de J. Fernández y centolla.
+
+Valparaíso, 24 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
