@@ -1,0 +1,3 @@
+Por Resolución Nº 1.016, de 11 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95103036, presentada por SALMONES CHONCHI S.A., para el centro de cultivo ubicado en Este Puerto Queilén, Comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en los artículos Nº 10º, letra c) Nº 2, y Nº 14º, del D.S. Nº 290, de 1993, modificado por el D.S. Nº 604, de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción y artículos Nºs 78º y 87º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
