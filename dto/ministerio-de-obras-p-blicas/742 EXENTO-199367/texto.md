@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº742 de 22 de mayo de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1, 2 y 3 para la obra: Camino Cruce Long. - Colbún - Linares, Rol L-11-35, Sector Puente Putagán, Km.
+
+50,035 a Km. 50,328, que figuran a nombre de Wulf Plagemann Marta Elsa y Comunidad Mardones Concha, roles de avalúo 550-36 y 25-25, comunas de Linares y Colbún respectivamente, VII Región, superficies 955, 242 y 435 M2 respectivamente. La Comisión de Peritos fijó con fecha 10 de enero de 2001, en las cantidades de $2.040.000.-, para el lote 1; $1.284.000.- para el lote 2 y $930.000.- para el lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas .
