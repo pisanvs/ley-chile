@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 287, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 2, Entrega a Estero Huencheco; 1, Canal Pedregal y 1, Canal Pedregal-Ramal Nº 1, superficies 3.018, 1.344 y 600 m2., Roles de avalúo 591-13 y 695-44, comuna de Yungay, para la obra Proyecto Laja-Diguillín, Area de Riego Yungay y se acordó precio de la indemnización con sus propietarios, Olga Irene Ruiz Ramírez y Eduardo Erices Fritz y otros, ascendentes a las cantidades de $1.993.053 y $488.414, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
