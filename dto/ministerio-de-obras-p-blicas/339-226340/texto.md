@@ -1,0 +1,5 @@
+Por decreto MOP Nº 339, de 27 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió los lotes de terreno Nº s. 108 y 110 para la obra: "Camino Ruta S-16, sector Chol-Chol-Nueva Imperial, Tramo Km. 24,30269 a Km.
+
+43,50000, Sub-Tramo III, Km. 35,380 - Km. 43,50000", que figuran a nombre de Puig Echavarri Juan Alfonso, rol de avalúo 601-251, comuna de Nueva Imperial, IX Región, superficies 3.024 y 3.120 m², respectivamente. La Comisión de Peritos, fijó con fecha 21 de octubre de 2002 en las cantidades de $7.080.600.- lote 108 y $6.274.400.- lote 110. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
