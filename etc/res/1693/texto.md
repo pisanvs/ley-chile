@@ -1,0 +1,3 @@
+Por Resolución N° 1.693, de 17 de noviembre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a LOTA PROTEIN LTDA., R.U.T. N° 78.143.460-4, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Avenita Matta esquina Villagrán s/n, Lota, VIII Región, en la línea de elaboración de Harina, el recurso hidrobiológico Merluza de cola Macruronus magellanicus.
+
+Valparaíso, 17 de noviembre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
