@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N°350, de 24 de mayo de 1996, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropiaron los lotes de terrenos N° 50, 51 y 52, para la obra Camino Cauquenes Límite Regional - Quirihue, sector Cauquenes -
+
+Límite Regional, que figura a nombre de Sucesión Gerónimo Loyola H., rol de avalúo 426-22, Comuna de Cauquenes, VII Región, superficie 237, 271 y 411 M2., respectivamente. La Comisión de Peritos, compuesta por los señores Hugo Villarroel Urbina, Carlos Sottolichio Díaz e Iván Correa 0pazo, fijó con fecha 13 de julio de 1994, el valor provisional de la indemnización en la cantidad de $71.820, para el lote N° 50, $63.260, para el lote N° 51 y $232.660, para el lote N° 52. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
