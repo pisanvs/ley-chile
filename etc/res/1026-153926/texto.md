@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA SOPESA - ALIMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.026, de 03 de Septiembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Sopesa - Alimar S.A., domiciliada en Santiago, para ampliar las actividades pesqueras de transformación autorizadas por resolución No. 209, de 1984, de esta Subsecretaría, consistentes en la incorporación de los recursos hidrobiológicos: langostino amarillo, langostino colorado y camarón nailon a los procesos de elaboración que efectúa en su planta industrial de Molo Sur s/n, San Antonio, V Región y en su planta industrial de Avenida La Marina No. 1250, San Vicente, Comuna de Talcahuano, Provincia de Concepción, VIII Región.
+
+Valparaíso, 03 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
