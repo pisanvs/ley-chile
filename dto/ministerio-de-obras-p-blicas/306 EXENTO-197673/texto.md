@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº306, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº14, superficie 798 m2, rol de avalúo 302-67, comuna de Cunco, IX Región, para la obra "Camino Ruta S-61, Sector Cunco - Melipeuco, Km. 55,000 al 87,46783, correspondiente al Tramo I Km. 55,000 al 62,784" y se acordó el valor de indemnización con su propietario don José Valdemar Norambuena Farías, ascendente a la cantidad de $1.256.698.-
+
+Fiscal del Ministerio de Obras Públicas.
