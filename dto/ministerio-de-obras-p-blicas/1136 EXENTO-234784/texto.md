@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.136, de fecha 30 de noviembre de 2004, se expropiaron los lotes de terreno Nºs. 7-A, 7-A1, y 8-A1, superficies 768,00, 16,00 y 11,361 m²., Rol Nº 323-61, comuna de Río Negro, X Región para la obra "Camino Ruta U-72, sector Huilma-Riachuelo, tramo Km. 18,14000 al Km. 33,91000" y se acordó el valor de indemnización con su propietario Luis Alberto Silva González, ascendente a la cantidad de $5.279.692.- para los lotes Nºs. 7-A, 7-A1 y 8-A1.
+
+Fiscal del Ministerio de Obras Públicas.
