@@ -1,0 +1,5 @@
+DEJA SIN EFECTO CAMBIO DE SUJETO DEL IVA A SOC. COMERCIAL E INDUSTRIAL RUPERTO ROMERO Y CIA. LTDA.
+
+La VII Dirección Regional Talca del SII, por resolución Nº Ex. 1.817 de 05-12-2000, deja sin efecto a contar del día siguiente al de la publicación de la presente resolución, a Soc. Comercial e Industrial Ruperto Romero y Cía. Ltda., RUT Nº 78.056.140-8, la obligación establecida en la resolución Nº Ex. 974 del 13.07.1998 de la VII Dirección Regional, Talca, en conformidad a la resolución Nº Ex. 3.784 de 25.06.98 y sus modificaciones posteriores, de la Dirección Nacional, que le dispuso el Cambio de Sujeto del IVA en las operaciones de Venta de Carne, dejando de ocurrir las circunstancias que ameritaban la obligación. El peticionario deja de tener la Calidad de Retenedor del Impuesto al Valor Agregado en las operaciones de ventas de carnes.
+
+Luis Encina Barros, Director Regional (S).
