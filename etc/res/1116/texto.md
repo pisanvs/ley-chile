@@ -1,0 +1,5 @@
+Por Resolución N° 1.116 de 25 de Noviembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA HUALPEN LIMITADA, R.U.T. N° 79.731.580-K, para ampliar actividades pesqueras de transformación que tiene autorizadas 440por la Resolución N° 334 d 1992, de esta Subsecretaría, en orden 440a elaborar en las líneas de proceso de conserva y congelado, en la planta industrial autorizada por la Resolución señalada precedentemente, ubicada en Sitio 60-B, Barrio Industrial, Peñuelas, Comuna de Coquimbo, IV Región, los siguientes recursos hidrobiológicos: Conserva: Jibia, Lapa y Macha; Congelado: Macha.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 25 de Noviembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
