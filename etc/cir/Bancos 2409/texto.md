@@ -15688,9 +15688,9 @@ Cuando, en las operaciones de compra de documentos con pacto, los instrumentos t
 
 Las inversiones en notas estructuradas quedan sujetas a los límites de crédito del artículo 84 de la Ley General de Bancos, debiendo considerarse como deudor directo tanto al emisor de la nota como al deudor del instrumento subyacente.
 
-4.5.- Operaciones de factoraje.
+4.5. Operaciones de factoraje.
 
-En las operaciones de factoraje no existirán deudores indirectos, debiendo considerarse deudores directos a los obligados al pago de los documentos que se cedan sin responsabilidad y a los cedentes en caso de cesiones con responsabilidad.
+En las operaciones de factoraje no existirán deudores indirectos, debiendo considerarse deudores directos a los obligados al pago de los documentos que se cedan sin responsabilidad y a los cedentes en caso de cesiones con responsabilidad. Sin embargo, los obligados al pago de los documentos cedidos con responsabilidad del emisor, que tengan la calidad de relacionados con la institución adquirente quedarán afectos, como deudores indirectos, a los límites de crédito a que se refiere el N° 2 del artículo 84 de la Ley General de Bancos, en los términos señalados en el Capítulo 12-4 de esta Recopilación.
 
 ### 5. Deudas complementarias
 
@@ -16318,7 +16318,7 @@ Las instituciones financieras deberán entregar a este Organismo la información
 
 ### 1. Cómputo de los créditos
 
-Para computar los créditos otorgados a personas relacionadas con el objeto de determinar el grado de concentración crediticia y el cumplimiento de los límites de que trata el título III de este Capítulo, se considerarán todos los montos adeudados por las personas y sociedades clasificadas en la categoría de relacionadas de acuerdo a los criterios establecidos en el título I, que tengan la calidad de deudores directos según lo indicado en el N° 4 del título II del Capítulo 12-3 de esta Recopilación.
+Para computar los créditos otorgados a personas relacionadas con el objeto de determinar el grado de concentración crediticia y el cumplimiento de los límites de que trata el título III de este Capítulo, se considerarán todos los montos adeudados por las personas y sociedades clasificadas en la categoría de relacionadas de acuerdo a los criterios establecidos en el título I, que tengan la calidad de deudores directos según lo indicado en el N° 4 del título II del Capítulo 12-3 de esta Recopilación, como también aquellos que por operaciones de factoraje asuman el carácter de deudores Indirectos de esas operaciones, según lo expresado en el numeral 4.5 de dicho título II del Capítulo 12-3.
 
 La medición incluye, en consecuencia, los créditos otorgados por la institución financiera y por sus filiales y sucursales cuyas operaciones se consolidan para este efecto, que corresponden a:
 
