@@ -1,0 +1,3 @@
+Por resolución Nº 623, de 10 de abril de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99110077, presentada por SALMONES MULTIEXPORT LIMITADA para instalar y operar un centro de cultivo ubicado en Estero Walker, Estero Medio, Península de Taitao, comuna y provincia de Aysén, XI Región.
+
+Valparaíso, 10 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
