@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLES QUE INDICA
+
+Resolución Nº 57 de fecha 05 de julio de 2000 Serviu VI Región, del Libertador Bernardo O'Higgins, ordenó expropiación parte de inmueble ubicado en Avenida Freire Nº 231 de Rancagua, Rol Nº 31-2, superficie de 66,10 m2., delimitada en polígono C-D-E-F-C Plano 3-99, Serviu VI Región, de noviembre de 1999, aparente dominio de Israel del Carmen Valenzuela Pérez, según escritura pública de compraventa, ante Notario de Rancagua don Claudio Sepúlveda Delaigue, suplente del titular don Jorge Veloso Novoa, de fecha 08.03.91 inscrita a fojas 1369 Nº 1074, año 1991 del C.B.R. de Rancagua, Proyecto Mejoramiento Eje Vial Avenida Freire, Rancagua, conforme al artículo 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos: don Sergio Shippley Rubio, don Jorge Godoy Rojas y don Alejandro Padilla Henríquez. Monto provisional en $12.255.000 con reajuste IPC.
+
+Director Serviu VI Región.
