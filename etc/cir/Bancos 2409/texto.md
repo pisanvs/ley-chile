@@ -18592,25 +18592,17 @@ Para obtener las cifras que corresponde presentar en el balance general a partir
 
 El importe de la partida 1750 "Ajuste a Valor de mercado de inversiones transables" deberá saldarse, sólo para efectos de presentación, contra las líneas D1, D2 y D3, a fin de presentar las inversiones con sus respectivos ajustes, teniendo en cuenta lo indicado en el párrafo siguiente.
 
-2.- Por diversas cuentas del activo y del pasivo.
+2. - Por diversas cuentas del activo y del pasivo.
 
 En el Balance General deberán agruparse varios saldos o partidas en las líneas "OTROS ACTIVOS" (E) y "OTROS PASIVOS" (K), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones y de la suma de las partidas que se indican:
 
 Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre sí, con excepción de las cuentas "Contratos a futuro". Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio.
 
-El mismo procedimiento se seguirá en el caso de los saldos que reflejan los importes de las operaciones a futuro de la partida 2127 con respecto a los de las respectivas cuentas de la partida 4127. En este caso deben considerarse también las cuentas asociadas correspondientes a "Contratos a futuro" antes mencionadas, de las partidas 2525 y 4525.
+El mismo procedimiento se seguirá en el caso de los saldos que reflejan los importes de las operaciones a futuro de la partida 2127 con respecto a los de las respectivas cuentas de la partida 4127. En este caso deben considerarse también las cuentas asociadas correspondientes a "Contratos a futuro" antes mencionadas, de las partidas 2525 y 4525
 
-3.- Por recuperación de colocaciones castigadas.
-
-Los saldos correspondientes a ingresos por recuperación de colocaciones castigadas que se encuentren registrados en la partida 7910 deberán incluirse en la línea "RECUPERACION DE COLOCACIONES CASTIGADAS" (S) del Estado de Resultados.
-
-4.- Otras reclasificaciones.
+3.- Otras reclasificaciones.
 
 Las demás reclasificaciones que deben efectuarse en relación con los importes que se muestran en las partidas del Sistema de Información, se indican en las instrucciones de la sección IV siguiente, en lo que toca a situaciones en que no bastaría la simple agrupación de saldos a nivel de partidas.
-
-### IV. PARTIDAS QUE DEBEN SUMARSE
-
-LINEA PARTIDAS (No se indican algunas partidas cuyos saldos deben ser objeto de las reagrupaciones antes señaladas. Los números de referencia corresponden a las instrucciones al final de esta sección)
 
 .
 
@@ -18619,8 +18611,6 @@ OBSERVACIONES:
 [#A]: Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
 
 [#B]: Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
-
-[#C]: Ingresos por recuperación de colocaciones castigadas, según lo indicado en el N° 3 de las instrucciones sobre reagrupaciones de saldos.
 
 INSTRUCCIONES:
 
