@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A CARLOS FERNANDEZ BARRIA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Nº Ex. 1.315-A, de 31 de diciembre de 1998, excepciona a contar del 1º del mes siguiente al de esta publicación y hasta el 30 de noviembre de 1998, a Carlos Fernández Barría, Rut. Nº 5.374.864-3, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de trigo, establecido en la resolución Nº Ex. 5.550/96 de la Dirección Nacional, publicada en el Diario Oficial del 03.12.96, modificada por la resolución Nº Ex. 5.916/97, publicada en el Diario Oficial del día 02.12.97 y prorrogada por res. ex. 7.034 de 27.11.98. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus ventas de trigo.
+
+Rubén Ilabaca Salas, Director Regional (S).
