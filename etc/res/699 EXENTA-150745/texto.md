@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 699 de 28 de Mayo de 1987, conforme Art. 5° Transitorio Código de Aguas determinó Derechos de Aprovechamiento de Aguas proporcionales que corresponden. a sector excluido.y sector expropiado del predio "Fundo Los Maquis", de la comuna de Palmilla, Sexta Región y derechos de aprovechamiento de aguas que correspenden a parcelas N°s. 1 a la 12, sitios 1 al 14 y Reserva CORA No. 1 del Proyecto de Parcelación "Los Maquis", formado por sector expropiado del predio señalado. Los derechos de aguas se extraen del Canal Las Trancas, por el Canal Los Maquis.- Publicación hecha conforme Art. 13, ley No. 18.377.-
+
+Director Ejecutivo.
