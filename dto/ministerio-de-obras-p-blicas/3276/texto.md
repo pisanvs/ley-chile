@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.276, de 29 de octubre de 1999, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropió el lote de terreno Nº 2, para la obra Camino Tirúa - Trovolhue - Carahue, Sector Km. 6.038,00 al Km.
+
+7.043,00, que figura a nombre de Ignacio S. Ancanten Lincopi, rol de avalúo 524-52 de la comuna de Tirúa, superficie 1.043 m2. La Comisión de Peritos compuesta por los señores Ramón Jofré Soto, Luis Soto Abarca y José Manuel Gálvez Alegría, fijó con fecha 6 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $260.750. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
