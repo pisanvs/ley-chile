@@ -1,0 +1,15 @@
+COMPLEMENTA EL AUTO ACORDADO DE 10 DE JULIO DE 1987
+
+La copia autorizada ordenada dar del Libro de Actas del Tribunal Pleno de esta Corte de Apelaciones, a fs. 10 del Libro N° 9 de Pleno, es del siguiente tenor: San Miguel, diecisiete de Junio de mil novecientos noventa y seis, siendo las 18.00 horas, se reúne el Tribunal Pleno de esta Corte, bajo la Presidencia de su titular, Sra. Gabriela Hernández Guzmán y con la asistencia de los señores Ministros, don A. Rojas Q., H. Matus V., don J. Medina C., don G. Hermosilla A., don J.M. Varela M., don J. Pizarro A., don H. Carreño S., doña C. Rivas G. y don H. Villavicencio O. y se trató, entre otras materias, la siguientes: Vistos: Atendida la necesidad de realizar la distribución de los exhortos en materia criminal emanados de los Juzgados Vigésimo Sexto a Trigésimo Sexto del Crimen de Santiago y de los juzgados de Letras de Colina y Peñaflor, se acuerda, en uso de las facultades otorgadas a esta Corte por los artículos 3° y 66° inciso 4° del Código Orgánico de Tribunales, complementar el Auto Acordado de 10 de Julio de 1987 que reguló esta materia, en cuanto a la distribución de exhortos nacionales entre los juzgados de San Miguel en la forma que a continuación se señala:
+
+- **a)** Al Sexto Juzgado del Crimen le corresponderá, la jurisdicción de la Corte de Valparaíso incluidos los Juzgados de San Felipe y Los Andes.
+
+- **b)** Al Séptimo Juzgado del Crimen le corresponderá conocer y tramitar los exhortos en materia criminal provenientes de los Juzgados Vigésimo Sexto a Trigésimo Segundo del Crimen de Santiago.
+
+- **c)** Al Octavo Juzgado del Crimen le corresponderá conocer y tramitar los exhortos en materia criminal proveniente de los Juzgados Trigésimo Tercero a Trigésimo Sexto del Crimen de Santiago y de los Juzgados de Letras de Colina y de Peñaflor.
+
+- **d)** El presente Auto Acordado comenzará a regir desde la fecha de su publicación en el Diario Oficial.
+
+e) Los exhortos provenientes de los Juzgados de San Felipe y Los Andes y de los Tribunales Vigésimo Sexto a Trigésimo del Crimen de Santiago que han sido distribuidos con anterioridad a la fecha de entrada en vigencia del presente Auto Acordado, continuarán siendo conocidos y tramitados por los juzgados a que fueron asignados en su oportunidad. Comuníquese a la Excma. Corte Suprema, a las Cortes de Apelaciones del país, a los Juzgados de esta jurisdicción y publíquese en el Diario Oficial, extractándose, en lo pertinente, copia de la presente acta. Para constancia firman: Presidenta: Sra. Hernández, Ministros: Sr. Rojas, Sr. Matus, Sr. Medina, Sr. Hermosilla, Sr. Varela, Sr. Carreño, Sra. Rivas y Sr. Villavicencio. Autoriza don Víctor Stenger Larenas, Secretario Titular.- Es copia fiel de su original.- San Miguel, 3 de julio de 1996.-
+
+Víctor Stenger Larenas, Secretario.
