@@ -1,0 +1,3 @@
+Por Decreto Exento No. 21 de fecha 29 de enero de 1992 del Ministerio de Educación, se modificó la Resolución Exenta No. 266 de fecha 11 de octubre de 1990, que aprueba plan y programas de estudio de la carrera de Secretario Ejecutivo al Centro de Formación Técnica Genoveva Guarniero de Hijuelas, para que se aplique plan especial de estudios por única vez, a fin de regularizar la situación académica de los alumnos que ingresaron a la carrera en 1988 y 1989 en el Centro mencionado.-
+
+Santiago, 13 de Abril de 1992.- Raúl Allard Neumann, Subsecretario de Educación.
