@@ -1,0 +1,5 @@
+EXTRACTO DE EXPROPIACIONES
+
+Resolución 104, 10 mayo 1996, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Colo Colo N° 799, Rol de Avalúo N° 337-15, comuna Concepción, superficie 270 m2. de terreno y 21,45 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-11029-337-15; de aparente dominio de Jorge Neumann e Hijo Ltda., para ejecución programa "Mejoramiento Eje Vial Los Carrera de Concepción", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 10 de Abril de 1996, fijó monto provisional indemnización en $42.306.000.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
