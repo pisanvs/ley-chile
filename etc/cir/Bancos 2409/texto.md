@@ -1804,7 +1804,7 @@ c) que el cargo se efectue solamente después de haber pagado los cheques recibi
 
 4.3. Por el valor de los cheques devueltos por cualquier causa.
 
-Los cheques depositados en cuenta corriente que resulten protestados por cualquier causa, deben ser cargados de inmediato en la cuenta del depositante,aun en el caso que, por realizarse dicho protesto fuera del plazo de retención dispuesto por el banco, no existan en la cuenta las fondos suficientes para absorberlo.
+Los cheques depositados en cuenta corriente que resulten protestados por cualquier causa, deben ser cargados de inmediato en la cuenta del depositante,aun en el caso que, por haber permitido el propio banco la liberación anticipada del importe del valor en cobro, no existan en la cuenta las fondos suficientes para absorberlo.
 
 Con este cargo se agota el encargo de cobranza y el documento rechazado debe quedar a disposición del cliente que lo depositó en su cuenta y devolverse debidamente endosado según lo indicado en el numeral 13.5 del título III de este capítulo.
 
@@ -2040,7 +2040,7 @@ Para establecer si un cheque que ha llegado por conducto de la Cámara de Compen
 
 5.6. Cheques presentados en oficinas del mismo banco librado distintas de aquellas en que se mantiene la cuenta.
 
-Para los efectos de determinar si un cheque se presentó a cobro dentro del plazo dispuesto por la ley, debe tenerse en consideración que la institución bancaria librada es una sola en todo el país. Por lo tanto, para establecer la vigencia del cheque en el caso en que una oficina de un banco pague o reciba en depósito un cheque girado contra otra oficina del mismo banco, sea éste de la misma plaza o de una distinta, se entenderá que ha sido presentado a cobro en la fecha en que lo recibió la dependencia a la cual se presentó el cliente, sin perjuicio de la retención que corresponda aplicar a los depósitos.
+Para los efectos de determinar si un cheque se presentó a cobro dentro del plazo dispuesto por la ley, debe tenerse en consideración que la institución bancaria librada es una sola en todo el país. Por lo tanto, para establecer la vigencia del cheque en el caso en que una oficina de un banco pague o reciba en depósito un cheque girado contra otra oficina del mismo banco, sea éste de la misma plaza o de una distinta, se entenderá que ha sido presentado a cobro en la fecha en que lo recibió la dependencia a la cual se presentó el cliente.
 
 ### 6. Cheque al portador, a la orden o nominativo
 
@@ -2128,7 +2128,7 @@ Lo anterior se refiere sólo a la posibilidad de prescindir de la firma manuscri
 
 7.7. Cancelación de los cheques cobrados por intermedio de la Cámara de Compensación.
 
-De acuerdo con lo establecido en el párrafo a3) del número 9 del Reglamento de Cámara de Compensación, la institución que presenta a cobro los cheques debe estampar en el reverso el timbre de Cámara y en el anverso el timbre de caja. Estos requisitos son suficientes para proceder a su pago a través del canje y responsabiliza a la institución que presenta el documento, del último endoso que contiene.
+De acuerdo con lo establecido en el Reglamento de Cámara de Compensación, la institución que presenta a cobro los cheques debe estampar en el reverso el timbre de Cámara y en el anverso el timbre de caja. Estos requisitos son suficientes para proceder a su pago a través del canje y responsabiliza a la institución que presenta el documento, del último endoso que contiene.
 
 El endoso no es necesario cuando la institución financiera actúa como cobradora de impuestos, a nombre de la Tesorería General de la República, a nombre de las diversas Municipalidades del país por derechos municipales, de las Administradoras de Fondos de Pensiones por el cobro de imposiciones o de otros descuentos, de las empresas de utilidad pública, como compañías de electricidad, teléfonos, gas, agua potable, etc., o de empresas que le encomiendan cobranzas masivas, resultando suficiente en tales casos que el banco presente a cobro los cheques con el solo timbre de Cámara, toda vez que, de no aceptarse esta solución, debería él mismo endosarlos por poder de la institución o empresa que le encomendó la cobranza.
 
@@ -2202,7 +2202,9 @@ La única excepción que es posible admitir a la norma precedente ocurre cuando 
 
 De conformidad con lo previsto en el artículo 13 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, el cobro de un cheque debe practicarlo el portador ante el banco librado. Si el banco tiene varias sucursales en el país, sólo está obligado a pagarlo o protestarlo en la oficina en que el girador mantenga la cuenta corriente.
 
-Sin embargo, no existe inconveniente en que el banco pague el cheque en otra oficina, siempre que cuente con los antecedentes necesarios, esto es, que permitan verificar la firma, la serie y número del cheque, la existencia de órdenes de no pago del librador, recibidas por el banco hasta el momento en que se pague el cheque y si tiene o no fondos suficientes.
+Sin embargo, no existe inconveniente en que el banco pague por caja el cheque en otra oficina, siempre que cuente con los antecedentes necesarios, esto es, que permitan verificar la firma, la serie y número del cheque, la existencia de órdenes de no pago del librador, recibidas por el banco hasta el momento en que se pague el cheque y si tiene o no fondos suficientes.
+
+En todo caso, cuando se trate de cheques librados contra otras oficinas del mismo banco que se reciban en depósito o en comisión de cobranza, como asimismo de aquellos que se reciban en la cámara de compensación de documentos de otras plazas, los bancos deberán mantener los sistemas de información que permitan a la oficina receptora pagar o protestar los documentos por cuenta de la oficina librada.
 
 11.2. Prohibición de efectuar pagos por cantidades inferiores al valor del cheque.
 
@@ -2219,14 +2221,6 @@ El artículo 46 de la Ley sobre Cuentas Corrientes Bancarias y Cheques contiene 
 11.5. Pago de cheques a través de la cámara de compensación.
 
 El pago de cheques presentados en el canje, a través de la cámara de compensación, debe efectuarse de acuerdo con las disposiciones contenidas en el Reglamento de Cámara de Compensación del Banco Central de Chile y con las disposiciones impartidas por esta Superintendencia mediante el Capítulo 5-1 de esta Recopilación de normas.
-
-11.6. Pago de cheques recibidos de otras plazas.
-
-La oficina bancaria que reciba en cobro algún cheque depositado en otra plaza, debe tratarlo igual que si le fuera presentado directamente por su beneficiario.
-
-Cuando el cheque no pueda ser pagado, sea por falta de fondos o por otra causa cualquiera, no le queda al banco otra alternativa que la de proceder de inmediato a protestarlo y devolverlo al cobrador.
-
-El cumplimiento de estos trámites no puede, en consecuencia, diferirse a pretexto alguno, más allá de la hora en que corresponda dar por cerradas las operaciones del día en que se haya recibido el documento o la del día hábil bancario inmediatamente siguiente, cuando la recepción ocurra por vía postal,después de la hora de cierre.
 
 ### 12. Orden de no pago del cheque
 
@@ -2262,13 +2256,11 @@ El portador del cheque puede ser el propio girador que lo pudo haber extraviado 
 
 El protesto de un cheque es un acto solemne cuyo objeto consiste en dejar testimonio de que el documento presentado a cobro no ha sido pagado por el librado.
 
-Según el artículo 33 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, el protesto por falta de fondos debe efectuarlo el banco sin que medie un
-
-requerimiento o la intervención del portador. De ello se desprende que el protesto es siempre obligatorio para el banco, cualquiera sea el motivo que origine la falta de pago, con la sola diferencia de que, si la causa es la falta de fondos, debe hacerlo de oficio y, en los demás casos, a petición del portador.
+Según el artículo 33 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, el protesto por falta de fondos debe efectuarlo el banco sin que medie un requerimiento o la intervención del portador. De ello se desprende que el protesto es siempre obligatorio para el banco, cualquiera sea el motivo que origine la falta de pago, con la sola diferencia de que, si la causa es la falta de fondos, debe hacerlo de oficio y, en los demás casos, a petición del portador.
 
 Cuando se trate de cheques presentados a cobro por intermedio de otro banco, deberá subentenderse el requerimiento del portador, pues de esta manera se evitan posibles perjuicios al interesado, derivados primeramente, de la circunstancia de tener que requerir nuevamente el protesto, muchas veces en una plaza distinta de la de su domicilio; en seguida, de la inconveniencia de que el protesto lleve una fecha distinta de aquella en que el librado rehusó su pago y, finalmente, del evento de que el protesto aparezca extendido fuera de plazo.
 
-Como ya se señaló en el numeral 11.1 de este título, los bancos sólo están obligados a pagar o protestar un cheque en la oficina en que el girador mantenga la cuenta corriente. Sin embargo, así como esa obligación no es óbice para que se pague en una oficina diferente que cuente con toda la información necesaria para el efecto, tampoco existe inconveniente en que el protesto se efectúe en esta última, cuando a ella le corresponda negar el pago y siempre que cuente con dicha información.
+Como ya se señaló en el numeral 11.1 de este título, los bancos sólo están obligados a pagar o protestar un cheque en la oficina en que el girador mantenga la cuenta corriente. Sin embargo, así como esa obligación no es óbice para que se pague en una oficina diferente que cuente con toda la información necesaria para el efecto, tampoco existe inconveniente en que el protesto se efectúe en esta última, cuando a ella le corresponda negar el pago y siempre que cuente con dicha información. En todo caso, por las razones también indicadas en el mencionado numeral 11.1, los bancos deberán mantener los sistemas de información y comunicaciones adecuados para que la oficina depositaría o receptora ejecute el acto de protesto y la consiguiente devolución de los documentos, cuando se trate de cheques recibidos en depósito, en comisión de cobranza o por intermedio de la cámara de compensación.
 
 13.2. Causales de protesto de cheques.
 
@@ -2336,7 +2328,7 @@ d) Fecha y hora del protesto.
 
 Los protestos de los cheques presentados a cobro por ventanilla deben efectuarse en horas en que los bancos atienden al público.
 
-Los cheques recibidos en canje que deban protestarse, consignarán como hora de protesto las 9 A.M. (ó 9.01 A.M.) del día hábil bancario siguiente a aquel correspondiente a la reunión de cámara en que se recibió.
+Los cheques recibidos en canje que deban protestarse, consignarán como hora de protesto las 9 A.M. (ó 9.01 A.M.) del día hábil bancario n que debe efectuarse su devolución.
 
 e) Valor del impuesto.
 
@@ -4608,7 +4600,7 @@ Como sea, el sistema que se utilice deberá permitir un bloqueo computacional de
 
 Los importes de las transacciones efectuadas mediante tarjetas de débito deben cargarse directamente en las cuentas de los titulares, para abonarlas a las cuentas que correspondan de acuerdo con los contratos suscritos.
 
-Una cuenta podrá ser girada mediante el uso de tarjetas de débito, sólo si existen fondos disponibles al momento de la transacción, considerando para ese efecto todas las imputaciones efectuadas cronológicamente en la cuenta, incluido el procesamiento del canje según se establece en el N° 2 del título V del Capítulo 5-1 de esta Recopilación.
+Una cuenta podrá ser girada mediante el uso de tarjetas de débito, sólo si existen fondos disponibles al momento de la transacción, considerando para ese efecto todas las imputaciones efectuadas cronológicamente en la cuenta, incluido el procesamiento del canje según se establece en el Capítulo 5-1 de esta Recopilación.
 
 Los emisores informarán a los titulares de tarjetas de débito mediante las cartolas de sus respectivas cuentas, en las que deberán incluir el detalle de las transacciones realizadas, con expresa indicación del beneficiario final de cada pago, esto es, el nombre del establecimiento afiliado. No obstante, si el emisor no tuviera aún la información relativa a la identidad de un beneficiario extranjero al momento de emitir la cartola, podrá señalar, en su remplazo, la ciudad y el tipo de establecimiento comercial en que se efectuó la transacción, sin perjuicio de mantener a disposición del titular los datos precisos recibidos posteriormente.
 
@@ -4648,15 +4640,17 @@ Para los fines indicados en el numeral anterior, las instituciones financieras d
 
 Los plazos de retención para los valores en cobro correspondientes a cheques y otros documentos de cargo de otras instituciones financieras del país, serán los siguientes:
 
-a) El mismo día en que se efectúe el depósito y durante el día siguiente hábil bancario hasta el término del proceso de la tercera reunión de la cámara de compensación, para los depósitos efectuados con documentos de cargo de otras instituciones financieras de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago; y,
+a) El mismo día en que se efectúe el depósito y durante el día siguiente hábil bancario hasta el término del proceso de la tercera reunión de la cámara de compensación, para los depósitos efectuados con documentos de cargo de otras instituciones financieras de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago.
 
-b) Tres días hábiles bancarios para los depósitos conformados por instrumentos de cargo de otras instituciones financieras ubicadas en otras plazas, con excepción de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de Santiago, los que se regirán por el plazo señalado en la letra a) precedente. El plazo indicado en esta letra es el mínimo considerando su envío y cobro en la plaza contra la cual estén girados, de manera que, dependiendo del asiento de la oficina girada y del banco u oficina encargada de su cobro, las instituciones deberán prevenir el posible rechazo de documentos, estableciendo retenciones adicionales. El plazo de retención que en definitiva se aplique en cada caso, no podrá ir más allá del tiempo normal de demora de su consumación o aviso de rechazo. La tabla de lapsos adicionales que se aplique, deberá ser dada a conocer a los clientes, para evitar errores o confusiones.
+b) El mismo día en que se efectúe el depósito y durante los cuatro días hábiles bancarios siguientes hasta el término del proceso de la tercera reunión de la cámara de compensación en que se presenten a cobro, para los depósitos efectuados con documentos de otras plazas de cargo de instituciones financieras que tienen presencia en la plaza o agrupación de plazas en que el documento se presenta a cobro.
+
+c) El mismo día en que se efectúe el depósito y hasta el cuarto día hábil bancario siguiente a aquél, cuando se trate de documentos a cargo de un banco que no tenga presencia en la plaza o agrupación de plazas en que el documento se recibe y cuyo cobro, por consiguiente, se efectúe mediante cobranza directa o a través de un sistema de corresponsalía.
 
 Con todo, en aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaría deberá, desde el momento en que reciba el reembolso, permitir al depositante disponer de tales valores.
 
 Por otra parte, las instituciones financieras pueden prescindir de los plazos de retención cuando los valores en cobro correspondan a vales vista, certificados o pagarés de depósitos a plazo y cheques girados contra la cuenta única fiscal, según lo indicado en el numeral 3-3 de este Capítulo.
 
-Los plazos adicionales a que se refiere la letra b) no eximen al depositante de que, una vez transcurridos, pueda producirse la devolución del documento debido a demoras o como consecuencia de otras situaciones imprevistas que pudieran afectar la gestión de cobro, de modo que, aunque por término del plazo de retención los fondos de una cuenta pueden considerarse disponibles, el depósito puede seguir afectado por esa contingencia.
+La liberación de fondos que, por cualquier circunstancia, se efectúe sobre un documento que resulte rechazado y cuya gestión de cobro no se haya efectuado por intermedio de la Cámara de Compensación, no exime al depositante de que, una vez producida la devolución del documento, éste se cargue a su cuenta.
 
 2.2. Documentos de cargo de la misma institución depositaria.
 
@@ -4670,17 +4664,11 @@ Por consiguiente, es improcedente retener los fondos si ha sido cargado el impor
 
 2.2.2. Documentos a cargo de otras oficinas.
 
-Los importes de los depósitos efectuados con documentos a cargo de otras oficinas de la misma institución depositaría, tienen el carácter de condicionales cuando su cobro se haga mediante el envío de los documentos a la oficina librada para su pago y no se cargue la cuenta girada directamente por la oficina receptora del depósito.
+Los importes de los depósitos efectuados con documentos a cargo de otras oficinas de la misma institución depositaría, tienen el carácter de condicionales mientras no se cargue la cuenta girada.
 
-Cuando la oficina librada esté ubicada en la misma plaza de la oficina depositaría, los procedimientos deberán permitir la liberación de los fondos a más tardar al cierre de las operaciones del mismo día en que se reciba el depósito.
+Cuando la oficina librada esté ubicada en la misma plaza o agrupación de plazas de la oficina depositaría, los procedimientos deberán permitir la liberación de los fondos a más tardar al cierre de las operaciones del mismo día en que se reciba el depósito. En el caso de oficinas ubicadas en otras plazas o agrupación de plazas, los procesos internos deberán permitir esa liberación a más tardar al cierre de las operaciones del día hábil bancario siguiente.
 
-En el caso de oficinas ubicadas en otras plazas, las instituciones financieras deberán ceñirse a las instrucciones de la letra b) del numeral
-
-2.1 de este Capítulo, teniendo presente que, si el pago de los valores se hace efectivo en plazos inferiores a los previstos, la oficina depositaría deberá permitir al depositante girar sobre ellos.
-
-Cuando los documentos se envíen a la oficina librada, es obligación de la oficina depositaría o encargada de la cobranza utilizar para el efecto la vía más rápida y expedita posible. Por su parte, la oficina librada deberá cargar en la respectiva cuenta los cheques en cobro tan pronto como los reciba y devolver protestados de inmediato aquellos que no cuenten con la correspondiente provisión de fondos o que por cualquier otra causal no sean pagados.
-
-En ningún caso una oficina de un banco que opere en línea podrá mantener la retención de valores en cobro en espera de confirmaciones o devoluciones, si la cuenta corriente del girador del cheque ya ha sido cargada por el importe correspondiente.
+En ningún caso una oficina de un banco podrá mantener la retención de valores en cobro una vez que la cuenta corriente del girador haya sido cargada por el importe correspondiente.
 
 3. Giro de los importes depositados y liberación de documentos antes de obtenerse el pago de los valores en cobro.
 
@@ -4876,13 +4864,9 @@ Conforme con lo anteriormente expresado, las referidas instituciones no deben da
 
 ### 3. Importes que pueden deducirse de las obligaciones afectas a encaje
 
-3.1 Canje y documentos deducibles de encaje a cargo de sucursales.
+3.1.- Canje deducible.
 
-Los bancos y las sociedades financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, los saldos de las cuentas "Canje de la plaza", "Canje de otras plazas" y "Documentos deducibles de encaje a cargo de sucursales". Las dos primeras cuentas se incluyen en la partida 1015 y la última en la partida 2115 del MB1.
-
-Los valores que conformen el saldo de la partida 1015 deberán corresponder exclusivamente a documentos girados a cargo de otras entidades financieras. Luego no podrán incluirse en ningún caso, documentos a cargo de la propia institución.
-
-De ningún modo podrán deducirse de las obligaciones afectas a encaje los documentos recibidos de otras oficinas del mismo banco, ubicadas en otras plazas, para su cobro en la cámara local. Dichos documentos deberán registrarse en la cuenta "Canje no deducible" de la partida 1015 del MB1, puesto que ya cumplieron su período de deducción en la oficina remitente.
+Los bancos y las sociedades financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, la suma de los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas", de la partida 1015, tratadas en el título VI del Capítulo 5- 1 de esta Recopilación.
 
 Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a encaje, el excedente diario que se produzca cuando el saldo de las cuentas antes señaladas sea superior a sus depósitos y obligaciones a la vista sujetas a encaje.
 
@@ -4896,7 +4880,7 @@ Los bancos y sociedades financieras podrán deducir diariamente de sus obligacio
 
 3.4. Período de deducción.
 
-Los importes deducibles de que tratan los numerales precedentes podrán detraerse de las obligaciones afectas a encaje sólo por un día hábil bancario, salvo en el caso de los documentos registrados en la cuenta "Canje de otras plazas", en el que la deducción podrá hacerse hasta por dos días hábiles bancarios.
+Los importes deducibles de que tratan los numerales precedentes podrán detraerse de las obligaciones afectas a encaje sólo por un día hábil bancario, salvo en el caso de los documentos registrados en la cuenta "Canje de otras plazas", en el que la deducción podrá hacerse hasta por dos días hábiles bancarios, conforme al tratamiento contable establecido en el título VI del Capítulo 5-1 de esta Recopilación.
 
 ### 4. Encaje exigido y mantenido
 
@@ -4934,7 +4918,7 @@ Los fondos de las cuentas corrientes que se utilicen para efectuar depósitos de
 
 El Banco Central de Chile pagará intereses sobre el encaje exigido por los depósitos a plazo en moneda chilena, en las condiciones y plazos dispuestos en el Capitulo III.A.2 del Compendio de Normas Financieras del Instituto Emisor.
 
-Los bancos y sociedades financieras abonarán los intereses devengados por el concepto anteriormente indicado en la cuenta "Intereses ganados sobre encaje exigido", de la partida 7200 del MB1.
+Los bancos y sociedades financieras abonarán los intereses devengados por el concepto anteriormente indicado en la cuenta "Intereses ganados sobre encaje exigido", de la partida 7200.
 
 III.- ENCAJE SOBRE DEPOSITOS, CAPTACIONES Y OTRAS OBLIGACIONES EN MONEDAS EXTRANJERAS.
 
@@ -5164,9 +5148,7 @@ En estricto sentido, el cómputo adecuado de éstos consiste en agregarlos día 
 
 4. Importes que las instituciones financieras pueden deducir de sus obligaciones afectas a reserva técnica.
 
-Las instituciones financieras podrán deducir de las obligaciones señaladas en el número 2 de este título, los saldos de las cuentas "Canje de la plaza", "Canje de otras plazas" y "Documentos deducibles de encaje a cargo de sucursales". Las dos primeras se incluyen en la partida 1015 del MB1 y la última en la partida 2115 del mismo formulario.
-
-Los importes registrados en las cuentas señaladas precedentemente, podrán rebajarse de las referidas obligaciones sólo por un día hábil bancario, salvo en el caso de los documentos contabilizados en la cuenta "Canje de otras plazas", en que la deducción podrá hacerse hasta por dos días hábiles bancarios.
+Las instituciones financieras podrán deducir diariamente de las obligaciones señaladas en el N° 1 de este título, la suma de los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas", de la partida 1015, tratadas en el título VI del Capítulo 5-1 de esta Recopilación, esto es, el importe de esa partida menos el saldo de la cuenta "Canje no deducible".
 
 ### 5. Forma y oportunidad de constituir la reserva técnica
 
@@ -5370,11 +5352,13 @@ I.CANJE DE DOCUMENTOS EN MONEDA CHILENA
 
 ### 1. Cámara de Compensación
 
-El canje de documentos en moneda chilena, de la misma plaza, entre instituciones financieras, se rige por el Reglamento de Cámara de Compensación establecido por el Banco Central de Chile y por las disposiciones complementarias impartidas por esta Superintendencia.
+El canje de documentos en moneda chilena, de la misma plaza y de otras plazas, entre instituciones financieras, se rige por el Reglamento de Cámara de Compensación establecido por el Banco Central de Chile y por las disposiciones complementarias impartidas por esta Superintendencia.
 
 El texto del Reglamento de Cámara de Compensación se transcribe en el Anexo N° 1 del presente Capítulo.
 
-La reglamentación establecida por el Banco Central de Chile para el funcionamiento de la Cámara de Compensación incluye como participantes en ella, además del Banco Central de Chile, a todos los bancos y sociedades financieras. Estas instituciones, por consiguiente, cobrarán por cámara los documentos a cargo de otras entidades financieras participantes, que reciban en depósito o en pago de obligaciones, como asimismo pagarán aquellos documentos a su cargo que les sean presentados en las mismas reuniones; todo esto, siempre que se trate exclusivamente de documentos en moneda chilena, pagaderos en la misma plaza, o en una distinta pero perteneciente a una misma agrupación, cuando así corresponda.
+La reglamentación establecida por el Banco Central de Chile para el funcionamiento de la Cámara de Compensación incluye como participantes en ella, además del Banco Central de Chile, a todos los bancos y sociedades financieras. Estas instituciones, por consiguiente, cobrarán por cámara los documentos a cargo de otras entidades financieras participantes, que reciban en depósito o en pago de obligaciones, como asimismo pagarán aquellos documentos a su cargo que les sean presentados en las mismas reuniones; todo esto, siempre que se trate exclusivamente de documentos en moneda chilena.
+
+La mencionada reglamentación establece que por intermedio de la Cámara de Compensación se cobrarán los documentos pagaderos en la misma plaza o en una distinta, pero perteneciente a la misma agrupación, cuando así corresponda, como asimismo, pero en reuniones distintas, los documentos girados sobre otras plazas, de cargo de otras instituciones financieras con presencia en la plaza o agrupación de plazas donde tales documentos sean presentados.
 
 ### 2. Cuenta corriente con el Banco Central de Chile
 
@@ -5382,7 +5366,7 @@ Las instituciones financieras deben mantener una cuenta corriente a su nombre en
 
 ### 3. Vales de cámara
 
-El vale de cámara es un documento cuya principal característica radica en que su compensación puede realizarse en el mismo día de su emisión, a través de la Cámara de Operaciones Interfinancieras (Cuarta Reunión), según lo indicado en el párrafo d3) del número 9 del Reglamento. Dichos documentos deben ser impresos de acuerdo con las instrucciones generales que se indican en el número N° 2 del Capítulo 6-1 de esta Recopilación de Normas y deben contener, sin perjuicio de otras indicaciones que se estimen convenientes, los siguientes datos mínimos:
+El vale de cámara es un documento cuya principal característica radica en que su compensación puede realizarse en el mismo día de su emisión, a través de la Cámara de Operaciones Interfinancieras (Cuarta Reunión), según lo indicado en el párrafo d3) del número 9.1 del Reglamento. Dichos documentos deben ser impresos de acuerdo con las instrucciones generales que se indican en el número N° 2 del Capítulo 6-1 de esta Recopilación de Normas y deben contener, sin perjuicio de otras indicaciones que se estimen convenientes, los siguientes datos mínimos:
 
 - **a)** Nombre de la institución emisora;
 
@@ -5402,21 +5386,23 @@ En ningún caso se admite el uso de estos documentos para efectuar pagos a perso
 
 Es conveniente que las entidades financieras utilicen el vale de cámara como único medio para pagar las obligaciones en moneda chilena a favor de otras instituciones financieras. Para estos efectos, se entienden como obligaciones, los préstamos, pagos de depósitos, de dividendos, compra venta de divisas, letras de crédito, documentos entregados para gestión de cobro, giros contra las cuentas corrientes de la entidad financiera, operaciones interfinancieras, compra de instrumentos de inversión, etc.
 
-4. Retención sobre depósitos efectuados con cheques de otros bancos sobre la misma plaza y sobre otras plazas de la misma jurisdicción.
+4.- Retención sobre depósitos efectuados con documentos a cargo de otras instituciones financieras.
 
-El hecho de que la compensación final del canje, con los respectivos cargos y abonos en las cuentas corrientes mantenidas en el Banco Central de Chile se efectúe después de la quinta reunión o Cámara de Compensación Jurisdiccional, no autoriza de modo alguno a las empresas bancarias para que extiendan más allá del término del proceso de la tercera reunión (Cámara de Devoluciones) los plazos de retención sobre los depósitos efectuados el día hábil bancario inmediatamente anterior, con cheques de otros bancos de la misma plaza, o de una plaza distinta pero perteneciente a una misma agrupación.
+Las instituciones financieras no podrán extender más allá del término del proceso de la tercera reunión (Cámara de Devoluciones) los plazos de retención sobre los depósitos efectuados con los documentos presentados para su procesamiento en el correspondiente ciclo de cámara.
 
-La institución financiera a la que no le sean devueltos por intermedio de la tercera reunión, alguno de los documentos que presentó a cobro por cámara, queda liberada de la obligación de recibirlos en otra oportunidad. Por lo tanto, si decide recibir un documento posteriormente, en forma voluntaria, será responsable del perjuicio que pudiere causar a su cliente.
-
-Por otra parte, la existencia de las Cámaras de Compensación Jurisdiccionales no permite excepciones a las disposiciones sobre plazos mínimos de retención aplicables a aquellos documentos girados sobre otras plazas, aun cuando ellas formen parte de una misma jurisdicción y concurran por lo tanto, a una misma Cámara jurisdiccional.
+La institución financiera a la que no le sean devueltos por intermedio de la tercera reunión, alguno de los documentos que presentó a cobro en la primera reunión del respectivo ciclo de la cámara de compensación, queda liberada de la obligación de recibirlos en otra oportunidad .
 
 ### 5. Facultad de cobrar documentos sin concurrir a la Cámara de Compensación
 
-Las instituciones tienen el derecho de no cobrar por intermedio de la Cámara de Compensación los documentos que posean a cargo de otras entidades financieras. En tales casos los reembolsos correspondientes puede hacerlos la institución obligada al pago, a su elección, ya sea mediante vale vista, vale de cámara, cheque contra su cuenta corriente bancaria o bien en dinero efectivo.
+Las instituciones tienen el derecho de no cobrar por intermedio de la Cámara de Compensación los documentos que posean a cargo de otras entidades financieras, ya sea que se trate de documentos de la misma plaza o de otras plazas. En tales casos los reembolsos correspondientes puede hacerlos la institución obligada al pago, a su elección, ya sea mediante vale vista, vale de cámara, cheque contra su cuenta corriente bancaria o bien en dinero efectivo.
 
-En la misma forma deben proceder los bancos y sociedades financieras que, por circunstancias excepcionales, no concurrieren a alguna de las tres primeras reuniones de cámara y tuvieren valores por cobrar de otras entidades financieras. Estas últimas pueden hacer el pago en cualquiera de las formas señaladas en el párrafo precedente. En el evento de que tales pagos se realicen mediante cheque o vale vista, el cobro de esos documentos no puede hacerse en la cuarta cámara, sino que debe presentarse en la primera reunión.
+En la misma forma deben proceder los bancos y sociedades financieras que, por circunstancias excepcionales, no concurrieren a alguna de las tres primeras reuniones de cámara y tuvieren valores por cobrar de otras entidades financieras. Estas últimas entidades pueden hacer el pago en cualquiera de las formas señaladas en el párrafo precedente. En el evento de que tales pagos se realicen mediante cheque o vale vista, el cobro de esos documentos no puede hacerse en la cuarta cámara, sino que debe presentarse en la primera reunión.
 
 Las entidades que por algún motivo no concurran a alguna de las reuniones de cámara deben dar, con anticipación, el aviso correspondiente a la institución de tumo.
+
+6.- Documentos a cargo de instituciones que no tienen presencia en la plaza en que son recibidos.
+
+La instituciones bancarias que no tengan oficinas en alguna plaza o su respectiva agrupación de plazas, recibirán en cualquier cámara de compensación a la que concurran regularmente, los valores a su cargo que les sean presentados a cobro por el banco receptor, o bien podrán convenir un servicio de corresponsalía con una institución financiera que tenga presencia en esas plazas. Estas instituciones representarán a la respectiva entidad bancaria, recibiendo los documentos a su cargo, con el fin de proceder a su envío a la entidad librada, para su pago o rechazo, trámite que deberá ajustarse al plazo máximo de retención de cinco días, de que trata el Capítulo 3-1 de esta Recopilación.
 
 ### II. CANJE DE DOCUMENTOS EN MONEDA EXTRAJERA ENTRE INSTITUCIONES BANCARIAS
 
@@ -5458,7 +5444,7 @@ De acuerdo con lo dispuesto en el Reglamento del Banco Central de Chile, las ent
 
 ### IV. TIMBRES DE CAJA Y CAMARA
 
-Los documentos que se presenten a cobro a través de las Cámaras de Compensación, tanto en moneda chilena como extranjera, deben llevar en su anverso el correspondiente timbre de caja y en su reverso debe estamparse el timbre de Cámara Compensadora a que se refiere el párrafo a3) del número 9 del título II y el numeral 1.3 del título II de los Reglamentos de Cámara para documentos en moneda chilena y moneda extranjera, respectivamente, transcritos en los Anexos N°s 1 y 3 de este Capítulo.
+Los documentos que se presenten a cobro a través de las Cámaras de Compensación, tanto en moneda chilena como extranjera, deben llevar en su anverso el correspondiente timbre de caja y en su reverso debe estamparse el timbre de Cámara Compensadora según lo previsto en los Reglamentos de Cámara para documentos en moneda chilena y moneda extranjera, transcritos en los Anexos N°s 1 y 3 de este Capítulo, respectivamente.
 
 Para el efecto, las instituciones deberán ceñirse a las instrucciones contenidas en los numerales 4.1 y 4.2 del Capítulo 6-1 de esta Recopilación. Ambos timbres deben colocarse nuevamente cuando se trate de documentos cuya presentación se repita debido a rechazos anteriores.
 
@@ -5474,49 +5460,89 @@ c) Realizar, en los casos contemplados en el reglamento, las prórrogas de horar
 
 d) Comunicar oportunamente a las demás instituciones participantes, la inasistencia a alguna de las reuniones de los bancos o sociedades financieras que hubieren dado aviso en tal sentido con la anticipación suficiente.
 
-Además de las responsabilidades señaladas en los literales precedentes, las instituciones de tumo de la primera reunión de cámara para el cobro de documentos en moneda chilena, deberán enviar diariamente al Banco Central de Chile, antes de las 10:30 A.M., copia de la planilla general de resultados de esa reunión.
+Además de las responsabilidades señaladas en los literales precedentes, las instituciones de tumo de la primera reunión de cámara para el cobro de documentos en moneda chilena de la misma plaza, deberán enviar diariamente al Banco Central de Chile, antes de las 10:30 A.M., copia de la planilla general de resultados de esa reunión.
 
-### VI. INSTRUCCIONES CONTABLES
+VI.- INSTRUCCIONES CONTABLES.
 
-### 1. De aplicación general
+1.- Canje de documentos de la plaza.
 
-1.1. Canje de la plaza.
+Los documentos a cargo de otras instituciones financieras de la plaza cuyo cobro se efectúe por intermedio de la Cámara de Compensación se cargarán a la cuenta "Canje de la Plaza", de la partida 1015.
 
-Los documentos a cargo de otras instituciones financieras de la plaza cuyo cobro se efectúe por intermedio de la Cámara de Compensación deben registrarse en la cuenta "Canje de la Plaza", de la partida 1015. Dicha cuenta se cargará por el valor de los documentos que se presenten a cobro en las distintas reuniones de cámara, y se abonará por los documentos recibidos de otras instituciones financieras en esas mismas reuniones. También se incluirán en la cuenta "Canje de la Plaza", los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, los que, tanto para su pago como para su deducción de las obligaciones afectas a encaje, serán considerados como de la plaza.
+Los importes de esta cuenta son deducibles de encaje y deben ser solucionados al día hábil bancario siguiente, según lo indicado en el N° 4 de este título.
 
-El saldo, deudor o acreedor en moneda chilena de la cuenta "Canje de la Plaza", al término de cada ciclo de reuniones de la Cámara de Compensación, representará el débito o crédito que registrará la cuenta corriente de la entidad en el Banco Central de Chile. Por su parte, el saldo deudor o acreedor por el proceso de canje de documentos en moneda extranjera corresponderá al monto a recibir o pagar por la institución. Por lo tanto, una vez cursados los abonos que correspondan a la cuenta corriente en el Banco Central de Chile o efectuados los respectivos pagos en moneda extranjera, en su caso, las cuentas "Canje" deben quedar saldadas.
+La cuenta "Canje de la plaza" incluirá el valor de los documentos que se presenten a cobro en la primera reunión para el canje de documentos de la misma plaza o agrupación de plazas, como asimismo el importe de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, los que, tanto para su pago como para su deducción de las obligaciones afectas a encaje, serán considerados como de la plaza.
 
-El saldo de la cuenta "Canje de la Plaza" es deducible de las obligaciones a la vista para efectos de encaje; por este motivo, no se pueden mantener en esta cuenta valores que, por cualquier circunstancia, resulten rechazados al operar el canje. Dichos valores deben cargarse a la cuenta en que el cliente los haya depositado, o bien, a la cuenta de origen o a la partida "Varios Deudores". En cualquier caso, el cliente afectado debe ser avisado de inmediato acerca de la devolución del documento de que se trate.
-
-No obstante lo anteriormente expresado, las instituciones bancarias pueden admitir el redepósito de cheques protestados y repetir en canje documentos que hayan sido devueltos por cualquier motivo, posteriormente solucionado.
+Los documentos enviados por otras oficinas del mismo banco, ubicadas en otras plazas, para su cobro en la cámara local cuando el librado no tenga presencia en dichas plazas, deben cargarse a la cuenta "Canje no deducible", puesto que el importe de dichos documentos se computa' como deducible en la oficina remitente de acuerdo con lo previsto en el N° 3 de este título.
 
 Los cargos que se efectúen a la cuenta "Canje de la Plaza" no pueden comprender en ningún caso, valores girados contra la propia institución o girados por ésta contra sus corresponsales o a cargo de sus propias oficinas.
 
-Los documentos recibidos de otras oficinas del mismo banco, ubicadas en otras plazas, para su cobro en la cámara local, deben cargarse a la cuenta "Canje no deducible", puesto que dichos documentos ya cumplieron su período de deducción en la oficina remitente.
+2.- Canje de documentos de otras plazas.
 
-1.2. Canje de documentos sobre otras plazas.
+Los cheques y otros documentos en moneda chilena a cargo de otras instituciones financieras, pagaderos en otras plazas, que se cobrarán por intermedio de la Cámara de. Compensación de que trata el numeral 9.2 del Título II del Reglamento, deben cargarse a la cuenta "Canje de otras plazas", de la partida 1015.
 
-Los cheques y otros documentos a cargo de otros bancos pagaderos en otras plazas, deben cargarse a la cuenta "Canje de otras plazas", de la partida 1015, salvo que se trate de documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la Cámara de Santiago, según lo previsto en el numeral 1.1 precedente.
+Los documentos de plazas que pertenezcan a una misma agrupación deben considerarse, para estos efectos, como documentos de la misma plaza y, por lo tanto, no cabe su imputación a la cuenta "Canje de otras plazas".
 
-Los valores registrados en la cuenta señalada precedentemente son deducibles de las obligaciones afectas a encaje por el lapso de dos días.
+A la misma cuenta "Canje de otras plazas" se abonará el importe de los cheques y otros documentos en moneda chilena, pagaderos en otras plazas, el mismo día que se reciban en las distintas reuniones de la mencionada Cámara, con cargo a "Acreedores en cuentas corrientes" o las demás cuentas del pasivo que correspondan a los documentos que posteriormente se imputarán a las cuentas individuales, si no resultan rechazados.
 
-Los cheques y documentos de plazas que pertenezcan a una misma agrupación deben considerarse, para estos efectos, como documentos de la misma plaza y, por lo tanto, no cabe su imputación a la cuenta "Canje de otras plazas".
+El saldo de la cuenta "Canje de otras plazas" en conjunto con el saldo de la cuenta "Canje de la plaza" señalada en el numeral precedente, conformarán diariamente el importe deducible de encaje según lo previsto en el Capítulo 4-1 de esta Recopilación.
 
-### 2. Pago de cheques presentados en canje
+Atendido que el plazo máximo de deducción de documentos de otras plazas es de dos días hábiles, las instituciones financieras traspasarán los importes correspondientes a cada ciclo de cámara desde la cuenta "Canje de otras plazas" a la cuenta "Canje no deducible", el día hábil bancario siguiente al de la primera reunión de dicha cámara.
 
-Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos desde otras cuentas en el mismo banco, que se realicen hasta antes de las 9 horas del día hábil bancario siguiente al de la recepción de los documentos procesados en la primera cámara, oportunidad en que debe quedar finalizado el proceso.
+Por las mismas razones expuestas en el N° 1 precedente, los documentos recibidos de otras oficinas del mismo banco, ubicadas en otras plazas, para su cobro en la cámara local cuando el librado no tenga presencia en dichas plazas, deben incluirse en la cuenta "Canje no deducible".
+
+Por otra parte, los cargos que se efectúen a la cuenta "Canje de otras plazas" no pueden comprender en ningún caso, valores girados contra la propia institución o girados por ésta contra sus corresponsales o a cargo de sus propias oficinas.
+
+3.- Encargo de cobranza a otras oficinas y depósitos en bancos corresponsales.
+
+Los documentos a cargo de otras instituciones que se envíen a oficinas de otras plazas de la institución depositaría para su cobro en el lugar donde tenga presencia el banco librado,.se imputarán también a la cuenta "Canje de otras plazas" antes mencionada.
+
+Un procedimiento similar podrá utilizarse para los documentos que se depositen en las cuentas corrientes de corresponsales según lo indicado en el Capítulo 7-5 de esta Recopilación,en el sentido de mantener transitoriamente registrados los importes en la cuenta "Canje de otras plazas".
+
+En los casos mencionados en este numeral son igualmente aplicables las restricciones en el uso de la cuenta "Canje de otras plazas" señaladas en el N° 2, tanto en el tipo de documentos que se pueden imputar a esa cuenta, como en cuanto al posterior traspaso a la cuenta "Canje no deducible", el que deberá efectuarse el día hábil bancario subsiguiente a la fecha en que se haya recibido el depósito.
+
+4.- Resultados del Canje.
+
+El día del término de cada ciclo de cámara deberán quedar saldados los importes correspondientes a los respectivos ciclos, registrados en las cuentas "Canje de la plaza" o "Canje no deducible", según sea el caso.
+
+La cuenta "Canje de la plaza" se abonará por los documentos que haya recibido la institución en la primera cámara celebrada el día hábil bancario anterior, cargando las respectivas cuentas del pasivo.
+
+Los documentos que la institución devuelva a las instituciones que se los presentaron, originarán un cargo a la respectiva cuenta de canje, con abono a las cuentas del pasivo cargadas al recibirse.
+
+Por su parte, los documentos que le sean devueltos a la institución, originarán un abono a la cuenta "Canje de la plaza" o "Canje no deducible", según corresponda, debiendo cargarse directamente a las cuentas de las personas a quienes hubieren sido antes acreditadas las respectivas cantidades, a la cuenta de origen cuando hayan sido recibidos por la institución financiera en pago de obligaciones, o bien, transitoriamente a "Varios Deudores", cuando corresponda.
+
+El resultado a favor o en contra del canje de documentos en moneda chilena de un ciclo de cámara se saldará, en definitiva, con abono o cargo a la cuenta corriente de la entidad en el Banco Central de Chile, en tanto que el saldo deudor o acreedor por el proceso de canje de documentos en moneda extranjera corresponderá al monto neto a recibir o pagar por la institución, que se soluciona con los pagos de los respectivos bancos deudores en la misma fecha.
+
+5.- Control contable sobre el canje.
+
+Los tratamientos contables señalados en los numerales precedentes corresponden a la descripción de los criterios generales que deben aplicarse, en cuanto a los efectos en los deducibles de encaje y oportunidad de registro. Como es natural, ese esquema no es óbice para una apertura contable amplia que considere el uso de sub-cuentas, cuentas complementarias o utilización de auxiliares que permitan un adecuado control sobre el canje, siempre que se encuadren en los criterios descritos y se informen correctamente los saldos en el sistema de información de esta Superintendencia, el cual considera las cuentas mencionadas en estas normas.
+
+6.- Pago de cheques presentados en canje.
+
+6.1.- Procesamiento de cheques de la plaza.
+
+Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos auto-suficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos desde otras cuentas en el mismo banco, que se realicen hasta antes de las 9 horas del día hábil bancario siguiente al de la recepción de los documentos procesados en la primera cámara, oportunidad en que debe quedar finalizado el proceso.
+
+6.2.- Procesamiento de cheques de otras plazas.
+
+Los cheques recibidos en canje en la primera reunión de que trata la letra e) del numeral 9.2 del Título II del Reglamento, deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario inmediatamente anterior a la fecha en que se realice la tercera reunión de que trata la letra g) del numeral 9.2 antes mencionado, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes después del cierre del día hábil bancario antes señalado, hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos desde otras cuentas en el mismo banco, que se realicen después del cierre del. día hábil bancario mencionado y hasta antes de las 9 horas del día hábil bancario en el que se realice la tercera reunión ya indicada.
+
+Lo anterior es sin perjuicio de que contablemente los cheques recibidos en la primera cámara deben registrarse globalmente el mismo día de su recepción, según lo señalado en el N° 2 de este título.
+
+6.3.- Control del movimiento después del cierre y hasta la apertura.
 
 Los bancos deberán dejar constancia de la hora en que se registre en las cuentas corrientes cada uno de los movimientos que las afecten, cuando éstos se realicen entre la hora de cierre y las 9 horas del día hábil bancario siguiente.
 
-Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia.
+7.- Otras disposiciones.
 
-Los cheques recibidos en la primera cámara se contabilizarán al inicio del día hábil bancario siguiente por su monto total, con cargo a la cuenta "Acreedores en Cuentas Corrientes" y abono a la cuenta "Canje de la Plaza". Por los cheques rechazados en el procesamiento del canje, se cursará un cargo a la cuenta "Canje de la Plaza" con abono a la cuenta "Acreedores en Cuenta Corriente", de manera que esta última cuenta registre el valor de los cheques efectivamente cargados en las cuentas individuales.
+7.1.- Aviso a los clientes.
 
-### 3. Contabilización de las devoluciones de canje
+Las instituciones que reciban documentos rechazados deberán avisar de inmediato al cliente afectado, por vía postal o por los medios que hubieren convenido para dejar constancia de tal aviso.
 
-Los documentos devueltos por los bancos librados, por falta de fondos o por otros motivos, deben cargarse directamente a las cuentas de las personas a quienes hubieren sido antes acreditadas las respectivas cantidades, con abono a la cuenta "Canje". Simultáneamente con proceder al cargo mencionado, debe darse aviso al depositante.
+7.2.- Información de pactos de cheques por canje recibido de otras instituciones.
 
-Si el cheque devuelto ha sido entregado por una persona que no mantiene cuenta corriente o de ahorro con la institución financiera, como puede ocurrir, por ejemplo, en el pago de letras, en la emisión de certificados de depósito o en otras operaciones, se debitará transitoriamente el valor a la cuenta "Varios Deudores", mientras se obtiene la sustitución del documento por otro o el pago de la suma adeudada.
+Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia.".
+
+Junto con los cambios antes mencionados, se remplaza el Anexo N° 1 del Capítulo 5-1, a fin de incluir la versión actualizada del "REGLAMENTO DE CAMARA DE COMPENSACION DE CHEQUES Y OTROS VALORES EN MONEDA CHILENA EN EL PAIS", del Banco Central de Chile.
 
 ANEXO N°1
 
@@ -6516,7 +6542,7 @@ d) La aplicación del timbre de cajero debe hacerse al centro del cheque, recome
 
 4.2. Timbres de Cámara Compensadora.
 
-Para la utilización del timbre de Cámara Compensadora a que se refiere el título III del Capítulo 5-1 de esta Recopilación, las instituciones deben ceñirse a las siguientes instrucciones:
+Para la utilización del timbre de Cámara Compensadora a que se refiere el Capítulo 5-1 de esta Recopilación, las instituciones deben ceñirse a las siguientes instrucciones:
 
 4.2.1. Características del timbre.
 
@@ -6536,7 +6562,7 @@ Las instituciones financieras deben incluir en los timbres de cámara el código
 
 4.2.2. Fecha que debe consignarse en el timbre.
 
-La fecha que debe consignar el timbre de cámara estampado en los documentos que se presenten a cobro por intermedio de la Cámara Compensadora debe corresponder a aquella en que el documento es recibido en sus cajas por la entidad que lo presenta a cobro, salvo que se trate de documentas recibidos en horario especial, los cuales llevarán el timbre de cámara con la fecha del día hábil bancario siguiente.
+El timbre de cámara debe consignar la fecha en que los documentos deben presentarse a cobro, esto es, la de la primera reunión de la Cámara de Compensación que corresponda.
 
 4.3. Timbres protectores.
 
