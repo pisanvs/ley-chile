@@ -1,0 +1,3 @@
+Por Decreto MOP No. 37, de 28 de febrero de 1991, se expropiaron los lotes No. s. 15 y 26, superficies 375 y 250 M2., roles de avalúo 1737-22 y 2036-11, respectivamente, Comuna La Cisterna, para la obra Avenida Américo Vespucio, sector Gran Avenida-Ochagavía y se acordó precio de indemnización con sus propietarios doña Ema Castillo Guerra y señores Rodolfo Lagos Guldemont y Elena Guldemont Rocha, ascendentes a $ 11.298.210 y $ 13.965.630, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
