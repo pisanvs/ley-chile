@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 273, de 30 de abril de 1996, se expropiaron los lotes de terreno N°s. 34 y 35, superficies 2.685 M2. y 1.800 M2., rol de avalúo 504-42, comuna de Linares, para la obra Camino Ruta 5, Longitudinal Sur, sector San Javier Parral I, Tramo B y se acordó precio de indemnización con su propietario Robert Muñoz González, ascendente a la cantidad de $34.864.755.
+
+Fiscal del Ministerio de Obras Públicas.
