@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº779 de fecha 31 de mayo de 2002, se expropiaron los lotes de terreno Nºs 1-A y 2-A, superficie 1.730 y 700 m2 respectivamente, Rol Nº238-44, comuna de Toltén, IX Región para la obra ''Estudio de Ingeniería Varios Puentes en la IX Región, sector Puente Puchilco'', y se acordó el valor de indemnización con su propietario Margarita Silvia Liempi Calfín, ascendente a la cantidad de $923.580.
+
+Fiscal del Ministerio de Obras Públicas.
