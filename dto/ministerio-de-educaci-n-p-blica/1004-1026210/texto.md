@@ -120,7 +120,7 @@ Para los efectos de evaluación y promoción de los alumnos del Curso Especial d
 
 8) Las notas semestrales serán el promedio de las notas parciales ponderadas y se expresarán con una cifra decimal.
 
-9) Las notas finales por asignaturas serán el promedio aritmético de las notas semestrales y deberán expresarse en enteros. Para este efecto las fracciones iguales o superiores a 0.50 se elevarán al entero superior. La fracción 0.49 o menor se aproximará al entero inmediatamente inferior.
+9) Las calificaciones finales por asignaturas corresponderán al promedio aritmético de las notas semestrales alcanzadas en cada una de ellas y se expresarán hasta con un decimal sin aproximación.
 
 #### Artículo 7°
 
