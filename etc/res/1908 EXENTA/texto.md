@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1908 de 9 de Septiem. de 1987, conforme Art. 5° Transitorio Código Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a parcelas N°s. 2, 3, 4 y 7: sitios N°s 1, 2, 4 y 7 del Proyecto de Parcelación "Cachapoal" de la comuna de San Fabián, VIII Región, formado por predios "Cachapoal" y "Cachapoal y Parcela Séptima". Los Derechos de Agua se extraen del canal Greene y Maira, canal Zemita derivados del río Ñuble y del Estero Colliguav. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
