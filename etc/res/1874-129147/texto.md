@@ -1,0 +1,3 @@
+Por resolución Nº 1.874, de 30 de diciembre de 1998, de esta Subsecretaría, autorízase a EMPRESA DE DESARROLLO PESQUERO DE CHILE S.A., para realizar operaciones pesqueras, a contar del 1 de enero y hasta el 31 de diciembre de 1999, ambas fechas inclusive, con los barcos fábrica denominados ''Unzen'' y ''Unionsur'', en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 44°30 de latitud sur, respecto de las áreas y recursos y con las obligaciones establecidas en sus respectivas resoluciones.
+
+Valparaíso, 30 de diciembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
