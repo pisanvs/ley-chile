@@ -1,0 +1,3 @@
+Por Resolución Exenta N°1.256 de 14.10.93, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autoriza complementariamente a la empresa de origen argentino "Angel Giobbi" S.A., para efectuar servicio de transporte terrestre internacional de pasajeros entre Comodoro Rivadavia-Río Mayo (Argentina) y Coyhaique (Chile) y viceversa, utilizando los pasos fronterizos de Camino Alto Río Mayo-Coyhaique y Huemules, realizando (2) frecuencias semanales.-
+
+Sergio González Tagle, Subsecretario de Transportes.
