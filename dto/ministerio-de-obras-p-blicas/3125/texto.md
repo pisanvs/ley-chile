@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.125, de 20 de octubre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+10-1 y 10-2; para la obra Camino: Santiago - Colina - Los Andes. Sector: Enlace Chacabuco - Estero Chacabuco Km. 41.100,00 al 41.600,00, Región Metropolitana, que figuran a nombre de Pérez Valdebenito Daniel Bernardo, rol de avalúo 186-325, comuna de Colina, superficies 303,5 m2 y 756,4 m2, respectivamente. La comisión de peritos integrada por los señores María Soledad Saffie Duery, Marlene Teresa Ríos Marcuello y Miguel Juan Fernández Cádiz, fijó con fecha 20 de agosto de 1999, el valor provisional de la indemnización en las cantidades de $667.700.- para el lote Nº 10-1 y de $1.697.580.- para el lote Nº 10-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
