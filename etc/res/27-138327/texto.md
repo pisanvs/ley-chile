@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES TOTALES A INMUEBLES QUE SEÑALA
+
+Por resolución Nº 27, de 16 de junio de 1999, Serviu XII Región Magallanes y Antártica Chilena, dispuso expropiación total, conforme al decreto ley 1.523 de 1976, decreto supremo 140 de Vivienda y Urbanismo de 1991 y decreto ley 2.186 de 1978, de inmueble ubicado en Punta Arenas, Avenida 21 de Mayo esquina Bellavista, Rol de Avalúo Nº 1378-002, de aparente dominio de don Jorge Buvinic Mihovilovic y Otros. Comisión Tasadora, integrada por Sres. José Subiabre Aguilar, José Barría Bonacic y Sra. Jeannette Moris Torres, todos arquitectos, fijó monto provisional de indemnización, según informe de fecha 27 de mayo de 1999, en $52.164.060.-, que será pagada al contado con los reajustes legales.-
+
+Paulino Arellano Orias, Director Servicio de Vivienda y Urbanización XII Región (S).
