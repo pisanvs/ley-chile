@@ -1,0 +1,1 @@
+Declara en reorganización la Secretaría y Administración General del Ministerio de Hacienda y fija las plantas y remuneraciones de sus funcionarios.
