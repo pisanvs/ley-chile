@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.397 de 28 de noviembre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: Instalación Red de Agua Potable Ampliación Valle Grande, que figura a nombre de Chacra El Carmen Pc 2, rol de avalúo 183-18 comuna de Colina; Región Metropolitana, superficies 5.000 m2.- La comisión de peritos fijó con fecha 4 de septiembre de 2003 en la cantidad de $60.000.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
