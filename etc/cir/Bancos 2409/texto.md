@@ -16620,8 +16620,6 @@ Mientras el crédito no se pague y la garantía sea imprescindible para encuadra
 
 Las cartas de crédito irrevocables y pagaderas a su sola presentación, emitidas por bancos del exterior que se encuentren calificados en la más alta categoría por una empresa calificadora internacional que figure en la nómina incluida en el Capítulo 1-12 de esta Recopilación, son garantías válidas para efectos de márgenes.
 
-Sin embargo, las sucursales de bancos extranjeros en Chile no podrán considerar para estos efectos, las cartas de crédito de tales características, emitidas por su casa matriz o sus sucursales en el exterior.
-
 6.- Precisiones acerca de cauciones constituidas sobre bienes corporales.
 
 a) Prendas sobre cosechas futuras
