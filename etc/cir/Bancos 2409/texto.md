@@ -5090,9 +5090,9 @@ Los bancos podrán deducir de las obligaciones a la vista mencionadas en este t�
 
 En caso que el importe deducible sea superior al monto de las obligaciones a plazo y a la vista de que trata este título, el remanente puede ser deducido del monto de las obligaciones con el exterior de que trata el título IV de este Capítulo.
 
-El importe total que los bancos pueden deducir de sus obligaciones afectas a encaje, conforme a lo señalado en los párrafos precedentes, no podrá exceder, en caso alguno, del 70% de su patrimonio efectivo.
+El importe total que los bancos pueden deducir de sus obligaciones afectas a encaje, conforme a lo señalado en los párrafos precedentes, no podrá exceder del 70% de su patrimonio efectivo. No obstante, ese límite podrá superarse hasta por el 70% del patrimonio efectivo, siempre que el exceso corresponda exclusivamente a las inversiones financieras aludidas en el N° 3 de la letra A del Capítulo III. B. 5 del Compendio de Normas Financieras.
 
-Para el solo efecto de la determinación de la posición de encaje, el importe de las inversiones y de los créditos señalados en el primer párrafo de este numeral, susceptibles de ser deducidos de las obligaciones afectas a encaje, será registrado en las cuentas "Inversiones en el exterior deducibles para encaje" y "Créditos al exterior deducibles para encaje", respectivamente, de la partida 9167. Por otra parte, el monto correspondiente al límite del deducible, esto es, el equivalente al 70% del patrimonio efectivo, se incluirá en la cuenta "Límite del deducible por inversiones y colocaciones", de la misma partida.
+Para el solo efecto de la determinación de la posición de encaje, el importe de las inversiones y de los créditos señalados en el primer párrafo de este numeral, susceptibles de ser deducidos de las obligaciones afectas a encaje, será registrado en las cuentas "Inversiones en el exterior deducibles para encaje" y "Créditos al exterior deducibles para encaje", respectivamente, de la partida 9167. La cuenta "Inversiones en el exterior deducibles para encaje" reflejará todas las inversiones que se deducen, incluidas las que permiten ampliar el monto de la deducción. El importe contenido en esa cuenta que corresponda a estas inversiones en particular, se reflejará además en la cuenta "Inversiones utilizables para el margen adicional", de la misma partida. Por otra parte, el monto correspondiente al límite del deducible sin considerar el margen adicional, esto es, el equivalente al 70% del patrimonio efectivo, se incluirá en la cuenta "Límite del deducible por inversiones y colocaciones", de la partida 9167 antes mencionada.
 
 ### 4. Encaje exigido y mantenido
 
@@ -16646,7 +16646,7 @@ e) Avales otorgados para responder como garante directo o como contrafiador o av
 
 f) Avales para responder como garante directo de letras de cambio aceptadas o de pagarés suscritos en el exterior, correspondientes al precio pagadero a plazo de exportaciones chilenas.
 
-g) Créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 1 del Título I del Capítulo 13-27 de esta Recopilación.
+g) Créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, señalados en las letras a) y b) del numeral 2.1 del Capítulo 13-27 de esta Recopilación.
 
 Los créditos a que se refiere la letra d) anterior pueden acogerse al límite del 30%, al igual que las obligaciones que se originan de las letras o pagarés señalados en la letra b), cuando dichos documentos provengan de operaciones con países miembros de la ALADI y sean reembolsables a través del Banco Central de Chile por intermedio del respectivo convenio de crédito recíproco.
 
@@ -19054,93 +19054,95 @@ CAPITULO 13-27 (Bancos)
 
 MATERIA:
 
-FINANCIAMIENTOS A BANCOS Y A OTRAS PERSONAS DEL EXTERIOR.
+COLOCACIONES EN EL EXTERIOR.
 
-I.- OPERACIONES DE COMERCIO EXTERIOR CON CHILE.
+1.- Créditos a bancos y otras personas del exterior.
 
-1.- Créditos para financiar importaciones procedentes de Chile.
+De conformidad con las disposiciones contenidas en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile, los bancos pueden otorgar créditos a bancos y otras personas sin residencia ni domicilio en Chile, sujetos a instrucciones de ese Capítulo, a las disposiciones del Capítulo 12-13 de esta Recopilación y al cumplimiento de las normas legales y reglamentarias que les sean aplicables.
 
-Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar importaciones procedentes de Chile.
+Las presentes normas contienen disposiciones relativas a la definición de distintas colocaciones en el exterior y su correspondiente tratamiento contable, con excepción de los créditos que corresponden a avales y fianzas, boletas de garantía y cartas de crédito stand by, tratados en los Capítulos 8-10 y 8-11 de esta Recopilación.
 
-Los referidos créditos, cuando se otorguen a bancos del exterior, deberán tener por objeto el financiamiento de cartas de crédito emitidas por éstos, a la vista o con pago diferido, a favor de exportadores chilenos, que sean negociadas por intermedio de bancos situados en este país.
+2.- Operaciones de comercio exterior con Chile.
 
-Los créditos que sean otorgados a personas naturales o jurídicas residentes en el exterior, distintas de bancos, deberán tener por objeto pagar a los exportadores chilenos el precio de mercaderías importadas desde Chile, para cuyo efecto los beneficiarios de tales financiamientos deberán presentar copia de los documentos de embarque de las exportaciones que se financian.
+2.1.- Tipos de crédito que financian exportaciones o importaciones chilenas.
 
-2.- Créditos para financiar exportaciones destinadas a Chile.
+Para los efectos señalados en el numeral 2.2, corresponden a créditos para operaciones de comercio exterior con Chile los siguientes:
 
-Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile.
+a) Créditos a bancos del exterior para financiar cartas de crédito emitidas por éstos, a la vista o con pago diferido, a favor de exportadores chilenos, que sean negociadas por intermedio de bancos situados en Chile. Este tipo de crédito se encuentra regulado en el Capítulo 14-1 de esta Recopilación.
 
-Los créditos que otorguen los bancos para esa finalidad, deberán consistir en préstamos a exportadores extranjeros o a bancos del exterior, cursados contra recepción, en calidad de garantía, de las letras de cambio o de los pagarés aceptadas o suscritos por importadores chilenos, siempre que esos documentos no se encuentren avalados por bancos situados en Chile. Los créditos que se otorguen bajo esta modalidad deberán ser cursados en la misma moneda en que estén expresados los respectivos documentos que se reciban en garantía. Asimismo, los montos y vencimientos de tales préstamos no podrán exceder los de aquéllos.
+b) Créditos a personas naturales o jurídicas residentes en el exterior distintas de bancos, que tengan por objeto pagar a los exportadores chilenos el precio de mercaderías importadas desde Chile, otorgados previa presentación de copia de los documentos de embarque de las exportaciones que se financian.
 
-Además, los bancos pueden otorgar créditos para la finalidad antes indicada, mediante el descuento, con responsabilidad, a exportadores extranjeros o a bancos del exterior, de letras de cambio o pagarés, aceptadas o suscritos por importadores chilenos, con excepción de aquellos documentos avalados por bancos situados en este país, como también podrán adquirir tales instrumentos, con la excepción señalada, sin responsabilidad para el cedente.
+c) Préstamos a exportadores extranjeros o a bancos del exterior, cursados contra recepción, en calidad de garantía, de las letras de cambio aceptadas o de los pagarés suscritos por los importadores chilenos Estos préstamos deben otorgarse en la misma moneda en que estén expresados los documentos en garantía y por montos y vencimientos que no excedan los de éstos.
 
-3.- Instrucciones contables.
+d) Descuento con responsabilidad, a exportadores extranjeros o a bancos del exterior, de letras de cambio o pagarés, aceptadas o suscritos por importadores chilenos, con excepción de aquellos documentos avalados o afianzados por un banco situado en Chile.
 
-3.1.- Financiamiento a importadores extranjeros.
+e) Cualquier otro crédito, efectivo o contingente, distinto de los señalados en las letras precedentes, que tenga por objeto financiar operaciones de comercio exterior con Chile, otorgado a bancos u otras personas naturales o jurídicas residentes en el exterior.
 
-Los préstamos que cursen los bancos serán registrados en las cuentas "Préstamos a bancos del exterior para rembolso de cartas de crédito negociadas", o bien, "Préstamos a personas del exterior para pagar a exportadores", de la partida 1130 ó 1225.
+2.2 - Registro contable.
 
-3.2.- Financiamiento a exportadores extranjeros
+a) Financiamiento de exportaciones.
 
-Para registrar los créditos otorgados a exportadores extranjeros se utilizarán las siguientes cuentas de la partida 1125 ó 1220: "Préstamos a bancos del exterior caucionados por documentos de importadores"; "Préstamos a personas del exterior caucionados por documentos de importadores"; "Documentos aceptados por importadores adquiridos sin responsabilidad"; y, "Documentos aceptados por importadores adquiridos con responsabilidad".
+Los préstamos que se cursen a bancos y a otras personas situados en el exterior para financiar las importaciones de mercaderías procedentes de Chile, serán registrados en la cuenta "Préstamos al exterior para financiar exportaciones chilenas", de la partida 1130 ó 1225. No obstante, los financiamientos de cartas de crédito tratados en el Capítulo 14-1 de esta Recopilación, se registrarán de acuerdo con las instrucciones de ese Capítulo.
 
-4.- Límites.
+b) Financiamiento de importaciones.
 
-Los créditos señalados precedentemente, otorgados para el financiamiento de importaciones hacia Chile, estarán afectos al límite de endeudamiento individual del 5% para operaciones sin garantía y al 25% en los casos en que exista garantía válida para estos efectos, de conformidad con lo dispuesto en el artículo 84 de la Ley General de Bancos y en el Capítulo 12-3 de esta Recopilación Actualizada de Normas, en tanto que aquellos cuya finalidad sea financiar el pago de exportaciones chilenas, podrán alcanzar los márgenes de 10% y 30% previstos para esos créditos en las disposiciones antes señaladas.
+Para contabilizar los créditos otorgados a beneficiarios en el exterior con el objeto de financiar exportaciones de mercaderías a Chile, se utilizará la cuenta "Préstamos al exterior para financiar exportaciones destinadas a Chile", de la partida 1125 ó 1220.
 
-II.- OPERACIONES DE COMERCIO EXTERIOR ENTRE TERCEROS PAISES.
+3.- Operaciones de comercio exterior entre terceros países.
 
-De conformidad con lo dispuesto en el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los bancos están facultados para financiar las operaciones de importación y exportación de mercaderías entre países extranjeros, para cuyo efecto deberán atenerse a lo dispuesto en dicho Capítulo y a las siguientes instrucciones:
+3.1.- Tipos de crédito.
 
-1.- Créditos que los bancos pueden otorgar.
+Constituyen créditos para financiar operaciones de comercio exterior entre terceros países, para los fines señalados en el numeral 3.2, los siguientes:
 
-a) Emitir cartas de crédito a la vista o a plazo por cuenta de personas situadas en países extranjeros a favor de personas ubicadas en otros países. Además, en el caso de cartas de crédito negociadas y pagaderas a plazo o contra aceptación de letra, los bancos pueden anticipar su pago a los beneficiarios, debiendo rescatar, simultáneamente, las letras de cambio que hubieren aceptado. Asimismo pueden financiar el pago de las operaciones a que se refiere esta letra a) por el plazo que se convenga, debiendo en todos los casos contar con copia de los documentos de embarque.
+a) Emisión de cartas de crédito a la vista o a plazo para operaciones de comercio exterior entre terceros países, o el pago anticipado a beneficiarios de tales cartas de crédito negociadas y pagaderas a plazo o contra aceptación de letra, debiendo rescatar en este último caso simultáneamente la letra de cambio que hubieren aceptado.
 
-b) Financiar, a petición de los bancos emisores y por el plazo que se convenga, el rembolso de cartas de crédito emitidas por bancos situados en el extranjero a favor de beneficiarios ubicados en otros países, debiendo contar para tal efecto, con copia de los documentos de embarque.
+b) Financiamiento del pago de las cartas de crédito negociadas a que se refiere la letra a), por el plazo que se convenga, contando con copia de los documentos de embarque.
 
-c) Adquirir y descontar letras de cambio aceptadas y pagarés suscritos por otros bancos, originados en la negociación de cartas de crédito a plazo, para lo cual los descontantes les deberán presentar copia de los respectivos documentos de embarque y de las cartas de crédito.
+c) Financiamiento, a petición de los bancos emisores y por el plazo que se convenga, del reembolso de cartas de crédito emitidas por bancos situados en el extranjero a favor de beneficiarios ubicados en otros países, contando para tal efecto, con copia de los documentos de embarque.
 
-d) Adquirir, a los beneficiarios, los derechos sobre cartas de crédito negociadas a plazo, siempre que cuente con la conformidad del banco emisor y éste haya autorizado al banco adquirente para rembolsarse al vencimiento.
+d) Adquisición o descuento de letras de cambio aceptadas y pagarés suscritos por otros bancos, originados en la negociación de cartas de crédito a plazo, previa presentación de copia de los respectivos documentos de embarque y de las cartas de crédito.
 
-e) Adquirir y descontar letras de cambio aceptadas y pagarés suscritos por importadores, incluidos aquellos con aval de bancos situados en el extranjero, originados en operaciones de comercio exterior entre terceros países bajo la modalidad de cobranza, acompañados de copia de los respectivos documentos de embarque.
+e) Adquisición, a los beneficiarios, de los derechos sobre cartas de crédito negociadas a plazo, siempre que se cuente con la conformidad del banco emisor y su autorización para reembolsarse al vencimiento.
 
-f) Financiar, a petición de bancos corresponsales y por el plazo que se convenga, operaciones de comercio exterior entre terceros países, debiendo contar, para tal efecto, con copia de los respectivos conocimientos de embarque y facturas.
+f) Adquisición o descuento de letras de cambio aceptadas y pagarés suscritos por importadores, incluidos aquellos con aval de bancos situados en el extranjero, originados en operaciones de comercio exterior entre terceros países bajo la modalidad de cobranza, acompañados de copia de los respectivos documentos de embarque.
 
-Todos los créditos señalados sólo pueden ser otorgados y pagaderos en dólares estadounidenses, razón por la cual las operaciones que se financien y los documentos que se adquieran o descuenten, originados en las operaciones de comercio exterior a que se refiere este título, también deben estar expresados y ser pagaderos en la moneda ya indicada.
+g) Financiamiento, a petición de bancos corresponsales y por el plazo que se convenga, de operaciones de comercio exterior entre terceros países, contando para tal efecto con copia de los respectivos conocimientos de embarque y facturas.
 
-Por otra parte, de conformidad con lo dispuesto por el Banco Central de Chile, estas operaciones no pueden efectuarse por intermedio del Convenio de Pagos y Créditos Recíproco.
+h) Cualquier otro crédito, efectivo o contingente, distinto de los señalados en las letras precedentes, que tenga por objeto financiar operaciones de comercio exterior entre terceros países.
 
-Asimismo, junto con mantener estos créditos individualizados del resto de sus colocaciones, deberán identificar, en cada uno de ellos, el origen de los recursos con los que haya sido otorgado, de acuerdo con las normas del Banco Central de Chile, de tal forma que en cualquier momento sea posible conocer el monto que se mantiene desembolsado de cada fuente de recursos.
+3.2.- Registro contable.
 
-2.- Instrucciones contables.
+a) Operaciones con cartas de crédito.
 
-Las cartas de crédito que los bancos emitan por las operaciones de que trata este título, serán registradas en las cuentas "Deudores por cartas de crédito emitidas terceros países", de la partida 1615 y "Obligaciones por cartas de crédito emitidas terceros países", de la partida 3615.
+Las cartas de crédito que los bancos emitan por las operaciones de comercio exterior entre terceros países, serán registradas en las cuentas "Deudores por cartas de crédito emitidas terceros países", de la partida 1615 y "Obligaciones por cartas de crédito emitidas terceros países", de la partida 3615.
+
+Las cartas de crédito que los bancos confirmen para estas operaciones, serán registradas en las cuentas "Deudores por créditos del exterior terceros países", de la partida 1620, y "Obligaciones por cartas de crédito confirmadas terceros países", de la partida 3620.
 
 Cuando las mencionadas cartas de crédito sean negociadas a plazo, con aceptación de letra o sin ella, serán registradas en las cuentas "Deudores por cartas de crédito negociadas a plazo terceros países", de la partida 1110, y "Obligaciones por cartas de crédito negociadas a plazo terceros países", de la partida 3510 ó 3515, según corresponda.
 
-Todos los demás créditos que los bancos otorguen de conformidad con lo dispuesto en el N° 1 precedente, serán registrados en la cuenta "Créditos comercio exterior terceros países", de la partida 1110 ó 1205, según sea el plazo de las operaciones.
+b) Otras operaciones de comercio exterior.
 
-3.- Límites.
+Las demás colocaciones para financiar operaciones de comercio exterior entre terceros países, distintas de las señaladas en la letra a) precedente, serán registradas en la cuenta "Créditos comercio exterior terceros países", de la partida 1110 ó 1205, según sea su plazo.
 
-De acuerdo con lo establecido en el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, el saldo total de los créditos de que trata este título, no podrá exceder del 20% del capital pagado y reservas de la respectiva institución acreedora.
+4.- Colocaciones que no correspondan a operaciones de comercio exterior.
 
-Como es natural, dentro de ese margen los bancos deben dar cumplimiento, además, al límite legal de endeudamiento individual.
+Los colocaciones en el exterior que no correspondan al financiamiento de operaciones de comercio exterior a que se refieren los N° 2 y 3, serán registradas en la cuenta "Créditos otorgados al exterior" de las partidas 1110 ó 1205 según sea su plazo.
 
-III.- RIESGO DE LAS OPERACIONES.
+5.- Precisiones respecto a la aplicación de otras normas.
 
-El uso de los recursos para financiar operaciones en otros países exige la fijación de políticas prudenciales que permitan acotar y manejar los riesgos que se asumen.
+5.1.- Provisiones de que trata el Capítulo 12-13.
 
-Corresponderá en consecuencia al Directorio de cada institución financiera establecer las políticas con respecto al uso de los recursos para los créditos de que trata este Capítulo, fijando una adecuada diversificación para su colocación e imponiendo, sin perjuicio de los límites legales y reglamentarios, límites crediticios por país y, eventualmente, por áreas de actividad económica.
+La definición de "créditos de comercio exterior" contenida en el Capítulo 12-13 de esta Recopilación, tiene efecto solamente para el cálculo de las provisiones establecidas en esas normas. El presente Capítulo contiene una especificación más amplia para propósitos contables, incluyendo dentro de las operaciones de comercio exterior también aquellas en que no se cumple, entre otras, la condición de que, para considerarlas como tales, conste el embarque de la mercadería. Esas operaciones en que no existe esa condición, para los solos efectos del Capítulo 12-13 antes aludido corresponderían a la categoría de créditos "comerciales", salvo el caso de las cartas de crédito irrevocables pendientes de negociación.
 
-En el caso de líneas de crédito que se otorguen a bancos del exterior para la finalidad de que trata este título, se deberá fijar el monto de las mismas y sus condiciones de uso, tasa de interés, plazo, etc., como igualmente los antecedentes que se exigirán a cada institución y la periodicidad con que tales antecedentes, particularmente los financieros, deben ser actualizados o renovados.
+5.2.- Adquisición o descuento de documentos.
 
-Las directrices y acuerdos tomados por el Directorio sobre la materia, deberán quedar debidamente documentados y constar en actas.
+En concordancia con lo establecido en el Capítulo 12-3 de esta Recopilación, cualquier operación de descuento sin responsabilidad del cedente, de letras de cambio o pagarés aceptados o suscritos por personas naturales o jurídicas residentes en Chile, no constituyen colocaciones al exterior, puesto que el deudor directo, en ese caso, es el aceptante o suscriptor con residencia en Chile, aun en el caso en que estén avalados por personas residentes en el extranjero. Por lo tanto, estas operaciones no corresponden a las tratadas en el presente Capítulo. Lo que prima siempre es la calidad de deudor directo, según lo dispuesto en el Capítulo 12-3.
 
-Para los fines antedichos el banco debe contar con la información necesaria, tanto de los países en los cuales se radican los financiamientos, como de los deudores respectivos, de modo que sea posible calificar el riesgo de esas operaciones.
+Respecto a la presencia de deudores indirectos, conviene tener presente también que, de acuerdo con las normas del Banco Central de Chile sobre la materia y con lo previsto en el Capítulo 8-10 de esta Recopilación, los bancos no pueden adquirir o descontar documentos avalados o afianzados por bancos situados en Chile.
 
-En ese mismo sentido, todos los deudores situados en el exterior deberán quedar clasificados en su correspondiente categoría de riesgo, conforme a la metodología establecida en el Capítulo 8-28 de ésta Recopilación.
+5.3.- Interés máximo convencional.
 
-Por otra parte, los antecedentes que mantenga el banco acerca de sus deudores, deberán permitir, además, determinar si existe o no relación real o presunta entre el banco que otorga el financiamiento y el deudor, de acuerdo con las normas contenidas en el Capítulo 12-4 de esta Recopilación.
+De acuerdo con la Ley N° 18.010, cuyas disposiciones se tratan en el Capítulo 7-1 de esta Recopilación, no quedan sujetas al límite del interés máximo convencional las colocaciones en el exterior que correspondan a operaciones pactadas con instituciones o empresas bancarias o financieras extranjeras o internacionales, como tampoco las pactadas o expresadas en moneda extranjera para operaciones de comercio exterior, cualesquiera sea el deudor.
 
 CAPITULO 13-28 (Bancos)
 
