@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 504, de 21 de abril de 1998, se modificó el decreto M.O.P. No. 1.133, de 28 de noviembre de 1997, que expropió el lote de terreno No. 10, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Faja de Expropiación Canal Relbún Ramal No. 2, que figura a nombre de Rosa Agustina Mardones Vidal, rol de avalúo 160-31, comuna de Pemuco, VIII Regi¢n, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $ 147.840, por haber quedado sin efecto el convenio directo de precio suscrito con el expropiado. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
