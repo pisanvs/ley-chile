@@ -1,0 +1,5 @@
+Concesion a Agustin Eyzaguire i C.ª
+
+La Corte de Representantes ha tomado en consideracion la solicitud de don Agustin Eyzaguirre i Compañía, sobre ser consignatario de un buque, aunque ninguno de los socios esté en la lista de consignatarios de Valparaiso, como lo exige el artículo 50 del nuevo Reglamento, i teniendo presente las razones en que se funda, la ruina actual del puerto i el corto número de hijos del pais que comercian por mayor en aquel punto, declara que por ahora i mientras se reparan esas ruinas puedan allí ser consignatarios los de la lista de esta capital de que trata el artículo 79 del nuevo Reglamento, con la precisa calidad de que cuando la consignacion recaiga en los de la enunciada lista, deberán aceptarla por si, o apoderado, i presentar al manifiesto por menor dentro del término de cinco dias, cumpliendo en lo demas los artículos 52 i 53.
+
+Santiago, Diciembre 3 de 1822. – Conformado. – Tómese razon en la Inspeccion Jeneral de Aduanas para que lo comunique a la Jeneral i Principal, e imprímase. – O'Higgins. – Rodríguez.
