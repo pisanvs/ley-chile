@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 528 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 14-A, superficie 1.392 m², Rol de Avalúo Nº 160-517, comuna de Petorca, para la obra ''Ruta E-37-D sector Pedegua - Palquico Km. 0,000 a Km. 14,000'', V Región y se acordó el valor de indemnización con su propietario Carlos Eugenio Baeza Rischter, ascendente a la cantidad de $2.211.629.-
+
+Fiscal del Ministerio de Obras Públicas.
