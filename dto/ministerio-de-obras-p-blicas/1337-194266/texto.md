@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.337, de 31 de agosto de 2001, se expropiaron los lotes de terreno Nºs 88 y 95, superficies 1.685 y 22 m2., rol de avalúo 375-5, comuna de El Quisco, para la obra Red Vial Litoral Central Sector 2: Camino Algarrobo-Casablanca (Ruta F-90). Tramo Kms. 0.000,00 al 32.100,00, Quinta Región y se acordó el valor de la indemnización con su propietario Parque Santa María de Algarrobo S.A., ascendente a la cantidad de $10.827.808.- para los lotes Nºs 88 y 95.
+
+Fiscal del Ministerio de Obras Públicas.
