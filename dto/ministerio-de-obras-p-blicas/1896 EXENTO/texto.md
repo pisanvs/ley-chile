@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.896 de fecha 30 de noviembre de 2001, se expropiaron los lotes de terreno Nºs. 26-A, 28, 31, 33, 35, 36, 37-A, 38 y 40, superficie 992, 707, 416, 134, 263, 639, 377, 258 y 2.441 m2 respectivamente Rol de Avalúo Nº171-4, comuna de Casablanca, para la obra "Mejoramiento Ruta F-800, Sector Cruce Ruta 68 Las Tablas-Bifurcación Tunquén" y se acordó el valor de indemnización con su propietario Jorge Ríos García Huidrobro, ascendente a la cantidad de $6.722.159.-
+
+Fiscal del Ministerio de Obras Públicas.
