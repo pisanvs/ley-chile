@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº61, de 9 de junio del año 2000, se aprobó reforma parcial al estatuto de la Cooperativa de Ahorro y Crédito Coosagro Limitada, de Santiago, en los términos que da testimonio la escritura pública suscrita con fecha 22 de mayo de 2000, ante la Notario Público de Santiago, doña Elena Torres Seguel.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
