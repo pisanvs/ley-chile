@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 791 de fecha 31 de mayo del 2004, se expropió el lote de terreno Nº 78, superficie 961 m2, Rol Nº 231-50, comuna de Toltén, IX Región para la obra "Camino Ruta S-790 Sector Nueva Toltén - Limite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietaria Marta Celia Huechan Alonso o Alonzo, ascendente a la cantidad de $580.710.- para el lote Nº 78.
+
+- Fiscal del Ministerio de Obras Públicas.
