@@ -314,7 +314,7 @@ f) Rendir cuenta en la Asamblea General Ordinaria del año, tanto de la marcha d
 
 <!-- parte:9276180 -->
 
-Como administrador de los bienes sociales, el Director estará facultado para comprar, vender, dar y tomar en arrendamiento, ceder y transferir toda clase de bienes muebles y valores mobiliarios, dar y tomar en arrendamiento bienes inmuebles por un periodo no superior a tres añas; otorgar concesiones del casino de la sede social; aceptar cauciones prendarias y alzar dichas cauciones; otorgar cancelaciones y recibos, celebrar contratos de trabajo, fijar sus condiciones y poner término a ellas; celebrar contratos de mutuos y cuentas corrientes de depósito, de ahorro y crédito y girar sobre ellas; retirar talonarios y aprobar saldos; endosar y cancelar cheques y reconocer saldos; percibir, contratar, alzar y posponer prendas; asistir a juntas con derecho a voz y voto; delegar en todo o en parte las facultades económicas y administrativas y revocar poderes y transigir; aceptar toda clase de herencias, legados o donaciones; contratar seguros, pagar las primas, aprobar liquidaciones de los siniestros y percibir el valor de las pólizas; firmar, endosar y cancelar pólizas; estipular en cada contrato que celebra, los precios, plazos y condiciones que juzgue conveniente; anular, rescindir, resolver, revocar, y terminar dichos contratos. Poner término a los contrates vigentes, por resolución, desahucio o cualquiera otra forma; contratar créditos y ejecutar todos aquellos actos que tiendan a la buena administración de la corporación. Sólo por acuerdo de una Asamblea General Extraordinaria de socios se podrá comprar, vender, hipotecar, permutar, ceder, transferir los bienes raíces de la corporación; constituir servidumbres y prohibiciones de gravar y enajenar, arrendar inmuebles por un plazo superior a tres años.
+Como administrador de los bienes sociales, el Directorio estará facultado para comprar, vender, dar y tomar en arrendamiento, ceder y transferir toda clase de bienes muebles y valores mobiliarios, dar y tomar en arrendamiento bienes inmuebles por un periodo no superior a tres añas; otorgar concesiones del casino de la sede social; aceptar cauciones prendarias y alzar dichas cauciones; otorgar cancelaciones y recibos, celebrar contratos de trabajo, fijar sus condiciones y poner término a ellas; celebrar contratos de mutuos y cuentas corrientes de depósito, de ahorro y crédito y girar sobre ellas; retirar talonarios y aprobar saldos; endosar y cancelar cheques y reconocer saldos; percibir, contratar, alzar y posponer prendas; asistir a juntas con derecho a voz y voto; delegar en todo o en parte las facultades económicas y administrativas y revocar poderes y transigir; aceptar toda clase de herencias, legados o donaciones; contratar seguros, pagar las primas, aprobar liquidaciones de los siniestros y percibir el valor de las pólizas; firmar, endosar y cancelar pólizas; estipular en cada contrato que celebra, los precios, plazos y condiciones que juzgue conveniente; anular, rescindir, resolver, revocar, y terminar dichos contratos. Poner término a los contrates vigentes, por resolución, desahucio o cualquiera otra forma; contratar créditos y ejecutar todos aquellos actos que tiendan a la buena administración de la corporación. Sólo por acuerdo de una Asamblea General Extraordinaria de socios se podrá comprar, vender, hipotecar, permutar, ceder, transferir los bienes raíces de la corporación; constituir servidumbres y prohibiciones de gravar y enajenar, arrendar inmuebles por un plazo superior a tres años.
 
 #### Artículo 37 (art. primero)
 
@@ -408,7 +408,7 @@ f) En general, cumplir con todas las tareas que le encomiende el Directorio, e] 
 
 De la Comisión Revisora de Cuentas
 
-#### Artículo 42 (art. primero)
+#### Artículo 43 (art. primero)
 
 <!-- parte:9276187 -->
 
@@ -424,11 +424,13 @@ d) Elevar a la Asamblea Ordinaria anual un informe escrito sobre las finanzas de
 
 e) Comprobar la exactitud del inventario.
 
+La Comisión Revisora de Cuentas será presidida por el que obtenga el mayor número de sufragios y no podrá intervenir en los actos administrativos del Directorio. En caso de vacancia del cargo de presidente, será reemplazado por el socio que obtuvo la votación inmediatamente inferior a éste. Si se produjere la vacancia de dos o más cargos de la Comisión Revisora de Cuentes, se llamará a nuevas elecciones para ocupar los puestos vacantes. Si la vacancia fuera de un solo miembro, continuará con los que se encuentren en funciones, con todas las atribuciones de la Comisión, hasta el término de su mandato.
+
 #### Artículo 43 (art. primero)
 
 <!-- parte:9276188 -->
 
-La Comisión Revisara de Cuentas será presidida por el que obtenga el mayor número de sufragios y no podrá intervenir en los actos administrativos del Directorio. En caso de vacancia del cargo de presidente, será reemplazado por el socio que obtuvo la votación inmediatamente inferior a éste. Si se produjere la vacancia de dos o más cargos de la Comisión Revisora de Cuentes, se llamará a nuevas elecciones para ocupar los puestos vacantes. Si la vacancia fuera de un solo miembro, continuará con los que se encuentren en funciones, con todas las atribuciones de la Comisión, hasta el término de su mandato.
+Eliminado
 
 ## Título IX
 
