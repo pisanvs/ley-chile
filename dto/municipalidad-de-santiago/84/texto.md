@@ -1,0 +1,3 @@
+Por Decreto Secc. 2da. No. 84, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad de Santiago, dispone expropiación parcial conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas 2341, Rol 332-5 Santiago, aparente dominio Daniel Otero y Otros, superficie aproximada a expropiar 389 m2. Deslindes: Norte, 12,25 mts. con resto propiedad; Sur, 13,25 mts. resto propiedad; Oriente, 30,00 mts. con otro propietario y Poniente, 31,00 mts. con otro propietario. Indemnización provisional $ 7.373.000.- pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
