@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.096, de 31 de octubre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 5, superficie 269 m2, rol de avalúo 3138-1, comuna de Conchalí, Región Metropolitana para la obra: ''Proyecto Sistema Américo Vespucio Norte. Ruta 78 - Av. El Salto. Sector 2: Avenida Pedro Fontova Ruta 5''. Posteriormente, por decreto MOP Nº 2.311, de 31 de diciembre de 2002, se autorizó el convenio Directo de Precio Ad Referéndum y se acordó el valor de la indemnización con su propietario Atilio Mantero Fontalba, ascendente a la cantidad de $11.741.570.-
+
+Fiscal del Ministerio de Obras Públicas.
