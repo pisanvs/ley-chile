@@ -1,0 +1,5 @@
+Por resolución Nº 236, de 2 de febrero de 1999, de esta Subsecretaría, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALIMENTOS MARINOS S.A., para ampliar actividades pesqueras extractivas autorizadas por resoluciones Nº171 y Nº680 de 1997, de esta Subsecretaría y podrá operar la nave ''Paniahue'', matrícula 2816, autorizada por las resoluciones señaladas precedentemente, en el litoral de la X Región, por fuera del área de reserva artesanal, donde corresponda, la captura con red de cerco del recurso hidrobiológico Machuelo o Tritre, Ethmidium maculatum. La solicitante deberá empezar a operar dentro del plazo de un año contado desde la fecha del último desembarque de la nave ''Paniahue'', acreditando ante el Servicio Nacional de Pesca. Si no diere cumplimiento a esta obligación, quedará sin efecto la autorización otorgada.
+
+Deniégase la autorización solicitada respecto de los recursos hidrobiológicos, artes y áreas de pesca no señalados en la presente resolución, en virtud de los informes y normas reglamentarias.
+
+Valparaíso, 2 de febrero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
