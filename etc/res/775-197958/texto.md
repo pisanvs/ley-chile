@@ -1,0 +1,3 @@
+Por resolución Nº 775 de 22 de abril de 2002 modifícase el numeral 5º de la resolución Nº 687 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección de áreas de reclutamiento del Jurel entre la III y X Regiones", en el sentido de señalar que la nave "Fox" realizará las actividades de ecoprospección en la transecta Nº 8 Latitud (S) 33° 00'-34° 00' y la nave "Ganstad JR." realizará las actividades de ecoprospección en la transecta Nº 1 Latitud (S) 26° 00'-27° 00'.
+
+Valparaíso, 22 de abril de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
