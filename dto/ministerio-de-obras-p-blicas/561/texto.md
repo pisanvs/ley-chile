@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°561 , de 30 de junio de 1997, se expropiaron los lotes de terreno N°s. 16, 17, 18, 19-A, 36 y 39 , superficies 562 m2., 72 m2., 227 m2., 1.898 m2., 841 m2., y 602 m2., roles de avalúo 213-31, 213-63, 213-30, 213-4, 219-6, 219-5, comuna de Santa Juana, para la obra Camino de la Madera, sector Bifurcación Diuquín - Santa Juana, y se acordó el valor de la indemnización con sus propietarios Juan Cuevas Neira, Abel Navarrete Garcés, Pedro Martínez Cuevas, Idilio Cuevas Araneda, Polisario Vallejos Vallejos, y Alejandro Palma Riffo, ascendente a la cantidades de $133.434.-; $31.500.-; $54.936.-; $899.262.-; $263.088.- y $451.836.-, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas
