@@ -1,0 +1,3 @@
+Por Resolución N° 1.175, de 24 de junio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ERNESTO ENRIQUE LAWRENCE DIAZ, para un centro de cultivo ubicado en Caleta Lloncochaigua, Estero Comau o Leptepu, Comuna de Hualaihué, Provincia de Palena, X Región, conforme lo dispuesto en los artículos 78°, 87° y 88° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de Junio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
