@@ -1,0 +1,7 @@
+La Comisión Clasificadora de Riesgo acordó, en su vigésimo cuarta reunión ordinaria, celebrada el 30 de marzo de 1992, publicar lo siguiente:
+
+1. En su vigésimo primera reunión ordinaria, la Comisión Clasificadora de Riesgo adoptó un criterio relativo a la clasificación del indicador de liquidez en el mercado de bonos de distinta duración, cuando éstos no hubieren sido colocados. Lo anterior, por cuanto se ha considerado que el compromiso del emisor de realizar sus mejores esfuerzos con el objeto de lograr una colocación dispersa de los títulos, no es suficiente para garantizar la generación de un mercado líquido en el caso de tratarse de bonos de muy larga duración, debido al menor mercado potencial de inversionistas de instrumentos de estas características.
+
+2. En consecuencia, la Comisión Clasificadora de Riesgo acordó considerar que no existe un mercado líquido para los bonos, cuando éstos no hayan sido colocados y presenten una duración superior a 10 años, entendiendo por este último concepto el plazo que resulte de ponderar el número de años que medie entre la fecha en que la Comisión Clasificadora de Riesgo clasifica los bonos y la de vencimiento de cada uno de los cupones, ya sea por concepto de intereses, capital o ambos, por la proporción que representa el valor económico del instrumento. Una vez que los bonos sean colocados, la liquidez de los mismos en el mercado se determinar según los criterios establecidos en el Acuerdo No. 1 de esta Comisión.
+
+Santiago, 30 de abril de 1992.- Juan Lorenzini Lorenzini, Secretario.
