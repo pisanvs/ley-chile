@@ -1,0 +1,3 @@
+Por decreto MOP Nº1596, de 12 de octubre de 2001, se dejó sin efecto la expropiación de los lotes de terreno Nos 7ES2 y 8ES2, aprobada por decreto MOP Nº1214, de 27 de agosto de 2001, que figuran a nombre de Romo María Vd. Piradt e Iturra Caamaño Nelley del C., roles de avalúos 1729-1 y 1729-2, comuna de La Cisterna, superficies 499 m² y 498 m², para la obra Extensión Sur Línea Nº2, sector: Lo Ovalle - A. Vespucio.-
+
+Fiscal del Ministerio de Obras Públicas.
