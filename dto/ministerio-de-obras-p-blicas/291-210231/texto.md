@@ -1,0 +1,3 @@
+Por decreto MOP Nº291 de fecha 28 de marzo del 2003, se expropió el lote de terreno Nº3, superficie 148 m2, Rol Nº540-282, comuna de Linares, VII Región para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 a Km. 15,48000" y se acordó el valor de indemnización con su propietario Francisco Javier Azócar Zubicueta, ascendente a la cantidad de $7.010.410.-
+
+Fiscal del Ministerio de Obras Públicas.
