@@ -1,0 +1,3 @@
+Por resolución Nº 1.950, de 12 de septiembre de 2001, de esta Subsecretaría, declárase que con fecha 11 de julio de 2001 han quedado sin efecto las resoluciones Nº1.486 de 1997, Nº 692 y Nº 1.476, ambas de 1999, todas de esta Subsecretaría, que autorizaron a AGUA FRIA S.A. para desarrollar actividades extractivas, con la nave Betty K, en conformidad con lo dispuesto en el artículo 9º de la ley Nº 19.713. Dicha nave queda permanente e irrevocablemente excluida de la actividad pesquera extractiva.
+
+Valparaíso, 12 de septiembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
