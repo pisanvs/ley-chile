@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 605 de 19 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 11 y 12 para la obra; "Camino Ruta G-76, Sector María Pinto - Santa Inés, Tramo Km.
+
+0,00000 a Km. 12,26088", que figuran a nombre de Carreño Carreño María y Otros, rol de avalúo 6-9, Comuna de María Pinto, Región Metropolitana, superficies 56,90 y 160,10 m². respectivamente. La Comisión de Peritos fijó con fecha 28 de mayo de 2002, en las cantidades de $345.710.-, para el lote Nº 11 y $2.123.090.- para el lote Nº 12. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
