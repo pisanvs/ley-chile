@@ -1,0 +1,17 @@
+EXTRACTO DE RESOLUCION EXENTA No. 1.307, DE 1988
+
+Por Resolución Exenta No. 1.307 de fecha 20 de Junio de 1988 se dispuso la publicación del siguiente extracto:
+
+Por escritura pública de fecha 03 de Febrero de 1988 otorgada ante el Notario de Santiago don Osvaldo Pereira González modificada por escritura pública del 13 de Junio de 1988 otorgada ante el mismo Notario, se constituyó el Partido Político "Radical Socialista Democrático", cuyo lema es "Por el socialismo y la democracia".
+
+La Directiva Central Provisional la integran: Presidente, don Luis Fernando Luengo Escalona; Vice Presidentes, don Aníbal Palma Fourcade, don Guillermo Arenas Escudero y Lautaro Ojeda Herrera; Secretario General, don Nolberto Requena Véliz; Sub Secretario General, don Sergio Wartenberg Hernández y Tesorero, don Marcial Mora Wackenhut.
+
+El Tribunal Supremo Provisional lo integran las siguientes personas: Presidente, don Jorge Mario Quinzio Figueiredo; don Zorán Sfeir y don Mario Ramírez Dorat. El domicilio común de la Directiva Central Provisional y del Tribunal Supremo Provisional es calle Huérfanos 2136, Santiago.
+
+En caso de fallecimiento, renuncia o imposibilidad definitiva o transitoria de miembros de la Directiva Central Provisional y Tribunal Supremo Provisional antes de la inscripción del partido, serán reemplazados por decisión de la mayoría de los miembros de la Directiva Central Provisional de entre los suscriptores de esta escritura.
+
+El resumen de la declaración de principios es: El Partido "Radical Socialista Democrático", se define como humanista, democrático y socialista, y que su filosofía descansa en la persona humana. En el orden político, lucha por la democracia, porque es la expresión de respeto a la dignidad del hombre y por eso afirma que todo el poder político emana del pueblo a quien le corresponde generar los órganos de autoridades del Estado, mediante el sufragio universal, secreto, libre e informado. La Declaración Universal de los Derechos Humanos, forma parte integrante de esta Declaración de Principios. Lucha por la realización del Socialismo Democrático, porque es el mejor sistema que concilia la libertad política con la igualdad social. En el orden económico, rechaza el individualismo y sostiene que en la organización del nuevo orden social debe imperar el interés de la colectividad. Elimina el privilegio de las clases dominantes y lleva a todos los hombres a la libertad, a la justicia y al bienestar. Lucha por la ocupación plena, el aumento de la producción, la elevación del nivel de vida, la seguridad social y una justa distribución de las entradas y de los bienes. Se define de izquierda democrática, representando auténticamente los intereses, inquietudes y problemas de los trabajadores en general. Postula que los procesos productivos se lleven a cabo estructurando la economía en tres áreas: estatal, mixta y privada. Propicia política internacional independiente, orientada por interés nacional y guiadas por los principios de autodeterminación de los pueblos, no intervención e igualdad jurídica de los Estados; lucha por el desarme mundial, especialmente latinoamericano y mantenimiento de la Paz, manifiesta definida política integracionista, impulsando unidad latinoamericana. El presente extracto se ordena publicar en virtud de lo dispuesto en el Art.
+
+5º de la Ley No. 18.603, Orgánica Constitucional de los Partidos Políticos.
+
+Santiago, 20 de Junio de 1988.-Juan Ignacio García Rodríguez, Director.
