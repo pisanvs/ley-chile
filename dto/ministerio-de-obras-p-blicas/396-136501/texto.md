@@ -1,0 +1,3 @@
+Por decreto MOP Nº396, de 26 de febrero de 1999, se expropió el lote de terreno Nº123, superficie 455 m2, rol de avalúo 160-188, comuna de Pemuco, para la Obra ''Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli'' Sector 1, Octava Región y se acordó el valor de indemnización con su propietario José Feliciano Sandoval Tapia, ascendente a la cantidad de $1.039.278.-
+
+Fiscal del Ministerio de Obras Públicas.
