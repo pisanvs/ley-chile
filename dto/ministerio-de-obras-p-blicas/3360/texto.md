@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.360, de 29 de octubre de 1999, se expropió el lote de terreno Nº 2, superficie 6.137 m², rol de avalúo 136-186, comuna de San Francisco de Mostazal, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector C, Sexta Región y se acordó el valor de indemnización con su propietaria Marta Elena Moya Núñez y otros, ascendente a la cantidad de $51.966.842.-
+
+Fiscal del Ministerio de Obras Públicas.
