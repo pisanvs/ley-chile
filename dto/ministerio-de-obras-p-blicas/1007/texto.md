@@ -1,0 +1,3 @@
+Por decreto MOP. No. 1.007, de 30 de julio de 1998, se expropiaron los lotes de terreno No. s.1-A, 2, 4, 5, 14 y 15, superficie 21, 328, 48, 62, 45 y 105 m², respectivamente, roles de avalúos 625-30, 626-4, 626-7, 626-12 y 122-22, comuna de Sagrada Familia, obra Camino Mejoramiento Ruta K-110, sector Cruce Ruta 5 (Los Canales) Lo Valdivia y se acordó precio de indemnización con sus propietarios Inés Escobar Castro y Mario Edwards Garcés, ascendente a las cantidades de $ 1.101.975, para los lotes No. s.1-A, 2, 4 y 5 y $ 174.825, para los lotes 14 y 15.-
+
+Fiscal del Ministerio de Obras Públicas.
