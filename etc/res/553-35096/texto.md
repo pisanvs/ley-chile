@@ -1,0 +1,3 @@
+Por Resolución N° 553 de 23 de Julio de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 465, de 1992, de esta Subsecretaría, que autorizó a ALIMENTOS MULTIEXPORT S.A., R.U.T. N° 96.513.230-9, para ampliar actividades pesqueras de transformación, en el sentido de incluir en el numeral 2°, en la línea de proceso de Ahumado, deshidratado, seco-salado y marinado de la planta ubicada en Puerto Montt, Cardonal N° 2501, los recursos hidrobiológicos señalados en el numeral 3° de la Resolución N° 432, de 1987, de esta Subsecretaría.
+
+Valparaíso, 23 de Julio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
