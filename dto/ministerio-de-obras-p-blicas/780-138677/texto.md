@@ -1,0 +1,3 @@
+Por decreto MOP No. 780, de 31 de marzo de 1999, se expropió el lote de terreno No. 45, superficie 355 mý, rol de avalúo en trámite, comuna de Constitución, para la obra Camino Ruta M-40, Santa Olga Empedrado, Sector Santa Olga-Los Pellines y se acordó precio de indemnización con su propietaria Marta Salom‚ Valdés Núñez, ascendente a la cantidad de $ 263.165.-
+
+Fiscal del Ministerio de Obras Públicas.
