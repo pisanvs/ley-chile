@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 221, de 29 de agosto de 1986, se expropiaron los lotes N°s. 1, 3, 7, 9, 11, 12 y 15 y que tienen una superficie de 3.642 m2, rol de avalúo 1601-49, Comuna de Santo Domingo, V Región, para Camino San Antonio-Rapel, sector San Pedro-Estero Yali y se acordó precio de indemnización con su propietaria doña Blanca Errázuriz de Blanco, ascendente a $ 216.135.-
+
+Fiscal del Ministerio de Obras Públicas.
