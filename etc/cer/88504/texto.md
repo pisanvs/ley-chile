@@ -1,0 +1,3 @@
+Certifico que este Banco Central de Chile, ha concedido su autorización a "Steinsapir S.A. Casa de Cambios M.C.F." ex "Casa de Cambios Steinsapir y Cía. Ltda." para operar como Casa de Cambios del Mercado Cambiario Formal. Asimismo, este Banco Central de Chile ha concedido su autorización a "Monex Cambios Ltda. M.C.F." ex "Moni Ergas y Cía. Cambios Ltda. M.C.F." para operar como Casa de Cambios del Mercado Cambiario Formal.
+
+Santiago, 21 de febrero de 1991.- Víctor Vial del Río, Secretario General.
