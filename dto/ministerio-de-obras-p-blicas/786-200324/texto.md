@@ -1,0 +1,3 @@
+Por decreto MOP Nº786, de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº21-A, superficie 553 m2, rol de avalúo Nº212-53, comuna de Teodoro Schmidt, para la obra Camino Costero Sur, sector Tranapuente - Puerto Saavedra - Porma, Tramo Chelle - Hualpín - Puente Peule, Km. 48.292,74 al Km. 68.030,40, correspondiente al Subtramo I Km. 48.292,74 al Km. 51.248,00, IX Región y se acordó el valor de indemnización con su propietario Alamiro Durán Durán, ascendente a la cantidad de $385.303.
+
+Fiscal del Ministerio de Obras Públicas.
