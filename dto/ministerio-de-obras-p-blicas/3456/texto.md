@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.456, de 19 de noviembre de 1999, se expropió el lote de terreno Nº 237-6, superficie 600 m², rol de avalúo 99-424, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietaria Isabel Margarita Fernández Astudillo, ascendente a la cantidad de $11.375.633.
+
+- Fiscal del Ministerio de Obras Públicas.
