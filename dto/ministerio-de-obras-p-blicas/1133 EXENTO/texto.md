@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.133, de 27 de agosto de 2001 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 65-A, para la obra Camino Ruta F-800, sector Cruce Ruta 68 - Las Tablas - Bif. Tunquén, Kms. 0,000 al 16,266, que figura a nombre de Sociedad Agrícola Ganadera Requínoa, rol de avalúo 171-3, superficie 78 m², comuna de Casablanca. La Comisión de Peritos, con fecha 25 de mayo de 2000, fijó la indemnización provisional en la cantidad de $225.171, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
