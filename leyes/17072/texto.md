@@ -22,7 +22,7 @@ Apruébase el Cálculo de Entradas y la Estimación de los Gastos del Presupuest
 
 MONEDA NACIONAL
 
-Entradas__________________ E° 8.473.169.638
+Entradas__________________ E° 8.472.683.138
 
 Ingresos tributarios_____ E° 10.108.328.000
 
@@ -36,15 +36,15 @@ a financiar el
 
 Presupuesto de
 
-Capital__________________ 2.132.039.362
+Capital__________________ 2.132.525.862
 
-Gastos____________________ E° 8.023.393.638
+Gastos____________________ E° 8.022.907.138
 
 Presidencia de la
 
-República________________ E° 7.854.000
+República________________ E° 17.854.000
 
-Congreso Nacional________ 58.350.500
+Congreso Nacional________ 58.115.000
 
 Poder Judicial___________ 56.015.000
 
@@ -74,7 +74,7 @@ Reconstrucción___________ 100.472.000
 
 Ministerio de
 
-Hacienda_________________ 3.055.727.138
+Hacienda_________________ 3.055.476.138
 
 Ministerio de
 
@@ -190,17 +190,17 @@ Apruébase el Cálculo de Entradas y la Estimación de los Gastos del Presupuest
 
 MONEDA NACIONAL
 
-Entradas__________________ E° 2.277.239.362
+Entradas__________________ E° 2.277.725.862
 
-Ingresos de Capital______ E° 2.277.239.362
+Ingresos de Capital______ E° 2.277.725.862
 
-Gastos____________________ E° 3.313.920.500
+Gastos____________________ E° 3.313.907.000
 
 Presidencia de la
 
 República________________ E° 3.520.000
 
-Congreso Nacional________ 597.500
+Congreso Nacional________ 584.000
 
 Ministerio del
 
@@ -1440,13 +1440,9 @@ La primera diferencia de sueldo correspondiente al mes de Enero de 1969, de los 
 
 Los fondos recaudados quedarán depositados en una cuenta especial en la Tesorería Provincial de Magallanes.
 
-> **Nota.** El Artículo 42 de la LEY 17318, publicada el 01.08.1970, declara que la Agrupación Nacional de Empleados Fiscales "ANEF", Provincial Magallanes, estaba exenta del Impuesto de la Ley de Timbres, Estampillas y Papel Sellado que grava la compraventa de bienes raíces al adquirir el inmueble a que se refiere el presente artículo. Declara igualmente que el referido inmueble está y ha estado exento del impuesto territorial a beneficio fiscal, desde que pertenece a la referida agrupación y en el caso de haberse pagado ambos impuestos procederá la devolución correspondiente.
-
 #### Artículo 87
 
 La Corporación de la Vivienda otorgará título gratuito de dominio sobre los terrenos que haya adquirido para la reubicación de los pueblos afectados por el sismo y maremoto de 1960, en las comunas de Puerto Saavedra y Toltén, y también sobre las viviendas definitivas o de emergencia que haya construido con sus propios recursos.
-
-> **Nota.** El Artículo 115 de la LEY 17271, publicada el 02.01.1971, declara que el beneficio dispuesto en el presente artículo beneficia en igual forma a los ex habitantes de las comunas de Puerto Saavedra y Toltén, que la Corporación de la Vivienda erradicó en otros pueblos de Cautín, como consecuencia del maremoto y sismo de 1960, por cuyos efectos no pudieron continuar en esas zonas. En las mismas condiciones debe otorgar este beneficio a los damnificados de las comunas de Gorbea, Carahue y Nueva Imperial.
 
 #### Artículo 88
 
