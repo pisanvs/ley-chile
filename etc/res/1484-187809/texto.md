@@ -1,0 +1,3 @@
+Por resolución Nº 1.484, de 12 de julio de 2001, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 168 de 1985 y Nº 1.676 de 1989, ambas de esta Subsecretaría, que autorizaron a PESQUERA MAR S.A. para realizar actividades con la nave "Mar", en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de julio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
