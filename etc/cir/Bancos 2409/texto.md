@@ -4978,6 +4978,12 @@ Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaci
 
 Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por las inversiones financieras en el exterior, correspondientes a los instrumentos señalados en el Anexo N° 1 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile. El monto deducible de las inversiones financieras en el exterior podrá aplicarse al monto total de las obligaciones, considerando el equivalente en dólares estadounidenses según las paridades señaladas en el N° 2 del título I de este Capítulo.
 
+3.3.- Préstamos para comercio exterior entre terceros países.
+
+De conformidad con las normas del Banco Central de Chile, los bancos podrán deducir de sus obligaciones en moneda extranjera afectas a encaje a que se refiere este título, el importe de los préstamos otorgados con el objeto de financiar operaciones de comercio exterior entre terceros países, de que trata el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales y el título II del Capítulo 13-27 de esta Recopilación Actualizada de Normas.
+
+El monto de dicha deducción corresponderá al saldo de las cuentas "Deudores por cartas de crédito negociadas a plazo terceros países" y "Créditos comercio exterior terceros países", el que podrá aplicarse al total de las obligaciones en moneda extranjera de que trata este título, considerando para tal efecto su equivalente en dólares estadounidenses.
+
 ### 4. Encaje exigido y mantenido
 
 4.1. Encaje exigido.
@@ -5090,9 +5096,11 @@ A continuación se señalan los principales indicadores que guardan relación co
 
 > **Nota.** NOTA 3 La letra D) de la Circular 2817, SBIF, promulgada el 31.05.1995, modifica el presente Anexo, a fin de actualizar los indicadores incluyendo la cuenta "Depósitos de liquidez".
 
-> **Nota.** NOTA 4 La letra A) de Circular 2831, SBIF, promulgada el 16.10.1995, elimina, en le presente Anexo, el indicador correspondiente al saldo de Pagarés descontados terceros países ALADI, debido a que dichas operaciones carecen de vigencia y ya no se mantienen saldos por ese concepto.
+> **Nota.** NOTA 4 La letra A) de la Circular 2831, SBIF, promulgada el 16.10.1995, elimina, en le presente Anexo, el indicador correspondiente al saldo de Pagarés descontados terceros países ALADI, debido a que dichas operaciones carecen de vigencia y ya no se mantienen saldos por ese concepto.
 
 > **Nota.** NOTA 5 La Letra G) de la Circular 2856, SBIF, promulgada el 14.06.1996, actualiza el presenta Anexo que contiene los principales indicadores en el cómputo de saldos informados para efectos del control de encaje.
+
+> **Nota.** NOTA 6 La Letra B), de la Circular 2897, SBIF, promulgada el 16.05.1997, modifica el presente Anexo, a fin de incorporar dentro de los indicadores para efectos del cómputo del encaje, las colocaciones deducibles del encaje en moneda extranjera.
 
 CAPITULO 4-2 (Bancos y Financieras)
 
@@ -7032,11 +7040,11 @@ c) Colocaciones vigentes otorgadas bajo condiciones especiales.
 
 Las instituciones financieras también deberán abstenerse de contabilizar en los resultados, los intereses y reajustes devengados sobre créditos vigentes otorgados bajo una o más de las siguientes condiciones, a menos que las características del flujo de ingresos del deudor o de la maduración del proyecto permita estimar que el crédito será servido normalmente:
 
-i) Período de gracia para capital e intereses superior a 24 meses, esto es, que el primer pago se realice después del referido plazo, salvo que se trate de créditos reprogramados en virtud de los Acuerdos N°s. 1.507 y 1.578 del Banco Central de Chile;
+i) Período de gracia para capital e intereses superior a 24 meses, esto es, que el primer pago se realice después del referido plazo, salvo que se trate de créditos reprogramados en virtud de los Acuerdos N°s. 1.507 y 1.578 del Banco Central de Chile, o de préstamos otorgados a estudiantes chilenos, con recursos de la Corporación de Fomento de la Producción, para financiar gastos de estudios en universidades o en institutos profesionales;
 
 ii) Frecuencia de vencimiento superior a un año de las cuotas posteriores al término del período de gracia; o,
 
-iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intereses devengados sobre el saldo insoluto del crédito durante el período respectivo.
+iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intereses devengados sobre el saldo insoluto del crédito durante el período respectivo, salvo que se trate de préstamos otorgados a estudiantes chilenos, con recursos de la Corporación de Fomento de la Producción, para financiar gastos de estudios en universidades o en institutos profesionales.
 
 Las instituciones financieras que no estén calificadas dos veces consecutivas en categoría I según sus procedimientos de clasificación de cartera y que estimen que un crédito con alguna de las características antes mencionadas será servido normalmente, deberán solicitar la autorización previa de esta Superintendencia para excluirlo de la suspensión del devengo contable de reajustes e intereses.
 
@@ -10466,7 +10474,7 @@ b) Su pago se efectúa en cuotas, normalmente iguales y sucesivas.
 
 c) Su monto original no excede, por lo general, del equivalente de 550 U.F. No obstante, aquellos créditos por un valor superior al recién indicado que por su naturaleza puedan ser considerados préstamos de consumo, deberán incluirse en esta clasificación y no en el grupo de créditos comerciales de que trata el N°2 de este título.
 
-Además de los créditos que cumplan con esas características, se considerarán como créditos de consumo para los efectos de clasificación de cartera, los créditos provenientes de la utilización de tarjetas de crédito cuyos titulares sean personas naturales.
+Además de los créditos que cumplan con esas características, se considerarán como créditos de consumo para los efectos de clasificación de cartera, los créditos provenientes de la utilización de tarjetas de crédito cuyos titulares sean personas naturales, y los préstamos otorgados a estudiantes chilenos, con recursos de la Corporación de Fomento de la Producción, para financiar gastos de estudios en universidades o institutos profesionales.
 
 3.2. Procedimiento para la clasificación de los créditos de consumo.
 
@@ -19640,6 +19648,8 @@ d) Depositar en la cuenta especial a que se refieren la letra A) del Capítulo I
 
 e) Otorgar créditos a personas naturales o jurídicas residentes en el exterior, con el único objeto de financiar importaciones procedentes de Chile o exportaciones destinadas a este país.
 
+f) Otorgar los créditos de que trata el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+
 ### 3. Financiamiento de Importaciones
 
 Los créditos que otorguen los bancos a las personas situadas en Chile, para financiar importaciones, serán pactados libremente con los respectivos usuarios pero, en todo caso, los términos que se acuerden deberán ser concordantes, en los casos que corresponda con las condiciones que haya autorizado el Banco Central de Chile en el respectivo Informe de Importación emitido, así como con los términos de las líneas de crédito utilizadas para su refinanciamiento.
@@ -19690,6 +19700,8 @@ Los bancos podrán otorgar créditos con cargo a estos recursos del exterior, a 
 
 Los créditos que los bancos otorguen de conformidad con las disposiciones de este capítulo, se documentarán mediante la aceptación de letras de cambio o suscripción de pagarés por parte del deudor.
 
+Cuando se trate de los créditos a que se refiere el título II del Capítulo 13-27 de esta Recopilación, se documentarán mediante letras de cambio, pagarés, o bien, se procederá de acuerdo con los usos y costumbres internacionales para cursar operaciones financieras o de comercio exterior.
+
 ### 7. Plazo de los créditos
 
 El plazo al que se otorguen los créditos antes mencionados, se pactará libremente entre los bancos y los respectivos usuarios, acorde en todo caso, cuando corresponda, con las condiciones autorizadas por el Banco Central de Chile.
@@ -19697,6 +19709,8 @@ El plazo al que se otorguen los créditos antes mencionados, se pactará libreme
 ### 8. Tasa de interés
 
 La tasa de interés de los créditos de que se trata, se pactará libremente entre el banco acreedor y los usuarios, con sujeción, en todo caso, a la tasa máxima convencional para operaciones en moneda extranjera y a lo aprobado por el Banco Central de Chile, en los casos que así corresponda.
+
+No regirá la limitación señalada en el párrafo precedente, cuando se trate de los créditos a que se refiere el título II del Capítulo 13-27 de esta Recopilación.
 
 ### 9. Normas contables
 
@@ -20538,9 +20552,9 @@ MATERIA:
 
 FINANCIAMIENTOS A BANCOS Y A OTRAS PERSONAS DEL EXTERIOR.
 
-I.ELIMINADO.
+I.- OPERACIONES DE COMERCIO EXTERIOR CON CHILE.
 
-### 1. Créditos para financiar Importaciones procedentes de Chile
+1.- Créditos para financiar importaciones procedentes de Chile.
 
 Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar importaciones procedentes de Chile.
 
@@ -20548,7 +20562,7 @@ Los referidos créditos, cuando se otorguen a bancos del exterior, deberán tene
 
 Los créditos que sean otorgados a personas naturales o jurídicas residentes en el exterior, distintas de bancos, deberán tener por objeto pagar a los exportadores chilenos el precio de mercaderías importadas desde Chile, para cuyo efecto los beneficiarios de tales financiamientos deberán presentar copia de los documentos de embarque de las exportaciones que se financian.
 
-### 2. Créditos para financiar exportaciones destinadas a Chile
+2.- Créditos para financiar exportaciones destinadas a Chile.
 
 Los bancos podrán otorgar créditos a bancos del exterior o a otras personas naturales o jurídicas residentes en el exterior, para financiar exportaciones destinadas a Chile.
 
@@ -20556,31 +20570,71 @@ Los créditos que otorguen los bancos para esa finalidad, deberán consistir en 
 
 Además, los bancos pueden otorgar créditos para la finalidad antes indicada, mediante el descuento, con responsabilidad, a exportadores extranjeros o a bancos del exterior, de letras de cambio o pagarés, aceptadas o suscritos por importadores chilenos, con excepción de aquellos documentos avalados por bancos situados en este país, como también podrán adquirir tales instrumentos, con la excepción señalada, sin responsabilidad para el cedente.
 
-### 3. Antecedentes de los deudores
+3.- Instrucciones contables.
 
-Los bancos, al otorgar los financiamientos de que trata este título, deberán disponer de antecedentes suficientes que les sirvan de base para adoptar su decisión crediticia y para la evaluación periódica de esos créditos, de conformidad con lo dispuesto en el Capítulo 8-28 de esta Recopilación Actualizada de Normas.
+3.1.- Financiamiento a importadores extranjeros.
 
-Los referidos antecedentes deberán permitir, además, determinar si existe o no relación real o presunta entre el banco que otorga el financiamiento y el deudor, de acuerdo con las normas contenidas en el Capítulo 12-4 de esta Recopilación.
+Los préstamos que cursen los bancos serán registrados en las cuentas "Préstamos a bancos del exterior para rembolso de cartas de crédito negociadas", o bien, "Préstamos a personas del exterior para pagar a exportadores", de la partida 1130 ó 1225.
 
-### 4. Instrucciones contables
-
-Las operaciones de que trata este Capítulo, serán registradas de la siguiente forma:
-
-4.1. Financiamiento a importadores extranjeros.
-
-Debe: - "Préstamos a bancos del exterior para rembolso de cartas de crédito negociadas", o bien,
-
-- "Préstamos a personas del exterior para pagar a exportadores", de la partida 1130 ó 1225.
-
-Haber: La cuenta que corresponda según el destino que se le dé a la moneda extranjera.
-
-4.2. Financiamiento a exportadores extranjeros.
+3.2.- Financiamiento a exportadores extranjeros
 
 Para registrar los créditos otorgados a exportadores extranjeros se utilizarán las siguientes cuentas de la partida 1125 ó 1220: "Préstamos a bancos del exterior caucionados por documentos de importadores"; "Préstamos a personas del exterior caucionados por documentos de importadores"; "Documentos aceptados por importadores adquiridos sin responsabilidad"; y, "Documentos aceptados por importadores adquiridos con responsabilidad".
 
-5. limites.
+5.- Límites.
 
 Los créditos señalados precedentemente, otorgados para el financiamiento de importaciones hacia Chile, estarán afectos al límite de endeudamiento individual del 5% para operaciones sin garantía y al 25% en los casos en que exista garantía válida para estos efectos, de conformidad con lo dispuesto en el artículo 84 de la Ley General de Bancos y en el Capítulo 12-3 de esta Recopilación Actualizada de Normas, en tanto que aquellos cuya finalidad sea financiar el pago de exportaciones chilenas, podrán alcanzar los márgenes de 10% y 30% previstos para esos créditos en las disposiciones antes señaladas.
+
+II.- OPERACIONES DE COMERCIO EXTERIOR ENTRE TERCEROS PAISES.
+
+De conformidad con lo dispuesto en el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, los bancos están facultados para financiar las operaciones de importación y exportación de mercaderías entre países extranjeros, para cuyo efecto deberán atenerse a lo dispuesto en dicho Capítulo y a las siguientes instrucciones:
+
+1.- Créditos que los bancos pueden otorgar.
+
+a) Emitir cartas de crédito a la vista o a plazo por cuenta de personas situadas en países extranjeros a favor de personas ubicadas en otros países. Además, en el caso de cartas de crédito negociadas y pagaderas a plazo o contra aceptación de letra, los bancos pueden anticipar su pago a los beneficiarios, debiendo rescatar, simultáneamente, las letras de cambio que hubieren aceptado. Asimismo pueden financiar el pago de las operaciones a que se refiere esta letra a) por el plazo que se convenga, debiendo en todos los casos contar con copia de los documentos de embarque.
+
+b) Financiar, a petición de los bancos emisores y por el plazo que se convenga, el rembolso de cartas de crédito emitidas por bancos situados en el extranjero a favor de beneficiarios ubicados en otros países, debiendo contar para tal efecto, con copia de los documentos de embarque.
+
+c) Adquirir y descontar letras de cambio aceptadas y pagarés suscritos por otros bancos, originados en la negociación de cartas de crédito a plazo, para lo cual los descontantes les deberán presentar copia de los respectivos documentos de embarque y de las cartas de crédito negociadas a plazo.
+
+d) Adquirir, a los beneficiarios, los derechos sobre cartas de crédito negociadas a plazo, siempre que cuente con la conformidad del banco emisor y éste haya autorizado al banco adquirente para rembolsarse al vencimiento.
+
+e) Adquirir y descontar letras de cambio aceptadas y pagarés suscritos por importadores, incluidos aquellos con aval de bancos situados en el extranjero, originados en operaciones de comercio exterior entre terceros países bajo la modalidad de cobranza, acompañados de copia de los respectivos documentos de embarque.
+
+Todos los créditos señalados sólo pueden ser otorgados y pagaderos en dólares estadounidenses, razón por la cual las operaciones que se financien y los documentos que se adquieran o descuenten, originados en las operaciones de comercio exterior a que se refiere este título, también deben estar expresados y ser pagaderos en la moneda ya indicada.
+
+Por otra parte, de conformidad con lo dispuesto por el Banco Central de Chile, estas operaciones no pueden efectuarse por intermedio del Convenio de Pagos y Créditos Recíproco.
+
+Asimismo, junto con mantener estos créditos individualizados del resto de sus colocaciones, deberán identificar, en cada uno de ellos, el origen de los recursos con los que haya sido otorgado, de acuerdo con las normas del Banco Central de Chile, de tal forma que en cualquier momento sea posible conocer el monto que se mantiene desembolsado de cada fuente de recursos.
+
+2.- Instrucciones contables.
+
+Las cartas de crédito que los bancos emitan por las operaciones de que trata este título, serán registradas en las cuentas "Deudores por cartas de crédito emitidas terceros países", de la partida 1615 y "Obligaciones por cartas de crédito emitidas terceros países", de la partida 3615.
+
+Cuando las mencionadas cartas de crédito sean negociadas a plazo, con aceptación de letra o sin ella, serán registradas en las cuentas "Deudores por cartas de crédito negociadas a plazo terceros países", de la partida 1110, y "Obligaciones por cartas de crédito negociadas a plazo terceros países", de la partida 3510 ó 3515, según corresponda.
+
+Todos los demás créditos que los bancos otorguen de conformidad con lo dispuesto en el N° 1 precedente, serán registrados en la cuenta "Créditos comercio exterior terceros países", de la partida 1110 ó 1205, según sea el plazo de las operaciones.
+
+3.- Límites.
+
+De acuerdo con lo establecido en el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, el saldo total de los créditos de que trata este título, no podrá exceder del 20% del capital pagado y reservas de la respectiva institución acreedora.
+
+Como es natural, dentro de ese margen los bancos deben dar cumplimiento, además, al límite legal de endeudamiento individual.
+
+III.- RIESGO DE LAS OPERACIONES.
+
+El uso de los recursos para financiar operaciones en otros países exige la fijación de políticas prudenciales que permitan acotar y manejar los riesgos que se asumen.
+
+Corresponderá en consecuencia al Directorio de cada institución financiera establecer las políticas con respecto al uso de los recursos para los créditos de que trata este Capítulo, fijando una adecuada diversificación para su colocación e imponiendo, sin perjuicio de los límites legales y reglamentarios, límites crediticios por país y, eventualmente, por áreas de actividad económica.
+
+En el caso de líneas de crédito que se otorguen a bancos del exterior para la finalidad de que trata este título, se deberá fijar el monto de las mismas y sus condiciones de uso, tasa de interés, plazo, etc., como igualmente los antecedentes que se exigirán a cada institución y la periodicidad con que tales antecedentes, particularmente los financieros, deben ser actualizados o renovados.
+
+Las directrices y acuerdos tomados por el Directorio sobre la materia, deberán quedar debidamente documentados y constar en actas.
+
+Para los fines antedichos el banco debe contar con la información necesaria, tanto de los países en los cuales se radican los financiamientos, como de los deudores respectivos, de modo que sea posible calificar el riesgo de esas operaciones.
+
+En ese mismo sentido, todos los deudores situados en el exterior deberán quedar clasificados en su correspondiente categoría de riesgo, conforme a la metodología establecida en el Capítulo 8-28 de ésta Recopilación.
+
+Por otra parte, los antecedentes que mantenga el banco acerca de sus deudores, deberán permitir, además, determinar si existe o no relación real o presunta entre el banco que otorga el financiamiento y el deudor, de acuerdo con las normas contenidas en el Capítulo 12-4 de esta Recopilación.
 
 CAPITULO 13-28 (Bancos)
 
