@@ -1,0 +1,3 @@
+Por decreto MOP Nº 931 de 18 de octubre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 21, para la obra: Mejoramiento Av. Salvador Allende, Tramo Avda. Circunvalación - Avda. Sarmiento, comuna de Antofagasta, provincia de Antofagasta, II Región, que figura a nombre de Corporación de la Vivienda rol de avalúo 1373-27, superficie 736 m2. La Comisión de Peritos, fijó con fecha 4 de abril de 2004, en la cantidad de $102.263.296. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
