@@ -1,0 +1,5 @@
+Por decreto MOP Nº 4.749, de 27 de octubre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs.
+
+95, 112 y 115, para la ejecución de la obra ''Camino Ruta D-597 Monte Patria Carén, Sector Juntas Carén, Tramo Km. 8.260,00 a Km. 30.065,19''; que figuran a nombre de Cía. Minera Parwis, Sociedad Agrícola Carén Ltda. y Raúl Collao Ojeda, Roles de Avalúo 214-21, 214-8 y 200-3, de la comuna de Monte Patria, IV Región, superficies 737,00; 244,00 y 201,00 m². La Comisión de Peritos fijó con fecha 10 de febrero de 1999, la indemnización provisional en la cantidad de $2.049.918, lote 95; $577.600, lote 112 y $425.500, lote 115; la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
