@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLE QUE SEÑALA
+
+Resolución 066, 20 abril 2000, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Desiderio Sanhueza Nº 28, Rol de Avalúo Nº 467-5, comuna Concepción, superficie 706,06 m2. de terreno y 420,90 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-14.250; de aparente dominio de Leopoldo Rivera Muñoz, para ejecución programa ''Recuperación Urbana de la Ribera Norte del Bío Bío'', conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 19 de noviembre de 1998, fijó monto provisional indemnización en $176.660.960.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
