@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.687, de 30 de junio de 2000, se expropió el lote de terreno Nº3, superficie 50 m², rol de avalúo 191-26, comuna de San Nicolás, para la obra Concesión Internacional Ruta 5, tramo: Talca - Chillán, Octava Región y se acordó el valor de indemnización con su propietaria Margarita Irene Gutiérrez Flores, ascendente a la cantidad de $591.769.
+
+Fiscal del Ministerio de Obras Públicas.
