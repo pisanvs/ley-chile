@@ -1,0 +1,3 @@
+Por resolución exenta Nº260, de 27 de enero de 2005, de esta Subsecretaría, autorízase a FIORDO AUSTRAL S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta 5, kilómetro 1.030, camino a Pargua, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Fresco-enfriado, Fresco-refrigerado, Congelado, Seco salado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de enero de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
