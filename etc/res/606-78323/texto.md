@@ -1,0 +1,7 @@
+Por Resolución No. 606 de 03 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA Y CONSERVERA CENTOSUR LIMITADA R.U.T. No. 79.533.500-5, domiciliada en calle Maipú No. 1524, Punta Arenas, para ampliar actividades pesqueras de transformación, autorizadas por Resolución No. 206, de 1988 de esta Subsecretaría, en orden a elaborar en las líneas de proceso de fresco - enfriado y congelado, en la planta industrial autorizada por Resolución citada precedentemente, ubicada en calle Maipú No. 1524, Punta Arenas, XII Región, los siguientes recursos hidrobiológicos: Fresco - refrigerado y congelado: Bacalao de profundidad o mero, Salmón del Atlántico, Salmón plateado (coho), Trucha arcoiris, Caracol trophon y Caracol piquilhue. Lo recursos serán adquiridos a pescadores artesanales e industriales de la XII Región.
+
+Deberá adquirir los recursos Salmón del Atlántico, Salmón plateado y Trucha arcoiris de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 03 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
