@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 418, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs 19-A y 19-B, superficies 680 m² y 346 m², rol de avalúo 603-9, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, Ramal Colector, sector Rafael-Agua Amarilla, y se acordó el valor de indemnización con su propietario Adolfo Mella Mella, ascendente a la cantidad de $202.874.- para los lotes Nºs 19-A y 19-B.-
+
+Fiscal del Ministerio de Obras Públicas.
