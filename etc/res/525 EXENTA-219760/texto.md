@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CONSTRUCTORA Y COMERCIAL COVAL LIMITADA
+
+La XV Dirección Regional Metropolitana Santiago Oriente del SII, por resolución Nº Ex. 525, de fecha 9 de diciembre de 2003, otorga a contar del 1º del mes siguiente al de esta publicación a Constructora y Comercial Coval Limitada, RUT Nº 79.742.900-7, la calidad de agente retenedor del Impuesto al Valor Agregado que afecte a los contratos de instalación o confección de especialidades que mande ejecutar, conforme lo establecido en la resolución Ex. Nº 46 de 01/09/2003 de la Dirección Nacional.-
