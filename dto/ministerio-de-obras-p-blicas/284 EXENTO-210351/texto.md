@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº284 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº19, superficie 108 m2, rol de Avalúo en trámite, comuna de Cauquenes, para la obra "Camino Mejoramiento Ruta M-830, sector Cauquenes - Sta. Sofía, Km. 1,200 a Km. 5,100", VII Región y se acordó el valor de la indemnización con su propietario Mario Alfonso Aravena Moraga, ascendente a la cantidad de $555.772.-
+
+Fiscal del Ministerio de Obras Públicas.
