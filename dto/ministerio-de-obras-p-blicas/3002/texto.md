@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.002, de 30 de septiembre de 1999, se expropió el lote de terreno Nº 22, superficie 14.989 m²., rol de avalúo 24-66, comuna de Calle Larga, para la obra Camino Santiago - Colina - Los Andes, Sector ''G'', By Pass Los Andes, Auco - Pocuro, Quinta Región y se acordó el valor de indemnización con su propietario Luis Armando Jara Muñoz, ascendente a la cantidad de $116.910.309.
+
+- Fiscal del Ministerio de Obras Públicas.
