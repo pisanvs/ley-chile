@@ -1,0 +1,3 @@
+Por decreto MOP No. 144 de 28 de enero de 1999, se dejó sin efecto los decretos MOP No. s. 1983, 1984, 1985, 1986, 1987 y 1989, todos de fecha 23 de octubre de 1998, que ordenaron la expropiación y aprobaron los planos y cuadros de expropiación de los lotes de terrenos No. s. 249-A, 249-B, 250, 251, 252-A y 252-B, correspondientes a la Obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, sector Km. 147.140 a Km. 148.120,00.-
+
+Fiscal del Ministerio de Obras Públicas.
