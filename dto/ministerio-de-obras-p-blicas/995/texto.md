@@ -1,0 +1,5 @@
+Por Decreto M.O.P Nº995, de 25 de noviembre de 1996, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P.
+
+Nº294, de 1984, que fijo el texto actualizado de la Ley Nº15.840, se expropió el lote el lote de terreno Nº 1, para la obra Agua Potable de Talcahuano, Recinto Estanque Población Esmeralda, que figura a nombre de don Carlos Macera D., Rol de avalúo 3716-14. Comuna de Talcahuano, VII Región, superficie 1.200 m2. La comisión de Peritos compuesta por los señores Pablo Carrillo Valenzuela, José Manuel Gálvez Alegría y Luis Abarzúa Ceballos, fijó con fecha 27 de agosto de 1996, el valor provisional de la indemnización en la cantidad de $ 3.600.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
