@@ -1,0 +1,3 @@
+Por decreto MOP Nº1440, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº11, superficie 1.280 M2, rol de avalúo 72-32, comuna de Futrono, X Región, para la obra "Camino Ruta T-55, Sector Futrono-LLifén, Km. 55,300 al 75,76384" y se acordó el valor de indemnización con su propietaria doña Patricia Virginia Oettinger Scherrer, ascendente a la cantidad de $4.886.672.-
+
+Fiscal del Ministerio de Obras Públicas.
