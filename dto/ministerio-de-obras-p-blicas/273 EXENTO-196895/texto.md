@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 273, de 22 de marzo del 2002, se expropió el lote de terreno Nº 202-B1, superficie 281 m2., rol de avalúo 179-24, comuna de Nogales, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos Sector Kms. 123.580,00 al 126.400,00, Quinta Región y se acordó el valor de indemnización con su propietario Sociedad Agrícola y Ganadera Pailam Limitada, ascendente a la cantidad de $821.352.-.
+
+Fiscal del Ministerio de Obras Públicas.
