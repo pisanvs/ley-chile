@@ -1,0 +1,1 @@
+Posterga hasta 31 Diciembre de 1931, vigencia decretos con fuerza de ley N°s 82 y 232.
