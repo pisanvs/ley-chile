@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.454, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 90, para la ejecución de la obra "Camino Costero Tirúa-Carahue, Tramo Tranapuente- Carahue, Sector Km. 55.438,97-Km. 69.895,61; Km. 0.000-
+
+Km. 3.927,45; Sub-Tramo III, Km. 53.405 a Km. 3.100", que figura a nombre de Flor Alicia Fren Huaiqui, rol de avalúo sin rol, comuna de Carahue, IX Región, superficie 409,60 M2. La Comisión de Peritos fijó con fecha 29 de marzo de 1999 y complementada por acta de fecha 20 de marzo de 2000, el valor provisional de la indemnización en la cantidad de $204.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
