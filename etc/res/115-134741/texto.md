@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA AURO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 115, de 09 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Auro S.A., domiciliada en Iquique, para ampliar las actividades que tiene autorizadas en resolución No. 161, de 1984, de esta Subsecretaría, en el sentido que podrá extender la zona de operación de la embarcación "Tamarugo I", que se individualiza en el numeral 2° de la resolución citada, al litoral de la V Región. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo con las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 09 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
