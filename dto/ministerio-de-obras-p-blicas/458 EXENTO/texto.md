@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 458, de 30 de abril de 2001, se expropió el lote de terreno Nº 195-C1, superficie 144 m², rol de avalúo 179-27, comuna de Nogales, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Edmundo del Carmen Vargas Cabrera, ascendente a la cantidad de $498.975.-
+
+Fiscal del Ministerio de Obras Públicas.
