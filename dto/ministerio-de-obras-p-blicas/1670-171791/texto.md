@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.670, de 28 de abril del 2000, se expropió el lote de terreno Nº 39, superficie 2.285,8 m², rol de avalúo 212-41, comuna de Teodoro Schmidt, para la obra Camino Costero Sur Sector Tranapuente-Puerto Saavedra Porma Tramo Chelle Hualpin-Puente Peule, Kms. 48.292,74 al 68.030,40 y se acordó precio de la indemnización con su propietario Juan Ramón Valdebenito Fuentes en la cantidad de $929.783.-
+
+Fiscal del Ministerio de Obras Públicas.
