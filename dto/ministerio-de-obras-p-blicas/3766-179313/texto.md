@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.766, de 28 de agosto de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº24, para la obra ''Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 7B: Km.
+
+50.280,00 a Km. 52.200,00'', Metropolitana Región, que figura a nombre de Claros Cortés Elba Petrona, rol de avalúo 107-21, comuna de Curacaví, superficie 182 m2. La comisión de peritos integrada por los señores Carlos Garcés Fernández, Jorge Antonio Catalán Cordero y Jaime Rolando Jurgens Bittner, fijó con fecha 14 de julio de 2000, el valor provisional de la indemnización en la cantidad de $654.248.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
