@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº407, de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº3, superficie 1.464,57 m2., Rol de Avalúo Nº293-34, comuna de Lautaro, para la obra "Puente Dollinco, Camino Lautaro - Pillanlelbún, Km. 0,1000 al Km. 0,56800", IX Región, y se acordó el valor de indemnización con su propietario Guillermo Carlos Lisandro Brito, ascendente a la cantidad de $563.352.-
+
+Fiscal del Ministerio de Obras Públicas.
