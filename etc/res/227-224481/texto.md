@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 227, 8 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Independencia sitio 6, Rol de Avalúo Nº 974-7 comuna Concepción, superficie 36,19 m2. de terreno y 32,10 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-18308; de aparente dominio de María Sobarzo Pérez y otro, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Patricia Cecilia Palacios González, arquitecto, Luis Soto Abarca, arquitecto, y Leonardo Esteban de la Fuente Vera, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $9.932.058.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
