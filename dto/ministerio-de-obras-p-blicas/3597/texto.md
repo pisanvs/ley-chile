@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.597 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 12, superficie 4.279,0 m²., sin rol de avalúo, comuna de Freire, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco, Km. 689,26050 a Km. 697,97110'' y se acordó el valor de indemnización con su propietario I. Municipalidad de Freire, ascendente a la cantidad de $11.953.751.-
+
+Fiscal del Ministerio de Obras Públicas.
