@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.552, de 28 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropió el lote de terreno Nº6, para la obra Camino Melipeuco - Icalma, Sector Variante Nº1, Km. 25.027 al Km. 28.544, que figura a nombre de Sucesión Agustín Z. Mardones Ruiz, rol de avalúo 308-80 de la comuna de Melipeuco, superficie 13.033 M2. La Comisión de Peritos fijó con fecha 8 de octubre de 1997, el valor provisional de la indemnización en la cantidad de $521.320. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
