@@ -1,0 +1,3 @@
+Por resolución Nº 1.782, de 14 de agosto de 2000, de esta Subsecrearía, recházase la solicitud de concesión de acuicultura Nº 97110380, presentada por PESCA CHILE S.A., para instalar y operar el centro de cultivo ubicado en Islas Canquenes, Paso Canquenes, Caleta Canquenes, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 14 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
