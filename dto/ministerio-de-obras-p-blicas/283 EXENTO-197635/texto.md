@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº283, de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº1, superficie 436,13 m2, rol de avalúo 3253-627, comuna de Temuco, IX Región, para la obra "Puente Rucapangui, Camino Pte. Chispas - Balsa Rucapangui, Km. 13,68078 al 13,97031" y se acordó el valor de indemnización con su propietaria doña Marta Curiqueo Huenchunao, ascendente a la cantidad de $358.766.-
+
+Fiscal del Ministerio de Obras Públicas.
