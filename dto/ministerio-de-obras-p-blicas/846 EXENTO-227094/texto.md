@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 846 de 9 de junio de 2004, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP N° 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno N° 5-A para la obra: Camino Lolol - Paredones - Bucalemu, Sector Alto Nilahue - Acceso Paredones, Tramo km. 12.700 a km. 27.800, que figura a nombre de Parraguez González Celinda Rosa, rol de avalúo 60-126, comuna de Paredones, VI Región, superficie 494 M2. La comisión de peritos fijó con fecha 28 de junio de 2000, en la cantidad de $227.900.- lote 5-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
