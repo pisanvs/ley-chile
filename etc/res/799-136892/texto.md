@@ -1,0 +1,3 @@
+Por resolución Nº799, de 17 de mayo de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº96103160, presentada por SOCIEDAD ALIMENTOS MARITIMOS AVALON LTDA., para operar un centro de cultivo en un Sector entre Punta Matao y Punta Cheguián, Isla Quinchao, Comuna de Quinchao, Provincia de Chiloé, X Región.
+
+Valparaíso, 17 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
