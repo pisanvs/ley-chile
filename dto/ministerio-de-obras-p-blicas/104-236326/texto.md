@@ -1,0 +1,5 @@
+Por decreto MOP Nº 104, de 8 de febrero de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1, para la obra: "Calle de Servicio Sector La Planchada.
+
+Km. 107.660,00 a Km. 108.000,00", Quinta Región, que figura a nombre de Dighero Lajana Humberto Suc., rol de avalúo 9312-2, comuna de Valparaíso, superficie 3.038 m2. La comisión de peritos integrada por los señores Lorena Consuelo Larraín Saffa, Luis Pablo Padilla Vergara y Cristián Larraín Arnolds, fijó con fecha 3 de enero de 2005, el valor provisional de la indemnización en la cantidad de $59.848.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
