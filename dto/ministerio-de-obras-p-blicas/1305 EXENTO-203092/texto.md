@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.305, de fecha 30 de agosto de 2002, se expropiaron los lotes de terreno Nº23-A, 23-B y 23-C, superficies 40,5, 150 y 210 m2, rol de avalúo Nº1404-91, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, Sector Puerto Varas-Los Alerces-Puerto Montt, Km. 0,000 a Km. 16,340, Provincia de Llanquihue'', X Región y se acordó el valor de la indemnización con su propietario Oscar Armando Rosa Wilke, ascendente a la cantidad de $2.285.607.-
+
+Fiscal del Ministerio de Obras Públicas.
