@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.164 de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 29-D, superficie 62 m², rol de avalúo Nº 191-85, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Long. - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12", VII Región y se acordó el valor de la indemnización con su propietario César Enrique Bustos Sepúlveda, ascendente a la cantidad de $384.300.-
+
+Fiscal del Ministerio de Obras Públicas.
