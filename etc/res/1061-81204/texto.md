@@ -1,0 +1,7 @@
+Por resolución No. 1.061 de 30 de Agosto de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorizase a PESQUERA RECURSOS MARITIMOS SOCIEDAD ANONIMA, R.U.T. No. 96.553.460-1, domiciliado en la ciudad de Valparaíso, para iniciar actividades pesqueras, en orden a operar las embarcaciones "Austral", "Angelmó" y "Aurora I" en el litoral de las Regiones que a continuación se indican, donde podrá extraer los siguientes recursos hidrobiológicos: a) Desde Punta Liles, paralelo 32° 45' 40" L.S., hasta el paralelo 47° L.S., por fuera de las líneas de base recta, donde corresponda, con espinel: Bacalao de profundidad; b) Entre la I a X Región, con red de enmalle y espinel: Albacora o pez espada.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria para extraer con las naves individualizadas en el numeral 2° de la presente resolución, los demás recursos hidrobiológicos y en las zonas de mar que señala la peticionaria en su solicitud de conformidad con las normas legales y reglamentarias e informes técnicos citados.
+
+Valparaíso, 30 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
