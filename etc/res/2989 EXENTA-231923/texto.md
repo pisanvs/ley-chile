@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.989, de 20 de octubre de 2004 de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A., para ampliar las actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Playa Blanca s/n, Coquimbo, IV Región, en las líneas de proceso de Harina, Aceite, Fresco-Enfriado, Fresco-Refrigerado, Congelado y Conserva los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de octubre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
