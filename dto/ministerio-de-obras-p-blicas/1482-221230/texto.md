@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.482, de 19 de diciembre de 2003, se modificó el decreto MOP Nº 596, de 30 de abril de 1998, en el sentido que corresponde formalizar la expropiación por la vía judicial del lote de terreno Nº 107, autorizando la consignación del monto provisional de la expropiación, en la cantidad de $136.740.- El pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
