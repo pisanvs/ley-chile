@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.042 de fecha 31 de agosto de 2000, se expropió el lote de terreno Nº186, superficie 935 m²., rol de avaluó 68-159, comuna de Teno, para la obra ''Camino Ruta J-25, Sector Cruce Longitudinal La Montaña, Km. 0,220 a km. 25,000'' y se acordó el valor de indemnización con su propietaria Dina del Carmen Parraguez Manríquez, ascendente a la cantidad de $759.132.
+
+- Fiscal del Ministerio de Obras Públicas.
