@@ -1,0 +1,3 @@
+Por decreto MOP Nº 160 de fecha 27 de febrero del 2004, se expropiaron los lotes de terreno Nº s. 43 y 44, superficies 444 y 835 m2, Rol Nº 335-16, comuna de Laja, VIII Región para la obra "Camino Ruta Q-34, Candelaria - La Laja Sector Millantu - La Laja, Km. 20,00000 al 35,88380" y se acordó el valor de indemnización con su propietaria Berta Elena Morales Morales, ascendente a la cantidad de $9.205.589.- para los lotes Nº s. 43 y 44.
+
+Fiscal del Ministerio de Obras Públicas.
