@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.635, de 30 de junio de 2000, se dejó sin efecto la expropiación del lote de terreno Nº20-E, aprobada por decreto MOP Nº80, de 30 de enero de 1998, que figura a nombre de la Mutualidad de Carabineros, rol de avalúo 189-3, comuna de Santiago, superficie 56,25 M2., para la obra Extensión Línea 5 del Metro de Santiago, sector Baquedano-Santa Ana, Catedral Amunátegui.-
+
+Fiscal del Ministerio de Obras Públicas.
