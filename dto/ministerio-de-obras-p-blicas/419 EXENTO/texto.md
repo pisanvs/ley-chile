@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº419, de 17 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 90 y 94-A, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putu-Quivolgo, Kms.
+
+30,000 al 49,815.494, que figuran a nombre de Juan Morel Morel y otros y Forestal Celco S.A., roles de avalúos 412-8 y 315-7, comuna de Constitución, superficies 4.128,66 m² y 781,31 m². La Comisión de Peritos, fijó con fecha 10 de junio de 1998, en la cantidad de $743.159, para el lote 90 y $530.505, para el lote 94-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
