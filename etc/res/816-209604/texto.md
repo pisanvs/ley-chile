@@ -1,0 +1,3 @@
+Por resolución Nº 816, de 11 de abril de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 93 de 2003, modificada mediante resolución Nº 352 de 2003, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Esfuerzo de la pesca artesanal de merluza del sur en la zona Chiloé - Palena, 2003", en el sentido de señalar que las actividades de investigación autorizadas para el mes de abril se realizarán entre los días 12 y 16 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 11 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
