@@ -1,0 +1,3 @@
+Por decreto MOP Nº 841, de fecha 31 de mayo de 2001, se expropiaron los lotes de terreno Nºs. 13, 14 y 15, superficies 2.896,00 m², 1.039,00 m² y 309,00 m²., respectivamente, rol de avalúo 155-39, comuna de Curarrehue, para la obra "Camino Catripulli - Curarrehue, Sector Km. 108,02 al 114,80" y se acordó el valor de indemnización con su propietario Ramón Alfredo Quezada Ansorena, ascendente a la cantidad de $10.712.629.-
+
+Fiscal del Ministerio de Obras Públicas.
