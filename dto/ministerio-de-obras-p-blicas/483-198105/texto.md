@@ -1,0 +1,3 @@
+Por decreto MOP Nº483, de fecha 28 de febrero de 2002, se expropiaron los lotes de terreno Nºs. 43, 43-A y 49, superficies 1.058 m2, 693 m2 y 1.334 m2, respectivamente, rol de avalúo Nº3800-358, comuna de Puente Alto, Región Metropolitana, para la obra "Mejoramiento Eje La Florida, Sector El Peñón - Las Vizcachas, Ruta G-25 Camino Puente Alto, Km. 6.9870 al 10.340" y se acordó el valor de indemnización con su propietario la Asociación Canalista Sociedad del Canal del Maipo, ascendente a la cantidad de $80.736.085.-
+
+Fiscal del Ministerio de Obras Públicas.
