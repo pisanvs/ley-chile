@@ -1,0 +1,3 @@
+Por resolución Nº977 de 21 de Agosto de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMPAÑIA PESQUERA TAMARUGAL, R.U.T. Nº84.343.700-1, domiciliada en Miraflores Nº178, piso 16, Santiago, para ampliar actividades pesqueras de transformación, en orden a incorporar a la líena de proceso autorizada por resolución Nº175 de 1983, de esta Subsecretaría el recurso hidrobiológico merluza de cola. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 21 de Agosto de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
