@@ -1542,7 +1542,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 240 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 180 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 320 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 240 pesos.
 
 #### Artículo 199
 
@@ -3994,7 +3994,7 @@ Los depósitos judiciales que tengan más de cinco años, contados desde que exi
 
 Las cantidades que deban aplicarse a beneficio fiscal en los casos en que se exige consignación previa de dinero para recurrir de apelación, casación, revisión o queja, se destinarán a la Junta de Servicios Judiciales.
 
-Los fondos que se obtengan por la aplicación del inciso anterior, se depositarán a la orden de la Junta, en cuenta especial que se abrirá en la Tesorería Provincial de Santiago, sin perjuicio de que las demás Tesorerías Comunales o Provinciales los recauden, cuando así corresponda, para luego remesarlos a la expresada Tesorería Provincial de Santiago.
+Los fondos que se obtengan por la aplicación del inciso anterior, se remesarán a la referida Junta por los respectivos tribunales, en cuyas cuentas corrientes se encontraren depositados, en la primera quincena de Enero de cada año.
 
 En cuanto al destino de las fianzas y de los dineros decomisados, y de los que no hayan caído en comiso y no fueren reclamados, se estará a lo previsto en el Código de Procedimiento Penal.
 
@@ -4290,7 +4290,7 @@ Para interponer un recurso de queja, el recurrente deberá consignar previamente
 
 Tratándose de un asunto criminal o no susceptible de apreciación pecuniaria o de cuantía indeterminada, el monto de la consignación será igual a medio sueldo vital, si el recurso se interpone ante la Corte Suprema o ante una Corte de Apelaciones, o a la cuarta parte de dicho sueldo si se interpone ante un Juez de Letras.
 
-No regirá la exigencia de la consignación previa tratándose de los recursos de queja que incidan en negocios en que se litiga en papel común, ni respecto de los que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
+No regirá la exigencia de la consignación previa tratándose de los recursos de queja que deduzcan los Oficiales del Ministerio Público, los Defensores Públicos, los representantes del Fisco, los procesados en causa criminal y los que gozan de privilegio de pobreza.
 
 La consignación a que se refiere este artículo se devolverá a la parte recurrente, si el recurso fuere acogido. Si fuere desechado, o el recurrente se desistiere de él, se aplicará a beneficio fiscal.
 
@@ -4470,33 +4470,37 @@ Si el proceso se encontrare pendiente ante la Corte de Apelaciones, el juez de l
 
 #### Artículo 578
 
-En toda ciudad cabecera de departamento se harán al año dos visitas a cada uno de los establecimientos penales y de las cárceles en ellas existentes, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los reos cumplen sus condenas y de oirles sus reclamaciones.
+En toda ciudad en que existan cárceles o establecimientos penales se hará, a lo menos, una visita en el primer semestre y otra en el segundo semestre del año a cada uno de ellos, a fin de tomar conocimiento de su estado de seguridad, orden e higiene, de si los reos cumplen sus condenas y de oírles sus reclamaciones.
 
 #### Artículo 579
 
-Estas visitas se practicarán en Santiago el lunes de la Semana Santa, y el 15 de Septiembre; y se las continuará en los días siguientes hasta terminarlas. En las otras ciudades, el Martes Santo y el 16 de Septiembre; y en el siguiente, si fuere necesario.
+Las visitas se practicarán sin aviso previo, a uno o más de los establecimientos penales y cárceles existentes en el departamento respectivo, en la fecha y hora que determine el presidente de la visita, por sí o a petición de cualquiera de sus miembros.
 
 #### Artículo 580
 
-Constituirá la visita en Santiago el Presidente, un ministro designado por el Tribunal y el fiscal de la Corte Suprema, el Presidente de la Corte de Apelaciones, los Presidentes de salas y los fiscales, los jueces letrados en lo criminal y el Intendente de la provincia. Deberán asistir el secretario de la Corte Suprema, los abogados y los procuradores de turno en lo criminal.
+En los departamentos asiento de una Corte de Apelaciones constituirán la visita el presidente, un ministro y el fiscal de cada Corte. El ministro y el fiscal, en las Cortes de Apelaciones que tengan más de uno, serán designados por turno anual, comenzando por el menos antiguo.
 
-En las otras ciudades, asiento de la Corte de Apelaciones, formarán la visita el Intendente de la provincia, todos los ministros y el fiscal de la Corte y los jueces letrados con jurisdicción en lo criminal. Asistirán el secretario de la Corte, los abogados y los procuradores de turno, en lo criminal.
+El secretario de la Corte de Apelaciones, o el secretario en lo criminal de la de Santiago, lo será de la visita.
 
-En la cabecera de provincia se compondrá del Intendente y de los jueces letrados. Asistirán el secretario del juzgado, los abogados y procuradores de turno, en lo criminal.
+En las demás ciudades, constituirán la visita los jueces del crimen del departamento y secretario lo será el del juzgado, o el más antiguo de éstos si hay más de uno.
 
-En la cabecera de departamento, la componen el gobernador y los jueces letrados y asistirán el secretario judicial, los abogados y procuradores de turno, en lo criminal.
-
-El Presidente de la Corte Suprema presidirá la visita en Santiago; el Presidente de la Corte de Apelaciones, en los departamentos asientos de Cortes de Apelaciones y el Juez del Crimen en los demás departamentos. En aquellos de éstos en que hubiere más de un Juez del Crimen, corresponderá presidirla al más antiguo.
+Presidirá la visita el presidente de la Corte de Apelaciones o, en su caso, el juez del crimen más antiguo.
 
 #### Artículo 581
 
-A la hora que determine el Presidente de la Visita y en los días fijados, las personas nombradas se reunirán, respectivamente, en la sala de la Corte Suprema, de la Intendencia o de la Gobernación; y procederán a visitar las cárceles y los establecimientos penales por el orden que determine el Presidente.
+El presidente, el ministro que se designe y el fiscal de la Corte Suprema podrán constituirse en visita en cualquiera de las cárceles y establecimientos penales de la República cuando así lo estimare necesario el primero, que la presidirá.
+
+El presidente, el ministro y el fiscal de la Corte de Apelaciones que constituyan la visita en la ciudad asiento de ese tribunal, podrán visitar cualquiera de las cárceles y establecimientos penales existentes en su territorio jurisdiccional cuando así lo determine el presidente de oficio o a petición de uno de sus miembros.
+
+En estos casos, será secretario de la visita el ministro de fe que el presidente designe.
+
+Estas visitas tendrán los fines que se indican en el artículo 578 y se regirán, en cuanto les sean aplicables, por las disposiciones de los artículos 579, 582, 583, 584 y 585.
 
 #### Artículo 582
 
 La visita inspeccionará los diferentes departamentos de la casa; se informará del trato y del alimento que se da a los reos; de cómo se cumple el reglamento y se llevan las cuentas de las economías de los reos; y el Presidente les advertirá que pueden hacer las reclamaciones que les convengan.
 
-Los directores o jefes de la casa visitada presentarán a todos los reos que en ella haya.
+Los directores o jefes de la casa visitada presentarán a todos los reos o detenidos que en ella haya, en la forma que la visita ordene.
 
 De las reclamaciones que se refieren a vejaciones indebidas, coacción de la libertad de defensa o prolongación injustificada en la tramitación de los procesos, se dejará testimonio escrito y de ellas conocerá la Corte de Apelaciones para la adopción de las medidas procedentes.
 
@@ -4522,13 +4526,7 @@ El jefe del establecimiento es responsable del cumplimiento de cuanto ordenare l
 
 #### Artículo 585 bis
 
-Sin perjuicio de las visitas que preceden, en toda ciudad asiento de un Juzgado de Letras, se efectuarán cada año, por lo menos, dos visitas extraordinarias a cada uno de los establecimientos penales en ellas existentes.
-
-En las ciudades asiento de Corte de Apelaciones, estas visitas serán decretadas por el Presidente del Tribunal y para el mismo día en que disponga hacerla, y las efectuará acompañado de dos Ministros, designados de acuerdo con el turno que fije el Tribunal, por su Fiscal y Secretario. En la Corte que sea compuesta por cuatro miembros o menos, el Presidente será acompañado por un solo Ministro, el Fiscal y el Secretario; y en aquellas que funcionen con dos o más Fiscales, con el que corresponda de acuerdo, asimismo, con el turno que fije el Tribunal.
-
-En las demás ciudades, las visitas serán decretadas y presididas por el Juez del Crimen, si hubiere más de uno por el más antiguo, y siempre será fijada para el mismo día en que se decrete, y será acompañado aquel funcionario por los demás Jueces del crimen que quisieren.
-
-Estas visitas tendrán las facultades establecidas en el artículo 578 y les serán aplicables, también, lo dispuesto en los artículos 582 a 585.
+Derogado.
 
 ### 3. Estados y publicaciones
 
