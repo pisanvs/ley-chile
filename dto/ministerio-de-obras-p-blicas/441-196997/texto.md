@@ -1,0 +1,3 @@
+Por decreto MOP Nº 441 de 28 de febrero de 2002, se expropió el lote de terreno Nº 7, superficie 153 m2., rol de avalúo 3405-5, comuna de Vitacura, para la obra Concesión Internacional Sistema Oriente Poniente Zona Oriente Estoril Tabancura Tramo 9: de Kms. -0.050,00 al 2.751,70, Región Metropolitana y se acordó el valor de indemnización con su propietaria Charlene Daphne Braun Jones y otras, ascendente a la cantidad de $57.553.858.-
+
+Fiscal del Ministerio de Obras Públicas.
