@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.925, de 31 de agosto de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº183-2 para la obra: ''Concesión Internacional Ruta 5. Tramo Temuco -
+
+Río Bueno Km. 762,40000 a Km. 764,36020'' Novena Región, que figura a nombre de Jofré Pena Rubén, rol de avalúo en trámite, comuna de Loncoche, superficie 5.200 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, Pablo Alex Mansilla Aravena y Yaschala Maribel Yáñez Riffo, fijó con fecha 18 de julio de 2000, el valor provisional de la indemnización en la cantidad de $22.225.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
