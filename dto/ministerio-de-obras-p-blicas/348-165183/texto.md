@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 348, de 20 de Noviembre de 1985, se expropió el lote No. 1, cuya superficie es 13.252, rol de avalúo 1.861-1, Comunal de Temuco, para Agua Potable de Temuco, Mejoramiento del Servicio, sector Poniente, Sistema de Abastecimiento y se acordó el precio de indemnización con su propietario Instituto de Desarrollo Agropecuario, ascendente a $ 4.340.361.
+
+- Fiscal del Ministerio de Obras Públicas. (2)
