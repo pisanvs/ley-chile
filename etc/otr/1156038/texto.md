@@ -1,0 +1,11 @@
+Cartas de ciudadanía
+
+Excmo. Señor:
+
+A presencia de lo dispuesto por V.E. sobre varias cartas de ciudadanía nada es la del español europeo don Francisco Luque, porque haciendo ver su decision por la causa del pais; su contraccion al mejor desempeño del cargo de Juez con que se le ha designado la República, ha justificado la fidelidad de sus servicios i el interes con que ha contribuido voluntariamente con erogaciones en favor del Erario; la del español europeo Pedro Pombo, por haber hecho constar en el espediente sobre su conducta política que, guardando la mejor armonía con los americanos en servicio de la Patria, se prestó voluntariamente a la enseñanza militar del cuerpo de Nacionales: la del español europeo don Juan Ramon Sánchez, porque habiendo acreditado no haber perjudicado a los patriotas, ni maquinado contra la causa del pais, probó la moderacion en sus operaciones i el hallarse avecindado en el pais: la de don Francisco Barba, porque justificó que explicando los sentimientos de su corazon, probó haber acusado de infidente a los que opinando contra la libertad de América han tratado de atacar sus imprescriptibles derechos: la del lado de los españoles europeos don Juan Navarrete, don Manuel Alonso Arias, don Juan Antonio Fresno i don Francisco Iserns, por haber éstos comprobado su vecindad, su moderacion i el de no haber perjudicado a los patriotas ni ofendido la causa general: la del español europeo don Manuel Beltran, porque a mas de haber acreditado su domicilio i antigua vecindad, justificó sus servicios empeñosos en honor de la libertad de Chile i sus intereses con la consolidacion de la Independencia de América.
+
+Sírvase V.E. disponer que para la satisfaccion de los agraciados, su publique en el Ministerial la sancion del Senado i el estar los relacionados españoles comprometidos en los privilejios que se dispensan a los ciudadanos con solo la calidad de estar sujetos al cumplimiento de la ley que se dictará para el goce de la gracia.
+
+Dios guarde a V.E. muchos años.-Sala del Senado, Noviembre 27 de 1820.-Francisco Borja Fontecilla.-José María Villarroel, Secretario.-Excmo. Señor Supremo Director de la República.
+
+Santiago, Enero 10 de 1821.-Insértese en la Gaceta Ministerial.-O'Higgins.-Echeverría.
