@@ -1,0 +1,3 @@
+Por resolución Nº 2.499 de 22 de diciembre de 1999 de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97110150, presentada por SALMONES MULTIEXPORT LIMITADA, para operar un centro de cultivo ubicado en Canal Carrera del Cuchi, Punta Galleze, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 22 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
