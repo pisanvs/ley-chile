@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 732, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 de DFL. MOP.
+
+Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, de 1964 y del DFL. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 73-15, para la obra Concesión Internacional Ruta 5, Tramo Los Vilos - La Serena, Sector B Hornillos - La Herradura, que figura a nombre de Comunidad Proyecto El Progreso C.PO, rol de avalúo 786-30, comuna de Ovalle, IV Región, superficie 7.650 m2. La Comisión de Peritos compuesta por las señoras María Iris Marcich Moller y Elisa Mercedes Tapia Fernández y el señor Juan Agustín Ibáñez Palma, fijó con fecha 7 de marzo de 1998, el valor provisional de la indemnización en la cantidad de $ 2.295.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
