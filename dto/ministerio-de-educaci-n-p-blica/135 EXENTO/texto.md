@@ -1,0 +1,3 @@
+Por Decreto Exento N° 135 de fecha 7 de marzo de 1996 del Ministerio de Educación, se declaró aprobada a la Universidad Las Condes, la carrera de Arquitectura, conducente al grado académico de Licenciado en Arquitectura y al título profesional de Arquitecto, la que se impartirá a contar de primer semestre de 1996, con la verificación del Consejo Superior de Educación.
+
+Santiago, 19 de marzo de 1996.- Jaime Pérez de Arce Araya, Subsecretario de Educación.
