@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº187 de fecha 30 de diciembre de 2004, Serviu II Región dispuso, conforme al DL Nº2.186 del año 1978 y para el saneamiento del dominio de los terrenos en que se construyeron los Programas Habitacionales 1994 a 1999, en la comuna de Mejillones, la expropiación del sitio 12 de la manzana 51 de una superficie de 880,00 m², ubicado en la población Andalicán, comuna de Mejillones, sin Rol de Avalúo, inscrito a Fojas 382 Nº582 del año 1907, en el Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, se desconoce actual propietario. Comisión Tasadora integrada por peritos doña Eleonora Román Latorre, Arquitecto; don Jorge Oyarzún Asún y don Héctor Villegas González, ambos Constructores Civiles, según informe del 1º de diciembre de 2004, fijó monto provisional indemnización en la suma de $4.400.000.- pagadero al contado.
+
+- Director Serviu II Región.
