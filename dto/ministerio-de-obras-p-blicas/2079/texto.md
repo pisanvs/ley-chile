@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.079, de 30 de julio de 1999, se expropió el lote de terreno Nº2, superficie 101 m², rol de avalúo 330-4, comuna de Renca, para la obra ''Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, Sector Río Mapocho - Ruta 5 Norte, Eje General Velásquez'', Región Metropolitana y se acordó el valor de indemnización con su propietario José Carvajal García, ascendente a la cantidad de $5.594.982.-
+
+Fiscal del Ministerio de Obras Públicas.
