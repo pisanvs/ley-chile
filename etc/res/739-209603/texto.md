@@ -1,0 +1,5 @@
+Por resolución Nº739, de 26 de marzo de 2003, de esta Subsecretaría, autorízase a ELSA AMALIA PUINAO HARO, RUT Nº10.622.698-9, con domicilio en calle Estero Alvarez s/n, Manzana Nº24, sitio Nº6, Puerto Melinka, comuna de Las Guaitecas, XI Región, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Estero Alvarez s/n, Manzana Nº24, Sitio Nº6, Puerto Melinka, comuna de Las Guaitecas, XI Región, en donde podrá elaborar, en las líneas de proceso que se indican, los siguientes recursos hidrobiológicos: Cocido y Congelado: Centolla, Jaiba mora, Caracol palo palo, Navaja de mar o Huepo, Culengue y Pulpo; Fresco-Refrigerado: Lapa, Puye, Erizo.
+
+Déjase sin efecto la resolución Nº1.820 de 2002, de esta Subsecretaría, en virtud de los documentos citados en Visto y del contenido de la presente resolución.
+
+Valparaíso, 26 de marzo de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
