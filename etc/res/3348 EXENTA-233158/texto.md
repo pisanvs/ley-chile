@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.348, de 25 de noviembre de 2004, de esta Subsecretaría, autorízase a PESQUERA ITATA S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Avenida Pedro Montt Nº 667, San Vicente, Talcahuano, VIII Región, en la línea de proceso de Conserva, congelado, fresco enfriado, fresco refrigerado, harina y aceite, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 25 de noviembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
