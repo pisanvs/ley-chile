@@ -1,0 +1,9 @@
+Obsequio de libros al Instituto Nacional
+
+Excelentísimo señor:
+
+Al presentarnos la Gazeta número 14 el animado cuadro de lo que fuimos, lo que somos i seremos, se nos anuncia la restauracion del Instituto Nacional sufocado en su cuna con la libertad que lo sostenia. Demasiado sensible a las glorias de mi patria, me exalté con esta nueva feliz. Ya ver las artes útiles i las bellas artes: las ciencias todas con su griego ropaje asiladas en Chile bajo banderas vencedoras. Ellas solidarán nuestra independencia política i generalizada la ilustracion, todos i cada uno sostendrán la libertad civil i su seguridad individual. ¿Habrá quien no coopere a la reedificacion de aquel tiempo augusto? Por lo que a mí me toca ofrezco a V.E. 500 silabarios de nuevo i fácil método; 100 ejemplares de gramática i ortografía, mas elemental, correcta i abundante que las españolas; igual número de catecismos de doctrina cristiana; 100 ejemplares tratado de las obligaciones del hombre i 100 volúmenes en latin i frances, aplicables a las diversas facultades que abrace el Instituto. Dígnese V.E. aceptar esta pequeña ofrenda con mis mas sinceros votos por la ejecucion de sus altos designios.
+
+Dios guarde a V.E. muchos años.- Santiago de Chile, 4 de octubre de 1817.-Excelentísimo señor.-Diego Antonio Barros.-Excelentísima Junta Delegada.
+
+Santiago, octubre 4 de 1817.-Acéptase este ofrecimiento, digna efusion del amor patrio que caracteriza a este buen ciudadano: se le dan las mas espresivas gracias a nombre de la patria, e imprímase en la Gazeta su oblacion para que la posteridad le reconozca por uno de los que han cooperado a su ilustracion.-Pérez.-Cruz.- Asteria.-Zañartu.
