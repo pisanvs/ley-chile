@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA CHIVILINGO S.A. CERRADA PARA INICIAR ACTIVIDADES
+
+Por resolución No. 375 de 27 de Marzo de 1989 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Chivilingo S.A. Cerrada, R.U.T. No. 96.508.710-8, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar una planta industrial en el Sector Sur del Puerto de San Antonio, y Región, donde procesará en las líneas de elaboración de reducción y aceite de pescado, los siguientes recursos hidrobiológicos: Anchoa, caballa, jurel, sardina española, sardina común. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias o que se establezcan.
+
+Valparaíso, 27 de Marzo de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
