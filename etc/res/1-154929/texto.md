@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 1, de 11 de enero del año 2000, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Trabajo Ex Personal de la Compañía de Telecomunicaciones de Chile S.A. y Filiales, Limitada, de sigla ''Coopextel Ltda.'', de Santiago, Región Metropolitana, en los términos que dan testimonio las escrituras públicas suscritas con fechas 7 de octubre y 9 de diciembre de 1999, ante el Notario Público de la ciudad de Santiago, Osvaldo Pereira González.
+
+Por orden del Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas.
