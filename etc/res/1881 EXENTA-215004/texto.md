@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.881, de 14 de agosto de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chepu, Sector B, X Región, individualizado en el artículo 1º, Nº 10) del D. exento Nº 641 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES Y RAMOS SIMILARES "MAR ADENTRO" DE RIO CHEPU.
+
+Valparaíso, 14 de agosto de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
