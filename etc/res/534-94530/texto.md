@@ -1,0 +1,3 @@
+Por resolución No. 534 de 29 de mayo 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, -parte inmueble- ubicado en Santa Isabel No. 0310, presunto rol avalúos No. 916-20, comuna de Providencia, aparentemente dominio de la Sucesión de don Diego Fernández Sánchez. Comisión integrada por peritos Jorge Navarrete Navarrete, arquitecto, Emilio Recabarren Solar, ingeniero civil y Luis Rojas Quezada, constructor civil, según informe de 21 de diciembre 1989, fijó monto provisional indemnización en $ 2.660.200.- pagadera al contado.
+
+- Director SERVIU Metropolitano.
