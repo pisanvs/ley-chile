@@ -1,0 +1,1 @@
+Destina fondos para sufragar los gastos que ocasione la celebración de la XII Sesión del Consejo Económico y Social de las Naciones Unidas, que se realizará en Santiago en la fecha que indica; comisiones de servicios de empleados de la Administración Pública y contratación de personas extrañas a ella para la atención de dicho Consejo.
