@@ -1,0 +1,3 @@
+Por decreto MOP Nº532, de fecha 22 de marzo de 2002, se expropió el lote de terreno Nº19, superficie 1.668 m2, rol de avalúo 1418-255, comuna de Rancagua, Región Metropolitana, para la obra "Camino Ruta H-188, Sector Cruceros - Chancón, Tramo i, Km. 0,00000 al 7,85900" y se acordó el valor de indemnización con su propietario don Mario del Carmen Villavicencio Leiva, ascendente a la cantidad de $2.905.424.-
+
+Fiscal del Ministerio de Obras Públicas.
