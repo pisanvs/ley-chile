@@ -1,0 +1,1 @@
+"Prorroga el plazo para el pago de las patentes mineras que debieron pagarse en marzo de 1931".
