@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD COMERCIAL Y AGROINDUSTRIAL DE LOS REYES S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 385, de 30 de Marzo de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Comercial y Agroindustrial De Los Reyes S.A., R.U.T. No. 96.528.310-2, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a facultarle para operar una planta industrial, en Avda. Independencia No. 345, Santiago, Región Metropolitana, donde podrá procesar en la línea de elaboración de conserva, los siguientes recursos hidrobiológicos: Atún aleta amarilla, Atún aleta larga, Bonito, Jurel, Merluza común, Merluza del Sur, Cojinoba del Norte, Cojinoba del Sur, Pejerrey de mar, Sardina, Sardina común, Trucha arco iris, Almeja o taca, Almeja, Calamar, Caracol locate, Caracol trumulco, Chocha, Cholga, Chorito, Choro, Culengue, Lapa, Loco, Macha, Navajuela, Ostión del Norte, Ostión del Sur, Pulpo, Camarón de río del Norte, Centolla, Centollón, Gamba, Langostino colorado, Langostino amarillo, Jaiba, Erizo, y Piure. Deberá adquirir el recurso Trucha arco iris de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 30 de Marzo de 1989.- Roberto Cabezas Bello Subsecretario de Pesca.
