@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.082, de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nº3 y 4, superficies 694 m² y 568,40 m², rol de Avalúo Nº154-96, comuna de Cochamó, para la obra "Construcción Puente Las Vertientes y El Ladrillo, Provincia de Llanquihue", X Región y se acordó el valor de la indemnización con su propietaria Rafaela del Carmen Oyarzo Oyarzo, ascendente a la cantidad de $792.327.-
+
+Fiscal del Ministerio de Obras Públicas.
