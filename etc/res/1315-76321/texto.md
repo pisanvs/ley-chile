@@ -1,0 +1,5 @@
+Por Resolución Nº 1.315, de 8 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud formulada por PESQUERA YELCHO S.A., para incluir la nave "Jin Yang Nº 1" en la nómina de armadores industriales y embarcaciones habilitadas para realizar actividades pesqueras en la unidad de pesquería de Merluza del sur del artículo 1º letra g) del D.S. Nº 354, de 1993 contenida en la Resolución Nº 909, de 30 de junio de 1997, de esta Subsecretaría.
+
+Deniégase la petición formulada por Pesquera Yelcho S.A., para incluir la nave "Gualas" en las nóminas de armadores industriales y embarcaciones habilitadas para realizar actividades pesqueras en la unidad de pesquería de Merluza del sur del artículo 1º letra f) del D.S. Nº 354, de 1993 y Congrio dorado del artículo 1º letra h) del D.S. Nº 354, de 1993, contenidas en Resoluciones Nº 908 y Nº 903, ambas de 1997, de esta Subsecretaría, en virtud de los informes técnicos y normas legales citadas en Visto.
+
+Valparaíso, 8 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
