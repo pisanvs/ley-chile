@@ -1,0 +1,3 @@
+Por Resolución N° 664, de 30 de Mayo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 1061, de 1991, de esta Subsecretaría, que autorizó a PESQUERA RECURSOS MARITIMOS S.A., R.U.T. N° 96.553.460-1, para iniciar actividades pesqueras con las naves "Austral" y "Angelmó", por haberse configurado la causal prevista en el artículo 143, letra b) de la Ley N° 18.892, citada en Visto.
+
+Valparaíso, 30 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
