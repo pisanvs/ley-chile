@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.485, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº86, superficie 1.018 m², Rol de Avalúo 514-84, comuna de Río Bueno, X Región, para la obra ''Camino Río Bueno-Crucero, Rol T-90-U y T-933, Km. 0,00000 al 20,90000 (II Parte)'' y se acordó el valor de indemnización con su propietario don Rolando Pradines Cárdenas, ascendente a la cantidad de $747.919.
+
+- Fiscal del Ministerio de Obras Públicas.
