@@ -1,0 +1,3 @@
+Por Resolución N° 329 de 23 de abril de 1986 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble Avenida Departamental N° 772, presunto rol de avalúos N° 534311, comuna San Miguel, aparentemente dominio de doña María Vargas Carreño. Comisión integrada por peritos Juan Pañella Casares, René Ureta Koster y Jorge Navarro Navarrete, arquitectos, según informe de noviembre de 1985, fijó monto provisional indemnización en $ 830.000.-, pagadera al contado.-
+
+Director SERVIU Metropolitano.
