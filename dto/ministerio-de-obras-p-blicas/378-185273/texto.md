@@ -1,0 +1,3 @@
+Por decreto MOP Nº378, de 29 de diciembre de 2000, se expropió el lote de terreno Nº9-1, superficie 183 m², rol de avalúo 166-34, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes. Sector San José Lo Pinto, Región Metropolitana y se acordó el valor de indemnización con su propietario Ricardo Segundo Vásquez López, ascendente a la cantidad de $1.287.447.
+
+Fiscal del Ministerio de Obras Públicas.
