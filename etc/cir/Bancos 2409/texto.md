@@ -3382,15 +3382,15 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
 
-A.- INSTITUCIONES CUYA AUTORIZACION RIGA HASTA EL 28 DE FEBRERO DE 1990.
+A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
-1.- Empresa Nacional del Petróleo.
+1.- Empresa Nacional del Petróleo
 
 2.- Empresa Nacional de Minería.
 
-3.- Empresa Portuaria d Chile.
+3.- Empresa Portuaria de Chile.
 
 4.- Empresa Marítima del Estado.
 
@@ -3398,173 +3398,129 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGA HASTA EL 28 DE FEBRERO DE 1990.
 
 6.- Empresa de Correos de Chile.
 
-7.- Empresa Metropolitana de Obras Sanitarias.
+7.- Empresa Metropolitana de Obras Sanitarias
 
 8.- Empresa de Obras Sanitarias V Región.
 
-9.- Instituto de Seguros del Estado.
+9.- Empresa Nacional del Carbón S.A.
 
-10.- Polla Chilena de Beneficencia.
+10.- Empresa Eléctrica Colbún-Machicura S.A.
 
-11.- Televisión Nacional de Chile.
+11.- Empresa Eléctrica de Aysén S.A.
 
-12.- Casa de Moneda de Chile.
+12.- Polla Chilena de Beneficencia.
 
-13.- Empresa Nacional de Electricidad S.A.
+13.- Televisión Nacional de Chile.
 
-14.- Empresa Eléctrica Colbun-Machicura S.A.
+14.- Casa de Moneda de Chile.
 
-15.- Empresa Eléctrica Pehuenche S.A.
+15.- Sociedad Agrícola SACOR Ltda.
 
-16.- Compañía de Teléfonos de Chile S.A.
+16.- Sociedad Transporte Marítimo Chiloé - Aysén Ltda.
 
-17.- Empresa Nacional de Telecomunicaciones S.A.
+17.- Sociedad Agrícola y Servicios Isla de Pascua.
 
-18.- Empresa Nacional del Carbón S.A.
+18.- Sociedad Administradora del Transporte Ltda.
 
-19.- Companía Carbonífera Schwager S.A.
+19.- Corporación de Fomento de la Producción.
 
-20.- Línea Aérea Nacional Chile S.A.
+20.- Servicio de Cooperación Técnica.
 
-21.- Industria Azucarera Nacional S.A.
+21.- Instituto Forestal.
 
-22.- Sociedad Agricola SACOR Ltda.
+22.- Instituto de Fomento Pesquero.
 
-23.- Sociedad Transporte Maritimo Chiloé - Aysén Ltda.
+23.- Instituto de Investigaciones Tecnológicas
 
-24.- Sociedad Agrícola y Servicios Isla de Pascua.
+24.- Instituto Nacional de Normalización.
 
-25.- Complejo Forestal y Maderero Panguipulli.
+25.- Centro de Información de Recursos Naturales.
 
-26.- Corporación de Fomento de la Producción.
+26.- Centro de Investigación Minero y Metalúrgico.
 
-27.- Servicio de Cooperación Técnica.
+27.- Comercializadora de Trigo S.A. "COTRISA".
 
-28.- Instituto Forestal.
+28.- Dirección General de Metro.
 
-29.- Instituto de Fomento Pesquero.
+29.- Dirección de Aprovisionamiento del Estado.
 
-30.- Instituto de Investigaciones Tecnológicas.
+30.- Dirección General de Crédito Prendario.
 
-31.- Instituto Nacional de Normalización.
+31.- Dirección General de Deportes y Recreación.
 
-32.- Instituto Nacional de Capacitación Profesional.
+32.- Dirección de Bibliotecas, Archivos y Museos.
 
-33.- Centro de Información de Recursos Naturales.
+33.- Junta de Administración y Vigilancia Zona Franca de Iquique.
 
-34.- Centro de Investigación Minero y Metalúrgico.
+34.- Empresa Nacional de Aeronática,
 
-35.- Dirección General de Metro.
+35.- Astilleros y Maestranzas de la Armada.
 
-36.- Dirección de Aprovisionamiento del Estado.
+36.- Fábrica y Maestranza del Ejército.
 
-37.- Dirección General de Crédito Prendario.
+37.- Departamento Bienestar Dirección General de Aeronáutica Civil,
 
-38.- Dirección General de Deportes y Recreación.
+38.- Servicio Bienestar Social de la Armada
 
-39.- Dirección de Bibliotecas, Archivos y Museos .
+39.- Dirección de Bienestar de Carabineros.
 
-40.- Empresa Nacional de Aeronáutica.
+40.- Carabineros de Chile, Imprenta
 
-41.- Astilleros y Maestranzas de la Armada.
+41.- Servicio de Bienestar del Magisterio.
 
-42.- Junta de Administración y Vigilancia Zona Franca de Iquique.
+42.- Servicio Bienestar de la Superintendencia de Valores y Seguros
 
-43.- Caja Central de Ahorros y Préstamos.
+43.- Comando de Industria Militar e Ingeniería
 
-44.- Departamento Bienestar Dirección General Aeronáutica Civil.
+B.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1991.
 
-45.- Servicio Bienestar Social de la Armada.
+44.- Municipalidad de Santiago.
 
-46.- Dirección de Bienestar de Carabineros.
+45.- Municipalidad de Las Condes.
 
-47.- Carabineros de Chile, Imprenta.
+46.- Municipalidad de Machalí.
 
-48.- Servicio de Bienestar del Magisterio.
+47.- Municipalidad de Viña del Mar
 
-49.- Servicio Bienestar de la Superintendencia de Valores y Seguros.
+48.- Municipalidad de Providencia
 
-50.- Comercializadora de Trigo S.A.
+49.- Municipalidad de Peñalolén
 
-51.- Sociedad Administradora de Créditos de Transporte Ltda. "SACRETLTDA".
+50.- Municipalidad de Cerro Navia
 
-52.- Empresa Eléctrica de Magallanes S.A. "EDELMAG S.A.".
+51.- Municipalidad de Lo Prado
 
-53.- Empresa Eléctrica de Aysén S.A. "EDELAYSEN S.A.".
+52.- Municipalidad de Pudahuel
 
-54.- Municipalidad de Santiago.
+53.- Municipalidad de Estación Central
 
-55.- Municipalidad de Las Condes.
+54.- Municipalidad de La Cisterna
 
-56.- Municipalidad de Machalí.
+55.- Municipalidad de San Joaquín
 
-57.- Municipalidad de Viña del Mar.
+56.- Municipalidad de Rancagua
 
-58.- Municipalidad de Providencia.
+57.- Municipalidad de Arica
 
-59.- Municipalidad de Peñalolén.
+58.- Municipalidad de Valparaíso
 
-60.- Municipalidad de Cerro Navia.
+59.- Municipalidad de Renca.
 
-61.- Municipalidad de Lo Prado.
+60.- Municipalidad de Maipú.
 
-62.- Municipalidad de Pudahuel.
+61.- Municipalidad de San Bernardo
 
-63.- Municipalidad de Estación Central.
+62.- Municipalidad de Talagante
 
-64.- Municipalidad de La Cisterna.
+63.- Municipalidad de Ñuñoa
 
-65.- Municipalidad de San Joaquín.
+64.- Municipalidad de Quinta Normal
 
-66.- Municipalidad de Rancagua.
+65.- Municipalidad de Macul
 
-67.- Municipalidad de Arica
+66.- Municipalidad de Puerto Montt
 
-68.- Municipalidad de Renca.
-
-69.- Municipalidad de Maipú.
-
-70.- Municipalidad de San Bernardo.
-
-71.- Municipalidad de Valparaíso.
-
-B.- INSTITUCIONES CUYA AUTORIZACIÓN RIGE HASTA EL 19 DE JULIO DE 1990.
-
-1.- Instituto de Investigaciones Tecnológicas.
-
-### 2. Municipalidad de Las Condes
-
-### 3. Municipalidad de Machalí
-
-### 4. Municipalidad de Viña del Mar
-
-### 5. Municipalidad de Providencia
-
-### 6. Municipalidad de Peñalolén
-
-### 7. Municipalidad de Cerro Navia
-
-### 8. Municipalidad de Lo Prado
-
-### 9. Municipalidad de Pudahuel
-
-### 10. Municipalidad de Estación Central
-
-### 11. Municipalidad de La Cisterna
-
-### 12. Municipalidad de San Joaquín
-
-### 13. Municipalidad de Rancagua
-
-### 14. Municipalidad de Arica
-
-### 15. Municipalidad de Renca
-
-### 16. Municipalidad de Maipú
-
-### 17. Municipalidad de San Bernardo
-
-### 18. Municipalidad de Quillota
+67.- Municipalidad de Melipilla.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
