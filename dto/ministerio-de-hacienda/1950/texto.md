@@ -76,6 +76,8 @@ d.- Copia de la Licencia para conducir vehículos motorizados.
 
 En la mencionada licencia debe constar, con arreglo a las disposiciones de la Ley N° 18.290, la exigencia especial que afecta a su titular.
 
+En los casos en que para consignar en la licencia de conducir la restricción especial que afecta a su titular, sea necesario que la persona lisiada se encuentre previamente en posesión de un vehículo especialmente adaptado a su incapacidad, bastará un certificado otorgado por el Departamento del Tránsito y Transporte Público Municipal respectivo, en el que se exprese que la persona lisiada a la cual se refiere dicho instrumento, tiene aptitudes para conducir un vehículo adaptado a su incapacidad
+
 e.- Declaración jurada otorgada ante Notario, en que se deje constancia el número de veces anteriores en que se ha hecho uso de la franquicia a que se refiere este reglamento.
 
 f.- Las personas que anteriormente se hubieren acogido a la franquicia, deberán acompañar documentos que acrediten en forma fehaciente la fecha de la última importación de su vehículo.
