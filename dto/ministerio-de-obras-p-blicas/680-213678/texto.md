@@ -1,0 +1,3 @@
+Por decreto MOP Nº 680 de fecha 30 de junio del 2003, se expropió el lote de terreno Nº 71-B, superficie 5.726 m², Rol en trámite, comuna de Pelluhue, VII Región para la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Límite Regional, Tramo Km. 18,260.00 al 35,158.60 y se acordó el valor de indemnización con su propietario Juan de la Cruz Vega Leal, ascendente a la cantidad de $17.262.879.
+
+- Fiscal del Ministerio de Obras Públicas.
