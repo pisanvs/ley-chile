@@ -1,0 +1,5 @@
+MODIFICA ORDENANZA LOCAL SOBRE DERECHOS MUNICIPALES POR CONCESIONES, PERMISOS O SERVICIOS
+
+Se pone en conocimiento del público de la comuna de Colina que, por acuerdo Nº 152/2004 del Honorable Concejo Municipal, adoptado en sesión ordinaria Nº 22, de fecha 25 de noviembre de 2004, se aprobó modificar la "Ordenanza Local sobre Derechos Municipales por Concesiones, Permisos o Servicios", la que entrará en vigencia a contar del 01 de enero de 2005. Por decreto alcaldicio Nº E-1729/04 de fecha 28 de diciembre de 2004, se aprobó el texto refundido de la ordenanza señalada precedentemente, la cual está caratulada Ordenanza Nº 009/04. A contar de esta fecha y por el plazo de 30 días, el texto de esta ordenanza se encontrará a la vista y disposición del público en la Oficina de Partes, donde podrá ser solicitado de lunes a viernes de 8:30 a 14:00 horas.
+
+Mario Olavarría Rodríguez, Alcalde.
