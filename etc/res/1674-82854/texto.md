@@ -1,0 +1,3 @@
+Por Resolución Nº 1.674, de 9 de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 1.442, de 1990, de esta Subsecretaría, que autorizó a BENEDICTO ALFREDO RUMILLANCA CANIHUANTE, para operar un vivero ubicado en Cantera de Niebla, Ribera Norte del Río Valdivia, comuna y provincia de Valdivia, X Región, en virtud del fallecimiento de su titular.
+
+Valparaíso, 9 de diciembre de 1997.- Juan Manuel Sánchez, Subsecretario de Pesca.
