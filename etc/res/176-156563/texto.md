@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD COMERCIAL Y DE INVERSIONES SAN JOSE LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 176, de 20 de Febrero de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Comercial y de Inversiones San José Lida., domiciliada en Santiago, para operar una planta elaboradora de recursos hidrobiológicos en Antofagasta calle Cautín 6987, en las líneas de conserva, congelado fresco-enfriado, ahumado y seco-salado, en la que podrá utilizar como materia bacalao de Juan Fernandez y bacalao de profundidad, ademas, de las especificadas en la Resolución No. 502 ampliada por la No. 570 ambas de 1985. Los mismos recursos podrá utilizarlos en la planta que opera en Pedro A. Cerda No. 5921 de Antofagasta. La interesada debera efectuar el transporte de las especies desde su centro de abastecimiento hasta las plantas elaboradoras en medios dotados de sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 20 de Febrero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
