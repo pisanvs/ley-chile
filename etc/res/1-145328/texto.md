@@ -20,9 +20,7 @@ b) De uso mixto, para pasajeros y carga ocasional, con un máximo de seis asient
 
 c) La carrocería debe formar un solo cuerpo entre la cabina del conductor y la caja de carga, la cual debe estar montada sobre chassis (bastidor); y contar con dos puertas laterales y una trasera completa.
 
-d) Altura mínima desde el suelo a la parte baja del diferencial, 19cm.
-
-e) Estar equipado con dos de los siguientes elementos:
+d) Altura mínima desde el suelo a la parte baja del diferencial, 19cm. e) Estar equipado con dos de los siguientes elementos:
 
 (1) Barra de tiro o ganchos, argollas o bolas para remolque, ya sean delanteras o traseras.
 
@@ -40,7 +38,7 @@ a) Vehículo para transporte de mercancías, provisto de dos puertas delanteras 
 
 b) La caja de carga debe formar un solo cuerpo con el sector del conductor, cerrada por sus costados en un solo panel, sin vidrios (ni su alojamiento predispuesto), ni asientos traseros; con puertas que permitan la carga y descarga de las mercancías que transportan.
 
-La condición exigida, que la caja de carga forme un solo cuerpo con el sector del conductor, se refiere a que la carrocería sea unitaria, es decir, que esté formada por dos partes totalmente separadas, como acontece por ejemplo, con las camionetas Pick-up; de manera tal, que la colocación de una división intermedia entre el espacio destinado a las mercancías y los asientos del chofer y acompañante, en nada afecten la forma de la carrocería propiamente tal, que sigue siendo de fabricación unitaria.
+La condición exigida, que la caja de carga forme un solo cuerpo con el sector del conductor, se refiere a que la carrocería sea unitaria, es decir, que no esté formada por dos partes totalmente separadas, como acontece por ejemplo, con las camionetas Pick-up; de manera tal, que la colocación de una división intermedia entre el espacio destinado a las mercancías y los asientos del chofer y acompañante, en nada afecten la forma de la carrocería propiamente tal, que sigue siendo de fabricación unitaria.
 
 Se excluirán de la presente definición, los vehículos similares, de automóviles o station wagon.
 
