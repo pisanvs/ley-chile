@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 51, DE 2004
+
+Por resolución Nº 51, de fecha 29 de julio de 2004, del Ministerio de Transportes y Telecomunicaciones, se aprobaron las Bases de Licitación Pública Internacional para la "Adquisición e Instalación de Equipamiento para Pruebas de Emisiones de Vehículos Livianos y Medianos", en el Centro de Control y Certificación Vehicular (CV) de la Subsecretaría de Transportes realizándose el llamado a través del Sistema de Compras y Contrataciones Públicas con el I.D. Nº 727-176-LP04. Por resolución Nº 26, de fecha 21 de enero de 2005, se declaró desierta dicha Licitación Pública por haber sido descalificados los proponentes conforme a lo expuesto en el "Acta de Recepción y Apertura de Propuestas Técnicas" de fecha 10 de enero de 2005 y en el "Acta de Apertura de las Propuestas Financieras", de fecha 18 de enero de 2005, respectivamente, y se ordenó llamar a nueva propuesta pública y publicar en extracto esta última resolución una vez totalmente tramitada.
+
+- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
