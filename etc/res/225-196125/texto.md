@@ -1,0 +1,3 @@
+Por resolución Nº225, de 25 de enero de 2002, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Tomé-Quichiuto, VIII Región, individualizada en el artículo 1º Nº2 del DS Nº473 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS, AYUDANTES DE BUZOS, PESCADORES ARTESANALES Y ALGUERAS DE LAS CALETAS DE TOME Y QUICHIUTO.
+
+Valparaíso, 25 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
