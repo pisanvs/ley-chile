@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº326, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº40, superficie 3.306,24 m², rol de avalúo 248-87, comuna de Salamanca, para la obra Canal Alimentador, Km. 0,000,00 a Km. 15,084,59 Proyecto "Estudio de Factibilidad y Diseño del Embalse Corrales y sus Obras Complementarias" y se acordó el valor de indemnización con su propietario José Nivitencio Díaz Núñez o José Nivitencio Días Núñez, ascendente a la cantidad de $2.609.735.
+
+Fiscal del Ministerio de Obras Públicas.
