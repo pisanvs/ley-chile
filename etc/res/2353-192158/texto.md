@@ -1,0 +1,3 @@
+Por resolución Nº 2.353 de 19 de noviembre de 2001 de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA QUINTERO LTDA., para ampliar actividades pesqueras extractivas con la nave "Elbe", con el arte de pesca espinel, en el área marítima comprendida entre la I y III Regiones, por fuera del área de reserva artesanal, sobre Reineta Brama australis.
+
+Valparaíso, 19 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
