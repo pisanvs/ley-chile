@@ -1,0 +1,3 @@
+Por decreto MOP Nº 362 de fecha 30 de abril del 2004, se expropió el lote de terreno Nº 158, superficie 298 m², Rol Nº 32-516, comuna de Pichidegua, VI Región para la obra "Camino Colchagua - Pichidegua, Sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", y se acordó el valor de indemnización con su propietario Víctor Manuel Dinamarca Araya, ascendente a la cantidad de $3.664.231.-
+
+Fiscal del Ministerio de Obras Públicas.
