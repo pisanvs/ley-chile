@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.069, de 29 de junio de 2001, se expropió el lote de terreno Nº12-B, superficie 3.430 m², rol de avalúo 866-50, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Tramo 1, Quinta Región y se acordó el valor de indemnización con su propietario Sergio Díaz Sagredo, ascendente a la cantidad de $39.276.800.-
+
+Fiscal del Ministerio de Obras Públicas.
