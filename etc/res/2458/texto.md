@@ -1,0 +1,3 @@
+Por resolución Nº2.458, de 21 de diciembre de 1999, de esta Subsecretaría, autorízase a JORGE DE JESUS ARANGUIZ TORO, para iniciar actividades pesqueras de transformación en orden a operar una planta ubicada en calle Presidente Alessandri s/nº, Queilén, provincia de Chiloé, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-refrigerado y Congelado: Chorito y Erizo.
+
+Valparaíso, 21 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
