@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.983, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº106, superficie 357 m², rol de avalúo 8-11, comuna de Río Hurtado, para la obra ''Camino Ruta D-595, Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Km. 9.780,00 a Km. 31.840,00, Etapa III'' y se acordó el valor de indemnización con su propietaria Guillermina del Carmen Taiba Pizarro, ascendente a la cantidad de $562.576.
+
+Fiscal del Ministerio de Obras Públicas.
