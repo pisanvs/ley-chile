@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN CAMBIO SUJETO IVA A IMPREGNADORA DE PRODUCTOS FORESTALES LTDA.
+
+La Dirección Regional Talca del S.I.I., por Resolución N° Ex. 00344 de 27 de Noviembre de 1996, excepciona a contar del 1° del mes siguiente al de esta publicación, a Impregnadora de Productos Forestales Ltda., RUT N° 78.317.820-6, del régimen de cambio de sujeto del IVA establecido en la Resolución N° Ex. 4325 de 12 de Septiembre de 1996, de la Dirección Nacional, publicada en el Diario Oficial del día 17 de Septiembre de 1996.
