@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 566, de 29 de abril de 1998, se expropió el lote de terreno Nº 3, superficie 184 m2, rol de avalúo 174-28, comuna de Yerbas Buenas, para la obra Camino L-31, Polvorines-San Juan Queri, sector Puente La Barra y se acordó precio de la indemnización con su propietaria Dora del Carmen Silva Letelier y otra, ascendente a la cantidad de $ 239.242.-
+
+Fiscal del Ministerio de Obras Públicas.
