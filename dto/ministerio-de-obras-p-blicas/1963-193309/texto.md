@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.963 de 30 de noviembre del 2001, se expropió el lote de terreno Nº24, superficie 257 m2, rol de Avalúo 104-423, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar Tramo 6A 1: Kms.31.430,00 al 33.260,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Ramón Apolinario González Moreno, ascendente a la cantidad de $13.322.766.
+
+- Fiscal del Ministerio de Obras Públicas.
