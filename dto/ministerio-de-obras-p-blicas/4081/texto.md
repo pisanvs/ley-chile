@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.081, de 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs. 206, superficies 283 m2 y 26.953 m2., rol de avalúo 123-12, comuna de Punitaqui, para la obra Concesión Internacional Ruta 5. Tramo Los Vilos-La Serena, Sector C, Mantos de Hornillos, Cuarta Región y se acordó el valor de indemnización con su propietaria Inversiones e Inmobiliaria El Arrayán S.A., ascendente a la cantidad total de $3.451.363.
+
+Fiscal del Ministerio de Obras Públicas.
