@@ -1,0 +1,5 @@
+Por Resolución Nº 1.642, de 1º de diciembre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de las Resoluciones Nº 3, de 1986, Nº 961, de 1991 y Nº 1.208 de 1994, todas de esta Subsecretaría, que autorizaron a Pesquera Mar Profundo Ltda., hoy PESQUERA MAR PROFUNDO S.A., para desarrollar actividades pesqueras extractivas con la nave "Génesis", en lo relativo a las especies: Agujilla, Anchoveta, Bonito, Caballa, Cabinza, Cojinoba del norte, Jurel, Machuelo, Merluza de cola, Palometa, Sardina española, Sardina común y Sierra.
+
+En el litoral de la IV Región, en virtud de no haber operado sobre estas especies de conformidad a lo dispuesto en el artículo 143 letra b) de la Ley Nº 18.892 de 1989, esto es, por no haber realizado actividades pesqueras extractivas por dos años consecutivos, a contar del 9 de enero de 1995, fecha de publicación en el Diario Oficial del extracto de la última Resolución que por el presente acto se caduca.
+
+Valparaíso, 1º de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
