@@ -1,0 +1,11 @@
+Pago de la cuota de un empréstito
+
+Adjunto a V. S. el oficio original, que en virtud de otro pasado por esta junta comisionada a don Francisco Amor i Ovalle, contesta; i siendo mi primer deber, i de todo magistrado de un pais libre recomendar el mérito, i virtudes cívicas de los ciudadanos que se hallan bajo su mando, he creido de mi obligacion elevar a S. E. por el conducto de V. S. este documento comprobante de la adhesion del ciudadano que lo suscribe, para que si lo tuviere a bien lo mande a publicar en la Gazeta Ministerial, i que por este medio se trasmita no solo a las naciones que nos observan, sino a la feliz posteridad con la edicion que este es el mas pequeño sacrificio que ha hecho en el discurso de nuestra lucha con los Caribes de ultramar.
+
+Dios guarde a V. S. muchos años. Casa Blanca, 2 de Setiembre de 1819. - Lorenzo Montt - Señor Ministro de Estado en el Departamento de Gobierno.
+
+Santiago, Noviembre 5 de 1819.- Imprímase esta nota i la que se acompaña. - O'Higgins. - Cruz.
+
+Es en mi poder la nota de VV. fecha 26 del que rije, en que se sirven transcribirme lo decretado por esa comision, a efecto de que de esa provincia se estrajese un empréstito de 2,000 pesos distribuidos entre los vecinos pudientes de ella; todo por su suprema disposicion, i de acuerdo con el Excmo. Senado como VV. me anuncian. A mí se me han impuesto 400 pesos por rateo proporcional, cuya cantidad estoi prontísimo a suministrar dentro del término designado. Conozco que el objeto que motiva esta construccion es tan alto i justo, como el deseo que tenemos los verdaderos americanos de sacudir de un golpe el yugo opresor que por tantas centurias nos ha abrumado, i que sin pasar por éstos, i aun por mayores sacrificios jamas llegaremos a la sublime esfera de hombres libres. - En este concepto repito la satisfaccion que me complace en suministrar la parte que me ha correspondido, i que me pondré en breves dias a disposicion de VV.
+
+Dios guarde a VV. muchos años.- Valparaiso, i Agosto 31 de 1819. - Francisco Amor i Ovalle - Señor Presidente i Vocales de la comision provisoria de esta provincia don Lorenzo Montt, don Pedro Noya Fontecilla, i don Juan de Dios Ojeda.
