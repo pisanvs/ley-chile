@@ -1,0 +1,5 @@
+Por resolución Nº560, de 15 de marzo de 2002, de esta Subsecretaría, deniégase la autorización solicitada por PESQUERA CHILESUR S.A., para ampliar plazo de inicio de actividades pesqueras de transformación con una planta ubicada en Pedro Aguirre Cerda Nº 991, Coronel, VIII Región, en virtud que los hechos invocados por la peticionaria no fueron debidamente acreditados y no califican como constitutivos de fuerza mayor, según artículo 7 del DS Nº175 de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Déjase sin efecto las resoluciones Nº1.637 de 1999 y Nº2.639 de 2000, ambas de esta Subsecretaría, que autorizaron a la peticionaria a realizar actividades pesqueras de transformación con la planta ya individualizada, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 15 de marzo de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
