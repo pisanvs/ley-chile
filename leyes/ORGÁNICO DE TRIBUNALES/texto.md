@@ -5732,4 +5732,8 @@ Continuarán, también, en su cargo las personas que en esa fecha formaban parte
 
 Tampoco se aplicará el artículo 1324 del Código Civil, modificado por la ley 6985 de 10 de Julio de 1941, a las designaciones de partidores hechas en instrumentos públicos o testamentos otorgados con anterioridad a la vigencia de dicha ley. Podrán también prorrogarse sus funciones.
 
+#### Artículo 16
+
+Cuando se implementen modificaciones a los sistemas de enjuiciamiento que impliquen la creación de nuevos cargos de jueces, se entenderá que los postulantes de la cuarta, quinta o sexta categoría del Escalafón Primario del Poder Judicial cumplen con los requisitos establecidos en la letra b), del artículo 284, del Código Orgánico de Tribunales, para ser incorporados en las ternas respectivas, los que serán elegidos de conformidad a lo establecido en el inciso primero del artículo 281.
+
 Santiago, quince de Junio de mil novecientos cuarenta y tres. - J. A. RIOS M. -Oscar Gajardo V.
