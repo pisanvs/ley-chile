@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.525, de 10 de junio de 1999, se modificó el decreto MOP Nº526, de 31 de octubre de 1994, que expropió entre otros el lote de terreno Nº105, para la obra Camino Lo Orozco Quilpué, que figura a nombre de Julio Aris Navarro, rol de avalúo 3455-7, Comuna de Quilpué, V Región, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $91.250, por haber quedado sin efecto el convenio directo de precio suscrito con el expropiado. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
