@@ -1,0 +1,3 @@
+Por decreto MOP Nº836, de 30 de abril del 2002, se expropió el lote de terreno Nº2, superficie 7740 m2, rol de avalúo 460-86, comuna de Retiro, para la obra Concesión Internacional Ruta 5. Tramo: Talca Chillán Sector: Km. 325.760,00 al 326.140,00, Quinta Región y se acordó el valor de indemnización con su propietario Marcelino Norambuena Acuña, ascendente a la cantidad de $22.273.861.- para el lote Nº2.
+
+Fiscal del Ministerio de Obras Públicas .
