@@ -10158,19 +10158,7 @@ Un procedimiento similar al descrito en el párrafo precedente, se seguirá en e
 
 Las inversiones financieras se registrarán en las partidas, cuentas y subcuentas que se disponen para el efecto en el Anexo N° 1 de este Capítulo.
 
-Al tratarse de inversiones en documentos expresados en moneda extranjera pagaderos en moneda chilena, las adquisiciones se registrarán en la siguiente forma:
-
-a) En moneda extranjera.
-
-Debe: - La cuenta de inversiones financieras que corresponda, por el importe en moneda extranjera equivalente al valor de adquisición, calculado según el tipo de cambio de representación contable informado por esta Superintendencia vigente a la fecha de la compra.
-
-Haber: - "Conversión por inversiones registradas en moneda extranjera", de la partida 4510.
-
-b) En moneda chilena.
-
-Debe: - "Cambio inversiones registradas en moneda extranjera", de la partida 2510.
-
-Haber: - La cuenta que corresponda por el importe pagado en la adquisición.
+Al tratarse de inversiones en documentos expresados en moneda extranjera pagaderos en moneda chilena, las inversiones se registrarán en pesos, debiendo reajustarse de acuerdo con la variación que experimente el tipo de cambio que se expresa en el respectivo documento, salvo en el caso de los Certificados de Depósito expresados en dólares de los Estados Unidos de América - Acuerdo 1649-01-850524, los que deben mantenerse registrados en moneda extranjera, solucionando los importes por rescates o sustituciones, cuando corresponda, contra la cuenta "Conversión cartera de colocaciones en moneda extranjera vendida al Banco Central de Chile", de la partida 2510.
 
 7.3. Reajustes e Intereses.
 
@@ -10180,9 +10168,9 @@ El valor de compra de cada instrumento se incrementará por el devengo de los re
 
 Cuando se trate de documentos con tasa nominal flotante, se ajustará periódicamente la tasa de compra considerando los nuevos flujos en relación con el valor contable registrado antes de la variación de la tasa nominal.
 
-7.3.2. Inversiones registradas en moneda extranjera que devenguen intereses en moneda chilena.
+7.3.2. Certificados de depósito expresados en dólares de los Estados Unidos de América.- Acuerdo N° 1649.
 
-En el caso de las inversiones financieras registradas en moneda extranjera y que correspondan a documentos expresados en moneda extranjera y pagaderos en pesos, los intereses deberán abonarse en moneda chilena a las respectivas cuentas de ingresos, pero incrementando en moneda extranjera la cuenta en que se registra la inversión.
+En el caso de las inversiones correspondientes a los certificados de depósito expresados en moneda extranjera y pagaderos en pesos que se adquirieron en su oportunidad conforme al Acuerdo N° 1649-01-850524 del ex-Comité Ejecutivo del Banco Central de Chile, los intereses deberán abonarse en moneda chilena a la respectiva cuenta de ingresos, pero incrementando en moneda extranjera la cuenta en que se registra la inversión.
 
 Para este efecto, las instituciones financieras contabilizarán los intereses devengados de la siguiente forma:
 
@@ -10190,17 +10178,13 @@ a) En moneda extranjera.
 
 Debe: - La cuenta de inversiones financieras que corresponda, por los intereses calculados en moneda extranjera.
 
-Haber: - "Conversión por intereses de inversiones registradas en moneda extranjera", de la partida 4510.
+Haber - "Conversión cartera de colocaciones en moneda extranjera vendida al Banco Central de Chile", de la partida 2510.
 
 b) En moneda chilena.
 
-Debe: - "Cambio intereses de inversiones registradas en moneda extranjera", de la partida 2510.
+Debe: - "Cambio cartera en moneda extranjera vendida al Banco Central de Chile", de la partida 4510.
 
-Haber: - La cuenta de ingresos que corresponda por los intereses devengados.
-
-El equivalente de la respectiva moneda extranjera se calculará según el último tipo de cambio de representación contable informado por esta Superintendencia. La cuenta "Cambio intereses de inversiones registradas en moneda extranjera" se ajustará contra las respectivas cuentas de intereses ganados, lo que implica reconocer en la cuenta de ingresos tanto el efecto de la variación del tipo de cambio sobre los intereses que ya hayan sido imputados anteriormente a la cuenta "Conversión por intereses de inversiones registradas en moneda extranjera", como el equivalente de los intereses que incrementen el saldo de esta última cuenta.
-
-Las instrucciones de este numeral se refieren sólo al tratamiento de las inversiones en documentos expresados en moneda extranjera y pagaderos en moneda chilena. En el caso de documentos pagaderos en moneda extranjera, como por ejemplo, los pagarés de que trata el Capítulo IV.B.9 del Compendio de Normas Financieras del Banco Central de Chile o las inversiones en instrumentos financieros emitidos en el exterior, los intereses se imputarán en moneda extranjera en la respectiva cuenta de ingresos.
+Haber: - La cuenta de ingresos que corresponda por los intereses devengados, calculados según el tipo de cambio informado por esta Superintendencia.
 
 7.3.3. Cuentas que se utilizarán.
 
@@ -10406,39 +10390,31 @@ Las provisiones que se mantuvieren al 31 de diciembre de 1991 sobre las inversio
 
 Los saldos por las operaciones de compra con pacto de instrumentos financieros se traspasarán a las respectivas cuentas de capital, reajustes e intereses de la partida 1690 6 1695, debiendo quedar registrados en esas cuentas los importes calculados a la fecha del traspaso para cada operación de crédito. Las eventuales diferencias que se produzcan entre los saldos netos registrados antes de esos traspasos y los importes que quedarán imputados a las nuevas cuentas, se llevarán a resultados como diferencias de precio. Simultáneamente, deberán registrarse los instrumentos adquiridos con pacto, en las cuentas de orden de la partida 9261. Los saldos de las operaciones de venta con pacto se traspasarán a las nuevas cuentas de capital, reajustes e intereses, de manera tal que en ellas queden registrados los importes calculados para cada operación de captación a la fecha del traspaso y las diferencias que existan se lleven a los resultados, como diferencias de precio.
 
+13.4. Pagarés del Banco Central de Chile Capítulo XIX expresados en dólares de los EE.UU. y pagaderos en pesos.
+
+Hasta el 31 de diciembre de 1991 todas las inversiones en instrumentos expresados en moneda extranjera y pagaderos en pesos deberán mantenerse registradas en moneda extranjera, debiendo ajustarse las respectivas cuentas "Cambio" de acuerdo con el tipo de cambio informado por esta Superintendencia.
+
+En el caso de las inversiones en pagarés expresados en dólares emitidos por el Banco Central de Chile de que trata el Anexo 1 del Capítulo XIX del Titulo I de su Compendio de Normas de Cambios Internacionales, que son rescatados de acuerdo con el tipo de cambio a que se refiere el N° 7 del Capítulo I de ese Título, el ajuste a valor de mercado se realizará por la diferencia entre el valor de la inversión expresada en pesos al tipo de cambio de representación contable informado por la Superintendencia y el valor de mercado de los instrumentos expresado en pesos según el tipo de cambio al cual se rescatan los pagarés.
+
 ANEXO N° 1
 
-CUENTAS PARA LAS INVERSIONES FINANCIERAS.
+CUENTAS PARA LAS INVERSIONES FINANCIERAS
 
 Código
 
 1705 000 00 DOCUMENTOS EMITIDOS POR EL BANCO CENTRAL DE CHILE CON MERCADO SECUNDARIO.
 
-1705 101 00 Pagares de corto plazo del Banco Central con mercado secundario.
-
-1705 102 00 Pagares de largo plazo del Banco Central con mercado secundario.
+1705 101 00 Documentos del Banco Central con mercado secundario.
 
 1706 000 00 DOCUMENTOS EMITIDOS POR EL BANCO CENTRAL DE CHILE SIN MERCADO SECUNDARIO.
 
 1706 001 00 Documentos del Banco Central intransferibles.
 
-1706 001 01 - Pagares expresados en dólares de los EE.UU (IV.B.10).
+1706 002 00 Documentos del Banco Central transferibles sólo entre IF
 
-1706 001 02 - Certificados de depósitos en dólares - Acuerdo 1649.
+1706 003 00 - Pagarés Capitulo XVIII (Cupos-DB)
 
-1706 001 99 - Otros instrumentos del Banco Central intransferibles.
-
-1706 002 00 Documentos del Banco Central transferibles sólo entre IF.
-
-1706 002 01 - Pagarés de reprogramación (Acdos.1507 ó 1578) obtenidos del Banco Central.
-
-1706 002 02 - Pagarés de reprogramación (Acdos.1507 ó 1578) adquiridos a otras instituciones.
-
-1706 002 99 - Otros documentos del Banco Central transables sólo entre IF.
-
-1706 003 00 - Pagarés Capítulo XVIII (Cupos-DB)
-
-1706 004 00 - Descuentos Pagarés Capítulo XVIII (Cupos-CR)
+1706 004 00 - Descuentos Pagarés Capitulo XVIII (Cupos-CR)
 
 1710 000 00 DOCUMENTOS EMITIDOS POR ORGANISMOS FISCALES.
 
@@ -10458,7 +10434,7 @@ Código
 
 1725 199 00 Otros documentos.
 
-1730 000 00 INVERSIONES EN EL EXTERIOR
+1730 000 00 INVERSIONES EN EL EXTERIOR.
 
 1730 101 00 Bonos u obligaciones no afectas a límite artículo 84 LGB.
 
@@ -10468,21 +10444,19 @@ Código
 
 1735 000 00 OTRAS INVERSIONES FINANCIERAS.
 
-1735 101 00 Instrumentos de propia emisión.
+1735 101 00 Letras de crédito de propia emisión.
 
-1735 001 01 - Letras de crédito
+1735 102 00 Bonos de propia emisión.
 
-1735 001 02 - Bonos
+1735 103 00 Bonos o debentures.
 
-1735 102 00 Bonos o debentures.
+1735 104 00 Inversiones en oro.
 
-1735 103 00 Inversiones en oro.
-
-1735 104 00 Cuotas de fondos mutuos de renta fija.
+1735 105 00 Cuotas de fondos mutuos de renta fija.
 
 1735 199 00 Otras inversiones financieras.
 
-NOTA: Las cuentas para registrar los instrumentos cedidos con pacto de retrocompra se indican en el Anexo N° 2 de este Capítulo.
+NOTA: Las cuentas para registrar los instrumentos cedidos con pacto de retrocompra se indican en el Anexo N° 2 de este Capitulo.
 
 ANEXO N° 2
 
@@ -10550,9 +10524,7 @@ Código
 
 5145 004 00 Intereses pagados por ventas con pacto a terceros de otras inversiones financieras.
 
-b) Por los reajustes:
-
-Código
+b) Por los reajustes.
 
 5345 000 00 OBLIGACIONES POR PACTOS DE RETROCOMPRA.
 
@@ -10564,31 +10536,27 @@ Código
 
 5345 004 00 Reajustes pagados por ventas con pacto a terceros de otras inversiones financieras.
 
-C)TITULOS CEDIDOS.
-
-Código
+C) TITULOS CEDIDOS.
 
 1740 000 00 INVERSIONES FINANCIERAS INTERMEDIADAS.
 
 1740 101 00 Documentos con mercado secundario.
 
-1740 101 01 - Pagarés de corto plazo Banco Central.
+1740 101 01 - Documentos del Banco Central de Chile.
 
-1740 101 02 - Pagarés de largo plazo Banco Central.
+1740 101 02 - Pagarés Tesorería General de la República.
 
-1740 101 03 - Pagarés Tesorería General de la República.
+1740 101 03 - Bonos otros Organismos Fiscales.
 
-1740 101 04 - Bonos otros Organismos Fiscales.
+1740 101 04 - Documentos emitidos por otras instituciones financieras del pais.
 
-1740 101 05 - Documentos emitidos por otras instituciones financieras del país.
-
-1740 101 06 - Bonos o debentures.
+1740 101 05 - Bonos o debentures.
 
 1740 101 99 - Otros documentos con mercado secundario.
 
-1740 102 00 - Documentos sin mereado secundario.
+1740 102 00 - Documentos sin mercado secundario.
 
-### II. COMPRAS CON PACTO DE RETROCOMPRA
+II.- COMPRAS CON PACTO DE RETROCOMPRA
 
 A) ACTIVO.
 
