@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.459, de 31 de agosto de 1998, se expropiaron los lotes de terreno Nºs. 48, 49 y 50, superficies 217 m2, 10.484 m2. y 5.348 m2., rol de avalúo 20-105, comuna de Calle Larga, para la obra Camino Santiago-Colina-Los Andes, Sector G, By Pass Los Andes, y se acordó el valor de indemnización con su propietario Pereira Herrera Manuel Segundo, ascendente a la cantidad total de $33.216.490.-
+
+Fiscal del Ministerio de Obras Públicas.
