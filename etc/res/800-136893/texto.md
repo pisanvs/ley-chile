@@ -1,0 +1,3 @@
+Por resolución Nº800, de 17 de mayo de 1999, de esta Subsecretaría de Pesca, recházase la solicitud de concesión de acuicultura Nº96103253, presentada por GONZALO ALEJANDRO CAMACHO SANTIBAÑEZ, para operar un centro de cultivo en Sector Norte Punta Coñao, Isla Quinchao, Comuna de Quinchao, Provincia de Chiloé, X Región.
+
+Valparaíso, 17 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
