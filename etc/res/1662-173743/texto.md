@@ -1,0 +1,3 @@
+Por resolución Nº 1.662, de 27 de julio de 2000, de esta Subsecretaría, declárase la caducidad de la resolución Nº 99 de 1990, de esta Subsecretaría, en cuanto autorizó a don SERGIO TORO SOTO, para operar la nave ''Doña Olivia'', por haber suspendido actividades por más de 12 meses sucesivos y encontrarse en mora del pago de la patente única pesquera, configurándose las causales previstas en las letras b) y d) del artículo 143 del DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
