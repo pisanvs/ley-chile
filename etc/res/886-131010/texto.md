@@ -1,0 +1,9 @@
+AUTORIZA A DON JOSE HERNAN SEGUNDO LOYOLA OLIVARES PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 886, de 23 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don José Hernán Segundo Loyola Olivares, R.U.T. No. 5.587.790-4, domiciliado en la ciudad de Caldera, calle Mirador Charito s/n, para iniciar actividades pesqueras, en orden a operar una planta industrial en la III Región, ubicada en sector industrial, Población Manuel Orella, sitio 5, manzana 3, Caldera donde procesará en las líneas de elaboración de Congelado y Seco - salado, los siguientes recursos hidrobiológicos: Albacora, Anchoveta, Azulejo, Bacalao de profundidad, Bonito, Cazón, Cojinoba del Norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos grandes, Tiburón, Merluza común, Mulata, Palometa, Pejegallo, Pejeperro, Pejerrey de mar, Pejesapo, Raya, Sardina española, Tollo, Almeja o taca, Almeja, Calamar, Caracol tegula, Caracol locate, Chocha, Cholga, Chorito, Choro, Lapa, Loco, Macha, Navajuela, Ostión del Norte, Ostra chilena, Ostra del Pacífico, Pulpo, Camarón de río, Camarón nailon, Gamba, Jaiba, Jaiba mora, Langostino amarillo, Langostino colorado, Erizo, Piure.
+
+Deberá adquirir el recurso Ostra del Pacífico de centros de cultivo autorizados.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 23 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
