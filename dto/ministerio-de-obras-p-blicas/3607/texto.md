@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.607, de 30 de noviembre de 1999, se expropiaron los lotes de terreno Nºs 3, 4, 5, 7, 8, 10, 11, 12, 23, 24, 25, 26, 27, 28, 30, 32, 45, 46, 47, 53, 54, 55, 66, 68 y 69 m² respectivamente, roles de avalúo 164-23, 163-21, 164-90, 164-62, 164-62, 164-65, 164-101 y 259-1, comuna de Fresia, X Región, para la obra Camino Fresia-Parga-Llico-Las Cañitas, Rol V-46 y se acordó precio de indemnización con sus propietarios Víctor Gómez Schwerter, Myrian Neumann Barril, Sergio Olavarría Añazco, Herminio Araya Hernández, Nancy Barría Ojeda, César Arriagada Seguel y Sara Etcheberry Molina, ascendente a las cantidades de $987.073, $3.100.850, $858.436, $2.081.837, $2.003.806, $474.972 y $9.588.311.
+
+Fiscal del Ministerio de Obras Públicas.
