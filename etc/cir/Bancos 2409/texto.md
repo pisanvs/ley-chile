@@ -1154,13 +1154,13 @@ Para el adecuado control de los riesgos inherentes a la utilización de estos si
 
 Las instituciones financieras pueden participar, a través de empresas de servicio o con servidores administrados por ellas mismas y con las modalidades de operación convenidas entre las partes, en sistemas de transferencia electrónica de fondos interbancaria.
 
-Los pagos que diariamente deban efectuarse como consecuencia del uso de tales sistemas, sea que se compensen o no previamente las obligaciones recíprocas, deberán resolverse mediante vales de cámara, electrónicos o físicos, según lo previsto en el Reglamento de Cámara de Compensación del Banco Central de Chile.
+Los pagos que diariamente deban efectuarse como consecuencia del uso de tales sistemas, sea que se compensen o no previamente las obligaciones recíprocas, deberán resolverse en definitiva en la cámara de compensación de operaciones interfinancieras de que trata el Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 En ningún caso el sistema de transferencia electrónica de fondos al cual esté adherida una institución, podrá incorporar el canje de documentos, puesto que éste sólo puede realizarse a través de la Cámara de Compensación.
 
 4.- Contabilización de las operaciones efectuadas en horario especial.
 
-Para efectos de su contabilización, los giros, depósitos, pagos y toda otra transferencia electrónica de fondos efectuada con posterioridad a la hora de cierre del horario normal de atención de público (14:00 ó 16:00 horas) de la respectiva institución, como asimismo aquellas realizadas en días sábado, domingo y festivos, deberán quedar registradas en el día hábil bancario siguiente, sin perjuicio de las prelaciones que deben seguirse en las imputaciones a las cuentas de los clientes de las cuales se giran o a las cuales se transfieren fondos.
+Para efectos de su contabilización, los giros, depósitos, pagos y toda otra transferencia electrónica de fondos efectuada con posterioridad a la hora de cierre del horario normal de atención de público (14:00 ó 16:00 horas) de la respectiva institución, como asimismo aquellas realizadas en días sábado, domingo y festivos, deberán quedar registradas en el día hábil bancario siguiente, sin perjuicio de las prelaciones que deben seguirse en las imputaciones a las cuentas de los clientes de las cuales se giran o a las cuales se transfieren fondos. En todo caso, al tratarse de giros de cargo de otras instituciones financieras efectuados a través de cajeros automáticos, la contabilización considerará el horario de corte para la compensación de esas transacciones, según lo previsto en el Capítulo 5-1 de esta Recopilación.
 
 CAPITULO 1-8 (Bancos y Financieras)
 
@@ -3130,7 +3130,7 @@ Se recomienda, sin embargo, a las instituciones financieras que, con el fin de p
 
 Con el mismo objeto antes expresado, conviene que los bancos tampoco acepten depósitos en cheques u otros documentos extendidos a nombre del propio titular de la cuenta o a su orden, cuando su importe exceda de UF 100, salvo que se trate de abonos originados en convenios de pago de remuneraciones. Esta recomendación deriva de la circunstancia de que la apertura de cuentas de ahorro no está sujeta a los requisitos establecidos para la cuenta corriente y, por lo tanto, se presta a un mal uso de ellas por personas inescrupulosas.
 
-A los depósitos que se efectúen en cuentas de ahorro, conformados por cheques y documentos a cargo de bancos de la misma plaza, al igual que los constituidos por instrumentos girados contra oficinas bancarias ubicadas en otras plazas, les son aplicables las disposiciones del Capítulo 3-1 de esta Recopilación de Normas, que establece los plazos de retención obligatoria para los valores en cobro.
+A los depósitos constituidos por documentos les son aplicables las disposiciones sobre valores en cobro, contenidas en el Capituló 3-1 de esta Recopilación.
 
 ### 7. Giros
 
@@ -3918,7 +3918,7 @@ I.- VALES A LA VISTA.
 
 1.- Emisión de vales a la vista.
 
-Los vales a la vista o vales vista que emiten las instituciones financieras por cuenta de terceros, pueden originarse solamente por la entrega de dinero en efectivo por parte del tomador o contra fondos disponibles que mantenga en cuenta corriente o en otra forma de depósito a la vista. Por consiguiente, si se toma el vale vista contra valores en cobro, la institución financiera queda impedida de entregarlo hasta que se cumpla la gestión de cobro del documento con que fue tomado, sin perjuicio de lo indicado en el Capítulo 3-1 de esta Recopilación, en el sentido de proveer los fondos mediante un crédito documentado o liberando la retención cuando el documento en cobro corresponda a alguno de los señalados en el numeral 3.3 de dicho Capítulo.
+Los vales a la vista o vales vista que emiten las instituciones financieras por cuenta de terceros, pueden originarse solamente por la entrega de dinero en efectivo por parte del tomador o contra fondos disponibles que mantenga en cuenta corriente o en otra forma de depósito a la vista. Por consiguiente, si se toma el vale vista contra valores en cobro, la institución financiera queda impedida de entregarlo hasta que se cumpla la gestión de cobro del documento con que fue tomado, salvo que opte por liberar la retención según lo previsto en el Capítulo 3-1 de esta Recopilación.
 
 Las instituciones financieras podrán cobrar comisiones por la emisión de vales a la vista. Cuando establezcan este cobro, deberán anunciarlo mediante avisos que colocarán en un lugar visible de sus oficinas, señalando el importe de la comisión que cobrarán por ese servicio.
 
@@ -4280,7 +4280,7 @@ Conforme a lo establecido en el artículo 6° del Reglamento, los recursos depos
 
 Los importes sujetos a los traspasos de que se trata, corresponderán a los depósitos en efectivo recibidos el día hábil bancario anterior, incluidos los efectuados en horario especial, y los valores de los documentos cuya retención se libere en el día. Ello no es óbice para pactar el traspaso de los depósitos el mismo día en que fueran recibidos, en horario normal.
 
-Los depósitos con documentos quedan sujetos a las disposiciones sobre valores en cobro del Capítulo 3-1 de esta Recopilación Actualizada de Normas. No obstante, las instituciones deben tener presente que si reciben documentos de otras plazas y ellos son rechazados o protestados, el valor que se hubiese liberado y aplicado sin una confirmación del pago de la cobranza, no podrá ser imputado a las cuentas de los titulares.
+Los depósitos con documentos quedan sujetos a las disposiciones sobre valores en cobro del Capítulo 3-1 de esta Recopilación Actualizada de Normas. No obstante, debe tenerse presente que si la institución libera y aplica los importes de documentos depositados que resulten rechazados o protestados, no podrá imputarlos a las cuentas de los titulares.
 
 4.2.- Retenciones de los empleadores.
 
@@ -5060,49 +5060,31 @@ VALORES EN COBRO.
 
 Para los efectos de estas normas, se entiende por "valores en cobro" los importes aún no percibidos de los documentos cuyo pago las instituciones financieras deben obtener mediante una gestión de cobro y que se han recibido como depósitos en cuentas corrientes u otras cuentas de depósito a la vista o a plazo; para la constitución de depósitos documentados con efectos de comercio; por depósitos para boletas de garantía o por un encargo expreso de cobranza.
 
-Por consiguiente, mientras la institución depositaría o mandataria no obtenga el pago de dichos valores, estos no pueden considerarse fondos disponibles para permitir su giro, entregar el producto de la cobranza o los títulos o instrumentos que con esos recursos se emitan.
+Mientras la institución depositaria o mandataria no obtenga el pago de dichos valores, éstos no pueden considerarse fondos disponibles, de modo que el hecho de permitir que un depositante gire los respectivos importes o, en general, el de entregarle a un cliente anticipadamente el importe de una cobranza en curso, como asimismo el acto de entregarle al tomador los títulos o instrumentos emitidos contra valores en cobro, constituye de hecho un crédito concedido por la institución financiera, asociado al reembolso de los respectivos documentos.
 
-El giro o la entrega a que se refiere el párrafo precedente, antes de obtenido el pago de los documentos en cobranza, es un crédito concedido por la entidad financiera asociado al reembolso de los respectivos documentos.
+Las presentes normas incluyen disposiciones relativas a las retenciones aplicables a los depósitos que adquieren el carácter de condicionales por las razones antedichas en el lapso comprendido entre la fecha de su recepción por el banco y la de término del proceso de cobro, en que aún no constituyen fondos disponibles, ya los créditos que las instituciones pueden conceder sobre esos valores durante dicho lapso.
 
-2. Retención aplicable a los depósitos constituidos mediante documentos en cobro.
+2.- Retención aplicable a los depósitos constituidos mediante documentos en cobro.
 
-De acuerdo con lo señalado en el numeral precedente, los depósitos tienen el carácter de condicionales mientras la institución depositaría no obtenga el pago de los valores en cobro, puesto que no representan fondos disponibles.
+Las instituciones financieras se ceñirán a las siguientes instrucciones en relación con los plazos de retención:
 
-Para los fines indicados en el numeral anterior, las instituciones financieras deben considerar los plazos de retención de acuerdo con las siguientes instrucciones:
+2.1.- Documentos a cargo de otras instituciones financieras del país.
 
-2.1. Documentos a cargo de otras instituciones financieras del país.
+En concordancia con las disposiciones sobre canje y cámaras de compensación, los plazos máximos de retención para los valores en cobro que correspondan a cheques y otros documentos de cargo de otras instituciones financieras del país, son los siguientes:
 
-Los plazos de retención para los valores en cobro correspondientes a cheques y otros documentos de cargo de otras instituciones financieras del país, serán los siguientes:
+a) El mismo día en que se efectúe el depósito y durante el siguiente día hábil bancario hasta el término del proceso de la segunda reunión de la cámara de compensación, para los depósitos efectuados con documentos de cargo de otras instituciones financieras de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago.
 
-a) El mismo día en que se efectúe el depósito y durante el día siguiente hábil bancario hasta el término del proceso de la tercera reunión de la cámara de compensación, para los depósitos efectuados con documentos de cargo de otras instituciones financieras de la misma plaza o de una plaza distinta perteneciente a la misma agrupación, como asimismo para aquellos documentos en moneda extranjera pagaderos en otras plazas que sean presentados para su pago en la cámara de compensación de Santiago.
+b) El mismo día en que se efectúe el depósito y hasta el término del proceso de la segunda reunión de la respectiva cámara de compensación que debe realizarse el subsiguiente día hábil bancario de aquel, para los depósitos con documentos de otras plazas que no sean de la misma agrupación, de cargo de instituciones financieras que tienen presencia en la plaza o agrupación de plazas.
 
-b) El mismo día en que se efectúe el depósito y hasta el término del proceso de la tercera reunión de la cámara de compensación en que se presenten a cobro, para los depósitos efectuados con documentos de otras plazas de cargo de instituciones financieras que tienen presencia en la plaza o agrupación de plazas en que el documento se presenta a cobro.
+c) El mismo día en que se efectúe el depósito y hasta el tercer día hábil bancario siguiente a aquél, cuando se trate de documentos de cargo de instituciones que no tienen presencia en la plaza o agrupación de plazas y cuyo cobro, por consiguiente, deba efectuarse mediante el envío del documento a otra oficina o depositándolo en un banco corresponsal. No obstante, en caso de que una oficina depositaria se encuentre ubicada en una localidad cuyo aislamiento o distancia impida cobrar el documento dentro de ese plazo, podrá extenderse la retención por el tiempo estrictamente necesario para efectuar el cobro, debiendo informarse apropiadamente a los depositantes acerca del mayor plazo de retención que por esas razones se aplique.
 
-c) El mismo día en que se efectúe el depósito y hasta el tercer día hábil bancario siguiente a aquél, cuando se trate de documentos a cargo de un banco que no tenga presencia en la plaza o agrupación de plazas en que el documento se recibe y cuyo cobro, por consiguiente, se efectúe mediante cobranza directa o a través de un sistema de corresponsalía.
+En aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaria deberá, desde el momento en que recibe el reembolso, permitir al depositante disponer del respectivo importe.
 
-Con todo, en aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaría deberá, desde el momento en que reciba el reembolso, permitir al depositante disponer de tales valores.
+La liberación de fondos que, por cualquier circunstancia, se efectúe sobre un documento que resulte rechazado, en ningún caso exime al depositante de que, una vez producida la devolución del documento, éste se cargue a su cuenta corriente. Al respecto debe tenerse presente que una institución está obligada a recibir la devolución de un documento que ha presentado a cobro en la primera reunión de una cámara de compensación, sólo en su respectiva segunda reunión, quedando liberada de la obligación de recibirlo posteriormente. Si lo hiciere sin el consentimiento de su cliente, será responsable del perjuicio que le pudiere causar.
 
-Por otra parte, las instituciones financieras pueden prescindir de los plazos de retención cuando los valores en cobro correspondan a vales vista, certificados o pagarés de depósitos a plazo y cheques girados contra la cuenta única fiscal, según lo indicado en el numeral 3-3 de este Capítulo.
+2.2.- Documentos de cargo de la misma institución depositaria.
 
-La liberación de fondos que, por cualquier circunstancia, se efectúe sobre un documento que resulte rechazado y cuya gestión de cobro no se haya efectuado por intermedio de la Cámara de Compensación, no exime al depositante de que, una vez producida la devolución del documento, éste se cargue a su cuenta.
-
-2.2. Documentos de cargo de la misma institución depositaria.
-
-2.2.1. Documentos de la misma oficina.
-
-En general, los documentos de cargo de la misma oficina depositaría deben ser considerados como depósitos en efectivo, al estar implícito que se deposita el producto del pago del documento cobrado. Según ha señalado esta Superintendencia en el Capítulo 2-2 de esta Recopilación (numerales 7.8 y 8.2.1 del título III), ello ocurrirá aun cuando un cheque se haya endosado o se trate de uno cruzado.
-
-En esa disposición se sobreentiende que el depósito tiene la calidad de efectivo desde el instante en que el cheque depositado se carga a la cuenta girada.
-
-Por consiguiente, es improcedente retener los fondos si ha sido cargado el importe del valor en cobro en la cuenta girada, lo que deberá ocurrir, a más tardar, al cierre de las operaciones del mismo día en que se efectúe el depósito. En todo caso, mientras no se cargue la cuenta girada, no es posible permitir el giro del importe depositado.
-
-2.2.2. Documentos a cargo de otras oficinas.
-
-Los importes de los depósitos efectuados con documentos a cargo de otras oficinas de la misma institución depositaría, tienen el carácter de condicionales mientras no se cargue la cuenta girada.
-
-Cuando la oficina librada esté ubicada en la misma plaza o agrupación de plazas de la oficina depositaría, los procedimientos deberán permitir la liberación de los fondos a más tardar al cierre de las operaciones del mismo día en que se reciba el depósito. En el caso de oficinas ubicadas en otras plazas o agrupación de plazas, los procesos internos deberán permitir esa liberación a más tardar al cierre de las operaciones del día hábil bancario siguiente.
-
-En ningún caso una oficina de un banco podrá mantener la retención de valores en cobro una vez que la cuenta corriente del girador haya sido cargada por el importe correspondiente.
+Los importes correspondientes a los documentos que sean de cargo de la misma institución depositaria, quedarán disponibles desde el momento mismo en que se cargue la cuenta girada, lo que en todo caso deberá realizarse a más tardar al cierre de las operaciones del mismo día en que se efectúe el depósito.
 
 3. Giro de los importes depositados y liberación de documentos antes de obtenerse el pago de los valores en cobro.
 
@@ -5118,47 +5100,31 @@ Las políticas y procedimientos de las instituciones financieras deben considera
 
 Los sistemas que las instituciones financieras utilicen, deben permitir verificar el cumplimiento de tales políticas y procedimientos.
 
-3.2. Cumplimiento de los límites de crédito y documentación de los mismos.
+3.2.- Cumplimiento de los límites de crédito.
 
-Cualquiera sea la forma en que los referidos créditos se otorguen, esto es, aunque fuere por el mero acto de efectuarse el giro o el desembolso, o de entregar títulos de crédito en que consta una obligación de la institución financiera, ellos están sujetos a los límites y prohibiciones establecidos en el artículo 84 de la Ley General de Bancos, en el instante en que se cursen, ansié su pago se realice el mismo día.
+Cualquiera sea la forma en que los referidos créditos se otorguen, esto es, aunque fuere por el mero acto de efectuarse el giro o el desembolso, o de entregar títulos de crédito en que consta una obligación de la institución financiera, ellos están sujetos a los límites y prohibiciones establecidos en el artículo 84 de la Ley General de Bancos, en el instante en que se cursen, aunque su pago se realice el mismo día.
 
-Por otra parte, los créditos que la institución depositaría o mandataria conceda de acuerdo a lo expresado en este Capítulo, deben quedar debidamente documentados como requisito para su otorgamiento.
+No obstante lo anterior, los giros contra valores en cobro no serán computados como créditos para los efectos de los límites y prohibiciones del artículo 84 de la Ley General de Bancos, cuando los documentos depositados correspondan a: i) vales vista emitidos por otras entidades financieras o cheques viajeros; ii) cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal; o, pagarés o certificados de depósito a plazo no reajustables emitidos por otras instituciones financieras.
 
-Todo lo anterior es sin perjuicio de las excepciones que se indican en el numeral 3-3 siguiente y de la posibilidad de permitir sobregiros en cuentas corrientes bancarias sin pacto previo, tratada en el Capítulo 8-1 de esta Recopilación.
-
-3.3. Excepciones a las retenciones sobre valores en cobro.
-
-La institución depositaría podrá optar por prescindir de las retenciones, cuando los valores en cobro correspondan a:
-
-a) Vales vista emitidos por otras entidades financieras o cheques viajeros.
-
-b) Cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal.
-
-c) Pagarés o certificados de depósito a plazo no reajustables emitidos por otras instituciones financieras.
-
-Los giros contra los valores en cobro señalados en las letras precedentes no serán considerados como créditos para los efectos de los límites y prohibiciones del artículo 84 de la Ley General de Bancos, ni para el límite obligatorio de sobregiro sin pacto previo de que trata el N° 2 del Capítulo 8-1 de esta Recopilación.
-
-3.4. Giros contra valores en cobro depositados en cuentas. Registro contable.
+3.3. Giros contra valores en cobro depositados en cuentas. Registro contable.
 
 Los créditos generados por el pago de cheques y otras operaciones con cargo a una cuenta corriente bancaria que no dispone de fondos, deben ceñirse a lo dispuesto en el Capítulo 8-1 de esta Recopilación Actualizada de Normas.
 
-Ninguna cuenta de depósito distinta a una cuenta corriente bancaria admite la concesión de créditos con cargo a ellas, de manera que no es posible girar sobre valores en cobro, a menos que dichos valores correspondan a los documentos enumerados en las letras a), b) y c) del numeral 3.3 anterior.
+Las cuentas de depósito distintas a una cuenta corriente bancaria no admiten sobregiro y , por lo tanto, no es posible girar de la cuenta los importes correspondientes a los valores cuya gestión de cobro se encuentre en trámite. Ello no obsta para que la institución otorgue anticipos de los importes depositados condicionalmente, del mismo modo que puede hacerlo con cualquier documento que reciba en comisión de cobranza, y registre en sus colocaciones los créditos originados por esos avances.
 
-En esos casos, cualquier anticipo que se otorgue sobre valores en cobro diferentes a los expresamente exceptuados, como asimismo sobre documentos que se reciban en comisión de cobranza sin que sean depositados en una cuenta, origina una colocación que debe documentarse y registrarse como tal.
+3.4. Créditos que permiten la entrega de títulos emitidos contra valores en cobro.
 
-3.5. Créditos que permiten la entrega de títulos emitidos contra valores en cobro.
-
-3.5.1. Situación de los títulos entregados.
+3.4.1. Situación de los títulos entregados.
 
 Los títulos de crédito que una institución financiera entrega a los beneficiarios se independizan de la relación jurídica que les dio origen. Esto significa que la institución financiera, por el solo hecho de firmar el documento y entregarlo al tomador, se hace responsable de su pago frente a su legítimo tenedor, el cual de manera alguna puede verse afectado por la relación jurídica absolutamente ajena existente entre tomador y depositario.
 
 En ningún caso una institución financiera puede intentar precaverse de los efectos de entregar un título de crédito contra valores en cobro, agregando en el documento indicaciones que condicionen su pago o transferencia al reembolso de tales valores.
 
-3.5.2. Registro contable.
+3.4.2. Registro contable.
 
-De acuerdo con las convenciones contables, la emisión de vales vista, pagarés o certificados de depósitos a plazo y otros documentos similares que por su naturaleza sólo pueden provenir de depósitos de dinero, se registran como pasivos de la institución con prescindencia del hecho de que la operación puede estar condicionada al cobro previo de documentos, cuestión que sólo impide la entrega de los mismos al depositante o tomador durante los plazos de retención.
+De acuerdo con las convenciones contables, la emisión de vales vista, pagarés o certificados de depósitos a plazo y otros documentos similares que por su naturaleza sólo pueden provenir de depósitos de dinero, se registran como pasivos de la institución con prescindencia del hecho de que la operación puede estar condicionada al cobro previo de documentos, cuestión que sólo guarda relación con la necesidad de evitar la entrega de los mismos al depositante o tomador durante los plazos de retención, cuando la institución no se encuentre cubierta del riesgo de crédito.
 
-Por consiguiente, aunque la entrega anticipada de tales documentos deben computarse para efectos de los márgenes crediticios, no se registran contablemente como operaciones de crédito.
+Por consiguiente, aunque la entrega anticipada de tales documentos involucra un crédito y debe computarse, con las excepciones señaladas en el numeral 3.2, para efectos de los márgenes crediticios, no procede registrar contablemente una operación de crédito en el activo.
 
 4. Prohibición de pagar cheques a cargo de otros bancos. Excepción calificada.
 
@@ -5168,19 +5134,7 @@ No obstante lo anterior, excepcionalmente, con el previo visto bueno de uno de s
 
 5. Cobro por intermedio de corresponsales en el país. Uso de cuentas corrientes.
 
-Las instituciones financieras que reciban cheques y documentos girados sobre bancos situados en otras plazas del país y cuyo cobro se realice por intermedio de un banco corresponsal, deberán mantener dos cuentas corrientes en dicho banco. Una de estas cuentas estará destinada a registrar el movimiento habitual de todas las relaciones entre bancos, tales como abonos de cobranzas, depósitos distintos de los correspondientes a cheques recibidos en cobranza, devoluciones de cheques y otros documentos, etc. y, la otra, tendrá como finalidad registrar exclusivamente el movimiento de depósitos con cheques de otros bancos confiados en gestión de cobro al corresponsal en la plaza sobre la cual están girados. Los bancos podrán girar de esta última cuenta los referidos valores al cuarto día hábil bancario contado desde la fecha de su depósito.
-
-6. Remesas entre oficinas por cuenta de clientes que han entregado valores en cobro.
-
-Las transferencias de fondos que la oficina de un banco efectúe por cuenta de sus clientes a otra oficina de la misma empresa, podrán cursarse en la misma fecha en que sean solicitadas, aun cuando la respectiva provisión de fondos se haya constituido con cheques o documentos a cargo de otros bancos de la misma plaza o de otras plazas.
-
-En estos casos, la oficina que curse la transferencia indicará a la oficina destinataria, el plazo de retención que, conforme a las presentes normas, deberá observarse antes de que el beneficiario pueda disponer de los fondos transferidos.
-
-No obstante, los bancos podrán también diferir el despacho de estas transferencias hasta que los recursos entregados por el ordenante, contra los que se realice el traspaso, constituyan fondos disponibles. Las instituciones que adopten este último procedimiento, acreditarán el importe respectivo en una cuenta de la partida 3010, hasta el instante en que hagan efectiva su transferencia.
-
-El procedimiento que se siga deberá ser advertido oportuna y convenientemente a los interesados.
-
-Las transferencias a que se refiere este número deberán ser contabilizadas por la oficina emisora en el momento de su emisión y por la receptora a su inmediato recibo, sin perjuicio del cumplimiento de la retención.
+Las instituciones financieras que reciban cheques y documentos girados sobre bancos que no tengan presencia en la plaza o agrupación de plazas de la oficina depositaria y realicen el cobro por intermedio de un banco corresponsal, operarán a través de una cuenta corriente que mantendrán con dicho corresponsal y que se utilizará exclusivamente para ese fin.
 
 CAPITULO 4-1 (Bancos y Financieras)
 
@@ -5310,7 +5264,7 @@ Los bancos y sociedades financieras podrán deducir diariamente de sus obligacio
 
 3.4. Período de deducción.
 
-Los importes deducibles de que tratan los numerales precedentes podrán detraerse de las obligaciones afectas a encaje sólo por un día hábil bancario, salvo en el caso de los documentos registrados en la cuenta "Canje de otras plazas", en el que la deducción podrá hacerse hasta por dos días hábiles bancarios, conforme al tratamiento contable establecido en el título VI del Capítulo 5-1 de esta Recopilación.
+Los importes deducibles de que tratan los numerales precedentes podrán detraerse de las obligaciones afectas a encaje sólo por un día hábil bancario, salvo en el caso de los documentos registrados en la cuenta "Canje de otras plazas", en el que la deducción podrá hacerse hasta por dos días hábiles bancarios, conforme al tratamiento contable establecido en el Capítulo 5-1 de esta Recopilación.
 
 ### 4. Encaje exigido y mantenido
 
@@ -5712,25 +5666,61 @@ MATERIA:
 
 CANJE Y CAMARA DE COMPENSACION.
 
-I.CANJE DE DOCUMENTOS EN MONEDA CHILENA
+I.- DISPOSICIONES GENERALES.
 
-### 1. Cámara de Compensación
+1.- Normas que rigen el canje y las cámaras de compensación.
 
-El canje de documentos en moneda chilena, de la misma plaza y de otras plazas, entre instituciones financieras, se rige por el Reglamento de Cámara de Compensación establecido por el Banco Central de Chile y por las disposiciones complementarias impartidas por esta Superintendencia.
+Para el canje de documentos y el funcionamiento de las cámaras de compensación, las instituciones financieras deben atenerse a las disposiciones impartidas por el Banco Central de Chile que se mencionan en este Capítulo.
 
-El texto del Reglamento de Cámara de Compensación se transcribe en el Anexo N° 1 del presente Capítulo.
+2.- Plazas y agrupaciones de plazas.
 
-La reglamentación establecida por el Banco Central de Chile para el funcionamiento de la Cámara de Compensación incluye como participantes en ella, además del Banco Central de Chile, a todos los bancos y sociedades financieras. Estas instituciones, por consiguiente, cobrarán por cámara los documentos a cargo de otras entidades financieras participantes, que reciban en depósito o en pago de obligaciones, como asimismo pagarán aquellos documentos a su cargo que les sean presentados en las mismas reuniones; todo esto, siempre que se trate exclusivamente de documentos en moneda chilena.
+Las plazas y agrupaciones de plazas dispuestas por esta Superintendencia en concordancia con las normas del Banco Central de Chile, como asimismo las jurisdicciones que se aluden en esas normas, se incluyen en el Anexo N° 1 de este Capítulo.
 
-La mencionada reglamentación establece que por intermedio de la Cámara de Compensación se cobrarán los documentos pagaderos en la misma plaza o en una distinta, pero perteneciente a la misma agrupación, cuando así corresponda, como asimismo, pero en reuniones distintas, los documentos girados sobre otras plazas, de cargo de otras instituciones financieras con presencia en la plaza o agrupación de plazas donde tales documentos sean presentados.
+3.- Información que debe enviarse a esta Superintendencia.
 
-### 2. Cuenta corriente con el Banco Central de Chile
+La información que, según lo previsto en las disposiciones del Banco Central de Chile, debe enviarse a esta Superintendencia en relación con el funcionamiento de las cámaras de compensación en el país, deberá ser centralizada en las oficinas matrices de las respectivas instituciones y comunicada a este Organismo mediante carta firmada por el gerente general o por quien haga sus veces o lo reemplace.
 
-Las instituciones financieras deben mantener una cuenta corriente a su nombre en el Banco Central de Chile, la cual debe contar siempre con los recursos suficientes para cubrir los saldos que se produzcan en la compensación final que se realiza diariamente sobre la base del "Estado de Saldos Resumidos Netos de Cámara" a que se refiere el N° 11 del Reglamento.
+II.- CANJE DE DOCUMENTOS Y COMPENSACIÓN DE OBLIGACIONES EN MONEDA CHILENA.
 
-### 3. Vales de cámara
+1.- Cámaras de Compensación de cheques y otros documentos en moneda chilena.
 
-El vale de cámara es un documento cuya principal característica radica en que su compensación puede realizarse en el mismo día de su emisión, a través de la Cámara de Operaciones Interfinancieras (Cuarta Reunión), según lo indicado en el párrafo d3) del número 9.1 del Reglamento. Dichos documentos deben ser impresos de acuerdo con las instrucciones generales que se indican en el número N° 2 del Capítulo 6-1 de esta Recopilación de Normas y deben contener, sin perjuicio de otras indicaciones que se estimen convenientes, los siguientes datos mínimos:
+El canje de documentos en moneda chilena entre instituciones financieras, se rige por las disposiciones del Capítulo III.H.1 del Compendio de Normas Financieras del Banco Central de Chile.
+
+Dicha reglamentación contempla reuniones y ciclos distintos según se trate de:
+
+a) Documentos de la misma plaza o agrupación de plazas, como asimismo documentos de otras plazas no pertenecientes a la misma agrupación, cuando los participantes formen parte del Acuerdo de Canje Nacional.
+
+b) Documentos de otras plazas o agrupaciones de plazas, de cargo de instituciones que no participen en el Acuerdo de Canje Nacional o que sean presentados por las mismas.
+
+Se entiende que forman parte del Acuerdo de Canje Nacional, aquellas instituciones que han convenido entre ellas la realización del canje de documentos de otras plazas en las mismas reuniones fijadas para la cámara de compensación de documentos de la plaza, en razón a que utilizan sistemas y procedimientos internos que les permiten operar de esa forma.
+
+La primera reunión de ambas cámaras debe incluir todos los documentos recibidos por las instituciones financieras participantes, en ese mismo día dentro de su horario de atención normal a público autorizado por esta Superintendencia. Por lo tanto, en cada caso el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva plaza o agrupación de plazas (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir, especialmente en el caso de las agrupaciones de plazas.
+
+2.- Compensación de operaciones efectuadas a través de cajeros automáticos.
+
+La compensación de los importes en moneda nacional originados en operaciones efectuadas mediante cajeros automáticos en el país, se rige por las disposiciones del Capítulo III.H.3 del Compendio de Normas Financieras del Banco Central de Chile.
+
+Dicha compensación operará todos los días hábiles bancarios y considerará todas las transacciones de cargo de otras instituciones financieras realizadas hasta las 16 hrs.
+
+3.- Cámara de compensación de operaciones interfinancieras en moneda nacional.
+
+La compensación de las obligaciones interfinancieras en moneda nacional se rige por las disposiciones del Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
+
+Dicha cámara a nivel nacional tiene como propósito compensar las obligaciones que las instituciones financieras tengan entre sí y cuyo pago tenga validez ese mismo día. En esta cámara se compensarán los vales de cámara presentados, junto con las órdenes de pago u obligaciones que se generen electrónicamente mediante el envío y recepción de mensajes a través de sistemas convenidos entre las instituciones.
+
+Las obligaciones de pago generadas electrónicamente pueden corresponder tanto a las operaciones realizadas entre las instituciones, como a las que deriven de transferencias de fondos por operaciones de sus clientes.
+
+4.- Vales de cámara.
+
+El vale de cámara es un documento cuya principal característica radica en que su compensación puede realizarse en el mismo día de su emisión, a través de la Cámara de Compensación de Operaciones Interfinancieras en Moneda Nacional.
+
+Los vales de cámara deben ser emitidos por las entidades financieras a nombre de otras instituciones financieras y sólo pueden utilizarse para efectuar el pago de obligaciones interfinancieras en moneda chilena o para ser depositados en una cuenta corriente que la institución emisora mantenga en cualquier banco.
+
+En ningún caso se admite el uso de un vale de cámara para efectuar pagos a personas distintas de las instituciones financieras, como tampoco pueden ser endosados a otras entidades o personas por la institución a cuyo favor se encuentren extendidos. Esta última institución no puede destinarlos a ninguna otra finalidad que no sea su cobro en la correspondiente reunión de la cámara de compensación antes mencionada.
+
+Es conveniente que las entidades financieras utilicen el vale de cámara como único documento para pagar sus obligaciones en moneda chilena a favor de otras instituciones financieras.
+
+Los documentos deben ser impresos de acuerdo con las instrucciones generales que se indican en el N° 2 del Capítulo 6-1 de esta Recopilación de Normas y deben contener, sin perjuicio de otras indicaciones que se estimen convenientes, los siguientes datos mínimos:
 
 - **a)** Nombre de la institución emisora;
 
@@ -5744,887 +5734,497 @@ El vale de cámara es un documento cuya principal característica radica en que 
 
 - **f)** Firma autorizada de la institución que lo emite.
 
-Los vales de cámara deben ser emitidos por las entidades financieras a nombre de otras instituciones financieras y sólo pueden utilizarse para efectuar el pago de obligaciones interfinancieras o para ser depositados en una cuenta corriente que la institución emisora mantenga en cualquier banco.
+5.- Disposición transitoria. Horario de la primera reunión de la cámara para documentos de otras plazas.
 
-En ningún caso se admite el uso de estos documentos para efectuar pagos a personas distintas de las instituciones financieras, como tampoco pueden ser endosados a otras entidades o personas por la institución a cuyo favor se encuentren extendidos. Esta última institución no puede destinarlos a ninguna otra finalidad que no sea su cobro en la correspondiente reunión de cámara.
+De acuerdo con el Capítulo III.H.1 del Compendio de Normas Financieras, excepcionalmente y hasta el 9 de octubre de 2001, la primera reunión de la cámara de compensación para documentos de otras plazas puede celebrarse al inicio de la jornada del día hábil bancario siguiente, en vez de efectuarla el mismo día en que se reciben los documentos como se dispone en la disposición de carácter permanente que será obligatoria después de esa fecha.
 
-Es conveniente que las entidades financieras utilicen el vale de cámara como único medio para pagar las obligaciones en moneda chilena a favor de otras instituciones financieras. Para estos efectos, se entienden como obligaciones, los préstamos, pagos de depósitos, de dividendos, compra venta de divisas, letras de crédito, documentos entregados para gestión de cobro, giros contra las cuentas corrientes de la entidad financiera, operaciones interfinancieras, compra de instrumentos de inversión, etc.
+III.- CANJE DE DOCUMENTOS EN MONEDA EXTRANJERA ENTRE INSTITUCIONES BANCARIAS.
 
-4.- Retención sobre depósitos efectuados con documentos a cargo de otras instituciones financieras.
+El canje de documentos en moneda extranjera de la misma plaza entre instituciones bancarias, se rige por el "Reglamento de Cámara de Compensación de Cheques y Otros Documentos Emitidos en Moneda Extranjera Contra Cuentas en el País", establecido por el Banco Central de Chile.
 
-Las instituciones financieras no podrán extender más allá del término del proceso de la tercera reunión (Cámara de Devoluciones) los plazos de retención sobre los depósitos efectuados con los documentos presentados para su procesamiento en el correspondiente ciclo de cámara.
+El texto de dicho reglamento se transcribe en el Anexo N° 2 de este Capítulo.
 
-La institución financiera a la que no le sean devueltos por intermedio de la tercera reunión, alguno de los documentos que presentó a cobro en la primera reunión del respectivo ciclo de la cámara de compensación, queda liberada de la obligación de recibirlos en otra oportunidad .
+La reglamentación establecida por el Banco Central de Chile para el funcionamiento de la referida Cámara de Compensación, incluye como participantes en ella a todos los bancos, casas matrices o sucursales, situados en las plazas o agrupaciones de plazas en las que la mayoría absoluta de los bancos acuerden ese procedimiento para el cobro recíproco de documentos.
 
-### 5. Facultad de cobrar documentos sin concurrir a la Cámara de Compensación
-
-Las instituciones tienen el derecho de no cobrar por intermedio de la Cámara de Compensación los documentos que posean a cargo de otras entidades financieras, ya sea que se trate de documentos de la misma plaza o de otras plazas. En tales casos los reembolsos correspondientes puede hacerlos la institución obligada al pago, a su elección, ya sea mediante vale vista, vale de cámara, cheque contra su cuenta corriente bancaria o bien en dinero efectivo.
-
-En la misma forma deben proceder los bancos y sociedades financieras que, por circunstancias excepcionales, no concurrieren a alguna de las tres primeras reuniones de cámara y tuvieren valores por cobrar de otras entidades financieras. Estas últimas entidades pueden hacer el pago en cualquiera de las formas señaladas en el párrafo precedente. En el evento de que tales pagos se realicen mediante cheque o vale vista, el cobro de esos documentos no puede hacerse en la cuarta cámara, sino que debe presentarse en la primera reunión.
-
-Las entidades que por algún motivo no concurran a alguna de las reuniones de cámara deben dar, con anticipación, el aviso correspondiente a la institución de tumo.
-
-6.- Documentos a cargo de instituciones que no tienen presencia en la plaza en que son recibidos.
-
-La instituciones bancarias que no tengan oficinas en alguna plaza o su respectiva agrupación de plazas, recibirán en cualquier cámara de compensación a la que concurran regularmente, los valores a su cargo que les sean presentados a cobro por el banco receptor, o bien podrán convenir un servicio de corresponsalía con una institución financiera que tenga presencia en esas plazas. Estas instituciones representarán a la respectiva entidad bancaria, recibiendo los documentos a su cargo, con el fin de proceder a su envío a la entidad librada, para su pago o rechazo, trámite que deberá ajustarse al plazo máximo de retención de que trata el Capítulo 3-1 de esta Recopilación.
-
-### II. CANJE DE DOCUMENTOS EN MONEDA EXTRAJERA ENTRE INSTITUCIONES BANCARIAS
-
-### 1. Cámara de compensación
-
-El canje de documentos en moneda extranjera, de la misma plaza entre instituciones bancarias, se rige por el Reglamento de Cámara de Compensación de Cheques y Otros Documentos Emitidos en Moneda Extranjera Contra Cuentas en el País, establecido por el Banco Central de Chile, y por las instrucciones complementarias impartidas por esta Superintendencia.
-
-El texto de dicho Reglamento se transcribe en el Anexo N° 3 de este Capítulo.
-
-La reglamentación establecida por el Banco Central de Chile para el funcionamiento de la referida Cámara de Compensación, incluye como participantes en ella a todos los bancos, casas matrices o sucursales, situados en las plazas o agrupaciones de plazas en las que la mayoría absoluta de los bancos acuerden ese procedimiento para el cobro recíproco de documentos. Esos bancos, por consiguiente, cobrarán por cámara los documentos en moneda extranjera a cargo de otras entidades bancarias participantes, que reciban en depósito o en pago de obligaciones, como asimismo pagarán aquellos documentos a su cargo que les sean presentados en las mismas reuniones; todo esto, siempre que se trate exclusivamente de documentos en moneda extranjera, pagaderos en la misma plaza, o en una distinta pero perteneciente a una misma agrupación, cuando así corresponda.
-
-No obstante lo indicado en el párrafo precedente, con el acuerdo de la mayoría de los bancos participantes, en la plaza de Santiago se podrán cobrar documentos en moneda extranjera girados sobre otras plazas del país, cuando sean de cargo de bancos que hayan optado por aceptar siempre tales documentos. Las empresas bancarias que opten por no acogerse a este procedimiento deberán informarlo por escrito al Jefe de Cámara. En ningún caso los bancos que resuelvan aceptar cheques u otros documentos de otras plazas podrán devolverlos aduciendo falta de información para proceder a su pago.
+Con el acuerdo de la mayoría de los bancos participantes, en la plaza de Santiago se podrán cobrar documentos en moneda extranjera girados sobre otras plazas del país, cuando sean de cargo de bancos que hayan optado por aceptar siempre tales documentos.
 
 Entre los documentos en moneda extranjera que se presenten para ser pagados por cámara, podrán incluirse las órdenes de pago emitidas en el exterior contra bancos situados en Chile, en formato tipo cheque y expresadas en dólares de los Estados Unidos de América. En atención a las características particulares de estos documentos, los bancos librados que decidan no pagarlos se limitarán a devolverlos dejando constancia en los mismos de la razón por la cual proceden a su devolución, toda vez que tales instrumentos no son susceptibles de ser protestados.
 
-2. Retención sobre depósitos efectuados con cheques de otros bancos sobre la misma plaza y sobre otras plazas.
+IV.- DISPOSICIONES COMPLEMENTARIAS.
 
-El banco al que no le sea devuelto por intermedio de la segunda reunión, alguno de los documentos que presentó a cobro por cámara, queda liberado de la obligación de recibirlos en otra oportunidad. Por lo tanto, si decide recibir un documento posteriormente, en forma voluntaria, será responsable del perjuicio que pudiere causar a su cliente.
+1.- Pago de documentos fuera de Cámara de Compensación.
 
-Por otra parte, las bancos deben atenerse a las disposiciones sobre plazos mínimos de retención aplicables a aquellos documentos girados sobre la misma plaza o sobre otras plazas, contenidas en el Capítulo 3-1 de esta Recopilación.
+Si una institución financiera opta por no cobrar por intermedio de la Cámara de Compensación los documentos que posea a cargo de otras entidades financieras, como asimismo si una institución financiera, por circunstancias excepcionales, no concurre a alguna de las reuniones teniendo valores por cobrar de otras entidades financieras, los reembolsos correspondientes puede hacerlos la institución obligada al pago, a su elección, ya sea mediante vale vista, vale de cámara, cheque contra su cuenta corriente bancaria o bien en dinero efectivo.
 
-### 3. Facultad de cobrar documentos sin concurrir a la Cámara de Compensación
+2.- Retención sobre depósitos efectuados con documentos a cargo de otras instituciones financieras.
 
-Las instituciones bancarias situadas en las plazas o agrupaciones de plazas en las que se lleve a efecto la Cámara de Compensación de que trata este título, tienen el derecho de no cobrar por intermedio de dicha Cámara de Compensación los documentos que posean a cargo de otras entidades bancarias. En tales casos, los reembolsos correspondientes puede hacerlos la institución obligada al pago, a su elección, ya sea mediante vale vista, cheque contra su cuenta corriente bancaria en moneda extranjera en el país o en el exterior o bien en dinero efectivo.
+Las instituciones financieras no podrán extender más allá del término del proceso de la segunda reunión los plazos de retención sobre los depósitos efectuados con los documentos presentados para su procesamiento en el correspondiente ciclo de cámara, lo que determina los plazos de retención para los documentos a cargo de otras instituciones, señalados en el Capítulo 3-1 de esta Recopilación, que se cobren por intermedio de las Cámaras de Compensación.
 
-En la misma forma deben proceder los bancos que, por circunstancias excepcionales, no concurrieren a alguna de las dos primeras reuniones de cámara y tuvieren valores por cobrar de otras entidades bancarias. Estas últimas pueden hacer el pago en cualquiera de las formas señaladas en el párrafo precedente. En el evento de que tales pagos se realicen mediante cheque o vale vista, el cobro de esos documentos, en los casos que proceda, debe presentarse en la primera reunión.
+3.- Documentos a cargo de instituciones que no tienen presencia en la plaza o agrupación de plaza. Servicio de corresponsalía.
 
-Las entidades que por algún motivo no concurran a alguna de las reuniones de cámara deben dar, con anticipación, el aviso correspondiente a la institución de turno.
+La instituciones bancarias que no tengan oficinas en alguna plaza o su respectiva agrupación de plazas, podrán convenir un servicio de corresponsalía con una institución financiera que tenga presencia en esas plazas. Estas instituciones representarán a la respectiva entidad bancaria en las reuniones de las cámaras de compensación.
 
-III.- COMPENSACION DE OPERACIONES EFECTUADAS A TRAVES DE CAJEROS AUTOMATICOS.
+4.- Pago o devoluciones de cheques recibidos en el canje.
 
-La compensación de los importes originados en operaciones efectuadas mediante cajeros automáticos, se rige por el "Reglamento de compensación por operaciones efectuadas a través de cajeros automáticos del país", establecido por el Banco Central de Chile, cuyo texto se transcribe en Anexo N° 4 de este Capítulo.
+Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos, que se encuentren disponibles, desde otras cuentas en el mismo banco o correspondientes a créditos que este haya otorgado, acreditadas en la cuenta corriente antes de cargar los cheques recibidos en canje.
 
-En esta compensación diaria de las operaciones registradas en cajeros automáticos, participarán todos los bancos y sociedades financieras que operen en una red administrada por una sociedad de apoyo al giro, siempre que el sistema de transmisión de información y procesamiento electrónico de datos que se utilice para el efecto, sea aprobado previamente por esta Superintendencia y autorizado por el Banco Central de Chile.
+Los bancos deberán dejar constancia de la hora en que se registre en las cuentas corrientes cada uno de esos movimientos efectuados después de la hora de cierre.
 
-Para los fines de determinar los saldos a compensar diariamente, se considerarán las transacciones realizadas desde el cierre del horario bancario del día anterior hasta el término del horario bancario del día correspondiente a la fecha de la compensación.
+5.- Aviso a los clientes.
 
-De acuerdo con lo dispuesto en el Reglamento del Banco Central de Chile, las entidades financieras que participen en una red de cajeros automáticos deben designar a una institución de tumo. Esta institución podrá representar sólo a la red de la que forma parte, como también podrá asumir, adicionalmente, la representación de otras redes que participen en el sistema de compensación, si así se conviene. En este último caso, confeccionará por cada una de las redes que representa, la correspondiente "Planilla Resumen".
+Las instituciones que reciban documentos rechazados deberán avisar de inmediato al cliente afectado, por vía postal o por los medios escritos que hubieren convenido para dejar constancia de tal aviso.
 
-### IV. TIMBRES DE CAJA Y CAMARA
+6.- Información de pago de cheques por canje recibidos de otras instituciones.
 
-Los documentos que se presenten a cobro a través de las Cámaras de Compensación, tanto en moneda chilena como extranjera, deben llevar en su anverso el correspondiente timbre de caja y en su reverso debe estamparse el timbre de Cámara Compensadora según lo previsto en los Reglamentos de Cámara para documentos en moneda chilena y moneda extranjera, transcritos en los Anexos N°s 1 y 3 de este Capítulo, respectivamente.
+Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia.
 
-Para el efecto, las instituciones deberán ceñirse a las instrucciones contenidas en los numerales 4.1 y 4.2 del Capítulo 6-1 de esta Recopilación. Ambos timbres deben colocarse nuevamente cuando se trate de documentos cuya presentación se repita debido a rechazos anteriores.
+7.- Timbre de Caja y de Cámara.
 
-### V. RESPONSABILIDADES DE LAS INSTITUCIONES DE TURNO
+Según lo previsto en las disposiciones del Banco Central de Chile, los documentos que se presenten a cobro a través de las Cámaras de Compensación, tanto en moneda chilena como extranjera, deben llevar en su anverso el correspondiente timbre de caja y en su reverso debe estamparse el timbre de Cámara Compensadora. Ambos timbres deben colocarse nuevamente cuando se trate de documentos cuya presentación se repita debido a rechazos anteriores.
 
-Las instituciones financieras que como jefe de cámara presidan y controlen el desarrollo de las reuniones, en su calidad de institución de tumo, asumen las siguientes responsabilidades:
+Para la confección de tales timbres, las instituciones deberán ceñirse a las instrucciones contenidas en los numerales 4.1 y 4.2 del Capítulo 6-1 de esta Recopilación.
 
-a) Velar por el normal funcionamiento de las cámaras, la correcta aplicación y observancia de las disposiciones reglamentarias y el cumplimiento de los horarios establecidos para la iniciación de las diferentes reuniones, debiendo dar cuenta a este Organismo de las irregularidades que se observaren.
+V.- INSTRUCCIONES CONTABLES.
 
-b) Conservar en sus propios archivos, por un año, los antecedentes y planillas de las reuniones efectuadas durante el período que les correspondió ejercer el turno.
+1.- Canje de documentos.
 
-c) Realizar, en los casos contemplados en el reglamento, las prórrogas de horario que soliciten las entidades participantes. Cuando la prórroga afecte a la quinta reunión o Cámara de Compensación Jurisdiccional, en el caso del canje de documentos en moneda chilena, la institución de tumo deberá consultar previamente al Banco Central de Chile.
+Los documentos a cargo de otras instituciones financieras cuyo cobro se efectúe por intermedio de la Cámara de Compensación, se cargarán, según sea el caso, a la cuenta "Canje de la Plaza" o "Canje de otras plazas", de la partida 1015.
 
-d) Comunicar oportunamente a las demás instituciones participantes, la inasistencia a alguna de las reuniones de los bancos o sociedades financieras que hubieren dado aviso en tal sentido con la anticipación suficiente.
+La cuenta "Canje de la plaza" incluirá el valor de los documentos que se presenten a cobro en la primera reunión de la cámara a que se refiere la letra a) del N° 1 del título II de este Capítulo, como asimismo el importe de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, según lo indicado en el título III de este Capítulo.
 
-Además de las responsabilidades señaladas en los literales precedentes, las instituciones de tumo de la primera reunión de cámara para el cobro de documentos en moneda chilena de la misma plaza, deberán enviar diariamente al Banco Central de Chile, antes de las 10:30 A.M., copia de la planilla general de resultados de esa reunión.
+La cuenta "Canje de otras plazas", por su parte, incluirá los documentos que se cobrarán por intermedio de la cámara a que se refiere la letra b) del N° 1 del título II de este Capítulo o bien que se entreguen en comisión de cobranza a otro banco.
 
-VI.- INSTRUCCIONES CONTABLES.
+Los importes de estas cuentas son deducibles de encaje según lo señalado en el N° 2 siguiente y deben ser solucionados al completarse el respectivo ciclo de cámara, según lo indicado en el N° 4 de este título.
 
-1.- Canje de documentos de la plaza.
+Los cargos que se efectúen a las cuentas "Canje de la Plaza" o "Canje de otras plazas" no pueden comprender en ningún caso, valores girados por la propia institución contra sus corresponsales.
 
-Los documentos a cargo de otras instituciones financieras de la plaza cuyo cobro se efectúe por intermedio de la Cámara de Compensación se cargarán a la cuenta "Canje de la Plaza", de la partida 1015.
+2.- Importes deducibles para encaje.
 
-Los importes de esta cuenta son deducibles de encaje y deben ser solucionados al día hábil bancario siguiente, según lo indicado en el N° 4 de este título.
+Los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas" son deducibles de las obligaciones afectas a encaje según lo indicado en el Capítulo 4-1 de esta Recopilación.
 
-La cuenta "Canje de la plaza" incluirá el valor de los documentos que se presenten a cobro en la primera reunión para el canje de documentos de la misma plaza o agrupación de plazas, como asimismo el importe de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, los que, tanto para su pago como para su deducción de las obligaciones afectas a encaje, serán considerados como de la plaza.
+Atendido que la deducción de documentos de la misma plaza sólo puede efectuarse por un día hábil bancario y la de documentos de otras plazas solamente durante dos días hábiles bancarios, los importes de los documentos que no hayan sido solucionados dentro de esos plazos se incluirán en la cuenta "Canje no deducible".
 
-Los cargos que se efectúen a la cuenta "Canje de la Plaza" no pueden comprender en ningún caso, valores girados contra la propia institución o girados por ésta contra sus corresponsales o a cargo de sus propias oficinas.
-
-2.- Canje de documentos de otras plazas.
-
-Los cheques y otros documentos en moneda chilena a cargo de otras instituciones financieras, pagaderos en otras plazas, que se cobrarán por intermedio de la Cámara de. Compensación de que trata el numeral 9.2 del Título II del Reglamento, deben cargarse a la cuenta "Canje de otras plazas", de la partida 1015.
-
-Los documentos de plazas que pertenezcan a una misma agrupación deben considerarse, para estos efectos, como documentos de la misma plaza y, por lo tanto, no cabe su imputación a la cuenta "Canje de otras plazas".
-
-A la misma cuenta "Canje de otras plazas" se abonará el importe de los cheques y otros documentos en moneda chilena pagaderos en otras plazas que se reciban en la primera reunión de la mencionada Cámara, con cargo a "Acreedores en cuentas corrientes" o las demás cuentas del pasivo que correspondan a los documentos que posteriormente se imputarán a las cuentas individuales, si no resultan rechazados.
-
-El saldo de la cuenta "Canje de otras plazas" en conjunto con el saldo de la cuenta "Canje de la plaza" señalada en el numeral precedente, conformarán diariamente el importe deducible de encaje según lo previsto en el Capítulo 4-1 de esta Recopilación.
-
-Atendido que el plazo máximo de deducción de documentos de otras plazas es de dos días hábiles, las instituciones financieras traspasarán los importes correspondientes a cada ciclo de cámara desde la cuenta "Canje de otras plazas" a la cuenta "Canje no deducible",el día hábil bancario subsiguiente al de la fecha en que se hayan recibido tales documentos.
-
-Por otra parte, los cargos que se efectúen a la cuenta "Canje de otras plazas" no pueden comprender en ningún caso, valores girados contra la propia institución o girados por ésta contra sus corresponsales o a cargo de sus propias oficinas.
+Por consiguiente, aquellos documentos a cargo de una institución que no tenga presencia en la plaza o agrupación de plazas en que ellos se reciben, y cuyo cobro se efectúe enviándolos a otra oficina de la misma institución para que los presente en la cámara de compensación de la respectiva localidad, sólo pueden mantenerse registrados en la cuenta "Canje de la plaza" y "Canje de otras plazas", uno o dos días hábiles, respectivamente. En el caso de documentos que por aquella razón se depositan en bancos corresponsales, podrá efectuarse la deducción de encaje utilizando la cuenta "Canje de otras plazas" según lo indicado en el número siguiente.
 
 3.- Encargo de cobranza a otros bancos.
 
-Los documentos a cargo de otras instituciones cuya cobranza se efectúe mediante su depósito en las cuentas corrientes de corresponsales, pueden mantenerse transitoriamente registrados en la cuenta "Canje de otras plazas", según lo previsto en el Capítulo 7-5 de esta Recopilación.
+Los documentos a cargo de otras instituciones cuya cobranza se efectúe mediante su depósito en las cuentas corrientes de corresponsales, pueden mantenerse registrados también sólo hasta por dos días hábiles bancarios, en la cuenta "Canje de otras plazas", según lo previsto en el Capítulo 7-5 de esta Recopilación.
 
-En este caso es igualmente aplicable la restricción señalada en el N° 2, en cuanto al tipo de documentos que se puede imputar a esa cuenta.
+En este caso es igualmente aplicable lo indicado en el N° 1 de este título, en cuanto al tipo de documentos que se puede imputar a esa cuenta.
 
 4.- Resultados del Canje.
 
-El día del término de cada ciclo de cámara deberán quedar saldados los importes correspondientes a los respectivos ciclos, registrados en las cuentas "Canje de la plaza" o "Canje no deducible", según sea el caso.
+El día del término de cada ciclo de cámara deberán quedar saldados los importes correspondientes a los respectivos ciclos, registrados en las cuentas de Canje antes mencionadas.
 
-La cuenta "Canje de la plaza" se abonará por los documentos que haya recibido la institución en la primera cámara celebrada el día hábil bancario anterior, cargando las respectivas cuentas del pasivo.
+Los documentos que haya recibido una institución financiera en la primera reunión se cargarán a las respectivas cuentas del pasivo con abono a las cuentas "Canje de la Plaza" o "Canje de otras plazas", según corresponda.
 
-Los documentos que la institución devuelva a las instituciones que se los presentaron, originarán un cargo a la respectiva cuenta de canje, con abono a las cuentas del pasivo cargadas al recibirse.
-
-Por su parte, los documentos que le sean devueltos a la institución, originarán un abono a la cuenta "Canje de la plaza" o "Canje no deducible", según corresponda, debiendo cargarse directamente a las cuentas de las personas a quienes hubieren sido antes acreditadas las respectivas cantidades, a la cuenta de origen cuando hayan sido recibidos por la institución financiera en pago de obligaciones, o bien, transitoriamente a "Varios Deudores", cuando corresponda.
+Los documentos que le sean devueltos a la institución en la segunda reunión, originarán un abono a la cuenta "Canje de la plaza" o "Canje de otras plazas", o bien, "Canje no deducible", según corresponda, debiendo cargarse las cuentas de las personas a quienes hubieren sido antes acreditadas las respectivas cantidades, la cuenta de origen cuando hayan sido recibidos por la institución financiera en pago de obligaciones, o bien, transitoriamente a "Varios Deudores", cuando corresponda.
 
 El resultado a favor o en contra del canje de documentos en moneda chilena de un ciclo de cámara se saldará, en definitiva, con abono o cargo a la cuenta corriente de la entidad en el Banco Central de Chile, en tanto que el saldo deudor o acreedor por el proceso de canje de documentos en moneda extranjera corresponderá al monto neto a recibir o pagar por la institución, que se soluciona con los pagos de los respectivos bancos deudores en la misma fecha.
 
 5.- Control contable sobre el canje.
 
-Los tratamientos contables señalados en los numerales precedentes corresponden a la descripción de los criterios generales que deben aplicarse, en cuanto a los efectos en los deducibles de encaje y oportunidad de registro. Como es natural, ese esquema no es óbice para una apertura contable amplia que considere el uso de sub-cuentas, cuentas complementarias o utilización de auxiliares que permitan un adecuado control sobre el canje, siempre que se encuadren en los criterios descritos y se informen correctamente los saldos en el sistema de información de esta Superintendencia, el cual considera las cuentas mencionadas en estas normas.
+Los tratamientos contables señalados en los numerales precedentes corresponden a la descripción de los criterios generales que deben aplicarse, en cuanto a los efectos en los deducibles de encaje y oportunidad de registro. Como es natural, ese esquema no es óbice para una apertura contable amplia que considere el uso de subcuentas, cuentas complementarias o la utilización de auxiliares que permitan un adecuado control sobre el canje, siempre que se encuadren en los criterios descritos y se informen correctamente los saldos en el sistema de información de esta Superintendencia, el cual considera las cuentas mencionadas en estas normas.
 
-Las contabilizaciones descritas en los numerales anteriores no se refieren a los traspasos de documentos entre sucursales. Al respecto, debe tenerse en cuenta que las instrucciones relativas a la deducción de las obligaciones afectas a encaje de los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas", están referidas a la situación consolidada de la institución financiera. La exigencia de encaje de la institución no puede ser afectada, en caso alguno, por las transferencias de los valores en cobro entre sus oficinas.
-
-Por consiguiente, cualquier sistema que habiliten las instituciones financieras para el control de los documentos que sus oficinas se envíen entre sí para ser cobrados en la plaza en que tenga presencia el banco librado, debe garantizar que la deducción de los importes para efectos de encaje no supere los dos días hábiles bancarios, pudiendo la oficina receptora utilizar las cuentas "Canje de la plaza" o "Canje de otras plazas" sólo para completar la deducción, siempre que la oficina remitente no registre el deducible.
-
-6.- Pago de cheques presentados en canje.
-
-6.1.- Procesamiento de cheques de la plaza.
-
-Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos, que se encuentren disponibles, desde otras cuentas en el mismo banco o correspondientes a créditos que este haya otorgado, acreditadas en la cuenta corriente antes de cargar los cheques recibidos en canje.
-
-6.2.- Procesamiento de cheques de otras plazas.
-
-Para los efectos del protesto de los cheques recibidos en canje en la primera reunión de que trata la letra e) del numeral 9.2 del Título II del Reglamento, deberán considerarse los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario inmediatamente anterior a la fecha en que se realice la tercera reunión de que trata la letra g) del numeral 9.2 antes mencionado, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes y sumadas las transferencias de fondos que se encuentren disponibles, desde otras cuentas en el mismo banco o correspondientes a créditos otorgados por este, efectuadas después del cierre del día hábil bancario antes mencionado.
-
-Lo anterior es sin perjuicio de que contablemente los cheques recibidos en la primera cámara deben registrarse globalmente según lo señalado en el N° 2 de este título.
-
-6.3.- Control del movimiento después del cierre y hasta la apertura.
-
-Los bancos deberán dejar constancia de la hora en que se registre en las cuentas corrientes cada uno de los movimientos que las afecten, cuando éstos se realicen entre la hora de cierre y las 9 horas del día hábil bancario siguiente.
-
-7.- Otras disposiciones.
-
-7.1.- Aviso a los clientes.
-
-Las instituciones que reciban documentos rechazados deberán avisar de inmediato al cliente afectado, por vía postal o por los medios que hubieren convenido para dejar constancia de tal aviso.
-
-7.2.- Información de pactos de cheques por canje recibido de otras instituciones.
-
-Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia.".
-
-Junto con los cambios antes mencionados, se remplaza el Anexo N° 1 del Capítulo 5-1, a fin de incluir la versión actualizada del "REGLAMENTO DE CAMARA DE COMPENSACION DE CHEQUES Y OTROS VALORES EN MONEDA CHILENA EN EL PAIS", del Banco Central de Chile.
+Por otra parte, debe tenerse en cuenta que las contabilizaciones descritas en los numerales anteriores se refieren a la situación consolidada de la institución financiera. Por consiguiente, cualquier sistema que habiliten las instituciones financieras para el control de los documentos que sus oficinas se envíen entre sí para ser cobrados en la plaza en que tenga presencia el banco librado, debe garantizar que la deducción de los importes para efectos de encaje no supere uno o dos días hábiles bancarios, según sea la cámara a la cual estos se presenten. La exigencia de encaje de la institución no puede ser afectada, en caso alguno, por la transferencia de los valores en cobro entre oficinas.
 
 ANEXO N°1
 
-REGLAMENTO DE CAMARA DE COMPENSACION DE CHEQUES Y OTROS VALORES EN MONEDA NACIONAL EN EL PAIS.
+PLAZAS, AGRUPACIONES DE PLAZAS Y JURISDICCIONES
 
-I.- DISPOSICIONES GENERALES.
-
-1.- El funcionamiento de la Cámara de Compensación de cheques y otros valores en moneda nacional en el país, se regirá por las normas del presente reglamento. Le corresponderá a la Superintendencia de Bancos e Instituciones Financieras impartir las instrucciones que sean necesarias para su debida aplicación.
-
-Las empresas bancarias, las sociedades financieras y el Banco Central de Chile, en adelante -las instituciones-, estarán representadas en la Cámara por delegados idóneos, que designará cada una de ellas, debiendo acreditarlos ante la Institución de Turno por medio de una carta firmada por sus representantes autorizados, confiriéndoles poder suficiente para que, a su vez, los representen en todas las operaciones de la Cámara en que éstos deban intervenir. Estos poderes serán traspasados al término de cada período de turno, por la Institución que termina el turno, a aquella que lo inicia. A falta del poder a que se refiere este número, el delegado no será considerado como tal.
-
-2.- Las Cámaras de Compensación se efectuarán en locales apropiados que habilitarán y administrarán de común acuerdo los participantes o en las oficinas de la Institución de Turno, los que deberán ser informados a la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio de aquellas que por acuerdo de los partícipes, se operen por intermedio de un sistema de transmisión y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras y aprobado por el Banco Central de Chile.
-
-3.- Las instituciones que deban participar en la Cámara de Compensación designarán, de común acuerdo, en forma rotativa y por períodos completos, a la Institución de Turno, la que nombrará al Jefe de Cámara, quien presidirá y controlará el desarrollo de las reuniones que se celebren. La duración de cada turno corresponderá a un mes calendario completo.
-
-Sin embargo, las instituciones de una plaza financiera podrán establecer de común acuerdo, períodos de turno de duración distinta a la señalada en el párrafo anterior, siempre que cuenten previamente con la autorización de la Superintendencia de Bancos e Instituciones Financieras.
-
-La designación de Institución de Turno deberá ser comunicada por ésta a la Superintendencia de Bancos e Instituciones Financieras a lo menos cinco días hábiles antes del comienzo del turno respectivo.
-
-Cada turno se iniciará con la primera reunión del primer día hábil hábil bancario de cada período y terminará con la quinta reunión del primer día hábil bancario del período inmediatamente siguiente, en el caso de la cámara de cheques y documentos de la misma plaza o agrupación de plazas, y hasta el término de la respectiva tercera reunión del ciclo de reuniones de la cámara de compensación de documentos de otras plazas no pertenecientes a la misma agrupación de plazas, según se señala en el Título II siguiente.
-
-La Institución de Turno se responsabilizará ante la Superintendencia de Bancos e Instituciones Financieras, tanto del cumplimiento de los horarios como de la aplicación del presente Reglamento.
-
-Las designaciones de Institución de Turno y de Jefe de Cámara recaerán exclusivamente en las empresas bancarias y sociedades financieras y sus delegados, respectivamente. No obstante, no podrán ser designadas como Institución de Turno, aquellas que no mantengan oficina en la plaza jurisdiccional donde se celebra la quinta reunión de la Cámara a que se refiere el número 10.
-
-En el caso de que alguna Cámara se opere mediante un sistema de transmisión y procesamiento electrónico de datos corresponderá a la Institución de Turno recibir dentro de los horarios establecidos para el efecto, la información transmitida por las demás instituciones participantes, realizar el proceso que corresponda y comunicar por el mismo medio los resultados a las entidades participantes.
-
-4.- Los delegados de todas las instituciones deberán encontrarse en la sala de reuniones de la Cámara Compensadora antes de las horas fijadas por este Reglamento para su iniciación, salvo en el caso que la presencia de éstos no sea necesaria por tratarse de reuniones destinadas exclusivamente a ajustes y compensaciones que se realicen mediante un sistema de transmisión y procesamiento electrónico de datos, para aquellas instituciones conectadas a dicho sistema.
-
-5.- La Institución de Turno deberá atender las solicitudes de prórroga que, para la iniciación de la reunión o la transmisión de los datos en su caso, puedan presentar los participantes, siempre que dicha solicitud se presente antes de la hora habitual fijada para el comienzo de la respectiva sesión o para la recepción de los datos. Estas prórrogas podrán
-
-otorgarse por un tiempo razonable, el que será determinado por el Jefe de Cámara de la Institución de Turno. Respecto de la quinta reunión en Santiago no podrán otorgarse prórrogas, salvo que se obtenga previamente autorización expresa del Banco Central de Chile.
-
-6.- Si algún delegado llegare con atraso o una institución no transmitiera la información oportunamente, en el caso de utilizarse un sistema de transmisión y procesamiento electrónico de datos, el Jefe de Cámara dará cuenta a la superioridad de la Institución de Turno para que ésta notifique del hecho a la institución respectiva.
-
-Después de una segunda notificación a una misma institución dentro de un mes, ésta quedará obligada a remplazar a su delegado, siempre que la institución notificada no proporcione oficialmente y por escrito las explicaciones que justifiquen el atraso, o éstas sean insuficientes a juicio de la Superioridad de la Institución de Turno. Sin embargo, si en cualquiera oportunidad el atraso fuere superior a quince minutos, la institución quedará excluida de esa reunión de la Cámara. Esta exclusión privará a dicha institución del derecho de hacer entrega de los documentos que presente para ser compensados, no obstante lo cual deberá recibir y hacerse cargo de aquellos que las demás hayan presentado en su contra.
-
-7.- Para la aplicación del presente Reglamento, se entenderá por jurisdicción aquella parte del territorio nacional en que se encuentren ubicadas determinadas plazas financieras. La Superintendencia de Bancos e Instituciones Financieras determinará las plazas financieras que conforman una jurisdicción y la plaza jurisdiccional correspondiente, que es el lugar donde se efectúa la compensación final de dicha jurisdicción. Asimismo, podrá agrupar determinadas plazas con el objeto de que ellas actúen como una sola plaza para efectos del canje y cobro de documentos.
-
-8.- El Gerente o Agente de la Institución de Turno, podrá modificar, en casos justificados, el horario ordinario del funcionamiento de la Cámara o de recepción de datos, siempre que lo pida, a lo menos, la mayoría absoluta de las instituciones que obligatoriamente deban participar en la reunión de que se trate, a excepción de lo relacionado con la quinta reunión en Santiago, para lo cual deberá contarse, previamente, con la conformidad del Banco Central de Chile.
-
-IX.- DE LAS REUNIONES DE LA CAMARA.
-
-9.- En todas las plazas financieras del país, no pertenecientes a una agrupación y en que mantengan oficinas dos o más instituciones financieras y en las agrupaciones de plazas se celebrarán, con la participación obligatoria de todas las instituciones de la plaza o agrupación, las reuniones de la Cámara de Compensación que se detallan a continuación:
-
-9.1.- CHEQUES Y DEMAS DOCUMENTOS DE LA MISMA PLAZA O AGRUPACION DE PLAZAS.
-
-a) Primera Reunión (Cámara Inicial):
-
-a1) Esta reunión se iniciará todos los días hábiles a las horas que se indican:
-
-Lunes: 17:30 horas
-
-Martes a viernes: 17:00 horas
-
-Si el día lunes no fuere hábil, la primera Cámara del día siguiente hábil se celebrará a partir de las 17:30 horas.
-
-Sin embargo, podrá fijarse en forma permanente un horario distinto a éste cuando el volumen de documentos a procesar o las características de una determinada plaza financiera así lo aconsejare. Esta modificación deberá acordarse por la mayoría absoluta de las instituciones de la plaza e informarse a la Superintendencia de Bancos e Instituciones Financieras, por el Gerente o Agente de la Institución que se encuentre de turno, en la fecha en que ella se adopte.
-
-a2) El objetivo de esta reunión es efectuar el canje, la compensación y el cobro de los cheques y demás documentos de las empresas financieras de cargo de las otras de la misma plaza o agrupación de plazas, según corresponda. Sin embargo, toda institución tiene el derecho de no cobrar por Cámara cualquier documento que tenga contra otra.
-
-a3) Los requisitos básicos que deben cumplir los documentos para su presentación a esta reunión de la Cámara, serán los relativos al de su cancelación. Para tal efecto, será necesario que se estampe en el anverso de ellos el timbre de caja y en el reverso, el timbre de Cámara que indique el nombre de la institución que los presenta, el número que a ella le haya correspondido en la Cámara y la fecha de recepción del documento, con el cual esa institución se responsabiliza del último endoso que contenga.
-
-a4) En esta primera reunión de la Cámara de Compensación, cada institución que presente cheques y otros documentos en canje, deberá confeccionar una planilla en la que indicará el total del valor de los documentos que presenta a cobro a cada una de las otras instituciones. En esa misma planilla anotará también, el total del valor de los documentos que, a su vez, reciba de cada institución. La diferencia que resulte, determinará el saldo a favor o en contra de esa institución.
-
-Una vez que cada participante complete su planilla parcial en la forma antes descrita, entregará la copia de ésta, debidamente cuadrada y firmada al Jefe de Cámara.
-
-El Jefe de Cámara confeccionará la planilla general, refundiendo las planillas parciales para establecer los saldos que corresponda pagar o recibir a cada una. Obtenida la cuadratura de esta planilla general, dará su conformidad a cada institución participante, sea mediante su firma estampada en el original de la planilla presentada o, en el caso de haberse utilizado un sistema de transmisión y procesamiento electrónico de datos, según se señala en el párrafo siguiente, mediante su conformidad certificada a través del mismo medio.
-
-En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras, se podrá remplazar las planillas mencionadas en este numeral por el envió de mensajes a través de la red del sistema.
-
-a5) Cada vez que lo disponga la Superintendencia de Bancos e Instituciones Financieras, se convocará a reuniones de carácter extraordinario.
-
-b) Segunda Reunión (Cámara de Errores);
-
-b1) Todos los días hábiles, a las 9:30 horas en el mismo recinto de la Cámara, se celebrará una segunda reunión destinada a rectificar los valores mal cobrados en la primera Cámara el día hábil anterior.
-
-b2) La determinación de saldos a favor y en contra se hará conforme al procedimiento ya señalado para la primera reunión.
-
-b3) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, las planillas podrán remplazarse por el envió de mensajes a través de la red del sistema y el ajuste de valores y devolución de documentos rechazados se efectuará en la tercera reunión Asimismo, la determinación de saldos a favor y en contra se efectuará en forma transitoria, realizándose en todo caso la transmisión de las planillas pertinentes a las instituciones financieras.
-
-c) Tercera Reunión (Cámara de Devoluciones):
-
-c1) Esta reunión se efectuará todos los días hábiles a las horas que se indican:
-
-Martes: 11:30 horas
-
-Miércoles a lunes: 11:00 horas
-
-Si el día martes no fuere hábil la tercera Cámara del día siguiente hábil se celebrará a las 11:30 horas
-
-c2) El objeto de esta reunión será efectuar el canje de los cheques u otros documentos rechazados por las Instituciones libradas por falta de fondos o por cualquier otra causa. En esta reunión deberán ser presentados todos los valores entregados en la primera reunión, que las Instituciones hayan devuelto por algunos de los motivos señalados
-
-c3) Los cheques para ser devueltos deberán llevar estampado en el dorso un timbre de protesto extendido en la forma prevista en el artículo 33 de la Ley de Cuentas Corrientes Bancarias y Cheques
-
-En consecuencia, quedará establecida la conformidad de todos aquellos documentos que no sean devueltos por su intermedio, salvo que por acuerdo entre la institución receptora y la obligada al pago se resuelva que esta última pague el documento fuera de Cámara
-
-c4) El procedimiento de compensación de esta tercera reunión será igual al establecido en el numeral a4) anterior.
-
-c5) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se efectuará también en esta reunión el ajuste de valores y devolución de documentos rechazados, cuyos montos hayan sido incluidos en los mensajes de la segunda reunión, procediéndose al cierre de ésta conjuntamente con la transmisión de las planillas definitivas.
-
-d) Cuarta Reunión (Cámara de Operaciones Interfinancieras).
-
-d1) Esta reunión se efectuará cada día hábil a las 15:00 horas
-
-d2) El objetivo de esta reunión será el canje de documentos que den cuenta de operaciones entre instituciones financieras y cuyo pago tenga liquidez en el día, ya sea que corresponda al rescate de valores de otras plazas, venta de divisas, créditos interfinancieros, compraventa de P.D.B.C., etc.
-
-Asimismo, en aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se incluirán en esta reunión aquellas obligaciones de pago que se generen electrónicamente mediante el envío y recepción de mensajes a través de la red de dicho sistema, siempre que las instituciones financieras participantes hayan convenido previamente en aceptar la plena validez de ese procedimiento.
-
-Las obligaciones de pago generadas electrónicamente podrán corresponder tanto a operaciones de la propia institución, como a transferencias de fondos por operaciones de sus cuentacorrentistas y/o clientes.
-
-d3) En esta reunión podrán compensarse, exclusivamente las órdenes de pago u obligaciones indicadas en el numeral d2) anterior, emitidas por una institución participante en la Cámara en favor de otra de ellas por concepto de las operaciones interfinancieras que allí se señalan.
-
-d4) De la compensación de los documentos y obligaciones mencionados se determinarán los saldos a favor y en contra, en la misma forma señalada en las cámaras anteriores.
-
-En las plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, se comunicará el resultado de esta cámara a las instituciones participantes, mediante un mensaje transmitido a través de la red del sistema,.
-
-9.2.- CHEQUES Y DEMAS DOCUMENTOS DE OTRAS PLAZAS NO PERTENECIENTES A UNA MISMA AGRUPACION DE PLAZAS.
-
-Las instituciones podrán efectuar el cobro de los cheques y demás documentos de otras plazas no pertenecientes a la misma agrupación de plazas, a través de alguno de los siguientes procedimientos:
-
-- En la Cámara de Compensación de la plaza o agrupación de plazas correspondiente a la institución librada del documento.
-
-- A través de la Cámara de Compensación local, si la institución librada tiene presencia en dicha plaza o agrupación de plazas.
-
-- En el caso que la institución librada no tenga presencia en la plaza o agrupación de plazas de la institución receptora del documento, esta última podrá presentarlo a cobro en cualquiera Cámara de Compensación en que ambas tengan presencia, o a través del servicio de corresponsalía bancaria.
-
-Toda institución tiene el derecho de no cobrar por Cámara cualquier documento de otra plaza que tenga contra otra institución. No obstante, estará obligada a recibir y hacerse cargo de aquellos documentos de otras plazas no pertenecientes a la misma agrupación, que las demás instituciones le presenten en su contra.
-
-Existirán las siguientes reuniones de cámara para el cobro de documentos de otras plazas no pertenecientes a la misma agrupación, las que se efectuarán en forma independiente y separada de aquellas correspondientes a los documentos de la misma plaza o agrupación de plazas, sólo coincidiendo, si fuera el caso, el horario y lugar físico de reunión de los delegados.
-
-e) Primera Reunión (Canje / documentos de otras plazas).
-
-e1) Esta reunión se efectuará todos los días hábiles bancarios a las 18:00 horas.
-
-Sin embargo, podrá fijarse un horario distinto a éste cuando el volumen de documentos a procesar o las características de una determinada plaza financiera así lo aconsejare; no obstante, la postergación no podrá exceder de las 9:30 horas del siguiente día hábil bancario. Esta modificación deberá acordarse por la mayoría absoluta de las instituciones de la plaza e informarse a la Superintendencia de Bancos e Instituciones Financieras, por el Gerente o Agente de la institución que se encuentre de turno, en la fecha en que ella se adopte.
-
-e2) El objetivo de esta reunión es efectuar el canje, la compensación y el cobro de los cheques y demás documentos de otras plazas no pertenecientes a la misma agrupación de plazas, de cargo de las otras instituciones con presencia en la plaza o agrupación de plazas, según corresponda.
-
-e3) Los requisitos básicos que deberán cumplir los documentos para su presentación a esta reunión de la Cámara serán los relativos al de su cancelación. Para tal efecto, será necesario que se estampe en el anverso de ellos el timbre de caja y en el reverso, el timbre de Cámara que indique el nombre de la institución que los presenta, el número que a ella le haya correspondido en la Cámara y la fecha de presentación a la primera reunión, con lo cual esa institución se responsabiliza del último endoso que contengan.
-
-e4) En esta primera reunión, cada institución deberá confeccionar una planilla, en la que indicará el total del valor de los documentos que presenta a cobro a cada una de las otras instituciones. En esa misma planilla anotará también el total del valor de los documentos que, a su vez, reciba de cada institución. La diferencia que resulte determinará el saldo a favor o en contra de esa institución.
-
-Una vez que cada participante complete su planilla parcial en la forma antes descrita, entregará la copia de ésta, debidamente cuadrada y firmada, al Jefe de Cámara.
-
-El Jefe de Cámara confeccionará la planilla general, refundiendo las planillas parciales para establecer los saldos que corresponda pagar o recibir a cada institución. Obtenida la cuadratura de esta planilla general, dará su conformidad a cada institución participante, sea mediante su firma estampada en el original de la planilla presentada o, en el caso de haberse utilizado un sistema de transmisión y procesamiento electrónico de datos, según se señala en el párrafo siguiente, mediante su conformidad certificada a través del mismo medio.
-
-En aquellas plazas en que las instituciones estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras, se podrá reemplazar las planillas mencionadas en este numeral por el envío de mensajes a través de la red del sistema.
-
-e5) Cada vez que lo disponga la Superintendencia de Bancos e Instituciones Financieras se convocará a reuniones de carácter extraordinario.
-
-f) Segunda Reunión (Corrección de errores / documentos de otras plazas).
-
-fl) Esta reunión se efectuará el siguiente día hábil bancario de efectuada la primera reunión, a las 9:45 horas en el mismo recinto de la Cámara, y estará destinada a rectificar los valores mal cobrados en la primera reunión.
-
-f2) La determinación de saldos a favor y en contra se hará conforme al procedimiento señalado en el numeral e4) anterior.
-
-f3) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, las planillas podrán reemplazarse por el envío de mensajes a través de la red del sistema, y el ajuste de valores y devolución de documentos rechazados se efectuará en la tercera reunión. Asimismo, la determinación de saldos a favor y en contra se efectuará en forma transitoria, realizándose, en todo caso, la transmisión de las planillas pertinentes a las instituciones financieras.
-
-g) Tercera Reunión (Cámara de Devoluciones / documentos de otras plazas).
-
-g1) Esta reunión se efectuará todos los días hábiles a las horas que se indican:
-
-Martes: 12.00 horas
-
-Miércoles a lunes: 11.30 horas
-
-Si el día martes no fuere hábil la tercera Cámara del día siguiente hábil se celebrará a las 12.00 horas.
-
-g2) El objeto de esta reunión es efectuar el canje de los cheques u otros documentos rechazados por las instituciones libradas por falta de fondos o por cualquier otra causa. En esta reunión deberán ser presentados todos los valores entregados en la primera reunión del día hábil bancario precedente y que las instituciones hayan devuelto por alguno de los motivos señalados.
-
-g3) Los cheques, para ser devueltos, deberán llevar estampado en el dorso un timbre de protesto, extendido en la forma prevista en el artículo 33 de la Ley de Cuentas Corrientes Bancarias y Cheques.
-
-En consecuencia, quedará establecida la conformidad de todos aquéllos documentos que no sean devueltos por su intermedio, salvo que por acuerdo entre la institución receptora y la obligada al pago se resuelva que esta última pague el documento fuera de Cámara.
-
-g4) El procedimiento de compensación de esta tercera reunión será igual al establecido en el numeral e4) anterior.
-
-g5) En aquellas plazas en que las instituciones financieras estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, también se efectuará en esta reunión el ajuste de valores y devolución de documentos rechazados, cuyos montos hayan sido incluidos en los mensajes de la segunda reunión, procediéndose al cierre de ésta conjuntamente con la transmisión de las planillas definitivas.
-
-9.3.- RESULTADOS DE LAS REUNIONES DE CAMARA.
-
-Cada institución que se encuentre de turno en alguna plaza o agrupación de plazas determinará el resultado de las reuniones del ciclo de cámara de los documentos de la misma plaza o agrupación de plazas y, si corresponde, el resultado de las reuniones del ciclo de cámara de los documentos de otras plazas no pertenecientes a la misma agrupación de plazas.
-
-El resultado consolidado de ambos ciclos de Cámara se comunicará diariamente a la oficina de la misma institución, ubicada en la respectiva plaza jurisdiccional, a una hora tal que permita a esta oficina participar en la quinta reunión en el horario señalado en el numeral a2) ó b2), según corresponda, del número 10 siguiente.
-
-10.- En todas las plazas jurisdiccionales del país, se celebrará una quinta reunión (Cámara de Compensación Jurisdiccional) según se indica a continuación:
-
-a) PLAZAS JURISDICCIONALES DISTINTAS DE SANTIAGO.
-
-a1) En las plazas jurisdiccionales distintas de Santiago, se celebrará una quinta reunión con la participación obligatoria de las instituciones dé esas plazas, que en esa fecha actúen como Instituciones de Turno en alguna plaza o agrupación de plazas de la respectiva Jurisdicción.
-
-a2) Esta reunión se iniciará todos los días hábiles bancarios a las 15.30 horas, bajo la dirección de la institución que se encuentre de turno en la plaza jurisdiccional correspondiente.
-
-a3) El objeto de esta reunión es efectuar la compensación de los saldos resultantes de todas las reuniones de Cámara celebradas en la respectiva Jurisdicción y que correspondan a un ciclo de cámara.
-
-a4) Cada institución que se encuentre de turno en alguna plaza o agrupación de plazas de la jurisdicción, comunicará diariamente a la oficina de su misma institución ubicada en la plaza jurisdiccional, el resultado de las reuniones de Cámara correspondientes a cada ciclo diario, a una hora tal que permita a esta última oficina participar en la quinta reunión en el horario señalado en el numeral a2) anterior.
-
-a5) Las instituciones ubicadas en las plazas jurisdiccionales confeccionarán con la información recibida en cumplimiento de lo dispuesto en el numeral a4) anterior, planillas en que resumirán por cada plaza, los resultados de las reuniones de Cámara informadas por sus oficinas que se desempeñan como Institución de Turno en las respectivas plazas o agrupaciones de plazas de la correspondiente jurisdicción. Esas planillas las entregarán en la quinta reunión o las transmitirán por el sistema de transmisión y procesamiento electrónico de datos, en el caso de ser ese el medio aceptado y utilizado por las instituciones participantes, dentro del horario establecido para dicha reunión.
-
-a6) El Jefe de Cámara recibirá, en original y copia, las planillas resumen o, en su caso, la información enviada a través del sistema de transmisión y procesamiento electrónico de datos que las instituciones participantes entreguen en esa quinta reunión. Con la información recibida y con el resumen que haya preparado de las reuniones de su plaza, confeccionará un cuadro resumen, por institución y por plaza. Obtenida la cuadratura de este resumen, el Jefe de Cámara devolverá a las instituciones participantes el original de las planillas con que éstas concurrieron a la reunión, debidamente firmadas en señal de conformidad o les comunicará la conformidad por intermedio del sistema de transmisión y procesamiento electrónico de datos, con lo que se dará por terminada la reunión.
-
-a7) La Institución de Turno confeccionará, sobre la base del cuadro resumen por institución y por plaza definido en la letra anterior, una "Planilla Resumen Jurisdiccional" en la que determinará el saldo neto a favor o en contra de cada participante.
-
-a8) La Institución de Turno comunicará diariamente a la oficina de su misma institución ubicada en la plaza de Santiago, la "Planilla Resumen Jurisdiccional" a una hora tal que le permita a esta última oficina participar en la quinta reunión de la plaza jurisdiccional de Santiago.
-
-b) PLAZA JURISDICCIONAL DE SANTIAGO.
-
-b1) En la plaza jurisdiccional de Santiago, se celebrará una quinta reunión con la participación obligatoria de las instituciones, que en esa fecha actúen como Instituciones de Turno en alguna plaza o agrupación de plazas de esta Jurisdicción, o en alguna plaza jurisdiccional del país.
-
-b2) Esta reunión se iniciará todos los días hábiles bancarios a las 16.30 horas, bajo la dirección de la institución que se encuentre de turno en la plaza de Santiago.
-
-b3) El objeto de esta reunión es efectuar la compensación de los saldos resultantes de todas las reuniones de Cámara celebradas en la Jurisdicción de Santiago y de los saldos resultantes del resto de las plazas jurisdiccionales del país, ambos correspondientes a un mismo ciclo diario.
-
-b4) Cada institución que se encuentre de turno en alguna plaza o agrupación de plazas de la jurisdicción de Santiago, comunicará diariamente a la oficina de su misma institución ubicada en la plaza de Santiago, el resultado de las reuniones de su plaza o agrupación de plazas, correspondientes a cada ciclo diario, a una hora tal que permita a esta última oficina participar en la quinta reunión en el horario señalado en el numeral b2) anterior.
-
-b5) Cada institución que se encuentre de turno en alguna plaza jurisdiccional distinta de Santiago, comunicará diariamente a la oficina de su misma institución ubicada en Santiago, la "Planilla Resumen Jurisdiccional" a una hora tal que permita a esta última oficina participar en la quinta reunión en el horario señalado en el numeral b2) anterior.
-
-b6) Las instituciones ubicadas en la plaza de Santiago confeccionarán, con la información recibida en cumplimiento de lo dispuesto en el numeral b4) anterior, planillas en que se resumirán por cada plaza, los resultados de las reuniones de Cámara informados por sus oficinas de turno en las respectivas plazas o agrupaciones de plazas de la jurisdicción de Santiago. Esas planillas resumen, junto con las "Planillas Resumen Jurisdiccional" que hubieren recibido de sus oficinas de turno en las demás plazas jurisdiccionales del país, se entregarán en la quinta reunión o se transmitirán por el sistema de transmisión y procesamiento electrónico de datos, en el caso de ser ese el medio aceptado y utilizado por las instituciones participantes, dentro del horario establecido para dicha reunión.
-
-b7) El Jefe de Cámara recibirá, en original y copia, las planillas resumen de las plazas o agrupaciones de plazas de la jurisdicción de Santiago y las "Planillas Resumen Jurisdiccional" de las demás jurisdicciones o, en su caso, la información correspondiente enviada a través del sistema de transmisión y procesamiento electrónico de datos empleado por las instituciones participantes en esa quinta reunión. Con las planillas resumen recibidas de la jurisdicción de Santiago y con el resumen que haya preparado de las reuniones de su plaza, confeccionará un cuadro resumen, por institución y por plaza. Obtenida la cuadratura de este resumen, el Jefe de Cámara devolverá a las instituciones participantes el original de las planillas resumen con que éstas concurrieron a la reunión, debidamente firmadas en señal de conformidad o les comunicará la conformidad por intermedio del sistema de transmisión y procesamiento electrónico de datos. Además, confeccionará la "Planilla Resumen Jurisdiccional" de Santiago, con lo que se dará por terminada la reunión.
-
-b8) El Jefe de Cámara adicionalmente recibirá las "Planillas Resumen de Cajeros Automáticos", de parte de las instituciones de turno que corresponda.
-
-III.- DE LA LIQUIDACION Y PAGO.
-
-11.- La liquidación y pago la efectuará el Banco Central de Chile, sobre la base del "Estado de Saldos Resumidos Netos de Cámara", mediante cargos y abonos en las cuentas corrientes que las Instituciones Financieras mantienen en el Instituto Emisor.
-
-a) La Institución de Turno en la plaza de Santiago confeccionará, sobre la base de las "Planillas Resumen Jurisdiccional" y las "Planillas Resumen de Cajeros Automáticos", un "Estado de Saldos Resumidos Netos de Cámara" en el que determinará el saldo neto a favor o en contra de cada participante. El formato de este estado deberá ser aprobado por el Banco Central de Chile.
-
-b) La Institución de Turno mencionada en la letra a) precedente, deberá entregar o enviar mediante el sistema de transmisión y procesamiento electrónico de datos, al Banco Central de Chile, todos los días hábiles antes de las 17 30 horas, el "Estado de Saldos Resumidos Netos de Cámara" debidamente cuadrado y firmado por el Jefe de Cámara y un mandatario de la Institución de Turno o debidamente autenticado, según corresponda.
-
-c) El Banco Central de Chile, sobre la base del "Estado de Saldos Resumidos Netos de Cámara", efectuará en el mismo día los cargos y abonos en las cuentas corrientes de las instituciones participantes, lo que representará el pago definitivo de los saldos resultantes de las reuniones del ciclo de cámara de los documentos de la misma plaza o agrupación de plazas, de las reuniones del ciclo de cámara de los documentos de otras plazas no pertenecientes a la misma agrupación de plazas, y de la compensación diaria por las operaciones de la red de cajeros automáticos.
-
-XV.- DEL ARCHIVO OFICIAL.
-
-12.- Cada Institución de Turno mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el período que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en los medios magnéticos. El plazo de mantención de estos archivos será el que establezca la Superintendencia de Bancos e Instituciones Financieras, de acuerdo con lo dispuesto en el Art. 19° de la Ley General de Bancos.
-
-V.- DISPOSICION TRANSITORIA.
-
-13.- Las modificaciones a que se refiere el Acuerdo N°855-06-000803 del Consejo del Banco Central de Chile, relativas a los numerales f1) y g2) del número 9.2, regirán a contar del 13 de septiembre de 2000.
-
-ANEXO N° 2
-
-PLAZAS Y JURISDICCIONES
-
-Código Plaza Jurisdicción
+Código Plaza Agrupación Jurisdicción
 
 0008 Arica Arica
 
-0010 Putre "
+0010 Putre Arica
 
 0016 Iquique Iquique
 
-0018 Pozo Almonte "
+0018 Pozo Almonte Iquique
 
 0024 Tocopilla Antofagasta
 
-0040 Pedro de Valdivia "
+0040 Pedro de Valdivia Antofagasta
 
-0048 Chuquicamata "
-
-0056 Calama "
-
-0064 Antofagasta "
-
-0072 Taltal "
-
-0080 Chañaral "
-
-0088 Potrerillos "
-
-0096 El Salvador "
-
-0098 Diego de Almagro "
-
-0100 Caldera "
-
-0104 Copiapó "
-
-0108 Huasco "
-
-0112 Vallenar Santiago
-
-0120 La Serena "
-
-0128 Coquimbo "
-
-0136 Vicuña "
-
-0140 Andacollo "
-
-0144 Ovalle "
-
-0148 Monte Patria "
-
-0152 Combarbalá "
-
-0160 Illapel "
-
-0168 Los Vilos "
-
-0176 Salamanca "
-
-0178 Petorca Valparaíso
-
-0184 Cabildo "
-
-0200 La Ligua "
-
-0202 Puchuncavi "
-
-0204 Nogales "
-
-0208 San Felipe "
-
-0216 Putaendo "
-
-0224 Los Andes "
-
-0225 Saladillo "
-
-0232 La Calera "
-
-0240 Llay-Llay "
-
-0248 Quillota "
-
-0256 Limache "
-
-0264 Villa Alemana "
-
-0268 El Belloto "
-
-0272 Quilpué "
-
-0280 Viña del Mar "
-
-0284 Concón "
-
-0288 Quintero "
-
-0290 Ventanas "
-
-0296 Valparaíso "
-
-0300 Isla de Pascua "
-
-0304 Casablanca "
-
-0308 Tiltil Santiago
-
-0310 Lampa "
-
-0330 Algarrobo "
-
-0332 El Quisco "
-
-034 Cartagena "
-
-0336 San Antonio "
-
-0340 Llo-lleo "
-
-0312 Curacaví "
-
-0320 Santiago "
-
-0324 Colina "
-
-0328 Maipú "
-
-0344 San Bernardo "
-
-0352 Puente Alto "
-
-0356 San José de Maipo "
-
-0357 Pirque "
-
-0358 Padre Hurtado "
-
-0360 Peñaflor "
-
-0368 Talagante Santiago
-
-0370 El Monte "
-
-0376 Melipilla "
-
-0378 Isla de Maipo "
-
-0384 Buin "
-
-0386 Paine "
-
-0392 Graneros "
-
-0394 Litueche "
-
-0400 Rancagua "
-
-0416 Machalí "
-
-0424 Doñihue "
-
-0432 Requínoa "
-
-0434 Quinta de Tilcoco "
-
-0440 Rengo "
-
-0432 Malloa "
-
-0448 San Vicente de Tagua Tagua "
-
-0452 Las Cabras "
-
-0456 Peumo "
-
-0460 Pichilemu "
-
-0464 San Fernando "
-
-0472 Nancagua "
-
-0480 Santa Cruz "
-
-0484 Peralillo "
-
-0488 Chimbarongo "
-
-0490 Teno "
-
-0496 Curicó "
-
-0500 Licantén "
-
-0504 Curepto "
-
-0512 Molina "
-
-0520 Constitución "
-
-0528 Talca "
-
-0530 San Clemente "
-
-0536 San Javier "
-
-0544 Villa Alegre "
-
-0552 Linares "
-
-0554 Longaví "
-
-0556 Chanco "
-
-0560 Cauquenes Concepción
-
-0568 Parral "
-
-0576 Quirihue "
-
-0584 San Carlos "
-
-0592 Coelemu "
-
-0600 Chillán "
-
-0602 Coihueco "
-
-0608 Tomé "
-
-0616 Bulnes "
-
-0624 Concepción "
-
-0628 Talcahuano "
-
-0632 Penco "
-
-0648 Cabrero "
-
-0664 Coronel "
-
-0672 Lota "
-
-0680 Curanilahue "
-
-0688 Yumbel "
-
-0696 Yungay "
-
-0698 Huepil "
-
-0704 Arauco "
-
-0712 Laja "
-
-0720 Los Angeles "
-
-0728 Santa Bárbara "
-
-0736 Nacimiento "
-
-0738 Los Álamos "
-
-0744 Lebu "
-
-0752 Mulchén "
-
-0776 Cañete "
-
-0760 Angol "
-
-0768 Purén "
-
-0776 Cañete "
-
-0784 Collipulli "
-
-0792 Victoria "
-
-0800 Traiguén "
-
-0808 Curacautín "
-
-0810 Lonquimay "
-
-0812 Galvarino "
-
-0816 Lautaro "
-
-0824 Carahue "
-
-0840 Temuco "
-
-0848 Nueva Imperial "
-
-0850 Puerto Saavedra "
-
-0856 Cunco "
-
-0872 Pitrufquén "
-
-0880 Gorbea "
-
-0885 Toltén "
-
-0888 Villarrica "
-
-0892 Pucón "
-
-0896 Loncoche "
-
-0904 Panguipulli "
-
-0912 Lanco "
-
-0920 San José de la Mariquina "
-
-0928 Valdivia Puerto Montt
-
-0936 Los Lagos "
-
-0944 Paillaco "
-
-0952 La Unión "
-
-0960 Río Bueno "
-
-0968 Osorno "
-
-0970 Entre Lagos "
-
-0984 Río Negro "
-
-0988 Purranque Puerto Montt
-
-0990 Puerto Octay
-
-0992 Frutillar "
-
-1000 Llanquihue "
-
-1008 Puerto Varas "
-
-1016 Fresia "
-
-1020 Los Muermos "
-
-1024 Puerto Montt "
-
-1032 Calbuco "
-
-1040 Maullín "
-
-1048 Ancud "
-
-1056 Castro "
-
-1060 Achao "
-
-1064 Chonchi "
-
-1068 Quellón "
-
-1072 Alto Palena "
-
-1074 Chaitén "
-
-1075 Futaleufú "
-
-1080 Puerto Aysén "
-
-1088 Coyhaique "
-
-1096 Chile Chico "
-
-1100 Cochrane "
-
-1104 Puerto Natales Punta Arenas
-
-1112 Punta Arenas "
-
-Código Plaza Jurisdicción
-
-1120 Puerto Porvenir Punta Arenas
-
-1124 Puerto Harris "
-
-1130 Puerto Williams "
-
-AGRUPACION DE PLAZAS
-
-Código Plaza Cámara de la Agrupación Jurisdicción
+0048 Chuquicamata Calama Antofagasta
 
 0056 Calama Calama Antofagasta
 
-0048 Chuquicamata " "
+0064 Antofagasta Antofagasta
+
+0072 Taltal Antofagasta
+
+0080 Chañaral Antofagasta
+
+0088 Potrerillos Antofagasta
+
+0096 El Salvador Antofagasta
+
+0098 Diego de Almagro Antofagasta
+
+0100 Caldera Antofagasta
+
+0104 Copiapó Antofagasta
+
+0108 Huasco Santiago
+
+0112 Vallenar Santiago
 
 0120 La Serena La Serena Santiago
 
-0128 Coquimbo " "
+0128 Coquimbo La Serena Santiago
+
+0136 Vicuña Santiago
+
+0140 Andacollo Santiago
+
+0144 Ovalle Santiago
+
+0148 Monte Patria Santiago
+
+0152 Combarbalá Santiago
+
+0160 Illapel Santiago
+
+0168 Los Vilos Santiago
+
+0176 Salamanca Santiago
+
+0178 Petorca Valparaíso
+
+0184 Cabildo Valparaíso
+
+0200 La Ligua Valparaíso
+
+0202 Puchuncavi Valparaíso
+
+0204 Nogales Valparaíso
 
 0208 San Felipe San Felipe Valparaíso
 
-0216 Putaendo " "
+0216 Putaendo San Felipe Valparaíso
 
-0224 Los Andes " "
+0224 Los Andes San Felipe Valparaíso
+
+0225 Saladillo Valparaíso
+
+0232 La Calera Valparaíso
+
+0240 Llay-Llay Valparaíso
+
+0248 Quillota Valparaíso
+
+0256 Limache Valparaíso
+
+0264 Villa Alemana Valparaíso Valparaíso
+
+0268 El Belloto Valparaíso Valparaíso
+
+0272 Quilpué Valparaíso Valparaíso
+
+0280 Viña del Mar Valparaíso Valparaíso
+
+0284 Concón Valparaíso Valparaíso
+
+0288 Quintero Valparaíso Valparaíso
+
+0290 Ventanas Valparaíso Valparaíso
 
 0296 Valparaíso Valparaíso Valparaíso
 
-0280 Viña del Mar " "
+0300 Isla de Pascua Valparaíso
 
-0284 Concón " "
+0304 Casablanca Valparaíso
 
-0264 Villa Alemana " "
+0330 Algarrobo Santiago
 
-0268 El Belloto " "
+0332 El Quisco Santiago
 
-0272 Quilpué " "
-
-0320 Santiago Santiago Santiago
-
-0324 Colina " "
-
-0308 Tiltil " "
-
-0310 Lampa " "
-
-0328 Maipú " "
-
-0360 Peñaflor " "
-
-0368 Talagante " "
-
-0344 San Bernardo " "
-
-0352 Puente Alto " "
-
-0356 San José de Maipo " "
-
-0357 Pirque " "
-
-0370 El Monte " "
-
-0376 Melipilla " "
-
-0378 Isla de Maipo " "
-
-0384 Buin " "
-
-0386 Paine " "
+0334 Cartagena Santiago
 
 0336 San Antonio San Antonio Santiago
 
-0340 Llo-lleo " "
+0340 Llo-lleo San Antonio Santiago
+
+0312 Curacaví Santiago
+
+0308 Tiltil Santiago
+
+0310 Lampa Santiago Santiago
+
+0320 Santiago Santiago Santiago
+
+0324 Colina Santiago Santiago
+
+0328 Maipú Santiago Santiago
+
+0344 San Bernardo Santiago Santiago
+
+0352 Puente Alto Santiago Santiago
+
+0356 San José de Maipo Santiago Santiago
+
+0357 Pirque Santiago Santiago
+
+0358 Padre Hurtado Santiago Santiago
+
+0360 Peñaflor Santiago Santiago
+
+0368 Talagante Santiago Santiago
+
+0370 El Monte Santiago Santiago
+
+0376 Melipilla Santiago Santiago
+
+0378 Isla de Maipo Santiago Santiago
+
+0384 Buin Santiago Santiago
+
+0386 Paine Santiago Santiago
+
+0392 Graneros
+
+0394 Litueche Santiago
+
+0400 Rancagua Santiago
+
+0416 Machalí Santiago
+
+0424 Doñihue Santiago
+
+0432 Requínoa Santiago
+
+0434 Quinta de Tilcoco Santiago
+
+0440 Rengo
+
+0432 Malloa Santiago
+
+0448 San Vicente de Tagua Tagua Santiago
+
+0452 Las Cabras Santiago
+
+0456 Peumo Santiago
+
+0460 Pichilemu Santiago
+
+0464 San Fernando Santiago
+
+0472 Nancagua Santiago
+
+0480 Santa Cruz Santiago
+
+0484 Peralillo Santiago
+
+0488 Chimbarongo Santiago
+
+0490 Teno Santiago
+
+0496 Curicó Santiago
+
+0500 Licantén Santiago
+
+0504 Curepto Santiago
+
+0512 Molina Santiago
+
+0520 Constitución Santiago
+
+0528 Talca Santiago
+
+0530 San Clemente Santiago
+
+0536 San Javier Santiago
+
+0544 Villa Alegre Santiago
+
+0552 Linares Santiago
+
+0554 Longaví Santiago
+
+0556 Chanco Santiago
+
+0560 Cauquenes Concepción
+
+0568 Parral Concepción
+
+0576 Quirihue Concepción
+
+0584 San Carlos Concepción
+
+0592 Coelemu Concepción
+
+0600 Chillán Concepción
+
+0602 Coihueco Concepción
+
+0608 Tomé Concepción
+
+0616 Bulnes Concepción
 
 0624 Concepción Concepción Concepción
 
-0628 Talcahuano " "
+0628 Talcahuano Concepción Concepción
 
-0632 Penco " "
+0632 Penco Concepción Concepción
+
+0648 Cabrero Concepción
+
+0664 Coronel Concepción
+
+0672 Lota Concepción
+
+0680 Curanilahue Concepción
+
+0688 Yumbel Concepción
+
+0696 Yungay Concepción
+
+0698 Huepil Concepción
+
+0704 Arauco Concepción
+
+0712 Laja Concepción
+
+0720 Los Angeles Concepción
+
+0728 Santa Bárbara Concepción
+
+0736 Nacimiento Concepción
+
+0738 Los Álamos Concepción
+
+0744 Lebu Concepción
+
+0752 Mulchén Concepción
+
+0776 Cañete Concepción
+
+0760 Angol Concepción
+
+0768 Purén Concepción
+
+0776 Cañete Concepción
+
+0784 Collipulli Concepción
+
+0792 Victoria Concepción
+
+0800 Traiguén Concepción
+
+0808 Curacautín Concepción
+
+0810 Lonquimay Concepción
+
+0812 Galvarino Concepción
+
+0816 Lautaro Concepción
+
+0824 Carahue Concepción
+
+0840 Temuco Concepción
+
+0848 Nueva Imperial Concepción
+
+0850 Puerto Saavedra Concepción
+
+0856 Cunco Concepción
+
+0872 Pitrufquén Concepción
+
+0880 Gorbea Concepción
+
+0885 Toltén Concepción
+
+0888 Villarrica Concepción
+
+0892 Pucón Concepción
+
+0896 Loncoche Concepción
+
+0904 Panguipulli Concepción
+
+0912 Lanco Concepción
+
+0920 San José de la Mariquina Concepción
+
+0928 Valdivia Puerto Montt
+
+0936 Los Lagos Puerto Montt
+
+0944 Paillaco Puerto Montt
 
 0952 La Unión La Unión Puerto Montt
 
-0960 Río Bueno " "
+0960 Río Bueno La Unión Puerto Montt
 
-1024 Puerto Montt Puerto Montt Puerto Montt
+0968 Osorno Puerto Montt
 
-1008 Puerto Varas " "
+0970 Entre Lagos Puerto Montt
 
-1000 Llanquihue " "
+0984 Río Negro Puerto Montt
 
-ANEXO N° 3
+0988 Purranque Puerto Montt
 
-REGLAMENTO DE CAMARA DE COMPENSACION DE CHEQUES Y OTROS DOCUMENTOS EMITIDOS EN MONEDA EXTRANJERA EN EL PAIS
+0990 Puerto Octay Puerto Montt
 
-X.- DISPOSICIONES GENERALES.
+0992 Frutillar Puerto Montt
+
+1000 Llanquihue Puerto Montt Puerto Montt
+
+1008 Puerto Varas Puerto Montt Puerto Montt
+
+1016 Fresia Puerto Montt Puerto Montt
+
+1020 Los Muermos Puerto Montt
+
+1024 Puerto Montt Puerto Montt
+
+1032 Calbuco Puerto Montt
+
+1040 Maullín Puerto Montt
+
+1048 Ancud Puerto Montt
+
+1056 Castro Puerto Montt
+
+1060 Achao Puerto Montt
+
+1064 Chonchi Puerto Montt
+
+1068 Quellón Puerto Montt
+
+1072 Alto Palena Puerto Montt
+
+1074 Chaitén Puerto Montt
+
+1075 Futaleufú Puerto Montt
+
+1080 Puerto Aysén Puerto Montt
+
+1088 Coyhaique Puerto Montt
+
+1096 Chile Chico Puerto Montt
+
+1100 Cochrane Puerto Montt
+
+1104 Puerto Natales Punta Arenas
+
+1112 Punta Arenas Puerto Montt
+
+1120 Puerto Porvenir Punta Arenas
+
+1124 Puerto Harris Puerto Montt
+
+1130 Puerto Williams Puerto Montt
+
+ANEXO N°2
+
+A continuación se transcribe el Reglamento del Banco Central de Chile que regula el funcionamiento dé la cámara de compensación de documentos en moneda extranjera:
+
+REGLAMENTO DE CAMARA DE COMPENSACIÓN DE CHEQUES Y OTROS DOCUMENTOS EMITIDOS EN MONEDA EXTRANJERA CONTRA CUENTAS EN EL PAIS
+
+I.- DISPOSICIONES GENERALES.
 
 ### 1. Objetivo
 
@@ -6634,19 +6234,19 @@ La Cámara de Compensación de Cheques y otros documentos emitidos en moneda ext
 
 El funcionamiento de la Cámara de Compensación de Cheques y otros documentos emitidos en moneda extranjera, se regirá por las normas del presente Reglamento. Le corresponderá a la Superintendencia de Bancos e Instituciones Financieras impartir las instrucciones que sean necesarias para su debida aplicación.
 
-Las empresas bancarias, en adelante -las instituciones-, estarán representadas en la Cámara por delegados idóneos del área internacional de cada una de ellas, designados para el efecto, que deben ser acreditados ante la Institución de Turno por medio de carta firmada por sus Gerentes Generales confiriéndoles poder suficiente para que representen a la institución en todas las operaciones de la Cámara en las que dichos delegados deban intervenir. Dichos poderes serán traspasados al término de cada período de turno, por la institución que finaliza su cometido a aquella que inicia el nuevo lapso de turno. La carencia del mencionado poder determinará que el delegado no sea considerado como tal.
+Las empresas bancarias, en adelante - las instituciones-, estarán representadas en la Cámara por delegados idóneos del área internacional de cada una de ellas, designados para el efecto, que deben ser acreditados ante la Institución de Turno por medio de carta firmada por sus Gerentes Generales confiriéndoles poder suficiente para que representen a la institución en todas las operaciones de la Cámara en las que dichos delegados deban intervenir. Dichos poderes serán traspasados al término de cada período de turno, por la institución que finaliza su cometido a aquella que inicia el nuevo lapso de turno. La carencia del mencionado poder determinará que el delegado no sea considerado como tal.
 
 2.1. Lugar físico del funcionamiento.
 
-Esta Cámara de Compensación operará en Santiago, físicamente en el mismo local de la Cámara de Compensación de instrumentos en moneda nacional, habilitado para dicho efecto por la Asociación de Bancos e Instituciones Financieras A.G., y será administrada al igual que su congénere de común acuerdo por las entidades participantes en turnos mensuales, que deben ser informados a la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio que cuenten para el efecto con un sistema de transmisión y procesamiento electrónico de datos, autorizado por el mencionado Organismo Contralor y por el Banco Central de Chile. En otras plazas funcionará en la sede del Banco de Tumo o en el local que, de común acuerdo, determinen las instituciones partícipes.
+Esta Cámara de Compensación operará en Santiago, físicamente en él mismo local de la Cámara de Compensación de instrumentos en moneda nacional, habilitado para dicho efecto por la Asociación de Bancos e Instituciones Financieras A.G., y será administrada al igual que su congénere de común acuerdo por las entidades participantes en turnos mensuales, que deben ser informados a la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio que cuenten para el efecto con un sistema de transmisión y procesamiento electrónico de datos, autorizado por el mencionado Organismo Contralor y por el Banco Central de Chile. En otras plazas funcionará en la sede del Banco de Turno ó en el local que, de común acuerdo, determinen las instituciones partícipes.
 
 2.2. Institución de Turno y Jefe de Cámara.
 
-Los bancos que participan en esta Cámara de Compensación designarán, de común acuerdo, a uno de ellos, en forma rotativa y por períodos mensuales completos, como Institución de Tumo, debiendo ésta nombrar al Jefe de Cámara, quien presidirá y controlará el desarrollo de las reuniones que se celebren.
+Los bancos que participan en esta Cámara de Compensación designarán, de común acuerdo, a uno de ellos, en forma rotativa y por períodos mensuales completos, como Institución de Turno, debiendo ésta nombrar al Jefe de Cámara, quien presidirá y controlará el desarrollo de las reuniones que se celebren.
 
-La designación de la Institución de Tumo deberá ser comunicada por ésta a la Superintendencia de Bancos e Instituciones Financieras, a lo menos cinco días hábiles antes del comienzo del tumo respectivo.
+La designación de la Institución de Turno deberá ser comunicada por ésta a la Superintendencia de Bancos e Instituciones Financieras, a lo menos cinco días hábiles antes del comienzo del turno respectivo.
 
-Cada tumo se iniciará con la primera Cámara del primer día hábil de cada período y terminará con la tercera Cámara del primer día hábil del período inmediatamente siguiente.
+Cada turno se iniciará con la primera Cámara del primer día hábil de cada período y terminará con la tercera Cámara del primer día hábil del período inmediatamente siguiente.
 
 La Institución de Turno se responsabilizará ante la Superintendencia de Bancos e Instituciones Financieras, tanto del cumplimiento de los horarios, como de la aplicación del presente Reglamento.
 
@@ -6676,9 +6276,9 @@ Para la aplicación del presente Reglamento, se entenderá por jurisdicción a a
 
 En todas las plazas financieras del país en que las instituciones financieras de la misma acuerden, por mayoría absoluta, el intercambio de documentos en moneda extranjera afectos a este Reglamento, se celebrarán con la participación obligatoria de todas las instituciones que deben concurrir a esta Cámara las reuniones que se detallan a continuación:
 
-### 1. Primera reunión (Cámara Inicial)
+### 1. Primera reunión (Cámara inician
 
-1.1. Horario.
+1.1 Horario.
 
 Esta reunión se iniciará todos los días hábiles en las horas que se indican:
 
@@ -6688,15 +6288,15 @@ Martes a viernes : 16:45 horas
 
 Si el día lunes no fuera día hábil bancario, la primera Cámara del día siguiente hábil bancario se celebrará a partir de las 17:15 horas.
 
-1.2. Objetivo.
+1.2 Objetivo.
 
 El objetivo de esta reunión es efectuar el canje, compensación y cobro de los cheques en moneda extranjera girados contra cuentas corrientes abiertas en bancos que operan en el país, y demás documentos emitidos en moneda extranjera, en Chile o en el exterior, de cargo de esos bancos, con arreglo a las disposiciones legales y a las normas de cambios internacionales impartidas por el Banco Central de Chile. Sin embargo, tal propósito no inhibe el derecho que toda institución tiene de cobrar en forma directa cualquier documento que tenga contra otra, sin pasar por la Cámara.
 
-1.3. Requisitos básicos.
+1.3 Requisitos básicos.
 
 Los requisitos básicos que deben cumplir los documentos aludidos para su presentación a esta reunión de la primera Cámara, serán los relativos a su cancelación. Para tal efecto, será necesario que se estampe: a) en el anverso de ellos el timbre de caja y, b) en reverso, el timbre de Cámara que indique el nombre de la institución que los presenta, el número que a ella le haya correspondido en la Cámara y la fecha de recepción del documento, con lo cual dicha institución se responsabiliza del último endoso que contenga.
 
-1.4. Formalidades de la presentación y resultado de la Cámara.
+1.4 Formalidades de la presentación y resultado de la Cámara.
 
 En esta primera reunión de la Cámara de Compensación, cada institución que presente cheques y otros documentos en canje, deberá confeccionar una planilla en la que se indicará el total del valor de los documentos que presenta a cobro a cada una de las otras instituciones. En la misma planilla anotará también el valor de los documentos que a su vez reciba de cada institución. La diferencia que resulte, individualmente con cada institución, determinará el saldo a favor o en contra con cada una de ellas.
 
@@ -6706,21 +6306,21 @@ El Jefe de Cámara confeccionará una planilla general referencial, refundiendo 
 
 En aquellas plazas en que las instituciones bancarias estén conectadas a un sistema de transmisión y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras, se podrá reemplazar las mencionadas planillas por el envío de mensaje a través de la red del sistema.
 
-1.5. Reuniones extraordinarias.
+1.5 Reuniones extraordinarias.
 
 Cada vez que lo disponga la Superintendencia de Bancos e Instituciones Financieras, se convocará a reuniones de carácter extraordinario.
 
 ### 2. Segunda reunión (Cámara de errores y devoluciones)
 
-2.1. Horario.
+2.1 Horario.
 
 Todos los días hábiles bancarios, a las 09:15 horas, en el mismo recinto de la Cámara, se celebrará una segunda reunión con el objeto que se indica a continuación.
 
-2.2. Objetivo.
+2.2 Objetivo.
 
 El objetivo de esta reunión es: a) efectuar el canje de los cheques y otros documentos rechazados por los bancos librados por falta de fondos o por cualquier otra causa: y b) rectificar errores por los valores mal cobrados. En esta reunión, deberán ser presentados todos los valores entregados en la primera reunión y que las instituciones hayan devuelto por alguno de los motivos señalados.
 
-2.3. Requisitos básicos.
+2.3 Requisitos básicos.
 
 Los requisitos básicos que deben cumplir los documentos que se devuelvan en esta reunión son los siguientes:
 
@@ -6730,9 +6330,9 @@ Los requisitos básicos que deben cumplir los documentos que se devuelvan en est
 
 - **i)** no coincidencia entre monto de la planilla y suma de los documentos, ii) documentos mal enviados, es decir, correspondientes a otro banco girado, etc.), utilizando una planilla complementaria para tal efecto.
 
-2.4. Formalidades de presentación y resultado de la Cámara.
+2.4 Formalidades de presentación y resultado de la Cámara.
 
-En esta reunión, cada banco que devuelva cheques y otros documentos protestados u objetados deberá confeccionar una planilla, en la que indicará el total del valor de los documentos que devuelve a cada una de las otras entidades bancarias. En la misma planilla anotará también el valor de los documentos que a su vez reciba devueltos de cada institución concurrente. La diferencia que resulte individualmente determinará el saldo a favor o en contra que las devoluciones generan a cada una de ellas.
+En esta reunión, cada banco que devuelva cheques y otros documentos protestados u objetados deberá confeccionar una planilla, en la que indicará el total del valor de los documentos qué devuelve a cada una de las otras entidades bancarias. En la misma planilla anotará también el valor de los documentos que a su vez reciba devueltos de cada institución concurrente. La diferencia que resulte individualmente determinará el saldo a favor o en contra que las devoluciones generan a cada una de ellas.
 
 Una vez que cada delegado complete su planilla parcial en la forma antes descrita entregará copia de ésta debidamente cuadrada y firmada al Jefe de Cámara.
 
@@ -6742,7 +6342,7 @@ Concluido el proceso de esta Cámara, quedará establecida la conformidad de tod
 
 ### 3. Tercera reunión (Cámara de cancelación del canje diario)
 
-3.1. Horario.
+3.1 Horario.
 
 Esta reunión se efectuará todos los días hábiles bancarios a las horas que se indican:
 
@@ -6752,11 +6352,11 @@ Miércoles a lunes : 10:45 horas
 
 Si el día martes no fuere día hábil bancario la tercera Cámara del día siguiente hábil bancario se celebrará a las 11:15 horas.
 
-3.2. Objetivo.
+3.2 Objetivo.
 
 El propósito de esta reunión es efectuar la compensación y cancelación de los saldos resultantes de las dos Cámaras anteriores celebradas en la misma plaza.
 
-3.3. Forma en que se materializará la compensación.
+3.3 Forma en que se materializará la compensación.
 
 Cada banco confeccionará una planilla con el importe de los cheques girados sobre el exterior, enviados a favor de los bancos con los cuales tenga saldos en contra. En la misma planilla cada delegado anotará el importe de los cheques de la misma naturaleza que reciba de las entidades contra las cuales tenga saldo a favor.
 
@@ -6764,55 +6364,17 @@ Una vez que cada participante complete su planilla parcial en la forma descrita,
 
 El Jefe de Cámara confeccionará una planilla general referencial refundiendo las planillas parciales para efectos de cuadratura. Obtenida la cuadratura de dicha planilla general, dará su conformidad al proceso de compensación general del día, mediante firma estampada en el original de la planilla presentada o, en el caso de haberse utilizado un sistema de transmisión y procesamiento electrónico de datos, mediante su conformidad certificada a través del mismo medio.
 
-3.4. Pago.
+3.4 Pago.
 
 Los bancos deudores cancelarán en esta reunión los saldos en su contra que se determinen en la Cámara, mediante cheques emitidos en dólares sobre la plaza de Nueva York, a favor de los respectivos bancos acreedores.
 
 No obstante lo señalado en el presente Título II, podrá fijarse en forma permanente un horario distinto a éste cuando el volumen de documentos a procesar o las características de una determinada plaza financiera así lo aconsejare.
 
-### III. ARCHIVO OFICIAL
+III.- ARCHIVO OFICIAL.
 
-### 1. Responsabilidad de la Institución de Turno
+### 1. Responsabilidad de la Institución de Tumo
 
-Cada Institución de Tumo mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el lapso que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en medios magnéticos. El plazo de mantención de estos archivos, será el que se establece en el Art. 19 de la Ley General de Bancos.
-
-ANEXO N°4
-
-REGLAMENTO DE COMPENSACION POR OPERACIONES EFECTUADAS A TRAVES DE CAJEROS AUTOMATICOS EN EL PAIS.
-
-### I. DISPOSICIONES GENERALES
-
-1.- La compensación por operaciones efectuadas a través de cajeros automáticos tiene como propósito determinar y cobrar los saldos, a favor o en contra, de una determinada empresa bancaria o sociedad financiera del país, por las operaciones en moneda nacional efectuadas por los usuarios de cajeros automáticos y que sean de cargo de otra empresa bancaria o sociedad financiera afiliada a la misma red.
-
-2.- El procedimiento de compensación se regirá por el presente Reglamento y corresponderá a la Superintendencia de Bancos e Instituciones Financieras interpretar sus disposiciones, de acuerdo con sus facultades Las resoluciones que adopte al respecto obligarán a las empresas bancarias y las sociedades financieras, en adelante "las instituciones", y a las empresas de apoyo al giro bancario que operen como administradora de alguna red de cajeros automáticos, en adelante "la administradora".
-
-3.- Toda institución tiene el derecho de no cobrar por este procedimiento de compensación cualquier operación de cajero automático que tenga contra otra institución No obstante, deberá hacerse cargo de aquellas que las demás instituciones le presenten en su contra.
-
-4.- Las instituciones partícipes en la red de cajeros automáticos designarán, de común acuerdo, en forma rotativa y por períodos completos a la Institución de Turno, quien controlará el desarrollo y ejecutará el proceso operativo de la Compensación, responsabilizándose ante la Superintendencia de Bancos e Instituciones Financieras tanto del cumplimiento de los horarios como de la aplicación del presente Reglamento.
-
-La duración de cada turno corresponderá a un mes calendario completo. Sin embargo, las instituciones podrán establecer, de común acuerdo, períodos de duración distinta.
-
-Las designaciones de Institución de Turno recaerán exclusivamente en las empresas bancarias y sociedades financieras que participen en una red de cajeros automáticos, y deberán ser comunicadas por ella misma a la Superintendencia de Bancos e Instituciones Financieras a lo menos cinco días hábil es antes del comienzo del turno respectivo.
-
-5.- Para la aplicación del presente Reglamento, se entenderá que la red de cajeros automáticos opera en todo el territorio nacional.
-
-IX.- DE LA OPERACION.
-
-6.- La compensación operará todos los días hábiles bancarios por intermedio de un sistema de transmisión de información y procesamiento electrónico de datos, autorizado por la Superintendencia de Bancos e Instituciones Financieras y aprobado por el Banco Central de Chile.
-
-7.- La administradora efectuará diariamente un cierre de operaciones al término del horario bancario, y antes de las 15.45 horas informará a cada institución partícipe de la red su saldo neto y posición respecto de las restantes instituciones.
-
-Solucionadas las objeciones, si las hubiere, y antes de las 16.00 horas comunicará a la Institución de Turno el saldo neto definitivo, a favor o en contra, de cada institución partícipe.
-
-8.- La Institución de Turno confeccionará, sobre la base de la información recibida, una "Planilla Resumen (Nombre de la Red)" con el saldo neto, a favor o en contra, de cada institución partícipe y la enviará antes de las 16:30 horas al Jefe de Cámara de la plaza jurisdiccional de Santiago, por intermedio del sistema de transmisión de información y procesamiento electrónico de datos.
-
-III.- DE LA LIQUIDACION Y PAGO.
-
-9 - La liquidación y pago se efectuará a través de los cargos y abonos que, en el mismo día y sobre la base del "Estado de Saldos Resumidos Netos de Cámara", efectúa el Banco Central de Chile en las cuentas corrientes que las instituciones mantienen en el Instituto Emisor, lo que representará el pago definitivo de los saldos resultantes de la compensación por las operaciones de la red de cajeros automáticos correspondientes a un ciclo diario.
-
-IV.- DEL ARCHIVO DE LA INFORMACION.
-
-10. La Institución de Turno mantendrá las planillas o mensajes correspondientes al período en que haya ejercido el turno por el plazo que, de acuerdo con las normas generales, éstos deben conservarse.
+Cada Institución de Turno mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el lapso que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en medios magnéticos. El plazo de mantención de estos archivos, será el que se establece en el Art. 19 de la Ley General de Bancos.
 
 CAPITULO 5-2 (Bancos)
 
@@ -6954,85 +6516,37 @@ admiten modificaciones.
 
 3.1. Características del papel.
 
-El papel que se utilice para la confección de los documentos debe tener las
-
-características técnicas y de protección contra adulteración recomendadas por la
-
-Asociación de Bancos e Instituciones Financieras A.G.
+El papel que se utilice para la confección de los documentos debe tener las características técnicas y de protección contra adulteración recomendadas por la Asociación de Bancos e Instituciones Financieras A.G.
 
 3.2. Codificación de institución, plaza y oficina.
 
-Los documentos a cargo de las instituciones financieras, susceptibles de
+Los documentos a cargo de las instituciones financieras, susceptibles de cobrarse por intermedio de la Cámara de Compensación, deben llevar impreso en su extremo superior derecho, a 14 mm del borde superior y a 5 mm del lado derecho, los números de codificación de la institución, plaza y oficina.
 
-cobrarse por intermedio de la Cámara de Compensación, deben llevar impreso en su
+Estos números deben imprimirse con tipos notorios, en la forma señalada en la figura 2 del Anexo N° 5 de este capítulo. La línea de impresión debe tener 30 mm de largo y el ancho total de impresión de los caracteres numéricos de indicación debe ser de 7 mm.
 
-extremo superior derecho, a 14 mm del borde superior y a 5 mm del lado derecho,
+Los números de identificación de cada entidad aparecen en el Anexo N° 6 del presente capítulo. Este número identificará a la entidad financiera en la Cámara Compensadora a través del país y rige para todas las sucursales de la misma institución. Los códigos numéricos correspondientes a las distintas plazas seindican en el Anexo N° 1 del Capítulo 5-1 de esta Recopilación de Normas.
 
-los números de codificación de la institución, plaza y oficina.
-
-Estos números deben imprimirse con tipos notorios, en la forma señalada en la
-
-figura 2 del Anexo N° 5 de este capítulo. La línea de impresión debe tener 30 mm
-
-de largo y el ancho total de impresión de los caracteres numéricos de indicación
-
-debe ser de 7 mm.
-
-Los números de identificación de cada entidad aparecen en el Anexo N° 6 del
-
-presente capítulo. Este número identificará a la entidad financiera en la Cámara
-
-Compensadora a través del país y rige para todas las sucursales de la misma
-
-institución. Los códigos numéricos correspondientes a las distintas plazas
-
-seindican en el Anexo N° 2 del Capítulo 5-1 de esta Recopilación de Normas.
-
-Los números que individualizan a cada oficina deben ser asignados por las
-
-respectivas instituciones en la forma que lo estimen conveniente. Sin
-
-embargo,una vez asignadas, dichos números no pueden ser modificados.
+Los números que individualizan a cada oficina deben ser asignados por las respectivas instituciones en la forma que lo estimen conveniente. Sin embargo,una vez asignadas, dichos números no pueden ser modificados.
 
 3.3. Impresión magnética en los cheques y otros documentos.
 
-La franja inferior de los cheques y demás documentos quedará destinada al
+La franja inferior de los cheques y demás documentos quedará destinada al proceso de impresión magnética de los antecedentes que se muestran en el Anexo N° 7 de este capítulo.
 
-proceso de impresión magnética de los antecedentes que se muestran en el Anexo
+Corresponde a la institución girada o emisora del instrumento, imprimir los siguientes antecedentes, ordenados de derecha a izquierda, a continuación del primer espacio destinado a anotar el valor del documento:
 
-N° 7 de este capítulo.
+a) Código del tipo de documento, que permite la identificación según lo indicado en el Anexo N° 7 antes citado;
 
-Corresponde a la institución girada o emisora del instrumento, imprimir los
-
-siguientes antecedentes, ordenados de derecha a izquierda, a continuación del
-
-primer espacio destinado a anotar el valor del documento:
-
-a) Código del tipo de documento, que permite la identificación según lo indicado
-
-en el Anexo N° 7 antes citado;
-
-b) Número de cuenta corriente en el caso de los cheques; para los demás
-
-documentos esta área queda a libre disposición del banco emisor;
+b) Número de cuenta corriente en el caso de los cheques; para los demás documentos esta área queda a libre disposición del banco emisor;
 
 c) Código de plaza (plaza sobre la cual se gira el documento);
 
-d) Código entidad (código que le corresponde a la entidad librada o emisora,
-
-según sea el caso, obligada al pago); y,
+d) Código entidad (código que le corresponde a la entidad librada o emisora, según sea el caso, obligada al pago); y,
 
 e) Número de serie (número de serie que corresponda al documento).
 
-El valor del documento puede registrarlo la entidad girada o emisora, o bien la
+El valor del documento puede registrarlo la entidad girada o emisora, o bien la institución que lo reciba y cobre, según sea el caso.
 
-institución que lo reciba y cobre, según sea el caso.
-
-Las entidades bancarias deben instruir especialmente a sus clientes de cuentas
-
-corrientes, para que en los cheques no se utilice la franja de los caracteres
-
-magnéticos.
+Las entidades bancarias deben instruir especialmente a sus clientes de cuentas corrientes, para que en los cheques no se utilice la franja de los caracteres magnéticos.
 
 ### 4. Timbres
 
