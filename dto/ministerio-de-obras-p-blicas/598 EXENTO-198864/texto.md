@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 598 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 10-B, superficie 12,00 m2., Rol de Avalúo Nº 1404-124, comuna de Puerto Varas, para la obra ''Camino Ruta V-505, sector Puerto Varas-Los Alerces-Puerto Montt, Km. 0,000 a Km. 16,340'', X Región y se acordó el valor de indemnización con su propietario Tito Waldemar Appel Schmidt, ascendente a la cantidad de $442.077.-
+
+Fiscal del Ministerio de Obras Públicas.
