@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 17, de 31 de enero de 1990, se expropiaron los lotes N°s. 35, 35-A y 37, superficie 456,50 M2., rol de avalúo 120-1, Comuna de Penco, para la ejecución de la obra Ampliación y Reposición Ruta 150, Concepción Lirquén, sector Concepción - Penco y se acordó el precio de indemnización con su propietaria Ema Luisa Stowhas Kargus, ascendente a $ 951.331.
+
+Fiscal del Ministerio de Obras Públicas.
