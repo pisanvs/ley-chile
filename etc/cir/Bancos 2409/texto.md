@@ -24926,27 +24926,19 @@ vendedor perderá el derecho de recompra que le confiere el respectivo contrato.
 
 2.1. Divisas provenientes de disponibilidades propias de los bancos.
 
-Para efectuar la venta de estas divisas al Banco Central de Chile, los bancos
-
-deberán proceder en la forma que a continuación se indica:
+Para efectuar la venta de estas divisas al Banco Central de Chile, los bancos deberán proceder en la forma que a continuación se indica:
 
 2.1.1. Liquidación de las divisas y venta al Banco Central.
 
 a) Moneda extranjera.
 
-Debe: "Divisas vendidas al Banco Central con pacto de recompra" de la partida
+Debe: "Divisas vendidas al Banco Central con pacto de recompra" de la partida 2515 del MB1, por el importe de las divisas vendidas.
 
-2515 del MB1, por el importe de las divisas vendidas.
-
-Haber: "Depósitos en el Banco Central" de la partida 1010 del MB1, por el cargo
-
-que efectuará el Banco Central en la cuenta de la empresa.
+Haber: "Depósitos en el Banco Central" de la partida 1010 del MB1, por el cargo que efectuará el Banco Central en la cuenta de la empresa.
 
 b) Moneda chilena.
 
-Debe: "Depósitos en el Banco Central" de la partida 1010 del MB1 por los Pesos
-
-que el Instituto Emisor abona en la cuenta, producto de la venta.
+Debe: "Depósitos en el Banco Central" de la partida 1010 del MB1 por los Pesos que el Instituto Emisor abona en la cuenta, producto de la venta.
 
 Haber: "Adeudado al Banco Central por divisas vendidas con pacto de recompra" de
 
@@ -24956,9 +24948,7 @@ la partida 4515 del MB1.
 
 a) Moneda extranjera.
 
-Debe: "Depósitos en el Banco Central", por el abono efectuado por el Banco
-
-Central por la devolución de las divisas.
+Debe: "Depósitos en el Banco Central", por el abono efectuado por el Banco Central por la devolución de las divisas.
 
 Haber: "Divisas vendidas al Banco Central con pacto de recompra".
 
@@ -24966,17 +24956,13 @@ b) Moneda chilena.
 
 Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
 
-Haber: "Depósitos en el Banco Central", por el débito de los Pesos que hace el
-
-Banco Central en pago de la recompra.
+Haber: "Depósitos en el Banco Central", por el débito de los Pesos que hace el Banco Central en pago de la recompra.
 
 2.1.3. Venta definitiva al Banco Central de Chile de las divisas no recompradas.
 
 a) Moneda extranjera.
 
-Debe: La cuenta de Reservas o de Provisiones en moneda extranjera que
-
-corresponda, de la partida 4520 del formulario MB1.
+Debe: La cuenta de Reservas o de Provisiones en moneda extranjera que corresponda, de la partida 4520 del formulario MB1.
 
 Haber: "Divisas vendidas al Banco Central con pacto de recompra".
 
@@ -24984,69 +24970,33 @@ b) Moneda chilena.
 
 Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
 
-Haber: la cuenta que refleje el equivalente de las reservas o provisiones que se
+Haber: la cuenta que refleje el equivalente de las reservas o provisiones que se convierten por concepto de la venta definitiva, de la partida 2520 del formulario MB1.
 
-convierten por concepto de la venta definitiva, de la partida 2520 del
+El importe que se contabilizará en moneda chilena, será el que corresponda al precio recibido por la moneda extranjera en el momento en que se celebró el contrato de venta con pacto de recompra.
 
-formulario MB1.
-
-El importe que se contabilizará en moneda chilena, será el que corresponda al
-
-precio recibido por la moneda extranjera en el momento en que se celebró el
-
-contrato de venta con pacto de recompra.
-
-Las instituciones bancarias que procedan de la manera indicada, deben
-
-solicitarla autorización previa de esta Superintendencia para realizar la venta
-
-definitiva de moneda extranjera, sea que ésta provenga de provisiones o de
-
-reservas.
+Las instituciones bancarias que procedan de la manera indicada, deben solicitarla autorización previa de esta Superintendencia para realizar la venta definitiva de moneda extranjera, sea que ésta provenga de provisiones o de reservas.
 
 2.2. Divisas de sociedades financieras.
 
-Las sociedades financieras, cuyas disponibilidades en moneda extranjera
-
-susceptibles de emplearse en estas operaciones pueden provenir exclusivamente de
-
-divisas recompradas originadas en créditos externos internados al amparo del
-
-#### Artículo 14
-
-de la Ley de Cambios Internacionales, para los fines contemplados en el
-
-Capítulo V.B.1 del Compendio de Normas Financieras, registrarán las ventas deque
-
-trata este capítulo, de acuerdo a las siguientes pautas:
+Las sociedades financieras, cuyas disponibilidades en moneda extranjera susceptibles de emplearse en estas operaciones pueden provenir exclusivamente de divisas recompradas originadas en créditos externos internados al amparo del Art. 14 de la Ley de Cambios Internacionales, para los fines contemplados en el Capítulo V.B.1 del Compendio de Normas Financieras, registrarán las ventas deque trata este capítulo, de acuerdo a las siguientes pautas:
 
 2.2.1. Liquidación y venta al Banco Central de Chile.
 
-Las sociedades financieras deben efectuar la liquidación de las divisas que
-
-vendan al Banco Central con pacto de recompra, por intermedio de una institución
-
-autorizada para operar en cambios internacionales.
+Las sociedades financieras deben efectuar la liquidación de las divisas que vendan al Banco Central con pacto de recompra, por intermedio de una institución autorizada para operar en cambios internacionales.
 
 El registro contable de estas ventas se hará como sigue:
 
 a) Moneda extranjera.
 
-Debe: "Divisas vendidas al Banco Central con pacto de recompra", de la partida
-
-2515 del formulario MB1, por el importe de las divisas que se liquiden.
+Debe: "Divisas vendidas al Banco Central con pacto de recompra", de la partida 2515 del formulario MB1, por el importe de las divisas que se liquiden.
 
 Haber: La cuenta de la que se giren las divisas correspondientes.
 
 b) Moneda chilena.
 
-Debe: "Caja" o la cuenta que corresponda, por la percepción de los Pesos,
+Debe: "Caja" o la cuenta que corresponda, por la percepción de los Pesos, producto de la venta con pacto de recompra.
 
-producto de la venta con pacto de recompra.
-
-Haber: "Adeudado al Banco Central por divisas vendidas con pacto de recompra",
-
-de la partida 4515 del MB1.
+Haber: "Adeudado al Banco Central por divisas vendidas con pacto de recompra", de la partida 4515 del MB1.
 
 2.2.2. Recompra de las divisas vendidas.
 
@@ -25060,9 +25010,7 @@ b) Moneda chilena.
 
 Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
 
-Haber: "Caja" o la cuenta que corresponda, de la que se giren los Pesos para el
-
-pago de la recompra.
+Haber: "Caja" o la cuenta que corresponda, de la que se giren los Pesos para el pago de la recompra.
 
 2.2.3. Venta definitiva al Banco Central de Chile de las divisas no recompradas.
 
@@ -25084,31 +25032,15 @@ Haber: "Cambio Créditos Externos-Acuerdo 1196".
 
 2.3. Venta de divisas con pacto de recompra por cuenta de terceros.
 
-Las instituciones financieras que realicen operaciones de venta de divisas con
-
-pacto de recompra por cuenta de terceros con el Banco Central de Chile, en
-
-virtud de mandatos otorgados para tal efecto por los interesados a la respectiva
-
-institución, registrarán estas operaciones de la siguiente manera:
+Las instituciones financieras que realicen operaciones de venta de divisas con pacto de recompra por cuenta de terceros con el Banco Central de Chile, en virtud de mandatos otorgados para tal efecto por los interesados a la respectiva institución, registrarán estas operaciones de la siguiente manera:
 
 2.3.1. Bancos.
 
-2.3.1.1. Por la recepción de las divisas para su venta al Banco Central de
+2.3.1.1. Por la recepción de las divisas para su venta al Banco Central de Chile.
 
-Chile.
+Debe: "Caja" o la cuenta que corresponda, por el ingreso de las divisas recibidas del mandante.
 
-Debe: "Caja" o la cuenta que corresponda, por el ingreso de las divisas
-
-recibidas del mandante.
-
-Haber: "Divisas recibidas por vender al Banco Central con pacto de recompra", de
-
-la partida 3010 del MB1, que refleja la entrega de las divisas por el mandante
-
-para su venta al Banco Central de Chile. El saldo de esta cuenta queda afecto a
-
-encaje.
+Haber: "Divisas recibidas por vender al Banco Central con pacto de recompra", de la partida 3010 del MB1, que refleja la entrega de las divisas por el mandante para su venta al Banco Central de Chile. El saldo de esta cuenta queda afecto a encaje.
 
 2.3.1.2. Por la venta de las divisas al Banco Central con pacto de recompra.
 
@@ -25116,75 +25048,43 @@ a) Moneda extranjera.
 
 Debe: - "Divisas recibidas por vender al Banco Central con pacto de recompra".
 
-- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de
-
-clientes", de la partida 2525 del MB1.
+- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes", de la partida 2525 del MB1.
 
 Haber: - "Depósitos en el Banco Central".
 
-- "Divisas por recomprar al Banco Central por cuenta de clientes" de la partida
-
-4525 del MB1, por el monto de las divisas que deben recomprarse por cuenta de
-
-terceros.
+- "Divisas por recomprar al Banco Central por cuenta de clientes" de la partida 4525 del MB1, por el monto de las divisas que deben recomprarse por cuenta de terceros.
 
 b) Moneda chilena.
 
-Debe: - "Depósitos en el Banco Central", por el importe que acreditará el Banco
+Debe: - "Depósitos en el Banco Central", por el importe que acreditará el Banco Central por la venta de las divisas.
 
-Central por la venta de las divisas.
+- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra" de la partida 2525 del formulario MB1.
 
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de
+Haber: - "Caja" o la cuenta que corresponda, por la entrega al cliente del valor en Pesos de las divisas vendidas.
 
-recompra" de la partida 2525 del formulario MB1.
-
-Haber: - "Caja" o la cuenta que corresponda, por la entrega al cliente del valor
-
-en Pesos de las divisas vendidas.
-
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por
-
-cuenta de terceros" de la partida 4525 del formulario MB1.
+- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros" de la partida 4525 del formulario MB1.
 
 2.3.1.3. Por la recompra al Banco Central de Chile de las divisas vendidas.
 
 a) Moneda extranjera.
 
-Debe: - "Depósitos en el Banco Central", por el abono de las divisas al
-
-vencimiento del pacto.
+Debe: - "Depósitos en el Banco Central", por el abono de las divisas al vencimiento del pacto.
 
 - "Divisas por recomprar al Banco Central por cuenta de clientes".
 
-Haber: - "Divisas vendidas al Banco Central con pacto de recompra por cuenta de
+Haber: - "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
 
-clientes".
-
-- "Divisas por entregar a clientes por recompras al Banco Central", que refleja
-
-las divisas recibidas por la recompra, pendientes de entrega al cliente, de la
-
-partida 3010 del MB1, cuyo saldo queda afecto a encaje.
+- "Divisas por entregar a clientes por recompras al Banco Central", que refleja las divisas recibidas por la recompra, pendientes de entrega al cliente, de la partida 3010 del MB1, cuyo saldo queda afecto a encaje.
 
 b) Moneda chilena.
 
-Debe: - "Caja", o la cuenta que corresponda por el importe en Pesos pagado por
+Debe: - "Caja", o la cuenta que corresponda por el importe en Pesos pagado por el cliente por la recompra de los dólares.
 
-el cliente por la recompra de los dólares.
+- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
 
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por
+Haber: - "Depósitos en el Banco Central", por el débito efectuado por el Banco Central, correspondiente al valor de las divisas recompradas por cuenta de terceros.
 
-cuenta de terceros".
-
-Haber: - "Depósitos en el Banco Central", por el débito efectuado por el Banco
-
-Central, correspondiente al valor de las divisas recompradas por cuenta de
-
-terceros.
-
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de
-
-recompra".
+- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
 
 2.3.1.4. Ventas definitivas al Banco Central de Chile de divisas no recompradas.
 
@@ -25192,43 +25092,25 @@ a) Moneda extranjera.
 
 Debe: "Divisas por recomprar al Banco Central por cuenta de clientes".
 
-Haber: "Divisas vendidas al Banco Central con pacto de recompra por cuenta de
-
-clientes".
+Haber: "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
 
 b) Moneda chilena.
 
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra por
+Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
 
-cuenta de terceros".
-
-Haber: "Compromisos de clientes por divisas vendidas al Banco Central con pacto
-
-de recompra".
+Haber: "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
 
 2.3.2. Sociedades financieras.
 
-Las sociedades financieras que realicen estas operaciones por cuenta de sus
-
-clientes, deben liquidar las divisas en una institución financiera autorizada
-
-para operar en Cambios.
+Las sociedades financieras que realicen estas operaciones por cuenta de sus clientes, deben liquidar las divisas en una institución financiera autorizada para operar en Cambios.
 
 Para el registro de estas operaciones observarán las siguientes instrucciones:
 
 2.3.2.1. Por la recepción de la moneda extranjera al cliente.
 
-Debe: "Caja" o la cuenta que corresponda, por la recepción al cliente de la
+Debe: "Caja" o la cuenta que corresponda, por la recepción al cliente de la moneda extranjera.
 
-moneda extranjera.
-
-Haber: "Divisas recibidas por vender al Banco Central con pacto de recompra", de
-
-la partida 3010 del MB1, cuenta en la que se refleja la entrega de las divisas
-
-por el mandante, para su venta al Banco Central con pacto de recompra. El saldo
-
-de esta cuenta queda afecto a encaje.
+Haber: "Divisas recibidas por vender al Banco Central con pacto de recompra", de la partida 3010 del MB1, cuenta en la que se refleja la entrega de las divisas por el mandante, para su venta al Banco Central con pacto de recompra. El saldo de esta cuenta queda afecto a encaje.
 
 2.3.2.2. Por la venta de las divisas al Banco Central de Chile.
 
@@ -25236,41 +25118,25 @@ a) Moneda extranjera.
 
 Debe: - "Divisas recibidas por vender al Banco Central con pacto de recompra".
 
-- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de
-
-clientes".
+- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
 
 Haber: - "Divisas por recomprar al Banco Central por cuenta de clientes".
 
-- "Caja" o la cuenta que corresponda, por la entrega de los dólares al Banco
-
-Central.
+- "Caja" o la cuenta que corresponda, por la entrega de los dólares al Banco Central.
 
 b) Moneda chilena.
 
-Debe: - "Caja", o la cuenta que corresponda por la recepción de los Pesos,
+Debe: - "Caja", o la cuenta que corresponda por la recepción de los Pesos, producto de la venta de los dólares con pacto de recompra.
 
-producto de la venta de los dólares con pacto de recompra.
+- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
 
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de
+Haber: - "Caja", o la cuenta que corresponda, por la entrega de los Pesos al cliente.
 
-recompra".
-
-Haber: - "Caja", o la cuenta que corresponda, por la entrega de los Pesos al
-
-cliente.
-
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por
-
-cuenta de terceros".
+- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
 
 2.3.2.3. Por la recompra de las divisas al Banco Central.
 
-Estas recompras que también deben efectuarse por intermedio de una institución
-
-autorizada para operar en cambios internacionales, se contabilizarán en la forma
-
-que se indica a continuación:
+Estas recompras que también deben efectuarse por intermedio de una institución autorizada para operar en cambios internacionales, se contabilizarán en la forma que se indica a continuación:
 
 a) Moneda extranjera.
 
@@ -25278,31 +25144,19 @@ Debe: - "Divisas por recomprar al Banco Central por cuenta de clientes".
 
 - "Caja" o la cuenta que corresponda, por la recepción de los dólares.
 
-Haber: - "Divisas por entregar a clientes por recompras al Banco Central", de la
+Haber: - "Divisas por entregar a clientes por recompras al Banco Central", de la partida 3010 del MB1, afecta a encaje.
 
-partida 3010 del MB1, afecta a encaje.
-
-- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de
-
-clientes"
+- "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes"
 
 b) Moneda chilena.
 
-Debe: - "Caja" o la cuenta que corresponda, por la recepción de los Pesos del
+Debe: - "Caja" o la cuenta que corresponda, por la recepción de los Pesos del cliente para efectuar la recompra.
 
-cliente para efectuar la recompra.
+- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
 
-- "Adeudado al Banco Central por divisas vendidas con pacto de recompra por
+Haber: - "Caja" o la cuenta que corresponda por la entrega de los Pesos por la recompra de las divisas.
 
-cuenta de terceros".
-
-Haber: - "Caja" o la cuenta que corresponda por la entrega de los Pesos por la
-
-recompra de las divisas.
-
-- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de
-
-recompra".
+- "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
 
 2.3.2.4. Venta definitiva al Banco Central de Chile por recompras no efectuadas.
 
@@ -25310,105 +25164,41 @@ a) Moneda extranjera.
 
 Debe: "Divisas por recomprar al Banco Central por cuenta de clientes".
 
-Haber: "Divisas vendidas al Banco Central con pacto de recompra por cuenta de
-
-clientes".
+Haber: "Divisas vendidas al Banco Central con pacto de recompra por cuenta de clientes".
 
 b) Moneda chilena.
 
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra por
+Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros".
 
-cuenta de terceros".
-
-Haber: "Compromisos de clientes por divisas vendidas al Banco Central con pacto
-
-de recompra".
+Haber: "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra".
 
 2.4. Intereses por venta de divisas con pacto de recompra.
 
-Los intereses que devenguen las instituciones financieras por las divisas
-
-vendidas al Banco Central de Chile con pacto de recompra, serán registrados en
-
-la cuenta "Intereses ganados por venta de divisas con pacto de recompra", que se
-
-demuestra en la partida 7200 del MR1.
+Los intereses que devenguen las instituciones financieras por las divisas vendidas al Banco Central de Chile con pacto de recompra, serán registrados en la cuenta "Intereses ganados por venta de divisas con pacto de recompra", que se demuestra en la partida 7200 del MR1.
 
 2.5. Descuento aplicado por el Banco Central de Chile.
 
-Los importes que las instituciones financieras paguen al Banco Central de Chile
+Los importes que las instituciones financieras paguen al Banco Central de Chile por concepto de descuento en las operaciones de venta de divisas con pacto de recompra, efectuadas con sus propios recursos, serán registrados en la cuenta "Comisiones anticipadas por ventas de divisas con pacto de recompra", de la partida 2120 del formulario MBl.
 
-por concepto de descuento en las operaciones de venta de divisas con pacto de
-
-recompra, efectuadas con sus propios recursos, serán registrados en la cuenta
-
-"Comisiones pagadas por ventas de divisas con pacto de recompra", la que será
-
-demostrada en la partida 5530 del formulario MR1.
+Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones pagadas por ventas de divisas con pacto de recompra" de la partida 5530 del formulario MR1, en forma proporcional al plazo pactado en el respectivo contrato.
 
 2.6. Custodia de los contratos por venta de divisas de terceros.
 
-Estos contratos deben ser registrados por los bancos y financieras con cargo a
+Estos contratos deben ser registrados por los bancos y financieras con cargo a la cuenta "Contratos por venta de divisas de terceros con pacto de retrocompra".
 
-la cuenta "Contratos por venta de divisas de terceros con pacto de retrocompra".
-
-Esta cuenta se dividirá en dos sube lientas que se denominarán "Retornos
-
-informados y pendientes de liquidación", en la que se registrarán las
-
-operaciones realizadas con recursos provenientes de retornos de exportación
-
-informados al Banco Central de Chile y acogidos, para su liquidación, al plazo
-
-especial de 90 días y "Otros recursos", en la que se registrarán las demás
-
-operaciones por cuenta de terceros, con abono a la cuenta "Depositantes de
-
-contratos por venta de divisas de terceros con pacto de retrocompra". Estas
-
-cuentas se demostrarán en las partidas 9260 y 9900 del formulario MB1,
-
-respectivamente.
+Esta cuenta se dividirá en dos sube lientas que se denominarán "Retornos informados y pendientes de liquidación", en la que se registrarán las operaciones realizadas con recursos provenientes de retornos de exportación informados al Banco Central de Chile y acogidos, para su liquidación, al plazo especial de 90 días y "Otros recursos", en la que se registrarán las demás operaciones por cuenta de terceros, con abono a la cuenta "Depositantes de contratos por venta de divisas de terceros con pacto de retrocompra". Estas cuentas se demostrarán en las partidas 9260 y 9900 del formulario MB1, respectivamente.
 
 2.7. Ajustes por variación de tipo de cambio.
 
-Las entidades financieras deben ajustar el último día de cada mes el saldo de la
+Las entidades financieras deben ajustar el último día de cada mes el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
 
-cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra".
+Este ajuste se efectúa por la cotización que corresponda al régimen de tipo de cambio pactado para realizar la respectiva recompra, vigente en la fecha del ajuste, de tal manera que reflejen el equivalente en Pesos, a esa cotización, del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de recompra".
 
-Este ajuste se efectúa por la cotización que corresponda al régimen de tipo de
+Las diferencias correspondientes se debitarán o abonarán, según corresponda, a las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados", de las partidas 5720 y 7720 del formulario MR1, respectivamente.
 
-cambio pactado para realizar la respectiva recompra, vigente en la fecha del
+En la misma fecha y al mismo tipo de cambio antes señalados, las instituciones financieras deben ajustar las cuentas "Compromisos de clientes por divisas vendidas al Banco Central con pacto de recompra" y "Adeudado al Banco Central por divisas vendidas con pacto de recompra por cuenta de terceros", sobre la base del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de
 
-ajuste, de tal manera que reflejen el equivalente en Pesos, a esa cotización,
-
-del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de
-
-recompra".
-
-Las diferencias correspondientes se debitarán o abonarán, según corresponda, a
-
-las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda
-
-extranjera liquidados" o "Utilidades por variación del tipo de cambio de
-
-recursos en moneda extranjera liquidados", de las partidas 5720 y 7720 del
-
-formulario MR1, respectivamente.
-
-En la misma fecha y al mismo tipo de cambio antes señalados, las instituciones
-
-financieras deben ajustar las cuentas "Compromisos de clientes por divisas
-
-vendidas al Banco Central con pacto de recompra" y "Adeudado al Banco Central
-
-por divisas vendidas con pacto de recompra por cuenta de terceros", sobre la
-
-base del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de
-
-recompra por cuenta de clientes", para cuyo efecto se debita la primera de
-
-dichas cuentas y acredita directamente la segunda.
+recompra por cuenta de clientes", para cuyo efecto se debita la primera de dichas cuentas y acredita directamente la segunda.
 
 ### 3. Límites
 
@@ -25648,107 +25438,59 @@ fecha de vencimiento pactado para la recompra de las divisas.
 
 ### 10. Normas contables
 
-Las operaciones a que se refiere este capítulo, serán contabilizadas en la forma
-
-que a continuación se indica:
+Las operaciones a que se refiere este capítulo, serán contabilizadas en la forma que a continuación se indica:
 
 10.1. Venta de las divisas al Banco Central de Chile.
 
 a) Moneda extranjera.
 
-Debe: "Divisas vendidas al Banco Central con pacto de recompra D.L. 600", cuenta
+Debe: "Divisas vendidas al Banco Central con pacto de recompra D.L. 600", cuenta que se crea para tal efecto, cuyo saldo se demostrara en la partida 2515 del formulario MB1.
 
-que se crea para tal efecto, cuyo saldo se demostrara en la partida 2515 del
-
-formulario MB1.
-
-Haber: La cuenta que corresponda por el giro correspondiente al monto de las
-
-divisas vendidas.
+Haber: La cuenta que corresponda por el giro correspondiente al monto de las divisas vendidas.
 
 b) Moneda chilena.
 
-Por el equivalente en moneda chilena recibido del Instituto Emisor
-
-correspondiente a las divisas vendidas con pacto de recompra:
+Por el equivalente en moneda chilena recibido del Instituto Emisor correspondiente a las divisas vendidas con pacto de recompra:
 
 Debe: "Depósitos en el Banco Central", de la partida 1010 del formulario MB1.
 
-Haber: "Adeudada al Banco Central por divisas vendidas con pacto de recompra
-
-D.L. 600", cuenta que se crea con ese objeto, la que sera demostrada en la
-
-partida 4515 del formulario MB1.
+Haber: "Adeudada al Banco Central por divisas vendidas con pacto de recompra D.L. 600", cuenta que se crea con ese objeto, la que sera demostrada en la partida 4515 del formulario MB1.
 
 10.2. Recompra de las divisas.
 
 a) Moneda extranjera.
 
-Debe: La cuenta que corresponda por la recepción de las divisas recompradas al
-
-Banco Central de Chile.
+Debe: La cuenta que corresponda por la recepción de las divisas recompradas al Banco Central de Chile.
 
 Haber: "Divisas vendidas al Banco Central con pacto de recompra D.L. 600".
 
 b) Moneda chilena.
 
-Por el equivalente en moneda chilena pagado al Instituto Emisor para cumplir con
+Por el equivalente en moneda chilena pagado al Instituto Emisor para cumplir con la recompra de la moneda extranjera vendida:
 
-la recompra de la moneda extranjera vendida:
-
-Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L.
-
-600".
+Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600".
 
 Haber: "Depósitos en el Banco Central".
 
 10.3. Intereses por venta de divisas con pacto de recompra.
 
-Los intereses que devenguen las instituciones financieras por las divisas
+Los intereses que devenguen las instituciones financieras por las divisas vendidas al Banco Central de Chile con pacto de recompra, serán registrados mensualmente en moneda chilena en la cuenta "Intereses ganados por venta de divisas con pacto de recompra", de la partida 7200 del formulario MR1, con cargo a "Intereses por cobrar", de acuerdo con las normas generales sobre la materia.
 
-vendidas al Banco Central de Chile con pacto de recompra, serán registrados
+10.4. Descuento aplicado por el Banco Central de Chile.
 
-mensualmente en moneda chilena en la cuenta "Intereses ganados por venta de
+Los importes que las instituciones financieras paguen al Banco Central de Chile por concepto de descuento en las operaciones de venta de divisas con pacto de recompra de que trata este capítulo, serán registrados en la cuenta "Comisiones anticipadas por ventas de divisas con pacto de recompra", de la partida 2120 del formulario MBl.
 
-divisas con pacto de recompra", de la partida 7200 del formulario MR1, con cargo
+Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones pagadas por ventas de divisas con pacto de recompra" de la partida 5530 del formulario MR1, en forma proporcional al plazo pactado en el respectivo contrato.
 
-a "Intereses por cobrar", de acuerdo con las normas generales sobre la materia.
+10.5. Ajustes por variación de tipo de cambio.
 
-10.4. Ajustes por variación de tipo de cambio.
+Las entidades financieras ajustarán el último día de cada mes, el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600", por la cotización que corresponda al régimen de tipo de cambio pactado para efectuar la respectiva recompra, vigente en la fecha del ajuste, de tal manera que ésta refleje el equivalente en Pesos, moneda chilena, a esa cotización, del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de recompra D.L. 600".
 
-Las entidades financieras ajustarán el último día de cada mes, el saldo de la
+Las diferencias correspondientes se debitarán o abonará, según proceda, en las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados", de las partidas 5720 y 7720 del formulario MR1, respectivamente.
 
-cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra
+10.6. Colocaciones e inversiones.
 
-D.L. 600", por la cotización que corresponda al régimen de tipo de cambio
-
-pactado para efectuar la respectiva recompra, vigente en la fecha del ajuste, de
-
-tal manera que ésta refleje el equivalente en Pesos, moneda chilena, a esa
-
-cotización, del saldo de la cuenta "Divisas vendidas al Banco Central con pacto
-
-de recompra D.L. 600".
-
-Las diferencias correspondientes se debitarán o abonará, según proceda, en las
-
-cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda
-
-extranjera liquidados" o "Utilidades por variación del tipo de cambio de
-
-recursos en moneda extranjera liquidados", de las partidas 5720 y 7720 del
-
-formulario MR1, respectivamente.
-
-10.5. Colocaciones e inversiones.
-
-Las colocaciones e inversiones que efectúen con cargo a la moneda chilena que
-
-reciban del Banco Central de Chile por estas ventas de divisas con pacto de
-
-recompra, deberán registrarlas en una subcuenta de la respectiva cuenta de
-
-colocaciones o inversiones que se denominará "D.L. 600".
+Las colocaciones e inversiones que efectúen con cargo a la moneda chilena que reciban del Banco Central de Chile por estas ventas de divisas con pacto de recompra, deberán registrarlas en una subcuenta de la respectiva cuenta de colocaciones o inversiones que se denominará "D.L. 600".
 
 ### 11. Límites
 
