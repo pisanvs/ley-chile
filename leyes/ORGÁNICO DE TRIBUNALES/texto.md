@@ -1198,17 +1198,17 @@ q) El de la Corte de Punta Arenas comprenderá la Décimo Segunda Región de Mag
 
 #### Artículo 56
 
-Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indican:
+Las Cortes de Apelaciones se compondrán del número de miembros que a continuación se indica:
 
-1° Las Cortes de Apelaciones de Iquique, Copiapó, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
+1º. Las Cortes de Apelaciones de Iquique, Copiapó, Chillán, Puerto Montt, Coihaique y Punta Arenas tendrán cuatro miembros;
 
-2° Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán siete miembros;
+2º. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán siete miembros;
 
-3° Las Cortes de Apelaciones de Valparaíso y Concepción tendrán trece miembros;
+3º. Las Cortes de Apelaciones de Valparaíso y Concepción tendrán dieciséis miembros;
 
-4° La Corte de Apelaciones de San Miguel tendrá dieciséis miembros, y
+4º. La Corte de Apelaciones de San Miguel tendrá diecinueve miembros, y
 
-5° La Corte de Apelaciones de Santiago tendrá veinticinco miembros.
+5º. La Corte de Apelaciones de Santiago tendrá treinta y un miembros.
 
 #### Artículo 57
 
@@ -1222,7 +1222,7 @@ La Corte de Apelaciones de Santiago tendrá seis fiscales judiciales; la Corte d
 
 #### Artículo 59
 
-Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán ocho relatores; la Corte de Apelaciones de San Miguel tendrá diez relatores, y la Corte de Apelaciones de Santiago tendrá dieciocho relatores.
+Cada Corte de Apelaciones tendrá dos relatores. Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia tendrán cuatro relatores; las Cortes de Apelaciones de Valparaíso y Concepción tendrán diez relatores; la Corte de Apelaciones de San Miguel tendrá doce relatores; y la Corte de Apelaciones de Santiago tendrá veintidós relatores.
 
 #### Artículo 60
 
@@ -1232,7 +1232,7 @@ La Corte de Apelaciones de San Miguel tendrá dos secretarios. La Corte de Apela
 
 #### Artículo 61
 
-Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en cuatro salas; la Corte de Apelaciones de San Miguel en cinco salas y la Corte de Apelaciones de Santiago en siete salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
+Las Cortes de Apelaciones de Arica, Antofagasta, La Serena, Rancagua, Talca, Temuco y Valdivia se dividirán en dos salas; las Cortes de Apelaciones de Valparaíso y Concepción en cinco salas; la Corte de Apelaciones de San Miguel en seis salas; y la Corte de Apelaciones de Santiago en nueve salas. Cada una de las salas en que se dividan ordinariamente las Cortes de Apelaciones, tendrán tres ministros, a excepción de la primera sala que constará de cuatro. Para la constitución de las diversas salas en que se dividan las Cortes de Apelaciones para su funcionamiento ordinario, se sortearán anualmente los miembros del tribunal, con excepción de su Presidente, el que quedará incorporado a la Primera Sala, siendo facultativo para él integrarla. El sorteo correspondiente se efectuará el último día hábil de enero de cada año.
 
 #### Artículo 62
 
