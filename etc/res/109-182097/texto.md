@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº 109, de fecha 3 de noviembre del año 2000, se aprobó la reforma del estatuto de la Cooperativa de Servicio de Agua Potable de El Crucero Limitada, en adelante Cooperativa de Servicios de Agua Potable y Alcantarillado El Crucero Ltda., o Cooperativa El Crucero Ltda., de nombre de fantasía Crucercoop Ltda., de la localidad de La Isla, en los términos que da testimonio la escritura pública de fecha 6 de septiembre del año 2000, suscrita ante el Notario de Curicó, don Alfredo Rosas Roa, suplente de don Eduardo de Rodt Espinosa, anotada en el Repertorio bajo el Nº 2.233-2000.
+
+Por orden del Sr. Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
