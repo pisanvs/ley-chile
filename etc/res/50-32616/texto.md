@@ -1,0 +1,3 @@
+Por Resolución N° 50 de 24 de junio de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se adjudicó a Serviden Cía. Ltda. la concesión para operar, por un plazo de cinco años a contar de la publicación del presente extracto, un establecimiento ubicado en calle Chillán N° 817, de la Comuna de Osorno, destinado a la revisión técnica y verificación de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Arturo Hernández Orellana, Secretario Regional Ministerial Transportes y Telecomunicaciones, X Región.
