@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.784, de 30 de junio de 1999, se expropió el lote de terreno No. 7, superficie 600 m2., rol de avalúo 12027-6, comuna de San Pedro de la Paz, para la obra reposición Puente Bío-Bío Antiguo, Ruta 160, Concepción-San Pedro, sector San Pedro y se acordó precio de indemnización con su propietario Aldo Vidal Sepúlveda, ascendente a la cantidad de $ 70.840.000.
+
+Fiscal del Ministerio de Obras Públicas.
