@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 332, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 34, 34-A, 38-A y 45-B, superficies 50, 65, 172 y 250 M2., roles de avalúo en trámite y 47-69, comuna de La Estrella, para la obra Camino Límite Regional (Rapel)-Alcones I, sector Litueche-La Rosa, de km. 77.361,39 a Km. 101.610,51 y se acordó precio de indemnización con sus propietarios Janet del Carmen Herrera Moreno, José Manuel Herrera Huerta, Luis Orlando Herrera Huerta y Desiderio del Carmen Caro Escobar, ascendente a las cantidades de $354.660. para el lote 34, $362.370. para el lote 34-A, $3.830.328. para el lote 38-A y $640.444. para el lote 45-B.-
+
+Fiscal del Ministerio de Obras Públicas.
