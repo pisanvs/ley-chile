@@ -2068,7 +2068,7 @@ En lo que concierne a la imposibilidad de presentar un cheque a cobro un día s�
 
 5.4. Concepto de "Plaza" para los efectos del término de vigencia de los cheques.
 
-Debe entenderse por cheques emitidos en la misma plaza del librado, aquéllos que fueren girados en cualquiera localidad que, para los efectos del canje bancario,sea una plaza separada o que esté incluida en la misma agrupación de plazas a que pertenece la oficina bancaria contra la cual esté librado el cheque.
+Deben entenderse por cheques emitidos en la misma plaza del librado, aquéllos que fueren girados en cualquiera localidad que pertenezca a la plaza individual o a la agrupación de plazas a la que concurre la oficina bancaria librada para los efectos del canje bancario.
 
 Se considera para estos fines como agrupación de plazas, la reunión de dos o más plazas financieras en una sola de ellas, para los efectos de realizar el canje diario de los documentos recibidos por las entidades financieras situadas en cada una de las localidades que conforman la agrupación.
 
@@ -3618,7 +3618,7 @@ Las cuentas de depósito que se trata, se incluirán en la cuenta "Cuentas a la 
 
 Las comisiones por el manejo de las cuentas se registrarán en la cuenta "Comisiones percibidas sobre cuentas a la vista", de la partida 7530, pudiéndose reconocer tales ingresos sólo una vez que se hayan cargado sus importes a las respectivas cuentas de los titulares.
 
-2.9.- Aplicación de otras disposiciones.
+2.10.- Aplicación de otras disposiciones.
 
 Las "Cuentas a la Vista" utilizadas para operar tarjetas de débito, quedan sujetas a las instrucciones complementarias señaladas en el Capítulo 2-15 de esta Recopilación Actualizada de Normas.
 
@@ -4952,15 +4952,15 @@ N° 3055 "Depósitos y captaciones".
 
 Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera. La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
 
-3.2.- Inversiones financieras en el exterior.
+3.2.- Inversiones y colocaciones en el exterior.
 
-Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por las inversiones financieras en el exterior, correspondientes a los instrumentos señalados en el Anexo N° 1 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile. El monto deducible de las inversiones financieras en el exterior podrá aplicarse al monto total de las obligaciones, considerando el equivalente en dólares estadounidenses según las paridades señaladas en el N° 2 del título I de este Capítulo.
+Los bancos podrán también deducir de sus obligaciones afectas a encaje a que se refiere este título, los saldos que mantengan correspondientes a las inversiones financieras y a las colocaciones en el exterior, de que trata la letra B) y la letra C) , respectivamente, del Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile.
 
-3.3.- Préstamos para comercio exterior entre terceros países.
+El importe que los bancos pueden deducir de sus obligaciones afectas a encaje, conforme a lo señalado en el párrafo precedente, no podrá exceder, en caso alguno, del 70% de su patrimonio efectivo.
 
-De conformidad con las normas del Banco Central de Chile, los bancos podrán deducir de sus obligaciones en moneda extranjera afectas a encaje a que se refiere este título, el importe de los préstamos otorgados con el objeto de financiar operaciones de comercio exterior entre terceros países, de que trata el Capítulo XXII del Título I del Compendio de Normas de Cambios Internacionales y el título II del Capítulo 13-27 de esta Recopilación Actualizada de Normas.
+Para el solo efecto de la determinación de la posición de encaje, el importe de las inversiones en el exterior y de los créditos al exterior, susceptibles de ser deducidos de las obligaciones afectas a encaje, será registrado en las cuentas "Inversiones en el exterior deducibles para encaje" y "Créditos al exterior deducibles para encaje", respectivamente, de la partida 9167. Por otra parte, el monto correspondiente al límite del deducible, esto es, el equivalente al 70% del patrimonio efectivo, se incluirá en la cuenta "Límite del deducible por inversiones y colocaciones", de la misma partida.
 
-El monto de dicha deducción corresponderá al saldo de las cuentas "Deudores por cartas de crédito negociadas a plazo terceros países" y "Créditos comercio exterior terceros países", el que podrá aplicarse al total de las obligaciones en moneda extranjera de que trata este título, considerando para tal efecto su equivalente en dólares estadounidenses.
+En caso que el importe deducible por las inversiones y colocaciones en el exterior sea superior al monto de las obligaciones de que trata este título, el remanente puede ser deducido del monto de las obligaciones con el exterior que se señalan en el título IV de este Capítulo, de acuerdo a lo que se indica en el N°3 de dicho título IV.
 
 ### 4. Encaje exigido y mantenido
 
@@ -5018,7 +5018,7 @@ N° 3570 "Otros préstamos y obligaciones".
 
 Los siguientes créditos incluidos en las partidas antes señaladas se encuentran exentos de la obligación de constituir el encaje de que trata este título IV, de modo que no se computarán para ese efecto:
 
-a) Créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
+a) Créditos externos acogidos a las normas del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
 b) Obligaciones reestructuradas de conformidad con los Contratos Modificatorios de los Contratos de Reestructuración suscritos por la República de Chile, en los términos aprobados por el Consejo del Banco Central de Chile mediante Acuerdos N°s. 72-04-901113 y 72-06-901113.
 
@@ -5026,13 +5026,23 @@ c) Otros créditos externos que cumplan los requisitos indicados en el N° 6 de 
 
 Con el objeto de detraer las operaciones señaladas en los literales precedentes de los saldos del pasivo afectos al encaje de que se trata, dichas operaciones se mantendrán registradas también, sin incluir sus intereses devengados, en la cuenta de orden "Obligaciones con el exterior exentas de encaje", de la partida 9167.
 
-3.- Encaje exigido y mantenido.
+2.3.- Bonos afectos a encaje.
 
-3.1.- Encaje exigido.
+Además de los créditos registrados en las partidas mencionadas en el numeral 2.1, excluidos aquellos señalados en el numeral 2.2 precedente, quedan sujetos al encaje de que trata este título los importes correspondientes a las obligaciones por bonos colocados en el exterior que estuvieren acogidos a las disposiciones del Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+
+En este caso y para el solo efecto de incluir en las obligaciones con el exterior el saldo computable de capital de los bonos colocados en el extranjero registrados en las partidas 3075 ó 4190 según lo previsto en los Capítulos 13-34 y 9-6, respectivamente, de esta Recopilación, el importe que se encuentra acogido a las normas del referido Capítulo XIII se reflejará en la cuenta de orden "Bonos colocados en el exterior afectos a encaje", de la partida 9167.
+
+3.- Importe que se puede deducir.
+
+Los bancos pueden deducir diariamente de sus obligaciones con el exterior afectas a encaje de que trata este título, el importe remanente de sus inversiones financieras y colocaciones en el exterior que se haya determinado conforme a lo previsto en el último párrafo del numeral 3.2 del título III de este Capítulo.
+
+4.- Encaje exigido y mantenido.
+
+4.1.- Encaje exigido.
 
 El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, sobre el promedio de las obligaciones antes mencionadas, en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
 
-3.2.- Encaje mantenido.
+4.2.- Encaje mantenido.
 
 El encaje por las obligaciones antes mencionadas deberá estar constituido por dólares de los Estados Unidos de América, depositados en el Banco Central de Chile para tal efecto en la "Cuenta especial encaje Acuerdo N° 143-01-910705".
 
@@ -5065,22 +5075,6 @@ PARTIDAS Y CUENTAS DEL SISTEMA CONTABLE QUE PARTICIPAN EN LA DETERMINACION Y MAN
 A continuación se señalan los principales indicadores que guardan relación con el control del cumplimiento de las normas del presente Capítulo 4-1 y del Capítulo 4-2 de esta Recopilación Actualizada de Normas y que esta Superintendencia obtiene del computo de los saldos de las partidas, cuentas y subcuentas informadas en el archivo C03 del Sistema Contable que en cada caso se indican.
 
 .
-
-> **Nota.** La letra B) de la Circular 2759, SBIF, promulgada el 29.09.1993, modifica el presente Anexo, actualizando las cuentas consideradas para los principales indicadores que se utilizan en el control del cumplimiento de las normas relativas a encaje y a reserva técnica.
-
-> **Nota.** NOTA 1 La letra C) de la Circular 2793, SBIF, promulgada el 05.10.1994, modifica el presente Anexo, a fin de incorporar la cuenta correspondiente a inversiones en bancos extranjeros, en los indicadores del Sistema Contable relativos al Capital pagado y reservas.
-
-> **Nota.** NOTA 2 La letra B) de la Circular 2806, SBIF, promulgada el 11.01.1995, modifica el presente Anexo, a fin de actualizar el indicador correspondiente a las inversiones deducibles de encaje en moneda extranjera.
-
-> **Nota.** NOTA 3 La letra D) de la Circular 2817, SBIF, promulgada el 31.05.1995, modifica el presente Anexo, a fin de actualizar los indicadores incluyendo la cuenta "Depósitos de liquidez".
-
-> **Nota.** NOTA 4 La letra A) de la Circular 2831, SBIF, promulgada el 16.10.1995, elimina, en le presente Anexo, el indicador correspondiente al saldo de Pagarés descontados terceros países ALADI, debido a que dichas operaciones carecen de vigencia y ya no se mantienen saldos por ese concepto.
-
-> **Nota.** NOTA 5 La Letra G) de la Circular 2856, SBIF, promulgada el 14.06.1996, actualiza el presenta Anexo que contiene los principales indicadores en el cómputo de saldos informados para efectos del control de encaje.
-
-> **Nota.** NOTA 6 La Letra B), de la Circular 2897, SBIF, promulgada el 16.05.1997, modifica el presente Anexo, a fin de incorporar dentro de los indicadores para efectos del cómputo del encaje, las colocaciones deducibles del encaje en moneda extranjera.
-
-> **Nota.** NOTA 7 La Circular 2898, promulgada el 26.05.1997, modifica el presente Anexo, en lo que se refiere a las obligaciones con el exterior, a fin de actualizar la información sobre los principales indicadores utilizados en el cómputo de saldos informados para efectos del control de encaje.
 
 CAPITULO 4-2 (Bancos y Financieras)
 
@@ -14074,6 +14068,8 @@ Código de Tablas Tasa de Interés Anual (%) Plazo (años)
 
 12020 12,0 20.
 
+> **Nota.** La letra C) de la Circular 2928, SBIF, promulgada el 08.04.1998, complementa el presente Anexo, agregando nuevos códigos de tablas de desarrollo.
+
 CAPITULO 9-3 (Bancos y Financieras)
 
 MATERIA:
@@ -15036,17 +15032,11 @@ ACTIVO FIJO FISICO.
 
 ### 1. Inversiones en activo fijo
 
-1.1. Disposiciones legales que rigen las inversiones en activo fijo de las instituciones financieras.
-
 Las disposiciones contenidas en los N°s 22 y 13 del artículo 69 de la Ley General de Bancos facultan a las instituciones financieras para adquirir o edificar bienes raíces y adquirir bienes corporales muebles, con la condición de que tales bienes sean necesarios para el funcionamiento y la prestación de servicios de la institución.
 
 Las inversiones en bienes del activo fijo a que se refiere el párrafo precedente están sujetas, en todo caso, al límite de que trata el penúltimo inciso del mencionado artículo 69 y el Capítulo 12-10 de esta Recopilación Actualizada de Normas.
 
 En lo que se refiere a las condiciones en que deben realizarse las compras y ventas de activo fijo, las instituciones financieras deben tener presente que los artículos 44 y 89de la Ley N° 18.046, como asimismo el N° 2 del artículo 84 de la Ley General de Bancos, precaven eventuales subordinaciones de intereses de una sociedad, exigiendo que todas las operaciones con partes relacionadas se efectúen en condiciones de equidad similares a las que prevalecen en el mercado. Por consiguiente, si bien las compras y ventas de activo fijo deben efectuarse siempre con el cuidado necesario para salvar las eventuales responsabilidades civiles que podrían derivarse de perjuicios patrimoniales causados a la institución, al tratarse de transacciones con personas naturales o jurídicas relacionadas con la propiedad o gestión de ésta, adquiere especial importancia la necesidad de efectuarlas con suficiente transparencia, manteniendo todos los antecedentes que permitan demostrar el cabal cumplimiento de la ley.
-
-1.2. Inversiones en activo fijo de instituciones que mantengan obligación subordinada con el Banco Central de Chile.
-
-Las instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile, deben mantener procedimientos de cotizaciones, aprobación y control de inversiones en activo fijo que permitan dar cumplimiento a lo dispuesto por esta Superintendencia en materia de inversiones y gastos, en su Circular N° 2.564-931 de 5 de septiembre de 1990.
 
 ### 2. Composición del activo fijo físico
 
@@ -15184,7 +15174,7 @@ d) Administradoras de fondos de capital extranjero según las normas establecida
 
 e) Sociedades securitizadoras de títulos según las normas del Título XVIII de la Ley N° 18.045.
 
-f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931, con exclusión de los seguros previsionales. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con una institución financiera.
+f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931, con exclusión de los seguros previsionales. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con una institución financiera. Al respecto la ley prohíbe expresamente a las instituciones financieras condicionar el otorgamiento de créditos a la contratación de seguros a través de un corredor de seguros relacionado con ellas, como es el caso de las filiales de que se trata.
 
 - Según la letra b) del artículo 70:
 
@@ -15408,7 +15398,7 @@ b) Que la participación tenga el carácter de una inversión permanente, permit
 
 c) Que los demás socios o accionistas que posean un 10% o más de participación en el capital de la sociedad, cumplan las condiciones que exige el artículo 36 de la Ley General de Bancos.
 
-d) Que la institución financiera obtenga la autorización previa de esta Superintendencia, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en los literales del N° 2 del título II de este Capítulo.
+d) Que la institución financiera obtenga la autorización previa de esta Superintendencia, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en los literales del N° 3 del título II de este Capítulo.
 
 Como es natural, los propósitos que la institución financiera persigue con una inversión en una sociedad que no controlará, deberán explicarse en la solicitud que se presente a esta Superintendencia.
 
@@ -15542,25 +15532,25 @@ A continuación se describen los tipos de servicios que esta Superintendencia ha
 
 - Participación en sociedad de depósito de valores creada de conformidad con la Ley N° 18.876.
 
-ANEXO N°3
+ANEXO N° 3
 
 ANTECEDENTES PARA AUTORIZACION DE SOCIEDADES DE APOYO AL GIRO.
 
 Para constituir una sociedad de apoyo al giro, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
 
-a) Participación que tendrán los socios en la propiedad y gestión.
+a) Participación que tendrán los socios en la propiedad y gestión
 
 b) Estatutos de la sociedad.
 
-f) Estudio técnico-económico de la rentabilidad de la inversión.
+c) Estudio técnico-económico de la rentabilidad de la inversión.
 
-g) Estructura organizacional prevista para la empresa.
+d) Estructura organizacional prevista para la empresa.
 
-h) Análisis de los principales riesgos del negocio y de las operaciones.
+e) Análisis de los principales riesgos del negocio y de las operaciones.
 
-i) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones.
+f) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones.
 
-j) Equipamientos y servicios contemplados para desarrollar el giro.
+g) Equipamientos y servicios contemplados para desarrollar el giro.
 
 Esta Superintendencia podrá requerir información adicional relativa al giro específico que se solicita, como asimismo antecedentes que muestren la incidencia del proyecto para cada institución financiera participante, cuando sea el caso.
 
@@ -17912,7 +17902,7 @@ b) Por apoderado de una institución financiera debe entenderse, además del ger
 
 c) Por cónyuge se entienden no sólo los que se encuentran casados bajo régimen de sociedad conyugal, sino también los separados de bienes e incluso los divorciados temporal o perpetuamente.
 
-d) Por hijos menores bajo patria potestad se entienden los hijos legítimos menores de 21 años, que se encuentren bajo la patria potestad de su padre o madre, según corresponda, esto es, que tratándose de todo tipo de menores de edad, no se encuentren sometidos a la guarda de otra persona o, tratándose de menores adultos, no hayan sido emancipados.
+d) Por hijos menores bajo patria potestad se entienden los hijos legítimos menores de 18 años, que se encuentren bajo la patria potestad de su padre o madre, según corresponda, esto es, que tratándose de todo tipo de menores de edad, no se encuentren sometidos a la guarda de otra persona o, tratándose de menores adultos, no hayan sido emancipados.
 
 e) Por sociedades deben entenderse todo tipo de sociedades, tanto de personas como de capitales, atendido que la ley se refiere a que formen parte o tengan participación. La prohibición de otorgar créditos no se aplica por extensión a otras sociedades en que no existe participación directa de un director o apoderado general o sus cónyuges o hijos menores. No obstante, para que ello ocurra se requiere que la sociedad de la que forme parte o en la que participe directamente alguna de esas personas naturales y que, a su vez, sea socia o accionista de otra, tenga giro efectivo, actividad real y patrimonio proporcionado a su giro, de manera que no exista la más leve duda sobre una posible interposición de personas que pretenda evadir la prohibición legal.
 
@@ -18104,7 +18094,7 @@ Las operaciones de cambios internacionales que obligadamente se deben realizar e
 
 Por otra parte, señala el Compendio ya citado, que toda operación de cambios internacionales que realice un banco o una Casa de Cambio M.C.F. o que se efectúe por su intermedio, se entenderá, por ese solo hecho, realizada en el Mercado Cambiario Formal.
 
-Todo lo anterior es sin perjuicio de la prohibición establecida para las sociedades financieras en la letra a) del artículo 114 de la Ley General de Bancos, que impide a esas sociedades efectuar operaciones en moneda extranjera o expresadas en moneda extranjera que no estuvieren autorizadas por el Banco Central de Chile y toda operación de comercio exterior.
+Todo lo anterior es sin perjuicio de la prohibición establecida para las sociedades financieras en la letra a) del artículo 116 de la Ley General de Bancos, que impide a esas sociedades efectuar operaciones en moneda extranjera o expresadas en moneda extranjera que no estuvieren autorizadas por el Banco Central de Chile y toda operación de comercio exterior.
 
 ### 2. Operaciones que pueden efectuar los bancos
 
@@ -18190,7 +18180,7 @@ Para las monedas de libre disposición deben utilizarse las cuentas "Cambio Merc
 
 c) Transferencia diferida de monedas.
 
-En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de un día hábil bancario la transferencia de la moneda chilena y de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", o bien, "Divisas vendidas pendientes de transferencia", según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia o "Contravalor por recibir de divisas pendientes de transferencia", según sea el caso. Las mencionadas cuentas son complementarias de las respectivas cuentas principales que se incluyen en las partidas 1010 y 1025.
+En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de un día hábil bancario la transferencia de la moneda chilena y de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, o bien, "Divisas vendidas pendientes de transferencia", de la partida 4115, según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia", de la partida 4115 o "Contravalor por recibir de divisas pendientes de transferencia", de la partida 2115, según sea el caso.
 
 Al efectuarse la transferencia efectiva mediante los respectivos traspasos a las cuentas corrientes mantenidas en el exterior o en el Banco Central de Chile, como también al recibirse o entregarse efectivamente el contravalor en pesos moneda chilena, se revertirán los importes anotados en las cuentas señaladas en el párrafo precedente y se registrarán en las cuentas definitivas que correspondan.
 
@@ -18212,7 +18202,7 @@ Las sociedades financieras autorizadas para operar en Casas de Cambio M.C.F., re
 
 ### 7. Sanciones
 
-El incumplimiento de las normas del Banco Central de Chile que rigen las operaciones de cambios internacionales del Mercado Cambiario Formal o de estas instrucciones, podrá ser sancionado de acuerdo con las disposiciones del D.L. N° 1.097, de 1975, no obstante las sanciones que, en uso de sus facultades, puede aplicar el Consejo del Banco Central de Chile.
+El incumplimiento de las normas del Banco Central de Chile que rigen las operaciones de cambios internacionales del Mercado Cambiario Formal o de estas instrucciones, podrá ser sancionado de acuerdo con las disposiciones del artículo 19 de la Ley General de Bancos, no obstante las sanciones que, en uso de sus facultades, puede aplicar el Consejo del Banco Central de Chile.
 
 CAPITULO 13-2 (Bancos)
 
@@ -23740,65 +23730,31 @@ EXHIBICION DEL ROL UNICO TRIBUTARIO O DE LA CEDULA NACIONAL DE IDENTIDAD.
 
 ### 1. Disposiciones generales
 
-Las instituciones fiscalizadas por esta Superintendencia, deben exigir la
+Las instituciones fiscalizadas por esta Superintendencia, deben exigir la presentación de la cédula del RUT a las personas naturales o jurídicas que realicen cualquiera de las operaciones mencionadas en el N°2 de este capítulo,con las excepciones que allí se indican.
 
-presentación de la cédula del RUT a las personas naturales o jurídicas que
+No obstante, las personas naturales podrán dar cumplimiento a la exigencia señalada en el párrafo precedente, exhibiendo su nueva Cédula Nacional de Identidad en lugar de la del Rol Unico Tributario.
 
-realicen cualquiera de las operaciones mencionadas en el N°2 de este
+Debido a que la cédula del RUT no es suficiente para comprobar la identidad de las personas, las instituciones financieras exigirán la cédula de identidad para cursar todas aquellas operaciones en que sea necesario verificarla identidad de los solicitantes, tales como apertura de cuenta corriente o de ahorro, pago de cheques o depósitos a plazo, etc., de manera que,
 
-capítulo,con las excepciones que allí se indican.
-
-No obstante, las personas naturales podrán dar cumplimiento a la exigencia
-
-señalada en el párrafo precedente, exhibiendo su nueva Cédula Nacional de
-
-Identidad en lugar de la del Rol Unico Tributario.
-
-Debido a que la cédula del RUT no es suficiente para comprobar la identidad
-
-delas personas, las instituciones financieras continuarán exigiendo la cédula de
-
-identidad para cursar todas aquellas operaciones en que sea necesario
-
-verificarla identidad de los solicitantes, tales como apertura de cuenta
-
-corriente o de ahorro, pago de cheques o depósitos a plazo, etc., de manera que,
-
-si bien la nueva cédula de identidad suple el RUT, éste no produce igual efecto.
+si bien la cédula de identidad suple el RUT, éste no produce igual efecto.
 
 ### 2. Operaciones en que debe exigirse el Rol Unico Tributario
 
-Las entidades fiscalizadas por esta Superintendencia deberán exigir, tanto a las
+Las entidades fiscalizadas por esta Superintendencia deberán exigir, tanto a las personas naturales como a las personas jurídicas, la presentación de la cédula del Rol Unico Tributario o en su remplazo, cuando proceda, la Cédula Nacional de Identidad, para la realización de las siguientes operaciones:
 
-personas naturales como a las personas jurídicas, la presentación de la cédula
-
-del Rol Unico Tributario o en su remplazo, cuando proceda, la nueva Cédula
-
-Nacional de Identidad, para la realización de las siguientes operaciones:
-
-a) Préstamos o créditos de cualquiera naturaleza, tanto al deudor directo de la
-
-operación, como a los que de algún modo accedan a ella o la caucionen.
+a) Préstamos o créditos de cualquiera naturaleza, tanto al deudor directo de la operación, como a los que de algún modo accedan a ella o la caucionen.
 
 b) Descuento de letras o de otros documentos mercantiles, al descontante.
 
-e) Compra de bonos u otros valores mobiliarios o efectos de comercio,
+e) Compra de bonos u otros valores mobiliarios o efectos de comercio, intermediados a través de las instituciones financieras autorizadas, respecto del vendedor.
 
-intermediados a través de las instituciones financieras autorizadas, respecto
-
-del vendedor.
-
-d) Constitución de avales o fianzas por parte de las instituciones financieras
-
-autorizadas, respecto del avalado o afianzado.
+d) Constitución de avales o fianzas por parte de las instituciones financieras autorizadas, respecto del avalado o afianzado.
 
 e) Emisión de Boletas de Garantía, o de Cartas de Crédito, respecto del tomador.
 
 f) Apertura de cuentas corrientes, respecto del cuentacorrentista.
 
-g) Cobranzas, pagos o transferencias de fondos, sólo a la persona que encarga el
-
-cobro, pago o transferencia.
+g) Cobranzas, pagos o transferencias de fondos, sólo a la persona que encarga el cobro, pago o transferencia.
 
 h) Recepción de efectos o valores en custodia, respecto del depositante.
 
@@ -23812,15 +23768,9 @@ l) Compras de divisas, respecto del vendedor, salvo en los siguientes casos:
 
 i) cuando se trate de adquisiciones a turistas; o,
 
-ii) cuando corresponda a compras clasificadas por el Banco Central de Chile en
+ii) cuando corresponda a compras clasificadas por el Banco Central de Chile en el rubro de transacciones varias, siempre que el monto de la operación sea inferior a US$ 50.000 o su equivalente en otras monedas.
 
-el rubro de transacciones varias, siempre que el monto de la operación sea
-
-inferior a US$ 50.000 o su equivalente en otras monedas.
-
-m) Constitución de depósitos a la vista o a plazo, vales a la vista o cualquier
-
-tipo de captaciones respecto del depositante o tomador, excepto cuando:
+m) Constitución de depósitos a la vista o a plazo, vales a la vista o cualquier tipo de captaciones respecto del depositante o tomador, excepto cuando:
 
 i) se trate de abrir o mantener cuentas de ahorro;
 
@@ -23830,11 +23780,7 @@ iii) correspondan a depósitos en cuentas corrientes.
 
 n) Recepción de pagos o declaraciones de impuestos, respecto del contribuyente.
 
-En las operaciones no comprendidas en la enumeración anterior o respecto de las
-
-personas que intervengan en alguna de esas operaciones y que no hayan sido
-
-mencionadas en este número, no se exigirá la exhibición de la cédula del RUT.
+En las operaciones no comprendidas en la enumeración anterior o respecto de las personas que intervengan en alguna de esas operaciones y que no hayan sido mencionadas en este número, no se exigirá la exhibición de la cédula del RUT.
 
 ### 3. Constancia de la exhibición del RUT o de la cédula de identidad
 
