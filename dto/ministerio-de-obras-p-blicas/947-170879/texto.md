@@ -1,0 +1,3 @@
+Por decreto MOP Nº947, de 30 de marzo de 2000, se modificó el decreto MOP Nº1.145, de 28 de noviembre de 1997, que autorizó la expropiación entre otros del lote Nº8, rol de avalúo Nº694-51, comuna de Yungay, para la obra Proyecto Laja Diguillín, Area de Riego Yungay, Canal San José, ordenándose la consignación judicial del valor provisional de la indemnización ascendente a la cantidad de $1.276.560, por haber quedado sin efecto el convenio directo de precio suscrito con la expropiada señora Ema Aurora Roca Seguel. La indemnización, se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
