@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 538, de 29 de Abril de 1985, conforme art. 5º transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a sector excluido y sector expropiado del predio "Parte de la Antigua Hijuela Santa Carmen de Abrantes" de la comuna de Paine, Región Metropolitana y derechos de aprovechamiento aguas que corresponden a las parcelas Nº 1 a la 3 y sitios Nº 1 al 6, del Proyecto de Parcelación "San Roberto" formado por el predio señalado. Los derechos de agua se extraen del Canal Vínculo o Vinculano Publicación hecha conforme art. 13, Ley Nº 18.377.-
+
+Director Ejecutivo.
