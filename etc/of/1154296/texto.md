@@ -1,0 +1,5 @@
+Cumplimiento de las providencias gubernativas
+
+Siendo sumamente laborioso circular con oficio especial i coplas cada una de las muchas providencias que el Gobierno infatigable por el bien de los Pueblos, i salud de estado toma en cada dia, i consultando al mismo tiempo la brevedad en el despacho, i el ahorro del trabajo a su secretaría estrelladamente recargada, ha venido en decretar que toda providencia, orden, i provision de empleo inserta en el Periódico Ministerial (que actualmente es el Monitor Araucano) que concluya o contenga la cláusula con imprimirse se tendrá por bastante circulado, se cumpla, i se ejecute puntualmente por todos los tribunales, Jefes i Justicias del Estado, como si a ellos especialmente se les dirijiera, i comisionara para su cumplimiento: i para el de este auto circúlese a todo el Reino, tomándose razon por lo respectivo a la Capital en los oficios correspondientes.
+
+Santiago i Junio 3 de 1813.- Pérez. - Infante. - Eyzaguirre. - Egaña, secretario.
