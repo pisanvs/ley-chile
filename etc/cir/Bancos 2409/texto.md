@@ -10092,37 +10092,13 @@ aplicárseles la tasa de interés correspondiente a los créditos pagaderos a un
 
 plazo inferior a 90 días.
 
-### 5. Tasa de interés máxima convencional para operaciones no reajustables en
+5. Tasa de interés máxima convencional para operaciones no reajustables en moneda chilena, en mora.
 
-moneda chilena, en mora.
+La tasa de interés máxima convencional que se puede pactar por el período de mora de un crédito convenido a menos de 90 días, será, hasta su total cancelación, la tasa de interés que rija en la fecha de la convención o durante el período de retardo, para operaciones pactadas a menos de 90 días. La tasa de interés máxima convencional que se puede pactar por el período de mora de un crédito pactado a 90 días o más, será la vigente para operaciones pactadas a ese plazo, que rija en la fecha de la convención o durante el período de mora.
 
-La tasa de interés máxima convencional que debe aplicarse por el período de mora
+Respecto de la tasa de interés máxima convencional que se puede pactar en un crédito pagadero en cuotas, por el período de mora de una o más de ellas, ya sea que se hayan pactado por un plazo promedio ponderado inferior o superior a 89 días, debe seguirse el mismo predicamento anterior, es decir, si el plazo promedio ponderado es, por ejemplo, inferior a 90 días, para el período de mora de una o más cuotas podrá estipularse la tasa máxima convencional vigente en la fecha de la convención o la que rija durante la mora para operaciones pactadas a ese plazo.
 
-de un crédito pactado a menos de 90 días, será, hasta su total cancelación, la
-
-tasa de interés que rija durante el período de retardo para las operaciones
-
-pactadas a menos de 90 días. La tasa de interés máxima convencional que
-
-corresponde aplicar al período de mora de un crédito pactado a 90 días o más
-
-será la vigente para operaciones pactadas a ese plazo, que rija durante dicho
-
-período.
-
-Respecto de la tasa de interés máxima convencional que corresponde aplicar a un
-
-crédito pagadero en cuotas por el período de mora de una o más de ellas, ya sea
-
-que se hayan pactado por un plazo ponderado inferior o superior a 89 días, debe
-
-seguirse el mismo predicamento anterior, es decir, si el plazo promedio
-
-ponderado es, por ejemplo, inferior a 90 días, al período de mora de una o más
-
-cuotas deberá aplicársele la tasa máxima convencional que rija durante la mora
-
-para las operaciones pactadas a ese plazo.
+En caso que en una operación de crédito de dinero sólo se estipule la aplicación de la tasa de interés máxima convencional, sin indicar si se trata de la que esté vigente en la fecha de la convención o durante el período de mora, se aplicará esta última, siguiendo la norma que para un caso similar da el artículo 16 de la Ley N° 18.010.
 
 ### 6. Información al público
 
@@ -41644,49 +41620,19 @@ el Código Civil.
 
 ### 2. Interés máximo convencional
 
-De acuerdo con el artículo 6° de la Ley en comentario, el interés corriente se
-
-determina, ahora, por esta Superintendencia en la primera quincena de cada mes
-
-calendario sobre la base de los intereses cobrados en sus colocaciones por los
-
-bancos y sociedades financieras en el mes anterior, haciendo distingo entre
-
-operaciones en moneda nacional, reajustables o no, y en una o más monedas
+De acuerdo con el artículo 6° de la Ley en comentario, el interés corriente se determina, ahora, por esta Superintendencia en la primera quincena de cada mes calendario sobre la base de los intereses cobrados en sus colocaciones por los bancos y sociedades financieras en el mes anterior, haciendo distingo entre operaciones en moneda nacional, reajustables o no, y en una o más monedas
 
 extranjeras o expresadas en moneda extranjera.
 
-El interés máximo convencional de cada uno de estos tipos de operaciones es el
+El interés máximo convencional de cada uno de estos tipos de operaciones es el que resulta de aumentar en un 50% el interés corriente que corresponda.
 
-que resulta de aumentar en un 50% el interés corriente que corresponda.
+La ley, para estos efectos, se remite al momento de la convención para determinar si el interés pactado supera o no al máximo convencional y lo aplica por igual al de tasa fija o variable. En el interés de tasa fija no merece duda que un interés de una tasa numérica establecida en el momento de la convención en que el interés máximo convencional era igual o superior a dicha tasa, podrá continuar cobrándose a tasa pactada durante todo el período que comprenda la operación.
 
-La ley, para estos efectos, se remite al momento de la convención para
+Ahora bien, en el caso de tasa variable, estimando por tal una tasa construida sobre un factor variable, v.gr., interés corriente, interés máximo convencional, prime rate, libor, etc., cualquiera de ellos recargado en uno o más puntos,dicha
 
-determinar si el interés pactado supera o no al máximo convencional y lo aplica
+tasa podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al momento de la convención ella tampoco haya superado el interés máximo convencional. Es evidente, p. ej., que la tasa "interés máximo convencional más uno" nace ilícita.
 
-por igual al de tasa fija o variable. En el interés de tasa fija no merece duda
-
-que un interés de una tasa numérica establecida en el momento de la convención
-
-en que el interés máximo convencional era igual o superior a dicha tasa, podrá
-
-continuar cobrándose a tasa pactada durante todo el período que comprenda la
-
-operación.
-
-Ahora bien, en el caso de tasa variable, estimando por tal una tasa construida
-
-sobre un factor variable, v.gr., interés corriente, interés máximo convencional,
-
-prime rate, libor, etc., cualquiera de ellos recargado en uno o más puntos,dicha
-
-tasa podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al
-
-momento de la convención ella tampoco haya superado el interés máximo
-
-convencional. Es evidente, p. ej., que la tasa "interés máximo convencional más
-
-uno" nace ilícita.
+En todo caso, de conformidad con lo dispuesto en el artículo 16 de la Ley N° 18.010, en las operaciones de crédito de dinero se puede pactar, para el período de mora, la tasa de interés máxima convencional vigente en la fecha de la convención o la que rija durante la mora. En los casos en que para el período de mora sólo se pacte la aplicación de la tasa de interés máxima convencional, sin indicar si se trata de la que se encuentre vigente en la fecha de la convención o de la que rija durante la mora, se aplicará esta última, siguiendo la norma que para un caso similar da el artículo 16 de la Ley N° 18.010.
 
 ### 3. Pago anticipado
 
