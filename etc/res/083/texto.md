@@ -1,0 +1,3 @@
+Por Resolución No. 083 de 11 de Noviembre de 1991 de Serviu Región de Tarapacá, se dispuso la expropiación, conforme Decreto Ley No. 2.186, de inmueble correspondiente a parte del Lote No. 49, individualizado en el Plano S.V.U. 053-I, Sector La Puntilla, de la Comuna de Iquique, de aparente dominio de Armada de Chile-Fisco. Comisión integrada por los peritos Constructores Civiles señores Jorge Romero Ossio y Ricardo Muixi Decona y Arquitecto señor Santiago Vallejos Medic, según informe de 28 de Octubre de 1991, fijó monto provisional indemnización en $ 6.933.696 pagaderos al contado.
+
+Director Serviu Región de Tarapacá.
