@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.434 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº137 para la obra: Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km. 55,43897 al Km.
+
+69,89561 y Km. 3,101 al Km. 3,92745, Subtramo IV, que figura a nombre de Peña Olmedo Carlos, rol de avalúo 102-7, comuna de Carahue, IX Región, superficie 257,1m2. La comisión de peritos fijó con fecha 30 de septiembre de 2000, el monto de la indemnización provisional en la cantidad de $5.449.850.- para el lote Nº137. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
