@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.424, de 28 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 26, 28, 31 y 38, para la obra Camino Ruta D-595; Ovalle-Hurtado, sector Tranque Recoleta - Samo Alto, Kms. 9.780,00 al 31.840,00 que figuran a nombre de Olga M.V. Acuña Acuña, Delso Rojas Gregorio y Cortés Michea Oscar, roles de avalúo R/T, 3003-37 y 3003-11, superficies 516 m².; 39 m².; 151 m². y 483 m²., comuna de Ovalle. La Comisión de Peritos, con fecha 10 de octubre de 1999, fijó la indemnización provisional en las cantidades de $103.200, lote 26;
+
+$7.800, lote 28; $259.700, lote 31 y $338.100, lote 38, las que se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
