@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.303, de 31 de mayo de 1999, se expropió el lote de terreno Nº 10, superficie 338 m2., rol de avalúo 2202-145, comuna de Chillán Viejo, para la obra ''Ruta 5 Tramo Talca - Chillán, sector calle de Servicio Los Colihues'', Octava Región y se acordó el valor de indemnización con su propietaria Margarita L. Becerra Alarcón, ascendente a la cantidad de $7.184.484.
+
+Fiscal del Ministerio de Obras Públicas.
