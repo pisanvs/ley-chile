@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 95, de 31 de enero de 1997, se expropió el lote de terreno Nº 4, superficie 2.406 M2, rol de avalúo 694-51, comuna de Yungay, para la obra Proyecto Laja-Diguillín, Area de Riego Yungay, Canal Huencheco, Ramal Nº 1 y se acordó precio de indemnización con su propietaria Ema Aurora Roca Seguel y otro, ascendente a la cantidad de $675.757.-
+
+Fiscal del Ministerio de Obras Públicas.
