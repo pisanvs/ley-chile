@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº24, de 31 de enero de 2001, se expropió el lote de terreno Nº3-B, superficie 643 m2., rol de avalúo 1503-106, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán-Collipulli. By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con su propietario Armando Zenteno Arias, ascendente a la cantidad de $1.322.370.
+
+- Fiscal del Ministerio de Obras Públicas.
