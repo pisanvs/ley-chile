@@ -1,0 +1,13 @@
+PRORROGA PLAZO PARA EFECTUAR CONSIGNACIONES SEGUN ARTICULO 39, LEY 16.640
+
+Núm. 103.- Santiago, 22 de Octubre de 1973.
+
+Vistos: Lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, la situación interna que vive el país, la necesidad de no entorpecer el proceso de la Reforma Agraria, lo expuesto por el Vicepresidente Ejecutivo de la Corporación de la Reforma Agraria y lo establecido en el artículo 39 de la ley N° 16.640, modificada por la ley N° 17.280, y en el decreto ley N° 18 de 17 de Septiembre de 1973,
+
+la Junta de Gobierno ha acordado el siguiente Decreto ley:
+
+Prorrógase en seis meses el plazo de un año señalado en el inciso 3° del artículo 39 de la ley 16.640, para efectuar la consignación que corresponde pagar por el predio expropiado, respecto de aquellos predios cuya expropiación fue publicada en el Diario Oficial entre el 15 de Octubre de 1972 y el 2 de Enero de 1973, ambas fechas inclusive.
+
+Regístrese en la Contraloría General de la República y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile e Investigaciones, y en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Comandante en Jefe del Ejército.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea de Chile.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Sergio Crespo Montero, Ministro de Agricultura.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Julio Salas Romo, Subsecretario de Agricultura.
