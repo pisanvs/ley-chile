@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 260, de 31 de marzo de 1997, se expropió el lote de terreno Nº 1, superficie 13.190 m²., rol de avalúo 400-8, comuna de San Fernando, obra Camino Ruta I-45, sector Accesos al Puente Talcarehue sobre el Río Tinguiririca y se acordó precio de indemnización con su propietaria Sociedad Santa Rita de Puente Negro Limitada, ascendente a la cantidad de $11.729.090.
+
+Fiscal del Ministerio de Obras Públicas.
