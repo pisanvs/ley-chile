@@ -36736,41 +36736,35 @@ a) Constituir depósitos en moneda extranjera en empresas bancadas establecidas
 
 en Chile;
 
-b) Conceder créditos en participación con bancos del exterior, según el numeral
-
-4.2 del Capítulo XXVI del Compendio de Normas de Cambios Internacionales y el
-
-Capítulo 13-15 de este Compendio de Normas;
-
-c) Realizar operaciones de venta de moneda extranjera con pacto de recompra, de
+b) Realizar operaciones de venta de moneda extranjera con pacto de recompra, de
 
 conformidad con lo dispuesto en los Capítulos IV.E.1 del Compendio de Normas
 
 Financieras y 13-6 de esta Recopilación de Normas;
 
-d) Adquirir pagarés del Banco Central de Chile en dólares norteamericanos, según
+c) Adquirir pagarés del Banco Central de Chile en dólares norteamericanos, según
 
 el Capítulo IV.B.9 del Compendio de Normas Financieras y la Circular de esta
 
 Superintendencia N° 1.899-349, del 28 de marzo de 1983;
 
-e) Adquirir pagarés en dólares norteamericanos emitidos por la Tesorería General
+d) Adquirir pagarés en dólares norteamericanos emitidos por la Tesorería General
 
 de la República;
 
-f) Remesar al exterior de acuerdo a los procedimientos establecidos por el
+e) Remesar al exterior de acuerdo a los procedimientos establecidos por el
 
 Instituto Emisor, previa conformidad de esta Superintendencia y del Banco
 
 Central de Chile;
 
-g) Depositar en las cuentas especiales en moneda extranjera en el Banco Central
+f) Depositar en las cuentas especiales en moneda extranjera en el Banco Central
 
 de Chile, a que se refieren el Capítulo IV.D.2 del Compendio de Normas
 
 Financieras y el Capítulo 13-12 de esta Recopilación de Normas; y,
 
-h) Financiar operaciones de comercio exterior.
+g) Financiar operaciones de comercio exterior.
 
 ### 4. Provisiones en moneda extranjera
 
