@@ -1,0 +1,3 @@
+Por resolución Nº 1.440, de 7 de octubre de 1998, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PACIFICO AUSTRAL LIMITADA, para ampliar actividades pesqueras de transformación, en orden a procesar en su planta ubicada en La Ribera Sur Nº 300, sector Pudeto Bajo, comuna de Ancud, provincia de Chiloé, X Región, en las líneas de elaboración de Seco-salado y Salado el recurso hidrobiológico Anchoveta.
+
+Valparaíso, 7 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
