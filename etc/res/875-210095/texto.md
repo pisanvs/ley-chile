@@ -1,0 +1,3 @@
+Por resolución Nº875 de 24 de abril de 2003 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chaiguaco, X Región, individualizada en el artículo 1º, Nº5, del decreto exento Nº641 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la Asociacion Gremial Pescadores Artesanales de Caleta Quenuir.
+
+Valparaíso, 24 de abril de 2003.- Edith Saa Collantes, Subsecretario de Pesca (S).
