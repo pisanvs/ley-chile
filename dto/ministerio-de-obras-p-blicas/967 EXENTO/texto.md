@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº967, de fecha 28 de junio del 2002, se expropió el lote de terreno Nº2, superficie 720 m², Rol Nº27-19, comuna de Río Claro, VII Región para la obra ''Camino Ovejería - El Radal Rol K-275, Sector Pte. Pancho, Tramo Km. 0,177 al 0,652.15'' y se acordó el valor de indemnización con su propietario José Joaquín Mora Manzor, ascendente a la cantidad de $1.278.970.-
+
+Fiscal del Ministerio de Obras Públicas.
