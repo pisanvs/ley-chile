@@ -1,0 +1,3 @@
+Por resolución exenta Nº 635, de 4 de marzo de 2005, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico de concesión de acuicultura Nº 201105022 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, RECOLECTORES DE ALGAS SECTOR PUPELDE DE LA COMUNA DE ANCUD, para el centro cultivo ubicado en Río Pudeto, sector Las Cuevas, X Región.
+
+Valparaíso, 4 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
