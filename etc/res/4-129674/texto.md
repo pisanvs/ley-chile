@@ -1,0 +1,3 @@
+Por resolución Nº 4, de 6 de enero de 1999, de esta Subsecretaría, deniégase la reposición solicitada por PESQUERA ITATA S.A., respecto de la no inclusión de la nave ''Allipén I'' en la nómina de armadores y naves autorizados para operar en la III y IV Regiones, en la pesquería de Jurel, contenida en la resolución Nº 1.133 de 1998, de esta Subsecretaría, por no concurrir a su respecto los requisitos correspondientes para ello.
+
+Valparaíso, 6 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
