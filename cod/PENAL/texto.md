@@ -2140,6 +2140,10 @@ Si la propagación de las enfermedades a que se refiere este párrafo se origina
 
 Los que propagaren indebidamente organismos, productos, elementos o agentes químicos, virales, bacteriológicos, radiactivos, o de cualquier otro orden que por su naturaleza sean susceptibles de poner en peligro la salud animal o vegetal, o el abastecimiento de la población, serán penados con presidio menor en su grado máximo.
 
+#### Artículo 291 bis
+
+El que cometiere actos de maltrato o crueldad con animales, será castigado con la pena de presidio menor en su grado mínimo y multa de uno a diez ingresos mínimos mensuales o sólo a esta última.
+
 ### X. De las asociaciones ilícitas
 
 #### Artículo 292
@@ -3730,7 +3734,7 @@ Sufrirán la pena de prisión en su grado mínimo conmutable en multa de uno a c
 
 34.° El que entrare sin violencia a cazar o pescar en sitio vedado o cerrado.
 
-35.° El que se hiciere culpable de actos de crueldad o mal trato excesivo para con los animales.
+35.° Derogado.
 
 36.° El que infringiere los reglamentos de caza o pesca en el modo y tiempo de ejecutar una u otra o de vender sus productos.
 
