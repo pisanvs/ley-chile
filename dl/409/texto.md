@@ -1,0 +1,717 @@
+FIJA UBICACION EN LA ESCALA UNICA PARA LOS TRABAJADORES DE LA EMPRESA DE LOS FERROCARRILES DEL ESTADO
+
+Núm. 409.- Santiago, 8 de Abril de 1974.
+
+Vistos lo dispuesto en el decreto ley N° 1, de 11 de Septiembre de 1973, y en el decreto ley N° 249, de 31 de Diciembre de 1973, publicado en el Diario Oficial de 5 de Enero de 1974,
+
+la Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Fíjase para los trabajadores de la Empresa de los Ferrocarriles del Estado, de acuerdo con lo dispuesto en el artículo 13° del decreto ley 249, de 1974, la siguiente ubicación en la Escala Unica:
+
+--------------------------------------------------------
+
+Grado de la
+
+Nombre del Cargo Escala Unica
+
+--------------------------------------------------------
+
+ESTAMENTO DIRECTIVOS SUPERIORES
+
+Director General 1ª Cat. A 2
+
+Subdirectores 1ª Cat. B 3
+
+Jefes de Departamentos 2ª Cat. 4
+
+Jefes de Servicios:
+
+Arquitectura 2ª Cat. 4
+
+Electrificación 2ª Cat. 4
+
+Relaciones Industriales 2ª Cat. 4
+
+Renovación Vía 2ª Cat. 4
+
+Señalización y Comunicaciones 2ª Cat. 4
+
+Administradores Delegados
+
+de Ferrocarriles 2ª Cat. 4
+
+Jefes Regionales 2ª Cat. 4
+
+Ingenieros Consultores con Nivel
+
+Jefe Depto. o Servicios 2ª Cat. 4
+
+El o los cargos de Ingenieros Consultores con Nivel Jefe Depto. o Servicios de grado 4 se transformarán en grado 6, a medida que vayan quedando vacantes.
+
+Ing. Jefe Maestranza Central
+
+San Bernardo 2ª Cat. 4
+
+El o los cargos de Ing. Jefe Maestranza Central San Bernardo de grado 4 se transformarán en grado 5, a medida que vayan quedando vacantes.
+
+Jefe Explotación Ferroc. Trasandino 3ª Cat. 4
+
+El o los cargos de Jefe Explotación Ferroc. Trasandino grado 4 se transformarán en grado 5, a medida que vayan quedando vacantes.
+
+Jefe Servicio Dental Remunerado 3ª Cat. 5
+
+Ing. Subjefes de Departamento 2ª Cat. 4
+
+El o los cargos de Ing. Subjefe de Departamento grado 4, se transformará en grado 5, a medida que vayan quedando vacantes.
+
+Abogados Subjefes de Depto. 2ª Cat. 5
+
+Secretario General 2ª Cat. 5
+
+El cargo de Secretario General grado 5 se transformará en grado 6, cuando quede vacante.
+
+Ayudante Planta Direc. y
+
+Asesor Admin 2ª Cat. 4
+
+Jefe Servicios Relaciones Grales 3ª Cat. 8
+
+Coordinador Superior de Tráfico 3ª Cat. 8
+
+Asesor Financiero 4ª Cat. 8
+
+Los cargos de Ingenieros Consultores, con excepción de 3, Ayudante Planta Dirección y Asesor Administrativo, con nivel de Jefes de Departamento o Servicio, se suprimirán, a medida que vayan quedando vacantes.
+
+ESTAMENTO JEFATURAS
+
+Técnico e Ingeniero de Ejecuc. Jefe 3ª Cat. 9
+
+Constructor Civil Jefe 3ª Cat. 9
+
+Asistente Social Jefe 4ª Cat. 10
+
+Enfermera o Matrona Jefe 4ª Cat. 10
+
+Contador Jefe 3ª Cat. 10
+
+Subjefes de Depto. no Profesionales 3ª Cat. 10
+
+Asistente Social Subjefe 5ª Cat. 11
+
+Periodista 4ª Cat. 11
+
+Contador Jefe de Sección 4ª Cat. 11
+
+Jefe Zonal de Transportes
+
+I y II Zona 4ª Cat. 10
+
+Jefe Zonal de Transportes
+
+III y IV Zona y Red Norte 4ª Cat. 11
+
+Jefe Sección no Profesional 4ª Cat. 12
+
+Contador Jefe de Sección 5ª Cat. 12
+
+Inspector Vía, Dibujante,
+
+Inspector, Seg. Ind. Jefes 4ª Cat. 12
+
+Jefe de Imprenta 3ª Cat. 10
+
+Relacionador de la Dirección 4ª Cat. 12
+
+Movilizador de Tráfico Jefe
+
+de Sección 4ª Cat. 12
+
+Jefe de Sección Policlínico 4ª Cat. 12
+
+Radio Operador y Especialistas
+
+Jefes de Sección 4ª Cat. 12
+
+Inspector Jefe Casa de Máquinas 4ª Cat. 12
+
+Jefe de Sección no Profesional 5ª Cat. 13
+
+Inspector Vía, Dibujante,
+
+Inspector Seg. Ind. Jefes 5ª Cat. 13
+
+Movilizador de Tráfico Jefe
+
+de Sección 5ª Cat. 13
+
+Jefe de Sección Policlínico 5ª Cat. 13
+
+Radio Operador y Espec. Jefes
+
+de Sección 5ª Cat. 13
+
+Inspectores Jefes de Casas
+
+de Máquinas 5ª Cat. 13
+
+Jefes Generales Calificados 4ª Cat. 12
+
+SUPRIMIDO
+
+Contador Subjefe de Sección Gr. 1° 14
+
+Inspectores Jefes de Tracción Gr. 1° 14
+
+Jefes de Talleres Calificados 5ª Cat. 13
+
+Contador Subjefe de Sección Gr. 2° 15
+
+Inspector Vía, Dibujantes Subjefes
+
+de Sección Gr. 1° 15
+
+Inspectores Jefes de Tracción Gr. 2° 15
+
+Jefes de Talleres Calificados Gr. 1° 14
+
+Jefes de Talleres No Calificados 5ª Cat. 14
+
+Movilizador de Tráfico Subjefe
+
+de Sección Gr. 1° 15
+
+Jefe de Policlínico Gr. 1° 15
+
+Radio Operador y Espec. Subjefes Gr. 1° 15
+
+Inspector de Seg. Indust. Subjefe Gr. 1° 15
+
+Subjefes de Sección Gr. 2° 16
+
+Contador Subjefe Gr. 3° 16
+
+Inspector Vía, Dibujante,
+
+Inspector Seg. Ind. Subjefe Gr. 2° 16
+
+Movilizador de tráfico subjefe Gr. 2° 16
+
+Jefe de Policlínico Gr. 2° 16
+
+Radioperador y Espec. subjefes Gr. 2° 16
+
+Inspectores Jefes de Tracción Gr. 3° 16
+
+Jefes de Talleres Calificados Gr. 2° 15
+
+Jefes de Talleres No calificados
+
+y Servicios Gr. 1° 15
+
+Subjefes de Sección Gr. 3° 17
+
+Inspector Vía, Dibujante, Inspector
+
+Seg. Ind. Subjefe Gr. 3° 17
+
+Movilizador de tráfico subjefes Gr. 3° 17
+
+Jefes de Talleres Calificados Gr. 3° 16
+
+Jefes no Calificados y Servicios Gr. 2° 16
+
+Subjefes de Sección Gr. 4° 18
+
+Jefes de Talleres no calificados
+
+y Servicios Gr. 3° 17
+
+Estamento Profesionales
+
+Ingenieros, Arquitectos y Abogados 3ª Cat. 6
+
+Ingenieros, Arquitectos y Abogados 4ª Cat. 7
+
+Ingenieros, Arquitectos y Abogados 5ª Cat. 8
+
+Ingenieros, Arquitectos y Abogados Gr. 2° 9
+
+Ingenieros, Arquitectos y Abogados Gr. 3° 11
+
+Ingenieros, Arquitectos y Abogados Gr. 4° 13
+
+El o los cargos de Ingenieros, Arquitectos y Abogados grado 13° se transformarán en grado 17°, a medida que vayan quedando vacantes.
+
+Egresados
+
+Ingenieros, Arquitectos y Abogados 19
+
+Estamentos Técnicos Universitarios
+
+Técnicos e Ing. de Ejecución
+
+y Const. Civiles 4ª Cat. 10
+
+Técnicos e Ing. de Ejecución
+
+y Const. Civiles 5ª Cat. 11
+
+Técnicos e Ing. de Ejecución
+
+y Const. Civiles Gr. 2° 12
+
+Técnicos e Ing. de Ejecución
+
+y Const. Civiles Gr. 3° 13
+
+Técnicos e Ing. de Ejecución
+
+y Const. Civiles Gr. 4° 14
+
+Técnicos e Ing. de Ejecución Gr. 5° 15
+
+Técnicos e Ing. de Ejecución Gr. 6° 17
+
+Técnicos e Ing. de Ejecución Gr. 7° 19
+
+El o los cargos de Constructor Civil, grado 14, se transformarán en grado 19 a medida que vayan quedando vacantes.
+
+EGRESADOS
+
+Técnicos e Ingenieros de Ejecución y
+
+Constructores Civiles 21
+
+Administrador Público 3ª Cat. 10
+
+Administrador Público 4ª Cat. 13
+
+Administrador Público 5ª Cat. 17
+
+Periodista 5ª Cat. 12
+
+Periodista Gr. 2° 14
+
+Periodista Gr. 3° 17
+
+Periodista Gr. 4° 20
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo 5ª Cat. 11
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo Gr. 2° 13
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo Gr. 3° 14
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo Gr. 4° 15
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo Gr. 5° 16
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo Gr. 6° 17
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo Gr. 7° 18
+
+Enfermera, Matrona, Sicólogo,
+
+Sociólogo Gr. 8° 20
+
+Asistente Social Gr. 2° 13
+
+Asistente Social Gr. 3° 14
+
+Asistente Social Gr. 4° 15
+
+Asistente Social Gr. 5° 16
+
+Asistente Social Gr. 6° 17
+
+Asistente Social Gr. 7° 19
+
+Asistente Social Gr. 8° 21
+
+Kinesiólogo Gdo. 3 14
+
+Kinesiólogo Gdo. 4 15
+
+Kinesiólogo Gdo. 5 16
+
+Kinesiólogo Gdo. 6 17
+
+Kinesiólogo Gdo. 7 19
+
+Kinesiólogo Gdo. 8 21
+
+El o los cargos de Kinesiólogo, grado 21, se transformarán en grado 22, a medida que vayan quedando vacantes.
+
+Educadora de Párvulos Jefe Gdo. 1 15
+
+Educadoras de Párvulos Gdo. 2 17
+
+Educadoras de Párvulos Gdo. 3 18
+
+Educadoras de Párvulos Gdo. 4 19
+
+El o los cargos de Educadoras de Párvulos, grado 19, se transformarán en grado 23, a medida que vayan quedando vacantes.
+
+ESTAMENTO TECNICOS NO UNIVERSITARIOS
+
+Contadores Gdo. 4 17
+
+Contadores Gdo. 5 18
+
+Contadores Gdo. 6 19
+
+Contadores Gdo. 7 20
+
+Contadores Gdo. 8 21
+
+Contadores Gdo. 9 22
+
+Contadores Gdo. 10 23
+
+Para ingresar a los cargos de Contadores se requerirá tener título de Contador y cinco años de servicios en la Empresa.
+
+Inspector Vía Gdo. 4 17
+
+Inspector Vía Gdo. 5 17
+
+Inspector Vía Gdo. 6 18
+
+Inspector Vía Gdo. 7 18
+
+El o los cargos de Inspector Vía se suprimirán a medida que queden vacantes en el último grado.
+
+Jefe Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 4 18
+
+Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 5 19
+
+Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 6 20
+
+Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 7 21
+
+Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 8 22
+
+Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 9 23
+
+Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 10 24
+
+Dibujantes, Inspectores
+
+Seg. Industrial Gdo. 11 25
+
+Inspectores de Seg. Industrial Gdo. 12 27
+
+Inspectores de Seg. Industrial Gdo. 13 28
+
+El o los cargos de Inspectores de Seg. Industrial, grado 28, se transformarán en grado 30, a medida que vayan quedando vacantes.
+
+El o los cargos de Dibujantes, grado 25, se transformarán en grado 30, a medida que vayan quedando vacantes.
+
+Jefe de Policlínico Gdo. 4 18
+
+Jefe de Policlínico Gdo. 5 20
+
+Jefe de Policlínico Gdo. 6 21
+
+Jefe de Policlínico Gdo. 7 22
+
+Practicante Gdo. 8 23
+
+Practicante Gdo. 9 24
+
+El o los cargos de Practicante grado 24, se transformarán en grado 32, a medida que vayan quedando vacantes.
+
+Radio Operadores y Especialistas Gdo. 4 18
+
+Radio Operadores y Especialistas Gdo. 5 19
+
+Radio Operadores y Especialistas Gdo. 6 20
+
+Radio Operadores y Especialistas Gdo. 7 21
+
+Radio Operadores y Especialistas Gdo. 8 22
+
+Radio Operadores y Especialistas Gdo. 9 23
+
+Radio Operadores y Especialistas Gdo. 10 24
+
+Radio Operadores y Especialistas Gr. 11° 25
+
+Radio Operadores y Especialistas Gr. 12° 25
+
+Radio Operadores y Especialistas Gr. 13° 26
+
+Radio Operadores y Especialistas Gr. 14° 26
+
+Radio Operadores y Especialistas Gr. 15° 27
+
+Radio Operadores y Especialistas Gr. 16° 28
+
+Radio Operadores y Especialistas Gr. 17° 28
+
+Radio Operadores y Especialistas Gr. 18° 29
+
+El o los cargos de Radio Operadores y Especialistas grado 29°, se transformarán en grado 30° a medida que vayan quedando vacantes.
+
+Para ingresar al Escalafón de Radio Operadores se deberá acreditar licencia secundaria o su equivalente y el carnet otorgado por la Dirección de Servicios Eléctricos y Gas para el desempeño del cargo.
+
+Para ingresar al Escalafón de Especialistas se deberá acreditar licencia secundaria, o su equivalente, experiencia previa de a lo menos tres años y haber aprobado cursos de perfeccionamiento en la especialidad correspondiente.
+
+Movilizadores de Tráfico
+
+Grado 4° 18
+
+Grado 5° 19
+
+Grado 6° 20
+
+Grado 7° 21
+
+Grado 8° 22
+
+Grado 9° 22
+
+Grado 10° 23
+
+Grado 11° 24
+
+Grado 12° 25
+
+Grado 13° 26
+
+Grado 14° 27
+
+Grado 15° 28
+
+El o los cargos de grado 28° se transformarán en grado 30 a medida que vayan quedando vacantes.
+
+Estamentos Administrativos
+
+Administrativos Gr. 5° 19
+
+Administrativos Gr. 6° 20
+
+Administrativos Gr. 7° 21
+
+Administrativos Gr. 8° 22
+
+Administrativos Gr. 9° 22
+
+Administrativos Gr. 10° 23
+
+Administrativos Gr. 11° 24
+
+Administrativos Gr. 12° 25
+
+Administrativos Gr. 13° 26
+
+Administrativos Gr. 14° 27
+
+Administrativos Gr. 15° 27
+
+Administrativos Gr. 16° 28
+
+Administrativos Gr. 17° 29
+
+Administrativos Gr. 18° 29
+
+El o los cargos de Administrativos, grado 29°, se transformarán en grado 31° a medida que vayan quedando vacantes (ex-grado 18)
+
+Integran este Estamento las plantas de personal que se encontraban incorporadas al 31 de Diciembre de 1973.
+
+La ubicación de cada una de las plantas antes mencionadas se hará dentro del Estamento considerando las posiciones relativas de grados vigentes con anterioridad al 31 de Diciembre de 1973, en lo que se refiere a ingreso y término de la Carrera.
+
+Estamento de Tracción
+
+Maquinistas de 1ª Gr. 5° 19
+
+Maquinistas de 2ª Gr. 8° 21
+
+Maquinistas de 3ª Gr. 9° 22
+
+Ayudantes Maq. de 1ª Gr. 11° 24
+
+Ayudantes Maq. de 2ª Gr. 12° 25
+
+Ayudantes Maq. de 3ª Gr. 14° 27
+
+Aspirante de Tracción Gr. 17° 29
+
+Aspirante de Tracción Gr. 18° 30
+
+ESTAMENTO DE OPERARIOS CALIFICADOS
+
+Oficiales Técnicos Jefes de Grupo Gr. 5° 19
+
+Oficiales Técnicos Jefes de Grupo Gr. 6° 20
+
+Oficiales Técnicos Jefes de Grupo Gr. 7° 21
+
+Oficiales Técnicos Jefes de Grupo Gr. 8° 22
+
+Oficiales Técnicos Jefes de Grupo Gr. 9° 22
+
+Operarios Calificados Gr. 10° 23
+
+Operarios Calificados Gr. 11° 24
+
+Operarios Calificados Gr. 12° 25
+
+Operarios Calificados Gr. 13° 26
+
+Operarios Calificados Gr. 14° 27
+
+Operarios Calificados Gr. 15° 28
+
+Operarios Calificados Gr. 16° 29
+
+Operarios Calificados Gr. 17° 30
+
+Operarios Calificados Gr. 18° 31
+
+Integran este Estamento los trabajadores que se desempeñan como: Mecánicos, Electricistas, Torneros, Fresadores, Matriceros, Revisadores, Caldereros, Herreros, Soldadores, Cobreros, Albañiles, Pintores, Carpinteros, Fundidores, Operadores de Grúa, y otros calificados, quienes para ingresar deberán acreditar licencia industrial o su equivalente en cursos de formación profesional.
+
+ESTAMENTO OPERARIOS NO CALIFICADOS
+
+Oficiales Técnicos Jefes de Grupo Gdo. 5 19
+
+Oficiales Técnicos Jefes de Grupo Gdo. 6 20
+
+Oficiales Técnicos Jefes de Grupo Gdo. 7 21
+
+Oficiales Técnicos Jefes de Grupo Gdo. 8 22
+
+Oficiales Técnicos Jefes de Grupo Gdo. 9 22
+
+Operarios Gdo. 10 23
+
+Operarios Gdo. 11 24
+
+Operarios Gdo. 12 25
+
+Operarios Gdo. 13 26
+
+Operarios Gdo. 14 27
+
+Operarios Gdo. 15 28
+
+Operarios Gdo. 16 29
+
+Operarios Gdo. 17 30
+
+Operarios Gdo. 18 31
+
+Operarios Gdo. 19 32
+
+Operarios Gdo. 20 33
+
+Operarios Gdo. 21 34
+
+Operarios Gdo. 22 34
+
+Operarios Gdo. 23 35
+
+Integran este estamento los Operarios de Transporte, Operarios de Almacenes, Operarios Varios, de Maestranza, Guarda Cruces, Guarda Vía, Operarios de Conservación, Lubricadores, Limpiadores de Tracción, Porteros, Portaequipajes, Asistentes, Aseadores, Auxiliares de Párvulos, Guardia Vigilancia, Operarios de Seguridad, Operarios de la Ley N° 10.383 y otros operarios no calificados.
+
+> **Nota.** La modificación introducida a este artículo rige a contar del 1º de enero de 1974.
+
+#### Artículo 2°
+
+El personal de la Empresa podrá percibir, además de sus sueldos bases, las siguientes asignaciones:
+
+a) Antigüedad
+
+b) Zona
+
+c) Gastos de movilización
+
+d) Gastos de pérdida de caja
+
+e) Viáticos
+
+f) Colación
+
+g) Cambio de residencia
+
+h) Asignación familiar
+
+i) Asignación por trabajos nocturnos
+
+j) Asignación de movilización del decreto ley N° 97
+
+k) Asignación especial y de permanencia
+
+l) Tratos y primas de producción (Estamentos Tracción y Operarios Calificados)
+
+m) Tiempo extraordinario
+
+n) Asignación por hora de clase
+
+ñ) Asignación de estadía en comisión fuera del país.
+
+Las asignaciones señaladas en las letras a), b), d), f), h) y j) se regirán por las disposiciones establecidas en el decreto ley N° 249, y el resto serán reglamentadas por medio de un decreto supremo, el cual deberá ser visado por el Ministerio de Hacienda.
+
+#### Artículo 3°
+
+Reitérase que, por aplicación del artículo 30° del decreto ley N° 249, han quedado derogadas todas las disposiciones de cualquier índole que concedían o permitían conceder en beneficio de los trabajadores cualquier clase de remuneraciones distintas a las establecidas o mantenidas en este cuerpo legal. Esta disposición es aplicable, entre otros, a los grados a título personal, los grados flotantes y los grados excedentes que pudieran involucrar un mejoramiento económico.
+
+#### Artículo 4°
+
+Las cantidades percibidas por concepto de anticipo de remuneraciones durante los meses de Enero, Febrero, Marzo y Abril de 1974, que excedan de los montos líquidos de las remuneraciones determinadas por la aplicación del decreto ley N° 249, de 1974, no serán reintegradas mientras no se dicten las normas específicas que regulen dicho reintegro.
+
+#### Artículo 5°
+
+Los funcionarios que percibían rentas a título personal, al 31 de Diciembre de 1973, serán encasillados de acuerdo con su grado en propiedad, liquidándose por planillas suplementarias la diferencia que se produjere entre el encasillamiento del grado en propiedad y la renta correspondiente al grado a título personal.
+
+Los trabajadores que tengan la calidad de excedentes, se ubicarán en el mismo grado de la Escala Unica en que lo sea el grado o categoría a que esté asimilado.
+
+#### Artículo 6°
+
+En los casos de traslado con cambio de escalafón o cambio de planta que se realicen, ya sea por razones de servicios o cumplimiento de requisitos, déjase establecido que dicho traslado no podrá significar una disminución de rentas, procediéndose a cancelar la diferencia por planillas suplementarias.
+
+#### Artículo 7°
+
+Los trabajadores a que se refiere este decreto ley, a quienes corresponde ascender dentro de su respectivo escalafón, sólo tendrán derecho a obtener como consecuencia de la promoción un aumento de hasta dos grados en la Escala Unica del artículo 1° del decreto ley N° 249. Si no existiere en la planta respectiva el grado correspondiente, el grado del cargo vacante se transformará automáticamente en aquel que permite la aplicación de esta norma, a excepción de los Estamentos de Tracción y Operarios Calificados que por razón de tratos y/o primas podrán ascender hasta tres grados cuando pasen de Jefes de Grupo a Jefes de Taller o de Maquinistas de Primera a Inspectores de Tracción.
+
+#### Artículo 8°
+
+Facúltase al Director General de la Empresa para pagar prácticas de estudios previamente solicitadas por los Establecimientos Educacionales. Los egresados tendrán derecho a percibir una remuneración inferior en dos niveles a la renta mínima del respectivo escalafón y los estudiantes que hayan aprobado a lo menos el 80% de su carrera, tendrán derecho a una remuneración inferior en tres niveles del escalafón correspondiente.
+
+#### Artículo 9°
+
+El presente decreto ley regirá a contar del 1° de Enero de 1974.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, Comandante en Jefe del Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Sergio Figueroa Gutiérrez, General de Brigada Aérea (A), Ministro de Obras Públicas y Transportes.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que transcribo a U. para su conocimiento.- Saluda a U.- Leopoldo Porras Zúñiga, Comandante de Grupo (A), Subsecretario de Transporte.
