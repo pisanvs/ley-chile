@@ -1572,6 +1572,8 @@ A efectos ilustrativos, una buena gestión en relación con esta materia puede m
 
 - La extensión y profundidad de las auditorías es proporcional al nivel de riesgo y al volumen de actividad. La función de auditoría está en posición de evaluar el cumplimiento de las políticas, la eficacia de los procedimientos (de operación, control de riesgos, contables y legales) y los sistemas de información.
 
+En todo caso, para los efectos del cumplimiento de lo dispuesto por el Banco Central de Chile en el numeral 1.1 del Capítulo III.B.2 de su Compendio de Normas Financieras, debe entenderse que la política de administración de liquidez concuerda con los criterios de evaluación de esta Superintendencia, cuando esa política se ciña a lo indicado en el Anexo N° 2 del presente Capítulo.
+
 3.3.- Administración del riesgo operacional y tecnológico.
 
 En lo que se refiere al riesgo operacional y tecnológico, la evaluación se centrará principalmente en los factores de riesgo que comprometen la continuidad operacional de la entidad, la seguridad de las operaciones y la calidad de la información requerida para el desarrollo normal de sus actividades.
@@ -1695,6 +1697,62 @@ En el caso de las sucursales de bancos extranjeros se entregará a esta Superint
 ANEXO N°1
 
 .
+
+ANEXO N°2
+
+POLITICA DE ADMINISTRACION DE LIQUIDEZ
+
+La política de administración de liquidez debe cubrir, a lo menos, lo siguiente:
+
+- Identificación de las fuentes de riesgo de liquidez que enfrenta el banco y sus filiales.
+
+- Estrategias definidas para hacer frente a dichos riesgos:
+
+- Políticas de financiamiento.
+
+- Políticas de diversificación.
+
+- Políticas de inversión.
+
+- Estructura de límites internos.
+
+- Plan de contingencia de iliquidez.
+
+- Medición de la situación de liquidez:
+
+- Modelos utilizados para cuantificar la situación de liquidez.
+
+o Escenarios normales.
+
+o Escenarios de crisis, sistémicas y de la institución.
+
+- Mecanismos de alerta temprana.
+
+- Criterios y supuestos utilizados en cada una de las mediciones.
+
+- Actividades destinadas a reevaluar los criterios y supuestos incorporados en las mediciones.
+
+- Responsabilidades de las distintas áreas de la institución, respecto de las siguientes funciones:
+
+- Autorización de políticas.
+
+- Aplicación de las políticas.
+
+- Aprobación del marco de límites.
+
+- Revisión de la suficiencia del marco de límites.
+
+- Monitoreo del estado de los límites.
+
+- Tratamiento de excepciones a las políticas definidas.
+
+- Generación y mantención de las herramientas utilizadas en la medición de los riesgos.
+
+- Emisión de reportes a la alta administración.
+
+- Declaración y administración de contingencias de iliquidez.
+
+- Análisis del impacto en liquidez asociado al lanzamiento de nuevos productos.
 
 CAPITULO 1-14 (Bancos y Financieras)
 
@@ -16420,83 +16478,45 @@ El capital básico y el patrimonio efectivo mencionados en este Capítulo, corre
 
 Para determinar la equivalencia en moneda chilena de los saldos en monedas extranjeras, se convertirán éstos al tipo de cambio de representación contable que se encuentre vigente.
 
-II.- RELACION ENTRE OPERACIONES CON VENCIMIENTO A MENOS DE 30 Y 90 DIAS.
+II.- LIMITES DE DESCALCES DE PLAZOS HASTA 30 y 90 DIAS.
 
-1.- Descalce de operaciones.
+1.- Límites.
 
-Las instituciones financieras deberán sujetarse a los siguientes límites:
+Los bancos deben observar en todo momento los siguientes límites de descalce entre sus flujos de efectivo por pagar y por cobrar hasta 30 y 90 días:
 
-a) Los pasivos con plazo remanente inferior a treinta días no podrán exceder a los activos de igual plazo, en más de una vez su capital básico. Este límite de descalce debe cumplirse separadamente para las operaciones pagaderas en moneda chilena, para las operaciones pagaderas en moneda extranjera y para los pasivos y activos totales con plazo remanente menor a treinta días. No obstante, las instituciones financieras pueden computar dentro del margen para moneda chilena, los excesos de los flujos de activos en monedas extranjeras sobre los flujos de pasivos en tales monedas, cuyo plazo residual sea inferior a treinta días.
+i) La suma de todos los descalces de plazo hasta 30 días, no podrá ser superior al capital básico.
 
-b) Los pasivos con plazo remanente inferior a noventa días, no podrán exceder a los activos de igual plazo, en más de dos veces su capital básico.
+ii) El mismo requisito del numeral i) anterior deberá cumplirse sumando solamente los flujos en moneda extranjera.
 
-Las relaciones de que se trata incluyen los fondos disponibles, las operaciones a la vista y las operaciones a plazo que se indican en el número siguiente.
+iii) La suma de los descalces de plazo hasta 90 días, no podrá ser superior a dos veces el capital básico.
 
-En las operaciones a plazo, deben considerarse sus flujos futuros, tanto por amortizaciones de capital como por los intereses que deberán pagarse en cada oportunidad, dentro de los respectivos plazos.
+2.- Disposiciones sobre el cumplimiento de los límites.
 
-En el caso de operaciones con tasa flotante en que la tasa numérica no fuere conocida al momento del cómputo, deberá aplicarse la tasa de interés vigente para determinar los flujos futuros por intereses que deban pagarse dentro de los ochenta y nueve días siguientes.
+Para el cumplimiento de los límites antes señalados se establecen las siguientes precisiones o instrucciones complementarias a lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile:
 
-Las colocaciones en letras de crédito incluirán los flujos por capital, intereses y comisiones de los dividendos que se originan dentro de los plazos que correspondan.
+a) Para la medición deben considerarse todos los flujos previstos de efectivo que el banco entregará o recibirá dentro de los plazos antes indicados, con la sola excepción de aquellos que no sean relevantes para determinar la posición de liquidez del banco, siempre que la exclusión de esos flujos menores se encuentre precisada y fundamentada en la política de administración de liquidez de la institución.
 
-Los flujos por intereses de las operaciones sin vencimiento, como es el caso de las cuentas de ahorro a plazo, incluirán solamente los intereses devengados y contabilizados a la fecha del cómputo.
+b) De acuerdo con lo anterior, además de las operaciones que se reflejan como activos y pasivos, deben considerarse todos los compromisos legales o contractuales que involucran ingresos o egresos de dinero que aún no se reflejan en la contabilidad, como es el caso, por ejemplo, de dividendos por pagar por las utilidades de un ejercicio, compromisos de otorgamiento de créditos o contratos de compraventa de activos.
 
-Las inversiones financieras con mercado secundario, como asimismo las que sean transables con otras instituciones financieras, se considerarán, cualquiera sea su plazo residual, según su valor de mercado reconocido contablemente, incluyéndose en los márgenes señalados en las letras
+c) Los límites indicados en el N° 1 anterior se refieren a la situación del banco individualmente considerado y no a la situación consolidada con las filiales.
 
-- **a)** y
+d) El límite mencionado en el numeral ii) del N° 1 precedente, relativo a la moneda extranjera, comprenderá los flujos de las operaciones o compromisos pagaderos en cualquier moneda extranjera, correspondan o no a las indicadas en el Anexo N° 2 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-- **b)** del N° 1 precedente. No obstante, se excluyen de ese tratamiento, debiendo en consecuencia computarse sólo los flujos del instrumento que se originarán en los plazos antes mencionados, en caso de las siguientes inversiones:
+e) Las líneas de crédito y de sobregiros, como asimismo los préstamos rotativos, deben asignarse a las bandas temporales que correspondan según el patrón de comportamiento de los saldos disponibles y de los montos utilizados. Lo anterior se aplicará tanto para los descalces sobre base contractual como ajustada y cualquiera sea la contraparte (minoristas y mayoristas).
 
-- **a)** los instrumentos que conformen la cartera permanente de acuerdo a lo establecido en el Capítulo 8-21 de esta Recopilación;
+f) Cuando se trate de descalces de plazos contractuales, todos los flujos correspondientes a las cuentas de ahorro a plazo con giro incondicional deberán considerarse para el límite indicado en el numeral i) del N° 1 de este título, en tanto que las cuentas de ahorro a plazo con giro diferido se incluirán en los límites de que tratan los numerales i) y iii) de ese número, considerando para la asignación en el primero de ellos las disposiciones relativas a los giros sin el aviso previo que caracteriza a dichas cuentas.
 
-- **b)** los instrumentos entregados en garantía; y,
+g) Al tratarse de descalces de plazos ajustados, tanto las cuentas de ahorro a plazo con giro incondicional como las cuentas con giro diferido se asignarán a las bandas temporales que se determinen según su comportamiento. Los importes asignados por las cuentas de ahorro a plazo, no se computarán para efectos de lo dispuesto en el inciso cuarto del numeral 1.9 del Capítulo III.B.2 antes mencionado, referido a porcentajes mínimos de asignación según el plazo contractual.
 
-- **c)** las inversiones correspondientes a instrumentos vendidos con pacto de retrocompra, cuando su plazo residual de recompra sea superior a 29 días.
+h) Tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados, los flujos correspondientes a los créditos otorgados por el banco considerarán las tasas de renegociación y de mora que normalmente afectan a la cartera.
 
-En los instrumentos derivados se computarán los activos y pasivos subyacentes. En el caso del margen referido sólo a operaciones pagaderas en moneda chilena a menos de 30 días, se considerarán todos los derivados que se paguen o compensen en moneda chilena, aun cuando se expresen en moneda extranjera.
+i) Los instrumentos financieros que puedan ser vendidos en un plazo no superior a 7 días sin incurrir en pérdidas por tal motivo, pueden considerarse como un flujo por su valor de mercado dentro de ese plazo, salvo que formen parte de la "cartera permanente" según lo establecido en el Capítulo 8-21 de esta Recopilación. Por pérdida se entiende la diferencia entre el valor de mercado de aquellos instrumentos a la fecha del cómputo con respecto al monto que se obtendría al venderlos en su totalidad dentro de ese plazo. Por otra parte, se entiende que no son susceptibles de venderse en esas condiciones los instrumentos sin mercado secundario que no puedan ser vendidos a otro banco, como asimismo los que se encuentran entregados en garantía o sujetos a cualquier gravámen y aquellos cedidos con un pacto de retrocompra que se cumplirá después de aquel plazo de 7 días. Lo indicado en esta letra i) se aplicará tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados.
 
-2.- Activos y pasivos que deben computarse.
+j) Los instrumentos financieros que no cumplan con la condición indicada en la letra i) precedente, se incluirán en las bandas temporales que correspondan a los pagos del emisor, sea que se trate de plazos contractuales o ajustados.
 
-2.1.- Pasivos.
+k) Los flujos de los instrumentos derivados se computarán considerando los precios de mercado, en las bandas temporales que correspondan.
 
-Deben incluirse todas las operaciones que cumplan las condiciones antes mencionadas y que, de acuerdo con las instrucciones de esta Superintendencia, se muestran bajo los conceptos que se señalan a continuación:
-
-- Depósitos, captaciones y otras obligaciones (Partidas 3005 a 3075). No se computarán en estos pasivos las cuentas de ahorro a plazo con giro diferido.
-
-- Operaciones con pacto de retrocompra (Partidas 3110 y 3115).
-
-- Obligaciones con letras de crédito (Partidas 3305 a 3315).
-
-- Préstamos y otras obligaciones contraídas en el país (Partidas 3405 a 3480).
-
-- Préstamos y otras obligaciones contraídas en el exterior (Partidas 3505 a 3570).
-
-- Intereses por pagar otras operaciones (Partida 3820)
-
-- Cuentas diversas (Partida 4115)
-
-- Bonos subordinados (Partida 4190)
-
-Además de lo anterior, se computarán los pasivos subyacentes de los instrumentos derivados, cuando corresponda, según su plazo.
-
-2.2.- Activos,
-
-Comprende los siguientes conceptos que, de acuerdo con las instrucciones de esta Superintendencia, se muestran en los rubros o partidas que se señalan:
-
-- Fondos disponibles (Partidas 1005 a 1025)
-
-- Colocaciones efectivas (Partidas 1105 a 1248)
-
-- Colocaciones en letras de crédito (Partidas 1305 a 1315)
-
-- Contratos de leasing (Partida 1350)
-
-- Operaciones con pacto de retrocompra (Partidas 1690 y 1695).
-
-Inversiones financieras (Partidas 1705 a 1740) Estas inversiones deben separarse para efectos del cómputo de todos los márgenes de que trata este título, en cartera que se computa a su valor de mercado y cartera que se considera según los flujos del instrumento, conforme a lo indicado en el N° 1.
-
-- Intereses por cobrar otras operaciones (Partida 1820). Cuentas diversas (Partida 2115).
-
-Además, se computarán los activos subyacentes de cualquier instrumento derivado, cuando corresponda, según su plazo.
+1) Cuando se determinen los descalces sobre base ajustada, los criterios para efectuar los ajustes de los activos y pasivos y los demás flujos previstos, deberán ser concordantes entre sí, tanto en lo que toca a la distinción entre mayoristas y minoristas, como en lo que se refiere a las bases para establecer el comportamiento.
 
 III.- MARGEN DE COLOCACIONES E INVERSIONES EN MONEDA CHILENA NO REAJUSTABLES.
 
@@ -16586,9 +16606,7 @@ El cumplimiento de este margen se medirá sobre la base de los flujos de las ope
 
 De acuerdo con las normas del Banco Central de Chile, para la demostración de los cálculos deben considerarse separadamente el capital y sus intereses, y las distintas monedas.
 
-La primera banda temporal comprenderá los fondos disponibles y todas las operaciones a la vista o sin vencimiento, con la sola excepción de las cuentas de ahorro a plazo. La primera banda incluye todos los flujos que ocurrirán a menos de 30 días. La segunda banda temporal, por su parte, incluirá los flujos desde 30 a 89 días y la tercera desde 90 días a 6 meses. Las demás bandas temporales, esto es, de la 4° a la 13°, no requieren de precisiones para la aplicación de lo señalado en el N°6 del Capítulo III.B.2 del Compendio de Normas Financieras.
-
-Los flujos por intereses de las operaciones sin vencimiento, como es el caso de las cuentas de ahorro a plazo, incluirán solamente los intereses devengados y contabilizados a la fecha del cómputo.
+Las operaciones sin vencimiento se incluirán en la primera banda temporal, con excepción de las cuentas de ahorro a plazo, las que se incluirán en la quinta banda. Los flujos por intereses de las operaciones sin vencimiento, incluirán solamente los intereses devengados y contabilizados a la fecha del cómputo.
 
 Para las operaciones pactadas a tasa de interés flotante, se incluirán los intereses calculados solamente hasta la fecha más próxima en la que corresponda fijar la tasa de interés que regirá para el período siguiente. Dichos intereses serán incluidos en las bandas temporales que les corresponda. El capital insoluto amortizable con posterioridad a la fecha en que cambiará la tasa, se deberá incluir en la banda temporal que corresponde a ese cambio de tasa.
 
@@ -16650,9 +16668,21 @@ Las entidades financieras que se excedan de los límites a que se refiere el pre
 
 Para ese efecto, se tendrá como una infracción a las presentes instrucciones el incumplimiento dentro de un mes calendario transcurrido, de alguno de los límites que se tratan en este Capítulo.
 
-VII.- DISPOSICION TRANSITORIA.
+VII.- INFORMACION SOBRE LA POSICION DE LIQUIDEZ.
 
-No obstante lo señalado en el N° 1 del título II de este Capítulo, las instituciones financieras podrán acogerse a los márgenes especiales de que trata la disposición transitoria del Capítulo III.B.2 del Compendio de Normas Financieras.
+1.- Envío de información periódica a esta Superintendencia.
+
+La información acerca de la posición de liquidez del banco prevista en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, se enviará a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información.
+
+La información consolidada comprenderá los flujos del banco y de sus filiales, como asimismo los de sus sucursales en el exterior, cuando sea el caso.
+
+En todo caso, para el envío de información consolidada se seguirá el mismo criterio que para la inclusión de los flujos del banco matriz, en el sentido de que se podrán omitir aquellos flujos de las subsidiarias que no sean significativos para la medición de la situación de liquidez consolidada, si su exclusión se encuentra fundamentada en la política de administración de liquidez.
+
+2.- Información al público.
+
+Para dar cumplimiento a lo dispuesto en el último inciso del numeral 1.13 del Capítulo III.B.2 antes mencionado, los bancos publicarán su situación individual de liquidez referida al último día de cada trimestre calendario, dentro de los quince días siguientes al término del trimestre correspondiente. La publicación se efectuará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional.
+
+Se recomienda que además de la información exigida por el Banco Central de Chile, en dicha publicación el banco describa los aspectos esenciales de su política de administración de liquidez.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
