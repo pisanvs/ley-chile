@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 924, de 29 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la ejecución de la obra "Puente Muco, Camino Lautaro - Pillanlelbun, Km. 0.000 - 0.3000", que figura a nombre de Pedro Morales Pichihuencho Rol de Avalúo Nº 312-191, comuna de Lautaro, IX Región, superficie 688,44 m². La Comisión de peritos fijó con fecha 9 de julio de 2000, el valor provisional de la indemnización en la cantidad de $567.110.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
