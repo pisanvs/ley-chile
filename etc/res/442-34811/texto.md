@@ -1,0 +1,5 @@
+Por Resolución N° 442, de 13 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA CALETA PORTALES, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en Caleta Portales, Avenida España s/n, Valparaíso, la línea de elaboración de Ahumado, en la que podrá procesar los siguientes recursos hidrobiológicos: Jurel, Reineta, Sierra, Cholga, Chorito.
+
+Asimismo, podrá incorporar en las líneas de proceso, ya autorizadas, que a continuación se indican, los siguientes recursos hidrobiológicos: Fresco-refrigerado: Jurel, Sierra, Piure; Congelado: Reineta, Jibia; Precocido y Congelado: Ostra chilena, Cholga, Loco, Ostión del Norte.
+
+Valparaíso, 13 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
