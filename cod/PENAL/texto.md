@@ -3178,7 +3178,7 @@ Será castigado con presidio o relegacion menores en sus grados mínimos o multa
 
 2.° El que otorgare en perjuicio de otro un contrato simulado.
 
-3.° El que cometiere alguna defraudacion en la propiedad literaria o industrial.
+3.° DEROGADO.
 
 Los ejemplares, máquinas u objetos contrahechos, introducidos o espendidos fraudulentamente, se aplicarán al perjudicado i tambien las láminas o utensilios empleados en la ejecucion del fraude, cuando solo pudieren usarse para cometerlo.
 
