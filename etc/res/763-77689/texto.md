@@ -1,0 +1,3 @@
+Por Resolución No. 763 de 10 de Agosto de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 436, de 1990, de esta Subsecretaría, que autorizó a MARIA SONIA ALMONACID QUIDIANTE, RUT No. 11.502.466-3, domiciliada en Punta Tenglo, Puerto Montt, para operar un establecimiento de cultivo de alga Gracilaria spp. en Puntilla Tenglo, Isla Tenglo, Comuna de Puerto Montt, Provincia de Llanquihue, Región X, por renuncia total de su titular ya individualizado.
+
+Valparaíso, 10 de Agosto de 1992. Andrés Couve Rioseco, Subsecretario de Pesca.
