@@ -1,0 +1,3 @@
+Por resolución Nº 99, de 14 de agosto de 1998, Serviu II Región dispuso conforme D.L. 2186 de 1978, y para ejecución proyecto Mejoramiento Acceso Puerto de Antofagasta, expropiación parcial del inmueble ubicado en calle Isaac Arce Nº 209, esq. Avda. Balmaceda, rol avalúo Nº 786-015, comuna de Antofagasta, superficie 23,45 M2, de aparente dominio de don Jaime Otárola Espejo. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted B., Sra. Eleonora Román L., Arquitectos, y Sr. Héctor Villegas G., Constructor Civil, según informe de 22 de julio de 1998, fijó monto provisional indemnización en $6.440.947.-, pagadera al contado.
+
+Director Serviu II Región.
