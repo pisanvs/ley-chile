@@ -1,0 +1,3 @@
+Por decreto MOP Nº801 de fecha 30 de abril del 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno denominado ''Unico'', para la ejecución de la obra ''Embalse La Paloma, Sector El Palqui'', que figura a nombre de Sucesión Salinas, sin rol de avalúo, de la comuna de Monte Patria, IV Región, superficie 18.508 m2. La comisión de peritos fijó con fecha 10 de junio de 1998, la indemnización provisional en la cantidad de $31.232.250.- para dicho lote. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
