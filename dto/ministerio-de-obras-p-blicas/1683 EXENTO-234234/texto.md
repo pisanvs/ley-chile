@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.683 de 30 de noviembre de 2004, se expropió el lote de terreno Nº 49-A, superficie 797 m², rol de avalúo Nº 519-179, comuna de Carahue, para la obra ''Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue - Cruce Puyanque, Km. 23.348,46 al Km. 45.286,79'', VII Región y se acordó el valor de la indemnización con su propietario Germán Antonio Valenzuela Riquelme, ascendente a la cantidad de $381.243.-
+
+Fiscal del Ministerio de Obras Públicas.
