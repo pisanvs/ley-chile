@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 539 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 43, superficie 131,50 m², Rol de Avalúo Nº 61-41, comuna de Futrono, para la obra ''Camino Ruta T-55, Sector Futrono - Llifén, tramo Km. 55,300 a Km. 75,76384'', X Región y se acordó el valor de indemnización con su propietario Carlos Huenulef, ascendente a la cantidad de $2.405.459.-
+
+Fiscal del Ministerio de Obras Públicas.
