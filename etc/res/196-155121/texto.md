@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA QUINTERO S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 196, de 12 de Abril de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Quintero S.A., domiciliada en Santiago, para extender la zona de operación de las embarcaciones denominadas "Goden Wind", "Basel" y "Eversen", fijada por las resoluciones 128 y 382, de 1983, de la Subsecretaría de Pesca, al litoral comprendido entre los paralelos 24º y 29º de latitud Sur, y para extender la zona de operación de la nave "Crusoe 1º", fijada por la resolución 364, de 1984, de la Subsecretaría de Pesca, al litoral comprendido entre los paralelos 24º y 28º de latitud Sur, y destinarlas a la extracción de camarón y langostino amarillo.
+
+Santiago, 12 de Abril de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
