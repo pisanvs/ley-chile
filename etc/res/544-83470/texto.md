@@ -1,0 +1,5 @@
+DENIEGA AUTORIZACION QUE INDICA. CADUCA RESOLUCION QUE SEÑALA
+
+Por resolución Nº544 de 9 de Abril de 1990, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la autorización solicitada por don Guillermo Ayala Pizarro R.U.T. Nº6.715.093-7, domiciliado en la ciudad de Iquique, calle Orden y Patria Nº2768, Playa Brava, para prorrogar el plazo para iniciar la operación de la embarcación "Blanca Estela II", a que se refiere el numeral 5º, de la citada Resolución, de acuerdo a lo dispuesto en el artículo 7º del Decreto Nº175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. Cadúcase, en mérito de lo antes señalado y de conformidad a lo dispuesto en el artículo y la norma antes mencionados la Resolución Nº917, de 1988, de esta Subsecretaría.
+
+Valparaíso, 9 de Abril de 1990.- Andrés Couve Rioseco, Subsecretario de Pesca.
