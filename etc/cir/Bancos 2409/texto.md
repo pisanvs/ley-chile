@@ -29794,11 +29794,9 @@ N° de Inscripción * Nombre de la empresa.
 
 015 ESPEJO Y CIA. LTDA - AUDITORES CONSULTORES ASOCIADOS.
 
-Se incluyen sólo las firmas inscritas en el Registro que se encuentran
+017 GRANT THORNTON CHILE, AUDITORES CONSULTORES LTDA.
 
-facultadas para prestar sus servicios profesionales a bancos y sociedades
-
-financieras.
+Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
