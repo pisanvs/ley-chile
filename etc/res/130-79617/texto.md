@@ -1,0 +1,3 @@
+Por resolución No. 130, de 14 de Febrero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, derógase la Resolución No. 967, de 1986, de esta Subsecretaría, por la cual se autorizó a don HUGO OSVALDO HERNANDEZ ALVAREZ, R.U.T. No. 7.401.760-6, domiciliado en calle San Antonio No. 948, Población Techo Para Todos, Puerto Montt, para instalar y operar un establecimiento de cultivo del recurso Alga del género Gracilaria, en un sector de Playa Pangal, Bahía Maullín, Comuna de Maullín, Provincia de Llanquihue, X Región, por renuncia de su titular.
+
+Valparaíso, 14 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
