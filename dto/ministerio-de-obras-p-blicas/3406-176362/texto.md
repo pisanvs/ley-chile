@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.406, de 31 de julio de 2000, se expropió el lote de terreno Nº 108, superficie 517 m2, rol de avalúo 233-642, comuna de Rengo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietaria Nelly de las Mercedes Casanova Díaz, ascendente a la cantidad de $2.784.343.
+
+Fiscal del Ministerio de Obras Públicas.
