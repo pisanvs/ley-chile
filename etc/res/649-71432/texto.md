@@ -1,0 +1,3 @@
+Por Resolución Nº 649, de 7 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94101095, presentada por AGUSTIN CARCAMO IGOR, para un centro de cultivo ubicado en Caleta Chaica, Seno de Reloncaví, Comuna de Puerto Montt, Provincia de Llanquihue, X Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
