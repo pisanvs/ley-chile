@@ -1896,7 +1896,45 @@ Por otra parte, las obligaciones de retrocompra, cualesquiera sea el documento v
 
 Las instituciones financieras deben tener presente que las compras con pacto de retrocompra por parte del vendedor quedan sujetas a los límites y prohibiciones de crédito de que trata el artículo 84 de la Ley General de Bancos, de acuerdo a lo establecido en el Capítulo 12-3 de esta Recopilación.
 
-### IV. OPERACIONES POR CUENTA DE TERCEROS
+IV.- VENTAS CORTAS Y PRESTAMO DE VALORES.
+
+De acuerdo con lo establecido en el N° 7 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las ventas cortas que pueden realizar las instituciones financieras corresponden a aquellas que se pueden realizar mediante préstamos de instrumentos financieros obtenidos de personas domiciliadas y residentes en Chile. La adquisición de instrumentos financieros con obligación de restitución debe sujetarse a las siguientes condiciones:
+
+1. - Títulos que pueden ser adquiridos mediante un préstamo de instrumentos financieros.
+
+Sólo pueden ser objeto de un contrato de préstamo de instrumentos financieros los documentos emitidos por el Banco Central de Chile en virtud de operaciones de mercado abierto y los bonos y letras de crédito emitidos por bancos y sociedades financieras establecidos en el país, susceptibles de ser adquiridos por las instituciones financieras.
+
+No podrán efectuarse esas operaciones con instrumentos cuyo valor de mercado en los últimos cinco días hábiles bancarios acumule una caída igual o superior al 5% si se trata de documentos cuya duración sea inferior a dos años, o igual o superior al 10% al tratarse de instrumentos con una duración mayor.
+
+2.- Requisito que debe cumplir la institución financiera que adquiere los títulos.
+
+La institución financiera adquirente debe mantener, mientras esté vigente el pacto, títulos libres de todo gravamen equivalentes en riesgo y liquidez a los obligados a restituir, o derechos sobre los mismos, cuyo valor a precio de mercado sea al menos equivalente a la correspondiente obligación de restitución. Esta regla debe cumplirse tanto en el caso en que se pacte la restitución como en el caso dé que se pacte el pago del precio de mercado y no se refiere a instrumentos que el adquirente se obligue a restituir, sino sólo a los que cumplan las condiciones antes indicadas.
+
+3.- Participación de las instituciones financieras como cedentes.
+
+Las instituciones financieras sólo pueden otorgar préstamos de instrumentos financieros a otras instituciones financieras.
+
+4.-Condiciones que deberán pactarse en el préstamo de instrumentos financieros.
+
+La institución financiera que adquiera un documento bajo esa modalidad, deberá pactar con el cedente lo siguiente:
+
+a) El instrumento financiero objeto de la operación.
+
+b) La obligación de restituir un instrumento de las mismas características, en cuanto a plazo, emisor, tasa de interés y serie, o bien, la obligación de pagar el precio de mercado que tenga el instrumento cedido en la fecha de vencimiento de la operación.
+
+c) Fecha de restitución o de pago del precio, según corresponda.
+
+d) Comisión por la operación. Deberá además dejarse constancia de la forma en que el cedente obtiene el pago de los flujos que deja de percibir del emisor por haber transferido la propiedad del título, cuando en el lapso de vigencia de la operación exista un pago de cupones del instrumento cedido.
+
+e) Demás derechos u obligaciones que acuerden las partes.
+
+5.- Otras disposiciones.
+
+Las operaciones de préstamos de instrumentos financieros realizadas entre instituciones financieras quedan sujetas a los límites de que tratan los Capítulos 12-3 y 12-7 de esta Recopilación.
+
+Las obligaciones por los préstamos de instrumentos que no correspondan a documentos emitidos por el Banco Central de Chile, quedan sujetas al encaje que rige para los depósitos. Dichas obligaciones, cualesquiera sean los documentos transferidos que originen la obligación, no quedan afectos a reserva técnica.
+
+### V. OPERACIONES POR CUENTA DE TERCEROS
 
 ### 1. Disposiciones legales
 
@@ -5104,19 +5142,13 @@ Las demás captaciones a más de un año no estarán afectas a encaje.
 
 Estarán afectos a encaje a la tasa señalada en el numeral 1.1.1 anterior, los saldos de las cuentas que se demuestren en las siguientes partidas del MB1:
 
-a) Bancos.
+N° 3005 "Acreedores en cuentas corrientes.
 
-N° 3005 "Acreedores en cuentas corrientes";
+N° 3010 "Otros saldos acreedores a la vista (exceptuados los depósitos por consignaciones judiciales artículo 517).
 
-N° 3010 "Otros saldos acreedores a la vista" (exceptuados los depósitos por consignaciones judiciales artículo 517; y,
+N° 3015 "Cuentas de depósito a la vista"
 
-N° 3015 "Cuentas de depósito a la vista; y,
-
-b) Sociedades Financieras.
-
-N° 3010 "Otros saldos acreedores a la vista"; y,
-
-N° 3015 "Cuentas de depósito a la vista".
+N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
 
 2.1.2. Depósitos a la orden judicial
 
@@ -5138,7 +5170,7 @@ Estarán afectos a encaje, a la tasa indicada en el numeral 1.2 anterior, las cu
 
 - N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" de que trata el Capítulo 2-7 de esta Recopilación.
 
--N°s. 3110 y 3115: sólo las subcuentas "De 30 a 89 días plazo" y "De 90 días a un año plazo"/ de las cuentas "Obligación de retrocompra otras inversiones financieras"/ tratadas en el Capítulo 8-21 de esta Recopilación.
+-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
 
 2.3. Contenido de la partida 3010 " Otros saldos acreedores a la vista"
 
@@ -5222,19 +5254,31 @@ Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su natura
 
 2. Cuentas de depósitos, captaciones y obligaciones en monedas extranjeras afectas a encaje.
 
-Quedarán sujetos a encaje, a las tasas precedentemente indicadas, los saldos de las cuentas que se demuestren en las siguientes partidas.
+Quedarán sujetos a encaje, a las tasas precedentemente indicadas, los saldos de las cuentas que se incluyen en las siguientes partidas:
 
-N° 3005 "Acreedores en cuentas corrientes".
+a) Obligaciones a la vista.
 
-N° 3010 "Otros saldos acreedores a la vista".
+N° 3005 "Acreedores en cuentas corrientes"
 
-N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días".
+N° 3010 "Otros saldos acreedores a la vista"
 
-N° 3025 "Depósitos y captaciones a plazo de 90 días a un año".
+N° 3015 "Cuentas de depósito a la vista"
 
-N° 3030 "Otros saldos acreedores a plazo".
+N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
 
-Además, se incluye la cuenta "Captaciones a más de un año con retiros dentro del año" de la partida 3065.
+b) Obligaciones a plazo.
+
+N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días"
+
+N° 3025 "Depósitos y captaciones a plazo de 90 días a un año"
+
+N° 3030 "Otros saldos acreedores a plazo"
+
+N° 3035 "Depósitos de ahorro a plazo"
+
+N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" de que trata el Capítulo 2-7 de esta Recopilación.
+
+N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
 
 ### 3. Impartes que se pueden deducir de las obligaciones afectas a encaje
 
@@ -7956,6 +8000,10 @@ X.- FINANCIAMIENTO DE GASTOS LOCALES DE IMPORTACIONES.
 
 Los créditos en moneda extranjera que otorguen los bancos, al amparo de lo dispuesto en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, para financiar gastos locales que originen las importaciones, se incluirán en la cuenta "Préstamos para gastos locales" de la partida 1110 ó 1205, según proceda.
 
+XI.- CREDITOS INTERNOS PARA EXPORTACIONES.
+
+Los créditos en moneda extranjera que otorguen las empresas bancarias para financiar exportaciones de acuerdo con lo establecido en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, se incluirán en la cuenta "Préstamos para exportadores" de la partida 1130 ó 1225, según sea el plazo pactado.
+
 CAPITULO 7-6 (Bancos)
 
 MATERIA:
@@ -9424,13 +9472,7 @@ Las instituciones financieras no podrán avalar o afianzar obligaciones a cargo 
 
 6.- Avales y fianzas en moneda extranjera.
 
-De conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera, con las limitaciones que se indican en el Capítulo III.I.1 antes mencionado, a favor de personas naturales o jurídicas residentes en Chile o en el extranjero.
-
-Los importes en moneda extranjera que los bancos paguen a las personas residentes en el país, por haberse hecho efectivos los avales o fianzas que hayan otorgado, deberán ser liquidados a moneda corriente nacional en el mercado cambiario formal. Los bancos avalistas o fiadores serán responsables del cumplimiento de esta norma.
-
-Por otra parte, en aquellos casos en que el deudor principal no haya cumplido el pago total o parcial de una obligación en moneda extranjera avalada o afianzada que cuente con acceso autorizado al mercado de divisas, el banco avalista o fiador deberá informar al Banco Central de Chile, en la correspondiente planilla de egreso, que se ha hecho cargo de la cobertura en razón a su calidad de avalista o fiador.
-
-Conforme a lo establecido en el Capítulo XX antes mencionado, el Banco Central de Chile podrá exigir a las empresas bancarias, en la oportunidad que lo estime conveniente, los antecedentes que correspondan a los avales y fianzas en moneda extranjera.
+Las empresas bancarias pueden avalar o afianzar operaciones en moneda extranjera a favor de personas naturales o jurídicas residentes en Chile o en el extranjero, de conformidad con lo dispuesto en el Capítulo XX del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en su Capítulo III.1.1 antes mencionado.
 
 7.- Límites.
 
@@ -9444,7 +9486,7 @@ Sin perjuicio de ese margen, los avales y fianzas que una institución financier
 
 7.2.- Límites de avales y fianzas en moneda extranjera.
 
-De acuerdo con lo establecido por el Banco Central de Chile en el Capítulo III.1.1 de su Compendio de Normas Financieras, el monto global de los avales y fianzas en moneda extranjera que otorgue un banco a personas residentes o domiciliadas en el país, sumados a los créditos contingentes en moneda extranjera que dichas personas mantengan por la emisión de boletas de garantía o cartas de crédito stand by, no podrá exceder de una vez el patrimonio efectivo de la entidad avalista o emisora.
+De acuerdo con lo establecido por el Banco Central de Chile en el Capítulo III.1.1 de su Compendio de Normas Financieras, el monto global de los avales y fianzas en moneda extranjera que otorgue un banco a personas residentes o domiciliadas en el país, sumados a las responsabilidades solidarias que contraiga con motivo de venta o cesión de sus créditos y a los créditos contingentes en moneda extranjera que dichas personas mantengan por la emisión de boletas de garantía o cartas de crédito stand by, no podrá exceder de una vez el patrimonio efectivo de la entidad avalista o emisora.
 
 Independientemente del límite anterior, las mismas normas del Banco Central de Chile disponen que el monto de esos créditos contingentes otorgados a personas no residentes ni domiciliadas en el país, no podrá exceder del 25% de dicho patrimonio. Ese porcentaje podrá alcanzar hasta el 37,5 % si la empresa bancaria cuenta con un indicador de Basilea igual o superior a 10%.
 
@@ -9459,6 +9501,8 @@ Los avales o fianzas que otorguen las instituciones financieras, serán registra
 Debe: "Créditos contingentes por avales o fianzas, de la partida 1610 ó 1660.
 
 Haber: "Obligaciones contingentes por avales o fianzas", de la partida 3610 ó 3660.
+
+Al tratarse de moneda extranjera, estas cuentas incluyen todos los conceptos mencionados en el numeral 7.2, con excepción de las boletas de garantía que se rigen por las normas del Capítulo 8-11.
 
 8.2.- Reajustes e intereses.
 
@@ -9579,10 +9623,6 @@ favor de terceros, susceptibles de caucionarse mediante este instrumento.
 ### 5. Boletas de garantía en moneda extranjera
 
 De conformidad con lo dispuesto en el Capítulo XXI del Título I del Compendio de Normas de Cambios Internacionales, las empresas bancarias pueden emitir boletas de garantía en moneda extranjera con el objeto de caucionar el cumplimiento de obligaciones de hacer, a favor de personas residentes en Chile o en el extranjero.
-
-Los importes en moneda extranjera que los bancos paguen a las personas residentes en el país, por haberse hecho efectivas las boletas de garantía que hayan emitido, deberán ser liquidados a moneda corriente nacional en el mercado cambiario formal. Los bancos emisores de las boletas de garantía serán responsables del cumplimiento de esta norma.
-
-El Banco Central de Chile podrá requerir en cualquier momento a las empresas bancarias la entrega de los antecedentes que correspondan a las boletas de garantía en moneda extranjera emitidas conforme a las normas contenidas en el Capítulo XXI antes citado. Los bancos deberán cumplir con la entrega de dichos documentos dentro del plazo que para tal efecto se les señale.
 
 6. Boletas de garantía expresadas en moneda extranjera, pagaderas en moneda chilena.
 
@@ -10392,11 +10432,33 @@ a) El importe percibido por la venta se registrará con abono a la cuenta "Opera
 
 b) Los importes correspondientes a los documentos vendidos se mantendrán registrados en su cuenta de origen. Por consiguiente, a diferencia de las operaciones con pacto de retro-compra a que se refiere el N° 8 de este Capítulo, en estas operaciones no se efectuará un traspaso a una cuenta de la partida 1740, sin perjuicio del control que necesariamente debe mantenerse por la custodia por cuenta del Banco Central de Chile y restricción de venta de los pagarés durante la vigencia del pacto.
 
-### 11. Provisiones
+11.- Registro de los préstamos de instrumentos financieros.
+
+11.1.- Adquisición de instrumentos en préstamos.
+
+El prestatario ingresará el documento adquirido, a su valor de mercado, en la cuenta de inversiones financieras que corresponda, reconociéndose un pasivo por la obligación de restitución o pago del instrumento.
+
+La obligación con el prestamista será ajustada durante la vigencia del contrato al valor de mercado del instrumento que se adquirió. Dicho ajuste se hará con cargo o abono a los resultados, según corresponda. En caso de que el instrumento adquirido contemple un pago de cupones durante la vigencia del contrato, ese valor deberá considerar también el correspondiente importe que el adquirente se obliga a pagar.
+
+Para efectos de información a esta Superintendencia, se utilizarán las cuentas de acreedores por préstamos de valores de las partidas 3110 ó 3115; de ajustes de esos pasivos de la partida 5900 ó 7910; y de comisiones pagadas de la partida 5530, mencionadas en el Anexo N° 2 de este Capítulo.
+
+11.2.- Entrega en préstamo de instrumentos.
+
+La institución prestamista dará de baja el instrumento cedido de su cartera de inversiones financieras, registrando el derecho contra la institución financiera prestataria por el valor de mercado del instrumento cedido. El importe registrado en inversiones financieras y su respectivo ajuste a valor de mercado, se solucionarán de la misma forma que una venta del instrumento efectuada al valor de mercado a la fecha de la operación.
+
+El derecho a la restitución o pago contra la institución financiera adquirente, se ajustará, con cargo o abono a los resultados, según corresponda, de la misma forma descrita en el numeral precedente para la obligación que en este caso aquella asume.
+
+No obstante lo anterior, cuando el documento cedido corresponda a uno de la "cartera permanente" y se haya pactado la restitución de un instrumento que se puede reingresar a esa cartera, el ajuste a valor de mercado, excluida la parte que corresponda a los reajustes e intereses que devengaría el instrumento cedido de no mediar la operación, podrá hacerse directamente contra una cuenta de patrimonio, tal como se hacía con el instrumento antes de su cesión.
+
+El ajuste a valor de mercado del derecho a la restitución o pago del documento entregado, debe efectuarse aun cuando éste corresponda a un instrumento que las normas de este Capítulo no obligan a ajustarlo a su valor de mercado debido a que su plazo remanente es igual o inferior a un año.
+
+Para reflejar los saldos por las operaciones de que se trata, se utilizará la cuenta de deudores por préstamos de valores de la partida 1690; de ajuste de ese activo de la partida 7910 ó 5900; y de comisiones ganadas de la partida 7530, mencionadas en el Anexo N° 2 de este Capítulo.
+
+### 12. Provisiones
 
 Las provisiones que se constituyan según lo señalado en el N° 6 de este Capítulo deberán registrarse en la forma prevista en el Capítulo 8-29 de esta Recopilación Actualizada de Normas.
 
-### 12. Sistemas de información y control
+### 13. Sistemas de información y control
 
 Para el tratamiento contable dispuesto en este Capítulo, se da por entendido que las instituciones financieras deben utilizar sistemas de información y control que permitan, a lo menos: la individualización de cada inversión o instrumento, la fecha y la tasa de compra, sus valores nominal, par, contable y de mercado al cierre de un mes y la situación en que se encuentran los respectivos documentos, esto es, si corresponden o no a la cartera permanente para efectos de su ajuste a valor de mercado, si se encuentran disponibles para la venta o si, por el contrario, están entregados en garantía, se encuentran enajenados al Banco Central de Chile con pacto de retroventa vigente o están intermediados (cedidos a terceros con pacto de recompra).
 
@@ -10424,157 +10486,137 @@ NOTA: Las cuentas para registrar los instrumentos cedidos con pacto de retrocomp
 
 > **Nota.** La letra C, de la Circular 2935, SBIF, promulgada, el 11.05.1998, elimina, en el presente Anexo, la cuenta "Inversiones no deducibles de encaje".
 
-ANEXO N° 2
+ANEXO N°2
 
-CUENTAS PARA LAS OPERACIONES CON PACTO
+CUENTAS PARA LAS OPERACIONES CON PACTO DE RETROCOMPRA Y PARA PRESTAMOS DE VALORES (VENTAS CORTAS)
 
-I.- VENTAS CON PACTO DE RETROCOMPRA
+A) CUENTAS DEL ACTIVO.
 
-A) PASIVO
+Para las compras con pacto: ANEXO CAPITULO 8 21 -21
 
-Código
+CUENTAS PARA LAS OPERACIONES CON PACTO DE RETROCOMPRA Y PARA PRESTAMOS DE VALORES (VENTAS CORTAS)
 
-3110 000 00 VENTA A INSTITUCIONES FINANCIERAS DE DOCUMENTOS CON PACTO DE RECOMPRA
+A) CUENTAS DEL ACTIVO.
 
-3110 101 00 Obligación de retrocompra pagarés Banco Central y Tesorería*
+Para las compras con pacto:
 
-3110 101 01 - Menos 30 días plazo
+1690 003 00 Créditos por operaciones con pacto.
 
-3110 101 02 - De 30 a 89 días plazo
+1695 003 00 Créditos por operaciones con pacto
 
-3110 101 03 - De 90 días a un año plazo
+Para los préstamos de documentos a otras instituciones financieras:
 
-3110 102 04 - Más de un año plazo
+1690 004 00 Deudores por préstamos de valores.
 
-3110 102 00 Obligación de retrocompra otras inversiones financieras.
-
-3110 102 01 - De 30 a 89 días plazo
-
-3110 102 02 - De 90 días a un año plazo
-
-3110 102 03 - Más de un año plazo
-
-3115 000 00 VENTA A TERCEROS DE DOCUMENTOS CON PACTO DE RECOMPRA
-
-3115 101 00 Obligación de recompra pagarés Banco Central y Tesorería*
-
-3115 101 01 - Menos 30 días plazo
-
-3115 101 02 - De 30 días a 89 días plazo
-
-3115 101 03 - De 90 días a un año plazo
-
-3115 101 04 - Más de un año plazo
-
-3115 102 00 Obligación de retrocompra otras inversiones financieras
-
-3115 102 01 - De 30 a 89 días plazo
-
-3115 102 02 - De 90 días a un año plazo
-
-3115 102 03 - Más de un año plazo
-
-* Las cuentas y subcuentas signadas con los códigos "3110 101" y "3115 101", incluyen también las obligaciones de retrocompra de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
-
-B) RESULTADOS
-
-a) Por los intereses.
-
-Código
-
-5145 000 00 OBLIGACIONES POR PACTOS DE RETROCOMPRA
-
-5145 001 00 Intereses pagados por ventas con pacto a Instituciones Financieras de pagarés del Banco Central y Tesorería
-
-5145 002 00 Intereses pagados por ventas con pacto a Instituciones Financieras de otras inversiones financieras
-
-5145 003 00 Intereses pagados por ventas con pacto a terceros de pagarés del Banco Central y Tesorería
-
-5145 004 00 Intereses pagados por ventas con pacto a terceros de otras inversiones financieras.
-
-b) Por los reajustes.
-
-5345 000 00 OBLIGACIONES POR PACTOS DE RETROCOMPRA.
-
-5345 001 00 Reajustes pagados por ventas con pacto a Instituciones Financieras de pagarés del Banco Central y Tesorería.
-
-5345 002 00 Reajustes pagados por ventas con pacto a Instituciones Financieras de otras inversiones financieras.
-
-5345 003 00 Reajustes pagados por ventas con pacto a terceros de pagarés del Banco Central y Tesorería.
-
-5345 004 00 Reajustes pagados por ventas con pacto a terceros de otras inversiones financieras.
-
-C) TITULOS CEDIDOS.
-
-1740 000 00 INVERSIONES FINANCIERAS INTERMEDIADAS.
+Para los títulos cedidos en als ventas con pacto:
 
 1740 101 00 Documentos con mercado secundario.
 
-1740 101 01 - Documentos del Banco Central de Chile.
+1740 102 00 Documentos sin mercado secundario.
 
-1740 101 02 - Pagarés Tesorería General de la República.
+Estas cuentas corresponden a las partidas 1690 "Créditos por intermediación de documentos con otras instituciones financieras", 1695 "Créditos por intermediación de documentos con terceros." y 1740 "Inversiones financieras intermediadas".
 
-1740 101 03 - Bonos otros Organismos Fiscales.
-
-1740 101 04 - Documentos emitidos por otras instituciones financieras del pais.
-
-1740 101 05 - Bonos o debentures.
-
-1740 101 99 - Otros documentos con mercado secundario.
-
-1740 102 00 - Documentos sin mercado secundario.
-
-II.- COMPRAS CON PACTO DE RETROCOMPRA
-
-A) ACTIVO.
+B) CUENTAS DEL PASIVO.
 
 Código
 
-1690 000 00 COMPRA DE DOCUMENTOS CON PACTO DE RETROCOMPRA A INSTITUCIONES FINANCIERAS.
+Para las ventas con pacto:
 
-1690 001 00 Operaciones hasta un año plazo.
+3110 103 00 Obligaciones de retrocompra - exentas de encaje.
 
-1690 002 00 Operaciones a más de un año plazo.
+3110 105 00 Obligaciones de retrocompra - afectas al encaje para operaciones a plazo.
 
-1695 000 00 COMPRA DE DOCUMENTOS CON PACTO DE RETROCOMPRA A TERCEROS.
+3115 103 00 Obligaciones de retrocompra - exentas de encaje.
 
-1695 001 00 Operaciones hasta un año plazo.
+3115 105 00 Obligaciones de retrocompra - afectas al encaje para operaciones a plazo.
 
-1695 002 00 Operaciones a más de un año plazo.
+Para los préstamos de valores:
 
-B)RESULTADOS.
+3110 106 00 Acreedores por préstamos de valores - exentas de encaje.
 
-a) Por los intereses:
+3110 107 00 Acreedores por préstamos de valores - afectas al encaje para operaciones a la vista.
+
+3110 108 00 Acreedores por préstamos de valores - afectas al encaje para operaciones a plazo.
+
+3115 106 00 Acreedores por préstamos de valores - exentas de encaje.
+
+3115 107 00 Acreedores de préstamos de valores - afectas al encaje para operaciones a la vista.
+
+3115 108 00 Acreedores por préstamos de valores - afectas al encaje para operaciones a plazo.
+
+Estas cuentas corresponden a las partidas 3110 "Obligaciones por intermediación de documentos con otras instituciones financieras" y 3115 "Obligaciones por intermediación de documentos con terceros".
+
+C) CUENTA DE PATRIMONIO.
+
+Para los ajustes de la cuenta deudores por préstamos de valores correspondientes a derechos sobre títulos de "cartera permanente":
 
 Código
 
-7145 000 00 OPERACIONES DE COMPRA CON PACTO DE RETROCOMPRA.
+4350 003 00 Ajuste de cuenta deudores por préstamos de valores.
+
+D) CUENTAS DE INGRESOS.
+
+Código
+
+Para los intereses y reajustes de las operaciones de compra con pacto:
 
 7145 001 00 Intereses ganados por compras con pacto a Instituciones Financieras.
 
-7145 002 00 Intereses ganados por compras con pacto a terceros.
-
-b) Por los reajustes:
-
-Código
-
-7345 000 00 OPERACIONES DE COMPRA CON PACTO DE RETROCOMPRA.
+7145 002 00 Intereses ganados por compras de pacto a terceros.
 
 7345 001 00 Reajustes ganados por compras con pacto a Instituciones Financieras.
 
 7345 002 00 Reajustes ganados por compras con pacto a terceros.
 
-C)TITULOS ADQUIRIDOS
+Para los ajustes de las cuentas por préstamos de valores
+
+7910 013 00 Ajuste de cuenta deudores por préstamos de valores.
+
+7910 014 00 Saldo acreedor por ajuste de cuentas acreedores por préstamos de valores.
+
+Para las comisiones ganadas por préstamos de valores.
+
+7530 029 00 Comisiones pagadas por préstamos de valores.
+
+Estas cuentas corresponden a las partidas 7145 "Operaciones de compra con pacto de retrocompra", 7345 "Operaciones de compra con pacto de retrocompra", 7530 "Otras comisiones" y 7910 "Otros ingresos de operación".
+
+E) CUENTAS DE GASTOS.
 
 Código
 
-9261 000 00 DOCUMENTOS ADQUIRIDOS y CEDIDOS CON PACTO.
+Para los intereses y reajustes de las obligaciones de retrocompra:
+
+5145 005 00 Intereses pagados por ventas con pacto a instituciones financieras.
+
+5145 006 00 Intereses pagados por ventas con pacto a terceros.
+
+5345 005 00 Reajustes pagados por ventas con pacto a instituciones financieras.
+
+5345 006 00 Reajustes pagados por ventas con pacto a terceros.
+
+Para los ajustes de las cuentas por préstamos de valores:
+
+5900 006 00 Ajuste de cuentas acreedores por préstamos de valores.
+
+5900 007 00 Saldo deudor por ajuste de cuenta deudores por préstamos de valores.
+
+Para las comisiones pagadas por préstamos de valores:
+
+5530 014 00 Comisiones ganadas por préstamos de valores.
+
+Estas cuentas corresponden a las partidas 5145 "Obligaciones por pactos de retrocompra", 5345 "Obligacioens por pactos de retrocompra", 5530 "Otras comisiones" y 5900 "Otros gastos de operación".
+
+F) CUENTAS DE ORDEN.
+
+Para los títulos adquiridos con pacto:
+
+Código
 
 9261 001 00 Documentos de inversiones financieras adquiridos con pacto.
 
 9261 002 00 Documentos de colocaciones adquiridos con pacto.
 
-9261 003 00 Documentos adquiridos y cedidos con pacto.
+Estas cuentas corresponden a la partida 9261 "Documentos adquiridos y cedidos con pacto.
 
 CAPITULO 8-23 (Bancos y Financieras)
 
@@ -12945,6 +12987,40 @@ ANEXO N°2
 Ajustes mínimos de tasación para operaciones de lease-back de bienes usados.
 
 .
+
+CAPITULO 8-40 (Bancos y Financieras)
+
+MATERIA:
+
+SECURITIZACION DE ACTIVOS.
+
+1.- Activos que se pueden securitizar.
+
+Los bancos y sociedades financieras sólo pueden vender a sociedades securitizadoras o a fondos de inversión de créditos securitizados, los activos de su cartera de colocaciones y de inversiones financieras que autoriza el Banco Central de Chile y que se indican en el Capítulo III.B.4 de su Compendio de Normas Financieras.
+
+Los documentos que se pueden vender son sólo aquellos que tengan pagos en cuotas, normalmente iguales y sucesivas, a lo menos una vez al año, salvo que se trate de los créditos comerciales o instrumentos emitidos por el Banco Central de Chile.
+
+2.- Deterioro del índice de riesgo de las colocaciones.
+
+De acuerdo con lo indicado en el Capítulo III.B.4 antes mencionado, solamente pueden efectuar una venta de créditos de su cartera de colocaciones que signifique un deterioro del índice de riesgo de ella, las instituciones financieras que, al momento de la operación, cuenten con un indicador de Basilea de al menos 10%, se encuentren clasificadas por esta Superintendencia en Categoría 1 según sus procesos de clasificación de cartera y no presenten pérdidas acumuladas en el ejercicio.
+
+Para ese efecto, se entenderá como índice de riesgo el porcentaje que representa el total de provisiones mantenidas para colocaciones con respecto al total de colocaciones. Por consiguiente, para determinar si existe un deterioro, ese porcentaje se comparará con el que así se obtiene luego de restar el monto de cartera que se vende y el monto de sus provisiones asociadas, del total de colocaciones y de sus correspondientes provisiones, respectivamente.
+
+No obstante lo anterior, en el total de colocaciones no se incluirán los créditos de la cartera comercial correspondientes a saldos de precio por la venta de bienes recibidos en pago o adjudicados ni las operaciones de leasing, excluyéndose también del total de provisiones las respectivas provisiones asociadas a esos créditos.
+
+La información que, de acuerdo con lo exigido en el N° 3 del Capítulo III.B.4 antes mencionado, deben entregar las instituciones que vendan cartera con un detrimento del índice de riesgo, se divulgará con sujeción a las instrucciones del Capítulo 18-10 de esta Recopilación.
+
+3.- Condiciones para la venta de activos.
+
+Los activos que vendan las instituciones financieras deberán ser de su propiedad; estar libres de todo tipo de gravámenes o prohibiciones y los títulos de crédito deben estar extendidos cumpliendo las exigencias legales y tributarias que correspondan.
+
+La venta de documentos se efectuará sin responsabilidad para los bancos o sociedades financieras cedentes, sin perjuicio de mantener su responsabilidad en calidad de emisores cuando sea el caso. La venta de contratos de leasing comprenderá la transferencia del dominio del bien objeto del respectivo contrato.
+
+La venta se efectuará por documentos completos y su pago deberá percibirse al contado.
+
+4.- Prohibición de recomprar los activos vendidos.
+
+En ningún caso podrán ser recomprados por la institución financiera, los activos correspondientes a su cartera de colocaciones que haya vendido a una sociedad securitizadora o fondo de inversión.
 
 CAPITULO 9-1 (Bancos y Financieras)
 
@@ -19486,39 +19562,23 @@ EMISION DE TITULOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS O NEGOCIADO
 
 1.- Autorización para emitir y colocar títulos en el exterior.
 
-Los bancos están facultados para emitir bonos expresados y pagaderos en moneda extranjera y bonos expresados en pesos o en Unidades de Fomento para ser colocados en el exterior, desembolsables y pagaderos en moneda extranjera, y certificados o pagarés en serie, al portador, correspondientes a depósitos en moneda extranjera recibidos de bancos y corresponsales del exterior, negociables sólo fuera de Chile, con sujeción a las normas contenidas en el Capítulo XIII del título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en este Capítulo.
+Los bancos están facultados para emitir bonos y certificados de depósito para ser colocados en el exterior, con sujeción a las normas contenidas en el Capítulo XIII del Título I del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile.
 
-Para realizar tales operaciones, las empresas bancarias que decidan emitir los valores antes mencionados, deben obtener, para cada emisión, la autorización del Banco Central de Chile.
+Las empresas bancarias que decidan emitir los valores antes mencionados, deben obtener, para cada emisión, la autorización del Banco Central de Chile. Dicha autorización se entiende otorgada cuando se trate de la emisión de certificados de depósito a un plazo promedio de hasta dos años.
 
-En el caso de bonos que se colocarán en el exterior, no resulta necesaria su inscripción en el Registro de Valores de esta Superintendencia.
+Para los bonos que se colocarán en el exterior no resulta necesaria su inscripción en el Registro de Valores de esta Superintendencia.
 
 2.- Requisitos para efectuar la emisión de títulos.
 
-Sin perjuicio de lo indicado precedentemente, para emitir los instrumentos pagaderos en moneda extranjera de que trata este Capítulo, las respectivas empresas bancarias deben tener una clasificación emitida por las empresas Fitch IBCA o Thomson BankWatch, no inferior a "A/B" en las categorías de "individual ratings" o "issuer ratmgs", respectivamente. Al tratarse de bonos subordinados, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BBB-" emitida por dos de las firmas clasificadoras señaladas en el Anexo N° 17 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
+Para emitir los instrumentos de que trata este Capítulo, a un plazo promedio igual o superior a cuatro años, las respectivas empresas bancarias deben tener una clasificación emitida por las empresas Fitch IBCA o Thomson BankWatch, no inferior a "B" en las categorías de "individual ratings" o "issuer ratings", respectivamente.
 
-3.- Características de los bonos.
+Cuando se trate de la emisión de bonos a un plazo igual o superior a dos años e inferior a cuatro años, tales instrumentos deberán contar con una clasificación mínima de "BB" emitida por alguna de las firmas clasificadoras señaladas en el Anexo N° 17 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
-Las emisiones de bonos que realicen las empresas bancarias, deben reunir las siguientes características:
+Por otra parte, al tratarse de la emisión de bonos subordinados, cuyo plazo promedio no podrá ser inferior a cinco años, los instrumentos de deuda de la institución emisora deberán contar con una clasificación mínima de "BB" emitida por una de las firmas clasificadoras señaladas en el Anexo N° 17 antes mencionado.
 
-a) Los bonos pueden ser emitidos a la orden, al portador o nominativos.
+3.- Instrucciones contables.
 
-b) El plazo promedio ponderado no podrá ser inferior a cuatro años, salvo que se trate de bonos subordinados, en cuyo caso no podrá ser inferior al plazo especial de cinco años que establece la Ley General de Bancos para ellos.
-
-c) Debe existir una institución financiera, constituida y domiciliada en el extranjero, de reconocido prestigio, que garantice la colocación del 100% de la emisión.
-
-4. - Características de los certificados v pagarés al portador emitidos por depósitos recibidos de bancos del exterior.
-
-Estos documentos deben reunir las siguientes características:
-
-a) Deben ser emitidos en serie y al portador.
-
-b) El plazo promedio ponderado de cada serie no podrá ser inferior a cuatro años.
-
-c) Pueden ser negociados sólo en el exterior.
-
-5.- Instrucciones contables.
-
-5.1.- Registro de las obligaciones.
+3.1.- Registro de las obligaciones.
 
 Los bonos se registrarán en la respectiva moneda extranjera de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las cuentas "Bonos colocados en el exterior", "Descuentos por colocación de bonos en el exterior" y "Primas por colocación de bonos en el exterior", de la partida 3075.
 
@@ -19526,15 +19586,15 @@ No obstante, si se trata de bonos subordinados se utilizarán las cuentas señal
 
 Por otra parte, los certificados o pagarés por depósitos de bancos del exterior, se registrarán en la respectiva moneda extranjera en la forma señalada en el Capítulo 2-7.
 
-5.2.- Liquidación de la moneda extranjera
+3.2.- Liquidación de la moneda extranjera.
 
 En el caso que se determine liquidar los recursos captados por la colocación de los bonos, se utilizarán las cuentas "Conversión bonos en circulación en el exterior", de la partida 2510, y "Cambio bonos en circulación en el exterior", de la partida 4510, las que quedan sujetas al tratamiento normal de cuentas de "conversión" y "cambio", debiendo reflejar la primera el monto de moneda extranjera que se mantiene liquidada y, la segunda, el contravalor en pesos que debe ajustarse mensualmente, según lo dispuesto en el Capítulo 13-30 de esta Recopilación.
 
-6.- Información que deberá enviarse a esta Superintendencia.
+4.- Información que deberá enviarse a esta Superintendencia.
 
-Las empresas bancarias que coloquen bonos en el exterior deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile, los antecedentes que resulten pertinentes a la emisión entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que corresponda.
+Las empresas bancarias que coloquen bonos en el exterior, deberán hacer llegar a este Organismo, una vez autorizada la emisión por el Banco Central de Chile en los casos en que ella sea requerida, los antecedentes que resulten pertinentes a la emisión entre aquellos que se indican en el N° 1 del título III del Capítulo 2-10 de esta Recopilación Actualizada de Normas de conformidad con las exigencias de la legislación del país en que ellos se coloquen, con la traducción correspondiente en los casos que corresponda.
 
-Junto con esos antecedentes, deberán enviar la constancia de autorización del Banco Central de Chile y la siguiente información cuando ella no aparezca en la escritura pública de emisión:
+Junto con esos antecedentes, deberán enviar la constancia de autorización del Banco Central de Chile cuando sea exigible, y la siguiente información cuando ella no aparezca en la escritura pública de emisión:
 
 a) País en el que se efectuará la colocación;
 
@@ -20136,40 +20196,6 @@ En todo caso, en los límites a que se refiere este numeral, se deben incluir la
 
 Las confirmaciones de cartas de crédito de exportación, entre la fecha en que estas se otorguen y la fecha de negociación de las respectivas cartas de crédito,no están afectas a los límites de crédito de que trata el artículo 84 de la Ley General de Bancos.
 
-CAPITULO 14-3 (Bancos)
-
-MATERIA:
-
-CREDITOS INTERNOS PARA EXPORTACIONES.
-
-1.- Créditos para financiar exportaciones.
-
-Las empresas bancadas pueden otorgar créditos en moneda extranjera para financiar exportaciones, de acuerdo con lo establecido en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-Dichos créditos pueden corresponder a préstamos documentados con pagaré o con letra de cambio.
-
-2.- Liquidación de los créditos.
-
-Los créditos internos para financiar exportaciones deben ser liquidados en el Mercado Cambiado Formal, a través de una empresa bancada, a más tardar el día hábil bancario siguiente al de su otorgamiento.
-
-El banco que liquide las divisas producto de tales créditos deberá obtener previamente instrucciones escritas del exportador.
-
-Por la liquidación de un crédito de exportación debe emitirse la correspondiente Planilla de Ingreso, de conformidad con las instrucciones del Banco Central de Chile.
-
-3.- Pago de los créditos.
-
-El pago de los créditos podrá efectuarse antes de su vencimiento si se realiza con la liquidación de divisas provenientes de retornos de exportación.
-
-El pago de los créditos por los cuales no se hayan efectuado embarques de mercaderías, podrá realizarse con divisas adquiridas en el mercado cambiado formal. En tal caso, deberá emitirse la correspondiente Planilla de Anulación de Ingreso, según las instrucciones del Banco Central de Chile.
-
-Las instituciones bancadas tienen acceso al Mercado Cambiado Formal de divisas para cubrir los intereses ganados sobre los créditos que otorguen en moneda extranjera destinados al financiamiento de exportaciones.
-
-4.- Normas contables.
-
-Las instituciones bancadas contabilizarán los préstamos de que trata este Capítulo en la cuenta "Préstamos para exportadores" de la partida 1130 ó 1225, según sea el plazo pactado.
-
-En dicha cuenta se registrará el importe correspondiente al capital, sea que se trate de préstamos en letras o con pagaré. Los respectivos intereses se registrarán también en moneda extranjera, de acuerdo con las instrucciones generales sobre la materia.
-
 CAPITULO 14-8 (Bancos)
 
 MATERIA:
@@ -20182,7 +20208,7 @@ De conformidad con lo dispuesto en el N° 11 del artículo 24 del Decreto Ley 3.
 
 En virtud de la disposición legal antes señalada, se establece que los documentos necesarios para cursar financiamientos de exportaciones, son los siguientes:
 
-a) Las letras de cambio y los pagarés con que se documenten los créditos internos que los bancos otorguen a los exportadores para financiar exportaciones, de conformidad con lo dispuesto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales, del Banco Central de Chile, y en el Capítulo 14-3 de esta Recopilación.
+a) Las letras de cambio y los pagarés con que se documenten los créditos internos que los bancos otorguen a los exportadores para financiar exportaciones, de conformidad con lo dispuesto en el Capítulo VI del Título II del Compendio de Normas de Cambios Internacionales.
 
 b) Los documentos de las operaciones señaladas en las letras b), c) y d) del N° 2 del título I del Capítulo 12-3 de esta Recopilación.
 
