@@ -1,0 +1,3 @@
+Por decreto MOP Nº398, de 26 de febrero de 1999, se expropió el lote de terreno Nº14-C, superficie 6.563 m2, rol de avalúo 102-79, comuna de San Pablo, para la obra Concesión Internacional Ruta 5, Tramo Río Bueno - Puerto Montt, Sector Río Bueno - San Pablo, Décima Región y se acordó el valor de indemnización con su propietario Raúl Cárdenas Heufemann, ascendente a la cantidad de $13.380.644.-.
+
+Fiscal del Ministerio de Obras Públicas.
