@@ -1,0 +1,3 @@
+Por decreto MOP Nº 846, de 31 de mayo de 2001, se expropiaron los lotes de terreno Nºs. 3 y 5, superficies 640 m2. y 237 m2., rol de avalúo 9317-84, comuna de Valparaíso, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Troncal Sur. Tramo 16, Quinta Región y se acordó el valor de indemnización con su propietario Proquimfor S.A., ascendente a la cantidad total de $10.235.221.-
+
+Fiscal del Ministerio de Obras Públicas.
