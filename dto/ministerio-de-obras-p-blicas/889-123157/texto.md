@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 889, de 30 de junio de 1998, se expropiaron los lotes terreno No. s. 1, 2 y 3, superficies 1.840, 1.463 y 691 m² respectivamente, rol de avalúo 124-72, comuna de Sagrada Familia, para la obra Camino Lontué-Villa Prat Rol K-16, Sector Pte. Hualemu y se acordó precio de la indemnización con su propietario Nelson Ramos Tapia, ascendente a la cantidad de $ 1.530.383.
+
+- Fiscal del Ministerio de Obras Públicas.
