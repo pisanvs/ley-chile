@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.741, de fecha 30 de diciembre de 2004, se expropió el lote de terreno Nº 76, superficie 882 m²., rol de avalúo Nº 606-430, comuna de Nueva Imperial, para la obra "Camino Reposición Ruta S-40, sector Nueva Inperial-Carahue Tramo Km. 0,00000 al Km. 21,58295, Subtramo II Km. 4,04000 al Km. 12,840000", IX Región y se acordó el valor de la indemnización con su propietario Esteban Millán Huenuqueo, ascendente a la cantidad de $926.569.
+
+Fiscal del Ministerio de Obras Públicas.
