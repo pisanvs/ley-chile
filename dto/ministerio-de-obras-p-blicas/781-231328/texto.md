@@ -1,0 +1,3 @@
+Por decreto MOP Nº 781 de fecha 31 de agosto del 2004, se expropió el lote de terreno Nº 253, superficie 2.905 M2, Rol Nº 61-85, comuna de Palmilla, VI Región para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 al Km. 26,00400", y se acordó el valor de indemnización con su propietario Sociedad Agrícola Santa Lucía Limitada, ascendente a la cantidad de $9.829.020.
+
+- Fiscal del Ministerio de Obras Públicas.
