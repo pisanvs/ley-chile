@@ -1,0 +1,11 @@
+Por Resolución N° 75, de 1 de Febrero de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don RENE LUCIANO VELIZ CARVAJAL, R.U.T. N°6.128.197-5, domiciliado en Santa Ester N° 550, Población Victoria, Coquimbo, IV Región, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta industrial, ubicada en Avenida Parque Fundición, Sitio N°8, Tongoy, IV Región, en donde podrá elaborar en las líneas de proceso que se indican los siguientes recursos hidrobiológicos: Congelado y fresco-enfriado; Albacora o pez espada, Agujilla, Anchoa o anchoveta, Anguila, Atún aleta amarilla, Atún aleta larga, Bacalao de profundidad, Blanquillo, Bonito, Caballa, Cabrilla española, Cachurreta, Cazón, Cojinoba del norte, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Dorado, Jurel, Lenguado de ojos chicos, Lenguado de ojos grandes, Lisa, Machuelo o tritre, Marrajo o tiburón, Merluza común, Mulata o vieja negra, Palometa, Pampanito, Pejegallo, Pejeperro, Pejerrey de mar, Pejesapo, Pejezorro, Raya, Róbalo, Rollizo, Salmón del atlántico, Salmón del pacífico, Salmón rey, Sardina común, Sardina, Sierra, Trucha arco iris, Tollo, Turbot, Vieja colorada, Almeja, Almeja o taca, Calamar, Caracol tegula, Caracol locate, Caracol trumulco, Caracol palo palo, Caracol rubio, Chitón, Chocha, Cholga, Chorito, Culengue, Choro, Huepo, Jibia, Lapa, Macha, Navajuela, Ostión del norte, Ostra del pacífico, Ostra chilena, Pulpo, Camarón de roca, Camarón nailon, Camarón de río del norte, Cangrejo, Gamba, Jaiba, Langostino amarillo, Picoroco, Erizo, Pepino de mar y Piure.
+
+La materia prima será adquirida a pescadores artesanales e industriales y de sus tres botes de 7 metros de eslora equipados para buceo semi-autónomo.
+
+Deberá adquirir los recursos Ostra del pacífico, Ostión del norte, Turbot, Salmón del atlántico, Salmón rey, Salmón del pacífico y Trucha arco iris, de centros de cultivo autorizados.
+
+El recurso pulpo deberá referirse a individuos mayores de 1 kilo de peso.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 1 de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
