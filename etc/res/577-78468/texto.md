@@ -1,0 +1,3 @@
+Por resolución No. 577, de 17 de Junio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deja sin efecto la Resolución No. 1347, de 1989, prorrogada por la Resolución No. 1455, de 1990, ambas de esta Subsecretaría, que autorizó a don SERGIO ROJAS MARIN, RUT No. 6.541.682-4, domiciliado en calle Urmeneta No. 801, Puerto Montt, X Región, para operar un establecimiento de cultivo en el Sector de Changue, Río Maullín, de la comuna de Maullín, provincia de Llanquihue, X Región por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 17 de Junio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
