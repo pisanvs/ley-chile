@@ -1,0 +1,3 @@
+Por Resolución No. 478, de 29 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente en virtud de lo dispuesto en el artículo 143 letra b), del DS 430 del Ministerio de Economía, Fomento y Reconstrucción, la Resolución No. 406, de 1988, de esta Subsecretaría, en lo relativo a la autorización otorgada a Empresa Pesquera Zona Central Limitada, R.U.T. No. 88.844.500-5, domiciliada en Santiago, para operar la nave "Alacrán II".
+
+Valparaíso, 29 de Mayo de 1992. Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
