@@ -5700,7 +5700,7 @@ La primera reunión de ambas cámaras debe incluir todos los documentos recibido
 
 La compensación de los importes en moneda nacional originados en operaciones efectuadas mediante cajeros automáticos en el país, se rige por las disposiciones del Capítulo III.H.3 del Compendio de Normas Financieras del Banco Central de Chile.
 
-Dicha compensación operará todos los días hábiles bancarios y considerará todas las transacciones de cargo de otras instituciones financieras realizadas hasta las 16 hrs.
+Dicha compensación operará todos los días hábiles bancarios y considerará todas las transacciones de cargo de otras instituciones financieras realizadas hasta las 14 hrs.
 
 3.- Cámara de compensación de operaciones interfinancieras en moneda nacional.
 
@@ -16383,34 +16383,6 @@ En concordancia con lo señalado en el N° 4 del título I de este Capítulo, la
 Para ese efecto se utilizará la cuenta "Provisiones voluntarias" de la partida 4245 para reflejar las provisiones mantenidas, y la cuenta de resultados "Provisiones voluntarias" de la partida 6611 para registrar los alimentos o disminuciones de tales provisiones.
 
 Además, para fines de información a esta Superintendencia, las instituciones financieras que mantengan provisiones voluntarias deberán incluir el importe computado como patrimonio efectivo en la cuenta "Provisiones voluntarias computadas como patrimonio efectivo", de la partida 9700.
-
-IV. - DISPOSICIONES TRANSITORIAS.
-
-1.- Plan de adecuación de capital.
-
-Las instituciones financieras que al 4 de noviembre de 1997, fecha de publicación de la Ley N° 19.528, no mantengan la proporción entre su capital básico y sus activos de a lo menos un 3% y entre su patrimonio efectivo y sus activos ponderados por riesgo de un 8%, deberán, conforme al artículo 1° transitorio de dicha ley, sujetarse a un plan de adecuación de capital aceptado por esta Superintendencia.
-
-Para este efecto, dichas instituciones deberán presentar a este Organismo una descripción acerca de la forma en que proyectan dar cumplimiento al mencionado plan, de modo que a más tardar al término del ejercicio del año 1999 queden encuadradas en los porcentajes que establece la ley.
-
-El cumplimiento de las disposiciones sobre capital básico y patrimonio efectivo mínimos, se cumplirá transitoriamente en relación con las proporciones establecidas en el plan de adecuación de capital, que haya sido aprobado por esta Superintendencia.
-
-2.- Déficit de capital mínimo.
-
-Conforme a lo establecido en el artículo 2° transitorio de la Ley N° 19.528, los bancos que, a la fecha de publicación de esta ley, mantengan un capital pagado y reservas inferior a 800.000 unidades de fomento, como asimismo las sociedades financieras cuyo capital pagado y reservas sea inferior a 400.000 unidades de fomento, tienen un plazo de tres años a contar de esa fecha para completar su capital mínimo, esto es, hasta el 4 de noviembre de 2000.
-
-3.- Reserva técnica.
-
-Las instituciones financieras que, a la fecha de publicación de la Ley N° 19.528, mantengan bonos subordinados computados como capital pagado y reservas de acuerdo con las normas legales vigentes hasta esa fecha, podrán seguir considerándolos como tales para el solo efecto de determinar la obligación de constituir la reserva técnica establecida en el artículo 65 de la Ley General de Bancos.
-
-Para este objeto y a lo más durante tres años a contar de la fecha de publicación de la Ley N° 19.528, se considerarán los saldos de los bonos en circulación que hayan sido colocados con anterioridad a la vigencia de esa ley, calculando la parte computable como capital según las normas vigentes al momento de su emisión. Esto no es óbice para aplicar la nueva modalidad de cálculo sobre estos mismos bonos, con el objeto de establecer el patrimonio efectivo, según lo indicado en el Capítulo 9-6 de esta Recopilación.
-
-El importe considerado como capital para el cumplimiento de las normas sobre reserva técnica, se seguirá incluyendo, para los fines de información a esta Superintendencia, en la cuenta "Bonos subordinados computados como capital", de la partida 9700.
-
-4.- Límites o márgenes establecidos por el Banco Central de Chile.
-
-Mientras el Banco Central de Chile no modifique sus instrucciones sobre los límites o márgenes que ha establecido con referencia al capital pagado y reservas, ellos se cumplirán considerando el importe del capital pagado y reservas calculado también en la forma que se indica en el N° 3 precedente.
-
-El cómputo de los bonos subordinados de que se trata se aplicará también, pero sólo hasta el 31 de diciembre del año 2 000, para determinar el límite de letras de crédito de propia emisión, referido al capital básico, tratado en el Capitulo 12-11 de esta Recopilación Actualizada de Normas.
 
 CAPITULO 12-3 (Bancos y Financieras)
 
