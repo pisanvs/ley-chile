@@ -1,0 +1,3 @@
+Por resolución Nº 729, de 25 de mayo de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución Nº 287, de 1980, de esta Subsecretaría, que autorizó a CONSERVAS CASTILLO LIMITADA, para instalar y operar el centro de cultivo ubicado en Laguna de Puerto Saavedra, en la desembocadura del Río Imperial, comuna de Saavedra, provincia de Cautín, IX Región, por haberse caducado la respectiva resolución de concesión de acuicultura.
+
+Valparaíso, 25 de mayo de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
