@@ -1,0 +1,3 @@
+Por resolución N° 234. de 6 abril, de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 564, de 1989, de esta Subsecretaría, que autorizó a PESQUERA ANGAMOS S.A., R.U.T. N° 94.053.000-8, hoy Pesquera Indo S.A., R.U.T. N° 92.484.000-5, para realizar actividades extractivas con la nave "Patache II", en el sentido de señalar que el actual nombre y matrícula de la nave que se autoriza en dicha Resolución es "Angamos 4" y su matrícula es 2553.
+
+Valparaíso, 6 abril 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
