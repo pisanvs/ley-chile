@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.243, de 29 de octubre de 1999, se expropiaron los lotes de terreno Nºs. 24-A y 24-B, superficies 300 y 344 m², rol de avalúo 341-162, comuna de La Ligua, para la obra Camino Ruta E-39, Sector Quinquimo-El Rayado y se acordó precio de indemnización con su propietaria Aracelli Edmee del Carmen Estrada Vargas, ascendente a la cantidad de $5.392.350.-
+
+Fiscal del Ministerio de Obras Públicas.
