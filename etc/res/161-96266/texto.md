@@ -1,0 +1,3 @@
+Por Resolución Nº 161 de 30 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución Nº 390, de 1990, de esta Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES DE LIRQUEN, para instalar y operar un centro de cultivo ubicado en Puerto Lirquén, Bahía de Concepción, comuna de Penco, provincia de Concepción, VIII Región, en virtud de la renuncia de su titular.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
