@@ -1,0 +1,5 @@
+PRORROGA PLAZO PARA REALIZAR PESCA EXPLORATORIA QUE INDICA
+
+Por resolución No. 155, de 19 de Febrero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga la autorización otorgada a Pesca Chile S.A., para desarrollar faenas de pesca exploratoria en el litoral de las Regiones XI y XII con sus barcos fábrica "Moraleda" y "Puerto Ballena", en los mismos términos en que se autorizó inicialmente a la solicitante. La prórroga se confiere por 6 meses a contar del 19 de febrero de 1988. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 19 de Febrero de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
