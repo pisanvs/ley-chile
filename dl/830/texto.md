@@ -420,11 +420,19 @@ La falta de publicación de los avisos indicados en los artículos anteriores o 
 
 #### Artículo 47
 
-El Ministro de Hacienda podrá facultar al Banco del Estado de Chile, a los bancos comerciales y a otras instituciones, para recibir de los contribuyentes el pago de cualquier impuesto que se haga dentro de los plazos legales o reglamentarios. Los pagos deberán comprender la totalidad de las cantidades incluídas en los respectivos boletines, giros u órdenes de ingreso. Si el impuesto debe legalmente enterarse por cuotas, el pago abarcará la totalidad de la cuota correspondiente.
+El Ministro de Hacienda podrá facultar al Banco del Estado de Chile, a los bancos comerciales y a otras instituciones, para recibir de los contribuyentes el pago de cualquier impuesto, contribución o gravamen en general, con sus correspondientes recargos legales, aun cuando se efectúe fuera de los plazos legales de vencimiento. Los pagos deberán comprender la totalidad de las cantidades incluidas en los respectivos boletines, giros, órdenes o declaraciones de impuesto presentadas por los contribuyentes. Si el impuesto debe legalmente enterarse por cuotas, el pago abarcará la totalidad de la cuota correspondiente.
 
 #### Artículo 48
 
 El pago hecho en la forma indicada en el artículo 47 extinguirá la obligación tributaria pertinente hasta el monto de la cantidad enterada, pero el recibo de ésta no acreditará por sí sólo que el contribuyente está al día en el cumplimiento de la obligación tributaria respectiva.
+
+Los recargos legales por concepto de reajustes, intereses y multas serán determinados y girados por el Servicio o por Tesorerías.
+
+No obstante, los contribuyentes podrán determinar dichos recargos para el efecto de enterarlos en arcas fiscales conjuntamente con el impuesto. El pago efectuado en esta forma cuando no extinga totalmente la obligación será considerado como un abono a la deuda, aplicándose lo establecido en el artículo 50.
+
+Las diferencias que por concepto de impuestos y recargos se determinen entre lo pagado y lo efectivamente adeudado, se pondrán en conocimiento del contribuyente mediante un giro especial que podrá ser emitido por Tesorerías. No regirá respecto de estos giros especiales la limitación contemplada en el inciso cuarto del artículo 37. Las fechas indicadas para el pago de dichos giros no constituirán en caso alguno un nuevo plazo o prórroga del etablecido para el pago de las deudas respectivas, ni suspenderán los procedimientos de apremio iniciados o los que corresponda iniciar.
+
+El Tesorero Regional o Provincial, en su caso, podrá de oficio o a petición del contribuyente, enmendar administrativamente cualquier error manifiesto de cálculo en que pudiera haberse incurrido en la emisión del giro especial referido en el inciso anterior.
 
 #### Artículo 49°
 
@@ -434,13 +442,9 @@ Los tres últimos recibos de pago de un determinado impuesto no hará presumir e
 
 #### Artículo 50
 
-Los contribuyentes podrán efectuar pagos parciales de impuestos en Tesorería, para abonar a boletines u órdenes de ingreso determinados, siempre que dichos pagos parciales sean superiores a un cinco por ciento de una unidad tributaria anual.
+En todos los casos los pagos realizados por los contribuyentes por cantidades inferiores a lo efectivamente adeudado, por concepto de impuestos y recargos se considerarán como abonos a la deuda, fraccionándose el impuesto o gravamen y liquidándose los reajustes, intereses y multas sobre la parte cancelada, procediéndose a su ingreso definitivo en arcas fiscales.
 
-Las Tesorerías fraccionarán los boletines adeudados de acuerdo a las sumas que el contribuyente desee cancelar y liquidarán los intereses, sanciones y multas sobre la parte cancelada, procediendo a su ingreso definitivo a rentas fiscales.
-
-Igualmente podrán hacerse pagos en Tesorería a cuenta de impuestos reclamados, aun cuando no se encuentren girados. Las Tesorerías abonarán estos valores en la cuenta respectiva de ingresos.
-
-Los pagos parciales efectuados en conformidad al presente artículo no acreditarán por sí solos que el contribuyente se encuentra al día en el cumplimiento de las obligaciones tributarias ni suspenderán los procedimientos de ejecución y apremio sobre el saldo insoluto de la deuda.
+Los pagos referidos en el inciso anterior, no acreditarán por sí solos que el contribuyente se encuentra al día en el cumplimiento de las obligaciones tributarias, ni suspenderán los procedimientos de ejecución y apremio sobre el saldo insoluto de la deuda.
 
 #### Artículo 51
 
@@ -472,7 +476,7 @@ Todo impuesto o contribución que no se pague dentro del plazo legal se reajusta
 
 Los impuestos pagados fuera de plazo, pero dentro del mismo mes calendario de su vencimiento, no serán objeto de reajuste. Sin embargo, para determinar el mes calendario de vencimiento, no se considerará la prórroga a que se refiere el inciso tercero del artículo 36 si el impuesto no se pagare oportunamente.
 
-El contribuyente estará afecto, además, a un interés penal del uno y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
+El contribuyente estará afecto, además, a un interés penal del dos y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
 
 El monto de los intereses así determinados, no estará afecto a ningún recargo.
 
@@ -575,6 +579,8 @@ La reclamación que se deduzca se sujetará al procedimiento general establecido
 #### Artículo 65
 
 En los casos a que se refiere el número 4° del artículo 97°, el Servicio tasará de oficio y para todos los efectos tributarios el monto de las ventas u operaciones gravadas sobre las cuales deberá pagarse el impuesto y las multas. Para estos efectos se presume que el monto de las ventas y demás operaciones gravadas no podrá ser inferior, en un período determinado, al monto de las compras efectuadas y de las existencias iniciales, descontándose las existencias en poder del contribuyente y agregando las utilidades fijadas por los organismos estatales, tratándose de precios controlados, o las que determine el Servicio, en los demás casos.
+
+Se presume que en el caso del aviso o detección de la pérdida o inutilización de los libros de contabilidad o documentos a que se refiere el inciso segundo del N° 16 del artículo 97, la base imponible de los impuestos de la Ley de la Renta será la que resulte de aplicar sobre el monto de las ventas anuales hasta el porcentaje máximo de utilidad tributaria que hayan obtenido las empresas análogas y similares. El porcentaje máximo aludido será determinado por el Servicio de Impuestos Internos, con los antecedentes de que disponga.
 
 ### Párrafo 2° — .
 
@@ -820,7 +826,7 @@ El retardo u omisión en la presentación de declaraciones que no impliquen la o
 
 3°.- La declaración incompleta o errónea, la omisión de balances o documentos anexos a la declaración o la presentación incompleta de éstos que puedan inducir a la liquidación de un impuesto inferior al que corresponda, a menos que el contribuyente pruebe haber empleado la debida diligencia, con multa del cinco por ciento al veinte por ciento de las diferencias de impuesto que resultaren.
 
-4°.- Las declaraciones maliciosamente incompletas o falsas que puedan inducir a la liquidación de un impuesto inferior al que corresponda o la omisión maliciosa en los libros de contabilidad de los asientos relativos a las mercaderías adquiridas, enajenadas o permutadas o a las demás operaciones gravadas, la adulteración de balances o inventarios o la presentación de éstos dolosamente falseados, el uso de boletas o facturas ya utilizadas en operaciones anteriores, o el empleo de otros procedimientos dolosos encaminados a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, con multa del cincuenta por ciento al trescientos por ciento del valor del tributo eludido y con presidio menor en sus grados medio a máximo.
+4°.- Las declaraciones maliciosamente incompletas o falsas que puedan inducir a la liquidación de un impuesto inferior al que corresponda o la omisión maliciosa en los libros de contabilidad de los asientos relativos a las mercaderías adquiridas, enajenadas o permutadas o a las demás operaciones gravadas, la adulteración de balances o inventarios o la presentación de éstos dolosamente falseados, el uso de boletas, notas de débito, notas de crédito o facturas ya utilizadas en operaciones anteriores, o el empleo de otros procedimientos dolosos encaminados a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, con multa del cincuenta por ciento al trescientos por ciento del valor del tributo eludido y con presidio menor en sus grados medio a máximo.
 
 Los contribuyentes afectos al Impuesto a las Ventas y Servicios u otros impuestos sujetos a retención o recargo, que realicen maliciosamente cualquiera maniobra tendiente a aumentar el verdadero monto de los créditos o imputaciones que tengan derecho a hacer valer, en relación con las cantidades que deban pagar, serán sancionados con la pena de presidio menor en su grado máximo a presidio mayor en su grado mínimo y con multa del cien por ciento al trescientos por ciento de lo defraudado.
 
@@ -838,7 +844,7 @@ Si, como medio para cometer los delitos previstos en los incisos anteriores, se 
 
 9°.- El ejercicio efectivamente clandestino del comercio o de la industria con multa del treinta por ciento de una unidad tributaria anual a cinco unidades tributarias anuales y con presidio o relegación menores en su grado medio y, además, con el comiso de los productos en instalaciones de fabricación y envases respectivos.
 
-10°.- El no otorgamiento de guías de despacho de facturas o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas o guías de despacho sin el timbre correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales.
+10°.- El no otorgamiento de guías de despacho de facturas, notas de débito, notas de crédito o boletas en los casos y en la forma exigidos por las leyes, el uso de boletas no autorizadas o de facturas, notas de débito, notas de crédito o guías de despacho sin el timbre correspondiente, el fraccionamiento del monto de las ventas o el de otras operaciones para eludir el otorgamiento de boletas, con multa de 5 veces el monto de la operación, con un mínimo de 5 unidades tributarias mensuales.
 
 En el caso de las infracciones señaladas en el inciso primero, éstas deberán ser, además, sancionadas con clausura de hasta 20 días de la oficina, estudio, establecimiento o sucursal en que hubiere cometido la infracción.
 
@@ -864,15 +870,19 @@ La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimie
 
 15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
 
-16°.- La pérdida o inutilización de los libros de contabilidad y documentación relacionada con las actividades afectas a cualquier impuesto, con multa del 10% al 40% del capital efectivo, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
+16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa del 10% al 40% del capital efectivo, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional y, además el contribuyente cumpla con los siguientes requisitos:
 
 a) Dar aviso al Servicio dentro de las 48 horas siguientes, y
 
 b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrá ser inferior a treinta días.
 
+Sin embargo, no se considerará fortuita, salvo prueba en contrario, la pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero, cuando se dé aviso de este hecho o se detecte con posterioridad a una citación, notificación o cualquier otro requerimiento del Servicio que diga relación con dichos libros y documentación.
+
 En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en el artículo 200°, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
 
 Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2°, N° 5 de la Ley de Impuesto a la Renta.
+
+En aquellos casos en que, debido a la imposibilidad de determinar el capital efectivo, no sea posible aplicar la sanción señalada en el inciso primero, se sancionará dicha pérdida o inutilización con una multa de hasta 20 unidades tributarias anuales.
 
 17°.- La movilización o traslado de bienes corporales muebles realizado en vehículos destinados al transporte de carga sin la correspondiente guía de despacho o factura, otorgadas en la forma exigida por las leyes, será sancionado con una multa del 10% al 200% de una unidad tributaria anual.
 
@@ -1230,6 +1240,8 @@ Salvo disposición en contrario del presente Código, no será necesario el pago
 
 Deducida una reclamación contra todo o parte de una liquidación o reliquidación, los impuestos y multas se girarán de conformidad a lo dispuesto en el artículo 24°.
 
+Los contribuyentes podrán efectuar pagos a cuentas de impuestos reclamados aun cuando no se encuentren girados. Las Tesorerías abonarán estos valores en la cuenta respectiva de ingresos, aplicándose lo señalado en el artículo 50 cuando proceda.
+
 El Director Regional podrá disponer la suspensión total o parcial del cobro judicial por un plazo determinado o hasta que se dicte sentencia de primera instancia, cuando se trate de aquella parte de los impuestos correspondientes a la reclamación que hubieren sido girados con anterioridad al reclamo.
 
 La facultad mencionada en el inciso anterior podrá ser ejercida por el Director Regional aunque no medie reclamación.
@@ -1374,7 +1386,7 @@ Igualmente, podrá hacerlo la Corte Suprema conociendo de los recursos de casaci
 
 7°.- No regirá el procedimiento de este Párrafo respecto de los intereses o de las sanciones pecuniarias aplicados por el Servicio y relacionados con hechos que inciden en una liquidación o reliquidación de impuestos ya notificada al contribuyente. En tales casos, deberá reclamarse de dichos intereses y sanciones conjuntamente con el impuesto, y de conformidad a lo dispuesto en el Título II de este Libro.
 
-8°.- El procedimiento establecido en este Párrafo no será tampoco aplicable al cobro que la Tesorería haga de intereses devengados en razón de la mora o atraso en el pago, y al efectuarse éste.
+8°.- El procedimiento establecido en este Párrafo no será tampoco aplicable al cobro que la Tesorería haga de intereses devengados en razón de la mora o atraso en el pago.
 
 9°.- En lo establecido por este artículo y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Título II de ese Libro.
 
@@ -1462,7 +1474,7 @@ Procedimientos especiales para la aplicación de ciertas multas
 
 Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7°, 10°, 11° y 17, 19°, del artículo 97, se someterán al procedimiento que a continuación se señala:
 
-1°- Las multas establecidas en los números 1°, 2° y 11°, del artículo 97, por atraso u omisión en declarar o por mora en el pago serán aplicadas por el Servicio o por la Tesorería según proceda, sin otro trámite que el de girarlas en el caso de atraso en la declaración o de cobrarlas conjuntamente con el impuesto cuando éste se entere en arcas fiscales.
+1°- Las multas establecidas en los números 1, 2 y 11 del artículo 97 serán determinadas por el Servicio, por Tesorerías o por los propios contribuyentes, y aplicadas sin otro trámite que el de ser giradas por el Servicio o Tesorerías o solucionadas por el contribuyente al momento de presentar la declaración o de efectuar el pago.
 
 2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
@@ -1622,7 +1634,7 @@ En el caso que la Tesorería Comunal o el Abogado Provincial no cumplan con las 
 
 #### Artículo 180
 
-El expediente y el escrito a que se refiere el artículo anterior se presentarán ante el Juez de Letras de Mayor Cuantía del departamento en que se encuentre la Tesorería que ordenó el requerimiento y embargo, cualquiera que sea el monto de lo adeudado.
+El expediente y el escrito a que se refiere el artículo anterior se presentarán ante el Juez de Letras de Mayor Cuantía del Departamento correspondiente al domicilio del demandado al momento de practicársele el requerimiento de pago.
 
 Será competente para conocer en segunda instancia de estos juicios, la Corte de Apelaciones a cuya jurisdicción pertenezca el Juzgado referido en el inciso anterior.
 
@@ -1662,7 +1674,9 @@ Los avisos a que se refiere el artículo 489 del Código de Procedimiento Civil,
 
 #### Artículo 186°
 
-En estos juicios asumirá la representación y patrocinio del Fisco y de las Municipalidades, el Abogado Provincial que corresponda, quien podrá designar, bajo su responsabilidad, procurador a alguno de los funcionarios de Tesorerías, aun cuando no reúnan los requisitos exigidos por la ley N° 4.409. No obstante el Fiscal de la Tesorería General podrá asumir la representación del Fisco y de las Municipalidades en cualquier momento.
+En todos los asuntos de carácter judicial que se produzcan o deriven del cobro, pago o extinción de obligaciones tributarias y créditos fiscales, asumirá la representación y patrocinio del Fisco, el Abogado Provincial que corresponda; no obstante, el Fiscal de la Tesorería General podrá asumir la representación del Fisco en cualquier momento. Lo anterior, sin perjuicio de las atribuciones que sobre estas materias le competan a otros organismos del Estado.
+
+El Abogado Provincial podrá designar, bajo su responsabilidad, procurador a alguno de los funcionarios de Tesorerías.
 
 Ni el Fiscal de la Tesorería General ni los Abogados Provinciales estarán obligados a concurrir al Tribunal para absolver posiciones y deberán prestar sus declaraciones por escrito en conformidad a lo dispuesto por el artículo 362 del Código de Procedimiento Civil.
 
