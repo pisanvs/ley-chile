@@ -1,0 +1,3 @@
+Por Resolución N° 1.346 de 30 de Diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjanse sin efecto las Resoluciones N° 75 y N° 1.122, ambas de 1991, de esta Subsecretaría, que autorizaron a MARITIMA CAVANCHA S.A. R.U.T. N° 96.556.430-6, para operar la naves "Pablo II" y "Pablo III", por extinción del derecho de su titular.
+
+Valparaíso, 30 de Diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
