@@ -1,0 +1,5 @@
+Por resolución No. 1.325, de 15 de Octubre de 1991, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a don Alfonso Duhalde Sotomayor, RUT No. 2.175.033-7, domiciliado en calle Esmeralda No. 1167, Iquique, para ampliar actividades pesqueras autorizadas por Resoluciones No. 104, de 1985 y No. 292, de 1989, ambas de esta Subsecretaría, en orden a operar la embarcación "Pincoyita II", autorizada para realizar actividades extractivas por las Resoluciones citadas en el numeral precedente, además en el litoral de las Regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) En la IX y X Región, con trampas: Jaiba, Jaiba mola, Jaiba peluda y Jaiba mora; b) En la IX y X Región, con espinel: Bacalao de profundidad o mero.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 15 de Octubre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
