@@ -1,0 +1,5 @@
+﻿ Santiago, Octubre 21 de 1822. -
+
+Se aprueba el juzgamiento de la alta policía de 11 de Octubre corrieinte: i se declara a Pablo Barrosa, Francisco Escobar i Antonio Pelliza, residentes en la Villa de Vallenar, libre de la clase de prisioneros en premio de la fidelidad que acreditaron delatando i descubriendo el plan subversivo de don Antonio Cantuarias: pueden en consecuencia de esta gracia regresar a su pais o domiciliarse en Chile; pero en este caso harán juramento de fidelidad a la nacion chilena, abjurando el vasallaje de la dominacion española i de toda otra estranjera. Establecidos así en Chile, su buena comportacion sucesiva los hará acreedores a otras gracias con que el Gobierno sabe remunerar el mérito.
+
+Comuníquese esta resolucion al Ministerio de la Guerra para su cumplimiento insertándose en la Gaceta Ministerial con el auto del juzgado de la alta policía, devolviéndose el proceso para su ejecucion. - O'Higgins. - Echeverría.
