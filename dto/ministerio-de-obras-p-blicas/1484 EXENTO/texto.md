@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.484, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº107, superficie 285 m², Rol de Avalúo Nº 516-131, comuna de Río Bueno, X Región, para la obra ''Camino Río Bueno - Crucero, Rol T-90-U y T-933, Km. 0,000 al 20,900 (II Parte)'' y se acordó el valor de indemnización con su propietario doña Rosa Amelia Oyarzún Angulo, ascendente a la cantidad de $516.970.
+
+- Fiscal del Ministerio de Obras Públicas.
