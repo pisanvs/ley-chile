@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE PARTE DEL INMUEBLE QUE SEÑALA
+
+Resolución Nº 60 de fecha 26 de mayo de 1997, ordenó expropiar parte del inmueble ubicado en San Pedro Nolasco, Sector Amortajado, comuna de Maullín Provincia de Llanquihue, X Región, de conformidad a lo dispuesto en el art. 51 de la Ley 16.391 y D.L. Nº 2.186 para destinarlo a la construcción de Viviendas Sociales, de aparente dominio de doña Nelly del Carmen Gallardo Gómez, de una superficie aproximada de 3,111 Hás. Indemnización provisoria de $9.330.000.- determinada por Comisión Tasadora integrada por Carlos Mera Santibáñez y Daniel Cisternas Espinoza, Constructores Civiles y Leopoldo Schumacher Guarda, Ingeniero Civil, según Informe de 25 de noviembre de 1996. Indemnización se pagará de contado, según art. 16 inc. final D.L.Nº 2.186.-
+
+23 de Julio de 1997. Verónica Zúñiga Coronado, Ministro de Fe, SERVIU Décima Región.
