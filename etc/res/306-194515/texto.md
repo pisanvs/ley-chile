@@ -1,0 +1,3 @@
+Por resolución Nº 306, de 5 de febrero de 2002, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 330 de 1982 y Nº 460 de 1987, ambas de esta Subsecretaría, que autorizaron a MARIA BAYCIC BAYCIC, para operar la nave "Don Mario", sólo en lo relativo al recurso Merluza común Merluccius gayi, en el litoral comprendido entre la IV a IX Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de febrero de 2002.- Edith Saa Collantes, Subsecretario de Pesca (S).
