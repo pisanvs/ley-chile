@@ -1,0 +1,15 @@
+Ereccion de una pirámide conmemorativa de la batalla de Maipú.-Honores a los que tomaron parte en ella.
+
+Santiago, 10 de Mayo de 1818.
+
+Penetrado el Gobierno de la gratitud universal que abriga la Nacion hácia sus heróicos defensores i deseoso de exhibir un testimonio que uniformándose a aquellos sentimientos, trasmita a la posteridad la memoria ilustre de los que, superiores a los contrastes i vicisitudes de la guerra cuando parecia undirse la Patria en su irrevocable recolonizacion, fijaron sus altos destinos en la inmortal jornada de Maipú; ha creido conveniente decretar:
+
+Que en lo mas descubierto de la loma, teatro principal de la batalla i de nuestros triunfos, se erija una pirámide cuadrangular de treinta piés de elevacion, cuyo pedestal revestido de cuatro láminas de bronce correspondiente a cada uno de sus lados presentará estas inscripciones:
+
+En la lámina de Oriente se leerán entre laureles los nombres del Excmo. Jeneral en Jefe San Martin, i de los Oficiales generales, que mandaron la accion. Una fama coronará el todo i de su clarin saldrá este mote: Gloria inmortal a los Héroes de Maipú vencedores de los vencedores de Bailen. En la del Sur se verán los nombres y destinos de los Jefes de division de derecha a izquierda, reserva i caballería. En la del Norte los de todos los comandantes efectivos, que en la batalla comandaron cuerpos con indicacion de sus empleos. I en la del Oeste se hallará escrito: Precipitándose la Nacion por las visicitudes de la Guerra en su infame, antigua servidumbre; la firmeza, el valor de los Ejércitos de Chile i los Ándes solidaron su Independencia esterminando con fuerzas inferiores al ejército invasor del rei de España, compuesto de cinco mil quinientos hombres, en la batalla memorable dada en estas llanuras el 5 de Abril de 1818 año 9 de la Libertad. Viéndose en la parte inferior de la misma lámina el Pabellon Nacional enarbolado i a su pié en actitud de rendidas las seis banderas coronelas i los tres estandartes tomados al enemigo.
+
+I queriendo asimismo que individualmente reciba el ejército una insignia de su heroicidad i del justo reconocimiento de la Patria, he acordado se distribuya a todos los Jefes i Oficiales, que precisamente se hallaron en la accion, una medalla de oro para los primeros, i de plata para los segundos, en cuyo anverso resalte la estrella de las armas del Estado, orlada de una corona de laurel, i a su contorno esta inscripcion: Chile reconocido al valor i constancia; i en el reverso en líneas paralelas: De los vencedores de Maipú Abril 5 de 1818, ceñido de la misma orla. El todo pendiente de un lazo que tomará una cinta encarnada prendida del ojal de le casaca.
+
+Los Sarjentos, cabos i soldados llevarán sobre el brazo izquierdo un escudo que esprese: La Patria a los vencedores de Maipú Abril 5 1818. Con la diferencia que para la primera clase será de paño encarnado con letras bordadas de plata i para la segunda i tercera, paño azul, con sobre-bordado de seda color oro; ambas insignias orladas con ramos de laurel.
+
+O'Higgins.-Zenteno, Secretario.
