@@ -114,6 +114,8 @@ MATERIA:
 
 12.- Designación de funcionarios alumnos de su dependencia para hacer cursos de perfeccionamiento y asistir a Seminarios.
 
+13.- Declaración de Material Didáctico auxiliar, complementario y/o de consulta para la educación chilena.
+
 DIRECTORES DE EDUCACION
 
 MATERIA
