@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 223, de 24 de septiembre de 1991, se expropió el lote No. 4, superficie 2.838 M2, rol de avalúo 292-2 Comuna de Penco, para la ejecución de la obra Ampliación y Reposición Ruta 150, Concepción Lirquén, sector Penco Lirquén y se acordó precio de indemnización con sus propietarias Brunilda y Edita del Carmen Parra Veloso, ascendente a la suma de $ 4.551.248.-
+
+Fiscal del Ministerio de Obras Públicas.
