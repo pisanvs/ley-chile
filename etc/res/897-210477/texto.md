@@ -1,0 +1,3 @@
+Por resolución Nº 897, de 30 de abril de 2003, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA AQUAPURO S.A. para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 1.154 de 1994 y Nº 2.248 de 2002, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en Industriales Nº 665, Huechuraba, Santiago, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Enfriado, Fresco-Refrigerado y Congelado: Corvina y Turbot.
+
+Valparaíso, 30 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
