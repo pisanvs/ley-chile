@@ -1,0 +1,5 @@
+Por decreto MOP Nº 2.196, de 09 de diciembre de 2002, se rectificó el decreto MOP Nº 2133 de 28 de diciembre de 2001, que ordenó la expropiación del lote de terreno Nº 61 para la obra: "Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Acceso a El Tabo. Km. 1.560,00 al Km.
+
+2.400,00", Quinta Región, que figura a nombre de Lotito Scarigngella Francisco, rol de avalúo 670-8, comuna de El Tabo. En el siguiente sentido: Que la obra se encuentra ubicada entre el Km. 1.560,00 al Km. 2.400,00; Que la superficie del lote es 1.214 m2; y que La comisión de peritos integrada por los señores Luis Pablo Padilla Vergara, Norman Estanislao Calderón Pontiggia y Paula Carolina Salas Sepúlveda, fijó con fecha 30 de septiembre de 2002, el valor provisional de la indemnización en la cantidad de $10.471.474.- y no como en el se indica. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
