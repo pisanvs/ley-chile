@@ -1,0 +1,3 @@
+Por Resolución Nº 722, de 26 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 91000205, presentada por JOSE MARTINEZ SILVA, para la concesión de acuicultura ubicada en la localidad de Nal, Comuna de Ancud, X Región, conforme lo dispuesto en el Artículo 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción
+
+Valparaíso, 26 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
