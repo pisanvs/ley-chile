@@ -7426,6 +7426,10 @@ e) Prima de seguro de desgravamen.
 
 f) Prima de seguro por cesantía involuntaria, en caso que el deudor de crédito para vivienda decida contratar este seguro.
 
+g) Gastos de primera tasación del inmueble hipotecado.
+
+h) Estudio de títulos y redacción de escritura.
+
 En caso de que el deudor no efectúe el pago oportuno de las primas para renovarlos seguros de incendio, de desgravamen y de cesantía involuntaria, podrá el acreedor realizar dichos pagos por cuenta de éste. Esta facultad se extiende al pago de las contribuciones territoriales, en caso de que éstas presenten atrasos.
 
 ### 11. Préstamos a personas relacionadas a la propiedad o gestión del acreedor
