@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 191 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 17-D, superficie 153 m2., Rol de Avalúo Nº 3250-66, comuna de Puerto Montt, para la obra "Camino Ruta 7 Chamiza Quillaipe, Km. 4,83687 a Km. 15,84700, provincia de Llanquihue", X Región y se acordó el valor de indemnización con su propietaria Ida Montecino Olave, ascendente a la cantidad de $579.630.
+
+- Fiscal del Ministerio de Obras Públicas.
