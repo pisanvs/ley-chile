@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.686, de 31 de octubre de 2001, se ordenó y aprobó el plano y cuadro de expropiación del lote de terreno Nº 24, y por decreto MOP exento Nº 1.910, de 6 de diciembre de 2001, se autorizó el valor de la consignación provisional de la expropiación por la vía judicial, en la cantidad de $2.192.135.- necesario para la ejecución de la obra "Diseño Definitivo Regadío Faja Maisán, Expropiaciones Red Primaria 1/5, Derivado Comuy, Sector Km. 0.000 al Km. 6.120,36; el pago de la indemnización se efectuará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
