@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.049, de fecha 29 de septiembre de 2003, se expropió el lote de terreno Nº181, superficie 112 m², rol de Avalúo Nº32-678, comuna de Pichidegua, para la obra "Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietaria Juana Rosa Carvacho Díaz, ascendente ala cantidad de $617.872.
+
+Fiscal del Ministerio de obras Públicas.
