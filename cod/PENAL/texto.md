@@ -1316,7 +1316,7 @@ En los casos de retardo doloso en el envío o entrega de la correspondencia epis
 
 Todo empleado público que sin un decreto de autoridad competente, deducido de la ley que autoriza la exacción de una contribución o de un servicio personal, los exigiere bajo cualquier pretexto, será penado con inhabilitación especial temporal para el empleo en cualquiera de sus grados y multa de once a veinte sueldos vitales.
 
-Si la exacción de la contribución se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como reo de estafa.
+Si la exacción de la contribución se hiciere con ánimo de lucrarse, el empleado culpable será considerado penado como procesados por estafa.
 
 #### Artículo 158
 
@@ -1396,7 +1396,7 @@ Cuando no exceda de esta suma, estimándose el hecho mera falta, se penará como
 
 #### Artículo 171
 
-Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos y conocerlos a la simple vista, los que fabricaren, cercenaren, expendieren, introdujeren o circularen la moneda así falsificada o cercenada, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Si la falsificación o cercenamiento fueren tan ostensibles que cualquiera pueda notarlos y conocerlos a la simple vista, los que fabricaren, cercenaren, expendieren, introdujeren o circularen la moneda así falsificada o cercenada, se reputarán procesados por engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 II. De la falsificación de documentos de crédito del Estado, de las Municipalidades, de los establecimientos públicos, sociedades anónimas o bancos de emisión legalmente autorizados
 
@@ -1456,7 +1456,7 @@ Las penas serán presidio menor en su grado mínimo multa de seis a diez sueldos
 
 #### Artículo 184
 
-Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, se reputarán reos de engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
+Cuando la falsificación fuere tan mal ejecutada que cualquiera pueda notarla y conocerla a la simple vista, los que la hubieren efectuado y los que expendieren o introdujeren el papel sellado o las estampillas así falsificados, se reputarán procesados por engaño y serán castigados por este delito con las penas que se establecen en el título respectivo.
 
 #### Artículo 185
 
@@ -1608,7 +1608,7 @@ La acusación o denuncia que hubiere sido declarada calumniosa por sentencia eje
 
 #### Artículo 212
 
-El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como reo de falso testimonio.
+El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado como procesados por falso testimonio.
 
 ### VIII. Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres
 
@@ -1722,7 +1722,7 @@ En estos casos el tribunal, suspendiendo el cumplimiento de la orden, representa
 
 Se aplicarán respectivamente las penas determinadas en los artículos precedentes:
 
-1.° A las personas que, desempeñando por ministerio de la ley los cargos de miembros de los tribunales de justicia colegiados o unipersonales, se hicieren reos de alguno de los crímenes o simples delitos enumerados en dichos artículos.
+1.° A las personas que, desempeñando por ministerio de la ley los cargos de miembros de los tribunales de justicia colegiados o unipersonales, fueren procesados por alguno de los crímenes o simples delitos enumerados en dichos artículos.
 
 2.º A los subdelegados e inspectores que incurrieren en iguales infracciones.
 
@@ -2586,7 +2586,7 @@ El rapto de una doncella menor de veinte y mayor de doce años, ejecutado con su
 
 #### Artículo 360
 
-Los reos de delito de rapto que no dieren razón del paradero de la persona robada, o explicaciones satisfactorias sobre su muerte o desaparición, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
+Los procesados por delito de rapto que no dieren razón del paradero de la persona robada, o explicaciones satisfactorias sobre su muerte o desaparición, incurrirán en la pena de presidio mayor en cualquiera de sus grados.
 
 ### V. De la violación
 
@@ -2620,7 +2620,7 @@ En igual pena incurrirá el que, conociendo las relaciones que lo ligan, cometie
 
 #### Artículo 365
 
-El que se hiciere reo del delito de sodomía sufrirá la pena de presidio menor en su grado medio.
+El procesados por delito de sodomía sufrirá la pena de presidio menor en su grado medio.
 
 Se impondrá la pena de presidio menor en su grado máximo a presidio mayor en su grado medio al que cometiere el delito concurriendo algunas de las siguientes circunstancias:
 
@@ -2658,7 +2658,7 @@ No produce estos efectos la proposición de matrimonio desechada por la ofendida
 
 #### Artículo 370
 
-Los reos de violación, estupro o rapto serán también condenados por vía de indemnización:
+Los procesados por violación, estupro o rapto serán también condenados por vía de indemnización:
 
 1.° A dotar a la ofendida si fuere soltera o viuda.
 
@@ -2672,7 +2672,7 @@ Los maestros o encargados en cualquier manera de la educación o dirección de l
 
 #### Artículo 372
 
-Los comprendidos en el artículo precedente y cualesquiera otros reos de corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
+Los comprendidos en el artículo precedente y cualesquiera otros procesados por corrupción de menores con interés de terceros, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad por el tiempo que el tribunal determine.
 
 #### Artículo 372 bis
 
@@ -2834,7 +2834,7 @@ En los casos de mutilaciones de miembros menos importantes, como un dedo o una o
 
 #### Artículo 397
 
-El que hiriere, golpeare o maltratare de obra a otro, será castigado como reo de lesiones graves:
+El que hiriere, golpeare o maltratare de obra a otro, será castigado como procesados por lesiones graves:
 
 1.° Con la pena de presidio mayor en su grado mínimo, si de resultas de las lesiones queda el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
@@ -3148,7 +3148,7 @@ El que fabricare, expendiere o tuviere en su poder llaves falsas, ganzúas u otr
 
 #### Artículo 446
 
-Los reos de hurto serán castigados:
+Los procesados por hurto serán castigados:
 
 1.o Con presidio menor en sus grados medio a máximo, si el valor de la cosa hurtada excediere de cuarenta sueldos vitales;
 
@@ -3172,9 +3172,9 @@ En los casos del artículo anterior podrá aplicarse la pena inmediatamente supe
 
 #### Artículo 448
 
-El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de medio sueldo vital, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado reo de hurto y castigado con presidio menor en su grado mínimo.
+El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de medio sueldo vital, no la entregare a la autoridad o a su dueño, siempre que le conste quién sea éste, por hechos coexistentes posteriores al hallazgo, será considerado procesado por hurto y castigado con presidio menor en su grado mínimo.
 
-También será considerado reo de hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
+También será considerado procesado por hurto y castigado con presidio menor en su grado mínimo, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, y no las entregare a los dueños o a la autoridad en su defecto.
 
 ### V. Disposiciones comunes a los tres párrafos anteriores
 
@@ -3282,7 +3282,7 @@ Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren 
 
 #### Artículo 461
 
-Serán castigados como reos de usurpación de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
+Serán castigados como procesados por usurpación de aguas con las penas del art. 459, los que teniendo derecho para sacarlas o usarlas se hubieren servido fraudulentamente, con tal fin, de orificios, conductos, marcos, compuertas o esclusas de una forma diversa a la establecida o de una capacidad superior a la medida a que tienen derecho.
 
 #### Artículo 462
 
@@ -3482,7 +3482,7 @@ La multa impuesta se mantendrá en una cuenta especial a la orden de la Superint
 
 #### Artículo 484
 
-Son reos de daño y están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
+Son procesados por daño y están sujetos a las penas de este párrafo, los que en la propiedad ajena causaren alguno que no se halle comprendido en el párrafo anterior.
 
 #### Artículo 485
 
