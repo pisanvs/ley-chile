@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº382, de 28 de marzo del 2002, se expropió el lote de terreno Nº204-1, superficie 720 m2, rol de avalúo 179-20, comuna de Nogales, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos Sector Kms. 123.580,00 al 126.400,00, Quinta Región y se acordó el valor de indemnización con su propietario Nelson Alejandro Saavedra Rojas y otros, ascendente a la cantidad de $2.415.800.- para el lote Nº204-1.-
+
+Fiscal del Ministerio de Obras Públicas.
