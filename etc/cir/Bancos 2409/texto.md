@@ -18840,7 +18840,9 @@ a) Fondos disponibles, excepto las partidas 1015 y 1020.
 
 b) Colocaciones, con excepción de las colocaciones contingentes, de las colocaciones en letras de crédito (partidas 1245, 1305, 1310, 1315 y 1410) y de las cuentas Deudores por Cartas de Crédito Negociadas y Créditos para Importación, de las partidas 1125 y 1220.
 
-c) Inversiones financieras.
+c) Operaciones con pacto de retrocompra.
+
+d) Inversiones financieras.
 
 CAPITULO 12-8 (Bancos y Financieras)
 
