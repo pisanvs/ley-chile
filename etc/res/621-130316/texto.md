@@ -1,0 +1,7 @@
+AUTORIZA A PESQUERA VERDEMAR LIMITADA PARA AMPLIAR ACTIVIDADES. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 621 de 24.06.88de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, que autoriza a Pesquera Verdemar Limitada, domiciliada en Talcahuano, para ampliar actividades pesqueras autorizadas por Resolución No. 424, de 1988, de esta Subsecretaría, en orden a operar la embarcación "Stroendey", en el litoral de las Regiones V a X, donde podrá extraer los siguientes recursos hidrobiológicos: Agujilla, atún aleta larga, bonito, cabinza, cojinoba del Sur y Machuelo. Además, la peticionaria podrá capturar con la citada nave, en el litoral de las Regiones V a VII y IX a X, los siguientes recursos hidrobiológicos: Anchoveta, caballa, jurel, sardina española y sardina común. Deniégase la autorización solicitada para operas en pesca pelágica con la embarcación citada en el litoral de la VIII Región, de conformidad con lo establecido en el Decreto No. 438, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Junio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
