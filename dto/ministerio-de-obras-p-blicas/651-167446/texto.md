@@ -1,0 +1,3 @@
+Por decreto MOP Nº 651, de 29 de febrero de 2000, se expropiaron los lotes de terreno Nº 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 y 12, superficies 1.188 m², 204 m², 409 m², 17.716 m², 350 m², 51.195 m², 49 m², 7.648 m², 3.370 m², 11.915 m², 592 m² y 22.790 m², roles de avalúo 1019-13 y 1019-14, comuna de Puerto Natales, Obra Reposición Ruta 9 Punta Arenas Puerto Natales, sector Cordón Arauco y se acordó precio de indemnización con sus propietarios Walter Segundo Emmott Ronfeltd y Carlos Segovia Sepúlveda, ascendente a las cantidades de $5.926.595, para los lotes Nºs. 1, 3, 5, 7, 10 y 12 y $9.346.585, para los lotes Nºs. 2, 4, 6, 8, 9 y 11.
+
+Fiscal del Ministerio de Obras Públicas.
