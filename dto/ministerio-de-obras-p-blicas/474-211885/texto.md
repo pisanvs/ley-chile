@@ -1,0 +1,3 @@
+Por decreto MOP Nº 474, de 23 de mayo de 2003, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto MOP Nº 3470, de 31 de julio de 2000, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 69. Consígnese judicialmente el monto de la indemnización de lote Nº 69, fijada por la Comisión de Peritos, con fecha 31 de marzo de 1997, ascendente a la cantidad de $108.500.
+
+Fiscal del Ministerio de Obras Públicas.
