@@ -1,0 +1,3 @@
+Por Resolución Nº 390, de 14 de marzo de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 94103159, presentada por SALMONES UNIMARC S.A., para un centro de cultivo ubicado entre Punta Aguantao y Estero Rilán, Comuna de Castro, Provincia de Chiloé, X Región, en virtud de lo dispuesto en los artículos 78º y 87º de la Ley General de Pesca y Acuicultura y sus modificaciones.
+
+Valparaíso, 14 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
