@@ -1,0 +1,7 @@
+Por resolución Nº429 de 14 de Mayo de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA UNIFISH S.A., R.U.T.
+
+Nº96.530.690-0, domiciliada en la ciudad de Santiago, en Avenida 11 de Septiembre Nº2665, Providencia, para ampliar actividades pesqueras, que tiene autorizada por resoluciones Nº910 de 1988 y Nº416 de 1990, ambas de esta Subsecretaría, en orden a elaborar en las líneas de procesamientos que se indican, en la planta industrial ubicada en calle Colón 2276, Talcahuano, VIII Región, autorizada por las resoluciones individualizadas precedentemente, los siguientes recursos hidrobiológicos: conservas, Navaja, Culenque. Congelado y fresco refrigerado, Agujilla, Anchoa o anchoveta, Bacalao de profundidad, Chancharro, Congrio colorado, Congrio dorado, Congrio negro, Jurel, Merluza común, Raya, Salmón, Sardina, Trucha arco iris, Langostino colorado. Deniégase la autorización para elaborar el recurso hidrobiológico denominado loco, en virtud de lo prescrito en los D.S. Nº614 de 1991, respectivamente.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 14 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca subrogante.
