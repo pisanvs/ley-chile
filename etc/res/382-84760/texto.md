@@ -1,0 +1,3 @@
+Por resolución No. 382 de 28 de febrero de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la Resolución No. 935, de 1989 de esta Subsecretaría de Pesca, por la cual se autorizó a EXOSUR S.A., RUT No. 96.539.360-9, domiciliada en Santiago, para iniciar actividades pesqueras, en el sentido de indicar la individualización y características náuticas de la embarcación señalada en el numeral 2° de dicha resolución denominada "Le Crabe Tambour".
+
+Valparaíso, 28 de febrero de 1990.- Roberto Cabezas Bello Subsecretario de Pesca.
