@@ -1,0 +1,5 @@
+AUTORIZA A LA UNIDAD VECINAL No. 51, (EX No. 37) DE ISLA TENGLO PARA DESARROLLAR ACTIVIDADES PESQUERAS Y DEROGA RESOLUCION QUE INDICA
+
+Por resolución No. 315, de 03 de Abril de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Unidad Vecinal No. 51 (Ex No. 37) de Isla Tenglo, domiciliada en Isla Tenglo, Comuna de Puerto Montt, para instalar y operar un establecimiento de cultivo de alga Gracilaria en un rea de 28.000 m2. ubicada al lado Sur de Isla Tenglo. Ademàs, se deroga la resolución 179 de 1982, de la misma Subsecretaría, que autorizó a la Unidad Vecinal No. 37, de Isla Tenglo para instalar y operar un cultivo de Gracilaria en Caleta La Vega, costa Sur - Este de Isla Tenglo.
+
+Valparaíso, 03 de Abril de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
