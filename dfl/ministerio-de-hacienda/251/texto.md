@@ -6,19 +6,37 @@ El texto definitivo del Decreto con fuerza de Ley número 135 de 30 de Abril úl
 
 ## Título Preliminar
 
-De la Superintendencia de Compañías de Seguros,
-
-Sociedades Anónimas y Bolsas de Comercio
+Definiciones
 
 #### Artículo 1°
 
-Créase la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, Oficinas que dependerá del Ministerio de Hacienda y que tendrá a su cargo la aplicación de esta Ley, la superior fiscalización de los negocios de las Compañías de Seguros, el control de las operaciones bursátiles y la vigilancia de las Sociedades Anónimas desde la escritura de constitución hasta el término de su liquidación.
+Para los efectos de esta ley, se entenderá por:
 
-No quedan comprendidas en las disposiciones de la presente Ley los Bancos y las Sociedades Anónimas creadas por leyes especiales en las que expresamente se las exceptuare de la vigilancia de la Superintendencia.
+a) Superintendencia: la Superintendencia de Valores y Seguros;
+
+b) Superintendente: el Superintendente de Valores y Seguros;
+
+c) Patrimonio de una sociedad: la diferencia entre el valor de los activos totales y los pasivos exigibles, deducida la suma de cualquier activo que no constituya inversión efectiva, entendiéndose por inversión efectiva aquellos activos que tienen un claro valor de realización o capacidad generadora de ingresos para la sociedad;
+
+d) Patrimonio consolidado: el que resulta de restar al total del activo consolidado de una sociedad matriz, la suma de su pasivo exigible consolidado, el interés de terceros en las filiales y el activo consolidado que no constituya inversión efectiva. Se entiende por activo y pasivo exigible consolidado a los de la matriz, considerando los activos y pasivos exigibles de las filiales como parte integrante de aquellos, una vez eliminados los saldos y transacciones entre aquélla y éstas y las utilidades no realizadas que provengan de tales operaciones;
+
+e) Patrimonio mínimo: el exigido como mínimo legal en los artículos 7 y 16, para la existencia y funcionamiento de compañías aseguradoras y reaseguradoras, respectivamente;
+
+f) Patrimonio de riesgo: aquella parte del patrimonio de la sociedad que se considera necesaria para mantener las relaciones de endeudamiento establecidas en el artículo 15. No podrá ser inferior al patrimonio mínimo y deberá estar respaldada con las inversiones que señalan los artículos 21 y siguientes;
+
+g) Capital contable neto: la diferencia entre el patrimonio de una empresa y sus inversiones en otras empresas;
+
+h) Capital contable neto consolidado: el capital contable neto de una sociedad matriz y sus filiales, calculado sobre la base de su balance consolidado;
+
+i) Factor de riesgo promedio ponderado: la suma de los productos entre el factor de riesgo que corresponda a cada instrumento o serie de instrumentos emitidos o garantizados por una sociedad, banco, institución financiera o empresa, de acuerdo a la categoría en que hayan sido clasificados, y la proporción que represente el monto de las inversiones representativas de reservas técnicas y patrimonio de riesgo de la respectiva compañía en cada uno de los instrumentos, respecto del valor total de las inversiones representativas de reservas técnicas y patrimonio de riesgo en los distintos títulos representativos de deuda de ese emisor, y
+
+j) Días hábiles: los comprendidos de lunes a viernes, salvo que sean festivos.
+
+Todas las menciones que se hagan en esta ley, a personas relacionadas, controladores y grupos empresariales, se entenderán referidas a las definiciones del Título XV de la ley de mercado de valores.
 
 #### Artículo 2°
 
-Cada vez que en las disposiciones de esta Ley se haga referencia a la Superintendencia o al Superintendente se entenderá por tales, al organismo creado por el Artículo anterior o al funcionario titular que lo dirija.
+DEROGADO.
 
 ## Título I
 
@@ -34,39 +52,43 @@ Son atribuciones y obligaciones de la Superintendencia:
 
 a) Autorizar la existencia, aprobar los estatutos y sus modificaciones, aprobar la prórroga del plazo de duración y la disolución anticipada de las sociedades anónimas nacionales de seguros y de reaseguros teniendo a la vista los documentos que acrediten que han cumplido y están en condiciones de cumplir las obligaciones de la presente ley;
 
-b) Fiscalizar las operaciones de las Compañías de Seguros, hacer arqueos, pedir la ejecución y presentación de Balances en las fechas que estime conveniente, revisar sus libros, sus carteras, y en general, solicitar todos los datos y antecedentes que le permitan imponerse de su estado, desarrollo y solvencia y de la forma en que cumplen las prescripciones de la presente y de las demás leyes vigentes, pudiendo ordenar las medidas que fueren menester;
+b) Fiscalizar las operaciones de las compañías de seguros, hacer arqueos, pedir la ejecución y presentación de balances y otros estados financieros e informes en las fechas que estime conveniente, revisar sus libros y sus carteras y, en general, solicitar todos los datos y antecedentes que le permitan imponerse de su estado, desarrollo y solvencia y de la forma en que cumplen las prescripciones de ésta y de las demás leyes vigentes, y dictar normas generales para los efectos de valorizar sus inversiones pudiendo ordenar para estos efectos las demás medidas que fueren menester;
 
 c) Convocar al Directorio de las Compañías o a Junta General de Accionistas de las mismas, cuando el ejercicio de sus facultades de fiscalización así lo requiera. Suspender las sesiones de las Juntas de Accionistas cuando su constitución hubiere sido defectuosa, y por el mismo defecto, decretar, dentro de los ocho días siguientes a la reunión, la nulidad de los acuerdos que se hubieren tomado.
 
 El Superintendente, por sí o por delegados, podrá asistir a las Juntas Generales de Accionistas, donde tendrá derecho a voz;
 
-d) Asumir, con la visación del Ministro de Hacienda, el carácter de único administrador de las Compañías, pudiendo el Superintendente delegar sus facultades en un funcionario de sus plantas directiva, profesional y técnica, cuando, de conformidad con lo dispuesto en los números 3 y 4 del Artículo 44, se decreten las suspensiones a que ellas se refieren;
+d) Asumir el carácter de único administrador o liquidador de una compañía, en los casos previstos en esta ley y, especialmente, cuando de conformidad con lo dispuesto en los números 3° y 4° del artículo 44, se decreten las suspensiones allí establecidas o le sea revocada su autorización de existencia.
 
-e) Aprobar los modelos de los textos de las pólizas y modificarlos, no pudiendo las entidades aseguradoras contratar con modelos que no hubieren sido previamente autorizados por la Superintendencia;
+La administración o la liquidación en su caso, podrá ser delegada por el Superintendente en uno o más funcionarios de las plantas directiva, profesional o técnica de la Superintendencia o en otras personas siempre que reúnan las condiciones para ser director de una sociedad anónima;
 
-f) Comprobar la exactitud de las reservas de riesgos en curso y matemáticas constituídas por las Compañías de acuerdo con las disposiciones reglamentarias que dicte la Superintendencia, y asimismo, la exactitud de los Balances con arreglo a los Estatutos, leyes y reglamentos vigentes, aprobándolos, disponiendo su rectificación inmediata u ordenando las modificaciones que fuere necesario incoporar en el próximo Balance.
+e) Mantener un registro de uso público en el que se disponga de una o más copias de los modelos de los textos de las pólizas, sus modificaciones y cláusulas adicionales que se contraten en el mercado, no pudiendo las entidades aseguradoras contratar con modelos que no hubieren sido previamente registrados por la Superintendencia.
 
-g) Designar los liquidadores de siniestros de incendio, marítimos y demás, y formar la lista de los peritos sobre los cuales deberá recaer el nombramiento de los Tribunales en los procesos por incendio.
+La Superintendencia podrá rechazar los modelos a ella remitidos y no los inscribirá en su registro, cuando contengan cláusulas que se opongan a las prescripciones legales, o induzcan a error a los asegurados. Del mismo modo, mediante resolución fundada, podrá eliminar de sus registros los modelos ya inscritos o disponer su modificación.
 
-Para los efectos de la designación de liquidadores, cada Compañía presentará a la Superintendencia, en la fecha que ésta fije, una lista de dos nombres, de entre los cuales elegirá el Superintendente hasta completar un número que no sea inferior a veinte.
+La Superintendencia podrá fijar, mediante norma de aplicación general, las disposiciones mínimas que deberán contener las pólizas;
 
-Las Compañías no podrán encomendar ninguna liquidación de siniestros a personas que no hayan sido autorizadas en esa forma. La Superintendencia podrá, en cualquier momento, y sin expresión de causa, eliminar y reemplazar uno o más nombres de la lista autorizada, dando aviso de tal cambio a las Compañías;
+f) Comprobar la exactitud de las reservas técnicas constituidas por las compañías de acuerdo con las normas de carácter general que dicte la Superintendencia, como asimismo, la de los balances, otros estados financieros, sus cuentas componentes y demás antecedentes solicitados por ésta, con arreglo a los estatutos, leyes y reglamentos vigentes, aprobándolos, disponiendo su rectificación inmediata u ordenando las modificaciones que fuere necesario incorporar en los próximos balances, estados financieros o informes;
+
+g) Mantener un registro de liquidadores de siniestros del primer grupo y de accidentes personales -cuyos integrantes se podrán denominar también ajustadores de seguros-, y otro de intermediarios de seguros, de acuerdo a las normas dictadas al efecto y según lo estipulado en la letra m) de este artículo. En estos registros se podrán inscribir sólo las personas que cumplan los requisitos que determine la Superintendencia mediante norma de carácter general, pudiendo ser suspendidos o eliminados de éstos mediante resolución fundada.
+
+Las compañías sólo podrán encomendar liquidaciones de siniestros a los liquidadores que hayan sido registrados por la Superintendencia. Sin embargo, podrán liquidar directamente aquellos siniestros que por su monto o grado de complejidad ésta les autorice mediante normas de carácter general, de conformidad con lo establecido en la presente ley;
 
 h) DEROGADO.
 
-i) Resolver como árbitro arbitrador, sin ulterior recurso, en las dificultades que se susciten entre Compañía y Compañía, entre éstas y sus intermediarios o entre éstas o el asegurado o beneficiario en su caso, cuando los interesados de común acuerdo lo soliciten. Sin embargo, el asegurado o el beneficiario podrán por sí solos someter al árbitro arbitrador las dificultades que se produzcan cuando el monto de la indemnización reclamada no sea superior a diez sueldos vitales anuales, escala A), del departamento de Santiago;
+i) Resolver, en casos a su juicio calificados, en el carácter de árbitro arbitrador sin ulterior recurso, las dificultades que se susciten entre compañía y compañía, entre éstas y sus intermediarios o entre éstas o el asegurado o beneficiario en su caso, cuando los interesados de común acuerdo lo soliciten. Sin embargo, el asegurado o el beneficiario podrán por sí solos solicitar al árbitro arbitrador la resolución de las dificultades que se produzcan, cuando el monto de la indemnización reclamada no sea superior a 120 unidades de fomento;
 
 j) Cuando lo juzgue conveniente, querellarse por el delito de incendio y hacerse parte en los procesos seguidos con motivo de tales delitos. La Superintendencia podrá, además, ordenar a las Compañías de Seguros, cuando lo estime conveniente, que se hagan parte de esos procesos o deduzcan querella. Podrán también las Compañías actuar en los procesos de incendios como querellantes o como partes, sin necesidad de orden del Superintendente, no obstante lo dispuesto en el artículo 114, del Código de Procedimiento Penal. La Compañía que intervenga en conformidad a este Artículo, tendrá la calidad de parte principal y deberán seguirse con ella todas las tramitaciones posteriores del juicio; pero sin que esta intervención signifique que ejercita la acción civil derivada del delito que se persigue;
 
-k) DEROGADO.
+k) Establecer mediante normas de carácter general disposiciones sobre calce de plazos, de reajustabilidad y de moneda de los activos y pasivos de las compañías de seguros;
 
-l) Formar anualmente la estadística de todas las operaciones sobre seguros que se efectúen en el país;
+l) Formar y publicar, anualmente, la estadística de todas las operaciones sobre seguros y reaseguros que efectúen las compañías, las listas de corredores de seguros y reaseguros, de liquidadores de siniestros y de compañías de seguros y reaseguros autorizados para operar en el país;
 
-m) Dictar las normas generales por las cuales debe regirse la intermediación, la contratación y la liquidación de seguros y reaseguros, en su caso.
+m) Establecer, mediante normas de carácter general, las exigencias técnicas y patrimoniales que deberán cumplir tanto los intermediarios de seguros y reaseguros como los liquidadores de siniestros para desempeñarse como tales, pudiendo dictar, asimismo, las normas por las cuales deben regirse la intermediación y la contratación de seguros y la liquidación de siniestros;
 
-n) Proponer al Presidente de la República los Reglamentos necesarios para el mejor cumplimiento de esta Ley de las entidades aseguradoras, en relación con la dirección y fiscalización de los productores de seguros.
+n) ELIMINADA.
 
-ñ) Las establecidas en el artículo 83 respecto de las sociedades anónimas, en cuanto fueren compatibles con las disposiciones de este Título.
+ñ) Las que otras leyes o normas expresamente le confieran.
 
 Párrafo Segundo
 
@@ -74,35 +96,35 @@ Disposiciones generales
 
 #### Artículo 4°
 
-El comercio de asegurar o cubrir a bases de primas, riesgos marítimos, de incendio, de transporte, y sobre la vida u otros, sólo podrá hacerse en Chile por Sociedades Anónimas Nacionales de Seguros, expresamente autorizadas para ello en sus Estatutos, o entidades de carácter mutual organizadas sin fines de lucro, por cooperativas de seguros y por entidades especialmente autorizadas por ley.
+El comercio de asegurar y reasegurar riesgos a base de primas, sólo podrá hacerse en Chile por sociedades anónimas nacionales de seguros y reaseguros, que tengan por objeto exclusivo el desarrollo de dicho giro y actividades que sean afines o complementarias a éste.
 
-Se excluyen de la presente Ley los seguros denominados sociales que sean efectuados por instituciones que cuenten con la autorización del Presidente de la República para cubrir riesgos de esta naturaleza.
+Sin perjuicio de lo anterior, cualquier persona natural o jurídica podrá contratar libremente en el extranjero, de conformidad a la normativa sobre operaciones de cambios internacionales, toda clase de seguros, a excepción de los seguros obligatorios establecidos por ley y aquellos contemplados en el decreto ley N° 3.500, de 1980.
+
+La contratación de seguros con compañías no establecidas en el país estará gravada, sin perjuicio de los que se establezcan en otras leyes, con los mismos tributos que puedan afectar a los seguros contratados con compañías nacionales.
 
 #### Artículo 5°
 
 Desde la fecha de esta Ley queda prohibido en Chile el establecimiento de tontinas, chatelusianas, mixtas y de asociaciones mutuales que tengan por objeto asegurar riesgos de cualquiera naturaleza, a base de cuotas y no de primas, o cuando empleen estas últimas no puedan garantizar los beneficios que ofrezcan.
 
-Sin embargo, las cantidades a que se refiere el inciso anterior, que a la fecha de esta Ley operen en el país, podrán continuar en sus negocios con la autorización de la Superintendencia, quedando, en este caso, bajo su vigilancia inmediata. El Presidente de la República podrá también autorizar la existencia de Sociedades Anónimas de capitalización, siempre que tengan a lo menos un capital de equivalente a 600 sueldos vitales anuales, escala A), del departamento de Santiago, las cuales quedarán, como las Compañías de Seguros, sometidas a la vigilancia de la Superintendencia. Estas Sociedades podrán realizar los sorteos que, para pagos anticipados, se consulten en sus planes técnicos aprobados por la Superintendencia, y deberán mantener su capital y reservas invertidas en Chile en la forma prescrita en el Artículo 21 de esta Ley.
+Sin embargo, las entidades a que se refiere el inciso anterior, que a la fecha de esta Ley operen en el país, podrán continuar en sus negocios con la autorización de la Superintendencia, quedando, en este caso, bajo su vigilancia inmediata.
 
 #### Artículo 6°
 
-Cada vez que se emplee en esta ley la denominación "Compañías de Seguros", se entenderá que ella se refiere a todas las sociedades anónimas nacionales de seguros, a las entidades de carácter mutual organizadas sin fines de lucro, a las cooperativas de seguros, sin perjuicio de lo dispuesto en el artículo 2° del decreto de Hacienda N° 2.033, de 26 de Octubre de 1968, y a las entidades que una ley autorice para asegurar sin que la misma las exceptúe de la fiscalización de la Superintendencia del ramo. Asimismo, y salvo que de la naturaleza del texto se desprenda otra cosa, se entenderán comprendidas también en dicha denominación, las sociedades anónimas nacionales de reaseguros.
+Cada vez que se emplee en esta ley la denominación compañías de seguros o compañías, se entenderá que ella se refiere a todas las sociedades anónimas nacionales de seguros, y salvo que de la naturaleza del texto se desprenda otra cosa, se entenderán comprendidas también en dicha denominación, las sociedades anónimas nacionales de reaseguros.
 
 #### Artículo 7°
 
-El capital de las compañías de seguros no podrá ser inferior a 60.000 unidades de fomento al momento de constituirse y deberá encontrarse totalmente suscrito y pagado para autorizar su existencia.
+El capital de las compañías de seguros no podrá ser inferior a 45.000 unidades de fomento al momento de constituirse y deberá encontrarse totalmente suscrito y pagado para autorizar su existencia.
 
-No obstante, si durante el funcionamiento de la compañía el capital y reservas patrimoniales se redujeren por pérdida a una cantidad inferior a 60.000 unidades de fomento, la compañía estará obligada a completarlo dentro de un año. Si así no lo hiciere, se le revocará su autorización de existencia.
+No obstante, si durante el funcionamiento de la compañía el patrimonio se redujere a una cantidad inferior a 45.000 unidades de fomento, la compañía estará obligada a complementarlo según lo dispuesto en los artículos 65 y siguientes. Si así no lo hiciere, se le revocará su autorización de existencia.
 
 #### Artículo 8°
 
-Para los efectos de la aplicación de la presente Ley, las Compañías de Seguros se dividirán en dos grupos. Al primero pertenecerán aquellas que cubran los riesgos de incendio, marítimos, de transportes terrestres, y demás que aseguren la reparación de daños causados por acontecimientos que puedan o no ocurrir. Al segundo grupo pertenecerán las Compañías que cubran el riesgo de vida u otros que aseguren al tenedor de la póliza, dentro o al término de su plazo, un capital, una póliza saldada, o una renta para sí o su beneficiario.
-
-El valor de las pólizas de seguros sobre la vida cede exclusivamente en favor del beneficiario.
+Las compañías se dividirán en dos grupos. Al primero pertenecerán las que aseguren los riesgos de pérdidas o deterioro en las cosas o el patrimonio. Al segundo, las que cubran los riesgos de las personas o que garanticen a éstas, dentro o al término de un plazo, un capital, una póliza saldada o una renta para el asegurado o sus beneficiarios.
 
 #### Artículo 9°
 
-La constitución legal de las Sociedades Anónimas Aseguradoras y Reaseguradoras, se hará de acuerdo con las disposiciones que rigen para las Sociedades Anónimas en el Título III de esta Ley en todo lo que no fuere contrario al presente Título.
+La constitución legal de las sociedades anónimas aseguradoras y reaseguradoras, se hará de conformidad a los artículos 126 y siguientes de la ley de sociedades anónimas.
 
 #### Artículo 10
 
@@ -112,115 +134,297 @@ El valor de la unidad de fomento que se considerará para el pago de las primas 
 
 #### Artículo 11
 
-No podrán organizarse nuevas Compañías destinadas a cubrir riesgos comprendidos en los dos grupos. Las que desde antes de la vigencia de esta ley lo hicieren, deberán constituir capitales independientes para cada grupo y llevar contabilidades absolutamente separadas para las operaciones de los mismos, a fin de que las pérdidas de uno no puedan afectar al capital de la Compañía sino hasta concurrencia de la cifra asignada a ese grupo más sus reservas técnicas correspondientes.
+No podrán organizarse entidades aseguradoras destinadas a cubrir riesgos comprendidos en los dos grupos.
 
-La reserva legal responderá indistintamente y por su totalidad, de las operaciones de ambos grupos y las demás reservas sociales, a prorrata de la cuota del capital determinado.
+No obstante lo dispuesto en el inciso anterior, las entidades aseguradoras de uno y otro grupo podrán cubrir los riesgos de accidentes personales y los de salud.
+
+Los riesgos de crédito deberán ser asegurados sólo por compañías del primer grupo, las que no podrán otorgar esta cobertura ni aceptar su reaseguro, cuando el asegurado o el deudor de éste sea una persona relacionada con la compañía aseguradora o reaseguradora, según el caso. Se exceptuarán de esta prohibición los seguros de crédito a las exportaciones.
+
+Se entenderá por seguro de crédito aquel que cubre los riesgos de pérdidas o deterioro en el patrimonio del asegurado, producto del no pago de una obligación en dinero o de crédito de dinero.
 
 #### Artículo 12
 
-DEROGADO.
+El monto de las indemnizaciones de los seguros sobre la vida cede exclusivamente en favor del o los beneficiarios.
 
 #### Artículo 13
 
-DEROGADO.
+Las entidades aseguradoras no podrán disponer de los efectos de comercio que hayan recibido en pago de primas de los asegurados, para caucionar o extinguir obligaciones propias o de terceros, por aquella parte de la prima no devengada.
 
 #### Artículo 14
 
-La persona, empresa, sociedad o casa comercial que desee asegurar, en compañías no establecidas en Chile, cualquier interés sobre bienes situados permanentemente en el país, o la pérdida material en tierra sobre mercaderías sujetas al régimen de admisión temporal o en tránsito en el territorio nacional, como asimismo, seguros de vida u otros del segundo grupo respecto de personas domiciliadas o residentes en Chile en las referidas compañías, sólo podrá hacerlo con las personas que se encontraren inscritas de conformidad al artículo 46 de esta ley.
-
-Con todo, las empresas navieras y las de aeronavegación nacionales podrán contratar libremente en el extranjero los seguros de protección e indemnización.
-
-Para los efectos de determinar el impuesto adicional del título IV de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del decreto ley N° 824, de 1974, que grava a las coberturas señaladas en el inciso primero, la Superintendencia determinará el monto de las primas de los contratos que se celebren, considerando, entre otros, los antecedentes que el asegurado y asegurador presentaren a dicho organismo. El impuesto se aplicará sobre el monto determinado, sin deducción alguna y deberá pagarse proporcionalmente en la medida que las primas vayan devengándose conforme a las condiciones pactadas en el contrato.
-
-No se autorizará la adquisición y remesa de divisas para el pago de los seguros a que se refiere el presente artículo si no se exhibiere copia del documento por el cual la Superintendencia determinó el monto de la prima correspondiente, sin perjuicio de la comprobación del pago del impuesto que grava las primas.
-
-Sin perjuicio del impuesto a que se refieren los incisos anteriores, la contratación de seguros con compañías no establecidas en el país, estará gravada con los mismos tributos que puedan afectar a los seguros contratados con compañías nacionales.
+DEROGADO.
 
 #### Artículo 15
 
-Las pólizas, recibos o cualquiera otro documento que sea cambiado entre Compañías, en virtud de operaciones de reseguros, no llevarán estampillas de impuesto, con excepción de los recibos de pago.
+El límite máximo de endeudamiento total en relación al patrimonio de las compañías del primer grupo no podrá ser superior a 5 veces. Asimismo, para las compañías del segundo grupo, dicho límite será igual a 15 veces.
+
+Sin embargo, la Superintendencia mediante normas de aplicación general sólo podrá establecer límites de endeudamiento total en relación al patrimonio, superiores a los del inciso anterior para las compañías del segundo grupo, cuando exista razón fundada para ello, condicionado a que cada modificación esté vigente durante al menos un año y que dicho cambio no sea superior a una vez el patrimonio. Con todo, la relación máxima de endeudamiento total para las compañías del segundo grupo no podrá exceder de 20 veces el patrimonio.
+
+Para las compañías de uno u otro grupo, el total de las deudas contraídas con terceros, que no generen reservas técnicas de seguros, en ningún caso podrá exceder de una vez el patrimonio.
 
 #### Artículo 16
 
-El reaseguro de los contratos celebrados en Chile, lo harán las compañías de seguros entre compañías nacionales establecidas en el país o en entidades facultadas para reasegurar.
+El reaseguro de los contratos celebrados en Chile lo harán las entidades aseguradoras y reaseguradoras con compañías de seguros y reaseguros autorizadas para operar en el país. Las compañías de seguros sólo podrán reasegurar riesgos del grupo en el cual estén autorizadas para operar.
 
-Podrán constituirse sociedades anónimas, cuyo objeto exclusivo sea operar en reaseguros de uno o ambos grupos, las que estarán sujetas a la fiscalización de la Superintendencia, con las atribuciones que le otorga esta ley.
+Son entidades facultadas para reasegurar, además de las entidades aseguradoras establecidas en el país, aquellas sociedades anónimas cuyo objeto exclusivo sea operar en el reaseguro de uno de ambos grupos y que estarán sujetas a la fiscalización de la Superintendencia, con las atribuciones que le otorga la ley.
 
-Las referidas entidades reaseguradoras deberán mantener un capital pagado y reservas patrimoniales no inferior a 60.000 unidades de fomento por cada grupo en que operen, aplicándose lo dispuesto en el inciso segundo del artículo 7°.
+Sin embargo, podrán existir entidades reaseguradoras autorizadas para operar en ambos grupos, siempre que constituyan capitales independientes para cada uno de ellos y lleven contabilidades absolutamente separadas para las operaciones de los mismos, a fin de que cumplan con los requisitos de patrimonio, endeudamiento e inversión de reservas técnicas y de patrimonio en cada uno de ellos. En el evento de que uno de los grupos presente problemas que exijan la regularización establecida en los artículos 65 ó 68, se deberá proceder a ésta y, en caso de no ser ella posible, la Superintendencia revocará la autorización respecto del grupo afectado.
 
-Las compañías de seguros y las entidades reaseguradoras, sólo podrán contratar reaseguros en el extranjero con entidades o intermediarios que se encuentren inscritos en el Registro de Entidades y Corredores de Reaseguros Extranjeros que llevará la Superintendencia, la cual fijará los requisitos para su inscripción y funcionamiento.
+Las entidades reaseguradoras nacionales deberán mantener un patrimonio mínimo no inferior a 60.000 unidades de fomento por cada uno de los grupos en que operen. Si durante el funcionamiento dicho patrimonio se redujere a una cantidad inferior, la entidad estará obligada a completarlo conforme a lo dispuesto en el párrafo 1 del Título IV. Si así no lo hiciere, se le revocará la autorización de existencia.
+
+#### Artículo 16 bis
+
+Estarán también facultadas para reasegurar aquellas entidades extranjeras de reaseguros que se encuentren inscritas en el registro de reaseguradores extranjeros que llevará la Superintendencia, las cuales deberán cumplir con los siguientes requisitos:
+
+a) Acreditar un patrimonio superior a 300.000 unidades de fomento;
+
+b) Acreditar que la entidad se encuentra constituída legalmente en su país de origen y puede reasegurar riesgos cedidos desde el extranjero, con indicación de la fecha desde la cual se encuentra autorizada para operar;
+
+c) Acreditar que de conformidad a la legislación de su respectivo país, no tienen inconvenientes para pagar los compromisos derivados de los contratos de reaseguros que suscriban en el extranjero en moneda de libre convertibilidad, y
+
+d) Acompañar copia auténtica de sus estatutos vigentes, en castellano, memoria anual en la cual se incluyan los estados financieros debidamente auditados por auditores independendientes y copia del poder otorgado a una persona residente en Chile para que la represente con amplias facultades e incluso para ser emplazada en juicio.
+
+Las entidades aseguradoras y reaseguradoras también podrán reasegurarse a través de intermediarios o corredores que se encuentren inscritos en el registro de corredores de reaseguros, los cuales deberán cumplir con los siguientes requisitos:
+
+a) Constituir garantía a favor de la Superintendencia para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad de corredor en Chile y, especialmente, de los perjuicios que puedan ocasionar a quienes contraten por su intermedio. La garantía deberá ser por un monto no inferior a la suma más alta entre 20.000 unidades de fomento o un tercio de la prima intermediada en Chile en el año inmediatamente anterior, la cual podrá constituirse en dinero efectivo o en póliza de seguro, boleta bancaria u otra forma previamente aceptada por la Superintendencia, y permanecer vigente hasta la extinción de sus obligaciones contraídas como corredor.
+
+Será necesaria la aprobación previa de la Superintendencia cuando el emisor de la póliza sea una compañía no establecida en Chile. Verificado el incumplimiento o perjuicio, la Superintendencia hará efectiva la respectiva garantía y el corredor afectado no podrá continuar su actividad en Chile hasta que la rehabilite a satisfacción de dicho organismo;
+
+b) Tratándose de corredores extranjeros, ser persona jurídica y acreditar que la entidad se encuentra constituida legalmente en su país de origen y puede intermediar riesgos cedidos desde el extranjero, con indicación de la fecha desde la cual se encuentra autorizada para operar, y
+
+c) Acreditar lo señalado en las letras c) y d) del inciso primero, cuando corresponda.
+
+La Superintendencia determinará la forma, plazos y periodicidad con que deberán ser acreditados los requisitos establecidos en este artículo por los reaseguradores extranjeros y corredores de reaseguros.
+
+En el caso de que las entidades reaseguradoras o corredores de reaseguros dejen de cumplir alguno de los requisitos señalados precedentemente se les eliminará del registro correspondiente.
 
 #### Artículo 17
 
-DEROGADO.
+Las compañías deberán enviar a la Superintendencia, en las oportunidades y forma que ésta señale mediante norma de carácter general, resúmenes sobre número y tipo de pólizas emitidas, producción neta, reaseguros, cesiones y, en general, cualquier información estadística que sea necesaria para dar cumplimiento a lo dispuesto en la letra l) del artículo 3°.
 
 #### Artículo 18
 
-Las Compañías de Seguros deberán enviar a la Superintendencia, en las oportunidades que ésta señale, resúmenes sobre pólizas emitidas, producción neta, reaseguros y cesiones.
+Las compañías deberán publicar conjuntamente con el balance y estados financieros anuales, un inventario de sus inversiones, cuyo detalle será fijado mediante norma de carácter general por la Superintendencia.
 
 #### Artículo 19
 
-Sin perjuicio de lo dispuesto en el artículo 118, las Compañías de Seguros deberán publicar, juntamente con sus balances, un inventario de inversiones.
+La Superintendencia publicará anualmente en sus revistas o boletines, un resumen de los estados financieros de las compañías de seguros a que se refiere el artículo anterior, en que se demuestre la situación de cada compañía y la de todas ellas en conjunto. Deberá, además, publicar en forma periódica información estadística y financiera sobre las operaciones y situación de cada una y de todas las compañías de seguros. Esta publicación deberá estar a disposición del público y enviarse, a lo menos, a tres periódicos de circulación nacional.
 
 #### Artículo 20
 
-La Superintendencia publicará anualmente, en el Diario Oficial, un resumen de los Balances de las Compañías de Seguros a que se refiere el Artículo anterior en que se demuestre la situación de cada Compañía y la de todas ellas en conjunto.
+Las entidades aseguradoras y reaseguradoras establecidas en el país deberán constituir las siguientes reservas técnicas:
+
+1) Reserva de riesgo en curso por las obligaciones de una compañía con los asegurados originadas por primas de contratos de seguros de corto plazo;
+
+2) Reserva matemática por las obligaciones de una compañía del segundo grupo con los asegurados, originadas por primas de contratos de seguros de largo plazo;
+
+3) Reserva de siniestros por las obligaciones por siniestros ocurridos y que estén pendientes de pago, y por los ocurridos y no reportados, y
+
+4) Reserva adicional a la de riesgo en curso por aquellos riesgos cuya siniestralidad es poco conocida, altamente fluctuante, cíclica o catastrófica y que, a juicio de la Superintendencia, mediante normas de carácter general, sea necesaria constituir para el normal desenvolvimiento de la actividad aseguradora o reaseguradora.
+
+No obstante lo señalado en el inciso precedente, una compañía sólo podrá deducir de las mencionadas reservas, la prima efectivamente pagada a su reasegurador por las cesiones correspondientes a los riesgos asumidos.
+
+Las cesiones que se efectúen a reaseguradores extranjeros no se podrán deducir para el cálculo de las reservas técnicas en el caso de los seguros contemplados en el decreto ley N° 3.500, de 1980.
+
+Se entenderá por seguros de corto plazo aquellos que habitualmente se contratan por períodos iguales o inferiores a un año y por seguros de largo plazo los que habitualmente se estipulan por períodos superiores a un año.
+
+Estas reservas se constituirán de acuerdo con los procedimientos, tablas de mortalidad, tasas de interés técnico y otros aspectos que fije la Superintendencia, mediante normas de carácter general. Su modificación o reemplazo deberá comunicarse a las compañías con 120 días de anticipación, a lo menos.
 
 #### Artículo 21
 
-Al menos el 50% de las reservas técnicas de las entidades aseguradoras y reaseguradoras deberá invertirse en acciones de sociedades anónimas que tengan transacción bursátil; en debentures emitidos por sociedades anónimas u otros títulos de crédito emitidos o garantizados hasta su total extinción, ya sea por el Estado o por entidades sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras; el saldo podrá invertirse en bonos, en pagarés o letras cuya emisión haya sido registrada en la Superintendencia; o en instrumentos de oferta pública que autorice el Consejo Monetario.
+Las reservas técnicas y el patrimonio de riesgo de las entidades aseguradoras y reaseguradoras deberán estar respaldados por inversiones efectuadas en los siguientes instrumentos y activos:
 
-El capital y reservas patrimoniales de las referidas entidades deberán estar invertidos en los mismos títulos señalados en el inciso anterior y, además, en bienes raíces urbanos, en créditos a los asegurados y en muebles y útiles para su propio uso, sin perjuicio de las cantidades que mantengan en dinero efectivo, en caja y bancos.
+a) títulos emitidos o garantizados hasta su total extinción por el Estado o emitidos por el Banco Central de Chile;
 
-No podrá invertirse más del 10% de las reservas técnicas en instrumentos emitidos o garantizados por una misma entidad. Esta limitación no regirá en el caso de instrumentos emitidos o garantizados hasta su total extinción por el Estado.
+b) depósitos a plazo o títulos representativos de captaciones emitidos por bancos e instituciones financieras;
 
-La compañía, como consecuencia de la inversión de sus reservas técnicas, no podrá poseer más del 10% de las acciones emitidas por una misma sociedad. La inversión de las reservas técnicas en bonos, debentures, pagarés, letras, acciones u otros valores no podrá exceder del 10% del total del activo de la entidad emisora. Esta limitación no regirá en el caso de títulos emitidos o garantizados hasta su total extinción por el Estado.
+c) letras de crédito emitidas por bancos e instituciones financieras;
 
-Para la determinación de los porcentajes se estará a los balances anuales o a otros estados financieros que obligatoriamente deban presentar a la Superintendencia las sociedades emisoras, actualizados en la forma que determine el Reglamento del decreto ley N° 1.328, de 1976, sobre administración de fondos mutuos.
+d) bonos, pagarés y debentures emitidos por empresas públicas o privadas;
 
-Las compañías del segundo grupo podrán, además, invertir sus reservas técnicas en préstamos a sus tenedores de pólizas de vida no saldadas, en la forma que determine la Superintendencia, y podrán también invertirlas en la adquisición de bienes raíces urbanos. Las inversiones en bienes raíces urbanos no podrán exceder del 20% de las reservas técnicas de la compañía.
+e) acciones de sociedades anónimas abiertas, que se encuentren en los casos contemplados en el Título III, clasificadas como acción de primera clase;
 
-Las inversiones a que se refiere este artículo no podrán hacerse ni mantenerse en acciones de sociedades anónimas de seguros, ni en sociedades que posean más del 20% de las acciones de una entidad aseguradora.
+f) las compañías aseguradoras del primer grupo, en crédito no vencido por primas no devengadas otorgado a los asegurados, para respaldar reservas de riesgo en curso y patrimonio de riesgo;
+
+g) siniestros por cobrar no vencidos, producto de las cesiones efectuadas a los reaseguradores, para respaldar la reserva de siniestros y el patrimonio de riesgo, salvo aquellos producto de las cesiones indicadas en el inciso tercero del artículo 20;
+
+h) bienes raíces urbanos no habitacionales, cuya tasación comercial sea practicada al menos cada dos años según las normas de carácter general que dicte la Superintendencia;
+
+i) las compañías del segundo grupo, en crédito no vencido por primas producto de los seguros de invalidez y sobrevivencia del decreto ley N° 3.500, de 1980, y en crédito por el saldo de la cuenta individual de afiliados siniestrados, en dicho sistema previsional, para respaldar la reserva de siniestros;
+
+j) instrumentos de renta emitidos por instituciones internacionales a las que se encuentre adherido el Estado de Chile y por bancos del exterior de reconocida responsabilidad que puedan ser adquiridos por el Banco Central de Chile de acuerdo a su ley orgánica, para respaldar reservas adicionales constituidas según lo dispuesto en el N° 4) del artículo 20 y adquiridas con sujeción a las normas sobre cambios internacionales.
+
+Además las compañías aceptantes podrán respaldar sus reservas técnicas con:
+
+k) crédito no vencido por prima no devengada otorgada a las compañías cedentes del primer grupo en virtud de contratos de reaseguro, para respaldar las reservas de riesgo en curso;
+
+l) crédito no vencido por prima devengada otorgado a las compañías cedentes del primer grupo en virtud de contratos de reaseguro, para respaldar la reserva de siniestros;
+
+m) descuento de aceptación no devengado producto de aceptaciones generadas por contratos de reaseguro, para respaldar las reservas de riesgo en curso y patrimonio de riesgo.
+
+Para respaldar las reservas técnicas y el patrimonio de riesgo con los instrumentos señalados en las letras b), c), d) y e) de este artículo, será necesario que hayan sido clasificados previamente, de conformidad a lo dispuesto en la ley N° 18.045.
+
+No podrán ser inversiones representativas de reservas técnicas y patrimonio de riesgo los instrumentos clasificados en las categorías D y E, ni las acciones de segunda clase o sin información suficiente, según el caso.
+
+Los instrumentos de la letra
+
+- **b)** que sean seriados y los señalados en las letras
+
+- **d)** y
+
+- **e)** deberán estar inscritos, de acuerdo con la ley N° 18.045, en el respectivo registro que lleve la Superintendencia de Valores y Seguros o la de Bancos e Instituciones Financieras, según corresponda.
 
 #### Artículo 22
 
-DEROGADO.
+Las inversiones representativas de reservas técnicas y de patrimonio de riesgo no podrán estar afectas a gravámenes, prohibiciones, embargos, litigios, medidas precautorias, condiciones suspensivas o resolutorias, ni ser objeto de ningún otro acto o contrato que impida su libre cesión o transferencia. En el evento de que alguna inversión se viere afectada en la forma señalada, no podrá ser considerada como representativa de reservas técnicas ni de patrimonio de riesgo; tampoco se considerarán para estos efectos aquellos instrumentos cuyo riesgo de no pago estuviere asegurado o reasegurado total o parcialmente en la misma compañía.
 
 #### Artículo 23
 
-DEROGADO.
+La inversión en los distintos tipos de instrumentos o activos representativos de reservas técnicas y patrimonio de riesgo señalados en el artículo 21, estará sujeta a los siguientes límites máximos:
+
+a) 50% del total en aquellos instrumentos comprendidos en su letra a);
+
+b) 40% del total en aquellos instrumentos comprendidos en su letra b);
+
+c) 40% del total en aquellos instrumentos comprendidos en su letra c);
+
+d) 40% del total en aquellos instrumentos comprendidos en su letra d);
+
+e) 40% del total en aquellos instrumentos comprendidos en su letra e);
+
+f) el total de la reserva de riesgo en curso y 10% del patrimonio de riesgo en los créditos mencionados en su letra f);
+
+g) El total de la reserva de siniestros y el 10% del patrimonio de riesgo en los activos mencionados en su letra g);
+
+h) 20% del total en aquellos activos comprendidos en su letra h), para las compañías del segundo grupo, y 30% sólo del patrimonio de riesgo, para las compañías del primer grupo;
+
+i) El total de la reserva de siniestros en los activos mencionados en su letra i);
+
+j) Lo que resulte menor entre el 80% de las reservas adicionales del N° 4 del artículo 20 y el 30% del patrimonio de riesgo de la compañía inversionista, en aquellos instrumentos comprendidos en su letra j);
+
+k) el total de la reserva de riesgo en curso en los activos mencionados en su letra k);
+
+l) El total de la reserva de siniestros en los activos mencionados en su letra l), y
+
+m) 30% de la reserva de riesgo en curso y 30% del patrimonio de riesgo en los activos mencionados en su letra m).
+
+No obstante lo anterior, el monto máximo de inversión en los instrumentos señalados en las letras c) y h) no podrá superar el 40% de las reservas técnicas y patrimonio de riesgo de las compañías del segundo grupo.
 
 #### Artículo 24
 
-Las entidades aseguradoras y las entidades reaseguradoras nacionales, deberán constituir anualmente, además del fondo de reserva a que se refiere el Artículo anterior, las siguientes reservas:
+Sin perjuicio de lo dispuesto en el artículo anterior, las reservas técnicas y el patrimonio de riesgo de las compañías deberán estar respaldados por instrumentos financieros y activos señalados en el artículo 21, sujetos a los siguientes límites de diversificación por emisor:
 
-1° Las Compañías del primer grupo, una reserva de riesgos en curso que será determinada de acuerdo con los procedimientos que fija la Superintendencia.
+a) las inversiones en los instrumentos y activos comprendidos en las letras a), f), g), h), i), j), k), l) y m) de dicho artículo no estarán sujetas a límite por emisor;
 
-2° Las Compañías del segundo grupo, las reservas matemáticas que garanticen el cumplimiento de sus obligaciones de acuerdo con las normas que al efecto autorice la Superintendencia.
+b) las inversiones en los instrumentos comprendidos en la letra b) de dicho artículo emitidos por una misma entidad financiera no podrán exceder del menor de los siguientes valores:
 
-No se admitirá deducción alguna para el cómputo de las reservas de riesgos en curso o matemáticas, por concepto de reseguros en el extranjero, de los contratos celebrados en Chile o que hayan de cumplirse en el país.
+1. el 10% de las reservas técnicas y el patrimonio de riesgo de la inversionista;
+
+2. el 10% del total de depósitos y captaciones de la entidad financiera, y
+
+3. además, tratándose de las compañías del segundo grupo, el producto de los siguientes factores:
+
+I) un múltiplo único para todas las instituciones financieras fijado por la Superintendencia;
+
+II) la proporción que representan las reservas técnicas y el patrimonio de riesgo de la inversionista respecto del total de las reservas técnicas y del patrimonio de riesgo de todas las compañías del grupo en el cual opera la respectiva aseguradora o reaseguradora;
+
+III) el patrimonio de la entidad financiera, y IV) el factor de riesgo promedio ponderado de la entidad financiera;
+
+c) las inversiones en los instrumentos comprendidos en la letra c) de dicho artículo emitidos por una misma entidad financiera no podrán exceder del menor de los siguientes valores:
+
+1. el 10% de las reservas técnicas y del patrimonio de riesgo de la inversionista;
+
+2. el 20% de las letras de crédito emitidas por la entidad financiera, y
+
+3. además, tratándose de las compañías del segundo grupo, el producto de los factores siguientes:
+
+I) un múltiplo único para todas las instituciones financieras fijado por la Superintendencia;
+
+II) la proporción que representan las reservas técnicas y el patrimonio de riesgo de la inversionista respecto del total de las reservas técnicas y del patrimonio de riesgo de todas las compañías del grupo en el cual opera la respectiva aseguradora o reaseguradora;
+
+III) el patrimonio de la entidad financiera, y IV) el factor de riesgo promedio ponderado de la entidad financiera;
+
+d) las inversiones en los instrumentos comprendidos en la letra d) de dicho artículo emitidos por una misma empresa no podrán exceder del menor de los siguientes valores:
+
+1. el 10% de las reservas técnicas y del patrimonio de riesgo de la inversionista;
+
+2. el 20% de la serie o emisión de cada instrumento, y
+
+3. además, tratándose de las compañías del segundo grupo, el producto de los factores siguientes:
+
+I) un múltiplo único para todas las empresas emisoras de bonos, pagarés y debentures, fijado por la Superintendencia;
+
+II) la proporción que representen las reservas técnicas y el patrimonio de riesgo de la inversionista respecto del total de las reservas técnicas y del patrimonio de riesgo de todas las compañías del grupo en el cual opera la respectiva aseguradora o reaseguradora;
+
+III) el patrimonio consolidado de la emisora, y IV) el factor de riesgo promedio ponderado de la emisora;
+
+e) las inversiones en los instrumentos comprendidos en la letra e) de dicho artículo emitidos por una misma sociedad anónima abierta no podrán exceder del 5% de las reservas técnicas y del patrimonio de riesgo como tampoco del 8% de sus acciones suscritas. Estos límites se rebajarán a la mitad tratándose de acciones de bancos e instituciones financieras;
+
+f) el total de las inversiones en los instrumentos comprendidos en las letras b), c), d) y e) del artículo 21 emitidos por una misma sociedad anónima, banco, institución financiera o empresa y sus respectivas filiales, no podrá exceder del 10% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista.
+
+Los límites establecidos en el inciso anterior se rebajarán a la mitad cuando el o los emisores pertenezcan al mismo grupo empresarial del cual formase parte la compañía inversionista.
+
+Asimismo, el total de las inversiones en los instrumentos comprendidos en las letras b), c), d) y e) del artículo 21 emitidos por sociedades anónimas, bancos, instituciones financieras y empresas pertenecientes a un mismo grupo empresarial, no podrán exceder del 25% de las reservas técnicas y del patrimonio de riesgo de la compañía inversionista o del 12,5% si ésta forma parte del mismo grupo empresarial.
+
+Los dos incisos anteriores no se aplicarán a compañías de seguros en que el Estado, por sí o por intermedio de sus empresas, instituciones descentralizadas, autónomas o municipales o por otra persona jurídica, posea más del 50% de las acciones suscritas, respecto de aquellas sociedades emisoras que se encuentren en igual situación.
+
+La Superintendencia de Bancos e Instituciones Financieras proporcionará mensualmente el cálculo del patrimonio de cada banco e institución financiera sujeta a su fiscalización, a la Superintendencia de Valores y Seguros.
+
+El múltiplo único señalado en la letra
+
+- **b)** del inciso primero de este artículo no podrá ser inferior a 2 ni superior a 8; el múltiplo único señalado en letra
+
+- **c)** del inciso primero de este artículo no podrá ser inferior a 1 ni superior a 4; el múltiplo único señalado en la letra
+
+- **d)** del inciso primero de este artículo no podrá ser inferior a 0,5 ni superior a 1,5.
+
+Para los efectos de la diversificación de inversiones por emisor señalada en este artículo, aquellos instrumentos garantizados por el Estado, deberán incluirse en los límites que correspondan según el emisor y tipo de instrumento de que se trate.
+
+#### Artículo 24 bis
+
+Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas.
 
 #### Artículo 25
 
-DEROGADO.
+Las compañías deberán llevar un registro que cumpla con los requisitos que para este efecto señale la Superintendencia, en el cual se anotarán los títulos, documentos y activos representativos del total de las reservas técnicas. Igual registro deberán llevar para las inversiones que respalden el patrimonio.
+
+La Superintendencia estará facultada para dictar, si lo estima procedente para la protección de los intereses de los asegurados, normas de custodia de los títulos y valores mobiliarios que respalden las reservas técnicas.
 
 #### Artículo 26
 
-El reseguro no altera en nada el contrato celebrado entre el asegurador directo y el asegurado, y su pago en caso de siniestro, no podrá diferirse a pretexto del reseguro.
+La diferencia que resulte entre el patrimonio de la sociedad y el patrimonio de riesgo deberá estar respaldada con los mismos títulos señalados en el artículo 21 y en caja y bancos, muebles para su propio uso, avances a tenedores de pólizas de vida no saldadas y cuotas de fondos mutuos, así como en créditos contra el Fisco. En el caso de las inversiones señaladas en la letra
+
+- **e)** del artículo 21 no les será aplicable lo dispuesto en el párrafo 2 del Título III. Los activos de las letras
+
+- **f)** y
+
+- **k)** de dicho artículo, podrán respaldar este exceso, incluso si estuvieren vencidos, en las condiciones que disponga la Superintendencia de acuerdo con las normas de carácter general que dicte al efecto.
+
+No obstante lo señalado precedentemente no podrán respaldar este exceso sobre el patrimonio de riesgo, los instrumentos y activos señalados en las letras
+
+- **i)** y
+
+- **j)** del artículo 21 y los indicados en las letras
+
+- **a)** y
+
+- **b)** del artículo 57.
+
+Todas las inversiones señaladas precedentemente deberán cumplir lo dispuesto en el artículo 22.
 
 #### Artículo 27
 
-La entidad aseguradora, cualquiera que sea su naturaleza, podrá transferir, total o parcialmente, sus negocios, mediante la cesión de la cartera correspondiente, a otra entidad nacional de la misma índole que opere en el país, de acuerdo con las disposiciones de la presente Ley.
+La entidad aseguradora, cualquiera que sea su naturaleza, podrá transferir total o parcialmente sus negocios, mediante la cesión de la cartera correspondiente, a otra entidad aseguradora que opere en el país, de acuerdo con las disposiciones de esta ley.
 
-La transferencia de negocios a que se refiere el inciso anterior necesitará la autorización del Presidente de la República, oída la Superintendencia, y deberá efectuarse en conformidad a lo que establezca el Reglamento respectivo.
+La transferencia de negocios y cesión de carteras a que se refiere el inciso anterior requerirá de la autorización especial de la Superintendencia y deberá efectuarse en conformidad a las normas de aplicación general que dicte al efecto.
 
-En todo caso deberá consultarse a los asegurados, y las condiciones mediante las cuales se pacte y realice la transferencia, no podrá gravar los derechos de los mismos ni modificar sus garantías.
+En todo caso, deberá consultarse a los asegurados y las condiciones mediante las cuales se pacte y realice la transferencia no podrán gravar los derechos de los mismos, ni modificar sus garantías.
 
-INCISO DEROGADO.
+Cuando la transferencia de negocios o cesión de cartera a que se refieren los incisos anteriores se efectuare en virtud de las facultades establecidas en los artículos 71, 74 y 79, no serán procedentes las acciones revocatorias o las concursales de inoponibilidad y no serán aplicables, en este caso, las presunciones contempladas en los artículos 219, 220 y 221 de la ley N° 18.175.
 
 #### Artículo 28
 
-La pérdida de más del cincuenta por ciento del capital de una Compañía del segundo grupo, no determinará la disolución anticipada prescrita por el Artículo 464 del Código de Comercio, cuando a juicio del Superintendente, la constitución de las reservas técnicas garanticen la estabilidad de su situación económica y el posible restablecimiento del capital perdido.
+El reaseguro no altera en nada el contrato celebrado entre el asegurador directo y el asegurado, y su pago, en caso de siniestro, no podrá diferirse a pretexto del reaseguro.
 
 #### Artículo 29
 
@@ -264,39 +468,19 @@ La detención de los comerciantes en los casos calificados en el Artículo 31, p
 
 #### Artículo 36
 
-En los procesos por incendio, los peritos que en ellos se designen, serán nombrados por los Tribunales, de la lista formada por la Superintendencia conforme al artículo 3, letra g) de esta Ley.
-
-La Superintendencia podrá en cualquier momento, sin expresión de causa, eliminar de la lista uno o más nombres, notificando tal medida al o a los Juzgados correspondientes.
-
-Los nombramientos deberán efectuarse siguiendo el orden riguroso de la lista, sin que en un mismo Juzgado se pueda hacer recaer un nombramiento dos veces sucesivas en una misma persona.
-
-El pago de los honorarios de peritos se hará por la Superintendencia la cual, para este efecto, cobrará semestralmente a las Compañías que aseguran contra incendios y a las entidades reaseguradoras nacionales, la cuota con que ellas deberán concurrir a cubrir estos gastos a prorrata de sus primas.
-
-La Superintendencia podrá intervenir como parte en el proceso, para los efectos de la regulación de los expresados honorarios, y asímismo, podrá repetir contra quien corresponda, por lo que hubiere pagado en razón de peritajes en caso de declararse intencional el siniestro.
-
-El perito que no entregue su informe dentro del plazo que le fije el Tribunal será eliminado de la lista a que se refiere el inciso primero de este artículo.
+En los procesos por incendio, los honorarios de los peritos que se designen en virtud del artículo 34 serán pagados por la respectiva compañía aseguradora, la que podrá intervenir como parte en el proceso para los efectos de su regulación, y asimismo, podrá repetir contra quien corresponda por lo que hubiere pagado en razón de peritaje en caso de declararse intencional el siniestro.
 
 #### Artículo 37
 
-Si algún acreedor de alguna Compañía de Seguros solicitare la declaración de quiebra de ésta, el Juzgado deberá dar aviso al Superintendente, quien investigará la solvencia de la Compañía. Si comprobare que ésta subsiste, propondrá las medidas conducentes a que la Compañía prosiga en sus operaciones; pero si estimare que no es posible tal prosecución, dará aviso al Tribunal competente para que la quiebra siga su tramitación legal.
-
-El Superintendente deberá dar su resolución en el plazo de veintiún días, contados desde la fecha en que reciba la notificación de la solicitud de quiebra. Durante este plazo nadie podrá entablar contra la Compañía, acción judicial ejecutiva por cobro de pesos, y quedarán suspendidas todas las tramitaciones judiciales de la quiebra.
-
-Declarada la quiebra, el Superintendente o la persona que lo reemplace, actuará como Síndico con todas las facultades que al efecto confiere a los síndicos el Título Tercero de la ley 4,558, en cuanto fueren compatibles con las disposiciones de la presente Ley.
+DEROGADO.
 
 #### Artículo 38
 
-La liquidación de una compañía de seguros será practicada por el Superintendente o por el funcionario que éste designe, quienes tendrán todas las facultades, atribuciones y deberes que la ley impone y confiere a los liquidadores de sociedades anónimas.
-
-No obstante, el Superintendente podrá autorizar a una Compañía, cuando lo estime conveniente, para que practique su liquidación.
-
-Los gastos de liquidación serán de cuenta de la Compañía.
+DEROGADO.
 
 #### Artículo 39
 
-Las asociaciones que se pacten por las Compañías de Seguros, deberán ser aprobadas por el Presidente de la República, previo informe de la Superintendencia, la cual velará por el cumplimiento de las estipulaciones establecidas en los contratos.
-
-Cuando las asociaciones de que se trata no justifiquen su existencia o contraríen en cualquier forma los intereses generales del comercio de seguros, el Superintendente, por sí, o a petición conjunta de quince Compañías asociadas, a lo menos, podrá solicitar del Presidente de la República la revocación de su autorización.
+DEROGADO.
 
 #### Artículo 40
 
@@ -310,7 +494,7 @@ De las infracciones
 
 El pago de las cargas que la presente ley establece deberá efectuarse dentro del mes siguiente a la fecha del requerimiento.
 
-En caso de mora, el deudor incurrirá en los intereses señalados en el artículo 160, que hará efectivos la Tesorería Fiscal respectiva. La Superintendencia podrá ocurrir al Juzgado en lo Civil del Departamento de Santiago, solicitando el correspondiente mandamiento de ejecución y embargo. La liquidación firmada por el Superintendente, tendrá por sí sola suficiente mérito ejecutivo y, en juicio, no será admisible otra excepción que la de pago, acreditado por el certificado correspondiente de la Superintendencia.
+En caso de mora, el deudor incurrirá en los intereses y reajustes señalados en el artículo 53 del Código Tributario, los que hará efectivos la Tesorería Comunal respectiva. La Superintendencia podrá ocurrir al Juzgado en lo Civil del Departamento de Santiago, solicitando el correspondiente mandamiento de ejecución y embargo. La liquidación firmada por el Superintendente, tendrá por sí sola suficiente mérito ejecutivo y, en juicio, no será admisible otra excepción que la de pago, acreditado por el certificado correspondiente de la Superintendencia.
 
 #### Artículo 42
 
@@ -328,45 +512,23 @@ En caso de incumplimiento de las órdenes que ella les imparta en ejercicio de s
 
 2° En multa a beneficio fiscal, hasta un monto equivalente a 1.000 unidades de fomento. En caso de tratarse de infracción reiterada de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado. Para estos efectos, se entenderá que hay reiteración cuando se cometan dos o más infracciones entre las cuales no medie un período superior a doce meses.;
 
-3° En suspensión de la administación hasta por tres meses;
+3° En suspensión de la administración hasta por seis meses;
 
 4° En suspensión de todas o algunas de las operaciones hasta por seis meses; y
 
-5° En revocación de su autorización de existencia, decretada por el Presidente de la República.
+5° En revocación de su autorización de existencia, por resolución de la Superintendencia.
 
-Las multas que se impongan a las Compañías de Seguros, de acuerdo con el número 2°, afectarán personalmente a los administradores y Gerentes de ellas.
+Las sanciones señaladas en los números 1° y 2° podrán ser aplicadas a la sociedad o a las personas que ocuparen los cargos de directores, gerentes u otros apoderados a la época del hecho constitutivo de infracción, a menos que constare su falta de participación o su oposición al mismo.
+
+En el caso previsto en el número 5°, la Superintendencia, al momento de notificar la resolución de revocación, asumirá la administración de la compañía con el objeto de proceder a su liquidación, debiendo, simultáneamente, hacer tomar nota de esta circunstancia al margen de la inscripción de la sociedad y publicar, por una sola vez, un aviso en el Diario Oficial informando de este hecho.
 
 #### Artículo 45
 
-La Superintendencia también podrá sancionar a los Agentes y Corredores que contravengan las disposiciones legales y reglamentarias que regulen sus funciones.
-
-Las sanciones consistirán;
-
-1° En reconvención;
-
-2° En multa de hasta veinticuatro sueldos vitales mensuales, escala A) del departamento de Santiago;
-
-3° En suspensión de su cargo hasta por seis meses; y 4° En revocación de su autorización, no pudiendo ser propuesto nuevamente hasta después de transcurrido un año de la fecha de la revocación.
+La Superintendencia podrá sancionar a los agentes y corredores de seguros en los casos y en la forma establecida en el artículo 28 del decreto ley N° 3.538, de 1980.
 
 #### Artículo 46
 
-Las personas naturales o jurídicas que actúen en representación de aseguradores no establecidos legalmente en Chile, deberán solicitar a la Superintendencia su inscripción previa, de acuerdo a los requisitos que establezca el reglamento, para el ejercicio de sus actividades cuando:
-
-a) contraten o intermedien seguros sobre bienes situados permanentemente en Chile, en admisión temporal o en tránsito o sobre personas domiciliadas o residentes en el país;
-
-b) cuando intervengan como representantes o intermediarios dependientes o independientes de las entidades reaseguradoras extranjeras o como corredores inscritos en el Registro a que se refiere el artículo 16, y
-
-c) cuando se desempeñen como tasadores, liquidadores, comisarios de averías y peritos que operen en el país por cuenta de dichos aseguradores o reaseguradores.
-
-Las referidas personas deberán ajustarse en el ejercicio de sus actividades a las normas que, al efecto, dicte la Superintendencia.
-
-Las personas señaladas en las letras a) y b) del inciso primero, deberán declarar, trimestralmente, las operaciones que realicen, estén o no sujetas a impuesto y, el monto de los siniestros que afectan a las mismas.
-
-El que no cumpliere la obligación establecida en el inciso primero, será sancionado con presidio menor en su grado mínimo.
-
-El incumplimiento de las otras obligaciones establecidas en este artículo, será sancionado con una multa de hasta sesenta unidades de fomento por cada contravención.
-
-La Superintendencia podrá cancelar la inscripción para el ejercicio de las actividades de las personas a que se refieren las letras a) y b) del inciso primero, en caso de incumplimiento de la obligación de declarar que les impone el inciso tercero, si correspondiere; cuando, a su juicio exclusivo, sus procedimientos o los de sus mandantes no den garantías de seriedad, o en caso de incumplimiento de las normas dictadas por la Superintendencia.
+Las compañías aseguradoras extranjeras no podrán contratar seguros en Chile, sea directamente o a través de intermediarios. El que contravenga esta prohibición, actuando como representante de la entidad extranjera o como intermediario de contratos con ésta, será sancionado com presidio menor en su grado mínimo.
 
 #### Artículo 47
 
@@ -380,701 +542,307 @@ DEROGADO.
 
 #### Artículo 49
 
-El mismo procedimiento indicado en el artículo 41 se aplicará para hacer efectivo el pago de las multas que imponga la Superintendencia y que no fueren pagadas dentro de los quince días siguientes a la fecha de la resolución que las impone.
-
-Una copia de esta resolución, firmada por el Superintendente, servirá de título ejecutivo.
-
-El infractor que haya pagado la multa o la haya consignado ante el Juez Letrado en lo Civil que corresponda, podrá reclamar de su aplicación ante dicho Tribunal dentro del plazo de diez días, contados desde la notificación de la resolución. La reclamación se resolverá conforme al procedimiento establecido para los incidentes, previo informe del Superintendente.
+DEROGADO.
 
 #### Artículo 50
 
 Los Directores y empleados de una Compañía de Seguros, que ejecutaren o permitieren operaciones prohibidas por la presente Ley, responderán personalmente con sus bienes, de las pérdidas que dichas operaciones irroguen a la Compañía, sin perjuicio de las penas que correspondan en conformidad a la Ley.
 
+Los administradores y gerentes de las compañías de seguros tendrán las mismas responsabilidades y estarán sujetos a las mismas normas que los directores y gerentes, en su caso, de las sociedades anónimas abiertas.
+
 #### Artículo 51
 
-Si alguna persona o entidad ejerciera en cualquier forma el comercio de seguros o de reaseguros, contraviniendo las disposiciones de los Artículos 4 y 46, la Superintendencia, previa visación del Ministerio de Hacienda, podrá clausurar las oficinas o establecimientos en que se ejerciten esas actividades, para lo cual el Intendente o Gobernador respectivo, a petición del Superintendente, deberán suministrar el auxilio de la fuerza pública, sin perjuicio de incurrir en la sanción contemplada en el inciso primero del Artículo 467 del Código Penal.
+Si alguna persona o entidad ejerciera en cualquier forma el comercio de seguros o de reaseguros, contraviniendo las disposiciones de los Artículos 4 y 46, la Superintendencia podrá clausurar las oficinas o establecimientos en que se ejerciten esas actividades, para lo cual el Intendente o Gobernador respectivo, a petición del Superintendente, deberán suministrar el auxilio de la fuerza pública, sin perjuicio de incurrir en la sanción contemplada en el inciso primero del Artículo 467 del Código Penal.
 
 Las operaciones que se hubieren efectuado serán liquidadas por un liquidador designado por el Juez del Crimen que conociere de la denuncia respectiva.
 
-### Párrafo C — uarto
+## Título II
 
-De las Agencias de Compañías Extranjeras
+De la clasificación de instrumentos representativos de reservas técnicas y de patrimonio de riesgo
 
 #### Artículo 52
 
-Las agencias de compañías extranjeras radicadas en Chile, podrán continuar en sus operaciones sobre la base de su organización actual, y deberán conformarse en su giro en el país a los acuerdos y compromisos celebrados o que se celebren con el Presidente de la República. Tanto las del primer grupo como las del segundo, deberán mantener invertida en Chile, en la forma dispuesta en el artículo 21, una suma no inferior a 60.000 unidades de fomento, más la cantidad correspondiente a las reservas técnicas de los seguros contratados en el país.
-
-Las expresadas agencias quedarán sometidas a las disposiciones de esta ley, con excepción de lo dispuesto en el artículo 127, y podrán transformarse en cualquier tiempo en sociedades anónimas nacionales.
+Los instrumentos señalados en las letras b), c), d) y e) del artículo 21 deberán estar clasificados en alguna de las categorías A, B y C o como acciones de primera clase, según corresponda, para los efectos de ser representativos de reservas técnicas o de patrimonio de riesgo en su caso.
 
 #### Artículo 53
 
-DEROGADO.
+La clasificación de los instrumentos señalados en el artículo anterior deberá ser realizada por dos entidades clasificadoras de riesgo, en la forma prevista en la ley N° 18.045, sobre Mercado de Valores.
+
+Sin perjuicio de lo dispuesto en el inciso anterior las compañías podrán, para los efectos de esta ley, contratar directamente con las entidades clasificadoras, la clasificación de instrumentos que posean y que no se encuentren clasificados.
+
+Los contratos de clasificación que celebren las compañías deberán cumplir con los requisitos y exigencias contemplados en la ley N° 18.045 para estos actos.
 
 #### Artículo 54
 
-Las Compañías filiales de Agencias Extranjeras actualmente establecidas en Chile, serán consideradas, para los efectos de esta Ley, como Compañías Nacionales.
-
-Se reputarán como filiales las Compañías que acrediten que, al entrar en vigencia la Ley número 4,228, el setenta y cinco por ciento de las acciones pertenecía a una Compañía Extranjera.
+Las compañías deberán considerar la clasificación de instrumentos como indicativa de riesgo y diversificar sus inversiones atendiendo a las categorías de los mismos.
 
 #### Artículo 55
 
-Las agencias de compañías extranjeras de seguros practicarán en la misma fecha que las sociedades anónimas nacionales de seguros, un balance general y cuenta de ganancias y pérdidas de sus operaciones en Chile, y publicarán estos documentos y un inventario de inversiones en un diario del domicilio de la agencia dentro del plazo que fije la Superintendencia.
+Para los efectos de la diversificación de las inversiones de las compañías, las categorías de clasificación previstas en la ley N° 18.045, de los instrumentos señalados en las letras b), c) y d) del artículo 21, tendrán los factores que en cada caso se indican:
 
-## Título II
+Categoría A, con factor 1,0;
 
-De la Caja Reaseguradora
+Categoría B, con factor 0,8;
 
-#### Artículo 56°
+Categoría C, con factor 0,4;
 
-(DEROGADO)
+Categoría D, con factor 0, y Categoría E, con factor 0.
 
-#### Artículo 57°
+Respecto de los títulos accionarios, éstos serán calsificados como de primera o de segunda clase o sin información suficiente.
 
-(DEROGADO)
+Cuando un mismo instrumento tuviere clasificaciones discordantes, se preferirá la de categoría más baja y si se tratare de acciones, se entenderá que lo son de segunda clase, salvo que la Superintendencia, mediante norma de carácter general, establezca un procedimiento diferente teniendo en consideración el número de clasificaciones discordantes, las clasificaciones precedentes y otros que ésta determine para los efectos de la diversificación de las inversiones de las compañías.
 
-#### Artículo 58°
+#### Artículo 56
 
-(DEROGADO)
-
-#### Artículo 59°
-
-(DEROGADO)
-
-#### Artículo 60°
-
-(DEROGADO)
-
-#### Artículo 61°
-
-(DEROGADO)
-
-#### Artículo 62°
-
-(DEROGADO)
-
-#### Artículo 63°
-
-(DEROGADO)
-
-#### Artículo 64°
-
-(DEROGADO)
-
-#### Artículo 65°
-
-(DEROGADO)
-
-#### Artículo 66°
-
-(DEROGADO)
-
-#### Artículo 67°
-
-(DEROGADO)
-
-#### Artículo 68°
-
-(DEROGADO)
-
-#### Artículo 69°
-
-(DEROGADO)
-
-#### Artículo 70°
-
-(DEROGADO)
-
-#### Artículo 71°
-
-(DEROGADO)
-
-#### Artículo 72°
-
-(DEROGADO)
-
-#### Artículo 73°
-
-(DEROGADO)
-
-#### Artículo 74°
-
-(DEROGADO)
-
-#### Artículo 75°
-
-(DEROGADO)
-
-#### Artículo 76°
-
-(DEROGADO)
-
-#### Artículo 77°
-
-(DEROGADO)
-
-#### Artículo 78°
-
-(DEROGADO)
-
-#### Artículo 79°
-
-(DEROGADO)
-
-#### Artículo 80°
-
-(DEROGADO)
-
-#### Artículo 81°
-
-(DEROGADO)
-
-#### Artículo 82°
-
-(DEROGADO)
+Las compañías que hayan respaldado reservas técnicas o patrimonio de riesgo con acciones de sociedades en que el Estado, directamente o por intermedio de sus empresas, instituciones descentralizadas, autónomas o municipales u otra persona jurídica, mantuviere el cincuenta por ciento o más de las acciones suscritas y que, por su naturaleza, estén sometidas a normas especiales respecto a la fijación de tarifas o acceso a los mercados, podrán ejercer el derecho a retiro de la sociedad en los términos previstos en el artículo 69 bis de la ley N° 18.046, sobre Sociedades Anónimas.
 
 ## Título III
 
-De las Sociedades Anónimas
+De las sociedades cuyas acciones pueden ser representativas de reservas técnicas y patrimonio de riesgo
 
-Párrafo Primero
+1.- De las sociedades cuyas acciones pueden ser representativas de las reservas técnicas y del patrimonio de riesgo de las compañías del primer grupo.
 
-De las obligaciones y atribuciones de la
+#### Artículo 57
 
-Superintendencia.
+Las reservas técnicas y el patrimonio de riesgo de las compañías del primer grupo podrán estar respaldados por inversiones en acciones debidamente clasificadas como acciones de primera clase según la ley N° 18.045, emitidas por sociedades anónimas abiertas.
 
-#### Artículo 83
+Sin embargo, estas compañías no podrán respaldar las reservas técnicas y el patrimonio de riesgo con acciones de las siguientes sociedades:
 
-Son obligaciones y atribuciones de la Superintendencia en lo que respecta a las Sociedades Anónimas:
+a) sociedades administradoras de fondos de pensiones, sociedades administradoras de fondos mutuos, institucciones de salud previsional y compañías de seguros salvo si se tratare de compañías de reaseguro, y b) sociedades deportivas o educacionales y aquellas cuyo objeto sea la prestación de beneficios de carácter social a sus socios.
 
-a) Autorizar la existencia, aprobar los estatutos y sus modificaciones, aprobar la prórroga del plazo de duración y la disolución anticipada, y revocar la autorización de existencia; autorizar o permitir que una sociedad anónima extranjera establezca agencia en Chile y cancelar dicha autorización; teniendo a la vista en todos estos casos los documentos que acrediten haberse dado cumplimiento a las disposiciones legales y reglamentarias vigentes;
+2.- De las sociedades cuyas acciones pueden ser representativas de reservas técnicas y de patrimonio de riesgo de las compañías del segundo grupo.
 
-b) Fiscalizar las operaciones de las sociedades, pudiendo revisar los libros de contabilidad y documentación en general, hacer arqueos, pedir la ejecución y presentación de balances en las fechas que estime conveniente y, en general, solicitar todos los datos y antecedentes que le permitan imponerse del desarrollo de los negocios sociales;
+#### Artículo 58
 
-c) Velar por el cumplimiento de las disposiciones legales y reglamentarias relativas a las sociedades anónimas y por el de los estatutos sociales, debiendo representar al Directorio y Gerente las infracciones o actos de que tenga conocimiento durante su acción fiscalizadora o con ocasión de las denuncias que se formulen y que, a su juicio, sean violatorias de tales disposiciones o estatutos o gravemente perjudiciales para la sociedad. Si éstos no subsanaren los reparos de la Superintendencia, ésta podrá suspender la ejecución de las actuaciones reparadas, pudiendo citar, en tal caso, a una Junta de Accionistas para que conozca de dichos actos o infracciones. La Superintendencia podrá, además, hacer las denuncias que estimare procedentes y aplicar las multas y demás sanciones previstas en la ley;
+Las compañías del segundo grupo podrán respaldar sus reservas técnicas y el patrimonio de riesgo con acciones de sociedades que puedan ser adquiridas por las del primer grupo. Sin embargo, en este caso, las acciones deberán ser emitidas por sociedades anónimas abiertas que simultáneamente cumplan las siguientes condiciones:
 
-d) Citar a Juntas Generales de Accionistas, cuando requerido el Directorio al efecto se hubiere negado a hacerlo. Podrá asimismo, y ante la negativa del Directorio, suspender la citación a Junta de Accionistas y la Junta misma, cuando fueren contrarias a la ley o a los estatutos;
+a) el capital contable neto consolidado de la sociedad debe representar, como proporción del patrimonio consolidado, al menos un sesenta y cinco por ciento, salvo que se trate de bancos o instituciones financieras o entidades reaseguradoras nacionales;
 
-e) Hacerse representar en toda Junta de Accionistas cuando lo estime prudente, para cuyo efecto los Gerentes de cada sociedad deberán comunicarle con la debida oportunidad y por carta certificada las fechas en que se celebraren las Juntas de Accionistas Ordinarias y Extraordinarias;
+b) ninguna persona o grupo de personas con acuerdo de actuación conjunta, podrá poseer más de un sesenta por ciento de las acciones suscritas de la sociedad;
 
-f) Fijar el mínimo de capital que debe tener una Sociedad Anónima al constituirse; comprobar, en cualquier momento, la exactitud e inversión de los capitales y fondos, y vigilar que se constituya el fondo de reserva legal;
+c) tener a lo menos 100 accionistas minoritarios cada uno de los cuales deberá ser dueño de un mínimo equivalente a 200 unidades de fomento en acciones, según el valor que se les haya fijado en el último balance, y d) los estatutos sociales deben contemplar normas permanentes que impidan que la sociedad se encuentre en alguna de las situaciones previstas en este título.
 
-g) Comprobar, cuando lo estime conveniente, la exactitud de los informes y la valorización de todo aporte que no consista en dinero;
+Lo dispuesto en el inciso anterior no será aplicable a aquellas acciones emitidas por sociedades anónimas en que el Estado, por sí o a través de o en conjunto con sus empresas o instituciones descentralizadas, autónomas o municipales u otras personas jurídicas, posea más del sesenta por ciento de las acciones suscritas.
 
-h) Fijar las normas generales para la confección de las memorias y balances y comprobar su cumplimiento;
+Además, se aceptarán como representativas de reservas técnicas y de patrimonio de riesgo de las compañías del segundo grupo las acciones que, cumpliendo lo señalado en el artículo anterior, puedan ser adquiridas con los recursos de los fondos de pensiones.
 
-i) Establecer el mínimo de accionistas que deberán tener las Sociedades Anónimas de inversión o de rentas;
+#### Artículo 59
 
-j) Revocar la autorización de existencia de la sociedad en los casos previstos por la ley o cuando de las investigaciones que se practiquen resulte que la administración se ha llevado en forma fraudulenta o manifiestamente descuidada;
+Las modificaciones a los estatutos sociales en aquellas materias acordadas con el objeto de dar cumplimiento a la letra d) del inciso primero del artículo 58, requerirán del voto conforme de los dos tercios de las acciones emitidas con derecho a sufragio.
 
-k) Informar a las instituciones de crédito del Estado sobre las sociedades que deseen realizar operaciones de crédito;
+#### Artículo 60
 
-l) Intervenir en las liquidaciones y peticiones de declaración de quiebra de las sociedades, en la forma que establece el párrafo quinto del Título III de la presente ley;
+Con el propósito de mantenerse dentro de los límites de descentralización de la propiedad accionaria establecidos en el artículo 58, la sociedad emisora de las acciones a que se refiere dicho artículo, deberá contemplar en sus estatutos que ningún accionista podrá sobrepasar los límites de concentración de la propiedad establecidos en esta ley y, en el evento de que ello llegue a ocurrir, la sociedad sólo podrá inscribir a nombre del respectivo accionista el número de acciones hasta completar el referido límite. Si quedare un remanente de acciones que no se pudieron inscribir, la sociedad deberá notificar al respectivo accionista, dentro del plazo de 15 días contado desde la fecha de la inscripción, a fin de que enajene tales acciones.
 
-m) Resolver, en casos calificados, en el carácter de árbitro arbitrador sin ulterior recurso, las dificultades que se susciten entre los accionistas y entre éstos o terceros con la Sociedad, cuando las partes de común acuerdo lo soliciten;
+Igual procedimiento se seguirá respecto a las opciones para suscribir acciones de aumento de capital de la sociedad y de bonos convertibles en acciones, en los términos del artículo 25 de la ley N° 18.046.
 
-n) Resolver en el mismo carácter las dificultades que se produzcan con motivo del acuerdo del Directorio de una Sociedad de no dar curso a un traspaso hecho de conformidad a la ley;
+#### Artículo 61
 
-ñ) Velar por que los organizadores o administradores de una sociedad que no alcanzare a obtener su autorización restituyan todas las sumas que hubieren recibido por las acciones suscritas y todos los aportes que se hubieren hecho a la Sociedad; y aplicar las sanciones correspondientes, y
+Las sociedades a que se refiere este párrafo también deberán contemplar en sus estatutos disposiciones que prohíban a los accionistas o a sus mandatarios ejercer, por sí o en la representación que invistan, el derecho a voto por más de un sesenta por ciento de las acciones suscritas de la sociedad. Para el cálculo de dicho porcentaje deberán sumarse a las acciones del accionista de que se trate, las que sean de propiedad de personas que tengan acuerdo de actuación conjunta.
 
-o) Ejercer las demás facultades y cumplir las demás obligaciones que le correspondan de conformidad con las leyes especiales.
+Lo establecido en el inciso anterior y en el artículo 60 no se aplicará al Estado como accionista, cuando éste, por sí o a través de o en conjunto con sus empresas o instituciones descentralizadas, autónomas o municipales u otras personas jurídicas, posea más del sesenta por ciento de las acciones suscritas del emisor.
 
-#### Artículo 84
+#### Artículo 62
 
-La Superintendencia enviará al Ministerio de Hacienda, en el mes de Marzo de cada año, una Memoria correspondiente al año anterior acerca de la organización de nuevas Sociedades y del funcionamiento de las ya existentes, haciendo mención especial del movimiento de capitales, del reparto de las utilidades y demás antecedentes que puedan servir al Presidente de la República para formarse cabal juicio de la capacidad ecónomica de las empresas que están bajo la supervigilancia de la Superintendencia. Esta Memoria formará parte de los anexos de la del Ministerio de Hacienda.
+La Superintendencia estará facultada para exigir a las sociedades anónimas objeto de este Título el envío de los antecedentes necesarios para determinar el cumplimiento de los requisitos establecidos anteriormente, especialmente respecto de las situaciones previstas en el Título XV de la ley N° 18.045.
 
-#### Artículo 85
+#### Artículo 63
 
-La Superintendencia practicará visitas a las Sociedades sujetas a su vigilancia, imponiéndose detenidamente del movimiento de la caja social, de la contabilidad, de los libros de actas, registro de accionistas y de toda la documentación y antecedentes que estime necesarios, velando especialmente por la observancia de la ley, estatutos sociales y reglamentos.
+No obstante lo dispuesto en las letras
 
-El personal de la Superintendencia estará obligado a guardar la más estricta reserva acerca de los documentos, contabilidad, actas y demás antecedentes de la Sociedad que inspeccione. Los funcionarios de la Superintendencia no podrán prestar servicios a las Sociedades sometidas a la fiscalización de ella.
+- **b)** y
 
-Párrafo Segundo
+- **c)** del artículo 58, las compañías del segundo grupo también podrán respaldar sus reservas técnicas y patrimonio de riesgo con acciones de sociedades a que se refiere este párrafo, siempre que éstas hayan contraído un compromiso de desconcentración en los términos de los artículos 124, 125, 126 y 127 del decreto ley N° 3.500, de 1980, en lo que les fueren aplicables con el o los accionistas que la hacen incurrir en situación de concentración sobre el límite de la letra
 
-Disposiciones generales
+- **b)** ya citada y, además, contemplen en sus estatutos que será materia de junta ordinaria de accionistas la aprobación de las políticas de inversiones, de financiamiento y de dividendos de la sociedad, las que deberán ser previamente aprobadas por las dos terceras partes de los directores en ejercicio; los estatutos sólo podrán ser modificados en esta materia con el quórum establecido en el artículo 59.
 
-#### Artículo 86
+Las políticas de inversiones, de financiamiento y de dividendos constituirán el marco de referencia dentro del cual deberá actuar la sociedad. El quórum que se requerirá para su aprobación será de los dos tercios de las acciones con derecho a voto y las materias sobre las que deberán versar las políticas se señalarán en sus estatutos, debiendo en todo caso contemplar las siguientes materias:
 
-Las Sociedades deberán ser precedidas en su formación por un prospecto, folleto o circular, firmado por sus organizadores, prospecto que será depositado en las oficinas de la Superintendencia e inscrito por orden numérico en un libro que al efecto deberá llevarse en dicha oficina.
+a) El límite de las inversiones que, directamente o a través de sus filiales, pueda hacer la sociedad en instrumentos representativos de deuda o de capital emitidos por sociedades del mismo grupo empresarial;
 
-Efectuado el depósito y la inscripción, se dará al interesado un certificado en el que se haga constar estos hechos. Desde la fecha de dicho certificado se considerará que la Sociedad tiene personalidad jurídica para el sólo efecto de realizar los trámites conducentes a obtener su autorización de existencia y los actos administrativos que tengan como único objeto trabajos preparatorios u otras operaciones necesarias al planteamiento de la Sociedad.
+b) El límite de los préstamos o créditos que pueda otorgar la sociedad a sus filiales o a entidades del mismo grupo empresarial;
 
-El certificado deberá insertarse en la correspondiente escritura social. Los Notarios velarán por el cumplimiento de esta disposición.
+c) Los límites a las facultades de la administración para la suscripción, modificación o revocación de contratos de compra, venta o arrendamiento de bienes y servicios que sean esenciales para el normal funcionamiento de la sociedad y sus filiales;
 
-Cuando, a contar desde la fecha del certificado expedido por la Superintendencia, de conformidad con lo prescrito en el inciso 2° de este Artículo, hubiere transcurrido más de dos años sin que se solicitare la autorización de existencia de la Sociedad, el certificado y la escritura pública en que se hubiere insertado, quedarán nulos.
+d) El nivel máximo de endeudamiento y las atribuciones de la administración para convenir con acreedores restricciones al reparto de dividendos, para el otorgamiento de cauciones y para la enajenación de los activos que se declaren esenciales para el funcionamiento de la sociedad, y
 
-#### Artículo 87
+e) Las áreas de inversión y los límites máximos en cada una de éstas, especificando la participación en el control de las mismas.
 
-Los prospectos, folletos o circulares a que se refiere el Artículo anterior deberán contener:
+Los estatutos de la sociedad deberán contemplar, además, el derecho a retiro del accionista minoritario en caso de incumplimiento del compromiso de desconcentración o de oposición a la política que se apruebe en la respectiva junta de accionistas.
 
-a) El nombre, apellido, profesión y domicilio de los socios organizadores, entendiéndose por tales los que firmen el prospecto;
+#### Artículo 64
 
-b) El nombre y domicilio de la Sociedad;
-
-c) La enunciación clara, precisa y completa del objeto específico de la sociedad del cual toma su denominación y de las actividades que realizará para tal fin;
-
-d) El capital de la Sociedad, el número y clase de acciones en que es dividido, y la forma y plazo en que los socios deban consignar su importe en la Caja Social;
-
-e) El valor que se atribuye a las propiedades que constituyen aporte de capital, con indicación de los títulos que comprueben su dominio;
-
-f) Una síntesis de los informes periciales acerca de los diversos aportes no consistentes en dinero;
-
-g) El número de acciones asignadas a los organizadores y lo que se destine para gastos de formación de la Sociedad;
-
-h) La garantía que se exigirá para desempeñar los cargos de Director y el monto de la remuneración.
-
-#### Artículo 88
-
-Los originales de los informes técnicos o periciales de que hace mención el Artículo anterior se depositarán junto con los prospectos en la Superintendencia y sus autores previamente deberán firmarlos ante Notario, declarando que se constituyen legalmente responsables de las apreciaciones en ellos contenidas.
-
-#### Artículo 89
-
-La suscripción del capital social y el pago de la cantidad exigida en la resolución de autorización de existencia, se efectuarán y comprobarán, respectivamente, con las escrituras públicas de adhesión que complementen la escritura social y con los certificados bancarios de depósito a favor de la Sociedad. La Superintendencia de Sociedades Anónimas podrá efectuar además, las comprobaciones que estime necesarias.
-
-Sin embargo, tratándose de Sociedades que coloquen sus acciones en el público, la adhesión a la escritura social podrá efectuarse mediante instrumento privado.
-
-#### Artículo 90
-
-Los gastos de formación o de aumento de capital de una sociedad, incluyéndose en ellos los que se ocasionen con motivo de la colocación de acciones en el público, deberán ser previamente aprobados por la Superintendencia.
-
-#### Artículo 91
-
-Los organizadores y administradores de una Sociedad Anónima que no obtenga autorización de existencia serán personal y solidariamente responsables de las restituciones de aportes que proceda efectuar y de los gastos en que hubieren incurrido, sin que puedan imputar estos últimos al valor de los aportes que deban restituir.
-
-La Superintendencia podrá exigir a los organizadores, en conformidad al Reglamento, que caucionen su responsabilidad con anterioridad al otorgamiento del certificado de depósito del Prospecto.
-
-#### Artículo 92
-
-Si la sociedad se disolviere por reunirse todas las acciones en manos de una sola persona, o porque el número de sus accionistas disminuyere del mínimo a que se refiere el artículo 83 letra i), o por el vencimiento del plazo de su duración sin haberse solicitado oportunamente su prórroga, el Directorio consignará estos hechos por escritura pública dentro del plazo de 30 días de producidos, y en el mismo plazo esa escritura se publicará por una sola vez en el Diario Oficial y se inscribirá en el Registro de Comercio que corresponde. Copia de esta escritura como también la constancia de su inscripción y publicación se remitirán a la Superintendencia de Sociedades Anónimas.
-
-La falta de cumplimiento de las exigencias establecidas en el inciso anterior harán personal y solidariamente responsables a los administradores por los daños y perjuicios que se causaren por ese incumplimiento.
-
-En todo caso, si dentro del plazo señalado no se hubiere acordado el cumplimiento de los requisitos establecidos en el inciso primero de este artículo, cualquier director, accionista o tercero podrá solicitar a la Superintendencia que se efectúen los trámites allí exigidos.
-
-#### Artículo 93
-
-Las acciones que a título de remuneración por los servicios prestados correspondan a los organizadores y las que reciban las personas por los aportes que hubieren hecho a la sociedad no consistentes en dinero, no podrán ser transferidas antes del plazo de dos años, contado desde la fecha de la resolución de autorización de existencia de la sociedad.
-
-Estas acciones permanecerán durante todo el tiempo a que se refiere el inciso anterior depositadas en la Caja Social.
-
-Las disposiciones de los incisos anteriores no serán aplicables en el caso de aportes de los bienes y derechos que las actuales sociedades anónimas hagan a otras sociedades anónimas autorizadas o a las que se organicen con el objeto de fusionar o de reunir en una sola sociedad anónima negocios similares. Tampoco se aplicarán a los negocios o empresas que se transformen en sociedades anónimas, siempre que a la fecha del aporte hayan completado, a lo menos, dos años de operaciones y exigencia legal.
-
-#### Artículo 94
-
-Las sociedades anónimas podrán disminuir su capital mediante reforma de sus estatutos.
-
-La Superintendencia podrá autorizar la disminución de capital siempre que no haya reservas sociales o utilidades acumuladas y que aparezca que la parte del capital que se trata de disminuir es innecesaria para los fines sociales.
-
-#### Artículo 95
-
-No podrán ser directores ni gerentes de una sociedad anónima:
-
-a) Los menores de 21 años;
-
-- **b)** Los Directores, Gerentes, Sub-gerentes o apoderados generales de instituciones bancarias, de las Sociedades colocadoras de acciones a que se refiere la ley N° 16.394 y de las Sociedades regidas por el D.F.L. N° 324, de 1960. Esta prohibición no se aplicará a los directores de instituciones bancarias cuya designación provenga de la aplicación de una disposición legal:
-
-- **c)** Los Senadores y Diputados;
-
-- **d)** Los Ministros y Subsecretarios de Estado, Jefes de Servicio, con excepción de los cargos de Director de las sociedades anónimas en las que el Estado, según la ley, debe tener representantes en su administración o sea accionista mayoritario, directamente o a través de organismos de administración autónoma, empresas fiscales, semifiscales o de administración autónoma;
-
-- **e)** Los miembros de las Mesas Directivas Centrales de los Partidos Políticos;
-
-- **f)** Los Directores, gerentes, subgerentes y apoderados generales de las Asociaciones de Ahorro y Préstamo, en las Sociedades Anónimas cuyo objeto sea la construcción;
-
-- **g)** Los funcionarios de la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, y
-
-- **h)** Los corredores de Bolsa, salvo en las Bolsas de Valores y en aquellas sociedades que no coticen sus acciones en Bolsa.
-
-El director o gerente de sociedad anónima que adquiera una calidad que lo inhabilite para desempeñar dicho cargo, de acuerdo con lo que establece el inciso precedente, cesará automáticamente en él dentro de un mes contado desde la fecha en que acepte, expresa o tácitamente, su nueva calidad.
-
-#### Artículo 96
-
-Ninguna persona podrá ser Director de más de tres Sociedades Anónimas, incluídas las Compañías de Seguros, no computándose en esta limitación hasta dos Sociedades filiales o Sociedades complementarias de aquellas a que se refiere el artículo 103 de la ley N° 13.305.
-
-Las personas elegidas o designadas Directores de un número mayor de Sociedades que el señalado en el inciso primero de este artículo, deberán optar por los cargos de Director que deseen conservar, dentro del plazo de 30 días contado desde la fecha en que se procedió a su elección o designación. En caso contrario, las elecciones o designaciones de Director que excedan de dicho máximo serán nulas de pleno derecho. De igual nulidad adolecerán las designaciones y elecciones que contravengan el artículo anterior. En ambos casos los administradores responderán solidariamente frente a terceros de los actos ejecutados o contratos celebrados por la Sociedad en esas circunstancias.
-
-Las limitaciones indicadas en este artículo y en el precedente no regirán respecto de las Sociedades Anónimas cuyas finalidades se relacionan exclusivamente con actividades deportivas, educacionales, de beneficencia u otras semejantes, en las que sus Directores no reciban remuneración.
-
-Por decreto supremo fundado del Ministerio que corresponda, podrá excepcionarse a determinada persona de la obligación establecida en el inciso primero de este artículo, para que pueda ejercer el cargo de director de una sociedad anónima, cuando la mayoría de las acciones de dicha sociedad anónima pertenezca al sector público.
-
-#### Artículo 97
-
-Los Estatutos de las sociedades anónimas deberán establecer un número invariable de directores y la renovación total del Directorio al final de su período, el que no podrá exceder de tres años. Los Directores podrán ser reelegidos en sus funciones.
-
-#### Artículo 98
-
-Para responder del fiel desempeño de su cargo, cada Director de una sociedad anónima deberá constituir una garantía en dinero efectivo, póliza de seguro o boleta bancaria, por una cantidad no inferior a un sueldo vital anual, escala A), del departamento de Santiago. Podrá también otorgarse esta garantía con prenda constituida sobre acciones calificadas de primera clase por la Superintendencia y por un valor equivalente a dicho sueldo vital anual, o en fianza del Estado o del organismo o empresa representado cuando estas entidades sean de aquellas a que se refiere la letra d) del artículo 95.
-
-La garantía deberá constituirse y mantenerse por un plazo no inferior a un año contado desde la fecha en que el Director ha cesado en su cargo.
-
-No será necesario acreditar ante terceros la constitución de la garantía en los casos en que los Estatutos exijan su constitución previa para desempeñar el cargo de Director.
-
-#### Artículo 99
-
-En todas las elecciones que se efectúen en las Juntas de Accionistas, éstos dispondrán de un voto por acción que posean o representen y podrán acumularlos en favor de una sola persona o distribuirlos en la forma que lo estimen conveniente. Resultarán elegidas las personas que, en una misma y única votación, obtengan el mayor número de votos hasta completar el número de personas por elegir.
-
-#### Artículo 100
-
-Los accionistas podrán hacerse representar en las Juntas por otros accionistas, por medio de una carta poder dirigida a la Sociedad. El texto de estas cartas poderes será fijado por la Superintendencia.
-
-Podrán también hacerse representar por una persona que no sea accionista; pero en este caso el mandato deberá otorgarse en carta poder firmada ante Notario o por escritura pública.
-
-Las cartas poderes que no designen el nombre del mandatario de puño y letra del poderdante, se entenderán otorgadas a los directores, y serán distribuidas entre todos los directores en ejercicio, por iguales partes en relación al número de acciones que dichos poderes representen.
-
-La Superintendencia podrá ordenar, a solicitud de accionistas de la Sociedad, que los poderes sean calificados, en la forma que aquélla determine, antes de la celebración de una Junta de Accionistas. En este caso sólo podrán ser presentados en la Junta los poderes así calificados.
-
-El Superintendente o el delegado que designe al efecto podrá resolver administrativamente cualquiera cuestión que se suscite en una Junta de Accionistas, sea con relación a la calificación de poderes o a cualquiera otra que pueda afectar a la legitimidad de la Asamblea.
-
-#### Artículo 101
-
-Si por cualquiera causa no se celebrare en la época establecida la asamblea de accionistas llamada a hacer la elección periódica de los directores, se entenderán prorrogadas las funciones de los que hubieren cumplido su período hasta que se les nombre reemplazantes, y el Directorio estará obligado a provocar, a la brevedad posible, una asamblea para hacer el nombramiento.
-
-#### Artículo 102
-
-La remuneración de los Directores deberá estar fijada en los Estatutos de la Sociedad y no podrá exceder por cada Director, de un 1% de las utilidades del ejercicio ni tampoco del 3% de los dividendos repartidos durante el transcurso del mismo, en dinero efectivo o en acciones liberadas, de conformidad con los artículos 112 y 113.
-
-En ningún caso la remuneración del Directorio, en conjunto, podrá exceder del 5% de las utilidades de la sociedad ni tampoco del 15% de los dividendos repartidos en dinero o en acciones liberadas en el transcurso del ejercicio correspondiente.
-
-Lo dispuesto en los incisos anteriores se entiende sin perjuicio de la dieta por asistencia a sesiones que los Estatutos fijen a los Directores.
-
-Cualquiera otra remuneración de los Directores, por funciones o empleos distintos del ejercicio de su cargo, sea a título de sueldo, honorarios, viáticos o asignaciones como delegados del Directorio, u otros estipendios en dinero, especies o regalías de cualquiera clase, incluídos los gastos de representación, deberá ser autorizada o aprobada por la Junta de Accionistas, debiendo constar en la memoria el nombre y apellidos de cada uno de los directores que hayan percibido dichas remuneraciones.
-
-#### Artículo 103
-
-El Gerente que no sea Director de la Sociedad tendrá sólo derecho a voz en las reuniones del Directorio, y responderá con los miembros de él de todos los acuerdos ilegales o perjudiciales para los intereses sociales, cuando no dejare constancia en acta de su opinión contraria.
-
-#### Artículo 104
-
-Los Directores que tuvieren interés, por sí o como representantes de otra persona, en una operación determinada, deberán comunicarlo a los demás Directores y abstenerse de toda deliberación sobre dicha operación. Los acuerdos respectivos se tomarán con prescindencia del Director o Directores implicados y serán dados a conocer en la primera Junta Ordinaria de Accionistas. No se entenderá que actúan como representantes de otra persona los Directores de las sociedades filiales designados por la matriz, ni aquellos que representan, al Estado o a los organismos o empresas a que se refiere la letra d) del artículo 95.
-
-Se presume de derecho que hay interés de un Director en toda negociación, acto, contrato u operación en la que deba intervenir él mismo, su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad, o las empresas en las cuales sea Director o dueño de un 10% o más de su capital.
-
-#### Artículo 105
-
-El Director que no concurriere a tres sesiones consecutivas sin causa calificada como suficiente por el Directorio, cesará de pleno derecho en el ejercicio de su cargo y deberá ser reemplazado sin más trámite. En igual sanción incurrirá el Director que se ausentare del país por más de tres meses.
-
-Se exceptúan de esta regla los Directores a quienes les fuere encomendada, para llevar a cabo durante su ausencia, una misión específica por la sociedad por razones de conveniencia social.
-
-#### Artículo 106
-
-Las funciones de Director de una sociedad anónima no son delegables.
-
-El Directorio, de acuerdo con los Estatutos Sociales, podrá delegar parte de sus facultades en los Gerentes, Subgerentes o abogados de la sociedad, en un Director o en una Comisión de Directores, y para objetos especialmente determinados, en otras personas.
-
-#### Artículo 107
-
-Una sociedad anónima sólo podrá adquirir para sí sus propias acciones siempre que éstas se coticen en Bolsa y cuando, previa autorización de una Asamblea Extraordinaria de Accionistas y de la Superintendencia, la adquisición se haga con las utilidades líquidas o con fondos formados con éstas.
-
-No obstante, en casos calificados, la Superintendencia podrá autorizar a las sociedades para adquirir sus propias acciones cuando éstas no se coticen en Bolsa siempre que, reunidos los demás requisitos señalados, la adquisición se acuerde por el 75% de las acciones emitidas.
-
-#### Artículo 108
-
-Las acciones preferidas podrán tener derecho para que, de las utilidades sociales declaradas por la Asamblea de Accionistas y disponibles para dividendos, se les pague preferentemente un interés sobre su valor nominal.
-
-Podrán, asimismo, tener derecho a que, si las utilidades líquidas de un ejercicio social no fueren suficientes para pagar en todo o en parte el monto de los intereses estipulados, ellos sean cubiertos preferentemente, sin intereses, con las utilidades líquidas de los ejercicios siguientes que la Asamblea de Accionistas declare disponibles para dividendos.
-
-Además, podrá estipularse en su favor que el valor de su aporte e intereses devengados sean pagados preferentemente a las acciones ordinarias en la liquidación de la sociedad.
-
-Estas acciones podrán también tener derecho a un mayor o menor número de votos en las Asambleas de Accionistas, según lo establecieren los Estatutos sociales.
-
-Las reformas de Estatutos que tengan por objeto la creación, modificación o supresión de preferencias, deberán ser aprobadas con el voto conforme de las dos terceras partes de las acciones de la serie afectada. Las reformas de Estatutos que modifiquen aspectos esenciales del contrato social deberán ser aprobadas con el voto conforme de las dos terceras partes de las acciones emitidas.
-
-Las preferencias indicadas en este artículo y las demás que contemplasen los Estatutos sociales, serán calificadas y aprobadas por la Superintendencia.
-
-Art.109. La Superintendencia podrá autorizar, en casos calificados por ella y en las condiciones que señale, el establecimiento de acciones sin derecho a voto o con derecho a voto limitado a determinados actos de la administración social.
-
-Las acciones sin derecho a voto no se computarán para el cálculo de los quórum de sesión o de votación en las Juntas de Accionistas.
-
-#### Artículo 110
-
-Las Sociedades Anónimas destinarán en las utilidades líquidas de cada ejercicio una cuota no inferior al 5% ni superior al 40% de ellas para formar el fondo de reserva legal, cuyo monto será igual, a lo menos, al 20% del capital social y los fondos de revalorización.
-
-#### Artículo 111
-
-Las Sociedades Anónimas podrán repartir dividendos antes de completar su fondo de reserva legal, siempre que se destine a éste la cuota mínima de las utilidades que, de conformidad con el artículo anterior, determinen los Estatutos.
-
-#### Artículo 112
-
-El saldo de las utilidades líquidas, descontada la cuota que se destina para fondos especiales, que no podrá ser superior al 30% de ellas, se distribuirá como dividendo en dinero entre los accionistas a prorrata de sus acciones o en la proporción que establezcan los estatutos si hubiere acciones preferidas.
-
-#### Artículo 113
-
-Sin perjuicio de lo dispuesto en el artículo anterior, la Junta Ordinaria con el voto conforme de accionistas que representen las dos terceras partes, a lo menos, de las acciones emitidas, podrá acordar distribuir la totalidad o parte del saldo a que se refiere dicho artículo mediante el reparto de acciones liberadas, correspondientes a un aumento de capital ya aprobado por la Junta General Extraordinaria. Este reparto deberá efectuarse dentro del plazo de un año, contado desde la fecha del acuerdo respectivo. Vencido este plazo sin haberse procedido al reparto deberá hacerse la distribución del dividendo en dinero.
-
-La sociedad podrá cumplir con la obligación de pagar dividendos otorgando opción a sus accionistas para recibirlo en efectivo, en bienes o en acciones liberadas, en las condiciones que apruebe la Superintendencia.
-
-En el caso de existir usufructo sobre las acciones, el ejercicio del derecho de opción corresponderá al usufructuario.
-
-#### Artículo 114
-
-La Sociedad Anónima se entenderá subsistente como persona jurídica para los efectos de su liquidación y se le aplicarán los estatutos en lo que le conciernan.
-
-#### Artículo 115
-
-Los organismos técnicos del Estado deberán evacuar los informes que solicite la Superintendencia destinados a comprobar la exactitud de los antecedentes técnicos o periciales que presenten las sociedades anónimas, o que se acompañen a los prospectos que preceden a su formación.
-
-En los casos en que dichas investigaciones no puedan verificarse por los expresados organismos, la Superintendencia podrá contratar los servicios de peritos o técnicos que estime necesarios.
-
-#### Artículo 116
-
-La Superintendencia podrá exigir de las Sociedades Anónimas, cuando lo estime necesario, que le remitan durante el tiempo que le indique, nóminas semanales de los traspasos de acciones con expresión de cantidad, precio y nombre de comprador y vendedor.
-
-#### Artículo 117
-
-Todo cambio en el Directorio de una Sociedad será publicado en un diario del domicilio social y comunicado a la Superintendencia.
-
-#### Artículo 118
-
-Las Sociedades remitirán a la Superintendencia una copia de su memoria, balance y cuenta de ganancias y pérdidas, con 15 días de anticipación, por lo menos, a la Junta de Accionistas que habrá de pronunciarse sobre ellos. Dentro del mismo plazo, deberán enviar a la Superintendencia la lista de sus accionistas, con indicación de sus domicilios y número de acciones.
-
-Las Sociedades publicarán sus balances y cuentas de ganancias y pérdidas, por una sola vez, en un diario del domicilio social con diez días de anticipación a la fecha en que se celebrará la Junta. Los balances deberán consignar los nombres del Presidente, Directores, Gerente e Inspectores de Cuentas de la sociedad, como asimismo, las transacciones de acciones de la misma efectuadas por dichas personas durante el ejercicio.
-
-Igualmente, las Sociedades deberán mantener, en el lugar destinado a la recepción del público, la lista de sus accionistas, con indicación de sus domicilios y número de acciones, debidamente actualizada.
-
-La Superintendencia de Sociedades Anónimas vigilará el cumplimiento de lo dispuesto en los incisos anteriores. Si el balance presentado por el Directorio fuere alterado, las modificaciones se publicarán en el mismo diario dentro de los 30 días siguientes a la celebración de la Junta.
-
-#### Artículo 119
-
-El valor de las acciones de pago deberá ser enterado en dinero efectivo.
-
-El Directorio o Gerente que aceptare otra forma de pago de dichas acciones, que la establecida en el inciso anterior, serán solidariamente responsables del valor que representen las acciones pagadas en otra forma.
-
-#### Artículo 120
-
-La Superintendencia llevará un registro alfabético en el que deberán inscribirse todas las sociedades con expresión de nombre, número y fecha de la resolución de autorización de existencia, capital social, domicilio legal, duración, fechas y números de las resoluciones de aprobación de reformas de estatutos, prórrogas de duración de la sociedad y disolución anticipada y revocación de la autorización de existencia. Este registro estará a disposición del público en el archivo de la Superintendencia.
-
-Llevará, además, un Registro público de Presidentes, Directores, Gerentes y liquidadores de las sociedades sujetas a su vigilancia. Para este efecto, dichas Sociedades deberán comunicarle todo nombramiento, vacancia o reemplazo que se produzca respecto de esos cargos. Las designaciones que consten de dicho Registro se considerarán vigentes para todos los efectos judiciales y extrajudiciales concernientes a simples accionistas o a terceros de buena fe.
-
-Párrafo Tercero
-
-De las Sociedades Filiales
-
-#### Artículo 121
-
-Sólo podrán constituirse sociedades filiales cuando ellas sean necesarias o conducentes al cumplimiento de alguno de los objetivos específicos de la Sociedad matriz. La Superintendencia calificará, en cada caso, el cumplimiento de esta condición.
-
-Se consideran sociedades filiales de una sociedad anónima aquellas cuyo capital con derecho a voto pertenezca en un 50% o más a dicha sociedad.
-
-Las sociedades filiales estarán sujetas a las siguientes normas:
-
-1°- No podrán adquirir acciones de la sociedad matriz ni acciones o derechos de las otras filiales de la misma empresa;
-
-2°- Los Directores de la sociedad matriz, aunque no sean miembros del Directorio de la sociedad filial o administradores de la misma, podrán asistir con derecho a voz a las reuniones de este organismo o de los administradores, en su caso, y tendrán, además, facultad para imponerse de los libros y antecedentes de esta última empresa;
-
-3°- Las operaciones de la sociedad filial en que algún director de la sociedad matriz u otra de las personas mencionadas en el inciso segundo del artículo 104 tuviere interés, según lo dispuesto en el mismo precepto, deberán ser autorizadas previamente por el Directorio de esta última, con abstención del Director implicado. El acuerdo que se adopte será dado a conocer en la primera Junta Ordinaria de Accionistas de ambas sociedades, y
-
-4°- La sociedad matriz deberá presentar a la Junta Ordinaria de sus accionistas, aparte de su memoria y balance, una memoria explicativa del conjunto de los negocios de ella y de sus filiales y darles a conocer los balances de estas últimas empresas.
-
-### Párrafo C — uarto
-
-De las Agencias de Sociedades Anónimas Extranjeras
-
-#### Artículo 122
-
-Las sociedades anóimas extranjeras no podrán establecer en el país, agencias, sin la autorización previa por resolución de la Superintendencia.
-
-#### Artículo 123
-
-La Superintendencia concederá a las sociedades anónimas extranjeras la autorización para establecer agencias en el país, requerida por el artículo anterior, siempre que en sus estatutos se establezcan disposiciones que garanticen los derechos de los terceros que contraten con la sociedad y se ajusten a las condiciones que a continuación se indican.
-
-#### Artículo 124
-
-La solicitud de autorización deberá ser acompañada de los siguientes documentos emanados del país en que tenga su domicilio la sociedad y debidamente legalizados:
-
-a) Copia auténtica de los estatutos, traducida al español si no estuviere en este idioma y visada por el cónsul chileno, de la escritura de constitución de la sociedad, de las demás piezas que indiquen cómo se ha formado el capital social y de los antecedentes que acrediten que la sociedad se encuentra legalmente constituida en el país de origen;
-
-b) Un poder general otorgado por la sociedad al agente que ha de representarla en el país, en el que se exprese de una manera terminante que el agente obra en Chile bajo la responsabilidad directa de la sociedad, con facultad de ejecutar operaciones en su nombre y en que se le otorguen expresamente las facultades a que se refiere el inciso segundo del artículo 7° del Código de Procedimiento Civil;
-
-c) Un estado de las erogaciones hechas por los accionistas para completar el capital social;
-
-d) Una copia autorizada del último balance de las operaciones sociales;
-
-e) Un certificado de subsistencia de la sociedad.
-
-#### Artículo 125
-
-El solicitante deberá declarar a nombre de la sociedad y con poder suficiente para ello:
-
-a) El nombre con que la sociedad funcionará en Chile, con expresión en español del objeto de ella;
-
-b) Que la sociedad conoce la legislación chilena y los reglamentos por los cuales habrán de regirse en el país, sus agencias, actos, contratos y obligaciones;
-
-c) Que los bienes de la sociedad quedan afectos a las leyes chilenas, especialmente para responder de las obligaciones que ella haya de cumplir en Chile;
-
-d) Que la sociedad se obliga a constituir un fondo especial con valores colocados y realizables en Chile para atender a las obligaciones que hayan de cumplirse en el país. Este fondo será determinado por la Superintendencia según la naturaleza de cada sociedad y se formará con la cuota de las utilidades de cada balance que indique el Decreto de autorización;
-
-e) Cuál es el capital efectivo que va a tener en el país para el giro de sus operaciones y la fecha y forma en que éste ha de ingresar en la caja de la agencia en Chile;
-
-f) Que se obliga a poner en conocimiento de la Superintendencia toda modificación que se opere en la organización social y a comunicar el cambio de representante, debiendo contener el nuevo poder, en todo caso, las exigencias señaladas en el inciso b) del artículo anterior, y
-
-g) Cuál es el domicilio de la agencia principal.
-
-#### Artículo 126
-
-La resolución que otorgue la autorización, los estatutos y el poder del agente serán inscritos en el Registro de Comercio correspondiente al domicilio de la agencia principal y publicados, por una sola vez, en el Diario Oficial y por tres veces en un diario del mismo domicilio, dentro del plazo de 60 días contado desde la fecha en que la Superintendencia de Sociedades Anónimas expida la respectiva Resolución.
-
-La Superintendencia podrá autorizar la publicación en extracto de los estatutos, cuando éstos sean demasiado extensos. El extracto será visado por la Superintendencia.
-
-#### Artículo 127
-
-El agente enviará a la Superintendencia una copia del balance de la agencia principal en Chile y otra del balance de la casa matriz, debidamente traducido.
-
-El balance de la agencia principal en Chile será publicado en el Diario Oficial.
-
-#### Artículo 128
-
-El permiso para establecer agencias en el país podrá ser revocado cuando la Superintendencia estimare que la sociedad no ofrece las mismas garantías que en la época de la autorización, sea por pérdida de una parte considerable del capital, o del fondo a que se refiere la letra d) del artículo 125, por modificaciones inconvenientes de los estatutos o por cualquiera otra causa.
-
-#### Artículo 129
-
-La Superintendencia podrá solicitar el auxilio de la fuerza pública, de quien corresponda, para clausurar las oficinas de las agencias de sociedades anónimas extranjeras que no hayan obtenido la autorización a que se refiere el artículo 122.
-
-Párrafo Quinto
-
-De las liquidaciones y quiebras de las Sociedades
-
-#### Artículo 130
-
-Si una sociedad anónima suspendiere el pago de sus obligaciones, el gerente dará aviso inmediato a la Superintendencia.
-
-#### Artículo 131
-
-Si algún acreedor se presentare a los Tribunales solicitando la declaración de quiebra, el Juzgado ante el cual se presentare la demanda, pondrá, el hecho en conocimiento de la misma oficina.
-
-En este caso o cuando recibiere el aviso a que se refiere el artículo anterior, la Superintendencia investigará la solvencia de la empresa; si comprueba que la solvencia subsiste, propondrá las medidas necesarias para que la empresa prosiga en sus operaciones; si estimare que no es posible tal prosecución, dará aviso al Tribunal competente para que la quiebra siga su tramitación en forma legal.
-
-#### Artículo 132
-
-La Superintendencia deberá dar su solución dentro del plazo de 21 días, contados desde que se reciba la noticia de la suspensión de pago o de la solicitud de quiebra. Durante este plazo nadie podrá deducir contra la sociedad de que se trate, acción judicial ejecutiva y quedarán suspendidas todas las tramitaciones judiciales de la quiebra.
-
-#### Artículo 133
-
-El Superintendente en casos calificados y a petición de accionistas que representen el 20% del capital social, podrá tomar a su cargo por sí o por medio de alguno de los empleados del Servicio, que indique, la liquidación de cualquiera de las empresas sujetas a su vigilancia y al efecto tendrá las facultades, atribuciones y deberes que la ley impone y confiere a los liquidadores.
-
-#### Artículo 134
-
-El Superintendente resolverá como árbitro arbitrador, sin ulterior recurso, las dificultades que se susciten entre los liquidadores en el ejercicio de sus funciones, en los casos calificados que él determine.
-
-#### Artículo 135
-
-Las funciones de liquidador a que se refiere el artículo 133 no tendrán remuneración especial. Sin embargo, los gastos de la liquidación, cuando la efectuare la Superintendencia, serán costeados con fondos de la respectiva Sociedad.
-
-### Párrafo 6
-
-De las infracciones
-
-#### Artículo 136
-
-El incumplimiento de las órdenes que la Superintendencia imparta en ejercicio de las atribuciones que esta ley o leyes especiales le otorgan, será sancionado con multa a beneficio fiscal hasta de un monto equivalente a cinco sueldos vitales anuales, escala A) del departamento de Santiago.
-
-Igual sanción se aplicará a los directores, gerentes, dependientes, inspectores de cuentas y liquidadores, por las infracciones en que incurran respecto de esta ley y otras leyes sobre sociedades anónimas, de los reglamentos correspondientes y de los estatutos sociales.
-
-La multa será fijada por la Superintendencia y la resolución en que la determine tendrá por sí sola mérito ejecutivo y no será admisible otra excepción que la de pago, acreditado por el correspondiente recibo de la Superintendencia.
-
-#### Artículo 137
-
-En los casos que, por la gravedad de los hechos, le parezca oportuno, la Superintendencia pondrá en conocimiento de la Junta de Accionistas las infracciones o actos, señalados en el artículo anterior, en que incurran los directores, a fin de que aquélla pueda removerlos de sus cargos, si lo estima conveniente.
-
-#### Artículo 138
-
-El infractor que haya pagado la multa o la haya consignado ante el Juez Letrado en lo Civil que corresponda, podrá reclamar de su aplicación ante dicho Tribunal dentro del plazo de diez días contado desde la notificación de la resolución. La reclamación se resolverá conforme al procedimiento establecido para los incidentes, previo informe del Superintendente.
-
-Si no se efectuare el pago de la multa en el término indicado en el inciso anterior el Superintendente podrá recurrir al Juzgado de Letras en lo Civil de Santiago, solicitando el correspondiente mandamiento de ejecución.
-
-#### Artículo 139
-
-Los organizadores de sociedades y los peritos a que se refieren los artículos 88 y 115 que con sus informes o declaraciones falsas o dolosas, contrarias a la verdad de los hechos, defraudaren a los accionistas o a los terceros que hayan contratado con la sociedad, fundados en dichas informaciones o declaraciones falsas o dolosas, sufrirán la pena de presidio o relegación menores en sus grados medio a máximo y multa a beneficio fiscal de hasta 5 sueldos vitales anuales, escala A), fijado para los empleados particulares del departamento de Santiago.
-
-#### Artículo 139
-
-a.- La infracción por parte de los notarios a lo dispuesto en el artículo 86 de la presente ley será sancionada con multa a beneficio fiscal de hasta un sueldo vital anual fijado para los empleados particulares del departamento de Santiago.
-
-#### Artículo 139
-
-b.- La infracción a la obligación de reserva establecida en el artículo 85 será sancionada en la forma establecida en el inciso primero del artículo 247 del Código Penal.
+Todos los actos o contratos distintos a los de su giro que las sociedades de que trata este párrafo celebren con sus personas relacionadas deberán ser previamente aprobados por las dos terceras partes del directorio y constar en el acta correspondiente, sin perjuicio de lo dispuesto en el artículo 44 de la ley N° 18.046 respecto de los directores.
 
 ## Título IV
 
-De las operaciones bursátiles
+De la regularización de compañías de seguros
 
-#### Artículo 140
+1.- Por déficit de patrimonio.
 
-Sólo en las ciudades de más de ciento cincuenta mil habitantes podrá existir una Bolsa de Valores Mobiliarios, que deberá constituirse como Sociedad Anónima.
+#### Artículo 65
 
-Toda nueva Bolsa de Valores requerirá para comenzar sus operaciones, la autorización del Presidente de la República, previo informe de la Superintendencia.
+La reducción del patrimonio de una compañía bajo el mínimo establecido en los artículos 7° o 16, según el caso, deberá ser superada en los plazos y condiciones señalados más adelante.
 
-Quedan sujetas a las disposiciones de la presente ley todas las operaciones sobre acciones de Sociedades Anónimas y valores mobiliarios que se hagan en las Bolsas de Valores.
+Cuando el patrimonio de una compañía se reduzca bajo el mínimo antes señalado, ésta presentará a la Superintendencia, dentro de los 2 días hábiles siguientes a la constatación de este hecho, una explicación pormenorizada de las razones de su ocurrencia y, en un plazo de seis días hábiles contado desde la misma fecha, un detalle de las medidas que hubiere adoptado o adoptará para su solución.
 
-#### Artículo 141
+En el evento de que la compañía no informe a la Superintendencia, o bien, señale como fecha de constatación una distinta a la efectiva, ésta será establecida por la Superintendencia, sin perjuicio de la aplicación de las sanciones a que haya lugar.
 
-Sólo podrán operar en las Bolsas de Valores las personas mayores de edad que sean reconocidas por la Bolsa respectiva como Corredores de ella y que sean accionistas de la misma, pudiendo hacerlo también una Sociedad.
+#### Artículo 66
 
-Ningún Corredor podrá actuar como tal sin haber otorgado previamente a la Bolsa respectiva una garantía equivalente a lo menos al valor de plaza de la acción de la Bolsa, para responder al correcto ejercicio de sus funciones. Podrá aceptarse como tal la prenda de la propia acción.
+Si la disminución del patrimonio bajo el mínimo legal no es superado antes de ochenta días hábiles desde la fecha de su detección, el directorio o la Superintendencia convocará en única instancia, a junta extraordinaria de accionistas, destinada a aprobar el aumento de capital necesario para cumplir con el monto mínimo exigido por esta ley. Dicha convocatoria se efectuará dentro de los cinco días hábiles posteriores al plazo antes mencionado y la celebración de la junta deberá ocurrir antes de los treinta días hábiles siguientes a la primera publicación de la citación.
 
-La garantía se considerará afecta, con preferencia a todo otro crédito, al cumplimiento de las responsabilidades de las operaciones que efectúe en la Bolsa.
+La Junta se constituirá con las acciones que se encuentren presentes o representadas, cualquiera que sea su número, y los acuerdos se adoptarán por la mayoría absoluta de las acciones presentes o representadas con derecho a voto.
 
-Las Bolsas de Valores no podrán fijar las tarifas de Comisiones que los corredores deban cobrar por las operaciones que realicen, las que en consecuencia serán libres.
+#### Artículo 67
 
-#### Artículo 142
+En el caso en que la junta extraordinaria de accionistas acordase el aumento de capital, éste deberá ser enterado en un plazo no superior a 80 días hábiles contado desde la fecha del acuerdo y su pago se hará en dinero efectivo. Si transcurrido este plazo el patrimonio de la compañía no superase el mínimo legal se revocará su autorización de existencia, en los términos señalados en el artículo 44.
 
-Las reuniones en las Bolsas de Valores serán públicas y todas las operaciones que en ellas se efectúen, serán registradas oficialmente, debiendo los Corredores que intervengan y la propia Bolsa timbrar el traspaso respectivo, cuando se trate de acciones.
+Igual sanción se aplicará en el caso de que la junta no se constituya o no acordare aumentar el capital social de la compañía y el déficit de patrimonio no se hubiere superado en el plazo señalado en el inciso primero del artículo anterior.
 
-Salvo autorización expresa de la Superintendencia, prohíbese la venta de acciones y bonos a plazo por cuenta de personas que no tengan o no hayan adquirido derechos a los títulos correspondientes.
+2.- Por déficit de inversiones o sobreendeudamiento.
 
-Los Directorios de las Bolsas, por sí, o a requerimiento de la Superintendencia, podrán exigir desde una fecha determinada para adelante, la comprobación de la efectividad de las acciones y bonos que se ofrezca vender, ya sea en un valor determinado o en todos los valores de plaza. Cuando esta medida fuera indicada por la Superintendencia, no podrá alzarse sin su aprobación.
+#### Artículo 68
 
-#### Artículo 143
+Cuando una compañía de seguros no dé cumplimiento a una o más de las normas sobre relaciones máximas de endeudamiento, o presente un déficit de inversiones representativas de reservas técnicas o de patrimonio de riesgo, deberá presentar a la Superintendencia, dentro de los 2 días hábiles siguientes a la constatación de tales hechos, una explicación pormenorizada de sus razones y, dentro de 6 días hábiles contados desde la misma fecha, un detalle de las medidas que hubiere adoptado o adoptará para su solución. La Superintendencia podrá determinar la fecha para el cómputo del plazo conforme a lo dispuesto en el inciso tercero del artículo 65.
 
-El Directorio de las Bolsas de Valores con aprobación de la Superintendencia, calificará los valores que puedan transarse a plazo y, asimismo, modificará la calificación de determinados valores cuando las condiciones del mercado o razones especiales lo aconsejen.
+#### Artículo 69
 
-#### Artículo 144
+Si alguno de los problemas señalados en el artículo precedente subsistiere por más de sesenta días hábiles contados desde su detección, la compañía presentará antes del vencimiento de dicho término, para conocimiento y aprobación de la Superintendencia, un plan de ajuste que permita lograr el pleno cumplimiento de las normas transgredidas en un plazo no superior a los 120 días hábiles siguientes a su aprobación. Esta se entenderá otorgada si el plan no fuere objetado por la Superintendencia dentro de los 15 días hábiles siguientes a su presentación.
 
-Las Sociedades Anónimas deberán pagar a la Bolsa el derecho de incorporación a su mercado, y mientras no lo hagan sus títulos pagarán un doble arancel de pizarra.
+El plan de ajuste mencionado en el inciso anterior podrá versar sobre sustitución de inversiones, contratos de reaseguro, transferencia de cartera y, en general, acerca de cualquier medida que procure la solución de los problemas existentes.
 
-#### Artículo 145
+#### Artículo 70
 
-No se admitirán a cotización los títulos de Sociedades Anónimas que no hayan sido declaradas legalmente instaladas.
+Si al cabo de los 120 días hábiles de haber sido aprobado el plan no han sido superados los hechos señalados en el artículo 68, la Superintendencia podrá ordenar a la compañía el cumplimiento de una o más medidas que le permitan salvar la situación en que se encuentra, en un plazo no superior a 40 días hábiles contado desde la fecha antes señalada.
 
-#### Artículo 146
+Igual facultad procederá si la Superintendencia hubiere rechazado, mediante resolución técnicamente fundada, el plan antes mencionado o éste no se hubiere presentado dentro del plazo establecido para ello.
 
-La cotización de las acciones de una Sociedad podrá suspenderse por acuerdo del Directorio de una Bolsa con el voto de los dos tercios de sus miembros. También podrá suspenderla la Superintendencia, la cual, en el oficio correspondiente expondrá los fundamentos de su resolución.
+Las medidas que para los efectos de los incisos precedentes ordene la Superintendencia podrá versar sobre adecuación de inversiones, contratos de reaseguro, transferencia de cartera, suspensión de emisión de pólizas y otras que vayan en solución de los problemas detectados.
 
-#### Artículo 147
+#### Artículo 71
 
-Las órdenes dadas por un comitente ya sean de compra o de venta deberán constar de un documento escrito en formularios que timbrará para este efecto la Superintendencia por intermedio de la Bolsa respectiva.
+Vencido el plazo de 40 días hábiles establecido en el artículo anterior, si alguno de los incumplimientos señalados en el artículo 68 aún subsistiere, la Superintendencia, mediante resolución fundada, podrá asumir la administración de la compañía por un plazo no superior a 60 días hábiles, renovable por una vez, durante el cual habrá de tomar las medidas necesarias para el cabal cumplimiento de la normativa vigente. Para tales efectos, el Superintendente o su representante estará dotado de las facultades que las leyes confieren a los directores y gerentes de sociedades anónimas, además de las propias, pudiendo enajenar o adquirir bienes, contratar o cancelar seguros y reaseguros, transferir carteras y ceder negocios, citar a junta extraordinaria de accionistas para proponer la capitalización de la compañía y, en general, podrá tomar cualquier medida que procure la solución de los problemas existentes.
 
-#### Artículo 148
+De esta resolución podrá reclamarse ante la Corte de Apelaciones de Santiago en los términos, plazos y condiciones del artículo 64 de la ley N° 18.045.
 
-Toda orden dada por un comitente a un Corredor debe entenderse que tiene el carácter de reservada y sólo podrá exhibirse por el Corredor para hacer efectiva la responsabilidad del comitente, sin perjuicio de la facultad de los Tribunales en caso de litigio. La Superintendencia podrá revisar los Libros y Documentos de las Bolsas de Valores y de sus Corredores.
+3.- Por déficit de patrimonio y de inversiones o sobreendeudamiento conjuntamente.
 
-#### Artículo 149
+#### Artículo 72
 
-Toda orden para efectuar una operación de Bolsa se entenderá respecto del comitente, efectuada sobre la base de que éste queda sujeto a los Reglamentos de la Bolsa respectiva aprobados por la Superintendencia.
+Si la reducción del patrimonio de una compañía bajo el mínimo establecido en el artículo 7° o 16, según el caso, ocurriese conjuntamente con algunas de las situaciones previstas en el artículo 68, se aplicarán los plazos y medidas contemplados en el párrafo 1. Sin embargo, la Superintendencia además podrá exigir el cumplimiento de los términos y medidas establecidos en el párrafo 2, respecto de las situaciones previstas en éste.
 
-#### Artículo 150
+#### Artículo 73
 
-Ningún Corredor podrá, a ningún pretexto, efectuar transacciones en beneficio propio, comprando o vendiendo por sí los valores que un comitente le ha encomendado vender o comprar, salvo autorización previa de la Superintendencia.
+Si concluido el proceso de regularización una compañía no hubiere logrado superar las situaciones señaladas en el artículo 68, la Superintendencia procederá a su revocación en los términos contemplados en el artículo 3, letra d), de esta ley.
 
-La Superintendencia servirá de Ministro de Fe entre los Corredores y sus respectivos comitentes para certificar la falta de entrega de las garantías que aquellos exijan a éstos de conformidad con los Reglamentos que rijan sobre el particular en las Bolsas de Valores correspondientes.
+4.- De la liquidación.
 
-En estos casos los Corredores quedarán autorizados para liquidar las operaciones por intermedio del Directorio de la Bolsa respectiva previo aviso al Superintendente.
+#### Artículo 74
 
-El saldo deudor de una operación visado por el Superintendente, tendrá mérito ejecutivo contra el comitente sí, puesto en su conocimiento por notificación judicial, juntamente con la orden u órdenes respectivas a que se refiere el Artículo 147 no alegare en ese mismo acto o dentro de tercero día tacha de falsedad de ésta o de éstas.
+En toda liquidación de una compañía de seguros el liquidador podrá traspasar todo o parte de la cartera y negocios a una o más compañías, en los términos del artículo 27, no siendo necesaria, en este caso, la consulta a los asegurados, salvo si se tratara de administradoras de fondos de pensiones, respecto de los seguros a que se refiere el decreto ley N° 3.500, de 1980, sin perjuicio de la obligación de informar a éstos, en la forma que determine la Superintendencia.
 
-#### Artículo 151
+Asimismo, podrá celebrar convenio con los acreedores, en conformidad con las disposiciones contempladas en la ley N° 18.175 y con las normas dictadas al respecto por la Superintendencia.
 
-El Corredor de Bolsa que cayere en falencia o que fuere declarado en quiebra, no podrá ser admitido en la propia Institución o en otra análoga, mientras no haya satisfecho íntegramente, y sin descuento alguno el valor de todos sus créditos, además de obtener, en su caso, su rehabilitación legal.
+#### Artículo 75
 
-Se presume fraudulenta la quiebra de un Corredor producida por incumplimiento en la propia Bolsa en que actuare de contratos que provengan de operaciones ejecutadas en ella en interés propio, siempre que a consecuencia de las pérdidas provenientes de esas operaciones no pueda satisfacer el cumplimiento de las que ejecutare en la misma Bolsa por cuenta de sus comitentes.
+La liquidación de una compañía de seguros será practicada por el Superintendente o por la persona que éste designe de conformidad a lo señalado en el artículo 3°, letra d), quienes tendrán todas las facultades, atribuciones y deberes que la ley de sociedades anónimas le confiere a los directores y gerentes de la sociedad.
 
-#### Artículo 152
+No obstante, el Superintendente podrá autorizar a una compañía, cuando lo estime conveniente, para que practique su propia liquidación.
 
-Las Bolsas de Valores Mobiliarios en actual ejercicio tendrán seis meses para modificar sus Reglamentos de acuerdo con la Superintendencia.
+Los gastos de liquidación serán de cuenta de la compañía.
 
-#### Artículo 153
+En la liquidación de una compañía de seguros del segundo grupo que posea en su cartera contratos de seguros del sistema previsional creado por el decreto ley N° 3.500, de 1980, no procederá la autorización mencionada en el inciso segundo de este artículo, miemtras subsistan obligaciones emanadas de dichos contratos.
 
-Las cuestiones a que diere lugar la liquidación de operaciones entre clientes y Corredor, cuando no hubiere título ejecutivo, se someterán a la resolución del Superintendente, quien será árbitro de derecho en el fondo y arbitrador en el procedimiento. Sin embargo, cuando el monto de la liquidación no excediere de $ 20,000 actuará como arbitrador sin ulterior recurso.
+5.- De los convenios y la quiebra.
 
-La liquidación de las operaciones no podrá suspenderse judicialmente a petición de parte ni de extraños. Sólo podrá suspenderla el Juez cuando lo solicite la Superintendencia.
+#### Artículo 76
+
+En todas las situaciones de este Título, salvo en la de quiebra, la compañía de que se trate podrá presentar proposiciones de convenio extrajudicial a todos sus acreedores, las cuales previamente deben ser autorizadas por la Superintendencia para producir sus efectos.
+
+Estas proposiciones podrán versar sobre:
+
+1. la capitalización parcial o total de los créditos;
+
+2. la ampliación de plazos;
+
+3. la remisión de parte de las deudas, sus intereses y reajustes, y
+
+4. cualquier objeto lícito destinado a resolver los problemas de la compañía.
+
+El convenio debe ser uno mismo para todos los acreedores.
+
+#### Artículo 77
+
+Las proposiciones de convenio extrajudicial deberán ponerse en conocimiento de la Superintendencia, la que podrá formular reparos dentro de los 10 días hábiles siguientes a su presentación y, una vez aprobadas o subsanados los reparos que se le formularen, deberán presentarse a los acreedores enviando copia extractada del texto propuesto por carta certificada al domicilio que éstos tengan registrado en la compañía. Además, deberá efectuarse una publicación que contenga la copia extractada del texto propuesto en el Diario Oficial y un aviso destacado del hecho de su publicación en un periódico de circulación nacional, y deberá ponerse a disposición de los acreedores copia del aviso publicado en el Diario Oficial en cada una de las oficinas, agencias y sucursales de la compañía. La publicación se efectuará dentro del plazo de 10 días hábiles contado desde la fecha de la aprobación del texto por la Superintendencia y, en todo caso, a lo menos 5 días antes de la realización de la Junta.
+
+En la comunicación de las proposiciones de convenio y en el aviso correspondiente deberá señalarse claramente el lugar, día y hora de celebración de la Junta, la que deberá realizarse dentro del plazo de 20 días hábiles contado desde la publicación del aviso extractado.
+
+La compañía fijará en todas sus oficinas, sucursales y otros lugares habilitados para el efecto por la Superintendencia, una nómina de los asegurados y demás acreedores a quienes corresponda pronunciarse sobre el convenio, indicando el monto de la respectiva acreencia con sus reajustes e intereses.
+
+Los acreedores que no figuren en la nómina podrán solicitar a la Superintendencia, dentro de los 10 días hábiles contados desde su publicación, que se les incluya en ella, lo que ésta dispondrá si encontrare mérito suficiente para ello.
+
+Tendrán derecho a votar el convenio los acreedores cuyos créditos figuraren en la nómina y aquellos cuyos créditos fueren reconocidos antes de iniciarse la votación.
+
+La celebración de la Junta se efectuará ante Notario y bajo la supervisión de la Superintendencia.
+
+El convenio se considerará acordado si cuenta con la aprobación del deudor y de la mayoría de los acreedores concurrentes que representen a lo menos el sesenta por ciento del pasivo total.
+
+El convenio acordado será obligatorio para todos los acreedores.
+
+La Superintendencia podrá, mediante norma de carácter general, regular los aspectos relativos a las formalidades del convenio y de su proceso de votación.
+
+#### Artículo 78
+
+Los trabajadores del deudor no votarán el convenio extrajudicial y conservarán todos los privilegios que la ley les concede por las remuneraciones que se les adeuden y por las indemnizaciones a que tengan derecho en conformidad a la ley, y sus créditos, si los hubiere, no se considerarán en el cálculo del quórum establecido en el artículo 77.
+
+#### Artículo 79
+
+Si algún acreedor de una compañía de seguros solicitare la declaración de quiebra de ésta, el juzgado deberá dar aviso al Superintendente, quien investigará la solvencia de la compañía. Si comprobare que la compañía puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga en sus operaciones; pero si estimare que no es posible tal prosecución, informará en tal sentido.
+
+Si al momento de ser requerido el Superintendente por el tribunal la compañía se encontrare en alguna de las etapas contempladas en el párrafo 1 y 2 de este Título, el Superintendente informará de ello al tribunal, en cuyo caso éste no dará lugar a la solicitud de quiebra.
+
+El Superintendente deberá dar su resolución en el plazo de veinte días hábiles contado desde la fecha en que sea requerido por el tribunal. Durante este plazo nadie podrá entablar contra la compañía acción judicial ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales de la quiebra.
+
+#### Artículo 80
+
+Propuesto un convenio judicial o declarada la quiebra de una compañía de seguros, el Superintendente o la persona que éste designe, actuará como administrador o síndico, según corresponda, con todas las facultades que le confiera el convenio o, en su caso, la ley N° 18.175, en cuanto fueren compatibles con las disposiciones de esta ley.
+
+Declarada la quiebra, el síndico podrá citar a la junta de acreedores establecida en la ley N° 18.175, cuando lo estime necesario, para informar sobre el estado de los negocios de la fallida, sobre sus activos y pasivos, sobre la marcha del proceso de quiebra, y, en general, para proponer a la junta cualquier acuerdo que estime necesario para el más adecuado cumplimiento de las funciones que le competen.
+
+#### Artículo 81
+
+En todas las quiebras de compañías de seguros, el tribunal, al día siguiente hábil a dicha declaración, dará aviso de ella por oficio al juez del crimen correspondiente e indicará todos los datos que permitan individualizar la persona del fallido.
+
+El oficio será tramitado por el síndico, quien estará obligado, además, a velar por el cumplimiento de este precepto.
+
+Se presume que la quiebra es culpable si las reservas técnicas de la compañía no se hubieren constituido conforme a las normas legales y a las instrucciones impartidas por la Superintendencia o, en los casos que estando éstas debidamente constituídas, las inversiones representativas de estas reservas no se hubieren valorizado conforme a las normas impartidas por la Superintendencia, siempre que a consecuencia de este hecho, se determine que, a la fecha de la quiebra, no habría podido satisfacer el cumplimiento de las obligaciones provenientes de los contratos de seguros respectivos. El síndico deberá expresar esta circunstancia en el proceso de calificación.
+
+#### Artículo 82
+
+Declarada la quiebra de una compañía de seguros, el síndico podrá traspasar toda o parte de la cartera y negocios a una o más compañías en los términos señalados en el inciso primero del artículo 74.
+
+#### Artículo 83
+
+En la quiebra o liquidación de una compañía del segundo grupo que en su cartera tenga contratos de seguros cuyas obligaciones consistan en el pago de prestaciones periódicas futuras ya reconocidas o que se reconozcan, el síndico o liquidador podrá pagar dichas prestaciones, sin necesidad de verificación previa en su caso, con cargo a las inversiones que respalden las reservas técnicas hasta por un período de 12 meses, contado desde la fecha en que asumió la liquidación o quiebra.
+
+#### Artículo 84
+
+En el evento de no producirse el traspaso de cartera y negocios, en los términos del artículo 82, el crédito de los asegurados proveniente de los contratos de seguro gozarán del privilegio establecido en el N° 5 del artículo 2472 del Código Civil.
+
+Con todo, los pagos por reaseguros beneficiarán a los asegurados cuyos créditos por siniestros preferirán a cualesquiera otros que se ejercieren en contra del asegurador, sin perjuicio de contribuir a los gastos de administración de la quiebra o liquidación, en su caso.
+
+#### Artículo 85
+
+Declarada la quiebra de una compañía de seguros del segundo grupo, el síndico practicará la liquidación de todos aquellos contratos que originen reserva matemática o de siniestros, de acuerdo a las normas dictadas por la Superintendencia. Con el mérito de dicha liquidación el síndico deberá verificar el importe que a la fecha de declaración de quiebra representen dichas reservas de acuerdo al procedimiento señalado en los artículos 131 y siguientes de la Ley de Quiebras, asumiendo para este solo efecto la representación del asegurado, sin que ello importe reconocimiento alguno. En el evento que al asegurado se le hubiere seguido pagando prestaciones de acuerdo con el artículo 80, dichos pagos se deducirán de la respectiva reserva.
+
+#### Artículo 86
+
+En cada uno de los procedimientos contemplados en este Título, el síndico, liquidador o administrador deberá velar fundamentalmente por los intereses de los asegurados, según las preferencias establecidas en el artículo 84.
+
+#### Artículo 87
+
+En todo lo no previsto en este párrafo se aplicará la ley N° 18.175, sobre Quiebras.
 
 ## Título V
 
@@ -1084,21 +852,17 @@ Superintendencia
 
 #### Artículo 154
 
-La Superintendencia estará a cargo de un Superintendente designado por el Presidente de la República y gozará de una remuneración igual a la del Superintendente de Bancos.
-
-La Planta de Empleados de este Servicio será la siguiente:
-
-Superintendente (1), Intendente (1) y Fiscal (1), Jefes de Departamentos Sociedades Anónimas (1), Compañías de Seguros (1), Control Valores, Bolsas y Fondos Mutuos (1) y Actuarial y Estadístico (1), Secretario General (1), Contralor (1) y Jefe de Oficina de Valparaíso (1), Abogados primeros (3), Contadores primeros (3), y Actuarios (2), Abogados (6), Contadores (13) e Inspectores primeros (3), Contadores ayudantes (14), Procuradores (2) y Relacionador (1), Inspectores (10), Oficial de Partes (1), Archivero (1), Oficiales de Secretaría (11) y Oficial de Informaciones (1), Oficiales (11) y Oficiales de Secretaría Ayudantes (2), Mayordomo (1), Porteros (6).
+DEROGADO.
 
 #### Artículo 155
 
-El Superintendente tendrá respecto del personal del Servicio las mismas facultades que señala la ley para el Superintendente de Bancos, rigiendo las limitaciones establecidas en el DFL. N° 68, de 1959, con excepción de lo dispuesto en el artículo 2° del mismo.
+DEROGADO.
 
 #### Artículo 156
 
 El Superintendente ydemás empleados del Servicio tendrán el carácter de empleados públicos para los efectos del desahucio y previsión social, y estarán obligados a efectuar las imposiciones correspondientes.
 
-Los miembros del personal de la Caja Reaseguradora de Chile, tendrán el carácter de empleados particulares.
+INCISO DEROGADO.
 
 #### Artículo 157
 
@@ -1118,7 +882,7 @@ Las cuotas para cubrir los gastos de peritaje en los procesos de incendio a que 
 
 #### Artículo 161
 
-La Ley General de Presupuesto asentará en sumas totales los fondos que sean necesarios para el mantenimiento de la Superintendencia y para las demás finalidades que se le señalan en la presente ley, todos los gastos que originen estos rubros, incluyendo la remuneración del personal, serán pagados por la tesorería fiscal respectiva, previo giro del Superintendente.
+DEROGADO.
 
 #### Artículo 162
 
