@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.688, de 28 de diciembre de 2004, de esta Subsecretaría, modifícase el numeral 1º de la resolución Nº 2.743 y el numeral 2º de la resolución Nº 3.246, ambas de 2004, de esta Subsecretaría, que autorizaron a EMPRESA DE DESARROLLO PESQUERO DE CHILE S.A. para desarrollar actividades pesqueras extractivas con la nave "Unionsur I", en el sentido de indicar que el actual nombre y matrícula de la citada nave es "Unionsur", matrícula 3112.
+
+Asimismo, modifícase el numeral 9º de la resolución Nº 3.246, de 2004, antes citada, que autorizó a Empresa de Desarrollo Pesquero de Chile S.A. para realizar actividades pesqueras extractivas en aguas internacionales, en el sentido de indicar que la citada autorización tendrá una vigencia de 2 años contados desde la fecha de la publicación del extracto de la misma resolución en el Diario Oficial.
+
+Valparaíso, 28 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
