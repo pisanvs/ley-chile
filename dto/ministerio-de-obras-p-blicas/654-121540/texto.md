@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 654, de 29 de mayo de 1998, se expropió el lote de terreno Nº 9, superficie 309 m2., rol de avalúo 436-4, comuna de Concepción, para la obra Mejoramiento Autopista Concepción - Talcahuano, Sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con su propietario Victoria Rocha Sobarzo, ascendente a la cantidad de $ 29.254.064.-
+
+Fiscal del Ministerio de Obras Públicas.
