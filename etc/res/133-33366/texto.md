@@ -1,0 +1,17 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+#### Artículo 1
+
+<!-- parte:6006682 -->
+
+Por Resolución N° 133 de 13 de septiembre de 1996,
+
+_______________________________________________________
+
+| NOTA: VER DIARIO OFICIAL N° 35.590 MARTES 15 DE |
+
+| OCTUBRE DE 1996, PAGINA 13. PRIMER CUERPO |
+
+|_____________________________________________________|
+
+Antofagasta, 26 de septiembre de 1996.- Director Serviu II Región.
