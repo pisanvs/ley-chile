@@ -1,0 +1,3 @@
+Por decreto MOP 4.955, de 31 de octubre de 2000, se expropió el lote de terreno Nº22, superficie 5.799 m², rol de avalúo 107-160, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Enlace Zapata Oriente, Quinta Región y se acordó el valor de indemnización con su propietaria María Emilia Schonthaler de la Fuente, ascendente a la cantidad de $13.262.964.-
+
+Fiscal del Ministerio de Obras Públicas.
