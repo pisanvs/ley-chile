@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.795, de 30 de septiembre de 1998, se expropiaron los lotes de terrenos Nº s. 41-C, 41-D, 41-E, 41-F, 41-G, 41-H, 41-I, 41-J, 41-K y 41-L, superficies 5.298, 5.082. 5.086, 5.385, 5.660, 5.576, 5.444, 5.365, 5.368 y 6.438 m², rol de avalúo 402-10, comuna de Vicuña, para la obra Embalse Puclaro Sector Punta Azul y San Carlos III Etapa y se acordó precio de indemnización con su propietario, Inmobiliaria El Olivar Limitada, ascendente a la cantidad de $ 23.105.222, para los lotes Nº s. 41-C, Nº 41-D, 41-E, 41-F, 41-G, 41-H, 41-I, 41-J, 41-K y 41-L.
+
+- Fiscal del Ministerio de Obras Públicas.
