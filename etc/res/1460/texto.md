@@ -1,0 +1,5 @@
+Por Resolución N° 1.460, de 6 de agosto de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA LOA NORTE S.A., para ampliar actividades pesqueras extractivas, en orden a efectuar actividades pesqueras extractivas con la nave "Loa 1", en las áreas de pesca que a continuación se indican, donde podrá extraer con cerco los siguientes recursos hidrobiológicos: a) Litoral de las III y IV Regiones, por fuera del área de reserva artesanal, con cerco: Agujilla, Anchoveta, Bonito, Caballa, Cojinoba del norte, Jurel, Sardina española y Sardina común; b) Litoral de la X Región, por fuera del área de reserva artesanal, con cerco: Agujilla, Anchoveta, Caballa, Cojinoba del norte, Jurel, Sardina española y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 6 de agosto de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
