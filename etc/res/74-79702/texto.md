@@ -1,0 +1,7 @@
+Por Resolución No. 74.- 28 de Enero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD PESQUERA EICOMAR S.A., R.U.T. No. 79.590.920-6, domiciliada en Santiago, para ampliar actividades pesqueras, autorizadas por Resoluciones No. 730, de 1985 y No. 950, de 1987, ambas de esta Subsecretaría, en orden a incorporar en la planta industrial que tiene autorizada por la Resolución antes citada en las líneas de elaboración de congelado, conserva, deshidratado, seco - salado, ahumado y fresco-refrigerado, los siguientes recursos hidrobiológicos: Bacalao de profundidad o mero, Salmón del atlántico, Culengue y Navaja de mar. El recurso salmón del atlántico deberá provenir de los centros de cultivo autorizado.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto la Resolución No. 84, de 1991, de conformidad con lo dispuesto en el Art. 6° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de Enero de 1992.- Andres Couve Rioseco, Subsecretrario de Pesca.
