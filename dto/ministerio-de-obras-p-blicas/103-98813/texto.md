@@ -1,0 +1,3 @@
+Por Decreto MOP Nº103, del 11 de febrero del 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP Nº294 de 1984 (D.F.L. N2 850 de 1997) que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs. 2, 3, 4 y 5 para la Obra Camino Autopista Santiago - San Antonio, Sector Plaza de Peaje Melipilla 2-3, Región Metropolitana, que figuran a nombre de Club Aéreo de Melipilla, Pozo- Valdivia Luis Alberto, Inmobiliaria Parques Unidos S.A. y Wilson Méndez Ernesto, roles de avalúo 2087-109,2087- 108, 2087-106 y 2087-107, comuna de Melipilla, superficies 2.804 M2.
+
+Fiscal del Ministerio de Obras Públicas.
