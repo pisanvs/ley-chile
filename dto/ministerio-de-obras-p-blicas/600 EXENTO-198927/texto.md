@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 600 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 29, superficie 152.00 m², Rol de Avalúo Nº 764-57, comuna de Lampa, para la obra ''Camino Ruta G-184-182, Sector El Noviciado-Cruce Ruta G-16 (Lipangue), tramo de Km. 4,450 al Km. 15,04419'', Región Metropolitana y se acordó el valor de indemnización con su propietario Héctor Manuel Rodríguez Parra, ascendente a la cantidad de $1.749.027.
+
+Fiscal del Ministerio de Obras Públicas.
