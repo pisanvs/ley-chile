@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO ALCALDICIO Nº363, DE 2000
+
+Por decreto Nº363 de fecha 14 de Febrero del 2000, suscrito por el Alcalde de la Comuna de Tomé, se ordena el Estudio de Expropiación de un bien raíz ubicado en la localidad de Dichato, inscrito a fojas 89 Nº54 del Registro de Propiedad del Conservador de Bienes Raíces de Tomé, año 1981 y nombra a los integrantes de la Comisión que determinará el monto provisional de la indemnización, debiendo ceñirse el procedimiento a los términos establecidos en el decreto ley Nº2.186 de 1978.
