@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº894, de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº75, superficie 163 m2., rol de avalúo Nº5050-201, comuna de Punta Arenas, para la obra ''Reposición Ruta 9 y Acceso Aeropuerto, Sector (Ruta 9) Km. 5,31490 - Km. 19,342349 (Acceso Aeropuerto) Km. 0,000 - Km. 1,295819'', XII Región y se acordó el valor de indemnización con su propietaria Teresa Josefina Audicio Gutiérrez, ascendente a la cantidad de $978.244.
+
+Fiscal del Ministerio de Obras Públicas.
