@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución Nº31, de 8 de mayo de 2000, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte inmueble ubicado en Avenida Freire Nº199 de Rancagua, Rol Nº16-5, superficie de 92,22 m²., delimitada en el polígono F-G-I-J-K, Plano Serviu VI Región s/nº, de 1999, aparente dominio de doña María Teresa González Valenzuela, compuesta por Gloria Teresa, Myriam Eliana, Aliro Eduardo y Héctor Aliro, todos Feliú González, sin perjuicio Héctor Aliro Feliú Pérez, inscrito a fojas 425 Nº757, fojas 1.466 Nº1.382, año 1989, y todas del C.B.R. de Rancagua, Proyecto Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al Artículo 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos: Arquitecto Jorge Godoy Rojas, Ingeniero Jorge Atala Sahardi, y Constructor Civil don Edmundo Gómez Lagos, según informe fecha octubre 1999, monto provisional en $10.871.410.
+
+Director Serviu VI Región.
