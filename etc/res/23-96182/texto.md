@@ -1,0 +1,7 @@
+Por resolución No. 23 de 14 de Enero de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PESQUERA MULTIEXPORT S.A., R.U.T. No. 96.529.530-5, domiciliado en la ciudad de Santiago, para ampliar actividades pesqueras, autorizadas por resoluciones No. 1012 de 1989 y No. 10 de 1990, ambas de esta Subsecretaría, donde podrá operar las embarcaciones "Betty K" e "Isabel S" que se individualizan en las Resoluciones antes citadas en la captura del recurso Bacalao de profundidad, en el litoral entre los paralelos 43° y 47° LS, utilizando el arte de pesca espinel. Antes de empezar a operar la nave "Isabel S" la interesada deberá acreditar sus características náuticas mediante certificado de arqueo y su correspondiente matrícula.
+
+Deniégase la autorización solicitada por la peticionaria para extraer centolla y centollón en el litoral de la X y XI Región, en virtud de que dichos crustáceos se encuentran sujetos a pesca de investigación con el objeto de determinar el estado de esta pesquera.
+
+Declárase la caducidad de las Resoluciones No. 471 de 1986, No. 566 de 1987 y No. 358 de 1988.
+
+Valparaíso, 14 de Enero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
