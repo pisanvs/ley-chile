@@ -1,0 +1,3 @@
+Por Resolución Nº 510, de 14 de abril de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 93103171, presentada por EDISON ABEL BUSTOS ESPINOZA, para un sector ubicado al Sur de Punta Tegel, Canal Dalcahue, X Región, en virtud de lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 14 de abril de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
