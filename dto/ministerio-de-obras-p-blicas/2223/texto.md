@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.223, de 19 de agosto de 1999, se rectificó el decreto MOP Nº1.187, de 24 de mayo de 1999, que ordenó la expropiación del lote Nº218-A, en el sentido que su numeral Nº1 donde dice ''...Km. 216.547,20 al Km. 261.605,60...'' debe decir ''...Km. 216.547,20 al Km. 216.605,60'' y en el numeral Nº6, donde dice ''...DFL MOP Nº9-A50 de 1997...'' debe decir ''...DFL MOP Nº850 de 1997...''.-
+
+Fiscal del Ministerio de Obras Públicas.
