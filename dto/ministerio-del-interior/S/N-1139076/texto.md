@@ -416,27 +416,29 @@ Si el Presidente de la República desaprueba el proyecto de ley, lo devolverá �
 
 (45)
 
-Si el Presidente de la República devolviere el proyecto de ley desechándolo en el todo, se tendrá por no propuesto, ni se podrá proponer en la sesión de aquel año.
+Si las dos Cámaras aprobaren las observaciones hechas por el Presidente de la República, el proyecto tendrá fuerza de lei i se devolverá al Presidente para su promulgacion.
+
+Si las dos Cámaras no aceptaren las observaciones del Presidente de la República e insisteren por dos tercios de sus miembros presentes en el proyecto aprobado por ellas, tendrá éste fuerza de lei i se devolverá al Presidente para su promulgacion.
+
+No podrán votarse las observaciones en ninguna de las dos Cámaras sin la asistencia de la mayoría absoluta de los miembros de que se componen.
 
 #### Artículo 37
 
 (46)
 
-Si el Presidente de la República devolviere el proyecto de ley, corrigiéndolo ó modificándolo, se reconsiderará en una y otra Cámara, y si por ambas resultare aprobado, según ha sido remitido por el Presidente de la República, tendrá fuerza de ley, y se devolverá para su promulgación.
-
-Si no fueren aprobadas en ambas Cámaras las modificaciones y correcciones, se tendrá como no propuesto, ni se podrá proponer en la sesión de aquel año.
+Suprimido.
 
 #### Artículo 38
 
 (47)
 
-Si en alguna de las sesiones de los dos años siguientes se propusiere nuevamente, y aprobare por ambas Cámaras el mismo proyecto de ley, y pasado al Presidente de la República, lo devolviere desechándolo en el todo, las Cámaras volverán á tomarlo en consideración, y tendrá fuerza de ley, si cada una de ellas lo aprobare por una mayoría de las dos terceras partes de los miembros presentes. Lo mismo sucederá si el Presidente lo devolviere modificándolo ó corrigiéndolo, y si cada Cámara lo aprobare sin estas modificaciones ó correcciones por las mismas dos terceras partes de sus miembros presentes.
+Suprimido.
 
 #### Artículo 39
 
 (48)
 
-Si el proyecto de ley, una vez devuelto por el Presidente de la República, no se propusiere y aprobare por las Cámaras en los dos años inmediatos siguientes, cuando quiera que se proponga después, se tendrá como nuevo proyecto en cuanto á los efectos del artículo anterior.
+Suprimido.
 
 #### Artículo 40
 
