@@ -1,0 +1,5 @@
+Por decreto MOP Nº848, de 30 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº4, para la ejecución de la obra ''Camino Costero Sur, Tramo Chelle - Hualpín - Puente Peule, Subtramo III, By-Pass Hualpín, Km.
+
+58,600 a Km. 62,790'', que figura a nombre de Gebert Kiekebusch Rolando, rol de avalúo 215-1, comuna de Teodoro Schmidt, IX Región, superficie 13.672,30 m2. La Comisión de Peritos fijó, con fecha 30 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $4.922.028.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
