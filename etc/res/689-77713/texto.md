@@ -1,0 +1,5 @@
+Por resolución No. 689, de 24 de Julio de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA MARES DE CHILE S.A., RUT No. 96.534.020-3, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras de cultivo, que tiene autorizadas por Resolución No. 1.093, de 1988, modificada por las resoluciones No. 1.094, de 1989, No. 231, de 1990., toda de esta Subsecretaría, en orden a incorporar al establecimiento de cultivo autorizado por las Resoluciones citadas en el numeral precedente, la especie Ostra del Pacífico.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 24 de Julio de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
