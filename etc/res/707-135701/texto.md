@@ -1,0 +1,3 @@
+Por resolución Nº707, de 22 de abril de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº1.146 de 1996, que autorizó a PESQUERA TARAPACA S.A., para operar la nave ''Oficina Tarapacá'', sólo en cuanto a la autorización para capturar en la III y IV Regiones los recursos Anchoveta y Sardina española, en virtud de lo dispuesto en el inciso segundo de la letra b) del artículo 143 del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
