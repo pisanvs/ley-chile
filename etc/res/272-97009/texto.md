@@ -1,0 +1,3 @@
+Por resolución Nº272, de 25 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESQUERA BALZAC S.A., para ampliar actividades pesqueras, con la nave "Sebastián I", matrícula 3723, al litoral ubicado entre los paralelos 41°28,6' L.S. y el 45° L.S., en la captura de Raya volantín, por cuanto dicha operación vulnera especies declaradas en plena explotación en dicha área de pesca, en virtud de lo señalado en el Artículo 19 letra c) del D.S. Nº430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
