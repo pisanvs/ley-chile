@@ -1,0 +1,37 @@
+Servicio de correos
+
+Excmo. Señor:
+
+El Procurador Jeneral de ciudad ante V. E. dice: que se halla en la necesidad de representar los inconvenientes que encuentra para dar cumplimiento a la parte del artículo 1.° del bando de 19 del corriente Diciembre que dice: «aun las cartas de recomendacion, o recado que irán abiertas, deben presentarse siempre en la administracion de su salida», i pasa a demostrarlos. En los lugares distantes de las administraciones no puede observarse sin grave perjuicio de los interesados, porque habrá casos en que sea mayor la distancia que haya de camino para ir a sellar las cartas, que la del lugar adonde deben conducirse: por ejemplo, un hacendado de la ribera del sur de Maipo necesita sellar las cartas que remita a la capital, en la Administracion de Rancagua, que, es decir, tiene que caminar con este objeto tres tantos mas del camino, que sin el bando no andaria. Habrá también casos, i mui frecuentes, en que aun los residentes de la capital, i demas pueblos se perjudiquen con esperar las horas en que deban abrirse las administraciones, i todo el mal va a refluir sobre la agricultura, i comercio, que son los gremios que en lo interior del Estado hacen mas uso de la correspondencia epistolar. Los labradores con frecuencia reciben cartas, cuya contestacion debe ser el último paso para despachar los conductores, que o han traido abastos para las familias, o vienen en busca de ellos para las haciendas. En el comercio tambien es lo último, despues de fletar los efectos, dar las cartas guias; i si los conductores en ámbos casos se demorasen por esperar se presenten las cartas a la administracion, se atrasan las conducciones con perjuicio de la agricultura, comercio i arriería.
+
+Los realistas por el año 15 i 16 publicaron con corta diferencia un bando igual al citado, i aunque no escepcionaron de presentarse al Correo las cartas abiertas, tampoco mandaron se hiciese, por lo que los administradores espresaron de palabra no estaban comprendidas, sin duda previniendo los inconvenientes espuestos: i de esta verdad fué testigo el esponente en varias ocasiones.
+
+En vista de los inconvenientes espuestos, sírvase V. E. decretar, que no se tengan por comprendidas en el bando las cartas que van i vienen de las haciendas con sirvientes o arrieros que lleven o traigan algunas especies; ni tampoco aquellas con que los comerciantes bajo el nombre de cartas-guias, dirijen sus efectos de un punto a otro: con calidad que en ámbos casos vayan abiertas, i puedan inspeccionarlas las justicias del tránsito, o usarse de cualesquiera otra formalidad que no traiga los inconvenientes indicados en estos términos.
+
+A V. E. suplico se sirva mandarlo, teniendo a bien que el supremo decreto que lo ordene, se estampe en la Gaceta Ministerial, para constancia del público: es justicia etc.-José Raimundo del Rio.
+
+Santiago, Enero 3 de 1820.-Informe el Administrador de Correos.-O'Higgins.-Echeverría.
+
+Exmo. Señor:
+
+Cumpliendo con el decreto de V. E. de 3 del presente mes en que me ordena informar sobre la representacion del Procurador Jeneral de ciudad que trata de las cartas que se conducen fuera de valija; para que V. E. pueda determinar con mejor conocimiento, acompaño en copia los artículos 14 de la instruccion 8 i 22 del reglamento, que tratan sobre esta materia.
+
+En el número 14 se ordena; que cuando las cartas se despachen de parajes donde no hai establecida estafeta, cualquiera pueda conducirlas con tal que las presenten en los oficios de Correos a donde van destinadas, sin que los conductores puedan hacer por sí negociaciones de ellas.
+
+En el 8.° se dispone que si saliese algun correo o propio de donde hai estafeta para cualquiera paraje en donde no esté establecida, o a las haciendas de campo, tengan obligacion de presentarse a los oficios de Correos para que los despachen, i franqueen las cartas, sin llevarles derechos.
+
+En el 22 esclarece lo contenido en los dos números anteriores, declarando lo que debe observarse con las cartas que se despachen a donde, o de donde no hubiese estafeta.
+
+Cuando en el número 8.° se dice que los conductores presenten cartas en los oficios de Correos para que las despachen i franqueen sin llevarles derechos, debe entenderse solamente los derechos del porte i décima, porque los partes de la francatura deben pagarse indispensablemente.
+
+Como los anteriores artículos tratan solamente de las cartas que se conducen de donde o a donde no hubiere estafeta, para donde o de donde estuviese establecida, es claro que no se contraviene a estas disposiciones cuando se despachen cartas de las haciendas o parajes donde no hubiese oficios de Correos, a otros en que tampoco los hai, ni en su tránsito pase por pueblo que tenga Administracion de esta Renta: i con esto queda salvado el primer inconveniente que propone el Procurador Jeneral.
+
+Si se hubiese de acceder a la solicitud de que se modifique el artículo 1.° del bando en la parte que trata de las cartas de recado, que deben entenderse las que solamente van acompañadas con encomiendas, se abriria campo para conducir otras que no fueren de esta clase, pero la esperiencia de muchos años ha hecho conocer que para evitar la clandestinidad, no debe esceptuarse carta alguna, sea de la clase que fuese: i aunque el Procurador Jeneral dice que se perjudica el público, en esperar las horas de despacho de las oficinas para franquear las cartas de recado, puedo a asegurar a V. E. que a cualquiera hora del dia o de la noche que han ocurrido a franquear cartas a esta oficina de mi cargo, han sido despachadas sin la menor demora, i lo mismo debo creer de las demas estafetas agregadas.
+
+En cumplimiento de los deberes de mi empleo, i en vista de los artículos que tratan sobre la materia, no puedo prescindir de producir este informe en los términos espuestos, pero V.E. en obsequio del público podrá con su acostumbrado acierto determinar lo que considere mas conveniente.
+
+Administracion Jeneral de Correos de Santiago de Chile, 24 de Enero de 1829.-Francisco Prast.
+
+Santiago i Marzo 21 de 1820.-Para esclarecer las dudas sobre que media la representacion del Procurador Jeneral de ciudad de tres de Enero último acerca del bando de trece de Diciembre anterior, inserto en la Gaceta de diez i ocho del mismo número 23, se declara que conforme a los antiguos reglamentos de la Administracion Jeneral de Correos, cuando las cartas se despachen de parajes donde no hai establecida estafeta, cualesquiera persona puede conducirlas, con tal que las presente en las oficinas de correos a donde van destinadas, sin que los conductores puedan hacer por sí negociacion de ellas. Si saliese algún correo o propio de lugar donde hai estafeta para otro donde no la hai, o a las haciendas de campo, tendrán obligacion de presentarse a los oficios de correos para que los despachen i franqueen las cartas sin llevarles los derechos del porte i décima, pero sí satisfarán los de los portes de la francatura. El público no puede sufrir un perjuicio en el pronto despacho de sus comunicaciones, pues estoi cerciorado de que las oficinas de la renta de correos están prontas para despachar a cualquier hora del dia i de la noche.
+
+Insertese este decreto en la Gaceta Ministerial.-O'Higgins.-Echeverría.
