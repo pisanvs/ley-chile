@@ -1,0 +1,3 @@
+Por decreto MOP No. 1394, de 31 de agosto de 1998, se expropiaron los lotes de terreno No.s. 19-D, 19-K, 21 y 35, superficies 41, 84, 121 y 74 m²., roles de avalúo 2020-453, 2020-641, 2020-177 y S/R., comuna de Melipilla, obra Camino Ruta G - 668, Sector El Molino Codigua, y se acordó precio de indemnización con sus propietarios Isaías Catalán Catalán, Marcelo Patricio Acevedo Tejedo, Jacinto Manzo Muñoz y Aldo Alfredo Benavides Salas, ascendente a las cantidades de $ 433.564; $ 412.826; $ 791.060 y $ 435.692.-
+
+Fiscal del Ministerio de Obras Públicas.
