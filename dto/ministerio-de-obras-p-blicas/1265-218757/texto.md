@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 1.265, de 31 de octubre de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para Aguas Andinas S.A., el lote de terreno Nº 1 para la obra "Planta de Tratamiento de Aguas Servidas Buin-Maipo", que figura a nombre de Servicio Agrícola y Ganadero (SAG), rol de avalúo 665-24, Comuna de Buin, Región Metropolitana, superficie 40.000 m2. La Comisión de Peritos fijó, con fecha 26 de agosto de 2003, en la cantidad de $50.000.000.- para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
