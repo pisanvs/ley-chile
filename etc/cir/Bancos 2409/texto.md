@@ -1328,6 +1328,22 @@ Los gastos directos en que incurran las instituciones bancarias que coloquen acc
 
 El tratamiento contable que el banco decida seguir en esta materia deberá ser informado previamente a esta Superintendencia.
 
+CAPITULO 1-12 (Bancos y Financieras)
+
+MATERIA:
+
+NOMINA DE EMPRESAS CALIFICADORAS INTERNACIONALES.
+
+La siguiente es la nómina de las empresas calificadoras internacionales conformada para los efectos contemplados en los artículos 67, 78 y 84 de la Ley General de Bancos. Esta nómina incluye el rango de categorías específicas establecido por cada una de esas firmas y que darán la calidad de "primera categoría" o "la más alta categoría" a que se refieren los artículos antes mencionados:
+
+.
+
+Para la aplicación de las disposiciones del artículo 78, que se refieren a las condiciones de riesgo de un país, debe considerarse la clasificación de los instrumentos de largo plazo emitidos en moneda extranjera por el Estado o el Banco Central del respectivo país.
+
+Al tratarse de las inversiones en instrumentos emitidos en moneda de su país de origen que pueden clasificarse en categoría 2 según el artículo 67, se considerará la calificación que corresponda, según se trate de instrumentos de corto o largo plazo.
+
+Por último, para el cumplimiento de las normas legales o reglamentarias que aluden a cartas de crédito o depósitos en cuentas corrientes o a la vista, se considerará como clasificación del banco la que tengan los instrumentos de corto plazo del emisor extranjero de que se trate.
+
 CAPITULO 2-1 (Bancos y Financieras)
 
 MATERIA:
@@ -11366,31 +11382,9 @@ Si la remisión alcanza a créditos registrados en cuentas de orden, deberán re
 
 ### IV. OTRAS DISPOSICIONES
 
-### 1. Provisiones exigidas y voluntarias
+1. - Otras provisiones sobre activos.
 
-1.1. Provisiones exigidas.
-
-Para efectos de las presentes normas, constituyen provisiones exigidas todas aquellas establecidas por esta Superintendencia para cubrir riesgos, incluidas las provisiones adicionales a las instruidas en las normas de la presente Recopilación que se hubieren ordenado constituir.
-
-En el caso de las instituciones que no estén calificadas dos veces consecutivas en categoría I según sus procedimientos de clasificación de cartera, se entiende que la provisión que obedece al mayor riesgo determinado mediante la aplicación de las instrucciones del Capítulo 8-28 de esta Recopilación, en relación con el informado por esta Superintendencia, constituye también provisión exigida.
-
-1.2. Provisiones voluntarias.
-
-Se entenderán como provisiones voluntarias todas aquellas que no tengan el carácter de un reconocimiento de una eventual obligación de pago ni correspondan a las provisiones exigidas señaladas en el numeral precedente.
-
-La mantención de las provisiones voluntarias de que se trata deberá sujetarse a las siguientes instrucciones:
-
-1.2.1. Registro contable.
-
-Las provisiones voluntarias se registrarán separadamente en la cuenta "Provisiones voluntarias" de la partida 4245.
-
-No podrán mantenerse en las cuentas de origen de provisiones exigidas, los importes que superen los determinados sobre la base de los procedimientos de cálculo establecidos por este Organismo, de manera que, si no se liberan los excesos con abono a los resultados, al cierre de cada mes deberán traspasarse los importes, para efectos de presentación, a la cuenta "Provisiones voluntarias" antes mencionada.
-
-1.2.2. Límites para provisiones voluntarias.
-
-Aquellas instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile asumida en la novación de los contratos de venta y cesión de cartera, requerirán una autorización previa de esta Superintendencia para mantener provisiones voluntarias, cuando la suma de dichas provisiones sea superior al equivalente del 1% del total de sus colocaciones e intereses por cobrar. Las solicitudes que pudieran presentarse a este Organismo para mantener provisiones voluntarias por sobre el margen indicado, deberán estar claramente fundadas en riesgos o pérdidas no cubiertos por las provisiones exigidas.
-
-Las instituciones que no mantengan obligación subordinada proveniente de la novación de contratos de compraventa de cartera, pueden mantener provisiones voluntarias por cualquier monto, sin que deban mediar para ello instrucciones de este Organismo.
+Las provisiones sobre otros activos diferentes a las colocaciones o inversiones financieras de que tratan los títulos I y II de este Capítulo, deben ceñirse a las instrucciones que para el caso ha impartido esta Superintendencia. Si no existieren instrucciones específicas de este Organismo, deberán constituirse además las provisiones que sean necesarias de acuerdo con criterios contables prudenciales de aceptación general.
 
 ### 2. Otros castigos
 
@@ -14932,121 +14926,61 @@ MATERIA:
 
 BONOS SUBORDINADOS.
 
-### 1. Generalidades
+1.- Características de los bonos subordinados.
 
-De conformidad con lo dispuesto en el artículo 68 de la Ley General de Bancos, agregado por el número VIII del artículo 1° de la Ley N° 18.818, las instituciones financieras pueden emitir bonos subordinados, cuyas características se indican en la propia ley y en este Capítulo.
+De conformidad con lo dispuesto en el artículo 55 de la Ley General de Bancos, los bancos y financieras pueden emitir bonos subordinados, cuyas características se indican a continuación:
 
-De acuerdo al texto de la ley y a la historia fidedigna de la misma, están facultados para emitir estos bonos tanto los bancos como las sociedades financieras.
+a) Deben emitirse a un plazo promedio no inferior a 5 años, sin garantía especial.
 
-### 2. Características de los bonos subordinados
+b) Las condiciones de la emisión no deben incluir cláusulas que signifiquen el pago anticipado del total o parte de los bonos emitidos.
 
-Los bonos subordinados que emitan las instituciones financieras tendrán las siguientes características:
+c) La obligación puede computarse como patrimonio efectivo para los efectos de las limitaciones legales, calculada de conformidad con lo señalado en el N° 4 de este Capítulo y hasta el monto que en el mismo número se indica.
 
-a) Deben emitirse a un plazo promedio no inferior a 10 años, sin garantía especial.
+d) En caso de que la entidad emisora se encuentre en concurso de acreedores, esto es, en estado de liquidación forzosa, estos bonos se pagarán después de los demás acreedores, incluidos los vale vistas, lo que les confiere su carácter de subordinados.
 
-b) Las condiciones de la emisión no deben incluir cláusulas de resguardo que signifiquen el pago anticipado del total o parte de los bonos emitidos.
+e) Cuando el Directorio de la institución emisora presente convenio a sus acreedores, de conformidad con lo dispuesto en el artículo 122 de la Ley General de Bancos, los bonos subordinados que la empresa adeude, ya sea que se encuentren vencidos o por vencer, serán capitalizados por el solo ministerio de la ley, una vez aprobado el convenio, hasta concurrencia de lo necesario para que la proporción entre el patrimonio efectivo y los activos ponderados por riesgo no sea inferior al 12%.
 
-c) Parte de la obligación puede computarse como capital para los efectos de las limitaciones legales, de conformidad con lo señalado en el N° 4 de este Capítulo.
+2.- Prohibición de adquirir bonos subordinados.
 
-d) Hasta la fecha de vencimiento de cada cuota, los bonos no se computan como obligaciones para con terceros, de conformidad con lo expresado en el N° 5 de este Capítulo, tanto para el cumplimiento de los márgenes de que tratan los artículos 81 y 115 de la Ley General de Bancos y el Capítulo 12-2 de esta Recopilación, como para los efectos de los artículos 116 y 119 de la misma Ley.
+De conformidad con lo dispuesto en la ley, los bonos subordinados no pueden ser adquiridos en forma alguna por bancos, sociedades financieras o demás instituciones sujetas a la fiscalización de esta Superintendencia, ni por sociedades filiales o coligadas de dichas instituciones.
 
-e) En caso de que la entidad emisora se encuentre en concurso de acreedores, esto es, en estado de liquidación forzosa, estos bonos se pagarán después de los demás acreedores, incluidos los valistas, lo que les confiere su carácter de subordinados.
+3.- Emisión de los bonos.
 
-f) Cuando el Directorio de la institución emisora presente convenio a sus acreedores, de conformidad con lo dispuesto en el artículo 119 de la Ley General de Bancos, los bonos subordinados que la empresa adeude, ya sea que se encuentren vencidos o por vencer, serán capitalizados por el sólo ministerio de la ley, hasta concurrencia de lo necesario para que los depósitos y obligaciones para con terceros a que se refiere el Capítulo 12-2 de esta Recopilación, no excedan de diez veces su capital y reservas. Vale decir, si existen bonos subordinados suficientes, el convenio de capitalización lo efectúan exclusivamente los tenedores de dichos bonos, sin exigir que participen en él los demás acreedores de la empresa.
-
-### 2. Prohibición de adquirir bonos subordinados
-
-De conformidad con lo dispuesto en la ley, los bonos subordinados no pueden ser adquiridos ni primaria ni secundariamente por bancos, sociedades financieras o demás instituciones sujetas a la fiscalización de esta Superintendencia.
-
-### 3. Emisión de los bonos
-
-3.1. Aprobación de la emisión.
+3.1.- Aprobación de la emisión.
 
 La emisión de bonos subordinados deberá ser acordada por el Directorio de la empresa, salvo que para el efecto sea necesaria una Junta de Accionistas, ya sea porque sus Estatutos así lo exigen o porque se trate de bonos subordinados convertibles en acciones por voluntad de sus tenedores.
 
-3.2. Determinación del plazo promedio.
+3.2.- Determinación del plazo promedio.
 
-Para determinar el plazo promedio, cuando los bonos contemplen amortizaciones parciales, se multiplicará el importe de cada cuota de amortización por su plazo, expresado en días o meses, según corresponda. Luego se sumarán los productos obtenidos de esas operaciones y el resultado de la suma se dividirá por el importe total de la emisión El cuociente que se obtenga indicará el plazo promedio del bono, expresado en días o meses, según cual haya sido el factor utilizado.
+Para determinar el plazo promedio, cuando los bonos contemplen amortizaciones parciales, se multiplicará el importe de cada cuota de amortización por su plazo, expresado en días o meses, según corresponda. Luego se sumarán los productos obtenidos de esas operaciones y el resultado de la suma se dividirá por el importe total de la emisión. El cuociente que se obtenga indicará el plazo promedio del bono, expresado en días o meses, según cual haya sido el factor utilizado.
 
-3.3 Inscripción en el Registro de Valores.
+3.3.- Inscripción en el Registro de Valores.
 
 La emisión de los bonos subordinados queda sujeta a su inscripción en el Registro de Valores de esta Superintendencia, de acuerdo a las disposiciones de la Ley N° 18.045 sobre Mercado de Valores y a las instrucciones del Capítulo 2-10 de esta Recopilación.
 
-4. Cómputo de los bonos como capital para los efectos de los límites legales.
+4.- Cómputo de los bonos como patrimonio efectivo para los efectos de los límites legales.
 
-4.1. Monto de los bonos computable como capital.
+Para los fines de calcular el patrimonio efectivo, la ley establece que los bonos subordinados se valorarán al precio de colocación y el valor computable disminuirá en un 20% por cada año que transcurra desde que falten seis años para su vencimiento, esto es, para el pago de los respectivos cupones.
 
-El valor por el cual se computarán los bonos subordinados como capital de la entidad emisora para los fines de determinar el capital pagado y reservas que se debe considerar para los márgenes legales, será igual al 85% del valor par de aquella parte de los bonos para cuyo pago falten más de dos años.
+Por consiguiente, el cálculo del importe computable deberá efectuarse sobre el valor actual de los bonos según la tasa implícita efectiva de colocación, aplicando los siguientes porcentajes según los años remanentes (no calendarios):
 
-Sin embargo, en el caso de que la colocación de esos bonos se haga con un descuento sobre su valor par, deberá rebajarse, para ese efecto, el saldo contable de dicho descuento, a la fecha del cómputo.
+.
 
-El monto determinado en la forma señalada en los párrafos precedentes no podrá exceder del 20% del capital pagado y reservas de la institución, a la fecha del cómputo, incluida su corrección monetaria.
+El monto de los bonos subordinados que pueden computarse como patrimonio efectivo en la forma antes señalada, no podrá exceder del 50% del capital básico de la institución, a la fecha del cómputo.
 
-4.2. Limitaciones legales para cuyo cumplimiento se computan los bonos como capital.
+5.- Instrucciones contables.
 
-Los bonos subordinados podrán computarse en la forma señalada precedentemente, para los efectos de los siguientes límites:
-
-a) Límites de crédito de que tratan los N°s 1, 2 y 4 del artículo 84 de la Ley General de Bancos y los Capítulos 12-3, 12-4 y 12-5 de esta Recopilación Actualizada de Normas. Asimismo se computarán los bonos para los efectos del artículo 45 de la misma ley.
-
-b) Margen de obligaciones para con terceros a que se refieren los artículos 81 y 115 de la Ley General de Bancos y el Capítulo 12-2 de esta Recopilación.
-
-c) Límite de inversiones dispuesto en el artículo 83 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación.
-
-d) Límites establecidos en las letras a) y c) del artículo 83 bis de la Ley General de Bancos, relativos a inversiones y acreencias en bancos extranjeros.
-
-e) Límite a que se refiere la letra a) del N° 5 del artículo 84 de la Ley General de Bancos, sobre bienes recibidos en pago, materia de que trata el Capítulo 10-1 de esta Recopilación.
-
-f) Límite establecido para las instituciones prestamistas de los créditos especiales de que trata el artículo 137 de la Ley General de Bancos.
-
-g) Límite relativo a la obligación de constituir reserva técnica, establecido en el artículo 80 bis de la Ley General de Bancos, tratado en el Capítulo 4-2 de esta Recopilación.
-
-h) Límite de avales y fianzas a que se refiere el Capítulo III.I.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 8-10 de esta Recopilación.
-
-i) Relación de operaciones activas y pasivas, establecida en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, para cuyo cumplimiento las instituciones deben atenerse a lo dispuesto en el Capítulo 12-9 de esta Recopilación.
-
-j) Límite de depósitos, captaciones y préstamos recibidos de otras instituciones financieras, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y tratado en el Capítulo 12-7 de esta Recopilación.
-
-k) Límite para la adquisición de letras y bonos de propia emisión, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y tratado en el Capítulo 12-11 de esta Recopilación.
-
-l) Límite de obligaciones con el exterior a que se refiere el Capítulo V.A.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 12-8 de esta Recopilación.
-
-4.3. Efectos de los bonos subordinados en las presunciones de los artículos 116 y 119, letra a) de la Ley General de Bancos.
-
-El artículo 116 de la Ley General de Bancos contiene dos presunciones construidas sobre la base de la relación deuda capital (artículo 81). Para estos efectos, deben considerarse los bonos subordinados como constitutivos de capital, según las reglas definidas anteriormente, por cuanto no cabría dar un tratamiento diferente al límite legal referido.
-
-En cambio, el artículo 119, letra a), construye una presunción de insolvencia sobre la base de la pérdida de una determinada parte del capital y reservas de la institución, la que debe aplicarse sobre tal concepto sin agregarle los bonos subordinados en forma alguna. En efecto, en primer lugar no se trata de una limitación legal ni de una presunción construida sobre un límite y, además, el fin preciso de los bonos subordinados es que se capitalicen en caso de insolvencia, supliendo la falta de capital. Obvio resulta que para estos efectos los bonos subordinados tampoco pueden considerarse pasivo exigible, salvo cuando deban así estimarse según las normas del artículo 68 de la Ley General de Bancos y las instrucciones contenidas en el N° 5 siguiente.
-
-5. Cómputo de los bonos como pasivo exigible para los efectos de los artículos 81, 115, 116 y 119 de la Ley General de Bancos.
-
-Atendido que sólo puede considerarse como capital para los efectos de límites legales el 85% del valor par de los bonos y hasta la concurrencia del 20% del capital pagado y reservas de la institución emisora, las instituciones financieras podrán excluir del cómputo de obligaciones para con terceros, afectas a los márgenes de que tratan los artículos 81 y 115 de la Ley General de Bancos y para los fines de los artículos 116 y 119 de la misma ley, la parte no vencida de los bonos subordinados, hasta por el equivalente al 23,529% de su capital pagado y reservas.
-
-La excepción antes señalada se aplicará durante toda la vigencia de los bonos, abarcando, por lo tanto, también el lapso en el cual ellos no pueden computarse como capital.
-
-Los bonos o cupones vencidos que no hayan sido pagados, al igual que aquella parte de los bonos por vencer que exceda del porcentaje antes indicado, calculado sobre el capital y reservas a la fecha del cómputo, deben considerarse para todos los efectos como obligaciones para con terceros.
-
-### 6. Reducción del capital pagado y reservas
-
-En el numeral 4.1 anterior y en el 5 precedente, se establecen los límites para la parte computable como capital y para aquella que no se considera como obligaciones para con terceros en los casos que se indican, equivalentes al 20% y al 23,529%, respectivamente, del capital pagado y reservas que exista a la fecha del cómputo.
-
-Sin embargo, si por cualquier causa se reduce el capital pagado y reservas, las instituciones financieras podrán utilizar esos límites, durante los seis meses siguientes de aquel en que se produzca la disminución, aplicando por consiguiente, los mencionados porcentajes sobre el monto del capital pagado y reservas que existía antes de la reducción.
-
-### 7. Instrucciones contables
-
-7.1.- Registro de las obligaciones.
+5.1.- Registro de las obligaciones.
 
 Los bonos subordinados se registrarán de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las siguientes cuentas en el pasivo: "Bonos subordinados en circulación", "Descuentos por colocación de bonos subordinados" y "Primas por colocación de bonos subordinados", de la partida 4190, y "Bonos subordinados vencidos por pagar" de la partida 3010.
 
-7.2. Cuentas de orden para reflejar el cómputo como capital y la parte que corresponda computar como obligaciones con terceros.
-
-Las instituciones financieras que emitan bonos subordinados deberán registrar la parte computada como capital de acuerdo con las instrucciones del numeral 4.1 de este Capítulo, en la cuenta "Bonos subordinados computados como capital", de la partida 9700 "Valores complementarios para efectos de márgenes".
-
-El saldo de la cuenta "Bonos subordinados computados como capital" deberá reflejar, al término de cada mes, el 85% de aquella parte del capital, reajustes e intereses devengados a la fecha, para cuyo pago falten más de dos años, menos el saldo de la cuenta "Descuentos en colocación de bonos subordinados" a la misma fecha, o el 20% del capital pagado y reservas, si ese equivalente fuere menor, teniendo presente lo dispuesto en el N° 6 de este Capítulo.
-
-Asimismo, las instituciones demostrarán, cuando corresponda, en la cuenta de orden "Bonos subordinados vigentes computados como obligaciones", de la partida 9700, el valor correspondiente a la diferencia positiva que resulte de restar al total de las obligaciones por bonos no vencidos (partida 4190), el valor equivalente al 23,529% del capital pagado y reservas, considerando para el efecto lo señalado en el N° 6 de este Capítulo. No se incluirán en esta cuenta de orden los importes correspondientes a cupones o bonos vencidos y no cobrados que se computan por su calidad de obligaciones a la vista.
-
-7.3.- Bonos colocados en el exterior.
+5.2.- Bonos colocados en el exterior.
 
 En caso de que se coloquen bonos subordinados en el exterior y se liquiden los recursos captados, se utilizarán las cuentas de "Conversión" y "Cambio" señaladas en el numeral 5.2 del Capítulo 13-34 de esta Recopilación.
+
+5.3.- Cuenta de orden para reflejar el cómputo como patrimonio efectivo.
+
+Para fines de información a esta Superintendencia, las instituciones financieras que emitan bonos subordinados deberán incluir el importe total computado como patrimonio efectivo, a que se refiere el N° 4 de este Capítulo, en la cuenta "Bonos subordinados computados como patrimonio efectivo", de la partida 9700.
 
 CAPITULO 10-1 (Bancos y Financieras)
 
@@ -16436,201 +16370,273 @@ CAPITULO 12-1 (Bancos y Financieras)
 
 MATERIA:
 
-CAPITAL PAGADO Y RESERVAS PARA EFECTOS LEGALES Y REGLAMENTARIOS.
+PATRIMONIO PARA EFECTOS LEGALES Y REGLAMENTARIOS.
 
-1. Determinación del capital pagado y reservas para efectos de límites legales y reglamentarios.
+I.- CAPITAL BASICO. PATRIMONIO EFECTIVO Y LIMITES LEGALES Y REGLAMENTARIOS.
 
-1.1. Norma general.
+1.- Capital básico.
 
-Para determinar el monto del capital pagado y reservas de un banco o sociedad financiera, se sumarán los saldos que se encuentren registrados, conforme a las instrucciones impartidas por esta Superintendencia, en las cuentas que deben incluirse en las partidas 4305, 4310, 4315, 4320 y 4405 del formulario MB1.
+El "capital básico" o capital pagado y reservas comprende el capital pagado, las reservas y las demás cuentas patrimoniales que, conforme a las instrucciones contables de esta Superintendencia, deben incluirse en las partidas 4305 a 4405.
 
-De conformidad con lo dispuesto en el artículo 31 bis de la Ley General de Bancos, las empresas bancarias constituidas en Chile que tengan sucursales en el exterior, deberán rebajar de su capital pagado y reservas, determinado según lo señalado en el inciso anterior, el capital asignado a cada sucursal que mantengan fuera del país. Del mismo modo, el banco inversionista deberá rebajar de su capital pagado y reservas la inversión que mantenga en un banco del exterior, según lo indicado en el Capítulo 11-4 de esta Recopilación.
+Para los efectos de la aplicación de los márgenes referidos al capital pagado y reservas, mencionados en el numeral 5.1 de este título, se deducirá el capital asignado a las sucursales en el exterior, señalado en la letra a) del numeral 2.1 de este título.
 
-1.2. Cómputo de bonos subordinados como capital.
+Por otra parte, para los efectos del cálculo del importe máximo de bonos subordinados a que se refiere el artículo 55 de la Ley General de Bancos, deberán deducirse, además del capital asignado a sucursales en el exterior, los importes correspondientes a inversiones en sociedades, aludidos en la letra b) del numeral 2.1 de este título.
 
-De acuerdo con lo establecido en el artículo 68 de la Ley General de Bancos, las instituciones financieras que hayan emitido los bonos subordinados de que trata el Capítulo 9-6 de esta Recopilación Actualizada de Normas, computarán como capital parte de la obligación por estos bonos, para los efectos de encuadrarse dentro de los límites legales que se señalan en el Capítulo 9-6 de esta Recopilación.
+2.- Patrimonio efectivo.
 
-El monto computable como capital será equivalente al 85% de aquella parte del valor par de los bonos a la fecha del cómputo, para cuyo pago falten más de dos años, deducido el saldo de la cuenta "Descuentas en colocación de bonos subordinados" de que trata el mencionado Capítulo 9-6, cuando la colocación se hubiera hecho con un descuento sobre su valor par.
+De acuerdo con el artículo 66 de la Ley General de Bancos, se entiende por "patrimonio efectivo" el capital pagado y reservas, con las deducciones y agregados que se indican a continuación:
 
-No obstante, la parte así computada no podrá superar el 20% del capital pagado y reservas de la sociedad emisora, entendiendo por tal el monto definido en el primer párrafo del numeral 1.1 del presente Capítulo. En caso de reducción del capital pagado y reservas, podrá considerarse, durante los seis meses siguientes, el porcentaje aplicado sobre el capital pagado y reservas existente antes de la disminución, de acuerdo con lo dispuesto en el N°6 del ya mencionado Capítulo 9-6.
+2.1.- Importes que se deducen.
 
-1.3. Deducción al capital y reservas para los efectos del artículo 81 ó 115 de la Ley General de Bancos, de las inversiones en sociedades filiales o de apoyo.
+a) El capital asignado a sucursales en el exterior, según lo establecido en el N° 1 del artículo 81 de la Ley General de Bancos, tratado en el título III del Capítulo 11-7 de esta Recopilación.
 
-El capital que una institución financiera aporte a una sociedad, al amparo de lo dispuesto en el N° 11 bis o en el N° 15 bis del artículo 83 de la Ley General de Bancos, será deducido de su capital pagado y reservas para los efectos de la aplicación del margen a que se refieren los artículos 81 y 115 de dicha ley, cuando la empresa en la que participa el banco o la sociedad financiera tenga la calidad de sociedad filial de acuerdo con las disposiciones del artículo 86 de la Ley sobre Sociedades Anónimas. Sin embargo, en la medida en que el pasivo exigible de la sociedad filial no supere el monto de su propio capital pagado y reservas, dicha deducción se hará sólo parcialmente y de acuerdo con el monto delas obligaciones de la filial con terceros y con el porcentaje de participación de la institución financiera en el capital de su filial.
+b) Las inversiones en sociedades, según lo establecido en el último inciso del artículo 66 de la Ley General de Bancos. La rebaja incluirá los saldos registrados en el activo por las inversiones permanentes en sociedades en el país y en el exterior, de acuerdo con lo establecido en los Capítulos 11-6 y 11-7 de esta Recopilación, respectivamente.
 
-Para dar cumplimiento a lo anterior, el monto a deducir del capital y reservas de la institución financiera matriz se obtendrá multiplicando el porcentaje de participación que ésta tenga en el capital pagado de la filial, por el monto de los pasivos exigibles que esta última con terceros diferentes a la propia institución financiera matriz, en el balance utilizado para aplicar el método del Valor Patrimonial Proporcional al cierre del respectivo mes, de acuerdo con las instrucciones de los Capítulos 11-2 y 11-3 de esta Recopilación Actualizada de Normas el último día del trimestre calendario inmediatamente anterior, excluidos los que correspondan a obligaciones con la propia institución financiera matriz.
+2.2.- Importes que se agregan.
 
-Si las obligaciones con terceros a que se refieren los párrafos anteriores exceden del capital pagado y reservas de la filial, la institución deberá deducir el importe en que la inversión se encuentre registrada en el activo a la fecha de cómputo de su margen de endeudamiento, excluido el resultado que se haya reconocido por la respectiva inversión, que se mantenga registrado a la misma fecha en alguna de las cuentas de utilidad o pérdida que se mencionan en el numeral 13.2 del Capítulo 11-2 o en el numeral 12.1.2 del Capítulo 11-3 de esta Recopilación Actualizada de Normas, según corresponda.
+a) Bonos subordinados colocados, hasta concurrencia de un 50% del capital básico. El valor de estos bonos computable como patrimonio efectivo, disminuirá en un 20% por cada año que transcurra a contar de la fecha en que falten seis años para su vencimiento. Para este efecto las instituciones financieras se atendrán a lo indicado en el Capítulo 9-6 de esta Recopilación.
 
-El monto que corresponde rebajar del capital pagado y reservas para establecer, al término de cada mes, aquel que debe considerarse para efectos del artículo 81 ó 115 de la Ley General de Bancos, según las instrucciones de este numeral, se registrará en la cuenta de orden "Deducción del capital por participación en filiales", de la partida 9700.
+b) Provisiones voluntarias constituidas de acuerdo con lo previsto en el N° 4 de este título, hasta concurrencia del 1,25% de los activos ponderados por riesgo a que se refiere el título II de este Capítulo.
 
-1.4.- Capital y reservas para los efectos del inciso 2° del Art. 83 y de la letra a) del Art. 83 bis de la Ley General de Bancos.
+3.- Exigencias de capital.
 
-Para calcular el capital pagado y reservas para los efectos del límite de inversiones de que trata el inciso segundo del artículo 83 y la letra a) del artículo 83 bis de la Ley General de Bancos, no se efectuará la deducción del monto de las inversiones en acciones de bancos extranjeros señalada en el segundo párrafo del numeral 1.1 de este Capítulo.
+Sin perjuicio de lo dispuesto en los artículos 50 y 114 de la Ley General de Bancos, que establecen un capital pagado y reservas mínimo de 800.000 y 400.000 Unidades de Fomento, respectivamente, según se trate de bancos o sociedades financieras, las instituciones están sujetas a las siguientes exigencias de patrimonio mínimo de acuerdo a lo señalado en el artículo 66 de la misma ley:
 
-### 2. Reparto de dividendos o remesas de utilidades
+3.1.- Capital básico mínimo.
 
-Conforme lo establece el inciso tercero del artículo 75 de la Ley General de
+El capital básico de una institución financiera no podrá ser inferior al 3% de los activos totales, netos de las provisiones exigidas. Para este efecto, los activos totales se determinarán según lo previsto en el título II de este Capítulo.
 
-Bancos, les está vedado a las instituciones financieras disminuir su capital
+3.2.- Patrimonio efectivo mínimo.
 
-pagado y reservas, en virtud de un reparto de dividendos con cargo a utilidades
+El patrimonio efectivo de un banco no podrá ser inferior al 8% de sus activos ponderados por riesgo. Para este efecto los activos deben considerarse netos de sus respectivas provisiones y con las ponderaciones de que trata el título II de este Capítulo.
 
-del ejercicio o a fondos de reserva, si a causa de esta disminución se
+3.3.- Insuficiencia de patrimonio.
 
-transgrede la proporción que fijan los artículos 81 y 115, que tratan del límite
+Las instituciones financieras que no dieren cumplimiento a las exigencias de capital básico y patrimonio efectivo señaladas en los numerales 3.1 y 3.2 precedentes, deberán encuadrarse en ellas dentro de un plazo de sesenta días, contado desde la fecha en que se produjo el incumplimiento, sin perjuicio de incurrir en una multa del uno por mil sobre el déficit de patrimonio efectivo o capital básico, según corresponda, por cada día que lo mantenga.
 
-que pueden alcanzar los depósitos y obligaciones para con terceros de un banco o
+Esas insuficiencias patrimoniales pueden dar origen además, según su magnitud, a las presunciones legales de que tratan los artículos 118 y 122 de la Ley General de Bancos.
 
-sociedad financiera, respectivamente, o los márgenes de crédito señalados en el
+4.- Provisiones voluntarias.
 
-#### Artículo 84
+Constituyen "provisiones voluntarias", de acuerdo con el artículo 66 de la Ley General de Bancos, "las que excedan de aquellas que los bancos deban mantener por disposición de la ley o por norma de la Superintendencia".
 
-de la misma ley. La única excepción que se contempla en cuanto a que
+A ese respecto, las disposiciones de este Organismo exigen expresamente la constitución de provisiones para la mayoría de los activos y, por otra parte, ordenan aplicar criterios de general aceptación en todo aquello que no ha sido objeto de instrucciones específicas.
 
-una institución financiera puede disminuir su capital pagado y reservas,
+El hecho de que esta Superintendencia establezca provisiones mínimas para los principales activos no es óbice para constituir provisiones superiores a esas mínimas exigidas. Por el contrario, si en algún momento la administración estima insuficientes las coberturas que se determinan mediante las metodologías de aplicación general dispuestas por este Organismo, la institución debe constituir mayores provisiones para obtener el resguardo que estime prudente frente a las circunstancias, como asimismo, constituir las demás provisiones que sean necesarias de acuerdo con criterios contables de aceptación general. Estas mayores provisiones sobre los activos deben también ser rebajadas de ellos para la medición del cumplimiento de las exigencias de capital básico y patrimonio efectivo mínimos de que tratan los numerales 4.1 y 4.2 de este título.
 
-excediendo la proporción o margen antedichos, ocurre cuando se trata de repartos
+Debe entenderse entonces que, para los efectos del artículo 66 de la Ley General de Bancos, tienen el carácter de provisiones voluntarias aquellas que no han sido establecidas obligatoriamente por esta Superintendencia y que no correspondan a una finalidad específica y concordante con criterios contables de aceptación general, esto es, aquellas que no están destinadas a cubrir riesgos o contingencias que pudieran estar presentes en los activos, ni corresponden a determinadas obligaciones de pago reales o contingentes.
 
-de dividendos obligatorios fijados por la ley.
+Con ese carácter de resguardos genéricos frente a eventuales pérdidas futuras o incertidumbre propias de la industria bancaria, las provisiones voluntarias constituidas pueden considerarse como representativas de patrimonio, permitiendo la ley computarlas como patrimonio efectivo hasta un 1,25% de los activos ponderados por riesgo.
 
-De acuerdo con lo dispuesto en el artículo 30 de la Ley General de Bancos, que
+Desde el momento en que las provisiones voluntarias se computen como patrimonio efectivo, las instituciones financieras quedan impedidas de disminuirlas, si con ello infringen la respectiva proporción establecida en el artículo 66 de la Ley General de Bancos o los demás márgenes o límites legales y reglamentarios establecidos sobre la base del patrimonio efectivo.
 
-hace extensivo a los bancos extranjeros que operan en Chile las leyes y
+5. - Límites o márgenes a los que se aplica el capital pagado y reservas o el patrimonio efectivo.
 
-reglamentos que rigen a los bancos nacionales, las instituciones financieras
+5.1.- Capital pagado y reservas.
 
-extranjeras que actúan en nuestro país están igualmente sujetas a la prohibición
+El capital pagado y reservas, con la correspondiente deducción del capital asignado a sucursales del exterior, debe aplicarse para los siguientes límites señalados en la Ley General de Bancos:
 
-de disminuir el capital y reservas de su agencia en Chile, si con ello infringen
+a) Límite de inversiones dispuesto en el inciso segundo del artículo 69 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación.
 
-los artículos 81 u 84 de la ley.
+b) Límite relativo a la obligación de constituir reserva técnica, establecido en el artículo 65 de la Ley General de Bancos, tratado en el Capítulo 4-2 de esta Recopilación.
 
-Si bien las agencias de bancos extranjeros no reparten dividendos, dichas
+c) Límite de tenencia transitoria de acciones de primera emisión, adquiridas en virtud de la garantía otorgada como agente colocador, establecido en el artículo 69 N° 25 de la Ley General de Bancos.
 
-instituciones, conforme lo establece el inciso final del artículo 47 de la Ley
+5.2.- Patrimonio efectivo.
 
-General de Bancos, están facultadas para remesar al exterior sus utilidades
+El patrimonio efectivo se utilizará para los límites legales que a continuación se indican:
 
-líquidas con autorización previa de esta Superintendencia y con sujeción al
+a) Límites de crédito de que tratan los N°s. 1, 2 y 4 del artículo 84 de la Ley General de Bancos y los Capítulos 12-3, 12-4 y 12-5 de esta Recopilación Actualizada de Normas.
 
-Decreto Ley N° 600, Estatuto de la Inversión Extranjera, y a las demás
+b) Límite a que se refiere la letra a) del N° 5 del artículo 84 de la Ley General de Bancos, sobre bienes recibidos en pago, materia de que trata el Capítulo 10-1 de esta Recopilación.
 
-disposiciones que rigen la materia. Sin embargo, a este respecto, cabe hacer
+c) Límite establecido en el N° 1 del artículo 80 de la Ley General de Bancos, relativo a inversiones en sucursales y sociedades en el exterior.
 
-presente que la autorización de este Organismo para el envío al exterior de
+d) Límite establecido para las instituciones acreedoras de los créditos especiales de que trata el artículo 140 de la Ley General de Bancos.
 
-remesas no implica de modo alguno que un banco extranjero puede disminuir el
+e) Límites de avales y fianzas en moneda chilena establecidos por esta Superintendencia, tratados en el Capítulo 8-10 de esta Recopilación.
 
-capital y reservas radicados en el país, si con ello vulnera la proporción del
+6.- Reparto de dividendos o remesas de utilidades.
 
-#### Artículo 81
+Conforme lo establece el inciso tercero del artículo 56 de la Ley General de Bancos, está vedado a las instituciones financieras repartir dividendos con cargo a utilidades del ejercicio o a fondos de reserva si, por efecto de ese reparto, se transgrede alguna de las proporciones que fija el artículo 66 o los márgenes de crédito señalados en el artículo 84 de la misma ley. La única excepción que se contempla en cuanto a que una institución financiera pueda disminuir su patrimonio efectivo, excediendo las proporciones o márgenes antedichos, ocurre cuando se trata de repartos de dividendos obligatorios fijados por la ley.
 
-o excede los márgenes del artículo 84 de la Ley General de
+De acuerdo con lo dispuesto en el artículo 34 de la Ley General de Bancos, que hace extensivo a los bancos extranjeros que operan en Chile las leyes y reglamentos que rigen a los bancos nacionales, las instituciones financieras extranjeras que actúan en nuestro país están igualmente sujetas a la prohibición de disminuir el capital básico y patrimonio efectivo de su agencia en Chile, si con ello infringen los artículos 66 u 84 de la ley.
 
-Bancos,toda vez que la autorización previa sólo tiene por objeto verificar el
+Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la Ley General de Bancos, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Superintendencia y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de este Organismo para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital y reservas radicados en el país, si con ello vulnera alguna de las proporciones del artículo 66 o excede los márgenes del artículo 84 de la Ley General de Bancos.
 
-cumplimiento del Estatuto de la Inversión Extranjera y las demás normas
+II.- ACTIVOS PONDERADOS POR RIESGO Y ACTIVOS TOTALES.
 
-atinentes a esa materia.
+1.- Determinación de los activos que se computan y ponderan.
 
-En síntesis, salvo la excepción antes anotada de reparto de dividendos
+Para determinar el activo total en relación con la exigencia de capital básico a partir de los saldos que deben incluirse en el sistema de información de esta Superintendencia (archivo C01) , se tomará la suma de los montos que se informan en las partidas de "activos y saldos deudores" (1005 a 2525), efectuando las deducciones y agregados que se indican a continuación:
 
-obligatorios en el caso de bancos nacionales y de sociedades financieras, tanto
+A) Se deducen: los importes de la partida 2127 "Operaciones a futuro" y la cuenta "Contratos a futuro" de la partida 2525, debido a que incluyen valores nominales de control de derivados financieros, los que deberán computarse por su equivalente de crédito según lo indicado en la letra E).
 
-éstos como los bancos extranjeros que operan en nuestro país, no pueden
+B) Se deducen: el importe de la partida 2105 "Saldos con sucursales en el país"; los montos de las partidas 2505 a 2525, correspondientes a cuentas de ajuste y control; y, el saldo de la cuenta "Pagos provisionales mensuales (PPM)" de la partida 2120, a fin de incorporar, cuando corresponda, los saldos netos identificables como activos en un balance, según lo indicado en la letra D). Además, se deduce, con su respectivo ajuste a valor de mercado, el importe de las letras de crédito de propia emisión que mantenga la institución.
 
-disminuir o rebajar voluntariamente su capital y reservas, si en virtud de dicha
+C) Se deducen: los montos de las siguientes partidas que en el sistema de información se incluyen bajo "pasivos y saldos acreedores", por tratarse de provisiones constituidas sobre los activos: 4205 "Provisiones sobre colocaciones"; 4207 "Provisiones para créditos hipotecarios para vivienda"; 4210 "Provisiones sobre inversiones"; 4220 "Provisiones por bienes recibidos en pago"; y, 4241 "Provisiones por riesgo-país".
 
-disminución infringen los límites de endeudamiento dispuestos en los artículos
+D) Se agregan: los siguientes importes netos cuando los saldos deudores sean mayores que los saldos acreedores asociados: la diferencia entre las partidas 2105 y 4105,
 
-81 y 115 de la Ley General de Bancos, o los márgenes de crédito dispuestos en el
+"Saldos con sucursales en el país"; la diferencia entre las cuentas de ajuste y control de las partidas 2505 a 2525 y 4505 a 4525, con excepción de las cuentas "Contratos a futuro"; y, la diferencia entre la cuenta "Pagos provisionales mensuales (PPM)" de la partida 2120 y la cuenta "Provisión para impuesto a la renta" de la partida 4120.
 
-#### Artículo 84
+E) Se agregan: los importes correspondientes al equivalente de crédito de los instrumentos derivados, según el procedimiento de cálculo señalado en el N° 3 de este título.
 
-del mismo cuerpo legal.
+2.- Clasificación de los activos por categorías.
 
-### 3. Normas contables
+Para los efectos de su ponderación por riesgo, de acuerdo con lo dispuesto en el artículo 67 de la Ley General de Bancos, los activos se clasificarán en las siguientes categorías cuyo porcentaje de riesgo se indica:
 
-3.1. Absorción de pérdidas de un ejercicio.
+Categoría Porcentaje
 
-La pérdida que pueda resultar de un ejercicio deberá ser absorbida al tiempo de la apertura del ejercicio siguiente, con cargo a las cuentas de capital y reservas, en el siguiente orden de prioridades: a) Reservas provenientes de utilidades, excluida la reserva legal; b) Reservas de capitalización, excluidas las reservas expresamente constituidas para futuros aumentos de capital;
+1 0%
 
-c)Reservas destinadas a aumentos de capital; d) Reserva legal; y, e) Capital pagado.
+2 10%
 
-Se deberá dar cuenta a la Junta de Accionistas de la absorción de la pérdida del ejercicio, haciéndole presente, cuando corresponda, las disposiciones de la Ley General de Bancos relativas a capitalizaciones preventivas o al capital y reservas mínimo.
+3 20%
 
-De acuerdo con lo dispuesto en el segundo inciso del artículo 75 de la Ley General de Bancos, si la pérdida afectare la reserva legal o parte del capital, la institución no podrá repartir dividendos mientra no haya reparado la pérdida.
+4 60%
 
-3.2. Utilidad del ejercicio anterior.
+5 100%
 
-La utilidad neta que se obtenga de u ejercicio deberá ser acreditada, al momento de la apertura del ejercicio siguiente, en la cuenta "Utilidad del ejercicio anterior por asignar", que se abrirá para este efecto en la partida 4320 "Otras reservas" del formulario MB1. Sin embargo, la parte correspondiente a la exigencia mínima de reserva legal, equivalente al 10% de la utilidad o al monto menor que faltare para completarla, se registrará directamente en la cuenta "Reserva legal" de la partida 4315 del referido formulario.
+Para la clasificación de que se trata, los activos se incluirán en las categorías que corresponda, deduciendo el importe de sus respectivas provisiones. Del mismo modo, los activos sujetos a ajustes a su valor de mercado, deben considerarse a su valor ajustado.
 
-La cuenta "Utilidad del ejercicio anterior por asignar" se saldará con abono a una cuenta de utilidades retenidas por repartir de la misma partida o contra reservas no distribuibles, incluida la reserva legal si se decidiere incrementar esta última más allá del mínimo exigido, una vez que la Junta de Accionistas olas autoridades de la Casa Matriz, en el caso de una agencia de un banco
+Los activos que se incluyen en cada categoría son los señalados a continuación:
 
-extranjero, decidan sobre el destino de dichas utilidades, teniendo presente las disposiciones del artículo 75 de la Ley General de Bancos.
+2.1.- Categoría 1.
 
-Con todo, las instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile u obligación de recompra de cartera con el Instituto Emisor, deberán registrar la totalidad de la utilidad del ejercicio anterior, equivalente al excedente que le corresponde a las acciones preferidas, en la cuenta "Utilidad distribuible acciones preferidas" de la partida 4320. En atención a que ese excedente se rige por las disposiciones del artículo 10 de la Ley N° 18.401 no queda afecto, en ningún caso, a la exigencia de constituir la reserva de que trata el artículo 73 de la Ley General de Bancos. Dicho excedente permanecerá registrado en esta cuenta especial hasta que la Junta de Accionistas acuerde su distribución o capitalización de conformidad con la disposición legal citada y con las instrucciones impartidas por este Organismo mediante Circular N° 2.255-677 de 13 de mayo de 1987.
+a) Fondos disponibles mantenidos en caja o depositados en el Banco Central de Chile.
 
-3.3. Aumentos de capital.
+b) Fondos depositados a la vista en instituciones financieras regidas por la Ley General de Bancos, considerando los documentos en proceso de cobro, depositados o incluidos en el canje. Se incluyen, además, los depósitos en cuenta corriente o a la vista en el exterior, cuando la institución financiera depositaría esté calificada en primera categoría de riesgo por una empresa calificadora internacional incluida en la nómina del Capítulo 1-12 de esta Recopilación Actualizada de Normas.
+
+c) Instrumentos financieros emitidos o garantizados por el Banco Central de Chile.
+
+d) Los activos correspondientes a las inversiones en sociedades y sucursales en el exterior, que se deducen de acuerdo con el artículo 66.
+
+2.2.- Categoría 2.
+
+a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile.
+
+b) Instrumentos financieros en moneda de su país de origen, emitidos o garantizados por Estados o bancos centrales de países extranjeros, siempre que los instrumentos en esas monedas estén calificados en primera categoría de riesgo por una empresa calificadora internacional, incluida en la nómina del Capítulo 1-12 de esta Recopilación Actualizada de Normas.
+
+2.3.- Categoría 3.
+
+a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país.
+
+b) La ley también incluye en esta categoría las "cartas de crédito irrevocables y pagaderas a su sola presentación para operaciones de comercio exterior, pendientes de negociación, otorgadas por bancos extranjeros calificados en primera categoría de riesgo que figuren en la nómina a que se refiere el artículo 78". De esta disposición se desprende que los bancos podrán incluir en esta categoría los créditos contingentes que correspondan a confirmaciones de cartas de crédito documentarías a la vista, emitidas por bancos extranjeros calificados en primera categoría de riesgo por una empresa calificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
+
+2.4.- Categoría 4.
+
+a) Préstamos con garantía hipotecaria para vivienda, otorgados al adquiriente final de tales inmuebles. Incluye los créditos vigentes y en cartera vencida, definidos como créditos hipotecarios para vivienda en el Capítulo 8-28 de esta Recopilación.
+
+b) Créditos contingentes que, de acuerdo con las instrucciones de esta Superintendencia, deben incluirse en las partidas 1605, 1610, 1615, 1620, 1655 y 1660. Incluye, en consecuencia, las colocaciones contingentes que corresponden a: emisión de boletas de garantía, otorgamiento de avales y fianzas, emisión de cartas de crédito y confirmaciones de cartas de crédito. Las confirmaciones de cartas de crédito que cumplan las condiciones indicadas en la letra b) del numeral 2.3 precedente, se incluirán en categoría 3.
+
+2.5.- Categoría 5.
+
+En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total determinado según lo señalado en el N° 1 de este título, menos los importes de los activos netos clasificados en las categorías anteriores.
+
+3.- Equivalente de crédito de los instrumentos derivados.
+
+Para los efectos de que trata este título, se considerará como activo el equivalente de crédito de los contratos a futuro sobre tasa de interés o sobre tipo de cambio de monedas autorizados por el Banco Central de Chile, de acuerdo con las siguientes instrucciones:
+
+3.1.- Base de cálculo.
+
+Para determinar el equivalente de crédito de las operaciones con instrumentos derivados, se deben incluir solamente los contratos que a la fecha del cómputo tengan un valor de mercado que represente una utilidad para la institución financiera, sea que se hayan pactado en Bolsas Oficiales Extranjeras o en mercados fuera de bolsa ("O.T.C"). Para establecer si un contrato tiene un valor de mercado que represente una utilidad o pérdida para la institución financiera, se debe considerar el resultado que se haya determinado para cada uno de los contratos al efectuar el ajuste al cierre del mes, de conformidad con las instrucciones contables de esta Superintendencia sobre la materia. Por lo tanto, no se efectuará compensación alguna entre contratos que registren utilidad y aquellos que registren pérdidas.
+
+Para determinar el equivalente de crédito para cada uno de esos contratos que registren utilidad, se aplicarán los porcentajes que más adelante se indican, sobre el valor nominal de aquellos que se encuentren vigentes en la fecha del cómputo. Igual procedimiento deberá seguirse cuando se trate de opciones vigentes, aplicando en este caso los porcentajes sobre el valor nominal de los respectivos contratos subyacentes. En el caso de los forwards de monedas, se entenderá por valor nominal para estos efectos, el importe de la moneda que la institución financiera acuerde adquirir.
+
+3.2.- Contratos sobre tasas de interés.
+
+Para los contratos sobre tasas de interés, se aplicarán los siguientes porcentajes, según el plazo que reste para su vencimiento:
+
+Plazo hasta el vencimiento Porcentaje
+
+Hasta un año 0,0%
+
+Más de un año hasta cinco años 0,5%
+
+Más de cinco años 1,5%
+
+3.3.- Contratos sobre monedas.
+
+Para el cálculo del equivalente de los contratos sobre monedas, incluida la unidad de fomento, se aplicarán porcentajes diferentes según la canasta en que esté incluida la moneda que se recibiría. Para tal efecto, las distintas monedas se agruparán en las siguientes canastas:
+
+Canasta 1: Incluye el dólar estadounidense, el marco alemán, el yen, la unidad de fomento y el peso chileno.
+
+Canasta 2: Comprende las demás monedas extranjeras señaladas en el Anexo 2 del Capítulo I del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+
+Canasta 3: Incluye el resto de las monedas en que pudiesen estar pactados los contratos.
+
+Los porcentajes que se aplicarán según el plazo que reste para el vencimiento de cada contrato y la respectiva canasta, serán los siguientes:
+
+Plazo hasta el vencimiento Canasta 1 Canasta 2 Canasta 3
+
+Hasta un año 1,5% 2.0% 7.5%
+
+Más de un año hasta cinco años 6,0% 8.0% 30.0%
+
+Más de cinco años 9,0% 12.0% 45.0%.
+
+III.- NORMAS CONTABLES.
+
+1.- Capital pagado y reservas.
+
+1.1.- Absorción de pérdidas de un ejercicio.
+
+La pérdida que pueda resultar de un ejercicio deberá ser absorbida al tiempo de la apertura del ejercicio siguiente con cargo a las cuentas de reservas. Si ellas fueren insuficientes para absorber toda la pérdida, la diferencia se imputará al capital pagado.
+
+Se deberá dar cuenta a la Junta de Accionistas de la absorción de la pérdida del ejercicio, haciéndole presente, cuando corresponda, las disposiciones de la Ley General de Bancos relativas a exigencias de capital y los plazos para darles cumplimiento.
+
+1.2.- Utilidad del ejercicio anterior.
+
+La utilidad neta que se obtenga de un ejercicio deberá ser acreditada, al momento de la apertura del ejercicio siguiente, en la cuenta "Utilidad del ejercicio anterior por asignar", de la partida 4320.
+
+La cuenta "Utilidad del ejercicio anterior por asignar" se saldará con abono a una cuenta de utilidades retenidas por repartir de la misma partida o de reservas no distribuibles, una vez que la Junta de Accionistas o las autoridades de la Casa Matriz, en el caso de una agencia de un banco extranjero, decidan sobre la distribución de dichas utilidades o su mantención en calidad de reservas.
+
+1.3.- Aumentos de capital.
 
 Los aumentos de capital por la suscripción y pago de acciones incrementarán el capital pagado sólo una vez que se paguen las respectivas acciones. Mientras no se perciba el pago total o parcial, las acciones suscritas no tendrán efecto en la contabilidad.
 
-Del mismo modo, los aportes de capital en bancos extranjeros se registrarán al momento de ingresar el capital y liquidarse las divisas.
+Del mismo modo, los aportes de capital autorizados a bancos extranjeros se registrarán al momento de ingresar el capital y liquidarse las divisas.
 
-Cuando el aumento de capital provenga de un acuerdo de capitalización de excedentes destinados al pago de dividendos sobre acciones preferentes, de conformidad con la Ley N° 18.401, se abonará el capital pagado en la oportunidad en que se emitan las respectivas acciones liberadas, con cargo a la cuenta "Utilidad distribuible acciones preferidas" de la partida 4320 del MB1.
+1.4.- Reparto de dividendos y remesas de utilidades.
 
-Los aumentos de capital provenientes de capitalización de pasivos que hayan sido autorizados por esta Superintendencia, se abonarán al capital pagado al perfeccionarse la operación.
-
-3.4. Reparto de dividendos y remesas de utilidades.
-
-El pago de dividendos se registrará en la oportunidad en que ellos se pongan a disposición de los accionistas, cargando la cuenta que corresponda de la partida 4320, con abono a la cuenta "Dividendos por pagar a accionistas" que se abrirá para ese efecto y que se informará en la partida 3040 del formulario MB1.
+El pago de dividendos se registrará en la oportunidad en que ellos se pongan a disposición de los accionistas, cargando la cuenta que corresponda de la partida 4320, con abono a la cuenta "Dividendos por pagar a accionistas" de la partida 3040.
 
 En el caso de remesas de utilidades de agencias de bancos extranjeros, se cargarán las respectivas cuentas de utilidades retenidas de la partida 4320, sólo al momento de efectuarse la remesa.
 
-CAPITULO 12-2 (Bancos y Financieras)
+2.- Provisiones voluntarias.
 
-MATERIA:
+En concordancia con lo señalado en el N° 4 del título I de este Capítulo, las provisiones voluntarias deben constituirse con cargo a la utilidad de un período o ejercicio, mediante el uso de una cuenta de resultados especial, y sólo pueden ser disminuidas posteriormente con abono a aquella cuenta.
 
-MARGEN DE ENDEUDAMIENTO CON TERCEROS.
+Para ese efecto se utilizará la cuenta "Provisiones voluntarias" de la partida 4245 para reflejar las provisiones mantenidas, y la cuenta de resultados "Provisiones voluntarias" de la partida 6611 para registrar los alimentos o disminuciones de tales provisiones.
 
-### 1. Disposiciones generales
+Además, para fines de información a esta Superintendencia, las instituciones financieras que mantengan provisiones voluntarias deberán incluir el importe computado como patrimonio efectivo en la cuenta "Provisiones voluntarias computadas como patrimonio efectivo", de la partida 9700.
 
-Conforme a lo dispuesto en los artículos 81 y 115 de la Ley General de Bancos,
+IV. - DISPOSICIONES TRANSITORIAS.
 
-los depósitos y obligaciones para con terceros de una institución financiera no
+1.- Plan de adecuación de capital.
 
-pueden exceder de veinte veces su capital pagado y reservas, o de quince veces,
+Las instituciones financieras que al 4 de noviembre de 1997, fecha de publicación de la Ley N° 19.528, no mantengan la proporción entre su capital básico y sus activos de a lo menos un 3% y entre su patrimonio efectivo y sus activos ponderados por riesgo de un 8%, deberán, conforme al artículo 1° transitorio de dicha ley, sujetarse a un plan de adecuación de capital aceptado por esta Superintendencia.
 
-según se trate de un banco o de una sociedad financiera, respectivamente.
+Para este efecto, dichas instituciones deberán presentar a este Organismo una descripción acerca de la forma en que proyectan dar cumplimiento al mencionado plan, de modo que a más tardar al término del ejercicio del año 1999 queden encuadradas en los porcentajes que establece la ley.
 
-### 2. Determinación de las obligaciones
+El cumplimiento de las disposiciones sobre capital básico y patrimonio efectivo mínimos, se cumplirá transitoriamente en relación con las proporciones establecidas en el plan de adecuación de capital, que haya sido aprobado por esta Superintendencia.
 
-Para establecer el monto de las obligaciones sujetas al margen de que tratan los artículos 81 y 115 de la Ley General de Bancos, se sumarán los saldos de las cuentas que deben incluirse en las partidas 3005 a 3820, exceptuados los de aquellas comprendidas en las partidas 3430 y 3485 ("Obligaciones por equivalente divisas recuperadas y mantenidas en el Banco Central de Chile").
+2.- Déficit de capital mínimo.
 
-A lo anterior se sumarán los saldos de las siguientes cuentas de orden de la partida 9700: "Bonos subordinados computados como obligaciones", "Endeudamiento por contratos de compraventa y arbitrajes a futuro" y "Endeudamiento por Forward UF-Pesos".
+Conforme a lo establecido en el artículo 2° transitorio de la Ley N° 19.528, los bancos que, a la fecha de publicación de esta ley, mantengan un capital pagado y reservas inferior a 800.000 unidades de fomento, como asimismo las sociedades financieras cuyo capital pagado y reservas sea inferior a 400.000 unidades de fomento, tienen un plazo de tres años a contar de esa fecha para completar su capital mínimo, esto es, hasta el 4 de noviembre de 2000.
 
-Además, se incluirán todas las cauciones y garantías registradas en cuentas dela partida 9290, por obligaciones que no se hayan computado al considerar laspartidas señaladas en el párrafo anteprecedente.
+3.- Reserva técnica.
 
-De la suma de los saldos antes mencionados, se deducirán los siguientes montos, cuando corresponda:
+Las instituciones financieras que, a la fecha de publicación de la Ley N° 19.528, mantengan bonos subordinados computados como capital pagado y reservas de acuerdo con las normas legales vigentes hasta esa fecha, podrán seguir considerándolos como tales para el solo efecto de determinar la obligación de constituir la reserva técnica establecida en el artículo 65 de la Ley General de Bancos.
 
-a) El saldo de la partida 1015 "Documentos a cargo de otros bancos";
+Para este objeto y a lo más durante tres años a contar de la fecha de publicación de la Ley N° 19.528, se considerarán los saldos de los bonos en circulación que hayan sido colocados con anterioridad a la vigencia de esa ley, calculando la parte computable como capital según las normas vigentes al momento de su emisión. Esto no es óbice para aplicar la nueva modalidad de cálculo sobre estos mismos bonos, con el objeto de establecer el patrimonio efectivo, según lo indicado en el Capítulo 9-6 de esta Recopilación.
 
-b) El saldo de la cuenta "‘Documentos deducibles de encaje a cargo de sucursales", de la partida 2115;
+El importe considerado como capital para el cumplimiento de las normas sobre reserva técnica, se seguirá incluyendo, para los fines de información a esta Superintendencia, en la cuenta "Bonos subordinados computados como capital", de la partida 9700.
 
-c) El saldo de la cuenta "Letras de crédito de propia emisión", de la partida 1735.
+4.- Límites o márgenes establecidos por el Banco Central de Chile.
 
-### 3. Saldos en moneda extranjera
-
-Los saldos en moneda extranjera se computarán por su equivalente en moneda chilena, calculado al tipo de cambio de representación contable, vigente en la fecha a la cual esté referido el cómputo.
-
-### 4. Capital y reservas
-
-El capital y reservas para los efectos del artículo 81 ó 115 de la Ley General
-
-de Bancos debe determinarse de acuerdo con las instrucciones contenidas en el
-
-Capítulo 12-1 de esta Recopilación de Normas.
+Mientras el Banco Central de Chile no modifique sus instrucciones sobre los límites o márgenes que ha establecido con referencia al capital pagado y reservas, ellos se cumplirán considerando el importe del capital pagado y reservas calculado también en la forma que se indica en el N° 3 precedente.
 
 CAPITULO 12-3 (Bancos y Financieras)
 
