@@ -1,0 +1,3 @@
+Por Resolución Nº 1.105, de 1 de agosto de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, rectifícase el extracto de la resolución Nº 1.675, de 1996, de esta Subsecretaría, publicado en el Diario Oficial el día 20 de septiembre de 1996, en el sentido de precisar que la solicitud de concesión de acuicultura que se deniega corresponde a la solicitud Nº 94103121, presentada por CARLOS AUGUSTO BECKER ALVEAR y la ubicación del establecimiento de cultivo es Punta Centinela, Isla Taucolón, Comuna de Quemchi, Provinicia de Chiloé, X Región.
+
+Valparaíso, 1 de agosto de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
