@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 2.025 de 28 de Sept. de 1987, conforme Art.
+
+4° Transitorio Código de Aguas determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido o Reserva y Sector Expropiado de predios "Hijuela Tercera del Fundo Santa Laura" e "Hijuela D del Fundo El Guaico", ubicados en la comunal de Romeral, VII Región; y Derechos Aprovechamiento Aguas que corresponden a Parcelas 1 a la 23 y sitios 1 al 7 y 14 al 19 del Proyecto de Parcelación "San Pablo" formado por predios señalados y predio "San Pablo y Bellavista". Los derechos de agua se extraen de los canales Chuñuñe, Punta del Monte Moreno, Farías y del Estero San Pablo, todos derivados del Río Teno y Derrames de Potreros La Higuera, Hijuela Guaico Cuatro y Guaico Sur y elevación mecánica de aguas de Potrero Pataguilla. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
