@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº806 de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº16, superficie 13 m², Rol de Avalúo Nº202-02, comuna de Lumaco, para la obra ''Camino Lumaco - Capitán Pastene, Sector Lumaco - Capitán Pastene, Km. 0.000 al Km. 10.525,168'', IX Región y se acordó el valor de indemnización con su propietario Luis Eleno Regla Leonelli, ascendente a la cantidad de $168.782.-
+
+Fiscal del Ministerio de Obras Públicas.
