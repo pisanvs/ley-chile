@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 153, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 45, superficie 27 m², rol de avalúo 499-9, comuna de Retiro, VII Región, para la obra "Camino Ruta L-75, Sector El Ajial - Las Camelias, Tramo Km. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietario José Luis Flores Ortega y Otra, ascendente a la cantidad de $232.910.
+
+- Fiscal del Ministerio de Obras Públicas.
