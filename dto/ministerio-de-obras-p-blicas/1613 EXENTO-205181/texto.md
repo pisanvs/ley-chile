@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.613, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº17-H, superficie 20 m2, rol de avalúo 2203-83, comuna de Puerto Montt, X Región, para la obra ''Camino ruta 7 Chamiza - Quillaipe, Km. 4,83687 al 15,84700'' y se acordó el valor de indemnización con su propietario doña Laura del Carmen Vargas Peralta, ascendente a la cantidad de $927.707.-
+
+Fiscal del Ministerio de Obras Públicas.
