@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.656, de fecha 30 de septiembre de 2002, se expropiaron los lotes de terreno Nº27-A y 28-A, superficies 7.825,35 y 8.917,10 m2, rol de Avalúo Nº139-12, comuna de Chonchi, para la obra ''Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 al 1.215,004'', X Región, y se acordó el valor de la indemnización con su propietaria, Ismenia de Lourdes Macías Gómez y Otra, ascendente a la cantidad de $8.518.296.-
+
+Fiscal del Ministerio de Obras Públicas.
