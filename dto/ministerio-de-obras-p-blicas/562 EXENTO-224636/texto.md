@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 562 de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 87, superficie 1.147 m2, rol de avalúo Nº 486-70, comuna de Cauquenes, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, sector 2 Carrizal-Puente Belco, tramo Km. 23,38000 a Km. 41,26600, Comuna de San Javier, Provincia de Linares y Cauquenes", VII Región y se acordó el valor de la indemnización con su propietario Oscar Luis Arellano Medel, ascendente a la cantidad de $488.670.
+
+Fiscal del Ministerio de Obras Públicas.
