@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.614, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº1-A, superficie 625 m2, rol de avalúo 590-71, comuna de Yungay, VIII Región, para la obra ''Area de Riego Yungay, Canal Rinconada Faja Adicional Ramal 3 Km. 0,070 al 0,174 del Proyecto Laja de Diguillín'' y se acordó el valor de indemnización con su propietario Juan Robinson Gallardo Alvarez, ascendente a la cantidad de $519.377.-
+
+Fiscal del Ministerio de Obras Públicas.
