@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República transferir a las instituciones que indica el dominio de los terrenos sobrantes con motivo de la construcción de la auto-vía "Pedro Aguirre Cerda", y cuyos deslindes señala.
