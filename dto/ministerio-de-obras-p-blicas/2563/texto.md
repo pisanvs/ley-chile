@@ -1,0 +1,3 @@
+Por decreto MOP N°2.563, de 11 de diciembre de 1998, se modificó la cláusula N°3, del decreto MOP N°1.871, de 15 de octubre de 1998, que expropió los lotes N°s 645, 661, 664, 669, 670, 671 y 673, para la obra Diseño Definitivo Regadío Faja Maisan Canal Matriz, en el sentido que uno de los peritos que actuó en la tasación es don Pablo Alex Mansilla Aravena y no don Miguel Hermindo Alegre Roco, como se indició en dicho decreto.
+
+Fiscal del Ministerio de Obras Públicas.
