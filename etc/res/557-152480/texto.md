@@ -1,0 +1,3 @@
+Por resolución No. 557 de 06 de Junio de 1986 de SERVIU Metropolitano, ordenóse expropiación, conforme DL No. 2186 de 1978, inmueble calle Villa Sur No. 4960,. esquina Avenida Departamental, comuna San Miguel, aparentemente dominio de don José Cayun Cayun. Comisión integrada por peritos señores Luis Nieto Espinoza y Emilio Recabarren Solar, ingenieros civiles y Roberto Correa Bezanilla, arquitecto, según informe de Febrero de 1986, fijó monto provisional indemnización en $ 870.700.- pagadera al contado.
+
+Director SERVIU Metropolitano.
