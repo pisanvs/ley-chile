@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.116, de 31 de agosto de 2000, se expropió el lote de terreno Nº2-5, superficie 19.409 m2., rol de avalúo 186-121, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector ''C'', Peldehue-Casas de Chacabuco, Región Metropolitana y se acordó el valor de indemnización con su propietaria Agroindustrias Quilaco S.A., ascendente a la cantidad de $83.937.782.
+
+Fiscal del Ministerio de Obras Públicas.
