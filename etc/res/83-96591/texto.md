@@ -1,0 +1,3 @@
+Por resolución No. 83 de 22 Enero de 1991 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se prorroga por un año a contar del 12 de noviembre de 1990, el plazo otorgado a don JAIME PATRICIO FLORES CARVAJAL, R.U.T. No. 9.465.410-6, domiciliado en Isla del Rey, sector Las Coloradas, Comuna de Corral, domicilio postal Chacabuco No. 65, Valdivia, en el numeral 5° de la Resolución No. 1.467, de 1989, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una fuerza mayor.
+
+Valparaíso, 22 de Enero de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
