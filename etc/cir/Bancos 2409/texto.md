@@ -19564,13 +19564,13 @@ En el caso que el pago en moneda chilena por las compras o ventas a futuro de di
 
 9.8.2. Ajuste de las cuentas "Pérdidas diferidas por compraventas a futuro" y "Utilidades diferidas por compraventas a futuro".
 
-Los importes registrados en estas cuentas se traspasarán linealmente a la cuenta "Pérdidas por compraventas a futuro", de la partida 5710 o a "Utilidades por compraventas a futuro", de la partida 7710, según corresponda, en forma proporcional al tiempo transcurrido desde la fecha en que se haya celebrado el respectivo contrato en relación con el plazo pactado. Este ajuste se efectuará, a lo menos, al término de cada mes.
+Los importes registrados en estas cuentas se traspasarán linealmente a la cuenta "Cambio futuro" en forma proporcional al tiempo transcurrido desde la fecha en que se haya celebrado el respectivo contrato en relación con el plazo pactado. Este ajuste se efectuará, a lo menos, al término de cada mes.
 
-En caso de que, como consecuencia de modificarse el monto, el tipo de cambio o el plazo convenidos en el contrato, varíen las diferencias registradas en las cuentas "Pérdidas diferidas por compraventas a futuro" o "Utilidades diferidas por compraventas a futuro", se deberán revertir los importes registrados en ingresos o en gastos, junto con efectuar el cálculo del importe que corresponda de acuerdo con los nuevos montos resultantes y registrarse el ajuste que proceda.
+En caso de que, como consecuencia de modificarse el monto, el tipo de cambio o el plazo convenidos en el contrato, varíen las diferencias registradas en las cuentas "Pérdidas diferidas por compraventas a futuro" o "Utilidades diferidas por compraventas a futuro", se deberá efectuar el cálculo del importe que corresponda de acuerdo con los nuevos montos resultantes y registrarse el ajuste que proceda contra la cuenta "Cambio futuro".
 
 9.8.3. Ajuste de la cuenta "Cambio futuro".
 
-El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio futuro", de modo que represente el equivalente de la respectiva cuenta "Conversión futuro", calculado al tipo de cambio al contado, vigente al término del mes correspondiente. La diferencia que resultare de ese ajuste se registrará en la cuenta "Pérdidas por compraventas a futuro" o "Utilidades por compraventas a futuro".
+El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio futuro", de modo que represente el equivalente de la respectiva cuenta "Conversión futuro", calculado al tipo de cambio al contado, vigente al término del mes correspondiente. La diferencia que resultare de ese ajuste se registrará en la cuenta "Pérdidas por compraventas a futuro" o "Utilidades por compraventas a futuro", de la partida 5710 y 7710, respectivamente.
 
 Al mes siguiente, antes de efectuar el nuevo ajuste de la cuenta "Cambio futuro", se revertirá el importe correspondiente al ajuste del mes precedente.
 
