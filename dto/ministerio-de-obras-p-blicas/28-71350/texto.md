@@ -1,0 +1,3 @@
+Por Resolución del Ministerio de Obras Públicas Nº 28, de 31 de marzo de 1997, se ordenó el estudio de la expropiación del lote de terreno Nº 15-E, necesario para la obra "Extensión Línea 5 del metro S.A., Sector Baquedano - Santa Ana, Monjitas - Mosqueto", que figura inscrita a nombre de don Henry Richard Chacra Haddad, a fojas 66.533, Nº 48.082, del Registro de Propiedad de 1995, del Conservador de Bienes Raíces de Santiago, Rol de Avalúo 174-4, comuna de Santiago.-
+
+Fiscal del Ministerio de Obras Públicas.
