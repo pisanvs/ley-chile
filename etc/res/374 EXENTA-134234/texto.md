@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIONES Nºs. 84 Y 120; 1; 275; 184; 768; 374; 77, Y 101 EXENTAS DE 1999. DELEGAN EN FUNCIONARIOS QUE SEÑALAN FACULTAD DE RESOLVER PETICIONES DE DEVOLUCIONES QUE INDICAN POR TERMINOS DE GIRO
+
+De acuerdo a la resolución Nº Ex. 3.235, de 2 de julio de 1997, del Director del Servicio, los Directores de la I y II; IV a VIII; XI y XII Direcciones Regionales, han dictado, respectivamente, las resoluciones Nº Ex. 84, de 11.02.99; Nº Ex. 120, de 4.02.99; Nº Ex. 1, de 21.01.99; Nº Ex. 275, de 22.02.99;
+
+Nº Ex. 184, de 19.02.99; Nº Ex. 768, de 24.02.99; Nº Ex. 374, de 16.02.99; Nº Ex. 77, de 16.02.99 y Nº Ex. 101, de 16.03.99, delegando en los funcionarios que en cada resolución señalan, la facultad de resolver las peticiones de devolución de las cantidades no utilizadas, provenientes de créditos que los contribuyentes tienen derecho a imputar a los impuestos que resulten con motivo del término de giro, ya sea porque no se determinaron impuestos o los determinados resultan inferiores a los créditos; siempre y cuando la devolución solicitada dé lugar a una resolución exenta del trámite de toma razón por la Contraloría General de la República.-
+
+Carlos Bustos Franco, Secretario General.
