@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.960, de 19 de noviembre de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº201111257 presentada por PACIFIC SEAFOODS S.A., para instalar y operar un centro de cultivo ubicado al suroeste de isla Luz (centro Annie), comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 19 de noviembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
