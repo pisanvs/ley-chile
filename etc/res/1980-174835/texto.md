@@ -1,0 +1,3 @@
+Por resolución Nº 1.890, de 29 de agosto de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99110103 presentada por SALMONES PACIFICO SUR S.A., para instalar y operar un centro de cultivo ubicado en península Coca, sector este de punta Frutillar, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 29 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
