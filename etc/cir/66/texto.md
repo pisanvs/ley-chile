@@ -1,0 +1,3 @@
+EXTRACTO DE CIRCULAR SOBRE NUEVO PROCEDIMIENTO SIMPLIFICADO PARA LA TRAMITACION DE TERMINO DE GIRO
+
+La Dirección Nacional del Servicio de Impuestos Internos ha emitido la circular Nº66, de fecha 29 de octubre de 1998, impartiendo instrucciones sobre procedimiento simplificado para la tramitación de los avisos de término de giro, y pone a disposición de los contribuyentes, para estos efectos, un nuevo formulario autodeclarativo denominado ''Aviso y Declaración por Término de Giro'' El texto íntegro de esta circular se encuentra incluido en la página Web del Servicio de Internet, cuya dirección es www.sii.cl, y, además, se publicará en la edición del Boletín del Servicio del mes de octubre de 1998.
