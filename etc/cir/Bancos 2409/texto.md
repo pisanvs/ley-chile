@@ -18320,15 +18320,17 @@ Por otra parte, se entiende como "créditos comerciales" aquellos definidos como
 
 Por último, las "inversiones financieras" que se aluden en este número, son aquellas que deben registrarse como tales de acuerdo con lo establecido en el Capítulo 8-21 de esta Recopilación.
 
+En general, los "créditos hacia el exterior" a que se refiere este Capítulo comprenden todas las colocaciones e inversiones financieras en que el deudor directo es una persona natural o jurídica con residencia y domicilio en el exterior.
+
 Teniendo en cuenta estas definiciones previas, se establecen los siguientes grupos de colocaciones e inversiones financieras en el exterior, cuyas características se señalan en el Anexo N° 1 de este Capítulo:
 
 A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
 
 B) Créditos de comercio exterior para financiar operaciones entre terceros países.
 
-C) Créditos comerciales otorgados a sociedades filiales o agencias de empresas chilenas y a empresas que coticen en bolsas internacionales.
+C) Créditos comerciales cuyos deudores sean sociedades filiales o agencias de empresas chilenas, o empresas que coticen en bolsas internacionales.
 
-D) Créditos comerciales otorgados a otras personas.
+D) Créditos comerciales cuyos deudores sean otras personas.
 
 E) Inversiones financieras en instrumentos con clasificación de grado de inversión.
 
@@ -18354,45 +18356,51 @@ Los excesos antes mencionados deben determinarse en relación con el valor conta
 
 Las provisiones que deban constituirse en cumplimiento de las normas del presente Capítulo se registrarán en la cuenta "Provisiones por exigencias patrimoniales de operaciones en el exterior", de la partida 4120, con cargo a la cuenta del mismo nombre de la partida 5900.
 
-4.- Márgenes individuales para depósitos a plazo en bancos del exterior.
+4.- Márgenes individuales.
 
-Los depósitos a plazo tomados en un mismo banco del exterior, no podrán superar el 5% del patrimonio efectivo del banco depositante No obstante, al tratarse de bancos depositarios clasificados en una categoría de riesgo igual o superior a las que se indican en el Anexo N° 2 de este Capítulo, los depósitos en un mismo banco podrán alcanzar hasta el 30% del patrimonio efectivo.
+Sin perjuicio de los cómputos que para efectos de provisiones deben efectuarse en relación con las inversiones financieras en general, según lo previsto en los N°s. 1 y 2 de este Capítulo, las siguientes inversiones quedan sujetas a los márgenes individuales que se indican:
 
-Estos márgenes individuales son sin perjuicio de los cómputos que para efectos de provisiones deben efectuarse en relación con las inversiones financieras en general, según lo previsto en los N°s. 1 y 2 de este Capítulo.
+4.1.- Depósitos a plazo en bancos del exterior.
+
+Los depósitos a plazo tomados en un mismo banco del exterior, no podrán superar el 5% del patrimonio efectivo del banco depositante. No obstante, al tratarse de bancos depositarios clasificados en una categoría de igual o menor riesgo que las indicadas en el Anexo N° 2 de este Capítulo, los depósitos en un mismo banco podrán alcanzar hasta el 30% del patrimonio efectivo.
+
+4.2.- Títulos emitidos o garantizados por Estados o Bancos Centrales de países extranjeros.
+
+Las inversiones en títulos emitidos o garantizados por un mismo Estado o Banco Central de un país extranjero, no podrán superar el 5% del patrimonio efectivo del banco inversionista. No obstante, al tratarse de títulos clasificados en una categoría de igual o menor riesgo que las indicadas en el Anexo N° 2 de este Capítulo, la inversión en esos instrumentos de un mismo emisor podrá alcanzar hasta el 50% del patrimonio efectivo.
 
 ANEXO N°1
 
 DEFINICIONES DE LOS GRUPOS DE COLOCACIONES O INVERSIONES FINANCIERAS.
 
-A continuación se mencionan las condiciones que definen el tipo de colocación o inversión financiera señalado en el N° 1 de este Capítulo
+A continuación se mencionan las condiciones que definen el tipo de colocación o inversión financiera señalado en el N° 1 de este Capítulo:
 
 A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
 
-Condiciones:
+Condiciones
 
--Que tengan por objeto financiar el pago de importaciones procedentes de Chile o exportaciones destimadas a nuestro país.
+- Que tengan por objeto financiar el pago de importaciones procedentes de Chile o exportaciones destinadas a nuestro país.
 
 B) Créditos de comercio exterior para financiar operaciones entre terceros países.
 
-Condiciones.
+Condiciones
 
 - Que los desembolsos del crédito se efectúen contra presentación de los documentos de embarque.
 
-- Que se expresen y paguen en moneda extranjera
+- Que se expresen y paguen en moneda extranjera.
 
-C) Créditos comerciales otorgados a sociedades filiales o agencias de empresas chilenas y a empresas que coticen en bolsas internacionales.
+C) Créditos comerciales cuyos deudores sean sociedades filiales o agencias de empresas chilenas, o empresas que coticen en bolsas internacionales.
 
-Condiciones:
+Condiciones
 
-- Que los deudores correspondan a: 1) sociedades filiales o agencias de empresas chilenas establecidas en el exterior, o, 11) empresas que coticen en las bolsas internacionales de que trata el Capítulo III.F.3 del Compendio de Normas Financieras del Banco Central de Chile.
+- Que los deudores correspondan a i) sociedades filiales o agencias de empresas chilenas estableadas en el exterior, o, ii) empresas residentes y domiciliadas en el exterior que coticen en las bolsas internacionales de que trata el Capítulo III F 3 del Compendio de Normas Financieras del Banco Central de Chile.
 
-- Que se expresen y paguen en moneda extranjera
+- Que se expresen y paguen en moneda extranjera.
 
-D) Créditos comerciales otorgados a otras personas.
+D) Créditos comerciales cuyos deudores sean otras personas.
 
-Condiciones.
+Condiciones
 
-- Que se otorguen a cualquier persona natural o jurídica diferente a las señaladas en la letra C).
+- Que los deudores sean personas naturales o jurídicas diferentes a las señaladas en la letra C).
 
 - Que se expresen y paguen en moneda extranjera.
 
