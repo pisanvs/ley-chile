@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº708, 25 noviembre 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Pedro Aguirre Cerda Nº1157, Rol de Avalúo Nº 12033-3, comuna San Pedro de la Paz, superficie 257,55 metros cuadrados de terreno y 137,68 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.445, de aparente dominio de Manuel Jesús Venegas Aburto, para ejecución programa ''Mejoramiento Eje Avenida Pedro Aguirre Cerda en San Pedro de la Paz, VIII Región del Bío Bío'', de la comuna de San Pedro de la Paz, conforme articulo 51 Ley 16.391 y D. L. 2186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Christian Gabler Solís, ingeniero civil y Claudia Marzullo García, arquitecto, según informe de fecha 25 de octubre de 2004, fijó monto provisional indemnización en $44.777.595, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
