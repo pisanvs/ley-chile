@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.668, de 28 de abril del 2000, se expropió el lote de terreno Nº 4-A, superficie 992 m², rol de avalúo en trámite, comuna de Constitución, para la obra Camino M-24-K Quivolgo - Puente Lautaro, Sector C, Putu - Quivolgo, Km. 30.000 a Km. 49.815,494 y se acordó precio de la indemnización con su propietario Juan Mario Urbina Urbina, ascendente a la cantidad de $1.688.370 para el lote Nº 4-A.
+
+Fiscal del Ministerio de Obras Públicas.
