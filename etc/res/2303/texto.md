@@ -1,0 +1,5 @@
+DELEGA EN EL JEFE JURIDICO REGIONAL FACULTADES QUE INDICA
+
+Mediante Resolución N° Ex 2.303 de 31 de Octubre de 1994, la suscrita delegó en el Jefe del Departamento Jurídico de esta Dirección Regional las facultades para conocer y fallar todas las reclamaciones de los contribuyentes en contra de las liquidaciones, giros, pagos, resoluciones que deban tramitarse con arreglo a los procedimientos establecidos en el Título II, y en párrafo 1° del Título II del Libro Tercero del Código Tributario, y para que conozca y resuelva todas las denuncias por infracciones que deban tramitarse de acuerdo a los procedimientos contemplados en los párrafos 1° y 2° del Título IV del Libro Tercero del citado Código Tributario, sin perjuicio de las facultades delegadas en la Resolución N° 1.819, de 03.09.92, derogándose las delegaciones de facultades que sobre las materias señaladas se habían efectuado con anterioridad en el Jefe del Departamento de Resoluciones Regional.-
+
+Julia Altamirano Santibáñez, Directora Regional.
