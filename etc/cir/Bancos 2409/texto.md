@@ -21520,25 +21520,11 @@ expresa en las normas del Instituto Emisor, no podrán efectuarse con estos
 
 recursos operaciones con reajustabilidad en moneda extranjera.
 
-### 9. Intereses que pagará el Banco Central de Chile
-
-Los dólares vendidos al Banco Central de Chile devengaran intereses a favor de
-
-la institución financiera vendedora a la tasa anual, que determine el Instituto
-
-Emisor la que, podrá ser diferente según sea el plazo de la correspondiente
-
-operación.
-
-Los referidos intereses se pagaran por su equivalente en moneda chilena en la
-
-fecha de vencimiento pactado para la recompra de las divisas.
-
-### 10. Normas contables
+### 9. Normas contables
 
 Las operaciones a que se refiere este capítulo, serán contabilizadas en la forma que a continuación se indica:
 
-10.1. Venta de las divisas al Banco Central de Chile.
+9.1. Venta de las divisas al Banco Central de Chile.
 
 a) Moneda extranjera.
 
@@ -21554,7 +21540,7 @@ Debe: "Depósitos en el Banco Central", de la partida 1010 del formulario MB1.
 
 Haber: "Adeudada al Banco Central por divisas vendidas con pacto de recompra D.L. 600", cuenta que se crea con ese objeto, la que sera demostrada en la partida 4515 del formulario MB1.
 
-10.2. Recompra de las divisas.
+9.2. Recompra de las divisas.
 
 a) Moneda extranjera.
 
@@ -21570,23 +21556,17 @@ Debe: "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L.
 
 Haber: "Depósitos en el Banco Central".
 
-10.3. Intereses por venta de divisas con pacto de recompra.
-
-Los intereses que devenguen las instituciones financieras por las divisas vendidas al Banco Central de Chile con pacto de recompra, serán registrados mensualmente en moneda chilena en la cuenta "Intereses ganados por venta de divisas con pacto de recompra", de la partida 7200 del formulario MR1, con cargo a "Intereses por cobrar", de acuerdo con las normas generales sobre la materia.
-
-10.4. Descuento aplicado por el Banco Central de Chile.
+9.3. Descuento aplicado por el Banco Central de Chile.
 
 Los importes que las instituciones financieras paguen al Banco Central de Chile por concepto de descuento en las operaciones de venta de divisas con pacto de recompra de que trata este capítulo, serán registrados en la cuenta "Comisiones anticipadas por ventas de divisas con pacto de recompra", de la partida 2120 del formulario MBl.
 
 Al término de cada mes, dicha comisión se traspasará a la cuenta "Comisiones pagadas por ventas de divisas con pacto de recompra" de la partida 5530 del formulario MR1, en forma proporcional al plazo pactado en el respectivo contrato.
 
-10.5. Ajustes por variación de tipo de cambio.
+9.4. Ajustes por variación de tipo de cambio.
 
 Las entidades financieras ajustarán el último día de cada mes, el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600", por la cotización que corresponda al régimen de tipo de cambio pactado para efectuar la respectiva recompra, vigente en la fecha del ajuste, de tal manera que ésta refleje el equivalente en Pesos, moneda chilena, a esa cotización, del saldo de la cuenta "Divisas vendidas al Banco Central con pacto de recompra D.L. 600".
 
-Las diferencias correspondientes se debitarán o abonará, según proceda, en las cuentas "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados" o "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados", de las partidas 5720 y 7720 del formulario MR1, respectivamente.
-
-10.6. SPRIMIDO.
+Las diferencias correspondientes serán debitadas o abonadas a la cuenta "Diferencia ajuste divisas vendidas con pacto de recompra D.L.600", de la partida 2120 ó 4120, previa deducción de un importe igual al que resulte de aplicar a la cuenta "Divisas vendidas al Banco Central con pacto de recompra DL 600" la variación del tipo de cambio de representación contable entre el mes correspondiente y el mes inmediatamente anterior. Este último importe se reconocerá en las cuentas "Gasto por ajuste operaciones DL 600" o "Ingreso por ajuste operaciones DL 600", de las partidas 5720 y 7320, respectivamente.
 
 ### 11. Límites
 
@@ -21597,6 +21577,14 @@ para con terceros, establecidos en la Ley General de Bancos, como tampoco al
 límite de endeudamiento con el Banco Central de Chile a que se refiere el
 
 Capítulo 12-6 de esta Recopilación de Normas.
+
+### 12. Disposición transitoria
+
+Antes del 30 de noviembre de 1991, las entidades bancarias que mantengan divisas vendidas al Banco Central de Chile con pacto de recompra D.L. 600, calcularán la diferencia entre el equivalente de la cuenta "Divisas vendidas al Banco Central con pacto de recompra D.L. 600", al tipo de cambio de representación contable vigente a la fecha y el saldo de la cuenta "Adeudado al Banco Central por divisas vendidas con pacto de recompra D.L. 600".
+
+La cantidad así obtenida será restada de los saldos que, a la misma fecha, registre la cuenta "Pérdidas por variación del tipo de cambio de recursos en moneda extranjera liquidados", relativo a estas operaciones. El importe resultante de esa resta será acreditado a esa misma cuenta y debitado en la cuenta de activo transitorio "Diferencia ajuste divisas vendidas con pacto de recompra D.L. 600", de la partida 2120.
+
+En el caso que la cuenta "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" de la partida 7720, registre saldos derivados del ajuste de estas mismas operaciones, se debitará de ella, para acreditar la cuenta "Diferencia ajuste divisas vendidas con pacto de recompra D.L. 600", de la partida 4120, la suma que resulte de aplicar la diferencia entre los tipos de cambio que dieron origen a las respectivas utilidades y los tipos de cambio de representación contable vigentes en las fechas en que se determinaron esas utilidades, a los respectivos importes de "Divisas vendidas al Banco Central con pacto de recompra D.L. 600". De este modo la cuenta de resultado "Utilidades por variación del tipo de cambio de recursos en moneda extranjera liquidados" deberá reflejar solamente la utilidad que se genera por la variación del tipo de cambio de representación contable, en tanto que la diferencia con la variación del tipo de cambio al que se ajustan las respectivas operaciones, quedará pendiente de reconocimiento en la cuenta de pasivo transitorio ya señalada.
 
 CAPITULO 13-8 (Bancos y Financieras)
 
