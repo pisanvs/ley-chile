@@ -1,0 +1,3 @@
+Por Resolución Nº 731, de 26 de mayo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización de acuicultura, solicitud Nº 94110052, presentada por FLOR ALBORNOZ TOBAR, para un sector ubicado en la localidad de Valle Pangal, Comuna y Provincia de Aysén, XI Región, conforme a lo dispuesto en el artículo 14º del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de mayo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
