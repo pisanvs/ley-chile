@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.604 de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº 55, superficie 145 m2, rol Nº 145-9, comuna de San Vicente, VI Región, para la obra ''Mejoramiento Camino Ruta H-724, Sector La Gruta - Pueblo de Indios, Km. 0,000 a Km. 1,187 y Sector Ruta H-730, Km. 1,600 al Km. 3,292'' y se acordó el valor de indemnización con su propietario Hernán Arturo Urzúa Donoso y Otros, ascendente a la cantidad de $2.364.764.-
+
+Fiscal del Ministerio de Obras Públicas.
