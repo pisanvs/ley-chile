@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 792, de 31 de mayo de 2004, se expropió el lote de terreno Nº 7-B, superficie 274 m2, Rol Nº 518-46 comuna de Antuco, VIII Región, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo I Km. 0,00000 a Km. 3,95000", y se acordó el valor de indemnización con su propietaria Marisol del Carmen Riquelme Flores, ascendente a la cantidad de $448.452.
+
+- Fiscal del Ministerio de Obras Públicas.
