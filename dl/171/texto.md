@@ -1,0 +1,41 @@
+DETERMINA QUE LA MUERTE DE LAS PERSONAS QUE SEÑALA OCURRIO EN ACTO DETERMINADO DEL SERVICIO PARA LOS FINES QUE INDICA
+
+Núm. 171.- Santiago, 4 de Diciembre de 1973.
+
+1.- Que con fecha 1° de Noviembre de 1973, tres miembros de la Armada Nacional fallecieron en un accidente aéreo;
+
+2.- Que las viudas e hijos de las referidas víctimas han quedado privadas del sostén económico que les proporcionaban sus respectivos cónyuges;
+
+3.- Que, en consecuencia, se hace necesario acudir en su ayuda proporcionándoles una vivienda acorde con sus necesidades congruas, y
+
+4.- Considerando además lo dispuesto en los decretos leyes N°s 1 y 17, de 1973, y en el DFL. N° 1 (G), de 1968.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1
+
+Declárase, para todos los efectos legales y previsionales, que la muerte del Teniente 1° señor Carlos Matamala Simmonds, del Teniente 1° señor Víctor Parada Kreft y del Suboficial señor Víctor Manuel Constant Rodríguez, acaecida el 1° de Noviembre de 1973, ocurrió en acto determinado del servicio.
+
+#### Artículo 2
+
+La Caja de Previsión de la Defensa Nacional, en el plazo de 120 días, contado desde la vigencia de este decreto ley, adquirirá, de acuerdo con el servicio de Bienestar Social de la Armada, y transferirá, a título gratuito, un bien raíz a las señoras Miriam Angélica Bozzo Lorca y a sus hijos Paola Rossana, Claudia Andrea y Jorge Andrés; Lucía Javiera Gómez Maira y a sus hijos Víctor Andrés, Carolina María y Bernardita María, y Marina Rosa Matamala Rodríguez y sus hijos Yeny Evelyn del Carmen, Frances Vivienne, Víctor Ives, Viana Lisi y Freddie Manfred.
+
+Dichos inmuebles estarán ubicados en el lugar que determinen las beneficiarias y sus características serán las apropiadas para satisfacer las necesidades habitacionales congruas de ella y sus grupos familiares.
+
+Estas donaciones no estarán sujetas al trámite de insinuación, y estarán exentas de todo impuesto, derecho o gravamen.
+
+#### Artículo 3
+
+Los beneficios contemplados en el presente decreto ley son sin perjuicio de cualquier otro derecho que conceda la legislación vigente.
+
+#### Artículo 4
+
+Los gastos que demande la aplicación del presente decreto ley serán reembolsados por la Subsecretaría de Marina a la Caja de Previsión de la Defensa Nacional.
+
+Para tales efectos, se consultarán los fondos necesarios en la Ley de Presupuesto de la Nación para el año 1974.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en los Boletines Oficiales del Ejército, Armada, Fuerza Aérea, Carabineros de Chile e Investigaciones y en la Recopilación Oficial de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la Junta de Gobierno.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General Director de Carabineros.- Patricio Carvajal Prado, Vicealmirante, Ministro de Defensa Nacional.- Lorenzo Gotuzzo Borlando, Contraalmirante, Ministro de Hacienda.
+
+Lo que transcribo a U. para su conocimiento.- Ernesto Jobet Ojeda, Capitán de Navío, Subsecretario de Marina.
