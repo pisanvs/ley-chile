@@ -1,0 +1,7 @@
+Por Resolución Nº1.309, de 10 de Octubre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SERVIVEN S.A., RUT Nº89.397.000-2, domiciliada en la ciudad de Santiago, para iniciar actividades pesqueras en orden a instalar y operar una planta industrial ubicada en Avda. España Nº285, Provincia de Valdivia, X Región, donde podrá procesar en la línea de elaboración de conserva, los siguientes recursos hidrobiológicos: Bonito, Caballa, Jurel, Machuelo o tritre, Pejegallo, Pejerrey de mar, Sardina común, Sardina española, Tollo, Salmón del Pacífico, Salmón del Atlántico, Trucha arco iris, Almeja o taca, Almeja, Caracol locate, Cholga, Chorito, Choro, Navaja, Culengue, Lapa, Macha, Pulpo, Ostión del sur, Picoroco, Erizo, Jaiba, Camarón nailon y Langostino amarillo.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización solicitada por la peticionaria para procesar el recurso Loco y Langostino colorado, de conformidad a los D.S. Nº126 de 1989 y Nº442 de 1990, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de Octubre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
