@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.121, de 30 de octubre de 1998, se expropiaron los lotes de terreno Nºs. 111 y 112, superficies 563,1 m2. y 954,7 m2., rol de avalúo 364-12, comuna de Loncoche, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno y se acordó el valor de indemnización con su propietario Jorge Waldo Neira Beltrán, ascendente a la cantidad de $895.649.-
+
+Fiscal del Ministerio de Obras Públicas.
