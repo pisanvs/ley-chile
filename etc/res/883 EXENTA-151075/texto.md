@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 883 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos de Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 7 del Proyecto de Parcelación "El Tesoro" de la comuna de Renaico, IX Región, formado por predio "El Almendro". Los Derechos de Agua se extraen del tranque ubicado en el predio y derrames del estero El Molino.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
