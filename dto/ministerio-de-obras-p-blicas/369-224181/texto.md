@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°369, de 30 de mayo de 1996, se expropiaron los lotes de terreno N°s 8 y 15, superficies 284 M2. y 21,90 M2., roles de avalúos 30-23 y 50-39, comuna de Buin, para la obra Mejoramiento Ruta 5, sector Pasada por Buin, Camino Ruta 5 y se acordó precio de indemnización con sus propietarios Jorge Cattan Gidi y María Raquel Arce Morales, ascendente a las cantidades de $13.488.132 y $1.007.288.
+
+Fiscal del Ministerio de Obras Públicas.
