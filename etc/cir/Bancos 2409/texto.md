@@ -5182,11 +5182,13 @@ Las instituciones financieras deberán enviar a esta Superintendencia la informa
 
 VI.- ELIMINADA.
 
-ANEXO N° 1
+ANEXO N°1
+
+Pág. l
 
 PARTIDAS Y CUENTAS DEL SISTEMA CONTABLE QUE PARTICIPAN EN LA DETERMINACION Y MANTENCION DE ENCAJE Y RESERVA TECNICA
 
-A continuación se señalan los principales indicadores que guardan relación con el control del cumplimiento de las normas del presente Capítulo 4-1 y del Capítulo 4-2 de esta Recopilación Actualizada de Normas y que esta Superintendencia obtiene del computo de los saldos de las partidas, cuentas y subcuentas informadas en el archivo C03 del Sistema Contable que en cada caso se indican.
+A continuación se señalan los principales indicadores que guardan relación con el control del cumplimiento de las normas del presente Capítulo 4-1 y del Capítulo 4-2 de esta Recopilación Actualizada de Normas y que esta Superintendencia obtiene del cómputo de los saldos de las partidas, cuentas y subcuentas informadas en el archivo C03 del Sistema Contable que en cada caso se indican:
 
 .
 
