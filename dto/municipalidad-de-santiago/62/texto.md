@@ -1,0 +1,5 @@
+Por Decreto Secc. 2da. No. 62, de fecha 12 de Enero de 1990, Alcalde I. Municipalidad Santiago, dispone expropiación total conforme DS No. 458 de Vivienda y Urbanismo, Decreto Ley 2.186 y Ley 18.695, inmueble Agustinas No. 2399, Rol 332-13 Santiago, aparente dominio Lucy Inostroza Vallejos y Otra, superficie aproximada a expropiar 228 m2. Deslindes: Norte, 10,20 mts otro propietario; Sur, 10,60 mts. calle Agustinas incluido ochavo; Oriente 22,50 mts. otro propietario y Poniente, 21,30 mts. calle General Bulnes. Indemnización provisional $ 4.816.000.- pagadera contado.
+
+Máximo Hmueble Agustinas 2323-2329, Rol 332-3 Santiago, aparente dominio Salim Zacur Jure, Superficie aproximada a expropiar 346 m2. Deslindes: Norte, 11,80 mts. con resto de la propiedad; Sur, 11,80 mts. con calle Agustinas; Oriente, 29,00 mts. otro propietario y Poniente, 29,70 mts. otro propietario. Indemnización provisional $ 8.374.000.-pagadera contado.
+
+Máximo Honorato Alamos, Alcalde Santiago.
