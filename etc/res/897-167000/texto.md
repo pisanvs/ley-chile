@@ -1,0 +1,3 @@
+Por Resolución No. 897 de 16 de septiembre de 1987 de SERVIU Metropolitano, derogóse Resolución No. 345, de 23 de abril de 1986, mismo Servicio, que ordenaba expropiación conforme DL No. 2.186 de 1978, de parte del inmueble ubicado en Avenida Departamental No. 850, presunto rol de avalúos No. 5.344-37, comuna San Miguel, de aparente dominio de don Rubén Marchant Astorga.
+
+Director SERVIU Metropolitano.
