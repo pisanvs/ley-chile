@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA SAN BERNARDO S.A. PARA INICIAR ACTIVIDADES PESQUERAS Y DEJA SIN EFECTO AUTORIZACION QUE INDICA
+
+Por resolución No. 1.235, de 21 de Octubre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera San Bernardo S. A., domiciliada en San Antonio, para iniciar actividades pesqueras de extracción, mediante la operación de la embarcación "Liucura", en el litoral comprendido entre la III y VII Regiones con la que podrá capturar los recursos: Agujilla, anchoveta, atún aleta larga, bonito, caballa, cabinza, cochinilla, cojinova del norte, jurel, pampanito, roncacho, sardina española, sardina común, y machuelo. Se deja sin efecto en el numeral 2° de la resolución No. 984, de 19 de diciembre de 1986, la autorización otorgada a Pesquera Itata Ltda. para operar la embarcación "Liucura".
+
+Valparaíso, 21 de Octubre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
