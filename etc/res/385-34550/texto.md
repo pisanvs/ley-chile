@@ -1,0 +1,7 @@
+Por Resolución N° 385 de 27 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a ALIMENTOS MARINOS S.A. ALIMAR, R.U.T. N° 91.584.000-0, para ampliar actividades pesqueras que tiene autorizadas por Resoluciones N° 209, de 1984, N° 1364, de 1989 y N° 1255, de 1991, todas de esta Subsecretaría, en orden a operar la nave "JUNCAL", en el área de pesca las Regiones III y X Región, excluidas las aguas interiores con cerco, Anchoveta, Caballa, Jurel, Sardina y Sardina común.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Modifícase la Resolución N° 1255, de 1991, de esta Subsecretaría, que autorizó a Alimentos Marinos S.A., Alimar, ya individualizada para realizar faenas de pesca extractiva, en el sentido de reemplazar en su numeral 2° letra c) la expresión "Con las naves TANUME, NILAHUE, PUMANQUE, MARIA TERESA Y TUPUNGATO"... por la expresión "Con las naves TANUME, NILAHUE, PUMANQUE, MARIA TERESA, TUPUNGATO Y JUNCAL"...
+
+Valparaíso, 27 de Mayo de 1993, Andrés Couve Rioseco, Subsecretario de Pesca.
