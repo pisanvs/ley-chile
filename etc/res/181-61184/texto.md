@@ -1,0 +1,3 @@
+Por Resolución Nº 181, de 31 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a PESCA SURIBERICA S.A., R.U.T. Nº 96.536.930-9, domiciliada en Santiago, La Concepción Nº 56, oficina 308, para realizar operaciones pesqueras, desde la fecha de esta Resolución hasta el 31 de diciembre de 1997, ambas fechas inclusive, con los barcos fábrica denominados "Isla Camila" e "Isla Isabel", en aguas interiores al sur del paralelo 47º L.S., respecto de los recursos y con las obligaciones, establecidas en sus respectivas Resoluciones.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
