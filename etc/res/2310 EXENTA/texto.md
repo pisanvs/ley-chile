@@ -1,0 +1,3 @@
+Por Resolución Exenta No. 2.310 de fecha 04 de Julio de 1989, se ordena publicar un extracto de la solicitud de inscripción correspondiente a la XII Región de Magallanes y Antártica Chilena, formulada por los señores Jaime Tormo Rodríguez y Enrique Schilling Rojas, en representación del partido "Democracia Radical". Publicación que se efectúa para los efectos contemplados en los artículos 11 y 17 de la Ley No. 18.603. Santiago, 04 de Julio de 1989.
+
+Juan Ignacio García Rodríguez, Director.
