@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.035, de fecha 31 de octubre de 2000, se expropió el lote de terreno Nº26, superficie 134 m2., rol de avalúo 324-10, comuna de Río Negro, para la obra Camino Ruta U-72, sector Huilma - Riachuelo, Tramo Km. 18,14000 a Km. 33,91000" y se acordó el valor de indemnización con su propietario Humberto Eliseo Hidalgo Carrillo, ascendente a la cantidad de $466.726.-
+
+Fiscal del Ministerio de Obras Públicas.
