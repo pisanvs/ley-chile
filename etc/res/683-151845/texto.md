@@ -1,0 +1,5 @@
+AUTORIZA A LA SOCIEDAD PROCESADORA Y COMERCIALIZADORA DE ALIMENTOS LTDA., PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 683, de 22 de Septiembre de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a la Sociedad Procesadora y Comercializadora de Alimentos Ltda., domiciliada en Santiago, para operar una planta elaboradora de recursos hidrobiológicos en las líneas de elaboración de fresco enfriado y congelado, en el inmueble ubicado en Segunda Transversal N° 6030, Comuna de San Miguel, Santiago, en la que emplear como materia prima los siguientes recursos: Albacora, anchoa, caballa, cojinova del norte, congrio colorado, congrio dorado, congrio negro, corvina, jurel, merluza común, merluza española, mero, pejegallo, raya, tollo, almeja o taca, almeja, calamar, cholga, chorito, lapa, macha, ostión del norte, ostra, pulpo, langosta de J. Fernández, jaiba, erizo y piure.
+
+Valparaíso, 22 de Septiembre de 1986.- Roberto Cabezas Bello, Subsecretario de Pesca.
