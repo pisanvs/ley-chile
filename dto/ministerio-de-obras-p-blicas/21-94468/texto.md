@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 21, de 30 de Enero de 1989, se expropiaron los lotes N°s. 7-a y 26, superficies 2.487 m2. y 7.856 m2., roles de avalúo 2204-22 y 2207-10, comuna de Chillan, para Camino Longitudinal Sur, Ruta 5, sector By Pass Chillan y se acordó precio de indemnización con sus propietarios don Miguel Angel Villouta Cartes y doña Blanca Neira Montecinos, ascendente a $ 113.395.- y 1.581.298. respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
