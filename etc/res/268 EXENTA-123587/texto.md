@@ -1,0 +1,9 @@
+APRUEBA REFORMAS DE ESTATUTOS DE ACONCAGUA ADMINISTRADORA DE FONDOS DE INVERSION S.A.
+
+Certifico que por resolución Ex. Nº 268 de fecha 10 de agosto de 1998, de esta Superintendencia de Valores y Seguros, se aprobaron las modificaciones del estatuto social de la sociedad Aconcagua Administradora de Fondos de Inversión S.A., que consta de la escritura pública de 2 de julio de 1998, otorgada en la Notaría de Santiago de don Eduardo Pinto Peralta, domiciliado en Huérfanos Nº 1052, tercer piso.
+
+Las reformas consisten en: 1) Modificar el nombre de la sociedad por el de ''Aconcagua Sociedad de Inversiones S.A.''; 2) Modificar el objeto social por el siguiente: ''Realizar todo tipo de inversiones, ya fuere en bienes muebles, inmuebles y valores mobiliarios, tales como acciones, promesas de acciones, bonos, debentures, cuotas de fondos, derechos en sociedades y toda clase de títulos y valores o instrumentos financieros, pudiendo ejecutar todo tipo de actos o contratos relacionados con estas inversiones. Promover y desarrollar toda clase de negocios o empresas. Prestar asesorías en toda clase de inversiones. Participar en la composición accionaria de empresas y en el financiamiento de las mismas y tomar parte como socio de ellas, en cualquier calidad y cualquiera sea su objeto.
+
+Constituir toda clase de sociedades o incorporarse como socia en una compañía existente, administrarlas con amplias facultades, pudiendo asumir la calidad de gerente. Celebrar contratos de asociación o cuentas en participación; y aceptar y ejecutar toda clase de comisiones y mandatos. La sociedad podrá, además desarrollar las actividades propias de su giro social por sí misma o a través de las sociedades que constituya o a las que se incorpore''. Con motivo de dichas modificaciones se reformaron los artículos 1 y 2 de los estatutos sociales.
+
+Santiago, 10 de agosto de 1998.- Rodrigo O. Costa Aranda, Secretario General.
