@@ -1,0 +1,11 @@
+Por Resolución No. 1.682, de 08 de Noviembre de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don MARZZARELLO BUSTOS BARRALES R.U.T. No. 9.314.712-K, domiciliado en la ciudad de Lota calle Duharte No. 13, para iniciar actividades pesqueras, en orden a operar la embarcación en construcción "Natanael", en el litoral de las Regiones que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos:
+
+- **a)** Entre la VI Región y el paralelo 43° L.S., excluidas las correspondientes aguas interiores, con espinel: Bacalao de profundidad o mero, congrio colorado congrio dorado, congrio negro, merluza común, pejegallo, raya y tollo.
+
+- **b)** En el litoral de las Regiones VI, VII y IX, al paralelo 43° L.S., excluidas las correspondientes aguas interiores, con cerco: Anchoa, caballa, cojinoba del Norte, cojinoba del Sur, corvina, jurel, lisa, machuelo o tritre, merluza de cola, pejerrey de mar, sardina y sardina común.
+
+- **c)** En el litoral de la I a la X Región, con enmalle y arpón: Albacora o pez espada. Deniégase la autorización solicitada por el peticionario para extraer con la nave a que se refiere la presente Resolución, en el litoral de VIII Región, los recursos hidrobiológicos Anchoa, caballa, jurel, sardina y sardina común, de conformidad a lo dispuesto en el Decreto No. 436, de 1985, prorrogado por el Decreto No. 363, de 1989, ambos del Ministerio de Economía, Fomento y Reconstrucción. Deniégase la autorización solicitada por el peticionario para operar la nave "Natanael" en el litoral de la I a V Región y del paralelo 43° LS al sur incluidas las correspondientes aguas interiores, sin perjuicio de lo dispuesto en la letra
+
+- **c)** del numeral 3° de la presente Resolución, respecto del recurso albacora o pez espada. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 08 de Noviembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
