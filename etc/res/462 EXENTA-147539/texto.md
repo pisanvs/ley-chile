@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución. Exenta No. 462 de 23 de Abril de 1987, conforme Art. 5° Transitorio Código- de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio: "Resto del Fundo Tabalí" de la comuna de Punitaqui, IV Región, y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 5 del Proyecto de Parcelación "Tabalí", formado por predio señalado. Los derechos de agua se extraen de los canales Barraza Alto derivado del Río Limarí, Tabalí o Tabalí Bajo derivado del Río Limarí y Tabalí Alto o Tomilla -Tabalí. Publicación hecha conforme Art. 13 Ley No. 18.377.
+
+Director Ejecutivo.
