@@ -1,0 +1,3 @@
+Por resolución Nº 117, de 21 de enero de 1999, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA COLOSO S.A., para ampliar sus actividades pesqueras con la nave ''Yumbel'' en el litoral de la I y II Regiones, donde podrá capturar con red de cerco y por fuera del área de reserva artesanal el recurso anchoa blanca o samasa.
+
+Valparaíso, 21 de enero de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
