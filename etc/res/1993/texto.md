@@ -1,0 +1,3 @@
+Por Resolución N° 1.993, de 29 de noviembre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 5 de la Resolución N° 1.573, de 1996, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para realizar una pesca de investigación denominada "Prospección de recursos demersales en aguas exteriores de la X y XI Regiones", en el sentido de reemplazar el límite geográfico norte de la subzona 1 por el siguiente: 38° 00' L.S.
+
+Valparaíso, 29 de noviembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
