@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 765 de fecha 31 de mayo del 2004, se expropió el lote de terreno N° 42-A, superficie 95 m2, Rol N° 328-9, comuna de Laja, VIII Región para la obra "Camino Ruta Q - 34, Candelaria - La Laja Sector Millantu - La Laja, Km. 20,00000 al 35,88380" y se acordó el valor de indemnización con su propietario Hector Manuel Navarrete Escobar, ascendente a la cantidad de $200.750.- para el lote N°42-A.-
+
+Fiscal del Ministerio de Obras Públicas.
