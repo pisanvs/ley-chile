@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución Nº 137, de 5 de diciembre de 1997, SERVIU Sexta Región del Libertador Bernardo O'Higgins, ordenó expropiación parcial del inmueble ubicado en Ruta 5 Sur Nº 1040, Rol de Avalúos Nº 1401-16, comuna de Rancagua, superficie 1302,18 metros cuadrados, dentro del Polígono y linderos señalados, Plano Expropiación U.E.P. T-353, de aparente dominio de Servicios Integrados al Transporte Limitada, para la ejecución de "Construcción Pavimentos Camino La Cruz" Rancagua, conforme artículo 51 Ley 16.391 y decreto Ley 2.186. Comisión Peritos integrada por Arquitectos Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Correa, según Informe de fecha 28 de noviembre de 1997, fijó como monto provisional indemnización en $13.218.312.- pagaderos de contado.-
+
+Director SERVIU Región del Libertador Bernardo O'Higgins.
