@@ -1,0 +1,5 @@
+DISPONE EXCLUSION DE PERSONA QUE INDICA DE NOMINAS DE POSTULANTES SELECCIONADOS PARA GOCE DEL SUBSIDIO HABITACIONAL
+
+Resolución exenta Nº 3.528, de fecha 20 de diciembre de 1996, dispone la exclusión de don Jorge Sebastián Zúñiga Pérez, de las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 1995 para la adquisición o construcción de viviendas emplazadas en asentamientos poblacionales del Sistema de Subsidio Habitacional para la Atención del Sector Rural, modalidad de postulación colectiva, VI Región del Libertador General Bernardo O'Higgins. Como consecuencia de ello queda en 490 el número de postulantes seleccionados para el goce del Subsidio Habitacional correspondiente al primer llamado 1995 para la adquisición o construcción de viviendas emplazadas en asentamientos poblacionales del Sistema de Subsidio Habitacional para la atención del sector rural y en 92.740 Unidades de Fomento (U.F.) el monto de los recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados.-
+
+Sergio González Tapia, Subsecretario de Vivienda y Urbanismo Subrogante.
