@@ -1,0 +1,3 @@
+Por resolución Nº 170 de 31 de agosto de 1998, de Serviu Región de Coquimbo, se ordenó expropiación, conforme art. 51 ley 16.391 y D.L. 2.186 de 1978, inmueble ubicado en calle Amunátegui Nº 719 presunto rol avalúo 274-2 comuna La Serena, aparentemente dominio de don(ña): Sara R. Pupkin Draslir. Comisión Peritos integrada por don Patricio Mena López, Alfredo Prieto Parra y doña Iris Marcich Moller, arquitectos, según informe de 30 de junio de 1998, fijó monto provisional indemnización en $1.853.045 pagadera al contado.
+
+- Director Serviu Región Coquimbo.
