@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO ALCALDICIO No 603 EXENTO, DE 1998
+
+Decreto exento número 603, abril 1998, Municipalidad Rancagua expropia: retazo terreno propiedad Parcelas 72 y 73 Fundo El Puente, rol de avalúo 430-9, deslindes: Sur, tramo E-F en 210 metros con Avenida Río Loco; Norte, tramo A-B en 4,93 metros con otra propiedad y tramo C-D en 217,95 metros con resto de la propiedad; Oriente, tramo B-C en 138,15 metros con resto de la propiedad y tramo D-E en 9,20 metros con camino interior; y Poniente, tramo A-F en 145,27 metros con Avenida Cachapoal. Propietario Sociedad Inmobiliaria, Obras e Inversiones Siglo Veintiuno Limitada. Indemnización definitiva primeros 2.000 metros cuadrados, $17.045.160, pago contado abril 1998; restantes 645,20 metros cuadrados a 0,6 U.F. metro cuadrado, equivalente moneda curso legal a la fecha pago, por compensación derechos edificación según construcciones que sociedad vaya ejecutando hasta enterar monto. Expropiación según artículo 29 ley No 18.695, ensanche de Avenida Río Loco y de Avenida Cachapoal.
+
+Darío Valenzuela Van Treek, Alcalde de Rancagua.- Carlos Morales Lara, Secretario Municipal.
