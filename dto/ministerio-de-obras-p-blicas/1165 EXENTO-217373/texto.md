@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.165 de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nº 26-A y 26-B, superficies 269,00 m² y 50,00 m², rol de avalúo Nº 764-44, comuna de Lampa, para la obra Camino Ruta G-184-182, Sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 a Km. 15,04419, comunas de Pudahuel y Lampa, provincias Santiago y Chacabuco, Región Metropolitana y se acordó el valor de la indemnización con su propietario Gustavo Antonio Quitral, ascendente a la cantidad de $1.283.506.-
+
+Fiscal del Ministerio de Obras Públicas.
