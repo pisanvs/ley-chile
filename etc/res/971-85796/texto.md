@@ -1,0 +1,3 @@
+Por resolución No. 971, de 13 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la resolución No. 160, de 1991, de esta Subsecretaría, que autorizó a don FELIX PEDRO HEIN CERNOCH, R.U.T. No. 2.227.847-9, domiciliado en Los Carrera S/N°, Maullín, para operar un establecimiento de cultivo del recurso alga del género Gracilaria, en el Río Cariquilda, Comuna de Maullín, Provincia de Llanquihue, Xª Región, en un rea de 75.000 m2., por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 13 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
