@@ -1,0 +1,537 @@
+FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 15.231
+
+Santiago, 3 de Marzo de 1978.- Hoy se decretó lo que sigue:
+
+Núm. 307.- Teniendo presente:
+
+Que es necesario introducir a la ley N° 15.231, sobre Organización y Atribuciones de los Juzgados de Policía Local, las diversas modificaciones de que ha sido objeto, coordinando y sistematizando debidamente sus disposiciones actualizadas;
+
+Que es recomendable, asimismo, por razones de buen orden administrativo y de utilidad práctica, señalar detenidamente, mediante notas marginales, las fuentes legales en que se originan las modificaciones experimentadas por los distintos preceptos, e indicar, al mismo tiempo, la relación de la nueva numeración del articulado de la ley con la de su texto original, y Vistas: las facultades que me otorga el D.L. N° 2.042, de 1977,
+
+Decreto:
+
+Fíjase el siguiente texto refundido, coordinado y sistematizado de la ley N° 15.231.
+
+## Título I
+
+De los Jueces de Policía Local
+
+#### Artículo 1°
+
+La Organización y Atribuciones de los Juzgados de Policía Local se regirán por las disposiciones de la presente ley.
+
+#### Artículo 2°
+
+En las ciudades cabeceras de provincias y en las comunas que tengan una entrada anual superior a treinta sueldos vitales anuales de la provincia de Santiago, la administración de Justicia, en las materias a que se refiere la presente ley, será ejercida por funcionarios que se denominarán Jueces de Policía Local.
+
+Con la ratificación de la Asamblea Provincial, podrá nombrarse Juez de Policía Local en comunas de ingreso menor que el indicado en el inciso anterior.
+
+En las demás, dichas funciones serán desempeñadas por los Alcaldes, en conformidad a la reglas que se establecen en esta ley.
+
+#### Artículo 3°
+
+Para ser designado juez de policía local, se exigirá estar en posesión de las calidades y requisitos necesarios para ser juez de Letras de Mayor Cuantía de simple departamento.
+
+#### Artículo 4°
+
+Los Jueces de Policía Local serán designados por la Municipalidad que corresponda, a propuesta en terna de la Corte de Apelaciones respectiva, la cual abrirá un concurso por un plazo no inferior a diez días. Los interesados deberán hacer valer los antecedentes justificativos de sus méritos y poseer los requisitos que se exigen para optar al cargo.
+
+INCISO DEROGADO
+
+La designación de los jueces de Policía Local deberá ser hecha por la respectiva Municipalidad dentro de los treinta días siguientes a la fecha de recepción de la terna.
+
+Si transcurriere ese plazo sin que el Juez haya sido designado por la Municipalidad, se entenderá nombrada la persona que ocupe el primer lugar en la terna de que se trate, y en este caso el alcalde estará obligado a recibir de inmediato el juramento a que se refiere el artículo 7°.
+
+#### Artículo 5°
+
+El cargo de Juez de Policía Local es incompatible con cualquier otro de la Municipalidad donde desempeña sus funciones y con el de Juez de otra comuna.
+
+Sin embargo, dos o más Municipalidades vecinas podrán reunirse y acordar, en la forma en que esos municipios convengan, la instalación de un Juzgado de Policía Local, que tendrá jurisdicción sobre las respectivas comunas, determinando a la vez las cuotas que para dichos servicios corresponderá a los diversos municipios. Lo anterior es sin perjuicio de lo dispuesto en el artículo 44 de la ley N° 18.695, Orgánica Constitucional de Municipalidades.
+
+En las Municipalidades con presupuestos inferiores a setenta sueldos vitales anuales de la respectiva provincia y en aquéllas ubicadas en una provincia en que el número de abogados que ejerzan la profesión sea igual o inferior a diez, el Juez de Policía Local podrá desempeñar también, sin mayor remuneración, las funciones de abogado municipal, cuando así lo acuerde la Municipalidad.
+
+Los Jueces de Policía Local y secretarios de estos Tribunales no podrán intervenir como abogados patrocinantes, apoderados o peritos en los asuntos en que conozcan tales Tribunales.
+
+Los Jueces de Policía Local deberán tener el grado máximo del escalafón municipal respectivo. Tendrán derecho a percibir, además, una asignación mensual de Responsabilidad Judicial inherente al cargo, imponible y tributable, que tendrá el carácter de renta para todo efecto legal, correspondiente al 30% de la suma del sueldo base y la asignación municipal. El gasto que represente el pago de esta asignación se efectuará con cargo al presupuesto de la respectiva Municipalidad.
+
+Sin perjuicio de lo anterior, existirá además una Asignación de Incentivo por Gestión Jurisdiccional, imponible y tributable, cuyo pago se efectuará con cargo al presupuesto de la respectiva Municipalidad, que tendrá el carácter de renta para todo efecto legal, la que se concederá teniendo como base los resultados de la calificación que efectúe cada Corte de Apelaciones, de acuerdo al procedimiento señalado en el artículo 8°, que se percibirá mensualmente durante el año inmediatamente siguiente al del respectivo proceso calificatorio y que se ceñirá al siguiente procedimiento:
+
+i) Para aquellos jueces de policía local calificados en Lista Sobresaliente o Muy Buena, a que se refiere el inciso tercero del artículo 278 del Código Orgánico de Tribunales, la asignación corresponderá a un 20% de la suma del sueldo base y la asignación municipal.
+
+ii) Para aquellos jueces de policía local calificados en Lista Satisfactoria o Regular, contemplada en la norma citada precedentemente, la asignación corresponderá a un 10% de la suma del sueldo base y la asignación municipal.
+
+iii) No tendrán derecho a percibir este incentivo los jueces de policía local calificados en Lista Condicional o Deficiente, ni aquellos que durante el año anterior al pago del mismo, por cualquier motivo, no hayan prestado servicios efectivos en el Juzgado de Policía Local durante seis meses o más, con la sola excepción de los períodos por los cuales se hubiesen acogido a licencias médicas contempladas en su régimen estatutario.
+
+En todo caso, los Jueces de Policía Local deben tener su domicilio dentro de la provincia a que corresponda la comuna donde presten sus servicios.
+
+> **Nota.** NOTA: 1 El artículo 46 de la LEY 18287, publicada el 07.02.1984, dispone que las modificaciones introducidas por la cita norma, rigen a contar del 1º de enero de 1985.
+
+#### Artículo 6°
+
+En caso de impedimento o inhabilidad del Juez de Policía Local será subrogado por el Secretario del mismo Tribunal, siempre que sea abogado.
+
+A falta de dicho Secretario, la subrogación se efectuará en la forma que se establece en los números siguientes:
+
+1° En las comunas en que hubiere dos Juzgados los Jueces se subrogarán recíprocamente. Si en la comuna hubiere más de dos Juzgados, la subrogación de los Jueces se efectuará según el orden numérico de los tribunales y reemplazará al último el primero de ellos, y
+
+2° En las comunas en que hubiere un solo Juzgado, el Juez será subrogado por alguno de los abogados que figuren en la terna que formará anualmente el Alcalde, dentro de los primeros quince días de cada año y que será sometida a la consideración de la Corte de Apelaciones respectiva, la que podrá aprobarla, rechazarla o enmendarla sin ulterior recurso. En la terna figurarán solamente abogados que tengan su domicilio en la provincia respectiva.
+
+No se podrá ocurrir al segundo abogado designado en la terna, sino en el caso de faltar o estar inhabilitado el primero, ni al tercero, sino cuando falten o estén inhabilitados los dos anteriores.
+
+En caso de no poder formarse la terna, por no haber abogados en número suficiente, el Alcalde hará la propuesta con dos nombres o con uno según el caso.
+
+A falta de abogado, la subrogación corresponderá al Juzgado de Policía Local más inmediato, entendiéndose que lo es aquél con el cual sean más fácil y rápidas las comunicaciones, pero ello, en ningún caso, alterará la primitiva jurisdición de la respectiva Corte.
+
+#### Artículo 7º
+
+Los jueces de policía local prestarán ante el alcalde el juramento prevenido por el artículo 304 del Código Orgánico de Tribunales y les será aplicable lo dispuesto en el artículo 323 bis del mismo Código. Una copia de la declaración a que se refiere este último artículo será enviada también al secretario municipal respectivo para su custodia, archivo y consulta.
+
+#### Artículo 8°
+
+Los Jueces de Policía Local serán independientes de toda autoridad municipal en el desempeño de sus funciones. Son aplicables a los Jueces de Policía Local las disposiciones de los artículos 84°, 85° y 86° de la Constitución Política; durarán por consiguiente, indefinidamente en sus cargos y no podrán ser removidos ni separados por la Municipalidad.
+
+Los Jueces de Policía Local estarán directamente sujetos a la supervigilancia directiva, correccional y económica de la respectiva Corte de Apelaciones.
+
+Asimismo, dichos Jueces estarán obligados a remitir cada tres meses a la Corte de Apelaciones que corresponda un informe de la gestión del Tribunal a su cargo, para que la Corte los considere en la calificación anual del Juez. Los informes deberán remitirse a la respectiva Corte dentro de los primeros diez días hábiles de los meses de enero, abril, julio y octubre, y contendrán al menos los siguientes datos del trimestre anterior:
+
+1. Número de causas ingresadas, en total y por materia reclamada, indicando el estado en que se encuentren y los motivos del retardo y paralización que algunas de ellas sufrieren;
+
+2. Número de causas falladas y de las que se encuentren en estado de sentencia, si las hubiere, en total y por materia reclamada;
+
+3. Tiempos de demora de los procesos fallados, y
+
+4. Antecedentes sobre la aplicación del artículo 53 de esta ley.
+
+Este informe será público. Una copia del mismo deberá remitirse a la Municipalidad de la comuna en que tenga su asiento el respectivo Juzgado de Policía Local, pudiendo cualquier ciudadano solicitar una copia de éste.
+
+Las Municipalidades elevarán a la respectiva Corte de Apelaciones antes del 15 de Diciembre; cada año, un informe con la apreciación que les merezcan el o los Jueces de Policía Local de su jurisdicción comunal, atendida su eficiencia, celo y moralidad en el desempeño de su cargo. El informe referido será remitido al Concejo para su conocimiento.
+
+Las Cortes de Apelaciones respectivas efectuarán cada año una calificación general de los Jueces de Policía Local de su dependencia. Para una mejor evaluación, deberán solicitar de las municipalidades los antecedentes que estimaren pertinentes.
+
+En contra de la resolución de la Corte de Apelaciones procederá el recurso de Apelación para ante la Corte Suprema dentro del plazo de cinco días hábiles.
+
+Para los efectos de esta calificación, las Cortes se reunirán diariamente, fuera de las horas de audiencia, desde el 2 de Enero del respectivo año hasta que terminen esa labor.
+
+Las Cortes de Apelaciones enviarán los antecedentes respectivos a la Corte Suprema para que, cuando proceda, formule la declaración de mal comportamiento a que se refiere en inciso 4° del artículo 85° de la Constitución Política del Estado y acuerde la remoción del Juez afectado. Estos acuerdos se comunicarán al Alcalde de la respectiva Municipalidad para su cumplimiento.
+
+En estos casos regirá, en lo que fuere aplicable, lo dispuesto por los artículos 273°, 275°, 277° y 278° del Código Orgánico de Tribunales.
+
+Esta calificación regirá para todos los efectos legales, incluso con el objeto de resolver quiénes son los que deben ser eliminados del servicio por no tener la eficiencia, celo o moralidad que se requieren en el desempeño de sus funciones.
+
+#### Artículo 9°
+
+En las comunas en que hubiere o se crearen dos o más Juzgados de Policía Local el territorio jurisdiccional de cada uno de éstos, se fijará por la Municipalidad, la cual no podrá hacer uso de esta facultad más de una vez cada dos años. Esta limitación no regirá cuando la determinación se haga necesaria por causa de modificación del territorio de la respectiva comuna.
+
+#### Artículo 10°
+
+Los Jueces de Policía Local podrán reprimir y castigar las faltas o abusos que se cometieren dentro de la sala de su despacho y mientras ejercen sus funciones, con algunas de las medidas siguientes:
+
+1° Amonestación verbal e inmediata;
+
+2° Multa que no exceda de la suma que corresponda a una décima parte del sueldo vital mensual de la provincia de Santiago, que podrá imponerse a la parte, a su mandatario o a su abogado, según el caso. La reincidencia facultará al tribunal para duplicar el valor de la multa, y
+
+3° Arresto que no exceda de veinticuatro horas.
+
+Podrán, igualmente, reprimir y castigar las faltas de respeto que se cometieren en los escritos que se les presenten, usando de algunos de lo medios señalados en los números 1°, 2° y 3° del artículo 531° del Código Orgánico de Tribunales.
+
+#### Artículo 11°
+
+Los Jueces de Policía Local tendrán el tratamiento de Señoría.
+
+## Título II
+
+De la competencia
+
+#### Artículo 12°
+
+DEROGADO
+
+#### Artículo 13°
+
+Además de lo establecido en el artículo anterior, los Jueces de Policía Local conocerán en primera instancia:
+
+a) De las infracciones de los preceptos que reglamentan el transporte por calles y caminos y el tránsito publico:
+
+b) De la infracciones a las ordenanzas, reglamentos, acuerdos municipales y decretos de la Alcaldía y
+
+c) De las infracciones:
+
+1° A la ley N° 11.704, de 20 de Octubre de 1954, sobre Rentas Municipales;
+
+2° A la ley General de Urbanismo y Construcciones, cuyo texto fue aprobado por decreto N° 458, de 1975, del Ministerio de Vivienda y Urbanismo, y ordenanza respectiva;
+
+3° A la Ley de Educación Primaria Obligatoria;
+
+4° Al decreto ley N 679, de 1974, que establece normas Calificación Cinematográfica;
+
+5° Al decreto con fuerza de ley N 216, de 15 de Mayo de 1931, sobre registro de empadronamiento vecinal;
+
+6° A las leyes sobre pavimentación.
+
+7º A la ley que limita la generación de productos desechables y regula los plásticos.
+
+8°- A la Ley sobre Expendio y Consumo de Bebidas Alcohólicas, de acuerdo a lo dispuesto en el artículo 53 de ese cuerpo legal.
+
+9°- A la ley N° 7.889, de 29 de Septiembre de 1944, sobre ventas de boletos de la Lotería de la Universidad de Concepción y Polla Chilena de Beneficencia;
+
+10°- A los artículos 5°, 6°, 10° y 12° de la ley N° 5.172, 13 de Diciembre de 1933, sobre Espectáculos Públicos Diversiones y Carreras;
+
+11°- A la ley N° 13.937, de 1 de Junio de 1960, sobre letrero con nombre de las calles en los inmuebles o sitios eriazos que hagan esquina;
+
+12°- A la ley N° 4.023, de 12 de Junio de 1924, sobre guía de libre tránsito;
+
+13°- Al decreto con fuerza de ley 34, de 1931, sobre pesca y su reglamento;
+
+14°- A la ley que prohíbe la entrega de bolsas plásticas de comercio, y
+
+15º- A la ley que establece medidas de protección a la lactancia materna y su ejercicio.
+
+> **Nota.** El artículo transitorio de la LEY 19925, publicada el 19.01.2004, dispone que la modificación al presente artículo entrará en vigencia gradualmente para las Regiones V, VI, VIII, X y Metropolitana de Santiago, de conformidad a lo dispuesto en el artículo 7º transitorio de la ley 19665, aplicándose entretanto las disposiciones legales existentes.
+
+#### Artículo 14°
+
+En las ciudades compuestas de una o más comunas en que no tenga el asiento de sus funciones un Juez de Letras de Mayor Cuantía, los jueces de Policía Local que sean abogados, conocerán, además de los siguiente:
+
+A.- En única instancia:
+
+1.- De las causas civiles y de los juicios relativos al contrato de arrendamiento cuya cuantía no exceda de tres mil pesos;
+
+2.- De la aplicación de las multas y de la regulación de los daños y perjuicios provenientes del hecho denunciado en las materias a que se refiere el artículo 13, siempre que el valor no sea superior a tres mil pesos, y
+
+3.- Del nombramiento de curador ad litem.
+
+B.- En primera instancia:
+
+1.- De la aplicación de las multas y demás sanciones a que se refiere la presente ley;
+
+2.- De la regulación de los daños y perjuicios provenientes del hecho denunciado, en las materias a que se refiere el artículo 13°, cuando su monto exceda de tres mil pesos, y
+
+3.- De la regulación de los daños y perjuicios ocasionados en o con motivo de accidentes del tránsito cualquiera que sea su monto.
+
+Tratándose de ciudades de una o más comunas en que tenga el asiento de sus funciones un juez de Letras de Mayor Cuantía, la competencia de los jueces de Policía Local que sean abogados, comprenderá las materias indicadas en los N°s. 2° y 3° de la letra A y en la letra B.
+
+En las comunas en que las funciones de Juez de Policía Local sean desempeñadas por el Alcalde, éste conocerá en primera instancia de las siguientes materias:
+
+a) De la regulación de los daños y perjuicios provenientes del hecho denunciado, en los asuntos a que se refiere el artículo 13, cuya cuantía no exceda de tres mil pesos;
+
+b) De la aplicación de las multas hasta igual valor y las sanciones de comiso y clausura establecidas en el artículo 52.
+
+En el caso previsto en el inciso anterior, conocerá de las infracciones gravísimas y graves a la ley N° 18.290, de las otras materias señaladas en los artículos 12, 13 y en este artículo, que no corresponden a la competencia de los alcaldes que se desempeñen como jueces, el Juez de Policía Local abogado más inmediato en los términos del inciso final del artículo 6° de esta ley.
+
+Lo dicho en este artículo es sin perjuicio de lo establecido en el artículo 12 .
+
+## Título III
+
+Del procedimiento
+
+#### Artículo 15
+
+DEROGADO.
+
+#### Artículo 16
+
+DEROGADO.
+
+#### Artículo 17
+
+DEROGADO.
+
+#### Artículo 18
+
+DEROGADO.
+
+#### Artículo 19
+
+DEROGADO.
+
+#### Artículo 20
+
+DEROGADO.
+
+#### Artículo 21
+
+DEROGADO.
+
+#### Artículo 22
+
+DEROGADO.
+
+#### Artículo 23
+
+DEROGADO.
+
+#### Artículo 24
+
+DEROGADO.
+
+#### Artículo 25
+
+DEROGADO.
+
+#### Artículo 26
+
+DEROGADO.
+
+#### Artículo 27
+
+DEROGADO.
+
+#### Artículo 28
+
+DEROGADO.
+
+#### Artículo 29
+
+DEROGADO.
+
+#### Artículo 30
+
+DEROGADO.
+
+#### Artículo 31
+
+DEROGADO.
+
+#### Artículo 32
+
+DEROGADO.
+
+#### Artículo 33
+
+DEROGADO.
+
+#### Artículo 34
+
+DEROGADO.
+
+#### Artículo 35
+
+DEROGADO.
+
+#### Artículo 36
+
+DEROGADO.
+
+#### Artículo 37
+
+DEROGADO.
+
+#### Artículo 38
+
+DEROGADO.
+
+#### Artículo 39
+
+DEROGADO.
+
+## Título IV
+
+Del Conservador de Vehículos Motorizados y del
+
+Registro de Conductores.
+
+#### Artículo 40
+
+DEROGADO.
+
+> **Nota.** NOTA 2 El artículo transitorio de la Ley 18.287, reemplazado por la letra d) del artículo único de la Ley 18.383, dispuso lo siguiente: "Artículo transitorio Las inscripciones del dominio de los vehículos motorizados, las medidas precautorias, las prohibiciones y cualquier otra limitación de su dominio que estuvieren inscritas a la vigencia de esta ley, en el Registro de Vehículos Motorizados, de acuerdo con las normas del Títulos IV de la ley 15.231, no serán afectadas por la derogación de dicho Título IV, mientras no se practiquen las nuevas inscripciones el Registro de Vehículos Motorizados a que se refiere el Título III de la ley 18.290.".
+
+#### Artículo 41
+
+DEROGADO.
+
+#### Artículo 42
+
+DEROGADO.
+
+#### Artículo 43
+
+DEROGADO.
+
+#### Artículo 44
+
+DEROGADO.
+
+#### Artículo 45
+
+DEROGADO.
+
+#### Artículo 46
+
+DEROGADO.
+
+## Título V
+
+De los Secretarios y Personal Subalterno
+
+#### Artículo 47°
+
+Habrá un Secretario en cada uno de los Juzgados de Policía Local, que será nombrado por el Alcalde en conformidad a las disposiciones de DFL. N° 338, de 1960. En las comunas de Santiago, Valparaíso, Concepción y Viña del Mar y en las demás donde lo acuerde la respectiva Municipalidad, estos cargos deberán ser desempeñados por abogados.
+
+El nombramiento del respectivo personal se sujetará a las mismas normas.
+
+Los secretarios tendrán el carácter de ministros de fe, y estarán sujetos a la autoridad disciplinaria inmediata del Juez en el ejercicio de sus funciones; no obstante, su responsabilidad administrativa se determinará y hará efectiva de acuerdo con las contenidas en el Estatuto Administrativo.
+
+Los secretarios proveerán, por sí solos, las solicitudes de mera tramitación.
+
+Las personas que se estén desempeñando como Secretarios de los Juzgados de Policía Local sin estar en posesión del título de abogado, cuando tenga lugar lo dispuesto en la parte final del inciso primero, en aquellos Juzgados en que se exija este requisito, ingresarán a las respectivas Plantas del Tribunal en que actúan en el cargo de Oficial Primero.
+
+#### Artículo 48°
+
+Los deberes y atribuciones de los secretarios y demás personal subalterno se determinarán en el Reglamento que dicte el Presidente de la República para la ejecución de esta ley.
+
+#### Artículo 49°
+
+El secretario será subrogado en sus funciones por el empleado del Juzgado que le siga en jerarquía, y a falta o impedimento de éste, por el empleado que designe el Juez, sin perjuicio, en ambos casos, de sus funciones propias.
+
+## Título VI
+
+Disposiciones generales
+
+#### Artículo 50°
+
+Los asuntos a que se refiere esta ley se tramitarán en papel simple, con excepción de aquellos en que se reclame indemnización de daños y perjuicios por accidentes del tránsito, en los cuales se pagará un impuesto en estampillas municipales equivalente al que fija la Ley de Timbres, Estampillas y Papel Sellado para esta misma clase de juicios, deducidos ante la Justicia Ordinaria. En este caso el Juez podrá condenar en costas a la parte vencida.
+
+#### Artículo 51°
+
+DEROGADO.
+
+#### Artículo 52°
+
+Los jueces de Policía Local abogados en los asuntos que conozcan y sin perjuicio de lo establecido en leyes especiales, podrán aplicar las siguientes sanciones:
+
+a) Prisión, en los casos que señalen las leyes;
+
+b) Multa de hasta tres unidades tributarias;
+
+c) Comiso de las especies materia del denuncio, en los casos particulares que señalen las leyes y las ordenanzas respectivas, y
+
+d) Clausura, hasta por treinta días.
+
+Tratándose de contravenciones a los preceptos que reglamentan el tránsito público y el transporte por calles y caminos podrán aplicar, separada o conjuntamente, las siguientes sanciones:
+
+1.- Multas de hasta cinco mil pesos;
+
+2.- Comiso en los casos particulares que señale la Ley de Tránsito;
+
+3.- Retiro de los vehículos que por sus condiciones técnicas constituyen un peligro para la circulación, y
+
+4.- Suspensión de la licencia hasta por seis meses o cancelación definitiva de la misma. Estas medidas podrán decretarse en los casos que determine la Ley del Tránsito, debiendo el Juez comunicar al Servicio de Registro Civil e Identificación la imposición de estas penas como de las otras que se indiquen en la Ley de Tránsito.
+
+#### Artículo 53°
+
+La corte de Apelaciones, previo informe de la Municipalidad y del Juez de Policía Local correspondientes, fijará los días y horas de funcionamiento de estos Juzgados en su respectivo territorio. En ningún caso, las audiencias al público serán inferiores a tres por semana y se celebrarán en días distintos, con una duración de al menos tres horas cada una. En el caso del inciso segundo del artículo 5°, esta fijación se hará por la Corte de Apelaciones de más antigua creación.
+
+En aquellas comunas donde hubiere varias poblaciones de más de tres mil habitantes, podrá el Juez de Policía Local fijar turnos para desempeñar sus funciones en ellas, corriendo los gastos a cargo de la Municipalidad respectiva.
+
+#### Artículo 54°
+
+Las sanciones impuestas por infracciones o contravenciones prescribirán en el término de un año, contado desde que hubiere quedado a firme la sentencia condenatoria.
+
+Prescribirán en el plazo de seis meses, contados desde la fecha de la infracción, las acciones persecutorias de la responsabilidad por contravenciones.
+
+En los casos de infracciones a la Ley General de Urbanismo y Construcciones, el plazo de prescripción será de cinco años, contado desde que la infracción se haya consumado.
+
+La prescripción de la acción se interrumpe por el hecho de deducirse la demanda, denuncia o querella ante el Tribunal correspondiente, pero si se paralizare por más de un año, continuará corriendo el plazo respectivo.
+
+#### Artículo 55
+
+Las multas que los Juzgados de Policía Local impongan no estarán afectas a recargo legal alguno y serán a beneficio de la comuna en cuyo territorio se cometió la infracción, salvo aquellas que, según lo dispone el número 6 del inciso tercero del artículo 14 de la ley Nº 18.695, Orgánica Constitucional de Municipalidades, deben ser destinadas al Fondo Común Municipal o a éste y a la municipalidad respectiva, según corresponda.
+
+Inciso Derogado.
+
+> **Nota.** El artículo 10 de la LEY 20033, publicada el 01.07.2005, deja sin efecto, a contar del día 01.09.2005, el beneficio en favor del Servicio Nacional de Menores del 18% de las multas impuestas por los juzgados de policía local, que se establecía en el inciso segundo, pasando el referido porcentaje, a contar de dicha fecha, a ser de beneficio de las respectivas municipalidades.
+
+#### Artículo 56°
+
+Las Municipalidades deberán proporcionar a los Juzgados de Policía Local, todos los útiles, elementos de trabajo y medios de movilización para el funcionamiento de estos tribunales y el cumplimiento de las diligencias y actuaciones, judiciales.
+
+#### Artículo 57°
+
+Las multas expresadas en pesos que corresponde aplicar a los Juzgados de Policía Local se reajustarán, anualmente en el mismo porcentaje de alza que experimente el Indice de Precios al Consumidor que fija el Instituto Nacional de Estadisticas, aproximando su monto a la centena.
+
+El Ministerio de Justicia, durante el mes de enero de cada año, establecerá el porcentaje de alza que corresponde por el año calendario anterior, la que se aplicará a contar del 1° de febrero de cada año.
+
+> **Nota.** NOTA 4 El artículo único del Decreto Supremo N° 56, exento. de Justicia, publicado en el "Diario Oficial" de 18 de febrero de 1998, reajustó, a contar del 1° de febrero de 1998, en 6% las multas expresadas en pesos que corresponde aplicar a los Juzgados de Policía Local, debiendo aproximarse su monto a la centena.
+
+#### Artículo 58°
+
+Los exámenes de alcoholemia requeridos por el Juzgado tendrán el valor de un décimo de sueldo vital y serán de cargo de quien resulte culpable del accidente, debiendo para este efecto ser regulado como costas del proceso. Se aplicará en este caso el apercibiento señalado en el artículo 29°.
+
+#### Artículo 59°
+
+Establécese el uso obligatorio de elementos reflectantes tales como huinchas y otros en la parte posterior de los vehículos de tracción animal, bicicletas, triciclos y otros análogos.
+
+La autoridad prohibirá la circulación de los vehículos que infrinjan el inciso anterior.
+
+#### Artículo 60°
+
+Las multas que impongan los Juzgados de Policía Local se aplicarán a beneficio de la respectiva Municipalidad, sin perjuicio de la participación que corresponda a las Cajas de Previsión de Empleados Municipales.
+
+#### Artículo 61°
+
+En todos los procedimientos y actuaciones a que diere lugar la aplicación de la presente ley, los Juzgados de Policía Local tendrán las mismas franquicias postales de que gozan los tribunales ordinarios.
+
+#### Artículo 62º
+
+DEROGADO
+
+#### Artículo 63
+
+Los Tribunales de Justicia o los Juzgados de Policía Local, en su caso, según los antecedentes del conductor y la gravedad de la infracción, podrán otorgar al que tenga su licencia de conducir retenida con motivo de proceso pendiente, permiso provisorio para conducir hasta por ciento veinte días, sin perjuicio de renovarlo hasta que termine el proceso.
+
+#### Artículo 64°
+
+DEROGADO.-
+
+#### Artículo 65°
+
+Investigaciones de Chile deberá cumplir las órdenes de investigación o arresto que emitan los Jueces de Policía Local en las causas de que conozcan, sin perjuicio de los deberes de Carabineros de Chile en esta materia.
+
+#### Artículo 66°
+
+En todo accidente del tránsito en que se produjeren lesiones o muerte de personas, el conductor que participe en los hechos estará obligado a detener su marcha, a prestar la ayuda que fuere necesaria y dar cuenta a la autoridad policial más inmediata.
+
+Se presumirá la culpabilidad del conductor que no lo hiciere y abandonare el lugar del accidente.
+
+#### Artículo 67°
+
+En los casos en que concurrieren, en un accidente del tránsito, infracciones que son el medio para la comisión de un delito o cuasidelito o que sean elementos integrantes de éstos, conocerá únicamente el Juez del Crimen. Si se dictare sobreseimiento definitivo, se enviarán los antecedentes al Juez de Policía Local para que conozca de las infracciones.
+
+#### Artículo 68°
+
+Si el vehículo perteneciere a una persona que no esté radicada en el país no se permitirá la salida de dicho vehículo del territorio nacional mientras se encuentre pendiente el proceso en el cual se discute la responsabilidad penal, civil o contravencional del dueño.
+
+En todo caso, si se rinde caución suficiente, podrá solicitarse del Tribunal correspondiente que alce la anterior prohibición, comunicando a las oficinas de Aduanas la resolución que se dicte.
+
+#### Artículo 69
+
+DEROGADO
+
+#### Artículo 70
+
+DEROGADO
+
+#### Artículo 71
+
+DEROGADO
+
+#### Artículo 72
+
+DEROGADO
+
+#### Artículo 73
+
+DEROGADO
+
+#### Artículo transitorio
+
+Las modificaciones introducidas al inciso primero del artículo 5° de la ley N° 6.827 por la ley N° 15.123, no serán aplicables a los Jueces de Policía Local que se encontraban en funciones al 17 de Enero de 1963.
+
+Las normas de la ley N° 15.123 no podrán significar tampoco disminución de remuneraciones para los demás funcionarios que prestaban servicios en los Juzgados de Policía Local a la fecha indicada en el inciso anterior.
+
+No afectarán a los Jueces de Policía Local que se desempeñaban como tales a esa fecha las incompatibilidades e inhabilidades establecidas por la ley N° 15.123.
+
+Tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Mónica Madariaga Gutiérrez, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente.- Eduardo Avello Concha, Coronel (JE), Sub-secretario de Justicia.
