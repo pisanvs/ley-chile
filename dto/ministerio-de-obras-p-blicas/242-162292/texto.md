@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 242, de 26 de Agosto de 1985, se expropiaron lotes 2-b, 2-c, 2-e, 2-f, 12-c, 13-b, 14-a y 23-a, roles de avalúos de los terrenos 431-2, 432-4, 432- 5, 432-6 y 432-15, Comuna de Santiago y se acordó precio de indemnización con los afectados don Pablo Aranda Rodríguez, Juan García Villalobos, Angélica Salinas Castellón, Haydeé Iglesias Castro, Salvador Gastón Arancibia Alvarado, María Cornejo Abarca, Luzmila García Erices y Jorge Arancibia Calderón, ascendente a $ 56.000, $ 50.000, $ 56.000, $ 50.000, $ 329.000, $ 75.000, $ 60.000 y $ 60.000 respectivamente.
+
+- Fiscal del Ministerio de Obras Públicas.
