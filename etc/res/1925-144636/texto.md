@@ -1,0 +1,3 @@
+Por resolución Nº 1.925, de 23 de septiembre de 1999, de esta Subsecretaría, autorízase a PACIFIC FISHERIES S.A., para continuar desarrollando actividades pesqueras extractivas autorizadas a Pesquera Cucao Limitada, por resoluciones Nº 1.514 y Nº 1.515, ambas de 1997, de esta Subsecretaría, en virtud de la escritura pública y disposiciones legales.
+
+Valparaíso, 23 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
