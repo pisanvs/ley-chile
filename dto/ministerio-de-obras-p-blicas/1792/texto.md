@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.792 de 30 de septiembre de 1998, se expropiaron los lotes de terreno No. s 1 y 2, superficies 167 y 176 m² respectivamente, rol de avalúo 26-3, comuna de Lolol, para la obra Construcción Puente Vega, Sexta Región, Sector Camino Lolol - La Vega y se acordó precio de indemnización con su propietario Facundo Lozano Manzanares, ascendente a la cantidad de $2.691.744.- para los lotes 1 y 2.-
+
+Fiscal del Ministerio de Obras Públicas.
