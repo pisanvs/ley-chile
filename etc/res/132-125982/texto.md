@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA QUINTEROS S.A. PARA AMPLIAR SUS ACTIVIDADES PESQUERAS
+
+Por resolución Nº 132 de 17 de Febrero de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Quinteros S.A., domiciliada en Santiago, para operar las embarcaciones denominadas Goden Wind, Basel, Eversen y Crusoe 1º, autorizadas por las Resoluciones Nros. 128, 382, de 1983, y Nº364, de 1984 todas de la Subsecretaría de Pesca, en actividades de pesca de cerco, en el litoral comprendido entre la IV y la VII Región, en labores extractivas de los siguientes recursos: jurel, sardina española, sardina común, anchoa y caballa. Además, se autoriza a la Sociedad señalada, para instalar y operar una planta elaboradora de harina de pescado, en Camino Ventana (sector Loncura), Quintero, en la que utilizará como materia prima los recursos mencionados. Además de los desechos de su planta de congelado y conserva.
+
+Valparaíso, 17 de Febrero de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
