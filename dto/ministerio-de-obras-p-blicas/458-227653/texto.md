@@ -1,0 +1,5 @@
+Por decreto MOP Nº 458, de 9 de junio de 2004, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropió el lote de terreno Nº 60-6, para la obra "Colector Interceptor de Aguas Lluvias. Puente Alto", Región Metropolitana, que figura a nombre de Charney Folkmann Daniel, rol de avalúo 5410-61, comuna de San Bernardo, superficie 3.948 m². La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Joaquín Guillermo Enrique Eyzaguirre Edwards e Itsang Lu Chen, fijó con fecha 7 de mayo de 2004, el valor provisional de la indemnización en la cantidad de $15.950.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
