@@ -1,0 +1,3 @@
+Por Decreto MOP. No. 205, de 31 de agosto de 1990, se expropiaron los lotes N°s. 5-A y 6, superficies 1.165 y 533 M2., respectivamente, roles de avalúo 1280-53, Comuna de Penco, para la ejecución de la obra Ampliación y Reposición Ruta 150, Concepción - Lirquén, Kms. 1.350 al 13.600 sector Penco - Lirquén, y se acordó precio con su propietario Héctor Alarcón Ramírez, ascendente a la cantidad de $ 2.443.900.-
+
+Fiscal del Ministerio de Obras Públicas.
