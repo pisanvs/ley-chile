@@ -1,0 +1,5 @@
+Por decreto MOP Nº 4.365, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 se expropiaron los lotes de terreno Nºs. 55, 55-A, 56, 56-A y 57, para la ejecución de la obra Camino Malloa-Tunca por Corcolén Km. 5.600 a Km. 10.750, que figuran a nombre de Aurelia Ogaz Ahumada y Guillermo Ogaz González, Roles de Avalúo 139-9 y 138-64, de la comuna de Malloa, VI Región, superficies 944, 59, 1.620, 145 y 258 M2. La comisión de peritos fijó con fecha 30 de noviembre de 1998, la indemnización provisional en la cantidad de $557.600, lote 55; $345.800, lote 55-A; $1.248.000, lote 56;
+
+$339.000, lote 56-A y $409.600, lote 57, las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
