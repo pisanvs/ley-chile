@@ -1,0 +1,3 @@
+Por resolución exenta No. 175 de 09 de marzo de 1990 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó al señor Arnoldo Vivar Carrasco, para efectuar servicio internacional de transporte terrestre de pasajeros entre Futaleufú (Chile) y Esquel (Argentina) por el Paso Río Futaleufú con una frecuencia semanal, de ida y vuelta.
+
+- Sergio González Tagle, Subsecretario de Transportes.
