@@ -1,0 +1,7 @@
+AUTORIZA A DON ANTONIO SOTO SAD PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 714, de 13 de Julio de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a don Antonio Soto Sad, R.U.T.
+
+No. 5.366.977-8, domiciliado en Avenida Baquedano No. 1373; Coyhaique, XI Región, para instalar y operar un establecimiento de cultivo de algas del género Gracilaria, ubicado en dos sectores de la Comuna de Cisnes, Provincia de Aysén, XI Región: Sector I, ubicado en un sector de Poza Siete Picos en Isla James, en un área de 100.000 m2. de fondo de mar, cuyas coordenadas geográficas son las siguientes, según Plano Ordinal Sernap No. 548, Vértice A 44° 52' 45,00" S; Long. 74° 04' 50,00" W; Vértice B 44° 52' 56,00" S.; Long. 74° 05' 00,00" W.; Sector II, ubicado en un sector de Poza Nutria en Isla San Jorge, en un área de 100.000 m2. de fondo de mar, cuya coordenadas geográficas son las siguientes, según Plano Ordinal Sernap No. 549, Vértice A 44° 50' 02,00" S.; Long. 73° 58' 30,00" W; Vértice B 44° 50' 13,00" S.; Long. 73° 58' 30,00" W. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.-
+
+Roberto Cabezas Bello, Subsecretario de Pesca.
