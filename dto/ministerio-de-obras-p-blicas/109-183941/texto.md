@@ -1,0 +1,3 @@
+Por decreto MOP Nº 109 de fecha 28 de febrero de 2001, se expropió el lote de terreno Nº 19, superficie 219 m², rol de avalúo 518-51, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo I Km. 0,00000 a Km. 3,95000" y se acordó el valor de indemnización con su propietario Sergio del Carmen Aguila Mellado, ascendente a la cantidad de $362.934.-
+
+Fiscal del Ministerio de Obras Públicas.
