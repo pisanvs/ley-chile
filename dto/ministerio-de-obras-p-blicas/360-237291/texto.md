@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 360, de 30 de mayo de 1996, se expropió el lote de terreno N° 1, superficie 18.785 M2., rol de avalúo 103-45, comuna de Palena, para la obra Camino Alto Río Palena Frontera Ruta 235-Ch, sector Puente Encuentro y se acordó precio de indemnización con sus propietarios Hilda María Reyes Villarroel y otros, ascendente a la cantidad de $1.628.523.
+
+- Fiscal del Ministerio de Obras Públicas.
