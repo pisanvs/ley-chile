@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.468, de 19 de noviembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 7, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector B: Km. 42.950,00 al Km.
+
+55.200,00, Región Metropolitana, que figura a nombre de Sáez Zapata Carmen, rol de avalúo 115-4, comuna de Paine, superficie 399 m². La Comisión de Peritos integrada por los señores María Angélica Hurtado Arranz, Andrés Echeverría Campo y María Soledad Saffie Duery, fijó con fecha 19 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $12.672.900.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
