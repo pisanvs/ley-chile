@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.158, de 30 de noviembre del 2000, se expropió el lote de terreno Nº269, superficie 60m2., rol de avalúo 6782-24, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario José Antonio Arellano Muñoz, ascendente a la cantidad de $7.317.756.-
+
+Fiscal del Ministerio de Obras Públicas.
