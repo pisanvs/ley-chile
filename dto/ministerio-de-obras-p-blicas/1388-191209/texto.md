@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.388, de 14 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 86-A Obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putu-Quivolgo, Kms. 30,000 al 49,815.494, que figura a nombre de Juan Morel Morel y otros, rol de avalúo 412-8, comuna de Constitución, VII Región, superficie 44.461,28 m². La comisión de peritos, fijó con fecha 10 de junio de 1998, en la cantidad de $6.156.902, la indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
