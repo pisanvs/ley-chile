@@ -1884,6 +1884,14 @@ Reconoce también la asociación o cuentas en participación.
 
 colectiva
 
+#### Artículo 350
+
+La sociedad colectiva se forma y prueba por escritura pública inscrita en los términos del artículo 354.
+
+La disolución de la sociedad que se efectuare antes de vencer el término estipulado, la prórroga de éste, el cambio, retiro o muerte de un socio, la alteración de la razón social y en general toda reforma, ampliación o modificación del contrato, serán reducidos a escritura pública con las solemnidades indicadas en el inciso anterior.
+
+No será necesario cumplir con dichas solemnidades cuando se trate de la simple prórroga de la sociedad que deba producirse de acuerdo con las estipulaciones que existan al respecto en el contrato social. En este caso la sociedad se entenderá prorrogada en conformidad a las estipulaciones de los socios, a menos que uno o varios de ellos expresen su voluntad de ponerle término en el plazo estipulado mediante una declaración hecha por escritura pública y de la cual deberá tomarse nota al margen de la inscripción respectiva en el Registro de Comercio antes de la fecha fijada para la disolución.
+
 #### Artículo 351
 
 El contrato consignado en un documento privado no producirá otro efecto entre los socios que el de obligarlos a otorgar la escritura pública antes que la sociedad dé principio a sus operaciones.
@@ -1919,6 +1927,14 @@ La escritura social deberá expresar:
 #### Artículo 353
 
 No se admitirá prueba de ninguna especie contra el tenor de las escrituras otorgadas en cumplimiento del artículo 350, ni para justificar la existencia de pactos no expresados en ellas.
+
+#### Artículo 354
+
+Un extracto de la escritura social deberá inscribirse en el registro de comercio correspondiente al domicilio de la sociedad.
+
+El extracto contendrá las indicaciones expresadas en los números 1°, 2°, 3°, 4°, 5° y 7° del artículo 352, la fecha de las respectivas escrituras, y la indicación del nombre y domicilio del escribano que las hubiera otorgado.
+
+La inscripción deberá hacerse antes de expirar los sesenta días siguientes a la fecha de la escritura social.
 
 #### Artículo 355
 
@@ -2299,6 +2315,10 @@ La comandita por acciones se constituye por la reunión de un capital dividido e
 #### Artículo 474
 
 La comandita simple se forma y prueba como la sociedad colectiva, y está sometida a las reglas establecidas en los siete primeros párrafos de este Título, en cuanto dichas reglas no se encuentren en oposición con la naturaleza jurídica de este contrato y las siguientes disposiciones.
+
+#### Artículo 475
+
+El nombre de los socios comanditarios no figurará en el extracto de que habla el artículo 354.
 
 #### Artículo 476
 
