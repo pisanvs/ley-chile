@@ -1,0 +1,1 @@
+Modifica la planta del personal de la Sindicatura General de Quiebras, contenida en el inciso 3° del artículo 1° de la ley 15.566, de 4 de marzo de 1964; otras normas relacionadas con su personal
