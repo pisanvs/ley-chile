@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta N° 156 de Septiembre 26 de 1984, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIl Región, se autoriza a la "Línea de Taxis Colectivos Talca - Pelarco", compuesta por las siguientes personas: Juan Antonio Corales Albornoz - Manuel Rocco Oyarzún - Mariana González Aros - Víctor Horacio Parraguez Jorquera - Bernardo Ponce Ponce - Mario González Osses - Víctor Manuel Aravena Rayo - Gastón Ortiz Sandoval - Isaac de Jesús Rivas Pérez - Jorge Soto González - Orlando Parraguez Cornejo; para efectuar el servicio de taxi colectivo no urbano dentro del territorio nacional, a excepción de los servicios de taxi colectivo urbano.-
+
+Manuel Coloma Amaro, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
