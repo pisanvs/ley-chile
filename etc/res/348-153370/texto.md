@@ -1,0 +1,3 @@
+Por Resolución N° 348 de 23 de abril de 1986 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en Avenida Larraín N° 5810, presunto rol avalúos N° 100-93, comuna La Reina, aparentemente dominio de don Manuel Castaño Castaño. Comisión Tasadora integrada por peritos Juan Pañella Casares, Fernando Merino de la Cerda, arquitectos, y Luis Rojas Quezada, constructor civil, según informe del mes de febrero de 1986, fijó monto provisional indemnización en $ 138.600.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
