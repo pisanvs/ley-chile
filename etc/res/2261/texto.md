@@ -1,0 +1,3 @@
+Por Resolución Nº 2.261, de 31 de diciembre de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; declárase la caducidad de la Resolución Nº 151, de 1996, que otorgó a EMPRESA PESQUERA BRAVAMAR Y COMPAÑIA LIMITADA, un permiso extraordinario de pesca para la unidad de pesquería del recurso Langostino colorado en virtud de lo dispuesto en la letra h) de la Ley 18.892 y sus modificaciones.
+
+Valparaíso, 31 de diciembre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
