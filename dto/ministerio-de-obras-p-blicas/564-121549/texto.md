@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 564, de 29 de abril de 1998, se expropiaron los lotes de terreno Nº s. 5, 6, 7, 8 y 10, superficies 152,6, 59,9, 133, 570,4 y 644 m2 respectivamente, roles de avalúo 307-54, 307-97 y 307- 110, comuna de Purranque, para la obra Camino Ruta U-89, Sector Rotonda Purranque - Coihueco y se acordó precio de indemnización con su propietario Olga Turra Paredes, Salvador Sandoval Alvarez y Conrado Brethauer, ascendente a las cantidades de $ 187.563.- para el lote 5, $ 307.921.- para los lotes 6, 7 y 8, $ 302.009, para el lote 10.-
+
+Fiscal del Ministerio de Obras Públicas.
