@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.878, de fecha 30 de noviembre de 2001, se expropiaron los lotes de terreno Nºs. 7, 8 y 9, superficies 463 m2, 661 m2 y 3 m2, respectivamente, rol de avalúo 221-16, comuna de Coelemu, VIII Región, para la obra "Camino Ruta O-170, O-176, Sector Acceso Guarilihue, Tramo I, Km. 0,00000 al 8,28000" y se acordó el valor de indemnización con su propietaria doña Elda Elena Saavedra Romero, ascendente a la cantidad de $644.891.
+
+- Fiscal del Ministerio de Obras Públicas.
