@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.721, de 31 de octubre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº141-2, para la obra: "CONCESION INTERNACIONAL RUTA 5. TRAMO: SANTIAGO - TALCA Y ACCESO SUR A SANTIAGO. SECTOR: KM.
+
+68.400,00 AL KM. 95.600,00 BY PASS RANCAGUA"; Sexta Región, que figura a nombre de SABATER DEL FIERRO VICTORIA EU, rol de avalúo 10-1, comuna de Olivar, superficie 2.078 m2. La comisión de peritos integrada por los señores Orlando Antonio Fariña Vásquez, René Octavio Corvalán Correa y Manuel Hernán Díaz Farfán, fijó con fecha 31 de agosto de 2001, el valor provisional de la indemnización en la cantidad de $3.408.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
