@@ -1,0 +1,1 @@
+Faculta al Director General de la Armada para que, en representación del Fisco, transfiera a título gratuito a la Cooperativa Naval de Valparaíso, la propiedad del bien raíz situado en la calle Victoria de ese puerto.
