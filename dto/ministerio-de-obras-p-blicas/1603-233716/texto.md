@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.603, de 22 de noviembre de 2004, se dejó sin efecto el decreto MOP Nº 1.408, de 19 de octubre de 2004, sólo en la parte que se refiere a la expropiación del lote de terreno Nº 125-A, en consideración que éste fue expropiado mediante decreto MOP Nº 1.255, de 31 de agosto de 2004 y consignado el monto de la indemnización provisional debidamente reajustada con fecha 25 de octubre de 2004, ante el 1º Juzgado Civil de Temuco.
+
+Fiscal del Ministerio de Obras Públicas.
