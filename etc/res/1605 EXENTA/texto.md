@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No 1.605, de 07 de diciembre de 1984, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a las personas que se individualizan más adelante, para efectuar servicio de taxi colectivo no urbano dentro del territorio nacional. Sr. Ramón Gárate Leiva, Sr. Jorge San Martín León, Sr. José Alberto Bravo Espinoza, Sr. Gustavo Morales Bravo, Sr. Víctor Manuel Galleguillos Alvarado, Sr. Rigoberto Sanhueza Bustos, Sr. Carlos Manuel Chasco Berríos, Sr. Luis Hernán Muñoz Rojas, Sr. Manuel Alonso Padilla Migueles, Sr. Mario Francisco Berríos Soravía. Sr. Juan Romero Morales, Sr. Jorge Julio Navarrete Urzúa, Sr. Víctor Weckel Amar, Sr. José Jaime Leiva Pérez, Sra. Violeta del Rosario Espinoza Berríos, Sr. Luis Ricardo Flores Ilabaca.
+
+Santiago, 19 de diciembre de 1984.- Carlos Román Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
