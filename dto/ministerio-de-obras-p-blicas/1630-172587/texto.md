@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.630 de fecha 28 de abril de 2000, se expropió el lote de terreno Nº2, superficie 817 m², rol de avalúo 317-44, comuna de Parral, para la obra ''Camino L-75, Sector Cruce Longitudinal (Parral) El Ajial, Tramo Km. 0.000,00 a Km. 6.303,91'' y se acordó el valor de indemnización con su propietaria Ernestina del Carmen Guzmán Vallejos, ascendente a la cantidad de $451.636.
+
+Fiscal del Ministerio de Obras Públicas.
