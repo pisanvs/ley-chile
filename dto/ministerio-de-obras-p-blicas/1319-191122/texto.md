@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.319, de 31 de agosto del 2001, se expropiaron los lotes de terreno Nºs 56 y 57-A, superficies 714 y 3.676 m², rol de avalúo en trámite, comuna de Casablanca, para la obra Red Litoral Central Sector 2: Camino Algarrobo-Casablanca (Ruta F-90), Quinta Región y se acordó el valor de indemnización con su propietario José Ebel Vial, ascendente a la cantidad de $13.354.039.-
+
+Fiscal del Ministerio de Obras Públicas.
