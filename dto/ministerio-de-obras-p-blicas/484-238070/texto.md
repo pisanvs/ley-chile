@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 484, de 28 de junio de 1996, se expropiaron los lotes de terrenos N°s 1, 2 y 4, superficies 675, 5.118 y 770 m2 roles de avalúos 310-80, 316-136 y 1185 comuna de Quirihue, para la obra Camino Cauquenes-Límite Regional-Quinhue, Sector Acceso a Quirihue, se acordó precio de indemnización con sus propietarios, Julio Alfonso Oviedo Montero, Víctor Javier 0sorio Godoy y Juan Esteban Vera Chandía, ascendente a las cantidades de $842.030 para el lote N° 1 $7.513.251 para el lote N° 2 y $1.424.652 para el lote Nº 4.
+
+Fiscal del Ministerio de Obras Públicas.
