@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 48 de 17 de Enero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a las parcelas N°s 1 a la 10 y sitios N°s 1 al 13 del Proyecto de Parcelación "Nueva Aurora" formado por el predio "Mauco" de la comuna de Quintero, V Región. Los de rechos de agua se extraen de los Canales Colono y Mauco, Publicación hecha conforme Art. 13, Ley N° 18.377.-
+
+Director Ejecutivo.
