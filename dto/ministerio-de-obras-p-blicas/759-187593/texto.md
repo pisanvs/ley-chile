@@ -1,0 +1,3 @@
+Por decreto MOP Nº759 de fecha 30 de abril de 2001, se expropió el lote de terreno Nº7, superficie 65,87 m², rol de avalúo 1001-1, comuna de San Joaquín, para la obra "Mejoramiento Zanjón de la Aguada", Tramo III; Km. 4,408,86 a Km. 10,167,10" y se acordó el valor de indemnización con su propietario Industria de Catres y Literas Limitada, ascendente a la cantidad de $3.280.403.-
+
+Fiscal del Ministerio de Obras Públicas.
