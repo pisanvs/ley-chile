@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.667, de 28 de abril del 2000, se expropió el lote de terreno Nº 4, superficie 461 m², rol de avalúo 184-301, comuna de San Vicente, para la obra Mejoramiento Ruta H-830, sector San Vicente - El Cardal - Millahue, Km. 0.000 a Km. 8.622,631 y se acordó precio de la indemnización con su propietaria Sociedad Agrícola Las Casas de El Cardal Limitada, ascendente a la cantidad de $1.879.200.-
+
+Fiscal del Ministerio de Obras Públicas.
