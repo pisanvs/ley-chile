@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 279, de 31 de marzo de 1997, se expropiaron los lotes de terreno Nºs. 11 y 21, superficies 4.160 y 4.480 m2., Roles de avalúo 403-5 y 403-13, comuna de Vicuña, para la obra Proyecto Embalse Puclaro, Sector La Polvada, II Etapa y se acordó precio de la indemnización con sus propietarios, María del Tránsito Traslaviña García y Ema Cáceres, ascendentes a las cantidades de $4.464.185 y $10.930.409, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
