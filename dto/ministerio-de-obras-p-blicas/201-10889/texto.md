@@ -1,0 +1,3 @@
+Por Decretro M.O.P. N° 201, de 28 de abril de 1995, se expropiaron los lotes de terreno N°s 7, 9, 10,11, 24, 25 y 44-A, superficies 2.383, 210, 348, 5.548, 579, 514, 2.057 M2., respectivamentes roles de avalúos 1096-1, 1093-11, 4229-3 y 4227-4, comuna de Cartagena, para la obra Camino Malvilla Orrego Abajo y se acordó precio de indemnización con sus propietarios Marta Henríquez Tobar, Ramón Vera Vera, Marta Enríquez Tobar y otra, Luis Alberto Vera Mondaca y José Celín Díaz Valenzuela, ascendente a las cantidades de $1.344.630, $229.072, $325.594, $9.299.754, $1.024.898 y $1.003.011.
+
+Fiscal del Ministerio de Obras Públicas.
