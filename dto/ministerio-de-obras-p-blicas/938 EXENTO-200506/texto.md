@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº938, de 25 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 se expropió el lote de terreno Nº63-C para la obra: Camino Curicó - Iloca (Ruta J-60), Sector Licantén - Puente Lautaro, km. 91.751,20 a km. 102.247,903, que figura a nombre de Juan Vergara Vergara, rol de avalúo en trámite, Comuna de Licantén, VII Región, superficies 81,17 m². La Comisión de Peritos fijó con fecha 20 de agosto de 2000, en la cantidad de $1.007.020.- para el lote 63-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
