@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 1.397, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 50-A, superficie 202,5 m², Rol de Avalúo 2190-102, comuna de Puerto Montt, para la obra ''Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 al 16,340'' y se acordó el valor de indemnización con su propietario doña María Eugenia Gutiérrez Muñoz, ascendente a la cantidad de $523.494.
+
+- Fiscal del Ministerio de Obras Públicas.
