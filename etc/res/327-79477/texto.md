@@ -1,0 +1,5 @@
+Por resolución No. 327 de 13 de Abril de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESCA CISNE S.A., R.U.T. No.
+
+96.531.980-8, domiciliada en la ciudad de Punta Arenas. Av. Los Flamencos No. 700, para ampliar actividades de transformación que tiene autorizadas por resolución No. 947, de 1988, de esta Subsecretaría, donde podrá incorporar a la planta industrial ubicada en Frigorífico Bories, kilómetro 3,5, Puerto Natales, donde procesará en la línea de elaboración de congelado, además de los autorizados los siguientes recursos hidrobiológicos: Congelado: Bacalao de profundidad, salmón plateado (Coho), salmón del Atlántico, salmón rey (chinok). Los recursos salmonídeos deberán provenir de centros de cultivo autorizados, ubicados en Ultima Esperanza. El recurso Bacalao de profundidad provendrá del abastecimiento de su propia flota autorizada. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de Abril de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
