@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.256 de 24 de agosto de 1998, y en base a la facultad otorgada por el artículo 14 letra e) y 105 del DFL. MOP. No. 850 de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 6, para la obra Camino Santiago-Colina-Los Andes Sector Enlace Chacabuco, km.
+
+41.042,20 al km. 43.000,00, que figura a nombre de Zegard Thomas Marcel, rol de avalúo 186-22, comuna de Colina, superficie 656,1 m2. La Comisión de Peritos integrada por los señores María Angélica Fernández Osses, Eduardo Andrés Cárdenas Pérezy Luis Herman González, fijó con fecha 6 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 1.495.908.- para el Lote No. 6.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7ºdel decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
