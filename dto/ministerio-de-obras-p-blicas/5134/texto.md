@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.134, de 30 de noviembre de 2000, se expropió el lote de terreno Nº21-1, superficie 2.501 m², rol de avalúo 982-4, comuna de Paine, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca y Acceso Sur a Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietaria María Macarena Sánchez Letelier, ascendente a la cantidad de $13.275.271.-
+
+Fiscal del Ministerio de Obras Públicas.
