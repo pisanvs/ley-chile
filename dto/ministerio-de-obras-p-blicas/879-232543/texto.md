@@ -1,0 +1,3 @@
+Por decreto MOP Nº 879 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 91, superficie 161 m2, rol Nº 1.400-4, comuna de Antofagasta, II Región para la obra "Mejoramiento Av. Salvador Allende, Tramo avda. Sarmiento-Avda.Costanera, Comuna de Antofagasta, Provincia de Antofagasta II Región Sector Calle Cardenal Oviedo Cavada-Calle Chuquicamata" y se acordó el valor de indemnización con su propietario Luis Aballay Fredes, ascendente a la cantidad de $95.014.454.
+
+- Fiscal del Ministerio de Obras Públicas.
