@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.165 de fecha 30 de noviembre del 2000, se expropió el lote de terreno Nº 11, superficie 411 m², rol de avalúo 3800-103, comuna de Puente Alto, para la obra ''Mejoramiento Eje La Florida, Sector El Peñón-Las Vizcachas, Ruta G-25 Camino Puente Alto, Km. 6.980 al 10.340'' y se acordó el valor de indemnización con su propietario Sucesión Pérez Céspedes, ascendente a la cantidad de $28.028.397.-
+
+Fiscal del Ministerio de Obras Públicas.
