@@ -1,0 +1,3 @@
+Por decreto MOP Nº811, de 30 de abril del 2002, se expropió el lote de terreno Nº88-2, superficie 1608 m2, rol de avalúo 276-132, comuna de Algarrobo, para la obra Red Litoral Central Sector 1: Nuevo Camino Costero Subtramo: Las Cruces Algarrobo Kms. 23.300,00 al 23.920,00, Quinta Región y se acordó el valor de indemnización con su propietaria Ana María Aguilera Valdebenito, ascendente a la cantidad de $4.260.946.- para el lote Nº88-2.
+
+Fiscal del Ministerio de Obras Públicas .
