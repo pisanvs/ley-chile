@@ -1,0 +1,3 @@
+Por Resolución Nº 37, de 13 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de reposición presentada por AGUA FRIA S.A., respecto de la Resolución Nº 1485 de 1997, que declaró la caducidad parcial de la Resolución Nº 2094, de 1996, ambas de esta Subsecretaría, en virtud de las disposiciones legales y reglamentarias.
+
+Valparaíso, 13 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
