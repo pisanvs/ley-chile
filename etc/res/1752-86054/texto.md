@@ -1,0 +1,3 @@
+Por Resolución Nº 1.752, de 22 de diciembre de 1997, de esta Subsecretaría del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad parcial de la Resolución Nº 1.493 de 1988, modificada por Resolución Nº 334, de 1996, ambas de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA DOÑA YOLANDA Y COMPAÑIA LIMITADA, para iniciar actividades pesqueras extractivas con la nave "Yolanda II", por no haberse acreditado el pago de la segunda cuota de la patente única pesquera correspondiente al año 1997, verificándose la causal de caducidad prevista en el artículo 143 letra d) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 22 de diciembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
