@@ -1032,9 +1032,9 @@ a) Que estén destinados a equipamiento de escala nacional, regional, intercomun
 
 La calificación correspondiente será efectuada por la Secretaría Regional Ministerial de Vivienda y Urbanismo, en forma previa a la respectiva autorización municipal del proyecto.
 
-b) Que conformen conjuntos de viviendas con construcción simultánea, emplazados en terrenos de una superficie no inferior a 1 ha y que contemplen, como parte del conjunto, áreas verdes y equipamiento, tales como, plazas, jardines, juegos infantiles, con un estándar no inferior a 10 m² por unidad de vivienda.
+b) Que conformen conjuntos de viviendas con construcción simultánea, emplazados en terrenos de una superficie no inferior a 1 há con frente a vías estructurantes del instrumento de planificación territorial, o alternativamente, vías de 20 m. o más de ancho, entre líneas oficiales, y que contemplen, como parte del conjunto, áreas verdes y equipamiento tales como plazas, jardines, juegos infantiles, con un estándar no inferior a 10 m2 por unidad de vivienda.
 
-Las superficies indicadas se imputarán a los estándares de cesión de terrenos exigidos para el caso de crecimiento urbano por densificación en el artículo 2.2.2. de esta Ordenanza.
+Las superficies indicadas se imputarán a los estándares de cesión de terrenos exigidos para el caso de crecimiento urbano por densificación en el artículo 2.2.5. de esta Ordenanza.
 
 2. De localización:
 
@@ -1048,7 +1048,7 @@ Que las construcciones estén destinadas a acogerse a la Ley de Propiedad Horizo
 
 En el caso que el conjunto consulte viviendas, deberá proveerse un mínimo de 10 m² por unidad de vivienda como parte del conjunto, destinada a áreas verdes, tales como, jardines, plazas, juegos infantiles, adicionales a la superficie indicada en el inciso anterior. La provisión de estas áreas podrá resolverse a nivel de terreno o en otro plano que indique el proyecto.
 
-Las superficies indicadas se imputarán a los estándares de cesión de terreno exigidos para el caso de crecimiento urbano por densificación en el artículo 2.2.2. de esta Ordenanza.
+Las superficies indicadas se imputarán a los estándares de cesión de terreno exigidos para el caso de crecimiento urbano por densificación en el artículo 2.2.5. de esta Ordenanza.
 
 4. De ampliación:
 
@@ -1062,7 +1062,7 @@ Que las construcciones complementen un Conjunto Armónico ya existente o en cons
 
 2. Cumplir con las exigencias de áreas unitarias de estacionamiento que se establecen en los artículos 2.4.1., 2.4.2 y 2.4.3. de esta Ordenanza.
 
-3. Respetar los espacios de uso público, los anchos de calles y los antejardines previstos en el respectivo Plan Regulador Comunal.
+3. Respetar los usos de suelo, densidades de población, espacios de uso público y anchos de vías con sus respectivos antejardines, fijados en el correspondiente Plan Regulador Comunal. Si éste no los indica expresamente, se entenderá que son libres, sin perjuicio de cumplir con las disposiciones generales de esta Ordenanza, entre otras, las referidas a cesiones gratuitas y vialidad, contenidas en los capítulos 2 y 3 del presente Título 2.
 
 #### Artículo 2
 
@@ -1082,23 +1082,23 @@ Podrá variarse únicamente cuando en el sector en que se proyecte construir un 
 
 2. Coeficiente de constructibilidad.
 
-Se permitirá un incremento del coeficiente en un 30% sobre el fijado por el Plan Regulador.
+El coeficiente de constructibilidad quedará limitado por las normas sobre rasantes y distanciamientos de aplicación general y por el cumplimiento de las exigencias sobre liberación de suelo para áreas verdes y equipamiento que se establecen en el artículo 2.6.6. letra b) de esta Ordenanza, cuando sea el caso.
 
-No podrán acogerse al incremento indicado en el inciso anterior los predios que se hayan acogido a lo dispuesto en el artículo 63 de la Ley General de Urbanismo y Construcciones.
+El Plan Regulador Comunal podrá fijar el porcentaje en que podrá aumentarse el coeficiente de constructibilidad, siempre que dicho coeficiente se haya fijado para todas y cada una de sus zonas. Este aumento no podrá ser inferior al 30% del referido coeficiente.
 
-En todo caso, la aplicación del coeficiente de constructibilidad resultante, quedará limitada por las alturas indicadas en el número 3 de este artículo y por las exigencias de liberación de suelo para áreas libres de esparcimiento que se establecen en los artículos precedentes.
+En todo caso, la aplicación del coeficiente de constructibilidad resultante se sujetará a lo dispuesto en los artículos 1.1.2. y 5.1.11. de esta Ordenanza.
 
 3. Alturas.
 
-Las alturas mínimas y máximas podrán variarse en la forma que indiquen los respectivos instrumentos de planificación territorial.
+El incremento de las alturas quedará igualmente limitado por las normas sobre rasantes y distanciamientos que se aplican al conjunto.
 
-El incremento de las alturas quedará limitado en todos los casos, por el coeficiente de constructibilidad y las rasantes que se aplican al conjunto.
-
-Para efectos de medición de las alturas se estará a lo dispuesto en la definición Altura de edificación del artículo 1.1.2. de esta Ordenanza, considerando 3,5 m como altura de piso a piso.
+Para efectos de medición de las alturas se estará a lo dispuesto en la definición "Altura de edificación" del artículo 1.1.2. de esta Ordenanza.
 
 4. Tamaños prediales.
 
-Los tamaños prediales podrán variarse en el porcentaje que defina el instrumento de planificación territorial.
+Los lotes singulares que constituyen un conjunto armónico podrán consultar tamaños prediales mínimos no inferiores a 60 m2 para viviendas en dos pisos o más y a 100 m2 para viviendas en un piso.
+
+El Plan Regulador Comunal podrá disponer tamaños prediales mínimos mayores a los antes señalados, para este tipo de conjuntos, no superiores a 350 m2, siempre que dicho Plan haya fijado el tamaño predial mínimo para todas y cada una de sus zonas.
 
 ## Capítulo 7.
 
@@ -1246,7 +1246,9 @@ Las modificaciones que se introduzcan a los Planes Reguladores Comunales o Secci
 
 8. Anteproyecto de loteo aprobado, cuando corresponda.
 
-9. Planos con los proyectos de la urbanización, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
+9. Plano general del loteo, plano de ubicación y plano de perfiles geométricos de las vías propuestas, conforme a las mismas exigencias establecidas para el anteproyecto.
+
+10. Planos con los proyectos de la urbanización, debidamente firmados por los profesionales competentes, correspondientes a redes de agua potable y alcantarillado; redes de electrificación, alumbrado público, de gas, de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda. Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
 Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
 
@@ -2510,23 +2512,41 @@ Los locales escolares de nivel general básico y los hogares estudiantiles ubica
 
 ANCHOS LIBRES EXIGIBLES EN CIRCULACIONES HORIZONTALES
 
-NIVEL DE LOCAL CON RECINTOS CON RECINTOS INCREMENTOS
+NIVEL DE |CON RECINTOS|CON RECINTOS|INCREMENTOS
 
-ESCOLAR EN UN LADO EN AMBOS
+LOCAL |EN UN LADO |EN AMBOS |
 
-LADOS
+ESCOLAR | |LADOS |
 
-Parvulario hasta 60 al. 0,90m 1,20m 0,15m por
+_____________|____________|____________|____________
 
-cada 30 al.
+| | |
 
-General Básico, Medio
+Parvulario | 0,90m |1,20m |0,15m por
 
-Superior, Educación de 1,80m 2,40m 0,15m por
+hasta | | | cada 30 al.
 
-Adultos y Hogar Estu- cada 30 al.
+60 al. | | |
 
-diantil: hasta 80 al.
+_____________|____________|____________|____________
+
+General | | |
+
+Básico, | | |
+
+Medio Super- | | |
+
+ior, | 1,80m |2,40m |0,15m por
+
+Educación de | | |cada 30 al.
+
+Adultos y | | |
+
+Hogar | | |
+
+Estudiantil: | | |
+
+hasta 180 al.| | |
 
 En el nivel parvulario, si la circulación sirve a salas de actividades que tienen además puertas de salida directa al exterior, el ancho libre de la circulación, sea con recintos a uno o a ambos lados, podrá ser de 0,90 m.
 
