@@ -1,0 +1,3 @@
+Por resolución exenta No. 25 de fecha 24-06-85 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones XI Región, se autoriza al Sr. José Mansilla B. para efectuar servicio de taxi colectivo urbano de la Línea No. 1 Circunvalación, cuyo trazado fue autorizado por la resolución No. 12 de fecha 21-06-84 de esta Secretaría Regional.
+
+Coyhaique, 24 de Junio de 1985.- Eliecer Aedo Rivera, Secretario Regional Ministerial de Transportes y Telecomunicaciones, XI Región.
