@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.631, de fecha 31 de octubre de 2002, se expropió el lote de terreno Nº6, superficie 313 m2, rol de avalúo 534-11, comuna de Río Bueno, X Región, para la obra ''Camino Río Bueno - Crucero, Rol T-90-U y T-933 Tramo Km. 0,00000 al 20,90000'' y se acordó el valor de indemnización con su propietario doña Marianne Silva Sommer Stolzenbach, ascendente a la cantidad de $565.330.-
+
+Fiscal del Ministerio de Obras Públicas.
