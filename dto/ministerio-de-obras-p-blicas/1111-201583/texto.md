@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.111 de fecha 28 de junio del 2002, se expropiaron los lotes de terreno Nº30-A, 32-A, 32-B y 34, superficie 2.483, 6.047, 2.487 y 2.860 m2, rol de avalúo Nº53-6, comuna de La Estrella, para la obra ''Proyecto Mejoramiento Ruta I-20, Sector Los Maitenes - La Estrella - Las Damas, Km. 20,500 al 27,715317'', VI Región y se acordó el valor de indemnización con su propietaria Herminia Monreal Orellana y otros, ascendente a la cantidad de $10.526.508.-
+
+Fiscal del Ministerio de Obras Públicas.
