@@ -1,0 +1,17 @@
+Protocolo suscrito en Buenos Aires por los señores Cárlos Concha Subercaseaux, Enviado Estraordinario i Ministro Plenipotenciario de Chile en la República Arjentina, i don Luis M. Drago, Ministro de Relaciones Esteriores de aquel pais, con el fin de fijar en el terreno el trazado de la línea divisoria en la Puna de Atacama i unirla con el hito que se encuentra en San Francisco.
+
+JULIO A. ROCA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA ARJENTINA
+
+Autoriza a su Ministro Secretario en el Departamento de Relaciones Esteriores i Culto, doctor Luis M. Drago, pera firmar con el Plenipotenciario que el efecto designe el Gobierno de Chile, un protocolo sobre la mejor forma de fijar en el terreno el trazado de la línea divisoria entre los paralelos veintitres grados i veintiseis grados cincuenta i dos minutos i cuarenta i cinco segundos de latitud austral, establecida por la comision demarcadora compuesta de un delegado arjentino, un delegado chileno i el Ministro de los Estados Unidos de Norte-América en su laudo de fecha 24 de marzo de 1899.
+
+Por ausencia el Ministro-Secretario en el Departamento del Interior, la presente plenipotencia será refrendada por el señor Ministro Secretario en el Departamento de Hacienda.
+
+Dado en Buenos Aires, a 9 de enero de 1903.-(Firmado)- JULIO A.ROCA.- Marcos Avellaneda.
+
+Reunidos en el Departamento de Relaciones Esteriores i Culto de la República Arjentina, S. E. el señor Enviado Estraordinario i Ministro Plenipotenciario de Chile, don Cárlos Concha, i S. E. el señor Ministro del Ramo, doctor Luis M. Drago, con el objeto de cambiar ideas sobre la mejor forma de fijar en al terreno el trazado de la línea divisoria entre los paralelos de veintitres grados i veintiseis grados cincuenta i dos minutos i cuarenta i cinco segundos de latitud austral, establecida por la comision demarcadora compuesta de un delegado chileno, un delegado arjentino i el Ministro de los Estados Unidos de Norte-América en la República Arjentina, en su laudo de fecha 24 de marzo de 1899, convinieron, debidamente autorizados por sus respectivos gobiernos, i en el comun deseo de que esa operacion se practique a la brevedad posible en lo siguiente:
+
+Que los Gobiernos de la República de Chile i de la República Arjentina soliciten, por separado, del Gobierno de S. M. B. quiera encomendar a la Comision que debe trazar la línea divisoria a que se refiere su laudo arbitral de fecha 20 de noviembre último, u otra que él quiera designar, fije tambien en el terreno los hitos que correspondan a la línea establecida por la dicha Comision demarcadora entre los veintitres grados i veintiseis grados cincuenta i dos minutos cuarenta i cinco segundos de la latitud austral (Puna de Atacama) i unirla con el hito que se encuentra en San Francisco, cumpliendo así lo indicado por la misma Comision demarcadora al final del acta de 24 de marzo de 1899, por ser el punto de partida señalado en esa rejion de la línea divisoria entre ambos paises, segun el fallo de S. M. B. ántes citado.
+
+En fe de lo cual, los respectivos Plenipotenciarios firman i sellan el presente convenio, en doble ejemplar, en la ciudad de Buenos Aires, a los nueve dias del mas de enero del año de mil novecientos tres.-(Firmados): Cárlos Concha.-Luis M. Drago.-(Hai dos sellos).
