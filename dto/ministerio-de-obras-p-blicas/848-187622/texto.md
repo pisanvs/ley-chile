@@ -1,0 +1,3 @@
+Por decreto MOP Nº848, de 31 de mayo de 2001, se expropió el lote de terreno Nº246-3, superficie 3.640 m², rol de avalúo 71-9, comuna de Til-Til, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Región Metropolitana y se acordó el valor de indemnización con su propietaria Mariana Olga del Tránsito Meza Serrano, ascendente a la cantidad de $4.085.198.-
+
+Fiscal del Ministerio de Obras Públicas.
