@@ -1,0 +1,3 @@
+Por resolución Nº 126, de 27 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la autorización otorgada por la resolución Nº 882 de 1986, de esta Subsecretaría, a PESQUERA FAMSO S.A., para operar con la nave "Don Orlando", por presentar una suspensión de actividades extractivas por un período mayor a doce meses corridos contados desde el mes de marzo de 1993, y ampliados hasta marzo de 1995 por resolución Nº 1.273 de 1994 de esta Subsecretaría, en conformidad con lo dispuesto en el artículo 143 letra b) de la Ley de Pesca y Acuicultura.
+
+Valparaíso, 27 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
