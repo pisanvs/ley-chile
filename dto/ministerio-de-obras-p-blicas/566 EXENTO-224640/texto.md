@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 566 de fecha 31 de marzo de 2004, se expropió el lote de terreno Nº 4, superficie 795,0 m², rol de avalúo Nº 168-94, comuna de Hualañé, para la obra "Camino Parronal - Los Negros rol J-70-I, sector Puente Eloísa Tramo Km. 1,960 a Km. 2,380", VII Región y se acordó el valor de la indemnización con su propietario José Carlos Fabiane Dasso, ascendente a la cantidad de $585.069.
+
+Fiscal del Ministerio de Obras Públicas.
