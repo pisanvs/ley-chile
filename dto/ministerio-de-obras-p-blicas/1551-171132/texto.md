@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.551, de 28 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº4, para la obra Camino Ruta J-30-I Sector Cuesta El Peral Teno, Tramo Kms. 0.000,00 al 5.250,00, que figura a nombre de César Miranda, rol de avalúo 50-18, comuna Curicó, VII Región, superficie 134,5 m2. La Comisión de Peritos, fijó con fecha 6 de agosto de 1997, el valor provisional de la indemnización en la cantidad de $415.500 el lote Nº4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
