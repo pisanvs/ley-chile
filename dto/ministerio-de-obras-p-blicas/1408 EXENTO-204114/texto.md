@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº1.408, de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº24-B, superficie 459,0 m2, Rol en Trámite, comuna de Linares, VII Región, para la obra ''Camino Ruta K-620, Sector: Culenar-Maule Km.0,000.00 a Km. 10,520.00'' y se acordó el valor de indemnización con su propietario Manuel Dagoberto Rebolledo Bravo, ascendente a la cantidad de $2.064.504.-
+
+Fiscal del Ministerio de Obras Públicas.
