@@ -1,0 +1,3 @@
+Por resolución Nº 1.793, de 9 de septiembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 97110112, presentada por HUMBERTO JOSE FISCHER LLOP, para operar un centro de cultivo ubicado en Isla Teresa, Sector Oeste de la Isla-3, comuna de Cisnes, provincia de Aysén, XI Región.
+
+Valparaíso, 9 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
