@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.209, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº24, superficie 1.528 m², rol de avalúo 1443-30, comuna de Puerto Varas, X Región, para la obra "Camino Ruta V-615 y V-605, Sector Ruta 5 - Alerce - La Poza, Km. 0,000 al 20,78194" y se acordó el valor de indemnización con su propietario don Belisario Cabezas Gallardo, ascendente a la cantidad de $1.886.912.-
+
+Fiscal del Ministerio de Obras Públicas.
