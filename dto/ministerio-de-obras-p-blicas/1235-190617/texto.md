@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.235, de fecha 31 de agosto de 2001, se expropió el lote de terreno Nº19, superficie 2.472,6 m2., rol de avalúo Nº68-287, comuna de Teno, para la obra "Camino Teno - Maitenes, sector La Montaña - Maitenes, tramo Km. 25,000.46 al Km. 37,616.20", y se acordó el valor de indemnización con su propietario Víctor del Carmen Reyes González, ascendente a la cantidad de $691.615.-
+
+Fiscal del Ministerio de Obras Públicas.
