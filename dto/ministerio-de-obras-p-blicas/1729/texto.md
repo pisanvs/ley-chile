@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.729, de 25 de junio de 1999, se expropiaron los lotes de terreno No. s 4 y 7, superficies 7.410 y 24.240 m2., rol de avalúo 519-36, comuna de Carahue, para la obra Camino Carahue Tirúa, sector Bajo Yupehue Tirúa y se acordó precio de indemnización con su propietario Sociedad Pera Hermanos Ltda. ascendente a la cantidad de $ 26.590.920.
+
+Fiscal del Ministerio de Obras Públicas.
