@@ -1,0 +1,9 @@
+DELEGA EN FUNCIONARIOS QUE INDICA FACULTADES POR INFRACCIONES TRIBUTARIAS EN I a XVI DIRECCIONES REGIONALES
+
+En cumplimiento de lo dispuesto en la resolución Ex. SII N° 5, de 16 de enero de 2004, de esta Dirección Nacional, que autorizó a los Directores Regionales del Servicio para delegar en los funcionarios de su dependencia, que ejercen determinados cargos, la facultad para que conozcan y resuelvan las denuncias, no reclamadas, por infracciones tributarias contempladas en el artículo 97 Nºs. 15, 20 y 21 del Código Tributario, los Directores de las Regionales V, VII, VIII, IX, X, XIV y XVI, han delegado dicha facultad, respectivamente, por resoluciones exentas N° 46 de 26.01.2004; N° 136, de 30.01.2004; N° 3, de 29.01.2004; N° 29, de 02.02.2004;
+
+N° 8 de 30.01.2004, N° 5, de 19.01.2004; y N° 49, de 03.02.2004, en el Jefe del Departamento Jurídico y en los Jefes de Unidades de su dependencia; los Directores de las Regionales I, II, III, IV, VI, XI y XII, ha delegado dicha facultad, respectivamente, por resoluciones exentas N° 1, de 02.02.2004; N° 54, de 26.01.2004; N° 18, de 06.02.2004; N° 47, de 21.01.2004;
+
+N° 3, de 03.02.2004; N° 53, de 03.02.2004; y N° 26, de 30.01.2004, en el Jefe de Oficina Jurídica y en los Jefes de Unidades de su dependencia; el Director de la XIII Dirección Regional, ha delegado dicha facultad por resolución N° 53, de 30.01.2004, en el Jefe del Departamento Jurídico; y, el Director de la XV Dirección Regional ha delegado dicha facultad por resolución N° 208, de 11.02.2004, en el Jefe del Departamento Jurídico, en el Abogado ubicado en la Unidad de Ñuñoa y en el Jefe de la mencionada Unidad, autoridad esta última, que la ejercerá sólo en caso de ausencia o impedimento del Abogado.
+
+- Juan Francisco Sánchez Sturmer, Director (S).
