@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.852, de 28 de abril del 2000, se expropió el lote de terreno Nº 104, superficie 542 m2., rol de avalúo 65-219, comuna de Teno, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Séptima Región, y se acordó el valor de indemnización con su propietario Raúl Belmonte Gámez, ascendente a la cantidad de $1.611.162.
+
+Fiscal del Ministerio de Obras Públicas.
