@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.828, de 28 de abril del 2000, se expropió el lote de terreno Nº 34-B, superficie 132 m2., rol de avalúo 212-295, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector J, Sexta Región y se acordó el valor de indemnización con su propietario Sergio Hernán Galaz Vergara, ascendente a la cantidad de $436.625.
+
+Fiscal del Ministerio de Obras Públicas.
