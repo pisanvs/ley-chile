@@ -1,0 +1,3 @@
+Por resolución Nº 322, de 30 de enero de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Guayacán, IV Región, individualizada en el artículo 1º del D.S. Nº 505 de 1999, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION GREMIAL DE PESCADORES DE GUAYACAN, comuna de Coquimbo-IV Región.
+
+Valparaíso, 30 de enero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
