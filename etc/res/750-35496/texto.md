@@ -1,0 +1,3 @@
+Por Resolución N° 750, de 29 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución N° 1.344, de 1987, de esta Subsecretaría, que autorizó a SOCIEDAD PESQUERA SANTA BARBARA S.A., para operar cuatro naves en construcción, por haberse configurado la causal prevista en el artículo 143 letra b) de la Ley N° 18.892 y sus modificaciones, citada en Visto.
+
+Valparaíso, 29 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
