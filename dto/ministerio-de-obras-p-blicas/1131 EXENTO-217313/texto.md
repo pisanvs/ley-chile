@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.131 de fecha 30 de septiembre de 2003, se expropiaron los lotes de terreno Nº 296 y 298, superficies 161 m² y 62 m², rol de avalúo en trámite, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Víctor Núñez Méndez, ascendente a la cantidad de $1.990.468.
+
+- Fiscal del Ministerio de Obras Públicas.
