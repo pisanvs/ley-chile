@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 492, de 23 de mayo de 1997, se expropiaron los lotes de terreno Nº 7, Canal Relbún y Nºs 8, 9 y 17 Canal Relbún Ramal Nº 2, superficies 3.485, 168, 546 y 510 m2, respectivamente, roles de avalúo 159-32, 160-43, 160-42 y 160-10, comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco, Canal Relbún y Canal Relbún Ramal Nº 2 y se acordó precio de indemnización con sus propietarios Víctor Eduardo Sánchez Reyes, Adelaida Gutiérrez Betancourt y Marcelino Arriagada Barrera, ascendentes a las cantidades de $1.014.930, $90.222, $174.912 y $163.379, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
