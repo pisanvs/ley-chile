@@ -19436,7 +19436,7 @@ e) Por sociedades deben entenderse todo tipo de sociedades, tanto de personas co
 
 ### 2. Sociedades que se excluyen
 
-En uso de las facultades establecidas en el inciso tercero del N° 4 del artículo 84 antes mencionado, esta Superintendencia dispone que quedan excluidas de la prohibición de que trata este Capítulo, aquellas sociedades en que uno o más directores o uno o más apoderados generales, en conjunto con su cónyuge y sus hijos menores bajo patria potestad, tienen una participación igual o inferior a un 5% en el capital y en las utilidades.
+En uso de las facultades establecidas en el inciso tercero del N° 4 del artículo 84 antes mencionado, esta Superintendencia dispone que quedan excluidas de la prohibición de que trata este Capítulo, aquellas sociedades en que uno o más directores o uno o más apoderados generales, en conjunto con su cónyuge y sus hijos menores bajo patria potestad, tienen una participación igual o inferior a un 5% en el capital o en las utilidades.
 
 3. Personas que entren a desempeñarse en calidad de director o apoderado general.
 
@@ -32866,9 +32866,7 @@ N° de Inscripción *Nombre de la empresa.
 
 ANEXO N° 1
 
-FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL
-
-REGISTRO DE ESTA SUPERINTENDENCIA.
+FIRMAS DE AUDITORES EXTERNOS DE BANCOS Y SOCIEDADES FINANCIERAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA.
 
 N° de Incripción * Nombre de la empresa.
 
@@ -32878,21 +32876,17 @@ N° de Incripción * Nombre de la empresa.
 
 004 K.P.M.G. PEAT MARWICK AUDITORES CONSULTORES LIMITADA.
 
-005 DELOITTE HASKINS AND SELLS, SOCIEDAD DE AUDITORES Y
-
-CONSULTORES.
+005 DELOITTE HASKINS AND SELLS, SOCIEDAD DE AUDITORES Y CONSULTORES.
 
 008 JERIA Y ASOCIADOS, AUDITORES CONSULTORES LIMITADA.
 
 010 ERNST & YOUNG (CHILE) AUDITORES - CONSULTORES LIMITADA.
 
+014 HORWATH & HORWATH - MACAYA, OLATE Y CIA. LTDA.
+
 015 ESPEJO Y CIA. LTDA. - AUDITORES CONSULTORES ASOCIADOS.
 
-* Se incluyen sólo las firmas inscritas en el Registro que se encuentran
-
-facultadas para prestar sus servicios profesionales a bancos y sociedades
-
-financieras.
+* Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos y sociedades financieras.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
