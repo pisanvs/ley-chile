@@ -1,0 +1,3 @@
+Por resolución Nº 1.746, de 14 de agosto de 2002, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97101010 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL Y ALGAS GRACILARIAS DE HUALAIHUE "ENTRE RIOS", para un centro de cultivo ubicado en Canal Hornopirén, Sector desembocadura de Río Negro, X Región.
+
+Valparaíso, 14 de agosto de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
