@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.569, de 16 de septiembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 175-G y 175-H, para la obra: ''Camino: Ruta 5 Norte. Tramo: Santiago-Los Vilos. Sector: Km. 25.800,00 al Km.
+
+26.400,00''; Región Metropolitana, que figuran a nombre de Miranda Araneda Ismael del Car, rol de avalúo 150-263, comuna de Lampa, superficies de 691 m2 y 2.047 m2, respectivamente. La comisión de peritos integrada por los señores Ricardo Antonio Strickler Arellano, María Pilar Quiroga González y Marlene Teresa Ríos Marcuello, fijó con fecha 16 de julio de 2002, el valor provisional de la indemnización en las cantidades de $3.913.000.- para el lote Nº175-G y $11.775.000.- para el lote Nº175-H. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
