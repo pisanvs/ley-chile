@@ -1,0 +1,3 @@
+Por decreto MOP Nº 521 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 37, superficie 130 m2., Rol de avalúo 3003-11, comuna de Ovalle, para la obra "Camino Ruta D-595 Ovalle-Hurtado, Sector Tranque Recoleta-Samo Alto, Km. 9.780,00 a Km. 31.840,00 Etapa I" y se acordó el valor de indemnización con su propietario Ulda del Carmen Rojas Vargas y Otros, ascendente a la cantidad de $402.420.-
+
+Fiscal del Ministerio de Obras Públicas.
