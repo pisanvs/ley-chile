@@ -1,0 +1,7 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución No. 239, de 04 de Marzo de 1988, de esta Subsecretaria de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad conforme con el artículo 7°, del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de las siguientes autorizaciones: Decreto No. 345, de 1976, del Ministerio de Agricultura, que autorizó a don Arturo Saldivia Otey, R.U.T. No.
+
+5.586.956-1, calle Bur No. 239, Ancud, para desarrollar actividades pesqueras de cultivo. Resolución No. 245, de 1982, de esta Subsecretaría, que autorizo a doña María Silvia Agüero González, cédula de identidad No. 36783, domiciliada en Errázuriz No. 227, Ancud, para desarrollar actividades pesqueras de cultivo. Resolución No. 69, de 1984, de esta Subsecretaría, que autorizó a Sociedad "Desarrollo de Cultivos Marinos Ltda.", domiciliada en Ancud, para desarrollar actividades pesqueras de cultivo. Resolución No. 96, de 1984, de esta Subsecretaría, que autorizó a don Arnoldo Gutiérrez Cortez, R.U.T. No. 7.508.540-0, domiciliado en calle San Antonio No. 31, Ancud, para desarrollar actividades pesqueras de cultivo y resolución No. 24, de 1984, de esta Subsecretaria, que autorizó a doña Nelly María Jiménez Izquierdo, R.U.T. No. 5.076.139-8, domiciliada en calle Errázuriz No. 381, Ancud, para desarrollar actividades pesqueras decultivo.
+
+Valparaíso, 04 de Marzo de 1988.- Roberto Cabezas Bdlo, Subsecretario de Pesca.
