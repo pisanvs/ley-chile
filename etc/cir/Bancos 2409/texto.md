@@ -4904,7 +4904,7 @@ N° 3570 "Otros préstamos y obligaciones".
 
 2.2.- Créditos exentos.
 
-Los siguientes créditos incluidos en las partidas antes señaladas se encuentran exentos de la obligación de constituir encaje, de modo que no se computarán para ese efecto:
+Los siguientes créditos incluidos en las partidas antes señaladas se encuentran exentos de la obligación de constituir el encaje de que trata este título IV, de modo que no se computarán para ese efecto:
 
 a) Créditos externos internados al amparo del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
 
@@ -4926,9 +4926,23 @@ El encaje por las obligaciones antes mencionadas deberá estar constituido por d
 
 Tales depósitos se registrarán contablemente en la cuenta que con el mismo nombre se incluirá en la partida 1010.
 
-V.- Información a esta Superintendencia.
+V.- ENCAJE DE CREDITOS INGRESADOS AL AMPARO DEL CAPITULO XIV DEL TITULO I DEL COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES.
 
-Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a encaje, de conformidad con las instrucciones del Manual del Sistema de Información.
+1.- Encaje de los créditos externos.
+
+De conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, por los créditos ingresados al país al amparo del Capítulo XIV del mismo Título se debe constituir un depósito en el Instituto Emisor por concepto de encaje, en dólares de los Estados Unidos de América, equivalente al 30% del respectivo crédito, salvo los casos expresamente exceptuados por las normas del Banco Central de Chile. Estos depósitos no devengan intereses y deben mantenerse durante un año, cualquiera sea el plazo al que se haya pactado el crédito.
+
+No obstante, en sustitución del encaje antes señalado, las instituciones financieras pueden optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
+
+2.- Instrucciones contables.
+
+El descuento que el Banco Central de Chile aplique en la retroventa de los pagarés de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, será registrado por las instituciones financieras en la cuenta de gastos "Diferencias de precio por retroventa de pagarés sustitutivos de encaje", de la partida 5610.
+
+El cargo a la cuenta de resultado antes señalada podrá diferirse, registrando el importe de la mencionada diferencia en la cuenta "Diferencias retroventa pagarés sustitutivos de encaje diferidas", de la partida 2120. Para ese efecto se traspasará mensualmente a resultados una parte proporcional de ese importe, durante el período en que el monto del encaje de que trata el citado Capítulo XIV debería permanecer depositado en el Banco Central de Chile.
+
+VI.- Información a esta Superintendencia.
+
+Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a los encajes de que tratan los títulos II, III y IV de este Capítulo, de conformidad con las instrucciones del Manual del Sistema de Información.
 
 VI.- ELIMINADA.
 
@@ -19364,9 +19378,7 @@ Las normas establecidas en el Capítulo V.B.1 del Compendio de Normas Financiera
 
 1.2.- Encaje de los Créditos externos.
 
-De conformidad con lo dispuesto en el N° 6 de la letra A) del Capítulo III del Título I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, por los créditos ingresados al país al amparo del Capítulo XIV del mismo Título se debe constituir un depósito en el Instituto Emisor por concepto de encaje, en dólares de los Estados Unidos de América, equivalente al 30% del respectivo crédito. Estos depósitos no devengan intereses y deben mantenerse durante un año, cualquiera sea el plazo al que se haya pactado el crédito.
-
-No obstante, en sustitución del encaje antes señalado, las instituciones financieras pueden optar por adquirir y retrovender los pagarés emitidos por el Banco Central de Chile de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales.
+Los créditos externos que las instituciones financieras internen al país de acuerdo con las disposiciones de este Capítulo, deberán constituir el encaje a que se refiere el título V del Capítulo 4-1 de esta Recopilación Actualizada de Normas.
 
 2.- Préstamos en moneda chilena.
 
@@ -19445,12 +19457,6 @@ Los ingresos y gastos por concepto de intereses correspondientes a las operacion
 4.6.- Ajuste de la cuenta "Cambio Créditos Externos-V.B.1 CNF".
 
 El saldo de la cuenta "Cambio Créditos Externos-V.B.1 CNF" deberá ajustarse al cierre de cada mes en la forma prevista en el Capítulo 13-30 de esta Recopilación, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
-
-4.7.- Descuento en la retroventa de pagarés del Banco Central de Chile.
-
-El descuento que el Banco Central de Chile aplique en la retroventa de los pagarés de que trata el Anexo N° 5 del Capítulo XIV del Título I del Compendio de Normas de Cambios Internacionales, será registrado por las instituciones financieras en la cuenta de gastos "Diferencias de precio por retroventa de pagarés sustitutivos de encaje", de la partida 5610.
-
-El cargo a la cuenta de resultado antes señalada podrá diferirse, registrando el importe de la mencionada diferencia en la cuenta "Diferencias retroventa pagarés sustitutivos de encaje diferidas", de la partida 2120. Para ese efecto se traspasará mensualmente a resultados una parte proporcional de ese importe, durante el período en que el monto del encaje de que trata el citado Capítulo XIV debería permanecer depositado en el Banco Central de Chile.
 
 CAPITULO 13-14 (Bancos)
 
