@@ -1,0 +1,5 @@
+ACREDITA A CORPORACION MISION METODISTA LIBRE DE CHILE, PARA IMPARTIR CURSOS DE CAPACITACION QUE INDICA
+
+Por Resolución Exenta Nº 209/97 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, dispúsose la publicación en extracto de dicha Resolución que resolvió tener por acreditada, adicionalmente a las que lo fueron por Resolución exenta Nº 417/96, Nº 617/96, Nº 639/96 y Nº 740/96, de esta misma repartición, para impartir, durante el primer período, los cursos de capacitación obligatorio del personal de conducción de vehículos que presten servicios de transporte público, urbano y remunerado de pasajeros, mediante buses, en vías concesionadas de la ciudad de Santiago, a la entidad que a continuación se indica: Corporación Misión Metodista Libre de Chile "Comimel". Mayores antecedentes e informaciones requerirlas en dependencias de este servicio.-
+
+Antonio Dourthé Castrillón, Secretario Regional Ministerial de Transportes y Telecomunicaciones.
