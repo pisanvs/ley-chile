@@ -1,0 +1,53 @@
+MODIFICA DECRETO NUMERO 140, DE 1990 Santiago, 6 de Junio de 1995.- Hoy se decretó lo que sigue:
+
+Núm. 71.- Visto: El D.S. N° 140 (V. y U.), de 1990, que reglamenta los Programas de Viviendas Progresivas; la Ley N° 16.391, y las facultades que me confiere el número 8° del artículo 32 de la Constitución Política de la República de Chile,
+
+D e c r e t o:
+
+#### Artículo único
+
+Modifícase el D.S. N° 140 (V. y U.), de 1990, en la siguiente forma:
+
+a) Agrégase al inciso tercero del artículo 18, la siguiente oración: "Todo lo anterior es sin perjuicio de las enajenaciones que pudieren autorizarse de acuerdo a lo señalado en el artículo siguiente.".
+
+b) Agrégase el siguiente artículo 18 bis:
+
+#### Artículo 18 bis
+
+El SERVIU podrá también autorizar la venta de la vivienda bajo condición que el producto de esa enajenación lo destine a la adquisición de una solución habitacional similar a la obtenida con el subsidio otorgado o a la adquisición de una vivienda económica que reúna los requisitos, características y condiciones fijados en el D.F.L. N° 2, de 1959 y en el artículo 162 del D.F.L. N° 458, del Ministerio de Vivienda y Urbanismo, de 1975, o de una vivienda que no sea económica, siempre que cumpla con las exigencias del Manual de Calificación Técnica para Viviendas Usadas que para estos efectos o para los efectos de calificar una solución habitacional similar, apruebe el Ministro de Vivienda y Urbanismo mediante resoluciones publicadas en el Diario Oficial, en las que se fijará, además, el cargo que cobrará el SERVIU por la labor de calificación técnica.
+
+La adquisición de la vivienda o solución habitacional a cuyo precio se aplique el producto de la enajenación autorizada deberá efectuarse dentro de los 12 meses siguientes a la fecha de la inscripción en el Conservador de Bienes Raíces respectivo de la enajenación autorizada, quedando afecta la solución habitacional o vivienda que se adquiera, a la prohibición de enajenar por el plazo que restare de los cinco años por los que se constituyó la prohibición alzada.
+
+Para garantizar que el producto de la enajenación autorizada se destinará a la adquisición de una solución habitacional similar o de una vivienda que reúna los requisitos, características y condiciones exigidos en el inciso primero, dentro del plazo establecido y que se constituirá sobre ella prohibición de enajenar, parte del precio de la enajenación, equivalente al monto del subsidio recibido, deberá enterarse mediante depósito a plazo renovable automáticamente, por períodos no superiores a noventa días, expresado en Unidades de Fomento, con interés, tomado en un banco o sociedad financiera a nombre del vendedor quien lo endosará nominativamente a favor del SERVIU respectivo. Esta condición será determinante para que el SERVIU concurra al alzamiento de la prohibición. Si no se destinare el producto de la enajenación autorizada, a la adquisición de otra solución habitacional similar en los términos establecidos, o a la adquisición de una vivienda que reúna los requisitos, características y condiciones exigidos precedentemente, dentro del plazo indicado, o no se constituyere la prohibición de enajenar respectiva dentro de ese mismo plazo, el SERVIU podrá hacer efectivo el depósito a plazo endosado a su favor para aplicar su valor a la restitución del subsidio recibido, devolviendo al vendedor el excedente, si lo hubiere. Esta restitución del subsidio habilitará al afectado para postular, de acuerdo a lo previsto en la letra h) del artículo 10 del D.S. N° 62 (V. y U.), de 1984, en relación con lo dispuesto en el inciso primero del artículo 3° del presente reglamento.
+
+En caso de cumplirse todos los requisitos exigidos para la adquisición de una solución habitacional similar o de una vivienda, el SERVIU procederá a reendosar el depósito a plazo a favor del vendedor contra entrega de copia autorizada de la escritura respectiva en que consten sus inscripciones en el Conservador de Bienes Raíces, incluida la correspondiente a la prohibición de enajenar.
+
+También podrá el SERVIU autorizar la enajenación de una vivienda afecta a prohibición en razón del subsidio recibido, para que sea permutada por otra solución habitacional similar o por una vivienda que reúna los requisitos, características y condiciones exigidos en el inciso primero o para su adquisición o readquisición por el SERVIU para el desarrollo de programas de densificación habitacional previamente aprobados por la Secretaría Regional Ministerial de Vivienda y Urbanismo. En este último caso el precio de la adquisición lo enterará el SERVIU con un certificado de subsidio y con un certificado de crédito, que entregará al vendedor para que éste los aplique a la adquisición de una vivienda de las características antes señaladas. En las dos alternativas a que se refiere este inciso, la vivienda que se adquiera por el beneficiario quedará afecta a la prohibición de enajenar por el plazo que restare de los cinco años por los que se constituyó la prohibición alzada.
+
+Será condición determinante para el otorgamiento de las autorizaciones por parte del SERVIU a que se refieren los incisos precedentes, que haya transcurrido a lo menos un año desde la fecha de la inscripción de la prohibición que afecta a la solución habitacional cuya enajenación se autoriza y que el beneficiario se encuentre al día en el servicio de la deuda a que se refiere la letra c) del artículo 16 de este reglamento, cuando corresponda.
+
+Si la nueva vivienda tuviese un precio superior al valor de la vivienda cuya enajenación se autorizó, el adquirente deberá solventar la diferencia con recursos propios o mediante un préstamo obtenido del sector financiero privado. Si por el contrario la diferencia fuera en favor del adquirente, deberá destinarla a amortizar extraordinariamente el saldo de su deuda proveniente del préstamo a que se refiere la letra c) del artículo 16 precedente. Si no existiera deuda pendiente, la diferencia deberá destinarla a pagar los gastos que origine la operación, y el saldo que reste después de efectuar estos pagos cederá en su favor.
+
+En caso que el deudor opte por vender su vivienda progresiva para destinar el producto de esa enajenación a la adquisición de una solución habitacional similar o de una vivienda que reúna los requisitos, características y condiciones que señala el inciso primero, el SERVIU podrá alzar la hipoteca y prohibiciones constituidas a su favor que caucionan el crédito otorgado, bajo la condición que se constituya nueva hipoteca y prohibiciones sobre la solución habitacional o vivienda que adquiera con el producto de esa venta para responder por el pago de la deuda que continuará sirviendo en las condiciones originalmente pactadas. Para garantizar que se constituirá la nueva hipoteca y prohibiciones, parte del precio de la venta equivalente al saldo adeudado de acuerdo a la liquidación que practicará el SERVIU, deberá enterarse mediante depósito a plazo renovable automáticamente, por períodos no superiores a noventa días, expresado en Unidades de Fomento, con interés, tomado en un banco o sociedad financiera a nombre del vendedor y endosado nominativamente a favor del SERVIU respectivo. Esta condición será determinante para que el SERVIU concurra al alzamiento de la hipoteca y prohibiciones. El no cumplimiento de la condición de inscribir la nueva hipoteca y prohibiciones en favor del SERVIU, dentro de los 12 meses siguientes a la fecha de la inscripción de la enajenación autorizada, dará derecho al SERVIU para hacer efectivo dicho depósito a plazo e imputar su valor al pago del saldo de la deuda, considerándose ésta como de plazo vencido, restituyendo el excedente, si lo hubiere al vendedor. En caso de aplicación del producto de la venta a la adquisición de una solución habitacional similar o vivienda que reúna los requisitos, características y condiciones señalados en el inciso primero, en el plazo establecido, el SERVIU reendosará el depósito a plazo a favor del vendedor de la nueva vivienda o solución habitacional contra entrega de copia autorizada de la escritura respectiva en que consten sus inscripciones en el Conservador de Bienes Raíces, incluida la inscripción de la nueva hipoteca y prohibiciones a que se refiere este inciso, conforme a la liquidación practicada por el SERVIU.
+
+Será condición determinante para acogerse a lo previsto en este artículo y para que el SERVIU concurra al alzamiento de la hipoteca y prohibiciones, que haya transcurrido a lo menos un año desde la fecha de la inscripción de la prohibición a que se refiere el inciso segundo del artículo 18 y que el deudor se encuentre al día en el servicio de la deuda proveniente del crédito respectivo.
+
+También podrá autorizarse la permuta de la vivienda o solución habitacional que garantiza el crédito otorgado, a condición que la vivienda o solución habitacional que se adquiera cumpla con las mismas condiciones exigidas precedentemente para la compra y que se constituya sobre ésta nueva hipoteca y prohibiciones para responder por el pago del saldo adeudado en las condiciones primitivamente pactadas. Si resultare una diferencia entre el valor de las viviendas que se permutan, se aplicará lo previsto en el inciso octavo de este artículo.".
+
+c) Agrégase la siguiente expresión al artículo 21, sustituyendo previamente por un punto y coma el punto con que finaliza ese artículo: "y los casos en que se hubiere restituido el subsidio percibido, cumpliendo con los demás requisitos establecidos en este reglamento.".
+
+#### Artículo 1°
+
+transitorio.- Las modificaciones al D.S.
+
+N° 140 (V. y U.), de 1990, dispuestas en el presente decreto, regirán desde su publicación en el Diario Oficial, pudiendo aplicarse, a partir de esa fecha, incluso a beneficiarios de operaciones realizadas con anterioridad, por ser más favorables para ellos.
+
+#### Artículo 2°
+
+transitorio.- Las modificaciones al D.S.
+
+N° 140 (V. y U.), de 1990, dispuestas en el presente decreto, se aplicarán exclusivamente a beneficiarios que hubieren obtenido el subsidio y, en su caso, el crédito, del SERVIU Metropolitano, hasta que, mediante resoluciones del Ministro de Vivienda y Urbanismo, se disponga su aplicación en otra u otras regiones del país.
+
+Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Edmundo Hermosilla Hermosilla, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Sergio Galilea O., Subsecretario de Vivienda y Urbanismo.
