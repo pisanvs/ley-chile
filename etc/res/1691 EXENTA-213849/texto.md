@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.691, de 23 de julio de 2003, de esta Subsecretaría, autorízase a CULTIVOS MARINOS DEL SUR S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en la comuna de Calbuco, canal Quihua s/nº, San Rafael, X Región, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-Enfriado, Congelado, Ahumado: Salmón del Atlántico, Salmón plateado, Trucha arcoiris, Merluza del sur y Róbalo.
+
+Valparaíso, 23 de julio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
