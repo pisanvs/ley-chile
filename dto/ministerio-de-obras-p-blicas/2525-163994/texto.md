@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.525, de 31 de agosto de 1999, se expropió el lote de terreno Nº 237-3, superficie 4.982 m2., rol de avalúo 99-377, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago-Los Vilos, Quinta Región y se acordó el valor de indemnización con sus propietarios Rafael Patricio Basáez Lisperguer y otros, ascendente a la cantidad de $7.872.544.-
+
+Fiscal del Ministerio de Obras Públicas.
