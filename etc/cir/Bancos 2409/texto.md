@@ -14764,49 +14764,11 @@ MATERIA:
 
 CARTAS DE RESGUARDO EMITIDAS POR LAS INSTITUCIONES FINANCIERAS. SU VALIDEZ.
 
-Las cartas de resguardo que se dan con ocasión de una operación legítima de
+Las cartas de resguardo que se dan para efectos del alzamiento de gravámenes, ya sea que se trate de hipotecas o de prendas, o bien, que tengan su origen en un mandato de comisiones de confianza, siempre que el emisor de dicho instrumento cuente con la provisión de fondos o que otorgue un crédito que permita cumplir lo prometido, no están afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General de Bancos.
 
-préstamo con letras de crédito o de mandato de comisiones de confianza no están
+En efecto, si se trata, por ejemplo, de la compraventa de un inmueble, en la que sea necesario que el banco otorgante del crédito comprometa su responsabilidad en beneficio de su cliente para que otra institución alce un gravamen que afecte al inmueble e impida perfeccionar la operación, no existe inconveniente para que pueda extender el documento de compromiso, toda vez que se trata de un acto indispensable para realizar la operación y que está aceptado por los usos normales, siendo similar a otro que es tradicional en nuestro medio, esto es, los "libros de instrucciones" de las notarías, que están fundados en la confianza más que en una estricta legalidad.
 
-afectas a la prohibición contenida en el N° 6 del artículo 84 de la Ley General
-
-de Bancos. En efecto, si se trata, por ejemplo, de la operación de venta de una
-
-propiedad, que puede darse en ambos casos, exige que el banco comprometa su
-
-responsabilidad en beneficio de su cliente para que otra institución alce desde
-
-luego un gravamen y de la propia operación resulta que va a existir una
-
-provisión de fondos que permita cumplir lo prometido o, por último, si el banco
-
-va a conceder un crédito a su cliente para el caso de que resulte una diferencia
-
-en su contra, no existe inconveniente para que pueda extender el documento de
-
-compromiso que es precisamente un acto necesario para facilitar la operación y
-
-que está aceptado por los usos normales. Se trata de un sistema similar a otro
-
-que es tradicional en nuestro medio, esto es, los "libros de instrucciones" de
-
-las notarías, que están fundados en la confianza más que en una estricta
-
-legalidad.
-
-Cualquier otro tipo de "carta de resguardo" que no reúna las características
-
-precedentemente indicadas, como es el caso de aquellas que extendían algunas
-
-instituciones financieras en que certificaban la concesión de un determinado
-
-crédito o se comprometían a pagar determinados bienes y obligaciones por cuenta
-
-de sus clientes con cargo a créditos que les cursarían al efecto, están
-
-prohibidas por el artículo 84 N° 6 citado y, a mayor abundamiento, están
-
-viciadas de nulidad.
+Cualquier otro tipo de "carta de resguardo" que no reúna las características precedentemente indicadas, como es el caso de aquellas que extendían algunas instituciones financieras en que certificaban la concesión de un determinado crédito o se comprometían a pagar determinados bienes y obligaciones por cuenta de sus clientes con cargo a créditos que les cursarían al efecto, están prohibidas por el artículo 84 N° 6 citado y, a mayor abundamiento, están viciadas de nulidad.
 
 CAPITULO 9-6 (Bancos y Financieras)
 
