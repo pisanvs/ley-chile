@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.080, de 31 de julio de 2001, se expropió el lote de terreno Nº1-1, superficie 249 m², rol de avalúo 2209-3, comuna de Chillán, para la obra Concesión Internacional Ruta 5. Tramo: Talca - Chillán, Octava Región y se acordó el valor de indemnización con sus propietarios Mario Antonio Márquez Palma y otros, ascendente a la cantidad de $2.683.421.-
+
+Fiscal del Ministerio de Obras Públicas.
