@@ -1,0 +1,3 @@
+Por decreto MOP Nº581, de 30 de marzo de 2001, se expropió el lote de terreno Nº26, superficie 10.000 m², rol de avalúo 866-84, comuna de Villa Alemana, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar, Troncal Sur, Tramo 1, Atravieso Los Maitenes, Quinta Región, y se acordó el valor de indemnización con sus propietarios Sergio Osvaldo Jarpa Videla y Otro, ascendente a la cantidad de $41.620.476.
+
+Fiscal del Ministerio de Obras Públicas.
