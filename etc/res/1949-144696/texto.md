@@ -1,0 +1,3 @@
+Por resolución Nº 1.949, de 29 de septiembre de 1999, de esta Subsecretaría, declárase la caducidad de la resolución Nº 490 de 1993, de esta Subsecretaría, que autorizó a Pesquera Indo S.A. -hoy EMPRESA PESQUERA EPERVA S.A.-, para ampliar actividades pesqueras extractivas con la nave ''Livilcar'', en el área de pesca correspondiente a la III y IV Regiones.
+
+Valparaíso, 29 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
