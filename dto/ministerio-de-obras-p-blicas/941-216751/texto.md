@@ -1,0 +1,3 @@
+Por decreto MOP Nº941, de fecha 29 de agosto de 2003, se expropió el lote de terreno Nº159, superficie 231 m², rol de Avalúo Nº32-516, comuna de Pichidegua, para la obra "Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Luis Hernán Dinamarca López, ascendente a la cantidad de $3.132.360.
+
+Fiscal del Ministerio de Obras Públicas.
