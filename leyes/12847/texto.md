@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para vender al Sindicato Profesional de Jornaleros, Estibadores y Desestibadores Marítimos de Valparaíso, el inmueble que indica y cuyos deslindes señala, ubicado en esta ciudad, a fin de construir en él un edificio para su sede social.
