@@ -1,0 +1,3 @@
+Por resolución Nº629, de 22 de abril de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº224, de 1990, que autorizó a la SOCIEDAD PESQUERA MARIA ELENA LTDA., hoy Pesquera María Elena S.A., para operar la nave ''Don Gregorio'' sólo en lo relativo a las especies Agujilla, Cabinza, Machuelo o tritre, Cojinoba del Norte, Cojinoba del sur, Corvina, Merluza común, Merluza de cola, Merluza de tres aletas, Anchoveta, Jurel, Caballa, Sardina española y Sardina común, entre la III y IV Regiones, por no haber iniciado operaciones dentro del plazo legal, conforme lo dispuesto en el artículo 143 letra b), de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 22 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
