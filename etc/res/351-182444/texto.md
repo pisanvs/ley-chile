@@ -1,0 +1,3 @@
+Por resolución Nº 351 de 22 de febrero de 2001 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95110333 presentada por CLEMENTE OCTAVIO PEREZ GALLARDO, para instalar y operar un centro de cultivo ubicado al sur de isla Simpson, canal Nalcayec, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 22 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
