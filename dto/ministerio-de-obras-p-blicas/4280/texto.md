@@ -1,0 +1,5 @@
+Por decreto MOP. Nº4.280, de 27 de septiembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 22-B1 y 22-C1; para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector G:
+
+Km. 110.200,00 al Km. 128.400,00'', Sexta Región, que figuran a nombre de Guajardo Collao Onofre, rol de avalúo 206-31, comuna de Rengo, superficies 475 m2 y 477 m2, respectivamente. La comisión de peritos integrada por los señores José Cristián Larraín Barros, María Angélica Hurtado Arranz y Enrique Luis Figueroa Echeverría, fijó con fecha 24 de julio de 2000, el valor provisional de la indemnización en las cantidades de $1.876.500.- para el lote Nº22-B1 y de $7.383.300.- para el lote Nº22-C1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
