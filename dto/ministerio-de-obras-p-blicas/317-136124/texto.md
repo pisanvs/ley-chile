@@ -1,0 +1,3 @@
+Por Decreto MOP No. 317, de 26 de febrero de 1999, se expropió el lote de terreno No. 19, superficie 16 M2., rol de avalúo 366-6, comuna de Concepción, obra Reposición Puente Bío-Bío (Antiguo) Ruta 160 Concepción San Pedro, sector Enlace 4 y se acordó precio de indemnización con su propietario Eliana del Carmen S ez Paredes y Otros, ascendente a la cantidad de $ 17.692.624.-
+
+Fiscal del Ministerio de Obras Públicas.
