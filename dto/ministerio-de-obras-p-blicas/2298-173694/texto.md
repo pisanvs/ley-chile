@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.298, de 30 de mayo del 2000, se expropió el lote de terreno Nº8, superficie 243 m², rol de avalúo 5323-7, comuna de La Granja, para la obra Concesión Internacional Ruta 5, Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Reginio Segundo Lillo Toro, ascendente a la cantidad de $25.966.436.
+
+Fiscal del Ministerio de Obras Públicas.
