@@ -1,0 +1,7 @@
+EXTRACTO DE REFORMA DE ESTATUTOS DEL BANCO HIPOTECARIO DE FOMENTO NACIONAL
+
+Certifico que por resolución No. 87 de 11 de mayo de 1987, se aprobaron las reformas introducidas a los estatutos del Banco Hipotecario de Fomento Nacional, en la Junta Extraordinaria de Accionistas celebrada en Santiago el 18 de marzo de 1987, cuya acta se redujo a escritura pública con fecha 15 de Abril del mismo año, en la Notaría de Santiago de don José Musalem Saffie; Extracto de la reforma:
+
+En virtud de la absorción de parte de la pérdida acumulada, correspondiente al remanente que no alcanzó a ser amortizado con cargo a los fondos de reserva del Banco, en los términos aprobados por la Superintendencia de Bancos e Instituciones Financieras, se disminuyó el capital social de $ 7.814.994.775, dividido en 2.625.000.000 de acciones sin valor nominal, emitidas, suscritas y pagadas, de las cuales 26.250.000 son acciones ordinarias o de la "Serie A" y 2.598.750.000 son acciones preferidas o privilegiadas de la "Serie B", a la suma de $ 6.346.265.853, dividido en el mismo número de acciones de las series A y B existentes antes de la disminución.
+
+Santiago, 11 de Mayo de 1987.- Guillermo Ramírez Vilardell, Superintendente de Bancos e Instituciones Financieras.
