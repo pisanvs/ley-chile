@@ -1,0 +1,5 @@
+Por decreto MOP. exento Nº 1.123 de 30 de julio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 4-A y 15-A para la obra: Camino Ruta L-70, Sector Cruce Ruta 128-Cuatro Esquinas, Km.
+
+0,00000 a Km. 15,8000, que figuran a nombre de Acuña Fuentes Raúl Antonio y Tapia Muñoz Rosendo, roles de avalúo 1252-165 y 1252-35, Comuna de Parral, VII Región, superficies 232 m2. y 84 m2. La Comisión de Peritos, fijó con fecha 12 de diciembre de 2000, en la cantidad de $412.000.-, para el lote 4-A y $289.000.- para el lote 15-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
