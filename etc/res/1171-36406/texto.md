@@ -1,0 +1,5 @@
+Por Resolución N° 1.171 de 2 de diciembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 508, de 1991, de esta Subsecretaría, que autorizó a GANADERA DEL MAR DECIMA REGION S.A., R.U.T. N° 96.523.450-0, domiciliada en calle Moneda N° 812, Of. 803, Santiago, para ampliar las actividades pesqueras de cultivo que tenía autorizadas por Resolución N° 727, de 1988, de esta Subsecretaría, en orden a sustituir su numeral 2° por el siguiente:
+
+"2.- La solicitante podrá incorporar al establecimiento de cultivo autorizado por la Resolución citada precedentemente, los recursos Chorito Mytilus chilensis, Choro, Choromytilus chorus, Cholga Aulacomya ater, Ostión del Norte, Argopecten purpuratus y Ostra del Pacífico, Crassotrea gigas."
+
+Valparaíso, 2 de diciembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
