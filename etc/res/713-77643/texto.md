@@ -1,0 +1,3 @@
+Por resolución No. 713 de 31 de Julio de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por 1 año a contar de la fecha de la presente Resolución, el plazo otorgado a SALMONES TECMAR LTDA., R.U.T. No. 79.809.870-5, domiciliada en Estado No. 369, Santiago Centro, Santiago, en el numeral 5° de la Resolución No. 755, de 1990, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de fuerza mayor.
+
+Valparaíso, 31 de Julio de 1992.- Andrés Couve Rioseco Subsecretario de Pesca.
