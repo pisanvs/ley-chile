@@ -1,0 +1,3 @@
+Por Resolución No. 839 de 02 de Septiembre de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución No. 919, de 1991, de esta Subsecretaría, que autorizó a don ALEJANDRO ALBERTO ALERT BUSCHMANN, R.U.T. No. 9.407.064-3, domiciliado en calle Santiago Bueras 219, Valdivia, para operar un establecimiento de cultivo del recurso alga del género Gracilaria spp. en Sector Oeste de Punta Piragua, Río Tornagaleones, comuna de Corral, Provincia de Valdivia, Región Xª, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 02 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
