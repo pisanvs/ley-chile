@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 188, de fecha 31 de marzo del 2003, se expropió el lote de terreno Nº 108, superficie 324,00 m2, Rol Nº 764-83, comuna de Lampa, Región Metropolitana, para la obra "Camino Ruta G-16 (Lipangue), tramo Km. 4,450 a Km. 15,04419" y se acordó el valor de indemnización con su propietario Manuel Armando Valencia Riquelme, ascendente a la cantidad de $1.295.756.
+
+Fiscal del Ministerio de Obras Públicas.
