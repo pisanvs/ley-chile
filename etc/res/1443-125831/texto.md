@@ -1,0 +1,3 @@
+Por resolución Nº 1.443, de 7 de octubre de 1998, de esta Subsecretaría, modifícase el numeral 2 de la resolución Nº 245 y el numeral 1 de la resolución Nº 544 de 1998, de esta Subsecretaría, que autorizaron a PESQUERA IQUIQUE GUANAYE S.A., para ampliar actividades pesqueras de transformación, en su planta ubicada en Manuel Rodríguez Nº 302, Talcahuano, VIII Región, en el sentido de señalar que los recursos Bacaladillo o mote, Anchoveta y Machuelo o tritre, serán abastecidos por su flota pesquera autorizada y por terceros.
+
+Valparaíso, 7 de octubre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
