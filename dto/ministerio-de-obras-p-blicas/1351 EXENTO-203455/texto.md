@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.351 de 16 de septiembre de 2002, se dejó sin efecto el decreto supremo exento MOP Nº653 de 31 de mayo de 2001, que ordenó la expropiación del lote Nº18, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar Tramo 16: Km. 97.400,00 a Km. 99.500,00, por no ser necesario para la ejecución de ésta. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
