@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 987 de 09.06.88, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predios "Las Casas", "Santa Cristina", "Hijuela Uno e Hijuela Dos del Fundo San Agustín", "Esperanza de Abranquil" e "Hijuela No. 2 o Santa Laura" de la comuna de Yerbas Buenas, VII Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s l a la 49, sitios N°s. 1 al 57 y Reservas CORA N°s. 1 y 2 del Proyecto de Parcelación "San José de Yerbas Buenas" formado por predios señalados. Los derechos de agua se extraen de los canales: Benavente, San Ramón y Caracoles, Farto, San Agustín, Abranquil, Vencedor y canal Alimentador Estero Abranquil. Publicación hecha conforme Art. 13 Ley No.
+
+18.377.
+
+- Director Ejecutivo.
