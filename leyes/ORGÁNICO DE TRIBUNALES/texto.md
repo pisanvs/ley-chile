@@ -1172,13 +1172,13 @@ d) El de la Corte de Copiapó comprenderá la Tercera Región de Atacama;
 
 e) El de la Corte de la Serena comprenderá la Cuarta Región de Coquimbo;
 
-f) El de la Corte de Valparaíso comprenderá la Quinta Región de Valparaíso, exceptuada la provincia de San Antonio, salvo las comunas de El Quisco y Algarrobo; además, comprenderá la comuna de Curacaví, de la Región Metropolitana de Santiago;
+f) El de la Corte de Valparaíso comprenderá la Quinta Región de Valparaíso;
 
 g) El de la Corte de Santiago comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Chacabuco y de Santiago, con exclusión de las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda;
 
-h) El de la Corte de San Miguel comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Cordillera, Maipo y Talagante; a la provincia de Melipilla, con exclusión de la comuna de Curacaví; a las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda, de la provincia de Santiago. Tendrá asimismo jurisdicción sobre la provincia de San Antonio con excepción de las comunas de El Quisco y Algarrobo, de la Quinta Región de Valparaíso y sobre la comuna de Navidad, de la Sexta Región del Libertador General Bernardo O'Higgins;
+h) El de la Corte de San Miguel comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Cordillera, Maipo y Talagante; a la provincia de Melipilla; a las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda, de la provincia de Santiago;
 
-i) El de la Corte de Rancagua comprenderá la Sexta Región, del libertador General Bernardo O'Higgins, exceptuada la comuna de Navidad de la provincia Cardenal Caro, de la misma Región;
+i) El de la Corte de Rancagua comprenderá la Sexta Región, del libertador General Bernardo O'Higgins;
 
 j) El de la Corte de Talca comprenderá el de la Séptima Región, del Maule;
 
