@@ -1,0 +1,3 @@
+Por decreto MOP Nº 774 de fecha 25 de julio de 2003, se expropiaron los lotes de terreno Nº 148-A y 149-A, superficies 359 m2 y 7.436 m2, rol de Avalúo Nº 78-137, comuna de Galvarino, para la obra "Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al Km. 34,50853, correspondiente al sub-tramo V, Km. 25,837 al Km. 34,50853", IX Región y se acordó el valor de la indemnización con su propietario Agrícola San Patricio Limitada, ascendente a la cantidad de $4.297.711.
+
+Fiscal del Ministerio de Obras Públicas.
