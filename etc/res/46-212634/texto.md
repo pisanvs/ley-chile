@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución ministerial Nº 46, de fecha 8 de mayo del año 2002, se autorizó la existencia y se aprobaron los estatutos de la cooperativa de trabajo denominada Mariscadoras de Las Cruces Puesta de Sol, de nombre de fantasía "Puesta de Sol", de la comuna de El Tabo, Quinta Región, en los términos que da testimonio el acta constitutiva protocolizada con fecha 14 de diciembre de 2001, al final de los registros del Notario de Santiago, don Raúl Perry Pefaur, bajo el número 114, y en acta complementaria protocolizada con fecha 11 de marzo de 2002, al final de los registros del Notario de Santiago, don Juan Andrés Perry Mitchel, suplente del titular, don Raúl Perry Pefaur, bajo el número 68.
+
+Por orden del Sr. Subsecretario, Raúl Oliva Camadro, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
