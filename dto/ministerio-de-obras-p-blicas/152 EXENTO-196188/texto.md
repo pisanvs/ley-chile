@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 152, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 7, superficie 4.460 m², rol de avalúo 204-17, comuna de Los Alamos, VIII Región, para la obra "Camino Ruta P - 46, Sector Los Alamos - Sara de Lebu, Kms. 0,00000 al 16,84000" y se acordó el valor de indemnización con su propietaria Griselda Vegas Bustos, ascendente a la cantidad de $958.335.
+
+- Fiscal del Ministerio de Obras Públicas.
