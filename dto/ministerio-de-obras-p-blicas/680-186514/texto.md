@@ -1,0 +1,3 @@
+Por decreto MOP Nº 680, de 30 de abril de 2001, se expropió el lote de terreno Nº 230-3, superficie 19.604 m², rol de avalúo 99-120, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Proquimfor S.A. Agrícola e Inversiones, ascendente a la cantidad de $33.291.388.-
+
+Fiscal del Ministerio de Obras Públicas.
