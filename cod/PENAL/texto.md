@@ -2638,6 +2638,24 @@ El que abusare deshonestamente de persona de uno u otro sexo mayor de doce años
 
 El que, habitualmente o con abuso de autoridad o confianza, promoviere o facilitare la prostitución o corrupción de menores de edad para satisfacer los deseos de otro, sufrirá las penas de presidio mayor en cualquiera de sus grados y multa de veintiuna a treinta unidades tributarias mensuales.
 
+#### Artículo 367 bis
+
+El que promoviere o facilitare la entrada o salida de personas del país para que éstas ejerzan la prostitución en el territorio nacional o en el extranjero, será castigado con la pena de presidio menor en su grado máximo y multa de veinte unidades tributarias mensuales.
+
+No obstante, se impondrán las penas señaladas en el artículo anterior en los siguientes casos:
+
+1.- Si la víctima es menor de edad.
+
+2.- Si se ejerce violencia o intimidación.
+
+3.- Si el agente actúa mediante engaño o con abuso de autoridad o confianza.
+
+4.- Si el autor fuere ascendiente, descendiente, marido, hermano, tutor, curador o encargado de la educación de la víctima.
+
+5.- Si el agente se vale del estado de desamparo económico de la víctima.
+
+6.- Si existe habitualidad en la conducta del agente.
+
 ### VII. Disposiciones comunes a los tres párrafos anteriores
 
 #### Artículo 368
@@ -2688,43 +2706,35 @@ El que vendiere, distribuyere o exhibiere canciones, folletos u otros escritos, 
 
 En las mismas penas incurrirá el autor del manuscrito, de la figura o de la estampa o el que los hubiere reproducido por un procedimiento cualquiera que no sea la imprenta.
 
-### IX. Del adulterio
+IX. Del adulterio. Derogado
 
 #### Artículo 375
 
-El adulterio será castigado con la pena de reclusión menor en cualquiera de sus grados. Cometen adulterio la mujer casada que yace con varón que no sea su marido y el que yace con ella sabiendo que es casada, aunque después se declare nulo el matrimonio.
+Derogado.
 
 #### Artículo 376
 
-No se impondrá, pena por delito de adulterio sino en virtud de querella del marido.
-
-La querella deberá, precisamente iniciarse contra ambos culpables, si uno y otro vivieren; pero en el caso de haber fallecido alguno de ellos o de fallecer después de iniciado el juicio, podrá el ofendido entablarla o continuarla contra el sobreviviente.
+Derogado.
 
 #### Artículo 377
 
-La acción de adulterio prescribe en un año, que principiará a correr desde el día en que el ofendido tuvo noticia del delito; pero en caso de muerte de uno de los culpables, deberá iniciarse en los cuatro meses siguientes a ésta, siempre que este plazo se halle comprendido dentro del año en que, por regla general, prescribe la acción.
-
-En ningún caso podrá entablarse acción de adulterio después de cinco años, contados desde que se cometió el delito.
+Derogado.
 
 #### Artículo 378
 
-Tampoco podrá entablarse acción de adulterio en caso de divorcio perpetuo, por los actos ejecutados mientras éste subsista.
+Derogado.
 
 #### Artículo 379
 
-El marido podrá en cualquier tiempo suspender el procedimiento o remitir la pena impuesta a su consorte volviendo a unirse con ella, extendiéndose al cómplice los efectos de la suspensión o remisión.
+Derogado.
 
 #### Artículo 380
 
-La ejecutoria en causa de divorcio por adulterio surtirá sus efectos plenamente en lo penal, cuando fuere absolutoria. Si fuere condenatoria, será necesario, nuevo juicio para la imposición de las penas.
+Derogado.
 
 #### Artículo 381
 
-El marido que tuviere manceba dentro de la casa conyugal, o fuera de ella con escándalo, será castigado con reclusión menor en su grado mínimo, y perderá el derecho de acusar a su mujer por los adulterios cometidos durante su amancebamiento.
-
-La manceba sufrirá la pena de destierro en cualquiera de sus grados.
-
-Lo dispuesto en los artículos 376, 377, 378 y 379 es aplicable al presente.
+Derogado.
 
 ### X. Celebración de matrimonios ilegales
 
@@ -3222,7 +3232,7 @@ Se presumirá también autor del robo o hurto de animales aquel en cuyo poder se
 
 La marca registrada puesta sobre el animal robado o hurtado, constituye presunción de dominio a favor del dueño de la marca.
 
-Se castigará como cómplice del robo o hurto de una cosa al que la compre o reciba a cualquier título aun cuando ya hubiere dispuesto de ella, como igualmente al que la tenga en su poder, sabiendo el uno o el otro su origen, o no pudiendo menos de conocerlo. Se presumirá que concurre este último requisito respecto del que comercia habitualmente en la compra y venta de especies usadas.
+Inciso Derogado.
 
 #### Artículo 455
 
@@ -3249,6 +3259,18 @@ En los delitos de robo y hurto serán circunstancias agravantes las siguientes:
 Las circunstancias agravantes de los números 1.o y 5° del artículo 12 serán aplicables en los casos en que se ejerciere violencia sobre las personas.
 
 En estos delitos no podrá estimarse que concurre la circunstancia atenuante del número 7° del artículo 11, por la mera restitución a la víctima de las especies robadas o hurtadas y, en todo caso, el Juez deberá considerar, especificada, la justificación del celo con que el delincuente ha obrado.
+
+§ 5 bis. De la receptación
+
+#### Artículo 456 bis
+
+A.
+
+El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas o robadas, o las compre, venda o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a veinte unidades tributarias mensuales.
+
+Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
+
+Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos.
 
 ### VI. De la usurpación
 
