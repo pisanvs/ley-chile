@@ -1,0 +1,3 @@
+Por resolución Nº 2.496 de 22 de diciembre de 1999 de esta Subsecretaría de pesca, se rechaza la solicitud de concesión de acuicultura Nº 95110292, presentada por LUIS ARTURO MIRANDA GARAY, para operar un centro de cultivo ubicado al sur de Isla Latolque, Canal Ferronave, comuna de Aysén, provincia de Aysén, XI Región.
+
+Valparaíso, 22 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
