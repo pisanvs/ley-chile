@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.556 de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 47-A, superficie 1.117 m2, rol en trámite, comuna de San Francisco, para la obra "Camino Ruta Rol H-10, sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 a Km. 9,317", VI Región y se acordó el valor de la indemnización con su propietario Luis Ramón Barrera Zapata, ascendente a la cantidad de $2.545.278.-
+
+Fiscal del Ministerio de Obras Públicas.
