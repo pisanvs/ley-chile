@@ -1,0 +1,3 @@
+Por resolución Nº153, de 29 de enero de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº455 de 1990 y Nº858 de 1995, de esta Subsecretaría, que autorizaron a RUDECINDO DEL CARMEN MERINO FERNANDEZ, para instalar y operar el centro de cultivo ubicado en Bancos de Coihuín, comuna de Puerto Montt, provincia de Llanquihue, X Región.
+
+Valparaíso, 29 de enero de 1999.- Edith Saa Collantes, Subsecretario de Pesca (S).
