@@ -1,0 +1,3 @@
+Por resolución Nº 1.680, de 27 de noviembre de 1998, de esta Subsecretaría, declárase la caducidad de la resolución Nº 291 de 1989, de esta Subsecretaría, solamente en cuanto autorizó a EMPRESA DE CONSTRUCCION Y CARPINTERIA NAVAL CONCAR S.A., para operar la nave ''Antonio Lorenzo'', matrícula 2631, en virtud de lo señalado en el artículo 143 letra b), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
