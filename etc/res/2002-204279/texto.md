@@ -1,0 +1,3 @@
+Por resolución Nº 2.002, de 17 de septiembre de 2002, de esta Subsecretaría, modifícase el numeral 4º letras a) y b) de la resolución Nº 2.000 de 2002, de esta Subsecretaría que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la pesquería de merluza del sur en aguas interiores X Región, temporada 2002", en el sentido de señalar que los límites de captura autorizados para el mes de septiembre correspondiente a las Zonas de Calbuco y Puerto Montt, podrán extraerse entre los días 19 y 21 de septiembre de 2002, ambas fechas inclusive.
+
+Valparaíso, 17 de septiembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
