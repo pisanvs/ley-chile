@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.450, de 29 de septiembre del 2000, se expropió el lote de terreno Nº 213, superficie 128 m2., rol de avalúo 6.589-8, comuna de La Pintana, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Héctor Arnoldo Bastías González, ascendente a la cantidad de $15.220.562.
+
+- Fiscal del Ministerio de Obras Públicas.
