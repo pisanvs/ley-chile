@@ -1,0 +1,3 @@
+Por Resolución Nº 351 de 21 de abril de 1997 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, parte del inmueble ubicado en Avda. Carrascal Nº 4315-4311-4319, presunto rol de avalúos Nº 4115-2 comuna de Quinta Normal, de aparente dominio de Amalia Contreras Mena. Comisión integrada por peritos Teresa Sancho Pernas, arquitecto, Sergio Rojas Ibáñez, ingeniero civil y Luis Rojas Quezada, constructor civil según informe de 17 de diciembre de 1996 fijó monto provisional de indemnización en $5.033.500.- pagadera al contado.
+
+Director SERVIU Metropolitano.
