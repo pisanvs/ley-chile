@@ -1,0 +1,3 @@
+Por decreto MOP Nº621, de 30 de marzo de 2001, se expropió el lote de terreno Nº24-2, superficie 3.070, rol de avalúo 623-74, comuna de Molina, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector N, Séptima Región y se acordó el valor de indemnización con su propietario Armando Segundo Villaseca González, ascendente a la cantidad de $13.394.514.
+
+Fiscal del Ministerio de Obras Públicas.
