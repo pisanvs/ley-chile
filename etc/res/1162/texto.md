@@ -1,0 +1,3 @@
+Por Resolución N° 1.162, 07 de Diciembre de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase la Resolución N° 1070, de 1994, que autorizó a la SOCIEDAD LUNA Y GALAZ LTDA., para realizar faenas de captura, en el sentido de reemplazar el inciso primero del numeral 2° por el siguiente "La captura del Pingüino rey se efectuará en el área de Bahía Inútil, Isla Grande de Tierra del Fuego, XII Región, durante el mes de diciembre de 1994".
+
+Valparaíso, 7 de diciembre de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
