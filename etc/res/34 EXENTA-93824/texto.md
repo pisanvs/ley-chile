@@ -1,0 +1,5 @@
+DERECHOS DE APROVECHAMIENTO DE AGUAS EN COMUNA DE COLBUN
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 34 de 06 de Enero de 1989, conforme Art. 5° Transitorio Código de Aguas, determinó derechos aprovechamiento aguas proporcionales que corresponden a sector excluido y sector expropiado predios "San Rafael, Potreros Chaparro, El Espinal, Loma Baja y Loma Alta del Fundo San Rafael", "Hijuela N° 1 de las en que se dividió los Fundos San Francisco de Panimávida y San Francisco de los Baños" e "Hijuela Santa Ester de las 5 en que se dividió el Fundo Santa Elena de Panimávida y El Sauce", de la comuna de Colbún, VII Región; y derechos aprovechamiento aguas que corresponden a parcelas N°s. 3 a la 87, sitios 2 al 30, 32 al 40, 42 al 50, 52 al 96 y reserva CORA N° 1 del Proyecto de Parcelación "Panimávida", formado por predios señalados y otros. Los derechos de agua se extraen de los canales Santa Elena Alto, Porvenir-EI Sauce, Santa Blanca, San Nicolás, San Rafael, Santa Elena Bajo, La Barra, Las Cabras. Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
