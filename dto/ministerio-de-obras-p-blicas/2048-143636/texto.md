@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.048, de 30 de julio de 1999, se expropió el lote de terreno No. 403-2, superficie 1.550,0 m2., rol de avalúo 290-75, comuna de Los Lagos, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietaria Elodina Rotter Cerda, ascendente a la cantidad de $ 1.119.441.-
+
+Fiscal del Ministerio de Obras Públicas.
