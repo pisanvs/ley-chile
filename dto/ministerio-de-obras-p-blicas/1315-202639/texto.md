@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.315, de fecha 30 de julio de 2002, se expropió el lote de terreno Nº 55 m2, superficie 1.487 m2, rol de avalúo 543-84, comuna de Linares, VII Región, para la obra ''Camino Ruta L-31, Sector Polvorines - La Floresta, tramo Km. 0,00000 al 15,48000'' y se acordó el valor de indemnización con su propietario don Agustín Lautaro Norambuena Reveco, ascendente a la cantidad de $3.148.090.-
+
+Fiscal del Ministerio de Obras Públicas.
