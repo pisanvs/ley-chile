@@ -1,0 +1,3 @@
+Por decreto MOP Nº781, de fecha 30 de abril de 2002, se expropió el lote de terreno Nº90, superficie 4.562 m², rol de avalúo 159-37, comuna de Ranquil, VIII Región, para la obra ''Camino Ruta O-66-N, Sector Nueva Aldea - Ñipas, tramo II, Km. 5,7900 al 10,19480'' y se acordó el valor de indemnización con su propietaria doña Dorila Elizabeth de las Mercedes Osorio Guzmán, ascendente a la cantidad de $34.423.604.-
+
+Fiscal del Ministerio de Obras Públicas.
