@@ -1,0 +1,3 @@
+Por decreto MOP Nº777 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº1-C, superficie 10.735 m², rol de avalúo Nº144-46, comuna de Cochamó, para la obra ''Construcción Puente Río Puelo y Accesos, Sector Río Puelo, Km. 27.865 a Km. 29.500'' X Región y se acordó el valor de indemnización con su propietario Ernesto de la Cruz Alvarado Vera, ascendente a la cantidad de $7.825.276.-
+
+Fiscal del Ministerio de Obras Públicas.
