@@ -228,7 +228,9 @@ Toda persona que deba acreditar la renta efectiva, lo hará mediante contabilida
 
 Los libros de contabilidad deberán ser llevados en lengua castellana y sus valores expresarse en la forma señalada en el artículo 18, debiendo ser conservados por los contribuyentes, junto con la documentación correspondiente, mientras esté pendiente el plazo que tiene el Servicio para la revisión de las declaraciones. Esta obligación se entiende sin perjuicio del derecho de los contribuyentes de llevar contabilidad en moneda extranjera para otros fines.
 
-El Director Regional podrá autorizar la sustitución de los libros de contabilidad por hojas sueltas, escritas a mano o en otra forma, consultando las garantías necesarias para el resguardo de los intereses fiscales; dichas hojas deberán foliarse con numeración corrida y timbrarse previamente por el Servicio o la Tesorería.
+El Director determinará las medidas de control a que deberán sujetarse los libros de contabilidad y las hojas sueltas que los sustituyan en los casos contemplados en el inciso siguiente.
+
+El Director Regional podrá autorizar la sustitución de los libros de contabilidad por hojas sueltas, escritas a mano o en otra forma, consultando las garantías necesarias para el resguardo de los intereses fiscales.
 
 Sin perjuicio de los libros de contabilidad exigidos por la ley, los contribuyentes deberán llevar los libros adicionales o auxiliares que exija el Director Regional, a su juicio exclusivo, de acuerdo con las normas que dicte el mejor cumplimiento o fiscalización de las obligaciones tributarias.
 
@@ -354,7 +356,7 @@ El plazo de declaración y pago de los diversos impuestos se regirá por las dis
 
 No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
 
-Cuando el plazo de declaración y pago de un impuesto venza en día feriado o en día Sábado, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
+Cuando el plazo de declaración y pago de un impuesto venza en día feriado, en día sábado o el día 31 de diciembre, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
 
 ## Título III
 
@@ -478,7 +480,7 @@ Todo impuesto o contribución que no se pague dentro del plazo legal se reajusta
 
 Los impuestos pagados fuera de plazo, pero dentro del mismo mes calendario de su vencimiento, no serán objeto de reajuste. Sin embargo, para determinar el mes calendario de vencimiento, no se considerará la prórroga a que se refiere el inciso tercero del artículo 36 si el impuesto no se pagare oportunamente.
 
-El contribuyente estará afecto, además, a un interés penal del dos y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
+El contribuyente estará afecto, además, a un interés penal del uno y medio por ciento mensual por cada mes o fracción de mes, en caso de mora en el pago del todo o de la parte que adeudare de cualquier clase de impuestos y contribuciones. Este interés se calculará sobre los valores reajustados en la forma señalada en el inciso primero.
 
 El monto de los intereses así determinados, no estará afecto a ningún recargo.
 
@@ -660,6 +662,8 @@ Con todo, el Director Regional podrá, a su juicio exclusivo, determinar que la 
 
 Los notarios y demás ministros de fe deberán autorizar siempre los documentos a que se refiere este artículo, pero no podrán entregarlos a los interesados ni otorgar copias de ellos sin que previamente se encuentren pagados estos tributos.
 
+En los casos de venta o promesa de venta de bienes corporales inmuebles, o de un contrato general de construcción, la obligación establecida en el inciso primero se entenderá cumplida dejando constancia del número y fecha de la factura o facturas correspondientes.
+
 #### Artículo 76
 
 Los notarios titulares, suplentes o interinos comunicarán al Servicio todos los contratos otorgados ante ellos que se refieran a transferencia de bienes, hipotecas y otros asuntos que sean susceptibles de revelar la renta de cada contribuyente. Todos los funcionarios encargados de registros públicos comunicarán igualmente al Servicio los contratos que les sean presentados para su inscripción. Dichas comunicaciones serán enviadas a más tardar el 1° de Marzo de cada año y en ellas se relacionarán los contratos otorgados o inscritos durante el año anterior.
@@ -829,6 +833,8 @@ Las siguientes infracciones a las disposiciones tributarias serán sancionadas e
 1°.- El retardo u omisión en la presentación de declaraciones, informes o solicitudes de inscripciones en roles o registros obligatorios, que no constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
 2°.- El retardo u omisión en la presentación de declaraciones o informes, que constituyan la base inmediata para la determinación o liquidación de un impuesto, con multa de diez por ciento de los impuestos que resulten de la liquidación, siempre que dicho retardo u omisión no sea superior a 5 meses. Pasado este plazo, la multa indicada se aumentará en un dos por ciento por cada mes o fracción de mes de retardo, no pudiendo exceder el total de ella del treinta por ciento de los impuestos adeudados.
+
+Esta multa no se impondrá en aquellas situaciones en que proceda también la aplicación de la multa por atraso en el pago, establecida en el N° 11 de este artículo y la declaración no haya podido efectuarse por tratarse de un caso en que no se acepta la declaración sin el pago.
 
 El retardo u omisión en la presentación de declaraciones que no impliquen la obligación de efectuar un pago inmediato, por estar cubierto el impuesto a juicio del contribuyente, pero que puedan constituir la base para determinar o liquidar un impuesto, con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
@@ -1042,7 +1048,11 @@ De los Tribunales
 
 El Director Regional conocerá en primera o en única instancia, según proceda, de las reclamaciones deducidas por los contribuyentes y de las denuncias por infracción a las disposiciones tributarias, salvo que expresamente se haya establecido una regla diversa.
 
-Será competente para conocer de las reclamaciones el Director Regional del lugar donde se pagó el impuesto, multa o intereses de que se reclama y, en los demás casos, el del lugar donde deba efectuarse el pago o cumplirse la resolución contra la cual se reclama.
+Será competente para conocer de las reclamaciones, ya sean en contra de liquidaciones, o de giros, o resoluciones, o de los pagos, el Director Regional dentro de cuyo territorio tenga su domicilio el contribuyente que reclame.
+
+El conocimiento de las infracciones a las normas tributarias y la aplicación de las sanciones pecuniarias por tales infracciones, corresponderá al Director Regional que tenga competencia en el territorio donde tiene su domicilio el infractor.
+
+Tratándose de infracciones cometidas en una sucursal del contribuyente, conocerá de ellas el Director Regional que tenga competencia en el territorio dentro del cual se encuentre ubicada dicha sucursal.
 
 #### Artículo 116
 
@@ -1064,7 +1074,9 @@ Corresponderá a todo tribunal resolver en única instancia sobre los impuestos 
 
 Corresponde a las Cortes de Apelaciones conocer en segunda instancia de los recursos de apelación que se deduzcan contra las resoluciones del Director Regional, en los casos en que ellos sean procedentes de conformidad a este Código.
 
-Será competente para conocer de estos recursos la Corte de Apelaciones que ejerza jurisdicción en el territorio en que tenga su domicilio la sede de la Dirección Regional respectiva.
+Conocerá de estos recursos la Corte de Apelaciones que tenga competencia en el territorio de la Dirección Regional que dictó la resolución apelada.
+
+En caso de que la respectiva Dirección Regional abarque un territorio en el cual tengan competencia dos o más Cortes de Apelaciones, conocerá de estos recursos la Corte que tenga competencia en el lugar del domicilio del contribuyente.
 
 Igualmente corresponde a las Cortes de Apelaciones conocer de las apelaciones que se deduzcan contra las sentencias que se dicten de conformidad a los artículos 117° y 118°.
 
@@ -1218,7 +1230,9 @@ En contra de la sentencia de primera instancia no procederá el recurso de casac
 
 #### Artículo 141
 
-De las apelaciones que se deduzcan de acuerdo con este Título, conocerá la Corte de Apelaciones de la jurisdicción del lugar donde se pagó el impuesto, multa o interés de que se reclama y, en lo demás casos, la Corte de Apelaciones del lugar donde deba efectuarse el correspondiente pago o donde deba cumplirse la resolución contra la cual se reclama.
+De las apelaciones que se deduzcan de acuerdo con este Título, conocerá la Corte de Apelaciones que tenga competencia en el territorio de la Dirección Regional que dictó la resolución apelada.
+
+En caso de que la respectiva Dirección Regional abarque un territorio en el cual tengan competencia dos o más Cortes de Apelaciones, se aplicará la norma establecida en el inciso tercero del artículo 120.
 
 #### Artículo 142
 
