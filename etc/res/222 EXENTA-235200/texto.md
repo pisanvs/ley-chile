@@ -1,0 +1,3 @@
+Por resolución exenta Nº222, de 20 de enero de 2005 de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA GALEB LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Huasco Nº86, Barrio Industrial, Antofagasta, II Región, donde podrá procesar, en las líneas de elaboración de Cocido, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 20 de enero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
