@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.175, de 28 de diciembre de 2001, se expropió el lote de terreno Nº21, superficie 782 m2, rol de avalúo en trámite, comuna de El Quisco, para la obra Red Vial Litoral Central Sector 1: Nuevo Camino Costero Acceso a Punta de Tralca Kms. 0.000,00 al 5.622,00, Quinta Región y se acordó el valor de indemnización con su propietario José Miguel Flores Grau, ascendente a la cantidad de $4.332.805.-
+
+Fiscal del Ministerio de Obras Públicas.
