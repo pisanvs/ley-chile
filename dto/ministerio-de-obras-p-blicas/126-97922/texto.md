@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 126, de 13 de febrero de 1998, se expropió el lote de terreno Nº 50, superficie 605 M2., rol de avalúo 2590-57, comuna de San Bernardo, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, Las Acacias - Río Maipo, y se acordó precio de indemnización con el propietario don Carlos Sergio Ruz, ascendente a la cantidad de $25.022.097.
+
+Fiscal del Ministerio de Obras Publicas.
