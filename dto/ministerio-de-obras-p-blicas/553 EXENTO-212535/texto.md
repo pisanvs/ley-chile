@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº553 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº16, superficie 237,00 m2, rol de avalúo Nº72-84, comuna de Futrono, para la obra "Camino Ruta T - 55, Sector Futrono - Llifén, Km. 55,300 a Km. 75,76384, Provincia de Valdivia", X Región y se acordó el valor de la indemnización con su propietario Agrícola Filopulli Limitada, ascendente a la cantidad de $457.700.
+
+Fiscal del Ministerio de Obras Públicas.
