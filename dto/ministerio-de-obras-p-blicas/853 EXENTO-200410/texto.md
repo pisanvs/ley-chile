@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº853 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº12, superficie 4.246,91 m2, Rol Nº308-9, comuna de Melipeuco, IX Región para la obra ''Camino Melipeuco - Icalma, sector Melipeuco - Tracura Km. 97,50000 al Km. 104,2038'', y se acordó el valor de indemnización con su propietario Adán Ceballos Uribe, ascendente a la cantidad de $1.199.969.-
+
+Fiscal del Ministerio de Obras Públicas.
