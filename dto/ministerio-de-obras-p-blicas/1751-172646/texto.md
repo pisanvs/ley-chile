@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.751 de fecha 28 de abril del 2000, se expropió el lote de terreno Nº8, superficie 2.210 m², rol de avalúo 308-89, comuna de Melipeuco, para la obra ''Camino Melipueco-Icalma, Sector Variante Nº2, Km. 30.556 a Km. 30.956'' y se acordó el valor de indemnización con su propietario Abelardo Zúñiga Quijada, ascendente a la cantidad de $304.402.
+
+Fiscal del Ministerio de Obras Públicas.
