@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.381 de fecha 30 de septiembre de 2004, se expropió el lote de terreno Nº 4, superficie 107 m2, Rol Nº 405-97, comuna de Gorbea, IX Región para la obra "Reposición, Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco - Río Bueno Puerto Montt, Camino Rinconada Donguil" y se acordó el valor de indemnización con su propietario José Raúl Solís Urrutia, ascendente a la cantidad de $1.539.389.
+
+Fiscal del Ministerio de Obras Públicas.
