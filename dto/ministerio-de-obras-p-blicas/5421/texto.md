@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.421, de 29 de diciembre del 2000, se expropió el lote de terreno Nº526-B, superficie 50.726 m2., rol de avalúo 2980-50, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector B, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Emeterio Lobos Castañeda, ascendente a la cantidad de $485.794.395.-
+
+Fiscal del Ministerio de Obras Públicas.
