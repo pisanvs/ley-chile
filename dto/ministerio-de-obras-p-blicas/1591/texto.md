@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.591, de 21 de septiembre de 1998, se dejó sin efecto el decreto de dicho Ministerio Nº895, de 30 de junio de 1998, que ordenó la expropiación y aprobó los Planos y Cuadro de Expropiación de los lotes de terreno Nºs. 4, 9, 11, 12-A, 12-B, 13, 15, 19, 31, 34, 36, 37-A, 37-B, 38, 43 y 45, necesarios para la ejecución de la obra Camino Autopista Santiago-San Antonio, sector Enlace Malloco.-
+
+Fiscal del Ministerio de Obras Públicas.
