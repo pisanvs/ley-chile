@@ -1,0 +1,3 @@
+Por Resolución N° 1.495, de 20 de Octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SOCIEDAD COMERCIAL DE PESCADORES ARTESANALES ULTIMA ESPERANZA LIMITADA, R.U.T. N° 78.107.680-5, para un sector ubicado en Bahía Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región, conforme lo dispuesto en el artículo 78, inciso 2°, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de Octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
