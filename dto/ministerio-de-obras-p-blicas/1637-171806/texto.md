@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.637, de 28 de abril del 2000, se expropiaron los lotes terrenos Nºs. 3 y 4, superficies 525 y 401 m² respectivamente, rol de avalúo 490-18, comuna de Loncoche, para la obra Camino Loncoche Calafquén sector Pte. Huiñoco Nº 2 y se acordó precio de la indemnización con su propietario Fidel Galindo Paredes en la cantidad de $1.119.363 para los lotes Nºs. 3 y 4.-
+
+Fiscal del Ministerio de Obras Públicas.
