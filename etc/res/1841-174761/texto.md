@@ -1,0 +1,3 @@
+Por resolución Nº 1.841, de 18 de agosto de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 835 de 1992, de esta Subsecretaría, sólo en cuanto autoriza a PESQUERA EL GOLFO S.A., para operar la nave ''Cristóbal Colón'', en las áreas y recursos que a continuación se indica: a) En el área marítima de la VII y IX Regiones, sobre los recursos Jurel, Machuelo o tritre, Sardina común y Sardina española; b) En el área marítima comprendida entre la VII y IX Regiones, sobre los recursos Agujilla, Dorado, Cojinoba del norte y Camarón nailon.
+
+Valparaíso, 18 de agosto de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
