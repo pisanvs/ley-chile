@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 343 de fecha 27 de febrero del 2004, se expropió el lote de terreno Nº 535, superficie 264 m2, Rol 32-90, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 0,00000 a Km. 12,7000" y se acordó el valor de indemnización con su propietario Nibaldo Antonio Arce Canales, ascendente a la cantidad de $2.301.506.-
+
+Fiscal del Ministerio de Obras Públicas.
