@@ -1,0 +1,3 @@
+Por Resolución No. 360, de 21 de Abril de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, dejase sin efecto la Resolución No. 1.658, de 1989, de esta Subsecretaría, que autorizó a don GONZALO SANTAMARINA CUNEO, R.U.T. No. 9.360.366-4, domiciliado en calle Los Robles, Pasaje 4, casa 135, Isla Teja, Valdivia, para operar un establecimiento de cultivo, en la Ribera Sur de Ensenada San Juan, Comuna de Corral, Provincia de Valdivia, X Región, por renuncia total de su titular, ya individualizado.
+
+Valparaíso, 21 de Abril de 1992.- Andrés Couve Rioseco Subsecretario de Pesca.
