@@ -1,0 +1,3 @@
+Por Resolución N°1.822, de 24 de octubre de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N°769, de 1991, de esta Subsecretaría, que autorizó a YURE VUKIC VUKIC, para instalar y operar un centro de cultivo ubicado en Isla Rosario, Grupo Auchemó, Comuna de Chaitén, Provincia de Palena, X Región, por haberse denegado la respectiva solicitud de concesión de acuicultura.
+
+Valparaíso, 24 de octubre de 1996.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
