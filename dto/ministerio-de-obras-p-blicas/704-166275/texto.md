@@ -1,0 +1,5 @@
+Por decreto MOP Nº704, de 29 de febrero de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº40-C, para la obra:
+
+''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli''. Sector: Km. 506.200,00 al Km. 515.600,00. By Pass Los Angeles, Octava Región, que figura a nombre de Novoa González Eduardo del C., rol de avalúo 1547-206, comuna de Los Angeles, superficie 35 m2. La Comisión de Peritos integrada por los señores Jaime García Molina, Omar Andrés Aspé Neira y Christian Cornelio Scherpenisse Infante, fijó con fecha 29 de noviembre de 1999, el valor provisional de la indemnización en la cantidad de $101.875.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
