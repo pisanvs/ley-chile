@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 356, 08 julio 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Manuel Rodríguez ST 4, Población La Historia, Rol de Avalúo Nº 3114-32, comuna Chiguayante, superficie 125,02 m² de terreno y 73,73 m² de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.155, de aparente dominio de Norma Henriqueta Torres Yáñez, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Hernán Cáceres Moscoso, ingeniero civil, Miguel Bonifetti Dall'Orso, arquitecto y Mario Bellolio Bosticca, arquitecto, según informe de fecha 16 de junio de 2004, fijó monto provisional indemnización en $20.155.838.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
