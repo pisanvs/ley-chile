@@ -1,0 +1,3 @@
+Por resolución exenta Nº 236, de 21 de enero de 2005, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Isla Rocuant s/n, Talcahuano, VIII Región, en la línea de proceso de Salado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de enero de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
