@@ -1,0 +1,3 @@
+Por resolución Nº 250, de 18 de febrero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de las resoluciones Nº 62, de 1990, Nº 1.337, de 1991 y Nº 310, de 1992, todas de esta Subsecretaría, que autorizaron a la ASOCIACION GREMIAL DE PESCADORES ARTESANALES Y GREMIOS AFINES X REGION "LOS LAGOS", para operar dos centros de cultivo, uno ubicado en el estero Rulo y el otro en el estero Huito, ambos situados en la comuna de Calbuco, provincia de Llanquihue, X Región, en virtud de lo dispuesto artículo 7º del D.S. Nº 175 de 1980 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de febrero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
