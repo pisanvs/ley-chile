@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 895 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Casas Viejas del Fundo lo Jelves y Fundo Santa Marta", comuna de Buin, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a parcelas. N°s. 1 a la 10, sitios N°s. 1 al 18 y Reserva Cora del Proyecto de Parcelación "Alborada", formado por predio señalado. Los Derechos de Agua se extraen del canal Quinta de Asociación Canales Unidos de Buin, canal El Bajo derivado del río Maipo, pozo profundo y derrames.- Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
