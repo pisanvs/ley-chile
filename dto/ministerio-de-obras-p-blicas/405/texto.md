@@ -1,0 +1,5 @@
+Por decreto MOP. Nº405, de 31 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº 12, para la ejecución de la obra Camino Ruta H-605 y H-611, Sector Rengo Pelequén, Kms. 0.000 al 5.733,01, que figura a nombre de Carmela Pérez T., rol de avalúo en trámite, comuna de Malloa, VI Región, superficie 70 m2. La comisión de peritos compuesta por los señores Mario Díaz Valenzuela, Eduardo Schonhaut Guendelman y Alejandro Padilla Henríquez, fijó con fecha febrero de 1995, el valor provisional de la indemnización en la cantidad de $590.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
