@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.654 de 30 de noviembre de 2004, se expropió el lote de terreno Nº 1, superficie 828 m², Rol Nº 850-038, comuna de Alto Carmen, III Región para la obra ''Mejoramiento Ruta C-495, Camino Alto del Carmen - Conay, Provincia de Huasco, Región de Atacama, Etapa I'' y se acordó el valor de indemnización con su propietario Luis Alfonso Paredes Campillay, ascendente a la cantidad de $1.267.996.
+
+- Fiscal del Ministerio de Obras Públicas.
