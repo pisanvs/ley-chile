@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 212, de 28 de abril de 1995, se expropió el lote de terreno N° 19, superficie 196,6 m2., rol de avalúo 593-42 comuna de Cerrillos, para la obra Camino Autopista Santiago-San Antonio, sector Empalme I. Riquelme-Bif. Malloco, y se acordó el valor de indemnización con su propietario Aurelio Hidalgo Alvarez, ascendente a la cantidad de $14.239.268.-
+
+Fiscal del Ministerio de Obras Públicas.
