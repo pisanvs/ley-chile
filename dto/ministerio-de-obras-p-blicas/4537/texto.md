@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.537, de fecha 29 de septiembre de 2000, se expropiaron los lotes de terreno Nºs. 101 y 102, superficies 476 y 121 M2., respectivamente, rol de avalúo 86, comuna de Río Hurtado, para la obra ''Camino Ruta D-595 Ovalle - Hurtado, Sector Tranque Recoleta - Samo Alto, Km. 9.780,00a Km. 31.840,00, Etapa III'' y se acordó el valor de indemnización con su propietaria Marisa del Carmen Guerrero Geraldo, ascendente a la cantidad de $1.072.156.-
+
+Fiscal del Ministerio de Obras Públicas.
