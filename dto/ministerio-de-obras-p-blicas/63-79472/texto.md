@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s 57 y 63, de fechas 26 y 27 de febrero de 1992, se expropiaron los lotes N°s. 14 y 20, superficies 330 m2. y 804 m2., roles de avalúos 1737-21 y 2036-6, ambos de la comuna de La Cisterna, para la obra Avenida Américo Vespucio, sector Gran Avenida - Ochagavía y se acordó precio de indemnización con sus propietarios Elvira del Carmen Uribe Jorquera y otros y Ana Candia Canales y otros, ascendente a las cantidades de $ 8.408.880.- y $ 12.109.520.-, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
