@@ -1,0 +1,7 @@
+Por Resolución N° 746, de 25 de Abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIALIZADORA Y EXPORTADORA DE PRODUCTOS DEL MAR PESQUERA CHILOE S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Maipú N° 1524, Punta Arenas, XII Región, donde podrá procesar, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco-refrigerado, Congelado: Bacalao de profundidad, Congrio dorado, Merluza de cola, Merluza del sur, Pejerrey de mar, Raya, Róbalo, Salmón del Atlántico, Salmón plateado, Trucha arcoiris, Almeja, Calamar, Caracol piquilhue, Caracol trophon, Cholga, Chorito, Loco, Ostión del sur, Pulpo, Centolla, Centollón, Krill, Langostino de los canales, Erizo; Deshidratado en Alcohol: Erizo.
+
+Déjase sin efecto las Resoluciones N° 206, de 1988 y N° 606, de 1992, ambas de esta Subsecretaría, en virtud de lo dispuesto en la presente Resolución.
+
+Cadúcase las Resoluciones N° 387, de 1991 y N° 570, de 1994, ambas de esta Subsecretaría, conforme lo dispuesto en el artículo 6° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de Abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
