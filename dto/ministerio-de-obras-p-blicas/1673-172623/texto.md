@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.673 de fecha 28 de abril del 2000, se expropió el lote de terreno Nº2, superficie 508 m², rol de avalúo 431-40, comuna de Illapel, para la obra ''Camino Ruta D-705, Illapel - Combarbalá sector Illapel - Auco'' y se acordó el valor de indemnización con su propietaria Rudelinda del Carmen Osorio López, ascendente a la cantidad de $490.750.
+
+Fiscal del Ministerio de Obras Públicas.
