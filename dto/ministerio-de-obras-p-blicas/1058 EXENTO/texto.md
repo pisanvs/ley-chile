@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.058, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº1-F, superficie 4.820,62 m², rol de avalúo 144-46, comuna de Cochamó, para la obra "Construcción Puente Río Puelo y Accesos, Sector Río Puelo, Km. 27.865 al 29.500" y se acordó el valor de indemnización con su propietario Félix Talismar Alvarado Vera, ascendente a la cantidad de $2.368.305.-
+
+Fiscal del Ministerio de Obras Públicas.
