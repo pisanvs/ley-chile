@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.444, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 5, para la obra Mejoramiento Zanjón de la Aguada III Tramo Kms. 4,408,86 al 10,167,10, que figura a nombre de Inmob. Galizzo Ltda., rol de avalúo 7911-6, comuna de Macul, superficie 1.860,30 m². La Comisión de Peritos fijó con fecha 3 de marzo de 2000, en la cantidad de $42.007.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
