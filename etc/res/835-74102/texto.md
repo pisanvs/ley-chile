@@ -1,0 +1,5 @@
+Por Resolución Nº 835, de 19 de junio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIALIZADORA Y DISTRIBUIDORA SALMONYTRUCHA LIMITADA, para iniciar actividades pesqueras de transformación, en la forma y bajo las condiciones que a continuación se expresan.
+
+La peticionaria podrá instalar y operar una planta ubicada en Hijuela El Porvenir, Ruta 5 Sur Km. 639, Quillén, Lautaro, IX Región, donde podrá procesar en las líneas de elaboración de Congelado, Fresco-refrigerado, Conserva, Salado y Ahumado, los siguientes recursos hidrobiológicos: Salmón cereza, Salmón del Atlántico, Salmón plateado, Salmón rey, Salmón keta, Salmón Rosado, Trucha arcoiris, Pejerrey de mar, Puye.
+
+Valparaíso, 19 de junio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
