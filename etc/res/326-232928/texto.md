@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 326, DE 2004
+
+Por resolución Nº 326, de 3 de noviembre de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la XII Región de Magallanes y Antártica Chilena, se aprobó el Contrato de Concesión, adjudicado mediante resolución exenta Nº 297/2004, del mismo origen, para la instalación y operación de una Planta Revisora Clase B, en la comuna de Punta Arenas, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la XII Región de Magallanes y Antártica Chilena y la concesionaria "Revisiones Técnicas Davison Limitada'', en la misma fecha indicada. El plazo de concesión será de diez años, contado desde la fecha de publicación en el Diario Oficial del presente extracto.-
+
+Gustavo Fernando Faraldo Iriarte, Secretario Regional Ministerial de Transportes y Telecomunicaciones, XII Región de Magallanes y Antártica Chilena.
