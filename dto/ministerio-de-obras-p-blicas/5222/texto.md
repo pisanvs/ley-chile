@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.222, de 30 de noviembre del 2000, se expropió el lote de terreno Nº61-A, superficie 64.199 m2., rol de avalúo 1545-93, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli. By Pass Los Angeles y se acordó el valor de indemnización con su propietario Manuel Hernán Godoy Alvarez, ascendente a la cantidad de $122.861.448.-
+
+Fiscal del Ministerio de Obras Públicas.
