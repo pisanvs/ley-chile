@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.550, de 9 de septiembre de 1999, se expropió el lote de terreno Nº18, superficie 18.800 m², rol de avalúo 511-14, comuna de Constitución, para la obra Camino Ruta M-24-K con Ruta M-50, Sector Accesos Puente Maule en Constitución y se acordó precio de indemnización con su propietario Sociedad Mauricio Muñoz y Compañía Limitada, ascendente a la cantidad de $250.000.000.-
+
+Fiscal del Ministerio de Obras Públicas.
