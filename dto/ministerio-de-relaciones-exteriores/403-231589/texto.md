@@ -12,6 +12,8 @@ Apruébase el siguiente Reglamento de Importaciones para los funcionarios admini
 
 En este mismo plazo los funcionarios citados podrán importar un único automóvil para su uso, cuyo valor FOB no exceda de US$ 1.500 (un mil quinientos dólares) exento de derechos de aduana, impuestos y gravámenes conexos.
 
+Con todo, este plazo podrá ser ampliado por causa de fuerza mayor o circunstancias especiales, previa calificación del Ministerio de Relaciones Exteriores.
+
 2º.- Para los efectos de la concesión de las franquicias a que se refiere el artículo 1º deberán cumplirse los siguientes requisitos:
 
 a) Que el funcionario administrativo o técnico de las Misiones Diplomáticas o Representaciones Consulares de Carrera no sea chileno ni posea residencia en Chile;
