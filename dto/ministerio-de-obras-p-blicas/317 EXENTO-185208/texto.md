@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº317, de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 103-A y 104-A, superficies 1.147,5 m² y 1.012,5 m², rol de avalúo 272-86, comuna de Carahue, para la obra "Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km. 55.438,97 al Km. 69.895,61 y Km. 0.000,00 al Km. 3.927,45" y se acordó el valor de indemnización con su propietario Onofre Segundo Aguilera Muñoz, ascendente a la cantidad de $1.451.796.
+
+Fiscal del Ministerio de Obras Públicas.
