@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA No. 143, DE 1987
+
+Por resolución exenta No. 143 de fecha 16 de enero de 1987 del Subsecretario de Educación Pública subrogante, se aprobó a contar de Agosto de 1986 el plan y programas de estudio de la carrera que se indica, al término de la cual se otorgará el título que se señala, para el Centro de Formación Técnica Instituto Superior de Técnicas de la Comunicación ISTECO de Santiago, cuyo funcionamiento fue autorizado por Decreto Exento de Educación No. 258 de 1986, inscrito en el Registro correspondiente bajo el No. 138: Area: Servicios Carrera: Dirección y Producción de Televisión Título: Director y Productor de Televisión. Para optar al título correspondiente, los alumnos deberán aprobar todas las asignaturas del plan de estudio y cumplir con las normas de evaluación, promoción y titulación aprobadas por la citada resolución para el centro mencionado.
+
+René Salamé Martin, Subsecretario de Educación Pública.
