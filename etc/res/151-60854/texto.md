@@ -1,0 +1,3 @@
+Por Resolución Nº 151, de 31 de enero de 1997 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº 91000469, presentada por TULIO HUMBERTO BARRIENTOS AVENDAÑO, para un sector ubicado en Estero Huildad, Sector Curanue, Comuna de Quellón, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
