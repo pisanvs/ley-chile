@@ -1,0 +1,3 @@
+Por decreto MOP Nº 770, de 31 de marzo de 1999, se expropió el lote de terreno Nº 8, superficie 134 m², rol de avalúo 436-2, comuna de Concepción, para la obra Mejoramiento Autopista Concepción Talcahuano, sector Rotonda Bonilla y Campus San Andrés y se acordó precio de indemnización con su propietario José Gaete Torres, ascendente a la cantidad de $16.855.704.
+
+Fiscal del Ministerio de Obras Públicas.
