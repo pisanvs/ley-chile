@@ -1,0 +1,3 @@
+Por decreto MOP Nº492, de 28 de febrero del 2000, se expropió el lote de terreno Nº442, superficie 100 m², rol de avalúo 7791-10, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Marcela Alejandra Herrera Larenas, ascendente a la cantidad de $6.203.098.-
+
+Fiscal del Ministerio de Obras Públicas.
