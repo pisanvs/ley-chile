@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.514 de fecha 29 de octubre de 2004, se expropiaron los lotes de terrenos Nº s. 18 y 19, superficies 95 y 1.100 m2 respectivamente, rol de avalúo Nº 418-13, comuna de Loncoche, para la obra "Reposición Construcción y Habilitación de Camino para Vialidad Complementaria Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno - Puerto Montt, Camino Collimallín', IX Región y se acordó el valor de la indemnización con su propietario José Belarmino Faúndez Henríquez, ascendente a la cantidad de $1.340.714.
+
+Fiscal del Ministerio de Obras Públicas.
