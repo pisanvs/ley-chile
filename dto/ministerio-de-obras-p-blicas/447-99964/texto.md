@@ -1,0 +1,5 @@
+Por decreto MOP. No. 447, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropió el lote de terreno No. 153, para la obra Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector Km.
+
+21.900,00 al 26.200,00, que figura a nombre de Ortega Benítez Oscar, rol de avalúo 150-423, comuna de Lampa, superficie 4.490 m2. La Comisión de Peritos integrada por la señora Mariela Lillo Felmer y señores Américo Agustín Delucchi Cabaña y Juan Eduardo Espinosa Asenjo, con fecha 14 de noviembre de 1997, fijó el valor provisional de la indemnización en la cantidad de $ 22.450.000.- para el lote No. 153. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
