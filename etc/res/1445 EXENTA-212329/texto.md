@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.445, de 27 de junio de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 93 de 2003, modificada mediante resoluciones Nº 352, Nº 816, Nº 1.107 todas de 2003, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Esfuerzo de la pesca artesanal de merluza del sur en la zona Chiloé-Palena, 2003", en el sentido de señalar que las actividades de investigación autorizadas para el mes de julio de 2003, se realizarán entre el 16 y el 20 de julio, ambas fechas inclusive.
+
+Asimismo, modifícase el numeral 11 letra e) de la resolución Nº 93 de 2003, antes individualizada, en el sentido de incorporar el siguiente inciso 2º: "El Servicio Nacional de Pesca podrá autorizar otros puertos de acreditación, lo que será comunicado oportunamente a los interesados".
+
+Valparaíso, 27 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
