@@ -3852,11 +3852,9 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
-ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
-
-A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
+A.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1994
 
 - Astilleros y Maestranzas de la Armada.
 
@@ -3866,43 +3864,71 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
 - Centro de Información de Recursos Naturales.
 
-- Centro de Investigación Minero y Metalúrgico.
-
 - Comando de Industria Militar e Ingeniería.
 
-- Comercializadora de Trigo S.A. "COTRISA".
+- Comercializadora de Trigo S A "COTRISA".
+
+- Comisión Nacional de Investigaciones Científicas y Tecnológicas
 
 - Corporación de Fomento de la Producción.
 
-- Departamento Bienestar Dirección General de Aeronáutica Civil.
+- Departamento Bienestar Dirección General de Aeronáutica Civil
 
 - Dirección de Aprovisionamiento del Estado.
 
-- Dirección de Bibliotecas, Archivos y Museos.
+- Dirección de Bienestar de Carabineros de Chile.
 
-- Dirección de Bienestar de Carabineros.
+- Dirección de Previsión de Carabineros de Chile.
+
+- Dirección de Sanidad de la Armada
 
 - Dirección General de Crédito Prendario.
 
 - Dirección General de Deportes y Recreación.
 
-- Dirección General de Metro.
-
 - Empresa de Correos de Chile.
 
-- Empresa de Ferrocarriles del Estado.
+- Empresa de Ferrocarriles del Estado
 
-- Empresa de Obras Sanitarias V Región.
+- Empresa de Obras Sanitarias y Región S.A..
+
+- Empresa de Servicios Sanitarios de Antofagasta S.A.
+
+- Empresa de Servicios Sanitarios de Atacama S.A.
+
+- Empresa de Servicios Sanitarios de Aysén S.A.
+
+- Empresa de Servicios Sanitarios de Coquimbo S.A.
+
+- Empresa de Servicios Sanitarios de La Araucanía S.A.
+
+- Empresa de Servicios Sanitarios de Los Lagos S.A.
+
+- Empresa de Servicios Sanitarios de Magallanes S.A.
+
+- Empresa de Servicios Sanitarios de Tarapaca S.A.
+
+- Empresa de Servicios Sanitarios del Bío-Bío S.A
+
+- Empresa de Servicios Sanitarios del Libertador S.A.
+
+- Empresa de Servicios Sanitarios del Maulé S.A.
+
+- Empresa de Transporte Ferroviario S.A.
+
+- Empresa de Transporte de Pasajeros Metro S A.
 
 - Empresa Eléctrica Colbún-Machicura S.A.
 
-- Empresa Eléctrica de Aysén S.A.
+- Empresa Eléctrica de Aysén S A
 
-- Empresa Marítima del Estado.
+- Empresa Eléctrica del Norte Grande S A
 
-- Empresa Metropolitana de Obras Sanitarias.
+- Empresa Marítima S A
 
-- Empresa Nacional de Aronáutica.
+- Empresa Metropolitana de Obras Sanitarias S.A.
+
+- Empresa Nacional de Aeronáutica
 
 - Empresa Nacional de Minería.
 
@@ -3914,6 +3940,8 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
 - Fábrica y Maestranza del Ejército.
 
+- Fondo Nacional de Desarrollo Tecnológico y Productivo.
+
 - Instituto de Fomento Pesquero.
 
 - Instituto de Investigaciones Tecnológicas.
@@ -3922,99 +3950,131 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
 - Instituto Nacional de Normalización.
 
-- Junta de Administración y Vigilancia Zona Franca de Iquique.
-
-- Municipalidad de Arica.
-
-- Municipalidad de Calama.
-
-- Municipalidad de Cerro Navia.
-
-- Municipalidad de Conchalí.
-
-- Municipalidad de Estación Central
-
-- Municipalidad de Isla de Maipo.
-
-- Municipalidad de La Cisterna.
-
-- Municipalidad de La Granja.
-
-- Municipalidad de La Reina.
-
-- Municipalidad de Las Condes.
-
-- Municipalidad de Lo Prado.
-
-- Municipalidad de Machalí.
-
-- Municipalidad de Macul.
-
-- Municipalidad de Maipú.
-
-- Municipalidad de Mariquina.
-
-- Municipalidad de Melipilla.
-
-- Municipalidad de Navarino.
-
-- Municipalidad de Ñuñoa.
-
-- Municipalidad de Peñaflor.
-
-- Municipalidad de Peñalolen.
-
-- Municipalidad de Providencia.
-
-- Municipalidad de Pudahuel.
-
-- Municipalidad de Puerto Montt.
-
-- Municipalidad de Quinta Normal.
-
-- Municipalidad de Rancagua.
-
-- Municipalidad de Renca.
-
-- Municipalidad de San Bernardo.
-
-- Municipalidad de San Joaquín.
-
-- Municipalidad de Santiago.
-
-- Municipalidad de Talagante.
-
-- Municipalidad de Traiguén.
-
-- Municipalidad de Valparaíso.
-
-- Municipalidad de Viña del Mar.
-
-- Polla Chilena de Beneficencia.
-
-- Servicio Bienestar de la Superintendencia de Valores y Seguros.
-
-- Servicio Bienestar Social de la Armada.
+- Polla Chilena de Beneficencia
 
 - Servicio de Bienestar de la Fuerza Aérea de Chile.
 
-- Servicio de Bienestar del Magisterio.
+- Servicio de Bienestar de la Superintendencia de Bancos e Instituciones Financieras
+
+- Servicio de Bienestar de la Superintendencia de Valores y Seguros
+
+- Servicio de Bienestar del Magisterio
+
+- Servicio de Bienestar Social de la Armada.
 
 - Servicio de Cooperación Técnica.
 
-- Sociedad Administradora del Transporte Ltda.
-
 - Sociedad Agrícola SACOR Ltda.
 
-- Sociedad Agrícola y Servicios Isla de Pascua.
+- Sociedad Agrícola y Servicios Isla de Pascua Ltda.
 
 - Sociedad Transporte Marítimo Chiloé - Aysén Ltda.
 
+- Superintendencia de Bancos e Instituciones Financieras.
+
 - Televisión Nacional de Chile.
 
-B.- OTRAS AUTORIZACIONES
+- Transporte por Containers S.A.
 
-- Ministerio de Salud; para invertir los fondos provenientes del Convenio de Donación entre la Agencia Internacional para el Desarrollo (AID) y la República de Chile, según autorización otorgada mediante D.S. N° 3 de Hacienda, de 9 de enero de 1991.
+- Zona Franca Iquique S.A.
+
+B.- INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DE 1993.
+
+Municipalidades de
+
+Arica.
+
+Calama.
+
+Cerro Navia.
+
+Chillán.
+
+Concepción.
+
+Conchalí.
+
+Coyhaique.
+
+El Bosque.
+
+El Monte.
+
+Estación Central.
+
+Isla de Maipo.
+
+La Cisterna.
+
+La Granja.
+
+La Reina.
+
+Las Condes.
+
+Lo Prado.
+
+Machalí.
+
+Macul.
+
+Maipú.
+
+Mariquina.
+
+Melipilla
+
+Navarino.
+
+Ñuñoa.
+
+Penco.
+
+Peñaflor.
+
+Peñalolén.
+
+Providencia.
+
+Pudahuel.
+
+Puerto Montt.
+
+Quinta Normal.
+
+Rancagua.
+
+Renca.
+
+San Bernardo.
+
+San Fernando.
+
+San Joaquín.
+
+Santiago.
+
+Talagante.
+
+Temuco.
+
+Traiguén.
+
+Valparaíso.
+
+Viña del Mar.
+
+Vitacura.
+
+C.- OTRAS AUTORIZACIONES INFORMADAS
+
+Entidad Autorizada hasta el
+
+Empresa Abastecimiento de Zonas Aisladas 30.06.92
+
+Ministerio de Vivienda y Urbanismo 30.11.92
+
+Agencia de Cooperación Internacional 31.12.92.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
