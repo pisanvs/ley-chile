@@ -3368,13 +3368,15 @@ De conformidad con las autorizaciones que el referido Ministerio ha puesto en co
 
 ANEXO N° 1
 
-INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES DE CAJA EN VALORES DEL MERCADO DE CAPITALES
+INSTITUCIONES Y EMPRESAS PUBLICAS AUTORIZADAS PARA INVERTIR EXCEDENTES ESTACIONALES
+
+DE CAJA EN VALORES DEL MERCADO DE CAPITALES.
 
 A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
-1.- Empresa Nacional del Petróleo
+1. -Empresa Nacional del Petróleo.
 
-2.- Empresa Nacional de Minería.
+2.- Empresa Nacional de Mineria.
 
 3.- Empresa Portuaria de Chile.
 
@@ -3384,7 +3386,7 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
 6.- Empresa de Correos de Chile.
 
-7.- Empresa Metropolitana de Obras Sanitarias
+7.- Empresa Metropolitana de Obras Sanitarias.
 
 8.- Empresa de Obras Sanitarias V Región.
 
@@ -3416,7 +3418,7 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
 22.- Instituto de Fomento Pesquero.
 
-23.- Instituto de Investigaciones Tecnológicas
+23.- Instituto de Investigaciones Tecnológicas.
 
 24.- Instituto Nacional de Normalización.
 
@@ -3438,75 +3440,87 @@ A.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1992.
 
 33.- Junta de Administración y Vigilancia Zona Franca de Iquique.
 
-34.- Empresa Nacional de Aeronática,
+34.- Empresa Nacional de Aeronáutica.
 
 35.- Astilleros y Maestranzas de la Armada.
 
 36.- Fábrica y Maestranza del Ejército.
 
-37.- Departamento Bienestar Dirección General de Aeronáutica Civil,
+37.- Departamento Bienestar Dirección General de Aeronáutica Civil.
 
-38.- Servicio Bienestar Social de la Armada
+38.- Servicio Bienestar Social de la Armada.
 
 39.- Dirección de Bienestar de Carabineros.
 
-40.- Carabineros de Chile, Imprenta
+40.- Carabineros de Chile, Imprenta.
 
 41.- Servicio de Bienestar del Magisterio.
 
-42.- Servicio Bienestar de la Superintendencia de Valores y Seguros
+42.- Servicio Bienestar de la Superintendencia de Valores y Seguros.
 
-43.- Comando de Industria Militar e Ingeniería
+43.- Comando de Industria Militar e Ingeniería.
 
-B.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1991.
+44.- Servicio de Bienestar de la Fuerza Aérea de Chile.
 
-44.- Municipalidad de Santiago.
+45.- Municipalidad de Mariquina.
 
-45.- Municipalidad de Las Condes.
+## Capítulo 2-11
 
-46.- Municipalidad de Machalí.
+Pág. 2
 
-47.- Municipalidad de Viña del Mar
+B.- INSTITUCIONES CUYA AUTORIZACION RIGE HASTA EL 28 DE FEBRERO DE 1991
 
-48.- Municipalidad de Providencia
+46.- Municipalidad de Santiago.
 
-49.- Municipalidad de Peñalolén
+47.- Municipalidad de Las Condes.
 
-50.- Municipalidad de Cerro Navia
+48.- Municipalidad de Machalí.
 
-51.- Municipalidad de Lo Prado
+49.- Municipalidad de Viña del Mar.
 
-52.- Municipalidad de Pudahuel
+50.- Municipalidad de Providencia.
 
-53.- Municipalidad de Estación Central
+51.- Municipalidad de Peñalolen.
 
-54.- Municipalidad de La Cisterna
+52.- Municipalidad de Cerro Navia.
 
-55.- Municipalidad de San Joaquín
+53.- Municipalidad de Lo Prado.
 
-56.- Municipalidad de Rancagua
+54.- Municipalidad de Pudahuel.
 
-57.- Municipalidad de Arica
+55.- Municipalidad de Estación Central.
 
-58.- Municipalidad de Valparaíso
+56.- Municipalidad de La Cisterna.
 
-59.- Municipalidad de Renca.
+57.- Municipalidad de San Joaquín.
 
-60.- Municipalidad de Maipú.
+58.- Municipalidad de Rancagua.
 
-61.- Municipalidad de San Bernardo
+59.- Municipalidad de Arica.
 
-62.- Municipalidad de Talagante
+60.- Municipalidad de Valparaíso.
 
-63.- Municipalidad de Ñuñoa
+61.- Municipalidad de Renca.
 
-64.- Municipalidad de Quinta Normal
+62.- Municipalidad de Maipú.
 
-65.- Municipalidad de Macul
+63.- Municipalidad de San Bernardo.
 
-66.- Municipalidad de Puerto Montt
+64.- Municipalidad de Talagante.
 
-67.- Municipalidad de Melipilla.
+65.- Municipalidad de Ñuñoa.
+
+66.- Municipalidad de Quinta Norma.
+
+67.- Municipalidad de Macul.
+
+68.- Municipalidad de Puerto Montt.
+
+69.- Municipalidad de Melipilla.
+
+70.- Municipalidad de La Reina.
+
+71.- Municipalidad de La Granja.
 
 CAPITULO 2-12 (Bancos y Financieras)
 
@@ -8264,41 +8278,107 @@ por adquisición de créditos a instituciones en liquidación", a que se refiere
 
 numeral 7.5 antes citado.
 
-CAPITULO 8-8 (Bancos y Financieras).
+CAPITULO 8-8 (Bancos y Financieras)
 
-MATERIA:
+MATERIA
 
-CRÉDITO A INSTITUCIONES PUBLICAS. INSTRUCCIONES DEL MINISTERIO DE ECONOMÍA,
+CREDITO A INSTITUCIONES PUBLICAS. AUTORIZACION DE LOS MINISTROS DE HACIENDA Y DE ECONOMIA, FOMENTO Y RECONSTRUCCION.
 
-FOMENTO Y RECONSTRUCCIÓN.
+Las empresas en que el Estado, directa o indirectamente, tiene una participación igual o superior al 50% del capital social, requieren, según las disposiciones del artículo 44° del D.L. N° 1.263, de 1975, complementado por el artículo 15° de la Ley N° 18.382, de la autorización previa de los Ministros de Hacienda y de Economía, Fomento y Reconstrucción para iniciar actos
 
-Por Circular N° 8 de fecha 2 de octubre de 1975, el Ministerio de Economía,
+administrativos que puedan comprometer el crédito público.
 
-Fomento y Reconstrucción reiteró la prohibición a las empresas del Estado de
+En el caso de la Corporación Nacional del Cobre de Chile, la referida autorización debe ser otorgada por el Ministro de Hacienda, de acuerdo a lo prescrito en el D.L. N° 1.350, de 1976, orgánico de esa Corporación.
 
-solicitar nuevos créditos, inclusive prórrogas de compromisos financieros, tanto
+A fin de dar cumplimiento a las disposiciones indicadas, las instituciones financieras sólo podrán otorgar créditos a las empresas individualizadas en el Anexo N° 1 adjunto, cuando éstas demuestren contar con la autorización de que se trata, la que deberá quedar en poder del banco o sociedad financiera junto con los demás antecedentes del crédito, para las comprobaciones a que haya lugar.
 
-en el sistema financiero nacional como internacional, sin el Visto Bueno escrito
+ANEXO N° 1
 
-previo de ese Ministerio; responsabilizando del cumplimiento de estas normas
+EMPRESAS DEL ESTADO
 
-tanto a los directores y ejecutivos de dichas empresas como a los de las
+-Agrícola y Servicios Isla de Pascua Ltda.
 
-instituciones financieras concurrentes que deben exigir dicha autorización
+-Astilleros y Maestranzas de la Armada.
 
-previa.
+-Carbonífera Victoria de Lebu S.A.
 
-Para dar cumplimiento a estas disposiciones, las instituciones financieras que
+-Comercializadora de Trigo S.A.
 
-fiscaliza este Organismo deben exigir la autorización de que se trata en toda
+-Corporación Nacional del Cobre de Chile Empremar Sur S.A.
 
-solicitud de crédito de las empresas autónomas del Estado, centralizadas o
+-Empresa Almacenadora de Combustible Ltda.
 
-descentralizadas y entidades públicas o privadas en que el Estado o sus
+-Empresa de Abastecimiento de Zonas Aisladas.
 
-servicios, instituciones o empresas, tengan aportes mayoritarios o en igual
+-Empresa de Correos de Chile Empresa de los Ferrocarriles del Estado.
 
-proporción.
+-Empresa de Obras Sanitarias V Región S.A.
+
+-Empresa de Servicios Sanitarios de Antofagasta S.A.
+
+-Empresa de Servicios Sanitarios de Atacama S.A.
+
+-Empresa de Servicios Sanitarios de Aysén S.A.
+
+-Empresa de Servicios Sanitarios de Coquimbo S.A.
+
+-Empresa de Servicios Sanitarios de La Araucanía S.A.
+
+-Empresa de Servicios Sanitarios de Los Lagos S.A.
+
+-Empresa de Servicios Sanitarios de Magallanes S.A.
+
+-Empresa de Servicios Sanitarios de Tarapacá S.A.
+
+-Empresa de Servicios Sanitarios del Bío- Bío S.A.
+
+-Empresa de Servicios Sanitarios del Libertador S.A.
+
+-Empresa de Servicios Sanitarios del Maulé S.A.
+
+-Empresa de Transporte de Pasajeros Metro S.A.
+
+-Empresa de Transporte Ferroviario S.A.
+
+-Empresa Eléctrica Colbún Machicura S.A.
+
+-Empresa Eléctrica de Aysén S.A.
+
+-Empresa Marítima S.A.
+
+-Empresa Metropolitana de Obras Sanitarias S.A.
+
+-Empresa Minera Aysén Ltda.
+
+-Empresa Nacional de Aeronáutica Empresa Nacional de Minería.
+
+-Empresa Nacional del Carbón Empresa Nacional del Petróleo
+
+-Empresa Periodística La Nación S.A.
+
+-Empresa Portuaria de Chile Fábrica y Maestranzas del Ejército
+
+-Isapre Ferrosalud S.A.
+
+-Petrox S.A.
+
+-Refinería de Petróleo.
+
+-Polla Chilena de Beneficencia S.A.
+
+-Radio Nacional de Chile.
+
+-Refinería de Petróleo Concón S.A.
+
+-Sociedad Agrícola Corfo Ltda.
+
+-Sociedad Transporte Marítimo Chiloé-Aysén Ltda.
+
+-Televisión Nacional de Chile
+
+-Transcontainer S.A.
+
+-Zona Franca de Iquique S.A.
 
 CAPITULO 8-9 (Bancos y Financieras)
 
