@@ -1,0 +1,3 @@
+Por resolución Nº513, de 8 de abril de 1998, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura Nº95110049, presentada por PEDRO JAIME BARRIA PEREZ, para operar un centro de cultivo en Norte Isla Garrao, comuna de Cisnes, provincia de Aysén, XI Región, conforme lo dispuesto en el artículo 67, inciso 5º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
