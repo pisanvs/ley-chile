@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 176 de 14 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento proporcionales que corresponden a sector excluido y sector expropiado predio "Parcelas Número Uno, Dos y Tres del Plano de División de la Porción Oriente de la Hijuela Número Once del Antiguo Fundo "Los Quillayes" de la comuna de Puente Alto, Región Metropolitana; y derechos aprovechamiento de aguas que corresponden a las parcelas N°s 4 a la 6, del proyecto de parcelación "Las Torres" formado por predio señalado. Los derechos de agua se extraen del Canal Maipo.- Publicación hecha conforme Art. 13, Ley N° 18.377.-
+
+Director Ejecutivo.
