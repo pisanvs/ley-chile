@@ -2258,7 +2258,9 @@ La reajustabilidad de los pactos, al igual que las demás operaciones de crédit
 
 Los bancos podrán adquirir o ceder documentos en moneda extranjera mediante pactos que se solucionen en la misma u otra moneda, incluyendo la moneda chilena.
 
-Las sociedades financieras no podrán realizar pactos de compra o venta pagaderos en moneda extranjera.
+Asimismo, los bancos podrán realizar pactos de compra o venta pagaderos en moneda extranjera, con instrumentos expresados en la misma moneda o en otra distinta, incluida la moneda chilena.
+
+Como es natural, los pactos, en tanto créditos otorgados u obtenidos en moneda extranjera, quedan sujetos a las disposiciones sobre operaciones de cambio del Banco Central de Chile, entre ellas las del Capítulo XIII del Compendio de Normas de Cambios Internacionales cuando se trate de ventas con pacto efectuadas con entidades del exterior.
 
 2.7. Contratos y cláusulas.
 
