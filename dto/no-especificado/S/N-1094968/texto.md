@@ -1,0 +1,19 @@
+Restitucion de las provincias de la Intendencia de Concepcion al Estado chileno.- Decreto de amnistía.
+
+El Director Supremo del Estado de Chile, de acuerdo con el Excmo. Senado, declara lo siguiente:
+
+1.° Todas las provincias i habitantes que comprende la Intendencia de Concepcion, quedan restituidas a la union política i moral del Estado chileno, i por consiguiente existe la mas completa i sincera amistad, i olvido jeneral de cuanto haya precedido sobre opiniones políticas hasta la época de la restitucion de esas provincias. Todo habitante que exista en ellas, i no se encuentre actualmente armado contra la causa del Estado, no debe responder a ningun majistrado, ni particular i de su anterior conducta pública, i tiene derecho de reconvenir ante los jueces a cualquiera persona que le consulte o recuerde sus anteriores operaciones públicas, para que sea castigado con la pena que señale la lei a las injurias graves.
+
+2.° No se confiscará ni secuestrará propiedad alguna de habitantes de Concepcion que se hayan retirado involuntariamente con el enemigo, i existan bajo su dominio, interin no conste de un modo legal, que han tomado las armas contra la causa de la patria en esta última campaña; o que pudiendo no se restituyan a sus hogares dentro de treinta dias despues de la publicacion de esta amnistía.
+
+3.° Todo individuo que habiendo tomado las armas, o declarádose ajente principal de la ejecucion de los males inferidos al Estado, o a sus habitantes, fugase del dominio del enemigo, i se restituyese a las provincias restauradas, será acreedor a toda la consideracion del Gobierno; a cuyo efecto no se enajenarán bienes algunos de los susodichos, por el mismo término de los treinta dias, i bajo de exactos inventarios i seguras fianzas, quedarán entretanto en depósito de sus mismas familias, o personas que quisiesen hacerse cargo de ellos a nombre del ausente.
+
+4.° Todo militar i paisano, que no siendo habitante de Chile, se pasase del dominio del enemigo a nuestro Ejército i provincias, despues de ser atendido conforme, a su mérito i grado, tendrá la libertad de restituirse a España o a cualquiera Estado, o provincia estranjera o de América, que no se halle ocupada por el enemigo, o si elijiere mas bien conservarse entre nosotros, se le considerará i se atenderá como un vecino benemérito de Chile.
+
+5.° No existirá en la provincia de Concepcion tribunal de vijilancia, i de calificacion, ni otro alguno que se dirija a examinar la conducta pasada, ni molestar en lo presente a los ciudadanos, quedando al cuidado de los jefes ordinarios i naturales de las provincias, todo lo que pertenece a la política i seguridad pública, conforme a la Constitucion i a las leyes.
+
+6.° Todo habitante que fuese molestado, o agraviado con la infraccion de esta amnistía, tiene libertad para reclamar contra sus jueces, u opresores, i en el caso que se le impida, puede hacerlo cualquier habitante a las altas majistraturas del Estado, seguro de que si lo pide se ocultará su nombre, interin no resulte un falso i criminal delator, i con la sólida confianza de que será escarmentado completamente todo abuso de los jefes, majistrados i perseguidores.
+
+7.° El presente Senado-consulto i decreto de amnistía, se imprimirá en todos los papeles públicos, se publicará por bando, i se fijará en todas las villas cabeceras, iglesias i capillas de la Intendencia de Concepcion, i se repartirá a todos los puntos i personas que hallasen por conveniente aquel Intendente, i los jefes del Ejército.
+
+Palacio Directorial de Santiago de Chile, ocho de Febrero de mil ochocientos diez i nueve.- Bernardo O'Higgins.- Joaquin de Echeverría.
