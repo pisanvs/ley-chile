@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 116, de 28 de febrero de 2001, se expropió el lote de terreno Nº 510-3, superficie 24 m², Rol de avalúo 2925-13, comuna de Puente Alto para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A:, Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con sus propietarias Ximena Beatriz Briones Vergara y otras, ascendente a la cantidad de $864.921.-
+
+Fiscal del Ministerio de Obras Públicas.
