@@ -1,0 +1,11 @@
+Contribucion de Alcabala
+
+Señor Gobernador Intendente:
+
+El fiscal opina que el artículo 13 del reglamento publicado para la alcabalatoria de esta capital cuando dice: «los frutos i efecto del Estado, etc.» iguala todos los puntos que comprende el Estado i que en aquella espresion lo mismo se incluye Renca que Coquimbo. Cree el que fiscaliza que este artículo solo contiene dos exenciones: 1.a De los frutos i efectos estranjeros que no adeudan la alcabala del viento, porque, ésta es limitada a los frutos i efectos del Estado; 2.a De todos los frutos i efectos a que en los anteriores artículos se ha designado especial tarifa, pues a éstos solo debe cobrarse aquélla, a distincion de los demas frutos i efectos del Estado que adeudan un 6 por ciento. El administrador de aduana dice, que el vino solo debe pagar el real designado, cuando proceda de las haciendas i chacras de este correjimiento; pero el reglamento del Senado i bajo el cual se ha hecho el remate, no hace tal distincion; las leyes no pueden interpretarse, ni restrinjirse por los ejecutores i mucho menos por lo odioso, pues así está decidido en el derecho. Si se admitiera esta distincion en el vino, tambien debiera adoptarse en el charqui, grasa, sebo, etc., pues tambien se cosechan estos frutos en el correjimiento de Santiago i entonces una carga de sebo procedente de Maule adeudaría mas de ocho reales (pues a tanto ascenderia el 6 por ciento de 4 quintales que contiene cada carga de sebo) en lugar de cuatro reales que le designa el reglamento i sobre lo cual no cree que alterque el subastador: en esta virtud cree el fiscal que solo adeudan el seis por ciento los efectos que no están espresados en el reglamento con especial tarifa, sea cual fuere su procedencia dentro del territorio del Estado.
+
+Sírvase V.S. mandar se imprima en la Gazeta la resolucion que se tomare sobre este particular para que sirva de regla jeneral.- Santiago, Enero 28 de 1820.- Vial.
+
+Santiago, Enero 28 de 1820.- Téngase por resolucion definitiva el dictámen del señor fiscal, i elévese en la forma de estilo al Excmo. Supremo Gobierno, para que siendo de la aprobacion de S.E. se publique en la Gazeta Ministerial.- Aguirre.- Araos.
+
+Santiago, Febrero de 1820.- Apruébase e imprímase.- O'Higgins.- Cruz.-
