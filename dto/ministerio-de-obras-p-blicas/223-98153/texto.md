@@ -1,0 +1,3 @@
+Por decreto MOP Nº223, de 27 de febrero de 1998, se expropiaron los lotes de terreno Nºs3, 4, 5, 6, 7, 8, 9, 10, 17, 18 y 19, superficies 822, 974, 787, 1.450, 380, 731, 187, 800, 520, 816 y 502 m2. respectivamente, rol de avalúo 117-9, comuna de Máfil, para la obra Camino Máfil-Cayumapu, Sector Máfil-Cayumapu y se acordó precio de indemnización con su propietario Mirta Estela Machado Martínez y otros, ascendente a la cantidad de $4.765.0454.-
+
+Fiscal del Ministerio de Obras Públicas.
