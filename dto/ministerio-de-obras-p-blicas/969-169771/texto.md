@@ -1,0 +1,3 @@
+Por decreto MOP Nº969, de 30 de marzo del 2000, se expropió el lote de terreno Nº107-C, superficie 4.107,0 m2., rol de avalúo 251-29, comuna de Lautaro, para la obra Concesión Internacional Ruta 5. Tramo: Collipulli-Temuco, Novena Región, y se acordó el valor de indemnización con su propietaria Sociedad Agroindustrial Forestal y Servicios de Maquinarias Trapananda Limitada, ascendente a la cantidad de $34.146.586.-
+
+Fiscal del Ministerio de Obras Públicas.
