@@ -1,0 +1,3 @@
+Por resolución Nº 1.973, de 6 de octubre de 1999, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 1.302 de 1990 y Nº 386 de 1991, de esta Subsecretaría, que autorizaron a SOCIEDAD PESQUERA SAN PABLO LIMITADA, para operar la nave ''San Pablo II'', conforme lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 6 de octubre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
