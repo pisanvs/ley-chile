@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº312 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº59-B, superficie 402 m², rol de avalúo Nº155-21, comuna de Portezuelo, para la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Km. 6.900.00 a Km. 28.833.35", VIII Región y se acordó el valor de la indemnización con su propietario Jorge Humberto Ortega Ortega, ascendente a la cantidad de $371.252.-
+
+Fiscal del Ministerio de Obras Públicas.
