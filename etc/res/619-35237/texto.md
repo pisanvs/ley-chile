@@ -1,0 +1,3 @@
+Por Resolución N° 619, de 8 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar del 10 de marzo de 1996, el plazo otorgado a PESQUERA MAR S.A., para iniciar las actividades pesqueras autorizadas por Resoluciones N° 168, de 1985 y N° 1.676, de 1989, ambas de esa Subsecretaría, por haberse acreditado la existencia de una fuerza mayor.
+
+Valparaíso, 8 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
