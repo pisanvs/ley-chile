@@ -1,0 +1,1 @@
+Sueldos de los empleados de los Ministerios.
