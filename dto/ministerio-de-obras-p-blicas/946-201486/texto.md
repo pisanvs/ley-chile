@@ -1,0 +1,3 @@
+Por decreto MOP Nº946, de fecha 31 de mayo de 2002, se expropió el lote de terreno Nº12, superficie 8.904 m2, rol de avalúo 138-49, comuna de Chonchi, X Región, para la obra ''Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 al 1.215,004'' y se acordó el valor de indemnización con su propietario Julio Dagoberto Aguilar Aguilar, ascendente a la cantidad de $4.247.715.-
+
+Fiscal del Ministerio de Obras Públicas.
