@@ -1,0 +1,3 @@
+Por decreto MOP Nº993, de 30 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº26, para la obra Camino Tirúa Trovolhué-Carahue Kms. 4.350 al 6.360, que figuran a nombre de Juan Se. Nahuelpan Millanao, rol de avalúo 524-241, comuna de Tirúa, VIII Región, superficie 1.360 m². La Comisión de Peritos compuesta por los señores Ramón Jofré Soto, José Manuel Gálvez Alegría y Luis Soto Abarca, fijó con fecha 8 de abril de 1996, en la cantidad de $483.080. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
