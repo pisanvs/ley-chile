@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN CAMBIO SUJETO IVA
+
+La Dirección Regional Puerto Montt del S.I.I., por resolución Nº Ex-914 de 26 de diciembre de 1997, excepciona a contar del 1º del mes siguiente al de esta publicación a Marcelo Eduardo Hofmann Niklitschek, RUT Nº 7.929.432-2 del régimen de Cambio de Sujeto de IVA establecido en la resolución Nº Ex-5550 de la Dirección Nacional, publicada en el Diario Oficial del día 3 de diciembre de 1996 y prorrogada por resolución Nº Ex-5916 publicada en el Diario Oficial del día 2 de diciembre de 1997.
