@@ -1,0 +1,5 @@
+Por resolución No. 840 de 02 de Septiembre de 1992, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase a SOCIEDAD COMERCIAL CONSERVERA SAN RAFAEL LTDA., R.U.T. No. 79.531.600-0, domiciliada en la ciudad de Calbuco, calle San Rafael s/N°, para ampliar actividades pesqueras que tiene autorizadas por resolución No. 604, de 1984, de esta Subsecretaría, en orden a operar una planta industrial en la Xª. Región, ubicada en calle San Rafael s/N° localidad de San Rafael, Comuna de Calbuco, donde procesará en las líneas de elaboración de congelado y conservas, el siguiente recurso hidrobiológico: Congelado y Conservas: Almeja.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 02 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
