@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.111 de 30 de julio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 79, para la obra: Camino Ruta L-75 sector: El Ajial - Las Camelias Tramo Km. 6,320.00 a Km. 23,400.00, que figura a nombre de Basoalto Vallejos María, rol de avalúo 502-79, Comuna de Retiro, VII Región, superficie 1.084 m2. La Comisión de Peritos, fijó con fecha 3 de marzo de 2000, en la cantidad de $1.253.600.-, para el lote 79. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
