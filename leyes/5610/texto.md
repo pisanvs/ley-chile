@@ -1,0 +1,1 @@
+Libera de derechos de internación y estadísticos, las maquinarias, útiles y herramientas destinados a la instalación de hilanderías de algodón.
