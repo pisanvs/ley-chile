@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.166, de 4 septiembre de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Caleta Angosta, III Región, individualizada en el artículo 1º del decreto exento Nº619 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES RIBEREÑOS DE CARRIZAL BAJO Y LOS POZOS " CARPOZ" .
+
+Valparaíso, 4 de septiembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
