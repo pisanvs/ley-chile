@@ -1,0 +1,3 @@
+Por Resolución N° 441, de 25 Junio de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto la Resolución N° 299, de 1990, de esta Subsecretaría, que autorizó a don JOSE MARIO NIETO PAREDES, R.U.T. N° 3.623.867-4, para operar un establecimiento de cultivo en Sector de Isla Tenglo, Comuna de Puerto Montt, Provincia de Llanquihue, Región X, por renuncia total de su titular, ya individualizado.-
+
+Valparaíso, 25 de junio de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
