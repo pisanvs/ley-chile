@@ -1,0 +1,3 @@
+Por decreto MOP Nº 634, de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 16, superficie 5.241 m², rol de avalúo 138-51, comuna de Chonchi, para la obra "Camino Ruta 5, Sector Chonchi - Tara, Km. 1.205,160 a Km. 1.215,004" y se acordó el valor de indemnización con su propietario Edith del Carmen Quelin Quelin, ascendente a la cantidad de $6.286.528.-
+
+Fiscal del Ministerio de Obras Públicas.
