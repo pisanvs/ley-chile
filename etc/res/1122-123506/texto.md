@@ -1,0 +1,5 @@
+Por resolución Nº 1.122, de esta Subsecretaría, modifícase la resolución Nº 1.094 de 1998, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de Referencia del Proyecto FIP Nº 98-05 denominado ''Prospección del Recurso Orange roughy y su fauna acompañante entre la I y la X Región'', en el sentido de sustituir su numeral 6º por el siguiente:
+
+''6.- En cumplimiento del objetivo de la presente pesca de investigación el Instituto podrá extraer, con la nave ''Betanzos'', los siguientes límites máximos de captura por cada una de las áreas definidas en el numeral 3, de la especie objetivo y su fauna acompañante, pudiendo disponer de las capturas una vez recopilada la información necesaria para el cumplimiento de los objetivos del estudio: Area A: 100 toneladas; Area B: 100 toneladas; Area C: 40 toneladas; Area D: 40 toneladas; Area E: 40 toneladas; Area F: 40 toneladas; Area G: 40 toneladas.''.
+
+Valparaíso, 5 de agosto de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
