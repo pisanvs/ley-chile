@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.235, de 24 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 4 y 12, para la obra Ruta N-545, Chillán-Tanilvoro, sector Chillán-Universidad Adventista, Km. 0.000.00 a Km.
+
+8.000.00, que figuran a nombre de Suc. Henríquez Quezada y María Susana Claro San Martín, sin rol de avalúo y 3198-7, comuna de Chillán, superficies 23 y 94 m2. respectivamente. La Comisión de Peritos compuesta por los señores Ramón Jofré Soto, José Manuel Gálvez Alegría y Luis Soto Abarca, fijó con fecha 15 de junio de 1998, los valores provisionales de las indemnizaciones en las cantidades de $140.500.- para el lote Nº 4 y $329.000.- para el lote Nº 12. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
