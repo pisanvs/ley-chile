@@ -1,0 +1,3 @@
+Por decreto MOP Nº 202, de 29 de enero de 1999, se expropió el lote de terreno Nº 59-B, superficie 869 m², rol de avalúo 955-12, comuna de Bulnes, para la obra Concesión Internacional Ruta 5, Tramo Chillán-Collipulli, Sector 1, VIII Región y se acordó el valor de indemnización con su propietario Fernando Cabrer Micono, ascendente a la cantidad de $2.068.473.-
+
+Fiscal del Ministerio de Obras Públicas.
