@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución Nº 36, de fecha 23 de Noviembre de 1977, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VII Región, se autorizó a la Sociedad Albornoz Hermanos y Cía. Ltda., para atender el recorrido de transporte de pasajeros entre Talca - Pencahue - Las Tizas - Corinto - El Estero - Cruce Matancilla - Pencahue - Talca y viceversa. En Grob. Teniente Coronel de Carabineros, Secretario Renal Ministerial de Transportes y Telecomunicaciones, VII Región. este servicio regirán las tarifas que correspondan por aplicación del decreto supremo Nº 165, de 6 de Mayo de 1977, publicado en el Diario Oficial, de 7 de Mayo de 1977, del Ministerio de Transportes, siendo obligación de los interesados llevar en el interior de sus vehículos un cartel impreso que las indique, el que será visado por la Secretaría Regional Ministerial, o Junta Provincial Reguladora del Tránsito que corresponda.
+
+Osvaldo Octavio Leyton Grob, Teniente Coronel de Carabineros, Secretario Regional Ministerial de Transportes y Telecomunicaciones, VII Región.
