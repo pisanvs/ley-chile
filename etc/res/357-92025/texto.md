@@ -1,0 +1,3 @@
+Por Resolución No. 357 de 19 de abril de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en calle Santa Isabel No. 0432, presunto rol avalúos 3502-37 comuna Providencia, aparentemente dominio de doña Ernanda del Valle Lema. Comisión integrada por peritos Sres. Luis Rojas Quezada, constructor civil, Jorge Navarro Navarrete, arquitecto y Emilio Recabarren Solar, ingeniero civil, según informe de 21 de diciembre de 1988, fijó monto provisional indemnización en $ 2.382.400.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
