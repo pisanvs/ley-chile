@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 116, de 25 de mayo de 1987, se expropió el lote de terreno No. 1, superficie 18.400 m2., rol de avalúo 1125-21, comuna de Valdivia. Obra Mejoramiento de los Sistemas de Regulación y Distribución del Servicio de Agua Potable de Valdivia, X Región y se acordó el precio de indemnización con su propietaria doña María Magdalena Muñoz Duarte, ascendente a la suma de $ 236.379.-
+
+Fiscal del Ministerio de Obras Públicas.
