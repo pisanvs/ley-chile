@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.039, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº1-C, superficie 72 m², rol de avalúo Nº2024-499, comuna de Melipilla, Región Metropolitana, para la obra ''Camino Melipilla-San Antonio, Sector Puente Pangue, Km. 297,00 al 704,00'' y se acordó el valor de indemnización con su propietario don Juan Guillermo Fabio Gómez, ascendente a la cantidad de $1.285.508.-
+
+Fiscal del Ministerio de Obras Públicas.
