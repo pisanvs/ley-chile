@@ -1,0 +1,1 @@
+Establece normas aclaratorias en relación con el funcionamiento de los establecimientos educacionales dependientes del Ministerio de Educación Pública, y sobre compatibilidad entre los cargos docentes y administrativos que señala
