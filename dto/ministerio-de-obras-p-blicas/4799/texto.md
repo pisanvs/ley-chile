@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.799, de 31 de octubre del 2000, se expropió el lote de terreno Nº132-B23, superficie 422 m2., rol de avalúo 106-11, comuna de Pemuco, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Octava Región y se acordó el valor de indemnización con su propietario Mauricio Alejandro Sandoval Carrasco, ascendente a la cantidad de $2.344.210.-
+
+Fiscal del Ministerio de Obras Públicas.
