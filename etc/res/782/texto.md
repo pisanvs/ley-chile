@@ -1,0 +1,3 @@
+Por Resolución N° 782 de 16 de septiembre de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, de parte del inmueble ubicado en Avda. Santa Rosa N° 9189, presunto rol de avalúos N° 1850-4 comuna de San Ramón, aparente dominio de Padres Franciscanos, Comisión integrada por peritos Sres. René Ureta Koster, arquitecto, Sergio Rojas Ibáñez, ingeniero civil y Luis Mercado Argomedo, constructor civil, según informe de 30 de junio de 1993, fijó monto provisional indemnización en $19.283.600.- pagadera al contado.-
+
+Directora SERVIU Metropolitano.
