@@ -1,0 +1,3 @@
+Por resolución Nº2.696, de 18 de noviembre de 2002, de esta Subsecretaría, autorízase a INDUSTRIAL BAHIA MANSA S.A., para ampliar las actividades pesqueras extractivas con una nave en construcción, autorizada por resolución Nº2.575 de 2001, de esta Subsecretaría, entre la V a VII y IX regiones, por fuera del área de reserva artesanal, con cerco, sobre el recurso hidrobiológico Vinciguerria.
+
+Valparaíso, 18 de noviembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
