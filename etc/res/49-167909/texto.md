@@ -1,0 +1,5 @@
+EXTRACTO DE CANCELACION DE PERSONALIDAD JURIDICA DE ASOCIACION GREMIAL QUE INDICA
+
+Por resolución Nº 49, de 18 de Abril de 1985, del Ministerio de Economía, Fomento y Reconstrucción, se canceló la personalidad jurídica de la "Asociación Gremial de Administradores y Educadores de Servicios Pre-Universitarios, Universidad de Tarapacá", inscrita bajo el Nº 31-1 del Registro de Asociaciones Gremiales, por haberse configurado respecto de ella, la causal establecida en el artículo 5º, inciso 3º, en relación con el artículo 18 Nº 2, letra a), ambos del DL 2.757. Los bienes quedados una vez liquidada la entidad sancionada, deberán será entregados a la "Federación de Estudiantes de la Universidad de Tarapacá".-
+
+Jorge Valenzuela Durán, Coronel de Ejército, Subsecretario de Economía, Fomento y Reconstrucción.
