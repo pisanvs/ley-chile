@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 350, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 41, superficie 4.501,00 m², rol de avalúo 384-115, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Primaria 2/5, Derivado Comuy, Sector Km. 6.120,36 al Km. 10.016,42" y se acordó el valor de indemnización con su propietario Alberto Cortés Jaramillo y otros, ascendente a la cantidad de $2.664.213.-
+
+Fiscal del Ministerio de Obras Públicas.
