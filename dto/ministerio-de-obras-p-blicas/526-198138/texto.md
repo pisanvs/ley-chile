@@ -1,0 +1,3 @@
+Por decreto MOP Nº526 de fecha 22 de marzo del 2002, se expropiaron los lotes de terreno Nº22 y 24, superficies 156 y 1.644 m², Rol de Avalúo Nº1418-275, comuna de Rancagua, para la obra "Camino Ruta H-188, Sector Crucero-Chancón, Tramo 1, Km. 0,00000 al Km. 7,85900", VI Región y se acordó el valor de indemnización con su propietario Sociedad Agrícola Doña Cristina Limitada, ascendente a la cantidad de $6.602.070.-
+
+Fiscal del Ministerio de Obras Públicas.
