@@ -1,0 +1,3 @@
+Por resolución número 903, de 17 de mayo de 2000 de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº97042001, presentada por ASOCIACION GREMIAL BUZOS PESCADORES Y RAMOS SIMILARES ARTESANALES DE TONGOY, para operar un centro de cultivo ubicado en Bahía Tongoy, Comuna de Coquimbo, Provincia de Elqui, IV Región.
+
+Valparaíso, 17 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
