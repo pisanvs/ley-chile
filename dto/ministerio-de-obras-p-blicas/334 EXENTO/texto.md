@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº334, de 29 de diciembre del 2000, se expropió el lote de terreno Nº19, superficie 20 m2., rol de avalúo 1279-54, comuna de Curicó, para la obra Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector M, Séptima Región y se acordó el valor de indemnización con su propietario Antonio Acuña Acuña, ascendente a la cantidad de $401.039.-
+
+Fiscal del Ministerio de Obras Públicas.
