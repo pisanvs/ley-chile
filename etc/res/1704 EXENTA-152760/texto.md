@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta No. 1.704 de 26 de Agosto de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a sectores excluidos y expropiados de predio "El Bosque de La Trinidad", de la comuna de Limache, Quinta Región y derechos de aprovechamiento de aguas. que corresponden a las parcelas N°s. 1 a la 44 y sitios N°s. 1 al 4, 9 al 30 del Proyecto de Parcelación "El Bosque" formado por predio señalado y por sectores expropiados predios "Hijuela Primera o El Maitenal de La Trinidad", "Hijuela Segunda o San Guillermo de La Trinidad" e "Hijuela Tercera o Santa Rosa de La Trinidad".
+
+Los derechos de agua se extraen del Canal Waddington. Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
