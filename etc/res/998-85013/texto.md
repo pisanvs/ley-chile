@@ -1,0 +1,3 @@
+Por resolución No. 998, de 21 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, decl rase la caducidad, de las resoluciones No. 705, de 1988 y No. 2011, de 1989, ambas de esta Subsecretaría, en lo que se refieren a la autorización conferida a PESQUERA EDEN LIMITADA, R.U.T. No. 89.604.200-9, domiciliada para estos efectos en Etchevers No. 268, oficina 91, Viña del Mar, para operar las naves "Edén I", "Edén II" y "Edén III", en virtud de lo dispuesto en el artículo 7° del DS No. 175 de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 21 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
