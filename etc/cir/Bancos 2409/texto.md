@@ -19186,43 +19186,31 @@ MATERIA:
 
 CAJA. DINERO EN TRANSITO O EN CUSTODIA.
 
-### 1. Remesas en tránsito a cargo de empresas transportadoras de valores
+1.- Remesas en tránsito a cargo de empresas transportadoras de valores.
 
 Se considerarán como remesas en tránsito de una institución financiera, los importes que se entreguen a una empresa transportadora de valores con el fin de que ésta los transporte a otra oficina de la misma institución que encarga el traslado en virtud de un contrato de prestación de tal servicio que se haya suscrito entre ambas partes, o que, de acuerdo con lo establecido en el mismo contrato, la empresa transportadora guarde en custodia en sus bóvedas, sujetos a las instrucciones que le imparta la institución depositante.
 
-En todo caso, corresponderá a las instituciones bancarias y sociedades financieras que contraten estos servicios comprobar y exigir los resguardos necesarios y precisar las responsabilidades de la empresa encargada de la custodia de esos valores.
+El hecho de que los valores se encuentren bajo resguardo de una empresa transportadora de valores, no impide computarlos para encaje o reserva técnica.
 
-### 2. Dinero en efectivo mantenido en custodia en otra institución financiera
+2.- Dinero en efectivo mantenido en custodia en otra institución financiera.
 
-Los bancos y sociedades financieras podrán mantener en custodia en otras entidades similares, fondos disponibles representados por dinero efectivo, sea que éste provenga de créditos otorgados por la entidad depositaría o simplemente de depósitos entregados en calidad de custodia por la institución depositante.
+Los bancos podrán mantener en custodia en otras entidades similares, fondos disponibles representados por dinero efectivo, sea que éste provenga de créditos otorgados por la entidad depositaría o simplemente de depósitos entregados en calidad de custodia por el banco depositante.
 
-La entidad depositaría deberá entregar a la institución depositante una confirmación escrita o certificación en duplicado de los importes que reciba en custodia, en la que deberá dejarse constancia de la fecha de recepción y del valor recibido, siendo obligación del depositante devolver el original de ese documento cuando gire parcial o totalmente los montos depositados.
+Los depósitos en custodia de que trata este número no pueden ser computados para constituir encaje o reserva técnica.
 
-Los depósitos en custodia de que trata el párrafo precedente no serán computables para los efectos de constituir el encaje y la reserva técnica a que se refieren los Capítulos 4-1 y 4-2, respectivamente, de esta Recopilación.
+3.- Certificados de custodia.
 
-### 3. Normas contables
+Corresponderá a los bancos que contraten los servicios de que trata este Capítulo, comprobar y exigir los resguardos necesarios y precisar las responsabilidades de la empresa encargada de la custodia de los valores.
 
-Las entidades financieras que utilicen los sistemas a que se refiere este Capítulo, deben reflejar los valores entregados en custodia, en la siguiente forma, en su contabilidad:
+La entidad receptora de los valores en tránsito o en custodia en otros bancos,entregará certificados de custodia emitidos físicamente en duplicado -original y copia-, o bien certificaciones electrónicas cursadas por intermedio de un sistema de mensajería cuyas características garanticen su seguridad, confidencialidad, autenticidad y no repudio.
 
-3.1. Custodia mantenida en empresas transportadoras de valores.
+Al recibirse los valores que se encontraban en tránsito o al girarse los montos en custodia en otro banco, se procederá a la devolución de los originales de los certificados de custodia emitidos físicamente o a la emisión de los correspondientes mensajes de acuerdo con el sistema convenido, según corresponda.
 
-Los importes entregados a una empresa encargada de su transporte, en virtud del contrato que haya celebrado con ellos la institución financiera y que aquélla mantenga en custodia en sus bóvedas se registrará en una cuenta que se denominará "Caja en custodia en empresas transportadoras de valores", cuyo saldo se incluirá en la partida 1005 del MB1.
+4.- Normas contables.
 
-El saldo registrado en esta cuenta deberá ser concordante con el valor de los certificados de custodia de la empresa de transporte que tenga en su poder la institución financiera.
+Los valores del banco que se encuentren en poder de una empresa encargada de su transporte según lo indicado en el N° 1 de este Capítulo, se informarán en la cuenta "Caja en custodia en empresas transportadoras de valores", de la partida 1005.
 
-3.2. Custodia mantenida en otras instituciones financieras.
-
-La institución financiera que mantenga en otra institución congénere dinero efectivo en custodia, sea que provenga de depósitos o de créditos recibidos, registrará los importes correspondientes en la cuenta "Caja en custodia en otras entidades financieras".
-
-El saldo de esta cuenta que se demostrará en la partida 1005 del MB1 deberá ser coincidente con las certificaciones de custodia que mantenga en su poder la entidad depositante.
-
-La entidad depositaría, por su parte, contabilizará los valores de esta especie recibidos en custodia, en la cuenta de orden "Depósitos en efectivo mantenidos en custodia por cuenta de entidades financieras" de la partida 9260.
-
-### 4. Certificados de custodia
-
-Las entidades financieras que se acojan a las modalidades que se establecen en estas instrucciones, deben exigir de sus depositarios la emisión de certificados de custodia en dos ejemplares -original y copia- por los importes que les entreguen en custodia.
-
-Los ejemplares originales deberán ser devueltos al depositario en el momento que se retire la custodia, en tanto que los duplicados deberán mantenerse archivados y a disposición de esta Superintendencia, para las revisiones que realice sobre la materia.
+La institución que mantenga en otro banco dinero efectivo en custodia según lo señalado en el N° 2 de este Capítulo, incluirá los importes correspondientes en la cuenta "Caja en custodia en otras entidades financieras", de la partida 1005 El banco depositario, por su parte, informará los valores que mantiene en custodia en la cuenta de orden "Depósitos en efectivo mantenidos en custodia por cuenta de entidades financieras", de la partida 9260.
 
 CAPITULO 16-4 (Bancos y Financieras)
 
