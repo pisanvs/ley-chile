@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.466, del 31 de agosto de 1999, se expropiaron los lotes de terreno Nºs 20 y 27, superficies 555 y 5.902 M2, roles de avalúo 137-67 y 140-84, comuna Chonchi, para la obra Camino Chonchi Teupa y se acordó precio de indemnización con sus propietarios América Mariante Andrade y Heriberto Oyarzún Oyarzún, ascendente a las cantidades de $2.693.280 el lote Nº 20 y $5.317.101 el lote Nº 27.
+
+Fiscal del Ministerio de Obras Públicas.
