@@ -1,0 +1,3 @@
+Por resolución Nº858, de 10 de junio de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud presentada por PESQUERA MAR PROFUNDO S.A., para ampliar actividades pesqueras extractivas con la nave ''Génesis'' respecto de las áreas y especies hidrobiológicas solicitadas, por no dar cumplimiento a las disposiciones citadas en Vistos.
+
+Valparaíso, 10 de junio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
