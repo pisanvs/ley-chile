@@ -1,0 +1,5 @@
+Por resolución No. 137, de 21 de Febrero de 1992.- de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a las Empresas Pesqueras que se detallan a continuación para reemplazar las naves que se señalan, para operar y realizar pesca de investigación del recurso Sardina española, Sardinops sagax musica, en las áreas de pesca y por el tiempo y condiciones que se indican en la Resolución No. 110, de 1992, de esta Subsecretaría. - PESQUERA IQUIQUE S.A., R.U.T. No. 91.129.000-3, domiciliada en calle Estado No. 337, piso 3°, Santiago, para reemplazar la nave "Salmón" por la nave denominada "Mero", de igual capacidad de bodega.
+
+- PESQUERA PUNTA ANGAMOS S.A., R.U.T. No. 94.053.000-8, domiciliada en Huérfanos No. 863, piso 3°, Santiago, para reemplazar la nave "Punta Angamos 3" por la nave "Punta Angamos 4", de 405 m3 de capacidad de bodega.
+
+Valparaíso, 21 de Febrero de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
