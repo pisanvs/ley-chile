@@ -1,0 +1,3 @@
+Por Resolución Nº 1.393, de 24 de octubre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárese la caducidad de las Resoluciones Nº 1.193, de 1988; Nº 1.567, de 1990 y Nº 1.008, de 1995, todas de esta Subsecretaría, que autorizaron a don GERMAN MOYA GARCIA, para desarrollar actividades pesqueras extractivas con la nave "Lobera 84", matrícula 2408, por no haber iniciado operaciones de pesca por dos años consecutivos, a contar de las fechas indicadas en las respectivas autorizaciones de pesca, incurriendo en la causal de caducidad prevista en el artículo 143 letra b) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 24 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
