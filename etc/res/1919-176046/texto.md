@@ -1,0 +1,3 @@
+Por resolución Nº 1.919, de 6 de septiembre de 2000, de esta Subsecretaría, autorízase a LINO DEL TRANSITO CONTRERAS TAPIA, para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en Panamericana Norte Km. 898, Caldera, comuna de Caldera, provincia de Copiapó, III Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Secado y picado de algas: Huiro negro o Chascón, Huiro palo, Huiro flotador.
+
+Valparaíso, 6 de septiembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
