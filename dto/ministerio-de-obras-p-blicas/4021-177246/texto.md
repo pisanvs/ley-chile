@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.021, de 31 de agosto de 2000, se expropió el lote de terreno Nº24, superficie 1.523 m2., rol de avalúo 32-62, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario Martín Teodoro Mario Lein Berger, ascendente a la cantidad de $6.914.694.
+
+Fiscal del Ministerio de Obras Públicas.
