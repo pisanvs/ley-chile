@@ -1,0 +1,3 @@
+Por Decretos M.O.P. N°s 307, 311 y 312, de fechas 27 y 28 de Septiembre de 1989, se expropiaron los lotes N°s. 3, 37, 32 y 17-d, superficies 275, 270, 774 y 288 M2., roles de avalúos N°s. 1737-10, 2938-16. 2838-27 y 2036-19. Comuna de La Cisterna, para ejecución avenida Américo Vespucio, Sector Gran Avenida - Ochagavía, y se acordó precio de indemnización con sus propietarios Sres. Vicente Claro Serrano, Orfelina del Carmen Díaz Sepúlveda y otras, Teresa Eliana Abarzúa del Pino y otros y Elena Pirquián Farías, ascendentes a $ 5.100.000.-, $ 5.445.000.-, $ 8.889.200 y $ 3.542.400, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
