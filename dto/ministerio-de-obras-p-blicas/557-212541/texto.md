@@ -1,0 +1,3 @@
+Por decreto MOP Nº557 de fecha 30 de mayo del 2003, se expropió el lote de terreno Nº1, superficie 4.444,0 m2, Rol de Avalúo Nº266-410, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietario José Lorenzo Ulloa Burgos, ascendente a la cantidad de $2.993.362.
+
+Fiscal del Ministerio de Obras Públicas.
