@@ -1,0 +1,3 @@
+Por decreto MOP Nº 751, de 19 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 10, para la ejecución de la obra ''Camino de Acceso Norte a Puente Lo Cartagena Km. 3.010 a Km. 4.776'', que figura a nombre de Juan Mora Soto, rol de avalúo en trámite, de la comuna de Rengo, VI Región, superficie 3.400 M2. La comisión de peritos fijó con fecha 8 de octubre de 1999, la indemnización provisional en la cantidad de $5.470.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
