@@ -1,0 +1,11 @@
+Por Resolución N° 1.353, de 18 de julio de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción autorízase a la UNIVERSIDAD AUSTRAL DE CHILE, CENTRO REGIONAL DE LA TRAPANANDA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto "Diseño y Aplicación Experimental de un Modelo de Manejo y Administración de Areas de Pesca Deportiva en el Río Ñirehuao", elaborado por la señalada Universidad y aprobado por esta Subsecretaría, los cuales forman parte integrante de la presente Resolución.
+
+El objetivo principal de la pesca de investigación que por la presente Resolución se autoriza, consiste en recabar antecedentes técnicos de la especie Trucha café en el Río Ñirehuao, para establecer sus parámetros biológico-pesqueros conjuntamente con la capacidad de carga de dicho río, que sirvan de fundamento para elaborar las bases de administración de la actividad de pesca deportiva en dicho lugar.
+
+La Pesca deportiva se efectuará en el tramo determinado por el curso principal del Río Ñirehuao, entre las coordenadas geográficas (UTM) 268.550 m Este (Puente Ñirehuao) y 287.300 m Este (Estero Feo).
+
+Los pescadores deportivos seleccionados para participar en la presente pesca de investigación, deberán contar con un permiso especial otorgado por el Servicio Nacional de Pesca, previa proposición de la Universidad. En todo caso, las personas seleccionadas deberán contar con la licencia establecida en el D.S. N° 545, de 1995, del Ministro de Economía, Fomento y Reconstrucción. Las actividades de extracción se realizarán durante la temporada de pesca deportiva.
+
+La Universidad Austral de Chile designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Rector de dicha Casa de Estudios, don Manfred Max-Neef, domiciliado en calle Independencia N° 641, Valdivia.
+
+Valparaíso, 18 de julio de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
