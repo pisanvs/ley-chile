@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº322, de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº23, superficie 23 m2., rol de avalúo 191-27, comuna de Longaví, para la obra "Camino Ruta L-49, Cruce Longitudinal - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12" y se acordó el valor de indemnización con su propietario María del Carmen Quezada Labra y Otros, ascendente a la cantidad de $464.183.-
+
+Fiscal del Ministerio de Obras Públicas.
