@@ -1,0 +1,3 @@
+Por Resolución Nº 447, de 27 de marzo de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción; deniégase la solicitud para ampliar actividades pesqueras extractivas en el litoral de la III, IV y X Regiones con una nave en construcción denominada "Carlinga", presentada por PESQUERA SAN FRANCISCO S.A., por haberse verificado las causales denegatorias señaladas en el artículo 19 letras a), c) y e) de la Ley Nº 18.892 y sus modificaciones.
+
+Valparaíso, 27 de marzo de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
