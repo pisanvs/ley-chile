@@ -3632,7 +3632,7 @@ Quedan comprendidos dentro del concepto de depósitos a plazo de que trata este 
 
 En todo caso, se exceptúan de las instrucciones contenidas en el presente Capítulo las captaciones de fondos del público que no corresponden al concepto de depósitos a plazo antes señalado o que se rigen por normas especiales, tales como las cuentas de ahorro a plazo, las captaciones efectuadas mediante ventas con pacto de retrocompra de documentos de la cartera de inversiones, o mediante la emisión de instrumentos de oferta pública inscritos en el Registro de Valores de esta Superintendencia.
 
-Debe tenerse presente, además, que las instrucciones del presente Capítulo se refieren sólo a materias específicas, propias del tipo de operaciones de captación de fondos de que se trata. Por consiguiente, tanto los plazos como las demás condiciones que se pacten o se ofrezcan para los depósitos a plazo, deben ajustarse a las disposiciones generales sobre captaciones e intermediación contenidas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y a las demás normas que afectan a estas operaciones, tales como las disposiciones sobre intereses y reajustes, encaje, reserva técnica, límites de endeudamiento, relación de calce de operaciones activas y pasivas, caducidad de las acreencias, etc.
+Debe tenerse presente, además, que las instrucciones del presente Capítulo se refieren sólo a materias específicas, propias del tipo de operaciones de captación de fondos de que se trata. Por consiguiente, tanto los plazos como las demás condiciones que se pacten o se ofrezcan para los depósitos a plazo, deben ajustarse a las disposiciones generales sobre captaciones e intermediación contenidas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y a las demás normas que afectan a estas operaciones.
 
 ### 2. Tipos de depósitos a plazo
 
@@ -3714,7 +3714,7 @@ Por otra parte, en la cuenta "Depósitos y captaciones a más de un año afectos
 
 c) Cuentas especiales.
 
-Se exceptúan de las instrucciones precedentes de este numeral, los depósitos provenientes del exterior de que trata el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile y los depósitos a que se refiere el N° 3 de la letra A del número I del Capítulo XIV Título I del Compendio de Normas de Cambios Internacionales, los que deben registrarse en las cuentas que se señalan en los Capítulos 13-13 y 13-33, respectivamente, de esta Recopilación Actualizada de Normas.
+Se exceptúan de las instrucciones precedentes de este numeral, los depósitos a que se refiere el N° 3 de la letra A del número I del Capítulo XIV Título I del Compendio de Normas de Cambios Internacionales, los que deben registrarse en las cuentas que se señala en el Capítulo 13-33 de esta Recopilación Actualizada de Normas.
 
 6.2. Intereses y reajustes.
 
@@ -4319,6 +4319,8 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 - Dirección de Aprovisionamiento del Estado (DAE).
 
 - Dirección de Bienestar de Carabineros de Chile.
+
+- Dirección de Previsión de Carabineros de Chile.
 
 - Dirección de Sanidad de la Armada.
 
@@ -10301,6 +10303,8 @@ Código
 1735 199 00 Otras inversiones financieras.
 
 NOTA: Las cuentas para registrar los instrumentos cedidos con pacto de retrocompra se indican en el Anexo N° 2 de este Capítulo.
+
+> **Nota.** La letra C, de la Circular 2935, SBIF, promulgada, el 11.05.1998, elimina, en el presente Anexo, la cuenta "Inversiones no deducibles de encaje".
 
 ANEXO N° 2
 
@@ -16550,13 +16554,9 @@ c) Cuando sea la sociedad la que se obliga como codeudora solidaria o fiadora de
 
 d) Cuando las obligaciones de dos o más sociedades en las cuales participa la misma persona correspondan a deudas indirectas por la misma obligación principal, caso en el cual se computará la suma de la proporción de dichas deudas sólo hasta alcanzar el monto de la deuda directa del tercero hacia el cual las sociedades son avalistas, fiadoras o codeudoras solidarias.
 
-Debe tenerse presente, además que las obligaciones imputadas por la exigencia del artículo 85 de la Ley General de Bancos, tienen el carácter de
+Debe tenerse presente, además que las obligaciones imputadas por la exigencia del artículo 85 de la Ley General de Bancos, tienen el carácter de deudas"complementarias" y se computarán solamente si el socio o accionista de la sociedad de que se trate, tiene deudas directas con la institución financiera.
 
-deudas"complementarias" y se computarán solamente si el socio o accionista de la sociedad de que se trate, tiene deudas directas con la institución financiera.
-
-Por otra parte, en concordancia con lo indicado en el N° 3 del título I de estas normas, debe entenderse que los créditos otorgados a otra institución financiera establecida en el país, sean ellos directos o indirectos, no se imputarán a sus accionistas ni a la casa matriz del banco extranjero, en su caso.
-
-Del mismo modo, a la institución financiera deudora establecida en Chile no se le imputarán las obligaciones que tuvieren las sociedades en las cuales ella tenga participación.
+Por otra parte, en concordancia con lo indicado en el N° 4 del título I de estas normas, debe entenderse que los créditos otorgados a otra institución financiera establecida en el país, sean ellos directos o indirectos, no se imputarán a sus accionistas ni a la casa matriz del banco extranjero, en su caso. Del mismo modo, a la institución financiera deudora establecida en Chile no se le imputarán las obligaciones que tuvieren las sociedades en las cuales ella tenga participación.
 
 5.3. Forma de computar las obligaciones complementarias.
 
@@ -23659,8 +23659,6 @@ Las instituciones financieras deberán enviar a este Organismo la información q
 a) Designación de los auditores
 
 Dentro de los diez días hábiles bancarios siguientes a la designación por parte de la Junta de Accionistas o de quien haga sus veces, las instituciones financieras deberán informar a este Organismo el nombre de la firma de auditores que efectuará la auditoría de sus estados financieros.
-
-En la misma oportunidad se entregarán los antecedentes relativos a las propuestas recibidas de las firmas de auditoría, tanto de aquella que haya sido elegida, como de las demás que hubieren postulado, así como la evaluación efectuada de acuerdo con lo dispuesto en el N°2 de este título, a menos que se trate de la recontratación de la misma firma de auditores que examinó y dictaminó los estados financieros del ejercicio anterior.
 
 b) Deficiencias observadas por los auditores y medidas para corregirlas.
 
