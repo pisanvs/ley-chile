@@ -1,0 +1,5 @@
+Por decreto MOP Nº 471, de 9 de junio de 2004 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2-1 para la obra: "Camino: Acceso al Puerto de San Antonio: Sector: Enlace Agua Buena. Tramo: Km. - 0.377,00 al Km.
+
+1.200,00"; Quinta Región, que figura a nombre de Inmobiliaria San Antonio Limitada, rol de avalúo 9035-171, comuna de San Antonio, superficie 7.703 m². La comisión de peritos integrada por los señores María Isabel Ríos Marcuello, Luis Pablo Padilla Vergara y Eduardo Alejandro Silva Aracena, fijó con fecha 7 mayo 2004, el valor provisional de la indemnización en la cantidad de $101.593.380.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
