@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 534, de fecha 30 de abril de 2001, se expropió el lote de terreno Nº 4, superficie 1.101 m2, rol de avalúo 502-35, comuna de Quilleco, para la obra "Camino El Triángulo-Cerro El Diablo por Quilleco, Sector Puente El Molino, Km. 0,0000 al 0,31900" y se acordó el valor de indemnización con su propietario Carlos Antonio Rubio, ascendente a la cantidad de $347.806.-
+
+Fiscal del Ministerio de Obras Públicas.
