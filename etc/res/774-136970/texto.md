@@ -1,0 +1,5 @@
+Por resolución Nº774, de 17 de mayo de 1999, de esta Subsecretaría, autorízase a TRIPESCA S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en el Lote Nº8, Sector de la Usina y Muelle Francés, comuna de Corral, provincia de Valdivia, X Región, donde podrá procesar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Harina y aceite de pescado: Jurel, Anchoveta, Sardina común, Merluza de cola, Aguijilla, Caballa, Krill, Merluza de tres aletas y Sardina española.
+
+Déjase sin efecto la Resolución Nº1.615 de 1998, en virtud de lo dispuesto en el Artículo 8º del D.S. Nº175 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
