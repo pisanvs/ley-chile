@@ -7142,7 +7142,7 @@ Bancos
 
 016 BANCO DE CREDITO E INVERSIONES
 
-017 BANCO DO BRASIL S.A.
+017 BANCO DO BRASIL S A
 
 027 CORPBANCA
 
@@ -7150,13 +7150,11 @@ Bancos
 
 031 HSBC BANK USA
 
-033 CITIBANK N.A.
-
-035 BANCO SANTIAGO
+033 CITIBANK N A
 
 037 BANCO SANTANDER-CHILE
 
-039 BANKBOSTON N.A.
+039 BANKBOSTON, N A
 
 040 BANCO SUDAMERIS
 
@@ -7164,7 +7162,7 @@ Bancos
 
 043 BANCO DE LA NACION ARGENTINA
 
-045 THE BANK OF TOKYO-MITSUBISHI LTD.
+045 THE BANK OF TOKYO-MITSUBISHILTD
 
 046 ABN AMRO BANK (CHILE)
 
@@ -12966,7 +12964,7 @@ Cabe hacer presente que es plenamente aplicable a las operaciones de factoraje d
 
 3.- Límites.
 
-Las obligaciones directas o indirectas que se originen por las operaciones de factoraje, sean éstas efectivas o contingentes, quedan sujetas a los límites del artículo 84 de la Ley General de Bancos.
+Las obligaciones por las operaciones de factoraje quedan sujetas a los límites del artículo 84 de la Ley General de Bancos, para cuyo efecto se tendrá en cuenta lo indicado en el numeral 4.5 del título II del Capítulo 12-3 de esta Recopilación.
 
 Cuando se garantice el pago de las obligaciones que asume un comprador, los montos garantizados quedan también sujetos a los límites de avales y fianzas de que trata el Capítulo 8-10 de esta Recopilación.
 
@@ -12992,7 +12990,7 @@ Las instituciones financieras mantendrán clasificados según su morosidad cada 
 
 .
 
-Las facturas se considerarán vigentes para estos efectos, hasta 15 días corridos después de la fecha de vencimiento informada por el cliente. En los demás créditos el atraso se calculará de acuerdo con el vencimiento pactado en los respectivos contratos o títulos de crédito.
+Las facturas se considerarán vigentes para estos efectos, hasta 30 días corridos después de la fecha de vencimiento informada por el cliente. En los demás créditos el atraso se calculará de acuerdo con el vencimiento pactado en los respectivos contratos o títulos de crédito.
 
 Todos los créditos registrados en el activo se clasificarán en su respectiva categoría de riesgo, aplicándoles el porcentaje que en cada caso corresponda para determinar su pérdida estimada. La pérdida total determinada por esta clasificación será igual a la suma de los montos que se obtienen de la forma indicada.
 
@@ -16487,6 +16485,10 @@ Cuando, en las operaciones de compra de documentos con pacto, los instrumentos t
 4.4.- Notas estructuradas.
 
 Las inversiones en notas estructuradas quedan sujetas a los límites de crédito del artículo 84 de la Ley General de Bancos, debiendo considerarse como deudor directo tanto al emisor de la nota como al deudor del instrumento subyacente.
+
+4.5.- Operaciones de factoraje.
+
+En las operaciones de factoraje no existirán deudores indirectos, debiendo considerarse deudores directos a los obligados al pago de los documentos que se cedan sin responsabilidad y a los cedentes en caso de cesiones con responsabilidad.
 
 ### 5. Deudas complementarias
 
