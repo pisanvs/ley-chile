@@ -1,0 +1,1 @@
+Fija las plantas de funcionarios de la Subsecretaría del Trabajo y Previsión Social y de la Dirección del Trabajo
