@@ -1,0 +1,3 @@
+Por resolución exenta Nº 518 de 26 de febrero de 2004, de esta Subsecretaría, autorízase a CORPESCA S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Arturo Prat s/n, sitio 10-11-12, manzana A, Iquique, I Región, en las líneas de elaboración Harina y Aceite, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 26 de febrero de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
