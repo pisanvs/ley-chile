@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION Nº 19, DE 2005, QUE ESTABLECE OBLIGACION A LOS ARRENDATARIOS Y A LOS CORREDORES DE PROPIEDADES O PERSONAS QUE ENTREGAN EN ARRIENDO PROPIEDADES POR CUENTA DE TERCEROS, DE PRESENTAR UNA DECLARACION JURADA SOBRE LOS BIENES RAICES NO AGRICOLAS ARRENDADOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 30 del 11/03/05, que modifica resolución Nº 19 de 2005, que establece obligación a los arrendatarios y a los corredores de propiedades o personas que entregan en arriendo propiedades por cuenta de terceros, de presentar una declaración jurada sobre los bienes raíces no agrícolas recibidos en arriendo en el caso de los arrendatarios; y sobre los bienes raíces entregados en arriendo, en el caso de los corredores y personas ya señalados.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2005.
