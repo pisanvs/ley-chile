@@ -15412,63 +15412,15 @@ Cada sociedad filial tendrá como objeto exclusivo uno de los giros señalados e
 
 ### 2. Participación en sociedades filiales
 
-Los bancas que deseen constituir una sociedad filial de acuerdo con lo
+El artículo 83, N° 11 bis, inciso segundo, de la Ley General de Bancos establece, en general, una prohibición para que las sociedades filiales de bancos puedan adquirir acciones o tomar participación en otras sociedades.
 
-establecido en el número 11 bis del artículo 83 de la Ley General de Bancos,
+La misma disposición establece una excepción para el caso de que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se efectúe dicha inversión.
 
-deberán solicitar por escrito la autorización de esta Superintendencia.
+Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco efectúe en otra sociedad deberá contar con la autorización previa de esta Superintendencia. En la solicitud que se presente con este objeto, deberán informarse las razones por las cuales la inversión se estima imprescindible para el desarrollo del giro.
 
-Para los efectos de las disposiciones del presente capítulo, un banco podrá
+En todo caso, las sociedades cuyo giro sea el de corredor de bolsa, quedan autorizadas para adquirir las acciones de bolsas de valores que requieran para cumplir su función y, también dentro del limite de un 5% del capital pagado de cada sociedad, las acciones que puedan adquirir para si conforme a las normas de la Ley sobre Mercado de Valores y las instrucciones de la Superintendencia de Valores y Seguros a cuya fiscalización se encuentran sometidas.
 
-constituir una sociedad filial o bien adquirir una participación mayoritaria en
-
-una sociedad previamente constituida.
-
-Las sociedades filiales acogidas a estas normas podrán estar constituidas como
-
-sociedades anónimas abiertas o cerradas, o como sociedades de responsabilidad
-
-limitada.
-
-En la sociedad filial debe existir siempre un socio mayoritario que deberá ser
-
-un banco, pudiendo ser socio minoritario cualquier persona natural o jurídica.
-
-Para otorgar la autorización correspondiente, este Organismo deberá dar su
-
-aprobación a los estatutos de la sociedad filial. Cualquier modificación de
-
-tales estatutos requerirá del consentimiento de esta Superintendencia. Sin
-
-embargo, cuando se trate de empresas filiales cuya fiscalización corresponda ala
-
-Superintendencia de Valores y Seguros, sólo se requerirá que dichos estatutos y
-
-sus eventuales modificaciones sean puestos en conocimiento previo de esta
-
-Superintendencia. No obstante, en este último caso, si las modificaciones
-
-consisten en aumentos o disminuciones de capital o significan alteraciones en el
-
-porcentaje de participación del banco en su filial, se deberá obtener la
-
-conformidad previa de este Organismo para efectuarlas.
-
-Asimismo, el banco solicitante deberá acompañar una descripción acabada del
-
-proyecto y un estudio técnico-económico formal de la rentabilidad de la
-
-inversión a realizar.
-
-Para adquirir una participación en una sociedad previamente constituida, el
-
-banco deberá, antes de asumir cualquier compromiso, justificar su compra ante
-
-esta Superintendencia. Con este objeto, deberá acompañar una descripción de la
-
-empresa que desea adquirir, un borrador de la reforma de sus estatutos y una
-
-evaluación técnica justificando el precio de compra.
+Finalmente, una sociedad filial podrá tener participación en otra sociedad filial del mismo banco, siempre que el porcentaje de participación en el capital y en las utilidades no exceda del 1%.
 
 ### 3. Carácter de socio mayoritario
 
