@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº281 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº10-J, superficie 121 m2, rol de Avalúo Nº65-285, comuna de Teno, para la obra "Camino Ruta J-25-, Sector Cruce Longitudinal - La Montaña. Km. 0,22000 a Km. 25,00000", VII Región y se acordó el valor de la indemnización con su propietario Aliro del Carmen Valdivia Aliaga, ascendente a la cantidad de $537.030.-
+
+Fiscal del Ministerio de Obras Públicas.
