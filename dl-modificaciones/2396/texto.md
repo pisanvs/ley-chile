@@ -1,0 +1,71 @@
+MODIFICA DECRETO LEY N° 681, DE 1974, SOBRE PREMIOS NACIONALES
+
+Núm. 2.396.- Santiago, 22 de Noviembre de 1978.- Visto:
+
+lo dispuesto en los decretos leyes N°s. 1 y 128, de 1973; 527, de 1974; 991, de 1976, y
+
+Considerando:
+
+1°.- Que la legislación vigente sobre Premios Nacionales de Arte no permite un adecuado reconocimiento a los más destacados valores de cada una de sus principales formas de expresión, y
+
+2°.- Que corresponde al Estado velar por el permanente reconocimiento y exaltación de las actividades artísticas por su vinculación con la cultura nacional.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo 1°
+
+Introdúcense las siguientes modificaciones al decreto ley N° 681, de 1974:
+
+1°.- Reemplázase el artículo 4°, por el siguiente:
+
+#### Artículo 4°
+
+El Premio Nacional de Arte se otorgará cada año, alternativamente, en una de las siguientes especialidades:
+
+-Artes Plásticas.
+
+-Artes Musicales.
+
+-Artes de la Representación.
+
+Este galardón deberá conferirse en forma indivisible al artista chileno que se haya distinguido, en el país o en el extranjero, por la sobresaliente calidad de sus logros en cada una de las áreas enumeradas en el inciso anterior.
+
+El reglamento determinará en qué áreas deberán incorporarse las distintas actividades artísticas".
+
+2°.- Sustitúyese en el artículo 7°, el punto final (.) por una coma (,) agregándose a continuación la frase siguiente: "excepto el Premio Nacional de Arte, que se conferirá cada año en la forma prevista en el artículo 4°".
+
+3°.- Sustitúyese el texto de la letra c) del artículo 8° por el siguiente:
+
+"El de Arte, en la mención de Artes Plásticas, por el Ministro de Educación, que lo presidirá, por un representante designado por la Academia de Bellas Artes del Instituto de Chile, uno por la Sociedad Chilena de Pintores y Escultores, uno por la Facultad de Bellas Artes de la Universidad de Chile y uno por el Consejo de Rectores.
+
+El de Arte, en la mención de Artes Musicales por el Ministro de Educación, que lo presidirá, por un representate designado por la Academia de Bellas Artes del Instituto de Chile, uno por la Asociación Nacional de Compositores de Chile, uno por la Facultad de Ciencias y Artes Musicales de la Universidad de Chile y uno por el Consejo de Rectores.
+
+El de Arte, en la mención de Artes de la Representación, por el Ministro de Educación, que lo presidirá, por un representante designado por la Academia de Bellas Artes del Instituto de Chile, uno por la Sociedad de Autores Teatrales de Chile, uno por la Facultad de Ciencias y Artes Musicales (Departamento de Teatro) de la Universidad de Chile y uno por el Consejo de Rectores".
+
+4°.- Reemplázase en el artículo 9° la frase "Podrán proponer candidatos a los diferentes premios" por "Los candidatos a los diferentes premios deberán ser propuestos por:".
+
+5°.- Reemplázase el inciso primero del artículo 11, por los siguientes:
+
+"Los premios establecidos en este decreto ley consistirán en un diploma, en la suma de trescientos setenta mil quinientos pesos reajustables según las variaciones del Indice de Precios al Consumidor, y en una pensión vitalicia equivalente a la suma de quince mil novecientos pesos que se reajustará en forma automática de acuerdo a las normas establecidas en el Título V del decreto ley número 670, de 1974 y sus modificaciones. Esta pensión se pagará mensualmente a contar del 1° de Enero del año siguiente al otorgamiento del premio.
+
+La parte del premio consistente en la suma de trescientos setenta mil quinientos pesos, estará afecta a lo dispuesto en el artículo 17 N° 23 de la Ley sobre Impuesto a la Renta, establecida en el artículo 1° del decreto ley N° 824, de 1974. La pensión vitalicia estará sujeta a las normas tributarias vigentes.
+
+Los galardonados con el premio y la pensión, podrán acogerse a los beneficios del Servicio Médico Nacional de Empleados, debiendo realizar las cotizaciones correspondientes de acuerdo con las normas que establezca el reglamento".
+
+#### Artículo 2°
+
+Auméntase a quince mil novecientos pesos, el monto de las pensiones que actualmente estuvieren percibiendo los galardonados con los Premios Nacionales a que se refiere el decreto ley N° 681, de 1974, modificado por el artículo 1° del presente decreto ley.
+
+#### Artículo 3°
+
+El presente decreto ley empezará a regir a contar del 1° de Enero de 1978.
+
+#### Artículo transitorio
+
+Para los efectos de lo establecido en el inciso tercero del número 5° del artículo 1° del presente decreto ley, el Presidente de la República dictará, dentro del plazo de ciento ochenta días a partir de la fecha de su publicación, un reglamento que determinará la forma y condiciones en que se otorgará el beneficio señalado.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Luis Niemann Núñez, Contralmirante, Ministro de Educación Pública.- Sergio de Castro Spikula, Ministro de Hacienda.
+
+Lo que transcribo para su conocimiento.- Mario Duvauchelle Rodríguez, Capitán de Navío, JT, Secretario de Legislación de la Junta de Gobierno.
