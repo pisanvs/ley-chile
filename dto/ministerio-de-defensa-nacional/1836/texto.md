@@ -220,7 +220,9 @@ a-1) Durante toda la navegación por el Estrecho de Magallanes, con las siguient
 
 1.o Naves que utilicen el Estrecho de Magallanes con el único propósito de cruzarlo directamente de un océano a otro, sin recalar antes o después en algún puerto nacional y siempre que no naveguen otros estrechos o canales de las aguas jurisdiccionales chilenas.
 
-2.o Naves procedentes del Atlántico con destino exclusivo a Punta Arenas u otros puertos de la parte oriental del Estrecho, tanto en las navegaciones hacia esos puertos, como en las de regreso al Atlántico
+2.o Naves procedentes del Atlántico con destino exclusivo a Punta Arenas u otros puertos de la parte oriental del Estrecho, tanto en las navegaciones hacia esos puertos, como en las de regreso al Atlántico.
+
+No obstante lo anterior, las naves de guerra extranjeras que naveguen en las condiciones señaladas en los N°s. 1 y 2 deberán someterse al procedimiento establecido en el Reglamento de Admisión y Permanencia de Naves de Guerra extranjeras en las aguas territoriales, puertos, bahías, y canales de la República de Chile.
 
 b) Al maniobrar dentro de dársenas o para atracar y desatracar a molos o espigones de puertos artificiales o a muelles fiscales o particulares;
 
@@ -908,4 +910,4 @@ PUNTA ARENAS:
 
 A los 160° y a 1.605 metros del P. de O., dos cables.
 
-> **Nota.** El numeral 8 del Decreto 1949, Defensa, publicado el 02-07-1960, modifico la presente norma en el sentido de indicar que donde dice: de 10.001 a 13.000, debe decir: de 10.001 a 15.000.
+> **Nota.** El numeral 8 del Decreto 1949, Defensa, publicado el 02.07.1960, modifico la presente norma en el sentido de indicar que donde dice: de 10.001 a 13.000, debe decir: de 10.001 a 15.000.
