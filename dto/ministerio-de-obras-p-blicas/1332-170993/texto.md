@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.332, de 17 de abril de 2000 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1 , para la obra Camino Melipeuco-Icalma, Puente Tracura Kms. 0,000 al 0,119.30, que figura a nombre de Magaly Massa Massa, rol de avaluó 308-110, comuna de Melipeuco, IX Región, superficie 201 M2. La comisión de peritos, fijó con fecha 14 de mayo de 1999, en la cantidad de $36.180. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
