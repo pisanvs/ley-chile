@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 115, de 25 de mayo de 1987, se autorizó el Convenio Directo de Precio con propietaria de los lotes N°s. 1 y 2, doña Carmen Rita Osorio Martínez, expropiados por Decreto No. 236, de 12 de septiembre de 1986, para la ejecución de la obra Agua Potable de Gualleco, Recinto Sedimentador y Captación Agua Potable, ascendente a la cantidad de $ 162.727.-
+
+Fiscal del Ministerio de Obras Públicas.
