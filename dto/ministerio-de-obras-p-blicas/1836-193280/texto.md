@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.836, de 31 de octubre de 2001, se expropió el lote de terreno Nº13, superficie 78 m2., rol de avalúo 524-24, comuna de Estación Central, para la obra Sistema Norte-Sur. Tramo G: Nudo Alameda. Sector: Km. 1.400,00 al Km. 1.700,00, Región Metropolitana se acordó el valor de la indemnización con su propietaria Elizabeth Medina Piña, ascendente a la cantidad de $20.863.151.
+
+- Fiscal del Ministerio de Obras Públicas.
