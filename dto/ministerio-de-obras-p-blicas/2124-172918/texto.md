@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.124 de fecha 29 de mayo del 2000, se expropió los lotes de terreno Nºs. 3, 4 y 5, superficie 410, 835 y 110 m² respectivamente, rol de avalúo 137-1, comuna de Vichuquén, para la obra ''Camino Vichuquén - La Quirigua Rol - 820, sector Puente Uraco, Kms. 0,055.50 al 0,283.0'' y se acordó el valor de indemnización con su propietario Jaime Enrique Muñoz Muñoz, ascendente a la cantidad de $602.928.
+
+Fiscal del Ministerio de Obras Públicas.
