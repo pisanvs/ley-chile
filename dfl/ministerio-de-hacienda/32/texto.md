@@ -1,0 +1,1 @@
+Declara en reorganización la Caja de Colonización Agrícola y suprime los cargos que indica en la planta de empleados de la misma Caja; fija las plantas y remuneraciones de su personal.
