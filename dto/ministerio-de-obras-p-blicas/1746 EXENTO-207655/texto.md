@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.746, de fecha 31 de diciembre de 2002, se expropió el lote de terreno Nº 67, superficie 205 m2, rol de avalúo Nº 59-11, comuna de Chépica, VI Región, para la obra ''Mejoramiento Camino Chépica - Bif. Teno, Sector Cuesta El Peral - Chépica, Tramo Km. 5.250 al 18.893,22'', y se acordó el valor de indemnización con su propietaria doña Ermelina Rosa Bustamante Gajardo y Otros ascendente a la cantidad de $686.898.
+
+Fiscal del Ministerio de Obras Públicas.
