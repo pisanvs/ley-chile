@@ -1,0 +1,3 @@
+Por decreto MOP Nº 429, de fecha 31 de mayo de 2004, se expropió el lote de terreno Nº 99, superficie 424 m2, rol Nº 518-256, comuna de Antuco, VIII Región, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo II Km. 3,95000 a Km. 12,40150" y se acordó el valor de indemnización con su propietaria Manuela del Carmen Jara Vinet, ascendente a la cantidad de $7.922.575.
+
+Fiscal del Ministerio de Obras Públicas.
