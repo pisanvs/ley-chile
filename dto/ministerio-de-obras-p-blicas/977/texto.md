@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº977, de 20 de noviembre de 1996, se expropiaron los lotes de terreno Nºs 1, 3 y 15, superficies 23.610, 60.609 y 2.516 m2., respectivamente, rol del avalúo 264-61, comuna de Tucapel, para la obra Proyecto Laja-Diguillín, Sector Laja Huépil y se acordó precio de indemnización con su propietario Eduardo Krumn Valencia, ascendente a la cantidad de $ 5.943.020.
+
+Fiscal del Ministerio de Obras Públicas.
