@@ -1,0 +1,3 @@
+Por resolución Nº565, de 15 de marzo de 2000, de esta Subsecretaría, otórgase al INSTITUTO DE FOMENTO PESQUERO, Dirección Zonal XII Región de Magallanes y Antártica Chilena, Punta Arenas, el plazo de 15 días contado desde la fecha en que la presente resolución le sea transcrita, para completar las actividades comprendidas en la pesca de investigación autorizada por resolución Nº103, del 2000, de esta Subsecretaría, de conformidad con los Términos Técnicos de Referencia del proyecto ''Pesca de investigación del Ostión del Sur Chlamys vitrea en Bahía Parry, Seno Almirantazgo, XII Región''.
+
+Valparaíso, 15 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
