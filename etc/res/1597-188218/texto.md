@@ -1,0 +1,3 @@
+Por resolución Nº1.597, de 27 de julio de 2001, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 269 de 1990, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA CONCEPCION LTDA., para realizar actividades pesqueras extractivas con la nave "Hecht", matrícula SNO-1042, respecto de los recursos Albacora, Jurel, Machuelo o tritre, Merluza de cola y Sardina española, en el área marítima comprendida entre la IX Región y el paralelo 41º30 L.S., en virtud de lo dispuesto en la letra b) del artículo 143 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de julio de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
