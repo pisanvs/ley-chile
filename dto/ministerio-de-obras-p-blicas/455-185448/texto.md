@@ -1,0 +1,5 @@
+Por decreto MOP Nº455, de 30 de marzo de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840 y del D.F.L. MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+59-5 y 61-2 para la obra: "Concesión Internacional Ruta 5. Tramo Collipulli - Temuco Km. 616,25000 a Km. 616,90000", Novena Región, que figuran a nombre de Galaz Martínez Juanito, rol de avalúo 639-81, comuna de Victoria, superficies 247 m2 y 5.502 m2, respectivamente. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, María Soledad Núñez Arroyo y Yaschala Maribel Yáñez Riffo, fijó con fecha 27 de octubre de 2000, el valor provisional de la indemnización en las cantidades de $708.800.- para el lote Nº59-5 y $5.502.000.- para el lote Nº61-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
