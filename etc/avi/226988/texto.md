@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICAN
+
+En cumplimiento de lo prescrito en el art. 7º D.L. 2186 de 1978, con fecha 3 de mayo de 2004, se publicó extracto acto expropiatorio del siguiente tenor: "Por resolución Nº 151 de 5 de abril de 2004 de Serviu Metropolitano, ordenóse expropiación, conforme D.L. Nº 2.186 de 1978, del Lote Nº 146 correspondiente a parte del inmueble ubicado en Santa Rosa 3990, presunto rol de avalúo Nº 3638-58, comuna de San Joaquín, aparente dominio de Morandi y Cía. Ltda. Comisión integrada por peritos Patricia Zavala Contreras, Constructor Civil; Gustavo Aguirre Asmussen, Arquitecto y Sergio Rojas Ibáñez, Ingeniero Civil. Según informe de 22 de septiembre de 2003, fijó monto provisional indemnización en $17.602.230 pagadera al contado." Habiéndose incurrido en un error en la publicación extractada en cuanto al monto provisional indemnización, se rectifica en el sentido que donde dice $17.602.230 debe decir $17.602.203.-
+
+Director Serviu Metropolitano.
