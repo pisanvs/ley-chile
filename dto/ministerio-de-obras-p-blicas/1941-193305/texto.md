@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.941, de 30 de noviembre del 2001, se rectificó el decreto MOP Nº1.468 de 28 de septiembre de 2001, que ordenó la expropiación entre otros en lote de terreno Nº560-H1, en el sentido de sustituir en la cláusula 2ª donde dice lote 559-H1 debe decir lote 560-H1. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
