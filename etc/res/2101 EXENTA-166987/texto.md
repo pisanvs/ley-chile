@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución No. 2.101 de 13 de Octubre de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "El Vergel", "Fundo El Molino", "El Peruano", "Lote e Hijuela Santa Laura Poniente", "Fundo Quintalba" y "Parcela Oriente o El Erial de la Hijuela Cuarta o La Vega del Fundo El Placer y Parcela Poniente o Liconchén de la Hijuela Cuarta o La Vega del Fundo El Placer" de la Comuna de Rengo, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 29, sitios 1 al 52 y 54 al 84, y Reservas Cora, N°s. 1, 2, 5 y 6, del Proyecto de Parcelación "El Vergel", formado por predios señalados y otro. Los Derechos de Agua se extraen del Canal Peñón, Canal Población, Canal Jorge Errázuriz, Canal Pedregal, Canal Lorenzoni, Canal San Judas y Derrames del Canal Jorge Errázuriz. Publicación hecha conforme Art. 13 Ley 18.377.
+
+Director Ejecutivo.
