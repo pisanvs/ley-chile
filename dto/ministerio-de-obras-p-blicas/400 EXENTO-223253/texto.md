@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 400, de 27 de febrero de 2004, se expropió el lote de terreno Nº 346, superficie 278 m2, Rol Nº 61-523, comuna de Palmilla, VI Región, para la obra "Camino Colchagua - Pichidegua, Sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400" y se acordó el valor de indemnización con su propietario Froilán del Tránsito Correa Droguett, ascendente a la cantidad de $2.121.183.
+
+- Fiscal del Ministerio de Obras Públicas.
