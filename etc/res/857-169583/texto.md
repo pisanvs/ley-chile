@@ -1,0 +1,3 @@
+Por resolución Nº 857, de 10 de mayo de 2000, de esta Subsecretaría, autorízase a la UNIVERSIDAD DE ANTOFAGASTA, para efectuar una pesca de investigación de conformidad al Proyecto denominado ''Conservación y Protección de la Reserva Marina La Rinconada, Antofagasta'', la que se realizará bajo las mismas condiciones y obligaciones previstas por la resolución Nº 637, de 1999, de esta Subsecretaría, que autorizó la primera etapa del proyecto citado.
+
+Valparaíso, 10 de mayo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
