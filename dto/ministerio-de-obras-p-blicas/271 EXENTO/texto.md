@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº271 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº39-B, superficie 19 m², rol de avalúo 210-28, comuna de Rengo, para la obra ''Proyecto Mejoramiento Ruta H-577, Sector Rengo - Rinconada de Malambo (Ramal) Km. 0.000 al Km 0.325,407'' y se acordó el valor de indemnización con su propietario Luis Sergio Sanfurgo Guerrero, ascendente a la cantidad de $360.512.
+
+Fiscal del Ministerio de Obras Públicas.
