@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.286, de 13 de diciembre de 2000, complementado por decreto MOP Nº 2017, de 6 de diciembre de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 17, para la obra: "Concesión Internacional Interconexión Vial Santiago - Valparaíso -
+
+Viña del Mar. Tramo 8: Km. 53.440,00 a Km. 55.130,00", Región Metropolitana, que figura a nombre de Lizarazu Hiribarren Bernardo, rol de avalúo 107-10, comuna de Curacaví, con una superficie total de 4.012 m2. La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, Inés Elena Otárola Castillo y María Cristina Camus Palacios, fijó con fecha 04 de agosto de 2000, el valor provisional de la indemnización en la cantidad de $11.252.600, monto que fue complementado por informe de fecha 28 de junio de 2001, con la suma de $2.101.560.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
