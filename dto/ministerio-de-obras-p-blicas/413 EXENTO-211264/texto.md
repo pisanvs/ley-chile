@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 413 de fecha 30 de abril de 2003, se expropió el lote de terreno Nº 30-A, superficie 216,0 m2, rol de avalúo Nº 559-73, comuna de Linares, para la obra "Camino Ruta L-45, sector: Linares - Llepo, tramo: Km. 2,750.2 a Km. 13,147", VII Región y se acordó el valor de la indemnización con su propietaria Novelia del C. Castro Vásquez, ascendente a la cantidad de $2.538.256.-
+
+Fiscal del Ministerio de Obras Públicas.
