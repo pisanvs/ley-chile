@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.022, del 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs 1, y 1,3 y 5, superficies 697,50; 50; 349,50 y 33 m², respectivamente, rol de avalúo 119-1, comuna de Pencahue, para la obra Regadío Pencahue, Canal Oriente Predial Sur OD1-6B y Canal Oriente Predial OD1-6B se acordó precio de la indemnización con su propietario Iván Doroteo Contardo Andrades, ascendente a la cantidad de $250.752.- para los lotes Nºs 1; 1,3 y 5.
+
+- Fiscal del Ministerio de Obras Públicas.
