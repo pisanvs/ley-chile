@@ -3152,6 +3152,284 @@ La prescripción no tiene lugar cuando los socios verifican por sí mismos la li
 
 Las acciones de los acreedores contra el socio o socios liquidadores, considerados en esta última cualidad, y las que tienen los socios entre sí prescriben por el transcurso de los plazos que señala el Código Civil.
 
+### 8. De las sociedades anónimas
+
+#### Artículo 424
+
+<!-- parte:8725195 -->
+
+DEROGADO
+
+#### Artículo 425
+
+<!-- parte:8725197 -->
+
+DEROGADO
+
+#### Artículo 426
+
+<!-- parte:8725198 -->
+
+DEROGADO
+
+#### Artículo 427
+
+<!-- parte:8725199 -->
+
+DEROGADO
+
+#### Artículo 428
+
+<!-- parte:8725200 -->
+
+DEROGADO
+
+#### Artículo 429
+
+<!-- parte:8725201 -->
+
+DEROGADO
+
+#### Artículo 430
+
+<!-- parte:8725202 -->
+
+DEROGADO
+
+#### Artículo 431
+
+<!-- parte:8725203 -->
+
+DEROGADO
+
+#### Artículo 432
+
+<!-- parte:8725204 -->
+
+DEROGADO
+
+#### Artículo 433
+
+<!-- parte:8725205 -->
+
+DEROGADO
+
+#### Artículo 434
+
+<!-- parte:8725206 -->
+
+DEROGADO
+
+#### Artículo 435
+
+<!-- parte:8725207 -->
+
+DEROGADO
+
+#### Artículo 436
+
+<!-- parte:8725208 -->
+
+DEROGADO
+
+#### Artículo 437
+
+<!-- parte:8725209 -->
+
+DEROGADO
+
+#### Artículo 438
+
+<!-- parte:8725210 -->
+
+DEROGADO
+
+#### Artículo 439
+
+<!-- parte:8725211 -->
+
+DEROGADO
+
+#### Artículo 440
+
+<!-- parte:8725212 -->
+
+DEROGADO
+
+#### Artículo 441
+
+<!-- parte:8725213 -->
+
+DEROGADO
+
+#### Artículo 442
+
+<!-- parte:8725214 -->
+
+DEROGADO
+
+#### Artículo 443
+
+<!-- parte:8725215 -->
+
+DEROGADO
+
+#### Artículo 444
+
+<!-- parte:8725216 -->
+
+DEROGADO
+
+#### Artículo 445
+
+<!-- parte:8725217 -->
+
+DEROGADO
+
+#### Artículo 446
+
+<!-- parte:8725218 -->
+
+DEROGADO
+
+#### Artículo 447
+
+<!-- parte:8725878 -->
+
+DEROGADO
+
+#### Artículo 448
+
+<!-- parte:8725879 -->
+
+DEROGADO
+
+#### Artículo 449
+
+<!-- parte:8725880 -->
+
+DEROGADO
+
+#### Artículo 450
+
+<!-- parte:8725881 -->
+
+DEROGADO
+
+#### Artículo 451
+
+<!-- parte:8725882 -->
+
+DEROGADO
+
+#### Artículo 452
+
+<!-- parte:8725883 -->
+
+DEROGADO
+
+#### Artículo 453
+
+<!-- parte:8725884 -->
+
+DEROGADO
+
+#### Artículo 454
+
+<!-- parte:8725885 -->
+
+DEROGADO
+
+#### Artículo 455
+
+<!-- parte:8725886 -->
+
+DEROGADO
+
+#### Artículo 456
+
+<!-- parte:8725887 -->
+
+DEROGADO
+
+#### Artículo 457
+
+<!-- parte:8725888 -->
+
+DEROGADO
+
+#### Artículo 458
+
+<!-- parte:8725889 -->
+
+DEROGADO
+
+#### Artículo 459
+
+<!-- parte:8725890 -->
+
+DEROGADO
+
+#### Artículo 460
+
+<!-- parte:8725891 -->
+
+DEROGADO
+
+#### Artículo 461
+
+<!-- parte:8725892 -->
+
+DEROGADO
+
+#### Artículo 462
+
+<!-- parte:8725893 -->
+
+DEROGADO
+
+#### Artículo 463
+
+<!-- parte:8725894 -->
+
+DEROGADO
+
+#### Artículo 464
+
+<!-- parte:8725895 -->
+
+DEROGADO
+
+#### Artículo 465
+
+<!-- parte:8725896 -->
+
+DEROGADO
+
+#### Artículo 466
+
+<!-- parte:8725897 -->
+
+DEROGADO
+
+#### Artículo 467
+
+<!-- parte:8725898 -->
+
+DEROGADO
+
+#### Artículo 468
+
+<!-- parte:8725899 -->
+
+DEROGADO
+
+#### Artículo 469
+
+<!-- parte:8725900 -->
+
+DEROGADO
+
 ### 9. Disposiciones relativas a la sociedad
 
 en comandita
