@@ -1366,15 +1366,25 @@ Los gastos directos en que incurran las instituciones bancarias que coloquen acc
 
 El tratamiento contable que el banco decida seguir en esta materia deberá ser informado previamente a esta Superintendencia.
 
-CAPITULO 1-12 (Bancos y Financieras)
+CAPITULO 1-12 (Bancos y Financieras]
 
 MATERIA:
 
 NOMINA DE EMPRESAS CALIFICADORAS INTERNACIONALES.
 
-La siguiente es la nómina de las empresas calificadoras internacionales conformada para los efectos contemplados en los artículos 67, 78 y 84 de la Ley General de Bancos. Esta nómina incluye el rango de categorías específicas establecido por cada una de esas firmas y que darán la calidad de "primera categoría" o "la más alta categoría" a que se refieren los artículos antes mencionados:
+La siguiente es la nómina de las empresas calificadoras internacionales conformada para los efectos contemplados en los artículos 67, 78 y 84 de la Ley General de Bancos. Esta nómina incluye el rango de categorías especificas establecido por cada una de esas firmas y que darán la calidad de "primera categoría" o "la más alta categoría" a que se refieren los artículos antes mencionados:
 
-.
+Firma calificadora Rango de categorías
+
+Corto plazo Largo plazo
+
+Desde Hasta Desde Hasta
+
+- Fitch Ratings F1 F1+ A- AAA
+
+- Moody's P-1 P-1 A3 Aaa
+
+- Standard & Poor's A-1 A-1+ A- AAA
 
 Para la aplicación de las disposiciones del artículo 78, que se refieren a las condiciones de riesgo de un país, debe considerarse la clasificación de los instrumentos de largo plazo emitidos en moneda extranjera por el Estado o el Banco Central del respectivo país.
 
