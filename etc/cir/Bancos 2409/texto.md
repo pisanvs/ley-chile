@@ -28998,6 +28998,8 @@ c) Se suspenderá la información de aquellos deudores contra quienes existan t�
 
 Debe tenerse presente lo dispuesto en el artículo 153 del Código de Procedimiento Civil, en el sentido de que el ejecutado puede pedir el abandono del procedimiento aun después de dictada la sentencia u omitida ésta. Este es, por lo tanto, uno de los casos en que se produce el fin del juicio ejecutivo seguido contra el deudor y en que sólo procede reincorporarlo a la información refundida sobre deudores cuando se inicie uno nuevo, si todavía hay lugar a ello.
 
+Asimismo, se suspenderá la información en los casos de deudores a quienes la institución financiera haya ejecutado y rematado la vivienda hipotecada para garantizar el pago de un préstamo otorgado para su adquisición o construcción, sea mediante la emisión de letras de crédito o sin ellas, cuando no se haya trabado embargo sobre otros bienes de su propiedad o de los codeudores o fiadores que puedan existir. Producida esta situación, aun cuando el producto del remate no haya alcanzado a cubrir el pago de la deuda, deberá omitirse la información respecto del saldo de dicho crédito.
+
 ### 3. Manejo de la información por parte de las instituciones financieras
 
 La entrega de la información, relativa a las obligaciones de los deudores de los bancos y sociedades financieras establecidos en el país para con el sistema financiero, es una excepción justificada, contemplada en la ley, de la reserva bancaria que protege los intereses de tales deudores, en la medida que cumpla exactamente con el propósito de información señalado por el legislador y sin que pueda servir para otros fines.
