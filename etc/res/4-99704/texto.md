@@ -1,0 +1,3 @@
+Por Resolución No. 4, de 18 de abril de 1989, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región, Atacama, se autoriza a Mirza Ester Cortés Acosta para trasladar la ubicación de la Planta Revisora de la Clase A desde Lote No. 4 de Barrio Industrial de Vallenar a Carretera Panamericana Norte S/N, Cruce a Huasco de la misma comuna.-
+
+Sergio Antonio Acevedo Oyarce, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
