@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.060, de 30 de marzo del 2000, se expropió el lote de terreno Nº482, superficie 158 m², rol de avalúo 1461-15, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca. Sector a: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Juan Fernando Ramos Lizama, ascendente a la cantidad de $21.751.815.
+
+- Fiscal del Ministerio de Obras Públicas.
