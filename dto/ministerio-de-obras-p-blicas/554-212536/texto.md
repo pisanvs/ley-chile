@@ -1,0 +1,3 @@
+Por decreto MOP Nº554 de fecha 30 de mayo del 2003, se expropió el lote de terreno Nº33-A, superficie 17.557,20 m2, Rol Nº362-41, comuna de Constitución, VII Región para la obra "Camino Reposición de Rutas K-690 y M-20 K, Sector: Cruce Ruta K-60 (Gualleco) Coipúe - Carrizal, Km. 0,00000 - Km. 35,99711 tramo Km. 0,00650 a Km. 9,77000" y se acordó el valor de indemnización con su propietario Arnolda María Benedicta Rojas Fuenzalida, ascendente a la cantidad de $7.036.794.
+
+Fiscal del Ministerio de Obras Públicas.
