@@ -254,9 +254,9 @@ Un juzgado con asiento en la comuna de Chañaral, con jurisdicción sobre la mis
 
 Tres juzgados con asiento en la comuna de Copiapó, con jurisdicción sobre las comunas de la provincia de Copiapó;
 
-Un juzgado con asiento en la comuna de Freirina, con jurisdicción sobre la comuna de Freirina, y
+Un juzgado con asiento en la comuna de Freirina, con jurisdicción sobre las comunas de Freirina y Huasco, y
 
-Dos juzgados con asiento en la comuna de Vallenar, con jurisdicción sobre las comunas de Vallenar, Huasco y Alto del Carmen, conservando el Segundo Juzgado de Vallenar competencia especial en materia de menores.
+Dos juzgados con asiento en la comuna de Vallenar, con jurisdicción sobre las comunas de Vallenar y Alto del Carmen, conservando el Segundo Juzgado de Vallenar competencia especial en materia de menores.
 
 #### Artículo 31
 
@@ -282,11 +282,15 @@ En la Quinta Región, de Valparaíso, existirán los siguientes juzgados de letr
 
 A.- JUZGADOS CIVILES:
 
-Ocho juzgados de letras en lo civil, con jurisdicción sobre las comunas de Valparaíso, Viña del Mar y Juan Fernández, dos de los cuales tendrán su asiento en Viña del Mar. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Cinco juzgados de letras en lo civil con asiento en la comuna de Valparaíso y jurisdicción sobre las comunas de Valparaíso y Juan Fernández.
+
+Tres juzgados de letras en lo civil con asiento y jurisdicción sobre la comuna de Viña del Mar, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 B.- JUZGADOS DEL CRIMEN:
 
-Siete juzgados del crimen con asiento en la comuna de Valparaíso con jurisdicción sobre las comunas de Valparaíso, Viña del Mar y Juan Fernández, dos de los cuales tendrán su asiento en Viña del Mar. Cualquiera fuere la comuna en que estos tribunales tengan su asiento, ellos tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
+Cinco juzgados del crimen con asiento en la comuna de Valparaíso y jurisdicción sobre las comunas de Valparaíso y Juan Fernández.
+
+Dos juzgados del crimen con asiento y jurisdicción sobre la comuna de Viña del Mar, los cuales tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 C.- JUZGADOS CON COMPETENCIA COMUN:
 
@@ -328,7 +332,7 @@ Un juzgado con asiento en la comuna de San Vicente, con jurisdicción sobre las 
 
 Un juzgado con asiento en la comuna de Peumo, con jurisdicción sobre las comunas de Peumo y Las Cabras;
 
-Dos juzgados con asiento en la comuna de San Fernando, con jurisdicción sobre las comunas de San Fernando, Chimbarongo, Placilla y Nancagua;
+Dos juzgados con asiento en la comuna de San Fernando, con jurisdicción sobre las comunas de San Fernando, Chimbarongo, Placilla y Nancagua, conservando el Segundo Juzgado de Letras de San Fernando competencia especial en materia de menores;
 
 Dos juzgados con asiento en la comuna de Santa Cruz, con jurisdicción sobre las comunas de Santa Cruz, Chépica, Lolol, Pumanque, Palmilla y Peralillo, y Un juzgado con asiento en la comuna de Pichilemu, con jurisdicción sobre las comunas de la provincia Cardenal Caro, con excepción de la comuna de Navidad.
 
@@ -472,7 +476,7 @@ Un juzgado con asiento en la comuna de Maullín, con jurisdicción sobre la comu
 
 Un juzgado con asiento en la comuna de Castro, con jurisdicción sobre las comunas de Castro, Chonchi, Puqueldón, Queilén y Quellón;
 
-Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud, Quemchi y Dalcahue. Este tribunal mantendrá su carácter de juzgado de cabecera de provincia, para todos los efectos legales y sin perjuicio de la calidad de juzgado de cabecera de provincia que corresponde al juzgado de Castro;
+Un juzgado con asiento en la comuna de Ancud, con jurisdicción sobre las comunas de Ancud, Quemchi y Dalcahue. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales y sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
 
 Un juzgado con asiento en la comuna de Quinchao, con jurisdicción sobre las comunas de Quinchao y Curaco de Vélez, y
 
@@ -574,7 +578,7 @@ d) De las causas por crimen o simple delito, salvo de aquellas cuyo conocimiento
 
 e) De las causas por faltas del Código Penal, que se cometan en la ciudad donde tenga su asiento el tribunal, siempre que no haya en ella juez de Policía Local que sea abogado.
 
-Sin embargo, los jueces del crimen de Santiago conocerán de las faltas sancionadas en los artículos 494, N°s. 5, 7, 12, 16, 19, 20 y 21; 495, N°s. 3, 15, 21, y 22; 496 N°s. 1, 8, 18, 31 y 33, y 497 del Código Penal, que se cometan dentro de las comunas de la Provincia de Santiago, con excepción, de las comunas, de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
+Sin embargo, los jueces del crimen de Santiago, conocerán de las faltas sancionadas en los artículos 494, N°s. 5, 7, 12, 16, 19, 20 y 21; 495 N°s. 3, 15, 21 y 22; 496, N°s. 1, 8, 18, 31 y 33; y 497 del Código Penal, que se cometan dentro de las comunas de Santiago, Quinta Normal, Ñuñoa, Providencia, Las Condes y La Reina.
 
 f) De las infracciones a la Ley de Alcoholes que trata el Libro II de dicha ley, con excepción de las contempladas en los artículos 113 y 117, que se cometan fuera de la comuna asiento del tribunal.
 
@@ -680,11 +684,11 @@ d) El de la Corte de Copiapó comprenderá la Tercera Región de Atacama;
 
 e) El de la Corte de la Serena comprenderá la Cuarta Región de Coquimbo;
 
-f) El de la Corte de Valparaíso comprenderá la Quinta Región de Valparaíso, exceptuada la provincia de San Antonio; además, comprenderá la comuna de Curacaví, de la Región Metropolitana de Santiago;
+f) El de la Corte de Valparaíso comprenderá la Quinta Región de Valparaíso, exceptuada la provincia de San Antonio, salvo las comunas de El Quisco y Algarrobo; además, comprenderá la comuna de Curacaví, de la Región Metropolitana de Santiago;
 
 g) El de la Corte de Santiago comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Chacabuco y de Santiago, con exclusión de las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda;
 
-h) El de la Corte de San Miguel comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Cordillera, Maipo y Talagante; a la provincia de Melipilla, con exclusión de la comuna de Curacaví; a las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda, de la provincia de Santiago. Tendrá asimismo jurisdicción sobre la provincia de San Antonio, de la Quinta Región de Valparaíso y sobre la comuna de Navidad, de la Sexta Región del Libertador General Bernardo O'Higgins;
+h) El de la Corte de San Miguel comprenderá la parte de la Región Metropolitana de Santiago correspondiente a las provincias de Cordillera, Maipo y Talagante; a la provincia de Melipilla, con exclusión de la comuna de Curacaví; a las comunas de Lo Espejo, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque, La Pintana y Pedro Aguirre Cerda, de la provincia de Santiago. Tendrá asimismo jurisdicción sobre la provincia de San Antonio con excepción de las comunas de El Quisco y Algarrobo, de la Quinta Región de Valparaíso y sobre la comuna de Navidad, de la Sexta Región del Libertador General Bernardo O'Higgins;
 
 i) El de la Corte de Rancagua comprenderá la Sexta Región, del libertador General Bernardo O'Higgins, exceptuada la comuna de Navidad de la provincia Cardenal Caro, de la misma Región;
 
@@ -2118,7 +2122,7 @@ Para ser juez de letras se requiere:
 
 1° Nacionalidad chilena, natural o legal;
 
-2° Tener no menos de 25 años de edad;
+2° Tener 25 años de edad;
 
 3° Tener el título de abogado.
 
@@ -2126,7 +2130,7 @@ Sin perjuicio de lo dispuesto en el artículo 280, los abogados y los funcionari
 
 Para ser juez de un juzgado de letras de una comuna o agrupación de comunas: haber ejercido por dos años la profesión de abogado;
 
-Para ser juez de un juzgado de letras de capital de provincia: haber ejercido por seis años la profesión de abogado o servido por dos años un juzgado de letras de comuna o agrupación de comunas;
+Para ser juez de un juzgado de letras de capital de provincia: haber ejercido por seis años la profesi�n de abogado o servido por dos años un juzgado de letras de comuna o agrupación de comunas;
 
 Para ser juez de un juzgado de letras de asiento de Corte: haber ejercido por nueve años la profesión de abogado o servido por cinco años un juzgado de letras de comuna o agrupación de comunas o por dos años uno de capital de provincia.
 
