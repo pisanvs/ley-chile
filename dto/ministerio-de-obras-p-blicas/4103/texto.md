@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.103, de 31 de agosto de 2000, se expropió el lote de terreno Nº8-11, superficie 2.326,7 m2., rol de avalúo 186-102, comuna de Colina, para la obra Camino Santiago-Colina-Los Andes, Sector ''C'', Peldehue-Casas de Chacabuco, Pasarela Peatonal y Paradero de Buses Los Canelos, Región Metropolitana y se acordó el valor de indemnización con su propietaria Agrícola Ganadera Aguilar y Petrinovic Limitada, ascendente a la cantidad de $6.673.746.
+
+Fiscal del Ministerio de Obras Públicas.
