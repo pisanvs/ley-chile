@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.730, de 23 de diciembre de 2002, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3-1, superficie 200 m², rol de avalúo 209-52, comuna de San Javier, Séptima Región, para la obra Concesión Internacional Ruta 5 Tramo: Talca - Chillán, Sector Kms. 271.480,00 al 272.200,00. Posteriormente, por decreto MOP Nº 50, de 26 de febrero de 2003, se autorizó el convenio directo de precio ad - referéndum y se acordó el valor de indemnización con su propietaria doña María Verónica Villagrán Lanctot, ascendente a la cantidad de $1.160.000.- para el lote Nº 3-1.
+
+Fiscal del Ministerio de Obras Públicas.
