@@ -1,0 +1,7 @@
+Arancel de Boticas
+
+Santiago i Agosto 23 de 1813.
+
+Visto el nuevo arancel de Boticas que ha formado, i traducido al idioma castellano el Proto-Médico de esta capital Dr. D. José Antonio Rios; siendo indudables las ventajas que son susceptibles de este loable pensamiento como exterminador de la mas detestable arbitrariedad, observada comunmente en el expendio de medicinas, se aprueba desde luego en todas sus partes, i para que surta los efectos de utilidad, i conveniencia pública detallado por su autor, imprímase de él con la posible preferencia tantos ejemplares, cuantos sean suficientes, no sólo a proveer (por el justo precio que fije la Prensa) a los Boticarios, Médicos, i Cirujanos que necesariamente deberán conservarlos siempre consigo, como un documento sin el que no podrían ejercer las funciones de sus cargos, sino a cualquier padre de familia, que quiera tenerle para satisfacerse en el valor de las recetas, que jire el facultativo en el caso de una enfermedad en su casa. El Gobierno reconoce como un servicio digno de su consideracion el que ha hecho en esta parte a la humanidad el Proto-Médico le da las gracias, i manda se le transcriba este auto para su inteligencia, i que cuide de su mas puntual cumplimiento en la parte que le toca, imprimiéndose en el próximo Monitor.-
+
+Infante.-Eyzaguirre.-Pérez.- Egaña, secretario.
