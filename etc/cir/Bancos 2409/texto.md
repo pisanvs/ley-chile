@@ -4732,9 +4732,9 @@ N° 3055 "Depósitos y captaciones".
 
 Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera. La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
 
-3.2.- Inversiones financieras en el exterior que se refiere el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
+3.2.- Inversiones financieras en el exterior.
 
-Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por inversiones financieras en el exterior a que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras, demostradas en la partida 1730, hasta un máximo equivalente al 25% de la suma de los depósitos a plazo en moneda extranjera.
+Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por las inversiones financieras en el exterior, correspondientes a los instrumentos señalados en el Anexo N° 1 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile. El monto deducible de las inversiones financieras en el exterior podrá aplicarse al monto total de las obligaciones, considerando el equivalente en dólares estadounidenses según las paridades señaladas en el N° 2 del título I de este Capítulo.
 
 ### 4. Encaje exigido y mantenido
 
@@ -4827,6 +4827,8 @@ A continuación se señalan los principales indicadores que guardan relación co
 > **Nota.** La letra B) de la Circular 2759, SBIF, promulgada el 29.09.1993, modifica el presente Anexo, actualizando las cuentas consideradas para los principales indicadores que se utilizan en el control del cumplimiento de las normas relativas a encaje y a reserva técnica.
 
 > **Nota.** NOTA 1 La letra C) de la Circular 2793, SBIF, promulgada el 05.10.1994, modifica el presente Anexo, a fin de incorporar la cuenta correspondiente a inversiones en bancos extranjeros, en los indicadores del Sistema Contable relativos al Capital pagado y reservas.
+
+> **Nota.** NOTA 2 La letra B) de la Circular 2806, SBIF, promulgada el 11.01.1995, modifica el presente Anexo, a fin de actualizar el indicador correspondiente a las inversiones deducibles de encaje en moneda extranjera.
 
 CAPITULO 4-2 (Bancos y Financieras)
 
@@ -10462,7 +10464,7 @@ Las instituciones financieras deberán informar a esta Superintendencia la compo
 
 ANEXO N° 1
 
-CUENTAS PARA LAS INVERSIONES FINANCIERAS
+CUENTAS PARA LAS INVERSIONES FINANCIERAS.
 
 Código
 
@@ -10474,13 +10476,13 @@ Código
 
 1706 001 00 Documentos del Banco Central intransferibles.
 
-1706 002 00 Documentos del Banco Central transferibles sólo entre IF
+1706 002 00 Documentos del Banco Central transferibles sólo entre IF.
 
-1706 003 00 - Pagarés Capitulo XVIII (Cupos-DB)
+1706 003 00 - Pagarés Capítulo XVII (Cupos-DB)
 
-1706 004 00 - Descuentos Pagarés Capitulo XVIII (Cupos-CR)
+1706 004 00 - Descuentos Pagarés Capítulo XVIII (Cupos-CR)
 
-1710 000 00 DOCUMENTOS EMITIDOS POR ORGANISMOS FISCALES.
+1710 000 00 DOCUMENTOS EMITIDOS POR ORGANISMOS FISCALES
 
 1710 101 00 Pagarés de la Tesorería General de la República con mercado secundario.
 
@@ -10494,33 +10496,19 @@ Código
 
 1725 102 00 Bonos.
 
-1725 103 00 Depósitos a plazo.
+1725 103 00 Depósitos a plazo
 
 1725 199 00 Otros documentos.
 
-1730 000 00 INVERSIONES EN EL EXTERIOR.
+1730 000 00 INVERSIONES EN EL EXTERIOR
 
-1730 101 00 Bonos u obligaciones no afectas a límite artículo 84 LGB.
+1730 101 00 Bonos u obligaciones no afectas a límite artículo 84 LGB
 
-1730 102 00 Depósitos a plazo en el exterior.
+1730 102 00 Inversiones no deducibles de encaje
 
 1730 199 00 Otros instrumentos financieros emitidos en el exterior.
 
-1735 000 00 OTRAS INVERSIONES FINANCIERAS.
-
-1735 101 00 Letras de crédito de propia emisión.
-
-1735 102 00 Bonos de propia emisión.
-
-1735 103 00 Bonos o debentures.
-
-1735 104 00 Inversiones en oro.
-
-1735 105 00 Cuotas de fondos mutuos de renta fija.
-
-1735 199 00 Otras inversiones financieras.
-
-NOTA: Las cuentas para registrar los instrumentos cedidos con pacto de retrocompra se indican en el Anexo N° 2 de este Capitulo.
+* En esta cuenta deben incluirse todas aquellas inversiones en el exterior que no cumplan con las condiciones señaladas en el Anexo N° 1 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 ANEXO N° 2
 
