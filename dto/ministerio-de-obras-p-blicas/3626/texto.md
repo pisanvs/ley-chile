@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.626 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 95-D, superficie 222 m², rol de avalúo 156-1, comuna de Osorno, para la obra ''Concesión Internacional Ruta 5 Tramo: Río Bueno-Puerto Montt, Sector: Enlace Osorno Km. 918,100 a Km. 919,560'' y se acordó el valor de indemnización con su propietario María Enermes Lafquen Oyarzún, ascendente a la cantidad de $23.718.649.-
+
+Fiscal del Ministerio de Obras Públicas.
