@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 598, de 30 de junio de 1997, se expropió el lote de terreno N° 2, superficie 2.335 M2., rol de avalúo 362-107, comuna de La Ligua, para la obra Camino Conservación Periódica y Construcción Vado Sector Sta. Marta y Mejoramiento Ruta E-253 y se acordó precio de indemnización con su propietario Emiliano Lillo Olivarez. ascendente a la cantidad de $3.021.578.
+
+Fiscal del Ministerio de Obras Públicas
