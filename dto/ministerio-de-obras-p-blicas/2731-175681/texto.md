@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.731, de 30 de junio de 2000, se expropiaron los lotes de terreno Nºs. 58 y 59, superficies 1.115,18 y 1.089,26 m2., respectivamente, Rol de avalúo 1.131-28, comuna de Castro, para la obra Camino Ruta W-65 y W-55, sector Cruce Longitudinal (Pid Pid) - Putemun - Dalcahue, Kms. 0.000 al 11,991647 y se acordó precio de la indemnización con su propietario Manuel Miranda Torres, ascendente a la cantidad de $1.620.568, para los lotes Nºs. 58 y 59.
+
+- Fiscal del Ministerio de Obras Públicas.
