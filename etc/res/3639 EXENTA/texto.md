@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.639, de 23 de diciembre de 2004, de esta Subsecretaría, amplíase por 10 meses respecto del recurso Alfonsino y por 5 meses respecto del recurso Besugo, a contar del 23 de agosto de 2004, el plazo otorgado a PESQUERA SAN JOSE S.A., para iniciar actividades pesqueras extractivas con la nave "Don Julio", respecto de cada uno de los recursos recién indicados, por fuera del área de reserva artesanal, en el área marítima correspondiente a la Isla de Pascua, Archipiélago de Juan Fernández, Islas Sala y Gómez e Islas Desventuradas, con arrastre y palangre, en virtud de haberse acreditado la circunstancia de fuerza mayor invocada por la peticionaria.
+
+Valparaíso, 23 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
