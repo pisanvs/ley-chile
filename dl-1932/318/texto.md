@@ -1,0 +1,13 @@
+TRASPASA FONDOS
+
+Núm. 318.- Santiago, 28 de Julio de 1932.- He acordado y dicto el siguiente
+
+Decreto-ley:
+
+#### Artículo 1
+
+<!-- parte:7123827 -->
+
+Traspásase de 06|01|04|v a 03|02|01 la suma de doce mil pesos ($12,000).
+
+Tómese razón, comuníquese y publíquese.- CARLOS DAVILA.- Enrique Zañartu P.
