@@ -17036,7 +17036,7 @@ b) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de camb
 
 c) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos a favor de exportadores por bancos nacionales o extranjeros, con motivo de la negociación de cartas de crédito;
 
-d) La negociación de cartas de crédito a la vista o a plazo por exportaciones chilenas, con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los créditos y avances que otorguen las instituciones bancarias establecidas en Chile a bancos del exterior por el financiamiento del pago de tales cartas de crédito.
+d) La negociación de cartas de crédito a la vista o a plazo por exportaciones chilenas, con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los créditos y avances que otorguen las instituciones bancarias establecidas en Chile a bancos del exterior por el financiamiento del pago de tales cartas de crédito, como asimismo, los pagos anticipados a los beneficiarios de cartas de crédito negociadas a plazo no confirmadas.
 
 e) Avales otorgados para responder como garante directo o como contrafiador o avalista de documentos emitidos en el exterior con el objeto de garantizar la calidad de las exportaciones chilenas o la seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos o por el cumplimiento de contratos de exportación, así como los préstamos cursados para emitir boletas de garantía o cartas de crédito stand by con los mismos propósitos.
 
@@ -24522,7 +24522,9 @@ Están facultadas para operar en los Convenios de Pagos y Créditos Reciproco, l
 
 1.6. Financiamiento de cartas de crédito y pago anticipado de obligaciones.
 
-Las empresas bancarias están facultadas para financiar el pago a los respectivos beneficiarios, de cartas de crédito de exportación, por el período que medie entre la fecha en que se efectúe dicho pago, de acuerdo a los términos del acreditivo, y la que se hubiere convenido para su rembolso. Asimismo, podrán anticipar, en las condiciones que convengan con los beneficiarios, el pago de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación.
+Las empresas bancarias están facultadas para financiar el pago a los respectivos beneficiarios, de cartas de crédito de exportación, por el período que medie entre la fecha en que se efectúe dicho pago de acuerdo a los términos del acreditivo, y la que se hubiere convenido para el rembolso.
+
+Asimismo, los bancos podrán anticipar, en las condiciones que convengan con los beneficiarios, el pago de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación, como también de aquellas cartas de crédito no confirmadas que hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar el pago anticipado y rembolsarse al vencimiento.
 
 ### 2. Cobranzas sobre el exterior
 
@@ -24690,15 +24692,29 @@ Haber: - "Avances otorgados al exterior-Exportaciones ALADI", - "Avances otorgad
 
 Simultáneamente se deberá revertir el asiento contable de que trata la letra b) del numeral 3.1.4, cuando se trate de cartas de crédito negociadas con pago diferido, en los casos que proceda.
 
-3.1.7.- Pago anticipado de la obligación a favor del beneficiario.
+3.1.7. Pago anticipado a los beneficiarios.
 
-Los bancos que efectúen el pago de las obligaciones contraídas a favor de los beneficiarios de cartas de crédito negociadas a plazo, antes de la fecha de vencimiento de tales obligaciones, efectuarán el siguiente asiento contable:
+a) Cartas de crédito no confirmadas.
 
-Debe: - "Obligaciones por créditos de exportación negociados-ALADI", o bien,
+Los bancos que efectúen pagos anticipados de cartas de crédito a plazo no confirmadas, que hayan sido negociadas sin reservas y que cuenten previamente con la autorización de rembolso del banco emisor y con su conformidad para realizar el pago anticipado al beneficiario, registrarán esos anticipos de la siguiente forma:
+
+Debe: - "Deudores de créditos pagados anticipadamente-Exportaciones ALADI", o bien,
+
+- "Deudores de créditos pagados anticipadamente-Exportaciones otros países".
+
+Estas cuentas reflejarán la obligación del banco extranjero y corresponden a la partida 1130 ó 1225.
+
+Haber: - La cuenta que corresponda según el destino que se le dé a la moneda extranjera.
+
+b) Cartas de crédito confirmadas.
+
+Los bancos que realicen el pago de las obligaciones contraídas a favor de los beneficiarios de cartas de crédito confirmadas y negociadas a plazo, antes de la fecha de vencimiento de tales obligaciones, efectuarán el siguiente asiento contable:
+
+Debe: - "Obligaciones por créditos de exportación negociados- ALADI", o bien,
 
 - "Obligaciones por créditos de exportación negociados-Otros países", según proceda.
 
-Haber: La cuenta que corresponda según el destino que se le dé a la moneda extranjera.
+Haber: - La cuenta que corresponda según el destino que se le dé a la moneda extranjera.
 
 3.2.- Cobranzas sobre el exterior.
 
@@ -24852,7 +24868,9 @@ El pago de los créditos externos, por los cuales no se hayan efectuado embarque
 
 ### III. FINANCIAMIENTOS INTERNOS
 
-Los financiamientos internos de exportación que otorguen las empresas bancarias, pueden asumir las modalidades de préstamo con letra o contra suscripción de pagaré, como también pueden corresponder al descuento o compra de letras de cambio o pagarés, con responsabilidad del endosantes o sin ella, originados en cartas de crédito negociadas a plazo, excepto aquellos documentos aceptados por el propio banco, o en exportaciones efectuadas en cobranza.
+Los financiamientos internos de exportación que otorguen las empresas bancarias, pueden asumir las modalidades de préstamo con letra o contra suscripción de pagaré, como también pueden corresponder al descuento o compra de letras de cambio o pagarés, con responsabilidad del endosante o sin ella, originados en cartas de crédito negociadas a plazo o en exportaciones efectuadas en cobranza.
+
+Asimismo, quedan comprendidos en estos financiamientos los pagos anticipados de las obligaciones derivadas de la negociación de cartas de crédito confirmadas, pagaderas a plazo o contra aceptación, como también los que se hagan por cartas de crédito no confirmadas, siempre que éstas hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar dicho pago anticipado y para rembolsarse al vencimiento.
 
 ### 1. Liquidación de créditos internos
 
@@ -24874,7 +24892,9 @@ La tasa de interés que se aplique a estas operaciones será la que se convenga 
 
 ### 4. Anticipos sobre cartas de crédito negociadas
 
-De conformidad con lo dispuesto en el Capítulo 14-1 de esta Recopilación, las instituciones bancarias están facultadas para otorgar financiamiento a los respectivos emisores de cartas de crédito de exportación, pagaderas a la vista o a plazo, como asimismo anticipar a los beneficiarios el pago de las obligaciones contraídas en su favor con motivo de la negociación a plazo de las cartas de crédito que hayan confirmado.
+De conformidad con lo dispuesto en los Capítulos 14-1 y 13-27 de esta Recopilación, las instituciones bancarias están facultadas para otorgar financiamiento a los respectivos emisores de cartas de crédito de exportación negociadas, confirmadas y no confirmadas, pagaderas a la vista o a plazo.
+
+Asimismo, los bancos pueden anticipar a los beneficiarios el pago de las obligaciones contraídas en su favor con motivo de la negociación a plazo de las cartas de crédito que hayan confirmado, como también podrán pagar anticipadamente las cartas de crédito a plazo, no confirmadas, siempre que hayan sido negociadas sin reservas por el banco emisor y que cuenten con la autorización de ese banco para cursar dicho pago anticipado y para rembolsarse al vencimiento.
 
 5. Adquisición de letras o pagarés correspondientes a exportaciones en cobranza reembolsables por intermedio de Convenio de Crédito Recíproco.
 
