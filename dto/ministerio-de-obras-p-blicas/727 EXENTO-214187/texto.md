@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº727 de fecha 31 de julio de 2003, se expropiaron los lotes de terreno Nº88, 89 y 90, superficies 1.516,00 m², 124,00 m² y 437,00 m², roles de avalúo Nºs 514-91 y 514-92, comuna de Río Bueno, para la obra "Camino Río Bueno - Crucero, Rol T-90-U y T-933, tramo Km. 0,00000 a Km. 20,90000 (II parte), comuna de Río Bueno, Provincia de Valdivia", X Región y se acordó el valor de la indemnización con su propietario Carlos Néstor Pérez Vera, ascendente a la cantidad de $2.317.790.
+
+Fiscal del Ministerio de Obras Públicas.
