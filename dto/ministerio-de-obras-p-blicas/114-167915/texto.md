@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 114, de 22 de Abril de 1985, se expropiaron lotes Nºs. 2 y 3, superficies 10.865 m²., y 21.181, 50 m²., roles de avalúos 500-22 y 501-1, comuna: de Puerto Saavedra, para Agua Potable de Puerto Saavedra, zona de captación-embalse y se acordó el precio de indemnización con sus propietarios don Emilio Garabito Espinoza y Juan Rigoberto Nahuelcoy Mellao, ascendente a $ 107.346 y $ 209.273, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
