@@ -1,0 +1,7 @@
+Por resolución No. 958 de 08 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CRIADERO DE OSTRAS HUEIHUE S.A., R.U.T. No. 93.878.000-5, domiciliado en la ciudad de Castro, para ampliar actividades pesqueras, que tiene autorizadas por resolución No. 811, de 1985, de esta Subsecretaría, en orden a incorporar al establecimiento de cultivo, que tiene autorizado por la resolución señalada precedentemente, las especies salmón plateado, trucha arco iris y salmón del Atlántico. Utilizar en la formación del cultivo la cantidad total de 10.000 smolts de salmón plateado; 180.000 smolts de trucha arco iris y 50.000 smolts de salmón del Atlántico, los que deber adquirir a centros de cultivos autorizados.
+
+Asimismo, emplear en el cultivo y crecimiento de las especies señaladas 20 bolsas jaula de 15x15x5 mts. cada una. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Déjase sin efecto resolución No. 666, de 1992, de esta Subsecretaría, en virtud de lo dispuesto en el artículo 6° del decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 08 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
