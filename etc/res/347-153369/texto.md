@@ -1,0 +1,3 @@
+Por Resolución N° 347 de 23 de abril de 1986 de Dirección SERVIU Metropolitano, se ordenó expropiación, conforme DL N° 2.186 de 1978, parte inmueble ubicado en Avenida Departamental N° 860, presunto rol avalúos N° 5.344-39, comuna San Miguel, aparentemente dominio de doña Amelia Gutiérrez Gutiérrez. Comisión Tasadora integrada por Sres. Juan Pañella Casares, René Ureta Köster y Jorge Navarro Navarrete, arquitectos, según informe del mes de noviembre de 1985 fijó monto provisional indemnización en $ 980.000.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
