@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 448, de fecha 26 de marzo del 2004, se expropió el lote de terreno Nº 47-A, superficie 528 m², Rol Nº 54-13, comuna de San Fabián, VIII Región, para la obra "Mejoramiento Ruta N-31, Bifurcación El Palo-San Fabián, Km. 26,60000 al 41,32000" y se acordó el valor de indemnización con su propietario Jesús Nazareno Sandoval Valdés, ascendente a la cantidad de $716.260.
+
+Fiscal del Ministerio de Obras Públicas.
