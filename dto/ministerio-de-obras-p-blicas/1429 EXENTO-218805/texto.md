@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.429 de fecha 31 de octubre de 2003, se expropió el lote de terreno Nº 5-F, superficie 168,77 m2, rol de avalúo Nº 323-85, comuna de Río Negro, para la obra "Camino Ruta U-72, Sector Huilma - Riachuelo, Tramo Km. 18,14000 a Km. 33,91000, comuna de Río Negro, provincia de Osorno", X Región y se acordó el valor de la indemnización con su propietario Rubén Agusto Peralta Caripán, ascendente a la cantidad de $1.663.816.-
+
+Fiscal del Ministerio de Obras Públicas.
