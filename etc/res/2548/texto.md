@@ -1,0 +1,3 @@
+Por resolución Nº 2.548 de 23 de diciembre de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96103101, presentada por JUAN ERNESTO ALVARADO MANSILLA, para operar un centro de cultivo ubicado al Noreste de Punta Tutil, Canal Lemuy, Comuna de Castro, Provincia de Chiloé, X Región.
+
+Valparaíso, 23 de diciembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
