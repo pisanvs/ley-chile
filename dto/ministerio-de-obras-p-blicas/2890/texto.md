@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.890 de fecha 31 de diciembre de 1998, se expropió los lotes de terreno Nºs 9-A, 10 y 10-1, superficie 8.856 m², 28.531 m² y 202 m² respectivamente, rol de avalúo 2223-12, comuna de Chillán Viejo, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli Sector 1 Km. 414.265,20 al Km. 423.633,50'', y se acordó el valor de indemnización con su propietario Guillermo Muñoz Contreras, ascendente a la cantidad de $32.363.838.
+
+Fiscal del Ministerio de Obras Públicas.
