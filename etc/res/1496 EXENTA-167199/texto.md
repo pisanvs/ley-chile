@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 1.496, de fecha 10 de Noviembre de 1987, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a la Asociación Gremial de Dueños de Buses Peñalolén Mapocho Quilicura para efectuar el Servicio de Combinación con el Ferrocarril Metropolitano de Santiago, que se individualiza más adelante, cuyo trazado se describe a continuación:
+
+LINEA DE BUSES No. 100 "PEÑALOLEN - MAPOCHO - QUILICURA" SERVICIO DE COMBINACION: QUILICURA - PANAMERICANA - METRO CAL Y CANTO Circunvalación: Desde su terminal en Gabriela Mistral, frente al No. 0328, continúa por Gabriela Mistral - Intendente Saavedra - General San Martín - José Francisco Vergara - Arturo Prat - Manuel A. Matta - H. Caro - Manuel de Salas - Calle Nueva Carampangue - 4 Oriente - Los Cóndores - Lo Campino - Manuel A. Matta - Carretera Panamericana Norte - Av. Santa María - Puente Independencia - Acceso Estación Puente Cal y Canto - Balmaceda - Puente Bulnes - Panamericana Norte - Manuel A. Matta - Lo Campino - Los Cóndores - 4 Oriente - Carampangue - Calle Nueva - Manuel de Salas - H. Caro - Manuel A. Matta - Arturo Prat - José Francisco Vergara - General San Martín - Intendente Saavedra - Gabriela Mistral hasta frente al No. 0328 su terminal.
+
+Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
