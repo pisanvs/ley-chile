@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 592, de 28 de marzo de 2002, se expropió el lote de terreno Nº 25-1, superficie 3.102 m2, rol de avalúo 3452-5, comuna de Quilpué, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso Viña del Mar Troncal Sur Tramo 2. Kms. 95.320,00 al 96.000,00, Quinta Región y se acordó el valor de indemnización con su propietario Inmobiliaria Icafal - Ingevec Limitada, ascendente a la cantidad de $20.906.451.- para el lote Nº 25-1.
+
+Fiscal del Ministerio de Obras Públicas.
