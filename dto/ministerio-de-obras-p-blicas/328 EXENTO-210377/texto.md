@@ -1,0 +1,3 @@
+Por decreto exento MOP. Nº328 de fecha 31 de marzo de 2003, se expropió el lote de terreno Nº63, superficie 198 m2., Rol de Avalúo Nº2087-66, comuna de Melipilla, para la obra: "Camino Reposición Ruta G-74-F, Sector Melipilla-Bollenar, Km.0,00000 al Km.14,23039", Región Metropolitana y se acordó el valor de la indemnización con su propietaria Ana María Rojas Olivares y otra, ascendente a la cantidad de $1.272.071.-
+
+Fiscal del Ministerio de Obras Públicas.
