@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta N° 338 de 19 de agosto de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se autoriza a María Navarro San Martín, Héctor Valdebenito Gonz lez, Alberto Anzorena Geis, Ida Geis, Luis Binder Binder, Irene Fernández Retamal, María Rodríguez Pereira, Reinerio Milanca Esparza, Franco Lagos Mundaca, Silvia Borcsok Felgenhaver, Marisol Diocares Zapata, Leonor Cuevas Valenzuela, René Reyes Pineda, Luis Bastidas Leal, Rafael Palacios Soto, Carlos Vidal S nchez, Pedro Pérez Van Der Molen, Luis Mura Flores, Eladio Huaiquimilla San Martín, Anselmo Unzueta Minder, Hernán Fikar Villagra y Osvaldo Escares Gallardo para efectuar el servicio de taxi colectivo urbano de la Línea N° 45 "Corvi-Centro" de Valdivia, cuyo trazado, fue autorizado por Resolución Exenta N° 337 de 19 de agosto de 1985, de esta Secretaria Regional.
+
+- Luis Boldt Quezada, Secretario Regional Ministerial, Transportes y Telecomunicaciones X Región.
