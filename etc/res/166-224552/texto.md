@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 166, 5 abril 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Paicaví Nº 1679, Rol de Avalúo Nº 702-21 comuna Concepción, superficie 90 m2. de terreno y 44,80 m2. de edificación, dentro polígono y linderos señalados plano expropiación S8R-18386; de aparente dominio de Mariana Lilian Nancavil Moyna, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Andrés Aníbal Risso Caamaño, arquitecto, Marcelo Eduardo Puentes Garrido, ingeniero civil, y Juan José Gutiérrez Vélez, constructor civil, según informe de fecha 20 de febrero de 2004, fijó monto provisional indemnización en $14.601.762.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
