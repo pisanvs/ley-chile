@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.292, de 20 de septiembre de 2001 y en base a la facultada otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6b, para la obra Habilitación Nuevo Camino La Pólvora, sector Puertas Negras - Calle San Mateo, Kms. 12,84506 al 17,86424, camino La Pólvora (sect. 2 y 3), que figura a nombre de Esval, sin rol, superficie 6.679,00 m2, comuna de Valparaíso. La Comisión de Peritos, con fecha 23 de junio de 2000, fijó la indemnización provisional en la cantidad de $2.671.600, la que se pagará al contado. La publicación se efectúa en cumplimiento de lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
