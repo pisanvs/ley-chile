@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 390 EXENTA, DE 2002
+
+Certifico: Que por resolución exenta Nº 390 de 12 de septiembre de 2002, se rectificó la resolución exenta Nº 381 de 30 de agosto de 2002, en su número 1) y primer párrafo del Resuelvo, en el sentido de modificar el nombre de "Banchile Administradora de Fondos Mutuos S.A." por "Administradora Banchile de Fondos Mutuos S.A.". Como consecuencia de lo anterior se rectifica el Certificado emitido conforme a la resolución exenta rectificada Nº 381 de 30 de agosto de 2002 y que fue publicado en Diario Oficial Nº 37.353 de 6 de septiembre de 2002 de la siguiente manera, donde diga: "Banchile Administradora de Fondos Mutuos S.A." debe decir "Administradora Banchile de Fondos Mutuos S.A.". En lo no rectificado, rige íntegramente certificado original.
+
+Santiago, 12 de septiembre de 2002.- Carmen Undurraga Martínez, Secretario General.
