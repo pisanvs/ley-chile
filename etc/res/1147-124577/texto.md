@@ -1,0 +1,7 @@
+AUTORIZA A JIMENEZ Y COMPAÑIA LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 1.147, de 26 de Octubre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Jiménez y Compañía Limitada, R.U.T. No. 79.554.370-8, domiciliada en Iquique, para ampliar las actividades pesqueras autorizadas por resolución No. 410, de 1985, de esta Subsecretaría, en orden a operar con la embarcación Acrux, en el litoral de las Regiones I a XII, donde podrá extraer los siguientes recursos hidrobiológicos: Agujilla, Atún aleta larga, Atún aleta amarilla y Bonito. Asimismo, la peticionaria podrá extraer con la nave antes referida, en el litoral de las Regiones III a VII y IX a XII, los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Jurel, Sardina común y Sardina española. Se deniega la autorización solicitada por la peticionaria para extraer con la nave Acrux, en el litoral de las Regiones 1, II y VIII los recursos hidrobiológicos Anchoveta, Caballa, Jurel, Sardina común y Sardina española, de conformidad a lo dispuesto en el Decreto No. 436, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Octubre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
