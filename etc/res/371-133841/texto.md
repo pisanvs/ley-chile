@@ -1,0 +1,3 @@
+Por resolución Nº 371, de 11 de marzo de 1999, de esta Subsecretaría, deniégase la autorización solicitada por SOCIEDAD PESQUERA COLOSO S.A., para incluir a la nave ''Aventurero'', autorizada por resoluciones Nº 636 de 1985, Nº 357 de 1989, Nº 845 de 1993, Nº 1.153 de 1996 y Nº 370 de 1999, todas de esta Subsecretaría, en la nómina de naves autorizadas para operar en la pesquería de Jurel, en la III y IV Regiones, señalados en la resolución Nº 1.133 de 1998, de esta Subsecretaría, de conformidad con lo establecido en los informes, reglamentos y normas legales.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
