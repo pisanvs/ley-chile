@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta No. 763, de Octubre 30 de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana, se modifica el recorrido de la Línea de Taxi Colectivo No. 36 "Santa Olga - Metro Lo Ovalle", autorizado por Resolución Exenta No. 343, de 08.06.84, quedando su nuevo trazado como sigue:
+
+Circunvalación: Adolfo López Mateo con Acapulco - Adolfo López Mateo - Durango Chihuahua - Av. La Feria - Fernández Albano - Huasco - Lucila Godoy - Inés de Suárez - Lincoln - Valparaíso - Av. Lo Ovalle - Nueva Dos - Quellón - Locarno - Dalcahua - Nueva Uno - Av. Lo Ovalle - Colón - Carvajal - Av. José Miguel Carrera - Briones Luco - Nueva Uno - Dalcahua - Locarno - Quellón - Nueva Dos - Briones Luco - Avda. Pdte. José Joaquín Prieto - Av. Lo Ovalle - Valparaíso - Lincoln - Inés de Suárez - Lucila Godoy - Huasco - Fernández Albano - Av. La Feria - Chihuahua - Durango - Adolfo López Mateo - Guanajuato - Fernández Albano - Viña del Mar - Con-Cón - Valparaíso - Reñaca - Viña del Mar - Fernández Albano - Guanajuato - Adolfo López Mateo hasta Acapulco.
+
+Santiago, Noviembre 5 de 1985.- Carlos Román Toro, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
