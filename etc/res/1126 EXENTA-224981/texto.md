@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.126, de 29 de abril de 2004, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 63 de 2004, modificada mediante resolución Nº 771 de 2004, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de Jurel, I y II Región (Año 2004), en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2004.
+
+Valparaíso, 29 de Abril de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
