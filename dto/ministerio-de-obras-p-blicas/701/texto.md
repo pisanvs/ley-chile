@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°701, de 30 de junio de 1997, se expropio los lotes de terrenos N°s 71, 71-A, 73 y 73-A superficies 4.602, 77.031, 8.406 y 4.809 m2 respectivamente, roles de avalúo 9323-6 y 9323-1, comuna de Valparaíso, para la obra Habilitación Nuevo Camino La Pólvora Etapa I, Sector Ruta 68 - Acceso sur a Valparaíso, Camino La Pólvora Rol F-724 F-730, sector Placilla-Puertas Negras y se acordó precio de indemnización con sus propietarios Sociedad Agrícola Forestal Balmaceda Limitada y Juan Rivera Barrios, ascendente a las cantidades de $164.320.964.- y $34.521.548.
+
+Fiscal del Ministerio de Obras Públicas.
