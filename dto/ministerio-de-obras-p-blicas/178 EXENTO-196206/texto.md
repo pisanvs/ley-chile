@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 178 de fecha 28 de febrero del 2002, se expropió el lote de terreno Nº 16, superficie 132 m2, Rol en Trámite, comuna de Retiro, para la obra "Camino Ruta L-75, Sector: El Ajial-Las Camelias, Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario María Inés Lastra Tapia y Otro, ascendente a la cantidad de $307.709.
+
+- Fiscal del Ministerio de Obras Públicas.
