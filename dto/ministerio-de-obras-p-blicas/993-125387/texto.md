@@ -1,0 +1,3 @@
+Por decreto MOP. No. 993, de 30 de julio de 1998, se expropió el lote de terreno No. 18, superficie 257 m2., rol de avalúo 436-14, comuna de Concepción, para la obra Proyecto Estudio de Ingeniería Mejoramiento Autopista Concepción-Talcahuano, Sector Rotonda Bonilla y Campus San Andrésy se acordó precio de indemnización con su propietario Eulogio Montero Contreras, ascendente a la cantidad de $ 19.673.095.
+
+- Fiscal del Ministerio de Obras Públicas.
