@@ -1,0 +1,3 @@
+Por decreto MOP Nº757, de 29 de febrero del 2000, se expropió el lote de terreno Nº445, superficie 119 m², rol de avalúo 7791-15, comuna de La Pintana, para la obra Concesión Internacional Ruta 5, Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietario Pedro de la Cruz Inostroza Ramírez, ascendente a la cantidad de $4.597.949.-
+
+Fiscal del Ministerio de Obras Públicas.
