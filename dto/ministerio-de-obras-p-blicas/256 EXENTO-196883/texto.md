@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 256 de fecha 18 de marzo del 2002, se expropió el lote de terreno Nº 70, superficie 413 m2., rol de avalúo Nº 233-84, comuna de Villa Alegre, para la obra "Camino Mejoramiento Ruta L-19, Sector Cruce Longitudinal (Villa Alegre - Esperanza), Tramo Km. 0,000.00 al 10,623.89" y se acordó el valor de indemnización con su propietario Jaime del Carmen Velozo Velozo, ascendente a la cantidad de $1.434.400.-
+
+Fiscal del Ministerio de Obras Públicas.
