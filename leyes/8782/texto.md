@@ -1,0 +1,1 @@
+Autoriza a las Municipalidades de Valdivia de Lontué, Hualañé, Licantén y Curepto para contratar empréstito hasta por las cantidades que menciona.
