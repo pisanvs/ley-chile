@@ -1,0 +1,5 @@
+DENIEGA AUTORIZACION QUE INDICA. DECLARA CADUCIDAD DE RESOLUCION QUE SEÑALA
+
+Por resolución N° 242, de 22 de Febrero de 1989, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la autorización solicitada por Sociedad Pesquera Industrial Anakena Limitada, domiciliada en Comuna de Hanga Roa, Provincia de Isla de Pascua, V Región, para prorrogar el plazo establecido en el numeral 7° de la resolución N° 1.300, de 1987, de esta Subsecretaría, por no haberse acreditado a su respecto la ocurrencia de un caso fortuito o fuerza mayor. Se declara la caducidad de la resolución N° 1.300, de 1987, de esta Subsecretaría conforme a lo establecido en el artículo 7° del Decreto N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 22 de Febrero de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
