@@ -1,0 +1,3 @@
+Por resolución N° 426 de 25 de Abril de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar de la fecha de la presente Resolución, el plazo de vigencia de la Resolución N° 710, de 1985, de esta Subsecretaría que autorizó a EMPRESA PESQUERA GALILEA LIMITADA, R.U.T. N° 79.591.630-K, para desarrollar actividades pesqueras extractivas con la nave "Galilea II", por haberse acreditado la existencia de fuerza mayor.
+
+Valparaíso, 25 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
