@@ -1,0 +1,13 @@
+ESTABLECE PRECIO DE REFERENCIA DEL COBRE
+
+Núm. 3.653.- Santiago, 10 de Marzo de 1981.- Visto: lo dispuesto en los decretos leyes N°s 1 y 128, de 1973; Nº 527, de 1974; y Nº 991, de 1976, La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo único
+
+Los recursos adicionales que ingresen a rentas generales de la Nación tanto por impuestos a la renta y habitacional como por excedentes de las empresas públicas y que provienen de las empresas de la Gran Minería del Cobre, generados porque el precio de venta de la libra de cobre sea superior al "precio de referencia", deberán depositarse en una cuenta especial del Servicio de Tesorería y deberán destinarse a amortizaciones extraordinarias de la deuda pública fiscal. El "precio de referencia" de la libra de cobre, será fijado por decreto supremo expedido a través del Ministerio de Hacienda. Igual procedimiento se utilizará para la autorización de los traspasos de los recursos destinados al fin señalado en el inciso anterior. El decreto supremo que fije el "precio de referencia" deberá dictarse en el mes de Octubre del año anterior al año en que va a regir. Para fijar dicho precio, se tomará en consideración el promedio de los seis años inmediatamente anteriores del precio "spot" de la Bolsa de Metales de Londres, ajustado de acuerdo al índice de Precios al por mayor de Estados Unidos de América, expresado en centavos de dólar por libra, correspondiente a moneda del último mes que se incluye en el cálculo. Respecto del año inmediatamente anterior, solamente se considerará el promedio de los meses de Enero a Agosto. El "precio de referencia" será fijado anualmente y no podrá ser superior al que resulte de las bases establecidas en el inciso anterior.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio de Castro Spikula, Ministro de Hacienda.- José Piñera Echenique, Ministro de Minería.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Seguel Morel, Teniente Coronel, Subsecretario de Hacienda.
