@@ -1,0 +1,3 @@
+Por resolución Nº 852, de 17 de abril de 2003 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Bahía Polocué, Sector B, X Región, individualizada en el artículo 1º, letra c), del D.S. Nº 700 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, BUZOS MARISCADORES, ASISTENTES Y PESCADORES ARTESANALES "POLOCUE".
+
+Valparaíso, 17 de abril de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
