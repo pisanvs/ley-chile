@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 426, de fecha 28 de septiembre de 1994, se expropiaron los lotes N°s. 66 y 68, superficies 10.800 m2. y 1.440 m2., rol de avalúo 849-43 y 849-45 respectivamente, Comuna de Vallenar, para la obra Embalse Santa Juana, sector La Laja, Etapa I, y se acordó valor de indemnización con su propietaria Justa Huanchicay Rodríguez y otros, ascendente a la cantidad de $6.457.444.-
+
+Fiscal del Ministerio de Obras Públicas.
