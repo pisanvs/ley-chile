@@ -1,0 +1,3 @@
+Por Decreto MOP N° 477, de 28 de junio de 1996, se expropió los lotes de terrenos N°s 60 y 61-A superficies 11.008 y 830 M2 rol de avalúo 222-29 comuna de Villa Alegre; para la obra Camino Ruta 5, Longitudinal Sur, Sector San Javier-Parral I, Tramo A, y se acordó precio de la indemnización con su propietario, Alfonso José Prieto Ovalle, ascendente a la cantidad de $79.146.672.
+
+- Fiscal del Ministerio de Obras Públicas.
