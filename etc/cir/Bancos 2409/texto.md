@@ -1112,221 +1112,65 @@ MATERIA:
 
 DISPOSITIVOS ELECTRONICOS AUTOSUFICIENTES.
 
-I. INSTALACION DE EQUIPOS. INFORMACION QUE DEBE PROPORCIONARSE A ESTA
+### I. GENERALIDADES
 
-SUPERINTENDENCIA.
+Para los efectos de las presentes instrucciones, se entenderá por dispositivos electrónicos autosuficientes, todos aquellos terminales habilitados para que los clientes autorizados ejecuten transacciones por vía electrónica o consulten datos relativos a sus saldos o transacciones con la respectiva institución financiera.
 
-El constante incremento en la prestación de servicios mediante equipos
+El término dispositivos electrónicos autosuficientes incluye, a vía de ejemplo, los cajeros automáticos para efectuar operaciones tales como giros y depósitos en sus cuentas corrientes o cuentas de ahorro, transferencias entre cuentas, consultas de saldos o pagos de servicios: los terminales de puntos de venta; dispositivos para transmisiones por vía telefónica o por télex que generan
 
-automatizados de consulta así como la utilización de dispositivos habilitados
+documentos que permiten ejecutar una orden; o, cualquier terminal mediante el cual el usuario debite o acredite una cuenta sin otro intermediario que el servicio automatizado.
 
-para la ejecución de operaciones que involucran movimientos de fondos a través
+### II. AUTORIZACION DE ESTA SUPERINTENDENCIA PARA LA INSTALACION DE DISPOSITIVOS ELECTRONICOS AUTOSUFICIENTES
 
-de medios electrónicos, dirigidos al usuario, que se advierte en el sistema
+La incorporación de configuraciones que deben adaptarse a las necesidades de usuarios locales y, especialmente, la prestación de servicios que deben encuadrarse en las disposiciones legales y reglamentarias vigentes, hacen necesario que esta Superintendencia autorice la habilitación de los dispositivos electrónicos autosuficientes que decidan instalar las entidades financieras.
 
-financiero, ha permitido a un importante número de instituciones mejorar la
+Para ese efecto, las instituciones fiscalizadas deberán poner en conocimiento de este Organismo todos aquellos servicios dirigidos al usuario que contemplen terminales electrónicos habilitados para la ejecución de movimientos de fondos o dispositivos para consulta de información sujeta a secreto o reserva.
 
-atención del público y disponer en períodos reducidos de tiempo la entrega de
+### 1. Información que debe proporcionarse
 
-información de apoyo para las operaciones.
+El informe que se envíe con ese objeto, deberá comprender, a lo menos, los siguientes antecedentes:
 
-Esta Superintendencia considera que la instalación del conjunto de dispositivos
+a) Descripción de los dispositivos electrónicos que se incorporarán, así como una relación de los servicios que prestarán al cliente.
 
-necesarios para desempeñar las funciones programadas, suministra beneficios
+b) Mecanismos de control interno y de seguridad necesarios para garantizar el buen servicio de la instalación; y,
 
-substanciales al usuario que interactua con el sistema y representa un
+c) El procedimiento de registro contable de la operación ejecutada por intermedio del equipo, en caso de que su utilización involucre algún tipo de transacción.
 
-importante avance en la modernización de la técnica nacional, aspecto
+Tratándose de operaciones con cajeros automáticos y terminales de punto de venta, deberá informarse, además, lo siguiente:
 
-que,indiscutiblemente, facilita la ejecución de las operaciones tradicionales.
+i) Días y horario de funcionamiento y ubicación exacta de los equipos, cuando ellos no formen parte de una red compartida con otras instituciones financieras, y
 
-No obstante, la incorporación de configuraciones que deben adaptarse a las
+ii) Oficina bancaria de la cual dependerá la operatoria administrativa y contable de dichas unidades.
 
-necesidades de usuarios locales, y especialmente, la prestación de servicios que
+No será necesario enviar la información señalada en este numeral, cuando se trate de extensión de un servicio ya existente, sea éste a nuevos clientes o a otras oficinas o dependencias de la institución financiera, en la medida en que los dispositivos y los sistemas de control y seguridad, sean los que esta Superintendencia conoció previamente.
 
-deben encuadrarse en las disposiciones legales y reglamentarias vigentes, hacen
+Sin embargo, deberá actualizarse la información relativa a cajeros automáticos y terminales de punto de venta a que se refieren los literales i) e ii), cada vez que ocurra algún cambio.
 
-necesario establecer un procedimiento de información a este Organismo que las
+### 2. Autorización para la puesta en marcha
 
-instituciones financieras deberán observar como requerimiento previo a la
+La autorización para la puesta en marcha de estos dispositivos se otorgará previa verificación, por parte de esta Superintendencia, de que el sistema contemple los controles mínimos que aseguren razonablemente el cumplimiento de las normas que rigen las operaciones que se realizarán mediante el uso de dispositivos electrónicos autosuficientes y el resguardo de los intereses de los usuarios.
 
-entrada en funcionamiento de los dispositivos que realicen las funciones o
-
-servicios que se señalan más adelante.
-
-El referido informe deberá comprender, a lo menos, los siguientes antecedentes:
-
-a) Descripción de los dispositivos electrónicos que se incorporarán, así como
-
-una relación de los servicios que prestarán al cliente.
-
-b) Mecanismos de control interno y de seguridad necesarios para garantizar el
-
-buen servicio de la instalación; y,
-
-c) En caso de que su utilización involucre algún tipo de transacción, el
-
-procedimiento de registro contable del servicio u operación ejecutada por
-
-intermedio del equipo.
-
-Tratándose de operaciones con cajeros automáticos, deberá informarse además lo
-
-siguiente:
-
-### 1. Días y horario de funcionamiento y ubicación exacta de los equipos, y
-
-2. Oficina bancaria de la cual dependerá la operatoria administrativa y contable
-
-de dichas unidades.
-
-De no mediar una comunicación escrita de esta Superintendencia, dentro del plazo
-
-de 30 días contados desde la fecha de la recepción de la información
-
-solicitada,se entenderá que no existen observaciones que formular para su puesta
-
-en marcha.
-
-Para los efectos de las presentes instrucciones, deberá ponerse en conocimiento
-
-de este Organismo la instalación de todos aquellos servicios dirigidos al
-
-usuario que contemplen dispositivos de consulta de datos o terminales
-
-electrónicos habilitados para la ejecución de movimientos de fondos.
-
-No será necesario el procedimiento anterior, cuando se trate de extensión de un
-
-servicio ya existente, sea este a nuevos clientes o a otras oficinas o
-
-dependencias de la institución financiera, en la medida en que los dispositivos
-
-y los sistemas de control y seguridad, sean los que esta Superintendencia
-
-conoció previamente.
-
-Bajo el concepto de consulta y movimiento electrónico de fondos deben incluirse
-
-todas aquellas operaciones que se originan en un terminal de
-
-computador,teléfono, télex o cinta magnética, con el objeto de ordenar, instruir
-
-o autorizar a una institución financiera para debitar o acreditar una cuenta.
-
-El referido termino incluye, pero no se limita exclusivamente, a terminales de
-
-suministro automatizado de información sobre estados de cuenta, transferencias
-
-en puntos de venta, transacciones efectuadas mediante cajeros
-
-automáticos,depósitos directos o retiros de fondos y traspasos que se inician
-
-telefónicamente.
-
-A modo de ejemplo, se citan genéricamente algunos de los dispositivos
-
-comprendidos en la precedente definición:
-
-### 1. Cajeros automáticos;
-
-### 2. Teléfono computarizado;
-
-### 3. Télex a domicilio;
-
-### 4. Cajas dispensadoras de efectivo; y,
-
-### 5. Terminales de computadores
-
-Finalmente, hago presente a Ud. que para todos los efectos legales y
-
-reglamentarios los terminales de autoservicio se entenderán como Cajas
-
-Auxiliares de Servicios y en especial para la aplicación de la norma contenida
-
-en el artículo 32, inciso 3° de la Ley General de Bancos, en relación con lo
-
-dispuesto en el artículo 31 del mismo cuerpo legal.
-
-### II. COBRO DE GASTOS Y COMISIONES A USUARIOS DE DISPOSITIVOS AUTOSUFICIENTES
+### III. COBRO DE GASTOS Y COMISIONES A USUARIOS DE LOS DISPOSITIVOS AUTOSUFICIENTES
 
 ### 1. Generalidades
 
-Las entidades bancarias que ofrecen a sus clientes de cuentas corrientes
-
-diversos servicios que pueden ser utilizados por medios de tarjetas
-
-magnetizadas, a través de los sistemas de cajeros automáticos, tales como giros
-
-y depósitos en sus cuentas corrientes, consulta de saldos, pago de
-
-cuentas,transferencias entre distintas cuentas, etc., están facultadas para
-
-cobrar a los usuarios de esos sistemas automáticos, las comisiones que pacten
-
-para el efecto o el reembolso de los gastos que ocasione su utilización, siempre
-
-que se cumplan las condiciones que se señalan en este título y se ajusten a las
-
-disposiciones que, en uso de sus facultades pueda dictar el Banco Central de
-
-Chile sobre la materia.
+Las instituciones financieras que ofrecen a sus clientes diversos servicios mediante el uso de dispositivos electrónicos autosuficientes, están facultadas para cobrar a los usuarios de esos sistemas automáticos, el reembolso de los gastos que ocasione su utilización, comisiones, o ambos conceptos, según se pacte en el respectivo convenio con el cliente, siempre que se cumplan las condiciones que se señalan en este título y se ajusten, en los casos que corresponda, a las disposiciones que, en uso de sus facultades pueda dictar el Banco Central de Chile sobre la materia.
 
 ### 2. Información a los usuarios
 
-Los cobros que se implanten por los conceptos indicados o las modificaciones
-
-alas tarifas ya establecidas, deberán comunicarse a los respectivos usuarios, al
-
-momento en que éstos se incorporen al servicio o, en el caso de aquellos cliente
-
-que ya son usuarios del sistema, se les informará de ello por carta, con una
-
-anticipación mínima de quince días con respecto a la fecha en que comience a
-
-regir el cobro de que se trate.
+Los cobros que se implanten por los conceptos indicados o las modificaciones a las tarifas ya establecidas, deberán comunicarse a los respectivos usuarios, al momento en que éstos se incorporen al servicio o, en el caso de aquellos clientes que ya son usuarios del sistema, se les informará de ello por carta, con una anticipación mínima de quince días con respecto a la fecha en que comience a regir el cobro de que se trate.
 
 ### 3. Modalidad de cobro de las comisiones
 
-Las comisiones que se cobren por la utilización de estos sistemas automáticos
+Las comisiones que se cobren por la utilización de estos sistemas automáticos deben limitarse exclusivamente a los usuarios del sistema y podrán cobrarse con la periodicidad y modalidad que cada institución determine, debiendo en todo caso atenerse a las condiciones informadas a sus clientes.
 
-deben limitarse exclusivamente a los usuarios del sistema y podrán cobrarse con
+Los cobros que se hagan por este concepto, deben tratarse en forma totalmente separada de las comisiones que se cobren por mantención de cuentas corrientes o de cuentas de ahorro, a que se refieren los Capítulos 2-2 y 2-4 de esta Recopilación Actualizada de Normas, respectivamente.
 
-la periodicidad y modalidad que cada institución determine, debiendo en todo
+Cuando el titular de una cuenta de ahorro sea a su vez cuentacorrentista del mismo banco, el cargo por concepto de comisiones o de recuperación de gastos por el uso de una tarjeta u otro medio que permita el acceso a sistemas que posibiliten transacciones electrónicas en ambas cuentas, se efectuará preferentemente en la cuenta corriente.
 
-caso atenerse a las condiciones informadas a sus clientes.
+4. Obligación de mantener la prestación de servicios en la forma tradicional a clientes que no utilicen cajeros automáticos.
 
-Los cobros que se hagan por este concepto, deben tratarse en forma totalmente
-
-separada de las comisiones que se cobren por mantención de cuentas corrientes, a
-
-que se refiere el Capítulo 2-2 de esta Recopilación de Normas.
-
-4. Obligación de mantener la prestación de servicios en la forma tradicional a
-
-clientes que no utilicen los sistemas automáticos.
-
-Los bancos que ofrezcan a sus clientes servicios de cajero automático para giros
-
-y depósitos en cuenta corriente, además de otras prestaciones por ese mismo
-
-medio, tales como giros y depósitos en cuenta de ahorro, consultas de
-
-saldos,pagos de servicios, transferencias entre cuentas, etc. y establezcan el
-
-cobro de comisiones o el reembolso de gastos por el uso del sistema, deben
-
-mantener la atención directa en sus distintas oficinas, tanto para aquellos
-
-clientes que utilicen los servicios automáticos, como para aquellos que no se
-
-suscriban a esa modalidad, de todos los servicios a que se puede acceder por los
-
-sistemas electrónicos, sin discriminación alguna entre uno y otro procedimiento,
-
-salvo las limitaciones en cuanto se refiere a los horarios de atención de
-
-público que ha fijado esta Superintendencia de conformidad con la ley.
+Las instituciones financieras que ofrezcan a sus clientes servicios de cajero automático para giros y depósitos en cuenta corriente, además de otras prestaciones por ese mismo medio, tales como giros y depósitos en cuenta de ahorro, consultas de saldos, pagos de servidos, transferencias entre cuentas, etc., y establezcan el cobro de comisiones o el reembolso de gastos por el uso del sistema, deben mantener la atención directa en sus distintas oficinas, tanto para aquellos clientes que utilicen los servicios automáticos, como para aquellos que no se suscriban a esa modalidad, de todos los servicios a que se puede acceder por los sistemas electrónicos, sin discriminación alguna entre uno y otro procedimiento, salvo las limitaciones en cuanto se refiere a los horarios de atención de público que ha fijado esta Superintendencia de conformidad con la ley.
 
 CAPITULO 2-2 (Bancos)
 
@@ -2536,403 +2380,189 @@ CUENTAS DE AHORRO.
 
 ### 1. Disposiciones generales
 
-Las cuentas de ahorro a la vista se rigen por lo dispuesto en el Capítulo
+Las cuentas de ahorro a la vista se rigen por lo dispuesto en el Capítulo III.E.2 del Compendio de Normas Financieras del Banco Central de Chile y por las disposiciones complementarias del presente capítulo.
 
-III.E.2 del Compendio de Normas Financieras del Banco Central de Chile y por las
+Las cuentas de ahorro a plazo, por su parte, deben atenerse a las normas del Capítulo III.E.1 del referido Compendio y, en los aspectos propios de las cuentas con giro diferido, por lo dispuesto en el Capítulo III.E.4, ambos reglamentados por las presentes instrucciones.
 
-disposiciones complementarias del presente capítulo.
-
-Las cuentas de ahorro a plazo, por su parte, deben atenerse a las normas del
-
-Capítulo III.E.1 del referido Compendio y, en los aspectos propios de las
-
-cuentas con giro diferido, por lo dispuesto en el Capítulo III.E.4, ambos
-
-reglamentados por las presentes instrucciones.
-
-En lo relativo a las cuentas de ahorro para la vivienda a que se refiere el D.S.
-
-N° 74 del año 1984 del Ministerio de Vivienda y Urbanismo, reemplazado por el
-
-D.S. N° 44 de 1988, del mismo Ministerio, deben tenerse presente las normas
-
-complementarias contenidas en el Capítulo III.E.3 del Compendio de Normas
-
-Financieras del Banco Central de Chile y las disposiciones impartidas por esta
-
-Superintendencia en el presente capítulo.
+En lo relativo a las cuentas de ahorro para la vivienda a que se refiere el D.S. N° 44 de 1988 y sus modificaciones, del Ministerio de Vivienda y Urbanismo y el Capítulo III.E.3 del Compendió de Normas Financieras del Banco Central de Chile, deben tenerse presente las disposiciones específicas contenidas en el Capítulo 2-5 de esta Recopilación, que priman sobre las instrucciones generales del presente capítulo.
 
 ### 2. Características de las cuentas de ahorro
 
 2.1. Cuentas de ahorro a la vista.
 
-De conformidad con lo dispuesto en el Capítulo III.E.2 del Compendio de Normas
-
-Financieras del Banco Central de Chile, las cuentas de ahorro a la vista tienen
-
-las siguientes características:
+De conformidad con lo dispuesto en el Capítulo III.E.2 del Compendio de Normas Financieras del Banco Central de Chile, las cuentas de ahorro a la vista tienen las siguientes características:
 
 a) Son en moneda nacional y no devengan reajustes ni intereses;
 
-b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o
+b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas;
 
-jurídicas;
+c) El manejo de la cuenta se realiza mediante una "Libreta de Ahorro a la Vista", donde deben quedar registrados todos los giros y depósitos efectuados en ella; y,
 
-c) El manejo de la cuenta se realiza mediante una "Libreta de Ahorro a la
-
-Vista", donde deben quedar registrados todos los giros y depósitos efectuados en
-
-ella; y,
-
-d) Las instituciones financieras pueden cobrar comisiones por el manejo de las
-
-cuentas.
+d) Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas.
 
 2.2. Cuentas de ahorro a plazo con giro incondicional.
 
-Las disposiciones del Capítulo III.E.1 del Compendio de Normas Financieras del
+Las disposiciones del Capítulo III.E.1 del Compendio de Normas Financieras del Banco Central de Chile establecen las siguientes características para las cuentas de ahorro a plazo con giro incondicional:
 
-Banco Central de Chile establecen las siguientes características para las
+a) Son en moneda nacional, reajustables por la variación de la unidad de fomento;
 
-cuentas de ahorro a plazo con giro incondicional:
+b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas;
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de
-
-fomento;
-
-b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o
-
-jurídicas;
-
-c) El titular puede realizar hasta cuatro giros en cada período de doce meses,
-
-sin perder el derecho a reajuste;
+c) El titular puede realizar hasta cuatro giros en cada período de doce meses, sin perder el derecho a reajuste;
 
 d) El reajuste y los intereses se abonan cada doce meses;
 
-e) Los giros son pagaderos a la vista, contra presentación de de la libreta; y,
+e) Los giros son pagaderos a la vista; y,
 
-f) Las instituciones financieras pueden cobrar comisiones por el manejo de las
-
-cuentas.
+f) Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas.
 
 2.3. Cuentas de ahorro a plazo con giro diferido.
 
-Las cuentas de ahorro a plazo con giro diferido, según las disposiciones
+Las cuentas de ahorro a plazo con giro diferido, según las disposiciones contenidas en el Capítulo III.E.4 del Compendio de Normas Financieras del Banco Central de Chile, tienen las particularidades que se indican a continuación:
 
-contenidas en el Capítulo III.E.4 del Compendio de Normas Financieras del Banco
+a) Son en moneda nacional, reajustables por la variación de la unidad de fomento;
 
-Central de Chile, tienen las particularidades que se indican a continuación:
+b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas;
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de
+c) El titular puede realizar hasta seis giros en cada período de doce meses, sin perder el derecho a reajuste;
 
-fomento;
+d) El reajuste se abona trimestralmente a estas cuentas, en tanto que los intereses sólo se acreditan cada doce meses;
 
-b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o
+e) El ahorrante puede girar de estas cuentas solamente con aviso previo a la entidad depositaria, mediante la presentación de una solicitud con una anticipación mínima de treinta días corridos;
 
-jurídicas;
+f) Las entidades depositarias, no obstante lo señalado en el literal anterior, pueden permitir a los titulares que sean personas naturales, giros a la vista hasta por el equivalente a treinta unidades de fomento, en cada oportunidad, siempre que cada uno de ellos se efectúe en días distintos; y,
 
-c) El titular puede realizar hasta seis giros en cada período de doce meses, sin
+g) Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas.
 
-perder el derecho a reajuste;
+### 3. Apertura y operación de las cuentas de ahorro
 
-d) El reajuste se abona trimestralmente a estas cuentas, en tanto que los
+3.1. Requisitos y registro.
 
-intereses sólo se acreditan cada doce meses;
-
-e) El ahorrante puede girar de estas cuentas solamente con aviso previo a la
-
-entidad depositaria, mediante la presentación de una solicitud con una
-
-anticipación mínima de treinta días corridos;
-
-f) Las entidades depositarias, no obstante lo señalado en el literal anterior,
-
-pueden permitir a los titulares que sean personas naturales, giros a la vista
-
-hasta por el equivalente a treinta unidades de fomento, en cada oportunidad,
-
-siempre que cada uno de ellos se efectúe en días distintos; y,
-
-g) Las instituciones financieras pueden cobrar comisiones por el manejo de las
-
-cuentas.
-
-### 3. Apertura de las cuentas de ahorro
-
-La apertura de las cuentas de ahorro debe constar en un registro especial, que
-
-contenga los siguientes antecedentes:
+La apertura de las cuentas de ahorro debe constar en un registro especial, que contenga los siguientes antecedentes:
 
 a) Número de la cuenta de ahorro;
 
 b) Nombre completo;
 
-c) Número de cédula de identidad del titular o, en el caso de personas
-
-jurídicas, de los apoderados;
+c) Número de cédula de identidad del titular o, en el caso de personas jurídicas, de los apoderados;
 
 d) Domicilio;
 
 e) Profesión u ocupación y edad, al tratarse de personas naturales; y,
 
-f) Firma del depositante o, si se trata de una persona jurídica, de los
+f) Firma del depositante o, si se trata de una persona jurídica, de los apoderados o representantes de ésta, facultados para girar. En las cuentas pluripersonales deberán registrarse todas las firmas de los titulares.
 
-apoderados o representantes de ésta, facultados para girar. En las cuentas
+El número de la cuenta individual a que se refiere la letra a) precedente, debe constar también en la libreta que la institución financiera debe proporcionarle al depositante al momento de la apertura, oportunidad en que debe también efectuarse el depósito inicial. Las instituciones financieras deben adoptar un sistema de numeración de cuentas que impida cualquier tipo de confusión o error en la identificación de las mismas y, en especial, la repetición de números previamente asignados, aun considerando el caso de las cuentas que hayan sido canceladas.
 
-pluripersonales deberán registrarse todas las firmas de los titulares.
+Los antecedentes que debe presentar el cliente o las verificaciones que eventualmente puedan efectuarse, quedan a criterio de la institución financiera, sin perjuicio de obtener los datos ya señalados desde documentación confiable, cuando corresponda. Para abrir una cuenta de ahorro no es requisito la exhibición del Rol Unico Tributario, aunque para las personas jurídicas es
 
-El número de la cuenta individual a que se refiere la letra a) precedente, debe
+conveniente anotarlo para precaver errores derivados de razones sociales semejantes.
 
-constar también en la libreta que la institución financiera debe proporcionarle
+En todo caso, cuando se trate de cuentas abiertas a nombre de personas jurídicas, deben exigirse las escrituras que den fe de la existencia legal de la sociedad y de la calidad de representantes legales de las personas que se registren como tales.
 
-al depositante al momento de la apertura, oportunidad en que debe también
+3.2. Operación mediante sistemas automatizados.
 
-efectuarse el depósito inicial. Las instituciones financieras deben adoptar un
+Las instituciones financieras pueden habilitar sistemas de transferencia electrónica de fondos que permitan al titular operar su cuenta de ahorro sin utilizar la libreta, siempre que:
 
-sistema de numeración de cuentas que impida cualquier tipo de confusión o error
+a) el uso del sistema por parte del titular sea optativo, tanto en lo que se refiere a la posibilidad de no incorporarse al sistema, como en lo relativo a la facultad de no utilizarlo;
 
-en la identificación de las mismas y, en especial, la repetición de números
+b) se establezca un número máximo de transacciones posibles de realizar sin la presentación de la libreta, después de las cuales el titular deberá estar obligado a actualizarla para poder seguir utilizando el sistema; y,
 
-previamente asignados, aun considerando el caso de las cuentas que hayan sido
+c) el sistema contemple operaciones sólo en línea, de manera tal que nunca pueda producirse un sobregiro en alguna cuenta de ahorro y los demás controles o procedimientos necesarios para el cumplimiento de las instrucciones del presente capítulo.
 
-canceladas.
-
-Los antecedentes que debe presentar el cliente o las verificaciones que
-
-eventualmente puedan efectuarse, quedan a criterio de la institución financiera,
-
-sin perjuicio de obtener los datos ya señalados desde documentación confiable,
-
-cuando corresponda. Para abrir una cuenta de ahorro no es requisito la
-
-exhibición del Rol Unico Tributario, aunque para las personas jurídicas es
-
-conveniente anotarlo para precaver errores derivados de razones sociales
-
-semejantes.
-
-En todo caso, cuando se trate de cuentas abiertas a nombre de personas
-
-jurídicas, deben exigirse las escrituras que den fe de la existencia legal de la
-
-sociedad y de la calidad de representantes legales de las personas que se
-
-registren como tales.
+Queda a criterio de cada institución financiera la calificación de los titulares que pueden utilizar algún sistema automatizado para girar de su cuenta de ahorro.
 
 ### 4. Libretas de ahorro
 
-Conforme a las disposiciones del Banco Central de Chile, todas las cuentas de
-
-ahorro deben documentarse mediante una libreta, donde deben quedar registrados
-
-los depósitos y giros efectuados en ella.
+Conforme a las disposiciones del Banco Central de Chile, todas las cuentas de ahorro deben documentarse mediante una libreta, donde deben quedar registrados los depósitos y giros efectuados en ella.
 
 4.1. Formato de las libretas.
 
-Atendida la diferencia que existe entre los distintos tipos de cuentas de
-
-ahorro, los bancos y sociedades financieras deben darle a las respectivas
-
-libretas una característica que las distinga claramente unas de otras, como por
-
-ejemplo un color distinto. Además, en las libretas de giro diferido debe
-
-imprimirse el nombre "Cuenta de Ahorro a Plazo de Giro Diferido" en forma
+Atendida la diferencia que existe entre los distintos tipos de cuentas de ahorro, los bancos y sociedades financieras deben darle a las respectivas libretas una característica que las distinga claramente unas de otras, como por ejemplo un color distinto. Además, en las libretas de giro diferido debe imprimirse el nombre "Cuenta de Ahorro a Plazo de Giro Diferido" en forma
 
 suficientemente destacada.
 
 4.2. Pérdida de las libretas.
 
-En caso de extravío de la libreta, el depositante debe dar inmediatamente aviso
-
-por escrito a la institución financiera. En tal caso, no existe inconveniente en
-
-que se traspase el saldo existente a una nueva cuenta, siempre que, al tratarse
-
-de cuentas de ahorro a plazo, se mantenga la antigüedad y el cómputo de los
-
-giros efectuados en la cuenta original para efectos del pago de intereses y
-
-reajustes y, además, que dicho traspaso no se considere como un giro. En otros
-
-términos, en caso de extravío de una libreta la institución puede cambiar el
-
-número de identificación de la cuenta por razones de control o de seguridad del
-
-ahorrante, pero se entenderá que la cuenta sigue siendo la misma para los demás
-
-efectos.
+En caso de extravío de la libreta, el depositante debe dar inmediatamente aviso por escrito a la institución financiera. En tal caso, no existe inconveniente en que se traspase el saldo existente a una nueva cuenta, siempre que, al tratarse de cuentas de ahorro a plazo, se mantenga la antigüedad y el cómputo de los giros efectuados en la cuenta original para efectos del pago de intereses y reajustes y, además, que dicho traspaso no se considere como un giro. En otros términos, en caso de extravío de una libreta la institución puede cambiar el número de identificación de la cuenta por razones de control o de seguridad del ahorrante, pero se entenderá que la cuenta sigue siendo la misma para los demás efectos.
 
 4.3. Remplazo de las libretas.
 
-Cuando las instituciones financieras deban sustituir alguna libreta de ahorro
-
-porque en ella se ha agotado la capacidad para anotar transacciones, porque se
-
-ha registrado erróneamente el nombre del titular o por otras razones
-
-similares,procederán a traspasar el saldo correspondiente a la nueva libreta,
-
-manteniendo el número de cuenta, su antigüedad y el cómputo de los giros
+Cuando las instituciones financieras deban sustituir alguna libreta de ahorro porque en ella se ha agotado la capacidad para anotar transacciones, porque se ha registrado erróneamente el nombre del titular o por otras razones similares,procederán a traspasar el saldo correspondiente a la nueva libreta, manteniendo el número de cuenta, su antigüedad y el cómputo de los giros
 
 efectuados en la libreta que se sustituye.
 
+4.4. Registro en la libreta de los abonos y cargos a la cuenta.
+
+La institución financiera deberá registrar las transacciones en la libreta de tal forma que el orden de las anotaciones concuerde con la secuencia de las operaciones.
+
+La actualización de las anotaciones en la libreta se hará, por lo menos, en las siguientes oportunidades:
+
+a) Cuando se efectúe un depósito o un giro mediante la presentación de la libreta;
+
+b) En la oportunidad en que se haya completado el número de transacciones posibles de efectuar sin presentar la libreta, de acuerdo con las condiciones pactadas; y,
+
+c) Cuando el titular así lo requiera.
+
 ### 5. Depósitos
 
-Las instituciones financieras deberán entregar al depositante, en cada una de
+Para efectuar un depósito en una cuenta de ahorro, deberá presentarse la libreta respectiva, con el fin de que en ella se registre el valor depositado, debiendo además, la institución depositaría, entregar al depositante un comprobante por los importes recibidos.
 
-las ocasiones en que éstos hagan algún depósito a la cuenta, un comprobante por
+Sin embargo, podrán aceptarse depósitos sin la presentación de la libreta, pero en tal caso la institución financiera deberá registrar esas transacciones posteriormente, de acuerdo con lo dispuesto en el numeral 4.4 anterior. Por otra parte, la instrucción relativa a la entrega de un comprobante a que se refiere el párrafo precedente, no obsta para que el titular de la cuenta pueda efectuar depósitos utilizando cajeros automáticos u otros dispositivos electrónicos autosuficientes.
 
-los importes recibidos.
+En las cuentas de ahorro puede depositarse dinero efectivo, cheques u otros valores a la vista y, en general, cualquier tipo de documentos de los que habitualmente se aceptan en depósito en cuenta corriente bancaria en moneda nacional.
 
-Para efectuar un depósito en una cuenta de ahorro, además del correspondiente
+Se recomienda, sin embargo, a las instituciones financieras que, con el fin de prevenir hechos delictuosos, se abstengan de aceptar depósitos en cuentas de ahorro de personas naturales, constituidos por cheques u otros documentos extendidos a la orden de personas diferentes del titular de la cuenta, y en todo caso cuando los beneficiarios de aquéllos sean personas jurídicas.
 
-formulario, el depositante debe presentar la libreta, con el fin de que en ella
-
-se registre el abono. Sin embargo, podrán aceptarse depósitos sin la
-
-presentación de la libreta, pero en tal caso la institución financiera deberá
-
-registrar esas transacciones en la libreta en la primera oportunidad en que ésta
-
-sea presentada, de tal forma que la secuencia de las operaciones concuerde con
-
-sus anotaciones.
-
-En las cuentas de ahorro puede depositarse dinero efectivo, cheques u otros
-
-valores a la vista y, en general, cualquier tipo de documentos de los que
-
-habitualmente se aceptan en depósito en cuenta corriente bancaria en moneda
-
-nacional.
-
-Se recomienda, sin embargo, a las instituciones financieras que, con el fin de
-
-prevenir hechos delictuosos, se abstengan de aceptar depósitos en cuentas de
-
-ahorro de personas naturales, constituidos por cheques u otros documentos
-
-extendidos a la orden de personas diferentes del titular de la cuenta, y en todo
-
-caso cuando los beneficiarios de aquéllos sean personas jurídicas.
-
-A los depósitos que se efectúen en cuentas de ahorro, conformados por cheques y
-
-documentos a cargo de bancos de la misma plaza, al igual que los constituidos
-
-por instrumentos girados contra oficinas bancarias ubicadas en otras plazas, le
-
-son aplicables las disposiciones del Capítulo 3-1 de esta Recopilación de
-
-Normas, que establece los plazos de retención obligatoria para los valores en
-
-cobro.
+A los depósitos que se efectúen en cuentas de ahorro, conformados por cheques y documentos a cargo de bancos de la misma plaza, al igual que los constituidos por instrumentos girados contra oficinas bancarias ubicadas en otras plazas, le son aplicables las disposiciones del Capítulo 3-1 de esta Recopilación de Normas, que establece los plazos de retención obligatoria para los valores en cobro.
 
 ### 6. Giros
 
 6.1. Disposiciones generales.
 
-El titular puede girar sobre el saldo de la cuenta de ahorro, hasta la
+El titular de una cuenta de ahorro sólo podrá girar sobre el saldo de su cuenta hasta la concurrencia de los valores disponibles. Para ese fin deberá utilizarse una papeleta de giro que debe proporcionarle la institución financiera y presentarse la respectiva libreta para que se registre en ella el importe girado, salvo en los siguientes casos:
 
-concurrencia de los valores disponibles, mediante una papeleta de giro que debe
+i) cuando el titular utilice un cajero automático u otro dispositivo al que tuviere acceso según lo convenido con la institución financiera;
 
-proporcionarle la institución financiera.
+ii) cuando el titular solicite por escrito a la institución depositaría el traspaso de fondos disponibles desde la cuenta de ahorro a una cuenta corriente suya en el mismo banco, siempre que dicho procedimiento se hubiere convenido previamente.
 
-Para girar es requisito indispensable la presentación de la libreta de ahorro y
+Los giros que se realicen mediante sistemas automatizados, deben ceñirse a las siguientes instrucciones:
 
-el registro en ella del importe girado.
+a) el titular podrá retirar todo o parte de los fondos disponibles, según los límites que la institución depositarla determine, sin perjuicio de lo indicado en el numeral 6.2 siguiente;
 
-6.2. Aviso previo para efectuar giros en cuentas de ahorro a plazo con giro
+b) a través del terminal desde donde opere el titular, se deberá originar una advertencia cuando se realice el último giro posible de efectuar en la cuenta, sin perder los reajustes. En el caso de cajeros automáticos, dicha advertencia deberá quedar registrada en la papeleta donde conste el giro; y,
 
-diferido.
+c) el sistema deberá contemplar, además, una instancia de confirmación dél usuario para realizar un giro con él cuál perderá el derecho a reajustes, de manera que pueda dejar sin efecto la operación si lo estima necesario.
 
-Para girar de las cuentas de ahorro a plazo con giro diferido, los respectivos
+6.2. Aviso previo para efectuar giros en cuentas de ahorro a plazo con giro diferido.
 
-titulares deben presentar un aviso o solicitud de giro con una anticipación
+Para girar de las cuentas de ahorro a plazo con giro diferido, los respectivos titulares deben presentar un aviso o solicitud de giro con una anticipación mínima de treinta días corridos respecto de la fecha en que éste se hará efectivo. No obstante, las entidades depositarias pueden aceptar giros a la vista en estas cuentas, ya sea mediante la presentación de la libreta o a través de sistemas automatizados, cuando sean por montos no superiores al equivalente de 30 unidades de fomento en cada oportunidad y siempre que cada uno de ellos se efectúe en días distintos y se trate de cuentas de personas naturales.
 
-mínima de treinta días corridos respecto de la fecha en que éste se hará
+Las instituciones depositarias deben tener a disposición de los ahorrantes el formulario de solicitud antes indicado, el que se confeccionará en duplicado, de manera que una vez llenado por el girador, el original quede en poder de la entidad financiera y el duplicado se entregue al solicitante.
 
-efectivo. No obstante, las entidades depositarias pueden aceptar giros a la
+La solicitud debe ser firmada por el titular y deberá indicar el nombre de éste, el número de la cuenta contra la cual se solicita el giro y el monto que se girará. Tanto en el original como en la copia o duplicado de la solicitud, debe quedar constancia de la fecha en que ella fue recibida por la entidad financiera y del día en que se hará el pago, el cual podrá llevarse a efecto, como ya se indicó, no antes de treinta días corridos a contar desde la fecha de recepción de la solicitud por parte de la institución financiera.
 
-vista en estas cuentas, cuando sean por montos no superiores al equivalente de
-
-30 unidades de fomento en cada oportunidad y siempre que cada uno de ellos se
-
-efectúe en días distintos y se trate de cuentas de personas naturales.
-
-Las instituciones depositarias deben tener a disposición de los ahorrantes el
-
-formulario de solicitud antes indicado, el que se confeccionará en duplicado, de
-
-manera que una vez llenado por el girador, el original quede en poder de la
-
-entidad financiera y el duplicado se entregue al solicitante.
-
-La solicitud debe ser firmada por el titular y deberá indicar el nombre de éste,
-
-el número de la cuenta contra la cual se solicita el giro y el monto que se
-
-girará. Tanto en el original como en la copia o duplicado de la solicitud, debe
-
-quedar constancia de la fecha en que ella fue recibida por la entidad financiera
-
-y del día en que se hará el pago, el cual podrá llevarse a efecto, como ya se
-
-indicó, no antes de treinta días corridos a contar desde la fecha de recepción
-
-de la solicitud por parte de la institución financiera.
-
-Si el solicitante no se presentare a cobrar el giro dentro del tercer día hábil
-
-bancario siguiente de cumplido el plazo fijado, la solicitud quedará anulada.
+Si el solicitante no se presentare a cobrar el giro dentro del tercer día hábil bancario siguiente de cumplido el plazo fijado, la solicitud quedará anulada.
 
 6.3. Limitación al número de giros.
 
 a) Cuentas de ahorro a la vista.
 
-Las cuentas de ahorro a la vista no tienen limitación alguna en relación al
-
-número de giros que pueden efectuarse.
+Las cuentas de ahorro a la vista no tienen limitación alguna en relación al número de giros que pueden efectuarse.
 
 b) Cuentas de ahorro a plazo con giro incondicional.
 
-En las cuentas de ahorro a plazo con giro incondicional se puede girar hasta
-
-cuatro veces durante el período de reajuste anual, salvo que se pacte una
-
-cantidad de giros inferior, según se señala en la letra d) de este numeral. Si
-
-se excediera el número máximo de giros pactados, el titular perderá los
-
-reajustes del período respectivo y devengará solamente los intereses
+En las cuentas de ahorro a plazo con giro incondicional se puede girar hasta cuatro veces durante el período de reajuste anual, salvo que se pacte una cantidad de giros inferior, según se señala en la letra d) de este numeral. Si se excediera el número máximo de giros pactados, el titular perderá los reajustes del período respectivo y devengará solamente los intereses
 
 correspondientes.
 
 c) Cuentas de ahorro a plazo con giro diferido.
 
-En el caso de las cuentas de ahorro a plazo con giro diferido se pueden realizar
-
-hasta seis giros en el correspondiente período de doce meses, sin perder el
-
-derecho de percibir los respectivos reajustes devengados. No obstante, podrá
-
-también pactarse un número de giros inferior, de acuerdo a lo indicado en la
-
-letra d) siguiente.
+En el caso de las cuentas de ahorro a plazo con giro diferido se pueden realizar hasta seis giros en el correspondiente período de doce meses, sin perder el derecho de percibir los respectivos reajustes devengados. No obstante, podrá también pactarse un número de giros inferior, de acuerdo a lo indicado en la letra d) siguiente.
 
 d) Mayores limitaciones para el número de giros.
 
-Las instituciones financieras pueden pactar con los titulares de cuentas de
-
-ahorro a plazo que así lo deseen, un número máximo de giros que sea menor que
-
-los indicados en los numerales precedentes, en cuyo caso les pueden pagar más
-
-intereses, condición ésta que deberá quedar expresamente estipulada en las
-
-respectivas libretas.
+Las instituciones financieras pueden pactar con los titulares de cuentas de ahorro a plazo que así lo deseen, un número máximo de giros que sea menor que los indicados en los numerales precedentes, en cuyo caso les pueden pagar más intereses, condición ésta que deberá quedar expresamente estipulada en las respectivas libretas.
 
 ### 7. Reajuste de las cuentas de ahorro a plazo
 
@@ -2978,63 +2608,23 @@ No obstante lo indicado anteriormente, si por exceso de giros la cuenta pierde e
 
 9.1. Comisiones autorizadas.
 
-Las instituciones financieras pueden cobrar comisiones por el manejo de las
+Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas de ahorro, siempre que ellas sean de aplicación general y su cobro se realice mediante cargos en la misma cuenta que las origina. En consecuencia, no se podrá cobrar comisiones por montos que no sean determinados por la aplicación de condiciones previamente fijadas para las cuentas de ahorro, ni podrá utilizarse un procedimiento diferente al cargo en la respectiva cuenta.
 
-cuentas de ahorro, siempre que ellas sean de aplicación general y su cobro se
+El monto de las comisiones y las condiciones para su cobro sólo se podrán cambiar el primer día de cada trimestre calendario y regirán, a lo menos, para ese trimestre. Sin embargo, si con el cambio se disminuye o se suprime el monto de la comisión, la modificación puede tener aplicación inmediata y la nueva comisión que se acuerde o la supresión de su cobro puede regir por lo que resta del trimestre calendario en que se produzca el cambio y, en todo caso, por el trimestre siguiente completo.
 
-realice mediante cargos en la misma cuenta que las origina. En consecuencia, no
-
-se podrá cobrar comisiones por montos que no sean determinados por la aplicación
-
-de condiciones previamente fijadas para las cuentas de ahorro, ni podrá
-
-utilizarse un procedimiento diferente al cargo en la respectiva cuenta.
-
-El monto de las comisiones y las condiciones para su cobro sólo se podrán
-
-cambiar el primer día de cada trimestre calendario y regirán, a lo menos, para
-
-ese trimestre. Sin embargo, si con el cambio se disminuye o se suprime el monto
-
-de la comisión, la modificación puede tener aplicación inmediata y la nueva
-
-comisión que se acuerde o la supresión de su cobro puede regir por lo que resta
-
-del trimestre calendario en que se produzca el cambio y, en todo caso, por el
-
-trimestre siguiente completo.
-
-Los cobros por concepto de comisiones deberán efectuarse con una frecuencia que
-
-debe determinarse y expresarse en términos de trimestres calendario y se
-
-cargarán siempre el último día del mes en que finalice el período fijado.
+Los cobros por concepto de comisiones deberán efectuarse con una frecuencia que debe determinarse y expresarse en términos de trimestres calendario y se cargarán siempre el último día del mes en que finalice el período fijado.
 
 9.2. Comisiones superiores al saldo de la cuenta.
 
-En ningún caso los cargos por comisiones podrán ser superiores al saldo de la
-
-cuenta afectada, ya que en momento alguno una cuenta de ahorro puede quedar
-
-sobregirada. En este caso, la diferencia que hubiere entre el saldo de la cuenta
-
-y el monto de la comisión, podrá ser imputada con posterioridad si la cuenta
-
-llegare a tener saldo.
+En ningún caso los cargos por comisiones podrán ser superiores al saldo de la cuenta afectada, ya que en momento alguno una cuenta de ahorro puede quedar sobregirada. En este caso, la diferencia que hubiere entre el saldo de la cuenta y el monto de la comisión, podrá ser imputada con posterioridad si la cuenta llegare a tener saldo.
 
 9.3. Efecto de las comisiones en el cálculo de intereses y reajustes.
 
-Los cargos por concepto de comisiones sobre las cuentas de ahorro a plazo pueden
+Los cargos por concepto de comisiones sobre las cuentas de ahorro a plazo pueden ser considerados para efectos del cálculo de los intereses y reajustes de que tratan los numerales 7.2 y 8.2 de estas normas, por cuanto disminuyen el saldo efectivo de la cuenta en la oportunidad de ser cargados pero, naturalmente, no pueden computarse como giros para la determinación de la cantidad de giros realizados.
 
-ser considerados para efectos del cálculo de los intereses y reajustes de que
+9.4. Cobro de comisiones por el uso de dispositivos elecirónicos.
 
-tratan los numerales 7.2 y 8.2 de estas normas, por cuanto disminuyen el saldo
-
-efectivo de la cuenta en la oportunidad de ser cargados pero, naturalmente, no
-
-pueden computarse como giros para la determinación de la cantidad de giros
-
-realizados.
+Para el cobro de comisiones o recuperación de gastos por el uso de dispositivos electrónicos autosuficientes, las instituciones financieras se deben atener a lo dispuesto en el título III del Capítulo 1-7 de esta Recopilación.
 
 ### 10. Desahucio o cierre de una cuenta de ahorro
 
@@ -3062,125 +2652,47 @@ En los contratos de cuentas de ahorro las instituciones financieras pueden conve
 
 ### 13. Información a los clientes de ahorro y al público
 
-13.1. Información a los titulares acerca de las condiciones de sus cuentas de
+13.1. Información a los titulares acerca de las condiciones de sus cuentas de ahorro.
 
-ahorro.
+Las condiciones a que están sujetas las cuentas de ahorro deben ser informadas a los titulares de las mismas, ya sea mediante un texto impreso en la propia libreta o, en su defecto, en un volante en duplicado, cuya copia, fechada y firmada por el cliente deberá quedar en poder de la institución financiera.
 
-Las condiciones a que están sujetas las cuentas de ahorro deben ser informadas a
+Entre los antecedentes que se proporcione a los ahorrantes deberá incluirse la siguiente información que sea aplicable en cada caso:
 
-los titulares de las mismas, ya sea mediante un texto impreso en la propia
+a) La facultad de la institución financiera de poner término a la cuenta, así como la manera en que los fondos quedarán a disposición del titular si se ejerciera dicha facultad y la forma en que se avisará a este último del cierre de la cuenta;
 
-libreta o, en su defecto, en un volante en duplicado, cuya copia, fechada y
+b) La manera en que la institución financiera comunicará los cambios en el cobro de comisiones;
 
-firmada por el cliente deberá quedar en poder de la institución financiera.
+c) La condición de presentar la libreta para efectuar cualquier giro en que no se utilice un sistema automatizado y los procedimientos que debe seguir el titular en caso de extravío de la libreta o de pérdida de la tarjeta que permita el acceso al sistema automatizado al que se encuentre adscrita la cuenta;
 
-Entre los antecedentes que se proporcione a los ahorrantes deberá incluirse la
+d) La cantidad de giros que puede realizar el titular sin perder el derecho a reajustes, cuando corresponda, y los requisitos exigidos para efectuar giros a la vista;
 
-siguiente información que sea aplicable en cada caso:
+e) La oportunidad en que se abonan los reajustes e intereses y la forma en que la institución comunicará los cambios en las tasas de interés; y,
 
-a) La facultad de la institución financiera de poner término a la cuenta, así
+f) La situación que afecta a la cuenta de ahorro en caso de fallecimiento del titular.
 
-como la manera en que los fondos quedarán a disposición del titular si se
+Además, en la libreta de ahorro debe informarse sobre la garantía estatal a los depósitos, de acuerdo con las instrucciones que al respecto ha impartido esta Superintendencia.
 
-ejerciera dicha facultad y la forma en que se avisará a este último del cierre
+13.2. Información al público sobre tasas de interés, montos mínimos de depósitos y comisiones.
 
-de la cuenta;
+Las instituciones financieras deberán anunciar las tasas de interés vigentes sobre las cuentas de ahorro a plazo y aquellas que regirán en el trimestre siguiente, cuando se haya acordado modificar las, mediante avisos destacados que colocarán en los locales en que se atienda a los titulares de dichas cuentas.
 
-b) La manera en que la institución financiera comunicará los cambios en el cobro
+Los anuncios sobre modificación de la tasa, se harán con una anticipación mínima de diez días a la fecha de inicio del trimestre en que comenzará a ser aplicada.
 
-de comisiones;
-
-c) La condición de presentar la libreta para efectuar cualquier giro y los
-
-procedimientos que debe seguir el titular en caso de extravío de ella;
-
-d) La cantidad de giros que puede realizar el titular sin perder el derecho a
-
-reajustes, cuando corresponda, y los requisitos exigidos para efectuar giros a
-
-la vista;
-
-e) La oportunidad en que se abonan los reajustes e intereses y la forma en que
-
-la institución comunicará los cambios en las tasas de interés; y,
-
-f) La situación que afecta a la cuenta de ahorro en caso de fallecimiento del
-
-titular.
-
-Además, en la libreta de ahorro debe informarse sobre la garantía estatal a los
-
-depósitos, de acuerdo con las instrucciones que al respecto ha impartido esta
-
-Superintendencia.
-
-13.2. Información al público sobre tasas de interés, montos mínimos de depósitos
-
-y comisiones.
-
-Las instituciones financieras deberán anunciar las tasas de interés vigentes
-
-sobre las cuentas de ahorro a plazo y aquellas que regirán en el trimestre
-
-siguiente, cuando se haya acordado modificar las, mediante avisos destacados que
-
-colocarán en los locales en que se atienda a los titulares de dichas cuentas.
-
-Los anuncios sobre modificación de la tasa, se harán con una anticipación mínima
-
-de diez días a la fecha de inicio del trimestre en que comenzará a ser aplicada.
-
-En la misma forma y junto con la información acerca de las tasas de interés
-
-pagadas, deberá indicarse, cuando corresponda, el monto o las tasas de las
-
-comisiones vigentes en el trimestre y, si es el caso, las restricciones
-
-relativas a los montos mínimos de depósitos que se aceptan.
+En la misma forma y junto con la información acerca de las tasas de interés pagadas, deberá indicarse, cuando corresponda, el monto o las tasas de las comisiones vigentes en el trimestre y, si es el caso, las restricciones relativas a los montos mínimos de depósitos que se aceptan.
 
 13.3. Información a los titulares de las cuentas sobre comisiones cobradas.
 
-Las instituciones financieras que resuelvan, ya sea implantar el cobro de
+Las instituciones financieras que resuelvan, ya sea implantar el cobro de comisiones a las cuentas de ahorro, aumentar el valor de las comisiones vigentes o aumentar su frecuencia de cobro, deberán enviar un aviso a cada uno de los titulares de las cuentas afectadas con dicha medida. Ese aviso deberá remitirse al domicilio del ahorrante o a la dirección que éste haya indicado, con una anticipación no menor a diez días ni mayor a treinta días corridos, al inicio del trimestre en que se aplicará la nueva modalidad de cobro.
 
-comisiones a las cuentas de ahorro, aumentar el valor de las comisiones vigentes
-
-o aumentar su frecuencia de cobro, deberán enviar un aviso a cada uno de los
-
-titulares de las cuentas afectadas con dicha medida. Ese aviso deberá remitirse
-
-al domicilio del ahorrante o a la dirección que éste haya indicado, con una
-
-anticipación no menor a diez días ni mayor a treinta días corridos, al inicio
-
-del trimestre en que se aplicará la nueva modalidad de cobro.
-
-La comunicación que se remita al ahorrante deberá contener la información
-
-necesaria para que el propio titular pueda verificar posteriormente el cálculo
-
-de las comisiones que se le cobren.
+La comunicación que se remita al ahorrante deberá contener la información necesaria para que el propio titular pueda verificar posteriormente el cálculo de las comisiones que se le cobren.
 
 13.4. Documentos en cobro rechazados.
 
-De acuerdo con las disposiciones generales sobre valores en cobro, la
-
-institución depositaria deberá informar al respectivo titular acerca de
-
-cualquier cargo que se efectúe en su cuenta con motivo de un documento que
-
-hubiere sido depositada en ella y que resultare rechazado.
+De acuerdo con las disposiciones generales sobre valores en cobro, la institución depositaria deberá informar al respectivo titular acerca de cualquier cargo que se efectúe en su cuenta con motivo de un documento que hubiere sido depositada en ella y que resultare rechazado.
 
 13.5. Envío periódico del estado de movimiento y saldos.
 
-Las instituciones financieras deben enviar a los titulares de cuentas de ahorro
-
-que mantengan un saldo promedio igual o superior a 10 U.F., una vez al año, un
-
-estado de cuenta con los movimientos y saldos de los últimos doce meses. En el
-
-caso de las cuentas de ahorro a plazo, dicho estado debe enviarse inmediatamente
-
-después de abonados los respectivos intereses.
+Las instituciones financieras deben enviar a los titulares de cuentas de ahorro que mantengan un saldo promedio igual o superior a 10 U.F., una vez al año, un estado de cuenta con los movimientos y saldos de los últimos doce meses. En el caso de las cuentas de ahorro a plazo, dicho estado debe enviarse inmediatamente después de abonados los respectivos intereses.
 
 El estado de cuenta deberá registrar a lo menos la siguiente información:
 
@@ -3188,51 +2700,25 @@ a) Nombre completo del titular, dirección y número de cuenta.
 
 b) Fecha de cada débito y crédito.
 
-c) Importe de cada partida, identificando el concepto por el cual se acreditó o
-
-debitó.
+c) Importe de cada partida, identificando el concepto por el cual se acreditó o debitó.
 
 d) Saldo inicial y final de la cuenta en el período informado.
 
-Si la institución calcula los reajustes e intereses de las cuentas de ahorro a
+Si la institución calcula los reajustes e intereses de las cuentas de ahorro a plazo sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
 
-plazo sobre la base de los saldos efectivos, los depósitos efectuados con
+Cualquiera que sea el saldo promedio mantenido, un estado de cuenta similar deberá remitirse, también, a los titulares, cuando su cuenta de ahorro a plazo no registre ningún depósito o giro durante el referido período de doce meses, pero en ese mismo lapso haya recibido algún cargo por concepto de comisiones.
 
-valores sujetos a retención deben identificarse con una clave o código.
-
-Cualquiera que sea el saldo promedio mantenido, un estado de cuenta similar
-
-deberá remitirse, también, a los titulares, cuando su cuenta de ahorro a plazo
-
-no registre ningún depósito o giro durante el referido período de doce meses,
-
-pero en ese mismo lapso haya recibido algún cargo por concepto de comisiones.
-
-Esta exigencia no será obligatoria, sin embargo, cuando al titular se le envíe
-
-un aviso de desahucio según lo dispuesto en el numeral siguiente.
+Esta exigencia no será obligatoria, sin embargo, cuando al titular se le envíe un aviso de desahucio según lo dispuesto en el numeral siguiente.
 
 13.6. Aviso de desahucio de una cuenta de ahorro.
 
-Las instituciones financieras que deseen hacer efectiva la facultad de cerrar
+Las instituciones financieras que deseen hacer efectiva la facultad de cerrar una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, por lo menos con treinta días corridos de antelación al cierre, informándole de las razones que motivan esa medida.
 
-una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, por lo
-
-menos con treinta días corridos de antelación al cierre, informándole de las
-
-razones que motivan esa medida.
-
-En esa comunicación se le señalará al titular la oportunidad en que deberá
-
-retirar el saldo y los intereses y reajustes devengados, cuando corresponda.
+En esa comunicación se le señalará al titular la oportunidad en que deberá retirar el saldo y los intereses y reajustes devengados, cuando corresponda.
 
 13.7. Publicidad de cuentas de ahorro a plazo.
 
-Las instituciones financieras que cobren comisiones o que establezcan montos
-
-mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines
-
-publicitarios referidos a sus cuentas de ahorro a plazo.
+Las instituciones financieras que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
 
 ### 14. Normas contables
 
@@ -3376,85 +2862,29 @@ En caso de extravío de la libreta, se debe proceder de la forma indicada en el 
 
 ### 3. Depósitos y giros
 
-Los depósitos y giros que se efectúen en cuentas de ahorro para la vivienda
+Los depósitos y giros que se efectúen en cuentas de ahorro para la vivienda quedan sujetos a las disposiciones para cuentas de ahorro establecidas en el Capítulo 2-4 antes citado, sin perjuicio de las normas específicas contenidas en el presente capítulo.
 
-quedan sujetos a las disposiciones para las cuentas de ahorro establecidas en el
+Para efectuar un giro en una cuenta de ahorro para la vivienda, es requisito indispensable la presentación de la libreta de ahorro y el registro en ella del importe girado.
 
-Capítulo 2-4 antes citado. Respecto de los giros en particular, éstos quedarán
-
-sometidos a las condiciones que les afecten, según se trate de cuentas con giro
-
-incondicional o con giro diferido, sin perjuicio de las normas específicas
-
-contenidas en el presente capítulo.
-
-No obstante que la finalidad de estas cuentas es el ahorro para la vivienda, los
-
-titulares podrán girar de ellas para otros fines, con las limitaciones que
-
-encada caso correspondan.
+No obstante que la finalidad de estas cuentas es el ahorro para la vivienda, los titulares podrán girar de ellas para otros fines, con las limitaciones que encada caso correspondan.
 
 3.1. Suspensión de la facultad de girar.
 
-La facultad de girar quedará suspendida desde la misma fecha en que la
+La facultad de girar quedará suspendida desde la misma fecha en que la institución financiera depositaria otorgue al titular de la cuenta, el certificado para postular al subsidio habitacional o el certificado para el traspaso de la cuenta de ahorro a otra institución financiera, a que se refieren los numerales 12.1 y 12.2 de este título. La suspensión de la facultad de girar
 
-institución financiera depositaria otorgue al titular de la cuenta, el
+originada por la emisión del certificado para postular al subsidio, quedará sin efecto, si el ahorrante no fue beneficiado en el llamado a que postuló o si habiendo resultado beneficiado, renuncia al subsidio, mediante la entrega a la respectiva institución financiera del certificado de subsidio, endosado en forma nominativa a favor del Servicio de Vivienda y Urbanismo o si caducare dicho certificado sin haber sido cobrado.
 
-certificado para postular al subsidio habitacional o el certificado para el
+No se considerarán incluidos en la suspensión antes indicada, los giros que hagan los ahorrantes que han sido beneficiados en una postulación, con el objeto de pagar el precio de adquisición o de construcción de la vivienda o que hayan sido autorizados por el SERVIU en la forma señalada en el párrafo segundo del numeral 12.3 de este título. La suspensión tampoco afecta al traspaso directo del saldo de la cuenta a la institución financiera, con la cual el ahorrante convenga el préstamo complementario ni a los giros que pudieran hacerse con cargo a depósitos enterados con posterioridad a la emisión del certificado de ahorro para postular al subsidio.
 
-traspaso de la cuenta de ahorro a otra institución financiera, a que se refieren
+3.2. Excepciones en el cómputo de los giros para establecer el derecho a reajustes.
 
-los numerales 12.1 y 12.2 de este título. La suspensión de la facultad de girar
+Para los efectos de determinar el derecho a reajuste, no se computan como giros los que se realicen con alguna de las finalidades que se indican a continuación, sin perjuicio de que ellos quedan sujetos a lo dispuesto en el numeral 6.2 del Capítulo 2-4, cuando se trate de cuentas con giro diferido y el monto de cada cargo supere el equivalente de 30 Unidades de Fomento:
 
-originada por la emisión del certificado para postular al subsidio, quedará sin
+a) Aplicación de fondos con el objeto de pagar parte del costo de la vivienda con derecho a subsidio;
 
-efecto, si el ahorrante no fue beneficiado en el llamado a que postuló o si
+b) Traspaso a otra institución financiera del saldo total de ahorro acumulado, de que trata el número 10 del presente título; y,
 
-habiendo resultado beneficiado, renuncia al subsidio, mediante la entrega a la
-
-respectiva institución financiera del certificado de subsidio, endosado en forma
-
-nominativa a favor del Servicio de Vivienda y Urbanismo o si caducare dicho
-
-certificado sin haber sido cobrado.
-
-No se considerarán incluidos en la suspensión antes indicada, los giros que
-
-hagan los ahorrantes que han sido beneficiados en una postulación, con el objeto
-
-de pagar el precio de adquisición o de construcción de la vivienda o que hayan
-
-sido autorizados por el SERVIU en la forma señalada en el párrafo segundo del
-
-numeral 12.3 de este título. La suspensión tampoco afecta al traspaso directo
-
-del saldo de la cuenta a la institución financiera, con la cual el ahorrante
-
-convenga el préstamo complementario ni a los giros que pudieran hacerse con
-
-cargo a depósitos enterados con posterioridad a la emisión del certificado de
-
-ahorro para postular al subsidio.
-
-3.2. Excepciones en el cómputo de los giros para establecer el derecho a
-
-reajustes.
-
-Para los efectos de determinar el derecho a reajuste no se computan como giros
-
-los que realicen con alguna de las siguientes finalidades:
-
-a) Aplicación de fondos con el objeto de pagar parte del costo de la vivienda
-
-con derecho a subsidio;
-
-b) Traspaso a otra institución financiera del saldo total de ahorro acumulado,
-
-de que trata el número 10 del presente título; y,
-
-c) Giro anticipado de parte o la totalidad del saldo, autorizado por el SERVIU,
-
-en el caso señalado en el párrafo segundo del numeral 12.3 de este título.
+c) Giro anticipado de parte o la totalidad del saldo, autorizado por el SERVIU, en el caso señalado en el párrafo segundo del numeral 12.3 de este título.
 
 ### 4. Pago de reajustes e intereses y cobro de comisiones
 
@@ -3504,133 +2934,27 @@ El plazo de antigüedad o de permanencia de estos ahorros no podrá ser inferior
 
 ### 10. Traspaso de las cuentas de ahorro
 
-Los titulares de las cuentas de ahorro a plazo para la vivienda tienen la opción
+Los titulares de las cuentas de ahorro a plazo para la vivienda tienen la opción de traspasar el saldo total de los ahorros acumulados en su cuenta de ahorro aplazo para la vivienda, a otra institución financiera.
 
-de traspasar el saldo total de los ahorros acumulados en su cuenta de ahorro
+Estos traspasos pueden efectuarse una vez transcurridos, a lo menos, seis meses calendario contados desde la apertura de la cuenta o del último traspaso realizado, según sea el caso.
 
-aplazo para la vivienda, a otra institución financiera.
+El ahorrante que desee efectuar el traspaso del saldo de su cuenta, deberá solicitarlo a la respectiva entidad financiera, con una anticipación de a lo menos cinco días hábiles bancarios, salvo que se trate de una cuenta con giro diferido en que deba solicitarse el giro con 30 días corridos de anticipación, de acuerdo con las disposiciones que rigen esas cuentas.
 
-Estos traspasos pueden efectuarse una vez transcurridos, a lo menos, seis meses
+Por otra parte, la apertura de la cuenta de ahorro a plazo para la vivienda en otro banco o sociedad financiera, deberá hacerse dentro de los tres días hábiles bancarios, contados desde la fecha en que fue cerrada la cuenta en la institución financiera en que se mantenía. Si el traspaso no se efectuara en el plazo indicado, caducará el contrato de ahorro y se perderá la permanencia o antigüedad de la cuenta, debiendo en consecuencia considerarse la cuenta traspasada, como una nueva cuenta, sujeta a todas las formalidades exigidas para su apertura.
 
-calendario contados desde la apertura de la cuenta o del último traspaso
+Las entidades financieras deben verificar que se cumpla lo antedicho, mediante el cotejo de los datos respectivos del certificado para traspaso de cuenta emitido por el banco o sociedad financiera en que se encontraba abierta la cuenta motivo del traspaso.
 
-realizado, según sea el caso.
+Las cuentas de ahorro a plazo para la vivienda traspasadas desde otra entidad financiera, serán tratadas como una cuenta nueva para los efectos de establecerla fecha en que se les deberán abonar intereses y reajustes y para los fines del número de giros que el depositante puede efectuar en el período correspondiente.
 
-El ahorrante que desee efectuar el traspaso del saldo de su cuenta, deberá
+Es obligatorio tanto para la institución que traspasa una cuenta de este tipo, como para aquella que la recibe, emitir y exigir, respectivamente, el certificado de traspaso, el que debe extenderse de acuerdo con lo señalado en el numeral 12.2 de este título.
 
-solicitarlo a la respectiva entidad financiera, con una anticipación de a lo
+Cuando se proceda a efectuar un traspaso de cuenta, la institución financiera traspasante deberá liquidar y abonar previamente los intereses y reajustes devengados hasta el último día del mes inmediatamente anterior a aquél en que se efectúe el giro, aunque hasta esa fecha no hubieren transcurrido doce meses desde el último abono de los reajustes e intereses o desde la apertura de la cuenta, según corresponda. En todo caso, debe tenerse presente que no corresponde abonar reajustes si el titular hubiere efectuado en el período una cantidad de giros superior a la pactada para un período de doce meses.
 
-menos cinco días hábiles bancarios.
+El traspaso de la cuenta se materializará mediante el giro de su saldo, que debe entregarse al titular de la cuenta, en un vale vista u otro documento pagadero ala vista, a su orden, acompañado del certicado de traspaso a que se refiere el numeral 12.2 del presente título, salvo que ese traspaso lo solicite el ahorrante después de habérsele extendido el certificado de ahorro para postular al subsidio, caso en que el saldo de la respectiva cuenta debe traspasarse directamente a la institución financiera que señale el ahorrante, por medio de un vale vista u otro documento igualmente pagadero a la vista. Dicho documento debe ser extendido a la orden de la misma institución que traspasa la cuenta y endosado por ella a favor de la entidad financiera designada por el ahorrante para recibir el traspaso. Para estos efectos, el endoso se extenderá en los siguientes términos: "Páguese a favor de (nombre de la institución financiera respectiva) con el exclusivo fin de abonarlo a la cuenta de ahorro a plazo para la vivienda a nombre de (nombre del ahorrante) en esa institución. Se deja constancia que este banco/ sociedad financiera extendió al beneficiario el certificado N°............... con fecha.......................para ser presentado al SERVIU conforme al artículo 9° del D.S. N° 44, de 1988, del MINVU".
 
-Por otra parte, la apertura de la cuenta de ahorro a plazo para la vivienda en
+Si el traspaso es solicitado por varios ahorrantes en conjunto como, por ejemplo, en el caso de los pertenecientes a cooperativas o comunidades, éste podrá efectuarse mediante un solo documento por el monto total de los saldos delas respectivas cuentas, acompañado de una nómina con el detalle de cada una de las cuentas traspasadas.
 
-otro banco o sociedad financiera, deberá hacerse dentro de los tres días hábiles
-
-bancarios, contados desde la fecha en que fue cerrada la cuenta en la
-
-institución financiera en que se mantenía. Si el traspaso no se efectuara en el
-
-plazo indicado, caducará el contrato de ahorro y se perderá la permanencia o
-
-antigüedad de la cuenta, debiendo en consecuencia considerarse la cuenta
-
-traspasada, como una nueva cuenta, sujeta a todas las formalidades exigidas para
-
-su apertura.
-
-Las entidades financieras deben verificar que se cumpla lo antedicho, mediante
-
-el cotejo de los datos respectivos del certificado para traspaso de cuenta
-
-emitido por el banco o sociedad financiera en que se encontraba abierta la
-
-cuenta motivo del traspaso.
-
-Las cuentas de ahorro a plazo para la vivienda traspasadas desde otra entidad
-
-financiera, serán tratadas como una cuenta nueva para los efectos de
-
-establecerla fecha en que se les deberán abonar intereses y reajustes y para los
-
-fines del número de giros que el depositante puede efectuar en el período
-
-correspondiente.
-
-Es obligatorio tanto para la institución que traspasa una cuenta de este tipo,
-
-como para aquella que la recibe, emitir y exigir, respectivamente, el
-
-certificado de traspaso, el que debe extenderse de acuerdo con lo señalado en el
-
-numeral 12.2 de este título.
-
-Cuando se proceda a efectuar un traspaso de cuenta, la institución financiera
-
-traspasante deberá liquidar y abonar previamente los intereses y reajustes
-
-devengados hasta el último día del mes inmediatamente anterior a aquél en que se
-
-efectúe el giro, aunque hasta esa fecha no hubieren transcurrido doce meses
-
-desde el último abono de los reajustes e intereses o desde la apertura de la
-
-cuenta, según corresponda. En todo caso, debe tenerse presente que no
-
-corresponde abonar reajustes si el titular hubiere efectuado en el período una
-
-cantidad de giros superior a la pactada para un período de doce meses.
-
-El traspaso de la cuenta se materializará mediante el giro de su saldo, que debe
-
-entregarse al titular de la cuenta, en un vale vista u otro documento pagadero
-
-ala vista, a su orden, acompañado del certicado de traspaso a que se refiere el
-
-numeral 12.2 del presente título, salvo que ese traspaso lo solicite el
-
-ahorrante después de habérsele extendido el certificado de ahorro para postular
-
-al subsidio, caso en que el saldo de la respectiva cuenta debe traspasarse
-
-directamente a la institución financiera que señale el ahorrante, por medio de
-
-un vale vista u otro documento igualmente pagadero a la vista. Dicho documento
-
-debe ser extendido a la orden de la misma institución que traspasa la cuenta y
-
-endosado por ella a favor de la entidad financiera designada por el ahorrante
-
-para recibir el traspaso. Para estos efectos, el endoso se extenderá en los
-
-siguientes términos: "Páguese a favor de (nombre de la institución financiera
-
-respectiva) con el exclusivo fin de abonarlo a la cuenta de ahorro a plazo para
-
-la vivienda a nombre de (nombre del ahorrante) en esa institución. Se deja
-
-constancia que este banco/ sociedad financiera extendió al beneficiario el
-
-certificado N°............... con fecha.......................para ser
-
-presentado al SERVIU conforme al artículo 9° del D.S. N° 44, de 1988, del
-
-MINVU".
-
-Si el traspaso es solicitado por varios ahorrantes en conjunto como, por
-
-ejemplo, en el caso de los pertenecientes a cooperativas o comunidades, éste
-
-podrá efectuarse mediante un solo documento por el monto total de los saldos
-
-delas respectivas cuentas, acompañado de una nómina con el detalle de cada una
-
-de las cuentas traspasadas.
-
-La institución financiera que reciba el traspaso de estas cuentas de ahorro
-
-deberá, en estos casos, informarse acerca del resultado de la postulación, en lo
-
-que se refiere a estos ahorrantes, cuando así corresponda.
+La institución financiera que reciba el traspaso de estas cuentas de ahorro deberá, en estos casos, informarse acerca del resultado de la postulación, en lo que se refiere a estos ahorrantes, cuando así corresponda.
 
 ### 11. Modificación de los contratos
 
@@ -6602,7 +5926,7 @@ CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
 050 THE HONG KONG AND SHANGAI BANKING CORPORATION
 
-051 MORGAN BANK CHILE
+051 NMB BANK CHILE
 
 052 MANUFACTURERS HANOVER BANK CHILE
 
@@ -31024,7 +30348,7 @@ Podrán realizar transacciones a futuro de productos, monedas extranjeras y opci
 
 Las personas naturales o jurídicas autorizadas para actuar en las operaciones a que se refiere el Capítulo VIII del Compendio de Normas de Cambios Internacionales, podrán efectuar las transacciones de compra o venta a futuro de determinados productos o monedas extranjeras, dentro de los volúmenes físicos o de los montos que el Banco Central de Chile les autorice, pero sin entrega
 
-material de los productos o monedas objeto de las transacciones. Asimismo, dichas personas podrán comprar o vender opciones sobre contratos a futuro de productos o monedas extranjeras.
+material de los productos o monedas objeto de las transacciones. Asimismo, dichas personas podrán comprar opciones sobre contratos a futuro de productos o monedas extranjeras.
 
 Las referidas operaciones sólo podrán realizarse por intermedio de corredores autorizados para operar en Bolsas Oficiales Extranjeras que se encuentren registrados en el Instituto Emisor.
 
