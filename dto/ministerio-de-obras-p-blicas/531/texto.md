@@ -1,0 +1,9 @@
+Por decreto M.O.P. Nº 531, de 29 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L.
+
+M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 2, 3, 4, 5, 6, 7, 12, 14, 17, 19, 20, 21, 22, 26, 27 y 30, para la obra Camino Ruta K-635, sector Cruce Ruta 5, Chacarillas-Duao, Kms. 0.00000 al 13.30854, que figuran a nombre de la Suc. José A. Moraga, Sara Rosa Valdés Osses, Roberto Eugenio Parada Burgos, Rubén Ubal, Angélica Pinochet de la Barra, María de la Barra Maturana, Luis A. Chacón Quezada, Carlos Enrique Carrasco Pardo, Félix A. Aguilar Valdés, María B. Adriazola Navarrete, Héctor Luis Ramírez Rojas, Soc. Agrícola Santa Margarita Lt., Suc. Adela Ramírez R. de Barrientos y Olegario Lepe Letelier, roles de avalúos 170-5, 170-49, 153-119, 153-14, 171-8, 153-15, 171-41, 153-46, 172-74, 153-62, 153-59, 172-1, 173-1 y 172-12, Comuna del Maule, superficies 104, 401, 54, 335, 338, 344, 346, 959, 155, 174, 934, 470, 21, 303, 1.209 y 35 M2., respectivamente, la Comisión de Peritos compuesta por los señores Renato Guerra Estévez, Carlos Sottolichio Díaz y Guillermo Picón Vicioso, fijó con fecha 14 de junio de 1996, el valor provisional de las indemnizaciones en las cantidades de $13.360, lote 2; $339.100, lote 3; $34.800, lote Nº 4; $87.300, lote 5; $76.840, lote 6, $67.920, lote 7; $156.700, lote 12; $572.800, lote 14; $31.000, lote 17;
+
+$43.800, lote 19; $676.800, lote 20; $152.000, lote 21;
+
+$29.200, lote 22; $58.540, lote 26; $547.800, lote 27 y $39.300, lote 30. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
