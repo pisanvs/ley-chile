@@ -1,0 +1,5 @@
+AUTORIZA A ESTABLECIMIENTOS CHEZ HENRY LIMITADA PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por resolución N° 477 de 05 de Agosto de 1985 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Establecimientos Chez Henry Limitada, domiciliada en Santiago, para instalar y operar una planta procesadora de recursos hidrobiológicos en la línea de congelado, en calle Dardignac N° 159, de Santiago, en la que podrá utilizar como materia prima: Albacora, anguila, atún aleta amarilla, atún aleta larga, bonito, cabrilla española, cabrilla común, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, lenguado de ojos chicos, lenguado de ojos grandes, lisa, puye, merluza común, merluza española, mero o bacalao, pejerrey de mar, raya, salmón del Pacífico proveniente sólo de establecimientos de cultivo autorizados, gamba, centolla, almeja o taca, almeja, calamar, choro zapato, macha, ostión del Norte, pulpo, langosta de J. Fernández, jaiba, erizo, piure, loco, camarón nailon, langostino amarillo y langostino colorado.
+
+Valparaíso, 05 de Agosto de 1985.- Roberto Verdugo Gormaz, Subsecretaría de Pesca.
