@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 225 de 25 de febrero de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Derecho de Adquisición y Sector Expropiado Predio "El Carmen de Bustamante" de la comuna de Coihueco, VIII Región: y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 21, sitios N°s. 1 al 59 y Reservas CORA N°s. 1, 2, 3, 4A y 4B del Proyecto de Parcelación "Manuel Rodríguez" formado en parte por predio señalado. Los Derechos de Agua se extraen del río Cato; canal El Molino o Las Casas derivado del río Cato y estero Bustamante o Las Rosas.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
