@@ -1,0 +1,3 @@
+Por decreto MOP No. 357, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s 44 y 46, superficies 568 y 515 m2, respectivamente, roles de avalúo en trámite, comuna de Constitución, para la obra Camino Ruta M-40 - Santa Olga - Empedrado, Sector Santa Olga - Los Pellines y se acordó precio de indemnización con su propietario Gerardo Jaque Letelier, ascendente a la cantidad de $ 315.594.- para los lotes 44 y 46.-
+
+Fiscal del Ministerio de Obras Públicas.
