@@ -1,0 +1,7 @@
+AUTORIZA A SOCIEDAD PESQUERA HURTADO Y SALINAS LIMITADA PARA INICIAR ACTIVIDADES PESQUERAS. DENIEGA AUTORIZACION QUE INDICA
+
+Por resolución No. 964, de 13 de Septiembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Pesquera Hurtado y Salinas Limitada, domiciliada en Arica, para iniciar actividades pesqueras, en ordenar a operar la embarcación Marisol, en el litoral de las Regiones I a IX donde podrá extraer los siguientes recursos hidrobiológicos: Agujilla, Albacora, Atún, Bonito, Cojinova, Machuelo, Marrajo. Asimismo, la peticionaria podrá extraer con la nave antes referida, en el litoral de las Regiones III, IV, V, VI, VII y IX, los siguientes recursos hidrobiológicos: Anchoveta, Caballa, Jurel, Sardina común y Sardina española. Se deniega la autorización solicitada por la peticionaria para extraer con la embarcación antes citada, en el litoral de las Regiones I, II y VIII los recursos hidrobiológicos Anchoveta, Caballa, Jurel, Sardina común y Sardina española, de conformidad a lo dispuesto en el decreto No. 436, de 1985, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 13 de Septiembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
