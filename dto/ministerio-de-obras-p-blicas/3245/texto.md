@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.245, de 29 de septiembre de 1999, se expropió el lote de terreno Nº3, superficie 375 m2., rol de avalúo 524-19, comuna de Combarbalá, para la obra Camino Ruta D-55, sector Pte. La Ligua-Bif, San Lorenzo, Variante Chañaral Alto y se acordó precio de indemnización con su propietario Cristobalina Pizarro Miranda y Otros, ascendente a la cantidad de $778.770.
+
+- Fiscal del Ministerio de Obras Públicas.
