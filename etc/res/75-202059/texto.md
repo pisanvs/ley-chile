@@ -1,0 +1,3 @@
+Mediante resolución ministerial Nº75, de fecha 19 de julio de 2002, se aprobó la reforma parcial al estatuto de la Cooperativa de Pescadores y Buzos Mariscadores Alcatraz Limitada, en los términos que da testimonio el instrumento protocolizado con fecha 2 de julio de 2002, al final de los registros del Notario de Quintero don Marcelo Razón Sánchez, bajo el número 63.
+
+Por orden del Sr. Subsecretario.- Raúl Oliva Camadro, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
