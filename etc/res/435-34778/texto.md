@@ -1,0 +1,3 @@
+Por Resolución N° 435, de 26 Abril de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año, a contar del 30 de Abril de 1994, el plazo otorgado a SOCIEDAD PESQUERA TEL LIMITADA, R.U.T. N° 88.729.500-K, para operar la nave "Venus", autorizada por Resolución N° 111, de 1982, de esta Subsecretaría, en razón de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 26 de Abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
