@@ -15278,49 +15278,35 @@ Los valores de oferta pública que pudieren emitir las empresas filiales sujetas
 
 Asimismo, esos valores deberán ser clasificados por evaluadores privados inscritos en esta Superintendencia, de acuerdo con las normas dictadas para tal efecto.
 
-9.- Administración y funcionamiento de las sociedades filiales.
+9.- Dirección, administración y funcionamiento de las sociedades filiales.
 
-No existe inconveniente para que los directores o los empleados de la institución financiera matriz, sean directores de una sociedad filial, siempre que lo admitan las disposiciones que rigen a esta última.
+9.1.- Directores.
 
-Las sociedades filiales deberán tener gerente, personal, local, equipamiento y servicios independientes de la institución financiera matriz.
+No existe inconveniente para que un director de una sociedad filial fiscalizada por esta Superintendencia sea, a la vez, director de la institución financiera matriz, de otra sociedad filial fiscalizada por este Organismo o de una empresa de apoyo al giro. En general, el cargo de director de cualquiera de las entidades es incompatible con el de empleado de ellas, salvo que se trate de un empleado de la institución financiera matriz que ejerza el cargo de director de una filial fiscalizada por esta Superintendencia o de una sociedad de apoyo al giro.
 
-No obstante, en el marco de las instrucciones que se indican en los numerales siguientes, en los casos en que las normas que rigen a la respectiva filial lo permitan el banco o sociedad financiera matriz podrá prestar a sus filiales diversos servicios tendientes a facilitar las actividades comerciales o administrativas de éstas.
+En todo caso, el ejercicio del cargo de director, gerente o empleado en las sociedades filiales fiscalizadas por la Superintendencia de Valores y Seguros o de la Superintendencia de AFP, se sujetará a las normas legales o reglamentarias que rigen a esas sociedades.
 
-9.1.- Utilización de las sucursales de la matriz para promover las operaciones de sus filiales y recopilar antecedentes de los clientes.
+9.2.- Gerente y personal.
 
-La institución financiera matriz podrá, a través de sus sucursales, promover y proporcionar información a sus clientes acerca de los distintos servicios financieros que prestan sus sociedades filiales. Asimismo, podrá canalizar solicitudes de operaciones, recopilar antecedentes de potenciales clientes y poner a disposición de sus filiales, previa autorización del cliente, información económico financiera que mantenga respecto de éste.
+La matriz con sus filiales, o éstas entre sí, podrán compartir gerente y personal, siempre que se trate de filiales fiscalizadas por este Organismo.
 
-Estas actividades deberán sujetarse estrictamente a las siguientes condiciones:
+Las sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de AFP, deberán tener gerente y personal independiente de la institución financiera matriz y de las filiales fiscalizadas por esta Superintendencia de Bancos e Instituciones Financieras.
 
-a) La evaluación y la decisión final respecto de la operación que se geste a través del banco o sociedad financiera matriz, así como de sus características y condiciones, corresponderá sólo a las instancias respectivas de la sociedad filial; en ningún caso esta función podrá ser delegada.
+9.3.- Locales y equipamiento.
 
-b) El funcionario de la institución financiera matriz que recopile los antecedentes de potenciales clientes para una sociedad filial, deberá informarles que la operación la está haciendo con la sociedad filial y no con la institución financiera misma. Además, el banco o sociedad financiera deberá utilizar formularios distintos a los que ocupa para sus propias operaciones, que tengan el membrete o logotipo de la filial e incluyan una advertencia o nota impresa en la que se indique que la operación se realiza con la sociedad filial, que la aceptación de las solicitudes está sujeta a la decisión de ésta y que los contratos que se suscriban no comprometen al banco o sociedad financiera.
+La matriz, sus sociedades filiales sujetas a la fiscalización de esta Superintendencia y las sociedades de apoyo al giro en que participe la matriz, podrán compartir y utilizar los mismos locales y equipamiento.
 
-c) Tanto la institución financiera como su filial, deberán mantener un estricto control contable de los respectivos ingresos y gastos de los servicios contratados entre ambas partes.
+Si a una sociedad filial fiscalizada por otra Superintendencia se le permite hacer lo mismo de acuerdo con las normas que la rigen, no existe inconveniente en que las entidades fiscalizadas por este Organismo compartan con ella locales y equipamiento. No obstante, cuando se trate de utilizar un mismo local, deberá en ese caso mantenerse una clara separación material respecto de las dependencias en que opera cada entidad, de manera que no tengan responsabilidad por las operaciones que no sean las propias, ni el público pueda confundirse y entender que la asumen.
 
-9.2.- Funciones administrativas y uso de bienes de la institución financiera.
+9.4.- Promoción de los productos o servicios de una entidad distinta.
 
-La sociedad filial podrá contratar el servicio de algunas funciones administrativas o el uso de locales o equipos del banco o sociedad financiera, sobre la base de contratos de prestaciones de servicios específicos o de arrendamiento, en su caso.
+La sociedad filial podrá promover sus servicios a través de la institución financiera matriz o de otras filiales o sociedades de apoyo al giro fiscalizadas por este Organismo, o viceversa, pudiendo canalizarse a través de cualquiera de esas entidades la documentación que se genera entre las demás sociedades y sus respectivos clientes.
 
-La posibilidad señalada en el párrafo anterior se refiere exclusivamente a servicios destinados a facilitar las funciones operativas y administrativas de la empresa filial y, en ningún caso, a la gestión del negocio de ésta, la que debe radicarse exclusivamente en ella. Así, por ejemplo, una institución financiera no podrá prestar servicios tales como la administración de las inversiones o el manejo de fondos disponibles, funciones que deberán ser absolutamente independientes entre la empresa filial y la institución financiera matriz.
+En caso de que una sociedad filial sujeta a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de AFP estuviere facultada para actuar de igual modo, no existe impedimento para que las entidades fiscalizadas por esta Superintendencia actúen de la misma forma con ellas, siempre que la evaluación y la decisión final de la operación que se geste a través de una entidad, así como la determinación de sus características y condiciones, se realice siempre en la sociedad que la contrata, no pudiendo ser delegadas tales funciones.
 
-Lo anterior no obsta para que las instituciones financieras entreguen en arriendo a una empresa filial el uso de parte de sus oficinas para que ella ejerza su giro, siempre que se mantenga una clara separación material respecto de las dependencias en que opera la matriz, que evite confusiones de las actividades, de tal manera que la institución no tenga alguna responsabilidad por las operaciones de su filial ni el público pueda entender que la asume.
+9.5.- Información reservada.
 
-9.3.- Contratos de prestación de servicios.
-
-Las prestaciones señaladas en los numerales 9.1 y 9.2 precedentes podrán realizarse siempre que existan contratos previamente suscritos por las partes, en los cuales se detallen claramente los servicios que se prestarán.
-
-Los precios deberán pactarse de acuerdo con las condiciones imperantes en el mercado para prestaciones similares o estar en relación con los costos asociados.
-
-Las partes deberán mantener un riguroso control contable de los ingresos y gastos, debiendo establecerse en los contratos que los cobros se realizarán con la pormenorización necesaria para ese efecto.
-
-9.4.- Prestación de servicios de las sociedades filiales a su matriz y a otras filiales.
-
-Bajo las condiciones señaladas en los numerales precedentes, las sociedades filiales sujetas a la fiscalización de esta Superintendencia pueden, a su vez, prestarle servicios a la institución financiera matriz y a las demás sociedades filiales o de apoyo al giro en las cuales participe su matriz".
-
-9.5.- Sanciones.
-
-El incumplimiento de los resguardos y restricciones previstos en los numerales anteriores podrá dar lugar a la medida de suspensión de la actividad específica sobre la que recae la infracción, sin perjuicio de las sanciones establecidas en el artículo 19 de la Ley General de Bancos.
+Lo indicado en los numerales precedentes es sin perjuicio, claro está, de las normas sobre secreto o reserva bancarios Por consiguiente, la institución financiera matriz no puede compartir la información reservada de sus clientes, salvo que cuenten con autorización de los mismos.
 
 10. - Participación de la sociedad filial en otras sociedades.
 
@@ -15378,7 +15364,7 @@ Para constituir una sociedad de apoyo al giro, las que podrán ser sociedades an
 
 Para solicitar la autorización correspondiente, las instituciones financieras interesadas deberán entregar a esta Superintendencia los antecedentes que se detallan en el Anexo N° 3 de este Capítulo.
 
-Las sociedades de apoyo al giro podrán ser constituidas con la participación de una o más instituciones financieras. En cualquier caso, excepcionalmente podrá autorizarse la participación como socios minoritarios a entidades que no sean bancos, sociedades financieras ni filiales de los mismos, si se demuestra a este Organismo que ello resultará ventajoso para las instituciones financieras que participan.
+Las sociedades de apoyo al giro podrán ser constituidas con la participación de una o más instituciones financieras. En cualquier caso, excepcionalmente podrá autorizarse la participación como socios a entidades que no sean bancos, sociedades financieras ni filiales de los mismos, si se demuestra a este Organismo que ello resultará ventajoso para las instituciones financieras que participan.
 
 Cada vez que se desee incorporar un nuevo socio o accionista, la sociedad deberá solicitar autorización a esta Superintendencia.
 
@@ -15398,13 +15384,9 @@ Las sociedades a que se refiere el artículo 74 de la Ley General de Bancos qued
 
 Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efectos de fiscalización, la información establecida en las normas generales o instrucciones específicas impartidas a dichas sociedades, las que comprenden, entre otras, la exigencia de remitir estados de situación en forma periódica.
 
-6.- Administración y funcionamiento de las sociedades de apoyo al giro.
+6.- Dirección, administración y funcionamiento de las sociedades de apoyo al giro.
 
-No existe inconveniente para que los directores o los empleados de las instituciones financieras participantes, sean directores de una sociedad de apoyo al giro.
-
-Las sociedades a que se refiere este título deberán tener gerente, personal, local, equipamiento y servicios independientes de sus entidades financieras propietarias.
-
-No obstante, las instituciones financieras socias o accionistas podrán prestar servicios a sus sociedades de apoyo al giro, bajo las mismas condiciones establecidas en el N° 9 del título II de este Capítulo.
+Las sociedades de apoyo al giro se atendrán a lo dispuesto en el N° 9 del título II de este Capítulo, en lo que se refiere a la relación con sus instituciones financieras socias o accionistas, las filiales de éstas y las demás sociedades de apoyo al giro en que sus dueños participen.
 
 7.- Restricciones en las inversiones de las sociedades de apoyo al giro.
 
