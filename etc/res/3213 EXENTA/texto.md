@@ -1,0 +1,5 @@
+Por resolución exenta Nº3.213, de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a ALIMENTOS CUISINE SOLUTIONS CHILE S.A., para iniciar actividades pesqueras de transformación, en orden a operar una planta ubicada en camino Puerto Montt a Pargua, Ruta 5, Km. 8, Puerto Montt, X Región, en las líneas de elaboración de Cocido, Fresco-Enfriado, Fresco- Refrigerado y Congelado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Déjase sin efecto la resolución Nº2.180 de 2002, de esta Subsecretaría, en virtud de lo dispuesto en el artículo 7º del D.S. Nº 175 de 1980, del Ministerio de Economía, Fomento y Reconstrucción; de lo solicitado por la peticionaria, mediante C.I. Subpesca Nº7154 de fecha 2 de octubre de 2003, y del contenido de la presente resolución.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
