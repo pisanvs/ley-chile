@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION NUMERO 1.970 EXENTA, DE 1992, SOBRE DELEGACION DE FACULTADES
+
+Mediante Resolución Exenta N. 933 de 3 de Marzo de 1994, el Director Regional de la VII Dirección Regional Talca, modificó la Resolución Exenta N. 1.970, del 27 de Marzo de 1992, sobre Delegación de facultades, en los funcionarios que se señalan por su referencia alfanumérica y que corresponden a los que describe la Resolución Exenta N. 968, del 1 1 de Marzo de 1992 y su modificación efectuada a trav#s de la Resolución Exenta N. 2.410 del 15 de Febrero de 1994, ambas de la Dirección Nacional. La modificación señalada dice relación con materias referentes a la Ley N. 17.235, sobre Impuesto Territorial, en el sentido de ampliar las funciones que se pueden delegar y los funcionarios que pueden ejercerlas.
+
+Anótese, comuníquese y publíquese.- Sergio Flores Gutiérrez, Director Regional.
