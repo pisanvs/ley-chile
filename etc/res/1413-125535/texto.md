@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE AUTORIZACIONES QUE INDICA
+
+Por resolución No. 1.413, de 21 de Diciembre de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad conforme con el artículo 7° del Decreto Supremo No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, de la resolución No. 720, de 1986, de esta Subsecretaría que autorizó a Pesquera Aguas Marinas Limitada, domiciliada en Santiago, para desarrollar actividades pesqueras de transformación. Declárase la caducidad de la autorización otorgada a Pesquera Aguas Marinas Limitada, domiciliada en Santiago, por resolución No. 489, de 1987, para elaborar recursos hidrobiológicos en el Frigorífico Puerto Bories de Puerto Natales.
+
+Valparaíso. 21 de Diciembre de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
