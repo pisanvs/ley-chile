@@ -1,0 +1,3 @@
+Por resolución N° 33, de 02 de Junio de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se adjudicó a Centromotori Ltda., la concesión para operar, hasta el 09/08/97, un establecimiento ubicado en calle Sargento Aldea N° 30 de San Felipe, destinado a la revisión técnica y verificación de emisión de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Adolfo Tannenbaum Ramírez, Secretario Regional Ministerial de Transportes y Telecomunicaciones V Región.
