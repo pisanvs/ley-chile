@@ -1,0 +1,3 @@
+Por decreto MOP No. 2.030, de 30 de julio de 1999, se expropió el lote de terreno No. 13, superficie 233 m2., rol de avalúo 331-19, comuna de Renca, para la obra Estudio de Anteproyecto e Ingeniería para el Sistema Norte - Sur, Sector Río Mapocho - Ruta 5 Norte, Eje General Velásquez, Región Metropolitana, y se acordó el valor de indemnización con sus propietarios Oscar Fernando Segovia Cofré y otros, ascendente a la cantidad de $ 16.109.430.-
+
+Fiscal del Ministerio de Obras Públicas.
