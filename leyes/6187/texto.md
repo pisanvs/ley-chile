@@ -1,0 +1,1 @@
+Agrega artículo a la ley 5,795, de 29 de diciembre de 1936, que autoriza a la Tesorería General de la República para emitir bonos por cuenta de la Municipalidad de Providencia hasta por $ 1.500,000 para obras de alcantarillado en los sectores que indica de la misma comuna.
