@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº366 de fecha 28 de marzo del 2002, se expropió el lote de terreno Nº24, superficie 224 m2., Rol de Avalúo Nº160-496, comuna de Petorca, para la obra "Ruta E-37-D, sector Pedegua-Palquico, Km. 0,000 al Km. 14,000", V Región y se acordó el valor de indemnización con su propietaria Servanda Beatriz Maturana Oyanadel, ascendente a la cantidad de $739.850.-
+
+Fiscal del Ministerio de Obras Públicas.
