@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº714, de 30 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº7, para la ejecución de la obra ''Camino Costero Tirúa - Carahue, Tramo Tranapuente - Carahue, Sector Km. 55.438,97 - Km. 69.895,61; Km. 0,00000 - Km.
+
+3.927,45'', que figura a nombre de Lorenzo Ulloa Fuentes, rol de avalúo 511-136, comuna de Carahue, IX Región, superficie 344,70 m2. La Comisión de Peritos fijó, con fecha 7 de abril de 1999, complementada por acta de fecha 4 de junio de 2000, el valor provisional de la indemnización en la cantidad de $162.880.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
