@@ -11086,7 +11086,7 @@ Debido a que las pérdidas que podrían derivarse de las operaciones de compra c
 
 ### 1. Criterios de evaluación
 
-La evaluación de los bienes recibidos o adjudicados en pago se hará sobre la base del valor en que, de acuerdo con las condiciones normales de mercado, se estime que podrán venderse. En el caso de las acciones o derechos en sociedades, la evaluación se realizará mediante el procedimiento de clasificación señalado en el numeral 1.2 de este título.
+La evaluación de los bienes recibidos o adjudicados en pago se hará sobre la base del valor en que, de acuerdo con las condiciones normales de mercado, se estime que podrán venderse.
 
 El valor estimado de venta debe basarse en un valor comercial de referencia calculado a partir de información confiable. En ningún caso el valor comercial debe estimarse a partir de meras expectativas de mejoramiento de precios en el mercado o supuestos de carácter financiero relacionados con potenciales clientes, sino que se seguirá un criterio estrictamente conservador, fundado en las condiciones vigentes del mercado. El valor estimado de venta considerará sólo el monto neto que se obtendría en la enajenación del bien.
 
@@ -11108,18 +11108,6 @@ Estas tasaciones servirán para determinar la diferencia entre el valor registra
 
 Las principales variables a considerar en la evaluación del riesgo de las acciones y derechos en sociedades que se reciban en pago, deben relacionarse con la solvencia y liquidez de la empresa emisora, como también con la cotización de mercado que estos instrumentos tengan, si procede.
 
-Estos bienes se clasificarán de acuerdo con el rango de pérdida que resulte de la comparación entre el valor al cual las acciones o derechos en sociedades se encuentren registrados en la contabilidad y el valor estimado de realización, en las siguientes categorías:
-
-i) Categoría "A": Cuando, de la referida comparación, no resulte pérdida alguna;
-
-ii) Categoría "B": Cuando la pérdida sea inferior a un 5% del valor en que se encuentra registrado el bien en el activo;
-
-iii) Categoría "B-" Cuando resulte una pérdida que fluctúe entre el 5% y el 39%, en relación con el valor contabilizado;
-
-iv) Categoría "C": Cuando la pérdida estimada se sitúe en un rango de 40% a 79% del valor contabilizado;
-
-v) Categoría "D": Cuando la pérdida esperada fluctúe en un rango comprendido entre el 80% y 100% de su valor de contabilización.
-
 1.3. Otros bienes.
 
 Cualquier otro bien distinto a los señalados anteriormente, deberá evaluarse de modo que su valor de liquidación se refleje apropiadamente.
@@ -11131,8 +11119,6 @@ Esta Superintendencia en sus revisiones habituales examina la documentación de 
 ### 3. Exigencia de provisiones
 
 La provisión que debe mantenerse por los bienes recibidos en pago será equivalente a la diferencia que se determine de comparar el monto total registrado en el activo por dichos bienes con el total resultante de la suma de los valores estimados de venta de los mismos, obtenidos de acuerdo con lo instruido en los numerales precedentes de este título.
-
-Para ese efecto, las acciones o derechos en sociedades se tomarán como un conjunto dentro del total de los bienes recibidos o adjudicados en pago, considerando como diferencia entre el valor contable y el valor estimado de venta de ese conjunto, el monto que se obtiene de aplicar; el 1% al valor registrado en el activo de las acciones o derechos clasificados en categoría B; el 20% a los clasificados en categoría B-; el 60% a los clasificados en categoría C; y, el 90% a los clasificados en categoría D.
 
 En ningún caso se considerarán dentro de aquellos cálculos, los valores de los bienes que hubieren sido castigados.
 
