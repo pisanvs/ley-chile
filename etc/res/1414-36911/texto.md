@@ -1,0 +1,3 @@
+Por Resolución N° 1.414, de 5 de octubre de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a RENE LUCIANO VELIZ CARVAJAL, R.U.T. N° 6.128.197-5, para ampliar actividades pesqueras, en orden a incorporar a la planta ubicada en calle Santa Ester N° 550, Población Victoria, Coquimbo, IV Región, en las líneas de elaboración de Congelado y Fresco-refrigerado, el recurso hidrobiológico Loco Concholepas concholepas.
+
+Valparaíso, 5 de octubre de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
