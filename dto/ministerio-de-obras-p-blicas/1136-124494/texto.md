@@ -1,0 +1,5 @@
+Por decreto MOP. No. 1.136, de 7 de agosto de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. MOP. No. 850, de 1997, que fijó el texto actualizado de la ley No. 15.840, se expropiaron los lotes de terreno No.
+
+s.143-A y 143-B, para la obra Camino Acceso Norte a Concepción, Km 24.775,00 al 26.549,00, que figuran a nombre de Pedro Segundo Merino Fuentes, sin rol, comuna de Ránquil, superficies 1.828 y 621 m². La Comisión de peritos integrada por Jaime García Molina, Teodoro Medina Reyes y Luis Abarzúa Ceballos, fijó con fecha 22 de diciembre de 1997, el valor provisional de la indemnización en la cantidad de $ 246.780.- para el lote No. 143-A y $ 83.835.- para el lote No. 143-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No. 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
