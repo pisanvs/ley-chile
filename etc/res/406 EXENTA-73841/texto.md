@@ -1,0 +1,19 @@
+AUTORIZA A LA FUNDACION HOGAR FAMILIA SAGRADO CORAZON DE JESUS PARA REALIZAR COLECTA PUBLICA
+
+(Resolución)
+
+Núm. 406 exenta.- Concepción, 12 de junio de 1997.- Considerando: Carta de 12 de junio de 1997, de la Presidenta de la Fundación Hogar Familia Sagrado Corazón de Jesús, de Los Angeles.
+
+Vistos: Lo dispuesto en la Ley Nº 10.262 de 1952; Ley Nº 16.436 de 1966; Decreto del Ministerio del Interior Nº 955 publicado en el Diario Oficial del 24 de junio de 1974; modificado por el Decreto Supremo del Ministerio del Interior Nº 1.309, publicado en el Diario Oficial de 21 de septiembre de 1974; la facultad que me otorga el Decreto Supremo del Ministerio del Interior Nº 969, publicado en el Diario Oficial de 22 de agosto de 1975; y lo señalado en la Resolución Nº 55 de 1992, cuyo texto refundido, coordinado y sistematizado lo fija la Resolución Nº 520 de 1996, de la Contraloría General de la República.
+
+R e s u e l v o:
+
+1.- Autorízase a la Fundación Hogar Familia Sagrado Corazón de Jesús, para realizar una Colecta Pública el día martes 16 de septiembre de 1997, en la VIII Región del Bío Bío.
+
+2.- Las erogaciones deberán ser solicitadas y recibidas en alcancías numeradas por personas debidamente acreditadas.
+
+3.- La apertura de las alcancías se hará en una sola oportunidad en un acto presidido por la Srta. Gobernadora Provincial de Concepción, o por la persona que ella designe en su representación.
+
+Anótese, comuníquese y publíquese.- Por orden del Sr. Presidente de la República, María Angélica Fuentes Fuentealba, Intendente Región del Bío Bío (S).- Octavio Stuardo Mellado, Asesor Jurídico (S).
+
+Lo que transcribo a Ud. para su conocimiento y fines del caso.- Saluda Atte. a Ud., Octavio Stuardo Mellado, Asesor Jurídico (S).
