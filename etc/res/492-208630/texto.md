@@ -1,0 +1,3 @@
+Por resolución Nº 492, de 18 de febrero de 2003, de esta Subsecretaría, autorízase a NATALIO DEL CARMEN GODOY GONZALEZ para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Rengo Nº 440, Los Vilos, IV Región, en la línea de elaboración de congelado y fresco-enfriado, el recurso hidrobiológico Langosta de agua dulce. El recurso Langosta de agua dulce deberá provenir de centros de cultivo debidamente autorizados.
+
+Valparaíso, 18 de febrero de 2003.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
