@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIONES PARCIALES DE INMUEBLES
+
+Por resolución Nº 146 de 30 de octubre de 1998, Serviu II Región dispuso conforme D.L. 2.186 de 1978 y para ejecución proyecto ''Mejoramiento Eje San Martín e Iquique - Antofagasta'', expropiación parcial del inmueble ubicado en calle Iquique Nº 3901, rol de avalúo Nº 1210-22, comuna de Antofagasta, superficie 8,00 M2., de aparente dominio de don Jorge Castro Sepúlveda, según inscripción fs. 1749, Nº 2196, año 1988, del Registro de Propiedad del Conservador de Bienes Raíces Antofagasta. Comisión Tasadora integrada por peritos Sr. Alejandro Bargsted Barcells, Sra. Eleonora Román Latorre, Arquitectos; y Sr. Héctor Villegas González, Constructor Civil, según informe de 22 de julio de 1998, fijó monto provisional indemnización en $1.737.585.-, pagadera al contado.
+
+Antofagasta, 3 de noviembre de 1998.- Director Serviu II Región.
