@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.387 de fecha 30 de septiembre de 2002, se expropió el lote de terreno Nº7, superficie 1.449 m², Rol Nº203-92, comuna de Chaitén, X Región para la obra ''Camino Ruta 7 (Longitudinal Austral), Sector Chaitén Ex Pozos de Empréstitos, Tramo Km. 0,000 al 13,07086'' y se acordó el valor de indemnización con su propietario Pertha de Lourdes Lillo Lillo, ascendente a la cantidad de $988.256.-
+
+Fiscal del Ministerio de Obras Públicas.
