@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.739 de fecha 28 de abril de 2000, se expropió el lote de terreno Nº3, superficie 330,62 m², rol de avalúo 107-32, comuna de Copiapó, para la obra ''Acceso Sur a Copiapó y Puente La Paz Camino Ruta 5 Longitudinal Norte'' y se acordó el valor de indemnización con su propietario Lidia de la Cruz Ponggi Díaz y otros, ascendente a la cantidad de $20.728.392.
+
+Fiscal del Ministerio de Obras Públicas.
