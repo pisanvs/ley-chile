@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº84, de fecha 21 de febrero de 2002, se expropiaron los lotes de terreno Nºs 60-A y 63, superficies 2.299 m² y 1.999 m², respectivamente, rol de avalúo 155-9, comuna de Portezuelo, VIII Región, para la obra "Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Km. 6.900.00 al 28.883.35" y se acordó el valor de indemnización con su propietario don Patricio Adolfo Ausset Cabret, ascendente a la cantidad de $2.601.502.-
+
+Fiscal del Ministerio de Obras Públicas.
