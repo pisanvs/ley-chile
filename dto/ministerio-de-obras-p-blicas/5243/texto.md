@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.243, de 30 de noviembre del 2000, se expropió el lote de terreno Nº1, superficie 4.648 m2., rol de avalúo 868-2, comuna de Villa Alemana, para la obra Concesión Internacional Interconexción Vial Santiago - Valparaíso - Viña del Mar, Quinta Región y se acordó el valor de indemnización con su propietaria Sociedad Productora y Distribuidora S.A., ascendente a la cantidad de $69.582.315.-
+
+Fiscal del Ministerio de Obras Públicas.
