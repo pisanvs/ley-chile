@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 588, de 31 de marzo de 2004, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s. 2, 3, 4 y 5, para la ejecución de la obra "Laja Diguillín, Canal Matriz Diguillín - Larqui Fajas Adicionales Km. 0,000 a Km. 23,420, que figuran a nombre de Cárdenas Astroza Rómulo y Sucesión Valdebenito Leonides, Rol de Avalúo 597-65 y 597-60, comuna de San Ignacio, VIII Región, superficies 914, 1.099, 338 y 226 m2. La Comisión de peritos con fecha 5 de enero de 2003, fijó el monto de la indemnización provisional en la cantidad de $782.400, lote 2; $692.370, lote 3;
+
+$212.940, lote 4 y $142.380, lote 5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
