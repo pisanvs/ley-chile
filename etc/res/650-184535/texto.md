@@ -1,0 +1,3 @@
+Por resolución Nº 650 de 18 de abril de 2001 de esta Subsecretaría, declárase que con fecha 14 de febrero de 2001 han quedado sin efecto las resoluciones Nº 1.216 y Nº 1.218, ambas de 1998, Nº 41 de 1999 y Nº 2.377 de 2000, todas de esta Subsecretaría, que autorizaron a PESQUERA SAN JOSE S.A. para desarrollar actividad extractiva con las naves Don Jorge y Don Fernando, en conformidad con lo dispuesto en el artículo 9º de la ley Nº 19.713. Dichas naves quedan permanente e irrevocablemente excluidas de la actividad pesquera extractiva.
+
+Valparaíso, 18 de abril de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
