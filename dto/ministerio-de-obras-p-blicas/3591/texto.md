@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.591 de fecha 30 de noviembre de 1999, se expropió el lote de terreno Nº 10, superficie 1.476,0 m²., rol de avalúo 258-25, comuna de Ercilla, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco, Km. 587,21500 a Km. 588,47000'' y se acordó el valor de indemnización con su propietario Julio Segundo Padilla Espinoza, ascendente a la cantidad de $1.261.600.-
+
+Fiscal del Ministerio de Obras Públicas.
