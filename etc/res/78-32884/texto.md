@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE "SANTANDER S.A., ADMINISTRADORA DE FONDOS DE INVERSION"
+
+Certifico: Que por resolución N° 078, de fecha 20 de Abril de 1993, de esta Superintendencia de Valores y Seguros se aprobó una reforma de estatutos de la sociedad "Santander S.A., Administradora de Fondos de Inversión", acordada en junta extraordinaria de accionistas celebrada el 15 de marzo de 1993 y reducida e escritura pública el mismo día en la Notaría de Santiago de don Félix Jara Cadot, consistente en aumentar el capital social de $ 100.000.000, dividido en 1.000 acciones, a $ 195.147.000, dividido en 1.845 acciones, mediante la emisión de 845 acciones de pago, sin valor nominal, íntegramente suscritas, a ser pagadas en el plazo de 3 años a contar de la fecha de la Junta.
+
+Santiago, 20 de Abril de 1993.- Rodrigo O. Costa Aranda, Secretario General.
