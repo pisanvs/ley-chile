@@ -1,0 +1,3 @@
+Certifico que por resolución Nº E-166-2000, de fecha 10 de octubre de 2000, se aprobó la reforma introducida a los estatutos de la sociedad ''Provida Internacional S.A.'', filial de Administradora de Fondos de Pensiones Provida S.A., y el texto único, sistematizado y refundido de los mismos, acordado en la junta general extraordinaria de accionistas, celebrada el día 4 de agosto de 2000, cuya acta se redujo a escritura pública con fecha 24 de agosto de 2000, ante el Notario de Santiago, don José Musalem Saffie.
+
+Santiago, 10 de octubre de 2000.- Alejandro Ferreiro Yazigi, Superintendente.
