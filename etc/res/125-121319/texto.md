@@ -1,0 +1,5 @@
+AUTORIZA A INDUSTRIA PESQUERA TIMONEL S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS.
+
+Por resolución Nº125, de 12 de Febrero de 1986, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Timonel S.A., domiciliada en Talcahuano, para operar en el litoral de la VIII Región la embarcación de cerco que se individualiza en el contrato de construcción suscrito entre la beneficiaria, el 19 de Noviembre de 1985, Astilleros y Servicios Navales (ASENAV) Ltda. con la embarcación señalada podrá extraer los siguientes recursos destinados a la planta de harina y aceite de pescado que tiene autorizada en Talcahuano, calle 7 de Enero Nº 57: anchoa, jurel, caballa, sardina española, agujilla y sardina común. La presente autorización corresponde a pronunciamiento respecto a solicitud de 5 de Diciembre 1985.
+
+Valparaíso, 12 de Febrero de 1986. Roberto Verdugo Gormaz, Subsecretario de Pesca.
