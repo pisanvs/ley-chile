@@ -1,0 +1,3 @@
+Por decreto MOP N°2.480, de 30 de noviembre de 1998, se expropiaron los lotes de terreno N°s 80, 82, 83, 84 y 85, superficies 154,40; 393,60; 971; 4.102 y 1.765 m2 respectivamente, roles de avalúo 3284-27 y 3361-2, comuna de Temuco, para la obra Camino Mejoramiento Ruta S-269, Padre Las Casas-Niágara y se acordó precio de indemnización con sus propietarios Roberto Navarrete Correa y Rolando Franco Ledesma, ascendente a las cantidades de $325.567.- para el lote 80 y $4.451.222.- para los lotes 82, 83, 84 y 85.-
+
+Fiscal del Ministerio de Obras Públicas.
