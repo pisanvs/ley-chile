@@ -1,0 +1,3 @@
+Por decreto MOP Nº 639, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 16, superficie 7.532,81 M2, Rol de avalúo 1216-158, comuna de Teodoro Schmidt, para la obra "Camino Costero Sur, Tramo Chelle-Hualpín Puente Peule, Subtramo III By - Pass Hualpín Km. 58.600 al 62,790" y se acordó el valor de indemnización con su propietaria Enedina González Reyes, ascendente a la cantidad de $11.009.571.-
+
+Fiscal del Ministerio de Obras Públicas.
