@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.426, de 28 de septiembre del 2001, se expropió el lote de terreno Nº 1-A, superficie 567 m2., rol de avalúo 209-85, comuna de San Javier, para la obra Concesión Internacional Ruta 5. Tramo Talca Chillán, Séptima Región y se acordó el valor de indemnización con su propietario Sociedad Agrícola Jaime Contardo y Compañía Limitada, ascendente a la cantidad de $2.582.367.-
+
+Fiscal del Ministerio de Obras Públicas.
