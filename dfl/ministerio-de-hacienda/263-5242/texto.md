@@ -1,0 +1,1 @@
+Complementa el decreto con fuerza de ley 370, de 1953, que dispuso que la Corporación de Fomento de la Producción tendrá a su cargo la explotación de la industria hotelera en la que el Estado tiene aportes o intereses creando, con este objeto, la Empresa Explotadora de la Industria Hotelera de Chile.
