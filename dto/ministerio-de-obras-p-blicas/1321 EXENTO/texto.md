@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.321, de fecha 30 de agosto de 2002, se expropió el lote de terreno Nº114, superficie 939,0 m2, rol de Avalúo Nº260-12, comuna de Fresia, para la obra ''Camino Fresia - Parga - Llico - Las Cañitas, Rol V-46, Km. 14,835 a Km. 48,580'', X Región, y se acordó el valor de la indemnización con su propietario Rolando Neumann Gebauer, ascendente a la cantidad de $692.527.
+
+Fiscal del Ministerio de Obras Públicas.
