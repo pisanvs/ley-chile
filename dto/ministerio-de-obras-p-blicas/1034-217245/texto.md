@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.034, de 29 de septiembre de 2003, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco los lotes de terreno Nºs. 17 y 18, para la obra: Mejoramiento Eje Bretaña, Sector Cuatro Esquinas-Rotonda Cap., Camino Avda. Gran Bretaña, Km. 0,00000-Km.
+
+2,74400, que figuran a nombre de Cía. Siderúrgica Huachipato S.A., rol de avalúo 7404-1, comuna de Talcahuano, VIII Región, superficies 130 m² y 152 m². La comisión de peritos fijó con fecha 21 de junio de 1999, el monto de la indemnización provisional en la cantidad $5.132.500.-, lote 17 y $5.928.000.-, lote 18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
