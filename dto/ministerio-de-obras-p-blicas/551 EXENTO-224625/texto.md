@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 551 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 1-A, superficie 4.915,68 m2, Rol Nº 2275-30, comuna de Osorno, X Región para la obra "Construcción Puentes Tacamó y Las Juntas" y se acordó el valor de indemnización con su propietario Ernesto Segundo Mohr Epple, ascendente a la cantidad de $1.769.077.- para el lote Nº 1-A.-
+
+Fiscal del Ministerio de Obras Públicas.
