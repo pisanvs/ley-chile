@@ -1,0 +1,5 @@
+Por Resolución Nº 470 de 29 de Mayo de 1992 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a FRIGOPESCA SOCIEDAD ANONIMA R.U.T. Nº 96.570.590-2, domiciliada en la ciudad de Arica, calle Paula Jaraquemada Nº 940, para ampliar actividades pesqueras. que tiene autorizada por Resolución Nº 559, de 1991, de esta Subsecretaria, en orden a operar una planta industrial en la I Región, ubicada en calle Jaraquemada Nº 940, comuna de Arica, donde procesará en la línea de elaboración de congelado, fresco-enfriado, ahumado, conservas, los siguientes recursos hidrobiológicos: Congelado, Conservas, Fresco-refrigerado, Ahumado y Seco-salado, Anguila, Apañado, Ayanque, Cabinza, Cazón, Machuelo o tritre Pampanito, Pejesapo, Rococó cococó, Sardina común, Tomoyo, Calamar, Chorito, Choro, Jibia, Pelillo, Chascón, Jibia.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 29 de Mayo de 1992.- Jorge Marshall Rivera, Subsecretario de Pesca Subrogante.
