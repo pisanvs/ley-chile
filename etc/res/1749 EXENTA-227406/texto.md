@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.749 de 30 de junio de 2004, de esta Subsecretaría de Pesca, modifícase el numeral 3º de la resolución Nº 1.491 de 2004, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto FIP 2004-06 denominado "Evaluación hidroacústica de recurso jurel entre la V y X Regiones, año 2004", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de julio de 2004, inclusive.
+
+Valparaíso, 30 de junio de 20 04.- Felipe Sandoval Precht, Subsecretario de Pesca.
