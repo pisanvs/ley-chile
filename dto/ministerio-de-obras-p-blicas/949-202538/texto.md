@@ -1,0 +1,3 @@
+Por decreto MOP Nº 949, de fecha 31 de mayo del 2002, se expropiaron los lotes de terreno Nºs. 54-A, 55, 56, 57, 58 y 59-A, superficie 7.564, 5.766, 114, 2.733, 93 y 1.580 m² respectivamente, Rol Nº 155-21, comuna de Portezuelo, VIII Región para la obra ''Camino Ruta N-60-O, Sector Río Ñuble-Portezuelo, Km. 6.900 al 28.833,35'' y se acordó el valor de indemnización con su propietario Soc. Agrícola y Vitivinícola San Gerónimo Ltda., ascendente a la cantidad de $31.800.319.-
+
+Fiscal del Ministerio de Obras Públicas.
