@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.754, de fecha 11 de octubre de 2002, se dejó sin efecto el decreto MOP Nº 4.538, de 29 de septiembre de 2000, que ordenaba la expropiación del lote de terreno Nº 103, dado que la superficie del terreno, no es necesaria para la ejecución de la obra Camino Ruta D-595 Ovalle - Hurtado, Sector Tranque Recoleta-Samo Alto, Km. 9.780,00 al 31.840,00, IV Región.-
+
+Fiscal del Ministerio de Obras Públicas.
