@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 919 de fecha 30 de junio del 2004, se expropiaron lo lotes de terreno Nº s 13-A y 13-D, superficies 823 y 38 M², Rol Nº 213-30, comuna de Curepto, VII Región para la obra "Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco - Curepto - Puente Lautaro, Tramo Km 46,180 a Km 83,91430" y se acordó el valor de indemnización con su propietario Fernando Concha Torres, ascendente a la cantidad de $763.794.- para los lotes Nº s 13-A y 13-D.
+
+Fiscal del Ministerio de Obras Públicas.
