@@ -40,6 +40,8 @@ MATERIA
 
 15.- Cumplimiento de sentencias ejecutoriadas que afecten al interés fiscal.
 
+16.- Aprobación del planes y programas de estudio.
+
 SUBSECRETARIO DE EDUCACION
 
 MATERIA
@@ -114,7 +116,7 @@ MATERIA:
 
 12.- Designación de funcionarios alumnos de su dependencia para hacer cursos de perfeccionamiento y asistir a Seminarios.
 
-13.- eclaración de Material Didáctico auxiliar, complementario y/o de consulta para la educación chilena.
+13.- Declaración de Material Didáctico auxiliar, complementario y/o de consulta para la educación chilena.
 
 DIRECTORES DE EDUCACION
 
