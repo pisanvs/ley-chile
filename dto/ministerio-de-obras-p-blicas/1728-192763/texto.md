@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.728, de fecha 31 de octubre del 2001, se expropiaron los lotes de terreno Nº 22 y 22-A, superficie 300 y 440 m², rol de avalúo Nº 137- 105, comuna de Chonchi, para la obra "Camino Chonchi - Teupa, Tramo Km. 0.000 a Km. 10.059,50", X Región y se acordó el valor de indemnización con su propietario José Olegario Maripillan Saldivia, ascendente a la cantidad de $10.106.960.
+
+Fiscal del Ministerio de Obras Públicas.
