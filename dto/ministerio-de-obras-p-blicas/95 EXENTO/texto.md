@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 95, de fecha 28 de febrero de 2001, se expropiaron los lotes de terreno Nºs. 8 y 10, superficies 190 m2 y 21 m2, rol de avalúo 301-31, comuna de Pelluhue, para la obra "Camino Ruta M-80-N, Sector Curanipe-Bif. Chovellén, Tramo Km. 0,000 a Km. 6,871.14" y se acordó el valor de indemnización con su propietario Diego Alamiro Guerra Vásquez, ascendente a la cantidad de $234.300.-
+
+Fiscal del Ministerio de Obras Públicas.
