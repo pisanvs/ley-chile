@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 874 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido, Reserva y Sector Expropiado Predio El Carmen del Abra y El Potrerillo del Cerro", de la comuna de Requínon, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 17, sitios N°s. 1, 2 y 4 al 9, del Proyecto de Parcelación "El Carmen" formado por predio señalado. Los Derechos de Agua se extraen del canal Abra derivado del Río Cachapoal.Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
