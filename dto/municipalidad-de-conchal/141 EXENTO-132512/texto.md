@@ -1,0 +1,5 @@
+EXTRACTO DE EXPROPIACION
+
+Alcalde I. Municipalidad de Conchalí, mediante Decreto Exento No. 141 de 29 de Marzo de 1988, dispone expropiación total, conforme Decreto Supremo No. 458, de Vivienda, de 1976, y Decretos Leyes 1.289, 2.186 y 3.464 de inmueble ubicado en Avenida Independencia No. 3204, Rol de Avalúos No. 2233-68, aparentemente de propiedad de doña Carolina del Carmen Reyes Núñez, para conectar Avenida Dorsal con Avenida Fermín Vivaceta. Deslindes parte expropiada: al Norte: 36,75 mts. con Rol No. 2233-69; al Sur: 38,50 mts. con Rol No. 2233-67; al Oriente: 7,00 mts. con Avenida Independencia y al Poniente: 6,10 mts. con Rol No. 2233-12 y 2233-70. Indemnización provisional de $ 1.400.000.- pagadera contado.
+
+Fernando Alvarez Gálvez, Alcalde.- Neftalí Pastén Ibarra, Secretario Municipal.
