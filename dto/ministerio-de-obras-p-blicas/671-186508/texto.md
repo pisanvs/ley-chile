@@ -1,0 +1,3 @@
+Por decreto MOP Nº 671 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 2, superficie 697.5 m2., Rol de avalúo 946-8, comuna de Maipú, para la obra "Camino Av. Américo Vespucio, Rol G-70, Sector P. Aguirre Cerda" y se acordó el valor de indemnización con su propietario Gonzalo Rafael Prieto Gándara y otros, ascendente a la cantidad de $52.774.063.-.
+
+Fiscal del Ministerio de Obras Públicas.
