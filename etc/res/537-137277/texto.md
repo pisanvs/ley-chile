@@ -1,0 +1,3 @@
+Por resolución Nº 537, de 1 de abril de 1999 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al Sector Hornos, IV Región, individualizada en el artículo 1º) Nº 8 del D.S. Nº 509, de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE TRABAJADORES DEL MAR PANAMERICANA NORTE, Caleta Los Hornos, IV Región.
+
+Valparaíso, 1 de abril de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
