@@ -1,0 +1,3 @@
+Por decreto MOP Nº239, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 780 m² y 2.520,50 m², respectivamente, rol de avalúo 2222-183, comuna de San Pablo, para la obra "Construcción Puente Huamputue, Camino Osorno - Trinidad, Rol V-22" y se acordó el valor de indemnización con su propietaria Cecilia de Lourdes Navarro Sánchez y Otra, ascendente a la cantidad de $885.844.-
+
+Fiscal del Ministerio de Obras Públicas.
