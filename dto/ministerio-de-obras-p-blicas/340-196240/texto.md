@@ -1,0 +1,3 @@
+Por decreto MOP Nº 340, de fecha 20 de febrero de 2002, se expropiaron los lotes de terreno Nºs 4 y 4-A, superficie 4.880 y 6.138 m2 respectivamente, rol de avalúo 35-3, comuna de Mulchén, para la obra "Camino Ruta Q-80, Sector Ruta 5 - Mulchén, Tramo I, Km. 0,00000 a km. 2,76300" y se acordó el valor de indemnización con su propietario Bernardino Emilio Yáñez Quinteros y Otros, ascendente a la cantidad de $20.624.007.
+
+- Fiscal del Ministerio de Obras Públicas.
