@@ -1,0 +1,3 @@
+Por Decreto MOP N° 227, de 29 de agosto de 1986, se expropiaron los lotes N°s. 3 y 7, cuyas superficies son 2.433 m2 y 2.503 m2, roles de avalúos 1021-94 y 1021-98, Comuna de La Serena, IV Región, para la obra Mejoramiento de la Fuente de Agua Potable de La Serena y Coquimbo y se acordó precio de indemnización con sus propietarios David Barahona Aguirre y Abrahan Antonio Palma Palma, ascendentes a las sumas de $ 63.562 y $ 65.391.-
+
+Fiscal del Ministerio de Obras Públicas.
