@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.302, de 31 de diciembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº74-B, para la obra Camino Fresia Parga-Llico- Las Cañitas, Rol V-46, Kms 14.835 al 48.580, que figura a nombre de Hausdorf Kahler Juan Carlos, rol de avalúo 259-12, superficie 590 m², comuna de Fresia. La Comisión de Peritos, con fecha 26 de agosto de 1999, fijó la indemnización provisional en la cantidad de $5.772.500, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
