@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+Resolución Nº 138, de 5 de diciembre de 1997, SERVIU Sexta Región del Libertador Bernardo O'Higgins, ordenó expropiación parcial del inmueble ubicado en Camino La Cruz Nº 1691, Rol de Avalúos Nº 1402-33, comuna de Rancagua, superficie 182,71 metros cuadrados, dentro del Polígono y linderos señalados, Plano Expropiación U.E.P. T-353, de aparente dominio de Sociedad Constructora Ecar Limitada, para la ejecución de "Construcción Pavimentos Camino La Cruz" Rancagua, conforme ar-tículo 51 Ley 16.391 y decreto Ley 2.186. Comisión Peritos integrada por Arquitectos Eduardo González Brard, Oscar Novoa Vargas y René Corvalán Correa, según Informe de fecha 28 de noviembre de 1997, fijó como monto provisional indemnización en $2.224.558.- pagaderos de contado.
+
+Director SERVIU Región del Libertador Bernardo O'Higgins.
