@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.188, de 31 de julio de 2002, se expropió el lote de terreno Nº 10, superficie 135 m2, rol de avalúo 3255-138, comuna de Temuco, IX Región, para la obra ''Camino Ruta S-20, Sector Temuco-Chol Chol, Km. 3,50000 al 25,01609'' y se acordó el valor de indemnización con su propietario don Guillermo Coliqueo Huenteman, ascendente a la cantidad de $731.461.-
+
+Fiscal del Ministerio de Obras Públicas.
