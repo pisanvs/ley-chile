@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para transferir gratuitamente a la Sociedad Cooperativa "Barrancas" Ltda., de San Antonio, el dominio de la propiedad que indica y cuyos deslindes señala, la que se destinará a servir los fines sociales, culturales, financieros y económicos de la referida Sociedad.
