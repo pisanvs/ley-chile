@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.346, de 31 de agosto de 2001, se expropió el lote de terreno Nº 84, superficie 64 m², rol de avalúo 692-44, comuna de Estación Central, para la obra Sistema Norte Sur Tramo G: Nudo Alameda, Región Metropolitana y se acordó el valor de indemnización con su propietario Flavio Miguel Araya Mourgues, ascendente a la cantidad de $23.815.300.-
+
+Fiscal del Ministerio de Obras Públicas.
