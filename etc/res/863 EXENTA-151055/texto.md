@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA.
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 863 de 25 de Junio de 1987, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Segunda El Peumo y Tercera Las Gasas que en lo sucesivo se denominará Fundo Santa Elisa, Lote A, Lote Cerros y una parte de la Hijuela El Maitén" de la comuna de Melipilla, Región Metropolitana y Derechos de Aprovechamiento de Aguas que corresponden a parcelas N°s. 1 a la 36, sitios B al L; Ñ, O, R, X, Y, Z, Aa, Bb, Cc, y Dd del Proyecto de Parcelación "El Pimiento y Santa Elisa", formado por el predio señalado y otro. Los derechos de Aguas se extraen del Canal Mallarauco, derivado del Río Maipo.- Publicación hecha conforme Art, 13 Ley No. 18.377.-
+
+Director Ejecutivo.
