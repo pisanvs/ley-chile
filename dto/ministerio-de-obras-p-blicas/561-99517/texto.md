@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº561, de 29 de abril de 1998, se expropiaron los lotes de terreno Nºs. 2-A y 11-A, superficies 2.163 y 420 M2., respectivamente, roles de avalúo 19-19 y 62-189, comuna de Ñiquen, para la obra Ruta 5, Tramo Talca - Chillán, Intersecciones Desniveladas, Acceso a San Gregorio y Acceso a Tiuquilemu y se acordó precio de indemnización con sus propietarios doña Virginia I. Muñoz López y don Alberto Peterman Trillat, ascendente a las cantidades de $7.060.074, para el lote Nº2-A y $675.690, para el lote Nº11-A.
+
+Fiscal del Ministerio de Obras Públicas.
