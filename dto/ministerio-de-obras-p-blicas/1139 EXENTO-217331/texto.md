@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.139, de fecha 30 de septiembre de 2003, se expropió el lote de terreno Nº 1, superficie 90,8 m², Rol de avalúo Nº 166-8, comuna de Maule, para la obra "Camino Ruta K-620, Sector Culenar - Maule, Km. 0,000.00 a Km. 10,520.00", VII Región, y se acordó el valor de la indemnización con su propietaria Maragarita Inés Lozier Sánchez ascendente a la cantidad de $847.519.
+
+- Fiscal del Ministerio de Obras Públicas.
