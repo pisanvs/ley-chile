@@ -18122,7 +18122,7 @@ h) Las letras de cambio y los pagarés con los que se documenten los créditos o
 
 De conformidad con lo dispuesto por el N° 16 del artículo 24 del D.L. N° 3.475, incorporado por la Ley N° 19.155 y modificado por las leyes N°s. 19.506 y 19.578, están exentos del impuesto de timbres y estampillas los documentos necesarios para el otorgamiento de créditos de dinero desde Chile hacia otros países, cuyas características determine esta Superintendencia.
 
-En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de dicha exención, serán los instrumentos en moneda extranjera o chilena con que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, incluidos los documentos adquiridos cuyos deudores directos residan en el exterior.
+En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de dicha exención, serán aquellos en moneda chilena o extranjera, que correspondan a créditos otorgados desde Chile al exterior a sociedades filiales o agencias de empresas chilenas establecidas en el exterior; a empresas residentes y domiciliadas en el exterior; y a otras personas naturales o jurídicas residentes y domiciliadas en el extranjero. Quedan igualmente comprendidos en esta exención los instrumentos que adquieran las entidades bancarias correspondientes a créditos cuyos deudores directos residan en el exterior.
 
 CAPITULO 14-9 (Bancos)
 
