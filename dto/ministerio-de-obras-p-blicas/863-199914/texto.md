@@ -1,0 +1,3 @@
+Por decreto MOP Nº863, de 30 de abril de 2002, se expropió el lote de terreno Nº38-A1, superficie 19.669 m², rol de avalúo 151-152, comuna de Llayllay, para el Camino Ruta 5 Norte Tramo Santiago-Los Vilos. Sector Km. 87.215,00 al Km. 91.370,00, V Región y se acordó el valor de indemnización con don Juan Augusto Fernández Vega y otros, ascendente a la cantidad de $31.993.400.-
+
+Fiscal del Ministerio de Obras Públicas.
