@@ -1,0 +1,3 @@
+Por resolución N° 649 de 11 de Julio de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase parcialmente, la Resolución N° 129, de 1985, de esta Subsecretaría, en cuanto autorizó a PESQUERA LOA SUR S.A., R.U.T.: N° 95.059.000-9, para operar la nave "Loa 7", en el litoral de la I y II Región, en la captura de los recursos señalados en el numeral 5° de la citada Resolución, de conformidad con lo dispuesto en el artículo 143° letra b) del D.S. N° 430, de 1991 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de Julio de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
