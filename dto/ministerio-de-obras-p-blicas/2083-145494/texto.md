@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.083, de 30 de julio de 1999, se expropió el lote de terreno Nº101, superficie 1.212,29 m2, sin rol de avalúo, comuna de Padre Las Casas, para la obra ''Concesión Internacional Ruta 5; Tramo Collipulli-Temuco; Sector II; Pillanlelbún - Gorbea'', Novena Región y se acordó el valor de indemnización con su propietario Ramón Licanqueo Lemur, ascendente a la cantidad de $10.208.569.-
+
+Fiscal del Ministerio de Obras Públicas.
