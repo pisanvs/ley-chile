@@ -1,0 +1,3 @@
+Por decreto supremo exento de Educación N° 453 de 31 de diciembre de 1992 se ha aprobado, a contar del 1° de marzo de 1992, un plan especial de estudio de Educación Básica y Media Humanístico-Científica para Adultos, para la Escuela de Adultos E N° 1217 "Las Américas" de la Comuna de Talcahuano, Provincia de Concepción, VIII Región del Bío-Bío.-
+
+Santiago, 5 de marzo de 1993.- Raúl Allard Neumann, Subsecretario de Educación.
