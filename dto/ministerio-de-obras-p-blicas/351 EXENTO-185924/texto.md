@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 351, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº 52-A, superficie 20 M2, rol de avalúo 502-101, comuna de Retiro, para la obra "Camino Ruta L-75, sector El Ajial-Las Camelias Tramo: Kms. 6,320.00 al 23,400.00" y se acordó el valor de indemnización con su propietaria María Encarnación Vallejos Lara, ascendente a la cantidad de $256.386.-
+
+Fiscal del Ministerio de Obras Públicas.
