@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA MAR DEL SUR LTDA. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 570 de 04 de Junio de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Mar del Sur Ltda., domiciliada en Santiago, para ampliar las actividades pesqueras que tiene autorizadas por resolución No. 1.001, de 1986, de esta misma Subsecretaría, en orden a incluir entre las que puede efectuar con sus embarcaciones "Mar del Sur I" y "Mar del Sur II", las de pesca exploratoria de los recursos hidrobiológicos congrio dorado y merluza del sur, en el área comprendida entre los paralelos 47° y 56° L.S., en aguas interiores y exteriores, por un período de 6 meses; utilizar espinel, el cual no podrá sobrepasar los 12.000 anzuelos en aguas interiores.
+
+Valparaíso, 04 de Junio de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
