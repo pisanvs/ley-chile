@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.481, de 17 de abril del 2000, se expropiaron los lotes de terrenos Nºs. 8, 9 y 11, superficies 50, 80 y 114 m2., respectivamente, rol de avalúo 42-5, comuna de Monte Patria, para la obra Camino Ruta D-597, Monte Patria - Carén, Sector Juntas - Carén, Tramo Km. 8.260,00 a Km. 30.065,19, y se acordó precio de las indemnizaciones con sus propietarios Feliciana del Rosario Hidalgo Hidalgo y Neville Enrique Guillermo Blanc Renard y Otra, ascendentes a las cantidades de $203.190, lote Nº8, y $315.934, lotes Nºs 9 y 11.-
+
+Fiscal del Ministerio de Obras Públicas.
