@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 190, 6 abril 2004, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Paicaví Nº 2417, Rol de Avalúo Nº 974-8, comuna Concepción, superficie 274,25 m². de terreno y 107,68 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-18307; de aparente dominio de Telmo Guido Luengo Rossel, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Andrés Aníbal Risso Caamaño, arquitecto, Marcelo Eduardo Puentes Garrido, ingeniero civil, y Juan José Gutiérrez Vélez, constructor civil, según informe de fecha 20 de febrero de 2004, fijó monto provisional indemnización en $25.386.652.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
