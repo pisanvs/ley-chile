@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.913 de fecha 31 de octubre del 2002, se expropió el lote de terreno Nº134, superficie 1.869 m2, Rol Nº78-15, comuna de Galvarino, IX Región, para la obra "Camino Ruta S-10, Sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al Km. 34,50853, correspondiente al Subtramo IV, Km. 18,000 al Km. 25,837" y se acordó el valor de indemnización con su propietario Tatiana Millaray de la Peña Cevas, ascendente a la cantidad de $3.532.933.-
+
+Fiscal del Ministerio de Obras Públicas.
