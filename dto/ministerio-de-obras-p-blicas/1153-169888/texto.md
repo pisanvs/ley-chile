@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.153, de 30 de marzo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº7, para la ejecución de la obra Av. Argentina - Los Andes Camino Cruce Longitudinal (Llay-Llay) Túnel Cristo Redentor 60 CH, Sector Avenida Argentina, que figura a nombre de Jorge Esteban Zenteno Ramírez, Rol de Avalúo 502-34, comuna de Los Andes, V Región, superficie 2.729,57 m2. La Comisión de Peritos fijó la indemnización provisional en la cantidad de $29.197.352. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
