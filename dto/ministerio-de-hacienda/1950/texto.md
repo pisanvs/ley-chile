@@ -22,19 +22,35 @@ Las personas señaladas en el artículo anterior podrán solicitar a la Comisió
 
 #### Artículo 3°
 
-Una vez estimada procedente la solicitud, la Comisión otorgará un certificado en duplicado en el que se indicará la individualización completa y actividad del solicitante, la incapacidad que lo afecta y el tipo de mecanismo especial que deberá traer el vehículo que importará
+Una vez estimada procedente la solicitud, la Comisión otorgará un certificado en duplicado en el que se indicará la individualización completa y actividad del solicitante, la incapacidad que lo afecta y el tipo de mecanismo especial que deberá traer el vehículo que importará.
+
+En cada ocasión en que las personas lisiadas deseen importar un nuevo vehículo acogido a las franquicias a que se refiere este decreto, deberán ser examinadas por la Comisión, la que emitirá un nuevo certificado.
+
+La Comisión en los certificados que otorgue deberá dejar expresa mención de las siguientes circunstancias:
+
+a.- Que se trata de una incapacidad permanente que limita la función de los miembros inferiores.
+
+b.- Que la incapacidad no es susceptible de mejorar con tratamiento médico quirúrgico.
+
+c.- Que la incapacidad es de tal grado que impide a la persona lisiada hacer uso de los medios de locomoción colectiva pública o particular para ejercer su trabajo, complementar sus estudios o enseñanzas que propendan a su integral rehabilitación en forma adecuada o que el uso de los medios habituales de locomoción significa un agravamiento de la incapacidad.
+
+La Comisión enviará una copia del certificado a la unidad encargada de la función de tránsito y transporte públicos de la Municipalidad que otorgó la licencia para conducir vehículos a la persona a que se refiere el certificado, a fin de que en dicha licencia se deje constancia con arreglo a las disposiciones de la ley N° 18.290, de la exigencia especial que afecta a su titular.
+
+En caso que la persona a que se refiere el certificado no posea la licencia mencionada en el inciso anterior, la copia del certificado se le entregará a ella para los efectos de obtener su licencia de conductor de acuerdo a lo establecido en la mencionada ley.
 
 #### Artículo 4°
 
 El Ministerio de Hacienda, previa presentación del Certificado y cumplimiento, por parte de los interesados, de los demás requisitos señalados en el presente reglamento, dictará una resolución concediendo la franquicia.
 
+Las personas lisiadas deberán acompañar a su solicitud un certificado otorgado por la unidad encargada de la función de tránsito y transporte públicos de la Municipalidad correspondiente a su domicilio, en el cual se exprese que la persona a que se refiere dicho certificado presenta aptitudes para conducir un vehículo especialmente adaptado a su incapacidad.
+
 #### Artículo 5°
 
-La importación de los vehículos mencionados en el presente Reglamento se hará con registro de importación y sin depósito en el Banco Central de Chile, pero, previa presentación de la Resolución emitida por el Ministerio de Hacienda, que deberá ir acompañada del Certificado referido en el Art. 3°.
+La importación de los vehículos mencionados en el presente reglamento se hará con informe de importación del Banco Central de Chile, previa presentación de la resolución emitida por el Ministerio de Hacienda, que deberá ir acompañada del certificado referido en el artículo 3°.
 
 #### Artículo 6°
 
-El Servicio de Aduanas permitirá la importación de la mercancía favorecida con la franquicia, sin depósito y con una tributación única de un 35% sobre su valor aduanero.
+El Servicio Nacional de Aduanas permitirá la importación de la mercancía favorecida con la tributación aduanera única que fija la ley.
 
 #### Artículo 7°
 
@@ -42,17 +58,21 @@ Podrán importarse con cargo a esta ley:
 
 a) Todos los vehículos que normalmente se fabrican sin motor, como triciclos, sillas de ruedas, etc., siempre que vengan con características especiales que signifiquen modificaciones a su estructura acostumbrada o hayan sido hechas especialmente para las personas lisiadas. Estos vehículos podrán ser impulsados por un motor en casos especiales si así lo autorizare la Comisión Especial del Servicio Nacional de Salud.
 
-b) Los vehículos motorizados denominados automóviles. Station Wagons, furgones, camiones hasta 2.000 Kgs. de capacidad de carga, camionetas y jeeps que contengan como equipo especial para lisiados: Caja de velocidad automáticas, correas de seguridad que sujeten al asiento el cuerpo del chofer por la cintura y los hombros y modificaciones en el sistema de frenos, o de aceleración, o de dirección, u otros que sean suficientes para permitir un manejo apropiado a la persona lisiada. Estas características o modificaciones se regularán según la, incapacidad del beneficiario en el mismo certificado que otorgará la Comisión Especial.
+b) Los vehículos motorizados denominados automóviles. Station Wagons, furgones, camiones hasta 2.000 Kgs. de capacidad de carga, camionetas y jeeps que contengan como equipo especial para lisiados: Caja de velocidad automáticas, correas de seguridad que sujeten al asiento el cuerpo del chofer por la cintura y los hombros y modificaciones en el sistema de frenos, o de aceleración, o de dirección, u otros que sean suficientes para permitir un manejo apropiado a la persona lisiada. Estas características o modificaciones se regularán según la, incapacidad del beneficiario en el mismo certificado que otorgará la Comisión Especial, en el cual se dejará constancia del uso obligatorio de la cruz de malta.
+
+Si la Comisión en los certificados que otorgue incluye alguno de los siguientes mecanismos: aire acondicionado, techo corredizo, bloqueo central de puertas, control eléctrico de vidrios, control eléctrico de la tapa del maletero, control eléctrico de la tapa del estanque del combustible y control eléctrico de los espejos laterales exteriores, deberá fundamentarlo técnicamente.
 
 c) En casos calificados por la Comisión podrá importarse una silla de ruedas además del otro vehículo adquirido conforme a las letras a), o b), anteriores, siempre que en total no excedan de US$ 2.500 FOB.
 
-#### Artículo 8o
+#### Artículo 8°
 
-Las personas lisiadas que importen estos vehículos deberán ser trabajadores habituales o haberlo sido antes de su invalidez, considerándose suficiente para tal efecto el certificado de imponente de la Caja de Previsión respectiva o una declaración jurada del empleador que será comprobada fehacientemente, por un Asistente Social del Servicio Nacional de Salud.
+Las personas lisiadas que importen estos vehículos deberán ser trabajadores habituales o haberlo sido antes de su invalidez, considerándose suficiente para acreditar esa calidad un certificado de imponente del Instituto de Normalización Previsional o de la Administradora de Fondos de Pensiones respectiva o una declaración del empleador otorgada ante la Inspección del Trabajo.
 
-Cuando se trate de lisiados que tienen profesión u oficio libres, ésto deberá acreditarse mediante el Rol Unico Tributario y el comprobante de pago del Global Complementario o su exención, según proceda.
+Cuando se trate de lisiados que tienen profesión u oficio libre, deberán acreditarlo mediante copia del Rol Unico Tributario y del comprobante de pago del Impuesto Global Complementario o su exención, según procesa.
 
-También podrán importar vehículos los estudiante lisiados de establecimientos educacionales del Estado o reconocidos por éste y aquéllas personas que siguen un proceso de rehabitación en organismos estatales o reconocidos por el Estado, previa comprobación de los medios económicos utilizados para su adquisición y que cumplan con los requisitos para tener licencia de conductor. En casos en que una persona no cumpla con las condiciones anteriores deberá presentar pruebas o contratos de trabajo condicionados al uso de un vehículo de los calificados en la letra a), del artículo 4°, para que la Comisión pueda otorgar el certificado, sin perjuicio de lo indicado en el caso c), del artículo 7°.
+También podrán importar vehículos los estudiantes lisiados de establecimientos educacionales del Estado o reconocidos por éste y aquellas personas que siguen un proceso de rehabilitación en organismos estatales o reconocidos por el Estado, previa comprobación de los medios económicos utilizados para su adquisición y cumplan con lo dispuesto en el artículo 4° de este decreto.
+
+En caso que alguna persona no cumpla con las condiciones anteriores, para obtener el certificado a que se refiere el artículo 3° deberá presentar a la Comisión pruebas o contratos de trabajos condicionados al uso de un vehículo de los calificados en la letra b) del artículo 7°.
 
 #### Artículo 9°
 
@@ -74,7 +94,7 @@ Sin perjuicio de los casos señalados por el artículo 6° de este Reglamento, d
 
 #### Artículo 12°
 
-La tributación única de un 35% sobre el valor aduanero de la mercancía que se importa será cancelado a la Aduana por los interesados en cuatro cuotas iguales, pagándose la primera cuota al momento del retiro de las mercancías y las tres restantes en forma trimestral, sin intereses, ajustadas en el alza del tipo de cambio vigente a la fecha de cada vencimiento.
+La tributación aduanera única que afecta a la mercancía que se importa será pagada a la Aduana por los interesados en cuatro cuotas iguales, pagándose la primera cuota al momento del retiro de las mercancías y las tres restantes en forma trimestral, sin intereses, ajustadas en el alza del tipo de cambio vigente a la fecha de cada vencimiento.
 
 El vehículo será considerado como única garantía por las cuotas pendientes cuyo no pago dentro de los quince días de su vencimiento será suficiente para proceder a su comiso y remate.
 
