@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.903 de fecha 29 de diciembre de 1999, se expropió el lote de terreno Nº 528, superficie 1.964,3 m²., rol de avalúo 538-239, comuna de La Unión, para la obra ''Concesión Internacional Ruta 5 Tramo: Temuco-Río Bueno, Km. 867.700,00 a Km. 878.732,50'' y se acordó el valor de indemnización con su propietaria Gloria Arlette Bastidas Herrera, ascendente a la cantidad de $42.691.124.-
+
+Fiscal del Ministerio de Obras Públicas.
