@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta N° 89 de 01 de Febrero de 1985, conforme Art. 5° transitorio Código de Aguas, determinó derechos de aprovechamiento de aguas proporcionales que corresponden a Sector excluido, Sectores transferidos y Sector expropiado Predio "Fundo Los Cóndores y Fundo Los Maquis, Fundo Infiernillo, Porción de Terreno del Fundo Culimo, porción de terrenos que formaba parte del Fundo Tilama Abajo o La Peña y Tranque Culimo" de la comuna de Los Vilos, IV Región.- Los derechos de aguas se extraen del embalse Culimo y Río Quilimarí.- Publicación hecha conforme Art. 13 Ley N° 18.377.-
+
+Director Ejecutivo.
