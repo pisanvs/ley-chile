@@ -1,0 +1,1 @@
+Agrega artículo a la ley 6,006, de 29 de enero de 1937, que modificó la ley 4,806, de 27 de enero de 1930, que autorizó emisión de bonos destinados a la Caja de Crédito Agrario, y modifica numeración de los artículos que indica.
