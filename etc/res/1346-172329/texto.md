@@ -1,0 +1,3 @@
+Por resolución Nº 1.346, de 10 de julio de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.099 de 2000, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado ''Pesca de Investigación del Jurel entre el III y la X Regiones'', en el sentido de eliminar de la nómina de embarcaciones autorizadas a la nave ''Costa Grande I'', de Pesquera Marbella S.A., por renuncia de su titular; y de reemplazar la nave ''Gualpén'' por la nave ''Guanaye 2'', ambas de Pesquera Iquique Guanaye S.A., en la nómina señalada.
+
+Valparaíso, 10 de julio de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
