@@ -1,0 +1,5 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1.303 de 29 de Julio de 1987, conforme Art. 5° Transitorio Código de Aguas modificó resolución general de ODENA No. 1.846 de 19 Octubre 1979 que determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "Los Puquios" y "Quinalqui o Dañicalqui", de la comuna de Yungay, VIII Región y determinó Derechos Aprovechamiento Aguas que corresponden a parcelas N°s 1 a la 9 y sitios N°s 1 al 16 del Provecto de Parcelación "Los Puquios'', formado por predios señalados. Los Derechos de Agua se extraen de los canales Dañicalqui y Perquenco, del estero Los Puquios y derrames internos del predio. Todas estas aguas derivan del río Trilaleo.
+
+Publicación hecha conforme Art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
