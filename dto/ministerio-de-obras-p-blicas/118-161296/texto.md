@@ -1,0 +1,5 @@
+Por decreto MOP Nº 118, de 31 de enero de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 361, para la obra: Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Acceso Sur a Santiago Km.
+
+-0.150,00 a Km. 10.986,00, Región Metropolitana, que figura a nombre de Serviu, rol de avalúo 7851-18, comuna de La Pintana, superficie 120 m². La comisión de peritos integrada por los señores Patricio Cristián Lucas Peralta Tondreau, Jorge Antonio Catalán Cordero y Orlando Antonio Fariña Vásquez, fijó con fecha 27 de octubre de 1999, el valor provisional de la indemnización en la cantidad de $8.263.650.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
