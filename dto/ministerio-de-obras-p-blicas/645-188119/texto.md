@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 645 de fecha 30 de marzo del 2001, se expropió el lote de terreno Nº 13, superficie 12.000,21 m2., rol de avalúo Nº 387-10, comuna de Pitrufquén, para la obra "Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 4/5, Derivado Mahuidanche". Sector Km. 2.009,85 al Km. 7.790,94 y se acordó el valor de indemnización con su propietario, Sucesión Carlos Rilling Nickel, ascendente a la cantidad de $6.139.907.-
+
+Fiscal del Ministerio de Obras Públicas.
