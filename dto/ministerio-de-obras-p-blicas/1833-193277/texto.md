@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.833, de 31 de octubre del 2001, se expropió el lote de terreno Nº22, superficie 86 m2., rol de avalúo 237-5, comuna de Independencia, para la obra Concesión Internacional Sistema Oriente-Poniente Zona Centro: Independencia-Vivaceta Tramo 5: de Kms.17.545,00 al 17.740,00, Región Metropolitana y se acordó el valor de indemnización con su propietaria Morelia del Carmen Navarrete Navarrete, ascendente a la cantidad de $13.160.274.
+
+- Fiscal del Ministerio de Obras Públicas.
