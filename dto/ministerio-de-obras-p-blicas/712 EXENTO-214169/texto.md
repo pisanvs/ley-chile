@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 712 de fecha 31 de julio del 2003, se expropió el lote de terreno Nº 5, superficie 7,8 m², Rol Nº 390-236, comuna de Buin, Región Metropolitana para la obra "Camino Rol G-520, sector Viluco - Viluco, tramo Km. 0,00000 a Km. 5,92000" y se acordó el valor de indemnización con su propietario Víctor Raúl Severino González y otros, ascendente a la cantidad de $474.017.
+
+Fiscal del Ministerio de Obras Públicas.
