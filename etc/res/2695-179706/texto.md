@@ -1,0 +1,3 @@
+Por resolución Nº 2.695, de 22 de diciembre de 2000, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 2.455 de 2000, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Pesca de Investigación de Merluza de Cola entre la V y X Regiones'', en el sentido de reemplazar la nave ''Vichuquén II'' por la nave ''Génesis'', ambas de propiedad de Alimentos Marinos S.A., de la nómina de naves participantes en la señalada pesca de investigación.
+
+Valparaíso, 22 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
