@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 421, de 30 de abril de 1997, se expropiaron los lotes de terreno Nºs. 31 y 36, superficies 207 m² y 285 m², Roles de Avalúo 204-20 y 204-56, comuna de Santa Juana, para la obra Camino de La Madera, sector Bifurcación Diuquín - Santa Juana y se acordó el valor de indemnización con sus propietarios Manuel Rivera Provoste y Miguel Catril Oñate, ascendente a las cantidades de $762.116.- y $247.238.-
+
+Fiscal del Ministerio de Obras Públicas.
