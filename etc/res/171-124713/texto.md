@@ -1,0 +1,5 @@
+INFORMA SOBRE MODIFICACION EN LA COMPOSICION DE LA DIRECTIVA CENTRAL DEL PARTIDO RADICAL SOCIALDEMOCRATA
+
+Anselmo Sule Candia, Presidente del Partido Radical Socialdemócrata y Guillermo Vásquez Ubeda, Presidente del Tribunal Supremo de la colectividad, han informado la modificación en la composición de la Directiva Central del partido, consistente en los nombramientos de don Patricio Morales Aguirre como Secretario General, en reemplazo del señor Ernesto Velasco Rodríguez; de don Julio Ahumada Alvarez, en el cargo de Secretario Nacional de Organización y Control, en reemplazo de don Patricio Morales Aguirre; y de don Carlos Parra Merino, como Vocal, en reemplazo de don Julio Ahumada Alvarez. Publicación ordenada en virtud a lo establecido en el Auto Acordado del Tribunal Calificador de Elecciones, de fecha 27 de junio de 1988, por resolución O Nº 0171 de fecha 3 de septiembre de 1998.
+
+Santiago, 3 de septiembre de 1998.- Juan Ignacio García Rodríguez, Director.
