@@ -498,11 +498,11 @@ Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije
 
 1°) De las causas por los delitos contra la Seguridad Interior del Estado a que se refiere la ley 6026, de 12 de Febrero de 1937; de los delitos de los Títulos II y VI, párrafo 19 del Libro II del Código Penal, y de los delitos de los Títulos IV y V, párrafo I, del Código de Justicia Militar, cuando dichos delitos sean cometidos exclusivamente por civiles.
 
-2°) De las causas civiles y criminales en que sean parte o tengan interés el Presidente de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+2°) De las causas civiles y criminales en que sean parte o tengan interés el Presidente de la República, los ex-Presidentes de la República, los Ministros de Estado, los Intendentes de Provincia y Gobernadores de Departamento, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
 
-3°) De las causas por delitos comunes cometidos por los miembros de la Corte Suprema, los de las Cortes de Apelaciones, los Fiscales de estos tribunales y los jueces letrados de las ciudades de asiento de las Cortes de Apelaciones.
+3°) De las causas por delitos comunes en que sean parte o tengan interés los miembros de la Corte Suprema, los de las Cortes de Apelaciones, los Fiscales de estos tribunales y los jueces letrados de las ciudades de asiento de las Cortes de Apelaciones.
 
 4°) De las acusaciones o demandas civiles que se entablen contra los jueces de letras para hacer efectiva la responsabilidad criminal o civil resultante del ejercicio de sus funciones ministeriales.
 
@@ -1272,6 +1272,8 @@ Esta competencia, así como la de la Corte de Apelaciones que deba conocer en se
 
 Si el autor del delito se ausentare del lugar en que lo cometió, y fuere aprehendido en otro departamento, será puesto inmediatamente a disposición del juez del lugar en que delinquió.
 
+El delito se considerará cometido en el lugar donde se dió comienzo a su ejecución.
+
 #### Artículo 158
 
 Si un individuo hubiere cometido varios delitos en diversos departamentos será juzgado por el juez de aquél en que cometió el último delito.
@@ -1279,6 +1281,8 @@ Si un individuo hubiere cometido varios delitos en diversos departamentos será 
 #### Artículo 159
 
 Si el reo hubiere cometido en varios departamentos delitos de distinta gravedad, será juez competente para conocer de todos ellos el de aquel departamento en que cometió el último crimen, o en su defecto, el último simple delito.
+
+Si los delitos se cometen en un departamento en que existan dos o más Juzgados de igual jurisdicción, será competente para conocer de los procesos que se deban acumular de acuerdo con el artículo siguiente, el juez que conozca del proceso más antiguo.
 
 #### Artículo 160
 
@@ -1726,9 +1730,9 @@ De la integración deberá dejarse testimonio en el respectivo proceso.
 
 #### Artículo 221
 
-Los abogados que fueren llamados a integrar la Corte Suprema percibirán de fondos fiscales una remuneración de ciento cincuenta pesos por cada audiencia a que concurran.
+Los Abogados que fueren llamados a integrar la Corte Suprema, percibirán de fondos fiscales una remuneración de trescientos cincuenta pesos por cada audiencia a que concurran.
 
-Esta remuneración será de cien pesos para los que integren las Cortes de Apelaciones.
+Esta remuneración será de doscientos cincuenta pesos para los que integren las Cortes de Apelaciones.
 
 ## Título IX
 
@@ -2030,7 +2034,7 @@ No podrá existir el parentesco de consanguinidad hasta el cuarto grado o de afi
 
 #### Artículo 261
 
-Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, excepción hecha de la relativa a la Justicia del Trabajo y de lo dispuesto en el artículo 41.
+Las funciones judiciales son incompatibles con toda otra remunerada con fondos fiscales, semifiscales o municipales, con excepción de las de profesor de las escuelas dependientes de la Facultad de Ciencias Jurídicas y Sociales de la Universidad de Chile, y de Consejero de la Caja Nacional de Empleados Públicos y Periodistas.
 
 ### 3. De los nombramientos y del escalafón de los funcionarios judiciales
 
@@ -2288,19 +2292,17 @@ Los funcionarios con título de abogado de las categorías 6°, 7° y 8° del Es
 
 #### Artículo 292
 
-El Escalafón del personal subalterno, se compondrá de las siguientes categorías:
+El escalafón del personal subalterno se compondrá de las siguientes categorías:
 
-PRIMERA CATEGORIA. Empleados que gocen de un sueldo anual superior a catorce mil pesos.
+Primera categoría: Oficiales 1º y 2º de la Corte Suprema, Secretario-Abogado del Fiscal de la Corte Suprema, Oficiales 1ºs. de las Cortes de Apelaciones;
 
-SEGUNDA CTEGORIA. Empleados que gocen de un sueldo anual de más de doce mil hasta catorce mil pesos.
+Segunda categoría: Oficiales 3ºs. de la Corte Suprema, Secretario del Presidente del mismo Tribunal, Oficiales 2ºs. de las Cortes de Apelaciones, Bibliotecario Estadístico de la Corte de Apelaciones de Santiago y Oficiales 1ºs. de los Juzgados Letras de Mayor Cuantía de asiento de Corte;
 
-TERCERA CATEGORIA. Empleados que gocen de un sueldo anual de más de nueve mil hasta doce mil pesos.
+Tercera categoría: Oficiales 4ºs. de la Corte Suprema, Oficiales 3ºs. de las Cortes de Apelaciones, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales 4ºs. de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos Tribunales, Estadístico de la Corte de Apelaciones de Concepción, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte y Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia;
 
-CUARTA CATEGORIA. Empleados que gocen de un sueldo anual de más de seis mil hasta nueve mil pesos.
+Cuarta categoría: Oficiales 4ºs. de los Juzgados de Letras de Mayor Cuantía de asiento de Corte, Oficiales de los Defensores Públicos de Santiago y Valparaíso, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 1ºs. de los Juzgados de Letras de Mayor Cuantía de departamento y Oficiales 1ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte;
 
-QUINTA CATEGORIA. Empleados que gocen de un sueldo anual de más de cuatro mil hasta seis mil pesos,
-
-SEXTA CATEGORIA. Empleados que gocen de un sueldo anual de más de dos mil hasta cuatro mil.
+Quinta categoría: Oficiales Auxiliares de la Corte Suprema, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de capital de provincia, Oficiales 2ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficiales 2ºs. de los Juzgados de Letras de Menor Cuantía de asiento de Corte, Oficiales 1ºs. de los demás Juzgados de Letras de Menor Cuantía, Oficiales 3ºs. de los Juzgados de Letras de Mayor Cuantía de departamento, Oficial-Intérprete de los Juzgados de Temuco y Oficiales 2ºs. de los demás Juzgados de Letras de Menor Cuantía.
 
 #### Artículo 294
 
@@ -2408,11 +2410,11 @@ Están igualmente obligados a asistir todos los días a la sala de su despacho, 
 
 Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el quince de Enero y durará hasta el primero de Marzo.
 
-Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal ni con los jueces letrados de menor cuantía.
+Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal.
 
 #### Artículo 314
 
-Durante el feriado de vacaciones funcionarán diariamente los jueces de letras de mayor cuantía que ejerzan jurisdicción en lo civil, para conocer de los asuntos en que se conceda habilitación de feriado; y en los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva.
+Durante el feriado de vacaciones funcionarán diariamente los jueces de letras de mayor cuantía y de Menor Cuantía que ejerzan jurisdicción en lo civil, para conocer de los asuntos en que se conceda habilitación de feriado; y en los departamentos en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva.
 
 #### Artículo 315
 
@@ -2606,17 +2608,13 @@ Toda sentencia absolutoria en los juicios de amovilidad debe ser notificada al f
 
 #### Artículo 340
 
-El Presidente de la República podrá conceder a los jueces licencias que no excedan de un año, por enfermedad.
+El Presidente de la República podrá conceder a los Jueces licencia por enfermedad de acuerdo con las disposiciones generales que rijan sobre la materia para el personal de la Administración Civil del Estado. Se regirán también por estas mismas disposiciones generales los permisos que, sin goce de remuneración, se otorguen a dichos funcionarios para ausentarse del servicio.
 
-El funcionario recibirá su sueldo íntegro durante el primer mes; el setenta y cinco por ciento, durante el segundo mes y el cincuenta por ciento, durante el tercer mes. Los meses restantes de licencia serán sin goce de sueldo.
-
-Dentro del año podrá concederse, también, a los jueces licencias por un mes por asuntos particulares.
-
-Los plazos a que se refiere este artículo, sean continuos o interrumpidos, se entenderán con relación al año en que se pide la licencia.
+Podrán concederse licencias mayores, y hasta por seis meses, por asuntos particulares, sin goce de sueldo, una vez cada cinco años, y siempre que no se entorpezca el servicio.
 
 #### Artículo 341
 
-Durante el tiempo que gocen de licencia no tendrán derecho a recibir ninguna clase de gratificación o premios sobre sus sueldos.
+Derogado.
 
 #### Artículo 342
 
@@ -2642,7 +2640,7 @@ No podrán hacer uso de este feriado, simultáneamente, dos o más miembros de u
 
 Las licencias deberán solicitarse por conducto y con informe del superior respectivo.
 
-Cuando tengan por objeto atender al restablecimiento de la salud, serán informadas por uno o más médicos. Cuando el informe sea dado por el médico de ciudad será gratuito.
+Inciso derogado.
 
 #### Artículo 347
 
@@ -3368,6 +3366,8 @@ Lo dispuesto en este artículo es sin perjuicio de lo establecido en el artícul
 
 Se extiende a los conservadores, en cuanto es adaptable a ellos, todo lo dicho en este Código respecto de los notarios.
 
+En el caso de los Conservadores a que se refiere el artículo anterior, si faltare o se inhabilitare alguno para el ejercicio de sus funciones, será reemplazado por los otros Conservadores conforme al orden de antigüedad.
+
 ### 9. Los Archiveros
 
 #### Artículo 453
@@ -3690,7 +3690,7 @@ Las funciones de los secretarios, receptores, procuradores, notarios, conservado
 
 #### Artículo 497
 
-Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias de los jueces contenidas en el párrafo 9 del Título X del presente Código.
+Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.
 
 La disposición del artículo 344 regirá con los secretarios de las Cortes de Apelaciones y con los secretarios de los juzgados que ejerzan exclusivamente jurisdicción en lo criminal.
 
@@ -3722,7 +3722,7 @@ Para ser nombrado oficial primero de la secretaría de la Corte Suprema, se requ
 
 Además de las otras funciones que le corresponden, desempeñará el cargo de relator cuando el tribunal lo estime necesario.
 
-Después de haber servido tres años en el cargo, se le considerará, para los efectos de su ascenso, como figurando en el Escalafón Judicial en la misma categoría que los relatores de las Cortes de Apelaciones.
+Después de haber servido tres años en el cargo, se le considerará, para los efectos de su ascenso, como figurando en el Escalafón Judicial en la misma categoría de los Juzgados de Letras de Mayor Cuantía de asiento de Corte de Apelaciones.
 
 #### Artículo 502
 
@@ -3744,7 +3744,7 @@ En todo lo demás, los oficiales subalternos estarán sujetos a las instruccione
 
 #### Artículo 505
 
-Las licencias de los empleados indicados en los artículos 498 y 500 se regirán por las disposiciones del párrafo 9 del Título X de este Código.
+Las licencias feriados de los empleados indicados en los artículos 498 y 500 se regirán por las disposiciones del párrafo 9 del Título X de este Código.
 
 La disposición del artículo 344 regirá con el personal de secretaría de las Cortes de Apelaciones y con los demás empleados de los juzgados que ejerzan exclusivamente jurisdicción en lo criminal.
 
@@ -3865,6 +3865,8 @@ Para poder ser abogado se requiere:
 La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerca de los antecedentes personales del postulante y, con el mismo objeto, pedirá informe al Colegio de Abogados respectivo; y
 
 5°) Haber servido, a satisfacción del Consejo del Colegio de Abogados respectivo, en el Consultorio Jurídico para Pobres, durante seis meses en la forma que determine el Reglamento de su Ley Orgánica.
+
+La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años.
 
 Si la comisión a que se refiere el número anterior no admitiere a examen al postulante, por estimar que no concurren los requisitos señalados en este artículo, el afectado podrá reclamar ante la Corte Suprema, la que resolverá como jurado.
 
