@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO NUMERO 534 EXENTO, DE 1997, QUE DISPONE EXPROPIACION QUE INDICA
+
+Decreto Exento Número 534, de 21 de marzo de 1997, Municipalidad Rancagua expropia: franja terreno 56,28 metros cuadrados de Propiedad Ramón Freire número 77, rol avalúo Nº 1-4, propietario rol de avalúo Aránguiz Fuenzalida José E. y otro, actualmente dueño Sociedad Lavacentro y Servicios de Aseo Limitada, deslindes: Sur, tramo c-C 6,35 metros otros propietarios, hoy bien nacional de uso público; Oriente, tramo B-C 8,91 metros Avenida Ramón Freire; y Poniente, tramo b-c 8,82 metros resto de la propiedad. Indemnización definitiva $2.624.608. Expropiación según Artículo 29 Ley Nº 18.695, ensanche Avenida Ramón Freire tramo calle Cáceres y Alameda Bernardo O'Higgins. Pago contado.
