@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 535, del 26 de diciembre de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región de Coquimbo, se autoriza a la Asociación Gremial de Propietarios de Taxis Colectivos "Alto Peñuelas" La Serena Tierras Blancas - Coquimbo, 004-4, para efectuar el servicio de taxi colectivo urbano de la Línea No. 7, "La Serena-Alto Peñuelas-Coquimbo" cuyo trazado, que a continuación se indica, fue autorizado por resolución exenta No. 1118, del 26 de Junio de 1984, de esta Secretaría Regional:
+
+Circunvalación: "A": Desde su terminal de calle Oscar Bonilla con Arauco, en Tierras Blancas de Coquimbo, continúa por O. Bonilla - Malleco R. Schneider - Arauco - Bonilla - Talca - Ruta 43 a La Serena Av. Balmaceda- Domeyko-Cienfuegos - Colón - P.P. Muñoz - Av. de Aguirre - L. Alcalde - Huanhualí - Balmaceda Ruta 43 a Ts. Blancas, Talca J.A. Ríos - Aconcagua - R. Schneider - Colchagua - Bonilla - Malleco - R. Schneider Cautín - P. Aguirre Cerda - Av. Linares - R. Schneider - Arauco hasta O. Bonilla su terminal.
+
+Circunvalación: "B": Desde su terminal de calle O. Bonilla con Arauco, en Ts. Blancas, continúa por Bonilla - Malleco R. Schneider - Arauco - Bonilla - Talca - Ruta 43 - La Cantera Ruta 5 a Coquimbo - Darío Salas - Av. Alessandri - P. Aguirre Cerda - Buen Pastor - Av. Ossandón - Pinto - Alcalde - Melgarejo - Argandoña - Aldunate Colo Colo - Av. Ossandón Guacolda - P. Aguirre Cerda Av. Alessandri - Ruta 5 - La Cantera - Ruta 43 a Ts. Blancas - Talca - J.A. Ríos - Aconcagua - R. Schneider - Colchagua Bonilla Malleco R. Schneider - Cautín - P. Aguirre Cerda - Av. Linares - R. Schneider - Arauco hasta Bonilla su terminal.
+
+Jorge Vargas Borcosky, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV
