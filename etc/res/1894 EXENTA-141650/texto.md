@@ -1,0 +1,29 @@
+EXTRACTO DE RESOLUCION EXENTA 1.894, DE 1987
+
+Por resolución exenta 1.894, de fecha 09 de Noviembre de 1987, se ordenó publicar en el Diario Oficial la solicitud de inscripción en el Registro de Partidos Políticos, del Partido Nacional en formación, cuyo símbolo es una estrella azul enmarcada en una franja circular roja donde dice Partido Nacional; su sigla es "P.N" y su lema "Chile está primero".
+
+La escritura de constitución fue otorgada el dos de Abril de mil novecientos ochenta y siete ante el Notario Interino Jorge Soto Troncoso de la Cuadragésima Notaría de Santiago; y complementada por escritura pública ante la misma Notaría con fecha 14 de Abril de 1987.
+
+La solicitud es del tenor siguiente:
+
+Solicita inscripción en el Registro de Partidos Políticos y acompaña documentos que indica.
+
+Señor Director del Servicio Electoral Patricio Phillips Peñafiel, chileno, casado, cédula de identidad N° 1.382.037-6 agricultor; y Tomás Puig Casanova, chileno, casado, abogado, cédula de identidad número 2.817.331-8, actuando de Presidente y de Secretario General del Partido Nacional en formación, ambos domiciliados en Compañía 1253 de esta ciudad, al Señor Director, con respeto decimos:
+
+El día dos de Abril del presente año, entró en vigencia la Ley 18.603 de 23 de Marzo del mismo año, llamada Ley Orgánica Constitucional de los Partidos Políticos, oportunidad en que nuestro representado presentó a ese Servicio la documentación necesaria que lo constituyó en el primer partido político en iniciar los trámites legales para obtener su pleno reconocimiento y cumplir las finalidades de bien público para el que fue constituido. La correspondiente publicación del extracto de la escritura y otras menciones se realizó en el Diario Oficial N° 32.729 de fecha 23 de Marzo de 1987.
+
+En este acto y antes del vencimiento del plazo legal, venimos en solicitar al señor Director del Servicio Electoral la inscripción del Partido Nacional en el Registro de Partidos Políticos y obtener así la personalidad jurídica a partir de la fecha de dicha inscripción, en virtud de lo establecido en la Ley 18.603, artículo 4°.
+
+El fundamento de la mencionada solicitud reside en el hecho de haberse completado las exigencias legales en cuanto al número de afiliados al Partido Nacional correspondiente a las Regiones IX, X y XI, según se acredita con los documentos que se acompañan, esto es, originales de las declaraciones individuales de afiliación y las nóminas de afiliados, según formularios e instrucciones proporcionados por ese Servicio.
+
+Por tanto:
+
+Al Señor Director del Servicio Electoral, rogamos:
+
+- **a)** tener por acompañado dentro de plazo, listados de nóminas y los originales de las declaraciones individuales, autorizadas por un ministro. de fe que corresponde a los primeros afiliados al Partido Nacional en las Regiones IX, X y XI, haciendo presente que se han excedido en número, los mínimos establecidos por la ley;
+
+- **b)** practicar la inscripción oficial del Partido Nacional en el Registro de Partidos Políticos que lleva ese Servicio, y
+
+- **c)** declarar que a partir de la fecha de dicha inscripción, el Partido Nacional posee personalidad jurídica, de acuerdo a la ley. Hay dos firmas ilegibles.-
+
+Juan Ignacio García Rodríguez, Director.
