@@ -1,0 +1,3 @@
+Por resolución No. 380, de 27.04.89 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado calle Serrano No. 516, esquina calle Ricardo Santa Cruz, presunto rol avalúos No. 632-14, comuna Santiago, aparentemente dominio de don Manuel Serrano Boza. Comisión integrada por peritos Srs. Gabriel Urrutia Benavente y Mario Vergara Navarrete, arquitectos y Walter Soto Silva, ingeniero civil, según informe de 24 de Noviembre de 1988, fijó monto provisional indemnización en $ 3.520.000.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
