@@ -1,0 +1,3 @@
+Por decreto MOP Nº 270, de fecha 28 de marzo de 2003, se expropiaron los lotes de terreno Nº 3, 16, superficie 652,00, 1.288,00 m2, respectivamente, Rol de Avalúo Nº 534-10, comuna de Río Bueno, X Región, para la obra "Camino Río Bueno - Crucero, Rol T-90-U y T-933, tramo Km. 0,00000 a Km. 20,90000, Provincia de Valdivia" y se acordó el valor de indemnización con su propietario Luis Arturo Soto Vega, ascendente a la cantidad de $5.134.780.
+
+Fiscal del Ministerio de Obras Públicas.
