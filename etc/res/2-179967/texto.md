@@ -1,0 +1,3 @@
+Por resolución Nº 2, de 2 de enero de 2001, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99103114 presentada por PAULA ANDREA RODRIGUEZ BRAVO, para instalar y operar un centro de cultivo ubicado en Canal Queilén, sector este de Punta San Miguel, comuna de Queilén, provincia de Chiloé, X Región.
+
+Valparaíso, 2 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
