@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.854, de 28 de abril de 2000, modificado por decreto MOP Nº985, de 03 de junio de 2002, que a su vez dio inicio a la Vía Judicial, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y D.F.L. MOP Nº206, de 1960, se expropió el lote de terreno Nº101, para la obra ''Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector K: Km. 161.650,00 al Km. 179.500,00'';
+
+Séptima Región, que figura a nombre de Aranda Iturriaga Víctor Manuel, rol de avalúo 60-22, comuna de Teno, superficie 1.740 m2. La comisión de peritos integrada por los señores Enrique Luis Figueroa Echeverría, José Cristián Larraín Barros y María Isabel de Jesús Ríos Marcuello, fijó con fecha 04 de febrero de 2000, el valor provisional de la indemnización en la cantidad de $7.420.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
