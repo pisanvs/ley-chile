@@ -1,0 +1,3 @@
+Por Resolución N° 362, de 13 de Abril de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 597, de 1984 y N° 157, de 1987, ambas de esta Subsecretaría, que autorizaron a don EDUARDO FIOL BERNAIN, R.U.T N° 3.315.707-K, para operar un centro de cultivo, ubicado en Sector Rincón del Morro, Bahía Inglesa, Comuna de Caldera, Provincia de Copiapó, III Región; y la Resolución N° 707, de 1988, de esta Subsecretaría que lo autorizó para operar un centro de cultivo ubicado en Bahía Inglesa, Comuna de Caldera, Provincia de Copiapó, III Región, todas por renuncia de su titular.
+
+Valparaíso, 13 de Abril de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
