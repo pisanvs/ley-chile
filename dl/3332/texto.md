@@ -1,0 +1,27 @@
+RECONOCE, POR GRACIA, TIEMPO SERVIDO POR DOÑA SILVIA PINTO ROMAN, DOÑA DOLIA VALDEBENITO URIBE, DOÑA SILVIA MARGARITA VASQUEZ ALDUNATE Y DOÑA RUTH ELIZABETH SALDAÑA RETAMAL
+
+Santiago, 17 de Abril de 1980.- Hoy se decretó lo que sigue:
+
+Núm. 3.332.- Visto: Lo dispuesto en los decretos leyes Nºs. 1 y 128, de 1973; Nº 527, de 1974, y Nº 991, de 1976, y Considerando: El informe favorable de la Comisión Especial de Beneficios por Gracia, creada por decreto supremo de Interior número 1.702, de 27 de Noviembre de 1973.
+
+La Junta de Gobierno de la República de Chile ha acordado dictar el siguiente
+
+Decreto ley:
+
+#### Artículo único
+
+Reconócese, por gracia, para todos los efectos legales y en especial para su jubilación a las personas que se señalan el tiempo que en cada caso de indica:
+
+1.- Doña Silvia Pinto Román, entre el 11 de Febrero al 18 de Febrero de 1953; desde el 23 de Febrero al 24 de Marzo de 1953; entre el 1º de Abril y el 30 de Abril de 1953 y desde el 9 de Julio de 1953 al 24 de Mayo de 1954.
+
+2.- Doña Dolia Valdebenito Uribe, entre el 12 de Octubre de 1955 y el 14 de Febrero de 1956.
+
+3.- Doña Silvia Margarita Vásquez Aldunate, entre el 1º de Septiembre de 1955 y el 31 de Diciembre de 1957.
+
+4.- Doña Ruth Elizabeth Saldaña Retamal, entre el 1º de Octubre de 1959 y el 31 de Marzo de 1960.
+
+Las imposiciones correspondientes a dichos períodos serán de cargo de cada interesada y la Caja Nacional de Empleados Públicos y Periodistas procederá a recibirlas.
+
+Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Sergio Fernández Fernández, Ministro del Interior.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Enrique Montero Marx, Coronel de Aviación (J), Subsecretario del Interior.
