@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 107, de fecha 31 de Marzo de 1994, se expropiaron los lotes de terrenos N°s. 8 y 12, superficies 46.510,5 M2 y 48.220,5 M2., rol de avalúo 122-0025, comuna de Pencahue, para la obra Regadio Pencahue Canal Oriente, por el cual se fijó precio de indemnización con su propietario Juan Verdugo Morales, ascendente a la cantidad de $3.681.460.-
+
+Fiscal del Ministerio de Obras Públicas
