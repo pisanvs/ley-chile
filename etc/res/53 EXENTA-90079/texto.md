@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN CAMBIO SUJETO IVA.
+
+La Dirección Regional Puerto Montt de S.I.I., por resolución Nº Ex-53 del 13 de enero de 1998, excepciona, a contar del 1º del mes siguiente al de esta publicación a don Gonzalo Alfredo Hofmann Niklitschek Rut Nº 7.929.427-6 del Régimen de Cambio de Sujeto de IVA establecido en la resolución Nº Ex-5550 de la Dirección Regional, publicada en el Diario Oficial de día 3 de diciembre de 1996, y prorrogada por resolución Nº Ex-5916 publicada en el Diario Oficial del día 2 de diciembre de 1997.
