@@ -1,0 +1,5 @@
+Por Decreto M.O.P N° 348, de 28 de noviembre de 1986 y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N° 294, de 1984, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 1, para la obra Agua Potable de Salamanca, nuevo estanque de 1.000 m3, que figura a nombre de don Arturo Ortega Olivares, rol de avalúo 200-32, comuna de Salamanca, superficie 1.496,25 m2. Deslindes: Norte y Este: Con resto del predio afectado con la expropiación; Sur; Con terrenos de Sendos; y Oeste: Con Parque Municipal. La Comisión de Peritos compuesta por los señores Eladio Chinchón Huerta, Mario Vanni Sandoval y Luis Jeffery Mercado, fijó con fecha 22 de noviembre de 1985, el valor provisional de la indemnización en la cantidad de $ 89.775. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
+
+(2)
