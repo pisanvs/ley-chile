@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº355 de fecha 28 de marzo de 2002, se expropiaron los lotes de terreno Nº1 y 4, superficies 493 y 1.129 m2, rol de Avalúo Nº127-80, comuna de El Carmen, para la obra "Canal Matriz Sector Pemuco Diguillín Camino de acceso a Puente El Cabrito. Proyecto Laja Diguillín", VIII Región y se acordó el valor de indemnización con su propietaria Gabriela Alicia González Vallejos y Otros, ascendente a la cantidad de $844.178.-
+
+Fiscal del Ministerio de Obras Públicas.
