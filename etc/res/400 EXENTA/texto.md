@@ -1,0 +1,19 @@
+AUTORIZA A LA SOCIEDAD PROTECTORA DE ESTUDIANTES, PARA REALIZAR COLECTA
+
+(Resolución)
+
+Núm. 400 exenta.- Concepción, 10 de junio de 1997.- Considerando: Carta de 28 de mayo de 1997, de la Presidenta de la Sociedad Protectora de Estudiantes de Concepción; y
+
+Vistos: Lo dispuesto en la Ley Nº 10.262 de 1952; Ley Nº 16.436 de 1966; Decreto del Ministerio del Interior Nº 955 publicado en el Diario Oficial del 24 de Junio de 1974; modificado por el Decreto Supremo del Ministerio del Interior Nº 1309, publicado en el Diario Oficial de 21 de Septiembre de 1974; la facultad que me otorga el Decreto Supremo del Ministerio del Interior Nº 969; publicado en el Diario Oficial de 22 de Agosto de 1975; y lo señalado en la Resolución Nº 55 de 1992, cuyo texto refundido, coordinado y sistematizado lo fija la Resolución Nº 520 de 1996, de la Contraloría General de la República.
+
+R e s u e l v o:
+
+1.- Autorízase a la Sociedad Protectora de Estudiantes de Concepción, para realizar una Colecta el día Martes 05 de Agosto de 1997, en la ciudad de Concepción.
+
+2.- Las erogaciones deberán ser solicitadas y recibidas en alcancías numeradas por personas debidamente acreditadas.
+
+3.- La apertura de las alcancías se hará en una sola oportunidad en un acto presidido por la Srta. Gobernadora Provincial de Concepción, o por la persona que ella designe en su representación.
+
+Anótese, comuníquese y publíquese.- Por orden del Sr. Presidente de la República, María Angélica Fuentes Fuentealba, Intendente Región del Bío-Bío (S).- Alejandro González Sanhueza, Asesor Jurídico.
+
+Lo que transcribo a Ud. para su conocimiento y fines del caso.- Saluda Atte. a Ud., Alejandro González Sanhueza, Asesor Jurídico.
