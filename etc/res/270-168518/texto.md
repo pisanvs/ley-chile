@@ -1,0 +1,3 @@
+Por Resolución No. 270, de 4 de Marzo de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se caduca la Resolución No. 1.246, de 1989, de esta Subsecretaría, que autorizó a don JOSE HERNAN LOYOLA OLIVARES, RUT No. 5.587.790-4, en virtud de lo dispuesto en el Art. 7° del DS No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de Marzo de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
