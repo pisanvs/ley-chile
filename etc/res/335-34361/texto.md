@@ -1,0 +1,3 @@
+Por Resolución N° 335, de 19 de febrero de 1996, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, amplíase, por 90 días, a contar del 10 de febrero de 1996, el plazo otorgado a MARCELO RENE ELUCHANS OLIVARES, para publicar el extracto de la Resolución N° 1.584, de 1995, de esta Subsecretaría, que le otorgó una autorización de acuicultura para un Sector ubicado en Fundo Los Chilcos, Comuna de La Unión, Provincia de Valdivia, X Región, por haberse acreditado la existencia de una causal de fuerza mayor.
+
+Valparaíso, 19 de febrero de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
