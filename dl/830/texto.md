@@ -82,7 +82,7 @@ Sin embargo, la condonación de intereses o sanciones podrá ser total, si el Se
 
 6°.- Resolver las reclamaciones que presenten los contribuyentes, de conformidad a las normas del Libro Tercero.
 
-7°.- Autorizar a los Administradores de Zona o a otros funcionarios para resolver determinadas materias, aun las de su exclusiva competencia, o para hacer uso de las facultades que le confiere el Estatuto Orgánico del Servicio, actuando "por orden del Director Regional", y encargarles, de acuerdo con las leyes y reglamentos, el cumplimiento de otras funciones u obligaciones.
+7°.- Autorizar a otros funcionarios para resolver determinadas materias, aun las de su exclusiva competencia, o para hacer uso de las facultades que le confiere el Estatuto Orgánico del Servicio, actuando "por orden del Director Regional", y encargarles, de acuerdo con las leyes y reglamentos, el cumplimiento de otras funciones u obligaciones.
 
 8°.- Ordenar a petición de los contribuyentes que se imputen al pago de sus impuestos o contribuciones de cualquiera especie las cantidades que les deban ser devueltas por pagos en exceso de lo adeudado o no debido por ellos. La resolución que se dicte se remitirá a la Contraloría General de la República para su toma de razón.
 
@@ -346,7 +346,7 @@ El Director y demás funcionarios del Servicio no podrán divulgar, en forma alg
 
 El precepto anterior no obsta al examen de las declaraciones por los jueces o al otorgamiento de la información que éstos soliciten sobre datos contenidos en ellas, cuando dicho examen o información sea necesario para la prosecución de los juicios sobre impuesto, sobre alimentos y en procesos por delitos comunes, ni a la publicación de datos estadísticos en forma que no puedan identificarse los informes, declaraciones o partidas respecto de cada contribuyente en particular.
 
-No obstante, lo dispuesto en los incisos anteriores, en cada una de las inspecciones se mantendrá a disposición del público una lista en que aparezcan, por orden alfabético, los nombres de todos los contribuyentes afectos a impuestos de acuerdo con las declaraciones anuales que deban presentar. En estas listas se indicará, además, la renta imponible de los impuestos de categoría, global complementario y adicional, como asimismo el impuesto anual que por los referidos tributos le ha correspondido a cada contribuyente. Podrá indicarse también en estas listas el monto de las rentas exentas del impuesto global complementario; pero, si así no se hiciere, la información respectiva se proporcionará a cualquiera persona que lo solicite.
+No obstante, lo dispuesto en los incisos anteriores, en cada una de las Unidades del Servicio que determine el Director se mantendrá a disposición del público una lista en que aparezcan, por orden alfabético, los nombres de todos los contribuyentes afectos a impuestos de acuerdo con las declaraciones anuales que deban presentar. En estas listas se indicará, además, la renta imponible de los impuestos de categoría, global complementario y adicional, como asimismo el impuesto anual que por los referidos tributos le ha correspondido a cada contribuyente. Podrá indicarse también en estas listas el monto de las rentas exentas del impuesto global complementario; pero, si así no se hiciere, la información respectiva se proporcionará a cualquiera persona que lo solicite.
 
 #### Artículo 36
 
@@ -1344,7 +1344,7 @@ Procedimiento general
 
 #### Artículo 161
 
-Las sanciones por infracción a las disposiciones tributarias, que no consistan en penas corporales, serán aplicadas por el Director Regional competente, o por los Administradores de Zonas que aquél designe, previo el cumplimiento de los trámites que a continuación se indican:
+Las sanciones por infracción a las disposiciones tributarias, que no consistan en penas corporales, serán aplicadas por el Director Regional competente, o por funcionarios que designe conforme a las instrucciones que al respecto imparta el Director, previo el cumplimiento de los trámites que a continuación se indican:
 
 1°.- En conocimiento de haberse cometido una infracción o reunidos los antecedentes que hagan verosímil su comisión, se levantará un acta por el funcionario competente del Servicio, la que se notificará al interesado personalmente o por cédula.
 
@@ -1460,15 +1460,15 @@ Las denuncias por las infracciones sancionadas en los números 1°, 2°, 6°, 7�
 
 2°- En los casos a que se refieren los números 6°, 7°, 10° y 17, 19°, del artículo 97, las infracciones serán notificadas personalmente o por cédula por los funcionarios del Servicio al sorprender la infracción, y las multas respectivas serán giradas inmediatamente de vencido el plazo a que se refiere el número siguiente, en caso de que el contribuyente no haga uso del recurso establecido en dicho número. Si se presenta este recurso, se suspenderá el giro de la multa hasta que se resuelva sobre los descargos del contribuyente.
 
-3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Administrador de Zona de su jurisdicción.
+3°- Notificado el giro de las multas a que se refiere el N° 1, o las infracciones de que trata el N° 2, el contribuyente podrá reclamar verbalmente o por escrito, dentro del plazo de cinco días, contado desde la notificación del giro o de la infracción, en su caso, ante el Director Regional de su jurisdicción.
 
 4°- Junto al reclamo deberán acompañarse y producirse todas las pruebas que el interesado pretenda rendir. La prueba se apreciará en conciencia.
 
-5°- El reclamo deberá ser resuelto en el acto por el Administrador de Zona o a más tardar dentro de tercero día, y la resolución que se dicte no será susceptible de recurso alguno.
+5°- El reclamo deberá ser resuelto en el acto por el Director Regional o a más tardar dentro de tercero día, y la resolución que se dicte no será susceptible de recurso alguno.
 
 6°- La iniciación del procedimiento y la aplicación de sanciones pecuniarias no constituirán impedimento para el ejercicio de la acción penal que corresponda.
 
-7°- Los Administradores de Zona podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en el Subadministrador, Jefes de Sección y/o Jefes de Inspección de su jurisdicción.
+7°- Los Directores Regionales podrán delegar las funciones y la facultad que se señala en los números 3° y 5° de este artículo en los funcionarios de su jurisdicción que designe, conforme a las instrucciones que al respecto imparta el Director.
 
 > **Nota.** Las letras c) y d) del Art. 8° del DL 2869, Hacienda, publicado el 29.09.1979, reemplazaron en el inciso primero y en el N° 2 la conjunción "y" por una coma, y agregaron a continuación de los números 11 y 10, respectivamente, lo siguiente: "y 17".
 
