@@ -1,0 +1,3 @@
+Por decreto MOP. N° 78, de 30 de enero de 1998, se expropió el lote de terreno N° 1, superficie7.972,81 m2., rol de avalúo 90509-38, comuna de Melipilla, para la obra Autopista Santiago-San Antonio, Sector Plaza de Peaje Puangue, km. 77.762,00 a km. 78.700,00, y se acordó precio de la indemnización con Agrícola El Carrizo Limitada, ascendente a la cantidad de $18.412.543.-
+
+Fiscal del Ministerio de Obras Públicas.
