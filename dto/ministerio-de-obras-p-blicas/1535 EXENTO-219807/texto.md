@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1535 de fecha 28 de noviembre del 2003, se expropió el lote de terreno Nº 5, superficie 897,21 m2, rol Nº 616-23, comuna de Nueva Imperial, IX Región para la obra "Puente Rucapanquil camino Pte. Chispas-Balsa Rucapangui. Tramo Km. 17,79100 a Km. 18,31260" y se acordó el valor de indemnización con su propietario Domingo Suárez Sabugal y Otra, ascendente a la cantidad de $1.066.783.-
+
+Fiscal del Ministerio de Obras Públicas.
