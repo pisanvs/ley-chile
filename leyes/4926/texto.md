@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República para prorrogar hasta el 30 de Junio de 1931, la liquidación de las operaciones correspondientes a la adquisición de la cantidad de $ US. 2.433,500 nominales en bonos de la Deuda Externa, destinados al Fondo de Emergencia.
