@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.113 de fecha 30 de septiembre del 2003, se expropió el lote de terreno Nº 52, superficie 943 m2, Rol Nº 172-611, comuna de San Clemente, VII Región para la obra "Camino Mejoramiento Ruta K-705, sector Cruce Ruta 115 CH (El Guindo) Vilches, Tramo: km. 0,00000 a km. 13,06400 (Ruta K-705) km. 35,46000 a km. 35,80000 (Ruta 115-CH)", y se acordó el valor de indemnización con su propietario Angel Custodio Augusto Augusto, ascendente a la cantidad de $4.545.380.
+
+Fiscal del Ministerio de Obras Públicas.
