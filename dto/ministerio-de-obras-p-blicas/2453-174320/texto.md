@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.453, de 30 de mayo del 2000, se expropió el lote terreno Nº 30, superficie 129 m², rol de avalúo 3800-28, comuna de Puente Alto, para la obra Mejoramiento Eje La Florida, El Peñón - Las Vizcachas, Sector Km. 6.980 a Km. 10.340. Camino Ruta G-25 Camino Puente Alto y se acordó precio de la indemnización con su propietario Jorge Santiago Galvez Arce, ascendente a la cantidad de $4.101.260.
+
+Fiscal del Ministerio de Obras Públicas.
