@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 538 de fecha 30 de abril del 2002, se expropió el lote de terreno Nº 36, superficie 897,30 m², Rol de Avalúo Nº 215-129, comuna de T. Schmidt, para la obra ''Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma Tramo Chelle - Hualpín - Puente Peule, Km. 48.292,74 al Km. 68.030,40, correspondiente al subtramo I, Km. 51.248,00 a Km. 54.261,169'', IX Región y se acordó el valor de indemnización con su propietario Juan Antonio Llancacura Manquián, ascendente a la cantidad de $2.070.652.-
+
+Fiscal del Ministerio de Obras Públicas.
