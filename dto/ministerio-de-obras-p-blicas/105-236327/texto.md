@@ -1,0 +1,5 @@
+Por decreto MOP Nº 105, de 8 de febrero de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 8-D para la obra: "Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena - Puerto San Antonio. Km. 1.200,00 a Km.
+
+7.840,00", Quinta Región , que figura a nombre de Alarcón Pina Juan Alfonso, rol de avalúo 9034-29, comuna de San Antonio, superficie 257 m2. La comisión de peritos integrada por los señores Luis Pablo Padilla Vergara, Lorena Consuelo Larraín Saffa y Maximiliano Cortés Caiozzi, fijó con fecha 25 de octubre de 2004, el valor provisional de la indemnización en la cantidad de $5.436.900.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
