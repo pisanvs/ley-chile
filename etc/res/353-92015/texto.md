@@ -1,0 +1,3 @@
+Por Resolución No. 353 de 19 de abril de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado en calle G. Cabrales s/n; presunto rol avalúos 651-26, comuna Santiago, aparente dominio de don Julio Ayala Saavedra. Comisión integrada por peritos señores Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de octubre de 1988, fijó monto provisional indemnización en $ 1.199.100.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
