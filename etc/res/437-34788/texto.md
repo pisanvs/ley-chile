@@ -1,0 +1,3 @@
+Por Resolución N° 437, de 13 de marzo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por SALMONES TECMAR LTDA., para un sector ubicado al Norte de Punta Lepe, Canal Lemuy, Comuna de Castro, Provincia de Chiloé, X Región, por no dar cumplimiento el respectivo proyecto técnico al artículo 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 13 de marzo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
