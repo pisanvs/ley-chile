@@ -1,0 +1,1 @@
+Prorroga vigencia del artículo 1° de la ley 4,972, de 31 de julio de 1931, y de la ley 5,029, de 8 de enero de 1932, sobre pago de obligaciones en moneda extranjera, a contar desde el vencimiento del artículo 13 de la 5,601, de 14 de febrero de 1935.
