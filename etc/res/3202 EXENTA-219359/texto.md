@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.202 de 3 de diciembre de 2003, de esta Subsecretaría, autorízase a HELGA PATRICIA MANQUEZ MONARDES, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Serrano esquina Barros Arana s/n, Caleta La Explanada, Tocopilla, II Región, en la línea de elaboración Congelado, los recursos hidrobiológicos individualizados en la resolución extractada.
+
+Valparaíso, 3 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
