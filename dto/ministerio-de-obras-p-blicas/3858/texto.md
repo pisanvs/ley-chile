@@ -1,0 +1,5 @@
+Por decreto MOP Nº 3.858, de 29 de diciembre de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs.
+
+7, 10 y 11 para la obra Concesión Internacional Ruta 5, Tramo Collipulli-Temuco, Km. 713,60000 a Km. 718,40000 Novena Región, que figura a nombre de Marinao Amulef Hilario, rol de avalúo 404-38, comuna de Gorbea, superficies 3.537, 1.765 y 688 m², resprectivamente. La Comisión de Peritos integrada por los señores, Claudio Ricardo González Valenzuela, Lautaro Francisco Soto Rodríguez y Claudio Benjamín Rojas García, fijó con fecha 13 de agosto de 1999, el valor provisional de la indemnización en la cantidad de $2.046.250 para el lote 7; $7.058.500 para el lote 10 y $498.800 para el lote 11.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
