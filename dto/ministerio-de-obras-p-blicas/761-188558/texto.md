@@ -1,0 +1,3 @@
+Por decreto MOP Nº761 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº12, superficie 7.527,27 m2, rol de avalúo Nº387-254, comuna de Pitrufquén, para la obra ''Diseño Definitivo Regadío Faja Maisan, Expropiaciones Red Primaria 4/5, Derivado Mahuidanche'', Sector Km. 2.009,85 al Km. 7.790,94 y se acordó el valor de indemnización, con su propietario Sucesión de doña Brunilda Manquelaf Quilican o Brenilda Manquilaf Quilacan, ascendente a la cantidad de $4.842.961.-
+
+Fiscal del Ministerio de Obras Públicas.
