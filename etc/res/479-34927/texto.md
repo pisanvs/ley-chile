@@ -1,0 +1,3 @@
+Por resolución N° 479 de 28 de abril de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase, conforme al Artículo 6° del D.S. N° 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción, la Resolución N° 272, de 1979, que autorizó a CELIS HNOS. SOCIEDAD PESQUERA LTDA., domiciliada en Remodelación San Borja, torre 4, oficina 115, Santiago, en orden a operar una planta elaboradora de recursos hidrobiológicos, ubicada en calle Carrera S/N°, Taltal, provincia de Antofagasta, II Región.
+
+Valparaíso, 28 de abril de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
