@@ -1,0 +1,9 @@
+Por resolución No. 879 de 10 de Septiembre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autoriza a CHILE SEA FOOD S.A., RUT No.
+
+96.599.410-6, domiciliada en la ciudad de Santiago, Avenida Lo Ovalle No. 0468, Comuna de La Cisterna, para ampliar las actividades pesqueras de transformación que tiene autorizadas por resoluciones No. 1.283, de 1991 y No. 408, de 1992, ambas de esta Subsecretaría, en orden a operar su planta industrial de la Región Metropolitana, ubicada en Avenida Lo Ovalle No. 0468, Comuna de La Cisterna, donde podrá procesar en las líneas de elaboración de congelado y fresco-refigerado los siguientes recursos hidrobiológicos: Congelado y fresco-refigerado: albacora o pez espada, anchoa o anchoveta, anguila, atún aleta amarilla, atún aleta larga, bacalao de profundidad o mero, caballa, cojinoba del norte, corvina, jurel, lisa, machuelo o tritre, merluza común, merluza del sur, palometa, pejerrey de mar, pejesapo, salmón del Pacífico, sardina común, sardina, tollo, trucha arco iris, almeja, calamar, caracol locate, caracol tegula, caracol trumulco, cholga, chorito, choro, culengue, jibia, lapa, macha, navajuela, ostión del norte, ostra chilena, pulpo, camarón nailon, centollón, gamba, jaiba, langostino amarillo, picoroco, erizo, piure.
+
+Deberá adquirir el recurso ostión del norte, salmón del Pacífico y trucha arco iris de centros de cultivo autorizados.
+
+El recurso centollón deberá provenir de zonas no afectas a restricción, lo que se acreditará mediante guías de libre tránsito emitidas por el Servicio Nacional de Pesca. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 10 de Septiembre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
