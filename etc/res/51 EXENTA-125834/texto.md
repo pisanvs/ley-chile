@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DE IVA A SOC. AGRICOLA CARLOS VIAL E HIJOS Y CIA.
+
+La XVI Dirección Regional Metropolitana del Servicio de Impuestos Internos, por resolución Nº Ex. 51 del 28.09.98, excepciona a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de julio de 1999, a Soc. Agrícola Carlos Vial e Hijos y Cía., Rut. 84.616.500-2, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las operaciones de ganado vivo, establecido en la resolución Nº Ex. 2.379/98 de la Dirección Nacional, publicada en el Diario Oficial del 24.04.98, modificada por la resolución Nº 3.785/98, publicada en el Diario Oficial del día 30.06.98. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de ganado vivo.
+
+- Alejandro Ossandón Tamayo, Director Regional.
