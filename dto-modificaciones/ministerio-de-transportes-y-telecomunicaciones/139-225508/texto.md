@@ -1,0 +1,109 @@
+MODIFICA CONCESION DE SERVICIO PUBLICO DE TELEFONIA MOVIL A LA EMPRESA BELLSOUTH COMUNICACIONES S.A.
+
+Santiago, 12 de abril de 2004.- Con esta fecha se ha decretado lo que sigue:
+
+Núm.139.- Vistos:
+
+a) El decreto ley Nº 1.762 de 1977, que creó la Subsecretaría de Telecomunicaciones.
+
+b) La ley Nº 18.168 de 1982, Ley General de Telecomunicaciones.
+
+c) El Nº 1 del artículo 3º del párrafo III de la resolución Nº 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resolución Nº 520 de 1996, ambas de la Contraloría General de la República.
+
+d) El decreto supremo Nº 28 de 2003, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión.
+
+e) La resolución exenta Nº 308 de 2000, modificada por la resolución exenta Nº 81 de 2001, ambas de la Subsecretaría de Telecomunicaciones, que destina las bandas de frecuencias 1.865-1.870 MHz, 1.885-1.895 MHz, 1.945-1.950 MHz y 1.965-1.975 MHz, al Servicio Público de Telefonía Móvil.
+
+f) La resolución exenta Nº 409, de 26.03.2004, del Ministerio de Transportes y Telecomunicaciones, que autorizó provisoriamente la modificación de la concesión.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante ingreso Subtel Nº 11.450 de 13.01.2004.
+
+b) Que no se presentaron oposiciones a la publicación en extracto de la solicitud de modificación de concesión,
+
+D e c r e t o:
+
+Modifícase la concesión de Servicio Público de Telefonía Móvil en las bandas de frecuencias 1.865-1.870 MHz, 1.885-1.895 MHz, 1.945-1.950 MHz y 1.965-1.975 MHz otorgada a la empresa Bellsouth Comunicaciones S.A., RUT Nº 87.845.500-2, con domicilio en Av. El Bosque Sur Nº 90, comuna de Las Condes, Región Metropolitana, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.
+
+1. Cambiar características técnicas de la estación repetidora denominada Salto del Laja, autorizada por decreto supremo Nº 477 de 2003, del Ministerio de Transportes y Telecomunicaciones por las siguientes:
+
+VER DIARIO OFICIAL DE 22.05.2004, PÁGINA 9.
+
+### 2. Instalar, operar y explotar un nuevo radioenlace en la banda de 7 GHz
+
+Asignación de Frecuencias
+
+Estación A Estación B
+
+Estación Frecuencia Estación Frecuencia
+
+Tx de A B Tx de B A
+
+Salto del Laja 7.526,0 MHz Los Angeles 7.687,0 MHz
+
+Características Técnicas
+
+VER DIARIO OFICIAL DE 22.05.2004, PÁGINA 9.
+
+Ubicación
+
+Coordenadas Geográficas
+
+Estación Dirección, Región Lat. Sur Long. Oeste
+
+comuna
+
+Retazo C,
+
+parcela 9
+
+de la
+
+parcelación
+
+Lima,
+
+Salto del Los Angeles 8 37º13'48" 72º22'03"
+
+Laja
+
+Los
+
+Angeles Cerro
+
+Curamávida,
+
+Los Angeles 8 37º26'21" 72º22'07"
+
+Las radioestaciones de microondas se construirán en infraestructuras existentes.
+
+### 3. Los plazos serán los que se indican a continuación:
+
+Etapa Inicio Término Inicio Observación
+
+Obras Obras Servicio
+
+1 6 meses 12 meses 18 meses Todos estos plazos
+
+2 6 meses 12 meses 18 meses están referidos a
+
+la fecha de
+
+publicación en el
+
+Diario Oficial del
+
+presente decreto.
+
+4. Apruébase el proyecto técnico base de la solicitud presentado por la concesionaria, en lo relacionado con los sistemas y equipos de telecomunicaciones autorizados en el presente decreto, conforme a las disposiciones técnico legales que rigen el servicio de telecomunicaciones concedido. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones.
+
+5. la autorización provisoria otorgada por resolución exenta, indicada en la letra f) de los Vistos, se extinguirá al momento de la publicación del presente decreto en el Diario Oficial.
+
+6. La concesionaria podrá prestar inmediatamente los servicios propios de su concesión, sólo si a la referida fecha de publicación la Subsecretaría hubiere recibido conforme las instalaciones y obras.
+
+7. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, tómese razón, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Víctor Garay Silva, Jefe División Concesiones.
