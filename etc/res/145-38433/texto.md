@@ -1,0 +1,5 @@
+Por Resolución Exenta N° 145 de 11 de Febrero de 1994, la Subsecretaría de Telecomunicaciones modificó la Norma para el Servcio Móvil Terrestre de Radiocomunicaciones a través de repetidora comunitaria, aprobada por Resolución Exenta N° 185, de 4 de Julio de 1984, modificada por las Resoluciones Exentas N° 195, de 26 de Abril de 1988, N° 398, de 23 de Octubre de 1992 y N° 993, de 18 de Noviembre de 1993, todas de la Subsecretaría de Telecomunicaciones.
+
+La citada Resolución elimina la destinación de los bloques de frecuencias establecida en la actual normativa para los Sistemas de Repetidora Comunitaria Multi-RTA y modifica el criterio de asignación de frecuencias, con el objeto de permitir una mayor atención de usuarios y, por consiguiente, una mejor utilización del espectro radioeléctrico, permitiendo de esta manera un incremento en el desarrollo de los Sistemas Públicos de Repetidora Comunitaria Multi-RTA.-
+
+Roberto Pliscoff Vásquez, Subsecretario de Telecomunicaciones.
