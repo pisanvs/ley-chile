@@ -1,0 +1,7 @@
+ENTIDADES RELIGIOSAS DE DERECHO PÚBLICO
+
+EXTRACTO
+
+En Linares, República Chile, 9 mayo 2001, ante mí, Edison Trincado Córdova, Abogado y Notario Público Linares, domicilio calle Curapalihue 462, Oficina 103, se me ha entregado su protocolización copia decreto 1.293 del Ministerio Justicia, fecha 29 diciembre 2000, cuyo tenor es el siguiente: "Aprueba Reforma de Estatutos.- Santiago, 29 diciembre 2000.- Hoy se decretó: Número 1.293.- Vistos, estos antecedentes, lo dispuesto en decreto supremo Nº 110, de Justicia de 1979, Reglamento sobre Concesión Personalidad Jurídica, publicado Diario Oficial de 20 marzo 1979, y lo informado Sr. Gobernador Provincial Linares y por Consejo Defensa del Estado, decreto: Apruébase las reformas que se ha acordado introducir a sus estatutos la entidad denominada "Iglesia Cristiana Pentecostal", con domicilio en la provincia de Linares, Séptima Región y personalidad jurídica concedida por decreto supremo de Justicia Nº 655 de fecha 28 de abril de 1971, en los términos dan testimonio las escrituras públicas de fechas 21 septiembre 1999 y 18 octubre 2000, otorgadas en la Notaría Pública Linares de don Edison Guillermo Trincado Córdova.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República.- José Antonio Gómez Urrutia, Ministro de Justicia.- Lo que transcribo para su conocimiento.- Lo saluda atentamente, Jaime Arellano Quintana, Subsecretario de Justicia."
