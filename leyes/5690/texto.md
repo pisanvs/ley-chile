@@ -1,0 +1,1 @@
+Complementa ley 5,650, de 26 de julio de 1935, que concede gratificación al personal que indica de la Administración Pública; y deroga incisos 1°, 2° y 4° de su artículo 5°.
