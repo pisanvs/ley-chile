@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.684, de 24 de junio de 1999, se expropió el lote de terreno No. 286, superficie 1.013,0 m2., rol de avalúo 72-47, comuna de Máfil, para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno", Décima Región y se acordó el valor de indemnización con su propietaria Vitalia Cárdenas Martínez, ascendente a la cantidad de $ 2.132.947.-
+
+Fiscal del Ministerio de Obras Públicas.
