@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°5l de 30 de enero de 1998, se dejó sin efecto la expropiación del lote N° 2, que figura a nombre de Carlos Schwalm Bielefeldt, rol de avalúo N°334-71, comuna de Río Negro, superficie 840 m2, para la obra Mejoramiento General Sistema de Alcantarillado de Río Negro,Descarga Lagunas de Estabilización, aprobada poi el Decreto M.O.P. N° 507 de fecha 22 de julio de 1996.
+
+Fiscal del Ministerio de Obras Públicas.
