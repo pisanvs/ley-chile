@@ -1,0 +1,3 @@
+Por decreto MOP Nº 208 de 17 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco el lote de terreno Nº 1 para la obra: Camino Ovalle - Hurtado, Sector La Cortadera, que figura a nombre de Agrícola La Cortadera Ltda., Rol de avalúo 55-1, comuna de Río Hurtado, IV Región, superficie 165.115 m². La Comisión de Peritos, fijó con fecha 14 de agosto de 2000, en la cantidad de $11.707.475.-, para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
