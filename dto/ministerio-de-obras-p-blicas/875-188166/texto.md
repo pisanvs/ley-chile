@@ -1,0 +1,3 @@
+Por decreto MOP Nº 875 de fecha 31 de mayo del 2001, se expropiaron los lotes de terreno Nºs. 4 y 7, superficie 10.328.20 m² y 2.629.50 m², rol de avalúo 5056-22, comuna de Barranco Amarillo, para la obra "Construcción Caleta de Pescadores de Punta Arenas en Barranco Amarillo", y se acordó el valor de indemnización con su propietaria María Eudosia Soto Soto, ascendente a la cantidad de $37.316.065.-
+
+Fiscal del Ministerio de Obras Públicas.
