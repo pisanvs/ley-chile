@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 44, de 23 de febrero de 1993, se expropiaron los lotes de terreno N°s. 7 y 9, superficies 310 m2. y 223 m2., respectivamente, roles de avalúo 149-28 y 482-27, Comunas de Pemuco y Yungay, para la Obra Camino Pemuco- Yungay, y se acordó precio de indemnización con sus propietarios Salvador A. Matus Vega y Nora E. Otarola Galaz, ascendente a las cantidades de $145.332.- y $116.706.-
+
+Fiscal del Ministerio de Obras Públicas.
