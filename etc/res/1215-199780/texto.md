@@ -1,0 +1,3 @@
+Por resolución Nº 1.215, de 13 de junio de 2002, modifícase los numerales 3º y 4º de la resolución Nº 894, de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Esfuerzo de la pesca artesanal de merluza del sur en la zona Chiloé-Palena, 2002", en el sentido de señalar que el límite de captura autorizado para el mes de junio se extraerá entre los días 26 y el 30 de junio de 2002, ambas fechas inclusive.
+
+Valparaíso, 13 de junio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
