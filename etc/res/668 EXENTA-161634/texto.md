@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 668, de 27 de Mayo de 1985, conforme art. 5º transitorio Código de Aguas, determinó derechos de Aprovechamiento de Aguas proporcionales que corresponden a reserva y sector expropiado predio "Hijuela Número Ocho o San Jorge del Fundo La Quebrada de Quilpué o Jahuel", de la comuna de Santa María, Quinta Región; y derechos aprovechamiento de aguas que corresponden a las parcelas Nº 46 a la 66, años Nº 51 al 64 y de parte del Proyecto de Parcelación "Chorrillos", formado por predio señalado. Los derechos de agua se extraen del canal Quilpué por los ramales Jahuel y Quilpué Alto y derrames por canales Zaino y San Miguel. Publicación hecha conforme art. 13, Ley Nº 18.377.-
+
+Director Ejecutivo.
