@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.460, de 24 de mayo de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201102018 presentada por COOPERATIVA DE TRABAJO SAN JUAN, para instalar y operar un centro de cultivo ubicado al sur de desembocadura de río San Juan, ensenada San Juan, Bahía Corral, X Región.
+
+Valparaíso, 24 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
