@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.034, de 31 de julio de 2001, modificado por decreto exento MOP N° 78 de 10 de marzo de 2003, se expropió el lote de terreno Nº70 para la obra: "Red Vial Litoral Central. Sector 2: Camino Algarrobo - Casablanca (Ruta F-90). Km. 0.000,00 al Km.
+
+32.100,00", Quinta Región, que figura a nombre de Melkonian Cadi Alberto, rol de avalúo 277-34, comuna de Algarrobo, superficie 268 m2. La comisión de peritos integrada por los señores Marlene Teresa Ríos Marcuello, Luis Pablo Padilla Vergara y Joaquín Prieto Ochagavía, fijó con fecha 23 de febrero de 2002, el valor provisional de la indemnización en la cantidad de $1.510.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
