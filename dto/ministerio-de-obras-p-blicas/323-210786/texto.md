@@ -1,0 +1,3 @@
+Por decreto MOP Nº 323 de fecha 31 de marzo del 2003, se expropiaron los lotes de terrenos Nºs 1 y 2, superficies 3.059,50, 1.982,89 m2 respectivamente, Rol de Avalúo Nº 265-45, comuna de Lumaco, IX Región para la obra "Camino Acceso Puente Manzanar - Relún, Sector Puente Manzanar, tramo Km. 0,00000 a Km. 0,220" y se acordó el valor de indemnización con su propietaria Gimena Regina Lacostre Sepúlveda y Otros, ascendente a la cantidad de $4.974.601.
+
+Fiscal del Ministerio de Obras Públicas.
