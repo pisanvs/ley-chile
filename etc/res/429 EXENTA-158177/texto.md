@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta No. 429 de 16 de Abril de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predios "Hijuela Poniente del Antiguo Fundo Hijuela Segunda Santa Teresa" e "Hijuela B Hornillas hoy Fundo Santa Adelaida" de la comuna de Melipilla, Región Metropolitana; y Derechos Aprovechamiento Aguas que corresponden a parcelas N°s. 1 a la 21 y sitios N°s. 4 al 18 y 23 al 25 del Proyecto de Parcelación "Los Copihues - El Nogal" formado, entre otros, por predios señalados. Los derechos de Agua se extraen de los canales Mallarauco e Higuerillas; Derrames y sobrantes de la Hijuela Cuarta; Derrames y vertientes provenientes de la Exclusión de don Enrique Urrutia M.- Publicación hecha conforme Art. 13, Ley No. 18.377.-
+
+Director Ejecutivo.
