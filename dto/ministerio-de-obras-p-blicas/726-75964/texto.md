@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 726, de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs. 15, 16 y 17, superficies 6.120, 6.520 y 9.440 M2. respectivamente, roles de avalúo 185-60, 185-59 y 185-58 comuna de Arauco, para la obra Camino Arauco-Llico, sector Curaquilla - Llico y se acordó precio de indemnización con sus propietarios José Figueroa Campos, José Carvallo Sáez y Margarita Sáez Contreras y otros, ascendentes a las cantidades de $1.266.085, $1.340.101.- y $1.880.418.
+
+Fiscal del Ministerio de Obras Públicas.
