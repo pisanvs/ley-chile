@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 660 de fecha 30 de abril de 2004, se expropiaron los lotes de terreno Nº 1, 2 y 3, superficies 1.254,23 m², 600,41 m² y 711,35 m², rol de Avalúo Nº 256-31, comuna de Vilcún, para la obra "Estudio de Ingeniería Varios Puentes en la IX Región, sector Puente El Trueno, Camino Lautaro - Ventrenco - Cherquenco, Km. 0,00000 al Km. 0,29525", IX Región y se acordó el valor de la indemnización con su propietario Juan Luis Venegas Real, ascendente a la cantidad de $1.028.946.
+
+Fiscal del Ministerio de Obras Públicas.
