@@ -1,0 +1,3 @@
+Por decreto MOP Nº479, de fecha 28 de febrero de 2002, se expropió el lote de terreno Nº402, superficie 1.774 m2, rol de avalúo 33-230, comuna de Pichidegua, VI Región, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Km. 12,70000 al 16,48000" y se acordó el valor de indemnización con su propietario don Arturo Luis Matus Fredes, ascendente a la cantidad de $11.304.110.-
+
+Fiscal del Ministerio de Obras Públicas.
