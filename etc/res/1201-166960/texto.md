@@ -1,0 +1,5 @@
+AUTORIZA A PESCA CHILE S.A. PARA REALIZAR FAENAS DE PESCA EXPLORATORIA Y DENIEGA SOLICITUD DE RECONSIDERACION QUE INDICA
+
+Por resolución No. 1.201, de 08 de Octubre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesca Chile S.A., domiciliada en Santiago, para realizar faenas de pesca exploratoria, consistentes en la ejecución de un Convenio de Investigación Pesquera suscrito con el Instituto de Fomento Pesquero, cuyo objetivo es la investigación de recursos de peces demersales en aguas interiores de la XI Región, exceptuando las siguientes sub-áreas: Canales Puyuguapi y Jacaf e Islas grupo Gala. Los cruceros de prospección y exploración se realizarán con la embarcación "Chomapi Maru". La presente autorización se otorga por un plazo de 6 meses y comenzará a regir desde que la interesada comunique al Servicio Nacional de Pesca el inicio de las operaciones. Se deniega solicitud de reconsideración de prórroga de plazo que indica.
+
+Valparaíso, 08 de Octubre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
