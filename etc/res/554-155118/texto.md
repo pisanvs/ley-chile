@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA SOPESA-ALIMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución Nº 554, de 23 de Noviembre de 1984, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Sopesa-Alimar S.A., domiciliada en Santiago, para operar las embarcaciones "Tupungato", "Lonquimay" y "Cristóbal Colón", individualizadas en la resolución 209, de 1984, de la misma Subsecretaría, en el litoral de las Regiones Cuarta a la Octava, con redes de cerco, en la extracción de jurel, sardina común, sardina española, anchoa y caballa. Además, se le autoriza para instalar y operar en bahía de Mejillones, una planta de harina y aceite de pescado, en la que podrá utilizar como materia prima los recursos hidrobiológicos antes mencionados.
+
+Santiago, 23 de Noviembre de 1984.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
