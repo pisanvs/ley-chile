@@ -1,0 +1,7 @@
+Por Resolución Nº 119, de 13 de Febrero de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA COLOMBA S.A., R.U.T. Nº 96.530.830-K, domiciliado en Santiago, para ampliar actividades pesqueras extractivas, autorizadas por Resolución Nº 547, de 1988 de esta Subsecretaría, en orden a operar las embarcaciones individualizadas en la Resolución citada, en las zonas y respecto de los recursos allí señalados y además en los siguientes: a) En el litoral de la IV a VII Región, con cerco: Agujilla, Caballa y Sardina común; b) En el litoral de la III a VII y IX Región, con cerco: Merluza de cola.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Deniégase la autorización para capturar los recursos solicitados y no mencionados en el texto de esta Resolución, en virtud de lo dispuesto en el Art. 19 letra c) del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción que fijó del texto refundido, coordinado y sistematizado de la ley Nº 18.892 y sus modificaciones contenidas en las leyes Nº 19.079 y Nº 19.080.
+
+Valparaíso, 13 de Febrero de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
