@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 329, de 31 de marzo de 1997, se expropió el lote de terreno Nº 24, superficie 3.415 M2., rol de avalúo 60-18, comuna de Palmilla, obra Camino Santa Cruz Palmilla, sector Ruta I-720, por Barreales y se acordó precio de indemnización con su propietaria Sociedad Agrícola y Comercial Cruz del Sur Limitada, ascendente a la cantidad de $6.569.582.-
+
+Fiscal del Ministerio de Obras Públicas.
