@@ -1,0 +1,3 @@
+Por resolución exenta No. 365 de 03.08.87 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se autoriza a Dn. Orlando René Valencia Ramírez, para efectuar el Servicio de Taxi Colectivo Urbano, Linea La Manzana No. 3 de Rancagua, cuyo trazado fue autorizado por resolución exenta No. 18, de 29.06.84, de esta Secretaría Regional.
+
+Rancagua, 03 de Agosto de 1987.- Rigoberto Gómez Lavín, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
