@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.902, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 34-A y 34-B, superficies 2.331 m² y 1.078 m², rol de avalúo 2252-14, comuna de Chillán, para la obra "Camino Acceso Norte a Concepción", Octava Región y se acordó el valor de indemnización con su propietaria Delcia Feliciana Venegas Marchant, ascendente a la cantidad de $734.238.-
+
+Fiscal del Ministerio de Obras Públicas.
