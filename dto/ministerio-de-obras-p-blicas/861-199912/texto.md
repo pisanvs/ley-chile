@@ -1,0 +1,3 @@
+Por decreto MOP Nº861, de 30 de abril de 2002, se expropiaron el lote de terreno Nº1, superficie 19.717 m², rol de avalúo 460-82, comuna de Retiro, para la Concesión Internacional Ruta 5 Tramo Talca-Chillán. Sector Km. 325.760,00 al Km. 326.140,00, VII Región y se acordó el valor de indemnización con doña Morelia del Carmen Domínguez Domínguez, ascendente a la cantidad de $56.230.760.-
+
+Fiscal del Ministerio de Obras Públicas.
