@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION
+
+Por resolución exenta No. 54 de fecha 23 de Enero de 1986, de la Secretaria Regional Ministerial de Transportes y Telecomunicaciones, de la Región Metropolitana se modifica el recorrido del servicio de taxi colectivo urbano de la Línea No. 126 "San Miguel" (Melipilla), autorizado por resolución exenta No. 500 de 29.06.84, quedando su nuevo trazado como sigue;
+
+LINEA No. 126 "SAN 'MIGUEL" (MELIPILLA) Circunvalación: Avda. Vicuña Mackenna - Plazoleta Villa Logroño - Avda. Vicuña Mackenna - Avda. Santiago - Baquedano - Avda. Vicuña Mackenna - Avda. Manuel Rodríguez, Vargas - Plaza de Armas - Ortúzar - San Miguel - Pardo - Avda. Manzo - Nihue - Avda. Chile - C. Wood - J Inostroza hasta Cementerio - J. Inostroza - C. Wood - Avda. Chile - Nihue - Avda. Manzo - Correa -Avda. Chile - Eusebio Lillo -C. Wood - Avda. Cementerio - Avda. Chile - Pajaritos -Miraflores - Los Aromos -Pajaritos - Avda. Chile - Avda. Cementerio- J, Inostroza - C. Wood - Avda. Chile -Nihue - Avda. Chile - C. Wood J. Inostroza - Avda. Cementerio - C. Wood -Eusebio Lillo - Avda. Chile -Correa - Avda. Manzo -Hurtado - Libertad - Avda. Serrano - plaza de Armas -Serrano - Ugalde - Avda. Manuel Rodríguez - Avda. Vicuña Mackenna - Baquedano - Avda. Santiago - Avda. Vicuña Mackenna - hasta Industria Soinca - Avda. Vicuña Mackenna Hasta Plazoleta Villa Logroño.-
+
+Carlos Roman Toro, Secretario Regional Ministerial Transportes y Telecomunicaciones de la Región. Metropolitana.
