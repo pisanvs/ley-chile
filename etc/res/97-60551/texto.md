@@ -1,0 +1,7 @@
+Por Resolución Nº 97, de 22 de enero de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA IQUIQUE GUANAYE S.A., para sustituir las naves "Parina I", "Salmón", "Blanquillo" y "Peter Schmidt", autorizadas por las Resoluciones Nº 350 de 1984, Nº 302 de 1985, Nº 827 de 1988, Nº 1.478 de 1989, Nº 1.368, de 1992, Nº 377, Nº 379 de 1993, todas de esta Subsecretaría, por tres naves, la tercera de las cuales se encuentra en construcción, en el litoral que se indica donde podrá capturar los siguientes recursos hidrobiológicos: a) Litoral de la I y II Regiones, por fuera del área de reserva artesanal, con red de cerco: Anchoveta, Jurel y Sardina española; b) Litoral de la III Región, por fuera del área de reserva artesanal, con red de cerco: Anchoveta y Sardina española.
+
+Además la interesada podrá capturar en todo el litoral señalado precedentemente y con el mismo arte de pesca, los siguientes recursos hidrobiológicos: Agujilla, Anchoveta, Bonito, Cochinilla, Caballa, Cabinza, Cojinoba del norte, Dorado, Jurel, Machuelo o tritre, Merluza de cola, Palometa, Sardina española, Sardina común y Sierra.
+
+Deniégase la autorización solicitada por la peticionaria respecto de las áreas de pesca y recursos hidrobiológicos no contemplados en la presente Resolución, en virtud de los informes técnicos y normas legales y reglamentarias.
+
+Valparaíso, 22 de enero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
