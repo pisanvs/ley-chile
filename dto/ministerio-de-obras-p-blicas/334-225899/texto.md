@@ -1,0 +1,3 @@
+Por decreto MOP Nº 334, de 27 de abril de 2004, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3A, para la obra: Camino Ruta T-665, sector Llifén - Calcurrupe, Tramo Km. 75,75334 a Km. 77,62103, que figura a nombre de Zagner Leighton Ida Isabel, rol de avalúo 60-47, Comuna de Futrono, X Región, superficie 872,5 m2.La comisión de Peritos, fijó con fecha 23 de agosto de 2000, en la cantidad de $13.366.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
