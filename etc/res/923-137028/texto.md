@@ -1,0 +1,3 @@
+Por resolución Nº 923, de 20 de mayo de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 408 de 1987, de esta Subsecretaría, que autorizó a PESQUERA SIRIUS ACHERNAR LTDA., para operar la nave ''Nisshim Maru Nº 3'', sólo en lo relativo a la especie Merluza común, en el litoral comprendido entre la IV y la X Regiones.
+
+Valparaíso, 20 de mayo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
