@@ -1,0 +1,3 @@
+Por decreto MOP Nº244, de fecha 30 de noviembre de 2000, se expropiaron los lotes de terreno Nºs. 4 y 5-A, superficies 7.555 m² y 7.940 m², respectivamente, rol de avalúo 524-252, comuna de Tirúa, para la obra "Camino Tirúa - Trovolhue - Carahue, Sector Km. 15.130.00 a Km. 19.060.00" y se acordó el valor de indemnización con su propietario Julio Hernán Carbullanca de la Vega y Otros, ascendente a la cantidad de $4.316.013.-
+
+Fiscal del Ministerio de Obras Públicas.
