@@ -1,0 +1,3 @@
+Por resolución Nº 2.688, de 21 de diciembre de 2000, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95103208, presentada por la CORPORACION MUNICIPAL DE EDUCACION, SALUD Y ATENCION AL MENOR, para el centro de cultivo ubicado en estero Mechai, comuna de Queilén, provincia de Chiloé, X Región.
+
+Valparaíso, 21 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
