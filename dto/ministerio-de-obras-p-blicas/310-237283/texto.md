@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 310, de 30 de abril de 1996, se expropiaron los lotes de terreno N°s. 91, 94, 97, 98, 99 y 100, superficies 2.233 M2, 3.723 M2, 70 M2, 4.137 M2, 7.116 M2, 1.736., rol de avalúo 313-35 comuna de Quirihue, para la obra Camino Cauquenes Límite Regional Quirihue Sector Cuesta y se acordó precio de indemnización con su propietario Margot Urrutia Concha, ascendente a la cantidad dé $2.034.696.
+
+Ministerio de Obras Públicas.
