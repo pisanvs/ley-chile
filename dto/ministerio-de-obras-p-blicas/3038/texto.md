@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.038, de 30 de septiembre de 1999, se expropiaron los lotes de terreno Nºs. 27 y 52-A, superficies 319 m² y 3.925 m², roles de avalúos 9.317-296 y 9.316-7, comuna de Valparaíso, obra Proyecto Habilitación Nuevo Camino La Pólvora, Etapa I, sector Ruta 68-Acceso Sur a Valparaíso y se acordó precio de indemnización con sus propietarios Kurt Zahlhaas Elso y Luis Foppiano Cordano, ascendente a las cantidades de $1.363.863 y $12.142.475.
+
+Fiscal del Ministerio de Obras Públicas.
