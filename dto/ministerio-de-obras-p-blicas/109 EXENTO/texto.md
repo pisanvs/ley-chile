@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 109, de fecha 25 de febrero de 2002, se expropió el lote de terreno Nº 21, superficie 12.314 m2., rol de avalúo Nº 206-15, comuna de Lebu, para la obra "Camino Ruta P-30, Sector Lebu-Millonhue, Km. 0,00000 a Km. 9,47777" y se acordó el valor de indemnización con su propietario Forestal Tierra Chilena Limitada, ascendente a la cantidad de $2.034.071.
+
+- Fiscal del Ministerio de Obras Públicas.
