@@ -1,0 +1,9 @@
+Represion del bandolerismo
+
+Santiago, 5 de Junio de 1818.
+
+Los frecuentes i escandolasos robos que se cometen diariamente, tienen en inquietud a los vecinos de la Capital, que miran amenazada su existencia i la seguridad de sus bienes, i es necesario un remedio activo i pronto para atajar un mal de tanta trascendencia. Al efecto, confiero la comision necesaria al Alcalde don José María Guzman, para que dentro del mas breve término, forme procesos, sumarios e instructivos contra los ladrones, que hayan sido sorprendidos en el acto del robo o de intentarlo, prescindiendo de las fórmulas i sustanciaciones comunes, en términos que comprobados los delitos por conviccion, aunque estén inconfesos los reos, pueda proceder a sentenciar las causas definitivamente pasar las a la Cámara de Justicia para su aprobacion. La Cámara deberá despachar estos negocios en el dia, i con preferencia a las demas, para que el Juez a quo pueda proceder a su ejecucion dentro de veinticuatro horas en las que contengan pena capital, i en las demas con la brevedad conveniente, segun el delito, al escarmiento de los criminosos, i a la satisfaccion de la vindicta pública.
+
+Esterminada por dichos medios esta primer clase de facinerosos, continuará el Alcalde con su comision, dedicando su notorio celo e interes por el bien público a purgar la Ciudad de los demas viciosos, rateros, holgazanes, imponiéndoles penas proporcionadas a sus crímenes: teniendo presente, que el pronto castigo de los delitos, es el medio mas seguro de que se acaben con el escarmiento los viciosos.-
+
+Trascríbase este decreto al Alcalde comisionado i a la Cámara de Justicia para su puntual cumplimiento.- O'Higgins.- Irisarri.
