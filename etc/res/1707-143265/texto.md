@@ -1,0 +1,3 @@
+Por resolución Nº 1.707, de 2 de septiembre de 1999, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 246 de 1990, de esta Subsecretaría, en cuanto autorizó a PESQUERA LOS FIORDOS LIMITADA, para instalar y operar el centro de cultivo correspondiente al sector 1 de dicha resolución, ubicado en Canal Puyuhuapi, Comuna de Cisnes, Provincia de Aysén, XI Región.
+
+Valparaíso, 2 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
