@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.032, de 29 de mayo de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº118. Obra: Camino Ruta D-595, Ovalle Hurtado, sector Tranque Recoleta-Samo Alto Tramo Kms. 9.780 al 31.840, que figura a nombre de Hugo Perines Alvarez, rol de avalúo 9-35, comuna de Río Hurtado, IV Región, superficie 33 M2. La comisión de peritos, fijó con fecha 10 de octubre de 1999, en la cantidad de $146.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
