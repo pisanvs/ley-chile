@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.385, de 31 de mayo de 1999, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+Nº850, de 1977, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs.105 y 105-A; para la obra Camino Cauquenes - Límite Regional - Quirihue, Sector Cuesta, Km. 17.780,00 a Km. 40.504,64, que figuran a nombre de Luis Bartolomé Díaz, Rol de Avalúo 315-17, comuna de Quirihue, VIII Región, superficies 3.425 y 2.251 M2., La Comisión de peritos compuesta por los señores Ramón Jofré Soto, Manuel Concha Rojas y Manuel Gálvez Alegría, fijó con fecha 9 de febrero de 1995, el valor provisional de las indemnizaciones en la cantidad de $582.375.- lote 105 y $348.845.- lote 105-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
