@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.493, de 31 de julio del 2000, se expropió el lote de terreno Nº11-j, superficie 166 m², rol de avalúo 4-1, comuna de Constitución, para la obra Camino M-24-K con Ruta M-50 Sector: Accesos Puente Maule en Constitución Tramo: Km. 47.920 - Km. 53.820 y se acordó precio de la indemnización con su propietaria Sociedad de Transportes de Pasajeros y Turismo Autotur Limitada, ascendente a la cantidad de $1.199.854.-
+
+Fiscal del Ministerio de Obras Públicas.
