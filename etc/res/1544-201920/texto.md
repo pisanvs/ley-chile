@@ -1,0 +1,5 @@
+Por resolución Nº 1.544 de 26 de julio de 2002, modifícase el numeral 3º de la resolución Nº 1.341 de 2002, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Esfuerzo de la pesca artesanal de merluza del sur en la zona Chiloé - Palena, 2002", en el sentido de señalar que el remanente no capturado del límite autorizado para el mes de julio, podrá extraerse en el período comprendido entre el 26 y el 31 de julio, ambas fechas inclusive.
+
+Para estos efectos, el Servicio Nacional de Pesca determinará los días de inicio y término del período de extracción, los cuales serán comunicados oportunamente a los interesados.
+
+Valparaíso, 26 de julio de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
