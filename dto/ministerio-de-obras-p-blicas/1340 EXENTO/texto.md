@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1340, de 28 de septiembre de 2001, y en base a la facultad otorgada por el artículo 105 del DFL. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 2 y 3, para la ejecución de la obra "Camino El Cuzco-Litueche, Rol S/R desde Km. 0.000 al Km. 2.423, tramo Km. 0.000 al Km.
+
+0.950", que figuran a nombre de Blanca Donoso Guerrero y Ots. y Cecilio Guerrero Castro, Rol de Avalúo 42-21 y 41-6, de la comuna de Litueche, VI Región, superficies 3.112 y 3.388 m2. La comisión de peritos fijó con fecha 9 de junio de 1997, la indemnización provisional en la cantidad de $1.060.160, lote 2 y $1.209.840, lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
