@@ -1,0 +1,15 @@
+Por resolución N° 65 de 1° de Febrero de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a COMERCIAL COMTESA S.A., R.U.T. N° 94.565.000-1, para ampliar las actividades que tiene autorizadas por Resolución N° 390, de 1987, de esta Subsecretaría, en orden a instalar y operar una planta industrial en la XI Región, ubicada en calle Cirujano Allende Padín N° 255, Puerto Chacabuco, donde podrá elaborar en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Fresco: Bacalao de profundidad o mero, Chancharro, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Lenguado ojos chicos, Lenguado ojos grandes, Merluza común, Merluza del sur, Merluza de cola, Pejerrey de mar, Raya, Róbalo, Salmón del atlántico, Salmón del pacífico, Trucha arco iris, Sardina común, Tollo; Fresco-congelado y conservas: Almeja o taca, Almeja, Calamar, Cholga, Chorito, choro, Culengue, Lapa, Macha, Navajuela, Navaja de mar o huepo, Ostra chilena, Ostra del pacífico, Pulpo; Congelado: Anchoa o anchoveta, Brótula, Bacalao de profundidad o mero, Chancharro, Cojinoba del sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Lenguado ojos chicos, Lenguado ojos grandes, Merluza común, Merluza del sur, Merluza de cola, Pejerrey de mar, Puye, Raya, Róbalo, Salmón del atlántico, Salmón del pacífico, Sardina común, Trucha arco iris, Tollo, Congelado y convervas: Cangrejo panchote, Centolla, Centollón, Langostino amarillo, Langostino colorado, Jaiba, Jaiba mora, Picoroco, Erizo, Piure; Conservas: Anchoa o anchoveta, Bacalao de profundidad o mero, Cojinoba del sur, Merluza común, Merluza del sur, Merluza de cola, Pejerrey de mar, Puye, Salmón del atlántico, Salmón del pacífico, Sardina común, Trucha arco iris; Ahumado y seco salado: Anchoa o anchoveta, Bacalao de profundidad o mero, Cobinoba del sur, Merluza común, Merluza del sur, Merluza de cola, Pejerrey de mar, Salmón del atlántico, Salmón del pacífico, Sardina común, Trucha arco iris, Almeja o taca, Almeja, Cholga, Chorito, Ostra chilena, Ostra del pacífico, Pulpo y Piure.
+
+La materia prima será abastecida por su propia flota autorizada y pescadores artesanales de la IX o X Región.
+
+Deberá adquirir los recursos Ostión del norte, Ostra del pacífico, Salmón del atlántico, Salmón del pacífico y Trucha arco iris, de centros de cultivo autorizados.
+
+El abastecimiento del recurso Langostino colorado deberá provenir de las personas que cuenten con permisos extraordinarios de pesca para este recurso y dentro de los períodos en que su captura esté permitida.
+
+El recurso pulpo deberá referirse a individuos mayores de un Kg. de peso.
+
+Los recursos Centolla y Erizo deberán provenir de zonas no afectas a restricción, lo que se acreditará mediante guía de libre tránsito emitidos por el Servicio Nacional de Pesca.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 1° de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
