@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.406 de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 20-A, superficie 61.00 m², Rol de Avalúo 614-47, comuna de Molina, VII Región, para la obra ''Camino Ruta K-175, Molina - Siete Tazas, Sector Molina - Bif. Ruta K-179, Tramo Km. 0,000.00 al 8,400.00'' y se acordó el valor de indemnización con su propietario don Luis Bernardo Espinoza Acevedo, ascendente a la cantidad de $476.556.
+
+- Fiscal del Ministerio de Obras Públicas.
