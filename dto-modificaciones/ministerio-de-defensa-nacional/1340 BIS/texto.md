@@ -840,6 +840,12 @@ En los casos que la "recalada forzosa" se deba a embarcar o desembarcar práctic
 
 Si la recalada se debiera al hecho de tener que hospitalizar a un enfermo grave o dejar un cadáver, además del capitán de puerto intervendrá la Sanidad, la cual constatará la índole de la enfermedad y dispondrá las medidas sanitarias que el caso aconseje.
 
+#### Artículo 142 bis
+
+Toda nave extranjera que arribare a algún punto del litoral, aduciendo tratarse de una recalada forzosa, deberá justificarlo adecuadamente ante la Autoridad Marítima correspondiente. Si no pudiera hacerlo, será obligada a abandonar las aguas interiores o el mar territorial de la Nación, previo entero de la multa correspondiente.
+
+> **Nota.** La letra b) del Decreto 215, Defensa, publicado el 29.03.1965, dispone agregar al margen del presente artículo la siguiente expresión: "$ 30 por tonelada gruesa de registro.".
+
 ## Capítulo XVI
 
 Conducción de enfermos de males epidémicos
@@ -1262,6 +1268,10 @@ Cuando una persona sea sorprendida a bordo, en alta mar, sin el debido pasaje ex
 
 El capitán de puerto, sin perjuicio de lo anterior, iniciará la investigación sumaria del caso para establecer si existen cómplices y aplicar las sanciones correspondientes.
 
+#### Artículo 221 bis
+
+Las naves que hubieren infringido lo dispuesto en el inciso 2º del Art. 244, no podrán zarpar mientras no hayan satisfecho íntegramente la multa correspondiente.
+
 ## Capítulo XXIV
 
 Transporte de pasajeros
@@ -1398,7 +1408,21 @@ Pesca y caza marina
 
 #### Artículo 244
 
-Se podrá pescar y cazar libremente en los mares; pero en el mar territorial sólo podrán hacerlo los chilenos y los extranjeros domiciliados. Se podrá también pescar y cazar libremente en los ríos y en los lagos de uso público, sin otra restricción que lo dispuesto en la Ley de Pesca y Caza y su Reglamento . Los capitanes de puerto velarán por el cumplimiento de los Reglamentos sobre pesca que dicte el Ministerio de Fomento y exigirán que los pescadores estén matriculados conforme al Reglamento de Matrícula e Inscripción de Gente de Mar.
+Dentro de las aguas chilenas sólo podrán cazar y pescar libremente los chilenos y los extranjeros domiciliados, salvo los extranjeros no domiciliados que cuenten con la correspondiente autorización y en las condiciones que disponga la autoridad competente. Se podrá también pescar y cazar libremente en los ríos y lagos de uso público, sin otra restricción que la dispuesta en la Ley de Pesca y Caza y su Reglamento. Los Capitanes de Puerto velarán por el cumplimiento de los Reglamentos sobre Pesca y Caza que dicte el Ministerio de Agricultura y exigirán que los pescadores estén matriculados conforme al Reglamento General de Matrícula para el Personal de Gente de Mar, Fluvial y Lacustre.
+
+Los barcos pesqueros y los caza-ballenas de nacionalidad extranjera que, sin la debida autorización o excediendo los términos de ella, fueren sorprendidos pescando o cazando dentro de las aguas chilenas, serán aprehendidos y conducidos a puerto, donde la Autoridad Marítima instruirá la investigación sumaria correspondiente con el fin de determinar la naturaleza de la infracción cometida.
+
+Se considerará infractora a toda nave que sea encontrada en las aguas y mar referido, aun cuando no sea portadora de productos de pesca o caza alguno, si no pudiera justificar ampliamente la razón de su permanencia en tales aguas y mar.
+
+El producto de la pesca y de la caza caerá en comiso. El Inspector Local de Pesca y Caza venderá dicho producto y los dineros que se obtengan con la venta serán enterados en la Tesorería correspondiente en cuenta de depósito, hasta el término del sumario correspondiente.
+
+La nave infractora podrá zarpar en cualquier momento, aun durante la substanciación del sumario, si su Capitán reconoce por escrito haber cometido la infracción y si se entera el máximo de la multa que corresponda aplicar conforme al inciso 2.º.
+
+La resolución definitiva del sumario corresponderá al Director del Litoral y de Marina Mercante quien habiendo mérito para ella, deberá pronunciarse sobre el monto de la multa a aplicar y confirmará el comiso de las mercaderías, cuyo valor se ingresará en arcas fiscales con cargo al depósito efectuado en su oportunidad, sin perjuicio del pago de la multa correspondiente.
+
+El Capitán de la nave tendrá personería suficiente para representar a los Armadores de la nave. El Capitán de la nave o aeronave de bandera nacional que haya constatado la presencia de barcos pesqueros o caza-ballenas extranjeros en las aguas y mares indicados en el inciso 2.º, queda obligado a denunciar el hecho por radio a las autoridades respectivas, señalando con precisión la ubicación de dichos barcos.
+
+> **Nota.** La letra e) del Decreto 215, Defensa, publicado el 29.03.1965, dispone agregar al margen del inciso segundo del presente artículo la siguiente expresión: "$ 50 a $ 250 por tonelada gruesa de registro. Asimismo, dispone agregar al margen del inciso final la expresión: "$ 500."
 
 #### Artículo 245
 
