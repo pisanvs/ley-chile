@@ -1,0 +1,3 @@
+Por resolución Nº569, de 24 de abril de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, dejáse sin efecto la resolución Nº138 de 1991, de esta Subsecretaría, que autorizó a LUIS OMERO PAREDES CONTRERAS, para instalar y operar el centro de cultivo ubicado en la localidad de Chuyaquén, Río Maullín, comuna de Maullín, X Región, por haberse derogado el respectivo decreto de concesión de acuicultura.
+
+Valparaíso, 24 de abril de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
