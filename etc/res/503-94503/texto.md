@@ -1,0 +1,3 @@
+Por resolución No. 503, de 17 de mayo 1989, de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2186 de 1978, inmueble ubicado en Avda. Portugal 496, presunto rol avalúos 581-18 comuna Santiago, aparentemente dominio de Ameterio Moreno San Juan. Comisión integrada por peritos René Ureta Koster, Teresa Sancho Pernas, arquitectos, Miguel Haltenhoff Aenishanalin, constructor civil, según informe de 16 de enero 1989, fijó monto provisional indemnización en $ 11.850.000, pagadera al contado.
+
+- Director SERVIU Metropolitano.
