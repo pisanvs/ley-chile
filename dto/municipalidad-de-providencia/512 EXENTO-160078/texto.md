@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIONES QUE INDICA
+
+Alcaldesa I. Municipalidad de Providencia, mediante Decreto Alcaldicio Ex. No. 512 de fecha 17 de marzo de 1992, dispone expropiación parcial, conforme Art.
+
+4,6,7,21,y 39 del DL 2.186. de 1978, Ley Orgánica de Procedimiento de Expropiaciones ; Art. 35,38,42,48,51,83 y 85 del DFL No. 458 de Vivienda, de 1976 Ley General de Urbanismo y Construcciones Art. 19 No. 24 de la Constitución Política del Estado y Art. 5,10,27,53,55 letra f) y 78 letra f) de la Ley No. 18.695 Orgánica Constitucional de Municipalidades, del inmueble ubicado en calle La Concepción No. 45-65 Rol de Aváluos No. 32-2 y 23-3 aparentemente de propiedad de sucesión Erne Bertonati Marengo para dar cumplimiento al Plan Comunal Regulador de Providencia. Los deslindes del inmueble expropiado son los siguientes: Norte, 31,90 mts. con otra propiedad, Sur, 32,74 mts, con propiedades vecinas, Oriente 13,30 mts, y 12,90 mts. con propiedades vecinas, y al Poniente, 26,20 mts. con calle La Concepción. Indemnización provisional de $ 18.602.000 fijada en el mes de septiembre de 1991 por la Comisión Tasadora integrada por los Sres. Roberto Correa Bezanilla, Hans Weber Munich y Patricio Bunster Larraguibel, pagadera de contado.
+
+C.G. de A. Alcaldesa firmado J.O.H.R.
