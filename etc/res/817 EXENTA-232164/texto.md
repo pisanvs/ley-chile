@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES EXENTAS QUE SE INDICAN, QUE DELEGAN FACULTAD DE EMITIR CERTIFICADOS DE EXENCION, EXENCION PARCIAL, DE PAGO TOTAL Y DE TRANSCURSO DE PLAZOS PARA REVISAR, LIQUIDAR Y GIRAR IMPUESTOS DE HERENCIAS Y EMITIR CERTIFICADOS DE EXENCION Y DE PAGO DE IMPUESTO A LAS DONACIONES
+
+Por resoluciones exentas Nºs 152 de 7.10.2004, 817 de 19.10.2004, 102 de 22.10.2004, 575 de 13.10.2004, 540 de 25.10.2004, 24 de 27.9.2004, 1.760 de 29.9.2004, 554 de 3.11.2004, 353 de 27.9.2004, 478 de 29.10.2004, 397 de 27.10.2004, 266 de 22.10.2004, 508 de 4.10.2004, 107 de 28.9.2004, 1.076 de 5.10.2004 y 456 de 28.9.2004, respectivamente, los Directores de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI Direcciones Regionales del Servicio, delegaron la facultad de emitir certificados de exención, exención parcial, de pago total y de transcurso de plazos para revisar, liquidar y girar impuestos de Herencias, y emitir certificados de exención y de pago de impuestos a las Donaciones, en los funcionarios que en cada resolución se indican.
+
+Santiago, 3 de noviembre de 2004.- Gina Anastasov Aguilera, Secretaria General Servicio de Impuestos Internos.
