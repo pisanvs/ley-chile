@@ -1,0 +1,3 @@
+Por resolución Nº 1.604, de 17 de noviembre de 1998, de esta Subsecretaría, déjase sin efecto la autorización contenida en el numeral 8 de la resolución Nº 1.117, de 1987, de esta Subsecretaría que autorizó a PESQUERA GUAFO S.A. para instalar y operar el centro de cultivo ubicado en Huitanque, comuna de Chonchi, provincia de Chiloé, X Región.
+
+Valparaíso, 17 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
