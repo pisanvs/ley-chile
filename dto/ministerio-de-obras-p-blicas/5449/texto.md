@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.449, de 29 de diciembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 15-10 para la obra "Concesión Internacional Ruta 5. Tramo: Río Bueno-Puerto Montt. Sector: Enlace Cardonal Km.
+
+1.022,100 a Km. 1.023,500", Décima Región, que figura a nombre de Junta Vecinal Nº 6, rol de avalúo en trámite, comuna de Puerto Montt, superficie 446 m2. La comisión de peritos integrada por los señores Leopoldo Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Nelson Fabián Igor Flores, fijó con fecha 9 de junio de 2000, el valor provisional de la indemnización en la cantidad de $23.349.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
