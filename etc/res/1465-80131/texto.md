@@ -1,0 +1,7 @@
+Por resolución No. 1.465, de 02 de Diciembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a PESQUERA EL GOLFO S.A., R.U.T. No. 96.237.000-4, domiciliada en Talcahuano, para continuar desarrollando las actividades pesqueras autorizadas a Sociedad Pesquera El Golfo Stengel y Cía. Ltda., por las Resoluciones No. 350, de 1981; No. 41 y No.
+
+72, ambas de 1983; No. 260 y No. 739, ambas de 1985; y No. 987, de 1986, todas de esta Subsecretaría, y para sustituir las embarcaciones denoninadas "Tucano", "Hakon", "Felita", y "Angélica" autorizadas por bs Resoluciones No. 1.435, de 1987 y No. 350, de 1981, ambas de esta Subsecretaría, en lo que concierne a su operación en el litoral comprendido entre la V y la X Región, por 2 embarcaciones en construcción, las que podrán extraer los mismos recursos hidrobiológicos que tenían autorizados las naves reemplazadas, y los que a continuación se incluyen, esto es: Anchoa, Caballa, Jurel, Sardina Común, Sardina, Merluza de cola, Cojinoba del Norte, Agujilla, y Machuelo o tritre.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 02 de Diciembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
