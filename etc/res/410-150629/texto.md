@@ -1,0 +1,5 @@
+AUTORIZA A COMPAÑIA PESQUERA CAMANCHACA S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS DE TRANSFORMACION
+
+Por resolución No. 410 de 08 de Mayo de 1987 de esta Subsecre taría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Compañía Pesquera Camanchaca S.A., domiciliada en Santiago para ampliar actividades pesqueras de transformación autorizadas por resolución No. 11, de 09 de enero de 1980, de esta Subsecretaría de Pesca, en orden a procesar en su planta industrial ubicada en Manuel Montt No. 1941, Tomé, VIII Región, en las líneas de elaboración de congelado, conservas y harina, además de los señalados en la citada resolución, los siguientes recursos hidrobiológicos: salmón del atlántico, trucha arco iris, salmón coho o plateado y salmón king o chonook. Deniégase autorización para procesar los recursos: salmón cereza, salmón perro o chun, salmón rojo o sockeye y salmón rosado o jorobado, en atención a que no hay producción de ellos en centros de cultivo autorizados nacionales.
+
+Valparaíso, 08 de Mayo de 1987.- Roberto Cabezas Bello, subsecretario de Pesca.
