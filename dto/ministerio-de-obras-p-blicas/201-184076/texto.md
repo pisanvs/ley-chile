@@ -1,0 +1,5 @@
+Por decreto MOP Nº 201, de 16 de febrero de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 153 y 154, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector: Km. 68.400,00 al Km.
+
+95.600,00, By Pass Rancagua", Sexta Región, que figuran a nombre de Silva Pacheco María I, rol de avalúo 11-113, comuna de Olivar, superficies 55.056 m2 y 558 m2, respectivamente. La comisión de peritos integrada por los señores René Octavio Corvalán Correa, Orlando Antonio Fariña Vásquez y Manuel Hernán Díaz Farfán, fijó con fecha 25 de octubre de 2000, el valor provisional de la indemnización en las cantidades de $387.504.962.- para el lote Nº 153 y de $857.326.- para el lote Nº 154. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
