@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº282 de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº24, superficie 90 m², rol de avalúo 31-555, comuna de Requínoa, para la obra ''Camino Ruta H-455, Sector Santa Amalia - Pimpinela, Tramo Km. 0.000,00 a Km. 12.282,94'' y se acordó el valor de indemnización con su propietario Daniel Enrique Armijo Flores, ascendente a la cantidad de $554.810.
+
+Fiscal del Ministerio de Obras Públicas.
