@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº2.040, de 31 de diciembre del 2001, se expropió el lote de terreno Nº 240-4A, superficie 17 m2., rol de avalúo 99-448, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos. Sector Km. 146.860,00 al Km. 147.200,00, Quinta Región y se acordó el valor de indemnización con su propietario Celso de las Mercedes Aspe Bruna, ascendente a la cantidad de $660.125.-
+
+Fiscal del Ministerio de Obras Públicas.
