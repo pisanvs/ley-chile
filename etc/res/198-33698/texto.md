@@ -1,0 +1,3 @@
+Por Resolución N° 198 de 13 de marzo de 1995 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, de los inmuebles ubicados en Avda. Tobalaba y calle Palena, denominados Lotes 1 y 2, presuntos roles de avalúos N° 6100-10 y s/n°, respectivamente, comuna de La Florida, aparente domino de Empresa Metropolitana de Obras Sanitarias S.A. Comisión integrada por peritos Sres. Fernando Cádiz Bouch y René Ureta Koster, arquitectos y Patricia Zavala Contreras, según informe de 23 de noviembre de 1994, fijó monto provisional indemnización en $3.894.000.- para el Lote 1 y $1.080.000.- para el lote 2, pagaderas al contado.
+
+Director SERVIU Metropolitano.
