@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. 564, DE 1984
+
+Por resolución No. 766, de 22 de Noviembre de 1985, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución 564, de 1984, de la Subsecretaría de Pesca, que autorizó a don Héctor Patricio Santiagos Donoso, para operar la embarcación en construcción denominada "Apolo", en orden a agregar en su numeral 5°, entre los recursos que puede extraer con la nave, los siguientes, que deberá destinar a su industrialización para consumo humano directo: cabinza, cojinova, cachurreta, yanqui y bonito. El interesado deberá contar a bordo de la embarcación con sistemas adecuados de preservación de la materia prima, tales como contenedores con hielo, cámaras isotérmicas o refrigeradas, sistemas R.S.W., C.S.W. o sistema champagne.
+
+Valparaíso, 22 de Noviembre de 1985.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
