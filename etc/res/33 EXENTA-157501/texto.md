@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta N° 33, de 15 de enero de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región, se autoriza a Pedro Villanueva Alocilla, Eduardo Carrasco, Eleazar Barría Medina, Osvaldo Delgado Delgado, Juan Olivera Jeldres, Julio Barría Pacheco, Edilberto Yubini Giacomozzi, ReinaIdo Placencio Andrade y Francisco Torres B., Octavio Cárdenas Angulo, Juan Godoy Pincheira, Juan González Muñoz, Julio Mura Flores, José Bermúdez Vargas, Nolberto Zúñiga Schoenffeldt, Oscar Lopetegui Navarrete para efectuar el servicio de taxi colectivo urbano de la Línea N° 45 "CORVI-Centro" de Valdivia, cuyo trazado fue autorizado por Resolución Exenta N° 337 de 19 de agosto de 1985, de esta Secretaría Regional.
+
+- Luis Boldt Quezada, Secretario Regional Ministerial Transportes y Telecomunicaciones X Región.
