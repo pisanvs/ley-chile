@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 96, de fecha 31 de marzo de 1994, se expropiaron los lotes de terreno N°s. 1, 6, 9 y 11, superficies 2.988,84 M2., 294 M2., 1.020 M2. y 1.182 M2., rol de Avalúo 123-29, Comuna de Pencahue, para las obras Canales Las Doscientas Norte Derivado 4, del Tranque Derivado 2 y Las Doscientas Norte y se acordó valor de indemnización con su propietario don José Ramiro Guajardo Castro. ascendente a la cantidad de $358.525.-
+
+Fiscal del Ministerio de Obras Públicas.
