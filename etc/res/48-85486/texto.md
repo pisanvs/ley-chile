@@ -1,0 +1,3 @@
+RECTIFICACION
+
+En la edición del Diario Oficial No. 34.240 de 9 de Abril de 1992, se publicó resolución No. 048/92 que autoriza existencia y aprueba estatutos a "Santander S.A. Administradora de Fondos de Inversión", con el error que se salva a continuación: página tres, cuarta columna, donde dice " Que por resolución No. 48, de fecha 31 de Marzo de 1992 se autorizó la existencia y..." debe decir "Que por resolución No. 048, de fecha 31 de Marzo de 1992 se autorizó la existencia y...".
