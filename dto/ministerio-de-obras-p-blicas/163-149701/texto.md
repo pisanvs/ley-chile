@@ -1,0 +1,3 @@
+Por decreto MOP No. 163, de 31 de julio de 1987, se expropió el lote de terreno No. 4, superficie 5.180 m2., rol de avalúo 536-13, Comuna de Linares, obra Alcantarillado de Linares, Mejoramiento Integral Sistema Alcantarillado Aguas Servidas, se acordó el precio de indemnización con su propietario don Gustavo del Carmen Vergara Vergara, ascendente a $ 895.881.-
+
+Fiscal del Ministerio de Obras Públicas.
