@@ -1,0 +1,5 @@
+Por decreto MOP Nº893 de 22 de abril de 1999 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206 de 1960, se expropió el lote de terreno Nº4 para la obra Camino Ruta F-20, Nogales Puchuncaví. Sector: Cruce Pucalán Chilicauquén y Cruce Chilicauquén, Km. 0.730,36 a Km.
+
+26.866,82, Quinta Región, que figura a nombre de Brante Pascual Suc, rol de avalúo 162-6, comuna de Puchuncaví, superficie 46 m2. La comisión de peritos integrada por los señores María Isabel Ríos Marcuello, Sergio Paravic Valdivia y Juan Carlos Paniagua López, fijó con fecha 18 de agosto de 1997 el valor provisional de la indemnización en la cantidad de $69.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
