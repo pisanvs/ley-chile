@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.880, de fecha 12 de julio de 2004, de esta Subsecretaría, modifícase la resolución Nº 1.125 de 2004, modificada mediante resoluciones Nº 1.425 y Nº 1.748, ambas de 2004, todas de esta Subsecretaría que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo y evaluación de la pesquería del Pejerrey de Mar (Odontesthes regia), mediante el uso de artes de enmalle y cerco en aguas interiores de la X Región", en el sentido de incorporar el siguiente numeral 9 bis:
+
+9 bis.- Consultora Pupelde Limitada, autorizada para realizar la presente pesca de investigación, deberá dar cumplimiento a las disposiciones que en la resolución extractada se indican.
+
+El incumplimiento de cualquiera de las prohibiciones y obligaciones antes señaladas, debidamente acreditadas, importará el término de la presente autorización de pesca de investigación, así como la imposibilidad para la empresa consultora infractora de poder participar en cualquier otra pesca de investigación de recursos hidrobiológicos.
+
+Valparaíso, 12 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
