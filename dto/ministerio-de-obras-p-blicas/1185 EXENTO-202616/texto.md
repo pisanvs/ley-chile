@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.185, de fecha 31 de julio de 2002, se expropiaron los lotes de terreno Nºs. 29-A y 30, superficies 1.017 m2 y 1.070 m2, respectivamente, Rol de avalúo 303-13, comuna de Cunco, IX Región, para la obra Camino Ruta S-61, Sector Cunco - Melipeuco, Km. 55,000 al 87,46783, correspondiente al Tramo I Km. 55,000 al 62,784" y se acordó el valor de indemnización con su propietaria doña Selma del Carmen Seitz Abello, ascendente a la cantidad de $2.539.894.-
+
+Fiscal del Ministerio de Obras Públicas.
