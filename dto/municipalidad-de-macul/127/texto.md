@@ -1,0 +1,3 @@
+Por Decreto No. 127 de 1992, Alcalde I. Municipalidad de Macul ordenó expropiación parcial conforme DFL 458/76, DL 2186/78 y Ley No. 18.695, predio dominio aparente Sociedad Droguería Ramírez y Sánchez Ltda., objeto adoptar línea oficial establecida en plano regulador. Indemnización $ 748,332 que se pagan con compensación derechos de edificación.
+
+Macul, 04 de Marzo de 1992.-- Ramón Sotomayor Madsen, Alcalde.
