@@ -1,0 +1,3 @@
+Por resolución Nº 1.318, de 12 de julio de 1999, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96103353, presentada por SINDICATO DE PESCADORES ARTESANALES, BUZOS ALGUEROS Y RAMAS SIMILARES DE CHONCHI, para operar un centro de cultivo en Terao, comuna de Chonchi, provincia de Chiloé, X Región.
+
+Valparaíso, 12 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
