@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.497, de 31 de mayo de 2004 de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 64 de 2004, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia "Investigación Pesca Exploratoria de la Jaiba, XII Región", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de julio de 2004.
+
+Valparaíso, 31 de mayo de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
