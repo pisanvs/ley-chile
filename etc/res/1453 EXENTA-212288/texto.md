@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.453, de esta Subsecretaría, autorízase a PESQUERA TRANS ANTARTIC LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Camino Chinquihue Km. 6, Puerto Montt, X Región, en la línea de elaboración de Conserva, el recurso Abalón rojo de California.
+
+Valparaíso, 30 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
