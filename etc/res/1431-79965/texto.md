@@ -1,0 +1,3 @@
+Por Resolución No. 1.431, de 08 de Noviembre de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase las Resoluciones No. 704, de 1989, No. 690, de 1991 y No. 1.345, de 1991, todas de esta Subsecretaría, que autorizó a don MIGUEL ANGEL DIAZ ALVAREZ, R.U.T. No. 6.350.818-7, domiciliado en calle Las Industrias No. 4579 San Juan de Llo-Lleo, San Antonio, para desarrollar actividades pesqueras, en orden a señalar que el R.U.T. del solicitante es el No. 6.350.818-7 y no como se indica en las Resoluciones citadas precedentemente.
+
+Valparaíso, 08 de Noviembre de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
