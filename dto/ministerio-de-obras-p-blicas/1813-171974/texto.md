@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.813, de 28 de abril del 2000, se expropió el lote de terreno Nº 62, superficie 493 m2., rol de avalúo 564-34, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector K, Sexta Región y se acordó el valor de indemnización con su propietario Manuel Jesús Cisternas Torres, ascendente a la cantidad de $1.406.134.
+
+Fiscal del Ministerio de Obras Públicas.
