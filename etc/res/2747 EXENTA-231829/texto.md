@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.747 de 23 de septiembre de 2004 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Llico Sector Punta Litre, VIII Región, individualizada en el artículo 1º Nº 1, del decreto exento Nº 489 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES Y ACTIVIDADES CONEXAS DE LA CALETA LLICO.
+
+Valparaíso, 23 de septiembre de 2004.- Edith Saa Collantes, Subsecretario de Pesca (S).
