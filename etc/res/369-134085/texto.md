@@ -1,0 +1,3 @@
+Por resolución Nº 369, de 11 de marzo de 1999 de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PACIFICO AUSTRAL LTDA., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en La Ribera Sur Nº 300, Sector Pudeto Bajo, Ancud, en las líneas de elaboración de Conserva, Congelado y Fresco, los siguientes recursos hidrobiológicos: Puye, Abalón, Camarón nailon, Langostino colorado. En la línea de elaboración Conserva, podrá procesar, además, el recurso hidrobiológico Anchoveta.
+
+Valparaíso, 11 de marzo de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
