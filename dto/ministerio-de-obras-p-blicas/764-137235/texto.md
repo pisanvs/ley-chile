@@ -1,0 +1,3 @@
+Por decreto MOP Nº764, de 31 de marzo de 1999, se expropió el lote de terreno Nº116, superficie 908 m2., rol de avalúo 160-133, comuna de Pemuco, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli'', VIII Región, y se acordó el valor de indemnización con su propietario Víctor González Pereira, ascendente a la cantidad de $2.424.778.
+
+- Fiscal del Ministerio de Obras Públicas.
