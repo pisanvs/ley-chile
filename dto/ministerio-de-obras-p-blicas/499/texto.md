@@ -1,0 +1,3 @@
+Por decreto MOP Nº 499, de 21 de abril de 1998, se modificó el decreto MOP Nº 927, de 30 de septiembre de 1997, que ordenó la expropiación del lote de terreno Nº 62, en cuanto a que por una parte se rectificó el numeral 2º, en el sentido de que la superficie a expropiar son 1.097 m2. y no 607 m2., como se indicó inicialmente. Asimismo, se modificó el numeral 3º, en cuanto a que la fecha de tasación del lote es de 3 de abril de 1996 y no la que allí se indica, y que el valor provisional de dicho lote es la suma de $13.913.690.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
