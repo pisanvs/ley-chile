@@ -1,0 +1,5 @@
+Por decreto MOP Nº 5.097, de 24 de noviembre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 126-A, para la obra "Camino: Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector Km. 21.100,00 al Km.
+
+22.000,00", Región Metropolitana, que figura a nombre de Compañía de Inversiones Tenderini S.A., rol de avalúo En Trámite, comuna de Lampa, superficie 1.288 m². La Comisión de Peritos integrada por los señores Julio Víctor Fischer Gaysinsky, Inés Elena Otárola Castillo y Jaime Rolando Jurgens Bittner, fijó con fecha 24 de julio de 2000, el valor provisional de la indemnización en la cantidad de $22.379.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
