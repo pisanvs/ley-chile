@@ -1,0 +1,3 @@
+Por decreto MOP No. 342, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 6 y 8, superficies 250 m2 y 221 m2, rol de avalúo 519-152, comuna de Carahue, obra Camino Costero Tirúa-Carahue, Tramo Tirúa Bajo Yupehue y se acordó precio de indemnización con su propietaria Aminta Ildaubra Miranda Fernández, ascendente a la cantidad de $ 615.049.-
+
+Fiscal del Ministerio de Obras Públicas.
