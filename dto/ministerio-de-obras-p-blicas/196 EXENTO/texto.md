@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº196 de fecha 30 de marzo de 2001, se expropiaron los lotes de terreno Nºs. 60 y 61-A, superficies 1.176,05 y 1.168,42 m², respectivamente, rol de avalúo 1131-13, comuna de Castro, para la obra ''Camino Rutas W-65 y W-55, Sector: Cruce Longitudinal (PID-PID) - Putemún - Dalcahue'' y se acordó el valor de indemnización con su propietario José Augusto Díaz Díaz y Otro, ascendente a la cantidad de $1.832.583.-.
+
+Fiscal del Ministerio de Obras Públicas.
