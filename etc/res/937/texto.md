@@ -1,0 +1,3 @@
+Por Resolución No. 937 de 02 de diciembre de 1991 de SERVIU Metropolitano, ordenóse expropiación, conforme DL No. 2.186 de 1978, inmueble ubicado en Avenida Ecuador No. 5198 (del 5186 al 5190) presunto rol de avalúos No. 547-024 comuna Estación Central aparente dominio de Sucesión Aranda Espinoza. Comisión integrada por peritos Sres. Sergio Rojas Ibáñez, ingeniero civil, Fernando Merino de la Cerda y Roberto Correa Bezanilla arquitectos, según informe de 12 de Agosto de 1991, fijó monto provisional indemnización en $ 6.200.040.- pagadera al contado.
+
+Directora SERVIU Metropolitano.
