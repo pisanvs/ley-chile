@@ -1,0 +1,5 @@
+Por Decreto M.O.P. No. 753, de 29 de mayo de 1998, y en base a la facultad otorgada por el artículo 105 del DFL. M.O.P. No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley No.
+
+15.840, se expropió el lote de terreno No. 2, para la obra Camino Longitudinal Sur Ruta 5 (2a. Calzada), Sector Pte. Lircay - Paso Superior Lircay, que figura a nombre de Lorenzo Hilmer Gambino, rol de avalúo 3707-29, comuna de Talca, superficie 1.606 M2. La Comisión de Peritos compuesta por los señores Carlos Sottolichio Díaz, Hugo Villarroel Urbina y René Ramírez Valenzuela, fijó con fecha 11 de octubre de 1991, el valor provisional de la indemnización en la cantidad de $ 2.569.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley No. 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
