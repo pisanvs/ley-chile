@@ -1,0 +1,3 @@
+Por Resolución Nº 970, de 4 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 95106023, presentada por SMOLT CHILE LTDA., para el centro de cultivo ubicado en Isla Chaullín, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en los artículos Nº 78º y Nº 87º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
