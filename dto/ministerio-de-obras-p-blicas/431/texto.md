@@ -1,0 +1,3 @@
+Por Decreto MOP N° 431, de fecha 28 de septiembre de 1994, se expropió el lote de terreno N° 186, superficie 519 m2., rol de avalúo 258-22, Comuna de San Vicente, para la ejecución de la obra Camino Quinta de Tilcoco-Cruce Ruta 66, sector El Manzano de Zúñiga-La Mediagua-Tunca El Medio, y se acordó valor de indemnización con su propietario Francisco Peralta Silva y Otro, ascendete a la cantidad de $410.884.-
+
+Fiscal del Ministerio de Obras Públicas.
