@@ -1,0 +1,3 @@
+Por resolución Nº 1.723 de 30 de noviembre de 1998 de esta Subsecretaría, déjase sin efecto la resolución Nº 262 de 1997, de esta Subsecretaría, que autorizó a VICTOR GUSTAVO GUERRERO OYARZUN, R.U.T. Nº 6.938.336-K, con domicilio en calle Sotomayor Nº 461, Castro, para instalar y operar el centro de cultivo ubicado entre Punta Dequio y Punta Yutuy, Estero Castro, comuna de Castro, X Región.
+
+Valparaíso, 30 de noviembre de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
