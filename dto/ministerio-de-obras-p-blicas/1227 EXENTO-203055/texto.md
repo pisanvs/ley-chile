@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.227 de 30 de agosto de 2002, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra: Camino Lechería - Cerro Alto, Sector Puente San Miguel, Tramo Km. 1,340 a Km. 1,670, VII Región, que figura a nombre de Araneda Jaque René, rol de avalúo 435-1, comuna de Cauquenes, VII Región, superficie 1.940 m2. La Comisión de Peritos, fijó con fecha 1 de septiembre de 2000, en la cantidad de $1.965.000.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
