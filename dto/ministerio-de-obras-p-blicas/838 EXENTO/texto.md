@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº838, de 18 de junio de 2001, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº92, para la obra Camino Ruta D-597, Monte Patria-Carén, sector Juntas-Carén, Tramo Km. 8.260,00 al 30.065,19, que figura a nombre de Carvajal Rojas Irelda, rol de avalúo 214-33, comuna de Montepatria, IV Región, superficie 119 M2. La Comisión de Peritos, fijó con fecha 10 de febrero de 1999, en la cantidad de $156.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
