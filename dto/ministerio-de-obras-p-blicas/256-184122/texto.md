@@ -1,0 +1,5 @@
+Por decreto MOP Nº 256, de 27 de febrero de 2001, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 129-1, para la obra: "Camino: Ruta 5 Norte. Tramo: Santiago - Los Vilos. Sector Km. 21.100,00 al Km.
+
+22.000,00"; Región Metropolitana, que figura a nombre de Campos Vicencio Noel, rol de avalúo 182-44, comuna de Colina, superficie 1.096 m2. La comisión de peritos integrada por los señores Julio Víctor Fischer Gaysinsky, Inés Elena Otárola Castillo y Jaime Rolando Jurgens Bittner, fijó con fecha 24 de julio de 2000, el valor provisional de la indemnización en la cantidad de $12.589.000.- y complementariamente con fecha 18 de octubre de 2000 en $5.297.760.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
