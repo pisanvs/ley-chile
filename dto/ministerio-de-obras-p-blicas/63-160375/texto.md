@@ -1,0 +1,3 @@
+Por decreto M.O.P. No. 63, de 14 de Marzo de 1985, se expropió el lote de terreno No. 1, para Agua Potable de Boca Rapel, camino acceso a la Planta, que figura a nombre de don Benito Meléndez M., superficie 1.420 m2., rol de avalúo 38-32, comuna de Navidad, VI Región. La Comisión de Peritos compuesta por los señores Patricio Estrada, René Corvalán y Eduardo Schonhaut, fijó con fecha 31 de Enero de 1984, el valor provisional de la indemnización en la cantidad de $ 56.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Publicas
