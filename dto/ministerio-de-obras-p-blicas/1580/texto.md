@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.580, de 21 de septiembre de 1998, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº118, para la obra Camino Santiago - Colina - Los Andes, Sector "A" A. Vespucio - By Pass Colina, km.
+
+7.953,70 al 13.502,60, que figura a nombre de Cuadrado Puig Ana Eugenia, rol de avalúo 166-589, comuna de Colina, superficie 1.867,4 m². La Comisión de Peritos integrada por las señoras Victoria Adriana Blanco Costa, María Cristina Camus Palacios y señor Gustavo Domínguez Errázuriz, fijó con fecha 15 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $90.525.371.- para el lote 118. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
