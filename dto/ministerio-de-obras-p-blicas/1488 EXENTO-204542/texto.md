@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº1.488, de 23 de octubre de 2002 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropiaron los lotes de terreno Nºs 44-1 y 44-2 para la obra: Camino: Santiago - Colina - Los Andes, Sector ''B'' By Pass Colina. Enlace Esmeralda Km.
+
+6.600,00 a Km. 7.760,00"; Región Metropolitana, que figuran a nombre de Cía. Minera Disputada de Las Condes, rol de avalúo 185-11, comuna de Colina, superficies de 1.035 m2 y 390,5 m2, respectivamente. La comisión de peritos integrada por los señores María Cristina Camus Palacios, Carmen Pilar Ríos Marcuello y Gustavo Domínguez Errázuriz, fijó con fecha 24 de mayo de 1999, el valor provisional de la indemnización en las cantidades de $2.587.500.- para el lote Nº44-1 y $976.250.- para el lote Nº44-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
