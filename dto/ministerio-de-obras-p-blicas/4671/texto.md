@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.671, de 27 de octubre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº160-1, para la obra:
+
+''CAMINO RUTA 5 NORTE. TRAMO: SANTIAGO-LOS VILOS'', SECTOR KM. 112.500,00 AL KM. 115.560,00", Quinta Región, que figura a nombre de Costa Goycoolea Enrique, rol de avalúo 170-131, comuna de Nogales, superficie 69 m2. La comisión de peritos integrada por los señores Jorge Gregorio Mendoza Larral, María Cristina Ayala Muñoz y Pablo Antonio Aragón Bernal, fijó con fecha 03 de diciembre de 1999, el valor provisional de la indemnización en la cantidad de $90.000.- y complementariamente con fecha 23 de junio de 2000 en $82.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
