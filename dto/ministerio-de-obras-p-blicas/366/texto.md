@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N° 366, de 29 de Octubre de 1993, se expropió el lote de terreno N° 20, superficie 1.884 M2., Rol de avalúo 176-3, Comuna de Coronel, para la obra Camino By Pass Coronel-Lota (Ruta 160), sector By Pass Coronel Lota y se acordó precio de indemnización con su propietario Avelino Machuca Bastías y otros, ascendente a la cantidad de $10.703.434.
+
+Fiscal del Ministerio de Obras Públicas.
