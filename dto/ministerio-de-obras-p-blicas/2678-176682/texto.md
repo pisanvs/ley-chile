@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.678, de 30 de junio de 2000, se expropió el lote de terreno Nº 186-1, superficie 14 m², rol de avalúo 185-24, comuna de Collipulli, para la obra Concesión Internacional Ruta 5. Tramo: Chillán - Collipulli, Novena Región y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Collipulli, ascendente a la cantidad de $103.464.-
+
+Fiscal del Ministerio de Obras Públicas.
