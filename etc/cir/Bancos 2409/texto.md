@@ -18308,7 +18308,7 @@ II.- RELACION ENTRE OPERACIONES CON VENCIMIENTO A MENOS DE 30 Y 90 DIAS.
 
 Las instituciones financieras deberán sujetarse a los siguientes límites:
 
-a) Los pasivos con plazo remanente inferior a treinta días no podrán exceder a los activos de igual plazo, en más de una vez su capital básico. Este límite de descalce debe cumplirse separadamente para las operaciones pagaderas en moneda chilena, para las operaciones pagaderas en moneda extranjera y para los pasivos y activos totales con plazo remanente menor a treinta días.
+a) Los pasivos con plazo remanente inferior a treinta días no podrán exceder a los activos de igual plazo, en más de una vez su capital básico. Este límite de descalce debe cumplirse separadamente para las operaciones pagaderas en moneda chilena, para las operaciones pagaderas en moneda extranjera y para los pasivos y activos totales con plazo remanente menor a treinta días. No obstante, las instituciones financieras pueden computar dentro del margen para moneda chilena, los excesos de los flujos de activos en monedas extranjeras sobre los flujos de pasivos en tales monedas, cuyo plazo residual sea inferior a treinta días.
 
 b) Los pasivos con plazo remanente inferior a noventa días, no podrán exceder a los activos de igual plazo, en más de dos veces su capital básico.
 
@@ -18316,7 +18316,7 @@ Las relaciones de que se trata incluyen los fondos disponibles, las operaciones 
 
 En las operaciones a plazo, deben considerarse sus flujos futuros, tanto por amortizaciones de capital como por los intereses que deberán pagarse en cada oportunidad, dentro de los respectivos plazos.
 
-En el caso de operaciones con tasa flotante en que la tasa numérica no fuere conocida al momento del cómputo, deberá aplicarse la tasa de interés vigente para determinar los flujos futuros por intereses que deban pagarse dentro de los noventa días siguientes.
+En el caso de operaciones con tasa flotante en que la tasa numérica no fuere conocida al momento del cómputo, deberá aplicarse la tasa de interés vigente para determinar los flujos futuros por intereses que deban pagarse dentro de los ochenta y nueve días siguientes.
 
 Las colocaciones en letras de crédito incluirán los flujos por capital, intereses y comisiones de los dividendos que se originan dentro de los plazos que correspondan.
 
