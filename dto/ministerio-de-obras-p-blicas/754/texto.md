@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 754, de 31 de julio de 1997, se expropiaron los lotes de terreno Nºs. 9-B, 77-A y 83-A, superficies 80,435 y 3.504 M2. respectivamente, roles de avalúo en trámite, comuna de Marchigüe, para la obra Camino San Fernando - Pichilemu, Sector La Rosa - Alto Colorado (1 - 174) y se acordó precio de indemnización con sus propietarios Pedro Lizana Caro, Fresia Jiménez Medina y Juan Jiménez Medina, ascendente a las cantidades de $379.250, $718.525 y $1.480.920.
+
+Fiscal del Ministerio de Obras Públicas.
