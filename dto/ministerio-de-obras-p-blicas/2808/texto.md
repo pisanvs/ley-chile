@@ -1,0 +1,3 @@
+Por decreto MOP. No. 2.808, de 30 de diciembre de 1998, se expropiaron los lotes de terreno Nos. 87-C, 87-E, 88 y 90, superficies 4.127,6 m2., 2.433,4 m2., 2.217,3 m2. y 890,3 m2., rol de avalúo 418-2, comuna de Loncoche, para la obra Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno y se acordó el valor de indemnización con su propietario Vicente Hueichacura Nitrihual, ascendente a la cantidad total de $ 7.986.946.-
+
+Fiscal del Ministerio de Obras Públicas.
