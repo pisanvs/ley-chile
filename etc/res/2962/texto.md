@@ -1,0 +1,3 @@
+Por resolución Nº2.962, de 20 de diciembre de 2002, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº1.222 de 1992, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para operar la nave "Faro de Hércules", en las aguas al sur del paralelo 47º L.S., sobre los recursos Merluza de tres aletas y Merluza de cola, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 20 de diciembre de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
