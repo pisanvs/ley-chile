@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.966, de 28 de diciembre del 2001, se expropió el lote de terreno Nº7, superficie 268 m2., rol de avalúo 103-131, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso Viña del Mar. Tramo 6B: Kms. 34.660,00 al 38.660,00, Región Metropolitana y se acordó el valor de indemnización con su propietario Antonio Moles Inserrato, ascendente a la cantidad de $2.254.301.-
+
+Fiscal del Ministerio de Obras Públicas.
