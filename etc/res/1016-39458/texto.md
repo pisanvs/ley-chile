@@ -1,0 +1,3 @@
+Por Resolución N° 1.016, de 28 de mayo de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por ANA MARIA AUBA BERNALES, para un centro de cultivo ubicado en Ensenada Alqui, Isla Tranqui, Comuna de Queilén, Provincia de Chiloé, X Región, conforme lo dispuesto en el artículo 14° del D.S. N° 290 de 1993, modificado por el D.S. N° 604 de 1994, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de mayo de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
