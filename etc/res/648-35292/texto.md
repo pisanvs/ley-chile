@@ -1,0 +1,5 @@
+DESIGNA SECRETARIOS DE LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAICES QUE INDICA
+
+En virtud de la facultad que el artículo 121 del Código Tributario confiere al suscrito se ha dictado la resolución N° 648, de 7 de Diciembre de 1993, designando a don José Contreras Fuller, como Secretario Suplente del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Corte de Apelaciones Coyhaique; a don Jorge Alberto Huidobro Medel, como Secretario suplente del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Corte de Apelaciones de Valparaíso; y a don Sergio Sánchez Pineda, como Secretario titular y a doña Carmen Luz Latorre Leyto como Secretario suplente Tribunales de la Primera y Segunda Serie con jurisdicción en el territorio de la Corte de Apelaciones de Copiapó.-
+
+Javier Etcheberry Celhay, Director.
