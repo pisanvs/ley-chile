@@ -1,0 +1,5 @@
+Por decreto MOP. No.1.167, de 7 de agosto de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL. MOP. No.850, de 1997, que fijó el texto actualizado de la ley No.15.840 y del DFL. MOP.
+
+No.206, de 1960, se expropió el lote de terreno No.62, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Km. 93.800,00 al 97.970,00, Quinta Región, que figura a nombre de Guevara González Luz Mercedes, rol de avalúo 228-125, comuna de Hijuelas, superficie 2.931 m². La comisión de peritos integrada por los señores Jorge Gregorio Mendoza Larral, Pablo Antonio Aragón Bernal y Juan Carlos Paniagua López, fijó con fecha 28 de mayo de 1998, el valor provisional de la indemnización en la cantidad de $ 10.545.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley No.2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
