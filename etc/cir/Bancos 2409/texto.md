@@ -17390,11 +17390,13 @@ señalado en el número siguiente.
 
 3.- Instrumentos de oferta pública.
 
-Son garantía para los efectos de límites de crédito, los instrumentos de oferta pública emitidos en serie que, a la fecha de otorgamiento del crédito que caucionan, se encuentren clasificados en una de las dos categorías de más bajo nesgo por dos sociedades clasificadoras de aquellas señaladas en el Título XIV de la Ley N° 18.045. Los instrumentos que deben contar con esas dos calificaciones para que sean válidos como garantía para los límites individuales de crédito, corresponden a:
+Son garantía para los efectos de límites de crédito, los instrumentos de oferta pública emitidos en serie que, a la fecha del otorgamiento del crédito que caucionan, se encuentren clasificados en una de las dos categorías de más bajo riesgo por dos sociedades clasificadoras de aquellas señaladas en el Título XIV de la Ley N° 18.045. Los instrumentos que deben contar con esas dos calificaciones para que sean válidos como garantía para los límites individuales de crédito, corresponden por consiguiente a:
 
-i)Letras de crédito y bonos inscritos en esta Superintendencia.
+i) Letras de crédito y bonos inscritos en el Registro de Valores de esta Superintendencia.
 
-ii) Valores mobiliarios de renta fija emitidos en serie, inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
+ii) Depósitos a plazo constituidos en instituciones financieras facultadas para recibirlos.
+
+iii) Valores mobiliarios de renta fija emitidos en serie, inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
 
 ### 4. Documentos de embarque
 
