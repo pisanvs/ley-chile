@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.059, de 29 de junio de 2001, se expropió el lote de terreno Nº 7, superficie 3.579 m2., rol de avalúo 1502-75, comuna de Los Angeles, para la obra Concesión Internacional Ruta 5 Tramo Chillán-Collipulli. By Pass Los Angeles, Octava Región y se acordó el valor de indemnización con sus propietarios Ronald Alexander Ramm Meyer y otros, ascendente a la cantidad de $5.677.668.-.
+
+Fiscal del Ministerio de Obras Públicas.
