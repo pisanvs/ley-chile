@@ -1,0 +1,1 @@
+Declara comprendidos en los beneficios de la ley 5,561, de 7 de enero de 1935, para los efectos de las pensiones a que hubiere lugar, a los señores Epifanio Ubilla Ochoa, Francisco de P. González M. y Federico Jara Ríos.
