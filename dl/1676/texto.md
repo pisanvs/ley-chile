@@ -16,9 +16,9 @@ Decreto ley:
 
 #### Artículo único
 
-Apruébanse el Convenio Internacional de Telecomunicaciones y el Protocolo Adicional Facultativo a dicho Convenio, sobre Solución Obligatoria de Controversias, suscritos en
+Apruébanse el Convenio Internacional de Telecomunicaciones y el Protocolo Adicional Facultativo a dicho Convenio, sobre Solución Obligatoria de Controversias, suscritos en Málaga-Torremolinos, España, el 25 de Octubre de 1973.
 
-Málaga-Torremolinos, España, el 25 de Octubre de 1973.
+La exigencia de publicación del Convenio, del Protocolo Adicional Facultativo y demás Anexos, se entenderá cumplida mediante el depósito de un ejemplar en el Ministerio de Relaciones Exteriores y de otro en la Contraloría General de la República, para su consulta pública, debidamente autentificados con las firmas del Presidente de la República y del Ministro de Relaciones Exteriores.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE TORIBIO MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- GUSTAVO LEIGH GUZMAN, General del Aire, Comandante en Jefe de la Fuerza Aérea.- CESAR MENDOZA DURAN, General, Director General de Carabineros.- Patricio Carvajal Prado, Ministro de Relaciones Exteriores.- Herman Brady Roche, General de División, Ministro de Defensa Nacional.- Raúl Benavides Escobar, General de División, Ministro del Interior.
 
