@@ -1,0 +1,5 @@
+EXTRACTOS DE RESOLUCIONES
+
+Por resolución N° 794, de 4 de Julio de 1991, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se modifica la resolución N° 808, de 1990, que modificó la resolución N° 538, de 1989, ambas de esta Subsecretaría, que autorizó a don SERGIO SANTA CRUZ GANDARILLAS, R.U.T. N° 3.638.947-8, domiciliado en la ciudad de Coquimbo, calle Niza N° 37, La Herradura de Guayacán, para desarrollar actividades pesqueras de cultivo, en orden a incorporar los siguientes incisos en el numeral 2°: "El solicitante deberá empezar a operar dentro del plazo de un año, contado desde la fecha de la publicación del extracto de esta resolución. Si no diere cumplimiento a esta obligación, quedará sin efecto la autorización otorgada. Este mismo efecto producirá la paralización de las actividades y la no reanudación de las mismas, dentro del plazo de un año, contado desde la fecha de paralización, a menos que el incumplimiento de las obligaciones señaladas precedentemente se produzca por caso fortuito o fuerza mayor debidamente acreditados".
+
+Valparaíso, 4 de Julio de 1991.- Andrés Couve Rioseco, Subsecretario de Pesca.
