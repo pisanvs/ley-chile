@@ -5832,127 +5832,47 @@ imparten a continuación.
 
 1.1. Tamaño de los cheques.
 
-Los bancos deben confeccionar los cheques de acuerdo a las siguientes
-
-características:
-
-a) Medidas:
+Los formularios de cheque que confeccionen los bancos deben ser rectangulares y ajustarse a las siguientes medidas:
 
 largo : 160 mm.
 
 ancho : 70 mm.
 
-tolerancia : ± 0,9 mm.
-
-Dichas medidas se refieren solamente al cuerpo del cheque, sin considerar talón
-
-ni colilla;
-
-b) El lado derecho del cheque y el borde inferior deben cortarse en un ángulo
-
-exacto de 90 grados y no puede ubicarse en ese sector la colilla del documento;
-
-c) Las instituciones bancarias que deseen mantener para sus controles la colilla
-
-o talón de cobro en los cheques deben ubicar ésta en el sector izquierdo del
-
-mismo; y,
-
-d) Queda a criterio de los bancos el tipo de talonario y las dimensiones y
-
-características de la colilla o talón de control que entreguen a sus clientes.
+tolerancia : 0,9 mm.
 
 1.2. Ubicación de los antecedentes inherentes a un cheque.
 
-Los antecedentes de los cheques deben incluirse de acuerdo con las instrucciones
-
-que se indican a continuación y de conformidad con lo dispuesto en los anexos
-
-N°s. 1 y 2 de este capítulo.
+Los antecedentes de los cheques deben incluirse de acuerdo con las instrucciones que se indican a continuación y de conformidad con lo dispuesto en los anexos N°s. 1 y 2 de este capítulo.
 
 1.2.1. Localizaciones de antecedentes y dimensiones obligatorias.
 
-Los siguientes antecedentes no pueden sufrir modificaciones en cuanto al lugar
+Los siguientes antecedentes no pueden sufrir modificaciones en cuanto al lugar de colocación y dimensiones que, en cada caso, se señalan:
 
-de colocación y dimensiones que, en cada caso, se señalan:
+a) Serie y número: Debe ubicarse a 8 mm del borde superior del cheque y a una distancia de entre 10 y 25 mm. de su borde izquierdo. El largo máximo para indicar este antecedente será de 50 mm.;
 
-a) Serie y número: Debe ubicarse a 8 mm del borde superior del cheque y a 10 mm
+b) Número de la cuenta corriente: Debe estar localizado en la parte central del extremo superior del cheque. Toda información que se imprima debajo del número de cuenta, como nombre del titular de la cuenta corriente, nombre del banco, logotipo de éste, etc., debe cubrir un espacio que no exceda de 12 mm de ancho contados desde el borde superior;
 
-de su lado izquierdo. El largo máximo para indicar este antecedente será de 50
+c) Importe numérico en pesos: Debe ubicarse a 10 mm del borde superior del cheque y a 5 mm de su lado derecho. Debe tener 3 mm para el signo pesos, ubicado a 47 mm del lado derecho y 42 mm de largo para indicar el importe numérico;
 
-mm.;
+d) Nombre de la institución bancaria y plaza: Este antecedente debe ubicarse en la parte central, inmediatamente debajo del espacio asignado al número de la cuenta y nombre del titular, o bien en la parte baja izquierda del cheque, a no menos de 16 mm del borde inferior. Se recomienda que la indicación escrita de la plaza vaya inmediatamente debajo del nombre del banco;
 
-b) Número de la cuenta corriente: Debe estar localizado en la parte central del
+e) Número de codificación del banco, plaza y oficina: Debe ser impreso en el lugar y con las dimensiones que se indican en el numeral 3.2 de este título;
 
-extremo superior del cheque. Toda información que se imprima debajo del número
+f) Sector para la firma del cliente: Debe ubicarse a 20 mm del borde inferior del cheque y a 5 mm del lado derecho del cheque, con 70 mm del largo total de la línea para colocar la firma y 6 mm de espacio entre la última línea en que se indica el importe en pesos y el comienzo de la línea para firmar; y,
 
-de cuenta, como nombre del titular de la cuenta corriente, nombre del banco,
-
-logotipo de éste, etc., debe cubrir un espacio que no exceda de 12 mm de ancho
-
-contados desde el borde superior;
-
-c) Importe numérico en pesos: Debe ubicarse a 10 mm del borde superior del
-
-cheque y a 5 mm de su lado derecho. Debe tener 3 mm para el signo pesos, ubicado
-
-a 47 mm del lado derecho y 42 mm de largo para indicar el importe numérico;
-
-d) Nombre de la institución bancaria y plaza: Este antecedente debe ubicarse en
-
-la parte central, inmediatamente debajo del espacio asignado al número de la
-
-cuenta y nombre del titular, o bien en la parte baja izquierda del cheque, a no
-
-menos de 16 mm del borde inferior. Se recomienda que la indicación escrita de la
-
-plaza vaya inmediatamente debajo del nombre del banco;
-
-e) Número de codificación del banco, plaza y oficina: Debe ser impreso en el
-
-lugar y con las dimensiones que se indican en el numeral 3.2 de este título;
-
-f) Sector para la firma del cliente: Debe ubicarse a 20 mm del borde inferior
-
-del cheque y a 5 mm del lado derecho del cheque, con 70 mm del largo total de la
-
-línea para colocar la firma y 6 mm de espacio entre la última línea en que se
-
-indica el importe en pesos y el comienzo de la línea para firmar; y,
-
-g) Espacio para caracteres magnéticos: Desde el borde inferior el cheque debe
-
-contener un espacio de 16 mm a lo largo de todo el documento, sector que no
-
-puede llevar ningún tipo de impresión por estar destinado a los caracteres
-
-magnéticos, de acuerdo con lo indicado en el numeral 3.3 de este capítulo.
+g) Espacio para caracteres magnéticos: Desde el borde inferior el cheque debe contener un espacio de 16 mm a lo largo de todo el documento, sector que no puede llevar ningún tipo de impresión por estar destinado a los caracteres magnéticos, de acuerdo con lo indicado en el numeral 3.3 de este capítulo.
 
 1.2.2. Localizaciones optativas.
 
-Los espacios destinados a colocar el lugar y fecha de giro, que figuran en los
+Los espacios destinados a colocar el lugar y fecha de giro, que figuran en los Anexos N°s. 1 y 2, pueden modificarse en cuanto a su ubicación, al igual que el espacio para el nombre del beneficiario y el importe del documento expresado en palabras.
 
-Anexos N°s. 1 y 2, pueden modificarse en cuanto a su ubicación, al igual que el
-
-espacio para el nombre del beneficiario y el importe del documento expresado en
-
-palabras.
-
-En todo caso, la ubicación que elijan los bancos para anotar esos datos debe
-
-armonizar con los demás elementos y evitar que interfieran con ellos.
+En todo caso, la ubicación que elijan los bancos para anotar esos datos debe armonizar con los demás elementos y evitar que interfieran con ellos.
 
 ### 2. Otros documentos pagaderos por Cámara de Compensación
 
 2.1. Tamaño.
 
-Las medidas uniformes de los demás documentos pagaderos por intermedio de
-
-Cámaras Compensadoras, tales como depósitos a plazo fijo, boletas de
-
-garantía,letras bancarias, depósitos o vales vista, vales bancarios, vales de
-
-cámara y otros documentos cuyos códigos se indican en el anexo N° 3, deben ser:
+Las medidas uniformes de los demás documentos pagaderos por intermedio de Cámaras Compensadoras, tales como depósitos a plazo fijo, boletas de garantía,letras bancarias, depósitos o vales vista, vales bancarios, vales de cámara y otros documentos cuyos códigos se indican en el anexo N° 3, deben ser:
 
 largo : 187 mm
 
@@ -5960,97 +5880,37 @@ ancho : 93 ó 103 mm
 
 tolerancia : ± 0,9 mm
 
-Queda a criterio de las propias instituciones financieras establecer el ancho
-
-que se dará a esos formularios, el que puede ser de 93 ó de 103 mm con una
-
-tolerancia para ambos, de más o de menos 0,9 mm.
+Queda a criterio de las propias instituciones financieras establecer el ancho que se dará a esos formularios, el que puede ser de 93 ó de 103 mm con una tolerancia para ambos, de más o de menos 0,9 mm.
 
 2.2. Ubicación de antecedentes.
 
-Los antecedentes de los documentos de que se trata deben incluirse de acuerdo
-
-con las instrucciones que a continuación se señalan y que se ilustran en el
-
-Anexo N° 4 de este capítulo:
+Los antecedentes de los documentos de que se trata deben incluirse de acuerdo con las instrucciones que a continuación se señalan y que se ilustran en el Anexo N° 4 de este capítulo:
 
 2.2.1. Localizaciones y dimensiones obligatorias.
 
-Los siguientes antecedentes no podrán sufrir modificaciones en cuanto a su lugar
+Los siguientes antecedentes no podrán sufrir modificaciones en cuanto a su lugar de colocación y dimensiones:
 
-de colocación y dimensiones:
+a) Número del documento: Debe colocarse en el extremo superior izquierdo. El conjunto numérico no debe exceder de 8 dígitos. En caso de requerirse una complementación para establecer serie o prefijo, ésta no puede exceder de 3 posiciones alfa numéricas, diferenciadas de la numeración correlativa por un recuadro. La línea de impresión de estos caracteres no debe exceder de 50 mm y
 
-a) Número del documento: Debe colocarse en el extremo superior izquierdo. El
+debe ubicarse a 10 mm del borde superior del documento y a un a distancia de entre 10 y 25 mm. de su borde izquierdo;
 
-conjunto numérico no debe exceder de 8 dígitos. En caso de requerirse una
+b) Denominación y código de tipo de documento: Su ubicación debe estar en el centro de la parte superior del documento, entre el número correlativo y el importe numérico en pesos, pudiendo cubrir una extensión lineal de 70 mm;
 
-complementación para establecer serie o prefijo, ésta no puede exceder de 3
+c) Importe numérico en pesos: Debe ubicarse a 7 mm del lado derecho del documento y a 10 mm de su borde superior derecho. El signo pesos se imprimirá a 54 mm del borde derecho del documento. En los casos que corresponda se anotará en esta linea el valor final que debe pagarse;
 
-posiciones alfa numéricas, diferenciadas de la numeración correlativa por un
+d) Códigos de institución, plaza y oficina: Debe localizarse inmediatamente bajo el importe numérico en pesos, en la forma que se indica en el numeral 3.2 de este capítulo;
 
-recuadro. La línea de impresión de estos caracteres no debe exceder de 50 mm y
+e) Firma giradora: Debe estar ubicada en la parte inferior derecha a no menos de 16 mm del borde inferior. Si se imprime una línea de referencia, su largo no será mayor de 80 mm; y,
 
-debe ubicarse a 10 mm del borde superior del documento y a 10 mm del borde
-
-izquierdo;
-
-b) Denominación y código de tipo de documento: Su ubicación debe estar en el
-
-centro de la parte superior del documento, entre el número correlativo y el
-
-importe numérico en pesos, pudiendo cubrir una extensión lineal de 70 mm;
-
-c) Importe numérico en pesos: Debe ubicarse a 7 mm del lado derecho del
-
-documento y a 10 mm de su borde superior derecho. El signo pesos se imprimirá a
-
-54 mm del borde derecho del documento. En los casos que corresponda se anotará
-
-en esta linea el valor final que debe pagarse;
-
-d) Códigos de institución, plaza y oficina: Debe localizarse inmediatamente bajo
-
-el importe numérico en pesos, en la forma que se indica en el numeral 3.2 de
-
-este capítulo;
-
-e) Firma giradora: Debe estar ubicada en la parte inferior derecha a no menos de
-
-16 mm del borde inferior. Si se imprime una línea de referencia, su largo no
-
-será mayor de 80 mm; y,
-
-f) Espacio para caracteres magnéticos: Esta franja debe extenderse a todo lo
-
-largo del documento con un ancho de 16 mm desde la parte inferior del documento,
-
-para permitir la impresión de caracteres magnéticos según lo dispuesto en el
-
-numeral 3.3 de este capítulo.
+f) Espacio para caracteres magnéticos: Esta franja debe extenderse a todo lo largo del documento con un ancho de 16 mm desde la parte inferior del documento, para permitir la impresión de caracteres magnéticos según lo dispuesto en el numeral 3.3 de este capítulo.
 
 2.2.2. Localizaciones optativas.
 
-Es optativo el lugar de colocación para incluir la época de pago (si se trata de
+Es optativo el lugar de colocación para incluir la época de pago (si se trata de un documento pagadero a la vista, a plazo o a determinada fecha); nombre de la institución; lugar de giro y fecha de emisión; beneficiario; importe en letras y otros datos.
 
-un documento pagadero a la vista, a plazo o a determinada fecha); nombre de la
+En todo caso, junto al nombre de la entidad financiera debe aparecer el nombre y dirección de la sucursal u oficina girada.
 
-institución; lugar de giro y fecha de emisión; beneficiario; importe en letras y
-
-otros datos.
-
-En todo caso, junto al nombre de la entidad financiera debe aparecer el nombre y
-
-dirección de la sucursal u oficina girada.
-
-Se recomienda mantener la distribución utilizada de manera que se conserve una
-
-cierta uniformidad que haga fácil la lectura y manejo de estos
-
-documentos.Cualquiera que sea la ubicación que se les dé, deberá procurarse, que
-
-ella no interfiera con los espacios destinados a la información que debe
-
-colocarse en lugares expresamente señalados en el numeral anterior y que no
+Se recomienda mantener la distribución utilizada de manera que se conserve una cierta uniformidad que haga fácil la lectura y manejo de estos documentos.Cualquiera que sea la ubicación que se les dé, deberá procurarse, que ella no interfiera con los espacios destinados a la información que debe colocarse en lugares expresamente señalados en el numeral anterior y que no
 
 admiten modificaciones.
 
