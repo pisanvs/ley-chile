@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.912, de 31 de octubre de 2002, se expropiaron los lotes de terrenos Nºs 23 y 24, superficies 1.553 y 2.618 m² respectivamente, rol de Avalúo Nº524-311, comuna de La Unión, para la obra "Camino Ruta T-80, sector La Unión - Las Trancas, Tramo Km. 0,900 a Km. 10,99034", X Región y se acordó el valor de la indemnización con la propietaria Bertilda Bastidas Pérez y Otra, ascendente a la cantidad de $6.686.736.-
+
+Fiscal del Ministerio de Obras Públicas.
