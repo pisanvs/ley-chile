@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.159, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº 45, superficie 2.851 m2, rol de avalúo 135-5, comuna de Dalcahue, para la obra ''Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 al 9,317'' y se acordó el valor de indemnización con su propietario don Jorge Juan Eduardo o Jorge Ovalle Cruz, ascendente a la cantidad de $5.515.524.
+
+- Fiscal del Ministerio de Obras Públicas.
