@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.728, de fecha 28 de diciembre de 2004, se expropió el lote de terreno Nº 50-C, superficie 137 m²., Rol Nº 2190-102, comuna de Puerto Montt, X Región para la obra "Camino Ruta V-505, sector Puerto Varas-Los Alerces-Puerto Montt, Km. 0,000 al Km. 16,340, provincia de Llanquihue" y se acordó el valor de indemnización con su propietaria María Eugenia Gutiérrez Muñoz y Otros, ascendente a la cantidad de $500.067.- para el lote Nº 50-C.
+
+Fical del Ministerio de Obras Públicas.
