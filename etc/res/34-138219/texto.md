@@ -1,0 +1,5 @@
+AUTORIZA A FUNDACION "INSTITUTO DE EDUCACION RURAL" PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 34, de 20 de Enero de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Fundación "Instituto de Educación Rural", domiciliada en Santiago, para iniciar actividades pesqueras de cultivo de los recursos hidrobiológicos: Salmón plateado y Salmón rey, en instalaciones situadas en la localidad de Ten Ten, Comuna de Castro, Provincia de Chiloé, X Región (Plano Ordinal SERNAP No. 696 a y b). La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan. Valparaíso, 20 de Enero de 1988.-
+
+Norman Bull de la Jara, Subsecretario de Pesca Subrogante.
