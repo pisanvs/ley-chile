@@ -3330,7 +3330,7 @@ c) Las instituciones financieras pueden cobrar comisiones por el manejo de las c
 
 Las cuentas de ahorro a plazo con giro incondicional tienen las siguientes características:
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile. Cuando sean abiertas en bancos, también podrán ser en moneda extranjera.
+a) Son en moneda nacional, no reajustables o reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile. Cuando sean abiertas en bancos, también podrán ser en moneda extranjera.
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
@@ -3348,7 +3348,7 @@ g) Los bancos no podrán hacer cargos a estas cuentas de ahorro a plazo relativo
 
 Las cuentas de ahorro a plazo con giro diferido tienen las particularidades que se indican a continuación:
 
-a) Son en moneda nacional, reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile. Cuando sean abiertas en bancos, también podrán ser en moneda extranjera.
+a) Son en moneda nacional, no reajustables o reajustables por la variación de la unidad de fomento u otro sistema de reajustabilidad autorizado por el Banco Central de Chile. Cuando sean abiertas en bancos, también podrán ser en moneda extranjera.
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
@@ -3390,9 +3390,9 @@ d) La condición de presentar la libreta para efectuar cualquier giro, en el cas
 
 e) Los procedimientos que debe seguir el titular en caso de extravío de la libreta o de pérdida de la tarjeta que permite el acceso al sistema automatizado al que se encuentre adscrita la cuenta de ahorro.
 
-f) La cantidad de giros que puede realizar el titular sin perder el derecho a reajustes, cuando corresponda, y los requisitos exigidos para efectuar giros a la vista.
+f) La cantidad de giros que puede realizar el titular sin perder el derecho a reajustes o intereses, cuando corresponda, y los requisitos exigidos para efectuar giros a la vista.
 
-g) La oportunidad en que se abonan los reajustes e intereses y la forma en que la institución comunicará los cambios en las tasas de interés.
+g) La oportunidad en que se abonan los intereses y reajustes, cuando sea el caso y la forma en que la institución comunicará los cambios en las tasas de interés.
 
 3.2. Registro y verificación de los antecedentes básicos.
 
@@ -3432,7 +3432,7 @@ Cuando se convenga la modificación de las condiciones por las que se rige una c
 
 No obstante lo indicado precedentemente, cuando una institución financiera mantenga sistemas de "cuentas de ahorro con libreta" y "cuentas de ahorro sin libreta", los titulares de las cuentas de ahorro podrán optar por cambiar de modalidad conservando la antigüedad para los efectos del abono de reajustes e intereses, como asimismo, para el cómputo de la cantidad de giros. Para efectuar dichos traspasos, sin embargo, deberá suscribirse un nuevo contrato, debiendo la institución financiera informar debidamente al interesado acerca de las características y costos del sistema al que se quiere acoger.
 
-Por otra parte, cuando la institución depositaría consienta en abonar trimestralmente los reajustes en una cuenta de ahorro con giro incondicional en que se haya pactado el abono cada doce meses y el cambio consista solamente en esa modificación de la periodicidad, se podrá mantener la misma cuenta con todas sus implicancias, bastando para el efecto que el titular presente una solicitud o declaración en tal sentido, sin necesidad de suscribir un nuevo contrato.
+Por otra parte, cuando la institución depositaría consienta en abonar trimestralmente los reajustes en una cuenta de ahorro con giro incondicional en que se haya pactado reajustes con el abono cada doce meses y el cambio consista solamente en esa modificación de la periodicidad, se podrá mantener la misma cuenta con todas sus implicancias, bastando para el efecto que el titular presente una solicitud o declaración en tal sentido, sin necesidad de suscribir un nuevo contrato.
 
 ### 4. Libretas de ahorro
 
@@ -3534,7 +3534,7 @@ En las cuentas de ahorro a plazo con giro incondicional se puede girar hasta cua
 
 c) Cuentas de ahorro a plazo con giro diferido.
 
-En el caso de las cuentas de ahorro a plazo con giro diferido se pueden realizar hasta seis giros en el correspondiente período de doce meses, sin perder el derecho de percibir los respectivos reajustes devengados. No obstante, podrá también pactarse un número de giros inferior, de acuerdo a lo indicado en la letra d) siguiente.
+En las cuentas de ahorro a plazo con giro diferido y con cláusula de reajustabilidad, se pueden realizar hasta seis giros en el correspondiente período de doce meses, sin perder el derecho de percibir los respectivos reajustes devengados.
 
 d) Mayores limitaciones para el número de giros.
 
@@ -3542,7 +3542,7 @@ Las instituciones financieras pueden pactar con los titulares de cuentas de ahor
 
 ### 8. Reajuste de las cuentas de ahorro a plazo
 
-Tendrán derecho a reajuste los depósitos que permanezcan en las cuentas por un plazo igual o superior a 90 días. Para los efectos del cálculo y pago del reajuste, los giros se considerarán como depósitos con signo negativo y deberán imputarse a el o los depósitos efectuados, en orden inverso a su antigüedad. El mismo procedimiento se seguirá con los cargos por concepto de comisiones y primas de seguros, cuando corresponda.
+Al pactarse cuentas de ahorro a plazo con cláusula de reajustabilidad, el reajuste sólo puede aplicarse a los depósitos que permanezcan en las cuentas por un plazo igual o superior a 90 días. Para los efectos del cálculo y pago del reajuste, los giros se considerarán como depósitos con signo negativo y deberán imputarse a el o los depósitos efectuados, en orden inverso a su antigüedad. El mismo procedimiento se seguirá con los cargos por concepto de comisiones y primas de seguros, cuando corresponda.
 
 Los reajustes deberán abonarse a las respectivas cuentas de acuerdo con la periodicidad establecida en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile. Los depósitos que no hubieren aún cumplido 90 días a la fecha en que debe efectuarse el abono de los reajustes en la cuenta, deberán ser reajustados con posterioridad, considerando el importe que se mantenga al menos por 90 días.
 
@@ -3552,9 +3552,9 @@ Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el per
 
 9.1. Interés autorizado.
 
-Los intereses que acuerden pagar las instituciones financieras a las cuentas de ahorro a plazo deben ser de aplicación general, sin que medien otras discriminaciones que no sean las provenientes del tipo de cuenta de que se trate, es decir, si es con giro incondicional o con giro diferido, con o sin libreta; del saldo medio mantenido, en tanto ello se establezca como condición para el pago de una mayor tasa de interés; o del número de giros pactado, según lo indicado en la letra d) del numeral 7.3 de este Capítulo.
+Los intereses que acuerden pagar las instituciones financieras a las cuentas de ahorro a plazo deben ser de aplicación general, sin que medien otras discriminaciones que no sean las provenientes del tipo de cuenta de que se trate, es decir, si es con o sin reajustabilidad, con giro incondicional o con giro diferido, con o sin libreta; del saldo medio mantenido, en tanto ello se establezca como condición para el pago de una mayor tasa de interés; o del número de giros pactado, según lo indicado en la letra d) del numeral 7.3 de este Capítulo.
 
-Las instituciones financieras pueden fijar libremente la tasa de interés anual a pagar sobre el capital reajustado, la que sólo se podrá cambiar dentro de los diez primeros días de cada mes calendario y la nueva tasa regirá, a lo menos, por el lapso que reste de dicho mes.
+Las instituciones financieras pueden fijar libremente la tasa de interés anual, la que sólo se podrá cambiar dentro de los diez primeros días de cada mes calendario y la nueva tasa regirá, a lo menos, por el lapso que reste de dicho mes.
 
 No obstante, la tasa de interés podrá ser modificada sin esperar el inicio de un nuevo mes calendario, cuando la nueva tasa sea superior a la que esté vigente. Esta mayor tasa no podrá ser disminuida en lo que resta del mes y en todo el mes siguiente.
 
@@ -3582,13 +3582,13 @@ En ningún caso se cobrarán comisiones correspondientes a períodos posteriores
 
 ### 11. Desahucio o cierre de una cuenta de ahorro
 
-Las cuentas de ahorro son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad. Por consiguiente, en el caso de las cuentas de ahorro a plazo, los reajustes e intereses deben seguir abonándose a la cuenta respectiva, aunque ella no tenga movimiento.
+Las cuentas de ahorro son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad. Por consiguiente, aunque una cuenta de ahorro a plazo no tenga movimiento, se seguirán abonando a ella los intereses y, cuando corresponda,los reajustes.
 
 No podrá considerarse cerrada una cuenta de ahorro por el solo hecho de haber quedado sin saldo, ya sea como consecuencia de haberse retirado la totalidad de los fondos depositados o por el cargo de comisiones.
 
 Lo anterior no obsta para que las instituciones financieras pongan término a una cuenta de ahorro, enviando un aviso al titular según lo instruido en el numeral 14.6 de estas normas o para que soliciten al titular, en cualquier momento, su conformidad para cerrar una cuenta.
 
-Al tratarse de una cuenta de ahorro a plazo, solamente se podrá poner término a la cuenta por la sola voluntad de la institución financiera, en la fecha en que corresponda abonar los intereses y reajustes. En consecuencia, para cerrar una cuenta con anterioridad a esa fecha, se requiere de una conformidad expresa del titular.
+Al tratarse de una cuenta de ahorro a plazo, solamente se podrá poner término a la cuenta por la sola voluntad de la institución financiera, en la fecha en que corresponda abonar los intereses, cuando proceda. En consecuencia, para cerrar una cuenta con anterioridad a esa fecha, se requiere de una conformidad expresa del titular.
 
 El titular de una cuenta de ahorro a plazo que cierre voluntariamente su cuenta antes de la fecha en que corresponda abonar los reajustes o los intereses, sea por propia iniciativa o por otorgar su conformidad escrita a requerimiento de la institución depositaría, pierde el derecho a percibir los beneficios aún no abonados. Las instituciones financieras deberán advertir esa situación a la persona que desee cerrar su cuenta.
 
@@ -3596,7 +3596,7 @@ Cuando se ponga término a una cuenta de ahorro, sea por voluntad del titular o 
 
 ### 12. Prohibición de ofrecer otros beneficios a los titulares
 
-Las instituciones financieras no pueden convenir pagos de intereses o reajustes por la mantención de saldos en cuentas de ahorro a la vista, a diferencia de las cuentas de ahorro a plazo en que, por el contrario, dicho pacto es obligatorio.
+Las instituciones financieras no pueden convenir pagos de intereses o reajustes por la mantención de saldos en cuentas de ahorro a la vista, a diferencia de las cuentas de ahorro a plazo en que, por el contrario, es obligatorio pactar intereses, como asimismo la modalidad de reajuste en el caso de las cuentas reajustables.
 
 Con excepción de los intereses y reajustes para las cuentas de ahorro a plazo, las instituciones depositarías no pueden ofrecer ningún beneficio apreciable en dinero por la apertura o por la mantención de cuentas de ahorro.
 
@@ -3646,7 +3646,7 @@ c) Importe de cada partida, identificando el concepto por el cual se acreditó o
 
 d) Saldo inicial y final de la cuenta en el período informado.
 
-Si la institución calcula los reajustes e intereses de las cuentas de ahorro a plazo sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
+Si la institución calcula los intereses y/o reajustes, en su caso sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
 
 Cualquiera que sea el saldo promedio mantenido, un estado de cuenta similar deberá remitirse, también, a los titulares, cuando su cuenta de ahorro a plazo no registre ningún depósito o giro durante el referido período de doce meses, pero en ese mismo lapso haya recibido algún cargo por concepto de comisiones. Esta exigencia no será obligatoria, sin embargo, cuando al titular se le envíe un aviso de desahucio según lo dispuesto en el numeral 14.6.
 
@@ -3666,7 +3666,7 @@ En esa comunicación se le señalará al titular la oportunidad en que deberá r
 
 Las instituciones financieras que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
 
-En toda publicidad que comprenda cuentas de ahorro con giro incondicional en moneda chilena, las instituciones financieras deberán señalar la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan ambas modalidades.
+En toda publicidad que comprenda cuentas de ahorro con giro incondicional en moneda chilena reajustables, las instituciones financieras deberán señalar la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan ambas modalidades.
 
 Por otra parte, si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta.
 
@@ -3691,8 +3691,6 @@ Para el cálculo de los reajustes y de los intereses deben seguirse los procedim
 15.3. Comisiones.
 
 Las comisiones que las instituciones depositarías cobren por el manejo de las cuentas de ahorro, deben acreditarse a las cuentas "Comisiones percibidas sobre cuentas de ahorro a la vista", "Comisiones percibidas sobre cuentas de ahorro a plazo con giro incondicional" o "Comisiones percibidas sobre cuentas de ahorro a plazo con giro diferido", según corresponda, de la partida 7530.
-
-Dichas comisiones sólo deben contabilizarse una vez que se hayan cargado a las respectivas cuentas de ahorro, según lo señalado en el N° 10 de las presentes normas.
 
 15.4. Solicitudes de giro de cuentas de ahorro a plazo con giro diferido.
 
@@ -7172,7 +7170,7 @@ Bancos
 
 043 BANCO DE LA NACION ARGENTINA
 
-045 THE BANK OF TOKVO-MITSUBISHI LTD
+045 THE BANK OF TOKYO-MITSUBISHI LTD
 
 046 ABN AMRO BANK (CHILE)
 
@@ -7181,6 +7179,8 @@ Bancos
 051 BANCO FALABELLA
 
 052 DEUTSCHE BANK (CHILE)
+
+053 BANCO RIPLEY
 
 504 BBVA BANCO BHIF
 
