@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Recontrucción Nº109, de fecha 20 de noviembre del año 2002, se autorizó la existencia y aprobó el estatuto de la Cooperativa de Ahorro y Crédito "Maestros de Quilpué" Limitada, de sigla "Codemaqui Ltda." en los términos que da testimonio el acta reducida a escritura pública con fecha 5 de abril del año 2002, ante el Notario Carlos Montenegro Torres, Repertorio Nº521-2002, que fuera rectificada y modificada por el acta reducida a escritura pública ante el mismo Notario, Repertorio Nº1595-2002.
+
+Por orden del señor Subsecretario, Raúl Oliva Camadro, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
