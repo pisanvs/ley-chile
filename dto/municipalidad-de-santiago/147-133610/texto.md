@@ -1,0 +1,3 @@
+Decreto Secc. 2ª Nº146, febrero 26, 1999, Alcalde Municipalidad Santiago dispone expropiación parcial, conforme Art. 85 decreto 458 Ministerio Vivienda y Urbanismo inmueble Agustinas 2394 esquina General Bulnes Rol Nº375-45 y 375-26, comuna Santiago, dominio aparente Maritza Calderón Olguín, superficie aproximada 135,46 metros cuadrados. Deslindes: Norte, 19,87 mts. Agustinas aproximadamente; Sur, 3,30 mts. otro propietario y 16,97 mts. misma propiedad línea quebrada, aproximadamente; Oriente, 2,10 mts. otro propietario y 37,40 mts. línea quebrada misma propiedad aproximadamente y Poniente 36,60 mts. General Bulnes. Indemnización $16.932.500.- pagadera compensándose con mayor valor experimenta propiedad.
+
+Juan Infante P., Alcalde (S) Santiago.
