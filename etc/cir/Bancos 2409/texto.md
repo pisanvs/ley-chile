@@ -17286,7 +17286,7 @@ La cuenta "Utilidad del ejercicio anterior por asignar" se saldará con abono a 
 
 extranjero, decidan sobre el destino de dichas utilidades, teniendo presente las disposiciones del artículo 75 de la Ley General de Bancos.
 
-Con todo, las instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile u obligación de recompra de cartera con el Instituto Emisor, deberán registrar la utilidad del ejercicio anterior en la cuenta "Utilidad distribuible acciones preferidas" de la partida 4320, en la que permanecerá hasta que la Junta de Accionistas acuerde su distribución.
+Con todo, las instituciones financieras que mantengan obligación subordinada con el Banco Central de Chile u obligación de recompra de cartera con el Instituto Emisor, deberán registrar la totalidad de la utilidad del ejercicio anterior, equivalente al excedente que le corresponde a las acciones preferidas, en la cuenta "Utilidad distribuible acciones preferidas" de la partida 4320. En atención a que ese excedente se rige por las disposiciones del artículo 10 de la Ley N° 18.401 no queda afecto, en ningún caso, a la exigencia de constituir la reserva de que trata el artículo 73 de la Ley General de Bancos. Dicho excedente permanecerá registrado en esta cuenta especial hasta que la Junta de Accionistas acuerde su distribución o capitalización de conformidad con la disposición legal citada y con las instrucciones impartidas por este Organismo mediante Circular N° 2.255-677 de 13 de mayo de 1987.
 
 3.3. Aumentos de capital.
 
@@ -17294,7 +17294,7 @@ Los aumentos de capital por la suscripción y pago de acciones incrementarán el
 
 Del mismo modo, los aportes de capital en bancos extranjeros se registrarán al momento de ingresar el capital y liquidarse las divisas.
 
-Cuando el aumento de capital provenga de un acuerdo de capitalización de excedentes destinados al pago de dividendos sobre acciones preferentes, de conformidad con la Ley N° 18.401, se abonará el capital pagado en la oportunidad en que se emitan las respectivas acciones liberadas, con cargo a la cuenta "Provisión para cubrir el pago de dividendos de acciones preferentes", de la partida 4230 del formulario MB1.
+Cuando el aumento de capital provenga de un acuerdo de capitalización de excedentes destinados al pago de dividendos sobre acciones preferentes, de conformidad con la Ley N° 18.401, se abonará el capital pagado en la oportunidad en que se emitan las respectivas acciones liberadas, con cargo a la cuenta "Utilidad distribuible acciones preferidas" de la partida 4320 del MB1.
 
 Los aumentos de capital provenientes de capitalización de pasivos que hayan sido autorizados por esta Superintendencia, se abonarán al capital pagado al perfeccionarse la operación.
 
