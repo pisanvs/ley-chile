@@ -1,0 +1,3 @@
+Por resolución Nº 1.570, de 12 de agosto de 1999, de esta Subsecretaría, autorízase a PROSMOLT S.A. para continuar desarrollando las actividades de acuicultura autorizadas a Chisal S.A. por resoluciones Nº 636, Nº1.091 y Nº 1.310, todas de 1988; Nº 1.214, de 1991; Nº 138, Nº1.176 y Nº 1.178, todas de 1992, de esta Subsecretaría.
+
+Valparaíso, 12 de agosto de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
