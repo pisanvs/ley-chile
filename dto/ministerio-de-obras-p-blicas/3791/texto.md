@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.791, de 29 de diciembre de 1999, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº85-C, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca. Sector A: Km. 29.014,00 al Km.
+
+42.800,00, Región Metropolitana, que figura a nombre de Sucesión Berríos Quintanilla Camilo, rol de avalúo 452-53, comuna de Buin, superficie 693 m². La comisión de peritos integrada por los señores Inés Elena Otárola Castillo, Marcela Alejandra Redard Ayala y María Angélica Hurtado Arranz, fijó con fecha 2 de noviembre de 1999, el valor provisional de la indemnización en la cantidad de $5.985.250.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
