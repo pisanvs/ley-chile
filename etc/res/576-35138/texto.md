@@ -1,0 +1,3 @@
+Por Resolución N° 576, de 18 de Mayo de 1995, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, cadúcase la Resolución N° 1.695, de 1989 y N° 229, de 1990, ambas de esta Subsecretaría, que autorizó a don VICTOR ALFARO SIMONCIONI, R.U.T. N° 5.014.636-7, para operar la nave "Doña Pilar", en virtud de lo dispuesto en el artículo 143° letra b) del D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
