@@ -1,0 +1,3 @@
+Por Resolución N° 291, de 3 de Mayo de 1993, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, modifícase el numeral 2° la Resolución N° 199, de 1992, de esta Subsecretaría, que autorizó a COMPAÑIA PESQUERA CAMANCHACA S.A., R.U.T. N° 93.711.000-6, domiciliada en Miraflores N° 178, Piso 16, Santiago, para realizar faenas de pesca extractiva con una nave en construcción, en el sentido de señalar que su capacidad de bodega es de 450 m3 y no de 650 m3 como se señala en la Resolución citada precedentemente.
+
+Valparaíso, 3 de mayo de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
