@@ -1,0 +1,13 @@
+Por resolución N° 70 de 1 de Febrero de 1993 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a FRIOAYSEN S.A., R.U.T. N°96.548.630-5, para desarrollar una pesca de investigación del recurso bacalao de profundidad, Dissostichus eleginoides, en orden a operar la embarcación "Friosur V", en el área de pesca comprendida en el ámbito de competencia de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos, correspondiente a la subárea estadística 48.4, islas Sandwich del Sur, donde podrá capturar el recurso hidrobiológico Bacalao de profundidad, con espinel.
+
+El objetivo de la pesca de investigación que por la presente resolución se autoriza, es detectar la presencia del recurso bacalao de profundidad, Dissostichus eleginoides, y determinar si los niveles de abundancia permiten desarrollar una nueva pesquería, de conformidad al convenio de investigación celebrado el 21 de septiembre de 1992, entre la peticionaria y la Universidad Austral de Chile.
+
+La pesca de investigación que se autoriza en esta resolución se extenderá desde el 1 de febrero de 1993 al 2 de mayo de 1993.
+
+La solicitante deberá dar estricto cumplimiento a las disposiciones de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos, especialmente a las medidas de conservación vigentes y a las que establezcan la Convención particularmente la medida de conservación N° 44/XI; asimismo deberá acatar las normas del tratado antártico.
+
+El titular de la presente resolución deberá aceptar a bordo de la nave autorizada individualizada en el numeral 2° anterior, al científico investigador de la Universidad Austral de Chile y el que designe la Subsecretaría de Pesca o el Servicio Nacional de Pesca, para fines de investigación o fiscalización. Asimismo, deberá proporcionar al Servicio Nacional de Pesca, de acuerdo a los procedimientos que éste fije, la información y los datos estadísticos que le sean solicitados para fines de control y para dar cumplimiento a las disposiciones que sobre este particular establezca la Convención para la Conservación de los Recursos Vivos Marinos Antárticos.
+
+La presente resolución es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 1° de Febrero de 1993.- Andrés Couve Rioseco, Subsecretario de Pesca.
