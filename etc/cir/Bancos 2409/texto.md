@@ -16018,9 +16018,9 @@ Los precios deberán pactarse de acuerdo con las condiciones imperantes en el me
 
 Las partes deberán mantener un riguroso control contable de los ingresos y gastos, debiendo establecerse en los contratos que los cobros se realizarán con la pormenorización necesaria para ese efecto.
 
-9.4.- Relaciones entre sociedades filiales.
+9.4.- Relaciones entre las sociedades en las cuales participen las instituciones financieras.
 
-Lo dispuesto en los numerales precedentes rige también para las relaciones que mantengan entre sí las distintas sociedades filiales de un banco o sociedad financiera.
+Lo dispuesto en los numerales precedentes rige también para las relaciones que mantengan entre sí las distintas sociedades filiales o de apoyo al giro en las cuales participe la misma institución financiera.
 
 9.5.- Sanciones.
 
@@ -16058,11 +16058,21 @@ Además de los estados financieros anuales auditados, las sociedades filiales de
 
 Cuando se trate de sociedades fiscalizadas por otra superintendencia, las instituciones financieras matrices deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige la Superintendencia de Valores y Seguros.
 
+13.- Realización directa de las actividades permitidas a las filiales de que trata la letra b) del artículo 70 de la Ley General de Bancos.
+
+El último inciso del artículo 71 de la Ley General de Bancos, faculta a esta Superintendencia para autorizar a las instituciones financieras la realización directa de algunas de las actividades permitidas a las filiales de que trata la letra b) del artículo 70 de dicha ley. Para este efecto, su artículo 72 establece los requisitos que deben cumplir las instituciones financieras y que son los mismos que la ley exige para constituir una sociedad filial.
+
+Las actividades que deben ser objeto de una solicitud para desarrollarlas directamente, corresponderán a aquellas que esta Superintendencia, por norma general, haya establecido previamente como susceptibles de incorporarse al giro de las instituciones financieras.
+
+En ese sentido, no se requiere autorización de esta Superintendencia cuando alguna institución financiera desee disolver una sociedad filial de cobranza de créditos a fin de efectuar ella misma esa actividad, puesto que en ese caso la institución ya se encuentra facultada para realizar tales operaciones por el N° 8 del artículo 69 de la Ley General de Bancos. Lo mismo ocurre con las empresas bancarias en relación con el giro de asesoría financiera, previsto en el N° 17 del mencionado artículo 69. En estos casos, en que los giros ya se encuentran autorizados en la propia ley, sólo se deberá solicitar a esta Superintendencia la autorización para la disolución de la sociedad filial de que se trate.
+
 III.- SOCIEDADES DE APOYO AL GIRO.
 
 1.- Sociedades de apoyo al giro de las instituciones financieras.
 
 Para los efectos de las presentes normas y de acuerdo con lo dispuesto en el artículo 74 de la Ley General de Bancos, se entenderá que constituyen empresas de apoyo al giro las sociedades que presten servicios destinados a facilitar el cumplimiento de los fines de las entidades financieras que participen en ellas, como asimismo aquellas en que, por su intermedio, las instituciones financieras puedan efectuar determinadas operaciones de su giro.
+
+Los servicios destinados a facilitar el cumplimiento de los fines de las entidades financieras que pueden prestar las sociedades de apoyo al giro, comprenden: las prestaciones directas a sus socios o accionistas; los servicios contratados por las sociedades filiales constituidas al amparo del artículo 70 de la Ley General de Bancos; y, las prestaciones a otras sociedades de apoyo al giro.
 
 El giro específico de estas sociedades es materia de autorización por parte de la Superintendencia y en todo caso, de acuerdo con la ley, ese giro no puede incluir la captación de dinero del público. Las actividades que ha autorizado este Organismo para empresas de apoyo al giro se describen en el Anexo N° 2 de este Capítulo.
 
@@ -16097,6 +16107,8 @@ Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efecto
 No existe inconveniente para que los directores o los empleados de las instituciones financieras participantes, sean directores de una sociedad de apoyo al giro.
 
 Las sociedades a que se refiere este título deberán tener gerente, personal, local, equipamiento y servicios independientes de sus entidades financieras propietarias.
+
+No obstante, las instituciones financieras socias o accionistas podrán prestar servicios a sus sociedades de apoyo al giro, bajo las mismas condiciones establecidas en el N° 9 del título II de este Capítulo.
 
 7.- Restricciones en las inversiones de las sociedades de apoyo al giro.
 
