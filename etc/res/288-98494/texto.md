@@ -1,0 +1,5 @@
+DEJA SIN EFECTO RESOLUCIONES QUE INDICA
+
+Por resolución Nº 288, de 8 de Agosto de 1983, de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se dejan sin efecto, acorde con lo dispuesto en el inciso 2º del artículo 7º del decreto 175, de 1980, de Economía, las resoluciones Nºs 225, de 10 de Junio de 1980 y 394, de 6 de Octubre del mismo año, ambas de la Subsecretaría de Pesca; y se dejan sin efecto, conforme a lo estipulado en el inciso 1º del artículo 7º del decreto 175, citado, las siguientes resoluciones de la Subsecretaría de Pesca: Nºs 292 y 293, ambas de 28 de Agosto de 1981; Nº 3, de 8 de Enero de 1982; Nº 108 y Nº 109, ambas de 2 de Abril de 1981; y Nº 94, de 20 de Abril de 1982.
+
+Santiago, 8 de Agosto de 1983.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
