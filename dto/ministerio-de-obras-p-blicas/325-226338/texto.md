@@ -1,0 +1,3 @@
+Por decreto MOP Nº 325 de fecha 27 de abril de 2004, se expropió el lote de terreno Nº 505, superficie 271 m2, rol de avalúo en trámite, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 0,00000 Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietario Rafael Carroza Molina, ascendente a la cantidad de $3.066.159.-
+
+Fiscal del Ministerio de Obras Públicas.
