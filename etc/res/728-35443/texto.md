@@ -1,0 +1,3 @@
+Por Resolución N° 728, de 2 de Agosto de 1994, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase por un año, a contar del 25 de junio de 1994, el plazo otorgado a PESQUERA COLOMBA S.A., R.U.T. N° 96.530.830-K, en orden a iniciar actividades pesqueras extractivas con la nave "COLOMBA IV", autorizada mediante Resolución N° 493, de 1992, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 2 de Agosto de 1994.- Patricio Bernal Ponce, Subsecretario de Pesca.
