@@ -1,0 +1,5 @@
+Por decreto MOP No. 1.610, de 21 de junio de 1999, y en base a la facultad otorgada por el artículo 105 del DFL No. 850, de 1997, que fijó el texto actualizado de la ley No.
+
+15.840, se expropió el lote de terreno No. 119, para la obra Camino Cauquenes - Límite Regional - Quirihue, Sector Cuesta, Km. 17.780,00 a Km. 40.504,64, que figura a nombre de Jos‚ Leonardo Mora Mora, Rol de Avalúo 317-46, comuna de Quirihue, VIII Región, superficie 954 m2. La Comisión de peritos compuesta por los señores Ramón Jofr‚ Soto, Manuel Concha Rojas y Manuel G lvez Alegría, fijó con fecha 9 de febrero de 1995, el valor provisional de la indemnización en la cantidad de $ 125.090.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 75 del decreto ley No. 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
