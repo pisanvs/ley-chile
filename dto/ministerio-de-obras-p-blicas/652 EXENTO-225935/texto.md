@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 652 de 30 de abril de 2004, se expropió el lote de terreno Nº 8-A, superficie 580 m2, rol de Avalúo Nº 308-200, comuna de Melipeuco, para la obra "Camino Melipeuco - Icalma, Sector Melipeuco - Tracura Km. 97,50000 al Km. 104,2038", IX Región y se acordó el valor de la indemnización con su propietario Abel Raúl Darío Tagle Varas, ascendente a la cantidad de $496.160.
+
+Fiscal del Ministerio de Obras Públicas.
