@@ -1,0 +1,3 @@
+Por Resolución N° 2 del 19 de Julio de 1993, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IV Región, se adjudicó a Servi Integra Limitada, la concesión para operar, por una plazo de cinco (5) años a contar de la fecha de publicación del presente extracto, un establecimiento ubicado en calle Tarcisio Valderrama s/n° de la comuna de Illapel, destinado a la revisión técnica y verificación de emisión de contaminantes de todo tipo de vehículos motorizados, sus remolques y semirremolques, en la forma y condiciones que se señalan en el contrato que se aprueba.-
+
+Freddy Bonilla Torreblanca, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IV Región de Coquimbo.
