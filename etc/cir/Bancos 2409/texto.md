@@ -18034,19 +18034,7 @@ Se considerarán también relacionadas a la entidad financiera las sociedades en
 
 También se considerarán relacionadas las sociedades en las que alguna de las personas naturales relacionadas con la institución financiera a través de la gestión, ocupe el cargo de director, gerente general u otro equivalente.
 
-Debe tenerse presente que las personas que se desempeñan como directores o apoderados generales de las instituciones financieras, así como sus cónyuges,hijos menores bajo patria potestad y las sociedades en que estas personas sean socios o accionistas, están impedidas por el artículo 84 N° 4 de la Ley General de Bancos de obtener crédito en la institución financiera en que se desempeñan,norma que prevalece respecto de las que se señalan en este capítulo.
-
-Se excluyen de esta prohibición aquellas sociedades en que un director o apoderado general, en conjunto con su cónyuge y sus hijos menores bajo patria potestad, tiene una participación igual o inferior a un 5% en el capital o en las utilidades.
-
-Las sociedades anónimas cuya única vinculación con una institución financiera esté dada por el hecho que sólo uno de sus directores participa también en la gestión de esta última entidad, transitoriamente no se incluirán en la nómina de personas relacionadas.
-
-Cuando dicho director lo sea también de la institución financiera, la exclusión se aplicará hasta la próxima junta general de accionistas en que corresponda renovar el directorio de cualquiera de las empresas.
-
-Cuando el director de la sociedad anónima participe en la gestión de la entidad financiera en una forma distinta a la de director, la exclusión se aplicará hasta la próxima junta general de accionistas en que deba renovarse el directorio de la referida sociedad.
-
-En todo caso, las excepciones siempre se aplicarán cuando las personas en cuestión han sido elegidas o designadas en sus cargos, en ambas empresas, con anterioridad al 30 de abril de 1987.
-
-Para los efectos de lo señalado precedentemente, se entiende que participa en la gestión de una entidad financiera aquella persona que desempeñe alguno de los cargos mencionados en el numeral 1.2 del título I de este capítulo.
+Debe tenerse presente que las personas que se desempeñen como directores o apoderados generales, así como sus cónyuges, hijos menores bajo patria potestad y las sociedades en que estas personas sean socios o accionistas, están sujetas a la prohibición de otorgarles crédito según lo establecido en el artículo 84 N°4 de la Ley General de Bancos y tratado en el Capítulo 12-12 de esta Recopilación Actualizada de Normas, precepto que prevalece respecto de los que se señalan en el presente Capítulo.
 
 1.3. Presunciones de relación.
 
@@ -18458,27 +18446,13 @@ LIMITES DE CREDITO A TRABAJADORES DE LA INSTITUCION FINANCIERA.
 
 ### 1. Límites de crédito a trabajadores
 
-De acuerdo con lo dispuesto en el N° 4 del artículo 84 de la Ley General de
+De acuerdo con lo dispuesto en el N° 4 del artículo 84 de la Ley General de Bancos, el monto total de los créditos que una institución financiera puede
 
-Bancos, el monto total de los créditos que una institución financiera puede
+otorgar a sus trabajadores, no puede exceder de un 1,5% del capital pagado y reservas de la empresa, ni puede ser superior, individualmente, al 10% de dicho límite.
 
-otorgar a sus trabajadores, no puede exceder de un 1,5% del capital pagado y
+No quedan sujetos a los límites señalados, los préstamos con garantía hipotecaria que, en una sola oportunidad respecto de una misma persona, se otorguen a los trabajadores con el objeto de que adquieran una casa habitación para su uso personal.
 
-reservas de la empresa, ni puede ser superior, individualmente, al 10% de dicho
-
-límite.
-
-No quedan sujetos a los límites señalados, los préstamos con garantía
-
-hipotecaria que, en una sola oportunidad respecto de una misma persona, se
-
-otorguen a los trabajadores con el objeto de que adquieran una casa habitación
-
-para su uso personal.
-
-En todo caso, cualquier crédito otorgado a un trabajador está afecto a los
-
-límites individuales de que trata el N° 1 del referido artículo 84.
+Todo lo anterior es sin perjuicio del cumplimiento de los límites individuales de crédito de que trata el N° 1 del referido artículo 84 y de la prohibición de otorgar crédito a los empleados que se desempeñen como apoderados generales de la institución establecida en el inciso tercero del N° 4 antes mencionado, materias a las que se refieren los Capítulos 12-3 y 12-12 de esta Recopilación de Normas, respectivamente.
 
 ### 2. Concepto de trabajador
 
@@ -19507,6 +19481,38 @@ Los saldos en moneda extranjera se computarán por su equivalente en moneda chil
 4 - Sanciones.
 
 El último inciso del artículo 83 antes mencionado dispone que las instituciones que adquieran bienes por sobre el límite establecido, incurrirán en una multa equivalente al 10% sobre el exceso de la inversión realizada, por cada mes calendario que lo mantengan.
+
+CAPITULO 12-12 (Bancos y Financieras) MATERIA:
+
+PROHIBICION DE OTORGAR CREDITOS A DIRECTORES, APODERADOS Y PERSONAS RELACIONADAS CON ELLOS.
+
+1. Personas relacionadas que no pueden ser deudoras de la Institución financiera.
+
+El inciso tercero del N° 4 del artículo 84 de la Ley General de Bancos excluye de todo crédito a los directores de una institución financiera, o a cualquiera persona que se desempeñe en ella como apoderado general. Asimismo, prohíbe todo crédito a las siguientes personas relacionadas con los directores o apoderados por los vínculos que se indican: cónyuge, hijos menores bajo patria potestad y sociedades en que cualquiera de ellos forme parte o tenga participación.
+
+Para los efectos de esa prohibición legal, las instituciones financieras deben tener presente las siguientes precisiones acerca de las relaciones que impiden el otorgamiento de crédito:
+
+a) Por directores deben entenderse tanto los directores titulares como los suplentes o provisionales. Al tratarse de bancos extranjeros que no tienen directorio en Chile, la prohibición de que se trata alcanza al agente del banco.
+
+b) Por apoderado de una institución financiera debe entenderse, además del gerente y subgerente general, a toda persona que pueda comprometer a la institución sin limitaciones o solamente con limitaciones particulares bajo su sola firma.
+
+c) Por cónyuge se entienden no sólo los que se encuentran casados bajo régimen de sociedad conyugal, sino también los separados de bienes e incluso los divorciados temporal o perpetuamente.
+
+d) Por hijos menores bajo patria potestad se entienden los hijos legítimos menores de 21 años, que se encuentren bajo la patria potestad de su padre o madre, según corresponda, esto es, que tratándose de todo tipo de menores de edad, no se encuentren sometidos a la guarda de otra persona o, tratándose de menores adultos, no hayan sido emancipados.
+
+e) Por sociedades deben entenderse todo tipo de sociedades, tanto de personas como de capitales, atendido que la ley se refiere a que formen parte o tengan participación.
+
+### 2. Sociedades que se excluyen
+
+En uso de las facultades establecidas en el inciso tercero del N° 4 del artículo 84 antes mencionado, esta Superintendencia dispone que quedan excluidas de la prohibición de que trata este Capítulo, aquellas sociedades en que uno o más directores o uno o más apoderados generales, en conjunto con su cónyuge y sus hijos menores bajo patria potestad, tienen una participación igual o inferior a un 5% en el capital y en las utilidades.
+
+3. Personas que entren a desempeñarse en calidad de director o apoderado general.
+
+Cuando una persona entre a desempeñarse en calidad de director o apoderado general de una institución financiera, deberá pagar todos los créditos que adeudare a ésta antes de asumir sus funciones. Lo mismo deberán hacer las demás personas que tengan con ella algunas de las vinculaciones señaladas anteriormente.
+
+### 4. Sanciones
+
+Conforme a lo establecido en la ley, la contravención al precepto que prohíbe el otorgamiento de crédito hace incurrir a la institución infractora en una multa igual al valor del crédito.
 
 CAPITULO 13-1 (Bancos y Financieras)
 
