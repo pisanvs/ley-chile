@@ -1,0 +1,3 @@
+Por decreto MOP No. 315, de 26 de febrero de 1999, se expropiaron los lotes de terreno No. s. 4 y 11, superficies 5.813,5 y 10.099,2 m2, roles de avalúo 215-49 y 215-426, comuna de Teodoro Schmidt, obra Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Chelle - Hualpín - Puente Peule, y se acordó precio de indemnización con sus propietarios don Ernaldo Díaz Gonz lez y Sylvia Chureo Zapata, ascendente a las cantidades de $ 1.860.206.- y $ 3.187.612.-
+
+Fiscal del Ministerio de Obras Públicas.
