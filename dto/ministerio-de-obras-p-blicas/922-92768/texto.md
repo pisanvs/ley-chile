@@ -1,0 +1,19 @@
+Por Decreto MOP. N°922, de 30 de septiembre de 1997, se expropiaron los lotes de terreno N°s. 2, 3, 6, 11, 12, 40, 41, 42, 43, 44, 45, 46, 52, 53, 54 y 55, superficies 1.477, 2.830, 283, 1.687, 245, 250, 270, 278, 130, 170, 450, 324, 2.163, 160, 116 y 860 m2. respectivamente, roles de avalúo 1006-53, 1006-67, 1006-69, 1006-46, 1006-44, 1041-27, 1026-12 y 1026-22, comuna de Aysén, para la obra Reposición Ruta X-50, Sector Cruce Ruta 7 (Mañihuales)-Cruce Ruta 240 Ch-(Aysén), y se acordó precio de indemnización con sus propietarios Angel Jimenéz Alvarez, Enriqueta Mansilla Torres, Gregorio Gamín Tarumán, José Tolentino San Martín, José Ojeda Aguilar, Florinda Sandoval Oyarzún, María Auad Naser y Emir Pérez Cortés, ascendentes a las cantidades de $227.
+
+- **287.-** para el lote 2, $308.
+
+- **058.-** para el lote 3,$139.
+
+- **256.-** para el lote 6, $232.
+
+- **306.-** para el lote 11, $133.
+
+- **785.-** para el lote 12, $334.
+
+- **845.-** para los lotes 40, 41, 42, 43, 44, 45 y 46, $202.
+
+- **548.-** para los lotes 52 y 53, $157.
+
+- **180.-** para lotes 54 y 55.-
+
+Fiscal del Ministerio de Obras Públicas.
