@@ -1,0 +1,15 @@
+DECLARA CADUCIDAD DE RESOLUCIONES QUE INDICA
+
+Por resolución N.° 1.236 de 21 de Octubre de 1987 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se declara la caducidad de las siguientes resoluciones de esta Subsecretaría, por haber incurrido en la causal establecida en el artículo 6° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción: -Resolución No. 374, de 1987, que autorizó a don Herig Barría Bahamonde, R.U.T. No.
+
+4.279.845-2, domiciliado en Quellón, calle 22 de Mayo No. 020, esquina Santos Vargas, para iniciar actividades pesqueras de cultivo.- Resolución No. 401, de 1987, que autorizó a doña María Soledad Chávez Miralles, R.U.T.
+
+No. 7.343.585-4, domiciliada en calle Almeyda No. 151, Comuna de Maullín, para iniciar actividades pesqueras de cultivo.- Resolución No. 402, de 1987, que modificó la resolución No. 641, de 1986, de esta Subsecretaría de Pesca, que autorizó a Compañía Pesquera Camanchaca S.A., domiciliada en Santiago, para ampliar actividades pesqueras de cultivo. Resolución No. 405, de 1987, que modificó la Resolución No. 236, de 1986, de esta Subsecretaría que autorizó a don Jorge A. Misle Nervi, R.U.T. No. 50.356.800-4, domiciliado en Papudo, calle Irarrázabal No. 012, para operar la embarcación a que se refiere dicha Resolución.- Resolución No. 416, de 1987, que autorizó a Sociedad Exportadora y Comercial Deshidro Limitada, domiciliada en Libertad No. 105, Chiguayante, para operar tres embarcaciones en construcción denominadas "Albacora", "Tunina" y "Barracuda", en el litoral que se encuentra entre Punta Liles (Paralelo 32° 45' 40' Sur) y la X Región.- Resolución No. 422, de 1987, que autorizó a don Carlos Mauricio Díaz Valenzuela, cédula de identidad No. 8.226.617-8, domiciliado en Autopista No. 8342, Talcahuano, VIII Región, para operar la embarcación "María Luisa II", en el litoral de las Regiones IX y la XI.- Resolución No. 427, de 1987, que autorizó a doña Bildad Irene Henríquez Saldivia, R.U.T. No. 9.763.484-K, domiciliada en calle Elvira Werner No. 347, El Maitén, La Unión, X Región, para iniciar actividades pesqueras de cultivo.- Resolución No. 464, de 1987, que autorizó a don Juan Segundo Ruiz Millán, R.U.T. No. 4.875.349-3, domiciliado en Manao, sector rural, Comuna de Ancud, Provincia de Chiloé, X Región, para iniciar actividades pesqueras de cultivo.- Resolución No. 497, de 1987, que autorizó a don Víctor René Olavarría Uribe, cédula de identidad No.
+
+9.241.085-4, domiciliado en la localidad de Quillaipe, para iniciar actividades pesqueras de cultivo.- Resolución No. 512, de 1987, que autorizó a don José Antonio Martínez Gallegos, cédula de identidad No.
+
+8.082.037-2, domiciliado en calle Manuel Rodríguez No. 344, de Peña Blanca, Villa Alemana, para iniciar actividades pesqueras de cultivo.- Resolución No. 523, de 1987, que autorizó a don Sergio Molina Vargas, R.U.T.
+
+No. 8.280.798-5,domiciliado en Población Errázuriz, Pasaje Los Canelos, Manzana 5, casa No. 2, Puerto Varas, para iniciar actividades pesqueras de cultivo. Valparaíso, 21 de Octubre de 1987.
+
+Roberto Cabezas Bello, Subsecretario de Pesca.
