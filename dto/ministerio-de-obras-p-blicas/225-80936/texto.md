@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 225 de 24 de Septiembre de 1991, se expropió el lote No. 26, rol de avalúo 231-002, superficie 139 m2. Comuna de Chimbarongo, para la obra Camino Longitudinal Sur, Sector San Fernando Chimbarongo, Km. 137.100 al 157.460, Acceso Codegua Chimbarongo y se acordó el precio de la indemnización con su propietario Sociedad Agrícola Chimbarongo Ltda., ascendente a la cantidad de $ 2.412.533.- para el lote 26.-
+
+Fiscal del Ministerio de Obras Públicas.
