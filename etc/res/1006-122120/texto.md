@@ -1,0 +1,3 @@
+Por resolución Nº1.006, de 21 de Julio de 1998, de esta Subsecretaría, modifícase la resolución Nº44 de 1998, de esta Subsecretaría, que denegó la autorización para ampliar actividades extractivas a la EMPRESA NACIONAL DE PESCA S.A. en el sentido de sustituir, en su numeral 1, la expresión ''... en virtud de encontrarse...'', por la frase ''... mientras se encuentre...''.
+
+Valparaíso, 21 de Julio de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
