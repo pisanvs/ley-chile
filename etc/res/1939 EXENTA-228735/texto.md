@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.939, de 21 de julio de 2004, de esta Subsecretaría, autorízase a PESQUERA QURBOSA TRES S.A., para continuar desarrollando las actividades pesqueras autorizadas mediante resoluciones citadas en visto a Pesquera Qurbosa S.A., con las naves "Tranoi" y "Mar Austral", en virtud de la escritura pública y disposiciones legales citadas en visto.
+
+Valparaíso, 21 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
