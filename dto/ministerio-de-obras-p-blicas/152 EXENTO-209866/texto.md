@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 152, de fecha 31 de marzo de 2003, se expropiaron los lotes de terreno Nºs 58-A y 58-B, superficie 31 y 103 m2, respectivamente, Rol Nº 502-2, comuna de Retiro, VII Región, para la obra "Camino Ruta L-75, Sector El Ajial-Las Camelias. Tramo Km. 6,320.00 a Km. 23,400.00" y se acordó el valor de indemnización con su propietario José Lorenzo Basoalto Valerio ascendente a la cantidad de $443.658.
+
+Fiscal del Ministerio de Obras Públicas.
