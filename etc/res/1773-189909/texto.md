@@ -1,0 +1,3 @@
+Por resolución Nº 1.773, de 21 de agosto de 2001, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Maule, VIII Región, individualizada en el artículo 1º Nº 2 del D.S. Nº 152 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES, AYUDANTES DE BUZOS Y ACTIVIDADES CONEXAS DE CALETA MAULE.
+
+Valparaíso, 21 de agosto de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
