@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.628, de 28 de abril del 2000, se expropiaron los lotes de terreno Nºs 1, 2, 3, 4, 5, 6, 7, 8 y 10, superficies 507, 1.904, 473, 392, 4.932, 650, 1.468, 246 y 289 m², respectivamente, rol de avalúo 202-1, comuna de Lumaco, para la obra Camino Lumaco Capitán Pastene, sector Lumaco-Capitán Pastene Kms. 0.000 al 10525,168 y se acordó precio de la indemnización con su propietario Carlos Alberto Linfati Cantergiani, ascendente a la cantidad de $2.864.555.-
+
+Fiscal del Ministerio de Obras Públicas.
