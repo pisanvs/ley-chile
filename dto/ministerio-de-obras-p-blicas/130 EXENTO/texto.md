@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº130, de 21 de noviembre de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 1 y 3. Obra: Camino Ruta G-10-F, sector Cuesta La Dormida Kms. 0,00000 al 11,00000, que figuran a nombre de Mercedes Aguilar Rojas, rol de avalúo 65-2, comuna de Til-Til, superficies 1.178 m2 y 30,60 m2. La comisión de peritos fijó con fecha 31 de julio de 2000, en la cantidad de $2.611.800, lote 1 y $55.080, lote 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
