@@ -352,6 +352,8 @@ Dentro del tiempo de servicios computado para una pensión de retiro, no podrán
 
 El plazo para acogerse a los beneficios de la presente ley, regirá hasta el 30 de Setiembre de 1934.
 
+> **Nota.** El artículo 1° de la Ley 5878, publicada el 28.08.1936, concede un nuevo plazo de un año, a contar de la fecha de su publicación, para acogerse a los beneficios que establece la presente norma.
+
 #### Artículo 20º
 
 <!-- parte:8844653 -->
@@ -377,6 +379,8 @@ Si se aumentaren los sueldos del personal en actividad de las instituciones arma
 <!-- parte:8844656 -->
 
 Las pensiones de retiro y montepío a que se refiere la presente ley quedarán exentas de toda contribución fiscal.
+
+Dichas pensiones y montepío no podrán ser gravados con el impuesto global complementario adicional, ni con otro alguno.
 
 #### Artículo 24
 
