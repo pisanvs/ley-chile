@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.738, de 28 de abril de 2000, se expropió el lote de terreno Nº200, superficie 735 m²., rol de avalúo 185-35, comuna de Collipulli, para la obra Concesión Internacional Ruta 5, Tramo: Chillán-Collipulli, Novena Región y se acordó el valor de indemnización con su propietario Juan Antonio Matus Guzmán, ascendente a la cantidad de $9.458.601.-
+
+Fiscal del Ministerio de Obras Públicas.
