@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 36, de 27 de febrero de 1987, se expropiaron los lotes N°s. 2; 3 y 4, cuyas superficies son 1.395 M2., 177 M2. y 1.308 M2., respectivamente,¨ roles de avalúos 231-11, 231-70 y 231-10, todos de la Comuna de Purén, para la obra Alcantarillado de Purén y se acordó el precio de indemnización con sus propietarios David A. Torres Gaete, María M. Leal Torres y Juan B. Riffo Mora, ascendente a las cantidades de $ 70.587, $ 8.956, y $ 66.185.-
+
+Fiscal del Ministerio de Obras Públicas.
