@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION PARCIAL DE INMUEBLE QUE SEÑALA
+
+Resolución Nº 061, de 21 de enero de 2004, Serviu X Región de Los Lagos, ordenó expropiación parte de un inmueble ubicado Panguinamún Nº 795, Rol 79-9, comuna San Pablo, provincia Osorno, superficie aproximada 104,8 metros cuadrados, deslindes según plano de expropiación TEP 845: Noreste: en 26,20 mts. terrenos Marcelo Iván Tonk Sánchez y otra; Sureste, 4 mts. terrenos Serviu, antes José Galaz; Noroeste, 4 mts. calle Panguinamún esquina Barroso; y Suroeste, 26,20 mts. terrenos Marcelo Iván Tonk Sánchez y otra, aparente dominio Marcelo Iván Tonk Sánchez y otra, inscrita a fojas 2452 Nº 3279 Registro Propiedad 1998 Conservador de Bienes Raíces, Proyecto programas ministeriales en materia construcción de viviendas, San Pablo, conforme al art. 7 D.L. 2.186, Comisión Tasadora, peritos Nelson Fabián Igor Flores, Constructor Civil, Enrique Edgardo Hoelk Altmann y Leopoldo Ramón Schumacher Guarda, ambos Ingenieros Civiles, según Informe de fecha 1 diciembre 2003, monto provisional $157.200.-, más reajustes legales respectivos.-
+
+Director Serviu X Región.
