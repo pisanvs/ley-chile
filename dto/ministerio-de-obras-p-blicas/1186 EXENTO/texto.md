@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.186, de 31 de agosto de 2001, se expropió el lote de terreno Nº43-B2, superficie 1.219 m2., rol de avalúo 152-329, comuna de Graneros, para la obra Concesión Internacional Ruta 5. Tramo: Santiago-Talca y Acceso Sur a Santiago. By Pass Rancagua, Sexta Región y se acordó el valor de indemnización con su propietario Carlos Antonio Herrera Maldonado, ascendente a la cantidad de $1.728.806.-
+
+Fiscal del Ministerio de Obras Públicas.
