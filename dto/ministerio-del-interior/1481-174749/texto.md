@@ -1892,7 +1892,7 @@ Artículo 217º: Las Municipalidades deberán dividir la totalidad del territori
 
 <!-- parte:8838197 -->
 
-Con el objeto de que ninguna sección del territorio nacional quede excluida de la organización a que se refiere la ley Nº 16.880, las Municipalidades tendrán un plazo máximo de 60 días para fijar las Unidades Vecinales en su comuna, transcurrido el cual se aplicará la disposición contenida en el inciso 2º del artículo 8 de dicha ley. Este plazo se contará desde la fecha de promulgación del decreto supremo a que se refiere el artículo 7º inciso 3º de la ley mencionada.
+Con el objeto de que ninguna sección del territorio nacional quede excluida de la organización a que se refiere la ley Nº 16.880, las Municipalidades tendrán un plazo máximo de 60 días para fijar las Unidades Vecinales en su comuna, transcurrido el cual se aplicará la disposición contenida en el inciso 2º del artículo 8 de dicha ley. Este plazo se contará desde la fecha de publicación del decreto supremo a que se refiere el artículo 7º inciso 3º de la ley mencionada.
 
 #### Artículo 219º
 
