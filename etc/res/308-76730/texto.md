@@ -1,0 +1,3 @@
+Resolución 308, 9 octubre 1997, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1168, Rol de Avalúo Nº 533-0045, comuna Concepción, superficie 169 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-533-0045 de aparente dominio de don Juan Soto-Aguilar Novoa y Otros, para ejecución programa "Mejoramiento Interconexión Vial Centro Concepción-Autopista", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Teodoro Medina Reyes, ingeniero civil, Pedro Tagle Martínez, arquitecto y Luis Abarzúa Ceballos, constructor civil, según informe de fecha 12 de diciembre de 1996, fijó monto provisional indemnización en $15.236.000.-, pagadera de contado. Director
+
+Serviu Región del Bío Bío.
