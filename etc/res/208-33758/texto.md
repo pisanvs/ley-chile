@@ -1,0 +1,3 @@
+Por resolución N° 208 de 10 de marzo de 1993 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, parte inmueble ubicado en Avenida Cinco de Abril N° 4228, presunto rol de avalúos N° 950-17 comuna de Estación Central, aparente dominio de doña Pilar Abad y Otros. Comisión integrada por peritos Sres. Pastor Correa Prats, arquitecto, Sergio Rojas Ibáñez, ingeniero Civil y Miguel Haltenhoff Aenischanslin, constructor civil, según informe de 9 de octubre 1992, fijó monto provisional indemnización en $ 3.176.000 pagadera al contado.-
+
+Directora SERVIU Metropolitano.
