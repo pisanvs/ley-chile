@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.306, de 31 de mayo de 1999, se expropió el lote de terreno Nº 19-1, superficie 265 m2., rol de avalúo 102-97, comuna de San Pablo, para la obra Concesión Internacional Ruta 5. Tramo Río Bueno - Puerto Montt. Sector Río Bueno - San Pablo, Décima Región y se acordó el valor de indemnización con su propietario Héctor Henríquez Caro, ascendente a la cantidad de $945.862.
+
+Fiscal del Ministerio de Obras Públicas.
