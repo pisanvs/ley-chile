@@ -1,0 +1,3 @@
+Por decreto MOP Nº283, de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº48, superficie 290 m2., rol de avalúo 302-380, comuna de Cunco, para la obra "Camino Ruta S-61, sector: Cunco - Melipeuco, tramo Km. 55,000 al Km. 87,46783, correspondiente al sub-tramo II Km. 62,784 al Km. 76,043", IX Región y se acordó el valor de indemnización con su propietario Jorge Provisto Riffo Sánchez, ascendente a la cantidad de $4.312.595.-
+
+Fiscal del Ministerio de Obras Públicas.
