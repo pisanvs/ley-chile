@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 683, de 30 de abril de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 15, 16, 17, 18, 25 y 27, para la ejecución de la obra ''Camino Ruta S-16, Sector Galvarino - Chol-Chol, Tramo Km. 0,00000 a Km.
+
+24,302.69'', que figuran a nombre de Luis Quintas Fernández, Marta Harriet Abarzúa, Sofía Avendaño Necul y Carmela Inal Lipimán, rol de avalúo 75-31, 75-32, 75-873 y 75-880, comuna de Galvarino, IX Región, superficies 1.475, 2.573, 1.389, 4.437, 1.027 y 2.846 m2. La Comisión de peritos fijó con fecha 28 de septiembre de 1999, el valor provisional de la indemnización en la cantidad de $339.250, lote 15; $746.790, lote 16; $319.470, lote 17; $1.270.510, lote 18; $753.710, lote 25 y $654.580, lote 27. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
