@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº275, de fecha 22 de marzo del 2002, se expropió los lotes de terreno Nº11, 12, 12-A, 15, superficies 96,0, 419,0, 245,0, 173,0 m2, Rol de avaluo Nº 297-34, comuna de Lautaro, para la obra "Lautaro Curacautín III, Segunda Etapa, Km. 28,000 al Km. 56,04946" , IX Región y se acordó el valor de indemnización con su propietario Domingo Vera Pérez, ascendente a la cantidad de $534.905.-
+
+Fiscal del Ministerio de Obras Públicas
