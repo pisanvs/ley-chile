@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº743, de 22 de mayo de 2002 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº14, para la obra Camino Ruta V-20, sector Bifurcación Fresia-Tegualda, Km. 26,720 a Km. 33,682731, que figura a nombre de González Altamirano María, rol de avalúo 182-71, superficie 3.025 m2., comuna de Fresia. La Comisión de Peritos, con fecha 22 de diciembre de 1998, fijó la indemnización provisional en la cantidad de $2.427.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas .
