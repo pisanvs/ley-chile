@@ -1,0 +1,3 @@
+Por Resolución No. 350 de 19 de abril de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, parte inmueble ubicado calle Santa Isabel No. 0438, presunto rol avalúos 3502-38 comuna Providencia, aparente dominio de don Luis Martínez Arcaya. Comisión integrada por peritos señores Luis Rojas Quezada, constructor civil, Jorge Navarro Navarrete, arquitecto y Emilio Recabarren Solar, ingeniero civil, según informe de 21 de diciembre de 1988, fijó monto provisional indemnización en $ 1.413.400.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
