@@ -1,0 +1,1 @@
+Autoriza al Presidente de la República contratar empréstito hasta por $ 30.000,000, destinado a la adquisición o edificación de propiedades para casa habitación del personal de tropa del Cuerpo de Carabineros de Chile, del Servicio de Investigaciones, Identificación y Pasaportes y de la Gendarmería de Prisiones.
