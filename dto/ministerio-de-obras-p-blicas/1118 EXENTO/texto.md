@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.118, de fecha 30 de julio de 2002, se expropió el lote de terreno Nº28, superficie 36 M2, rol de avalúo 2210-239, comuna de Chillán, VIII Región, para la obra ''Camino Ruta N-45, Sector Cruce Ruta N-49 (Chillán)-La Capilla-Tres Esquinas, Km. 0,00000 al 5,88000'' y se acordó el valor de indemnización con su propietaria doña Ana Rosa Martínez Jara, ascencente a la cantidad de $133.386.-
+
+Fiscal del Ministerio de Obras Públicas.
