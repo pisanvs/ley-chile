@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 604 de fecha 28 de marzo del 2002, se expropiaron los lotes de terreno Nºs. 53, 53-A, 60 y 61, superficie 7.205,00, 467,00, 3.609,00 y 2.338,00 m² respectivamente, Rol Nº 537-10, comuna de Río Bueno, para la obra ''Camino Río Bueno - Crucero, Sector T-90-U y T-933, Tramo Km. 0,00000 a Km. 20,90000'', y se acordó el valor de indemnización con su propietario Soc. Agríc. Vinícola y Ganadera Bianchi Becker Limitada, ascendente a la cantidad de $17.103.134.-
+
+Fiscal del Ministerio de Obras Públicas.
