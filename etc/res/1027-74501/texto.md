@@ -1,0 +1,3 @@
+Por Resolución Nº 1.027, de 17 de julio de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de autorización de acuicultura, solicitud Nº 94040019, presentada por VICTOR IVAN BEIZA SILVA, para instalar y operar una piscicultura ubicada en la Parcela Nº 29, El Maitén, comuna de Illapel, provincia de Choapa, IV Región, en virtud de lo dispuesto en el artículo Nº 14º, del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
