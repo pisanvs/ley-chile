@@ -1,0 +1,7 @@
+Fundicion de metales en la Casa de Moneda
+
+Santiago, Noviembre 10 de 1821.
+
+Para acallar los clamores del público, sencillar las operaciones de metales, i reunirlas en una sola casa, con ahorros de gastos i tiempo, en beneficio de los mineros i el público, se traslada desde esta fecha la callana, que se ha servido hasta ahora por remate, a la Casa de Moneda, donde pagarán los introductores el cuartillo por marco de plata i real por el de oro que designa la lei, para que hechas allí las barras i tejos del grueso i peso que dispone la ordenanza, i por reverbero, o como mejor convinieren la naturaleza de cada metal, a direccion del Superintendente de la misma Casa, se consulte la seguridad de la Hacienda, i el interes del minero en el ahorro de mermas que lamentan, dejándole su derecho a salvo a los poseedores para que, por el resultado de la causa demorada por tantos años sobre este negocio, sean reintegrado como fuere de justicia, i sin que se admita solicitud ni recurso que dilate o enerve el cumplimiento de esta resolucion de grave e inmediato interes público; el Superintendente presentará un plan económico para su manejo, proponiendo sus empleados.
+
+Tómese razon en el Tribunal de Cuentas, Casa de Moneda i Tesorería Jeneral. Hágase saber a los poseedores e imprímase.- O'Higgins.- Vial.
