@@ -1,0 +1,3 @@
+Por decreto M.O.P. N° 454, de 19 de Diciembre de 1984, se expropió el lote de terreno N° 3, para agua potable de Galvarino, que figura a nombre de don Alfredo Kehr F., rol de avalúo 70-20, superficie 6.860,75 m2 , comuna de Galvarino, IX Región. La Comisión de Peritos compuesta por los señores Roberto Gesche Robert, Mario Gutiérrez Truan y Mario Molina Ramwell, fijó con fecha 31 de Marzo de 1983, el valor provisional de la indemnización en la cantidad de $ 54.886, la indemnización se pagará al contado. La publicación se efectúa en cumplmiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
