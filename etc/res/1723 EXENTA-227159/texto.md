@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.723, de 25 de junio de 2004, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.611 de 2004, de esta Subsecretaría, que denegó la solicitud presentada por PESQUERA BAHIA CORONEL S.A. en orden a realizar actividades extractivas en aguas internacionales con la nave en construcción allí individualizada, en virtud de lo dispuesto en la resolución Nº 1.610 de 2004, de esta Subsecretaría.
+
+Valparaíso, 25 de junio de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
