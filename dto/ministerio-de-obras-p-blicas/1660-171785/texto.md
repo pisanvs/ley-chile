@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.660, de 28 de abril del 2000, se expropió el lote de terreno Nº 9, superficie 470 m², rol de avalúo 50-11, comuna de Pumanque, para la obra Camino Ruta I-60, Sector Población Pumanque, Kms. 0.000 al 20.900,79 y se acordó precio de la indemnización con su propietario Francisco Javier Moraga Mardones, ascendente a la cantidad de $1.359.488.
+
+Fiscal del Ministerio de Obras Públicas.
