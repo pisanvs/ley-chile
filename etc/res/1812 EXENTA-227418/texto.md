@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.812, de 5 de julio de 2004, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111037 presentada por PESQUERA LOS FIORDOS LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Puyuguapi, entre punta Trigueña y punta Krauss, sector El Arbolito, XI Región.
+
+Valparaíso, 5 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
