@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 706 de fecha 30 de abril del 2001, se expropió el lote de terreno Nº 11, superficie 5.685,00 m2., rol de avalúo Nº 386-42, comuna de Pitrufquén, para la obra "Proyecto Diseño Definitivo Regadío Faja Maisan Red Primaria 3/5 Derivado Mahuidanche". Sector Km. 0.000 al Km. 2.009,85 y se acordó el valor de indemnización con su propietario, Gladys Alberti Granzotto y Otra, ascendente a la cantidad de $2.922.659.-
+
+Fiscal del Ministerio de Obras Públicas.
