@@ -1,0 +1,11 @@
+ACEPTA RENUNCIA DE DIRECTOR DEL CONSEJO DIRECTIVO Y PRESIDENTE DEL BANCO DEL ESTADO DE CHILE
+
+Núm. 273.- Santiago, 9 de marzo de 2000.- Vistos: El artículo 9 del decreto ley Nº2.079, de 1977; lo dispuesto en los artículos 24 y 32 Nº12, de la Constitución Política de la República de Chile; el decreto supremo de Hacienda Nº235, de 1990; y, la renuncia adjunta, dicto el siguiente,
+
+D e c r e t o:
+
+Acéptase, a contar del 11 de marzo del año 2000, la renuncia presentada por don Andrés Vicente Sanfuentes Vergara, al cargo de Director del Consejo Directivo del Banco del Estado de Chile y Presidente de dicha entidad bancaria.
+
+Tómese razón, regístrese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Manuel Marfán Lewis, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Eugenia Wagner Brizzi, Subsecretaria de Hacienda.
