@@ -1,0 +1,9 @@
+Por decreto exento MOP Nº1.795, de 30 de noviembre
+
+de 2001, y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº65 para la obra: "Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Subtramo: Cartagena - Las Cruces Km.
+
+1.800,00 al Km. 4.000,00", Quinta Región, que figura a nombre de Gonzalez Lira Roberto y Ots, rol de avalúo 1100-45, comuna de Cartagena, superficie 1.133 m². La Comisión de Peritos integrada por los señores Marlene Teresa Ríos Marcuello, Joaquin Prieto Ochagavía y María Elena García Monteverde, fijó con fecha 1 de agosto de 2001, el valor provisional de la indemnización en la cantidad de $820.100.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
