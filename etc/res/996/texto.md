@@ -1,0 +1,3 @@
+Extractos de Resoluciones Por resolución N° 996, de 21 de Octubre de 1992, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, amplíase por un año a contar del 27 de septiembre de 1992, el plazo otorgado a doña FLOR MARIA ALBORNOZ TOBAR, R.U.T. N° 4.188.122-4, para operar un centro de cultivo del recurso Salmón plateado, en el numeral 5° de la Resolución N° 1268, de 1991, de esta Subsecretaría, en razón de haberse acreditado la ocurrencia de una situación de fuerza mayor.
+
+Valparaíso, 21 de Octubre de 1992.- Andrés Couve Rioseco, Subsecretario de Pesca.
