@@ -1,0 +1,3 @@
+Por resolución exenta N° 492 de fecha 14/7/92 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, se autorizó complementariamente a la empresa de origen paraguayo La Santaniana S.R.L., para efectuar transporte internacional terrestre de pasajeros entre Asunción (Paraguay) e Iquique (Chile), en tránsito por territorio Argentino y viceversa, con una frecuencia semanal de ida y vuelta, utilizando el paso fronterizo de Sico.-
+
+Sergio González Tagle, Subsecretario de Transportes. +
