@@ -548,7 +548,7 @@ Sin perjuicio de lo establecido en el Libro IX de este Código, la autoridad san
 
 #### Artículo 74°
 
-No se podrá explorar ni pedir pertenencia minera en sitios donde se han alumbrado aguas subterráneas en terrenos particulares ni en aquellos lugares cuya explotación pueda afectar el caudal o la calidad natural del agua, sin previa autorización del Servicio Nacional de Salud, el que fijará las condiciones de seguridad y el área de protección de la fuente o caudal correspondiente.
+No se podrá ejecutar labores mineras en sitios donde se han alumbrado aguas subterráneas en terrenos particulares ni en aquellos lugares cuya explotación pueda afectar el caudal o la calidad natural del agua, sin previa autorización del Servicio Nacional de Salud, el que fijará las condiciones de seguridad y el área de protección de la fuente o caudal correspondiente.
 
 El Servicio Nacional de Salud podrá ordenar en todo caso la paralización de las obras o faenas cuando ellas puedan afectar el caudal o la calidad del agua.
 
@@ -668,7 +668,9 @@ La reglamentación determinará, además, los casos y condiciones en que podrá 
 
 b) la protección de la salud, seguridad y bienestar de los ocupantes de edificios o locales de cualquier naturaleza, del vecindario y de la población en general, así como la de los animales domésticos y de los bienes, contra los perjuicios, peligros e inconvenientes de carácter mental o material que provengan de la producción de ruidos, vibraciones o trepidaciones molestos, cualquiera que sea su origen.
 
-> **Nota.** Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
+> **Nota.** Véanse la LEY 18122, publicada el 17.05.1982, que creó el Servicio de Salud del Ambiente en la Región Metropolitana; y el Decreto 206, Salud, publicado el 07.12.1982, Reglamento Orgánico de dicho Servicio.
+
+> **Nota.** NOTA 1: Véase el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
 
 ### Párrafo II
 
@@ -922,11 +924,15 @@ Sólo los establecimientos de óptica podrán despachar recetas médicas en que 
 
 #### Artículo 129°
 
-La instalación, ampliación, modificación o traslado de establecimientos públicos y particulares de asistencia médica, tales como hospitales, maternidades, clínicas, policlínicas, sanatorios, asilos, casas de reposo, establecimientos de óptica, laboratorios clínicos, institutos de fisioterapia y psicoterapia, será autorizada por el Servicio Nacional de Salud, a quien corresponderá también vigilar su funcionamiento.
+Las instalación, ampliación, modificación o traslado de establecimientos públicos y particulares de asistencia médica, tales como hospitales, maternidades, clínicas, policlínicas, sanatorios, asilos, casas de reposo, establecimientos de óptica, laboratorios clínicos, institutos de fisioterapia y psicoterapia, será autorizada por el Servicio Nacional de Salud, a quien corresponderá también vigilar su funcionamiento.
 
 Igualmente, corresponde al Servicio Nacional de Salud vigilar el funcionamiento de peluquerías, institutos de belleza, gabinete de pedicuría y otros establecimientos similares.
 
 La dirección técnica de los establecimientos señalados en el inciso primero, estará a cargo de profesionales con el título que, en cada caso, determine el Servicio Nacional de Salud.
+
+> **Nota.** Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
+
+> **Nota.** NOTA 1: Véase el Decreto 334, Salud, publicado el 27.10.1983, que aprueba el Reglamento de Casas de Reposo, Asilos y otros Establecimientos Similares.
 
 # Libro VII
 
@@ -937,6 +943,8 @@ DE LA OBSERVACION Y RECLUSION DE LOS ENFERMOS MENTALES, DE LOS ALCOHOLICOS Y DE 
 El Director General de Salud, resolverá sobre la observación de los enfermos mentales, de los que presentan dependencias de drogas u otras substancias, de los alcohólicos y de las personas presuntivamente afectadas por estas alteraciones, así como sobre su internación, permanencia y salida de los establecimientos públicos o particulares destinados a ese objeto. Estos establecimientos cumplirán con los requisitos que señala el reglamento.
 
 > **Nota.** Véanse los artículos 133 y siguientes de la LEY 17105, publicada el 14.04.1969, que contiene el texto refundido de la Ley sobre alcoholes y bebidas alcohólicas.
+
+> **Nota.** NOTA 1 Véase el Decreto 161, Salud, publicado el 19.11.1982, que establece el Reglamento de Hospitales y Clínicas Privadas.
 
 #### Artículo 131°
 
@@ -1021,6 +1029,8 @@ La exhumación, transporte internacional, internación y traslado de una localid
 # Libro IX
 
 DEL APROVECHAMIENTO DE ORGANOS, TEJIDOS O PARTES DEL CUERPO DE UN DONANTE VIVO Y DE LA UTILIZACION DE CADAVERES O PARTE DE ELLOS CON FINES CIENTIFICOS O TERAPEUTICOS
+
+> **Nota.** Véase el Reglamento de este Libro IX, aprobado por Decreto 240, Salud, publicado el 03.12.1983.
 
 #### Artículo 145°
 
