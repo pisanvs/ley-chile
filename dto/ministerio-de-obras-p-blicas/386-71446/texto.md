@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 386, de 21 de abril de 1997, se expropiaron los lotes de terreno Nºs. 200-A, 211 y 211-A, superficies 90 m2., 16.800 m2. y 298 m2., roles de avalúo 610-8, 610-4 y 610-24, comuna de Tomé, para la obra Camino Acceso Norte a Concepción, y se acordó el valor de indemnización con sus propietarios Rosa Fuentealba Cartes, Israel Cid Jara, y Teresa Uribe Vera, ascendente a las cantidades de $27.100.-; $5.709.000.-, y $56.620.-
+
+Fiscal del Ministerio de Obras Públicas.
