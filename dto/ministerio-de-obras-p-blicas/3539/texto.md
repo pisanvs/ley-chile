@@ -1,0 +1,3 @@
+Por decreto MOP Nº 3.539, de 26 de noviembre de 1999, se expropió el lote de terreno Nº 4, superficie 123 m², rol de avalúo 206-15, comuna de Peñaflor, para la obra Camino Autopista Santiago-San Antonio, Sector Plaza de Peaje Malloco, Región Metropolitana y se acordó el valor de indemnización con su propietario Jaime Soto Grez, ascendente a la cantidad de $4.477.927.
+
+- Fiscal del Ministerio de Obras Públicas.
