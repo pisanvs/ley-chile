@@ -1,0 +1,3 @@
+Por resolución Nº167, de 30 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las resoluciones Nº431 de 1986 y Nº 130 de 1990, ambas de esta Subsecretaría, que autorizaron a EMPRESA PESQUERA ALERCE S.A., para instalar y operar el centro de cultivo ubicado en un Sector de Río Quillaipe, comuna de Puerto Montt, provincia de Llanquihue, X Región, por haber vencido el respectivo decreto de concesión de acuicultura.
+
+Valparaíso, 30 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
