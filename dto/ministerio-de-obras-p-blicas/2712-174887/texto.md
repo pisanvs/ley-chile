@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.712, de 30 de junio de 2000, se expropió el lote de terreno Nº50-4, superficie 756 m², rol de avalúo 293-53, comuna de Frutillar, para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Variante Casma, Décima Región, y se acordó el valor de indemnización con su propietario José Modesto Vargas Miranda, ascendente a la cantidad de $7.416.338.
+
+Fiscal del Ministerio de Obras Públicas.
