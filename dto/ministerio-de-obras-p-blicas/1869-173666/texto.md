@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.869, de 28 de abril de 2000, se modificó el decreto MOP Nº2.998, de 30 de septiembre de 1999, que ordenó la expropiación y autorizó el convenio directo de precio del lote Nº15, en cuanto a que se dejan sin efecto los numerales 3º, 4º, 5º, 6º y 7º y se autoriza un nuevo convenio directo de precio suscrito con don Miguel Margas Garetto, en el que se reduce el monto de la indemnización definitiva en la suma de $25.178.979.-
+
+Fiscal del Ministerio de Obras Públicas.
