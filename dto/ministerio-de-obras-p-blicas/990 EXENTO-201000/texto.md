@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº990, de fecha 28 de junio de 2002, se expropió el lote de terreno Nº22-B, superficie 406 m², rol de avalúo 521-68, comuna de Carahue, IX Región, para la obra ''Camino Costero Tirúa - Carahue, Tramo Tirúa - Bajo Yupehue, Km. 19.000,00 al 23.413,36'' y se acordó el valor de indemnización con su propietario don Manuel Armando Bustamante Mora, ascendente a la cantidad de $1.155.381.-
+
+Fiscal del Ministerio de Obras Públicas.
