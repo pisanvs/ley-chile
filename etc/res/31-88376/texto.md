@@ -1,0 +1,3 @@
+Por Resolución Nº 31, de 13 de enero de 1998, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la autorización solicitada por PESQUERA EL GOLFO S.A., para ampliar sus actividades pesqueras autorizadas por Resoluciones Nº 200 de 1992 y Nº 225 de 1996, ambas de esta Subsecretaría, con la nave "Pelagos II", Matrícula 2751, en la captura del recurso hidrobiológico Orange roughy, por encontrarse su acceso transitoriamente cerrado, en virtud de lo dispuesto en el Artículo 1º del D.S. Nº 500 de 1997, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 13 de enero de 1998.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
