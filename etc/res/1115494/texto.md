@@ -1,0 +1,7 @@
+Penas a los que no se alisten en los cuerpos de nacionales
+
+El Gobernador Intendente de la provincia de Santiago, etc., etc.:
+
+Por cuanto el Excmo. Señor Director Supremo por conducto de su Secretario de la Guerra me ha pasado el oficio del tenor que sigue: - Habiendo representado el comandante del batallon núm. I de nacionales de esta capital la inasistencia de los individuos del mismo, a los ejercicios doctrinales, i demas faenas de aquel servicio, ha acordado el Excmo. Señor Director Supremo (de cuya órden tengo el honor de comunicarlo a V.S.) se sirva hacer publicar un bando en esa ciudad a nombre del Gobierno a efecto de hacerles saber que todo individuo que debiendo reconocer los cuerpos de nacionales no lo verificasen el primer domingo de Asamblea en el basural de Santo Domingo, como igualmente los inasistentes ya alistados, serán destinados a la Marina o bien al Ejército del sur segun conviniere, cuya pena sufrirá irremisiblemente por primera vez, reservándose el Gobierno de hacerla mayor si reinsidieren.- Por tanto: se previene a los individuos comprendidos en aquella suprema resolucion su exacto i puntual cumplimiento. I para que llegue a noticia de todos, publíques en la forma de estilo, i fíjese en los lugares acostumbrados e imprímase.-
+
+Dado en en Santiago de Chile, a 7 de Junio de 1819.- José María de Gazman. De órden del señor Gobernador-Intendente.- Jerónimo Araos, Escribano de Gobierno i de la Guerra.
