@@ -1,0 +1,9 @@
+APRUEBA TRANSFORMACION EN COOPERATIVA ABIERTA DE VIVIENDA Y REFORMA DE ESTATUTOS DE COOPERATIVA DE VIVIENDA Y SERVICIOS HABITACIONALES CHILLANCOOP EN ADELANTE COOPERATIVA ABIERTA DE VIVIENDA "CHILLANCOOP" LIMITADA O "CHILLAN - COOP".
+
+Núm. 110.- Santiago, 25 de Julio de 1991.- Visto: Los antecedentes adjuntos, lo informado por el Departamento de Cooperativas de esta Subsecretaría, lo dispuesto en los Art. 13 y 132 del DS No. 502, de 1978, de este Ministerio, en el Decreto Ley No. 1.320, de 1976, en la Ley No. 16.436, en el DS No. 505, de 1966, del mismo Ministerio y en la resolución No. 600, de 1977, de la Contraloría General de la República.
+
+Resuelvo:
+
+Apruébase la transformación en Cooperativa Abierta de Vivienda y la reforma de los estatutos acordada en la Junta General Ordinaria de Socios celebrada el día 08 de Junio de 1991, cuya acta fue protocolizada al final de los registros del Notario Público de la ciudad de Chillán, don Carlos Cervantes Lazo, bajo el No. 16, con fecha 10 de Junio de 1991, de la Cooperativa de Vivienda y Servicios Habitacionales Chillancoop, en adelante Cooperativa Abierta de Vivienda "Chillancoop" Limitada o "Chillancoop", cuya existencia fue autorizada y aprobados sus estatutos por resolución No. 1181 de 20 de julio de 1977, de esta Subsecretaría, publicada en el Diario Oficial de fecha 11 de Agosto de 1977 y aprobándose posteriormente una reforma de estatutos por Resolución No. 87, de fecha 20 de Abril de 1981, de esta Subsecretaría, publicada en el Diario Oficial de 05 de Mayo de 1981.
+
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Jorge Marshall Rivera, Subsecretario de Economía, Fomento y Reconstrucción. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Ximena Silva Morales, Jefe Administrativo.
