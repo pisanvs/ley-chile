@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 75 de 12.05.2003, Serviu VI Región del Libertador Bernardo O'Higgins, tomada razón en fecha 26.05.03, ordenó expropiación parte de un inmueble ubicado en Avenida Freire Nº 815, rol Nº 339-20 de la comuna de Rancagua, superficie aproximada de 37,09 m² de terreno y 37,09 de construcciones, delimitada en polígono V-W-X-Y, conforme al Plano 1/2000, de aparente dominio de Banco Santander Chile, inscrita a fojas 3874 Nº 4421 del año 2001, Proyecto de Mejoramiento Red Vial Avenida Freire, Rancagua, conforme al art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shippley R., Jorge Godoy Rojas, Florencio Carter B., ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha febrero de 2000, monto provisional en $24.915.613, más reajustes legales respectivos.
+
+- Directora Serviu VI Región.
