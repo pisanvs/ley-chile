@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A AGRICOLA Y COMERCIAL LOS CAMPERO
+
+Núm. 3.- Certifico que Agrícola y Comercial Los Camperos, RUT Nº 77.612.320-K, representante legal Juan Segundo Leiva Ortiz RUT. Nº 05.767.361-3 cumple los requisitos establecidos en la resolución Ex Nº 3.784 del 25.06.1998 publicada en el Diario Oficial 30.06.98, modificada por la resolución Nº Ex 3.722 de 28.07.2000 publicada en el Diario Oficial de 01.08.2000, y que en consecuencia, tiene la calidad de agente retenedor del Impuesto al Valor Agregado, en las ventas de carne y servicios de faenamiento de ganado que efectúe durante el período comprendido entre el 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial con vigencia indefinida.
+
+Temuco, 22 de junio de 2004.- René Cornejo Cáceres, Director IX Dirección Regional.
