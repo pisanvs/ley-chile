@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 412, de 31 de marzo de 1998, y en base a la facultad otorgada por el artículo 105 del decreto MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 135-B y 146, para la obra Camino Ruta 5 Norte, Tramo Santiago-Los Vilos, sector km.
+
+21.900,00 al km. 26.200,00, que figura a nombre de Durán Morales Reinaldo, Rol de Avalúo Nº 150-176, comuna de Lampa, superficies 2.863 y 3.782 m2. La comisión de peritos integrada por Luz Araya Elizalde, René Armando Cruz Momberg y Leonardo Enrique Bastías Tessada, fijó con fecha 11 de diciembre de 1997, los valores provisionales de la indemnización en las cantidades de $ 47.389.850.- para el lote 135-B y $ 17.108.848.- para el lote 146. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
