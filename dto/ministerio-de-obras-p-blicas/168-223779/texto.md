@@ -1,0 +1,3 @@
+Por decreto MOP Nº 168 de fecha 27 de febrero de 2004, se expropiaron los lotes de terreno Nº 57-D, 60-A, 59, 60, 62 y 63, superficies 3.569 m², 268 m², 439 m², 444 m², 14.301 m² y 664 m², rol de avalúo Nº 277-192, comuna de Pelluhue, para la obra "Camino Chovellen - Cobquecura, Sector Chovellen - Límite Regional, Tramo 18,260.00 a Km. 35,158.60", VII Región y se acordó el valor de la indemnización con su propietario Rosamel Segundo Vega Torres, ascendente a la cantidad de $53.048.408.
+
+- Fiscal del Ministerio de Obras Públicas.
