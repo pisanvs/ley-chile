@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.409, de fecha 28 de noviembre de 2003, se expropió el lote de terreno Nº 16-A, superficie 2.490 m2, rol Nº 109-7, comuna de Coltauco, para la obra "Camino Molino - Hijuela del Medio, rol H-320, km. 0,000 a km. 4,100", VI Región y se acordó el valor de la indemnización con su propietario Eduardo o Rafael Eduardo Ibarra Caroca, ascendente a la cantidad de $6.748.836.
+
+Fiscal del Ministerio de Obras Públicas.
