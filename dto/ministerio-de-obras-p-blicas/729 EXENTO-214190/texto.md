@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº729 de fecha 31 de julio de 2003, se expropió el lote de terreno Nº11, superficie 2.275,40 m², rol de avalúo Nº169-16, comuna de Curarrehue, para la obra "Camino Mamuil Malal, tramo Puente Correntoso Km. 130,988 al Puente Puesco Km. 136,860, Sector Km. 130,988 al Km. 134,620", IX Región y se acordó el valor de la indemnización con su propietario Gilberto Mora Catriquir, ascendente a la cantidad de $1.414.556.
+
+Fiscal del Ministerio de Obras Públicas.
