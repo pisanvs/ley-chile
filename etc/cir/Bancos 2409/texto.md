@@ -1732,9 +1732,9 @@ Concordante con dicho precepto, al término de cada período semestral este Orga
 
 ### 2. Cuenta correntistas con más de una cuenta corriente en el mismo banco
 
-No existen impedimentos legales para que una misma persona mantenga dos o más cuentas corrientes en una misma institución, las cuales deberán operar separadamente unas de otras en cuanto a giros y depósitos, de manera que también para cada una se entregarán talonarios de cheques distintos.
+No existen impedimentos legales para que una misma persona mantenga dos o más cuentas corrientes en una misma institución, las cuales deberán operar separadamente unas de otras, con talonarios de cheques distintos, debiendo ser tratadas en forma independiente para efectos de depósitos, giros, otorgamiento de sobregiros y protestos.
 
-En este caso, el banco no puede compensar los saldos deudores y acreedores que eventualmente pudiesen presentar dichas cuentas, a no ser que este expresamente autorizado para ello por el respectivo titular.
+Lo anterior no es óbice para que el banco traspase saldos de una cuenta a otra, siempre que esté autorizado para ello por el respectivo titular.
 
 ### 3. Traspaso de fondos entre cuentas corrientes
 
@@ -2978,7 +2978,7 @@ No se considerarán incluidos en la suspensión antes indicada, los giros que ha
 
 3.2. Excepciones en el cómputo de los giros para establecer el derecho a reajustes.
 
-Para los efectos de determinar el derecho a reajuste, no se computan como giros los que se realicen con alguna de las finalidades que se indican a continuación, sin perjuicio de que ellos quedan sujetos a lo dispuesto en el numeral 6.2 del Capítulo 2-4, cuando se trate de cuentas con giro diferido y el monto de cada cargo supere el equivalente de 30 Unidades de Fomento:
+Para los efectos de determinar el derecho a reajuste, no se computan como giros los que se realicen con alguna de las finalidades que se indican a continuación, sin perjuicio de que ellos quedan sujetos a lo dispuesto en el numeral 7.2 del Capítulo 2-4, cuando se trate de cuentas con giro diferido y el monto de cada cargo supere el equivalente de 30 Unidades de Fomento:
 
 a) Aplicación de fondos con el objeto de pagar parte del costo de la vivienda con derecho a subsidio;
 
@@ -3472,7 +3472,7 @@ Las normas contenidas en este número no se aplicarán a los depósitos nominati
 
 ### 4. Renovaciones automáticas
 
-La renovación automática de los depósitos que contemplen esa modalidad, sólo podrá hacerse efectiva una vez que hayan transcurrido tres días hábiles bancarios contados desde su vencimiento. Sin embargo, para los efectos de computar los nuevos plazos se considerará como fecha de renovación, la misma del vencimiento. Dicho en otras palabras, el titular de un depósito o de un documento pactado con renovación automática, dispondrá de tres días hábiles bancarios contados desde su vencimiento para rescatarlo y si no lo hiciere, al cuarto día hábil bancario se cursará la renovación automática en los términos señalados anteriormente, esto es, desde la fecha de su vencimiento y por idéntico plazo al primitivamente pactado.
+La renovación automática de los depósitos que contemplen esa modalidad, sólo podrá hacerse efectiva una vez que hayan transcurrido tres días hábiles bancarios contados desde su vencimiento. Sin embargo, para los efectos de computar los nuevos plazos se considerará como fecha de renovación, la misma del vencimiento. Dicho en otras palabras, el titular de un depósito o de un documento pactado con renovación automática, dispondrá para rescatarlo de tres días hábiles bancarios, incluido el día del vencimiento y si no lo hiciere, al cuarto día hábil bancario se cursará la renovación automática en los términos señalados anteriormente, esto es, desde la fecha de su vencimiento y por idéntico plazo al primitivamente pactado.
 
 Estos depósitos a plazo con renovación automática, se seguirán considerando vigentes como tales, hasta su efectivo retiro dentro de los tres días en que está facultado el titular para rescatarlos.
 
@@ -4116,7 +4116,7 @@ Asimismo, el referido artículo 14 del D.L. N° 2.099, deroga en forma orgánica
 
 De lo expuesto y con las excepciones de que más adelante se hablará, se concluye que la caducidad establecida en el D.L. N° 2.099, es un sistema general aplicable a todas las instituciones financieras, en lo referente a los depósitos, captaciones o cualquiera otra acreencia a favor de terceros derivada de las operaciones autorizadas por las respectivas normas que las rigen. Quedan incluidos, por ende, los fondos inmovilizados que puedan existir por cuenta de terceros en el Banco Central, Banco del Estado, bancos comerciales, sociedades financieras y demás instituciones financieras.
 
-El concepto indicado comprende, por lo tanto, la caducidad de los depósitos a la vista y a plazo y otras cuentas de depósito y en general todas las captaciones que pueden legalmente efectuar las instituciones financieras, además de cualquiera otra acreencia en favor de terceros, entendiéndose por ella los derechos que pueden ejercer sobre los dineros que existen en su favor, entre los cuales quedan expresamente incluidos los dividendos pagados por la institución a sus accionistas y, por disposición de esta Superintendencia, los sobrantes de caja.
+El concepto indicado comprende, por lo tanto, la caducidad de los depósitos a la vista y a plazo y otras cuentas de depósito y en general todas las captaciones que pueden legalmente efectuar las instituciones financieras, además de cualquiera otra acreencia en favor de terceros, incluidas las órdenes de pago emitidas en el país y pagaderas en el exterior, entendiéndose por ella los derechos que pueden ejercer sobre los dineros que existen en su favor, entre los cuales quedan expresamente incluidos los dividendos pagados por la institución a sus accionistas y, por disposición de esta Superintendencia, los sobrantes de caja.
 
 Debe dejarse en claro, desde ya, que la caducidad sólo afecta a las acreencias en dinero y, por lo tanto, quedan expresamente excluidos de ella todos aquellos otros valores que no tengan esa calidad.
 
@@ -4256,7 +4256,7 @@ VALORES EN COBRO.
 
 ### 1. Definición del término "Valores en cobro"
 
-Constituyen "Valores en cobro" los importes de los depósitos conformados por cheques y documentos a cargo de otros bancos de la misma plaza y aquellos constituidos por instrumentos del propio banco y de otras empresas bancarias girados contra oficinas ubicadas en otras plazas.
+Constituyen "Valores en cobro" los importes de los depósitos conformados por cheques y documentos a cargo de otros bancos de la misma plaza del país o del exterior y aquellos constituidos por instrumentos del propio banco y de otras empresas bancarias girados contra oficinas ubicadas en otras plazas.
 
 Estos depósitos tiene el carácter de condicionales y no son, por lo tanto, fondos disponibles mientras el banco depositario no obtiene el reembolso de esos valores.
 
@@ -6960,7 +6960,7 @@ igual o inferior a 30 unidades de fomento.
 
 De lo anteriormente expresado se desprende que las entidades bancarias pueden otorgar créditos sin pacto previo por escrito, hasta por una suma que no sobrepase las 30 unidades de fomento.
 
-Para los efectos del límite antes indicado se considerarán como una sola las diferentes cuentas corrientes ordinarias que una persona, natural o jurídica, mantenga en un banco.
+Para los efectos del cumplimiento de ese límite, se considerarán como un solo sobregiro la suma de los sobregiros de diferentes cuentas corrientes ordinarias en moneda chilena que una persona, natural o jurídica, mantenga con un banco.
 
 Excepcionalmente el límite de 30 unidades de fomento podrá sobrepasarse, cuando el exceso provenga de gastos por servicios prestados o pagados por el banco por cuenta del cliente, conforme a lo señalado en el numeral 4.1, titulo II, del Capítulo 2-2 de esta Recopilación.
 
@@ -15292,7 +15292,7 @@ a) Límites de crédito de que tratan los N°s 1, 2 y 4 del artículo 84 de la L
 
 b) Margen de obligaciones para con terceros a que se refieren los artículos 81 y 115 de la Ley General de Bancos y el Capítulo 12-2 de esta Recopilación.
 
-c) Límite de inversiones dispuesto en el artículo 83 de la Ley General de Bancos.
+c) Límite de inversiones dispuesto en el artículo 83 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación.
 
 d) Límites establecidos en las letras a) y c) del artículo 83 bis de la Ley General de Bancos, relativos a inversiones y acreencias en bancos extranjeros.
 
@@ -15308,15 +15308,11 @@ i) Relación de operaciones activas y pasivas, establecida en el Capítulo III.B
 
 j) Límite de depósitos, captaciones y préstamos recibidos de otras instituciones financieras, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y tratado en el Capítulo 12-7 de esta Recopilación.
 
-k) Límite para la adquisición de letras y bonos de propia emisión, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
+k) Límite para la adquisición de letras y bonos de propia emisión, establecido en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y tratado en el Capítulo 12-11 de esta Recopilación.
 
 l) Límite de obligaciones con el Banco Central de Chile, dispuesto por el Instituto Emisor en el Capítulo II.B.6 de su Compendio de Normas Financieras y tratado en el Capítulo 12-6 de esta Recopilación.
 
 m) Límite de obligaciones con el exterior a que se refiere el Capítulo V.A.l del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 12-8 de esta Recopilación.
-
-n) Límite de compraventa a futuro de divisas, establecido en el Capítulo XXIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y en el Capítulo 13-2 de esta Recopilación.
-
-ñ) Límite de arbitrajes a futuro de que trata el Capítulo 13-32 de esta Recopilación Actualizada de Normas.
 
 4.3. Efectos de los bonos subordinados en las presunciones de los artículos 116 y 119, letra a) de la Ley General de Bancos.
 
@@ -15360,9 +15356,9 @@ En las respectivas fechas de vencimiento, el importe que corresponda de los bono
 
 Las instituciones financieras que emitan bonos subordinados deberán registrar la parte computada como capital de acuerdo con las instrucciones del numeral 4.1 de este Capítulo, en la cuenta "Bonos subordinados computados como capital", de la partida 9700 "Valores complementarios para efectos de márgenes".
 
-El saldo de la cuenta "Bonos subordinados computados como capital" deberá reflejar, al término de cada mes, el 85% de aquella parte del capital, reajustes e intereses devengados a la fecha, para cuyo pago falten más de dos años, menos el saldo de la cuenta "Descuentos en emisión de bonos subordinados" a la misma fecha, o el 20% del capital pagado y reservas, si ese equivalente fuere menor, teniendo presente lo dispuesto en el N° 6 de este Capítulo.
+El saldo de la cuenta "Bonos subordinados computados como capital" deberá reflejar, al término de cada mes, el 85% de aquella parte del capital, reajustes e intereses devengados a la fecha, para cuyo pago falten más de dos años, menos el saldo de la cuenta "Descuentos en colocación de bonos subordinados" a la misma fecha, o el 20% del capital pagado y reservas, si ese equivalente fuere menor, teniendo presente lo dispuesto en el N° 6 de este Capítulo.
 
-Asimismo, cuando corresponda, las instituciones deberán demostrar en la cuenta de orden "Bonos subordinados computados como obligaciones", de la partida 9700, el monto equivalente al valor par de los bonos no vencidos (partida 4190), menos el 23,529% del capital pagado y reservas, considerando para el efecto lo señalado en el Ne 6 de este Capítulo, más el importe de los bonos o cupones vencidos y no cobrados.
+Asimismo, las instituciones demostrarán, cuando corresponda, en la cuenta de orden "Bonos subordinados vigentes computados como obligaciones", de la partida 9700, el valor correspondiente a la diferencia positiva que resulte de restar al total de las obligaciones por bonos no vencidos (partida 4190), el valor equivalente al 23,529% del capital pagado y reservas, considerando para el efecto lo señalado en el N° 6 de este Capítulo. No se incluirán en esta cuenta de orden los importes correspondientes a cupones o bonos vencidos y no cobrados que se computan por su calidad de obligaciones a la vista.
 
 CAPITULO 10-1 (Bancos y Financieras)
 
@@ -17486,51 +17482,13 @@ Los documentos que sirven de garantía para efectos del límite según lo referi
 
 ### 4. Documentos de embarque
 
-De acuerdo con la ley, sirven también de garantía para los efectos de límites de
+De acuerdo con la ley, sirven también de garantía para los efectos de límites de crédito, los documentos representativos de mercaderías embarcadas hacia Chile, siempre que el banco esté autorizado para disponer libremente de la mercadería que se importe.
 
-crédito, los documentos representativos de mercaderías embarcadas hacia Chile,
+Por lo tanto, se pueden considerar como garantía los documentos de embarque mientras se mantengan en poder del banco, y sólo si el respectivo Conocimiento de Embarque o el documento que haga sus veces y la Póliza o Certificado de Seguro están extendidos a la orden de la institución bancaria o endosados a ella sin restricción alguna.
 
-siempre que el banco esté autorizado para disponer libremente de la mercadería
+En el lapso que medie entre la fecha de emisión de una carta de crédito financiada por el banco y la recepción de los documentos de embarque, el crédito contingente que se origina puede considerarse caucionado con garantía para los efectos de lo dispuesto en el citado artículo 84 N° 1, siempre que en la correspondiente carta de crédito se estipule que el Conocimiento de Embarque o el documento que haga sus veces y la respectiva Póliza o Certificado de Seguro, cuando corresponda,deben ser extendidos a la orden del banco emisor o endosados a él sin restricción alguna.
 
-que se importe.
-
-Por lo tanto, se pueden considerar como garantía los documentos de embarque
-
-mientras se mantengan en poder del banco, y sólo si el respectivo Conocimiento
-
-de Embarque o el documento que haga sus veces y la Póliza o Certificado de
-
-Seguro están extendidos a la orden de la institución bancaria o endosados a ella
-
-sin restricción alguna.
-
-En el lapso que medie entre la fecha de emisión de una carta de crédito
-
-financiada por el banco y la recepción de los documentos de embarque, el crédito
-
-contingente que se origina puede considerarse caucionado con garantía para los
-
-efectos de lo dispuesto en el citado artículo 84 N° 1, siempre que en la
-
-correspondiente carta de crédito se estipule que el Conocimiento de Embarque o
-
-el documento que haga sus veces y la respectiva Póliza o Certificado de Seguro,
-
-cuando corresponda,deben ser extendidos a la orden del banco emisor o endosados
-
-a él sin restricción alguna.
-
-Mientras el crédito no se pague y la garantía sea imprescindible para
-
-encuadrarse dentro del límite individual de crédito, el banco no podrá entregar
-
-los documentos antes mencionados salvo que se constituya una prenda sobre los
-
-bienes, tal como lo permite el artículo 29 de la Ley N° 18.112, o se obtenga
-
-otra garantía válida para los efectos de la Ley General de Bancos por un valor
-
-igual o superior.
+Mientras el crédito no se pague y la garantía sea imprescindible para encuadrarse dentro del límite individual de crédito, el banco no podrá entregar o endosar los documentos antes mencionados, o copias negociables de los mismos ni ceder o restringir de cualquier forma sus derechos, salvo que se constituya una prenda sobre los bienes, tal como lo permite el artículo 29 de la Ley N° 18.112, o se obtenga otra garantía válida para los efectos de la Ley General de Bancos por un valor igual o superior.
 
 ### IV. VALOR DE LAS GARANTIAS
 
@@ -18838,19 +18796,9 @@ CAPITULO 12-7 (Bancos y Financieras)
 
 MATERIA:
 
-LIMITE DE DEPOSITOS, CAPTACIONES Y PRESTAMOS RECIBIDOS DE OTRAS INSTITUCIONES
+LIMITE DE DEPOSITOS, CAPTACIONES Y PRESTAMOS RECIBIDOS DE OTRAS INSTITUCIONES FINANCIERAS.
 
-FINANCIERAS.
-
-Las normas del Comité Ejecutivo del Banco Central de Chile relativas al límite
-
-que pueden alcanzar los préstamos, depósitos y captaciones hasta un año
-
-plazo,que una entidad financiera puede recibir de otras instituciones
-
-financieras establecidas en el país, están contenidas en el Capítulo III.B.2 del
-
-Compendio de Normas Financieras.
+Las normas del Banco Central de Chile relativas al límite que pueden alcanzar los préstamos, depósitos y captaciones hasta un año plazo,que una entidad financiera puede recibir de otras instituciones financieras establecidas en el país, están contenidas en el Capítulo III.B.2 del Compendio de Normas Financieras.
 
 Sobre la base de esas disposiciones, se imparten las siguientes instrucciones:
 
@@ -18898,9 +18846,9 @@ Bancos, según corresponda.
 
 ### 3. Operaciones afectas
 
-Quedan afectos a los márgenes de tres y diez por ciento todos los depósitos y captaciones, hasta un año plazo, recibidos de otras instituciones financieras del país, así como los préstamos al mismo plazo obtenidos de ellas, excepto los garantizados por documentos de la cartera de colocaciones de la empresa deudora.
+Quedan afectos a los márgenes de tres y diez por ciento todos los depósitos y captaciones, hasta un año plazo, recibidos de otras instituciones financieras del país, así como los préstamos al mismo plazo obtenidos de ellas, excepto los garantizados por documentos de la cartera de colocaciones o de inversiones financieras de la empresa deudora.
 
-Se considerarán dentro de estos límites los depósitos y captaciones a la vista y hasta un año plazo recibidos de otras entidades financieras situadas en el país y registrados en las partidas 3005, 3010, 3020, 3025 y 3030 del MB1, así como los préstamos obtenidos de esas empresas, tanto en moneda chilena como extranjera, contabilizados en las partidas 3410 y 3415 del MB1, que no se encuentren garantizados por documentos de la cartera de colocaciones entregados por la entidad deudora a la institución acreedora.
+Se considerarán dentro de estos límites los depósitos y captaciones a la vista y hasta un año plazo recibidos de otras entidades financieras situadas en el país y registrados en las partidas 3005, 3010, 3020, 3025 y 3030, así como los préstamos obtenidos de esas empresas, tanto en moneda chilena como extranjera, contabilizados en las partidas 3410 y 3415, que no se encuentren garantizados por documentos de la cartera de colocaciones o de inversiones financieras entregados por la entidad deudora a la institución acreedora.
 
 Sin embargo, no se computarán para los efectos de estos márgenes, los depósitos constituidos con cheques y documentos sobre otras plazas, que las entidades bancarias reciban de las demás instituciones financieras.
 
@@ -18918,39 +18866,17 @@ No se considerarán en el cómputo de las obligaciones, los intereses devengados
 
 ### 4. Operaciones exentas
 
-No se considerarán para los efectos de estos márgenes, las obligaciones
+No se considerarán para los efectos de estos márgenes, las obligaciones provenientes de las siguientes operaciones:
 
-provenientes de las siguientes operaciones:
-
-a) Depósitos, captaciones y préstamos recibidos de instituciones bancarias o
-
-financieras situadas en el exterior, trátese o no de oficinas de entes
-
-financieros que, a la vez, estén establecidos en Chile;
+a) Depósitos, captaciones y préstamos recibidos de instituciones bancarias o financieras situadas en el exterior, trátese o no de oficinas de entes financieros que, a la vez, estén establecidos en Chile;
 
 b) Préstamos recibidos del Banco Central de Chile;
 
-c) Préstamos de otras instituciones financieras por los cuales la entidad
+c) Depósitos, captaciones y préstamos recibidos de otras instituciones financieras situadas en el país por los cuales la entidad deudora hubiera entregado documentos de su cartera en garantía a la acreedora. En el caso que los documentos entregados en garantía no alcancen a cubrir el monto total de los respectivos créditos, se considerará no afecta a los límites de que trata este Capítulo sólo la parte igual al monto que alcance la respectiva garantía;
 
-deudora hubiera entregado en garantía a la otorgante del crédito, documentos de
+d) Los créditos derivados de los saldos de precio pagaderos a plazo adeudados a las instituciones en liquidación, por la compra de cartera; y,
 
-su cartera. En el caso que los documentos entregados en garantía no alcancen a
-
-cubrir el monto total de los respectivos préstamos, se considerará no afecta a
-
-los límites de que trata este capítulo sólo la parte igual al monto que al
-
-cancela respectiva garantía:
-
-d) Los créditos derivados de los saldos de precio pagaderos a plazo adeudados a
-
-las instituciones en liquidación, por la compra de cartera; y,
-
-e) Los refinanciamientos de las operaciones de la "Línea de Crédito
-
-BID/BancoCentral de Chile - Banco del Estado de Chile, sobre reactivación
-
-industrial".
+e) Los refinanciamientos de las operaciones de la "Línea de Crédito BID/BancoCentral de Chile - Banco del Estado de Chile, sobre reactivación industrial".
 
 ### 5. Determinación de los márgenes
 
@@ -25682,7 +25608,7 @@ Debe: - "Deudores por créditos negociables a la vista" subcuenta "Destino zonas
 
 - "Deudores por créditos negociables a plazo sin aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
 
-- "Deudores por créditos negociados a plazo con aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
+- "Deudores por créditos negociables a plazo con aceptación de letra" subcuenta "Destino zonas francas" o "Destino resto del país".
 
 Los saldos de estas cuentas se demostrarán en la partida 1615 del formulario MB1.
 
@@ -25978,69 +25904,15 @@ En la misma cuenta antes señalada se deberán contabilizar los importes que los
 
 6.1.- Límite individual de crédito.
 
-Los créditos correspondientes a acreditivos financiados por el banco
+Los créditos correspondientes a acreditivos financiados por el banco emisor,están afectos a los límites a que se refiere el artículo 84 N° 1 de la Ley General de Bancos, desde el instante en que se procede a la apertura de larespectiva carta de crédito.
 
-emisor,están afectos a los límites a que se refiere el artículo 84 N° 1 de la
-
-Ley General de Bancos, desde el instante en que se procede a la apertura de la
-
-respectiva carta de crédito.
-
-Para estos efectos, se pueden considerar como garantía los documentos de
-
-embarque mientras se mantengan en poder del banco y sólo si el respectivo
-
-conocimiento de embarque o el documento que haga sus veces y la Póliza o
-
-Certificado de Seguro, están extendidos a la orden de la institución bancaria o
-
-endosados a ella sin restricción alguna.
-
-Estas garantías se considerarán por el valor de la mercadería que se consigne en
-
-dichos documentos el que se determinará sobre la base del valor CIF o, en su
-
-defecto, del inferior a éste que se hubiera declarado en la respectiva factura.
-
-En el lapso que medie entre la fecha de emisión de una carta de crédito
-
-financiada por el banco y la recepción de los documentos de embarque, el crédito
-
-contingente que se origina puede considerarse caucionado con garantía para los
-
-efectos de lo dispuesto en el citado artículo 84 N° 1, siempre que en la
-
-correspondiente carta de crédito se estipule que el Conocimiento de Embarque o
-
-el documento que haga sus veces y la respectiva Póliza o Certificado de Seguro,
-
-cuando corresponda, deben ser extendidos a la orden del banco emisor o endosados
-
-a él sin restricción alguna.
-
-Mientras el crédito no se pague y la garantía sea imprescindible para
-
-encuadrarse dentro del límite individual de crédito con garantía, el banco no
-
-podrá entregar los documentos antes mencionados sin que exista una prenda sobre
-
-los bienes, tal como lo permite el artículo 29 de la Ley N° 18.112, o se obtenga
-
-otra garantía válida para los efectos de la Ley General de Bancos por un valor
-
-igual o superior.
+Para esos efectos, se pueden considerar como garantía los documentos de embarque por recibir o recibidos, siempre que se cumplan las condiciones señaladas en el Capítulo 12-3 de esta Recopilación Actualizada de Normas.
 
 6.2.- Margen de endeudamiento.
 
-Las obligaciones correspondientes a las cartas de crédito de que trata el N° 1
+Las obligaciones correspondientes a las cartas de crédito de que trata el N° 1 de este capítulo, están afectas al límite establecido en el artículo 81 de la Ley General de Bancos.
 
-de este capítulo, están afectas al límite establecido en el artículo 81 de la
-
-Ley General de Bancos.
-
-El saldo de la cuenta "Pagos a cuenta de ventas condicionales de monedas
-
-extranjeras", atendida su naturaleza, no se considera afecto a este límite.
+El saldo de la cuenta "Pagos a cuenta de ventas condicionales de monedas extranjeras", atendida su naturaleza, no se considera afecto a este límite.
 
 7.- Obligaciones con el Banco Central de Chile.
 
@@ -28826,7 +28698,7 @@ N° de Inscripción *Nombre de la empresa.
 
 III.- TAREAS ESPECIALES ENCOMENDADAS POR ESTA SUPERINTENDENCIA A LOS AUDITORES EXTERNOS.
 
-Las disposiciones de las letras f) y l) del D.L N° 3.538, conforme a lo dispuesto en el artículo 18 del D.L N° 1.097, facultan a esta Superintendencia para inspeccionar a las entidades fiscalizadas por medio de auditores externos o designar a esos auditores a fin de que realicen las tareas que específicamente les encomiende.
+Las disposiciones de las letras f) y l) del artículo 4° del D.L N° 3.538, conforme a lo dispuesto en el artículo 18 del D.L N° 1.097, facultan a esta Superintendencia para inspeccionar a las entidades fiscalizadas por medio de auditores externos o designar a esos auditores a fin de que realicen las tareas que específicamente les encomiende.
 
 En uso de esas facultades, esta Superintendencia encargará labores especiales a los auditores externos, en las instituciones financieras conforme al siguiente procedimiento:
 
