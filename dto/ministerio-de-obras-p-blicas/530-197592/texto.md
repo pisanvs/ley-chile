@@ -1,0 +1,3 @@
+Por decreto MOP Nº530, de 22 de marzo de 2002, se expropió el lote de terreno Nº205-1, superficie 2.132 m², rol de avalúo 179-21, comuna de Nogales, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos Sector Kms. 123.580,00 al 126.400,00, Quinta Región y se acordó el valor de indemnización con su propietario Gustavo Delgado Opazo, ascendente a la cantidad de $11.258.600.- para el lote Nº205-1.
+
+Fiscal del Ministerio de Obras Públicas.
