@@ -1,0 +1,3 @@
+Por decreto MOP Nº 2.503, de 30 de noviembre de 1998, se expropió el lote de terreno Nº 4, superficie 760 m2, rol de avalúo 171-91, comuna de Nogales, para la Obra Ampliación Camino, sector Nogales - Puchuncaví, Ruta F-20 y se acordó el valor de indemnización con sus propietarios Yolanda Hernández Sepúlveda y Otros, ascendente a la cantidad de $ 1.430.060.
+
+- Fiscal del Ministerio de Obras Públicas.
