@@ -1,0 +1,3 @@
+Por decreto MOP Nº 440, de 28 de febrero de 2002, se expropió el lote de terreno Nº 59-AÑ, superficie 600 m2., rol avalúo 375-2, comuna de El Quisco, para la obra Red Vial Litoral Central. Sector 2: Camino Algarrobo-Casablanca (Ruta F-90). Tramo Kms. 0.000,00 al 32.100,00, Quinta Región y se acordó el valor de indemnización con su propietario Patricio Hernán Pereira Casarotto, ascendente a la cantidad de $3.303.529.- para el lote Nº 59-AÑ.
+
+Fiscal del Ministerio de Obras Públicas.
