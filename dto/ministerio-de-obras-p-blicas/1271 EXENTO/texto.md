@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.271, de 31 de agosto de 2001, se expropió el lote de terreno Nº15, superficie 592 m2, de avalúo 107-18, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Tramo 7A2, Región Metropolitana, y se acordó el valor de indemnización con su propietaria Sociedad Comercial e Inmobiliaria José Naranjo e Hijos Limitada, ascendente a la cantidad de $2.510.574.-
+
+Fiscal del Ministerio de Obras Públicas.
