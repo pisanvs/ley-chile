@@ -1,0 +1,3 @@
+Por Resolución N° 313 de 12 de Abril de 1995 de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N° 2.186 de 1978, del inmueble ubicado en Avda. Las Industrias N° 3796, presunto rol de avalúos N° 3624-3 comuna de San Joaquín, aparente dominio de don Lisandro Mardones Mardones. Comisión integrada por peritos Sres. Carlos Peña Bermejo, ingeniero civil, Miguel Altenhoff Aenishanslin, constructor civil, Jorge Navarro Navarrete, arquitecto, según informe de 24 de Febrero de 1995, fijó monto provisional indemnización en $8.345.000.- pagadera al contado.-
+
+Director, SERVIU Metropolitano.
