@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.390, de 14 de septiembre de 2001 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Transporte de Pasajeros Metro S.A., el lote de terreno Nº24ES2. Obra: Extensión Sur Línea 2, sector: Lo Ovalle-A. Vespucio, que figura a nonbre de Inmobiliaria Uncastillo S.A., rol de avalúo 38-19, comuna de La Cisterna, superficie 2.497 m2. La Comisión de Peritos fijó con fecha 3 de julio de 2001, en la cantidad de $594.457.000, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
