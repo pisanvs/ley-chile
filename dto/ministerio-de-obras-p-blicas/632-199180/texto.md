@@ -1,0 +1,3 @@
+Por decreto MOP Nº632, de 28 de marzo del 2002, se expropió el lote de terreno Nº9, superficie 3.444 m2., rol de avalúo 1100-1, comuna de Cartagena, para la obra Red Litoral Central Sector 1: Nuevo Camino Costero Subtramo: Cartagena-Las Cruces Km. -0.100,00 al 1.100,00, Quinta Región y se acordó el valor de indemnización con su propietario Pormar S.A., ascendente a la cantidad de $26.118.394.- para el lote Nº9.
+
+Fiscal del Ministerio de Obras Públicas.
