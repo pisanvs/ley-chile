@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.965, de 28 de diciembre del 2001, se expropió el lote de terreno Nº63, superficie 520 m2., rol de avalúo 103-237, comuna de Curacaví, para la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso Viña del Mar. Tramo 6A2: Kms. 33.200,00 al 33.880,00, Región Metropolitana y se acordó el valor de indemnización con su propietario José Manuel Iturbe Piffaut, ascendente a la cantidad de $2.672.430.-
+
+Fiscal del Ministerio de Obras Públicas.
