@@ -1,0 +1,5 @@
+Por decreto MOP Nº269 de 28 de marzo de 2003, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para el Fisco el lote Nº1, para la obra: Laja - Diguillín, Area de Riego Pemuco Faja de Expropiación Canal San Ramón Ramal 3, Km.
+
+0,000 al Km. 0,561, que figura a nombre de Salvo Sepúlveda Héctor y otros, rol de avalúo 156-4, Comuna de Pemuco, VIII Región, superficie 6.266 m2. La Comisión de Peritos, fijó con fecha 6 de diciembre de 2001, el monto de la indemnización provisional en la cantidad de $3.810.300.- para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
