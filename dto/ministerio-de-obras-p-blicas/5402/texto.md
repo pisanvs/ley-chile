@@ -1,0 +1,3 @@
+Por decreto MOP Nº5.402, de 29 de diciembre del 2000, se expropiaron los lotes de terreno Nºs. 261-G y 261-1, superficies 17 m2 y 5.393 m2, rol de avalúo 99-21, comuna de La Ligua, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Emilio del Carmen Araya Olmos, ascendente a la cantidad total de $26.014.130.-
+
+Fiscal del Ministerio de Obras Públicas.
