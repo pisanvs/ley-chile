@@ -1,0 +1,3 @@
+Por decreto MOP Nº 278 de fecha 31 de marzo del 2004, se expropió el lote de terreno Nº 124, superficie 1.059 m2, Rol Nº 276-210, comuna de Putaendo, V Región para la obra "Camino Cabildo Putaendo, Ruta E-41, Sector Guayacán - El Tártaro 2, Km. 48,50000 a Km. 58,94400", y se acordó el valor de indemnización con su propietario Alejandro Antonio González González, ascendente a la cantidad de $4.242.663.
+
+Fiscal del Ministerio de Obras Públicas.
