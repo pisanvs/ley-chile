@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº1.274 de fecha 30 de agosto del 2002, se expropiaron los lotes de terreno Nºs 105 y 105-A, superficie 90 m2, rol Nº282-2 y 280-11, comuna de San Fernando, VI Región para la obra ''Camino San Fernando-Roma rol I-301, I-255, I-151, Km. 0,000 a Km. 10,954264'' y se acordó el valor de indemnización con su propietaria Gabriela del Carmen González Toro, ascendente a la cantidad de $1.875.824.-
+
+Fiscal del Ministerio de Obras Públicas.
