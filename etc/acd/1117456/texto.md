@@ -1,0 +1,13 @@
+Asuetos escolares
+
+El primero de los trabajos del Tribunal de educacion ha sido empezar por suprimir el excesivo número de asuetos que por un abuso de jenerosidad e inadvertencia se concedían a la juventud. Si V.S. entra la pluma para rebajarlos de los dias que quedan de estudio observará que pierden mas de la mitad del año. Hemos dispuesto, pues, el acuerdo de la acta que tenemos el honor de acompañar a V.S. para que se digne elevarla al conocimiento del Excmo. Señor Director Supremo i hacer que al publicarse en la Gaceta Ministerial la instalacion de este Tribunal, se jeneralice tambien su primera resolucion en todas las escuelas de primeras letras del pais bajo la responsabilidad consiguiente a sus preceptores i los padres de familia tengan el consuelo de que ese plantel precioso (del cual en dictámen de los sabios pende la suerte del Estado) va a ser mejorado en todos sus ramos con el noble esmero que nos empeña a dejar a la jeneracion creciente i a la posteridad una memoria personal que obligue su gratitud i un ejemplo excitante del lleno de nuestros deberes a la Patria.
+
+Dios guarde a V.S. muchos años.-Santiago i Marzo 22 de 1821.-José María Rozas.-Señor Ministro de Estado en el Departamento de Gobierno.
+
+Santiago i Marzo 27 de 1821.-Como se pide.-O'Higgins.-Echeverría.
+
+En Santiago de Chile, dia 21 de Marzo de 1821.- Reunido en la Sala del Senado el Tribunal de educacion pública i tomando en consideracion el notable retraso que sufre la juventud en la carrera de sus estudios por el excesivo número de asuetos que se le franquean, ha acordado que no le tengan en los Juéves, víspera de comunion i dias semi festivos; i que cuando se crea merecerlo por algun motivo de celebridad pública, no puedan absolutamente dárseles sin precedente ascenso de este Tribunal, que ademas dispone que en esta parte se guarde rigurosamente la constitucion del Instituto, i que la presente resolucion se jeneralice a todas las escuelas de primeras letras del pais, avisándose al Exmo. Supremo Gobierno por conducto del señor Ministro de Estado a quien se suplicará la haga insertar en la Gaceta para noticia i responsabilidad de los maestros.
+
+Acordaron igualmente que las actas sucesivas i los oficios que hayan de jirarse se firmen solo por el señor Presidente, anotándose en los libros al márjen los señores concurrentes i que baste el número de tres para componer Tribunal, cuando los demas no puedan asistir.-
+
+Rozas.-Vera.-Argomedo.-Briceño.-Eyzaguirre.-Verdugo.
