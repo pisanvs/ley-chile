@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION No. 663 EXENTA, DE 1992 SOBRE DELEGACION DE FACULTADES
+
+Por Resolución No. Ex. 1.349 de 13 de Julio de 1992, la XII Dirección Regional del Servicio de Impuestos Internos ha modificado la Resolución No. Ex. 663 de 13.04.92, sobre delegación de facultades, los funcionarios que se señalan por su referencia numérica y que corresponden a los descritos en la resolución No. Ex.968 de 11.03.92 y su modificación mediante resolución No. Ex. 02410 de 25.06.92 ambos de la Dirección Nacional publicada en el Diario Oficial el día 16.03.92 y 04.07.92 respectivamente. La modificación señalada dice relación con materias referentes a la Ley 17.235, sobre Impuesto Territorial en el sentido de ampliar las funciones que se pueden delegar y los funcionarios que pueden ejercerlos.
+
+Punta Arenas, 23 de Julio de 1992.- Bernardo Seaman González, Director Regional.
