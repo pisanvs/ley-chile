@@ -1,0 +1,3 @@
+Por resolución Nº 196, de 28 de enero de 2000, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.508 de 1996, de esta Subsecretaría, que autorizó a PESQUERA GUANAQUERO S.A., para operar la nave "Guanaqueros", por no haber iniciado operaciones de pesca dentro del plazo legal, sobre las especies Anchoveta Engraulis ringens y Sardina española Sardinops sagax en el litoral comprendido entre las Regiones III y IV, conforme lo dispuesto en el artículo 143 letra b), de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de enero de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
