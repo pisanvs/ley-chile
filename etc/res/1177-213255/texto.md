@@ -1,0 +1,3 @@
+Resolución (M) 1.177, de 2 de mayo de 2003, Subsecretaría de Marina, Ministerio de Defensa Nacional, autorizó a Pesquera Los Fiordos Limitada, RUT 79.872.420-7, domicilio Punta de Cortés S/Nº, Rancagua, para incorporar el cultivo del grupo de especies Salmónidos, en el establecimiento concesionado según D.S. (M) Nº 468, de 24 de julio de 1992, en Ensenada Amparo Grande, en el Islote Marta, Isla Magdalena, Canal Puyuhuapi, comuna de Cisnes, provincia de Aysén, XI Región de Aysén del General Carlos Ibáñez del Campo.
+
+Santiago, 3 de julio de 2003.- Por el Subsecretario, Carlos de la Maza Urrutia, Subjefe Subsecretaría de Marina.
