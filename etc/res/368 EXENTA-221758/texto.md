@@ -1,0 +1,3 @@
+Por resolución exenta Nº 368, de 6 de febrero de 2004, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 43, de 2004, modificada por resolución Nº 221, de 2004, ambas de esta Subsecretaría, que autorizaron al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo del Reclutamiento de Anchoveta, Regiones I y II (enero-febrero 2004)" en el sentido de sustituir la nave "Ralún" por la nave "Costa Grande 1", ambas de la empresa pesquera Compañía Pesquera Camanchaca S.A.
+
+Valparaíso, 6 de febrero de 2004.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
