@@ -15710,7 +15710,7 @@ Las inversiones en valores mobiliarios de renta fija están afectas a los límit
 
 Quedan excluidos de los márgenes individuales de crédito del artículo 84, con respecto a los emisores, las inversiones en los instrumentos que se indican a continuación:
 
-a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluido el Banco Central de Chile y excluidas las empresas del Estado.
+a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluidos los Bonos de Reconocimiento y Complementos de éstos, emitidos por el Instituto de Normalización Previsional (INP) y los instrumentos emitidos por el Banco Central de Chile, excluidas las obligaciones de empresas del Estado.
 
 b) Bonos u obligaciones de renta de Estados, Bancos Centrales e instituciones internacionales a las que se encuentre adherido el Estado de Chile.
 
