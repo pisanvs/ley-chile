@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.056 de fecha 29 de septiembre de 2003, se expropiaron los lotes de terreno Nº 1 y 2, superficies 2.119 m² y 2.343 m², rol de avalúo Nº 104-68, comuna de Palena, para la obra "Construcción Puente Rosales Camino W-895" X Región y se acordó el valor de la indemnización con su propietario Eulogio Videla Peñaipil, ascendente a la cantidad de $4.065.847.
+
+- Fiscal del Ministerio de Obras Públicas.
