@@ -1,0 +1,3 @@
+Por resolución Nº 1.929, de 23 de septiembre de 1999, de esta Subsecretaría, déjase sin efecto las resoluciones Nº 2.041 de 1989, Nº 725 de 1995 y Nº 1.004 de 1997, todas de esta Subsecretaría, que autorizaron a ORLANDO BAHAMONDE VELASQUEZ, para instalar y operar el centro de cultivo ubicado en Punta Calén, Sector San Juan, comuna de Dalcahue, provincia de Chiloé, X Región, por haberse declarado la caducidad de la respectiva resolución de concesión de acuicultura.
+
+Valparaíso, 23 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
