@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA
+
+Por Resolución N° 180 de 24 de Octubre de 1995, SERVIU VI Región ordenó expropiar parte del inmueble ubicado en Avenida Errázuriz s/n comuna de Santa Cruz, provincia de Colchagua, Rol de avalúos N° 511-3, de conformidad artículo 51 Ley 16.391 y D.L. 2.186, superficie aproximada de 176 m2., aparente dominio de don Jorge Lucero González, inscripción dominio a Fojas 249 Vta. N° 290 correspondiente año 1950, Registro de Propiedad Conservador de Bienes Raíces de Santa Cruz. Indemnización provisoria de $415.360 determinada por Comisión Tasadora integrada por Eduardo González Brard, René Corvalán Correa y Oscar Novoa Vargas, Arquitectos, informe de fecha 10 de Mayo de 1995. Indemnización se pagará de contado según artículo 16 D.L. 2.186.
+
+Director SERVIU VI Región.
