@@ -1,0 +1,3 @@
+Por resolución Nº 1.340, de 12 de julio de 1999, de esta Subsecretaría, se rechaza la solicitud de concesión de acuicultura Nº 96103346, presentada por COOPERATIVA DE PESCADORES QUEMCHI LIMITADA, para operar un centro de cultivo ubicado en un sector de Punta Arenas, comuna de Quemchi, provincia de Chiloé, X Región.
+
+Valparaíso, 12 de julio de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
