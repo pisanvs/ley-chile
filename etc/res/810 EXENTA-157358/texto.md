@@ -1,0 +1,3 @@
+Por resolución exenta No. 810, de fecha 28 de Junio de 1985 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la V Región, se autoriza a Carlos Jopia Aguilera, para efectuar el servicio de taxi colectivo urbano Línea No. 2, "Población Juan Egaña-Circunvalación Estación Limache", cuyo trazado fue autorizado por resolución No. 612, de fecha 5 de Julio de 1984, de esta Secretaría Regional.
+
+Valparaíso, 28 de Junio de 1985.- Héctor Soto Miranda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Subrogante V Región.
