@@ -1,0 +1,11 @@
+Por Resolución Nº 1.433, de 30 de octubre de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, autorízase al INSTITUTO DE FOMENTO PESQUERO (IFOP), para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Programa de Diversificación del Sector Artesanal en la XI Región", elaborado por el citado Instituto y aprobado por esta Subsecretaría.
+
+El objetivo principal de la pesca de investigación que por la presente Resolución se autoriza, consiste en diversificar la pesquería artesanal de las aguas interiores de la XI Región, orientándola principalmente a la captura de tollo, raya, pulpo y calamar. Como asimismo, apoyar el proceso de desarrollo y crecimiento de la zona sur austral, en particular en lo relativo al desarrollo socioeconómico de los pescadores artesanales de la XI Región.
+
+La pesca de investigación que se autoriza comprenderá un período de 12 meses contados desde la fecha de la presente Resolución. Y estará dirigida a los recursos, Raya volantín, Tollo, Pulpo, Calamar. Además se fija un margen de tolerancia hasta un 10% de captura incidental de la especie Congrio dorado, respecto de la captura de las especies objetivo ya indicadas. Las operaciones de pesca se realizarán en las aguas interiores de la XI Región.
+
+La tarea de recolección de ejemplares se realizará utilizando los siguientes artes y aparejos de pesca: espineles, trampas, carrete de pesca y red de enmalle. Autorizándose en estas faenas de pesca a la embarcación "Margarita III" y un bote con motor fuera de borda.
+
+El Instituto designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Director Ejecutivo del Instituto de Fomento Pesquero don Pablo Andrés Alvarez Tuza, R.U.T. Nº 6.419.642-1, domiciliado en calle Blanco Nº 1199, 5º piso, Valparaíso.
+
+Valparaíso, 30 de octubre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
