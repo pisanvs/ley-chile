@@ -1,0 +1,3 @@
+Por decreto MOP Nº 407, de 26 de febrero de 1999, se expropió el lote de terreno Nº 15-C, superficie 38.247 m², rol de avalúo 1509-397, comuna de Los Angeles, para la obra ''Concesión Internacional Ruta 5 Tramo: Chillán-Collipulli'', Sector By Pass Salto del Laja, Octava Región y se acordó el valor de indemnización con su propietaria María Angélica Ogueda Ibacache, ascendente a la cantidad de $16.323.459.-.
+
+Fiscal del Ministerio de Obras Públicas.
