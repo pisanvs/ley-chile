@@ -1,0 +1,3 @@
+Por resolución Nº245 de 31 de enero de 2002 de esta Subsecretaría, déjanse sin efecto las resoluciones Nº1.161 de 1991, Nº1.908 de 1995, Nº805 de 1996 y Nº254 de 1998, todas de esta Subsecretaría, que autorizaron a PESQUERA SANTA ISABEL S.A., para operar las naves "Santa Isabel I" y "Santa Isabel III" por renuncia de su titular.
+
+Valparaíso, 31 de enero de 2002.- Felipe Sandoval Precht, Subsecretario de Pesca.
