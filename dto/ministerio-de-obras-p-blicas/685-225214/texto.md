@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 685, de fecha 30 de agosto de 1996, se expropiaron los lotes de terreno Nos. 11, 11-B y 13, superficies 7.840, 82.942 y 16.433 m2., respectivamente, rol de avalúo 5021-1, comuna de Viña del Mar, para la obra Camino Rodelillo El Salto Villa Dulce, sector Agua Santa Villa Dulce y se acordó precio de indemnización con su propietario Instituto de Desarrollo Agropecuario, ascendente a la cantidad de $152.781.566.
+
+Fiscal del Ministerio de Obras Públicas.
