@@ -1,0 +1,5 @@
+Por Resolución N° 279 de 9 de Marzo de 1994 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, autorízase a CONGELADOS DEL PACIFICO LTDA., R.U.T. N° 79.773.390-3, para ampliar actividades pesqueras de transformación, autorizadas por Resolución N° 702, de 1988, de esta Subsecretaría, en orden a incorporar la línea de elaboración de surimi a su planta industrial, autorizada por la Resolución señalada precedentemente, ubicada en la VIII Región, en Avda. Gran Bretaña N° 955, Talcahuano, donde podrá procesar los siguientes recursos hidrobiológicos: Jurel, Merluza de cola y Merluza de tres aletas.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso 9 de Marzo de 1994.- Andrés Couve Rioseco, Subsecretario de Pesca.
