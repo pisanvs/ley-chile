@@ -3758,23 +3758,17 @@ No obstante la disposición precedente, en aquellos casos en que como consecuenc
 
 Las presentes instrucciones no obstan a la facultad de los bancos para conceder créditos en la forma ordinaria a los depositantes de valores en cobro, los cuales naturalmente deberán documentarse y registrarse dentro de sus colocaciones, o para autorizar sobregiros hasta por el equivalente de 30 unidades de fomento, según las normas contenidas en el Capítulo III.G.3 del Compendio de Normas Financieras del Banco Central de Chile.
 
-2.2. Valores en cobro no afectos a plazo de retención.
+2.2. Excepciones a la retención obligatoria.
 
-2.2.1. Cheques fiscales.
+No obstante lo dispuesto en el numeral 2.1 precedente, las instituciones podrán optar por prescindir de esas retenciones en los siguientes casos:
 
-No estarán sujetos a retención los cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal que correspondan a cuentas radicadas en la misma plaza, cuando su monto no exceda del equivalente de 30 unidades de fomento.
+a) Cuando se trate de giros contra depósitos constituidos por vales vista girados por otras entidades financieras de la misma plaza o por cheques viajero.
 
-2.2.2. Casos en que se puede prescindir voluntariamente de la retención.
+b) Cuando se trate de giros que se realicen sobre depósitos efectuados con cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal radicadas en la misma plaza o en plazas distintas a la de la oficina receptora del depósito.
 
-Loa bancos podrán optar por prescindir de las retenciones establecidas en el numeral 2.1 anterior, en los siguientes casos:
+c) Cuando con el visto bueno de uno de sus apoderados se autorice el pago a sus trabajadores, de cheques girados por éstos contra sus cuentas corrientes personales que mantengan en otros bancos, como también para pagarles a esos mismos trabajadores los cheques girados a su orden por sus respectivos organismos previsionales.
 
-a) Cuando se trate de giros contra depósitos constituidos por vales vista girados por otras entidades financieras de la misma plaza o por cheques viajero;
-
-b) Cuando se trate de giros que se realicen sobre depósitos efectuados el mismo día con cheques girados contra cuentas subsidiarias de la Cuenta Unica Fiscal radicadas en la misma plaza o en plazas distintas a la de la oficina receptora del depósito, sin perjuicio de lo indicado en el numeral 2.2.1 precedente;
-
-c) Cuando con el visto bueno de uno de sus apoderados se autorice el pago a sus trabajadores, de cheques girados por éstos contra sus cuentas corrientes personales que mantengan en otros bancos, como también para pagarles a esos mismos trabajadores los cheques girados a su orden por sus respectivos organismos previsionales; y,
-
-d) Cuando se gire contra depósitos con pagarés o certificados de depósito aplazo no reajustables de otras instituciones financieras, pagaderos en la misma plaza, y que al momento de ser depositados se encuentren vencidos.
+d) Cuando se gire contra depósitos con pagarés o certificados de depósito a plazo no reajustables de otras instituciones financieras, pagaderos en la misma plaza, y que al momento de ser depositados se encuentren vencidos.
 
 ### 3. Procedimiento operativo para el control de los plazos de retención
 
@@ -3786,9 +3780,9 @@ b) La oficina librada cargará en la respectiva cuenta los cheques aludidos, tan
 
 ### 4. Operaciones no autorizadas
 
-Las siguientes operaciones no están autorizadas por representar uso anticipado de fondos:
+Las siguientes operaciones no están autorizadas por representar uso anticipado de fondos, sin perjuicio de lo señalado en el numeral 2.2:
 
-a) Pago por caja de cheques girados contra otros bancos, salvo los casos expresamente indicados en el N° 2 anterior; y,
+a) Pago por caja de cheques girados contra otros bancos; y,
 
 b) La emisión de vales vista u otros documentos similares con cargo a valores en cobro. Tales documentos sólo podrán emitirse con la consignación previa de dinero efectivo o contra fondos disponibles.
 
@@ -3858,7 +3852,9 @@ Mientras sea deducible de encaje, el canje generado por los depósitos que efect
 
 Los valores que conformen el saldo de la partida 1015 deberán corresponder exclusivamente a documentos girados a cargo de otras entidades financieras. Luego no podrán incluirse en ningún caso, documentos a cargo de la propia institución, ni los emitidos por ésta contra sus oficinas o corresponsales.
 
-Los bancos continuarán deduciendo del monto de sus depósitos diarios la compensación autorizada por la salida de caja que representa para ellos el pago por cuenta del Banco del Estado de Chile de los cheques de la Cuenta Unica Fiscal. Esa compensación es equivalente al 900% de los importes pagados. El monto de la compensación debe reflejarse en la partida 9160 "Cheques Fiscales pagados por cuenta del Banco del Estado" del formulario MB1.
+Los bancos distintos al banco librado, podrán deducir del monto de sus depósitos diarios, una compensación debe registrarse en la cuenta "Compensación Ordenes de Pago Ley 17.671", de la partida 9160 del mismo nombre, del MB1.
+
+En consecuencia, sírvase retirar del respectivo volumen de la Recopilación Actualizada de Normas, el Capítulo 16-2 que se deroga y remplazar las siguientes hojas por las que se adjuntan a la presente Circular: hoja N° 7 del Indice de Capítulos; hojas N° 3 y 4 del índice de materias; hojas N°s 2, 3 y 4 del Capítulo 3-1 y, hoja N° 3 del Capítulo 4-1.
 
 Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a encaje, el excedente que se produzca diariamente cuando el saldo de las cuentas antes señaladas sea superior a sus depósitos y obligaciones a la vista sujetas a encaje.
 
@@ -39922,119 +39918,9 @@ Los saldos de las cuentas "Remesas de efectivo en tránsito entre oficinas" y
 
 mantenido o como reserva técnica.
 
-CAPITULO 16-2 (Bancos)
+CAPITULO 16-2 (Bancos) Derogado.
 
-MATERIA:
-
-PAGO DE CHEQUES GIRADOS CONTRA LAS CUENTAS SUBSIDIARIAS DE LA CUENTA UNICA
-
-FISCAL.
-
-1. Pago por caja de cheques girados contra las cuentas subsidiarias de la Cuenta
-
-Unica Fiscal.
-
-1.1. Pagos obligatorios.
-
-Las entidades bancarias, distintas al Banco del Estado de Chile, están obligadas
-
-a pagar por caja los cheques girados contra las cuentas subsidiarias de la
-
-Cuenta Unica Fiscal que correspondan a cuentas radicadas en la misma plaza en
-
-que se presentan a cobro y cuyo monto no sobrepase el equivalente de 30 unidades
-
-de fomento. Se exceptúan de esta obligación los cheques cobrados por poder, los
-
-que deben ser pagados solamente por el Banco del Estado de Chile.
-
-1.2. Pagos opcionales.
-
-Queda a la opción de los bancos pagar en sus cajas cheques girados contra las
-
-cuentas subsidiarias de la Cuenta Unica Fiscal por valores superiores al
-
-equivalente de 30 unidades de fomento. Igualmente, las instituciones pueden
-
-pagar, por cualquier monto, cheques contra las referidas cuentas abiertas en
-
-plazas distintas, siempre que las personas que los presenten a cobro sean
-
-conocidas por las autoridades de la oficina respectiva o hayan sido
-
-identificadas a satisfacción del apoderado que autoriza el pago.
-
-### 2. Antecedentes que debe proporcionar el Banco del Estado de Chile
-
-Para hacer expedita y segura la participación de los bancos en el pago de
-
-cheques contra las cuentas subsidiarias de la Cuenta Unica Fiscal, el Banco del
-
-Estado del Chile deberá proporcionar a dichas entidades la nómina de las
-
-diferentes cuentas subsidiarias de la Cuenta Unica Fiscal, con especificación
-
-de: número de la cuenta; oficina del Banco del Estado en que se encuentre el
-
-registro o matrícula de ella; nombre del servicio, repartición o dependencia
-
-quesea titular de la cuenta corriente subsidiaria; nombre de las personas
-
-autorizadas para girar los referidos cheques y los facsímiles de sus firmas.
-
-Los bancos podrán abstenerse de pagar cheques girados sobre cuentas corrientes
-
-de las que carezcan de los antecedentes recién señalados.
-
-Además, el Banco del Estado de Chile deberá informar diariamente a las empresas
-
-bancarias del país, las órdenes de no pago que afecten a los citados documentos.
-
-### 3. Deducción del encaje exigible e imputación contable
-
-Los bancos cargarán diariamente el monto de los cheques fiscales pagados por
-
-caja, a las cuentas que corresponda de la partida 1015 "Documentos a cargo de
-
-otros bancos" (canje). Con el objeto de no perjudicar su posición de encaje por
-
-esos egresos de caja, los bancos deducirán de sus obligaciones a la vista
-
-afectas a encaje, una cantidad equivalente al 900% del monto de los referidos
-
-cheques. Dicha suma, que corresponde a la compensación de encaje por los pagos
-
-efectuados, deberá ser imputada en las cuentas "Cheques fiscales pagados por
-
-cuenta del Banco del Estado de Chile" y "Responsabilidad por cheques fiscales
-
-pagados por cuenta del Banco del Estado de Chile" de las partidas 9160 y
-
-9900,respectivamente, del formulario MB1. El beneficio de dicha deducción, con
-
-la cual está de acuerdo el Comité Ejecutivo del Banco Central de Chile, será
-
-válido por un día, de manera que los registros efectuados en esa cuenta, deben
-
-revertirse al día hábil bancario inmediatamente siguiente.
-
-El porcentaje señalado en el párrafo anterior está determinado de acuerdo con la
-
-tasa de encaje de un 10% para las obligaciones a la vista.
-
-### 4. Depósitos con cheques fiscales
-
-Los bancos quedan facultados para decidir el pago de los giros que se realicen
-
-sobre depósitos efectuados el mismo día con cheques que cumplan las condiciones
-
-indicadas en el numeral 1.2 de este capítulo, o bien aplicarles el plazo mínimo
-
-de retención establecido para cheques de la misma o de otras plazas, según
-
-corresponda. En los casos de retención, como es obvio, el banco no podrá hacer
-
-uso de la compensación a que se refiere el número anterior.
+Artículo .- Derogado.
 
 CAPITULO 16-3 (Bancos y Financieras)
 
