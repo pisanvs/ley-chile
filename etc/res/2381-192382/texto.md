@@ -1,0 +1,3 @@
+Por resolución Nº 2.381 de 28 de noviembre de 2001 de esta Subsecretaría, autorízase a PESQUERA FRIOSUR IX S.A. para continuar desarrollando actividades pesqueras extractivas con la nave "Friosur IX", autorizada por resoluciones Nº 721 de 1996, Nº 275 de 1999, Nº 289, Nº 290, Nº 2.239 y Nº 2.588, todas de 2000, y Nº 2.278 de 2001, de esta Subsecretaría de Pesca.
+
+Valparaíso, 28 de noviembre de 2001.- Felipe Sandoval Precht, Subsecretario de Pesca.
