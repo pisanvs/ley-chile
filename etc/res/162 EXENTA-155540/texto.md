@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION
+
+Por Resolución Exenta N° 162, de 07 de Febrero de 1986, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se autoriza a los señores: Eduardo Enrique González Soto - Mercedes Rosa Aravena Aravena - Ernesto Aravena Romo - Luis Egidio Zamorano Jiménez - Horacio Guillermo Neira Monterrey - José Fermín Corrial Galaz - Juan Héctor Porovic Rojas - Jaime Villavicencio Leiva - Ana Luisa González Vilos - José González Allendes, para efectuar servicio de Taxi Colectivo Urbano, en la ciudad de Rancagua, línea N° 2 "El Triángulo" Ramón Torres Lagos - Rancagua Sur, cuyo trazado fue autorizado por Resolución Exenta N° 72, de 29 de Junio de 1984 de esta Secretaría Regional.
+
+Rancagua, 30 de Enero de 1986.- Rigoberto Gómez Lavín, Secretario Regional Ministerial de Transportes y Telecomunicaciones VI Región.
