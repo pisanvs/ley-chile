@@ -1,0 +1,5 @@
+DENIEGA AUTORIZACION QUE INDICA. CADUCA RESOLUCION QUE SEÑALA
+
+Por resolución No. 293 de 16 de Febrero de 1990 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se deniega la autorización solicitada por Sociedad Procesadora de Productos del Mar Limitada, Prodemar Ltda., R.U.T. No. 79.694.800-0, domiciliada en Concepción, para prorrogar el plazo de publicación del extracto de la resolución No. 1.420, de 1989, de esta Subsecretaría, establecido en el numeral 6° de dicho instrumento, de conformidad a lo dispuesto en el artículo 6° del Decreto No. 175, de 1980, del Ministerio de Economía, Fomento y Reconstrucción. Se caduca, en mérito a lo expuesto anteriormente, la citada resolución No. 1420, de acuerdo a lo establecido en el artículo y la norma ya mencionados.
+
+Valparaíso, 16 de Febrero de 1990.- Roberto Cabezas Bello, Subsecretario de Pesca.
