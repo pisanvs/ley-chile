@@ -1,0 +1,5 @@
+Por decreto M.O.P. No. 458, de 21 de abril de 1998, y en base a la facultad otorgada por el artículo 105 del DFL.
+
+M.O.P. No. 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley No. 15.840, se expropiaron los lotes de terreno No.s. 40, 44 y 45, para la obra Embalse Puclaro, Sector Punta Azul y San Carlos, III Etapa, que figuran a nombre de Gregorio Varela Yánquez, Héctor G. I. Varela Yánquez y Fernando Vilches Carrasco, roles de avalúo 402-11, 402-12 y 402-9, superficies 2.200, 3.200 y 6.694 m2. respectivamente. La Comisión de Peritos compuesta por los señores Alfredo Prieto Parra, Juan Ibáñez Palma e Iris Marcich Moller, fijó con fecha 20 de noviembre de 1996, los valores provisionales de las indemnizaciones en las cantidades de $ 4.530.000 para el lote No. 40, $ 4.810.000 para el lote No. 44 y $ 11.044.000 para el lote No. 45. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7°del decreto ley No. 2.186, de 1978.
+
+-Fiscal del Ministerio de Obras Públicas.
