@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 1.020 de 10 de noviembre de 2004, y en base a la facultad otorgada por el artículo 105 del DFL M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº. 3-B, para la obra: Camino Ruta 115-CH, Sector Talca - San Clemente, km. 0.000 a km. 24.361,65, que figura a nombre de Industria Azucarera Nacional S.A., rol de avalúo 3720-349 Comuna de Talca, VII Región, superficie 2.834,5 m². La Comisión de Peritos fijó con fecha 6 de febrero de 1995, en la cantidad de $12.755.250.- lote Nº3-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
