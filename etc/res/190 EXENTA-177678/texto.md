@@ -1,0 +1,5 @@
+COMPLEMENTA RESOLUCION Nº355 EXENTA, DE 1999
+
+Por resolución exenta DRE04.00 Nº190 de 14.08.2000, de la IV Dirección Regional del Servicio de Impuestos Internos, se complementa la resolución exenta DRE04.00 Nº355 de 26.11.1999, de esta Dirección Regional, en el sentido de establecer que la excepción del régimen de retención del 5% de compras de carne, por los contribuyentes obligados al cambio de sujeto de derecho del Impuesto al Valor Agregado en las ventas de carne, dispuesto para Gendarmería de Chile La Serena, RUT Nº61.004.012-8, también favorece a las siguientes unidades: Centro de Cumplimiento Penitenciario de La Serena, RUT Nº61.004.013-6; y Centros de Detención Preventiva de Ovalle, RUT Nº61.004.015-2; de Illapel, RUT Nº61.004.017-9; de Combarbalá RUT Nº61.004.016-0; y de Vicuña RUT Nº61.004.014-4. La referida resolución regirá a contar del día primero del mes siguiente al de su publicación en extracto, la que estará vigente mientras se mantengan las condiciones por las que se ha resuelto.-
+
+Pablo Jara Alvarez, Director Regional.
