@@ -1,0 +1,3 @@
+Por Resolución Nº 1.007, de 11 de julio de 1997, de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura, solicitud Nº 94106044, presentada por JUAN CARLOS PARDO OPAZO, para el centro de cultivo ubicado en Isla San Pedro, comuna de Quellón, provincia de Chiloé, X Región, conforme lo dispuesto en el artículo Nº 78º, inciso 2º, de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 11 de julio de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
