@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.634, de 27 de octubre de 2000, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº3, para la obra:
+
+''CONCESION INTERNACIONAL INTERCONEXION VIAL. SANTIAGO-VALPARAISO-VIÑA DEL MAR. TRAMO 15: KM. 93.090,00 A KM. 96.800,00'', Quinta Región, que figura a nombre de Cía Seguros de Vida Consorcio Nac, rol de avalúo 9500-17, comuna de VALPARAISO, superficie 752 m2. La comisión de peritos integrada por los señores Marcela Alejandra Redard Ayala, Miguel Juan Fernández Cádiz y María Elena García Monteverde, fijó con fecha 11 de julio de 2000, el valor provisional de la indemnización en la cantidad de $9.057.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
