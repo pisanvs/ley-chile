@@ -1,0 +1,3 @@
+Por Resolución N° 625 de 24 de Mayo de 1995 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, deniégase la solicitud de concesión de acuicultura presentada por PETER THOMAS RODERICK MACLEAN BOYD, R.U.T. N° 4.226.375-3, domiciliado en Huerto Familiar N° 275, Puerto Natales, para el centro de cultivo ubicado en Península Antonio Varas, Sur Isla Donoso, Comuna de Natales, provincia de Ultima Esperanza, XII Región, por no dar cumplimiento el respectivo proyecto técnico a los artículos 78° y 87° de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de Mayo de 1995.- Patricio Bernal Ponce, Subsecretario de Pesca.
