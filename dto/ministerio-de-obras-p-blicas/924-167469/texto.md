@@ -1,0 +1,3 @@
+Por decreto MOP Nº 924, de 22 de marzo de 2000, se expropió el lote de terreno Nº 12, superficie 514,0 m², rol de avalúo 312-2, comuna de Freire, para la obra Concesión Internacional Ruta 5 Tramo: Collipulli-Temuco, Novena Región y se acordó el valor de indemnización con su propietaria Agrícola Maderera Santa Amalia Limitada, ascendente a la cantidad de $3.296.367.-.
+
+Fiscal del Ministerio de Obras Públicas.
