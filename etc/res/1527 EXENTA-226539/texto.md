@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.527, de 2 de junio de 2004, de esta Subsecretaría, autorízase a PESQUERA BAHIA CORONEL S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Pedro Aguirre Cerda Nº 639, Lo Rojas, Coronel, VIII Región, en las líneas de elaboración Harina y Aceite, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 2 de junio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
