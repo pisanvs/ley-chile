@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº402, de 28 de marzo de 2002, se expropió el lote de terreno Nº2, Superficie 15 m2., rol de avalúo 5353-22, comuna de La Granja, para la obra Sistema Américo Vespucio Sur. Ruta 78-Avda. Grecia. Sector 4: acceso Sur a Santiago-Avda. Vicuña Mackenna, Región Metropolitana y se acordó el valor de indemnización con su propietaria Vivian Jeanette Soto Fica, ascendente a la cantidad de $1.247.900.-
+
+Fiscal del Ministerio de Obras Públicas.
