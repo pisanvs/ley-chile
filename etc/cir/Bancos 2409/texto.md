@@ -1968,6 +1968,10 @@ Lo anterior se refiere sólo a la posibilidad de prescindir de la firma manuscri
 
 De acuerdo con lo establecido en el párrafo a3) del número 9 del Reglamento de Cámara de Compensación, la institución que presenta a cobro los cheques debe estampar en el reverso el timbre de Cámara y en el anverso el timbre de caja. Estos requisitos son suficientes para proceder a su pago a través del canje y responsabiliza a la institución que presenta el documento, del último endoso que contiene.
 
+El endoso no es necesario cuando la institución financiera actúa como cobradora de impuestos, a nombre de la Tesorería General de la República, a nombre de las diversas Municipalidades del país por derechos municipales, de las Administradoras de Fondos de Pensiones por el cobro de imposiciones o de otros descuentos, de las empresas de utilidad pública, como compañías de electricidad, teléfonos, gas, agua potable, etc., o de empresas que le encomiendan cobranzas masivas, resultando suficiente en tales casos que el banco presente a cobro los cheques con el solo timbre de Cámara, toda vez que, de no aceptarse esta solución, debería él mismo endosarlos por poder de la institución o empresa que le encomendó la cobranza.
+
+La existencia del mandato deberá constar en el banco que efectúa la cobranza, sin que ello sea necesario acreditarlo al banco librado.
+
 7.8. Endoso y cancelación de cheques depositados.
 
 No existe inconveniente en que un banco reciba cheques girados en su contra, endosados en comisión de cobranza. Al respecto, esta Superintendencia ha sustentado siempre que una empresa bancaria puede asumir la doble calidad: la de comisionista para el cobro, con respecto al portador del documento y la de banco librado con respecto al girador del cheque. Ello tiene especial importancia cuando se trata de un cheque cruzado.
