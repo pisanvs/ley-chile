@@ -1,0 +1,3 @@
+Por decreto MOP Nº 313, de 26 de febrero de 1999, se expropió el lote de terreno Nº 410, superficie 7.231,7 m², rol de avalúo 291-35, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5, Tramo Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietario José Enrique Marcelo Mulle-Wiehoff Felmer, ascendente a la cantidad de $2.394.976.-
+
+Fiscal del Ministerio de Obras Públicas.
