@@ -1,20 +1,16 @@
-DETERMINA OBLIGACION DE COMUNICAR VENTA DE ALCOHOLES
+MODIFICA RESOLUCION N° 32, DE 1980, DEL SERVICIO AGRICOLA Y GANADERO, SOBRE OBLIGACION DE COMUNICAR VENTA DE ALCOHOLES
 
-Santiago, 7 de Enero de 1980.- Hoy se resolvió lo que sigue:
+Santiago, 21 de Enero de 1981.- Hoy se resolvió lo que sigue:
 
-Núm. 32 Ex.- Vistos: Lo dispuesto en los artículos N° 1 de la ley N° 17.105, sobre Alcoholes, Bebidas Alcohólicas y Vinagres (decreto ley N° 2.753, de 1979), y 17 de su Reglamento, y
+Núm. 180 Ex.- Vistos: Lo dispuesto en los artículos 1° y 27° de la Ley N° 17.105 sobre Alcoholes, Bebidas Alcohólicas y Vinagres, cuyo texto fue aprobado por el Decreto Ley N° 2.753, de 1979; el artículo 17° de su Reglamento, y la Resolución Ex. N° 32, de 7 de Enero de 1980 del Servicio Agrícola y Ganadero y,
 
 Considerando:
 
-1.- Que las disposiciones reglamentarias exigen que los importadores,
+1. Que es necesario agregar otras exigencias a las señaladas a la Resolución de este Servicio N° 32, de 7-1-80, a objeto de perfeccionar el control del comercio de alcoholes etílicos.
 
-fabricantes y comerciantes al por mayor de alcoholes etílicos,
+Resuelvo:
 
-deberán comunicar al Servicio Agrícola y Ganadero las ventas
-
-efectuadas.
-
-Se resuelve:
+Reemplázase la parte resolutiva de la Resolución Exenta N° 32, de 7-1-80, expedida por el Servicio Agrícola y Ganadero por la siguiente:
 
 1°- Los importadores, fabricantes y comerciantes al por mayor de alcoholes etílicos deberán, dentro de los primeros cinco días del mes siguiente al de su venta, enviar al Servicio Agrícola y Ganadero, una nómina de las venta efectuadas, con la siguiente información:
 
@@ -44,4 +40,4 @@ Además, los importadores y fabricantes de alcoholes deberán comunicar las cant
 
 6°- El no cumplimiento a lo dispuesto en esta Resolución, o la falsedad de la información, será causal suficiente para aplicar sanciones establecidas en el artículo 38° de la Ley 17.105, ya mencionada.
 
-Anótese, comuníquese y publíquese en el Diario Oficial.- Jaime de la Sotta Benavente, Director Ejecutivo Servicio Agrícola y Ganadero.
+Anótese, comuníquese y publíquese en el Diario Oficial.- Jaime de la Sotta Benavente, Director Ejecutivo.
