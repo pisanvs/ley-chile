@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº29, de 31 de enero de 2001, se expropió el lote de terreno Nº3, superficie 569 m2., rol de avalúo 562-14, comuna de Chimbarongo, para la obra Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector K, Sexta Región y se acordó el valor de indemnización con sus propietarios Fabián Antonio Díaz Aguayo y otra, ascendente a la cantidad de $2.468.215.
+
+- Fiscal del Ministerio de Obras Públicas.
