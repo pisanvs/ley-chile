@@ -1,0 +1,5 @@
+AUTORIZA A SALMONES AUCAR LTDA, PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 1.167, de 29 de Septiembre de 1987, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Salmones Aucar Ltda., domiciliada en Santiago, para ampliar las actividades pesqueras que tiene autorizadas por las resoluciones No. 533. de 1984, y No. 726. de 1985, ambas de esta Subsecretaría. en orden a operar una planta industrial ubicada en la ribera Este del Río Aucar. Comuna de Quemchi, Provincia de Chiloé, X Región, en la línea de ahumado, donde procesará los siguientes recursos hidrobiológicos: Trucha, salmón coho, salmón keta, salmón rey, salmón rosado, sardina española, sardina común, albacora, mero y jurel. Será abastecido por pescadores artesanales de la V, VII, VIII, IX, X y XI Región. Los recursos salmones y trucha deberán provenir de centros de cultivo autorizados.
+
+Valparaíso, 29 de Septiembre de 1987.- Roberto Cabezas Bello, Subsecretario de Pesca.
