@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 924, de 30 de septiembre de 1997, se expropió el lote de terreno Nº 3, superficie 242 m2. rol de avalúo 387-169, comuna de Pitrufquén, obra Camino Cruce Longitudinal Nueva Toltén, sector Pitrufquén-Nueva Etruria y se acordó precio de indemnización con su propietaria Ilustre Municipalidad de Pitrufquén, ascendente a la cantidad de $419.180.
+
+Fiscal del Ministerio de Obras Públicas.
