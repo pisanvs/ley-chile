@@ -1,0 +1,3 @@
+Por decreto MOP Nº830, de 31 de julio de 2003, se expropió el lote de terreno Nº 8, superficie 2.573 m2, rol de avalúo 565-27, comuna de Teodoro Schmidt, para la obra Camino S-60 sector: Teodoro Schmidt-Hualpin, Km. 43,94000 al Km. 59,10294, tramo I Km. 44,84000 al Km. 53,08000, Novena Región y se acordó el valor de indemnización con su propietario Edmundo Kreps Gransoto, ascendente a la cantidad de $3.487.219.
+
+- Fiscal del Ministerio de Obras Públicas.
