@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 320, de 29 de diciembre
+
+de 2000, y en base a la facultad otorgada por los
+
+artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 128-1, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector L: Km. 179.500,00 al Km. 192.900,00", Séptima Región, que figura a nombre de Iansagro S.A., rol de avalúo 548-118, comuna de Curicó, superficie 92 m2. La comisión de peritos integrada por los señores Pablo Antonio Aragón Bernal, Claudia Paola Arellano Gómez y Jorge Gregorio Mendoza Larral, fijó con fecha 4 de septiembre de 2000, el valor provisional de la indemnización en la cantidad de $977.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
