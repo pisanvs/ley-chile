@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Santa María para contratar un empréstito hasta por la suma de $ 1.000,000 con el fin de extender los servicios de alumbrado eléctrico en la comuna.
