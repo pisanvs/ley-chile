@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.447, de 27 de junio de 2003, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3.102 de 2002, modificada mediante resolución Nº 354 de 2003, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Pesca de Investigación de Merluza del sur en la Región de Magallanes-Fase II, 2003" en el sentido de señalar que las actividades de investigación correspondientes al mes de julio de 2003, se realizarán entre el 1 y 31 de julio, ambas fechas inclusive.
+
+Valparaíso, 27 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
