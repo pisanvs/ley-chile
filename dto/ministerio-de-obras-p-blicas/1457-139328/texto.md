@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.457, de 31 de mayo de 1999, se expropió el lote de terreno Nº 85-7, superficie 28 m2., rol de avalúo 848-24, comuna de Bulnes, para la obra ''Concesión Internacional Ruta 5 Tramo Chillán - Collipulli Sector 1'', Octava Región y se acordó el valor de indemnización con su propietario Leoni Eloy Mondaca Molina, ascendente a la cantidad de $217.329.-
+
+Fiscal del Ministerio de Obras Públicas.
