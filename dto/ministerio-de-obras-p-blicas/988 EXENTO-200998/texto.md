@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº988, de 28 de junio de 2002, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la ejecución de la obra ''Camino Loncoche-Calafquén, Sector Pte. Huiñoco Nº2'', que figura a nombre de Valdebenito San Martín José, Rol de Avalúo 492-75, comuna de Loncoche, IX Región, superficie 229 m². La Comisión de Peritos fijó con fecha 20 de junio de 1995, el valor provisional de la indemnización en la cantidad de $230.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal Ministerio de Obras Públicas.
