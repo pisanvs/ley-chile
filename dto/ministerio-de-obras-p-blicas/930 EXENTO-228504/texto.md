@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 930 de fecha 30 de junio de 2004, se expropió el lote de terreno Nº 588-I, superficie 76 m2, rol de avalúo Nº 32-54 comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km, 0,00000 a Km. 12,70000", VI Región y se acordó el valor de la indemnización con su propietario Neftalí o Neftalí del Carmen Tobar Urbina, ascendente a la cantidad de $403.254.
+
+Fiscal del Ministerio de Obras Públicas.
