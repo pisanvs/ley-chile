@@ -8,6 +8,6 @@ Decreto:
 
 2.o Apruébanse los estatutos por los cuales se ha de regir la citada corporación, en los términos de que da constancia la escritura pública otorgada ante el notario del departamento de Santiago don Luis Azócar Alvarez, con fecha dos de Octubre de mil novecientos cincuenta y uno.
 
-3.o Se declara que queda prohibido el expendio de bebidas alcohólicas en el local social.
+3.o SUPRIMIDO
 
 Tómese razón, comuníquese y publíquese.- GABRIEL GONZALEZ V.- Humberto Parada.
