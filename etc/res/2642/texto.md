@@ -1,0 +1,3 @@
+Por resolución Nº 2.642, de 18 de diciembre de 2000, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente a Puerto Manso, IV Región, individualizada en el artículo 1º Nº 19 del D.S. Nº 509, de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE PESCADORES ARTESANALES Y BUZOS MARISCADORES DE CALETA PUERTO MANSO.
+
+Valparaíso, 18 de diciembre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
