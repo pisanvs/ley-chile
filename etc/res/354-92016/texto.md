@@ -1,0 +1,3 @@
+Por Resolución No. 354 de 19 de abril de 1989 de SERVIU Metropolitano, ordenóse expropiación, conforme DL 2.186 de 1978, inmueble ubicado en calle San Ignacio No. 490, presunto rol de avalúos No. 651-6 comuna Santiago, aparente dominio de don Julio Ayala Saavedra. Comisión integrada por peritos señores Roberto Correa Bezanilla y Eduardo Suárez Suárez, arquitectos y Pablo Risopatrón Garmendia, ingeniero civil, según informe de 20 de octubre de 1988, fijó monto provisional indemnización en $ 45.458.000.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
