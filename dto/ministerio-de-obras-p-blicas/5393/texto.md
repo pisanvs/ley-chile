@@ -1,0 +1,3 @@
+Por decreto MOP Nº 5.393, de 29 de diciembre del 2000, se expropió el lote de terreno Nº 152-51 superficie 202 m²., rol de avalúo 1282-68, comuna de La Calera, para la obra Camino Ruta 5 Norte Tramo Santiago - Los Vilos, Quinta Región y se acordó el valor de indemnización con su propietario Alonso Wladimir Hernán Méndez Tello, ascedente a la cantidad de $11.101.206.
+
+Fiscal del Ministerio de Obras Públicas.
