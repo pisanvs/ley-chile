@@ -1,0 +1,3 @@
+Por resolución número 2.231, de 11 de octubre de 2000, de esta Subsecretaría, amplíase por un año, a contar del 25 de agosto de 2000, el plazo otorgado por resolución Nº 1.709, de 1999, de esta Subsecretaría, a SOCIEDAD DE FOMENTO INDUSTRIAL Y COMERCIAL ALBATROS S.A., para operar la planta autorizada por resolución Nº 1.078, de 1998, de esta Subsecretaría, en el domicilio antes indicado, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 11 de octubre de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
