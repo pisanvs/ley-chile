@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 108, de fecha 20 de noviembre del año 2002, se aprobó la reforma parcial del estatuto de la Cooperativa de Servicios Villa de Vida Natural Manuel Lezaeta Acharán Limitada, en adelante, Cooperativa Villa de Vida Natural Manuel Lezaeta Acharán, de nombre de fantasía "Villa de Vida Natural", y de sigla "Covinat", cuya existencia fue autorizada por decreto Nº 494, de 19 de abril de 1967, del Ministerio de Economía, Fomento y Reconstrucción, en los términos que da testimonio el instrumento reducido a escritura pública con fecha 24 de septiembre de 2002, ante don Abner Poza Matus, Notario Suplente del Titular, don Luis Poza Maldonado, de la ciudad de Santiago, anotada en el Repertorio bajo el Nº 1.928.
+
+Por orden del señor Subsecretario, Raúl Oliva Camadro, Jefe Departamento de Cooperativas Ministerio de Economía, Fomento y Reconstrucción.
