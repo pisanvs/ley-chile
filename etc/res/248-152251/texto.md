@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA MONTEMAR S.A. PARA DESARROLLAR ACTIVIDADES PESQUERAS
+
+Por Resolución No. 248 de 13 de Marzo de 1986 de la Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Montemar S.A., domiciliada en Viña del Mar, para operar dos embarcaciones especificadas en contrato de construcción de embarcación suscrito entre la peticionaria y Astilleros Marco Chilena Limitada de 17 de Diciembre de 1985, modificado con fecha 17 de Enero de 1986, en el litoral de las Regiones IV, V, VI y VII en faenas extractivas de albacora, agujilla, atún aleta amarilla, atún aleta larga, bacalao de profundidad, bonito, cojinova del Norte, congrio colorado, congrio dorado, congrio negro, corvina, dorado, lenguado de ojos chicos, lenguado de ojos grandes, merluza común, mero o bacalao, pejegallo, raya, róbalo, tiburón, rollo y lisa. Las embarcaciones deberán contar a bordo con sistemas adecuados de preservación de la materia prima.
+
+Valparaíso, 13 de Marzo de 1986.- Roberto Verdugo Gormaz, Subsecretario de Pesca.
