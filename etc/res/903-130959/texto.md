@@ -1,0 +1,7 @@
+AUTORIZA A KAIKO ENTERPRISE CHILE S.A. PARA INICIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 903, de 26 de Agosto de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Kaiko Enterprise Chile S.A., R.U.T. No. 96.530.630-7, domiciliada en Santiago, para iniciar actividades pesqueras, en orden a operar en la planta industrial ubicada en la localidad de Candelaria, sector Huildad Comuna de Quellón, X Región, donde procesará en las líneas de elaboración de fresco, congelado y deshidratado, los siguientes recursos hidrobiológicos: Bacalao de profundidad o Mero, Brótula, Cabrilla, Cazón, Chancharro, Cojinoba del Sur, Congrio colorado, Congrio dorado, Congrio negro, Corvina, Jurel, Merluza común, Merluza del Sur, Merluza de cola Merluza de tres aletas, Pejerrey, Sardina común, Sardina española, Sierra, Tollo, Almeja, Cholga, Chorito, Choro zapato, Lapa, Loco, Macha, Navajuela, Ostra chilena, Centolla, Jaiba, Erizo y Piure.
+
+La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 26 de Agosto de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
