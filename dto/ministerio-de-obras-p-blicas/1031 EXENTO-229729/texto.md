@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.031 de fecha 29 de julio de 2004, se expropió el lote de terreno Nº 2, superficie 332 M2, rol de avalúo Nº 3155-30, comuna de Coquimbo, para la obra "Mejoramiento Ruta D-427, Sector Ruta 5-Tambillo, Sector Atravieso Tambillo, Km. 0,00000 a Km. 14,54200", IV Región y se acordó el valor de la indemnización con su propietario Waldo Alejandro Salinas Torrejón, ascendente a la cantidad de $1.290.069.
+
+Fiscal del Ministerio de Obras Públicas.
