@@ -1,0 +1,3 @@
+Por decreto MOP No. 1.006, de 29 de abril de 1999, se expropiaron los lotes de terreno No. s.11 y 12, superficie 292 y 4.492 M2., roles de avalúo en trámite, comuna de Constitución, para la obra Camino Ruta M-40, Santa Olga -Empedrado, Sector Santa Olga- Los Pellines y se acordó precio de indemnización con sus propietarios Ejinaldo René Jaque Acevedo y Eric Antonio Pereira Gómez, ascendente a las cantidades de $ 169.697 y $ 3.360.991, respectivamente.-
+
+Fiscal del Ministerio de Obras Públicas.
