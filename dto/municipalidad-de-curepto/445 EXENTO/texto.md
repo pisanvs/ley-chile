@@ -1,0 +1,5 @@
+APRUEBA ORDENANZA DE REGISTRO DE PERSONAS JURIDICAS RECEPTORAS DE TRANSFERENCIAS
+
+La Ilustre Municipalidad de Curepto pone en conocimiento de la comunidad, que de acuerdo a lo establecido en la ley 19.862, y al D.S. Nº 375 del Ministerio de Hacienda que regula la citada ley, el Honorable Concejo Municipal por acuerdo 01/40 adoptado en sesión extraordinaria Nº 40 del 27 de mayo de 2004, ha aprobado la Ordenanza que establece y regula el Registro de Personas Jurídicas Receptoras de Transferencias Municipales. El señalado texto contempla los siguientes títulos: I Disposiciones Generales; II de las Subvenciones; III del Otorgamiento de las Subvenciones; y IV de las Rendiciones de Cuentas; y se encuentra inserto en decreto exento Nº 445 del 28.05.04, a disposición de los interesados en la Secretaría Municipal, ubicada en Plaza de Armas S/Nº de Curepto.
+
+Anótese, comuníquese y publíquese.- Luis Armando González Aguilar, Alcalde.- Luis E. Navarro Reyes, Secretario Municipal.
