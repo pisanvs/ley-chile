@@ -1,0 +1,3 @@
+Por decreto MOP Nº 4.807, de 31 de octubre de 2000 y en base a la facultad otorgada por el articulo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº 3, para la obra Camino Ruta W-80, sector Cruce Longitudinal-Huillinco, Kms. 0,000 al 9,556, que figura a nombre de Eliana Inés Bachmann Bachmann, rol de avalúo 139-13, superficie 1.064,80 m², comuna de Chonchi. La Comisión de Peritos, con fecha 12 de abril de 1999, fijó la indemnización provisional en la cantidad de $658.880, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
