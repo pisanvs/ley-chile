@@ -1,0 +1,9 @@
+Por resolución exenta Nº 2.452, de 10 de octubre de 2003, de esta Subsecretaría, modifícase la resolución Nº 2.390, que autorizó a AYSEN CONSULTORES LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Modelo de administración y control de esfuerzo de pesca sobre el excedente productivo del recurso pesquero Merluza del sur (Merluccius australis) y determinación de la estructura de tallas de la pesquería de aguas interiores de la XI Región", en el sentido de señalar que el límite de captura establecido para el mes de octubre para la Flota Norte 1 será fraccionado de la siguiente manera:
+
+I. 49,442 toneladas serán extraídas por las embarcaciones participantes pertenecientes a los asociados a las siguientes organizaciones de pescadores artesanales incluidos en la Flota Norte 1, conforme se señala a continuación: a) Sindicato de Trabajadores Independientes de la Pesca Artesanal Padre Antonio Ronchi, de Puerto Gala, R.S.U. 11.02.0047: 21,492 toneladas; b) Sindicato de Trabajadores Independientes de la Pesca Artesanal de Puerto Puyuhuapi, R.S.U.
+
+11.02.0022: 14,710 toneladas; c) Sindicato de Trabajadores Independientes Buzos Mariscadores Pescadores Artesanales de Puerto Puyuhuapi, R.S.U. 11.02.0048: 13,240 toneladas.
+
+II. 58,558 toneladas correspondientes al saldo del límite de captura establecido para el mes de octubre serán extraídas por las embarcaciones participantes pertenecientes a los no asociados a las organizaciones antes señaladas.
+
+Valparaíso, 10 de octubre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
