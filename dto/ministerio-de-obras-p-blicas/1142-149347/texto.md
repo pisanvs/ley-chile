@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.142, de 30 de abril de 1999, se expropiaron los lotes de terreno Nºs. 395 y 396, superficies 6.772,5 m² y 20.236,4 m², rol de avalúo 290-131, comuna de Los Lagos, para la obra Concesión Internacional Ruta 5. Tramo: Temuco-Río Bueno, Décima Región y se acordó el valor de indemnización con su propietaria Forestal Valdivia S.A., ascendente a la cantidad total de $16.270.282.-
+
+Fiscal del Ministerio de Obras Públicas.
