@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.400, de 17 de abril de 2000, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840, se expropió el lote de terreno Nº9, para la obra Camino Melipeuco - Icalma, Sector Variante Nº2, Km. 30.556 a Km. 30.956, que figura a nombre de Dante Di Giammarino Scipione, rol de avalúo 308-86 de la comuna de Melipeuco, superficie 5.060 m2. La comisión de peritos fijó con fecha 28 de diciembre de 1998, el valor provisional de la indemnización en la cantidad de $404.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
