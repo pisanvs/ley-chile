@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.675, de 24 de junio de 1999, se expropió el lote de terreno Nº 124, superficie 7.588 m², rol de avalúo 333-8, comuna de Río Negro, para la obra Concesión Internacional Ruta 5 tramo Río Bueno-Puerto Montt, sector: Osorno-Río Negro, Décima Región y se acordó el valor de indemnización con su propietaria Blanca Estela Pinninghoff Gebauer, ascendente a la cantidad de $4.879.830.
+
+- Fiscal del Ministerio de Obras Públicas.
