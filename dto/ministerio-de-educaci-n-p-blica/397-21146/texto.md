@@ -1,0 +1,3 @@
+Por Decreto Exento N° 397 de fecha 03 de Diciembre de 1992 del Ministerio de Educación, se reemplazaron a contar de Agosto de 1992 las normas de evaluación, promoción y titulación del Centro de Formación Técnica ICECOOP de la ciudad de Santiago, que fueran aprobadas por Resolución Exenta de Educación N° 2460 de 1982.- Santiago, 07 de Abril de 1993.-
+
+Raúl Allard Neumann, Subsecretario de Educación.
