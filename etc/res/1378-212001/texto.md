@@ -1,0 +1,3 @@
+Por resolución Nº 1.378, de 24 de junio de 2003, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97101011 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES RECOLECTORES DE ALGAS ESPERANZA DE TENGLO, para un centro de cultivo ubicado en sector playa La Vega, isla Tenglo, X Región.
+
+Valparaíso, 24 de junio de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
