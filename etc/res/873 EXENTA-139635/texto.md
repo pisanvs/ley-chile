@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DE IVA A SOC. COMERCIAL BOYEN LTDA.
+
+La VIII Dirección Regional Concepción del S.I.I., por resolución DRE08/Nº Ex. 873, de fecha 12 de julio de 1999, excepciona, a contar del 1º del mes siguiente al de esta publicación y hasta el 31 de agosto de 1999, a Soc. Comercial Boyen Ltda., Rut Nº 77.042.260-4, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de productos silvestres, establecido en la resolución Nº Ex. 5.101, de 31-08-98, de la Dirección Nacional, publicada en el Diario Oficial del día 05-09-98, consecuencialmente el(la) peticionario(a) excepcionado pasa a tener la calidad de agente retenedor del Impuesto al Valor Agregado en sus operaciones de compras de productos silvestres.-
+
+Sergio Flores Gutiérrez, Director Regional.
