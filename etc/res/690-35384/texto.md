@@ -1,0 +1,3 @@
+Por Resolución N° 690, de 12 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, déjase sin efecto las Resoluciones N° 234, de 1986 y N° 810, de 1987, ambas de esta Subsecretaría que autorizaron a don SERGIO MERINO PEÑAILILLO, para desarrollar actividades pesqueras con la nave "Río Tutuven", en virtud de la renuncia del titular.
+
+Valparaíso, 12 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
