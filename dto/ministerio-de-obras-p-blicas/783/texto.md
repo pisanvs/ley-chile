@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 783, de 29 de agosto de 1997, se expropió el lote de terreno Nº 2, superficie 1.484 M2., rol de avalúo 157-15 comuna de Pemuco, para la obra Proyecto Laja Diguillín, Area de Riego Pemuco Canal San Ramón (Ramal 1) Faja de Expropiación y se acordó precio de indemnización con su propietario Manuel Ocampo Salinas, ascendente a la cantidad de $652.521.-
+
+Fiscal del Ministerio de Obras Públicas.
