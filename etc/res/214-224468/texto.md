@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 214, 7 abril 2004, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Paicaví Nº 1848, Rol de Avalúo Nº 763-10, comuna Concepción, superficie 35,72 m2. de terreno, dentro polígono y linderos señalados plano expropiación S8R-18364, de aparente dominio de Luis Humberto Hernández Riffo, para ejecución programa de viviendas, obras de infraestructura, etc., en comuna de Concepción, conforme artículo 51 Ley 16.391 y DL. Nº 2.186. Comisión Peritos integrada por Leonardo Eugenio Fasce Casanueva, arquitecto, Mario Fabrizio Bellolio Bosticca, arquitecto, e Italo Zerga Arancibia, constructor civil, según informe de fecha 4 de marzo de 2004, fijó monto provisional indemnización en $5.771.245.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
