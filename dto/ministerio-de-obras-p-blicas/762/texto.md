@@ -1,0 +1,5 @@
+Por Decreto M.O.P. N°762, de 19 de agosto de 1997, y en base a la facultad otorgada por el artículo 105 del Decreto M.O.P. N°294, de 1984, que fijó el texto actualizado de la Ley N°15.840, se expropiaron los lotes de terrenos N°s. 2-E, 3-E y 4-E, para la obra Línea N°5 del Metro de Santiago, sector Baquedano Santa Ana, Catedral Manuel Rodríguez, que figuran a nombre de Inversiones e Inmobiliaria Córdova Limitada y otras y Sauma Hermanos Limitada, roles de avalúos 167-27, 167-28 y 167-29, Comuna de Santiago, superficies 275,25 m2, 141 m2 y 169,25 m2. La Comisión de peritos compuesta por los señores Ricardo Carvallo Rodríguez, Carlos del Pedregal Sánchez y Sergio Rojas Ibañéz, fijó con fecha 27 de mayo de 1997, el valor provisional de la indemnización en las cantidades de $51.871.250, para el lote 2-E,
+
+$26.335.000, para el lote 3-E y $34.620.500, para el lote 4-E. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
