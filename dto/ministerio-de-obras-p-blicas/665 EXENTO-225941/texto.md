@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 665 de fecha 30 de abril del 2004, se expropió el lote de terreno Nº 367, superficie 194 m2, Rol Nº 61-451, comuna de Palmilla, VI Región para la obra "Camino Colchagua-Pichidegua, sector San Roberto-Cruceros, Tramo Km. 12,3000 a Km. 26,00400", y se acordó el valor de indemnización con su propietario Antonio Segundo Huerta Farías, ascendente a la cantidad de $2.104.838.
+
+Fiscal del Ministerio de Obras Públicas.
