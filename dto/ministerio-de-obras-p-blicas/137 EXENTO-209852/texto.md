@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 137 de fecha 28 de marzo de 2003, se expropió el lote de terreno Nº 53-A, superficie 729 m2, rol de avalúo Nº 214-396, comuna de Teodoro Schmidt, para la obra "Camino S-60 sector Teodoro Schmidt - Hualpín, Km. 43,94000 al Km. 59,10294, tramo II Km. 53,075 al Km. 58,093", IX Región y se acordó el valor de la indemnización con su propietario Juan Andrés Raimán Marilaf y Otros, ascendente a la cantidad de $1.696.402.
+
+Fiscal del Ministerio de Obras Públicas.
