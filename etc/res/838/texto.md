@@ -1,0 +1,3 @@
+Por Resolución N°838, de 30 de Septiembre de 1993, de SERVIU Metropolitano, ordenóse expropiación, conforme D.L. N°2.186 de 1978, de parte del inmueble ubicado en Avda. Santa Rosa N°801, presunto rol de avalúos N°2650-29, Comuna de Puente Alto, aparente dominio de don Gerardo López Escobar. Comisión integrada por peritos Sres. René Ureta Koster, arquitecto, Sergio Rojas Ibáñez, ingeniero civil, y Luis Mercado Argomedo, constructor civil, según informe de 30 de junio de 1993, fijó monto provisional indemnización en $1.332.120.- pagadera al contado,-
+
+Directora SERVIU Metropolitano.
