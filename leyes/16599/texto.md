@@ -1,0 +1,1 @@
+Declara exentos del pago de los impuestos a los espectáculos y cifra de negocios a los teatros de propiedad municipal en los casos que indica.
