@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº235, de fecha 30 de marzo de 2001, se expropió el lote de terreno Nº23-J, superficie 514 m², rol de avalúo 162-30, comuna de San Nicolás, para la obra ''Camino Ruta N-60-O, Sector Río Ñuble - Portezuelo, Km. 6,900.00 a Km. 28,833.35'' y se acordó el valor de indemnización con su propietario Dennys Alejandro Vásquez Soto, ascendente a la cantidad de $261.369.-.
+
+Fiscal del Ministerio de Obras Públicas.
