@@ -1,0 +1,1 @@
+Libera de todo derecho, impuesto o contribución la internación de los vehículos que indica, destinados a la Asamblea de Dios Autónoma de Santiago, a la Parroquia de Barraza y a la Escuela de Lisiados de Santiago.
