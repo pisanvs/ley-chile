@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.399, de fecha 28 de septiembre de 2001, se expropió el lote de terreno Nº 7, superficie 935 m², Rol de Avalúo Nº 152-486, comuna de Graneros, VI Región, para la obra ''Camino Ruta Rol H-10, Sector Graneros - San Francisco de Mostazal, Tramo Km. 0,000 al 9.317'' y se acordó el valor de indemnización con su propietaria doña Elena María del Rosario Prieto Correa, ascendente a la cantidad de $935.498.
+
+- Fiscal del Ministerio de Obras Públicas.
