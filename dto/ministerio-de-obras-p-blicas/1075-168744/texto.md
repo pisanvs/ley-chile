@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.075, de 30 de marzo del 2000, se expropió el lote de terreno Nº490, superficie 128 m2, rol de avalúo 1463-28, comuna de Puente Alto, para la obra Concesión Internacional Ruta 5, Tramo Santiago-Talca. Sector a: Acceso Sur a Santiago, Región Metropolitana y se acordó el valor de indemnización con su propietaria Viviana Guzmán Ramírez, ascendente a la cantidad de $14.523.318.
+
+- Fiscal del Ministerio de Obras Públicas.
