@@ -1,0 +1,3 @@
+Por resolución No. 92, de 24 de Julio de 1985, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones IX Región, se autoriza a doña Mirta Granzotto Brun para efectuar servicio de taxi colectivo no urbano, dentro del territorio nacional, de acuerdo al DS 167/84.
+
+Temuco, 24 de Julio de 1985.- Oscar Córdova Jiménez, Secretario Regional Ministerial de Transportes y Telecomunicaciones IX Región.
