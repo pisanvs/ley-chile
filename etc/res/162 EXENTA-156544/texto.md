@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante Resolución Exenta N° 162 de 31 de enero de 1986, conforme Art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento de Aguas proporcionales que corresponden a Sector Excluido y Sector Expropiado Predio "Hijuela Cuarta o San Luis del Plano de Hijuelación del Fundo San Luis de Almahue", de la comuna de Pichidegua, VI Región; y Derechos Aprovechamiento Aguas que corresponden a las parcelas N°s. 1 a la 20 y sitios N°s. 1 al 26 del Proyecto de Parcelación "San Luis" formado por el predio señalado. Los Derechos de Agua se extraen de los canales Almahue y Palquiales.- Publicación hecha conforme Art. 13 Ley N° 18.377.
+
+Director Ejecutivo.
