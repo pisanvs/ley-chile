@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.653, de 23 de septiembre de 1998, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del DFL MOP Nº206, de 1960, se expropió los lotes de terreno Nºs.
+
+78-A y 78-B, para la obra Concesión Internacional Ruta 5, Tramo Temuco- Río Bueno, Km. 726.006,67 al 746.803,70, Novena Región, que figuran a nombre de Molina Zapata Emilio, rol de avalúo 445-28, comuna de Gorbea, superficies 4.962,8 m² y 9.303,0 m², respectivamente. La Comisión de Peritos integrada por los señores Luis Javier Donoso Moreno, Carlos Gerardo Fuentes Concha y la señora Carmen Luz Palacios Contreras, fijó con fecha 8 de mayo de 1998 los montos de las indemnizaciones provisionales en las cantidades de $3.117.620.- para el lote Nº78-A y $3.946.700.- para el lote Nº78-B, respectivamente. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
