@@ -1,0 +1,7 @@
+Por resolución Nº 303, de 21 de febrero de 2001, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL CONTINENTAL LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por resoluciones Nº 1.037 de 1993 y Nº 1.095 de 1999, ambas de esta Subsecretaría, en orden a incorporar a la planta ubicada en calle 7 de Enero Nº 60, comuna de Talcahuano, provincia de Concepción, VIII Región, en las líneas de elaboración que se indican, los siguientes recursos hidrobiológicos: Deshidratado, congelado y conserva: Marrajo o tiburón, Tiburón narigón, Caracol caramujo, Caracol gigante del Atlántico, Caracol locate, Caracol real, Caracol fino. Deshidratado y Conserva: Merluza común, Pejegallo, Tollo, Pepino de mar. Deshidratado: Congrio dorado, Congrio negro, Almeja o taca, Calamar, Caracol palo palo, Caracol piquilhue, Caracol rubio, Caracol tegula, Caracol trophon, Caracol trumulco, Culengue, Chitón o apretador, Cholga, Chorito, Lapa, Loco, Macha, Navaja de mar o Huepo, Navajuela, Tumbao y Piure.
+
+La materia prima será adquirida a pescadores artesanales e industriales debidamente autorizados.
+
+Los recursos Caracol caramujo, Caracol gigante del Atlántico y Caracol real deberán cumplir con las normas sobre importación y sanidad correspondientes.
+
+Valparaíso, 21 de febrero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
