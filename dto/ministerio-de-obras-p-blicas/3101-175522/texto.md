@@ -1,0 +1,5 @@
+Por decreto MOP Nº3.101, de 31 de julio de 2000 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº244-B para la obra: ''Concesión Internacional Ruta 5 Tramo Temuco -
+
+Río Bueno''. Km. 773.521,70 a Km. 783.850,00 Décima Región, que figura a nombre de Gutiérrez Palma Erotide, rol de avalúo 325-75, comuna de Lanco, superficie 1.971,5 m2. La comisión de peritos integrada por los señores, Nelson Fabián Igor Flores, Daniel Gonzalo Villar Haase y Christian Emil Rauch Yáñez, fijó con fecha 6 de julio de 1998 el valor provisional de la indemnización en la cantidad de $284.760.- y complementariamente con fecha 02 de junio de 1999 en $7.122.015.- La indemnización de pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
