@@ -1,0 +1,3 @@
+Por decreto MOP Nº 131, de 28 de febrero del 2003, se expropió el lote de terreno Nº 2-1, superficie 4.395 m², rol de avalúo en 2202-57, comuna de Chillán Viejo, para la obra Concesión Internacional Ruta 5 Tramo: Talca - Chillán - Sector Km. 406.800,00 al 407.340,00, Octava Región, y se acordó el valor de indemnización con su propietaria Edith Margot Romero Donoso, ascendente a la cantidad de $28.670.500.- para el lote Nº 2-1.-
+
+Fiscal del Ministerio de Obras Públicas.
