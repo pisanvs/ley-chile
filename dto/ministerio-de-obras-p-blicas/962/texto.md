@@ -1,0 +1,3 @@
+Por decreto MOP N°962, de 14 de noviembre de 1996, se expropio el lote de terreno N°13 superficie 900 m2 ,rol de avalúo en trámite,comuna de Linares, para la obra Camino Ruta 5 Longitudinal Sur, sector San Javier-Parral I, Tramo B, y se acordó el valor de la indemnización con su propietario Manuel Floridor Bravo Tapia, ascendente a la cantidad de $70.692.618
+
+Fiscal del Ministerio de Obras Públicas
