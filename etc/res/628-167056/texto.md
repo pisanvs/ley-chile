@@ -1,0 +1,5 @@
+Por resolución Nº 628, de 27 de marzo de 2000, de esta Subsecretaría, autorízase a RICARDO AUBEL MOHR, para iniciar actividades pesqueras de transformación e instalar y operar una planta ubicada en Pilauco Nº 617, Osorno, X Región, donde podrá procesar en las líneas de elaboración de Ahumado, Conserva, Fresco-Enfriado y Embutido los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón plateado, Trucha arcoiris o Cabeza de acero, Reineta, Cholga, Chorito, Macha y Jaiba.
+
+La materia prima deberá provenir de pescadores artesanales e industriales debidamente autorizados. Los recursos Salmón del Atlántico, Salmón plateado y Trucha arcoiris o cabeza de acero, deberán provenir de centros de cultivos autorizados.
+
+Valparaíso, 27 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
