@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1471 de 12 de Agosto de 1987, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Parcelas N°s. 1 a la 10, y sitios N°s. 1 al 4 del Proyecto de Parcelación "Cruz del Sur", de la Comuna de Bulnes VIII Región, formado por predio "Fundo Milahue Poniente". Los derechos de agua se extraen del canal Los Robles, Esteros Vega Verde y Agua Buena, provenientes del río Diguillín. Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
