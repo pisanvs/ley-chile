@@ -1,0 +1,11 @@
+DECLARACION JURADA ANUAL SOBRE TRANSFERENCIAS Y DISPOSICIONES DE FONDOS DESDE Y HACIA EL EXTERIOR REALIZADAS A TRAVES DE INSTITUCIONES BANCARIAS Y OTRAS ENTIDADES POR ENCARGO DE TERCEROS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 120 de 31 de diciembre de 2004, que crea Declaración Jurada Nº 1862, establece plazos, requerimientos y modalidades de presentación.
+
+1. Mediante resolución exenta Nº 120 de 31 de diciembre de 2004, se establece que las instituciones bancarias, agencias o representaciones de bancos extranjeros, casas de cambio, instituciones financieras y demás entidades con domicilio o residencia en Chile, que realicen, por encargo de terceros, operaciones correspondientes a: remesas, pagos o traslados de fondos al exterior, ingresos de fondos desde el exterior u operaciones que impliquen disposición de fondos en el exterior, estarán obligados a presentar anualmente el Formulario Nº 1862, denominado "Declaración jurada anual sobre transferencias y disposiciones de fondos desde y hacia el exterior realizadas a través de instituciones bancarias y otras entidades por encargo de terceros", conteniendo el detalle de dichas operaciones por montos iguales o superiores a US$10.000 o su equivalente. Para estos efectos, por disposición de fondos, se entenderá cualquier acto, convención o contrato en virtud del cual la parte con domicilio o residencia en Chile utiliza fondos de que dispone en el extranjero, a cualquier título, para realizar inversiones, pagos, transferencias o traspasos.
+
+2. Esta nueva declaración jurada electrónica debe ser enviada al Servicio de Impuestos Internos antes del 15 de marzo de 2006. El detalle de las instrucciones referentes a los campos y forma de envío de la información serán impartidas en el Suplemento Declaraciones Juradas.
+
+3. Las instrucciones de la resolución exenta señalada rigen a contar del año tributario 2006.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el boletín del SII en diciembre de 2004.
