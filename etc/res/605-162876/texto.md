@@ -1,0 +1,3 @@
+Por resolución Nº 605, de 23 de marzo de 2000, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 717 y Nº 718 ambas de 1996, de esta Subsecretaría, en cuanto autorizaron a PESQUERA SOCOMAR LTDA. para operar las naves ''Monte Brújula'' y ''Monte Alondra'', respectivamente, por haber suspendido actividades extractivas por más de 12 meses sucesivos, respecto del recurso Albacora, en el litoral de la I a la X Regiones.
+
+Valparaíso, 23 de marzo de 2000.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
