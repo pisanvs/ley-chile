@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 553 de fecha 30 de abril de 2002, se expropió el lote de terreno Nº 13 D, superficie 37,50 m², Rol Nº 1103-40, comuna de Pichidegua, para la obra ''Mejoramiento camino Pichidegua - Marchihue, sector Marchihue - La Esperanza, Km. 43.600 a Km. 69.237,91'', y se acordó el valor de indemnización con su propietario Camilo Enrique Salas Herrera, ascendente a la cantidad de $494.558.-
+
+Fiscal del Ministerio de Obras Públicas.
