@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.531, del 14 de diciembre de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Islote Queulat, XI Región, individualizada en el artículo 1º Nº4 del decreto exento Nº 336, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES PESCADORES ARTESANALES DE PUERTO PUYUHUAPI.
+
+Valparaíso, 14 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
