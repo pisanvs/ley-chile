@@ -34,7 +34,7 @@ Decláranse incobrables los documentos que garantizaron la suscripción de conve
 
 #### Artículo 5º
 
-Los impuestos o contribuciones establecidos en favor de las Municipalidades y las patentes o derechos municipales de cualquier naturaleza, que no se paguen dentro de los plazos legales correspondientes, se reajustarán en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el último día del segundo mes que precede al de su vencimiento y el último día del segundo mes que precede al de su pago.
+Los impuestos o contribuciones establecidos en favor de las Municipalidades y las patentes o derechos municipales de cualquier naturaleza, que no se paguen dentro de los plazos legales correspondientes, se reajustarán en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el segundo mes que precede al de su vencimiento y el segundo mes que precede al de su pago.
 
 Los impuestos, patentes o derechos que se cancelen durante el mes calendario en que se incurrió en mora no serán objeto de reajuste.
 
