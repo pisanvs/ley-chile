@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO EXENTO N° 152, DE 1984
+
+Por decreto supremo exento de Educación N° 152 de 14 de Septiembre de 1984 se han aprobado los planes especiales de estudio para la Educación General Básica y para la Educación Media Humanístico Científica, al Colegio Suizo de Santiago, que será aplicado a contar de 1985 desde 1.er Año de Educación General Básica hasta 3.er Año de Educación Media Humanístico Científica, inclusive y a contar de 1986 hasta 4.to Año de Educación Media Humanístico Científica. En 3° y 4° año medio el establecimiento ofrece tres planes opcionales: -Plan Humanístico; -Plan Científico; -Plan No Diferenciado. Para los efectos de la evaluación y promoción escolar se aplican las normas vigentes sobre la materia, con las adecuaciones que el plan aprobado requiera.
+
+Santiago, 15 de Marzo de 1985.- Marta Stefanowsky Bandyra, Subsecretario de Educación Pública subrogante.
