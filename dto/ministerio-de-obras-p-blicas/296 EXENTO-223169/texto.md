@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 296, de 11 de febrero de 2004, se rectificó el decreto MOP exento Nº 1.203, de 15 de octubre de 2003, en lo que respecta al nombre del expropiado de los lotes de terreno Nº s. 67 y 68, el que debe decir, Soldado Millaqueo Bernardo y no como se indicó. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
