@@ -1,0 +1,3 @@
+Por Decreto M.O.P. N°s 695, 731 y 732, de fechas 22 y 30 de noviembre de 1995, se expropiaron los lotes de terreno N°s. 109, 50 y 120-D, superficies 102 m2., 192 m2. y 214 m2., roles de avalúos 668-3, 209-33 y 675-21, comuna de Rancagua, para la obra Mejoramiento Ruta 5 Sur, sector Pasada por Rancagua y se acordó precio de indemnización con sus propietarios Patricio Leiva Durán, Suc. Glasfira Rosa Flores Miranda y Florinda Galarce Lizana, ascendente a las cantidades de $4.219.425, $17.223.936 y $11.153.100, respectivamente.
+
+Fiscal del Ministerio de Obras Públicas.
