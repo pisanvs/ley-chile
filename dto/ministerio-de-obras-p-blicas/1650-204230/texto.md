@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.650, de 30 de septiembre de 2002, se expropió el lote de terreno Nº3-A1, superficie 2.395,00 m2., rol de avalúo 1102-12, comuna de Cartagena, para la obra Red Vial Litoral Central. Sector 1: Nuevo Cartagena-Las Cruces Km. -0.160,00 al 0.500,00, Quinta Región y se acordó el valor de indemnización con su propietario Soc. Rosendo Fernández e Hijas Limitada, ascendente a la cantidad de $15.623.075.- para el lote Nº3-A1.-
+
+Fiscal del Ministerio de Obras Públicas.
