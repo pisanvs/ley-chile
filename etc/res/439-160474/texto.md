@@ -1,0 +1,3 @@
+Por resolución Nº439, de 1 de marzo de 2000, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº948 de 1990 y Nº485 de 1995, de esta Subsecretaría, que autorizaron a PESQUERA AMERICAN FISH LIMITADA, para operar una planta ubicada en Parque Escuadrón, Km. 20, lotes C-17 y C-18, Coronel, VIII Región, en virtud de la renuncia formulada por el titular.
+
+Valparaíso, 1 de marzo de 2000.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
