@@ -1,0 +1,3 @@
+Por Resolución Nº 1.583, de 18 de noviembre de 1997, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, declárase la caducidad de la Resolución Nº 1.691 de 1989 de esta Subsecretaría, que autorizó a don LUIS CARRERE VERA, para operar la nave "Reina IV", matrícula 1742 de Valparaíso, en virtud de lo señalado en el artículo 143 letra b), del D.S. Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de noviembre de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
