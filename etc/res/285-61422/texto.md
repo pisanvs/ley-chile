@@ -1,0 +1,3 @@
+Por resolución Nº 285, de 24 de febrero de 1997 de esta Subsecretaría de Pesca, del Ministerio de Economía, Fomento y Reconstrucción; modifícase el numeral 2º de la Resolución Nº 1.352 de 1996, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Evaluación Indirecta del Stock de Centolla en la XII Región", en el sentido de señalar que el Instituto de Fomento Pesquero pueda capturar centollas durante el período comprendido entre el 25 de enero y el 25 de febrero de 1997, en el sector de Seno Año Nuevo, XII Región.
+
+Valparaíso, 24 de febrero de 1997.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
