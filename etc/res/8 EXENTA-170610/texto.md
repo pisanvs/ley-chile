@@ -1,0 +1,5 @@
+DETERMINA DERECHOS DE APROVECHAMIENTO DE AGUAS QUE INDICA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 8 de 07 de Enero de 1988, conforme Art. 5º Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Sector. Expropiado Predio "Resto del Fundo o Hacienda Quinahue o El Río El Boldal de Quinahue" de la comuna de Santa Cruz, VI Región; y Derechos Aprovechamiento Aguas que corresponden a parcelas Nºs. 1 a la 30, sitios Nºs. 1 al 3, 4-A, 4-B, 5-A, 5-B, 6 al 10, 11-A, 11-B, 12, 13, 14-A, 14-B, 14-C, 15 al 17, 18-A, 18-B, 19, 20, 21-A, 21-B, 23, 43 al 66, 68, Reserva CORA Nºs. 1, 2-A, 2-B; 3, 4 del Proyecto de Parcelación "Quinahue" formado entre otros por el predio señalado. Los derechos de agua se extraen del Canal San Luis o Quinahuino, Estero Quirivilo, Derrames del Sector Quinahue y Pozo 3440-7100-A-2. Publicación hecha conforme Art. Ley Nº 18.377.-
+
+Director Ejecutivo.
