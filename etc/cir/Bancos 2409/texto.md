@@ -16178,6 +16178,8 @@ b) Fondos depositados a la vista en instituciones financieras regidas por la Ley
 
 c) Instrumentos financieros emitidos o garantizados por el Banco Central de Chile.
 
+En esta categoría se incluirán también los saldos registrados en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, correspondientes a operaciones con el Banco Central de Chile.
+
 2.2.- Categoría 2.
 
 a) Instrumentos financieros emitidos o garantizados por el Fisco de Chile. Se entienden comprendidos dentro de ellos los impuestos netos por cobrar y que, para efectos de su cómputo, comprenderá todos los saldos que deben incluirse en las cuentas de la partida 2115 que se indican en los N°s 1 y 2 del título VI del Capítulo 7-5 de esta Recopilación. El mismo criterio debe seguirse para considerar los impuestos diferidos de las filiales.
@@ -16186,7 +16188,7 @@ b) Instrumentos financieros en moneda de su país de origen, emitidos o garantiz
 
 2.3.- Categoría 3.
 
-a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país, incluidos los saldos registrados en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115.
+a) Créditos contra otras instituciones financieras regidas por la Ley General de Bancos. Incluye préstamos interbancarios, operaciones con pacto de retroventa, inversiones en letras de crédito o en bonos, depósitos a plazo y cualquier otro crédito contra bancos o sociedades financieras constituidos en Chile o sucursales de bancos extranjeros que operen en el país, incluidos los saldos registrados en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, y el equivalente de crédito de instrumentos derivados, determinado de la forma prevista en el N° 3 de este título.
 
 b) Depósitos a plazo constituidos en bancos del exterior, con vencimiento no superior a 180 días a contar de la fecha del cómputo, clasificados en una categoría de riesgo no inferior a A-, por una empresa clasificadora internacional que figure en la nómina que se incluye en el Capítulo 1-12 de esta Recopilación.
 
@@ -17194,7 +17196,9 @@ LIMITES DE CREDITO A TRABAJADORES DE LA INSTITUCION FINANCIERA.
 
 De acuerdo con lo dispuesto en el N° 4 del artículo 84 de la Ley General de Bancos, el monto total de los créditos que una institución financiera puede otorgar a sus trabajadores, no puede exceder de un 1,5% del patrimonio efectivo de la empresa, ni puede ser superior, individualmente, al 10% de dicho límite.
 
-No quedan sujetos a los límites señalados, los préstamos con garantía hipotecaria que, en una sola oportunidad respecto de una misma persona, se otorguen a los trabajadores con el objeto de que adquieran una casa habitación para su uso personal.
+Para el cumplimiento de este límite, deben computarse también los contratos de leasing celebrados con los trabajadores, en concordancia con lo dispuesto en el N° 9 del título II del Capítulo 12-3 de esta Recopilación.
+
+No quedan sujetos a los límites señalados, los préstamos con garantía hipotecaria que, en una sola oportunidad respecto de una misma persona, se otorguen a los trabajadores con el objeto de que adquieran una casa habitación para su uso personal. Quedan incluidos en esta exención, las operaciones de leasing para vivienda que tengan ese fin.
 
 Todo lo anterior es sin perjuicio del cumplimiento de los límites individuales de crédito de que trata el N° 1 del referido artículo 84 y de la prohibición de otorgar crédito a los empleados que se desempeñen como apoderados generales de la institución establecida en el inciso tercero del N° 4 antes mencionado, materias a las que se refieren los Capítulos 12-3 y 12-12 de esta Recopilación de Normas, respectivamente.
 
