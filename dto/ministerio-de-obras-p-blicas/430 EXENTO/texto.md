@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº430, de 17 de abril de 2001, y en base a la facultad otorgada por el artículo 105 del DFL Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la ejecución de la obra "Camino Pulebu-Butamalal, Sector Puente Cayucupil Km. 0,0000 a Km. 0,24600", que figura a nombre de Juan Bta. Poza Rodríguez, Rol de Avalúo 219-36, comuna de Cañete, VIII Región, superficie 67 M2. La comisión de peritos fijó con fecha 2 de mayo de 2000, el valor provisional de la indemnización en la cantidad de $67.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
