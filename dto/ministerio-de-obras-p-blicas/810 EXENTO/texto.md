@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº810 de fecha 31 de mayo del 2002, se expropió el lote de terreno Nº92-B, superficie 13 m2, Rol Nº283-33, comuna de San Fernando, VI Región para la obra: ''Camino San Fernando Roma, Rol I-301; I-255; I-151, Km.0,000 a Km.10,954264'' y se acordó el valor de indemnización con su propietario Francisco Marino Sanhueza Pino, ascendente a la cantidad de $772.530.-
+
+Fiscal del Ministerio de Obras Públicas.
