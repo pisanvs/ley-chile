@@ -1,0 +1,5 @@
+AUTORIZA A SOCIEDAD PISCICOLA RIO PESCADO LIMITADA PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por resolución No. 675, de 05 de Julio de 1988, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Sociedad Piscicola Río Pescado, domiciliada en la localidad de Río Pescado, Comuna y Departamento de Puerto Varas, para ampliar actividades pesqueras de cultivo autorizadas por resolución No. 59, de 1987, de esta Subsecretaría, en orden a capturar 200 ejemplares adultos del recurso hidrobiológico Salmón plateado, desde Puerto Domeyko, Lago Llanquihue, X Región, para ser incubados en el establecimiento autorizado por la resolución citada. La captura deberá efectuarse con red de cerco o enmalle. La extracción se realizará desde la fecha de publicación del extracto de la presente resolución y hasta el 31 de julio de 1988. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales o reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 05 de Julio de 1988.- Roberto Cabezas Bello, Subsecretario de Pesca.
