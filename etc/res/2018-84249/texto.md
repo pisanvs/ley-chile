@@ -1,0 +1,5 @@
+AUTORIZA A ELABORADORA Y COMERCIALIZADORA DE ALIMENTOS FINAMAR S.A. PARA AMPLIAR ACTIVIDADES PESQUERAS
+
+Por Resolución Nº2.018 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Elaboradora y Comercializadora de Alimentos Finamar S.A., R.U.T. Nº98.532.690-1, domiciliada en la ciudad de Santiago, para ampliar actividades pesqueras que tiene autorizadas por Resolución Nº1.124, de 1989, de esta Subsecretaría, en orden a incorporar en la planta industrial autorizada por la Resolución antes citada, en la línea de elaboración de ahumado, los siguientes recursos hidrobiológicos: Salmón del Atlántico, Salmón cereza, Salmón keta, Salmón plateado, Salmón rey y Salmón rosado. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Diciembre de 1989.- Roberto Cabezas Bello, Subsecretario de Pesca.
