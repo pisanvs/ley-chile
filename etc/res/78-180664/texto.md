@@ -1,0 +1,13 @@
+Por resolución Nº 78, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado ''Distribución espacio temporal de las capturas de Jurel, I y II Región'', aprobado por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en determinar la distribución espacio temporal de las capturas de Jurel y sus principales aspectos biológico-pesqueros en la Zona Norte (I-II Región).
+
+La pesca de investigación que se autoriza se efectuará en el área marítima comprendida entre la I y II Regiones, por fuera del área de reserva artesanal, a partir de la fecha de la presente resolución y hasta el 28 de febrero del 2001, subdividida en dos etapas: a) Primera etapa: desde la fecha de la presente resolución y hasta el 8 de febrero del 2001; b) Segunda etapa: desde el 12 y hasta el 28 de febrero del 2001.
+
+Los armadores seleccionados para participar en la pesca de investigación podrán operar las naves que se individualizan y que cuentan con autorización vigente para operar en la unidad de pesquería del recurso Jurel de la I y II regiones, declarada en régimen de plena explotación mediante D.S. Nº 354, de 1993, del Ministerio de Economía, Fomento y Reconstrucción, pudiendo extraer un límite máximo de captura de 30.000 toneladas del recurso jurel, fraccionadas en 15.000 toneladas para cada una de las etapas de la presente pesca de investigación: Angamos 2, Angamos 4, Angamos 9, Eperva 62, Eperva 65, Don Ernesto Ayala Máfil, Relámpago, Parina, Dorado, Marlin, Eperva 66, Barracuda, Blanquillo, Intrépido, Aventurero, Audaz, Huracán, Tornado, Juan Manuel, Reñaca, Costa Grande, Esturión, Oficina Vigo, Loa 1, América II, Tacoma, Ike I, Ike II, Tritón II, Coray 2.
+
+Asimismo, podrán participar las embarcaciones artesanales ''Santa Carolina II'' e ''Isaura'', las cuales se encuentran debidamente inscritas en el Registro Nacional Pesquero Artesanal de la I Región, sección pesquería del recurso Jurel.
+
+El Instituto designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102 del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, al Director Ejecutivo Suplente del Instituto de Fomento Pesquero don Sergio Avilés Goycoolea.
+
+Valparaíso, 23 de enero de 2001.- Daniel Albarrán Ruiz-Clavijo, Subsecretario de Pesca.
