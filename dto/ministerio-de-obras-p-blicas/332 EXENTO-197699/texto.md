@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº332 de fecha 28 de marzo de 2002, se expropió el lote de terreno Nº48, superficie 1.130 m2, rol de Avalúo Nº65-457, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Lonquimay Acceso Pedregoso, Km. 119,30000 a Km. 141,00000, Correspondiente al Tramo II, Km. 130,78300 al Km. 141,00000 Provincia de Malleco, Comuna de Lonquimay", IX Región y se acordó el valor de la indemnización con su propietario Raúl Patricio Viñuela Aller, ascendente a la cantidad de $348.429.
+
+Fiscal del Ministerio de Obras Públicas.
