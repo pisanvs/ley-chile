@@ -1,0 +1,3 @@
+Por decreto MOP Nº400, de 26 de febrero de 1999, se expropió el lote de terreno Nº71-A, superficie 1.804 m2. rol de avalúo 2230-52, comuna de Osorno, para la obra Concesión Internacional Ruta 5 Tramo Río Bueno - Puerto Montt, sector San Pablo - Osorno, Décima Región y se acordó el valor de indemnización con su propietario Julio Bielefeldt Schilling, ascendente a la cantidad de $1.291.274.
+
+- Fiscal del Ministerio de Obras Públicas.
