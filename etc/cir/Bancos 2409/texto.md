@@ -1004,7 +1004,7 @@ b) Medidas adoptadas para informar a los usuarios sobre el traslado;
 
 c) Dirección del local al cual se trasladará la oficina;
 
-d) Antecedentes relativos al cumplimiento del Decreto Supremo Exento N° 488, de 1991, del Ministerio del Interior; y,
+d) Antecedentes relativos al cumplimiento del Decreto Exento N° 1122, de 19 de octubre de 1998, de los Ministerios del Interior y de Defensa Nacional; y,
 
 e) Fecha en que se comenzará a atender público en el nuevo local, dejándose en consecuencia de atender en el antiguo.
 
@@ -1034,7 +1034,7 @@ C) Lugar en que se ubicará (dirección, ciudad, comuna)
 
 D) Fecha de apertura
 
-E) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Supremo Exento N° 488, del 3 de julio de 1991, del Ministerio del Interior.
+E) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Exento N° 1122, de 19 de octubre de 1998, de los Ministerios del Interior y de Defensa Nacional.
 
 F) Si se trata de una sucursal
 
@@ -1094,7 +1094,7 @@ b.- la oficina de la cual dependerá (dirección, ciudad, comuna)
 
 A) Fecha de apertura
 
-B) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Supremo Exento N° 488, del 3 de julio de 1991, del Ministerio del Interior.
+B) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Exento N° 1122, de 19 de octubre de 1998, de los Ministerios del Interior y de Defensa Nacional.
 
 CAPITULO 1-7 (Bancos y Financieras)
 
