@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.027, de fecha 31 de agosto de 2000, se expropiaron los lotes de terreno Nºs 43 y 44, superficie 856 y 2.756,9 M2, respectivamente, rol de avalúo 518-139, comuna de Carahue, para la obra ''Camino Costero Tirúa - Carahue, Tramo Bajo Yupehue - Cruce Puyanhue, Km. 23.348,46 al Km. 45.286,79'' correspondiente al Subtramo III Km. 30.300 al Km. 34.804 y se acordó el valor de indemnización con su propietario Juan Manuel Carril Llancapán, ascendente a la cantidad de $1.254.266.
+
+Fiscal del Ministerio de Obras Públicas.
