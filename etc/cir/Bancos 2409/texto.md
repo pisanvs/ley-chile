@@ -3468,11 +3468,11 @@ Cuentas: -"Captaciones a más de un año exentas de encaje".
 
 -"Captaciones a más de un año con retiros dentro del año".
 
--"Certificados de depósitos a más de un año".
+-"Depósitos y captaciones a más de un año afectos a encaje".
 
 En concordancia con las normas de encaje del Banco Central de Chile, la cuenta "Captaciones a más de un año con retiros dentro del año" será utilizada por los bancos y sociedades financieras para registrar aquellas operaciones en las cuales se pacte algún giro dentro del año, aunque se trate sólo del retiro de intereses.
 
-Por otra parte, se registrarán en la cuenta "Certificados de depósitos a más de un año" aquellas captaciones efectuadas por los bancos que se documenten con certificados de depósito y que, por lo tanto, se encuentran afectas a encaje como "depósitos a plazo".
+Por otra parte, en la cuenta "Depósitos y captaciones a más de un año afectos a encaje" se reflejarán, en la moneda que corresponda, los saldos de las operaciones en moneda extranjera en general, y de aquellas operaciones en moneda chilena que se documenten con certificados de depósito.
 
 c) Cuentas especiales.
 
@@ -4462,13 +4462,11 @@ Los depósitos, captaciones y otras obligaciones en monedas extranjeras estarán
 
 1.1. Depósitos, captaciones y obligaciones a la vista
 
-Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 10%.
+Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 20%.
 
 1.2. Depósitos, captaciones y obligaciones a plazo.
 
-Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza desde 30 días y hasta un año y los depósitos a más de un año plazo estarán afectos a una tasa de encaje de 4%.
-
-Las demás captaciones a más de un año no estarán afectas a encaje.
+Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 20%.
 
 2. Cuentas de depósitos, captaciones y obligaciones en monedas extranjeras afectas a encaje.
 
@@ -4484,11 +4482,19 @@ N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
 
 N° 3030 "Otros saldos acreedores a plazo", y,
 
-N° 3055 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" y la subcuenta "Captaciones Acuerdo 1396" de la cuenta "Depósitos y captaciones del exterior Acuerdo 1396".
+N° 3055 "Depósitos y captaciones".
 
-### 3. Importes que se pueden deducir de las obligaciones afectas a encaje
+### 3. Impartes que se pueden deducir de las obligaciones afectas a encaje
 
-Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", de la partida 1015 del MB1, en la respectiva moneda extranjera. La permanencia de los importes que sean registrados la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los registrados en la cuenta "Canje de otras plazas" será de dos días hábiles bancarios.
+3.1.- Canje.
+
+Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera. La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
+
+3.2.- Descuento de instrumentos a que se refiere la letra C) del Capítulo XXV del Titulo I del Compendio de Normas de Cambios Internacionales del Banco Central de Chile. Los bancos podrán deducir de sus obligaciones afectas a encaje los saldos provenientes del descuento de los instrumentos a que se refiere la letra C) del Capítulo XXV del Título I del Compendio de Normas de Cambios Internacionales, registrados en la cuenta "Pagarés descontados terceros países ALADI" de las partidas 1135 ó 1230, hasta un máximo equivalente al 20% de la suma de los depósitos, captaciones y obligaciones a plazo afectos a encaje.
+
+3.3.- Inversiones financieras en el exterior que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras del Banco Central de Chile.
+
+Los bancos podrán también deducir de sus obligaciones afectas a encaje los saldos que mantengan por inversiones financieras en el exterior a que se refiere el Capítulo IV.D.2.1 del Compendio de Normas Financieras, demostradas en la partida 1730, hasta un máximo equivalente al 25% de la suma de los depósitos, captaciones y obligaciones afectas a encaje.
 
 ### 4. Encaje exigido y mantenido
 
@@ -4502,9 +4508,9 @@ La instrucción precedente implica que las disponibilidades que los bancos tenga
 
 El encaje, para cada una de las monedas extranjeras, deberá estar constituido por billetes y monedas del respectivo país, que estén disponibles en caja en el respectivo banco, en tránsito entre sus oficinas o en tránsito al Banco Central de Chile. Se excluyen, para efectos de este cómputo, los billetes y monedas en custodia en empresas transportadoras de valores o en otras instituciones financieras.
 
-Asimismo, servirán para constituir el encaje los demás depósitos a la vista en monedas extranjeras o expresados en dichas monedas, mantenidos en el Banco Central de Chile, incluido el saldo de la cuenta "Depósitos "overnight" en el Banco Central de Chile". Con todo, para estos efectos deberán exceptuarse los saldos registrados en las cuentas "Cuentas Acuerdo N° 1657-11-850627" y "Cuenta especial encaje Acuerdo N° 143-01-910705".
+Asimismo, servirán para constituir el encaje los depósitos mantenidos en cuenta corriente en el Banco Central de Chile, en las mismas monedas.
 
-De conformidad con lo señalado en el N° 4 del titulo I de este Capítulo, el encaje exigido en monedas extranjeras también puede enterarse con excedentes de encaje mantenido en moneda chilena.
+De conformidad con lo señalado en el N° 5 del titulo I de este Capítulo, el encaje exigido en monedas extranjeras también puede enterarse con excedentes de encaje mantenido en moneda chilena.
 
 Los fondos en moneda extranjera así como aquellos en moneda chilena, disponibles en caja o depositados a la vista en el Banco Central de Chile, que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación, no podrán, a su vez, ser empleados para constituir el encaje mantenido.
 
@@ -4565,6 +4571,26 @@ El encaje por las obligaciones antes mencionadas deberá estar constituido por l
 V.- Información a esta Superintendencia.
 
 Las instituciones financieras deberán enviar a esta Superintendencia la información relativa a encaje, de conformidad con las instrucciones del Manual del Sistema de Información.
+
+VI.- DISPOSICION TRANSITORIA.
+
+Las instituciones financieras dispondrán de un plazo de seis períodos mensuales de encaje consecutivos, a partir de aquel que se inicia el 9 de febrero de 1992, para enterar el encaje que debe ser mantenido de conformidad con lo dispuesto en el título III de estas normas. Para ese efecto, los porcentajes de encaje exigido que deberán mantenerse en cada período mensual serán los siguientes:
+
+Período mensual Encaje exigido
+
+vista plazo
+
+09 02.92 al 08 03.92 11,67 6,67
+
+09.03 92 al 08 04 92 13,34 9,33
+
+09.04 92 al 08 05 92 15,01 12,00
+
+09 05 92 al 08 06 92 16,68 14,67
+
+09 06.92 al 08 07 92 18,35 17,33
+
+09 07 92 al 08 08.92 20,00 20,00"
 
 CAPITULO 4-2 (Bancos y Financieras)
 
@@ -4744,7 +4770,7 @@ se demostrarán en las partidas 9165 "Recursos aplicados en reserva técnica" y 
 
 Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar la reserva técnica, serán registrados en una cuenta que abrirán para tal efecto con el nombre de "Depósitos de reserva técnica en el Banco Central de Chile", cuyo saldo será demostrado en la partida 1010 del formulario MB1.
 
-Los demás depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se registrarán además, en las cuentas "Depósitos Acuerdo 1657 aplicados a reserva técnica" u "Otros depósitos en el Banco Central aplicados en reserva técnica", según corresponda, ambas de la partida 9165 del MB1, y en la cuenta "Responsabilidad por recursos aplicados en reserva técnica", de la partida 9900 del MB1. Cuando los recursos de que se trata dejen de ser utilizados para constituir reserva técnica, se procederá a revertir esas cuentas de orden.
+Los demás depósitos en el Banco Central de Chile que se apliquen a enterar la reserva técnica en un determinado día, se registrarán además, en las cuentas "Depósitos Acuerdo 1657 aplicados a reserva técnica", "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica" u "Otros depósitos en el Banco Central aplicados en reserva técnica", según corresponda, de la partida 9165, y en la cuenta "Responsabilidad por recursos aplicados en reserva técnica", de la partida 9900. Cuando los recursos de que se trata dejen de ser utilizados para constituir reserva técnica, se procederá a revertir esas cuentas de orden.
 
 3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
