@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCION REGIMEN CAMBIO SUJETO DE IVA A MADERAS POLCURA LTDA.
+
+La VIII Dirección Regional del Servicio de Impuestos Internos, por resolución DRE08/Nº Ex-0203, de fecha 5 de marzo de 1998 excepciona, a contar del 1º del mes siguiente al de esta publicación a Maderas Polcura Ltda., Rut. Nº79.742.440-4 del régimen de Cambio de Sujeto de Iva, establecido en la resolución NºEx-5362, de 29-10-97 de la Dirección Nacional, publicada en el Diario Oficial del día 04-11-97.
