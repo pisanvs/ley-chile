@@ -1,0 +1,3 @@
+Por decreto MOP Nº2.782, de 30 de junio de 2000 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº85O, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra Mejoramiento Ruta 9, Punta Arenas - Fuerte Bulnes, sector Leñadura - Río Amarillo, que figura a nombre de Enrique Poduje Ruiz, Rol de avalúo 5074-17, superficie 4.874 m2, comuna de Punta Arenas. La Comisión de Peritos, fijó con fecha 24 enero de 2000, la indemnización provisional en la cantidad de $1.462.200, la que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
