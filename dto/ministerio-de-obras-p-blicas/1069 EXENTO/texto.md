@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.069, de fecha 31 de julio de 2001, se expropió el lote de terreno Nº72, superficie 413 m², rol de avalúo 112-58, comuna de Corral, para la obra "Camino Longitudinal Costero Sur, Sector El Morro - Chaihuin II (2º Parte) Km. 15,755 al 27,017" y se acordó el valor de indemnización con su propietario Rolando Emanuel Gebauer Schmidt, ascendente a la cantidad de $1.042.800.-
+
+Fiscal del Ministerio de Obras Públicas.
