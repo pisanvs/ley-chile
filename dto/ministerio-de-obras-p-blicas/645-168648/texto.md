@@ -1,0 +1,3 @@
+Por decreto MOP Nº645 de 29 de febrero de 2000, se expropiaron los lotes de terreno Nºs. 58 y 59, superficies 1.052,31 y 1.490,62 m², rol de avalúo 506-180, comuna Carahue, para la obra Camino Costero Tirúa Carahue, Tramo Tranapuente Carahue y se acordó precio de indemnización con su propietario Juan Levil Riquelme, ascendente a la cantidad de $1.249.197 los lotes Nºs. 58 y 59.
+
+Fiscal del Ministerio de Obras Públicas.
