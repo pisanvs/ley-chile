@@ -3450,7 +3450,7 @@ Quedan comprendidos dentro del concepto de depósitos a plazo de que trata este 
 
 En todo caso, se exceptúan de las instrucciones contenidas en el presente Capítulo las captaciones de fondos del público que no corresponden al concepto de depósitos a plazo antes señalado o que se rigen por normas especiales, tales como las cuentas de ahorro a plazo, las captaciones efectuadas mediante ventas con pacto de retrocompra de documentos de la cartera de inversiones, o mediante la emisión de instrumentos de oferta pública inscritos en el Registro de Valores de esta Superintendencia.
 
-Debe tenerse presente, además, que las instrucciones del presente Capítulo se refieren sólo a materias específicas, propias del tipo de operaciones de captación de fondos de que se trata. Por consiguiente, tanto los plazos como las demás condiciones que se pacten o se ofrezcan para los depósitos a plazo, deben ajustarse a las disposiciones generales sobre captaciones e intermediación contenidas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y a las demás normas que afectan a estas operaciones, tales como las disposiciones sobre intereses y reajustes, encaje, reserva técnica, límites de endeudamiento, relación de calce de operaciones activas y pasivas, emisión de certificados sobre intereses reales, caducidad de las acreencias, etc.
+Debe tenerse presente, además, que las instrucciones del presente Capítulo se refieren sólo a materias específicas, propias del tipo de operaciones de captación de fondos de que se trata. Por consiguiente, tanto los plazos como las demás condiciones que se pacten o se ofrezcan para los depósitos a plazo, deben ajustarse a las disposiciones generales sobre captaciones e intermediación contenidas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y a las demás normas que afectan a estas operaciones, tales como las disposiciones sobre intereses y reajustes, encaje, reserva técnica, límites de endeudamiento, relación de calce de operaciones activas y pasivas, caducidad de las acreencias, etc.
 
 ### 2. Tipos de depósitos a plazo
 
@@ -3470,8 +3470,6 @@ Los titulares de depósitos a plazo no podrán retirarlos antes del vencimiento 
 
 De cualquier modo, será enteramente facultativo para la institución financiera acceder al retiro anticipado o denegarlo.
 
-Las normas contenidas en este número no se aplicarán a los depósitos nominativos a un año plazo o más a que se refiere el N° 5 de este título.
-
 ### 4. Renovaciones automáticas
 
 La renovación automática de los depósitos que contemplen esa modalidad, sólo podrá hacerse efectiva una vez que hayan transcurrido tres días hábiles bancarios contados desde su vencimiento. Sin embargo, para los efectos de computar los nuevos plazos se considerará como fecha de renovación, la misma del vencimiento. Dicho en otras palabras, el titular de un depósito o de un documento pactado con renovación automática, dispondrá para rescatarlo de tres días hábiles bancarios, incluido el día del vencimiento y si no lo hiciere, al cuarto día hábil bancario se cursará la renovación automática en los términos señalados anteriormente, esto es, desde la fecha de su vencimiento y por idéntico plazo al primitivamente pactado.
@@ -3482,15 +3480,7 @@ Las renovaciones automáticas se tratarán como nuevas operaciones originadas en
 
 Cada vez que las instituciones financieras efectúen la renovación automática de un depósito, deberán enviar un aviso al depositante informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
 
-5. Depósitos nominativos a un año plazo o más para acogerse a beneficio tributario.
-
-Las personas naturales gravadas con los impuestos establecidos en los artículos 43 N° 1 ó 52 de la Ley sobre Impuesto a la Renta, tienen la facultad de rebajar de sus rentas imponibles, en la forma que determina el artículo 57 bis de dicha Ley, una parte de las sumas que mantengan invertidas en depósitos a plazo documentados en pagarés nominativos, a un año o más, en las instituciones financieras.
-
-Entre las condiciones que fija la Ley para que tales depósitos sirvan a esos fines, aparte de que deben documentarse mediante pagarés extendidos en forma nominativa, está la inclusión de una cláusula en el respectivo documento, en la que se deja expresa constancia de que, en el caso de retiro anticipado, se perderán los intereses, independientemente de que el documento contenga cláusula de reajustabilidad.
-
-En consecuencia, las instituciones financieras pueden pactar con sus depositantes que sean personas naturales y que se lo soliciten en forma explícita y por escrito, la recepción de depósitos a un año plazo o más, con pago de intereses sólo al vencimiento y pérdida de éstos, en caso de retiro anticipado, parcial o total del depósito, de lo que se debe dejar constancia en el pagaré que se extienda, en el mismo momento de su emisión.
-
-6. Retención de depósitos a plazo por orden judicial o por fallecimiento del titular.
+5. Retención de depósitos a plazo por orden judicial o por fallecimiento del titular.
 
 Las instituciones financieras deben tener presente que los depósitos a plazo fijo sobre los cuales se haya decretado una retención judicial, pueden ser renovados a su vencimiento por el titular, ya que la retención judicial no les priva del dominio sobre el bien sino sólo limita su facultad de disposición, al no poder cobrarlo para sí, ni desprenderse de él en favor de otra persona.
 
@@ -3498,9 +3488,9 @@ Del mismo modo, los depósitos que pasan a una sucesión por fallecimiento del t
 
 En todo caso, tratándose de depósitos a plazo renovables la renovación periódica operará en forma automática de acuerdo con la respectiva cláusula del contrato.
 
-### 7. Instrucciones contables
+### 6. Instrucciones contables
 
-7.1. Contabilización de los depósitos a plazo.
+6.1. Contabilización de los depósitos a plazo.
 
 Los depósitos a plazo se registrarán en las siguientes cuentas o subcuentas de las partidas que se señalan en este numeral.
 
@@ -3544,9 +3534,9 @@ c) Cuentas especiales.
 
 Se exceptúan de las instrucciones precedentes de este numeral los depósitos a plazo constituidos con divisas correspondientes a retornos de exportación, los depósitos provenientes del exterior de que trata el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile y los depósitos a que se refiere el N° 3 de la letra A del número I del Capítulo XIV Título I del Compendio de Normas de Cambios Internacionales, los que deben registrarse en las cuentas que se señalan en los Capítulos 14-6, 13-13 y 13-33, respectivamente, de esta Recopilación Actualizada de Normas.
 
-7.2. Intereses y reajustes.
+6.2. Intereses y reajustes.
 
-Los intereses y reajustes que se paguen por las operaciones registradas en las cuentas señaladas en el numeral 7.1 precedente, se contabilizarán de acuerdo con las normas generales sobre la materia, contenidas en el Capítulo 7-1 de esta Recopilación.
+Los intereses y reajustes que se paguen por las operaciones registradas en las cuentas señaladas en el numeral 6.1 precedente, se contabilizarán de acuerdo con las normas generales sobre la materia, contenidas en el Capítulo 7-1 de esta Recopilación.
 
 Las respectivas cuentas de resultado por los intereses pagados o devengados, se incluirán en las siguientes partidas, según su plazo y reajustabilidad:
 
@@ -3562,9 +3552,9 @@ e) Partida 5130 "Depósitos y captaciones a plazo a más de un año no reajustab
 
 Por su parte, las cuentas de resultado por los reajustes se incluirán en las partidas 5305 ó 5310, según se trate de operaciones reajustables pactadas hasta un año (registradas en las partidas 3020 y 3025) o a más de un año (registradas en la partida 3065), respectivamente.
 
-7.3. Depósitos y captaciones vencidas.
+6.3. Depósitos y captaciones vencidas.
 
-Los depósitos y captaciones a plazo fijo que no sean cobrados en la fecha de vencimiento, devengarán intereses y reajustes sólo hasta dicha fecha y serán traspasados, el mismo día de su vencimiento, a la cuenta "Depósitos y captaciones vencidos" de la partida 3010, incluyendo sus intereses y, cuando corresponda, los reajustes devengados. Esta cuenta se dividirá en las subcuentas "Del público" y "De instituciones financieras", con un criterio similar al indicado en la letra a) del numeral 7.1. anterior.
+Los depósitos y captaciones a plazo fijo que no sean cobrados en la fecha de vencimiento, devengarán intereses y reajustes sólo hasta dicha fecha y serán traspasados, el mismo día de su vencimiento, a la cuenta "Depósitos y captaciones vencidos" de la partida 3010, incluyendo sus intereses y, cuando corresponda, los reajustes devengados. Esta cuenta se dividirá en las subcuentas "Del público" y "De instituciones financieras", con un criterio similar al indicado en la letra a) del numeral 6.1. anterior.
 
 Cuando se trate de depósitos a plazo renovables que hayan cumplido el período pactado para su renovación automática, las instituciones financieras los mantendrán registrados en su cuenta de origen, salvo que sean cobrados por el titular, incorporando en cada renovación los intereses capitalizados en el período.
 
@@ -4183,72 +4173,6 @@ Transcurridos dos años desde que la cuenta respectiva no haya tenido movimiento
 El artículo 14 del D.L. N° 2.099, dispone que transcurrido el plazo de caducidad, esto es, tres años computados desde el mes de enero en que corresponda formar la lista, la acreencia correspondiente caducará y se extinguirán a su respecto todos los derechos del titular, por lo que la institución financiera deberá enterar las cantidades correspondientes deducidos los gastos de publicación, en su caso, en la Tesorería Comunal que corresponda a su domicilio principal.
 
 Los desembolsos a que se refiere esta norma son aquellos que deriven de los gastos que origine la publicación en el Diario Oficial de las acreencias sujetas a esa obligación.
-
-CAPITULO 2-14 (Bancos y Financieras)
-
-MATERIA:
-
-CERTIFICADO SOBRE INTERESES REALES Y DIVIDENDOS PAGADOS.
-
-### 1. Emisión de certificados
-
-Las instituciones financieras deberán extender y enviar antes del 15 de marzo de cada año, un certificado a cada uno de sus depositantes o accionistas, a quienes les hayan pagado sumas iguales o superiores a U.F. 15, en el año precedente, correspondientes a intereses sobre depósitos y captaciones o dividendos por su inversión en acciones de la respectiva entidad.
-
-Además, las entidades financieras deberán emitir también el referido certificado a aquellos depositantes o inversionistas que lo soliciten, aun cuando se les hayan pagado menos de U.F. 15 en el año precedente, por concepto de intereses o dividendos.
-
-Las instituciones financieras pueden optar entre la emisión de un solo certificado para intereses y dividendos, o bien, un certificado para intereses y otro para los dividendos.
-
-Los certificados de que se trata deberán contener la siguiente información:
-
-1.1. Información general.
-
-a) Nombre completo, dirección y número del Rol Unico Tributario del depositante o inversionista.
-
-b) Constancia de que se emiten a fin de que el depositante o inversionista pueda dar cumplimiento a lo dispuesto en el artículo 33 del Código Tributario y en la Resolución N° 200 del Servicio de Impuestos Internos, publicada en el Diario Oficial del 9 de febrero de 1982.
-
-1.2. Certificación de intereses.
-
-a) Número de los depósitos o documentos de captación que originaron los intereses y monto y fecha en que se pagaron estos últimos, ya sean positivos o negativos, por cada operación. En el caso de depósitos o captaciones renovables, se deberá indicar el importe y la fecha de pago de los intereses de cada período.
-
-La información relativa a los intereses se proporcionará separada en la forma que se indica a continuación:
-
-i) Intereses correspondientes a depósitos en moneda chilena no reajustables. En este caso se deberán indicar los intereses nominales pagados y su respectivo equivalente en términos reales. Para determinar este último importe, el capital inicial se reajustará por la variación del valor de la unidad de fomento entre la fecha en que se efectuó el depósito y la del vencimiento de éste. El monto así obtenido se deducirá del importe del capital inicial más los intereses pagados por el depósito. La diferencia obtenida, sea ésta positiva o negativa, constituirá los intereses reales del respectivo depósito.
-
-A continuación se muestran las fórmulas para realizar estos cálculos:
-
-ii) Intereses correspondientes a depósitos en moneda chilena reajustables.
-
-iii) Intereses correspondientes a depósitos en moneda extranjera. En este caso, deberá informarse en moneda chilena el valor de los intereses reales, es decir, el valor que resulte de deducir, a los intereses nominales ganados, el efecto de la variación de la unidad de fomento sobre el capital inicial. Para determinar los intereses reales se procederá de la siguiente manera:
-
-El valor inicial del depósito en moneda extranjera y su monto final, incluidos los intereses, en la misma moneda, se convertirán a moneda chilena utilizando para ello el tipo de cambio observado promedio mensual, determinado sobre la base del que informe el Banco Central de Chile de conformidad con lo dispuesto en el N° 6 del capítulo I del Compendio de Normas de Cambios Internacionales, correspondiente al mes en que se constituyó el depósito y al mes de su vencimiento, respectivamente.
-
-El capital inicial en moneda chilena, determinado en la forma indicada precedentemente se reajustará por la variación del valor de la unidad de fomento entre la fecha en que se efectuó el depósito y la de su vencimiento. El valor así obtenido se deducirá del equivalente en moneda chilena del monto final del depósito. La diferencia resultante, sea ésta positiva o negativa, corresponderá a los intereses reales del respectivo depósito.
-
-Las fórmulas para efectuar estos cálculos son las siguientes:
-
-Conversión del depósito de moneda extranjera a pesos chilenos:
-
-b) Total de intereses reales pagados al depositante en el año precedente a aquel en el que se emita el certificado, incluidos aquellos que en virtud de los ajustes antes señalados resultaren negativos. Para determinar este total se sumarán en forma algebraica los intereses reales informados en el literal i), más los del literal ii) y más los informados en el literal iii) de la letra b) precedente.
-
-Para los efectos de las disposiciones contenidas en este capítulo, se entenderá por intereses pagados aquellos que hayan sido cobrados por el depositante, que hayan sido abonados en su cuenta, que se hayan capitalizado o que hayan sido puestos a su disposición.
-
-1.3. Certificación de dividendos pagados. El certificado correspondiente a dividendos deberá indicar el importe en pesos pagado por concepto de dividendos y la fecha en que se efectuó dicho pago, como también, en los casos que corresponda, el importe del crédito contra el impuesto global complementario que pueda corresponder.
-
-### 2. Entrega del certificado al depositante
-
-En los casos en que el total de los intereses reales a que se refiere la letra b) del numeral 1.2, o de los dividendos de que trata el numeral 1.3, supere el equivalente de 15 unidades de fomento, las instituciones financieras deberán emitir el correspondiente certificado en duplicado y enviar el original en el mismo período fijado para su emisión, al domicilio que el inversionista haya registrado en la respectiva entidad, debiendo conservar la copia en sus archivos.
-
-No obstante, las entidades financieras podrán mantener, como alternativa a la copia de estos certificados, nóminas que contengan la misma información que se entrega en el certificado, el que, en estos casos, se emitirá únicamente en original.
-
-### 3. Certificados devueltos
-
-Los certificados despachados de conformidad con lo dispuesto en el número precedente, que sean devueltos por no corresponder el domicilio registrado a la dirección del depositante, deberán archivarse junto con la respectiva copia o nómina y mantenerse a disposición del inversionista.
-
-### 4. Información a esta Superintendencia
-
-Las instituciones financieras informarán a esta Superintendencia, el 30 de abril de cada año, el número de certificados despachados al domicilio de los respectivos depositantes y el monto total de los intereses reales a que se refiere la letra b) del numeral 1.2, señalado en dichos certificados o de los dividendos a que se refiere el numeral 1.3, cuando corresponda.
-
-Además deberán incluir en la referida información, el número de certificados que les hayan sido devueltos por no corresponder el domicilio registrado a la dirección del depositante y, en caso que proceda, el número de certificados que no hubieren podido despachar por no contar con el domicilio del depositante. Para cada una de estas situaciones deberán indicar el monto de intereses reales informados en los respectivos certificados.
 
 CAPITULO 3-1 (Bancos y Financieras)
 
