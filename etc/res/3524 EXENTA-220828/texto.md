@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.524, de 30 de diciembre de 2003, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado San Antonio, V Región, individualizada en el artículo 1º, Nº 8 del D.S. Nº 652 de 1997, modificado por el D.S. Nº 505 de 1998, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES EMBARCADOS "PUERTECITO" de la provincia de San Antonio.
+
+Valparaíso, 30 de diciembre de 2003.- Felipe Sandoval Precht, Subsecretario de Pesca.
