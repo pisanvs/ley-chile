@@ -1,0 +1,3 @@
+Mediante resolución del Ministerio de Economía, Fomento y Reconstrucción Nº 93, de 3 de octubre del año 2000, se aprobó reforma parcial al estatuto de la Cooperativa Abierta de Vivienda Región del Bío-Bío Limitada; en los términos que da testimonio la escritura pública de fecha 18 de agosto de 2000 suscrita ante el Notario Público de Concepción, don Mario Patricio Aburto Contardo.
+
+Por orden del señor Subsecretario, Carlos Rubio Estay, Jefe Departamento de Cooperativas, Ministerio de Economía, Fomento y Reconstrucción.
