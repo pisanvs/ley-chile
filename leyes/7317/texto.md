@@ -1,0 +1,1 @@
+Autoriza a la Municipalidad de Tomé emitir bonos hasta por 500,000 pesos a fin de atender a obras de pavimentación, de agua potable, reparación de vehículos, obras de adelantamiento local, etc.; establece para el servicio de los bonos, una contribución adicional de 1% sobre el avalúo de los bienes raíces de la comuna.
