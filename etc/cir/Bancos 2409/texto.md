@@ -6816,7 +6816,7 @@ ORDENES DE PAGO DE PENSIONES LEY 17.671.
 
 1.- Obligación de pagar órdenes de pago de pensiones.
 
-El artículo 15 de la Ley 17.671 dispone que las instituciones de previsión podrán emitir y entregar a los beneficiarios, órdenes de pago intransferibles, las que deberán ser pagadas a partir de sus respectivas fechas de vencimiento en cualquiera institución bancaria, libres de comisiones o derechos, lo que actualmente sólo tiene aplicación respecto del Instituto de Normalización Previsional (INP) y la Caja de Previsión de la Defensa Nacional (CAPREDENA).
+El artículo 15 de la Ley 17.671 dispone que las instituciones de previsión podrán emitir y entregar a los beneficiarios, órdenes de pago intransferibles, las que deberán ser pagadas a partir de sus respectivas fechas de vencimiento en cualquiera institución bancaria, libres de comisiones o derechos, lo que actualmente sólo tiene aplicación respecto del Instituto de Normalización Previsional (INP), la Caja de Previsión de la Defensa Nacional (CAPREDENA)y la Dirección de Previsión de Carabineros de Chile.
 
 Las empresas bancarias deberán, en consecuencia, pagar esos documentos al beneficiario que compruebe su identidad, salvo que no cuenten con los medios suficientes para verificar la autenticidad de la orden de pago, caso en el cual deberán explicar al interesado el motivo por el cual rechazan su pago.
 
