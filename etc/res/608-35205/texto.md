@@ -1,0 +1,5 @@
+Por Resolución N° 608, de 3 de abril de 1996, de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, prorrógase hasta el 31 de diciembre de 1996, la vigencia de la Resolución N° 1.281, de 1994, de la Subsecretaría de Pesca, que autoriza a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación dirigida al recurso Loco, con el objeto de completar las actividades del estudio que motivó la pesca de investigación.
+
+En todo caso, la Universidad Católica del Norte, podrá continuar estas actividades en los mismos términos autorizados por la Resolución N° 1.281, de 1994, especialmente sujeta a lo dispuesto en los numerales 5, 6 y 7 de la misma Resolución.
+
+Valparaíso, 3 de abril de 1996.- Patricio Bernal Ponce, Subsecretario de Pesca.
