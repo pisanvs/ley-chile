@@ -1,0 +1,1 @@
+Aumenta la planta de Carabineros de Chile, en las plazas que indica y suprime las que expresa.
