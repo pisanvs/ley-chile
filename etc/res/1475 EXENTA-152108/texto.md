@@ -1,0 +1,3 @@
+Servicio Agrícola y Ganadero mediante resolución exenta No. 1475 de 12 de Agosto de 1987, conforme art. 5° Transitorio Código de Aguas, determinó Derechos Aprovechamiento Aguas proporcionales que corresponden a Sector Excluido y Expropiado del Predio "Las Chacras", de la comuna de Nogales, Quinta Región; y Derechos de Aprovechamiento de Aguas que corresponden a las parcelas N°s. 1 a la 15 y sitios N°s. 1 al 13, del Proyecto de Parcelación "El Progreso", formado por predio señalado. Los derechos de agua se extraen del Estero Pucalán por canal Las Chacras y del Estero El Litre por canal Lo Rojas. Publicación hecha conforme art. 13 Ley No. 18.377.-
+
+Director Ejecutivo.
