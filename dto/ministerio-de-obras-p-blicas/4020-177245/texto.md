@@ -1,0 +1,3 @@
+Por decreto MOP Nº4.020, de 31 de agosto de 2000, se expropió el lote de terreno Nº19, superficie 367 m2., rol de avalúo 30-22, comuna de Requínoa, para la obra Concesión Internacional Ruta 5. Tramo Santiago - Talca. Sector F, Sexta Región y se acordó el valor de indemnización con su propietario Ramón Octavio Murillo Sandoval, ascendente a la cantidad de $3.055.237.
+
+Fiscal del Ministerio de Obras Públicas.
