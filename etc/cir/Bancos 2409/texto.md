@@ -28630,73 +28630,67 @@ Mientras agoten sus actuales existencias de formularios de solicitud de crédito
 
 CAPITULO 19-1 (Bancos y Financieras)
 
-MATERIA.
+MATERIA:
 
-FIRMAS EVALUADORAS DE INSTITUCIONES FINANCIERAS
+FIRMAS EVALUADORAS DE INSTITUCIONES FINANCIERAS.
 
-### 1. Normas Generales
+### 1. Disposiciones legales
 
-El artículo 20 de la Ley General de Bancos señala que las entidades financieras podrán poner en conocimiento de firmas especializadas privadas, detalles de sus operaciones sujetas a reserva, con el propósito de que éstas puedan evaluar su situación económico-financiera. Asimismo, el artículo 13 bis de la Ley Orgánica de esta Superintendencia establece en su párrafo tercero que "con el objeto exclusivo de permitir una evaluación habitual de las instituciones financieras por firmas especializadas que demuestren un interés legítimo, la Superintendencia deberá darles a conocer la nómina de los deudores del banco, los saldos de sus obligaciones y las garantías que hayan constituido. Lo anterior, sólo procederá cuando la Superintendencia haya aprobado su inscripción en un registro especial que abrirá para los propósitos contemplados en este inciso y en el inciso segundo del artículo 20 de la Ley General de Bancos".
+El artículo 20 de la Ley General de Bancos señala que las entidades financieras podrán poner en conocimiento de firmas especializadas privadas, detalles de sus operaciones sujetas a reserva, con el propósito de que éstas puedan evaluar su situación económico-financiera. Asimismo, el artículo 13 bis de la Ley Orgánica de esta Superintendencia establece en su párrafo tercero que "con el objeto exclusivo de permitir una evaluación habitual de las instituciones financieras por firmas especializadas que demuestren un interés legítimo, la Superintendencia deberá darles a conocer la nómina de los deudores de los bancos, los saldos de sus obligaciones y las garantías que hayan constituido. Lo anterior sólo procederá cuando la Superintendencia haya aprobado su inscripción en un registro especial que abrirá para los efectos contemplados en este inciso y en el inciso segundo del artículo 20 de la Ley General de Bancos".
 
-Por su parte, la Ley de Mercado de Valores establece requisitos de clasificación para los valores de oferta pública. En efecto, el artículo 76 de la Ley de Mercado de Valores señala que "los emisores de valores de oferta pública deberán a su costo, contratar con a lo menos dos clasificadores de riesgo distintos e independientes entre sí la clasificación continua e ininterrumpida de dichos valores". Cuando se trate de sociedades por acciones, dichos clasificadores deben ser designados en junta de accionistas.
+Por su parte, el artículo 76 de la Ley de Mercado de Valores señala que los emisores de valores de oferta pública que emitan títulos representativos de deuda, deberán contratar, a su costo, la clasificación continua e ininterrumpida de dichos valores con a lo menos dos clasificadoras de riesgo distintas e independientes entre sí. Los emisores de valores de oferta pública que emitan acciones, podrán someter voluntariamente a clasificación tales valores.
 
 Los bancos y sociedades financieras, en su calidad de emisores de valores de oferta pública quedan, de acuerdo con lo anterior, obligados a contratar a lo menos dos clasificadores de los valores que emitan. Sin embargo, en la ley se ha hecho una diferencia entre las entidades fiscalizadas por esta Superintendencia y el resto de los emisores de valores, puesto que en el artículo 94 de la Ley de Mercado de Valores se establece que las clasificaciones de los valores de oferta pública emitidos por bancos y sociedades financieras las realizarán los evaluadores privados o firmas especializadas a que se refieren el artículo 20 de la Ley General de Bancos y el artículo 13 bis del D.L. N° 1.097 de 1975.
 
-### 2. Contratación de firmas evaluadoras
+2.Contratación de firmas evaluadoras.
 
 2.1. Inscripción en el Registro.
 
-Las firmas evaluadoras que se contraten deben encontrarse con su inscripción vigente en el Registro que mantiene esta Superintendencia. Para ese efecto, cada vez que se proceda a inscribir en el registro correspondiente a una firma evaluadora, se publicará en el Diario Oficial la resolución respectiva señalando el hecho. Similar publicación se efectuará cuando se suspenda o cancele una inscripción.
+Las firmas evaluadoras que se contraten deben encontrarse con su inscripción vigente en el Registro que mantiene esta Superintendencia.
+
+Para ese efecto, cada vez que esta Superintendencia proceda a inscribir en el registro correspondiente a una firma evaluadora, emitirá una resolución en la que constará el número y fecha de dicha inscripción. La firma evaluadora deberá publicar tal resolución en el Diario Oficial.
 
 En el Anexo N° 1 de este Capítulo se incluye, para conocimiento de las instituciones financieras, la nómina vigente de las firmas evaluadoras registradas en esta Superintendencia.
 
-2.2. Designación por la Junta de Accionistas.
+2.2. Designación de las firmas evaluadoras.
 
-Las firmas evaluadoras de los bancos constituidos como sociedades anónimas y de las sociedades financieras, deberán ser designadas en Junta de Accionistas.
+Las firmas evaluadoras deberán ser designadas por el Directorio o, en el caso de bancos extranjeros no constituidos como sociedades anónimas, por su representante legal.
 
 2.3. Firmas evaluadoras que mantengan intereses con la institución.
 
 De acuerdo con lo dispuesto en la Ley N° 18.045, las sociedades clasificadoras de riesgo están impedidas de prestar sus servicios a aquellas instituciones con las cuales tengan intereses que, de alguna forma, puedan comprometer su capacidad para expresar una opinión independiente sobre el riesgo de la entidad emisora, de sus valores o sobre la información financiera de ésta.
 
-Sin perjuicio de las normas que al respecto ha impartido esta Superintendencia a las firmas evaluadoras mediante la Circular N° 2 de 6 de septiembre de 1988 y sus modificaciones, y de las disposiciones contenidas en los artículos 81 y 82 de dicha ley, cuyo incumplimiento es objeto de sanción para la firma evaluadora que los infringiere, las instituciones financieras deberán tener en cuenta, en particular, que no podrán contratar empresas evaluadoras cuando éstas:
+Sin perjuicio de las normas que al respecto ha impartido esta Superintendencia a las firmas evaluadoras mediante la Circular N° 11 de 9 de septiembre de 1994, y de las disposiciones contenidas en los artículos 81 y 82 de dicha ley, cuyo incumplimiento es objeto de sanción para la firma evaluadora que los infringiere, las instituciones financieras deberán tener en cuenta, en particular, que no podrán contratar empresas evaluadoras cuando éstas:
 
-a) tengan vinculación con la institución financiera establecida a través de su propiedad o gestión. No obstante, el solo hecho de poseer hasta el uno por ciento de las acciones de ella no será causal de vinculación;
+a) tengan vinculación con la institución financiera a través de su propiedad o gestión, o mantengan intereses económicos en los negocios de éstas, con su plana directiva o con los dueños o accionistas principales. No obstante, el solo hecho de poseer hasta el uno por ciento de las acciones de la institución financiera no será causal de vinculación; o,
 
-b) sean o hayan sido en el ejercicio inmediatamente anterior auditores externos de la institución o de alguna empresa relacionada por propiedad a ella; o
+b) sean o hayan sido en el ejercicio inmediatamente anterior auditores externos de la institución financiera o de alguna empresa relacionada por propiedad a ella.
 
-c) tengan con la institución o con sus entidades filiales o relacionadas, contratos de crédito por un monto superior al equivalente de 100 unidades de fomento, o los hayan tenido en los últimos seis meses. Se exceptúa para estos efectos un crédito hipotecario, hasta por un máximo de 5.000 unidades de fomento, destinado a la adquisición de un inmueble con el único propósito de que la empresa realice en él sus actividades.
+Tampoco podrán contratar a firmas evaluadoras cuyos socios, ejecutivos superiores o miembros de su consejo de clasificación, ya sea titulares o suplentes:
 
-Tampoco podrán contratar a firmas evaluadoras cuyo socios, ejecutivos superiores o miembros de su consejo de clasificación, ya sea titulares o suplentes:
+i) tengan vinculación o la hayan tenido en los últimos seis meses, con instituciones fiscalizadas por este Organismo, a través de su propiedad o gestión. No obstante, no se considerará vinculada una persona por el solo hecho de poseer hasta el uno por ciento de las acciones o de los derechos sociales de una institución. Para los efectos de estas normas, se entenderá que las personas de que se trata son independientes de las instituciones evaluadas o de empresas filiales de éstas, cuando, además de no alcanzar el porcentaje de participación señalado precedentemente, no mantienen intereses económicos en los negocios de éstas, con su plana directiva o con los dueños o accionistas principales de las instituciones que evalúen, ni se encuentran en situación de dependencia directa o indirecta, esto es, subordinados en cualquier grado, con respecto a las empresas evaluadas;
 
-i) tengan vinculación o la hayan tenido en los últimos seis meses, con la institución a través de su propiedad. No obstante, no se considerará vinculada una persona con el solo hecho de poseer hasta el uno por ciento de las acciones de una institución;
+ii) mantengan con la institución o con sus entidades filiales relacionadas, contratos de crédito o de leasing por un monto total que exceda de 3.000 Unidades de Fomento, a menos que se trate de préstamos hipotecarios para vivienda o leasing inmobiliario de vivienda contratados sin condiciones preferentes y servidos normalmente.
 
-ii) tengan o hayan tenido en los últimos doce meses, vinculación por gestión con la institución o empresas filiales de éstas; o
+### 3. Otorgamiento de créditos a las firmas contratadas
 
-iii) tengan, con la institución o con sus entidades filiales o relacionadas, contratos de crédito o los hayan tenido en los últimos seis meses. Se exceptúa un crédito hipotecario para vivienda y un préstamo personal de consumo, incluido el que provenga del uso de tarjetas de crédito.
+Una vez designada la firma evaluadora y hasta el término del contrato de evaluación, la institución financiera contratante no podrá otorgarle nuevos créditos a esa firma o a cualquiera de sus socios, ejecutivos superiores o miembros de su consejo de clasificación, ya sean titulares o suplentes. Igual limitación regirá cuando la firma evaluadora sea contratada por alguna filial de la institución financiera.
 
-### 3. Clasificadores designados
+Se exceptúan de la prohibición señalada en el párrafo precedente, los créditos que se otorguen a la firma evaluadora que en total no excedan del equivalente de UF 100 y un crédito hipotecario destinado a la adquisición de un inmueble con el único propósito de que la empresa realice en él sus actividades. Asimismo, se exceptúan los créditos que se otorguen a algún socio, ejecutivo superior o miembro de su consejo de clasificación cuando se trate de un crédito personal de consumo, incluido el que provenga del uso de tarjeta de crédito, y de un crédito hipotecario para vivienda. En todo caso, los créditos de que se trata no podrán ser contratados en condiciones preferentes con respecto a los que se otorgan a los demás clientes de la institución financiera.
 
-En virtud del artículo 77 de la Ley de Mercado de Valores, esta Superintendencia podrá designar a una firma evaluadora en una entidad que fiscalice a fin de que efectúe una clasificación adicional de los valores que esa entidad emita. La remuneración que corresponda por esta clasificación será de cargo del emisor y gozará del privilegio establecido en el número 4 del artículo 2472 del Código Civil. Las clasificaciones que realice esta empresa evaluadora designada podrán sustituir una de las clasificaciones obligatorias.
+### 4. Clasificadores designados por esta Superintendencia
 
-### 4. Franquicias tributarias
+En virtud del artículo 77 de la Ley de Mercado de Valores, esta Superintendencia podrá designar a una firma evaluadora en una entidad que fiscalice a fin de que efectúe una clasificación adicional de los valores de oferta pública que esa entidad emita. La remuneración que corresponda por esta clasificación será de cargo del emisor y gozará del privilegio establecido en el número 4 del artículo 2.472 del Código Civil. Las clasificaciones que realice esta empresa evaluadora designada podrán sustituir una de las clasificaciones obligatorias.
 
-Los bancos y sociedades financieras podrán usar como crédito contra el impuesto de primera categoría de la Ley sobre Impuesto a la Renta un porcentaje de las cantidades pagadas a firmas evaluadoras por la clasificación de sus valores de oferta pública, en el mismo ejercicio en que se acepten como gasto, sin perjuicio de la procedencia de los créditos señalados en los artículos 56 número 3 y 63 de la citada ley, los que serán aplicados sin la rebaja que se establece en el artículo 5 transitorio de la Ley N° 18.660.
-
-Dicho porcentaje será de 50% para los costos de clasificación de títulos de deuda y de 80% para los títulos representativos de capital. Con todo, para un mismo emisor dicho crédito no podrá ser superior a 450 unidades de fomento para el caso de todos sus títulos de deuda ni de 720 unidades de fomento para el caso de sus títulos accionarios. Sin perjuicio de lo anterior, un mismo emisor no podrá tener por dichos conceptos un crédito total anual superior a 720 unidades de fomento.
-
-Para calcular las cantidades que deben rebajarse del impuesto por los conceptos señalados en el párrafo anterior, las sumas pagadas a las firmas evaluadoras deberán reajustarse de acuerdo con el mecanismo de corrección monetaria que se establece en la Ley sobre Impuesto a la Renta.
-
-De acuerdo a lo que dispone el citado artículo 5 transitorio, la franquicia tributaria señalada redirá hasta el ejercicio tributario 1992, para el caso de la clasificación de títulos representativos de deuda, y hasta el ejercicio tributario 1995, para la clasificación de títulos representativos de capital.
-
-ANEXO N°1
+ANEXO N° 1
 
 FIRMAS EVALUADORAS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
 
-- CLASIFICADORES ASOCIADOS Y CIA. LTDA. CLASIFICADORAS DE RIESGO.
+- CLASIFICADORES ASOCIADOS Y CIA. LTDA., CLASIFICADORAS DE RIESGO.
 
-- FELLER-RATE, CLASIFICADORA DE RIESGO LTDA.
+- FELLER-RATE,(AND) CLASIFICADORA DE RIESGO LTDA.
 
-- ECONSULT/DUFF (AND) PHELPS CLASIFICADORA DE RIESGO LTDA.
+- ECONSULT/DUFF (AND) PHELPS, CLASIFICADORA DE RIESGO LTDA.
 
 CAPITULO 19-2 (Bancos y Financieras)
 
