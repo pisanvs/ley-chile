@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 181, de 28 de febrero de 1997, se expropiaron los lotes de terreno Nºs. 1, 2, 4, 5, 6, 8, 11, 20 y 21, superficies 1.170, 350, 1.045, 1.415, 303, 1.853, 40, 87 y 39 M2, roles de avalúos, 2 en trámite, 515-23, 520-34, en trámite y en trámite, comuna de Santa Cruz, para la obra Camino San Cruz-Palmilla, Sector Ruta I-720 por Barreales y se acordó precio de la indemnización con sus propietarios Ilustre Municipalidad de Santa Cruz, María Diez de Medina Casas Cordero, Sociedad Comercial Santa Laura S.A., Laura Díaz Lorca, Luis Osorio Rivera y Hugo del Carmen González González, ascendente a las cantidades de $14.421.000, para el lote 1; $2.325.125, para el lote 2;
+
+$14.266.967, para los lotes 4, 5, 6 y 8; $1.337.600 para el lote 11; $456.247, para el lote 20 y $407.759, para el lote 21.
+
+Fiscal del Ministerio de Obras Públicas.
