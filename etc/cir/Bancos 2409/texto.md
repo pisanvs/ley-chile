@@ -4472,7 +4472,7 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Empresa de Servicios Sanitarios del Bio-Bio S.A. (ESSBIO S.A.)
 
-- Empresa de Servicios Sanitarios del Libertador S.A.(ESSEL S.A.)
+- Empresa de Servicios Sanitarios del Libertador S.A. (ESSEL S.A.)
 
 - Empresa de Servicios Sanitarios del Maulé S.A. (ESSAM S.A.)
 
@@ -4495,6 +4495,8 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 - Empresa Portuaria Antofagasta.
 
 - Empresa Portuaria Arica.
+
+- Empresa Portuaria Chacabuco.
 
 - Empresa Portuaria de Chile. (EMPORCHI)
 
@@ -4552,7 +4554,7 @@ INSTITUCIONES AUTORIZADAS HASTA EL 28 DE FEBRERO DEL AÑO 2000.
 
 - Zona Franca Iquique S.A. (ZOFRI S.A.)
 
-- MUNICIPALIDADES (todas las Municipalidades del pais).
+- MUNICIPALIDADES (todas las Municipalidades del país).
 
 CAPITULO 2-12 (Bancos y Financieras)
 
