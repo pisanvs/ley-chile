@@ -1,0 +1,5 @@
+Por decreto MOP Nº4.432, de 29 de septiembre de 2000, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 57-A y 57-B, para la obra Camino M-24-K Quivolgo-Puente Lautaro, sector C Putu-Quivolgo, Kms.
+
+30,000 al 49,815.494, que figuran a nombre de Eugenia Barrientos, roles de avalúo en trámite, comuna de Constitución, VII Región, superficies 1.080 M2. y 1.824 M2. La Comisión de Peritos, fijó con fecha 18 de abril de 2000, en las cantidades de $180.600, lote 57-A y $313.920 lote 57-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el ar-tículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
