@@ -7194,7 +7194,7 @@ ANEXO N° 5
 
 .
 
-ANEXO N° 6
+ANEXO N°6
 
 CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
 
@@ -7208,43 +7208,43 @@ Bancos
 
 012 BANCO DEL ESTADO DE CHILE
 
-014 BANCO SUDAMERICANO
+014 BANCO SUD AMERICANO
 
 016 BANCO DE CREDITO E INVERSIONES
 
-017 BANCO DO BRASIL S A
+017 BANCO DO BRASIL S.A.
 
 027 CORPBANCA
 
 028 BANCO BICE
 
-029 BANCO DE A EDWARDS
+029 BANCO DE A.EDWARDS
 
-031 REPUBLIC NATIONAL BANK OF NEW YORK
+031 HSBC BANK USA
 
 032 BANK OF AMERICA, NATIONAL ASSOCIATION
 
-033 CITIBANK N A
+033 CITIBANK N.A.
 
 035 BANCO SANTIAGO
 
-036 BANCO DO ESTADO DE SAO PAULO S A
+036 BANCO DO ESTADO DE SAO PAULO S.A.
 
-037 BANCO SANTANDER CHILE
+037 BANCO SANTANDER-CHILE
 
 038 BANCO EXTERIOR (CHILE)
 
-039 BANKBOSTON NATIONAL ASSOCIATION
+039 BANKBOSTON, NATIONAL ASSOCIATION
 
 040 BANCO SUDAMERIS
 
 041 THE CHASE MANHATTAN BANK
 
-042 AMERICAN EXPRESS BANK LTD
+042 AMERICAN EXPRESS BANK LTD.
 
 043 BANCO DE LA NACION ARGENTINA
 
-045 THE BANK OF TOKYO-MITSUBISHI LTD
+045 THE BANK OF TOKYO-MITSUBISHI LTD.
 
 046 ABN AMRO BANK (CHILE)
 
@@ -7256,7 +7256,7 @@ Bancos
 
 507 BANCO DEL DESARROLLO
 
-Sociedades financieras
+Sociedades fínanderas
 
 734 FINANCIERA CONOSUR
 
@@ -7944,9 +7944,9 @@ El costo de la marca adquirida se amortizará en el plazo que resulte menor entr
 
 En todo caso, la institución financiera deberá evaluar anualmente los beneficios que reporta la propiedad de la marca, debiendo acelerar el traspaso a los resultados si no existen razones fundadas para mantener las condiciones primitivas de amortización.
 
-6.- Derechos sobre líneas telefónicas.
+6.- Otros activos intangibles.
 
-Las instituciones financieras podrán registrar en el activo el costo de derechos sobre líneas telefónicas, amortizándolo en un período no superior a cinco años.
+Las instituciones financieras podrán registrar en el activo otros bienes o derechos intangibles no tratados expresamente en los numerales precedentes, ciñéndose a los criterios descritos en el Boletín Técnico N° 55 del Colegio de Contadores de Chile A.G. En todo caso, el período de amortización de estos activos intangibles no podrá ser superior a cinco años.
 
 7.- Reconocimiento de indemnizaciones por años de servicio con efecto retroactivo.
 
@@ -7954,9 +7954,9 @@ Las empresas que pacten con su personal el pago de indemnizaciones por años de 
 
 8.- Información de saldos.
 
-Los saldos no amortizados de los activos intangibles y gastos diferidos de que tratan los números precedentes, se incluirán en las siguientes cuentas de la partida 2120: "Gastos de organización y puesta en marcha", "Inversiones en Software", "Sobreprecio en adquisición de negocios", "Marcas registradas", "Derechos sobre líneas telefónicas" y "Reconocimiento de indemnizaciones por años de servicio".
+Los saldos no amortizados de los activos intangibles y gastos diferidos de que tratan los números precedentes, se incluirán en las siguientes cuentas de la partida 2120: "Gastos de organización y puesta en marcha", "Inversiones en Software", "Sobreprecio en adquisición de negocios", "Marcas registradas", "Otros activos intangibles" y "Reconocimiento de indemnizaciones por años de servicio".
 
-Los resultados por las amortizaciones se incluirán en las siguientes cuentas de la partida 6265: "Amortización de gastos de organización y puesta en marcha", "Amortización de inversiones en Software", "Amortización de sobreprecio en adquisición de negocios", "Amortización de marcas registradas", "Amortización de derechos sobre líneas telefónicas" y "Amortización de reconocimiento de indemnizaciones por años de servicio".
+Los resultados por las amortizaciones se incluirán en las siguientes cuentas de la partida 6265: "Amortización de gastos de organización y puesta en marcha", "Amortización de inversiones en Software", "Amortización de sobreprecio en adquisición de negocios", "Amortización de marcas registradas", "Amortización de otros activos intangibles" y "Amortización de reconocimiento de indemnizaciones por años de servicio".
 
 CAPITULO 7-5 (Bancos y Financieras)
 
