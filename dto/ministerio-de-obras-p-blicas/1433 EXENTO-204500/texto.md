@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.433 de fecha 30 de septiembre del 2002, se expropió el lote de terreno Nº96, superficie 186 m2, sin rol, comuna de Alto del Carmen, III Región, para la obra ''Camino Ruta C-489, Sector Alto del Carmen - El Corral, Tramo Km. 0,000 al 70,000, Etapa III'' y se acordó el valor de indemnización con su propietaria Matilde Avalos Maltés, ascendente a la cantidad de $350.135.-
+
+Fiscal del Ministerio de Obras Públicas.
