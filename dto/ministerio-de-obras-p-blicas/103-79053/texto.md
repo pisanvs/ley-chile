@@ -1,0 +1,3 @@
+Por Decreto M.O.P. No. 103, de fecha 15 de Abril de 1992, se expropió el lote de terreno No. 6, superficie 11.172 M2. rol de avalúo 29-30, Comuna de San Pedro, para la obra Camino San Fernando-San Antonio, sector Límite Regional-Retén Atalaya y se acordó precio de indeminzación con su propietaria doña Luz María Alemparte Claro, ascendente a la cantidad de $ 2.205.109.
+
+Fiscal del Ministro de Obras Públicas.
