@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.931, de 20 de julio de 2004, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Cailín Sector C, X Región, individualizada en el artículo 1º Nº 1, del decreto exento Nº 234 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentada por la ASOCIACION INDIGENA DE PESCADORES ARTESANALES DE LA COMUNIDAD HUILLICHE BUTA HUAPI CHILHUE SECTOR CAILIN.
+
+Valparaíso, 20 de julio de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
