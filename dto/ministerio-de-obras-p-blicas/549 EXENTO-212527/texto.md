@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº549 de fecha 30 de mayo de 2003, se expropió el lote de terreno Nº3-A, superficie 2.322 m2, rol de Avalúo Nº315-22, comuna de Constitución, para la obra "Camino Ruta M-24-K, con M-50, Sector Accesos Puente Maule en Constitución, Tramo Km. 47.920 - Km. 53.820", VII Región y se acordó el valor de la indemnización con su propietario Sociedad Inmobiliaria Quivolgo Limitada, ascendente a la cantidad de $871.614.
+
+Fiscal del Ministerio de Obras Públicas.
