@@ -1,0 +1,9 @@
+Por resolución Nº 1.903, de 22 de septiembre de 1999, de esta Subsecretaría, autorízase a AGRICOLA Y COMERCIAL EL PANGUE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos del Proyecto Fontec-Corfo Nº 98-1522 denominado ''Manejo del Río y Lago Risopatrón con fines de Pesca Deportiva'', aprobado por el Fondo Nacional de Desarrollo Tecnológico y Productivo y por esta Subsecretaría, el cual se considera como parte integrante de la presente resolución.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en determinar la estructura poblacional de las especies ícticas de interés para la pesca deportiva presentes en el Lago y Río Risopatrón, XI Región.
+
+La pesca de investigación se efectuará en el Río y Lago Risopatrón, ubicados a 18 kilómetros al norte de Puyuhuapi, XI Región, por el término de un año contado desde la fecha de publicación de la presente resolución en el Diario Oficial.
+
+En cumplimiento de objetivo de la presente pesca de investigación, la peticionaria podrá capturar trimestralmente, mediante equipos de pesca eléctrica y caña modalidad fly fishing, un máximo de 8 ejemplares de cada una de las especies Trucha arcoiris, Trucha café y Trucha arroyo, en los cuerpos de agua antes señalados. Agrícola y Comercial El Pangue Limitada designa como persona responsable de esta pesca de investigación, de conformidad con lo dispuesto en el artículo 102, del D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, a su representante legal, don Ramiro Calvo Laso.
+
+Valparaíso, 22 de septiembre de 1999.- Juan Manuel Cruz Sánchez, Subsecretario de Pesca.
