@@ -1,0 +1,3 @@
+Por decreto MOP Nº3.383, de 31 de julio de 2000, se expropió el lote de terreno Nº12, superficie 341 m², rol de avalúo 54-26, comuna de San Esteban, para la obra Camino Ruta E-755, Sector San Esteban - Lo Calvo, Tramo Km. 0.000 a Km. 7.001,80 y se acordó precio de la indemnización con su propietario Alfonso Hernán Henríquez Leiva, ascendente a la cantidad de $10.504.494.-
+
+Fiscal del Ministerio de Obras Públicas.
