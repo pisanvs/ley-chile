@@ -1,0 +1,5 @@
+AUTORIZA A PESQUERA LANDES S.A. PARA AMPLIAR ACTIVIDADES
+
+Por Resolución No. 1.114 de 18 de Octubre de 1988 de esta Subsecretaría de Pesca del Ministerio de Economía, Fomento y Reconstrucción, se autoriza a Pesquera Landes S.A. RUT No. 92.387.006-8, domiciliada en la ciudad de Santiago, calle Agustinas No. 1022, oficina 423, para ampliar actividades pesqueras que tiene autorizadas por Decreto No. 555, de 1965, del Ministerio de Agricultura, la interesada podrá incluir en la planta industrial ubicada en Talcahuano, autorizada por Decreto No. 319, de 1970, del Ministerio de Agricultura, además de los recursos hidrobiológicos autorizados, los siguientes Caballa, jurel, merluza de cola, merluza de tres aletas, agujilla, krill. La presente autorización es sin perjuicio de las que corresponda conferir a otras autoridades, de acuerdo a las disposiciones legales y reglamentarias vigentes o que se establezcan.
+
+Valparaíso, 18 de Octubre de 1988.- Roberto Cabezas Bello Subsecretario de Pesca.
