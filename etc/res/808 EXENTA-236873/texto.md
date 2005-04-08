@@ -1,0 +1,3 @@
+Por resolución exenta Nº 808, de 30 de marzo de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101143 presentada por YOLANDA MONICA GALLARDO RODRIGUEZ y FERNANDO ENRIQUE VASQUEZ NAVARRO para instalar y operar un centro de cultivo ubicado en Seno Reloncaví, sector Ensenada Raliguao, X Región.
+
+Valparaíso, 30 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
