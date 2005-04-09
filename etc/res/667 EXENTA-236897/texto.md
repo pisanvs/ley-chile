@@ -1,0 +1,5 @@
+Por resolución exenta Nº 667, de 9 de marzo de 2005, de esta Subsecretaría, modifícase la resolución Nº 3.382, de 2004, modificada mediante resoluciones Nº 3.480, Nº 3.710, ambas de 2004; Nº 8, Nº 500 y Nº 542, todas de 2005, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Control y monitoreo de la pesquería de Merluza del sur (Merluccius australis) en aguas interiores de la XII Región", en el sentido de aprobar el addendum a los términos técnicos de referencia y las modificaciones que se indican en la resolución extractada.
+
+Déjase sin efecto la resolución Nº 500, de 2005, de esta Subsecretaría de Pesca, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 9 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
