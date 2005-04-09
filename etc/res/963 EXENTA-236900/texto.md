@@ -1,0 +1,3 @@
+Por resolución exenta Nº 963, de 4 de abril de 2005, de esta Subsecretaría, se da al procedimiento administrativo destinado a la revisión de la resolución Nº 873 de 2004, que establece los casos de secreto o reserva aplicable a la información administrativa de que disponga y abre un período de 20 días hábiles, en el que cualquier persona podrá examinar el procedimiento administrativo y formular sus observaciones, de conformidad con el artículo 39 de la ley Nº 19.880.
+
+Valparaíso, 4 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
