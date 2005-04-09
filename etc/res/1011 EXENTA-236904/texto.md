@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 1.011 EXENTA, DE 2005
+
+Por resolución exenta Nº 1.011, de 24 de marzo de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se dispuso el inicio, a partir del día 28 de marzo de 2005, de la marcha blanca de las plantas de revisión técnica clase B de la Concesión Dos, con una planta revisora en la comuna de Ñuñoa, una planta revisora en la comuna de Vitacura, una planta revisora en la comuna de Cerrillos y una planta revisora en la comuna de La Florida, todas concesionadas a la empresa "S.G.S Chile Limitada"; y se modifica resolución exenta Nº 416, de 18 de febrero de 2005, de citada Secretaría Regional.-
+
+Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
