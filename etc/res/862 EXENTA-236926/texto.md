@@ -1,0 +1,3 @@
+Por resolución exenta Nº 862, de 31 de marzo de 2005, autorízase a PESQUERA BIO BIO S.A. para continuar desarrollando actividades pesqueras extractivas con las naves "Talismán" y "Hilmir", las que fueran autorizadas a la empresa Qurbosa Dos S.A., todo ello en virtud de las escrituras públicas y las demás disposiciones legales citadas en la resolución extractada.
+
+Valparaíso, 31 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
