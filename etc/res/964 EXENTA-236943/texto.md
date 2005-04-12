@@ -1,0 +1,3 @@
+Por resolución exenta Nº 964, de 4 de abril de 2005, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.136, de 2004, de esta Subsecretaría, que rechazó la solicitud Nº 202103153, presentada por CLAUDIO SEBASTIAN PEREZ GOLZMAN, para un centro de cultivo ubicado en sector sureste de punta Huechapiao, Isla Apiao, X Región, en virtud del artículo 59 de la ley Nº 19.880.
+
+Valparaíso, 4 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
