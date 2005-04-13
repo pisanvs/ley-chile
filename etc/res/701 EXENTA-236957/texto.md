@@ -1,0 +1,3 @@
+Por resolución exenta Nº 701, de 16 de marzo de 2005, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL DASAN LIMITADA, para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Circunvalación Nº 81, sector Cardonal, Puerto Montt, X Región, en las líneas de proceso de Fresco Enfriado, Fresco Resfrigerado y Congelado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 16 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
