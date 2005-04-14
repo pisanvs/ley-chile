@@ -1,0 +1,7 @@
+Por resolución exenta Nº 778, de 24 de marzo de 2005, de esta Subsecretaría, autorízase al CENTRO UNIVERSITARIO INTERNACIONAL EUROPA-AMERICA LATINA DE INVESTIGACION Y FORMACION EN CIENCIAS AMBIENTALES DE LA UNIVERSIDAD DE CONCEPCION, para efectuar un pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de comunidades biológicas y calidad del agua del sistema fluvial río Itata durante la fase de construcción".
+
+El objetivo de la pesca de investigación que por la presente resolución se autoriza consiste en determinar los efectos del efluente líquido del "Complejo Forestal Industrial Río Itata" sobre la abundancia, diversidad, distribución y composición específica de la comunidad de peces en el Río Itata.
+
+La pesca de investigación se efectuará por el término de seis meses en la cuenca del Río Itata, VIII Región. El peticionario podrá capturar, con devolución, mediante equipos de pesca eléctrica y redes monofilamentos de 2.5, 5 y 10 centímetros de luz de malla, las especies nativas Pejerrey, Pocha, Tollo, Puye, Lamprea de bolsa, Lisa, Perca trucha, Carmelita, Carmelita de Concepción, Bagrecito y Bagre pintado; y las especies introducidas Carpa, Bagre, Pez mosquito, Trucha arcoiris y Trucha café; y sin devolución, hasta 5 ejemplares de cada una de las especies indicadas y 20 ejemplares de las especies nativas Carmelita de Concepción y Bagre pintado, en los términos indicados en la resolución extractada.
+
+Valparaíso, 24 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
