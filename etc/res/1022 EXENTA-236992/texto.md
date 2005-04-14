@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.022, de 7 de abril de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202111122 presentada por la SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Troya, lado weste de Isla Alberto Vargas, XI Región.
+
+Valparaíso, 7 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
