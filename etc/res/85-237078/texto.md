@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº85, 22 marzo 2005, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Rodríguez Nº390, Casa 3, Condominio Antuhue, Rol de Avalúo número 2769-111, comuna Chiguayante, superficie 84,00 m². de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.475, de aparente dominio de Carlos A. Martínez Rodríguez, para ejecución programa "Mejoramiento Eje Vial O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Orlando Paredes Vásquez, ingeniero civil, Guillermo Villafañe Feres, arquitecto, e Italo Zerga Arancibia, constructor civil, según informe de fecha 23 de diciembre de 2004, fijó monto provisional indemnización en $25.159.608.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
