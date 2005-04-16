@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 193 de fecha 22 de marzo de 2005, se autorizó la Constitución de Servidumbre de Acueducto continua, inaparente, perpetua y gratuita sobre el lote de terreno Nº 1, superficie 73 m2, rol de avalúo Nº 117-431, comuna de Quilicura, para la obra "Proyecto: Concesión Internacional Sistema Américo Vespucio Nor-Poniente. Avda. El Salto - Ruta 78. Tramo 3: Ruta 5 Norte - Condell. Colector y Canal de Aguas Lluvias Loteo Industrial", Región Metropolitana.
+
+- Fiscal del Ministerio de Obras Públicas.
