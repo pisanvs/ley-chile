@@ -1,0 +1,7 @@
+Por resolución exenta Nº 770, de 24 de marzo de 2005, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Desarrollo de productos turísticos basados en retornos de Salmón chinook (Oncorhynchus tshawytscha) en la cuenca del río Cisnes, XI Región Aysén.
+
+El objetivo de la pesca de investigación consiste en evaluar la sustentabilidad de la pesca recreativa del Salmón chinook en un sector de la cuenca del río Cisnes, mediante el estudio de la fase reproductiva de la especie y de los probables impactos de la pesca comercial sobre ejemplares retornantes.
+
+La pesca de investigación se efectuará por el término de seis meses en la cuenca del río Cisnes, XI Región. La peticionaria podrá capturar con devolución, mediante artes de pesca recreativa, redes agalleras monofilamento de 6 pulgadas de abertura y pesca eléctrica las especies Salmón chinook, Trucha arcoiris y Trucha café. Además, podrá capturar mensualmente, sin devolución, con los mismos artes y aparejos de pesca, 20 alevines y 5 adultos de la especie Salmón chinook.
+
+Valparaíso, 24 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
