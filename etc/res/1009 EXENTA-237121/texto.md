@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.009, de 6 de abril de 2005, de esta Subsecretaría, autorízase a PESQUERA GRIMAR S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Parque Industrial Escuadrón Sur, Lote 10, Manzana A, Coronel, VIII Región, en las líneas de elaboración Fresco enfriado, congelado y ahumado, el recurso hidrobiológico individualizado en la resolución extractada.
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
