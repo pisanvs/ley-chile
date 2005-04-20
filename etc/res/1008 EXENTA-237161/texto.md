@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.008, de 6 de abril de 2005 de esta Subsecretaría, autorízase a EMPRESAS AQUACHILE S.A. para continuar desarrollando las actividades pesqueras de transformación en una planta ubicada en sector Cardonal, Lote B, Puerto Montt, autorizadas mediante las resoluciones Nº1.151 de 1994 y Nº2.122 de 2000, ambas de esta Subsecretaría, a Salmones Pacífico Sur S.A., del mismo RUT. y domicilio, en virtud de la escritura pública citada en Visto y del contenido de la presente resolución.
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
