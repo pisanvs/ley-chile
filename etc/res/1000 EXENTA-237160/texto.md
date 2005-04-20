@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.000, de 6 de abril de 2005, de esta Subsecretaría, autorízase a MARKO BOZIDAR GRUSIC BARRIOS para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en San Miguel Nº 201, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
