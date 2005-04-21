@@ -1,0 +1,3 @@
+Por resolución exenta Nº 726, de 18 de marzo de 2005, de esta Subsecretaría, autorízase a ANA LLERLYA LEON ALCAYAGA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en La Rinconada de Miramar Lote 7, correspondiente al Lote 3 del proyecto de parcelación de la Comunidad La Herradura, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco-Salado y Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
