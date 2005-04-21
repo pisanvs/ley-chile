@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.002, de 6 de abril de 2005, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL FRIGORIFICO LOTA LIMITADA para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Del Aserradero Nº 024, Lote 15, Parque Industrial Lota, Lota, VIII Región, en la línea de proceso de Congelado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
