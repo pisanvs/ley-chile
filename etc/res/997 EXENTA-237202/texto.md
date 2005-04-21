@@ -1,0 +1,3 @@
+Por resolución exenta Nº 997, de 6 de abril de 2005, de esta Subsecretaría, autorízase a SOCIEDAD MARQUEZ Y OCAMPO LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Bío Bío, sitio 10, Boca Sur Viejo, San Pedro de la Paz, VIII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado y Deshidratado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
