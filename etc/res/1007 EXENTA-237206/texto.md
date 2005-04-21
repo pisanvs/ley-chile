@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.007, de 6 de abril de 2005, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Isla Rocuant, sitio Nº 10, Talcahuano, VIII Región, en las líneas de proceso de Harina y Aceite, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
