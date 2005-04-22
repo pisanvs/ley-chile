@@ -1,0 +1,27 @@
+PONE TERMINO A NOMBRAMIENTO Y ESTABLECE NUEVO ORDEN DE SUBROGANCIA DEL CARGO DE SECRETARIO REGIONAL MINISTERIAL DE SALUD DE LA XI REGION
+
+Núm. 33.- Santiago, 14 de enero de 2005.- Visto: Lo dispuesto en el artículo 75 de la ley Nº 18.834, y lo señalado en el Nº 108 del artículo 1 del decreto supremo Nº 654, de 1994, del Ministerio del Interior, y teniendo presente las facultades que me confieren los artículos 24, 32 Nº 8 y 35 de la Constitución Política de la República de Chile,
+
+Decreto:
+
+1.- Pónese término a contar del 25 de enero de 2005 a la subrogancia de Secretario Regional Ministerial de Salud de la XI Región, dispuesta por decreto supremo Nº 225, de 2002, del Ministerio de Salud.
+
+2.- Desígnase a contar del 25 de enero de 2005, en el siguiente orden de subrogancia, a los funcionarios que actuarán como Secretario Regional Ministerial de Salud de la XI Región, en ausencia o impedimento del titular:
+
+- Primer Orden de Subrogación:
+
+Dr. Jorge Montecinos Soto, RUN 3.810.825-5
+
+- Segundo Orden de Subrogación:
+
+Sra. María Soledad Acevedo Díaz, RUN 7.426.35-5
+
+- Tercer Orden de Subrogación:
+
+Sra. Margarita Marchant Contreras, RUN 3.619.786-2
+
+3.- El Secretario Regional Ministerial Subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
+
+Anótese, tómese razón, regístrese y publíquese.- Por orden del Presidente de la República, Pedro García Aspillaga, Ministro de Salud.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Cecilia Villavicencio Rosas, Subsecretaria de Salud Pública.
