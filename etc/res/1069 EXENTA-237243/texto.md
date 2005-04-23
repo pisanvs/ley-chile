@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.069, de 14 de abril de 2005, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 541 de 2005, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de investigación de Pez espada (Xiphias gladius) en el Pacífico Sur Oriental, año 2005", en el sentido de reemplazar, por el término de seis meses contados desde la fecha de la presente resolución, la nave industrial "Areamilla", matrícula 2737, por la nave industrial "Lucía", matrícula 2647.
+
+Valparaíso, 14 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
