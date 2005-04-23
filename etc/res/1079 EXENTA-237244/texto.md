@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.079, de 15 de abril de 2005, de esta Subsecretaría, autorízase a las organizaciones de pescadores artesanales pertenecientes a la FLOTA NORTE 1, para ampliar el plazo de operaciones para realizar actividades pesqueras extractivas correspondientes al mes de abril, hasta el día 15 de dicho mes, inclusive.
+
+Valparaíso, 15 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
