@@ -1,0 +1,3 @@
+Por resolución exenta Nº 697, de 16 de marzo de 2005, de esta Subsecretaría, autorízase a SOCIEDAD EXTRACTORA Y COMERCIALIZADORA DE PRODUCTOS DEL MAR, AGROPECUARIOS Y FORESTALES LIMITADA, para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en calle Arica Nº 2478, Valdivia, X Región, en las líneas de proceso de cocido, congelado y conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 16 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
