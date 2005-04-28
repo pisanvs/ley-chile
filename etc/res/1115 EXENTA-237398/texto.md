@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.115, de 21 de abril de 2005, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 96101209 presentada por INVERSIONES DOÑA CARMEN S.A., como continuadora legal de Hatfield International S.A. para el centro de cultivo ubicado en Canal Hornopirén, Caleta Río Negro, X Región.
+
+Valparaíso, 21 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
