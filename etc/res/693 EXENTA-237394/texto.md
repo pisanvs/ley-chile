@@ -1,0 +1,5 @@
+Por resolución exenta Nº 693, de 15 de marzo de 2005, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 289 de 2005, que autorizó a SOCIEDAD CONSULTORA HUELEN LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Registro, monitoreo y control del esfuerzo en la pesquería del recurso Pejerrey de mar (Odontesthes regia) en aguas interiores de la X Región", en el sentido de incorporar el siguiente inciso final, nuevo:
+
+"No obstante lo anterior, podrán operar por fuera del área marítima indicada en el inciso primero, durante toda la vigencia de la presente pesca de investigación, las naves que utilicen cerco manual (bolinche) con casco y eslora inferior a 11,5 metros (sin huinche) y con red no superior a 150 metros de largo por 27 metros de fondo.".
+
+Valparaíso, 15 de marzo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
