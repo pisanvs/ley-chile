@@ -1,0 +1,3 @@
+Por resolución exenta Nº 907, de 1 de abril de 2005, de esta Subsecretaría, autorízase a EMPRESA COMERCIAL INDUSTRIAL REPRODUCTORA DE ESPECIES MARINAS CHAMIZA S.A. para transferir a Cultivadora de Salmones Linao Limitada, una piscicultura ubicada en la ribera sureste del río Correntoso, sector Lago Chapo, comuna de Puerto Montt, provincia de Llanquihue, X Región, autorizada en el inciso segundo del numeral 2º de la resolución Nº 435 de 1988, modificada Nº 1.935 de 1989, ambas de esta Subsecretaría de Pesca.
+
+Valparaíso, 1 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
