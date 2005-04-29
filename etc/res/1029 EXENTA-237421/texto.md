@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.029, de 11 de abril de 2005, de esta Subsecretaría, autorízase a CONSERVAS Y CONGELADOS DE PUERTO MONTT S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino Chinquihue kilómetro 12, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Cocido, fresco enfriado, fresco refrigerado, congelado, seco salado, ahumado y conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Déjanse sin efecto las resoluciones Nº 2.723 de 2002, Nº 1.238 de 2003, Nº 245 y Nº 2.787, ambas de 2004, todas de esta Subsecretaría, en virtud de la carta renuncia citada en Visto y del contenido de la presente resolución.
+
+Valparaíso, 11 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
