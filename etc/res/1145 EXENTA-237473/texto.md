@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.145, de 25 de abril de 2005, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 2.349 de 2002, Nº 614 y Nº 1.533, ambas de 2003, todas de esta Subsecretaría, sólo en cuanto autorizaron a Sociedad Pesquera Langeveld Limitada, hoy SOCIEDAD DE INVERSIONES LANGEVELD S.A., para desarrollar actividades pesqueras extractivas con la nave "Cocha", en el área marítima de la X Región, y de las Islas San Félix y San Ambrosio, sobre el recurso Alfonsino Beryx splendens, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
