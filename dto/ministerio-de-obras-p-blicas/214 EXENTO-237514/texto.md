@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 214, de fecha 31 de marzo de 2005, se expropiaron los lotes de terreno Nº 114-A y 114-B, superficies 12 m2 y 17 m2, rol de avalúo Nº 606-12, comuna de Santa Cruz, para la obra "Camino Santa Cruz - Yáquil, Rol I-730, Km. 0.00000 al Km. 7,46939", VI Región, y se acordó el valor de la indemnización con su propietaria Irinea o Irenea del Carmen Miranda Aceituno, ascendente a la cantidad de $1.478.527.
+
+- Fiscal del Ministerio de Obras Públicas.
