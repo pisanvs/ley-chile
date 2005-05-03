@@ -1,0 +1,3 @@
+Por decreto MOP Nº 196 de fecha 29 de marzo de 2005, se expropiaron los lotes de terrenos Nºs. 45 y 46, superficies 1.710 y 1.945 m2, rol Nº 1271-22, comuna de Coronel, para la obra "Camino Ruta O-852, sector Coronel - Patagual, Tramo Km. 0,00000 a Km. 17,91963", VIII Región y se acordó el valor de la indemnización con su propietario Javier Neira Contreras, ascendente a la cantidad de $5.592.488.
+
+- Fiscal del Ministerio de Obras Públicas.
