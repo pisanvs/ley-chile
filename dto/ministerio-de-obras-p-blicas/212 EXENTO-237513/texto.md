@@ -1,0 +1,3 @@
+Por decreto exento M.O.P. Nº 212 de 29 de marzo de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3-A, para la obra: Mejoramiento accesos al puerto de Arica (Capitán Avalos), sector Av. Renato Rocca - Ruta 5, Tramo Km. 0,00000 a Km. 5,97442, que figura a nombre de Ponce Silva Humberto, rol de avalúo 2700-1, comuna de Arica, I Región, superficie 422,77 M2. La Comisión de Peritos, fijó con fecha 28 de abril de 2003, en la cantidad de $2.129.070. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
