@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 239, de 6 de abril de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: "Laja-Diguillín, área de riego Pemuco, Canal Culenco, Km. 0,041 a Km. 0,106", que figura a nombre de Guíñez Guíñez Luz del Carmen, rol de avalúo Nº 153-13, comuna de Pemuco, VIII Región, superficie: 646 m2. La Comisión de Peritos, fijó con fecha 5 de enero de 2003, en la cantidad de $342.380, para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
