@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 221 de fecha 31 de marzo de 2005, se expropiaron los lotes de terreno Nºs. 11 y 11-A, superficies 43 y 25 m2, respectivamente rol Nº860-13, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento ruta C-495, Camino Alto del Carmen - Conay, Provincia del Huasco, Región de Atacama, Etapa I" y se acordó el valor de indemnización con su propietario doña Guillermina Williams Cabrera, ascendente a la cantidad de $625.818.
+
+- Fiscal del Ministerio de Obras Públicas.
