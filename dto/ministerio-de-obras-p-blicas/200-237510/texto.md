@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 200 de 29 de marzo de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 4-A y 4-B, para la obra: Mejoramiento accesos al puerto de Arica (Capitán Avalos), sector Av. Renato Rocca - Ruta 5, Tramo Km.
+
+0,00000 a Km. 5,97442, que figuran a nombre de Serviu, roles de avalúo 676-34 y 676-33, comuna de Arica, I Región, superficies 3.427,93 M2 y 1.078,02 M2. La Comisión de Peritos, fijó con fecha 28 de abril de 2003, en las cantidades de $17.263.055, para el lote Nº4-A y $5.428.909, para el lote Nº4-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
