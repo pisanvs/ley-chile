@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 217 de fecha 31 de marzo del 2005, se expropió el lote de terreno Nº 51, superficie 182,5 m2, rol Nº45-68, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, II Etapa" y se acordó el valor de indemnización con su propietaria Alba del Rosario Chapilla Bravo, ascendente a la cantidad de $525.549.
+
+- Fiscal del Ministerio de Obras Públicas.
