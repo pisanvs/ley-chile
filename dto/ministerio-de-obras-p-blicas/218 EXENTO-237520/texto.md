@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 218 de fecha 31 de marzo del 2005, se expropió el lote de terreno Nº 42, superficie 210,3 m2, rol Nº55-8, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, I Etapa" y se acordó el valor de indemnización con su propietario Andrés del Carmen Ramos Contreras, ascendente a la cantidad de $871.099.
+
+- Fiscal del Ministerio de Obras Públicas.
