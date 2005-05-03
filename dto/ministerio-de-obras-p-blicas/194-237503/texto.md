@@ -1,0 +1,3 @@
+Por decreto MOP Nº 194 de fecha 29 de marzo de 2005, se expropió el lote de terreno Nº 61, superficie 440,4 m2, rol en trámite, comuna de Linares, para la obra "Camino Ruta L-45, Sector Linares - Llepo, Tramo Km. 2,750.2 a Km. 13,147", VII Región y se acordó el valor de la indemnización con su propietario Ilustre Municipalidad de Linares, ascendente a la cantidad de $13.335.878.
+
+- Fiscal del Ministerio de Obras Públicas.
