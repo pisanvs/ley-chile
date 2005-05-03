@@ -1,0 +1,3 @@
+Por decreto MOP Nº 195 de fecha 29 de marzo de 2005, se expropió el lote de terreno Nº 100-A, superficie 509 m2, rol Nº 1117-35, comuna de Castro, para la obra "Camino Ruta 5 Sur, Sector Quemchi - Castro, Tramo Km. 1.165,300 a Km. 1.184,93643", X Región y se acordó el valor de la indemnización con su propietaria Humberta Noemí Barrientos Gutiérrez, ascendente a la cantidad de $3.371.188.
+
+- Fiscal del Ministerio de Obras Públicas.
