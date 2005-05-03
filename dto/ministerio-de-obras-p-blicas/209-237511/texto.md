@@ -1,0 +1,3 @@
+Por decreto MOP Nº209 de fecha 31 de marzo de 2005, se expropió el lote de terreno Nº65-A, superficie 2.148 m², rol de avalúo Nº1110-35, comuna de Castro, para la obra "Camino Ruta 5 Sur, Sector Quemchi-Castro, Tramo Km. 1.165,300 a Km. 1.184,93643", X Región y se acordó el valor de la indemnización con su propietaria Mirta Elcira Cárcamo Cárcamo, ascendente a la cantidad de $5.487.683.
+
+- Fiscal del Ministerio de Obras Públicas.
