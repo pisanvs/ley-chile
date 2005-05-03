@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 216, de fecha 31 de marzo de 2005, se expropió el lote de terreno Nº 32, superficie 117,5 m2, rol de avalúo en trámite, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas-Central-Los Molles, Sector Juntas-Rapel, Tramo Km. 0,00000 a Km. 13,28846, I Etapa", IV Región, y se acordó el valor de la indemnización con su propietario Eric Musalem Rivera Vargas, ascendente a la cantidad de $430.359.
+
+- Fiscal del Ministerio de Obras Públicas.
