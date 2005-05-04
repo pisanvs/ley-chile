@@ -1,0 +1,13 @@
+Por resolución exenta Nº 1.048, de esta Subsecretaría, autorízase a SOCIEDAD DE DESARROLLO DE LA PESCA ARTESANAL S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Análisis del desembarque de Anchoveta y su fauna acompañante en embarcaciones cerqueras artesanales de Talcahuano y San Vicente, VIII Región".
+
+El objetivo principal consiste en determinar el comportamiento de los desembarques artesanales de Anchoveta en la VIII Región.
+
+La pesca de investigación se efectuará en el área marítima de la VIII Región desde la fecha de la presente resolución hasta el 31 de mayo de 2005, ambas fechas inclusive.
+
+Podrán participar en la presente pesca de investigación las siguientes embarcaciones artesanales, que se encuentren inscritas en el Registro Pesquero Artesanal de la VIII Región, sección Anchoveta y Sardina común: "Aguila Real", "Andrea C", "Condor IV", "Don Feña", "Don Humberto M", "Don Leonel", "Don Miguel", "Don Miguel II", "Don Nene", "Don Patricio", "Don Pedro M", "Don Pepe", "Don Rubén", "Don Tito R", "Don Valentín", "Doña Laura Rosa II", "Emelinda", "Galleguita II", "Graciela Nicole", "Jefte", "Josué", "Lidia C", "María Isabel", "Matías", "Mesana", "Miyasaki", "Nagasaki", "Paula Estefany", "Poseidon II", "Quenos", "Rainier Alejandro", "Rodrigo I", "Tío Chito", "Tsunami", "Jenny", "Yolanda S" y "Yumiragua".
+
+En cumplimiento del objetivo de la presente pesca de investigación, las naves participantes podrán extraer durante el período y en el área marítima indicada en el numeral 3º de la presente resolución, con red de cerco con malla anchovetera, una cuota total ascendente a 1.375 toneladas del recurso Anchoveta, las que podrán ser extraídas en calidad de fauna acompañante del recurso Sardina común y de otras especies pelágicas autorizadas con arte de cerco, en un porcentaje máximo de 40% medido en peso por viaje de pesca. Sin perjuicio de lo anterior, se permitirá que las naves participantes, sólo en una recalada por nave, puedan desembarcar Anchoveta en calidad de fauna acompañante del recurso Sardina común y de otras especies pelágicas autorizadas con arte de cerco, en un porcentaje máximo de 60% medido en peso por viaje de pesca. En caso que alguna nave participante de la presente pesca de investigación se excediere del porcentaje antes indicado, la nave infractora será excluida de la presente pesca de investigación.
+
+La peticionaria designa como persona responsable a don Hugo Arancibia Zamorano.
+
+Valparaíso, 11 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
