@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.078, de 14 de abril de 2005 de esta Subsecretaría, modifícase la resolución Nº 1.050 de 2005, de la Subsecretaría de Pesca que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Bases Técnicas para el Plan de Manejo Pesquerías Bentónicas Zona Contigua Regiones X y XI", en el sentido que a continuación se indica:
+
+a) En el numeral 3º, en el sentido de agregar el siguiente inciso final: "Las actividades de pesca de investigación que se realicen al norte de Islas Chauques se regirán por lo dispuesto en el numeral 17 bis de la presente resolución."
+
+b) En el numeral 8º letra i) en el sentido de señalar que de las 7.200 toneladas de erizo asignadas a la X Región, se reservarán 1.500 toneladas para ser extraídas en el área marítima de dicha región comprendida al norte de las Islas Chauques. La extracción de la cuota reservada a dicha área se regirá por las normas generales de acceso establecidas en la Ley General de Pesca y Acuicultura y por los procedimientos de control y fiscalización que establezca el Servicio Nacional de Pesca a estos efectos.
+
+c) Incorporar el siguiente numeral 17 bis: "las plantas de proceso que se encuentren inscritas en la presente pesca de investigación, ubicadas al norte de las Islas Chauques, deberán informar el abastecimiento de erizo, mediante el uso del formulario proporcionado por la ejecutora, el que deberá contener a lo menos la información relativa al número de cajas, cantidad de kilos, fecha y origen geográfico de las capturas. Esta información deberá remitirse diariamente vía fax o correo electrónico a la ejecutora."
+
+Valparaíso, 14 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
