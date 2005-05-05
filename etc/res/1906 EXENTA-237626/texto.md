@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 1.906 EXENTA, DE 2005
+
+Por resolución exenta Nº 1.906, de 29 de abril de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se declara extinguida prórroga extraordinaria de contrato de concesión, de 28 de enero de 1998, suscrito con Sociedad Touring Club-Tüv Rheinland Limitada, hoy "Sociedad Tüv Rheinland - Acchi Limitada", para operar cuatro plantas de revisión tipo B y una planta de revisión tipo A2, dispuesta por resolución Nº 1, de 1º de abril de 2004, de la misma Secretaría Regional, y se dispone el cierre de las plantas revisoras de dicho concesionario que se indican a contar del 3 de mayo de 2005.
+
+- Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
