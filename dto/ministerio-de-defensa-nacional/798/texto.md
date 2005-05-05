@@ -42,7 +42,11 @@ CAPITULO N° 1
 
 Definiciones
 
-1.1 Los términos de las unidades de medida que se empleen en las operaciones aéeas y terrestres de la aviación civil nacional, tendrán los significados siguientes:
+1.1 Los términos de las unidades de medida que se empleen en las operaciones aéreas y terrestres de la aviación civil nacional, tendrán los significados siguientes:
+
+ACTUACIÓN HUMANA:
+
+Capacidades y limitaciones humanas que repercuten en la seguridad y eficiencia de las operaciones aeronáuticas.
 
 AMPERE (A):
 
@@ -54,17 +58,17 @@ Es la actividad de un radionúclido que sufre una transición nuclear espontáne
 
 CANDELA (cd):
 
-La candela es la intensidad luminosa en una dirección dada de una fuente que emite radiación monocromática de frecuencia 540 x 10(12) hertz y cuya intensidad energética en esa dirección es 1/683 watt por estereorradián.
+Es la intensidad luminosa en una dirección dada de una fuente que emite radiación monocromática de frecuencia 540 x 1012 hertz y que tiene una intensidad radiante en esa dirección de 1/683 watt por estereoradián.
 
 COULOMB (C):
 
-Es la cantidad de electricidad transportada en 1 segundo por una corriente de 1 ampere. ESTEREORRADIAN (sr):
+Es la cantidad de electricidad transportada en 1 segundo por una corriente de 1 ampere. ESTEREORADIÁN (sr):
 
-El estereorradián es el ángulo sólido que tiene su vértice en el centro de una esfera y que corta sobre la superficie de la esfera, un área igual a la de un cuadrado cuyos lados tienen una longitud igual al radio de la esfera.
+El Estereoradián es el ángulo sólido que tiene su vértice en el centro de una esfera y que corta sobre la superficie de la esfera, un área igual a la de un cuadrado cuyos lados tienen una longitud igual al radio de la esfera.
 
 FARAD (F):
 
-Es la capacidad de un condenssador entre cuyas placas aparece una diferencia de potencial de 1 volt cuando está cargado con una cantidad de electricidad igual a 1 coulomb.
+Es la capacidad de un condenssador entre cuyas placas aparece una diferencia de potencia de 1 volt cuando está cargado con una cantidad de electricidad igual a 1 coulomb.
 
 GRADO CELSIUS (°C):
 
@@ -76,7 +80,7 @@ El gray es la energía entregada por radiación ionizante a una masa de materia 
 
 HENRY (H):
 
-Es la inductancia correspondiente a un flujo magnético de 1 weber por cada ampere de corriente eléctrica (1H = 1W/A).
+Es la inductancia correspondiente a un flujo magnético de 1 weber por cada ampere de corriente eléctrica (1Wb/A).
 
 HERTZ (Hz):
 
@@ -96,11 +100,11 @@ El Kilogramo es la unidad de masa; es igual a la masa del prototipo internaciona
 
 LITRO (L):
 
-El litro es la unidad de volumen para medir liquidos y gases, que es igual a 1 decímetro cubico.
+El litro es la unidad de volumen para medir líquidos y gases, que es igual a 1 decímetro cubico.
 
 LUMEN (lm):
 
-El lumen es el flujo luminoso emitido en un ángulo sólido de un estereorradián por una fuente puntual que posee una intensidad uniforme de 1 candela.
+El lumen es el flujo luminoso emitido en un ángulo sólido de un estereoradián por una fuente puntual que posee una intensidad uniforme de 1 candela.
 
 LUX (lx):
 
@@ -108,9 +112,9 @@ El lux es la iluminación producida por un flujo luminoso de 1 lumen distribuido
 
 METRO (m):
 
-Es la longitud de la trayectoria recorrida por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
+Es la longitud del camino recorrido por un rayo de luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de un segundo.
 
-MILLA NAUTICA (NM):
+MILLA NAUTICA (MN):
 
 Es la longitud exactamente igual a 1 852 metros.
 
@@ -120,7 +124,7 @@ Es la cantidad de sustancia de un sistema que contiene tantas entidades elementa
 
 NEWTON (N):
 
-Es la fuerza que aplicada a un cuerpo que posee una masa de 1 kilogramo le imparte una aceleración de 1 metro por segundo al cuadrado.
+Fuerza que aplicada a un cuerpo que posee una masa de 1 kilogramo le produce una aceleración de 1 metro por segundo al cuadrado.
 
 NUDO (kt):
 
@@ -174,13 +178,13 @@ El watt es la potencia que da origen a la producción de energía de 1 joule por
 
 WEBER (Wb):
 
-El weber es el flujo magnético que, al enlazar un círculo de una sola vuelta, produce en ese circuito una fuerza electromotriz de 1 volt, cuando se lo reduce a cero a un ritmo uniforme de 1 segundo.
+Flujo magnético que, al atravesar un circuito de una sola espira produce en ésta una fuerza electromotriz de 1 voltio cuando el flujo disminuye uniformemente a cero en un segundo.
 
 CAPITULO N° 2
 
 2.1 APLICACION.
 
-2.1.1 Las unidades de medidas, sus símbolos y las disposiciones contenidas en el presente reglamento, serán aplicables en todos los aspectos pertinentes a las operaciones aéreas y terrestres de la aviación civil que se desarrolla en el país.
+2.1.1 Las unidades de medidas, sus símbolos y las disposiciones contenidas en el presente reglamento, serán aplicables en todos los aspectos pertinentes a las operaciones aéreas y terrestres de la aviación civil que se desarrollan en el país.
 
 2.1.2 El Sistema Normalizado de unidades de Medida aquí establecido se basa en el Sistema Internacional de Unidades (SI), y en otras unidades de medida que sin pertenecer a él, su uso se considera necesario para satisfacer requerimientos específicos de la aviación civil.
 
@@ -190,7 +194,7 @@ CAPITULO N° 2
 
 2.1.5 La hora internacional que se utilice en aviación civil, corresponderá al Tiempo Universal Coordinado (UTC) que sustituye a la hora media de Greenwich (GMT).
 
-2.1.6 Este texto reglamentario será complementado por el Procedimiento de Reglamento Aeronáutico "Aplicación de las Unidades de Medida que se emplearán en las operaciones aéreas y terrestres de la Aviación Civil" DAP 05-01, publicado por la Dirección General de Aeronáutica Civil, en donde se presenta una guía para la aplicación del sistema Internacional de Medidas (SI); se determinan los factores de conversión de unidades de medidas; se dispone el procedimiento para expresar los equivalentes como múltiplos numéricos de unidades SI; se amplía el concepto de Tiempo Universal Coordinado (UTC); se establecen los procedimientos para uso y presentación de la fecha y de la hora en forma exclusivamente numérica y se consignan otras disposiciones de detalle que regulen la aplicación de esta normativa.
+2.1.6 Este Reglamento será complementado por un Procedimiento (DAP) publicado por la Dirección General de Aeronáutica Civil, donde se consignarán las disposiciones de detalle que regularán la aplicación de estas normas.
 
 ## Capítulo 3
 
@@ -206,49 +210,7 @@ Medida
 
 3.1.2.1 Los prefijos y símbolos que figuran en la tabla 3-1 serán usados para formar los nombres y símbolos de los múltiplos y submúltiplos decimales de las unidades SI.
 
-3.1.2.2 En el Capítulo 1 del Procedimiento de Reglamento Aeronáutico "Aplicación de las Unidades de Medida que se emplearán en las Operaciones Aéreas y Terrestres de la Aviación Civil" - DAP 05 01 de la Dirección General de Aeronáutica Civil, se indican las instrucciones sobre la aplicación general de los prefijos.
-
-TABLA 3-1.- PREFIJOS DE LAS UNIDADES SI
-
-________________________________________________________
-
-Factor por el que debe multiplicarse
-
-la unidad Prefijo Símbolo
-
-________________________________________________________
-
-1 000 000 000 000 000 000 = 10(18) exa E
-
-1 000 000 000 000 000 = 10(15) peta P
-
-1 000 000 000 000 = 10(12) tera T
-
-1 000 000 000 = 10(9) giga G
-
-1 000 000 = 10(6) mega M
-
-1 000 = 10(3) kilo k
-
-100 = 10(2) hecto h
-
-10 = 10(1) deca da
-
-0,1 = 10-1 deci d
-
-0,01 = 10-2 centi c
-
-0,001 = 10-3 mili m
-
-0,000 001 = 10-6 micro u
-
-0,000 000 001 = 10-9 nano n
-
-0,000 000 000 001 = 10-12 pico p
-
-0,000 000 000 000 001 = 10-15 femto f
-
-0,000 000 000 000 000 001 = 10-18 atto a
+3.1.2.2 SUPRIMIDO.
 
 3.2 UNIDADES AJENAS AL SI.
 
@@ -338,7 +300,7 @@ _______________________________________________________
 
 distancia milla
 
-náutica NM 1 NM = 1 852 m
+náutica MN 1 MN = 1 852 m
 
 (longitudinal)
 
@@ -406,7 +368,7 @@ _______________________________________________________
 
 1.3 Distancia (larga)
 
-(*) km NM
+(*) km MN
 
 1.4 distancia (corta) m
 
@@ -818,7 +780,9 @@ acústico (instantáneo) m3/s
 
 10.- FISICA NUCLEAR Y RADIACION DE IONIZACION.
 
-10.1 dosis absorbida Gy
+10.1 régimen de absorción
+
+de dosis Gy
 
 10.2 tasa de dosis absorbida Gy/s
 
@@ -832,7 +796,7 @@ radionúclidos Bq
 
 radiación C/kg
 
-10.6 tasa de exposición C/kg.s
+10.6 régimen de exposición C/kg.s
 
 (*) = Ver 3.3.1.f)
 
