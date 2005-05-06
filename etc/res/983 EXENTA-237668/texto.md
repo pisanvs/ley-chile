@@ -1,0 +1,7 @@
+Por resolución exenta Nº 983, de 6 de abril de 2005, de esta Subsecretaría, modifícase la resolución Nº 3713 de 2004, modificada mediante resolución Nº 448 de 2005, ambas de esta Subsecretaría, que autorizó al Centro de Investigación, Desarrollo y Capacitación en Ciencias del Mar, Mares Chile Limitada, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación de Merluza del Sur (Merluccius australis) en aguas interiores de la X Región", en el sentido de agregar al numeral 12 los siguientes incisos 3º y 4º:
+
+"Para los efectos de controlar adecuadamente la entrega de las etiquetas identificatorias de origen, los pescadores artesanales participantes en la presente pesca de investigación deberán informar por zona, a través de los representantes designados a estos efectos, el programa mensual de volúmenes de captura comprometido, por faena de pesca que proveerán las respectivas empresas. Dicha información deberá ser remitida a la consultora con a lo menos 72 horas de anticipación al inicio de las faenas extractivas.
+
+La consultora no entregará las etiquetas solicitadas cuando no haya concordancia entre la información de las faenas de pesca a proveer comunicada por la respectiva empresa y el programa mensual de volúmenes de captura comprometido por la respectiva zona.".
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
