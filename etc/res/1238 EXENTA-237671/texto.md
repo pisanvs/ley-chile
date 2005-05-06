@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.238, de 26 de abril de 2005 de esta Subsecretaría, déjase sin efecto la resolución Nº 2.585 de 2004, de esta Subsecretaría, que rechazó la solicitud Nº 203101180, presentada por Alfredo Julio Avalos Escudero, para un centro de cultivo ubicado en Bahía Ilque, al noreste de Punta Capacho, sector 3, X Región, en virtud del artículo 59 de la ley Nº 19.880, y por haber sido dictada fundada en un error de hecho.
+
+Valparaíso, 26 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
