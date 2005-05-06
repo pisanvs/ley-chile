@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.259, de 27 de abril de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203104008 presentada por LUCILA MERCEDES GUERRERO GALLEGOS y René Marcelo Paredes Paredes, para instalar y operar un centro de cultivo ubicado en Canal Caicaen, al norte de Punta Caicaen, Isla Calbuco, X Región.
+
+Valparaíso, 27 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
