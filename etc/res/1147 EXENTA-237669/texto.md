@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.147 de 25 de abril de 2005 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.995 de 2003, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA SAN JOSE S.A. para realizar actividades pesqueras con la nave "Ventisquero" con el Arhipiélago de Juan Fernández, Isla de Pascua, Islas Sala y Gómez e Islas Desventuradas, sobre recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
