@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 1.213 EXENTA, DE 2005
+
+Por resolución exenta Nº 1.213, de 4 de abril de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se dispuso el inicio de la puesta en marcha definitiva de la Concesión Uno, adjudicada a "Applus Chile S.A.", para operar en la comuna de Quinta Normal, una Planta Revisora Clase B, con cinco (5) líneas de revisión livianas; para operar en la comuna de Huechuraba, una Planta Revisora Clase B, con cinco (5) líneas de revisión livianas; para operar en la comuna de San Ramón, una Planta Revisora Clase B, con cinco (5) líneas de revisión livianas y; para operar en la comuna de Maipú, una Planta Revisora Clase B, con cinco (5) líneas de revisión livianas, a contar del 4 de abril de 2005.-
+
+Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
