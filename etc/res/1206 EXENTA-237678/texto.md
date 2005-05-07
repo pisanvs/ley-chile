@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.206, de 26 de abril de 2005, de esta Subsecretaría, modifícase la resolución Nº 332 de 2005, de la Subsecretaría de Pesca, que autorizó al INSTITUTO FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Renovación del estudio de unidades poblacionales en Congrio dorado en Magallanes, XII Región", en el sentido de reemplazar su numeral 4º, incisos 1º y 2º, por los siguientes:
+
+"Podrán participar en la presente pesca de investigación los pescadores artesanales inscritos en el Registro Pesquero Artesanal de la XII Región. Asimismo podrán participar las embarcaciones artesanales que se encuentren inscritas en el mencionado registro con anterioridad al 28 de febrero de 2005.
+
+Los interesados en participar en la presente pesca de investigación deberán inscribirse, previo al inicio de cada una de las faenas extractivas, ante el Instituto de Fomento Pesquero, acreditando el cumplimiento de los requisitos antes señalados. El consultor remitirá la inscripción al Servicio Nacional de Pesca para fines de fiscalización, previo al inicio de las actividades de investigación.".
+
+Valparaíso, 26 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
