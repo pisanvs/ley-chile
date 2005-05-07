@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.223, de 26 de abril de 2005 de esta Subsecretaría, autorízase a INVERSIONES PROCUR LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta Nº68, Nº1240, Placilla de Peñuelas, Valparaíso, V Región, donde podrá elaborar en las líneas de proceso Congelado y Fresco-enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
