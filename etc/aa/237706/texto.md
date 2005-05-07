@@ -1,0 +1,5 @@
+AUTO ACORDADO
+
+Corte de Apelaciones de Antofagasta.- Abandono de causas de la Reforma Procesal Penal.- De conformidad a los artículos 3 y 66 del Código Orgánico de Tribunales, con el objeto de adoptar medidas económicas necesarias para una mejor administración de justicia en relación con la aplicación del artículo 358 del Código Procesal Penal, se acuerda comunicar al Ministerio Público, Defensoría Penal Pública y abogados en general que para dar cumplimiento al anuncio referido en el artículo 358 del Código Procesal Penal sobre reglas generales de vista de los recursos, deberá hacerse conforme al Auto Acordado de la Excma. Corte Suprema de fecha 1º de diciembre de 2000, el día hábil anterior, o en su defecto el mismo día, antes de comenzar la respectiva audiencia, esto es, entre las 08:00 y las 09:00 horas.
+
+- Ruth Alvarado Villarroel, Secretaria Titular.
