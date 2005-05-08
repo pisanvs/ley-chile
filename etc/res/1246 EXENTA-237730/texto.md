@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.246, de 27 de abril de 2005, de esta Subsecretaría, autorízase a las organizaciones de PESCADORES ARTESANALES PERTENECIENTES A LA FLOTA SUR 2, que se indican en la resolución extractada, para ampliar el plazo de operaciones para realizar actividades pesqueras extractivas correspondientes al mes de abril, hasta el día 30 de dicho mes, inclusive.
+
+Valparaíso, 27 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
