@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.076, de 14 de abril de 2005, de esta Subsecretaría, autorízase a ADAN ELIAS ROJAS RAMOS para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector Punta Verde, camino Barranquilla, Km 12, Caldera, III Región, donde podrá elaborar en la línea de proceso de picado el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 14 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
