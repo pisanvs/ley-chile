@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.267, de 28 de abril de 2005, de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A. para ampliar actividades pesqueras extractivas con la nave "Quilpolemu", en orden a realizar actividades pesqueras con la nave antes individualizada en las áreas marítimas que en cada caso se indican, por fuera del área de reserva artesanal, donde podrá capturar los recursos hidrobiológicos que a continuación se señalan: a) Entre la V a VIII Regiones, con cerco: Pampanito y Bacaladillo o mote; b) En la X Región, con cerco: Pampanito y Bacaladillo o mote.
+
+Valparaíso, 28 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
