@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.140, de 25 de abril de 2005, autorízase a LOTA PROTEIN S.A., para continuar desarrollando actividades pesqueras extractivas con la nave "Santa María II", las que fueran autorizadas a Pesquera Lota Vedde S.A. Santa María y Compañía Comandita por Acciones, del mismo RUT y domicilio, mediante resoluciones citadas en Visto, en virtud de la escritura pública y demás disposiciones legales también citadas en Visto.
+
+Valparaíso, 25 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
