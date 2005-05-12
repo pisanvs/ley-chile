@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 189, DE 2005
+
+Por resolución Nº 189, de 28 de abril de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VI Región, se dispuso el inicio de la puesta en marcha definitiva de la Concesión Uno, adjudicada a "Revisiones Técnicas El Libertador Limitada", para operar en la comuna de San Vicente una Planta Revisora Clase AB, dotada de dos (2) líneas de revisión tipo liviana y una (1) línea de revisión tipo pesada; para operar en la comuna de Rancagua, una Planta Revisora Clase AB, dotada de cuatro (4) líneas de revisión tipo liviana y dos (2) líneas de revisión tipo pesada, y para operar en la comuna de San Fernando, una Planta Revisora Clase AB, dotada de una (1) línea de revisión tipo liviana y una (1) línea de revisión tipo pesada, a contar del 29 de abril de 2005.
+
+- Pablo Pallamar Azúa, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Sexta Región.
