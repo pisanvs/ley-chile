@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.229, de 26 de abril de 2005, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A., para ampliar actividades pesqueras extractivas con la nave "Licantén", en el área marítima correspondiente a la I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar, con cerco: Pampanito.
+
+Valparaíso, 26 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
