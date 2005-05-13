@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.001, de 6 de abril de 2005, de esta Subsecretaría, autorízase a JOSE LUIS ROJAS SCHULZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en pasaje El Pangal, sitio Nº 7, manzana 14, Isla Robinson Crusoe, comuna de Juan Fernández, V Región, donde podrá elaborar en las líneas de proceso de Cocido y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 6 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
