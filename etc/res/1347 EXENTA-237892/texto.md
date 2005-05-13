@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.347, de 5 de mayo de 2005, de esta Subsecretaría, deniégase la solicitud presentada por don LAUTARO JAVIER OPAZO TORRES, de ampliación de plazo para iniciar actividades pesqueras extractivas con la nave Laureano VI, autorizada para operar mediante resolución Nº 31 de 2005, de la Subsecretaría de Pesca, en atención a que los hechos invocados por el solicitante no configuran una causal de fuerza mayor.
+
+Declárase la caducidad de la resolución exenta Nº 31 de 2005, de esta Subsecretaría, que autorizó a Lautaro Javier Opazo Torres, antes individualizado, para operar por sustitución la nave Laureano VI, en el área marítima comprendida entre Punta Liles y el paralelo 47°' L.S., por fuera del área de reserva artesanal, con espinel, sobre el recurso Bacalao de profundidad, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
