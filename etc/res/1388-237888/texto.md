@@ -1,0 +1,3 @@
+Por resolución Nº 1.388, de 6 de mayo de 2005, de esta Subsecretaría, déjase sin efecto la resolución Nº 1.383 de 2005, que incorporó el numeral 19 bis a la resolución Nº 3.729 de 2004, modificada mediante resoluciones Nº 181, Nº 861 y Nº1.062, todas de 2005, de la Subsecretaría de Pesca, que autorizó a la UNIVERSIDAD DE VALPARAISO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Administración de un sistema de control de esfuerzo y desembarque de capturas en la pesquería artesanal de merluza del sur de la XI Región".
+
+Valparaíso, 6 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
