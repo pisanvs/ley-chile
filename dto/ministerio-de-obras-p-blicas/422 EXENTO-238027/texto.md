@@ -1,0 +1,3 @@
+Por Decreto MOP exento Nº 422 de fecha 29 de abril de 2005, se expropió el lote de terreno Nº 12, superficie 2.416 m2, rol de avalúo Nº 249-40, comuna de Salamanca, para la obra "Readecuación Entrega Final Canal Panguesillo, Sistema Regadío Valle del Choapa", Obras: "Primera Entrega" y "Segunda Entrega", comuna de Salamanca, provincia del Choapa, Región de Coquimbo", IV Región, y se acordó el valor de la indemnización con su propietario Manuel de la Cruz Cepeda Carvajal, ascendente a la cantidad de $2.544.185.
+
+Fiscal del Ministerio de Obras Públicas.
