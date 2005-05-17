@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 257 de 18 de abril de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 389 para el "PROYECTO: CAMINO INTERNACIONAL RUTA 60 CH. SECTOR 2:
+
+KM. 0.000,00 AL KM. 38.500,00. TRAMO 2: KM. 21.000,00 AL KM. 38.500,00" Quinta Región, que figura a nombre de PENALOZA VERDUGO JOSE OSVALDO, rol de avalúo 332-432, comuna de Limache, superficie 20.513 m2. La comisión de peritos integrada por los señores Mufida Viola Abuawad Elias, Marcelo Francisco Valenzuela Pérez y José Cristián Larraín Barros, fijó con fecha 3 de febrero de 2005, el valor provisional de la indemnización en la cantidad de $15.844.100.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
