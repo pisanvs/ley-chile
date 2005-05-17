@@ -1,0 +1,5 @@
+Por Decreto Exento MOP Nº 271, de 26 de abril de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 26-I2 para la obra: "RED VIAL LITORAL CENTRAL. SECTOR 3: EJE COSTERO INTERIOR. SUBTRAMO: ROSARIO - ORREGO ABAJO KM.
+
+20.673,30 KM. 27.440,00", Quinta Región, que figura a nombre de AMUNATEGUI MEZA AGUSTINA, rol de avalúo 162-55, comuna de Casablanca, superficie 301 m2. La comisión de peritos integrada por los señores Luis Pablo Padilla Vergara, Eduardo Alejandro Silva Aracena y Pablo Daniel Valdés Malinarich, fijó con fecha 28 de febrero de 2005, el valor provisional de la indemnización en la cantidad de $451.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
