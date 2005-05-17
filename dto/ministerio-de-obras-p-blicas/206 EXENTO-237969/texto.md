@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 206 de fecha 29 de marzo de 2005, se expropiaron los lotes de terreno Nos 14-I, 15, 15-A, 15-B, 15-C, 15-D, 15-E, 15-F, 15-G, 15-H, 16, 16-A, 16-B, 16-C, 16-D, 14Z35, 14Z36, 14Z37 y 14Z38, superficies 2.986 m², 366 m², 68 m², 14.255 m², 226 m², 1.180 m², 412 m², 802 m², 1.880 m², 2.692 m², 550 m², 515 m², 307 m², 1.120 m², 2.727 m², 182 m², 52 m², 8 m², 43 m², rol de avalúo Nº 215-34, comuna de Curepto, para la obra "Camino Ruta K-60 y K-16, Sector Mejoramiento Gualleco Curepto - Puente Lautaro, Tramo Km. 46,180 a Km. 83,91430", VII Región y se acordó el valor de la indemnización con su propietaria Trinidad Campos Díaz, ascendente a la cantidad de $4.275.721.-
+
+Fiscal del Ministerio de Obras Públicas.
