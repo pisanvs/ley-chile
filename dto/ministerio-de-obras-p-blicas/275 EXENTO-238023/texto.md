@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 275 de fecha 26 de abril de 2005, se expropió el lote de terreno Nº 55, superficie 358,0 m2, rol Nº 45-69, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, II Etapa", IV Región, y se acordó el valor de la indemnización con su propietario Samuel de Jesús Minchea Parra, ascendente a la cantidad de $735.084.
+
+Fiscal del Ministerio de Obras Públicas.
