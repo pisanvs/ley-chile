@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 270 de fecha 26 de abril de 2005, se expropiaron los lotes de terreno Nºs. 75 y 78, superficie 84,9 y 87,3 m2 respectivamente, rol Nº 56-98, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, II Etapa", IV Región, y se acordó el valor de la indemnización con su propietario José Antonio Bou Pizarro, ascendente a la cantidad de $1.000.682.
+
+Fiscal del Ministerio de Obras Públicas.
