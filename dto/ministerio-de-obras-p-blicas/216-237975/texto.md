@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 216 de 31 de marzo de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropiaron los lotes de terreno Nºs 561-E y 561-F, para la obra: "CONCESION INTERNACIONAL RUTA 5. TRAMO: SANTIAGO - TALCA. SECTOR C: ACCESO SUR A SANTIAGO. KM. 17.700,00 AL KM. 46.600,00"; Región Metropolitana, que figuran a nombre de COVARRUBIAS BERNALES ALFONSO MAR, rol de avalúo 321-98, comuna de Buin, superficies de 273 y 493 m2, respectivamente. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Eduardo Alejandro Silva Aracena y Ricardo Antonio Strickler Arellano, fijó con fecha 7 de febrero de 2005, el valor provisional de la indemnización en las cantidades de $3.518.000.- para el lote Nº 561-E y $4.825.000.- para el lote 561-F. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
