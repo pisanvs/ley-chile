@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 64, de 11.05.2005, Serviu VI Región del Libertador Bernardo O'Higgins ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez Nº 1370, Rol de Avalúo Nº 785-8, de la comuna de Rancagua, superficie aproximada de 207,90 m2 y 612,40 m2 de terreno, delimitada en Polígono 1) N-O-P-Q-R-S-N. Polígono 2) N-S-T-U-V-W-X-Y-N conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de la Sucesión de don Juan Orlando Osorio Abarca, a fojas 3.275, Nº 2.228, del año 1986, "Proyecto Mejoramiento Eje Miguel Ramírez-Camino a Machalí, Tramo Bombero Villalobos-Límite comuna Machalí", conforme al art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha abril de 2005, monto provisional en $53.054.750.
+
+- Director Serviu VI Región.
