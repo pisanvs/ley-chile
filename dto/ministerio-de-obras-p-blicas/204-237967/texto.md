@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 204 de 29 de marzo de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206 de 1960, se expropió el lote de terreno Nº 38 para la obra:
+
+"PROYECTO: CONCESION INTERNACIONAL SISTEMA AMERICO VESPUCIO NOR - PONIENTE. AVDA. EL SALTO - RUTA 78. TRAMO 2: PEDRO FONTOVA - RUTA 5 NORTE", Región Metropolitana, que figura a nombre de PLAZA OESTE S.A., rol de avalúo 3130-190, comuna de Huechuraba, superficie 318 m2. La comisión de peritos integrada por los señores Patricia Verónica Zavala Contreras, Omar Alexis Gaete González y Jimena Francisca Asenjo Burgos, fijó con fecha 18 de enero de 2005, el valor provisional de la indemnización en la cantidad de $24.278.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186,de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
