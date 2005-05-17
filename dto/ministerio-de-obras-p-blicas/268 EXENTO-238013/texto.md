@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 268 de fecha 26 de abril de 2005, se expropió el lote de terreno Nº 7, superficie 156,0 m2, Rol en trámite, comuna de Monte Patria, IV Región, para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, I Etapa", y se acordó el valor de indemnización con su propietaria Benedicta del Carmen Torrejón Carmona y otros, ascendente a la cantidad de $485.906.
+
+Fiscal del Ministerio de Obras Públicas.
