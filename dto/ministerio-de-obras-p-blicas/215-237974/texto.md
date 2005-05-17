@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 215 de 31 de marzo de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropió el lote de terreno Nº 563-E1, para la obra: "CONCESION INTERNACIONAL RUTA 5. TRAMO: SANTIAGO - TALCA. SECTOR C: ACCESO SUR A SANTIAGO. KM. 17.700,00 AL KM. 46.600,00"; Región Metropolitana, que figura a nombre de AGRIC E INV MOCA LTDA, rol de avalúo 1197-2, comuna de Buin, superficie 1.730 m2. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Eduardo Alejandro Silva Aracena y Ricardo Antonio Strickler Arellano, fijó con fecha 7 de febrero de 2005, el valor provisional de la indemnización en la cantidad de $5.424.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
