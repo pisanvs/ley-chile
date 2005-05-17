@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 1102 de 22 de noviembre de 2004, modificado por Decreto 179 de 22 de marzo de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 25 para la obra:
+
+"ACCESO AL PUERTO DE SAN ANTONIO RUTA 78 SECTOR: AGUA BUENA - PUERTO SAN ANTONIO KM. 1.200,00 A KM. 7.840,00", QUINTA Región, que figura a nombre de SERV INTEGRADOS DE TRANSPORTES SA, rol de avalúo 4025-1, comuna de San Antonio, superficie 115 m2. La comisión de peritos integrada por los señores Fernando José Senerman Mandel, Cristian Larraín Arnolds y Mufida Viola Abuawad Elías, fijó con fecha 18 de octubre de 2004, el valor provisional de la indemnización en la cantidad de $6.241.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
