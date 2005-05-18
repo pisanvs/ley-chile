@@ -3066,6 +3066,20 @@ Durante ese plazo el beneficiario deberá requerir del librador la orden de no p
 
 El portador del cheque puede ser el propio girador que lo pudo haber extraviado antes de entregarlo y, por lo tanto, para resguardar sus intereses, debería hacer el mismo las publicaciones del caso. Sin embargo, por las razones ya indicadas en los numerales precedentes, el banco no puede rechazar una orden de no pago de su comitente aunque no se haya cumplido con dichas publicaciones.
 
+12.4.- Forma de dar la orden de no pago o revocación de un cheque.
+
+Las órdenes de no pago a que se refieren los numerales precedentes, deberán darse por el librador o el portador del cheque, según sea el caso, por un medio fidedigno. Para este efecto se considera un medio fidedigno el servicio telefónico que para ese fin debe tener habilitado el banco. Ese servicio deberá contar con un medio que le permita al banco identificar al usuario, cuando éste sea el librador del cheque. Sin perjuicio de mantener en forma permanente ese servicio, los avisos de no pago pueden darse también por escrito, sea por carta o mediante formularios que para ese fin disponga el banco, como también por fax, o a través de correo electrónico u otro medio que se tenga habilitado y que opere en forma permanente.
+
+En todo caso, el servicio telefónico o cualquier otro medio de comunicación remota que se utilice, deberá estar habilitado en forma permanente, durante las 24 horas y todos los días del año, esto es incluidos los inhábiles bancarios y festivos. Estos servicios deben ser gratuitos.
+
+La Ley dispone que el banco librado, receptor de una orden de no pago, deberá registrarla e identificarla mediante un número o código de recepción, dejando constancia de la fecha y hora en que fue recibida, datos que se comunicarán al librador o al portador, según corresponda, en el momento en que se proceda al registro del respectivo aviso.
+
+Si el librador o el portador de un cheque no dispone de una clave de acceso que lo identifique para dar un aviso de no pago por vía telefónica o por un medio electrónico, deberá ratificar su instrucción ante el banco librado hasta las diez horas del día hábil bancario inmediatamente siguiente.
+
+En el caso de aquellas órdenes de no pago impartidas por el portador de un cheque, por cualquiera de los medios antes indicados, el banco librado suspenderá el pago del documento por diez días a contar de la fecha en que reciba el aviso correspondiente. Dicha suspensión podrá quedar sin efecto si dicho portador no hubiere ratificado la orden, según lo señalado en el párrafo precedente."
+
+Las disposiciones de este nuevo numeral regirán a contar del 5 de agosto próximo, de conformidad con lo dispuesto en el artículo transitorio de la Ley N° 20.011 que establece un plazo de noventa días, contados desde la fecha de publicación de la ley, para que los bancos provean los sistemas necesarios para darle cumplimiento.
+
 ### 13. Protesto de cheques
 
 13.1. Generalidades.
@@ -9036,9 +9050,11 @@ La información correspondiente, con el detalle de las operaciones que generan e
 
 3.3.- Pérdida, hurto o robo de la tarjeta.
 
-En caso de pérdida, hurto o robo de la tarjeta de crédito, el titular deberá comunicar de inmediato este hecho al emisor u operador, según corresponda, debiendo dicho emisor u operador realizar las diligencias necesarias para que la tarjeta quede bloqueada, con lo cual las transacciones posteriores que pudieren efectuarse se regirán por los acuerdos especiales de responsabilidad que deben indicarse en el contrato.
+En caso de pérdida, hurto o robo de la tarjeta de crédito, el titular deberá comunicar de inmediato este hecho al emisor u operador, según corresponda, debiendo dicho emisor u operador mantener los servicios de comunicación que le permitan al titular avisarle en cualquier momento y en forma gratuita, el extravío, hurto o robo de su tarjeta.
 
-El emisor u operador, según el caso, deberá establecer un procedimiento adecuado para que el titular de la tarjeta pueda cumplir oportunamente con lo indicado en el párrafo precedente.
+El emisor deberá informar en el estado de cuenta de las tarjetas de crédito o en un anexo al mismo, así como en su página web, en lo posible junto a los anuncios en que ofrezca el servicio de esas tarjetas, el procedimiento que el afectado debe seguir y la vía que puede utilizar para dar el correspondiente aviso de extravío, hurto o robo. En esa información se debe indicar, en todo caso, el número telefónico de atención permanente que haya habilitado para ese servicio y que debe estar disponible todos los días del año, durante las 24 horas, para recibir dichos avisos como también la dirección de su casilla electrónica, en el caso de ser igualmente un medio para ese fin.
+
+El emisor o el operador, en su caso, deberá registrar la recepción del aviso tan pronto lo reciba y proporcionar al tarjetahabiente en ese mismo momento y por la misma vía por la que lo recibió, un número o código de recepción y la constancia de la fecha y hora de ingreso.
 
 3.4.- Información de tarjetas que se dejen sin efecto.
 
