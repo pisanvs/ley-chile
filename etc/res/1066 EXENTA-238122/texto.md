@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.066, de 13 de abril de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Cadenas, VIII Región, individualizada en el artículo 1º Nº 1 del decreto exento Nº 74 de 2004, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la AGRUPACION DE PESCADORES ARTESANALES Y BUZOS MARISCADORES DE ISLA SANTA MARIA.
+
+Valparaíso, 13 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
