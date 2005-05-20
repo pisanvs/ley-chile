@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.339, de 5 de mayo de 2005, de esta Subsecretaría, modifícase la resolución Nº 1.050 de 2005, modificada mediante resoluciones Nº 1.078 y Nº 1.118, ambas de 2005, todas de la Subsecretaría de Pesca que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Bases Técnicas para el Plan de Manejo Pesquerías Bentónicas Zona Contigua Regiones X y XI", en el sentido de incorporar el siguiente numeral 3º bis:
+
+"3.- bis. Las actividades de pesca de investigación que se realicen en el área de aguas interiores al sur del paralelo 47°10' L.S. y hasta el límite sur de la XI Región se regirán por las siguientes reglas:
+
+a) Las capturas efectuadas en dicha área se imputarán a la cuota autorizada para los buzos de la XI Región en el numeral 8º ii) de la presente resolución y las actividades de extracción se regirán por las normas generales de acceso establecidas en la Ley General de Pesca y Acuicultura y por los procedimientos de control y fiscalización que establezca el Servicio Nacional de Pesca a estos efectos.
+
+b) Las plantas de proceso que se encuentren inscritas en la presente pesca de investigación, ubicadas al sur del paralelo 47°10' L.S. y hasta el límite sur de la XI Región, deberán informar el abastecimiento de erizo, mediante el uso del formulario proporcionado por la ejecutora, el que deberá contener a lo menos la información relativa al número de cajas, cantidad de kilos, fecha y origen geográfico de las capturas. Esta información deberá remitirse diariamente vía fax o correo electrónico a la ejecutora.".
+
+Valparaíso, 5 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
