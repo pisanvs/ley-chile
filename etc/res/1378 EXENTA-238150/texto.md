@@ -1,0 +1,3 @@
+Por resolución Nº 1.378 exenta de 5 de mayo de 2005 de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para ampliar actividades pesqueras extractivas con la nave "Oficina Vigo", en el área marítima correspondiente a la I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar con cerco: Pampanito.
+
+Valparaíso, 5 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
