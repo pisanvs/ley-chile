@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.123, de 22 de abril de 2005, de esta Subsecretaría, autorízase a UNIVERSIDAD DE TALCA, para efectuar actividades experimentales de acuicultura de langosta de agua dulce, en un sistema de cultivo controlado ubicado Estación Experimental Panguilemo, Predio Laguna Negra, Pelarco, VII Región, por el período de veintiún meses a contar de la fecha de la presente resolución.
+
+Valparaíso, 22 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
