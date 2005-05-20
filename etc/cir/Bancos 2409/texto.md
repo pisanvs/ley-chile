@@ -6014,21 +6014,15 @@ En todo caso, cuando una institución financiera opte por constituir su reserva 
 
 Dicha reserva técnica podrá enterarse con los siguientes recursos registrados, conforme a las normas vigentes, en cuentas de las partidas 1005 y 1010:
 
-a) Billetes y monedas de curso legal en el país o monedas extranjeras, que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en transito al Banco Central de Chile o en custodia en empresas transportadoras de valores;
+a) Billetes y monedas de curso legal en el país o monedas extranjeras, que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en transito al Banco Central de Chile o en custodia en empresas transportadoras de valores, con excepción de los importes que se mantengan como "Caja en custodia en otras entidades financieras.
 
-b) Depósitos a la vista en el Banco Central de Chile.
+b) Depósitos mantenidos en el Banco Central de Chile en la "Cuenta Depósito de Reserva Técnica".
 
-c) Depósitos "overnight" en el Banco Central de Chile; y
-
-d) Depósitos mantenidos en el Banco Central de Chile según Capítulo IV.B.8.7 del Compendio de Normas Financieras, registrados en la cuenta "Depósitos de liquidez".
-
-Por consiguiente, podrán considerarse para reserva técnica todos los saldos que deben incluirse en las partidas 1005 y 1010, con excepción de los importes de la cuenta "Caja en custodia en otras entidades financieras.
+c) Depósitos en moneda extranjera, en cuenta corriente y depósitos "overnight" en el Banco Central de Chile.
 
 Asimismo, la reserva técnica podrá enterarse con documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, para cuyo vencimiento no falten más de 90 días, según lo indicado en el numeral 5.3 de este título.
 
-Los saldos de dinero efectivo disponibles en caja, en moneda chilena o extranjera, que se computen para enterar la reserva técnica, así como los saldos de cuentas corrientes o los depósitos especiales mantenidos en el Banco Central de Chile que las instituciones financieras destinen a estos fines, no servirán,en la fecha en que se imputen a la reserva técnica, para dar
-
-cumplimiento a la obligación de encaje establecida en el artículo 63 de la Ley General de Bancos.
+Los saldos de dinero efectivo disponibles en caja, en moneda chilena o extranjera, que se computen para enterar la reserva técnica, así como los depósitos en moneda extranjera mantenidos en el Banco Central de Chile, no servirán para dar cumplimiento a la obligación de encaje establecida en el artículo 63 de la Ley General de Bancos, en la fecha en que se imputen a la reserva técnica y mientras se mantengan con esa finalidad.
 
 5.1. Saldos en moneda extranjera de caja y de cuentas corrientes mantenidas en el Banco Central de Chile.
 
@@ -6036,13 +6030,7 @@ Los saldos en billetes y monedas extranjeras, mantenidos en caja, así como los 
 
 Superintendencia.
 
-5.2. Depósitos constituidos específicamente en el Banco Central de Chile para reserva técnica.
-
-No obstante que las entidades financieras pueden cumplir la exigencia de reserva técnica entre otros, con los saldos que mantienen en sus cuentas corrientes con el Banco Central de Chile, podrán hacerlo también mediante depósitos especiales
-
-en pesos, moneda chilena, enterados exclusivamente con ese objeto en el Instituto Emisor.
-
-5.3.-Documentos emitidos por el Banco Central de Chile y la Tesorería General de la República.
+5.2.-Documentos emitidos por el Banco Central de Chile y la Tesorería General de la República.
 
 La reserva técnica podrá constituirse con los documentos emitidos por el Banco Central de Chile, para cuyo vencimiento total o parcial no falten más de noventa días. También podrán mantener como reserva técnica los pagarés ordinarios, descontables o reajustables, emitidos por la Tesorería General de la República, cuando cumplan esas mismas condiciones relativas a su vencimiento.
 
@@ -6096,9 +6084,9 @@ Los importes de caja que las instituciones financieras apliquen para enterar la 
 
 Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar reserva técnica, serán registrados en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile", de la partida 1010.
 
-2.2.- Control de asignación de depósitos que pueden destinarse tanto a reserva técnica como a encaje.
+2.2.- Control de asignación de depósitos en moneda extranjera que pueden destinarse tanto a reserva técnica como a encaje.
 
-En el caso de depósitos que pueden destinarse tanto a reserva técnica como a encaje, los montos que efectivamente se utilicen para constituir la reserva técnica se demostrarán diariamente en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165.
+En el caso de depósitos en moneda extranjera que pueden destinarse tanto a reserva técnica como a encaje, los montos que efectivamente se utilicen para constituirla se demostrarán diariamente en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en la reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165.
 
 3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
 
@@ -6152,7 +6140,7 @@ Los reajustes e intereses por pagar de las obligaciones que han sido traspasadas
 
 ### 1. Relación de la reserva técnica con el encaje
 
-Los importes sujetos a reserva técnica según el artículo 65 de la Ley General de Bancos, no están afectos a encaje, y los saldos de caja y de cuentas corrientes con el Banco Central de Chile utilizados para enterar la reserva técnica no pueden, a su vez, ser empleados para enterar el encaje mantenido. Asimismo, el monto depositado en el Banco Central de Chile especialmente para constituir la reserva técnica, registrado en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile" no podrá en caso alguno ser utilizado para enterar el encaje mantenido.
+Los importes sujetos a reserva técnica según el artículo 65 de la Ley General de Bancos, no están afectos a encaje y los saldos de caja, así como los depósitos "overnight" y en cuenta corriente en moneda extranjera en el Banco Central de Chile, que se utilicen para enterar la reserva técnica y los importes depositados en la "Cuenta Depósito de Reserva Técnica" no podrán, a su vez, ser empleados para enterar el encaje mantenido.
 
 Las obligaciones por las cuales la institución deba constituir reserva técnica se deducirán de las obligaciones a la vista netas afectas a encaje y, en caso deque dichas obligaciones fueren inferiores al monto deducible, el remanente podrá ser rebajado de las obligaciones a plazo afectas a encaje.
 
