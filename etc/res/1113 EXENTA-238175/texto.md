@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.113, de 21 de abril de 2005, de esta Subsecretaría, autorízase a SALMOALIMENTOS S.A. para ampliar actividades pesqueras extractivas con la nave "Carolina III", autorizadas por las resoluciones 2.023, Nº 2.526 y Nº 3.357, todas de 2004, de esta Subsecretaría, en orden a realizar actividades pesqueras con la nave antes individualizada, en las áreas marítimas que en cada caso se indican, por fuera del área de reserva artesanal, donde podrá capturar los recursos hidrobiológicos que a continuación se señalan:
+
+a) En el área marítima comprendida entre la V a VII y X Regiones, con cerco: Pampanito, Brótula, Cazón, Chancharro, Congrio dorado, Matahuira, Pejerrata, Calamar, Pota del Atlántico o Calamar Ilex y Pulpo; b) En el área marítima comprendida entre la V a VII Regiones y desde el paralelo 41º28,6' L.S. hasta límite sur de la X Región, con cerco: Raya volantín; c) En el área marítima comprendida entre la V a VII Regiones y desde el límite norte de la X Región hasta el paralelo 41º28,6' L.S., con cerco: Merluza del sur o austral. Valparaíso, 21 de abril de 2005.-
+
+Felipe Sandoval Precht, Subsecretario de Pesca.
