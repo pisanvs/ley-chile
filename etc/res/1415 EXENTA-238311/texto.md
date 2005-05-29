@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.415, de 12 de mayo de 2005, de esta Subsecretaría, autorízase a Okran S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Santa Adela Nº 0380, Recoleta, Santiago, Región Metropolitana, donde podrá elaborar en las líneas de proceso de Congelado y Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
