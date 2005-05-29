@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.416, de 12 de mayo de 2005, de esta Subsecretaría, autorízase a YOHANA SOLEDAD ZAMBRA VERGARA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Estrella Marina Nº 2720, Guanaqueros, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
