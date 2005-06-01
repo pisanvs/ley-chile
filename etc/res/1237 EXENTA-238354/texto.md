@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.237, de 26 de abril de 2005, de esta Subsecretaría, autorízase a ELISABETH PINTO VELIZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Parcela Nº 32, sector La Hacienda, Isla Mocha, comuna de Tirúa, VIII Región, donde podrá elaborar en las líneas de proceso de congelado, cocido y fresco enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de abril de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
