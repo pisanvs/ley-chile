@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.417, de 12 de mayo de 2005, de esta Subsecretaría, autorízase a MARCIAL JAIME VEGA SOTO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Juan Cruz Vega Nº 150, población Buen Retiro, Coronel, VIII Región, donde podrá elaborar en las líneas de proceso de Fresco refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
