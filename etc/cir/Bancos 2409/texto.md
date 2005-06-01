@@ -1584,7 +1584,7 @@ A efectos ilustrativos, una buena gestión en relación con esta materia puede m
 
 - La extensión y profundidad de las auditorías es proporcional al nivel de riesgo y al volumen de actividad. La función de auditoría está en posición de evaluar el cumplimiento de las políticas, la eficacia de los procedimientos (de operación, control de riesgos, contables y legales) y los sistemas de información.
 
-En todo caso, para los efectos del cumplimiento de lo dispuesto por el Banco Central de Chile en el numeral 1.1 del Capítulo III.B.2 de su Compendio de Normas Financieras, debe entenderse que la política de administración de liquidez concuerda con los criterios de evaluación de esta Superintendencia, cuando esa política se ciña a lo indicado en el Anexo N° 2 del presente Capítulo.
+En todo caso, para los efectos del cumplimiento de lo dispuesto por el Banco Central de Chile en el numeral 1.1 del Capítulo III.B.2 de su Compendio de Normas Financieras, debe entenderse que la política de administración de liquidez concuerda con los criterios de evaluación de esta Superintendencia, cuando esa política se ciña a lo indicado en el Anexo N° 2 del presente Capítulo. Asimismo, en relación con lo dispuesto en el numeral 2.2 del mencionado Capítulo III.B.2, se entenderá que la política de administración de riesgos de mercado cumple con los criterios mínimos exigidos, cuando dicha política considere todos los aspectos señalados en el Anexo N° 3 de las presentes normas.
 
 3.3.- Administración del riesgo operacional.
 
@@ -1787,6 +1787,94 @@ o Escenarios de crisis, sistémicas y de la institución.
 - Declaración y administración de contingencias de iliquidez.
 
 - Análisis del impacto en liquidez asociado al lanzamiento de nuevos productos.
+
+ANEXO N°3
+
+POLITICA DE ADMINISTRACION DE RIESGOS DE MERCADO
+
+La política de administración de riesgos de mercado debe cubrir, a lo menos, lo siguiente:
+
+- Identificación de las fuentes de riesgo de mercado que enfrenta el banco y sus filiales:
+
+- Relativos a la actividad de negociación.
+
+- Relativos a la actividad bancaria tradicional.
+
+- Estrategias de la entidad frente a tales riesgos:
+
+- Estrategias de inversión en instrumentos financieros.
+
+- Estrategias en derivados.
+
+- Manejo de posición en moneda extranjera.
+
+- Gestión de activos y pasivos bancarios.
+
+- Estrategias de cobertura.
+
+- Medición del riesgo de mercado:
+
+- Descripción y alcance de modelos utilizados:
+
+o Modelos para cuantificación del riesgo de tasa de interés del libro de negociación.
+
+o Modelos para cuantificación del riesgo de tasa de interés del libro de banca.
+
+o Modelos para cuantificación del riesgo de moneda.
+
+o Modelos para determinar riesgos de mercado en opciones.
+
+- Metodologías y criterios para la realización de pruebas retrospectivas.
+
+- Metodologías y criterios para la realización de pruebas de tensión.
+
+- Esquema operativo asociado a cada modelo.
+
+- Actividades destinadas a revaluar criterios, parámetros y supuestos incluidos en los modelos.
+
+-Estructura de límites internos.
+
+- Fundamentos de la estructura de límites.
+
+- Periodicidad del control de límites.
+
+- Tratamiento de excepciones a los límites.
+
+- Actividades destinadas a verificar la consistencia de los límites.
+
+- Esquema de reporte de los riesgos de mercado.
+
+- Tipos de informes.
+
+- Periodicidad.
+
+- Destinatarios.
+
+- Responsabilidades respecto de las siguientes funciones:
+
+- Autorización de políticas.
+
+- Aplicación de políticas.
+
+- Revisión de suficiencia de la estructura de límites internos.
+
+- Monitoreo del estado de los límites.
+
+- Tratamiento de excepciones a las políticas definidas.
+
+- Generación y mantención de las herramientas utilizadas en la medición de los riesgos.
+
+- Cálculo de parámetros, definición de supuestos y escenarios.
+
+- Ejecución de las pruebas de tensión.
+
+- Realización de las pruebas retrospectivas.
+
+- Emisión de reportes a la alta administración.
+
+- Análisis del riesgo de mercado asociado al lanzamiento de nuevos productos.
+
+- Rol de la función de auditoría interna.
 
 CAPITULO 1-14 (Bancos y Financieras)
 
@@ -16778,231 +16866,291 @@ Los límites mencionados en las letras a) y b) del N° 1 este Capítulo rigen a 
 
 Antes de aquella fecha, el límite individual alcanza a un 3% y el global a un 10% del activo circulante del banco deudor, debiendo cumplirse además un límite de un 3% del activo circulante de la entidad acreedora.
 
-CAPITULO 12-9 (Bancos y Financieras)
+Capítulo 12-9 (Bancos y Financieras)
 
 MATERIA:
 
-RELACIÓN DE OPERACIONES ACTIVAS Y PASIVAS.
+RELACION DE OPERACIONES ACTIVAS Y PASIVAS.
 
-I.- DISPOSICIONES GENERALES.
+I.- LIMITES A LA EXPOSICION AL RIESGO DE TASA DE INTERES, MONEDAS Y REAJUSTABILIDAD.
 
-1.- Mantención de las relaciones entre operaciones activas y pasivas.
+Para el cumplimiento de lo establecido en el N°2 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile (en adelante "Capítulo III.B.2"), se dispone lo siguiente:
 
-Conforme a lo dispuesto por el Banco Central de Chile en el Capítulo III.B.2 de su Compendio de Normas Financieras, los bancos y sociedades financieras deben observar las relaciones entre operaciones activas y pasivas que se tratan en los títulos siguientes del presente Capítulo.
+Sobre las definiciones
 
-Las instituciones financieras deberán mantenerse diariamente encuadradas dentro de los márgenes permitidos.
+- Libro de Negociación y Libro de Banca
 
-2.- Capital básico y patrimonio efectivo.
+1. Para los efectos de que trata el numeral 2.1 del Capítulo III.B.2, el Libro de Negociación comprenderá todas las posiciones en instrumentos financieros derivados que no hayan sido designados contablemente como instrumentos de cobertura y a las posiciones en instrumentos financieros no derivados registrados en el activo por su valor razonable, que no contengan cláusulas contractuales que puedan impedir que sean negociados y que: (i) se mantengan en cartera para negociarlos en el corto plazo con el propósito de obtener ganancias provenientes del arbitraje o de fluctuaciones esperadas en los precios o tasas de mercado; o que (ii) formen parte de una cartera de instrumentos que se negocian activa y frecuentemente por el banco.
 
-El capital básico y el patrimonio efectivo mencionados en este Capítulo, corresponderán a los definidos en los numerales 2 y 3.1 del Capítulo 12-1 de esta Recopilación.
+El Libro de Banca comprenderá todas aquellas posiciones en instrumentos financieros derivados y no derivados que no se incluyan en el Libro de Negociación.
 
-3.- Equivalencia en moneda chilena de las operaciones en monedas extranjeras.
+- Valor razonable
 
-Para determinar la equivalencia en moneda chilena de los saldos en monedas extranjeras, se convertirán éstos al tipo de cambio de representación contable que se encuentre vigente.
+2. La medida de valor razonable, para todos los efectos previstos en el Capítulo III.B.2, es la definida en el Capítulo 7-12 de esta Recopilación. Para su medición, se deben aplicar todos los criterios y requisitos mínimos establecidos en dicha normativa.
 
-II.- LIMITES DE DESCALCES DE PLAZOS HASTA 30 y 90 DIAS.
+Sobre los límites a la exposición a los riesgos de tasas de interés, moneda y reajustabilidad
 
-1.- Límites.
+3. En ningún caso podrá superar al patrimonio efectivo la suma de: (i) el producto entre los activos ponderados por riesgo de crédito definidos en el artículo 67 de la Ley General de Bancos y el porcentaje mínimo establecido para el patrimonio efectivo en el artículo 66 de la citada ley, y (ii) las exposiciones al riesgo de tasas de interés del Libro de Negociación y a los riesgos de moneda para todo el Libro de Negociación y el Libro de Banca, medidos de acuerdo a lo establecido en el numeral 2.4 o en el numeral 2.5 del Capítulo III.B.2.
 
-Los bancos deben observar en todo momento los siguientes límites de descalce entre sus flujos de efectivo por pagar y por cobrar hasta 30 y 90 días:
+Para aquellas instituciones que, de acuerdo con lo establecido en los artículos 35 bis o en el artículo 51 de la Ley General de Bancos, deban mantener un patrimonio superior al 8% de sus activos ponderados por riesgo, el factor k en la fórmula del numeral 2.6 del Capítulo III.B.2, será el porcentaje que se aplica de acuerdo a los artículos antes señalados de la Ley o el de un 10%, el que sea menor.
 
-i) La suma de todos los descalces de plazo hasta 30 días, no podrá ser superior al capital básico.
+4. La exposición de corto plazo a los riesgos de tasas de interés y de reajustabilidad del Libro de Banca, definida en los términos señalados en el Anexo 1 del Capítulo III.B.2, no podrá exceder de un límite fijado por el propio banco, medido como un porcentaje, de la diferencia entre los ingresos y gastos por intereses y reajustes más los ingresos netos por comisiones sensibles a la tasa de interés, acumulados en los últimos doce meses hasta la fecha de medición.
 
-ii) El mismo requisito del numeral i) anterior deberá cumplirse sumando solamente los flujos en moneda extranjera.
+Por su parte, la exposición de largo plazo a los riesgos de tasas de interés del Libro de Banca, definida en los términos señalados en el Anexo 1 antes mencionado, no podrá exceder de un límite fijado por cada banco y medido como porcentaje del patrimonio efectivo.
 
-iii) La suma de los descalces de plazo hasta 90 días, no podrá ser superior a dos veces el capital básico.
+Los bancos deberán fundamentar los límites que definan para los riesgos de tasas de interés y de reajustabilidad, tanto de corto plazo como de largo plazo, en el Libro de Banca. El análisis que sustente tales límites deberá realizarse al menos una vez al año, debiendo quedar debidamente documentado.
 
-2.- Disposiciones sobre el cumplimiento de los límites.
+Dichos límites deberán ser ratificados por el Directorio o quien haga sus veces, al menos una vez al año y en todo caso cada vez que se modifiquen.
 
-Para el cumplimiento de los límites antes señalados se establecen las siguientes precisiones o instrucciones complementarias a lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile:
+Los criterios utilizados por el banco para establecer sus límites serán objeto de análisis por parte de esta Superintendencia en las evaluaciones regulares de gestión de riesgo financiero y operaciones de tesorería a que se refiere el numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación. De acuerdo con lo previsto en el Capítulo III.B.2, dependiendo de los resultados de aquel análisis esta Superintendencia podrá, si lo estima necesario, designar límites inferiores a los establecidos por el banco.
 
-a) Para la medición deben considerarse todos los flujos previstos de efectivo que el banco entregará o recibirá dentro de los plazos antes indicados, con la sola excepción de aquellos que no sean relevantes para determinar la posición de liquidez del banco, siempre que la exclusión de esos flujos menores se encuentre precisada y fundamentada en la política de administración de liquidez de la institución. Por consiguiente, además de las operaciones que se reflejan como activos y pasivos, deben considerarse los compromisos legales o contractuales que aún no se reflejan en el balance, como es el caso de dividendos por pagar por las utilidades de un ejercicio, compromisos de otorgamiento de créditos o contratos de compraventa de activos.
+Sobre las mediciones según modelo estándar
 
-b) En todo caso, se entiende que no se incluyen para estos efectos los financiamientos futuros (préstamos, depósitos, emisión de títulos o aumentos de capital). Así, por ejemplo, cuando se trate de líneas de crédito obtenidas por el banco, solo deben considerarse los egresos previstos para el pago de los montos ya girados, pero no los ingresos por los giros que pueden realizarse. Del mismo modo, cuando se determinen los flujos sobre base ajustada en las captaciones, sólo pueden considerarse los retiros ajustados considerando las renovaciones de los depósitos a plazo o la permanencia de los saldos en las cuentas de ahorro, pero en ningún caso los nuevos depósitos.
+5. Los criterios de asignación de los flujos de las posiciones registradas, tanto en el Libro de Negociación como en el Libro de Banca, deberán ser parte integrante de la política de gestión de riesgo de mercado. Dichos criterios deberán considerar todas las fuentes relevantes de riesgo asociadas a variaciones en las tasas de interés, tipo de cambio e índices de reajustabilidad, según corresponda.
 
-c) Los límites indicados en el N° 1 anterior se refieren a la situación del banco individualmente considerado y no a la situación consolidada con las filiales.
+6. Para estimar el menor ingreso por comisiones sensibles a la tasa de interés de acuerdo con lo establecido en el literal iii) del numeral 1.3 del Anexo 1 del Capítulo III.B.2, los bancos deberán efectuar los análisis pertinentes que permitan:
 
-d) El límite mencionado en el numeral ii) del N° 1 precedente, relativo a la moneda extranjera, comprenderá los flujos de las operaciones o compromisos pagaderos en cualquier moneda extranjera, correspondan o no a las indicadas en el Anexo N° 2 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
+a) identificar todas aquellas operaciones activas y pasivas que tengan asociadas el cobro o el pago de comisiones cuyo monto pueda variar ante cambios en las tasas de interés y el cobro o el pago de comisiones cuyo porcentaje sea función de cambios en las tasas de interés; y,
 
-e) Las líneas de crédito y de sobregiros, como asimismo los préstamos rotativos, deben asignarse a las bandas temporales que correspondan según el patrón de comportamiento de los saldos disponibles y de los montos utilizados. Lo anterior se aplicará tanto para los descalces sobre base contractual como ajustada y cualquiera sea la contraparte (minoristas y mayoristas).
+b) determinar la reducción en el ingreso neto percibido por concepto de comisiones, debiendo quedar debidamente documentados los criterios y los datos utilizados para tal efecto.
 
-f) Cuando se trate de descalces de plazos contractuales, todos los flujos correspondientes a las cuentas de ahorro a plazo con giro incondicional deberán considerarse para el límite indicado en el numeral i) del N° 1 de este título, en tanto que las cuentas de ahorro a plazo con giro diferido se incluirán en los límites de que tratan los numerales i) y iii) de ese número, considerando para la asignación en el primero de ellos las disposiciones relativas a los giros sin el aviso previo que caracteriza a dichas cuentas.
+El menor ingreso por comisiones sensibles a las tasas de interés debe incluir todas aquellas comisiones cuyo monto recaudado o pagado pueda variar en función de los cambios en las tasas de interés. Ejemplos típicos de ellas son: i) las comisiones de los créditos hipotecarios en letras de crédito cuyo monto puede disminuir en respuesta a reducciones en las tasas de interés que resulten en un aumento del prepago; y, ii) las comisiones que inciden sobre el uso de líneas de crédito, cuyo monto puede reducirse en respuesta a una menor utilización de esas líneas, o aumentar por un mayor cargo sobre los saldos utilizados cuando suben las tasas de interés.
 
-g) Al tratarse de descalces de plazos ajustados, tanto las cuentas de ahorro a plazo con giro incondicional como las cuentas con giro diferido se asignarán a las bandas temporales que se determinen según su comportamiento. Los importes asignados por las cuentas de ahorro a plazo, no se computarán para efectos de lo dispuesto en el inciso cuarto del numeral 1.9 del Capítulo III.B.2 antes mencionado, referido a porcentajes mínimos de asignación según el plazo contractual.
+7. Para asignar en las bandas temporales señaladas en la Tabla 2 del Anexo 1 del Capítulo III.B.2, los flujos de las operaciones sin plazo de vencimiento o cuyo plazo efectivo de vencimiento pueda diferir de su plazo contractual debido al comportamiento de prepago, los bancos deberán utilizar modelos que permitan obtener una estimación sustentada y confiable de los plazos efectivos de vencimiento.
 
-h) Tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados, los flujos correspondientes a los créditos otorgados por el banco considerarán las tasas de renegociación y de mora que normalmente afectan a la cartera.
+Los flujos correspondientes a aquellas obligaciones sin fecha de vencimiento que pueden hacerse exigibles sin aviso previo, podrán ser asignados en las bandas temporales de la Tabla 2 del Capítulo III.B.2 de acuerdo a su comportamiento estimado. En todo caso, esos flujos no podrán asignarse más allá del plazo correspondiente a la novena banda temporal de la tabla mencionada.
 
-i) Los instrumentos financieros con mercado secundario o que pueden ser transados con otro banco, cuando no formen parte de la "cartera permanente" de que trata el Capítulo 8-21 de esta Recopilación ni se encuentren entregados en garantía, se incluirán en las bandas temporales según los flujos que se obtendrían al venderlos sin pérdidas, considerando la liquidez y profundidad del mercado en que ellos se transan. Así, en la banda temporal hasta 7 días se incluirá a su valor de mercado a la fecha del cómputo, aquella cartera que pueda ser vendida dentro de ese plazo sin afectar el precio por el hecho de liquidarla en su totalidad. El mismo criterio se seguirá para asignar los instrumentos en las bandas temporales siguientes, pero su valorización debe considerar los eventuales cambios adversos en las condiciones generales del mercado. Para estos efectos no se consideran entregados en garantía los instrumentos cedidos con pacto, pudiendo por lo tanto incluirse en las bandas temporales en que dichos pactos ya no se encontrarán vigentes. Lo indicado en esta letra i) se aplicará tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados.
+Los flujos correspondientes a aquellos activos sin fecha de vencimiento (tales como saldos utilizados de líneas de crédito asociadas a cuentas corrientes o tarjetas de crédito), deberán ser asignados en las bandas temporales de la Tabla 2 del Capítulo III.B.2 de acuerdo a su comportamiento de pago estimado.
 
-j) Los instrumentos que no cumplan las condiciones para tratarlos como se indica en la letra i) precedente, se asignarán en las bandas temporales y por los valores que correspondan a los pagos del emisor, tanto en el caso de plazos contractuales como ajustados.
+Al tratarse de operaciones activas y pasivas con plazo de vencimiento establecido, los bancos que identifiquen un comportamiento de prepago establecerán el plazo efectivo de vencimiento a través de modelos sólidamente fundamentados.
 
-k) Para los instrumentos derivados que no son negociables en bolsa, se estimará el valor que se pagaría o recibiría en las fechas de intercambios de flujos o de liquidación de cada contrato, según las tasas y precios vigentes en los mercados al momento de la estimación. No obstante, cuando se trate de derivados con liquidación física que involucre moneda chilena y extranjera, se asignarán a las bandas temporales los montos nocionales en cada moneda, debido a la necesidad de medir el descalce de la moneda extranjera.
+Lo mismo se aplicará para los instrumentos financieros no derivados incluidos en el Libro de Negociación.
 
-1) Cuando se determinen los descalces sobre base ajustada, los criterios para efectuar los ajustes de los activos y pasivos y los demás flujos previstos, deberán ser concordantes entre sí, tanto en lo que toca a la distinción entre mayoristas y minoristas, como en lo que se refiere a las bases para establecer el comportamiento.
+Para la determinación del comportamiento de los flujos de los activos o pasivos sin vencimiento, así como para la estimación del plazo efectivo de vencimiento de las posiciones de montos significativos con un comportamiento de prepago identificado y su consecuente asignación en las bandas temporales, los bancos deben observar lo siguiente:
 
-III.- MARGEN DE COLOCACIONES E INVERSIONES EN MONEDA CHILENA NO REAJUSTABLES.
+i) Los modelos utilizados deberán basarse en metodologías que sean conceptualmente sólidas y matemática y estadísticamente robustas.
 
-1.- Margen.
+ii) La asignación a las bandas temporales basadas en tales modelos deberá ser validada periódicamente, con la finalidad de demostrar su eficacia en el tiempo.
 
-Las instituciones financieras podrán mantener colocaciones e inversiones no reajustables en moneda chilena, por un monto que no exceda ni sea inferior a su pasivo circulante, excluidos los pasivos vista, en más de cuatro veces su capital básico.
+iii) Tanto los modelos implementados como los procedimientos asociados y sus pruebas de validación, deberán quedar debidamente documentados.
 
-No obstante, dicho límite se puede sobrepasar en caso de que los activos excedan a los pasivos. Dicho exceso podrá ser hasta un importe no superior a los pasivos exigibles a la vista en moneda chilena no reajustables menos los fondos disponibles de la misma denominación.
+Mientras los bancos no hayan establecido metodologías robustas para la asignación de los flujos correspondientes a sus operaciones con comportamiento de prepago, deberán asignar esos flujos de acuerdo con su vencimiento contractual. Asimismo, los bancos que no hayan establecido metodologías estadísticamente confiables para determinar el comportamiento de los flujos asociados a obligaciones sin vencimiento que puedan ser exigibles sin aviso previo, deberán asignar dichos flujos en la primera banda temporal de la Tabla 2 del Capítulo III.B.2.
 
-Los importes de las operaciones activas y pasivas se computarán sobre la base de los saldos que concurren a la determinación de las correspondientes relaciones según lo indicado en el N° 2 siguiente, incluyendo los respectivos intereses devengados registrados contablemente a la fecha del cómputo.
+En todo caso, los modelos utilizados para los efectos señalados serán objeto de análisis por parte de la Superintendencia en las evaluaciones regulares de gestión de riesgo financiero y operaciones de tesorería, a que se refiere el numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación.
 
-2.- Activos y pasivos que deben computarse.
+8. Las partidas sujetas a corrección monetaria que deben ser incluidas en el cálculo de la posición neta en moneda chilena reajustable (el término PNUR en la primera ecuación del numeral 1.2 del Anexo 1 del Capítulo III.B.2) serán solamente las que expresamente se indican en dicho anexo, esto es, las correspondientes a: (i) el activo fijo; (ii) las inversiones en sociedades; y (iii) el capital pagado y reservas.
 
-a) Colocaciones e inversiones financieras.
+Sobre las mediciones según modelo interno
 
-Incluye los saldos que correspondan, desde la partida 1105 hasta la 1740. Se excluyen, en consecuencia, los ajustes a valor de mercado de las inversiones financieras.
+9. Tanto los criterios como la metodología utilizada por los bancos autorizados para medir normativamente el riesgo de mercado a través de un modelo interno, deberán estar incorporados en sus políticas de administración del riesgo de mercado. Por consiguiente, ellos serán aprobados y revisados al menos una vez al año por el Directorio o quien haga sus veces.
 
-Además de lo anterior, deben computarse los activos subyacentes en moneda chilena de los Forward UF-Pesos.
+Sobre las pruebas de tensión
 
-b) Pasivo circulante excluidos los pasivos a la vista.
+10. Las pruebas de tensión, a través de las cuales se identifican eventos o situaciones excepcionales que podrían afectar significativamente la rentabilidad y la posición patrimonial de un banco, constituyen un elemento esencial en la gestión de los riesgos de una entidad. Tratándose del riesgo de mercado, el objetivo de las pruebas de tensión se orienta a estimar el impacto potencial sobre la rentabilidad y la solvencia de la entidad, producto de oscilaciones extremas pero plausibles en el conjunto de variables financieras, con el fin último de evaluar su vulnerabilidad o resistencia a ese tipo de eventos. Conforme a lo anterior, los bancos deberán desarrollar y aplicar periódicamente un programa riguroso de pruebas de tensión, el que deberá observar los criterios y requisitos mínimos señalados en las presentes normas.
 
-Incluye los saldos que correspondan, desde la partida 3020 hasta la partida 3660.
+11. Las entidades deberán definir los alcances y los criterios para el desarrollo de sus pruebas de tensión, teniendo presente que los mismos deberán ser de naturaleza cuantitativa y cualitativa. Dichas definiciones deberán estar documentadas y ser parte integrante de la política de administración de riesgos de mercado del banco. Las definiciones de que se trata deberán considerar al menos:
 
-Además, deben computarse los pasivos subyacentes en moneda chilena de los Forward UF-Pesos.
+i) los riesgos asociados a la volatilidad de variables de mercado y a alteraciones en la liquidez de los mercados;
 
-c) Pasivos a vista.
+ii) las limitaciones que tienen los distintos enfoques metodológicos utilizados;
 
-Corresponde a los saldos en moneda chilena no reajustable de las partidas 3005, 3010 y 3015.
+iii) la capacidad del banco para absorber pérdidas potenciales; y,
 
-d) Disponible.
+iv) los planes de acción que el banco podría seguir para modificar su perfil de riesgos y de los planes de contingencia para preservar su patrimonio en caso de que las pérdidas lleguen a realizarse.
 
-Incluye los saldos pertinentes de las partidas 1005 a 1015.
+12. Respecto de los enfoques metodológicos para las pruebas de tensión, los bancos deberán observar lo siguiente:
 
-IV.- MARGEN DE OPERACIONES EN MONEDA EXTRANJERA.
+a) Asegurar fundadamente que los enfoques metodológicos adoptados para las pruebas de tensión son acordes con la complejidad, perfil de riesgo y composición de las carteras, libros, unidades de negocios y filiales del banco.
 
-1.- Descalce.
+b) Los enfoques adoptados deberán capturar los impactos tanto sobre aquellas posiciones que tienen características lineales, como aquellas que tienen un comportamiento no lineal (por ejemplo, opciones e instrumentos con opcionalidad) y considerar la relación entre volatilidad de precios y liquidez de mercado.
 
-La suma de los conceptos que a continuación se indican, no podrá ser superior al 20% del Capital Básico:
+c) Los bancos que realicen pruebas de escenarios, deberán contemplar el uso de escenarios multivariados para modelar el impacto de alteraciones en las correlaciones del mercado, en los movimientos de volatilidades y en la reducción de la liquidez de mercado.
 
-a) La diferencia absoluta, de los activos menos los pasivos, de cada una de las monedas extranjeras correspondientes a países cuya deuda externa esté clasificada en categoría AAA o pertenezca a la Unión Monetaria Europea. El equivalente de las monedas de estos últimos países debe computarse junto con el Euro, como si fuera una sola moneda. En este grupo se computarán también las inversiones en oro.
+d) Las pruebas de tensión deberán cubrir un rango de factores que incluyan eventos extremos en todos los tipos de riesgos de mercado, incluyendo los diversos componentes de los riesgos de tasa de interés, del riesgo de tipo de cambio, del riesgo de reajustabilidad, del riesgo de opcionalidad y, a efecto de capturar todos los riesgos presentes en las carteras de las filiales, del riesgo de precio de las posiciones en acciones y commodities que mantengan esas entidades, cuando corresponda.
 
-b) La diferencia absoluta, multiplicada por el factor 1,5, de los activos menos los pasivos, de cada una de las monedas extranjeras correspondientes a países cuya deuda externa esté clasificada en categoría AA.
+13. Cada entidad deberá definir fundadamente la periodicidad más adecuada para la realización de pruebas de tensión, considerando para tal efecto las características de las actividades del banco, su perfil de riesgo y la magnitud de las perturbaciones implícitas en las pruebas.
 
-c) La diferencia absoluta, multiplicada por el factor 5, de los activos menos los pasivos, de cada una de las monedas extranjeras correspondientes a países distintos a los señalados precedentemente.
+Esta Superintendencia podrá establecer la frecuencia con que debieran efectuarse las pruebas si estimara que la establecida por el banco es muy amplia. En cualquier caso, como mínimo las pruebas deberán efectuarse cada tres meses.
 
-Si los activos en una determinada moneda son mayores que los pasivos, se podrá reducir la diferencia, en forma previa a su ponderación, hasta por el monto de los recursos señalados en el N° 2 siguiente y que correspondan a la misma moneda.
+14. Las pruebas de tensión deberán quedar reflejadas en un documento estándar que contenga los siguientes elementos mínimos:
 
-2.- Importes deducibles.
+a) Explicación de la metodología adoptada para los análisis de tensión a nivel desagregado (carteras, libros, unidades de negocios y filiales) y para el banco como un todo.
 
-De acuerdo con lo indicado anteriormente, serán deducibles de los activos cuando éstos superen a los pasivos, hasta por el monto de los respectivos descalces, los importes que correspondan a lo indicado en las letras siguientes, para la moneda que en ellas se indica:
+b) Descripción del o de los escenarios y de los factores de riesgo utilizados en el análisis de tensión, tanto a nivel desagregado como para todo el banco, considerando a lo menos:
 
-a) El capital básico de la institución financiera que esté constituido por los aportes de capital ingresados al país al amparo del D.L. 600 y sus modificaciones, antes del 31 de diciembre de 1998. Su monto será computado en la moneda extranjera en que se haya ingresado el aporte de capital al país.
+i) el conjunto de factores de riesgo (jerarquizados según su importancia relativa) que fueron sometidos a tensión, incluyendo una explicación del criterio utilizado para su selección; y
 
-b) Las utilidades retenidas antes del 31 de agosto de 1998, susceptibles de ser remesadas al exterior de conformidad con las disposiciones del D.L. 600. Se entenderá para estos efectos como utilidades susceptibles de ser remesadas al exterior, aquellas que hayan sido reconocidas como tales, mediante el correspondiente certificado emitido por esta Superintendencia, sea que ellas se mantengan en moneda chilena o extranjera. Estos importes se computarán en la moneda en que se hayan ingresado al país los correspondientes aportes de capital acogidos al D.L. 600.
+ii) identificación de las perturbaciones que se aplicaron sobre cada una de las variables analizadas (por ejemplo, nivel de tasas de interés, curvas de rendimiento, tipos de cambio, índices de reajustabilidad, liquidez de mercado, volatilidades, correlaciones, u otros que se hayan considerado) incluyendo una indicación de la magnitud del movimiento, la dirección de cada choque y el horizonte de tiempo considerado para medir los impactos, si corresponde.
 
-c) Las provisiones y reservas en moneda extranjera, constituidas antes del 31 de agosto de 1998, excluidas las que provengan de utilidades pendientes de ser remesadas al exterior, consideradas en la letra b) precedente.
+c) Análisis de la relevancia y pertinencia de los escenarios utilizados en las pruebas de tensión, con respecto a todos los factores de riesgos importantes presentes en las carteras.
 
-3.- Clasificación de la deuda externa.
+d) Cuantificación del impacto en resultado y en el patrimonio, a nivel desagregado.
 
-Las clasificaciones de la deuda externa antes mencionadas, corresponderán a las efectuadas por alguna de las empresas clasificadoras internacionales señaladas en el Capítulo III.B.5 del Compendio de Normas Financieras del Banco Central de Chile. Las categorías que se indican, o su equivalente, corresponden a la deuda en moneda extranjera y al nivel mínimo de clasificación exigido para esos efectos.
+e) Conclusiones obtenidas de los ejercicios y, cuando corresponda, explicación de medidas específicas para abordar las vulnerabilidades que hayan revelado las pruebas de tensión.
 
-4.- Cómputo de los activos y pasivos.
+15. Los resultados de las pruebas de tensión deberán ser comunicados periódicamente a la alta gerencia y al Directorio o quien haga sus veces, mediante un informe que entregue información de los efectos potenciales de eventos extremos sobre las diferentes carteras, libros, unidades de negocios y filiales y sobre la entidad como un todo, de modo que los destinatarios puedan identificar claramente los riesgos y tomar las medidas preventivas que correspondan.
 
-El total de activos de cada moneda corresponderá a la suma de los fondos disponibles, las colocaciones, inversiones y demás activos, incluidos los valores nominales correspondientes a instrumentos derivados, en moneda extranjera, en moneda nacional documentados en moneda extranjera, en moneda nacional reajustables por la variación del tipo de cambio y a las inversiones en oro, en su caso. El total de pasivos, a su vez, corresponderá a las captaciones, préstamos y demás pasivos, incluidos los valores nominales correspondientes a instrumentos derivados, en moneda extranjera, en moneda nacional documentados en moneda extranjera y en moneda nacional reajustables por la variación del tipo de cambio.
+16. Esta Superintendencia podrá establecer escenarios particulares a determinadas instituciones cuando las condiciones de mercado o los requerimientos de información así lo ameriten.
 
-El cómputo alcanza, en consecuencia, a todos los saldos que, teniendo las condiciones descritas, se incluyen en las partidas del archivo C01, con excepción de las cuentas de ajuste y control.
+Sobre las pruebas retrospectivas
 
-Las operaciones se computarán con sus respectivos intereses devengados que se encuentren registrados en el activo y en el pasivo de acuerdo con lo dispuesto en el Capítulo 7-1 de esta Recopilación, en la moneda correspondiente a su capital aun cuando éstos se devenguen en pesos.
+17. Las pruebas retrospectivas constituyen una herramienta clave para evaluar la calidad de los modelos internos de medición de riesgo, al comparar las mediciones de VaR, calibradas para el movimiento diario en las variables de mercado, con las pérdidas efectivamente observadas en cada uno de los días considerados en la evaluación. Dado que las diferencias pueden indicar la existencia de errores en los modelos VaR que se utilizan, las instituciones que determinen el limite normativo para riesgo de mercado sobre la base de un modelo interno deben aplicar regular y rigurosamente un programa de pruebas restrospectivas y estar en condiciones de evaluar sus resultados, desde el primer día de vigencia del modelo utilizado para ese efecto.
 
-5.- Registro contable del capital, utilidades, provisiones y reservas.
+En particular, el desarrollo y la aplicación de las pruebas restrospectivas por parte los bancos autorizados por esta Superintendencia para utilizar modelos VaR para fines de determinar el límite normativo para riesgo de mercado, deberán observar los siguientes criterios o requisitos mínimos:
 
-Las instituciones financieras que mantengan capitales ingresados al país antes del 31 de diciembre de 1998, al amparo del DL 600 de 1974 y sus modificaciones, deberán registrar el correspondiente importe en moneda extranjera en la cuenta de orden "Capital ingresado por DL 600 antes del 31.12.98" de la partida 9705.
+a) Tanto los criterios como la asignación de responsabilidades definidos para las pruebas retrospectivas, deben estar incorporados a las políticas de administración de riesgo de mercado del banco.
 
-Por otra parte, dichas instituciones deberán registrar en la cuenta de orden "Utilidades remesables DL 600 anteriores al 31.08.98", de la partida 9705 antes mencionada, el importe al cual asciende, en moneda extranjera, el total de las utilidades remesables anteriores al 31 de agosto de 1998, considerando para el efecto el equivalente en moneda extranjera de las reservas provenientes de utilidades, más su correspondiente corrección monetaria calculada al cierre de cada mes.
+b) Las políticas deben contener al menos los siguientes elementos asociados a las pruebas retrospectivas: i) una definición de la medida de pérdidas y ganancias a ser aplicada; ii) estándares cuantitativos para las pruebas retrospectivas; y, iii) el número y magnitud de excesos que son considerados aceptables.
 
-Además, las instituciones financieras deberán registrar las provisiones y reservas en moneda extranjera, constituidas antes del 31 de agosto de 1998, en la cuenta "Provisiones y reservas anteriores al 31.08.98", de la partida 9705.
+c) La medida del VaR utilizada para propósitos de las pruebas restrospectivas, debe ser calculada con un período de mantención de un día.
 
-V.- MARGEN DE TASAS DE INTERES.
+d) Debe utilizarse un nivel de confianza de 99%, con un intervalo de confianza de una "cola" concentrada en las pérdidas.
 
-1.- Margen.
+e) La medida de pérdida utilizada para la comparación debe excluir todos los resultados que no estén relacionados con las variables de mercado (honorarios, comisiones o compromisos, etc.) y los resultados de las operaciones que se realicen durante el día.
 
-Los descalces de tasas de interés que mantengan las instituciones financieras, entre operaciones activas y pasivas, no podrán exceder un monto equivalente al 8% del patrimonio efectivo.
+f) Para calcular los excesos, se deberá comparar, diariamente, la pérdida efectivamente observada con la medición VaR, para cada uno de los últimos 250 días de operación. Se considerará que ocurre un exceso cuando en un día las pérdidas exceden la correspondiente medida de VaR.
 
-El cumplimiento de este margen se medirá sobre la base de los flujos de las operaciones computados en el período de tiempo en que ocurrirán, esto es, según plazos remanentes definidos a contar de la fecha del cómputo, aplicando a dichos flujos los cálculos de sensibilidad previstos en el N° 6 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile.
+g) Debe existir una asignación de responsabilidades sobre el proceso de cálculo de la prueba y niveles jerárquicos apropiados para la distribución interna de la información.
 
-2.- Precisiones sobre los cómputos.
+h) Deben estar establecidos los procedimientos y responsabilidades para la definición e implementación de las acciones correctivas en caso de que se sobrepase el número o la magnitud de los excesos considerados aceptables.
 
-De acuerdo con las normas del Banco Central de Chile, para la demostración de los cálculos deben considerarse separadamente el capital y sus intereses, y las distintas monedas.
+18. En función del número de excesos computados, para fines de evaluación del modelo VaR y de la aplicación del factor multiplicativo que se menciona en el número ix, del numeral 1 del anexo 2 del Capítulos III.B.2, los bancos que estén autorizados para calcular el límite normativo para riesgo de mercado utilizando modelos VaR, serán clasificados en las tres zonas de permanencia que se muestran en la siguiente tabla:
 
-Las operaciones sin vencimiento se incluirán en la primera banda temporal, con excepción de las cuentas de ahorro a plazo, las que se incluirán en la quinta banda. Los flujos por intereses de las operaciones sin vencimiento, incluirán solamente los intereses devengados y contabilizados a la fecha del cómputo.
+.
 
-Para las operaciones pactadas a tasa de interés flotante, se incluirán los intereses calculados solamente hasta la fecha más próxima en la que corresponda fijar la tasa de interés que regirá para el período siguiente. Dichos intereses serán incluidos en las bandas temporales que les corresponda. El capital insoluto amortizable con posterioridad a la fecha en que cambiará la tasa, se deberá incluir en la banda temporal que corresponde a ese cambio de tasa.
+La zona verde de esa Tabla de Permanencia permite inferir que estadísticamente el modelo VaR es confiable, sin perjuicio de la necesidad de examinar la naturaleza y magnitud de los excesos computados.
 
-Las colocaciones en letras de crédito incluirán los flujos por capital, intereses y comisiones de los dividendos que se originan dentro de los plazos que correspondan, sin perjuicio de lo indicado precedentemente, respecto a las operaciones con tasa de interés variable
+La zona amarilla indica que los resultados de las pruebas plantean objeciones sobre el modelo, pero la conclusión no es definitiva. La institución que se mantenga en esta zona, además de identificar las causas de los excesos, deberá establecer un plan de acción para superar las imperfecciones que se observen.
 
-Las inversiones financieras definidas en las normas del Banco Central de Chile como inversiones no consideradas como "cartera permanente", incluirán las inversiones financieras con mercado secundario y las transfenbles a otras instituciones financieras, que no correspondan a la "cartera permanente" para efectos contables según lo indicado en el Capítulo 8-21 de la Recopilación Actualizada de Normas.
+La zona roja indica que los resultados de las pruebas retrospectivas revelan serias deficiencias del modelo VAR, quedando en tela de juicio el uso del modelo interno para la medición de los límites normativos.
 
-En los instrumentos derivados se computarán los activos y pasivos subyacentes. Cuando proceda, se aplicarán a los subyacentes las instrucciones relativas a operaciones a tasa de interés variable.
+Para la determinación del factor multiplicativo, la Tabla de Permanencia considera un aumento ("factor aditivo") en función de la cantidad de excesos computados. El nuevo factor multiplicativo que se origine al computarse algún exceso, se aplicará a partir del primer día hábil de la semana subsiguiente al día a que se refiere el cómputo y mientras esta Superintendencia no indique lo contrario según lo indicado en el N° 19 siguiente.
 
-3.- Activos y pasivos que deben computarse.
+Esta Superintendencia podrá establecer un factor aditivo superior al indicado en la Tabla de Permanencia cuando: i) exista una permanencia por más de un año en la zona amarilla; y, ii) el número y el monto de los excesos registrados en la zona roja justifiquen un factor aditivo mayor que 1. Para acceder a reducciones en el factor aditivo especial que se hubiere impuesto en esos casos, los bancos deberán demostrar a esta Superintendencia que han tomado acciones correctivas que resulten en un mejoramiento sustentable de las estimaciones de riesgo arrojadas por el modelo VaR y que no son necesarias acciones adicionales.
 
-3.1.- Activos.
+En caso de modificaciones en el modelo VaR en régimen, los excesos anteriores a las modificaciones seguirán siendo computados para efectos de aplicar el factor multiplicativo.
 
-Comprende los siguientes conceptos que, de acuerdo con las instrucciones de esta Superintendencia, se muestran en los rubros o partidas que se señalan:
+Los factores aditivos que se indican en la Tabla de Permanencia comenzarán a ser aplicados al finalizar el primer año desde la instauración del modelo VaR en que se basa el límite normativo. No obstante, si en ese período inicial se sobrepasan los 10 excesos, este Organismo podrá establecer un factor aditivo o incluso suspender el uso del modelo interno para el cómputo del límite de riesgo de mercado.
 
-- Fondos disponibles (Partidas 1005 a 1025)
+19. La información sobre las pruebas retrospectivas deberá ser enviada semanalmente a esta Superintendencia, conjuntamente con las mediciones del modelo VaR. Paralelamente y con el mismo plazo, los bancos enviarán un análisis formal del o los excesos que se hayan informado.
 
-- Colocaciones efectivas (Partidas 1105 a 1248)
+Puesto que las pruebas retrospectivas no son absolutamente confiables desde el punto de vista estadístico, al momento de analizar la precisión del modelo VaR en función de dichas pruebas, esta Superintendencia tomará en cuenta una serie de factores para decidir si determinado exceso debe o no ser registrado para el cómputo. Entre otros, se evaluará la naturaleza, tamaño y frecuencia de los excesos.
 
-- Colocaciones en letras de crédito (Partidas 1305 a 1315)
+Entre las razones que pueden justificar que un exceso no se compute están:
 
-- Contratos de leasing (Partida 1350)
+i) La ocurrencia de volatilidades extremas en las variables mercado, que no podría haber sido prevista al momento de calibrar el modelo VaR utilizado. La eventual admisión de esta excepción sobreentiende, en todo caso, que el banco adaptará sus series de datos para que reflejen el nuevo escenario de volatilidades;
 
-- Operaciones con pacto de retrocompra (Partidas 1690 y 1695)
+ii) Que el exceso esté explicado por factores que no son considerados en el modelo como, por ejemplo, factores del riesgo específico (de contraparte); o,
 
-- Inversiones financieras (Partidas 1705 a 1740) Estas inversiones deben separarse para efectos del cómputo conforme a lo indicado en el N° 2.
+iii) Cambios regulatorios que afecten el funcionamiento del mercado y que pueden afectar las mediciones.
 
-- Intereses por cobrar otras operaciones (Partida 1820)
+Por el contrario, no se justifica excluir un exceso del cómputo si éste obedece a problemas en la integridad básica del modelo (como deficiencias en los sistemas o cálculo erróneo de volatilidad y correlaciones) o a una especificación deficiente del modelo VaR (de modo que no mida eficientemente los riesgos), entre otros.
 
-- Cuentas diversas (Partida 2115).
+Si como consecuencia de la naturaleza y volumen de los excesos registrados, esta Superintendencia resuelve rechazar el uso del modelo interno para la medición de los límites normativos, la institución debe corregir los errores presentados por el modelo y probar su confiabilidad con pruebas retrospectivas, que cuenten con información de al menos un año, a fin de poder utilizar nuevamente el modelo interno para esos efectos.
 
-Además, se computarán los activos subyacentes de cualquier instrumento derivado, en la banda temporal que corresponda.
+Sobre la autorización para utilizar el modelo intermedio para medir el riesgo de mercado de posiciones en opciones
 
-3.2.- Pasivos.
+20. La autorización para adoptar el método intermedio para medir el riesgo de mercado de sus posiciones en opciones, a efectos de realizar la medición normativa de riesgos de mercado conforme a lo señalado en el numeral 4.2 del Anexo N° 1 del Capítulo III.B.2, solamente se otorgará si en su última evaluación a la gestión de riesgos financieros y operaciones de tesorería del banco, realizada según lo previsto en el numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación, esta Superintendencia no ha observado debilidades que deban ser superadas previamente.
 
-Deben incluirse todas las operaciones que de acuerdo con las instrucciones de esta Superintendencia, se muestran bajo los conceptos que se señalan a continuación:
+Sobre la información a la Superintendencia
 
-- Depósitos, captaciones y otras obligaciones (Partidas 3005 a 3075). Las cuentas de ahorro a plazo se computarán para este efecto dentro de la banda temporal a más de un año a dos años.
+21. La información periódica relativa a los riesgos de tasa de interés y reajustabilidad en el Libro de Banca, sobre riesgos de mercado según la metodología estandarizada y según modelo interno, como asimismo de los resultados de las pruebas retrospectivas, será enviada a esta Superintendencia de acuerdo con lo que se instruya en el Manual del Sistema de Información. Los bancos que adopten el modelo interno, además de la información semanal sobre el riesgo de mercado exigida para su caso, deberán enviar también información mensual de la medida de riesgo de mercado bajo el modelo estandarizado.
 
-- Operaciones con pacto de retrocompra (Partidas 3110 y 3115)
+La información de las filiales y de las sucursales en el exterior será enviada mensualmente, consolidada y computada bajo el mismo modelo (estandarizado o interno) que la del banco individual. En caso que el banco individual informe bajo el modelo estandarizado, la medición del riesgo de precio (acciones y commodities) de sus filiales debiera utilizar la metodología estándar prevista en la Enmienda al Acuerdo de Capital de Basilea (1996).
 
-- Obligaciones con letras de crédito (Partidas 3305 a 3315)
+22. Los bancos deberán enviar a esta Superintendencia un informe acerca de las pruebas de tensión realizadas, referidas a los días 31 de marzo y 30 de septiembre de cada año. Para el efecto se remitirá una copia del documento estándar a que se refiere el N° 14 de este título.
 
-- Préstamos y otras obligaciones contraídas en el país (Partidas 3405 a 3480)
+Cada informe de pruebas de tensión que se envíe a esta Superintendencia deberá contar con la aprobación del gerente general o del gerente que sea designado para ello, y se enviará dentro de los quince días siguientes a la fecha a la que se refiere.
 
-- Préstamos y otras obligaciones contraídas en el exterior (Partidas 3505 a 3570)
+23. Los bancos deberán informar oportunamente a esta Superintendencia de cualquier cambio en el modelo VaR, indicando los fundamentos que motivaron las modificaciones. También deberán ser informados los cambios en la metodología y criterios definidos para las pruebas retrospectivas, adjuntando en el informe el impacto en los resultados en las pruebas que se generarán por cada una de esas modificaciones.
 
-- Intereses por pagar otras operaciones (Partida 3820)
+24. En general, los bancos deberán informar a esta Superintendencia de cualquier cambio en sus políticas de administración de riesgos de mercado, para lo cual acompañarán a las actas de las sesiones del Directorio en que se aprobaron los cambios, los nuevos textos del documento único a que se refiere el N° 27 de este título. En el caso de las agencias de bancos extranjeros, se enviará la documentación dentro de los diez días hábiles bancarios contados desde la aprobación de los cambios.
 
-- Cuentas diversas (Partida 4115)
+Sobre información periódica al Directorio
 
-- Bonos subordinados (Partida 4190).
+25. Los bancos deberán informar periódicamente al Directorio (o a quien haga sus veces), sobre los diferentes aspectos relacionados con los riesgos de mercado. Ese informe deberá contemplar, al menos, los siguientes elementos:
 
-Además de lo anterior, se computarán los pasivos subyacentes de los instrumentos derivados, en la banda temporal que corresponda.
+a) Evolución en la exposición a los riesgos de mercado y en los márgenes de esos riesgos, referidos tanto al Libro de Banca como al Libro de Negociación.
 
-VI.- SANCIONES.
+b) Resultados de las pruebas de tensión.
 
-Las entidades financieras que se excedan de los límites a que se refiere el presente Capítulo, podrán ser sancionadas por esta Superintendencia, según lo previsto en el artículo 19 de la Ley General de Bancos.
+c) Resultados de pruebas retrospectivas.
 
-Para ese efecto, se tendrá como una infracción a las presentes instrucciones el incumplimiento dentro de un mes calendario transcurrido, de alguno de los límites que se tratan en este Capítulo.
+d) Informes sobre exposición en derivados.
 
-VII.- INFORMACION SOBRE LA POSICION DE LIQUIDEZ.
+Sobre la información al público
 
-1.- Envío de información periódica a esta Superintendencia.
+26. Para dar cumplimiento a lo dispuesto en el numeral 2.15 del Capítulo III.B.2, los bancos publicarán información sobre la exposición al riesgo de mercado asumido en su actividad, incluyendo también un extracto de sus políticas de riesgo de mercado. Dicha información se referirá al último día de cada trimestre calendario, o bien a su último día hábil, si se prefiere, y se publicará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional, dentro de los quince días siguientes al término del trimestre correspondiente.
 
-La información acerca de la posición de liquidez del banco prevista en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, se enviará a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información.
+Sobre el rol del Directorio
 
-La información consolidada comprenderá los flujos del banco y de sus filiales, como asimismo los de sus sucursales en el exterior, cuando sea el caso. Cuando el banco mida sus descalces sobre base ajustada, la información consolidada incluirá tanto los flujos contractuales como los ajustados de la matriz y sus subsidiarias.
+27. El numeral 2.2 del Capítulo III.B.2 establece que la política de administración de riesgos de mercado debe estar contenida en un documento único, aprobado expresamente por el Directorio, y que éste debe pronunciarse a lo menos una vez al año sobre esa política.
+
+Al respecto debe entenderse que las directrices que debe aprobar el Directorio, o quien haga sus veces, debe cubrir integralmente todos los aspectos que guardan relación con los riesgos de mercado, para cuyo efecto deben considerarse al menos los asuntos que se enuncian en el Anexo N° 3 del Capítulo 1-13 de esta Recopilación.
+
+El pronunciamiento del Directorio que se exige a lo menos una vez al año, se refiere también al conjunto de esas directrices, las que se aprobarán refrendando el documento único exigido por las normas del Banco Central de Chile y de lo cual se dejará constancia en el acta de la correspondiente sesión.
+
+Como es natural, cualquier modificación a alguna de las directrices en una oportunidad distinta a aquella en que se cumple la exigencia de pronunciarse sobre las directrices en su conjunto, debe ser también aprobada por el Directorio siguiendo los mismos procedimientos.
+
+Disposición transitoria
+
+28. Para efectos de distinguir entre el Libro de Negociación y el Libro de Banca, en tanto esta Superintendencia no establezca los criterios para tratar las coberturas contables referidas en el N° 1 de este título, todas las posiciones en instrumento financieros derivados deberán incluirse en el Libro de Negociación.
+
+II.- LIMITES DE DESCALCES DE PLAZOS HASTA 30 Y 90 DIAS.
+
+Para el cumplimiento de los límites establecidos en el N° 1 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, se establecen las siguientes precisiones o instrucciones complementarias:
+
+Sobre las definiciones de los límites
+
+1. Los bancos deben observar en todo momento los siguientes límites de descalce de plazo entre sus flujos de efectivo por pagar y por cobrar hasta 30 y 90 días:
+
+i) la suma de todos los descalces de plazo hasta 30 días, no podrá ser superior al capital básico;
+
+ii) el mismo requisito deberá cumplirse sumando solamente los flujos en moneda extranjera; y
+
+iii) la suma de los descalces de plazo hasta 90 días, no podrá ser superior a dos veces el capital básico.
+
+Todos esos límites se refieren a la situación del banco individualmente considerado y no a la situación consolidada con las filiales.
+
+El límite mencionado en el numeral ii) relativo a la moneda extranjera, comprenderá los flujos de las operaciones o compromisos pagaderos en cualquier moneda extranjera, correspondan o no a las indicadas en el Anexo N° 2 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
+
+Sobre las mediciones
+
+2. Para la medición deben considerarse todos los flujos previstos de efectivo que el banco entregará o recibirá dentro de los plazos antes indicados, con la sola excepción de aquellos que no sean relevantes para determinar la posición de liquidez del banco, siempre que la exclusión de esos flujos menores se encuentre precisada y fundamentada en la política de administración de liquidez de la institución. Por consiguiente, además de las operaciones que se reflejan como activos y pasivos, deben considerarse los compromisos legales o contractuales que aún no se reflejan en el balance, como es el caso de dividendos por pagar por las utilidades de un ejercicio, compromisos de otorgamiento de créditos o contratos de compraventa de activos.
+
+En todo caso, se entiende que no se incluyen para estos efectos los financiamientos futuros (préstamos, depósitos, emisión de títulos o aumentos de capital). Así, por ejemplo, cuando se trate de líneas de crédito obtenidas por el banco, solo deben considerarse los egresos previstos para el pago de los montos ya girados, pero no los ingresos por los giros que pueden realizarse. Del mismo modo, cuando se determinen los flujos sobre base ajustada en las captaciones, sólo pueden considerarse los retiros ajustados considerando las renovaciones de los depósitos a plazo o la permanencia de los saldos en las cuentas de ahorro, pero en ningún caso los nuevos depósitos.
+
+3. Las líneas de crédito y de sobregiros, como asimismo los préstamos rotativos, deben asignarse a las bandas temporales que correspondan según el patrón de comportamiento de los saldos disponibles y de los montos utilizados. Lo anterior se aplicará tanto para los descalces sobre base contractual como ajustada y cualquiera sea la contraparte (minoristas y mayoristas).
+
+4. Cuando se trate de descalces de plazos contractuales, todos los flujos correspondientes a las cuentas de ahorro a plazo con giro incondicional deberán considerarse para el límite indicado en el numeral i) del N° 1, en tanto que las cuentas de ahorro a plazo con giro diferido se incluirán en los límites de que tratan los numerales i) y iii) de ese numeral, considerando para la asignación en el primero de ellos las disposiciones relativas a los giros sin el aviso previo que caracteriza a dichas cuentas.
+
+5. Al tratarse de descalces de plazos ajustados, tanto las cuentas de ahorro a plazo con giro incondicional como las cuentas con giro diferido se asignarán a las bandas temporales que se determinen según su comportamiento. Los importes asignados por las cuentas de ahorro a plazo, no se computarán para efectos de lo dispuesto en el inciso cuarto del numeral 1.9 del Capítulo III.B.2 antes mencionado, referido a porcentajes mínimos de asignación según el plazo contractual.
+
+6. Tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados, los flujos correspondientes a los créditos otorgados por el banco considerarán las tasas de renegociación y de mora que normalmente afectan a la cartera.
+
+7. Los instrumentos financieros con mercado secundario o que pueden ser transados con otro banco, cuando no formen parte de la "cartera permanente" de que trata el Capítulo 8-21 de esta Recopilación ni se encuentren entregados en garantía, se incluirán en las bandas temporales según los flujos que se obtendrían al venderlos sin pérdidas, considerando la liquidez y profundidad del mercado en que ellos se transan. Así, en la banda temporal hasta 7 días se incluirá a su valor de mercado a la fecha del cómputo, aquella cartera que pueda ser vendida dentro de ese plazo sin afectar el precio por el hecho de liquidarla en su totalidad.
+
+El mismo criterio se seguirá para asignar los instrumentos en las bandas temporales siguientes, pero su valorización debe considerar los eventuales cambios adversos en las condiciones generales del mercado. Para estos efectos no se consideran entregados en garantía los instrumentos cedidos con pacto, pudiendo por lo tanto incluirse en las bandas temporales en que dichos pactos ya no se encontrarán vigentes.
+
+Lo indicado en este N° 7 se aplicará tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados.
+
+8. Los instrumentos que no cumplan las condiciones para tratarlos como se indica en el N° 7 precedente, se asignarán en las bandas temporales y por los valores que correspondan a los pagos del emisor, tanto en el caso de plazos contractuales como ajustados.
+
+9. Para los instrumentos derivados que no son negociables en bolsa, se estimará el valor que se pagaría o recibiría en las fechas de intercambios de flujos o de liquidación de cada contrato, según las tasas y precios vigentes en los mercados al momento de la estimación. No obstante, cuando se trate de derivados con liquidación física que involucre moneda chilena y extranjera, se asignarán a las bandas temporales los montos nocionales en cada moneda, debido a la necesidad de medir el descalce de la moneda extranjera.
+
+10. Cuando se determinen los descalces sobre base ajustada, los criterios para efectuar los ajustes de los activos y pasivos y los demás flujos previstos, deberán ser concordantes entre sí, tanto en lo que toca a la distinción entre mayoristas y minoristas, como en lo que se refiere a las bases para establecer el comportamiento.
+
+Sobre la información para esta Superintendencia
+
+11. La información acerca de la posición de liquidez del banco prevista en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, se enviará a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información.
+
+12. La información consolidada comprenderá los flujos del banco y de sus filiales, como asimismo los de sus sucursales en el exterior, cuando sea el caso. Cuando el banco mida sus descalces sobre base ajustada, la información consolidada incluirá tanto los flujos contractuales como los ajustados de la matriz y sus subsidiarias.
 
 En todo caso, para el envío de información consolidada se seguirá el mismo criterio que para la inclusión de los flujos del banco matriz, en el sentido de que se podrán omitir aquellos flujos de las subsidiarias que no sean significativos para la medición de la situación de liquidez consolidada, si su exclusión se encuentra fundamentada en la política de administración de liquidez.
 
-2.- Información al público.
+Sobre la información al público.
 
-Para dar cumplimiento a lo dispuesto en el último inciso del numeral 1.13 del Capítulo III.B.2 antes mencionado, los bancos publicarán su situación individual de liquidez referida al último día de cada trimestre calendario, dentro de los quince días siguientes al término del trimestre correspondiente. La publicación se efectuará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional.
+13. Para dar cumplimiento a lo dispuesto en el último inciso del numeral 1.13 del Capítulo III.B.2 antes mencionado, los bancos publicarán su situación individual de liquidez referida al último día de cada trimestre calendario, dentro de los quince días siguientes al término del trimestre correspondiente. La publicación se efectuará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional.
 
 Se recomienda que además de la información exigida por el Banco Central de Chile, en dicha publicación el banco describa los aspectos esenciales de su política de administración de liquidez.
 
