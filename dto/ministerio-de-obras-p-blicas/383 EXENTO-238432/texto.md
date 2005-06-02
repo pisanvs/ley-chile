@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº383 de fecha 29 de abril del 2005, se expropiaron los lotes de terreno Nºs. 120 y 121, superficies 1.227,00 y 2.485,00 m², Rol Nº145-5, comuna de Queilen, X Región para la obra "Camino Ruta W-853, Teupa - Queilen, Sector Santa María - Queilen, Tramo Km. 25,96000 a Km. 42,34833" y se acordó el valor de indemnización con su propietario Aníbal Nahuelquin Ruiz, ascendente a la cantidad de $1.100.122.- para los lotes Nºs. 120 y 121.
+
+Fiscal del Ministerio de Obras Públicas.
