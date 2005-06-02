@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº377 de fecha 29 de abril de 2005, se expropiaron los lotes de terreno Nos 12 y 13, superficies 216 m² y 385 m², rol de avalúo Nº203-14, comuna de Toltén, para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo I Km. 71,46676 al Km. 80,55700", IX Región y se acordó el valor de la indemnización con su propietario Fermín Evaristo Bravo Aedo y otros, ascendente a la cantidad de $1.059.403.
+
+Fiscal del Ministerio de Obras Públicas.
