@@ -1,0 +1,5 @@
+Por decreto MOP Nº248, de 18 de abril de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs.
+
+24-A y 24-B, para la obra: Habilitación Nuevo Camino La Pólvora Km. 17,86424 - 22,47179, sector 3: Quebrada Las Animas - Puerto Valparaíso, que figuran a nombre de Soc Canteras Valparaíso Ltda, rol de avalúo 1203-001, Comuna de Valparaíso, V Región, superficies 5.810 M2. y 44.207 M2. La Comisión de Peritos, fijó con fecha 4 de enero de 2005, en las cantidades de $22.078.000, para el lote Nº24-A y $30.944.900, para el lote Nº24-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
