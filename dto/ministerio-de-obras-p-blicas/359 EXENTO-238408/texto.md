@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº359, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº3-B, superficie 540,00 m², rol Nº271-505, comuna de Quintero, para la obra "Camino Ruta F-190, sector Colmo - Puchuncaví, Km. 0,00000 a Km. 25,22591", V Región, y se acordó el valor de la indemnización con su propietario Sociedad Inmobiliaria Erreve S.A., ascendente a la cantidad de $1.802.526.
+
+- Fiscal del Ministerio de Obras Públicas.
