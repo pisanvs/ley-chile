@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº375 de 29 de abril de 2005, se expropiaron los lotes de terrenos Nºs. 57 y 58, superficies 133 y 116 m² respectivamente, Rol de Avalúo Nº606-1382, comuna de Nueva Imperial, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial - Carahue Tramo Km. 0,00000 al Km. 21,58295, Subtramo II, Km. 4,04000 al Km. 12,84000" comunas de Nueva Imperial y Carahue, Provincia de Cautín, IX Región y se acordó el valor de indemnización con su propietario Bernardino Calfin Huicalem, ascendente a la cantidad de $634.272.
+
+Fiscal del Ministerio de Obras Públicas.
