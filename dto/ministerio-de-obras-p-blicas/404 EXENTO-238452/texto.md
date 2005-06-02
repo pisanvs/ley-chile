@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº404, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº35, superficie 566,6 m², Rol Nº45-58, comuna de Monte Patria, IV Región, para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, I Etapa" y se acordó el valor de indemnización con su propietario Ricardo Alexis Vega Contreras, ascendente a la cantidad de $1.177.626.
+
+Fiscal del Ministerio de Obras Públicas.
