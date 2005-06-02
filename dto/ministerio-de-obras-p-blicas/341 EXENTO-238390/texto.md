@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº341 de fecha 29 de abril de 2005, se expropiaron los lotes de terreno Nºs. 2 y 4, superficies 949,00 y 458,00 m² respectivamente, rol Nº102-17, comuna de Palena, para la obra "Construcción Puente Correntoso Camino CH-235", X Región y se acordó el valor de la indemnización con su propietario Carlos Bernabé Cárdenas Torres y Otros, ascendente a la cantidad de $4.353.075.
+
+- Fiscal del Ministerio de Obras Públicas.
