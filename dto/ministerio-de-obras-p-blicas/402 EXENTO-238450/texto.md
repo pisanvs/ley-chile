@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº402, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº71-B, superficie 525 m², Rol Nº518-420, comuna de Antuco, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo II Km. 3,95000 a Km. 12,40150", VIII Región y se acordó el valor de la indemnización con su propietario Claudio Pedro Prina Bertsch, ascendente a la cantidad de $636.280.
+
+Fiscal del Ministerio de Obras Públicas.
