@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº208 de fecha 29 de marzo de 2005, se expropiaron los lotes de terreno Nº12, 13, 14, 16, 18, 19 y 20, superficies 1.589,0 m2, 182,5 m2, 244,1 m2, 141,1 m2, 866,1 m2, 338,0 m2 y 468,2 m2, rol de Avalúo Nº45-80, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, I Etapa"; IV Región y se acordó el valor de la indemnización con su propietaria María Inés Olivares Arancibia, ascendente a la cantidad de $6.014.680.
+
+- Fiscal del Ministerio de Obras Públicas.
