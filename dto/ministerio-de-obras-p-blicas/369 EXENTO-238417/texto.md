@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº369 de fecha 29 de abril de 2005, se expropió el lote de terreno Nº297-A, superficie 90 m², Rol en Trámite, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Francisco Javier Núñez Orellana, ascendente a la cantidad de $1.644.750.
+
+- Fiscal del Ministerio de Obras Públicas.
