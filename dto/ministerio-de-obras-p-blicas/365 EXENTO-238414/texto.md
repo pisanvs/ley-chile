@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº365 de fecha 29 de abril de 2005, se expropiaron los lotes de terreno Nos 48 y 49, superficies 631 y 384 m², Rol Nº267-60, comuna de Tucapel, VIII Región, para la obra "Mejoramiento Ruta Q-965, Huépil - Trupán Polcura Tramo II Km. 12,54000 a Km. 22,94000" y se acordó el valor de indemnización con su propietario Luis Aurelio Urra Troncoso, ascendente a la cantidad de $2.373.391.
+
+- Fiscal del Ministerio de Obras Públicas.
