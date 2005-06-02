@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº360, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº97-A, superficie 45 m², Rol Nº518-215, comuna de Antuco, VIII Región, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo II Km. 3,95000 a Km. 12,40150" y se acordó el valor de indemnización con su propietaria Margot Teresa Muller Meixner, ascendente a la cantidad de $865.440.
+
+- Fiscal del Ministerio de Obras Públicas.
