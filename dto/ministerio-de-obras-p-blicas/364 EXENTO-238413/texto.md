@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº364 de fecha 29 de abril de 2005, se expropiaron los lotes de terreno Nos 10-B, 28-A y 28-B, superficies 252 m², 312 m² y 368 m², roles de avalúo Nº65-475 y Nº63-350, comuna de Lonquimay, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, sector acceso Pedregoso - Liucura, Km. 141,00000 al Km. 158,54000 correspondiente al tramo I Km. 141,00000 al Km. 149,22500", IX Región y se acordó el valor de la indemnización con su propietaria Edith María Villalobos Schweitzer, ascendente a la cantidad de $416.495.
+
+- Fiscal del Ministerio de Obras Públicas.
