@@ -1,0 +1,3 @@
+Por decreto MOP Nº294 de fecha 29 de abril de 2005, se expropió el lote de terreno Nº53, superficie 285 m2, rol de Avalúo Nº1403-8, comuna de Antofagasta, para la obra "Mejoramiento Av. Salvador Allende, Tramo Avda. Sarmiento - Av. Costanera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, Sector Avda. Sarmiento - Calle Cardenal Oviedo Cavada", II Región y se acordó el valor de la indemnización con su propietario Waldo Arnaldo Araya Veas, ascendente a la cantidad de $29.339.790.
+
+- Fiscal del Ministerio de Obras Públicas.
