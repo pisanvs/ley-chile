@@ -1,0 +1,3 @@
+Por decreto MOP Nº320 de fecha 29 de abril del 2005, se expropió el lote de terreno Nº19, superficie 3.023 m², rol Nº106-17, comuna de Coltauco, VI Región, para la obra "Camino Molino - Hijuela del Medio, Rol H-320, tramo Km. 0,000 a Km. 4,100" y se acordó el valor de indemnización con su propietario Sociedad Agrícola La Cabaña Limitada, ascendente a la cantidad de $14.963.797.
+
+- Fiscal del Ministerio de Obras Públicas.
