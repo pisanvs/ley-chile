@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº358 de fecha 29 de abril del 2005, se expropió el lote de terreno Nº33-B, superficie 257 m², Rol Nº516-22, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz - Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939" y se acordó el valor de indemnización con su propietaria Sandra Jacqueline Navarro González, ascendente a la cantidad de $1.126.639.
+
+- Fiscal del Ministerio de Obras Públicas.
