@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº372, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº33, superficie 50,6 m², Rol en Trámite, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas - Central Los Molles, Sector Juntas - Rapel, Tramo 0,00000 a Km. 13,28846, I Etapa", IV Región y se acordó el valor de la indemnización con su propietario Manuel Eduardo Ardiles Contreras, ascendente a la cantidad de $365.128.
+
+Fiscal del Ministerio de Obras Públicas.
