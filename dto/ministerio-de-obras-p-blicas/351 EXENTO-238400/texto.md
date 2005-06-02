@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº351 de fecha 29 de abril de 2005, se expropiaron los lotes de terreno Nos 5, 6, 7 y 8, superficies 481 m², 255 m², 1.735 m² y 667 m², rol de avalúo Nº207-63, comuna de Curacautín, para la obra "Camino Malalcahuello - Paso Pino Hachado sector Túnel Las Raíces - Boca Norte y Boca Sur, Km. 93,76700 a Km. 100,64600", IX Región y se acordó el valor de la indemnización con su propietario Domingo Ramón Fuentealba Vivanco, ascendente a la cantidad de $1.583.140.
+
+- Fiscal del Ministerio de Obras Públicas.
