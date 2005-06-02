@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº363 de fecha 29 de abril de 2005, se expropió el lote de terreno Nº187-B, superficie 235 m², rol Nº39-256, comuna de Pichidegua, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Jaime Octavio Lizana Donoso, ascendente a la cantidad de $937.380.
+
+- Fiscal del Ministerio de Obras Públicas.
