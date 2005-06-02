@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº384 de 29 de abril de 2005, se expropió el lote de terreno Nº208, superficie 397 m², Rol Nº238-190, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 87,50000 al 103,33500, correspondiente Sub-Tramo V, Km. 98,29000 al Km. 103,33500" y se acordó el valor de indemnización con su propietario Pablo Llafquén Ñancufil o Pablo Llafquén Ñancofil, ascendente a la cantidad de $519.140.
+
+Fiscal del Ministerio de Obras Públicas.
