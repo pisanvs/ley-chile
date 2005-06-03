@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.299, de 2 de mayo de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Lavapié, VIII Región, individualizada en el artículo 1º Nº6 del D.S. Nº729 de 1997, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES Y RECOLECTORES DE ALGAS MARINAS PUERTO VIEJO DE PUNTA LAVAPIE.
+
+Valparaíso, 2 de mayo de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
