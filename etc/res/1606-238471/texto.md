@@ -1,0 +1,3 @@
+Por resolución Nº 1.606, de 26 de mayo de 2005, de esta Subsecretaría, declárase la caducidad de la autorización de acuicultura otorgada mediante resoluciones Nº 347 de 1982 y Nº 252 de 1987, ambas de esta Subsecretaría, a SOCIEDAD AGRICOLA AGUAS CLARAS LTDA. para una piscicultura ubicada en Hijuela II del ex fundo "El Guanaco", comuna de Peñaflor, Región Metropolitana, en virtud del artículo 142 letra e) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
