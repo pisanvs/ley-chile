@@ -1,0 +1,23 @@
+DECLARA ACTOS, DOCUMENTOS Y ANTECEDENTES SUJETOS A SECRETO O RESERVA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA
+
+Núm. 403 exenta.- Santiago, 27 de mayo de 2005.- Vistos: Lo dispuesto en los artículos 13 y siguientes del DFL Nº1/19.653, de 2000 sobre Bases Generales de la Administración del Estado; las disposiciones de la ley 19.880 sobre Procedimientos Administrativos; el DFL Nº 1, de 1993, del Ministerio de Hacienda; el D.S. Nº 26, de 2001, del Ministerio Secretaría General de la Presidencia, que establece el Reglamento sobre el secreto o reserva de los actos y documentos de la administración; la resolución Ex. Nº 147 de fecha 24 de abril de 2003 de la Presidencia del Consejo de Defensa del Estado y la resolución Nº 520 de la Contraloría General de la República,
+
+Y teniendo presente:
+
+a) Que mediante resolución Ex. Nº 147 de fecha 24 de abril de 2003, dictada por la Presidencia del Consejo se declaró que revestían el carácter de secreto o reservado, para los efectos establecidos en el artículo 9º del decreto supremo Nº 26, de 2001, determinados actos, documentos y antecedentes emanados del Servicio, teniendo en vista la naturaleza de las funciones del Consejo de Defensa del Estado, como asimismo las disposiciones legales especiales que regulan tales funciones;
+
+b) Que revisado el texto de la citada resolución Ex. Nº147 conforme a las disposiciones legales y reglamentarias que regulan la materia, se ha concluido que es procedente mantener protegidas con la declaración de secreto o reserva las actas de las sesiones del Consejo y de sus Secciones, por contener ellas antecedentes que reflejan fielmente la exposición, análisis, debate y decisión de los numerosos asuntos tratados en las respectivas sesiones, los que incuestionablemente se encuentran ligados al secreto profesional o a estrategias procesales, que de ser conocidos por terceros, podrían impedir u obstaculizar gravemente el ejercicio de la acción del Servicio, comprometiendo fuertemente el interés del Estado, que la institución Consejo de Defensa del Estado está llamada por ley a resguardar y por lo tanto las actas referidas deben ser materia de la declaración a que alude el artículo 9º del reglamento contenido en el D.S. Nº 29 citado anteriormente;
+
+c) Que se exceptúan del principio general de transparencia y de publicidad de los actos de la Administración del Estado, aquellos actos, documentos, o actuaciones regulados en normas especiales y por lo tanto es innecesario que la jefatura del Servicio haga una declaración de secreto o reserva, por ejemplo, con respecto a los casos del artículo 61 de la ley orgánica, los mencionados en la ley 19.366 sobre tráfico de estupefacientes, los del artículo 51 de la ley 19.966 sobre mediación en salud o con relación a algunas de las hipótesis a que se refieren los artículos 231, 246, 247 y 247 bis del Código Penal, normativa que el Consejo y sus funcionarios están en la obligación de respetar y cumplir,
+
+Resuelvo:
+
+1.- Declárase, para los efectos de lo establecido en el D.S. Nº 26, de 2001, del Ministerio Secretaría General de la Presidencia, que son secretas las actas, y en su caso, sus anexos, de las sesiones secretas del Consejo y de sus Secciones, y que son reservadas las actas de las sesiones ordinarias o extraordinarias del Consejo y de sus Secciones, y de sus anexos, en su caso.
+
+2.- Los demás actos, documentos e instrumentos que genere el Servicio tienen el carácter de públicos, con excepción de aquellos que normas especiales declaren secretos o reservados o de aquellos que no puedan ser dados a conocer sin previa aceptación de terceros titulares de la información o que se estimare que pueden afectar sensiblemente sus derechos o intereses.
+
+3.- Déjase sin efecto la resolución Ex. Nº 147 de 24 de abril de 2003 de la Presidencia del Consejo de Defensa del Estado.
+
+Anótese, comuníquese y publíquese.- Eduardo Urrejola González, Presidente (S) Consejo de Defensa del Estado.
+
+Lo que transcribo a Ud. para su conocimiento.- Keny Miranda Ocampo, Secretario Abogado.
