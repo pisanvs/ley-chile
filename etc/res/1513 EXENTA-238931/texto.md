@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.513, de 19 de mayo de 2005, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A., para ampliar actividades pesqueras extractivas con la nave "Loa 2", en el área marítima correspondiente a la I y II Regiones, por fuera del área de reserva artesanal, donde podrá capturar con cerco: Pampanito.
+
+Valparaíso, 19 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
