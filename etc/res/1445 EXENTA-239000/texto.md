@@ -1,0 +1,13 @@
+Por resolución exenta Nº 1.445, de 16 de mayo de 2005, de esta Subsecretaría, autorízase a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2004-45 denominado "Determinación de las zonas y época de reclutamiento de Camarón nailon, Langostino amarillo y Langostino colorado entre la III y IV Regiones".
+
+El objetivo general de la pesca de investigación consiste en identificar y caracterizar las zonas y épocas de reclutamiento del Camarón nailon, Langostino amarillo y Langostino colorado, en el litoral comprendido entre la III y IV Regiones.
+
+La pesca de investigación se efectuará por el periodo de 1 año contado desde la fecha de la publicación del extracto de la presente resolución en el Diario Oficial, en el área marítima comprendida entre el límite Norte de la III Región y el límite Sur de la IV Región, dentro y fuera del área de reserva artesanal.
+
+Podrá participar en la pesca de investigación la nave "Stella Maris II", cuyo armador es la Universidad Católica del Norte, la que podrá operar por fuera y al interior del área de reserva artesanal, incluyendo la primera milla, utilizando implementos de muestreo de fondo (red Agassiz y draga SmithMcIntyre), de conformidad con lo dispuesto en el artículo 3º del DS Nº 200 de 2003, del Ministerio de Economía, Fomento y Reconstrucción. Asimismo, podrán participar, con redes de arrastre modificadas con cubre túnel y cubre copo confeccionados con malla anchovetera de 14 mm. de abertura de malla, las siguientes naves industriales que cuentan con autorización de pesca para operar en el área marítima comprendida entre la III y IV Regiones sobre Camarón nailon, Langostino amarillo y Langostino colorado: "Amancay I", "Cachagua I", "Linda Kay", "Nisshin Maru III", "Dubrovnik II", "Foche", "Lonquimay" y "Vama II".
+
+En cumplimiento del objetivo de la presente pesca de investigación, las naves industriales determinadas por el Consultor de conformidad con el numeral anterior podrán extraer una cuota máxima total de 10 toneladas de Camarón nailon, 10 toneladas de Langostino amarillo y 10 toneladas de Langostino colorado. Asimismo, las naves industriales antes indicadas podrán extraer el recurso Merluza común, en calidad de fauna acompañante de cada una de las especies objetivo antes individualizadas, con un máximo de un 2% medido en peso, por viaje de pesca.
+
+La Universidad Católica del Norte designa como persona responsable de esta pesca de investigación a don Luis Moncayo Martínez, domiciliado en Larrondo Nº 1281, Coquimbo.
+
+Valparaíso, 16 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
