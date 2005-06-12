@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A CIGNA COMPAÑIA DE SEGUROS DE VIDA (CHILE) S.A.
+
+Certifico: Que por resolución exenta Nº 384, de fecha 3 de junio de 2005, esta Superintendencia de Valores y Seguros aprobó la modificación de los estatutos de la sociedad anónima denominada "Cigna Compañía de Seguros de Vida (Chile) S.A.", acordada en Junta Extraordinaria de Accionistas de fecha 29 de abril de 2005, cuya acta fue reducida a escritura pública de la misma fecha, otorgada ante el Notario de Santiago don José Musalem Saffie, domiciliado en calle Huérfanos Nº770, Santiago.
+
+La reforma consiste en: a) Modificar el artículo 23 de los estatutos, en el sentido de eliminar la obligación de remitir a cada accionista una citación por correo para las juntas de accionistas de la sociedad. b) Modificar el artículo 27 Nº 4 de los estatutos, en el sentido de disponer que será materia de Junta Extraordinaria de Accionistas "la enajenación del activo de la sociedad en los términos señalados en el artículo 67 Nº 9 de la ley Nº 18.046, o el cincuenta por ciento o más del pasivo". Demás estipulaciones constan en escritura extractada.
+
+Santiago, 3 de junio de 2005.- Carmen Undurraga Martínez, Secretario General.
