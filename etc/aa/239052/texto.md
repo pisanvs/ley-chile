@@ -1,0 +1,45 @@
+AUTO ACORDADO DE LA CORTE DE APELACIONES DE SANTIAGO SOBRE TRAMITACION EN SISTEMA INFORMATICO DE LAS CAUSAS DE LA REFORMA PROCESAL PENAL
+
+Santiago, treinta de mayo de dos mil cinco.- Reunida la Corte de Apelaciones de Santiago en Pleno, con la asistencia de su Presidente Titular Ministro señor Juan Escobar Zepeda y de los Ministros Titulares señores Ballesteros, Cerda, Pffeifer, González, Villarroel Ramírez, señora Araneda, señores Araya, Dolmestch, Brito, Dahm, Muñoz Pardo, Fuentes, Villarroel Valdivia, Cisternas, Solís, Montiglio, señora Chevesich, señor Silva, señora Maggi, señores Muñoz Gajardo, Zepeda, señora Lusic, señor Madrid, señora Valdovinos y señor Billard.
+
+Considerando: Que, en el curso del presente mes, la Excma. Corte Suprema de Justicia de la República aprobó el Sistema de Información de Apoyo a la Gestión Judicial (SIAGJ), implementando el Manual de Procedimiento para los Juzgados de Garantía de la Reforma Procesal Penal que contempla el sistema de carpetas en soporte electrónico y en cumplimiento a los principios de publicidad, oralidad, inmediación, desformalización y legalidad, es necesario definir algunos aspectos básicos que contribuyan a la adecuada tramitación de los asuntos que le corresponderá conocer a esta Corte de Apelaciones en el marco del nuevo sistema procesal penal, buscando su mayor economía, eficiencia y eficacia, como también evitando las formalidades y dilaciones innecesarias asociadas al proceso. Por tanto, en uso de sus facultades económicas,
+
+Se acuerda:
+
+1.- Registro Informático de Causas. Las actuaciones que corresponda realizar ante este tribunal se efectuará bajo formato computacional y de audio, incorporado a una carpeta individual que sólo se integrará con el registro, en dicho soporte, de los antecedentes que den cuenta de las actuaciones, presentaciones de las partes y resoluciones adoptadas por el tribunal en el curso del procedimiento y que de acuerdo a la ley corresponda registrar.
+
+2.- Ingreso de Causas. El ingreso de causas se efectuará por la Oficina de Ingreso y Distribución, mediante interconexión electrónica con los diversos juzgados de garantía y tribunales penales del juicio oral, utilizando el SIAGJ y de acuerdo al Manual de Procedimiento para los Juzgados de Garantía de la Reforma Procesal Penal, debiendo constar los antecedentes necesarios para conocer del recurso, el que además del registro de audio pertinente, deberá contener íntegramente la resolución impugnada, la presentación por medio de la cual se interpone el recurso, la decisión que lo concede y la individualización de los intervinientes y sus apoderados, como la forma señalada para su notificación. En el evento que los juzgados y tribunales, por cualquier causa, vean suspendido el SIAGJ, deberán remitir una carpeta bajo registro computacional generado con la aplicación Word para Windows XP, que deberá contener la información antes definida. Los ingresos de recursos que deba interponerse directamente ante este tribunal, seguirán las reglas generales y las relativas a la presentación de escritos.
+
+3.- Rol Unico de Corte. Al ingresar la causa por la Oficina de Ingreso y Distribución se le asignará un Rol Interno del Tribunal (RIT) de carácter anual, sin perjuicio de mantener visible el Rol Unico de Causa (RUC), conforme a la tipología acordada por esta Corte.
+
+4.- Presentación de Escritos. Toda presentación de escritos que se ingrese ante esta Corte, y que se encuentre contemplado en la legislación que regla el nuevo procedimiento penal, se hará en la Oficina de Ingreso y Distribución o por conducto de la Secretaría Criminal de esta Corte, vía domicilio, timbrando físicamente el escrito, y, además, por medio de registro computacional generado bajo la aplicación Word para Windows XP o el que en el futuro se designe, que se entregará al momento de la presentación o se remitirá previamente mediante correo electrónico a la dirección csantiagoingpenal@pjud.cl; archivo computacional que será denominado por el número de Rol de Ingreso de la Corte de Apelaciones (RIT), cuando proceda, y al deducirse un recurso, se deberá proporcionar el Rol Unico de Causa (RUC), en el evento que incida en una causa iniciada ante los juzgados y tribunales respectivos, el que se indicará.
+
+En el evento que no se dé cumplimiento a dichas exigencias los escritos no serán ingresados al sistema y se devolverán a quien los presenta, sin ser recepcionados.
+
+Las presentaciones deberán indicar claramente el Rol Unico de Causa y el Rol Interno del Tribunal, el delito y nombre del imputado.
+
+5.- Sorteo y Tablas. El señor Presidente de la Corte definirá los aspectos relacionados con el sorteo de las apelaciones de medidas cautelares, observando en ello las reglas de radicación. Diariamente se confeccionará una tabla de causas agregadas extraordinariamente en que se designará la audiencia en que habrá de ser vista, correspondiente al nuevo sistema procesal penal, por sala y en soporte electrónico. El día viernes de cada semana se confeccionará la tabla ordinaria en igual forma. La formación y confección de estas tablas quedará bajo la supervisión del señor Presidente y de la Secretaría Criminal.
+
+6.- Bloqueo y Notificaciones. Corresponderá a la Secretaría Criminal la labor de bloqueo y notificación a los intervinientes, que se efectuará a través del sistema computacional, por el Estado Diario y, además, mediante correo electrónico a las partes que hayan designado esta forma de notificación ante los juzgados o tribunales respectivos.
+
+7.- Verificación de la Recepción de Causas y de la Incorporación de Resoluciones al Sistema Computacional. Sin perjuicio de la responsabilidad de la Oficina de Ingreso y Distribución, quedará bajo la supervigilancia de la Secretaría Criminal el ingreso efectivo de todos los recursos concedidos por los juzgados de garantía y tribunales orales en lo penal, como de la efectiva incorporación de las resoluciones dictadas por la Corte al sistema de seguimiento computacional y de su comunicación a dichos juzgados y tribunales.
+
+8.- Admisibilidad de los Recursos. El pronunciamiento respecto de la admisibilidad de los recursos ante este tribunal será efectuado por la Sala que deba conocer del mismo, mediante la cuenta del relator, salvo que se estime necesario oír a los abogados de los intervinientes al respecto, caso en el cual se les invitará en la misma audiencia o en la que se fije de inmediato.
+
+9.- Radicación. En los eventos que, de acuerdo a lo dispuesto en el inciso cuarto del artículo 69 del Código Orgánico de Tribunales, sea de conocimiento de la Sala que haya sido designada o visto por primera vez del recurso de amparo o apelación, la causa quedará asignada a la Sala respectiva en el Rol Unico de Causa.
+
+10.- Funciones de los Relatores. Los relatores de la Corte tendrán como únicas funciones en la vista de los recursos del nuevo sistema procesal penal, dar cuenta al tribunal en los casos establecidos por las disposiciones vigentes, entre ellas de la admisibilidad de los recursos, y servir de ministro de fe respecto de la realización de la audiencia, mediante firma digital.
+
+11.- Funciones de los Digitadores. Será de responsabilidad de los digitadores de cada Sala el lleno de los datos correspondientes en las plantillas de las causas correspondientes en cada audiencia y regulación del sistema de audio, como de la digitalización de las resoluciones pronunciadas por la Sala, en que actuará como ministro de fe el Relator.
+
+12.- Registro de Resoluciones. El registro de la tramitación de la causa, audiencias y resoluciones sólo se efectuará de manera electrónica, al que se integrará el audio. No existirá registro físico escrito.
+
+13.- Copias. Para elevar copia de los registros a la Excma. Corte Suprema, en su caso, se efectuará mediante soporte en disco compacto u otro sistema que se designe. Las solicitudes de copia se entenderán satisfechas por el hecho de incorporarse al procedimiento único centralizado y automatizado, que pueden ser leídos en los sistemas de autoconsulta implementados por la Corte y, de requerirse "copias de registro de audio" se hará entrega de un disco compacto en blanco por el peticionario, el que se devolverá con la información requerida, tan pronto lo permitan las labores del personal de secretaría. El Ministerio Público y Defensoría Penal Pública se regirán por los convenios de interconexión suscritos por sus direcciones nacionales.
+
+14.- Consulta Supletoria del Manual de Procedimiento para los Juzgados de Garantía de la Reforma Procesal Penal. En los aspectos que no se encuentran expresamente previstos por este Auto Acordado, se consultará el Manual de Procedimiento para los Juzgados de Garantía de la Reforma Procesal Penal, bajo el principio que sólo existirá carpeta computacional o electrónica, con el respaldo semanal y mensual implementado por la Corporación Administrativa del Poder Judicial.
+
+15.- Vigencia. Este Auto Acordado entrará en vigencia el día 16 de junio de 2005.
+
+16.- Publicación. Publíquese el presente Auto Acordado en el Diario Oficial.-
+
+Presidente Iltma. Corte de Apelaciones de Santiago. Juan Escobar Zepeda,
