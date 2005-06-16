@@ -1,0 +1,3 @@
+Por decreto MOP Nº 308, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº 25, superficie 3.984 m², Rol Nº 273-157, comuna de Tucapel, VIII Región, para la obra "Mejoramiento Ruta Q-965, Huépil - Trupán - Polcura, Tramo I Km. 0,00000 a Km. 12,54000", y se acordó el valor de la indemnización con su propietario Luis Armando Muñoz Figueroa ascendente a la cantidad de $3.056.259.-
+
+Fiscal del Ministerio de Obras Públicas.
