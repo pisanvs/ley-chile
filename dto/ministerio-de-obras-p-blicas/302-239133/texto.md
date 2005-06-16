@@ -1,0 +1,3 @@
+Por decreto MOP Nº 302, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº 107, superficie 81 m², Rol Nº 1435-3, comuna de Antofagasta, II Región, para la obra "Mejoramiento Av. Salvador Allende, tramo Av. Sarmiento - Avda. Costanera, comuna de Antofagasta, provincia de Antofagasta, II Región, sector calle Chuquicamata - Avda. Costanera Norte - E. Pérez Z.", y se acordó el valor de indemnización con su propietario Héctor Aliro Alarcón Mena ascendente a la cantidad de $13.693.578.-
+
+Fiscal del Ministerio de Obras Públicas.
