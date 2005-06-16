@@ -1,0 +1,3 @@
+Por decreto MOP Nº 309, de fecha 29 de abril de 2005, se expropiaron los lotes de terrenos Nºs. 162 y 163, superficies 430 m² y 141 m², respectivamente, Rol Nº 32-28, comuna de Pichidegua, VI Región, para la obra "Camino Colchagua - Pichidegua, Sector San Roberto - Cruceros, Km. 12,30000 a Km. 26,00400, comuna de Pichidegua, provincia de Colchagua", y se acordó el valor de indemnización con su propietaria Amanda Guillermina Lucero Cordero y Otros ascendente a la cantidad de $6.216.505.-
+
+Fiscal del Ministerio de Obras Públicas.
