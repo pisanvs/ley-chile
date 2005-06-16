@@ -1,0 +1,3 @@
+Por decreto MOP Nº 306 de 29 de abril de 2005, se expropiaron los lotes de terrenos Nºs. 27-B y 31-A, superficies 129 y 3.550 M2 respectivamente, rol de avalúo Nº 117-11, comuna de Nueva Imperial, para la obra "Camino Reposición, Ruta S-40, Sector Nueva Imperial-Carahue Tramo Km. 0,00000 al Km. 21,58295, Subtramo I Km. 0,00000 al Km. 4,04000", IX Región y se acordó el valor de la indemnización con su propietario Juan Guillermo Ñanco Huenchun, ascendente a la cantidad de $10.646.837.-
+
+Fiscal del Ministerio de Obras Públicas.
