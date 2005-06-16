@@ -1,0 +1,3 @@
+Por decreto MOP Nº 311 de fecha 29 de abril de 2005, se expropiaron los lotes de terrenos Nºs. 18-A y 18-C, superficies 9.854,60 y 6.695,00 M2 respectivamente, rol Nº 232-73, comuna de Quellón, para la obra "Camino Ruta 5 Sur, Sector Compu-Colonia Yungay, Tramo Km. 1.240,00 a Km. 1.257,445 y Sector Curva La Herradura, Tramo Km. 1.263,50 Km. 1.264,309", X Región, y se acordó el valor de la indemnización con su propietaria Dina Panichine Chiguai y otros, ascendente a la cantidad de $8.815.489.-
+
+Fiscal del Ministerio de Obras Públicas.
