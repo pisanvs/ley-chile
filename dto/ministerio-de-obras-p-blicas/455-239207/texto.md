@@ -1,0 +1,3 @@
+Por decreto MOP Nº 455, de 24 de mayo de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto exento MOP Nº 1.569, de 31 de octubre de 2002, en la parte que se refiere al Convenio Directo de Precio Ad- Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 32, fijada por la comisión de peritos con fecha 8 de septiembre de 2000, ascendente a la cantidad de $182.400.
+
+- Fiscal del Ministerio de Obras Públicas.
