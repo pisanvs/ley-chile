@@ -1,0 +1,3 @@
+Por decreto MOP Nº 303, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº 62, superficie 4.474 m², Rol Nº 187-248, comuna de San Vicente, VI Región, para la obra "Proyecto Mejoramiento Ruta H-830, Sector San Vicente - El Cardal - Millahue, Km. 0,000 al Km. 8,622", y se acordó el valor de indemnización con su propietario Agrícola Los Carrizos Limitada ascendente a la cantidad de $17.090.045.-
+
+Fiscal del Ministerio de Obras Públicas.
