@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 313 de 29 de abril de 2005, se expropió el lote de terreno Nº 4-C, superficie 286 M2, rol Nº 266-400, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, Sector Carahue-Puerto Domínguez, Km. 0,00000 a Km. 7,34893", y se acordó el valor de indemnización con su propietario Belarmino Avila Escobar, ascendente a la cantidad de $21.754.891.-
+
+Fiscal del Ministerio de Obras Públicas.
