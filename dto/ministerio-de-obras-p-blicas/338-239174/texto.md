@@ -1,0 +1,5 @@
+Por decreto MOP Nº 338, de 29 de abril de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 526-2 para la obra: "Concesión Internacional Ruta 5. Tramo Temuco -
+
+Río Bueno. Km. 874.200,00 a Km. 874.800,00"; Décima Región, que figura a nombre de Azócar Vega Cándido Segundo, rol de avalúo 538-144, comuna de La Unión, superficie 6.469 m2. La comisión de peritos integrada por los señores Nelson Bernardo Turra Turra, Enrique Edgardo Hoelck Altmann y Leopoldo Schumacher Guarda, fijó con fecha 07 de marzo de 2005, el valor provisional de la indemnización en la cantidad de $35.289.450.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
