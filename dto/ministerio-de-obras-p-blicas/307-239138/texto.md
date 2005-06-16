@@ -1,0 +1,3 @@
+Por decreto MOP Nº 307, de fecha 29 de abril de 2005, se expropió el lote de terreno Nº 54, superficie 9.265 m², Rol Nº 270-213, comuna de Tucapel, VIII Región, para la obra "Mejoramiento Ruta Q-965, Huépil - Trupán - Polcura, Tramo I Km. 0,00000 a Km. 12,54000", y se acordó el valor de indemnización con su propietaria Olga Guillermina Bustamante Muñoz ascendente a la cantidad de $5.416.262.-
+
+Fiscal del Ministerio de Obras Públicas.
