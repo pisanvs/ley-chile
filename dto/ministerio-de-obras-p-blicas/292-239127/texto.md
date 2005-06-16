@@ -1,0 +1,3 @@
+Por decreto MOP Nº 292 de fecha 29 de abril de 2005, se expropiaron los lotes de terreno Nºs. 8, 8-A y 9-A, superficies 2.139,94, 1.464,62 y 6.633,62 m², respectivamente, Rol Nº 271-127, comuna de Quintero, V Región para la obra "Camino Ruta F-190, sector Colmo - Puchuncaví, Km. 0,00000 a Km. 25,22591, comunas de Limache, Concón, Quintero, Puchuncaví y Quillota, provincias de Valparaíso y Quillota, V Región", y se acordó el valor de indemnización con su propietaria Lucy Graciela Astiasarain Landeta, ascendente a la cantidad de $26.924.374.-
+
+Fiscal del Ministerio de Obras Públicas.
