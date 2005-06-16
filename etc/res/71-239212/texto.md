@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA
+
+Por resolución Nº 71 del 26 de mayo de 2005, Serviu Región de Tarapacá, conforme a DL Nº 1.523 de 1976 y Nº 2.186 de 1978 y DS Nº 355 de 1976, 131 de 2002, todos de Vivienda y Urbanismo, dispuso expropiación del inmueble ubicado en Iquique, calle Las Montañas Nº 2415-2421-2427-2429, Rol de Avalúo Nº 33-1, de una superficie aproximada de 325,26 m2, de presunto dominio de Marcela del Carmen Rosales Godoy, Ana Véliz Ramírez, Martha Luisa Tirado Villar y Albino Bernabé Huaiquil Bello. Comisión integrada por peritos señores Héctor Ruiz Le-Beuffe, Arquitecto, Gastón González Kemnis y Moisés Gatica González, Constructores Civiles, según informe de tasación de fecha 10 de mayo de 2005, fijó monto provisional de indemnización en $45.500.000.- pagadera al contado.
+
+- Dina Tarraza Lovazzano, Directora Serviu Región de Tarapacá.
