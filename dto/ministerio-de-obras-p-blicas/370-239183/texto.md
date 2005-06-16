@@ -1,0 +1,5 @@
+Por decreto MOP Nº 370, de 9 de mayo de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206 de 1960, se expropió el lote de terreno Nº 2 para la obra:
+
+"Proyecto: Concesión Internacional Sistema Américo Vespucio Nor - Poniente. Avda. El Salto - Ruta 78. Tramo 1: El Salto - Pedro Fontova", Región Metropolitana, que figura a nombre de Riesco Larraín María, rol de avalúo 3110-49, comuna de Huechuraba, superficie 13.588 m2. La comisión de peritos integrada por los señores Rossana Alejandra Hernández Avalos, Bárbara Claudia Goring Quiroz e Itsang Lu Chen, fijó con fecha 10 de diciembre de 2004, el valor provisional de la indemnización en la cantidad de $285.213.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
