@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.780, de esta Subsecretaría, autorízase a SERVICIOS PESQUEROS LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Malaquías Concha Nº 939, San Vicente, Talcahuano, VIII Región, donde podrá elaborar en las líneas de proceso de Fresco Refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
