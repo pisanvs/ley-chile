@@ -15084,6 +15084,8 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS.
 
 - Emisión y operación de tarjetas de pago con provisión de fondos.
 
+- Proveer medios de acceso a los servicios de transporte de personas, efectuar la recaudación, administración y custodia de los recursos provenientes de la comercialización y recarga de los medios que se provean para ese fin, distintos de los demás indicados en el Capítulo III.J.3 del Compendio de Normas Financieras del Banco Central de Chile, atender la distribución, entre los proveedores de los servicios de transporte, de los fondos recaudados y la prestación de servicios destinados a facilitar el cumplimiento de esos fines.
+
 - Otros servicios vinculados a los sistemas de pagos.
 
 B) OTROS SERVICIOS.
