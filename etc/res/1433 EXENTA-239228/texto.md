@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.433, de 13 de mayo de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta Hueicolla Sector B, X Región, individualizada en el 1º Nº 3 del decreto exento Nº 942 de 2002, modificado mediante decreto exento Nº 772 de 2003, ambos del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES DEL BALNEARIO DE NIEBLA.
+
+Valparaíso, 13 de mayo de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
