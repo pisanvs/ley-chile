@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A PAPELES CORDILLERA S.A.
+
+La Dirección Grandes Contribuyentes del S.I.I., por resolución Ex. Nº 17.100 / 76 de 02.06.2005, otorga, a contar del día 1º del mes siguiente al de esta publicación y hasta el 30 de abril de 2006 a la empresa Papeles Cordillera S.A., RUT Nº 96.853.150-6, la calidad de Agente Retenedor del cambio total de sujeto pasivo de derecho del I.V.A. en la venta de papeles y cartones para reciclar, establecido en Res. Ex. Nº 29 de 11.03.2005 de la Dirección Nacional, publicada en Diario Oficial de 17.03.2005.
