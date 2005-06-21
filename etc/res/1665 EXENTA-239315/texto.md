@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.665, de 2 de junio de 2005 de esta Subsecretaría, autorízase a MARIA ISABEL CARDENAS CONSTANZO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Mocopulli rural, Dalcahue, Chiloé, X Región, donde podrá elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado, congelado, seco salado, ahumado y conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 2 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
