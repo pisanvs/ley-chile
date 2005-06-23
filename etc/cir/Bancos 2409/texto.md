@@ -12522,6 +12522,28 @@ La venta se efectuará por documentos completos y su pago deberá percibirse al 
 
 En ningún caso podrán ser recomprados por la institución financiera, los activos correspondientes a su cartera de colocaciones que haya vendido a una sociedad securitizadora o fondo de inversión.
 
+5.- Disposiciones contables.
+
+5.1.- Baja del Balance.
+
+Para registrar una operación de securitización, los bancos deberán aplicar los criterios del IAS 39, revisado por el IASB en diciembre de 2003, relativos a las bajas de activos del Balance y reconocimiento de un pasivo financiero, cuando la institución no haya transferido substancialmente los riesgos o siga expuesta en algún grado a la variabilidad de los flujos futuros, como ha ocurrido en la práctica con la estructuración de bonos subordinados ("junior").
+
+En el evento de que se pacte una cesión de títulos en la cual no corresponda dar de baja la totalidad del activo, se consultará a esta Superintendencia sobre la inclusión de los saldos de activo y pasivo en los distintos archivos que se remiten a este Organismo.
+
+Lo indicado en este numeral se aplicará para las securitizaciones efectuadas a contar del 1° de enero de 2005, tanto para registrar las operaciones realizadas por el banco como para los efectos de consolidación con sus filiales que las realicen.
+
+5.2.- Valoración de los bonos.
+
+Los bonos provenientes de una securitización que se mantengan en el activo, deberán valorarse a su valor razonable según lo previsto en el Capítulo 7-12 de esta Recopilación.
+
+Las entidades que tengan bonos subordinados adquiridos hasta el 31 de diciembre de 2004, determinarán su valor razonable considerando el flujo de recuperación estimado de los activos cedidos y el comportamiento histórico de prepagos de créditos similares a aquellos que dieron origen a la emisión de esos bonos.
+
+5.3.- Venta de bonos subordinados a partes relacionadas.
+
+La transferencia a partes relacionadas al banco de bonos subordinados provenientes de activos originados o vendidos por la propia institución, requerirá de la conformidad previa de esta Superintendencia.
+
+Dicha conformidad se solicitará por escrito, acompañando todos los antecedentes que justifican la transacción.
+
 CAPITULO 9-1 (Bancos y Financieras)
 
 MATERIA:
@@ -12666,9 +12688,7 @@ En los casos en que se requiera ampliar el monto de emisión de una serie inclui
 
 2.- Tablas de Desarrollo.
 
-Requisito indispensable para el registro del prospecto, será el envío a esta Superintendencia, para su aprobación, de las tablas de desarrollo correspondientes a las letras de crédito y aquéllas que se utilizarán para los respectivos mutuos hipotecarios. Dichas tablas deben prepararse de acuerdo con las instrucciones del presente capítulo y cuando correspondan a créditos para
-
-adquisición de viviendas, teniendo presente, también, el Reglamento Financiero contenido en el Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile.
+Requisito indispensable para el registro del prospecto, será el envío a esta Superintendencia, para su aprobación, de las tablas de desarrollo correspondientes a las letras de crédito y de la información relativa a las tablas de desarrollo que se utilizarán para los respectivos mutuos hipotecarios. Dichas tablas deben prepararse de acuerdo con las instrucciones de este Capítulo y teniendo presente también, cuando correspondan a créditos para adquisición de viviendas, el Reglamento Financiero contenido en el Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 2.1.- Tablas de desarrollo de las letras de crédito.
 
@@ -12726,9 +12746,9 @@ En todo caso, para construir una tabla de desarrollo de letras de crédito para 
 
 El valor presente que se determine no deberá contener una diferencia superior o inferior a 0,0005 unidades, para una obligación o deuda referida a una unidad de capital.
 
-Debido a que la modalidad de cobro de las comisiones y el monto de éstas dependerán de las opciones elegidas por cada institución financiera, las tablas de desarrollo de los mutuos deberán enviarse siempre a esta Superintendencia.
+A cada tabla de desarrollo de letras de crédito deberá acompañarse en un anexo a la misma, un extracto de la tabla de desarrollo de los mutuos correspondientes. En ese extracto se informará solamente lo siguiente: La serie de las letras correspondientes; la tasa de la comisión prevista para los respectivos préstamos; el número y la periodicidad de los dividendos; y el total de los intereses y de la comisión que se percibirá según la respectiva tabla de desarrollo, en relación a una unidad de capital. Si se contemplaran diferentes tasas de comisiones para una misma serie de letras, se incluirá la información correspondiente a cada una de las tasas consideradas.
 
-Estas tablas de desarrollo deberán construirse sujetándose a la tabla de las respectivas letras de crédito, de manera que la amortización más los intereses de tres dividendos mensuales del mutuo, debe corresponder al valor del cupón trimestral de la letra. El servicio de la deuda deberá efectuarse por medio de dividendos mensuales anticipados que comprendan amortización, intereses y comisión, en tanto que los cupones de las respectivas letras de crédito incluirán la amortización y el interés pagadero trimestralmente, en forma vencida.
+Cuando se trate del registro de letras de crédito, correspondientes a series cuyas tablas de desarrollo no sea necesario enviar por encontrarse ya incorporadas al Anexo N° 11 de este Capítulo se remitirá, de todas maneras, junto con la solicitud de registro, la información antedicha relativa a las tablas de desarrollo previstas para los respectivos mutuos.
 
 2.4.- Aprobación de las tablas de desarrollo.
 
