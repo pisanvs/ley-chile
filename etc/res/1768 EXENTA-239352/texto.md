@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.768, de 8 de junio de 2005, de esta Subsecretaría, autorízase a KARIM MARIT-ZA ELLWANGER RINGLER, para transferir a Marine Harvest Chile S.A. la piscicultura ubicada en el Fundo "La Isla", ribera norte del Río Pilmaiquén, X Región, autorizada por resolución Nº 2.221 de 2004, de esta Subsecretaría.
+
+Valparaíso, 8 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
