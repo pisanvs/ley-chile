@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.741 de 7 de junio de 2005 de esta Subsecretaría, autorízase a PATAGONIA SALMON FARMING S.A., para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Bahía Ilque s/n, Puerto Montt, X Región, en las líneas de proceso de Fresco enfriado, Congelado y Salado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 7 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
