@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.674 de 2 de junio de 2005 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Los Cahueles, X Región, individualizada en el artículo 1º Nº2 del decreto exento Nº601 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION GREMIAL DE PESCADORES ARTESANALES LAS LAJAS DE QUENUIR.
+
+Valparaíso, 2 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
