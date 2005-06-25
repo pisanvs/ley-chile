@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.838, de 16 de junio de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204101194, presentada por ANIBAL SEGUNDO OYARZUN HERNANDEZ, José Ramón Marquardt Paiñel y Víctor Guillermo Díaz Soto, para un centro de cultivo ubicado en Seno Reloncaví, al norte del río Mañihueico, X Región.
+
+Valparaíso, 16 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
