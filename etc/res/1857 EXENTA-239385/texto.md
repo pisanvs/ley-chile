@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.857, de 17 de junio de 2005, de esta Subsecretaría, recházase la solicitud de autorización de acuicultura Nº 203051006 presentada por SOCIEDAD AGROACUICOLA Y COMERCIAL RIBAMAR LIMITADA, para instalar y operar una piscicultura en un terreno privado localizado en Canal Vertiente Aguas Claras, V Región.
+
+Valparaíso, 17 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
