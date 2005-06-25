@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.740, de 7 de junio de 2005, de esta Subsecretaría, autorízase a PESQUERA CATALINA S.A. para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas precedentemente, en orden a incorporar a la planta ubicada en Ruta 78, Km. 104,5, parcela Colenhuao, San Antonio, V Región, en las líneas de proceso de harina y aceite los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
