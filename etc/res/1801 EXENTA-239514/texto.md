@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.801 de 14 de junio de 2005 de esta Subsecretaría, autorízase a INMUEBLES CATALUÑA LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta 5 Sur, Km. 5,5, camino Ancud-Chacao, Chiloé, X Región, donde podrá elaborar, en las líneas de proceso de Fresco refrigerado, Congelado, Conserva y Salado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
