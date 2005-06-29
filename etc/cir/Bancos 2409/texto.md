@@ -4426,7 +4426,7 @@ En todo caso, cuando se trate de cuentas abiertas a nombre de personas jurídica
 
 Simultáneamente con la apertura de la cuenta debe efectuarse el depósito inicial.
 
-2.2.4.- Información al Público.
+2.2.4.- Información al Público sobre pago de intereses.
 
 Las instituciones financieras que acuerden el pago de intereses por los saldos mantenidos en cuentas a la vista en moneda nacional, deberán informar en pizarra la tasa de interés que pagarán por esos saldos, expresada en términos anuales, sobre base de 360 días, como también las condiciones que puedan exigirse para recibir ese beneficio como, por ejemplo, el requisito de mantener un determinado saldo mínimo. Asimismo, deberán informar que el abono de los intereses se hará mensualmente, calculados sobre los saldos mantenidos en el mes precedente.
 
@@ -4466,7 +4466,7 @@ La instituciones financieras fijarán la modalidad que aplicarán en el cobro de
 
 a) El plan de cobro de comisiones que se establezca no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación.
 
-b) El sistema de cobro y cálculo de comisiones, así como sus modificaciones, deberá ser comunicado por escrito a cada uno de los titulares por lo menos quince días antes de que comience a operar, debiendo entregarse en ese aviso la información necesaria para que el propio titular pueda verificar posteriormente el cálculo de las comisiones que se le cobren. Sin embargo, se podrá prescindir de esa comunicación previa cuando las modificaciones signifiquen una disminución o la eliminación de las comisiones vigentes.
+b) Las instituciones financieras que cobren comisiones por las cuentas a la vista deberán informar tal condición y la correspondiente tarifa, en los estados de cuenta que periódicamente deben enviar a los titulares de éstas o en un volante anexo a dichos estados. Igualmente, deberán darlas a conocer mediante avisos colocados en sus locales de atención de público, como también en su sitio web. Los aumentos de las tarifas de esas comisiones como las modificaciones que se hagan a las condiciones para su cobro que signifiquen un aumento de las comisiones vigentes, deberán informarse por los medios indicados con una anticipación de a lo menos diez días respecto de la fecha en que comenzarán a regir.
 
 c) Las comisiones serán percibidas detrayendo su importe de la cuenta que las origine. En caso de que la comisión que debe cargarse a la cuenta fuera superior a su saldo, la diferencia podrá ser imputada posteriormente si la cuenta llegare a tener saldo.
 
