@@ -232,7 +232,7 @@ El Ministerio de Educación cautelará la participación de las personas con dis
 
 #### Artículo 31
 
-A los alumnos y alumnas del sistema educacional de enseñanza pre básica, básica o media que padezcan de patologías o condiciones médico-funcionales que requieran permanecer internados en centro especializados o en el lugar que el médico tratante determine o que estén en el tratamiento médico ambulatorio, el Ministerio de Educación les proporcionará la correspondiente atención escolar en el lugar que por prescripción médica deban permanecer, la que será reconocida para efectos de continuación de estudios y certificación de acuerdo con las normas que establezca ese Ministerio.
+A los alumnos del sistema educacional, del nivel básico, que por las características de su proceso de rehabilitación médico-funcional, requieran permanecer internados en centros especializados por un período superior a tres meses, el Ministerio de Educación les proporcionará la correspondiente atención escolar, la que será reconocida para los efectos de continuación de estudios de acuerdo a las normas que establezca ese Ministerio.
 
 #### Artículo 32
 
@@ -389,12 +389,6 @@ A.- El que causare herida, trauma o muerte injustificada a un perro de asistenci
 #### Artículo 50
 
 Se aplicará a estas causas el procedimiento establecido en la ley N° 18.287.
-
-Sin perjuicio de lo anterior, se seguirán las siguientes reglas en la tramitación del recurso de apelación:
-
-1. Las causas gozarán de preferencia para su vista y fallo por la respectiva Corte de Apelaciones.
-
-2. La vista de la causa podrá suspenderse sólo por una vez, siempre que sea a petición del demandante de la primera instancia, independientemente del número de partes en el recurso. La solicitud que en este sentido plantee quien fuere el demandado en la primera instancia, sólo procederá si la Corte de Apelaciones respectiva califica como fundada la solicitud. En ningún caso procederá la suspensión de común acuerdo.
 
 #### Artículo 51
 
