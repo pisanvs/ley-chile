@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.764, de 8 de junio de 2005, de esta Subsecretaría, autorízase a ROSA AMANDA FUENZALIDA ARAYA, para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta ubicada en Toconao Nº 5339, Antofagasta, II Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 8 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
