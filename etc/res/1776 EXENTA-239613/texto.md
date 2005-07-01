@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.776, de 9 de junio de 2005, de esta Subsecretaría, autorízase a PRODUCTORA DE ALGAS MARINAS LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Llanos de la Chimba s/n, Ovalle, IV Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
