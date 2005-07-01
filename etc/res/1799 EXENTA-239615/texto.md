@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.799, de 14 de junio de 2005 de esta Subsecretaría, autorízase a PESQUERA ISLA NUEVA LIMITADA, para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Cirujano Videla Nº 358 y Nº 338, Punta Arenas, XII Región, en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
