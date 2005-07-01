@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.657, de 27 de diciembre de 2004 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Punta La Puntilla VI Región, individualizada en el artículo 1º letra b) del decreto exento Nº3 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE MUJERES TRABAJADORAS INDEPENDIENTES, PESCADORAS Y RECOLECTORAS DE ALGAS Y MARISCOS DE ORILLA DE LA COMUNA DE PICHILEMU.
+
+Valparaíso, 27 de diciembre de 2004.- Felipe Sandoval Precht, Subsecretario de Pesca.
