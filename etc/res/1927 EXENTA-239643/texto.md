@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.927, de 23 de junio de 2005, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.032 de 2003, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A., para ampliar actividades pesqueras con la nave "Neptuno", en Isla de Pascua, Archipiélago de Juan Fernández, Islas Sala y Gómez e Islas Desventuradas, sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
