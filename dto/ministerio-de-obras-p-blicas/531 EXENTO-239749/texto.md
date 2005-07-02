@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 531 de fecha 31 de mayo de 2005, se expropiaron los lotes de terrenos Nº s 2 y 4, superficies 362 y 1.402 m2.,respectivamente, Rol Nº 301-24, comuna de Vilcún, IX Región para la obra "Construcción 8 Puentes en Camino Cherquenco-El Salto, sector Puente Llamuco Km. 0,600 al Km. 1,000, comuna de Vilcún, provincia de Cautín, IX Región" y se acordó el valor de indemnización con su propietario Manuel Antonio Castro Bustamante, ascendente a la cantidad de $737.427.
+
+Fiscal del Ministerio de Obras Públicas.
