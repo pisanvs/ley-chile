@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 507 de 31 de mayo de 2005, se expropió el lote de terreno Nº 68, superficie 221 m2, rol Nº 615-842, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, Sector Chol-Chol - Nueva Imperial, Tramo Km. 24,30269 al Km. 43,50000, Subtramo II Km. 29,840 al Km. 35,215", y se acordó el valor de indemnización con su propietario Antonio Santander Zapata, ascenden-te a la cantidad de $283.320.
+
+Fiscal del Ministerio de Obras Públicas.
