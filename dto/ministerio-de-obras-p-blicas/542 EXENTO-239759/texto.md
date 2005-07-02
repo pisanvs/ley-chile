@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 542 de fecha 31 de mayo del 2005, se expropiaron los lotes de terreno Nº s. 15 y 15-A, superficies 262,84 y 29,34 m2, rol Nº 557-245, comuna de Linares, para la obra "Camino Conservación Ruta L-45, sector Escuela Llepo - Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446" y se acordó el valor de indemnización con su propietario Amadeo del Carmen Martínez Cerda, ascendente a la cantidad de $398.711.
+
+Fiscal del Ministerio de Obras Públicas.
