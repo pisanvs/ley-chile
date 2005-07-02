@@ -1,0 +1,3 @@
+Por decreto MOP Nº 434 de fecha 31 de mayo de 2005, se expropiaron los lotes de terrenos Nos 44 y 49, superficies 150,00 y 1.431,00 m² respectivamente, Rol Nº 2023-1, comuna de Melipilla, Región Metropolitana para la obra "Camino Reposición Ruta G-74-F, Sector Melipilla - Bollenar, Tramo Km. 0,00000 al Km. 14,23039" y se acordó el valor de indemnización con su propietario Sociedad Agrícola Esmeralda S.A., ascendente a la cantidad de $9.382.061.-
+
+Fiscal del Ministerio de Obras Públicas.
