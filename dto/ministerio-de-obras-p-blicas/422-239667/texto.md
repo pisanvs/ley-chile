@@ -1,0 +1,3 @@
+Por decreto MOP Nº 422, de 31 de mayo de 2005, se expropió el lote de terreno Nº 14, superficie 695,47 m2, rol de avalúo Nº 271-419, comuna de Quintero, para la obra "Ruta F-190, Sector Colmo Puchuncaví, Km. 0,00000 al 25,22591, V Región", y se acordó el valor de la indemnización con su propietaria Amelia Matilde María del Rosario Rivera Peña, ascendente a la cantidad de $21.402.271.-
+
+Fiscal del Ministerio de Obras Públicas.
