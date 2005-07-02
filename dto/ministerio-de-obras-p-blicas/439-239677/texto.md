@@ -1,0 +1,3 @@
+Por decreto MOP Nº 439 de fecha 31 de mayo del 2005, se expropió el lote de terreno Nº 5, superficie 1.504,3 m2, rol Nº 1461-13, comuna de Angol, IX Región, para la obra "Construcción Puente Vado Buenos Aires, Camino Angol - Fundo Buenos Aires, Tramo Km. 0,00000 al Km. 0,58200 comuna de Angol, provincia de Malleco, IX Región" y se acordó el valor de indemnización con su propietaria Irene Venturelli Leonelli, ascendente a la cantidad de $8.061.788.-
+
+Fiscal del Ministerio de Obras Públicas.
