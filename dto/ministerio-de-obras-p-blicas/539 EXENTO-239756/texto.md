@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 539 de fecha 31 de mayo de 2005, se expropiaron los lotes de terreno Nº s. 5-C y 5-D, superficies 91,0 y 115,0 m2, Rol Nº 169-98, comuna de San Clemente, VII Región para la obra "Camino Ruta 115-CH, sector Puente Armerillo - Límite Paso Pehuenche, Tramo Km. 70.000 al Km. 126.360", y se acordó el valor de indemnización con su propietario Luis Ernesto Acevedo y Otros, ascendente a la cantidad de $886.536.
+
+Fiscal del Ministerio de Obras Públicas.
