@@ -1,0 +1,3 @@
+Por decreto MOP Nº 441 de 31 de mayo de 2005, se expropió el lote de terreno Nº 4, superficie 7.523 m2, rol de avalúo 1175-92, comuna de La Calera, para la obra Proyecto Camino Internacional Ruta 60 CH. Sector 2: Ruta 5 Norte - Enlace Peñablanca Ampliación Enlace El Olivo Km. 0.000,00 al Km. 1.280,00", Quinta Región y se acordó el valor de indemnización con su propietaria Pía Lorena Bernardello Razeto, ascendente a la cantidad de $48.707.084.-
+
+Fiscal del Ministerio de Obras Públicas.
