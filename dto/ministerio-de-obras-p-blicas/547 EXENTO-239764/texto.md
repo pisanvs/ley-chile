@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 547 de fecha 31 de mayo de 2005, se expropiaron los lotes de terreno Nº s. 1 y 3, superficies 910,7 y 750,6 m2, Rol Nº 1191-24, comuna de Ancud, X Región para la obra "Construcción Puentes Aguas Buenas, La Paila Nº 1 y Los Hermanos" y se acordó el valor de indemnización con su propietario José Zenobio Vera Velásquez, ascendente a la cantidad de $1.747.146.- para los lotes Nº s. 1 y 3.
+
+Fiscal del Ministerio de Obras Públicas.
