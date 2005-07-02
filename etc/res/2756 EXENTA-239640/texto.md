@@ -1,0 +1,5 @@
+EXTRACTO
+
+Resolución exenta Nº2.756 de fecha 13 de mayo de 2005, del Servicio Médico Legal, Ministerio de Justicia, designó Encargado de sus dependencias en la X Región al profesional funcionario a Dr. Luis Ojeda Hechenleitner y modificó las resoluciones exentas Nº192, Nº185 y Nº191, todas de fecha 9 de febrero de 2004 sobre Delegación de Atribuciones y Facultades de Otorgar Autorización para Extracción de Organos y Tejidos con Fines Terapéuticos de Cadáveres Ingresados al Servicio Médico Legal; Delegación y Atribuciones y Facultades para Suscribir Exámenes de Alcoholemia, y Delegación de Atribuciones y Facultades de Destinación de Cadáveres o Partes de Estos para Fines de Estudio respectivamente, en el sentido de sustituir en los resolutivos pertinentes el nombre del Encargado del Servicio Médico Legal de la X Región, Dr. Konstantin Ziolkowski Cruz, por el del Dr. Luis Ojeda Hechenleitner.-
+
+Director Nacional Servicio Médico Legal, Dr. Oscar Vargas Duranti.
