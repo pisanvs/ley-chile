@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 504 de 31 de mayo de 2005, se expropió el lote de terreno Nº 34-A, superficie 1.940 m2, rol Nº 267-38, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietaria Graciela Angélica Pacheco Osses, ascendente a la cantidad de $990.186.
+
+Fiscal del Ministerio de Obras Públicas.
