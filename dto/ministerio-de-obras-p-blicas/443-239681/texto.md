@@ -1,0 +1,3 @@
+Por decreto MOP Nº 443 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 27, superficie 12.695 m2, Rol Nº 222-2, comuna de La Calera, V Región para la obra "Proyecto Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al 21.000,00", y se acordó el valor de indemnización con su propietario Empresa Melón S.A., ascendente a la cantidad de $20.702.459.-
+
+Fiscal del Ministerio de Obras Públicas.
