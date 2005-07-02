@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 506 de fecha 31 de mayo del 2005, se expropió el lote de terreno Nº 84, superficie 149,5 m2, rol Nº 58-21, comuna de Monte Patria, IV Región, para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, II Etapa" y se acordó el valor de indemnización con su propietario Luis Benedicto Díaz, ascendente a la cantidad de $669.084.
+
+Fiscal del Ministerio de Obras Públicas.
