@@ -1,0 +1,3 @@
+Por decreto (E) MOP Nº 529 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 71-A, superficie 210 m2, Rol Nº 1271-17, comuna de Coronel, VIII Región para la obra "Camino Ruta O-852, Sector Coronel-Patagual, Tramo Km. 0,00000 al Km. 17,91963" y se acordó el valor de indemnización con su propietaria Brenda Quijada Sepúlveda, ascendente a la cantidad de $368.418.
+
+Fiscal del Ministerio de Obras Públicas.
