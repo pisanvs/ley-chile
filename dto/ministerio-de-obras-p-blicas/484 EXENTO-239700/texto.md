@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 484 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 93-A, superficie 43 m2, Rol Nº 604-80, comuna de Santa Cruz, VI Región para la obra Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 al Km. 7,46939" y se acordó el valor de indemnización con su propietaria María Luz Bella Donoso Valdés, ascendente a la cantidad de $1.045.192.-
+
+Fiscal del Ministerio de Obras Públicas.
