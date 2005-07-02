@@ -1,0 +1,3 @@
+Por decreto MOP Nº 391, de 24 de mayo de 2005, se dejó sin efecto los numerales 3º , 4º , 5º y 6º del decreto exento MOP Nº 257, de 28 de marzo de 2003, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización de los lotes Nos. 41-A y 43, fijada por la comisión de peritos con fecha 8 de septiembre de 2000 para el lote Nº 43 y con fecha 12 de diciembre de 2001, para el lote Nº 41-A, ascendente a las cantidades de $7.563.960.- para el lote Nº 41-A y $3.242.240.- para el lote Nº 43.-
+
+Fiscal del Ministerio de Obras Públicas.
