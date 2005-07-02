@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 532, de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 32, superficie 502,11 m2, Rol Nº 702-001, comuna de Quintero, V Región, para la obra "Camino Ruta F-190, sector Colmo - Puchuncaví, Km. 0.00000 a Km. 25,22591, comunas de Limache, Concón, Quintero, Puchuncaví y Quillota, provincias de Valparaíso y Quillota, V Región", y se acordó el valor de indemnización con su propietario Gerardo Camilo Larraín Plaza o Camilo Larraín Plaza, ascendente a la cantidad de $1.176.384.
+
+Fiscal del Ministerio de Obras Públicas.
