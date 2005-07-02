@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 501, de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 381, superficie 297 m2, Rol Nº 332-62, comuna de Limache, V Región, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 2: Km. 21.000,00 al Km. 38.500,00" y se acordó el valor de in-demnización con su propietaria Ha-rilda Luisa Pinto Morín, ascendente a la cantidad de $1.173.559.
+
+Fiscal del Ministerio de Obras Públicas.
