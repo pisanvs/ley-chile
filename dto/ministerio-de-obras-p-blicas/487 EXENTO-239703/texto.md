@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 487 de 31 de mayo de 2005, se expropió el lote de terreno Nº 50-A, superficie 275,93 m2, rol de avalúo Nº 161-112, comuna de Petorca, para la obra "Camino Ruta E-37-D, sector Palquico Las Palmas, Km. 14,04861 a Km. 26,13776", V Región y se acordó el valor de la indemnización con su propietario Víctor Marcial Díaz Saavedra, ascendente a la cantidad de $1.813.259.-
+
+Fiscal del Ministerio de Obras Públicas.
