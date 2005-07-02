@@ -1,0 +1,3 @@
+Por decreto MOP Nº 427 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 49, superficie 1.663 m2, rol de avalúo Nº 603-17, comuna de Nueva Imperial, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial - Carahue, Tramo Km. 0,00000 al Km. 21,58295, Subtramo II Km. 4,04000 al Km. 12,84000, IX Región y se acordó el valor de la indemnización con su propietario Orlando Benedicto Muñoz Cartes, ascendente a la cantidad de $3.619.167.-
+
+Fiscal del Ministerio de Obras Públicas.
