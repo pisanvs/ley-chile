@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 516, de 31 de mayo de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1-A, para la obra "Camino Ruta 5-Vialidad Complementaria, Sector Ruta Q-611, La Isla-San Carlos de Purén, Tramo Km. 0,00000 a Km.
+
+4,37000", que figura a nombre de Zúñiga Barra Felipe, rol de avalúo 1544-200, comuna de Los Angeles, VIII Región, superficie 1.140 m2. La comisión de peritos fijó con fecha 9 de marzo de 2004, el monto de la indemnización provisional en la cantidad de $1.938.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
