@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 498 de 31 de mayo de 2005, se expropió el lote de terreno Nº 89, superficie 163 m2, rol Nº 617-300, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, sector Chol-Chol - Nueva Imperial, Tramo Km. 24,30269 al Km. 43,50000, Sub-Tramo III Km. 35,380 al Km. 43,50000" y se acordó el valor de indemnización con su propietario Pedro Lincolao Coñoepán, ascendente a la cantidad de $434.654.
+
+Fiscal del Ministerio de Obras Públicas.
