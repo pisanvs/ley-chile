@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 494 de 31 de mayo de 2005, se expropió el lote de terreno Nº 4, superficie 769,1 m2, rol de avalúo 1191-118, comuna de Ancud, para la obra "Construcción Puentes Aguas Buenas, La Paila Nº 1 y Los Hermanos", X Región y se acordó el valor de la indemnización con su propietario Pedro Orlando Castillo Loaiza, ascendente a la cantidad de $453.014.-
+
+Fiscal del Ministerio de Obras Públicas.
