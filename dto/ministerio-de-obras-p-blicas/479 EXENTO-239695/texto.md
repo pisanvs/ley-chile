@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 479 de fecha 31 de mayo del 2005, se expropiaron los lotes de terrenos Nº s 2-A, 2-B y 2-C, superficies 1.213, 925 y 5.470 m2 respectivamente, rol Nº 63-39, comuna de Lonquimay, IX Región para la obra "Camino Malalcahuello - Paso Pino Achado Rutas R-891, R-955 y R-89, Sector Liucura - Paso Pino Hachado Km. 158,54000 al Km. 179,59862, correspondiente al Tramo I Km. 158,54000 al Km. 164,75450." y se acordó el valor de indemnización con su propietaria María Nancy Córdova Echeverría y Otras, ascendente a la cantidad de $1.971.836.
+
+Fiscal del Ministerio de Obras Públicas.
