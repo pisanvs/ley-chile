@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 551, de 31 de mayo de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº s 36, 37, 38, 39, 40, 41, 42, 43, 44, 45 y 46, para la obra: Mejoramiento Ruta C-163, sector Llanta - Bifurcación Potrerillos, III Región, que figuran a nombre de Codelco Chile División Salvador, rol de avalúo 356-2, comuna de Diego Almagro, III Región, superficies 1.700 m2.; 16.527 m2.; 9.687 m2.; 2.155 m2.;
+
+1.874 m2.; 28.085 m2.; 368 m2.; 334 m2.; 1.815 m2.;
+
+2.156 m2. y 31.662 m2. La Comisión de Peritos, fijó con fecha 28 de enero de 2004, en las cantidades de $34.000, para el lote Nº 36, $330.540, para el lote Nº 37, $193.740, para el lote Nº 38, $43.100, para el lote Nº 39, $37.480, para el lote Nº 40, $561.700, para el lote Nº 41, $7.360, para el lote Nº 42, $6.680, para el lote Nº 43, $36.300, para el lote Nº 44, $43.120, para el lote Nº 45 y $633.240, para el lote Nº 46. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
