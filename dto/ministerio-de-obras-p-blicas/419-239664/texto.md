@@ -1,0 +1,3 @@
+Por decreto MOP Nº 419 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 2, superficie 37,2 m2, Rol Nº 2218-105, comuna de San Juan de la Costa, X Región para la obra "Camino Ruta U-40, sector Puaucho - Bahía Mansa, Tramo Km. 53,574 a Km. 58,7296" y se acordó el valor de indemnización con su propietario Hugo Nelson Alarcón Cárcamo, ascendente a la cantidad de $6.890.184.- para el lote Nº 2.-
+
+Fiscal del Ministerio de Obras Públicas.
