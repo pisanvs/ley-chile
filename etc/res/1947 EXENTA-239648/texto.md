@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.947, de 23 de junio de 2005, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en localidad de Rauco, comuna de Chonchi, Chiloé, X Región, donde podrá elaborar, en las líneas de proceso de Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
