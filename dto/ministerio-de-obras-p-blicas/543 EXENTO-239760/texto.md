@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 543 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 2, superficie 4.774,00 m2, Rol Nº 2210-347, comuna de Hualaihue X Región para la obra "Camino Sin Rol, Sector Puente Cisne Nº 2, Tramo Km. 1,031 a Km. 1,430" y se acordó el valor de indemnización con su propietaria Juana Luz Soto Ojeda, ascendente a la cantidad de $2.272.266.- para el lote Nº 2.
+
+Fiscal del Ministerio de Obras Públicas.
