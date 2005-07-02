@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 480 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 8, superficie 1.742 m², Rol Nº 860-11, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, Camino Alto del Carmen - Conay, Provincia del Huasco, Región de Atacama, Etapa II" y se acordó el valor de indemnización con su propietario don Juan Luis Rodríguez Ramos, ascendente a la cantidad de $846.294.-
+
+Fiscal del Ministerio de Obras Públicas.
