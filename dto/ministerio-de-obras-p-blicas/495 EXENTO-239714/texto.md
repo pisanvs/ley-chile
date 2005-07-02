@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 495 de 31 de mayo de 2005, se expropió el lote de terreno Nº 39, superficie 1.183 m2, rol Nº 268-46, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietario José Zócimo Rifo Padilla y Otro, ascendente a la cantidad de $681.821.
+
+Fiscal del Ministerio de Obras Públicas.
