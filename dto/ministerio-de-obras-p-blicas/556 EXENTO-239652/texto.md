@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 556, de 31 de mayo de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº s 19A1, para la obra: Camino Ruta 5, sector Chonchi - Tara, Km. 1.205,160 a Km. 1.215,004, que figura a nombre de Sistema de Transmisión del Sur, rol de avalúo 138-81, comuna de Chonchi, X Región, superficie 300 m2. La Comisión de Peritos, fijó con fecha 5 de septiembre de 2003, en la cantidad de $150.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del decreto ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
