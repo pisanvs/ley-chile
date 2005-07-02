@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 514, de 31 de mayo de 2005, se dejó sin efecto los numerales 3º , 4º , 5º , 6º y 7º del decreto MOP exento Nº 1.534, de 28 de noviembre de 2003, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indeminización del lote Nº 33-F, fijada por la Comisión de Peritos con fecha 10 de octubre de 2002, ascendente a la cantidad de $1.479.000.
+
+Fiscal del Ministerio de Obras Públicas.
