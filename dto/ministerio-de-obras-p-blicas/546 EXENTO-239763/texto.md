@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 546 de fecha 31 de mayo del 2005, se expropió el lote de terreno Nº 24-A, superficie 410,10 m2, rol Nº 271-440, comuna de Quintero, V Región, para la obra "Camino Ruta F-190, sector Colmo - Puchuncaví, Km. 0,00000 a Km. 25,22591, comunas de Limache, Concón, Quintero, Puchuncaví y Quillota, provincias de Valparaíso y Quillota, V Región", y se acordó el valor de indemnización con su propietario Juan Francisco Antonio Salinas Solís, ascendente a la cantidad de $1.784.950.
+
+Fiscal del Ministerio de Obras Públicas.
