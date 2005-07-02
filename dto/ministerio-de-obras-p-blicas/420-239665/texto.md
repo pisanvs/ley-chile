@@ -1,0 +1,3 @@
+Por decreto MOP Nº 420 de fecha 31 de mayo de 2005, se expropiaron los lotes de terreno Nº s. 26, 27-A y 32-A, superficies 621, 1.313 y 2.837 m2, Rol Nº 603-298, comuna de Nueva Imperial, IX Región para la obra "Camino Reposición, Ruta S-40 Sector Nueva Imperial - Carahue Tramo Km. 0,00000 al 21,58295, Subtramo I Km. 0,00000 al Km. 4,04000, y se acordó el valor de indemnización con su propietario Segundo Ñanco Collio, ascendente a la cantidad de $16.809.379.- para los lotes Nº s. 26, 27-A y 32-A.-
+
+Fiscal del Ministerio de Obras Públicas.
