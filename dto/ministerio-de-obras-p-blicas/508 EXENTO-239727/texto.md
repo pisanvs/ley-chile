@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 508 de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 390, superficie 834 m2, rol Nº 332-431, comuna de Limache, V Región, para la obra "Proyecto: Camino Internacional Ruta 60 Ch. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 2: Km. 21.000,00 al Km. 38.500,00", y se acordó el valor de indemnización con su propietario Cecilio de la Cruz Vera López, ascendente a la cantidad de $1.236.655.
+
+Fiscal del Ministerio de Obras Públicas.
