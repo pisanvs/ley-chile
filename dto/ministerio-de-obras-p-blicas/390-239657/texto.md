@@ -1,0 +1,5 @@
+Por decreto MOP Nº 390, de 24 de mayo de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 182 para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km.
+
+87,50000 a Km. 103,33500, Sub-Tramo IV, Km. 92,33000 a Km. 98,33600", que figura a nombre de Monje Rojas, Isabel, rol de avalúo 238-96, comuna de Toltén, IX Región, superficie 1.204 m2. La comisión de peritos fijó con fecha 28 de noviembre de 2003 el monto de la indemnización provisional en la cantidad de $8.780.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
