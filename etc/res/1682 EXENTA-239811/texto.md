@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.682, de 2 de junio de 2005, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 766 de 2005, de esta Subsecretaría de Pesca, que autorizó a AYCON CONSULTORES S.A., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado ''Modelo de administración y control del esfuerzo de pesca sobre el recurso pesquero Merluza del sur (Merluccius australis), en aguas interiores de la XI Región'', en el sentido de señalar que las actividades de investigación se extenderán hasta el 28 de diciembre de 2005, inclusive.
+
+Las actividades de investigación deberán efectuarse en las fechas autorizadas mediante resolución Nº 180 de 2005, de la Subsecretaría de Pesca, modificada mediante resoluciones citadas en Visto, según corresponda a la flota a la cual se encuentre incorporada la respectiva organización.
+
+Valparaíso, 2 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
