@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.753, de 8 de junio de 2005, de esta Subsecretaría, autorízase a SERVICIOS ASOCIADOS A.M. LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector Comiña s/n a 2,5 Km. de Pica, provincia de Iquique, I Región, donde podrá elaborar en las líneas de proceso de extracto en aceite y polvo de microalgas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 8 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
