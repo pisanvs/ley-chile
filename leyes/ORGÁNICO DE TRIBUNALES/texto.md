@@ -1902,6 +1902,8 @@ Será juez competente para conocer de las demandas de alimentos el del domicilio
 
 De las solicitudes de cese, aumento o rebaja de la pensión decretada, conocerá el juez que decretó la pensión.
 
+Asimismo, será juez competente para conocer de las acciones de reclamación de filiación contempladas en el Párrafo 2º del Título VIII del Libro I del Código Civil el del domicilio del demandado o demandante, a elección de este último.
+
 #### Artículo 148
 
 Será juez competente para conocer del juicio de petición de herencia, del de desheredamiento y del de validez o nulidad de disposiciones testamentarias, el del lugar donde se hubiere abierto la sucesión del difunto con arreglo a lo dispuesto por el artículo 955 del Código Civil.
@@ -2262,7 +2264,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.750 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.560 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.850 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.640 pesos.
 
 #### Artículo 199
 
