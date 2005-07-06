@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.868, de 17 de junio de 2005, de esta Subsecretaría, modifícase el numeral 6 Bis de la resolución Nº 354, incorporado por la resolución Nº 1.710, ambas de 2005, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de reemplazar su inciso final por el siguiente:
+
+"Los remanentes no capturados al término de la primera fracción semanal acrecerán a la fracción autorizada para el período siguiente. Asimismo, los remanentes no capturados al término de la segunda fracción semanal acrecerán a la fracción autorizada para ser extraída en el período comprendido entre el 20 y 30 de junio de 2005, con un máximo de 4.000 toneladas semanales".
+
+Valparaíso, 17 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
