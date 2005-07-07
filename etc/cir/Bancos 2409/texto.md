@@ -2310,7 +2310,7 @@ Con todo, no podrán venderse con pacto de retrocompra instrumentos de propia em
 
 2.2. Precio de venta.
 
-Los instrumentos financieros u otros títulos de crédito o valores que se vendan o compren con pacto, deben ser transferidos al mismo valor en que, en condiciones de mercado, se venderían o comprarían en forma definitiva.
+Los instrumentos financieros u otros títulos de crédito o valores que se vendan con pacto, deben ser transferidos al mismo valor en que, en condiciones de mercado, se venderían en forma definitiva.
 
 2.3. Forma de pago.
 
@@ -2372,7 +2372,7 @@ i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería Gen
 
 ii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
 
-iii) Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
+iii) Bonos de Reconocimiento, Complementos de Bonos de Reconocimiento y Pagarés Ley 19.980 (bonos de reparación), emitidos por el Instituto de Normalización Previsional.
 
 iv) Pagarés Reajustables de la Tesorería General de la República, emitidos conforme a la Ley N° 19.568.
 
