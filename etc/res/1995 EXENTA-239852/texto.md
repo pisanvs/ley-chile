@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.995, de 29 de junio de 2005, de esta Subsecretaría, rectifícase el numeral 2º letra c) de la resolución Nº 831 de 2004, de esta Subsecretaría, que autorizó a PESQUERA ISLA QUIHUA S.A. para desarrollar actividades pesqueras extractivas con la nave "Terranova", en el sentido de indicar que la peticionaria podrá desarrollar actividades extractivas con la embarcación individualizada precedentemente sobre el recurso Merluza de cola, con cerco y arrastre, por fuera del área de reserva artesanal, sólo en el área marítima comprendida entre la V a IX regiones, y no como allí se indica.
+
+Valparaíso, 29 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
