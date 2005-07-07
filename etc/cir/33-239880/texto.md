@@ -1,0 +1,7 @@
+DA CUENTA DE LA APLICACION DE CLAUSULA DE NACION MAS FAVORECIDA EN CONVENIO CON CANADA Y VIGENCIA DE NUEVOS CONVENIOS
+
+Extracto de circular del Servicio de Impuestos Internos Nº 33 del 30/06/05, de 2005, que da cuenta de la aplicación de la cláusula de nación más favorecida contenida en el convenio suscrito entre Chile y Canadá a servicios prestados por personas naturales, entrada en vigencia de nuevos convenios y designación del Director del Servicio de Impuestos Internos como autoridad competente.
+
+En el párrafo 2 del convenio aludido se establece que si Chile concluye un acuerdo o convenio que limita la imposición en la fuente de los pagos por servicios personales independientes llevados a cabo en ausencia de una base fija, esa limitación o reducción se aplicará automáticamente a los efectos del convenio entre Chile y Canadá, circunstancia que se cumplió con la entrada en vigencia de los convenios suscritos con Noruega y Polonia. Asimismo se informa respecto de la entrada en vigencia de los convenios suscritos con el Reino Unido, Croacia y Dinamarca y de la designación del Director del Servicio de Impuestos Internos como autoridad competente de dichos convenios.
+
+El texto íntegro de este instructivo está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII de junio de 2005.
