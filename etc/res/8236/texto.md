@@ -1,0 +1,7 @@
+EXTRACTO
+
+Por resolución O Nº 8.236, de 28 de junio de 2005, el Director del Servicio Electoral dispuso la notificación por aviso de las siguientes personas contra quienes se ha iniciado procedimiento sancionatorio, en virtud del artículo 51 de la ley Nº 19.884:
+
+José Marcos Asencio Montaña, Gabriela Aguilera Soto, Lucía del Carmen Carrasco Muñoz, Carlos Alberto Alcaíno Herrera, Herminda Avilés Morales, Elisa Barrientos Alvarado, José Eugenio Antil Leviqueo, Nelson Barra Carrasco, Mauricio Javier Michea Cornejo, Laura Mónica Agost Caviedes, María Villafaena Jorquera, Rodrigo Villanueva Miranda, Valeria Leonor Ulloa Tobar, Joselyn Sanhueza Rubilar, Miguel Ramón Huerta Aracena, Sergio Escala Aedo, Juan Anselmo Córdova Guerra, Ana Luisa Hormazábal Miranda, Armando Herrera Santana, Cristina Fidelia Hurtado Guaiquil, Patricia Durán Contreras, Luznelda Eliana Fernández Medina, Marco Antonio Hormazábal Delgado, Camilo Enrique Hidalgo Arenas, Víctor Manuel Contreras García, Gonzalo Andrés Gutiérrez Herrera, Andrés Sebastián Gallardo Neiquel, José Gerardo Chiguay Chiguay, Efera Trinidad Jorquera Castro, Rodrigo Andrés Muñoz Muñoz, María Angélica Polanco Morales, Joel Patricio Llanquimán Paillalef, Herodita del Carmen Navarro Muñoz, Teresa Margarita Pérez Soza, Margarita Etelvina Lobos Marambio, Bienvenida Corina Montecinos Cárdenas, Eduardo Alberto Prieto Henríquez, José Patricio Llano Berríos, Andrés Emilio Padilla García y Juan Emilio Matte Contreras.-
+
+Juan Ignacio García Rodríguez, Director.
