@@ -1,0 +1,11 @@
+EXTRACTO DE DECRETO Nº 11 EXENTO, DE 2005
+
+Por decreto exento Nº 11 de fecha 6 de enero de 2005 del Ministerio de Educación, se aprueban las modificaciones introducidas al plan y programas de estudios del Centro de Formación Técnica Escuela Superior de Administración de Negocios - Esane, de la carrera y título técnico de nivel superior que se indica, para ser impartida a contar del año 2005, en la Sede Central de Santiago, con la siguiente denominación:
+
+Carrera : Interpretariado Inglés Alemán.
+
+Título : Técnico de Nivel Superior Intérprete
+
+Inglés Alemán con mención Turismo.
+
+Santiago, 11 de abril de 2005.- María Ariadna Hornkohl Venegas, Subsecretaria de Educación.
