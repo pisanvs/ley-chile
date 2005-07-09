@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.952, de 23 de junio de 2005, de esta Subsecretaría, autorízase a PESQUERA SANTA MARTA LIMITADA para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Andina esquina El Tofo s/n, Barrio Industrial, Puerto Montt, X Región, en las líneas de proceso de Fresco enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
