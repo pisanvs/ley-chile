@@ -1,0 +1,3 @@
+Por resolución Nº 2.012 exenta, de 1 de julio de 2005, de esta Subsecretaría, autorízase a FREDY ANTONIO PIZARRO DIAZ para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en 65 Km. al norte de la ciudad de Tocopilla, comuna de Tocopilla, II Región, donde podrá elaborar en la línea de proceso de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 1 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
