@@ -1,0 +1,5 @@
+RECTIFICACION
+
+En la edición del Diario Oficial Nº 38.203, de 6 de julio de 2005, se publicó extracto de resolución exenta Nº 1.201, de 24 de junio de 2005, del Servicio Nacional de Capacitación y Empleo, que canceló la autorización otorgada al organismo técnico de capacitación "Centro Internacional Personalizado de Extensión Cultural S.A." (CIPEC S.A.), RUT Nº 96.716.470-4, con el error que se salva a continuación: dice "deja sin efecto la cancelación de inscripción en el Registro Nacional del organismo técnico de capacitación Centro Internacional Personalizado de Extensión Cultural S.A., RUT Nº 96.716.470-4, contenida en resolución exenta Nº 01056, de 3 de marzo de 1995" debe decir "se cancela la autorización otorgada al organismo técnico de capacitación "Centro Internacional Personalizado de Extensión Cultural S.A." (CIPEC S.A.), RUT Nº 96.716.470-4, cancelándose su inscripción en el Registro Nacional correspondiente, atendido lo dispuesto en la letra a) del artículo 77 de la ley Nº 19.518.".
+
+- Eduardo Rodríguez Olivares, Jefe Departamento de Capacitación en Empresas.
