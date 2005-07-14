@@ -1,0 +1,5 @@
+MODIFICA LAS NORMAS SOBRE USO DE FIRMA ELECTRONICA
+
+Extracto de la resolución exenta Nº 69, del 07-07-05, del Servicio de Impuestos Internos, que complementa y modifica las normas contenidas en la resolución Nº Ex. 9, de 15 de febrero de 2001, de esta Dirección Nacional, que reguló el uso de la firma electrónica en el ámbito tributario; estas enmiendas tienen por objeto incorporar a la resolución recién citada, las facultades que el artículo 9 de la ley Nº 19.799 otorgó a los Ministros de Fe de los Servicios Públicos, como entes acreditados para disponer la emisión o generación de certificados electrónicos propietarios, con similares efectos probatorios que los que tienen las certificaciones practicadas por los prestadores particulares de servicios de certificación acreditados por la Subsecretaría de Economía.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2005.
