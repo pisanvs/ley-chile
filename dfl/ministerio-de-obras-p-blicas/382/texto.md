@@ -406,7 +406,7 @@ El prestador estará obligado a prestar servicio a quien lo solicite, sujeto a l
 
 #### Artículo 33º
 
-A.- Sin perjuicio de lo dispuesto en el artículo 22º, cada vez que exista la necesidad de asegurar la provisión del servicio sanitario en determinadas zonas dentro del límite urbano, la Superintendencia deberá efectuar la respectiva licitación pública.
+A.- Sin perjuicio de lo dispuesto en el artículo 22º, cada vez que exista la necesidad de asegurar la provisión del servicio sanitario en determinadas zonas dentro del límite urbano, la Superintendencia deberá efectuar la respectiva licitación pública, no pudiendo excusarse de hacerlo cuando así lo requiera el Ministro de la Vivienda y Urbanismo respecto de las áreas urbanas, fundado en la necesidad de cumplir sus políticas, planes y programas relativos a viviendas sociales o subsidiadas, hasta 750 unidades de fomento.
 
 En caso de no existir proponentes para la referida licitación, o no haber sido adjudicada ésta por no cumplir los proponentes con los requisitos exigidos por la ley, la Superintendencia podrá exigir al prestador que opere el servicio sanitario del área geográfica más cercana a la zona aludida en el inciso precedente, la ampliación de su concesión a esta última zona.
 
@@ -417,6 +417,10 @@ a) La incorporación de las nuevas áreas deberá ser, en opinión fundada de la
 b) El aumento del territorio operacional derivado de la incorporación de las nuevas áreas deberá ser razonablemente factible de enfrentar administrativa y financieramente por el prestador.
 
 La expansión de la concesión, de la forma indicada en los incisos segundo y tercero de este artículo, se formalizará de acuerdo a lo señalado en los artículos 17º y siguientes.
+
+Cuando la licitación la solicite el Ministerio de Vivienda y Urbanismo conforme al inciso primero, el llamado a propuesta se realizará dentro del plazo de seis meses, pudiendo prorrogarse por otro período igual o menor, mediante resolución fundada de la Superintendencia de Servicios Sanitarios.
+
+En ese caso, la Superintendencia podrá establecer en las respectivas bases que determinadas obras referidas al área que se licita serán consideradas como aportes de terceros o no reembolsables. Dichos aportes se incluirán en el decreto de otorgamiento de la respectiva concesión.
 
 #### Artículo 33º
 
