@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.954, de 23 de junio de 2005, de esta Subsecretaría, autorízase a CONGELADOS MARINOS LIMITADA para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en camino a San Antonio s/n, comuna de Quellón, provincia de Chiloé, X Región, en las líneas de proceso de Seco salado y Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
