@@ -1,0 +1,3 @@
+Por decreto MOP Nº 437, de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 18, superficie 1.426,00 m², rol Nº 764-40, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, sector El Noviciado - Cruce Ruta G-16 (Lipangue), tramo de Km. 4,450 al Km. 15,04419", y se acordó el valor de indemnización con su propietario Sociedad Agro Industrial y Minera Monte Urkabe Limitada, ascendente a la cantidad de $6.538.344.
+
+- Fiscal del Ministerio de Obras Públicas.
