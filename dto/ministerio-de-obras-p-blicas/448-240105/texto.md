@@ -1,0 +1,3 @@
+Por decreto MOP Nº 448, de 31 de mayo de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se dejó sin efecto el decreto MOP Nº1.120, de 25 de noviembre de 2004. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
