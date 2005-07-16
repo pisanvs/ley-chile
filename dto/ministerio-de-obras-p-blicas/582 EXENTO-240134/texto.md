@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 582, de 17 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 94, 98, 102, 104, 105, 106, 107 y 108, para la obra: Camino Ruta A-123 (Red Vial Andina), sector Parinacota - Visviri, Tramo Km. 0,00000 a Km.
+
+90,39127, que figuran a nombre de Blas Choque Martín Felipe, Paredes Manzano Manuel, Mamani López Pablo y Manzano Manzano Fortunato, roles de avalúo 3510-3, 3510-36, 3510-30 y 3510-76, comuna de General Lagos, I Región, superficies 6.963,80 m², 1.083,00 m², 892,30 m², 8.878,40 m², 6.395,20 m², 4.854,00 m², 2.887,00 m², y 2.735,30 m². La Comisión de Peritos, fijó, con fecha 17 de marzo de 2005, en las cantidades de $2.089.140 para el lote Nº94; $324.900 para el lote Nº98; $267.690 para el lote Nº102; $2.663.520 para el lote Nº104;
+
+$1.918.560, para el lote Nº105; $1.456.200 para el lote Nº106; $866.100 para el lote Nº107, y $820.590 para el lote Nº108. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
