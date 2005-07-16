@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 571, de 17 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 9 y 10, para la obra Camino Ruta T-55, sector Futrono - Llifén, Tramo Km. 55,30000 a Km.
+
+75,76384, que figuran a nombre de Zimmermann Hermann Reinhard, Rol de avalúo 72-58, comuna de Futrono, X Región, superficies 642 m² y 389 m². La Comisión de Peritos, fijó, con fecha 20 de abril de 2000, complementada por acta de fecha 6 de junio de 2001, en lo que respecta al lote Nº10, en la cantidad de $1.077.200 para el lote Nº9, y $597.800 para el lote Nº10. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
