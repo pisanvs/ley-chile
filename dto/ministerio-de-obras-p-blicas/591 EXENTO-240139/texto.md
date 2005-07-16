@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 591 de 21 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 2 para la obra: Camino Cancha Alegre-Coronel, Rol M-866, Sector Puente Medel, 1,840.00 a Km. 2,280.00, que figura a nombre de Medel Agurto María E, rol de avalúo 530-52, Comuna de Cauquenes, VII Región, superficie 1.414 m². La Comisión de Peritos fijó con fecha 28 de enero de 2003 el monto de la indemnización provisional en la cantidad de $1.069.900.- lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
