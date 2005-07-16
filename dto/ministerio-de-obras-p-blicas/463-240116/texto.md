@@ -1,0 +1,3 @@
+Por decreto MOP Nº 463, de 31 de mayo de 2005, se expropió el lote de terreno Nº 65, superficie 120 m², rol Nº 1402-15, comuna de Antofagasta, II Región para la obra "Mejoramiento Av. Salvador Allende, tramo Avda. Sarmiento - Avda. Costanera, comuna de Antofagasta, provincia de Antofagasta, II Región, sector Avda. Sarmiento - Calle Cardenal Oviedo Cavada", y se acordó el valor de indemnización con su propietario Pedro Pablo Ahumada, ascendente a la cantidad de $22.557.355.
+
+Fiscal del Ministerio de Obras Públicas.
