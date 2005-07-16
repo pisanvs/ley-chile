@@ -1,0 +1,7 @@
+Por decreto MOP exento Nº 594, de 21 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 5-A, 9, 11, 14, 36 y 37 para la obra: "Reposición, Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco - Río Bueno - Puerto Montt, Camino Collimallín", que figuran a nombre de Seguel Cisternas Baudilio, Jara Riquelme Eliecer y Pardo Reyes Carmen Gloria, roles de avalúo 417-36, 418-20 y 365-11, comuna de Loncoche, IX Región, superficies 1.730 m², 27 m², 305 m², 361 m², 39 m² y 96 m². La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 5 de septiembre de 2003, para los lotes Nºs 9, 11, 14, 36 y 37, y con fecha 15 de noviembre de 2003, para el lote Nº5-A, en la cantidad de $1.880.400 para el lote 5-A; $894.150 para el lote Nº9;
+
+$257.250 para el lote Nº11; $652.450 para el lote Nº14;
+
+$213.550 para el lote Nº36, y $43.200 para el lote Nº37. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
