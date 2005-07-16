@@ -1,0 +1,5 @@
+Por decreto MOP Nº 457, de 31 de mayo de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 543-1 para la obra: "Concesión Internacional Ruta 5; Tramo Temuco -
+
+Río Bueno Km. 879.550,00 a Km. 880.300,00"; Décima Región, que figura a nombre de Soto Pena Víctor Lautaro, rol de avalúo 538-102, comuna de La Unión, superficie 7.776 m2. La comisión de peritos integrada por los señores Nelson Bernardo Turra Turra, Enrique Edgardo Hoelck Altmann y Leopoldo Schumacher Guarda, fijó con fecha 2 de mayo de 2005, el valor provisional de la indemnización en la cantidad de $9.422.800.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
