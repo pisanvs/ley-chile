@@ -1,0 +1,3 @@
+Por decreto MOP Nº 450, de fecha 31 de mayo de 2005, se expropió el lote de terreno Nº 2-A, superficie 162.190 m², rol Nº 112-54, comuna de Corral, X Región para la obra "Camino Costero Sur, sector Chauhuín - Río Bueno Estero Quihue, tramo Km. 0,000 al Km. 48,450, (1º Etapa)", provincia de Valdivia y Osorno, X Región" y se acordó el valor de indemnización con su propietario Fundación Huiro Manelowun Esperanza, ascendente a la cantidad de $34.588.679.
+
+- Fiscal del Ministerio de Obras Públicas.
