@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 393 de fecha 29 de abril de 2005, se expropió el lote de terreno Nº 117-1, superficie 148 m², rol Nº 276-132, comuna de Algarrobo, para la obra "Red Vial Litoral Central Enlace Algarrobo Km. 28.700,00 al 29.740,00, V Región y se acordó el valor de la indemnización con su propietario Inmobiliaria Boja S.A., ascendente a la cantidad de $556.195.
+
+- Fiscal del Ministerio de Obras Públicas.
