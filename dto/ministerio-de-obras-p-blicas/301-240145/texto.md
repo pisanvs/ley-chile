@@ -1,0 +1,3 @@
+Por decreto MOP Nº 301, de fecha 29 de abril de 2005, se expropiaron los lotes de terrenos Nºs 1, 2, 3 y 4, superficies 2.874, 2.018, 1.360 y 3.986 m² respectivamente, rol Nº 263-39, comuna de San Vicente, VI Región para la obra "Camino La Vinilla rol H-584, sector: Acceso a Puente La Vinilla, tramo: Km. 0,000 al Km. 0,847" y se acordó el valor de indemnización con su propietario Hugo León Camilla Maturana, ascendente a la cantidad de $23.349.285.
+
+Fiscal del Ministerio de Obras Públicas.
