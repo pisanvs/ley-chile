@@ -1,0 +1,3 @@
+Por decreto MOP Nº 438, de 31 de mayo de 2005, se expropió el lote de terreno Nº 5, superficie 5.268 m², rol de avalúo Nº 274-118, comuna de San Javier, para la obra "Camino Ruta L-32, sector Puente Sifón y accesos, tramo Km. 0,00000 a Km. 3,20000, comuna de Linares y San Javier, provincia de Linares", VII Región y se acordó el valor de la indemnización con su propietario Osvaldo Segundo Norambuena Ríos, ascendente a la cantidad de $4.170.470.
+
+- Fiscal del Ministerio de Obras Públicas.
