@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.975, de 28 de junio de 2005, de esta Subsecretaría, modifícase el numeral 7º de la resolución Nº 1.070 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FIP 2005-09 denominado "Evaluación directa de langostino colorado y langostino amarillo entre la II y la VIII Región, año 2005", en el sentido de reemplazar la letra a) por la siguiente:
+
+"a) Langostino amarillo: 80 toneladas, en calidad de especie objetivo, las cuales se fraccionarán en 30 toneladas a ser extraídas en el área marítima comprendida entre la III y IV Regiones, y 50 toneladas a ser extraídas en el área marítima comprendida entre la V y la VIII Regiones."
+
+Valparaíso, 28 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
