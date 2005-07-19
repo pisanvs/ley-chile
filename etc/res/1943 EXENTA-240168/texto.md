@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.943, de 23 de junio de 2005, de esta Subsecretaría, autorízase a WALTER FRANCISCO OPITZ OYARZUN y a WALTER OPITZ TURRA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta A-16, Km. 35, comuna de Alto Hospicio, I Región, donde podrán elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
