@@ -16964,7 +16964,9 @@ En todo caso, los modelos utilizados para los efectos señalados serán objeto d
 
 Sobre las mediciones según modelo interno
 
-9. Tanto los criterios como la metodología utilizada por los bancos autorizados para medir normativamente el riesgo de mercado a través de un modelo interno, deberán estar incorporados en sus políticas de administración del riesgo de mercado. Por consiguiente, ellos serán aprobados y revisados al menos una vez al año por el Directorio o quien haga sus veces.
+9. La autorización de esta Superintendencia para utilizar modelos internos en la medición del riesgo de tasas de interés del libro de negociación y de los riesgos de moneda de los libros de banca y de negociación, conforme a lo señalado en el numeral 2.5 del Capítulo III.B.2, requerirá del proceso de evaluación descrito en el Anexo N° 1 de este Capítulo.
+
+Tanto los criterios como la metodología utilizada por los bancos autorizados para medir normativamente el riesgo de mercado a través de un modelo interno, deberán estar incorporados en sus políticas de administración del riesgo de mercado. Por consiguiente, ellos serán aprobados y revisados al menos una vez al año por el Directorio o quien haga sus veces.
 
 Sobre las pruebas de tensión
 
@@ -17074,23 +17076,39 @@ Sobre la autorización para utilizar el modelo intermedio para medir el riesgo d
 
 20. La autorización para adoptar el método intermedio para medir el riesgo de mercado de sus posiciones en opciones, a efectos de realizar la medición normativa de riesgos de mercado conforme a lo señalado en el numeral 4.2 del Anexo N° 1 del Capítulo III.B.2, solamente se otorgará si en su última evaluación a la gestión de riesgos financieros y operaciones de tesorería del banco, realizada según lo previsto en el numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación, esta Superintendencia no ha observado debilidades que deban ser superadas previamente.
 
+Deberá solicitarse autorización en forma previa al lanzamiento de cualquier producto que deba ser incluido en el cómputo del riesgo mediante el "método intermedio", sea que se trate de opciones explícitas o de opciones implícitas en instrumentos híbridos. En caso de que a un producto ya existente se le introduzcan modificaciones que incidan en los criterios de valoración y medición del riesgo, deberá solicitarse una nueva autorización en relación con ese producto.
+
+Las autorizaciones de que se trata se otorgarán siguiendo el proceso descrito en el Anexo N° 2 de este Capítulo.
+
+Sobre la medición del riesgo de mercado de posiciones en opciones mediante el método simplificado
+
+21. La aplicación del "método simplificado" a que se refiere el numeral 4.1 del Anexo N° 1 del Capítulo III.B.2, no requiere de autorización por parte de esta Superintendencia. Sin embargo, dicho método sólo puede ser utilizado por las entidades que no emitan opciones, sean ellas explícitas o implícitas en instrumentos híbridos.
+
+Sobre la aprobación de las metodologías para medir el riesgo de mercado de posiciones en opciones mediante modelos internos
+
+22. Aquellas entidades que se encuentren autorizadas para utilizar modelos internos VaR y decidan emitir opciones, deberán solicitar a esta Superintendencia, en forma previa a su lanzamiento, la aprobación de la metodología que desean utilizar para el cómputo de tales instrumentos en dicho modelo interno. En caso de que a un tipo de opción ya existente se le introduzcan modificaciones que incidan en los criterios de valoración y medición del riesgo, deberá solicitarse una nueva aprobación en relación con esa opción.
+
+Las aprobaciones de que se trata se darán siguiendo, en lo que corresponda, el proceso descrito en el Anexo N° 2 de este Capítulo.
+
+Junto con los cambios en los modelos internos que deben efectuarse con motivo de las operaciones con nuevas opciones, deberá ajustarse el modelo estándar para efectos de la información mensual mencionada en el N° 23 de este título.
+
 Sobre la información a la Superintendencia
 
-21. La información periódica relativa a los riesgos de tasa de interés y reajustabilidad en el Libro de Banca, sobre riesgos de mercado según la metodología estandarizada y según modelo interno, como asimismo de los resultados de las pruebas retrospectivas, será enviada a esta Superintendencia de acuerdo con lo que se instruya en el Manual del Sistema de Información. Los bancos que adopten el modelo interno, además de la información semanal sobre el riesgo de mercado exigida para su caso, deberán enviar también información mensual de la medida de riesgo de mercado bajo el modelo estandarizado.
+23. La información periódica relativa a los riesgos de tasa de interés y reajustabilidad en el Libro de Banca, sobre riesgos de mercado según la metodología estandarizada y según modelo interno, como asimismo de los resultados de las pruebas retrospectivas, será enviada a esta Superintendencia de acuerdo con lo que se instruya en el Manual del Sistema de Información. Los bancos que adopten el modelo interno, además de la información semanal sobre el riesgo de mercado exigida para su caso, deberán enviar también información mensual de la medida de riesgo de mercado bajo el modelo estandarizado.
 
 La información de las filiales y de las sucursales en el exterior será enviada mensualmente, consolidada y computada bajo el mismo modelo (estandarizado o interno) que la del banco individual. En caso que el banco individual informe bajo el modelo estandarizado, la medición del riesgo de precio (acciones y commodities) de sus filiales debiera utilizar la metodología estándar prevista en la Enmienda al Acuerdo de Capital de Basilea (1996).
 
-22. Los bancos deberán enviar a esta Superintendencia un informe acerca de las pruebas de tensión realizadas, referidas a los días 31 de marzo y 30 de septiembre de cada año. Para el efecto se remitirá una copia del documento estándar a que se refiere el N° 14 de este título.
+24. Los bancos deberán enviar a esta Superintendencia un informe acerca de las pruebas de tensión realizadas, referidas a los días 31 de marzo y 30 de septiembre de cada año. Para el efecto se remitirá una copia del documento estándar a que se refiere el N° 14 de este título.
 
 Cada informe de pruebas de tensión que se envíe a esta Superintendencia deberá contar con la aprobación del gerente general o del gerente que sea designado para ello, y se enviará dentro de los quince días siguientes a la fecha a la que se refiere.
 
-23. Los bancos deberán informar oportunamente a esta Superintendencia de cualquier cambio en el modelo VaR, indicando los fundamentos que motivaron las modificaciones. También deberán ser informados los cambios en la metodología y criterios definidos para las pruebas retrospectivas, adjuntando en el informe el impacto en los resultados en las pruebas que se generarán por cada una de esas modificaciones.
+25. Los bancos deberán informar oportunamente a esta Superintendencia de cualquier cambio en el modelo VaR, indicando los fundamentos que motivaron las modificaciones. También deberán ser informados los cambios en la metodología y criterios definidos para las pruebas retrospectivas, adjuntando en el informe el impacto en los resultados en las pruebas que se generarán por cada una de esas modificaciones.
 
-24. En general, los bancos deberán informar a esta Superintendencia de cualquier cambio en sus políticas de administración de riesgos de mercado, para lo cual acompañarán a las actas de las sesiones del Directorio en que se aprobaron los cambios, los nuevos textos del documento único a que se refiere el N° 27 de este título. En el caso de las agencias de bancos extranjeros, se enviará la documentación dentro de los diez días hábiles bancarios contados desde la aprobación de los cambios.
+26. En general, los bancos deberán informar a esta Superintendencia de cualquier cambio en sus políticas de administración de riesgos de mercado, para lo cual acompañarán a las actas de las sesiones del Directorio en que se aprobaron los cambios, los nuevos textos del documento único a que se refiere el N° 29 de este título. En el caso de las agencias de bancos extranjeros, se enviará la documentación dentro de los diez días hábiles bancarios contados desde la aprobación de los cambios.
 
 Sobre información periódica al Directorio
 
-25. Los bancos deberán informar periódicamente al Directorio (o a quien haga sus veces), sobre los diferentes aspectos relacionados con los riesgos de mercado. Ese informe deberá contemplar, al menos, los siguientes elementos:
+27. Los bancos deberán informar periódicamente al Directorio (o a quien haga sus veces), sobre los diferentes aspectos relacionados con los riesgos de mercado. Ese informe deberá contemplar, al menos, los siguientes elementos:
 
 a) Evolución en la exposición a los riesgos de mercado y en los márgenes de esos riesgos, referidos tanto al Libro de Banca como al Libro de Negociación.
 
@@ -17102,11 +17120,11 @@ d) Informes sobre exposición en derivados.
 
 Sobre la información al público
 
-26. Para dar cumplimiento a lo dispuesto en el numeral 2.15 del Capítulo III.B.2, los bancos publicarán información sobre la exposición al riesgo de mercado asumido en su actividad, incluyendo también un extracto de sus políticas de riesgo de mercado. Dicha información se referirá al último día de cada trimestre calendario, o bien a su último día hábil, si se prefiere, y se publicará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional, dentro de los quince días siguientes al término del trimestre correspondiente.
+28. Para dar cumplimiento a lo dispuesto en el numeral 2.15 del Capítulo III.B.2, los bancos publicarán información sobre la exposición al riesgo de mercado asumido en su actividad, incluyendo también un extracto de sus políticas de riesgo de mercado. Dicha información se referirá al último día de cada trimestre calendario, o bien a su último día hábil, si se prefiere, y se publicará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional, dentro de los quince días siguientes al término del trimestre correspondiente.
 
 Sobre el rol del Directorio
 
-27. El numeral 2.2 del Capítulo III.B.2 establece que la política de administración de riesgos de mercado debe estar contenida en un documento único, aprobado expresamente por el Directorio, y que éste debe pronunciarse a lo menos una vez al año sobre esa política.
+29. El numeral 2.2 del Capítulo III.B.2 establece que la política de administración de riesgos de mercado debe estar contenida en un documento único, aprobado expresamente por el Directorio, y que éste debe pronunciarse a lo menos una vez al año sobre esa política.
 
 Al respecto debe entenderse que las directrices que debe aprobar el Directorio, o quien haga sus veces, debe cubrir integralmente todos los aspectos que guardan relación con los riesgos de mercado, para cuyo efecto deben considerarse al menos los asuntos que se enuncian en el Anexo N° 3 del Capítulo 1-13 de esta Recopilación.
 
@@ -17116,7 +17134,7 @@ Como es natural, cualquier modificación a alguna de las directrices en una opor
 
 Disposición transitoria
 
-28. Para efectos de distinguir entre el Libro de Negociación y el Libro de Banca, en tanto esta Superintendencia no establezca los criterios para tratar las coberturas contables referidas en el N° 1 de este título, todas las posiciones en instrumento financieros derivados deberán incluirse en el Libro de Negociación.
+30. Para efectos de distinguir entre el Libro de Negociación y el Libro de Banca, en tanto esta Superintendencia no establezca los criterios para tratar las coberturas contables referidas en el N° 1 de este título, todas las posiciones en instrumento financieros derivados deberán incluirse en el Libro de Negociación.
 
 II.- LIMITES DE DESCALCES DE PLAZOS HASTA 30 Y 90 DIAS.
 
@@ -17175,6 +17193,198 @@ Sobre la información al público.
 13. Para dar cumplimiento a lo dispuesto en el último inciso del numeral 1.13 del Capítulo III.B.2 antes mencionado, los bancos publicarán su situación individual de liquidez referida al último día de cada trimestre calendario, dentro de los quince días siguientes al término del trimestre correspondiente. La publicación se efectuará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional.
 
 Se recomienda que además de la información exigida por el Banco Central de Chile, en dicha publicación el banco describa los aspectos esenciales de su política de administración de liquidez.
+
+ANEXO N°1
+
+AUTORIZACIÓN PARA UTILIZAR MODELOS INTERNOS VaR PARA EFECTOS NORMATIVOS
+
+I.- PROCESO DE APROBACIÓN
+
+- Presentación de solicitud formal por parte del banco.
+
+- Realización de visita de inspección por parte de la SBIF.
+
+- Comunicación formal al banco del resultado de la evaluación.
+
+II.- LA EVALUACIÓN SBIF
+
+- La evaluación comprenderá:
+
+-> El análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y,
+
+-> La realización de análisis y pruebas que permitan emitir una opinión de la
+
+"consistencia metodológica del modelo", como también de la "solidez de los procesos y procedimientos establecidos por la entidad".
+
+- Con el propósito de facilitar la evaluación, al momento de la solicitud de aprobación, la entidad solicitante deberá tener a disposición de la SBIF los siguientes elementos:
+
+-> Política de riesgo de mercado aprobada por Directorio o quien haga sus veces.
+
+-> Documentación del modelo (metodología y procedimientos).
+
+-> Informes de auditoría (conforme a lo señalado en este Anexo).
+
+-> Informes de eventuales certificaciones independientes realizadas al modelo.
+
+-> Informes de pruebas retrospectivas.
+
+-> Informes de pruebas de tensión.
+
+-> Documento de aprobación del modelo por parte de la alta administración.
+
+-> Charla descriptiva general del modelo, en formato de presentación, considerando al menos:
+
+- Reseña metodológica
+
+- Reseña de soportes operativos
+
+- Integración del modelo a la gestión de la entidad
+
+- Cumplimiento de criterios normativos
+
+- Estructura de límites y su utilización
+
+- Criterios y resultados de pruebas de tensión
+
+- Criterios y resultados de pruebas retrospectivas
+
+III.- REQUISITOS QUE DEBEN CUMPLIR LOS BANCOS
+
+1) ASPECTOS GENERALES.
+
+- Podrán aplicar esta modalidad, de acuerdo a lo señalado por la normativa, aquellos bancos que:
+
+-> Se encuentren clasificados en nivel A de solvencia;
+
+-> Reflejen una adecuada clasificación de gestión en la materia "Riesgo financiero y operaciones de tesorería";
+
+-> Cuenten con una política de riesgo de mercado vigente y acorde con lo indicado en el Anexo N° 3 del Capítulo 1-13 de esta Recopilación; y,
+
+-> Sean previamente autorizados por la SBIF.
+
+- Para optar a esta autorización, las instituciones deberán además:
+
+-> Presentar un modelo que cumpla con los criterios establecidos normativamente.
+
+-> Estar realizando pruebas de tensión, conforme a los criterios establecidos en las normas.
+
+-> Haber realizado pruebas retrospectivas de acuerdo con los criterios dispuestos en las normas, utilizando como mínimo una base de información de seis meses.
+
+-> No presentar debilidades en el modelo estándar utilizado al momento de solicitar la aprobación.
+
+-> Contar con informes de auditoría interna respecto del entorno del modelo y procesos relacionados.
+
+2) DE LOS INFORMES DE AUDITORÍA.
+
+Los informes de auditoría referidos al entorno del modelo y procesos relacionados, deberán considerar una cobertura que diga relación, al menos, con los siguientes elementos:
+
+- Opinión respecto del entorno del modelo:
+
+-> Cumplimiento del modelo con criterios normativos.
+
+-> Calidad de la documentación (metodología y procedimientos).
+
+-> Rigurosidad de aplicación (metodología y procedimientos).
+
+-> Cobertura y calidad de los procesos de validación de inputs y outputs.
+
+-> Integridad y consistencia de datos de entrada.
+
+-> Procedimientos para el control de límites.
+
+-> Realización de pruebas retrospectivas.
+
+-> Realización de pruebas de tensión.
+
+-> Uso de la herramienta en los procesos de gestión de la entidad.
+
+- Pruebas realizadas al modelo para determinar la integridad y consistencia del cálculo:
+
+-> Tipo y extensión de pruebas de cálculo realizadas.
+
+-> Datos de prueba utilizados y condiciones verificadas.
+
+-> Detalle de los resultados obtenidos en las pruebas.
+
+-> Reseña de condiciones de default detectadas.
+
+-> Reseña de deficiencias detectadas.
+
+-> Antecedentes que respalden la ejecución de pruebas.
+
+- Opinión respecto del entorno tecnológico:
+
+-> Grado de integración con otros sistemas de la entidad.
+
+-> Replicabilidad, automatización y programación.
+
+-> Calidad de documentación técnica existente.
+
+-> Continuidad y seguridad de la aplicación.
+
+- Opinión respecto de otros elementos relacionados:
+
+-> Criterios y procedimientos utilizados para la valoración de instrumentos.
+
+-> Criterios y procedimiento utilizados para el control de instrumentos y libros.
+
+-> Situación general de la gestión de "riesgo financiero y operaciones de tesorería".
+
+ANEXO N°2
+
+APROBACION DE MODELOS DE OPCIONES PARA EFECTOS DEL CÓMPUTO NORMATIVO DEL RIESGO DE MERCADO
+
+I.- PROCESO DE APROBACIÓN
+
+- Presentación, por parte del banco, de una solicitud formal de aprobación del modelo.
+
+- Revisión del modelo por parte de la SBIF.
+
+- Comunicación formal al banco del resultado de la revisión.
+
+II.- LA EVALUACIÓN SBIF
+
+- La evaluación comprenderá:
+
+-> El análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y,
+
+-> La realización de análisis y pruebas que permitan emitir una opinión de la "consistencia metodológica del modelo", como también de la "solidez de los procesos y procedimientos establecidos por la entidad" para la administración de los riesgos inherentes a este tipo de instrumentos.
+
+- Con el propósito de facilitar la evaluación, al momento de la solicitud de aprobación, la entidad solicitante deberá tener a disposición de la SBIF los siguientes elementos:
+
+-> Política referida a la actividad en derivados, inclusive opciones, aprobada por el Directorio o quien haga sus veces.
+
+-> Documento de análisis y aprobación del producto.
+
+-> Documentos relacionados con la aprobación del modelo de medición de riesgo.
+
+-> Documentación del modelo de medición de riesgo (metodología y procedimientos).
+
+-> Charla descriptiva general del producto, en formato de presentación, considerando al menos:
+
+- Reseña del producto y su relación con la estrategia comercial y financiera del banco.
+
+- Riesgos identificados en el producto:
+
+o Tasa de interés, moneda, liquidez.
+
+o Crédito, operacional, legal.
+
+- Metodología de valoración.
+
+- Reseña metodológica de los modelos de riesgo de mercado.
+
+- Reseña metodológica de los modelos de riesgo de crédito y liquidez.
+
+- Reseña de soportes operativos y procedimiento contable.
+
+- Estructura de límites y su fundamento.
+
+- Mecanismos de información y control.
+
+- Impacto cuantitativo en mediciones internas de riesgo.
+
+- Impacto cuantitativo en mediciones normativas.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
