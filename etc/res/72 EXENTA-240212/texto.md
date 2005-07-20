@@ -1,0 +1,7 @@
+DELEGA FACULTAD RELACIONADA CON NORMAS PARA COMBATIR EVASION TRIBUTARIA EN JEFATURA QUE INDICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 72 del 13 de julio de 2005, que delega en el Jefe del Departamento Subdirección Jurídica la facultad que indica.
+
+Se delega en el Jefe del Departamento Subdirección Jurídica, en el caso del delito previsto y sancionado en el artículo 97 Nº 9 del Código Tributario, la facultad de decidir la interposición de la respectiva denuncia o querella, de acuerdo a lo establecido en el artículo 162, inciso tercero, del Código Tributario. Además, delega en los Directores Regionales para ejercer por sí o por intermedio de mandatario, respecto del delito previsto y sancionado en el artículo 97 Nº 9 del Código Tributario, la facultad de asumir la representación y defensa del Fisco en el ejercicio de la acción penal correspondiente. Esta delegación comprende tanto la facultad de presentar la respectiva denuncia o querella, como su intervención en los procesos que se incoen.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de julio de 2005.
