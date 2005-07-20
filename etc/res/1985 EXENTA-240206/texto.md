@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.985, de 29 de junio de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Huillín, X Región, individualizada en el artículo 1º Nº 7 del decreto exento Nº 144 de 2004, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACION INDIGENA DE PESCADORES ARTESANALES Y RECOLECTORES DE ORILLA HUILLIN-CALETA MILAGRO.
+
+Valparaíso, 29 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
