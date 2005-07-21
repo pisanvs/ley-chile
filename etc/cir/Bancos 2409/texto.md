@@ -10586,7 +10586,7 @@ IV.- PROCEDIMIENTOS PARA LA TRANSFERENCIA ENTRE INSTITUCIONES O VENTA A TERCEROS
 
 1.- Envío a esta Superintendencia de los antecedentes acerca de las transacciones realizadas.
 
-Las instituciones financieras que participen en las transacciones de que trata este título, deberán remitir a esta Superintendencia, dentro de los primeros diez días de cada mes, los siguientes antecedentes relativos a las operaciones realizadas en el mes inmediatamente anterior:
+Las instituciones financieras que participen en las transacciones de que trata este título, deberán remitir a esta Superintendencia, dentro de los primeros diez días de los meses de abril, julio, octubre y enero, los siguientes antecedentes relativos a las operaciones realizadas en el trimestre inmediatamente anterior:
 
 a) Identificación de los deudores de los documentos objeto de la transacción y valor económico o comercial de éstos.
 
