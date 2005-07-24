@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 1.666 EXENTA, DE 2005
+
+Por resolución exenta Nº 1.666, de 21 de abril de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se dispuso el inicio de la puesta en marcha definitiva de la Concesión Tres, adjudicada a "Autotest Servicios de Revisión Técnica Limitada", para operar en la comuna de Macul, una Planta Revisora Clase B, con cinco (5) líneas de revisión livianas; para operar en la comuna de Las Condes, una Planta Revisora Clase B, con cinco (5) líneas de revisión livianas, y para operar en la comuna de Maipú, una Planta Revisora Clase B, con cinco (5) líneas de revisión livianas, a contar del 21 de abril de 2005.-
+
+Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
