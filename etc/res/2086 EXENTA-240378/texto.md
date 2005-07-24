@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.086, de 12 de julio de 2005 de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A., para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Pedro Aguirre Cerda Nº 989, Lo Rojas, Coronel, VIII Región, en las líneas de proceso de Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
