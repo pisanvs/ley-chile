@@ -24,7 +24,7 @@ e) Comisiones de servicio que deban cumplirse dentro del país y dentro del Serv
 
 f) Permisos sin goce de remuneraciones para trasladarse al extranjero y permisos sin goce de remuneraciones dentro del país, del personal señalado en la letra a).
 
-g) Contrataciones sobre la base de honorarios, cuyo monto mensual no exceda de 18 Unidades Tributarias Mensuales.
+g) Contrataciones sobre la base de honorarios, cuyo monto mensual no exceda de 50 Unidades Tributarias Mensuales.
 
 h) Todas las demás materias que se relacionan con el personal de la Dirección de Bibliotecas, Archivos y Museos, no contempladas expresamente en la delegación del presente decreto.
 
