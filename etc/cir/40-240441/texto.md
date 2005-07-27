@@ -1,0 +1,5 @@
+ACTUALIZA FORMULARIOS PARA USO DE PROPIETARIOS DE BIENES RAICES ACOGIDOS AL REGIMEN DE COPROPIEDAD INMOBILIARIA ESTABLECIDO EN LA LEY Nº 19.537. MODIFICA CIRCULAR Nº 42, DE 1999
+
+Extracto de la circular del Servicio de Impuestos Internos Nº 40 del 21-07-2005, que modifica la circular Nº 42, del 5 de agosto de 1999, eliminando el formulario Nº 2801 y actualizando: El formulario Nº 2803, el formulario Nº 2803B, las instrucciones para el cálculo del avalúo fiscal de las unidades de un condominio, el instructivo impreso al reverso de los formularios Nº 2802 y Nº 2803 y el formato de la Carta Tipo con instrucciones básicas.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII de julio de 2005.
