@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.062, de 7 de julio de 2005, de esta Subsecretaría, autorízase a INVERSIONES PESCAMAR SOCIEDAD ANONIMA, RUT Nº 77.971.940-5, con domicilio en Briceño Nº 2278, Lorenzo Arenas, Concepción, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Inversiones Pescamar Limitada, de igual RUT y domicilio, autorizada por la resolución Nº 241 de 2004 de esta Subsecretaría.
+
+Autorízase a Inversiones Pescamar Sociedad Anónima para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Briceño Nº 2278, Concepción, VIII Región, en las líneas de proceso de Cocido, fresco enfriado, fresco refrigerado y congelado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 7 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
