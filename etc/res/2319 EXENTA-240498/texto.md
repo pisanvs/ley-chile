@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.319, de 22 de julio de 2005, de esta Subsecretaría, autorízase a las ORGANIZACIONES DE PESCADORES ARTESANALES que se indica en la resolución extractada, pertenecientes a la Flota Sur 2, para ampliar el plazo de operaciones para realizar actividades pesqueras extractivas correspondientes al mes de julio, hasta el día 23 de dicho mes, inclusive.
+
+Valparaíso, 22 de julio de 2005.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
