@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.226, de 19 de julio de 2005, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.520, de 2005, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación de stock de Sardina común y Anchoveta", en el sentido de extender el plazo de ejecución de la citada pesca de investigación hasta el día 30 de septiembre de 2005, inclusive.
+
+Valparaíso, 19 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
