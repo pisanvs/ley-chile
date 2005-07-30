@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.986, de 29 de junio de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Caleta Los Toyos, I Región, individualizada en el artículo 1º Nº 1 del decreto exento Nº 254 de 2004, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES Y RAMOS SIMILARES DE CALETA LOS VERDES.
+
+Valparaíso, 29 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
