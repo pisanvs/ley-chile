@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 653 de 30 de junio de 2005, se expropió el lote de terreno Nº 117-A, superficie 322 m2., rol Nº 601-612, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, sector Chol-Chol-Nueva Imperial tramo Km. 24,30269 al Km. 43,50000, Sub-Tramo III Km. 35,380 al Km. 43,50000" y se acordó el valor de indemnización con su propietaria Ana Beatriz Pérez Gallardo, ascendente a la cantidad de $386.331.
+
+- Fiscal del Ministerio de Obras Públicas.
