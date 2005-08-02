@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.717 de 21 de diciembre de 2004, se dejaron sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP exento Nº 361 de 28 de marzo de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 13. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 13, fijada por la comisión de peritos con fecha 17 de febrero de 1999 en la cantidad de $2.410.554.- para el lote Nº 13.-
+
+Fiscal del Ministerio de Obras Públicas.
