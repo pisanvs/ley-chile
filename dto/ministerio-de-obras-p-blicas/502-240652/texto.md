@@ -1,0 +1,5 @@
+Por decreto MOP Nº 502 de 21 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 92A para la obra: Camino mejoramiento ruta L-19, sector Cruce Long. (Villa Alegre) - Esperanza, Tramo Km.
+
+0,000.00 al Km. 10,623.89, que figura a nombre de Gutiérrez Jaque Cosme H, rol de avalúo 158-11, comuna de Yerbas Buenas, VII Región, superficie 6.318 m². La comisión de peritos fijó con fecha 15 de enero de 2004 el monto de la indemnización provisional en la cantidad de $7.313.000.- lote Nº92A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
