@@ -1,0 +1,5 @@
+Por decreto MOP Nº 484, de 17 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nºs 70-B, 85-B y 99-B, para la obra Camino Ruta 5 Sur, Sector Quemchi - Castro, Tramo Km. 1.165,300 a Km.
+
+1.184,93643, que figuran a nombre de Hernández Oyarzún Yolanda del, Torres Osorio Clara Nilbana y Antarfrio Invertec S A, roles de avalúo 1125-16, 1115-34 y 1116-70, comuna de Castro, X Región, superficies 1.645 M2., 3.717 M2. y 687,59 M2. La Comisión de Peritos, fijó con fecha 8 de agosto de 2003, en las cantidades de $4.018.000, para el lote Nº70-B; $11.697.700, para el lote Nº85-B y con fecha 1 de marzo de 2004, en la cantidad de $5.377.335, para el lote Nº99-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
