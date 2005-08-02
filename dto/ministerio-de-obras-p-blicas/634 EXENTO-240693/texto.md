@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 634 de 30 de junio de 2005, se dejó sin efecto lo numerales 3º, 4º, 5º y 6º del decreto MOP exento Nº 1.454 de 30 de septiembre 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 251. Consígnese judicialmente el monto provisional de la indemnización del lote Nº251, fijada por la Comisión de Peritos, con fecha 20 de julio de 2001, en la cantidad de $1.650.000.- para el lote Nº 251.
+
+- Fiscal del Ministerio de Obras Públicas.
