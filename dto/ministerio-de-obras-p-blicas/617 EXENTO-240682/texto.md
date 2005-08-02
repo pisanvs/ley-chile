@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº617 de fecha 30 de junio de 2005, se expropiaron los lotes de terreno Nºs 1 y 2, superficies 623,07 y 502,60 m2, Rol Nº403-13, comuna de Gorbea, IX Región para la obra "Construcción Puente Agua Honda, Camino Matriz 4º faja a 3º faja, Km. 0,59000 a Km. 0,80000" y se acordó el valor de indemnización con su propietaria Isolde Edith Victoria Schilling Diethelm y otros, ascendente a la cantidad de $1.202.723.- para los lotes Nºs 1 y 2.
+
+- Fiscal del Ministerio de Obras Públicas.
