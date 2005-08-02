@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 646 de 30 de junio de 2005, se expropió el lote de terreno Nº 36-A, superficie 1.077 m2, rol Nº 267-136, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, Sector Carahue- Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietario Héctor Gerardo González Ortega, ascendente a la cantidad de $563.358.
+
+- Fiscal del Ministerio de Obras Públicas.
