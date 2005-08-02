@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº492 de 17 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº60, para la obra: "Mejoramiento Ruta Q-965, Huépil - Trupán - Polcura, Tramo I Km. 0,00000 a Km.
+
+12,54000", que figura a nombre de Patricio Guillermo Filla Hernán, rol de avalúo 169-3, Comuna de Tucapel, VIII Región, superficie 59 m2. La Comisión de peritos, fijó el monto provisional de la indemnización con fecha 10 de Septiembre de 2004, en la cantidad de $14.973.700. para el lote Nº60. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
