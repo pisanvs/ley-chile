@@ -1,0 +1,3 @@
+Por Decreto MOP. Nº 535 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 1, superficie 17.129 m2, rol Nº1175-156, comuna de La Calera, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Ruta 5 Norte - Enlace Peñablanca. Ampliación Enlace El Olivo. Km. 0.000,00 al Km. 1.280,00", V Región y se acordó el valor de la indemnización con su propietaria Guillermina del Carmen Aravena Navarro, ascendente a la cantidad de $60.518.060.-
+
+Fiscal del Ministerio de Obras Públicas.
