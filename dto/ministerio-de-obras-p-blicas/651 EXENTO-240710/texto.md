@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 651 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 2-A, superficie 204,80 m², rol Nº 179-35, comuna de Quellón, para la obra "Camino Ruta 5 Sur, sector Compu - Colonia Yungay, Tramo Km. 1.240,00 a Km. 1.257,445, sector Curva La Herradura, Tramo Km. 1.263,50 a Km. 1.264,309", X Región y se acordó el valor de la indemnización con su propietaria María Flora Cadin Paredes, ascendente a la cantidad de $696.858.
+
+- Fiscal del Ministerio de Obras Públicas.
