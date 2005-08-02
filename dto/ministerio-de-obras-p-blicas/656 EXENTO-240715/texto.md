@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº656 de fecha 30 de junio de 2005, se expropiaron los lotes de terrenos Nºs. 77-B y 78, superficies 136 y 513 m2 respectivamente, Rol Nº606-423, comuna de Nueva Imperial, IX Región, para la obra "Camino Reposición Ruta S-40, Sector Nueva Imperial - Carahue Tramo Km. 0,00000 al Km. 21,58295, Subtramo II Km. 4,04000 al Km. 12,840000" y se acordó el valor de indemnización con su propietario Fernando Millán Mozó y otra, ascendente a la cantidad de $993.977.
+
+- Fiscal del Ministerio de Obras Públicas.
