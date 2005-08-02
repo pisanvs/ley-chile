@@ -1,0 +1,3 @@
+Por decreto MOP Nº 483, de 17 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº 8, para la obra Camino Puelo Paso El Bolsón, sector Lago Taguatagua - Llanada Grande, Km. 12,530 a Km. 32,500, que figura a nombre de Tellez Gallardo Alberto Suc, rol de avalúo 157-41, comuna de Cochamó, X Región, superficie 31.860 M2. La Comisión de Peritos, fijó con fecha 11 de marzo de 2003, en la cantidad de $3.186.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
