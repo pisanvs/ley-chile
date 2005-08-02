@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 604 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 42-A, superficie 566,12 m², rol Nº 161-118, comuna de Petorca, para la obra "Camino Ruta E-37-D, Sector Palquico Las Palmas, Km. 14,04861 al Km. 26,13776", V Región y se acordó el valor de la indemnización con su propietaria Amada Lidia Astudillo Aguilera, ascendente a la cantidad de $386.742.-
+
+Fiscal del Ministerio de Obras Públicas.
