@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº611 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº59, superficie 1.439 m2, Rol Nº231-80, comuna de Toltén, IX Región para la obra "Camino Ruta S-790 Sector Nueva Toltén- Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietario Jorge Huechan, ascendente a la cantidad de $795.764.- para el lote Nº59.-
+
+Fiscal del Ministerio de Obras Públicas.
