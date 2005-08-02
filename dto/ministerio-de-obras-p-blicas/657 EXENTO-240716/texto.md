@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 657 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 100-2, superficie 536 m², rol Nº 406-5, comuna de Algarrobo, para la obra "Red Vial Litoral Central Sector 2: Camino Algarrobo - Casablanca (Ruta F-90). Tramo: Km. 0.000,00 al Km. 32.100,00", V Región y se acordó el valor de la indemnización con su propietario Hugo Armando Aravena Moya ascendente a la cantidad de $1.926.327.
+
+- Fiscal del Ministerio de Obras Públicas.
