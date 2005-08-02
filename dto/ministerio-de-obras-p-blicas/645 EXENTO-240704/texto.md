@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 645 de 30 de junio de 2005, se expropió el lote de terreno Nº 1, superficie 27 m2, rol Nº 8008-13, comuna de Alto Carmen, III Región para la obra "Conservación periódica, Ruta C-499 Variante Los Perales Km. 0,00 al Km. 8,70 Provincia de Huasco Región de Atacama, Etapa I" y se acordó el valor de indemnización con su propietaria Eliana de las Mercedes Campillay Cortés, ascendente a la cantidad de $308.082.
+
+- Fiscal del Ministerio de Obras Públicas.
