@@ -1,0 +1,7 @@
+NOTIFICACION
+
+Por resolución Nº 329 de 29 de junio de 2005 de Serviu Metropolitano, se ordenó expropiación parcial, conforme D.L. Nº 2.186 de 1978, del inmueble denominado "Ex Recinto Estación San Diego", ubicado en parte en la comuna de Santiago y en parte en la comuna de San Miguel, y con los siguientes roles de avalúos asignados al mismo: Nº 3732-2, asociado a la dirección Santa Rosa 2389, de propiedad de Ferrocarriles del Estado, de la comuna de Santiago Sur; Nº 3732-05, asociado a la dirección Placer 800, de propiedad de Empresa de Ferrocarriles del Estado, de la comuna de Santiago Sur;
+
+Nº 340-1, asociado a la dirección Santa Rosa 2401, de propiedad de Ferrocarriles del Estado, de la comuna de San Miguel; Nº 340-3, asociado a la dirección Silva 715- 801, de propiedad de Ferrocarriles del Estado, de la comuna de San Miguel, y Nº 340-9, asociado a la dirección Gran Avenida 2384, de propiedad de Ferrocarriles del Estado, de la comuna de San Miguel. Comisión integrada por peritos Yolanda Ivanka Aliaga Jofré, Constructor Civil, María Isabel Ríos Marcuello, Arquitecto y María Inés Marques Gutiérrez, Ingeniero Civil. Según informe de 24 de mayo de 2005, fijándose monto de indemnización en $791.040.260.- pagadera al contado, cantidad aceptada como indemnización definitiva por propietario del inmueble, Empresa de Ferrocarriles del Estado.
+
+- Director Serviu Metropolitano.
