@@ -1,0 +1,3 @@
+Por decreto MOP Nº 542 de 30 de junio de 2005, se dejaron sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº 566 de 29 de abril de 1998, en la parte que se refiere al Convenio Directo de Precio Ad Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 3. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 3, fijada por la comisión de peritos, con fecha 8 de abril de 1997, en la cantidad de $147.200.- para el lote Nº 3.
+
+Fiscal del Ministerio de Obras Públicas.
