@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 635 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 2, superficie 233 m², rol Nº 1175-223, comuna de La Calera, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Ruta 5 Norte - Enlace Peñablanca. Ampliación Enlace El Olivo. Km. 0.000,00 al Km. 1.280,00", V Región y se acordó el valor de la indemnización con su propietario Eduardo José Moltedo Margozzini ascendente a la cantidad de $1.225.488.
+
+- Fiscal del Ministerio de Obras Públicas.
