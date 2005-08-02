@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº233, 1 de julio 2005, Serviu Region del Bío Bío ordenó expropiación del resto de la edificación del inmueble ubicado en calle Manuel Rodríguez Nº1792, Los Notros, Rol de Avalúo Nº 3114-136, comuna de Chiguayante, superficie 7,80 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.479 y superficie 93,40 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.801, de aparente dominio de Víctor Manuel Gaete Matamala, para ejecución programa "Mejoramiento Vial Eje O"Higgins de Chiguayante", de la comuna de Chiguayante, conforme artículo 51 Ley 16.391 y D.L.2.186. Comisión Peritos integrada por Francisco Schiappacasse R., arquitecto, Marisa Perrín C., arquitecto y Santiago Aptecar N., arquitecto, según informes de fechas 20 de diciembre 2004 y 14 de abril 2005, fijó monto provisional indemnización en la suma total de $28.007.000.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
