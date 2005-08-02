@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 655 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 6, superficie 4.659 m2, rol en trámite, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C.495, Camino Alto del Carmen-Conay, Provincia del Huasco, Región de Atacama, Etapa I" y se acordó el valor de indemnización con su propietario don Belarmino Escobar Santibáñez, ascendente a la cantidad de $2.914.076.
+
+- Fiscal del Ministerio de Obras Públicas.
