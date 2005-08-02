@@ -1,0 +1,5 @@
+Por decreto MOP Nº 253, de 18 de abril de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 408 para el "Proyecto: Camino Internacional Ruta 60 Ch. Sector 2:
+
+Km. 0.000,00 al Km. 38.500,00. Tramo 2: Km. 21.000,00 al Km. 38.500,00" Quinta Región, que figura a nombre de Tahan Abdelnur José, rol de avalúo 877-81, comuna de Villa Alemana, superficie 9.264 m2. La comisión de peritos integrada por los señores Carmen Pilar Ríos Marcuello, Cristián Larraín Arnolds y Verónica Paz Olivier Valdebenito, fijó con fecha 3 de febrero de 2005, el valor provisional de la indemnización en la cantidad de $14.501.482.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
