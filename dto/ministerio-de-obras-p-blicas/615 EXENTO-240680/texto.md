@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 615 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 15, superficie 522,7 m², Rol N° 45-40, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas - Central Los Molles, Sector Juntas - Rapel, Tramo 0,00000 a Km. 13,28846, I Etapa", IV Región y se acordó el valor de la indemnización con su propietario Reinaldo del Rosario Mora Ordenes, ascendente a la cantidad de $1.207.461.
+
+- Fiscal del Ministerio de Obras Públicas.
