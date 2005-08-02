@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº639 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº559, superficie 243 m2., Rol Nº32-432, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua- Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo Km. 0,00000 al Km.12,70000", y se acordó el valor de indemnización con su propietario Sociedad Comercial y de Inversiones Tocoagro Limitada, ascendente a la cantidad de $875.610.
+
+- Fiscal del Ministerio de Obras Públicas.
