@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº654 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº41, superficie 100 m2, Rol Nº518-78, comuna de Antuco, VIII Región, para la obra "Camino Ruta Q-45, Sector Antuco - Abanico, Tramo II Km. 3,95000 al Km. 12,40150", y se acordó el valor de indemnización con su propietaria Dominga del Tránsito Guajardo Rivera, ascendente a la cantidad de $303.960.
+
+- Fiscal del Ministerio de Obras Públicas.
