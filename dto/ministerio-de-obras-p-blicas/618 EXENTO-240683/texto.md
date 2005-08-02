@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 618 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 37-A, superficie 105,17 m², rol Nº 557-42, comuna de Linares, para la obra "Camino Conservación Ruta L-45, Sector Escuela Llepo - Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446", VII Región y se acordó el valor de la indemnización con su propietaria Margarita Inés Flores Muñoz, ascendente a la cantidad de $275.552.
+
+- Fiscal del Ministerio de Obras Públicas.
