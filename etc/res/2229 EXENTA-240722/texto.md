@@ -1,0 +1,11 @@
+Por resolución exenta Nº 2.229, de 19 de julio de 2005 de esta Subsecretaría, autorízase al INSTITUTO DE INVESTIGACION PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo reproductivo del Jurel en la zona centro-sur, 2005". El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en monitorear el estado reproductivo del recurso Jurel, evaluar la distribución espacial de las capturas y estructura de los desembarques en la unidad de pesquería V-IX Regiones.
+
+La pesca de investigación se efectuará entre el límite norte de la V Región y el límite sur de la IX Región, al interior y por fuera de las 200 millas marinas contadas desde las líneas de base normales o rectas, según corresponda, en el período comprendido entre la fecha de la presente resolución y el 30 de septiembre de 2005, ambas fechas inclusive.
+
+Participarán en la presente pesca de investigación las naves industriales "Ventisquero", "Don Julio", "Don Telesforo", "Remoy Viking" y "Antartic", todas del armador Pesquera San José S.A., que cuentan con autorización de pesca vigente para operar en la unidad de pesquería de Jurel de la V a la IX Regiones, declarada en régimen de plena explotación mediante decreto supremo Nº 354 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+En cumplimiento de los objetivos de la presente pesca de investigación, el conjunto de las naves industriales antes señaladas podrá extraer, con red de cerco tipo jurelero, una cuota máxima total ascendente a 1.800 toneladas del recurso Jurel. Las capturas efectuadas de conformidad con la presente pesca de investigación se imputarán a la fracción autorizada para ser extraída con fines de investigación de la cuota global anual de captura establecida para las unidades de pesquería del recurso Jurel.
+
+El Instituto de Investigación Pesquera designa como persona responsable de esta pesca de investigación a don Dagoberto Arcos Rojas.
+
+Valparaíso, 19 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
