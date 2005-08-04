@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.376, de 27 de julio de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204104023 presentada por JORGE LUIS MANSILLA INOSTROZA y Oscar Mauricio Imilpán Millar para instalar y operar un centro de cultivo ubicado en Ensenada Codihué, al noreste de Punta Peuque, X Región.
+
+Valparaíso, 27 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
