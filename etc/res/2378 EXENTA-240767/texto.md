@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.378, de 27 de julio de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111836 presentada por JUAN BAUTISTA GONZALEZ BLANCO para instalar y operar un centro de cultivo ubicado en Canal Utarupa, al weste de Islote sin nombre, weste de Isla Humos, sector 1, XI Región.
+
+Valparaíso, 27 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
