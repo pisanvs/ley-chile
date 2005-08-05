@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.406 de esta Subsecretaría, autorízase a las organizaciones de pescadores artesanales que se indica en la resolución extractada, sometidas al Régimen Artesanal de Extracción en la unidad de pesquería de Merluza del sur de la XI Región, para realizar actividades pesqueras extractivas durante el mes de julio, entre los días 29 a 31 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 29 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
