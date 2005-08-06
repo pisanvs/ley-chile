@@ -1,0 +1,5 @@
+ESTABLECE NORMAS PARA AUTORIZAR A CONTRIBUYENTES COMO PRESTADORES DE SERVICIOS TRIBUTARIOS ELECTRONICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 81 de 1º-agosto-2005, que establece normas para autorizar a contribuyentes como prestadores de servicios tributarios electrónicos Los proveedores de soluciones de facturación electrónica, tanto de servicios vía Internet como de productos de software, que cumplan con los requisitos exigidos, podrán ser autorizados como "Prestadores de Servicios Tributarios Electrónicos", lo cual los facultará para preinscribir ante este Servicio a contribuyentes de su cartera de clientes como emisores de documentos tributarios electrónicos y los habilitará para realizar por cuenta de dichos clientes el proceso de certificación establecido por este Servicio, de acuerdo a la Res. Ex. SII Nº 45, de 2003. El registro definitivo lo perfeccionará finalmente el contribuyente.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto de 2005.
