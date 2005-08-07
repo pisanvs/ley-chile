@@ -1,0 +1,7 @@
+Por resolución Nº 2.220, de 19 de julio de 2005, de esta Subsecretaría, autorízase a UNIVERSIDAD ARTURO PRAT, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Octopus mimus y Enteroctopus megalocyathus para cultivo experimental", elaborados por el solicitante y aprobados por esta Subsecretaría. El objetivo principal de la pesca de investigación que por la presente resolución se autoriza, consiste en desarrollar la tecnología de cultivo del pulpo del norte y pulpo del sur, con énfasis en la engorda, tendrá una duración de 210 días a contar de la fecha de la presente resolución, y se efectuará en los siguientes sectores: Octopus mimus, en la zona costera bentolitoral de la I Región, comprendida entre Pisagua (19°30'00" L.S.) y el Río Loa (21°25'00" L.S.); Enteroctopus megalocyathus, en la zona costera bentolitoral de la X Región, comprendida entre el Seno de Reloncaví (41°29'00" L.S.) y Quellón (43°07'00" L.S.).
+
+El peticionario podrá extraer un máximo de 1.100 ejemplares de pulpo del norte y de 1.000 ejemplares de pulpo del sur, de todo rango de tallas presentes en los respectivos sectores.
+
+Será persona responsable de la pesca de investigación Carlos Merino Pinochet.
+
+Valparaíso, 19 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
