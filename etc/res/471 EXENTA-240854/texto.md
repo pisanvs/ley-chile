@@ -1,0 +1,7 @@
+APRUEBA MODIFICACION DE ESTATUTOS DE INTERAMERICANA RENTAS SEGUROS DE VIDA S.A.
+
+Certifico: Que por resolución exenta Nº 471 de 29 de julio de 2005, se aprobó la modificación de los estatutos de la sociedad anónima "Interamericana Rentas Seguros de Vida S.A.", acordada en Junta Extraordinaria de Accionistas de 29 de abril de 2005, cuya acta consta en escritura pública de 9 de mayo de 2005 y escrituras públicas de rectificación de 6 y 20 de julio de 2005, todas otorgadas ante el Notario de Santiago don René Benavente Cash, domiciliado en Huérfanos 979, séptimo piso, Santiago.
+
+La modificación consiste en aumentar el capital social de $41.040.728.869.-, dividido en 24.059 acciones de una misma serie y del mismo valor, íntegramente suscrito y pagado, a $51.203.080.418.- dividido en 30.287 acciones de una misma serie y del mismo valor, mediante la capitalización de reservas de sobreprecio de venta de acciones por $162.351.549.-, y la emisión de 6.228 acciones de pago de una misma serie, mismo valor y sin valor nominal, correspondiente a $10.000.000.000.- a pagar en el plazo de tres años a contar del 29 de abril de 2005.
+
+Santiago, 29 de julio de 2005.- Carmen Undurraga Martínez, Secretario General.
