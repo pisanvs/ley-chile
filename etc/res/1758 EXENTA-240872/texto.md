@@ -1,0 +1,21 @@
+APRUEBA ACTA DE CALIFICACION DE OFERTAS Y DECLARA DESIERTA LICITACION QUE INDICA
+
+Núm. 1.758 exenta.- Santiago, 20 de julio de 2005.- Visto: El artículo 3º de la ley Nº 18.696; el decreto con fuerza de ley Nº 279, de 1960; el decreto con fuerza de ley Nº 343, de 1953; el decreto ley Nº 557, de 1974; la ley Nº 18.059; el decreto con fuerza de ley Nº 1/19.653, que Fija el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la resolución Nº 117, de 2003, que aprobó las Bases de Licitación Pública de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público Remunerado de Pasajeros Mediante Buses (Licitación Transantiago 2003), y sus modificaciones; la resolución Nº 15, de 2004, que aprobó Bases de Licitación Pública del Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Transporte Público de Pasajeros de Santiago, y sus modificaciones; la resolución Nº 43, de 29 de marzo de 2005, que aprobó las Bases de Licitación Pública del Contrato de Prestación de los Servicios de Información y Atención a Usuarios de Transantiago (Licitación Transantiago 2005) y sus Anexos; la resolución Nº 57, de 6 de mayo de 2005, que aprobó modificaciones a las Bases de Licitación Pública del Contrato de Prestación de los Servicios de Información y Atención a Usuarios de Transantiago (Licitación Transantiago 2005) y sus Anexos; la resolución 68, de 30 de mayo de 2005, que aprueba Modificaciones y Respuestas a Consultas a las Bases de Licitación Bases de Licitación Pública del Contrato de Prestación de los Servicios de Información y Atención a Usuarios de Transantiago (Licitación Transantiago 2005); la resolución Nº 1.594, de 24 de junio de 2005, que modificó el lugar y fecha del Acto de Apertura de Ofertas Económicas; todas las anteriores del Ministerio de Transportes y Telecomunicaciones; el Acta de Recepción de Ofertas y Apertura de Ofertas Técnicas de la Licitación Transantiago 2005, de 24 de junio de 2005; el Acta de Calificación de Ofertas Técnicas de la Licitación Transantiago 2005, de 18 de julio de 2005; el Acta de Apertura de Ofertas Económicas de la Licitación Transantiago 2005, de 28 de julio de 2005; las órdenes de Servicio Nº 32, Nº 33 y Nº 36, todas de 2005, del Subsecretario de Transportes; las órdenes Ministeriales Nº 5 y Nº 7, de 2005, del Ministro de Transportes y Telecomunicaciones; la resolución Nº 520, de 1996, de la Contraloría General de la República y; la demás normativa aplicable.
+
+Considerando:
+
+1º Que, según consta en el Acta de Calificación de Ofertas Técnicas de la Licitación Transantiago 2005, citada en los Vistos y dando cumplimiento a lo establecido en el artículo 3.3.4.5 de las Bases de Licitación Transantiago 2005, la Comisión de Evaluación establecida en el citado artículo, procedió a declarar técnicamente no aceptables todas las ofertas técnicas analizadas, por incurrir éstas en las causales previstas en las letras a) y b) del párrafo sexto del artículo en comento.
+
+2º Que, no existiendo ofertas técnicamente aceptables, resulta imposible dar curso progresivo a la Licitación Transantiago 2005, correspondiendo que ésta se declare desierta, según se indica en la parte resolutiva de la presente resolución.
+
+Resuelvo:
+
+1º Apruébase el Acta de Calificación de Ofertas Técnicas presentadas en la Licitación Pública para el Contrato de Prestación de Servicios de Información y Atención a Usuarios de Transantiago (Licitación Transantiago 2005), de fecha 18 de julio de 2005, la que se adjunta a la presente resolución y forma parte integrante de la misma.
+
+2º Declárase desierta la Licitación Pública para el Contrato de Prestación de Servicios de Información y Atención a Usuarios de Transantiago (Licitación Transantiago 2005).
+
+Anótese y publíquese.- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda a Ud., Mauricio Carrasco Torres, Jefe Depto.
+
+Administrativo.
