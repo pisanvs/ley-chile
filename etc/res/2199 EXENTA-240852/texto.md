@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.199, de 14 de julio de 2005, de esta Subsecretaría, modifícase la resolución Nº 1.050 de 2005, modificada mediante resoluciones Nº 1.078, Nº 1.118, Nº 1.339, Nº 1.663, Nº 1.792, Nº 2.004, todas de 2005, de la Subsecretaría de Pesca que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Bases Técnicas para el Plan de Manejo Pesquerías Bentónicas Zona Contigua Regiones X y XI", en el sentido de incorporar al numeral 12, letra d) el siguiente inciso final: "No obstante lo anterior, se permitirá el transporte de carga a granel en bodega en los términos que establezca la autoridad marítima."
+
+Déjase sin efecto el numeral 1º letra b) de la resolución Nº 1.663 de 2005, y la resolución Nº 1.792 de 2005, ambas de esta Subsecretaría de Pesca, en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 14 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
