@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE ADMINISTRADORA DE FONDOS PARA LA VIVIENDA CAMARA CHILENA DE LA CONSTRUCCION S.A.
+
+Certifico: Que, por resolución exenta Nº472 de fecha 3 de agosto de 2005, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad "Administradora de Fondos para la Vivienda Cámara Chilena de la Construcción S.A.", según lo acordado en junta extraordinaria de accionistas de fecha 17 de junio de 2005, cuya acta fue reducida a escritura pública ante el titular de la Primera Notaría de Santiago, Sr. Rubén Galecio Gómez con fecha 20 de junio de 2005. Reforma consiste en aumentar capital social de $184.500.000 dividido en 100.000 acciones nominativas, de una misma serie, sin valor nominal, íntegramente suscritas y pagadas, a $659.739.746 dividido 135.000 acciones nominativas, de una misma serie y sin valor nominal, mediante el reconocimiento de su revalorización legal en $68.733.310, la capitalización de la reserva para futuros dividendos por $227.370.450 y de la cuenta sobreprecio en colocación de acciones propias por $4.135.986, así como mediante la emisión de 35.000 acciones de pago a ser suscritas y pagadas dentro de los 90 días siguientes a la junta extraordinaria de accionistas anteriormente mencionada. Con motivo de la modificación aprobada, fueron reformados los artículos 5 y 1 transitorio de los estatutos sociales.
+
+Demás estipulaciones constan en escritura mencionada.
+
+Santiago, 3 de agosto de 2005.- Carmen Undurraga Martínez, Secretario General.
