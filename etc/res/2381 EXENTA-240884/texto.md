@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.381, de 27 de julio de 2005, de esta Subsecretaría, autorízase a DELFRIO FRIGORIFICO DE VALPARAISO S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Ruta 68 Nº 1240, Placilla de Peñuelas, Valparaíso, V Región, en las líneas de proceso de Cocido, Deshidratado, Cecina, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
