@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.219, de 19 de julio de 2005, de esta Subsecretaría, autorízase a HUGO HERNAN LOPEZ CARRIZO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector Caleta Botija s/n, comuna de Antofagasta, II Región, donde podrá elaborar en las líneas de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 19 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
