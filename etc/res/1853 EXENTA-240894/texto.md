@@ -1,0 +1,19 @@
+APRUEBA CONTRATO QUE INDICA
+
+Núm. 1.853 exenta.- Santiago, 9 de agosto de 2005.- Vistos: El artículo 3º de la ley 18.696; el decreto con fuerza de ley Nº 279, de 1960; el decreto con fuerza de ley Nº 343, de 1953; el decreto ley Nº 557, de 1974; la ley Nº 18.059; el decreto con fuerza de ley Nº 1/19.653, que Fija el Texto Refundido, Coordinado y Sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la resolución Nº 117, de 2003, que aprobó las Bases de Licitación Pública de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público de Pasajeros Mediante Buses, Licitación Transantiago 2003; las resoluciones Nº 31, Nº 58, Nº 59, Nº 66 y Nº 71, todas de 2004, que aprobaron modificaciones a las mencionadas Bases de Licitación; la resoluciones Nºs 70 y 74, ambas de 2004, que aprobaron las respuestas a las consultas presentadas en el proceso de licitación señalado; la resolución 331, de 2005, que aprobó Contratos de Concesión de la licitación en referencia; la resolución Nº 15, de 2004, que aprobó las Bases de Licitación Pública del Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Pasajeros de Santiago (Licitación AFT 2004), en particular lo dispuesto en el artículo 3.3 de las citadas Bases; las resoluciones Nº 24, Nº 29 y Nº 36, de 2005, que aprobaron las modificaciones a las referidas Bases, todas resoluciones del Ministerio de Transportes y Telecomunicaciones; la resolución Nº 897, de 2005, del Ministerio de Transportes y Telecomunicaciones, que aprobó el Acta de Calificación de Ofertas Económicas y Adjudicó la Licitación que se indica; la resolución Nº 520, de 1996, de la Contraloría General de la República; y la demás normativa aplicable.
+
+Considerando:
+
+1. Que, con fecha 10 de enero de 2005, el Ministerio de Transportes y Telecomunicaciones convocó la Licitación Pública del Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Transporte Público de Pasajeros de Santiago, cuyas Bases de Licitación fueron aprobadas por resolución Nº 15, de 2004, de la mencionada Secretaría de Estado.
+
+2. Que, una vez verificadas en tiempo y forma las diversas instancias previstas en las Bases de Licitación, mediante resolución Nº 897, de 2005, del Subsecretario de Transportes, se aprobó el Acta de Calificación de Ofertas Técnicas y se adjudicó la licitación respectiva al oferente Banco del Estado de Chile.
+
+3. Que, de conformidad con lo dispuesto en los artículos 3.2 y siguientes de las Bases de Licitación AFT 2004, el adjudicatario constituyó la sociedad denominada Administrador Financiero de Transantiago S.A., la que, con fecha 28 de julio de 2005, suscribió con el Ministerio de Transportes y Telecomunicaciones el Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Transporte Público de Pasajeros de Santiago y sus Anexos.
+
+Resuelvo:
+
+Apruébase el Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Transporte Público de Pasajeros de Santiago y sus Anexos, suscrito con fecha 28 de julio de 2005, entre el Ministerio de Transportes y Telecomunicaciones y la sociedad Administrador Financiero de Transantiago S.A.
+
+Anótese y publíquese.- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Mauricio Carrasco Torres, Jefe Depto. Administrativo.
