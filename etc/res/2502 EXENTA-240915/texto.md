@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.502, de 3 de agosto de 2005, de esta Subsecretaría, déjase sin efecto la resolución Nº 506 de 2005 de esta Subsecretaría. Rechaza la solicitud de concesión de acuicultura Nº 203101269 presentada por HERNAN EUGENIO CONTRERAS VARGAS para instalar y operar un centro de cultivo ubicado en paso Maillén, al norte de punta Puchegui, isla Maillén, X Región.
+
+Valparaíso, 3 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
