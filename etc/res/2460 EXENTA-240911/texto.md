@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.460, de 3 de agosto de 2005, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.597, de 2004, de esta Subsecretaría, que rechazó la solicitud Nº 203101167, presentada por LORENA DEL CARMEN VERGARA DIAZ para un centro de cultivo ubicado en seno Reloncaví, ensenada Raliguao, al suroeste de Isla Quillaipe, sector 3, X Región, en virtud del artículo 61 de la ley Nº 19.880.
+
+Valparaíso, 3 de agosto de 2005.- Felipe Sadoval Precht, Subsecretario de Pesca.
