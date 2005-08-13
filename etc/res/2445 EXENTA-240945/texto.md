@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.445, de 3 de agosto de 2005, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para ampliar actividades pesqueras extractivas con la nave "Don Julio", en el área marítima correspondiente al Archipiélago de Juan Fernández, Isla de Pascua, Islas Sala y Gómez e Islas Desventuradas, con cerco y arrastre de media agua, por fuera del área de reserva artesanal, donde podrá capturar el recurso hidrobiológico Jurelillo de Juan Fernández.
+
+Valparaíso, 3 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
