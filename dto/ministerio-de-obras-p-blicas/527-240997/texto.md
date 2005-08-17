@@ -1,0 +1,3 @@
+Por decreto MOP Nº 527 de 30 de junio de 2005, se expropiaron los lotes de terrenos Nºs. 16-A, 16-C, 16-E y 17, superficies 1.256,00; 88,00; 3.291,80 y 19.140,00 m² respectivamente, rol Nº 132-19, comuna de Queilen, para la obra "Camino Ruta 5 Sur, Sector Compu - Colonia Yungay, Tramo Km. 1.240,00 a Km. 1.257,445 y Sector Curva La Herradura. Tramo Km. 1.263,50 Km. 1.264,309", X Región y se acordó el valor de la indemnización con su propietario Renato Eduardo Barría González, ascendente a la cantidad de $5.972.394.
+
+Fiscal del Ministerio de Obras Públicas.
