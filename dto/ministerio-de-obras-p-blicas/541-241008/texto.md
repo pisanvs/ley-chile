@@ -1,0 +1,3 @@
+Por decreto MOP Nº 541 de 30 de junio de 2005, se expropió el lote de terreno Nº 400, superficie 27.030 m², rol de avalúo 332-362, comuna de Limache, para la obra proyecto: Camino Internacional Ruta 60 Ch. sector 2: km. 0.000,00 al km. 38.500,00. Tramo 2: km. 21.000,00 al km. 38.500,00. Quinta Región, se acordó el valor de la indemnización con su propietario Juan Segundo Carvajal Morán y Otros, ascendente a la cantidad de $18.437.511.
+
+Fiscal del Ministerio de Obras Públicas.
