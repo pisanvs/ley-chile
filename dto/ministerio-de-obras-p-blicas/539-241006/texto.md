@@ -1,0 +1,3 @@
+Por decreto MOP Nº 539 de 30 de junio de 2005, se expropió el lote de terreno Nº 387, superficie 32.172 m², rol de avalúo 332-409, comuna de Limache, para la obra proyecto: Camino Internacional Ruta 60 Ch. sector 2: km. 0.000,00 al km. 38.500,00. Tramo 2: km. 21.000,00 al km. 38.500,00. Quinta Región, se acordó el valor de la indemnización con su propietario Oscar René Alvarez Alvarez ascendente a la cantidad de $26.302.072.
+
+Fiscal del Ministerio de Obras Públicas.
