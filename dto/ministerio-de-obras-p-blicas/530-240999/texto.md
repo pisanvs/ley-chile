@@ -1,0 +1,3 @@
+Por decreto MOP Nº 530 de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 117-A, superficie 187,01 m², rol Nº 1434-1, comuna de Antofagasta, para la obra "Mejoramiento Av. Salvador Allende, tramo Avda. Sarmiento - Avda. Costera, Comuna de Antofagasta, Provincia de Antofagasta, II Región sector calle Chuquicamata Avda. Costanera", II Región y se acordó el valor de la indemnización con su propietario Sonia Elvira Olivares Bravo, ascendente a la cantidad de $15.273.497.
+
+Fiscal del Ministerio de Obras Públicas.
