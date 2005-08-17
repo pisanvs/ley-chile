@@ -1,0 +1,5 @@
+Por decreto MOP Nº 515, de 30 de junio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 3, 16, 21, 22, 25 y 27 para la obra: "Mejoramiento Ruta Q-503, Los Angeles - El Peral", que figuran a nombre de Soc. Hargous y García Ltda., Sobarzo Henríquez Graciela y OT, Cortés López Anim C P y Otro, González Vivero Eduardo y OT y Castillo Castillo Froilán, roles de avalúo 1535-547, 1535-78, 1535-595, 1535-596, 1535-667 y 1535-476, comuna de Los Angeles, VIII Región, superficies 338 m², 568 m², 470 m², 253 m², 558 m² y 560 m². La Comisión de Peritos fijó el monto provisional de la indemnización con fecha 6 de agosto de 2004, en la cantidad de $1.081.913, para el lote Nº 3; $1.772.193, para el lote Nº 16; $1.193.798, para el lote Nº 21;
+
+$742.725, para el lote Nº 22; $1.395.000, para el lote Nº 25, y $1.413.490, para el lote Nº 27. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
