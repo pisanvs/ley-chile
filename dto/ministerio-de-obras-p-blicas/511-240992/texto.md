@@ -1,0 +1,3 @@
+Por decreto MOP Nº 511 de fecha 30 de junio del 2005, se expropió el lote de terreno Nº 36, superficie 285,21 m², Rol Nº 557-108, comuna de Linares, VII Región para la obra "Camino Conservación Ruta L-45, Sector Escuela Llepo - Puente Los Hualles, Tramo km. 13,14700 al km. 36,446", y se acordó el valor de indemnización con su propietario Juan Domingo Urrutia Bravo y Otros, ascendente a la cantidad de $4.922.452.
+
+Fiscal del Ministerio de Obras Públicas.
