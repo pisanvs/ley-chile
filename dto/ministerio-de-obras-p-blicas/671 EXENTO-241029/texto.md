@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 671, de 20 de julio de 2005, se autorizó a favor del Fisco de Chile una servidumbre de acueducto continua, inaperente, perpetua y gratuita constituida sobre los lotes de terrenos Nºs 13-2 y 14-2, superficies 879 y 120 m2, respectivamente, Rol de avalúo 117-260, comuna de Quilicura de propiedad de don Jorge Barzelatto Peragallo, para la obra "Proyecto Concesión Internacional Sistema Américo Vespucio Nor - Poniente, Avda. El Salto - Ruta 78. Tramo 3: Ruta 5 Norte - Condell. Colector y Canal de Aguas Lluvias Loteo Industrial", Región Metropolitana.
+
+Fiscal del Ministerio de Obras Públicas.
