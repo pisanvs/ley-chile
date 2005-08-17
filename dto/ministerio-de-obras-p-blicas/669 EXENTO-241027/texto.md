@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 669, de 20 de julio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Conexión a Camino Rol V - 840 - Cruce Longitudinal Salto Chico - Cruce V86, Sector Salto Chico - Pellines, que figura a nombre de Pérez Cárcamo Isidro, rol de avalúo 2118-43, comuna de Puerto Montt, X Región, superficie 6.525,05 m². La Comisión de Peritos fijó con fecha 25 de noviembre de 2003, en la cantidad de $1.016.758. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
