@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 670 de 20 de julio de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP exento Nº 1.027 de 29 de julio de 2004, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 61-A. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 61-A, fijada por la Comisión de Peritos, con fecha 20 de noviembre de 2003, en la cantidad de $539.600.- para el lote Nº 61-A.
+
+Fiscal del Ministerio de Obras Públicas.
