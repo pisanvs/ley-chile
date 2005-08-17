@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 238 de fecha 6 de abril de 2005, se autorizó una servidumbre de acueducto perpetua y gratuita, sobre el lote de terreno Nº 13, de una superficie 614 m², que afecta al inmueble inscrito fs. 26.320 Nº 20.003 del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, para la obra "Sistema Américo Vespucio - Nor - Poniente Av. El Salto - Ruta 78. Sector 1, Avenida El Salto - Avenida Pedro Fontova, Canal y Colector de Aguas Lluvias Huechuraba".
+
+Fiscal del Ministerio de Obras Públicas.
