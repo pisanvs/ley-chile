@@ -1,0 +1,3 @@
+Por decreto MOP Nº 529, de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 657, superficie 683 m², Rol en trámite, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo km. 0,00000 al km. 12,70000", y se acordó el valor de indemnización con su propietario Alejandro Segundo Arrué Sánchez y Otros, ascendente a la cantidad de $10.657.200, para el lote Nº 657.
+
+Fiscal del Ministerio de Obras Públicas.
