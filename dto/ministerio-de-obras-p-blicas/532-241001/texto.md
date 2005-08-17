@@ -1,0 +1,3 @@
+Por decreto MOP Nº 532 de fecha 30 de junio de 2005, se expropiaron los lotes de terrenos Nºs 190 y 191, superficies 853 y 87 m² respectivamente, rol Nº 238-48, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, sector Nueva Toltén - Límite Regional (Queule), tramo km. 87,50000 al km. 103,33500, Sub-Tramo IV km. 92,33000 al km. 98,33600", y se acordó el valor de indemnización con su propietario Nolberto Cheuque o Nolberto Cheuque Cheuque y Otros, ascendente a la cantidad de $13.211.064.
+
+- Fiscal del Ministerio de Obras Públicas.
