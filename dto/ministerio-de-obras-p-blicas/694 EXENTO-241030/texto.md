@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 694, de 29 de julio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 60 para la obra: "Camino Ruta S-36, sector Tranapuente - Nahuentué, Tramo Km. 0,000 a Km. 9,997062, correspondiente al Sub Tramo II Km. 4,235 a Km.
+
+9,997062", que figura a nombre de Curilao Millaqueo José Luis, Rol de avalúo 512-390, comuna de Carahue, IX Región, superficie 404 m2. La Comisión de Peritos fijó el monto provisional de la indemnización con fecha 28 de febrero de 2001, complementada por actas de fechas 4 de octubre de 2002 y 16 de marzo de 2002, en la cantidad de $349.680, para el lote Nº60. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
