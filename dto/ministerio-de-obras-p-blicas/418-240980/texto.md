@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 418 de 31 de mayo del 2005, se expropiaron los lotes de terreno Nºs. 79 y 79-A, superficies 1.487,96 y 291,78 m² respectivamente, Rol Nº 557-204, comuna de Linares, VII Región para la obra "Camino Conservación Ruta L-45, Sector: Escuela-Puente Los Hualles, Tramo: Km. 13,14700 a Km. 36,446, Provincia de Linares", y se acordó el valor de indemnización con su propietario Sócrate Reyes Barros, ascendente a la cantidad de $5.817.518.
+
+- Fiscal del Ministerio de Obras Públicas.
