@@ -1,0 +1,5 @@
+Por decreto MOP Nº 587, de 20 de julio de 2005 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para la empresa Essan S.A. los lotes de terreno Nºs 1, 2, 3 y 4 para la obra:
+
+"Colector Interceptor Padre Las Casas", que figuran a nombre de Baeza Rioseco Iván, Rol de avalúo Nº 3368-29, comuna de Padre Las Casas, IX Región, superficies: 1.241 m², 900 m², 355 m² y 133 m². La Comisión de Peritos fijó el monto provisional de la indemnización con fecha 16 de mayo de 2005, en la cantidad de $9.928.000, para el lote Nº 1; $5.850.000, para el lote Nº 2; $7.810.000, para el lote Nº 3, y $2.394.000, para el lote Nº 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
