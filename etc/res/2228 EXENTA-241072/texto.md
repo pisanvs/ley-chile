@@ -1,0 +1,11 @@
+Por resolución exenta Nº 2.228 de 19 de julio de 2005, de esta Subsecretaría, modifícase la resolución Nº 1.724, modificada por resolución Nº 2.079 de 2005, ambas de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) dentro de la primera milla, por fuera de las bahías protegidas por el D.S. Nº 408 de 1986, en el litoral de la III Región, Temporada 2005", en el sentido de incorporar el siguiente numeral 5º Ter, nuevo:
+
+"5º Ter.- Sin perjuicio de lo dispuesto en los numerales anteriores, en cumplimiento del objetivo de la presente pesca de investigación, además podrán participar en la presente pesca de investigación las embarcaciones artesanales "Alejandro I" y "Francisca", inscritas en el Registro Pesquero Artesanal de la III Región, sección pesquería Anchoveta, las que podrán capturar, con red de cerco, una cuota máxima total de 250 toneladas del recurso Anchoveta Engraulis ringens.
+
+Las capturas de Anchoveta efectuadas en virtud de lo dispuesto en el presente numeral se imputarán a la fracción reservada con fines de investigación de la cuota global anual establecida para el año 2005 para la unidad de pesquería de Anchoveta III-IV Regiones, de conformidad con lo dispuesto en el decreto exento Nº 1.015, de 2004, del Ministerio de Economía, Fomento y Reconstrucción.
+
+En el evento que la cuota antes señalada sea extraída antes del período autorizado, se deberán suspender las actividades autorizadas al amparo de la presente pesca de investigación. Las fechas de suspensión de las faenas de captura serán determinadas por el Servicio Nacional de Pesca e informadas oportunamente a los interesados.
+
+Las capturas deberán ser desembarcadas en los lugares que determine la Universidad Católica del Norte, previa información al Servicio Nacional de Pesca.".
+
+Valparaíso, 19 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
