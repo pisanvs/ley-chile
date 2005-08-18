@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.302, de 21 de julio de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Caleta de Afuera, II Región, individualizada en el artículo 1º del decreto exento Nº 757 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES Y RAMOS SIMILARES DE CALETA CIFUNCHO.
+
+Valparaíso, 21 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
