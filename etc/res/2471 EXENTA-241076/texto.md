@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.471, de 3 de agosto de 2005, de esta Subsecretaría, autorízase a COMERCIAL, SERVICIOS, INGENIERIA Y EXPORTACIONES M2 LIMITADA, para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Panamericana Norte Km. 667 - 668 (costado oriente), Sector Llano de Marañón, Vallenar, III Región, en las líneas de proceso de Alga seca y picado y/o enfardado de algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
