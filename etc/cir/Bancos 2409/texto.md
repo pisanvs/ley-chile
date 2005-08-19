@@ -1392,11 +1392,13 @@ Al tratarse de las inversiones en instrumentos emitidos en moneda de su país de
 
 Por último, para el cumplimiento de las normas legales o reglamentarias que aluden a cartas de crédito o depósitos en cuentas corrientes o a la vista, se considerará como clasificación del banco la que tengan los instrumentos de corto plazo del emisor extranjero de que se trate.
 
-CAPITULO 1-13 (Bancos y Financieras)
+Capítulo 1-13 (Bancos y Financieras)
 
 MATERIA:
 
 CLASIFICACION DE GESTION Y SOLVENCIA.
+
+El presente Capítulo contiene las disposiciones relativas a la clasificación que de las instituciones financieras, según su solvencia y gestión, debe mantener en forma permanente esta Superintendencia, de acuerdo con lo establecido en el Título V de la Ley General de Bancos. Adicionalmente, en el Capítulo se incorporan los aspectos esenciales de gestión del capital incluidos en el nuevo acuerdo de Basilea (Basilea II).
 
 I.- CLASIFICACION DE LAS INSTITUCIONES.
 
@@ -1424,13 +1426,13 @@ Para este efecto, se informarán a cada institución financiera los cambios en s
 
 3.- Clasificación de gestión.
 
-3.1.- Niveles de gestión.
+3.1- Niveles de gestión.
 
 De acuerdo con la ley, los niveles de gestión deben determinarse según lo siguiente:
 
 Nivel A: Instituciones no clasificadas en los niveles B o C.
 
-Nivel B: Instituciones que reflejan debilidades relacionadas con los controles internos, sistemas de información para la toma de decisiones, seguimiento oportuno de los riesgos, clasificación privada de riesgo y capacidad para enfrentar escenarios de contingencia. Las debilidades de que se trate deben ser corregidas durante el período que preceda al de la próxima calificación, para evitar un deterioro paulatino de la solidez de la institución. También deben considerarse las sanciones aplicadas a la empresa,salvo las que se encuentren con reclamación pendiente.
+Nivel B: Instituciones que reflejan debilidades relacionadas con los controles internos, sistemas de información para la toma de decisiones, seguimiento oportuno de los riesgos, clasificación privada de riesgo y capacidad para enfrentar escenarios de contingencia. Las debilidades de que se trate deben ser corregidas durante el período que preceda al de la próxima calificación, para evitar un deterioro paulatino de la solidez de la institución. También deben considerarse las sanciones aplicadas a la empresa, salvo las que se encuentren con reclamación pendiente.
 
 Nivel C: Instituciones que presenten deficiencias significativas en alguno de los factores señalados en el Nivel anterior, cuya corrección debe ser efectuada con la mayor prontitud para evitar un menoscabo relevante en su estabilidad.
 
@@ -1450,23 +1452,19 @@ La asignación del nivel de gestión de una institución financiera se basará e
 
 De acuerdo con la ley, los niveles de solvencia señalados en el N° 1 de este título, se determinan según la relación que registren las instituciones entre su patrimonio efectivo, deducidas las pérdidas acumuladas en el ejercicio, y la suma de los activos ponderados por riesgo netos de las provisiones exigidas. Corresponde el Nivel A de solvencia, cuando esa relación sea igual o superior al 10%; el Nivel B, cuando esa relación sea igual o superior al 8% e inferior al 10%; y, el Nivel C, cuando tal relación sea inferior al 8%.
 
-El patrimonio efectivo y los, activos ponderados por riesgo se calcularán según lo previsto en el Capítulo 12-1 de esta Recopilación.
+El patrimonio efectivo y los activos ponderados por riesgo se calcularán según lo previsto en el Capítulo 12-1 de esta Recopilación.
+
+Si bien la evaluación de solvencia tiene su correspondencia en lo establecido en el Capítulo 12-1 de esta Recopilación, resulta claro que los indicadores de solvencia también reflejan el adecuado uso de los recursos patrimoniales aportados por los accionistas para llevar a cabo las actividades del banco. Esto significa, entre otros aspectos, que debe existir una concordancia entre el nivel de capital que debe ser mantenido, en un contexto de mediano y largo plazo, y la gestión llevada a cabo por la administración para optimizar el uso de los recursos. Esa concordancia entre el nivel de capital y la gestión se ve plasmada en la estrategia de negocios que aborda y los riesgos que asume, en particular frente a escenarios de estrés. En suma, los niveles de patrimonio, así como su composición entre capital primario y secundario (capital básico y patrimonio efectivo) también deben obedecer a un análisis de sus necesidades en un contexto de mediano y largo plazo, lo cual, en definitiva, debiera quedar manifestado en la planificación de sus actividades.
 
 4.2.- Oportunidad de la clasificación de solvencia.
 
 Dado que los niveles de solvencia son conocidos mensualmente, en caso de que en una institución financiera deba cambiarse dicha clasificación, esta Superintendencia se lo notificará dentro del mes siguiente a aquel a que se refiere la información que refleja el nuevo nivel.
 
-En esa comunicación se dejará constancia de la categoría que por la clasificación de gestión y solvencia le corresponde a la institución financiera de acuerdo con las reglas mencionadas en el N° 1 de esté título, considerando el cambio en el nivel de solvencia a que se refiere este numeral.
-
-5.- Disposición transitoria.
-
-No obstante lo señalado en el último párrafo del numeral 3.2 de este título, para los efectos legales que se refieren a la clasificación de las instituciones financieras por gestión y solvencia, los resultados obtenidos de la evaluación descrita en el título II se comenzarán a considerar en el curso del año 2002, a partir de una fecha que se comunicará a las instituciones evaluadas.
-
-Antes de esa fecha, se considerará que una institución se encuentra clasificada en los niveles A, B o C de gestión a que se refiere el numeral 3.1 de este titulo, cuando esté calificada, respectivamente, en las categorías I, II o III según sus sistemas de clasificación de cartera, de acuerdo con lo previsto en el Capítulo 8-28 de esta Recopilación. No obstante, esta Superintendencia podrá considerar el nivel inmediatamente inferior al que resulte de apliar esa regla, si en las materias que hayan sido objeto de revisión, persisten debilidades que este Organismo les haya representado previamente por escrito.
+En esa comunicación se dejará constancia de la categoría que por la clasificación de gestión y solvencia le corresponde a la institución financiera de acuerdo con las reglas mencionadas en el N° 1 de este título, considerando el cambio en el nivel de solvencia a que se refiere este numeral.
 
 II.- EVALUACION DE LA GESTION DE LAS INSTITUCIONES FINANCIERAS.
 
-1. - Orientación géneral de la evaluación de la gestión según lo previsto en la ley.
+1.- Orientación general de la evaluación de la gestión según lo previsto en la ley.
 
 De acuerdo con lo establecido en el artículo 62 de la Ley General de Bancos, las observaciones que emanen de la evaluación de esta Superintendencia deben tener relación con los controles internos, sistemas de información para toma de decisiones, seguimiento oportuno de los riesgos, clasificación privada de riesgos y capacidad para enfrentar escenarios de contingencia. La importancia relativa de las debilidades asociadas a uno o más de esos conceptos genéricos de distinta especie, se relacionan en la ley con la clasificación en los niveles B o C de gestión, debiéndose considerar también, para efectos de la clasificación, las sanciones aplicadas a la empresa que no se encuentren con reclamación pendiente. Según la ley, son debilidades propias de una clasificación en el Nivel B de gestión, aquellas deficiencias que deben ser corregidas antes de la próxima clasificación para evitar un deterioro paulatino en la solidez de una institución, en tanto que son debilidades que obligan a clasificar en el Nivel C, aquéllas que acarrean un menoscabo relevante para la estabilidad de la empresa y que, por lo tanto, requieren de correcciones con la mayor prontitud.
 
@@ -1474,19 +1472,7 @@ De lo indicado se desprende que la evaluación de esta Superintendencia debe apu
 
 En ese contexto, el enfoque de esta Superintendencia para esa evaluación, no puede sino concordar con principios de sana administración para el resguardo de la estabilidad o buena marcha de la empresa, debiendo esperar que cada entidad evaluada gestione eficazmente todos los riesgos importantes que asume o enfrenta en su caso, y que sus objetivos y planes estratégicos se basen en apreciaciones debidamente fundamentadas de su entorno y recursos.
 
-Junto con lo anterior, este Organismo también considerará como factores esenciales para la clasificación, la adhesión a la normativa por parte de la institución evaluada y el cumplimiento de los compromisos que haya asumido con esta Superintendencia.
-
-2.- Proceso de evaluación.
-
-La evaluación de una entidad se realizará a través de diversas visitas de inspección, como asimismo mediante el análisis de información acerca de la institución evaluada y de reuniones para estar al corriente de acontecimientos que inciden o pueden incidir en la marcha normal de la institución.
-
-En todo caso, antes de realizar el proceso de clasificación de la gestión a que se refiere el numeral 3.2 del título I de este Capítulo, se efectuará una visita final, en la cual se harán las tareas necesarias para completar la evaluación y obtener las conclusiones definitivas respecto a la situación de la empresa.
-
-Conforme a lo previsto en la ley, en la evaluación se considerarán los informes de los evaluadores privados que se refieran a debilidades atinentes a la gestión.
-
-Respecto a las demás opiniones independientes que provengan de un examen de aspectos inherentes a la gestión de una institución financiera, se tendrán en consideración, en la medida en que revelen debilidades importantes que toquen el contexto de la evaluación de esta Superintendencia, los informes de las auditorías externas, como asimismo, en el caso de instituciones que tengan sucursales o filiales en el exterior, la información entregada por los organismos reguladores de los países anfitriones.
-
-Junto con lo anterior, este Organismo también considerará como factores esenciales para la clasificación, la adhesión a la normativa por parte de la institución evaluada y el cumplimiento de los compromisos que haya asumido con esta Superintendencia.
+Junto con lo anterior, este Organismo también considerará como factores esenciales para la clasificación, la adhesión a la normativa por parte de la institución evaluada y el debido cumplimiento de los compromisos que haya asumido con esta Superintendencia y con otros organismos reguladores en lo que corresponda.
 
 2.- Proceso de evaluación.
 
@@ -1508,23 +1494,27 @@ b) Gestión del riesgo financiero y operaciones de tesorería.
 
 c) Administración del riesgo operacional.
 
-d) Recursos comprometidos en el exterior.
+d) Administración de los riesgos de exposiciones en el exterior y control sobre las inversiones en sociedades.
 
-e) Control sobre las sociedades filiales y empresas de apoyo domésticas.
+e) Administración de la estrategia de negocios y gestión del capital.
 
-f) Proceso de planificación estratégica.
+f) Gestión de la calidad de atención a los usuarios y transparencia de información.
 
-g) Sistemas de información de gestión de los negocios.
+g) Prevención del lavado de activos y del financiamiento del terrorismo.
 
-Las materias indicadas en las letras a), b),
+h) Gestión de la función de auditoría interna y rol del comité de auditoría.
 
-- **d)** y
+Las materias indicadas en las letras a), b), c),
 
-- **e)** se relacionan principalmente con el seguimiento oportuno de los riesgos y los controles internos, en tanto que las señaladas en las letras
+- **d)** se relacionan principalmente con el seguimiento oportuno de los riesgos. Las señaladas en las letras
 
-- **f)** y
+- **e)** y
 
-- **g)** están relacionadas especialmente con la capacidad para enfrentar escenarios de contingencia. Respecto a los sistemas de información para toma de decisiones a que se refiere la ley, ellos están presentes, en general, en todas las materias.
+- **f)** están relacionadas especialmente con la capacidad para enfrentar escenarios de contingencia y finalmente aquellas mencionadas en las letras
+
+- **g)** y
+
+- **h)** están relacionadas con el control interno, aun cuando este último aspecto también está inserto en aquellas materias incorporadas al seguimiento oportuno de riesgos. Respecto a los sistemas de información para toma de decisiones a que se refiere la ley, ellos están presentes, en general, en todas las materias.
 
 3.1.- Administración del riesgo de crédito y gestión global del proceso de crédito.
 
@@ -1554,7 +1544,7 @@ En relación con lo descrito precedentemente, una buena gestión puede manifesta
 
 - La función de administración del riesgo de crédito se desarrolla en forma independiente de las áreas de negocio. Las opiniones emitidas por los responsables de esa función, son reconocidas y consideradas por los distintos niveles de la organización pertinentes.
 
-- Los sistemas de información permiten hacer un seguimiento continuo de la exposición a los riesgos. Poseen la cobertura y profundidad necesarias para, servir en forma eficiente al proceso de toma de decisiones.
+- Los sistemas de información permiten hacer un seguimiento continuo de la exposición a los riesgos. Poseen la cobertura y profundidad necesarias para servir en forma eficiente al proceso de toma de decisiones.
 
 - Las auditorías internas cubren con una adecuada identificación, cuantificación y priorización, los distintos riesgos relacionados con las colocaciones.
 
@@ -1574,6 +1564,8 @@ A efectos ilustrativos, una buena gestión en relación con esta materia puede m
 
 - La responsabilidad de la administración de activos y pasivos está a cargo de un comité o personas cuya función permite acotar el riesgo a niveles razonables, manteniendo políticas y estrategias financieras consecuentes con los lineamientos de exposición al riesgo establecidos por la alta administración y con las estrategias comerciales de la institución.
 
+- Los nuevos productos, en forma previa a su lanzamiento, son sometidos a un riguroso análisis de los riesgos involucrados.
+
 - La evaluación y control de los riesgos se desarrolla con suficiente independencia de las áreas tomadoras de riesgo, contándose con personal especializado y soportes acordes con el alcance, tamaño y complejidad de las actividades de la institución y con los riesgos que ésta asume.
 
 - Las responsabilidades y atribuciones se encuentran claramente definidas, existiendo asignaciones de responsabilidades y niveles jerárquicos apropiados para las funciones claves de negociación, operación y control.
@@ -1588,21 +1580,21 @@ En todo caso, para los efectos del cumplimiento de lo dispuesto por el Banco Cen
 
 3.3.- Administración del riesgo operacional.
 
-Se entenderá como riesgo operacional, el riesgo de pérdidas resultantes de una falta de adecuación o de una falla de los procesos, del personal y de los sistemas internos o bien por causa de acontecimientos externos.
+Esta Superintendencia considera como marco referencial, la definición de riesgo operacional propuesta por el Comité de Basilea. Por lo tanto, se entenderá como tal el riesgo de pérdidas resultantes de una falta de adecuación o de una falla de los procesos, del personal y de los sistemas internos o bien por causa de acontecimientos externos.
 
-En este contexto resultará de interés para la evaluación que sobre el referido riesgo hará la Superintendencia, el rol asumido por el directorio y la alta administración y la aprobación que han dado a la estrategia a utilizar en su administración, entendiendo este riesgo como de una categoría distinta de los riesgos bancarios tradicionales. Dicha estrategia, atendida la importancia relativa y el volumen de operaciones de la entidad, debe contemplar una definición clara de riesgo operacional y establecer los principios para su identificación, evaluación, monitoreo, control y mitigación. En este sentido, si la exposición al riesgo es significativa, cobra relevancia la existencia de definiciones claras de lo que se entenderá por pérdidas operacionales, ya sean esperadas o inesperadas, por cuanto los tratamientos de mitigación son diferentes en uno y otro caso.
+En este contexto resultará de interés para la evaluación que sobre el referido riesgo hará la Superintendencia, el rol asumido por el directorio y la alta administración y la aprobación que han dado a la estrategia a utilizar en su administración, entendiendo este riesgo como de una categoría distinta de los riesgos bancarios tradicionales. Dicha estrategia, atendida la importancia relativa y el volumen de operaciones de la entidad, debe contemplar una definición clara de lo que considerará como riesgo operacional y establecer los principios para su identificación, evaluación, control y mitigación. En este sentido, si la exposición al riesgo es significativa, cobra relevancia la existencia de definiciones precisas de lo que se entenderá por pérdidas operacionales, ya sean esperadas o inesperadas, por cuanto los tratamientos de mitigación son diferentes en uno y otro caso.
 
 En la evaluación que hará este Organismo, interesa observar la compatibilidad entre las políticas y procedimientos establecidos por la entidad, con respecto al volumen, sofisticación y naturaleza de sus actividades. Asimismo, se examinará la manera en que se han establecido las políticas y la forma en que la dirección de la empresa participa en su aprobación y supervisa su cumplimiento.
 
-Será también materia de examen comprobar si la posición independiente de la función de auditoria interna permite una adecuada cobertura y profundidad de las revisiones y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
+Será también materia de examen comprobar si la posición independiente de la función de auditoría interna permite una adecuada cobertura y profundidad de las revisiones y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
 
 En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos tales como:
 
 - La institución tiene una definición de lo que entiende por riesgo operacional y lo ha reconocido como un riesgo gestionable. Especial importancia tendrá la existencia de una función encargada de la administración de este tipo de riesgo.
 
-- La entidad mantiene políticas para la administración de los riesgos operacionales aprobadas por el directorio o la administración superior, que atienden la importancia relativa de los riesgos operacionales considerando el volumen y complejidad de las operaciones
+- La entidad mantiene políticas para la administración de los riesgos operacionales aprobadas por el directorio o la administración superior, que atienden la importancia relativa de los riesgos operacionales considerando el volumen y complejidad de las operaciones.
 
-- La estrategia de administración del riesgo operacional definida por la institución, es consistente con el volumen y complejidad de sus actividades y considera el nivel de tolerancia al riesgo del banco, incluyendo líneas especifícas de responsabilidad. Esta estrategia ha sido implementada a través de toda la organización bancaria, y todos los niveles del personal asumen y comprenden sus responsabilidades respecto a la administración de este riesgo.
+- La estrategia de administración del riesgo operacional definida por la institución, es consistente con el volumen y complejidad de sus actividades y considera el nivel de tolerancia al riesgo del banco, incluyendo líneas específicas de responsabilidad. Esta estrategia ha sido implementada a través de toda la organización bancaria, y todos los niveles del personal asumen y comprenden sus responsabilidades respecto a la administración de este riesgo.
 
 - La entidad administra los riesgos operacionales considerando los impactos que pudieran provocar en la institución (severidad de la pérdida) y la probabilidad de ocurrencia de los eventos.
 
@@ -1612,7 +1604,7 @@ En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos ta
 
 - La institución es capaz de cuantificar los impactos de las pérdidas asociadas al riesgo operacional y constituir prudencialmente los resguardos necesarios.
 
-- Los sistemas de información permiten hacer un monitoreo continuo de la exposición a los riesgos operacionales. Poseen la cobertura y profundidad necesarias para servir en forma eficiente al proceso de toma de decisiones de la alta administración y directorio.
+-Los sistemas de información permiten hacer un monitoreo continuo de la exposición a los riesgos operacionales. Poseen la cobertura y profundidad necesarias para servir en forma eficiente al proceso de toma de decisiones de la alta administración y directorio.
 
 - El banco cuenta con políticas para administrar los riesgos asociados a las actividades entregadas a terceras partes y lleva a cabo verificaciones y monitoreos a las actividades de dichas partes.
 
@@ -1624,91 +1616,167 @@ En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos ta
 
 - El banco considera en sus planes de continuidad del negocio y contingencia, diversos escenarios y supuestos que pudieran impedir que cumpla toda o parte de sus obligaciones y en ese sentido ha desarrollado una metodología formal que considera en sus etapas, la evaluación de impacto y criticidad de sus servicios y productos, la definición de estrategias de prevención, contención y recuperación, así como pruebas periódicas de tales estrategias.
 
-- La institución ha implementado un proceso para monitorear permanentemente la incorporación de nuevas políticas, procesos y procedimientos, que permiten detectar y corregir sus eventuales deficiencias de manera de reducir la frecuencia y severidad de los eventos de pérdida. Asimismo, la entidad emite reportes con la información pertinente a la alta administración y directores.
+- La institución ha implementado un proceso para controlar permanentemente la incorporación de nuevas políticas, procesos y procedimientos, que permiten detectar y corregir sus eventuales deficiencias de manera de reducir la frecuencia y severidad de los eventos de pérdida. Asimismo, la entidad emite reportes con la información pertinente a la alta administración y directores.
 
 - La entidad bancaria ha adoptado una estrategia y sistema de gestión de calidad respecto de sus productos, servicios, e información que suministra a sus clientes, reguladores y a otros entes.
 
 - La extensión y profundidad de las auditorías es proporcional al nivel de riesgo y al volumen de actividad. La función de auditoría está en posición de evaluar en forma independiente el cumplimiento de las políticas, la eficacia de los procedimientos y los sistemas de información.
 
-3.4.- Recursos comprometidos en el exterior.
+3.4.- Administración de los riesgos de exposiciones en el exterior y control sobre las inversiones en sociedades.
 
-La evaluación abarcará el control sobre las sucursales y filiales en el exterior. Por otra parte, incluye también la gestión global de las operaciones de crédito hacia el exterior, las inversiones minoritarias en sociedades y las transacciones efectuadas en el extranjero, en general.
+La evaluación abarcará el control sobre las sucursales en el exterior, filiales y sociedades de apoyo al giro, ubicadas en el país o en el extranjero. Por otra parte, también incluye la gestión global de las operaciones de crédito hacia el exterior, las inversiones minoritarias en sociedades y las transacciones efectuadas en el extranjero, en general.
 
-En lo que se refiere a la presencia de sucursales y filiales en el exterior, interesa la suficiencia y efectividad del control ejercido por la matriz. Al respecto se espera un monitoreo permanente de las entidades en el exterior, acorde con las peculiaridades del entorno en que ellas se desenvuelven y su grado de autonomía, que permita el seguimiento de su marcha y una reacción oportuna frente a factores perturbadores.
+En lo que se refiere a la presencia de sucursales en el exterior, filiales y sociedades de apoyo al giro, interesa la suficiencia y efectividad del control ejercido por la matriz. Al respecto se espera un control permanente de las entidades, acorde con las peculiaridades del entorno en que ellas se desenvuelven y su grado de autonomía, que permita el seguimiento de su marcha y una reacción oportuna frente a factores perturbadores.
 
 En la evaluación de la gestión global de los préstamos y operaciones en el exterior, incluidas aquellas efectuadas desde el exterior con terceros países, constituye un elemento clave el dominio que tiene la institución sobre el riesgo-país (riesgo soberano y de transferencia), y que pasa por un análisis permanente de la situación de los países en que compromete sus recursos y la fijación de límites en relación con la concentración de cartera en cada país.
 
-En lo que se refiere al riesgo de crédito, el enfoque de la evaluación no difiere del mencionado en el numeral 3.1 de este título. Por lo mismo, interesa particularmente la suficiencia de la información relativa a los deudores y al comportamiento de su entorno, y los criterios para la fijación de límites de crédito que atiendan a las características de los deudores y tipo de financiamiento.
+Con respecto al riesgo de crédito, el enfoque de la evaluación no difiere del mencionado en el numeral 3.1 de este título. Por lo mismo, interesa particularmente la suficiencia de la información relativa a los deudores y al comportamiento de su entorno, y los criterios para la fijación de límites de crédito que atiendan a las características de los deudores y tipo de financiamiento.
 
 Por otra parte, dado que en las operaciones con el exterior adquiere una relevancia especial el manejo del riesgo legal, merece destacarse también el examen de los procedimientos que permiten operar con un conocimiento fundado y oportuno de los efectos contractuales.
 
-Al igual que en las otras materias antes descritas, la evaluación apunta asimismo a asegurarse de la eficacia de las auditorías internas. En el caso de las sucursales y filiales en el exterior, es importante también, en este aspecto, la forma en que se cubre la función de auditoría.
+Al igual que en las otras materias antes descritas, la evaluación apunta asimismo a asegurarse de la eficacia de las auditorías internas. En el caso de las sucursales en el exterior, filiales y sociedades de apoyo al giro, tanto nacionales como en el exterior, es importante también, en este aspecto, la forma en que se cubre la función de auditoría.
 
 Una gestión óptima en relación con lo señalado en este numeral, la mostrarían, por ejemplo, situaciones globales como las siguientes:
 
 - El Directorio ejerce una supervisión efectiva sobre la administración para asegurar que el banco maneja los riesgos de sus inversiones y operaciones internacionales en forma sana y segura.
 
-- Las sucursales y filiales en el exterior están sujetas a un control permanente y con medios que permiten tomar las medidas correctivas oportunas en caso de ser necesario, tanto en lo que se refiere a la marcha de los negocios, riesgos {patrimoniales y de reputación), rentabilidad y compromisos de capital, como en lo que se refiere a la verificación del cumplimiento de directrices o políticas de la matriz y de las regulaciones de los países anfitriones.
+- Las sucursales en el exterior, las filiales y sociedades de apoyo al giro en el país y en el extranjero, están sujetas a un control permanente y con medios que permiten tomar las medidas correctivas oportunas en caso de ser necesario, tanto en lo que se refiere a la marcha de los negocios, riesgos (patrimoniales y de reputación), rentabilidad y compromisos de capital, como en lo que se refiere a la verificación del cumplimiento de directrices o políticas de la matriz y, particularmente, para el caso de sucursales en el exterior del cumplimiento de las regulaciones de los países anfitriones.
 
 - Las políticas para administrar el riesgo-país exigen una evaluación permanente de los países en los cuales se mantienen exposiciones y contemplan límites de exposición acordes con la situación financiera general del banco, debidamente aprobados y sujetos a seguimiento. Los procedimientos de evaluación del riesgo país contemplan el análisis por parte de profesionales independientes e idóneos, tanto de los factores económicos como de los políticos y sociales que en alguna medida podrían repercutir en el normal retorno de los flujos de las inversiones.
 
 - Las estrategias comerciales en relación con las operaciones en el exterior, son compatibles con la capacidad del banco para efectuarlas bajo control de los riesgos. Las decisiones sobre nuevos negocios u operaciones con contrapartes radicadas en el exterior, son tomadas sobre la base de un análisis previo de todos los riegos inherentes, cubriéndose en consecuencia, sistemáticamente, el riesgo país, el riesgo de crédito, el riesgo financiero, el riesgo legal y el riesgo operativo que derive de las peculiaridades de las operaciones.
 
-3.5.- Control sobre las sociedades filiales y empresas de apoyo domésticas.
+- En el caso de las filiales, el banco ha establecido mecanismos que le permiten asegurarse de que las políticas relativas a riesgos, son consistentes con sus propias políticas. Asimismo, puede obtener mediciones consolidadas de los riesgos más relevantes, utilizando metodologías adecuadas a la escala y complejidad de los negocios llevados a cabo.
 
-La evaluación respecto de las sociedades controladas por la institución financiera, comprende principalmente el examen de la manera en que la matriz las dirige y supervisa. En lo esencial, se espera que la información disponible para monitorear el desempeño de las filiales y el logro de los resultados esperados de ellas, permita un oportuno conocimiento de los riesgos inherentes a sus negocios y operaciones, y que los mecanismos de control, incluida la cobertura de auditoría, sean suficientes para el propósito de asegurar el cumplimiento de las políticas y procedimientos.
+3.5.- Administración de la estrategia de negocios y gestión del capital.
 
-En general, el tipo de consideraciones implícitas en la evaluación del control sobre las filiales domésticas es, en lo pertinente, similar a lo descrito en el numeral precedente en relación con subsidiarias en el exterior. Apuntan a lo que es propio de una empresa matriz que visualiza consolidadamente sus negocios.
+La evaluación comprende el proceso global de diseño, formulación y seguimiento de la estrategia de negocios como también la elaboración y control de los planes desarrollados por la institución.
 
-3.6.- Proceso de planificación estratégica.
+Será objeto de calificación la forma en que la institución administra el proceso de formulación de su estrategia de negocios, en lo que se refiere al manejo de los fundamentos e información que le otorgan un grado razonable de viabilidad como, asimismo, la manera en que las condiciones generales del entorno y de la entidad, particularmente en lo relativo a necesidades de capital, han sido incorporadas en su definición.
 
-La evaluación comprende las etapas de formulación de la estrategia y el seguimiento y control de los planes elaborados por la institución.
+Debe tenerse presente, tal como se señaló en el numeral 4.1 del título I, que existe una estrecha relación entre los niveles de capital mantenidos por el banco y la estrategia de negocios. En rigor, el mero cumplimiento de los requisitos mínimos de capital establecidos en la ley constituye un acatamiento a las disposiciones normativas, pero no refleja necesariamente una gestión razonada de los requerimientos de capital idóneos a la estrategia de negocios de la entidad.
 
-No serán objeto de calificación los objetivos estratégicos en sí mismos, sino la forma en que la institución administra el proceso de planificación estratégica, en lo que se refiere al manejo de los fundamentos e información que le otorgan un grado razonable de viabilidad al logro de tales objetivos de acuerdo con las circunstancias, como asimismo, la manera en que las condiciones generales del entorno y de la entidad han sido incorporadas en su definición.
-
-En lo que respecta a los planes estratégicos, se examinará la organización y los recursos establecidos para su ejecución, como también los sistemas de seguimiento y control del grado de cumplimiento.
+En este sentido, se examinará si el proceso de planificación tiene en cuenta el análisis de los requerimientos de capital actuales y futuros del banco con relación a sus objetivos estratégicos, así como respecto de la implementación de los procesos de gestión de riesgo y de sus controles internos, como base de una evaluación eficaz de la suficiencia de capital mantenido por la entidad.
 
 Una buena gestión en relación con lo descrito puede manifestarse en lo siguiente:
 
-La institución realiza análisis permanentes del entorno económico y de sus condiciones internas, así como de su posición comparativa en el mercado, que le permiten establecer una estrategia bien fundada.
+- El Directorio y la alta administración comprenden la naturaleza y el nivel del riesgo asumido por el banco y la forma en que este riesgo se corresponde con niveles de capital suficientes y sus planes de negocios. En este sentido, el Directorio y la alta administración contemplan la planificación del capital como un elemento fundamental para la definición, implementación y logro de los objetivos estratégicos.
 
-La planificación estratégica ha sido integralmente plasmada en los planes y presupuestos operacionales, y adecuadamente transmitidos a los niveles pertinentes. Los niveles superiores no manifiestan posiciones contradictorias respecto a la orientación, ejecución o concreción de los planes.
+- El análisis de los requerimientos de capital y los riesgos, son parte integral del proceso de formulación de la estrategia de negocios. En efecto, dicha estrategia recoge con claridad las necesidades de capital del banco y sus fundamentos, los aportes de capital previstos, el nivel y composición de capital deseable y las fuentes externas de capital, como también el nivel y perfil de riesgo proyectado para las distintas líneas de negocios.
 
-La institución ha establecido metas, plazos y responsables del cumplimiento de los planes estratégicos y se han asignado los recursos necesarios para ello.
+- La institución realiza análisis permanentes del entorno económico y de sus condiciones internas, así como de su posición comparativa en el mercado, que le permiten mantener una estrategia bien fundada y sostenible.
 
-La entidad cuenta con sistemas de información que permiten una supervisión efectiva sobre el cumplimiento de los planes estratégicos.
+- La estrategia de negocios ha sido integralmente plasmada en los planes y presupuestos operacionales, y adecuadamente transmitida a los niveles pertinentes. Los niveles superiores manifiestan su plena concordancia respecto a la orientación, ejecución y a su concreción.
 
-La planificación estratégica está sujeta a revisiones periódicas, bajo procedimientos que permiten acciones correctivas oportunas o redefiniciones de los objetivos o planes de acción.
+- La entidad cuenta con sistemas de información que permiten una supervisión efectiva sobre el cumplimiento de los planes de negocios, la naturaleza y cuantía de los riesgos, como también respecto de la adecuación de capital económico y regulatorio.
 
-3.7.- Sistemas de información de gestión de los negocios.
+- La estrategia de negocios está sujeta a revisiones periódicas, bajo procedimientos que permiten acciones correctivas oportunas o redefiniciones de los objetivos o planes de acción. Esto contempla una evaluación rigurosa de los requerimientos de capital y la realización de pruebas de tensión que incorporan posibles acontecimientos o cambios en las condiciones de mercado que pudieran afectar negativamente a la institución.
 
-La evaluación comprende la información asociada al resultado de la gestión de las principales actividades de la entidad, particularmente aquellas referidas al resultado de los negocios y los costos en que incurre laninstitución en el desarrollo de los mismos.
+- La institución ha establecido metas, plazos y responsables del cumplimiento de los planes de negocios y se han asignado los recursos necesarios para ello.
 
-Se examinará la disponibilidad, efectividad y oportunidad de la información para el apoyo a la gestión y toma de decisiones de los niveles gerenciales, especialmente en aquellos aspectos ligados al desempeño de las distintas áreas de negocio.
+3.6.- Gestión de la calidad de atención a los usuarios y transparencia de información.
 
-En lo principal, se espera que los sistemas establecidos entreguen información suficiente para cubrir los aspectos claves del negocio, permitiendo una adecuada evaluación de la marcha de la institución.
+La buena calidad en la atención de los clientes así como la calidad de la información que les es divulgada, constituyen aspectos importantes de la imagen que los bancos proyectan y, por cierto, son concordantes con una adecuada gestión de la entidad.
 
-La evaluación contempla un análisis del diseño de los sistemas de información de gestión, en lo que toca a la necesidad de que las responsabilidades de la generación de información estén claramente definidas, al igual que los criterios de distribución y la periodicidad.
+La evaluación de esta materia contempla la existencia de políticas y procedimientos que consideren la adecuada atención de sus clientes, la administración de controversias y la entrega de información al público con los cobros que afectan a los productos y servicios ofrecidos por la institución.
 
-Una buena gestión en relación con el tema descrito en este numeral, se manifestaría cuando:
+Es también parte de este examen, comprobar si la función de auditoría es suficientemente independiente para permitir una adecuada cobertura y profundidad de las revisiones que se efectúen sobre la materia y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
 
-La información de gestión cubre los aspectos claves de las actividades de negocios, en concordancia con sus objetivos y estrategias.
+A modo de ejemplo, revelan una buena gestión sobre la materia, los siguientes aspectos:
 
-Los sistemas de información desarrollados por la institución para la toma de decisiones son confiables y entregan información oportuna y relevante para el efecto.
+- Políticas y procedimientos formalmente establecidos, que consideren aspectos tales como la gestión de los reclamos, la existencia de canales formales de recepción de reclamos, la atención de consultas y solicitudes del público, la existencia de código de buenas prácticas comerciales, la capacitación al personal, la entrega de normas y procedimientos para la administración de los fraudes y de otros hechos delictuosos, como asimismo la política de divulgación de la información, especialmente de aquella referida a los productos y sus tarifas.
 
-La institución cuenta con una unidad responsable del diseño, administración y calidad del sistema de información para la toma de decisiones.
+- La existencia y funcionamiento de unidades especializadas que cuenten con las herramientas y los recursos humanos y tecnológicos adecuados al tamaño de la institución para administrar eficientemente las consultas y los reclamos del público.
 
-4.- Resultado de la evaluación.
+- La existencia de informes de gestión que permitan identificar los tipos de reclamos, consultas y solicitudes, los productos involucrados en las presentaciones, los canales de recepción y el cumplimiento de estándares de respuesta, los que periódicamente deben ser dados a conocer al Directorio o a quién haga sus veces.
 
-La clasificación según gestión será fundamentada por este Organismo en la notificación mencionada en el numeral 3.2 del título I de este Capítulo.
+- La participación de un comité o instancia de alto nivel en la aprobación de políticas y procedimientos, estándares de calidad, resolución de controversias y promoción de acciones correctivas, entre otros.
 
-En dicha comunicación se darán a conocer los resultados de la evaluación, indicándose las debilidades que hayan sido determinantes en caso de calificarse en el nivel B o C. Esto no es óbice, claro está, para informar también acerca de aquellas deficiencias observadas que no hayan sido gravitantes para la clasificación, cualquiera sea el nivel de gestión en que la institución quede clasificada.
+- La adecuada divulgación, cuando corresponda, de las políticas, procedimientos y estándares de calidad hacia las filiales y sociedades de apoyo de la institución, y su posterior control.
 
-Los numerales precedentes contienen sólo una breve descripción del alcance de la evaluación, a fin de dar una idea acerca de la índole de los problemas o situaciones que pueden eventualmente repercutir en la clasificación final. La forma de agrupación de las materias en esos numerales, no constituye un elemento asociado a posibles ponderaciones de debilidades que pudieren observarse, y las circunstancias que en cada numeral se mencionan a modo de ejemplo de una buena gestión, no constituyen requisitos que deban cumplirse para una clasificación en el Nivel A, sino que sólo tienen un carácter ilustrativo de la orientación implícita de la evaluación.
+- La presencia de la función de auditoría interna en la revisión del proceso de atención de clientes y administración de reclamos.
 
-Como se comprenderá, las diversas circunstancias que podrían incidir en una clasificación desfavorable no son susceptibles de traducir a situaciones hipotéticas que caractericen el tipo y gravedad de deficiencias probables, puesto que ante eventos iguales o similares a los que genéricamente pudieren indicarse como determinantes de una calificación en el nivel B o C, las decisiones respecto a la clasificación de una institución evaluada dependerán finalmente del análisis de los hechos observados a la luz de sus repercusiones para la estabilidad o buena marcha de la empresa.
+3.7.- Prevención del lavado de activos y del financiamiento del terrorismo.
 
-Por consiguiente, en la información de este titulo no se entregan pautas acerca de lo que la administración superior de un banco debería hacer para evitar una calificación desfavorable. Por una parte, no procede que este Organismo establezca normas de administración interna con el propósito de clasificar en función de su cumplimiento y, por otra, una calificación favorable no podría asegurarse reaccionando frente a las posibles revisiones de esta Superintendencia.
+La evaluación comprende un análisis del rol que desempeña el Directorio sobre las actividades de prevención de lavado de activos y del financiamiento del terrorismo, así como también la existencia de un marco de políticas y procedimientos, los que deben ser acordes al tamaño y complejidad de las operaciones de la entidad y sus filiales.
+
+Son también materia de revisión, los procedimientos eficaces sobre "conozca a su cliente", la presencia de un oficial de cumplimiento, la existencia de políticas relacionadas con selección de personal, la existencia de un código de conducta interno y de una función de auditoría independiente, responsable de evaluar periódicamente el cumplimiento de las políticas y procedimientos.
+
+En este sentido, revelan una buena gestión, por ejemplo, situaciones o hechos como los siguientes:
+
+- La entidad cuenta con políticas y procedimientos formalmente establecidos sobre "conozca a su cliente" ya sea para clientes permanentes u ocasionales, acordes al tamaño y complejidad de sus operaciones. Estas políticas al menos, contienen criterios de aceptación y de seguimiento proactivo de cuentas que permiten tener un adecuado conocimiento de los clientes y de las actividades que desarrollan.
+
+- Las políticas y procedimientos fueron aprobados por el Directorio, el que a su vez, mantiene una vigilancia permanente sobre su cumplimiento y recibe información periódica sobre las revisiones que se efectúen para verificar su adherencia. A su vez, dicho marco de alineamiento se hace extensivo a las sociedades filiales y de apoyo al giro que corresponda.
+
+- La entidad cuenta con procedimientos establecidos para conducir las relaciones con la banca corresponsal.
+
+- La entidad cuenta con un manual de procedimientos formalizado para reconocer transacciones potencialmente sospechosas, el que es accesible a todo el personal involucrado y es permanentemente actualizado.
+
+- La entidad cuenta con un oficial de cumplimiento con la jerarquía e independencia necesarias para desarrollar su función y con los recursos humanos y tecnológicos adecuados.
+
+- Dependiendo del tamaño de la organización, se ha instaurado un comité de alto nivel encargado de revisar políticas y procedimientos, evaluar su cumplimiento y decidir sobre casos que requieren atención especial.
+
+- Existe un proceso de capacitación formal y periódico con el objeto de difundir las políticas y procedimientos a todo el personal de la entidad. El proceso de capacitación es diferenciado de acuerdo a la función que desempeña cada cual.
+
+- Se cuenta con normas de selección de personal y de conducta con clientes, con el objeto de prevenir la ocurrencia de operaciones de lavado de activos y financiamiento del terrorismo. Además se ha desarrollado un código de conducta del personal que contempla principios respecto de las relaciones que se deben mantener con los clientes del banco.
+
+- La entidad ha desarrollado sistemas de detección de operaciones inusuales, los que son acordes al tamaño y complejidad de sus actividades. Además existen canales formales de información a instancias superiores, los que permiten que estas operaciones sean conocidas a tiempo por la instancia pertinente y puedan ser reportadas a la autoridad competente.
+
+- La función de auditoría realiza actividades periódicas e independientes de aquellas desarrolladas por el oficial de cumplimiento, con el objeto de verificar la adherencia a las políticas y procedimientos del banco para la detección y seguimiento de esas operaciones ilícitas. Su rol también comprende el análisis de las políticas y procedimientos, los sistemas de control, los planes de capacitación del personal, entre otros.
+
+3.8.- Gestión de la función de auditoría interna y rol del comité de auditoría.
+
+Dentro de los aspectos fundamentales de un adecuado gobierno corporativo, se encuentran la función de auditoría y el rol que ejerce el comité de auditoría.
+
+La existencia de una sólida función de auditoría interna se caracteriza por entregar una opinión independiente respecto de la calidad de los sistemas de control interno y del cumplimiento de las políticas y procedimientos, de manera de identificar, medir y controlar razonablemente los riesgos presentes y potenciales que pueden existir.
+
+Para que la auditoría interna pueda cumplir eficazmente y con la debida independencia sus funciones, es indispensable el compromiso del Directorio y de la alta administración de la organización, a través de la entrega de un marco de acción general, de una estructura jerárquica adecuada y de la validación apropiada de las observaciones levantadas y de las acciones propuestas para superarlas.
+
+Dicho nivel de compromiso también debe manifestarse a través del comité de auditoría, instancia responsable de entregar apoyo al Directorio en la evaluación constante de la calidad de los sistemas de control interno, el reforzamiento de la función de auditoría interna y la vinculación y coordinación con los auditores externos.
+
+A continuación se describen algunos elementos que constituyen una buena gestión en relación al rol de la auditoría interna:
+
+- El Directorio del banco ha definido formalmente lo que constituye el rol de la función de auditoría interna, explicitando los objetivos y alcance de dicha función, su posición dentro de la entidad, su organización, atribuciones, responsabilidades y relaciones con otras áreas de control.
+
+- La función de auditoría presenta independencia de las áreas que desarrollan la negociación, operación y control de los negocios, y cuenta con adecuados recursos humanos y tecnológicos para el logro de sus objetivos, en concordancia con el tamaño y complejidad de las operaciones del banco.
+
+- Todos los procesos y áreas de mayor riesgo en la institución son examinados por la auditoría interna, al menos en forma anual. En este caso se espera que las otras materias comprendidas en el número 3 de este título, formen parte de la evaluación que debe efectuar el área de auditoría, en la medida que sean relevantes conforme al volumen de operaciones del banco y los riesgos asociados.
+
+- La función de auditoría posee un enfoque de carácter proactivo e integral, es decir, se incorporan en sus revisiones aspectos operativos, de riesgos y de gestión, entregando una opinión global de la unidad, producto o materia auditada.
+
+- Los informes de auditoría se distribuyen adecuadamente, de manera que tanto la gerencia general como el Directorio tienen conocimiento oportuno del alcance y los resultados de las auditorías. Los informes deben identificar claramente las causas y efectos de los problemas, de manera que la administración y el Directorio puedan dimensionar el nivel de exposición al riesgo, presente en las distintas unidades auditadas.
+
+- El Directorio de la entidad o el Comité de Auditoría en su defecto, aprueba el plan de auditoría anual y recibe información periódica sobre su grado de cumplimiento.
+
+- La función de auditoría cuenta con un sistema de seguimiento formal que permite controlar el cumplimiento de los compromisos adquiridos por las distintas áreas auditadas. Los informes de seguimiento son distribuidos a las mismas instancias a las que se informaron las observaciones.
+
+- Las observaciones emanadas de los informes de auditoría se traducen en acciones concretas por parte de la línea, que pueden ser evaluadas y que permitan corregir las debilidades.
+
+- El área que ejerce las funciones de auditoría interna cuenta con programas de trabajo de las distintas materias que audita, los que deben tener un enfoque de riesgos.
+
+- El Comité de Auditoría, cumple apropiadamente con aquellas funciones de carácter permanente y no permanente establecidas en la normativa de la Superintendencia.
+
+4.- Metodología y resultado de evaluación.
+
+La clasificación según gestión será fundamentada por este Organismo en la notificación mencionada en el numeral 3.2 del título I de este Capítulo. En dicha comunicación se darán a conocer los resultados de la evaluación, indicándose las debilidades que hayan sido determinantes en caso de calificarse en el nivel B o C. Esto no es óbice, claro está, para informar también acerca de aquellas deficiencias observadas que no hayan sido gravitantes para la clasificación, cualquiera sea el nivel de gestión en que la institución quede clasificada.
+
+Los numerales precedentes contienen sólo una breve descripción del alcance de la evaluación, a fin de dar una idea acerca de la índole de los problemas o situaciones que pueden eventualmente repercutir en la clasificación final. La forma de agrupación de las materias en esos numerales, no constituye un elemento asociado a posibles ponderaciones de debilidades que pudieren observarse, y las circunstancias que en cada numeral se mencionan a modo de ejemplo de una buena gestión, no constituyen por si solo requisitos que deban cumplirse para una clasificación en el más alto nivel de gestión, sino que sólo tienen un carácter ilustrativo de la orientación implícita de la evaluación.
+
+Sin perjuicio de lo anterior y para efectos de otorgar una calificación a las materias señaladas en los numerales 3.1 al 3.8 del título II de este Capítulo, la Superintendencia utilizará la siguiente escala en la evaluación de las materias revisadas:
+
+1 EN CUMPLIMIENTO TOTAL: La entidad cumple integralmente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. No existen deficiencias apreciables.
+
+2 EN CUMPLIMIENTO MATERIAL: La entidad cumple en forma significativa con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Aun cuando se identifican algunas debilidades en procesos específicos de alguna función, ellas se pueden considerar menores y no requieren esfuerzos importantes por parte de la institución para superarlas.
+
+3 EN CUMPLIMIENTO ACEPTABLE: La entidad cumple satisfactoriamente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Se identifican algunas debilidades en procesos específicos de ciertas funciones, las cuales deben ser corregidas oportunamente para evitar un deterioro paulatino de la solidez de la institución. La solución de tales debilidades se considera necesaria.
+
+4 EN CUMPLIMIENTO INSATISFACTORIO: La entidad no cumple en forma razonable con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. Se identifican debilidades en los procesos que componen diversas funciones, entre las que se encuentran algunas relevantes. La corrección de estas debilidades debe ser efectuada con la mayor prontitud.
+
+5 EN INCUMPLIMIENTO: La entidad incumple materialmente con las mejores prácticas y aplicación de sanos principios que caracterizan una adecuada gestión. La solución de tales debilidades se considera indispensable.
+
+Como se comprenderá, las diversas circunstancias que podrían incidir en una clasificación desfavorable de las materias auditadas no son susceptibles de traducirse a situaciones hipotéticas que caractericen el tipo y gravedad de deficiencias probables.
+
+Por consiguiente, en la información de este título no se entregan pautas acerca de lo que la administración superior de un banco debería hacer para evitar una calificación desfavorable. Por una parte, no procede que este Organismo establezca normas de administración interna con el propósito de clasificar a una institución en función de su cumplimiento y, por otra, una calificación favorable no podría asegurarse reaccionando frente a las posibles revisiones de esta Superintendencia.
 
 Conviene tener en cuenta, en todo caso, que desde la perspectiva de la gestión global de una institución financiera, las debilidades que pudiere presentar en las materias que se han mencionado pueden reflejar indirectamente debilidades en la cultura de riesgo de la institución evaluada.
 
@@ -1720,15 +1788,23 @@ Sin perjuicio de las revisiones que, de acuerdo a lo establecido en este Capítu
 
 El resultado de esa evaluación deberá ser presentado al Directorio de la institución. De dicha presentación, como asimismo de los acuerdos que éste adopte en relación con el desarrollo de la gestión, deberá quedar constancia en actas.
 
-El Directorio deberá conocer y pronunciarse sobre cada una de las materias señaladas en el N° 3 de este titulo, lo que no excluye que considere e incluya igualmente otros aspectos relacionados con la gestión de la empresa.
+El Directorio deberá conocer y pronunciarse sobre cada una de las materias señaladas en el N° 3 de este título, lo que no excluye que considere e incluya igualmente otros aspectos relacionados con la gestión de la empresa.
 
 En el caso de las sucursales de bancos extranjeros, cuya gestión dependa de directivas de su Casa Matriz, el Gerente General o la autoridad máxima de la oficina en Chile, remitirá el resultado de la mencionada evaluación así como las eventuales medidas que proponga, a los auditores internos de la institución y a la autoridad jerárquica que corresponda. Los acuerdos que al respecto adopten las mencionadas autoridades serán comunicados a la sucursal en Chile, la que deberá darlos a conocer a esta Superintendencia.
 
 Las entidades financieras enviarán a este Organismo una copia del informe presentado al Directorio, junto con la copia del acta de la reunión en que éste tomó conocimiento y resolvió acerca de la gestión de la empresa, antes del 30 de septiembre de cada año.
 
-En el caso de las sucursales de bancos extranjeros se entregará a esta Superintendencia, en el mismo plazo antes señalado, la copia de la comunicación y de los antecedentes que sobre la materia haya informado el encargado de la sucursal en Chile, según lo indicado anteriormente y las resoluciones que al respecto haya acordado la Casa Matriz.
+Las sucursales de bancos extranjeros entregarán a esta Superintendencia, en el mismo plazo antes señalado, la copia de la comunicación y de los antecedentes que sobre la materia haya informado el encargado de la sucursal en Chile, según lo indicado anteriormente y las resoluciones que al respecto haya acordado la Casa Matriz.
+
+III.- DISPOSICION TRANSITORIA.
+
+Para efectos del envío del informe mencionado en el número 5 precedente, referido al año 2005, en esta oportunidad el Directorio podrá si así lo estima, conocer y pronunciarse sobre aquellas materias señaladas en el N° 3 de este título, que se encontraban vigentes hasta la fecha de modificación del presente Capítulo.
 
 ANEXO N°1
+
+DEFINICIONES DE CATEGORIAS
+
+(Artículo 60 Ley General de Bancos)
 
 .
 
@@ -1736,9 +1812,7 @@ ANEXO N°2
 
 POLITICA DE ADMINISTRACION DE LIQUIDEZ
 
-La política de administración de liquidez debe cubrir, a lo menos, lo siguiente:
-
-- Identificación de las fuentes de riesgo de liquidez que enfrenta el banco y sus filiales.
+La política de administración de las fuentes de riesgo de liquidez que enfrenta el banco y sus filiales.
 
 - Estrategias definidas para hacer frente a dichos riesgos:
 
@@ -1832,7 +1906,7 @@ o Modelos para determinar riesgos de mercado en opciones.
 
 - Actividades destinadas a revaluar criterios, parámetros y supuestos incluidos en los modelos.
 
--Estructura de límites internos.
+- Estructura de límites internos.
 
 - Fundamentos de la estructura de límites.
 
@@ -7270,7 +7344,7 @@ Bancos
 
 016 BANCO DE CREDITO E INVERSIONES
 
-017 BANCO DO BRASIL S A
+017 BANCO DO BRASIL S.A.
 
 027 CORPBANCA
 
@@ -7278,17 +7352,17 @@ Bancos
 
 031 HSBC BANK (CHILE)
 
-033 CITIBANK N A
+033 CITIBANK N.A.
 
 037 BANCO SANTANDER-CHILE
 
-039 BANKBOSTON, N A
+039 BANKBOSTON, N.A.
 
-041 JP MORGAN CHASE BANK, N A
+041 JP MORGAN CHASE BANK, N.A.
 
 043 BANCO DE LA NACION ARGENTINA
 
-045 THE BANK OF TOKYO-MITSUBISHI LTD
+045 THE BANK OF TOKYO-MITSUBISHI LTD.
 
 046 ABN AMRO BANK (CHILE)
 
@@ -7311,8 +7385,6 @@ Bancos
 504 BANCO BILBAO VIZCAYA ARGENTARIA, CHILE
 
 507 BANCO DEL DESARROLLO
-
-734 BANCO CONOSUR
 
 018 BANCO CENTRAL DE CHILE.
 
