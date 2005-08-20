@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA Nº 3.392 DE 2005, DE LA DIRECCION NACIONAL DE ADUANAS, QUE REFUNDE Y ACTUALIZA LAS INSTRUCCIONES ADMINISTRATIVAS PARA MEJORAR LOS PROCEDIMIENTOS DE CONTROL DE LAS EXPORTACIONES DE CONCENTRADO DE COBRE
+
+Modifica el Compendio de Normas Aduaneras, aprobado por resolución Nº 2400/85 de la Dirección Nacional de Aduanas, en el Capítulo III, Apéndice I, e incorpora al Capítulo IV de dicho texto normativo el Apéndice II, mediante el cual se establecen mecanismos para el control de las exportaciones de concentrados de cobre, que comprende el registro de organismos de inspección, laboratorios y empresas de determinación de peso, medidas de control e instrucción transitoria.
+
+El texto íntegro de la referida resolución se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduana.cl).
