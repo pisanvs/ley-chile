@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.303, de 21 de julio de 2005, de esta Subsecretaría, autorízase a PRO PESCA LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino a Yungay, Km. 3, Chillán Viejo, Chillán, VIII Región, donde podrá elaborar en las líneas de proceso de Seco Salado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
