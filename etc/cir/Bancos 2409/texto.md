@@ -9462,6 +9462,8 @@ Los prepagos totales o parciales de los créditos concedidos con los mutuos hipo
 
 En caso de amortizaciones parciales, deberá establecerse la forma en que se aplicarán esos pagos en las cuotas de capital adeudado. Los contratos podrán contemplar también los montos mínimos para la amortización extraordinaria de estos préstamos.
 
+Si la amortización se realiza como consecuencia de la aplicación del seguro de desgravamen, no procede cobrar a la sucesión del deudor fallecido la comisión de prepago referida en las disposiciones citadas en el primer párrafo de este número.
+
 ### 10. Gastos de cargo del deudor hipotecario
 
 Sólo podrán ser de cargo del deudor hipotecario los pagos efectuados por los siguientes conceptos:
@@ -9642,31 +9644,23 @@ Sin perjuicio de lo indicado en el título I de este Capítulo, relativo a las c
 
 ### III. INFORMACION AL DEUDOR HIPOTECARIO
 
-Las instituciones financieras o los agentes administradores, según corresponda,
+1.- Información sobre gastos del mutuo.
 
-deberán informar a los solicitantes de préstamos hipotecarios endosables, en
+Las instituciones financieras o los agentes administradores, según corresponda, deberán informar en forma anticipada a los solicitantes de préstamos hipotecarios endosables, el monto aproximado de los gastos que la operación les pudiera generar. Dicho monto estimado deberá comprender los gastos señalados en el número 10 del título I de este Capítulo.
 
-forma anticipada, el monto aproximado de los gastos que la operación les pudiera
+Asimismo, una vez que se curse la operación, las instituciones financieras, ya sea que actúen por cuenta propia o de terceros, deberán entregar al deudor una liquidación detallada de los gastos señalados en el párrafo anterior, así como la información acerca de la tasa de interés, plazo y calendario de pago de la deuda.
 
-generar. Dicho monto estimado deberá comprender los gastos señalados en el
+2.- Información sobre los seguros.
 
-número 10 del título I de este capítulo.
+Las entidades financieras deberán entregar a los deudores la siguiente información relativa a los seguros que se contraten para estos créditos:
 
-Asimismo, una vez que se curse la operación, las instituciones financieras, ya
+a) Seguros contratados directamente por el deudor: En el evento que el deudor desee contratar directamente los seguros correspondientes, el banco deberá entregarle un documento que especifique las condiciones que debe contener la correspondiente póliza.
 
-sea que actúen por cuenta propia o de terceros, deberán entregar al deudor una
+b) Seguros contratados por la entidad financiera: Si los seguros son contratados por la institución acreedora, por cuenta de sus clientes, se deberá cumplir con lo establecido en el último párrafo de la letra c) del número 1 de la Circular Conjunta N° 3.321 de esta Superintendencia y N° 1.758 de la Superintendencia de Valores y Seguros.
 
-liquidación detallada de los gastos señalados en el párrafo anterior, así como
+3.- Información al deudor sobre la adquisición o venta de mutuos hipotecarios.
 
-de la tasa de interés, plazo y calendario de pago de la deuda.
-
-Además, cada vez que una institución financiera venda o adquiera un mutuo
-
-hipotecario endosable, ya sea por cuenta propia o en su calidad de agente
-
-administrador, deberá dar aviso escrito de este hecho al deudor, señalando el
-
-nuevo lugar de pago, en caso de que corresponda.
+Cada vez que una institución financiera venda o adquiera un mutuo hipotecario endosable, ya sea por cuenta propia o en su calidad de agente administrador, deberá dar aviso escrito de ese hecho al deudor, señalando el nuevo lugar de pago, en caso que corresponda.
 
 IV.- NORMAS CONTABLES.
 
@@ -13138,6 +13132,8 @@ Al recibir algún pago para amortizar anticipadamente el total o parte de la obl
 
 No obstante lo señalado precedentemente, las instituciones financieras podrán recibir, a petición del deudor, el pago anticipado de dividendos que comprendan un período máximo de seis meses, sin que se considere amortización extraordinaria del respectivo préstamo.
 
+Si la amortización anticipada se realiza como consecuencia de la aplicación del seguro de desgravamen, no procede cobrar a la sucesión del deudor fallecido, la comisión de prepago a que se refiere este número.
+
 9.- Amortización extraordinaria de letras de crédito.
 
 Las entidades financieras podrán realizar amortización extraordinaria de letras de crédito, únicamente por alguno de los motivos que se señalan en los numerales siguientes.
@@ -13174,11 +13170,7 @@ Las amortizaciones extraordinarias por este concepto podrán realizarlas las ent
 
 10.1.- Información anticipada.
 
-La institución financiera deberá informar al deudor, en forma anticipada, acerca
-
-de los gastos globales aproximados que la operación demandará. En el cálculo
-
-deberán considerarse los siguientes:
+La institución financiera deberá informar al deudor, en forma anticipada, acerca de los gastos globales aproximados que la operación demandará. En el cálculo deberán considerarse los siguientes:
 
 a) Pago de impuestos de timbres y estampillas;
 
@@ -13223,6 +13215,14 @@ e) El precio al cual se vendieron las letras de crédito asociadas al mutuo, en 
 f) Mercado en el que se efectuó la venta de las letras de crédito, esto es, si se vendieron en una bolsa de valores o fuera de ella, o si fueron adquiridas parcial o totalmente por la entidad emisora o por una persona relacionada a ella.
 
 g) Precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de la misma serie, del mismo año de emisión y del mismo emisor que las del respectivo crédito o, en su defecto, el precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de diversas senes del mismo emisor, de características similares a las letras de crédito del respectivo préstamo, en cuanto a su vencimiento, tasa de interés, amortización, garantías y reajustes, debiendo precisarse a qué instrumentos corresponden los antecedentes que se entreguen.
+
+10.3.- Información relativa a la contratación de los seguros.
+
+Las entidades financieras deberán entregar a los deudores la siguiente información relativa a los seguros que se contraten para estos créditos:
+
+a) Seguros contratados directamente por el deudor: En el evento que el deudor desee contratar directamente los seguros correspondientes, el banco deberá entregarle un documento que especifique las condiciones que debe contener la correspondiente póliza.
+
+b) Seguros contratados por el banco: Si los seguros son contratados por el banco acreedor, por cuenta de sus clientes, se deberá cumplir con lo establecido en el último párrafo de la letra c) del número 1 de la Circular Conjunta N° 3.321 de esta Superintendencia y N° 1.758 de la Superintendencia de Valores y Seguros.
 
 11.- Garantía de liquidez anticipada.
 
