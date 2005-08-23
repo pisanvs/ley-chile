@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.422 de 2 de agosto de 2005 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chungungo, Sector D, IV Región, individualizada en el artículo 1º Nº3 del decreto exento Nº639 de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS, AYUDANTES, PESCADORES Y RECOLECTORES DE LA CALETA CHUNGUNGO.
+
+Valparaíso, 2 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
