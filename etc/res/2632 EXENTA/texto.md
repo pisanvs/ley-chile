@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.632, de 18 de agosto de 2005, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.897, de 2002, de esta Subsecretaría, sólo en cuanto autorizó a ANTONIO DA VENECIA RETAMALES para ampliar actividades pesqueras con la nave "Tío Gringo", en el área marítima correspondiente a la V Región, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y lo informado en Informe Técnico citado en Visto.
+
+Valparaíso, 18 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
