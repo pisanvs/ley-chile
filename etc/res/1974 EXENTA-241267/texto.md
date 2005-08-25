@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.974, de 28 de junio de 2005, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 860 de 2005, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Caracterización de la captura de Pez Espada (Xiphias gladius) realizada por la flota artesanal de las Regiones I a X", en el sentido de ampliar hasta el 15 de julio de 2005 el plazo de inscripción en las oficinas del Instituto de Fomento Pesquero para las embarcaciones artesanales que deseen participar en la citada pesca de investigación.
+
+Valparaíso, 28 de junio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
