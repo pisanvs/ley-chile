@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.447, de 3 de agosto de 2005, de esta Subsecretaría, prorrógase la vigencia de la resolución Nº 1.118 de 2005, que modificó la resolución Nº 1.050 de 2005, ambas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Bases Técnicas para el Plan de Manejo Pesquerías Bentónicas Zona Contigua Regiones X y XI", hasta el 14 de octubre de 2005.
+
+Valparaíso, 3 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
