@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.626, de 18 de agosto de 2005, de esta Subsecretaría de Pesca, modifícase el numeral 3º de la resolución Nº 1.664, modificada por resolución Nº 2.005, ambas de 2005, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Investigación Evaluación directa de Jurel V y X Regiones, 2005", en el sentido de extender el período de operación de las naves industriales "Libas" y "Líder" hasta el día 30 de septiembre de 2005, inclusive.
+
+Valparaíso, 18 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
