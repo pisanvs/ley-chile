@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.669, de 19 de agosto de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201112017 presentada por Grieg Seafood Chile S.A., hoy CHILE SEAFOOD S.A., para instalar y operar un centro de cultivo ubicado en Canal Goñi, al este de Isla Williams, costa este sector 2, XI Región.
+
+Valparaíso, 19 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
