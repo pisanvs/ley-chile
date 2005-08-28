@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.666, de 19 de agosto de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204101167 presentada por JULIO EDUARDO PAREDES GONZALEZ, para instalar y operar un centro de cultivo ubicado en Canal Llanchid, sector entre Isla Malomacum e Islotes Garzas, X Región.
+
+Valparaíso, 19 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
