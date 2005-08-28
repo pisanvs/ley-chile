@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.476, de 3 de agosto de 2005, de esta Subsecretaría, modifícase la resolución Nº 2.473 de 2004, de esta Subsecretaría que autorizó a JUAN CARLOS AGUILA AGUILA para instalar colectores de semillas de mitílidos en estero Castro, al sur de Punta Pello, X Región, en el sentido de ampliar el plazo de vigencia de la autorización hasta el 30 de septiembre de 2005.
+
+Valparaíso, 3 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
