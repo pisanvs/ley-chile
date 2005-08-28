@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.609, de 17 de agosto de 2005, de esta Subsecretaría, autorízase a PRODUCTORA Y COMERCIALIZADORA DEL MAR LIMITADA, para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Camino al Fuerte Nº 78, Coquimbo, IV Región, en las línea de proceso de Fresco Enfriado, Fresco Refrigerado, Congelado y Conserva, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 17 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
