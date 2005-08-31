@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.255, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.521 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesca extractiva de Sardina común (Strangomera bentincki) y Anchoveta (Engraulis ringens) por la flota artesanal de la VIII Región", en el sentido de extender el plazo de ejecución de la citada pesca de investigación hasta el día 30 de septiembre de 2005, inclusive.
+
+Valparaíso, 20 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
