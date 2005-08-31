@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.304, de 21 de julio de 2005, de esta Subsecretaría, autorízase a ALEXANDER MIGUEL PEREZ ALVAREZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Km. 8-9 s/n, Ruta B1, carretera hacia Taltal, provincia de Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
