@@ -2152,7 +2152,7 @@ Para los efectos de este Título y del Párrafo IV del Título III, se reputa em
 
 DE LOS CRÍMENES Y SIMPLES DELITOS CONTRA EL ORDEN Y LA SEGURIDAD PÚBLICOS COMETIDOS POR PARTICULARES.
 
-### I. Atentados Y desacatos contra la autoridad
+### I. Atentados contra la autoridad
 
 #### Artículo 261
 
@@ -2178,39 +2178,23 @@ Para determinar si la agresión se verifica a mano armada se estará a lo dispue
 
 #### Artículo 263
 
-El que de hecho o de palabra injuriare gravemente al Presidente de la República, o a alguno de los cuerpos colegisladores o a las comisiones de éstos, sea en los actos públicos en que los representan, sea en el desempeño de sus atribuciones particulares, o a los tribunales superiores de justicia, será castigado con reclusión menor en sus grados medio a máximo y multa de once a veinte unidades tributarias mensuales.
-
-Cuando las injurias fueren leves, las penas serán reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales, o simplemente esta última.
+Derogado.
 
 #### Artículo 264
 
-Cometen desacato contra la autoridad:
+El que amenace durante las sesiones de los cuerpos colegisladores o en las audiencias de los tribunales de justicia a algún diputado o senador o a un miembro de dichos tribunales, o a un senador o diputado por las opiniones manifestadas en el Congreso, o a un miembro de un tribunal de justicia por los fallos que hubiere pronunciado o a los ministros de Estado u otra autoridad en el ejercicio de sus cargos, será castigado con reclusión menor en cualquiera de sus grados.
 
-1.° Los que perturban gravemente el orden de las sesiones de los cuerpos colegisladores y los que injurian o amenazan en los mismos actos a algún diputado o senador.
-
-2.° Los que perturban gravemente el orden en las audiencias de los tribunales de justicia y los que injurian o amenazan en los mismos actos a un miembro de dichos tribunales.
-
-3.° Los que injurian o amenazan:
-
-Primero.- A un senador o diputado por las opiniones manifestadas en el Congreso.
-
-Segundo.- A un miembro de un tribunal de justicia por los fallos que hubiere dado.
-
-Tercero.- A los ministros de Estado u otra autoridad en el ejercicio de sus cargos.
-
-Cuarto.- A un superior suyo con ocasión de sus funciones.
-
-En todos estos casos la provocación a duelo, aunque sea privada o embozada, se reputará amenaza grave para los efectos del presente artículo.
+El que perturbe gravemente el orden de las sesiones de los cuerpos colegisladores o de las audiencias de los tribunales de justicia, u ocasionare tumulto o exaltare al desorden en el despacho de una autoridad o corporación pública hasta el punto de impedir sus actos, será castigado con la pena de reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales, o sólo esta última.
 
 #### Artículo 265
 
-Si el desacato consiste en perturbar el orden, o la injuria o amenaza, de que habla el artículo precedente, fuere grave, el delincuente sufrirá las penas de reclusión menor en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales. Cuando fuere leve, las penas serán reclusión menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales, o simplemente esta última.
+Derogado.
 
 #### Artículo 266
 
-Para todos los efectos de las disposiciones penales respecto de los que cometen atentado o desacato contra la autoridad o funcionarios públicos, se entiende que ejercen aquélla constantemente los ministros de Estado y las autoridades de funciones permanentes o llamadas a ejercerlas en todo caso y circunstancias.
+Para todos los efectos de las disposiciones penales respecto de los que cometen atentado contra la autoridad o funcionarios públicos, se entiende que ejercen aquélla constantemente los ministros de Estado y las autoridades de funciones permanentes o llamadas a ejercerlas en todo caso y circunstancias.
 
-Entiéndese también ofendida la autoridad en ejercicio de sus funciones cuando tuviere lugar el atentado o desacato con ocasión de ellas o por razón de su cargo.
+Entiéndese también ofendida la autoridad en ejercicio de sus funciones cuando tuviere lugar el atentado con ocasión de ellas o por razón de su cargo.
 
 #### Artículo 267
 
@@ -2218,7 +2202,7 @@ El que con violencia o fraude impidiere ejercer sus funciones a un miembro del C
 
 #### Artículo 268
 
-El que ocasionare, tumulto o excitare al desorden en el despacho de una autoridad o corporación pública hasta el punto de impedir o interrumpir sus actos, será castigado con reclusión menor en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
+Derogado.
 
 #### Artículo 268 bis
 
@@ -3898,7 +3882,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
 
-3.° El que sin licencia de la autoridad competente cargare armas prohibidas por la ley o por los reglamentos generales.
+3.° Derogado.
 
 4.° El que amenazare a otro con armas blancas o de fuego y el que riñendo con otro las sacare, como no sea con motivo justo.
 
