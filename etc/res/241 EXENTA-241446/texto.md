@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº241 EXENTA, DE 2005
+
+La Dirección Grandes Contribuyentes, Departamento de Fiscalización Grandes Empresas Nacionales del SII, por resolución Ex. 17.100 Nº 241/05, de 17.08.2005, dispuso el cambio total de sujeto pasivo de derecho del IVA en la venta de papeles y cartones para reciclar y confirió la calidad de agente retenedor de dicho tributo a CMPC Tissue S.A., RUT Nº96.529.310-8, de conformidad a resolución Ex. SII Nº29, de 11.03.2005 publicada en el Diario Oficial de 17.03.2005. La resolución regirá a contar del día primero del mes siguiente al de esta publicación, hasta el 30.04.2006.
