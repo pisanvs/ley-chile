@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 722 de 29 de julio de 2005, se expropió el lote de terreno Nº 86-A, superficie 908 m², rol de Avalúo Nº 59-52, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3 - P. Vergara, Sector Guaico 3 - La Unión Km. 0,00000 a Km 7,60000", VII Región y se acordó el valor de la indemnización con su propietario Manuel Jesús Guajardo Peralta, ascendente a la cantidad de $1.061.174.
+
+Fiscal del Ministerio de Obras Públicas.
