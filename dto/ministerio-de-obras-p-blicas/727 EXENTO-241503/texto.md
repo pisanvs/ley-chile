@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 727, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 2, superficie 556,3 m², Rol Nº 45-93, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas - Central Los Molles, Sector Juntas - Rapel, Tramo 0,00000 a Km. 13,28846, I Etapa", IV Región y se acordó el valor de la indemnización con su propietario Angelita del Carmen Véliz Ortiz, ascendente a la cantidad de $1.113.482.
+
+Fiscal del Ministerio de Obras Públicas.
