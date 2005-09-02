@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 779 de 29 de julio de 2005, se expropió el lote de terreno Nº 5, superficie 73 m², rol de avalúo Nº 267-19, comuna de El Monte, para la obra "Reposición Puente Diego de Almagro Sector: Camino sin Rol, Diego de Almagro", Región Metropolitana y se acordó el valor de la indemnización con la Sociedad Andrés Armijo e Hijos Limitada, ascendente a la cantidad de $523.741.
+
+Fiscal del Ministerio de Obras Públicas.
