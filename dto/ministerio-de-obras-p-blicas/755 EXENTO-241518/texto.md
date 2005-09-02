@@ -1,0 +1,3 @@
+Por decreto exento Nº 755 de 29 de julio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Construcción Puente Lo Gamboa y accesos, Ruta F-620, tramo Km. 0,25300 a Km. 0,49300, que figura a nombre de Alvarado Romelio Fisco, rol de avalúo 214-14, comuna de Limache, V Región, superficie 184,96 m². La comisión de peritos, fijó con fecha 18 de abril de 2005, en la cantidad de $462.400. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
