@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 718 de 29 de julio de 2005, se expropió el lote de terreno Nº 46-B, superficie 737 m², rol de Avalúo Nº 58-515, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3 - P. Vergara, Sector Guaico 3 - La Unión Km. 0,00000 a Km 7,60000", VII Región y se acordó el valor de la indemnización con su propietario Víctor Manuel Barrios Contreras, ascendente a la cantidad de $1.455.664.
+
+Fiscal del Ministerio de Obras Públicas.
