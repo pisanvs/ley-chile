@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 707, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 27, superficie 6.360 m², Rol Nº 158-151, comuna de Cochamó, X Región para la obra "Camino Puelo Paso El Bolsón, Sector Lago Tagua Tagua - Llanada Grande Km. 12,530 a Km. 32,500", y se acordó el valor de indemnización con su propietario José Lino Quiroz Aravena, ascendente a la cantidad de $914.620 para el lote Nº 27.
+
+Fiscal del Ministerio de Obras Públicas.
