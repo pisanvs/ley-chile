@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 810, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 59-B para la obra: Camino Ruta L-31, Sector Polvorines - La Floresta Tramo: Km. 0,00000 a Km.
+
+15,48000, que figura a nombre de Soc. Agrícola y Ganadera Santa Cecil, Rol de avalúo 546-135, Comuna de Linares, VII Región, superficie 488 m2. La Comisión de Peritos fijó con fecha 28 de mayo de 2002, complementada por Acta de fecha 31 de julio de 2003, el monto de la indemnización provisional en la cantidad de $484.400 lote Nº 59-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
