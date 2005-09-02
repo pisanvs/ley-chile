@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 714, de fecha 29 de julio del 2005, se expropiaron los lotes de terrenos Nºs 96 y 97, superficies 543 y 630 m² respectivamente, Rol Nº 407-66, comuna de Los Muermos, X Región para la obra "Camino Ruta V-60, Sector El Tepual - Las Quemas - Los Muermos, Km. 0,00000 al Km. 32,27442", y se acordó el valor de indemnización con su propietario Mario Eduardo Schofer Haeger, ascendente a la cantidad de $797.380.
+
+Fiscal del Ministerio de Obras Públicas.
