@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 788 de 29 de julio de 2005, se expropió el lote de terreno Nº 20-B, superficie 55 m², rol de avalúo Nº 58-50, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3-P. Vergara, Sector Guaico 3-La Unión Km. 0,00000 a Km. 7,60000", VII Región y se acordó el valor de la indemnización con su propietario Luis Humberto Muñoz Durán, ascendente a la cantidad de $114.950.
+
+Fiscal del Ministerio de Obras Públicas.
