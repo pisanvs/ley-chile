@@ -1,0 +1,5 @@
+Por decreto MOP Nº 586, de 20 de julio de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 1, 8, 13, para la obra: "Camino Ruta G-16, Sector Lampa - Polpaico, Tramo Km. 19,72359 a Km.
+
+34,51667, que figuran a nombre de Minic de Lampa Media Luna, Griffin Barros Arturo Gonzalo, roles de avalúo 61-212 y 61-4, Comuna de Lampa, Región Metropolitana, superficie 1.513, 792, 2.011 m2, respectivamente. La Comisión de Peritos fijó con fecha 2 de agosto de 2000 el monto de la indemnización provisional en la cantidad de $3.536.000 lote Nº 1, $3.643.200 lote Nº 8 y $3.619.800 lote Nº 13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
