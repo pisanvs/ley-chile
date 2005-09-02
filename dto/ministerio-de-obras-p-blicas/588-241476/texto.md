@@ -1,0 +1,5 @@
+Por decreto MOP Nº 588, de 20 de julio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nos 1, 22, 27 y 30 para la obra: "Ampliación, reposición, pavimentación Ruta 5 Sur, sector Acceso Norte a Temuco, Km. 0,50000 al Km. 8,66000", que figuran a nombre de Inmob. Teresa de los Andes Soc., Fernández Diez Alejandro e Inmob. Frontera Country Club S, roles de avalúo 3.279-16, 3.281-13 y 3.203-32, comuna de Temuco, IX Región, superficies 970 m², 733 m², 2.278 m² y 306 m². La comisión de peritos, fijó el monto provisional de la indemnización con fecha 29 de septiembre de 2004, en la cantidad de $14.550.000.- para el lote Nº 1; $13.652.500.- para el lote Nº 22;
+
+$79.180.000.- para el lote Nº 27 y $12.006.000.- para el lote Nº 30. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
