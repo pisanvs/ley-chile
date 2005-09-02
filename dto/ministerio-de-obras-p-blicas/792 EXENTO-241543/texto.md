@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 792 de fecha 29 de julio del 2005, se expropiaron los lotes de terrenos Nºs. 2-A y 2-B, superficie 36 y 36 m² respectivamente, rol Nº 540-129, comuna de La Unión, X Región para la obra "Camino Ruta T-75, Sector Chan Chan - Puerto Nuevo, Tramo Km. 17,69732 al Km. 38,52194", y se acordó el valor de indemnización con su propietaria Clotilde Vera Zúñiga, ascendente a la cantidad de $318.558.
+
+Fiscal del Ministerio de Obras Públicas.
