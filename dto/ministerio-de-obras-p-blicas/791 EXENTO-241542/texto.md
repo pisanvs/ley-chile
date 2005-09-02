@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 791, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 29, superficie 986 m², rol Nº 267-92, comuna de Carahue, para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, km. 0,00000 a Km. 7,34893", IX Región y se acordó el valor de la indemnización con su propietario Anoria Gallegos Rivera y otros, ascendente a la cantidad de $527.561.
+
+Fiscal del Ministerio de Obras Públicas.
