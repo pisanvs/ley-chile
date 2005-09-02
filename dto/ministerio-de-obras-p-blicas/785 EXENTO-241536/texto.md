@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 785 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 18-A, superficie 3.004 m², rol Nº 267-53, comuna de Carahue, para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, km. 0,00000 a km. 7,34893", IX Región y se acordó el valor de la indemnización con su propietario Ernesto Mora Maripán, ascendente a la cantidad de $1.375.999.
+
+Fiscal del Ministerio de Obras Públicas.
