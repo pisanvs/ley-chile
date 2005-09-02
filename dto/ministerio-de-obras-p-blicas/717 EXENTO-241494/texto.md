@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 717, de fecha 29 de julio de 2005, se expropiaron los lotes de terrenos Nºs 5 y 7, superficies 1.887 y 955 m², Roles Nºs 608-20 y 608-18, respectivamente, comuna de San Ignacio, VIII Región para la obra "Laja - Diguillín, Canal Alimentador Número 6 Km. 0,008 a Km. 0,705", y se acordó el valor de indemnización con su propietario Luis Sepúlveda Bustamante y otros, ascendente a la cantidad de $1.633.766 para el lote Nº 5 y $966.722 para el lote Nº 7.
+
+Fiscal del Ministerio de Obras Públicas.
