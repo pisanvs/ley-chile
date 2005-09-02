@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 703, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 1, superficie 6.772 m², Rol Nº 132-30, comuna de El Carmen, VIII Región para la obra "Proyecto Sistema de Riego Laja - Diguillín "Bocatoma Diguillín", y se acordó el valor de indemnización con su propietaria Miriam Bustamante Lalanne, ascendente a la cantidad de $2.682.863 para el lote Nº 1.
+
+Fiscal del Ministerio de Obras Públicas.
