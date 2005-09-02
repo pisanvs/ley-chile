@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 802, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: "Camino Cajón Cherquenco, sector General López - Vilcún Kms. 21.775 al 22.450", que figura a nombre de Millaleo Parra Carmen Rosa, Rol de avalúo 298-62, Comuna de Vilcún, IX Región, superficie 409 m2. La Comisión de Peritos fijó el monto provisional de la indemnización con fecha 12 de abril de 1988 en la cantidad de $90.450 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
