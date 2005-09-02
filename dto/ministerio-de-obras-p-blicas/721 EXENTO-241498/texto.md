@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 721 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 313, superficie 376 m², rol Nº 61-53, comuna de Palmilla, para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, Tramo Km. 12,30000 a Km. 26,00400", VI Región y se acordó el valor de la indemnización con su propietario Daniel Exequiel Gaete Olguín y otros, ascendente a la cantidad de $1.752.504.
+
+Fiscal del Ministerio de Obras Públicas.
