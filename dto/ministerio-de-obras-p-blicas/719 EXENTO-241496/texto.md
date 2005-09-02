@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 719, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 15, superficie 31 m², rol Nº 191-55, comuna de Longaví, para la obra "Camino Ruta L-49, cruce Long. - Mesamávida, Sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 a Km. 13,841.12", VII Región y se acordó el valor de la indemnización con su propietaria Rebeca del Carmen Carrión Bascuñán, ascendente a la cantidad de $499.582.
+
+Fiscal del Ministerio de Obras Públicas.
