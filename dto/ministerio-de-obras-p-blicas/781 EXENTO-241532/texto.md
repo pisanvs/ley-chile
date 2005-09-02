@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 781, de fecha 29 de julio de 2005, se expropiaron los lotes de terreno Nºs 22 y 22-B, superficies 1.283,00 y 1.604,00 m2, respectivamente, Rol Nº 324-20, comuna de Río Negro, para la obra "Camino Ruta U-72, sector Huilma - Riachuelo, tramo Km. 18,14000 al Km. 33,91000", X Región, y se acordó el valor de la indemnización con su propietaria Lucía del Carmen Sandoval Guaitiao y otros ascendente a la cantidad de $2.727.011.
+
+Fiscal del Ministerio de Obras Públicas.
