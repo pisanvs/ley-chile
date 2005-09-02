@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 780 de 29 de julio de 2005, se expropió el lote de terreno Nº 5, superficie 3.427 m², Rol Nº 600-22, comuna de San Ignacio, VIII Región para la obra "Laja Diguillín, Canal Matriz Diguillín - Larqui, Canal Alimentador Nº 5" y se acordó el valor de indemnización con su propietaria Sara del Carmen Utreras Coloma, ascendente a la cantidad de $2.392.683.
+
+Fiscal del Ministerio de Obras Públicas.
