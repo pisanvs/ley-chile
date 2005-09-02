@@ -1,0 +1,3 @@
+Por decreto MOP Nº 552, de fecha 30 de junio de 2005, se expropió el lote de terreno Nº 543-2, superficie 6.331 m², Rol Nº 538-257, comuna de La Unión, X Región para la obra "Concesión Internacional Ruta 5; Tramo Temuco - Río Bueno Km. 879.550,00 al Km. 880.300,00", y se acordó el valor de indemnización con su propietaria Ingrid Beatriz Sánchez Sánchez y otra, ascendente a la cantidad de $3.641.857.
+
+Fiscal del Ministerio de Obras Públicas.
