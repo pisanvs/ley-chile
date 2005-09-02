@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 713, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 1, superficie 3.161 m², Rol Nº 608-30, comuna de San Ignacio, VIII Región para la obra "Laja - Diguillín, Canal Alimentador Número 6 Km. 0,008 a Km. 0,705", y se acordó el valor de indemnización con su propietario Rafael de la Cruz Aedo Aedo y otros, ascendente a la cantidad de $2.750.804 para el lote Nº 1.
+
+Fiscal del Ministerio de Obras Públicas.
