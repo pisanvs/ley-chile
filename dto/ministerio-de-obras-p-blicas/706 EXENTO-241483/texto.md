@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 706 de fecha 29 de julio del 2005, se expropio el lote de terreno Nº 1, superficie 137 m², Rol Nº 268-5, comuna de El Monte, Región Metropolitana para la obra "Reposición Puente Diego de Almagro, Sector Camino sin Rol, Diego de Almagro", y se acordó el valor de indemnización con su propietario Angel Custodio Valdebenito Silva, ascendente a la cantidad de $1.854.444.
+
+Fiscal del Ministerio de Obras Públicas.
