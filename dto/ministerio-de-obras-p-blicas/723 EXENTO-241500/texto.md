@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 723 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 4, superficie 3.330 m², rol Nº 600-22, comuna de San Ignacio, para la obra "Laja Diguillín, canal matriz Diguillín Larqui, Canal Alimentador Nº 5", VIII Región y se acordó el valor de la indemnización con su propietario Juan Ramón Sáez Araya, ascendente a la cantidad de $2.518.013.
+
+Fiscal del Ministerio de Obras Públicas.
