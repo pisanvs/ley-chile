@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 734 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 27-A, superficie 342 m², Rol Nº 267-44, comuna de Carahue, para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, Km. 0,00000 a Km. 7,34893", IX Región y se acordó el valor de la indemnización con su propietario Reinaldo Ernesto Muñoz Mora, ascendente a la cantidad de $383.894.
+
+Fiscal del Ministerio de Obras Públicas.
