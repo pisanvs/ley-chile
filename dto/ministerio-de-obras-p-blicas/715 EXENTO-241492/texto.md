@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 715, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 9-D, superficie 229,90 m², Rol Nº 543-21, comuna de La Unión, para la obra "Camino Ruta T-75, sector Chan-Chan-Puerto Nuevo, tramo Km. 17,69732 a Km. 38,52194", X Región y se acordó el valor de la indemnización con su propietario Aurelio Santamaría Puentes, ascendente a la cantidad de $1.283.670.
+
+Fiscal del Ministerio de Obras Públicas.
