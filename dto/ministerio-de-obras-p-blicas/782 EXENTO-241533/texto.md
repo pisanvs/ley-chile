@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 782 de 29 de julio de 2005, se expropiaron los lotes de terreno Nos 1-A y 1-B, superficie 130 y 609 m², Rol Nº 1535-485 y 1535-486, respectivamente, comuna de Los Angeles, para la obra "Mejoramiento Ruta Q-503, Los Angeles - El Peral", VIII Región y se acordó el valor de la indemnización con su propietaria Conservera Osiris S.A., ascendente a la cantidad de $2.469.959.
+
+Fiscal del Ministerio de Obras Públicas.
