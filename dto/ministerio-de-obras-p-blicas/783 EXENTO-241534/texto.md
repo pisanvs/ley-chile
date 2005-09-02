@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 783 de fecha 29 de julio de 2005, se expropiaron los lotes de terreno Nos 5 y 6, superficies 18.383 y 25.251 m², Rol Nº 151-29, comuna de Cochamó, X Región para la obra "Camino Puelo Paso El Bolsón, Sector Lago Tagua Tagua-Llanada Grande, Km. 12,530 a Km. 32,500" y se acordó el valor de indemnización con su propietario Jorge Segundo Gallardo Méndez, ascendente a la cantidad de $4.956.053.- para los lotes Nos 5 y 6.
+
+Fiscal del Ministerio de Obras Públicas.
