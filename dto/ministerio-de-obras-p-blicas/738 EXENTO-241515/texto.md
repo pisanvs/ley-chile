@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 738, de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 34, superficie 46,6 m², Rol en Trámite, comuna de Monte Patria, para la obra "Camino Ruta D-557, Juntas - Central Los Molles, Sector Juntas - Rapel, Tramo 0,00000 a Km. 13,28846, I Etapa", IV Región y se acordó el valor de la indemnización con su propietario Gilberto Enrique Araya Arancibia, ascendente a la cantidad de $382.290.
+
+Fiscal del Ministerio de Obras Públicas.
