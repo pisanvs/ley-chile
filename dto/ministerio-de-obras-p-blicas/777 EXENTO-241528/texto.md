@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 777 de fecha 29 de julio del 2005, se expropió el lote de terreno Nº 4, superficie 668 m², Rol Nº 608-131, comuna de San Ignacio, VIII Región para la obra "Laja - Diguillín, canal alimentador número 6 Km. 0,008 al Km. 0,705", y se acordó el valor de indemnización con su propietaria Lidia Sepúlveda Jiménez, ascendente a la cantidad de $728.251.
+
+Fiscal del Ministerio de Obras Públicas.
