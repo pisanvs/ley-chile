@@ -1,0 +1,3 @@
+Por decreto MOP Nº 578, de 20 de julio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra: Construcción Ruta Costera, Tramo Puerto Viejo - Bahía Salada, provincia de Copiapó, Región de Atacama, que figura a nombre de Aguirre Valenzuela Bernarda y Ot, rol de avalúo 521-23, comuna de Caldera, III Región, superficie 296.265 m2. La Comisión de Peritos, fijó con fecha 10 de mayo de 2004, en la cantidad de $7.406.625. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
