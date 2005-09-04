@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.820, de 26 de agosto de 2005, de esta Subsecretaría, rectifícase el extracto de la resolución exenta Nº 2.591 de 2005, de esta Subsecretaría de Pesca, que aplicó a PESCA SURIBERICA S.A. la sanción establecida en el artículo 11 inciso 1º de la ley Nº 19.713, respecto de la unidad de pesquería de Congrio dorado, individualizada en el artículo 2º letra k) de la ley Nº 19.713, en el sentido de reemplazar en su párrafo segundo la expresión "Merluza común" por la expresión "Congrio dorado sur exterior".
+
+Valparaíso, 26 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
