@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.854, de 26 de agosto de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 95101023 presentada por CULTIVADORA DE SALMONES LINAO LIMITADA, para instalar y operar un centro de cultivo ubicado en estero Reloncaví, al norte de punta Medano, Llano del Yate, X Región.
+
+Valparaíso, 26 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
