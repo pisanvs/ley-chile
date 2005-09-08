@@ -1,0 +1,5 @@
+AUTORIZA COMO EMISORES ELECTRONICOS A CONTRIBUYENTES QUE SE INSCRIBAN EN LA APLICACION DE FACTURACION ELECTRONICA, DISPUESTA POR EL SII
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 86 de 01/09/2005, que establece normas para autorizar a contribuyentes como emisores electrónicos, que se inscriban en la aplicación de facturación electrónica dispuesta por este Servicio. Autoriza como emisores de documentos tributarios electrónicos a contribuyentes que se inscriban en la aplicación de facturación electrónica, disponible en el portal tributario Mipyme publicado por el SII en su oficina virtual en Internet, observando los requisitos exigidos.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de septiembre de 2005.
