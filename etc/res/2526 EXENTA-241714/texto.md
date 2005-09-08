@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.526, de 8 de agosto de 2005, de esta Subsecretaría, autorízase a SALVADOR DE LA CRUZ AHUMADA CEPEDA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en pasaje Lord Cochrane s/n, Bucalemu, comuna de Paredones, VI Región, donde podrá elaborar en las líneas de proceso de Cocido el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 8 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
