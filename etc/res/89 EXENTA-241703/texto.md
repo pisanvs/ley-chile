@@ -1,0 +1,7 @@
+REGULA LA EMISION DE BOLETAS ELECTRONICAS Y DE BOLETAS NO AFECTAS O EXENTAS ELECTRONICAS POR PARTE DE LOS BANCOS E INSTITUCIONES FINANCIERAS Y MODIFICA AUTORIZACION OTORGADA A ESTOS CONTRIBUYENTES PARA EXIMIRSE DE LA OBLIGACION DE EMITIR DOCUMENTOS TRIBUTARIOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 89 del 2 de septiembre de 2005, que establece:
+
+Se ha autorizado a los Bancos e Instituciones Financieras, que operen como emisores de documentos tributarios electrónicos, para eximirse de la obligación de enviar las representaciones impresas de las boletas electrónicas o boletas no afectas o exentas electrónicas a sus receptores, siempre que cumplan con las obligaciones de mantener disponible en una página web los ejemplares imprimibles, así como de facilitar la entrega de dichas representaciones en todas sus sucursales. Adicionalmente, se ha prorrogado parcialmente la entrada en vigencia de la Res. Ex. SII Nº 7, de 14.01.2005, modificada por la Res. Ex SII Nº 65, de 30.06.2005.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en septiembre del 2005.
