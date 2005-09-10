@@ -16036,11 +16036,9 @@ b) Bonos u obligaciones de renta de Estados, Bancos Centrales e instituciones in
 
 c) Cuotas de fondos mutuos.
 
-3.3.- Inversiones en títulos de deuda de sociedades securitizadoras.
+3.3.- Bonos provenientes de securitizaciones.
 
-Las inversiones en títulos de deuda emitidos por las sociedades securitizadoras quedaran sujetas al límite individual de crédito del articulo 84 N° 1 por cada patrimonio separado que administren.
-
-En el caso de que la sociedad Securitizadora sea filial del banco, esas inversiones realizadas en cualquiera de los patrimonios quedarán sujetas a las disposiciones que afectan a las personas relacionadas, conforme al artículo 84 N° 2 de la Ley General de Bancos.
+Las inversiones en títulos de deuda originados en securitizaciones, se computarán como deuda directa del correspondiente patrimonio separado. Cuando el subyacente de dichos títulos consista en flujos futuros, además del patrimonio separado también se considerará como deudor directo a la entidad que origina dichos flujos.
 
 ### 4. Deudas directas e indirectas
 
@@ -16726,7 +16724,7 @@ a) Colocaciones efectivas o contingentes.
 
 b) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando hayan sido vendidos con pacto de retrocompra por una persona relacionada.
 
-c) Instrumentos emitidos por empresas relacionadas que se mantengan como inversiones financieras. Al tratarse de títulos emitidos por una sociedad Securitizadora, para efectos del artículo 84 N° 2 se computarán los instrumentos cuando sean emitidos por las sociedades que tengan la calidad de filial de la institución financiera, considerándolos en el grupo correspondiente a las sociedades en las cuales participa la institución financiera.
+c) Inversiones en instrumentos emitidos por empresas relacionadas adquiridos para negociación o inversión. Al tratarse de bonos provenientes de una securitización, el correspondiente patrimonio separado no se considerará como entidad relacionada aun cuando lo sea la sociedad securitizadora que lo administra, debiendo computarse esos bonos para efectos del artículo 84 N° 2 sólo cuando sus subyacentes sean flujos futuros originados por una empresa relacionada y junto con las demás deudas que ella tuviere.
 
 d) Operaciones de Forward de monedas y de unidades de fomento, las que deben computarse para estos efectos según lo establecido en los Capítulos 13-2, 13-23 y 8-36 de esta Recopilación.
 
