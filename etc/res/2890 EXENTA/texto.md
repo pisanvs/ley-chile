@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.890, de 29 de agosto de 2005, de esta Subsecretaría, autorízase a PESCA CHILE S.A., para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Patricio Lynch Nº 213, Puerto Chacabuco, comuna de Aysén, XI Región, en las líneas de proceso de harina y aceite, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 29 de agosto de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
