@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.776, de 25 de agosto de 2005, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con el proyecto denominado "Servicios ecosistémicos del bosque nativo bajo fluctuaciones climáticas".
+
+El objetivo de la pesca de investigación consiste en determinar la abundancia y distribución de la fauna íctica en los sistemas fluviales del área de estudio, estimar la densidad de juveniles salmónidos y caracterizar las cadenas tróficas y sus relaciones con las áreas riparianas.
+
+La pesca de investigación se efectuará por el término de un año en cuencas de los siguientes ríos ubicados en la VI a la X Regiones: Rapel, Mataquito, Maule, Itata, Bío-Bío, Toltén, Valdivia, Bueno, Maullín, Petrohué y Chamiza. La peticionaria podrá realizar dos campañas de muestreo en cada curso de agua, para capturar con pesca eléctrica, con devolución, las especies Salmón coho, Salmón del Atlántico, Salmón rey, Trucha arcoiris, Trucha café y Trucha de arroyo, Pejerrey, Pocha del sur, Tollo de agua dulce, Peladilla, Farionela listada, Puye, Puye chico, Puye grande, Lamprea y Perca trucha, y sin devolución, 5 ejemplares de salmónidos en cada campaña y estación de muestreo individualizada.
+
+Valparaíso, 25 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
