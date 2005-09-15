@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.817 de 26 de agosto de 2005 de esta Subsecretaría, autorízase a EMPRESA CULTIVOS MARINOS FLAMENCO S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Panamericana Norte Km. 940, Sector Caleta Flamenco, Comuna de Chañaral, III Región, donde podrá elaborar en las líneas de proceso de Fresco Enfriado, Fresco Refrigerado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
