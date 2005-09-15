@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.625, de 18 de agosto de 2005, de esta Subsecretaría, modifícase la resolución Nº 1.137 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE CONCEPCION para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Interacción Jibia (Dosidicus gigas) - pequeños pelágicos (Sardina común y Anchoveta) en la pesquería artesanal de cerco, VIII Región", en los siguientes términos:
+
+a) En su numeral 3º, en el sentido de extender el plazo de ejecución de la presente pesca de investigación en 8 meses, contados desde la fecha de la resolución Nº 1.137 de 2005, antes citada, y b) En su numeral 5, en el sentido de aumentar a un 50% por viaje de pesca el porcentaje de Anchoveta y Sardina común autorizadas a ser extraídas en calidad de fauna acompañante del recurso Jibia.
+
+Valparaíso, 18 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
