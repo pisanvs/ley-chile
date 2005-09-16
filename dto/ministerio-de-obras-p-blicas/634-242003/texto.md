@@ -1,0 +1,3 @@
+Por decreto MOP Nº 634 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 1, superficie 62.000 m², rol Nº 158-49, comuna de Cochamó, para la obra "Camino Puelo Paso El Bolsón, sector Lago Tagua Tagua-Llanada Grande Km. 12,530 a Km. 32,500", X Región y se acordó el valor de la indemnización con su propietario Agrícola y Ganadera Río Manso Limitada, ascendente a la cantidad de $9.655.000.-
+
+Fiscal del Ministerio de Obras Públicas.
