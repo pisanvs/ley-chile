@@ -1,0 +1,11 @@
+Por decreto exento MOP Nº 799, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 40a, 41, 42, 43, 43a, 44, 45, 46, 47, 48, 49 y 50, para la obra Pavimentación Ruta 7, sector La Zaranda-Portezuelo Queulat, Km. 78,140 a Km. 137,268, que figuran a nombre de Croxatto Avoni Horacio Bruno, Araneda Vásquez Alicia, Araneda Riquelme Tamara y Horacio Bruno Croxatto Avoni, roles de avalúo 532-47, 531-52, 531-81, 531-92 y 531-9, comuna de Lago Verde, superficies 1.341,60 m2.; 3.714,50 m2.; 99,50 m2.; 252,60 m2.; 2.669,60 m2.; 3.597 m2.; 742 m2.;
+
+1.836,40 m2.; 831,80 m2.; 1.049,30 m2.; 1.432,70 m2.;
+
+87,90 m2.; 6.072,20 m2.; 1.438,60 m2.; 2.402,20 m2.;
+
+2.358,39 m2.; 151,70 m2.; 453,70 m2.; 5.529,10 m2.;
+
+3.938,01 m2.; 34 m2.; 2.898,70 m2.; 784,90 m2.; 866,70 m2.; 5.382,60 m2.; 514 m2. y 6.112,40 m2. La Comisión de Peritos, fijó con fecha 22 de mayo de 2001, complementada por actas de fechas 17 de mayo de 2004 y 14 de junio de 2005, en las cantidades de $36.223, para el lote Nº26, $100.292, para el lote Nº27, $2.687, para el lote Nº28, $6.820, para el lote Nº29, $68.074, para el lote Nº30, $50.359, para el lote Nº31, $8.904, para el lote Nº32, $20.200, para el lote Nº33, $9.149, para el lote Nº34, $11.542, para el lote Nº35, $21.491, para el lote Nº36, $967, para el lote Nº37, $66.795, para el lote Nº38, $15.825, para el lote Nº39, $26.425, para el lote Nº40, $1.669, para el lote Nº41, $6.806, para el lote Nº42, $293.105, para el lote Nº43, $374, para el lote Nº44, $29.276, para el lote Nº45, $657.253, para el lote Nº46, $13.001, para el lote Nº47, $74.209, para el lote Nº48, $20.654, para el lote Nº49, $67.236, para el lote Nº50 y con fecha 31 de agosto de 2004, en las cantidades de $40.093, para el lote Nº40a y $66.946, para el lote Nº43a. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
