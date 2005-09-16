@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 800, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 17, 18, 19, 20, 21, 22 y 23, para la obra Pavimentación Ruta 7, sector La Zaranda-Portezuelo Queulat, Km. 78,140 a Km. 137,268, que figuran a nombre de Jofré Ortiz Juvenal Solano, rol de avalúo 532-40, comuna de Aysén, superficies 1.296,80 m2.; 548,40 m2.; 623,90 m2.; 174,40 m2.; 5.836,90 m2.;
+
+3.140,90 m2. y 1.152,20 m2. La Comisión de Peritos, fijó con fecha 22 de mayo de 2001, complementada por acta de fecha 14 de junio de 2005, en las cantidades de $16.858, para el lote Nº17, $21.936, para el lote Nº18, $17.470, para el lote Nº19, $2.616, para el lote Nº20, $43.194, para el lote Nº21, $53.386, para el lote Nº22, $19.585, para el lote Nº23. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
