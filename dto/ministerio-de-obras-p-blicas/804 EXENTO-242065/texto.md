@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 804, de 19 de agosto de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 40-1 para la obra: "Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Subtramo: Cartagena - Las Cruces Km.
+
+0.700,00 al Km. 1.540,00", Quinta Región, que figura a nombre de Cárcamo Solís de Ovando Olga Cec, rol de avalúo 1100-59, comuna de Cartagena, superficie 555 m2. La comisión de peritos integrada por los señores Luis Pablo Padilla Vergara, Pablo Daniel Valdés Malinarich y Eduardo Alejandro Silva Aracena, fijó con fecha 28 de febrero de 2005, el valor provisional de la indemnización en la cantidad de $1.665.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
