@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 818, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 32, para la obra Camino Rutas W-65 y W-55, sector Cruce Longitudinal (Pid - Pid) - Putemún - Dalcahue, Km. 0,000 a Km. 11,991647, que figura a nombre de Pesquera Unimarc S.A., Rol de avalúo 1128-25, comuna de Castro, X Región, superficie 648,02 M2. La comisión de peritos fijó con fecha 22 de diciembre de 1998 en la cantidad de $648.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
