@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 811, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº4-A, para la obra Habilitación Nuevo Camino La Pólvora, Km. 17,86424 - 22,47179, Sector 3: Quebrada Las Animas - Puerto Valparaíso, que figura a nombre de Uniopor, Rol de avalúo 1267-15, comuna de Valparaíso, V Región, superficie 2.251,71 M2. La comisión de peritos fijó con fecha 14 de junio de 2005, en la cantidad de $2.026.539. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
