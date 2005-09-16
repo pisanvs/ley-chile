@@ -1,0 +1,3 @@
+Por decreto MOP Nº 678 de fecha 18 de agosto de 2005, se dejó sin efecto el decreto MOP Nº 611 de fecha 20 de julio de 2004, y se modificó el decreto MOP Nº 142 de fecha 5 de marzo de 2003, que autorizó la expropiación del lote de terreno Nº 115L4 entre otros, de la obra: "Proyecto Línea 4, sector A. Vespucio-Pte. Alto", y se aprobó el convenio directo de precios suscrito entre el Metro S.A., y don Alfredo Dunner Martin y otra, por el cual se fijó el monto de la indemnización definitiva a pagar en la suma de $797.438.285.
+
+- Fiscal Ministerio de Obras Públicas.
