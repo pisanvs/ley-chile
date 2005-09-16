@@ -1,0 +1,3 @@
+Por decreto MOP Nº 652 de 29 de julio de 2005, se expropiaron los lotes de terrenos Nºs. 82 y 82-A, superficies 128 y 476 m², respectivamente, Rol Nº 615-806, comuna de Nueva Imperial, IX Región para la obra "Camino Ruta S-16, sector Chol - Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Subtramo II Km. 29,840 al Km. 35,215", y se acordó el valor de indemnización con su propietaria Teresa Huilipan Neculqueo, ascendente a la cantidad de $7.149.068.-
+
+Fiscal del Ministerio de Obras Públicas.
