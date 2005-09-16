@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 817, de fecha 19 de agosto de 2005, se autorizó una servidumbre de acueducto continua, inaparente perpetua y gratuita, que afecta al inmueble inscrito a fs. 20.223, Nº 19.394, del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, para la obra "Sistema Américo Vespucio Nor - Poniente Av. El Salto - Ruta 78. Sector 1, Avenida El Salto - Avenida Pedro Fontova, Canal y Colector de Aguas Lluvias Huechuraba".
+
+- Fiscal del Ministerio de Obras Públicas.
