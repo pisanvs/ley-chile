@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 814, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122 y 123 para la obra Pavimentación Ruta 7, sector La Zaranda - Portezuelo Queulat, Km.
+
+78,140 a Km. 137,268, que figuran a nombre de Humeres González Raúl y Oyarzo Oyarzo Septimio, rol de avalúo 1023-6 y 1023-31, comuna de Aysén, superficies 5.466 M2.; 235 M2.; 8.728 M2.; 2.539 M2.; 4.077 M2.; 6.365 M2.; 3.086 M2.; 453 M2.; 277 M2.; 329 M2.; 1.470 M2.;
+
+5.603 M2. y 7.373 M2. La Comisión de Peritos fijó con fecha 10 de junio de 2002, complementada por acta de fecha 14 de junio de 2005, en las cantidades de $121.078, para el lote Nº111, $4.485, para el lote Nº112, $165.832, para el lote Nº113, $58.397, para el lote Nº114, $110.079, para el lote Nº115, $171.855, para el lote Nº116, $46.290, para el lote Nº117, $8.607, para el lote Nº118, $5.263, para el lote Nº119, $6.251, para el lote Nº120, $27.930, para el lote Nº121, $151.281, para el lote Nº122 y $95.847, para el lote Nº123. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
