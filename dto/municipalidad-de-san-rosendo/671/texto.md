@@ -1,0 +1,5 @@
+NOTIFICACION EXTRACTO EXPROPIACION
+
+Decreto Nº 671, de 28 julio de 2005, Municipalidad de San Rosendo ordenó expropiación parcial inmueble ubicado sector Matadero, rol avalúo 501-023, Comuna San Rosendo, superficie 10.700 m² de terreno dentro de polígono y linderos señalados plano de expropiación, de aparente dominio de Pedro Segundo Avila Concha, para ejecución PMB del Programa Chile Barrio, para ejecución programa de viviendas, obras de infraestructura, etc. En comuna de San Rosendo, conforme artículo 7 ley 18.138 y DL 2.186. Comisión peritos integrada Luis Edgardo Abarzúa Ceballos, constructor civil, Eduardo Servando Cerda Ureta, arquitecto, Carlos Luigui Rozas Olate, arquitecto, según informe de fecha 7 de junio de 2005, fijó monto indemnización provisional indemnización en $6.980.000.- pagadero de contado.-
+
+Oviedo Sepúlveda San Martín, Alcalde.
