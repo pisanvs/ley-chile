@@ -1,0 +1,3 @@
+Por decreto MOP Nº 648 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 2-B, superficie 12.515,5 m², Rol Nº 179-29, comuna de Quellón, X Región para la obra "Camino Ruta 5 Sur, sector Compu - Colonia Yungay, tramo Km. 1.240,00 a Km. 1.257,445 y Sector Curva La Herradura. Tramo Km. 1.263,50 Km. 1.264,309" y se acordó el valor de indemnización con su propietario la Sociedad Besalco Construcciones S.A., ascendente a la cantidad de $19.473.770.- para el lote Nº 2-B.-
+
+Fiscal del Ministerio de Obras Públicas.
