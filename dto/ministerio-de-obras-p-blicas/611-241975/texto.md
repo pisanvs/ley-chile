@@ -1,0 +1,5 @@
+Por decreto MOP Nº 611, de 29 de julio de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la empresa Essbio S.A. los lotes de terreno Nºs 1, 2, 3 y 4 para la obra:
+
+"P.T.A.S. de Dichato, comuna de Tomé, provincia de Concepción, VIII Región del Bío Bío", que figuran a nombre de González Hernández Jaime y García Menchaca Elena y Otros, roles de avalúo Nºs 552-115 y 552-114, comuna de Tomé, VIII Región, superficies: 1.342,17 m2, 3.812,14 m2, 11.187,66 m2 y 1.064,24 m2. La comisión de peritos fijó el monto provisional de la indemnización con fecha 9 de mayo de 2005 en las cantidades de $6.710.850, para el lote Nº1; $9.530.350, para el lote Nº2; $25.009.407, para el lote Nº3, y $4.870.376, para el lote Nº4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
