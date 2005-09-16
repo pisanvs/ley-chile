@@ -1,0 +1,3 @@
+Por decreto MOP Nº 646 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 195, superficie 487 m², Rol en trámite, comuna de Pichidegua, VI Región para la obra "Camino Colchagua - Pichidegua, sector San Roberto - Cruceros, tramo Km. 12,30000 a Km. 26,00400", y se acordó el valor de indemnización con su propietaria Lucía del Carmen Arce Villaseca y otros, ascendente a la cantidad de $4.943.234.-
+
+Fiscal del Ministerio de Obras Públicas.
