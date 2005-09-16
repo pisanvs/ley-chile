@@ -1,0 +1,3 @@
+Por decreto MOP Nº 624 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº4, superficie 1.449 m², Rol Nº 296-111, comuna de Los Vilos, IV Región para la obra "Construcción Puente sobre Río Quilimarí y Accesos, sector Quilimarí, Km. 0,00000 a 0,98350", y se acordó el valor de indemnización con su propietario Manuel Amado Castillo Navarro y Otros, ascendente a la cantidad de $4.987.066.-
+
+Fiscal del Ministerio de Obras Públicas.
