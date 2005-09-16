@@ -1,0 +1,3 @@
+Por decreto MOP Nº 653 de fecha 29 de julio de 2005, se expropiaron los lotes de terreno Nºs. 12 y 17, superficies 12.150 y 17.340 m², Rol Nº 157-34, comuna de Cochamó, X Región para la obra "Camino Puelo Paso El Bolsón, sector Lago Tagua Tagua - Llanada Grande, tramo Km. 12,530 a Km. 32,500" y se acordó el valor de indemnización con su propietaria Florentina Diocares Hermosilla, ascendente a la cantidad de $3.331.705.- para los lotes Nºs. 12 y 17.-
+
+Fiscal del Ministerio de Obras Públicas.
