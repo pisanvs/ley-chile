@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº801, de 19 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 3-H, 11-B y 24-A1, para la obra Camino Ruta F-190, sector Colmo-Puchuncaví, Tramo Km.
+
+0,00000 a Km. 25,22591, que figuran a nombre de Soc. Agrícola Alto Colmo Limitada, Pedro Orlando Moya González y Larraín Plaza Camilo, roles de avalúo 271-094, 630-046 y 271-001, Comunas de Quillota, lote Nº3-H y Quintero, lotes 11-B y 24-A1, V Región, superficies 97,95 m2.; 94 m2. y 640 m2. La Comisión de Peritos, fijó con fecha 18 de diciembre de 2004, en la cantidad de $543.850, para el lote Nº3-H, con fecha 9 de diciembre de 2003, en la cantidad de $717.972, para el lote Nº11-B y con fecha 18 de mayo de 2004, en la cantidad de $988.000, para el lote Nº24-A1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
