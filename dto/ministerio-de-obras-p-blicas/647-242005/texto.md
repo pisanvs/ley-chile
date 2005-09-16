@@ -1,0 +1,3 @@
+Por decreto MOP Nº 647 de fecha 29 de julio de 2005, se expropió el lote de terreno Nº 23, superficie 22.556 m², Rol Nº 158-43, comuna de Cochamó, X Región para la obra "Camino Puelo Paso El Bolsón, sector Lago Tagua Tagua - Llanada Grande, Km. 12,530 a Km. 32,500" y se acordó el valor de indemnización con su propietario José Selso Téllez Guerrero, ascendente a la cantidad de $3.526.702.- para el lote Nº23.-
+
+Fiscal del Ministerio de Obras Públicas.
