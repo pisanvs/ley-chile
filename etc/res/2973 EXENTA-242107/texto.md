@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.973, de 8 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111245 presentada por MARINE HARVEST CHILE S.A., para instalar y operar un centro de cultivo ubicado en Golfillo de la Lobada de Quetros, sector ensenada noreste de Isla Cuptana, XI Región.
+
+Valparaíso, 8 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
