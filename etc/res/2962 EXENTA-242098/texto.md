@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.962, de 8 de septiembre de 2005, de esta Subsecretaría, rectifícase el numeral 5º de la resolución Nº 2.603, modificada por resolución Nº 2.620, ambas de 2005, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Determinación de la Distribución Espacial de Jurel entre la V y X Regiones, Invierno 2005", en el sentido de indicar que el armador autorizado para operar la nave industrial "Santa María II" es la empresa Lota Protein S.A.
+
+Valparaíso, 8 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
