@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.905, de 1 de septiembre de 2005, de esta Subsecretaría, modifícase el numeral 5º inciso 3º letra b) de la resolución Nº 2.523 de 2005, modificada mediante resolución Nº 2.598 de 2005, ambas de esta Subsecretaría de Pesca, que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución y abundancia de las agregaciones reproductivas de merluza de cola", en el sentido de señalar que a continuación se indica:
+
+a) Las capturas de Merluza del sur que realice el B/F "Ocean Dawn", se imputarán a los límites máximos de capturas de los armadores Friosur VIII S.A., Friosur IX S.A. y Friosur X S.A., en el orden sucesivo antes señalado, conforme se agote el límite del respectivo armador. Esta regla de imputación operará una vez agotada la reserva de fauna acompañante del mencionado recurso.
+
+b) La embarcación antes señalada sólo podrá capturar el recurso Merluza del sur en calidad de fauna acompañante en la pesca dirigida al recurso Merluza de cola en un porcentaje máximo de hasta un 1%, medido en peso en relación a la especie objetivo, por viaje de pesca.
+
+Valparaíso, 1 de septiembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
