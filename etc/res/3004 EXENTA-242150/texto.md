@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.004 de 8 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204041001 presentada por ALEJANDRO FRANCISCO DIAZ MIRANDA, para instalar y operar un centro de cultivo ubicado en Bahía Conchalí; Ensenada Agua Amarilla, sector Punta Chungo, IV Región.
+
+Valparaíso, 8 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
