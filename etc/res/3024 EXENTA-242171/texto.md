@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.024, de 8 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº203101281 presentada por PRODUCTOS DEL MAR VESTISQUEROS S.A., para instalar y operar un centro de cultivo ubicado en Canal Cholgo, Rada Potreros de Cholgo, Isla Llancahue, X Región.
+
+Valparaíso, 8 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
