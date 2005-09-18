@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.954, de 7 de septiembre de 2005, de esta Subsecretaría, autorízase a NANAIMO S.A., RUT Nº 79.863.260-4, con domicilio en Camino La Vara Nº 2980, San Bernardo, Región Metropolitana, para continuar desarrollando las actividades pesqueras de transformación autorizadas a Importadora y Exportadora Nanaimo S.A. RUT 96.579.880-3, de igual domicilio, autorizada por la resolución Nº 878 de 1997 de esta Subsecretaría.
+
+Autorízase a Nanaimo S.A., para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Camino La Vara Nº 2980, San Bernardo, Región Metropolitana, en la línea de proceso de Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
