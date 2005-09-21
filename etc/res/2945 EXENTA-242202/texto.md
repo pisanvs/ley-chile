@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.945, de 7 de septiembre de 2005, de esta Subsecretaría, autorízase a Pan Fish Chile S.A., hoy Chilean Aquaculture S.A., para transferir a Piscicola Hornopiren S.A., la piscicultura ubicada en La Chalupa, X Región, autorizada por resolución Nº 1.802 de 2001, transferida por resolución Nº 1.579 de 2002, ambas de esta Subsecretaría.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
