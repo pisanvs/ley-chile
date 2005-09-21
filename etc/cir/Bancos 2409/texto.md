@@ -10014,13 +10014,11 @@ También podrán postular a la garantía del Fondo las personas jurídicas sin f
 
 #### Artículo 3°
 
-Las ventas netas anuales a que se refiere el inciso primero del artículo 2°, corresponderán a ventas netas del impuesto al valor agregado (IVA) de los bienes, productos o servicios propios del giro de la empresa, declaradas para el pago de dicho impuesto.
+Las ventas anuales a que se refiere el inciso primero del artículo 2°, corresponderán a las ventas netas del impuesto al valor agregado (IVA) de los bienes, productos o servicios propios del giro de la empresa, registradas en los doce meses inmediatamente anteriores a la fecha en que se otorga el financiamiento.
 
-La suma de esas ventas no debe exceder el respectivo límite señalado en el mencionado inciso primero del artículo 2°, tanto para las ventas realizadas en el año calendario anterior al del otorgamiento del crédito, como para el período de 12 meses anteriores a la fecha de la solicitud.
+La suma de esas ventas no debe exceder el respectivo límite señalado en el mencionado inciso primero del artículo 2°.
 
-Al tratarse de postulantes distintos de los exportadores a que se refiere el inciso tercero del artículo 2° que no hayan iniciado sus actividades o, si entre el comienzo de éstas y la presentación de la solicitud hubiere transcurrido un período inferior a seis meses, las ventas netas anuales se determinarán sobre la base de una estimación fundada del importe máximo de ventas anuales posible de obtener en plena actividad.
-
-Si la iniciación de ventas del postulante es anterior en más de seis meses a la fecha de la solicitud, pero no ha alcanzado a cubrir un período de 12 meses, se considerará para los meses faltantes el promedio mensual de las ventas ya declaradas. No obstante, si se trata de una actividad cuyos ciclos de producción y venta son estacionales, se estimarán las ventas según lo indicado en el inciso anterior.
+En el caso de los exportadores a que se refiere el inciso tercero del artículo 2° de este Reglamento, se considerará el promedio de las ventas netas de los dos años calendario anteriores, previo su reajuste en la forma determinada en el artículo 3° de la ley.
 
 #### Artículo 4°
 
