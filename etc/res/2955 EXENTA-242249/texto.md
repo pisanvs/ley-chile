@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.955, de 7 de septiembre de 2005, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL E INDUSTRIAL AGROMAR LIMITADA, para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Teniente Merino Nº004, Dalcahue, X Región, en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
