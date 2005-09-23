@@ -1,0 +1,7 @@
+Por resolución exenta Nº2.788, de 25 de agosto de 2005, de esta Subsecretaría, modifícase la resolución Nº3.712 de 2004, modificada mediante resoluciones Nº270, Nº1.057 y Nº1.786, todas de 2005, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Optimización del sistema para la administración y seguimiento de la pesquería artesanal de Merluza del sur (Merluccius australis) en aguas interiores de la Décima Región, año 2005", en el sentido de autorizar a la Zona Hualaihué unificada a realizar labores de investigación entre los días 27 al 31 de agosto de 2005, ambas fechas inclusive. Las actividades autorizadas se someterán a las siguientes reglas:
+
+a) En el período y zona autorizada, se podrá extraer un máximo de 223 toneladas de Merluza del sur, las que se imputarán a los saldos no capturados de la Zona Hualaihué unificada, correspondientes al período enero-julio del presente año.
+
+b) Las labores de investigación autorizadas se entenderán exceptuadas del cumplimiento de la veda biológica del recurso Merluza del sur establecida mediante decreto exento Nº140, de 1996, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
