@@ -1,0 +1,7 @@
+Por resolución Nº 2.897, de 31 de agosto de 2005, de esta Subsecretaría, modifícase la resolución Nº 3.729, de 2004, modificada mediante resoluciones Nº 181, Nº 861, Nº 1.062, Nº 1.649, Nº 1.869, Nº 1.911, Nº 2.397, Nº 2.843, todas de 2005, de esta Subsecretaría de Pesca, que autorizó a la UNIVERSIDAD DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Administración de un sistema de control de esfuerzo y desembarque de capturas en la pesquería artesanal de Merluza del sur de la XI Región", en los términos que a continuación se indican:
+
+a) En el numeral 4º inciso 1º, en el sentido de señalar que las cuotas de investigación de Merluza del sur autorizadas para el periodo septiembre-diciembre, para las flotas que se indican, expresadas en kilos serán las señaladas en la resolución extractada.
+
+b) En su numeral 5º, iv), en el sentido de señalar que las reglas señaladas en la letra anterior se aplicarán al pescador artesanal que se desafilie de una organización asignataria de cuota y se incorpore a la cuota residual de la respectiva flota.
+
+Valparaíso, 31 de agosto de 2005.- Edith Saa Collantes, Subsecretaria de Pesca (S).
