@@ -1,0 +1,7 @@
+Por resolución Nº 2.880, de 26 de agosto de 2005, de esta Subsecretaría, autorízase a UNIVERSIDAD CATOLICA DEL NORTE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Extracción de navajas y navajuelas en Bahía de Pichidangui, IV Región de Coquimbo" elaborados por el solicitante y aprobados por esta Subsecretaría, en la zona geográfica que comprende la bahía de Pichidangui, 20 kilómetros al sur de Los Vilos, IV Región.
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza, consiste en evaluar el estado actual de las poblaciones de navaja (Ensis macha) y navajuela (Tagelus dombeii) y realizar una extracción experimental de estos recursos, en la bahía de Pichidangui, IV Región, Chile. Ejecución en dos etapas: a) Etapa I: Evaluación y caracterización del banco. Durará 3 meses desde fecha presente resolución, y b) Etapa II: Extracción del recurso en conformidad a los resultados obtenidos en la Etapa I. Se extenderá por un lapso de nueve meses a contar de la fecha de aprobación del informe de avance indicado en la letra anterior.
+
+Será persona responsable de la pesca de investigación Luis Moncayo Martínez.
+
+Valparaíso, 26 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
