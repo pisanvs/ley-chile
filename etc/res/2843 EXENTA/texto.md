@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.843, de esta Subsecretaría, modifícase la resolución Nº 3.729, de 2004, modificada mediante resoluciones Nº 181, Nº 861, Nº 1.062, Nº 1.649, Nº 1.869, Nº 1.911 y Nº 2.397, todas de 2005, de la Subsecretaría de Pesca, que autorizó a la UNIVERSIDAD DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Administración de un sistema de control de esfuerzo y desembarque de capturas en la pesquería artesanal de Merluza del sur de la XI Región", en el sentido de autorizar al "Sindicato de Trabajadores Independientes de la Pesca Artesanal Nº 1 Islas Huichas de Puerto Aguirre", perteneciente a la Flota Sur 2, a realizar labores de investigación entre los días 29 y 31 de agosto de 2005, ambas fechas inclusive. Las actividades de investigación se someterán a las siguientes reglas:
+
+a) En el período autorizado sólo podrá extraer los saldos no capturados correspondientes al periodo enero-julio del presente año. Para estos efectos el Servicio Nacional de Pesca comunicará oportunamente a los interesados el saldo positivo autorizado.
+
+b) Las labores de investigación autorizadas se entenderán exceptuadas del cumplimiento de la veda biológica del recurso Merluza del sur establecida mediante decreto exento Nº 140, de 1996, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
