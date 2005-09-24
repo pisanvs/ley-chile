@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.940 de 7 de septiembre de 2005 de esta Subsecretaría, autorízase a MARITIMA MALOMACUN S.A. para realizar actividades experimentales de cultivo sobre las especies Corvina y Róbalo, con el objetivo general de conocer el comportamiento de dichas especies en condiciones de cautiverio en balsas jaula.
+
+Las actividades experimentales indicadas se realizarán por el período de dos años, contados desde la fecha de la presente resolución, en la concesión de acuicultura otorgada a Sociedad Industrial, Comercial y Pesquera Malomacún Limitada, mediante D.S. Nº 745 de 1986, renovada mediante D.S. Nº 883 de 1992, ambos del Ministerio de Defensa Nacional, ubicada en un sector entre Isla Malomacún e Isla Toro, X Región.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
