@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.906, de 2 de septiembre de 2005, de esta Subsecretaría, modifícase el numeral 5º bis de la resolución Nº 267, modificada por las resoluciones Nº 2.023 y Nº 2.604, todas de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las agregaciones de jurel en la IV Región, temporada 2005", en el sentido de reemplazar la nave industrial "Alejandría I" por la nave "Don Telésforo".
+
+Valparaíso, 2 de septiembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
