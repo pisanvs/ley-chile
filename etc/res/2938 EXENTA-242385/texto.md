@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.938, de 7 de septiembre de 2005, de esta Subsecretaría, autorízase a RICARDO ANGUIANO Y COMPAÑIA LIMITADA, para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en sector Caleta Portales, Phillippi Nº 325, Valparaíso, V Región, en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
