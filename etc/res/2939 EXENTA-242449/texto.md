@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.939, de 7 de septiembre de 2005, de esta Subsecretaría, modifícase la resolución Nº 616, de 2005, de esta Subsecretaría de Pesca, que autorizó a I PING INDUSTRIAL Y COMPAÑIA LIMITADA para iniciar actividades pesqueras de transformación, en el sentido de indicar que la dirección de la peticionaria y de la planta corresponde a Avenida Araucana Sur Nº 1450, Hualqui, Concepción, VIII Región.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
