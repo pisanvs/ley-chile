@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.957, de 7 de septiembre de 2005, de esta Subsecretaría, autorízase a JOSE LEONARDO MANSILLA VARGAS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Francisco Cabellos Cárdenas Nº 367, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco, Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
