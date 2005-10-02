@@ -1,0 +1,3 @@
+Por decreto exento Nº 851, de 31 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7-B, para la obra "Mejoramiento Ruta S-46, Sector Carahue-Puerto Domínguez, Km. 0,00000 a Km. 7,34893" Provincia de Cautín, IX Región", que figura a nombre de Calfulén Mariqueo Juan Isidro, rol de avalúo Nº 266-418, comuna de Carahue, IX Región, superficie 539 M2. La comisión de peritos fijó con fecha 3 de febrero de 2005, en la cantidad de $188.650. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
