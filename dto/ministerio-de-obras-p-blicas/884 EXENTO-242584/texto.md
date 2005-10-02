@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 884 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 139-B, superficie 277 m2, Rol Nº 764-099, comuna de Lampa, Región Metropolitana para la obra "Camino Ruta G-184-182, sector el Noviciado-Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 a Km. 15,04419" y se acordó el valor de la indemnización con su propietario don Guillermo Manuel Perin Hidalgo, ascendente a la cantidad de $1.131.548.
+
+Fiscal del Ministerio de Obras Públicas.
