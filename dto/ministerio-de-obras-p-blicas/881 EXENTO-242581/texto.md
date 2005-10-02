@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 881 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 74, superficie 61,5 m², Rol Nº 64-10, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central Los Molles, Sector Juntas - Rapel, Tramo 0,00000 a Km. 13,28846, II Etapa", y se acordó el valor de indemnización con su propietario Miguel Enrique Alvarado Oroz, ascendente a la cantidad de $449.129.
+
+Fiscal del Ministerio de Obras Públicas.
