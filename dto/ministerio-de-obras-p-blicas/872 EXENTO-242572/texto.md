@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 872 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 5, superficie 2.273 m², Rol Nº 148-8, comuna de Dalcahue, X Región para la obra "Camino Ruta 5 Sur, Sector Bif. Quemchi-Castro, Tramo Bif. Quemchi-Acceso a Dalcahue, Km. 1.143.500,00 al Km. 1.165.300,00", y se acordó el valor de indemnización con su propietaria Gloria Consuelo Fernández Poveda, ascendente a la cantidad de $3.078.521.
+
+Fiscal del Ministerio de Obras Públicas.
