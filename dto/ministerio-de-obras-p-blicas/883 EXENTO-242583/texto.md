@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 883, de fecha 31 de agosto de 2005, se expropiaron los lotes de terreno Nº s. 365-A y 365-B, superficies 440 y 513 m2 respectivamente, rol Nº 33-96, comuna de Pichidegua, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, sector San Roberto - El Toco - Ruta 66, tramo Km. 12,70000 a Km. 16,48000", VI Región y se acordó el valor de la indemnización con su propietario Reginaldo Rivera Rivera, ascendente a la cantidad de $1.709.845.
+
+Fiscal del Ministerio de Obras Públicas.
