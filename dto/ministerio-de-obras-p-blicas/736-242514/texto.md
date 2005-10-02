@@ -1,0 +1,5 @@
+Por decreto MOP Nº 736 de 30 de agosto de 2005, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 698-2, para la obra "Concesión Internacional Ruta 5 Tramo: Santiago - Talca. Sector C: Acceso Sur a Santiago. Km.
+
+17.700,00 a Km. 46.600,00"; Región Metropolitana, que figura a nombre de Castro Pena Héctor, rol de avalúo 976-15, comuna de Paine, superficie 2.397 m2. La comisión de peritos integrada por los señores Eduardo Alejandro Silva Aracena, Ricardo Antonio Strickler Arellano y Jesús Fernando Díaz Pasmiño, fijó con fecha 30 de mayo de 2005, el valor provisional de la indemnización en la cantidad de $10.471.900.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
