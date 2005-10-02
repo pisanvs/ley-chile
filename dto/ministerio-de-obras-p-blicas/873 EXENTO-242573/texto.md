@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 873 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 40, superficie 87,0 m2, Rol Nº 55-44, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central Los Molles, Sector Juntas - Rapel, Tramo 0,00000 al Km. 13,28846, I Etapa." y se acordó el valor de indemnización con su propietario Felipe Dionisio Tapia, ascendente a la cantidad de $471.966.
+
+Fiscal del Ministerio de Obras Públicas.
