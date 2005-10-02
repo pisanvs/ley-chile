@@ -1,0 +1,3 @@
+Por decreto MOP Nº 879 de 31 de agosto de 2005, se expropió el lote de terreno Nº 2, superficie 6.592,14 m2., rol Nº 2118-33, comuna de Puerto Montt, para la obra "Conexión a Camino rol V-840 - Cruce Longitudinal Salto Chico - Cruce V-86, sector Salto Chico - Pellines, comuna de Puerto Montt, provincia de Llanquihue", X Región, y se acordó el valor de la indemnización con su propietario José Erardo Pérez Villarroel, ascendente a la cantidad de $1.296.985.
+
+Fiscal del Ministerio de Obras Públicas.
