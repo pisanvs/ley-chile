@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 856 de 31 de agosto de 2005, se expropió el lote de terreno Nº 13, superficie 1.311 m2., rol de avalúo Nº 418-4 comuna de Loncoche, para la obra "Reposición Construcción y Habilitación de Camino para Vialidad Complementaria Concesión Internacional Ruta 5, Tramo Temuco - Río Bueno - Puerto Montt, Camino Collimallín", IX Región, y se acordó el valor de la indemnización con su propietario Luis Leandro La Regla, ascendente a la cantidad de $1.107.358.
+
+Fiscal del Ministerio de Obras Públicas.
