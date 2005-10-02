@@ -1,0 +1,5 @@
+DECLARA AREA DE RESTRICCION LOS SECTORES HIDROGEOLOGICOS DE APROVECHAMIENTO COMUN DE TIL-TIL, CHACABUCO, POLPAICO, LAMPA, COLINA SUR, SANTIAGO NORTE Y SANTIAGO CENTRAL, PROVINCIAS DE CHACABUCO, SANTIAGO, CORDILLERA Y MAIPO, REGION METROPOLITANA
+
+Mediante resolución DGA Nº 286, de fecha 1 de septiembre de 2005, se ha declarado Area de Restricción para extracciones de aguas subterráneas, los sectores hidrogeológicos de aprovechamiento común de Til-Til, Chacabuco, Polpaico, Lampa, Colina Sur, Santiago Norte y Santiago Central, ubicados en las provincias de Chacabuco, Santiago, Cordillera y Maipo, Región Metropolitana. Los antecedentes se encuentran disponibles en las oficinas de la Dirección General de Aguas de la Región Metropolitana; del Nivel Central y en la página web de la DGA.-
+
+Humberto Peña T., Director General de Aguas.
