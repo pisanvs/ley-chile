@@ -1,0 +1,3 @@
+Por decreto exento Nº 853, de 31 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7, para la obra "Construcción Puente Vado Buenos Aires, camino Angol - Fundo Buenos Aires, tramo Km. 0,00000 a Km. 0,58200", comuna de Angol, Provincia de Malleco, IX Región", que figura a nombre de Rossi Saavedra Mafalda, rol de avalúo Nº 1466-11, superficie 98,6 m2. La comisión de peritos fijó con fecha 26 de septiembre de 2004, en la cantidad de $568.280. La indeminización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
