@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 877 de 31 de agosto de 2005, se expropiaron los lotes de terrenos Nº s. 115-F y 116-C, superficies 349 y 589 m2. respectivamente, rol Nº 601-39, comuna de Nueva Imperial, IX Región, para la obra "Camino Ruta S-16, sector Chol-Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Sub-Tramo III Km. 35,380 al Km. 43,50000" y se acordó el valor de indemnización con su propietario Eliseo Porma Treumun, ascendente a la cantidad de $666.772.
+
+Fiscal del Ministerio de Obras Públicas.
