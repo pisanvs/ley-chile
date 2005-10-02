@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 858 de fecha 31 de agosto de 2005, se expropió el lote de terreno Nº 46, superficie 54,0 m², Rol Nº 55-23, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central Los Molles, Sector Juntas - Rapel, Tramo 0,00000 a Km. 13,28846, II Etapa", y se acordó el valor de indemnización con su propietario René Adán Puelles Rodríguez, ascendente a la cantidad de $503.128.
+
+Fiscal del Ministerio de Obras Públicas.
