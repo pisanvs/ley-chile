@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 862, de fecha 31 de agosto de 2005, se expropiaron los lotes terrenos Nº s 10, 10-A y 10-B, superficies 1.830 m², 15 m² y 1.434 m² respectivamente, rol Nº 860-22, comuna de Alto del Carmen, III Región, para la obra: "Mejoramiento Ruta C-495, Camino Alto del Carmen - Conay, Provincia de Huasco, Región de Atacama, Etapa I", y se acordó el valor de indemnización con su propietario don Humberto Antonio Cortés Rivera, ascendente a la cantidad de $2.641.855.
+
+Fiscal del Ministerio de Obras Públicas.
