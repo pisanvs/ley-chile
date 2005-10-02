@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 876, de fecha 31 de agosto de 2005, se expropió el lote de terreno Nº 2, superficie 1.298 m2, rol Nº 531-59, comuna de Linares, para la obra "Camino Ruta L-32, Sector Puente Sifón y Accesos, Tramo Km. 0,00000 a Km. 3,20000", VII Región y se acordó el valor de la indemnización con su propietaria María Enriqueta Espinosa Salgado, ascendente a la cantidad de $1.198.407.
+
+Fiscal del Ministerio de Obras Públicas.
