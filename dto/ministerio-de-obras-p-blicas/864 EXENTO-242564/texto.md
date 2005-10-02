@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 864 de fecha 31 de agosto de 2005, se expropió el lote de terreno Nº 5, superficie 1.294 m2, rol Nº 132-46, comuna de El Carmen, VIII Región para la obra "Canal Unificado Km. 0,000 a Km. 1,067, Bocatoma Diguillín", y se acordó el valor de indemnización con su propietario Hugo Franklin Mardones Cancino, ascendente a la cantidad de $966.251.- para el lote Nº 5.
+
+Fiscal del Ministerio de Obras Públicas.
