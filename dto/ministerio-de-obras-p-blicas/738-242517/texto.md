@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 738 de 30 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 66-A para la obra: Camino Ruta J-55 Guaico 3 - P. Vergara, Sector Guaico 3 - La Unión, Tramo km.
+
+0,00000 a km. 7,60000, que figura a nombre de Rodríguez Birrel Patricia y Ots, rol de avalúo 58-3, Comuna de Romeral, VII Región, superficie 8.329 m2. La Comisión de Peritos fijó con fecha 15 de octubre de 2002, complementada por Actas de fechas 23 de junio de 2003 y de fecha 10 de junio de 2004, en la cantidad de $4.543.990.- lote Nº 66-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
