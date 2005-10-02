@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 861 de 31 de agosto de 2005, se expropiaron los lotes de terrenos Nº s 585, 588, 588-B, 588-C y 588-D, superficies 79, 76, 76, 76 y 76 m2 respectivamente, rol Nº 32-54, comuna de Pichidegua, VI Región, para la obra "Camino Conexión Vial Pichidegua - Las Cabras, Sector San Roberto - El Toco - Ruta 66, Tramo Km. 0,00000 a Km. 12,7000" y se acordó el valor de indemnización con su propietaria Agrícola Santa Lucía Limitada, ascendente a la cantidad de $1.8048.868.
+
+Fiscal del Ministerio de Obras Públicas.
