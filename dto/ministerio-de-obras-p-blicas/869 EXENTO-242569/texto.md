@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 869 de fecha 31 de agosto de 2005, se expropiaron los lotes de terreno Nº s 22-A y 22-B, superficies 35 y 27 m2, respectivamente, rol Nº 58-50, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3-P. Vergara, sector Guaico 3-La Unión, Kms. 0,00000 al Km. 7,60000", VII Región y se acordó el valor de la indemnización con su propietario Luis Alberto Riveros Araya, ascendente a la cantidad de $344.034.
+
+Fiscal del Ministerio de Obras Públicas.
