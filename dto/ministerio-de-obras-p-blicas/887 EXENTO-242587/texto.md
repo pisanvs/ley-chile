@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 887 de fecha 31 de agosto de 2005, se expropió el lote de terreno Nº 7, superficie 355 m², Rol Nº 142-021, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, Provincia de Huasco, Región de Atacama, Etapa I", y se acordó el valor de indemnización con su propietaria Ximena Doris Aurora Cabezas Rojas, ascendente a la cantidad de $552.616.
+
+Fiscal del Ministerio de Obras Públicas.
