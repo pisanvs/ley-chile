@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 885 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 84-A, superficie 70 m2, rol Nº 59-18, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3 - P. Vergara, sector Guaico 3 - La Unión, Km. 0,00000 al Km. 7,60000", VII Región y se acordó el valor de la indemnización con su propietario Nancy Eliana del Carmen Llantén Medina, ascendente a la cantidad de $429.643.
+
+Fiscal del Ministerio de Obras Públicas.
