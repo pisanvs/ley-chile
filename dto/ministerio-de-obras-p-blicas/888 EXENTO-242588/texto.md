@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 888 de 31 de agosto de 2005, se expropió el lote de terreno Nº 11-A, superficie 1.102 m², Rol Nº 267-107, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, Sector Carahue-Puerto Domínguez, Km.0,00000 a Km.7,34893" y se acordó el valor de indemnización con su propietaria María Esilda Riffo Vergara y otros, ascendente a la cantidad de $1.208.720.
+
+Fiscal del Ministerio de Obras Públicas.
