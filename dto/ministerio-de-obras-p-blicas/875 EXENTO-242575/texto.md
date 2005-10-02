@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 875 de fecha 31 de agosto de 2005, se expropió el lote de terreno Nº 5, superficie 383 m², Rol Nº 142-020, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, Provincia de Huasco, Región de Atacama, Etapa I", y se acordó el valor de indemnización con su propietaria María Georgina Camblor Vega, ascendente a la cantidad de $1.453.138.
+
+Fiscal del Ministerio de Obras Públicas.
