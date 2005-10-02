@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 871 de fecha 31 de agosto del 2005, se expropiaron los lotes de terreno Nº s 172 y 174, superficies 2.316,00 y 2.279,00 m2, Rol Nº 112-37, comuna de Queilen, X Región para la obra "Camino Ruta W-853, Teupa-Queilen, Sector Santa María-Queilen, Tramo Km. 25,96000 al Km. 42,34833" y se acordó el valor de indemnización con su propietario Héctor Servando Márquez Márquez, ascendente a la cantidad de $1.325.598.- para los lotes Nº s 172 y 174.
+
+Fiscal del Ministerio de Obras Públicas.
