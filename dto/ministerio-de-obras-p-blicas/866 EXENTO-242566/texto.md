@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 866 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 9, superficie 646 m², Rol Nº 142-023, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, Provincia de Huasco, Región de Atacama, Etapa I", y se acordó el valor de indemnización con su propietario Fernando Alberto Cabezas Rojas, ascendente a la cantidad de $1.042.952.
+
+Fiscal del Ministerio de Obras Públicas.
