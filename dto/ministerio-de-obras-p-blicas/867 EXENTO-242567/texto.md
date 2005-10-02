@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 867 de fecha 31 de agosto de 2005, se expropió el lote de terreno Nº 55, superficie 3.148 m2, rol Nº 270-170, comuna de Tucapel, para la obra "Mejoramiento Ruta Q-965, Huepil - Trupán - Polcura, Tramo I Km. 0,00000 a Km. 12,54000", VIII Región y se acordó el valor de la indemnización con su propietario José Segundo Ulloa Valenzuela, ascendente a la cantidad de $2.362.375.
+
+Fiscal del Ministerio de Obras Públicas.
