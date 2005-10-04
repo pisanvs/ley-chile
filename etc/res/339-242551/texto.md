@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION Nº 339, DE 2005
+
+Por resolución Nº 339, de fecha 29 de agosto de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones XII Región, prorrógase en forma extraordinaria la vigencia del contrato de concesión para operar el establecimiento que practica revisión técnica de vehículo clase AB en la ciudad de Porvenir Región de Magallanes, celebrado con el señor Luis Muñoz Muñoz, de fecha 22 de junio de 1999 aprobado por resolución Nº 44/99 y resolución de prórroga Nº 0227/04 y 0137 del 06.04.2005, todas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones hasta el 29 de septiembre de 2005, o hasta que la demanda del servicio de revisión técnica pueda ser adecuadamente satisfecha con la operación de todos o parte de los establecimientos que se concesionaron en la XII Región de Magallanes y Antártica Chilena, lo que será determinado por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, mediante resolución fundada, cualquiera de los hechos que ocurra primero.
+
+En virtud de esta prórroga se mantienen vigentes las demás estipulaciones, derechos obligaciones, procedimientos, así como las garantías que se contemplan en el contrato que se prorroga, según consta de la convención de prórroga que se acompaña y que forma parte integrante de la presente resolución.
+
+- Gustavo Faraldo Iriarte, Secretario Regional Ministerial de Transportes y Telecomunicaciones XII Región.
