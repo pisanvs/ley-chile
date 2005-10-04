@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.049, de 13 de septiembre de 2005, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 2.227 de 2005, de esta Subsecretaría, que autorizó a la PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Prospección de la unidad de pesquería sur de Langostino amarillo y Langostino colorado, año 2005", en el sentido de extender el período de vigencia de la presente pesca de investigación hasta el día 5 de octubre de 2005, inclusive.
+
+Valparaíso, 13 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
