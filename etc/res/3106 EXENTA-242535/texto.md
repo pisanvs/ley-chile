@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.106, de 16 de septiembre de 2005 de esta Subsecretaría, autorízase a SANTANA Y COMPAÑIA LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Serrano Nº 365, Mejillones, Antofagasta, II Región, en las líneas de proceso de Cocido, Fresco- Enfriado, Fresco-Refrigerado, Congelado, Seco-Salado, Ahumado, Conserva y Deshidratado el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 16 de septiembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
