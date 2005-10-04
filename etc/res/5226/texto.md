@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCION Nº 5.226, DE 2005. APRUEBA INSTRUCTIVO TECNICO PARA EL ANALISIS DE RING TEST E INSTRUCTIVO TECNICO PARA EL ANALISIS DE ROSA DE BENGALA Y DEROGA RESOLUCIONES Nºs 2.034/1996, 716/1998 Y 3.377/1995, EN SENTIDO QUE INDICA
+
+1. Apruébase el "Instructivo Técnico para el Análisis de Ring Test" y el "Instructivo Técnico para el Análisis de Rosa de Bengala", los cuales se entenderán formar parte integrante de la presente resolución.
+
+2. Los laboratorios que actualmente se encuentren con acreditación vigente para realizar diagnósticos de Brucelosis bovina mediante las técnicas de Rosa de Bengala o Ring Test, a la fecha de entrada en vigencia de la presente resolución, podrán continuar desarrollando las funciones para las cuales se encuentran autorizados hasta el día 31 de marzo de 2006. Sin perjuicio de lo anterior, éstos deberán postular a una nueva acreditación en la forma y condiciones exigidas en el Reglamento Específico para la acreditación de laboratorios de Análisis/Ensayo aprobado por resolución exenta Nº 355 de 27 de enero de 2005, así como aquellas definidas en el Instructivo Técnico que aprueba la presente resolución.
+
+3. Derógase la resolución exenta Nº 2.034 de 8 de julio de 1996, del Director Nacional, que delega facultad que indica en el Jefe de Departamento de Protección Pecuaria, la resolución exenta Nº 3.377 de 24 de noviembre de 1995, del Director Nacional, que aprueba Reglamento de Acreditación de Médicos Veterinarios y Laboratorios de Diagnóstico para acciones en los proyectos que señala en materia de salud animal, y la resolución exenta Nº 716 de 11 de marzo de 1998, del Director Nacional, que modifica Reglamento de Acreditación de Laboratorios de Diagnóstico aprobado por resolución Nº 3.377, de 24 de noviembre de 1995.
+
+4. El texto completo de la presente resolución, así como del "Instructivo Técnico para el Análisis de Ring Test" y del "Instructivo Técnico para el Análisis de Rosa de Bengala", estarán a disposición de los usuarios en la página web del Servicio Agrícola y Ganadero (www.sag.cl).
+
+Anótese, transcríbase y publíquese.- Francisco Bahamonde Medina, Director Nacional.
