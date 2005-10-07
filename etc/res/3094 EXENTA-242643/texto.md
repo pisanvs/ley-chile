@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.094, de 15 de septiembre de 2005, de esta Subsecretaría, autorízase a FAENADORA LO MIRANDA LIMITADA para continuar desarrollando actividades pesqueras de transformación en una planta ubicada en el kilómetro 18 de la Ruta H-30 s/n, localidad de Lo Miranda, comuna de Doñihue, VI Región, autorizadas a Faenadora Super Ltda. del mismo RUT. y domicilio, mediante resolución Nº 1.297 de 2003, de esta Subsecretaría, en virtud de la escritura pública y demás normas citadas en Visto.
+
+Valparaíso, 15 de septiembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
