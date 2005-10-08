@@ -144,7 +144,7 @@ Son circunstancias atenuantes:
 
 3.° La de haber precedido inmediatamente de parte del ofendido, provocación o amenaza proporcionada al delito.
 
-4.° La de haberse ejecutado el hecho en vindicación próxima de una ofensa grave causada al autor, a su cónyuge, a sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
+4.° La de haberse ejecutado el hecho en vindicación próxima de una ofensa grave causada al autor, a su cónyuge, o su conviviente, a sus parientes legítimos por consanguinidad o afinidad en toda la línea recta y en la colateral hasta el segundo grado inclusive, a sus padres o hijos naturales o ilegítimos reconocidos.
 
 5.° La de obrar por estímulos tan poderosos que naturalmente hayan producido arrebato y obcecación.
 
@@ -3064,7 +3064,7 @@ CRÍMENES Y SIMPLES DELITOS CONTRA LAS PERSONAS.
 
 #### Artículo 390
 
-El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, sean legítimos o ilegítimos, a cualquier otro de sus ascendientes o descendientes legítimos o a su cónyuge, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+El que, conociendo las relaciones que los ligan, mate a su padre, madre o hijo, a cualquier otro de sus ascendientes o descendientes o a su cónyuge o conviviente, será castigado, como parricida, con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
 
 ART.391.
 
@@ -3130,7 +3130,7 @@ Las lesiones no comprendidas en los artículos precedentes se reputan menos grav
 
 #### Artículo 400
 
-Si los hechos a que se refieren los anteriores artículos de este párrafo se ejecutaren contra alguna de las personas que menciona el 390, o con cualquiera de las circunstancias segunda, tercera y cuarta del núm. 1.º del 391 las penas se aumentarán en un grado.
+Si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de alguna de las personas que menciona el artículo 5º de la Ley sobre Violencia Intrafamiliar, o con cualquiera de las circunstancias Segunda, Tercera o Cuarta del número 1º del artículo 391 de este Código, las penas se aumentarán en un grado.
 
 #### Artículo 401
 
@@ -3886,7 +3886,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 4.° El que amenazare a otro con armas blancas o de fuego y el que riñendo con otro las sacare, como no sea con motivo justo.
 
-5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho.
+5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar.
 
 6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de día cuando haya aglomeración de gente.
 
