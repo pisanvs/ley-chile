@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.193, de 28 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101372 presentada por HUGO CARLOS CHAVEZ CATEPILLAN, para instalar y operar un centro de cultivo ubicado en Estero Reloncaví, Bahía Cochamó, al sur de Punta Puntilla, X Región.
+
+Valparaíso, 28 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
