@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.189, de 28 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203103116 presentada por JOSE HUMBERTO SANTANA RUIZ, para instalar y operar un centro de cultivo ubicado en canal Hudson, al este de Punta Coquemcura, Isla Quinchao, X Región.
+
+Valparaíso, 28 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
