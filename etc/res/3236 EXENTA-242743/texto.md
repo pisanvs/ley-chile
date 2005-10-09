@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.236, de 28 de septiembre de 2005, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 114 de 2005, de esta Subsecretaría, en cuanto autorizó a SOCIEDAD PESCA MARINA LIMITADA para realizar actividades pesqueras extractivas con la nave en construcción autorizada mediante la resolución antes citada, entre la III a VII Regiones sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en Visto.
+
+Valparaíso, 28 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
