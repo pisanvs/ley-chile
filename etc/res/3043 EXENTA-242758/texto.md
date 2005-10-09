@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.043, de 13 de septiembre de 2005, de esta Subsecretaría, autorízase a MARCELA ANDREA RIVERA ARCE, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sitio Nº 2, parcela Nº 2, Camino Interior s/n, Fundo Mónaco, Pichilemu, VI Región, donde podrá elaborar en las líneas de proceso de cocido, fresco enfriado, congelado, seco salado, ahumado, alga seca, y deshidratado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 13 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
