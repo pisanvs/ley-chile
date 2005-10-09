@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.196, de 28 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111312 presentada por INVERSIONES CHIPANA LIMITADA para instalar y operar un centro de cultivo ubicado en Golfillo de La Lobada de Quetros, Isla sin nombre, costa sur, XI Región.
+
+Valparaíso, 28 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
