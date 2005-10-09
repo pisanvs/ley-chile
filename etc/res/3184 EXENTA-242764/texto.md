@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.184, de 28 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111330 presentada por SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA, para instalar y operar un centro de cultivo ubicado en canal Refugio, al lado sureste de Isla Refugio, XI Región.
+
+Valparaíso, 28 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
