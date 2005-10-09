@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.230, de 28 de septiembre de 2005, de esta Subsecretaría, déjase sin efecto la resolución Nº2.399 de 2004, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 201111707 presentada por CHILE SEAFOOD S.A. para instalar y operar un centro de cultivo ubicado en Isla Kent, sector 2 Sur, XI Región, en virtud de lo dispuesto en la resolución exenta Nº 4 de 2005, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
