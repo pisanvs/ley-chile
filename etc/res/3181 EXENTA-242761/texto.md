@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.181, de 28 de septiembre de 2005, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 203104043, presentada por OLGA DEL CARMEN SOTO URRUTIA, para ampliar un centro de cultivo ubicado en canal Chidguapi, Isla Puluqui, X Región, otorgado mediante Nº 1422 de 1996, modificado mediante resolución Nº 1.643 de 1998, y transferido por resolución Nº 1.602 de 2001, todas de la Subsecretaría de Marina.
+
+Valparaíso, 28 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
