@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.292, de 29 de septiembre de 2005, de esta Subsecretaría, acógese el recurso de reclamación interpuesto por JOSE ALBERTO MANSILLA SANCHEZ, contra resolución Nº 126 de 2005, del Servicio Nacional de Pesca, respecto de embarcación "Cintia II", R.P.A. Nº 7.896, X Región. Déjase sin efecto la caducidad impuesta al recurrente por resolución impugnada.
+
+Valparaíso, 29 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
