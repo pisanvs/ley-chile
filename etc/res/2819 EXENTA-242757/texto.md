@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.819, de 26 de agosto de 2005, de esta Subsecretaría, autorízase a VERONICA DEL CARMEN VEGA JIMENEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en caleta Los Verdes, Manzana C, lotes 2 y 3, Iquique, I Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de agosto de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
