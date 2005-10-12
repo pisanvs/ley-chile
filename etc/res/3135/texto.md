@@ -1,0 +1,3 @@
+Por resolución Nº 3.135 de 27 de septiembre de 2005 de esta Subsecretaría, autorízase a MIRZA INES PARANCAN GALLARDO, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en calle 21 de Mayo s/n, sector San Rafael, Calbuco, X Región, en la línea de proceso de Seco Salado el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 27 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
