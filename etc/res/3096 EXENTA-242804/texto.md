@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.096 de 15 de septiembre de 2005, de esta Subsecretaría, modifícase la resolución Nº 897 de 2002, de esta Subsecretaría de Pesca, que autorizó a PRODUCTORA DEL MAR LIMITADA, para iniciar actividades pesqueras de transformación, en el sentido de indicar que la dirección de la planta corresponde a Ongolmo Nº 153, Población Los Pinares, Antofagasta, II Región.
+
+Valparaíso, 15 de septiembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
