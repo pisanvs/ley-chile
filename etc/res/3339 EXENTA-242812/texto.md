@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.339, de 4 de octubre de 2005, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para desarrollar actividades experimentales de acuicultura de acuerdo a los términos técnicos de referencia del Proyecto "Cultivo Experimental de Algas Pardas en la IV Región, Coquimbo, Chile".
+
+El objetivo general consiste en evaluar técnicas de cultivo de Macrocystis pyrifera, Macrocystis integrifolia y Lessonia trabeculata, en sistemas suspendidos en la Bahía de Tongoy, IV Región. Las actividades experimentales se realizarán por el término de un año, contado desde la fecha de la presente resolución, en tres concesiones de acuicultura ubicadas en Bahía de Tongoy, IV Región, otorgadas a la peticionaria mediante resoluciones Nº 1.568 de 1998, Nº 1.742 de 1999 y Nº 1.636 de 2001, todas de la Subsecretaría de Marina. Los ejemplares provendrán del Laboratorio de Producción de Algas de la Universidad Austral de Chile, Campus Pelluco, Puerto Montt, X Región, autorizado mediante resolución Nº 1.540 de 1999, del Servicio Nacional de Pesca.
+
+Valparaíso, 4 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
