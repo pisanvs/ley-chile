@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.137, de 27 de septiembre de 2005, de esta Subsecretaría, autorízase a SOLARIUM BIOTECHNOLOGY S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Km. 27.5 ruta A-665, La Huayca, comuna de Pozo Almonte, provincia de Iquique, I Región, donde podrá elaborar en la línea de proceso de Polvo de Microalgas, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 27 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
