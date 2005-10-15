@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.044, de 13 de septiembre de 2005, de esta Subsecretaría, autorízase a PESQUERA EDEN LIMITADA, para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Lote Nº 2, Caleta Level, Seno Edimburgo, comuna de Puerto Natales, XII Región, en las líneas de Cocido, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 13 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
