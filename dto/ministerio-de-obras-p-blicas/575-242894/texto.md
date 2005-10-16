@@ -1,0 +1,3 @@
+Por decreto MOP Nº 575, de fecha 20 de julio del 2005, modificado por el decreto MOP Nº 756 de fecha 31 de agosto del 2005, se autorizó la expropiación del lote de terreno Nº 116L4, de la obra: "Proyecto Línea 4, Sector A. Vespucio - Pte. Alto", y se aprobó el convenio directo de precios suscrito entre el Metro S.A. y la Sociedad Agrícola Quilín Limitada, por el cual se fijó el monto de la indemnización definitiva a pagar en la suma de $800.043.869.
+
+Fiscal Ministerio de Obras Públicas.
