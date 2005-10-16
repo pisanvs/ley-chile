@@ -1,0 +1,3 @@
+Por decreto MOP Nº 693, de 18 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para el Fisco, el lote de terreno Nº 1, para la obra Proyecto Laja Digullín, Canal Matriz Diguillín Larqui, obra "Camino Acceso a Puente Km. 12,160", que figura a nombre de Chavez Juan de Dio, rol de avalúo 609-30, comuna de San Ignacio, VIII Región, superficie 10.731 m2. La Comisión de Peritos, fijó con fecha 21 de septiembre de 2004, en la cantidad de $9.740.539. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
