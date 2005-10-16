@@ -1,0 +1,3 @@
+Por decreto MOP Nº 758, de 31 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se dejó sin efecto los decretos MOP Nº 350 de 29 de abril de 2005 Nº 385 de 24 de mayo de 2005 y Nº 272 de 26 de abril de 2005, en atención a que los lotes en ellos señalados no son necesarios para las obras de las plantas de tratamiento de aguas servidas de Pitrufquén, Carahue y Gorbea.
+
+Fiscal del Ministerio de Obras Públicas.
