@@ -1,0 +1,3 @@
+Por decreto MOP Nº 902, de 13 de septiembre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se dejó sin efecto los decretos MOP Nº 351 de 29 de abril de 2005 y Nº 416 de 31 de mayo de 2005, en atención a que los lotes en ellos señalados no son necesarios para las obras: "Sistema de Tratamiento de las Aguas Servidas de Loncoche" y "Planta de Tratamiento de Aguas Servidas de Collipulli".
+
+Fiscal del Ministerio de Obras Públicas.
