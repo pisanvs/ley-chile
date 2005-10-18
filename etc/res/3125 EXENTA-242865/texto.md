@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.125, de 26 de agosto de 2005, de esta Subsecretaría, autorízase a MARINE HARVEST CHILE S.A., para efectuar una siembra de 100 alevines de Trucha arcoiris en el Lago Llanquihue, comuna de Puerto Varas, provincia de Llanquihue, X Región, por el término de treinta días. Los ejemplares deberán provenir de la piscicultura ubicada en Puerto Domeyko, Lago Llanquihue, X Región, autorizada a la peticionaria mediante resoluciones Nº816 de 1985, Nº568 de 1988 y Nº241 de 2001, todas de esta Subsecretaría.
+
+Valparaíso, 23 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
