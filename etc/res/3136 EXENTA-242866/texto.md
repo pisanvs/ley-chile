@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.136, de 27 de septiembre de 2005, de esta Subsecretaría, autorízase a CLAUDIO SALVADOR MAMANI BRAVO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Caleta Chañaral de Aceituno s/n, lote Nº 9, comuna de Freirina, provincia de Huasco, III Región, donde podrá elaborar en las líneas de proceso de Fresco enfriado, Fresco refrigerado, Congelado, Cocido, Conserva, Seco salado y Deshidratado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
