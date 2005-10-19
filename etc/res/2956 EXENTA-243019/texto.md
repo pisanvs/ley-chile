@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.956, de 7 de septiembre de 2005, de esta Subsecretaría, autorízase a MAURICIO HERNAN ROJAS ROJAS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta B1 s/n, Sector Quintas, comuna de Taltal, provincia de Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
