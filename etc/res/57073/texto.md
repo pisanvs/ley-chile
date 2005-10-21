@@ -1,0 +1,39 @@
+ESTABLECE LA EMISION QUE CORRESPONDA A LA ULTIMA FUENTE ESTACIONARIA EXISTENTE CATEGORIZADA COMO PROCESO INCLUIDA EN LOS MAYORES EMISORES DE MATERIAL PARTICULADO
+
+Núm. 57.073.- Santiago, 5 de octubre de 2005.- Vistos: Lo dispuesto en el decreto supremo Nº 58/2003, del Ministerio Secretaría General de la Presidencia (Minsegpres), que aprobó la Reformulación y Actualización del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana (PPDA); el decreto supremo Nº 4/1992, del Ministerio de Salud, que establece norma de emisión de material particulado a fuentes estacionarias puntuales y grupales; el decreto supremo Nº 812/1995, del Ministerio de Salud, que complementa el procedimiento de compensación de emisiones para fuentes estacionarias puntuales en la Región Metropolitana; lo informado por el Subdepartamento Calidad del Aire, del Departamento Acción Sanitaria, de esta Secretaría Regional Ministerial, con fecha 7 de julio de 2005, donde se señala la emisión que corresponde a la última fuente incluida en el 80% a que hace referencia el artículo 47 del citado DS Nº 58/2003, del Minsegpres; lo dispuesto en los artículos 3 y 9, letra b), del DFL Nº 725, de 1968, que aprobó el Código Sanitario; las atribuciones que me confiere el decreto ley Nº 2.763 y sus modificaciones; el decreto con fuerza de ley Nº 2 de 2004, que suprime el Servicio de Salud del Ambiente de la Región Metropolitana; el decreto supremo Nº 136 de 2004, del Ministerio de Salud, que aprueba el Reglamento Orgánico de dicha Secretaría de Estado; lo dispuesto en el artículo 44, inc. 2º, de este mismo cuerpo reglamentario, de acuerdo al cual esta Secretaría Regional Ministerial de Salud, será la continuadora legal, entre otras, de la gestión de las materias de que trata la presente resolución y que anteriormente correspondieran al Servicio de Salud del Ambiente de la Región Metropolitana; ley Nº 19.300, sobre Bases Generales del Medio Ambiente,
+
+Considerando:
+
+Que, la Reformulación y Actualización del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana, señalado en los vistos, tiene por objeto alcanzar y garantizar el cumplimiento de las normas primarias de calidad del aire, por las cuales la Región Metropolitana fue declarada zona saturada y latente;
+
+Que, en el artículo 47 de dicho Plan, se establece la meta global e individual de reducción de emisiones de material particulado (MP), para fuentes estacionarias existentes categorizadas como procesos y denominadas Mayores Emisores, correspondiente a un 50% del total de emisiones que estas fuentes emitían al año 1997;
+
+Que, se denomina Mayores Emisores de MP, a aquellas fuentes estacionarias existentes en la Región Metropolitana que concentraban el 80% de las emisiones de este sector al año 1997;
+
+Que, de conformidad con lo dispuesto en el artículo 48 del decreto supremo Nº 58/2003, del Minsegpres, corresponde a esta Secretaría Regional Ministerial de Salud, en coordinación con la Comisión Nacional del Medio Ambiente, determinar la emisión que corresponda a la última fuente incluida en el 80% a que se refiere el párrafo anterior;
+
+Que, de conformidad con los principios de coherencia, razonabilidad, proporcionalidad, equidad y objetividad, es posible considerar las reducciones voluntarias y adicionales de emisiones de MP efectuadas entre los años 1992 y 1997, por los titulares de las fuentes tipo proceso denominadas Mayores Emisores, con el único objeto de dar cumplimiento a la meta individual de reducción de emisiones que corresponda a las fuentes del establecimiento, conforme al referido artículo 47 del citado DS Nº 58/2003, del Minsegpres, y/o de futuros aumentos de emisión del mismo establecimiento, siempre y cuando se cumpla con las condiciones que en la parte resolutiva de esta resolución se dispongan; que, por lo antes señalado, dicto la siguiente,
+
+Resolución:
+
+1º Dispónese que la emisión de material particulado (MP), que corresponde a la última fuente estacionaria existente categorizada como proceso, incluida en el 80% de las emisiones del sector al año 1997, es de 2,5 ton./año. Dicho monto podrá ser actualizado por esta Autoridad Sanitaria en coordinación con la Comisión Nacional del Medio Ambiente (Conama), si luego de notificadas las metas individuales de reducción de emisión a los titulares de las fuentes, aparecieran nuevos antecedentes que así lo justifiquen.
+
+2º Establécese que toda fuente estacionaria existente categorizada como proceso, cuya emisión al año 1997 sea igual o superior a 2,5 ton./año, deberá disminuir su emisión de material particulado en un 50%, respecto de dicha emisión, en un plazo máximo de cumplimiento al año 2007 y conforme lo dispone el PPDA.
+
+3º Establécese que toda fuente nueva categorizada como proceso que tenga una emisión igual o superior a 2,5 ton./año deberá compensar sus emisiones en un 150%, lo que deberá ser acreditado ante esta Autoridad Sanitaria al año 2007, conforme lo dispone el PPDA.
+
+4º Téngase presente que esta Secretaría Regional Ministerial, en el plazo de 60 días, contados desde la publicación de la presente resolución en el Diario Oficial, comunicará a los titulares de las fuentes estacionarias existentes categorizadas como proceso y denominadas Mayores Emisores, mediante ordinario, la meta individual de reducción de emisión que le corresponde cumplir.
+
+5º Las reducciones voluntarias y adicionales de emisiones de MP, efectuadas entre los años 1992 y 1997 por los titulares de las fuentes estacionarias existentes categorizadas como proceso y denominadas Mayores Emisores, podrán imputarse al cumplimiento de la meta individual de reducción de emisión que corresponda a las fuentes del establecimiento, conforme al art. 47 del DS Nº 58/2003, del Minsegpres, que aprobó el PPDA y/o de futuros aumentos de emisión del mismo establecimiento, siempre que concurran copulativamente las siguientes condiciones:
+
+a. Que se acredite mediante muestreo isocinético oficial, una concentración de material particulado inferior a 56 mg/Nm3 al año 1997 en la respectiva fuente; y
+
+b. Que se acredite mediante muestreo isocinético oficial, reducciones voluntarias y adicionales de emisiones efectuadas entre los años 1992 y 1997 en la misma fuente;
+
+Cumplidas las condiciones anteriores, se considerará reducción voluntaria y adicional para una fuente, la diferencia entre la meta individual de reducción de emisión calculada sobre la base de la emisión declarada al año 1997, considerando una concentración de 56 mg/Nm3, y la meta individual de reducción de emisión calculada a partir de la emisión declarada de la fuente al año 1997.
+
+Para estos efectos, el titular de la fuente, dentro del plazo de 120 días contados desde la publicación de la presente resolución en el Diario Oficial, deberá presentar ante esta Autoridad Sanitaria, una solicitud fundada acompañada de los antecedentes que acrediten las reducciones efectuadas entre 1992 y 1997 para la respectiva fuente. Esta Secretaría comunicará mediante ordinario, dentro del plazo de 60 días, la reducción voluntaria y adicional que corresponda a la fuente.
+
+Con todo, las emisiones que correspondan a reducciones voluntarias y adicionales de que trata este numeral, en ningún caso podrán ser utilizadas en establecimientos distintos al que corresponde la fuente a la cual se le han imputado dichas emisiones; asimismo, no podrán hacer uso de estas emisiones las fuentes del mismo establecimiento, que por cualquier circunstancia efectúen cesión o transferencia de parte o el total de sus emisiones a fuentes de otro establecimiento.
+
+Anótese, comuníquese y publíquese.- Mauricio Ilabaca Marileo, Secretario Regional Ministerial de Salud Región Metropolitana.
