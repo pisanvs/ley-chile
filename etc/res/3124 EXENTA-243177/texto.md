@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.124, de esta Subsecretaría modifícase el numeral 1º de la resolución Nº 2913 de 2005, que modificó el numeral 8º inciso 1º de la resolución Nº 1050 de 2005, modificada mediante Resoluciones Nº 1078, Nº 1118, Nº 1339, Nº 1663, Nº 2004, Nº 2199, Nº 2447, Nº 2527, Nº 2774, todas de 2005, de la Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Bases Técnicas para el Plan de Manejo Pesquerías Bentónicas Zona Contigua Regiones X y XI", en los términos que a continuación se indica:
+
+i) En la letra a), en el sentido de incrementar en 100 toneladas de erizo el desembarque máximo autorizado proveniente de las capturas realizadas en el área marítima de la X Región comprendida al norte de las Islas Chauques.
+
+ii) En su letra b), en sentido de disminuir en 100 toneladas de erizo el desembarque máximo autorizado proveniente de las capturas realizadas en el área marítima de la X Región comprendida entre las Islas Chauques y el límite sur de la mencionada Región.
+
+Valparaíso, 23 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
