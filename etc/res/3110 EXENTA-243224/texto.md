@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.110, de 16 de septiembre de 2005, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado La Sirena, VI Región, individualizada en el artículo 1º Nº 3 del decreto exento Nº 982, de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE CULTIVADORES, PESCADORES, MARISCADORES Y RAMOS SIMILARES DE CAHUIL.
+
+Valparaíso, 16 de septiembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
