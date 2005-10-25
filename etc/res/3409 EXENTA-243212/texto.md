@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.409, de 14 octubre de 2005, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES FRANCISCO ANDRADE DE CALETA ANDRADE, perteneciente a la Flota Sur 2, para ampliar el plazo de operaciones para realizar actividades pesqueras extractivas correspondientes al mes de octubre, entre los días 15 y 16 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 14 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
