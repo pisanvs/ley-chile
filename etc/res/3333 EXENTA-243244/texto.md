@@ -1,0 +1,13 @@
+Por resolución exenta Nº 3.333, de esta Subsecretaría, modifícase la resolución Nº 1.724, modificada por resoluciones Nº 2.079, Nº 2.228 y Nº 2.515, todas de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, SEDE COQUIMBO, R.U.T. Nº 91.518.400-9, domiciliada en Larrondo Nº 1281, Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) dentro de la primera milla, por fuera de las bahías protegidas por el D.S. Nº 408 de 1986, en el litoral de la III Región, Temporada 2005", en los siguientes términos:
+
+a) En su numeral 4º, en el sentido de incorporar a la embarcación artesanal "Orca II";
+
+b) En su numeral 5º bis, en el sentido de asignar una cuota máxima total de 500 toneladas a las embarcaciones artesanales inscritas en el Registro que mantiene el Consultor, de conformidad con el citado numeral. Las capturas efectuadas de conformidad con lo anterior se imputarán a la fracción reservada con fines de investigación de la cuota global anual establecida para el año 2005 para la unidad de pesquería Anchoveta III-IV Regiones, de conformidad con lo dispuesto en el decreto exento Nº 1.015 de 2004, modificado por decreto exento Nº 1.026 de 2005, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Sin perjuicio de lo dispuesto en el inciso 2º del numeral 5º bis, las capturas de Anchoveta efectuadas por las embarcaciones artesanales antes indicadas se imputarán en forma previa a la cuota asignada de conformidad con el párrafo anterior.
+
+Una vez agotada la cuota establecida en el párrafo anterior, las capturas de Anchoveta efectuadas por tales embarcaciones podrán ser imputadas de conformidad con lo dispuesto en el inciso 3º del numeral 5º bis antes indicado, y
+
+c) En su numeral 5º ter, en el sentido de incrementar en 500 toneladas la cuota de Anchoveta asignada a las embarcaciones artesanales "Alejandro I" y "Francisca". Las capturas efectuadas de conformidad con lo anterior se imputarán a la fracción reservada con fines de investigación de la cuota global anual establecida para el año 2005 para la unidad de pesquería Anchoveta III-IV Regiones, de conformidad con lo dispuesto en el decreto exento Nº 1.015 de 2004, modificado por decreto exento Nº 1.026 de 2005, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
