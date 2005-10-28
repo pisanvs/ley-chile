@@ -1,0 +1,5 @@
+EXCEPCIONA DEL REGIMEN DE CAMBIO DE SUJETO DEL IVA A HUNTER DOUGLAS CHILE S.A.
+
+La XVI Dirección Regional Metropolitana Santiago Sur del SII, por Res. Ex. Nº 3.386, de 19 de octubre de 2005, excepciona, a contar del 1º del mes siguiente al de esta publicación a Hunter Douglas Chile S.A. RUT 92.654.000-9, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en los contratos de instalación o confección de especialidades que ejecuten, establecido en la Res. Ex. Nº 115/2004 de la Dirección Nacional, publicada en el Diario Oficial del 31.12.2004. En virtud de la excepción concedida, el peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en las subcontrataciones de instalación y confección de especialidades que realicen.
+
+- Carmen Gloria Reveco Castillo, Directora Regional.
