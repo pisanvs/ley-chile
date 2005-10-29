@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.141, de 27 de septiembre de 2005, de esta Subsecretaría, autorízase a COOPERATIVA DE DESARROLLO PRODUCTIVO, TURISTICO, EDUCACIONAL Y DE MEDIO AMBIENTE para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Gómez Carreño s/n, Puerto Aguirre, comuna de Aysén, XI Región, donde podrá elaborar, en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado y Seco salado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de septiembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
