@@ -1,0 +1,3 @@
+Por resolución Nº 3.376, de 12 de octubre de 2005, de esta Subsecretaría, autorízase a COMERCIAL Y SERVICIOS SUR AUSTRAL LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Panamericana Sur, Km. 1.030, camino a Pargua, Puerto Montt, X Región, en la línea de proceso de Aceite y Concentrado Proteico de Pescado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
