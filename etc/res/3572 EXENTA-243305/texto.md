@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.572, de 25 de octubre de 2005, de esta Subsecretaría, déjase sin efecto, a partir del 31 de octubre de 2005, la resolución exenta Nº 3.456 de 2005, que modificó la resolución exenta Nº 1.050 de 2005, ambas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Bases Técnicas para el Plan de Manejo Pesquerías Bentónicas Zona Contigua Regiones X y XI".
+
+Valparaíso, 25 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
