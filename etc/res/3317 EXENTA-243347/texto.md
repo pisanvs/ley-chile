@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.317, de 3 de octubre de 2005, de esta Subsecretaría, autorízase a INVERSIONES PATAGONIA S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Ecuador Nº 2155, bodega Nº 5 Interior, Valdivia, X Región, donde podrá elaborar en las líneas de proceso de Alga Seca, Extracto Líquido de Algas y Extracto en Polvo de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
