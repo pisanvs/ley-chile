@@ -2624,7 +2624,7 @@ Además de las instrucciones de este capítulo, los bancos deben tener presente 
 
 Para abrir una cuenta corriente a una persona natural, las empresas bancarias deben cumplir con las siguientes exigencias mínimas:
 
-a) Tomar nota de la Cédula de Identidad y del Rol Unico Tributario del interesado, quien para este efecto debe exhibir los documentos originales.
+a) Tomar nota de la Cédula de Identidad o del Pasaporte en su caso y del Rol Único Tributario del interesado, quien deberá exhibir los documentos originales.
 
 b) Solicitar al interesado una fotografía reciente (tamaño carné o pasaporte), la que se agregará al documento en que se registran sus antecedentes personales.
 
