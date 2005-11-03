@@ -1,0 +1,3 @@
+Por decreto exento Nº 1.008, de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra Camino Conexión La Unión - Corral, Sector Bifurcación La Unión, Empalme Ruta T-60, Km. 7,100 a Km. 8,500, que figura a nombre de Obispado de Valdivia, rol de avalúo 536-90, comuna de La Unión, superficie 1.900 m². La Comisión de Peritos, fijó con fecha 20 de agosto de 1999, en la cantidad de $1.540.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
