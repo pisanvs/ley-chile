@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 977 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 14, superficie 336 m², rol Nº 428-110, comuna de Cauquenes, VII Región para la obra: "Camino Mejoramiento Ruta M-830, Sector Cauquenes - Sta. Sofía, Km. 1,200 al Km. 5,100", y se acordó el valor de indemnización con su propietario Elías Edmundo Anríquez Henríquez, ascendente a la cantidad de $317.351.
+
+- Fiscal del Ministerio de Obras Públicas.
