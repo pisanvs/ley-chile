@@ -1,0 +1,3 @@
+Por decreto MOP Nº 765, de 31 de agosto de 2005, se expropió el lote de terreno Nº 19-1, superficie 1.367 m2., rol de avalúo 1099-177, comuna de Cartagena, para la obra Red Vial Litoral Central Sector 1: Nuevo Camino Costero Subtramo: Cartagena - Las Cruces Km. -0.100,00 al Km. 1.100,00. Quinta Región, se acordó el valor de la indemnización con su propietaria María Laura Morgado Alvarez, ascendente a la cantidad de $8.172.092.
+
+- Fiscal del Ministerio de Obras Públicas.
