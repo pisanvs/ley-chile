@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 962 de 29 de septiembre de 2005, se expropió el lote de terreno Nº 3, superficie 495,51 m2., rol Nº 220-11, comuna de Purén, IX Región para la obra "Estudio de Ingeniería Varios, Puentes en la IX Región, Sector, Sector Puente La Isla, Camino Tranaman - La Isla, Km. 0,000 a Km. 0,5000" y se acordó el valor de indemnización con su propietario Juan Gabriel Cofré Manceau, ascendente a la cantidad de $1.141.786.
+
+- Fiscal del Ministerio de Obras Públicas.
