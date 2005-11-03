@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.032 de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 66-A y 66-B para la obra: "Camino Reposición Ruta S-40 Sector Nueva Imperial - Carahue, Tramo Km. 0,00000 al Km. 21,58295, Sub-Tramo II Km.
+
+4,04000 al Km. 12,84000", que figuran a nombre de Leal Navarrete Juan Antonio, rol de avalúo Nºs 606-73, comuna de Nueva Imperial, IX Región, superficies 35 m2 y 94 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 25 de mayo de 2005, en la cantidad de $158.500.- para el lote Nº66-A y $194.900.- para el lote Nº66-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
