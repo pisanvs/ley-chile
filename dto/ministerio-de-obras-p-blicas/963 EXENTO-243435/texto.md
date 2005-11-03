@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 963 de fecha 29 de septiembre del 2005, se expropió el lote de terreno Nº 1, superficie 697 m2, rol Nº 610-29, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, Canal Larqui Mejorado, Km. 0,000 al Km. 0,238", y se acordó el valor de indemnización con su propietario Héctor Rómulo Urra Rivas, ascendente a la cantidad de $551.590.
+
+- Fiscal del Ministerio de Obras Públicas.
