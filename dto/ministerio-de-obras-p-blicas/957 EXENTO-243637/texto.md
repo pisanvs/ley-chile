@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 957 de fecha 29 de septiembre del 2005, se expropiaron los lotes de terreno Nºs. 1 y 2 superficies 1.170 y 1.257 m2, respectivamente, rol Nº 603-127, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, Laja Diguillín Lotes Adicionales a Canal Matriz Km. 7,906 a Km. 8,032" y se acordó el valor de indemnización con su propietario Víctor Javier Castillo Salazar, ascendente a la cantidad de $2.332.644.- para los lotes Nºs. 1 y 2.
+
+- Fiscal del Ministerio de Obras Públicas.
