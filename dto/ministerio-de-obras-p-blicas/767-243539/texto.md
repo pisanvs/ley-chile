@@ -1,0 +1,3 @@
+Por decreto MOP Nº 767 de fecha 31 de agosto de 2005, se expropió el lote de terreno Nº 70-B, superficie 1.054 m², Rol Nº 302-166, comuna de Cunco, IX Región para la obra "Camino Ruta S-61, Sector Cunco-Melipeuco, tramo Km. 55,000 al Km. 87,46783, correspondiente al Sub-Tramo II Km. 62,784 al Km. 76,043" y se acordó el valor de la indemnización con su propietario Hernán Castro Viveros, ascendente a la cantidad de $3.379.681.- para el lote Nº 70-B.
+
+- Fiscal del Ministerio de Obras Públicas.
