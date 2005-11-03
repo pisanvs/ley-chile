@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 769 de 31 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 10; para la obra: Camino Reposición Ruta G-74-F, Sector Melipilla Bollenar, km. 0,00000 a km.
+
+14,23039, que figura a nombre de Ovalle Barros Enrique Francisco, rol de avalúo 2087-100, comuna de Melipilla; Región Metropolitana, superficie 1.400 m². La comisión de peritos, fijó con fecha 3 de marzo de 2000 el monto de la indemnización provisional en la cantidad de $7.885.000.- lote Nº10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispue0sto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
