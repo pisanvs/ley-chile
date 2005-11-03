@@ -1,0 +1,5 @@
+Por decreto exento Nº 1.033, de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nos 8B y 20C, para la obra Camino Ruta U-72, Huilma - Riachuelo, Tramo Km. 18,14000 a Km.
+
+33,91000, que figuran a nombre de Rudolph Schencke Irene Melita y Hermosilla Sánchez Gualberto, roles de avalúo 331-11 y 324-5, comuna Río Negro, X Región, superficies 626,30 m² y 262,72 m². La Comisión de Peritos, fijó con fecha 30 de agosto de 2002, complementada por acta de fecha 30 de abril de 2004, en las cantidades de $200.416, para el lote Nº 8B y $84.070, para el lote Nº 20C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
