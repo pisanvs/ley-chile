@@ -1,0 +1,3 @@
+Por decreto MOP Nº 761 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 6, superficie 586,9 m2, rol Nº 1466-47, comuna de Angol, IX Región para la obra "Construcción Puente Vado Buenos Aires, camino Angol - Fundo Buenos Aires, Tramo Km. 0,00000 al Km. 0,58200, comuna de Angol, provincia de Malleco, IX Región" y se acordó el valor de indemnización con su propietario Redemio Jara Jara, ascendente a la cantidad de $5.112.291.
+
+- Fiscal del Ministerio de Obras Públicas.
