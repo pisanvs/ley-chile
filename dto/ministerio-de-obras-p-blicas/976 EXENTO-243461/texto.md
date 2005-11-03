@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 976 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 11, superficie 2.815 m2, rol Nº 132-2, comuna de El Carmen, VIII Región para la obra "Proyecto Laja Diguillín, Canal Unificado Km. 0,000 al Km. 1,067, Bocatoma Diguillín", y se acordó el valor de indemnización con su propietario Rosauro Martínez Labbé, ascendente a la cantidad de $2.015.454.
+
+- Fiscal del Ministerio de Obras Públicas.
