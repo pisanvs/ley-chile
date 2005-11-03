@@ -1,0 +1,3 @@
+Por decreto MOP Nº 932 de 23 de septiembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 12 para la obra: Habilitación Avda. Circunvalación Río Claro en Talca, Avenida Lircay, que figura a nombre de Urzúa Farías Omar, rol de avalúo 3707-121, comuna de Talca, VII Región, superficie 1.202,62 m2. La comisión de peritos fijó con fecha 8 de junio de 2005, en la cantidad de $17.880.880.- lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
