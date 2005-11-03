@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 975 de fecha 29 de septiembre del 2005, se expropió el lote de terreno Nº 3, superficie 2.242 m2, rol Nº 608-22, comuna de San Ignacio, VIII Región para la obra: "Proyecto Laja - Diguillín, Canal Matriz Diguillín - Larqui, Canal Alimentador Nº 6, Km. 0,008 al Km. 0,705", y se acordó el valor de indemnización con su propietario Rafael de la Cruz Aedo Aedo y Otro, ascendente a la cantidad de $2.032.729.
+
+- Fiscal del Ministerio de Obras Públicas.
