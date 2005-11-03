@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 964 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 4-B, superficie 681 m², Rol Nº385-95, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Canal Monte Canelo", y se acordó el valor de indemnización con su propietario Juan Antonio de Freitas Suárez, ascendente a la cantidad de $535.933.
+
+- Fiscal del Ministerio de Obras Públicas.
