@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 970 de 29 de septiembre de 2005, se expropiaron los lotes de terrenos Nos 86 y 87, superficies 259 y 1.150 m² respectivamente, rol de avalúo Nº 612-32, comuna de Nueva Imperial, para la obra "Camino Ruta S-16, sector Galvarino - Chol Chol, Tramo Km. 0,00000 al Km. 24,33510" correspondiente IX Región y se acordó el valor de la indemnización con su propietario Bladimir del Carmen Gutiérrez Zapata, ascendente a la cantidad de $504.023.
+
+- Fiscal del Ministerio de Obras Públicas.
