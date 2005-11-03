@@ -1,0 +1,3 @@
+Por decreto exento Nº 1.018, de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 22a, para la obra Pavimentación Ruta 7, sector La Zaranda - Portezuelo Queulat, Km. 78,140 a Km. 137,268, que figura a nombre de Jofré Ortiz Juvenal Solano, rol de avalúo 532-40, Comuna de Lago Verde, XI Región, superficie 6.285,05 m². La Comisión de Peritos, fijó con fecha 31 de agosto de 2004, en la cantidad de $955.328. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
