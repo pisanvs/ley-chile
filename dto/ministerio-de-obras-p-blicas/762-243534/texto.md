@@ -1,0 +1,3 @@
+Por decreto MOP Nº 762 de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 2, superficie 6.069 m2, rol Nº 305-1, comuna de Villarrica, IX Región para la obra "Camino Mejoramiento Ruta 199-Ch, Sector: Villarrica - Pucón (Costanera Villarrica), Km. 0,000 al Km. 2,61500, comuna de Villarrica, provincia de Cautín, IX Región", y se acordó el valor de indemnización con su propietario Alfredo Julio Iribarren Jaureguy, ascendente a la cantidad de $160.265.582.
+
+- Fiscal del Ministerio de Obras Públicas.
