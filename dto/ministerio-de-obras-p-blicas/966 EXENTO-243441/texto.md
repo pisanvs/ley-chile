@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 966 de fecha 29 de septiembre del 2005, se expropió el lote de terreno Nº 9, superficie 1.045 m2, rol Nº 132-3, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Unificado, Km. 0,000 al Km. 1,067, Bocatoma Diguillín", y se acordó el valor de indemnización con su propietaria Patricia Bárbara Ramírez del Río, ascendente a la cantidad de $858.265.
+
+- Fiscal del Ministerio de Obras Públicas.
