@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 955 de fecha 29 de septiembre del 2005, se expropiaron los lotes de terreno Nºs. 4 y 4-A, superficies 1.412 y 250 m2, rol Nº 385-79 y S/R, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisán, Canal Monte Canelo" y se acordó el valor de indemnización con su propietario Wilfredo Heriberto Schulz Redel, ascendente a la cantidad de $1.036.043.- para el lote Nº4 y $171.547.- para el lote Nº 4-A.
+
+- Fiscal del Ministerio de Obras Públicas.
