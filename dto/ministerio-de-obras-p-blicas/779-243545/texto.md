@@ -1,0 +1,3 @@
+Por decreto MOP Nº 779 de 11 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 6-D, para la obra Mejoramiento Ruta 60-CH, sector Villa Dulce - Torquemada, Tramo Km. 0,00000 a Km. 10,47641, que figura a nombre de Sodimac SA, rol de avalúo 4693-9, Comuna de Viña del Mar, V Región, superficie 163,49 m². La Comisión de Peritos, fijó con fecha 30 de enero de 2005, en la cantidad de $5.558.660. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
