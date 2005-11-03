@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 987 de fecha 29 de septiembre del 2005, se expropió el lote de terreno Nº 11, superficie 2.505,89 m2, rol Nº 386-27, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisán, Canal Cantarrana", y se acordó el valor de indemnización con su propietario Juan Carlos Ancán Ovando, ascendente a la cantidad de $2.089.061.
+
+- Fiscal del Ministerio de Obras Públicas.
