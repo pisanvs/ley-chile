@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 87, de 18 octubre de 2005, tramitada Contraloría Regional República fecha 27 octubre 2005, Dirección Regional Serviu X Región expropió un retazo de terreno ubicado en Avenida Pedro Montt Nº 1560 de la comuna de Valdivia provincia Valdivia, Región de Los Lagos, rol avalúo 208-40, aparentemente dominio de Lino Cortez y otros, superficie 151,63 metros cuadrados aproximadamente, plano elaborado por empresa Citra Limitada. Indemnización provisional: $23.383.567. La indemnización provisional se pagará al contado, fijado por comisión peritos Luis Collarte Concha, Ernesto Zumelzu Delgado, Gustavo Lacrampe Holtheuer, designados resolución exenta Nº 1.742, de 06 de septiembre del 2000. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2.186.
+
+-Director Regional Serviu X Región.
