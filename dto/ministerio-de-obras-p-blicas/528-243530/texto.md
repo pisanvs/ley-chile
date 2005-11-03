@@ -1,0 +1,3 @@
+Por decreto MOP Nº 528 de fecha 30 de junio de 2005, modificado por decreto MOP Nº 759 de 31 de agosto de 2005, se expropió la construcción edificada de propiedad de don Carlos Francisco Mendoza Cárdenas, signada como lote Nº 3 de una superficie de 65 m² para la obra "Camino Ruta U-40, Sector Puaucho-Bahía Mansa, Tramo Km 53,574 a Km. 58,7296" Xª Región y se acordó como valor de indemnización la cantidad de $15.872.160.
+
+- Fiscal del Ministerio de Obras Públicas.
