@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 974 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 79-B, superficie 50 m2, rol Nº 192-100, comuna de Longaví, VII Región para la obra: "Camino Ruta L-49, Cruce Long. Mesamávida, sector Cruce Longitudinal - San Luis, Tramo Km. 0,000.00 al Km. 13,841.12, comuna de Longaví, provincia de Linares, VII Región", y se acordó el valor de indemnización con su propietario Ricardo Antonio Vásquez Salazar, ascendente a la cantidad de $317.351.
+
+- Fiscal del Ministerio de Obras Públicas.
