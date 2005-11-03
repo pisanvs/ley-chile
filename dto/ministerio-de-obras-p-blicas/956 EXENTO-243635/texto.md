@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº956 de fecha 29 de septiembre del 2005, se expropió el lote de terreno Nº 16, superficie 3.164,13 m2, rol Nº 385-6, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisán, Obra Canal Cantarrana" y se acordó el valor de indemnización con su propietario Julio Nelson Schulz Rudolf, ascendente a la cantidad de $1.997.385.- para el lote Nº16.
+
+- Fiscal del Ministerio de Obras Públicas.
