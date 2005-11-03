@@ -1,0 +1,3 @@
+Por decreto MOP Nº 760, de 31 de agosto de 2005, se expropió el lote de terreno Nº 395, superficie 18.718 m2. rol de avalúo 332-427, comuna de Limache, para la obra Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 2: Km. 21.000,00 al Km. 38.500,00. Quinta Región, se acordó el valor de la indemnización con su propietario Inmobiliaria Inversiones Agrícola Industrial Huinca S.A., ascendente a la cantidad de $15.105.181.
+
+- Fiscal del Ministerio de Obras Públicas.
