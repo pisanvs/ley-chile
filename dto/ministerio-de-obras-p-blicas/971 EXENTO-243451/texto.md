@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 971 de 29 de septiembre de 2005, se autorizó a favor del Fisco de Chile una servidumbre de acueducto continua, inaperente, perpetua y gratuita constituida sobre el lote de terreno Nº 1-2, superficie 227 m2., rol de avalúo 6049-2, comuna de Huechuraba, de propiedad de Cencosud Shopping Centers S.S., para la obra Proyecto "Sistema Américo Vespucio Nor - Poniente, Avda. El Salto - Ruta 78. Sector 1, Avenida El Salto - Avenida Pedro Fontova, Canal y Colector de Aguas Lluvias Huechuraba", Región Metropolitana.
+
+- Fiscal del Ministerio de Obras Públicas.
