@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 973 de fecha 29 de septiembre del 2005, se expropió el lote de terreno Nº 86, superficie 318,00 m2 , rol Nº 764-210, comuna de Lampa, Región Metropolitana, para la obra: "Camino Ruta G-184-182, sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 al Km. 15,04419", y se acordó el valor de indemnización con su propietario Osvaldo Segundo Villagra Soto, ascendente a la cantidad de $1.597.533.
+
+- Fiscal del Ministerio de Obras Públicas.
