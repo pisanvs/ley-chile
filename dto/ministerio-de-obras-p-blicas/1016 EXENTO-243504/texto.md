@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.016 de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº8 para la obra: Mejoramiento Ruta H-577, Sector Rengo - Rinconada de Malambo, km. 0.000 a km.
+
+1.914,565, Sector Rengo - Rinconada de Malambo (Ramal), km. 0.000 a km. 0.325,407, que figura a nombre de Flores Escobar Violeta de las Nieves, rol de avalúo 212-2, comuna de Rengo, VI Región, superficie 186 m². La Comisión de Peritos fijó con fecha 30 de junio de 1997 el monto de la indemnización provisional en la cantidad de $598.800.- lote Nº 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
