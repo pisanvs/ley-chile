@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº 961 de fecha 29 de septiembre del 2005, se expropiaron los lotes de terreno Nºs. 1, 2 y 3; y 1 y 2 superficies 60, 149, 110, 240 y 200 m2, respectivamente, rol Nº 603-72 y 603-49, correspondiente al lote Nº 2, Canal Matriz Km. 7,460 a Km. 7,570, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, lotes adicionales a Canal Matriz Km. 7,293 a Km.
+
+7,327, correspondiente a los lotes Nºs. 1, 2 y 3 y lotes adicionales a Canal Matriz Km. 7,460 a Km. 7,570 correspondiente a los lotes Nºs. 1 y 2" y se acordó el valor de indemnización con su propietaria Luisa del Carmen Lara, ascendente a las cantidades de $513.728.- para los lotes Nºs. 1, 2, 3 y $376.459.- para los lotes Nºs. 1, 2.
+
+- Fiscal del Ministerio de Obras Públicas.
