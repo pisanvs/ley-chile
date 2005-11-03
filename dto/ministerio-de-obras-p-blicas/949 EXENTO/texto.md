@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 949 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 71, superficie 145,91 m², rol Nº 557-71, comuna de Linares, VII Región para la obra: "Camino Conservación Ruta L-45, Sector Escuela Llepo - Puente Los Hualles, Tramo Km. 13,14700 al Km. 36,446", y se acordó el valor de indemnización con su propietario Obispado de Linares, ascendente a la cantidad de $540.007.
+
+- Fiscal del Ministerio de Obras Públicas.
