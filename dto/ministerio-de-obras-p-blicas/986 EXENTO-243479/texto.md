@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 986 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 50-F, superficie 334 m2, rol Nº 2869-190, comuna de Puerto Montt, X Región para la obra: "Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Tramo Km. 0,000 al Km. 16,340", y se acordó el valor de indemnización con su propietario Claudio Orlando Muñoz Vargas, ascendente a la cantidad de $971.889.
+
+- Fiscal del Ministerio de Obras Públicas.
