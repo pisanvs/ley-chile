@@ -1,0 +1,5 @@
+Por decreto MOP Nº 773 de 31 de agosto de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 65-A para la obra: "Camino Reposición Ruta S-40 Sector Nueva Imperial - Carahue, Tramo Km. 0,00000 al Km.
+
+21,58295, Sub-Tramo II Km. 4,04000 al Km. 12,84000", que figura a nombre de Del Pico Espinoza Mariano, rol de avalúo Nº 607-731, comuna de Nueva Imperial, IX Región, superficie 4.592 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 30 de abril de 2005, en la cantidad de $5.188.960.- para el lote Nº65-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
