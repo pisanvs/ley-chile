@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 984 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 72-C1, superficie 1.718 m2, rol Nº 375-35, comuna de El Quisco, V Región, para la obra "Red Vial Litoral Central. Sector 1: Nuevo Camino Costero. Subtramo: Las Cruces - Algarrobo. Km. 19.600,00 al Km. 20.400,00." y se acordó el valor de indemnización con su propietaria Zoraida Margarita Gamboa Rojas, ascendente a la cantidad de $2.171.003.
+
+- Fiscal del Ministerio de Obras Públicas.
