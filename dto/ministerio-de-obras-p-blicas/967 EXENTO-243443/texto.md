@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 967 de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 71, superficie 196,1 m², Rol E/T, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, II Etapa" y se acordó el valor de indemnización con su propietario Pedro del Carmen Aguilera Luna, ascendente a la cantidad de $1.078.845.
+
+- Fiscal del Ministerio de Obras Públicas.
