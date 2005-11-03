@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.019 de 11 de octubre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP exento Nº 1.561 de 28 de noviembre de 2003, en la parte que se refiere al Convenio Directo de Precio ad referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 290, fijada por la Comisión de Peritos, con fecha 20 de julio de 2001, ascendente a la cantidad de $502.800.
+
+Fiscal del Ministerio de Obras Públicas.
