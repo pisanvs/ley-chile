@@ -1,0 +1,3 @@
+Por decreto MOP Nº 766, de fecha 31 de agosto del 2005, se expropió el lote de terreno Nº 10-4N, superficie 4.786 m2, Rol Nº 352-7, comuna de Ercilla, IX Región, para la obra "Concesión Internacional Ruta 5. Tramo Collipulli - Temuco Km. 588.470,00 a Km. 595.620,00", y se acordó el valor de indemnización con su propietaria Clemencia Aída Carmine Monod, ascendente a la cantidad de $3.764.298.
+
+- Fiscal del Ministerio de Obras Públicas.
