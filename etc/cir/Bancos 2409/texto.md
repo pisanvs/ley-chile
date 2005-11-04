@@ -5840,11 +5840,11 @@ Para el cumplimiento de la exigencia señalada, las instituciones financieras de
 
 ### 1. Períodos de encaje
 
-El encaje de que trata el presente Capítulo será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, sobre la base de los saldos promedios que registren en el respectivo "período mensual" las distintas cuentas, tanto de activo como de pasivo, que se consideran para determinar la posición de encaje."
+El encaje de que trata el presente Capítulo será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, ambos días inclusive.
 
-Los promedios señalados precedentemente, se determinarán considerando los saldos vigentes durante los días corridos del respectivo período mensual.
+La exigencia de encaje se calculará sobre la base de los saldos promedios que registren en un "período mensual" los depósitos, captaciones y otras obligaciones que se consideran para el efecto. El encaje exigido así determinado, deberá ser mantenido como promedio en el "período mensual" inmediatamente siguiente.
 
-No obstante lo anterior, el encaje promedio mantenido por las instituciones financieras desde el día 9 hasta el día 23 de cada mes, no podrá ser inferior al 90% del encaje promedio exigido en el mismo período. Para estos efectos se deberán considerar, igualmente, los días corridos de dicho período.
+Los promedios antes señalados se determinarán considerando los saldos vigentes durante los días corridos del respectivo "período mensual".
 
 2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
@@ -5960,7 +5960,7 @@ Los importes deducibles de que tratan los numerales precedentes podrán detraers
 
 4.1. Encaje exigido.
 
-El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, y su cumplimiento se hará en relación con el promedio de depósitos, captaciones y obligaciones, previa deducción de los importes que correspondan, según lo dispuesto en el N° 3 precedente.
+El encaje exigido considerará el promedio en el "período mensual" de las respectivas obligaciones mencionadas en el N° 2 de este título, previa deducción de los importes que diariamente correspondan, según lo indicado en el N° 3 precedente.
 
 4.2 .Encaje mantenido.
 
@@ -5970,7 +5970,7 @@ a) Billetes y monedas de curso legal del país, ya sea que estén disponibles en
 
 b) Depósitos en cuenta corriente en el Banco Central de Chile.
 
-c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas y de los depósitos de liquidez señalados en el numeral 4.4 de este título.
+c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas.
 
 Por consiguiente, son computables como encaje mantenido todos los saldos en moneda chilena que se incluyan, conforme a las normas vigentes, en las siguientes cuentas: i) las de la partida 1005, con excepción de la cuenta "Depósitos en custodia en otras instituciones financieras", y, ii) las cuentas "Depósitos en cuenta corriente en el Banco Central de Chile" y "Remesa de efectivo en tránsito al Banco Central", ambas de la partida 1010.
 
@@ -5981,10 +5981,6 @@ Con todo, no pueden ser empleados para constituir encaje aquellos fondos que se 
 Los depósitos en el Banco Central de Chile sólo podrán efectuarse en dinero efectivo o en cheques girados contra las cuentas corrientes que se mantengan en el Banco Central de Chile. El valor de estos cheques se excluirá del canje y será cargado en la cuenta corriente del girador el mismo día en que se efectúe el depósito.
 
 En el caso que una institución financiera le solicite a otra el giro de cheques sobre el Banco Central de Chile, no se considerarán fondos disponibles los que provengan de depósitos en cuenta corriente efectuados con vales vista u otros documentos de otras empresas bancarias o sociedades financieras, aun cuando sean de la misma plaza. Por lo tanto, cuando esta situación se presente, la institución financiera requerida no estará obligada a entregar el cheque sobre el Banco Central de Chile hasta tanto no haya recibido efectivamente el pago de tales documentos.
-
-4.4.- Depósitos de liquidez.
-
-Los fondos de las cuentas corrientes que se utilicen para efectuar depósitos de liquidez a que se refiere el Capítulo IV.B.8.7 del Compendio de Normas Financieras, deberán traspasarse a la cuenta "Depósitos de liquidez", tanto para los efectos de control como para excluir dichos fondos del cómputo del encaje mantenido.
 
 ### 5. Pago de intereses por encaje
 
@@ -6044,11 +6040,11 @@ Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaci
 
 4.1. Encaje exigido.
 
-El encaje exigido correspondiente a los depósitos y captaciones en monedas extranjeras, s.e determinará en forma separada para cada una de las diferentes monedas.
+El encaje exigido correspondiente a los depósitos y captaciones en moneda extranjera de que trata el N° 2 de este título, se determinará en dólares de los Estados Unidos de América, considerando las paridades señaladas en el N° 2 del título I y las deducciones de que trata el N° 3 precedente.
 
 4.2. Encaje mantenido.
 
-El encaje, para cada una de las monedas extranjeras, deberá estar compuesto sólo por los siguientes fondos:
+El encaje mantenido deberá estar compuesto sólo por los siguientes fondos:
 
 a) Billetes y monedas correspondientes a dólares de los Estados Unidos de América, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa o en tránsito al Banco Central de Chile; y,
 
@@ -6090,11 +6086,11 @@ N° 3525 "Otros préstamos y obligaciones".
 
 3.1.- Encaje exigido.
 
-El encaje exigido se calculará por "períodos mensuales", según lo señalado en el N° 1 del título I de este Capítulo, sobre el promedio de las obligaciones antes mencionadas, en cada una de las diferentes monedas extranjeras, calculado sobre la base de los saldos diarios del respectivo mes, considerando los días corridos del período.
+El encaje exigido por las obligaciones de que trata este título IV se determinará en dólares de los Estados Unidos de América, considerando las paridades señaladas en el N° 2 del título I.
 
 3.2.- Encaje mantenido.
 
-El encaje, para cada una de las monedas extranjeras en que estén expresadas las obligaciones con el exterior, deberá estar compuesto sólo por los fondos señalados en el numeral 4.2 del título III de este Capítulo.
+El encaje mantenido deberá estar compuesto sólo por los fondos señalados en el numeral 4.2 del título III de este Capítulo.
 
 VI.- ELIMINADA.
 
