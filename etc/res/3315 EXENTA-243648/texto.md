@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.315, de 3 de octubre de 2005, de esta Subsecretaría, modifícase la resolución Nº 667, de 2005, que modificó la resolución Nº 3.382, de 2004, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Control y monitoreo de la pesquería de merluza del sur (Merluccius australis) en aguas interiores de la XII Región y su addendum", en el sentido de reemplazar el numeral 1º, letra f), inciso 4º, por el siguiente:
+
+"4º.- El descuento pasará a incrementar las fracciones autorizadas a las flotas participantes en la presente pesca de investigación. El incremento se distribuirá proporcionalmente en relación al número de unidades extractivas que componen cada una de las flotas favorecidas con el acrecimiento, con exclusión de las unidades extractivas infractoras de cada flota, y se sumará al período correspondiente al mes en que se aplique el descuento respectivo.".
+
+Valparaíso, 3 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
