@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.098, de 15 de septiembre de 2005 de esta Subsecretaría, autorízase a MARGARITA DEL CARMEN CHIGUAY CHIGUAY, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Costanera s/n, Puerto Melinka, Guaitecas, XI Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 15 de septiembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
