@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.413, de 18 de octubre de 2005, de esta Subsecretaría, autorízase al CENTRO UNIVERSITARIO INTERNACIONAL EUROPA - AMERICA LATINA DE INVESTIGACION Y FORMACION EN CIENCIAS AMBIENTALES DE LA UNIVERSIDAD DE CONCEPCION, para efectuar una pesca de investigación y actividades experimentales de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de biomarcadores de peces, río Itata, VIII Región".
+
+El objetivo de la pesca de investigación consiste en evaluar los eventuales efectos ecotoxicológicos del efluente del Complejo Industrial y Forestal Itata en el río del mismo nombre, mediante biomarcadores en peces.
+
+La investigación se efectuará por el término de doce meses en la cuenca del río Itata, VIII Región, donde podrá capturar, sin devolución, mediante equipos de pesca eléctrica y redes de monogilamento de 2,5 y 5 cm, 20 ejemplares de las especies nativas Carmelita de Concepción y Bagre pintado. Asimismo, podrá instalar 6 jaulas cilíndricas, con 90 ejemplares de la especie introducida Trucha arcoiris, donde permanecerán en exposición por el término de 31 días.
+
+Valparaíso, 18 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
