@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.570, de 25 de octubre de 2005, de esta Subsecretaría, autorízase a JORGE ROBERTO CRUZ BRAVO para ampliar actividades pesqueras de transformación, autorizadas por la resolución Nº 131, de 1993, de esta Subsecretaría, en orden a incorporar a su planta ubicada en Manzana Nº 9 Lote 1, Barrio Industrial Chañaral, III Región, en las líneas de proceso de Secado y Picado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
