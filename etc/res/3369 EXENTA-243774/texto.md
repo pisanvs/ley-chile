@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.369, de esta Subsecretaría, modifícase la resolución Nº 3.308 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Caracterización de la Pesquería de Algas Pardas de las Regiones I a IV" en el sentido de agregar en su numeral 4.-, la siguiente letra d): "Tratándose de actividades relacionadas con la pesca de investigación que se realicen en las Regiones I y II, quienes participen deberán estar inscritos en el Registro Pesquero Artesanal correspondiente a las especies Huiro negro, Huiro palo y Huiro".
+
+Valparaíso, 7 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
