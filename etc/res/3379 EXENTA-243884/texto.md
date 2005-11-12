@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.379, de 12 de octubre de 2005, de esta Subsecretaría, modifícase la resolución Nº 1.782 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE LOS LAGOS para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio biológico pesquero del recurso Sardina y Anchoveta en aguas interiores de la XI Región", en el sentido de reemplazar su numeral 4º por el siguiente:
+
+"4.- Podrán participar en la presente pesca de investigación las embarcaciones artesanales "Santa María XI" y "Nuvia III", que se encuentran inscritas en el Registro Pesquero Artesanal de la X Región, en la sección pesquería de las especies Sardina común o Anchoveta.
+
+Asimismo, podrán participar en la presente pesca de investigación las embarcaciones artesanales que se encuentran inscritas en el Registro Pesquero Artesanal de la XI Región, en la sección pesquería de las especies Sardina común o Anchoveta. Para tales efectos, la Universidad deberá remitir oportunamente a la oficina del Servicio Nacional de Pesca que corresponda, el listado de embarcaciones que manifiesten por escrito su intención de participar en la presente pesca de investigación.".
+
+Valparaíso, 12 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
