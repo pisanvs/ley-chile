@@ -9918,6 +9918,8 @@ i) Garantías adicionales.
 
 En "Tipo de operación" se informará si se trata de un crédito efectivo o contingente En este último caso deberá especificarse si corresponde a líneas de crédito pactadas, factoring, boletas de garantía u otra clase de financiamiento En "Monto total de la operación" se anotará el importe otorgado para cada clase de financiamiento.
 
+En el caso de créditos cedidos a una sociedad securitizadora, se deberá dejar constancia de la fecha de la cesión y del nombre de la cesionaria.
+
 6.- Información que debe enviarse al Administrador.
 
 Las entidades financieras que se adjudiquen garantías del Fondo, están obligadas a remitir mensualmente al Banco del Estado de Chile, en su calidad de Administrador del Fondo, una nómina de los créditos que cursen, sean éstos efectivos o contingentes. Esta nomina deberá contener la misma información que debe anotarse en el registro señalado en el número precedente, además de la que adicionalmente pudiere requerir la entidad bancaria estatal.
@@ -9930,7 +9932,7 @@ La empresa financiera otorgante del crédito deberá recaudar la comisión a fav
 
 Las instituciones financieras que se adjudiquen las licitaciones de garantía del Fondo deberán celebrar un contrato con el Administrador de éste, en que consten las obligaciones que asume la institución adjudicataria y el procedimiento que debe seguirse para hacer efectiva la garantía.
 
-Especial cuidado deben prestar las entidades que se adjudiquen estas garantías en el sentido de cumplir todas las condiciones establecidas tanto en la ley, como en la reglamentación vigente y en el propio contrato suscrito con el Administrador del Fondo, para obtener el reembolso de los montos garantizados.
+Especial cuidado deben prestar las entidades que se adjudiquen estas garantías en el sentido de cumplir todas las condiciones establecidas tanto en la ley, como en la reglamentación vigente y en el propio contrato suscrito con el Administrador del Fondo, para obtener el reembolso de los montos garantizados. sea por cuenta propia o de su mandante, cuando actúen como mandatario de una sociedad securitizadora por los créditos que le hayan vendido o cedido a ésta.
 
 9.- Instrucciones contables.
 
@@ -9963,6 +9965,10 @@ La comisión que los usuarios de estos créditos deben pagar al Fondo, y que tie
 Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Administrador del Fondo, en reembolso parcial o total de la garantía pagada, se acreditarán a la cuenta "Recuperación Garantías D.L. N°3.472 por entregar al Fondo", de la partida 3010, "Otros saldos acreedores a la vista", en la que permanecerán hasta el instante en que deban entregarse al Banco del Estado de Chile, en su calidad de Administrador del Fondo.
 
 Las sumas recuperadas y abonadas a esta cuenta deberán remitirse al Fondo a lo menos semanalmente.
+
+9.7.- Securitización de créditos garantizados.
+
+Los créditos cubiertos con la garantía del Fondo, con excepción de los créditos contingentes, podrán ser vendidos a una sociedad Securitizadora, observando las disposiciones del Capítulo 8-40 de esta Recopilación Actualizada de Normas. Los créditos vendidos deberán registrarse en una cuenta de orden, en consideración a que el banco cedente debe hacerse cargo de su cobranza por cuenta del Administrador del Fondo.
 
 10.- Información de las deudas subrogadas.
 
