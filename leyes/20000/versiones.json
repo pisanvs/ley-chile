@@ -2,5 +2,14 @@
   {
     "fecha": "2005-02-16",
     "committed": true
+  },
+  {
+    "fecha": "2005-11-14",
+    "committed": true,
+    "modificadaPor": {
+      "numero": "20074",
+      "idNorma": 243832,
+      "titulo": "MODIFICA LOS CODIGOS PROCESAL PENAL Y PENAL"
+    }
   }
 ]
