@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº 6.768 EXENTA, DE 2005, QUE RECTIFICA RESOLUCION Nº 4.189 EXENTA, DE 2005, QUE RECONOCE AL LABORATORIO TAAG GENETICS S.A. PARA REALIZAR PRUEBAS PERICIALES QUE INDICA
+
+La Dirección Nacional del Servicio Médico Legal, por resolución exenta Nº 6.768, de fecha 25 de octubre de 2005, rectifica el considerando sexto y séptimo de la resolución exenta Nº 4.189, cuyo extracto fuera publicado el 03/09/05, cambiando la expresión erróneamente indicada: "Laboratorio Genética y Tecnología Limitada" por Laboratorio Taag Genetics S.A., siendo esta última la correcta.
