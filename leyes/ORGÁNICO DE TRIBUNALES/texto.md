@@ -944,11 +944,11 @@ Un juzgado con asiento en la comuna de Paillaco, con competencia sobre la misma 
 
 Un juzgado con asiento en la comuna de Río Bueno, con competencia sobre las comunas de Río Bueno y Lago Ranco;
 
-Dos juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
+Tres juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
 
 Un juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
 
-Cuatro juzgados con asiento en la comuna de Puerto Montt, con competencia sobre las comunas de Puerto Montt y Cochamó;
+Dos juzgados con asiento en la comuna de Puerto Montt, con competencia sobre las comunas de Puerto Montt y Cochamó;
 
 Un juzgado con asiento en la comuna de Puerto Varas, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
 
@@ -1068,7 +1068,7 @@ f) Derogado.
 
 g) De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b), del N° 1 de este artículo, en que sean parte o tengan interés los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia y
 
-h) De las causas del trabajo y de menores cuyo conocimiento no corresponda a los juzgados de letras del trabajo y de menores respectivamente.
+h) De las causas del trabajo y de familia cuyo conocimiento no corresponda a los juzgados de letras del trabajo y de familia respectivamente.
 
 3° Suprimido.
 
@@ -1082,7 +1082,19 @@ Los jueces de letras que cumplan, además de sus funciones propias, las de juez 
 
 #### Artículo 47
 
-Derogado.
+Tratándose de juzgados de letras que cuenten con un juez y un secretario, las Cortes de Apelaciones podrán ordenar que los jueces se aboquen de un modo exclusivo a la tramitación de una o más materias determinadas, de competencia de su tribunal, cuando hubiere retardo en el despacho de los asuntos sometidos al conocimiento del tribunal o cuando el mejor servicio judicial así lo exigiere.
+
+La Corporación Administrativa del Poder Judicial informará anualmente a las Cortes de Apelaciones y al Ministerio de Justicia respecto de la aplicación que hubiese tenido el sistema de funcionamiento extraordinario y de las disponibilidades presupuestarias para el año siguiente.
+
+#### Artículo 47
+
+A. Cuando se iniciare el funcionamiento extraordinario, se entenderá, para todos los efectos legales, que el juez falta en su despacho. En esa oportunidad, el secretario del mismo tribunal asumirá las demás funciones que le corresponden al juez titular, en calidad de suplente, y por el solo ministerio de la ley.
+
+Quien debiere cumplir las funciones del secretario del tribunal, de acuerdo a las reglas generales, las llevará a efecto respecto del juez titular y de quien lo supliere o reemplazare.
+
+#### Artículo 47
+
+B. Las atribuciones de las Cortes de Apelaciones previstas en el artículo 47 serán ejercidas por una sala integrada solamente por Ministros titulares.
 
 #### Artículo 48
 
@@ -1272,7 +1284,7 @@ d) De las querellas de capítulos.
 
 3º En segunda instancia:
 
-a) De las causas civiles y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su territorio jurisdiccional o uno de sus ministros, y
+a) De las causas civiles, de familia y del trabajo y de los actos no contenciosos de que hayan conocido en primera los jueces de letras de su territorio jurisdiccional o uno de sus ministros, y
 
 b) De las apelaciones interpuestas en contra de las resoluciones dictadas por un juez de garantía.
 
@@ -1318,7 +1330,7 @@ Los Presidentes de las Cortes de Apelaciones formarán el último día hábil de
 
 En las Cortes de Apelaciones que consten de más de una sala se formarán tantas tablas cuantas sea el número de salas y se distribuirán entre ellas por sorteo, en audiencia pública.
 
-En las tablas deberá designarse un día de la semana, a lo menos, para conocer las causas criminales, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
+En las tablas deberá designarse un día de la semana para conocer las causas criminales y otro día distinto para conocer las causas de familia, sin perjuicio de la preferencia que la ley o el tribunal les acuerden.
 
 Sin embargo, los recursos de amparo y las apelaciones relativas a la libertad de los imputados u otras medidas cautelares personales en su contra serán de competencia de la sala que haya conocido por primera vez del recurso o de la apelación, o que hubiere sido designada para tal efecto, aunque no hubiere entrado a conocerlos.
 
@@ -2006,7 +2018,7 @@ Derogado.
 
 #### Artículo 167
 
-De los delitos a que se refiere el artículo sexto conocerán los tribunales de Santiago.
+Las competencias propias de los Jueces de Garantía y de los Tribunales Orales en lo Penal respecto de los delitos perpetrados fuera del territorio nacional que fueren de conocimiento de los tribunales chilenos serán ejercidas, respectivamente, por los Tribunales de Garantía y Orales en lo Penal de la jurisdicción de la Corte de Apelaciones de Santiago, conforme al turno que dicho tribunal fije a través de un auto acordado.
 
 #### Artículo 168
 
@@ -2186,7 +2198,7 @@ Son causas de implicancia:
 
 4°) Ser el juez ascendiente o descendiente legítimo, padre o hijo natural o adoptivo del abogado de alguna de las partes;
 
-5°) Haber sido el juez abogado o apoderado de alguna de las partes en la causa actualmente sometida a su conocimiento;
+5°) Haber sido el juez abogado o apoderado de alguna de las partes en la causa actualmente sometida a su conocimiento o haber intervenido en ella como mediador;
 
 6°) Tener el juez, su consorte, ascendientes o descendientes legítimos, padres o hijos naturales o adoptivos, causa pendiente en que deba fallar como juez alguna de las partes;
 
@@ -2654,7 +2666,7 @@ La inamovilidad de que habla el artículo 77 de la Constitución del Estado rige
 
 #### Artículo 248
 
-Para todos los efectos de este Código se entenderá que las referencias hechas a los jueces letrados o jueces de letras incluyen también a los jueces de juzgados de garantía y a los jueces de los tribunales de juicio oral en lo penal, salvo los casos en que la ley señale expresamente lo contrario.
+Para todos los efectos de este Código se entenderá que las referencias hechas a los jueces letrados o jueces de letras incluyen también a los jueces de juzgados de familia, los jueces de juzgados de garantía y a los jueces de los tribunales de juicio oral en lo penal, salvo los casos en que la ley señale expresamente lo contrario.
 
 #### Artículo 249
 
@@ -2788,7 +2800,7 @@ Habrá también, un Escalafón del Personal de Empleados.
 
 En el Escalafón Primario figurarán: los ministros y el fiscal judicial de la Corte Suprema, los ministros y fiscales judiciales de las Cortes de Apelaciones, los jueces letrados, los relatores, los secretarios de Corte y de juzgados de letras, el prosecretario de la Corte Suprema y el secretario abogado del fiscal judicial de ese mismo tribunal.
 
-En el Escalafón Secundario figurarán: los defensores públicos, notarios, conservadores, archiveros, administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal, procuradores del número, receptores, asistentes sociales y bibliotecarios.
+En el Escalafón Secundario figurarán: los defensores públicos, notarios, conservadores, archiveros, administradores, subadministradores y jefes de unidades de tribunales con competencia en lo criminal, procuradores del número, receptores, miembros de los consejos técnicos y bibliotecarios.
 
 En el Escalafón Especial del personal subalterno, figurarán los empleados de secretaría de los Tribunales de Justicia, los empleados de los fiscales judiciales y los empleados, con nombramiento fiscal de los defensores públicos.
 
@@ -2842,7 +2854,7 @@ Cuarta Serie: Procuradores del número.
 
 Quinta Serie: Receptores de juzgados de letras.
 
-Sexta Serie: Asistentes sociales y bibliotecarios.
+Sexta Serie: Miembros de los consejos técnicos y bibliotecarios.
 
 Cada una de estas series, con excepción de la tercera, se dividirá en tres categorías.
 
@@ -2902,7 +2914,7 @@ c) El fiscal judicial de la Corte Suprema calificará a su secretario abogado, a
 
 d) Los fiscales judiciales de las Cortes de Apelaciones calificarán a los empleados de su oficio, y
 
-e) Los jueces letrados calificarán a sus asistentes sociales y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad.
+e) Los jueces letrados calificarán a los miembros del consejo técnico y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad.
 
 Actuará como secretario de estas comisiones, el secretario del tribunal donde se desempeñe su presidente o en su defecto, el secretario más antiguo de cualquiera de los tribunales cuyos jueces integren la comisión, y si hubiere dos o más secretarios, el que éste designe. Si la calificación corresponde hacerla a una sola persona, ésta designará, en el mes de octubre de cada año, un secretario entre sus subordinados o auxiliares de la Administración de Justicia de su territorio jurisdiccional.
 
@@ -3154,15 +3166,17 @@ b) Con los abogados oponentes y con los funcionarios sin título de abogado de l
 
 #### Artículo 289 bis
 
-Las ternas para proveer los cargos de asistentes sociales y bibliotecarios se formarán del modo siguiente:
+Las ternas para proveer los cargos de miembros del consejo técnico y bibliotecarios se formarán del modo siguiente:
 
-a) Para integrantes de las dos primeras categorías del Escalafón Secundario, según el caso, con el asistente social o bibliotecario más antiguo de la categoría inmediatamente inferior, que figure en lista de méritos y que exprese su interés en el cargo, y con dos asistentes sociales o bibliotecarios, según el caso, de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos en conformidad al inciso primero del artículo 281. A falta de oponentes se incluirá en la terna a asistentes sociales o bibliotecarios, según el caso, ajenos al servicio, elegidos por méritos, y
+a) Para integrantes de las dos primeras categorías del Escalafón Secundario, según el caso, con el miembro del consejo técnico y bibliotecario más antiguo de la categoría inmediatamente inferior, que figure en lista de méritos y que exprese su interés en el cargo, y con dos miembros de los consejos técnicos y bibliotecarios, según el caso, de la misma categoría del cargo que se trata de proveer o de la inmediatamente inferior, elegidos en conformidad al inciso primero del artículo 281. A falta de oponentes se incluirá en la terna a profesionales que cumplan con los requisitos para integrar los consejos técnicos y bibliotecarios, según el caso, ajenos al servicio, elegidos por méritos, y
 
-b) Para integrantes de la tercera categoría, según el caso, con asistentes sociales o bibliotecarios de la misma categoría elegidos en conformidad a lo dispuesto en el inciso primero del artículo 281 o con asistentes sociales o bibliotecarios, según el caso, ajenos al servicio, elegidos por méritos.
+b) Para integrantes de la tercera categoría, según el caso, con profesionales que cumplan con los requisitos para integrar los consejos técnicos o bibliotecarios de la misma categoría elegidos en conformidad a lo dispuesto en el inciso primero del artículo 281 o con profesionales que cumplan con los requisitos para integrar los consejos técnicos o bibliotecarios, según el caso, ajenos al servicio, elegidos por méritos.
 
 Con respecto al derecho propio a que se refiere la letra a), tendrá aplicación lo dispuesto en el inciso final del artículo 284.
 
-Para oponerse al cargo de asistente social o bibliotecario, se requiere estar en posesión del título respectivo otorgado por algún establecimiento de educación superior del Estado o reconocido por éste.
+Para oponerse al cargo de miembro del consejo técnico o bibliotecario, se requiere estar en posesión del título respectivo otorgado por algún establecimiento de educación superior del Estado o reconocido por éste.
+
+Tratándose de los miembros de los consejos técnicos, las ternas respectivas serán formadas por el juez de letras con competencia de familia, por el juez de familia que cumpla funciones de juez presidente o por el Comité de Jueces, según corresponda, y serán resueltas por el Presidente de la Corte de Apelaciones respectiva.
 
 #### Artículo 290
 
@@ -3180,17 +3194,17 @@ El Escalafón del Personal de Empleados se compondrá de las siguientes categor�
 
 Primera categoría: Oficiales segundos de la Corte Suprema, Oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
 
-Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones y Oficiales primeros de los juzgados de letras de asiento de Corte.
+Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, administrativos jefes de juzgados de familia de asiento de Corte y Oficiales primeros de los juzgados de letras de asiento de Corte.
 
-Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia.
+Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia, administrativos contables de juzgados de familia de asiento de Corte, administrativos jefes de juzgados de familia de capital de provincia, administrativos 1° de juzgados de familia de asiento de Corte.
 
-Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas.
+Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas, administrativos jefes de juzgados de familia de comuna, administrativos contables de juzgados de familia de capital de provincia, administrativos 1° de juzgados de familia de capital de provincia, y administrativos 2° de juzgados de familia de asiento de Corte.
 
-Quinta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas.
+Quinta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas, administrativos contables de juzgados de familia de comuna, administrativos 1° de juzgados de familia de comuna, administrativos 2° de juzgado de familia de capital de provincia y administrativos 3° de juzgados de familia de asiento de Corte.
 
-Sexta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco.
+Sexta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco, administrativos 2° de juzgados de familia de comuna y administrativos 3° de juzgados de familia de capital de provincia.
 
-Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia.
+Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia, administrativos 3° de juzgados de familia de comuna.
 
 #### Artículo 293
 
@@ -3354,13 +3368,13 @@ Los jueces de juzgados de garantía deberán asistir a su despacho por 44 horas 
 
 Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primer día hábil de marzo.
 
-Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal.
+Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal y de familia.
 
 #### Artículo 314
 
 Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En las comunas o agrupaciones de comunas en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
 
-Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de los juicios de alimentos, de los juicios del trabajo y de los asuntos relativos a menores cuando les corresponda, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
+Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de los juicios del trabajo cuando les corresponda, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
 
 La habilitación a que se refiere el inciso anterior deberá ser solicitada ante el tribunal que ha de quedar de turno, y en aquellos lugares en que haya más de un Juzgado de turno, la solicitud quedará sujeta a la distribución de causas a que se refiere el inciso primero. Sin embargo, en este último caso, y siempre que se trate de un asunto que con anterioridad al feriado esté conociendo uno de los Juzgados que quede de turno, la solicitud de habilitación se presentará ante él.
 
@@ -4516,15 +4530,15 @@ Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar con
 
 Los archiveros judiciales podrán dar copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas.
 
-### 10. Los Asistentes Sociales Judiciales
+### 10. De los Consejos Técnicos
 
 #### Artículo 457
 
-Los asistentes sociales judiciales son auxiliares de la administración de justicia cuya función es la de informar al tribunal acerca de los aspectos sociales, económicos, ambientales, educacionales y demás que se les requiera, con respecto a las partes o a los hechos y situaciones que han provocado el conflicto o la conducta irregular del individuo.
+Los consejos técnicos son organismos auxiliares de la administración de justicia, compuestos por profesionales en el número y con los requisitos que establece la ley. Su función es asesorar individual o colectivamente a los jueces con competencia en asuntos de familia, en el análisis y mayor comprensión de los asuntos sometidos a su conocimiento en el ámbito de su especialidad.
 
-En cada juzgado especial de menores habrá, a lo menos, un asistente social judicial.
+Cuando por implicancia o recusación, un miembro del consejo técnico no pudiere intervenir en una determinada causa, o se imposibilitare para el ejercicio de su cargo, será subrogado por los demás miembros del consejo técnico del tribunal a que perteneciere, según el orden de sus nombramientos y la especialidad requerida.
 
-Cuando por implicancia o recusación el asistente social judicial no pudiere intervenir en determinadas causas, o se imposibilitare para el ejercicio de su cargo, será subrogado por los demás asistentes sociales del tribunal a que pertenece, según el orden de sus nombramientos; en subsidio, por el asistente social de cualquier servicio publico que el juez designe, el que estará obligado a desempeñar el encargo.
+Si todos los miembros del consejo técnico de un tribunal estuvieren afectados por una implicancia o recusación, el juez designará un profesional que cumpla con los requisitos para integrar un consejo técnico de cualquier servicio público, el que estará obligado a desempeñar el cargo.
 
 ### 11. Los Bibliotecarios Judiciales
 
@@ -4612,7 +4626,7 @@ Derogado.
 
 Las incapacidades en razón de parentesco establecidas en el artículo 258, rigen para todos los funcionarios del Escalafón Primario dependientes de una Corte de Apelaciones en su respectivo territorio jurisdiccional.
 
-No podrán ser fiscales judiciales, administradores, subadministradores, jefes de unidades de tribunales con competencia en lo criminal o asistentes sociales judiciales en un Tribunal las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
+No podrán ser fiscales judiciales, administradores, subadministradores, jefes de unidades de tribunales con competencia en lo criminal o miembros del consejo técnico en un Tribunal las personas que tengan con uno o más jueces de él alguno de los parentescos indicados en el citado artículo.
 
 No pueden ser defensores públicos los que tengan con algunos de los jueces de letras propietarios del respectivo territorio jurisdiccional cualquiera de los parentescos indicados en dicho artículo.
 
@@ -4636,7 +4650,7 @@ El interrogado responderá: "Si juro", y el magistrado que le tome el juramento 
 
 Los Fiscales judiciales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
 
-Los otros funcionarios auxiliares lo harán ante el Juez respectivo. Si el Tribunal estuviere acéfalo lo prestarán ante el Intendente o Gobernador. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
+Los otros funcionarios auxiliares lo harán ante el Juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez. Si el Tribunal estuviere acéfalo lo prestarán ante el Intendente o Gobernador. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
 
 #### Artículo 472
 
@@ -4670,7 +4684,7 @@ Sin embargo, el juez de la causa podrá autorizar su ausencia para el cumplimien
 
 Los notarios, los Conservadores y los Archiveros deberán mantener abierta su oficina al público en las horas que señalen las leyes y los reglamentos respectivos.
 
-Los asistentes sociales judiciales, en cumplimiento de sus funciones, deberán atender en el recinto del Tribunal los días y horas que señale el juez respectivo.
+Los miembros de los consejos técnicos, en cumplimiento de sus funciones, deberán atender en el recinto del Tribunal los días y horas que señale el juez respectivo.
 
 #### Artículo 476
 
@@ -4708,7 +4722,7 @@ Es prohibido a los notarios la aceptación y desempeño de arbitrajes y particio
 
 #### Artículo 481
 
-La prohibición del artículo 321 regirá también con los fiscales judiciales, defensores, relatores, secretarios, receptores y asistentes sociales judiciales.
+La prohibición del artículo 321 regirá también con los fiscales judiciales, defensores, relatores, secretarios, receptores y miembros de los consejos técnicos.
 
 Los notarios y los procuradores del número no podrán comprar los bienes en cuyo litigio han intervenido y que se vendan a consecuencia del litigio, aunque la venta se haga en pública subasta.
 
@@ -4742,15 +4756,15 @@ Los defensores públicos pueden ser recusados en los casos y por las personas po
 
 #### Artículo 487
 
-Las causas de implicancia señaladas respecto de los jueces por el artículo 195 rigen también respecto de los relatores, secretarios, receptores y asistentes sociales judiciales.
+Las causas de implicancia señaladas respecto de los jueces por el artículo 195 rigen también respecto de los relatores, secretarios, receptores y miembros de los consejos técnicos judiciales.
 
 En consecuencia, les es prohibido intervenir como tales en los negocios a que este artículo se refiere.
 
 #### Artículo 488
 
-Para recusar a los relatores, secretarios y asistentes sociales judiciales es menester expresar y probar causa legal.
+Para recusar a los relatores, secretarios y miembros de los consejos técnicos es menester expresar y probar causa legal.
 
-Las causas de recusación de los secretarios y asistentes sociales judiciales son, en cuanto puedan ser aplicables a ellos, las determinadas para la recusación de los jueces por el artículo 196.
+Las causas de recusación de los secretarios y miembros de los consejos técnicos son, en cuanto puedan ser aplicables a ellos, las determinadas para la recusación de los jueces por el artículo 196.
 
 Son causas legales para los relatores las señaladas en los números 1, 2, 4, 5, 6, 7, 8, 11, 12, 13 y 16 del precitado artículo.
 
@@ -4800,7 +4814,7 @@ Es aplicable a los fiscales judiciales y a los relatores lo prescrito en el N° 
 
 Los fiscales judiciales y los defensores públicos cesarán, además, en sus cargos si se produce la situación prevista en el inciso final del artículo 470.
 
-Los secretarios, notarios, conservadores archiveros, receptores y procuradores cesarán también en sus funciones si fueren condenados a la pena de inhabilitación para cargos y oficios públicos.
+Los secretarios, notarios, conservadores archiveros, receptores, miembros de los consejos técnicos y procuradores cesarán también en sus funciones si fueren condenados a la pena de inhabilitación para cargos y oficios públicos.
 
 #### Artículo 495
 

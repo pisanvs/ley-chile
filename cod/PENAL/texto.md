@@ -1746,19 +1746,35 @@ El que falsificare certificados de funcionarios públicos que puedan comprometer
 
 Si el certificado ha sido falsificado bajo el nombre de un particular, la pena será reclusión menor en su grado mínimo.
 
-### VII. Del falso testimonio y del perjurio
+### VII. De las falsedades vertidas en el proceso y del perjurio
 
 #### Artículo 206
 
-El que en causa criminal diere ante el juez falso testimonio a favor del imputado o acusado, será castigado con la pena de presidio menor en su grado máximo y multa de dieciséis a veinte unidades tributarias mensuales, si la causa fuere por crimen; con presidio menor en su grado medio y multa de once a quince unidades tributarias mensuales, si fuere por simple delito, y con presidio menor en su grado mínimo y multa de seis a diez unidades tributarias mensuales, cuando fuere por falta.
+El testigo, perito o intérprete que ante un tribunal faltare a la verdad en su declaración, informe o traducción, será castigado con la pena de presidio menor en sus grados mínimo a medio y multa de seis a veinte unidades tributarias mensuales, si se tratare de proceso civil o por falta, y con presidio menor en su grado medio a máximo y multa de veinte a treinta unidades tributarias mensuales, si se tratare de proceso penal por crimen o simple delito.
+
+Tratándose de peritos e intérpretes, sufrirán además la pena de suspensión de profesión titular durante el tiempo de la condena.
+
+Si la conducta se realizare contra el imputado o acusado en proceso por crimen o simple delito, la pena se impondrá en el grado máximo.
+
+Están exentos de responsabilidad penal por las conductas sancionadas en este artículo quienes se encuentren amparados por cualquiera de los supuestos a que se refiere el artículo 305 del Código Procesal Penal.
 
 #### Artículo 207
 
-El que en causa criminal diere ante el juez falso testimonio en contra del imputado o acusado, sufrirá las penas de presidio mayor en su grado mínimo y multa de veintiuno a veinticinco unidades tributarias mensuales, si la causa fuere por crimen; de presidio menor en su grado máximo y multa de once a veinte unidades tributarias mensuales, si fuere por simple delito, y de presidio menor en su grado medio y multa de seis a diez unidades tributarias mensuales e inhabilitación absoluta perpetua para derechos políticos y por el tiempo de la condena para cargos y oficios públicos, cuando fuere por falta.
+El que, a sabiendas, presentare ante un tribunal a los testigos, peritos o intérpretes a que se refiere el artículo precedente, u otros medios de prueba falsos o adulterados, será castigado con la pena de presidio menor en su grado mínimo a medio y multa de seis a veinte unidades tributarias mensuales, si se tratare de proceso civil o por falta, y con presidio menor en su grado medio a máximo y multa de veinte a treinta unidades tributarias mensuales, si se tratare de proceso penal por crimen o simple delito.
+
+Los abogados que incurrieren en la conducta descrita sufrirán, además, la pena de suspensión de profesión titular durante el tiempo de la condena.
+
+Tratándose de un fiscal del Ministerio Público, la pena será de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+
+En todo caso, si la conducta se realizare contra el imputado o acusado en proceso por crimen o simple delito, la pena se impondrá en el grado máximo.
 
 #### Artículo 208
 
-Si en virtud del falso testimonio se hubiere impuesto al acusado una pena respectivamente mayor que las determinadas en el artículo precedente, se aplicará la misma al testigo falso.
+La retractación oportuna de quien hubiere incurrido en alguna de las conductas previstas en los dos artículos precedentes constituirá circunstancia atenuante muy calificada, en los términos del artículo 68 bis de este Código.
+
+Retractación oportuna es aquélla que tiene lugar ante el juez en condiciones de tiempo y forma adecuados para ser considerada por el tribunal que debe resolver la causa.
+
+En todo caso, la retractación oportuna eximirá de responsabilidad penal en casos calificados, cuando su importancia para el esclarecimiento de los hechos y la gravedad de los potenciales efectos de su omisión así lo justificaren.
 
 #### Artículo 209
 
@@ -1778,7 +1794,7 @@ La acusación o denuncia que hubiere sido declarada calumniosa por sentencia eje
 
 #### Artículo 212
 
-El que a sabiendas presentare en juicio criminal o civil testigos o documentos falsos, será castigado con las penas del falso testimonio.
+El que fuera de los casos previstos en los artículos precedentes faltare a la verdad en declaración prestada bajo juramento o promesa exigida por ley, será castigado con la pena de prisión en cualquiera de sus grados o multa de una a cuatro unidades tributarias mensuales.
 
 ### VIII. Del ejercicio ilegal de una profesión y de la usurpación de funciones o nombres
 
@@ -2216,17 +2232,25 @@ Los que turbaren gravemente la tranquilidad pública para causar injuria u otro 
 
 Incurrirá en la pena de presidio menor, en su grado mínimo a medio, el que impidiere o dificultare la actuación del personal de los Cuerpos de Bomberos u otros servicios de utilidad pública, destinada a combatir un siniestro u otra calamidad o desgracia que constituya peligro para la seguridad de las personas.
 
-§ II bis. De la obstrucción a la justicia.
+§ II bis. De la obstrucción a la investigación.
 
 #### Artículo 269 bis
 
-El que se rehusare a proporcionar a los tribunales de justicia antecedentes que conozca o que obren en su poder y que permitan establecer la existencia de un delito o la participación punible en él, o que, con posterioridad a su descubrimiento, destruya, oculte o inutilice el cuerpo, los efectos o instrumentos de un crimen o simple delito, será sancionado con la pena señalada para el respectivo crimen o simple delito, rebajada en dos grados.
+El que, a sabiendas, obstaculice gravemente el esclarecimiento de un hecho punible o la determinación de sus responsables, mediante la aportación de antecedentes falsos que condujeren al Ministerio Público a realizar u omitir actuaciones de la investigación, será sancionado con la pena de presidio menor en su grado mínimo y multa de dos a doce unidades tributarias mensuales.
 
-Estarán exentas de las penas que establece este artículo las personas a que se refieren el inciso final del artículo 17 de este Código y el artículo 210 del Código y los artículos 302 y 303 del Código Procesal Penal.
+La pena prevista en el inciso precedente se aumentará en un grado si los antecedentes falsos aportados condujeren al Ministerio Público a solicitar medidas cautelares o a deducir una acusación infundada.
+
+El abogado que incurriere en las conductas descritas en los incisos anteriores será castigado, además, con la pena de suspensión de profesión titular durante el tiempo de la condena.
+
+La retractación oportuna de quien hubiere incurrido en las conductas de que trata el presente artículo constituirá circunstancia atenuante. Tratándose de las situaciones a que se refiere el inciso segundo, la atenuante se considerará como muy calificada, en los términos del artículo 68 bis.
+
+Se entiende por retractación oportuna aquélla que se produjere en condiciones de tiempo y forma adecuados para ser considerada por el tribunal que debiere resolver alguna medida solicitada en virtud de los antecedentes falsos aportados o, en su caso, aquélla que tuviere lugar durante la vigencia de la medida cautelar decretada en virtud de los antecedentes falsos aportados y que condujere a su alzamiento o, en su caso, la que ocurra antes del pronunciamiento de la sentencia o de la decisión de absolución o condena, según corresponda.
+
+Estarán exentas de las penas que establece este artículo las personas a que se refieren el inciso final del artículo 17 de este Código y el artículo 302 del Código Procesal Penal.
 
 #### Artículo 269 ter
 
-El fiscal del Ministerio Público que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia de un delito, la participación punible en él, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
+El fiscal del Ministerio Público que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
 
 ### III. De la rotura de sellos
 
