@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 1.081 de 26 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 4-G para la obra: Camino Mejoramiento Ruta K-705, Sector Cruce Ruta 115 CH (El Guindo) Vilches, Tramo km. 0,00000 a km. 13,06400 (Ruta K-705), km.
+
+35,46000 a km. 35,80000 (Ruta 115-CH), que figura a nombre de González Moya Juan de La Cruz, rol de avalúo 374-19, comuna de San Clemente, VII Región, superficie 688 m². La Comisión de Peritos fijó con fecha 15 de septiembre de 2004 el monto de la indemnización provisional en la cantidad de $287.800.- lote Nº 4-G. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º, del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
