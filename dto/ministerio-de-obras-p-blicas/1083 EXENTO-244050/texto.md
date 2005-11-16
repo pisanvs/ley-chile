@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.083 de 26 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 19-F para la obra: Camino Ruta K-630, Sector Culenar - Chacarilla, km. 0,00000 a km. 4,74100, que figura a nombre de Valdés Zuqiga María Loreto, rol de avalúo 227-29, comuna de Maule, VII Región, superficie 383,29 m2. La Comisión de Peritos fijó con fecha 2 de febrero de 2005, en la cantidad de $383.290.- lote Nº19-F. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
