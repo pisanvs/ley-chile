@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 211 de 29 de marzo de 2005, se expropió el lote de terreno Nº 34, superficie 747 m²., Rol Nº 1535-487, comuna de Los Angeles, para la obra "Mejoramiento Ruta Q-503, Los Angeles - El Peral", VIII Región y se acordó el valor de la indemnización con su propietaria Olga del Carmen Valenzuela Granadino, ascendente a la cantidad de $2.051.235.-
+
+Fiscal del Ministerio de Obras Públicas.
