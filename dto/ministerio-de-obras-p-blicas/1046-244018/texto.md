@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.046 de 11 de octubre de 2005, se dejó sin efecto los numerales 3º, 4º 5º y 6º de los decretos MOP Nº 126 de 29 de febrero de 1996 y Nº 330 de 31 de marzo de 1997, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecto a la indemnización de los lotes Nº 1 y 9 respectivamente. Consígnese judicialmente el monto provisional de la indemnización de los lotes Nºs. 1 y 9, fijada por la Comisión de Peritos, con fecha 27 de diciembre de 1994, ascendente a las cantidades de $89.000.- para el lote Nº 1 y $118.400.- para el lote Nº 9.-
+
+Fiscal del Ministerio de Obras Públicas.
