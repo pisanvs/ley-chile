@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.007, de 29 de septiembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 71-A para la obra: "Camino Ruta O-66-N, Sector Nueva Aldea-Ñipas, Tramo I Km. 0,00000 a Km.
+
+5,58300, Tramo II Km. 5,57900 a Km. 10,19480", que figura a nombre de Ormeño Ormeño Ignacia, rol de avalúo Nº 159-6, Comuna de Ranquil, VIII Región, superficie 118 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 12 de enero de 2002, en la cantidad de $16.461.000.- para el lote Nº 71-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
