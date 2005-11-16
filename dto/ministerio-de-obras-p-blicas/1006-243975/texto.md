@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.006 de fecha 29 de septiembre del 2005, se expropiaron los lotes de terreno Nºs. 2 y 4, superficies 5.014 y 2.377 m², rol Nº 383-68, comuna de Pitrufquén, IX Región para la obra "Descarga Final Canal Comuy, Km. 0,000 a Km. 1.086", y se acordó el valor de indemnización con su propietario Luis Alberto Conrado Sauterel Maisan, ascendente a la cantidad de $5.968.626.- para los lotes Nºs 2 y 4.
+
+Fiscal del Ministerio de Obras Públicas.
