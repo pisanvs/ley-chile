@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.020, de 29 de septiembre de 2005, se expropió el lote de terreno Nº 20-F, superficie 1.344,74 m2., Rol de avalúo Nº 271-214, comuna de Quintero, para la obra "Ruta F-190, Sector Colmo Puchuncaví, Km. 0,00000 al 25,22591", V Región, y se acordó el valor de la indemnización con su propietaria María Isabel Undurraga Montt ascendente a la cantidad de $3.484.435.-
+
+Fiscal del Ministerio de Obras Públicas.
