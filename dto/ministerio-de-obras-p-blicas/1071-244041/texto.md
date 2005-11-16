@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.071, de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se dejó sin efecto el decreto MOP Nº 684, de 19 de agosto de 2004, que expropió los lotes de terreno Nºs 1, 3, 4 y 5, que figuran a nombre de Gómez Gómez Ricardo y Serviu V Región, roles de avalúo 8364-250, 8364-258, 8364-259 y 8364-260, superficies 303 m².; 200 m².; 200 m². y 281 m²., para la obra Mejoramiento Agua Potable sectores Héroes del Mar, Cañería de Alta y Chorrillos, comuna y provincia de Valparaíso, V Región. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
