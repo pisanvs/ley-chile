@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.005 de 29 de septiembre de 2005, se expropió el lote de terreno Nº 20-B, superficie 5.330,40 m²., rol de avalúo Nº 271-14, comuna de Quintero, para la obra "Ruta F-190, Sector Colmo Puchuncaví, Km. 0,00000 al 25,22591, comunas de Limache, Con-Con, Quintero, Quillota y Puchuncaví, Provincias de Valparaíso y Quillota, V Región", V Región y se acordó el valor de la indemnización con su propietario Asociación Canal de Mauco, ascendente a la cantidad de $11.538.549.-
+
+Fiscal del Ministerio de Obras Públicas.
