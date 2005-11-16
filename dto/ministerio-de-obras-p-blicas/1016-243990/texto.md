@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.016, de 29 de septiembre de 2005, se expropió el lote de terreno Nº 407, superficie 15.368 m2. Rol de avalúo 877-84, comuna de Villa Alemana, para la obra Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 2: Km. 21.000,00 al Km. 38.500,00. Quinta Región. Se acordó el valor de la indemnización con su propietaria Luisa Silva Villalobos y Otras, ascendente a la cantidad de $26.225.619.-
+
+Fiscal del Ministerio de Obras Públicas.
