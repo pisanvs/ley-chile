@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.018, de fecha 29 de septiembre de 2005, se expropió el lote de terreno Nº 20-E, superficie 8.753,58 m2, Rol Nº 271-014, comuna de Quintero, V Región, para la obra "Camino ruta F-190, sector Colmo - Puchuncaví, Km. 0,00000 al Km. 25,22591", y se acordó el valor de indemnización con su propietario Asociación Canal de Mauco ascendente a la cantidad de $19.445.203.-
+
+Fiscal del Ministerio de Obras Públicas.
