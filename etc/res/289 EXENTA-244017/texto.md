@@ -1,0 +1,5 @@
+REVOCA RECONOCIMIENTO OFICIAL A ESCUELA DE CONDUCTORES PROFESIONALES QUE INDICA
+
+Por resolución exenta Nº 289, de fecha 26 de agosto de 2005, se resolvió revocar el reconocimiento oficial otorgado a la Escuela de Conductores Profesionales "Escuela de Conductores y Capacitación Capacitasur Limitada", mediante las resoluciones exentas Nº 84/2000, y Nº 121/2001; cuyos planes y programas fueron aprobados a través de las resoluciones exentas Nº 61/2000, 119/2000, 22/2001 y 89/2002; para impartir cursos conducentes a obtener las licencias profesionales clases A1, A2, A3, A4 y A5, en el establecimiento ubicado en Andrés Bello Nº 770, comuna de Temuco; ordenándose publicar la citada resolución mediante resolución exenta Nº 358, de fecha 28 de septiembre de 2005.
+
+Vivianne Fernández Mora, Secretaria Regional Ministerial de Transportes y Telecomunicaciones IX Región de la Araucanía.
