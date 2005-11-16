@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.077 de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: Camino Ruta J- 111, Sector Cruce Long. - Morza, Tramo km. 5,716 a km. 5,975, que figura a nombre de Agropecuaria Walker Prieto Ltd, rol de avalúo 66-6, comuna de Teno, VII Región, superficie 2.354 m2. La Comisión de Peritos fijó con fecha 9 de octubre de 2002, en la cantidad de $6.525.000.- lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
