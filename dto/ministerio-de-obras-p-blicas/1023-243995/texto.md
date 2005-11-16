@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.023 de fecha 29 de septiembre del 2005, se expropió el lote de terreno Nº 3, superficie 7.518,2 m², rol Nº 385-17, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Canal Monte Canelo", y se acordó el valor de indemnización con su propietario Reinhard Waldemar Redel Sassack, ascendente a la cantidad de $5.012.664.-
+
+Fiscal del Ministerio de Obras Públicas.
