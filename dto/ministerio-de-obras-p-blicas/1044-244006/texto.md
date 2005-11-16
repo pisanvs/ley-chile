@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.044 de 11 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 24-O para la obra: Camino Ruta K-620, Sector Culenar - Maule, km. 0,000.00 a km. 10,520.00, que figura a nombre de Domínguez Concha Alejandro, rol de avalúo 174-18, Comuna de Maule, VII Región, superficie 1.104 m². La Comisión de Peritos con fecha 24 de septiembre de 2002, fijó el monto de la indemnización provisional en la cantidad de $4.416.000.- lote Nº 24-O. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
