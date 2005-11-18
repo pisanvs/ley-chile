@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.739, de 8 de noviembre de 2005, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº269, de 2005, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de jurel, I y II Región año 2005", en el sentido de incorporar a la nave industrial "Atacama IV", del armador Compañía Pesquera Camanchaca S.A., en el listado de naves autorizadas a operar en el marco de la presente pesca de investigación.
+
+Valparaíso, 8 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
