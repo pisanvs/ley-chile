@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.473, de 19 de octubre de 2005, de esta Subsecretaría, autorízase a PRODUCTOS DEL MAR ENSENADA CODIHUE LIMITADA para ampliar actividades pesqueras de transformación, autorizadas por la resolucióin Nº 3.214 de 2003, de esta Subsecretaría, en orden a incorporar a su planta ubicada en Parcela 39, camino Las Quemas, Parque Industrial Apiasmontt, Puerto Montt, X Región, en las líneas de proceso de Seco salado, Ahumado, Cocido, Fresco-enfriado y Fresco-refrigerado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 19 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
