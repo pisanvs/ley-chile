@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.628, de 26 de octubre de 2005, de esta Subsecretaría, modifícase la resolución Nº 2034, modificada por resoluciones Nº 2382 y Nº 3366, ambas de 2005, de esta Subsecretaría, que autorizó a la Universidad CatOlica del Norte, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) en el litoral de la IV Región", en el sentido de extender el plazo de ejecución de la citada pesca de investigacióin hasta el día 31 de diciembre de 2005, inclusive.
+
+Valparaíso, 26 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
