@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.474, de 19 de octubre de 2005, de esta Subsecretaría, autorízase a ALDO JORGE D'ARRIGO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Sector El Rosario s/nº, comuna de Calbuco, provincia de Llanquihue, X Región, donde podrá elaborar en las líneas de proceso de Cocido y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 19 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
