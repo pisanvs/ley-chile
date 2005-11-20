@@ -1,0 +1,33 @@
+MODIFICA DECRETO Nº 71 EXENTO, DE 1999, MODIFICADO POR DECRETO Nº 109 EXENTO, DE 2000
+
+Núm. 599 exento.- Santiago, 9 de noviembre de 2005.- Vistos: Estos antecedentes; la transacción judicial celebrada entre la persona que más adelante se individualiza y el Fisco de Chile, y lo solicitado por la División Jurídica, mediante providencia Nº 356, de 8 de septiembre de 2005.
+
+Considerando:
+
+Que, mediante decreto (exento) Nº 71, de 19 de febrero de 1999, del Ministerio de Bienes Nacionales, se fijó los deslindes del cauce del río Mapocho, en el sector puente San Enrique hasta el puente Lo Saldes, contiguo a terrenos de la Universidad Católica de Chile;
+
+Que, mediante decreto (exento) Nº 109, de 28 de enero de 2000, también del Ministerio de Bienes Nacionales, se modificó el decreto antes señalado, en el sentido que la fijación de los deslindes del cauce del río Mapocho de la Región Metropolitana, correspondía entre el sector del puente San Enrique y el canal San Carlos;
+
+Que, don Fernando Antonio Córdova López, don Carlos Ramírez Angeli, en representación de doña Beatriz Alejandra Salva López y de don Juan Luis Salva López; don Julio Reymond Nieto, en representación de don José Javier Arsenio Córdova López, de doña María Fernanda Vásquez López y de don José Ignacio Vásquez López, interpusieron reclamación judicial en contra del Fisco de Chile, solicitando se dejara sin efecto el decreto (exento) Nº 109, de 28 de enero de 2000, que modificó al decreto (exento) Nº 71, de 19 de febrero de 1999, dando origen a la causa caratulada "Córdova López José Javier Arsenio y otros con Fisco de Chile", Rol Nº 2765-2002, del Sexto Juzgado Civil de Santiago y en los autos sobre Nulidad de Derecho Público, caratulado en la misma forma Rol Nº 2742-2002, del Primer Juzgado Civil de Santiago;
+
+Que, mediante transacción judicial entre las personas ya individualizadas y el Fisco de Chile, representado por el Consejo de Defensa del Estado, acordaron poner término, en forma definitiva y total al juicio antes señalado y a cualquier otro que en el futuro pudiera plantearse con relación a la materia;
+
+Que, con el mérito de esta transacción judicial, firmada por las partes y aprobada por el Primer Juzgado Civil de Santiago, se hace necesario modificar el decreto (exento) Nº 71, de 1999, modificado por decreto (exento) Nº 109, de 2000, ambos del Ministerio de Bienes Nacionales, fijando los deslindes definitivos del cauce del río Mapocho en la parte que colinda con las propiedades de los demandantes.
+
+Teniendo presente: Lo dispuesto en el DS Nº 609, de 1978; lo prescrito en los artículos 267, del Código de Procedimiento Civil, y 2460 del Código Civil; y en la resolución Nº 520 de 1996, de la Contraloría General de la República y sus modificaciones,
+
+Decreto:
+
+I.- Modifícase el decreto (exento) Nº 71, de 19 de febrero de 1999, modificado a su vez por decreto (exento) Nº 109, de 28 de enero de 2000, ambos del Ministerio de Bienes Nacionales, en el sentido que se fija el deslinde definitivo del cauce del río Mapocho, en la parte en donde se ubican los inmuebles de propiedad de don Fernando Antonio Córdova López, de doña Beatriz Alejandra Salva López, de don Juan Luis Salva López, de don José Javier Arsenio Córdova López, de doña María Fernanda Vásquez López y de don José Ignacio Vásquez López, deslinde Sur, entre el río Mapocho, bien nacional de uso público y el bien inmueble denominado cerro Alvarado de propiedad de los demandantes, mediante una línea divisoria de color azul, entre ambos inmuebles que pasa por las siguientes coordenadas: Punto 1, Norte 6.306.383,27 y Este 357.492,27; Punto 2, Norte 6.306.410,20 y Este, 357.526,71; Punto 3, Norte 6.306.444,45 y Este 357.624,55; Punto 4, Norte 6.306.473,44 y Este 357.685,50; Punto 5, Norte 6.306.514,91 y Este 357.849,03; Punto 6, Norte 6.306.536,67 y Este 357.921,74; Punto 7, Norte 6.306.570,13 y Este 357.963,14; Punto 8, Norte 6.306.620,89 y Este 358.015,86; Punto 9, Norte 6.306.656,92 y Este 358.067,36; Punto 10, Norte 6.306.721,27 y Este 358.114,56; Punto 11, Norte 6.306.744,21 y Este 358.164,00; Punto 12, Norte 6.306.772,91 y Este 358.245,70; Punto 13, Norte 6.306.807,35 y Este 358.314,89; Punto 14, Norte 6.306.860,22 y Este 358.436,34; Punto 15, Norte 6.306.879,86 y Este 358.491,80; Punto 16, Norte 6.306.911,68 y Este 358.570,10; Punto 17, 6.306.951,89 y Este 358.642,50; Punto 18, Norte 6.306.978,41 y Este 358.672,76; Punto 19, Norte 6.307.004,52 y Este 358.702,35; Punto 20, Norte 6.307.021,44 y Este 358.736,40; Punto 21, Norte 6.307.037,16 y Este 358.748,43; Punto 22, Norte 6.307.047,22 y Este 358.764,99; y Punto 23, Norte 6.307.055,74 y Este 358.768,89; y que aparece signada como "Línea de Deslindes Acordado" en el plano signado como Plano Acuerdo deslindes río Mapocho Zona Oriente sector Puente San Francisco-Puente Tabancura (Cerro Alvarado) Fisco con Sucesión López, firmado por las partes y aprobado por el Consejo de Defensa del Estado, los Ministerios de Obras Públicas y de Bienes Nacionales, declarándose que dicho plano forma parte integrante de la transacción.
+
+II.- Se hace presente que el plano que se menciona en el numerando I forma parte del presente decreto, cuya copia se inscribirá en la Dirección de Obras de la I. Municipalidad de Vitacura y se agregará, conjuntamente con la transacción judicial, con la resolución judicial que lo apruebe con su certificado o resolución de ejecutoria, en el Registro correspondiente del Conservador de Bienes Raíces de Santiago y se anotará al margen de las inscripciones de dominio del predio de los demandantes, denominado Cerro Alvarado, que rolan a fs.
+
+10.662 Nº 11.701, del Registro de Propiedad de 1999, a fs. 35.958 Nº 35.680, del Registro de Propiedad de 2001 y a fs. 17.291 Nº 20.032, del Registro de Propiedad de 2001, todas del Conservador de Bienes Raíces de Santiago.
+
+III.- Se deja constancia que la transacción celebrada en la causa antes referida no altera las coordenadas del decreto (exento) Nº 109, de 2000, pero sí el deslinde del cauce fijado en dicho decreto.
+
+IV.- El presente decreto formará parte integrante del que se modifica, para todos los efectos legales, el que mantendrá su vigencia en todo lo demás.
+
+Anótese, regístrese en el Ministerio de Bienes Nacionales, comuníquese, notifíquese al Primer Juzgado Civil de Santiago y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Sonia Tschorne Berestesky, Ministra de Vivienda y Urbanismo, Ministra de Bienes Nacionales.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Alvaro Medina Aravena, Subsecretario de Bienes Nacionales (S).
