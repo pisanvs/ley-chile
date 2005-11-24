@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.869, de 16 de noviembre de 2005, de esta Subsecretaría, recházase la solicitud de modificación de proyecto técnico y cronograma de actividades Nº 204111091 presentada por JORGE ALEJANDRO CARLOS JOSE OSSA ARANGUA, para el centro de cultivo ubicado en Isla Partida (III), XI Región, otorgado por resolución Nº 1.281 de 2004, de la Subsecretaría de Marina.
+
+Valparaíso, 16 de noviembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
