@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.872, de 16 de noviembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204031015 presentada por COMPAÑIA PESQUERA CAMANCHACA S.A., para instalar y operar un centro de cultivo ubicado en bahía Inglesa, sector oeste de Islotes Copiapinos 1, III Región.
+
+Valparaíso, 16 de noviembre de 2005.- Edith Saa Collantes, Subsecretario de Pesca (S).
