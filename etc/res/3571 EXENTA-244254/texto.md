@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.571, de 25 de octubre de 2005, de esta Subsecretaría, autorízase a MARCELA ANDREA RIVERA ARCE, para ampliar actividades pesqueras de transformación, autorizadas por la resolución Nº 3.043 de 2005, de esta Subsecretaría, en orden a incorporar a su planta ubicada en lote I, Parcela Nº 39, Los Suspiros s/n, camino a Punta Cortés, Rancagua, VI Región, en las líneas de proceso de cocido, fresco enfriado, congelado, seco salado, ahumado, harina, alga seca y deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
