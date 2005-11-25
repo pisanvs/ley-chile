@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.903, de 17 de noviembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111109 presentada por INVERSIONES CONCOTO LTDA. para instalar y operar un centro de cultivo ubicado en Golfillo de la Lobada de Quetros, Isla Sin Nombre, sector costa sur, XI Región.
+
+Valparaíso, 17 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
