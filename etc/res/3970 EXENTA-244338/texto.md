@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.970, de 18 de noviembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111274 presentada por COMPAÑIA PESQUERA CAMANCHACA S.A. para instalar y operar un centro de cultivo ubicado en Canal King, sector Extremo sureste de Isla Tahuenahuec, XI Región.
+
+Valparaíso, 18 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
