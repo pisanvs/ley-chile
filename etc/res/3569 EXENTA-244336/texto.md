@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.569 de 25 de octubre de 2005 de esta Subsecretaría, autorízase a SOCIEDAD JIMENEZ GUTIERREZ Y COMPAÑIA LIMITADA para ampliar actividades pesqueras de transformación, autorizadas por la resolución Nº2.495 de 2000, de esta Subsecretaría, en orden a incorporar a su planta ubicada en Lagunitas, camino Las Quemas Km. 12, comuna de Puerto Montt, provincia de Llanquihue, X Región, en las líneas de proceso de Fresco enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
