@@ -1,0 +1,35 @@
+APRUEBA BASES Y LLAMA A PROPUESTA PUBLICA "ADQUISICION DE JUGUETES ARTESANALES"
+
+Lo Prado, 18 de noviembre de 2005.- La Alcaldía decretó hoy:
+
+Núm. 1.580.- Vistos: Las Bases Administrativas Especiales y Especificaciones Técnicas para el llamado a Propuesta Pública "Adquisición de Juguetes Artesanales"; el memorándum Nº 285 de fecha 15 de noviembre de 2005 de Director de Secplac, que adjunta Bases respectivas para revisión; el memorándum Nº 461 de fecha 17 de noviembre de 2005 de Dirección de Asesoría Jurídica, en el que señala que éstas se ajustan a derecho por lo que procedería se dictara el respectivo decreto alcaldicio que las apruebe y disponga el llamado a propuesta; el visto bueno anotado por el Sr. Alcalde al margen del mismo documento; y
+
+Teniendo Presente: Las facultades que me confiere la ley Nº 18.695 Orgánica Constitucional de Municipalidades.
+
+Decreto:
+
+1.- Apruébanse, por este acto, las Bases
+
+Administrativas Especiales y Especificaciones Técnicas
+
+para la Propuesta Pública "Adquisición de Juguetes
+
+Artesanales".
+
+2.- Llámese a Propuesta Pública para la adquisición señalada en el punto anterior.
+
+3.- Publíquese el llamado a propuesta pública en el Portal ChileCompra a partir del día viernes 18 de noviembre de 2005, y en el Diario Oficial.
+
+4.- Fíjase el valor por derecho de participación en la suma de $5.000.- (cinco mil pesos) IVA incluido, que se podrá pagar hasta las 14:00 horas del día jueves 24 de noviembre de 2005 en la Oficina de Contabilidad y Presupuesto de la Municipalidad de Lo Prado.
+
+Recepción de Consultas: Lunes 21 de noviembre de 2005 de 8:30 a 14:00 horas a través del sistema ChileCompra.
+
+Entrega de Respuestas: Martes 22 de noviembre de 2005, a través del sistema de ChileCompra.
+
+Entrega de Muestras: Se recibirán muestras de los juguetes solicitados en las Especificaciones Técnicas el día jueves 24 de noviembre de 2005, desde las 9:00 horas hasta las 14:00 horas en la Dirección de Desarrollo Comunitario, ubicada en Avda. San Pablo Nº 5959.
+
+5.- La apertura de la Propuesta es el día viernes 25 de noviembre de 2005 a las 12:00 horas en la Sala de Reuniones de Alcaldía, en presencia del Sr. Director de Secplac, Sr. Director de Desarrollo Comunitario, Sra. Directora de Asesoría Jurídica y Sra. Secretaria Municipal, quien actuará como Ministro de Fe.
+
+6.- La Comisión de Evaluación estará integrada por las Direcciones de Secplac, Asesoría Jurídica, Desarrollo Comunitario y Sr. Administrador Municipal.
+
+Anótese, comuníquese y archívese.- L. Gonzalo Navarrete Muñoz, Alcalde.- Georgina Villarroel Báez, Secretaria Municipal.
