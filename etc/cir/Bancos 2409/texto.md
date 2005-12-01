@@ -14050,19 +14050,19 @@ Los bienes recibidos o adjudicados en pago deben ser enajenados dentro del plazo
 
 Para todos los efectos, se considerará como fecha de adquisición o de enajenación, a fecha en que sea firmada la correspondiente escritura. Sin embargo, en caso de que existan situaciones legales que impidan perfeccionar la adjudicación respectiva como, por ejemplo, embargo o prohibiciones de celebrar actos o contratos, podrá considerarse como fecha de adquisición aquélla en que quede resuelto el problema de que se trate, debiendo mantenerse a disposición de esta Superintendencia los antecedentes que justifiquen tal determinación.
 
-4.2. Plazo adicional.
+4.2.- Plazo adicional.
 
-No obstante lo señalado en el numeral 4.1 anterior, las instituciones financieras dispondrán de un plazo adicional de hasta dieciocho meses contado desde el vencimiento del plazo allí indicado exclusivamente cuando se presenten los siguientes casos justificados:
+No obstante lo señalado en el numeral 4.1 anterior, las instituciones financieras dispondrán de un plazo adicional de hasta dieciocho meses contados desde el vencimiento del plazo allí indicado, cuando se presenten los siguientes casos justificados:
 
-i) existe una prohibición judicial para enajenar el bien;
+i) exista una prohibición judicial para enajenar el bien;
 
-ii) la institución financiera haya entablado un juicio para obtener la restitución o desalojo del bien;
+ii) la institución financiera haya entablado un juicio para obtener la restitución o desalojo del bien; o,
 
 iii) sea necesario obtener el alzamiento de un gravamen o efectuar reparaciones o terminaciones para obtener un mejor precio de venta para un bien, siempre que el tiempo necesario al efecto sea superior a doce meses.
 
-Para hacer uso del plazo adicional de que se trata,las Instituciones financieras deberán castigar contablemente los respectivos bienes. Dicho castigo podrá efectuarse en tantas parcialidades mensuales iguales y sucesivas, como sea el número de meses fijado para la prórroga.
+En los demás casos no contemplados en el párrafo anterior, la institución podrá hacer uso de un plazo adicional de doce meses, sólo si cuenta con la autorización previa de esta Superintendencia. Para obtener dicha autorización, el banco deberá acompañar a su solicitud un programa para la enajenación de los bienes de que se trate, aprobado por el Directorio. En la información que se entregue se explicarán las razones que, a juicio del Directorio, justifican la prórroga, y se detallarán los bienes a los cuales se les aplicará el mayor plazo.
 
-Tanto lo plazos generales señalados en el numeral 4.1 anterior como el plazo adicional que se dispone en el presente numeral, corresponden al tiempo máximo para enajenar establecido en la ley, de manera que no procede, en caso alguno, solicitar a esta Superintendencia autorizaciones para excederlos.
+Para hacer uso de los plazos adicionales de que trata este numeral, las instituciones financieras deberán castigar contablemente los respectivos bienes.
 
 4.3. Bienes no liquidables.
 
@@ -14070,113 +14070,31 @@ Cuando se trate de bienes, especialmente acciones, derechos en sociedades o inst
 
 ### 5. Condiciones para la enajenación
 
-Los bienes recibidos o adjudicados en pago podrán ser vendidos de la forma que
+Los bienes recibidos o adjudicados en pago podrán ser vendidos de la forma que la administración estime más adecuada para el resguardo de los intereses de la institución, sin perjuicio del plazo a que se refiere el numeral 4.1 de este título.
 
-la administración estime más adecuada para el resguardo de los intereses de la
+Cuando se trate de acciones recibidas en pago o adjudicadas, su venta debe realizarse en un mercado secundario formal, esto es actualmente, en rueda o remate en una Bolsa de Valores, a menos que esta Superintendencia autorice su venta a través de licitación pública. Para obtener dicha autorización, las instituciones financieras deben acompañar los antecedentes que justifiquen la venta directa, explicando las razones por las que ella sería más conveniente y la forma en que se garantizará la transparencia de la operación.
 
-institución, sin perjuicio del plazo a que se refiere el numeral 4.1 de este
+En todo caso, tanto las enajenaciones a personas o empresas relacionadas con la institución, a que se refiere el Capítulo 12-4 ya citado, como las efectuadas a trabajadores, ya sea de la propia institución o de empresas relacionadas, no podrán realizarse en condiciones menos favorables para los intereses de la empresa que aquéllas que se hubieren obtenido en una venta a terceros.
 
-título.
+Para enajenar a entidades relacionadas, bienes recibidos en pago o adjudicados,se requerirá la autorización previa de esta Superintendencia. En la solicitud que para este objeto se presente, deberán informarse los precios, condiciones de pago y demás antecedentes necesarios para evaluar la eventual transacción,acompañada de una opinión de los auditores externos de la
 
-Cuando se trate de acciones recibidas en pago o adjudicadas, su venta debe
+institución financiera, acerca de la conveniencia de la venta propuesta. En dicha opinión deberán constar las razones por las cuales la opción de vender a una entidad relacionada resulta más adecuada para los intereses de la institución financiera.
 
-realizarse en un mercado secundario formal, esto es actualmente, en rueda o
-
-remate en una Bolsa de Valores, a menos que esta Superintendencia autorice su
-
-venta a través de licitación pública. Para obtener dicha autorización, las
-
-instituciones financieras deben acompañar los antecedentes que justifiquen la
-
-venta directa, explicando las razones por las que ella sería más conveniente y
-
-la forma en que se garantizará la transparencia de la operación.
-
-En todo caso, tanto las enajenaciones a personas o empresas relacionadas con la
-
-institución, a que se refiere el Capítulo 12-4 ya citado, como las efectuadas a
-
-trabajadores, ya sea de la propia institución o de empresas relacionadas, no
-
-podrán realizarse en condiciones menos favorables para los intereses de la
-
-empresa que aquéllas que se hubieren obtenido en una venta a terceros.
-
-Para enajenar a entidades relacionadas, bienes recibidos en pago o
-
-adjudicados,se requerirá la autorización previa de esta Superintendencia. En la
-
-solicitud que para este objeto se presente, deberán informarse los precios,
-
-condiciones de pago y demás antecedentes necesarios para evaluar la eventual
-
-transacción,acompañada de una opinión de los auditores externos de la
-
-institución financiera, acerca de la conveniencia de la venta propuesta. En
-
-dicha opinión deberán constar las razones por las cuales la opción de vender a
-
-una entidad relacionada resulta más adecuada para los intereses de la
-
-institución financiera.
+La institución deberá asegurar que en el proceso de enajenación de los bienes recibidos o adjudicados, éstos sean ofrecidos al público siguiendo sanas prácticas de transparencia las que deben contemplar, a modo de ejemplo, políticas que aseguren la publicación en la página web de los bienes ofrecidos, así como también la aplicación de estrictos estándares que regulen los conflictos de intereses en su venta, especialmente si en la compra respectiva se encuentra involucrado personal de la entidad o empresas relacionadas a la misma.
 
 ### 6. Sanciones dispuestas en el artículo 84 N° 5 de la Ley General de Bancos
 
-De acuerdo con las disposiciones legales vigentes, las instituciones financieras
-
-están sujetas a la aplicación de las siguientes sanciones, por las infracciones
-
-que se indican:
+De acuerdo con las disposiciones legales vigentes, las instituciones financieras están sujetas a la aplicación de las siguientes sanciones, por las infracciones que se indican:
 
 a) Por exceder el plazo de enajenación.
 
-La institución financiera que no enajene un bien recibido o adjudicado en pago
-
-dentro de los plazos a que se refieren los numerales 4.1 y 4.2
-
-anteriores,incurrirá en una infracción que será sancionada con una multa
-
-equivalente al 10% del valor de adquisición actualizado, por cada mes calendario
-
-que transcurra,después de vencido el plazo, sin que se haya enajenado el bien.
-
-De acuerdo con esto, corresponde aplicar la sanción si aún no se ha enajenado un
-
-bien el día 1° del mes subsiguiente a aquél en que venció el plazo, ya que el
-
-primer mes calendario transcurrido es el mes completo siguiente.
-
-El valor de adquisición actualizado corresponderá al que se obtenga de aplicar,
-
-al valor de adquisición señalado en el 3 de este título, el porcentaje de
-
-variación del índice de precios al consumidor entre el primer día del mes
-
-anterior al de la adquisición y el último día del mes anterior al que
-
-corresponde dicho valor actualizado. Para los efectos de la aplicación de las
-
-multas de que se trata, corresponderá considerar, en cada oportunidad, el valor
-
-actualizado del respectivo bien, incluso de aquel que se encuentre castigado, al
-
-último día de cada mes calendario transcurrido sin que se haya enajenado.
+La institución financiera que no enajene un bien recibido o adjudicado en pago dentro de los plazos a que se refieren los numerales 4.1 y 4.2 anteriores, incurrirá en una infracción que será sancionada con una multa equivalente al 10% del valor de adquisición actualizado, por cada mes que transcurra, después de vencido el plazo, sin que se haya enajenado el bien. Se entenderá por valor de adquisición actualizado aquel que se presenta en el estado financiero más reciente.
 
 b) Por exceder el margen global.
 
-La institución financiera que sobrepase el margen del 20% a que se refiere la
+La institución financiera que sobrepase el margen del 20% a que se refiere la letra a) del N° 1 de este título, será sancionada con una multa igual al valor de los bienes adquiridos que exceda dicho margen.
 
-letra a) del N° 1 de este título, será sancionada con una multa igual al valor
-
-de los bienes adquiridos que exceda dicho margen.
-
-La medición para encuadrarse dentro de dicho margen del 20% se efectuará al
-
-momento de recibir un bien, sobre la base del valor al que se encuentren
-
-contabilizados los demás bienes no castigados que la institución haya recibido
-
-en pago y tenga pendientes de enajenar.
+La medición para encuadrarse dentro de dicho margen del 20% se efectuará al momento de recibir un bien, sobre la base del valor al que se encuentren contabilizados los demás bienes no castigados que la institución haya recibido en pago y tenga pendientes de enajenar.
 
 ### II. DESEMBOLSOS AUTORIZADOS Y EXPLOTACION TRANSITORIA DE BIENES RECIBIDOS O
 
@@ -14350,9 +14268,7 @@ Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso 
 
 IV.- DISPOSICION TRANSITORIA.
 
-El plazo adicional de 18 meses a que se refiere el numeral 4 2 del título I de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes recibidos o adjudicados en pago durante los años 1999, 2000, 2001 y 2002.
-
-Asimismo, podrá aplicarse un plazo adicional de 12 meses a los bienes recibidos o adjudicados en pago durante el año 2003 y de seis meses para aquellos recibidos en pago o adjudicados en el curso del año 2004, que no correspondan a acciones de sociedades anónimas, siempre que se presente a esta Superintendencia un programa para la enajenación de esos bienes, aprobado por el Directorio. En la información que se entregue se explicarán las razones que, a juicio del Directorio, justifican la prórroga, y se detallarán los bienes a los cuales se les aplicará el mayor plazo.
+Podrá aplicarse un plazo adicional de seis meses para aquellos bienes recibidos en pago o adjudicados en el curso del año 2004, que no correspondan a acciones de sociedades anónimas, siempre que se presente a esta Superintendencia un programa para la enajenación de esos bienes, aprobado por el Directorio.
 
 APITULO 10-2 (Bancos y Financieras)
 
