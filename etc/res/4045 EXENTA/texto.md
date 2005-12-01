@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.045, de 23 de noviembre de 2005, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.502 de 1997, sólo en cuanto autorizó a PESQUERA POLAR S.A., para ampliar actividades pesqueras extractivas con la nave "Polar Mist", en el área marítima correspondiente a la X Región, sobre el recurso Caballa Scomber peruanus, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y lo informado por la División de Administración Pesquera de la Subsecretaría de Pesca.
+
+Valparaíso, 23 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
