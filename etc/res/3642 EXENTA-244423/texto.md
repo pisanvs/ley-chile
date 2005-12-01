@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.642, de 31 de octubre de 2005, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 2.517, modificada por resoluciones Nº 2.901 y Nº 3.288, todas de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE CONCEPCION para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FIP Nº 2005-02 denominado "Evaluación del stock desovante de Anchoveta y Sardina común entre la V y X Regiones, año 2005", en el sentido de extender el plazo de ejecución de la citada pesca de investigación hasta el día 9 de diciembre de 2005, inclusive.
+
+Valparaíso, 31 de octubre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
