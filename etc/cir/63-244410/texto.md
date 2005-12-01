@@ -1,0 +1,7 @@
+APLICACION DEL CONVENIO ENTRE LA REPUBLICA DE CHILE Y EL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE PARA EVITAR LA DOBLE IMPOSICION Y PARA PREVENIR LA EVASION FISCAL CON RELACION A LOS IMPUESTOS A LA RENTA Y SOBRE LAS GANANCIAS DE CAPITAL
+
+Extracto de circular del Servicio de Impuestos Internos Nº 63, del 24 de noviembre, que da cuenta de la situación específica de determinados territorios a los que no se les aplica el Convenio para evitar la doble tributación vigente entre Chile y el Reino Unido de Gran Bretaña e Irlanda del Norte.
+
+En el artículo 3 párrafo 1 letra c) del Convenio entre la República de Chile y el Reino Unido de Gran Bretaña e Irlanda del Norte para evitar la doble imposición y para prevenir la evasión fiscal con relación a los impuestos a la renta y sobre las ganancias de capital se contempla la definición del término "Reino Unido". Al respecto, se señala, previa confirmación de la autoridad fiscal del Reino Unido, que los territorios denominados "territorios de ultramar" ("overseas territories") y "dependencias de la corona" ("crown dependencies") no forman parte del mencionado término.
+
+El texto íntegro de esta Circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2005.
