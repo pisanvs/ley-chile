@@ -1,0 +1,7 @@
+CLAUSULA NACION MAS FAVORECIDA EN CONVENIOS CON CANADA, DINAMARCA Y MEXICO
+
+Extracto de circular del Servicio de Impuestos Internos Nº 62, del 24 de noviembre, que da cuenta de la aplicación de la cláusula de nación más favorecida contenida en los Convenios suscritos por Chile con Canadá, Dinamarca y México para las rentas que indica.
+
+En los protocolos de los convenios suscritos con Canadá y Dinamarca se establece que si Chile concluye un acuerdo o convenio con un Estado miembro de la Organización para la Cooperación y Desarrollo Económico que limite la imposición en la fuente de los dividendos, en el primer caso, o de los intereses y regalías, en el segundo, esa limitación o reducción se aplicará automáticamente para los efectos de esos convenios, circunstancia que se cumplió con la entrada en vigencia de los convenios suscritos con México y España. Se confirma asimismo, que la autoridad competente de México aplicará la cláusula de nación más favorecida en la forma que se comunicó en la circular Nº 8 de este año.
+
+El texto íntegro de esta Circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2005.
