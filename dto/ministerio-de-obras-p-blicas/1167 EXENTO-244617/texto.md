@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.167, de fecha 31 de octubre de 2005, se expropió el lote de terreno Nº 11-G, superficie 610 m2, Rol Nº 203-25, comuna de Chaitén, X Región, para la obra "Camino Ruta 7 (Longitudinal Austral), Sector - Ex Pozos de Empréstitos" Km. 0,000 a Km. 13,07086", y se acordó el valor de indemnización con su propietario Manuel de Jesús Cárdenas Cárdenas, ascendente a la cantidad de $433.533 para el lote Nº 11-G.
+
+Fiscal del Ministerio de Obras Públicas.
