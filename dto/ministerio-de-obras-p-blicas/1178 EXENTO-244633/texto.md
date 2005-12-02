@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.178 de 31 de octubre de 2005, se expropiaron los lotes de terrenos Nºs. 11, 12, 13 y 14, superficies 293,00, 129,00, 104,00 y 61,00 m2. respectivamente, Rol Nº 154-24, comuna de Casablanca, V Región, para la obra "Camino Mejoramiento Ruta F-864-G y F-870. Sector Santa Inés - Las Rosas - Tapihuita - La Vinilla. Km 0.000,00 a Km 12.414,17", y se acordó el valor de indemnización con su propietario Agrícola Salomé Limitada, ascendente a la cantidad de $4.020.557.
+
+Fiscal del Ministerio de Obras Públicas.
