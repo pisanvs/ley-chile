@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.173 de fecha 31 de octubre del 2005, se expropió el lote de terreno Nº100, superficie 2.487 m², Rol Nº238-221, comuna de Toltén, IX Región para la obra "Camino Ruta S-790 Sector Nueva Toltén-Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietario Francisco Porma Millao, ascendente a la cantidad de $1.625.160.
+
+Fiscal del Ministerio de Obras Públicas.
