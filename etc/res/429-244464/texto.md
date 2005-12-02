@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 429, 4 noviembre 2005, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Manuel Bajón Nº 40, Rol de avalúo Nº 2758-10, comuna Chiguayante, superficie 181,80 m2 de terreno y 110,10 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.576, de aparente dominio de Gabriel Benjamín Cid Sandoval, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión peritos integrada por Ricardo Echeverría Hohmann, arquitecto; Gabriel Fernández de la Maza, ingeniero civil; Santiago Aptecar Nazer, arquitecto, según informe de fecha 3 de julio de 2005 fijó monto provisional indemnización en $29.009.043, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
