@@ -1,0 +1,5 @@
+Por decreto exento Nº 1.186, de 14 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 47C, 48A, 48B y 48C, para la obra Camino Ruta U-72, sector Osorno-Huilma, Km. 0.000 a Km.
+
+18.100, que figuran a nombre de Nilian Llanquilef Juan Bautist y Farm Forest and Ranch Incorpor, roles de avalúo 331-24 y 331-26, comuna de Río Negro, X Región, superficies 600 m²; 60 m²; 80 m², y 570 m². La Comisión de Peritos fijó con fecha 28 de octubre de 2000, complementada por acta de fecha 28 de julio de 2000, en las cantidades de $168.000, para el lote Nº47C; $16.800, para el lote Nº48A; $142.400, para el lote Nº48B y $159.600, para el lote Nº48C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
