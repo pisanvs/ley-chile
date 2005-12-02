@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.094 de 26 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la empresa Essan S.A. el lote de terreno Nº1 para la obra:
+
+"Sistema Tratamiento Aguas Servidas de Temuco y Padre Las Casas", que figura a nombre de Alvear Benavente Carmen y Otra, Rol de avalúo Nº3250-63, Comuna de Temuco, IX Región, superficie: 3.960 m². La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 31 de julio de 2005, en la cantidad de $16.632.000.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
