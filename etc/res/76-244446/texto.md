@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 76, de 11 de noviembre de 2005, tomada razón el 16 de noviembre de 2005 por Contraloría Regional, el Serviu XII Región dispuso expropiación parcial, conforme DL 1.523, de 1976; DS 75 de V. y U., de 2005, y DL 2.186, de 1978, de inmueble ubicado en Ramón Carnicer Nº 0395, Rol de avalúo 2357-12, comuna de Punta Arenas, de aparente dominio de Abelina Mayorga Ruiz. El área afecta a expropiación es de 68,20 metros cuadrados conforme plano SM 4628-6 de 2005. Comisión tasadora integrada por los arquitectos Srs. Jeanette Antunovic Petric, José Barría Bonacic y María Soledad Martínez Rubín, según informe de 3 de octubre de 2005, fijó monto provisional indemnización en $15.478.400, que será pagada de contado más reajustes legales que correspondan.-
+
+Director Serviu XII Región.
