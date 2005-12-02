@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 69, de 8 de noviembre de 2005, tomada razón el 11 de noviembre de 2005 por Contraloría Regional, el Serviu XII Región dispuso expropiación parcial, conforme DL 1.523, de 1976; DS 75 de V. y U., de 2005, y DL 2.186, de 1978, de inmueble ubicado en Abate Molina Nº 0398, Rol de avalúo 2.358-24, comuna de Punta Arenas, de aparente dominio de Baltazar Andrade Nain. El área afecta a expropiación es de 78,02 metros cuadrados conforme al Plano SM 4628-3 de 2005. Comisión tasadora integrada por los arquitectos Srs. Jeanette Antunovic Petric, José Barría Bonacic y María Soledad Martínez Rubín, según informe de 3 de octubre de 2005, fijó monto provisional indemnización en $12.938.500, que será pagada de contado más los reajustes legales que correspondan.-
+
+Director Serviu XII Región.
