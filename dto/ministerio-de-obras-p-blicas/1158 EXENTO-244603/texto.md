@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.158, de fecha 31 de octubre de 2005, se expropió el lote de terreno Nº 107, superficie 184 m2, Rol Nº 238-244, comuna de Toltén, IX Región, para la obra "Camino Ruta S-790 Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietario Salustio Rubén Ñancufil Loncon, ascendente a la cantidad de $228.973 para el lote Nº 107.
+
+Fiscal del Ministerio de Obras Públicas.
