@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.192, de fecha 14 de noviembre de 2005, se autorizó servidumbre de acueducto continua, inaparente, perpetua y gratuita, sobre el lote Nº 7-2 que afecta al inmueble inscrito a fojas 52.545 número 57.668 del Registro de Propiedad del Conservador de Bienes Raíces de Santiago correspondiente al año 2002, superficie 958 m², rol Nº3120-133, comuna de Huechuraba, para la obra "Sistema Américo Vespucio Nor-Poniente. Av. El Salto-Ruta 78. Sector 1: El Salto-Pedro Fontova, Canal y Colector de Aguas Lluvias Huechuraba", Región Metropolitana.
+
+Fiscal del Ministerio de Obras Públicas.
