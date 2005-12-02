@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.195 de 14 noviembre de 2005, se dejó sin efecto el decreto exento Nº771 de 31 de julio de 2003, por cuanto la expropiación ordenada por dicho decreto respecto del lote de terreno Nº49, no es necesario para la ejecución de la obra "Camino Ruta K-60 y K-16 Sector Mejoramiento Gualleco-Curepto Lautaro, Tramo Km. 46,180 a Km. 83,91430" comuna de Curepto, IX Región.
+
+Fiscal del Ministerio de Obras Públicas.
