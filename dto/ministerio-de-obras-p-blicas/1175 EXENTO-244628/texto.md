@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.175 de fecha 31 de octubre del 2005, se expropió el lote de terreno Nº80, superficie 74,1 m², Rol Nº56-12, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, II Etapa" y se acordó el valor de indemnización con su propietario Patricio Gastón Cortés Cofré y Otros, ascendente a la cantidad de $590.037.-, para el lote Nº80.
+
+Fiscal del Ministerio de Obras Públicas.
