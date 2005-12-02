@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.176 de 31 de octubre de 2005, se expropió el lote de terreno Nº 6, superficie 240,14 m2, Rol Nº 611-523, comuna de Chol-Chol, IX Región, para la obra "Construcción Puente Peuchen Camino Chol-Chol - Galvarino por Aillinco tramo Km. 0,00000 a Km. 0,69000" y se acordó el valor de indemnización con su propietario Nicolás Paillal Levio, ascendente a la cantidad de $563.347.
+
+Fiscal del Ministerio de Obras Públicas.
