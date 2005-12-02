@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.160 de fecha 31 de octubre del 2005, se expropió el lote de terreno Nº1, superficie 125 m² Rol Nº603-112, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, Lotes Adicionales a Canal Matriz Km. 9,583 al Km. 9,705", y se acordó el valor de indemnización con su propietario Andrés Alberto Sepúlveda Lagos, ascendente a la cantidad de $99.960.
+
+Fiscal del Ministerio de Obras Públicas.
