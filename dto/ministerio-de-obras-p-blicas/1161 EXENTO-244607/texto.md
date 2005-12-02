@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.161 de fecha 31 de octubre de 2005, se expropiaron los lotes de terreno Nºs 184, 185 y 186, superficies 941, 1.427 y 1.338 m² respectivamente, Rol Nº 238-44, comuna de Toltén, para la obra "Camino Ruta S-790, sector Nueva Toltén-Límite Regional (Queule), tramo Km. 87,50000 a Km. 103,33500, Sub-tramo IV, Km. 92,33000 a Km. 98,33600", IX Región y se acordó el valor de la indemnización con su propietario Margarita Silvia Liempi Calfin, ascendente a la cantidad de $2.390.198.
+
+Fiscal del Ministerio de Obras Públicas.
