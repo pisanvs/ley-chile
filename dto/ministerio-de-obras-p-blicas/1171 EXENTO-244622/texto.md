@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.171 de 31 de octubre de 2005, se expropió el lote de terreno Nº 2, superficie 1.516,27 m2., Rol Nº 224-69, comuna de Purén, IX Región para la obra "Estudio de Ingeniería Varios, Puentes en la IX Región, Sector Puente La Isla, Camino Tranaman-La Isla, Km. 0,000 a Km. 0,50000" y se acordó el valor de indemnización con su propietario Celmira del Carmen Merino Sepúlveda, ascendente a la cantidad de $1.524.981.
+
+Fiscal del Ministerio de Obras Públicas.
