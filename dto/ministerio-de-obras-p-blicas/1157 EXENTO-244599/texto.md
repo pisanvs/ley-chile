@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.157, de fecha 31 de octubre de 2005, se expropió el lote de terreno Nº 60, superficie 2.287 m2, Rol Nº 231-79, comuna de Toltén, IX Región, para la obra "Camino Ruta S-790 Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietario Juan Pedro Ñancuan Nahuelman, ascendente a la cantidad de $1.191.668 para el late Nº 60.
+
+Fiscal del Ministerio de Obras Públicas.
