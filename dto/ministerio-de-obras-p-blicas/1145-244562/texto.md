@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.145 de 26 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº14 para la obra: Habilitación Avda. Circunvalación Río Claro en Talca, Avenida Lircay, que figura a nombre de Universidad de Talca, rol de avalúo 3707-6, Comuna de Talca, VII Región, superficie 1.262,37 m2. La Comisión de Peritos fijó con fecha 8 de junio de 2005 el monto de la indemnización provisional en la cantidad de $17.673.180.- lote Nº14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
