@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.123, de 26 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 23, para la obra Mejoramiento Ruta 7, sector Quillaipe-La Arena, Tramo Km. 15,84700 a Km. 40,41746, que figura a nombre de Velásquez Gallardo Juan de la, Rol de avalúo 2205-24, comuna de Puerto Montt, X Región, superficie 273 m². La Comisión de Peritos, fijó con fecha 18 de agosto de 2004, en la cantidad de $7.221.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fical del Ministerio de Obras Públicas.
