@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.216 de 31 de octubre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se dejaron sin efecto las expropiaciones de los lotes Nº 1, expropiado mediante decreto MOP Nº354 de 29 de abril de 2005 y Nºs 1 y 2, expropiados mediante decreto MOP Nº 386 de 24 de mayo de 2005, en atención a que Aguas Araucanía S.A., adquirió mediante compraventa el dominio del lote de terreno expropiado mediante decretos Nº354 de 29 de abril de 2005 y suscribió contrato de promesa de compraventa respecto de los lotes expropiados mediante decreto MOP Nº 386 de 24 de mayo de 2005.
+
+Fiscal del Ministerio de Obras Públicas.
