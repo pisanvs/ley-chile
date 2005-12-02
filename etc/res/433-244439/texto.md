@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 433, 4 noviembre 2005, Serviu Región del Bío Bío ordenó expropiación total al inmueble ubicado en calle Manuel Bajón Nº 22, Rol de avalúo Nº 2758-19, comuna Chiguayante, superficie 181,30 m2 de terreno y 82,85 m2 de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.585, de aparente dominio de José Segundo Carrasco Tapia, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. Nº 2.186. Comisión peritos integrada por Gabriel Fernández de la Maza, ingeniero civil; Ricardo Echeverría Hohmann, arquitecto, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 3 de julio de 2005 fijó monto provisional indemnización en $29.158.722, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
