@@ -1,0 +1,5 @@
+DECLARA AREA DE RESTRICCION LOS SECTORES HIDROGEOLOGICOS DE APROVECHAMIENTO COMUN DE ESTERO CACHAGUA, ESTERO PAPUDO, MAIPO DESEMBOCADURA, SECTOR CATAPILCO SUBSECTOR LA LAGUNA, SECTOR HORCON, SECTOR QUINTERO SUBSECTOR DUNAS DE QUINTERO, ESTERO LAS SALINAS SUR, ESTERO PUCHUNCAVI Y ROCAS DE SANTO DOMINGO V REGION
+
+Mediante resolución DGA Nº 372, de fecha 27 de octubre de 2005, se ha declarado Area de Restricción para extracciones de aguas subterráneas, los sectores hidrogeológicos de aprovechamiento común de estero Cachagua, estero Papudo, Maipo Desembocadura, sector Catapilco subsector La Laguna, sector Horcón, sector Quintero subsector Dunas de Quintero, estero Las Salinas Sur, estero Puchuncaví y Rocas de Santo Domingo, correspondientes a los acuíferos de las cuencas costeras de la V Región. Los antecedentes se encuentran disponibles en las oficinas de la Dirección General de Aguas de la V Región; del nivel central y en la página web de la DGA.
+
+- Humberto Peña T. Director General de Aguas.
