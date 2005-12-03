@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS EN LAS CALIDADES QUE INDICA EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA SERIE DE SANTIAGO
+
+Por resolución Nº SII. 21, de 31 de octubre de 2005, se designó a doña Carmen Gloria Muñoz Llanos, Profesional, grado 14º, RUT. Nº 7.746.972-9, como Secretaria Titular y a doña María Estela Pérez-Cotapos Concha, Fiscalizador, grado 11º, RUT. Nº 7.672.599-3, como Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago, en reemplazo de don Víctor Hugo Silva Manríquez, y de don Aquiles Segovia Letelier, respectivamente.
