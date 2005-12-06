@@ -1,0 +1,5 @@
+AUTORIZA A "INSTITUTO NACIONAL DE CAPACITACION PROFESIONAL" PARA IMPARTIR CURSOS QUE INDICA
+
+Por resolución exenta Nº4.922, de fecha 16 de noviembre de 2005, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a Organismo Técnico de Capacitación "Instituto Nacional de Capacitación Profesional" o "Inacap", para impartir cursos de capacitación para conductores que obtuvieron su Licencia de Conductor clase A1 y/o A2, con anterioridad al 8 de marzo de 1997, con el fin de optar a Licencia de Conductor Profesional clase A3 y/o A5, en los locales ubicados en Bravo de Saravia Nº2980, comuna de Renca, Av. Carmen Nº1625, comuna de Maipú y Av. Zañartu Nº980, comuna de Ñuñoa.
+
+Silvio Albarrán Albán, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
