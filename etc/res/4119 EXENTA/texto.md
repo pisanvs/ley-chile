@@ -1,0 +1,3 @@
+Por resolución exenta Nº4.119 de 29 de noviembre de 2005, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº3.659 de 2005, de esta Subsecretaría, que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Monitoreo de la operación de la flota cerquera de Chiloé y de los procesos biológicos de los recursos Anchoveta y Sardina común en la X Región Sur", en el sentido de eliminar a las embarcaciones artesanales "Calipso III", "Oceani II", "Orión" y "Bronco I" del listado de naves autorizadas a participar en la citada pesca de investigación.
+
+Valparaíso, 29 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
