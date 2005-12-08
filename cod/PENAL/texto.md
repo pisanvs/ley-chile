@@ -90,11 +90,9 @@ Están exentos de responsabilidad criminal:
 
 Inciso Derogado.
 
-2.° El menor de dieciséis años.
+2.º El menor de dieciocho años. La responsabilidad de los menores de dieciocho años y mayores de catorce se regulará por lo dispuesto en la ley de responsabilidad penal juvenil.
 
-3.° El mayor de dieciséis años y menor de dieciocho, a no ser que conste que ha obrado con discernimiento.
-
-Inciso Derogado.
+3.° Derogado.
 
 4.° El que obra en defensa de su persona o derechos, siempre que concurran las circunstancias siguientes:
 
@@ -837,8 +835,6 @@ Tanto en la sentencia como en su ejecución el Tribunal podrá, atendidas las ci
 Cuando no concurran todos los requisitos que se exigen en el caso del núm. 8.° del art. 10 para eximir de responsabilidad, se observará lo dispuesto en el art. 490.
 
 #### Artículo 72
-
-Al menor de dieciocho años y mayor de dieciséis, que no esté exento de responsabilidad por haber declarado el tribunal respectivo que obró con discernimiento, se le impondrá la pena inferior en grado al mínimo de los señalados por la ley para el delito de que sea responsable.
 
 En los casos en que aparezcan responsables en un mismo delito individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esta circunstancia, aumentada en un grado, si éstos se hubieren prevalido de los menores en la perpetración del delito, pudiendo esta circunstancia ser apreciada en conciencia por el juez.
 
