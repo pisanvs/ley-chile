@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.924, de 18 de noviembre 2005, de esta Subsecretaría, autorízase a la UNIVERSIDAD DE LOS LAGOS para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Avenida Fuschlocher Nº 1305, Osorno, X Región, en las líneas de proceso de Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
