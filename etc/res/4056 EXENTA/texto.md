@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.056, de 23 de noviembre de 2005, de esta Subsecretaría, autorízase a ALIMENTOS CUISINE SOLUTIONS CHILE S.A. para ampliar actividades pesqueras de transformación, autorizadas por la resolución Nº 3.213, de 2003, de esta Subsecretaría, en orden a incorporar a su planta ubicada en camino Puerto Montt - Pargua, Ruta 5 Sur, Km. 8, Puerto Montt, X Región, en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
