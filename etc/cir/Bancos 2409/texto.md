@@ -6346,11 +6346,11 @@ Dicha compensación operará todos los días hábiles bancarios y considerará t
 
 3.- Cámara de compensación de operaciones interfinancieras en moneda nacional.
 
-La compensación de las obligaciones interfinancieras en moneda nacional se rige por las disposiciones del Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
+Esta cámara de compensación en moneda nacional se rige por las disposiciones del Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
-Dicha cámara a nivel nacional tiene como propósito compensar las obligaciones que las instituciones financieras tengan entre sí y cuyo pago tenga validez ese mismo día. En esta cámara se compensarán los vales de cámara presentados, junto con las órdenes de pago u obligaciones que se generen electrónicamente mediante el envío y recepción de mensajes a través de sistemas convenidos entre las instituciones.
+Dicha cámara, a nivel nacional, tiene como propósito operar como sistema de apoyo para administrar las contingencias que puedan producirse en alguno de los otros sistemas de pagos en moneda chilena, para compensar las obligaciones que las instituciones financieras tengan entre sí o por cuenta de sus clientes, y cuyo pago tenga validez ese mismo día.
 
-Las obligaciones de pago generadas electrónicamente pueden corresponder tanto a las operaciones realizadas entre las instituciones, como a las que deriven de transferencias de fondos por operaciones de sus clientes.
+Esta cámara operará sólo cuando así lo resuelva el Banco Central de Chile.
 
 4.- Vales de cámara.
 
