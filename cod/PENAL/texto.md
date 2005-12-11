@@ -3872,17 +3872,9 @@ Iguales penas se aplicarán al dueño de animales feroces que, por descuido culp
 
 #### Artículo 492
 
-Las penas del art. 490 se impondrán también respectivamente al que, con infracción de los reglamentos y por mera imprudencia o negligencia, ejecutare un hecho o incurriere en una omisión que, a mediar malicia, constituiría un crimen o un simple delito contra las personas.
+Las penas del artículo 490 se impondrán también respectivamente al que, con infracción de los reglamentos y por mera imprudencia o negligencia, ejecutare un hecho o incurriere en una omisión que, a mediar malicia, constituiría un crimen o un simple delito contra las personas.
 
-En los accidentes ocasionados por vehículos de tracción mecánica o animal de que resultaren lesiones o muerte de un peatón, se presumirá, salvo prueba en contrario, la culpabilidad del conductor del vehículo, dentro del radio urbano de una ciudad, cuando el accidente hubiere ocurrido en el cruce de las calzadas o en la extensión de diez metros anterior a cada esquina; y, en todo caso, cuando el conductor del vehículo contravenga las ordenanzas municipales con respecto a la velocidad, o al lado de la calzada que debe tomar.
-
-Se entiende por cruce, el área comprendida por la intersección de dos calzadas.
-
-Se presumirá la culpabilidad del peatón, si el accidente se produjere en otro sitio de las calzadas.
-
-A los responsables de cuasi delito de homicidio o lesiones ejecutados por medio de vehículos a tracción mecánica o animal, se los sancionará, además de las penas indicadas en el artículo 490, con la suspensión del carnet, permiso o autorización que los habilite para conducir vehículos por un período de uno a dos años, si el hecho de mediar malicia constituyera un crimen y de seis meses a una año, si constituyera simple delito. En caso de reincidencia, podrá condenarse al conductor a inhabilidad perpetua para conducir vehículos a tracción mecánica o animal, cancelándose el carnet, permiso o autorización.
-
-La circunstancia de huir del lugar donde se hubiere cometido alguno de los cuasi delitos a que se refiere el inciso quinto de este artículo, constituirá presunción de culpabilidad.
+A los responsables de cuasidelito de homicidio o lesiones, ejecutados por medio de vehículos a tracción mecánica o animal, se los sancionará, además de las penas indicadas en el artículo 490, con la suspensión del carné, permiso o autorización que los habilite para conducir vehículos, por un período de uno a dos años, si el hecho de mediar malicia constituyera un crimen, y de seis meses a un año, si constituyera simple delito. En caso de reincidencia, podrá condenarse al conductor a inhabilidad perpetua para conducir vehículos a tracción mecánica o animal, cancelándose el carné, permiso o autorización.
 
 #### Artículo 493
 
