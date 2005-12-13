@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.210, de 2 de diciembre de 2005, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES AGUAS CLARAS, perteneciente a la Flota Sur 2, sometida al Régimen Artesanal de Extracción en la unidad de pesquería de Merluza del sur de la XI Región, para realizar actividades pesqueras extractivas en el mes de diciembre, exclusivamente entre los días 18 y 21 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 2 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
