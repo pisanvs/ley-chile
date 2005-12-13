@@ -1,0 +1,7 @@
+DISPONE INCLUSION DE PERSONAS QUE INDICA EN NOMINAS DE SUBSIDIO HABITACIONAL
+
+Resolución exenta Nº 4.477, de fecha 5 de diciembre de 2005, dispone la inclusión en las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2005 del Sistema de Subsidio Habitacional Rural (Título I), al primer llamado 2005 a postulación para la construcción de viviendas rurales emplazadas en asentamientos poblacionales (Título II) y al primer llamado 2005, en la modalidad de postulación para el mejoramiento de la vivienda rural existente (Título III), de las personas que a continuación se indican, según Título, Región, comuna cuando corresponda y Tipo de Postulación que en cada caso se mencionan:
+
+VER DIARIO OFICIAL DE 12.12.2005, PÁGINA 11.
+
+Como consecuencia de lo anterior, el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al primer llamado 2005 Título I del Sistema de Subsidio Habitacional Rural, queda en 9.669 y el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de dichos postulantes seleccionados queda en 1.643.987,5 Unidades de Fomento (U.F.); para el Título II, el número de postulantes seleccionados queda en 2.230 y el monto de recursos comprometidos queda en 490.545 Unidades de Fomento (U.F.), y para el Título III, el número de postulantes seleccionados queda en 792 y el monto de recursos comprometidos queda en 67.277,5 Unidades de Fomento (U.F.).
