@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.219, de 5 de diciembre de 2005, de esta Subsecretaría, déjase sin efecto la resolución Nº 4.133, de 2005, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Distribución y estructura de los recursos Anchoveta y Sardina común entre los límites regionales de la VIII Región", en virtud de lo dispuesto en la presente resolución.
+
+Valparaíso, 5 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
