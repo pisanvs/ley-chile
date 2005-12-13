@@ -1,0 +1,3 @@
+Por resolución exenta Nº4.141, de 30 de noviembre de 2005 de esta Subsecretaría, autorízase a NORMA ISABEL CONTRERAS PEREZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Panamericana Norte Km. 668, Vallenar, III Región de Atacama, donde podrá elaborar en las líneas de proceso de Alga Seca y Picado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
