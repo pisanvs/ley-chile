@@ -1,0 +1,5 @@
+VIGENCIA EN CHILE DEL CONVENIO PARA EVITAR LA DOBLE TRIBUTACION ENTRE PAISES MIEMBROS DEL ACUERDO DE CARTAGENA Y DEL CONVENIO TIPO PARA EVITAR LA DOBLE TRIBUTACION ENTRE LOS PAISES MIEMBROS Y OTROS ESTADOS AJENOS A LA SUBREGION, LOS CUALES CONSTAN COMO PARTE DE LA DECISION Nº 40 DEL ACUERDO DE CARTAGENA
+
+Extracto de circular del Servicio de Impuestos Internos Nº 64, del 9 de diciembre de 2005, que se remite al criterio establecido por el oficio ordinario Nº 021459 de fecha 27 de octubre del año 1995 de la Dirección Jurídica del Ministerio de Relaciones Exteriores, por el cual se señala que tanto el Convenio para Evitar la Doble Tributación entre los Países Miembros del Acuerdo de Cartagena, como el Convenio Tipo para Evitar la Doble Tributación entre los Países Miembros y otros Estados Ajenos a la Subregión, los cuales constan en los Anexos I y II de la Decisión Nº 40 del Acuerdo de Cartagena, no tienen vigencia internacional ni nacional respecto de Chile.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en diciembre de 2005.
