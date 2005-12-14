@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.922, de 18 de noviembre de 2005, de esta Subsecretaría, autorízase a SILVIA YANETT ARNALDI SANDOVAL para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Chesque Bajo Km. 15, camino Villarrica-Lican Ray, comuna de Villarrica, IX Región, donde podrá elaborar en las líneas de proceso de Fresco-refrigerado y Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
