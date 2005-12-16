@@ -1,0 +1,5 @@
+Por decreto exento Nº 1.220, de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 53, 54, 55, 56, 57, 58, 59 y 60, para la obra Camino Ruta W - 853 - Teupa - Queilen, Sector Teupa - Santa María, Tramo Km. 6,80000 a Km.
+
+25,96773, que figuran a nombre de Aguilar Alvarez Paulino y Aguilar Alvarez Santiago, roles de avalúo 144-17 y 144-1, Comuna de Chonchi, X Región, superficies 302 M², 118 M², 1.659 M², 1.174 M², 16 M², 36 M², 315 M² y 12 M². La Comisión de Peritos, fijó con fecha 7 de mayo de 2004, en las cantidades de $90.600, para el lote Nº53, $35.400, para el lote Nº54, $497.700, para el lote Nº55, $352.200, para el lote Nº56, $4.800, para el lote Nº57, $10.800, para el lote Nº58, $94.500, para el lote Nº59 y $6.000, para el lote Nº60. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
