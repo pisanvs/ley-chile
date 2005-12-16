@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.229 de 28 de noviembre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP. exento Nº 711 de 31 de mayo de 2001, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes Nºs 77, 78 y 81. Consígnese judicialmente el monto provisional de la indemnización de los lotes Nºs 77, 78 y 81, fijada por la Comisión de Peritos, con fecha 30 de septiembre de 1999, en la cantidad de $894.100.- para los lotes Nºs 77, 78 y 81.
+
+Fiscal del Ministerio de Obras Públicas.
