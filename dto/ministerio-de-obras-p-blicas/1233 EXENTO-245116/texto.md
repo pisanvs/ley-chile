@@ -1,0 +1,5 @@
+Por decreto exento Nº 1.233, de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 2 y 3, para la obra Camino Ruta V-615 y V-605, sector Ruta 5 - Alerce - La Poza, Km.
+
+0,000 a Km. 20,78194, que figuran a nombre de Quintuyanca Ortiz Héctor Pablo, rol de avalúo 2190-15, Comuna de Puerto Montt, X Región, superficies 392 M². y 156 M². La Comisión de Peritos, fijó con fecha 29 de septiembre de 1998, en las cantidades de $50.960, para el lote Nº2 y $70.280, para el lote Nº3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
