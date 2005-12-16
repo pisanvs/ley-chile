@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.356 de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para la empresa Essan S.A. los lotes de terreno Nºs. 1 y 2 para la obra: "Sistema de Tratamiento de Aguas Servidas de Temuco y Padre Las Casas", que figuran a nombre de Restovic Durán Jorge, Rol de avalúo Nº 3207-42 y Nº 3207-33, comuna de Temuco, IX Región, superficies:
+
+1.285,00 m2 y 778,00 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 24 de septiembre de 2005, en la cantidad de $15.017.000.- para el lote Nº 1 y $8.562.600.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
