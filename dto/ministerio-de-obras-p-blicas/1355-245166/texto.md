@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.355, de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para la Empresa de Servicios Sanitarios de Los Lagos S.A, el lote de terreno Nº1, para la obra Planta Elevadora de Aguas Servidas "El Molino" de Futrono, Comuna de Futrono, Provincia de Valdivia X Región, que figura a nombre de González Carlos Suc, rol de avalúo 54-2, superficie 826,29 m². La Comisión de Peritos, fijó con fecha 9 de septiembre de 2005, en la cantidad de $4.957.740. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
