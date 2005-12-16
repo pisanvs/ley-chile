@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.230, de 14 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 12-R, 18-G, 25, 26 y 28, para la obra Habilitación Nuevo Camino La Pólvora Km. 17,86424 -
+
+22,47179, sector Quebrada Loma Larga - Quebrada Las Tortugas, Camino La Pólvora, Sector 3, que figuran a nombre de Mora Aranda Ivonne del Carmen, Vera Flores Julia y Otra, Serviu Pob e Ramírez y Verónica Janet Martín Beiza, roles de avalúo 1507-11, 1510-7, 1500-271 y 1500-273, Comuna de Valparaíso, V Región, superficie 183 M²., 296 M²., 180 M²., 180 M². y 180 M². La Comisión de Peritos, fijó con fecha 14 de junio de 2005, en las cantidades de $16.215.425, para el lote Nº12-R, $26.126.000, para el lote Nº18-G, $10.438.600, para el lote Nº25, $14.217.030, para el lote Nº26 y $27.477.400, para el lote Nº28. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
