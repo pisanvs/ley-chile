@@ -1,0 +1,5 @@
+Por decreto exento Nº 1.239, de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 7A y 19A, para la obra Camino Ruta V-60, sector El Tepual - Las Quemas - Los Muermos, Km.
+
+0,00000 a Km. 32,27442, que figuran a nombre de Schmeisber Aichele Lidia y Tor y Schmeisser Aichele Lidia y Otr, roles de avalúo 1411-5 y 1416-14, Comuna de Puerto Varas, X Región, superficies 656 M². y 3.226 M². La Comisión de Peritos, fijó con fecha 25 de junio de 2004, en las cantidades de $295.200, para el lote Nº7A y $1.507.700, para el lote Nº19A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
