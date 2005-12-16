@@ -1,0 +1,3 @@
+Por decreto exento Nº 1.245, de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Camino Ruta 5 Sur, sector Bif. Quemchi - Castro, Tramo Bif. Quemchi - Acceso a Dalcahue, Km. 1.143500,00 a Km. 1.165300,00, que figura a nombre de Guichaquelen Muñoz Ernesto, rol de avalúo 1214-20, Comuna de Ancud, X Región, superficie 124 M². La Comisión de Peritos, fijó con fecha 4 de junio de 2004, en la cantidad de $148.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
