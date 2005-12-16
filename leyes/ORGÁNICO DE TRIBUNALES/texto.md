@@ -78,7 +78,7 @@ A los tribunales mencionados en este artículo corresponderá el conocimiento de
 
 Integran el Poder Judicial, como tribunales ordinarios de justicia, la Corte Suprema, las Cortes de Apelaciones, los Presidentes y Ministros de Corte, los tribunales de juicio oral en lo penal, los juzgados de letras y los juzgados de garantía.
 
-Forman parte del Poder Judicial, como tribunales especiales, los Juzgados de Letras de Menores, los Juzgados de Letras del Trabajo y los Tribunales Militares en tiempo de paz, los cuales se regirán en su organización y atribuciones por las disposiciones orgánicas constitucionales contenidas en la ley N° 16.618, en el Código del Trabajo, y en el Código de Justicia Militar y sus leyescomplementarias, respectivamente, rigiendo para ellos las disposiciones de este Código sólo cuando los cuerpos legales citados se remitan en forma expresa a él.
+Forman parte del Poder Judicial, como tribunales especiales, los juzgados de familia, los Juzgados de Letras del Trabajo y los Tribunales Militares en tiempo de paz, los cuales se regirán en su organización y atribuciones por las disposiciones orgánicas constitucionales contenidas en la ley Nº 19.968, en el Código del Trabajo, y en el Código de Justicia Militar y sus leyes complementarias, respectivamente, rigiendo para ellos las disposiciones de este Código sólo cuando los cuerpos legales citados se remitan en forma expresa a él.
 
 Los demás tribunales especiales se regirán por las leyes que los establecen y reglamentan, sin perjuicio de quedar sujetos a las disposiciones generales de este Código.
 
