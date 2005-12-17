@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.253, de 7 de diciembre de 2005, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202031014 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES Y RECOLECTORES DE ORILLA DEL PUERTO DE CALDERA, para instalar y operar un centro de cultivo ubicado en Caleta Mora, al noreste de Islote Ramadas, III Región.
+
+Valparaíso, 7 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
