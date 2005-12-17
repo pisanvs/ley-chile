@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.055, de 23 de noviembre de 2005, de esta Subsecretaría, autorízase a CONSERVERA CALBUCO S.A., para continuar desarrollando las actividades pesqueras de transformación autorizadas a Sociedad Conservas Calbuco de Herminio e Ignacio Parancan Llancapani Limitada, en virtud de las escrituras públicas y demás normas citadas en Visto.
+
+Valparaíso, 23 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
