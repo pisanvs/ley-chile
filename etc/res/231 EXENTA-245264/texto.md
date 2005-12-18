@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 231 EXENTA, DE 2005
+
+Por resolución exenta Nº 231, de 18 de noviembre del año 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Octava Región, se aprueban formalidades y condiciones para la autorización de solicitudes de modificaciones de trazado de servicios de transporte público de pasajeros regidos por la resolución exenta Nº 2.246 de 2005 del Ministerio de Transportes y Telecomunicaciones, contenidas en Anexo denominado: "Formalidades y Condiciones para la Autorización de Solicitudes de Modificaciones de Trazado de Servicios Regidos por la resolución exenta Nº 2.246", el que forma parte de dicha resolución y que se encuentra a disposición de los interesados en las dependencias de esa Secretaría Regional.-
+
+Dalton Campos Seguin, Secretario Regional Ministerial Transportes y Telecomunicaciones VIII Región.
