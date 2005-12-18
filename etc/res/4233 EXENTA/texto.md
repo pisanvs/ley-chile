@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.233, de 7 de diciembre de 2005, de esta Subsecretaría, autorízase a PESQUERA SUR AUSTRAL DOS S.A. para continuar desarrollando las actividades pesqueras autorizadas a desarrollar a Friosur X S.A. mediante resoluciones Nº 1.415 de 1999, Nº 515, Nº 2.225, Nº 2240 y Nº 2.589, todas de 2000, Nº 2.382 de 2001, Nº 777 de 2002, Nº 3.647 y Nº 3.648, ambas de 2004, de esta Subsecretaría, con la nave "Friosour X", en virtud de la escritura pública y disposiciones legales citadas en Visto.
+
+Valparaíso, 7 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
