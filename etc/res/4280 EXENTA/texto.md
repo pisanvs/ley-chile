@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.280, de 12 de diciembre de 2005, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES Y AFINES Nº 3 ISLA HUICHAS, perteneciente a la Flota Sur 2, sometida al Régimen Artesanal de Extracción en la unidad de pesquería de Merluza del sur de la XI Región, para ampliar el plazo de operaciones para realizar actividades pesqueras extractivas durante el mes de diciembre, entre los días 12 y 14 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 12 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
