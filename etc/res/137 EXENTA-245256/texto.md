@@ -1,0 +1,5 @@
+DELEGA FACULTAD DEL ARTICULO 90 DEL ESTATUTO ADMINISTRATIVO PARA ASUMIR LA DEFENSA DE LOS FUNCIONARIOS DEL SERVICIO Y PERSEGUIR LA RESPONSABILIDAD CIVIL Y CRIMINAL DE LAS PERSONAS QUE ATENTEN CONTRA SU VIDA O INTEGRIDAD CORPORAL O LOS INJURIEN O CALUMNIEN
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 137, del 12 de diciembre de 2005, que delega en el Jefe del Departamento Subdirección Jurídica, la facultad de decidir asumir la defensa de los funcionarios del Servicio en las situaciones señaladas en el artículo 90 del Estatuto Administrativo; delega, además, en el funcionario mencionado y en los Directores Regionales la atribución de representar al Servicio de Impuestos Internos en este tipo de juicios y las facultades de designar o revocar abogado patrocinante y de conferir o revocar poder.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl), y se publicará, además, en el Boletín del SII de diciembre de 2005.
