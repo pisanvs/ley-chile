@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.199, de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a BLUE SHELL S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Camino a Teguel Km. 2, Dalcahue, X Región, donde podrá elaborar en las líneas de proceso de Congelado, Cocido, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
