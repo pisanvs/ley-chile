@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.923, de 18 de noviembre de 2005, de esta Subsecretaría, autorízase a WALTERIO ARAUCO SALINAS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en el sector La Ensenada, Km. 2,5 del camino Licanray - Coñaripe, comuna de Villarrica, IX Región, donde podrá elaborar en la línea de proceso de Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
