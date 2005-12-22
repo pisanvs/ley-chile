@@ -1,0 +1,3 @@
+Por resolución exenta Nº4.137 de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a ORESTE OSCAR OCTAVIO FLORES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Punta Obispito, Comuna de Caldera, Provincia de Copiapó, III Región, donde podrá elaborar en la linea de proceso de Picado de Alga, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
