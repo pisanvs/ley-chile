@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.118, de 29 de noviembre de 2005, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº732 de 2005, de esta Subsecretaría, que autorizó a la PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Factibilidad técnica y operativa de la utilización de nasas en la unidad de pesquería de bacalao de profundidad (Dissostichus eleginoides), en el sentido de extender el plazo de ejecución de la citada pesca de investigación hasta el día 30 de marzo de 2006, inclusive.
+
+Valparaíso, 29 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
