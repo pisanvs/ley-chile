@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.332, de 15 de diciembre de 2005, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.515 de 1999, de esta Subsecretaría, en cuanto autorizó a PESCA CHILE S.A. para realizar actividades pesqueras extractivas con la nave "Puyuguapi", entre el paralelo 41°28,6' L.S. y el límite sur de la X Región, sobre el recurso Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 15 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
