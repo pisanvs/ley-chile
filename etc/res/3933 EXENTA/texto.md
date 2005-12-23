@@ -1,0 +1,11 @@
+Por resolución exenta Nº 3.933, de 18 de noviembre de 2005, de esta Subsecretaría, autorízase a ANELIO AGUAYO LOBO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia en el marco del Proyecto denominado "Plan de Estudios grupo Cequa de mamíferos marinos en la XII Región".
+
+Los objetivos de la pesca de investigación consisten en conocer los destinos migratorios, la estructura genética, los linajes del ADN mitocondrial y el posible flujo génico interhemisférico de la especie Ballena jorobada que se alimentan en el verano austral en las aguas y canales adyacentes del Estrecho de Magallanes y aguas de la costa occidental de la Península Antártica, y conocer la distribución espacial y temporal, la estructura genética, la filogenia, la filogeografía y la dinámica poblacional de los géneros Cephalorhynchus y Arctocephalus, y de las especies de Orca, Elefante marino del sur y Foca leopardo que habitan en las aguas subantárticas y antárticas del país, así como del Delfín austral de la XII Región.
+
+La pesca de investigación se efectuará en el área marítima del Estrecho de Magallanes correspondiente al Area Marina Costera y Protegida "Francisco Coloane" y alrededores de la Isla Santa Inés, Isla Clarence, Isla Capitán Aracena, Seno Almirantazgo, Seno D'Agostini, Canal Magdalena, Canal Cockburn, Canal Bárbara, Canal González y Canal Beagle, en la XII Región, así como en el área marítima del Estrecho Bransflied y Estrecho de Gerlache, durante el período de 1 año contado desde la fecha de la publicación del extracto de la presente resolución en el Diario Oficial.
+
+En cumplimiento de los objetivos de la presente pesca de investigación, el peticionario podrá obtener muestras de piel (biopsias) de ejemplares previamente foto-identificados correspondientes a las especies y géneros indicados en la resolución extractada, mediante la utilización de un rifle con dardos de acero disparados a una distancia mínima de 7 metros.
+
+La persona responsable de esta pesca de investigación es don Anelio Aguayo Lobo.
+
+Valparaíso, 18 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
