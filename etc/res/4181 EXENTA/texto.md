@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.181, de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a CARLOS YIMI PEÑAILILLO JOPIA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Playa Las Conchillas, Km. 957, Chañaral, III Región de Atacama, donde podrá elaborar en la línea de proceso de Picado de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
