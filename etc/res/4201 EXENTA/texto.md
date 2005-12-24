@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.201, de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a WALDO HECTOR CARMONA MUÑOZ para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Liparita Nº 0601, Manzana 9, Barrio Industrial Chañaral, Región de Atacama, donde podrá elaborar en la línea de proceso de Alga Seca Picada, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
