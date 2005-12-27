@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.369, de 20 de diciembre de 2005, de esta Subsecretaría, rectifícase las letras i) y k) de la resolución Nº 4.058 de 2005, de esta Subsecretaría, en el sentido de reemplazar a CONCAR S.A. como el armador autorizado para operar la nave "Magallanes III", en las Unidades de Pesquería que en ellas se indica, por Pesca Chile S.A..
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
