@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.341, de 16 de diciembre de 2005, de esta Subsecretaría, revócase la resolución Nª 4.019, de 2005, sólo en cuanto declaró la caducidad de la resolución Nº 978, de 1994, ambas de esta Subsecretaría, la cual había autorizado a PESQUERA Q Y M LTDA. para realizar actividades extractivas con la nave "Coray 2".
+
+Valparaíso, 16 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
