@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.135, de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a CAROLA NATASHA VALLADARES CANOBRA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en kilómetro 07, parcela 11 del Condominio Lagunitas, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
