@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.139, del 30 de noviembre de 2005, de esta Subsecretaría, autorízase a ATACAMA BIO NATURAL PRODUCTS SOCIEDAD ANONIMA para iniciar actividades pesqueras de transformación, en orden de instalar y operar una planta ubicada en Fundo San Antonio, Ruta A-665, comuna de Pozo Almonte, Provincia de Iquique, II Región, donde podrá elaborar en las líneas de proceso de Extracto Aceite o CO2, Polvo de Microalgas y Polvo de Microalgas Aceite, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
