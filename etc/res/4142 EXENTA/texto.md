@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.142, de 30 de noviembre de 2005 de esta Subsecretaría, autorízase a PROCESADORA NAVARINO SOCIEDAD ANONIMA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en José Montealegre Nº 3001, Maullín, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Congelado, Seco salado, Ahumado, Conserva y Deshidratado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
