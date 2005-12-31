@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.138, de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a HORACIO EUGENIO LUNAS CASTRO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Calderilla s/n, sector Cecilia Nº 1, Caldera, III Región, donde podrá elaborar en la línea de proceso de Picado de algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
