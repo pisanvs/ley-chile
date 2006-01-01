@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.287, de 14 de diciembre de 2005, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A., para ampliar actividades pesqueras de transformación, autorizadas por las resoluciones citadas en visto, en orden a incorporar a su planta ubicada en Avenida Colón Nº2400, Talcahuano, VIII Región, en la línea de proceso de congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
