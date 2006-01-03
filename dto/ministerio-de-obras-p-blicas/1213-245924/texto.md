@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.213, de 31 de octubre de 2005, se expropió el lote de terreno Nº2, superficie 26.503 m2., rol de avalúo 201-56, comuna de Cabrero, para Concesión Internacional Ruta 5 Tramo: Chillán - Collipulli. Sector: Km. 455.700,00 al Km. 459.800,00, VIII Región y se acordó el valor de indemnización con su propietario Serjio Estelio Palma Peña, ascendente a la cantidad de $91.594.457.
+
+Fiscal del Ministerio de Obras Públicas.
