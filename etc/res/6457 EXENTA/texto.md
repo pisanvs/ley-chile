@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 6.457, 14 diciembre 2005, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en camino vecinal s/n Río Claro, rol de avalúo s/n, comuna Yumbel, superficie aproximada 122,19 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-20.206 P, de propietario desconocido, para ejecución proyecto "Expropiación Terreno, Captación APR", Programa "Chile Barrio", en la comuna de Yumbel, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecta, Gabriel Fernández de la Maza, ingeniero civil, Santiago Aptecar Nazer, arquitecto, según informe de fecha 26 octubre 2005, fijó monto provisional indemnización en $953.350.-, pagadera de contado. Director Serviu Región del Bío Bío.
+
+- Serviu Región del Bío Bío.
