@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.390 de 30 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para la empresa Essan S.A. el lote de terreno Nº 1 para la obra:
+
+"Planta de Tratamiento Aguas Servidas e Impulsión de la localidad de Loncoche", que figura a nombre de Suc. Krumbach Kroneberg Horst, Rol de avalúo Nº 361-07, comuna de Loncoche, IX Región, superficie: 18.964 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 19 de octubre de 2005, en la cantidad de $33.539.600.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
