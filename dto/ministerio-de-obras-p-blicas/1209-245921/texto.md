@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.209 de fecha 31 de octubre de 2005, se expropio el lote de terreno Nº 205, superficie 2.850 m2, Rol Nº 238-182, comuna de Toltén, para la obra "Camino Ruta S-790, Sector Nueva Toltén-Límite Regional (Queule), Tramo Km. 87,50000 a Km. 103,33500, correspondiente al Subtramo V, Km. 98,29000 a Km. 103,33500", IX Región y se acordó el valor de la indemnización con su propietario Elvira del Carmen Llafquen Ñancufil, ascendente a la cantidad de $3.699.503.
+
+Fiscal del Ministerio de Obras Públicas.
