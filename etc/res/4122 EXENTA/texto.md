@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.122, de 29 de noviembre de 2005, de esta Subsecretaría, autorízase a SINDICATO DE TRABAJADORES INDEPENDIENTES DE MARISCADORES DE ORILLA Y ALGUEROS ARTESANALES DE CHAÑARAL, para ampliar actividades pesqueras de transformación, autorizadas por las resoluciones citadas precedentemente, en orden a incorporar a su planta ubicada en Avenida La Paz con Pedro de Valdivia s/n, Chañaral, III Región, en las líneas de proceso de Alga seca y Picado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 29 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
