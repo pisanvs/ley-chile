@@ -1,0 +1,27 @@
+ESTABLECE LA EMISION QUE CORRESPONDE A LA ULTIMA FUENTE ESTACIONARIA EXISTENTE INCLUIDA EN LOS MAYORES EMISORES DE OXIDOS DE NITROGENO
+
+Núm. 121.059.- Santiago, 22 de diciembre de 2005.- Vistos: Lo dispuesto en el decreto supremo Nº 58 de 2003, del Ministerio Secretaría General de la Presidencia (Minsegpres), que aprobó la Reformulación y Actualización del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana (PPDA); La resolución Nº 5.155 de 1999, del Servicio de Salud del Ambiente de la Región Metropolitana, que establece la exigencia de medición de NOx para fuentes estacionarias en la Región Metropolitana; Lo informado por el Subdepartamento Calidad del Aire, del Departamento Acción Sanitaria de esta Secretaría Regional Ministerial, con fecha 30 de noviembre de 2005, donde se señala la emisión que corresponde a la última fuente incluida en el 80%, a que hace referencia el artículo 43 del DS Nº 58/2003, del Min-segpres; Lo dispuesto en los artículos 3 y 9, letra b), del DFL Nº 725, de 1968, que aprobó el Código Sanitario; Las atribuciones que me confiere el decreto ley Nº 2.763 y sus modificaciones; El decreto con fuerza de ley Nº 2 del 2004, que suprime el Servicio de Salud del Ambiente de la Región Metropolitana; El decreto supremo Nº 136 de 2004, del Ministerio de Salud, que aprueba el Reglamento Orgánico de dicha Secretaría de Estado; Lo dispuesto en el artículo 44, inc. 2º, de este mismo cuerpo reglamentario, de acuerdo al cual esta Secretaría Regional Ministerial de Salud, será la continuadora legal, entre otras, de la gestión de las materias de que trata la presente resolución, y que anteriormente correspondieran al Servicio de Salud del Ambiente de la Región Metropolitana; La ley Nº 19.300, Sobre Bases Generales del Medio Ambiente,
+
+Considerando:
+
+Que, la Reformulación y Actualización del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana, señalado en los vistos, tiene por objeto alcanzar y garantizar el cumplimiento de las normas primarias de calidad del aire por las cuales fue declarada zona saturada y latente la Región Metropolitana;
+
+Que, en el artículo 43 de dicho Plan, se establece la meta global e individual de reducción de emisiones de Oxidos de Nitrógeno (NOx), para fuentes estacionarias existentes denominadas Mayores Emisores, correspondiente a un 33% del total de emisiones que estas fuentes emitían al año 1997, a cumplir el año 2007, y de un 50% del total de emisiones que estas fuentes emitían al año 1997, a cumplir al año 2010;
+
+Que, se denomina Mayores Emisores de NOx, a aquellas fuentes estacionarias existentes en la Región Metropolitana que concentraban el 80% de las emisiones de este sector al año 1997;
+
+Que, de conformidad con lo dispuesto en el artículo 44 del decreto supremo Nº 58/2003, del Ministerio Secretaría General de la Presidencia, corresponde a esta Secretaría Regional Ministerial de Salud, en coordinación con la Comisión Nacional del Medio Ambiente, determinar la emisión que corresponda a la última fuente incluida en el 80% a que se refiere el párrafo anterior.
+
+Que, por lo antes señalado, dicto la siguiente:
+
+Resolución:
+
+1º Dispónese que la emisión de NOx que corresponde a la última fuente estacionaria existente, incluida en el 80% de las emisiones del sector al año 1997, es de 8,0 ton/año. Dicho monto podrá ser actualizado por esta Autoridad Sanitaria en coordinación con la Comisión Nacional del Medio Ambiente (Conama), si luego de notificadas las metas individuales de reducción de emisión a los titulares de las fuentes, aparecieran nuevos antecedentes que así lo ameriten.
+
+2º Establécese que toda fuente estacionaria existente, cuya emisión al año 1997 sea igual o superior a dicho monto, deberá disminuir su emisión de Oxidos de Nitrógeno en un 33%, respecto de dicha emisión, en un plazo máximo de cumplimiento al 1º de mayo de 2007 conforme lo dispone el PPDA. Estas mismas fuentes deberán disminuir sus emisiones de Oxidos de Nitrógeno en un 50%, respecto de la misma emisión, en el plazo máximo de cumplimiento al año 2010.
+
+3º Dispónese que toda fuente nueva que tenga una emisión igual o superior a dicho monto y que se haya inscrito en el ex Servicio de Salud del Ambiente de la Región Metropolitana, sucedido legalmente para estos efectos por esta Secretaría Regional Ministerial de Salud de la Región Metropolitana, entre el 1º de enero de 1998 y el 29 de enero de 2004, fecha de publicación del decreto supremo Nº 58/2003, del Minsegpres, deberá compensar sus emisiones en un 120%, y toda fuente nueva inscrita en esta Secretaría Regional Ministerial de Salud, a partir del 29 de enero de 2004, deberá compensar sus emisiones en un 150%, lo que deberá ser acreditado ante esta Autoridad Sanitaria, antes del 1º de mayo de 2007, conforme lo dispone el PPDA.
+
+4º Téngase presente que esta Secretaría Regional Ministerial, en el plazo de 60 días, contados desde la publicación de la presente resolución en el Diario Oficial, comunicará a los titulares de las fuentes estacionarias existentes y denominadas Mayores Emisores, mediante ordinario, la meta individual de reducción de emisión que le corresponde cumplir.
+
+Anótese, publíquese y archívese.- Mauricio Ilabaca Marileo, Secretario Regional Ministerial de Salud Región Metropolitana.
