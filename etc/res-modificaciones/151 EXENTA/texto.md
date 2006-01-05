@@ -1,0 +1,5 @@
+MODIFICA DISEÑO DEL FORMULARIO 29 DE DECLARACION Y PAGO SIMULTANEO MENSUAL DE IMPUESTOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº151 del 29-12-2005, que establece: A partir del período tributario enero del 2006, los contribuyentes obligados a declarar y pagar mensualmente sus obligaciones tributarias a través del Formulario 29, deberán utilizar el nuevo diseño de dicho documento denominado "Declaración Mensual y Pago Simultáneo de Impuestos Formulario 29", incorporado en anexos Nºs 1 y 2, sujetándose a las "instrucciones para su llenado", incorporadas en Anexos Nºs 3 y 4. Para todos los efectos legales, los anexos Nºs 1, 2, 3 y 4 forman parte integrante de la presente resolución.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en diciembre de 2006.
