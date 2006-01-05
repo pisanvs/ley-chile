@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.377, de 20 de diciembre de 2005, de esta Subsecretaría, revócase la resolución Nº 4.019 de 2005, sólo en cuanto declaró la caducidad de las resoluciones Nº 1.051 de 1989, Nº 981 de 1990 y Nº 344 de 2002, todas de esta Subsecretaría, las que autorizaron a LUIS SEPULVEDA CRUZ para realizar actividades extractivas con la nave "Maribel II".
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
