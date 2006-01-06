@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.513, de 29 de diciembre de 2005 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99103089 presentada por CORPORACION MUNICIPAL DE QUINCHAO PARA LA EDUCACION, SALUD Y ATENCION AL MENOR, para instalar y operar un centro de cultivo ubicado en Punta Cuem, Isla Quinchao, X Región.
+
+Valparaíso, 29 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
