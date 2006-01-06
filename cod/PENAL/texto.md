@@ -2002,6 +2002,16 @@ En los casos a que se refiere este artículo el juez podrá imponer la pena de i
 
 El empleado público que directa o indirectamente exigiere mayores derechos de los que le están señalados por razón de su cargo, o un beneficio económico para sí o un tercero para ejecutar o por haber ejecutado un acto propio de su cargo en razón del cual no le están señalados derechos, será sancionado con inhabilitación absoluta temporal para cargos u oficios públicos en cualquiera de sus grados y multa del duplo al cuádruplo de los derechos o del beneficio obtenido.
 
+#### Artículo 241 bis
+
+El empleado público que durante el ejercicio de su cargo obtenga un incremento patrimonial relevante e injustificado, será sancionado con multa equivalente al monto del incremento patrimonial indebido y con la pena de inhabilitación absoluta temporal para el ejercicio de cargos y oficios públicos en sus grados mínimo a medio.
+
+Lo dispuesto en el inciso precedente no se aplicará si la conducta que dio origen al incremento patrimonial indebido constituye por sí misma alguno de los delitos descritos en el presente Título, caso en el cual se impondrán las penas asignadas al respectivo delito.
+
+La prueba del enriquecimiento injustificado a que se refiere este artículo será siempre de cargo del Ministerio Público.
+
+Si el proceso penal se inicia por denuncia o querella y el empleado público es absuelto del delito establecido en este artículo o se dicta en su favor sobreseimiento definitivo por alguna de las causales establecidas en las letras a) o b) del artículo 250 del Código Procesal Penal, tendrá derecho a obtener del querellante o denunciante la indemnización de los perjuicios por los daños materiales y morales que haya sufrido, sin perjuicio de la responsabilidad criminal de estos últimos por el delito del artículo 211 de este Código.
+
 ### VII. Infidelidad en la custodia de documentos
 
 #### Artículo 242
