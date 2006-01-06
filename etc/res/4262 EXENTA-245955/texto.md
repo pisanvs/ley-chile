@@ -1,0 +1,3 @@
+Por resolución Nº 4.262 exenta, de 9 de diciembre de 2005, de esta Subsecretaría, autorízase a OCTAVIO ALBERTO QUEVEDO FLORES para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Panamericana Sur Km. 796, Copiapó, III Región, donde podrá elaborar en la línea de proceso de picado de alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
