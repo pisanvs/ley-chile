@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.200, de 30 de noviembre de 2005 de esta Subsecretaría, autorízase a LUIS ANTONIO GALLARDO OLIVARES para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta Nº 5 Norte, Barrio Industrial, Chañaral, III Región de Atacama, donde podrá elaborar en la línea de proceso de picado de algas los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
