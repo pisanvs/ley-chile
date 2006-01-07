@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.376 de 20 de diciembre de 2005, de esta Subsecretaría, autorízase a HECTOR DE LA CRUZ PIZARRO GUERRERO, para ampliar actividades pesqueras de transformación, autorizadas por la resolución citada en Visto, en orden a incorporar a su planta ubicada en Tambillo, Parcela Nº 6, Sitio 6, comuna de Coquimbo, IV Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
