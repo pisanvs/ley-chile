@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.411, de 20 de diciembre de 2005, de esta Subsecretaría, autorízase a INDUSTRIAL Y COMERCIAL MARLO LIMITADA, para ampliar actividades pesqueras de transformación, autorizadas por las resoluciones citadas precedentemente, en orden a incorporar a su planta ubicada en Parque Industrial Apias Montt, Parcela 32, camino a Tepual Km. 3.2, sector Lagunitas, Puerto Montt, X Región, en las líneas de proceso de Cocido, Fresco enfriado, fresco refrigerado, Congelado, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
