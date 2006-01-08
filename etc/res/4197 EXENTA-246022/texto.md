@@ -1,0 +1,3 @@
+Por resolución exenta Nº4.197, de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a RODRIGO ANDRES SILVA HERRERA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta Nº5 Norte, aledaño al deslinde norte del Barrio Industrial, Chañaral, III Región de Atacama, donde podrá elaborar en la línea de proceso de Picado de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
