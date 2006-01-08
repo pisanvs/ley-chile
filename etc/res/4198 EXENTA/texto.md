@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.198, de 30 de noviembre de 2005, de esta Subsecretaría, autorízase a GUSTAVO RAMON FREDES FLORES para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta 5, aledaño al deslinde norte del Barrio Industrial, Chañaral, III Región de Atacama, donde podrá elaborar en la línea de proceso de Picado de Algas los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de noviembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
