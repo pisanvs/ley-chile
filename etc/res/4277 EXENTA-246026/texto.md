@@ -1,0 +1,5 @@
+Por resolución exenta Nº 4.277, de 9 de diciembre de 2005, de esta Subsecretaría, modifícase la resolución Nº 1.137, modificada por resolución Nº 2.635, ambas de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE CONCEPCION para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Interacción Jibia (Dosidicus gigas)- pequeños pelágicos (Sardina común y Anchoveta) en la pesquería artesanal de cerco, VIII Región", en los siguientes términos:
+
+a) En su numeral 3º, en el sentido de extender el plazo de ejecución de la presente pesca de investigación hasta el día 31 de diciembre de 2005, inclusive, e incorporar el área marítima de la X Región en el área de estudio en que se desarrollará la citada pesca de investigación, y b) En su numeral 4º, en el sentido de incorporar a las embarcaciones artesanales "Samaritano", "Nelly", "Juan Pablo VI", "Nabor I", "Ebenezer II" y "Río Valdivia" al listado de naves autorizadas a participar en la presente pesca de investigación.
+
+Valparaíso, 9 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
