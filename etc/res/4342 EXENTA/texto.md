@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.342, de 16 de diciembre de 2005, de esta Subsecretaría, autorízase a MANUEL ANTONIO NORAMBUENA GONZALEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en La Pancora, Punta de Lobos s/n, Pichilemu, VI Región, donde podrá elaborar en las líneas de proceso de Alga Seca y Picado, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
