@@ -1,0 +1,3 @@
+Por resolución exenta Nº4.263, de 9 de diciembre de 2005, de esta Subsecretaría, autorízase a TOMAS CLEMENTE FREDES FLORES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Barrio Industrial, Ruta 5, Chañaral, III Región de Atacama, donde podrá elaborar en la línea de proceso de Picado de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
