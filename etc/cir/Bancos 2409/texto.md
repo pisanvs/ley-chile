@@ -3302,7 +3302,7 @@ El acta de protesto debe contener los siguientes datos:
 
 a) Identificación del titular y firmantes.
 
-Cuando se proteste un cheque firmado por el propio titular de la cuenta corriente, el banco librado deberá consignar en el acta de protesto, los nombres y apellidos completos y el número de la Cédula Nacional de Identidad o del Rol Unico Tributario de aquél.
+Cuando se proteste un cheque firmado por el propio titular de la cuenta corriente, el banco librado deberá consignar en el acta de protesto, los nombres y apellidos completos y el número de la Cédula Nacional de Identidad, del Pasaporte o del Rol Único Tributario de aquél.
 
 Sin perjuicio de lo anterior, cuando el banco proteste un cheque en que los firmantes actúen como mandatarios o representantes legales de una persona natural o jurídica, deberá dejar constancia, en el acta de protesto, de la misma información señalada para el titular, pero correspondiente a los mandatarios o representantes cuyas firmas aparezcan en el cheque.
 
@@ -3360,7 +3360,7 @@ a) Fecha y hora del protesto;
 
 b) Nombres y apellidos completos del girador y de los representantes o mandatarios de personas jurídicas o naturales, según sea el caso;
 
-c) Número de la Cédula de Identidad o del Rol Unico Tributario;
+c) Número de la Cédula de Identidad, del Pasaporte o del Rol Único Tributario;
 
 d) Número de la cuenta corriente y del cheque;
 
