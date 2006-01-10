@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.217, de 5 de diciembre de 2005, de esta Subsecretaría, autorízase a ABEL PATRICIO AGUIRRE FERNANDEZ para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en ruta norte aledaño al deslinde norte del Barrio Industrial, Chañaral, III Región de Atacama, donde podrá elaborar en la línea de proceso de Picado de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 5 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
