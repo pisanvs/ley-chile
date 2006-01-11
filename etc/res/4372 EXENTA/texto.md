@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.372, de 20 de diciembre de 2005, de esta Subsecretaría, autorízase a SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA para ampliar actividades pesqueras de transformación, autorizadas por la resolución citada precedentemente, en orden a incorporar a su planta ubicada en camino a Chinquihue, Km. 14, Puerto Montt, X Región, en las líneas de proceso de Fresco enfriado, fresco refrigerado y congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
