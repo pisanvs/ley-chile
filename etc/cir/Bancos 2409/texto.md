@@ -18608,7 +18608,7 @@ En virtud de la disposición legal antes señalada, se establece que los documen
 
 a) Los documentos representativos de préstamos que se otorguen a exportadores situados en Chile para financiar exportaciones desde Chile.
 
-b) Los documentos de crédito correspondientes a descuentos o compras de letras de cambio o pagarés aceptados o suscritos a favor del exportador, originados en exportaciones con forma de pago "en cobranza", o provenientes de la negociación de cartas de crédito.
+b) Los documentos de crédito correspondientes a descuentos o compras de letras de cambio o pagarés aceptados o suscritos a favor del exportador, facturas de exportación u otros documentos originados en exportaciones con forma de pago "en cobranza", o provenientes de la negociación de cartas de crédito.
 
 c) Los documentos que se suscriban por el pago anticipado de cartas de crédito negociadas, a la vista o a plazo, por exportaciones efectuadas desde Chile.
 
