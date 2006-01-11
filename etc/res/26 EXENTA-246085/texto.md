@@ -1,0 +1,3 @@
+Por resolución exenta Nº 26, de 2 de enero de 2006, de esta Subsecretaría, autorízase a las organizaciones de pescadores artesanales que se indican en la resolución extractada, sometidas al Régimen Artesanal de Extracción en la unidad de pesquería de Merluza del sur, pertenecientes a la Flota Sur 1, para realizar actividades pesqueras extractivas durante el mes de enero de 2006, entre los días 2 y 7 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 2 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
