@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.344, de 16 de diciembre de 2005, de esta Subsecretaría, revócase la resolución Nº 4.019 de 2005, sólo en cuanto declaró la caducidad de las resoluciones Nº 689 de 1999, Nº 284 de 2001, Nº 351 y Nº 352, ambas de 2004, todas de esta Subsecretaría, las que autorizaron a DAVID CRUZ LOPEZ para realizar actividades extractivas con la nave "Marleen".
+
+Valparaíso, 16 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
