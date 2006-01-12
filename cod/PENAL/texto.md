@@ -3482,19 +3482,47 @@ El que, hallándose una especie mueble, al parecer perdida, cuyo valor exceda de
 
 También será castigado con presidio menor en su grado mínimo y multa de cinco unidades tributarias mensuales, el que hallare especies, al parecer perdidas o abandonadas, a consecuencia de naufragio, inundación, incendio, terremoto, accidente en ferrocarril u otra causa análoga, cuyo valor exceda la cantidad mencionada en el inciso anterior, y no las entregare a los dueños o a la autoridad en su defecto.
 
-### V. Disposiciones comunes a los tres párrafos anteriores
+§ IV bis. Del Abigeato
+
+#### Artículo 448 bis
+
+El que robe o hurte uno o más caballos o bestias de silla o carga, o especies de ganado mayor, menor o porcino, comete abigeato y será castigado con las penas señaladas en los Párrafos 2, 3 y 4.
+
+#### Artículo 448 ter
+
+Una vez determinada la pena que correspondería a los autores, cómplices y encubridores de abigeato sin el requisito de tratarse de la substracción de animales y considerando las circunstancias modificatorias de responsabilidad penal concurrentes, el juez deberá aumentarla en un grado.
+
+Cuando las especies substraídas tengan un valor que exceda las cinco unidades tributarias mensuales, se aplicará, además, la accesoria de multa de diez a cincuenta unidades tributarias mensuales.
+
+Si la pena consta de dos o más grados, el aumento establecido en el inciso primero se hará después de determinar la pena que habría correspondido al imputado, con prescindencia del requisito de tratarse de la substracción de animales.
+
+Será castigado como culpable de abigeato el que beneficie o destruya una especie para apropiarse de toda ella o de alguna de sus partes.
+
+La regla del inciso primero de este artículo se observará también en los casos previstos en el artículo 448, si se trata de animales comprendidos en el artículo anterior.
+
+#### Artículo 448 quáter
+
+Se presumirá autor de abigeato aquél en cuyo poder se encuentren animales o partes de los mismos, referidos en este Párrafo, cuando no pueda justificar su adquisición o legítima tenencia y, del mismo modo, al que sea habido en predio ajeno, arreando, transportando, manteniendo cautivas, inmovilizadas o maniatadas dichas especies animales. El porte, en dichas circunstancias, de armas, herramientas o utensilios comúnmente empleados en estas faenas, se castigará de conformidad con lo establecido en el artículo 445.
+
+Las marcas registradas, señales conocidas, dispositivos de identificación individual oficial registrados ante el Servicio Agrícola y Ganadero u otras de carácter electrónico o tecnológico puestas sobre el animal, constituyen presunción de dominio a favor del dueño de la marca o señal.
+
+Para los efectos previstos en el inciso primero, en los casos de traslado de animales o de partes de los mismos, realizado en vehículos de transporte de carga, Carabineros de Chile deberá exigir, además de la guía de libre tránsito, la boleta, factura o guía de despacho correspondiente, a efectos de acreditar el dominio, posesión o legítima tenencia de las especies. Ante la imposibilidad de acreditar dicho dominio, posesión o legítima tenencia, según corresponda, por carecer de los mencionados documentos o por negarse a su exhibición, los funcionarios policiales se incautarán de las especies, sus partes y del medio de transporte, dando aviso a la fiscalía correspondiente para el inicio de la investigación que proceda y al Servicio de Impuestos Internos ante un eventual delito tributario.
+
+#### Artículo 448
+
+quinquies.
+
+El que se apropie de las plumas, pelos, crines, cerdas o cualquier elemento del pelaje de animales ajenos, por cualquier medio que ello se realice, será castigado con presidio menor en sus grados mínimo a medio.
+
+### V. Disposiciones comunes a los cuatro Párrafos anteriores
 
 #### Artículo 449
 
-En los casos de robos o hurtos de vehículos, de caballos o bestias de silla o carga, de ganado mayor o menor o porcino, podrán ser aplicadas respectivamente a los autores, cómplices y encubridores las penas superiores en un grado a las que les hayan correspondido sin la circunstancia de tratarse de la sustracción de animales.
+En los casos de robos o hurtos de vehículos podrán ser aplicadas respectivamente a los autores, cómplices y encubridores las penas superiores en un grado a las que les hayan correspondido.
 
 Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al condenado con prescindencia de la expresada circunstancia.
 
-La regla del inciso primero de este artículo se observará también en los casos previstos en el artículo 448, si se trata de animales o aves comprendidos en los incisos anteriores.
-
-Será castigado en la forma señalada en este artículo, el que beneficie o destruya las especies a que él se refiere para apropiarse solamente de partes de ella.
-
-El que se apropie de las plumas, pelos, crines o cerdas de animales ajenos, esquilándolos o cortándoles las plumas, pelos, crines o cerdas, será castigado con presidio menor en su grado mínimo a medio.
+Será castigado en la forma señalada en este artículo, el que destruya las especies a que él se refiere para apropiarse solamente de partes de ella.
 
 #### Artículo 450
 
@@ -3526,15 +3554,7 @@ Cuando se reunieren en un hecho varias de las circunstancias a que se señala pe
 
 #### Artículo 454
 
-Inciso Eliminado.
-
 Se presumirá autor del robo o hurto de una cosa aquel en cuyo poder se encuentre, salvo que justifique su legítima adquisición o que la prueba de su irreprochable conducta anterior establezca una presunción en contrario.
-
-Se presumirá también autor del robo o hurto de animales aquel en cuyo poder se encuentren partes identificables de la especie robada o hurtada.
-
-La marca registrada puesta sobre el animal robado o hurtado, constituye presunción de dominio a favor del dueño de la marca.
-
-Inciso Derogado.
 
 #### Artículo 455
 
@@ -3568,7 +3588,7 @@ En estos delitos no podrá estimarse que concurre la circunstancia atenuante del
 
 A.
 
-El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas o robadas, o las compre, venda o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a veinte unidades tributarias mensuales.
+El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato, o las compre, venda o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a veinte unidades tributarias mensuales.
 
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
 
