@@ -138,7 +138,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Desmonte»:rebaje de terrenos no rocosos en la ladera de un cerro, que no requiere refuerzo estructural.
 
-«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.".
+«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.
 
 «Ducto» (Shaft) : conducto técnico generalmente destinado a contener las instalaciones de un edificio.
 
@@ -204,13 +204,15 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Galería»: espacio generalmente cubierto, horizontal o en rampa, destinado a la circulación de público, con locales comerciales a uno o ambos lados.
 
-Informe de riesgos»: DEROGADO.
+«Informe de riesgos»: DEROGADO.
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
 «Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
 
 Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+
+«Instalación de publicidad»: todo elemento publicitario ubicado en la vía pública o que pueda ser visto u oído desde la misma.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
@@ -311,6 +313,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Profesional competente»: el arquitecto, ingeniero civil, ingeniero constructor o constructor civil, a quienes, dentro de sus respectivos ámbitos de competencia, les corresponda efectuar las tareas u obras a que se refiere la Ley General de Urbanismo y Construcciones y la presente Ordenanza.
 
 «Profesional especialista»: profesional competente o bien otros profesionales tales como ingenieros de tránsito, ingenieros mecánicos, ingenieros agrónomos, ingenieros químicos, ingenieros forestales, geógrafos, geólogos, u otros cuyas especialidades tengan directa relación con el estudio que suscriben.
+
+«Propiedad abandonada»: el inmueble no habitado que se encuentre permanentemente desatendido, ya sea por falta de cierros, protecciones adecuadas, aseo o mantención, o por otras circunstancias manifiestas de abandono o deterioro que afecten negativamente su entorno inmediato.
 
 «Propietario»: persona natural o jurídica que declara, ante la Dirección de Obras Municipales o ante el servicio público que corresponda, ser titular del dominio del predio al que se refiere la actuación requerida.
 
@@ -424,7 +428,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
-«Volumen de la edificación»: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
+«Volumen de la edificación«: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
 
 «Volumen teórico»: volumen o envolvente máxima, expresado en metros cúbicos, resultante de la aplicación de las disposiciones sobre superficies de rasante, distanciamientos, antejardines y alturas máximas, cuando las hubiere, en un terreno determinado.
 
@@ -444,7 +448,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
 
-> **Nota.** NOTA 2 El artículo primero transitorio del decreto-115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
+> **Nota.** NOTA 2 El artículo primero transitorio del decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
@@ -870,7 +874,7 @@ En ambos casos, la resolución que dispone la postergación debe ser fundada y a
 
 Con todo, las postergaciones no afectarán a las solicitudes presentadas con anterioridad a la fecha de dicha publicación.
 
-En todo caso un mismo predio no podrá estar afecto a postergación de permisos por más de 12 meses.
+En todo caso un mismo predio no podrá estar afecto a postergación de permisos por un mismo estudio sobre modificaciones del Plan Regulador Intercomunal o Comunal por más de 12 meses.
 
 #### Artículo 1
 
@@ -1122,7 +1126,7 @@ El ámbito propio de este nivel de planificación territorial será el siguiente
 
 1. La definición de los límites de extensión urbana, para los efectos de diferenciar el área urbana del resto del territorio, que se denominará área rural.
 
-2. La determinación de las relaciones viales intercomunales, mediante el trazado de las vías troncales.
+2. La determinación de las relaciones viales intercomunales, mediante el trazado de las vías expresas y troncales.
 
 3. La determinación de una zonificación general, en que se contemplen las construcciones e instalaciones de alto impacto en relación al resto de las actividades urbanas. En ella se incluirán, entre otras, las zonas o condiciones a cumplir para la instalación de industrias molestas y peligrosas; los vertederos de basura y las instalaciones de alto riesgo, como las que involucren radioactividad, almacenamiento de explosivos o productos inflamables, químicos tóxicos, o residuos industriales o mineros.
 
@@ -1650,25 +1654,105 @@ Los Planos Reguladores Comunales podrán establecer porcentajes distintos para t
 
 #### Artículo 2
 
-1.28. El tipo de uso Actividades Productivas comprende a todo tipo de industrias y aquellas instalaciones de impacto similar, tales como grandes depósitos, talleres o bodegas industriales. El Instrumento de Planificación Territorial podrá establecer limitaciones a su instalación, sin perjuicio del cumplimiento de las normas ambientales y demás disposiciones pertinentes.
+1.28. El tipo de uso Actividades Productivas comprende a todo tipo de industrias y aquellas instalaciones de impacto similar al industrial, tales como grandes depósitos, talleres o bodegas industriales. El Instrumento de Planificación Territorial podrá establecer limitaciones a su instalación, sin perjuicio del cumplimiento de las normas ambientales y demás disposiciones pertinentes.
 
-Las actividades productivas señaladas en el inciso anterior pueden ser calificadas como inofensivas, molestas o peligrosas por el Servicio de Salud correspondiente. Sin embargo, las que cuenten con calificación de dicho Servicio como actividad inofensiva podrán asimilarse al uso de suelo Equipamiento de clase comercio o servicios, previa autorización del Director de Obras Municipales cuando se acredite que no producirán molestias al vecindario.
+Las actividades productivas señaladas en el inciso anterior pueden ser calificadas como inofensivas, molestas, insalubres, contaminantes o peligrosas por la Secretaría Regional Ministerial de Salud correspondiente. Sin embargo, las que cuenten con calificación de dicha Secretaría Regional Ministerial como actividad inofensiva podrán asimilarse al uso de suelo Equipamiento de clase comercio o servicios, previa autorización del Director de Obras Municipales cuando se acredite que no producirán molestias al vecindario.
 
 #### Artículo 2
 
-1.29. El tipo de uso Infraestructura se refiere a las edificaciones o instalaciones y a las redes o trazados destinadas a:
+1.29. El tipo de uso Infraestructura se
 
-- Infraestructura de transporte, tales como, vías y estaciones ferroviarias, terminales de transporte terrestre, recintos marítimos o portuarios, instalaciones o recintos aeroportuarios, etc.
+refiere a las edificaciones o instalaciones y a las
 
-- Infraestructura sanitaria, tales como, plantas de captación, distribución o tratamiento de agua potable o de aguas servidas, de aguas lluvia, rellenos sanitarios, vertederos, plantas de transferencia de basuras, etc.
+redes o trazados destinadas a:
 
-- Infraestructura energética, tales como, centrales de generación o distribución de energía, de gas y de telecomunicaciones, gasoductos, etc.
+- Infraestructura de transporte, tales como, vías y
 
-Las redes de distribución y servicio domiciliario y trazados viales se entenderán siempre admitidos y se sujetarán a las disposiciones que establezcan los organismos competentes. El Plan Regulador Comunal deberá reconocer las fajas de protección determinadas por la normativa vigente y destinarlas a áreas verdes o vialidad.
+estaciones ferroviarias, terminales de transporte
 
-El Instrumento de Planificación Territorial respectivo podrá establecer las condiciones que permitan el emplazamiento de las instalaciones o edificaciones necesarias para este tipo de uso, sin perjuicio del cumplimiento de las normas ambientales, de las normas de la Ley General de Urbanismo y Construcciones, de esta Ordenanza y demás disposiciones pertinentes.
+terrestre, recintos marítimos o portuarios,
 
-Con todo, las instalaciones o edificaciones de este tipo de uso calificados por el organismo competente como contaminantes y/o peligrosas deberán localizarse fuera de los límites urbanos.
+instalaciones o recintos aeroportuarios, etc.
+
+- Infraestructura sanitaria, tales como, plantas de
+
+captación, distribución o tratamiento de agua
+
+potable o de aguas servidas, de aguas lluvia,
+
+rellenos sanitarios, estaciones exclusivas de
+
+transferencia de residuos, etc.
+
+- Infraestructura energética, tales como, centrales
+
+de generación o distribución de energía, de gas y
+
+de telecomunicaciones, gasoductos, etc.
+
+Las redes de distribución, redes de comunicaciones
+
+y de servicios domiciliarios y en general los trazados
+
+de infraestructura se entenderán siempre admitidos y
+
+se sujetarán a las disposiciones que establezcan los
+
+organismos competentes. El instrumento de
+
+planificación territorial deberá reconocer las fajas
+
+o zonas de protección determinadas por la normativa
+
+vigente y destinarlas a áreas verdes, vialidad o
+
+a los usos determinados por dicha normativa.
+
+El Instrumento de Planificación Territorial
+
+respectivo podrá establecer las condiciones o requisitos
+
+que permitan el emplazamiento de las instalaciones
+
+o edificaciones necesarias para este tipo de uso,
+
+sin perjuicio del cumplimiento de las normas
+
+ambientales, de las normas de la Ley General de
+
+Urbanismo y Construcciones, de esta
+
+Ordenanza y demás disposiciones pertinentes.
+
+Las instalaciones o edificaciones de este tipo
+
+de uso que contemplen un proceso de transformación
+
+deberán ser calificadas por la Secretaría Regional
+
+Ministerial de Salud respectiva, de conformidad a
+
+lo preceptuado en el artículo 4.14.2. de esta
+
+Ordenanza, y aquellas que sean calificadas como
+
+contaminantes y/o peligrosas deberán localizarse
+
+fuera de los límites urbanos.
+
+Las instalaciones o edificaciones de
+
+infraestructura en el área rural, requerirán las
+
+autorizaciones exigidas para las construcciones de
+
+equipamiento conforme al artículo 55º de la Ley
+
+General de Urbanismo y Construcciones, siempre que
+
+no contemplen procesos productivos. En caso
+
+contrario se considerarán como industria.
 
 #### Artículo 2
 
@@ -1680,7 +1764,7 @@ En zonas definidas por el Instrumento de Planificación Territorial como área v
 
 Las construcciones señaladas en los incisos precedentes podrán realizarse en forma parcial y sucesiva siempre que la suma de ellas, con las ya existentes, no sobrepase el porcentaje máximo consignado.
 
-Las áreas verdes de dominio privado se entenderán siempre admitidas, salvo que se trate de zonas declaradas "de construcción obligatoria".
+INCISO ELIMINADO.
 
 #### Artículo 2
 
@@ -1740,9 +1824,7 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 #### Artículo 2
 
-1.35. Las escalas o niveles de equipamiento se refieren a la magnitud o tamaño de las construcciones con tal destino, según la medida del efecto que produzcan en materia de ruidos, flujos vehiculares y eventualmente peatonales, de acuerdo al tipo de vía existente que enfrentan, al número de personas contemplado según carga de ocupación, y a las condiciones sanitarias del proyecto. Para los efectos de lo dispuesto en el presente artículo, se entenderá como vía existente aquella vía materializada y conectada con otra vía existente cuyo ancho de calzada sea igual o superior.
-
-En aquellos casos en que los Instrumentos de Planificación Territorial vigentes se refieran a niveles, escalas o denominaciones similares del equipamiento, sea que dichos niveles se denominen vecinal, comunal, intercomunal, metropolitano, regional o similares, cualquiera sea su tipo, se entenderán automáticamente reemplazados por las "escalas" señaladas en los artículos siguientes.
+1.35. Las escalas o niveles de equipamiento se refieren a la magnitud o tamaño de las construcciones con tal destino, según la medida del efecto que produzcan en materia de flujos vehiculares y eventualmente peatonales, de acuerdo al tipo de vía existente que enfrentan, al número de personas contemplado según carga de ocupación, y a la cantidad de estacionamientos del proyecto. Para los efectos de lo dispuesto en el presente artículo, se entenderá como vía existente aquella vía materializada y conectada con otra vía existente cuyo ancho de calzada sea igual o superior.
 
 #### Artículo 2
 
@@ -2362,7 +2444,7 @@ siguiente.
 
 En los edificios colectivos de vivienda deberá contemplarse al menos un estacionamiento, del tipo indicado en el inciso anterior, como parte de la exigencia de estacionamientos de visitas.
 
-Los estacionamientos requeridos podrán disponerse como estacionamientos dobles, esto es, uno detrás de otro dispuestos en forma perpendicular a la circulación vehicular, en hasta un 30% del total, salvo que el respectivo Instrumento de Planificación Territorial disponga una mayor restricción.
+Los estacionamientos requeridos podrán disponerse como estacionamientos dobles, esto es, uno detrás de otro dispuestos en forma perpendicular a la circulación vehicular, en hasta un 30% del total.
 
 Las características de los estacionamientos que excedan la cuota mínima exigida no estarán reguladas como las anteriores.
 
@@ -2398,11 +2480,27 @@ Las disposiciones de este artículo son sin perjuicio de los requisitos especial
 
 ## Capítulo 5
 
-DE LOS CIERROS; LINEAS DE EDIFICACION, OCHAVOS Y ANTEJARDINES
+DE LOS CIERROS, PROPIEDADES ABANDONADAS, LINEAS DE EDIFICACIÓN, OCHAVOS Y ANTEJARDINES
 
 #### Artículo 2
 
-5.1. Los sitios eriazos al interior del área urbana deberán tener cierros levantados en su frente hacia espacios públicos, siendo responsabilidad de los propietarios mantenerlos en buen estado. Las características de los cierros podrán ser fijadas por el Plan Regulador Comunal o Seccional o por Ordenanzas Locales.
+5.1. Los sitios eriazos y las propiedades abandonadas con y sin edificación, ubicados en áreas urbanas, deberán tener cierros levantados en su frente hacia el espacio público, siendo responsabilidad de los propietarios mantenerlos en buen estado.
+
+El Alcalde deberá notificar a los propietarios de propiedades abandonadas, con y sin edificaciones, respecto de las mejoras o reparaciones que deban ejecutarse en dichas propiedades, relativas a cierro, higiene y mantención, otorgando un plazo prudencial para ello.
+
+Vencido el plazo señalado en el inciso anterior, si no se hubieren realizado las obras ordenadas, el Alcalde, mediante Decreto Alcaldicio fundado, podrá declarar como "propiedad abandonada" los inmuebles que se encuentren en tal situación, de conformidad a lo establecido en el artículo 58 bis del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales.
+
+Las Municipalidades podrán intervenir en las propiedades abandonadas, con o sin edificaciones, que hayan sido declaradas como tales, sólo con el propósito de su cierro, higiene o mantención general, conforme a lo dispuesto en los incisos siguientes. El costo que las obras impliquen para el municipio será de cargo del propietario, pudiendo el municipio repetir en contra de éste.
+
+En las propiedades que no contemplen edificaciones, la Municipalidad podrá realizar mantención, higiene, limpieza regular de la vegetación del predio y disponer cierros con un mínimo de un 60% de transparencia hacia el espacio público. Dicho porcentaje podrá ser incrementado por el Plan Regulador Comunal.
+
+Tratándose de propiedades abandonadas con edificaciones, la Municipalidad, además de las medidas señaladas en el inciso anterior, podrá pintar las fachadas, realizar reposición de vidrios, puertas y cierros, para mantenerlas permanentemente en buen estado.
+
+El Plan Regulador Comunal o el Plan Seccional, podrá establecer mayores exigencias que las contempladas en este artículo, respecto de las características de los cierros que enfrenten espacios públicos en los sitios eriazos y en las propiedades abandonadas.
+
+Con todo, las construcciones existentes en las propiedades abandonadas que no ofrezcan las debidas garantías de salubridad y seguridad, o que amenacen ruina, podrán ser demolidas en conformidad con el Título III Capítulo II Párrafo 7º de la Ley General de Urbanismo y Construcciones.
+
+En todo caso, el afectado por la declaración de abandono de su propiedad, si varían las circunstancias que la motivaron, siempre conservará el derecho para requerir a la respectiva Municipalidad, que ponga término a la referida declaración de abandono.
 
 #### Artículo 2
 
@@ -2502,7 +2600,7 @@ En los predios de superficie superior a 500 m2 de uso habitacional, como asimism
 
 6.3. Las edificaciones aisladas deberán cumplir los distanciamientos a los deslindes señalados en el presente artículo. Asimismo, no podrán sobrepasar en ningún punto las rasantes que se indican más adelante, salvo que se acojan al procedimiento y condiciones que establece el artículo 2.6.11. de este mismo Capítulo.
 
-Las rasantes se levantarán en todos los puntos que forman los deslindes con otros predios y en el punto medio entre líneas oficiales del espacio público que enfrenta el predio, salvo que el predio colinde con un área verde pública, en cuyo caso las rasantes se aplicarán en el deslinde entre ambos. En los casos que el ancho entre líneas oficiales sea superior a 100 m o no exista línea oficial en el lado opuesto, no se aplicarán rasantes en tal frente.
+Las rasantes se levantarán en todos los puntos que forman los deslindes con otros predios y en el punto medio entre líneas oficiales del espacio público que enfrenta el predio, salvo que el predio colinde con un área verde pública, en cuyo caso las rasantes se aplicarán en el deslinde entre ambos. En los casos que el ancho entre líneas oficiales sea superior a 100 m o no exista línea oficial en el lado opuesto, no se aplicarán rasantes en tal frente. Excepcionalmente, en los casos en que un predio deslinde con un retazo de terreno, retazo que a su vez enfrente una vía de uso público y la aplicación de las normas urbanísticas no permitieren en él la materialización de un proyecto de edificación, se entenderá para todo efecto, que aquel predio deslinda con la vía que enfrenta el señalado retazo.
 
 Las normas de distanciamiento y rasantes contenidas en el presente artículo se aplicarán en forma simultánea y regirán para las edificaciones aisladas, las partes aisladas de edificaciones pareadas y las que se construyan en sectores en que el Instrumento de Planificación Territorial permita edificación aislada por sobre la altura máxima de la edificación continua.
 
@@ -2520,7 +2618,7 @@ IV a IX Región y R.M. 70°
 
 X a XII Región 60°
 
-volumen teórico.
+En cualquier caso, los edificios aislados de cinco o más pisos ubicados en zonas sin límite de altura, no podrán ocupar un volumen edificado superior al 90% del volumen teórico.
 
 Los distanciamientos, medidos en cada una de las alturas de la edificación que se señalan en la siguiente tabla, consideradas separadamente, serán:
 
@@ -2546,7 +2644,7 @@ En casos de edificación aislada por sobre la edificación continua, para la apl
 
 Las construcciones en subterráneos deberán cumplir con las siguientes normas sobre distanciamientos:
 
-1. En caso que el respectivo Plan Regulador Comunal no contemple normas sobre distanciamientos aplicables a los subterráneos, las construcciones en subterráneo podrán adosarse al deslinde, con excepción del área bajo el antejardín, salvo en los casos en que el Instrumento de Planificación Territorial lo permita.
+1. En caso que el respectivo Plan Regulador Comunal no contemple normas sobre distanciamientos aplicables a los subterráneos, las construcciones en subterráneo podrán adosarse al deslinde, con excepción del área bajo el antejardín, salvo en los casos en que el Instrumento de Planificación Territorial lo permita
 
 Con todo, para asegurar la absorción de aguas lluvia al interior del predio y la arborización del mismo la ocupación con construcciones en el primer subterráneo no podrá superar el 70% de la superficie total del predio, salvo en los casos en que el Instrumento de Planificación Territorial permita un porcentaje mayor de ocupación de suelo.
 
@@ -2740,7 +2838,7 @@ Tratándose de edificación continua, estos cuerpos salientes, excluidas las mar
 
 7.2. Se podrá autorizar una construcción que comunique inmuebles que se enfrenten en ambos costados sobre una vía pública, previa concesión otorgada por la Municipalidad correspondiente, siempre que con ello no se afecte negativamente las condiciones físicas y ambientales del entorno, según lo defina el Plan Regulador Comunal o el Plan Seccional, cumpliendo además los siguientes requisitos técnicos:
 
-1. Que la altura libre bajo la construcción, en ninguno de sus puntos, sea inferior a 6m.
+1. Que la altura libre bajo la construcción, en ninguno de sus puntos, sea inferior a 4,50 m.
 
 2. Que la construcción no consulte apoyos intermedios en el espacio público, salvo que para dichos apoyos se cuente con una concesión de la Municipalidad.
 
@@ -2780,7 +2878,45 @@ Esta misma medida podrá imponerse cuando se trate de terrenos con menos de 15 m
 
 #### Artículo 2
 
-7.10. La colocación de elementos visibles desde la vía pública, tales como placas, tableros, cierros, cobertizos, elementos sobrepuestos, carteles o anuncios, de cualquier tipo, en las fachadas, cubiertas, terrazas, medianeros o antejardines de los edificios, se sujetará a las condiciones que determine el respectivo Plan Regulador Comunal o Plano Seccional.
+7.10. La instalación de publicidad en la vía pública o que pueda ser vista u oída desde la vía pública, deberá cumplir con las condiciones mínimas que determina este artículo.
+
+La Municipalidad a través del Plan Regulador Comunal o el Plan Seccional, podrá establecer mayores restricciones que las contempladas en el presente artículo.
+
+Toda instalación de publicidad deberá cumplir con las siguientes exigencias mínimas:
+
+a) Cumplir con las normas urbanísticas de la zona en que se emplace.
+
+b) Cumplir con las normas relativas a seguridad, resistencia y estabilidad, considerando factores tales como seguridad contra incendio, resistencia al viento, resistencia de la estructura de los elementos soportantes y sus fundaciones, comportamiento de materiales, normas de instalaciones y sistemas, lo cual será informado y suscrito por un profesional competente al momento de solicitar el respectivo permiso.
+
+c) La instalación de publicidad no podrá dificultar la percepción de señalizaciones del tránsito ni entorpecer el alumbrado público.
+
+d) Se prohíbe ubicar soportes de carteles publicitarios en Parques Intercomunales y Comunales existentes o declarados de utilidad pública, en plazas y áreas verdes públicas. Sólo se podrán ubicar soportes de carteles publicitarios en el espacio de uso público destinado a vialidad si expresamente lo permite el Plan Regulador Comunal o el Plan Seccional.
+
+Dichos instrumentos de planificación territorial podrán prohibir la instalación de este tipo de carteles publicitarios en inmuebles de propiedad privada.
+
+e) Los avisos luminosos fijos o intermitentes, no podrán localizarse en zonas residenciales exclusivas determinadas por el Plan Regulador Comunal.
+
+f) La instalación de un elemento publicitario no podrá bloquear los vanos de una edificación ni las salidas de escape o rescate, o entorpecer los dispositivos de combate contra el fuego.
+
+Los avisos publicitarios provisorios que se instalen con el propósito de cubrir fachadas de las edificaciones para ejecución de obras de construcción, sólo podrán autorizarse por un período que no exceda el de ejecución de las obras de construcción, reconstrucción, reparación, alteración, ampliación, demolición y mantención que se realicen en el predio, el cual no podrá ser superior a 3 meses. Dicha autorización sólo podrá ser renovada por una sola vez por el mismo plazo señalado.
+
+Los propietarios de las instalaciones de publicidad a que se refiere este artículo, estarán obligados a mantenerlas en buen estado de conservación, limpieza y seguridad.
+
+Los derechos municipales a cancelar por los permisos que requieran las instalaciones a que se refiere este artículo serán los correspondientes a las Obras Provisorias conforme al Nº 3 de la tabla contenida en el artículo 130º de la Ley General de Urbanismo y Construcciones. Para estos efectos el interesado deberá presentar a la Dirección de Obras Municipales los siguientes documentos:
+
+a) Plano que grafique el cumplimiento de las normas urbanísticas del Plan Regulador Comunal. Dicho plano deberá ser suscrito por el propietario del predio donde se efectuará la instalación y por los profesionales competentes.
+
+b) Informe del profesional competente que indique el cumplimiento de las normas relativas a seguridad, resistencia y estabilidad a que se refiere este artículo.
+
+Tratándose de avisos o letreros luminosos que requieran instalación eléctrica, deberán ser certificados por un instalador autorizado por la Superintendencia de Servicios Eléctricos y Combustibles.
+
+c) Plano de estructura de los soportes firmado por un profesional competente, cuando corresponda.
+
+d) Presupuesto de las obras.
+
+Las instalaciones de propaganda y publicidad necesarias para singularizar la actividad que se desarrolla en un inmueble se regirán por las disposiciones que establezca la Ordenanza Local de Propaganda y Publicidad.
+
+La propaganda y publicidad electoral se regirá por la Ley Nº 18.700, Orgánica Constitucional Sobre Votaciones Populares y Escrutinios.
 
 #### Artículo 2
 
@@ -3344,7 +3480,7 @@ Las ventanas, puertas y estructura de techumbre estarán exentas de cumplir con 
 
 3. Los desniveles que se produzcan en las circulaciones entre recintos de uso público se salvarán, en al menos uno de los recorridos, mediante rampas antideslizantes o elementos mecánicos especiales, entendiendo incluidos en ellos los ascensores.
 
-4. Las rampas antideslizantes deberán contar con un ancho libre mínimo de 0,90 m sin entrabamientos para el desplazamiento y consultar una pendiente máxima de 12% cuando su desarrollo sea de hasta 2 m. Cuando requieran de un desarrollo mayor, su pendiente irá disminuyendo hasta llegar a 8% en 8 m de largo.
+4. Las rampas antideslizantes deberán contar con un ancho libre mínimo de 0,90 m sin entrabamientos para el desplazamiento y consultar una pendiente máxima de 12% cuando su desarrollo sea de hasta 2 m. Cuando requieran de un desarrollo mayor, su pendiente irá disminuyendo hasta llegar a 8% en 9 m de largo.
 
 La pendiente máxima que la rampa deberá consultar en función de su longitud se calculará según la siguiente fórmula:
 
@@ -3352,7 +3488,7 @@ i% = 13,14 - 0,57L
 
 i% = pendiente máxima expresada en porcentaje L = longitud de la rampa
 
-En caso de requerir mayor desarrollo, el largo deberá seccionarse cada 8 m, con descansos horizontales de un largo libre mínimo de 1,50 m.
+En caso de requerir mayor desarrollo, el largo deberá seccionarse cada 9 m, con descansos horizontales de un largo libre mínimo de 1,50 m.
 
 Cuando su longitud sea mayor que 2 m, las rampas deberán estar provistas de al menos un pasamanos continuo de 0,95 m de altura.
 
@@ -3368,7 +3504,7 @@ Cuando se requieran juntas estructurales o de dilatación, en la superficie de c
 
 9. Cuando se requieran ascensores, conforme al artículo 4.1.11. de este mismo Capítulo, uno de ellos deberá contar con las medidas mínimas de cabina establecidas en el número 2 de ese mismo artículo.
 
-10. En cada detención, la separación entre el piso de la cabina del ascensor y el respectivo piso de la edificación no podrá ser superior a dos centímetros y su diferencia de nivel máxima será de un centímetro.
+10. En cada detención, la separación entre el piso de la cabina del ascensor y el respectivo piso de la edificación no podrá ser superior a lo que establece la NCh Nº 440/1 o NCh Nº 440/2, según corresponda, y su diferencia de nivel máxima será de un centímetro.
 
 11. El área que enfrente a un ascensor deberá tener un largo y ancho mínimo de 1,40 m y el ancho frente a la puerta del ascensor no podrá ser menor que la profundidad de la cabina.
 
@@ -4560,17 +4696,7 @@ b) Que las salidas de la red seca y la red húmeda se ubiquen en dicha área com
 
 #### Artículo 4
 
-3.9. Los edificios dispondrán de instalaciones especiales de agua según se especifica a continuación:
-
-1. Red Seca: Todo edificio de 5 o más pisos de altura deberá contar con la instalación de una red metálica independiente para agua, con válvula de retención, de uso exclusivo del Cuerpo de Bomberos, de fácil acceso en la boca de la entrada, para conexión de los carros bomba. Las características técnicas de esta red serán las especificadas en el Manual de Normas Técnicas para la Realización de las Instalaciones de Agua Potable y Alcantarillado, aprobado por D.S.Nº 70, del Ministerio de Obras Públicas, de 1981, y sus modificaciones o complementaciones.
-
-2. Llave de agua contra incendio: En toda edificación colectiva deberá instalarse por cada unidad, una llave con hilo exterior conectada al sistema de agua potable, que quede situada a una distancia no mayor de 20 m de cualquier punto de la unidad respectiva, en la cual deberá quedar instalada una manguera que servirá solamente para combatir principios de incendio.
-
-3. Red húmeda: No será exigible el cumplimiento de la obligación descrita en el número 2 anterior, únicamente cuando el edificio disponga de Red Húmeda de las características previstas en el Manual de Normas Técnicas para la Realización de las Instalaciones de Agua Potable y Alcantarillado, aprobado por D.S. Nº70, del Ministerio de Obras Públicas, de 1981, y sus modificaciones o complementaciones.
-
-4. Estanques de reserva: En los edificios de 5 o más pisos, cuya carga de ocupación sea superior a 500 personas, los estanques de almacenamiento de agua tendrán una conexión tipo stortz (similar a la de la red seca) para ser usada sólo en caso de siniestro, para suplir o reemplazar eventuales defectos o insuficiencias en la red pública. Ambas conexiones, la de la red seca y la proveniente de los estanques de agua potable, estarán debidamente señalizadas y se ubicarán contiguas, en el piso de acceso del edificio.
-
-La primera tendrá color rojo y la segunda color azul.
+3.9. En las edificaciones que corresponda, se deberán considerar estanques de agua potable y un sistema de redes para la provisión de agua que se denominará red de incendio (red húmeda y red seca), de conformidad a las exigencias mínimas previstas en el Reglamento de Instalaciones Domiciliarias de Agua Potable y de Alcantarillado (RIDAA) aprobado por D.S. Nº 50 del Ministerio de Obras Públicas, de 2002, y sus modificaciones.
 
 #### Artículo 4
 
@@ -4966,7 +5092,7 @@ La parte cubierta del patio tendrá una superficie máxima exigible de 100 m2, p
 
 Si la sala cuna se ubica en pisos superiores al del terreno natural, la superficie total de patio será, en todo el país, de 20 m2 hasta 20 alumnos, la que se incrementará en 1 m2 por alumno sobre los 20 alumnos, con un máximo exigible de 100 m2. La superficie resultante podrá ubicarse en una terraza u otro recinto. Desde la VII a la XII Región dicha superficie deberá ser cubierta.
 
-Los locales escolares de niveles generales básico y medio con capacidad igual o superior a 135 alumnos, deberán contar con una superficie mínima de 18 m por 30 m destinada a una multicancha pavimentada, la cual podrá ser imputada a la superficie total de patio exigida.
+Los locales escolares de niveles generales básico y medio con capacidad igual o superior a 135 alumnos, deberán contar con una superficie mínima de 18 m por 30 m destinada a una multicancha pavimentada, la cual podrá ser imputada a la superficie total de patio exigida. Excepcionalmente, en los locales existentes en que no sea posible emplazar al interior del establecimiento una multicancha de las dimensiones señaladas, se permitirá su localización en otro predio emplazado en la misma comuna o en una comuna adyacente donde exista o se haya aprobado la construcción de una multicancha. En tal caso el propietario deberá acreditar junto a la solicitud del permiso ante la Dirección de Obras Municipales la compra, el arriendo o el título que le permita la ocupación de dicho terreno o instalación.
 
 Cuando los locales escolares atiendan además al jardín infantil, deberán contar con patio independiente para el uso exclusivo de los alumnos del jardín, cuya superficie será la que señala para dichos patios la tabla inserta en el inciso primero, debiendo cumplir con las demás características exigidas en el presente artículo.
 
@@ -6224,7 +6350,7 @@ ESTABLECIMIENTOS INDUSTRIALES O DE BODEGAJE
 
 #### Artículo 4
 
-14.2. Los establecimientos industriales o de bodegaje serán calificados caso a caso por el Servicio de Salud del Ambiente respectivo, en consideración a los riesgos que su funcionamiento pueda causar a sus trabajadores, vecindario y comunidad; para estos efectos, se calificarán como sigue:
+14.2. Los establecimientos industriales o de bodegaje serán calificados caso a caso por el Secretaría Regional Ministerial de Salud respectiva, en consideración a los riesgos que su funcionamiento pueda causar a sus trabajadores, vecindario y comunidad; para estos efectos, se calificarán como sigue:
 
 1. Peligroso: el que por el alto riesgo potencial permanente y por la índole eminentemente peligrosa, explosiva o nociva de sus procesos, materias primas, productos intermedios o finales o acopio de los mismos, pueden llegar a causar daño de carácter catastrófico para la salud o la propiedad, en un radio que excede los límites del propio predio.
 
@@ -6726,7 +6852,7 @@ En el caso de loteos que por razones técnicas justificadas modifiquen los nivel
 
 1. Para determinar la clasificación de las construcciones a que se refiere el artículo 127 de la citada Ley General, se considerará la estructura predominante y la categoría de la edificación o de sus sectores en caso que contemple diferentes categorías.
 
-2. En el caso de unidades repetidas con destino habitacional a que alude el artículo 131 de dicha Ley General, las primeras dos unidades repetidas no tendrán derecho a descuento. Las siguientes tres tendrán una disminución del pago de derechos del 10%; las siguientes cinco unidades una disminución del 20%; las siguientes diez unidades una disminución del 30%; las siguientes veinte unidades una disminución del 40% y todas las repeticiones siguientes tendrán derecho a una disminución del 50%.
+2. En el caso de unidades repetidas con destino habitacional a que alude el artículo 131º la Ley General de Urbanismo y Construcciones, las primeras dos unidades repetidas no tendrán derecho a descuento. Las siguientes 3 a 5 unidades tendrán una disminución del pago de derechos del 10%; las siguientes 6 a 10 unidades una disminución del 20%; las siguientes 11 a 20 unidades una disminución del 30%; las siguientes 21 a 40 unidades una disminución del 40% y todas las repeticiones siguientes tendrán derecho a una disminución del 50%.
 
 En el caso de edificios, la determinación de los pisos tipos que se repiten, se calculará para cada edificio independientemente.
 
@@ -8702,7 +8828,7 @@ El porcentaje de adosamiento y la altura máxima de adosamiento podrá excederse
 
 El adosamiento deberá inscribirse dentro de un ángulo no superior a 45 grados sexagesimales, aplicado en el deslinde, desde la altura máxima de adosamiento permitida.
 
-La tramitación del permiso y la recepción definitiva de las edificaciones a que se refiere este artículo, se efectuará conforme al procedimiento dispuesto para las obras menores de esta Ordenanza.
+La tramitación del permiso y la recepción definitiva de las edificaciones como también la regularización de la primera vivienda a que se refiere este artículo, se efectuará conforme al procedimiento dispuesto para las obras menores de esta Ordenanza.
 
 ## Capítulo 3
 
