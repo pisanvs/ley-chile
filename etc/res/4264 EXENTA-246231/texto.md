@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.264, de 9 de diciembre de 2005, de esta Subsecretaría, autorízase a COMERCIAL COMTESA S.A., para ampliar actividades pesqueras de transformación, autorizadas por la resolución citada en Visto, en orden a incorporar a su planta ubicada en Lautaro Navarro Nº 1398, Punta Arenas, XII Región, en las líneas de proceso de Fresco-Refrigerado, Congelado, Conserva y Pasteurizado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
