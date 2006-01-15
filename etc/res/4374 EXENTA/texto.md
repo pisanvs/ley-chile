@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.374, de 20 de diciembre de 2005, de esta Subsecretaría, autorízase a SOCIEDAD DE INVERSIONES ALIZE CHILE LIMITADA, para ampliar actividades pesqueras de transformación, autorizada por la resolución citada en Visto, en orden a incorporar a su planta ubicada en ruta Nº 226, Km. 13,7, camino a Las Quemas, Puerto Montt, X Región, en las líneas de procesos de Congelado y Fresco-Enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
