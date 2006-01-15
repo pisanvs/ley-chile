@@ -1,0 +1,5 @@
+Por resolución exenta Nº 4.439, de 27 de diciembre de 2005, de esta Subsecretaría, modifícase el numeral 4º de la Resolución Nº 1.724, modificada por resoluciones Nº 1.724, Nº 2.079, Nº 2.228, Nº 2.515, Nº 3.333 y Nº 3.629, todas de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) dentro de la primera milla, por fuera de las bahías protegidas por el D.S.
+
+Nº408 de 1986, en el litoral de la III Región, Temporada 2005", en el sentido de incorporar al listado de naves autorizadas a operar en el marco de la presente resolución a las embarcaciones artesanales "Guillermo I", "Trinidad" y "Raquel I", y de eliminar del mismo listado a las embarcaciones artesanales "La Raquel" y "Babilonia".
+
+Valparaíso, 27 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
