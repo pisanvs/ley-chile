@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.324 de 30 de noviembre de 2005, se expropió el lote de terreno Nº 2, superficie 1.071 m2, rol Nº 172-15, comuna de Cobquecura, para la obra "Camino Cobquecura - Buchupureo - Trejualemu Sector: Puente Buchupureo, Km. 0,00000 al Km. 0,32454", VIII Región y se acordó el valor de la indemnización con su propietario Ramón Ulises Torres Chamorro, ascendente a la cantidad de $3.190.052.
+
+- Fiscal del Ministerio de Obras Públicas.
