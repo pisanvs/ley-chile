@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.021, de 29 de septiembre de 2005 modificado por decreto MOP Nº 1.215, de 31 de octubre de 2005, se expropiaron los lotes de terrenos Nºs 2-A y 2-B, superficies 390,00 y 2.886,00 m2, respectivamente, rol de avalúo Nº 224-12, comuna de Purranque, para la obra "Reposición, Construcción y Habilitación de Caminos para Vialidad Complementaria, Concesión Internacional Ruta 5 Sur, Tramo Temuco-Río Bueno-Puerto Montt, Camino Acceso Norte a Purranque" X Región y se acordó el valor de la indemnización con su propietario Miguel Luis Montecino Rosas, ascendente a la cantidad de $15.719.776.
+
+- Fiscal del Ministerio de Obras Públicas.
