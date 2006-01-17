@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.393 de fecha 30 de noviembre del 2005, se expropió el lote de terreno Nº 40-A, superficie 846 m2, rol Nº 3.203-122, comuna de Temuco, IX Región para la obra ampliación, reposición, pavimentación Ruta 5 Sur, sector acceso norte a Temuco, Km. 0,50000 al Km. 8,66000", y se acordó el valor de indemnización con su propietario Rubén Pascual Rojas Isla, ascendente a la cantidad de $46.439.744.- para el lote Nº 40-A.
+
+Fiscal del Ministerio de Obras Públicas.
