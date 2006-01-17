@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE LA LIGUA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 21 del 4 de enero de 2006, conforme artículo 5º transitorio Código Aguas, complementó resolución exenta Nº 1.746 de 31 de diciembre de 1986, que aprobó Estudio Técnico de División de Derechos de Aprovechamiento de Aguas del predio "Hijuela Segunda o Trapiche" y del Proyecto de Parcelación "Los Tigres", de la comuna de La Ligua, provincia de Petorca, V Región, en el sentido de aprobar la distribución de los derechos de aprovechamiento de aguas que se extraen de 21 pozos, con la equivalencia que se indica expresada en unidad de volumen por unidad de tiempo, y que dichos derechos son consuntivos, de ejercicio permanente y continuo. Publicación hecha conforme artículo 13º Ley Nº 18.377.-
+
+Director Nacional.
