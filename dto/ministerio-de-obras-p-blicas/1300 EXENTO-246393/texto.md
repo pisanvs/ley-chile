@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1.300 de fecha 30 de noviembre de 2005, se expropiaron los lotes de terreno Nºs 33 y 33-A, superficies 185 y 99 m2 respectivamente, rol Nº 58341, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3-P. Vergara, sector Guaico 3-La Unión, Tramo Kms. 0,00000 a Km. 7,60000", VII Región y se acordó el valor de la indemnización con su propietario Juan Agustín Figueroa Díaz, ascendente a la cantidad de $965.118.
+
+- Fiscal del Ministerio de Obras Públicas.
