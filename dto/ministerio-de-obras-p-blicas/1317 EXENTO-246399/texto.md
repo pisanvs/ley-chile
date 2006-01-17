@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.317 de fecha 30 de noviembre del 2005, se expropió el lote de terreno Nº23-B, superficie 12 m2, Rol Nº 58-50, comuna de Romeral, VII Región para la obra: "Camino Ruta J-55 Guaico 3 - P. Vergara, Sector Guaico 3 - La Unión, Tramo Km. 0,00000 al Km. 7,60000.", y se acordó el valor de indemnización con su propietario Florencio del Carmen Barrios Contreras, ascendente a la cantidad de $239.680.
+
+- Fiscal del Ministerio de Obras Públicas.
