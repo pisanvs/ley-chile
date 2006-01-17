@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.322 de 30 de noviembre de 2005, se expropiaron los lotes de terrenos Nºs. 267, 267-1, 267-2, 267-3 y 269, superficies 27, 84, 95, 93 y 94 m2., respectivamente, rol de avalúo 206-1, comuna de Quillota, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00". Quinta Región, se acordó el valor de la indemnización con su propietario Luis Alberto Olivarez Ramírez, ascendente a la cantidad de $2.411.063.
+
+- Fiscal del Ministerio de Obras Públicas.
