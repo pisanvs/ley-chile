@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.397 de fecha 30 de noviembre del 2005, se expropió el lote de terreno Nº10, superficie 9.223 m2, Rol Nº 165-54, comuna de Colina, Región Metropolitana para la obra "Proyecto Acceso Nor Oriente a Santiago. Sector Poniente Enlace Av. Del Valle - Ruta 5 Norte. Tramo 2: Km.14.760,00 al Km. 18.360,00", y se acordó el valor de indemnización con su propietario Compañía de Renta Santa Elena S.A., ascendente a la cantidad de $74.193.352.
+
+Fiscal del Ministerio de Obras Públicas.
