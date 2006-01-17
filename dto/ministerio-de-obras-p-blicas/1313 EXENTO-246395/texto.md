@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 1313 de fecha 30 de noviembre del 2005, se expropió el lote de terreno Nº 4, superficie 132 m2, Rol Nº 154-237, comuna de Casablanca, V Región para la obra "Camino Mejoramiento Ruta F-864-G y F-870, Sector Santa Inés-Las Rosas-Tapihuita-La Vinilla. Dm. 0.000,00 a Dm. 12.414,17." y se acordó el valor de indemnización con su propietario Carlos Alfredo Contreras Mendoza, ascendente a la cantidad de $1.128.631.
+
+- Fiscal del Ministerio de Obras Públicas.
