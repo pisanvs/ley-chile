@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 502, 14 de diciembre 2005, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en pasaje Las Azucenas Lote 30 B, Cosmito, Rol de Avalúo Nº 1212-24, comuna Penco, superficie aproximada 134,42 metros cuadrados de terreno y 23,32 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-19.799 P, de aparente dominio de Mario Roberto Reinoso Limón, para ejecución proyecto "Adquisición de Terrenos para el ensanche de vías", Programa "Chile Barrio", en la comuna de Penco, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecta, Gabriel Fernández de la M., ingeniero civil, y Santiago Aptecar N., arquitecto, según informe de fecha 26 de octubre 2005, fijó monto provisional indemnización en $10.531.748.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
