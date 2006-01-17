@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.372, de fecha 29 de noviembre del 2005, se sustituyeron los párrafos 2,3 y 6 del decreto MOP Nº 436, de 30 de mayo de 2005, acordándose el monto de la indemnización por la expropiación del lote Nº4, para la obra "Calle de Servicio. Poniente, Sector Enlace Romeral-Punta Torrejón, Sector Punta Torrejón, Km. 0,00000 a Km. 0,60895", Rol de Avalúo 54-111, en la suma de $11.360.667.-, con su propietario Emilio del Carmen Ortiz Cataldo.
+
+Fiscal del Ministerio de Obras Públicas.
