@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.354 de 28 de noviembre de 2005 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 234 para el "Proyecto: Camino Internacional Ruta 60 CH. Sector 2:
+
+Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00" Quinta Región, que figura a nombre de Ilustre Municipalidad de Quillota, sin rol de avalúo, comuna de Quillota, superficie 8.399 m2. La comisión de peritos integrada por los señores Carmen Andrea Alarcón Montecino, Jesús Fernando Díaz Pasmiño y Cristián Larraín Arnolds, fijó con fecha 7 de septiembre de 2005, el valor provisional de la indemnización en la cantidad de $20.738.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
