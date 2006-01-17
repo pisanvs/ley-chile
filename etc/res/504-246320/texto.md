@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 504, 14 de diciembre 2005, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en fundo Cosmito resto PC 4, Rol de Avalúo Nº 1290-23, comuna Penco, superficie aproximada 9.978,67 metros cuadrados de terreno y 16,80 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-20.176 P, de aparente dominio de Sociedad de Servicios Forestales, para ejecución proyecto "Expropiación de Terreno, sector Cosmito, Erradicación Asentamiento Playa Negra Sur", Programa "Chile Barrio", en la comuna de Penco, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecta, Gabriel Fernández de la M., ingeniero civil, y Santiago Aptecar N., arquitecto, según informe de fecha 26 de octubre 2005, fijó monto provisional indemnización en $108.168.414.- pagadera de contado.
+
+Director Serviu Región del Bío Bío.
