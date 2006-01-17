@@ -1,0 +1,3 @@
+Por decreto MOP Nº 30 de noviembre de 2005, se expropió el lote de terreno Nº 10, superficie 1.459,3 m2, rol de avalúo 158-198, comuna de Cochamó, para la obra "Camino Puelo Paso El Bolsón, Sector Llanada Grande - Río Mapocho, Tramo Km. 32,500 al Km. 37,400", X Región y se acordó el valor de la indemnización con su propietario José Bledis Ortega Rosales, ascendente a la cantidad de $720.139.
+
+- Fiscal del Ministerio de Obras Públicas.
