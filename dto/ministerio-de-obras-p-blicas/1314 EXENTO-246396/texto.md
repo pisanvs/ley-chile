@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1.314 de fecha 30 de noviembre de 2005, se expropió el lote de terreno Nº 21-B, superficie 829,0 m2, rol Nº 559-44, comuna de Linares, para la obra "Camino Ruta L-45, Sector Linares-Llepo, Tramo: Km. 2,750.2 a Km. 13,147"; VII Región y se acordó el valor de la indemnización con su propietario María Paola Méndez Castro, ascendente a la cantidad de $1.428.697.
+
+- Fiscal del Ministerio de Obras Públicas.
