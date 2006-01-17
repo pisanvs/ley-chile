@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.293, de fecha 30 de noviembre de 2005, se expropió el lote de terreno Nº 192, superficie 65 m2, rol Nº 300-72, comuna de Quillota, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00", V Región y se acordó el valor de la indemnización con su propietaria Clorinda Emperatriz Muñoz Cofré, ascendente a la cantidad de $873.883.
+
+- Fiscal del Ministerio de Obras Públicas.
