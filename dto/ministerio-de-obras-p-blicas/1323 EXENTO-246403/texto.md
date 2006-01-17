@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.323, de fecha 30 de noviembre del 2005, se expropió el lote de terreno Nº 13, superficie 19 m2, Rol Nº 144-006, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, provincia de Huasco, Región de Atacama, Etapa I", y se acordó el valor de indemnización con su propietario Gregorio Virgilio González Murillo, ascendente a la cantidad de $394.560.
+
+- Fiscal del Ministerio de Obras Públicas.
