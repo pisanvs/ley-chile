@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 505, 14 de diciembre 2005, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en camino vecinal s/n Río Claro, Rol de Avalúo s/n, comuna Yumbel, superficie aproximada 843,96 metros cuadrados de terreno y 60,98 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-20.206 P, de propietario desconocido, para ejecución proyecto "Expropiación de Terreno, Captación APR", Programa "Chile Barrio", en la comuna de Penco, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecta, Gabriel Fernández de la M., ingeniero civil, y Santiago Aptecar N., arquitecto, según informe de fecha 26 de octubre 2005, fijó monto provisional indemnización en $15.368.060.-, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
