@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.392 de fecha 30 de noviembre de 2005, se expropió el lote de terreno Nº 34-A, superficie 154 m2, rol Nº 231-98, comuna de Toltén, IX Región, para la obra "Camino Ruta S-790, sector Nueva Toltén - Límite Regional (Queule), tramo Km. 71,46676 al Km. 80,50700, Sub-Tramo I Km. 71,46676 al Km. 80,55700", y se acordó el valor de indemnización con su propietario Arnolfo Zapata Zapata, ascendente a la cantidad de $12.185.269.- para el lote Nº 34-A.
+
+Fiscal del Ministerio de Obras Públicas.
