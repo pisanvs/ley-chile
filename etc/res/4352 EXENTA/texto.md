@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.352, de 16 de diciembre de 2005, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 4.117, modificada por resolución Nº 4.275, ambas de 2005, de esta Subsecretaría, que autorizó a CONSULTORES PESQUEROS MARACTIVO LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesca extractiva de Anchoveta (Engraulis ringens) y Sardina común (Strangomera bentincki) por la flota artesanal de la X Región Norte", en el sentido de incrementar en 1.000 toneladas de Sardina común la cuota autorizada a extraer en el marco de la presente pesca de investigación.
+
+Valparaíso, 16 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
