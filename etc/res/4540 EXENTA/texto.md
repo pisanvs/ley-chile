@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.540, de 30 de diciembre de 2005, de esta Subsecretaría, autorízase a COMERCIAL, SERVICIOS, INGENIERIA Y EXPORTACIONES M2 LIMITADA, para ampliar actividades pesqueras de transformación en orden a incorporar a la planta ubicada en Panamericana Norte Km. 667-668, Sector Llano de Marañón, Vallenar, III Región, donde podrá elaborar en la línea de proceso de Alga picada, el recurso hidrobiológico Chascón, huiro palo o palo colorado.
+
+Valparaíso, 30 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
