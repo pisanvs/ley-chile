@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.417, de 22 de diciembre de 2005.- de esta Subsecretaría, autorízase a EUGENIO RODRIGO PULGAR CATALDO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Santa Oliva, ex Fundo San Carlos s/nº, Nogales. V Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 22 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
