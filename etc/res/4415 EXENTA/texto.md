@@ -1,0 +1,5 @@
+Por resolución exenta Nº 4.415 de 22 de diciembre de 2005 de esta Subsecretaría, autorízase a SALMONES ANTARTICA S.A., para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto en orden a incorporar a la planta ubicada en Pangal Nº 901, Puerto Aysén, XI Región, en las líneas de proceso de harina y aceite, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Deniégase la solicitud presentada por la peticionaria para procesar en las líneas de proceso harina y aceite los recursos hidrobiológicos Trucha arcoiris o Cabeza de acero; Salmón plateado y Salmón del Atlántico, lo anterior en virtud de lo dispuesto por los DS Nº 316 de 1985, Nº 423 de 2001, Nº 120 de 2003, Nº 169 de 2004, todos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 22 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
