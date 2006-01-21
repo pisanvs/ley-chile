@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.373, de 20 de diciembre de 2005, de esta Subsecretaría, autorízase a ISMAEL MADARIAGA OLIVARES, para iniciar actividades pesqueras de transformación, autorizadas por la resolución citada en Visto, en orden a incorporar a su planta ubicada en Ruta 5 Norte aledaño a deslinde Barrio Industrial, comuna y provincia de Chañaral, III Región, donde podrá elaborar en la línea de proceso de Picado de algas, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
