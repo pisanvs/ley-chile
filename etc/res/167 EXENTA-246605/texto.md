@@ -1,0 +1,3 @@
+Por resolución exenta Nº 167, de 12 de enero de 2006, de esta Subsecretaría, declárase la caducidad total de las resoluciones Nº 230 y Nº 841, ambas de 1991, y Nº 1.084 de 1995, todas de esta Subsecretaría, que autorizaron a SOCIEDAD PESQUERA BUENAVENTURA LTDA., para realizar actividades pesqueras extractivas con la nave "Cahuel II", en las áreas y respecto de los recursos autorizados en dichas resoluciones, todo ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y de lo dispuesto en la presente resolución.
+
+Valparaíso, 12 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
