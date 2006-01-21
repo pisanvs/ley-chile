@@ -1,0 +1,3 @@
+Por resolución exenta Nº 165, de 12 de enero de 2006, de esta Subsecretaría, autorízase a PESQUERA BIO BIO S.A. para continuar desarrollando actividades pesqueras con una nave en construcción autorizada para operar mediante resolución Nº 3.645 de 2005, de la Subsecretaría de Pesca, y con la nave "Oceánica 3", las que fueran autorizadas a Pesquera San Pablo S.A., todo ello en virtud del contenido de la presente resolución.
+
+Valparaíso, 12 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
