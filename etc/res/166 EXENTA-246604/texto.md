@@ -1,0 +1,3 @@
+Por resolución exenta Nº 166 de 12 de enero de 2006, de esta Subsecretaría, declárase la caducidad de la resolución Nº 2.528 de 2000, de esta Subsecretaría, que autorizó a PESQUERA APOSTOL SANTIAGO S.A. y ARMADOR APOSTOL S.A., para realizar actividades pesqueras con la nave "Kofuku Maru Nº 58", en el área marítima comprendida entre las Regiones I a XI sobre el recurso Pez espada, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y el contenido de la presente resolución.
+
+Valparaíso, 12 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
