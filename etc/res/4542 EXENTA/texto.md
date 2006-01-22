@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.542 de 30 de diciembre de 2005 de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 4.311 de 2005, de esta Subsecretaría, que autorizó a JUAN LEONARDO LAGOS LAGOS, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de pesquerías pelágicas alternativas de la flota cerquera artesanal de la V Región", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 30 de junio de 2006, inclusive.
+
+Valparaíso, 30 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
