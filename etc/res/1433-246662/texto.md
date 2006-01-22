@@ -1,0 +1,5 @@
+AUTORIZA INCORPORACION DE ESPECIES EN CONCESION DE ACUICULTURA
+
+Resolución (M) 1.433, de 3 de octubre de 2005, Subsecretaría de Marina, Ministerio de Defensa Nacional, autorizó a José Armando Bórquez Cárdenas, chileno, RUT 6.577.046-6, con domicilio en Ciro Arredondo 790, Puerto Aysén, para incorporar el cultivo del grupo de especies Salmónidos, solicitud Nº 201111594, en el establecimiento concesionado según resolución (M) 877, de 29 de febrero de 2000, rectificada por resolución (M) 1.767, de 3 de noviembre de 2000, y ampliada por resolución (M) 1.162, de 2 de mayo de 2003, Concesión de Acuicultura de Porción de Agua y Fondo de Mar, en Estero Cupquelan, comuna y provincia de Aysén, XI Región de Aysén del General Carlos Ibáñez del Campo, individualizada en los planos 090/00-A y 091/00-A, visados por la Autoridad Marítima de Puerto Chacabuco.
+
+Santiago, 16 de diciembre de 2005.- Por el Subsecretario, José Pelayo Castro, Subjefe Subsecretaría de Marina.
