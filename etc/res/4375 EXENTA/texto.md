@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.375 de 20 de diciembre de 2005 de esta Subsecretaría, autorízase a RAUL ROBERT ALANIS PALACIO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Trapiche, Minera Angelina uno al cinco, Sector La Calera, comuna de Tal Tal, II Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de diciembre de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
