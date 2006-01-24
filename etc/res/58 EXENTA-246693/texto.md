@@ -1,0 +1,3 @@
+Por resolución exenta Nº 58, del 4 de enero de 2006, de esta Subsecretaría, autorízase a MARCELA GARIN VARGAS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Leonor de Corte Nº 5951, Quinta Normal, Santiago, Región Metropolitana, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-Enfriado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 4 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
