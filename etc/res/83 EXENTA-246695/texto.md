@@ -1,0 +1,3 @@
+Por resolución exenta Nº 83, del 10 de enero de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 76 de 2006, de esta Subsecretaría, que autorizó a ACUICOLA DEL NORTE S.A. para efectuar una pesca de investigación y actividades experimentales de conformidad con los términos técnicos de referencia C.I. Subpesca Nº 10.509 y 11.014, ambos de 2005, en el sentido de incorporar a la embarcación artesanal "Kajiki", Matrícula 3540 del Puerto de Valaparaíso, al listado de embarcaciones autorizadas a operar en el marco de la presente pesca de investigación.
+
+Valparaíso, 10 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
