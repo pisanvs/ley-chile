@@ -1,0 +1,3 @@
+Por resolución exenta Nº 183, de 17 de enero de 2006, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.980 de 2003, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA BIO-BIO S.A. para ampliar actividades pesqueras con la nave "Pehuenco", en el área marítima correspondiente a la III Región y al Archipiélago de Juan Fernández, Isla de Pascua, Islas Desventuradas e Islas Sala y Gómez, sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
