@@ -1,0 +1,3 @@
+Por resolución exenta Nº 230, de 19 de enero de 2006, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 31 de 2005, de esta Subsecretaría, en el sentido de prorrogar el plazo otorgado a LAUTARO JAVIER OPAZO TORRES, para iniciar actividades extractivas con la nave "Laureano VI", sobre los recursos y en las áreas que en ella se indica, por el término de 30 días hábiles contados desde la fecha de notificación de la presente resolución.
+
+Valparaíso, 19 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
