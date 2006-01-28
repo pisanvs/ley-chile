@@ -1,0 +1,3 @@
+Por resolución exenta Nº199, de 18 de enero de 2006 de esta Subsecretaría, autorízase a DISTRIBUIDORA MARES DEL SUR LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Van Buren Nº2654, Valparaíso, V Región, donde podrá elaborar en las líneas de proceso de Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
