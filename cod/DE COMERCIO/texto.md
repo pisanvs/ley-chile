@@ -7532,6 +7532,8 @@ Disposiciones Generales
 
 #### Artículo 1°
 
+La presente ley trata de los siguientes concursos: la quiebra; los convenios regulados en el Título XII; y las cesiones de bienes del Título XV.
+
 El juicio de quiebra tiene por objeto realizar en un solo procedimiento los bienes de una persona natural o jurídica, a fin de proveer al pago de sus deudas, en los casos y en la forma determinados por la ley.
 
 #### Artículo 2°
@@ -7550,11 +7552,13 @@ Aun cuando entre los acreedores haya personas que gocen de fuero especial, conoc
 
 #### Artículo 5°
 
-Toda cuestión que se suscite en el juicio de quiebra se tramitará como incidente a menos que la ley señale un procedimiento diverso.
+Toda cuestión que se suscite en el juicio de quiebra o en materia de convenios se tramitará como incidente a menos que la ley señale un procedimiento diverso.
 
 Salvo las excepciones expresamente contempladas en esta ley, las apelaciones se concederán en el solo efecto devolutivo y gozarán de preferencia para su agregación extraordinaria a la tabla y para su fallo.
 
 Los términos de días establecidos en esta ley se entenderán suspendidos durante los feriados, a menos que ella misma o el tribunal, por motivos fundados, disponga lo contrario.
+
+Los expedientes relativos a los concursos de que trata la presente ley, sólo podrán ser retirados por la Superintendencia de Quiebras, el síndico o el experto facilitador. En aquellos casos en que otro tribunal requiera la remisión del expediente original o de algún cuaderno o piezas del proceso, el trámite se cumplirá, sin excepción, remitiendo, a costa del peticionario o de la parte que hubiere interpuesto el recurso o realizado la gestión que origina la petición, las copias o fotocopias respectivas. Éstas deberán ser debidamente certificadas, en cada hoja, por el secretario del tribunal.
 
 #### Artículo 6°
 
@@ -7806,8 +7810,6 @@ En caso de que algún acreedor, el fallido o la Superintendencia objetaren la cu
 
 La aprobación de la cuenta definitiva impide el ejercicio de las facultades fiscalizadoras de la Superintendencia en relación a las partidas contenidas en ella, sin perjuicio de lo establecido en el artículo 1465 del Código Civil.
 
-> **Nota.** El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
-
 #### Artículo 32°
 
 El síndico cesará en su cargo en la quiebra, convenio o cesión de bienes:
@@ -7902,8 +7904,6 @@ Si la quiebra careciere de bienes o si éstos fueren insuficientes para el pago 
 
 Para los efectos de la notificación por cédula a que se refiere el inciso quinto del artículo 42, se aplicará el privilegio de pobreza en las quiebras de que trata este artículo y el receptor estará obligado a efectuar la notificación, sin esperar la resolución del incidente de que trata el Título XIII del Código de Procedimiento Civil, si éste se promoviere.
 
-> **Nota.** El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
-
 6.- De la responsabilidad de los síndicos.
 
 #### Artículo 38°
@@ -7956,15 +7956,15 @@ La audiencia se llevará a efecto con el o los acreedores que asistan, y en ella
 
 Cualquiera de los acreedores podrá solicitar la declaración de quiebra, aun cuando su crédito no sea exigible, en los siguientes casos:
 
-1.- Cuando el deudor que ejerza una actividad comercial, industrial, minera o agrícola, cese en el pago de una obligación mercantil con el solicitante, cuyo título sea ejecutivo;
+1. Cuando el deudor que ejerza una actividad comercial, industrial, minera o agrícola, cese en el pago de una obligación mercantil con el solicitante, cuyo título sea ejecutivo;
 
-2.- Cuando el deudor contra el cual existieren tres o más títulos ejecutivos y vencidos, provenientes de obligaciones diversas, y estuvieren iniciadas, a lo menos, dos ejecuciones, no hubiere presentado en todas éstas, dentro de los cuatro días siguientes a los respectivos requerimientos, bienes bastantes para responder a la prestación que adeude y las costas y
+2. Cuando el deudor contra el cual existieren tres o más títulos ejecutivos y vencidos, provenientes de obligaciones diversas, y estuvieren iniciadas, a lo menos, dos ejecuciones, no hubiere presentado en todas éstas, dentro de los cuatro días siguientes a los respectivos requerimientos, bienes bastantes para responder a la prestación que adeude y las costas, y
 
-3.- Cuando el deudor se fugue del territorio de la República o se oculte dejando cerradas sus oficinas o
+3. Cuando el deudor se fugue del territorio de la República o se oculte dejando cerradas sus oficinas o
 
 establecimientos, sin haber nombrado persona que administre sus bienes con facultades para dar cumplimiento a sus obligaciones y contestar nuevas demandas.
 
-4.- DEROGADO
+> **Nota.** La letra b) del N° 6 del Artículo Único de la Ley 20073, publicada el 29.11.2005, deroga el N° 4 de la presente norma.
 
 #### Artículo 44
 
@@ -8256,9 +8256,9 @@ Este plazo se aumentará a razón de un día por cada cien kilómetros de distan
 
 #### Artículo 80
 
-Las acciones a que se refieren los dos párrafos precedentes prescribirán en el plazo de dos años, contados desde la fecha del acto o contrato.
+Las acciones a que se refieren los los Párrafos 2º y 3º del Título VI prescribirán en el plazo de dos años, contados desde la fecha del acto o contrato, plazo que se suspenderá en favor de los acreedores por el lapso de otros dos años desde la fecha de la resolución que declara la quiebra.
 
-> **Nota.** NOTA 3 El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
+> **Nota.** El N° 10 del Artículo único de la Ley 20073, publicada el 29.11.2005, ordena reemplazar la expresión "dos párrafos precedentes", sin considerar el artículo "los" ubicado antes de la expresión que ordena reemplazar.
 
 #### Artículo 81
 
@@ -8736,12 +8736,6 @@ Los titulares de los créditos laborales que gocen de las preferencias de los n�
 
 En caso de quiebra, hay objeto ilícito en la renuncia de cualquier monto de los créditos a que se refieren los números 5, 6 y 8 del artículo 2472 del Código Civil, sin perjuicio de la transacción convencional o judicial que se celebre con posterioridad a la notificación de la sentencia de primera instancia del juicio laboral o previsional respectivo.
 
-> **Nota.** NOTA 1 El Artículo 2º Transitorio de la LEY 19250, publicada 30.09.1993, dispone que entrará en vigencia a partir del primer día del mes subsiguiente a su publicación.
-
-> **Nota.** NOTA 2 El Artículo 3º Transitorio de la LEY 19250, publicada el 30.09.1993, dispone que las modificaciones introducidas por ésta a la presente norma, no afectarán los juicios que se encontraren pendientes a la fecha de su vigencia, ni a las quiebras decretadas judicialmente y publicadas en el Diario Oficial a esta misma fecha.
-
-> **Nota.** NOTA 3 El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
-
 #### Artículo 149°
 
 Los acreedores de la segunda clase, incluidos los que gocen del derecho de retención judicialmente declarado, podrán ser pagados sin aguardar las resultas de la quiebra, siempre que se asegure lo necesario para pagar los créditos de la primera clase si los demás bienes de la masa no parecieren suficientes para satisfacerlos.
@@ -8876,867 +8870,271 @@ Si no se cumplieren los requisitos señalados en el inciso anterior y no se pudi
 
 ## Título XII
 
-DEL CONVENIO
+DE LOS ACUERDOS EXTRAJUDICIALES Y DE LOS CONVENIOS JUDICIALES
 
-### 1. Del convenio extrajudicial
+### 1. De los Acuerdos Extrajudiciales
 
 #### Artículo 169°
 
-Antes de la declaración de quiebra podrá pactarse entre el deudor y los acreedores un convenio extrajudicial para solucionar sus obligaciones, con tal que se observen las siguientes reglas:
-
-1.- Que el convenio sea aceptado por la unanimidad de los acreedores;
-
-2.- Que el deudor haga una exposición del estado de sus negocios, conforme a su balance, si debiera llevar contabilidad, y conforme al inventario valorado de su activo y pasivo, si no debiere;
-
-3.- Que en el acta de convenio se deje testimonio de haberse dado cumplimiento al requisito exigido en el número anterior, y
-
-4.- Que un ejemplar del convenio y del balance o inventario suscrito por el deudor y sus acreedores sea protocolizado en la notaría del domicilio del deudor.
+Cualquier acuerdo extrajudicial celebrado entre el deudor, antes de su declaración de quiebra, y uno o más de sus acreedores relativo al pago de sus obligaciones o a la administración de sus bienes, sólo obliga a quienes lo suscriban, aun cuando se le denomine convenio.
 
 #### Artículo 170°
 
-En el convenio podrá acordarse que el deudor quede sujeto a intervención, y designarse para desempeñar este cargo a uno de los síndicos que formen parte de la nómina nacional de síndicos, o a otra persona.
-
-La remuneración del interventor se convendrá entre éste y los firmantes del convenio.
+Lo dispuesto en el artículo anterior no será aplicable a los convenios regulados por la Ley General de Bancos y por el decreto con fuerza de ley Nº 251, de 1931, sobre Compañías de Seguros y a otros convenios regulados por la ley.
 
 ### 2. Del Convenio Judicial Preventivo
 
 #### Artículo 171
 
-Cualquiera de los acreedores podrá solicitar que se declare nulo el convenio probando que es falso o incompleto el balance o el inventario que le sirvió de antecedente, que se han supuesto deudas en el pasivo o que se han supuesto u ocultado bienes en el activo.
-
-El juicio correspondiente se tramitará con arreglo al procedimiento sumario.
+El convenio judicial preventivo es aquél que el deudor propone, con anterioridad a la declaración de quiebra y en conformidad a las disposiciones de este Párrafo. Comprende todas sus obligaciones existentes a la fecha de las resoluciones a que se refieren las letras a) y b) del artículo 200, aun cuando no sean de plazo vencido, salvo las que la ley expresamente exceptúe.
 
 #### Artículo 172
 
-El acreedor que hubiere sido omitido en el convenio extrajudicial podrá aceptar el convenio y exigir que se cumpla también a su favor, o ejercitar las demás acciones que le correspondan, como si el convenio no existiere.
+Sin perjuicio de lo dispuesto en el artículo anterior, el acreedor que se encuentre en alguno de los casos previstos en los números 1 y 2 del artículo 43, podrá solicitar al tribunal competente que ordene al deudor, o a la sucesión del deudor formular proposiciones de convenio judicial preventivo dentro del plazo de 30 días contado desde la notificación efectuada en la forma prevista en el inciso final del artículo 45. La no presentación del convenio dentro del plazo indicado, acarreará, necesariamente, la quiebra del deudor y el tribunal la declarará de oficio.
 
-SECCION PRIMERA
+En el caso del inciso anterior el deudor podrá, dentro de cinco días contados desde la notificación de la solicitud, manifestar que se acoge irrevocablemente al artículo 177 ter, y el juez citará a la junta de acreedores a que se refiere dicha disposición.
 
-DE LAS PROPOSICIONES DEL CONVENIO
+El derecho del acreedor no podrá ser ejercido por las personas a que se refiere el inciso tercero del artículo 177 bis. Si se ejerciere respecto de la sucesión del deudor, se aplicará lo dispuesto en el artículo 50.
 
-#### Artículo 173
+Una vez notificada su solicitud, el acreedor no podrá retirarla o desistirse de ella. Tampoco podrá ser objeto de transacción de ninguna clase. El pago hecho al acreedor solicitante después de presentada su petición será nulo de pleno derecho.
 
-El convenio judicial puede ser de dos clases: preventivo o simplemente judicial.
+Contra la resolución que ordene al deudor presentar un convenio, sólo podrá entablarse recurso de reposición; y contra la que resuelva la reposición no procederá recurso alguno. En este caso el plazo a que se refiere el inciso primero será de 20 días, contado desde la resolución que falle la reposición.
 
-El convenio judicial preventivo es el que se propone con anterioridad a la declaración de quiebra.
+Si el tribunal desecha la solicitud del acreedor, éste podrá pedir la quiebra en conformidad a la presente ley; pero si la petición de quiebra se basa en la misma causal invocada y en idéntico fundamento de hecho, deberá solicitarla ante el tribunal que desestimó la solicitud.
 
-El convenio simplemente judicial es el que se propone durante el estado de quiebra.
+#### Artículo 173°
 
-Las proposiciones de uno y otro deberán ser discutidas y aprobadas en junta de acreedores, y las que fueren aceptadas de otro modo, no tendrán valor alguno, salvo lo dispuesto para el convenio extrajudicial.
-
-Todas las disposiciones del presente párrafo son aplicables a ambos convenios, en cuanto no se opongan a su respectiva naturaleza, excepto las del artículo 204°, y aquellas que se refieren exclusivamente al convenio judicial preventivo.
+Derogado.
 
 #### Artículo 174°
 
-El fallido o cualquiera de los acreedores podrá hacer proposiciones de convenio en cualquier estado de la quiebra; pero, para que se pueda entrar a deliberar sobre ellas, es necesario que concurran los siguientes requisitos:
-
-1.- Que esté ya presentada por el síndico la nómina de los créditos reconocidos, y
-
-2.- Que en contra del fallido no se haya dictado auto de apertura del juicio oral o que aquél no
-
-hubiere sido condenado por quiebra fraudulenta o por otro delito que pueda darle ese carácter, o por alguno de los delitos previstos en el artículo 466° del Código Penal.
-
-Presentadas las proposiciones de convenio y la nómina de los créditos reconocidos, la junta de acreedores las conocerá y se pronunciará sobre ellas a más tardar en su próxima reunión.
+Derogado.
 
 #### Artículo 175°
 
-El deudor podrá también hacer
+Derogado.
 
-proposiciones de convenio antes de la declaración de
+#### Artículo 176°
 
-quiebra, siempre que no esté declarado procesado
-
-o condenado
-
-por algunos de los delitos a que se refiere el artículo
-
-466 del Código Penal, a no ser que haya cumplido la
-
-pena.
-
-Las proposiciones del convenio judicial preventivo
-
-se presentarán ante el tribunal que sería competente
-
-para declarar la quiebra del deudor, acompañados con
-
-todos los antecedentes que determina el artículo 42°.
-
-Presentadas las proposiciones de esta clase de
-
-convenio, el tribunal dispondrá:
-
-1. Que el deudor quede sujeto a la intervención de
-
-un síndico de los que formen parte de la nómina
-
-nacional. Al efecto, el juez deberá designar al síndico
-
-titular y al suplente que nomine el acreedor residente
-
-en Chile que aparezca con el mayor crédito en el estado
-
-de deudas presentado por el deudor al tribunal. Para
-
-estos efectos, el secretario del tribunal cuidará que se
-
-notifique a la brevedad al indicado acreedor, quien
-
-deberá formular la nominación por escrito al tribunal
-
-dentro del plazo de cinco días de efectuada la
-
-notificación señalada. Si dentro de dicho plazo el
-
-acreedor no hiciere la nominación respectiva, el
-
-tribunal notificará al acreedor residente en Chile que
-
-tenga el segundo mayor crédito para que efectúe la
-
-nominación en la forma expresada. En caso de que lo
-
-señalado resultare imposible de aplicar, se designará al
-
-síndico mediante el sorteo establecido en el inciso
-
-final del artículo 42.
-
-2.- Que el síndico informe al tribunal sobre las
-
-proposiciones de convenio dentro del plazo de treinta
-
-días;
-
-3.- Que todos los acreedores residentes en el
-
-territorio de la República se presenten, dentro de
-
-treinta días, con los documentos justificativos de sus
-
-créditos, bajo apercibimiento de proseguirse la
-
-tramitación sin volver a citar a ningún ausente;
-
-4.- Que se despachen las correspondientes cartas
-
-aéreas certificadas a los acreedores que se hallen
-
-fuera de la República, ordenándoles que en el término
-
-de emplazamiento, que se expresará en cada carta,
-
-comparezcan con los documentos justificativos de sus
-
-créditos, bajo el apercibimiento indicado en el número
-
-precedente;
-
-5.- Que los acreedores concurran a una junta, que no
-
-podrá tener lugar antes de vencer los cuarenta días
-
-siguientes, para deliberar sobre las proposiciones de
-
-convenio, y
-
-6.- Que se notifique esta resolución al síndico,
-
-titular y suplente, y a los acreedores, en igual forma
-
-que la declaración de quiebra.
-
-7. Que el síndico titular entregue al tribunal
-
-dentro de tercer día de practicada la notificación que
-
-señala el número precedente, una proposición de
-
-honorarios, respecto de los cuales deberá el deudor
-
-pronunciarse mediante escrito presentado al tribunal,
-
-dentro de tres días de formulada la propuesta. Si no
-
-hubiere acuerdo, el tribunal citará a los tres
-
-acreedores a que se refiere el inciso cuarto del
-
-#### Artículo 42
-
-, al deudor y al síndico para lograr un
-
-acuerdo, resolviendo el tribunal en definitiva si no se
-
-produjere dicho acuerdo. El tribunal podrá decretar que
-
-los plazos señalados en los números 2, 3, 4, y 5 de este
-
-artículo sean prorrogados, atendidas las circunstancias
-
-previstas en este número, prórroga que en caso alguno
-
-podrá exceder de 15 días contados desde la notificación
-
-señalada en el número anterior. Si el síndico o alguno
-
-de los acreedores no se pronunciare o no concurriere a
-
-la citación que formulare el tribunal, se le tendrá por
-
-renunciado en su cargo o derecho, según corresponda y el
-
-procedimiento se repetirá con el síndico suplente y el
-
-acreedor que le siga en importancia al tercero convocado.
-
-> **Nota.** NOTA 3 El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
-
-#### Artículo 176
-
-En caso de aprobarse el convenio judicial preventivo se aplicarán las normas siguientes:
-
-1.- El síndico aceptará la designación con arreglo a lo dispuesto en el artículo 26° y asumirá el cargo de interventor;
-
-2.- El interventor tendrá la remuneración que le acuerde la junta de acreedores o el juez en subsidio, la que no podrá ser inferior a 15 unidades de fomento mensuales, y
-
-3.- Dentro del plazo de quince días desde que hubiere cesado su intervención, el síndico presentará una cuenta completa y detallada de su gestión a la junta de acreedores, la cual dispondrá de un plazo de treinta días para pronunciarse sobre ella. En lo demás, se aplicará lo dispuesto en el artículo 31°.
+Derogado.
 
 #### Artículo 177°
 
-La tramitación de las proposiciones
+Derogado.
 
-de cualquier convenio no embaraza el ejercicio de
+#### Artículo 177° bis
 
-ninguna de las acciones que procedan en contra del
+Derogado.
 
-deudor, no suspende los procedimientos de la quiebra o
+#### Artículo 177 ter
 
-juicios pendientes, ni obsta a la realización de los
+El deudor podrá solicitar al tribunal que sea competente para conocer de su quiebra, acompañando a su solicitud todos los antecedentes señalados en el artículo 42, que cite a una junta de acreedores, la que tendrá lugar dentro de 10 días contados desde la notificación por aviso de la resolución recaída en la solicitud, a fin de que ella designe a un experto facilitador. Éste estará sujeto a la fiscalización de la Superintendencia de Quiebras, la que para estos efectos tendrá todas las atribuciones y deberes que le señala el artículo 8°. Este plazo no se suspenderá durante el feriado judicial. Si la solicitud del deudor al tribunal ha sido presentada dentro del plazo del artículo 41, la notificación deberá hacerse dentro del plazo de ocho días contado desde la fecha de la resolución. Si la notificación es oportuna se entenderá que el deudor comprendido en el artículo 41 ha dado cumplimiento a la obligación que establece dicha disposición.
 
-bienes.
+En la resolución a que se refiere el inciso anterior, el juez deberá designar a un interventor que sólo ejercerá las facultades que el inciso séptimo del artículo anterior y los incisos segundo y tercero del artículo 102 otorgan al síndico. El interventor cesará en sus funciones el día de la junta, cuando ésta no designe a un experto facilitador, o bien el día en que éste asuma en su cargo, si la junta lo ha nombrado. La remuneración del interventor será fijada por el juez, será de cargo del deudor y tendrá la preferencia del N° 4 del artículo 2472 del Código Civil.
 
-Sin embargo, si el convenio simplemente judicial se
+El experto facilitador, dentro del plazo de 30 días improrrogable, contado desde la celebración de dicha junta, deberá evaluar la situación legal, contable, económica y financiera del deudor y proponer a sus acreedores un convenio que sea más ventajoso que la quiebra de aquél, o, en caso contrario, solicitar al tribunal que declare la quiebra del deudor, el que la deberá declarar sin más trámite. Si el experto facilitador no diere cumplimiento a su cometido dentro del plazo señalado el juez dictará de oficio la sentencia de quiebra del deudor.
 
-presentare apoyado por a lo menos el 51% del total
+Tendrán derecho a voto en la junta señalada en el inciso primero, los acreedores que aparezcan en el estado a que se refiere el artículo 42 N° 4, certificado, de acuerdo a la información disponible y a la cual hubieren tenido acceso de los registros del deudor, por auditores externos, independientes, e inscritos en el registro que lleva la Superintendencia de Valores y Seguros, con exclusión de los acreedores señalados en el inciso tercero del artículo 177 bis. La designación del experto facilitador se hará con el voto de uno o más de los acreedores, que representen más del 50% del total del pasivo con derecho a voto; en caso contrario, se considerará fracasada la gestión. Los acreedores hipotecarios y privilegiados no perderán sus preferencias por la circunstancia de participar y votar en esta junta, y podrán impetrar las medidas conservativas que procedan. El experto facilitador será notificado en la forma que establece el artículo 55.
 
-pasivo de la quiebra, el síndico sólo podrá enajenar
+Podrá ser experto facilitador toda persona natural capaz de administrar sus propios bienes. Los síndicos de la nómina nacional podrán ser designados como expertos facilitadores, pero en caso de quiebra del deudor no podrán ser nombrados como síndico en esa quiebra.
 
-los bienes expuestos a un próximo deterioro o a una
+El experto facilitador deberá comunicar su designación a la Superintendencia de Quiebras dentro de las 24 horas siguientes, la que procederá a incorporarlo a un registro especial de expertos facilitadores que llevará al efecto.
 
-desvalorización inminente o los que exijan una
+Los honorarios del experto facilitador serán de cargo del deudor, con quien deberá pactarlos. En caso de desacuerdo serán fijados por el juez, y gozarán, al igual que los gastos en que incurra, de la preferencia del N° 4 del artículo 2472 del Código Civil, sólo en la parte que corresponda al 25% del que resulta una vez aplicada la tabla a que se refiere el artículo 34. No podrá solicitarse la quiebra del deudor ni iniciarse en su contra juicios ejecutivos o ejecuciones de cualquier clase, desde la notificación por aviso señalada en el inciso primero:
 
-conservación dispendiosa.
+a) Hasta la celebración de la junta citada para la designación del experto facilitador, en caso de que no se apruebe en ella esta designación;
 
-#### Artículo 177 bis
+b) Hasta la solicitud del experto facilitador al tribunal para que declare la quiebra del deudor;
 
-No obstante lo dispuesto en el
+c) Hasta la celebración de la junta de acreedores a que se refiere el inciso penúltimo de este artículo, si se rechaza en ella la proposición de convenio presentada por el experto facilitador.
 
-inciso primero del artículo anterior, si la proposición
+Durante los períodos indicados, se suspenderán dichos procedimientos judiciales, no correrán los plazos de prescripción extintiva, y el deudor conservará la administración de sus bienes, con las limitaciones establecidas en el inciso séptimo del artículo 177 bis, sujeto a la intervención del experto facilitador, con las mismas facultades que a éste entregan dicho inciso y el N° 1 del inciso primero del artículo 174.
 
-de convenio judicial preventivo, se hubiere presentado
+El experto facilitador tendrá pleno acceso a todos los libros, papeles, documentos y antecedentes del deudor que estime necesarios para el cumplimiento de su cometido.
 
-con el apoyo de la mayoría de los acreedores que
+En todo este procedimiento se aplicará lo dispuesto en el inciso sexto del artículo anterior.
 
-representen a lo menos el 51% del total del pasivo, sin
+En caso de que el experto facilitador formule una proposición de convenio, ésta deberá ser votada en junta de acreedores dentro del plazo de 15 días contado desde la notificación por aviso de la proposición. Se aplicarán a esta proposición los artículos 175, inciso primero, 178, 179 y 180 y las normas contenidas en el Párrafo 4° del Título III de esta ley.
 
-excluir, para los efectos de este cálculo, a ninguna
+Los plazos señalados en el artículo 63 y en los Párrafos 2º y 3º del Título VI se ampliarán en tantos días cuantos transcurrieren desde la fecha de la resolución recaída en las proposiciones de convenio hasta la fecha de la declaración de quiebra.
 
-clase de acreedores, el deudor no podrá ser declarado
+#### Artículo 177° quáter
 
-en quiebra ni podrá procederse a la realización de sus
-
-bienes durante los noventa días siguientes a la
-
-notificación por aviso de la resolución en que el
-
-tribunal cite a los acreedores a junta para deliberar
-
-sobre dicha proposición.
-
-En el caso del inciso predecente, los acreedores
-
-privilegiados e hipotecarios no perderán sus
-
-preferencias, pero no podrán realizar los bienes del
-
-deudor durante el plazo de suspensión antes señalado,
-
-todo lo cual se entiende sin perjuicio de las medidas
-
-conservativas que se puedan impetrar.
-
-En el aviso que se publique se señalará en forma
-
-expresa si se ha reunido la mayoría señalada en el
-
-inciso primero.
-
-Para los efectos del inciso primero, el pasivo se
-
-determinará sobre la base del estado a que se refiere
-
-el artículo 42 N° 4 de esta ley, certificado por
-
-auditores externos independientes, inscritos en el
-
-registro que lleva la Superintendencia de Valores y
-
-Seguros.
-
-Lo dispuesto en el inciso primero, no se aplicará a
-
-la realización de bienes que correspondiere efectuar en
-
-el procedimiento de ejecución forzada de obligaciones
-
-laborales que gocen de privilegio de primera clase,
-
-excepto las que el deudor tuviere, en tal carácter, en
-
-favor del cónyuge y parientes o de los gerentes,
-
-administradores, apoderados u otras personas que hayan
-
-tenido o tengan injerencia en la administración de sus
-
-negocios. Para estos efectos se entenderá por parientes
-
-a los ascendientes y descendientes legítimos y naturales
-
-y a los colaterales por consanguinidad o afinidad
-
-legítima hasta el cuarto grado, inclusive.
-
-Durante el período a que se refiere el inciso
-
-primero, el deudor no podrá gravar ni enajenar sus
-
-bienes, salvo aquellos expuestos a un próximo deterioro,
-
-o a una desvalorización inminente, o los que exijan una
-
-conservación dispendiosa o sean estrictamente
-
-indispensables para el normal desenvolvimiento de su
-
-actividad. En todo caso, el deudor deberá contar con
-
-la autorización previa del interventor para la ejecución
-
-de dichos actos.
-
-Si, en el plazo a que se refiere el inciso primero,
-
-que será fatal e improrrogable, no se acordare el
-
-convenio, se aplicará lo dispuesto en el inciso final
-
-del artículo 207.
+Derogado.
 
 #### Artículo 178°
 
-Las proposiciones de convenio pueden
-
-versar:
-
-1.- Sobre la remisión de parte de las deudas;
-
-2.- Sobre ampliación de plazos;
-
-3.- Sobre lo uno y lo otro a la vez;
-
-4.- Sobre abandono total o parcial de activos;
-
-5.- Sobre la continuación de la actividad del deudor
-
-o la enajenación de sus bienes como unidad económica,
-
-en los términos que se estipulen en el convenio, y
-
-6.- Sobre cualquier otro objeto lícito.
-
-En todo caso, el convenio será uno mismo para todos
-
-los acreedores, salvo que medie acuerdo unánime en
-
-contrario.
-
-SECCION SEGUNDA
-
-DE LA APROBACION DEL CONVENIO
+Derogado.
 
 #### Artículo 179°
 
-Sólo los acreedores cuyos créditos estuvieren reconocidos tendrán derecho a votar en el convenio. Sin embargo, los acreedores cuyos créditos estuvieren impugnados por otros acreedores o por el fallido, podrán ser admitidos a votar por la suma que, para este solo efecto, señale el tribunal, que oirá en la misma audiencia al síndico, al fallido y demás acreedores.
+Derogado.
 
-En el convenio judicial preventivo sólo tendrán derecho a voto los acreedores que aparezcan en una nómina que el síndico presentará, para este efecto, con diez días de anticipación a la fecha fijada para la celebración de la junta.
+#### Artículo 179° bis
 
-Dicha nómina se agregará a los autos y se notificará a los acreedores en la forma dispuesta por el inciso primero del artículo 143°. En casos calificados podrá ser ampliada por el síndico con las mismas formalidades.
-
-En el acta que de lo obrado deberá levantarse, se mencionará a los acreedores que hubieren votado a favor y a los que hubieren votado en contra del convenio, con expresión de los créditos que representaren.
-
-#### Artículo 179 bis
-
-En el convenio podrá estipularse
-
-la constitución de garantías para asegurar el
-
-cumplimiento de las obligaciones del deudor. Estas
-
-garantías podrán constituirse en el mismo convenio o en
-
-instrumentos separados.
-
-Sin perjuicio de lo dispuesto en el artículo 200
-
-N° 7, los acreedores podrán designar a uno o más de
-
-ellos que representen a todos los acreedores afectos al
-
-convenio en la celebración de los actos y en la
-
-suscripción, publicación e inscripción de los
-
-instrumentos que sean necesarios para la debida
-
-constitución de las garantías, así como para el
-
-ejercicio de los derechos y acciones que de ellas
-
-emanen y para ser notificados y citados en los casos
-
-en que así lo dispone la ley respecto de los acreedores
-
-prendarios e hipotecarios.
-
-En las publicaciones e inscripciones de las
-
-garantías a que se refiere este artículo no será
-
-necesario individualizar las obligaciones del convenio,
-
-siendo suficiente a este respecto con hacer referencia
-
-a él, señalando la notaría y fecha en que haya sido
-
-protocolizado conforme lo dispuesto en el inciso
-
-siguiente.
-
-Una copia autorizada del acta de la junta en que se
-
-acuerde el convenio, y de la resolución que lo apruebe
-
-con su certificado de ejecutoria, deberá protocolizarse
-
-en una notaría del lugar en que dicha junta se haya
-
-celebrado y desde entonces valdrá como escritura
-
-pública para todos los efectos legales.
+Derogado.
 
 #### Artículo 180°
 
-El convenio se considerará aceptado
-
-cuando cuente con el consentimiento del fallido y reúna
-
-en su favor los votos de dos tercios o más de los
-
-acreedores concurrentes que representen las tres cuartas
-
-partes del total pasivo con derecho a voto, excluídos
-
-los acreedores privilegiados, hipotecarios, prendarios
-
-y los que gocen del derecho de retención, siempre
-
-que dichos acreedores no hayan tomado parte en
-
-el convenio; el cónyuge, los ascendientes y
-
-descendientes legítimos y naturales y los hermanos
-
-legítimos del fallido; y los socios o accionistas
-
-y los administradores de sociedades del fallido.
-
-Para obtener las mayorías a que se refiere el
-
-inciso precedente, se aplicará el procedimiento
-
-dispuesto en el artículo 112, incisos tercero y cuarto.
+Derogado.
 
 #### Artículo 181°
 
-Los acreedores privilegiados, hipotecarios, prendarios, anticréticos y los que gocen del derecho de retención podrán asistir a la junta y discutir las proposiciones de convenio.
-
-Los acreedores a que se refiere el inciso precedente, podrán también votar si renuncian los privilegios o preferencias de sus respectivos créditos.
-
-El mero hecho de votar importa de derecho esta renuncia.
-
-Si los acreedores de que habla el inciso primero renuncian sus privilegios o garantías hasta una determinada cantidad, podrán votar como acreedores comunes y conservarán su garantía o privilegio por la suma restante.
-
-Si los acreedores a que alude el presente artículo, hicieren uso del derecho que les confieren los incisos segundo y cuarto, sus créditos se incluirán en el pasivo, para los efectos del cómputo a que se refiere el artículo precedente por las sumas a que hubiere alcanzado la renuncia.
+Derogado.
 
 #### Artículo 182°
 
-El cónyuge y los parientes indicados en el artículo 180° podrán votar en la junta sólo para oponerse al convenio y, en tal caso, sus créditos se incluirán en el pasivo para los efectos del cómputo a que dicho artículo se refiere.
+Derogado.
 
 #### Artículo 183°
 
-Los acreedores residentes en el extranjero, incluidos en la nómina del deudor o en la del síndico y que no hayan comparecido aún, se tendrán por opuestos al convenio.
+Derogado.
 
 #### Artículo 184°
 
-La no comparecencia del deudor a la junta en que debe deliberarse sobre las proposiciones de convenio, hará presumir el abandono o el rechazo del convenio, salvo excusa justificada.
+Derogado.
 
 #### Artículo 185°
 
-Acordado el convenio, éste será notificado por medio de aviso a los acreedores que no hubieren concurrido a la junta.
+Derogado.
+
+### 3. Del Convenio simplemente judicial
 
 #### Artículo 186°
 
-El convenio podrá ser impugnado por cualquier acreedor que no haya concurrido a la junta o que haya disentido del voto de la mayoría, si alegare alguna de las causas siguientes:
-
-1.- Incapacidad legal del deudor para proponerlo;
-
-2.- Defectos en las formas establecidas para la convocación y celebración de la junta, o error en el cómputo de las mayorías requeridas por la ley;
-
-3.- Falsedad o exageración del crédito o incapacidad para votar de alguno de los que hayan concurrido con su voto a formar la mayoría, si excluido este acreedor, hubiere de desaparecer tal mayoría;
-
-4.- Inteligencia fraudulenta entre uno o más acreedores y el deudor para votar a favor del convenio o para abstenerse de concurrir, y
-
-5.- Error u omisión sustancial en las listas de bienes o de acreedores.
-
-Podrán también impugnar el convenio los codeudores y fiadores del fallido cuando los respectivos acreedores no hubieren votado a favor de él.
+Derogado.
 
 #### Artículo 187°
 
-Podrá impugnarse el convenio dentro del plazo de ocho días contado, para todos los interesados, desde la notificación a que se refiere el artículo 185°.
-
-Las impugnaciones que se presenten fuera de este plazo serán rechazadas de plano.
+Derogado.
 
 #### Artículo 188°
 
-Las impugnaciones al convenio se tramitarán como un solo incidente entre el deudor y el acreedor o acreedores que las hayan formulado, o el fiador o codeudor en el caso del inciso segundo del artículo 186°.
-
-Si el convenio hubiere sido propuesto por un acreedor, éste será también parte en el incidente de oposición.
-
-La resolución que recaiga en el incidente se notificará a las partes por aviso.
+Derogado.
 
 #### Artículo 189°
 
-Si no se dedujeren impugnaciones al convenio dentro del plazo señalado por el artículo 187°, se entenderá aprobado y el tribunal lo declarará así de oficio o a petición de cualquier interesado. La resolución del tribunal se notificará por aviso.
+Derogado.
+
+### 4. De la aprobación de los Convenios Judiciales
 
 #### Artículo 190°
 
-El convenio entrará a regir desde que quede ejecutoriada la resolución que deseche la impugnación en el caso del artículo 188° o la resolución que lo declare aprobado, en el caso del artículo precedente.
-
-SECCION TERCERA
-
-DE LOS EFECTOS DEL CONVENIO
+Derogado.
 
 #### Artículo 191°
 
-El convenio obliga al deudor y a todos los acreedores, hayan o no concurrido a la junta, excepto los enumerados en el artículo 180°, en cuanto se hubieren abstenido de votar.
+Derogado.
 
 #### Artículo 192°
 
-Aprobado el convenio, cesará el estado de quiebra y se le devolverán al deudor sus bienes y documentos, sin perjuicio de las restricciones establecidas en el convenio mismo.
-
-Sin embargo, si para el procedimiento de calificación fueren necesarios los libros del fallido, quedarán éstos en poder del tribunal encargado de ella.
-
-Se cancelarán también las inscripciones de la declaración de quiebra que se hubieren practicado en la oficina del Conservador de Bienes Raíces.
-
-El síndico presentará su cuenta conforme con el párrafo 4° del Título III de esta ley.
-
-No obstante la aprobación del convenio, el fallido quedará sujeto a todas las inhabilidades que produce la quiebra mientras no obtenga su rehabilitación con arreglo a las prescripciones de esta ley.
+Derogado.
 
 #### Artículo 193°
 
-La remisión hecha al deudor en el convenio aprobado extingue también las obligaciones de sus codeudores o fiadores, sean solidarios o subsidiarios, hasta concurrencia de la cuota remitida, cuando el acreedor respectivo hubiere votado a favor del convenio.
+Derogado.
 
 #### Artículo 194°
 
-Cuando el convenio verse sobre ampliación de plazo, éste empezará a correr para todos desde que quede ejecutoriada la resolución que lo declare aprobado o que ponga término a la impugnación, cualesquiera que sean los vencimientos particulares de los créditos.
+Derogado.
 
 #### Artículo 195°
 
-Los acreedores de una sociedad colectiva o en comandita que se encuentre en quiebra podrán celebrar convenio con uno o más de los socios solidarios, si se unen con los acreedores directos de éstos.
-
-Este convenio desliga de la solidaridad al socio que lo obtiene y extingue la deuda social respecto de los demás socios hasta concurrencia de la cuota que dicho socio debiera pagar.
-
-El activo social quedará sujeto al régimen de la liquidación de la quiebra, y los bienes privativos del socio con quien se hubiere celebrado el convenio serán aplicados al cumplimiento de éste.
+Derogado.
 
 #### Artículo 196°
 
-La aprobación del convenio no impide que continúe el procedimiento de calificación de la quiebra.
+Derogado.
 
 #### Artículo 197°
 
-Aprobado el convenio, se devolverán al tribunal de su origen, para que continúe conociendo de ellos, los procesos ordinarios o ejecutivos agregados al juicio de quiebra y que no hubieren terminado con el convenio, siempre que lo exija, antes de cualquiera otra gestión, alguna de las personas que fueren partes en dichos procesos.
-
-En caso contrario, continuará conociendo de ellos el tribunal que hubiere entendido en la quiebra.
+Derogado.
 
 #### Artículo 198°
 
-Los acreedores que no hubieren comparecido a verificar oportunamente sus créditos, sólo podrán exigir que se cumpla el convenio a su favor, mientras no hubieren prescrito las acciones que del convenio resulten. Estos acreedores deberán verificar sus créditos en la forma dispuesta por el artículo 133 y ante el tribunal que conoció de la quiebra.
-
-Cada solicitud de verificación se tramitará en este caso sólo con el deudor y los acreedores y se notificará en la forma que prescribe el Código de Procedimiento Civil para la primera notificación judicial.
-
-SECCION CUARTA
-
-DEL INTERVENTOR
+Derogado.
 
 #### Artículo 199°
 
-El deudor quedará sujeto a intervención hasta que haya cumplido el convenio, salvo que en éste se estipule lo contrario.
+Derogado.
 
-Actuará como interventor el síndico titular en el convenio simplemente judicial y el síndico designado por el tribunal en el convenio judicial preventivo.
+### 5. De los efectos del convenio
 
 #### Artículo 200°
 
-Las funciones del interventor serán
-
-las siguientes, a menos que se acuerde otra cosa:
-
-1.- Imponerse de los libros, papeles y operaciones
-
-del deudor;
-
-2.- Llevar cuenta de las entradas y gastos de los
-
-negocios del deudor;
-
-3.- Visar, en su caso, los pagos prometidos a los
-
-acreedores;
-
-4.- Cuidar de que el deudor no retire para sus
-
-gastos personales y los de su familia otras sumas que
-
-las proporcionadas al rango social del deudor o las
-
-autorizadas en el convenio;
-
-5.- Rendir trimestralmente la cuenta de su
-
-actuación y la de los negocios del deudor, y presentar
-
-las observaciones que le merezca la administración de
-
-este último. Esta cuenta será enviada por correo a
-
-cada uno de los acreedores;
-
-6.- Pedir al tribunal que deba conocer o que haya
-
-conocido de la quiebra que cite a junta de acreedores,
-
-siempre que lo crea conveniente o cuando se lo pida
-
-alguno de ellos para tratar asuntos de interés común,
-
-y
-
-7.- Representar judicial y extrajudicialmente a los
-
-acreedores para llevar a efecto los acuerdos que tomen
-
-en forma legal.
+Derogado.
 
 #### Artículo 201°
 
-La junta de acreedores a que se refiere el número 6 del artículo anterior será convocada en conformidad a las disposiciones generales de esta ley y los acuerdos deberán ser adoptados por la mayoría absoluta del pasivo del convenio.
+Derogado.
 
 #### Artículo 202°
 
-El interventor podrá siempre impetrar las medidas precautorias que sean necesarias para resguardar los intereses de los acreedores, sin perjuicio de los acuerdos que éstos puedan adoptar.
+Derogado.
 
 #### Artículo 203°
 
-Si el deudor hubiere agravado el mal estado de sus negocios en forma que haga temer un perjuicio para los acreedores, podrá ser sometido a una intervención más estricta que la pactada o resolverse el convenio, a solicitud de acreedores que representen la mayoría absoluta del pasivo del convenio.
+Derogado.
 
 #### Artículo 204°
 
-Conocerá de las acciones que se ejerciten en conformidad a los artículos precedentes el tribunal ante el cual se tramitó el convenio.
+Derogado.
 
 #### Artículo 205°
 
-La solicitud a que se refiere el artículo 202° y la que se dirija a obtener una intervención más estricta se tramitarán como incidente.
-
-SECCION QUINTA
-
-DEL RECHAZO DEL CONVENIO
+Derogado.
 
 #### Artículo 206°
 
-Rechazadas las proposiciones de
-
-convenio por no haber obtenido la mayoría necesaria
-
-para su aprobación, podrá el deudor reiterarlas, por
-
-una sola vez, si las presentare apoyadas por la mayoría
-
-absoluta de los acreedores hábiles para votar sobre
-
-ellas.
-
-La junta que rechace las proposiciones deberá
-
-señalar los nombres de un síndico titular y uno
-
-suplente, a quienes el tribunal deberá designar con el
-
-carácter de definitivos. No podrán ser nombrados para
-
-tales cargos quienes lo hayan sido en conformidad al
-
-número 1 del artículo 175.
-
-> **Nota.** NOTA 3 El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
+Derogado.
 
 #### Artículo 207°
 
-Desechado el convenio por alguna de
-
-las causales señaladas en los números 2 ó 5 del
-
-#### Artículo 186°
-
-, o por incapacidad para votar en él de
-
-alguno de los acreedores que hubieren concurrido a
-
-celebrarlo, podrá proponerse de nuevo, una vez
-
-subsanada la falta.
-
-Desechado por cualquiera de las otras causas
-
-indicadas en el mismo artículo, no podrá proponerse de
-
-nuevo.
-
-Rechazado el convenio judicial preventivo en
-
-conformidad al artículo precedente o desechado en
-
-cualquiera de los casos contemplados en los incisos
-
-anteriores, el tribunal deberá declarar de oficio la
-
-quiebra del deudor.
-
-En los casos señalados en los incisos primero y
-
-segundo de este artículo, el tribunal deberá proceder a
-
-designar los síndicos en conformidad a lo previsto en el
-
-#### Artículo 42
-
-, sin que pueda nombrar en dichos cargos a
-
-quienes hayan sido designados según lo previsto en el
-
-número 1 del artículo 175.
-
-> **Nota.** NOTA 3 El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
-
-SECCION SEXTA
-
-DE LA NULIDAD Y RESOLUCION DEL CONVENIO
+Derogado.
 
 #### Artículo 208°
 
-No se admitirán otras acciones de nulidad del convenio que las fundadas en la condenación superviniente del fallido por quiebra fraudulenta, o por alguno de los delitos a que se refiere el artículo 466° del Código Penal, perpetrado con anterioridad al convenio, o en la ocultación o exageración del activo o del pasivo descubiertas después de la resolución aprobatoria.
+Derogado.
 
-La anulación del convenio inhabilita al fallido para celebrar otro nuevo, y extingue de derecho las fianzas que lo garantizan.
+### 6. Del rechazo del convenio
 
 #### Artículo 209°
 
-El convenio podrá resolverse, por inobservancia de sus estipulaciones, a sulicitud de cualquiera de los acreedores. Podrá también resolverse en el caso a que se refiere el artículo 203°.
+Derogado.
+
+### 7. De la nulidad e incumplimiento del convenio
 
 #### Artículo 210°
 
-La resolución del convenio no exonera a los fiadores que han asegurado su ejecución total o parcial.
-
-Los fiadores serán oídos en el juicio de resolución y podrán impedir la continuación de éste, pagando los dividendos prometidos dentro de tres días, contados desde la citación.
-
-Las cantidades pagadas por el fallido antes de la resolución y las que produzca la realización del activo de la quiebra, servirán de abono a los fiadores en caso de que la fianza se extienda a toda la suma estipulada; pero, si comprende únicamente una parte de ella, sólo les servirá de descargo lo que reste después de cubierta la cuota no afianzada.
+Derogado.
 
 #### Artículo 211°
 
-La demanda de nulidad por quiebra fraudulenta o por condena del deudor, en conformidad al artículo 466° del Código Penal, se resolverá con la simple exhibición de la respectiva sentencia y citación del fallido o de su representante.
-
-La demanda de resolución se sujetará al procedimiento del juicio sumario.
-
-Conocerá de las acciones a que se refiere este artículo el tribunal que tramitó el convenio.
+Derogado.
 
 #### Artículo 212°
 
-Las acciones de nulidad del convenio prescribirán en seis meses cuando se funden en la condenación del fallido por quiebra fraudulenta o por alguno de los delitos a que se refiere el artículo 466° del Código Penal; y en dos años, si se basan en alguna de las causales señaladas en el artículo 171°.
-
-En los dos primeros casos, la prescripción principiará a correr desde que quede ejecutoriada la sentencia condenatoria y en el tercero, desde que quede aprobado el convenio.
+Derogado.
 
 #### Artículo 213°
 
-Las acciones de resolución del convenio prescribirán en seis meses, contados desde que hayan podido entablarse.
+Derogado.
 
 #### Artículo 214°
 
-En la misma sentencia en que se
-
-pronuncie la nulidad o resolución del convenio se
-
-declarará la quiebra o se la declarará reabierta,
-
-según corresponda, y se seguirán los procedimiento de
-
-ésta, en conformidad a las reglas generales.
-
-En la demanda de nulidad o resolución del
-
-convenio, el demandante señalará el nombre del síndico
-
-titular y el del síndico suplente, y sólo a éstos el
-
-tribunal deberá designar en la sentencia que dé lugar a
-
-la demanda y declare la quiebra. Estas designaciones no
-
-podrán recaer en quienes hubieren ejercido el cargo a
-
-que se refiere el número 1 del artículo 175.
-
-Si se interpusiere más de una demanda de nulidad o
-
-resolución del convenio, el juez designará al síndico
-
-señalado en una de las demandas que se acojan.
-
-> **Nota.** NOTA 3 El artículo Transitorio de la Ley 20.004, publicada el 08.03.2005, dispone que comenzará a regir después de sesenta días de su publicación.
+Derogado.
 
 #### Artículo 215°
 
-Los actos y contratos del deudor, ejecutados o celebrados en el tiempo que medie entre la aprobación y la anulación o resolución del convenio, sólo podrán rescindirse en los casos que contempla el artículo 2.468 del Código Civil.
+Derogado.
 
 #### Artículo 216°
 
-En casos de segunda quiebra, los actos o contratos a que se refiere el artículo anterior, podrán ser anulados o rescindidos según las reglas de los párrafos 2°, 3° y 4° del Título VI de esta ley.
+Derogado.
 
 #### Artículo 217°
 
-La reapertura del estado de quiebra reintegra a los acreedores anteriores en todos sus derechos respecto del fallido.
-
-Los acreedores antiguos concurrirán con los nuevos en las distribuciones del activo de la quiebra por el monto íntegro de sus créditos, siempre que no hubieren recibido parte alguna de la estipulada en el convenio; en el caso contrario, sólo podrán concurrir con los nuevos acreedores por la parte del capital de sus primitivos créditos que corresponda a la porción no pagada de la suma convenida.
-
-Las disposiciones del presente artículo serán aplicables, tanto en caso de nulidad o resolución del convenio judicial preventivo, como en el caso que se declare en quiebra al deudor antes de haber sido anulado o resuelto cualquiera clase de convenio judicial.
+Derogado.
 
 ## Título XIII
 
