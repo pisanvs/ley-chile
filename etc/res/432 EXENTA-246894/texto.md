@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 432 EXENTA, DE 2005
+
+Por resolución exenta Nº 432, de fecha 7 de noviembre de 2005, se resolvió revocar el reconocimiento oficial otorgado a la Escuela de Conductores Profesionales "Servicios de Capacitación Limitada", mediante las resoluciones exentas Nº 85/2003 y Nº 109/2004, cuyos planes y programas fueron aprobados a través de las resoluciones exentas Nº 57/2003 y 4/2004 para impartir cursos conducentes a obtener las licencias profesionales clases A2, A3, A4 y A5, en el establecimiento ubicado en Avda. Bernardo O'Higgins Nº 253, segundo piso, comuna de Angol, ordenándose publicar en extracto la citada resolución mediante resolución exenta Nº 6, de fecha 3 de enero de 2006.-
+
+Vivianne Fernández Mora, Secretaria Regional Ministerial de Transportes y Telecomunicaciones IX Región de la Araucanía.
