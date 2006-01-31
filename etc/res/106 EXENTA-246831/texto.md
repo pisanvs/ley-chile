@@ -1,0 +1,3 @@
+Por resolución exenta Nº 106 de 12 de enero de 2006, de esta Subsecretaría, autorízase a JOSE PIO SEGUNDO LEMUS LOPEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Isla Santa María, Sur Caleta Constitución, Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
