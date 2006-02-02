@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.386 de fecha 30 de diciembre del 2005, se expropió el lote de terreno Nº 35, superficie 4.496,0 m², rol Nº 231-3, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo I Km. 71,46676 al Km. 80,55700" y se acordó el valor de indemnización con su propietario Jorge Antonio Jaramillo Gallegos o Jorge Jeramillo Gallegos, ascendente a la cantidad de $2.523.559.- para el lote Nº 35.
+
+Fiscal del Ministerio de Obras Públicas.
