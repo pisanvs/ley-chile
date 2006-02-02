@@ -1,0 +1,5 @@
+APRUEBA INVENTARIO DE EXTRACCIONES AUTORIZADAS DE AGUAS SUBTERRANEAS
+
+Por resolución DGA Nº 2.045 (exenta), de fecha 29 de diciembre de 2005, se aprobó el inventario de extracciones autorizadas de aguas subteráneas de la Cuarta Región de Coquimbo. Los titulares de derechos de aprovechamiento podrán concurrir a verificar la información contenida en dicho inventario a la Dirección Regional de Aguas de Coquimbo, ubicada en la ciudad de La Serena, calle Matta Nº 461, piso 4, oficina 408, en la Dirección Provincial de Ovalle, ubicada en la calle Vicuña Mackenna Nº 328; en la Oficina Provincial de Illapel, ubicada en la calle Esmeralda Nº 246, o en la Oficina del Centro de Información de Recursos Hídricos, ubicada en calle Morandé 59, piso 8, Santiago.
+
+También podrá ser consultada en la página web de la Dirección General de Aguas www.dga.cl.
