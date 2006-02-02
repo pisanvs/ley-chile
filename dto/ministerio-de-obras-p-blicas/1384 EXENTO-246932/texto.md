@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.384 de fecha 30 de diciembre de 2005, se expropió el lote de terreno Nº4-I, superficie 862,50 m², Rol Nº374-14, comuna de San Clemente, VII Región para la obra "Camino Mejoramiento Ruta K-705, sector: Cruce Ruta 115-CH (El Guindo) - Vilches Alto, Tramo Km. 0,0000 a Km. 13,06400 (Ruta K-705) y Km. 35,46000 a Km. 35,80000 (Ruta 115-CH)" se acordó el valor de indemnización con su propietario Guido Wenceslao González Moya, ascendente a la cantidad de $816.668.- para el lote Nº4-I.
+
+Fiscal del Ministerio de Obras Públicas.
