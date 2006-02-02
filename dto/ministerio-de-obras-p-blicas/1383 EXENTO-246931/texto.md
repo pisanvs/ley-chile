@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.383 de fecha 30 de diciembre del 2005, se expropió el lote de terreno Nº 21-3, superficie 42 m², rol Nº 9034-8, comuna de San Antonio, V Región para la obra "Acceso al Puerto de San Antonio Ruta 78. Sector Agua Buena Puerto San Antonio Km. 1.200,0" a Km. 8.211,16, y se acordó el valor de indemnización con su propietario Félix Segundo Vera López, ascendente a la cantidad de $1.418.311.
+
+- Fiscal del Ministerio de Obras Públicas.
