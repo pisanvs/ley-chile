@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.512 de fecha 30 de diciembre de 2005, se expropió el lote de terreno Nº 92, superficie 155 m², rol Nº 1400-3, comuna de Antofagasta, para la obra "Mejoramiento Av. Salvador Allende Tramo Avda. Sarmiento - Avda. Costera, Comuna de Antofagasta, Provincia de Antofagasta, II Región, Sector Calle Cardenal Oviedo Cavada - Calle Chuquicamata", II Región y se acordó el valor de la indemnización con su propietario Sociedad Rectificadora de Motores Universal Limitada, ascendente a la cantidad de $94.248.495.
+
+- Fiscal del Ministerio de Obras Públicas.
