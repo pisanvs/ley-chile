@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.518 de fecha 30 de diciembre del 2005, se expropiaron los lotes de terreno Nºs. 122-B y 135-A, superficies 292 y 6.617 m², Rol Nº 78-119, comuna de Galvarino, IX Región para la obra "Camino Ruta S-10, sector Cruce Long. (Lautaro) - Galvarino, Tramo Km. 0,000 al Km. 34,50853, correspondiente al Sub-Tramo IV, Km. 18,000 al Km. 25,837" y se acordó el valor de indemnización con su propietario Florencio Ernesto Cisterna Acuña y Otros, ascendente a la cantidad de $6.983.929.- para los lotes Nºs. 122-B y 135-A.
+
+- Fiscal del Ministerio de Obras Públicas.
