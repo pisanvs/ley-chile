@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.393 de fecha 30 de diciembre de 2005, se expropió el lote de terreno Nº 70, superficie 1.180,00 m², rol Nº 62-124, comuna de Lampa, para la obra "Camino Ruta G-16, sector Lampa - Polpaico, tramo Km. 19,72359 a Km. 34,51667" Región Metropolitana y se acordó el valor de la indemnización con su propietario Sociedad Navarro e Iturrieta y Compañía Limitada, ascendente a la cantidad de $3.122.380.
+
+- Fiscal del Ministerio de Obras Públicas.
