@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.387 de 30 de diciembre 2005, se expropiaron los lotes de terreno Nºs. 44 y 44-A, superficies 78,25 y 258,51 m², respectivamente, Rol Nº 557-128, comuna de Linares, VII Región para la obra "Camino Conservación Ruta L-45, Sector: Escuela - Puente Los Hualles, Tramo: Km. 13,14700 a Km. 36,446" y se acordó el valor de indemnización con su propietario Ulises Floreal Badilla González, ascendente a la cantidad de $870.157.
+
+- Fiscal del Ministerio de Obras Públicas.
