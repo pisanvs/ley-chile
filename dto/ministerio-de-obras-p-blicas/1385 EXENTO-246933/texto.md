@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.385 de fecha 30 de diciembre del 2005, se expropiaron los lotes de terreno Nºs. 1, 2 y 3 superficies 1.086, 659 y 86 m², respectivamente, Rol Nº 213-6, comuna de Florida, VIII Región para la obra "Camino Ruta 148 Puente 7 - Roa, sector Puente Bodega, Km. 6,27000 a Km. 6,57000", y se acordó el valor de indemnización con su propietario Miguel Macaya Retamal, ascendente a las cantidades de $1.492.207.- para los lotes Nºs. 1, 2, 3.
+
+Fiscal del Ministerio de Obras Públicas.
