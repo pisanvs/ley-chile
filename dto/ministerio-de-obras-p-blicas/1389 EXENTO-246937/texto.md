@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 1.389 de fecha 30 de diciembre de 2005, se expropió el lote de terreno Nº 11-A, superficie 145 m², rol de avalúo 104-14, comuna de Corral, para la obra "Camino Longitudinal Costero Sur, Sector El Morro-Chaihuin I, Km. 10,000 a Km. 15,747", X Región y se acordó el valor de la indemnización con su propietaria Rosalía Monsalve Leyton, ascendente a la cantidad de $401.436.
+
+- Fiscal del Ministerio de Obras Públicas.
