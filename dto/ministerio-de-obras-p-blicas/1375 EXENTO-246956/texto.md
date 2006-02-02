@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.375 de fecha 30 de diciembre de 2005, se expropiaron los lotes de terreno Nºs. 213 y 214, superficies 1.150 y 2.107 m², respectivamente, Rol Nº 237-42, comuna de Toltén, para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 87,50000 al Km. 103,33500, Sub-Tramo V, Km. 98,29000 al Km. 103,33500", IX Región y se acordó el valor de la indemnización con su propietaria Rosa Teolinda Coña Huilcán y Otro, ascendente a la cantidad de $1.947.407.
+
+Fiscal del Ministerio de Obras Públicas.
