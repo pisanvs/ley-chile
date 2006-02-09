@@ -1,0 +1,5 @@
+Por resolución exenta Nº 296, de 27 de enero de 2006, de esta Subsecretaría, deniégase la solicitud presentada por PESQUERA MARLIMAR LIMITADA, de ampliación de plazo para iniciar actividades pesqueras extractivas con la nave Tiberíades, autorizada para operar mediante resolución Nº 1.956, de 2003, de la Subsecretaría de Pesca, en atención a que los hechos invocados por el solicitante no configuran una causal de fuerza mayor.
+
+Asimismo, declárase la caducidad parcial de la resolución Nº 1.956, de 2003, de esta Subsecretaría, sólo en cuanto autorizó a Sociedad Pesquera Marlimar Limitada para realizar actividades pesqueras extractivas con la nave Tiberíades sobre el recurso Alfonsino en el área marítima correspondiente al Archipiélago de Juan Fernández, Isla de Pascua, Islas Sala y Gómez y Archipiélago de las Islas Desventuradas, y respecto del recurso Besugo en el área marítima comprendida entre el límite norte de la IV y el límite sur de la VIII Regiones, todo ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
