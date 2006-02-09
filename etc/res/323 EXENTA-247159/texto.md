@@ -1,0 +1,3 @@
+Por resolución exenta Nº 323 de 30 de enero de 2006 de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 203103090 presentada por SALMONES MAINSTREAM S.A., para el centro de cultivo otorgado en concesión de acuicultura mediante resolución Nº 1.123 de 1997, transferido por resolución Nº 1.471 de 2000, ambas de la Subsecretaría de Marina, ubicado al oeste de Isla Imelev, X Región.
+
+Valparaíso, 30 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
