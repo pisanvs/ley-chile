@@ -1,0 +1,3 @@
+Por resolución exenta Nº 289 de 27 de enero de 2006 de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 84 de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de jurel, I y II Región Año 2006", en el sentido de incorporar a la nave "Don Matías", RPA Nº 25587, al listado de embarcaciones artesanales autorizadas a participar en la presente pesca de investigación,
+
+Valparaíso, 27 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
