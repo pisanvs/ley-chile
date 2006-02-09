@@ -1,0 +1,3 @@
+Por resolución exenta Nº 292, de 27 de enero de 2006, de esta Subsecretaría, declárase la caducidad de la resolución Nº 2.026, de 2003, de esta Subsecretaría, que autorizó a PESQUERA EL GOLFO S.A. para ampliar actividades pesqueras con la nave "Cristóbal Colón", en el área marítima comprendida entre la VII y la IX Regiones, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo dispuesto en la presente resolución.
+
+Valparaíso, 27 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
