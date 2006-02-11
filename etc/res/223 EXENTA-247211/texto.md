@@ -1,0 +1,3 @@
+Por resolución exenta Nº223 de 19 de enero de 2006 de esta Subsecretaría, autorízase a COMERCIAL, SERVICIOS, INGENIERIA Y EXPORTACIONES M2 LIMITADA para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Parcelación El Trébol, Sitio Nº4, Cerrillos, Ovalle, IV Región, donde podrá elaborar en la línea de proceso de Alga picada, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 19 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
