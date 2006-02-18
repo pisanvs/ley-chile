@@ -1,0 +1,3 @@
+Por resolución exenta Nº 359, de 31 de enero de 2006, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo, correspondiente al sector denominado Ñague Sector B, IV Región, individualizada en el artículo 1º del decreto exento Nº 154 de 2005, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la COOPERATIVA DE PESCADORES ARTESANALES DE LOS VILOS LIMITADA.
+
+Valparaíso, 31 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
