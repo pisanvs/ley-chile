@@ -1,0 +1,3 @@
+Por resolución exenta Nº 341, de 31 de enero de 2006, de esta Subsecretaría, autorízase a SALMONES ANTARTICA S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino Chonchi-Queilen, Km 3,7 ruta W 853, sector Huicha-Chonchi, X Región, donde podrá elaborar en las líneas de proceso de Fresco enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 31 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
