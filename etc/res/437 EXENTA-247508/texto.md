@@ -1,0 +1,3 @@
+Por resolución exenta Nº 437, de 8 de febrero de 2006, de esta Subsecretaría, autorízase a SALMONOIL S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en sector La Campana s/n, Calbuco, X Región, donde podrá elaborar en las líneas de proceso de harina y aceite los desechos provenientes de los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 8 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
