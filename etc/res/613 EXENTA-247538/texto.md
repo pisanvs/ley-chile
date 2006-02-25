@@ -1,0 +1,3 @@
+Por resolución exenta Nº 613 de 17 de febrero de 2006 de esta Subsecretaría, autorízase a SOUTH SEAWEEDS S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Hijuela 26, sector Tambillos, Coquimbo, IV Región, donde podrá elaborar en la línea de proceso de Alga seca, el recurso hidrobiológico Huiro negro.
+
+Valparaíso, 17 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
