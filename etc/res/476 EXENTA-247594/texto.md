@@ -1,0 +1,5 @@
+Por resolución exenta Nº 476, de 13 de febrero de 2006, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 37 de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en los siguientes términos:
+
+a) En el sentido de incorporar a la nave industrial "Mar Caribe", del armador Arica Seafood Producer S.A., y a la embarcación artesanal "Shalom II", al listado de naves autorizadas a operar en el marco de la presente pesca de investigación; y b) En el sentido de reemplazar a la embarcación "Gringo Pablo" por la nave "Gringo Pablo II" en el listado de embarcaciones artesanales autorizadas a operar en el marco de la presente pesca de investigación.
+
+Valparaíso, 13 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
