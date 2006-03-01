@@ -1,0 +1,3 @@
+Por resolución exenta Nº329, de 30 de enero de 2006, de esta Subsecretaría, autorízase a HUGO VALERIO CORTES PASTEN, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en La Playa Nº165, Los Vilos, IV Región, donde podrá elaborar en las líneas de proceso de cocido, fresco enfriado, seco salado, alga seca y picado de algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
