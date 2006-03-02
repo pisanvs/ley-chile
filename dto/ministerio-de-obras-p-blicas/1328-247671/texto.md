@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.328, de 28 de noviembre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº 4.570, de 29 de septiembre de 2000, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 59, fijada por la Comisión de Peritos, con fecha 1 de agosto de 1997, ascendente a la cantidad de $333.500, para el lote Nº 45.
+
+- Fiscal del Ministerio de Obras Públicas.
