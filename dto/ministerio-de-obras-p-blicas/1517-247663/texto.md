@@ -1,0 +1,3 @@
+Por decreto MOP N° 1.517 de fecha 30 de diciembre de 2005, se expropió el lote de terreno N° 27ERL2, superficie 90 m2, rol N° 5935-16, comuna de Recoleta, para la obra "Extensión Línea 2 Norte Recoleta - Vespucio, Sector Santos Dumont - Av. Américo Vespucio, Comuna de Recoleta, Provincia de Santiago, Región Metropolitana" y se acordó el valor de la indemnización con su propietario Raúl Alberto Hernán Vilches Abarca, ascendente a la cantidad de $16.637.400.
+
+- Fiscal del Ministerio de Obras Públicas.
