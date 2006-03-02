@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.407, de 30 de noviembre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº 565, de 28 de febrero de 2000, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemización del lote Nº 9. Consígnese judicialmente el monto provisional de la indemnización de lote Nº 9, fijada por la Comisión de Peritos, con fecha 23 de marzo de 1998, en la cantidad de $108.800.
+
+- Fiscal del Ministerio de Obras Públicas.
