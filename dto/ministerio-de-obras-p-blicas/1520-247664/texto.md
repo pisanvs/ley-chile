@@ -1,0 +1,3 @@
+Por decreto MOP N° 1.520 de fecha 30 de diciembre de 2005, se expropió el lote de terreno N° 1, superficie 2.061 m2, rol N° 201-54, comuna de Cabrero, para la obra "Concesión Internacional Ruta 5 Tramo Chillán - Collipulli. Sector: Km. 455.700,00 a Km. 459.800,00", VIII Región y se acordó el valor de la indemnización con su propietario Nubia del Carmen Palma Peña, ascendente a la cantidad de $5.182.768.
+
+- Fiscal del Ministerio de Obras Públicas.
