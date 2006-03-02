@@ -1,0 +1,3 @@
+Por decreto MOP N° 1.296, de 21 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropió el lote de terreno N° 22 para la obra: Camino Santa Cruz - Yaquil, Rol I-730, km. 0,00000 a km. 7,46939, que figura a nombre de Ulloa Adasme Juan, Rol de avalúo 516-11, comuna de Santa Cruz, VI Región, superficie 1.462 m2. La Comisión de Peritos fijó con fecha 28 de septiembre de 2001 el monto de la indemnización provisional en la cantidad de $11.765.300 lote N° 22. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
