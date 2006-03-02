@@ -1,0 +1,5 @@
+Por decreto MOP N°1.330 de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP N°850, de 1997, que fijó el texto actualizado de la ley N°15.840, se expropiaron los lotes de terreno Nos 1 y 2 para la obra: "Camino Cobquecura - Buchupureo - Trehualemu, sector Puente Trehualemu, Km. 0,00000 a Km.
+
+0,24000", que figuran a nombre de Rodríguez Vergara Marta Eloisa y Vega Varas Claudio, roles de avalúo Nos 171-2 y 171-61, Comuna de Cobquecura, VIII Región, superficies 2.049 m2 y 1.522 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 15 de noviembre de 2004, en la cantidad de $6.147.000.- para el lote N°1 y $4.566.000.- para el lote N°2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N°2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
