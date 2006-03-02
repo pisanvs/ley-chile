@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.295, de 21 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº. 35 para la obra: Mejoramiento Ruta J-65 Sector: Los Niches - Upeo II km. 17,70000 a km.
+
+24,89000, km. 0,000 a km. 0,093 Eje Upeo, km. 0,000 a km. 0,045 Eje Potrero Grande, que figura a nombre de Olivos Corvalán Juan Bautista, Rol de avalúo 547-24, comuna de Curicó, VII Región, superficie 10.248 m2. La Comisión de Peritos fijó con fecha 22 de agosto de 2003, complementada por Acta de 19 de enero de 2004, el monto de la indemnización provisional en la cantidad de $5.324.000, lote Nº 35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
