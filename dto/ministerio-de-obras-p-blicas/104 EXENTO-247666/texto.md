@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 104 de fecha 31 de enero de 2006, se expropió el lote de terreno Nº 129, superficie 63 m2, rol Nº 352-39, comuna de San Fernando, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H: Km 128.400,00 al Km. 140.850,00", VI Región y se acordó el valor de la indemnización con su propietario Adán Jesús González Cáceres, ascendente a la cantidad de $690.156.
+
+- Fiscal del Ministerio de Obras Públicas.
