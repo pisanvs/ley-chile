@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.327 de 28 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2 para la obra: "Camino Buli-Flor de Ñiquén, sector Flor de Ñiquén, Km. 0,00000 a Km. 1,80000", que figura a nombre de Eguiluz del Río Elena, rol de avalúo Nº1.481-99, Comuna de San Carlos, VIII Región, superficie 7.340 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 31 de agosto de 2004, en la cantidad de $4.771.000.- para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
