@@ -1950,99 +1950,133 @@ o Modelos para determinar riesgos de mercado en opciones.
 
 - Rol de la función de auditoría interna.
 
-CAPITULO 1-14 (Bancos y Financieras)
+CAPITULO 1-14 (Bancos)
 
 MATERIA:
 
-PREVENCION DEL LAVADO DE ACTIVOS.
+PREVENCION DEL LAVADO DE ACTIVOS Y DEL FINANCIAMIENTO DEL TERRORISMO.
 
-> **Nota.** La Circular 3150, SBIF, promulgada el 30.10.2001, dispone que las recomendaciones del presente Capítulo, si si bien están orientadas principalmente a actividades relacionadas con el narcotráfico, debe entenderse que ellas también se extienden a las operaciones que pueden realizarse utilizando la red bancaria para financiar actividades de carácter terrorista. Por tanto, las entidades financieras del país, deben prestar la debida atención a las transacciones y movimientos de fondos que puedan realizarse por su intermedio y que les parezcan sospechosos, ya sea por las personas que participan en ellos, por el destino de los dineros, por lo inusual de las operaciones o por cualquier detalle.
+I.- Consideraciones Generales.
 
-1.- Consideraciones Generales.
+Las instituciones bancarias, por la naturaleza de sus funciones, pueden ser utilizadas para depositar y transferir fondos, cuyo objetivo sea intentar legitimar activos provenientes del narcotráfico o de otras operaciones ilícitas, o que sean utilizados, por ejemplo, para obtener materiales y/u otros elementos logísticos necesarios para el financiamiento del terrorismo.
 
-Las instituciones bancarias, por la naturaleza de sus funciones, pueden ser utilizadas para depositar y transferir fondos provenientes de actividades ilícitas, especialmente el narcotráfico, como también para intentar legitimar los activos, producto de tales actividades.
+Además, se debe tener en cuenta que tanto el lavado de activos como el financiamiento del terrorismo dan origen a riesgos de reputación, operativos y legales a que puede exponerse una entidad financiera, comprometiendo su estabilidad y viabilidad económica.
 
-Las transacciones y transferencias de fondos que diariamente ejecutan las instituciones bancarias, requieren identificar aquellas que tienen un origen legítimo, de aquellas que se pretenden realizar con la finalidad de encubrir negocios ilícitos.
+La debida diligencia en las transacciones y transferencias de fondos que diariamente ejecutan las instituciones bancarias por cuenta de sus clientes, hace necesario identificar aquellas que tienen un origen legítimo, de las que se pretenden realizar con la finalidad de encubrir negocios ilícitos.
 
-Ante tal situación, y de acuerdo también con las recomendaciones internacionales sobre la materia, los bancos deben tratar de orientar sus precauciones hacia un exhaustivo conocimiento de sus clientes y de las actividades que desarrollan, como también en el caso de las operaciones bancarias, deben procurar interiorizarse de las razones de éstas, cuando ellas no sean concordantes con el giro o profesión del cliente o aún siéndolo, parezcan desmedidas o sospechosas, sea por su monto, su frecuencia, o sus destinatarios, en el caso de transferencias de fondos.
+Con tal propósito, los bancos deben adoptar precauciones para tener un adecuado conocimiento de sus clientes, de las actividades que desarrollan y de las características más relevantes de las operaciones que éstos realizan. Asimismo, deben interiorizarse sobre los fundamentos en que se apoyan esas operaciones cuando no sean concordantes con el giro o profesión del cliente o, aún siéndolo, parezcan desmedidas o inusuales, sea por su monto, su frecuencia, o sus destinatarios, en el caso de transferencias de fondos.
 
-La necesidad de distinguir las operaciones legítimas de las transacciones cuya finalidad es el lavado de activos conducen a fijar la atención, como se señaló, en el conocimiento de los clientes con quienes opera la institución bancaria. En ese sentido se han elaborado también las recomendaciones contenidas en el documento del Comité de Basilea sobre "Prevención del uso criminal del sistema bancario con el propósito de lavado de dinero" y cuya versión en idioma inglés, se adjunta en el anexo a este Capítulo.
+Cabe mencionar que las directrices contra el lavado de activos y financiamiento del terrorismo se han venido construyendo a partir de la adopción de una reglamentación internacional. Esta reglamentación que, en lo principal, es atingente al sector bancario, está plasmada en las recomendaciones del Grupo de Acción Financiera Internacional (GAFI) y en el documento de debida diligencia con la clientela de los bancos, del Comité de Supervisión Bancaria de Basilea. También debe considerarse en ese sentido el trabajo desarrollado por la Asociación de Bancos e Instituciones Financieras de Chile A.G., materializado en el "Manual para la prevención del blanqueo de capitales".
 
-Por su parte la Asociación de Bancos e Instituciones Financieras de Chile A.G., preparó un "Manual para la prevención del blanqueo de capitales", que contiene una serie de recomendaciones, concordantes con las pautas internacionales sobre la materia.
+El marco jurídico chileno para las actividades desarrolladas por las entidades bajo la supervisión de esta Superintendencia, está conformado por las disposiciones contenidas en la Ley General de Bancos y por instrucciones de este Organismo. No obstante, las entidades bancarias también deben cumplir con otras disposiciones de carácter general emanadas de leyes de la República, como es el caso de la Ley N° 19.913 de fecha 18 de diciembre de 2003, que creó la Unidad de Análisis Financiero (UAF).
 
-2.- Manual de Procedimientos.
+La citada ley N° 19.913 establece que las personas naturales y las personas jurídicas que se indican están obligadas a reportar las operaciones sospechosas que adviertan en el ejercicio de sus actividades, entre las cuales están los bancos y otras entidades supervisadas por esta Superintendencia.
 
-Las instituciones financieras deben contar con un manual de procedimientos que indique las pautas que la entidad debe aplicar para evitar verse envuelta o servir de medio para la facilitación o realización de operaciones de lavado de dinero.
+Asimismo, define por operación sospechosa, todo acto, operación o transacción que, de acuerdo con los usos y costumbres de la actividad de que se trate, resulte inusual o carente de justificación económica o jurídica aparente, sea que se realice en forma aislada o reiterada.
 
-Para la confección de ese manual se sugiere recoger las recomendaciones, tanto del Comité de Basilea como de la Asociación de Bancos e Instituciones Financieras de Chile A.G., que se dirigen principalmente al conocimiento que las instituciones financieras deben tener de sus clientes.
+De acuerdo con dicha ley, los bancos están obligados a reportar operaciones sospechosas, a mantener registros especiales por el plazo mínimo de cinco años e informar a la Unidad de Análisis Financiero cuando esta lo requiera, de toda operación en efectivo superior al equivalente de 450 unidades de fomento en cualquier moneda.
 
-Asimismo, deben contemplarse pautas relativas al análisis que debe hacerse de las transacciones que realicen sus clientes, particularmente cuando ellas no coincidan con la actividad conocida de éstos, sea por su monto, frecuencia, destinatarios o remitentes, etc.
+En todo caso, cabe tener presente lo dispuesto en el artículo 154 la Ley General de Bancos acerca de la reserva y secreto bancario y en el artículo 6° de la Ley N° 19.913, sobre prohibición de informar al afectado o a terceras personas sobre la información enviada a la UAF u otros antecedentes al respecto.
 
-Por otra parte, para el caso de detección de operaciones que merezcan sospechas, deben establecerse reglas que consideren el discreto manejo y recopilación de los antecedentes que generan las dudas sobre la legitimidad de las operaciones que se estima deben ser investigadas.
+Las disposiciones señaladas en este Capítulo, son las mínimas que deben observar los bancos para la adopción de un sistema sobre prevención del lavado de activos y financiamiento del terrorismo y su cumplimiento forma parte de la evaluación que lleva a cabo este Organismo sobre la gestión integral de riesgos.
 
-Por último, es conveniente incluir un código de conducta del personal que contenga los principios que la institución determine respecto de las relaciones que deben mantenerse con los clientes, que aseguren una conducta dentro de un estricto marco ético y responsable que evite un comportamiento de excesiva confianza con los clientes y la aceptación de regalos y atenciones que no correspondan a una relación normal entre los clientes y la institución financiera o sus funcionarios.
+Para los efectos de este Capítulo, son clientes todas las personas naturales y jurídicas con las cuales la entidad establece o mantiene una relación de origen legal o contractual, como consecuencia de la prestación de un servicio o contratación de un producto, ofrecido en el marco de las actividades propias de su giro y de conformidad a las disposiciones legales y reglamentarias. Esta relación puede ser ocasional o habitual.
 
-3.- Oficial de Cumplimiento.
+II.- Sistema de Prevención de Lavado de Activos y Financiamiento del Terrorismo.
 
-Es conveniente que cada institución designe a un funcionario de confianza, de nivel gerencial, como Oficial de Cumplimiento, cuya función y responsabilidad será mantener una coordinación interna respecto de la vigilancia de las operaciones de los clientes con la empresa, la observancia de las instrucciones del manual de procedimiento, el conocimiento de los casos sospechosos y su comunicación tanto a la Administración Superior de la institución como a su Directorio y eventualmente, si así lo estimare, a las demás instituciones financieras. Todo ello, sin perjuicio de las funciones que le competen a la auditoría interna de la empresa.
+1.- Condiciones generales de un sistema para la prevención del lavado de activos.
 
-4.- Vigilancia del Directorio.
+Un sistema de prevención de lavado de activos está fundado en el concepto de "conozca a su cliente".
 
-El Directorio deberá aprobar el manual que contenga las políticas y procedimientos que la institución establezca, conducentes a evitar que ella sea utilizada para el lavado de activos.
+Los principales componentes de este sistema dicen relación con la existencia de un marco de políticas y procedimientos, la presencia de un Oficial de Cumplimiento, la creación de un comité de prevención, la existencia de herramientas para la detección, monitoreo y reporte de operaciones inusuales, la definición de políticas relacionadas con selección de personal y capacitación, la existencia de un código de conducta interno y de una función de auditoria independiente.
 
-La persona de nivel gerencial responsable de los programas y procedimientos ("oficial de cumplimiento"), mantendrá informado al directorio de los resultados de su gestión. Por otra parte, deberá mantenerse una adecuada cobertura de auditoría, que le asegure al Directorio el apego a las políticas y procedimientos que ha aprobado.
+El Directorio deberá aprobar el sistema de prevención de lavado de activos y financiamiento del terrorismo, con todos los componentes señalados precedentemente. El sistema deberá ser acorde al volumen y complejidad de las operaciones de la entidad, incluidas sus filiales y sociedades de apoyo al giro cuando corresponda, y de la presencia internacional que pudiera tener. A su vez, deberá recibir información periódica sobre las operaciones analizadas, las acciones realizadas sobre ellas, aquellas informadas a la Unidad de Análisis Financiero y también sobre el cumplimiento de las políticas y procedimientos internos.
 
-Al menos una vez al año se pondrá en tabla de sesión de Directorio la evaluación de esas políticas y procedimientos, sin perjuicio de la necesidad de atender, cuando corresponda, las observaciones que emanen de esta Superintendencia con motivo de su evaluación según lo indicado en el N°5 siguiente.
+2.- Conocimiento del cliente.
 
-5.- Evaluación de esta Superintendencia.
+Es obligación del banco identificar y conocer a sus clientes. Esto debe abordarse desde una perspectiva prudencial, vale decir, que no sólo sea una herramienta orientada a la prevención, sino que también un mecanismo de gestión eficaz de los riesgos a los cuales está expuesta una entidad.
 
-La eficacia de las políticas y procedimientos adoptados por las instituciones, como asimismo las eventuales sanciones que pudiera aplicar este Organismo por incumplimiento de lo establecido en este Capítulo, serán considerados por esta Superintendencia en la evaluación y clasificación por gestión de que trata el Capítulo 1-13 de esta Recopilación.
+El conocimiento del cliente comienza desde el momento en que, con motivo de una operación, éste se vincula con la entidad bancaria. Por lo tanto, el banco requiere la elaboración de políticas y procedimientos de aceptación e identificación, los que deberán tener en cuenta, entre otros factores, los antecedentes del cliente; perfiles de actividad; monto y origen de los fondos involucrados; el país de origen de éstos y si dicho país cumple con los estándares mínimos de aceptación exigidos; y sus relaciones societarias u otros indicadores de riesgo. Si se trata de una persona de influencia a nivel internacional, deberá contar con la aprobación de la alta administración.
 
-Anexo N° 1
+Para una adecuada identificación de los clientes que no mantengan una cuenta corriente con la institución, pero que habitual u ocasionalmente realicen operaciones con el banco, se recomienda al menos aplicar las exigencias establecidas al respecto en el Capítulo 2-2 de esta Recopilación. No obstante, considerando la naturaleza, características y nivel de riesgo de los productos y servicios que contraten con éste, podrán omitirse ciertos requisitos como, por ejemplo, la exigencia de una fotografía del cliente y la impresión digital. Las políticas deberán referirse a los procedimientos que deben aplicarse en estos casos.
 
-PREVENTION OF CRIMINAL USE OF THE BANKING SYSTEM FOR THE PURPOSE OF MONEY-LAUNDERING (December 1988)
+Cabe agregar que para personas jurídicas, deberá demostrarse la existencia de la sociedad, mediante copias legalizadas de las escrituras e inscripciones correspondientes, la identificación de los propietarios de la empresa - accionistas o socios- y de las personas que componen su nivel directivo y los cargos que ocupan, de acuerdo al tipo de sociedad de que se trate. Asimismo, deberán identificarse sus representantes legales, las actividades que desarrolla la empresa, su dirección y números telefónicos.
 
-Preamble
+Con la información obtenida, se deberán elaborar perfiles de clientes, que permitan determinar en forma aproximada, el volumen y tipo de operaciones que harán éstos en lo futuro.
 
-1. Banks and other financial institutions may be unwittingly used as intermediaries for the transfer or deposit of funds derived from criminal activity. Crimináis and their associates use the financial system to make payments and transfers of funds from one account to another; to hide the source and beneficial ownership of money; and to provide storage for bank-notes through a safe- deposit facility. These activities are commonly referred to as money- laundering.
+Para los casos de operaciones no habituales o cuando se trate de clientes ocasionales o expuestos políticamente a nivel internacional, el banco deberá exigir una declaración sobre el origen de los fondos, cuando corresponda a una operación que supere el umbral menor entre el definido por la Ley N°19.913 y el reglamentado internamente. Esa declaración deberá acompañarse con documentación que la sustente.
 
-2. Efforts undertaken hitherto with the objective of preventing the banking system from being used in this way have largely been undertaken by judicial and regulatory agencies at national level. However, the increasing intemational dimensión of organised criminal activity, notably in relation to the narcotics trade, has prompted collaborative initiatives at the intemational level. One of the earliest such initiatives was undertaken by the Committee of Ministers of the Council of Europe in June 1980. In its report1 the Committee of Ministers concluded that "... the banking system can play a highly effectiVe preventive role while the cooperation of the banks also assists in the repression of such criminal acts by the judicial authorities and the pólice". In recent years the issue of how to prevent crimináis laundering the proceeds of crime through the financial system has attracted increasing attention from legislative authorities, law enforcement agencies and banking supervisors in a number of countries.
+Especial atención se deberá tener en el caso de transferencias de fondos en cuanto a identificar al ordenante y al beneficiario.
 
-3. The various national banking supervisory authorities represented on the Basle Committee on Banking Regulations and Supervisory Practices do not have the same roles and responsibilities in relation to the suppression of money- laundering. In some countries supervisors have a specific responsibility in this field; in others they may have no direct responsibility. This reflects the role of banking supervisión, the primary function of which is to maintain the overall financial stability and soundness of banks rather than to ensure that individual transactions conducted by bank customers are legitímate. Nevertheless, despite the limits in some countries on their specific responsibility, all members of the Committee firmly believe that supervisors cannot be indifferent to the use made of banks by criminals.
+La entidad financiera deberá mantener actualizados los antecedentes de sus clientes en el curso de su relación comercial, de modo de asegurarse que los datos de identificación y financieros estén siempre al día. Lo anterior, con el objeto que les permita asegurar que las operaciones que realizan esos clientes son coherentes con la actividad, sus negocios y su perfil de riesgo.
 
-4. Public confidence in banks, and henee their stability, can be undermined by adverse publicity as a result of inadvertent association by banks with crimináis. In addition, banks may lay themselves open to direct losses from fraud, either through negligence in screening undesirable customers or where the integrity of their own officers has been undermined through association with crimináis. For these reasons the members of the Basle Committee consider that banking supervisors have a general role to encourage ethical standards of professional conduct among banks and other financial institutions.
+La institución debe prevenir al cliente de su obligación de actualizar, a lo menos anualmente, los datos que varíen, según el producto o servicio de que se trate, suministrando los antecedentes correspondientes. Asimismo, esta deberá verificar y asegurarse, por los medios que estime más adecuados, que la información sobre la identificación entregada por los clientes corresponda a la realidad.
 
-1 Measures against the transfer and safeguarding of funds of criminal origin. Recommendation No. R(80) 10 adopted by the Committee of Ministers of the Council of Europe on 27th June 1980.
+3.- Manual de políticas y procedimientos.
 
-5. The Committee believes that one way to promote this objective, consistent with differences in national supervisory practice, is to obtain intemational agreement to a Statement of Principies to which financial institutions should be expected to adhere.
+Las instituciones financieras deben contar con un manual que establezca las políticas y procedimientos que deben aplicar para evitar verse envueltas o servir de medio para la facilitación o realización de operaciones de lavado de activos y financiamiento del terrorismo.
 
-6. The attached Statement is a general statement of ethical principies which encourages banks' management to put in place effective procedures to ensure that all persons conducting business with their institutions are properly identified; that transactions that do not appear legitímate are discouraged; and that cooperation with law enforcement agencies is achieved. The Statement is not a legal document and its implementation will depend on national practice and law. In particular, it should be noted that in some countries banks may be subject to additional more stringent legal regulations in this field and the Statement is not intended to replace or diminish those requirements. Whatever the legal position in different countries, the Committee considere that the first and most important safeguard against money laundering is the integrity of banks' own managements and their vigilant determination to prevent their institutions becoming associated with crimináis or being used as a channel for money-laundering. The Statement is intended to reinforce those standards of conduct.
+Dichas políticas y procedimientos son la base para establecer y poner en práctica un adecuado sistema de prevención de lavado de activos y financiamiento del terrorismo.
 
-7. The supervisory authorities represented on the Committee support the principies set out in the Statement. To the extent that these matters fall within the competence of supervisory authorities in different member countries, the autorities will recommend and encourage all banks to adopt policies and practices consistent with the Statement. With a view to its acceptance worldwide, the Committee would also commend the Statement to supervisory authorities in other countries.
+Los elementos esenciales que deben contemplar las políticas, corresponden, a lo menos, al conocimiento de su cliente, desarrollo de adecuados métodos de vigilancia y relaciones con la banca corresponsal. Además, deben estar claramente identificados los roles y responsabilidades que le corresponden a todo el personal del banco, de forma que su cumplimiento pueda ser objeto de revisión.
 
-Statement of Principies
+El manual debe permanecer actualizado, es decir, debe incluir los nuevos productos y servicios que ofrezcan. Asimismo, deben contemplarse pautas relativas al análisis que debe hacerse de las transacciones que realicen sus clientes, particularmente cuando ellas no coincidan con la actividad o giro conocido de éstos, sea por su monto, frecuencia, destinatarios, remitentes, etc.
 
-### I. Purpose
+Por otra parte, para el caso de detección de operaciones que merezcan sospechas, deben establecerse procedimientos específicos que consideren el discreto manejo y recopilación de los antecedentes y las etapas y plazos que se deben seguir para informar tales operaciones a quien corresponda.
 
-Banks and other financial institutions may unwittingly be used as intermediarles for the transfer or deposit of money derived from criminal activity. The intention behind such transactions is often to hide the beneficial ownership of funds. The use of the financial system in this way is of direct concern to pólice and other law enforcement agencies; it is also a matter of concern to banking supervisors and banks' managements, since public confidence in banks may be undermined through their association with criminals.
+El manual también deberá contener procedimientos para el adecuado seguimiento de sus clientes, los que deben ser diferenciados en función del nivel de riesgo de estos. Para los clientes que estén dentro de la categoría de políticamente expuestos a nivel internacional o para personas que, de acuerdo con su perfil, pudieran estar expuestas a ser utilizadas para el lavado de activos, corresponderá desarrollar un sistema especial de seguimiento de sus operaciones.
 
-This Statement of Principies is intended to outline some basic policies and procedures that banks' managements should ensure are in place within their institutions with a view to assisting in the suppression of money-laundering through the banking system, national and intemational. The Statement thus sets out to reinforce existing best practices among banks and, specifically, to encourage vigilance against criminal use of the payments system, implementation by banks of effective preventive safeguards, and cooperation with law enforcement agencies.
+Por su importancia requiere especial atención la banca corresponsal. En efecto, en lo que se refiere a las relaciones de corresponsalía y otras con la banca transnacional, las instituciones financieras, entre otros factores, además de aplicar las medidas sobre conocimiento de sus clientes ya señaladas, deberán: i) reunir información suficiente sobre los bancos con los cuales mantengan cualquier tipo de relación que les permita comprender cabalmente la naturaleza de los negocios que éstos desarrollan y verificar la reputación y la calidad de su supervisión; ii) tomar conocimiento de los controles implementados para detectar operaciones de lavado de activos y financiamiento del terrorismo; y,
 
-### II. Customer identiflcation
+iii) documentar las respectivas responsabilidades de cada institución, cuando cuando sea del caso.
 
-With a view to ensuring that the financial system is not used as a channel for criminal funds, banks should make reasonable efforts to determine the true identity of all customers requesting the institution's services. Particular care should be taken to identify the ownership of all accounts and those using safe- custody facilities. All banks should institute effective procedures for obtaining identification from new customers. It should be an explicit policy that significant business transactions will not be conducted with customers who fail to provide evidence of their identity.
+4.- Oficial de Cumplimiento.
 
-### III. Compliance with laws
+El Oficial de Cumplimiento deberá ser un funcionario de confianza, independiente de las áreas tomadoras de riesgo, operativa y de auditoría interna; tener un nivel gerencial, cuya función y responsabilidad principal será mantener una coordinación interna respecto de la vigilancia de las operaciones de los clientes con la entidad y sus filiales, la observancia de las instrucciones del manual de procedimientos, el conocimiento de los casos sospechosos y su comunicación al Comité de Prevención de Lavado de Activos y Financiamiento del Terrorismo.
 
-Banks management should ensure that business is conducted in conformity with high ethical standards and that laws and regulations pertaining to financial transactions are adhered to. As regards transactions executed on behalf of customers, it is accepted that banks may have no means of knowing whether the transaction stems from or forms part of criminal activity. Similarly, in an intemational context it may be difficult to ensure that cross-border transactions on behalf of customers are in compliance with the regulations of another country. Nevertheless, banks should not set out to offer services or provide active assistance in transactions which they have good reason to suppose are associated with money-laundering activities.
+El banco deberá informar a esta Superintendencia el nombre, cargo y dependencia del Oficial de Cumplimiento, información que deberá mantenerse actualizada.
 
-### IV. Cooperation with law enforcement authorities
+De acuerdo al tamaño y naturaleza de la entidad, el Oficial de Cumplimiento deberá contar con recursos humanos y tecnológicos adecuados.
 
-Banks should cooperate fully with national law enforcement authorities to the extent permitted by specific local regulations relating to customer confidentiality. Care should be taken to avoid providing support or assistance to customers seeking to deceive law enforcement agencies through the provisión of altered, incomplete or misleading information. Where banks become aware of facts which lead to the reasonable presumption that money held on deposit derives from criminal activity or that transactions entered into are themselves criminal in purpose, appropriate measures, consistent with the law, should be taken, for example, to deny assistance, sever relations with the customer and cióse or freeze accounts.
+5.- Comité de Prevención de Lavado de Activos y Financiamiento del Terrorismo.
 
-### V. Adherence to the Statement
+Dependiendo de su tamaño, la institución deberá constituir un Comité de Prevención de Lavado de Activos y Financiamiento del Terrorismo. Es deseable que este Comité esté integrado por a lo menos un director (no exigible para sucursal de entidad extranjera), el gerente general, a lo menos un gerente de área, el fiscal y el Oficial de Cumplimiento.
 
-All banks should formally adopt policies consistent with the principies set out in this Statement and should ensure that all members of their staff concemed, wherever located, are informed of the bank's policy in this regard. Attention should be given to staff training in matters covered by the Statement. To promote adherence to these principies, banks should implement specific procedures for customer Identification and for retaining intemal records of transactions. Arrangements for intemal audit may need to be extended in order to establish an effective means of testing for general compliance with the Statement.
+Entre sus funciones estará la de planificar y coordinar las actividades de cumplimiento de las políticas y procedimientos sobre las materias definidas por la entidad, relacionadas con aquellas de que trata este Capítulo. Además, deberá tomar conocimiento de la labor desarrollada y operaciones analizadas por el Oficial de Cumplimiento, como también, de decidir sobre mejoras a las medidas de control que éste proponga.
+
+6.- Herramientas para la detección, monitoreo y reporte de operaciones inusuales.
+
+Las entidades deben contar con las herramientas tecnológicas adecuadas, que le permitan desarrollar sistemas de alertas, con el propósito de identificar y detectar operaciones inusuales. Dichos instrumentos deberán ser capaces de monitorear todas las transacciones realizadas por sus clientes a través de los diversos productos, prestando especial atención a aquellas que se efectúen con dinero en efectivo. Los parámetros de detección de operaciones inusuales considerarán en su aplicación el riesgo de clientes y/o productos.
+
+Asimismo, deberán desarrollar y proveer a las instancias encargadas de ejecutar los servicios a los clientes, de una lista de "señales de alerta", que les sirvan para detectar operaciones inusuales o conocer operaciones sobre las cuales deben tener especial prudencia.
+
+En este sentido, constituye una señal importante que debe ser comunicada a la unidad interna responsable cuando la entidad rechace una operación de un cliente o de un potencial cliente, producto de haber observado movimientos inusuales u otras características de sospecha que merecieron tal rechazo.
+
+Las operaciones inusuales identificadas a través de estos sistemas de alerta implementados, ya sean de naturaleza computacional o producto del monitoreo de las áreas encargadas de ejecutar los servicios a los clientes, deberán ser reportadas a la unidad responsable de la evaluación de dichas operaciones. Cuando la identificación provenga de sistemas manuales, deberá contemplarse para el reporte a la unidad correspondiente el uso de un formulario especialmente diseñado. Todos los análisis efectuados de estas operaciones deben quedar debidamente documentados.
+
+Identificada una operación sospechosa, la que ha sido definida en el Título I de este Capítulo, el banco está obligado a reportar dicha operación a la Unidad de Análisis Financiero.
+
+7.- Selección de personal, programas de capacitación y código de conducta interno.
+
+Los bancos deben contar con políticas y normas de selección de personal y de conducta de éste en relación con clientes, con el objeto de prevenir la ocurrencia de operaciones de lavado de activos y financiamiento del terrorismo.
+
+Asimismo deben disponer de reglas de conducta contenidas en un código, que orienten la actuación de cada uno de sus funcionarios para el adecuado desarrollo del sistema de prevención adoptado, y prevenir y resolver conflictos de intereses que pudieran surgir con sus clientes.
+
+La institución debe desarrollar programas de capacitación e instrucción permanentes a sus empleados, sobre las normas vigentes en materia de prevención de lavado de activos y financiamiento del terrorismo, sus políticas, los sistemas y los procedimientos en uso establecidos al respecto, como también, adiestramiento en cuanto a modalidades, técnicas o procedimientos utilizados en estas actividades.
+
+Estos programas deberán comprender a todo el personal del banco, incluido el de sus filiales y sociedades de apoyo al giro cuando corresponda, y deberán ser periódicos y diferenciados según se trate de personal nuevo, de la función de cumplimiento, del área de operaciones o que atiende público en forma directa.
+
+8.- Auditoría interna.
+
+El sistema de prevención de lavado de activos y financiamiento del terrorismo implementado es responsabilidad de cada entidad y debe ser periódicamente evaluado por la auditoría interna de la institución, sobre la base de procedimientos definidos por la entidad, aprobados por la alta administración y de aceptación general.
+
+III.- Evaluación de esta Superintendencia.
+
+La suficiencia y la eficacia de las políticas y procedimientos sobre prevención de lavado de activos y financiamiento del terrorismo adoptados por las instituciones, son parte del proceso de supervisión, evaluación y clasificación por gestión de que trata el Capítulo 1-13 de esta Recopilación.
+
+IV.- Disposición Transitoria.
+
+Para efectos de cumplir con el número 2 del titulo II. de este Capítulo, en cuanto a mantener actualizados los antecedentes de los clientes existentes a la fecha de la comunicación de esta norma, las entidades bancarias tendrán un plazo de un año para requerir la información correspondiente, sin perjuicio de solicitarlos cuando el cliente realice alguna transacción o demande la prestación de servicio sin haber actualizado previamente esa información.
 
 CAPITULO 1-15 (Bancos)
 
