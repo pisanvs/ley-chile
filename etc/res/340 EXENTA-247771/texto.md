@@ -1,0 +1,3 @@
+Por resolución exenta Nº340, de 31 de enero de 2006, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, BUZOS MARISCADORES, EXTRACTORES DE MARISCOS CALETA LAS CONCHAS para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Costanera s/n, Caleta Las Conchas, Los Vilos, IV Región, donde podrá elaborar en la línea de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 31 de enero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
