@@ -1,0 +1,1 @@
+Por decreto alcaldicio Nº 1.942, de fecha 27 de mayo de 2005, se modifica el artículo 23 de la Ordenanza Municipal para el Uso y Distribución de las Aguas del Sistema de Regadío Urbano, cuyo texto se encuentra a disposición del público en la Secretaría Municipal.
