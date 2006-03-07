@@ -1,0 +1,3 @@
+Por resolución Nº661, de 22 de febrero de 2006, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº81 y Nº82, ambas de 2005, y de esta Subsecretaría, que otorgaron a IMPORTADORA Y EXPORTADORA OCEANO ATLANTICO LIMITADA permisos extraordinarios de pesca para la unidad de pesquería del recurso hidrobiológico Bacalao de profundidad.
+
+Valparaíso, 22 de febrero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
