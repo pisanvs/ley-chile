@@ -1,0 +1,3 @@
+Por resolución exenta Nº 381, de 2 de febrero de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3.930, de 2005, de esta Subsecretaría, que autorizó a UNIVERSIDAD CATOLICA DEL NORTE, sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de ecología alimentaria del Pingüino de penacho amarillo, Eudyptes chrysocome, en la Isla Noir", en el sentido de efectuar el equipamiento de los ejemplares machos y hembras con transmisores satelitales, durante el período comprendido entre el 8 al 16 de marzo de 2006.
+
+Valparaíso, 2 de febrero de 2006.- Edith Saa Collantes, Subsecretario de Pesca (S).
