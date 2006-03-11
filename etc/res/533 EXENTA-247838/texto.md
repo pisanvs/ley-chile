@@ -1,0 +1,7 @@
+Por resolución exenta Nº 533, de 16 de febrero de 2006, de esta Subsecretaría, autorízase a la UNIVERSIDAD CATOLICA DE LA SANTISIMA CONCEPCION para desarrollar actividades experimentales de acuicultura de acuerdo a los Términos Técnicos de Referencia del Proyecto "Bases biológicas y tecnológicas para la innovación y desarrollo en sistemas productivos de acuicultura intensiva en tierra".
+
+El objetivo general consiste en desarrollar las bases biológicas y tecnológicas para el cultivo en sistemas confinados en tierra de especies de importancia comercial.
+
+Las actividades experimentales se realizarán por el término de tres años, contados desde la fecha de la presente resolución, en el Laboratorio de Ingeniería Acuícola del Campus San Andrés de la Universidad Católica de la Santísima Concepción, ubicado en Alonso Rivera Nº 2850, Concepción, y en el Centro de Investigaciones Marinas Costeras de Bahía Lenga, instalado en terreno de playa otorgado en concesión marítima mediante D.S. Nº 54 de 1993, del Ministerio de Defensa Nacional, reducido a escritura con fecha 23 de junio de 1993, otorgada ante la Notario Público de Concepción doña María Eugenia Rivera González, Repertorio Nº 236 de 1993.
+
+Valparaíso, 16 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
