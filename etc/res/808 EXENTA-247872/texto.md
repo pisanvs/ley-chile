@@ -1,0 +1,3 @@
+Por resolución exenta Nº 808, de 7 de marzo de 2006, de esta Subsecretaría, rectifícase la resolución Nº 4.139 de 2005, de esta Subsecretaría, que autorizó a ATACAMA BIO NATURAL PRODUCTS SOCIEDAD ANONIMA para iniciar actividades pesqueras de transformación, en el sentido de indicar en el numeral 2.- que la dirección de la planta corresponde a Fundo San Antonio, Ruta A-665, comuna de Pozo Almonte, provincia de Iquique, I Región.
+
+Valparaíso, 7 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
