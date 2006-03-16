@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº 1.410 de 30 de noviembre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del Decreto MOP. Nº 880 de 30 de junio de 1998, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 69. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 69, fijada por la Comisión de Peritos, con fecha 23 de julio de 1997, ascendente a la cantidad de $29.250.
+
+- Fiscal del Ministerio de Obras Públicas.
