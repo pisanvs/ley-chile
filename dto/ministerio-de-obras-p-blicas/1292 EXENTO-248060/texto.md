@@ -1,0 +1,3 @@
+Por decreto exento Nº 1.292, de 30 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra Construcción Puente Rosales. Camino W-895, provincia de Palena, X Región, que figura a nombre de Carrillo Sáez Florindo, rol de avalúo 104-67, comuna Palena, superficie 1.639 m2. La comisión de peritos fijó con fecha 10 de enero de 2001, en la cantidad de $1.454.900. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
