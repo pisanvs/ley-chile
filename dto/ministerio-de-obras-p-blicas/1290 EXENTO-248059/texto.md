@@ -1,0 +1,3 @@
+Por decreto exento Nº 1.290, de 30 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno N° 1, para la obra Construcción Puente López N° 2. Camino W-895, X Región, que figura a nombre de Bravo Castillo Francisco, rol de avalúo 103-59, comuna de Palena, superficie 1.485 m2. La comisión de peritos fijó con fecha 10 de enero de 2001 el monto de la indemnización provisional en la cantidad de $1.308.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
