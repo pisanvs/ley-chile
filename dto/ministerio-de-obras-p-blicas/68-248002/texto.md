@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 68 de fecha 31 de enero del 2006, se expropió el lote de terreno Nº 7, superficie 1.195 m2, Rol Nº 206-235, comuna de Cabrero, VIII Región para la obra "Concesión Internacional Ruta 5 Tramo Chillán-Collipulli. Sector: Km. 455.700,00 a Km. 459.800,00, y se acordó el valor de indemnización con su propietario Juan Seledino Parra Hormazábal, ascendente a la cantidad de $8.704.100.-
+
+Fiscal del Ministerio de Obras Públicas.
