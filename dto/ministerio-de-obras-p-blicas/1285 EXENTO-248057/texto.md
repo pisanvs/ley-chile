@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.285, de 30 de noviembre de 2005, se dejó sin efecto los numerales 3°, 4°, 5° y 6° del decreto MOP exento Nº 1.525, de 28 de noviembre de 2003, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote N° 113, fijada por la Comisión de Peritos, con fecha 15 de enero de 2002, ascendente a la cantidad de $17.700.-
+
+Fiscal del Ministerio de Obras Públicas.
