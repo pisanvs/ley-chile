@@ -1,0 +1,3 @@
+Por decreto exento N° 1.310, de 30 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropió el lote de terreno N° 13, para la obra Camino Puelo Paso El Bolsón, Sector Lago Taguatagua-Llanada Grande, Tramo Km. 12,530 a Km. 32,500, X Región, que figura a nombre de Diocares Hermosilla Néstor, rol de avalúo 157-57, comuna de Cochamó, superficie 21.352 M2. La Comisión de Peritos fijó con fecha 11 de marzo de 2003, en la cantidad de $2.345.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
