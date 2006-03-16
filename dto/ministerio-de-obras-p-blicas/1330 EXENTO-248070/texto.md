@@ -1,0 +1,5 @@
+Por decreto exento N° 1.330, de 9 de diciembre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropiaron los lotes de terreno N°s. 98, 100, 148 y 156, para la obra Camino Ruta W-853-Teupa-Queilen, sector Santa María-Queilen, Tramo Km. 25,96000 a Km. 42,34833, X Región, que figuran a nombre de Velázquez Sánchez Luis Alejand, González González Elijio y Nahuelquin González Pedro, roles de avalúo 143-46, 112-7 y 113-9, Comuna de Queilen, superficies 908 M2., 176 M2., 968 M2. y 222 M2. La Comisión de Peritos fijó con fecha 25 de octubre de 2002, en las cantidades de $199.760, para el lote N°98;
+
+$38.720, para el lote N°100; $212.960, para el lote N°148, y $48.840, para el lote N°156. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
