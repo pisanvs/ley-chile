@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.437 de 12 de diciembre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº 1.007 de 30 de julio de 1998, en la parte que se refiere al convenio directo de precio ad-referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes Nºs. 14 y 15. Consígnese judicialmente el monto provisional de la indemnización de los lotes Nº 14 y 15, fijada por la comisión de peritos, con fecha 3 de septiembre de 1996, ascendente a la cantidad de $11.250 para el lote Nº14 y $26.250 para el Nº15.
+
+Fiscal del Ministerio de Obras Públicas.
