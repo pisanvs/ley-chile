@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.408, de 30 de noviembre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto MOP Nº 313, de 31 de marzo de 1997, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, de los lotes de terreno Nºs 5 y 7, que figuran a nombre de Juan Isidro Carrasco Cárdenas. Consígnese judicialmente el monto provisional de las indemnizaciones fijadas por la comisión de peritos en febrero de 1992, ascendentes a las cantidades de $249.400. para el lote Nº 5 y $33.500, para el lote Nº 7.
+
+- Fiscal del Ministerio de Obras Públicas.
