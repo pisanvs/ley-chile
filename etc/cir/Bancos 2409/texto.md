@@ -15778,45 +15778,55 @@ En esta categoría deben computarse todos los demás activos no incluidos en las
 
 3.- Equivalente de crédito de los instrumentos derivados.
 
-Para los efectos de que trata este título, se considerará como activo el equivalente de crédito de los contratos a futuro sobre tasa de interés o sobre tipo de cambio de monedas, de acuerdo con las siguientes instrucciones:
+Para los efectos de que trata este título, se considerará como activo el "equivalente de crédito" de un instrumento derivado con valor razonable positivo. Por consiguiente, en las categorías de riesgo se incluirán, para efectos de su ponderación y según quien sea la contraparte, ese "equivalente de crédito" en vez del valor contable.
 
-3.1.- Base de cálculo.
+El "equivalente de crédito" de que se trata corresponderá a la suma del valor razonable más un monto adicional que se obtiene aplicando sobre el monto nocional un factor de conversión que depende del subyacente y del plazo de vencimiento residual del derivado. No obstante, al tratarse de derivados negociados en bolsa que estén sujetos diariamente a la liquidación en efectivo de las variaciones del margen, su equivalente de crédito será igual a cero.
 
-Para determinar el equivalente de crédito de las operaciones con instrumentos derivados, se deben incluir solamente los contratos que a la fecha del cómputo tengan un valor de mercado que represente una utilidad para la institución financiera, sea que se hayan pactado en Bolsas Oficiales Extranjeras o en mercados fuera de bolsa ("O.T.C"). Para establecer si un contrato tiene un valor de mercado que represente una utilidad o pérdida para la institución financiera, se debe considerar el resultado que se haya determinado para cada uno de los contratos al efectuar el ajuste al cierre del mes, de conformidad con las instrucciones contables de esta Superintendencia sobre la materia. Por lo tanto, no se efectuará compensación alguna entre contratos que registren utilidad y aquellos que registren pérdidas.
+El monto adicional antes mencionado se calculará aplicando el factor que corresponda, según lo indicado en las tablas siguientes:
 
-Para determinar el equivalente de crédito para cada uno de esos contratos que registren utilidad, se aplicarán los porcentajes que más adelante se indican, sobre el valor nominal de aquellos que se encuentren vigentes en la fecha del cómputo. Igual procedimiento deberá seguirse cuando se trate de opciones vigentes, aplicando en este caso los porcentajes sobre el valor nominal de los respectivos contratos subyacentes. En el caso de los forwards de monedas, se entenderá por valor nominal para estos efectos, el importe de la moneda que la institución financiera acuerde adquirir.
+Contratos sobre tasas de interés
 
-3.2.- Contratos sobre tasas de interés.
+Vencimiento Residual
 
-Para los contratos sobre tasas de interés, se aplicarán los siguientes porcentajes, según el plazo que reste para su vencimiento:
+Hasta un año 0.0%
 
-Plazo hasta el vencimiento Porcentaje
+Más de un año hasta cinco años 0.5%
 
-Hasta un año 0,0%
+Más de cinco años 1.5%
 
-Más de un año hasta cinco años 0,5%
+Contratos sobre monedas
 
-Más de cinco años 1,5%
+Vencimiento Residual Canasta 1 Canasta 2
 
-3.3.- Contratos sobre monedas.
+Hasta un año 1.5% 4.5%
 
-Para el cálculo del equivalente de los contratos sobre monedas, incluida la unidad de fomento, se aplicarán porcentajes diferentes según la canasta en que esté incluida la moneda que se recibiría. Para tal efecto, las distintas monedas se agruparán en las siguientes canastas:
+Más de un año hasta cinco años 7.0% 20.0%
 
-Canasta 1: Incluye el dólar estadounidense, el euro, el yen, la unidad de fomento y el peso chileno.
+Más de cinco años 13.0% 30.0%
 
-Canasta 2: Comprende las demás monedas extranjeras de general aceptación en los mercados internacionales de cambios.
+Canasta 1: Contiene las monedas emitidas por países con cuya deuda externa de largo plazo se encuentre clasificada a lo menos en AAA, o su equivalente, por algunas de las clasificadoras de riesgo señaladas en el Capítulo 1-12 de esta Recopilación. Incluye, además, el euro y el oro. Al tratarse de contratos sobre Unidades de Fomento, ella también se considera como moneda en esta canasta.
 
-Canasta 3: Incluye el resto de las monedas en que pudiesen estar pactados los contratos.
+Canasta 2: Contiene las demás monedas, no incluidas en la canasta 1.
 
-Los porcentajes que se aplicarán según el plazo que reste para el vencimiento de cada contrato y la respectiva canasta, serán los siguientes:
+Contratos sobre acciones
 
-Plazo hasta el vencimiento Canasta 1 Canasta 2 Canasta 3
+Vencimiento Residual
 
-Hasta un año 1,5% 2.0% 7.5%
+Hasta un año 0.0%
 
-Más de un año hasta cinco años 6,0% 8.0% 30.0%
+Más de un año hasta cinco años 0.5%
 
-Más de cinco años 9,0% 12.0% 45.0%.
+Más de cinco años 1.5%
+
+Los contratos de derivados sobre tasas de interés incluyen swaps sobre tasas de interés en una misma moneda, acuerdos de tasa forward, futuros sobre tasas de interés, opciones compradas sobre tasas de interés e instrumentos similares.
+
+Los contratos de derivados sobre monedas incluyen cross currency swaps, swaps sobre monedas, futuros sobre monedas, forward sobre monedas, opciones compradas sobre monedas e instrumentos similares.
+
+Los contratos de derivados sobre acciones que puedan pactar las filiales, incluyen futuros, forward, opciones compradas e instrumentos similares que tengan como subyacente el precio de acciones individuales o índices de acciones.
+
+Para aquellos contratos derivados que tengan múltiples intercambios del monto nocional, los factores deberán ser multiplicados por el número de pagos que resten hasta su vencimiento.
+
+Los swaps sobre dos tasas de interés fluctuantes en una misma moneda tendrán un equivalente de crédito igual a su valor razonable (el monto adicional será igual a cero).
 
 III.- NORMAS CONTABLES.
 
@@ -16090,9 +16100,9 @@ constancia, para los efectos de los límites individuales de crédito se computa
 
 el total de la deuda para cada uno de ellos.
 
-### 7. Forward de monedas extranjeras y unidades de fomento
+7 .- Operaciones con instrumentos derivados.
 
-Para efectos de los límites individuales de crédito, en las operaciones forward de monedas extranjeras y de unidades de fomento tratadas en los capítulos 13-2, 13-23 y 8-36 de está Recopilación, se computará como crédito otorgado, hasta el vencimiento de cada operación, la diferencia inicial expresada en pesos entre el precio pactado a futuro y el precio al contado a la fecha de celebración del pacto, cuando esa diferencia sea de cargo del correspondiente deudor.
+Para efectos de los límites individuales de crédito se considerarán las operaciones con instrumentos derivados cuando se trate de derivados contratados fuera de bolsa ("O.T.C") y su valor razonable sea positivo al momento del cómputo. El importe computable para ese efecto, será el monto correspondiente al "equivalente de crédito" del correspondiente instrumento derivado, calculado según lo indicado en el Capítulo 12-1 de esta Recopilación.
 
 8.- Garantía de colocación de valores mobiliarios y su adquisición.
 
@@ -16292,9 +16302,9 @@ Al valorar los bienes recibidos en garantía deberá tenerse especial cuidado de
 
 Dicha valoración debe efectuarse de acuerdo con las siguientes disposiciones, según el tipo de bienes de que se trate:
 
-3.1. Valorización de instrumentos financieros.
+3.1.- Valoración de instrumentos financieros.
 
-Para valorar los instrumentos financieros a que se refieren los N°s. 2 y 3 del título III de este capítulo, deberá considerarse el precio promedio de las transacciones de dichos instrumentos, efectuadas durante el mes inmediatamente anterior al momento de la valoración, en el mercado en que normalmente se opera,en el caso que éstos efectivamente se hayan transado. Si no hubiera transacción, deberá tomarse un valor estimativo de liquidación, de acuerdo con sus condiciones de plazo, calendario de amortizaciones y tasa de interés.
+Los instrumentos financieros a que se refieren los N°s. 2 y 3 del título III de este Capitulo, serán valorados según su valor razonable, de acuerdo con lo indicado en el Capítulo 7-12 de esta Recopilación.
 
 3.2.- Otros documentos.
 
@@ -16436,13 +16446,17 @@ Los saldos en moneda extranjera deberán expresarse en moneda corriente, de acue
 
 Con todo, la cartera vencida incluirá solamente los intereses y reajustes devengados hasta la fecha de vencimiento.
 
-3.2. Intereses, reajustes y variación del tipo de cambio.
+Los instrumentos financieros no derivados que contablemente deben ajustarse a su valor razonable, se considerarán a su valor razonable calculado a la fecha del cómputo.
 
-En la medida en que no se otorgue un nuevo crédito o que no exista novación dela obligación primitivamente pactada y que no nazca, por lo tanto, una nueva obligación que por voluntad de las partes o disposición de la ley sustituya a la anterior, el mayor valor de los créditos otorgados, originado por el devengo o capitalización de intereses y reajustes o por el efecto de la variación del tipo de cambio que ocasione un exceso en el monto de esos créditos respecto del margen legal, no se considera una infracción a las disposiciones del artículo 84. De allí que un crédito otorgado originalmente dentro de los límites, como producto de sucesivas renovaciones o prórrogas puede originar un exceso no sancionable, siempre que dichas renovaciones no impliquen novación de la obligación primitiva o no se otorguen otros créditos.
+Por su parte, los instrumentos derivados "O.T.C" serán computados por su "equivalente de crédito", según lo indicado en el Capítulo 12-1 de esta Recopilación.
+
+3.2.- Mayor valor de los créditos ya otorgados.
+
+En la medida en que no se otorgue un nuevo crédito o que no exista novación dela obligación primitivamente pactada y que no nazca, por lo tanto, una nueva obligación que por voluntad de las partes o disposición de la ley sustituya a la anterior, el mayor valor de los créditos otorgados, originado por el devengo o capitalización de intereses y reajustes o por el efecto de la variación del tipo de cambio que ocasione un exceso en el monto de esos créditos respecto del margen legal, no se considera una infracción a las disposiciones del artículo 84. De allí que un crédito otorgado originalmente dentro de los límites, como producto de sucesivas renovaciones o prórrogas puede originar un exceso no sancionable, siempre que dichas renovaciones no impliquen novación de la obligación primitiva o no se otorguen otros créditos. Lo mismo ocurre con las operaciones que deben sumarse por el valor razonable o por el equivalente de crédito de los instrumentos, en el sentido de que no constituye infracción el exceso que pudiera originarse posteriormente por el solo hecho de computarse los nuevos valores.
 
 Lo anterior no significa que los créditos pueden computarse por el valor de la obligación original para establecer la procedencia de otorgar un nuevo crédito o novar uno existente. En consecuencia, si se otorga un crédito y con ello nace una nueva obligación del deudor, deben computarse previamente los créditos ya otorgados de la forma indicada en el numeral 3.1 anterior, para determinar si se dispone de margen para concederlo.
 
-Al respecto, conviene tener presente que, en el evento de que no existiere margen suficiente y se otorgare un nuevo crédito, la diferencia entre los límites y el valor de los créditos otorgados, incluidos los intereses, reajustes o variación del tipo de cambio de las deudas anteriores, no representa el monto en que se infringe la ley, sino que éste estaría dado sólo por el valor del nuevo crédito o por una parte de él, según sea el caso. Por el contrario, si la causa que originare la infracción fuere una disminución voluntaria del Oportunidades en que corresponde computar el monto de los créditos, de las garantías y del patrimonio efectivo o una liberación de garantía, esa diferencia debe ser considerada como exceso sujeto a sanción.
+Al respecto, conviene tener presente que, en el evento de que no existiere margen suficiente y se otorgare un nuevo crédito, la diferencia entre los límites y el valor de los créditos otorgados, sumados de acuerdo con lo indicado en el numeral 3.1 precedente, no representa el monto en que se infringe la ley, sino que éste estaría dado sólo por el valor del nuevo crédito o por una parte de él, según sea el caso. Por el contrario, si la causa que originare la infracción fuere una disminución voluntaria del Oportunidades en que corresponde computar el monto de los créditos, de las garantías y del patrimonio efectivo o una liberación de garantía, esa diferencia debe ser considerada como exceso sujeto a sanción.
 
 3.3. Cambios en las condiciones de créditos en moneda extranjera para exportación.
 
@@ -16676,25 +16690,17 @@ b) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando ha
 
 c) Inversiones en instrumentos emitidos por empresas relacionadas adquiridos para negociación o inversión. Al tratarse de bonos provenientes de una securitización, el correspondiente patrimonio separado no se considerará como entidad relacionada aun cuando lo sea la sociedad securitizadora que lo administra, debiendo computarse esos bonos para efectos del artículo 84 N° 2 sólo cuando sus subyacentes sean flujos futuros originados por una empresa relacionada y junto con las demás deudas que ella tuviere.
 
-d) Operaciones de Forward de monedas y de unidades de fomento, las que deben computarse para estos efectos según lo establecido en los Capítulos 13-2, 13-23 y 8-36 de esta Recopilación.
+d) Operaciones con instrumentos derivados.
 
-Cuando se trate de créditos expresados en monedas extranjeras, éstos deben convertirse a moneda local de acuerdo con el tipo de cambio de representación contable establecido por esta Superintendencia.
+Las operaciones señaladas en los literales precedentes se computarán según las reglas establecidas en el Capítulo 12-3 de esta Recopilación para los límites individuales de crédito.
 
-Los montos incluirán, además del capital adeudado, los reajustes e intereses por cobrar que se encuentren registrados en la contabilidad de acuerdo con las instrucciones de esta Superintendencia. Por consiguiente, incluirán los reajustes e intereses registrados tanto en el activo como aquellos que estuvieren anotados en cuentas de orden.
-
-En el caso de los instrumentos que se mantengan en la cartera de inversiones financieras, se considerará el valor par de los respectivos documentos con prescindencia del importe en que éstos se encuentren registrados en la contabilidad.
-
-En todo lo anterior, deben considerarse los créditos vigentes y vencidos y además, cuando corresponda según lo dispuesto en el N° 2 siguiente, los créditos que hayan sido castigados.
+Si se hubieren castigado créditos otorgados a personas relacionadas, éstos se computarán también para los límites de que trata el presente Capítulo, según lo indicado en el N° 2 siguiente.
 
 ### 2. Castigos, remisiones y ventas de créditos
 
 2.1. Cómputo de créditos castigados.
 
 Los créditos a personas relacionadas con la institución financiera que se castiguen, se incluirán durante un período de cuatro años en el monto de la deuda relacionada, de acuerdo a su valor al momento del castigo.
-
-En el caso de la cartera cedida y recomprada al Banco Central de Chile, se tendrá como fecha del castigo la correspondiente a la recompra y se computará por el valor que aquella tenía al readquirirse.
-
-Cuando se trate de créditos rescatados con motivo de la novación de que trata el acuerdo 1953-11-890816 antes señalado, el plazo de cuatro años se contará desde la fecha en que la institución financiera registre el castigo de los respectivos créditos y se considerará el valor registrado en cuentas de orden.
 
 2.2. Remisiones o ventas de créditos.
 
@@ -16924,7 +16930,7 @@ Sobre las definiciones
 
 - Libro de Negociación y Libro de Banca
 
-1. Para los efectos de que trata el numeral 2.1 del Capítulo III.B.2, el Libro de Negociación comprenderá todas las posiciones en instrumentos financieros derivados que no hayan sido designados contablemente como instrumentos de cobertura y a las posiciones en instrumentos financieros no derivados registrados en el activo por su valor razonable, que no contengan cláusulas contractuales que puedan impedir que sean negociados y que: (i) se mantengan en cartera para negociarlos en el corto plazo con el propósito de obtener ganancias provenientes del arbitraje o de fluctuaciones esperadas en los precios o tasas de mercado; o que (ii) formen parte de una cartera de instrumentos que se negocian activa y frecuentemente por el banco.
+1. Para los efectos de que trata el numeral 2.1 del Capítulo III.B.2, el Libro de Negociación comprenderá las posiciones en instrumentos financieros no derivados que, de acuerdo con las normas contables, se encuentren clasificados como "instrumentos para negociación", como asimismo todas las posiciones en instrumentos derivados que no hayan sido designados contablemente como instrumentos de cobertura.
 
 El Libro de Banca comprenderá todas aquellas posiciones en instrumentos financieros derivados y no derivados que no se incluyan en el Libro de Negociación.
 
@@ -17190,11 +17196,7 @@ En todo caso, se entiende que no se incluyen para estos efectos los financiamien
 
 6. Tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados, los flujos correspondientes a los créditos otorgados por el banco considerarán las tasas de renegociación y de mora que normalmente afectan a la cartera.
 
-7. Los instrumentos financieros con mercado secundario o que pueden ser transados con otro banco, cuando no formen parte de la "cartera permanente" de que trata el Capítulo 8-21 de esta Recopilación ni se encuentren entregados en garantía, se incluirán en las bandas temporales según los flujos que se obtendrían al venderlos sin pérdidas, considerando la liquidez y profundidad del mercado en que ellos se transan. Así, en la banda temporal hasta 7 días se incluirá a su valor de mercado a la fecha del cómputo, aquella cartera que pueda ser vendida dentro de ese plazo sin afectar el precio por el hecho de liquidarla en su totalidad.
-
-El mismo criterio se seguirá para asignar los instrumentos en las bandas temporales siguientes, pero su valorización debe considerar los eventuales cambios adversos en las condiciones generales del mercado. Para estos efectos no se consideran entregados en garantía los instrumentos cedidos con pacto, pudiendo por lo tanto incluirse en las bandas temporales en que dichos pactos ya no se encontrarán vigentes.
-
-Lo indicado en este N° 7 se aplicará tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados.
+7. Los instrumentos financieros que no se encuentren entregados en garantía y que correspondan a los clasificados contablemente como instrumentos "para negociación" o "disponibles para la venta", se incluirán en las bandas temporales según los flujos que se obtendrían al venderlos sin pérdidas, considerando la liquidez y profundidad del mercado en que ellos se transan. Así, en la banda temporal hasta 7 días, se incluirá a su valor de mercado a la fecha del cómputo, aquella cartera que pueda ser vendida dentro de ese plazo sin afectar el precio por el hecho de liquidarla en su totalidad.
 
 8. Los instrumentos que no cumplan las condiciones para tratarlos como se indica en el N° 7 precedente, se asignarán en las bandas temporales y por los valores que correspondan a los pagos del emisor, tanto en el caso de plazos contractuales como ajustados.
 
