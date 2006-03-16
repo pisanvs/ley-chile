@@ -1,0 +1,3 @@
+Por decreto exento N° 1.311, de 30 de noviembre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 2, para la obra Construcción Puente Manuel Rodríguez. Camino Lanco - Tripiyante, sector Lanco, X Región, que figura a nombre de Asesorías e Inv. Decisión y Otros, rol de avalúo 325-102, Comuna de Lanco, superficie 428,93 M2. La Comisión de Peritos fijó con fecha 25 de marzo de 2003, en la cantidad de $361.698. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
