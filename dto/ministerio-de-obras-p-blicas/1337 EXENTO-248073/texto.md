@@ -1,0 +1,5 @@
+Por Decreto M.O.P. (Exento) Nº 1337 de 12 de diciembre de 2005, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 3-A y 3-B para la obra: Camino Ruta J-60, Sector Curicó-Iloca, Tramo km.
+
+15,300 a km. 16,18288, que figuran a nombre de Rojas Tapia Miguel, rol de avalúo 31-17 de la comuna de Rauco, VII Región, superficies 1.635 y 127 m2. respectivamente. La Comisión de Peritos fijó con fecha 25 de marzo de 2004, el monto de la indemnización provisional en la cantidad de $163.500.- lote Nº 3-A y $12.700.- lote Nº 3-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
