@@ -1,0 +1,5 @@
+DEJA CONSTANCIA CUMPLIMIENTO REQUISITOS ESTABLECIDOS POR RES. EX. Nº 142, DEL 26.12.2005, SOBRE CAMBIO DE SUJETO DEL IVA EN LOS CONTRATOS DE INSTALACION Y CONFECCION DE ESPECIALIDADES QUE INDICA
+
+La Dirección Grandes Contribuyentes del S.I.I., por Res. Ex. Nº 41 del 1 de marzo de 2006, deja constancia que Productos de Alambre Prodalam S.A., RUT 93.772.000-9, cumple íntegramente los requisitos establecidos por la Res. ex. Nº 142, del 26.12.2005, de la Dirección Nacional de este Servicio, por lo que detenta la calidad de agente retenedor del Impuesto al Valor Agregado, en los contratos de venta de materiales que celebre, cuando a ellos siga un contrato de instalación o confección de especialidades ejecutado por el mismo, y al que se incorporen los productos vendidos. La presente resolución regirá a contar del día primero del mes siguiente al de su publicación, y en forma indefinida.-
+
+Jorge Trujillo Puentes, Director Grandes Contribuyentes.
