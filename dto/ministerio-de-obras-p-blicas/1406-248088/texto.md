@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.406, de 30 de noviembre de 2005, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP Nº 2.089, de 30 de octubre de 1998, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 18, fijada por la comisión de peritos, con fecha 12 de agosto de 1998, ascendente a la cantidad de $674.200.
+
+- Fiscal del Ministerio de Obra Públicas.
