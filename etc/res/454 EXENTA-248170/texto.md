@@ -1,0 +1,3 @@
+Por resolución exenta Nº 454, de 9 de febrero de 2006, de esta Subsecretaría, autorízase a EXPORTADORA E IMPORTADORA DE PRODUCTOS MARINOS LIMITADA para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Campo Santo, Lote Nº 42, comuna de Hualqui, provincia de Concepción, VIII Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
