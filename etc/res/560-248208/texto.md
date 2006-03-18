@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION N° 560, DE 2005
+
+Por resolución N° 560, del 12 de diciembre de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena, se autoriza a "Servicios Automotrices Denham Limitada" para dar inicio, con fecha 13 de diciembre de 2005, a la marcha blanca de su planta de revisión técnica clase AB de la comuna de Puerto Natales, con una (1) línea de revisión liviana y una (1) línea de revisión pesada, correspondiente a la Concesión Uno, la que le fuera adjudicada mediante resolución exenta N° 296, de 6 de octubre de 2004, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena.
+
+- Gustavo Faraldo Iriarte, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena.
