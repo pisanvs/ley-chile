@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION N° 530, DE 2005
+
+Por resolución N° 530, de fecha 29 de noviembre de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y Antártica Chilena, prorrógase en forma extraordinaria la vigencia del contrato de concesión para operar el establecimiento que practica revisión técnica de vehículos clase AB en la ciudad de Porvenir, Región de Magallanes, celebrado con el señor Luis Muñoz Muñoz, de fecha 22 de junio de 1999, aprobado por resolución N° 44/99 y resolución de prórroga N° 0227/04; 0137, del 06.04.2005; 0339, del 29.08.2005; 0390, del 26.09.2005, y 0465, del 28.10.2005, todas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones, hasta que la demanda del servicio de revisión técnica pueda ser adecuadamente satisfecha con la operación de todos o parte de los establecimientos que se concesionaron en la Región de Magallanes y Antártica Chilena, lo que será determinado por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones mediante resolución fundada.
+
+En virtud de esta prórroga se mantienen vigentes las demás estipulaciones, procedimientos, así como las garantías que se contemplan en el contrato que se prorroga, según consta de la convención de prórroga que se acompaña y que forma parte integrante de la presente resolución.
+
+- Gustavo Faraldo Iriarte, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y Antártica Chilena.
