@@ -1,0 +1,3 @@
+Por resolución exenta Nº725, de 28 de febrero de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº388, modificada por resoluciones Nº473 y Nº494, todas de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2005-26 denominado "Evaluación hidroacústica del recurso Anchoveta entre la III y IV Regiones, año 2006", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de marzo de 2006, inclusive.
+
+Valparaíso, 28 de febrero de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
