@@ -1,0 +1,3 @@
+Por resolución exenta Nº 820, de 9 de marzo de 2006, de esta Subsecretaría, autorízase a PESQUERA DEL NORTE S.A. para continuar desarrollando las actividades pesqueras autorizadas a Pacific Fisheries S.A., con la nave "Ligrunn" y con la nave en construcción autorizada mediante resolución Nº 987 de 2004, de esta Subsecretaría, en virtud de la escritura pública y disposiciones legales citadas en la resolución extractada.
+
+Valparaíso, 9 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
