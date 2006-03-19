@@ -1,0 +1,3 @@
+Por resolución exenta Nº 830, de 10 de marzo de 2006, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 353, modificado por resoluciones Nº 531, Nº 702 y Nº 761, todas de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardina en aguas interiores de la X Región", en el sentido de incrementar en 5.000 toneladas el límite máximo del recurso Sardina austral establecido para las embarcaciones artesanales individualizadas en el literal a) del párrafo 1º del citado numeral.
+
+Valparaíso, 10 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
