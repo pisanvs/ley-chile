@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES EXENTAS QUE SE INDICAN, QUE DELEGAN FACULTAD DE RESOLVER SOLICITUDES DE RECONSIDERACION ADMINISTRATIVA Y RECLAMO EN SUBSIDIO, QUE SE PRESENTEN A TRAVES DEL FORMULARIO Nº 2835
+
+1.- Por resoluciones exentas Nºs 426 de 10.03.2006, 260 de 20.02.2006, 23 de 13.03.2006, 313 de 10.03.2006, 1.865 de 07.03.2006, 0348 de 10.03.2006, 71 de 11.03.2006, RES S/N, HACIENDA 1.409 de 10.03.2006, 25 de 13.03.2006, 628 de 10.03.2006, 122 de 10.03.2006, 99 de 14.03.2003, 118 de 28.02.2006, 23 de 10.03.2006, 283 de 10.03.2006 y 1.331 de 10.03.2006, respectivamente, los Directores de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI Direcciones Regionales del Servicio, delegaron la facultad de resolver solicitudes de Reconsideración Administrativa y Reclamo en Subsidio, presentadas por los contribuyentes a través del formulario Nº 2835, en los funcionarios que en cada resolución se indican.
+
+Santiago, 15 de marzo de 2006.- Gina Anastasov Aguilera, Secretaria General, Servicio de Impuestos Internos.
