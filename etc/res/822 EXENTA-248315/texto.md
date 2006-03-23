@@ -1,0 +1,3 @@
+Por resolución exenta Nº 822, de 9 de marzo de 2006, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 687, de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de investigación de Pez espada (Ziphias gladius) en el Pacífico Sur Oriental, año 2006", en el sentido de incorporar a la nave industrial "Tami's II", señal distintiva CB-AJ, del armador pesquero Omega Ltda. en el listado de embarcaciones autorizadas a participar en el marco de la citada pesca de investigación.
+
+Valparaíso, 9 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
