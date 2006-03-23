@@ -1,0 +1,23 @@
+MODIFICA DECRETO Nº 672, DE 1990, EN EL SENTIDO DE REEMPLAZAR EN SU Nº 2, LA CLAUSULA OCTAVA, POR EL NUEVO TEXTO QUE SE INDICA
+
+Núm. 1.162.- Santiago, 20 de octubre de 2005.- Vistos: Lo dispuesto por el D.F.L. Nº 2, de Hacienda, de 2001, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 341, de Hacienda, de 1977, sobre Zonas Francas; lo establecido en la ley Nº 18.846, que Autoriza la Actividad Empresarial del Estado en Materia de Administración y Explotación de la Zona Franca de Iquique; lo dispuesto por la ley Nº 19.827, que Introduce Modificaciones a la Legislación sobre Zonas Francas; el decreto supremo Nº 672, de Hacienda, de 1990, que aprueba el Contrato de Concesión de la Administración y Explotación de la Zona Franca de Iquique, celebrado entre el Estado de Chile y la Sociedad "Zona Franca de Iquique S.A."; el decreto supremo Nº 598, de Hacienda, de 2005, que Autoriza Modificación del Contrato de Concesión de la Administración y Explotación de la Zona Franca de Iquique; demás antecedentes acompañados, y lo dispuesto en el artículo 32 Nº 8, de la Constitución Política de la República de Chile, y
+
+Considerando:
+
+a) Que con la dictación de la ley Nº 19.827, se posibilita la enajenación por la sociedad "Zona Franca de Iquique S.A." de parte de la porción del territorio entregado en concesión que fuere de su propiedad;
+
+b) Que por escritura pública, otorgada en Santiago, a dos de septiembre de 2005, ante Notario Público Nancy de la Fuente Hernández, titular de la Notaría número treinta y siete de Santiago, el Ministro de Hacienda, en representación del Estado de Chile y la Sociedad "Zona Franca de Iquique S.A." modificaron conviniendo en sustituir la Cláusula Octava por el tenor que se indicará en la parte dispositiva y fijaron un texto refundido del Contrato de Concesión de la Explotación de la Zona Franca de Iquique, ya mencionado;
+
+c) Que se hace necesario modificar el decreto supremo Nº 672, de Hacienda, de 1990, en el sentido de reemplazar la Cláusula Octava de dicho contrato, contenida en el Nº 2, Octavo del mencionado decreto supremo, elevada a la calidad de cláusula esencial de ese contrato, por una nueva que contiene todas las normas introducidas al artículo 13 de D.F.L. Nº 341, de Hacienda, de 1977, por el artículo 7º de la referida ley Nº 19.287, del tenor a lo convenido entre las partes, dicto el siguiente,
+
+Decreto:
+
+1.- Modifícase el decreto supremo Nº 672, de Hacienda, de 1990, en el sentido de reemplazar su Nº 2, Octavo, por el siguiente nuevo texto:
+
+"Octavo.- La enajenación por "ZOFRI S.A.", de parte de la porción del territorio entregado en concesión que fuere de su propiedad, deberá ser informada al Ministerio de Hacienda. En todo caso, y sin perjuicio de lo que se indica más adelante, los terrenos deberán seguir destinándose a los fines propios de la zona franca. No obstante lo anterior, a solicitud de "ZOFRI S.A.", la que deberá acreditar la conformidad de los usuarios que pudieran verse afectados, se podrá excluir, mediante decreto supremo expedido a través del Ministerio de Hacienda, del área de zona franca, y en consecuencia de sus beneficios y cargas, determinadas porciones de territorio, en la medida que no se altere el carácter unitario de ésta, según lo dispone el artículo segundo del decreto con fuerza de ley número trescientos cuarenta y uno, de mil novecientos setenta y siete, del Ministerio de Hacienda. El mismo decreto supremo que disponga la desafectación deberá fijar los nuevos deslindes de la zona franca. Dicha desafectación liberará al Estado, respecto del territorio respectivo, de las obligaciones a que se refiere el inciso final del artículo once, de la ley número dieciocho mil ochocientos cuarenta y seis.".
+
+2.- Apruébase el texto Refundido del Contrato de Concesión entre Estado de Chile y "Zona Franca de Iquique S.A." convenido por escritura pública, otorgada en Santiago, a 2 de septiembre de 2005, ante la Notario Público Nancy de la Fuente Hernández, titular de la Notaría número treinta y siete de Santiago, por el Ministro de Hacienda, en representación del Estado de Chile y la sociedad "Zona Franca de Iquique S.A.", cuya copia autorizada se acompaña y que se considera parte integrante del presente decreto.
+
+Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., María Eugenia Wagner Brizzi, Subsecretaria de Hacienda.
