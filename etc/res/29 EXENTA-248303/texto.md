@@ -1,0 +1,7 @@
+FIJA PROCEDIMIENTO Y PLAZOS PARA RECUPERAR LOS MONTOS QUE ESTABLECEN LOS ARTICULOS 1º Y 2º TRANSITORIOS DE LA LEY 20.052 DE 2005
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 29 de 17.03.2006, que establece:
+
+Fija el procedimiento que deberán seguir, el plazo y la documentación que deberán acompañar, para recuperar los impuestos establecidos en los artículos 1º y 2º transitorios de la ley 20.052 de 2005, los propietarios de vehículos motorizados que utilizan gas natural comprimido o gas licuado de petróleo como combustible, comprendidos en la letra a) del artículo 12 del decreto ley Nº 3.063, de 1979, y en los números 1, 2, 3 y 4 de la letra b) del artículo 12 del decreto ley Nº 3.063, de 1979, que hayan pagado en una cuota anual el impuesto señalado, o algunas cuotas por períodos posteriores a la entrada en vigencia de la Ley Nº 20.052, de 2005, y los propietarios de los vehículos que utilicen gas licuado de petróleo como combustible que durante el período desde el 1 de enero de 2002 hasta la entrada en vigencia de lo dispuesto en los numerales 1.- a 4.- del artículo 1º de la Ley 20.052 de 2005, hayan pagado el impuesto establecido en el artículo 1º de la ley Nº 18.502, de conformidad a la tasa aplicable con anterioridad a dicho período.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en marzo de 2006.
