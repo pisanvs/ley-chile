@@ -1,0 +1,5 @@
+Por resolución exenta Nº 882, de 15 de marzo de 2006, de esta Subsecretaría, autorízase a GESAM CONSULTORES LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Línea de base para proyecto de Central Hidroeléctrica Los Cóndores, VII Región".
+
+El objetivo de la pesca de investigación consiste en caracterizar abundancia y distribución de la fauna íctica presente en el área en que se desarrollará el proyecto "Central Hidroeléctrica Los Cóndores". La pesca de investigación se efectuará por el término de dos meses en trece estaciones de muestreo ubicadas en el río Maule, desde Laguna del Maule hasta bocatoma Isla, VII Región. La peticionaria podrá capturar, con devolución, mediante pesca eléctrica, la especie nativa Bagre chico y las especies introducidas Trucha arcoiris y Trucha café. Además, podrá capturar sin devolución 3 ejemplares para realizar análisis complementarios.
+
+Valparaíso, 15 de marzo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
