@@ -1,0 +1,3 @@
+Por resolución exenta Nº 798, de 7 de marzo de 2006, de esta Subsecretaría, modifícase la resolución exenta Nº 4.525 de 2005, de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para realizar operaciones pesqueras de conformidad con lo dispuesto en el artículo 12 transitorio de la ley Nº 18.892, en el sentido de incorporar a la nave fábrica denominada "Betanzos", la que podrá operar en aguas exteriores, por fuera de las líneas de base recta, en las áreas marítimas comprendidas entre los paralelos 44°30' L.S. y 47° L.S. respecto de los recursos y con las obligaciones establecidas en la resolución exenta Nº 797 de 2006, de esta Subsecretaría.
+
+Valparaíso, 7 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
