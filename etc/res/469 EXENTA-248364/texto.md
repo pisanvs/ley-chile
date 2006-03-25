@@ -1,0 +1,5 @@
+Por resolución exenta Nº 469, de 10 de febrero de 2006, de esta Subsecretaría, autorízase a COMPAÑIA MINERA CERRO BAYO LIMITADA para efectuar una pesca de investigación de conformidad con el proyecto "Línea base proyecto Minera Cerro Bayo Limitada, XI Región". El objetivo de la pesca de investigación consiste en caracterizar la composición y abundancia relativa de la comunidad íctica en los cuerpos y cursos de agua del área de influencia de la actividad minera desarrollada por la peticionaria.
+
+La pesca de investigación se efectuará por el término de un año en el área comprendida entre los esteros La Tina y Los Burgos y el lago General Carrera, XI Región. La peticionaria podrá capturar, con devolución, mediante equipos de pesca eléctrica y espinel con anzuelos Nº 6 sin barba, las especies principales nativas Puye, Peladilla y Carmelita; y las especies secundarias introducidas Trucha arcoiris y Trucha café.
+
+Valparaíso, 10 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
