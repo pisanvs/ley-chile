@@ -1,0 +1,3 @@
+Por resolución exenta Nº 832, de 10 de marzo de 2006, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.997, de 2003, modificada por resolución Nº 3.641, de 2004, ambas de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA SAN JOSE S.A. para ampliar actividades pesqueras extractivas con la nave "Don Telésforo" sobre el recurso Alfonsino, en el área marítima correspondiente a la Isla de Pascua, Islas Sala y Gómez, Islas Desventuradas y Archipiélago de Juan Fernández, con arrastre y palangre, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y los demás antecedentes citados en la resolución extractada.
+
+Valparaíso, 10 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
