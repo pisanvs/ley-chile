@@ -1,0 +1,5 @@
+Por resolución exenta Nº861 de 10 de marzo de 2006 de esta Subsecretaría, modifícase la resolución Nº3.287 de 2005, de esta Subsecretaría, que autorizó a la PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluación de ventanas de escape en la pesquería de arrastre de mediagua de merluza de cola", en el sentido de reemplazar en su numeral 10-., la letra a) por la siguiente:
+
+"a) Dos informes de avance, en los meses de marzo y agosto de 2006, respectivamente, los que deberán contener los resultados y datos obtenidos hasta dicha fecha, incluyendo un informe relativo a si las naves autorizadas a operar en el marco de la presente Resolución se ajustaron al diseño operativo determinado por la Universidad."
+
+Valparaíso, 10 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
