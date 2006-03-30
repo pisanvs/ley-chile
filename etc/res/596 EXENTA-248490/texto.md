@@ -1,0 +1,3 @@
+Por resolución exenta Nº596 de 16 de febrero de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº2.220 de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD ARTURO PRAT para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Octopus mimus y Enteroctopus megalocyathus para cultivo experimental", en el sentido de extender el plazo de ejecución de la citada pesca de investigación por un período de 8 meses contados desde la fecha de la presente resolución inclusive.
+
+Valparaíso, 16 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretario de Pesca (S).
