@@ -1,0 +1,3 @@
+Por resolución Nº 805, de 7 de marzo de 2006, de esta Subsecretaría, modifícase el numeral 1.- de la resolución Nº 3.255 de 2005, de esta Subsecretaría, que autorizó a FELIPE RAFAEL CHAVEZ CATEPILLAN para instalar colectores de semillas de mitílidos en el sector sur de Punta Pello, X Región, en el sentido de ampliar su vigencia hasta el 1 de octubre de 2006.
+
+Valparaíso, 7 de marzo de 2006.- Felipe Sandoval Precht, Subsecretario de Pesca.
