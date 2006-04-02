@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº145, de fecha 28 de febrero del 2006, se expropiaron los lotes de terrenos Nos 1-B, 2 y 3, superficies 515, 1.272 y 332 m2 respectivamente, Rol Nº 101-67, comuna de Los Sauces, IX Región para la obra "Camino Ruta R-260, Puente Miraflores, sector Trintre-Miraflores-Los Sauces, tramo Km. 0,000 al Km. 0,570." y se acordó el valor de indemnización con su propietaria Magdalena del Rosario Huaiquil Marimán y Otros, ascendente a la cantidad de $1.611.736.
+
+Fiscal del Ministerio de Obras Públicas.
