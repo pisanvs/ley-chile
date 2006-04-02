@@ -1,0 +1,3 @@
+Por Decreto MOP Nº1.396 de fecha 30 de noviembre del 2005, se expropió el lote de terreno Nº 4-A, superficie 8.250 m2, Rol Nº2204-2, comuna de Chillán, V Región para la obra "Concesión Internacional Ruta 5. Tramo: Talca-Chillán. Sector: Km. 395.800,00 al Km. 400.100,00" y se acordó el valor de indemnización con su propietario José Luis Giner Izquierdo, ascendente a la cantidad de $63.128.813.-
+
+Fiscal del Ministerio de Obras Públicas.
