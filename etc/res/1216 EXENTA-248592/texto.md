@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 1.216, 27 de febrero de 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Lote 6, Pc. 2 Proy. Parc. Vegas de Saldías, Rol de avalúo Nº 257-104, comuna Pinto, superficie aproximada 211 metros cuadrados de terreno dentro polígono y linderos señalados plano expropiación S8R-20.451, de aparente dominio de Carlos Sepúlveda Parada, para ejecución proyecto Planta Elevadora y Estanque de Agua correspondiente al PMB "CCS 1º de Mayo y Otros", en la comuna de Pinto, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por Marisa Perrin Costa, Arquitecta, Gabriel Fernández de la M., Ingeniero Civil, y Santiago Aptecar N., Arquitecto, según informe de fecha 19 de diciembre de 2005, fijó monto provisional indemnización en $874.121.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío. Serviu Región del Bío Bío.
