@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 140 de 28 de febrero de 2006, se expropió el lote de terreno Nº 6-H, superficie 109 m², rol Nº 1535-800, comuna de Los Angeles, para la obra "Mejoramiento Ruta Q-503, Los Angeles - El Peral", VIII Región y se acordó el valor de la indemnización con su propietaria María Cristina Campos Vargas, ascendente a la cantidad de $1.707,520.-
+
+Fiscal del Ministerio de Obras Públicas.
