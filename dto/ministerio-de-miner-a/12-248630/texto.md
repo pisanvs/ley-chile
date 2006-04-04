@@ -1,0 +1,29 @@
+RENUEVA FUNCIONAMIENTO DE LA COMISION TECNICA ASESORA DEL PRESIDENTE DE LA REPUBLICA EN LAS NEGOCIACIONES CON LA ORGANIZACION MUNDIAL DE LA SALUD (OMS) CREADA POR DECRETO Nº 296, DE 1993
+
+Núm. 12.- Santiago, 19 de enero de 2006.- Visto: Los decretos supremos del Ministerio de Minería Nº 296 de 21 de diciembre de 1993, Nº 213 de 12 de septiembre de 1995, Nº 215 de 8 de septiembre de 1997, Nº 125 de 18 de abril de 2000, Nº48 de 10 de abril de 2002 y Nº 23 de 11 de marzo de 2004; el artículo 20 letra b) del decreto ley Nº 1.349 de 1976, cuyo texto refundido, coordinado y sistematizado fuera fijado por el decreto con fuerza de ley Nº 1 de 8 de enero de 1987, del Ministerio de Minería y los Nos 8º, 10º y 17º del artículo 32 de la Constitución Política de la República, y
+
+Considerando:
+
+1. Que por decreto supremo Nº 296 de 21 de diciembre de 1993, del Ministerio de Minería, se creó la Comisión Técnica Asesora (CTA) encargada de colaborar y asesorar al Presidente de la República en las negociaciones que lleva a cabo el Gobierno de Chile con la Organización Mundial de la Salud (OMS) y/o con gobiernos extranjeros u otras organizaciones internacionales para revisar la "Guía sobre Calidad del Agua Potable" emitida por dicho organismo de la Organización de Naciones Unidas (ONU) en lo relativo a los criterios de salud ambientales relacionados con los posibles efectos para la salud que se atribuyen al cobre contenido en el agua potable.
+
+2. Que la estrategia adoptada por la CTA para lograr el reconocimiento del cobre como elemento esencial para la salud humana, condujo a la elaboración de una Guía sobre Principios y Métodos para la Evaluación de Riesgo de los Elementos Traza Esenciales, documento 228 de la serie del Programa Internacional de Seguridad Química (IPCS, 2002), gestionada por el Gobierno de Chile, lo que permitió examinar los efectos de las sustancias que son nutrientes esenciales, entre ellas el cobre, evaluando su nivel menor de riesgo en la salud humana al sobrepasar los umbrales de referencia.
+
+3. Que, con esta evidencia científica se completó exitosamente la Primera Fase de Investigación y negociaciones técnicas internacionales (1993-2004) ligadas a la defensa del cobre en el agua potable, culminando con la Tercera Edición de la Guía sobre Calidad del Agua Potable de la OMS, que clasificó al cobre como seguro para la salud humana -con el valor guía de 2 mg/L- respecto a efectos agudos o gastrointestinales, lo que permitió remover la provisional/dad (p) que mantenía este valor desde el Addendum de la 2º, Guía OMS (1998).
+
+4. Que como recuento de los principales trabajos de investigación efectuados en estos 12 años de trabajo, se han publicado dos libros sobre Cobre, Medio Ambiente y Salud Humana: "Una Conexión Vital, 2003" y "Aportes de la Ciencia, 2005", que explican la complejidad del escenario regulatorio ambiental del cobre y la importancia que representa para Chile la inversión en ciencia e investigación acerca del cobre. Las publicaciones en revistas científicas internacionales hacen evidentes los avances logrados y la pertinencia de seguir investigando con el apoyo de los expertos, lo cual ha sido difundido ampliamente en el sitio Web de la CTA (www.cobre-cta.cl).
+
+5. La nueva Guía OMS (2004) dejó planteadas nuevas interrogantes, para investigar los efectos crónicos del cobre de largo plazo, especialmente en poblaciones sensibles, que son las que pueden llevar a modificar la seguridad del valor de 2 mg/l del cobre, y al mismo tiempo se ha advertido, en distintas instancias internacionales, una gran preocupación por los aspectos regulatorios del cobre asociados al medio ambiente y a los ecosistemas, materias de competencia de la CTA.
+
+6. Que el programa de trabajo de la CTA para un nuevo período contempla el desarrollo de una Segunda Fase de Investigación de Defensa para el Cobre (2005-2010), la cual ha sido iniciada con financiamiento público en los años 2005 y 2006, con una solicitud de recursos a 5 años plazo, en asociación al programa de investigación de la industria mundial del cobre, con universidades y centros científicos nacionales y externos, considerando su mutuo interés en el desarrollo de evidencia científica para responder a las nuevas interrogantes del cobre a nivel mundial, incluyendo entre otras líneas de investigación, posibles biomarcadores de riesgo por déficit o exceso de ingesta de cobre.
+
+7. Que la CTA cuenta con un programa de trabajo para el año 2006 que contempla el fortalecimiento en la defensa y posición científica internacional del tema cobre en sus líneas de investigación, como también con recursos para su funcionamiento en la Ley de Presupuestos del Sector Público para el año 2006.
+
+8. Que así, resulta imprescindible la renovación del funcionamiento de la Comisión Técnica Asesora, creada por decreto supremo Nº 296 de 1993 y prorrogada por los decretos supremos Nº 213 de 1995, Nº 215 de 1997, Nº 125 de 2000, Nº 48 de 2002 y Nº 23 de 2004, publicado en el Diario Oficial el 5 de mayo de 2004, todos del Ministerio de Minería, por el plazo de dos (2) años,
+
+Decreto:
+
+1º Renuévase el funcionamiento de la Comisión Técnica Asesora del Presidente de la República en las negociaciones con la Organización Mundial de la Salud (OMS), creada por decreto supremo Nº 296 de 1993 y prorrogada por los decretos supremos recientemente mencionados, por un nuevo período de dos (2) años.
+
+Tómese razón, regístrese, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Alfonso Dulanto Rencoret, Ministro de Minería.- Cristián Barros Melet, Ministro de Relaciones Exteriores (S).- Pedro García Aspillaga, Ministro de Salud.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Marisol Aravena Puelma, Subsecretaria de Minería.
