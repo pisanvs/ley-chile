@@ -1,0 +1,29 @@
+PROMULGA MODIFICACION AL PLAN REGULADOR COMUNAL
+
+Sección 1ª Núm. 649.- Lo Barnechea, 24 de marzo de 2006.- Visto y teniendo presente: los Acuerdos Nº 1.711 y Nº1.715, adoptados por el Concejo Municipal en sesión ordinaria Nº 452 de fecha 21 de septiembre de 2004; la Memoria Explicativa y Proposición de Texto Resolutivo del proyecto de Modificación al Plan Regulador Comunal denominado "MPRC-LB-03 modificación artículo 11º Red Vial Local: Disminución ancho de vías L13, L19, L25, L26 y L29"; los Ord. Alc. Nºs. 862 a 868 de fecha 10 de noviembre de 2004, suscritos por la Sra. Alcaldesa que informan a los vecinos sobre el proceso de modificación; las publicaciones en el diario El Mercurio de fechas 11 y 18 de noviembre de 2004 que informan lugar y fecha de audiencias públicas y de la exposición del proyecto de enmienda y fecha de término del plazo para formular observaciones; el acta de la Primera Audiencia Pública de fecha 22 de noviembre de 2004, el decreto sección 1ª Nº1.549 de fecha 10 de noviembre de 2004 que cita a sesión extraordinaria a los miembros del Consejo Económico y Social; el Certificado Nº 7 de fecha 9 de febrero de 2005, suscrito por el Secretario Abogado Municipal; la exposición al público entre el día 25 de noviembre de 2004 y 27 de diciembre de 2004; el Certificado Nº 42 de fecha 12 de mayo de 2005, suscrito por el Secretario Abogado Municipal respecto de la Segunda Audiencia Pública; las dos cartas de observaciones de vecinos de fechas 23 y 26 de noviembre de 2004; el decreto sección 1ª, Nº 21 de fecha 11 de enero de 2005 que cita a sesión extraordinaria a los miembros del Consejo Económico y Social; el Certificado Nº 9 de fecha 9 de febrero de 2005, suscrito por el Secretario Abogado Municipal; la resolución exenta Nº 123 de fecha 31 de marzo de 2005, suscrito por la Corema-RM que califica ambientalmente favorable el proyecto; los Ord. Alc. Nºs. 118 y 119 de fecha 10 de febrero de 2005 que informan a los vecinos los Acuerdos Nºs. 1.793 a 1.796 adoptados por el Concejo Municipal en sesión ordinaria Nº 463 de fecha 26 de enero de 2005; el Certificado Nº 40 de fecha 12 de mayo de 2005 que certifica el cumplimiento de los trámites señalados en los incisos segundo al quinto del artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones; el Acuerdo Nº1.834 adoptado por el Concejo Municipal en sesión ordinaria Nº 472 de fecha 3 de mayo de 2005 que aprueba el proyecto; el decreto sección 1ª Nº 948 de fecha 13 de mayo de 2005 que ordena remitir el proyecto a la Seremi-Minvu; el Ord. Alc. Nº029 de 2006 que ingresa el proyecto a la Seremi Minvu para trámite oficial y revisión; el Ord. Seremi Minvu Nº 682 de fecha 24 de febrero de 2006 que informa favorablemente el proyecto; el Acuerdo Nº 2.044 adoptado por el Concejo Municipal en sesión ordinaria Nº 504 de fecha 7 de marzo de 2006 que ordena promulgar la modificación al PRC; lo establecido en los artículos 43 y 45 de la Ley General de Urbanismo y Construcciones y el artículo 2.1.13 de su Ordenanza General, y el uso de las facultades que me confieren los artículos 56 y 63, letra i) de la ley Nº 18.695, Orgánica Constitucional de Municipalidades,
+
+Decreto:
+
+1.- Promúlguese la Modificación al Plan Regulador Comunal de Lo Barnechea conforme a lo siguiente:
+
+#### Artículo 1º
+
+Modifícase la Ordenanza del Plan Regulador Comunal de Lo Barnechea y su plano PRC-LB-2 "Vialidad", aprobados mediante decreto alcaldicio Nº 1.295 de fecha 03.09.02, publicado en el Diario Oficial con fecha 05.09.02, en el sentido de disminuir el ancho entre Líneas Oficiales de la Vía L13 Camino Turístico (El Taihuén) en el tramo Fondos de sitio calle Pedro Jesús Rodríguez - Av. La Dehesa; L19 El Tranque (Manquehue Oriente) en el tramo José Alcalde Délano -
+
+Vía Morada; L25 Pastor Fernández (Camino San Alfonso) en el tramo Plazuela Pastor Fernández - Puente Corral Quemado; L26 Pedro Lira Urquieta en el tramo Camino Los Trapenses Poniente - Camino Los Trapenses Oriente; L29 Santa Blanca en el tramo Camino Los Trapenses - José Alcalde Délano; modificar el tramo propuesto para la vía L13; y redefinir el trazado para la vía L25; según se establece en el texto de la memoria explicativa, ordenanza y plano MPRC-LB-03 láminas 1 a 6, elaborados por la Municipalidad de Lo Barnechea, documentos que forman parte de la presente modificación, conformando un solo cuerpo legal y que, se aprueban por el presente decreto.
+
+#### Artículo 2º
+
+Modifícase la Ordenanza del Plan Regulador Comunal de Lo Barnechea en la siguiente forma:
+
+Modifícase, en el cuadro d.- Vías Locales, Red Vial Local, contenido en el artículo 11° del Título III Vialidad reemplazando las filas para la Vía L13 Camino Turístico (El Taihuén) en el tramo Fondos de sitio calle Pedro Jesús Rodríguez - Av. La Dehesa; L19 El Tranque (Manquehue Oriente) en el tramo José Alcalde Délano -
+
+Vía Morada; L25 Pastor Fernández (Camino San Alfonso) en el tramo Plazuela Pastor Fernández - Puente Corral Quemado; L26 Pedro Lira Urquieta en el tramo Camino Los Trapenses Poniente - Camino Los Trapenses Oriente; L29 Santa Blanca en el tramo Camino Los Trapenses - José Alcalde Délano, por las nuevas filas que a continuación se indican:
+
+VER DIARIO OFICIAL DE 04.04.2006, PÁGINA 5.
+
+2.- La presente modificación al Plan Regulador Comunal de Lo Barnechea se publicará y archivará de conformidad a lo dispuesto en el artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones.
+
+Anótese, comuníquese, publíquese y archívese.- Marta Ehlers Bustamante, Alcaldesa.- José Domingo Sagües López, Secretario Abogado Municipal.
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes.- José Domingo Sagües López, Secretario Abogado Municipal.
