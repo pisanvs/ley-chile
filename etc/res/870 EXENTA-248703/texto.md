@@ -1,0 +1,3 @@
+Por resolución exenta Nº 870, de 14 de marzo de 2006, de esta Subsecretaría, autorízase a AHUMADORA DE SALMONES LIMITADA para continuar desarrollando actividades pesqueras de transformación en una planta ubicada en Puerto Thule, Kilómetro 2,5 por camino Llanquihue a Totoral, Comuna y Provincia de Llanquihue, X Región, autorizadas a Loeper y Otth Limitada del mismo RUT y domicilio, mediante resolución Nº 2.272, de 2000, de esta Subsecretaría, en virtud de la escritura pública y demás normas citadas en Visto.
+
+Valparaíso, 14 de marzo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
