@@ -1,0 +1,7 @@
+MODIFICACION DE AUTO ACORDADO FUNCIONAMIENTO DE LOS JUZGADOS DE FAMILIA
+
+En ejercicio de las facultades económicas de que este tribunal se encuentra investido y de conformidad a lo previsto en el artículo 82 de la Constitución Política de la República y en el artículo 92 Nº 4 del Código Orgánico de Tribunales, se acuerda modificar el Auto Acordado relativo al Funcionamiento de los Juzgados de Familia, fecha 30 de septiembre de 2005, de que da cuenta el Acta Nº 104-2005, en el sentido de incorporar un numeral undécimo del siguiente tenor:
+
+"Undécimo: En cumplimiento de lo dispuesto en el artículo 389 G del Código Orgánico de Tribunales, las funciones propias de ministros de fe se encomiendan al administrativo que haga las veces de encargado de la unidad de administración de causas de los Juzgados de Familia, a quien resultaran aplicables, en lo que fueren pertinentes las disposiciones de Auto Acordado de la Excma. Corte Suprema que da instrucciones sobre funciones de los ministros de fe en Juzgados de Garantía y Tribunales Orales, de siete de diciembre del año dos mil y sus modificaciones de veinticinco de septiembre de dos mil cinco.
+
+Lo que la Secretaria Subrogante de esta Corte Suprema cumple por disposición del señor Presidente.- Carola Herrera Brummer, Secretaria Subrogante.
