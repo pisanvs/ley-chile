@@ -1,0 +1,3 @@
+Por resolución exenta Nº 914, de 27 de marzo de 2006, de esta Subsecretaría, autorízase a INVERSIONES ALIZE CHILE LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Ruta 226, kilómetro 13,7, camino a Las Quemas, Puerto Montt, X Región, donde podrá elaborar en la línea de proceso de cocido, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de marzo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
