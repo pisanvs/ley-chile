@@ -1,0 +1,3 @@
+Por resolución exenta Nº 987, de 3 de abril de 2006, de esta Subsecretaría, autorízase a PESQUERA GRIMAR S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Parque Industrial Escuadrón Sur, manzana A, lote 10, Coronel, VIII Región, donde podrá elaborar en las líneas de proceso de Congelado, Fresco enfriado y Fresco refrigerado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
