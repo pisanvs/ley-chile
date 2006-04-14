@@ -1,0 +1,3 @@
+Por resolución exenta Nº 936, de 29 de marzo de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 76, modificada por resolución Nº 83, ambas de 2006 y de esta Subsecretaría, que autorizó a ACUICOLA DEL NORTE S.A. para efectuar una pesca de investigación y actividades experimentales de conformidad con los Términos Técnicos de Referencia C.I. Subpesca Nº 10509 y 11014, ambos de 2005, en el sentido de incorporar a la embarcación artesanal "Centurión I", matrícula 722 del Puerto de Caldera, al listado de embarcaciones autorizadas a operar en el marco de la presente pesca de investigación.
+
+Valparaíso, 29 de marzo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
