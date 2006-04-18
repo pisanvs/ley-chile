@@ -1,0 +1,3 @@
+Por decreto MOP Nº 182, de 28 de febrero de 2006, se modificó el decreto supremo MOP Nº 1.315, de 21 de noviembre de 2005, que ordenó la expropiación del lote de terreno Nº 66, para el "Proyecto Sistema Américo Vespucio Sur. Ruta 78-Av. Grecia. Sector 4: Acceso Sur a Santiago-Av. Vicuña Mackenna", en sentido que el propietario aparente es Rosa Aguirre Olmos y Otros, y no como en él se señala.
+
+- Fiscal del Ministerio de Obras Públicas.
