@@ -1,0 +1,3 @@
+Por decreto MOP Nº 214, de 20 de marzo de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, lo establecido en el artículo Nº 32 del decreto ley Nº 2.186, de 1978, se dejó sin efecto la expropiación de los lotes de terreno Nºs. 1, 2 y 3, expropiados mediante decreto MOP Nº 1.357, de 28 de noviembre de 2005, por haberse llegado a un acuerdo extrajudicial entre el propietario del terreno y Essan S.A.
+
+Fiscal del Ministerio de Obras Públicas.
