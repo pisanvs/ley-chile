@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.320, de 30 de noviembre de 2005, se expropió el lote de terreno Nº 2, superficie 1.279 m2, rol de avalúo Nº 1214-20, comuna de Ancud para la obra "Camino Ruta 5 Sur sector Bif. Quemchi-Castro, Tramo. Bif. Quemchi-Acceso a Dalcahue, Km. 1.143500,00 al km. 1.65300,00", X Región y se acordó el valor de la indemnización con su propietaria Flora del Carmen Muñoz Muñoz y Otros, ascendente a la cantidad de $1.870.749.
+
+Fiscal del Ministerio de Obras Públicas.
