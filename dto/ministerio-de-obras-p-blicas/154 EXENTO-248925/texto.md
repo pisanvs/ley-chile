@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 154, de fecha 20 de marzo de 2006, se modificó el decreto MOP (exento) N° 1.378, de fecha 30 de diciembre de 2005, se expropió el lote de terreno N° 21-2, superficie 13 m2, Rol N° 9034-8, comuna de San Antonio, para la obra "Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena - Puerto San Antonio. Km. 1.200,00 a Km. 8.211,16", V Región, y se acordó el valor de la indemnización con su propietario Andrés Segundo Montecinos Almarza, ascendente a la cantidad de $417.939.
+
+- Fiscal del Ministerio de Obras Públicas.
