@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 196, de 28 de febrero de 2006, se expropió el lote de terreno Nº 24, superficie 6.234 m2, Rol Nº 1535-81, comuna de Los Angeles, para la obra "Mejoramiento Ruta Q-503, Los Angeles - El Peral", VIII Región, y se acordó el valor de la indemnización con su propietaria Dominga Chavarriga Pérez y Otros, ascendente a la cantidad de $16.407.552.
+
+Fiscal del Ministerio de Obras Públicas.
