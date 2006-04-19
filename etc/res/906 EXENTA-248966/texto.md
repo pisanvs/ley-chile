@@ -1,0 +1,3 @@
+Por resolución exenta Nº906, de 21 de marzo de 2006, de esta Subsecretaría, modifícase el literal e) del numeral 8º de la resolución exenta Nº420 de 2006, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Registro, monitoreo y control del esfuerzo de pesca artesanal en el recurso Raya (Dipturus sp), X Región", en el sentido de incorporar como puerto de acreditación de capturas al puerto artesanal de Ancud (Pudeto), de la X Región.
+
+Valparaíso, 21 de marzo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
