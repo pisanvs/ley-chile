@@ -1,0 +1,3 @@
+Por resolución exenta Nº 986, de 3 de abril de 2006, de esta Subsecretaría, autorízase a OSVALDO RICHARD HENRIQUEZ RIVERA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Luis Orione Nº 920, Quintero, V Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Salado húmedo, Salado seco, Congelado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
