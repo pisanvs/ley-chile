@@ -1,0 +1,3 @@
+Por resolución exenta Nº 989, de 3 de abril de 2006, de esta Subsecretaría, autorízase a SOUTH SEAWEEDS S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Parcela Nº 12, Sector Tambillos, Coquimbo, IV Región, donde podrá elaborar en la línea de proceso de alga seca, el recurso hidrobiológico huiro negro.
+
+Valparaíso, 3 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
