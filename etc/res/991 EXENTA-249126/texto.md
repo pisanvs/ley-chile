@@ -1,0 +1,3 @@
+Por resolución exenta Nº 991, de 3 de abril de 2006, de esta Subsecretaría, autorízase a JORGE FRANCISCO BALLESTEROS DIAZ para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Llau-Llao (rural), comuna de Castro, X Región, donde podrá elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado, congelado, seco salado, ahumado, conserva y alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
