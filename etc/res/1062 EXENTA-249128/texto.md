@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.062, de 17 de abril de 2006, de esta Subsecretaría, rectifíquese la resolución Nº 649 de 2006, de esta Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES Y TRABAJADORAS INDEPENDIENTES, PESCADORES ARTESANALES, ACUICULTORES Y RAMOS SIMILARES DE SOTOMO para instalar colectores de semillas de mitílidos en el Estero Reloncaví, X Región, en el sentido de reemplazar en su numeral 3º la expresión "coordenadas geográficas" por "coordenadas UTM".
+
+Valparaíso, 17 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
