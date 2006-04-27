@@ -1,0 +1,5 @@
+DISPONE PUESTA EN MARCHA DEFINITIVA DE CONCESION TRES A REVISIONES BIO BIO LIMITADA PARA OPERAR EN COMUNA DE TALCAHUANO
+
+Por resolución exenta Nº 88, de 7 de abril de 2006, de la Secretaría Regional Ministerial de la VIII Región del Biobío, se dispuso la Puesta en Marcha Definitiva de la Concesión Tres, adjudicada a "Revisiones Bío Bío Limitada", para operar en la comuna de Talcahuano, una Planta Revisora Clase AB; con cuatro (4), líneas de revisión livianas y dos (2) líneas de revisión pesadas, para operar en la comuna de San Carlos, una Planta Revisora Clase B, con tres (3) líneas de revisión livianas y para operar en la comuna de Los Angeles, una Planta Revisora Clase B, con dos (2) líneas de revisión livianas, a contar del día 08 de abril de 2006.-
+
+Claudio Vásquez Fernández, Secretario Regional Ministerial Transportes y Telecomunicaciones, VIII Región del Biobío.
