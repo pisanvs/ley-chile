@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.048, de 11 de abril de 2006, de esta Subsecretaría, autorízase a CRISTINA LILIAN LOPEZ JUAREZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en manzana 33, sitio 9, La Chimba, Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
