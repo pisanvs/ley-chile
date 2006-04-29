@@ -324,7 +324,9 @@ A requerimiento del interesado, el Director Técnico del establecimiento deberá
 
 #### Artículo 30°
 
-Las prescripciones magistrales u oficinales que contengan drogas de las Listas II y III sólo podrán extenderse y despacharse mediante "receta cheque" y las que contengan drogas de la Lista IV, a través de "receta retenida". Los preparados magistrales que contengan alguno de los siguientes principios activos contenidos en la Lista SALUD,1994 II, no podrán exceder de las cantidades y condiciones que a continuación se indica y que corresponden a una formulación de liberación convencional:
+Las prescripciones magistrales u oficinales que contengan drogas de las Listas II y III sólo podrán extenderse y despacharse mediante "receta cheque" y las que contengan drogas de la Lista IV, a través de "receta retenida".
+
+Los preparados magistrales que contengan alguno de los siguientes principios activos, no podrán exceder de las cantidades y condiciones que a continuación se indica y que corresponden a una formulación de liberación convencional:
 
 Principio Cantidad en mg. Total de unidades
 
@@ -342,7 +344,7 @@ Fentermina 8 hasta 3
 
 Mazindol 1 hasta 3
 
-Eliminado
+Sibutramina 15mg. Hasta 1
 
 Los fármacos anfetaminas y metanfetaminas no podrán prescribirse como anorexígenos en la formulación magistral.
 
@@ -392,9 +394,7 @@ La infracción a las disposiciones del presente reglamento será sancionada por 
 
 #### Artículo 36º
 
-Este reglamento entrará en vigencia sesenta días después de su publicación en el Diario Oficial, fecha en que quedará derogado el decreto supremo 4, de 2 de enero de 1970, del Ministerio de Salud y sus modificaciones, así como toda otra norma, resolución o disposición reglamentaria o administrativa que sea contraria o incompatible con las de este reglamento, tales como las resoluciones 90, de 4 de febrero de 1970; 422, de 20 de mayo de 1971; 7.565, de 27 de noviembre de 1972; 124, de 7 de enero de 1976;
-
-1.324, de 3 de octubre de 1977, todas del Director General de ex Servicio Nacional de Salud, y la 1.707, de 21 de septiembre de 1982, del Director del Instituto de Salud Pública de Chile.
+Este reglamento entrará en vigencia sesenta días después de su publicación en el Diario Oficial, fecha en que quedará derogado el decreto supremo 4, de 2 de enero de 1970, del Ministerio de Salud y sus modificaciones, así como toda otra norma, resolución o disposición reglamentaria o administrativa que sea contraria o incompatible con las de este reglamento, tales como las resoluciones 90, de 4 de febrero de 1970; 422, de 20 de mayo de 1971; 7.565, de 27 de noviembre de 1972; 124, de 7 de enero de 1976; 1.324, de 3 de octubre de 1977, todas del Director General de ex Servicio Nacional de Salud, y la 1.707, de 21 de septiembre de 1982, del Director del Instituto de Salud Pública de Chile.
 
 ## Título V
 
@@ -520,7 +520,7 @@ Las sales de las sustancias enumeradas en esta Lista
 
 y toda sustancia alucinógena o de efectos nocivos
 
-análogos.
+análogos
 
 DROGAS: LISTA II
 
@@ -558,7 +558,7 @@ LEVANFETAMINA 1-alfa-metilfenetilamina
 
 LEVOMETANFETAMINA 1-N,alfa-dimetilfenetilamina
 
-RACEMATO DE METAMFETAMINA (+/-)-N,a-dimetilfenetilamina DS 406,
+RACEMATO DE METAMFETAMINA (+/-)-N,a-dimetilfenetilamina
 
 ANFEPRAMONA
 
@@ -569,6 +569,12 @@ FENPROPOREX dl-3(=(-metilfenil) amino(
 propionitrilo
 
 FENTERMINA =(,=(-dimetilfenetilamina
+
+KETAMINA ±2-(2-clorofenil)-2-
+
+(metilamino)- ciclohexan-
+
+1-ona.
 
 MAZINDOL 5-(p-clorofenil) - 2,5-
 
@@ -692,7 +698,7 @@ DROGAS: LISTA IV
 
 ACECARBROMAL N-acetil-N- bromodietilacetil-urea
 
-ALPRAZOLAM 8-cloro-1-metil-6-feni-4H-s-triazolo Art. 1°,
+ALPRAZOLAM 8-cloro-1-metil-6-feni-4H-s-triazolo
 
 [4,3-a] [1,4] benzodiacepina
 
@@ -943,6 +949,12 @@ QUAZEPAM 7-cloro-5- (2-fluorofenil)-1,3
 -dihidro- 1- (2,2,2-trifluoroetil)
 
 -1,4-benzodiazepina - 2- tiona
+
+SIBUTRAMINA ±1-(4-clorofenil)-N,N-dimetil
+
+-alfa- (2-metilpropil)-
+
+Ciclobutanometanamina.
 
 TEMAZEPAM 7-cloro-1,3-dihidro-3-hidroxi-1-
 
@@ -1227,6 +1239,12 @@ dibenzo [a, d]
 ciclohepteno-5 il)
 
 amino] heptanoico)
+
+KETAMINA ±2-(2-clorofenil)-2-
+
+(metilamino)-
+
+ciclohexan-1-ona.
 
 Las sales de las sustancias enumeradas en esta Lista, siempre que la existencia de esas sales sea posible.
 
@@ -1641,6 +1659,12 @@ metilfenetil)-N-
 (fenilcarbamoil)
 
 sidnona)
+
+SIBUTRAMINA ±1-(4-clorofenil)-N,
+
+N-dimetil-alfa-(2-metilpropil)-
+
+Ciclobutanometanamina.
 
 Las sales de las sustancias enumeradas en esta lista.
 
