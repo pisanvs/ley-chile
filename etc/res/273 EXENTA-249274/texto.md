@@ -1,0 +1,5 @@
+EXTRACTOS DE RESOLUCIONES Nºs. 3.722 Y 3.311, DE 2000, QUE REVOCAN CALIDAD DE AGENTE RETENEDOR DEL IVA A ADMINISTRADORA LAS BRISAS PUERTO VARAS LIMITADA
+
+La XIII Dirección Regional Metropolitana Santiago Centro del SII, por resolución Nº 273 exenta, de fecha 4 de abril de 2006, revoca la calidad de agente retenedor del Impuesto al Valor Agregado al contribuyente Administradora Las Brisas Puerto Varas Limitada, RUT Nº 86.461.700-K, en las ventas de carnes y especies hidrobiológicas, a contar del dia 1º del mes siguiente al de la fecha de la publicación de este extracto en el Diario Oficial, conforme a la facultad delegada en el dispositivo Nº 16 de las resoluciones Nº exenta 3.722, de fecha 28 de julio de 2000, y Nº 3.311, de 30/06/2000, de la Dirección Nacional de este Servicio.
+
+- Hugo Horta Barahona, Director Regional.
