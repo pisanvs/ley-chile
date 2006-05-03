@@ -1,0 +1,3 @@
+Por decreto MOP Nº 249 de fecha 31 de marzo de 2006, se expropió el lote de terreno Nº 4, superficie 9.803 m2, rol Nº 206-54, comuna de Cabrero, para la obra "Concesión Internacional Ruta 5 Tramo Chillán - Collipulli. Sector: Km. 455.700,00 a Km. 459.800,00", VIII Región y se acordó el valor de la indemnización con su propietario Asdrubal Marcial Ramírez Rozas, ascendente a la cantidad de $38.062.598.
+
+- Fiscal del Ministerio de Obras Públicas.
