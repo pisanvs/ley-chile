@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº163 de fecha 31 de marzo de 2006, se expropiaron los lotes de terreno Nºs 2, 3 y 4, superficies 2.213,7, 807,0 y 297,6 m2, rol Nºs 381-144, 381-245 y 381-238, comuna de Pitrufquén, para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, obra Canal California", IX Región y se acordó el valor de la indemnización con su propietario Francisco Segundo Pichun Marican, ascendente a la cantidad de $2.260.924.-
+
+Fiscal del Ministerio de Obras Públicas.
