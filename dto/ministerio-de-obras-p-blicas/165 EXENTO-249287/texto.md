@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº165 de fecha 31 de marzo del 2006, se expropió el lote de terreno Nº 7, superficie 980,1 m2, Rol Nº 381-142, comuna de Pitrufquén, IX Región para la obra "Diseño definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Canal Quinque", y se acordó el valor de indemnización con su propietario Víctor José Brun Muñoz, ascendente a la cantidad de $588.060.-
+
+Fiscal del Ministerio de Obras Públicas.
