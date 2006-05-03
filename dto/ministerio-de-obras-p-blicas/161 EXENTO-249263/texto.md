@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº161, de fecha 31 de marzo del 2006, se expropió el lote de terreno Nº 6, superficie 2.478,8 m2, Rol Nº 381-15, comuna de Pitrufquén, IX Región para la obra "Diseño definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Canal California", y se acordó el valor de indemnización con su propietario Arturo Rupayan Henríquez, ascendente a la cantidad de $1.722.475.-
+
+Fiscal del Ministerio de Obras Públicas.
