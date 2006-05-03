@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 120, de 22 de marzo de 2006, de Serviu Metropolitano, ordenó expropiación parcial, conforme DL Nº 2.186, de 1978, del lote Nº F correspondiente del inmueble ubicado en Avda. Larraín Nº 7255-A, B, C, D, E, F, G, presunto rol de avalúo Nº 4800-79 al 85, comuna de La Reina, aparente dominio de Tapia Aliaga Teresa del Carmen, Jara Núñez Francisca Ruth, Vega Carrasco Claudia Isabel, Coronado Lawson Yelka Patricia, Velasco y Larios Ltda., De Marchena Guzmán María Marcela, Martínez Jara Héctor Hugo. Comisión integrada por peritos Ingrid Von Osten Yáñez, ingeniero civil, Ricardo Strickler Arellano, arquitecto, y Yolanda Aliaga Jofré, constructor civil. Según informe de 6 de enero de 2006, fijó monto provisional indemnización en $23.352.350, pagadera al contado.
+
+- Director Serviu Metropolitano.
