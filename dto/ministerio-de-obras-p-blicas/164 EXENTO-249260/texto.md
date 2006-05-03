@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 164 de 31 de marzo de 2006, se expropió el lote de terreno Nº 215, superficie 1.394 m2., rol de Avalúo 113-29, comuna de Queilén, para la obra "Camino Ruta W-853, Teupa-Queilén, Sector Santa María-Queilén, Tramo Km. 25,96000 a Km. 42,34833", X Región y se acordó el valor de la indemnización con Arsenio Eduardo Alvarez Godoy, ascendente a la cantidad de $625.335.-
+
+Fiscal del Ministerio de Obras Públicas.
