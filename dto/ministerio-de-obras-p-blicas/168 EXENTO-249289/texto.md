@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº168 de fecha 31 de marzo del 2006, se expropió el lote de terreno Nº8, superficie 517,2 m2, Rol Nº 381-141, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Obra Canal Quinque" y se acordó el valor de indemnización con su propietaria María Eduvina Muñoz Bravo, ascendente a la cantidad de $350.320.- para el lote Nº8.
+
+Fiscal del Ministerio de Obras Públicas.
