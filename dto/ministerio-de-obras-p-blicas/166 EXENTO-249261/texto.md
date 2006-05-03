@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 166 de fecha 31 de marzo del 2006, se expropió el lote de terreno Nº 7, superficie 751,8 m2. Rol Nº 381-120, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Obra Canal California", y se acordó el valor de indemnización con su propietario Víctor Huaraleo Marinao, ascendente a la cantidad de $495.451.-
+
+Fiscal del Ministerio de Obras Públicas.
