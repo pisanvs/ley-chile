@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº160 de fecha 31 de marzo de 2006, se expropió el lote de terreno Nº128, superficie 177 m2, rol Nº 352-19, comuna de San Fernando, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector H: Km. 128.400,00 al Km. 140.850,00" VI Región y se acordó el valor de la indemnización con su propietario Graciela Duarte Hernández y Ana Rosa Duarte Hernández., ascendente a la cantidad de $1.472.994.-
+
+Fiscal del Ministerio de Obras Públicas.
