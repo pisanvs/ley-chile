@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.166 de 25 de abril de 2006, de esta Subsecretaría, rectifícase la resolución exenta Nº 1.118 de 2006, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Evaluación del stock de sardina común y anchoveta, zona centro-sur (Regiones VII a X), otoño 2006", en el sentido de reemplazar en el numeral 5º letra a) la embarcación artesanal "Holanda I" por la embarcación artesanal "Tomé".
+
+Valparaíso, 25 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
