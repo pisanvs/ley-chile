@@ -1,0 +1,3 @@
+Por resolución exenta Nº 983, de 3 de abril de 2006, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL IMPORTADORA Y EXPORTADORA ROXANA LIMITADA para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Cardonal Bajo Km. 2,7, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco refrigerado, Congelado, Seco salado, Ahumado, Conserva y Deshidra-tado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
