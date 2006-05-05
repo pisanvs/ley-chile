@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE METLIFE CHILE SEGUROS DE VIDA S.A.
+
+Certifico: Que por resolución exenta Nº 143, de fecha 21 de abril de 2006, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Metlife Chile Seguros de Vida S.A., acordada en junta extraordinaria de accionistas celebrada el 14 de marzo de 2006 y reducida a escritura pública con la misma fecha en la Notaría de Santiago de don José Musalem Saffie, domiciliado en Paseo Huérfanos 770, piso 3.
+
+La reforma consiste en aumentar el capital social de $60.095.968.776 pesos dividido en 10.000 acciones ordina-rias, nominativas, de una sola serie, sin valor nominal, íntegramente suscrito y pagado, a $81.095.968.776 pesos dividido en 11.552 acciones. El aumento de capital se compone de $3.719.939.468 pesos que corresponde a la revalorización del capital propio de los años 2004 y 2005 y un aumento de capital de $17.280.060.532 pesos dividido en 1.552 acciones que deberá ser suscrito y pagado dentro del plazo de tres años contado desde la fecha de la junta. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 21 de abril de 2006.- Carmen Undurraga Martínez, Secretario General.
