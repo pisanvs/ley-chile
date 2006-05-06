@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.120, de 24 de abril de 2006, de esta Subsecretaría, autorízase a Norma Haydee Medina Medina para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta 43, Km. 12, Pan de Azúcar, Coquimbo, IV Región, donde podrá elaborar, en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
