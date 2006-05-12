@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.137, de 24 de abril de 2006, de esta Subsecretaría, autorízase a OSCAR GABRIEL VALDES MUÑOZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Caleta de Hornos s/n, sector quebrada de Los Hornos, IV Región, donde podrá elaborar en la línea de proceso de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
