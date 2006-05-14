@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.038, de 6 de abril de 2006, de esta Subsecretaría, autorízase a MERCEDES MERCINA CARRASCO PINTO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Panamericana Norte Km. 839, Copiapó, III Región, donde podrá elaborar en la línea de proceso de Picado de Alga los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 6 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
