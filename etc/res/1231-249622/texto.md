@@ -1,0 +1,5 @@
+Por resolución Nº 1.231, de 4 de mayo de 2006, de esta Subsecretaría, modifícase la resolución Nº 478, de 2006, de esta Subsecretaría, en el sentido de agregar, en el numeral 4.- de dicha resolución, el siguiente inciso tercero:
+
+"Sin perjuicio de lo anterior, autorízase a PESCA CHILE S.A. para realizar actividades de investigación con la nave "Polarpesca I", en el Area de Ordenación A de la Subárea estadística 48.3, durante la temporada 2005-2006, con un límite de 10 toneladas de Bacalao de profundidad Dissostichus eleginoides, todo ello según lo dispuesto en el numeral 15 de la Medida de Conservación 41-02 (2005) y en la Medida de Conservación 24-01 (2005) de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA)".
+
+Valparaíso, 4 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
