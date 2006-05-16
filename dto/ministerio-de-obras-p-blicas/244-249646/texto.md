@@ -1,0 +1,3 @@
+Por decreto MOP Nº 244, de 31 de marzo de 2006, se expropió el lote de terreno Nº 4, superficie 5.215,1 m2, Rol Nº 381-16, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan", Obra "Canal Quinque" y se acordó el valor de indemnización con su propietaria Nelly Licanqueo Tripailaf, ascendente a la cantidad de $3.409.060.
+
+Fiscal del Ministerio de Obras Públicas.
