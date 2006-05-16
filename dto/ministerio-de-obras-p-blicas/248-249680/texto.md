@@ -1,0 +1,3 @@
+Por decreto MOP Nº 248, de 31 de marzo de 2006, se expropió el lote de terreno Nº 3, superficie 2.124,5 m2, Rol de avalúo Nº 1453-59, comuna de Angol, para la obra "Construcción Puente Vado Buenos Aires, Camino Angol - Fundo Buenos Aires, tramo Km. 0,00000 a Km. 0,58200", Comuna de Angol, IX Región, y se acordó el valor de la indemnización con su propietario Manuel Humberto Villa Muñoz, ascendente a la cantidad de $11.358.185.
+
+Fiscal del Ministerio de Obras Públicas.
