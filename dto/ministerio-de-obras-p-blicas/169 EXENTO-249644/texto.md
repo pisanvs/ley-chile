@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº169, de fecha 31 de marzo de 2006, se modificó el decreto (exento) MOP Nº 273, de fecha 30 de marzo de 2001, en lo que respecta a los párrafos Nºs. 2º y 3º, en el sentido de indicar que el propietario del lote Nº11 es Orfelino del Carmen Vera Villarroel. Se autorizó el convenio de precio y se fijó el monto definitivo de la indemnización de $569.418.-
+
+Fiscal del Ministerio de Obras Públicas.
