@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 163, de 20 de abril de 2006, de Serviu Metropolitano, se ordenó expropiación conforme D.L. Nº2.186, de 1978, del Lote J, correspondiente a parte de los inmuebles ubicados en Avenida Larraín Nos 7371, 7373, 7377, 7379-A, 7379-B, 7379-C, 7379-D y 7379-E, Roles de Avalúo Nº 4800-10, 4800-44, 4800-37, 4800-38, 4800-39, 4800-40, 4800-41 y 4800-42, respectivamente, comuna de La Reina, aparente dominio de Rainer Crisóforo Fuentealba Meier, Ariela Anguita Moreno, Manuel Blanco Vila, Ariela Anguita Moreno, Rodrigo Arjemiro Vines Solato, Marta Silva del Río, Jorge Moscoso Ortiz y Miguel Ángel Díaz Gacitúa, respectivamente. Comisión integrada por peritos señores Patricia Zavala Contreras, constructor civil, Douglas Herrera Flores, constructor civil, y Fernando Merino de la Cerda, arquitecto. Según informe de 10 de octubre de 2005, fijó monto provisional indemnización en $5.412.500, pagadera al contado.
+
+Director Serviu Metropolitano.
