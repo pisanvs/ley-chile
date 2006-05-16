@@ -1,0 +1,3 @@
+Por decreto MOP Nº 246, de fecha 31 de marzo de 2006, se expropió el lote de terreno Nº 14, superficie 6.167,18 m2, Rol Nº 386-212, comuna de Pitrufquén, IX Región, para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan", Obra "Canal Cantarrana" y se acordó el valor de indemnización con su propietario Ignacio Pichún Manque, ascendente a la cantidad de $4.168.145.
+
+Fiscal del Ministerio de Obras Públicas.
