@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.298, de 11 de mayo de 2006, de esta Subsecretaría, déjase sin efecto la resolución Nº 3.904 de 2005, de esta Subsecretaría, que rechazó la solicitud Nº201111719, presentada por CHILE SEAFOOD S.A., para un centro de cultivo ubicado en Canal Ninualac, al norte de la Isla Melchor, XI Región, en virtud de lo dispuesto en el artículo 59 de la ley Nº 19.880.
+
+Valparaíso, 11 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
