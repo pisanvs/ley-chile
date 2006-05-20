@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.121, de 24 de abril de 2006, de esta Subsecretaría, autorízase a FWP S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta 68 Nº 1240, Placilla de Peñuelas, Valparaíso, V Región, donde podrá elaborar en la línea de proceso de Fresco-enfriado, Fresco-refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
