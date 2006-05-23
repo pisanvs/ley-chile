@@ -1,0 +1,5 @@
+REVOCA CALIDAD DE AGENTES RETENEDORES DEL IVA
+
+La XVI Dirección Regional Metropolitana Santiago Sur del Servicio de Impuestos Internos, por resoluciones exentas Nº 1.122 del 07/04/06; Nº 1.919 del 07/04/06, y Nº 1.641 del 28/03/06, revoca por oficio y a contar de la fecha de esta publicación, a los contribuyentes Frigosam S.A., RUT Nº 93.263.000-1; Watt's Alimentos S.A., RUT Nº 92.220.000-9, la calidad de Agentes Retenedores del cambio de sujeto de derecho del Impuesto al Valor Agregado en Productos Silvestres, teniendo en consideración lo dispuesto en la resolución exenta Nº 4.095 del 25/08/2000 y a Viviana Ximena Villarroel Peláez, RUT Nº 6.728.248-5, en las Ventas de Carne, según lo establecido en la resolución exenta Nº 3.722, del 28/07/2000, respectivamente.
+
+- Carmen Gloria Reveco Castillo, Directora Regional XVI D.R.M.S.S.
