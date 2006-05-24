@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.311 de 16 de mayo de 2006 de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº1.252 de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Determinación de la Distribución Espacial de Jurel entre la V y X Regiones, Otoño 2006", en el sentido de indicar que la nave "Libas", del armador South Pacific Korp S.A., sólo podrá ser utilizada como nave reemplazante en caso de que la nave "Malleco" deba abandonar el estudio por fuerza mayor.
+
+Valparaíso, 16 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
