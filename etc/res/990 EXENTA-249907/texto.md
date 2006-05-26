@@ -1,0 +1,3 @@
+Por resolución exenta Nº 990, de 3 de abril de 2006, de esta Subsecretaría, autorízase a GIOVANNA ANDREA NANJARI MASSOGLIA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Bandera Nº 1258, Concepción, VIII Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
