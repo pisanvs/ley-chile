@@ -1,0 +1,7 @@
+TIPO DE CAMBIO A UTILIZAR PARA LA DETERMINACION, EN MONEDA NACIONAL, DE LOS MONTOS POR LOS CUALES SE SOLICITA LA DEVOLUCION IVA EXPORTADOR, POR LOS CONTRIBUYENTES QUE LLEVEN SU CONTABILIDAD Y DECLAREN Y PAGUEN LOS TRIBUTOS EN MONEDA EXTRANJERA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 60, de 23 de mayo de 2006, la cual imparte instrucciones sobre el tipo de cambio a utilizar para la determinación, en moneda nacional, de los montos por los cuales se solicita la devolución IVA Exportador, por los contribuyentes que lleven su contabilidad y declaren y paguen los tributos en moneda extranjera.
+
+Para los fines de lo dispuesto en la Res. Ex. Nº 23 de 2001, los contribuyentes que presenten una solicitud de devolución de "IVA Exportadores", deberán consignar en ésta, en moneda nacional, los montos registrados en moneda extranjera en el respectivo Formulario 29 y en su contabilidad. Para ello, deberán considerar el tipo de cambio observado vigente al último día del mes del período a que se refiere la solicitud. Dicho valor se determinará según publicación efectuada por el Banco Central de Chile, de conformidad al Nº 6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho banco en su reemplazo.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de mayo de 2006.
