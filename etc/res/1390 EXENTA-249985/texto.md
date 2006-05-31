@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.390, de 23 de mayo de 2006 de esta Subsecretaría, modifícase la resolución Nº 1.252, modificada por resolución Nº 1.311, ambas de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Determinación de la Distribución Espacial de Jurel entre la V y X Regiones, otoño 2006", en el sentido de indicar que la nave "Santa María II", del armador Lota Protein S.A., podrá realizar actividades de ecoprospección hasta el día 15 de junio de 2006, inclusive.
+
+Valparaíso, 23 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
