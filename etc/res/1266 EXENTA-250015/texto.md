@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.266, de 8 de mayo de 2006 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Galera Sector B, X Región, individualizada en el artículo 1º numeral 2 del decreto exento Nº 429 de 2004, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES Nº1 DE ISLA DEL REY.
+
+Valparaíso, 8 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
