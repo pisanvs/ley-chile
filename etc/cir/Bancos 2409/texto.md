@@ -2358,9 +2358,9 @@ d) Bonos de la deuda interna y cualquiera otra clase de documentos representativ
 
 e) Bonos y otros valores de renta fija inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
 
-4. Condiciones generales para la venta o cesión de cartera de colocaciones e inversiones financieras.
+4.- Condiciones generales para la venta o cesión de instrumentos financieros.
 
-En las ventas o cesiones de documentos de su cartera de colocaciones o inversiones financieras que realicen los bancos y sociedades financieras deberán cumplirse las siguientes condiciones:
+En las ventas o cesiones de documentos de la cartera de colocaciones o de instrumentos para negociación o inversión, los bancos deberán cumplir las siguientes condiciones:
 
 a) Deben transferirse los títulos completos, salvo que el fraccionamiento del instrumento de que se trate esté permitido en las normas del Banco Central de Chile como excepción a esta regla general. En todo caso, esta obligación de vender o ceder títulos completos no alcanza al fraccionamiento que, en base a posiciones mínimas trasfenbles, se efectúe con valores depositados en una empresa de depósito y custodia de valores de acuerdo con la Ley N° 18.876;
 
@@ -2370,27 +2370,23 @@ c) Los documentos que se vendan o cedan, deben ser de propiedad de la instituci�
 
 d) Las ventas podrán ser: i) definitivas, o, ii) con pacto de retrocompra, con sujeción, en este caso, a las normas del título III de este Capítulo;
 
-e) No podrán transferirse al público documentos de la cartera de inversiones financieras cuyo plazo de vencimiento, contado desde la fecha de venta o cesión, sea inferior a los plazos señalados en el N°1 de este título, esto es, cuatro días hábiles bancarios cuando se trate de alguno de los documentos indicados en el N° 3 del título III de este Capítulo, 30 días corridos para otros documentos no reajustables o reajustables por la variación del dólar de Estados Unidos de América y 90 días corridos cuando correspondan a otros documentos reajustables.
+e) No podrán transferirse al público documentos cuyo plazo de vencimiento, contado desde la fecha de venta o cesión, sea inferior a los plazos señalados en el N°1 de este título, esto es, cuatro días hábiles bancarios cuando se trate de alguno de los documentos indicados en el N° 3 del título III de este Capítulo, 30 días corridos para otros documentos no reajustables o reajustables por la variación del dólar de Estados Unidos de América y 90 días corridos cuando correspondan a otros documentos reajustables.
 
 f) Las cesiones de cartera a empresas securitizadoras deben sujetarse a los límites y demás condiciones establecidos por el Banco Central de Chile en el Capítulo III.B.4 de su Compendio de Normas Financieras.
 
-g) Además de las condiciones señaladas en los literales precedentes y en las otras disposiciones del presente Capítulo, las instituciones deben ajustarse a las normas específicas referidas a la venta o cesión de cartera de colocaciones o inversiones financieras, tratadas en los Capítulos 8-19 y 8-21, respectivamente.
+g) Además de las condiciones señaladas en los literales precedentes y en las otras disposiciones del presente Capítulo, las instituciones deben ajustarse a las normas específicas referidas a la venta o cesión de cartera de colocaciones tratadas en el Capítulo 8-19 de esta Recopilación.
 
 5. Responsabilidad de la institución financiera en el pago de los documentos que venda o transfiera.
 
-La transferencia de documentos de la cartera de colocaciones o inversiones financieras será siempre sin responsabilidad de pago de la institución financiera cedente, salvo que se trate de colocaciones cedidas a empresas bancarias del exterior, excluidas las sucursales y filiales de bancos establecidos en el país, cuando tales colocaciones correspondan a créditos pagaderos en moneda extranjera otorgados a personas domiciliadas y residentes en Chile. En éste caso el banco cedente podrá agregar su responsabilidad de pago, quedando ésta sujeta al límite de avales y fianzas dispuesto en el Capítulo III.1.1 del Compendio de Normas Financieras del Banco Central de Chile, tratado en el Capítulo 8-10 de esta Recopilación.
+La transferencia de documentos será siempre sin responsabilidad de pago de la institución financiera cedente, salvo que se trate de colocaciones cedidas a empresas bancarias del exterior, excluidas las sucursales y filiales de bancos establecidos en el país, cuando tales colocaciones correspondan a créditos pagaderos en moneda extranjera otorgados a personas domiciliadas y residentes en Chile. En éste caso el banco cedente podrá agregar su responsabilidad de pago, quedando ésta sujeta al límite de avales y fianzas dispuesto en el Capítulo III.1.1 del Compendio de Normas Financieras del Banco Central de Chile, tratado en el Capítulo 8-10 de esta Recopilación.
 
 ### 6. Otras disposiciones
 
-6.1.- Captación de recursos en moneda extranjera por las sociedades financieras.
-
-Las sociedades financieras podrán captar recursos en moneda extranjera únicamente cuando el Banco Central de Chile, en uso de sus atribuciones, las autorice para tal efecto.
-
-6.2. Prohibición de ofrecer a los depositantes beneficios diferentes a las tasas de interés y al reajuste.
+6.1. Prohibición de ofrecer a los depositantes beneficios diferentes a las tasas de interés y al reajuste.
 
 Conforme a lo dispuesto en el Capítulo 18-13 de esta Recopilación Actualizada de Normas, a las instituciones financieras no les está permitido ofrecer a sus depositantes ningún otro beneficio apreciable en dinero que no sea el interés y el reajuste en su caso.
 
-6.3. Documentos a nombre de beneficiarios alternativos.
+6.2. Documentos a nombre de beneficiarios alternativos.
 
 Las instituciones financieras deberán abstenerse de emitir documentos en que los beneficiarios estén designados en forma alternativa, en consideración a los problemas de índole civil, tributaria y de interpretación del pago mismo, que pueden producirse especialmente en caso de fallecimiento de alguno de los titulares.
 
@@ -2412,7 +2408,7 @@ Las ventas y compras con pacto de retrocompra deberán cumplir las siguientes co
 
 2.1. Títulos que pueden transferirse con pacto de retrocompra.
 
-Podrán adquirirse o cederse con pacto los mismos documentos que pueden ser adquiridos o cedidos en forma definitiva, según se trate de otra institución financiera o del público. Dichas ventas o compras quedan sujetas, por lo tanto, a las disposiciones establecidas para las ventas y compras de títulos de crédito señaladas en el título II de este Capítulo y en los Capítulos 8-19 y 8-21 de esta Recopilación.
+Podrán adquirirse o cederse con pacto los mismos documentos que pueden ser adquiridos o cedidos en forma definitiva, según se trate de otra institución financiera o del público. Dichas ventas o compras quedan sujetas, por lo tanto, a las disposiciones establecidas para las ventas y compras de títulos de crédito señaladas en el título II de este Capítulo y en el Capítulo 8-19 de esta Recopilación.
 
 Con todo, no podrán venderse con pacto de retrocompra instrumentos de propia emisión.
 
@@ -2474,7 +2470,7 @@ d) Al tratarse de documentos que contienen cupones que venzan dentro del plazo p
 
 a) Operaciones con bancos y sociedades financieras establecidos en el país.
 
-Los instrumentos de la cartera de inversiones financieras que se indican a continuación pueden ser objeto de venta con pacto de retrocompra desde un día hábil bancario cuando el comprador sea otra institución financiera:
+Los instrumentos que se indican a continuación pueden ser objeto de venta con pacto de retrocompra desde un día hábil bancario cuando el comprador sea otra institución financiera:
 
 i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República que se indican en las letras b) y c) del numeral 3.2 del título II de este Capítulo.
 
@@ -2484,9 +2480,7 @@ iii) Bonos de Reconocimiento, Complementos de Bonos de Reconocimiento y Pagarés
 
 iv) Pagarés Reajustables de la Tesorería General de la República, emitidos conforme a la Ley N° 19.568.
 
-v) Otros instrumentos de la cartera de inversiones financieras, pagaderos, expresados o reajustables en moneda extranjera, emitidos por: el Banco Central de Chile, el Estado de Chile o sus instituciones; Estados o bancos centrales extranjeros de países clasificados, al menos, en primera categoría de riesgo; y, organismos internacionales a los Cuales se encuentre adherido el Estado de Chile.
-
-Debe tenerse presente, en todo caso, que las sociedades financieras no pueden participar en estas operaciones cuando se trate de pactos o documentos en moneda extranjera.
+v) Otros instrumentos, pagaderos, expresados o reajustables en moneda extranjera, emitidos por: el Banco Central de Chile, el Estado de Chile o sus instituciones; Estados o bancos centrales extranjeros de países clasificados, al menos, en primera categoría de riesgo; y, organismos internacionales a los Cuales se encuentre adherido el Estado de Chile.
 
 b) Operaciones con el público.
 
@@ -2581,8 +2575,6 @@ Las comisiones que perciban las instituciones financieras por las operaciones de
 6.2.- Garantías de operaciones.
 
 Los importes garantizados de las operaciones de "underwriting" de instrumentos de renta fija se registrarán, mientras no se haga efectiva tal garantía, en la cuenta "Garantía por colocación de instrumentos de renta fija" de la partida 9291.
-
-Cuando se trate de colocación garantizada de acciones, las operaciones se registrarán según lo previsto en el Capítulo 10-2 de esta Recopilación.
 
 ANEXO N° 1
 
@@ -5938,7 +5930,7 @@ N° 3010 "Otros saldos acreedores a la vista (exceptuados los depósitos por con
 
 N° 3015 "Cuentas de depósito a la vista"
 
-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
+N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista.
 
 2.1.2. Depósitos a la orden judicial
 
@@ -5960,7 +5952,7 @@ Estarán afectos a encaje, a la tasa indicada en el numeral 1.2 anterior, las cu
 
 - N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" de que trata el Capítulo 2-7 de esta Recopilación.
 
--N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
+-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo.
 
 2.3. Contenido de la partida 3010 " Otros saldos acreedores a la vista"
 
@@ -6050,7 +6042,7 @@ N° 3010 "Otros saldos acreedores a la vista"
 
 N° 3015 "Cuentas de depósito a la vista"
 
-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
+N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista.
 
 b) Obligaciones a plazo.
 
@@ -6064,7 +6056,7 @@ N° 3035 "Depósitos de ahorro a plazo"
 
 N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" de que trata el Capítulo 2-7 de esta Recopilación.
 
-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo, mencionadas en el Anexo N° 2 del Capítulo 8-21 de esta Recopilación.
+N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo.
 
 3.- Deducción del canje de las obligaciones afectas a encaje.
 
@@ -6184,7 +6176,7 @@ Además, de acuerdo a lo señalado en la ley, se entenderán también como oblig
 
 También quedan comprendidos en estas obligaciones los depósitos a plazo cuyos titulares hayan requerido el retiro anticipado y la entidad depositaria haya consentido en restituirlos antes del vencimiento.
 
-Para determinar el equivalente en pesos de las obligaciones en moneda extranjera comprendidas en las citadas partidas, se aplicará el tipo de cambio de representación contable.
+Para determinar el equivalente en pesos de las obligaciones en moneda extranjera comprendidas en las citadas partidas, se aplicará el tipo de cambio señalado en el N° 11 de este título.
 
 Debe tenerse presente que la obligación impuesta en el artículo 65 de la Ley General de Bancos debe cumplirse diariamente, de manera que los bancas y sociedades financieras deben llevar día a día el cómputo de sus obligaciones afectas, a fin de determinar el monto de éstas por las que deben enterar reserva técnica.
 
@@ -6218,9 +6210,7 @@ Los saldos de dinero efectivo disponibles en caja, en moneda chilena o extranjer
 
 5.1. Saldos en moneda extranjera de caja y de cuentas corrientes mantenidas en el Banco Central de Chile.
 
-Los saldos en billetes y monedas extranjeras, mantenidos en caja, así como los saldos de las cuentas corrientes con el Banco Central de Chile en esas monedas,que las entidades financieras computen para la reserva técnica, serán considerados por su equivalente en moneda chilena calculado al tipo de cambio de representación contable vigente, fijado periódicamente por esta
-
-Superintendencia.
+Los saldos en billetes y monedas extranjeras, mantenidos en caja, así como los saldos de las cuentas corrientes con el Banco Central de Chile en esas monedas,que las entidades financieras computen para la reserva técnica, serán considerados por su equivalente en moneda chilena calculado al tipo de cambio indicado en el N° 11 de este título.
 
 5.2.-Documentos emitidos por el Banco Central de Chile y la Tesorería General de la República.
 
@@ -6261,6 +6251,10 @@ Cuando una institución financiera registre un déficit de reserva técnica, el 
 Cuando una institución financiera, en un día determinado, incurra en déficit de reserva técnica, no podrá diferir para el día hábil bancario siguiente la constitución de la reserva técnica exigida, debiendo proceder, a partir de ese día y hasta que normalice su situación, a constituir la reserva técnica en el curso del mismo día en que se ha producido su exigibilidad.
 
 En caso que el déficit subsista por más de quince días, el directorio de la institución financiera estará obligado a presentar proposiciones de convenio a sus acreedores, de conformidad con lo previsto en el artículo 122 de la Ley General de Bancos. Todo esto sin perjuicio de las facultades de que dispone el Superintendente para designar administrador provisional en la respectiva empresa o para resolver su liquidación.
+
+11.- Tipo de cambio para el cómputo de las obligaciones afectas a encaje y reserva técnica mantenida en moneda extranjera.
+
+En concordancia con lo indicado en el N° 2 del título I del Capítulo 4-1 de esta Recopilación en relación con lo dispuesto en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, el tipo de cambio que debe utilizarse para computar en pesos chilenos las obligaciones en moneda extranjera y los saldos en moneda extranjera que constituyan el encaje mantenido, corresponderá al obtenido de las paridades que, según lo previsto en el N° 6 del Capítulo I de su Compendio de Normas de Cambios Internacionales, publique el Instituto Emisor el último día hábil del mes calendario inmediatamente precedente.
 
 ### II. NORMAS CONTABLES
 
@@ -7708,10 +7702,6 @@ En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse p
 
 Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
 
-Las operaciones reajustables por la variación del dólar deben registrarse en pesos, quedando afectas a las instrucciones contables sobre reajustes contenidas en el título II de este Capítulo, en tanto que las operaciones expresadas en moneda extranjera deben registrarse, cuando no existan normas contables específicas en que se disponga lo contrario, en la respectiva moneda extranjera, siguiendo el criterio de ajustar la cuenta "cambio" o la que haga sus veces, a fin de reconocer el efecto de la variación del tipo de cambio por los descalces entre activos y pasivos en moneda extranjera y utilizando para el efecto el tipo de cambio de representación contable de que trata el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
-
-En todo caso, cabe tener presente que para los efectos de las relaciones que se deben mantener entre las operaciones activas y pasivas según lo dispuesto en el Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 12-9 de esta Recopilación Actualizada de Normas, el margen correspondiente a operaciones en moneda extranjera incluye no sólo aquellas en moneda extranjera o documentadas en moneda extranjera y pagaderas en moneda nacional, sino también las operaciones reajustables por la variación del tipo de cambio.
-
 10.- Información al público.
 
 Las entidades financieras informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la siguiente forma:
@@ -7748,11 +7738,7 @@ Cuando corresponda registrar el reajuste hasta un día no hábil bancario, como 
 
 1.2.- Intereses.
 
-Los intereses devengados para efectos contables deben calcularse de acuerdo con términos pactados en cada operación, considerando sin embargo el equivalente de la tasa de interés de pago vencido en caso de que se pacten operaciones con interés anticipado.
-
-En el caso de las colocaciones en que corresponda determinar la tasa efectiva según lo indicado en el N° 7 del título I de este Capítulo, los intereses devengados se calcularán aplicando esa tasa sobre el capital efectivo.
-
-Al tratarse de documentos de la cartera de colocaciones adquiridos o descontados, como asimismo cuando se trate de instrumentos de la cartera de inversiones financieras, los intereses se devengarán contablemente según lo previsto en los Capítulos 8-19 y 8-21 de esta Recopilación, esto es, de acuerdo con la tasa de descuento que, aplicada sobre los flujos futuros del documento adquirido, iguala el valor presente al momento de la compra, con el valor de adquisición.
+Para efectos del balance, los intereses de las colocaciones se devengarán según la tasa de compra, de acuerdo con lo previsto en el Capítulo 8-19 de esta Recopilación. Los intereses de los instrumentos financieros adquiridos para negociación o inversión se devengarán por el método de la tasa efectiva.
 
 2.- Contabilización de los reajustes e intereses devengados.
 
@@ -8506,11 +8492,11 @@ c) Si el garante de un crédito tiene domicilio en Chile, la parte garantizada n
 
 Quedan sujetos a la constitución de provisiones los siguientes activos u operaciones, debiendo aplicarse los porcentajes a que se refiere el N° 1, sobre los saldos que correspondan, según lo dispuesto en el N° 5 de este título:
 
-3.1- Depósitos e inversiones financieras en el exterior.
+3.1.- Depósitos e instrumentos financieros.
 
-Incluye los depósitos en cuenta corriente u otros depósitos a la vista mantenidos en el exterior, como asimismo todos los instrumentos que constituyen las inversiones financieras, tales como depósitos a plazo, bonos u otros documentos cuyo deudor directo esté domiciliado en el extranjero.
+Incluye los depósitos en cuenta corriente u otros depósitos a la vista mantenidos en el exterior, como asimismo los instrumentos financieros tales como depósitos a plazo, bonos o instrumentos de deuda adquiridos cuyo deudor directo esté domiciliado en el extranjero. Comprende también los instrumentos derivados cuya contraparte esté situada en el exterior y los instrumentos de capital emitidos en el extranjero que no correspondan a inversiones permanentes en sociedades.
 
-No obstante, quedarán libres de provisión por riesgo-país aquellos títulos que se coticen en bolsas oficiales de países clasificados a lo menos en categoría BB- o su equivalente, por alguna de las firmas evaluadoras mencionadas en el Capítulo 1-12 de esta Recopilación, cuando la institución financiera estime que el valor al que hayan ajustado contablemente esas inversiones según lo previsto en el Capítulo 8-21 de esta Recopilación, recoge el efecto de riesgo-país.
+No obstante, quedarán libres de provisión por riesgo-país aquellos títulos que se coticen en bolsas oficiales de países clasificados a lo menos en categoría BB- o su equivalente, por alguna de las firmas evaluadoras mencionadas en el Capítulo 1-12 de la Recopilación Actualizada de Normas.
 
 3.2.- Colocaciones.
 
@@ -8534,9 +8520,9 @@ Los plazos de hasta un año o 180 días a que se refieren los literales preceden
 
 La clasificación internacional indicada en la letra c) , como asimismo la clasificación del país puede referirse a la casa matriz en caso de que el deudor sea una sucursal de un banco situado en otro país.
 
-3.3.- Otros activos.
+3.3.- Otros Activos.
 
-Asimismo, queda afecta a la provisión de que se trata, cualquier otro activo cuya liquidación esté sujeta a un retorno desde el extranjero, tales como: bienes recibidos en pago que deban ser enajenados en el exterior, utilidades reconocidas contablemente en el activo por operaciones con derivados financieros, etc., con la sola excepción de los activos correspondientes a las inversiones permanentes en sociedades y aportes de capital a sucursales en el exterior, incluido el mayor valor pagado en inversiones en sociedades, cuando corresponda.
+Asimismo, queda afecto a la provisión de que se trata, cualquier otro activo cuya liquidación esté sujeta a un retorno desde el extranjero, tales como bienes recibidos en pago que deban ser enajenados en el exterior, con la sola excepción de los activos correspondientes a inversiones permanentes en sociedades y aportes de capital a sucursales en el exterior, incluido el mayor valor pagado en inversiones en sociedades ("goodwill"), cuando corresponda.
 
 4.- Cambios posteriores en la clasificación de un país.
 
@@ -10616,8 +10602,6 @@ OPERACIONES CON DOCUMENTOS DE LA CARTERA DE COLOCACIONES.
 
 ### I. CONSIDERACIONES GENERALES
 
-El N° 4 del artículo 69 de la Ley General de Bancos faculta a las instituciones financieras para descontar letras de cambio, pagarés y otros documentos que representen obligaciones de pago. El N° 6 del mismo artículo, por su parte, permite a las instituciones adquirir, ceder y transferir efectos de comercio con sujeción a las normas que acuerde el Banco Central de Chile.
-
 El presente Capítulo contiene las instrucciones relativas a las adquisiciones o descuentos de documentos de la cartera de colocaciones y a las ventas o cesiones de los mismos, sin perjuicio de las instrucciones generales relativas a las operaciones con títulos de crédito que se señalan en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y que alcanzan tanto a los documentos correspondientes a inversiones como a los de la cartera de colocaciones a que se refiere este Capítulo.
 
 La distinción entre instrumentos de la cartera de inversiones y documentos correspondientes a colocaciones de que trata este Capítulo, debe basarse en las definiciones establecidas en el N° 1 del Capítulo 8-21 de esta Recopilación de Normas.
@@ -10635,10 +10619,6 @@ Las presentes normas alcanzan a cualquier operación mediante la cual la institu
 2. Cumplimiento de las normas generales sobre adquisiciones de títulos de crédito.
 
 Las adquisiciones de efectos de comercio deben ajustarse a las instrucciones del N° 2 del título II del Capítulo 2-1 de esta Recopilación, cuando se trate de instrumentos adquiridos del público que hayan sido emitidos o endosados por alguna institución financiera. Se aplicarán también a las compras de efectos de comercio, en lo que corresponda, las reglas que para la venta de títulos de crédito se indican en ese título n del Capítulo 2-1.
-
-3.- Adquisición de documentos en moneda extranjera.
-
-A las sociedades financieras, les está prohibida la adquisición de cualquier título de crédito en moneda extranjera.
 
 ### III. VENTAS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES
 
@@ -10834,489 +10814,11 @@ Los saldos correspondientes a efectos de comercio adquiridos, con las excepcione
 
 Al tratarse de efectos de comercio adquiridos con responsabilidad del cedente, se considerará como valor contable al 1° de enero de 1992 como si fuera el precio de compra a que se refiere el N° 1 del título V, el importe neto del capital, reajustes, intereses y activo transitorio o pasivo transitorio que se mantuviere registrado, sin afectar, en caso alguno, las cuentas de resultado. Sobre la base del nuevo valor contable así determinado, se devengarán, posteriormente, los intereses y reajustes.
 
-CAPITULO 8-21 (Bancos y Financieras)
-
-MATERIA:
-
-INVERSIONES FINANCIERAS.
-
-### 1. Documentos o valores que constituyen "Inversiones Financieras"
-
-Deben incluirse en el rubro de "Inversiones Financieras", solamente los siguientes documentos o valores:
-
-a) Instrumentos emitidos por el Banco Central de Chile.
-
-b) Documentos emitidos en serie, representativos de obligaciones del Estado de Chile o sus instituciones. Incluye también otros instrumentos emitidos por la Tesorería General de la República, los Bonos de Reconocimiento, los Complementos de éstos y los Pagarés correspondientes a los Bonos de Reparación de la Ley N° 19.980, emitidos por el Instituto de Normalización Previsional.
-
-c) Instrumentos de renta fija inscritos en el Registro de Valores de esta Superintendencia o de la Superintendencia de Valores y Seguros.
-
-d) Documentos emitidos en serie (bonos u otros instrumentos), representativos de obligaciones de Estados, bancos centrales, entidades financieras internacionales y empresas privadas extranjeras en general, que constituyan obligaciones de renta fija. Incluye notas estructuradas que tengan el carácter de instrumentos de inversión, cuando su retorno esté ligado a instrumentos de renta fija.
-
-e) Depósitos a plazo constituidos en bancos o sociedades financieras del país o en entidades financieras del exterior y efectos de comercio adquiridos de terceros, representativos de captaciones de aquellos.
-
-f) Cuotas de fondos mutuos cuyas inversiones estén constituidas sólo por instrumentos de renta fija.
-
-g) Pagarés por conversión de deuda externa chilena y títulos de la deuda externa chilena, adquiridos en la oportunidad en que las normas del Banco Central de Chile permitieron tales operaciones.
-
-Con todo, se excluye de las Inversiones Financieras cualquier documento que se adquiera con la responsabilidad del cedente, distinto del propio emisor, caso en el que debe registrarse en el activo el crédito contra el respectivo cedente o vendedor, de acuerdo con las disposiciones del Capítulo 8-19 de esta Recopilación.
-
-Por otra parte, los instrumentos financieros adquiridos con pacto de retrocompra no se incluirán dentro del rubro de Inversiones Financieras, debiendo tratarse contablemente esas operaciones de la forma prevista en el N° 9 del presente Capítulo.
-
-### 2. Operaciones con instrumentos de la cartera de inversiones financieras
-
-2.1. Inversiones.
-
-2.1.1. Cumplimiento de las normas generales sobre intermediación.
-
-Las compras de instrumentos para la cartera de inversiones financieras deben ajustarse a las instrucciones del N° 2 del título II del Capítulo
-
-2.1 de esta Recopilación, cuando se trate de instrumentos adquiridos del público que hayan sido emitidos o endosados por alguna institución financiera. Se aplicarán también a las compras de instrumentos financieros las reglas que para la venta de títulos de crédito se indican en ese título II del Capítulo 2-1.
-
-Las compras con pacto de retrocompra de instrumentos de esta especie quedan sujetas, además, a las instrucciones contenidas en el título III del citado Capítulo 2-1, debiendo contabilizarse de la forma prevista en el presente Capítulo.
-
-2.1.2.- Inversiones financieras en el exterior.
-
-Las empresas bancarias pueden mantener inversiones financieras en el exterior, con sujeción a las normas del Banco Central de Chile y dentro de los márgenes tratados en el Capítulo 12-3 y en el título II del Capítulo 12-13 de esta Recopilación".
-
-2.1.3.- Adquisición de instrumentos en moneda extranjera.
-
-Las empresas bancarias pueden adquirir instrumentos de la cartera de inversiones financieras pagaderos en alguna moneda extranjera, en tanto se compren con la misma moneda. La prohibición de adquirir efectos de comercio en moneda extranjera cuyos deudores sean otros bancos establecidos en Chile, contenida en la letra d) del N° 3 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, no impide la adquisición de depósitos a plazo en moneda extranjera, pudiendo adquirirse éstos al igual que las letras de crédito y bonos emitidos por otros bancos.
-
-Las sociedades financieras no pueden mantener inversiones financieras en moneda extranjera.
-
-2.2. Venta o cesión de Instrumentos de la cartera de Inversiones financieras.
-
-2.2.1. Cumplimiento de las normas generales sobre Intermediación.
-
-Las ventas o cesiones de instrumentos de la cartera de inversiones financieras deberán ajustarse a las normas generales del título II del Capítulo 2-1 de esta Recopilación.
-
-Las ventas con pacto de retrocompra de instrumentos de la cartera de inversiones financieras se sujetarán a las instrucciones generales contenidas en el título III del citado Capítulo 2-1, debiendo contabilizarse de la forma prevista en el N° 8 del presente Capítulo.
-
-La enajenación de instrumentos mediante préstamos de valores a otra institución financiera en operaciones de ventas cortas, se ajustará a lo indicado en el título IV de ese Capítulo 2-1, debiendo seguirse los criterios de contabilización indicados en el N° 11 del presente Capítulo.
-
-2.2.2. 2.2.2.- Instrumentos o valores de la cartera de inversiones financieras que se pueden vender o ceder a personas distintas a otros bancos o sociedades financieras del país.
-
-Sin perjuicio de las restricciones señaladas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas, las instituciones financieras establecidos en Chile sólo podrán vender a personas diferentes de los bancos o sociedades financieras los siguientes documentos o valores de su cartera de inversiones financieras:
-
-a) Cualquier documento pagadero, a la orden o al portador, con excepción de los documentos que, de acuerdo con las disposiciones del Banco Central de Chile, tengan la calidad de intransferibles o transferibles sólo entre instituciones financieras.
-
-b) Oro sellado chileno o en otra forma, que mantengan en conformidad con lo dispuesto en el Capítulo 8-23 de esta Recopilación.
-
-2.2.3. Instrumentos de la cartera de Inversiones financieras que se pueden vender o ceder a otras instituciones financieras.
-
-Las instituciones financieras pueden vender o ceder a otra institución financiera establecida en Chile, cualquier documento o valor transferible de su cartera de inversiones financieras.
-
-### 3. Definiciones
-
-Para los efectos de las presentes instrucciones se entenderá como:
-
-Tasa de compra: la tasa de interés implícita en el precio de compra, esto es, la tasa interna de retomo (TIR) de la inversión efectuada. Corresponde a la tasa de descuento que, aplicada sobre los flujos futuros, iguala el valor presente al momento de la compra, con el valor de adquisición.
-
-Tasa nominal: la tasa de interés explícita señalada en el título.
-
-Valor nominal: Corresponde al valor inicial del instrumento emitido (capital). Al tratarse de documentos descontables que no tienen tasa nominal (por ejemplo PDBC o PRBC), el valor nominal corresponde al valor final. El valor nominal puede expresarse en unidades de cuenta (por ejemplo Unidades de Fomento) o en pesos según el equivalente de la unidad de reajuste a la fecha del cálculo.
-
-Valor par: el valor presente del instrumento, calculado según su tasa nominal. Por ende, se supone que los documentos que no tienen tasa nominal, carecen de valor par.
-
-Valor contable: valor presente del instrumento calculado según su tasa de compra.
-
-Valor de mercado: corresponde al valor razonable o justo ("fair valué"), esto es, a la cantidad por la cual, a la fecha de la valorización, puede ser intercambiado el instrumento entre un comprador y un vendedor debidamente informados que realizan una transacción libre.
-
-Instrumentos de corto plazo: Los títulos de créditos emitidos con amortización total a no más de un año plazo.
-
-Instrumentos de largo plazo: Los emitidos con amortización total a más de un año plazo.
-
-Instrumentos sin mercado secundario: Los documentos nominativos y las demás inversiones que, conforme a las disposiciones del Banco Central de Chile, son intransferibles o transferibles sólo entre instituciones financieras.
-
-Instrumentos con mercado secundario: Los que pueden ser cedidos por las instituciones financieras a personas naturales o jurídicas diferentes del Banco Central de Chile y de los bancos o sociedades financieras establecidos en el país.
-
-### 4. Criterios de valorización contable
-
-Al cierre de cada mes, las inversiones financieras quedarán registradas en el activo según los siguientes criterios de valorización:
-
-4.1. Valores mobiliarios y efectos de comercio.
-
-Los documentos de la cartera de inversiones financieras consistentes en valores mobiliarios y efectos de comercio quedarán registrados a su valor de adquisición, más los reajustes e intereses devengados sobre ese valor, por el período que medie entre la adquisición y el cierre del respectivo mes.
-
-4.2. Cuotas de fondos mutuos.
-
-Las inversiones en cuotas de fondos mutuos de renta fija que mantengan las instituciones financieras, deberán ajustarse, por lo menos al cierre de cada mes, al valor de rescate que tengan las cuotas el día anterior al ajuste.
-
-La diferencia que se produzca entre el valor de rescate y el valor al cual se encuentra registrada la inversión se tratará como intereses ganados.
-
-5. Reconocimiento de las variaciones en los precios de mercado de los instrumentos con mercado secundario.
-
-Sin perjuicio de que las inversiones quedarán, al cierre de cada mes, registradas en sus respectivas cuentas de acuerdo con el criterio de valorización señalado en el Ns 4 precedente, las instituciones financieras deberán reconocer el efecto de las variaciones en los precios de los instrumentos con mercado secundario de su cartera de inversiones financieras, efectuando los ajustes que correspondan según lo indicado en el numeral 7.4 de este Capítulo.
-
-Para el efecto, las instituciones financieras deberán utilizar los sistemas internos de valorización que consideren más apropiados para estimar el valor de mercado definido en el N° 3 de este Capítulo. La responsabilidad de asegurar permanentemente una correcta valorización de las carteras a su valor justo, deberá recaer en una unidad o área independiente de las unidades negociadoras. Los criterios que la institución financiera elija, deberán aplicarse consistentemente y en cada oportunidad se dejará bien documentada la medición del valor de los instrumentos y carteras que componen las inversiones financieras.
-
-### 6. Provisiones
-
-Las instituciones financieras deben constituir, cuando corresponda, las provisiones señaladas en los Capítulos 8-29, 7-6 y 12-13 de esta Recopilación.
-
-### 7. Tratamiento contable de las compras y ventas definitivas
-
-7.1.- Contenido de las presentes normas.
-
-Las presentes instrucciones se refieren a las compras y ventas definitivas, de contado o a plazo, de instrumentos de la cartera de inversiones financieras, como asimismo a los criterios de valorización contable de la cartera y la forma de reconocer los ajustes a su valor de mercado en los casos que se indican.
-
-En estas normas no se tratan las operaciones a futuro de instrumentos de la cartera de inversiones financieras, ni las operaciones con derivados, en general, cuyos subyacentes estén determinados por instrumentos financieros. La adquisición o cesión de un instrumento al vencimiento de esas operaciones, no difiere del tratamiento general de compras y ventas definitivas, salvo en el hecho de que los instrumentos deben ingresarse a la cartera a su valor de mercado.
-
-7.2. Adquisiciones de instrumentos.
-
-Los instrumentos comprados se ingresarán al activo por el precio efectivamente pagado. En el evento de pactarse un pago a plazo, debe considerarse el valor actual del pasivo que se asume.
-
-En todas las demás operaciones en que se adquieren inversiones financieras, como ocurre al vencimiento de una operación a futuro, en la restitución de documentos en operaciones de ventas cortas o en el evento de canjes o sustituciones, los instrumentos se ingresarán al activo a su valor de mercado, el que corresponderá también al "valor de compra" a que se refieren los numerales siguientes.
-
-En caso de que se opte por incorporar a las inversiones financieras aquellos documentos que se hubieren recibido en pago de deudas a favor de la institución, según lo indicado en el N° 1 del título I del Capítulo 10-1 de esta Recopilación, ellos se ingresarán también a su valor de mercado.
-
-Al tratarse de inversiones en documentos expresados en moneda extranjera pagaderos en moneda chilena, las inversiones se registrarán en pesos, debiendo reajustarse de acuerdo con la variación que experimente el tipo de cambio que se expresa en el respectivo documento.
-
-Las inversiones financieras se informarán en las partidas y cuentas que se indican en el Anexo N° 1 de este Capítulo.
-
-7.3. Reajustes e Intereses.
-
-7.3.1. Disposiciones generales.
-
-El valor de compra de cada instrumento se incrementará por el devengo de los reajustes, cuando proceda, calculados según el tipo de reajustabilidad del documento aplicada sobre el valor de compra, y por los intereses devengados calculados según la respectiva tasa de compra determinada al momento de la adquisición del correspondiente instrumento. Dicha tasa no se podrá compensar con la de otros documentos del mismo tipo y vencimiento.
-
-Cuando se trate de documentos con tasa nominal flotante, se ajustará periódicamente la tasa de compra considerando los nuevos flujos en relación con el valor contable registrado antes de la variación de la tasa nominal.
-
-7.3.2. Cuentas que se utilizarán.
-
-Los reajustes e intereses devengados de las inversiones financieras se cargarán directamente en las cuentas representativas de cada uno de esos activos.
-
-Para registrar los resultados se utilizará una cuenta de intereses y una de reajustes para cada cuenta del activo señalada en el Anexo N° 1 de este Capítulo.
-
-Las cuentas de resultado por intereses y reajustes se incluirán en las siguientes partidas, según corresponda:
-
-a) Para las cuentas de intereses.
-
-Partida 7150 -"Inversiones en documentos fiscales y del Banco Central";
-
-Partida 7155 -"Inversiones en documentos del Banco Central sin mercado secundario";
-
-Partida 7160 -"Inversiones en documentos de otras instituciones financieras del país"; y,
-
-Partida 7165 -"Otras inversiones financieras".
-
-b) Para las cuentas de reajustes.
-
-Partida 7350 -"Inversiones en documentos fiscales y del Banco Central";
-
-Partida 7355 -"Inversiones en documentos del Banco Central sin mercado secundario";
-
-Partida 7360 -"Inversiones en documentos de otras instituciones financieras del país"; y,
-
-Partida 7365 -"Otras inversiones financieras".
-
-7.4. Ajuste mensual a valor de mercado de los instrumentos transables.
-
-7.4.1.- Diferencias con respecto a los valores de mercado que deben reconocerse contablemente.
-
-El importe de los ajustes para reconocer en los resultados las variaciones en los precios de mercado de los instrumentos con mercado secundario, se determinará estableciendo, para cada instrumento, la diferencia positiva o negativa entre su valor contable, esto es, su valor de compra más los reajustes e intereses calculados hasta el cierre del respectivo mes, y su valor de mercado establecido en la forma ya señalada en el N° 5 de este Capítulo.
-
-Para ese efecto, deben considerarse todos los instrumentos susceptibles de ajuste, esto es, todos los que tengan mercado secundario, sea que éstos se encuentren en cartera, registrados en las partidas 1705, 1730, 1710,1725 y 1735, o se trate de documentos vendidos con pacto de retrocompra y estén registrados, por lo tanto, en la partida 1740, según lo establecido en el N° 8 de este Capítulo.
-
-7.4.2.- Ajuste contra los resultados.
-
-Previa reversión de las contabilizaciones efectuadas con este mismo propósito el mes anterior, se procederá a reconocer contablemente las diferencias antes mencionadas en la forma que se describe a continuación, salvo para los instrumentos de la cartera permanente que optativamente puede conformarse según lo previsto en el numeral 7.4.3 siguiente:
-
-a) Las diferencias, en moneda chilena o extranjera, se acreditarán o debitarán en las cuentas "Ajuste a valor de mercado de inversiones no reajustables", "Ajuste a valor de mercado de inversiones reajustables" o "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", según sea el caso, las que formarán parte de la Partida 1750 "Ajuste a valor de mercado de inversiones transables", del rubro de Inversiones Financieras del Activo.
-
-b) Al tratarse de ajustes registrados en moneda chilena, la contrapartida del abono o cargo a las cuentas del activo a que se refiere la letra a) precedente, se hará directamente en la cuenta de resultados "Pérdida neta por ajuste a valor de mercado de inversiones transables", de la Partida 5650 "Ajuste a valor de mercado de inversiones transables", o a la cuenta "Utilidad neta por ajuste a valor de mercado de inversiones transables", de la Partida 7650 "Ajuste a valor de mercado de inversiones transables".
-
-c) La contrapartida del importe que se registre en moneda extranjera en la cuenta "Ajuste a valor de mercado de inversiones registradas en moneda extranjera", se imputará a la cuenta "Conversión ajuste a valor de mercado" de la partida 2510 ó 4510. En seguida se reconocerán los efectos del ajuste en las cuentas de resultado mencionadas en la letra b) precedente, con abono o cargo, según corresponda, a la cuenta "Cambio ajuste a valor de mercado de inversiones", de la partida 4510 ó 2510. Por consiguiente, los resultados por los ajustes a valor de mercado de las inversiones Financieras que se encuentren registradas en moneda extranjera se reconocerán en moneda corriente, pero en el activo quedará imputado el ajuste en la misma moneda en que se registra la inversión.
-
-d) A Fin de que en resultados quede reflejado el efecto neto de los ajustes a valor de mercado de la cartera de las inversiones Financieras, tanto por el ajuste del mes como por la reversión de los ajustes del mes o ejercicio anterior, se efectuará el traspaso que corresponda para reflejar el saldo neto deudor en la cuenta "Pérdida neta por ajuste a valor de mercado de inversiones transables" o el saldo neto acreedor en la cuenta "Utilidad neta por ajuste a valor de mercado de inversiones transables", de manera que una de ellas quedará sin saldo.
-
-7.4.3.- Procedimiento de ajuste para inversiones permanentes.
-
-Para los efectos de las presentes normas se entiende que son permanentes aquellas inversiones que corresponden a documentos que la institución inversionista mantiene con una clara intención de no enajenarlos en el corto plazo.
-
-Cuando las inversiones de esa especie deban ser ajustadas a su valor de mercado según lo previsto en el numeral 7.4.1, las instituciones financieras podrán adoptar, bajo las condiciones que a continuación se indican, la modalidad de ajuste a valor de mercado que luego se describe.
-
-7.4.3.1.- Condiciones para la aplicación de la modalidad de ajuste.
-
-a) Podrán ajustarse siguiendo la modalidad de que se trata, los siguientes instrumentos: pagarés del Banco Central de Chile o de la Tesorería General de la República; documentos del Instituto de Normalización Previsional(INP); instrumentos emitidos por entidades extranjeras o internacionales y letras de crédito emitidas por otros bancos. Además, podrán ajustarse siguiendo esta modalidad los bonos emitidos por empresas chilenas, colocados en el país o en el exterior, que cumplan las siguientes condiciones, i) que el emisor tenga una clasificación de nesgo no inferior a "grado de inversión"; y, n) que se transen en el mercado bursátil nacional y/o en Bolsa de Valores de países que cuenten con una categoría de nesgo soberano no inferior a "AAA" para instrumentos de largo plazo.
-
-b) La institución financiera deberá conformar la cartera que quedará sujeta a este tratamiento contable y que se denominará "cartera permanente". En todo caso, la incorporación de los instrumentos elegidos para esta cartera, no obsta a su eventual enajenación.
-
-c) Los instrumentos que se incorporen a la cartera permanente no podrán ser excluidos posteriormente de ella, debiendo mantenerse dentro de dicha cartera hasta su venta o extinción.
-
-d) El Directorio de la institución deberá acordar la política que en materia de estas inversiones seguirá la empresa.
-
-7.4.3.2.- Forma de contabilización del ajuste para las inversiones permanentes.
-
-Los ajustes a valor de mercado para las inversiones que conforman la cartera permanente según lo indicado precedentemente, se registrarán de la misma forma que se indica en el numeral 7.4.2, con la única diferencia de que los ajustes no se imputarán contra las cuentas de resultados, sino contra la cuenta "Fluctuación de valores de inversiones financieras", de la partida 4350.
-
-Los ajustes se cargarán o abonarán a esa cuenta, según corresponda, previa reversión del saldo que mantenga como consecuencia del ajuste efectuado en el mes precedente.
-
-Los instrumentos que se traspasen a la cartera permanente, esto es, aquellos que se incorporen con posterioridad a su adquisición, deberán ser objeto de un ajuste a su valor contable, debiendo tomarse su valor de mercado y la fecha del traspaso como valor de compra y fecha de compra, respectivamente, para los efectos del devengo posterior de reajustes e intereses y los consiguientes ajustes a valor de mercado bajo la nueva modalidad que le regirá a contar de esa fecha. En ningún caso ese traspaso dará origen a una reversión de los resultados ya registrados hasta la fecha del traspaso por esos conceptos.
-
-7.4.3.3.- Cómputo del capital básico.
-
-Conforme a lo establecido en el Capítulo 12-1 de la Recopilación Actualizada de Normas, el saldo deudor o acreedor de la cuenta "Fluctuación de inversiones financieras" antes mencionada debe computarse para determinar el capital básico.
-
-7.4.3.4.- Sucursales en el exterior.
-
-Para los efectos de consolidación contable con las sucursales en el exterior, la modalidad de contabilización para inversiones permanentes puede ser considerada como un criterio contable homologable.
-
-La cuenta "Fluctuación de valores de inversiones financieras" será utilizada también para reconocer el efecto de la disminución patrimonial directa en el cálculo del Valor Patrimonial Proporcional de las sucursales en el exterior, cuando se homologue el criterio contable de que se trata.
-
-7.5. Resultados por la venta de instrumentos.
-
-Las utilidades o pérdidas que resulten de las ventas definitivas de inversiones financieras corresponderán a la diferencia entre el valor contable a la fecha de la venta y el precio de venta.
-
-Para este efecto, las instituciones que no efectúen un devengo contable diario de reajustes e intereses, podrán considerar el valor contable con los intereses y reajustes devengados sólo hasta el cierre del mes anterior o el valor de compra, si se trata de un instrumento adquirido dentro del mismo mes. Optativamente, para efectos de exposición, podrán efectuarse los traspasos necesarios para que se reflejen en los resultados los intereses y reajustes que se devengaron hasta la fecha de la venta y la utilidad o pérdida que se obtendría al tomar el valor contable hasta esa fecha.
-
-Los resultados por las ventas de inversiones financieras se registrarán en una de las siguientes cuentas, según se trate de utilidad o pérdida y de acuerdo con el tipo de instrumento vendido:
-
-- "Utilidad por venta de documentos emitidos por el Banco Central", de la partida 7610;
-
-- "Utilidad por venta de documentos emitidos por Organismos Fiscales", de la partida 7615;
-
-- "Utilidad por venta de otros valores o documentos", de la partida 7620;
-
-- "Pérdida por venta de documentos emitidos por el Banco Central", de la partida 5610;
-
-- "Pérdida por venta de documentos emitidos por Organismos Fiscales", de la partida 5615; o,
-
-- "Pérdida por venta de otros valores o documentos", de la partida 5620.
-
-### 8. Registro de las ventas con pacto de retrocompra
-
-Las instituciones que vendan instrumentos de su cartera de inversiones financieras con pacto de retrocompra deberán registrar las operaciones en la forma que se señala a continuación:
-
-8.1. Venta y obligación de retrocompra.
-
-a) Por el precio de venta.
-
-Las ventas con pacto de retrocompra de un instrumento financiero se registrarán por el importe efectivamente percibido en la venta, abonando la cuenta del pasivo que corresponda de la partida 3110 ó 3115. Las cuentas que comprenderán estas partidas se detallan en el Anexo N° 2 de este Capítulo.
-
-b) Por los intereses y reajustes.
-
-Las obligaciones de retrocompra registradas en la forma señalada en la letra a) precedente, se tratarán contablemente como las demás captaciones de fondos, es decir, se deberán reconocer, por lo menos al término de cada mes, los reajustes e intereses devengados.
-
-Para ese efecto los intereses se calcularán de acuerdo con la tasa implícita entre el monto percibido en la venta y el monto comprometido a pagar por la recompra, considerando, cuando proceda, el pago de cupones que pudiera producirse durante el período que medie entre la venta y la retrocompra.
-
-Los intereses y reajustes devengados se registrarán, a lo menos al cierre de cada mes, con abono a las respectivas cuentas complementarias de intereses por pagar y reajustes por pagar de las partidas 3110 y 3115, cargando las cuentas de resultado que correspondan de la partida 5145, en el caso de los intereses y, al tratarse de reajustes, de la partida 5345. En el caso de las operaciones cuyo plazo venza dentro del mismo mes en que se efectúa la venta, los intereses y reajustes podrán reconocerse sobre base percibida. Las cuentas que comprenden las partidas 5145 y 5345 antes mencionadas, se detallan en el Anexo N° 2 de este Capítulo.
-
-8.2.- Documentos cedidos.
-
-Para el solo efecto de presentar separadamente en el activo los saldos correspondientes a las inversiones financieras vendidas con pacto, distinguiéndolas de aquellas que están respaldadas por títulos que son de propiedad de la empresa y que no se encuentran comprometidos por pactos de esta naturaleza, los importes correspondientes a los títulos vendidos con pacto de retrocompra se informarán en la cuenta que corresponda de la partida 1740 "Inversiones financieras intermediadas". Las cuentas que forman parte de esta partida se detallan en el Anexo N° 2 de este Capítulo.
-
-### 9. Registro de las compras con pacto de retrocompra
-
-Las compras con pacto de retrocompra se registrarán de acuerdo con las siguientes instrucciones:
-
-9.1. Valor pagado por los documentos adquiridos.
-
-Las compras con pacto se registrarán, por el importe efectivamente pagado, cargando la cuenta que corresponda, según el plazo de la operación, de la partida 1690 "Compra de documentos con pacto de retrocompra a instituciones financieras" o 1695 "Compra de documentos con pacto de retrocompra a terceros". Las cuentas que comprenderán estas partidas se indican en el Anexo N° 2 de este Capítulo.
-
-9.2. Reajustes e Intereses.
-
-Las cuentas del activo de que trata el numeral precedente tendrán el mismo tratamiento contable que las demás colocaciones, debiendo reconocerse los reajustes e intereses devengados por lo menos al cierre de cada mes. Para ese efecto se aplicará la tasa implícita entre el valor pagado por la compra y el monto que se obliga a pagar el vendedor por la retrocompra.
-
-Al tratarse de operaciones que vencen dentro del mismo mes en que se pactan, los intereses y reajustes podrán reconocerse sobre base percibida.
-
-Los intereses y reajustes se registrarán en las cuentas que correspondan de las partidas 7145 y 7345, que se señalan en el Anexo N° 2 de este Capítulo.
-
-9.3. Documentos adquiridos.
-
-Simultáneamente con la contabilización indicada en el numeral 9.1, se registrará, además, el valor nominal de los documentos adquiridos, en la cuenta de orden "Documentos de inversiones financieras adquiridos con pacto" de la partida 9261 "Documentos adquiridos y cedidos con pacto.
-
-9.4. Cumplimiento del pacto.
-
-Al realizarse la venta convenida, se abonarán las cuentas correspondientes a los créditos de que trata el numeral 9.1 anterior y, al mismo tiempo, se revertirán los importes correspondientes de las cuentas de orden mencionadas en el numeral 9.3 precedente.
-
-### 10. Venta de pagarés del Banco Central de Chile con pacto de retroventa
-
-Las operaciones con pacto de retroventa a que se refieren los Capítulos IV.B.8.5 y IV.B.8.6 del Compendio de Normas Financieras del Banco Central de Chile se registrarán conforme a lo siguiente:
-
-a) El importe percibido por la venta se registrará con abono a la cuenta "Operaciones Repos con el Banco Central", que reflejará el compromiso de retrocomprar el instrumento vendido, de la partida 3405. Estas obligaciones se contabilizarán reconociendo los intereses devengados en una cuenta complementaria de acuerdo con las normas generales sobre la materia, con cargo a la respectiva cuenta de la partida 5155.
-
-b) Los importes correspondientes a los documentos vendidos se mantendrán registrados en su cuenta de origen. Por consiguiente, a diferencia de las operaciones con pacto de retro-compra a que se refiere el N° 8 de este Capítulo, en estas operaciones no se efectuará un traspaso a una cuenta de la partida 1740, sin perjuicio del control que necesariamente debe mantenerse por la custodia por cuenta del Banco Central de Chile y restricción de venta de los pagarés durante la vigencia del pacto.
-
-11.- Registro de los préstamos de instrumentos financieros.
-
-11.1.- Adquisición de instrumentos en préstamos.
-
-El prestatario ingresará el documento adquirido, a su valor de mercado, en la cuenta de inversiones financieras que corresponda, reconociéndose un pasivo por la obligación de restitución o pago del instrumento.
-
-La obligación con el prestamista será ajustada durante la vigencia del contrato al valor de mercado del instrumento que se adquirió. Dicho ajuste se hará con cargo o abono a los resultados, según corresponda. En caso de que el instrumento adquirido contemple un pago de cupones durante la vigencia del contrato, ese valor deberá considerar también el correspondiente importe que el adquirente se obliga a pagar.
-
-Para efectos de información a esta Superintendencia, se utilizarán las cuentas de acreedores por préstamos de valores de las partidas 3110 ó 3115; de ajustes de esos pasivos de la partida 5900 ó 7910; y de comisiones pagadas de la partida 5530, mencionadas en el Anexo N° 2 de este Capítulo.
-
-11.2.- Entrega en préstamo de instrumentos.
-
-La institución prestamista dará de baja el instrumento cedido de su cartera de inversiones financieras, registrando el derecho contra la institución financiera prestataria por el valor de mercado del instrumento cedido. El importe registrado en inversiones financieras y su respectivo ajuste a valor de mercado, se solucionarán de la misma forma que una venta del instrumento efectuada al valor de mercado a la fecha de la operación.
-
-El derecho a la restitución o pago contra la institución financiera adquirente, se ajustará, con cargo o abono a los resultados, según corresponda, de la misma forma descrita en el numeral precedente para la obligación que en este caso aquella asume.
-
-No obstante lo anterior, cuando el documento cedido corresponda a uno de la "cartera permanente" y se haya pactado la restitución de un instrumento que se puede reingresar a esa cartera, el ajuste a valor de mercado, excluida la parte que corresponda a los reajustes e intereses que devengaría el instrumento cedido de no mediar la operación, podrá hacerse directamente contra una cuenta de patrimonio, tal como se hacía con el instrumento antes de su cesión.
-
-Para reflejar los saldos por las operaciones de que se trata, se utilizará la cuenta de deudores por préstamos de valores de la partida 1690; de ajuste de ese activo de la partida 7910 ó 5900; y de comisiones ganadas de la partida 7530, mencionadas en el Anexo N° 2 de este Capítulo.
-
-ANEXO N° 1
-
-CUENTAS PARA LAS INVERSIONES FINANCIERAS.
-
-Código
-
-1735 000 00 OTRAS INVERSIONES FINANCIERAS
-
-1735 101 00 Letras de crédito de propia emisión.
-
-1735 103 00 Bonos o debentures.
-
-1735 104 00 Inversiones en oro.
-
-1735 105 00 Cuotas de fondos mutuos de renta fija.
-
-1735 199 00 Otras inversiones financieras.
-
-NOTA: Las cuentas para registrar los instrumentos cedidos con pacto de retrocompra se indican en el Anexo N° 2 de este Capítulo.
-
-> **Nota.** La letra C, de la Circular 2935, SBIF, promulgada, el 11.05.1998, elimina, en el presente Anexo, la cuenta "Inversiones no deducibles de encaje".
-
-ANEXO N°2
-
-CUENTAS PARA LAS OPERACIONES CON PACTO DE RETROCOMPRA Y PARA PRESTAMOS DE VALORES (VENTAS CORTAS)
-
-A) CUENTAS DEL ACTIVO.
-
-Para las compras con pacto: ANEXO CAPITULO 8 21 -21
-
-CUENTAS PARA LAS OPERACIONES CON PACTO DE RETROCOMPRA Y PARA PRESTAMOS DE VALORES (VENTAS CORTAS)
-
-A) CUENTAS DEL ACTIVO.
-
-Para las compras con pacto:
-
-1690 003 00 Créditos por operaciones con pacto.
-
-1695 003 00 Créditos por operaciones con pacto
-
-Para los préstamos de documentos a otras instituciones financieras:
-
-1690 004 00 Deudores por préstamos de valores.
-
-Para los títulos cedidos en als ventas con pacto:
-
-1740 101 00 Documentos con mercado secundario.
-
-1740 102 00 Documentos sin mercado secundario.
-
-Estas cuentas corresponden a las partidas 1690 "Créditos por intermediación de documentos con otras instituciones financieras", 1695 "Créditos por intermediación de documentos con terceros." y 1740 "Inversiones financieras intermediadas".
-
-B) CUENTAS DEL PASIVO.
-
-Código
-
-Para las ventas con pacto:
-
-3110 103 00 Obligaciones de retrocompra - exentas de encaje.
-
-3110 105 00 Obligaciones de retrocompra - afectas al encaje para operaciones a plazo.
-
-3115 103 00 Obligaciones de retrocompra - exentas de encaje.
-
-3115 105 00 Obligaciones de retrocompra - afectas al encaje para operaciones a plazo.
-
-Para los préstamos de valores:
-
-3110 106 00 Acreedores por préstamos de valores - exentas de encaje.
-
-3110 107 00 Acreedores por préstamos de valores - afectas al encaje para operaciones a la vista.
-
-3110 108 00 Acreedores por préstamos de valores - afectas al encaje para operaciones a plazo.
-
-3115 106 00 Acreedores por préstamos de valores - exentas de encaje.
-
-3115 107 00 Acreedores de préstamos de valores - afectas al encaje para operaciones a la vista.
-
-3115 108 00 Acreedores por préstamos de valores - afectas al encaje para operaciones a plazo.
-
-Estas cuentas corresponden a las partidas 3110 "Obligaciones por intermediación de documentos con otras instituciones financieras" y 3115 "Obligaciones por intermediación de documentos con terceros".
-
-C) CUENTA DE PATRIMONIO.
-
-Para los ajustes de la cuenta deudores por préstamos de valores correspondientes a derechos sobre títulos de "cartera permanente":
-
-Código
-
-4350 003 00 Ajuste de cuenta deudores por préstamos de valores.
-
-D) CUENTAS DE INGRESOS.
-
-Código
-
-Para los intereses y reajustes de las operaciones de compra con pacto:
-
-7145 001 00 Intereses ganados por compras con pacto a Instituciones Financieras.
-
-7145 002 00 Intereses ganados por compras de pacto a terceros.
-
-7345 001 00 Reajustes ganados por compras con pacto a Instituciones Financieras.
-
-7345 002 00 Reajustes ganados por compras con pacto a terceros.
-
-Para los ajustes de las cuentas por préstamos de valores
-
-7910 013 00 Ajuste de cuenta deudores por préstamos de valores.
-
-7910 014 00 Saldo acreedor por ajuste de cuentas acreedores por préstamos de valores.
-
-Para las comisiones ganadas por préstamos de valores.
-
-7530 029 00 Comisiones pagadas por préstamos de valores.
-
-Estas cuentas corresponden a las partidas 7145 "Operaciones de compra con pacto de retrocompra", 7345 "Operaciones de compra con pacto de retrocompra", 7530 "Otras comisiones" y 7910 "Otros ingresos de operación".
-
-E) CUENTAS DE GASTOS.
-
-Código
-
-Para los intereses y reajustes de las obligaciones de retrocompra:
-
-5145 005 00 Intereses pagados por ventas con pacto a instituciones financieras.
-
-5145 006 00 Intereses pagados por ventas con pacto a terceros.
-
-5345 005 00 Reajustes pagados por ventas con pacto a instituciones financieras.
-
-5345 006 00 Reajustes pagados por ventas con pacto a terceros.
-
-Para los ajustes de las cuentas por préstamos de valores:
-
-5900 006 00 Ajuste de cuentas acreedores por préstamos de valores.
-
-5900 007 00 Saldo deudor por ajuste de cuenta deudores por préstamos de valores.
-
-Para las comisiones pagadas por préstamos de valores:
-
-5530 014 00 Comisiones ganadas por préstamos de valores.
-
-Estas cuentas corresponden a las partidas 5145 "Obligaciones por pactos de retrocompra", 5345 "Obligacioens por pactos de retrocompra", 5530 "Otras comisiones" y 5900 "Otros gastos de operación".
-
-F) CUENTAS DE ORDEN.
-
-Para los títulos adquiridos con pacto:
-
-Código
-
-9261 001 00 Documentos de inversiones financieras adquiridos con pacto.
-
-9261 002 00 Documentos de colocaciones adquiridos con pacto.
-
-Estas cuentas corresponden a la partida 9261 "Documentos adquiridos y cedidos con pacto.
-
 CAPITULO 8-26 (Bancos y Financieras)
 
 MATERIA:
 
-CARTERA VENCIDA. TRATAMIENTO DE COLOCACIONES E INVERSIONES FINANCIERAS VENCIDAS.
+CARTERA VENCIDA. TRATAMIENTO DE COLOCACIONES VENCIDAS.
 
 ### 1. Colocaciones e intereses por cobrar vencidos
 
@@ -12185,90 +11687,6 @@ De conformidad con lo dispuesto en el artículo 12 de la Ley N° 19.360, los act
 13.- Registro de las operaciones.
 
 El registro de las operaciones acogidas a este sistema, a que se refiere el inciso final del artículo 10 de la Ley N° 19.360, se cumplirá mediante la habilitación en la contabilidad de la institución de cuentas especiales destinadas exclusivamente a registrar los importes de los dividendos prorrogados y las obligaciones con la Tesorería General de la República por los refinanciamientos obtenidos, debiendo mantenerse información pormenorizada para generar en forma expedita tanto las nóminas para la Tesorería General de la República, como la información que les pueda solicitar esta Superintendencia en relación con los créditos acogidos, refinanciamientos obtenidos y movimientos y saldos de las respectivas colocaciones y obligaciones.
-
-CAPITULO 8-36 (Bancos y Financieras)
-
-MATERIA:
-
-FORWARD UNIDADES DE FOMENTO-PESOS.
-
-### 1. Operaciones Forward en Unidades de Fomento
-
-Los bancos y las sociedades financieras que celebren contratos a futuro (Forward), en los que se pacte un valor en pesos para la unidad de fomento a una fecha futura, deben sujetarse a lo dispuesto en el Capítulo III.D.1 del Compendio de Normas Financieras del Banco Central de Chile y en este Capítulo. Estos contratos pueden celebrarse entre una institución financiera con otra o entre una institución financiera y un tercero.
-
-### 2. Condiciones de los contratos
-
-Las operaciones Forward UF-Pesos de que se trata deben constar en un contrato celebrado entre la institución financiera y la otra parte contratante, en el que se debe estipular, a lo menos, lo siguiente:
-
-- **a)** el monto contratado en la operación, tanto en unidades de fomento como en pesos;
-
-- **b)** las fechas de inicio y vencimiento del contrato; y
-
-- **c)** el valor pactado de la unidad de fomento para la fecha de vencimiento.
-
-En los contratos deberá quedar expresamente señalado si los derechos contenidos en éstos tendrán el carácter de transferibles o intransferibles.
-
-Las partes contratantes podrán convenir libremente las eventuales garantías destinadas a caucionar el cumplimiento de los contratos.
-
-Durante la vigencia del contrato las partes podrán, de común acuerdo, modificar los montos pactados, el valor de la unidad de fomento convenido para el vencimiento del contrato y la fecha de vencimiento.
-
-### 3. Instrucciones contables
-
-Para los efectos de las presentes normas contables, a una operación con contratos Forward UF-Pesos se le denominará "Forward en UF-Pesos comprados" o "Forward en UF-Pesos vendidos", según el tipo de obligación que asume la institución financiera que la registra, esto es, si en un sentido figurado tiene la calidad de "compradora" o "vendedora" de la cantidad de Unidades de Fomento acordada. Se le llama entonces "Forward en UF-Pesos comprados" al caso en que la institución financiera pacta el derecho a percibir el mayor valor que tenga la Unidad de Fomento por sobre el precio pactado y se obliga a pagar la diferencia si el valor de la U.F. resulta menor que ese precio. En cambio, se le denomina "Forward UF-Pesos vendidos" a la operación en que la institución financiera asume la posición contraria en el contrato, esto es, se obliga a pagar el mayor valor que tenga la Unidad de Fomento sobre el precio acordado y tiene derecho a percibir la diferencia cuando el valor de la U.F. sea menor.
-
-El contrato Forward UF-Pesos será registrado de la siguiente forma, según el caso:
-
-3.1. Celebración de los contratos.
-
-a) Forward UF-Pesos comprados.
-
-Debe: - "Forward UF-Pesos comprados", de la partida 2127, por el equivalente del importe pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato.
-
-- "Pérdidas diferidas por Forward UF-Pesos", de la partida 2127, por la diferencia entre el equivalente del monto en unidades de fomento antes mencionado y el valor en pesos pactado a futuro.
-
-Haber: - "Acreedores por Forward UF-Pesos", de la partida 4127, por el monto en pesos pactado en el contrato.
-
-b) Forward UF-Pesos vendidos.
-
-Debe: - "Deudores por Forward UF-Pesos", de la partida 2127, por el monto en pesos pactado a futuro en el contrato.
-
-Haber: - "Forward UF-Pesos vendidos", de la partida 4127, por el equivalente del importe pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato.
-
-- "Utilidades diferidas por Forward UF-Pesos", de la partida 4127, por la diferencia entre el equivalente del monto en unidades de fomento y el valor en pesos pactado a futuro.
-
-3.2. Ajustes mensuales.
-
-Al término de cada mes se traspasarán linealmente los importes registrados por cada contrato en las cuentas "Pérdidas diferidas por Forward UF-Pesos" y "Utilidades diferidas por Forward UF-Pesos", a las cuentas "Forward UF-Pesos comprados" y "Forward UF-Pesos vendidos", respectivamente, en forma proporcional al tiempo transcurrido desde la fecha en que se haya celebrado el respectivo contrato en relación con su plazo pactado. A continuación se ajustará el saldo de la cuenta "Forward UF-Pesos comprados" y "Forward UF Pesos vendidos", de acuerdo con el valor que la Unidad de Fomento tenga el último día del mes, con cargo a la cuenta "Pérdidas por Forward UF-Pesos", de la partida 5900, o con abono a la cuenta "Utilidades por Forward UF-Pesos", de la partida 7910, según corresponda.
-
-3.3. Vencimiento de los contratos.
-
-a) Forward UF-Pesos comprados.
-
-Debe: - "Acreedores por Forward UF-Pesos".
-
-- "Caja" o la cuenta que corresponda por la recepción de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
-
-Haber: - "Forward UF-Pesos comprados".
-
-- "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
-
-b) Forward UF-Pesos vendidos.
-
-Debe: - "Forward UF-Pesos vendidos".
-
-- "Caja" o la cuenta que corresponda por la recepción de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
-
-Haber: - "Deudores por Forward UF-Pesos".
-
-- "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el valor en pesos pactado a futuro y el equivalente del monto en unidades de fomento al valor que dicha unidad tenga en la fecha de vencimiento del contrato, cuando proceda.
-
-### 7. Límites
-
-Los contratos Forward UF-Pesos estarán afectos a los límites de que trata el artículo 84 N° 1 de la Ley General de Bancos, por la diferencia entre el equivalente del monto pactado en unidades de fomento, al valor que dicha unidad tenga en la fecha de celebración del contrato, y el importe en pesos pactado a futuro, que sea de cargo de los respectivos obligados. No obstante, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
-
-En todo caso, las operaciones antes mencionadas que realicen las instituciones financieras, registradas en las partidas 2127 y 4127, quedan sujetas al margen para operaciones activas y pasivas a que se refiere el título III del Capítulo 12-9 de esta Recopilación. 4.2. Cómputo para efectos de límites de obligaciones.
-
-Para el cómputo de las obligaciones de las instituciones financieras de que trata el segundo párrafo del numeral 7.1 precedente, las diferencias de su cargo se mantendrán registradas en la cuenta "Endeudamiento por Forward UF-Pesos", de la partida 9700.
 
 CAPITULO 8-37 (Bancos y Financieras)
 
@@ -14363,18 +13781,6 @@ a) La venta de las acciones debe realizarse en un mercado secundario formal, est
 b) Las acciones que no sean enajenadas dentro del plazo previsto en la ley, deberán ser castigadas contablemente.
 
 c) La institución financiera que aún mantenga acciones después de vencido el plazo, incurrirá en una multa equivalente al 10% del valor de adquisición actualizado de las mismas, por cada mes calendario que transcurra después de vencido el plazo, sin que se hayan enajenado. Ese valor de adquisición actualizado corresponderá al que se obtenga de aplicar, al valor de adquisición el porcentaje de variación del índice de precios al consumidor entre el primer día del mes anterior al de la adquisición y el último día del mes anterior al que corresponde dicho valor actualizado.
-
-5.- Instrucciones contables.
-
-5.1.- Garantía otorgada.
-
-El importe de la garantía otorgada será registrado en la cuenta de orden "Garantías por colocación de acciones" de la partida 9291.
-
-5.2.- Acciones adquiridas.
-
-Las acciones adquiridas por haberse hecho efectiva la garantía de colocación otorgada, se registrarán por su valor de adquisición en la cuenta "Acciones adquiridas por underwriting", de la partida 1775, quedando sus saldos sujetos a corrección monetaria.
-
-Si el valor de mercado fuera menor que el costo corregido monetariamente registrado en la cuenta "Acciones adquiridas por underwriting" antes mencionada, se mantendrá una provisión por la diferencia de precios, la que se imputará a la cuenta complementaria "Provisión por acciones underwriting", de la partida 1775, con cargo a la cuenta del mismo nombre de la partida 6315. No obstante, si aún no hubieren transcurrido seis meses desde la fecha en que se adquirieron las acciones y existen razones para pensar que su precio puede evolucionar favorablemente, las instituciones financieras pueden prescindir de esta provisión con respecto a su valor de mercado.
 
 CAPITULO 11-1 (Bancos y Financieras)
 
@@ -16486,9 +15892,7 @@ En el caso que dos o más instituciones avalen en forma solidaria una o más obl
 
 En las oportunidades que se señalan en el N° 2 anterior, las instituciones financieras deben obtener el valor actualizado de las garantías, a fin de tomarlos valores comparables con los montos de los créditos y del patrimonio efectivo a la misma fecha.
 
-El valor actualizado de las garantías debe obtenerse de acuerdo con las instrucciones del título IV de este capítulo. Al tratarse de documentos
-
-provenientes de operaciones de comercio exterior a que se refiere el numeral 3.2 de ese título, su valorización en pesos se obtendrá utilizando el tipo de cambio de representación contable informado por esta Superintendencia.
+El valor actualizado de las garantías debe obtenerse de acuerdo con las instrucciones del título IV de este capítulo. Al tratarse de documentos provenientes de operaciones de comercio exterior a que se refiere el numeral 3.2 de ese título, su valorización en pesos se obtendrá utilizando el tipo de cambio de representación contable.
 
 Sin embargo, en atención a que la valorización de las garantías consistentes en bienes corporales requiere de tasaciones o certificaciones, se aceptará que los valores actualizados de las hipotecas y prendas sobre esos bienes, se obtengan de aplicar la variación de la Unidad de Fomento a los valores que se hayan obtenido para las mismas en una oportunidad anterior, de acuerdo con los procedimientos señalados en el título IV de este capítulo, sin que sea necesario efectuar una nueva tasación u obtener una nueva certificación del valor de los bienes.
 
@@ -16902,15 +16306,17 @@ b) Colocaciones, con excepción de las colocaciones contingentes (partidas 1605 
 
 c) Operaciones con pacto de retrocompra (partidas 1690 y 1695).
 
-d) Inversiones financieras (partidas 1705 a 1750).
+d) Instrumentos para negociación (partida 1701)
+
+e) Instrumentos de inversión (partidas 1702 y 1703)
+
+f) Contratos de derivados financieros (partida 2128).
 
 3.- Obligaciones computables.
 
 Quedan sujetos a los límites todas las obligaciones a plazo registradas en el pasivo a favor de otros bancos del país, cuyo plazo residual de vencimiento sea igual o inferior a un año a contar de la fecha del cómputo. No se consideran, por consiguiente, las obligaciones a la vista (partidas 3005 a 3015) y aquella parte de las obligaciones a plazo que será exigible a más de un año.
 
-Además, de acuerdo con lo establecido en el Capitulo III.D.1 del Compendio de Normas Financieras del Banco Central de Chile, deben computarse las obligaciones correspondientes a operaciones con derivados efectuadas con las demás instituciones financieras del país. Para este efecto se entenderá por obligación de un contrato derivado, el monto correspondiente a su equivalente de crédito calculado bajo las mismas reglas que las instituciones acreedoras deben aplicar para determinar sus activos ponderados por riesgo según lo previsto en el N° 3 del título II del Capítulo 12-1 de esta Recopilación.
-
-No obstante lo indicado en los párrafos precedentes, no se considerarán como obligaciones computables, quedando en consecuencia exentas de los límites de que trata este Capítulo, los montos adeudados que se encuentren cubiertos con garantías constituidas con documentos emitidos por el Banco Central de Chile o por el Estado y sus organismos, con exclusión de sus empresas.
+No obstante, no se considerarán como obligaciones computables, quedando en consecuencia exentas de los límites de que trata este Capítulo, los montos adeudados que se encuentren cubiertos con garantías constituidas con documentos emitidos por el Banco Central de Chile o por el Estado y sus organismos, con exclusión de sus empresas.
 
 4.- Valor de los pasivos, activos y garantías.
 
@@ -16920,15 +16326,9 @@ Los pasivos y activos reajustables se sumarán con sus respectivos reajustes que
 
 Las operaciones sujetas a intereses, incluirán los intereses devengados que se encuentren registrados contablemente a la fecha del cómputo.
 
-En el curso de un mes y antes de su último día, los importes correspondientes a los equivalentes de crédito de las operaciones con instrumentos derivados podrán corresponder a los calculados para los mismos al último día del mes anterior, o bien a los calculados a la fecha de las operaciones, si éstas se realizaron en el mes en curso.
+Los pasivos correspondientes a instrumentos derivados se computarán según su valor razonable negativo registrado a la fecha del cómputo.
 
-Las garantías sobre las operaciones deben computarse según el valor contable de los instrumentos a la fecha del cómputo, incluyendo, cuando corresponda, el ajuste a valor de mercado que se encuentre registrado para esos documentos según lo previsto en el Capítulo 8-21 de esta Recopilación.
-
-5.- Disposición transitoria.
-
-Los límites mencionados en las letras a) y b) del N° 1 este Capítulo rigen a partir del 1° de enero de 2004, según Acuerdo N° 1086-04-031002 del Consejo del Banco Central de Chile.
-
-Antes de aquella fecha, el límite individual alcanza a un 3% y el global a un 10% del activo circulante del banco deudor, debiendo cumplirse además un límite de un 3% del activo circulante de la entidad acreedora.
+Los documentos entregados en garantía se computarán por su valor razonable.
 
 Capítulo 12-9 (Bancos y Financieras)
 
@@ -17506,7 +16906,7 @@ Para los efectos de que trata este Capítulo, se entenderá que constituyen "cr�
 
 Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Anexo N° 2 del Capítulo 7-10 de esta Recopilación, con excepción de los créditos de comercio exterior mencionados en el párrafo precedente.
 
-Por último, las "inversiones financieras" que se aluden en este número, son aquellas que deben registrarse como tales de acuerdo con lo establecido en el Capítulo 8-21 de esta Recopilación.
+Por último, las inversiones financieras" que se aluden en este Capítulo, corresponden a los instrumentos financieros no derivados adquiridos tanto para inversión como para negociación.
 
 En general, los "créditos hacia el exterior" a que se refiere este Capítulo comprenden todas las colocaciones e inversiones financieras en que el deudor directo es una persona natural o jurídica con residencia y domicilio en el exterior.
 
@@ -17530,7 +16930,7 @@ G) Instrumentos de la cartera de inversiones financieras distintos a los indicad
 
 2.1.- Provisiones individuales.
 
-Las colocaciones o inversiones financieras que no correspondan a las señaladas en los literales del N° 1, quedarán sujetas a una provisión individual del 100% sobre el monto no cubierto por provisiones por riesgo de crédito y riesgo-país, previstas en los Capítulos 8-29 y 7-6 de esta Recopilación.
+Las colocaciones o inversiones financieras que no correspondan a las señaladas en los literales del N° 1, quedarán sujetas a una provisión individual del 100% sobre el monto no cubierto por provisiones por riesgo de crédito y riesgo-país, previstas en los Capítulos 7-10 y 7-6 de esta Recopilación.
 
 2.2.- Provisiones globales.
 
@@ -17676,360 +17076,6 @@ Como lo establece la ley, esta Superintendencia sólo podrá rechazar una solici
 
 Esta superintendencia cuenta con 60 días para emitir su pronunciamiento.
 
-CAPITULO 13-1 (Bancos)
-
-MATERIA:
-
-OPERACIONES DE COMPRA Y VENTA DE MONEDAS EXTRANJERAS.
-
-1.- Contenido del presente Capítulo.
-
-Este Capítulo incluye disposiciones relativas a las compras y ventas al contado de moneda extranjera y de oro, pagaderas en moneda chilena o en otra moneda extranjera (arbitrajes al contado), y el correspondiente tratamiento contable para la Posición de Cambios Internacionales regulada por el Banco Central de Chile.
-
-Por operaciones al contado se entienden aquellas en las que la transferencia de la moneda extranjera, ya sea en efectivo o mediante documentos a la vista, se efectúa a más tardar el día hábil bancario subsiguiente a la fecha de la negociación. Las operaciones de compra o venta que excedan ese plazo, se regirán por las instrucciones sobre instrumentos derivados.
-
-2.- Disposiciones aplicables a las compras v ventas de moneda extranjera.
-
-Los bancos que efectúen compras y ventas de monedas extranjeras o de oro que sirva como medio de pago, deberán cursar tales operaciones dando cumplimiento a lo dispuesto en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-Los antecedentes o documentos comprobatorios exigidos en las normas de cambio para la venta de divisas destinadas a determinados fines, deben ser conservados por la respectiva entidad vendedora, archivados bajo su exclusiva responsabilidad y mantenidos a disposición del Banco Central de Chile o de esta Superintendencia, para el caso que les sean requeridos Del mismo modo deben mantenerse los antecedentes sobre las compras de divisas.
-
-3.- Posición de Cambios Internacionales.
-
-3.1.- Disposición general.
-
-De acuerdo con lo establecido en el Compendio de Normas de Cambios Internacionales del Banco Central de Chile, las compras y ventas de divisas dan origen a la Posición de Cambios Internacionales, la cual se encuentra definida en esas normas en términos de las cuentas de conversión que utilizan los bancos para el efecto y que corresponden a las indicadas en el numeral 3.2 siguiente. El conjunto de esas cuentas constituye la Posición de Cambios Internacionales, cuyo saldo global neto expresado en dólares, debe ser determinado en la forma establecida por el Banco Central de Chile.
-
-3.2.- Contabilización de las operaciones de compra y venta de monedas extranjeras.
-
-Las entidades bancarias deben registrar todas las compras y ventas de moneda extranjera y de oro que realicen, en cuentas de conversión denominadas "Conversión posición de cambios" Deberá establecerse una cuenta "Conversión posición de cambios" por cada una de las monedas en que opere la empresa.
-
-Las compras y ventas se contabilizarán de acuerdo a las siguientes pautas:
-
-a) Moneda extranjera.
-
-Las compras y ventas de monedas extranjeras deben contabilizarse en la respectiva cuenta "Conversión posición de cambios" asignada a la partida 2505 ó 4505, según sea su saldo deudor o acreedor Las operaciones en oro serán registradas en Pesos Oro Sellado Chileno.
-
-b) Moneda chilena.
-
-El equivalente en moneda chilena por la compra de moneda extranjera, se debitará en la cuenta "Cambio posición de cambios" A esta misma cuenta se acreditará el importe recibido en pesos por la venta de moneda extranjera. Se debe mantener una cuenta "Cambio posición de cambios" por cada una de las cuentas "Conversión posición de cambios" abiertas, de acuerdo a las monedas operadas Los saldos de las cuentas "Cambio posición de cambios" se asignan a las partidas 2505 ó 4505, según sea su saldo, deudor o acreedor.
-
-c) Transferencia diferida de las compraventas.
-
-En el caso de operaciones en las que, de acuerdo con lo pactado entre el vendedor y el comprador, se difiera por un máximo de dos días hábiles bancarios la transferencia de la moneda extranjera objeto de la compraventa, los respectivos importes en moneda extranjera se registrarán en la cuenta "Divisas adquiridas pendientes de transferencia", de la partida 2115, o bien, "Divisas vendidas pendientes de transferencia", de la partida 4115, según corresponda, en tanto que la moneda chilena se registrará en la cuenta "Contravalor por entregar de divisas pendientes de transferencia", de la partida 4115 o "Contravalor por recibir de divisas pendientes de transferencia", de la partida 2115, según sea el caso.
-
-Al efectuarse la transferencia efectiva mediante los respectivos traspasos a las cuentas corrientes mantenidas en el exterior o en el Banco Central de Chile, como también al recibirse o entregarse efectivamente el contravalor en pesos moneda chilena, se revertirán los importes anotados en las cuentas señaladas en el párrafo precedente y se registrarán en las cuentas que correspondan.
-
-d) Ajuste de las cuentas "Cambio".
-
-El último día de cada mes, los bancos ajustarán el saldo de las cuentas "Cambio posición de cambios" con cargo a la cuenta "Ajuste posición de cambios" de la partida 5705 o 7705, según corresponda, de acuerdo con lo previsto en el Capítulo 13-30 de esta Recopilación.
-
-e) Comisiones por venta de moneda extranjera.
-
-Las comisiones que cobren los bancos por venta de moneda extranjera, serán acreditadas en la cuenta "Comisiones ganadas ventas de divisas" de la partida 7530.
-
-3.3.- Movimientos en la posición de cambios que se originan por liquidaciones de recursos obtenidos en moneda extranjera y constitución de reservas.
-
-a) Liquidación de recursos obtenidos por el banco en moneda extranjera.
-
-En caso de que un banco decida liquidar moneda extranjera correspondiente a captaciones, préstamos recibidos o bonos emitidos, se utilizarán, tanto para la venta como para la posterior recompra, las cuentas "Conversión recursos liquidados" de la partida 2510 y "Cambio recurso liquidados" de la partida 4510. Esta última se ajustará según lo previsto en el Capítulo 13-30, con cargo o abono, según corresponda, a la cuenta "Variación tipo de cambio recursos liquidados" de la partida 5707 ó 7707, respectivamente.
-
-La recompra de las divisas liquidadas no podrá diferirse más allá de la fecha del pago de las respectivas obligaciones, debiéndose mantener un control sobre los importes registrados en la cuenta de conversión antes indicada.
-
-Con todo, al tratarse operaciones que se rijan por las normas del Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile, los bancos deben atenerse a lo instruido en el Capítulo 13-13 de esta Recopilación.
-
-b) Constitución de reservas en moneda extranjera.
-
-Los bancos que por cualquier motivo adquieran moneda extranjera para mantenerla en calidad de reservas, utilizarán las cuentas "Reservas en moneda extranjera" de la partida 4510 y "Equivalente reservas en moneda extranjera" de la partida 2510 Esta última se ajustará según lo previsto en el Capítulo 13-30, con abono o cargo, según corresponda, a la cuenta "Variación del tipo de cambio reservas en moneda extranjera" de la partida 7707 ó 5707, respectivamente.
-
-c) Resultados en moneda extranjera.
-
-Al cierre de cada ejercicio, los saldos en moneda extranjera que las entidades bancarias registren en cada una de sus diferentes cuentas de resultado, deberán convertirse a moneda chilena, de acuerdo con el tipo de cambio de representación contable vigente a la fecha del cierre, mediante cargos o abonos, según corresponda, a las cuentas "Conversión posición de cambios" y "Cambio posición de cambios" antes mencionadas.
-
-4.- Información al público.
-
-Las instituciones bancarias deben mantener a la vista del público en caracteres fácilmente legibles, la información relativa a los tipos de cambio comprador y vendedor de cada una de las monedas que la empresa opere e indicar si se incluyen comisiones y otros gastos En el caso que se cobren, deberán señalarse los montos o tasas que se aplican.
-
-Además, junto a esa información deberán exhibir la cotización del dólar norteamericano que diariamente publique el Banco Central de Chile, la que se informará bajo el rubro "Valor Dólar observado día anterior Banco Central.
-
-CAPITULO 13-2 (Bancos)
-
-MATERIA:
-
-COMPRAVENTA DE DIVISAS A FUTURO Y SWAPS EN EL MERCADO LOCAL.
-
-### I. NORMAS GENERALES
-
-### 1. Operaciones a futuro (Forward) y Swaps de monedas
-
-Las operaciones a futuro que los bancos establecidos en Chile pueden realizar en el mercado local, al amparo de las disposiciones del Capítulo IX del Compendio de Normas de Cambios Internacionales del Banco Central de Chile y de este Capítulo, son compras y ventas de divisas a futuro (forwards) con bancos y otras personas situadas en el país. Las mencionadas operaciones también podrán contratarse en la modalidad de un "SWAP".
-
-### 2. Contratos
-
-Las operaciones señaladas en el N° 1 precedente, deben constar en un contrato celebrado entre el banco y la otra parte contratante.
-
-### II. COMPRAVENTAS A FUTURO (FORWARDS)
-
-### 1. Definición
-
-Para los efectos de estas normas, se entenderá por compraventa a futuro de monedas (forwards), aquella transacción en la que uno de los contratantes se compromete a entregar al otro una moneda, chilena o extranjera, y el otro se compromete a entregar una moneda, chilena o extranjera distinta, a cambio de la que recibe, en la fecha futura que hayan pactado.
-
-2.- Entrega o recepción de la moneda extranjera contra moneda chilena.
-
-Los bancos pueden celebrar contratos de compraventa a futuro (forward) que contemple la entrega o recepción física de la moneda extranjera pactada, cuyo importe sea pagado por quien corresponda en pesos moneda chilena, debiendo dar cumplimiento a las instrucciones del Instituto Emisor en el sentido de emitir las respectivas planillas con la codificación de la operación del mercado cambiario formal de que se trate.
-
-### 3. Compensación
-
-Las partes contratantes, en lugar de la entrega de las monedas pactadas a que se refiere el N° 2 precedente, al vencimiento del contrato, podrán convenir que se efectúe solamente la,compensación en moneda chilena por las diferencias producidas entre los precios pactados a futuro y los precios referenciales de mercado que hayan estipulado en el respectivo contrato, de acuerdo con lo señalado en los numerales siguientes.
-
-4 .- Condiciones de los contratos.
-
-Los contratos correspondientes a estas operaciones deberán ajustarse en sus términos, tipo de cambio, paridades y demás condiciones a los que normalmente se utilizan en los mercados nacional e internacional y que sean los prevalecientes en la fecha de su celebración.
-
-5.- Modificaciones a los contratos.
-
-Durante la vigencia del contrató las partes podrán, de común acuerdo, modificar la fecha de vencimiento, los precios pactados, los precios referenciales de mercado a utilizar en el mecanismo de compensación y los montos involucrados, los que deben corresponder a los prevalecientes en el mercado.
-
-### 6. Excepción a la obligación de liquidar la moneda extranjera
-
-Las personas naturales o jurídicas residentes en el país distintas de los bancos, que compren moneda extranjera a futuro de conformidad con las normas de este Capítulo, efectuando el pago de su importe en pesos moneda chilena, no estarán obligadas a liquidar dicha moneda en el mercado cambiario formal, siempre que den cumplimiento a las normas y condiciones contenidas en el Capítulo IX antes mencionado.
-
-### 7. Instrucciones contables
-
-Las operaciones de compraventa a futuro (forwards) se registrarán de la siguiente forma:
-
-7.1. Compras a futuro de moneda extranjera con pago en moneda chilena.
-
-a) Moneda extranjera.
-
-Debe: - "Compras a futuro de divisas", por el importe en moneda extranjera adquirido a futuro, de la partida 2127.
-
-Haber: - "Conversión futuro", de la partida 4510 ó 2510.
-
-b) Moneda chilena.
-
-Debe: - "Cambio futuro", de la partida 2510 ó 4510, por el valor al contado en pesos de la moneda extranjera adquirida a futuro.
-
-- "Pérdidas diferidas por compraventas a futuro", de la partida 2127, por la diferencia entre el precio al contado de la moneda extranjera adquirida y el precio que el banco se haya obligado a pagar a futuro.
-
-Haber: - "Acreedores por compras a futuro de divisas", por el valor en pesos que el banco se obligue a pagar por la moneda extranjera adquirida a futuro, de la partida 4127. En caso que dicho valor se hubiere pactado en términos reajustables, el importe que se registrará en esta cuenta será el que corresponda al día en que se celebre el contrato.
-
-- "Utilidades diferidas por compraventas a futuro", de la partida 4127, por la diferencia entre el precio al contado de las divisas adquiridas y el precio que el banco se haya obligado a pagar a futuro.
-
-7.2. Ventas a futuro de moneda extranjera con pago en moneda chilena.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión futuro", por el importe de la moneda extranjera vendida a futuro.
-
-Haber: - "Ventas a futuro de divisas", de la partida 4127.
-
-b) Moneda chilena.
-
-Debe: - "Deudores por ventas a futuro de divisas", por el monto en pesos que el adquirente de las divisas a futuro se haya comprometido a pagar al banco, de la partida 2127. En caso que dicho valor se hubiere pactado en términos reajustables, el importe que se registrará en esta cuenta será el que corresponda al día en que se celebre el contrato.
-
-- "Pérdidas diferidas por compraventas a futuro", por la diferencia entre el precio al contado de la moneda extranjera vendida y el precio que el comprador se haya obligado a pagar a futuro.
-
-Haber: - "Cambio futuro", por el precio al contado de las divisas vendidas a futuro, vigente en la fecha de la contratación.
-
-- "Utilidades diferidas por compraventas a futuro", por la diferencia entre el precio al contado de las divisas vendidas y el precio que el comprador se haya obligado a pagar a futuro.
-
-7.3. Vencimiento de las compras y ventas.
-
-En la fecha de vencimiento de los contratos de compra o venta a futuro de divisas, los bancos efectuarán los siguientes asientos:
-
-7.3.1. El banco que ha adquirido divisas a futuro.
-
-a) Moneda extranjera.
-
-Debe: - La cuenta que corresponda por la moneda extranjera recibida.
-
-- "Conversión futuro".
-
-Haber: - "Conversión mercado bancario", de la partida 4505 ó 2505.
-
-- "Compras a futuro de divisas".
-
-b) Moneda chilena.
-
-Debe: - "Cambio mercado bancario", de la partida 2505 ó 4505, por el equivalente al contado de las divisas adquiridas, vigente en la fecha de la liquidación.
-
-- "Acreedores por compras a futuro de divisas".
-
-Haber: - "Caja" o la cuenta que corresponda por la entrega del importe convenido en moneda chilena por la moneda extranjera adquirida.
-
-- "Cambio futuro", por el valor en pesos chilenos de las divisas compradas, calculado al tipo de cambio del mercado bancario, vigente en la fecha de la liquidación.
-
-7.3.2. El banco que ha vendido divisas a futuro.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión mercado bancario", por el importe en moneda extranjera vendido.
-
-- "Ventas a futuro de divisas".
-
-Haber: - La cuenta que corresponda por la entrega o la aplicación de la moneda extranjera vendida.
-
-- "Conversión futuro".
-
-b) Moneda chilena.
-
-Debe: - "Caja" o la cuenta que corresponda por la recepción del importe en moneda chilena pactado por las divisas vendidas.
-
-- "Cambio futuro", por el equivalente de la moneda extranjera al tipo de cambio contado vigente en la fecha de la liquidación.
-
-Haber: - "Cambio mercado bancario", por el equivalente al contado de las divisas vendidas, al tipo de cambio vigente en la fecha de la liquidación.
-
-- "Deudores por ventas a futuro de divisas".
-
-7.4. Contratos de compraventa de una moneda extranjera pagaderos en moneda chilena que se solucionen por compensación.
-
-Aquellos contratos de compras y ventas de divisas a futuro, en los que se pacte su cumplimiento mediante la compensación de la diferencia entre el precio convenido a futuro de la moneda extranjera y el precio de referencia en el mercado al contado estipulado en el contrato, se registrarán en la misma forma señalada en los numerales 7.1 y 7.2 de este título.
-
-Los contratos mencionados en el párrafo anterior, incluidos aquellos pactados con entrega de moneda extranjera pero que se solucionen parcial o totalmente mediante compensación, deberán registrarse al vencimiento de la siguiente forma:
-
-7.4.1. Compras a futuro de moneda extranjera con pago en moneda chilena, efectuadas por un banco y solucionadas por compensación.
-
-a) Moneda extranjera.
-
-Debe: - "Conversión futuro", por el importe de la moneda extranjera pactado a futuro.
-
-Haber: - "Compras a futuro de divisas", para revertir el importe pactado a futuro.
-
-b) Moneda chilena.
-
-Debe: - "Acreedores por compras a futuro de divisas", para revertir el importe en moneda chilena pactado a futuro.
-
-- "Caja" o la cuenta que corresponda por la recepción de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea superior a aquél.
-
-Haber: - "Cambio futuro", por el equivalente de la moneda extranjera al tipo de cambio del mercado bancario vigente en la fecha de la liquidación.
-
-- "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea inferior a aquél.
-
-7.4.2. Ventas a futuro de moneda extranjera con pago en moneda chilena, efectuadas por un banco y solucionadas por compensación.
-
-a) Moneda extranjera.
-
-Debe: - "Ventas a futuro de divisas", para revertir el importe pactado a futuro.
-
-Haber: - "Conversión futuro", por el importe de la moneda extranjera pactado a futuro.
-
-b) Moneda chilena.
-
-Debe: - "Cambio futuro", por el equivalente de la moneda extranjera al tipo de cambio vigente en la fecha de liquidación.
-
-- "Caja" o la cuenta que corresponda por la recepción de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea inferior a aquél.
-
-Haber: - "Deudores por ventas a futuro de divisas", para revertir el importe en moneda chilena pactado a futuro.
-
-- "Caja" o la cuenta que corresponda por la entrega de la diferencia entre el precio de las divisas pactado a futuro y el valor de referencia de ellas, en caso que éste sea superior a aquél.
-
-7.5. Contratación de la compraventa de una moneda extranjera con pago en otra moneda extranjera.
-
-a) Por la moneda extranjera que se adquiere.
-
-Debe: - "Moneda extranjera adquirida a futuro-mercado local", de la partida 2127, por el monto de la moneda extranjera que se adquiere mediante el arbitraje.
-
-Haber: "Contratos a futuro", de la partida 2525 ó 4525.
-
-b) Por la moneda extranjera que se vende.
-
-Debe: - "Contratos a futuro", por el monto del arbitraje.
-
-Haber: - "Moneda extranjera vendida a futuro-mercado local", de la partida 4127.
-
-7.6. Entrega y recepción de las monedas extranjeras pactadas en la compraventa.
-
-a) Por la moneda extranjera que se recibe.
-
-Debe: - La cuenta que corresponda por la moneda extranjera recibida.
-
-- "Contratos a futuro".
-
-Haber: - "Conversión mercado bancario".
-
-- "Moneda extranjera adquirida a futuro-mercado local".
-
-b) Por la moneda extranjera que se entrega.
-
-Debe: -"Conversión mercado bancario".
-
-- "Moneda extranjera vendida a futuro-mercado local".
-
-Haber: -La cuenta que corresponda por el giro de la moneda extranjera vendida.
-
-- "Contratos a futuro".
-
-c) Por la moneda chilena.
-
-Debe: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que se adquiere.
-
-- "Pérdidas por contratos a futuro-mercado local", de la partida 5710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", de las monedas comprometidas en el contrato, cuando proceda.
-
-Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que se vende.
-
-- "Utilidades por contratos a futuro-mercado local", de la partida 7710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", de las monedas comprometidas en el contrato, cuando corresponda.
-
-7.7. Compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras que se solucionan mediante compensación.
-
-La contratación de compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras en las que se pacte como mecanismo único o alternativo el procedimiento de compensación para su cumplimiento, será registrada de la misma forma señalada en el numeral 7.5.
-
-En la fecha de vencimiento de los contratos que se solucionen mediante compensación, se revertirán los asientos contables señalados en el numeral 7.5 y se registrarán las compensaciones con abono a la cuenta "Utilidades por contratos a futuro-mercado local", al tratarse de una compensación a favor del banco, o con cargo a la cuenta "Pérdidas por contratos a futuro-mercado local", cuando se trate de una compensación de su cargo.
-
-7.8. Ajustes contables que deben efectuarse al cierre de cada mes.
-
-7.8.1. Ajuste de las cuentas "Deudores por ventas a futuro de divisas" y "Acreedores por compras a futuro de divisas".
-
-En el caso que el pago en moneda chilena por las compras o ventas a futuro de divisas se exprese en términos reajustables, el monto registrado en las cuentas "Deudores por ventas a futuro de divisas" y "Acreedores por compras a futuro de divisas", se ajustará el último día de cada mes, de acuerdo con la modalidad de reajuste pactado, con cargo o abono a la cuenta "Cambio futuro", según corresponda.
-
-7.8.2. Ajuste de las cuentas "Pérdidas diferidas por compraventas a futuro" y "Utilidades diferidas por compraventas a futuro".
-
-Los importes registrados en estas cuentas se traspasarán linealmente a la cuenta "Cambio futuro" en forma proporcional al tiempo transcurrido desde la fecha en que se haya celebrado el respectivo contrato en relación con el plazo pactado. Este ajuste se efectuará, a lo menos, al término de cada mes.
-
-En caso de que, como consecuencia de modificarse el monto, el tipo de cambio o el plazo convenidos en el contrato, varíen las diferencias registradas en las cuentas "Pérdidas diferidas por compraventas a futuro" o "Utilidades diferidas por compraventas a futuro", se deberá efectuar el cálculo del importe que corresponda de acuerdo con los nuevos montos resultantes y registrarse el ajuste que proceda contra la cuenta "Cambio futuro".
-
-7.8.3. Ajuste de la cuenta "Cambio futuro".
-
-El último día de cada mes, los bancos ajustarán el saldo de la cuenta "Cambio futuro", de modo que represente el equivalente de la respectiva cuenta "Conversión futuro", calculado al tipo de cambio al contado, vigente al término del mes correspondiente. La diferencia que resultare de ese ajuste se registrará en la cuenta "Pérdidas por compraventas a futuro" o "Utilidades por compraventas a futuro", de la partida 5710 y 7710, respectivamente.
-
-Al mes siguiente, antes de efectuar el nuevo ajuste de la cuenta "Cambio futuro", se revertirá el importe correspondiente al ajuste del mes precedente.
-
-7.8.4. Ajuste por los contratos de compraventas a futuro de monedas extranjeras pagaderas en otras monedas extranjeras
-
-El último día de cada mes, los bancos procederán a calcular y registrar provisionalmente el efecto de la variación de la paridad neta que a esa fecha hayan experimentado los contratos vigentes. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan efectuado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena, con cargo o abono, según proceda, a la cuenta "Variación contratos a futuro-mercado local" de la partida 2127 ó 4127, acreditando la cuenta "Utilidades por contratos a futuro-mercado local" o bien debitando la cuenta "Pérdidas por contratos a futuro-mercado local", según sea el caso.
-
-El ajuste se realizará sobre la base de las paridades que tengan entre sí las monedas involucradas en los mercados a futuro, correspondientes al plazo remanente de los respectivos contratos.
-
-Para los fines de calcular dicha variación en términos de pesos moneda chilena, se considerará el efecto de la variación de paridad sobre la moneda extranjera de contrapartida, esto es, la que debe recibirse en pago de la moneda que se vende o la que debe entregarse por la que se compra. El tipo de cambio que se aplicará para la conversión a moneda nacional, será el de representación contable vigente a la fecha del ajuste.
-
-7.9. Garantías.
-
-Las garantías que los bancos reciban por las operaciones de que trata este título, se registrarán en la cuenta de orden "Garantías por compraventas y arbitrajes a futuro" de la partida 9210 ó 9220, según proceda.
-
-III.- OPERACIONES FORWARDS MULTIPLES (SWAPS.
-
-Las operaciones "Swaps" de monedas que pueden realizar los bancos en el mercado local de conformidad con las disposiciones del Banco Central de Chile, son aquellas en que en un solo contrato se pactan dos o más operaciones forwards, ya sean compraventas de monedas extranjeras pagaderas en moneda chilena o compraventas de monedas extranjeras que se pagan con otra moneda extranjera, generándose así un intercambio de flujos. Cada uno de los forwards incluidos en los referidos contratos, deberán constar separadamente unos de otros.
-
-En las operaciones antes mencionadas podrá convenirse la entrega de las respectivas monedas o el procedimiento de compensación de las diferencias que se generen en las fechas de vencimiento pactadas.
-
-Cuando se convenga la entrega de las monedas extranjeras pactadas, contra el pago en moneda chilena, deberá estipularse, en los contratos con personas naturales o jurídicas distintas de bancos, el procedimiento de compensación como alternativa para el caso en que no se reúnan las condiciones exigidas para la entrega de las monedas pactadas, o bien, para solucionar la diferencia que se genere cuando la obligación que dichas personas deban pagar con divisas del mercado cambiario formal, sea inferior al monto convenido para ese efecto en el respectivo contrato.
-
-Para tal efecto, los bancos deberán aplicar las instrucciones contables contenidas en el N° 7 del título II de este Capítulo.
-
-### IV. OTRAS INSTRUCCIONES
-
-1. límites.
-
-Las operaciones de compraventas a futuro de moneda extranjera (forward), estarán afectas a los límites de que trata el artículo 84 N° 1 de la Ley General de Bancos, por la diferencia entre el precio pactado a futuro por dichas operaciones y el precio al contado de éstas, a la fecha de celebración del pacto, que sea de cargo de los respectivos obligados. No obstante, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
-
-En todo caso, las operaciones antes mencionadas que realicen los bancos, registradas en las partidas 2127 y 4127, quedan sujetas al margen a que se refiere el título IV del Capítulo 12-9 de esta Recopilación.
-
-2.- Información al Banco Central de Chile.
-
-Los bancos que realicen compras o ventas a futuro de monedas, deberán presentar al Banco Central de Chile, dentro de los plazos que señala, la información que se establece en el Capítulo IX del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
-
 CAPITULO 13-3 (Bancos)
 
 MATERIA:
@@ -18115,58 +17161,6 @@ Al efectuar la venta o canje de los referidos cheques, se deberá revertir el as
 b) Comisión.
 
 Las comisiones que cobren los bancos por ventas o canjes de cheques viajeros, las que deben ser informadas al público en la forma prevista en las normas de esta Superintendencia sobre compra y venta de divisas, serán acreditadas en la cuenta"Comisiones ganadas cheques viajeros", de la partida 7530.
-
-CAPITULO 13-13 (Bancos)
-
-MATERIA:
-
-PRESTAMOS Y CAPTACIONES DEL EXTERIOR PARA OTORGAR CREDITOS EN MONEDA CHILENA. CAPITULO V.B.1 CNF.
-
-1. - Facultad de los bancos para internar créditos, depósitos y captaciones del exterior para otorgar préstamos en pesos.
-
-Las normas establecidas en el Capítulo V.B.1 del Compendio de Normas Financieras del Banco Central de Chile, autorizan a los bancos para contratar créditos externos y recibir depósitos y captaciones del exterior, a plazo fijo e internarlos al amparo de las disposiciones del Capítulo XIII del Compendio de Normas de Cambios Internacionales, con el objeto de otorgar, con el producto de su liquidación, préstamos en moneda chilena.
-
-2.- Préstamos en moneda chilena.
-
-Con el producto de la liquidación de los créditos, depósitos y captaciones internados para el efecto antes señalado, las empresas bancarias pueden otorgar préstamos en pesos nominales, con cláusula de reajustabilidad según la variación de la unidad de fomento o bien expresados en moneda extranjera y pagaderos en pesos. Para los efectos del otorgamiento y pago de estos últimos, debe utilizarse el tipo de cambio vendedor de la empresa, vigente en la fecha en que se concede y se paga, respectivamente.
-
-Los préstamos de que se trata se documentarán mediante la suscripción de pagaré o aceptación de letra de cambio, o bien podrán corresponder a descuentos de tales documentos si ellos cumplen las condiciones antes señaladas.
-
-Las comisiones y gastos relativos a la obtención de los créditos externos son de cargo de los respectivos bancos.
-
-Los préstamos de que se trata se podrán otorgar asimismo a otros bancos o sociedades financieras, los que, a su vez, podrán conceder créditos a sus clientes con cargo a estos recursos y bajo alguna de las formas señaladas precedentemente.
-
-3.- Normas contables.
-
-3.1.- Liquidación de los recursos obtenidos.
-
-La liquidación de los recursos obtenidos se contabilizará de la forma que se describe a continuación:
-
-a) Moneda extranjera.
-
-"Conversión Créditos Externos - V.B.1 CNF", de la partida 2510 ó 4510.
-
-"Conversión Mercado Bancario", de la partida 2505 ó 4505.
-
-b) Moneda chilena.
-
-"Cambio Mercado Bancario", de la partida 2505 ó 4505.
-
-"Cambio Créditos Externos-V.B.1 CNF" de la partida 4510 ó 2510.
-
-3.2.- Operaciones expresadas en moneda extranjera y pagaderas en pesos.
-
-Los préstamos y descuentos documentados en moneda extranjera, serán registrados en la misma moneda en que estén documentados con abono a la cuenta "Conversión Créditos Externos-V.B.1 CNF", en tanto que la entrega de la moneda chilena será registrada con cargo a la cuenta "Cambio Créditos Externos-V.B.1 CNF".
-
-Las obligaciones que las entidades financieras contraigan con otras, por la obtención de créditos documentados en moneda extranjera pagaderos en pesos, serán registradas en la misma moneda en que ellos estén documentados con cargo a la cuenta "Conversión Créditos Externos -V.B.1 CNF", en tanto que la moneda chilena recibida será registrada con abono a la cuenta "Cambio Créditos Externos-V.B.1 CNF".
-
-3.3.- Intereses por cobrar o por pagar.
-
-Los ingresos y gastos por concepto de intereses correspondientes a las operaciones de que trata este Capítulo se reconocerán contablemente, en todos los casos, en pesos moneda chilena.
-
-3.4.- Ajuste de la cuenta "Cambio Créditos Externos-V.B.1 CNF".
-
-El saldo de la cuenta "Cambio Créditos Externos- V.B.1 CNF" deberá ajustarse al cierre de cada mes en la forma prevista en el Capítulo 13-30 de esta Recopilación, de tal manera que ésta refleje el equivalente en pesos del saldo de su respectiva cuenta "Conversión", calculado al tipo de cambio de representación contable.
 
 CAPITULO 13-27 (Bancos)
 
@@ -18260,44 +17254,6 @@ Respecto a la presencia de deudores indirectos, conviene tener presente también
 
 De acuerdo con la Ley N° 18.010, cuyas disposiciones se tratan en el Capítulo 7-1 de esta Recopilación, no quedan sujetas al límite del interés máximo convencional las colocaciones en el exterior que correspondan a operaciones pactadas con instituciones o empresas bancarias o financieras extranjeras o internacionales, como tampoco las pactadas o expresadas en moneda extranjera para operaciones de comercio exterior, cualesquiera sea el deudor.
 
-CAPITULO 13-30 (Bancos y Financieras)
-
-MATERIA:
-
-TIPO DE CAMBIO DE REPRESENTACIÓN CONTABLE.
-
-1.- Tipo de cambio y paridades de representación contable.
-
-Para los efectos de la Ley General de Bancos y para los fines de la información que debe enviarse a esta Superintendencia, que se refieran a operaciones o saldos en monedas extranjeras, así como para el ajuste de las cuentas "cambio" de que trata el N° 5 de este Capítulo, las instituciones financieras deben aplicar el tipo de cambio o paridades de representación contable que correspondan, según lo dispuesto en los numerales siguientes.
-
-Las instrucciones de esta Superintendencia que aludan al tipo de cambio o paridades de "representación contable", deben entenderse referidas a las equivalencias en moneda chilena o paridades de monedas extranjeras tratadas en este Capítulo.
-
-2.- Determinación del tipo de cambio y equivalencias de monedas extranjeras.
-
-2.1.- Monedas publicadas en el Diario Oficial.
-
-Las equivalencias o paridades para representación contable corresponderán a los tipos de cambio en moneda chilena y paridades de las distintas monedas extranjeras que publique el Banco Central de Chile en el Diario Oficial el último día hábil bancario de cada mes para los efectos del del Capítulo I de su Compendio de Normas de Cambios Internacionales.
-
-2.2.- el Diario Oficial.
-
-En el caso de las monedas no incluidas en la publicación efectuada por el Banco Central de Chile en el Diario Oficial el último día hábil bancario de cada mes, la cotización para efectos de representación contable corresponderá al valor que resulte de dividir el tipo de cambio observado para el dólar de Estados Unidos de América que anuncie el Instituto Emisor en dicha publicación, por la paridad respectiva "moneda extranjera/dólar" que entregue el Banco Central de Chile en su Informativo Diario de la misma fecha. El equivalente que resulte en pesos, se expresará con dos decimales, para lo cual el segundo de éstos se ajustará, en los casos que corresponda, sobre la base del valor del tercero.
-
-3.- Valor contable del Peso oro chileno.
-
-El precio del Peso oro chileno para efectos de representación contable y del ajuste de la respectiva cuenta "cambio", se determinará de acuerdo con la cotización que informe el Banco Central de Chile para la onza troy de ese metal el último día hábil bancario de cada mes.
-
-Por consiguiente, el precio de un peso oro se obtendrá de multiplicar el factor 0,0058854 por el precio en dólares de la onza troy, convirtiendo en pesos moneda chilena el resultado obtenido, según el tipo de cambio observado ya referido.
-
-4.- Información de esta Superintendencia.
-
-No obstante que las instituciones financieras deben aplicar las cotizaciones para efectos de representación contable obtenidas según lo señalado, a partir del último día de cada mes, esta Superintendencia igualmente las dara a conocer en el curso de los cuatro primeros días hábiles bancarios del mes siguiente, con el objeto de que las entidades fiscalizadas cuenten con una información oficial al respecto y puedan, a la vez, verificar las cotizaciones que ellas mismas debieron aplicar de acuerdo a lo instruido en los numerales precedentes.
-
-5.- Ajustes de las cuentas "cambio".
-
-Las instituciones financieras registrarán los ajustes mensuales de las cuentas "Cambio posición de cambios", de acuerdo con las equivalencias señaladas en este Capítulo, con cargo o abono a "Ajuste posición de cambios" de la partida 5705 o 7705, según corresponda.
-
-Salvo disposición expresa en contrario, el ajuste de las demás cuentas "Cambio" y de las que hagan sus veces, deberá también efectuarse mensualmente de acuerdo con el tipo de cambio y paridades antes señaladas, con cargo o abono a las respectivas cuentas de resultado.
-
 CAPITULO 13-34 (Bancos)
 
 MATERIA:
@@ -18309,8 +17265,6 @@ EMISION DE TITULOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS o NEGOCIADO
 Los bancos que emitan bonos para ser colocados en el exterior de conformidad con lo dispuesto en las normas del Banco Central de Chile, no tienen necesidad de efectuar la inscripción de tales instrumentos en el Registro de Valores de esta Superintendencia.
 
 2.- Instrucciones contables.
-
-2.1.- Registro de las obligaciones.
 
 Los bonos se registrarán en la respectiva moneda extranjera de acuerdo con el criterio señalado en el título VIII del Capítulo 7-5 de esta Recopilación, utilizando para el efecto las cuentas "Bonos colocados en el exterior", "Descuentos por colocación de bonos en el exterior" y "Primas por colocación de bonos en el exterior", de la partida 3075.
 
@@ -18337,316 +17291,6 @@ c) Obligaciones y derechos que las regulaciones del país extranjero les exijan 
 d) Información que el emisor debe proporcionar a los tenedores de bonos y al representante legal de éstos, y,
 
 e) Autorización del organismo extranjero regulador de los mercados bursátiles en los que se transarán los bonos.
-
-CAPITULO 13-35 (Bancos)
-
-MATERIA:
-
-OPERACIONES CON DERIVADOS EN EL MERCADO EXTERNO.
-
-I.- OPERACIONES CON INSTRUMENTOS DERIVADOS.
-
-1.- Generalidades.
-
-Los bancos están facultados para realizar, por cuenta propia, las operaciones a futuro referidas a monedas extranjeras de que trata el Capítulo IX del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
-
-Asimismo, los bancos pueden realizar las operaciones a futuro sobre tasas de interés de que trata el Capítulo IX antes mencionado, con el único objeto de cubrir el riesgo derivado de las fluctuaciones de las tasas de interés en el mercado internacional, que les afecten por los descalces que registren al mantener activos a tasas fijas y pasivos a tasas variables o viceversa, como también, en los casos en que las tasas de interés de sus activos y pasivos sean variables, pero estén pactadas a plazos distintos.
-
-2.- Operaciones a futuro que se pueden realizar.
-
-Los bancos pueden realizar compras o ventas de contratos a futuro (Futures) de monedas o de tasas de interés y compras de opciones sobre dichos contratos, en sus modalidades call o put, en Bolsas Oficiales Extranjeras.
-
-Además, los bancos pueden contratar forwards de monedas, swaps de monedas o de tasas de interés, acuerdos de tasas de interés a futuro (forward-"FRA's"), mecanismos de protección de tasas de interés conocidos internacionalmente como "CAP", "FLOOR" Y "COLLAR" y comprar opciones sobre contratos de monedas o de tasas de interés, en sus modalidades call o put, en mercados distintos a las Bolsas Oficiales Extranjeras, conocidos como "Over The Counter" (OTC).
-
-La facultad para adquirir las opciones antes mencionadas, lleva implícita la de enajenar las opciones adquiridas.
-
-3.- Autorización del Banco Central de Chile.
-
-Los bancos que decidan contratar las operaciones a futuro de coberturas de tasa de interés de que se trata, deberán obtener previamente la autorización del Banco Central de Chile. Tales autorizaciones tendrán el plazo de vigencia que fije el Instituto Emisor.
-
-No obstante lo anterior, los bancos que mantengan Pagarés Reajustables en Dólares, de que trata el Capítulo IV.B.10 del Compendio de Normas Financieras, podrán realizar operaciones de cobertura de tasas de interés hasta por el monto de los Pagarés que mantengan, sin solicitar la autorización antes mencionada.
-
-4.- Facultades de los usuarios.
-
-Los bancos podrán contratar y operar libremente líneas de crédito en moneda extranjera, así como adquirir divisas en el mercado cambiario formal exentas de la obligación de liquidar, para responder a las obligaciones de pago contraídas en virtud de los contratos celebrados.
-
-Por otra parte, los bancos no estarán obligados a retornar las divisas que obtengan por las operaciones realizadas.
-
-Además, podrán utilizar divisas que no hayan sido adquiridas en el mercado cambiario formal para responder a las obligaciones de pago contraídas por operaciones con instrumentos derivados.
-
-5.- Obligaciones de los usuarios.
-
-Las normas del Banco Central de Chile establecen que los usuarios de las operaciones de que se trata, que decidan retornar las divisas que obtengan por estas operaciones, deberán efectuar dicho retorno por intermedio del mercado cambiario formal y liquidar esos importes en este mismo mercado.
-
-Por otra parte, los contratos que se celebren al amparo de las normas del Capítulo IX antes mencionado, deberán ajustarse en sus términos, paridades, tasas de interés, precios y demás condiciones, a aquellas estipulaciones normalmente utilizadas y prevalecientes en los mercados internacionales a la fecha de su celebración.
-
-6.- Aplicación de la moneda extranjera correspondiente a estas operaciones.
-
-De conformidad con las disposiciones contenidas en el Capítulo IX, aludidas precedentemente, los bancos pueden utilizar la facultad de adquirir divisas en el mercado cambiario formal para efectuar las operaciones de que trata este Capítulo, o bien, aplicar directamente la moneda extranjera de que dispongan, incluso cuando se trate de gastos en tales monedas.
-
-Por otra parte, de acuerdo con las mismas normas citadas en el párrafo precedente, los bancos tienen la opción de liquidar a pesos chilenos la moneda extranjera que reciban por sus operaciones con instrumentos derivados, o bien, pueden aplicar directamente la misma moneda extranjera recibida, según se establece en el título siguiente.
-
-II.- NORMAS CONTABLES.
-
-Los bancos registrarán las operaciones de que se trata, de la forma que se indica en este título.
-
-Cuando no se señala expresamente la moneda, las instrucciones deben entenderse referidas a la moneda que corresponda en cada caso.
-
-1.- Garantías otorgadas a Corredores.
-
-Las garantías que se enteren en efectivo se registrarán en la cuenta "Garantías en efectivo por contratos a futuro", de la partida 1775, en tanto que las garantías correspondientes a cartas de crédito stand by u otros documentos, se registrarán en la cuenta de orden "Cauciones otorgadas por contratos a futuro", de la partida 9290.
-
-2.- Compraventa de contratos a futuro en Bolsas Oficiales Extranjeras.
-
-2.1.- Contratos a futuro de monedas.
-
-Los contratos de compra o venta a futuro de moneda extranjera comprenden, además de la moneda que se "adquiere" o se "vende" en esa forma, aquélla mediante la cual se pagará el precio del contrato de compra o de venta. En consecuencia, cada transacción comprenderá dos monedas: la que se adquiere o se vende por medio del contrato correspondiente y la moneda en la que se ha fijado el precio de la transacción a futuro. Para los fines de reflejar adecuadamente en la contabilidad del banco, tanto el derecho como la obligación emanada de estos contratos a futuro, habrá que registrar tales derechos y deberes en las monedas que corresponda.
-
-2.1.1.- Compra de contratos a futuro.
-
-a) Por el importe de los contratos en la moneda que ellos representan.
-
-Debe: "Contratos a futuro moneda extranjera adquiridos" de la partida 2127.
-
-Haber: "Contratos a futuro", de la partida 4525 ó 2525.
-
-b) Por el contravalor de los contratos en la moneda del precio pactado.
-
-Debe: "Contratos a futuro."
-
-Haber: "Contravalor de contratos a futuro moneda extranjera adquiridos", de la partida 4127.
-
-2.1.2.- Venta de contratos a futuro.
-
-a) Por el importe de los contratos vendidos en la moneda que ellos representan.
-
-Debe: "Contratos a futuro".
-
-Haber: "Contratos a futuro moneda extranjera vendidos", de la partida 4127.
-
-2.2.3.- Liquidación de los contratos.
-
-Al efectuar la liquidación de los referidos contratos, mediante la respectiva compra o venta, se revertirán los asientos contables señalados en los numerales 2.2.1 ó 2.2.2, según corresponda. Asimismo, se procederá a revertir, cuando sea el caso, los asientos contables relativos a las garantías que se mantuvieren por los contratos que se liquiden.
-
-Las diferencias que resulten a favor de las instituciones financieras o que sean de su cargo al proceder a su liquidación, serán registradas en la cuenta "Utilidades contratos a futuro de tasas de interés", de la partida 7710, o bien, en la cuenta "Pérdidas contratos a futuro de tasas de interés", de la partida 5710, según corresponda.
-
-2.3.- Remesas durante la vigencia de los contratos.
-
-Los importes que los bancos reciban de sus corredores y los que remitan a éstos por concepto de garantía, fluctuaciones de precio u otros similares, serán registrados de la siguiente forma:
-
-2.3.1.- Importes recibidos del corredor.
-
-En caso que el monto recibido se encuentre registrado como garantía constituida, se acreditará en la cuenta "Garantías en efectivo por contratos a futuro" o, en su defecto, se abonará a la cuenta "Utilidades por contratos a futuro - mercado externo", o bien, a "Utilidades contratos a futuro de tasas de interés", de la partida 7710.
-
-2.3.2.- Importes remesados al corredor.
-
-Estos importes serán debitados en la cuenta "Garantías en efectivo por contratos a futuro", si el monto remesado pasa a incrementar la garantía constituida, o bien, en la cuenta "Pérdidas por contratos a futuro - mercado externo" o "Pérdidas contratos a futuro de tasas de interés", de la partida 5710, según corresponda.
-
-3.- Contratos a futuro celebrados con personas distintas de Bolsas Oficiales Extranjeras (PTC).
-
-3.1.- Contratos a futuro de monedas.
-
-Al celebrar estos contratos, se registrará el importe de la moneda extranjera que se adquiere a futuro y el monto de la moneda extranjera que se vende a futuro.
-
-3.1.1.- Celebración de los contratos.
-
-a) Por la moneda extranjera que se adquiere.
-
-Debe: "Moneda extranjera adquirida a futuro - mercado externo" de la partida 2127.
-
-Haber: "Contratos a futuro".
-
-b) Por la moneda extranjera que se vende.
-
-Debe: "Contratos a futuro".
-
-Haber: "Moneda extranjera vendida a futuro - mercado externo", de la partida 4127.
-
-3.1.2.- Liquidación de los contratos con entrega y recepción de las monedas extranjeras.
-
-a) Por la moneda extranjera que se recibe.
-
-Debe: - La cuenta que corresponda por la moneda extranjera recibida.
-
-- "Contratos a futuro".
-
-Haber: - "Conversión mercado bancario".
-
-- "Moneda extranjera adquirida a futuro - mercado externo".
-
-b) Por la moneda extranjera que se entrega.
-
-Debe: - "Conversión mercado bancario".
-
-- "Moneda extranjera vendida a futuro - mercado externo".
-
-Haber: - La cuenta que corresponda por el giro de la moneda extranjera vendida.
-
-- "Contratos a futuro".
-
-c) Por la moneda chilena.
-
-Debe: "Cambio mercado bancario", por el equivalente de la moneda extranjera que se adquiere.
-
-- "Pérdidas por contratos a futuro - mercado externo", de la partida 5710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", cuando proceda.
-
-Haber: - "Cambio mercado bancario", por el equivalente de la moneda extranjera que se vende.
-
-- "Utilidades por contratos a futuro - mercado externo", de la partida 7710, por la diferencia entre los importes que se registran en las cuentas "Cambio mercado bancario", cuando corresponda.
-
-3.1.3.- Liquidación de los contratos por compensación.
-
-En los casos en que no se realice la entrega de la moneda extranjera y los contratos se solucionen por compensación, su liquidación en las fechas de vencimiento dará lugar a la reversión de los asientos contables señalados en las letras a) y b) del numeral 3.1.1 y las diferencias que resulten a su favor o que sean de su cargo, serán registradas en la cuenta "Utilidades por contratos a futuro - mercado externo" , de la partida 7710, o bien, "Pérdidas por contratos a futuro - mercado externo", de la partida 5710, según proceda.
-
-3.2.- Contratos de protección de tasas de interés.
-
-3.2.1.- Celebración de los contratos.
-
-Debe: "Contratos de protección de tasas de interés", por el monto del capital sobre el cual se hubiere acordado la protección de la tasa de interés, de la partida 9551.
-
-Haber: La cuenta de orden de la partida 9900.
-
-Los importes registrados en estas cuentas se revertirán al liquidarse los respectivos contratos.
-
-3.2.2.- Liquidación de las diferencias.
-
-Las diferencias que resulten a favor de los bancos o que sean de su cargo, ya sea durante la vigencia de los contratos o al proceder a su liquidación, serán registradas en la cuenta "Utilidades contratos a futuro de tasas de interés", o bien, en la cuenta "Pérdidas contratos a futuro de tasas de interés", según corresponda.
-
-4.- Opciones.
-
-4.1.- Opciones sobre contratos a futuro de divisas.
-
-4.1.1.- Compra de opciones call (de compra) o put (de venta)
-
-a) Por el importe de los contratos a los que se refieren las opciones en la moneda que ellos representan.
-
-Debe: - "Opciones call adquiridas sobre contratos a futuro de divisas", o bien,
-
-- "Opciones put adquiridas sobre contratos a futuro de divisas"; ambas de la partida 2127.
-
-Haber: "Contratos a futuro".
-
-b) Por el contravalor de los contratos a los que se refieren las opciones en la moneda del precio pactado.
-
-Debe: - "Contratos a futuro."
-
-Haber: - "Contravalor de opciones call adquiridas sobre contratos a futuro de divisas", o bien,
-
-- "Contravalor de opciones put adquiridas sobre contratos a futuro de divisas", de la partida 4127.
-
-Los importes registrados en estas cuentas se revertirán al extinguirse, venderse o liquidarse la opción.
-
-4.1.2.- Primas por compras y enajenación de opciones.
-
-Las primas pagadas por compra de opciones serán debitadas en la cuenta "Primas por compra de opciones sobre contratos a futuro de divisas", de la partida 5530, en tanto que las primas cobradas por la enajenación de opciones serán registradas en la cuenta "Primas por venta de opciones sobre contratos a futuro de divisas", de la partida 7530.
-
-4.1.3.- Liquidación de opciones.
-
-Las diferencias que resulten a favor de los bancos al liquidar las opciones, se registrarán en la cuenta "Utilidades de opciones sobre contratos a futuro de divisas", de la partida 7710.
-
-4.2.- Opciones sobre contratos a futuro de tasas de interés.
-
-4.2.1.- Compra de opciones call (de compra) o put (de venta).
-
-Debe: - "Opciones put compradas sobre contratos de cobertura de tasas de interés", o bien,
-
-- "Opciones call compradas sobre contratos de cobertura de tasas de interés"; ambas de la partida 9550.
-
-Haber: La cuenta de orden de la partida 9900.
-
-Los importes registrados en estas cuentas se revertirán al extinguirse, venderse o liquidarse la opción.
-
-4.2.2.- Primas por las compras y enajenación de opciones.
-
-Los importes que se paguen por la adquisición de las opciones, se registrarán en la cuenta "Primas por compra de opciones sobre contratos de tasas de interés", de la partida 5530, o bien, "Primas por venta de opciones sobre contratos de tasas de interés", de la partida 7530, según corresponda.
-
-4.2.4.- Liquidación de opciones.
-
-Las diferencias que resulten a favor de las instituciones financieras al liquidar las opciones, se registrarán en la cuenta "Utilidades de opciones sobre contratos de tasas de interés", de la partida 7710.
-
-5.- Pago de comisiones a los corredores.
-
-Los gastos por comisiones serán registrados en la cuenta "Comisiones pagadas a corredores por operaciones con derivados", de la partida 5530.
-
-6.- Operaciones múltiples.
-
-6.1.- Operaciones forwards múltiples (Swaps) de divisas.
-
-Las operaciones "Swaps" de monedas que pueden realizar los bancos en el mercado externo al amparo de las disposiciones del Banco Central de Chile, son aquellas en las que se pactan dos o más operaciones forwards que consten en un solo contrato.
-
-En las operaciones antes mencionadas podrá convenirse la entrega de las respectivas monedas o el procedimiento de compensación de las diferencias que se generen en las fechas de vencimiento pactadas.
-
-Cada uno de los forwards incluidos en los referidos contratos, deberán constar separadamente unos de otros y registrarse individualmente, siguiendo al efecto las instrucciones contenidas en el N° 3 de este título.
-
-6.2.- Operaciones Swaps de tasas de interés.
-
-Las operaciones "Swaps" de intereses que pueden realizar los bancos de acuerdo con las disposiciones del Banco Central de Chile, son aquellas en las que se pacta con una contraparte el pagó recíproco de intereses, calculados a las tasas fija y variable convenidas, sobre un monto denominado teórico o nocional y durante un plazo estipulado. En estas operaciones también se fijan las fechas en las que se liquidarán los intereses durante la vigencia del contrato, cuyo pago se efectúa por el vendedor o por el comprador del swap, según corresponda, por el monto neto entre los intereses fijos y los variables.
-
-En caso que se pacte más de una operación en un mismo contrato, cada una de ellas deberá constar separadamente de las otras y registrarse individualmente, debiéndose aplicar las instrucciones contables contenidas en el N° 3 de este título.
-
-7.- Cuentas de "conversión" y "cambio" especiales.
-
-Los bancos habilitarán las cuentas "Conversión" y "Cambio" que estimen necesarias para el registro de las operaciones de que trata este título, como podría ser, a vía de ejemplo, cuando adquieran moneda extranjera con moneda chilena para constituir garantías.
-
-8.- Ajustes contables que deben efectuarse al cierre de cada mes.
-
-8.1.- Contratos a futuro de divisas.
-
-El último día de cada mes los bancos procederán a calcular y registrar provisionalmente la variación de paridad neta que a esa fecha hayan experimentado los contratos que mantengan vendidos y comprados a futuro en Bolsas Oficiales Extranjeras, como asimismo por los contratos a futuro de monedas (Forwards) que se encuentren vigentes, celebrados con personas o entidades distintas de dichas bolsas. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan efectuado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación contratos a futuro - mercado externo", de la partida 2127 ó 4127, y con abono a la cuenta "Utilidades por contratos a futuro - mercado externo" o con cargo a "Pérdidas por contratos a futuro -mercado externo", según proceda.
-
-El ajuste se realizará aplicando las paridades que tengan entre sí las monedas involucradas, según las cotizaciones a futuro internacionales cuyo plazo concluya en la fecha más cercana a la del vencimiento de los respectivos contratos, debiendo considerar, en todo caso, los ajustes parciales que se hayan efectuado durante su vigencia, ya sea mediante liquidación de diferencias a favor o la remesa de diferencias que sean de su cargo.
-
-Para los efectos de calcular dicha variación en términos de pesos moneda chilena, se aplicará el tipo de cambio de representación contable, vigente a la fecha del ajuste.
-
-8.2.- Contratos a futuro de tasas de interés.
-
-8.2.1.- Contratos transados en Bolsas Oficiales Extranjeras.
-
-El último día de cada mes, las instituciones bancarias procederán a calcular y registrar provisionalmente la variación de precio que a esa fecha hayan experimentado los contratos que mantengan comprados o vendidos a futuro por cobertura de tasas de interés. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente de la respectiva moneda, en pesos moneda chilena con cargo o abono, según proceda, a la cuenta "Variación provisional de contratos a futuro por cobertura de tasas de interés", de la partida 2127 ó 4127, y con abono a la cuenta "Utilidades contratos a futuro de tasas de interés" o con cargo a "Pérdidas contratos a futuro de tasas de interés", según corresponda.
-
-El ajuste se realizará sobre la base de las variaciones de precio que, con respecto al precio pactado a futuro, hayan experimentado al último día del respectivo mes, los contratos que se mantengan comprados o vendidos, debiendo considerar, en todo caso, los ajustes parciales que pudieran haberse efectuado durante su vigencia, ya sea mediante liquidación de diferencias a su favor o la remesa de las diferencias que sean de su cargo.
-
-El importe resultante se convertirá a moneda chilena al tipo de cambio de representación contable, vigente en la fecha del ajuste.
-
-8.2.2.- Contratos celebrados fuera de Bolsas Oficiales Extranjeras.
-
-El último día de cada mes, las instituciones bancarias procederán a calcular las variaciones de las tasas de interés pactadas en cada uno de los respectivos contratos y, en caso de determinar una diferencia a su favor o de cargo suyo, contabilizarán provisionalmente dicho importe. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hubieren contabilizado en el mes precedente.
-
-Dichos ajustes se registrarán por el equivalente en pesos moneda chilena de la respectiva moneda extranjera, con cargo o abono, según proceda, a la cuenta "Variación provisional por contratos de tasas de interés", de la partida 2127 ó 4127 y con abono a la cuenta "Utilidades contratos a futuro de tasas de interés" ó con cargo a "Pérdidas contratos a futuro de tasas de interés", según corresponda.
-
-Para determinar el equivalente en pesos de las mencionadas diferencias en moneda extranjera, se utilizará el tipo de cambio de representación contable, vigente en la fecha de ajuste.
-
-8.3.- Opciones.
-
-El último día de cada mes, las instituciones financieras procederán a determinar las diferencias de precio que hayan experimentado las opciones compradas vigentes, desde la fecha de compra, para registrar los importes de ellas en caso de que proceda. Al mes siguiente, antes de registrar el nuevo ajuste, procederán a revertir el que hayan contabilizado en el mes precedente.
-
-Dicho ajuste se registrará por el equivalente de las respectivas monedas, en pesos moneda chilena, con cargo a la cuenta "Variación provisional de opciones sobre contratos a futuro de divisas", de la partida 2127 y abono a "Utilidades de opciones sobre contratos a futuro de divisas", o bien, en la cuenta "Variación provisional de opciones sobre contratos de tasas de interés", de la partida 2127 y con abono a la cuenta "Utilidades de opciones sobre contratos de tasas de interés".
-
-El ajuste corresponderá exclusivamente al valor de las primas de las respectivas opciones y sólo se registrará en caso de que ellas aumenten antes de que expiren o se ejerzan. El importe de dicho valor se convertirá a moneda chilena, al tipo de cambio de representación contable vigente a la fecha del ajuste.
-
-III.- OTRAS INSTRUCCIONES.
-
-1.- Antecedentes de las operaciones a futuro.
-
-Los bancos deberán abrir carpetas separadas para las compras y ventas de contratos a futuro, para los contratos celebrados a futuro y para las compras y enajenación de opciones.
-
-En dichas carpetas deberán mantener los documentos en que conste la realización de dichas operaciones, las comunicaciones mantenidas con la persona que actúe como contraparte y los antecedentes relativos a las remesas de divisas para constituir garantías, pagar diferencias por variación de paridad u otros conceptos, como asimismo, los relativos a los importes recibidos por variación de paridad de los contratos a futuro y recuperación de garantías que hayan constituido.
-
-2.- Límites.
-
-Las operaciones de compra y venta de contratos a futuro en Bolsas Oficiales Extranjeras y la compra de opciones sobre contratos a futuro, no se considerarán para los efectos de los límites individuales de crédito de que trata el artículos 84 de la Ley General de Bancos. Tampoco quedarán afectos a estos límites, los contratos de protección de tasa de interés que las instituciones financieras celebren con instituciones del exterior.
-
-Las operaciones de compraventa a futuro de monedas extranjeras (Forward), estarán afectas a los límites de que trata el artículo 84 de la Ley General de Bancos, por la diferencia entre el precio pactado a futuro por dichas operaciones y el precio al contado de éstas, a la fecha de celebración del pacto, que sea de cargo de los respectivos obligados. En todo caso, dichos importes nominales no serán incluidos en los archivos de deudores que deben remitirse a esta Superintendencia.
-
-Las operaciones antes mencionadas que realicen los bancos, registradas en las partidas 2127 y 4127, quedan sujetas al margen a que se refiere el título IV del Capítulo 12-9 de esta Recopilación.
-
-3.- Información al Banco Central de Chile.
-
-Los bancos que realicen compras o ventas de contratos a futuro de monedas extranjeras o de tasas de interés y opciones sobre dichos contratos, deberán presentar al Banco Central de Chile, dentro de los plazos que en cada caso se indican, la información que se establece en el Capítulo IX del Compendio de Normas de Cambios Internacionales o la que, de acuerdo a sus facultades, solicite el Instituto Emisor.
 
 CAPITULO 14-8 (Bancos)
 
@@ -19088,13 +17732,15 @@ Los estados financieros individuales incluirán las siguientes notas, en los cas
 
 – Patrimonio.
 
-– Inversiones.
+- Instrumentos para negociación.
 
-– Vencimientos de activos y pasivos.
+- Instrumentos de inversión.
 
-– Saldos de moneda extranjera.
+- Derivados financieros.
 
-– Operaciones con productos derivados.
+- Vencimientos de activos y pasivos.
+
+- Saldos en moneda extranjera.
 
 – Contingencias, compromisos y responsabilidades.
 
@@ -19144,7 +17790,7 @@ Esta nota deberá incluirse también en el caso en que no existan operaciones o 
 
 La primera parte de la nota (letra a) contendrá la información relativa a las colocaciones y demás créditos, incluidos sus intereses por cobrar, otorgados a personas relacionadas con la institución.
 
-La información relativa a los créditos otorgados a personas relacionadas se presentará sobre la base de aquellos que se consideran para efectos de los límites de que trata el Capítulo 12-4 de esta Recopilación.Por consiguiente, en la nota se informarán tanto los créditos que se incluyen en el activo del Balance General,sea que se trate de colocaciones, operaciones con pacto o inversiones financieras, como aquellos créditos vigentes y vencidos que estuvieren registrados solamente en cuentas de orden, debiéndose indicar además,cuando corresponda, el importe total de las operaciones castigadas en los últimos cuatro años que se computan para esos límites, todo ello sin considerar los créditos otorgados a personas naturales que tengan un total de créditos igual o inferior a 3.000 UF.
+La información relativa a los créditos otorgados a personas relacionadas se presentará sobre la base de aquellos que se consideran para efectos de los límites de que trata el Capítulo 12-4 de esta Recopilación.Por consiguiente, en la nota se informarán tanto los créditos que se incluyen en el activo del Balance General,sea que se trate de colocaciones, operaciones con pacto o instrumentos para negociación o inversión, como aquellos créditos vigentes y vencidos que estuvieren registrados solamente en cuentas de orden, debiéndose indicar además,cuando corresponda, el importe total de las operaciones castigadas en los últimos cuatro años que se computan para esos límites, todo ello sin considerar los créditos otorgados a personas naturales que tengan un total de créditos igual o inferior a 3.000 UF.
 
 Junto con las cifras correspondientes a los créditos otorgados, se incluirán los montos a que ascienden sus respectivas garantías, considerando sólo aquellas que cumplan con las características especificadas en el artículo 84 de la Ley General de Bancos. Para este efecto las instituciones deberán atenerse a las disposiciones del Capítulo 12-3 de esta Recopilación Actualizada de Normas, incluidas las instrucciones sobre su valorización.
 
@@ -19204,23 +17850,41 @@ f) Cualquier otra información importante sobre esta materia.
 
 En la segunda parte de la nota se incluirá información acerca de los indicadores de Basilea, la determinación del capital básico y patrimonio efectivo para estos efectos, como asimismo el cómputo de los activos totales y su clasificación y ponderación por riesgo.
 
-10.- Nota de inversiones.
+10.- Notas sobre instrumentos de negociación e instrumentos de inversión.
 
-Esta nota tiene por objeto mostrar la composición de los saldos del rubro de "Inversiones" del balance general, y se presentará con información separada bajo los siguientes títulos: "a) Inversiones financieras"; y, "b) "Otras inversiones".
+10.1.- Instrumentos para negociación.
 
-La presentación se hará según los modelos que se incluyen en el Anexo N° 9 de este Capítulo.
+En esta nota se mostrará la composición de los instrumentos financieros mantenidos para negociación, separando aquellos títulos emitidos por el Estado y el Banco Central de Chile, respecto a los emitidos por otras entidades del país y del exterior.
 
-11.- Nota de vencimientos de activos y pasivos.
+Se informarán también los montos que se encuentren vendidos con pacto de recompra a la fecha del balance y los plazos promedios de recompra remanentes.
 
-El objeto de esta nota es mostrar la distribución de los principales activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general, incluyendo los intereses devengados hasta esa fecha. La nota se presentará de la forma que se muestra en el Anexo N° 10 de este Capítulo.
+En el Anexo N° 9 de este Capítulo se muestra un ejemplo de la nota que puede ser tomada como base, efectuando las adecuaciones del caso.
 
-12.- Nota sobre saldos en monedas extranjeras.
+10.2.- Instrumentos de inversión.
 
-En esta nota deben incluirse los saldos que se mantienen en moneda extranjera, incluyendo tanto los activos y pasivos pagaderos en monedas extranjeras, como aquellos expresados en moneda extranjera y pagaderos en moneda chilena o reajustables por la variación del tipo de cambio. La información se presentará considerando lo indicado en el Anexo N° 11 de este Capítulo.
+En esta nota se informará la composición de los instrumentos de inversión, en forma separada considerando la cartera de inversiones disponibles para la venta y las inversiones mantenidas hasta el vencimiento, distinguiendo aquellos títulos emitidos por el Estado y el Banco Central de Chile y los emitidos por otras entidades del país y del exterior.
 
-13.- Nota sobre productos derivados.
+Se indicarán también los montos de los instrumentos de inversión que han sido vendidos con pacto de recompra y los plazos promedios de recompra remanentes y, si existen instrumentos cedidos en préstamo, los montos correspondientes y la naturaleza de las operaciones.
 
-En esta nota se informarán las operaciones que la institución mantiene al cierre del ejercicio por concepto de contratos de operaciones de futuros, forward y swaps y combinaciones de estos, sobre monedas y sobre tasas de interés, tanto en el mercado local como en el mercado externo. La información corresponderá a la que se indica en el Anexo N° 12 de este Capítulo.
+Por otra parte, se informarán en esta nota los importes registrados en el patrimonio por los ajustes a valor razonable de los instrumentos disponibles para la venta.
+
+En el Anexo N° 9 de este Capítulo se muestra un ejemplo de la nota que puede ser tomada como base, efectuando las adecuaciones del caso.
+
+Si algún instrumento de inversión disponible para la venta no se presenta a valor razonable debido a que no se puede medir en forma fiable, se debe revelar este hecho, como también una descripción del instrumento, el monto registrado y una explicación del porqué no se puede valorizar confiablemente.
+
+11.- Nota sobre productos derivados.
+
+En esta nota se informarán las operaciones que la institución mantiene al cierre del ejercicio por concepto de contratos de derivados financieros.
+
+Los elementos mínimos que debe contener esta nota se muestran en el ejemplo incluido en el Anexo N° 10 de este Capítulo.
+
+12.- Nota de vencimientos de activos y pasivos.
+
+El objeto de esta nota es mostrar la distribución de los principales activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general, incluyendo los intereses devengados hasta esa fecha. La nota se presentará de la forma que se muestra en el Anexo N° 11 de este Capítulo.
+
+13.- Nota sobre saldos en monedas extranjeras.
+
+En esta nota deben incluirse los saldos que se mantienen en moneda extranjera, incluyendo tanto los activos y pasivos pagaderos en monedas extranjeras, como aquellos expresados en moneda extranjera y pagaderos en moneda chilena o reajustables por la variación del tipo de cambio. La información se presentará considerando lo indicado en el Anexo N° 12 de este Capítulo.
 
 14.- Nota de contingencias y compromisos no registrados en pasivos.
 
@@ -19270,7 +17934,7 @@ III.- ESTADOS FINANCIEROS CONSOLIDADOS.
 
 1.- Bases de preparación.
 
-Los estados financieros consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G.
+Los estados financieros consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en los Boletines Técnicos del Colegio de Contadores de Chile A.G.
 
 La integración de los saldos en el Balance General, Estado de Resultados y Estado de Flujo de Efectivo consolidados, debe hacerse de acuerdo con los criterios de exposición de la matriz. Además se considerará lo indicado en el N° 2 siguiente para el balance y estado de resultados.
 
@@ -19302,61 +17966,55 @@ I.- MODELO DE ESTADOS FINANCIEROS INDIVIDUALES.
 
 .
 
-II.- ADAPTACION DE LOS MODELOS.
+La presentación del Balance General y del Estado de Resultados deberá hacerse de acuerdo con los modelos anteriores, aun cuando en algunas líneas no se muestren saldos, lo que se indicará con un guión ("-").
 
-La presentación del Balance General y del Estado de Resultados deberá hacerse de acuerdo con los modelos anteriores, aun cuando en algunas líneas no se muestren saldos, lo que se indicará con un guión ("-"). Sin embargo, deben tenerse presente las siguientes excepciones:
+Se exceptúa de lo anterior el resultado de cambio, que debe mostrarse en forma neta y, por lo tanto, se utilizará sólo la línea "UTILIDAD DE CAMBIO NETA" o "PERDIDA DE CAMBIO NETA".
 
-a) Las sociedades financieras no presentarán la línea "ACREEDORES EN CUENTAS CORRIENTES" (H1).
+II.- AGRUPACIONES DE SALDOS.
 
-b) Las instituciones financieras que no hayan sido autorizadas para efectuar operaciones de leasing, podrán omitir las líneas "CONTRATOS DE LEASING" (B5) y "ACTIVOS PARA LEASING" (D5).
+Para obtener las cifras que corresponde presentar en el balance general y en el estado de resultados a partir de los saldos que se informan en los archivos C01 y C02 del Sistema de Información de esta Superintendencia, se sumarán los saldos de las partidas que se indican en la sección III de este Anexo, considerando además lo siguiente:
 
-c) Los resultados por operaciones de cambio deben mostrarse en forma neta. Por consiguiente, se utilizará sólo la línea que corresponda al resultado neto, ya sea "UTILIDAD DE CAMBIO NETA" o "PERDIDA DE CAMBIO NETA", excluyéndose la que no corresponda en caso de que no presente saldo en ambos ejercicios.
+1.- Cuentas de ajuste y control y saldos con sucursales.
 
-d) Por último, en caso de resultados negativos, pueden modificarse los nombres que contienen las expresiones "EXCEDENTE" y "UTILIDAD", considerando que se incluyen cifras comparativas
+Por tratarse de partidas que no reflejan activos o pasivos de la entidad, no se incluyen en la relación de partidas cuyos saldos deben sumarse, las correspondientes a las cuentas de ajuste y control ni las partidas 2105 y 4105 referidas a saldos con sucursales. Las cuentas de ajuste y control se anulan entre sí, en tanto que las cuentas de enlace entre oficinas deben ser debidamente procesadas para la generación de los estados financieros, de tal manera que las respectivas partidas del archivo CO1 no presenten saldos al cierre.
 
-III.- REAGRUPACIONES DE SALDOS.
+2.- Ajustes de partidas protegidas en el tratamiento de coberturas contables.
 
-Para obtener las cifras que corresponde presentar en el balance general a partir de los saldos que se informan en el Sistema de Información de esta Superintendencia, se sumarán los saldos de las partidas que se indican más adelante y, además, se efectuarán las reagrupaciones que se señalan a continuación:
+Dado que los ajustes a las partidas protegidas con derivados se incluyen en las partidas 2115 y 4115 del archivo C01, los montos correspondientes a tales ajustes deben ser incorporados en los respectivos activos y pasivos que han sido objeto de protección, a fin de mostrar en el balance su valor debidamente ajustado.
 
-1.- Para la presentación de las inversiones financieras.
+3.- Resultado de cambio neto.
 
-El importe de la partida 1750 "Ajuste a Valor de mercado de inversiones transables" deberá saldarse, sólo para efectos de presentación, contra las líneas D1, D2 y D3, a fin de presentar las inversiones con sus respectivos ajustes, teniendo en cuenta lo indicado en el párrafo siguiente.
+El resultado neto de cambio incluirá los reajustes por variación del tipo de cambio de los activos y pasivos. Por consiguiente, esos resultados que se incluyen en las partidas de reajustes del archivo C02 determinarán también el saldo que debe mostrarse como utilidad o pérdida de cambio neta, según corresponda.
 
-2. - Por diversas cuentas del activo y del pasivo.
+III.- RELACION CON LAS PARTIDAS DEL SISTEMA DE INFORMACION.
 
-En el Balance General deberán agruparse varios saldos o partidas en las líneas "OTROS ACTIVOS" (E) y "OTROS PASIVOS" (K), con los saldos netos que se obtendrán de los siguientes ajustes o reagrupaciones y de la suma de las partidas que se indican:
-
-Los saldos que componen las partidas comprendidas en los rubros "Cuentas de Ajuste y Control", deudoras o acreedoras, se incorporarán estableciendo previamente el importe neto de los saldos de aquellas partidas relacionadas entre sí, con excepción de las cuentas "Contratos a futuro". Para realizar estos ajustes se considerarán las cuentas en moneda extranjera por su equivalente en moneda chilena al tipo de cambio de representación contable vigente al cierre del ejercicio.
-
-El mismo procedimiento se seguirá en el caso de los saldos que reflejan los importes de las operaciones a futuro de la partida 2127 con respecto a los de las respectivas cuentas de la partida 4127. En este caso deben considerarse también las cuentas asociadas correspondientes a "Contratos a futuro" antes mencionadas, de las partidas 2525 y 4525
-
-3.- Otras reclasificaciones.
-
-Las demás reclasificaciones que deben efectuarse en relación con los importes que se muestran en las partidas del Sistema de Información, se indican en las instrucciones de la sección IV siguiente, en lo que toca a situaciones en que no bastaría la simple agrupación de saldos a nivel de partidas.
+1.- Balance General.
 
 .
 
-OBSERVACIONES:
+NOTAS:
 
-[#A]: Importe correspondiente a los ajustes a valor de mercado, según lo señalado en el N° 1 de las instrucciones sobre reagrupaciones de saldos.
+(1): No se incluyen las cuentas de ajuste y control ni las partidas 2105 y 4105("Saldos con sucursales en el país") por las razones indicadas anteriormente.
 
-[#B]: Cifra que se obtiene después de los ajustes extracontables para demostrar los importes netos, según se indica en el N° 2 de las instrucciones sobre reagrupaciones de saldos.
+(2): Incluye solamente las provisiones por riesgo de crédito y riesgo-país de las colocaciones. En el evento de que se hubieren constituido provisiones por operaciones interbancarias o con pacto (incluidas en la partida 4205), los importes correspondientes se restarán en las correspondientes líneas del activo. Del mismo modo, las provisiones por riesgo país que no correspondan a colocaciones, deben deducirse de los respectivos activos.
 
-INSTRUCCIONES:
+(3): Los saldos de partidas protegidas con derivados deben ser incluidos en los respectivos rubros del activo o pasivo, según lo indicado en la sección II.
 
-1: Incluye solamente las provisiones por riesgo de crédito y riesgo-país de las colocaciones. En el evento de que, por razones extraordinarias, se hubieren constituido provisiones especiales por operaciones interbancarias (no consideradas en el método de clasificación de cartera) o con pacto (incluidas en la partida 4205), o provisiones sobre inversiones financieras (partida 4210), los importes correspondientes se restarán en las correspondientes líneas del activo. Del mismo modo, las provisiones por riesgo-país que no correspondan a colocaciones, deben deducirse de los respectivos activos.
+(4): En todo caso, esta partida no tendrá saldo al cierre del ejercicio anual por la distribución de la corrección monetaria.
 
-2: Se entiende que los saldos con sucursales se encuentran en la partida 2105 o en la partida 4105, pero no en ambas.
+.
 
-3: En todo caso, esta partida no tendrá saldo al cierre del ejercicio anual por la distribución de la corrección monetaria.
+NOTAS:
 
-4: Incluir sólo si saldo neto de esta resta es acreedor.
+(a): IRT corresponde a los reajustes por variación del tipo de cambio de los activos, los que se incluirán en los resultados de cambio.
 
-5: Incluir sólo si saldo neto de esta resta es deudor.
+(b): GRT corresponde a los reajustes por variación del tipo de cambio de los pasivos, los que se incluirán en los resultados de cambio.
 
-6: Para reflejar las comisiones por colocaciones en letras de crédito junto con los intereses.
+(c): Si el saldo neto fuese deudor, debe usarse la línea P4.
 
 ANEXO N°2
+
+MODELO DE ESTADOS FINANCIEROS CONSOLIDADOS
 
 .
 
@@ -19384,59 +18042,93 @@ ANEXO N°4
 
 MODELO DE NOTA SOBRE CRITERIOS CONTABLES APLICADOS.
 
-NOTA N°1 - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
+NOTA N°I - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
 
 a) Información proporcionada.
 
-Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados. Las cifras correspondientes al ejercicio ............. se presentan actualizadas según la variación del Indice de Precios al Consumidor, en un....%.
+Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados. Las cifras correspondientes al ejercicio ..... se presentan actualizadas según la variación del Indice de Precios al Consumidor, en un....%.
 
-b) Intereses v reajustes.
+La preparación de los estados financieros requiere que la administración efectúe algunas estimaciones y supuestos que afectan los saldos informados de activos y pasivos, las revelaciones de contingencias respecto de activos y pasivos a la fecha de los estados financieros, así como los ingresos y gastos durante el período. Los resultados reales pueden diferir de estas estimaciones.
 
-Las colocaciones, inversiones y obligaciones se presentan con sus intereses y reajustes devengados hasta la fecha de cierre del ejercicio. Sin embargo, en el caso de las colocaciones vencidas y de las vigentes con alto riesgo de irrecuperabilidad se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes.
+b) Intereses y reajustes.
+
+Los activos y pasivos incluyen los intereses y reajustes devengados hasta la fecha de cierre del ejercicio. Sin embargo, en el caso de las colocaciones vencidas y de las vigentes con alto riesgo de irrecuperabilidad se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes.
 
 c) Corrección monetaria.
 
-El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un .../cargo/abono/...neto a resultados ascendente a $............millones ($.........millones en....).
+El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un .../cargo/abono/...neto a resultados ascendente a $..............millones ($.............millones en ....).
 
 Las cuentas de resultado no se presentan corregidas monetariamente.
 
 d) Moneda extranjera.
 
-Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $......por US$1 ($.......por US$ 1 en.......).
+Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $........por US$1 ($ .......por US$ 1 en .....).
 
-El saldo de $........... millones correspondiente a la ... utilidad/pérdida... de cambio neta que se muestra en el Estado de Resultados (... utilidad/pérdida de $ ............millones en.......), incluye el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera ../y el resultado realizado por las operaciones de cambio del banco/....
+El saldo de $.............. millones correspondiente a la ... utilidad/pérdida ... de cambio neta que se muestra en el Estado de Resultados (...utilidad/pérdida de $ .......... millones en .....), incluye el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera o reajustables por el tipo de cambio, y el resultado realizado por las operaciones de cambio del banco.
 
-e) Inversiones Financieras.
+e) Instrumentos para negociación.
 
-Las inversiones en instrumentos financieros con mercado secundario se presentan ajustadas a su valor de mercado de acuerdo con instrucciones específicas de la Superintendencia de Bancos e Instituciones Financieras. Dichas instrucciones exigen reconocer tales ajustes contra los resultados del ejercicio, salvo que se trate de cartera que tenga la cualidad de permanente, caso en que, sujeto a ciertos límites, se permite realizar tales ajustes directamente contra la cuenta patrimonial "Fluctuación de valores de inversiones financieras".
+Los instrumentos para negociación corresponden a valores adquiridos con la intención de generar ganancias por la fluctuación de precios en el corto plazo o a través de márgenes en su intermediación, o que están incluidos en un portafolio en el que existe un patrón de toma de utilidades de corto plazo.
 
-La aplicación de dicho ajuste significó un.../cargo/abono/...neto a los resultados del ejercicio ascendente a $...........millones ($.........millones en .....), monto que se incluye en los resultados operacionales correspondientes a la ..../"Utilidad por intermediación de documentos"/Pérdida por intermediación de documentos"/.......El ajuste de la cartera permanente, por su parte, significó un ....cargo/abono . ... neto contra patrimonio ascendente a $....millones.
+Los instrumentos para negociación se encuentran valorados a su valor razonable de acuerdo con los precios de mercado a la fecha de cierre del balance. Las utilidades o pérdidas provenientes de los ajustes para su valoración a valor razonable, como asimismo los resultados por las actividades de negociación, se incluyen en el rubro "Utilidad (pérdida) por negociación" del Estado de Resultados. Los intereses y reajustes devengados son informados como "Ingresos por intereses y reajustes".
 
-Las demás inversiones correspondientes a instrumentos financieros se presentan al valor de adquisición, más sus reajustes e intereses devengados.
+Todas las compras y ventas de instrumentos para negociación que deben ser entregados dentro del plazo establecido por las regulaciones o convenciones del mercado, son reconocidos en la fecha de negociación, la cual es la fecha en que se compromete la compra o venta del activo. Cualquier otra compra o venta es tratada como derivado (forward) hasta que ocurra la liquidación.
 
-f) Activo fijo físico.
+f) Contratos de derivados financieros.
+
+Los contratos de derivados financieros, que incluyen forwards de monedas extranjeras y unidades de fomento, futuros de tasa de interés, swaps de monedas y tasa de interés, opciones de monedas y tasa de interés y otros instrumentos de derivados financieros, son reconocidos inicialmente en el balance general a su costo (incluidos los costos de transacción) y posteriormente valorados a su valor razonable. El valor razonable es obtenido de cotizaciones de mercado, modelos de descuento de flujos de caja y modelos de valorización de opciones según corresponda. Los contratos de derivados se informan como un activo cuando su valor razonable es positivo y como un pasivo cuando éste es negativo, en los rubros "Contratos de derivados financieros".
+
+Ciertos derivados incorporados en otros instrumentos financieros, son tratados como derivados separados cuando su riesgo y características no están estrechamente relacionados con las del contrato principal y éste no se registra a su valor razonable con sus utilidades y pérdidas no realizadas incluidas en resultados.
+
+Al momento de suscripción de un contrato de derivado, éste debe ser designado por el Banco como instrumento derivado para negociación o para fines de cobertura contable.
+
+Los cambios en el valor razonable de los contratos de derivados financieros mantenidos para negociación se incluyen en el rubro "Utilidad por diferencias de precio" o "Pérdidas por diferencias de precio", según corresponda, en el Estado de Resultados.
+
+Si el instrumento derivado es clasificado para fines de cobertura contable, éste puede ser: (1) una cobertura del valor razonable de activos o pasivos existentes o compromisos a firme, o bien (2) una cobertura de flujos de caja relacionados a activos o pasivos existentes o transacciones esperadas. Una relación de cobertura para propósitos de contabilidad de cobertura, debe cumplir todas las condiciones siguientes: (a) al momento de iniciar la relación de cobertura, se ha documentado formalmente la relación de cobertura; (b) se espera que la cobertura sea altamente efectiva; (c) la eficacia de la cobertura se puede medir de manera razonable y (d) la cobertura es altamente efectiva en relación con el riesgo cubierto, en forma continua a lo largo de toda la relación de cobertura.
+
+Ciertas transacciones con derivados que no califican para ser contabilizadas como derivados para cobertura son tratadas e informadas como derivados para negociación, aun cuando proporcionan una cobertura efectiva para la gestión de posiciones de riesgo.
+
+Cuando un derivado cubre la exposición a cambios en el valor razonable de una partida existente del activo o del pasivo, esta última se registra a su valor razonable en relación con el riesgo específico cubierto. Las utilidades o pérdidas provenientes de la medición a valor razonable, tanto de la partida cubierta como del derivado de cobertura, son reconocidas con efecto en los resultados del ejercicio.
+
+Si el ítem cubierto en una cobertura de valor razonable es un compromiso a firme, los cambios en el valor razonable del compromiso con respecto al riesgo cubierto son registrados como activo o pasivo con efecto en los resultados del ejercicio. Las utilidades o pérdidas provenientes de la medición a valor razonable del derivado de cobertura, son reconocidas con efecto en los resultados del ejercicio. Cuando se adquiere un activo o pasivo como resultado del compromiso, el reconocimiento inicial del activo o pasivo adquirido se ajusta para incorporar el efecto acumulado de la valorización a valor razonable del compromiso a firme que estaba registrado en el balance general.
+
+Cuando un derivado cubre la exposición a cambios en los flujos de caja de activos o pasivos existentes, o transacciones esperadas, la porción efectiva de los cambios en el valor razonable con respecto al riesgo cubierto es registrada en el patrimonio. Cualquier porción inefectiva se reconoce directamente en los resultados del ejercicio. Los montos registrados directamente en patrimonio son registrados en resultados en los mismos periodos en que activos o pasivos cubiertos afectan los resultados.
+
+Cuando se realiza una cobertura de valor razonable de tasas de interés para una cartera, y el ítem cubierto es un monto de moneda en vez de activos o pasivos individualizados, las utilidades o pérdidas provenientes de la medición a valor razonable, tanto de la cartera cubierta como del derivado de cobertura, son reconocidas con efecto en los resultados del ejercicio, pero la medición a valor razonable de la cartera cubierta se presenta en el balance bajo Otros activos u Otros pasivos, según cual sea la posición de la cartera cubierta en un momento del tiempo.
+
+g) Instrumentos de inversión.
+
+Los instrumentos de inversión son clasificados en dos categorías: Inversiones al vencimiento e Instrumentos disponibles para la venta. La categoría de Inversiones al vencimiento incluye sólo aquellos instrumentos en que el Banco tiene la capacidad e intención de mantenerlos hasta su fecha de vencimiento. Los demás instrumentos de inversión se consideran como disponibles para la venta.
+
+Los instrumentos de inversión son reconocidos inicialmente al costo, el cual incluye los costos de transacción.
+
+Los instrumentos de inversión son inicialmente registrados a su valor de costo. Los instrumentos disponibles para la venta son posteriormente valorados a su valor razonable según los precios de mercado o valorizaciones obtenidas del uso de modelos. Las utilidades o pérdidas no realizadas originadas por el cambio en su valor razonable son reconocidas con cargo o abono a cuentas patrimoniales. Cuando estas inversiones son enajenadas o se deterioran, el monto de los ajustes a valor razonable acumulado en patrimonio es traspasado a resultados y se informa bajo "Utilidad por diferencias de precio" o "Pérdidas por diferencias de precio", según corresponda.
+
+Las Inversiones al vencimiento se registran a su valor de costo más intereses y reajustes devengados, menos las provisiones por deterioro constituidas cuando su monto registrado es superior al monto estimado de recuperación.
+
+Los intereses y reajustes de las Inversiones al vencimiento y de los Instrumentos disponibles para la venta se incluyen en el rubro "Ingresos por intereses y reajustes".
+
+Los instrumentos de inversión que son objeto de coberturas contables son ajustados según las reglas de contabilización de coberturas.
+
+Las compras y ventas de instrumentos de inversión que deben ser entregados dentro del plazo establecido por las regulaciones o convenciones del mercado, se reconocen en la fecha de negociación, en la cual se compromete la compra o venta del activo. Las demás compras o ventas se tratan como derivados (forward) hasta su liquidación.
+
+h) Activo fijo físico.
 
 El activo fijo se presenta valorizado al costo corregido monetariamente y neto de depreciaciones calculadas linealmente sobre la base de los años de vida útil de los respectivos bienes.
 
-g) Inversiones en sociedades.
+i) Inversiones en sociedades.
 
 Las acciones o derechos en sociedades en las cuales la institución tiene una participación igual o superior al 10% o pueda elegir o designar a lo menos un miembro en su Directorio o Administración, se encuentran registradas en el activo a su valor patrimonial proporcional (VPP).
 
-h) Provisiones por activos riesgosos.
+j) Provisiones por activos riesgosos.
 
 Las provisiones exigidas para cubrir los riesgos de pérdida de los activos han sido constituidas de acuerdo con las normas de la Superintendencia de Bancos e Instituciones Financieras. Los activos se presentan netos de tales provisiones o demostrando la rebaja, en el caso de las colocaciones.
 
-i) Impuestos diferidos.
+k) Impuestos diferidos.
 
 Los efectos de impuestos diferidos por las diferencias temporales entre el balance tributario y el balance financiero, se registran sobre base devengada según el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
 
-j) Vacaciones del personal.
-
-El costo anual de vacaciones y los beneficios del personal se reconocen sobre base devengada.
-
-El modelo de notas antes indicado se utilizará en todo lo que resulte aplicable en el caso de cada institución financiera.
-
-k) Vacaciones del personal.
+l) Vacaciones del personal.
 
 El costo anual de vacaciones y los beneficios del personal se reconocen sobre base devengada.
 
@@ -19510,35 +18202,25 @@ En el Activo Fijo se presentan inversiones en sociedades por $...........millone
 
 (*): Esta línea es para incluir como un total los importes netos de provisiones correspondientes a acciones o derechos en sociedades que no son filiales ni coligadas.
 
-ANEXO N°7
+ANEXO N° 7
 
 MODELO DE NOTA SOBRE PROVISIONES.
 
-NOTA... - PROVISIONES.
+NOTA...- PROVISIONES.
 
-a) Provisiones para cubrir activos riesgosos.
+Al 31 de diciembre de.............. /el banco/la sociedad/... mantiene provisiones por un total de $ ........ millones para cubrir eventuales pérdidas.
 
-Al 31 de diciembre de ......... .../el banco/la sociedad/... mantiene provisiones por un total de $ ...(1)... millones .para cubrir eventuales pérdidas.
-
-El movimiento registrado durante el ejercicio en las provisiones a que se refiere esta letra a) se resume como sigue:
+El movimiento registrado durante el ejercicio en las provisiones se resume como sigue:
 
 .
 
 A juicio de la administración, las provisiones constituidas cubren todas las eventuales pérdidas que pueden derivarse de la no recuperación de activos, según los antecedentes examinados por la institución.
 
-b) Provisiones voluntarias. (2)
-
-Además de las provisiones para cubrir activos riesgosos señaladas en la letra a) de esta nota, la institución mantiene provisiones voluntarias por un total de $ .................... millones. Por concepto de .../constitución/liberación/ ... de estas provisiones genéricas, se ha ...... cargado/abonado .... a los resultados del ejercicio la suma de $ ............. millones.
-
-(1): Suma de los saldos de las partidas 4205, 4207, 4210, 4220 y 4241, que son los que deben mostrarse en el cuadro.
-
-(2): En caso de que la institución no mantenga provisiones voluntarias (saldo de la partida 4245), en esta letra b) señalará indicará simplemente "No hay.".
-
 ANEXO N°8
 
 MODELO DE NOTA SOBRE PATRIMONIO.
 
-NOTA... - PATRIMONIO.
+NOTA...- PATRIMONIO.
 
 A) Patrimonio contable.
 
@@ -19556,201 +18238,81 @@ De acuerdo con lo dispuesto en la Ley General de Bancos, el capital básico mín
 
 .
 
-ANEXO N°9
+El Capital básico es equivalente, para estos efectos, al capital pagado y reservas del banco. El Patrimonio efectivo y los activos se consideran sobre base consolidada con las subsidiarias. El Patrimonio efectivo se determina a partir del Capital básico con los siguientes ajustes: a) se suman los bonos subordinados con tope del 50% de ese Capital Básico y las provisiones adicionales y aquellas constituidas sobre la cartera de riesgo normal, con tope de 1,25% de los activos ponderados por riesgo, b) se deducen, el saldo de los activos correspondientes a goodwill o sobreprecios pagados y a inversiones en sociedades que no participan en la consolidación.
 
-MODELO DE NOTA SOBRE INVERSIONES.
+ANEXO N° 9
 
-.
+EJEMPLO DE NOTA SOBRE INSTRUMENTOS PARA NEGOCIACION.
 
-* Clasificación según los emisores u obligados al pago. Este cuadro incluye, a nivel de totales, un monto de $ ... (1).. millones por instrumentos vendidos con pacto de retrocompra...../y $ ....... millones por instrumentos entregados en garantía.
+NOTA ... Instrumentos para negociación
 
-** Se incluyen dentro de la cartera permanente los instrumentos cuyo ajuste a valor de mercado se efectúa contra la cuenta "Fluctuación de valores de inversiones financieras" según lo descrito en Nota 1, .... /como asimismo instrumentos intransferibles que ascienden a $ ....... millones/......
-
-b) Otras inversiones.
+El detalle de los instrumentos designados como instrumentos financieros para negociación es el siguiente:
 
 .
 
-* Los bienes recibidos en pago se incluyen netos de provisiones constituidas por $ ................ millones. El importe que se muestra en el balance corresponde al valor estimado de realización de estos bienes en su conjunto.
+Bajo Instrumentos del Estado y del Banco Central de Chile se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............ y MM$.............. al 31 de diciembre de 20YY y 20XX, respectivamente. Bajo Otros Instrumentos Financieros se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............y MM$................ al 31 de diciembre de 20YY y 20XX, respectivamente. Los pactos de recompra tienen un vencimiento promedio de.......días al cierre del ejercicio (.......días en 20XX)
 
-Además de los bienes recibidos en pago o adjudicados que están registrados en el activo, existen otros que fueron castigados y que aún no han sido enajenados. Se estima que estos bienes castigados podrán realizarse en una suma aproximada a MM$ .... (2)..
+EJEMPLO DE NOTA SOBRE INSTRUMENTOS DE INVERSION.
 
-INSTRUCCIONES:
+NOTA .... Instrumentos de inversión
 
-(1): Incluidos repos con el Banco Central de Chile, si fuere el caso. Los importes de este párrafo se incluyen con sus ajustes a valor de mercado.
+El detalle de los instrumentos que el Banco ha designado como inversiones disponibles para la venta y como inversiones al vencimiento es el siguiente:
 
-(2): El monto que se indique debe corresponder a un valor razonable de realización, basado en los precios que se obtendrían en transacciones libres entre partes independientes y de acuerdo con la situación actual del mercado.
+Inversiones disponibles para venta
+
+.
+
+Bajo Instrumentos del Estado y del Banco Central de Chile se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............ y MM$.............. al 31 de diciembre de 20YY y 20XX, respectivamente. Bajo Otros Instrumentos Financieros se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............y MM$................al 31 de diciembre de 20YY y 20XX, respectivamente. Los pactos de recompra tienen un vencimiento promedio d e.......días al cierre del ejercicio (.......días en 20XX):
+
+Al 31 de diciembre de 20YY y 20XX la cartera de instrumentos disponibles para la venta incluye una utilidad (pérdida) neta no realizada de MM$...........y MM $........ , respectivamente, registrada como ajustes de valoración en el patrimonio.
 
 ANEXO N°10
 
-MODELO DE NOTA DE VENCIMIENTO DE ACTIVOS Y PASIVOS.
+EJEMPLO DE NOTA SOBRE CONTRATOS DE DERIVADOS.
 
-NOTA... - VENCIMIENTOS DE ACTIVOS Y PASIVOS.
+NOTA ....- Contratos de derivados financieros
 
-a) Vencimientos de colocaciones e inversiones financieras.
-
-A continuación se muestran las colocaciones e inversiones financieras agrupadas según sus plazos remanentes. Los saldos incluyen los intereses devengados hasta el 31 de diciembre de ......
+El Banco utiliza los siguientes instrumentos derivados para propósitos de cobertura contable y negociación:
 
 .
-
-COLOCACIONES (1):
-
-– Préstamos comerciales y otros
-
-– Créditos hipotecarios para vivienda
-
-– Préstamos de consumo
-
-OTRAS OPERACIONES DE CREDITO:
-
-– Préstamos a otras instituciones financieras
-
-– Créditos por intermediación de documentos
-
-INVERSIONES FINANCIERAS:
-
-– Cartera permanente (2)
-
-– Cartera no permanente (3)
-
-(1) Considera sólo los créditos efectivos vigentes al cierre del ejercicio con vencimiento en los períodos que se indican. Por consiguiente, se excluyen ..../las colocaciones contingentes y /.... los créditos traspasados a cartera vencida, como asimismo los créditos morosos que no han sido traspasados a cartera vencida que ascendían a $ .............. millones, de los cuales $ ............. millones tenían una morosidad inferior a 30 días..
-
-(2) Incluye documentos que componen la cartera permanente según lo descrito en Nota 1, sin considerar sus ajustes a valor de mercado..../y los instrumentos intransferibles /....
-
-(3) Incluye el monto total del resto de la cartera de inversiones financieras, con su respectivo ajuste a valor de mercado.
-
-b) Vencimientos de las captaciones, préstamos y otras operaciones de financiamiento.
-
-A continuación se muestran las captaciones, préstamos y otras obligaciones, agrupadas según sus plazos remanentes. Los saldos incluyen los intereses devengados hasta el 31 de diciembre de ......
-
-.
-
-CAPTACIONES Y OTRAS OBLIGACIONES (*):
-
-– Depósitos y captaciones
-
-– Otras obligaciones a plazo
-
-– Obligaciones por intermediación de documentos
-
-– Obligaciones por letras de crédito
-
-OBLIGACIONES POR EMISION DE BONOS
-
-PRESTAMOS OBTENIDOS DE ENTIDADES FINANCIERAS Y BANCO CENTRAL DE CHILE:
-
-– Líneas de créditos por reprogramaciones
-
-- Otras obligaciones con el Banco Central
-
-- Préstamos de instituciones financieras del país
-
-- Obligaciones con el exterior
-
-- Otras obligaciones
-
-(*) Excluye todas las obligaciones a la vista,../y/.... las cuentas de ahorro a plazo .......//y las obligaciones contingentes/.....
-
-INSTRUCCIONES
-
-Demostración de los saldos de las colocaciones y otras operaciones de crédito:
-
-– Deben excluirse aquellos saldos que expresamente se indican al pié de la nota, esto es, las colocaciones contingentes, la cartera vencida y los créditos morosos no traspasados a cartera vencida.
-
-– Dentro de los "Créditos hipotecarios para vivienda" se incluirán tanto los créditos en letras de crédito, como los otorgados con mutuos hipotecarios endosables y otros créditos hipotecarios destinados a la adquisición de vivienda señalados en el Capítulo 8-28 de esta Recopilación.
-
-– Los "Préstamos comerciales y otros" se refieren a aquellas colocaciones que no correspondan a créditos hipotecarios para vivienda, créditos de consumo ni préstamos a otras instituciones financieras.
-
-– El concepto "Otras operaciones de crédito" sigue el criterio de exposición del balance general.
-
-Demostración de los saldos de las inversiones financieras:
-
-– Las inversiones financieras se incluirán en dos grupos, según lo indicado al pié de la nota.
-
-– Para la "cartera no permanente" se incluirá su importe, neto de ajustes a valor de mercado, en la columna "Hasta un año".
-
-– El monto de las inversiones clasificadas como "cartera permanente" debe, en cambio, distribuirse en las columnas considerando su valor contable y las fechas de vencimiento de los documentos.
 
 ANEXO N°11
 
+MODELO DE NOTA DE VENCIMIENTO DE ACTIVOS Y PASIVOS.
+
+NOTA ...- VENCIMIENTOS DE ACTIVOS Y PASIVOS
+
+a) Vencimiento de colocaciones y otros activos financieros
+
+A continuación se muestran las colocaciones y otros activos financieros agrupados según sus plazos remanentes, incluyendo los intereses devengados hasta el 31 de diciembre de .... Al tratarse de instrumentos para negociación o disponibles para la venta, estos se incluyen por su valor razonable y dentro del plazo en que pueden ser vendidos.
+
+.
+
+CONTRATOS DE DERIVADOS FINANCIEROS
+
+(*) Considera sólo los créditos efectivos vigentes al cierre del ejercicio. Por consiguiente, se excluyen las colocaciones contingentes, los créditos traspasados a cartera vencida, como asimismo los créditos morosos que no han sido traspasados a cartera vencida que ascendían a $ ..............millones, de los cuales $ ............. millones tenían una morosidad inferior a 30 días.
+
+b) Vencimiento de captaciones, préstamos y otras operaciones de financiamiento
+
+A continuación se muestran las captaciones, préstamos y otras obligaciones, agrupadas según sus plazos remanentes, incluyendo los intereses devengados hasta el 31 de diciembre de.....
+
+.
+
+CONTRATOS DE DERIVADOS FINANCIEROS
+
+(*) Excluye todas las obligaciones a la vista, las cuentas de ahorro a plazo y las obligaciones contingentes.
+
+ANEXO N°12
+
 MODELO DE NOTA SOBRE MONEDA EXTRANJERA.
 
-NOTA ... - SALDOS DE MONEDA EXTRANJERA.
+NOTA ...- SALDOS EN MONEDA EXTRANJERA.
 
 En los Balances Generales se incluyen activos y pasivos en moneda extranjera o reajustables por la variación del tipo de cambio, por los montos que se indican a continuación:
 
 .
 
 * Comprende operaciones expresadas en moneda extranjera y pagaderas en pesos u operaciones reajustables por el tipo de cambio.
-
-INSTRUCCIONES:
-
-Utilizar el cuadro sólo con los conceptos que correspondan. Las sociedades financieras pueden presentar de otra forma la información, dado que la preparación de un cuadro en su caso no se justifica.
-
-La presentación sigue el criterio de agrupación de saldos del Balance General, excluyéndose, en consecuencia, las cuentas de ajuste y control.
-
-ANEXO N°12
-
-MODELO DE NOTA SOBRE PRODUCTOS DERIVADOS.
-
-A continuación se incluye un esquema de presentación de las operaciones con derivados, el que se utilizará haciendo los ajustes del caso para incluir sólo los conceptos correspondientes a las operaciones existentes al cierre de los respectivos ejercicios:
-
-NOTA...- OPERACIONES CON PRODUCTOS DERIVADOS.
-
-Operaciones con productos derivados mantenidas al cierre del ejercicio .....:
-
-.
-
-Mercado local:
-
-– Forward de monedas extranjeras con moneda chilena
-
-– Forward de monedas extranjeras
-
-– Futuros de monedas comprados (1)
-
-– Futuros de monedas vendidos (1)
-
-– Futuros de tasas de interés comprados (1)
-
-– Futuros de tasas de interés vendidos (1)
-
-– Forward u otros contratos de tasa de interés
-
-Mercados externos:
-
-– Forward de monedas extranjeras
-
-– Futuros de monedas comprados (1)
-
-– Futuros de monedas vendidos (1)
-
-– Futuros de tasas de interés comprados (1)
-
-– Futuros de tasas de interés vendidos (1)
-
-– Forward u otros contratos de tasa de interés
-
-El monto se refiere a los dólares comprados o vendidos o al equivalente en dólares de la moneda extranjera comprada o vendida a futuro, o bien el monto en dólares sobre el cual están convenidos los contratos de tasa de interés, en su caso. Los plazos corresponden al de duración de los contratos desde la fecha de la operación.
-
-b) Contratos sobre el valor de algún sistema de reajustabilidad autorizado (SRA) y sobre tasas de interés en moneda chilena.
-
-.
-
-– Forward en SRA/pesos comprados
-
-– Forward en SRA/pesos vendidos
-
-– Futuros de SRA comprados (1)
-
-– Futuros de SRA vendidos (1)
-
-c) Opciones. (2)
-
-INSTRUCCIONES:
-
-(1): Estas líneas consideran información correspondiente a posiciones abiertas de futuros en bolsas.
-
-(2): En caso de que la institución opere con opciones y mantenga posiciones abiertas al cierre del ejercicio, deberá informarse el tipo de opciones ("call" o "put", compradas o vendidas) y los contratos a los que se refiere (monedas o tasas de interés), agrupadas por plazos residuales de vencimiento según: 30 días, 31 a 60 días, 61 a 90 días y más de 90 días.
 
 ANEXO N°13
 
