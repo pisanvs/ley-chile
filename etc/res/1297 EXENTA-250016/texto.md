@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.297, de 11 de mayo de 2006, de esta Subsecretaría, autorízase a LUIS EDGARDO DE LA CERDA DELPIN para ampliar las actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Bombero Perret Nº 37, Hualqui, VIII Región, donde podrá elaborar en la línea de proceso de Conserva los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
