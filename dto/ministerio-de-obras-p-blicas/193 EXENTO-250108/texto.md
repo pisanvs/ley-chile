@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 193 de 28 de abril de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: "Camino Cobquecura - Buchupureo - Trehualemu, sector Puente Buchupureo, Km.
+
+0,00000 a Km. 0,32454", que figura a nombre de Pacheco Ayala Olga Ester, rol de avalúo Nº 166-18, comuna de Cobquecura, VIII Región, superficie 293 m². La Comisión de Peritos fijó el monto provisional de la indemnización con fecha 15 de noviembre de 2004, en la cantidad de $732.500.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
