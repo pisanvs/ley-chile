@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 200, de fecha 28 de abril del 2006, se expropiaron los lotes de terrenos Nºs. 40, 40-A y 41, superficies 1.600, 222, 1.618 m² respectivamente, Rol Nº 524-127, y lote Nº 35-A, superficie 1.310 m², Rol Nº 524-128, comuna de La Unión, X Región, para la obra "Camino Ruta T-80, Sector La Unión - Las Trancas, Km. 0,900 al Km. 10,99034, provincia de Valdivia X Región", y se acordó el valor de indemnización con su propietario Saturnino Leal Díaz, ascendente a la cantidad de $2.103.594.
+
+Fiscal del Ministerio de Obras Públicas.
