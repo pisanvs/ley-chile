@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 207 de fecha 28 de abril de 2006, se expropió el lote de terreno Nº 14-A, superficie 3.524 m², rol Nº 144-39, comuna de Huasco, para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, provincia de Huasco, Región de Atacama, Etapa II", III Región y se acordó el valor de la indemnización con su propietario Santiago Israel Rojas González, ascendente a la cantidad de $343.340.
+
+- Fiscal del Ministerio de Obras Públicas.
