@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 203, de fecha 28 de febrero de 2006, se expropió el lote de terreno Nº 27-1, superficie 935 m², Rol Nº 107-185, comuna de Curacaví, Región Metropolitana para la obra "Concesión Internacional Interconexión Vial Santiago-Valparaíso-Viña del Mar. Enlace Zapata Oriente, Lámina Especial 1", y se acordó el valor de indemnización con su propietaria Ana Silvia Cifuentes Sanz, ascendente a la cantidad de $2.711.321.
+
+- Fiscal del Ministerio de Obras Públicas.
