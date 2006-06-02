@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 216, de fecha de 28 abril 2006, se expropió el lote de terreno Nº 48, superficie 58,6 m², Rol 45-74, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, II Etapa" y se acordó el valor de indemnización con su propietario Club Deportivo Unión Católica, ascendente a la cantidad de $423.607.
+
+- Fiscal del Ministerio de Obras Públicas.
