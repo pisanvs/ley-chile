@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 46 de 04.05.2006, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez Nº 1041, Rol de Avalúo Nº 757-6, de la comuna de Rancagua, superficie aproximada de 222,19 de terreno, delimitada en polígono D-C-F-E-D conforme al Plano elaborado por la Comisión Tasadora, de aparente dominio de la Sociedad Educacional Instituto San Andrés Limitada, a fojas 6364 Nº 5675, del año 1999 "Proyecto Mejoramiento Eje Miguel Ramírez-Camino a Machalí, Tramo Bombero Villalobos-Límite comuna Machalí", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según Informe de fecha abril de 2005, monto provisional en $13.815.000.
+
+Directora Subrogante Serviu VI Región.
