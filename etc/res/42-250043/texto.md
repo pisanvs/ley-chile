@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 42 de 04.05.2006, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez Nº 1351, rol de avalúo Nº 758-3, de la comuna de Rancagua, superficie aproximada de 241,17 m2 de terreno, delimitada en polígono F-G-J-K-F conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de Flavio Guzmán Miranda, a fojas 9502 Nº 7814, del año 1998 "Proyecto Mejoramiento Eje Miguel Ramírez-Camino a Machalí, Tramo Bombero Villalobos-Límite comuna Machalí, conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha abril de 2005, monto provisional en $12.166.420.
+
+Directora Subrogante Serviu VI Región.
