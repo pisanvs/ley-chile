@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 204 de fecha 28 de abril de 2006, se expropió el lote de terreno Nº 12, superficie 5.120 m², rol Nº 144-37, comuna de Huasco, para la obra "Construcción Camino Costero, Tramo Huasco- Carrizal, provincia de Huasco, Región de Atacama, Etapa II", III Región y se acordó el valor de la indemnización con su propietario Wilhelm Franz Adolf Josef Von Mayenberger Rojas, ascendente a la cantidad de $417.563.
+
+- Fiscal del Ministerio de Obras Públicas.
