@@ -1,0 +1,3 @@
+Por decreto MOP Nº 310 de 27 de abril de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, lo establecido en el artículo Nº 32, del decreto ley Nº 2.186, de 1978, se dejó sin efecto la expropiación del lote de terreno Nº 1, expropiado mediante decreto MOP Nº 1.390 de 30 de noviembre de 2005, por cuanto se acordó una venta directa con la sucesión de don Horst Krumbach Kroneberg, propietarios de dicho predio y Essan S.A.
+
+Fiscal del Ministerio de Obras Públicas.
