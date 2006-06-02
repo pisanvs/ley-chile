@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 47 de 04.05.2006, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez Nº 1065, Rol de Avalúo Nº 757-23, de la comuna de Rancagua, superficie aproximada de 47,50 de terreno, delimitada en polígono H-G-J-I-H conforme al Plano elaborado por la Comisión Tasadora, de aparente dominio de Angela del Carmen Hermosilla Guzmán, a fojas 10.384 Nº 8.646, del año 1998 "Proyecto Mejoramiento Eje Miguel Ramírez-Camino a Machalí, Tramo Bombero Villalobos-Límite comuna Machalí", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según Informe de fecha abril de 2005, monto provisional en $2.647.200.
+
+Directora Subrogante Serviu VI Región.
