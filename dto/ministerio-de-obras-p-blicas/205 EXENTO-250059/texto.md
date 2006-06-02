@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 205, de fecha 28 de abril de 2006, se expropió el lote de terreno Nº 4, superficie 10.663 m², rol Nº 144-29, comuna de Huasco, para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, provincia de Huasco, Región de Atacama, Etapa II", III Región y se acordó el valor de la indemnización con su propietaria Eva Carmela Rojas González, ascendente a la cantidad de $620.492.
+
+- Fiscal del Ministerio de Obras Públicas.
