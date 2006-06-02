@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 40 de 04.05.2006, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez Nº 1325, rol de avalúo Nº 758-1, de la comuna de Rancagua, superficie aproximada de 340,79 m2 de terreno, delimitada en polígono A-B-C-D-E-A conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de Djalma Venegas Ramírez, a fojas 5.392 Nº 4.254, del año 1991 "Proyecto Mejoramiento Eje Miguel Ramírez-Camino a Machalí, tramo Bombero Villalobos-Límite comuna Machalí, conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha abril de 2005, monto provisional en $24.181.540.
+
+Directora Subrogante Serviu VI Región.
