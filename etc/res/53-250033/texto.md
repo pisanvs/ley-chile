@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución N° 53 de 04.05.2006, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez N° 1065, Rol de Avalúo N° 757-8, de la comuna de Rancagua, superficie aproximada de 43,98 de terreno, delimitada en polígono I-J-K-L-I conforme al Plano elaborado por la Comisión Tasadora, de aparente dominio de Sociedad Hotelera San Nicolás Ltda., a fojas 4784 vta. N° 3980, del año 2005 "Proyecto Mejoramiento Eje Miguel Ramírez-Camino a Machalí, Tramo Bombero Villalobos-Límite comuna Machalí", conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según Informe de fecha abril de 2005, monto provisional en $2.299.000.
+
+Directora Subrogante Serviu VI Región.
