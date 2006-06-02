@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 213, de 28 de abril de 2006, se expropió el lote de terreno Nº 5, superficie 355 m², Rol Nº 608-118, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, Camino de Acceso Km. 10,267" y se acordó el valor de indemnización con su propietaria Olfa Estela Aedo Cartes y otros, ascendente a la cantidad de $641.041.
+
+- Fiscal del Ministerio de Obras Públicas.
