@@ -1,0 +1,5 @@
+Por decreto exento Nº 183, de 28 de abril de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 21A y 21B, para la obra Camino Ruta V-505, sector Puerto Varas - Los Alerces - Puerto Montt, Tramo Km.
+
+0,000 a Km. 16,340, que figuran a nombre de Haeger Berner Sergio G., rol de avalúo 1441-5, comuna de Puerto Varas, X Región, superficies 1.080 m² y 102 m². La Comisión de Peritos, fijó con fecha 5 de enero de 2001, complementada por acta de fecha 31 de agosto de 2005, en lo que se refiere al nombre de la obra, en las cantidades de $2.507.000, para el lote Nº 21A y $219.300, para el lote Nº 21B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
