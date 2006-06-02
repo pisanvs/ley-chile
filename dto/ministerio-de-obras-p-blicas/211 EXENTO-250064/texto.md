@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 211, de fecha 28 de abril del 2006, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 898,10 y 438,65 m², Rol Nº 223-14, comuna de Perquenco, IX Región, para la obra "Construcción Puente Quillen, Camino Quillen - Perquenco - Púa, tramo Km. 0,34000 a Km. 0,68000", y se acordó el valor de indemnización con su propietario Pablo Esteban Cabrales Huentenao, ascendente a la cantidad de $2.134.988.- para los lotes Nºs. 1 y 2.
+
+Fiscal del Ministerio de Obras Públicas.
