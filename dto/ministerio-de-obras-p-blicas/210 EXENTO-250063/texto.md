@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 210 de fecha 28 de abril del 2006, se expropió el lote de terreno Nº 6, superficie 250 m², Rol 141-007, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, provincia de Huasco, Región de Atacama, Etapa I", y se acordó el valor de indemnización con su propietario don Manuel Antonio Soria Avalos y otros, ascendente a la cantidad de $1.355.895.
+
+- Fiscal del Ministerio de Obras Públicas.
