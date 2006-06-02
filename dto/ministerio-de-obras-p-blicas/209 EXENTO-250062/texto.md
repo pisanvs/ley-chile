@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 209 de fecha 28 de abril del 2006, se expropió el lote de terreno Nº 25-D1, superficie 185 m², Rol Nº 162-19, comuna de Casablanca, V Región, para la obra "Red Vial Litoral Central Sector 3: Eje Costero Interior Subtramo Rosario - Orrego Abajo Km. 20.520,00 al Km. 27.440,00", y se acordó el valor de indemnización con sus propietarias Miriam del Carmen Rubio Calderon y Ana María Rubio Calderón, ascendente a la cantidad de $348.214.
+
+- Fiscal del Ministerio de Obras Públicas.
