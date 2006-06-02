@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 214, de 28 de abril de 2006, se expropió el lote de terreno Nº 9, superficie 3.094 m², Rol Nº 144-34, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, provincia de Huasco, Región Atacama, Etapa II" y se acordó el valor de indemnización con su propietaria Selma Ledy Rojas González, ascendente a la cantidad de $343.391.
+
+- Fiscal del Ministerio de Obras Públicas.
