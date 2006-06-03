@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.389, de 23 de mayo de 2006, de esta Subsecretaría, modifícase la resolución Nº 1.118, de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Evaluación del stock de Sardina común y Anchoveta, Zona Centro-Sur (Regiones VII a X), Otoño 2006", en el sentido de incorporar en la citada pesca de investigación a la nave industrial "Santa María II", del armador Lota Protein S.A., la que podrá operar por fuera del área de reserva artesanal, en el área marítima comprendida entre los paralelos 34º25' L.S. y 40º00' L.S.
+
+En el desarrollo de la pesca de investigación, la nave antes indicada podrá extraer una cuota máxima total de 450 toneladas del recurso Anchoveta y 450 toneladas del recurso Sardina común.
+
+Valparaíso, 23 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
