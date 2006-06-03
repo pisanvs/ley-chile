@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.288, de 10 de mayo de 2006, de esta Subsecretaría, autorízase a PROCESADORA DE ALIMENTOS OMEGA SEAFOODS LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Gerónimo Méndez Nº 2089, Barrio Industrial, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso Fresco enfriado, Congelado y Cocido, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
