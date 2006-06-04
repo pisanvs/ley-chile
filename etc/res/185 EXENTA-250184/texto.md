@@ -1,0 +1,5 @@
+EXTRACTOS DE RESOLUCIONES EXENTAS QUE SE INDICAN, RELATIVAS A AUTORIZACION PARA DELEGAR FACULTADES EN MATERIAS SOBRE IMPUESTO TERRITORIAL
+
+1.- Por resoluciones exentas Nºs. 830 de 22.05.2006, 636 de 16.05.2006, 44 de 19.05.2006, 3.875 de 24.05.2006, 792 de 18.05.2006, 125 de 16.05.2006, 2.814 de 12.05.2006, 430 de 18.05.2006, 1.676 de 15.05.2006, 185 de 19.05.2006, 3.875 de 16.05.2006, 597 de 24.05.2006 y 2.590 de 15.05.2006, respectivamente, los Directores de las I, II, III, V, VI, VII, VIII, IX, X, XII, XIV, XV y XVI Direcciones Regionales del Servicio, conforme lo dispone resolución exenta Nº 55 del 11.05.2006, relativa a autorización para delegar facultades en materias sobre Impuesto Territorial, en los funcionarios que en cada resolución se indican.
+
+Santiago, 30 de mayo de 2006.- Gina Anastasov Aguilera, Secretaria General, Servicio de Impuestos Internos.
