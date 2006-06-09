@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.429, de 30 de mayo de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99082003 presentada por COOPERATIVA DE PESCADORES PELILLEROS, ISLA SANTA MARIA LTDA., para instalar y operar un centro de cultivo ubicado en Rada Puerto sur, Isla Santa María, VIII Región.
+
+Valparaíso, 30 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
