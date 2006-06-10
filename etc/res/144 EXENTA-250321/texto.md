@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A EMPRESAS CAROZZI
+
+La Dirección de Grandes Contribuyentes del SII, por resolución Ex. Nº 144 de 29 de mayo de 2006, otorga, a contar del 1º del mes siguiente al de esta publicación a Empresas Carozzi, RUT Nº 96.591.040-9, la calidad de agente retenedor del Impuesto al Valor Agregado en las ventas de arroz, en conformidad a lo establecido en la resolución Ex. SII Nº 1.341, de 22.02.2000 publicada en el Diario Oficial del 26.02.2000.
