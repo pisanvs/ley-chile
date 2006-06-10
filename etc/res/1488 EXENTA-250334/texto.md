@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.488, de 2 de junio de 2006, de esta Subsecretaría, modifícase la resolución Nº 1.252, modificada por resoluciones Nº 1.311 y Nº 1.390, todas de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Determinación de la Distribución Espacial de Jurel entre la V y X Regiones, Otoño 2006", en los siguientes términos:
+
+a) En su numeral 4º, en el sentido de extender el plazo de ejecución de la presente pesca de investigación hasta el día 15 de junio de 2006, inclusive; y b) En su numeral 6º, en el sentido de indicar que la nave "Remoy Viking" podrá capturar el remanente no capturado de la cuota máxima total del recurso Jurel asignado a la nave industrial "Antartic", ambas del armador Pesquera San José S.A.
+
+Valparaíso, 2 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
