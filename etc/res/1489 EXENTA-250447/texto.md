@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.489 de 2 de junio de 2006, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 314 de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de extender el plazo de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2006, inclusive.
+
+Valparaíso, 2 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
