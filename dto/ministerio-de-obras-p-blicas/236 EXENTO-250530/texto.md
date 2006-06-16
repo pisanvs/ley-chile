@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 236 de 26 de mayo de 2006, se modificó el decreto MOP (exento) Nº 1.726 de 28 de diciembre de 2004, en la parte que se refiere a los Lotes Nº 34, el que debe figurar a nombre de Gómez Muñoz Germán Antonio, rol de avalúo Nº 58-279, superficie 141 m2 y lote Nº 42 a nombre de Leiva Gárate Alba Ester, rol de avalúo Nº 58-436 ambos de la comuna de Romeral, superficie 367.
+
+Fiscal del Ministerio de Obras Públicas.
