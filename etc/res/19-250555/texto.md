@@ -1,0 +1,5 @@
+Por resolución Nº 19, de 22 de mayo de 2006, tomada razón el 26 de mayo de 2006 por Contraloría Regional, el Serviu XII Región dispuso expropiación parcial, conforme D.L. 1.523 de 1976, D.S. 75 de V. y U. de 2005 y D.L.
+
+2.186 de 1978, de inmueble ubicado en Martínez de Aldunate Nº 2155, rol de avalúo 2.352-23, comuna de Punta Arenas, de aparente dominio de Héctor Ricardo Sepúlveda Vidal. El área afecta a expropiación es 21,53 metros cuadrados conforme plano SM 4628-20 de 2005. Comisión tasadora integrada por los arquitectos Srs. Jeanette Antunovic Petric, José Barría Bonacic y María Soledad Martínez Rubín, según informe de 5 de diciembre de 2005, fijó monto provisional indemnización en $5.111.000.-, que será pagada de contado, más reajustes legales que correspondan.
+
+Director Serviu XII Región.
