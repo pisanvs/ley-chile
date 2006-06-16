@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 238 de 26 de mayo de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP exento Nº 204 de 30 de noviembre de 2000, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 20, fijada por la Comisión de Peritos, con fecha 19 de febrero de 1999, ascendente a la cantidad de $70.000.- para el lote Nº 20.
+
+Fiscal del Ministerio de Obras Públicas.
