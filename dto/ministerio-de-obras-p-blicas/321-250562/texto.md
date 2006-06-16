@@ -1,0 +1,5 @@
+Por decreto MOP Nº 321 de 28 de abril de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 18 para la obra: Camino Chovellen - Cobquecura Sector Chovellen - Límite Regional Tramo 18,260.00 a km.
+
+35,158.60, que figura a nombre de Muñoz Suazo José y otra, rol de avalúo 281-213 de la Comuna de Pelluhue, VII Región, superficie 1.545 m2. La Comisión de Peritos con fecha 15 de junio de 2000, complementada por Acta de fecha 11 de noviembre de 2005 fijó el monto de la indemnización provisional en la cantidad de $3.399.000.- lote Nº 18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
