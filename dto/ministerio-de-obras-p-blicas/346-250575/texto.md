@@ -1,0 +1,3 @@
+Por decreto MOP Nº 346, de fecha 28 de abril de 2006, se expropió el lote de terreno Nº 16, superficie 69 m², Rol Nº 7761-19, comuna de Pudahuel, Región Metropolitana para la obra "Sistema Américo Vespucio Nor-Poniente, Av. El Salto-Ruta 78. Sector 4: Condell-Costanera Norte", y se acordó el valor de indemnización con su propietario Inversiones Antillanca S.A., ascendente a la cantidad de $4.267.969.
+
+- Fiscal del Ministerio de Obras Públicas.
