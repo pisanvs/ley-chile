@@ -1,0 +1,3 @@
+Por decreto MOP Nº 218 de fecha 28 de abril de 2006, se expropiaron los lotes de terreno Nºs. 2, 3 y 4, superficies 40.000, 9.405 y 5.550 m² respectivamente, rol Nº 514-57, comuna de Cisnes, para la obra "Regularización de terrenos que ocupa el Aeródromo de Melimoyu, comuna de Cisnes, Región de Aysén del General Carlos Ibáñez del Campo", XI Región y se acordó el valor de la indemnización con su propietario Pedro Onofre Saavedra Novoa, ascendente a la cantidad de $3.684.623.-
+
+Fiscal del Ministerio de Obras Públicas.
