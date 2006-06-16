@@ -1,0 +1,3 @@
+Por decreto MOP Nº 340 de 28 de abril de 2006, se expropiaron los lotes de terreno Nºs 19-C, 19-D y 19-E, superficies 110,40, 1.117,00 y 526,15 m2, respectivamente, rol de Avalúo Nº 632-010, comuna de Quintero, para la obra "Ruta F-190, Sector Colmo Puchuncaví, Km. 0,00000 al 25,22591, Comunas de Limache, Con-Con, Quintero, Quillota y Puchuncaví, Provincias de Valparaíso y Quillota, V Región", y se acordó el valor de la indemnización con su propietario Sociedad Inmobiliaria Alto del Bosque de Mantagua S.A., ascendente a la cantidad de $8.698.766.
+
+- Fiscal del Ministerio de Obras Públicas.
