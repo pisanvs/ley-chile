@@ -1,0 +1,5 @@
+Por decreto MOP Nº 350, de 12 de mayo de 2006 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 153-1 para la obra: "Concesión Internacional Ruta 5; Tramo Temuco -
+
+Río Bueno Km. 752.627,11 a Km.753.953,45"; Novena Región, que figura a nombre de Fourcade Nambrand Marcelo, rol de avalúo 361-41, comuna de Loncoche, superficie 2.774 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, fijó con fecha 15 de abril de 2005, el valor provisional de la indemnización en la cantidad de $35.143.000.- El informe de tasación de la mencionada fecha fue complementado con Acta de 19 de agosto de 2005. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
