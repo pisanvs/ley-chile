@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 240, de 26 de mayo de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 6-A y 38, para la obra:
+
+"Mejoramiento Ruta Q-965, Huepil - Trupan - Polcura, Tramo II Km. 12,54000 a Km. 22,94000", que figuran a nombre de I. Municipalidad de Tucapel y Ortega Urra Carmen Helia, roles de avalúo Nºs 270-288 y 267-126, comuna de Tucapel, VIII Región, superficies 481 m2 y 1.564 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 19 de noviembre de 2004, complementada por acta de fecha 05 de agosto de 2005, en la cantidad de $915.600.- para el lote Nº 38 y el 05 de agosto de 2005, en la cantidad de $346.320.- para el lote Nº 6-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
