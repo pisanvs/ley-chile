@@ -1,0 +1,3 @@
+Por decreto MOP Nº 334, de 28 de abril de 2006, se expropió el lote de terreno Nº 5, superficie 7.228 m², rol de avalúo Nº 276-46, comuna de Putaendo, para la obra "Camino Cabildo-Putaendo, Ruta E-41, Sector El Tártaro-Putaendo, Tramo Km. 58,86000 a Km. 65,13300, comuna de Putaendo, provincia de San Felipe, V Región", y se acordó el valor de la indemnización con su propietaria Virginia del Carmen Cortés Briceño y otros, ascendente a la cantidad de $6.613.048.
+
+Fiscal del Ministerio de Obras Públicas.
