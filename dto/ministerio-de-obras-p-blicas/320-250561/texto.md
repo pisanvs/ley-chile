@@ -1,0 +1,3 @@
+Por decreto MOP Nº 320, de 28 de abril de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6-C para la obra: "Mejoramiento Ruta Q-503, Los Angeles - El Peral", que figura a nombre de Aguilera Velozo Israela Venera, rol de avalúo Nº 1535- 53, Comuna de Los Angeles, VIII Región, superficie 192 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 25 de septiembre de 2004, en la cantidad de $9.351.213.- para el lote Nº 6-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
