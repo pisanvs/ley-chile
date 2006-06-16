@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLE QUE INDICA
+
+Resolución Nº 159, 11 de mayo de 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Tubul, Rol de Avalúo Nº 185-46 de la comuna de Arauco, superficie aproximada 6.486,98 metros cuadrados de terreno y linderos particulares enmarcados en el polígono A-B-C-D-E-F-G-H-I-J-A, del plano de expropiación S8R-20.718 P, de aparente dominio de Rodríguez Gutiérrez, Rosa Ameli, para ejecución proyecto "Construcción Planta Tratamiento Aguas Servidas", Programa "Chile Barrio", en la comuna de Arauco, conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Felipe Toledo Quijada, arquitecto, Roxana Abarzúa Gajardo, ingeniero constructor, y Alvaro Berríos San Martín, arquitecto, según informe de fecha 7 de abril de 2006, fijó monto provisional indemnización en $41.841.021.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
