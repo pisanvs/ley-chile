@@ -1,0 +1,3 @@
+Por decreto MOP Nº 336, de fecha 28 de abril del 2006, se expropiaron los lotes de terrenos Nºs. 25, 28, 29 y 30, superficies 808,9; 946,1; 1.340,8 y 261,9 m² respectivamente, Rol Nº 45-47, 45-49, 45-50 y 45-51 respectivamente, comuna de Monte Patria, IV Región para la obra "Camino Ruta D-557, Juntas-Cental Los Molles, Sector Juntas-Rapel, Km. 0,00000 al Km. 13,28846", y se acordó el valor de indemnización con su propietario Sociedad Agrícola Cerro Campanario Ltda., ascendente a la cantidad de $7.552.506.
+
+Fiscal del Ministerio de Obras Públicas.
