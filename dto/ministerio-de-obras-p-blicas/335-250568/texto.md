@@ -1,0 +1,3 @@
+Por decreto MOP Nº 335 de fecha 28 de abril de 2006, se expropiaron los lotes de terreno Nºs. 13-C, 14 y 32, superficies 275, 1.954 y 4.881 m² respectivamente, rol Nº 1535-76 y 1535-88, comuna de Los Angeles, para la obra "Mejoramiento Ruta Q-503, Los Angeles-El Peral", VIII Región y se acordó el valor de la indemnización con su propietario Raquel Fica Pinto y Otra, ascendente a la cantidad de $20.313.614.
+
+- Fiscal del Ministerio de Obras Públicas.
