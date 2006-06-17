@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.138, de 24 de abril de 2006, de esta Subsecretaría, autorízase a TEODORO RUBEN RIVADENEIRA RECABARREN para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en La Pólvora Nº 226, Isla Robinson Crusoe, comuna de Juan Fernández, V Región, donde podrá elaborar en la línea de proceso Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de abril de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
