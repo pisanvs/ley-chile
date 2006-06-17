@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.333, de 17 de mayo de 2006, de esta Subsecretaría, autorízase a NILDA NORMA CUEVAS GORDILLO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Panamericana Sur Km. 796, III Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 17 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
