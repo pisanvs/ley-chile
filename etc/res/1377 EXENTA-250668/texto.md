@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.377, de 19 de mayo de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101390 presentada por BERNARDO ESTEBAN RIQUELME TORO y CARLOS ALBERTO SUBIABRE ASENCIO, para instalar y operar un centro de cultivo ubicado en estero Reloncaví, al suroeste de Punta Serapio, X Región.
+
+Valparaíso, 19 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
