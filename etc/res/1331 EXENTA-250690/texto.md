@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.331, de 17 de mayo de 2006, de esta Subsecretaría, autorízase a MARLENE ELIZABETH MORALES ROJAS, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Caleta Bandurria, situada a 35 Km. al norte de Taltal, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 17 mayo 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
