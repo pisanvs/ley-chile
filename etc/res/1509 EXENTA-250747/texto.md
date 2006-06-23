@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.509, de 5 de junio de 2006, de esta Subsecretaría, autorízase a PROCESADORA DE ALIMENTOS INFAL SOCIEDAD ANONIMA, para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en visto, en orden a incorporar a la planta ubicada en Cardonal Nº 28 Interior, Puerto Montt, X Región, en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado y Congelado el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 5 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
