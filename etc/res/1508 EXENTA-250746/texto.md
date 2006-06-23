@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.508, de 5 de junio de 2006, de esta Subsecretaría, autorízase a SALMONOIL S.A., para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en sector La Campana s/n, Calbuco, X Región, donde podrá elaborar en las líneas de proceso Harina y Aceite, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 5 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
