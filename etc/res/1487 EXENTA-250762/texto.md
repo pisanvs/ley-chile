@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.487, de 2 de junio de 2006, de esta Subsecretaría, autorízase a PESQUERA ISLA DEL REY S.A. para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Los Condestables Nº 390, Niebla, Valdivia, X Región, la línea de proceso de Conserva, respecto de los recursos autorizados en la resolución Nº 1.930, de 1995 y donde podrá elaborar en las líneas de Proceso Fresco Refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 2 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
