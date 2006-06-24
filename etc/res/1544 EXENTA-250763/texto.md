@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.544 de 7 de junio 2006 de esta Subsecretaría, autorízase A WILLY FERNANDO TOLEDO VEGA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Elena Vera Muñoz Nº644 A, comuna de Ancud, X Región donde podrá elaborar en las líneas de proceso de Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
