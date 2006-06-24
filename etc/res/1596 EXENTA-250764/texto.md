@@ -1,0 +1,7 @@
+Por resolución exenta Nº1.596 de 15 de junio 2006 de esta Subsecretaría, autorízase al CENTRO DE ECOLOGIA APLICADA LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la composición y abundancia relativa de la comunidad íctica de los ríos Baker y Pascua, XI Región".
+
+El objetivo de la pesca de investigación consiste en determinar cualitativa y cuantitativamente los efectos que se producirán sobre el ecosistema reófilo de los ríos Baker y Pascua en la XI Región, como resultado de la construcción y operación de embalses en dichos cursos de agua.
+
+La pesca de investigación se efectuará por el término de un año en la cuenca de los ríos Baker y Pascua, XI Región. La peticionaria podrá capturar, con devolución, mediante pesca eléctrica y espinel, ejemplares de las especies principales Perca trucha, Tollo y Farionela listada y de las especies secundarias Trucha arcoiris y Trucha café. Sin perjuicio de lo anterior, la peticionaria podrá capturar un máximo de tres ejemplares de las especies antes individualizadas, por campaña de muestreo en cada una de las estaciones señaladas en el numeral anterior.
+
+Valparaíso, 15 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
