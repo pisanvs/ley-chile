@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.541, de 7 de junio de 2006, de esta Subsecretaría, autorízase a CENTRO LOGISTICO PESQUERO SANTIAGO S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Américo Vespucio Nº 1500, sitio 4, Santiago, Región Metropolitana, donde podrá elaborar en las líneas de proceso de cocido, fresco, enfriado, fresco refrigerado, congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
