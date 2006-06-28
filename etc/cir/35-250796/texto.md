@@ -1,0 +1,7 @@
+DECRETO SUPREMO QUE REGLAMENTA LO DISPUESTO POR EL INCISO CUARTO DEL ARTICULO 64 BIS DE LA LEY DE LA RENTA, QUE ESTABLECE EL IMPUESTO ESPECIFICO A LA ACTIVIDAD MINERA
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 35, de fecha 21 de junio de 2006, que da a conocer texto de decreto supremo que reglamenta el inciso cuarto del artículo 64 bis de la Ley de la Renta establece que el valor de una tonelada métrica de cobre fino se determinará de acuerdo al valor promedio que el cobre Grado A contado haya presentado durante el ejercicio respectivo en la Bolsa de Metales de Londres, el cual será publicado en moneda nacional por la Comisión Chilena del Cobre dentro de los primeros 30 días de cada año.
+
+Lo dispuesto por dicha norma legal ha sido reglamentado por el Ministerio de Hacienda mediante decreto supremo Nº 1.465, publicado en el Diario Oficial el 5 de junio de 2006, cuyo texto se da a conocer mediante la presente Circular, por ser una disposición complementaria para la aplicación del impuesto específico a la actividad minera.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y además, aparecerá en el Boletín del SII en junio de 2006.
