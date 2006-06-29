@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.478, de 2 de junio de 2006, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.306, de 2006, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2006-04, denominado "Evaluación directa de langostino colorado y langostino amarillo entre la II y la VIII Región, año 2006", en el sentido de reemplazar a la nave artesanal "Trauwun I" por la embarcación "Oriente", matrícula 1234, del armador Mario Morozin Bajcic, en calidad de titular.
+
+Valparaíso, 2 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
