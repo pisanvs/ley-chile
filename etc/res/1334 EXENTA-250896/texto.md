@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.334, de 17 de mayo de 2006, de esta Subsecretaría, autorízase a JUAN LUIS DIAZ COLLAO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Bilbao Nº A-8, Taltal, II Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 17 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
