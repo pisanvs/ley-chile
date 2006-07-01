@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.491, de 2 de junio de 2006, de esta Subsecretaría, rectifícase el numeral 4º de la resolución Nº 1.417 de 2006, de esta Subsecretaría, que autorizó a SOCIEDAD DE DESARROLLO DE LA PESCA ARTESANAL S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de la captura y desembarque de los recursos pelágicos asociados a la flota artesanal de cerco sardinera y anchovetera de la VIII Región", en el sentido de indicar que el nombre de la embarcación artesanal autorizada para participar en la presente pesca de investigación es "Carmen Loreto", y no "Loreto", como allí se indica.
+
+Valparaíso, 2 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
