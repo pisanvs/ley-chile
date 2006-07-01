@@ -17982,7 +17982,7 @@ Por tratarse de partidas que no reflejan activos o pasivos de la entidad, no se 
 
 Dado que los ajustes a las partidas protegidas con derivados se incluyen en las partidas 2115 y 4115 del archivo C01, los montos correspondientes a tales ajustes deben ser incorporados en los respectivos activos y pasivos que han sido objeto de protección, a fin de mostrar en el balance su valor debidamente ajustado.
 
-3.- Resultado de cambio neto.
+3 .- Resultado de cambio neto.
 
 El resultado neto de cambio incluirá los reajustes por variación del tipo de cambio de los activos y pasivos. Por consiguiente, esos resultados que se incluyen en las partidas de reajustes del archivo C02 determinarán también el saldo que debe mostrarse como utilidad o pérdida de cambio neta, según corresponda.
 
@@ -17994,7 +17994,7 @@ III.- RELACION CON LAS PARTIDAS DEL SISTEMA DE INFORMACION.
 
 NOTAS:
 
-(1): No se incluyen las cuentas de ajuste y control ni las partidas 2105 y 4105("Saldos con sucursales en el país") por las razones indicadas anteriormente.
+(1): No se incluyen las cuentas de ajuste y control ni las partidas 2105 y 4105 ("Saldos con sucursales en el país") por las razones indicadas anteriormente.
 
 (2): Incluye solamente las provisiones por riesgo de crédito y riesgo-país de las colocaciones. En el evento de que se hubieren constituido provisiones por operaciones interbancarias o con pacto (incluidas en la partida 4205), los importes correspondientes se restarán en las correspondientes líneas del activo. Del mismo modo, las provisiones por riesgo país que no correspondan a colocaciones, deben deducirse de los respectivos activos.
 
