@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 345 de fecha 28 de abril de 2006, se expropió el lote de terreno Nº 15, superficie 229 m2, rol Nº 7762-10, comuna de Pudahuel, para la obra "Sistema Américo Vespucio Nor - Poniente, Av. El Salto - Ruta 78. Sector 4: Condell - Costanera Norte" Región Metropolitana y se acordó el valor de la indemnización con su propietario Cecinas San Jorge S.A., ascendente a la cantidad de $22.727.828.
+
+Fiscal del Ministerio de Obras Públicas.
