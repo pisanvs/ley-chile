@@ -1,0 +1,5 @@
+Por decreto MOP N° 393, de 26 de mayo de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840, se expropió el lote de terreno N° 97, para la obra: "Camino Reposición Ruta S-40, sector Nueva Imperial- Carahue, tramo km. 0,00000 al km. 21,58295, correspondiente al Subtramo III Km.
+
+12,86300 al km. 21,58295", que figura a nombre de Forestal Mininco S.A., rol de avalúo 1259-16, Comuna de Nueva Imperial, IX Región, superficie 1.713 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 25 de julio de 2005, en la cantidad de $9.031.900.- para el lote N° 97. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
