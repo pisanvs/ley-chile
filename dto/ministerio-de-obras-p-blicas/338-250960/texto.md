@@ -1,0 +1,3 @@
+Por decreto MOP N° 338 de fecha 28 de abril de 2006, se expropiaron los lotes de terreno N°s. 61-A, 62-A y 68-A, superficies 159, 117 y 517 m2, Roles N° 609-19 y 608-2, comuna de Santa Cruz, VI Región para la obra "Camino Santa Cruz-Yaquil, Rol I-730, Km. 0,00000 a Km. 7,46939", y se acordó el valor de indemnización con su propietario Roberto Alfonso Benavides Toledo, ascendente a la cantidad de $10.290.725.
+
+Fiscal del Ministerio de Obras Públicas.
