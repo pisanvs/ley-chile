@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.483, de 2 de junio de 2006, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para realizar por el período de tres años, contados desde la fecha de la presente resolución, actividades experimentales de acuicultura sobre el recurso hidrobiológico Merluza del sur, en la concesión de acuicultura otorgada mediante resolución Nº 763 de 1995, de la Subsecretaría de Marina, ubicada en sector Peñasco, canal San Antonio, X Región.
+
+Valparaíso, 2 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
