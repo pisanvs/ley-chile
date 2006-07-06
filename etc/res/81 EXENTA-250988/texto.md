@@ -1,0 +1,5 @@
+AUTORIZA EMISORES ELECTRONICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº81, de 29 de junio de 2006, que autoriza a contribuyentes como emisores electrónicos. Se autoriza como emisores de documentos tributarios electrónicos a RUT 96.928.800-1, RUT 89.218.600-6, RUT 76.408.520-5, RUT 93.250.000-0, RUT 99.501.760-1, RUT 99.579.990-1, RUT 79.552.710-9, RUT 83.493.700-K, RUT 96.751.780-1, RUT 99.532.890-9, RUT 96.675.670-5, RUT 77.259.660-K, RUT 07.311.230-3, RUT 77.146.380-0, RUT 99.523.500-5, RUT 96.924.740-2, RUT 76.141.890-4, RUT 76.009.170-7, RUT 77.893.980-0, RUT 77.170.710-6, RUT 99.543.760-0, RUT 96.937.360-2, RUT 96.934.820-9 y RUT 77.698.820-0 a contar del mes de julio de 2006. En la oficina virtual del SII en internet se podrá consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de junio de 2006.
