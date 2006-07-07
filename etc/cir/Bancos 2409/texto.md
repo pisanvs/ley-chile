@@ -2246,6 +2246,8 @@ En lo que se refiere al cobro de comisiones por el pago de cheques por sobregiro
 
 El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija se ha calculado, determinado y comunicado al cliente, considerando todos los costos que son propios del servicio ofrecido.
 
+Lo indicado en el párrafo anterior no es óbice para cobrar los montos variables que se originen por las transacciones realizadas en el exterior.
+
 6.- Gastos por otros conceptos ligados a operaciones bancarias.
 
 Los bancos podrán cobrar a sus clientes los gastos propios del cumplimiento de otros requisitos relacionados con las operaciones convenidas, tales como el costo de las escrituras de constitución e inscripción de hipotecas; gastos por impuestos de timbres y estampillas; gastos de corresponsal relacionados con cartas de crédito; cobranzas u otras operaciones; primas de seguro, cuando se haya especificado que éstos sean de cargo del cliente; así como aquellos indicados en el Capítulo 9-1 de esta Recopilación y los que se mencionen expresamente en otros Capítulos de la misma Recopilación.
@@ -9239,6 +9241,8 @@ Las comisiones y/o cargos deberán fijarse por períodos no inferiores a un año
 Al tratarse de comisiones y/o cargos cobrados en forma anticipada, como lo puede ser una comisión por mantención, referida a un período, se dejará constancia de la forma en que se procederá con las eventuales devoluciones en caso de poner término anticipadamente al contrato.
 
 Las comisiones y/o cargos no podrán determinarse como un porcentaje de las transacciones efectuadas y deberán responder a servicios efectivamente prestados a favor de los titulares de las tarjetas de crédito. En ningún caso podrán cobrarse importes adicionales a las comisiones y/o cargos, a título de gastos incurridos (como procesamiento de datos, envío de los estados de cuenta, renegociaciones o repactaciones, etc.), puesto que ellos no se efectúan por cuenta de los titulares de las tarjetas sino que corresponden a los costos necesarios para proveer los servicios ofrecidos por el emisor.
+
+Lo indicado en el párrafo anterior no es óbice para cobrar los montos variables que se originen por las transacciones realizadas en el exterior.
 
 Si se efectuaren pagos anticipados de los créditos por el uso de las tarjetas, las empresas emisoras podrán cobrar por concepto de "comisión de prepago" una suma que no debe exceder lo estipulado en el inciso segundo del artículo 10 de la Ley N° 18.010.
 
