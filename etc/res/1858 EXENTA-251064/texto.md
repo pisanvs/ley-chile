@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.858, de esta Subsecretaría, modifícase la resolución exenta Nº 4.525 de 2005, de esta Subsecretaría, que autorizó a PESCA CHILE S.A. para realizar operaciones pesqueras de conformidad con lo dispuesto en el artículo 12 Transitorio de la ley Nº 18.892, en el sentido de excluir a la nave "Betanzos" e incorporar a la nave fábrica denominada "Diego Ramírez", la que podrá operar en aguas exteriores, por fuera de las líneas de base recta, en las áreas marítimas comprendidas entre los paralelos 44º30' L.S. y 47º L.S., respecto de los recursos y con las obligaciones establecidas en la resolución exenta Nº 1.857 de 2006, de esta Subsecretaría.
+
+Valparaíso, 30 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
