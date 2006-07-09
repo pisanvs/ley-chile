@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.853, de 30 de junio de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111799 presentada por GRIEG SEA-FOOD CHILE S.A., hoy Chile Seafood S.A., para instalar y operar un centro de cultivo ubicado en estero sin nombre, al sur de Isla Victoria, XI Región.
+
+Valparaíso, 30 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
