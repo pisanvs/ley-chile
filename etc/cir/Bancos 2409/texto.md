@@ -15122,11 +15122,11 @@ El patrimonio efectivo antes definido se aplicará para todos los límites estab
 
 4.- Reparto de dividendos o remesas de utilidades.
 
-Conforme lo establece el inciso tercero del artículo 56 de la Ley General de Bancos, está vedado a las instituciones financieras repartir dividendos con cargo a utilidades del ejercicio o a fondos de reserva si, por efecto de ese reparto, se transgrede alguna de las proporciones que fija el artículo 66 o los márgenes de crédito señalados en el artículo 84 de la misma ley. La única excepción que se contempla en cuanto a que una institución financiera pueda disminuir su patrimonio efectivo, excediendo las proporciones o márgenes antedichos, ocurre cuando se trata de repartos de dividendos obligatorios fijados por la ley.
+Conforme lo establece el inciso tercero del artículo 56 de la Ley General de Bancos, está vedado a las instituciones financieras repartir dividendos con cargo a utilidades del ejercicio o a fondos de reserva si, por efecto de ese reparto, se transgrede alguna de las proporciones que fija el artículo 66 de la misma ley. La obligación de repartir dividendos mínimos establecida en la ley de sociedades anónimas, se cumplirá con el monto máximo que, dentro del porcentaje que exige esa ley, pueda ser repartido sin infringir el artículo 56 antes mencionado.
 
-De acuerdo con lo dispuesto en el artículo 34 de la Ley General de Bancos, que hace extensivo a los bancos extranjeros que operan en Chile las leyes y reglamentos que rigen a los bancos nacionales, las instituciones financieras extranjeras que actúan en nuestro país están igualmente sujetas a la prohibición de disminuir el capital básico y patrimonio efectivo de su agencia en Chile, si con ello infringen los artículos 66 u 84 de la ley.
+De acuerdo con lo dispuesto en el artículo 34 de la Ley General de Bancos, que hace extensivo a los bancos extranjeros que operan en Chile las leyes y reglamentos que rigen a los bancos nacionales, las instituciones financieras extranjeras que actúan en nuestro país están igualmente sujetas a la prohibición de disminuir el capital básico y patrimonio efectivo de su agencia en Chile, si con ello infringen el artículo 66 de la ley.
 
-Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la Ley General de Bancos, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Superintendencia y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de este Organismo para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital y reservas radicados en el país, si con ello vulnera alguna de las proporciones del artículo 66 o excede los márgenes del artículo 84 de la Ley General de Bancos.
+Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instituciones, conforme lo establece el inciso final del artículo 47 de la Ley General de Bancos, están facultadas para remesar al exterior sus utilidades líquidas con autorización previa de esta Superintendencia y con sujeción a las disposiciones legales vigentes y a las demás normas que rigen la materia. Sin embargo, a este respecto, cabe hacer presente que la autorización de este Organismo para el envío al exterior de remesas no implica de modo alguno que un banco extranjero pueda disminuir el capital y reservas radicados en el país, si con ello vulnera alguna de las proporciones del artículo 66 de la Ley General de Bancos.
 
 II.- ACTIVOS PONDERADOS POR RIESGO Y ACTIVOS TOTALES.
 
@@ -15852,11 +15852,9 @@ correspondiente garantía se asignará en la misma proporción.
 
 ### 1. Control de los márgenes disponibles para operar dentro de los límites
 
-Las disposiciones del artículo 84 N° 1 de la Ley General de Bancos establecen una relación porcentual entre los créditos otorgados y el patrimonio efectivo dela institución financiera que los concede. En el caso del límite con garantía,la ley también exige un valor mínimo para las garantías, equivalente al de los créditos acogidos a ese mayor margen. Por lo tanto, cualquier aumento de los créditos o disminuciones de las garantías o del patrimonio efectivo,inciden en dichas relaciones y requieren de un control permanente por parte dela institución financiera, no sólo para establecer si dispone de márgenes para otorgar nuevos créditos, sino también para verificar si procede
+Las disposiciones del artículo 84 N° 1 de la Ley General de Bancos establecen una relación porcentual entre los créditos otorgados y el patrimonio efectivo dela institución financiera que los concede. En el caso del límite con garantía,la ley también exige un valor mínimo para las garantías, equivalente al de los créditos acogidos a ese mayor margen. Por lo tanto, cualquier aumento de los créditos o disminuciones de las garantías o del patrimonio efectivo, inciden en dichas relaciones y requieren de un control permanente por parte dela institución financiera, no sólo para establecer si dispone de márgenes para otorgar nuevos créditos, sino también para verificar si es posible liberar alguna garantía sin infringir los límites permitidos por la ley.
 
-disminuir voluntariamente el patrimonio efectivo o si es posible liberar alguna garantía sin infringir los límites permitidos por la ley.
-
-2. Oportunidades en que corresponde computar el monto de los créditos, de las garantías y del patrimonio efectivo.
+2.- Oportunidades en que corresponde computar el monto de los créditos y de las garantías.
 
 Para verificar el cumplimiento de las disposiciones del artículo 84 N° 1 de la Ley General de Bancos, las instituciones financieras deben considerar el valor actualizado, tanto de los créditos de un mismo deudor, como de las garantías que los amparan y del patrimonio efectivo, en las siguientes oportunidades:
 
@@ -15864,13 +15862,11 @@ a) Cuando se desee otorgar un nuevo crédito, directo o indirecto, al mismo deud
 
 b) Cuando se modifiquen las condiciones de un crédito en moneda extranjera para exportaciones acogido a mayor margen, en atención a lo dispuesto en el numeral 3.3 de este título;
 
-c) Cuando se pretenda disminuir voluntariamente el patrimonio efectivo****A***, con el objeto de determinar si ello es posible sin incurrir en infracción a los límites de crédito, según lo señalado en el N° 5 de este título;
-
-d) Cuando se desee liberar una garantía, a fin de establecer si, de acuerdo con el valor actual de los créditos, las garantías que permanecen son
+c) Cuando se desee liberar una garantía, a fin de establecer si, de acuerdo con el valor actual de los créditos, las garantías que permanecen son
 
 suficientes,excepto en el caso en que la liberación de una garantía tenga como propósito la venta del bien gravado y el producto de su venta se destine íntegramente al pago del crédito garantizado, o cuando el bien se reciba en pago o se adjudique en remate judicial.
 
-El cómputo del valor actualizado de los créditos otorgados, de las garantías recibidas o del patrimonio efectivo, a la fecha en que ocurra alguno de estos eventos, debe realizarse de acuerdo con lo dispuesto a continuación.
+El cómputo del valor actualizado de los créditos otorgados y de las garantías recibidas, a la fecha en que ocurra alguno de estos eventos, debe realizarse de acuerdo con lo dispuesto a continuación.
 
 ### 3. Cómputo de los créditos concedidos
 
@@ -15892,7 +15888,7 @@ En la medida en que no se otorgue un nuevo crédito o que no exista novación de
 
 Lo anterior no significa que los créditos pueden computarse por el valor de la obligación original para establecer la procedencia de otorgar un nuevo crédito o novar uno existente. En consecuencia, si se otorga un crédito y con ello nace una nueva obligación del deudor, deben computarse previamente los créditos ya otorgados de la forma indicada en el numeral 3.1 anterior, para determinar si se dispone de margen para concederlo.
 
-Al respecto, conviene tener presente que, en el evento de que no existiere margen suficiente y se otorgare un nuevo crédito, la diferencia entre los límites y el valor de los créditos otorgados, sumados de acuerdo con lo indicado en el numeral 3.1 precedente, no representa el monto en que se infringe la ley, sino que éste estaría dado sólo por el valor del nuevo crédito o por una parte de él, según sea el caso. Por el contrario, si la causa que originare la infracción fuere una disminución voluntaria del Oportunidades en que corresponde computar el monto de los créditos, de las garantías y del patrimonio efectivo o una liberación de garantía, esa diferencia debe ser considerada como exceso sujeto a sanción.
+Al respecto, conviene tener presente que, en el evento de que no existiere margen suficiente y se otorgare un nuevo crédito, la diferencia entre los límites y el valor de los créditos otorgados, sumados de acuerdo con lo indicado en el numeral 3.1 precedente, no representa el monto en que se infringe la ley, sino que éste estaría dado sólo por el valor del nuevo crédito o por una parte de él, según sea el caso. Por el contrario, si la causa que originare la infracción fuere una liberación de garantía, esa diferencia debe ser considerada como exceso sujeto a sanción.
 
 3.3. Cambios en las condiciones de créditos en moneda extranjera para exportación.
 
@@ -15918,13 +15914,9 @@ a) Cuando se otorgue un nuevo crédito amparado en una garantía cuya tasación 
 
 b) Cuando se liberen garantías, a fin de establecer el nuevo valor de los bienes que permanecen garantizando el crédito.
 
-El déficit de garantías que pudiere producirse por las disminuciones en el valor de ellas con posterioridad a su constitución, siempre que se hayan valorizado originalmente de acuerdo con las disposiciones del título IV del presente capítulo, no constituye infracción a lo dispuesto en la Ley General de Bancos. Sin embargo, debido a que esas disminuciones afectan la relación entre los créditos y sus garantías, el déficit debe ser cubierto cuando se pretenda otorgar otro crédito caucionado por las mismas u otras garantías o cuando se proceda a disminuir voluntariamente el patrimonio efectivo. Del mismo modo, el menor valor que pueda tener una garantía debe ser considerado cuando se liberen otras garantías o parte de las mismas.
+El déficit de garantías que pudiere producirse por las disminuciones en el valor de ellas con posterioridad a su constitución, siempre que se hayan valorizado originalmente de acuerdo con las disposiciones del título IV del presente capítulo, no constituye infracción a lo dispuesto en la Ley General de Bancos. Sin embargo, debido a que esas disminuciones afectan la relación entre los créditos y sus garantías, el déficit debe ser cubierto cuando se pretenda otorgar otro crédito caucionado por las mismas u otras garantías. Del mismo modo, el menor valor que pueda tener una garantía debe ser considerado cuando se liberen otras garantías o parte de las mismas.
 
 ### 5. Disminuciones del patrimonio efectivo
-
-El artículo 56 de la Ley General de Bancos prohíbe el reparto voluntario de dividendos con cargo a utilidades o a fondos de reserva si, por efectos de dicho reparto, los créditos que haya concedido y se encuentren vigentes excedieran algún límite de los tratados en este capítulo. Si así ocurre, la institución financiera incurrirá en infracción al artículo 84 N° 1 de la referida ley y la sanción se aplicará sobre el exceso de crédito resultante para cada uno de los deudores de la institución.
-
-Si la disminución del patrimonio efectivo se origina, en cambio, por la absorción de pérdidas de un ejercicio, por el reparto de dividendos obligatorios o por otras causas ajenas a la voluntad de la institución financiera, y ese hecho provoca un exceso de los créditos otorgados respecto de los límites de que se trata, tales excesos no constituyen infracción a los márgenes.
 
 Como es natural, a partir de la fecha en que ocurra una disminución del patrimonio efectivo por cualquier causa, debe considerarse, a contar de ese momento, el menor monto que éste tiene. Si la disminución produjere, por ejemplo, excesos en los límites de crédito, la institución financiera quedará impedida de otorgar nuevos créditos a los deudores que se encuentren en tal situación, mientras no se ajusten a los márgenes.
 
