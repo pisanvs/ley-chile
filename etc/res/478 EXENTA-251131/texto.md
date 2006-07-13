@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 478 EXENTA, DE 2006
+
+Gobernación Provincial de Concepción, por medio de Res. exenta Nº 478 de 2006, en uso de las facultades que la ley le confiere, el Gobernador Provincial ha designado como Delegado Provincial para la Comuna de Talcahuano, al señor Jaime Alexis Velásquez Valdés, funcionario a contrata de esta repartición. Las facultades y funciones serán ejercer, de acuerdo con las instrucciones del Gobernador la supervigilancia de los servicios públicos creados por ley para el cumplimiento de la función administrativa, que se vinculen con la ejecución de las medidas necesarias para desarrollar acciones en la Comuna de Talcahuano y en general coordinar acciones con organismos públicos o municipales, o cualquier otro organismo con personalidad jurídica sin fines de lucro. Su duración será hasta el 31 diciembre 2006.-
+
+Rodrigo Díaz Worner, Gobernador Provincial de Concepción.
