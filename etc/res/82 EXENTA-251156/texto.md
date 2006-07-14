@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 82 EXENTA, DE 7 DE JULIO DE 2006, QUE AUTORIZA A CONTRIBUYENTES COMO EMISORES ELECTRONICOS
+
+Se autoriza como emisores de documentos tributarios electrónicos a RUT 78.633.330-K, RUT 77.607.420-9, RUT 78.468.430-K, RUT 96.762.570-1, RUT 82.262.600-9, RUT 96.928.510-K, RUT 77.388.600-8, RUT 96.665.460-0, RUT 76.372.740-8, RUT 92.555.000-0, RUT 99.566.800-9, RUT 83.785.500-4, RUT 77.304.790-1, RUT 77.607.450-0, RUT 78.172.420-3, RUT 77.930.640-2, RUT 76.383.010-1, RUT 76.420.670-3, RUT 76.504.170-8, RUT 96.668.670-7, RUT 96.882.300-0, RUT 76.071.060-1 y RUT 76.380.200-0, a contar del mes de julio de 2006. En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2006.
