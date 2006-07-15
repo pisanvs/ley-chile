@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.910, de 5 de julio de 2006, de esta Subsecretaría de Pesca, modifícase la resolución Nº 1.477, modificada por resolución Nº 1.815, ambas de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de invetigación de conformidad con los Términos Técnicos de Referencia del Proyecto BIP Nº 30043859-0 denominado "Investigación Evaluación Hidroacústica Jurel V-X, 2006", en el sentido de autorizar a las naves participantes de la presente pesca de investigación a operar con red de cerco.
+
+Asimismo, modifícase el numeral 3º de la resolución Nº 1.477, de 2006, antes individualizada, en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 31 de julio de 2006, inclusive.
+
+Valparaíso, 5 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
