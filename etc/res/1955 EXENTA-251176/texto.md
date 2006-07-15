@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.955 de 7 de julio de 2006 de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 4.333 de 2005, de esta Subsecretaría, sólo en cuanto autorizó a PESCA CHILE S.A., para realizar actividades pesqueras extractivas con la nave en construcción autorizada mediante la resolución antes citada, en el área marítima comprendida entre la I a III Regiones y entre los paralelos 41º28,6' L.S. y 57º L.S., sobre el recursos Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en Visto.
+
+Valparaíso, 7 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
