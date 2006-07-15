@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.960, de 10 de julio de 2006, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 2.244 de 1999, de esta Subsecretaría, sólo en cuanto autorizó a PESCA CHILE S.A. para ampliar actividades pesqueras extractivas con la nave "Tuamapu", en el área marítima comprendida entre los paralelos 41º28,6' L.S. y 47º L.S., sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en Informe Técnico citado en Visto de la resolución extractada.
+
+Asimismo, declárase la caducidad de la resolución Nº 2.520 de 2000, de esta Subsecretaría, que autorizó a Pesca Chile S.A. para ampliar actividades pesqueras extractivas con la nave "Tuamapu", en el área marítima comprendida entre la I a III Regiones, sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en Informe Técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 10 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
