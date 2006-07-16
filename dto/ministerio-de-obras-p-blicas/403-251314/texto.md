@@ -1,0 +1,3 @@
+Por decreto MOP Nº403, de fecha 31 de mayo del 2006, se expropió el lote de terreno Nº217, superficie 6.340 m2, Rol Nº430-009, comuna de Buin, Región Metropolitana para la obra "Camino Ruta G-46, Cruce Long (Paine)-Talagante, Sector Puente La Puntilla-Cruce Ruta G-40, Puente sobre río Maipo, Sector La Puntilla.", y se acordó el valor de indemnización con su propietario Olegario Aurelio Muñoz Osorio, ascendente a la cantidad de $19.523.447.
+
+Fiscal del Ministerio de Obras Públicas.
