@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 272 de fecha 31 de mayo de 2006 se expropió el lote de terreno Nº 110, superficie 269, Rol Nº 2206-167, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, tramo Km. 15,84700 al Km. 40,41746", y se acordó el valor de la indemnización con su propietario Raúl Hernán Figueroa, ascendente a la cantidad de $1.447.176.
+
+Fiscal del Ministerio de Obras Públicas.
