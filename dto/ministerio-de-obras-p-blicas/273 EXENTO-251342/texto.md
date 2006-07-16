@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 273, de fecha 31 de mayo del 2006, se expropió el lote de terreno Nº 3, superficie 6.081 m2, Rol Nº 248-21, comuna de Salamanca, IV Región para la obra "Sistema de Regadío Valle del Choapa, Descarga de emergencia Nocuy, Canal Alimentador Embalse Corrales.", y se acordó el valor de indemnización con su propietario Luis Bernabé Roco Ramírez y Otros, ascendente a la cantidad de $2.171.772.
+
+Fiscal del Ministerio de Obras Públicas.
