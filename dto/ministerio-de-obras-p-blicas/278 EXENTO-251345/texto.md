@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 278 de fecha 31 de mayo del 2006, se expropió el lote de terreno Nº 3, superficie 334 m2, Rol Nº 860-24, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen-Conay, Tramo Km. 0,000 al Km. 19,500, provincia de Huasco, III Región Etapa I.", y se acordó el valor de indemnización con su propietario Ubertino del Rosario Quinzacada Campillay, ascendente a la cantidad de $609.844.
+
+Fiscal del Ministerio de Obras Públicas.
