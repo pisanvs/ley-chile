@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 269 de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 209, superficie 124 m2, Rol Nº 430-010, comuna de Buin, para la obra "Camino Ruta G-46, Cruce Long (Paine) - Talagante, Sector Puente La Puntilla - Cruce Ruta G-40, puente sobre Río Maipo Sector La Puntilla" Región Metropolitana y se acordó el valor de la indemnización con su propietario Alex Kework Maluje, ascendente a la cantidad de $609.630.
+
+Fiscal del Ministerio de Obras Públicas.
