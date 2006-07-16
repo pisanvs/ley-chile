@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 300 de fecha 31 de mayo de 2006 se expropió el lote de terreno Nº 6, superficie 643 m2, rol en trámite, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, sector Alto del Carmen-Conay, Km. 0,000-19,500, Provincia de Huasco, III Región", y se acordó el valor de indemnización con su propietario Ilustre Municipalidad de Alto del Carmen, ascendente a la cantidad de $502.969.
+
+Fiscal del Ministerio de Obras Públicas.
