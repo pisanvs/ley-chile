@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 265, de fecha 31 de mayo de 2006, se expropiaron los lotes de terreno Nºs 3, 5 y 6, superficie 2.028, 3.464 y 1.359 m2, respectivamente, rol Nº 3810-135, 3810-136 y 3810-137, comuna de Putre, para la obra "Mejoramiento Ruta 11 Ch, Sector Arica - Tambo Quemado, Sectores Bif. Putre - Bif. Choquelimpie, Km. 124,500 a Km. 147,76212, I Región" y se acordó el valor de la indemnización con su propietario Mariluz Saturnina Flores Quiñones y Otro, ascendente a la cantidad de $900.725.
+
+Fiscal del Ministerio de Obras Públicas.
