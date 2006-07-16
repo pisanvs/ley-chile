@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 299 de fecha 31 de mayo de 2006 se expropió el lote de terreno Nº 57, superficie 120,00 m2, Rol Nº 2204-5, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, tramo Km. 15,84700 al Km. 40,41746", y se acordó el valor de indemnización con su propietario Constantino Apóstol Codjambassis Mauquie, ascendente a la cantidad de $800.176 para el lote Nº 57.
+
+Fiscal del Ministerio de Obras Públicas.
