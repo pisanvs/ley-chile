@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº258, de fecha 31 de mayo del 2006, se expropiaron los lotes de terrenos Nºs 15 y 16, superficies 774 y 450 m2 respectivamente, Rol Nº616-61, comuna de Chol Chol, IX Región para la obra "Camino Ruta S-16, Sector Chol Chol-Nueva Imperial tramo Km. 24,30269 al Km. 43,50000, Sub-tramo I Km. 24,30269 al Km. 29,84000.", y se acordó el valor de indemnización con su propietario Domingo Painemal Loncon, ascendente a la cantidad de $1.166.394.
+
+Fiscal del Ministerio de Obras Públicas.
