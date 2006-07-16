@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 284 de 31 de mayo de 2006 se expropió el lote de terreno Nº 3, superficie 944 m2, Rol Nº 608-94, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, Lotes Adicionales a Canal Matriz Km. 9,583 al Km. 9,705" y se acordó el valor de indemnización con su propietario Ramón Sepúlveda Lagos y Otro, ascendente a la cantidad de $862.665.
+
+Fiscal del Ministerio de Obras Públicas.
