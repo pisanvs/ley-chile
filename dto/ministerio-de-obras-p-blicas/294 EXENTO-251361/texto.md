@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº294, de fecha 31 de mayo del 2006, se expropió el lote de terreno Nº 22, superficie 266 m2, Rol Nº616-121, comuna de Chol Chol, IX Región para la obra "Camino Ruta S-16, Sector Chol Chol-Nueva Imperial tramo Km. 24,30269 al Km. 43,50000, Sub-tramo I Km. 24,30269 al Km. 29,84000.", y se acordó el valor de indemnización con su propietario Francisco Painemal Landeros, ascendente a la cantidad de $337.776.
+
+Fiscal del Ministerio de Obras Públicas.
