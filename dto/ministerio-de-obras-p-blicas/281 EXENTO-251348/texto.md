@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 281 de 31 de mayo de 2006 se expropió el lote de terreno Nº 7, superficie 2.172 m2, Rol Nº 862-10, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 al Km. 19,500 Provincia de Huasco III Región, Etapa I" y se acordó el valor de indemnización con su propietaria Eduvije del Tránsito Espinoza González, ascendente a la cantidad de $1.376.524.
+
+Fiscal del Ministerio de Obras Públicas.
