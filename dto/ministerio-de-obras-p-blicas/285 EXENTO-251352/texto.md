@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 285 de 31 de mayo de 2006 se expropió el lote de terreno Nº 38-A, superficie 221,00 m2, rol de avalúo 2202-91, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietaria Mirna Angélica Almonacid Uribe, ascendente a la cantidad de $1.514.255.
+
+Fiscal del Ministerio de Obras Públicas.
