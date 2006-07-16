@@ -1,0 +1,3 @@
+Por decreto MOP Nº402, de fecha 31 de mayo del 2006, se expropió el lote de terreno Nº207, superficie 1.634 m2, Rol Nº430-17, comuna de Buin, Región Metropolitana para la obra "Camino Ruta G-46, Cruce Long (Paine)-Talagante, Sector Puente La Puntilla-Cruce Ruta G-40, Puente sobre río Maipo, Sector La Puntilla.", y se acordó el valor de indemnización con su propietario Sergio Rumilio Bello Díaz, ascendente a la cantidad de $4.681.483.
+
+Fiscal del Ministerio de Obras Públicas.
