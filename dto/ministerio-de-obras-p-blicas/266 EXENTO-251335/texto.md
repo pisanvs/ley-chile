@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº266, de fecha 31 de mayo del 2006, se expropió el lote de terreno Nº 78-A, superficie 421-34 m2, Rol de avalúo en trámite, comuna de Salamaca IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, Sector Tahuinco-Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario Orlando del Carmen Puelles Rivera, ascendente a la cantidad de $475.641.
+
+Fiscal del Ministerio de Obras Públicas.
