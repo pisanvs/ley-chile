@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 366, de 14 de junio de 2006, de SERVIU Metropolitano, se ordenó expropiación conforme D.L. Nº2.186 de 1978, del Lote G, que corresponde a una franja de terreno en la cual tienen derechos los inmuebles ubicados en Avenida Larraín Nº 7263, departamentos 101-A, 101-B, 102-A, 102-B, 201-A, 201-B, 202-A, 202-B, 301-A, 301-B, 302-A, y 302-B, Rol de Avalúo 4800-67 al 4800-78, comuna de La Reina, aparente dominio de Pilar del C. Acevedo Bolados, María Cortinez Letelier, Fernando Santander Cosmelli y Otra, María Almazábar Ortiz, María Vásquez Garay, Sonia Serey Orellana, Inmobiliaria y Constructora Arcoci S.A., Inversiones Las Pérdices Ltda., y María Valdivieso Favdic. Comisión integrada por peritos señores Ricardo Strickler Arellano, arquitecto; Yolanda Ivanka Aliaga Jofré, constructor civil, e Ingrid Von Osten Yáñez, ingeniero civil. Según informe de 6 de enero de 2006, fijó monto provisional indemnización en $31.493.000, pagadera al contado.-
+
+Director Serviu Metropolitano.
