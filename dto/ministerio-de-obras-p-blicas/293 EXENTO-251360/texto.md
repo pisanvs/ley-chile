@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 293 de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 77, superficie 1.453,00 m2, Rol Nº 112-33, comuna de Corral, X Región para la obra "Camino Longitudinal Costero Sur, sector El Morro - Chaihuin II (3ª parte), Km. 15,755 al Km. 27,017" y se acordó el valor de indemnización con su propietario Ramón Navarro Antillanca, ascendente a la cantidad de $2.067.113.
+
+Fiscal del Ministerio de Obras Públicas.
