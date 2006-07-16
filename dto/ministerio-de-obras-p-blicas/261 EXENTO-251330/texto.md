@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº261 de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº12, superficie 258 m2, rol Nº864-10, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen-Conay, Km. 0,000 - Km. 19,500, Provincia de Huasco, III Región, Etapa II" y se acordó el valor de la indemnización con su propietario Oriana del Carmen Lira Lira, ascendente a la cantidad de $1.357.610.
+
+Fiscal del Ministerio de Obras Públicas.
