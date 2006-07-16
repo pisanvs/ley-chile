@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 274, de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 21, superficie 632 m2, Rol Nº 179-58, comuna de Curepto, VII Región para la obra "Camino Ruta K-16, Sector Curepto - Puente Lautaro Tramo Km. 73,30000 al Km. 81,91430, Comuna de Curepto, Provincia de Talca VII Región", y se acordó el valor de indemnización con su propietaria Luisa Elena Oyarce Núñez, ascendente a la cantidad de $903.152.
+
+Fiscal del Ministerio de Obras Públicas.
