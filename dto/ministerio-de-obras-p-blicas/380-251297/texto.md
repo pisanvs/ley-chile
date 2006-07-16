@@ -1,0 +1,5 @@
+Por decreto MOP Nº 380 de 26 de mayo de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 6, 8 y 10, para la obra: Camino Cabildo - Putaendo, Ruta E-41, sector El Tártaro - Putaendo, Tramo Km.
+
+58,86000 a Km. 65,13300, que figuran a nombre de Galdames Cavieres Servando, González Estay Luis Sergio e I Municipalidad de Putaendo, roles de avalúo 276-8, 276-6 y 90-4, Comuna de Putaendo, V Región, superficies 35.323 m2., 23.636 m2. y 2.915 m2. La Comisión de Peritos, fijó con fecha 25 de abril de 2005, en las cantidades de $26.070.300, para el lote Nº 6, $27.503.600, para el lote Nº 8 y $45.313.000, para el lote Nº 10. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
