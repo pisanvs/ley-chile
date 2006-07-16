@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº289, de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 51, superficie 1.489,93 m2, Rol Nº251-143, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, Sector Tahuinco-Salamanca, Km. 13,14000 a Km. 23,49783, II Etapa" y se acordó el valor de indemnización con su propietario José Miguel Rivera Frez, ascendente a la cantidad de $986.858.
+
+Fiscal del Ministerio de Obras Públicas.
