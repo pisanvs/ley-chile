@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 283 de 31 de mayo de 2006, se expropiaron los lotes de terreno Nºs 1 y 2, superficies 3.180 y 10.492 m2, respectivamente, Rol Nº 3810-72, comuna de Putre, I Región para la obra "Mejoramiento Ruta 11-CH, Sector Arica - Tambo Quemado, sectores Bif. Putre-Bif. Choquelimpie, Km. 124,500 al Km. 147,76212, I Región", y se acordó el valor de indemnización con su propietario Hernán Rigoberto Visnola Andia, ascendente a la cantidad de $4.034.475.
+
+Fiscal del Ministerio de Obras Públicas.
