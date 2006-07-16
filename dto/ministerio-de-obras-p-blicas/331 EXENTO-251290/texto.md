@@ -1,0 +1,3 @@
+Por decreto Exento MOP Nº 331 de 21 de junio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del Decreto MOP Exento Nº454 de 26 de marzo de 2004, en la parte en que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 23-A. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 23-A, fijada por la Comisión de Peritos el 21 de abril de 2003, en la cantidad de $42.000.
+
+Fiscal del Ministerio de Obras Públicas.
