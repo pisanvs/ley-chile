@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 304 de fecha 31 de mayo de 2006 se expropió el lote de terreno Nº 64-1B, superficie 137 m2, Rol Nº 1100-85, comuna de Cartagena, V Región para la obra "Red Vial Litoral Central Sector 1: Nuevo Camino Costero Subtramo: Cartagena Las Cruces Km. 1.800,00 al Km. 4.000,00" y se acordó el valor de indemnización con su propietaria Mónica González Coddone y Otros, ascendente a la cantidad de $203.086.
+
+Fiscal del Ministerio de Obras Públicas.
