@@ -1,0 +1,3 @@
+Por decreto MOP Nº 382 de 26 de mayo de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7-A, para la obra: Mejoramiento Ruta -1, sector Taltal - Caleta El Cobre, Km. 24,33445 a Km. 171,03000, Etapa II, Km. 47,01000 a Km. 72,8967, que figura a nombre de Inversiones Interover SA, rol de avalúo 504-26, Comuna de Taltal, II Región, superficie 41.202 m2. La Comisión de Peritos, fijó con fecha 25 de noviembre de 2005, en la cantidad de $18.170.082. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
