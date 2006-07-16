@@ -1,0 +1,3 @@
+Por decreto MOP Nº414, de fecha 31 de mayo del 2006, se expropió el lote de terreno Nº14-2, superficie 373 m2, Rol Nº762-34, comuna de Renca, Región Metropolitana para la obra "Sistema Américo Vespucio Nor-Poniente, Av. El Salto-Ruta 78. Sector 4: Condell-Costanera Norte.", y se acordó el valor de indemnización con su propietario Embotelladora Andina S.A., ascendente a la cantidad de $19.062.083.
+
+Fiscal del Ministerio de Obras Públicas.
