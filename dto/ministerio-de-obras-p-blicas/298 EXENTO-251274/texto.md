@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 298 de fecha 31 de mayo de 2006 se expropió el lote de terreno Nº 47, superficie 96,00 m2, Rol Nº 2204-15, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, tramo Km. 15,84700 a Km. 40,41746", y se acordó el valor de indemnización con su propietario Francisco Enrique Olavarría Maldonado, ascendente a la cantidad de $671.344.- para el lote Nº 47.
+
+Fiscal del Ministerio de Obras Públicas.
