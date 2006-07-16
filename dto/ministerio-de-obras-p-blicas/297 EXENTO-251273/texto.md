@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 297 de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 6, superficie 4.830,22 m2, Rol Nº 385-59, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Canal Cantarrana", y se acordó el valor de indemnización con su propietario Oscar Rolando Lincopán Millahueque, ascendente a la cantidad de $3.118.104.- para el lote Nº 6.
+
+Fiscal del Ministerio de Obras Públicas.
