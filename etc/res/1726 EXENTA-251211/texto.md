@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.726, de 21 de junio de 2006, de esta Subsecretaría, autorízase a DANIEL GUMERCINDO FLORES FUENTES para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Ruta Nacional 9 Nº 012783, Punta Arenas, XII Región, donde podrá elaborar en las líneas de proceso Fresco enfriado, Fresco refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
