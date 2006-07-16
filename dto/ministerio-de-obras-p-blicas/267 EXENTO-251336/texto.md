@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 267 de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 17, superficie 379 m2, Rol Nº 616-116, comuna de Chol Chol, para la obra "Camino Ruta S-16, Sector Chol-Chol - Nueva Imperial Tramo Km. 24,30269 al Km. 43,50000, Sub-Tramo I Km. 24,30269 al Km. 29,84000", IX Región y se acordó el valor de la indemnización con su propietario María Magdalena Painemal Nahuelhual, ascendente a la cantidad de $353.964.
+
+Fiscal del Ministerio de Obras Públicas.
