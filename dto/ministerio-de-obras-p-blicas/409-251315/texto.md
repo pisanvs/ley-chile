@@ -1,0 +1,3 @@
+Por decreto MOP Nº 409 de 31 de mayo de 2006 se expropió el lote de terreno Nº 27-A, superficie 4.387,00 m2, rol de avalúo Nº 3705-4, comuna de Talca, para la obra "Habilitación Avda. Circunvalación Río Claro en Talca, Comuna de Talca Provincia de Talca, VII Región" y se acordó el valor de la indemnización con su propietario Luis Renato Guerra Estévez y Otros, ascendente a la cantidad de $66.411.090.
+
+Fiscal del Ministerio de Obras Públicas.
