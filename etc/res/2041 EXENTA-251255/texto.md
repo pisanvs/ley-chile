@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.041, de 6 de julio de 2005, de esta Subsecretaría, autorízase a IVO ALBERTO CONEJEROS VODANOVIC, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector A de la Mina San Juan Uno al Cinco, Sierra Paposo, comuna de Taltal, provincia de Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 6 de julio de 2005.- Felipe Sandoval Precht, Subsecretario de Pesca.
