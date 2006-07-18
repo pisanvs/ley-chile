@@ -1,0 +1,7 @@
+Por resolución exenta Nº1.813, de 28 de junio de 2006, de esta Subsecretaría, autorízase a GESAM CONSULTORES LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Obtención de información para la clasificación de la fauna acuática continental de la IV a la XII Región".
+
+El objetivo de la pesca de investigación consiste en obtener información biológica y ecológica que permita la determinación de la categoría de conservación de las especies de peces continentales de la IV a la XII Región, sobre la base de las exigencias y procedimientos establecidos en el Reglamento de Clasificación de Especies Silvestres.
+
+La pesca de investigación se efectuará por 3 meses, en las principales cuencas de las Regiones IV a XI Región. La peticionaria podrá capturar, con devolución, mediante pesca eléctrica, ejemplares de las especies Bagre chico, Bagre pintado, Bagre, Bagrecito, Carmelita de Concepción, Carmelita, Cauque, Farionela listada, Lamprea, Lisa, Pejerrey, Peladilla, Pocha, Pocha de los lagos, Pocha del sur, Puye, Róbalo, Roncador, Tollo de agua dulce, Tollo, Trucha criolla y Trucha negra. Asimismo, podrá capturar, sin devolución, cuatro ejemplares por especie para fines de identificación.
+
+Valparaíso, 28 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
