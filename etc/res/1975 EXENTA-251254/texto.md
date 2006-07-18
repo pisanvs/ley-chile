@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.975, de 12 de julio de 2006, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 284 de 2000 y Nº 52 de 2003, ambas de esta Subsecretaría, sólo en cuanto autorizaron a SOCIEDAD PESQUERA VIENTO SUR S.A., para ampliar actividades pesqueras extractivas con la nave "Doña Mariana", en el área marítima comprendida entre las regiones IV y VIII, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en Informe Técnico citado en Visto.
+
+Valparaíso, 12 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
