@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.953, de 7 de julio de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 1.118, modificada por resolución Nº 1.389 de 2006, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Evaluación del stock de sardina común y anchoveta, zona centro-sur (Regiones VII a X), otoño 2006", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 15 de octubre de 2006, inclusive.
+
+Valparaíso, 7 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
