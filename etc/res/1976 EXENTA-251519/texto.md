@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.976, de 12 de julio de 2006, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 314, modificada por resolución Nº 1.489, ambas de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de incorporar a la embarcación artesanal "Jehosua Maschiaj" al listado de embarcaciones artesanales autorizadas a operar en el marco de la citada pesca de investigación.
+
+Valparaíso, 12 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
