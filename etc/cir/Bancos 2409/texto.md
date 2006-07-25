@@ -3036,11 +3036,9 @@ A juicio de esta Superintendencia, esta disposición es aplicable durante el lap
 
 En lo que concierne a la imposibilidad de presentar un cheque a cobro un día sábado o domingo, esta Superintendencia entiende que el plazo de caducidad no admite ampliación por ese motivo, por cuanto se trata de una disposición legal aplicable en forma general.
 
-5.4. Concepto de "Plaza" para los efectos del término de vigencia de los cheques.
+5.4.- Concepto de "Plaza" para los efectos del término de vigencia de los cheques.
 
-Deben entenderse por cheques emitidos en la misma plaza del librado, aquéllos que fueren girados en cualquiera localidad que pertenezca a la plaza individual o a la agrupación de plazas a la que concurre la oficina bancaria librada para los efectos del canje bancario.
-
-Se considera para estos fines como agrupación de plazas, la reunión de dos o más plazas financieras en una sola de ellas, para los efectos de realizar el canje diario de los documentos recibidos por las entidades financieras situadas en cada una de las localidades que conforman la agrupación.
+Deben entenderse por cheques emitidos en la misma plaza del librado, aquellos que sean girados en cualquiera localidad que concurra a la misma localidad de cámara a la que asista la oficina del banco librado, en que esté radicada la correspondiente cuenta corriente, para el canje diario de los documentos, según lo indicado en el Anexo N° 1 del Capítulo 5-1 de esta Recopilación.
 
 5.5. Fecha de presentación a cobro de un cheque a través de la Cámara de Compensación.
 
@@ -5752,9 +5750,9 @@ Las instituciones financieras se ceñirán a las siguientes instrucciones en rel
 
 La retención para los valores en cobro en moneda chilena correspondientes a cheques y otros documentos de cargo de otras instituciones del país, se aplicará de acuerdo con lo siguiente:
 
-a) Cuando se trate de documentos de cargo de instituciones que tienen presencia en la plaza o agrupación de plazas en que fueron depositados, la retención se aplicará el día en que se efectúe el depósito y durante el siguiente día hábil bancario hasta el término del proceso de la segunda reunión de la cámara de compensación.
+a) Cuando se trate de documentos de cargo de instituciones que tienen presencia en la misma plaza en que fueron depositados, o en plazas distintas que concurren a la misma localidad de cámara, la retención se aplicará el día en que se efectúe el depósito y durante el siguiente día hábil bancario, hasta el término del proceso de la segunda reunión de la cámara de compensación o de cobro, según sea el caso.
 
-b) Al tratarse de documentos que sean de cargo de instituciones que no tienen presencia en la plaza o agrupación de plazas en que fueron depositados, el plazo máximo de retención será de tres días hábiles bancarios, incluido el día en que se reciben en depósito.
+b) Al tratarse de documentos que sean de cargo de instituciones que no tienen presencia en la misma plaza en que fueron depositados, ni en plazas que concurren a la misma localidad de cámara, el plazo máximo de retención será de tres días hábiles bancarios, incluido el día en que se reciben en depósito.
 
 No obstante lo anterior, las oficinas bancarias situadas en las siguientes localidades, podrán extender la retención por el tiempo estrictamente necesario para efectuar el cobro, debiendo informar apropiadamente a sus depositantes acerca del mayor plazo que deben aplicar por razones de su aislamiento geográfico.
 
@@ -5852,7 +5850,7 @@ No obstante lo anterior, excepcionalmente, con el previo visto bueno de uno de s
 
 5. Cobro por intermedio de corresponsales en el país. Uso de cuentas corrientes.
 
-Las instituciones financieras que reciban cheques y documentos girados sobre bancos que no tengan presencia en la plaza o agrupación de plazas de la oficina depositaria y realicen el cobro por intermedio de un banco corresponsal, operarán a través de una cuenta corriente que mantendrán con dicho corresponsal y que se utilizará exclusivamente para ese fin.
+Las instituciones financieras que reciban cheques y documentos girados sobre bancos que no tengan presencia en la misma plaza de la oficina depositaria ni en plazas que concurran a la misma localidad de cámara a la que ella concurre, y realicen el cobro por intermedio de un banco corresponsal, operarán a través de una cuenta corriente que mantendrán con dicho corresponsal y que se utilizará exclusivamente para ese fin.
 
 CAPITULO 4-1 (Bancos y Financieras)
 
@@ -6352,9 +6350,9 @@ I.- DISPOSICIONES GENERALES.
 
 Para el canje de documentos y el funcionamiento de las cámaras de compensación, las instituciones financieras deben atenerse a las disposiciones impartidas por el Banco Central de Chile que se mencionan en este Capítulo.
 
-2.- Plazas y agrupaciones de plazas.
+2.- Plazas y localidades de cámara.
 
-Las plazas y agrupaciones de plazas dispuestas por esta Superintendencia en concordancia con las normas del Banco Central de Chile, como asimismo las jurisdicciones que se aluden en esas normas, se incluyen en el Anexo N° 1 de este Capítulo.
+En el Anexo N° 1 se indican todas las plazas bancarias y su relación con las localidades de cámara dispuestas por esta Superintendencia en concordancia con las normas del Banco Central de Chile, a las que deben concurrir los bancos situados en ellas.
 
 3.- Información que debe enviarse a esta Superintendencia.
 
@@ -6366,7 +6364,7 @@ II.- CANJE DE DOCUMENTOS Y COMPENSACIÓN DE OBLIGACIONES EN MONEDA CHILENA.
 
 El canje de documentos en moneda chilena entre instituciones financieras, se rige por las disposiciones del Capítulo III.H.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-La primera reunión de la cámara debe incluir todos los documentos recibidos por las instituciones financieras participantes, en ese mismo día dentro de su horario de atención normal a público autorizado por esta Superintendencia. Por lo tanto, el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva plaza o agrupación de plazas (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir, especialmente en el caso de las agrupaciones de plazas.
+La primera reunión de la cámara debe incluir todos los documentos recibidos por las instituciones financieras participantes, en ese mismo día dentro de su horario de atención normal a público autorizado por esta Superintendencia. Por lo tanto, el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva localidad de cámara (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir a esa reunión.
 
 2.- Compensación de operaciones efectuadas a través de cajeros automáticos.
 
@@ -6412,9 +6410,9 @@ El canje de documentos en moneda extranjera de la misma plaza entre institucione
 
 El texto de dicho reglamento se transcribe en el Anexo N° 2 de este Capítulo.
 
-La reglamentación establecida por el Banco Central de Chile para el funcionamiento de la referida Cámara de Compensación, incluye como participantes en ella a todos los bancos, casas matrices o sucursales, situados en las plazas o agrupaciones de plazas en las que la mayoría absoluta de los bancos acuerden ese procedimiento para el cobro recíproco de documentos.
+De acuerdo con la reglamentación establecida por el Banco Central de Chile, para el funcionamiento de la referida Cámara de Compensación se incluyen como participantes en ella a todos los bancos, casas matrices o sucursales, que concurran a una localidad de cámara en la que la mayoría absoluta de los bancos concurrentes acuerden ese procedimiento para el cobro recíproco de documentos.
 
-Con el acuerdo de la mayoría de los bancos participantes, en la plaza de Santiago se podrán cobrar documentos en moneda extranjera girados sobre otras plazas del país, cuando sean de cargo de bancos que hayan optado por aceptar siempre tales documentos.
+Con el acuerdo de la mayoría de los bancos participantes, en la localidad de Santiago se podrán cobrar documentos en moneda extranjera girados sobre otras plazas del país, cuando sean de cargo de bancos que hayan optado por aceptar siempre tales documentos.
 
 Entre los documentos en moneda extranjera que se presenten para ser pagados por cámara, podrán incluirse las órdenes de pago emitidas en el exterior contra bancos situados en Chile, en formato tipo cheque y expresadas en dólares de los Estados Unidos de América. En atención a las características particulares de estos documentos, los bancos librados que decidan no pagarlos se limitarán a devolverlos dejando constancia en los mismos de la razón por la cual proceden a su devolución, toda vez que tales instrumentos no son susceptibles de ser protestados.
 
@@ -6428,9 +6426,9 @@ Si una institución financiera opta por no cobrar por intermedio de la Cámara d
 
 Las instituciones financieras no podrán extender más allá del término del proceso de la segunda reunión los plazos de retención sobre los depósitos efectuados con los documentos presentados para su procesamiento en el correspondiente ciclo de cámara, lo que determina los plazos de retención para los documentos a cargo de otras instituciones, señalados en el Capítulo 3-1 de esta Recopilación, que se cobren por intermedio de las Cámaras de Compensación.
 
-3.- Documentos a cargo de instituciones que no tienen presencia en la plaza o agrupación de plaza. Servicio de corresponsalía.
+3.- Documentos a cargo de instituciones que no tienen presencia en las plazas concurrentes. Servicio de corresponsalía.
 
-La instituciones bancarias que no tengan oficinas en alguna plaza o su respectiva agrupación de plazas, podrán convenir un servicio de corresponsalía con una institución financiera que tenga presencia en esas plazas. Estas instituciones representarán a la respectiva entidad bancaria en las reuniones de las cámaras de compensación.
+Los bancos que tengan oficinas en alguna plaza que no concurre a una localidad de cámara, podrán convenir un servicio de corresponsalía con un banco que tenga presencia en una de esas localidades o una plaza concurrente y que los represente en las reuniones de las cámaras de compensación.
 
 4.- Pago o devoluciones de cheques recibidos en el canje.
 
@@ -6460,7 +6458,7 @@ Los documentos a cargo de otras instituciones financieras se cargarán a la cuen
 
 La cuenta "Canje de la plaza" incluirá el valor de los documentos que se presenten a cobro en la primera reunión de la cámara para el canje de documentos en moneda chilena a que se refiere el título II de este Capítulo, como asimismo el importe de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, según lo indicado en el título III de este Capítulo.
 
-La cuenta "Canje de otras plazas", por su parte, incluirá los documentos a cargo de instituciones que no tienen presencia en la plaza o agrupación de plazas a la que concurre la oficina depositaría y que deben enviarse, por consiguiente, a otra oficina de la institución para que los presente a cobro, o bien entregarlos en comisión de cobranza a otro banco Para este efecto, los depósitos que se efectúen con estos documentos en una cuenta corriente de un banco corresponsal, pueden registrarse en la cuenta "Canje de otras plazas", pero sólo por dos días hábiles bancarios, en concordancia con lo indicado en el N° 2 siguiente.
+La cuenta "Canje de otras plazas", por su parte, incluirá los documentos que la oficina depositaria debe enviar a otra oficina de la institución para que los presente a cobro, o bien entregarlos en comisión de cobranza a la entidad librada o a otro banco, debido a que el banco librado no tiene presencia en la plaza en que está situada la oficina depositaria ni en una plaza concurrente a la localidad de cámara en que participa dicha oficina depositaria. Para este efecto, los depósitos que se efectúen con estos documentos en una cuenta corriente de un banco corresponsal, pueden registrarse en la cuenta "Canje de otras plazas", pero sólo por dos días hábiles bancarios, en concordancia con lo indicado en el N° 2 siguiente.
 
 Los cargos que se efectúen a las cuentas "Canje de la Plaza" o "Canje de otras plazas" no pueden comprender en ningún caso, valores girados por la propia institución contra sus corresponsales.
 
@@ -6488,395 +6486,9 @@ Por otra parte, debe tenerse en cuenta que las contabilizaciones descritas en lo
 
 ANEXO N°1
 
-PLAZAS, AGRUPACIONES DE PLAZAS Y JURISDICCIONES
+PLAZAS Y LOCALIDADES DE CAMARA.
 
-Código Plaza Agrupación Jurisdicción
-
-0008 Arica Arica
-
-0010 Putre Arica
-
-0016 Iquique Iquique
-
-0018 Pozo Almonte Iquique
-
-0024 Tocopilla Antofagasta
-
-0040 Pedro de Valdivia Antofagasta
-
-0048 Chuquicamata Calama Antofagasta
-
-0056 Calama Calama Antofagasta
-
-0064 Antofagasta Antofagasta
-
-0072 Taltal Antofagasta
-
-0080 Chañaral Antofagasta
-
-0088 Potrerillos Antofagasta
-
-0096 El Salvador Antofagasta
-
-0098 Diego de Almagro Antofagasta
-
-0100 Caldera Antofagasta
-
-0104 Copiapó Antofagasta
-
-0108 Huasco Santiago
-
-0112 Vallenar Santiago
-
-0120 La Serena La Serena Santiago
-
-0128 Coquimbo La Serena Santiago
-
-0136 Vicuña Santiago
-
-0140 Andacollo Santiago
-
-0144 Ovalle Santiago
-
-0148 Monte Patria Santiago
-
-0152 Combarbalá Santiago
-
-0160 Illapel Santiago
-
-0168 Los Vilos Santiago
-
-0176 Salamanca Santiago
-
-0178 Petorca Valparaíso
-
-0184 Cabildo Valparaíso
-
-0200 La Ligua Valparaíso
-
-0202 Puchuncavi Valparaíso
-
-0204 Nogales Valparaíso
-
-0208 San Felipe San Felipe Valparaíso
-
-0216 Putaendo San Felipe Valparaíso
-
-0224 Los Andes San Felipe Valparaíso
-
-0225 Saladillo Valparaíso
-
-0232 La Calera Valparaíso
-
-0240 Llay-Llay Valparaíso
-
-0248 Quillota Valparaíso
-
-0256 Limache Valparaíso
-
-0264 Villa Alemana Valparaíso Valparaíso
-
-0268 El Belloto Valparaíso Valparaíso
-
-0272 Quilpué Valparaíso Valparaíso
-
-0280 Viña del Mar Valparaíso Valparaíso
-
-0284 Concón Valparaíso Valparaíso
-
-0288 Quintero Valparaíso Valparaíso
-
-0290 Ventanas Valparaíso Valparaíso
-
-0296 Valparaíso Valparaíso Valparaíso
-
-0300 Isla de Pascua Valparaíso
-
-0304 Casablanca Valparaíso
-
-0330 Algarrobo Santiago
-
-0332 El Quisco Santiago
-
-0334 Cartagena Santiago
-
-0336 San Antonio San Antonio Santiago
-
-0340 Llo-lleo San Antonio Santiago
-
-0312 Curacaví Santiago
-
-0308 Tiltil Santiago
-
-0310 Lampa Santiago Santiago
-
-0320 Santiago Santiago Santiago
-
-0324 Colina Santiago Santiago
-
-0328 Maipú Santiago Santiago
-
-0344 San Bernardo Santiago Santiago
-
-0352 Puente Alto Santiago Santiago
-
-0356 San José de Maipo Santiago Santiago
-
-0357 Pirque Santiago Santiago
-
-0358 Padre Hurtado Santiago Santiago
-
-0360 Peñaflor Santiago Santiago
-
-0368 Talagante Santiago Santiago
-
-0370 El Monte Santiago Santiago
-
-0376 Melipilla Santiago Santiago
-
-0378 Isla de Maipo Santiago Santiago
-
-0384 Buin Santiago Santiago
-
-0386 Paine Santiago Santiago
-
-0392 Graneros
-
-0394 Litueche Santiago
-
-0400 Rancagua Santiago
-
-0416 Machalí Santiago
-
-0424 Doñihue Santiago
-
-0432 Requínoa Santiago
-
-0434 Quinta de Tilcoco Santiago
-
-0440 Rengo
-
-0432 Malloa Santiago
-
-0448 San Vicente de Tagua Tagua Santiago
-
-0452 Las Cabras Santiago
-
-0456 Peumo Santiago
-
-0460 Pichilemu Santiago
-
-0464 San Fernando Santiago
-
-0472 Nancagua Santiago
-
-0480 Santa Cruz Santiago
-
-0484 Peralillo Santiago
-
-0488 Chimbarongo Santiago
-
-0490 Teno Santiago
-
-0496 Curicó Santiago
-
-0500 Licantén Santiago
-
-0504 Curepto Santiago
-
-0512 Molina Santiago
-
-0520 Constitución Santiago
-
-0528 Talca Santiago
-
-0530 San Clemente Santiago
-
-0536 San Javier Santiago
-
-0544 Villa Alegre Santiago
-
-0552 Linares Santiago
-
-0554 Longaví Santiago
-
-0556 Chanco Santiago
-
-0560 Cauquenes Concepción
-
-0568 Parral Concepción
-
-0576 Quirihue Concepción
-
-0584 San Carlos Concepción
-
-0592 Coelemu Concepción
-
-0600 Chillán Concepción
-
-0602 Coihueco Concepción
-
-0608 Tomé Concepción
-
-0616 Bulnes Concepción
-
-0624 Concepción Concepción Concepción
-
-0628 Talcahuano Concepción Concepción
-
-0632 Penco Concepción Concepción
-
-0648 Cabrero Concepción
-
-0664 Coronel Concepción
-
-0672 Lota Concepción
-
-0680 Curanilahue Concepción
-
-0688 Yumbel Concepción
-
-0696 Yungay Concepción
-
-0698 Huepil Concepción
-
-0704 Arauco Concepción
-
-0712 Laja Concepción
-
-0720 Los Angeles Concepción
-
-0728 Santa Bárbara Concepción
-
-0736 Nacimiento Concepción
-
-0738 Los Álamos Concepción
-
-0744 Lebu Concepción
-
-0752 Mulchén Concepción
-
-0776 Cañete Concepción
-
-0760 Angol Concepción
-
-0768 Purén Concepción
-
-0776 Cañete Concepción
-
-0784 Collipulli Concepción
-
-0792 Victoria Concepción
-
-0800 Traiguén Concepción
-
-0808 Curacautín Concepción
-
-0810 Lonquimay Concepción
-
-0812 Galvarino Concepción
-
-0816 Lautaro Concepción
-
-0824 Carahue Concepción
-
-0840 Temuco Concepción
-
-0848 Nueva Imperial Concepción
-
-0850 Puerto Saavedra Concepción
-
-0856 Cunco Concepción
-
-0872 Pitrufquén Concepción
-
-0880 Gorbea Concepción
-
-0885 Toltén Concepción
-
-0888 Villarrica Concepción
-
-0892 Pucón Concepción
-
-0896 Loncoche Concepción
-
-0904 Panguipulli Concepción
-
-0912 Lanco Concepción
-
-0920 San José de la Mariquina Concepción
-
-0928 Valdivia Puerto Montt
-
-0936 Los Lagos Puerto Montt
-
-0944 Paillaco Puerto Montt
-
-0952 La Unión La Unión Puerto Montt
-
-0960 Río Bueno La Unión Puerto Montt
-
-0968 Osorno Puerto Montt
-
-0970 Entre Lagos Puerto Montt
-
-0984 Río Negro Puerto Montt
-
-0988 Purranque Puerto Montt
-
-0990 Puerto Octay Puerto Montt
-
-0992 Frutillar Puerto Montt
-
-1000 Llanquihue Puerto Montt Puerto Montt
-
-1008 Puerto Varas Puerto Montt Puerto Montt
-
-1016 Fresia Puerto Montt Puerto Montt
-
-1020 Los Muermos Puerto Montt
-
-1024 Puerto Montt Puerto Montt
-
-1032 Calbuco Puerto Montt
-
-1040 Maullín Puerto Montt
-
-1048 Ancud Puerto Montt
-
-1050 Dalcahue Puerto Montt
-
-1056 Castro Puerto Montt
-
-1060 Achao Puerto Montt
-
-1064 Chonchi Puerto Montt
-
-1068 Quellón Puerto Montt
-
-1072 Alto Palena Puerto Montt
-
-1074 Chaitén Puerto Montt
-
-1075 Futaleufú Puerto Montt
-
-1080 Puerto Aysén Puerto Montt
-
-1088 Coyhaique Puerto Montt
-
-1096 Chile Chico Puerto Montt
-
-1100 Cochrane Puerto Montt
-
-1104 Puerto Natales Punta Arenas
-
-1112 Punta Arenas Puerto Montt
-
-1120 Puerto Porvenir Punta Arenas
-
-1124 Puerto Harris Puerto Montt
-
-1130 Puerto Williams Puerto Montt
+.
 
 ANEXO N°2
 
