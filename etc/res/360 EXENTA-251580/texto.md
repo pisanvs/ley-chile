@@ -1,0 +1,3 @@
+Por resolución exenta Nº 360, de 22 de mayo de 2006, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la IX Región de la Araucanía, declara extinción de prórroga del contrato de concesión y cierre de la planta revisora clase B 0903, ubicada en calle Rancagua 1659, de la ciudad de Temuco, de propiedad de don René Puig Echavarri, aprobado bajo resolución Nº 1, de fecha 22 de diciembre de 1992, de la Novena Región de la Araucanía.
+
+- Vivianne Fernández Mora, Secretaria Regional Ministerial de Transportes y Telecomunicaciones, Novena Región de la Araucanía.
