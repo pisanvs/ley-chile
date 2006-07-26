@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.021, de 18 de julio de 2006, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº2.001 de 2003, modificada por la resolución Nº3.675 de 2004, ambas de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA SAN JOSE S.A. para ampliar actividades pesqueras extractivas con la nave "Surmar I", en el Archipiélago de Juan Fernández, Isla de Pascua, Islas Sala y Gómez e Islas Desventuradas, con red de arrastre, sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en informe técnico citado en Visto.
+
+Valparaíso, 18 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
