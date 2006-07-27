@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES EXENTAS QUE SE INDICAN, RELATIVAS A AUTORIZACION PARA DELEGAR FACULTADES PARA PERMITIR A QUIENES LO SOLICITEN, EL PAGO DIFERIDO DE LOS IMPUESTOS DE LA LEY DE LA RENTA
+
+1.- Por resoluciones exentas Nºs. 816 de 17.05.2006, 568 de 03.05.2006, 41 de 08.05.2006, 452 de 07.04.2006, 4.944 de 04.07.2006, 697 de 09.05.2006, 485 de 09.05.2006, 1.905 de 05.04.2006, 41 y 42 de 29.04.2006, 1.439 de 02.05.2006, 172-A de 28.04.2006, 22 de 18.07.2006, 239-B de 28.04.2006, 50 de 02.05.2006, 604 de 30.05.2006 y 3.838 de 12.07.2006, respectivamente, los Directores de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI Direcciones Regionales del Servicio, conforme lo dispone resolución exenta Nº 48, del 28.04.2006, relativa a autorización para delegar facultades que permitan a los contribuyentes que lo soliciten, efectuar el pago diferido de impuestos de la Ley de la Renta, en los funcionarios que en cada resolución se indican.
+
+Santiago, 20 de mayo de 2006.- Jaime Barros Amunátegui, Secretario General Servicio de Impuestos Internos.
