@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.969, de 11 de julio de 2006, de esta Subsecretaría, autorízase a FILOMENA TERAN CRUZ ELABORADORA Y COMERCIALIZADORA E.I.R.L., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Brasil Nº 65, sector La Vega, Calbuco, X Región, donde podrá elaborar en las líneas de proceso de Fresco enfriado, Fresco refrigerado, Congelado y Fresco salado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
