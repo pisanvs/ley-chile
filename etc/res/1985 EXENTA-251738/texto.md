@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.985, de 13 de julio de 2006, de esta Subsecretaría, autorízase a INDUSTRIAL Y COMERCIAL MARLO LIMITADA para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas precedentemente, en orden a incorporar a la planta ubicada en Parque Industrial Apias Montt, Parcela 32, X Región, en las líneas de proceso de Cocido, fresco enfriado, fresco refrigerado, congelado, ahumado y conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 13 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
