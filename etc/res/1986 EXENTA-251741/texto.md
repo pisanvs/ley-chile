@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.986, de 13 de julio de 2006, de esta Subsecretaría, autorízase a ALIMENTOS MULTIEXPORT S.A., para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en camino Fundo San Miguel s/n, Colina, Región Metropolitana, en las líneas de proceso de Alga Seca, Deshidratado, Alga compactada y Alga picada los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 13 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
