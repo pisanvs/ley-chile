@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 358, de fecha 30 de junio de 2006, se expropiaron los lotes de terrenos Nºs 68 y 69, superficie 135 y 163 m2, respectivamente, rol Nº 606-602, comuna de Nueva Imperial, IX Región para la obra "Camino Reposición Ruta S-40, Sector Nueva Imperial-Carahue Tramo Km-0,00000 al Km. 21,58295, Subtramo II Km. 4,04000 al Km. 12,840000" y se acordó el valor de indemnización con su propietario Eduardo Guillermo San Juan Millán y otros, ascendente a la cantidad de $435.264.
+
+- Fiscal del Ministerio de Obras Públicas.
