@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 346 de fecha 30 de junio de 2006, se expropió el lote de terreno Nº 47-A, superficie 159,0 m2, Rol Nº 172-613, comuna de San Clemente, VII Región para la obra "Camino Mejoramiento Ruta K-705, sector: Cruce Ruta 115-CH (El Guindo)-Vilches, Tramo Km. 0,00000 a Km. 13,06400 (Ruta K-705) y Km. 35,46000 a Km. 35,80000 (Ruta 115-CH)", se acordó el valor de indemnización con su propietario Leonel Bernardino Galdames Monsalve, ascendente a la cantidad de $512.771.- para el lote Nº 47-A.
+
+Fiscal del Ministerio de Obras Públicas.
