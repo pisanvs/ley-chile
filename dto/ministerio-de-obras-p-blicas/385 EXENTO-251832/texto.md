@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 385, de fecha 30 de junio del 2006, se expropió el lote de terreno Nº 102, superficie 605 m2, rol Nº 221-9, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, Sector Cañete-Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario Francisco Carrasco Arellano, ascendente a la cantidad de $1.317.072.
+
+- Fiscal del Ministerio de Obras Públicas.
