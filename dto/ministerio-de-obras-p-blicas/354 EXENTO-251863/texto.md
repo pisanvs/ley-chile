@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 354, de fecha 30 de junio de 2006, se expropiaron los lotes de terrenos Nºs 1 y 1, superficie 3.003 y 1.895 m2 respectivamente, rol Nº 610-71, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui Canal alimentador Nº 7, Km. 0,004 al Km.0,125 y proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, lotes adicionales, Canal Matriz Km. 0,000 al Km. 0,113", y se acordó el valor de indemnización con su propietario Pedro Celestino Rojas, ascendente a la cantidad de $3.991.793.
+
+- Fiscal del Ministerio de Obras Públicas.
