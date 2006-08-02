@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 96 de 19.07.2006, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en San Juan Nº 3, Rol de Avalúo Nº 103-24, de la comuna de Machalí, superficie aproximada de 1.335,54 m2 de terreno, delimitada en 2 polígonos; Polígono 1: L-K-N-Ñ-O-P-L de 1.118,24 m2; Polígono 2: M-L-P-Q-M de una superficie de 147,3 m2 conforme al Plano elaborado por la Comisión Tasadora, de aparente dominio de don Héctor Pino González y otros, a fojas 13369 Nº 8860, del año 2003 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí", Tramo Camino a Machalí, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, Ingeniero, Arquitecto y Constructor Civil, respectivamente, según Informe de fecha julio de 2006, monto provisional en $73.076.820.
+
+- Directora Serviu VI Región.
