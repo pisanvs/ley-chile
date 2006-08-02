@@ -1,0 +1,5 @@
+Por Decreto Exento Nº 372, de 30 de junio de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 8-A, 71-B y 85-A, para la obra "Camino Ruta O-852, Sector Coronel-Patagual, Tramo Km.
+
+0,00000 a Km. 17,91963", provincia de Concepción, comuna de Coronel, VIII Región, que figuran a nombre de Badilla Inostroza José Reinald, Solís Sierra Feliciano y Badilla Martínez Juan Manuel, roles de avalúo 1202-16, 1271-3 y 1271-4, superficies 637 M2.; 124 M2.; 565 M2. La Comisión de Peritos fijó, con fecha 30 de septiembre de 2004, en la cantidad de $248.780, para el lote Nº 71-B y el 10 de agosto de 2005, complementada por acta de 15 de agosto de 2005, en la cantidad de $644.800, para el lote Nº 8-A, y $745.000, para el lote Nº 85-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
