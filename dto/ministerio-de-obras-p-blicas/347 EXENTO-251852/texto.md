@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 347, de fecha 30 de junio de 2006, se expropió el lote de terreno Nº 68, superficie 1.483,00 m2, Rol Nº 165-100, comuna de Fresia, X Región para la obra "Mejoramiento Ruta V-46, Sector Tegualda - Fresia, Tramo 2, Km. 1,90990 al 15,88000" y se acordó el valor de indeminización con su propietario Rosendo Solís Zumelzu, ascendente a la cantidad de $2.713.526.- para el lote Nº 68.
+
+- Fiscal del Ministerio de Obras Públicas.
