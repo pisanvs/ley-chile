@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 388, de fecha 30 de junio del 2006, se expropió el lote de terreno Nº 45, superficie 240 m2, rol Nº 58-275, comuna de Romeral, VII Región para la obra "Camino Ruta J-55 Guaico 3-P. Vergara, Sector Guaico 3-La Unión, Tramo Km. 0,00000 al Km. 7,60000.", y se acordó el valor de indemnización con su propietario Fernando Darío Barra Leiva, ascendente a la cantidad de $474.407.
+
+- Fiscal del Ministerio de Obras Públicas.
