@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 365 de 30 de junio de 2006, se expropió el lote de terreno Nº 101, superficie 163 m², rol de Avalúo 221-142, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", VIII Región y se acordó el valor de la indemnización con su propietario Germán Ortiz Pérez, ascendente a la cantidad de $1.994.442.
+
+- Fiscal del Ministerio de Obras Públicas.
