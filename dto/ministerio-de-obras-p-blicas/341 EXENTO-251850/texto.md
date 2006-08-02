@@ -1,0 +1,3 @@
+Por Decreto MOP, Exento Nº 341 de 28 de junio de 2006, se constituyó servidumbre de tránsito, sobre el lote Nº 6 de propiedad fiscal, a favor de la parcela Nº 7, del proyecto de parcelación El Rosal, de la comuna de Huechuraba, Región Metropolitana, inscrita a nombre de Uri Hammer Markus, para el Proyecto "Sistema Américo Vespucio Nor-Poniente. Av. El Salto-Ruta 78. Sector 1: Avenida El Salto-Avenida Pedro Fontova, Canal y Colector de Aguas Lluvias Huechuraba" cuyas superficies y kilometrajes de inicio y término son los que se indican en el decreto respectivo.
+
+Fiscal del Ministerio de Obras Públicas.
