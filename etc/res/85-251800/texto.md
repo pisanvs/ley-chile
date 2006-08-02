@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº85, de 13 julio 2006, tramitada Contraloría Regional República fecha 14 julio 2006, Dirección Regional Serviu X Región expropió un retazo de terreno ubicado en Avenida Pedro Montt Nº1780 de la comuna de Valdivia, Provincia de Valdivia, Región de Los Lagos, Rol Avalúo 269-10, aparente dominio de Ernesto Flandez, de superficie 32,40 metros cuadrados aproximadamente, plano elaborado por Delegación Serviu Valdivia. Indemnización Provisional: $15.750.000. Incluye expropiación construcción según detalla. La Indemnización Provisional se pagará al contado, fijado por Comisión Peritos José Soto Miranda, Gustavo Lacrampe Holthehuer y María José Freire Allendes, designados resolución exenta Nº931, de 02 de mayo del 2006. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº2.186.
+
+- Director Regional Serviu X Región.
