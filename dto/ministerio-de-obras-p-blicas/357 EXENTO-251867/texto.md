@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 357, de fecha 30 de junio del 2006, se expropió el lote de terreno Nº 59-A, superficie 847 m2, rol Nº 546-23, comuna de Linares, VII Región para la obra "Camino Ruta L-31, Sector Polvorines La Floresta, Tramo Km. 0,00000 al Km. 15,48000.", y se acordó el valor de indemnización con su propietaria Luzmira Elena Silva Sáez y Otras, ascendente a la cantidad de $1.046.118.
+
+- Fiscal del Ministerio de Obras Públicas.
