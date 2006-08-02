@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 352, de fecha 30 de junio del 2006, se expropió el lote de terreno Nº 68, superficie 284,55 m2, rol Nº 260-61, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, Sector Tahuinco-Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario Arnaldo Israel Araya Araya, ascendente a la cantidad de $451.669.
+
+- Fiscal del Ministerio de Obras Públicas.
