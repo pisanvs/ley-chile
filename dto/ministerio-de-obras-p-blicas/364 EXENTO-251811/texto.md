@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 364 de 30 de junio de 2006, se expropió el lote de terreno Nº 46-A, superficie 236 m², rol de Avalúo E/T, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3 - P. Vergara, Sector Guaico 3 - La Unión Km. 0,00000 a Km. 7,60000", VII Región y se acordó el valor de la indemnización con su propietaria Hilda Rosa Pino Trincado y otros, ascendente a la cantidad de $993.155.
+
+- Fiscal del Ministerio de Obras Públicas.
