@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 369, de fecha 30 de junio del 2006, se expropió el lote de terreno Nº 18-A, superficie 8.565 m2, rol Nº 144-43, comuna de Huasco, III Región para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, Provincia de Huasco, Región de Atacama, Etapa II", y se acordó el valor de indemnización con su propietaria Eva Carmela Rojas González, ascendente a la cantidad de $524.453.
+
+- Fiscal del Ministerio de Obras Públicas.
