@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 373, de 30 de junio de 2006, se dejaron sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento Nº 1522, de 29 de octubre de 2004, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº 28-B. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 21 de abril de 2003, complementada por acta de 4 de junio de 2004, ascendente a la cantidad de $94.640.
+
+Fiscal del Ministerio de Obras Públicas.
