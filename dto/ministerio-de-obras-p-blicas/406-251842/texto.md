@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 406 de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 35-B, superficie 293,50 m2, Rol Nº 796-10, comuna de Talca, VII Región para la obra "Habilitación Avda. Circunvalación Río Claro en Talca", se acordó el valor de indemnización con su propietario Iván Rubén Fuentes Henríquez y Otro, ascendente a la cantidad de $27.544.280.- para el lote Nº 35-B.
+
+Fiscal del Ministerio de Obras Públicas.
