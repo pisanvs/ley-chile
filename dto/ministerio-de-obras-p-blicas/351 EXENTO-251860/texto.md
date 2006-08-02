@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 351, de fecha 30 de junio del 2006, se expropiaron los lotes de terrenos Nºs. 77-A y 107-A, superficies 393 y 1.181 m2 respectivamente, rol Nº 59-24, comuna de Romeral, VII Región para la obra "Camino Ruta J-55 Guaico 3-P. Vergara, Sector Guaico 3- La Unión, Tramo Km. 0,00000 al Km. 7,60000.", y se acordó el valor de indemnización con su propietario Manuel Antonio Navarro Beltrán, ascendente a la cantidad de $3.057.077.
+
+- Fiscal del Ministerio de Obras Públicas.
