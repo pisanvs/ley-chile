@@ -1,0 +1,5 @@
+ORDENA EXPROPIACION PARCIAL DE INMUEBLES QUE INDICA NOTIFICACION
+
+Por Resolución Nº363 de 14 de junio de 2006 de Serviu Metropolitano, ordenó expropiación Parcial, conforme D.L. Nº 2.186 de 1978, del Lote Nº6 que corresponde a parte de un terreno en que tienen derechos los inmuebles ubicados en Avda. Larraín Nº6967-1, 6967-2, 6967-3, 6967-4, 6967-5, presuntos roles de avalúo Nºs 4300-42, 4300-60, 4300-61, 4300-62, 4300-63, comuna de La Reina, de aparente dominio de los señores Suc. Luis Rivera Merino, De Luigi Venegas María Delfina, Araya Fuentealba sucesión, Arriagada Camus Rafael Sixto y Abott Aguirre Wilson.- Comisión integrada por peritos Pedro Almonacid Colin, Ingeniero Civil, Mufida Abuawad Elías, Arquitecto y Miguel Fernández Cádiz, Constructor Civil. Según informe de 10 de marzo de 2006, fijó monto provisional indemnización en $26.690.600.- pagadera al contado.
+
+Director Serviu Metropolitano.
