@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 350, de fecha 30 de junio del 2006, se expropió el lote de terreno Nº 26, superficie 1.114 m2, rol Nº 118-5, comuna de San Pablo, X Región para la obra "Mejoramiento Camino Ruta U-16, Sector Osorno-Bifurcación Quilacahuin, Tramo Km. 5,36000 al Km. 12,50000", y se acordó el valor de indemnización con su propietario Jorge Hernán Munita Baeza, ascendente a la cantidad de $1.473.695.
+
+- Fiscal del Ministerio de Obras Públicas.
