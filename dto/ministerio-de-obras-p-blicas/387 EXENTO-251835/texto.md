@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 387, de 30 de junio del 2006, se expropiaron los lotes de terrenos Nºs. 81 y 84, superficie 616,38 y 481,14 m2 respectivamente, rol Nº 260-49, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca, Km. 13,14000 al Km. 23,49783 III Etapa", y se acordó el valor de indemnización con su propietario Angel Custodio Pizarro Núñez, ascendente a la cantidad de $3.569.023.
+
+- Fiscal del Ministerio de Obras Públicas.
