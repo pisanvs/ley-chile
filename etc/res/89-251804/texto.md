@@ -1,0 +1,7 @@
+NOTIFICACION
+
+Resolución Nº089 de 13 julio 2006, tramitada Contraloría Regional República fecha 14 julio 2006, Dirección Regional SERVIU X Región expropió un retazo de terreno ubicado en Avenida Pedro Montt Nº1660 de la comuna de Valdivia, Provincia de Valdivia, Región de Los Lagos, Rol Avalúo 239-16, aparente dominio de Matilde Clotilde Gómez Oyarzo, de superficie 252,00 metros cuadrados aproximadamente. Plano elaborado por Delegación Serviu Valdivia. Indemnización Provisional:
+
+$21.109.300. Incluye expropiación construcción y otros según detalla. La Indemnización Provisional se pagará al contado, fijado por Comisión Peritos José Soto Miranda, Gustavo Lacrampe Holthehuer y María José Freire Allendes, designados resolución exenta Nº931, de 02 de mayo del 2006. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº2.186.
+
+- Director Regional Serviu X Región.
