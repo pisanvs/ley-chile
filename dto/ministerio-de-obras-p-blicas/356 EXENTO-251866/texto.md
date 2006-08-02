@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 356, de fecha 30 de junio del 2006, se expropió el lote de terreno Nº 123, superficie 558,76 m2, rol Nº 260-13, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca, Km. 13,14000 al Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietaria Carolina Angélica Cruz García, ascendente a la cantidad de $2.150.312.
+
+- Fiscal del Ministerio de Obras Públicas.
