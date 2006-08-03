@@ -1,0 +1,7 @@
+AUTORIZA EMISORES ELECTRONICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 91, de 27 de julio de 2006, que autoriza a contribuyentes como emisores electrónicos.
+
+Se autoriza como emisores de documentos tributarios electrónicos a RUT 79.993.330-6, RUT 78.011.070-8, RUT 78.353.030-9, RUT 96.619.660-2, RUT 94.621.000-5, RUT 76.071.330-9, RUT 87.851.300-2, RUT 76.019.160-4, RUT 77.593.800-5, RUT 77.083.100-8, RUT 81.776.200-K, RUT 96.654.810-K, RUT 76.511.040-8, RUT 77.427.110-4, RUT 96.889.950-3, RUT 96.620.830-9, RUT 08.838.595-0, RUT 08.292.217-2, RUT 96.949.490-6, RUT 79.693.220-1, RUT 76.536.470-1, RUT 04.783.246-2, RUT 99.592.740-3, RUT 80.570.900-6, RUT 15.660.869-6, RUT 76.510.830-6, RUT 77.570.000-9, RUT 12.213.415-6, RUT 86.542.100-1, RUT 78.279.030-7, RUT 81.145.500-8, RUT 99.555.550-6, RUT 78.934.220-2, RUT 04.836.905-7, RUT 81.537.600-5, RUT 78.454.810-4, RUT 76.433.430-2, RUT 99.588.370-8, RUT 76.554.740-7, RUT 77.656.150-9, RUT 77.102.920-5, RUT 77.903.350-3, RUT 86.256.600-9, RUT 76.046.240-3, RUT 77.299.500-8, RUT 96.682.190-6 y RUT 79.945.450-5 a contar del mes de agosto de 2006. En la Oficina Virtual del SII en Internet se podrá consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2006.
