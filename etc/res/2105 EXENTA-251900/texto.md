@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.105, de 25 de julio 2006, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº 766, de 1993; Nº 277, de 1999, y Nº 294, de 2000, de esta Subsecretaría, sólo en cuanto autorizaron a Pesquera Friosur S.A., hoy FRIOSUR VII S.A., para operar la nave Friosur VII, en el área marítima comprendida entre la IX Región y el paralelo 47º L.S. sobre el recurso hidrobiológico Besugo, y en el área marítima comprendida entre la IX Región y el paralelo 41º28'6 L.S. sobre el recurso Raya, todo ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y de lo señalado en la presente resolución.
+
+Valparaíso, 25 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
