@@ -1,0 +1,3 @@
+Por resolución exenta Nº 452 de 9 de febrero de 2006 de esta Subsecretaría, autorízase a CARLOS EDWARD SOTO GONZALEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en La Chimba, kilómetro Nº 15.5, ruta 1, camino Cerro Moreno, Antofagasta, II Región, donde podrá elaborar en la línea de procesos de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de febrero de 2006.- Jessica Fuentes Olmos, Subsecretaria de Pesca (S).
