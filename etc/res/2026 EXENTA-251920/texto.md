@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.026 de 18 de julio de 2006 de esta Subsecretaría, autorízase a ORLANDO ALFONSO UGALDE PAEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Mina Sayen, Sector La Portada de Antofagasta, Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
