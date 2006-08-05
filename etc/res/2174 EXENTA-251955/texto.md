@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.174, de 28 de julio de 2006, de esta Subsecretaría, recházase la solicitud Nº 204104007 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, ALGUEROS Y AGRICOLAS "LOS CISNES" DE AUCHA-AGUANTAO para modificar la concesión de acuicultura ubicada en ensenada Codihue, al este de Punta Aucha, X Región, otorgada por resolución Nº 945, de 1995, modificada por resolución Nº 2.026, de 2001, ambas de la Subsecretaría de Marina.
+
+Valparaíso, 28 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
