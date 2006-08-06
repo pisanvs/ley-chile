@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA SERIE DE SANTIAGO
+
+Por resolución SII Nº 10, de 21 de junio de 2006, se designó Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago a doña Anita Maibee Pérez, RUT Nº 11.364.542-3, profesional grado 9º, en reemplazo de Carmen Gloria Muñoz Llanos.
