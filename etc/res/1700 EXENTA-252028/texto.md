@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.700 de 21 de junio de 2006, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado El Panul, IV Región, individualizada en el artículo 1º del decreto exento Nº 466 de 2005, del Ministerio de Economía, Fomento y Reconstrucción, presentado por la ASOCIACIÓN GREMIAL DE BUZOS, MARISCADORES, PESCADORES ARTESANALES Y RECOLECTORES DE ORILLA EL PANUL.
+
+Valparaíso, 21 de junio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
