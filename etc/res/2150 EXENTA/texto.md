@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.150, de 27 de julio de 2006, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.045, de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la captura de pez espada (Xiphias gladius) realizada por la flota artesanal de las Regiones I a X, año 2006", en el sentido de reemplazar la frase "30 de abril" por "15 de agosto".
+
+Valparaíso, 27 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
