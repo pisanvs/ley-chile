@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.024, de 18 de julio de 2006, de esta Subsecretaría, autorízase a RENE LUCIANO VELIZ CARVAJAL, para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en visto, en orden a incorporar a la planta ubicada en Santa Ester Nº 550, población Victoria, Coquimbo, IV Región, en las líneas de proceso de Congelado y Fresco enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
