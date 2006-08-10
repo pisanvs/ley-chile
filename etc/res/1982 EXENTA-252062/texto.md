@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.982, de 13 de julio de 2006, de esta Subsecretaría, modifícase la resolución Nº 3.693 de 2005, de esta Subsecretaría, que autorizó a RENE JESUS VIDELA PEREZ, para instalar colectores de semillas de mitílidos en el Estero Reloncaví, sector Punta Serapio, X Región, en el sentido de ampliar la vigencia de dicha autorización por el término de 2 meses contados desde la fecha de la presente resolución.
+
+Valparaíso, 13 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
