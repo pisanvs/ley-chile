@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.886, de 4 de julio de 2006, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL RIA AUSTRAL LIMITADA, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Avenida Vicente Pérez Rosales Nº 715, Llanquihue, X Región, donde podrá elaborar en las líneas de proceso Cocido, Congelado y Crudo Congelado, el recursos hidrobiológico indicado en la resolución extractada.
+
+Rectifícase la resolución Nº 1.143 de 2001, de esta Subsecretaría, que autorizó a Sociedad Comercial Ria Austral Limitada, para iniciar actividades pesqueras de transformación, en el sentido de indicar en el numeral 2 que la dirección de la planta corresponde a Avenida Vicente Pérez Rosales Nº715 ex Nº 201, Llanquihue, X Región.
+
+Valparaíso, 4 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
