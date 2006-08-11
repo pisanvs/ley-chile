@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.153, de 28 de julio de 2006, de esta Subsecretaría, autorízase al CENTRO DE ECOLOGIA APLICADA LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la distribución temporal y espacial de la fauna íctica del río Biobío, VIII Región".
+
+El objetivo de la pesca de investigación consiste en determinar cualitativa y cuantitativamente los efectos que se producirán sobre el ecosistema reófilo del sector alto del río Biobío en la VIII Región, como resultado de la construcción y operación de embalses Ralco y Pangue.
+
+La pesca de investigación se efectuará por el término de un año en la cuenca de los embalses Ranco y Pangue. La peticionaria podrá capturar, con devolución, mediante pesca eléctrica y redes mono filamento, ejemplares de las especies Diplomystes nahuelbutaensis, Percilia irwini, Trichomycterus aerolatus, Trichomycterus chiltoni, Oncorhynchus mykiss y Salmo trutta. Sin perjuicio de lo anterior, la peticionaria podrá capturar un máximo de cinco ejemplares de las especies antes individualizadas, por campaña de muestreo en cada una de las estaciones indicadas en la resolución extractada.
+
+Valparaíso, 28 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
