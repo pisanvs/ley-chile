@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.965, de 11 de julio de 2006, de esta Subsecretaría, autorízase a OSVALDO JULIO RODOLFO CUADRADO KAISER, para ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en sector Colorado Chico, Bajo Molle, I Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco, Refrigerado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
