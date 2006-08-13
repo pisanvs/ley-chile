@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.108, de 25 de julio de 2006, de esta Subsecretaría, autorizase a PACIFIC GOLD S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en El Teniente Nº 80, Barrio Industrial, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco Refrigerado, Congelado y Conserva los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
