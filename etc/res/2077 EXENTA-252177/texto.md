@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.077, de 20 de julio de 2006 de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Chepiquilla, IV Región, individualizada en el artículo 1º del decreto exento Nº 730 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES Y BUZOS MARISCADORES - EXTRACTORES DE PRODUCTOS DEL MAR, CALETA CHIGUALOCO.
+
+Valparaíso, 20 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
