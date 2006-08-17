@@ -1068,19 +1068,21 @@ ANEXO N°1
 
 ANTECEDENTES PARA REGISTRAR OFICINAS QUE NO REQUIEREN AUTORIZACION DE APERTURA
 
-Para registrar una oficina cuya apertura no requiere de autorización, las instituciones financieras enviarán a esta Superintendencia los siguientes antecedentes
+Para registrar una oficina cuya apertura no requiere de autorización, las instituciones financieras enviarán a esta Superintendencia los siguientes antecedentes:
 
-A) Tipo de unidad de negocio de que se trata (Sucursal, caja auxiliar u oficina de apoyo)
+A) Tipo de unidad de negocio de que se trata (Sucursal, caja auxiliar u oficina de apoyo).
 
-B) Servicios y productos que ofrecerá
+B) Servicios y productos que ofrecerá y número de potenciales clientes para cada uno de ellos, según proyecciones.
 
-C) Lugar en que se ubicará (dirección, ciudad, comuna)
+C) Lugar en que se ubicará (dirección, ciudad, comuna).
 
-D) Fecha de apertura
+D) Fecha de apertura.
 
-E) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Exento N° 1122, de 19 de octubre de 1998, de los Ministerios del Interior y de Defensa Nacional.
+E) Horarios de atención al público.
 
-F) Si se trata de una sucursal
+F) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Exento N° 1.122, de 1998, de los Ministerios del Interior y de Defensa Nacional.
+
+G) Si se trata de una sucursal:
 
 a.- Estimación del volumen del negocio, proyectado para un período mínimo de cinco años, para las siguientes variables:
 
@@ -1094,15 +1096,15 @@ a.- Estimación del volumen del negocio, proyectado para un período mínimo de 
 
 - flujo de ingresos y gastos
 
-b.- Monto de la inversión inicial y número de empleados
+b.- Monto de la inversión inicial y número de empleados.
 
-c.- TIR y VAN, indicando en este último caso la tasa de descuento utilizada
+c.- TIR y VAN, indicando en este último caso la tasa de descuento utilizada.
 
-G) Si se trata de una caja auxiliar u otra oficina de apoyo
+H) Si se trata de una caja auxiliar u otra oficina de apoyo:
 
-a.- si su funcionamiento será indefinido o solamente temporal, indicando en este caso el período de funcionamiento
+a.- si su funcionamiento será indefinido o solamente temporal, indicando en este caso el período de funcionamiento.
 
-b.- la oficina de la cual dependerá (dirección, ciudad, comuna)
+b.- la oficina de la cual dependerá (dirección, ciudad, comuna).
 
 ANEXO N°2
 
@@ -1110,17 +1112,19 @@ ANTECEDENTES QUE DEBEN ENVIAR LAS INSTITUCIONES QUE REQUIEREN AUTORIZACION PARA 
 
 I.- Para la solicitud de apertura.
 
-Junto con la solicitud de autorización para abrir una oficina, se enviarán a esta Superintendencia los siguientes antecedentes
+Junto con la solicitud de autorización para abrir una oficina, se enviarán a esta Superintendencia los siguientes antecedentes:
 
-A) Tipo de unidad de negocio de que se trata (Sucursal, caja auxiliar u oficina de apoyo)
+A) Tipo de unidad de negocio de que se trata (Sucursal, caja auxiliar u oficina de apoyo).
 
-B) Servicios y productos que ofrecerá
+B) Servicios y productos que ofrecerá y número de potenciales clientes para cada uno de ellos, según proyecciones.
 
-C) Lugar en que se ubicará (dirección, ciudad, comuna)
+C) Lugar en que se ubicará (dirección, ciudad, comuna).
 
-D) Si se trata de una sucursal
+D) Horarios de atención al público.
 
-Evaluación del proyecto que justifique la apertura Deberá contener al menos los antecedentes relativos a:
+E) Si se trata de una sucursal:
+
+Evaluación del proyecto que justifique la apertura. Deberá contener al menos los antecedentes relativos a:
 
 - estudio de mercado
 
@@ -1128,17 +1132,17 @@ Evaluación del proyecto que justifique la apertura Deberá contener al menos lo
 
 - valorización económica
 
-E) Si se trata de una caja auxiliar u otra oficina de apoyo
+F) Si se trata de una caja auxiliar u otra oficina de apoyo:
 
-a.- si su funcionamiento será indefinido o solamente temporal, indicando en este caso el período de funcionamiento
+a.- si su funcionamiento será indefinido o solamente temporal, indicando en este caso el período de funcionamiento.
 
-b.- la oficina de la cual dependerá (dirección, ciudad, comuna)
+b.- la oficina de la cual dependerá (dirección, ciudad, comuna).
 
 ### II. Para el registro posterior
 
-A) Fecha de apertura
+A) Fecha de apertura.
 
-B) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Exento N° 1122, de 19 de octubre de 1998, de los Ministerios del Interior y de Defensa Nacional.
+B) Antecedentes relativos al cumplimiento de las exigencias contenidas en el Decreto Exento N° 1.122, de 1998, de los Ministerios del Interior y de Defensa Nacional.
 
 CAPITULO 1-7 (Bancos y Financieras)
 
