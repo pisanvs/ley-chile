@@ -1,0 +1,3 @@
+Por decreto exento Nº 405, de 19 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para el proyecto: "Sistema de Agua Potable Rural Llifén", que figura a nombre de Arriagada González Félix Segun, rol de avalúo 61-128, comuna de Futrono, X Región, superficie 150 M2. La comisión de peritos, fijó con fecha 23 de noviembre de 2005, fijó el monto de la indemnización provisional en la cantidad de $750.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
