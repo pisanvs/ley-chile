@@ -1,0 +1,3 @@
+Por decreto MOP Nº 491, de fecha 30 de junio de 2006, se expropió el lote de terreno Nº 20-H, superficie 1.797,11 m2, Rol Nº 817-300, comuna de Quintero, V Región, para la obra "Camino Ruta F-190. Sector Colmo - Puchuncaví, Km. 0,00000 a Km. 25,22591", y se acordó el valor de indemnización con su propietario Sociedad Ahorros, Inversiones y Rentas S.A., ascendente a la cantidad de $4.185.940.
+
+- Fiscal del Ministerio de Obras Públicas.
