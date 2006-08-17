@@ -1,0 +1,3 @@
+Por decreto MOP Nº 493, de fecha 30 de junio de 2006, se expropiaron los lotes de terrenos Nºs 16, 18 y 20, superficies 380, 135 y 2.427 m2, Rol de avalúo Nº 3281-20, comuna de Temuco, para la obra "Ampliación Reposición, Pavimentación Ruta 5 Sur, Sector Acceso Norte a Temuco, Km. 0,50000 al Km. 8,66000, Comunas de Vilcún y Temuco, provincia de Cautín, IX Región", y se acordó el valor de la indemnización con su propietario René García de Celis, ascendente a la cantidad de $56.814.029.
+
+- Fiscal del Ministerio de Obras Públicas.
