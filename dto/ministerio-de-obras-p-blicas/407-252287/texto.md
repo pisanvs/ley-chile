@@ -1,0 +1,3 @@
+Por decreto MOP Nº 407, de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 8, superficie 4.730 m2, Rol Nº 861-20, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, tramo Km. 0,000 al Km. 19,500, Provincia de Huasco, III Región, Etapa I", y se acordó el valor de la indemnización con su propietario Jorge Valentín Bordones Espinoza, ascendente a la cantidad de $5.512.947.
+
+Fiscal del Ministerio de Obras Públicas.
