@@ -1,0 +1,3 @@
+Por decreto exento Nº 406, de 19 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº6, para el proyecto: "Sistema Regadío Valle del Choapa". Obra: "Descarga de Emergencia Nocuy, Canal Alimentador Embalse Corrales", que figura a nombre de Cooperativa Coiron Ltda., Rol de avalúo 248-1, comuna de Salamanca, IV Región, superficie 90 M2. La comisión de peritos, fijó con fecha 3 de agosto de 2005, en la cantidad de $222.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
