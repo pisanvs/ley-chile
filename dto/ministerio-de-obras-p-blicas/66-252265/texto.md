@@ -1,0 +1,3 @@
+Por decreto MOP Nº 66, de 31 de enero de 2006, se dejó sin efecto el decreto MOP N° 1183, de 21 de diciembre de 2004, el cual ordenó la expropiación del lote de terreno N° 7 perteneciente a la obra: "Proyecto: Concesión Internacional Sistema Américo Vespucio Nor Poniente. Avda. El Salto Ruta 78. Tramo 1: El Salto Pedro Fontova", por no ser necesario su expropiación.
+
+Fiscal del Ministerio de Obras Públicas.
