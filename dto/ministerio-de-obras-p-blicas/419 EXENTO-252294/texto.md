@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 419, de 26 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº11, para la obra: Camino Ruta I-810 Puquillay - Convento Viejo, Sector Puquillay - La Cabrería, Km.
+
+0,00000 a Km. 0,26894 (I-796), que figura a nombre de Frutícola Nacional S.A., Rol de avalúo 149-17, comuna de Nancagua, VI Región, superficie 289 M2. La comisión de peritos, fijó con fecha 25 de noviembre de 2004 el monto de la indemización provisional en la cantidad de $2.302.700, lote Nº11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
