@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 393, de fecha 30 de junio de 2006, se expropió el lote de terreno Nº 9, superficie 2.264,00 m2, Rol Nº 386-237, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan", Obra "Canal Cantarrana" y se acordó el valor de indemnización con su propietario Bertholdt Buck Rilling, ascendente a la cantidad de $1.659.784.
+
+Fiscal del Ministerio de Obras Públicas.
