@@ -1,0 +1,3 @@
+Por decreto MOP Nº 478, de fecha 30 de junio de 2006, se expropió el lote de terreno Nº 216-1, superficie 3.759 m2, Rol Nº 300-67, comuna de Quillota, V Región, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00", y se acordó el valor de indemnización con su propietario Sociedad de Inversiones y Rentas Salinas León Limitada, ascendente a la cantidad de $14.641.863.
+
+- Fiscal del Ministerio de Obras Públicas.
