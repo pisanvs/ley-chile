@@ -1,0 +1,3 @@
+Por decreto MOP Nº 401, de fecha 31 de mayo de 2006, se expropió el lote de terreno Nº 9, superficie 371 m2, Rol Nº 8004-3, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 - Km. 19,500 Provincia de Huasco, III Región, Etapa II", y se acordó el valor de la indemnización con su propietario Mary Zilene Arancibia Espinoza, ascendente a la cantidad de $6.452.345.
+
+Fiscal del Ministerio de Obras Públicas.
