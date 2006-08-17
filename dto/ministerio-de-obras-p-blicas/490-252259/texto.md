@@ -1,0 +1,3 @@
+Por decreto MOP Nº 490, de fecha 30 de junio de 2006, se expropió el lote de terreno Nº 4, superficie 2.944 m2, Rol Nº 2477-14, comuna de Valdivia, para la obra "Construcción Puente Cau-Cau y Accesos, Comuna de Valdvia, Provincia de Valdivia, X Región", y se acordó el valor de la indemnización con su propietario Josef Koller Hager, ascendente a la cantidad de $10.662.480.
+
+- Fiscal del Ministerio de Obras Públicas.
