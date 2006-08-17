@@ -1,0 +1,3 @@
+Por decreto MOP Nº 489, de fecha 30 de junio de 2006, se expropió el lote de terreno Nº2, superficie 1.459,80 m2, Rol Nº 327-123, comuna de Cunco, IX Región para la obra "Mejoramiento trazado, camino faja 20.000 sector Fdo. Sta. Ana - Fdo. San Pedro, Tramo Km. 4,95000 al Km. 5,15400, comuna de Cunco, provincia de Cautín, IX Región" y se acordó el valor de indemnización con su propietario Bernardino Neptalí Peña Vidal, ascendente a la cantidad de $7.167.499.
+
+- Fiscal del Ministerio de Obras Públicas.
