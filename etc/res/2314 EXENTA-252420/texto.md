@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.314, de 9 de agosto de 2006, de esta Subsecretaría, recházase la solicitud Nº 205101061 presentada por ROBINSON CRUSOE Y COMPAÑIA LIMITADA, para modificar la concesión de acuicultura ubicada en Isla Maillén, sector norte de Punta Puchegui, X Región, otorgada por resolución Nº 1.501 de 1995, modificada y transferida a la peticionaria por resolución Nº 1.465 de 2000, ambas de la Subsecretaría de Marina.
+
+Valparaíso, 9 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
