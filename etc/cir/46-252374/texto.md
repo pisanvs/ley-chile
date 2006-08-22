@@ -1,0 +1,5 @@
+EXTRACTO DE CIRCULAR Nº 46, DEL 17 DE AGOSTO DE 2006, DEL SERVICIO DE IMPUESTOS INTERNOS, QUE REEMPLAZA LAS CIRCULARES Nº 42 DE 1999, Nº 40 DE 2005 Y ACTUALIZA PROCEDIMIENTO PARA DETERMINAR EL AVALUO FISCAL DE BIENES RAICES ACOGIDOS AL REGIMEN DE COPROPIEDAD INMOBILIARIA, ESTABLECIDO EN LA LEY Nº 19.537
+
+La presente circular reemplaza las circulares Nº 42 de 1999, Nº 40 de 2005 y actualiza las instrucciones relativas al procedimiento relacionado con la declaración de cálculo del avalúo fiscal de la edificación de cada unidad de los bienes raíces acogidos al régimen de Copropiedad Inmobiliaria establecido en la ley Nº 19.537, atendiendo a lo dispuesto en la resolución Ex. Nº 8, de 18/01/2006, que norma los nuevos valores de terreno y construcción, definidos con ocasión del reavalúo de los bienes raíces no agrícolas.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet, www.sii.cl, y se incluirá en el Boletín del SII, correspondiente al mes de agosto de 2006.
