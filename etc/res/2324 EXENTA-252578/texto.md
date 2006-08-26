@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.324, de 14 de agosto de 2006, de esta Subsecretaría, modifícase la resolución Nº 559 de 2002, de esta Subsecretaría que autorizó al INSTITUTO DE FOMENTO PESQUERO para realizar actividades experimentales de acuicultura sobre las especies Esturión de Siberia y Esturión Blanco, en el sentido de ampliar la vigencia de la autorización por el período de un año contado desde la fecha de la presente resolución.
+
+Valparaíso, 14 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
