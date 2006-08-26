@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.315 de esta Subsecretaría, déjase sin efecto, a partir del 8 de agosto de 2006, la resolución exenta Nº 2.207 de 2006, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia de los Proyectos BIP Nº 30043866-0 denominado "Investigación evaluación hidroacústica del stock desovante de Merluza del sur y Merluza de cola, 2006" y BIP Nº 30043868-0 denominado "Investigación evaluación hidroacústica del stock desovante de Merluza de tres aletas, 2006", en virtud de la renuncia presentada por el titular de la autorización.
+
+Valparaíso, 9 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
