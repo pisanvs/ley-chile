@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.158, de 28 de julio de 2006, de esta Subsecretaría, modifícase la resolución exenta Nº 4.532 de 2005, de esta Subsecretaría de Pesca, que autorizó al CENTRO DE INVESTIGACION, DESARROLLO Y CAPACITACION EN CIENCIAS DEL MAR, MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Pesca de Investigación de Merluza del sur (Merluccius australis) en aguas interiores de la zona de Palena, X Región", en el sentido de incorporar al numeral 4º, el siguiente inciso final:
+
+"En el evento de fuerza mayor, el Servicio Nacional de Pesca podrá autorizar la operación de la totalidad o parte de la flota de la zona de Palena en los períodos autorizados a las zonas de Puerto Montt, Hualaihué, Calbuco o Chiloé.".
+
+Valparaíso, 28 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
