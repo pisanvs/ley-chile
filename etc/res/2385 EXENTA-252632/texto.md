@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.385, de 18 de agosto de 2006, de esta Subsecretaría, rectifícase el numeral 4º de la resolución Nº 2.178 de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Distribución y estructura de los recursos Anchoveta y Sardina común entre los límites regionales de la X Región, Aguas interiores", en el sentido de indicar que el nombre de la embarcación artesanal participante de la citada pesca de investigación es "Don Eduardo II", y no "Don Eduardo", como allí se indica.
+
+Valparaíso, 18 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
