@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.420, de 21 de agosto de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205103178 presentada por TRUSAL S.A., para instalar y operar un centro de cultivo ubicado al suroeste de morro Pirquén, X Región.
+
+Valparaíso, 21 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
