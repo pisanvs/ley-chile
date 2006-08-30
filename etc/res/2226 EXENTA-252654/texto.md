@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.226, de 8 de agosto de 2006, de esta Subsecretaría, modifícase la resolución Nº 1.827 de 2004, de esta Subsecretaría, que autorizó a SKYRING SALMON S.A. para operar un vivero flotante en sector Rauco, estero Castro, X Región, en el sentido de incorporar en ella un plan de recaptura de especies en el evento de escape de las mismas
+
+Valparaíso, 8 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
