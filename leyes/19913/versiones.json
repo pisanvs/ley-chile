@@ -2,5 +2,41 @@
   {
     "fecha": "2003-12-18",
     "committed": true
+  },
+  {
+    "fecha": "2006-08-31",
+    "committed": true
+  },
+  {
+    "fecha": "2009-12-02",
+    "committed": false
+  },
+  {
+    "fecha": "2015-02-18",
+    "committed": false
+  },
+  {
+    "fecha": "2019-07-13",
+    "committed": false
+  },
+  {
+    "fecha": "2021-04-13",
+    "committed": false
+  },
+  {
+    "fecha": "2023-01-04",
+    "committed": false
+  },
+  {
+    "fecha": "2023-05-23",
+    "committed": false
+  },
+  {
+    "fecha": "2023-11-23",
+    "committed": false
+  },
+  {
+    "fecha": "2024-09-04",
+    "committed": false
   }
 ]
