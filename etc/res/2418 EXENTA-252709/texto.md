@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.418, de 21 de agosto de 2006, de esta Subsecretaría, recházase la solicitud Nº 205101072, presentada por CULTIVADORA DE SALMONES LINAO LIMITADA, para modificar la concesión de acuicultura ubicada en estero Reloncaví, sector Pucheguín, X Región, otorgada por resolución Nº 1.318, de 2001, de la Subsecretaría de Marina.
+
+Valparaíso, 21 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
