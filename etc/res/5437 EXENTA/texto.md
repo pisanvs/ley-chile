@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 5.437, 17 agosto 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle O'Higgins Nº 2160, Rol de Avalúo Nº 2602-9, comuna Chiguayante, superficie 12,2 metros cuadrados de terreno y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.686, de aparente dominio de Luis Alberto Zaldua Castillo, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", de la comuna de Chiguayante, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Guillermo Orlando Villafañe Feres, arquitecto, Patricio Efraín Riquelme Victoriano, arquitecto y Andrés Javier Tobar Beluzan, arquitecto, según informe de fecha 5 de mayo de 2006, fijó monto provisional indemnización en $724.826.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
