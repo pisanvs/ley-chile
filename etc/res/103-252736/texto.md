@@ -1,0 +1,43 @@
+EXPROPIA PARTE DEL INMUEBLE DE DOMINIO DE LA SOCIEDAD INMOBILIARIA Y DEPORTIVA CLUB DE YATES DE ANTOFAGASTA S.A.
+
+Antofagasta, 31 de julio de 2006.- Con esta fecha se ha dictado lo siguiente:
+
+Núm. 103.- Vistos:
+
+a) El artículo 51 de la Ley Nº 16.391, sustituido por el D.L. Nº 1.523 de 1976, en relación con el Art. 50 del mismo cuerpo legal, que autoriza las expropiaciones y declara de utilidad pública los inmuebles que sean indispensables para el cumplimiento de los programas de construcción de viviendas, equipamiento comunitario, obras de infraestructura y remodelaciones que apruebe el Ministerio de Vivienda y Urbanismo;
+
+b) El D.S. Nº 117 (V. y U.) de 2005 publicado en el Diario Oficial de 6 de julio de 2005 y en el diario "El Mercurio de Antofagasta", del 30 de septiembre de 2005, que aprueba el programa de expropiaciones para la ejecución de las obras del proyecto "Construcción de Avenida Costanera Central de Antofagasta" en la II Región de Antofagasta;
+
+c) La necesidad de llevar a cabo el proyecto denominado "Construcción de Avenida Costanera Central de Antofagasta" (Código B.I.P. 20165499-
+
+0);
+
+d) Que para el efecto señalado precedentemente es necesario la expropiación de parte del inmueble ubicado en Avenida Balmaceda Nº 2615, que se individualiza más adelante como lote 9, de dominio de la Sociedad Inmobiliaria y Deportiva Club de Yates de Antofagasta S.A.
+
+e) El informe favorable de la Secretaría Ministerial de Vivienda y Urbanismo - II Región;
+
+f) El informe de fecha 10 de mayo de 2006, de los peritos Sr. Jorge Oyarzún Asún, constructor civil; Sra. Eleonora Román Latorre, arquitecto, y Sr. Héctor Villegas González, constructor civil, en el que se fijó como monto provisional de la indemnización del inmueble a expropiar en la suma de $45.356.000 a la fecha indicada;
+
+g) El informe legal de fecha 29 de mayo de 2006 del Departamento Jurídico que concluye que el dominio del inmueble señalado corresponde a la Sociedad Inmobiliaria y Deportiva Club de Yates de Antofagasta S.A., conforme a la inscripción de fs. 3.382 vta., Nº 4.644 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 1996;
+
+h) El Plano E-257 confeccionado por el Depto. Técnico de SERVIU II Región en el que se grafica la propiedad que se requiere expropiar; dicho plano fue debidamente aprobado por la Dirección de Obras Municipales de Antofagasta y se archivó bajo el Nº 382, al final del Registro de Propiedad del año 2006, del Conservador de Bienes Raíces de Antofagasta.
+
+i) La resolución Nº 55, de 1992, cuyo texto refundido fue fijado por la resolución Nº 520 de 1996, ambas de la Contraloría General de la República;
+
+j) Las facultades establecidas por el D.L. Nº 1.305 de 1975, el D.S. Nº 355 (V y U) de 1976, las disposiciones contenidas en el D.L. Nº 2.186 de 1978 y lo previsto en el Inc. 4º del Art. 21 de la ley 16.391, y D.S. Nº 193 (V y U) de fecha 2 de noviembre de 1988 que me nombra Director Subrogante SERVIU II Región, dicto la siguiente:
+
+Resolución:
+
+1º Procédase a expropiar parte del inmueble ubicado en Avenida Balmaceda Nº 2615, Rol de avalúo Nº 846-08, de la comuna de Antofagasta, de dominio de la Sociedad Inmobiliaria y Deportiva Club de Yates de Antofagasta S.A.
+
+La parte del inmueble que se ordena expropiar tiene una superficie de 166,75 metros cuadrados, se individualiza como lote 9 en el Plano E-257 confeccionado por el Depto. Técnico de SERVIU II Región archivado bajo el Nº 382, al final del Registro de Propiedad del año 2005, del Conservador de Bienes Raíces de Antofagasta.
+
+2º El monto provisional de la indemnización se ha fijado en la suma de $45.356.000, la que se pagará al contado con el reajuste del artículo 5º del D.L. Nº 2.186, en caso de ser procedente, reajuste que deberá ser imputado presupuestariamente al momento de la materialización del pago, si ello ocurriere.
+
+3º El Gobierno Regional de Antofagasta, GORE pondrá a disposición del Departamento Jurídico la suma señalada precedentemente en la forma y oportunidad en que éste lo requiera.
+
+4º Por razones de urgencia la presente Resolución deberá tramitarse en el plazo de cinco días.
+
+5º Impútese el gasto que demande el cumplimiento de la presente Resolución al Sub título 31, Asignación 02, Item 003, de la partida terrenos del proyecto "Construcción Avenida Costanera Central de Antofagasta", Código B.I.P. 20165499-0, aprobado por Resolución Nº 037 de fecha 20 de octubre de 2005 del GORE.
+
+Tómese razón, anótese, comuníquese, transcríbase y publíquese.- Juan Emilio Santiago Araya, Director (S) SERVIU II Región.
