@@ -1,0 +1,3 @@
+Por decreto MOP Nº 573, de 26 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP. Nº 3.468 de 31 de julio de 2000, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura expropiación y en lo que respecta a la indemnización del lote Nº 38. Consígnese judicialmente el monto provisonal de la indemnización del lote Nº 38, fijada por la Comisión de Peritos, con fecha 15 de enero de 1999, ascendente a la cantidad de $133.000 para el lote Nº 38.
+
+Fiscal del Ministerio de Obras Públicas.
