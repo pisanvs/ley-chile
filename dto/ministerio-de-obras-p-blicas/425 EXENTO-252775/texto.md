@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº 425, de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 86-A para la obra: Camino Ruta L-75, sector El Ajial - Las Camelias, tramo Km. 6,320.00 a Km.
+
+23,400.00, que figura a nombre de Fuentes Villagra Tema, Rol de avalúo 520-83, de la comuna de Parral, VII Región, superficies 62 m². La Comisión de Peritos, con fecha 3 de marzo de 2000, complementada por acta de 8 de agosto de 2002, fijó el monto de la indemnización provisional en la cantidad de $64.400.- lote Nº 86-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
