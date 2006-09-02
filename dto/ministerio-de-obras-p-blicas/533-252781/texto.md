@@ -1,0 +1,5 @@
+Por decreto MOP Nº 533, de 19 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron para el Fisco, los lotes de terreno Nºs 31-A, 33, 39, 41 y 55, para la ejecución del proyecto: Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca. Km.
+
+13,14000 a Km. 23,49783, II Etapa, que figuran a nombre de Ferronor, sin rol, superficies 2.359,36 m², 306,13 m², 1.032,90 m², 22.947,84 m², 571,24 m². La Comisión de Peritos, fijó con fecha 14 de noviembre de 2005, en las cantidades de $1.522.677, para el lote Nº 31-A, $382.663, para el lote Nº 33, $2.111.125, para el lote Nº 39, $5.982.808, para el lote Nº 41 y $405.219, para el lote Nº 55. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
