@@ -1,0 +1,3 @@
+El Instituto Nacional de la Juventud informa que por razones técnicas y de buen servicio, a través de resolución exenta Nº 887 de fecha 9 de Agosto de 2006, ha resuelto dejar sin efecto concurso convocado por este medio con fecha 1º de Agosto del presente año, para la provisión de un cargo de Jefe de Departamento, grado 7º, planta Regional. El nuevo llamado a concurso se efectuará el día 1º de septiembre de 2006.
+
+DIRECTOR NACIONAL INSTITUTO NACIONAL DE LA JUVENTUD
