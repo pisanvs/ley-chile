@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 5.436, 17 de agosto de 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle O'Higgins Nº2805, rol de avalúo Nº 2364-6, comuna Chiguayante, superficie 1,0 metros cuadrados de terreno y 1,0 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.677, de aparente dominio de Nelson Eduardo Jara Paredes, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", de la comuna de Chiguayante, conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión peritos integrada por Cecilia Carrasco Verdugo, arquitecto, Mario Bellolio Bosticca, arquitecto y Claudia Marzullo García, arquitecto, según informe de fecha 29 de mayo de 2006, fijó monto provisional indemnización en $309.400.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
