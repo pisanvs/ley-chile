@@ -1,0 +1,19 @@
+ESTABLECE COMISION MAXIMA DE INTERMEDIACION DE RENTAS VITALICIAS A QUE SE REFIERE EL INCISO DECIMOCUARTO DEL ARTICULO 61 BIS DEL DL Nº 3.500, DE 1980
+
+Núm. 942.- Santiago, 11 de agosto de 2006.- Visto: El artículo 32 Nº 6 de la Constitución Política de la República de Chile; el DL Nº 3.500, de 1980, y el DFL Nº 101, de 1980, del Ministerio del Trabajo y Previsión Social; el DL Nº 3.538, de 1980; lo dispuesto en el inciso décimo cuarto del artículo 61 bis del DL Nº 3.500, de 1980, agregado por el Nº 8 del artículo 1º de la ley Nº 19.934 y en el artículo décimo transitorio de la misma ley, y
+
+Considerando:
+
+1. Que el inciso decimocuarto del artículo 61 bis del DL Nº 3.500, de 1980, dispone que: "Respecto de los fondos efectivamente traspasados desde la cuenta de capitalización individual del afiliado, con exclusión de aquellos susceptibles de ser retirados como excedente de libre disposición, las Compañías de Seguros de Vida sólo podrán pagar, directa o indirectamente, a los intermediarios o agentes de ventas que intervengan en la comercialización de rentas vitalicias, una comisión o retribución que no podrá ser superior a aquella tasa máxima fijada como un porcentaje de dichos fondos. Dicho guarismo tendrá una duración de veinticuatro meses a partir de la vigencia de esta ley. Expirado dicho plazo, este guarismo podrá ser fijado nuevamente mediante decreto supremo conjunto de los Ministerios de Hacienda y de Trabajo y Previsión Social, previo requerimiento contenido en resolución fundada de las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros. Dicha resolución considerará antecedentes técnicos relevantes solicitados, entre otras, a las entidades fiscalizadas. En todo caso, con al menos quince días de anterioridad a la emisión de la referida resolución, el nuevo guarismo propuesto y sus fundamentos serán de conocimiento público. Cada vez que se efectúe una modificación a la mencionada comisión, el nuevo guarismo tendrá una vigencia de veinticuatro meses."
+
+2. Que de acuerdo a lo establecido en la norma legal transcrita en el considerando precedente, en virtud del artículo décimo transitorio de la ley Nº 19.934, se fijó la referida comisión o retribución máxima por un período de veinticuatro meses, contado desde la entrada en vigencia del artículo 61 bis del DL Nº 3.500, de 1980, y hasta el último día del mes en que se cumplan los veinticuatro meses, esto es, hasta el 31 de agosto de 2006, en un 2,5%.
+
+3. Que con fecha 9 de agosto de 2006, las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros dictaron las resoluciones 485 y 345 respectivamente, que recomienda a los Ministerios de Hacienda y del Trabajo y Previsión Social la mantención de la actual tasa máxima de comisión o retribución por venta.
+
+Decreto:
+
+Establécese que las Compañías de Seguros de Vida sólo podrán pagar, directa o indirectamente, a los intermediarios o agentes de ventas que intervengan en la comercialización de rentas vitalicias, una comisión o retribución que no podrá ser superior a un 2,5% de los fondos efectivamente traspasados desde la cuenta de capitalización individual del afiliado a una Administradora de Fondos de Pensiones, con exclusión de aquellos fondos susceptibles de ser retirados como excedente de libre disposición.
+
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Andrés Velasco Brañes, Ministro de Hacienda.- Osvaldo Andrade Lara, Ministro del Trabajo y Previsión Social.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, María Olivia Recart Herrera, Subsecretaria de Hacienda.
