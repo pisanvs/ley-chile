@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Exenta Nº 5.435, 17 de agosto 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle O'Higgins Nº 2735, Rol de Avalúo Nº 2359-23, comuna Chiguayante, superficie 20,10 metros cuadrados de terreno y 20,10 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.673, de aparente dominio de Silvia R. Inostroza Burgos y Otros, para ejecución programa "Mejoramiento Vial Eje O'Higgins de Chiguayante", de la comuna de Chiguayante, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Cecilia Carrasco Verdugo, arquitecto, Mario Bellolio Bosticca, arquitecto y Claudia Marzullo García, arquitecto, según informe de fecha 29 de mayo de 2006, fijó monto provisional indemnización en $2.584.860.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
