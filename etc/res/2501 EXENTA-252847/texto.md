@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.501, de 28 de agosto de 2006, de esta Subsecretaría, modifícase la resolución Nº 1.856, de 2006, de esta Subsecretaría, que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE, CENTRO UNIVERSITARIO DE LA TRAPANANDA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2006-09, denominado "Evaluación hidroacústica de Alfonsino y Orange roughy, 2006", en los siguientes términos:
+
+a) En su numeral 5.-, en el sentido de disminuir en 0,5 toneladas la cuota de Alfonsino autorizada a extraer en el marco de la citada pesca de investigación, y b) En su numeral 9.-, en el sentido de incorporar el siguiente inciso final, nuevo: "Asimismo, la Universidad deberá entregar a esta Subsecretaría, en medios digitales, los registros de sondas obtenidos en la ejecución de la presente pesca de investigación.".
+
+Valparaíso, 28 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
