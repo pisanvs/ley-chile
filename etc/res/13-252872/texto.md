@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA SEGUNDA SERIE DE COPIAPO
+
+Por resolución SII Nº 13, del 18.07.2006, se designó Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Copiapó a doña Mónica Rossana Mondaca Ahumada, RUT Nº 10.826.958-8, en reemplazo de Juan Carlos Pesce García, y en calidad de Secretario Suplente a don Pedro Omar Acuña Pérez, RUT Nº 7.129.453-6, en reemplazo de Mafalda Gálvez Palma, RUT Nº 6.627.659-7.
