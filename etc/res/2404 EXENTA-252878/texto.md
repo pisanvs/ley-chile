@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.404, de 18 de agosto de 2006, de esta Subsecretaría, modifícase la resolución Nº2.323 de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la condición reproductiva de Merluza común 2006", en los siguientes términos:
+
+a) En su numeral 3º, en el sentido de incluir a la IV y VI Regiones, desde la línea de costa hasta una línea imaginaria trazada a una distancia de 60 millas marinas, en el área marítima en que se ejecutará la citada pesca de investigación; y b) En su numeral 4º, en el sentido de incorporar como participantes de la citada pesca de investigación a los pescadores y las embarcaciones artesanales inscritos en el Registro Pesquero Artesanal de la IV y VI Regiones, sección Merluza común, los que operarán en la región correspondiente a su inscripción.
+
+Valparaíso, 18 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
