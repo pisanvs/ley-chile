@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.028, de 18 de julio de 2006 de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES Y ACTIVIDADES CONEXAS CALETA CERRO VERDE, para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en visto, en orden a incorporar a la planta ubicada en calle El Faro, Pasaje Nº2 s/n, Cerro Verde Bajo, comuna de Penco, VIII Región, en las líneas de proceso de congelado y conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de julio de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
