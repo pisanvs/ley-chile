@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 1.113 EXENTA, DE 2006
+
+Por resolución exenta Nº 1.113, de fecha 17 de julio de 2006, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica la resolución exenta Nº 159, de 16 de enero de 2002, de la misma Secretaría Regional, sólo en el sentido de reconocer el cambio de domicilio de la sede y taller mecánico de la Escuela de Conductores Profesionales "Sociedad Nacional de Dueños de Escuelas de Conductores Sociedad Anónima" o "Sondec S.A.", ubicados en Alberto Bleriot Nº 2391, comuna de Quinta Normal, a Mapocho Nº 4086 (sede) y Oscar Chank Nº 4850 (taller mecánico), ambos de la comuna de Quinta Normal.
+
+- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
