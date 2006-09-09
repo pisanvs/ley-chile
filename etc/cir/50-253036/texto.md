@@ -1,0 +1,9 @@
+DEDUCCION COMO CREDITO DE IMPUESTOS PAGADOS POR RENTAS QUE NO ESTAN MENCIONADAS EN LOS ARTICULOS 41 A Y 41 C DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de circular del Servicio de Impuestos Internos Nº 50 del 5 de septiembre de 2006, que imparte instrucciones sobre la deducción como crédito de impuestos pagados por rentas que no están mencionadas en los artículos 41 A y 41 C de la Ley sobre Impuesto a la Renta.
+
+Con relación a la aplicación de los artículos 41 A y 41 C de la Ley sobre Impuesto a la Renta, que se refieren a la deducción como crédito de impuestos pagados en el exterior, se han recibido algunas consultas respecto de si procede o no ese beneficio respecto de rentas no mencionadas específicamente en esos artículos y procedentes de países con los cuales se encuentre vigente un Convenio para evitar la Doble Imposición en el cual se haya comprometido el otorgamiento de un crédito por los impuestos pagados o retenidos en el exterior. Específicamente se ha consultado, si corresponde o no en el caso de estas rentas, recuperar como crédito los impuestos pagados en el exterior, aunque no estén mencionadas específicamente en los artículos antes indicados.
+
+En la circular se precisa, que las restricciones impuestas en la legislación interna para utilizar como crédito los impuestos pagados en el exterior, no se aplican en el caso de los convenios suscritos por Chile y que se encuentran vigentes.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en septiembre de 2006.
