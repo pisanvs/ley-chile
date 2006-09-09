@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.389, de 18 de agosto de 2006, de esta Subsecretaría, autorízase a ROBERTO CARLOS GUTIERREZ GUTIERREZ para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector sur de Paposo, playa La Veleidosa, a la entrada de Caleta Cifuncho, II Región, donde podrá elaborar en la línea de proceso de Alga Seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
