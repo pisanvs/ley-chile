@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.561, de 4 de septiembre de 2006, de esta Subsecretaría, déjase sin efecto la resolución Nº433, de 2005, de esta Subsecretaría, que rechazó la solicitud Nº203101271, presentada por RODRIGO ANDRES REYES VILLARROEL, Miguel Angel Reyes Villarroel y Eduardo Javier Paillacar Contreras, en virtud de lo dispuesto en el arículo 59 de la ley Nº 19.880.
+
+Valparaíso, 4 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
