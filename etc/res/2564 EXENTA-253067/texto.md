@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.564, de 4 de septiembre de 2006, de esta Subsecretaría, déjase sin efecto la resolución Nº312, de 2005, de esta Subsecretaría, que rechazó la solicitud Nº 203104065, presentada por PATRICIO ALEJANDRO PAREDES VILLARROEL y Francisco Antonio Velásquez Valdivia para un centro de cultivo ubicado en sector Aguantao, entre Punta San Antonio y Punta Aguantao, X Región, en virtud del artículo 53 de la ley Nº 19.880.
+
+Valparaíso, 4 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
