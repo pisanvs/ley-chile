@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.577, de 4 de septiembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203104072 presentada por LUIS ALBERTO MUÑOZ AGUILANTE, Iván Rigoberto Catalán Villarroel y Claudio Alejandro Catalán Villarroel para instalar y operar un centro de cultivo ubicado en Estero Huito, X Región.
+
+Valparaíso, 4 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
