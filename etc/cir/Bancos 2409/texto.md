@@ -9110,21 +9110,19 @@ MATERIA:
 
 MUTUOS HIPOTECARIOS ENDOSABLES.
 
-### I. MUTUOS HIPOTECARIOS ENDOSABLES OTORGADOS CON RECURSOS PROPIOS
+I.- MUTUOS HIPOTECARIOS ENDOSABLES OTORGADOS CON RECURSOS PROPIOS.
 
-### 1. Préstamos Hipotecarios
+1.- Préstamos Hipotecarios.
 
-Las instituciones financieras están facultadas para otorgar préstamos endosables con garantía hipotecaria, sujetos a las disposiciones contenidas en el N° 7 del artículo 69 de la Ley General de Bancos y en el presente capítulo.
+Las instituciones financieras están facultadas para otorgar préstamos endosables con garantía hipotecaria, sujetos a las disposiciones contenidas en el N° 7 del artículo 69 de la Ley General de Bancos y en el presente Capítulo. Los referidos préstamos deberán cumplir con los siguientes requisitos:
 
-Los referidos préstamos deberán cumplir con los siguientes requisitos:
-
-a) Los contratos de mutuo deberán extenderse en escritura pública que llevará cláusula a la orden, de la cual se otorgará una sola copia autorizada endosable, la que será para la institución financiera acreedora. El mutuo y la hipoteca que lo garantice deberán constar en el mismo documento. Cualquiera de las partes podrá obtener del notario autorizante, copias no endosables según lo previsto en el artículo 1° de la Ley N° 19.439, las que no tendrán en caso alguno mérito para cobrar lo adeudado, sea por la vía ejecutiva u ordinaria.
+a) Los contratos de mutuo deberán extenderse escritura pública que llevará cláusula a la orden, de la cual se otorgará una sola copia autorizada endosable, la que será para la institución financiera acreedora. El mutuo y la hipoteca que lo garantice deberán constar en el mismo documento. Cualquiera de las partes podrá obtener del notario autorizante, copias no endosables según lo previsto en el artículo 1° de la Ley N° 19.439, las que no tendrán en caso alguno mérito para cobrar lo adeudado, sea por la vía ejecutiva u ordinaria.
 
 b) Los préstamos podrán otorgarse para el financiamiento de viviendas o para fines generales.
 
 c) En el caso del financiamiento de viviendas, los préstamos sólo podrán otorgarse para la adquisición, ampliación, reparación o construcción de éstas, siempre que, en este último caso, sean otorgados al usuario final de tales inmuebles.
 
-d) Los préstamos no podrán otorgarse a plazos inferiores a 1 año ni superiores a 30 años.
+d) Los préstamos no podrán otorgarse a plazos inferiores a 1 año ni superiores a 40 años.
 
 e) La propiedad entregada en garantía deberá contar con seguro de incendio por el valor de tasación del inmueble, el que se mantendrá hasta la extinción del importe total de la deuda.
 
@@ -9132,37 +9130,21 @@ f) El mutuario deberá mantener vigente un seguro de desgravamen por un monto eq
 
 Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, las instituciones financieras podrán seguir un procedimiento simplificado de escrituración de los mutuos, mediante el uso de escrituras públicas de cláusulas generales inscritas en el Registro de Hipotecas y Gravámenes del respectivo Conservador de Bienes Raíces. Las escrituras que se inscriban para el efecto deberán contener solamente aquellas cláusulas que son comunes a todos los mutuos de que se trate, es decir, no contendrán aquellas referidas a la individualización de los deudores, garantías, tasas de interés, plazos u otras especificaciones que son propias de un contrato en particular. Las escrituras públicas de cláusulas generales de que se trata, constituirán un contrato de adhesión, debiendo darse a conocer su contenido a la parte que lo acepte y dejarse constancia en cada mutuo de la fecha y notaría en que la respectiva escritura fue otorgada, de su inscripción y de la entrega de una copia simple al mutuario.
 
-### 2. Monto máximo de los préstamos
+2.- Monto máximo de los préstamos.
 
 Los préstamos que otorguen las instituciones financieras bajo esta modalidad, no podrán exceder del 80% del valor de tasación del inmueble ofrecido en garantía.
 
-En caso de operaciones de compraventa de bienes raíces, dichos préstamos no deberán exceder del mencionado importe o del 80% del precio de venta del respectivo inmueble, si este último precio fuere inferior la valor de tasación.
+En caso de operaciones de compraventa de bienes raíces, dichos préstamos no deberán exceder del mencionado importe o del 80% del precio de venta del respectivo inmueble, si este último precio fuere inferior al valor de tasación.
 
-No obstante lo anterior, cuando se trate de los créditos pagaderos en moneda extranjera, expresados en moneda extranjera pagaderos en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, mencionados en el N° 5 de este título, los préstamos no podrán exceder del 65% del valor de tasación del inmueble ni del precio de compraventa.
+No obstante lo anterior, cuando se trate de los créditos pagaderos en moneda extranjera, expresados en moneda extranjera pagaderos en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, mencionados en el N°5 de este título, los préstamos no podrán exceder del 65% del valor de tasación del inmueble ni del precio de compraventa.
 
-### 3. Garantía hipotecaria
+3.- Garantía hipotecaria.
 
-La hipoteca a favor del acreedor, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea de segundo grado siempre que la primera hipoteca no se haya constituido con carácter de garantía general, sino para garantizar una obligación perfectamente determinada, la que,sumada al crédito amparado por la segunda hipoteca, no debe exceder del 65% u 80% del valor de tasación del inmueble ni del precio de venta del bien raíz, de acuerdo a lo señalado en el N° 2 precedente.
+La hipoteca a favor del acreedor, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea de segundo grado siempre que la primera hipoteca no se haya constituido con carácter de garantía general, sino para garantizar una obligación perfectamente determinada, la que, sumada al crédito amparado por la segunda hipoteca, no debe exceder del 65% u 80% del valor de tasación del inmueble ni del precio de venta del bien raíz, de acuerdo a lo señalado en el N° 2 precedente.
 
-### 4. Tasación de la garantía
+4.- Tasación de la garantía.
 
-El valor de tasación del inmueble que servirá de garantía será determinado por
-
-un perito designado por la institución financiera. En la tasación del inmueble
-
-que debe practicarse, sólo se comprenderá el valor de las mejoras permanentes
-
-adheridas a éste, cuyo concepto se encuentra definido en las normas generales de
-
-derecho. Atendida la importancia de efectuar una tasación que refleje el valor
-
-real de la propiedad que se recibirá en garantía, de manera que constituya un
-
-resguardo efectivo para el acreedor, la institución deberá cuidar que, en el
-
-procedimiento de valuación que se adopte, se consideren y ponderen correctamente
-
-todos los factores que incidan en el valor que se le asigne al bien raíz.
+El valor de tasación del inmueble que servirá de garantía será determinado por un perito designado por la institución financiera. En la tasación del inmueble que debe practicarse, sólo se comprenderá el valor de las mejoras permanentes adheridas a éste, cuyo concepto se encuentra definido en las normas generales de derecho. Atendida la importancia de efectuar una tasación que refleje el valor real de la propiedad que se recibirá en garantía, de manera que constituya un resguardo efectivo para el acreedor, la institución deberá cuidar que, en el procedimiento de valuación que se adopte, se consideren y ponderen correctamente todos los factores que incidan en el valor que se le asigne al bien raíz.
 
 5.- Moneda, reajustes y tasa de interés.
 
@@ -9172,21 +9154,17 @@ La tasa de interés que se acuerde puede ser fija o flotante. La tasa de interé
 
 Las instituciones financieras no podrán recargar la tasa de interés pactada en estas operaciones con comisiones, gastos u otras prestaciones, salvo los conceptos a que se refiere el N° 10 siguiente.
 
-### 6. Entrega del importe de los préstamos
+6.- Entrega del importe de los préstamos.
 
-El desembolso del importe del préstamo se efectuará una vez que quede inscrita
+El desembolso del importe del préstamo se efectuará una vez que quede inscrita la hipoteca respectiva, en el correspondiente registro del Conservador de Bienes Raíces.
 
-la hipoteca respectiva, en el correspondiente registro del Conservador de Bienes
-
-Raíces.
-
-### 7. Dividendos hipotecarios
+7.- Dividendos hipotecarios.
 
 El reembolso de los préstamos otorgados al amparo de estas normas se hará en la moneda que corresponda, por medio de dividendos.
 
 En el caso de préstamos hipotecarios para la vivienda, el servicio se hará mediante dividendos mensuales sucesivos vencidos. En estos préstamos no podrán pactarse dividendos crecientes o decrecientes, ni plazos de gracia superiores a tres meses a contar de la fecha de otorgamiento del crédito.
 
-### 8. Tabla de desarrollo de los mutuos
+8.- Tabla de desarrollo de los mutuos.
 
 Las instituciones acreedoras deberán protocolizar en una Notaría las tablas de desarrollo de los mutuos hipotecarios de que se trata y dejar constancia, en la respectiva escritura, de la tabla de desarrollo aplicada.
 
@@ -9206,7 +9184,7 @@ f) Amortización acumulada.
 
 En el evento de que se pacte una tasa de interés flotante según lo indicado en el N° 5 anterior, se omitirán los antecedentes referidos en las letras c) y d), pero la amortización y los demás datos deberán calcularse sobre la base de la tasa de interés vigente a la fecha del otorgamiento del crédito.
 
-### 9. Amortizaciones extraordinarias de los préstamos
+9.- Amortizaciones extraordinarias de los préstamos.
 
 Los prepagos totales o parciales de los créditos concedidos con los mutuos hipotecarios endosables de que trata este Capítulo, quedan sujetos a las disposiciones del artículo 10 de la Ley N° 18.010, materia de que trata el Capítulo 7-1 de esta Recopilación.
 
@@ -9214,7 +9192,7 @@ En caso de amortizaciones parciales, deberá establecerse la forma en que se apl
 
 Si la amortización se realiza como consecuencia de la aplicación del seguro de desgravamen, no procede cobrar a la sucesión del deudor fallecido la comisión de prepago referida en las disposiciones citadas en el primer párrafo de este número.
 
-### 10. Gastos de cargo del deudor hipotecario
+10.- Gastos de cargo del deudor hipotecario.
 
 Sólo podrán ser de cargo del deudor hipotecario los pagos efectuados por los siguientes conceptos:
 
@@ -9234,25 +9212,13 @@ g) Gastos de primera tasación del inmueble hipotecado.
 
 h) Estudio de títulos y redacción de escritura.
 
-En caso de que el deudor no efectúe el pago oportuno de las primas para renovarlos seguros de incendio, de desgravamen y de cesantía involuntaria, podrá el acreedor realizar dichos pagos por cuenta de éste. Esta facultad se extiende al pago de las contribuciones territoriales, en caso de que éstas presenten atrasos.
+En caso de que el deudor no efectúe el pago oportuno de las primas para renovar los seguros de incendio, de desgravamen y de cesantía involuntaria, podrá el acreedor realizar dichos pagos por cuenta de éste. Esta facultad se extiende al pago de las contribuciones territoriales, en caso de que éstas presenten atrasos.
 
-### 11. Préstamos a personas relacionadas a la propiedad o gestión del acreedor
+11.- Préstamos a personas relacionadas a la propiedad o gestión del acreedor.
 
-Las instituciones financieras podrán conceder préstamos bajo estas disposiciones
+Las instituciones financieras podrán conceder préstamos bajo estas disposiciones a personas relacionadas directa o indirectamente con la propiedad o gestión del acreedor, siempre que ello no se efectúe en términos más favorables, en cuanto a montos, plazos, tasas de interés, garantías u otras condiciones, que los acordados con terceros en operaciones similares. Estos préstamos quedarán sujetos a los márgenes que se establecen en el N° 2 del artículo 84 de la Ley General de Bancos.
 
-a personas relacionadas directa o indirectamente con la propiedad o gestión del
-
-acreedor, siempre que ello no se efectúe en términos más favorables, en cuanto a
-
-montos, plazos, tasas de interés, garantías u otras condiciones, que los
-
-acordados con terceros en operaciones similares. Estos préstamos quedarán
-
-sujetos a los márgenes que se establecen en el N° 2 del artículo 84 de la Ley
-
-General de Bancos.
-
-### 12. Cesión de los mutuos
+12.- Cesión de los mutuos.
 
 Los mutuos de que tratan estas instrucciones serán transferibles mediante endoso escrito a continuación, al margen o al dorso de la copia autorizada endosable de la escritura pública respectiva.
 
@@ -9270,85 +9236,57 @@ a) Los bancos y sociedades financieras.
 
 b) Las sociedades securitizadoras de que trata la Ley N° 18.045 y los fondos de inversión de créditos securitizados a que se refiere la Ley N° 18.815, debiendo darse cumplimiento a las normas contenidas en el Capítulo III.B.4 del Compendio de Normas Financieras del Banco Central de Chile, para la cesión de tales instrumentos.
 
-c) Las compañías de seguros del segundo grupo según la definición contenida en el artículo 8° del Decreto con Fuerza de Ley N° 251 de 1931 y sus modificaciones, y las sociedades a que se refiere el inciso tercero del artículo 21 bis de ese mismo cuerpo legal, siempre que se encuentren inscritas en el registro especial que llevará para estos efectos la Superintendencia de Valores y Seguros. Además, conforme a lo dispuesto en el artículo 134 del D.L. N° 3.500, podrán ser cesionarias las "sociedades anónimas inmobiliarias" a que se refiere el artículo 98, letra j) de dicho Decreto Ley.
+c) Las compañías aseguradoras y las sociedades a que se refiere el artículo 88 del Decreto con Fuerza de Ley N° 251 de 1931 y sus modificaciones, siempre que estas últimas se encuentren inscritas en el registro especial que llevará para estos efectos la Superintendencia de Valores y Seguros. Además, conforme a lo dispuesto en el artículo 134 del D.L. N° 3.500, podrán ser cesionarias las "sociedades anónimas inmobiliarias" a que se refiere el artículo 98, letra j) de dicho Decreto Ley.
 
-Salvo en los casos en que el cesionario sea un banco, sociedad financiera, sociedad securitizadora, alguno de los agentes administradores de mutuos hipotecarios a que se refiere el artículo 21 bis del DFL N° 251 de 1931 o cualquier otra entidad autorizada por ley para administrar mutuos hipotecarios endosables, el crédito deberá quedar en cobranza en la institución financiera cedente, la que estará facultada para percibir los importes que correspondan y para alzar el gravamen, cuando proceda.
+Salvo en los casos en que el cesionario sea un banco, sociedad financiera, sociedad securitizadora, alguno de los agentes administradores de mutuos hipotecarios a que se refiere el Título V del DFL N° 251 de 1931 o cualquier otra entidad autorizada por ley para administrar mutuos hipotecarios endosables, el crédito deberá quedar en cobranza en la institución financiera cedente, la que estará facultada para percibir los importes que correspondan y para alzar el gravamen, cuando proceda.
 
-### 13. Numeración de los mutuos hipotecarios endosables
+13.- Numeración de los mutuos hipotecarios endosables.
 
-Las instituciones financieras deberán establecer un sistema de numeración de los
+Las instituciones financieras deberán establecer un sistema de numeración de los préstamos hipotecarios endosables que permita identificar dichas operaciones.
 
-préstamos hipotecarios endosables que permita identificar dichas operaciones.
+14.- Extravío, pérdida o deterioro parcial de los títulos.
 
-### 14. Extravío, pérdida o deterioro parcial de los títulos
+En caso de extravío, pérdida o deterioro de los mutuos hipotecarios endosables, se aplicarán las normas del párrafo 9° del Título I de la Ley N° 18.092, de conformidad con lo previsto en el artículo 1° de la Ley N° 18.552.
 
-En caso de extravío, pérdida o deterioro de los mutuos hipotecarios endosables,
-
-se aplicarán las normas del párrafo 9° del Título I de la Ley N° 18.092, de
-
-conformidad con lo previsto en el artículo 1° de la Ley N° 18.552.
-
-### 15. Modificaciones al contrato de mutuo
+15.- Modificaciones al contrato de mutuo.
 
 La operación de préstamo hipotecario a que se refiere este Capítulo, da nacimiento a un título de crédito constituido por la escritura pública en que consta, con la precisa finalidad de que éste circule, para lo cual se permite que sea transferido mediante endoso, sin responsabilidad para la institución endosante.
 
 Dadas las características indicadas, resulta necesario que tanto el crédito como la hipoteca que lo caucione consten en el mismo documento, el que sólo se puede transferir completo, no siendo posible separar el crédito y la hipoteca, ni modificar sus condiciones, como ocurriría con la sustitución de garantías hipotecarias u otras modificaciones que alteren la naturaleza de la obligación original.
 
-De acuerdo con lo mencionado en los párrafos precedentes, el mutuo hipotecario endosable no admite modificaciones, salvo que se trate de una novación por cambio de deudor, la que debe ser solicitada a la institución que tenga a su cargo la administración del mutuo según lo establecido en el artículo 3° de la Ley N° 19.439.
-
-Por consiguiente, la única forma de modificar las demás condiciones consiste en otorgar un nuevo crédito con cuyo producto se pague el que se desea modificar.
+De acuerdo con lo mencionado en los párrafos precedentes, el mutuo hipotecario endosable no admite modificaciones, salvo que se trate de una novación por cambio de deudor, la que debe ser solicitada a la institución que tenga a su cargo la administración del mutuo según lo establecido en el artículo 3° de la Ley N° 19.439. Por consiguiente, la única forma de modificar las demás condiciones consiste en otorgar un nuevo crédito con cuyo producto se pague el que se desea modificar.
 
 16.- Procedimiento para la ejecución de las garantías hipotecarias.
 
 El procedimiento para ejecutar forzadamente los contratos de mutuos hipotecarios endosables celebrados a contar del 31 de enero de 1996, de acuerdo a la Ley N° 19.439, quedará sujeto a las disposiciones especiales de los artículos 103 a 111 de la Ley General de Bancos.
 
-### II. OPERACIONES CON MUTUOS HIPOTECARIOS ENDOSABLES REALIZADAS COMO AGENTES DE
+II.- OPERACIONES CON MUTUOS HIPOTECARIOS ENDOSABLES REALIZADAS COMO AGENTES DE COMPAÑIAS DE SEGUROS.
 
-COMPAÑIAS DE SEGUROS.
+1.- Generalidades.
 
-### 1. Generalidades
+De conformidad con las disposiciones contenidas en el Título V del Decreto con Fuerza de Ley N° 251 de 1931 y sus modificaciones, las compañías de seguros podrán otorgar, por intermedio de un agente administrador, mutuos hipotecarios endosables y adquirir aquellos otorgados por dichos agentes administradores.
 
-De conformidad con las disposiciones contenidas en el artículo 21 bis del
+2.- Agentes administradores.
 
-Decreto con Fuerza de Ley N° 251, de 1931, introducido por el artículo N° 7 de la
+De conformidad con lo dispuesto en el Título V, citado en el N° 1 precedente, y en virtud de las normas contenidas en el artículo 88 de la Ley General de Bancos, las instituciones financieras están facultadas para actuar como agentes administradores de las compañías de seguros, en el otorgamiento, adquisición y administración de mutuos hipotecarios endosables.
 
-Ley 18.707, las compañías de seguros del segundo grupo, esto es, aquellas que
-
-operan cubriendo riesgos personales, podrán otorgar, por intermedio de un agente
-
-administrador, o adquirir mutuos hipotecarios endosables.
-
-### 2. Agentes administradores
-
-De conformidad con lo dispuesto en el artículo 21 bis, citado en el N° 1 precedente, y en virtud de las normas contenidas en el artículo 88 de la Ley General de Bancos, las instituciones financieras están facultadas para actuar como agentes administradores de las compañías de seguros del segundo grupo, en el otorgamiento, adquisición y administración de mutuos hipotecarios endosables.
-
-Para realizar dichas operaciones, las instituciones financieras, a diferencia de otros agentes administradores, no necesitan estar inscritas en el registro especial, que para tal efecto llevará la Superintendencia de Valores y Seguros. Asimismo, la fiscalización de las instituciones financieras en el desarrollo de esta función será llevada a cabo por la Superintendencia de Bancos e Instituciones Financieras.
+Para realizar dichas operaciones, las instituciones financieras, a diferencia de otros agentes administradores, no necesitan estar inscritas en el registro especial que, para tal efecto, llevará la Superintendencia de Valores y Seguros. Asimismo, la fiscalización de las instituciones financieras en el desarrollo de esta función será llevada a cabo por la Superintendencia de Bancos e Instituciones Financieras.
 
 Los bancos y sociedades financieras que deseen actuar como agentes administradores de compañías de seguros en la realización de estas operaciones, deberán celebrar con dichas empresas un contrato esencialmente revocable, en el que se estipularán las funciones, obligaciones, prohibiciones y derechos de las partes.
 
 En el desempeño de su función de agentes administradores, las instituciones financieras podrán actuar como mandatarios a nombre propio o a nombre de su mandante.
 
-### 3. Seguro para garantizar el fiel cumplimiento de las obligaciones de los
+3.- Seguro para garantizar el fiel cumplimiento de las obligaciones de los agentes administradores.
 
-agentes administradores.
+De acuerdo con las normas que rigen estas operaciones, las instituciones financieras que deseen actuar como agentes administradores deberán contratar una póliza de seguro que cubra el correcto y cabal cumplimiento de las obligaciones inherentes a dicha función y los eventuales perjuicios que, con ocasión de esas actividades, puedan causar al deudor del mutuo.
 
-De acuerdo con las normas que rigen estas operaciones, las instituciones
-
-financieras que deseen actuar como agentes administradores deberán contratar una
-
-póliza de seguro que cubra el correcto y cabal cumplimiento de las obligaciones
-
-inherentes a dicha función y los eventuales perjuicios que, con ocasión de esas
-
-actividades, puedan causar al deudor del mutuo.
-
-4. Obligaciones de las instituciones en su calidad de agentes administradores.
+4.- Obligaciones de las instituciones en su calidad de agentes administradores.
 
 En su calidad de agentes administradores, las instituciones financieras serán responsables de la eficacia de los contratos y garantías, debiendo, por lo tanto, verificar la identidad y capacidad legal de las personas con las cuales se realicen estas operaciones, la autenticidad e integridad de los mutuos que administren y velar por la forma externa y correlación de los endosos.
 
 Las instituciones financieras, en el ejercicio de su función de agentes administradores, deberán cumplir, además, con las siguientes obligaciones:
 
-a) Obtener los antecedentes y evaluar la capacidad crediticia de los solicitantes de préstamos hipotecarios endosables, efectuar el estudio de los títulos y las tasaciones de las propiedades entregadas en garantía, ciñéndose especialmente a los requerimientos establecidas en el mandato de administración de los mutuos.
+a) Obtener los antecedentes y evaluar la capacidad crediticia de los solicitantes de préstamos hipotecarios endosables, efectuar el estudio de los títulos y las tasaciones de las propiedades entregadas en garantía, ciñéndose especialmente a los requerimientos establecidos en el mandato de administración de los mutuos.
 
 El análisis de estos antecedentes debe estar orientado a determinar tanto el valor de la garantía ofrecida como la situación financiera y la capacidad de pago del deudor, teniendo en cuenta que el monto máximo del préstamo no podrá exceder del 80% o 65% del valor del inmueble hipotecado, según corresponda de acuerdo con lo indicado en el N° 2 del título I de este Capítulo.
 
@@ -9358,41 +9296,25 @@ c) Cobrar y percibir, en las fechas establecidas en el contrato de mutuo, el val
 
 d) Entregar a su mandante, en la forma convenida en el contrato de administración, los pagos ordinarios y extraordinarios efectuados por los deudores.
 
-e) Informar a su mandante, en forma veraz, suficiente y oportuna, de todo hecho que afecte a sus intereses y que se refiera a las deudores, debiendo proporcionar a aquél los antecedentes relativos a sus operaciones, cuando así se lo solicite.
+e) Informar a su mandante, en forma veraz, suficiente y oportuna, de todo hecho que afecte a sus intereses y que se refiera a los deudores, debiendo proporcionar a aquél los antecedentes relativos a sus operaciones, cuando así se lo solicite.
 
-Además, la institución mandataria deberá poner a disposición de su mandante o de quien éste autorice en forma expresa, información actualizada del saldo insoluto de la deuda de cada uno de los mutuarios y de los dividendos en mora que éstos
+Además, la institución mandataria deberá poner a disposición de su mandante o de quien éste autorice en forma expresa, información actualizada del saldo insoluto de la deuda de cada uno de los mutuarios y de los dividendos en mora que éstos registren. Asimismo, deberá mantener bajo su custodia todos los antecedentes y documentos del préstamo.
 
-registren. Asimismo, deberá mantener bajo su custodia todos los antecedentes y documentos del préstamo.
+5.- Registro de mutuos hipotecarios endosables.
 
-### 5. Registro de mutuos hipotecarios endosables
+Las instituciones financieras están obligadas a mantener un registro actualizado de los mutuos hipotecarios endosables que administren y de sus transferencias. En ese registro deberán anotarse los siguientes antecedentes:
 
-Las instituciones financieras están obligadas a mantener un registro actualizado
+a) Nombre, R.U.T. y domicilio del deudor;
 
-de los mutuos hipotecarios endosables que administren y de sus transferencias.
+b) Endosos de que sea objeto el contrato de mutuo, desde que fue otorgado por la institución financiera en su calidad de agente administrador, hasta la venta a otra institución financiera, debiendo dejar constancia de la fecha y del precio convenido en cada compraventa;
 
-En este registro deberán anotarse los siguientes antecedentes:
+c) Fecha de otorgamiento del préstamo, monto, plazo, tasa de interés y otras modificaciones del contrato de mutuo, tales como autorizaciones para vender o enajenar el bien hipotecado, prohibiciones, gravámenes, etc.
 
-a) Nombre, R.U.T, y domicilio del deudor;
+6.- Mutuos hipotecarios endosables representativos de reserva técnica y patrimonio.
 
-b) Endosos de que sea objeto el contrato de mutuo, desde que fue otorgado por la
+Sin perjuicio de lo indicado en el título I de este Capítulo, relativo a las condiciones que deben cumplir los mutuos hipotecarios endosables otorgados por las instituciones sujetas a la fiscalización de esta Superintendencia, para que dichos mutuos sean representativos de reserva técnica y patrimonio de las compañías de seguros, deberán cumplir con las exigencias adicionales establecidas por la Superintendencia de Valores y Seguros para el efecto.
 
-institución financiera en su calidad de agente administrador, hasta la venta a
-
-otra institución financiera, debiendo dejar constancia de la fecha y del precio
-
-convenido en cada compraventa;
-
-c) Fecha de otorgamiento del préstamo, monto, plazo, tasa de interés y otras
-
-modificaciones del contrato de mutuo, tales como autorizaciones para vender o
-
-enajenar el bien hipotecado, prohibiciones, gravámenes, etc.
-
-6. Mutuos hipotecarios endosables representativos de reserva técnica y patrimonio.
-
-Sin perjuicio de lo indicado en el título I de este Capítulo, relativo a las condiciones que deben cumplir los mutuos hipotecarios endosables otorgados por las instituciones sujetas a la fiscalización de esta Superintendencia, para que dichos mutuos sean representativos de reserva técnica y patrimonio de las compañías de seguros del segundo grupo, deberán cumplir con las exigencias adicionales establecidas por la Superintendencia de Valores y Seguros para el efecto.
-
-### III. INFORMACION AL DEUDOR HIPOTECARIO
+III.- INFORMACION AL DEUDOR HIPOTECARIO.
 
 1.- Información sobre gastos del mutuo.
 
@@ -9414,7 +9336,7 @@ Cada vez que una institución financiera venda o adquiera un mutuo hipotecario e
 
 IV.- NORMAS CONTABLES.
 
-1.- Otorgamiento de préstamos con mutuos hipotecarios endosables.
+1.- Otorgamiento de préstamos con mutuos hipótecarios endosables.
 
 Los préstamos con mutuos hipotecarios endosables se registrarán en la cuenta "Préstamos hipotecarios endosables para vivienda otorgados", de la partida 1247, cuando se trate de créditos cursados para adquisición, ampliación, reparación o construcción de viviendas, o bien, en la cuenta "Préstamos hipotecarios endosables para fines generales otorgados", de la partida 1248, cuando se trate de créditos que no tengan la finalidad antes indicada.
 
@@ -9442,9 +9364,7 @@ Las comisiones que perciban las instituciones financieras por la cobranza de los
 
 Las operaciones realizadas por una institución financiera en calidad de agente de una compañía de seguros según lo indicado en el título II de este Capítulo, se registrarán conforme a lo siguiente:
 
-a) Fondos entregados a la institución.
-
-Los fondos que la compañía de seguros entregue a la institución financiera para otorgar o adquirir préstamos hipotecarios endosables, se ingresarán al activo registrando la obligación en la cuenta "Recursos recibidos de compañías de seguros por colocar en M.H.E.", de la partida 3010.
+a) Fondos entregados a la institución. Los fondos que la compañía de seguros entregue a la institución financiera para otorgar o adquirir préstamos hipotecarios endosables, se ingresarán al activo registrando la obligación en la cuenta "Recursos recibidos de compañías de seguros por colocar en M.H.E.", de la partida 3010.
 
 b) Obtención del pago de dividendos.
 
