@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 454 de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 11, superficie 229,00 m², rol Nº 2204-11, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, sector Quillaipe-La Arena, tramo Km. 15,84700 a Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietario Gonzalo Hernán Valencia Durán, ascendente a la cantidad de $584.947.
+
+Fiscal del Ministerio de Obras Públicas.
