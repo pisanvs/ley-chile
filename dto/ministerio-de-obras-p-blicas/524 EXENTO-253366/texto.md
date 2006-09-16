@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 524 de 31 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP (exento) Nº 601 de 30 de abril de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes Nºs. 62 y 63. Consígnese judicialmente el monto provisional de la indemnización de los lotes Nºs. 62 y 63, fijada por la Comisión de Peritos, con fecha 14 de diciembre de 1999, ascendente a la cantidad de $1.148.000.- lote Nº 62 y $1.108.100.- lote Nº 63.
+
+- Fiscal del Ministerio de Obras Públicas.
