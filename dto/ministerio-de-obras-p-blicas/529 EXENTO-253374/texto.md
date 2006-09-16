@@ -1,0 +1,3 @@
+Por decreto exento Nº 529, de 31 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento Nº 783, de 29 de julio de 2005, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización. Consígnese judicialmente el monto provisional de la indemnización de los lotes Nºs. 5 y 6, fijada por la Comisión de Peritos, con fecha 11 de marzo de 2003, ascendente a las cantidades de $1.838.300 para el lote Nº 5 y $2.665.100 para el lote Nº 6.
+
+- Fiscal del Ministerio de Obras Públicas.
