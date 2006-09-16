@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 523, de 31 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP (exento) Nº 1.084, de 31 de julio de 2001, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 27-A. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 27-A, fijada por la Comisión de Peritos, con fecha 3 de marzo de 2000, ascendente a la cantidad de $81.800.- lote Nº 27-A.
+
+- Fiscal del Ministerio de Obras Públicas.
