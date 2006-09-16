@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 463, de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 8, superficie 2.094,2 m2, rol Nº 381-153, comuna de Pitrufquén, IX Región, para la obra "Diseño definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Canal California", y se acordó el valor de indemnización con su propietaria Erna Ercilia Muñoz Melo, ascendente a la cantidad de $1.494.775.
+
+Fiscal del Ministerio de Obras Públicas.
