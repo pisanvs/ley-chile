@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 530 de 31 de julio de 2006, se dejo sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP (exento) Nº 1193 de 31 de agosto de 2004, en la parte que se refiere al convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 285. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 285, fijada por la Comisión de Peritos, con fecha 20 de julio de 2001, ascendente a la cantidad de $1.025.500.- para el lote Nº 285.
+
+Fiscal del Ministerio de Obras Públicas.
