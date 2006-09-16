@@ -1,0 +1,5 @@
+Por decreto MOP Nº 605 de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno N°s. 1 y 32 para la obra: Camino Ruta Costera, sector Cahuil - Bucalemu tramo km. 3,70430 a km. 23,29585, que figuran a nombre de Nunez Henríquez Liliana Ester, Pastenes Ahumada Manuel S., rol de avalúo 1238-2, comuna de Pichilemu y rol de avalúo 41-49, comuna de Paredones, VI Región, superficies 15.447 y 1.785 m2.
+
+respectivamente. La Comisión de Peritos fijó con fecha 5 de agosto de 2005 el monto de la indemnización provisional en la cantidad de $18.963.530.- lote N° 1 y $9.233.950.- lote N° 32. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
