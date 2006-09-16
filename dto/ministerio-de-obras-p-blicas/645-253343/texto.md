@@ -1,0 +1,3 @@
+Por decreto MOP Nº 645, de fecha 31 de julio del 2006, se expropió el lote de terreno Nº 204-33, superficie 129,78 m², Rol Nº 6570-22, comuna de La Pintana, Región Metropolitana para la obra "Concesión Internacional Ruta 5. Tramo Santiago-Talca. Sector A: Acceso Sur a Santiago. Km. -0.150,00 al Km. 10.986,00", y se acordó el valor de indemnización con su propietario Héctor Raúl Soto Flores, ascendente a la cantidad de $21.501.846.
+
+- Fiscal del Ministerio de Obras Públicas.
