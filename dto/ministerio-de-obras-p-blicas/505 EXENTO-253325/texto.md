@@ -1,0 +1,5 @@
+Por decreto exento Nº 505 de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 31, Localidad de Tahuinco y 61, 63 y 71, Localidad de El Tambo, para la ejecución del proyecto: Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca, Km.
+
+13,14000 a Km. 23,49783, II Etapa, que figuran a nombre de Manuel Barraza Salinas, Darío Hidalgo Moyano, Ibacache Campos Manuel de la C. y Jaime Emerson Fuenzalida Moreno, roles de avalúo E/T y 260-064, comuna de Salamanca, IV Región, superficies 145,06 M2, 493,83 M2, 220,52 M2 y 742,27 M2. La Comisión de Peritos, fijó con fecha 14 de noviembre de 2005, en las cantidades de $336.325, para el lote Nº 31, $345.681, para el lote Nº 61, $176.416, para el lote Nº 63 y $598.816, para el lote Nº 71. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
