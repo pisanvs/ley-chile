@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 467, de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 269, superficie 213 m², Rol Nº 151-243, comuna de Llay Llay, V Región, para la obra "Proyecto Camino Internacional Ruta 60 CH. Sector 1; Km. 0.000,00 a Km. 53.779,50. Tramo 3: Km. 46.100,00 al Km. 53.779,50" y se acordó el valor de la indemnización con su propietaria Esmeralda Marisol Aranda Leiva ascendente a la cantidad de $2.382.040.
+
+Fiscal del Ministerio de Obras Públicas.
