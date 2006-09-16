@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 508 de 31 de julio de 2006, se expropió el lote de terreno Nº 4, superficie 1.008 m², Rol de avalúo Nº 308-42, comuna de Pitrufquén, para la obra "Camino Vialidad Complementaria Ruta 5, sector Calle de Servicio Acceso Sur Poniente a Pitrufquén, Tramo Km. 2,37500 a Km. 3,98500", comuna de Pitrufquén, IX Región y se acordó el valor de la indemnización con su propietario Ernesto Reuque Painen, ascendente a la cantidad de $1.790.602.
+
+- Fiscal del Ministerio de Obras Públicas.
