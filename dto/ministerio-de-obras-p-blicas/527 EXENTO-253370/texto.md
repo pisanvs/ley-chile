@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 527 de 31 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP (exento) Nº 442 de 26 de marzo de 2004, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 3. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 3, fijada por la comisión de peritos, con fecha 12 de octubre de 2001, modificada por acta de fecha 26 de agosto de 2002, ascendente a la cantidad de $667.000.- lote Nº 3.
+
+- Fiscal del Ministerio de Obras Públicas.
