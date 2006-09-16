@@ -1,0 +1,5 @@
+Por decreto Exento Nº 502, de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 106, 117, 126, 131 y 133 para la ejecución del proyecto: Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca, Km.
+
+13,14000 a Km. 23,49783, III Etapa, que figuran a nombre de Santana Vargas Juan M., Saavedra Barraza Rosa del Carmen, Barahona Blanca Rosa, Santana Barahona José Ramón y Reserva Nº 1, roles de avalúo 260-037, 260-021, 260-015, 260-154 y E/T, superficies 1.213,33 M2, 458,76 M2, 1.153,48 M2, 1.575,06 M2, y 451,07 M2, comuna de Salamanca, IV Región. La Comisión de Peritos, fijó con fecha 22 de noviembre de 2005, en las cantidades de $849.331, para el lote Nº 106, $321.132, para el lote Nº 17, $807.436, para el lote Nº 126, $787.530, para el lote Nº 131 y $280.535, para el lote Nº 133. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
