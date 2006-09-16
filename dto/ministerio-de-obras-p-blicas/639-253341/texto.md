@@ -1,0 +1,3 @@
+Por decreto MOP Nº 639 de 31 de julio de 2006, se expropió el lote de terreno Nº 8-K, superficie 637 m², Rol Nº 9034-1, comuna de San Antonio, V Región, para la obra "Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena-Puerto San Antonio, Km. 1.200,00 a Km. 7.840" y se acordó el valor de indemnización con su propietaria Inmobiliaria Bellavista S.A., ascendente a la cantidad de $6.496.126.
+
+Fiscal del Ministerio de Obras Públicas.
