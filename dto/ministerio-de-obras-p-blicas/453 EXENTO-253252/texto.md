@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 453 de 31 de julio de 2006, se expropiaron los lotes de terreno Nºs. 81-B y 82-B, superficies 2.310 y 1.044 m² respectivamente, Rol Nº 409-5, comuna de Los Muermos, X Región, para la obra "Camino Ruta V-60, Sector El Tepual-Las Quemas-Los Muermos, Km. 0,00000 al Km. 32,27442" y se acordó el valor de indemnización con su propietaria Sonia Teresita Berner Rehbein, ascendente a la cantidad de $4.022.858.
+
+Fiscal del Ministerio de Obras Públicas.
