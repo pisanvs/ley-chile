@@ -1,0 +1,5 @@
+Por decreto MOP Nº 566, de 26 de julio de 2006 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 261 para el "Proyecto: Camino Internacional Ruta 60 CH. Sector 1:
+
+Km. 0.000,00 al Km. 53.779,50. Tramo 3: Km. 46.100,00 al Km. 53.779,50", Quinta Región, que figura a nombre de Castillo Aguilera Juan Ismael, rol de avalúo 151-99, comuna de Llay Llay, superficie 2.885 m2. La comisión de peritos integrada por los señores Eduardo Alejandro Silva Aracena, Mufida Viola Abuawad Elias y Miguel Juan Fernández Cádiz, fijó con fecha 13 de abril de 2006, el valor provisional de la indemnización en la cantidad de $24.701.900.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
