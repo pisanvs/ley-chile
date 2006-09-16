@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 465, de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 121, superficie 475,49 m², Rol Nº 260-18, comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca Km. 13,14000 a Km 23,49783, III Etapa" y se acordó el valor de la indemnización con su propietaria María Ester Vargas Saavedra ascendente a la cantidad de $604.223.
+
+Fiscal del Ministerio de Obras Públicas.
