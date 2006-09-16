@@ -1,0 +1,3 @@
+Por decreto M.O.P. (exento) Nº 531, de 31 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP (exento) Nº 333, de 27 de febrero de 2004, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 106-A. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 106-A, fijada por la Comisión de Peritos con fecha 14 de marzo de 2003, ascendente a la cantidad de $261.200.- para el Nº 106-A.
+
+- Fiscal del Ministerio de Obras Públicas.
