@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 452 de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 59, superficie 417,13 m², Rol Nº 260-68, comuna de Salamanca,IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa" y se acordó el valor de indemnización con su propietario Rodolfo Omar Elgueta Carvajal, ascendente a la cantidad de $1.473.862.
+
+Fiscal del Ministerio de Obras Públicas.
