@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 291, 17 agosto 2006, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle O'Higgins Nº 2929, Rol de Avalúo Nº 2364-9, comuna Chiguayante, superficie 112,42 metros cuadrados de terreno y 7,0 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-16.680 de aparente dominio de Joel Humberto Fernández Riffo, para ejecución programa "Mejoramiento Eje Vial O'Higgins de Chiguayante" de la comuna de Chiguayante, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por Guillermo Orlando Villafañe Feres, arquitecto, Patricio Efraín Riquelme Victoriano, arquitecto y Andrés Javier Tobar Beluzan, arquitecto, según informe de fecha 5 de mayo de 2006, fijó monto provisional indemnización en $9.069.854.- pagadera de contado. Reajuste de artículo 5º D.L. Nº 2.186, de 1978 $184.118.
+
+Director SERVIU Región del Bío Bío.
