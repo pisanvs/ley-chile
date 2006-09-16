@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 466, de fecha 31 de julio de 2006, se expropiaron los lotes de terreno Nºs. 3 y 4, superficie 486,90 y 699,50 m², Rol Nº 327-20, comuna de Cunco, IX Región, para la obra "Mejoramiento Trazado, camino Faja 20.000, sector Fundo Santa Ana-Fundo San Pedro, tramo Km. 4,95000 a Km. 5,15400" y se acordó el valor de la indemnización con su propietario Osmin Alejandro Rivera Beltrán ascendente a la cantidad de $4.153.474.- para los lotes Nºs. 3 y 4.
+
+Fiscal del Ministerio de Obras Públicas.
