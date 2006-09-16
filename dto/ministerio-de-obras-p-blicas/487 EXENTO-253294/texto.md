@@ -1,0 +1,5 @@
+Por decreto exento Nº 487 de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1, 2 y 3, para la obra Camino Cavilolén - Fundo El Mauro, Ruta D-37-E, sector Límite Regional - Tilma - Cruce D-85 (Illapel), Tramo Km.
+
+54,02200 a Km. 54,43000, que figuran a nombre de Agrícola Ganadera y Forestal Tipay, rol de avalúo 265-17, comuna de Los Vilos, IV Región, superficies 2.794 M2, 162 M2 y 476 M2. La Comisión de Peritos, fijó con fecha 12 de abril de 2006, en las cantidades de $948.200, para el lote Nº 1, $158.600, para el lote Nº 2 y $272.800, para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
