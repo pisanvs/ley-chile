@@ -1,0 +1,5 @@
+Por decreto exento Nº 517, de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terrenos Nºs. 1 y 2, para la obra:
+
+Reconstrucción Puente Itropulli, Ruta T-65, Paillaco-Itropulli, que figuran a nombre de Cardemil López Rodrigo Alejand y Fca. de Alimentos con Itropulli, roles de avalúo 554-206 y 555-124, comuna de Paillaco, X Región, superficie 1.045 M² y 3.220 M². La Comisión de Peritos fijó con fecha 3 de mayo de 2005 en la cantidad de $894.000 para el lote Nº1 y $2.400.000 para el lote Nº 2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
