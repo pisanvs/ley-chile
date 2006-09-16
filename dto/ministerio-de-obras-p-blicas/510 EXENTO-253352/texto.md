@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº 510 de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 110, 111, 112, 113; para la obra: Camino Mejoramiento Ruta G-660, sector Cruce Ruta G-60 (Culipran)-Lo Chacón, de Km. 12,50000 a Km. 13,00000, que figuran a nombre de Sociedad Agrícola Popeta Ltda, Pablo Massoud L y Cía Ltda, roles de avalúo 2010-10 y 2009-401 Comuna de Melipilla; Región Metropolitana, superficies 81, 4.683, 39, 73 m² respectivamente. La Comisión de Peritos fijó con fecha 9 de agosto de 2004 el monto de la indemnización provisional en la cantidad de $17.820.- lote Nº 110; $2.202.180.- lote Nº 111;
+
+$3.900.- lote Nº 112 y $7.300.- lote Nº 113. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
