@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 525, de 31 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP (exento) Nº 540, de 30 de abril de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº 12. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 12, fijada por la comisión de peritos, con fecha 14 de diciembre de 1999, ascendente a la cantidad de $336.295.- para el Nº 12.
+
+- Fiscal del Ministerio de Obras Públicas.
