@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 464, de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 134, superficie 364,50 m2, rol Nº 764-84, comuna de Lampa, Región Metropolitana, para la obra "Camino Ruta G-184-182, sector El Noviciado - Cruce Ruta G-16 (Lipangue), Tramo Km. 4,450 al Km. 15,04419", y se acordó el valor de indemnización con su propietario Inmobiliaria e Inversiones Oregón Limitada, ascendente a la cantidad de $2.136.191.
+
+Fiscal del Ministerio de Obras Públicas.
