@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.509, de 28 de agosto de 2006, de esta Subsecretaría, modifícase la resolución Nº 1.562 de 2004, de esta Subsecretaría, que autorizó a SALMONES MAINSTREAM S.A. para operar un vivero flotante en Caleta La Vega, X Región, en el sentido de cambiar la posición del centro autorizado de conformidad con las coordenadas geográficas señaladas en la resolución extractada, y de incorporar en ella un plan de recaptura de especies en el evento de escape de las mismas.
+
+Valparaíso, 28 de agosto de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
