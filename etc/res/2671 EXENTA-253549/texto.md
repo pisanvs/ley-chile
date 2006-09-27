@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.671 de 14 de septiembre de 2006 de esta Subsecretaría, autorízase a CONSERVAS Y CONGELADOS Y COMPAÑIA LIMITADA, para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Bernardo O'Higgins Nº300, Calbuco, X Región, en las líneas de proceso de Fresco-enfriado, Fresco-refrigerado, Congelado, Conserva y Deshidratado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 14 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
