@@ -2662,7 +2662,7 @@ b) Solicitar al interesado una fotografía reciente (tamaño carné o pasaporte)
 
 c) Pedir al interesado que deje estampada su impresión digital (pulgar derecho) en el mismo documento antes señalado, debiendo el banco asegurarse de su nitidez.
 
-d) Reunir informes bancarios actualizados del interesado y verificar que no existan prohibiciones para la apertura de cuentas corrientes, según lo indicado en el numeral 1.4 de este título.
+d) Reunir informes bancarios actualizados del interesado.
 
 e) Registrar la firma del girador.
 
@@ -2710,21 +2710,11 @@ Los bancos deben exigir a todos sus comitentes la firma de un instrumento que co
 
 Las clausulas que contenga ese instrumento deben ser aprobadas por la fiscalía de cada banco y ser concordantes con las normas legales y reglamentarias que rigen las cuentas corrientes.
 
-Cuando se trate de cuentas corrientes especiales, que tienen restricciones en su manejo, por corresponder a cuentas que se abren para efectuar operaciones específicas tales como las indicadas en el numeral 1.6. de este título, deberán incorporarse en el referido instrumento las cláusulas pertinentes a cada caso.
+Cuando se trate de cuentas corrientes especiales, que tienen restricciones en su manejo, por corresponder a cuentas que se abren para efectuar operaciones específicas tales como las indicadas en el numeral 1.5. de este título, deberán incorporarse en el referido instrumento las cláusulas pertinentes a cada caso.
 
 Este Organismo estima que las condiciones mínimas que deben constar en estos instrumentos son la que se indican en el Anexo N° 1 de este capítulo.
 
-1.4.- Personas con prohibición de abrir cuentas corrientes.
-
-De acuerdo con las disposiciones del artículo 22 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, esta Superintendencia envía periódicamente a los bancos, según las resoluciones de los Tribunales, listas de las personas que se encuentran afectadas por la prohibición de abrirles cuentas corrientes, fijando en cada ocasión el plazo que dura esta medida.
-
-Sin perjuicio de la facultad que pueda ejercer el banco de cerrar la cuenta corriente del cliente incluido en la lista, la prohibición señalada implica que las personas que figuren en ella no podrán abrir nuevas cuentas corrientes mientras dure la prohibición.
-
-La citada prohibición cesa automáticamente una vez cumplido el plazo indicado en la Carta Circular en que ella se dio a conocer, sin que se requiera ninguna otra comunicación de parte de este Organismo. Es decir, cumplido dicho plazo, los bancos son libres de abrir cuenta corriente a las personas que figuran en ella.
-
-De lo anterior se desprende que no es procedente que las empresas bancarias exijan a determinadas personas un certificado emitido por esta Superintendencia sobre la prohibición de abrir cuenta corriente, desde el momento en que aquellas comunicaciones oficiales contienen la información suficiente para establecer, en cada caso, si existe o no tal prohibición.
-
-1.5. Apertura de cuentas corrientes bipersonales o multipersonales.
+1.4. Apertura de cuentas corrientes bipersonales o multipersonales.
 
 No hay inconveniente legal para que dos o más personas abran una cuenta corriente conjunta en un banco.
 
@@ -2734,7 +2724,7 @@ Asimismo, no existe inconveniente legal para que dos o más personas abran una c
 
 No existe ninguna disposición que exceptúe a estas cuentas corrientes a nombre de varios titulares, de las normas generales acerca de la sucesión por causa de muerte y de los impuestos que las afectan. Corresponderá, pues, a los titulares sobrevivientes, demostrar las relaciones que los unían con el causante y el origen y dominio del dinero que se encontraba depositado, si desean evitar que se colacione con su patrimonio.
 
-1.6.- Cuentas corrientes a nombre del partidor de una sucesión y de personas naturales o jurídicas en quiebra.
+1.5.- Cuentas corrientes a nombre del partidor de una sucesión y de personas naturales o jurídicas en quiebra.
 
 a) A nombre del partidor de una sucesión.
 
@@ -2752,13 +2742,13 @@ Igual procedimiento deben aplicar para la apertura de la cuenta corriente, de la
 
 Por las especiales características de estas cuentas y atendidos los requisitos que obligan a los partidores y síndicos a establecerlas, los bancos no debieran aplicar a ellas las condiciones que, en general pudieran exigir para una cuenta corriente, relativas a mantener un saldo mínimo o registrar un determinado movimiento".
 
-1.7. Cuentas corrientes a nombre de patrimonios que carecen de personalidad jurídica pero cuyos administradores gozan de tal atributo.
+1.6. Cuentas corrientes a nombre de patrimonios que carecen de personalidad jurídica pero cuyos administradores gozan de tal atributo.
 
 Esta Superintendencia es de opinión que las empresas bancarias pueden abrir cuentas corrientes a todos aquellos fondos o patrimonios que, sin tener personalidad jurídica propia, tengan una administración encomendada por la ley a otro ente que goza de personalidad jurídica, como ocurre, por ejemplo, con Fondos Mutuos y Fondos de Pensiones respecto de sus Sociedades Administradoras o de los Fondos de Crédito Universitario, respecto de las Instituciones de Educación Superior.
 
 Esa opinión se fundamenta en que, en esos casos, existen dos patrimonios, uno delos cuales constituye una suerte de patrimonio de afectación que tiene su propia individualidad jurídica, aun cuando no tenga el atributo de personalidad jurídica propiamente tal. Por tal motivo, no existe inconveniente para abrir dos cuentas corrientes distintas: una en que se depositen los fondos del ente administrador y otra con los fondos que administre. Estos últimos constituyen un patrimonio separado, que no puede verse alterado por obligaciones del administrador. En consecuencia, ambas cuentas deben considerarse independientes, aunque manejadas por una sala persona la que encada caso asume distinto carácter, por lo que no puede existir compensación alguna entre ambas.
 
-1.8. Sanciones a los bancos por incumplimiento de las instrucciones sobre apertura de cuentas corrientes.
+1.7. Sanciones a los bancos por incumplimiento de las instrucciones sobre apertura de cuentas corrientes.
 
 La Ley sobre Cuentas Corrientes Bancarias y Cheques, en su artículo 22, expresa:" ... la Superintendencia dictará. normas de carácter general destinadas a sancionar con multa a aquellos bancos respecto de los cuales pueda presumirse que, por el número de cheques que protestan en cada semestre, no dan cumplimiento cabal a las instrucciones sobre apertura de cuentas corrientes bancarias."
 
