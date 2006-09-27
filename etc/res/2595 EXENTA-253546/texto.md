@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.595, de 7 de septiembre de 2006, de esta Subsecretaría, autorízase a GRANJA MARINA TORNAGALEONES S.A., para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta ubicada en Camino San Antonio s/n, Quellón, X Región, donde podrá elaborar en las líneas de proceso de Fresco enfriado, Fresco refrigerado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
