@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.676, de 14 de septiembre de 2006, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.051, de 1989, de esta Subsecretaría, sólo en cuanto autorizó a LUIS ALEJANDRO SEPULVEDA CRUZ para desarrollar actividades pesqueras extractivas con la nave "Maribel II", sobre el recurso Bacalao de profundidad, en el área marítima comprendida entre la III a VII Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en Informes Técnicos citados en Visto.
+
+Valparaíso, 14 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
