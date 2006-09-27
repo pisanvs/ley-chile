@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.668, de 14 de septiembre de 2006, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.823 de 2003, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A. para realizar actividades pesqueras extractivas con la nave "Loa 25", en el área marítima correspondiente a la Isla de Pascua, Archipiélago de Juan Fernández, Islas Sala y Gómez e Islas Desventuradas, con arrastre, sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 14 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
