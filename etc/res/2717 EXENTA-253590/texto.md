@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.717, de 15 de septiembre de 2006, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.635 de 2003, de esta Subsecretaría, que rechazó la solicitud Nº 200104064, presentada por SOCIEDAD CONSERVERA SACRAMENTO LIMITADA, para un centro de cultivo ubicado en Canal Caicaen, Isla Calbuco, X Región, en virtud del artículo 61 de la ley Nº 19.880.
+
+Valparaíso, 15 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
