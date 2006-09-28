@@ -1,0 +1,29 @@
+APRUEBA "GUIA OPERATIVA PROGRAMA DE BONIFICACION A LA CONTRATACION DE MANO DE OBRA PARA JOVENES BENEFICIARIOS DEL SISTEMA CHILE SOLIDARIO" AÑO 2006 Y DELEGA FACULTADES QUE INDICA EN LOS DIRECTORES REGIONALES DEL SERVICIO NACIONAL DE CAPACITACION Y EMPLEO QUE SEÑALA
+
+Núm. 2.167 exenta.- Santiago, 15 de septiembre de 2006.- Teniendo Presente:
+
+1.- Que la letra b.2.- del Nº 3 del decreto supremo Nº 277, de 19 de diciembre de 2005, del Ministerio del Trabajo y Previsión Social, modificado por el decreto supremo Nº 86, de 17 de marzo de 2006, de dicha Secretaría de Estado, establece la línea denominada Programa de Empleo para Jóvenes Beneficiarios del Sistema Chile Solidario, la cual contempla, entre otro, el componente "Bonificación a empleadores que contraten jóvenes beneficiarios del Sistema Chile Solidario".
+
+2.- Que de acuerdo a lo establecido en el numeral 6º del referido decreto, la ejecución del programa y componente antes señalados, deben establecerse en convenios de colaboración que se suscriban al efecto por la Subsecretaría del Trabajo, aprobados mediante decreto del Ministerio del Trabajo y Previsión Social.
+
+3.- Que con fecha 27 de julio de 2006, la Subsecretaría del Trabajo y el Servicio Nacional de Capacitación y Empleo, suscribieron una modificación al convenio de transferencia de recursos para la Ejecución del Programa Bonificación a la Contratación de Mano de Obra para los Beneficiarios del Sistema Chile Solidario, la cual fue aprobada por decreto Nº 243, de igual fecha, del Ministerio del Trabajo y Previsión Social, incorporando una letra d) en la cláusula cuarta del convenio suscrito entre las mismas partes con fecha 3 de abril de 2006, aprobado por decreto Nº 144, de fecha 13 de abril de 2006, de dicha Secretaría de Estado, la que tuvo por objeto contemplar el financiamiento de una línea para jóvenes beneficiarios del Sistema Chile Solidario, la que, a su vez, tiene como componente, entre otro, el Programa Bonificación a empleadores que contraten jóvenes beneficiarios del Sistema Chile Solidario.
+
+4.- Que conforme a la cláusula quinta del convenio de colaboración y transferencia de recursos de fecha 27 de julio de 2006, celebrado entre la Subsecretaría del Trabajo y este Servicio Nacional, aprobado por decreto Nº 243, de igual fecha, de la citada Secretaría de Estado, la Subsecretaría del Trabajo ha comprometido la transferencia a este Servicio Nacional de la cantidad de $832.500.000.- (ochocientos treinta y dos millones quinientos mil pesos), en las condiciones que allí se señalan, con el objeto que éste administre y ejecute, entre otro, el componente "Bonificación a empleadores que contraten jóvenes beneficiarios del Sistema Chile Solidario", antes mencionado.
+
+5.- Que es necesario establecer en un solo instrumento todas las instrucciones, obligaciones y requisitos que deben cumplirse por parte de las empresas que deseen hacer uso de los beneficios contemplados en las normas que rigen el "Programa Bonificación a la Contratación de Mano de Obra para Jóvenes Beneficiarios del Sistema Chile Solidario" durante el año 2006.
+
+6.- Que para el adecuado y eficaz funcionamiento del programa, es necesario que las instrucciones que por este acto se aprueban, sean conocidas por parte de las empresas interesadas en postular al mencionado programa, como asimismo por todos los actores sociales del sistema nacional de capacitación.
+
+7.- Que para la eficiente administración del programa, resulta conveniente, además, delegar en los Directores Regionales de este Servicio Nacional de las Regiones IV, V, VI, VII, X y Metropolitana, donde aquél se ejecutará, las facultades de aprobar las postulaciones al mismo y los pagos de las bonificaciones respectivas, como también las facultades de dejar sin efecto las mismas, en caso de incumplimiento de las normas que rigen el Programa y de resolver los recursos de reposición que pudieren interponer los interesados en contra de estas últimas decisiones administrativas.
+
+Visto: Las facultades que me otorga el artículo 85 Nº 5 de la ley Nº 19.518, el artículo 41 del decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fijó el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, los decretos supremos Nºs. 277, de 2005 y 86, 144 y 243, de 2006, del Ministerio del Trabajo y Previsión Social, y lo preceptuado en la resolución Nº 520, de 1996, que fija el texto refundido, coordinado y sistematizado de la resolución Nº 55, de 1992, de la Contraloría General de la República, que establece normas sobre exención del trámite de toma de razón,
+
+Resuelvo:
+
+1.- Apruébase la "Guía Operativa Programa de Bonificación a la Contratación de Mano de Obra para Jóvenes Beneficiarios del Sistema Chile Solidario" año 2006, cuyo texto forma parte integrante de esta resolución.
+
+2.- Deléganse en los Directores Regionales de este Servicio Nacional de las Regiones IV, V, VI, VII, X y Metropolitana, las facultades de conceder los beneficios contemplados en el Programa y de disponer los pagos correspondientes a los mismos, como también las atribuciones de dejarlos sin efecto, en caso de incumplimiento de las normas que rigen el programa y de resolver los recursos de reposición que pudieren interponer los interesados en contra de estas últimas decisiones administrativas.
+
+3.- El Programa de Bonificación a la Contratación de Mano de Obra para Jóvenes Beneficiarios del Sistema Chile Solidario, cuya guía operativa, que por este acto administrativo se aprueba, comenzará a regir a partir de la fecha de la total tramitación del mismo.
+
+Anótese, comuníquese y publíquese en el Diario Oficial.- Póngase a disposición de los interesados la presente resolución y el texto de la Guía Operativa mediante su publicación en el Sitio Web www.sence.cl.- Mauricio Dasso Dote, Director Nacional Subrogante.
