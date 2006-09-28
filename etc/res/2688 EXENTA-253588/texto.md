@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.688, de 15 de septiembre de 2006, de esta Subsecretaría, rectifícase el numeral 4º de la resolución Nº 2.533, de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Distribución y estructura de los recursos Anchoveta y Sardina común entre los límites regionales de la VIII Región", en el sentido de indicar que el nombre correcto de la embarcación artesanal autorizada para participar en la citada pesca de investigación es "Sotileza" y no "Sutileza", como allí se indica.
+
+Valparaíso, 15 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
