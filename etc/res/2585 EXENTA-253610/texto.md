@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.585, de 5 de septiembre de 2006, de esta Subsecretaría, autorízase a ALIMENTOS BAHIA CHINCUI S.A., para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta ubicada en camino a Chinquihue, kilómeto 14, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Fresco-enfriado, Fresco-refrigerado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 5 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
