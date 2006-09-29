@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.195, de 3 de mayo de 2006, de esta Subsecretaría, apruébase el proyecto de manejo y explotación de recursos bentónicos del área de manejo correspondiente al sector denominado Pichilemu, VI Región, individualizada en el artículo 1º del decreto exento Nº 638, de 2002, del Ministerio de Economía, Fomento y Reconstrucción, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES, BUZOS Y RECOLECTORES DE ORILLA DE PICHILEMU.
+
+Valparaíso, 3 de mayo de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
