@@ -1,0 +1,5 @@
+Por decreto MOP Nº 656 de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs.
+
+12-S y 27, para la ejecución del proyecto: Habilitación Nuevo Camino La Pólvora Km. 17,86424 - 22,47179, Sector 3: Quebrada Las Animas - Puerto Valparaíso, que figuran a nombre de Lizana Zúñiga Juan de Dios y Allende Riveros Manuel Omar, roles de avalúo 1507-10 y 1500-272, comuna de Valparaíso, V Región, superficies 152 m2 y 180 m2. La comisión de peritos, fijó con fecha 14 de junio de 2005, en las cantidades de $8.810.400, para el lote Nº 12-S y $10.578.000, para el lote Nº 27. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
