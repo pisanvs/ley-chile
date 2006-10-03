@@ -1,0 +1,3 @@
+Por decreto MOP Nº 616 de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 1, superficie 16.131 m2, rol Nº 248-81, comuna de Salamanca, IV Región para la obra "Sistema Regadío Valle del Choapa, Descarga de emergencia Nocuy Canal Alimentador Embalse Corrales" y se acordó el valor de indemnización con su propietario Francisco Javier Roco Veas y Otro, ascendente a la cantidad de $4.984.499.
+
+Fiscal del Ministerio de Obras Públicas.
