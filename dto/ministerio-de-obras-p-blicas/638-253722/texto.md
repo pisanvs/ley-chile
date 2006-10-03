@@ -1,0 +1,3 @@
+Por decreto MOP Nº 638, de fecha 31 de julio de 2006, se expropió el lote de terreno Nº1, superficie 10.206 m2., rol Nº 597-50, comuna de San Ignacio, para la obra "Lotes Adicionales a Canal Matriz Diguillín Larqui Km. 1,258 al km. 1,471", VIII Región y se acordó el valor de la indemnización con su propietaria Rosa Anita Rivas San Martín y otros, ascendente a la cantidad de $8.820.031.
+
+Fiscal del Ministerio de Obras Públicas.
