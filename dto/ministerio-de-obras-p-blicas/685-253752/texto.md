@@ -1,0 +1,5 @@
+Por decreto MOP Nº 685, de 21 de agosto de 2006 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 286-A para el "Proyecto: Camino Internacional Ruta 60 CH. Sector 1:
+
+Km. 0.000,00 al Km. 53.779,50 Tramo 3: Km. 46.100,00 al Km. 53.779,50" Quinta Región, que figura a nombre de Burchard Moyano María Cristina, rol de avalúo 997-3, comuna de Llay Llay, superficie 703 m2. La comisión de peritos integrada por las señoras Paola Andrea Domingo Porcella, María Elena García Monteverde y Mónica del Carmen Conejeros Rudloff, fijó con fecha 19 de junio de 2006, el valor provisional de la indemnización en la cantidad de $4.918.480.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
