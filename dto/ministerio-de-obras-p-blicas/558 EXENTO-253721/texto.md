@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 558, de 28 de agosto de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 12, 15, 16 y 17, para el Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego, Proyecto Faja Maisan, obra "Canal California", que figuran a nombre de Brun Augsburger Felipe A., Tripailaf Llancapil Ignacio, Tripailaf Jaramillo Luisa y Tripailaf Llancafil Ignacio, roles de avalúo Nºs. 381-301, 386-61, 386-232 y 386-72, comuna de Pitrufquén, IX Región, superficies 1.184,3 m2, 2.396,1 m2, 2.620,4 m2 y 1.033,3 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización con fecha 27 de septiembre de 2005, en la cantidad de $736.830.- para el lote Nº 12; $1.495.160.- para el lote Nº 15;
+
+$1.669.740.- para el lote Nº 16 y $637.480.- para el lote Nº 17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
