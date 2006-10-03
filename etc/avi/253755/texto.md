@@ -1,0 +1,3 @@
+Rectifícase la publicación del decreto MOP Nº 688, de 21 de agosto de 2006, efectuada en la edición del Diario Oficial de la República de Chile del día 15 de septiembre del 2006, en lo relativo a la superficie del lote de terreno expropiado Nº 204-32, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector A: Acceso Sur a Santiago. Km. -0.150,00 a Km. 10.986,00", en el sentido que donde dice que su superficie es 176 m2, debe decir 176,30 m2.
+
+Fiscal del Ministerio de Obras Públicas.
