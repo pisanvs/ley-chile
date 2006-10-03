@@ -1,0 +1,3 @@
+Por decreto MOP Nº 649, de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 204-15, superficie 64,27 m2., rol Nº 6323-28, comuna de La Granja, Región Metropolitana para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca Sector A: Acceso Sur a Santiago. km. -0.150,00 al km. 10.986,00", y se acordó el valor de la indemnización con su propietaria Herminia Giovana Sepúlveda Umaña, ascendente a la cantidad de $14.312.062.
+
+Fiscal del Ministerio de Obras Públicas.
