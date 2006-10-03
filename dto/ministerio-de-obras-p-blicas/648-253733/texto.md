@@ -1,0 +1,3 @@
+Por decreto MOP Nº 648 de fecha 31 de julio de 2006, se expropiaron los lotes de terreno Nºs. 2 y 3 superficies 7.210 y 2.365 m2., rol Nº 609-72, comuna de San Ignacio, VIII Región, para la obra "Proyecto Laja Diguillín, Canal Matriz Diguillín Larqui, Camino de Acceso Puente Km. 12,160 Km. 0,020 a Km. 0,0402" y se acordó el valor de indemnización con su propietario Enrique Raúl Aedo Rosales, ascendente a las cantidades de $6.622.150.- para el lote Nº 2 y $2.224.186.- para el lote Nº 3.
+
+Fiscal del Ministerio de Obras Públicas.
