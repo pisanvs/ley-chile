@@ -1,0 +1,3 @@
+Por decreto MOP Nº 654, de 31 de julio de 2006, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto MOP Nº 1.516, de 30 de diciembre de 2005, en la parte que se refiere al Convenio Directo de Precio Ad-Referendum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº 1. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 18 de agosto de 2004, ascendente a la cantidad de $5.968.780.
+
+Fiscal del Ministerio de Obras Públicas.
