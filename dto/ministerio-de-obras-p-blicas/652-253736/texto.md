@@ -1,0 +1,3 @@
+Por decreto MOP Nº 652 de fecha 31 de julio de 2006, se expropió el lote de terreno Nº 204-18, superficie 60,21 m2, rol Nº 6323-32, comuna de La Granja, Región Metropolitana, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca Sector A: Acceso Sur a Santiago. Km. -0.150,00 al Km. 10.986,002, y se acordó el valor de la indemnización con su propietaria Neda del Carmen Campillay Sepúlveda, ascendente a la cantidad de $14.790.440.
+
+Fiscal del Ministerio de Obras Públicas.
