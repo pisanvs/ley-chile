@@ -1,0 +1,3 @@
+Por decreto MOP Nº 612 de fecha 31 de julio de 2006, se expropiaron los lotes de terreno Nºs. 11, 12, 13 y 14, superficies 4.644, 2.542, 594 y 2.082 m2, respectivamente, rol 1238-3, comuna de Pichilemu, para la obra "Camino Ruta Costera Sector Cahuil - Bucalemu, Tramo Km. 3,70430 a Km. 23,29585", VI Región y se acordó el valor de la indemnización con su propietario Jaime Renato Opazo Larraín, ascendente a la cantidad de $20.041.750.
+
+Fiscal del Ministerio de Obras Públicas.
