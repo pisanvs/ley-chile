@@ -1,0 +1,3 @@
+Por decreto MOP Nº 615 de 31 de julio de 2006, se expropió el lote de terreno Nº 12, superficie 11.191,1 m2, rol de avalúo 158-24, comuna de Cochamó, para la obra "Camino Puelo Paso El Bolsón, sector Llanada Grande - Río Mapocho, tramo Km. 32,500 al Km. 37,400", X Región y se acordó el valor de la indemnización con su propietario Jorge Moller Rivas, ascendente a la cantidad de $3.855.278.
+
+Fiscal del Ministerio de Obras Públicas.
