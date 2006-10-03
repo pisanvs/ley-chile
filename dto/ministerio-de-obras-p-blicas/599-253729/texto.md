@@ -1,0 +1,5 @@
+Por decreto MOP Nº 599 de 31 de julio de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 205; para la obra: Camino Ruta G-46, Cruce Long. (Paine) - Talagante, Sector Puente La Puntilla - Cruce Ruta G-40, Puente sobre Río Maipo Sector La Puntilla, que figura a nombre de Sociedad Agrícola Oscar Ahues, rol de avalúo 390-106, comuna de Buin; Región Metropolitana, superficie 5.472 m2. La Comisión de Peritos, fijó con fecha 2 de noviembre de 2005 el monto de la indemnización provisional en la cantidad de
+
+$24.804.000.- Lote Nº 205. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
