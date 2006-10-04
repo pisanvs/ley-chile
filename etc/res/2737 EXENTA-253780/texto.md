@@ -1,0 +1,1 @@
+Por resolución exenta Nº 2.737, de 25 de septiembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111852 presentada por BRENDA ETTI PAREDES PAREDES, para instalar y operar un centro de cultivo ubicado en Canal Chacabuco, lado sur de Isla Humos (sector 4), XI Región.
