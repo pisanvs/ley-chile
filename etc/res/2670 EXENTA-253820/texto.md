@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.670, de 14 de septiembre de 2006, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL ALISTE Y ESPINOZA LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Almirante Latorre Nº 383, Puerto Natales, XII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco Salado, Ahumado, Conserva, Alga Seca, Deshidratado y Seco Picado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 14 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
