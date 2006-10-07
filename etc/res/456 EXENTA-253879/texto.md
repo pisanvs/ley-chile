@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE COMPAÑIA DE SEGUROS DE CREDITOS COFACE CHILE S.A.
+
+Certifico: Que por resolución exenta Nº 456 de fecha 29 de septiembre de 2006, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Compañía de Seguros de Créditos Coface Chile S.A., acordada en junta extraordinaria de accionistas celebrada el 30 de marzo de 2006 y reducida a escritura pública el 5 de julio de 2006 en la Notaría de Santiago de don Raúl Undurraga Laso, domiciliado en Mac Iver 225 oficina 302.
+
+Se fija el capital social al 31 de diciembre de 2005 en la suma de $2.207.147.305 pesos dividido en 5.000 acciones de una misma serie sin valor nominal, íntegramente suscrito y pagado, al que se le suman $79.579.659 pesos que corresponde a la revalorización del capital propio del año 2005, quedando un capital social de $2.286.726.964 pesos dividido en 5.000 acciones. Este capital se aumenta en $760.384.030 pesos capitalizando utilidades retenidas y emitiendo 1.000 acciones liberadas de pago quedando el capital social en la suma de $3.047.110.994 pesos dividido en 6.000 acciones, íntegramente suscrito y pagado. Se modifican artículos cuarto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 29 de septiembre de 2006.- Carmen Undurraga Martínez, Secretario General.
