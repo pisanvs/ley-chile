@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.730, de 25 de septiembre de 2006, de esta Subsecretaría, autorízase a SEMILLAS MARINAS S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Huenao rural, Curaco de Vélez, X Región, en la línea de proceso de Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de septiembre de 2006.- María Angela Barbieri Bellolio, Subsecretario de Pesca (S).
