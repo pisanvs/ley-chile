@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.627, de 13 de septiembre de 2006, de esta Subsecretaría, autorízase a SANG BAEK LEE, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Varillar s/n, comuna de Vicuña, IV Región, donde podrá elaborar en la línea de proceso de Deshidratado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 13 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
