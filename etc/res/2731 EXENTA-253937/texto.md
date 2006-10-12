@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.731 de 25 de septiembre de 2006 de esta Subsecretaría, autorízase a ROXANA MERCEDES SILVA ESCOBAR, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en pasaje Gajardo Nº 281, Cerro Alegre, Tomé, VIII Región, en las líneas de proceso de Cocido y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 25 de septiembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
