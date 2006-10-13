@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.723, de 22 de septiembre de 2006, de esta Subsecretaría, modifícase el numeral 3.- de la resolución Nº 2.211, de 2006, de esta Subsecretaría, que autorizó al CLUB DE PESCA Y CAZA LICAN RAY para realizar pesca de investigación que indica, en el sentido de extender el plazo autorizado para su ejecución, desde la fecha de publicación del presente extracto en el Diario Oficial hasta el 31 de octubre de 2006.
+
+Valparaíso, 22 de septiembre de 2006.- María Angela Barbieri Bellolio Subsecretaria de Pesca (S).
