@@ -1,0 +1,3 @@
+Por decreto MOP Nº 614 de fecha 31 de julio del 2006, se expropió el lote de terreno Nº 7, superficie 19,556 m², Rol Nº 276-7, comuna de Putaendo, V Región para la obra "Camino Cabildo-Putaendo, Ruta E-41, sector El Tártaro-Putaendo, Tramo Km. 58,86000 a Km. 65,13300", y se acordó el valor de indemnización con su propietario Agrícola Trucao S.A., ascendente a la cantidad de $23.075.290.
+
+Fiscal del Ministerio de Obras Públicas.
