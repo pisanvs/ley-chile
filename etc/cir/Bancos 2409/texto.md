@@ -18694,9 +18694,9 @@ Dentro de los diez días hábiles bancarios siguientes a la designación por par
 
 b) Deficiencias observadas por los auditores y medidas para corregirlas.
 
-Las instituciones fiscalizadas deberán enviar a esta Superintendencia el informe o memorándum entregado por los auditores externos, donde se señalen las deficiencias que hubieren detectado respecto a la adopción de prácticas contables, al mantenimiento de un sistema administrativo contable efectivo y a la creación y mantención de un sistema de control interno adecuado, los que deben ser puestos por los auditores en conocimiento de la dirección de la empresa para cumplir con lo dispuesto en el N°4 del Art. 55 del D.S. N° 587 de Hacienda de 1982.
+Las instituciones fiscalizadas deberán enviar a esta Superintendencia el informe o memorándum entregado por los auditores externos, donde se señalen las deficiencias que hubieren detectado respecto a la adopción de prácticas contables, al mantenimiento de un sistema administrativo contable efectivo y a la creación y mantención de un sistema de control interno adecuado, los que deben ser puestos por los auditores en conocimiento de la dirección de la empresa para cumplir con lo dispuesto en el N°4 del Art. 55 del D.S. N° 587 de Hacienda de 1982, de acuerdo con lo indicado en el N° 6 de la Circular N° 2 de esta Superintendencia dirigida a los auditores externos.
 
-Esta información deberá ser entregada a este Organismo dentro de los 10 días hábiles bancarios siguientes a la fecha en que se reciba el informe o memorándum de los auditores y en cualquier caso antes del de diciembre de cada año, y deberá contener, además, los comentarios de la administración, en las que se manifiesten las decisiones que se tomaron a objeto de solucionar las deficiencias que hayan sido observadas.
+Esta información deberá ser entregada a este Organismo junto con el acta de la sesión de directorio en la cual se tomó conocimiento de las observaciones de los auditores externos y en la cual debe quedar constancia de lo tratado en relación con dicho informe.
 
 c) Opinión sobre los Estados Financieros.
 
