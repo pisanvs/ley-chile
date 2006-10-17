@@ -1,0 +1,3 @@
+Por decreto MOP Nº 690, de 21 de agosto de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Mejoramiento Ruta C-495, Sector Alto del Carmen-Conay, Km. 0,000 - Km. 19,500, Etapa II, que figura a nombre de Sucesión Naranjo Naranjo, rol de avalúo 865-6, comuna de Alto del Carmen, superficie 2.644 m². La Comisión de Peritos, fijó con fecha 18 de junio de 2005, en la cantidad de $5.077.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
