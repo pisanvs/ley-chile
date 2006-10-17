@@ -1,0 +1,3 @@
+Por decreto MOP Nº 684, de 21 de agosto de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7, para la obra Camino Mejoramiento Rutas 1 y B-710, Sector Las Ruinas-Minera Yumbes, II Región, que figura a nombre de Inversiones Interover S.A., rol de avalúo 504-23, provincia de Antofagasta, comuna de Taltal, superficie 672.367 m². La Comisión de Peritos, fijó con fecha 20 de septiembre de 2005, en la cantidad de $94.803.747. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
