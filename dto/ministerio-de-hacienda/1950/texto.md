@@ -202,7 +202,7 @@ Los vehículos a que se refiere el artículo 6° de la ley N° 17.238, sus modif
 
 #### Artículo 30°
 
-Los vehículos motorizados indicados en la letra b) del artículo 7° de este decreto, deberán ser conducidos exclusivamente por las personas en cuyo beneficio fueron importados. No obstante lo anterior, dichos vehículos podrán ser conducidos por el cónyuge, únicamente cuando el lisiado viaje en compañía del conductor.
+Los vehículos motorizados indicados en la letra b) del artículo 7° de este decreto, deberán ser conducidos exclusivamente por las personas en cuyo beneficio fueron importados. No obstante lo anterior, dichos vehículos podrán ser conducidos por otra persona, únicamente cuando el lisiado viaje en compañía del conductor.
 
 Para los efectos de un adecuado control del Cuerpo de Carabineros, las Municipalidades respectivas deberán estampar un timbre en los padrones que extiendan para estos vehículos, el que deberá contener la siguiente leyenda: "Vehículo Especial para Lisiados, ley N° 17.238".
 
