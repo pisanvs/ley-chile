@@ -1,0 +1,37 @@
+APRUEBA CESION DE DERECHOS Y ACEPTACION DE OBLIGACIONES EN EL CONTRATO ESPECIAL DE OPERACION PARA LA EXPLORACION Y EXPLOTACION DE YACIMIENTOS DE HIDROCARBUROS AREA BLOQUE FELL DUODECIMA REGION DE MAGALLANES Y ANTARTICA CHILENA, DE LA EMPRESA NACIONAL DEL PETROLEO A GEOPARK CHILE LIMITED
+
+Núm. 22.- Santiago, 6 de julio de 2006.- Vistos: Lo dispuesto en el Decreto con Fuerza de Ley Nº 2, de 1986, de Minería; el decreto supremo Nº 5 de 9 de enero de 1997, de Minería; lo dispuesto en el Contrato Especial de Operación, aprobado por resolución Nº 10, de 14 de julio de 1997, de Minería; la cesión de derechos aprobada por resolución Nº 4, de 23 agosto de 1999, de Minería; la resolución Nº 19 de 27 de mayo de 2003, de Minería; el decreto Nº 62 de 26 de agosto de 2004, de Minería; la resolución Nº 5 de 13 de junio de 2005, de Minería; la letra i) del Artículo 5 del Decreto con Fuerza de Ley Nº 302 de 1960, del Ministerio de Hacienda; la cesión de derechos aprobada mediante resolución Nº 6, de 29 de noviembre de 2005, de Minería; lo solicitado por los partícipes del contratista en carta de 20 de marzo de 2005; y la resolución 520 de 1996, y sus modificaciones posteriores, de la Contraloría General de la República.
+
+Considerando:
+
+a) Que, por decreto supremo Nº 5, de fecha 9 de enero de 1997, del Ministerio de Minería, se establecieron y aprobaron los requisitos, términos y condiciones del Contrato Especial de Operación (CEOP), para la exploración y explotación de yacimientos de hidrocarburos, en el área Bloque Fell, ubicada en la XII Región de Magallanes y Antártica Chilena.
+
+b) Que, por resolución Nº 10, de 14 de julio de 1997, del Ministerio de Minería, se aprobó el referido Contrato Especial de Operación, suscrito entre el Estado de Chile y el Contratista formado por la Empresa Nacional del Petróleo y Cordex Petroleums, Inc.
+
+c) Que, por resolución Nº 4, de 23 de agosto de 1999, del Ministerio de Minería, se aprobó la cesión a AES Gener S.A. de la totalidad de los derechos de Cordex Petroleums, Inc., en el referido CEOP Bloque Fell, según consta en escritura pública de fecha 29 de abril de 1997; otorgada ante el Notario Público don José Musalem Saffie, Titular de la Cuadragésima Octava Notaría de Santiago; quedando en consecuencia, como partes en el referido Contrato Especial de Operación, el Estado de Chile, la Empresa Nacional del Petróleo y AES Gener S.A.
+
+d) Que, por resolución Nº 19, de 27 de mayo de 2003, del Ministerio de Minería, se aprueba la modificación del Contrato Especial de Operación de Yacimientos de Hidrocarburos en el Area Bloque Fell, entre el Estado de Chile con Geopark Limited y Empresa Nacional del Petróleo, que consta en escritura pública de fecha 3 de marzo de 2003, otorgada ante el Notario Público don José Musalem Saffie, Titular de la Cuadragésima Octava Notaría de Santiago; y se ratifica la cesión de derechos de la Empresa AES Gener S.A. a Geopark Limited, de la que se da cuenta en escritura pública de fecha 5 de noviembre de 2002, otorgada ante doña Antonieta Mendoza Escalas, Notario Público, Titular de la Décimo Sexta Notaría y Conservador de Minas de Santiago, quedando distribuida la participación en cuarenta y cinco por ciento (45%) para la Empresa Nacional del Petróleo y cincuenta y cinco por ciento (55%) para Geopark Limited.
+
+e) Que, mediante decreto Nº 62 de 26 de agosto de 2004, del Ministerio de Minería, se modificó el decreto Nº 5, de 1997, de Minería, que establece los requisitos, términos y condiciones del Contrato Especial de Operación para la Exploración y Explotación de Yacimientos de Hidrocarburos.
+
+f) Que, posteriormente, por resolución Nº 5 de 13 de junio de 2005, de Minería, se aprobó la modificación y el texto refundido del Contrato Especial de Operación para la Exploración y Explotación de Yacimiento de Hidrocarburos en el Area Bloque Fell, XII Región de Magallanes y Antártica Chilena, entre el Estado de Chile con Geopark Chile Limited y la Empresa Nacional del Petróleo, de acuerdo a los términos y condiciones establecidos en el decreto Nº 62 señalado en la letra precedente.
+
+g) Que, mediante resolución Nº 6, de 29 de noviembre de 2005, del Ministerio de Minería, se aprobó la cesión de derechos que la Empresa Nacional del Petróleo (ENAP) hizo a Geopark Chile Limited, de los derechos, obligaciones y responsabilidades comprendidos en el Contrato Especial de Operación, según consta en escritura pública de fecha 1 de septiembre de 2005, otorgada ante don Fernando Alzate Claro, Notario Público Suplente de l a Décimo Sexta Notaría y Conservador de Minas de Santiago; quedando la participación distribuida en un noventa por ciento (90%) a Geopark Chile Limited y un diez por ciento (10%) a ENAP.
+
+h) Que, los partícipes del contratista, ENAP y Geopark Chile Limited, mediante carta de 20 de marzo de 2006, solicitaron autorización para ceder derechos y obligaciones comprendidas en el Contrato Especial de Operación para la Exploración y Explotación de Yacimiento de Hidrocarburos en la citada Area Bloque Fell, solicitud que fue autorizada por este Ministerio, conforme a lo dispuesto en el artículo 14 del CEOP, a través de oficio Nº 280, de 20 de abril de 2006, dirigido a ambos partícipes.
+
+i) Que, mediante escritura pública de fecha 10 de mayo de 2006, otorgada ante doña Antonieta Mendoza Escalas, Notario Público, Titular de la Décimo Sexta Notaría y Conservador de Minas de Santiago, se realizó la cesión de la totalidad de los derechos, obligaciones y responsabilidades del Contrato Especial de Operación para la Exploración y Explotación de Yacimientos de Hidrocarburos Area Bloque Fell, Duodécima Región de Magallanes y Antártica Chilena, de ENAP a Geopark Chile Limited, quedando esta última, en consecuencia, con el cien por ciento (100%) de la participación,
+
+Resuelvo:
+
+#### Artículo primero
+
+Apruébase la cesión que la Empresa Nacional del Petróleo (ENAP) hace a Geopark Chile Limited, de la totalidad de los derechos, obligaciones y responsabilidades de que era titular en el Contrato Especial de Operación para la Exploración y Explotación de Yacimientos de Hidrocarburos Area Bloque Fell, Duodécima Región de Magallanes y Antártica Chilena, como asimismo, la aceptación de la cesionaria Geopark Chile Limited, de sujetarse en los mismos términos que la cedente, a todos los derechos, obligaciones y responsabilidades que correspondían a ésta en el Contrato Especial de Operación, quedando el cien por ciento (100%) a nombre de Geopark Chile Limited, según da cuenta la escritura pública de fecha 10 de mayo de 2006, otorgada ante doña Antonieta Mendoza Escalas, Notario Público, Titular de la Décimo Sexta Notaría y Conservador de Minas de Santiago, todo ello en conformidad a lo dispuesto en el artículo Décimo Cuarto del referido Contrato Especial de Operación, aprobado por resolución Nº 5 de 2005, de Minería.
+
+#### Artículo segundo
+
+Los anexos precedentemente citados en esta resolución forman parte integrante de la misma, para todos los efectos legales.
+
+Anótese, refréndese, tómese razón, comuníquese y publíquese.- Karen Poniachik, Ministra de Minería y Energía.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Marisol Aravena Puelma, Subsecretaria de Minería.
