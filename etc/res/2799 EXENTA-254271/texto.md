@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.799, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a YUBIZA ELENA ALVAREZ GONZALEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector sur de caleta Paposo, playa La Veleidosa, II Región, donde podrá elaborar en la línea de proceso de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
