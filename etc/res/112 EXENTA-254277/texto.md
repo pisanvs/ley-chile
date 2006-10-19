@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 112 EXENTA, DE 2005
+
+Por resolución exenta Nº 112, de fecha 19 de enero de 2005, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se otorga reconocimiento oficial a Escuela de Conductores Profesionales: "Escuela de Conductores Automóvil Club de Chile Limitada", para impartir cursos conducentes a la obtención de licencia de conductor profesional clase A2, A3, A4 y A5, en sede ubicada en Av. Vicuña Mackenna Nº6100 (Nivel B), locales 121 y 111, comuna de La Florida, y taller mecánico, ubicado en Av. Departamental Nº76, comuna de San Joaquín; y deja sin efecto resolución exenta Nº 508/2004, del mismo origen.
+
+- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
