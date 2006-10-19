@@ -378,7 +378,7 @@ La información tributaria, que conforme a la ley proporcione el Servicio, solam
 
 El plazo de declaración y pago de los diversos impuestos se regirá por las disposiciones legales y reglamentarias vigentes.
 
-No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción.
+No obstante lo dispuesto en el inciso anterior, el Presidente de la República podrá fijar y modificar las fechas de declaración y pago de los diversos impuestos y establecer los procedimientos administrativos que juzgue más adecuados a su expedita y correcta percepción. Asimismo, podrá modificar la periodicidad de pago del impuesto territorial.
 
 Cuando el plazo de declaración y pago de un impuesto venza en día feriado, en día sábado o el día 31 de diciembre, éste se prorrogará hasta el primer día hábil siguiente. Esta prórroga no se considerará para los efectos de determinar los reajustes que procedan, sin perjuicio de lo dispuesto en el inciso segundo del artículo 53.
 
@@ -938,23 +938,31 @@ La misma sanción se aplicará al que impidiere en forma ilegítima el cumplimie
 
 15°.- El incumplimiento de cualquiera de las obligaciones establecidas en los artículos 34° y 60° inciso penúltimo, con una multa del veinte por ciento al cien por ciento de una unidad tributaria anual.
 
-16°.- La pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, con multa de hasta el 20% del capital efectivo con un tope de 30 unidades tributarias anuales, a menos que la pérdida o inutilización sea calificada de fortuita por el Director Regional.
+16°.- La pérdida o inutilización no fortuita de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, se sancionará de la siguiente manera:
 
-Los contribuyentes deberán en todos los casos de pérdida o inutilización:
+a) Con multa de una unidad tributaria mensual a veinte unidades tributarias anuales, la que, en todo caso, no podrá exceder de 15% del capital propio; o
+
+b) Si los contribuyentes no deben determinar capital propio, resulta imposible su determinación o aquél es negativo, con multa de media unidad tributaria mensual hasta diez unidades tributarias anuales.
+
+Se presumirá no fortuita, salvo prueba en contrario, la pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero, cuando se dé aviso de este hecho o se lo detecte con posterioridad a una notificación o cualquier otro requerimiento del Servicio que diga relación con dichos libros y documentación. Además, en estos casos, la pérdida o inutilización no fortuita se sancionará de la forma que sigue:
+
+a) Con multa de una unidad tributaria mensual a treinta unidades tributarias anuales, la que, en todo caso, no podrá exceder de 25% del capital propio; o
+
+b) Si los contribuyentes no deben determinar capital propio, no es posible determinarlo o resulta negativo, la multa se aplicará con un mínimo de una unidad tributaria mensual a un máximo de veinte unidades tributarias anuales.
+
+La pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero materializada como procedimiento doloso encaminado a ocultar o desfigurar el verdadero monto de las operaciones realizadas o a burlar el impuesto, será sancionada conforme a lo dispuesto en el inciso primero del N° 4° del artículo 97 del Código Tributario.
+
+En todos los casos de pérdida o inutilización, los contribuyentes deberán:
 
 a) Dar aviso al Servicio dentro de los 10 días siguientes, y
 
 b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrá ser inferior a treinta días.
 
-El incumplimiento de lo dispuesto en el inciso anterior se sancionará con una multa de hasta diez unidades tributarias mensuales.
+El incumplimiento de lo previsto en el inciso anterior, será sancionado con multa de hasta diez unidades tributarias mensuales.
 
-Sin embargo no se considerará fortuita, salvo prueba en contrario, la pérdida o inutilización de los libros de contabilidad o documentos mencionados en el inciso primero, cuando se dé aviso de este hecho o se detecte con posterioridad a una citación, notificación o cualquier otro requerimiento del Servicio que diga relación con dichos libros y documentación.
+Para los efectos previstos en los incisos primero y segundo de este número, se entenderá por capital propio el definido en el artículo 41, Nº 1°, de la Ley sobre Impuesto a la Renta, vigente al inicio del año comercial en que ocurra la pérdida o inutilización.
 
-En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en el artículo 200, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
-
-Para los efectos previstos en el inciso primero de este número se entenderá por capital efectivo el definido en el artículo 2º, Nº 5, de la Ley de Impuesto a la Renta.
-
-En aquellos casos en que, debido a la imposibilidad de determinar el capital efectivo, no sea posible aplicar la sanción señalada en el inciso primero, se sancionará dicha pérdida o inutilización con una multa de hasta 30 unidades tributarias anuales.
+En todo caso, la pérdida o inutilización de los libros de contabilidad suspenderá la prescripción establecida en los incisos primero y segundo del artículo 200, hasta la fecha en que los libros legalmente reconstituidos queden a disposición del Servicio.
 
 17°.- La movilización o traslado de bienes corporales muebles realizado en vehículos destinados al transporte de carga sin la correspondiente guía de despacho o factura, otorgadas en la forma exigida por las leyes, será sancionado con una multa del 10% al 200% de una unidad tributaria anual.
 
@@ -987,6 +995,8 @@ Los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a
 25.- El que actúe como usuario de las Zonas Francas establecidas por ley, sin tener la habilitación correspondiente, o teniéndola, la haya utilizado con la finalidad de defraudar al Fisco, será sancionado con una multa de hasta ocho Unidades Tributarias Anuales y con presidio menor en sus grados medio a máximo.
 
 Se sancionará con las penas establecidas en el inciso anterior a quien efectúe transacciones con una persona que actúe como usuario de Zona Franca, sabiendo que éste no cuenta con la habilitación correspondiente o teniéndola, la utiliza con la finalidad de defraudar al Fisco.
+
+26.- La venta o abastecimiento clandestinos de gas natural comprimido o gas licuado de petróleo para consumo vehicular, entendiéndose por tal aquellas realizadas por personas que no cuenten con las autorizaciones establecidas en el inciso cuarto del artículo 2º de la ley Nº 18.502, será penado con presidio menor en su grado mínimo a medio y una multa de hasta cuarenta unidades tributarias anuales.
 
 #### Artículo 98
 
