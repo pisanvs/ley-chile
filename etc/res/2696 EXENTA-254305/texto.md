@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.696, de 15 septiembre de 2006, de esta Subsecretaría, modifícase la resolución exenta Nº 215 de 2006, modificada mediante resolución exenta Nº 241 de 2006, ambas de esta Subsecretaría de Pesca que autorizó al CENTRO DE INVESTIGACION, DESARROLLO Y CAPACITACION EN CIENCIAS DEL MAR, MARES CHILE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación de Merluza del sur (Merluccius australis) en aguas interiores de la Zona de Calbuco, X Región", en el sentido de incorporar en el numeral 16 letra d), el siguiente inciso 2º:
+
+"La consulta de información relativa a la pesca de investigación no comprenderá la información específica e individual que deben entregar los armadores artesanales y las personas que realicen actividades de procesamiento o transformación y de comercialización de recursos hidrobiológicos en cumplimiento de la obligación establecida en los artículos 63 y 64 de la Ley General de Pesca y Acuicultura.".
+
+Valparaíso, 15 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
