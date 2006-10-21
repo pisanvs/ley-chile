@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.801, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Chinquihue Km. 12, Sector Industrial, Puerto Montt, X Región, en las líneas de proceso de Alga seca, Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Seco-salado, Ahumado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
