@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.763, de 5 de octubre de 2006, de esta Subsecretaría, autorízase a COMERCIAL CONTINENTAL CHILE LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Fundo Santa Eloísa s/n, Hualpén (Planta Nº 2), VIII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado, Seco salado, Ahumado, Conserva, Alga seca y Deshidratado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 5 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
