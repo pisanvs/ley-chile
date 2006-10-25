@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.752, de 29 de septiembre de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 3.308, modificada por resoluciones Nº 3.369, Nº3.655 y Nº 4.284, todas de 2005, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Caracterización de la pesquería de Algas Pardas de las Regiones I a IV", en el sentido de extender el plazo de ejecución de la citada pesca de investigación por un término de 10 meses contados desde la fecha de la presente resolución.
+
+Valparaíso, 29 de septiembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
