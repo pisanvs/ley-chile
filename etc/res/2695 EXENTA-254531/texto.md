@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.695, de 15 de septiembre de 2006, de esta Subsecretaría, autorízase a la ILUSTRE MUNICIPALIDAD DE PENCO, Departamento Educación Municipal, para ampliar las actividades pesqueras de transformación en orden a incorporar a la planta ubicada en San Vicente Nº51, Penco, VIII Región, en las líneas de proceso de Fresco-refrigerado, Congelado, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 15 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
