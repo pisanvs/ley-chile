@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.860, de 18 de octubre de 2006, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 766, de 1993, y Nº 294, de 2000, de esta Subsecretaría, sólo en cuanto autorizaron a Pesquera Friosur S.A., hoy FRIOSUR VII S.A., para ampliar actividades pesqueras extractivas con la nave "Friosur VII", en el área marítima correspondiente a la IX y X Regiones, con red de arrastre, sobre el recurso Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
