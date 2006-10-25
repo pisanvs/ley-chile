@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.873, de 18 de octubre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204101084 presentada por SAMUEL ALBERTO CASTILLO MORAGA y VICTOR HUGO MUÑOZ AGUILANTE, para instalar y operar un centro de cultivo ubicado en canal Cholgo, al noreste de Isla Llancahué, X Región.
+
+Valparaíso, 18 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
