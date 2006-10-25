@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.798, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a RAUL MATIAS SALAS DIAZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada a mil metros al Sur del Embarcadero de Caleta Paposo, II Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
