@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.927, de 19 de octubre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº203101221 presentada por FANY SUSANA AHUMADA ZEPEDA y Juan Víctor Peña Imilmaqui, para instalar y operar un centro de cultivo ubicado en Paso Maillén, al norte de Punta Panitao, X Región.
+
+Valparaíso, 19 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
