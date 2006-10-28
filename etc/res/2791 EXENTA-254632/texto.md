@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.791, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a LUIS IVAN CORTINEZ VILLEGAS para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta ubicada en Cuesta Cardones kilómetro 800, Copiapó, III Región, donde podrá elaborar en la línea de proceso de Picado de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
