@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.938, de 23 de octubre de 2006, de esta Subsecretaría, recházase la solicitud presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES Y ACUICULTORES "BOSQUEMAR" DE COCHAMO, para instalar colectores de semillas de mitílidos en sector norte de Cululir, Estero Reloncaví, X Región.
+
+Valparaíso, 23 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
