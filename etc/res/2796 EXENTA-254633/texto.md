@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.796, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a NELSON JESUS MOLINA TORRES para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta ubicada en René Schneider s/nº, Barrio Industrial, Caldera, III Región, en la línea de proceso de Picado de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
