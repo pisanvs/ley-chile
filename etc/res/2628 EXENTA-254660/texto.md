@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.628, de 13 de septiembre de 2006, de esta Subsecretaría, autorízase a HAIGREEN CHILE S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Bernardo O'Higgins Nº80, Placilla, Valparaíso, V Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Seco Salado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 13 de septiembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
