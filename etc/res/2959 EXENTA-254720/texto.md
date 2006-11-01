@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.959, de 23 de octubre de 2006, de esta Subsecretaría, declárase la caducidad de las resoluciones Nº2.019 y Nº2.543, ambas de 2001, Nº2.275 de 2004 y Nº638 de 2005, todas de esta Subsecretaría, que autorizaron a BUENA PESCA S.A., para desarrollar actividades extractivas con la nave "Nicomar", en virtud de lo dispuesto en el artículo 143 letra d) de la Ley General de Pesca y Acuicultura y lo informado en Informe Técnico citado en Visto.
+
+Valparaíso, 23 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
