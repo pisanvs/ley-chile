@@ -1,0 +1,13 @@
+Por resolución exenta Nº2.811, de 13 de octubre de 2006, de esta Subsecretaría, autorízase a SOCIEDAD DE DESARROLLO DE LA PESCA ARTESANAL S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de la captura y desembarques de los recursos pelágicos asociados a la flota artesanal de cerco sardinera y anchovetera de la VIII Región".
+
+El objetivo de la pesca de investigación consiste en monitorear la captura y desembarques de los recursos pelágicos extraídos por la flota artesanal de cerco sardinera y anchovetera de la VIII Región.
+
+La pesca de investigación se efectuará en el área marítima de la VIII Región, entre la fecha de la presente resolución hasta el día 31 de diciembre de 2006, ambas fechas inclusive.
+
+Podrán participar en la presente pesca de investigación las siguientes embarcaciones artesanales, que se encuentran inscritas en el Registro Pesquero Artesanal de la VIII Región, sección Anchoveta o Sardina común: "Acuario III", "Carlos Patricio", "Carmen Loreto", "Don Emilio IV", "Don Ricardo", "Hermita I", "Rimar", "Gimar I", "Tomé" y "Quenos".
+
+En cumplimiento del objetivo de la presente pesca de investigación, las naves participantes podrán extraer, durante el período y en el área marítima indicada en el numeral 3º de la presente resolución, con red de cerco con malla anchovetera, una cuota total ascendente a 1.347 toneladas del recurso Anchoveta y 1.000 toneladas de Sardina común.
+
+La peticionaria designa como persona responsable a don Hugo Arancibia Zamorano.
+
+Valparaíso, 13 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
