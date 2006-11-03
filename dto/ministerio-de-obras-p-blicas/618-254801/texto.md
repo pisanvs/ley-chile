@@ -1,0 +1,3 @@
+Por decreto MOP N° 618 de fecha 31 de julio del 2006, se expropió el lote terreno N° 1, superficie 9.924,63 m2, Rol N° 383-3, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Canal Quinque" y se acordó el valor de indemnización con su propietario Ricardo Brun Frey y otros, ascendente a la cantidad de $6.474.869.- para el lote N° 1.
+
+Fiscal del Ministerio de Obras Públicas.
