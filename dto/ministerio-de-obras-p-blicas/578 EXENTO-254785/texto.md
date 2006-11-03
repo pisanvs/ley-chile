@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 578 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 9, superficie 120 m2, Rol N° 172-18, comuna de Curarrehue, IX Región para la obra "Mejoramiento Ruta 199-CH, Curarrehue-Paso Mamuil Malal, sector Curarrehue-Puesco, Km. 116,88000 a Km. 136,76000, tramo I, Km. 116,88000 a Km. 124,38000" y se acordó el valor de indemnización con su propietaria María Cumiquir Ñancupán, ascendente a la cantidad de $563.058. para el lote N° 9.
+
+Fiscal del Ministerio de Obras Públicas.
