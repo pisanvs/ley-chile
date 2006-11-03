@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 580 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 643, superficie 162 m2, Rol N° 32-558, comuna de Pichidegua, VI Región para la obra "Camino Conexión Vial Pichidegua-Las Cabras, sector San Roberto-El Toco-Ruta 66, tramo Km. 0,00000 al Km. 12,70000" y se acordó el valor de indemnización con su propietario Neftalí del Carmen Tobar Urbina, ascendente a la cantidad de $860.218.- para el lote N° 643.
+
+Fiscal del Ministerio de Obras Públicas.
