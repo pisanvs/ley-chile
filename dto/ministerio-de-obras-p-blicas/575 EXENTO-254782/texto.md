@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 575 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 10, superficie 1.148,4 m2, Rol N° 381-103, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Obra Canal California" y se acordó el valor de indemnización con su propietaria Luisa Quilacán Maricán, ascendente a la cantidad de $1.097.824.- para el lote N° 10.
+
+Fiscal del Ministerio de Obras Públicas.
