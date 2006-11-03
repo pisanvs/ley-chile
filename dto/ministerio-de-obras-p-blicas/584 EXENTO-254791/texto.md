@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 584 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 7, superficie 929 m2, Rol N° 308-13, comuna de Pitrufquén, IX Región para la obra "Camino Vialidad Complementaria Ruta 5 Sur, sector Calle de Servicio acceso Sur Poniente a Pitrufquén, Tramo Km. 2,37500 a Km. 3,98500", y se acordó el valor de indemnización con su propietario Andrés Segundo Carvajal Reuque, ascendente a la cantidad de $2.342.171.- para el lote N° 7.
+
+Fiscal del Ministerio de Obras Públicas.
