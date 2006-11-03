@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 577 de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno N°s. 27 y 27-A superficies 625 y 421 m2, Rol N° 512-189, comuna de Carahue, IX Región para la obra "Camino Ruta S-36, sector Tranapuente-Nehuentúe, tramo Km. 0,000 a Km. 9,997062, correspondiente al Subtramo I, Km. 0,000 a Km. 4,230" y se acordó el valor de indemnización con su propietario Lorenzo Segundo Llancaleo Torres, ascendente a la cantidad de $725.256.- para los lotes N°s. 27 y 27-A.
+
+Fiscal del Ministerio de Obras Públicas.
