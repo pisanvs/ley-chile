@@ -1,0 +1,3 @@
+Por decreto MOP Nº 875, de 29 de septiembre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote A, para la obra Reposición Caleta de Pescadores Guardiamarina Riquelme, que figura a nombre de Epi Sind Pesc Art GM Riquelme, rol de avalúo 193-00036, I Región, superficie 5992,63 M2. La Comisión de Peritos, en agosto de 2006, fijó el monto en la cantidad de $349.844.650. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
