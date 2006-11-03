@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 568 de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno N°s. 13-A y 13-B superficies 422 y 939 m2, Rol N° 267-93, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S46, sector Carahue- Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietario Emiliano Hernán Riffo Vergara ascendente a la cantidad de $676.108.- para los lotes N°s. 13-A y 13-B.
+
+Fiscal del Ministerio de Obras Públicas.
