@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 590 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 4, superficie 192 m2, Rol N° 861-16, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, sector Alto del Carmen-Conay, Km. 0,000 - 19,500, Provincia de Huasco, III Región Etapa I", y se acordó el valor de indemnización con su propietario Sociedad Agrícola y Comercial El Terrón Limitada o El Terrón Ltda., ascendente a la cantidad de $382.985.
+
+Fiscal del Ministerio de Obras Públicas.
