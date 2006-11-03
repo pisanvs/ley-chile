@@ -1,0 +1,3 @@
+Por decreto MOP Nº 808 de 25 de septiembre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3 para la obra: Habilitación Avda. Circunvalación Río Claro en Talca, Avenida Lircay, que figura a nombre de Méndez Concha Oscar René, rol de avalúo 3707-25, de la Comuna de Talca, VII Región, superficie 1.169,38. La Comisión de Peritos con fecha 8 de junio de 2005, fijó el monto de la indemnización provisional en la cantidad de $17.122.560.- para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
