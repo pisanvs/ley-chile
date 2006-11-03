@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 583 de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno N°s. 62 y 64, superficies 200 y 56 m2, Rol N° 223-220, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, sector Cañete-Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario José Rodolfo Jaque Jaque, ascendente a la cantidad de $478.217.
+
+Fiscal del Ministerio de Obras Públicas.
