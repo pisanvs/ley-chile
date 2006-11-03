@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 588 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 76, superficie 98 m2, Rol N° 221-118, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, sector Cañete-Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario René Yévenes Provoste, ascendente a la cantidad de $55.140.
+
+Fiscal Ministerio de Obras Públicas.
