@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 592 de fecha 31 de agosto del 2006, se expropiaron los lotes de terrenos N°s. 11, 13, 14, 15 y 17, superficies 46, 932, 190, 80 y 250 m2, Rol N° 421-37, comuna de Illapel, IV Región para la obra "Construcción Variante, sector Cruce D-37-E (Limahuida)-Cruce Ruta D-81 (Peralillo), Km. 0,000.00 al Km. 6,17679" y se acordó el valor de indemnización con su propietaria Carmen Laura Romero Paz y otros, ascendente a la cantidad de $3.822.168.- para los lotes Nºs. 11, 13, 14, 15 y 17.
+
+Fiscal del Ministerio de Obras Públicas.
