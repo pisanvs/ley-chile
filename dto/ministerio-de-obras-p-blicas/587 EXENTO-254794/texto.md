@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 587 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 13, superficie 1.047 m2, Rol N° 309-71, comuna de Pitrufquén, IX Región para la obra "Camino Vialidad Complementaria Ruta 5 Sur, sector Calle de Servicio acceso Sur Poniente a Pitrufquén, Tramo Km. 2,37500 al Km. 3,98500" y se acordó el valor de indemnización con su propietario Juan Eduardo Curihual Llancavil, ascendente a la cantidad de $2.967.558.- para el lote N° 13.
+
+Fiscal del Ministerio de Obras Públicas.
