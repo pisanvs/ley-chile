@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 570 de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno N°s. 3 y 3-C, superficies 245.67 y 130 m2, Rol N° 27-17, comuna de Paredones, VI Región para la obra "Camino Paredones-La Quesería, sector Puente La Quesería, Tramo Km. 0,00000 al Km. 0,43599" y se acordó el valor de indemnización con su propietario Francisco René Fuenzalida Chávez, ascendente a la cantidad de $1.122.734.- para los lotes N°s. 3 y 3-C.
+
+Fiscal del Ministerio de Obras Públicas.
