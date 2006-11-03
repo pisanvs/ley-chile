@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 573 de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno N°s. 55 y 55-A, superficies 611,75 y 73,67 m2, Rol N° 55720, comuna de Linares, para la obra "Camino Conservación Ruta L-45, sector Escuela Llepo-Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446" y se acordó el valor de indemnización con su propietario Juan Luis Méndez Leiva, ascendente a la cantidad de $428.630.
+
+Fiscal del Ministerio de Obras Públicas.
