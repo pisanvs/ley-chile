@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 576 de fecha 31 de agosto del 2006, se expropió el lote de terreno N° 26, superficie 171 m2, Rol N° 42-66, comuna de Paredones, VI Región para la obra "Camino Ruta Costera sector Cahuil-Bucalemu, Tramo Km. 3,70430 al Km. 23,29585" y se acordó el valor de indemnización con su propietario Sociedad Forestal Nilahue S.A., ascendente a la cantidad de $539.916.- para el lote Nº 26.
+
+Fiscal del Ministerio de Obras Públicas.
