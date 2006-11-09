@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.955, de 23 de octubre de 2006, de esta Subsecretaría, autorízase a HECTOR FREDDY ALDAY OLIVARES, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Vía 2, Manzana L, Bajo Molle, Iquique, I Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
