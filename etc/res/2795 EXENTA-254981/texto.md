@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.795, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a JUAN ALBERTO HIDALGO ARAYA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Barranquilla, comuna de Caldera, provincia de Copiapó, III Región, donde podrá elaborar en las líneas de proceso de Secado y Picado de algas los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
