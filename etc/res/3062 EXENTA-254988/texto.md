@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.062 de 2 de noviembre de 2006 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205106012 presentada por CRISTIÁN MARCELO FLORES ALMENDRAS, para instalar y operar un centro de cultivo ubicado en Canal Coldita, al suroeste de Punta Queupué, Isla Coldita, X Región.
+
+Valparaíso, 2 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
