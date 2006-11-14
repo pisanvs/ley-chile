@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.917 de 19 de octubre de 2006, de esta Subsecretaría, modifícase la resolución Nº 703, modificada por resoluciones Nº 1.305, Nº 1.811 y Nº 2.474, todas de 2006, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la captura de Anchoveta (Engraulis ringens) en el litoral de la Cuarta Región, Temporada 2006", en el sentido de incrementar en 1.500 toneladas de Anchoveta la cuota máxima total asignada a las embarcaciones artesanales autorizadas a participar en la citada pesca de investigación.
+
+Valparaíso, 19 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
