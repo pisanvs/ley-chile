@@ -1,0 +1,7 @@
+NOTIFICACION
+
+Resolución exenta Nº 7.057, 3 noviembre 2006 Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una franja de terreno comprendida en el polígono A-B-C-D-A, del Plano S8R-20.684 M, del inmueble ubicado en calle Nogueira s/n, Ranguelmo, de la comuna de Coelemu, rol de avalúo Nº s/n, comuna Coelemu, superficie afecta a expropiación de atributos de uso y goce 35,00 metros cuadrados de terreno y 23,68 metros cuadrados de edificación, de aparente dominio de Carlos Aurelio Reyes Jara, para ejecución proyecto
+
+"Urbanización Chile Barrio Asentamiento Santa Laura de Ranguelmo y 27 Entornos", Programa Chile Barrio, conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Marisa Perrín Costa, arquitecta, Gabriel Fernández de la Maza, ingeniero civil y Santiago Aptecar Nazer, arquitecto, según informe de fecha 3 de octubre 2006, fijó monto provisional indemnización en $298.770.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
