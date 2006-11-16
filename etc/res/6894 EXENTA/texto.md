@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 6.894, de 27 de octubre de 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en calle Los Gladiolos s/n, Ranguelmo, rol de avalúo s/n, de la comuna de Coelemu, superficie aproximada 81,35 metros cuadrados de terreno y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R-20.660 M, de aparente dominio de Moraga Carmen, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Santa Laura de Ranguelmo y 27 Entornos", Programa Chile Barrio, conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecta, y Gabriel Fernández de la Maza y Santiago Aptecar Nazer, arquitectos, según informe de fecha 3 de octubre de 2006, fijó monto provisional indemnización en $233.550,00.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
