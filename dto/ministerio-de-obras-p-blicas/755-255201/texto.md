@@ -1,0 +1,3 @@
+Por decreto MOP Nº 755 de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno Nºs 23, 24, 25, 26, 28 y 31, superficies 4.207, 1.795, 4.298, 1.461, 708 y 822 m2, rol Nº 171-10, comuna de Curarrehue, IX Región, para la obra "Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, sector Curarrehue-Puesco, Km 116,88000 a Km. 136,76000, tramo I, Km. 116,88000 a Km. 124,38000" y se acordó el valor de indemnización con su propietaria Silvia Oriana Torrealba Leimbach, ascendente a la cantidad de $21.296.170.- para los lotes Nºs. 23, 24, 25, 26, 28 y 31.
+
+Fiscal del Ministerio de Obras Públicas.
