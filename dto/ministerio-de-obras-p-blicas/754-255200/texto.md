@@ -1,0 +1,3 @@
+Por decreto MOP Nº 754, de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno Nºs. 23, 24 y 25, superficies 175.133, 560 y 86.723 m2, rol 144-1, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, provincia de Huasco, Región de Atacama, Etapa II", y se acordó el valor de indemnización con su propietaria Virginia Otto Vásquez y Otros, ascendente a la cantidad de $9.592.651.
+
+Fiscal del Ministerio de Obras Públicas.
