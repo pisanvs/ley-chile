@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 7.063, 3 de noviembre 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre faja de terreno de inmueble ubicado en Pasaje Uno s/n V. Sta. Laura, rol de avalúo Nº 224-34, comuna Coelemu, superficie 29,00 m² de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-20.669 M, de aparente dominio de Cupertina del Alarcón Fuentealba, para ejecución proyecto "Urbanización Chile Barrio, Asentamiento Santa Laura de Ranguelmo y 27 Entornos" Programa Chile Barrio, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecta, Gabriel Fernández de la Maza, ingeniero civil, Santiago Aptecar Nazer, arquitecto, según informe de fecha 3 de octubre 2006, fijó monto provisional indemnización en $89.692.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
