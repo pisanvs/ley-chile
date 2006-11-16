@@ -1,0 +1,5 @@
+Por decreto MOP Nº 617, de 26 de septiembre de 2006, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 26, para el "Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Av. Grecia. Sector 2: Ruta 5 -
+
+Av. General Velásquez", Región Metropolitana, que figura a nombre de Lydia de las Mercedes Eyzaguirre Avila y otros, sin rol de avalúo, comuna de Lo Espejo, superficie 12 m2. La comisión de peritos integrada por los señores Nicolás Fabián Romero Morales, Bárbara Claudia Goring Quiroz y Itsang Lu Chen, fijó con fecha 21 de julio de 2006, el valor provisional de la indemnización en la cantidad de $336.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
