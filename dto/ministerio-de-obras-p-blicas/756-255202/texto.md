@@ -1,0 +1,3 @@
+Por decreto MOP Nº 756, de fecha 31 de agosto del 2006, se expropiaron los lotes de terreno Nºs. 1 y 2, superficies 10.425 y 16.867 m2, rol Nº 112-30, comuna de Corral, X Región, para la obra "Emergencia Camino Corral-Chaihuin" y se acordó el valor de indemnización con su propietario Vicente Rivera Leal, ascendente a la cantidad de $57.377.642.- para los lotes Nºs. 1 y 2.
+
+Fiscal del Ministerio de Obras Públicas.
