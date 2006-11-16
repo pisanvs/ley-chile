@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 7.054, 3 noviembre 2006 Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una franja de terreno comprendida en el polígono A-B-C-D-A, del Plano S8R-20.681 M, del inmueble ubicado en Guarilihue Bajo, de la comuna de Coelemu, rol de avalúo Nº 212-73, comuna Coelemu, superficie afecta a expropiación de atributos de uso y goce 34,00 metros cuadrados de terreno y 0,0 metros cuadrados de edificación, de aparente dominio de José Santos Cabrera Fuentealba, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Santa Laura de Ranguelmo y 27 Entornos", Programa Chile Barrio, conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Marisa Perrín Costa, arquitecta, Gabriel Fernández de la Maza, ingeniero civil y Santiago Aptecar Nazer, arquitecto, según informe de fecha 3 de octubre 2006, fijó monto provisional indemnización en $129.272.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
