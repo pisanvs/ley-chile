@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.826, de 17 de octubre de 2006, de esta Subsecretaría, modifícase la resolución Nº1.197, de 2006, de esta Subsecretaría, que autorizó a JUAN CARLOS AGUILA AGUILA para instalar colectores de semillas de mitílidos en Estero Castro, sector sur de Punta Pello, X Región, en el sentido de ampliar el plazo de vigencia que en ella aparece por un período de seis meses contados desde el 4 de noviembre de 2006.
+
+Valparaíso, 17 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
