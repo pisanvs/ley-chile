@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.866, de 18 de octubre de 2006, de esta Subsecretaría, autorízase a LUIS DANIEL PINO DIAZ para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en camino Paillao, parcela Nº 35, Valdivia, X Región, donde podrá elaborar en la línea de proceso de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
