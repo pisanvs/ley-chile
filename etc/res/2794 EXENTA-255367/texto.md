@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.794, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a HUGO VALERIO CORTES PASTEN para iniciar actividades pesqueras de transformación en orden a instalar y operar una planta ubicada en Las Cañas Sur, Km. 33, colindante carretera Illapel, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Seco salado, Alga seca y Picado de algas los recursos hidrobiológicos indicados en la resolución extractada.
+
+Deniégase la solicitud presentada por el peticionario para procesar en la línea de proceso Harina el recurso hidrobiológico Cochayuyo, en virtud de lo dispuesto por los D.S. Nº 316 de 1985, Nº 423 de 2001, Nº 120 de 2003, y Nº 169 de 2004, todos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
