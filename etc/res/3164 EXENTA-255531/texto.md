@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.164, de 16 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111033, presentada por SOCIEDAD DE INVERSIONES CAIQUENES LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Alejandro, al noreste de Península de Taitao, XI Región.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
