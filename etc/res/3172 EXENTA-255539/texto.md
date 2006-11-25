@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.172, de 16 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101333, presentada por Yessica Maribel Cárcamo Chávez, Javier Alejandro Cárcamo Chávez, Luis Cristián Cárcamo Chávez y Claudio Agustín Cárcamo Chávez, para instalar y operar un centro de cultivo ubicado en Seno Reloncaví, sector Bahía Lenca, X Región.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
