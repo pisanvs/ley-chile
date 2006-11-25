@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.157, de 16 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202103132 presentada por SOCIEDAD PESQUERA EMAR LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Chaulinec, al norte de Punta Huelmo, Isla Chaulinec, X Región.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
