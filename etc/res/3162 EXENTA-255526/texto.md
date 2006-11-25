@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.162, de 16 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111035, presentada por SOCIEDAD DE INVERSIONES CAIQUENES LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Alejandro, al sur de Isla Salas, sector 2, XI Región.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
