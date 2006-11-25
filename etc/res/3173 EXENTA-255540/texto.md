@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.173, de 16 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111116, presentada por Sociedad de Acuicultura RIo Huemules Limitada, para instalar y operar un centro de cultivo ubicado en canal Bynon, lado noroeste de Isla Jorge, XI Región.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
