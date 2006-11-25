@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.942, de 23 de octubre de 2006, de esta Subsecretaría, autorízase a FERNANDO EDUARDO COHN VALENZUELA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Pasaje Lovera s/nº, El Arenal, Salida Norte, Valdivia, X Región, donde podrá elaborar en las líneas de proceso de Ahumado, Fresco-Enfriado y Fresco-Refrigerado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
