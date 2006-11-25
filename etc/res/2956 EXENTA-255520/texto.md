@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.956, de 23 de octubre de 2006, de esta Subsecretaría, modifícase la resolución Nº 1.321, de 2006, de esta Subsecretaría, que autorizó a Francisco Alberto ChAvez CatepillAn, para instalar colectores de semillas de Mitílidos en sector norte de Punta Dequio I, X Región, en el sentido de ampliar el plazo vigencia por un período de seis meses contados desde el 18 de noviembre de 2006.
+
+Valparaíso, 23 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
