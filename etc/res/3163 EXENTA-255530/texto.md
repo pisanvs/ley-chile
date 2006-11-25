@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.163, de 16 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111025, presentada por SOCIEDAD DE INVERSIONES CAIQUENES LIMITADA, para instalar y operar un centro de cultivo ubicado en canal sin nombre, al este de Punta Francisco, Península de Taitao, XI Región.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
