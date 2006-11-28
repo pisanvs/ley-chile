@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.790, de 10 de octubre de 2006, de esta Subsecretaría, autorízase a CAROLINA MATURANA ESTELLE EXPORTACION, IMPORTACION, COMERCIALIZACION Y DISTRIBUCION DE BIENES Y SERVICIOS EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en kilómetro 8-9 s/n, Ruta Nº B1, carretera acceso Taltal, II Región, donde podrá elaborar en la línea de proceso de Alga Seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de octubre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
