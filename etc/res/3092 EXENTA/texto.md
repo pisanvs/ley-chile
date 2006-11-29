@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.092, del 10 de noviembre de 2006, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 2.809 de 2006, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LTDA. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Obtención de antecedentes biológico-pesqueros de Anchoveta (Engraulis ringens) y Sardina común (Strangomera bentincki) en aguas marítimas de la IX Región, a partir de la captura de cuota de investigación asignada", en el sentido de reemplazar la embarcación artesanal "El Bela" por la nave "La Jibia".
+
+Valparaíso, 10 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
