@@ -1,0 +1,11 @@
+Por resolución exenta Nº 3.091, de 10 de noviembre de 2006, de esta Subsecretaría, autorízase al INSTITUTO DE INVESTIGACIÓN PESQUERA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2006-05 denominado "Condición Biológica de Jurel en Altamar, año 2006". El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en estimar índices relativos de abundancia de huevos y larvas de Jurel en el sector oceánico de Chile centro-sur y caracterizar las agregaciones del recurso en el área, durante el período de máxima actividad reproductiva.
+
+La pesca de investigación que se autoriza se efectuará en el área marítima comprendida desde la latitud 32º L. S. hasta los 39º L. S., por fuera del área de reserva artesanal hasta los 92º W, frente a la costa de Chile, entre la fecha de la presente resolución y hasta el 31 de diciembre de 2006, ambas fechas inclu-sive.
+
+En la pesca de investigación que se autoriza, participarán las siguientes naves industriales que cuentan con autorización vigente para operar en las unidades de pesquería de la especie Jurel de la V a la X Región, "Gualpén", "Malleco", "Toyita", "Ranquilhue", "Don Tito", "Don Telésforo", "Mack", "Allipen I", "Gardar" y "Matías".
+
+En cumplimiento del objetivo de la presente pesca de investigación, cada una de las naves industriales podrá extraer, en el área marítima y durante el período indicado en el numeral 3º de la presente resolución, una cuota máxima total ascendente a 1.000 toneladas del recurso Jurel. Las capturas antes señaladas se imputarán a la fracción autorizada para ser extraída con fines de investigación de la cuota global anual de captura establecida para las unidades de pesquería del recurso Jurel.
+
+El Instituto designa como persona responsable de esta pesca de investigación a su Director, don Aquiles Sepúlveda Oróstica.
+
+Valparaíso, 10 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S)
