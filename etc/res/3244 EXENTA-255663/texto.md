@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.244, de 23 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111212 presentada por COMPAÑIA PESQUERA CAMANCHACA S.A., para instalar y operar un centro de cultivo ubicado en canal Pérez Norte, al oeste de Isla Sin Nombre, XI Región. Valparaíso, 23 de noviembre de 2006.
+
+María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
