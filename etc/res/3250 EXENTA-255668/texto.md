@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.250, de 23 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111117 presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado al sur de Isla Sin Nombre, al noreste de Isla Williams, XI Región.
+
+Valparaíso, 23 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
