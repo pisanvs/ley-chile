@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.251, de 23 de noviembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101344 presentada por FRANCISCO GONZALO ROMERO MUÑOZ, para instalar y operar un centro de cultivo ubicado en Estero Reloncaví, sector norte de Punta Relonhué, X Región.
+
+Valparaíso, 23 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
