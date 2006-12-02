@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº791, de fecha 31 de octubre del 2006, se expropió el lote de terreno Nº45, superficie 272,61 m², Rol Nº251-175, comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario Fernando del Carmen Briceño Maldonado, ascendente a la cantidad de $1.416.678.- para el lote Nº45.
+
+Fiscal del Ministerio de Obras Públicas.
