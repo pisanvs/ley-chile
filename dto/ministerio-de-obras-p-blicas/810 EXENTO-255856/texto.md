@@ -1,0 +1,3 @@
+Por decreto exento Nº810, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº35-B, para la obra: Camino Ruta-7, Sector Chamiza-Quillaipe, Km. 4,83687 a Km. 15,84700, que figura a nombre de Uribe Otarzun Ana María, rol de avalúo 2204-49, comuna de Puerto Montt, superficie 781 m2. La Comisión de Peritos, fijó con fecha 5 de enero de 2005, en la cantidad de $2.343.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
