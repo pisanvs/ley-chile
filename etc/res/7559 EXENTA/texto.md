@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº7.559, de 21 de noviembre de 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en Santa Regina, comuna de Pinto, Rol de Avalúo Nº 153-15, comuna de Pinto, superficie aproximada 155,70 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R-20.914, de aparente dominio de Troncoso Riquelme, José y otro para ejecución proyecto "Urbanización Pinto Oriente y Poniente y Construcción 83 Entornos Chile Barrio", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y DL. 2.186. Comisión Peritos integrada por Marisa Perrín Costa, arquitecta, y Gabriel Fernández de la Maza y Santiago Aptecar Nazer, arquitectos, según informe de fecha 20 de octubre de 2006, fijó monto provisional indemnización en $786.105, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
