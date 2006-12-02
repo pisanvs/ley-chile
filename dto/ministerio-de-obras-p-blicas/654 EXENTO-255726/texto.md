@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº654, de fecha 29 de septiembre del 2006, se expropió el lote de terreno Nº4 superficie 1.669 m², Rol Nº248-22, comuna de Salamanca, IV Región, para la obra "Sistema Regadío Valle del Choapa", Obra: "Descarga de Emergencia Nocuy, Canal Alimentador Embalse Corrales", y se acordó el valor de indemnización con su propietario Augusto del Carmen Leiva Ossandón, ascendente a la cantidad de $786.366.- para el lote Nº4.
+
+Fiscal del Ministerio de Obras Públicas.
