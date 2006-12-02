@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.011, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió para Aguas Andinas S.A. el lote de terreno Nº1 para la obra: Planta Abastecimiento de Agua Potable, Pozo Nº175 Lo Valledor, que figura a nombre de Caja de la Habitación, Rol de avalúo 6079-34, Comuna de Pedro Aguirre Cerda, Región Metropolitana, superficie 123,3 M². La Comisión de Peritos fijó con fecha 5 de diciembre de 2005 en la cantidad de $3.326.956 para el lote 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
