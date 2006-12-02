@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 6.978, 31 de octubre 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre faja de terreno de inmueble ubicado en Pasaje Uno s/n V. Sta. Laura, rol de avalúo Nº 224-32, comuna Coelemu, superficie 83,70 m2 de terreno y 11,0 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-20.671M, de aparente dominio de Julio Eustaquio Eriz Monsálvez, para ejecución proyecto "Urbanización Chile Barrio, Asentamiento Santa Laura de Ranguelmo y 27 Entornos" Programa Chile Barrio, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por Marisa Perrín Costa, arquitecta; Gabriel Fernández de la Maza, ingeniero civil, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 3 de octubre 2006 fijó monto provisional indemnización en $384.428, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
