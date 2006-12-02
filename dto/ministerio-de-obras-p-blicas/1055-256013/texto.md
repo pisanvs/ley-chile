@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.055, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1-F, para la obra Camino Ruta 7 (Longitudinal Austral), sector Ex Pozos de Empréstitos, Km. 0,000 a Km. 13,07086, que figura a nombre de Hausdorf Niklitschek José H., rol de avalúo 203-61, comuna de Chaitén, X Región, superficie 70 m2. La Comisión de Peritos, fijó con fecha 11 de marzo de 2002, en la cantidad de $17.187.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
