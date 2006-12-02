@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.014, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº15 para la obra: "Mejoramiento del Cauce del Estero Las Cruces", que figura a nombre de Corpbanca, Rol de avalúo 118-135, Comuna de Quilicura, Región Metropolitana, superficie 547,3 m². La Comisión de Peritos fijó con fecha 26 de septiembre de 2006 en la cantidad de $24.628.500 para el lote Nº15. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
