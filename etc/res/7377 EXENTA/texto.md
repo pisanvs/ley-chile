@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 7.377, 15 noviembre 2006, de Serviu Región del Bío Bío, ordenó expropiación parcial atributos de uso y goce sobre franja de terreno de 89,00 m2, sin edificación, singularizada como polígono "A-B-C-D-A" en plano expropiación S8R-20.665M, de inmueble de mayor cabida ubicado en calle Los Copihues st 1, mz D, comuna Coelemu, rol avalúo Nº 00224-00023 de Coelemu, terreno afecto a expropiación parcial de aparente dominio de José M. Parra Aguilera, para ejecución obras en Asentamiento Ranguelmo Programa Chile Barrio, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por Santiago Aptecar Nazer, arquitecto; Gabriel Fernández de la Maza, ingeniero civil, y Marisa Perrín Costa, arquitecta, según informe tasación de 3 octubre 2006, fijó monto provisional indemnización en $263.472, y pagadera de contado a expropiada.
+
+Director Serviu Región del Bío Bío.
