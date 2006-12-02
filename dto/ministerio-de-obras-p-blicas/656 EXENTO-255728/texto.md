@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº656 de fecha 29 de septiembre del 2006, se expropió el lote de terreno Nº47, superficie 377,86 m², Rol Nº251-99, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca Km. 13,14000 a Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietaria Ana Luisa González Quiroz, ascendente a la cantidad de $1.416.346.- para el lote Nº47.
+
+Fiscal del Ministerio de Obras Públicas.
