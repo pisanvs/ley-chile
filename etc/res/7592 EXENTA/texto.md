@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 7.592, 22 noviembre 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una franja de terreno comprendida en el polígono A-B-C-D-E-A, del plano S8R-20.916, del inmueble ubicado en Rosal Bajo lote ABC, de la comuna de Pinto, rol de avalúo Nº 153-30, comuna Pinto, superficie afecta a expropiación de atributos de uso y goce 443 metros cuadrados de terreno y 0,0 metros cuadrados de edificación, de aparente dominio de Diego Antonio Utreras Pérez, para ejecución proyecto "Urbanización Pinto Oriente y Poniente y Construcción de 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por Marisa Perrín Costa, arquitecta, Gabriel Fernández De la Maza, ingeniero civil, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 20 de octubre de 2006, fijó monto provisional indemnización en $1.561.550.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
