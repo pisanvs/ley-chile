@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº778 de fecha 31 de agosto del 2006, se expropió el lote de terreno Nº700-12, superficie 476 m2, Rol Nº968-49, comuna de Paine, Región Metropolitana para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca Sector C: Acceso Sur a Santiago. Km. 17.700,00 al Km. 46.600,00", y se acordó el valor de indemnización con su propietaria Vitalicia del Carmen Vilo Fuentes, ascendente a la cantidad de $1.162.570.
+
+Fiscal del Ministerio de Obras Públicas.
