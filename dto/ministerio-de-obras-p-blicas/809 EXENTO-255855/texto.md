@@ -1,0 +1,5 @@
+Por decreto exento Nº809, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1, 2 y 3, para la obra: Reposición Puente Milildeo. Camino Huillinco - Cucao, W-850, que figuran a nombre de Invertec Pesquera Mar de Chiloé S.A. y Marquez Báez José Baldovino, roles de avalúo 153-103 y 150-27, comuna de Chonchi, superficies 111,20 m2.; 98,6 m2. y 110,3 m2. La Comisión de Peritos, fijó con fecha 6 de agosto de 2004, en las cantidades de $111.200, para el lote Nº1;
+
+$98.600, para el lote Nº2 y $110.300, para el lote Nº3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
