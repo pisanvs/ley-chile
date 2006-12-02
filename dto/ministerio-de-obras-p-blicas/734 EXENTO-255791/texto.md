@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº734, de 24 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra: "Acceso Embarcadero Santa María (Lago Budi) Km. 0,00000 a Km. 0,33700", que figura a nombre de Paillán Huenten Emilio, rol de avalúo Nº577-258, Comuna de Saavedra, IX Región, superficie 2.649 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 22 de junio de 2006, en la cantidad de $1.006.620.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
