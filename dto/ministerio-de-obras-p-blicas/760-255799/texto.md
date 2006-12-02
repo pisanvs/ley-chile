@@ -1,0 +1,3 @@
+Por decreto MOP Nº760, de fecha 31 de agosto del 2006, se expropió el lote de terreno Nº204-16, superficie 64,6 m², Rol Nº6323-29, comuna de La Granja, Región Metropolitana, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca Sector A: Acceso Sur a Santiago. Km. -0.150,00 al Km. 10.986,00", y se acordó el valor de indemnización con su propietaria Ernestina del Carmen Erices Cifuentes, ascendente a la cantidad de $16.191.197.
+
+Fiscal del Ministerio de Obras Públicas.
