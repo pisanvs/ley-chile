@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº720, de 24 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 1 y 33-b, para la obra: Camino Ruta I-512 Sector La Capilla - Lo Valdivia - Boyeruca, Tramo: Km.
+
+0,0000 a Km. 7,00499, que figuran a nombre de Luis Rubio y Cáceres Tomás Suc, roles de avalúo en trámite y 33-43, Comuna de Paredones, VI Región, superficies 54 y 240 m2, respectivamente. La Comisión de Peritos fijó con fecha 30 de enero de 2006 el monto de la indemnización provisional en la cantidad de $538.200.- lote Nº1 y $1.657.000.- para el lote Nº33-b. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
