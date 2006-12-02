@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 6.979, 31 de octubre 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre faja de terreno de inmueble ubicado en Los Cipreses Lt. 19, rol de avalúo Nº 1213-10, comuna Coelemu, superficie 27 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-20.673 m, de aparente dominio de Pedro Segundo Cáceres Soto, para ejecución proyecto "Urbanización Chile Barrio, Asentamiento Santa Laura de Ranguelmo y 27 Entornos" Programa Chile Barrio, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por Marisa Perrín Costa, arquitecta, Gabriel Fernández de la Maza, ingeniero civil, Santiago Aptecar Nazer, arquitecto, según informe de fecha 3 de octubre 2006, fijó monto provisional indemnización en $103.096.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
