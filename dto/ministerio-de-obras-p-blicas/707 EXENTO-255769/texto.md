@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº707, de 24 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº239, para la obra: "Camino Ruta S-790, sector Nueva Toltén - Límite Regional (Queule), tramo Km.
+
+87,50000 a Km. 103,33500, Sub-tramo V, Km. 98,29000 a Km. 103,33500", que figura a nombre de Machuca Flores Etelvina, rol de avalúo Nº228-114, Comuna de Toltén, IX Región, superficie 405 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 27 de diciembre de 2003, en la cantidad de $640.125.- para el lote Nº239. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
