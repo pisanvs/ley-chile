@@ -1,0 +1,5 @@
+Por decreto MOP Nº1.043 de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropiaron los lotes de terreno Nº25, 27 y 29 para la obra: "Mejoramiento del Cauce del Estero Las Cruces", que figuran a nombre de CMPC Tissue S.A., CMPC Tissue S.A., roles de avalúo 118-155, 118-154, 118-153, Comuna de Quilicura, Región Metropolitana, superficies 104,1; 158,1; 1.358 m². La Comisión de Peritos, fijó con fecha 26 de septiembre de 2006, en la cantidad de $3.747.600.-, para el lote Nº25;
+
+$5.691.600.-, para el lote Nº27; $40.740.000.-, para el lote Nº29. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
