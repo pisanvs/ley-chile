@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº718 de 24 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº40 para la obra: Camino Ruta L-202, Sector Villa Alegre - Putagán, km. 0,00000 a km. 11,44287, que figura a nombre de Sáez Salgado Carlos Enrique, rol de avalúo 240-4, de la Comuna de Villa Alegre, VII Región, superficie 316 m². La Comisión de Peritos con fecha 18 de enero de 2006, fijó el monto de la indemnización provisional en la cantidad de $663.000.- lote Nº40. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
