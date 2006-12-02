@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº803, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº53, para la obra: "Camino Ruta S-790, Sector Nueva Toltén-Límite Regional (Queule), Tramo Km.
+
+71,46676 al Km. 87,50000, Sub. Tramo II Km. 80,55700 al Km. 87,50000", que figura a nombre de Curín Pedro Segundo, rol de avalúo Nº231-107, Comuna de Toltén, IX Región, superficie 735 m². La Comisión de Peritos, fijó con fecha 24 de febrero de 2003 el monto provisional de la indemnización, en la cantidad de $438.000.- para el lote Nº53. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
