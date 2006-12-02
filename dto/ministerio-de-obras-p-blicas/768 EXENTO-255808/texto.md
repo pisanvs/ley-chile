@@ -1,0 +1,3 @@
+Por decreto exento Nº768, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº12-A, para la obra: Camino Niebla - Los Molinos, Ruta T-352, Sector Niebla - Los Molinos, Tramo Km. 0,000 al Km. 3,800, que figura a nombre de Sanhueza Jara Héctor Santiago, rol de avalúo 2453-107, comuna de Valdivia, superficie 6 m². La Comisión de Peritos, fijó con fecha 2 de abril de 2005, fijó el, monto de la indemnización provisional en la cantidad de $154.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo, 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
