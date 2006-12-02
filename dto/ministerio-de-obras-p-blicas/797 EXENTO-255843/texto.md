@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº797, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 11, 15 y 17, para la obra Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales, Proyecto Faja Maisan, IX Región, "Canal Mapu Quimey", que figuran a nombre de Ancan María, Babileck Druding Heriberto y Suc. Sauterel Saravia Rodolfo, roles de avalúo Nºs 381-199, 381-61 y 381-282, Comuna de Pitrufquén, IX Región, superficies 1.963 m2, 2.814 m2 y 3.133 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 4 de octubre de 2006 en la cantidad de $ 1.313.800.- para el lote Nº11;
+
+$2.045.900.- para el lote Nº15 y $2.254.610.- para el lote Nº17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
