@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº661 de fecha 29 de septiembre del 2006, se expropiaron los lotes de terreno Nos 59-A, 60, 61 y 62, superficies 185, 889, 2.693 y 826 m², Rol Nº170-17, comuna de Curarrehue, IX Región para la obra "Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, sector Curarrehue - Puesco, Km. 116,88000 a Km. 136,76000, tramo II, Km. 124,38000 a Km. 130,34000", y se acordó el valor de indemnización con su propietario Roberto Caro Aravena, ascendente a la cantidad de $5.361.752.- para los lotes Nos 59-A, 60, 61 y 62.
+
+Fiscal del Ministerio de Obras Públicas.
