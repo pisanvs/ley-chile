@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº709, de 24 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº10-A, para la obra: "Mejoramiento Ruta Q-503, Los Ángeles - El Peral", que figura a nombre de Suc Lang Escobar Norman, rol de avalúo Nº1535-33, Comuna de Los Ángeles, VIII Región, superficie 422 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 8 de abril de 2005, en la cantidad de $1.603.600.- para el lote Nº10-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
