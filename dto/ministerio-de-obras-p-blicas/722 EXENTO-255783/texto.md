@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº722, de 24 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra: "Mejoramiento Trazado - Ruta Interlagos, Camino Cajón - Refugio Llaima, Sector Km.
+
+47,59000 al Km. 47,90400", que figura a nombre de Heresi Ananías Juan Felipe, rol de avalúo Nº301-51, Comuna de Vilcún, IX Región, superficie 3.412 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 19 de junio de 2006, en la cantidad de $1.664.800.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
