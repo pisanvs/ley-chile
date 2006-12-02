@@ -1,0 +1,5 @@
+Por decreto exento Nº782, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 7, 8, 12, 13 y 24, para la obra: Reposición Ruta E-30-F, sector Zapallar - La Laguna, Km. 22,80733 a Km.
+
+36,23097, que figuran a nombre de Comunidad Ossandón Guzmán, Aubert Ossandón Carlos, Díaz Valdés Vergara Roberto y Ossandón Gutiérrez Luis Felipe, roles de avalúo 3-01, 3-35, 3-33 y 50-299, comuna de Zapallar, V Región, superficies 30,84 m2., 38,80 m2., 63,79 m2., 9,57 m2. y 37,62 m2. La Comisión de Peritos, fijó con fecha 17 de junio de 2006, en las cantidades de $1.524.800, para el lote Nº7, $2.145.800, para el lote Nº8, $2.685.190, para el lote Nº12, $838.870, para el lote Nº13 y $2.076.144, para el lote Nº24. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
