@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 7.591, 22 noviembre 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una franja de terreno comprendida en el polígono A-B-C-D-A, del Plano S8R-20.918, del inmueble ubicado en Santa Regina, de la comuna de Pinto, rol de avalúo Nº 153-15, comuna Pinto, superficie afecta a expropiación de atributos de uso y goce 249,5 metros cuadrados de terreno y 0,0 metros cuadrados de edificación, de aparente dominio de José Troncoso Riquelme y Otro, para ejecución proyecto "Urbanización Pinto Oriente y Poniente y Construcción de 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por Marisa Perrín Costa, arquitecta, Gabriel Fernández De la Maza, ingeniero civil, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 20 de octubre de 2006, fijó monto provisional indemnización en $1.131.800.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
