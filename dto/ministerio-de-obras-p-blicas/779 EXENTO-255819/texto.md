@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº779, de fecha 31 de octubre del 2006, se expropió el lote de terreno Nº36, superficie 249,4 m², Rol Nº45-302, comuna de Monte Patria, IV Región, para la obra "Camino Ruta D-557, Juntas - Central - Los Molles, Sector Juntas - Rapel, Km. 0,00000 a Km. 13,28846, I Etapa" y se acordó el valor de indemnización con su propietario Comité Pro-Casa Los Padres de Cerrillos de Rapel, ascendente a la cantidad de $727.515.- para el lote Nº36.
+
+Fiscal del Ministerio de Obras Públicas.
