@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº657 de fecha 29 de septiembre de 2006, se expropiaron los lotes de terreno Nºs. 210 y 211, superficies 2.244,00 y 1.514,00 m², Rol Nº114-13, comuna de Queilen, X Región para la obra "Camino Ruta W-853, Teupa-Queilen, Sector Santa María-Queilen, Tramo Km. 25,96000 al Km. 42,34833" y se acordó el valor de indemnización con su propietaria Nuri Mireya Reuquen Segovia, ascendente a la cantidad de $1.290.966.- para los lotes Nºs. 210 y 211.
+
+Fiscal del Ministerio de Obras Públicas.
