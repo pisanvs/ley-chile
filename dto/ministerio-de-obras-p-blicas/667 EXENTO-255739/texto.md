@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº667 de fecha 29 de septiembre del 2006, se expropiaron los lotes de terreno Nºs. 65, 66, 68, 70 y 71, superficies 127,00; 1.145,00; 476,00; 1.193,00 y 247,00 m², Rol Nº177-66, comuna de Curepto, para la obra "Camino Ruta K-16, Sector Curepto - Puente Lautaro Tramo Km. 73,30000 al Km. 81,91430", y se acordó el valor de indemnización con su propietario Vicente Grimaldi Antonio Poblete Gajardo y Otro, ascendente a la cantidad de $3.479.679.
+
+Fiscal del Ministerio de Obras Públicas.
