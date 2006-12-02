@@ -1,0 +1,5 @@
+Por decreto exento Nº1.019, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº115-R1, para la obra: Mejoramiento Ruta 7, sector Quillaipe - La Arena, Tramo Km. 15,84700 a Km.
+
+40,41746, que figura a nombre de Villarroel Andrade María Agusti, rol de avalúo 2207-180, provincia de Llanquihue, comuna de Puerto Montt, superficie 504 m². La Comisión de Peritos, fijó con fecha 29 de noviembre de 2005, complementada por acta de fecha 14 de julio de 2006, en la cantidad de $10.156.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
