@@ -1,0 +1,5 @@
+Por decreto MOP Nº903, de 23 de octubre de 2006 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº118 para el "Proyecto: Camino Internacional Ruta 60 CH. Sector 1:
+
+Km. 0.000,00 al Km. 53.779,50. Tramo 2: Km. 19.500,00 al Km. 46.100,00", Quinta Región, que figura a nombre de Alegría Olave Hugo Fisco, rol de avalúo 49-83, comuna de San Felipe, superficie 18.218 m2. La comisión de peritos integrada por los señores José Cristián Larraín Barros, María Isabel Ríos Marcuello y María Angélica Hurtado Arranz, fijó con fecha 6 de septiembre de 2006 el valor provisional de la indemnización en la cantidad de $53.840.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
