@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº685, de 23 de octubre de 2006 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº35 para el "Proyecto: Camino Internacional Ruta 60 CH. Sector 1:
+
+Km. 0.000,00 al Km. 53.779,50. Tramo 1: Km. 0.000,00 al Km. 19.500,00", Quinta Región, que figura a nombre de Avendano Phillips María Cristi, rol de avalúo 504-11, comuna de Los Andes, superficie 46 m2. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Ricardo Antonio Strickler Arellano y Eduardo Alejandro Silva Aracena, fijó con fecha 28 de agosto de 2006 el valor provisional de la indemnización en la cantidad de $184.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
