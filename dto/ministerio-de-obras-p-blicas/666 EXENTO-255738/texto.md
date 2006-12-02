@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº666, de fecha 29 de septiembre del 2006, se expropió el lote de terreno Nº82-A, superficie 100,49 m², Rol Nº260-562, comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietaria Carmensa del Rosario Astorga Santana, ascendente a la cantidad de $128.176.
+
+Fiscal del Ministerio de Obras Públicas.
