@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.053 de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº16 para la obra: "Mejoramiento del Cauce del Estero Las Cruces", que figura a nombre de Soc. de Inversiones Alida Ulgini, rol de avalúo 182-21, Comuna de Quilicura, Región Metropolitana, superficie 223,8 m². La Comisión de Peritos, fijó con fecha 26 de septiembre de 2006, en la cantidad de $14.468.400.-, para el lote Nº16. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
