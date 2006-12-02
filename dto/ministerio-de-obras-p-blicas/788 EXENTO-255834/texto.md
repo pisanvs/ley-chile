@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº788, de fecha 31 de octubre del 2006, se expropiaron los lotes de terreno Nºs. 85 y 88, superficies 390,52 y 187,71 m², Rol Nº260-47 comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietario Oscar Ramiro Cerda Orrego, ascendente a la cantidad de $1.028.052.
+
+Fiscal del Ministerio de Obras Públicas.
