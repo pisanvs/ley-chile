@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº792 de fecha 31 de octubre del 2006, se expropió el lote de terreno Nº212, superficie 663 m², Rol Nº430-12, comuna de Buin, Región Metropolitana para la obra "Camino Ruta G-46, Cruce Long (Paine) - Talagante, Sector Puente la Puntilla - Cruce Ruta G-40, Puente Sobre Río Maipo, Sector La Puntilla", y se acordó el valor de indemnización con su propietario Francisco Eugenio Bello Díaz, ascendente a la cantidad de $2.439.280.
+
+Fiscal del Ministerio de Obras Públicas.
