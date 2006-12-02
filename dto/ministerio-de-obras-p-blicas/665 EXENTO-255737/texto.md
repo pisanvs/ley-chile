@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº665, de fecha 29 de septiembre del 2006, se expropiaron los lotes de terreno Nºs. 34, 35, 36, 37, 39, 41 y 42, superficies 637, 240, 415, 148, 373, 327 y 136 m², Rol Nº223-4, comuna de Cañete, VIII Región, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario Ramón Cáceres Toro, ascendente a la cantidad de $1.416.634.
+
+Fiscal del Ministerio de Obras Públicas.
