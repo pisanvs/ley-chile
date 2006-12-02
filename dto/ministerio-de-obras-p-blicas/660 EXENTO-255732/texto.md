@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº660 de fecha 29 de septiembre del 2006, se expropiaron los lotes de terreno Nºs. 4, 1-A y 4-A, superficies 1.167, 437,88 y 166 m², Rol Nº428-128, comuna de Cauquenes, VII Región para la obra "Proyecto Mejoramiento Ruta M-830, Sector: Cauquenes - Sta. Sofía, Km. 1,200 al Km. 5,100" y se acordó el valor de indemnización con su propietario Alfonso María Quiroz Arriagada, ascendente a la cantidad de $5.136.643.- para los lotes Nºs 4, 1-A y 4-A.
+
+Fiscal del Ministerio de Obras Públicas.
