@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 7.381, 15 noviembre 2006, de Serviu Región del Bío Bío, rectificada por la resolución exenta Nº 7.547 de 21 de noviembre 2006, ordenó expropiación atributos de uso y goce sobre franja de terreno de 25,93 m2, sin construcción, singularizada como polígono "A-B-C-D-A" en plano expropiación S8R-20.683M, inmueble de mayor cabida ubicado en Ranguelmo, comuna de Coelemu, rol avalúo Nº 00213-00043 citada comuna, terreno de aparente dominio de Junta Vecinal N II Ranguelmo", para ejecución obras infraestructura y urbanización en Asentamiento Ranguelmo del Programa Chile Barrio, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por Santiago Aptecar Nazer, arquitecto, Gabriel Fernández de la Maza, ingeniero civil, y Marisa Perrín Costa, arquitecta, según informe Nº TE 28A de fecha 3 de octubre 2006, fijó monto provisional indemnización en $93.130.- pagadera de contado.
+
+Director Serviu Región del Bío Bío.
