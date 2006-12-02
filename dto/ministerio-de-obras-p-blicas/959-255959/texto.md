@@ -1,0 +1,5 @@
+Por decreto MOP Nº959, de 24 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 76 y 77, para la ejecución del Proyecto: Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector: Tahuinco - Salamanca, Km. 13,14000 a Km.
+
+23,49783, II Etapa, que figuran a nombre de Bien común y Moyano Monárdez Antonio, roles de avalúo E/T y 260-057, comuna de Salamanca, superficies 716,20 m2. y 5.526,65 m2. La Comisión de Peritos fijó con fecha 14 de noviembre de 2005, en las cantidades de $16.922.960.- para el lote Nº76 y $4.421.320 para el lote Nº77. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
