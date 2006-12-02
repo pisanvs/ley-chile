@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº662 de fecha 29 de septiembre del 2006, se expropió el lote de terreno Nº81-C, superficie 882,00 m², Rol Nº409-90, comuna de Los Muermos, X Región para la obra "Camino Ruta V-60, Sector El Tepual-Las Quemas-Los Muermos, Km. 0,00000 al Km. 32,27442" y se acordó el valor de indemnización con su propietaria María Inelia Berner Rehbein, ascendente a la cantidad de $674.286.- para el lote Nº81-C.
+
+Fiscal del Ministerio de Obras Públicas.
