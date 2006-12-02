@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº776 de fecha 31 de octubre del 2006, se expropió el lote de terreno Nº28-A, superficie 360 m², Rol Nº267-48, comuna de Carahue, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, Km. 0,00000 a Km. 7,34893" y se acordó el valor de indemnización con su propietaria Lila del C. Troll Holzapfel, ascendente a la cantidad de $421.820.- para el lote Nº28-A.
+
+Fiscal del Ministerio de Obras Públicas.
