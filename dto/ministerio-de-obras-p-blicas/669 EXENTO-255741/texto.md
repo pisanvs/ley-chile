@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº669, de fecha 29 de septiembre del 2006, se expropió el lote de terreno Nº108, superficie 1.841,03 m², Rol Nº260-36, comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietario Leonardo Felipe Venenciano Barraza, ascendente a la cantidad de $1.349.052.
+
+Fiscal del Ministerio de Obras Públicas.
