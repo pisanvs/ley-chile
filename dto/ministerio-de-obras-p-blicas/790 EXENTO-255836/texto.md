@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº790, de fecha 31 de octubre del 2006, se expropiaron los lotes de terreno Nºs. 92 y 94, superficies 424,49 y 392,79 m², Rol Nº260-45 comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietaria Juana del Carmen Valle Saldívar, ascendente a la cantidad de $3.606.920.
+
+Fiscal del Ministerio de Obras Públicas.
