@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº668 de fecha 29 de septiembre del 2006, se expropiaron los lotes de terreno Nºs. 4 y 5, superficies 957,8 y 243 m², Rol Nº153-127, comuna de Chonchi, Región para la obra "Reposición Puente Milildeo, Camino Huillinco-Cucao, W-850" y se acordó el valor de indemnización con su propietaria Margarita Luz Altamirano Márquez, ascendente a la cantidad de $1.538.458.- para los lotes Nºs. 4 y 5.
+
+Fiscal del Ministerio de Obras Públicas.
