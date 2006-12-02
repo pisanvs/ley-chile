@@ -1,0 +1,3 @@
+Por decreto exento Nº763, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº1, para la obra: Emergencia varios sectores. Camino Los Lagos - Panguipulli, Tramo Km. 12.971 a Km. 13.351, que figuran a nombre de Montt Dubournais Manuel, rol de avalúo 244-4, comuna de Los Lagos, superficie 3.514,0 m2. La Comisión de Peritos, fijó con fecha 5 de septiembre de 2001, en la cantidad de $1.410.100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
