@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta N°7.560, de 21 de noviembre de 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en El Recreo N°471, comuna de Pinto, rol de avalúo N°153-17 de la comuna de Pinto, superficie aproximada 394,50 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación N°S8R-20.912, de aparente dominio de Carrasco Rodríguez, Norma Elian, para ejecución proyecto "Urbanización Pinto Oriente y Poniente y Construcción 83 Entornos Chile Barrio", Programa Chile Barrio, conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecta, y Gabriel Fernández de la Maza y Santiago Aptecar Nazer, arquitectos, según informe de fecha 20 de octubre de 2006, fijó monto provisional indemnización en $1.301.711.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
