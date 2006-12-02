@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº658 de fecha 29 de septiembre del 2006, se expropió el lote de terreno Nº9-B, superficie 298 m², Rol Nº151-52, comuna de Curepto, para la obra "Camino Ruta K-16, Sector Curepto - Puente Lautaro Tramo Km. 73,30000 al Km. 81,91430" y se acordó el valor de indemnización con su propietario José Manuel González Avendaño, ascendente a la cantidad de $266.869.
+
+Fiscal del Ministerio de Obras Públicas.
