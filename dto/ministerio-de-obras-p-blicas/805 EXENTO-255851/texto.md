@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº805, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº5 para la obra: "Conservación Periódica Red Comunal, Camino Acceso Termas de San Luis, Tramo Km.
+
+0,00000 a Km. 1,44000", que figura a nombre de Fresia González, sin rol de avalúo, Comuna de Pucón, IX Región, superficie 598 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 9 de noviembre de 2005 en la cantidad de $1.283.600.- para el lote Nº5, complementada por acta de 9 de marzo de 2006. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
