@@ -1,0 +1,7 @@
+Por resolución exenta Nº3.101, 16 de noviembre de 2006, de esta Subsecretaría, autorízase al COSTASUR, BRAVO Y MACKENNEY CONSULTORES ASOCIADOS LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Estudio de línea ambiental de la biota acuática y de las características ambientales de parte de los cuerpos de aguas fluviales de la cuenca hidrográfica del río Bío-Bío, VIII Región, diciembre 2006".
+
+El objetivo de la pesca de investigación consiste en determinar el patrón de distribución de las especies de peces nativas y asilvestradas y las características físicas y químicas de los cuerpos de agua adyacentes al emplazamiento del proyecto Santa Fe de la Compañía Manufacturera de Papeles y Cartones (CMPC), en la VIII Región.
+
+La pesca de investigación se efectuará en el mes de diciembre de 2006, en estaciones de muestreo ubicadas en los sectores de captación de aguas, bocatomas y descarga de la planta Santa Fe en el alto Bío-Bío, VIII Región, donde podrá capturar, con devolución, mediante equipos de pesca eléctrica y chinguillos, ejemplares de las especies trucha arcoiris, pejerrey, trucha criolla y carmelita de concepción.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
