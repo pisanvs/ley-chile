@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.115, de 16 de noviembre de 2006, de esta Subsecretaría, autorízase al CENTRO UNIVERSITARIO INTERNACIONAL EUROPA - AMERICA LATINA DE INVESTIGACION Y FORMACION EN CIENCIAS AMBIENTALES DE LA UNIVERSIDAD DE CONCEPCION para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Pesca de Investigación en el río Itata, VIII Región".
+
+El objetivo de la pesca de investigación consiste en evaluar la fauna íctica del río Itata, VIII Región, para determinar su estrés ecotoxicológico a través del uso de biodemarcadores.
+
+La pesca se efectuará por el término de doce meses, contados desde el 1 de enero de 2007, en doce estaciones de muestreo ubicadas en el río Itata, VIII Región, donde podrá capturar, con devolución, mediante equipos de pesca eléctrica y redes de monofilamento estáticas, ejemplares de las especies principales nativas: carmelita y bagrecito; secundarias nativas pejerrey chileno, bagrecito, pocha, bagre, puye, lamprea de bolsa, lisa, perca trucha, carmelita de concepción y bagre, y secundarias introducidas gambusia, bagre, carpa, trucha arcoiris y trucha café. Asimismo, podrá capturar, sin devolución, 20 ejemplares de cada especie principal.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernandez Salas, Subsecretario de Pesca.
