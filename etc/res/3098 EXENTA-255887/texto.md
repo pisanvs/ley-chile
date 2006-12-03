@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.098, de 15 de noviembre de 2006, de esta Subsecretaría, revócase la resolución exenta Nº2.959 de 2006, en cuanto declaró la caducidad de las resoluciones Nº2.019 y Nº2.543, ambas de 2001, Nº2.275 de 2004 y Nº638 de 2005, todas de esta Subsecretaría, que autorizaron a BUENA PESCA S.A. para realizar actividades pesqueras extractivas con la nave "Nicomar".
+
+Valparaíso, 15 de noviembre 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
