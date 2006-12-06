@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.235, de 23 de noviembre de 2006, de esta Subsecretaría, autorízase a PESQUERA SAN JOSE S.A. para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Chinquihue Km. 12, Sector Industrial, Puerto Montt, X Región, en la línea de proceso de Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de noviembre de 2006.- María Angélica Barbieri Bellolio, Subsecretaria de Pesca (S).
