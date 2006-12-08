@@ -2246,6 +2246,8 @@ Sin perjuicio de la comisión mencionada en el párrafo precedente, en las opera
 
 En lo que se refiere al cobro de comisiones por el pago de cheques por sobregiros no contratados, los bancos librados pueden aplicar una comisión por un determinado número de sobregiros en cada mes, o bien una comisión por incidente con un máximo por mes u otro procedimiento o modalidad similar que el Directorio del banco establezca, de manera de regular con la debida prudencia los montos que resulten.
 
+En general, tratándose de servicios propios del manejo de una cuenta corriente, no corresponde el cobro de comisión por la entrega del estado de saldo a que se refiere el artículo 4° de la Ley sobre Cuentas Corrientes Bancarias y Cheques, la entrega de talonarios de cheques, el protesto de cheques, como tampoco es procedente hacerlo por su aclaración y por otros actos que sean propios de la cuenta corriente y que deban realizarse en cumplimiento de las disposiciones legales que la rigen.
+
 5.- Comisiones sobre tarjetas de crédito, de débito y de cajero automático.
 
 El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija se ha calculado, determinado y comunicado al cliente, considerando todos los costos que son propios del servicio ofrecido.
@@ -6846,7 +6848,7 @@ Bancos
 
 037 BANCO SANTANDER-CHILE
 
-039 BANKBOSTON, N.A.
+039 BANKBOSTON (CHILE)
 
 041 JP MORGAN CHASE BANK, N.A.
 
@@ -14827,6 +14829,8 @@ Las inversiones en títulos de deuda originados en securitizaciones, se computar
 Por deudas directas deben entenderse todas las obligaciones que el deudor principal reconozca a favor de la institución financiera, como beneficiario del crédito, en el carácter, según corresponda, de deudor en cuenta corriente; aceptante de una letra de cambio o suscriptor de un pagaré con el que se documente un préstamo otorgado por la institución o adquirido sin responsabilidad del vendedor o cedente; endosante con responsabilidad de una letra de cambio o pagaré; vendedor con pacto de retrocompra de un instrumento financiero; deudor por cartas de crédito para importación, deudor de créditos avalados o afianzados por la institución financiera, etc.
 
 Por deuda indirecta deben entenderse las obligaciones que afectan a las personas que, sin ser los beneficiarios del crédito, responden con su patrimonio del cumplimiento de la obligación, como lo son, entre otros, los fiadores, codeudores solidarios, aceptantes, giradores y avalistas de letras de cambio o suscriptores de pagarés endosados con responsabilidad.
+
+En el caso de obligaciones contraídas por Fondos de terceros que constituyen patrimonios separados de conformidad a la ley, como, por ejemplo, Fondos Mutuos, Fondos de Pensiones o Fondos de Inversión, gestionados por la respectiva Administradora, se considera como deudor directo solamente al respectivo Fondo, a cuyo nombre se contrae la obligación. En cambio, si se trata de obligaciones contraídas por la Administradora a su propio nombre, esta será la deudora directa de tales obligaciones.
 
 No son deudores directos ni indirectos las personas que participan en una obligación sin contraer una responsabilidad personal en ella, pero que afectan bienes de su propiedad al cumplimiento de esa obligación o bien mantienen un compromiso de pago por documentos constituidos en garantía por terceros. Así ocurre, por ejemplo, con el que constituye una hipoteca para caucionar una obligación ajena, con cláusula de garantía general o sin ella; el que da bienes en prenda para garantizar obligaciones de terceros; el aceptante o cualquiera delos obligados al pago de un documento en cobranza endosado en garantía a la institución financiera en resguardo de una obligación contraída por otra persona, etc.
 
