@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.105, de 16 de noviembre de 2006, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 2.533 de 2006, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Distribución y estructura de los recursos Anchoveta y Sardina común entre los límites regionales de la VIII Región", en el sentido de disminuir a 2.500 toneladas la cuota máxima total del recurso Sardina común autorizada a extraer en el marco de la citada pesca de investigación.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
