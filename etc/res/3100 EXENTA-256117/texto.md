@@ -1,0 +1,3 @@
+Por resolución exenta N°3.100, de esta Subsecretaría, modifícase el numeral 4° de la resolución exenta N°3.091 de 2006, de esta Subsecretaría de Pesca que autorizó al INSTITUTO DE INVESTIGACION PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP N°2006-05 denominado "Condición Biológica de Jurel en Altamar, año 2006", en el sentido de reemplazar la nave "Don Tito" por la nave "Don Boris", ambas del armador Sociedad Pesquera Landes S.A.
+
+Valparaíso, 15 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
