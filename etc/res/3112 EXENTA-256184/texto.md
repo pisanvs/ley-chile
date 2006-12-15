@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.112 de 16 de noviembre de 2006, de esta Subsecretaría, autorízase a PESQUERA ALCAR S.A. para ampliar las actividades pesqueras de transformación autorizadas por la resolución Nº 1.332 de 2006, de esta Subsecretaría, en orden a incorporar a la planta ubicada en Tongoy, Puerto Aldea, Parque Acuícola, IV Región, en las líneas de proceso de cocido, fresco-enfriado, fresco-refrigerado, congelado, seco-salado, ahumado, conserva y harina, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 16 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
