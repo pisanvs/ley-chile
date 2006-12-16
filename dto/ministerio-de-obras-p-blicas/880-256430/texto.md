@@ -1,0 +1,3 @@
+Por decreto MOP Nº 880 de fecha 29 de septiembre de 2006, se expropiaron los lotes de terreno Nºs. 112 y 113, superficies 591,69 y 431,97 m2, respectivamente, Rol Nº 260-29, comuna de Salamanca, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, III Etapa", IV Región y se acordó el valor de la indemnización con su propietario Jidio Alcides Alfaro Leiva, ascendente a la cantidad de $8.823.544.
+
+Fiscal del Ministerio de Obras Públicas.
