@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 191, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en ST 3-4-5 Afueras Condominio Santa Sofía, Rol de avalúo Nº 08-29, de la comuna de Machalí, superficie aproximada de 5.743,40 de terreno, delimitada en polígono C-F-I-J-K-L-D-C conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de Inmobiliaria Santa Sofía S.A., a fojas 2.740, Nº 2.262, del año 1999 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $123.794.400.
+
+Director SERVIU VI Región.
