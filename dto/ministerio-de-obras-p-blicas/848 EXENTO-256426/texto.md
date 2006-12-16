@@ -1,0 +1,3 @@
+Por decreto exento Nº 848, de 21 de noviembre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Construcción Rampa para Pasajeros y Carga Futrono, sector Isla Huapi, que figura a nombre de Robustiano Neguiman Lehuey, rol de avalúo 74-111, comuna de Futrono, X Región, superficie 246 m². La Comisión de Peritos, fijó con fecha 23 de mayo de 2006, en la cantidad de $123.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
