@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 189, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en la Ilustre Municipalidad de Machalí, Rol de avalúo Nº 103-01, de la comuna de Machalí, superficie aproximada de 7.131,31 de terreno, delimitada en polígono Q-QQ-RR-R-Q conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de la Ilustre Municipalidad de Machalí, a fojas 4.899 Vta., Nº 4.086, del año 1986 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $0.
+
+Director SERVIU VI Región.
