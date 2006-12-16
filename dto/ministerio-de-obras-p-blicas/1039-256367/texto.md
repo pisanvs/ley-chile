@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.039, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 20A y 45A, para la obra: Camino Longitudinal Costero Sur, sector El Morro - Chaihuín II Parte, Km.
+
+15,755 a Km. 27,017, que figuran a nombre de Altamirano Aguilar Alejandra y Muñoz Maripane José D., roles de avalúo 112-87 y 112-31, comuna de Corral, X Región, superficies 400 m². y 125 m². La Comisión de Peritos, fijó con fecha 25 de enero de 2005, en la cantidad de $11.573.000, para el lote Nº 20A y con fecha 12 de mayo de 2005, en la cantidad de $12.370.300, para el lote Nº 45A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
