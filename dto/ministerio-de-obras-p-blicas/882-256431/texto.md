@@ -1,0 +1,3 @@
+Por decreto MOP Nº 882 de 29 de septiembre de 2006, se expropió el lote de terreno Nº 8, superficie 430 m², Rol Nº 142-022, comuna de Huasco, III Región para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, provincia de Huasco, Región Atacama Etapa I" y se acordó el valor de indemnización con su propietaria Sara Emilia Cisterna Rojo y otro, ascendente a la cantidad de 4.432.710.
+
+Fiscal del Ministerio de Obras Públicas.
