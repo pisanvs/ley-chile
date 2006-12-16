@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.048, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº 5, para la obra: Conservación Emergencia Caminos Los Lagos- Valdivia y Acceso a Tomén, que figura a nombre de Matamala Aburto Humberto, rol de avalúo 2411-25, comuna de Valdivia, X Región, superficie 11.427 m2. La Comisión de Peritos, fijó con fecha 25 de abril de 2005, en la cantidad de $4.570.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
