@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.033, de fecha 31 de octubre de 2006, se expropió el lote de terreno Nº 127, superficie 3.519 m², Rol Nº 207-109, comuna de Rengo, VI Región, para la obra "Concesión Internacional Ruta 5 Tramo: Santiago-Talca. Sector G: Km. 110.200,00 al Km. 128.400,00" y se acordó el valor de la indemnización con su propietario José Miguel Vergara Cuevas, ascendente a la cantidad de $12.127.408.
+
+Fiscal del Ministerio de Obras Públicas.
