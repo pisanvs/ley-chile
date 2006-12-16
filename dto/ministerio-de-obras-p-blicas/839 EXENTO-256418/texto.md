@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº839 de 21 de noviembre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº179-B para la obra: "Camino Ruta S-790, sector Nueva Toltén - Límite Regional (Queule), tramo KM.
+
+87,50000 a Km. 103,33500, Sub-tramo IV, Km. 92,33000 a Km. 98,33600", que figura a nombre de Alcapán Juana, rol de avalúo Nº238-93, Comuna de Toltén, IX Región, superficie 512 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 29 de julio de 2005, en la cantidad de $384.000.- para el lote Nº179-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
