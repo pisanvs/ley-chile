@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.213, de 7 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en calle Los Alerces 1 V Penco, Rol de Avalúo 139-1, de la comuna de Penco, superficie aproximada 25,66 metros cuadrados de terreno, dentro polígono y linderos señalados en plano expropiación Nº S8R-20.870, de aparente dominio de Sáez Inostroza, Sebastián, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Sector Oriente y Construcción 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Felipe Toledo Quijada y Alvaro Berríos San Martín, arquitectos, según informe de fecha 21 de noviembre de 2006, fijó monto provisional indemnización en $236.303.-, pagadera de contado. Director Serviu Región del Bío Bío.
+
+Serviu Región del Bío Bío.
