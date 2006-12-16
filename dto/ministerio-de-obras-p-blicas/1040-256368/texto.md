@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.040, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 6, 20, 21, 22 y 23, para la obra: Reposición Ruta E-30-F, sector Zapallar - La Laguna, Km. 22,80733 a Km.
+
+36,23097, que figuran a nombre de Rojas Galdames René, Kenrick Lyon Margaret Catherine, Soc. de Inversiones A y B Ltda., Asesorías LAC Ltda. y otro y Herrera Cruz Gonzalo y otra, roles de avalúo 2-08, 50-288, 50-289, 50-301 y 50-300, comuna de Zapallar, V Región, superficies 449,27 m²., 137,20 m²., 307,21 m²., 222,14 m². y 138,36 m². La Comisión de Peritos, fijó con fecha 17 de junio de 2006, en las cantidades de $24.036.350, para el lote Nº 6, $6.877.000, para el lote Nº 20, $16.488.000, para el lote Nº 21, $11.107.000, para el lote Nº 22 y $7.509.500, para el lote Nº 23. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
