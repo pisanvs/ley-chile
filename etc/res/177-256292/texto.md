@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 177, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en Camino a Machalí Lt. A8, Rol de avalúo Nº 103-13, de la comuna de Machalí, superficie aproximada de 1.434,71 de terreno, delimitada en polígono A-C-D-B-A conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de don Patricio Osmán Arellano Díaz, a fojas 4.513 vta., Nº 4.162, del año 1985 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $31.899.620.
+
+Director SERVIU VI Región.
