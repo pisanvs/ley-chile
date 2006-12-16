@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.218, de 7 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en calle Los Alerces, Rol de Avalúo s/n, de la comuna de Penco, superficie aproximada 24,84 metros cuadrados de terreno, dentro polígono y linderos señalados en plano expropiación Nº S8R-20.831 M, de aparente dominio de Estela Basso Flores, para ejecución proyecto "Urbanización Asentamiento Sector Oriente y Construcción 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Felipe Toledo Quijada y Alvaro Berríos San Martín, arquitectos, según informe de fecha 17 de octubre de 2006, fijó monto provisional indemnización en $228.752.-, pagadera de contado. Director Serviu Región del Bío Bío.
+
+Serviu Región del Bío Bío.
