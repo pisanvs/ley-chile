@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 156, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en Porción Casa de los Inquilinos, Rol de avalúo Nº 103-5, de la comuna de Machalí, superficie aproximada de 872,07 de terreno, delimitada en polígono S-R-U-V-W-S conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de la Sucesión de Iris Morales Araya, a fojas 6.735 Vta., Nº 5.806, del año 1997 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $46.075.410.
+
+Director SERVIU VI Región.
