@@ -1,0 +1,3 @@
+Por decreto MOP Nº 879, de fecha 29 de septiembre de 2006, se expropió el lote de terreno Nº 58, superficie 1.774,35 m², Rol Nº 260-109, comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, Sector Tahuinco-Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa" y se acordó el valor de la indemnización con su propietario Abel del Rosario Ordenes Tapia, ascendente a la cantidad de $6.957.403.
+
+Fiscal del Ministerio de Obras Públicas.
