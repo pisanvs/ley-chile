@@ -1,0 +1,3 @@
+Por decreto MOP Nº 926 de 24 de octubre de 2006 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº1-C, para la obra "Mejoramiento Ruta Q-503, Los Angeles-El Peral", que figura a nombre de Soc. Agrícola Bío Bío, rol de avalúo Nº 1535-59, comuna de Los Angeles, VIII Región, superficie 876 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 16 de septiembre de 2005, en la cantidad de $9.612.870. Para el lote Nº1-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
