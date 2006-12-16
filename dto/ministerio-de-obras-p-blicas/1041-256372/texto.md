@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.041, de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs. 2, 14 y 16, para la obra: Proyecto Reposición Ruta E-30-F, sector Zapallar-La Laguna, Km. 22,80733 a Km.
+
+36,23097, que figuran a nombre de Correa Undurraga Jaime Alfonso y Ot, Schulze Hagedorn Rodolfo G y Pérez Cotapos Larraín Ignacio, roles de avalúo 55-02, 3-26 y 51-11, comuna de Zapallar, V Región, superficies 94,60 m2, 95,25 m2 y 161,25 m2. La Comisión de Peritos, fijó con fecha 17 de junio de 2006, en las cantidades de $3.784.000, para el lote Nº2; $5.108.250, para el lote Nº14, y $6.785.000, para el lote Nº16. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
