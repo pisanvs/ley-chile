@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.036, de fecha 31 de octubre de 2006, se expropiaron los lotes de terrenos Nºs 15, 16 y 17, superficie 12.747, 9.441 y 1.698 m², respectivamente, Rol Nº 1238-30, comuna de Pichilemu, VI Región, para la obra "Camino Ruta Costera, Sector Cahuil - Bucalemu, Tramo Km. 3,70430 al Km 23,29585", y se acordó el valor de la indemnización con su propietario Forestal Nilahue S.A., ascendente a la cantidad de $121.608.475.
+
+Fiscal del Ministerio de Obras Públicas.
