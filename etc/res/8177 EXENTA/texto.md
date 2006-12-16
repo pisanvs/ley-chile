@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.177, de 6 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre faja de terreno de uno de mayor extensión ubicado en Los Alerces St. 11 Mz. A Rol de Avalúo Nº 139-14, de la comuna de Penco, superficie aproximada 74,02 metros cuadrados de terreno, dentro polígono y linderos señalados en plano expropiación Nº S8R-20.827 M, de aparente dominio de Humberto Gajardo Vira, para ejecución proyecto "Urbanización Asentamiento Sector Oriente y Construcción 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Felipe Toledo Quijada y Alvaro Berríos San Martín, arquitectos, según informe de fecha 17 de octubre de 2006, fijó monto provisional indemnización en $817.995.-, pagadera de contado. Director Serviu Región del Bío Bío.
+
+Serviu Región del Bío Bío.
