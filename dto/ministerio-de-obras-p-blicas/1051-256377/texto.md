@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.051, de fecha 31 de octubre de 2006, se expropió el lote de terreno Nº 5, superficie 17.113,2 m², Rol Nº 158-153, comuna de Cochamó, para la obra "Camino Puelo Paso El Bolsón, sector Llanada Grande-Río Mapocho, Tramo Km. 32,500 a Km. 37,400", X Región, y se acordó el valor de la indemnización con su propietaria Herminda Pinto Albornoz y Otros, ascendente a la cantidad de $4.913.795.
+
+Fiscal del Ministerio de Obras Públicas.
