@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 160, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en Avenida M. Ramírez, Lt. 3 SC Sanchina, Rol de avalúo Nº 123-144, de la comuna de Machalí, superficie aproximada de 1.160,14 de terreno, delimitada en polígono AA-B-A-BB-AA conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de Luz Aída del Carmen Arriagada Fuenzalida a fojas 2.214, Nº 1.836, del año 1995 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $43.560.180.
+
+Director SERVIU VI Región.
