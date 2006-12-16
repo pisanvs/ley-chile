@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 181, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en Parcela 17 Las Mercedes, Rol de avalúo Nº 113-049, de la comuna de Machalí, superficie aproximada de 2.101,35 de terreno, delimitada en polígono M-N-Ñ-O-P-M conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de don Mario Egaña Contardo, a fojas 1.030, Nº 1.528 del año 1980 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $36.212.950.
+
+Director SERVIU VI Región.
