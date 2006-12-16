@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 169, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en San Juan Nº 376 St. 10 Jardín Inglés, Rol de avalúo Nº 50-11, de la comuna de Machalí, superficie aproximada de 13,95 de terreno, delimitada en polígono DD-CC-KK-JJ-DD conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de don Humberto Alfredo Barahona García, a fojas 645 vta., Nº 612 del año 1994 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $3.922.250.
+
+Director SERVIU VI Región.
