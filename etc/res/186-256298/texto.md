@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 186, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en San Juan Nº 370, Rol de avalúo Nº 103-06, de la comuna de Machalí, superficie aproximada de 1.445,23 de terreno, delimitada en polígono R-A-B-LL-S-R conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de doña Rebeca Romero Yáñez a fojas 4.586 Vta., Nº 3.062 del año 2006 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $26.974.620.
+
+Director SERVIU VI Región.
