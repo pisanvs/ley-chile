@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 162, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en Fundo Lo Castillo, Rol de avalúo Nº 103-04, de la comuna de Machalí, superficie aproximada de 1.342,25 de terreno, delimitada en polígono E-J-K-H-G-F-E conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de Sociedad Agrícola San Eduardo Limitada a fojas 3.944, Nº 2.444 del año 1987 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $700.000.
+
+Director SERVIU VI Región.
