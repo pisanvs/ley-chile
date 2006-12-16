@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 190, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en Fundo San Isidro Lts. 551 y 552, Rol de Avalúo Nº 103-01, de la comuna de Machalí, superficie aproximada de 21.823,88 de terreno, delimitada en polígono QQ-S-T-RR conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de Rafael Alberto Labbé León, a fojas 3.365 vta. Nº 2.382 del año 1986 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $2.814.000.
+
+Director SERVIU VI Región.
