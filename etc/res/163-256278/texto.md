@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 163, de 29.11.2006, SERVIU VI Región del Libertador Bernardo O'Higgins, ordenó expropiación de un inmueble ubicado en Lo Castillo lt. 1, Rol de avalúo Nº 103-16, de la comuna de Machalí, superficie aproximada de 746,62 de terreno, delimitada en polígono J-N-Ñ-K-J conforme al plano elaborado por la Comisión Tasadora, de aparente dominio de Sociedad León, Núñez y Quiñónez Limitada a fojas 8.387, Nº 7.318, del año 1995 "Proyecto Mejoramiento Eje Miguel Ramírez - Camino a Machalí, Tramo Oriente", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sergio Shipley Rubio, Carlos Henríquez y Hugo Leal, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha julio de 2006, monto provisional en $0.
+
+Director SERVIU VI Región.
