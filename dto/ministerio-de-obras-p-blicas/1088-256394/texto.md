@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.088 de 21 de noviembre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº49, para la obra: Camino Ruta Costera, Sector Cahuil-Bucalemu, Tramo km.3,70430 a km.23,29585, que figura a nombre de Suc. Cabello Urzúa Juana, rol de avalúo 38-13, comuna de Paredones, VI Región, superficie 4.862 m2. La Comisión de Peritos, fijó con fecha 5 de agosto de 2005 el monto de la indemnización provisional en la cantidad de $5.323.640.- para el lote Nº49. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
