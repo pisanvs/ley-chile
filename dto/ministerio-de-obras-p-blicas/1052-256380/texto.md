@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.052, de fecha 31 de octubre de 2006, se expropiaron los lotes de terrenos Nºs 15-F, 15-G y 15-H, superficies 34.401,71, 10.639,71 y 55.991,07 m² Rol de avalúo Nº 161-1, comuna de Petorca, para la obra "Camino Ruta E-37-D, sector Palquico Las Palmas, Km. 14,04861 a Km. 26,13776", V Región, y se acordó el valor de la indemnización con su propietario Demetrio Godoy Valencia y Otros, ascendente a la cantidad de $84.190.962.
+
+Fiscal del Ministerio de Obras Públicas.
