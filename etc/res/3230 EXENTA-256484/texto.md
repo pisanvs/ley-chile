@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.230, de 23 de noviembre de 2006, de esta Subsecretaría, autorízase a CIFUNCHO MAR S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector entrada Caleta Cifuncho, II Región, en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
