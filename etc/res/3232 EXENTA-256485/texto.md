@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.232, de 23 de noviembre de 2006, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A., para ampliar las actividades pesqueras de transformación, autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Rauco Rural s/n, Chiloé, X Región, en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
