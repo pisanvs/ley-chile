@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.196, de 20 de noviembre de 2006, de esta Subsecretaría, autorízase a JAVIER ANDRES MILLAR CONTRERAS, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de contenido gástrico del Salmón rey (Oncorhynchus tschawytscha) para determinar su dieta y el impacto de ésta sobre especies nativas de aguas continentales".
+
+El objetivo de la pesca de investigación consiste en caracterizar la dieta alimentaria del Salmón rey Oncorhynchus tschawytscha en el río Allipen, IX Región.
+
+La pesca de investigación se efectuará por el término de tres meses, contados desde la fecha de la presente resolución, en el río Allipen, en la cuenca del río Toltén, IX Región, donde el peticionario podrá capturar, con devolución, mediante pesca eléctrica, redes de pared en modalidad estática o dinámica y pesca con mosca, en tres campañas de pesca, ejemplares de la especie Salmón rey, sin perjuicio de la captura de otras especies presentes en el área de estudio. Sin perjuicio de lo anterior, el peticionario podrá capturar, sin devolución, un máximo de 20 ejemplares de Salmón rey en cada campaña de pesca.
+
+Valparaíso, 20 de noviembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
