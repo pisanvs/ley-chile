@@ -9298,7 +9298,7 @@ En todo caso, para operar con dicha garantía, la institución financiera deber�
 
 2.1. Garantía del Fondo sobre nuevos créditos.
 
-Podrán ser caucionados por el Fondo de Garantía para Pequeños Empresarios los créditos que se destinen a satisfacer requerimientos de capital de trabajo del deudor, incluidos en este concepto los desembolsos para capacitación de trabajadores y asesorías especializadas a deudores que califiquen para la garantía del Fondo, a proyectos de inversión o aportes en sociedades que se constituyan o ya constituidas, cuyo giro sea la explotación de la misma actividad del deudor o conexa con ésta Quedan, asimismo, comprendidos entre los créditos susceptibles de ser amparados por la garantía del Fondo, la compra o descuento de efectos de comercio y de facturas (factoring), como también los créditos correspondientes a líneas de crédito otorgadas y no desembolsadas, los préstamos para boletas de garantía u otros de carácter contingente que sean elegibles a juicio del Administrador En estos casos, la garantía se otorgará en función del monto total del contrato u operación, haciéndose efectiva sobre los montos realmente desembolsados y no recuperados.
+Podrán ser caucionados por el Fondo de Garantía para Pequeños Empresarios los créditos que se destinen a satisfacer requerimientos de capital de trabajo del deudor, incluidos en este concepto los desembolsos para capacitación de trabajadores y asesorías especializadas a deudores que califiquen para la garantía del Fondo, a proyectos de inversión o aportes en sociedades que se constituyan o ya constituidas, cuyo giro sea la explotación de la misma actividad del deudor o conexa con ésta Quedan, asimismo, comprendidos entre los créditos susceptibles de ser amparados por la garantía del Fondo, la compra o descuento de efectos de comercio y de facturas (factoring), como también los créditos correspondientes a líneas de crédito otorgadas y no desembolsadas, los préstamos para boletas de garantía u otros de carácter contingente que sean elegibles a juicio del Administrador En estos casos, la garantía se otorgará en función del monto total del contrato u operación, haciéndose efectiva sobre los montos realmente desembolsados y no recuperados. Igualmente podrán acogerse a la garantía del Fondo, aquellos créditos que tengan por finalidad el refinanciamiento de pasivos que hayan cumplido con las condiciones de elegibilidad para optar a esta garantía.
 
 Los montos y plazos de estos créditos, incluidos los contingentes, deberán limitarse a los que establezca el Reglamento y el Administrador, según corresponda.
 
@@ -9542,7 +9542,7 @@ En el título representativo del crédito otorgado con garantía del Fondo, se d
 
 #### Artículo 22
 
-En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 425 días siguientes a la fecha de vencimiento del respectivo crédito, para cuyo efecto deberá demostrar que ha iniciado las correspondientes acciones de cobro.
+En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 425 días siguientes a la fecha de vencimiento del respectivo crédito, para cuyo efecto deberá demostrar que ha iniciado las correspondientes acciones de cobro. Se podrán exceptuar de estas acciones de cobro los créditos cuyo monto total no exceda del equivalente de 60 unidades de fomento.
 
 Cuando le sea requerido el pago de la garantía, el Administrador del Fondo procederá a reembolsar los montos garantizados dentro de un plazo máximo de 15 días hábiles contados desde la fecha del requerimiento fundamentado de la institución participante. Si a juicio del Administrador no procediera el pago de la garantía, éste deberá rechazar el requerimiento del referido pago dentro del mismo plazo de 15 días antes señalado.
 
@@ -9576,7 +9576,7 @@ Adicionalmente, tendrá derecho a una comisión del 10% sobre el resultado del F
 
 El Administrador del Fondo fijará la comisión que pagarán al Fondo los usuarios de los créditos garantizados, la que no podrá exceder de un 2% anual sobre el saldo de capital caucionado.
 
-El pago de esta comisión deberá realizarse en los mismos plazos establecidos para el pago de intereses. En todo caso el Administrador determinará la forma y plazo en que estos pagos serán traspasados de la institución otorgante del crédito al Fondo de Garantía.
+El Administrador del Fondo fijará la oportunidad y forma para el pago de esta comisión. El monto que se cobre anualmente por ese concepto no podrá exceder, en ningún caso, cualquiera que sea la forma que se determine para su pago, de aquel que resulte de aplicar la tasa indicada en el párrafo precedente, en forma anticipada, sobre el saldo del crédito al comienzo del respectivo período anual. Asimismo, el Administrador determinará la forma y plazo en que los pagos de la comisión serán traspasados de la institución otorgante del crédito al Fondo de Garantía. No obstante, cuando se trate de créditos que sean securitizados, la totalidad de la comisión a favor del Fondo devengada por esos créditos hasta la fecha de cesión, deberá estar traspasada al Fondo.
 
 VI.- ADMINISTRACION.
 
@@ -15277,6 +15277,8 @@ En la medida en que no se otorgue un nuevo crédito o que no exista novación de
 Lo anterior no significa que los créditos pueden computarse por el valor de la obligación original para establecer la procedencia de otorgar un nuevo crédito o novar uno existente. En consecuencia, si se otorga un crédito y con ello nace una nueva obligación del deudor, deben computarse previamente los créditos ya otorgados de la forma indicada en el numeral 3.1 anterior, para determinar si se dispone de margen para concederlo.
 
 Al respecto, conviene tener presente que, en el evento de que no existiere margen suficiente y se otorgare un nuevo crédito, la diferencia entre los límites y el valor de los créditos otorgados, sumados de acuerdo con lo indicado en el numeral 3.1 precedente, no representa el monto en que se infringe la ley, sino que éste estaría dado sólo por el valor del nuevo crédito o por una parte de él, según sea el caso. Por el contrario, si la causa que originare la infracción fuere una liberación de garantía, esa diferencia debe ser considerada como exceso sujeto a sanción.
+
+En todo caso, mientras el margen se mantenga excedido, cualquiera sea la causa de tal exceso, no se podrán celebrar contratos de derivados o cualquier otro tipo de contrato que pueda transformarse en un nuevo crédito, aun cuando al momento de negociarlos tengan un valor razonable negativo o nulo.
 
 3.3. Cambios en las condiciones de créditos en moneda extranjera para exportación.
 
