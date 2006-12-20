@@ -1,0 +1,7 @@
+REVOCA FACULTADES A FUNCIONARIO QUE INDICA
+
+Por resolución exenta Nº 495, de 12 de diciembre de 2006, el Sr. Director Regional de la XV Dirección Regional Metropolitana Santiago Oriente, revoca las facultades al abogado de la Unidad de Ñuñoa, consistentes en conocer y resolver las denuncias por infracciones que deban tramitarse de acuerdo a los procedimientos contemplados en los párrafos 1º y 2º del Título IV del Libro III del Código Tributario.
+
+Esta facultad delegatoria se ejerce conforme a lo dispuesto en el artículo 6º letra B) Nºs 3 y 7 del Código Tributario, el artículo 20 de la Ley Orgánica del Servicio de Impuestos Internos contenida en el DFL Nº 7, de 1980 del Ministerio de Hacienda, los artículos 115, 116, 161 y 165 Nº 8 del Código Tributario; el artículo 41 de la ley Nº 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado, las resoluciones exentas Nº 968, de 1992; Nº 20 y Nº 21, ambas de 2006; la resolución exenta Nº 118, de 04.10.2006 del Sr. Director; la resolución Nº 520, de 15.11.1996, de la Contraloría General de la República, que fijó el texto refundido, coordinado y sistematizado de la resolución Nº 55 de 1992 de esa misma Contraloría, que establece normas sobre exención del trámite de toma de razón, y la resolución exenta Nº 841 , del 10.10.2006, emitida por esta autoridad.
+
+- Hugo Horta Barahona, Director Regional.- Cecilia Bairón, Secretaria Regional.
