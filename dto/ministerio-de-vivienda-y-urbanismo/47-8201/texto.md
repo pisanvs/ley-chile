@@ -1828,17 +1828,19 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 #### Artículo 2
 
-1.36. Para los efectos de la aplicación de los Instrumentos de Planificación Territorial se distinguirán cuatro escalas de equipamiento independientes de su clase. Estas escalas se dividirán de acuerdo a la carga de ocupación y cantidad de estacionamientos requeridos para el equipamiento y su ubicación estará condicionada a la categoría de la vía que enfrentan y por la cual acceden. Las escalas son las siguientes:
+1.36. Para los efectos de la aplicación de los Instrumentos de Planificación Territorial se distinguirán cuatro escalas de equipamiento independientes de su clase. Estas escalas se dividirán de acuerdo a la carga de ocupación y cantidad de estacionamientos del equipamiento y su ubicación estará condicionada a la categoría de la vía que enfrentan y por la cual acceden. Las escalas son las siguientes:
 
-1. Equipamiento Mayor: El que contempla una carga de ocupación sobre las 4.000 personas y requiere más de 800 estacionamientos; en este caso, sólo se podrá ubicar en predios que enfrenten vías expresas.
+1. Equipamiento Mayor: El que contempla una carga de ocupación sobre las 4.000 personas y consulta más de 800 estacionamientos; en este caso, sólo se podrá ubicar en predios que enfrenten vías expresas.
 
-2. Equipamiento Mediano: El que contempla una carga de ocupación de hasta 4.000 personas y no requiere más de 800 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías troncales o expresas.
+2. Equipamiento Mediano: El que contempla una carga de ocupación de hasta 4.000 personas y no consulta más de 800 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías troncales o expresas.
 
-También el que contemple una carga de ocupación de hasta 3.000 personas y no requiera más de 500 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías colectoras, troncales o expresas.
+También el que contemple una carga de ocupación de hasta 3.000 personas y no consulta más de 500 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías colectoras, troncales o expresas.
 
-3. Equipamiento Menor: El que contempla una carga de ocupación de hasta 1.000 personas y no requiere más de 250 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas.
+3. Equipamiento Menor: El que contempla una carga de ocupación de hasta 1.000 personas y no consulta más de 250 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas.
 
-4. Equipamiento Básico: El que contempla una carga de ocupación de hasta 250 personas y no requiere más de 50 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
+4. Equipamiento Básico: El que contempla una carga de ocupación de hasta 250 personas y no consulta más de 50 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
+
+En los casos que un proyecto no cumpla copulativamente con la carga de ocupación y número de estacionamientos que señalan los numerales del inciso primero de este artículo, la escala del equipamiento se definirá por la cantidad de estacionamientos que consulte el proyecto.
 
 Sin perjuicio de lo anterior, las Municipalidades podrán aceptar equipamientos de mayor escala en vías de menor categoría, siempre que se indique en forma expresa en el Instrumento de Planificación Territorial y se encuentre avalado por el respectivo estudio de capacidad vial contenido en dicho instrumento de planificación.
 
@@ -2164,7 +2166,9 @@ Para los fines previstos en el inciso anterior, los citados instrumentos definir
 
 En cada caso, los Planes Reguladores Comunales o Seccionales deberán considerar, además de las disposiciones técnicas propias de la ingeniería de tránsito, los conceptos urbanísticos que guían el desarrollo de los distintos sectores de las comunas y sus barrios, las características de las actividades urbanas que se emplazan en los bordes de las vías y la dotación de infraestructura prevista.
 
-Sólo se considerarán franjas afectas a utilidad pública las partes de la red vial pública que estuvieren definidas en el Plan Regulador Comunal y graficadas en los planos de éste o en los planos seccionales que lo detallen; y de no existir Plan Regulador Comunal, la definida en los Planes Seccionales a que se refiere el artículo 2.1.15. y graficada en los planos de este último.
+Para efectos de la aplicación del artículo 2.1.36. de esta Ordenanza, en los casos en que el Plan Regulador no haya clasificado la totalidad de la red vial pública, se aplicarán supletoriamente los criterios que se establecen en el artículo 2.3.2. en lo relativo a anchos mínimos de sus calzadas pavimentadas y distancia entre líneas oficiales. Dicha información deberá ser consignada en el Certificado de Informaciones Previas.
+
+De conformidad al artículo 59 de la Ley General de Urbanismo y Construcciones, sólo se considerarán franjas afectas a utilidad pública los terrenos definidos como vías en la Ordenanza del Plan Regulador Comunal o Intercomunal, y graficados en sus respectivos planos.
 
 #### Artículo 2
 
@@ -2317,6 +2321,20 @@ k) Cuando este tipo de vía cuente con acceso desde un solo extremo, la mayor di
 l) Deberán existir aceras a ambos costados, cada una de allas de 2 m de ancho mínimo.
 
 m) No se contempla en ella la presencia de ciclovías.
+
+Con todo, tratándose de vías urbanas existentes, para la ejecución de un proyecto de pavimentación, de mejoramiento del estándar de la calzada, de repavimentación, reparación, remodelación, adecuación de los perfiles existentes o implementación de ciclovías, no será requisito cumplir con los criterios, condiciones y estándares de diseño que se establecen en el inciso primero de este artículo, siempre que se cumpla como mínimo con los siguientes requisitos, según corresponda:
+
+a) En las vías de una pista que contemplen locomoción colectiva, el ancho mínimo de su calzada pavimentada no será inferior a 6,50 metros.
+
+Cuando consulten 2 o más pistas, tendrán a lo menos una pista de 3,50 metros y las otras de un ancho mínimo de 3,00 metros.
+
+b) En las vías de una pista que no contemplen locomoción colectiva, el ancho mínimo de su calzada pavimentada no será inferior a 4,50 metros. Cuando consulten 2 o más pistas, el ancho mínimo de cada pista será de 2,75 metros.
+
+c) En las vías de una pista que contemplen flujo eventual de vehículos, el ancho mínimo de su calzada pavimentada no será inferior a 4,00 metros.
+
+En los casos a que se refieren las letras a), b) y c), precedentes, deberán contemplarse aceras a ambos costados, cada una de ellas de un ancho mínimo de 2,00 metros. Excepcionalmente y por razones fundadas, el Servicio de Vivienda y Urbanización respectivo, podrá autorizar la disminución de este ancho.
+
+Las ciclovías serán permitidas en todas las vías existentes, debiendo ubicarse preferentemente en el espacio de las aceras.
 
 #### Artículo 2
 
@@ -8892,7 +8910,7 @@ Previa autorización de la Secretaría Regional Ministerial de Vivienda y Urbani
 
 3.4. La vivienda singular de que trata este Título, que se emplace en el área rural, deberá contar como mínimo con:
 
-1. Agua potable: Conexión a red pública si ésta existe. En su defecto, solución propia consistente en noria, pozo profundo o vertiente, según lo previsto en el Código Sanitario.
+1. Agua potable: Conexión a red pública si ésta existe. En su defecto, solución propia consistente en noria, pozo profundo o vertiente, según lo previsto en el Código Sanitario o la solución que en casos fundados autorice la autoridad de salud competente.
 
 2. Alcantarillado: Conexión a red pública si ésta existe. En su defecto, solución de fosa séptica y pozo absorbente, aprobada por el Ministerio de Salud, de conformidad al Reglamento General de Alcantarillados Particulares. Esta solución puede ejecutarse en forma progresiva, aceptándose inicialmente letrina sanitaria, en las condiciones que apruebe el Servicio de Salud Regional correspondiente.
 
