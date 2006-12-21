@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.322, de 13 de diciembre de 2006, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.943, de 2004, de esta Subsecretaría, que rechazó la solicitud Nº 97103098, presentada por CARLOS VÍCTOR SANDOVAL DUNKLER para un centro de cultivo ubicado en sector este de Punta Animo, X Región, en virtud de lo dispuesto en el artículo 59 de la ley Nº 19.880.
+
+Valparaíso, 13 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
