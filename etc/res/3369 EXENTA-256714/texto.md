@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.369 de 14 de diciembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 203101213 presentada por SERGIO DEL CARMEN DIAZ CAUCAMAN y MARCELA WALESKA VELASQUEZ STRAUSSMANN, para instalar y operar un centro de cultivo ubicado en Bahía Huelmo, al sureste de Isla Huelmo, X Región.
+
+Valparaíso, 14 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
