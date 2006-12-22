@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.359, de 14 de diciembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N°203101127 presentada por JOSE JAIME MANCILLA BECA y DOMINGO NAVARRO GARCIA, para instalar y operar un centro de cultivo ubicado en canal Hornopirén, sector sureste de Isla Pelada VI, X Región.
+
+Valparaíso, 14 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
