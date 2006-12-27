@@ -1,0 +1,7 @@
+FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALUO DE LOS BIENES RAICES DE LA SEGUNDA SERIE NO AGRICOLA CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS UBICADOS EN LAS AREAS URBANAS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº169 del 21 de diciembre de 2006, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la segunda serie no agrícola correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas.
+
+Para efectos de aplicar el reavalúo de los bienes raíces a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas, pertenecientes a la II Serie (No Agrícola), a contar del 1º de enero de 2007, se han fijado los valores base de terreno y los valores unitarios de construcción para cada comuna del país, de acuerdo a lo señalado en los artículos 3º y 4º de la Ley Nº17.235, sobre Impuesto Territorial y en la resolución exenta SII Nº149 del 27 de noviembre de 2006.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet, www.sii.cl, y se incluirá en el Boletín del SII, correspondiente al mes de diciembre de 2006.
