@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.231, de 23 de noviembre de 2006, de esta Subsecretaría, autorízase a JOAQUIN ALIRO CARRASCO HERNANDEZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Punta Pichalo, comuna de Huara, I Región, en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
