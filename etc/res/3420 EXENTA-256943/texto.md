@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.420, de 22 de diciembre de 2006, de esta Subsecretaría, rectifícase la resolución Nº 3.102 de 2006, de esta Subsecretaría, que autorizó a SOCIEDAD CONTRACTUAL MINERA EL ABRA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la fauna íctica presente en el salar Escotán, II Región, año 2006", en el sentido de entender que cada mención que en ella se haga al "salar de Escotán", debe entenderse hecha al "salar de Ascotán".
+
+Valparaíso, 22 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
