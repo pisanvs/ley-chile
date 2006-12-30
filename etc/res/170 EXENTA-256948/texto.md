@@ -1,0 +1,5 @@
+AUTORIZA EMISORES ELECTRONICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 170 de 26 diciembre de 2006, que autoriza a contribuyentes como emisores electrónicos. Se autoriza como emisores de documentos tributarios electrónicos a RUT 96.636.460-2, RUT 77.342.600-7, RUT 99.557.480-2, RUT 96.667.590-K, RUT 89.596.600-2, RUT 77.755.610-K, RUT 89.334.500-0, RUT 79.723.090-1, RUT 76.473.580-3, RUT 76.606.900-2, RUT 86.617.300-1, RUT 99.593.710-7, RUT 91.915.000-9, RUT 99.502.650-3, RUT 96.765.480-9, RUT 78.110.220-2, RUT 7.145.817-2, RUT 95.877.000-6, RUT 96.798.550-3, RUT 76.636.640-6, RUT 89.212.300-4, RUT 92.307.000-1, RUT 77.704.270-K, RUT 77.147.890-5, RUT 99.500.610-3, RUT 96.730.630-4 y RUT 96.855.100-0 a contar del mes de enero 2007. En la oficina virtual del SII en Internet se podrá consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2006.
