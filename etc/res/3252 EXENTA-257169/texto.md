@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.252, de 24 de noviembre de 2006, de esta Subsecretaría, modifica numeral 5.- de resolución Nº 2.744 de 2006, de esta Subsecretaría, en el sentido de establecer que podrán participar en las actividades extractivas de pesca investigación autorizada todas las personas y embarcaciones inscritas en el Registro Pesquero Artesanal de X Región, conforme a requisitos señalados en resolución extractada.
+
+Valparaíso, 24 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
