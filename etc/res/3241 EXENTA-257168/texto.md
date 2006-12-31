@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.241, de esta Subsecretaría, modifica en el sentido señalado en la resolución extractada, resolución Nº 2.908 de 2006, de esta Subsecretaría, que autorizó al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LTDA. para efectuar pesca investigación según Términos Técnicos de Referencia Proyecto "Aplicación de una estrategia de explotación y ordenamiento a la pesquería del recurso pesquero Mesodesma donacium (Lamark, 1818) o "Macha", en los bancos ubicados en la playa Punta Pangal a San Pedro de Nolasco de Maullín".
+
+Valparaíso, 23 de noviembre de 2006.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
