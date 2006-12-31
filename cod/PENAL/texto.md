@@ -3966,13 +3966,15 @@ Con todo, tratándose de las faltas mencionadas en el número 19, la multa no se
 
 #### Artículo 494 bis
 
-Los autores de hurto serán castigados con prisión en su grado mínimo a medio y multa de una a cuatro unidades tributarias mensuales, si el valor de la cosa hurtada no pasare de media unidad tributaria mensual.
+Los autores de hurto serán castigados con prisión en su grado mínimo a medio y multa de una a cuatro unidades tributarias mensuales, si el valor de la cosa hurtada no pasa de media unidad tributaria mensual.
 
-En caso de reincidencia, se aplicará la pena de prisión en grado máximo.
+La falta de que trata este artículo se castigará con multa de una a cuatro unidades tributarias mensuales, si se encuentra en grado de frustrada. En estos casos, el tribunal podrá conmutar la multa por la realización de trabajos determinados en beneficio de la comunidad, señalando expresamente el tipo de trabajo, el lugar donde deba realizarse, su duración y la persona o institución encargada de controlar su cumplimiento. Los trabajos se realizarán, de preferencia, sin afectar la jornada laboral o de estudio que tenga el infractor, con un máximo de ocho horas semanales. La no realización cabal y oportuna de los trabajos determinados por el tribunal dejará sin efecto la conmutación por el solo ministerio de la ley, y deberá cumplirse íntegramente la sanción primitivamente aplicada.
 
-En los casos en que participen en el hurto individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esa circunstancia, aumentada en un grado, si éstos se hubieren prevalido de los menores en la perpetración de la falta.
+En los casos en que participen en el hurto individuos mayores de dieciocho años y menores de esa edad, se aplicará a los mayores la pena que les habría correspondido sin esa circunstancia, aumentada en un grado, si éstos se han prevalido de los menores en la perpetración de la falta.
 
-Se sancionará también la falta frustrada y la tentativa, conforme a las definiciones del artículo 7º.
+En caso de reincidencia en hurto falta frustrado, se duplicará la multa aplicada. Se entenderá que hay reincidencia cuando el responsable haya sido condenado previamente por delito de la misma especie, cualquiera haya sido la pena impuesta y su estado de cumplimiento. Si el responsable ha reincidido dos o más veces se triplicará la multa aplicada.
+
+La agravante regulada en el inciso precedente prescribirá de conformidad con lo dispuesto en el artículo 104. Tratándose de faltas, el término de la prescripción será de seis meses.
 
 #### Artículo 495
 
