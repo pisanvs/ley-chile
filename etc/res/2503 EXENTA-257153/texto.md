@@ -1,0 +1,17 @@
+PRORROGA VIGENCIA DE CERTIFICADOS DE INSCRIPCION EN REGISTRO NACIONAL DE SERVICIOS DE LA REGION METROPOLITANA DE LICITACION TRANSANTIAGO
+
+Núm. 2.503 exenta.- Santiago, 28 de diciembre de 2006.- Vistos: El artículo 3 de la Ley 18.696, La ley 18059, Lo dispuesto en el artículo 3° del Decreto Supremo N° 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, la Resolución Nº 117, de 2003, que aprobó las Bases de Licitación Pública de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público de Remunerado de Pasajeros Mediante Buses (Licitación Transantiago 2003), en adelante "las Bases de Licitación Transantiago 2003", "las Bases de Licitación" o simplemente "las Bases"; las Resoluciones Nº 31, Nº 58, Nº 59, Nº 66 y Nº 71, de 2004, que aprobaron modificaciones a las referidas Bases de Licitación; las Resoluciones N° 70 y Nº 74, de 2004, que aprobaron las respuestas a las consultas presentadas en el respectivo proceso de licitación; la Resolución Exenta Nº 109, de 2005, que aprobó el acta de calificación de ofertas y adjudicó las unidades de negocio que indica; la Resolución Exenta N°331, de 2005, que aprobó los contratos de Concesión de Uso de Vías de la Ciudad Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público de Remunerado de Pasajeros Mediante Buses, las resoluciones N°s 2404 a la 2417, todas de 28 de diciembre de 2006, de la Subsecretaría de Transportes; el Oficio N° 3969, de 10 de noviembre de 2006, del mismo origen, que fija la fecha de inicio y término de la Fase II, la Resolución Exenta N° 131, de 24 de enero de 2005, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que fija estructura del Registro de Servicios de la citada Región, y la demás normativa vigente que resulte aplicable.
+
+Considerando: Que, mediante resoluciones N°s 2404 a la 2417, citadas en el Visto, se ha dispuesto prorrogar los programas de operación de los concesionarios de la Licitación Transantiago 2003, hasta el término de la Fase II de la Etapa de Implementación, y se ha instruido a esta Secretaría Regional en el sentido de prorrogar la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región Metropolitana, de los buses adscritos a la mencionada Licitación, los que vencen el 31 de diciembre de 2006,
+
+Resuelvo:
+
+#### Artículo 1º
+
+Prorróguense hasta el 9 de febrero de 2007, todos aquellos certificados de inscripción en el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región Metropolitana, correspondientes a buses adscritos a las Unidades de Negocio de la Licitación Transantiago 2003, y que estuvieren vigentes al 31 de diciembre de 2006.
+
+#### Artículo 2º
+
+Los certificados de inscripción en el Registro Nacional de los servicios urbanos de transporte público de pasajeros de la Región Metropolitana, que deban emitirse con posterioridad al 31 de diciembre de 2006, respecto de vehículos que se incorporen por primera vez al citado Registro o que se hayan cambiado de Unidad de Negocio, deberán consignar como fecha de término el 9 de febrero de 2007.
+
+Anótese y publíquese.- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
