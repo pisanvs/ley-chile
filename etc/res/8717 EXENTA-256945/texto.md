@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.717, de 21 de diciembre de 2006, Serviu Región del Biobío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en Ranguelmo, Rol de Avalúo Nº 212-13, de la comuna de Coelemu, superficie aproximada 70,00 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R20.668 M, de aparente dominio de Forestal Santa Laura Ltda., para ejecución proyecto "Urbanización Chile Barrio Asentamiento Santa Laura de Ranguelmo y 27 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Marisa Perrin Costa, arquitecta, y Gabriel Fernández de la Maza y Santiago Aptecar Nazer, arquitectos, según informe de fecha 3 de octubre de 2006, fijó monto provisional indemnización en $202.360.-, pagadera de contado.
+
+- Director Serviu Región del Biobío.
