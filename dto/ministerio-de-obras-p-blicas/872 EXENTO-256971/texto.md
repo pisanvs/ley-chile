@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 872, de fecha 30 de noviembre del 2006, se expropió el lote de terreno Nº 18, superficie 373 m², Rol de avalúo 219-163, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete-Cayucupil, Tramo Km 0,00000 a Km. 12,80844", VIII Región y se acordó el valor de indemnización con su propietaria María Celeste Méndez Valdivieso, ascendente a la cantidad de $332.632.
+
+- Fiscal del Ministerio de Obras Públicas.
