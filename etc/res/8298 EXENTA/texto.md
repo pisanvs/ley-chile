@@ -1,0 +1,7 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.298, 13 de diciembre 2006, de Serviu Región del Biobío ordenó expropiación parcial atributos de uso y goce sobre franja de terreno de 8,72 m² sin edificación, singularizada como polígono "A-B-C-D-A" en Plano expropiación S8R-20.889, de inmueble de mayor cabida ubicado en calle Alerces esq.
+
+O'Higgins Lt 1 B PE comuna Penco, Rol Avalúo Nº 0013900049 de Penco; terreno afecto a expropiación parcial de aparente dominio de Rosa Ulloa Moreno, para ejecución obras colector aguas lluvia en Asentamiento Sector Oriente Programa Chile Barrio, y Construcción de 83 entornos comuna Penco. Comisión peritos integrada por Víctor Felipe Toledo Quijada, arquitecto, domiciliado en Concepción, Tercera Longitudinal 446, Lomas de San Andrés; Álvaro Hernán Berríos San Martín, arquitecto, domiciliado en Los Lirios Nº 4786, Cruz del Sur, Talcahuano y Roxana Cecilia Abarzúa Gajardo, ingeniera constructora, domiciliada en Avda. Los Canelos 132, comuna de San Pedro de la Paz, según Informe Tasación de 21 de noviembre 2006, fijó monto total indemnización provisional de esta expropiación parcial en $1.032.238.- y pagadera de contado al expropiado. Todo de conformidad artículo 51 Ley 16.391 y DL 2.186, de 1978, Orgánico Expropiaciones.
+
+- Director Serviu Región del Biobío.
