@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.581, de 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en Avda. Ruiz de Gamboa Nº 123, Rol de Avalúo Nº 305-10, comuna Chillán, superficie aproximada 25,05 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R-21.173, de aparente dominio de Fuica Rebolledo, Fresia, para ejecución obras pavimentación, proyecto "Habilitación Av. Mariscal Ruiz de Gamboa", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Cecilia Carrasco V., Claudia Marzullo G. y Mario Bellolio B., arquitectos, según informe de fecha 7 de diciembre de 2006, fijó monto provisional indemnización en $1.424.277.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
