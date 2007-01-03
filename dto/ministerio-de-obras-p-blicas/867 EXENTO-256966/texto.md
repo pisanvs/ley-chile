@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 867 de fecha 30 de noviembre de 2006, se expropió el lote de terreno Nº 46, superficie 272,66 m², rol Nº 251-41, comuna de Salamanca, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 a Km. 23,49783, II Etapa", IV Región y se acordó el valor de la indemnización con su propietario Carlos Rodrigo Bugueño Lanas, ascendente a la cantidad de $891.703.
+
+- Fiscal del Ministerio de Obras Públicas.
