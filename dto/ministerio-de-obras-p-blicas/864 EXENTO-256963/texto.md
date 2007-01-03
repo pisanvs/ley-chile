@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 864, de fecha 30 de noviembre del 2006, se expropiaron los lotes de terrenos Nºs. 14 y 15, superficie 816 y 727 m² respectivamente, Rol Nº 172-26, comuna de Curarrehue, IX Región para la obra "Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, Sector Curarrehue - Puesco, Km. 116,88000 al Km. 136,76000, Tramo I, Km. 116,8800 al Km. 124,38000", y se acordó el valor de indemnización con su propietario Florentino Coñuepán Penchulef, ascendente a la cantidad de $2.356.173.
+
+- Fiscal del Ministerio de Obras Públicas.
