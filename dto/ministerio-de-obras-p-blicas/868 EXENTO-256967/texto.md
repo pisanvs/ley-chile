@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 868 de fecha 30 de noviembre de 2006, se expropió el lote de terreno Nº 97, superficie 202 m², rol Nº 223-39, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", VIII Región y se acordó el valor de la indemnización con su propietario Ruperto Molina Medina, ascendente a la cantidad de $299.534.
+
+- Fiscal del Ministerio de Obras Públicas.
