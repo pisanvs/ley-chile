@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 899, de 14 de diciembre de 2006, se modificó el numeral 6º del decreto MOP exento Nº 271 de fecha 31 de mayo de 2006, en relación a la suma correspondiente a la imputación del gasto, siendo ésta ascendente a la cantidad de ochocientos sesenta y dos mil cuatrocientos ochenta pesos ($862.480.-) y no como se expresa en el decreto modificado.
+
+- Fiscal del Ministerio de Obras Públicas.
