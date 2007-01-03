@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 863, de fecha 30 de noviembre del 2006, se expropió el lote de terreno Nº 5, superficie 375 m², Rol Nº 156-43, comuna de Curarrehue, IX Región para la obra "Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, Sector Curarrehue - Puesco, Km. 116,88000 al Km. 136,76000, Tramo I, Km. 116,8800 al Km. 124,38000", y se acordó el valor de indemnización con su propietario Francisco Segundo Martínez Díaz, ascendente a la cantidad de $1.642.993.
+
+- Fiscal del Ministerio de Obras Públicas.
