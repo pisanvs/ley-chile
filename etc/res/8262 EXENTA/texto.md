@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.262, de 12 de diciembre de 2006, Serviu Región del Biobío ordenó expropiación de los atributos de uso y goce sobre faja de terreno que forma parte de uno de mayor extensión ubicada en calle Los Alerces St. 13 manzana A Rol de Avalúo Nº 139-12, comuna Penco, superficie aproximada 9,87 metros cuadrados de terreno, dentro polígono y linderos señalados en plano expropiación Nº S8R-20.829 M, de aparente dominio de Isolina de la Cruz Montero Fabre, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Sector Oriente y Construcción 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, y Felipe Toledo Quijada y Álvaro Berríos San Martín, arquitectos, según informe de fecha 17 de octubre de 2006, fijó monto provisional indemnización en $90.893.-, pagadera de contado.
+
+- Director Serviu Región del Biobío.
