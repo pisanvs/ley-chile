@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 871 de 30 de noviembre de 2006, se expropió el lote de terreno Nº 10, superficie 189 m², Rol Nº 142-031, comuna de Huasco, III Región para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, Provincia de Huasco, Región Atacama Etapa I" y se acordó el valor de indemnización con su propietaria Rebeca del Rosario Moyano Iriarte y Otros, ascendente a la cantidad de $467.195.
+
+- Fiscal del Ministerio de Obras Públicas.
