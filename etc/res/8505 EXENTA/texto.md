@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.505, 18 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en 21 de Mayo Nº 146, Rol de Avalúo Nº 304-1, comuna Chillán, superficie 27,80 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-21.202, de aparente dominio de Miguel Edu. Betancourt Fuentealba, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", de la comuna de Chillán, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Marisa Perrín Costa, arquitecto, Gabriel Fernández de la Maza, arquitecto y Santiago Aptecar Nazer, arquitecto, según informe de fecha 4 de diciembre de 2006, fijó monto provisional indemnización en $1.461.450.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
