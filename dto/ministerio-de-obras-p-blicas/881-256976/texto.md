@@ -1,0 +1,3 @@
+Por decreto MOP Nº 881 de 29 de septiembre de 2006, se expropiaron los lotes de terrenos Nºs. 32, 33 y 34-A, superficies 193, 2.757 y 230 m², rol de Avalúo Nº 3203-23, comuna de Temuco, para la obra "Ampliación Reposición, Pavimentación Ruta 5 Sur, Sector Acceso Norte a Temuco, Km. 0,50000 al Km. 8,66000, Comunas de Vilcún y Temuco, Provincia de Cautín, IX Región", IX Región y se acordó el valor de la indemnización con la Universidad Católica de Temuco, ascendente a la cantidad de $264.975.249.
+
+- Fiscal del Ministerio de Obras Públicas.
