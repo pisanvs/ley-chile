@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 873 de 30 de noviembre de 2006, se expropió el lote de terreno Nº 19, superficie 345 m², rol de Avalúo 219-164, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", VIII Región y se acordó el valor de la indemnización con su propietario Miguel Montory Gajardo, ascendente a la cantidad de $321.174.
+
+- Fiscal del Ministerio de Obras Públicas.
