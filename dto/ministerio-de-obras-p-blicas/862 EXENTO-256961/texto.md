@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 862, de fecha 30 de noviembre de 2006, se expropió el lote de terreno Nº 54, superficie 154,18 m², rol Nº 251-186, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario Mario Alberto Alfaro Olivares, ascendente a la cantidad de $320.175.
+
+- Fiscal del Ministerio de Obras Públicas.
