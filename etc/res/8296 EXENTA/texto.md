@@ -1,0 +1,7 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.296, 15 diciembre 2006 de Serviu Región del Biobío ordenó expropiación parcial atributos uso y goce de franjas de terreno comprendidas en polígonos "A-B-C-D-A-E-F-A y C-G-H-I-J-D-C" (A. LL.) de 31,85 m², y en polígonos "K-L-M-N-K, M-N-O-P-M y O-P-Q-R-O" (A:S.) de 79,48 m², todas sin edificación, de inmueble mayor cabida ubicado en calle Los Alerces St-12 Mz. B, comuna de Penco, conforme Plano Expropiación S8R20.887 Rol Avalúo Nº 00139-00033, Penco; aparente propietario Gumercindo Flores Baeza. Para construcción colector aguas lluvia y de paso colector aguas servidas, respectivamente, y materialización proyecto
+
+"Urbanización Chile Barrio Asentamiento "Sector Oriente" y Construcción de 83 entornos en comuna de Penco. Comisión peritos integrada por Víctor Felipe Toledo Quijada, arquitecto, domiciliado en Concepción, Tercera Longitudinal 446, Lomas de San Andrés; Álvaro Hernán Berríos San Martín, arquitecto, domiciliado en Los Lirios Nº 4786, Cruz del Sur, Talcahuano y Roxana Cecilia Abarzúa Gajardo, ingeniera constructora, domiciliada en Avda. Los Canelos 132, comuna de San Pedro de la Paz, según Informe Tasación de 21 de noviembre 2006, fijó monto total indemnización provisional esta expropiación parcial en $1.032.238.- y pagadera de contado al expropiado. Todo de conformidad artículo 51 Ley 16.391 y DL 2.186, de 1978, Orgánico Expropiaciones.
+
+- Director Serviu Región del Biobío. Concepción.
