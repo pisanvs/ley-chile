@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 861, de fecha 30 de noviembre de 2006, se expropiaron los lotes de terrenos Nºs. 89 y 90, superfice 178,14 y 430,99 m² respectivamente, Rol Nº 260-46, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietario Heriberto Segundo Cortés García, ascendente a la cantidad de $2.292.633.
+
+- Fiscal del Ministerio de Obras Públicas.
