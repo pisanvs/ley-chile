@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 8.217, 7 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre faja de terreno de un inmueble ubicado en calle Los Alerces St. 8 Manzana A Rol de Avalúo Nº 139-17, comuna Penco, superficie 42,42 m² y 26,32 m² de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-20.878, de aparente dominio de Ana María Parra Zapata y Otros, para ejecución programa "Urbanización Asentamiento Sector Oriente y Construcción de 83 Entornos" Programa Chile Barrio, de Penco, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor; Felipe Toledo Quijada, arquitecto; y Alvaro Berríos San Martín, arquitecto, según informe de fecha 21 de noviembre 2006, fijó monto provisional indemnización en $633.027.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
