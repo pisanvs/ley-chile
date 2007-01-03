@@ -1,0 +1,1 @@
+Por decreto MOP Nº 1.108, de 30 de noviembre de 2006, se dejó sin efecto el decreto MOP Nº 1.045, de 11 de octubre de 2005; por haberse verificado la expropiación de los lotes Nºs. 1 y 3, mediante decreto MOP Nº 476, de 30 de junio de 2006.
