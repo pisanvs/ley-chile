@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 876 de fecha 30 de noviembre del 2006, se expropió el lote de terreno Nº 23-A, superficie 373 m2, Rol E/T, comuna de Illapel, IV Región para la obra "Construcción Variante, Cruce Sector Ruta D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,00000 a Km. 6,17679" y se acordó el valor de indemnización con su propietario don Eduardo Antonio Moyano Rojas, ascendente a la cantidad de $918.981.
+
+- Fiscal del Ministerio de Obras Públicas.
