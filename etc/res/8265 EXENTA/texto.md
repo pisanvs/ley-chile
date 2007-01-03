@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.265, de 12 de diciembre de 2006, Serviu Región del Biobío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en Villa Penco, sector Penco Oriente, Rol de Avalúo s/n comuna Penco, superficie aproximada 40,96 y 27,32 metros cuadrados de terreno, dentro polígonos y linderos señalados en plano expropiación Nº S8R-20.894, de aparente dominio de Forestal Bío Bío, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Sector Oriente y Construcción 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, y Felipe Toledo Quijada y Álvaro Berríos San Martín, arquitectos, según informe de fecha 21 de noviembre de 2006, fijó monto provisional indemnización en $628.791.-, pagadera de contado.
+
+- Director Serviu Región del Biobío.
