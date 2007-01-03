@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 865, de fecha 30 de noviembre de 2006, se expropió el lote de terreno Nº 14, superficie 1.027 m², Rol Nº 309-72, comuna de Pitrufquén, para la obra "Camino Vialidad Complementaria Ruta 5 Sur, Sector Calle de Servicio Acceso Sur Poniente a Pitrufquén, Tramo Km. 2,37500 a Km. 3,98500", IX Región, y se acordó el valor de la indemnización con su propietaria Doraluz Ivonne Fuentes Curihual, ascendente a la cantidad de $1.899.696.
+
+- Fiscal del Ministerio de Obras Públicas.
