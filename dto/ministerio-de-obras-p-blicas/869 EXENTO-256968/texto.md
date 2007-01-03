@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 869 de fecha 30 de noviembre de 2006, se expropiaron los lotes de terreno Nºs. 60-A y 62-A, superficie 886,00 y 1.020,00 m² respectivamente, rol Nº 411-90, comuna de Los Muermos, para la obra "Camino Ruta V-60, Sector El Tepual - Las Quemas - Los Muermos, Km. 0,00000 a Km. 32,27442", X Región y se acordó el valor de la indemnización con su propietario Juan Francisco Harvez García, ascendente a la cantidad de $1.233.598.
+
+- Fiscal del Ministerio de Obras Públicas.
