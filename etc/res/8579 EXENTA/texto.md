@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.579, de 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en Santa Amelia Nº 236 PB Balmaceda, Rol de Avalúo Nº 255-5, comuna Chillán, superficie aproximada 89,10 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R-21.181, de aparente dominio de Juana María Sepúlveda Castro, para ejecución obras pavimentación, proyecto "Habilitación Av. Mariscal Ruiz de Gamboa", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Andrés Tobar B., Guillermo Villafañe F. y Patricio Riquelme V., arquitectos, según informe de fecha 1 de diciembre de 2006, fijó monto provisional indemnización en $1.314.403.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
