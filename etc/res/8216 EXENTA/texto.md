@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta 8.216, 7 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre faja de terreno de un inmueble ubicado en calle Los Alerces St. 7 Manzana A Rol de Avalúo Nº 139-18, comuna Penco, superficie 118,81 m² y 83,47 m² de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-20.879, de aparente dominio de Carlos Cabrera Báez, para ejecución programa "Urbanización Asentamiento Sector Oriente y Construcción de 83 Entornos" Programa Chile Barrio, de Penco, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor; Felipe Toledo Quijada, arquitecto; y Alvaro Berríos San Martín, arquitecto, según informe de fecha 21 de noviembre 2006, fijó monto provisional indemnización en $2.235.396.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
