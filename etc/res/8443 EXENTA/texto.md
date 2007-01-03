@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.443, 15 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Quinta, Rol de Avalúo Nº 2202-3, comuna Chillán, superficie 65,20 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-21.098, de aparente dominio de José Daniel Sanhueza Iribarra, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", de la comuna de Chillán, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Andrés Tobar Beluzan, arquitecto, Guillermo Villafañe Feres, arquitecto y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 22 de noviembre de 2006, fijó monto provisional indemnización en $668.879.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
