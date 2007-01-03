@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº 8.577, de 19 de diciembre de 2006, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Fundo San Pedro, Rol de Avalúo Nº 2206-20, comuna Chillán, superficie aproximada 25,10 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R-21.185, de aparente dominio de Riquelme Fernández, Rosa Ester, para ejecución obras pavimentación, proyecto "Habilitación Av. Mariscal Ruiz de Gamboa", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar B., Guillermo Villafañe F. y Patricio Riquelme V., arquitectos, según informe de fecha 1 de diciembre de 2006, fijó monto provisional indemnización en $370.275.-, pagadera de contado.
+
+- Director Serviu Región del Biobío.
