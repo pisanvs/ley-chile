@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.571, de 28 de diciembre de 2006, de esta Subsecretaría, autorízase a PESQUERA SUR AUSTRAL S.A. para realizar operaciones pesqueras a contar del 1 de enero del año 2007 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con la nave fábrica denominada "Ocean Dawn", en aguas exteriores, por fuera de las líneas de base recta, entre los paralelos 47° L.S. y 57° L.S., respecto de los recursos y con las obligaciones establecidas en las respectivas autorizaciones.
+
+Valparaíso, 28 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
