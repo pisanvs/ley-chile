@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.540, de 27 de diciembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101394 presentada por SOCIEDAD MARITIMA CHARTCHIL LIMITADA, para instalar y operar un centro de cultivo ubicado en Estero Reloncaví, sector oeste de Punta Barquillo, X Región.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
