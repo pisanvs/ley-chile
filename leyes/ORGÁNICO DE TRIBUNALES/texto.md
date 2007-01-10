@@ -78,7 +78,7 @@ A los tribunales mencionados en este artículo corresponderá el conocimiento de
 
 Integran el Poder Judicial, como tribunales ordinarios de justicia, la Corte Suprema, las Cortes de Apelaciones, los Presidentes y Ministros de Corte, los tribunales de juicio oral en lo penal, los juzgados de letras y los juzgados de garantía.
 
-Forman parte del Poder Judicial, como tribunales especiales, los juzgados de familia, los Juzgados de Letras del Trabajo y los Tribunales Militares en tiempo de paz, los cuales se regirán en su organización y atribuciones por las disposiciones orgánicas constitucionales contenidas en la ley Nº 19.968, en el Código del Trabajo, y en el Código de Justicia Militar y sus leyes complementarias, respectivamente, rigiendo para ellos las disposiciones de este Código sólo cuando los cuerpos legales citados se remitan en forma expresa a él.
+Forman parte del Poder Judicial, como tribunales especiales, los juzgados de familia, los Juzgados de Letras del Trabajo, los Juzgados de Cobranza Laboral y Previsional y los Tribunales Militares en tiempo de paz, los cuales se regirán en su organización y atribuciones por las disposiciones orgánicas constitucionales contenidas en la ley Nº 19.968, en el Código del Trabajo, y en el Código de Justicia Militar y sus leyes complementarias, respectivamente, rigiendo para ellos las disposiciones de este Código sólo cuando los cuerpos legales citados se remitan en forma expresa a él.
 
 Los demás tribunales especiales se regirán por las leyes que los establecen y reglamentan, sin perjuicio de quedar sujetos a las disposiciones generales de este Código.
 
@@ -1068,7 +1068,7 @@ f) Derogado.
 
 g) De las causas civiles y de comercio cuya cuantía sea inferior a las señaladas en las letras a) y b), del N° 1 de este artículo, en que sean parte o tengan interés los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, los Ministros de la Corte Suprema o de alguna Corte de Apelaciones, los Fiscales de estos tribunales, los jueces letrados, los párrocos y vicepárrocos, los cónsules generales, cónsules o vicecónsules de las naciones extranjeras reconocidas por el Presidente de la República, las corporaciones y fundaciones de derecho público o los establecimientos públicos de beneficencia y
 
-h) De las causas del trabajo y de familia cuyo conocimiento no corresponda a los juzgados de letras del trabajo y de familia respectivamente.
+h) De las causas del trabajo y de familia cuyo conocimiento no corresponda a los Juzgados de Letras del Trabajo, de Cobranza Laboral y Previsional o de Familia, respectivamente.
 
 3° Suprimido.
 
@@ -1910,9 +1910,9 @@ Conocerá de todos los asuntos a que se refiere el Código de Minas, el juez let
 
 #### Artículo 147
 
-Será juez competente para conocer de las demandas de alimentos el del domicilio del alimentante o alimentario, a elección de este último.
+Será juez competente para conocer de las demandas de alimentos el del domicilio del alimentante o alimentario, a elección de este último. Asimismo, ello se aplicará a las solicitudes de aumento de pensiones alimenticias decretadas.
 
-De las solicitudes de cese, aumento o rebaja de la pensión decretada, conocerá el juez que decretó la pensión.
+De las solicitudes de cese o rebaja de la pensión decretada conocerá el tribunal del domicilio del alimentario.
 
 Asimismo, será juez competente para conocer de las acciones de reclamación de filiación contempladas en el Párrafo 2º del Título VIII del Libro I del Código Civil el del domicilio del demandado o demandante, a elección de este último.
 
@@ -2276,7 +2276,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 4.850 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.640 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.000 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.750 pesos.
 
 #### Artículo 199
 
@@ -2666,7 +2666,7 @@ La inamovilidad de que habla el artículo 77 de la Constitución del Estado rige
 
 #### Artículo 248
 
-Para todos los efectos de este Código se entenderá que las referencias hechas a los jueces letrados o jueces de letras incluyen también a los jueces de juzgados de familia, los jueces de juzgados de garantía y a los jueces de los tribunales de juicio oral en lo penal, salvo los casos en que la ley señale expresamente lo contrario.
+Para todos los efectos de este Código se entenderá que las referencias hechas a los jueces letrados o jueces de letras incluyen también a los jueces de juzgados de familia, los jueces de juzgados de letras del trabajo y de cobranza laboral y previsional, los jueces de juzgados de garantía y a los jueces de los tribunales de juicio oral en lo penal, salvo los casos en que la ley señale expresamente lo contrario.
 
 #### Artículo 249
 
@@ -3194,15 +3194,15 @@ El Escalafón del Personal de Empleados se compondrá de las siguientes categor�
 
 Primera categoría: Oficiales segundos de la Corte Suprema, Oficiales primeros de las Cortes de Apelaciones y Secretario del Presidente de la Corte Suprema.
 
-Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, administrativos jefes de juzgados de familia de asiento de Corte y Oficiales primeros de los juzgados de letras de asiento de Corte.
+Segunda categoría: Oficiales terceros de la Corte Suprema, Oficiales segundos de las Cortes de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, administrativos jefes de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte y Oficiales primeros de los juzgados de letras de asiento de Corte.
 
-Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia, administrativos contables de juzgados de familia de asiento de Corte, administrativos jefes de juzgados de familia de capital de provincia, administrativos 1° de juzgados de familia de asiento de Corte.
+Tercera categoría: Oficiales cuartos de la Corte Suprema, Oficiales terceros de las Cortes de Apelaciones, Oficiales de los Fiscales de estos mismos tribunales, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Oficiales segundos de los juzgados de letras de asiento de Corte y Oficiales primeros de los juzgados de capital de provincia, administrativos contables de juzgados de familia de asiento de Corte, administrativos jefes de juzgados de familia y de juzgados de letras del trabajo de capital de provincia, administrativos 1° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
 
-Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas, administrativos jefes de juzgados de familia de comuna, administrativos contables de juzgados de familia de capital de provincia, administrativos 1° de juzgados de familia de capital de provincia, y administrativos 2° de juzgados de familia de asiento de Corte.
+Cuarta categoría: Oficiales Auxiliares de la Corte Suprema, Ayudante de Biblioteca de la Corte Suprema, Oficiales cuartos de las Cortes de Apelaciones, Oficial cuarto Ayudante de Biblioteca de la Corte de Apelaciones de Valparaíso, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Encargados de sala de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales terceros de los juzgados de letras de asiento de Corte, Oficiales segundos de los juzgados de letras de capital de provincia y Oficiales primeros de los juzgados de letras de comunas o agrupación de comunas, administrativos jefes de juzgados de familia de comuna, administrativos contables de juzgados de familia de capital de provincia, administrativos 1° de juzgados de familia y de juzgados de letras del trabajo de capital de provincia, y administrativos 2° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
 
-Quinta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas, administrativos contables de juzgados de familia de comuna, administrativos 1° de juzgados de familia de comuna, administrativos 2° de juzgado de familia de capital de provincia y administrativos 3° de juzgados de familia de asiento de Corte.
+Quinta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Administrativos 2º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 1º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Oficiales cuartos de los juzgados de letras de asiento de Corte, Oficiales terceros de los juzgados de letras de capital de provincia y Oficiales segundos de los juzgados de letras de comuna o agrupación de comunas, administrativos contables de juzgados de familia de comuna, administrativos 1° de juzgados de familia de comuna, administrativos 2° de juzgados de familia y de juzgados de letras del trabajo de capital de provincia y administrativos 3° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de asiento de Corte.
 
-Sexta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco, administrativos 2° de juzgados de familia de comuna y administrativos 3° de juzgados de familia de capital de provincia.
+Sexta categoría: Administrativos 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia, Administrativos 2º y 3º de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de comuna o agrupación de comunas, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de Corte de Apelaciones, Oficiales cuartos de los juzgados de letras de capital de provincia, Oficiales terceros de los juzgados de letras de comuna o agrupación de comunas y Oficial Intérprete de los juzgados de Temuco, administrativos 2° de juzgados de familia de comuna y administrativos 3° de juzgados de familia y de juzgados de letras del trabajo y de cobranza laboral y previsional de capital de provincia.
 
 Séptima categoría: Oficiales de Sala de la Corte Suprema, de las Cortes de Apelaciones, de los juzgados de letras, Ayudantes de audiencia de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, telefonistas y secretarias ejecutivas de tribunales de juicio oral en lo penal y de juzgados de garantía de ciudad asiento de capital de provincia y de comuna o agrupación de comunas, y demás personal auxiliar de aseo o de servicio que se desempeñe en los Tribunales de Justicia, administrativos 3° de juzgados de familia de comuna.
 
@@ -3368,13 +3368,13 @@ Los jueces de juzgados de garantía deberán asistir a su despacho por 44 horas 
 
 Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que comenzará el primero de Febrero y durará hasta el primer día hábil de marzo.
 
-Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal y de familia.
+Lo dispuesto en este artículo no regirá, respecto del feriado de vacaciones, con los jueces letrados que ejercen jurisdicción criminal, laboral y de familia.
 
 #### Artículo 314
 
 Durante el feriado de vacaciones funcionarán de lunes a viernes de cada semana los jueces de letras que ejerzan jurisdicción en lo civil para conocer de aquellos asuntos a que se refiere el inciso segundo de este artículo. En las comunas o agrupaciones de comunas en donde haya más de uno, desempeñará estas funciones el juez que corresponda de acuerdo con el turno que para este efecto establezca la Corte de Apelaciones respectiva. En Santiago funcionarán dos juzgados de letras en lo civil, de acuerdo con el turno que señale la Corte de Apelaciones de Santiago para tal efecto. La distribución de las causas entre estos juzgados se hará por el Presidente de este Tribunal.
 
-Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de los juicios del trabajo cuando les corresponda, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
+Los jueces durante el feriado de vacaciones deberán conocer de todas las cuestiones de jurisdicción voluntaria, de los juicios posesorios, de los asuntos a que se refiere el N° 1 del artículo 680 del Código de Procedimiento Civil, de las medidas prejudiciales y precautorias, de las gestiones a que dé lugar la notificación de protestos de cheques, de los juicios ejecutivos hasta la traba de embargo inclusive, y de todas aquellas cuestiones respecto de las cuales se conceda especialmente habilitación de feriado. En todo caso, deberán admitirse a tramitación las demandas, de cualquiera naturaleza que ellas sean, para el solo efecto de su notificación.
 
 La habilitación a que se refiere el inciso anterior deberá ser solicitada ante el tribunal que ha de quedar de turno, y en aquellos lugares en que haya más de un Juzgado de turno, la solicitud quedará sujeta a la distribución de causas a que se refiere el inciso primero. Sin embargo, en este último caso, y siempre que se trate de un asunto que con anterioridad al feriado esté conociendo uno de los Juzgados que quede de turno, la solicitud de habilitación se presentará ante él.
 
@@ -3465,6 +3465,16 @@ El original de la declaración será protocolizado en la misma notaría donde fu
 La declaración deberá ser actualizada cuando el funcionario fuere nombrado en un nuevo cargo o dentro de los treinta días siguientes al cumplimiento del próximo cuatrienio, si no se hubiere efectuado un nuevo nombramiento.
 
 La omisión de la declaración será sancionada por el superior jerárquico que corresponda, en la forma y con las sanciones que establece el Título XVI.
+
+#### Artículo 323 bis
+
+A. Asimismo, las personas señaladas en el artículo anterior deberán efectuar una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, ante el Secretario de la Corte Suprema o de la Corte de Apelaciones respectiva, según sea el caso, quien la mantendrá para su consulta pública.
+
+En todo lo demás, la declaración de patrimonio se regirá por lo dispuesto en el artículo anterior.
+
+No obstante lo establecido en el inciso precedente, la no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor.
+
+El incumplimiento de la obligación de actualizar la declaración de patrimonio, se sancionará con multa de cinco a quince unidades tributarias mensuales.
 
 #### Artículo 323 ter
 
@@ -4912,7 +4922,7 @@ La Corporación Administrativa del Poder Judicial
 
 #### Artículo 506
 
-La administración de los recursos humanos, financieros, tecnológicos y materiales destinados al funcionamiento de la Corte Suprema, de las Cortes de Apelaciones y de los Juzgados de Letras, de Menores y del Trabajo, la ejercerá la Corte Suprema a través de un organismo denominado Corporación Administrativa del Poder Judicial, con personalidad jurídica, que dependerá exclusivamente de la misma Corte y tendrá su domicilio en la ciudad en que ésta funcione.
+La administración de los recursos humanos, financieros, tecnológicos y materiales destinados al funcionamiento de la Corte Suprema, de las Cortes de Apelaciones y de los Juzgados de Letras, de Menores, del Trabajo y de Cobranza Laboral y Previsional, la ejercerá la Corte Suprema a través de un organismo denominado Corporación Administrativa del Poder Judicial, con personalidad jurídica, que dependerá exclusivamente de la misma Corte y tendrá su domicilio en la ciudad en que ésta funcione.
 
 La referida Corporación se regirá por las disposiciones de este Título y por los autos acordados que al efecto dicte la Corte Suprema, dentro de sus atribuciones, y le serán también aplicables las normas sobre administración financiera del Estado.
 
