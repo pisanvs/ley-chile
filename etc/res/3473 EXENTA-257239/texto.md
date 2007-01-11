@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.473, de 27 de diciembre de 2006, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº1838 de 1997, de esta Subsecretaría, sólo en cuanto autorizó a JAIME ROMAN ALVAREZ ARMIJO, para desarrollar actividades pesqueras extractivas con la nave "Cazador", sobre el recurso Bacalao de profundidad, en el área marítima comprendida entre Punta Liles y el paralelo 47° L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en Informes Técnicos citados en Visto.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
