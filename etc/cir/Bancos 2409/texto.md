@@ -1982,7 +1982,7 @@ De acuerdo con dicha ley, los bancos están obligados a reportar operaciones sos
 
 En todo caso, cabe tener presente lo dispuesto en el artículo 154 la Ley General de Bancos acerca de la reserva y secreto bancario y en el artículo 6° de la Ley N° 19.913, sobre prohibición de informar al afectado o a terceras personas sobre la información enviada a la UAF u otros antecedentes al respecto.
 
-Las disposiciones señaladas en este Capítulo, son las mínimas que deben observar los bancos para la adopción de un sistema sobre prevención del lavado de activos y financiamiento del terrorismo y su cumplimiento forma parte de la evaluación que lleva a cabo este Organismo sobre la gestión integral de riesgos.
+Las disposiciones señaladas en este Capítulo, son las mínimas que deben observar los bancos para la adopción de un sistema sobre prevención del lavado de activos y financiamiento del terrorismo y su cumplimiento forma parte de la evaluación que lleva a cabo este Organismo sobre la gestión integral de riesgos, sin perjuicio de las sanciones que puede imponer en caso de incumplimiento, de acuerdo con lo dispuesto en el artículo 19 de la Ley General de Bancos.
 
 Para los efectos de este Capítulo, son clientes todas las personas naturales y jurídicas con las cuales la entidad establece o mantiene una relación de origen legal o contractual, como consecuencia de la prestación de un servicio o contratación de un producto, ofrecido en el marco de las actividades propias de su giro y de conformidad a las disposiciones legales y reglamentarias. Esta relación puede ser ocasional o habitual.
 
