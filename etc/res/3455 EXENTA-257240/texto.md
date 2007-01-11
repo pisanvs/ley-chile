@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.455, de 27 de diciembre de 2006, de esta Subsecretaría, recházase la solicitud Nº 205111095 presentada por PATAGONIA SALMON FARMING S.A., para modificar la concesión de acuicultura ubicada en seno Ventisquero, sector este, XI Región, otorgada por resolución Nº 299 de 1998, de la Subsecretaría de Marina.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
