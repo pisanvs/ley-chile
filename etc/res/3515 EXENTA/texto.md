@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.515, de 27 de diciembre de 2006 de esta Subsecretaría, declaráse la caducidad parcial de la resolución Nº 3.016 de 2002, de esta Subsecretaría, sólo en cuanto autorizó a don MARCELINO SIMON GONZALEZ RIVERA, para ampliar actividades pesqueras extractivas con la nave "Don Vicente", sobre el recurso Reineta, en el área marítima comprendida entre la I a III Regiones y V Región, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en Informes Técnicos citados en Visto.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
