@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.526, de 27 de diciembre de 2006, de esta Subsecretaría, recházase la solicitud de modificación Nº 205121014 presentada por PESCA CHILE S.A., para la concesión de acuicultura otorgada por resolución Nº 1.430 de 2003, de la Subsecretaría de Marina, ubicada en Isla Capitán Aracena, al este de Península Greenough, XII Región.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
