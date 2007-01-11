@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.564, de 28 de diciembre de 2006, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 205031017 presentada por EMPRENDIMIENTOS MARINOS BAHIA SALADO LIMITADA, para instalar y operar un centro de cultivo ubicado en sector Bahía Salado, caleta Los Medanitos, III Región.
+
+Valparaíso, 28 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
