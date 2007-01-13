@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.522, de 27 de diciembre de 2006, de esta Subsecretaría, autorízase a EXPORTADORA Y COMERCIALIZADORA SAN DIEGO LIMITADA para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Phillippi Nº 465, Valparaíso, V Región, en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
