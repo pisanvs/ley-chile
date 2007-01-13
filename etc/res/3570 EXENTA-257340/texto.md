@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.570, de 28 de diciembre de 2006, de esta Subsecretaría, autorízase a PESCA SURIBERICA S.A. para realizar operaciones pesqueras, a contar del 1 de enero del año 2007 y hasta el 31 de diciembre del mismo año, ambas fecha inclusive, con el barco fábrica "Isla Camila", en aguas exteriores, por fuera de las líneas de base recta, al sur del paralelo 47°00' L.S., respecto de los recursos y con las obligaciones establecidas en su respectiva autorización.
+
+Valparaíso, 28 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
