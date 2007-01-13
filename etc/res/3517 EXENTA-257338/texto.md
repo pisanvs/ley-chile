@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.517, de 27 de diciembre de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 64 de 2006, de esta Subsecretaría, que autorizó a PESCA SURIBERICA S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Diseño e implementación de una línea piloto de captura de Bacalao de profundidad (Dissostichus eleginoides) con trampas, año 2006", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 4 de febrero de 2007, inclusive.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
