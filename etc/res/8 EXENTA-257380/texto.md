@@ -1,0 +1,5 @@
+ESTABLECE OBLIGACION DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, LAS DEVOLUCIONES DE FONDOS PREVISIONALES EFECTUADAS POR ESTAS Y EL MONTO DEL IMPUESTO A LA RENTA RETENIDO SOBRE DICHAS SUMAS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos N° 8 del 10 de enero de 2007, establece obligación de las Administradoras de Fondos de Pensiones de informar al Servicio de Impuestos Internos, en la forma y plazo que se señala, las devoluciones de fondos previsionales efectuadas por estas en conformidad a lo dispuesto por el artículo 7° de la ley N° 18.156 y el monto del Impuesto a la Renta retenido sobre dichas sumas.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de enero, de 2007.
