@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.103, de fecha 30 de noviembre del 2006, se expropió el lote de terreno Nº 7, superficie 330 m2, Rol Nº 139-51, comuna de Penco, VIII Región para la obra "Mejoramiento Ruta 150, Tramo II, Sector By-Pass Penco (Eje Principal)", y se acordó el valor de indemnización con su propietaria María Mercedes Contreras Roa, ascendente a la cantidad de $21.053.063.
+
+Fiscal del Ministerio de Obras Públicas.
