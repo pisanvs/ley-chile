@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº8.583, 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en Recinto Estación s/n Confluencia, Rol de Avalúo Nº92265-2, comuna Chillán, superficie 123,93 m² de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-21.189, de aparente dominio de Empresa Ferrocarriles del Estado, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Andrés Tobar Beluzán, arquitecto; Guillermo Villafañe Feres, arquitecto, y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 11 de diciembre de 2006, fijó monto provisional indemnización en $2.648.796.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
