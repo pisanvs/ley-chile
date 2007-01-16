@@ -1,0 +1,3 @@
+Por decreto MOP N° 1.060, de 31 de octubre de 2006, se dejó sin efecto el decreto MOP Nº 264, de 26 de abril de 2005, que ordenó la expropiación del lote de terreno Nº 61, perteneciente a la obra "Proyecto: Sistema Américo Vespucio Sur. Ruta 78 Av. Grecia. Sector 4: Acceso Sur a Santiago Av. Vicuña Mackenna", por no ser necesario para la ejecución de la obra.
+
+Fiscal del Ministerio de Obras Públicas.
