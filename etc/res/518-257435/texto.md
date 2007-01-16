@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 518, 19 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Luis Arellano Nº 320, rol de avalúo Nº 2202-105, comuna Chillán Viejo, superficie 168,91 metros cuadrados de terreno y 175,28 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 21.082, de aparente dominio de Ramón E. Acuña Arriagada, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", de la comuna de Chillán, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar Beluzan, arquitecto, Guillermo Villafañe Feres, arquitecto, y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 22 de noviembre 2006, fijó monto provisional indemnización en $29.223.353.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
