@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 485, 15 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Sta. Cruz Nº 1050, Rol de avalúo Nº 2202-8, comuna Chillán Viejo, superficie 687,60 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R 21.090, de aparente dominio de Suc. Del Valle Hernández, María Arac., para ejecución proyecto "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar Beluzan, arquitecto, Guillermo Villafañe Feres, arquitecto, y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 22 de noviembre 2006, fijó monto provisional indemnización en $10.116.659.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
