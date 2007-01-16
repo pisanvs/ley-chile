@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 509, 19 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial de un inmueble ubicado en Avda. Ruiz de Gamboa Nº 119, rol de avalúo Nº 305-34, comuna Chillán, superficie 62,30 m2 de terreno y 128,54 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-21.175, de aparente dominio de Francisco San Martín San Martín, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Cecilia Carrasco Verdugo, arquitecto; Claudia Marzullo García, arquitecto, y Mario Bellolio Bosticca, arquitecto, según informe de fecha 02 de diciembre 2006, fijó monto provisional indemnización en $12.733.382.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
