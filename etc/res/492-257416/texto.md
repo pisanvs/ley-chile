@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 492, 15 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial de un inmueble ubicado en Avda. Ruiz de Gamboa Nº 115, rol de avalúo Nº 305-9, comuna Chillán, superficie 49,22 m2 de terreno y 61,94 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-21.176, de aparente dominio de don Romilio Aranis Villagrán, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar Beluzan, arquitecto; Guillermo Villafañe Feres, arquitecto; y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 01 de diciembre 2006, fijó monto provisional indemnización en $8.902.832.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
