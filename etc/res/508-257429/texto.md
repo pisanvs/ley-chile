@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº508 de 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en camino Parque Lantaño s/n, Rol de Avalúo Nº12.204-1, comuna Chillán, superficie aproximada 193,14 metros cuadrados de terreno, y 0,00 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación NºS8R-21.186, de aparente dominio de Soc. Trujillo y Weitzel Ltda., para ejecución obras pavimentación, proyecto "Habilitación Av. Mariscal Ruiz de Gamboa", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Cecilia Carrasco V., Claudia Marzullo G. y Mario Bellolio B., arquitectos, según informe de fecha 2 de diciembre de 2006, fijó monto provisional indemnización en $3.630.293.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío. Serviu Región del Bío Bío.
