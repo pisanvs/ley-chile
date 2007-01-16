@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 501, 18 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial de un inmueble ubicado en 21 de Mayo Nº 160, La Fuentes, rol de avalúo Nº 304-23, comuna Chillán, superficie 19,70 metros cuadrados de terreno y 7,50 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-21.199, de aparente dominio de Tito Antonio Higueras Garrido, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", de la comuna de Chillán, conforme artículo 51 ley 16.391 y DL 2.186. Comisión peritos integrada por Marisa Perrín Costa, arquitecto; Gabriel Fernández de la Maza, arquitecto, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 4 de diciembre de 2006, fijó monto provisional indemnización en $2.638.150.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
