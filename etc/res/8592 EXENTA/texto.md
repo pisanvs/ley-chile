@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº8.592, 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en Lo Javiera L T C, Rol de Avalúo Nº1532-1, comuna de Los Angeles, superficie 519 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R 21.149, de aparente dominio de Suc. Contreras Toro, Horacio, para ejecución proyecto "Mejoramiento Accesos a la ciudad de Santa María de Los Angeles", conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Felipe Toledo Quijada, arquitecto y Alvaro Berríos San Martín, arquitecto, según informe de fecha 04 de diciembre 2006, fijó monto provisional indemnización en $3.034.286.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
