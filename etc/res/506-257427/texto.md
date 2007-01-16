@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 506, de 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en Avda. Sepúlveda Bustos 428, rol de avalúo Nº 255-13, comuna Chillán, superficie aproximada 306,20 metros cuadrados de terreno y 217,64 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación S8R-21.178, de aparente dominio de Neira Montecino, Elisa del C., para ejecución obras pavimentación, proyecto "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar B., Guillermo Villafañe F. y Patricio Riquelme V., arquitectos, según informe de fecha 1 de diciembre de 2006, fijó monto provisional indemnización en $38.575.282.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
