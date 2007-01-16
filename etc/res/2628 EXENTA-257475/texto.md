@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº2.628, fecha 21 de diciembre de 2006, Dirección Regional Serviu X Región ordenó la expropiación el lote de terreno Nº25B para la obra "Apertura Calle Petorca Puerto Montt", provincia Llanquihue, Décima Región, que figura a nombre de Inmobiliaria y Construc Austral S.A., Rol de avalúo según SII Nº341-4, comuna de Puerto Montt, superficie 6,484 metros cuadrados. La comisión de peritos integrada por los señores Leopoldo Schumacher Guarda, Loreto Araya Matus y Raúl Palma Larrea designados resolución exenta Nº351, de fecha 1 de febrero de 2006, modificada por resolución Nº419 de fecha 10 de febrero de 2006, fijó con fecha 3 de marzo de 2006, el valor provisional de la indemnización en la cantidad de $2.593.272, la que ha sido reajustada de acuerdo a la variación del IPC, quedando en $2.660.697. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº2.186.
+
+- Director Regional Serviu X Región.
