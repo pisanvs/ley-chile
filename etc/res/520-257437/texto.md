@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 520, 19 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial de inmueble ubicado en Cam. Parque Lantaño Nº 3, rol de avalúo Nº 402-197, comuna Chillán, superficie 562,14 m2 de terreno y 237,76 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-21.191, de aparente dominio de Inmobiliaria Nueva Vía S.A., para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar Beluzan, arquitecto, Guillermo Villafañe Feres, arquitecto, y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 11 de diciembre 2006, fijó monto provisional indemnización en $42.495.298.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
