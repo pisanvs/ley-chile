@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 183, fecha 19 de diciembre de 2006, tramitada por Contraloría Regional con fecha 20 de diciembre de 2006, Dirección Regional Serviu Décima Región de Los Lagos ordenó la expropiación del lote de terreno Nº 6 para la obra "Apertura Calle Petorca Puerto Montt", provincia Llanquihue, Décima Región, que figura a nombre de Quintui Duarte Lucy del Carmen, Rol de avalúo según SII Nº 343-2, comuna de Puerto Montt, superficie 150,670 metros cuadrados. La Comisión de peritos integrada por los señores Leopoldo Schumacher Guarda, Loreto Araya Matus y Raúl Palma Larrea designados resolución exenta Nº 351, de fecha 1 de febrero de 2006, modificada por resolución exenta Nº 419 de fecha 10 de febrero de 2006, fijó con fecha 3 de marzo de 2006, el valor provisional de la indemnización en la cantidad de $47.631.348 la que ha sido reajustada de acuerdo a la variación del IPC quedando en $48.869.763. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2186.
+
+- Director Regional Serviu Décima Región de Los Lagos.
