@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 519, 19 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle 21 de Mayo Nº 190, rol de avalúo Nº 304-24, comuna Chillán, superficie 31,10 metros cuadrados de terreno y 37,85 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 21.197, de aparente dominio de José Osvaldo Oñate Garrido, para ejecución proyecto "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión peritos integrada por Marisa Perrín Costa, arquitecta; Gabriel Fernández de la Maza, ingeniero civil, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 4 de diciembre 2006, fijó monto provisional indemnización en $4.671.570.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
