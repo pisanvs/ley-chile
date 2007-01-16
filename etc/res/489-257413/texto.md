@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 489, 15 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial de un inmueble ubicado en calle Luis Arellano Nº 326, rol de avalúo Nº 2202-61, comuna Chillán Viejo, superficie 1.126,67 m2 de terreno y 99,06 m2 de edificación, dentro de polígono y linderos señalados plano expropiación S8R 21.081, de aparente dominio de don Aldo Alejandro Milanese Rubilar, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión peritos integrada por Andrés Tobar Beluzan, arquitecto, Guillermo Villafañe Feres, arquitecto, y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 22 de noviembre 2006, fijó monto provisional indemnización en $51.631.913.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
