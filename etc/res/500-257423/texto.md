@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 500, 18 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en 21 de Mayo Nº 120 LT 1, rol de avalúo Nº 304-43, comuna Chillán, superficie 77,68 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-21.203, de aparente dominio de Emiliano Anse Bettancourt Domínguez, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", de la comuna de Chillán, conforme artículo 51 ley 16.391 y DL 2.186. Comisión peritos integrada por Marisa Perrín Costa, arquitecto; Gabriel Fernández de la Maza, arquitecto, y Santiago Aptecar Nazer, arquitecto, según informe de fecha 4 de diciembre de 2006, fijó monto provisional indemnización en $3.749.314.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
