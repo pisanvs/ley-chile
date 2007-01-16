@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 521, 19 diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Longitudinal Sur Km. 509, Rol de avalúo Nº 942-23, comuna de Los Angeles, superficie 518 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R 21.150, de aparente dominio de Cía. de Petróleos de Chile Copec, para ejecución proyecto "Mejoramiento Accesos a la ciudad de Santa María de Los Angeles", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, Felipe Toledo Quijada, arquitecto y Alvaro Berríos San Martín, arquitecto, según informe de fecha 4 de diciembre 2006, fijó monto provisional indemnización en $8.432.984.- pagadera de contado.
+
+- Director Serviu Región del Bio Bío.
