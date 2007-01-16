@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 510, 19 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación parcial de un inmueble ubicado en Avenida Ruiz de Gamboa Medina, rol de avalúo Nº 305-12, comuna Chillán, superficie 37,45 m2 de terreno y 85,00 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-21.172, de aparente dominio de doña Rosa Elvira Quezada Ríos, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Cecilia Carrasco Verdugo, arquitecto; Claudia Marzullo García, arquitecto, y Mario Bellolio Bosticca, arquitecto, según informe de fecha 02 de diciembre 2006, fijó monto provisional indemnización en $19.436.144.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
