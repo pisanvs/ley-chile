@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución 526, 22 de diciembre 2006, Serviu Región del Bío Bío ordenó expropiación total de la edificación de un inmueble ubicado en Recinto Estación s/n Confluencia, Rol de Avalúo Nº 92265-2, comuna Chillán, superficie 136,00 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-21.190, de aparente dominio de Empresa de Ferrocarriles del Estado, para ejecución programa "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por Andrés Tobar Beluzan, arquitecto; Guillermo Villafañe Feres, arquitecto; y Patricio Riquelme Victoriano, arquitecto, según informe de fecha 11 de Diciembre 2006, fijó monto provisional indemnización en $4.368.328.-, pagadera de contado.
+
+- Director Serviu Región Del Bío Bío.
