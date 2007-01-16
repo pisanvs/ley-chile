@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 185, fecha 19 de diciembre de 2006, tramitada por Contraloría Regional con fecha 20 de diciembre de 2006, Dirección Regional Serviu Décima Región de Los Lagos, ordenó la expropiación del lote de terreno Nº 10 para la obra Apertura Calle Petorca Puerto Montt, provincia Llanquihue, Décima Región, que figura a nombre de Barría Aguilar Marilda, Rol de avalúo según SII Nº 342-13 comuna de Puerto Montt, superficie 154,942 metros cuadrados. La Comisión de peritos integrada por los señores Leopoldo Schumacher Guarda, Loreto Araya Matus y Raúl Palma Larrea designados resolución exenta Nº 351, de fecha 1 de febrero de 2006, modificada por resolución exenta Nº 419 de fecha 10 de febrero de 2006, fijó con fecha 3 de marzo de 2006, el valor provisional de la indemnización en variación del IPC quedando en $66.879.406. La indemnización provisional se pagará al contado. La publicación de efectúa conforme a lo dispuesto en el artículo 7º de decreto ley Nº 2.186.
+
+- Director Regional Serviu Décima Región de Los Lagos
