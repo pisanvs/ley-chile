@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 507, de 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en Santa Amelia 224, Balmaceda, rol de avalúo Nº 255-4, comuna Chillán, superficie aproximada 98,57 metros cuadrados de terreno y 49,60 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación S8R-21.182, de aparente dominio de Zapata Acevedo, Luis Alberto, para ejecución obras pavimentación, proyecto "Habilitación Av. Mariscal Ruiz de Gamboa", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar B., Guillermo Villafañe F., y Patricio Riquelme V., arquitectos, según informe de fecha 1 de diciembre de 2006, fijó monto provisional indemnización en $8.771.097.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
