@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 512, de 19 de diciembre de 2006, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Avenida Ruiz de Gamboa Nº 121, rol de avalúo Nº 305-11, comuna Chillán, superficie aproximada 43,30 metros cuadrados de terreno y 55,10 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación Nº S8R-21.174, de aparente dominio de Suazo Caro, Juan Segundo, para ejecución obras pavimentación, proyecto "Habilitación Av. Mariscal Ruiz de Gamboa", conforme artículo 51 Ley 16.391 y DL 2.186. Comisión peritos integrada por Andrés Tobar B., Guillermo Villafañe F. y Patricio Riquelme V., arquitectos, según informe de fecha 1 de diciembre de 2006, fijó monto provisional indemnización en $10.653.638.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
