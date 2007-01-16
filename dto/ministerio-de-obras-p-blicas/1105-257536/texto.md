@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.105 de fecha 30 de noviembre de 2006, se expropiaron los lotes de terreno Nºs 1 y 2, superficies 1.538 y 913 m2 respectivamente, rol Nº1201-1, comuna de Valdivia, para la obra "Construcción Puente Cau - Cau y Accesos, Comuna de Valdivia, Provincia de Valdivia, X Región" y se acordó el valor de la indemnización con su propietario Universidad Austral de Chile, ascendente a la cantidad de $26.305.560.
+
+Fiscal del Ministerio de Obras Pública.
