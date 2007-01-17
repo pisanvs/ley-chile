@@ -1,0 +1,5 @@
+Por resolución exenta Nº3.410, de 22 de diciembre de 2006, de esta Subsecretaría, modifícase la resolución Nº3181 de 2006 de esta Subsecretaría que autorizó a MARES CHILE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo biológico pesquero y bases para un plan de manejo de la pesquería de erizo (Loxechinus albus) en la Duodécima Región de Magallanes y Antártica Chilena", en el sentido reemplazar el inciso 2º del numeral 4º por el siguiente:
+
+"Los desembarques de erizo podrán realizarse en los puertos autorizados en el numeral 16º letra d) de la presente resolución y se extenderán hasta las 24 horas del día 22 de diciembre de 2006, inclusive. Las actividades de procesamiento podrán extenderse hasta el día 23 de diciembre de 2006, inclusive."
+
+Valparaíso, 22 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
