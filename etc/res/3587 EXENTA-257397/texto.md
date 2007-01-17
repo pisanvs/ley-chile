@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.587 del 29 de diciembre de 2006, de esta Subsecretaría, autorízase a CRISTIAN CORREA GUZMAN para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de la fauna íctica nativa en Chile, 2007".
+
+El objetivo de la pesca de investigación consiste en caracterizar los relictos de peces nativos no invadidos por peces introducidos y determinar los efectos de peces introducidos en la fauna nativa.
+
+La pesca de investigación se efectuará por el término de cinco meses, en las estaciones de muestreo individualizadas en la resolución extractada, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos tratándose de especies nativas en peligro, vulnerables o insuficientemente conocidas, además de redes agalleras, anzuelos o espineles, tratándose de especies que se encuentren fuera de peligro y asilvestradas o introducidas, ejemplares de especies nativas e introducidas de conformidad con las exigencias establecidas en la resolución extractada. Además, podrá capturar, sin devolución, con el arte de pesca ya indicado, hasta el 1% de los ejemplares recolectados o visualizados, con un límite máximo de 30 ejemplares, por cada una de las estaciones de muestreo.
+
+Valparaíso, 29 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
