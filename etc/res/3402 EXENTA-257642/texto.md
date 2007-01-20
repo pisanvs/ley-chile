@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.402, de 21 de diciembre de 2006, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 2.682 de 2006, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2006-11 denominado "Evaluación directa de Camarón nailon entre la II y VIII Regiones, año 2006", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2006, inclusive.
+
+Valparaíso, 21 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
