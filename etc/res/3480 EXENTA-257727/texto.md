@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.480, de 27 de diciembre de 2006, de esta Subsecretaría, autorízase a PESQUERA SALMAR LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Calbuco Km. 2,5, Camino a Caicaen, X Región, donde podrá elaborar en las líneas de proceso de Fresco-Enfriado, Fresco-Refrigerado, Cocido, Congelado, Seco Salado, Ahumado, Conserva y Deshidratado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de diciembre de 2006.- Carlos Hernández Salas, Subsecretario de Pesca.
