@@ -13918,13 +13918,13 @@ d) Resultados de la Due-Dilligence efectuada por la institución solicitante y c
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
-ANEXO N°2
+ANEXO N° 2
 
-ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO.
+ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
 
 A continuación se describen los tipos de servicios que esta Superintendencia ha autorizado para la constitución de empresas de apoyo al giro:
 
-A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS.
+A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS
 
 - Transferencia electrónica de fondos.
 
@@ -13942,15 +13942,17 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS.
 
 - Otros servicios vinculados a los sistemas de pagos.
 
-B) OTROS SERVICIOS.
+B) OTROS SERVICIOS
 
 - Transferencia electrónica de información.
 
 - Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones previsionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
 
-- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores,de remuneraciones y beneficios al personal de empresas, etc.
+- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
 
 - Recopilación y preevaluación de antecedentes de potenciales clientes de una institución financiera.
+
+- Prestación de servicios legales al banco y sus filiales.
 
 ANEXO N° 3
 
