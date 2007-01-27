@@ -1,0 +1,3 @@
+Por resolución exenta Nº 185, de 19 de enero de 2007, de esta Subsecretaría, autorízase a ROCÍO SALOMÉ CARRERA LINAY, para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Eusebio Ibar Nº 1110, Puerto Aysén, XI Región, en las líneas de proceso de Fresco enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 19 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
