@@ -1,0 +1,3 @@
+Por resolución exenta Nº 187, de 19 de enero de 2007, de esta Subsecretaría, autorízase a ALIMENTOS MULTIEXPORT S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Manzana Nº 62, sitios Nº 3 y Nº 4, La Chimba, Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 19 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
