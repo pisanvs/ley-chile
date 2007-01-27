@@ -1,0 +1,3 @@
+Por resolución exenta Nº 186, de 19 de enero de 2007, de esta Subsecretaría, autorízase a JESSICA ORIELE VILLEGAS DURÁN, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en caleta Cifuncho a 46 km. aproximadamente al sur de Taltal, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 19 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
