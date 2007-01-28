@@ -1,0 +1,3 @@
+Por resolución exenta Nº 134 de 16 de enero de 2007, de esta Subsecretaría, autorízase a PESQUERA FRIOSUR S.A., para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en José María Caro Nº 300, Puerto Chacabuco, Aysén, XI Región, en las líneas de proceso de cocido, fresco-enfriado, fresco-refrigerado y congelado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 16 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
