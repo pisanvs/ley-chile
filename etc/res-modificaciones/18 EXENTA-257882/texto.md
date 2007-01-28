@@ -1,0 +1,5 @@
+MODIFICA RESOLUCION QUE OBLIGA A LOS CORREDORES DE BOLSA Y AGENTES DE VALORES DE INFORMAR AL SII LAS COMPRAS Y VENTAS DE ACCIONES DE SOCIEDADES ANONIMAS Y OTROS TITULOS EFECTUADAS POR CUENTA DE SUS CLIENTES
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 18 del 24 enero 2007, que modifica resolución exenta Nº 4.847 de 1995, y sus modificaciones posteriores, sobre la obligación de los Corredores de Bolsa y Agentes de Valores de informar al SII las compras y ventas de acciones de Sociedades Anónimas -no acogidas al mecanismo de incentivo al ahorro establecido en la letra A) del artículo 57 bis de la Ley de la Renta- y otros títulos efectuadas por cuenta de sus clientes.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de enero de 2007.
