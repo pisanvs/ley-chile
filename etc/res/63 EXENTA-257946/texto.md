@@ -1,0 +1,7 @@
+RESOLUCION Nº 63 EXENTA DE 23.01.2007
+
+Vistos: Lo dispuesto en DFL Nº 01/2005 Salud, DS Nº 136 y Nº 131, ambos 2004 Minsal, DFL Nº 725/1967 Código Sanitario en especial artículos 1, 3, 5, 9 letra b), 67, 108 y siguientes, DS Nº 977/1996 Minsal, resoluciones exentas Seremi Salud Nº 0034/2005, Nº 0696/2006, 0746/2006 y 0748/2006, Resolución:
+
+Declárese como área no afectada por marea roja el área geográfica comprendida entre: el Límite Norte: Paralelo 43º09'00" Sur, punto de referencia geográfica Punta Chiguao; Límite Sur: Paralelo 43º15'00" Sur, punto de referencia geográfica entrada sur canal Coldita; Límite Este: línea imaginaria determinada por el meridiano 73º29'00"; y Límite Oeste: el borde costero interno de la Isla Grande de Chiloé (Carta Shoa Nº 7.500). En consecuencia, permítase la extracción, recolección y captura de todos los mariscos bivalvos (tales como cholga, chorito, choro, almejas, ostras, huepo o navaja de mar, navajuela, ostión, etc.), como así también picoroco y loco, provenientes sólo del área geográfica referida. Su extracción, recolección, captura, desembarco, muestreo, horarios y otros. Determina condiciones declaración área afectada marea roja y prohibición de extracción, recolección y captura de mariscos en dicha área.
+
+Dagoberto Duarte Quapper, Seremi de Salud X Región.
