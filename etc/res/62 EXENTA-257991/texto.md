@@ -1,0 +1,3 @@
+Por resolución exenta Nº 62, de 12 de enero de 2007, de esta Subsecretaría, modifícase el numeral 5º de la resolución exenta Nº 103, modificada por resolución Nº 813, ambas de 2006, de esta Subsecretaría, que autorizaron a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Bases para el Plan de Manejo Pesquerías Bentónicas Zona Contigua Regiones X y XI, período 2006", en el sentido de extender las actividades de investigación relacionadas con el recurso Luga roja hasta el día 31 de mayo de 2007, inclusive.
+
+Valparaíso, 12 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
