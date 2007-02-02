@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 920, de fecha 29 de diciembre de 2006, se expropió el lote de terreno Nº 91, superficie 99 m2, Rol Nº 223-140, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 al Km. 12,80844", VIII Región, y se acordó el valor de la indemnización con su propietario Sonia Donatila Riquelme Riffo, ascendente a la cantidad de $284.366.
+
+Fiscal del Ministerio de Obras Públicas.
