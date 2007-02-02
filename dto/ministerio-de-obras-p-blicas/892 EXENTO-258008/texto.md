@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 892, de fecha 30 de noviembre de 2006, se expropió el lote de terreno Nº 79-A, superficie 2.244 m2, Rol Nº 409-4, comuna de Los Muermos, X Región, para la obra "Camino Ruta V-60, Sector El Tepual - Las Quemas - Los Muermos, Km. 0,00000 al Km. 32,27442", y se acordó el valor de indemnización con su propietario Hugo Albino Klein Schobitz, ascendente a la cantidad de $1.346.701.
+
+Fiscal del Ministerio de Obras Públicas.
