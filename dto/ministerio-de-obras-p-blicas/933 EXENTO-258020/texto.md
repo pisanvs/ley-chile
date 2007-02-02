@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 933, de fecha 29 de diciembre de 2006, se expropiaron los lotes de terreno Nºs. 6 y 7, superficies 48 y 16 m2, respectivamente, Rol Nº 434-78, comuna de Gorbea, para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, Tramo Temuco - Río Bueno - Puerto Montt, Camino El Liuco", IX Región, y se acordó el valor de la indemnización con su propietario Rolando Alexis Muñoz Ulloa y otros, ascendente a la cantidad de $631.540.
+
+Fiscal del Ministerio de Obras Públicas.
