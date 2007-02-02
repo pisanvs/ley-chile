@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 924, de fecha 29 de diciembre de 2006, se expropiaron los lotes de terreno Nºs. 53, 56 y 57, superficies 2.517,66, 997,04 y 878,73 m2, respectivamente, Rol Nº 251-95, comuna de Salamanca, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa", IV Región, y se acordó el valor de la indemnización con su propietario Jorge del Rosario González Cepeda, ascendente a la cantidad de $3.147.760.
+
+Fiscal del Ministerio de Obras Públicas.
