@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 935, de fecha 29 de diciembre de 2006, se expropió el lote de terreno Nº 50, superficie 586,69 m2, Rol Nº 251-25, comuna de Salamanca, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa", IV Región, y se acordó el valor de la indemnización con su propietaria Silvia Rosa Carvajal Salas, ascendente a la cantidad de $462.131.
+
+Fiscal del Ministerio de Obras Públicas.
