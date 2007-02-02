@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 896, de fecha 30 de noviembre de 2006, se expropió el lote de terreno Nº 15-I, superficie 3.227,00 m2, Rol Nº 161-1, comuna de Petorca, para la obra "Camino Ruta E-37-D, Sector Palquico - Las Palmas, Km. 14,04861 al Km. 26,13776", V Región, y se acordó el valor de la indemnización con su propietario Demetrio Godoy Valencia y otros, ascendente a la cantidad de $1.247.713.
+
+Fiscal del Ministerio de Obras Públicas.
