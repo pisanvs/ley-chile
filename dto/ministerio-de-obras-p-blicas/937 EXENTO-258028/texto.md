@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 937, de fecha 29 de diciembre de 2006, se expropiaron los lotes de terreno Nºs. 42 y 44, superficies 776 y 162 m2, respectivamente, Rol Nº 249-5, comuna de Los Vilos, para la obra "Camino Cavilolen - Fundo El Mauro, Ruta D-865, Sector Las Vacas - Caimanes, Tramo Km. 0,00000 a Km. 25,14000", IV Región, y se acordó el valor de la indemnización con su propietario Sergio Hernán Olivares León, ascendente a la cantidad de $780.763.
+
+Fiscal del Ministerio de Obras Públicas.
