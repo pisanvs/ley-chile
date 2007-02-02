@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 921, de fecha 29 de diciembre de 2006, se expropiaron los lotes de terrenos Nºs. 27, 29, 30, 31 y 32, superficies 310, 699, 296, 1.531 y 1.158 m2, respectivamente, Rol Nº 219-37, comuna de Cañete, VIII Región, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 al Km. 12,80844", y se acordó el valor de indemnización con su propietario Paulino Poza Rodríguez, ascendente a la cantidad de $1.984.366.
+
+Fiscal del Ministerio de Obras Públicas.
