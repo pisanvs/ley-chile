@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 925 de fecha 29 de diciembre de 2006, se expropiaron los lotes de terreno Nºs 9, 11 y 14, superficies 4.107,9, 1.141,0 y 2.710,4 m2, rol Nº 381-257, comuna de Pitrufquén, para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, obra Canal California", IX Región y se acordó el valor de la indemnización con su propietario Óscar Hernán Brun Schell y otro, ascendente a la cantidad de $5.340.693.
+
+Fiscal del Ministerio de Obras Públicas.
