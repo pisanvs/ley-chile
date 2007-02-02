@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 894, de fecha 30 de noviembre de 2006, se expropió el lote de terreno Nº 4-C, superficie 1.324 m2, Rol Nº 2203-75, comuna de Puerto Montt, X Región, para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, Tramo Km. 15,84700 al Km. 40,41746", y se acordó el valor de indemnización con su propietaria Luisa González Aguilar, ascendente a la cantidad de $2.100.226.
+
+Fiscal del Ministerio de Obras Públicas.
