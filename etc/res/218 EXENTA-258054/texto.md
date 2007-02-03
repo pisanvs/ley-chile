@@ -1,0 +1,3 @@
+Por resolución exenta Nº 218 de 24 de enero de 2007, de esta Subsecretaría, autorízase a COMPAÑIA PESQUERA CAMANCHACA S.A. para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Sector Caleta Lo Rojas, comuna de Coronel, VIII Región, en la línea de proceso de Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
