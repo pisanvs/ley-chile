@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 7.331 EXENTA, DE 2006, QUE APRUEBA PROCEDIMIENTO DE TOMA DE MUESTRAS PARA EXAMENES DE ALCOHOLEMIA, A SERVICIO DE URGENCIA COMUNAL SANTIAGO NUEVA EXTREMADURA
+
+La Dirección Nacional del Servicio Médico Legal, por resolución exenta Nº 7.331 de fecha 17 de noviembre de 2006, aprueba como establecimiento técnicamente apto para toma de muestras sanguíneas para exámenes de alcoholemia, a Servicio de Urgencia Comunal Santiago Nueva Extremadura, ubicado en Avenida Juanita Nº 13558, comuna de La Pintana, dependiente del Servicio de Salud Metropolitano Sur Oriente, cuya Dirección Técnica recae en doña Patricia Paulos Villarreal, RUT Nº 14.413.003-0, en virtud de dar cumplimiento a las instrucciones y Normativa Técnica de este Servicio Público.
+
+- David Montoya Squiffi, Director Nacional (S).
