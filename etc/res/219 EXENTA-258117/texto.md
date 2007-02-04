@@ -1,0 +1,3 @@
+Por resolución exenta Nº 219 de 24 de enero de 2007, de esta Subsecretaría, autorízase a INVERTEC PACIFIC SEAFOOD S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Gerónimo Méndez Nº 2030, Barrio Industrial Alto Peñuelas, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 enero 2007. Carlos Hernández Salas, Subsecretario de Pesca.
