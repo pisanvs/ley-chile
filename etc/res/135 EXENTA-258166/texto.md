@@ -1,0 +1,3 @@
+Por resolución exenta Nº 135, de 16 de enero de 2007 de esta Subsecretaría, autorízase a JUAN LUIS DIAZ COLLAO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada aproximadamente a 1.000 metros al sur del Embarcadero Fiscal de Caleta Paposo, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 16 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
