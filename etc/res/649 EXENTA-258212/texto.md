@@ -1,0 +1,5 @@
+DISPONE RECTIFICACION DE PUNTAJE POR GRUPO FAMILIAR Y DE ESTADO CIVIL, CONSIGNADO EN EL CERTIFICADO DE SUBSIDIO HABITACIONAL
+
+Resolución exenta Nº 649, de fecha 31 de enero de 2007, dispone rectificación del puntaje por grupo familiar y del estado civil, consignado en el Certificado de Subsidio Habitacional extendido a favor de doña Sandra Faviola González Acevedo, a quien se extendió el Certificado de Subsidio Habitacional Serie B-2006 G02-13777, postulante seleccionada en el Segundo Llamado Nacional 2006 Título II, regulado por el DS 40 (V. y U.), de 2004, consignándola erróneamente como casada e identificando a cónyuge también erróneo. Como consecuencia de lo anterior, no se modifica el número de postulantes seleccionados, ni el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado.
+
+Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
