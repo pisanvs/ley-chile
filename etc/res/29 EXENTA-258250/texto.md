@@ -1,0 +1,5 @@
+OTORGA PERMISO DE OPERACION PARA UN CASINO DE JUEGO EN LA COMUNA DE LOS ANGELES A LA SOCIEDAD CASINO GRAN LOS ANGELES S.A.
+
+Por resolución exenta Nº 29 de 2 de febrero de 2007, la Superintendencia de Casinos de Juego acogió recurso extraordinario de revisión en contra de la resolución exenta Nº 169, aclarada por resolución exenta Nº 199 de 21 y 26 de julio de 2006, respectivamente, que otorga un permiso de operación para un casino de juego en la comuna de Los Angeles a la sociedad Casino Gran Los Angeles S.A. solo en cuanto se modifica el punto 1.6 de la parte resolutiva de la resolución exenta ya individualizada, en el sentido de que el plazo señalado para dar inicio a la operación del casino de juego es de 18 meses.
+
+Santiago, 5 de febrero de 2007.- Superintendente de Casinos de Juego (S).
