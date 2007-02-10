@@ -1,0 +1,5 @@
+INSTRUCCIONES SOBRE MODIFICACIONES INTRODUCIDAS A LOS ARTICULOS 59 Y 60 DE LA LEY DE LA RENTA POR LA LEY N° 20.154, DE 2007
+
+Extracto de Circular del Servicio de Impuestos Internos N° 8, de fecha 2 de febrero de 2007, que imparte instrucciones sobre modificaciones introducidas por la ley N° 20.154, de 2007, a los artículos 59 y 60 de la Ley de la Renta, tendientes a establecer la tributación con el Impuesto Adicional de las remesas que se efectúen al exterior, que correspondan, entre otros conceptos, al uso, goce o explotación de patentes de invención, de modelos de utilidad, de dibujos y diseños industriales y programas computacionales, etc.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en febrero de 2007.
