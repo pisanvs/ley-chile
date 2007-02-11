@@ -1,0 +1,3 @@
+Por resolución exenta Nº 361, de 2 de febrero de 2007, de esta Subsecretaría, autorízase a FRIOSUR X S.A. para ampliar actividades extractivas con la nave "Friosur X", en el área marítima comprendida entre el paralelo 41°28,6' L.S. y el límite sur de la XI Región, con trampas, por fuera del área de reserva artesanal, donde podrá capturar los siguientes recursos hidrobiológicos: Centolla Lithodes wiracocha, Centolla Lithodes panamensis, Centolla Neolithodes diomedae, Centollón Paralomis papillata, Centollón Paralomis longipes, Centollón Paralomis otsuae, Centollón Paralomis spinosissima, y Congrio dorado.
+
+Valparaíso, 2 de febrero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
