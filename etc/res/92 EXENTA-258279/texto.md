@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION N° 92 EXENTA, de 05.02.2007 SEREMI DE SALUD X
+
+Vistos: Lo dispuesto en DFL N° 01/2005 Salud, DS N° 136 y N° 131, ambos 2004, Minsal, DFL N° 725/1967, Código Sanitario en especial artículos 1, 3, 5, 9 letra b), 67, 108 y siguientes, DS N° 977/1996 Minsal, resoluciones exentas Seremi Salud N° 0034/2005, N° 0696/2006, 0746/2006, 0748/2006, 0063/2007 y 0079/2007.
+
+Resolución: 1. Declárese como área no afectada por marea roja la siguiente área geográfica: el área denominada Estero Palvitad, ubicada en la provincia de Palena y la zona que rodea la Punta Auchemó en el litoral de la misma provincia, y cuyo límite por el mar hacia el oeste será la línea imaginaria comprendida entre los siguientes puntos geográficos: por el Norte: el punto de intersección entre el Paralelo 42° 57' Sur y el meridiano 72° 50' Oeste, punto de referencia geográfica Punta Becerra, Isla Puduguapi y por el Sur: el Paralelo 43° 02' Sur y el Meridiano 72° 52' Oeste, punto de referencia geográfica Punta Auchemó en el litoral de la provincia de Palena. (Carta SHOA N° 7.500). En consecuencia, permítase la extracción, recolección y captura de todos los mariscos bivalvos (tales como cholga, chorito, choro, almejas, ostras, huepo o navaja de mar, navajuela, ostión, etc.), como así también picoroco y loco, provenientes sólo del área geográfica referida. Su vigencia, infracción y otros en el cuerpo de la resolución.
+
+Dagoberto Duarte Quapper, Seremi de Salud X Región de Los Lagos.
