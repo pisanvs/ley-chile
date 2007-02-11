@@ -1,0 +1,3 @@
+Por resolución exenta Nº 349, de 2 de febrero de 2007, de esta Subsecretaría, modifícase la resolución Nº 150, de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardina en aguas interiores de la X Región", en el sentido de intercalar los numerales 5 bis y 5 ter entre el 5 y el 6, de conformidad con lo establecido en la resolución extractada.
+
+Valparaíso, 2 de febrero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
