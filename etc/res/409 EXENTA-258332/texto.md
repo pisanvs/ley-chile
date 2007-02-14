@@ -1,0 +1,3 @@
+Por resolución exenta Nº409, de 7 de febrero de 2007, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 1.963, de 2001, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA ISLADAMAS S.A. para realizar actividades pesqueras extractivas con la nave en construcción autorizada mediante la resolución antes citada, en la III y IV Regiones, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en Visto.
+
+Valparaíso, 7 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
