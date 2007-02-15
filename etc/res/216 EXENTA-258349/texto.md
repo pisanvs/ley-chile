@@ -1,0 +1,3 @@
+Por resolución exenta Nº 216 de 24 de enero de 2007 de esta Subsecretaría, autorízase a ALVAREZ Y ALVAREZ LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Huerto Nº 68-A, Lote 2, Puerto Natales, XII Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Seco salado, Ahumado, Conserva, Alga seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 24 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
