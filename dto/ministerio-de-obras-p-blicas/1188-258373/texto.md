@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 1.188, de fecha 29 de diciembre de 2006, se expropió el lote de terreno Nº 206, superficie 5.157 m2, Rol Nº 430-16, comuna de Buin, Región Metropolitana para la obra: "Camino Ruta G-46, Cruce Long (Paine) - Talagante, Sector Puente La Puntilla - Cruce Ruta G-40, Puente sobre Río Maipo, Sector La Puntilla", y se acordó el valor de indemnización con su propietario Agrícola Hernández e Hijos Limitada, ascendente a la cantidad de $36.149.220.
+
+Fiscal del Ministerio de Obras Públicas.
