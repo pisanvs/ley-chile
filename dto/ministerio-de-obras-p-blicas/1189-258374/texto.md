@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.189, de fecha 29 de diciembre de 2006, se expropió el lote de terreno Nº 59, superficie 2.515 m2, Rol Nº 117-115, comuna de Quilicura, Región Metropolitana para la obra "Mejoramiento del Cauce del Estero Las Cruces", y se acordó el valor de indemnización con su propietario José Luis Bartierra Alarcón, ascendente a la cantidad de $40.146.472.
+
+Fiscal del Ministerio de Obras Públicas.
