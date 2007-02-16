@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 1.198, de fecha 29 de diciembre de 2006, se expropió el lote de terreno Nº 1, superficie 29.341 m2, Rol de Avalúo en trámite, comuna de Monte Patria, IV Región, para la obra "Camino Pulpica - Vado Hondo, Sector Km. 5,16000 al Km. 6,65400", y se acordó el valor de indemnización con su propietario Comunidad Agrícola Vado Hondo, ascendente a la cantidad de $4.792.133.
+
+Fiscal del Ministerio de Obras Públicas.
