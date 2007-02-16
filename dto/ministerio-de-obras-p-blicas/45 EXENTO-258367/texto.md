@@ -1,0 +1,3 @@
+Por decreto exento Nº 45, de 26 de enero de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió para la Empresa de Servicios Sanitarios de Los Lagos S.A., el lote de terreno Nº 1, para la obra Planta Elevadora Aguas Servidas San Fuentes - Futrono, X Región, que figura a nombre de González Monsalve Silvia, rol de avalúo 70-115, superficie 100,0 M2. La Comisión de Peritos fijó con fecha 6 de octubre de 2006, en la cantidad de $1.550.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
