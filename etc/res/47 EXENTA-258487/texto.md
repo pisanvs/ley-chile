@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE DCV REGISTROS S.A
+
+Certifico: Que por resolución exenta Nº 47, de 26 de enero de 2007 de esta Superintendencia de Valores y Seguros, se aprobó reforma de estatutos de la sociedad DCV Registros S.A., acordada en Junta Extraordinaria de Accionistas celebrada el 18 de diciembre de 2006, y reducida a escritura pública el 20 de diciembre del mismo año, en la 45ª Notaría de Santiago de don René Benavente Cash, domiciliado en Huérfanos 979, 7º piso, Santiago; consistente en disminución de capital de la sociedad de $854.809.244.- dividido en 2.600.000 acciones nominativas, de igual valor y sin valor nominal a $569.375.255.- dividido en 2.600.000 acciones nominativas, de igual valor y sin valor nominal; reemplazando para estos efectos los artículos quinto y primero transitorio de los estatutos sociales.
+
+Santiago, 26 de enero de 2007.- Gonzalo Quiroga Riobo, Secretario General Subrogante.
