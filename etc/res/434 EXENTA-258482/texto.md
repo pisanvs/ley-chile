@@ -1,0 +1,3 @@
+Por resolución exenta Nº 434, de 9 de febrero de 2007, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 152, de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de Jurel, I y II Región, año 2007", en el sentido de incorporar a la nave industrial "Reñaca", RPI Nº 516, y a la embarcación artesanal "Doña Pilar II", RPA Nº 913352, al listado de naves autorizadas para participar en la presente pesca de investigación.
+
+Valparaíso, 9 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
