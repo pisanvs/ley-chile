@@ -1,0 +1,3 @@
+Por resolución exenta Nº 598, de 16 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202101094, presentada por LILIANA DEL CARMEN MARTINEZ ESCUDERO para instalar y operar un centro de cultivo ubicado en seno Reloncaví, sector oeste de Punta Quillaipe , X Región.
+
+Valparaíso, 16 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
