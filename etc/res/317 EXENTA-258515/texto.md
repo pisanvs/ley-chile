@@ -1,0 +1,11 @@
+Por resolución exenta Nº 317, de 1 de febrero de 2007, de esta Subsecretaría, autorízase a ANELIO AGUAYO LOBO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia en el marco del proyecto denominado "Plan de Estudios Cequa 2007 en relación a mamíferos marinos de la XII Región".
+
+Los objetivos de la pesca de investigación que por la presente resolución se autoriza consisten en conocer los destinos migratorios invernales y movimientos entre áreas de alimentación, la estructura poblacional, comportamiento de alimentación, la estructura y linaje genética del ADN mitocondrial de la especie Ballena jorobada Megaptera novaeangliae que se alimentan en las aguas de los canales australes y aguas de la costa occidental de la península Antártica, y conocer la distribución espacial y temporal, la estructura genética, la filogenia, la filogeografía y la dinámica poblacional de Tonina Cephalorhynchus (género) y de las especies de Orca Orcinus orca, Elefante marino Mirounga leonina y Foca leopardo Hydrurga leptonyx que habitan en las aguas subantárticas y antárticas del país, así como del Delfín austral Lagenorhynchus australis de la XII Región.
+
+La pesca de investigación se efectuará en el área marítima del Estrecho de Magallanes, correspondiente al Area Marina Costera y Protegida "Francisco Coloane" y alrededores de la Isla Santa Inés, Isla Clarence, Isla Capitán Aracena, Seno Almirantazgo, Seno D'Agostini, Canal Magdalena, Canal Cockburn, Canal Bárbara, Canal González y los senos Otway y Skyring, en la XII Región, así como en el área marítima del Estrecho Bransflied y Estrecho de Gerlache, durante el período de 1 año contado desde la fecha de la publicación del extracto de la presente resolución en el Diario Oficial.
+
+En cumplimiento de los objetivos de la presente pesca de investigación, el peticionario podrá obtener muestras de tejidos (biopsias) de ejemplares previamente foto-identificados correspondientes a las especies y géneros indicados en la resolución extractada, mediante la utilización de embarcaciones rápidas para acercarse a los ejemplares y equipos de muestreo de biopsia a distancia.
+
+La persona responsable de esta pesca de investigación es don Anelio Aguayo Lobo.
+
+Valparaíso, 1 de febrero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
