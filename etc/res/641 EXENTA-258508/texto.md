@@ -1,0 +1,11 @@
+RECTIFICA RESOLUCION Nº437 EXENTA, DE 2007, QUE ESTABLECIO DISTRIBUCION DE LA FRACCION ARTESANAL DE PESQUERIA DE ANCHOVETA Y SARDINA COMUN EN LA VIII REGION
+
+Núm. 641 exenta.- Valparaíso, 16 de febrero de 2007.- Visto: Lo informado por el Departamento de Análisis Sectorial de la Subsecretaría de Pesca en memorándum Nº77, de fecha 16 de febrero de 2007; lo dispuesto en el artículo 32 Nº6 de la Constitución Política del Estado; el D.F.L. Nº5 de 1983; la Ley General de Pesca y Acuicultura Nº18.892 y sus modificaciones cuyo texto refundido fue fijado por el D.S. Nº430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción; las leyes Nº19.713, Nº19.822 y Nº19.849; el D.S. Nº296 de 2004, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba el Reglamento del Régimen Artesanal de Extracción establecido en el artículo 48 A de la Ley General de Pesca y Acuicultura; los D.S. Nº409 de 2000 y Nº11 de 2003, y los decretos exentos Nº1.518 de 2006 y Nº430 de 2007, todos del Ministerio de Economía, Fomento y Reconstrucción; la resolución Nº520 de 1996, de la Contraloría General de la República; la resolución exenta Nº437 de 2007, de esta Subsecretaría,
+
+Resuelvo:
+
+1º.- Rectifícase la resolución exenta Nº437, de 2007, de esta Subsecretaría, que estableció la distribución de la fracción artesanal de la cuota global anual de captura de Anchoveta Engraulis ringens y Sardina común Clupea bentincki correspondiente a la VIII Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales establecido mediante decreto exento Nº430 de 2007, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de indicar que la correcta individualización de la organización de pescadores artesanales señalada en los literales r) de la misma resolución es Sindicato de Trabajadores Independientes Pescadores Artesanales, Lancheros, Acuicultores y Actividades Conexas de Caleta Lota Bajo, Registro Sindical Unico 08.07.0106, y no como allí se indica.
+
+2.- Transcríbase copia de esta resolución a la Dirección General del Territorio Marítimo y Marina Mercante y al Servicio Nacional de Pesca.
+
+Anótese, comuníquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
