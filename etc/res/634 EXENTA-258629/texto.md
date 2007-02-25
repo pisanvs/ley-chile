@@ -1,0 +1,3 @@
+Por resolución exenta Nº 634, de 16 de febrero de 2007, de esta Subsecretaría, recházase la solicitud Nº 205101060 presentada por ROBINSON CRUSOE Y COMPAÑIA LIMITADA para modificar la concesión de acuicultura ubicada al sur de Punta Puyelcón, Isla Maillén, X Región, transferida a la peticionaria mediante resolución Nº 1.252 de 2001, de la Subsecretaría de Marina.
+
+Valparaíso, 16 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
