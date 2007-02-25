@@ -1,0 +1,7 @@
+Por resolución exenta Nº 550, de 14 de febrero de 2007, de esta Subsecretaría, autorízase a GESAM CONSULTORES LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de la fauna íctica continental de la Provincia Cardenal Caro en la VI Región, 2007".
+
+El objetivo de la pesca de investigación consiste en determinar una línea base para el componente ambiental flora y fauna acuática del proyecto.
+
+La pesca de investigación se efectuará por el término de un año, en cuatro campañas realizadas en 15 estaciones de muestreo ubicadas en la provincia de Cardenal Caro, VI Región, donde podrá capturar, con devolución, mediante pesca eléctrica, chinguillos auxiliares y redes agalleras, ejemplares de las especies nativas Lamprea de bolsa, Lamprea de agua dulce, Pocha, Bagre o Tollo, Bagrecito, Bagre grande, Puye, Truchita o Coltrao, Cauque o Pejerrey, Cauque del norte, Pejerrey chileno, Perca trucha o Trucha criolla, Trucha negra o Trucha criolla y Carmelita o Coloradita; e introducidas Pejerrey argentino, Carpa, Gambusia, Trucha arcoiris, Trucha fario y Trucha de arroyo. Sin perjuicio de lo anterior, podrá capturar, sin devolución, tres ejemplares de alguna de estas especies.
+
+Valparaíso, 14 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
