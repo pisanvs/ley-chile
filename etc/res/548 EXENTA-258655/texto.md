@@ -1,0 +1,7 @@
+Por resolución Nº 548 exenta, de 14 de febrero de 2007, de esta Subsecretaría, autorízase al CENTRO DE ECOLOGIA APLICADA LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio biológico del Galaxias platei, en la XI Región, año 2007".
+
+El objetivo de la pesca de investigación consiste en caracterizar aspectos biológicos de la especie Galaxias platei, en ríos y lagos de la XI Región.
+
+La pesca de investigación se efectuará por el término de un año, en las cuencas de los ríos Blanco y Cuervo, de los lagos Meullin, Yulton y Caro, y del estero Paloma, XI Región, donde podrá capturar, con devolución, mediante pesca eléctrica, chinguillos auxiliares, anzuelos "sin barbas" y espineles, ejemplares de las especies nativas Lamprea de bolsa, Lamprea de agua dulce, Bagre, Puye, Truchita o Coltrao, Peladilla, Farionela o Peladilla, Farionela listada, Puye o Tollo, Perca trucha o Trucha criolla; e introducidas Pejerrey argentino, Carpa, Gambusia, Salmón coho o plateado, Salmón cereza, Trucha arcoiris, Salmón rey o chinook, Salmón del Atlántico, Trucha fario y Trucha de arroyo. Sin perjuicio de lo anterior, podrá capturar, sin devolución, el número de ejemplares que se indica en la resolución extractada.
+
+Valparaíso, 14 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
