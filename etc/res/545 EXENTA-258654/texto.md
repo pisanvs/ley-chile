@@ -1,0 +1,3 @@
+Por resolución exenta Nº 545 de 14 de febrero de 2007, de esta Subsecretaría, modifícase el numeral 8º letra c) de la resolución Nº 150, modificada mediante resoluciones Nºs 349 y 408, todas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardina en aguas interiores de la X Región", en el sentido de incorporar como punto de desembarque de las capturas efectuadas en el marco de la presente pesca de investigación a San José de Calbuco.
+
+Valparaíso, 14 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
