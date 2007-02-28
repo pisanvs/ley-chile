@@ -1,0 +1,11 @@
+Por resolución exenta Nº 642, de 16 de febrero de 2007, de esta Subsecretaría, modifícase la resolución Nº 438 de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la operación de pesca artesanal de Anchoveta y Sardina común de la VIII Región, 2007", en los siguiente términos:
+
+a) En su numeral 3.-, en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 8 de marzo de 2007, inclusive;
+
+b) En el sentido de incorporar el siguiente numeral 4º Bis.-, nuevo:
+
+"4º Bis.- Sin perjuicio de lo dispuesto en el numeral anterior, podrán participar en la presente pesca de investigación las embarcaciones artesanales "Silvia Eliana", "Juan Jesús", "Jerusalén", "Aída Rosa", "Ana Belén", "Don Pedro", "Don Roberto II", "Nazaret III", "Don Kevin", "Claridon" y "Santa Teresita II", las que en conjunto podrán capturar, en el área marítima y durante el período indicado en el numeral 3.- de la presente resolución, con red de cerco, una cuota máxima semanal ascendente a 60 toneladas del recurso Anchoveta Engraulis ringens y 140 toneladas del recurso Sardina común Clupea bentincki.
+
+Las capturas efectuadas de conformidad con lo anterior se imputarán a la fracción reservada con fines de investigación de la cuota global anual establecida durante el año 2007 en las unidades de pesquería de Anchoveta y Sardina común V-X Regiones, de conformidad con lo dispuesto en el decreto exento Nº 1.518 de 2006, del Ministerio de Economía, Fomento y Reconstrucción. En el evento que las cuotas semanales señaladas sean extraídas antes del término del respectivo período semanal, se deberán suspender durante dicho período las actividades autorizadas al amparo de la presente pesca de investigación. Los remanentes no capturados en el respectivo período semanal acrecerán a la cuota del período siguiente.".
+
+Valparaíso, 16 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
