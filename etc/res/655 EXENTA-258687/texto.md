@@ -1,0 +1,3 @@
+Por resolución exenta Nº655, de 22 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº205101038, presentada por ASESORIAS Y SERVICIOS BAGUNCK LIMITADA, para instalar y operar un centro de cultivo ubicado en Bahía Chincui, al este de Península de Caullahuapi, X Región.
+
+Valparaíso, 22 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
