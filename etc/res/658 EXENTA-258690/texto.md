@@ -1,0 +1,3 @@
+Por resolución exenta Nº658, 22 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº204101161, presentada por JULIO EDUARDO PAREDES GONZALEZ, para instalar y operar un centro de cultivo ubicado en Seno Reloncaví, al sur de Banco de Coihuín, sector 2, X Región.
+
+Valparaíso, 22 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
