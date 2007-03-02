@@ -1,0 +1,5 @@
+Por Decreto M.O.P. Nº 1.024 de 31 de octubre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº 17 y 18 para la obra: Camino Ruta I-810 Puquillay-Convento Viejo, Sector Puquillay-La Cabrería, km. 0,00000 a km. 0,26894 (I-796), que figuran a nombre de Soc. Agríc. Sta. Gabriela Ltda., rol de avalúo 149-36, comuna de Nancagua, VI Región, superficies 1.912 y 989 m2. La Comisión de Peritos fijó con fecha 25 de noviembre de 2004 el monto de la indemnización provisional en la cantidad de
+
+$16.543.600.- para el lote Nº 17 y $10.998.200.- para el lote Nº 18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
