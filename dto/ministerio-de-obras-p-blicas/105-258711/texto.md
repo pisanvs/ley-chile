@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 105, de 26 enero de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la Empresa de Obras Sanitarias de Valparaíso S.A., el lote de terreno Nº 1 para la obra: Estación Elevadora Aguas Servidas Las Baleares, comuna de El Tabo, Provincia de San Antonio, V Región, que figura a nombre de Giugliano Villar Julia A y Otro, rol de avalúo 380-2, superficie 446,45 M2. La Comisión de Peritos fijó con fecha 12 de octubre de 2006, en la cantidad de $11.161.250. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal de Ministerio de Obras Públicas.
