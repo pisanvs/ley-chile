@@ -1,0 +1,3 @@
+Por resolución exenta Nº 682, de 22 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111569 presentada por LUIS JORGE PACHECO ALVARADO, para instalar y operar un centro de cultivo ubicado en estuario Barros Arana, lado noroeste de Isla Nalcayec, sector 2, XI Región.
+
+Valparaíso, 22 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
