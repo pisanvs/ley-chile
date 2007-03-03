@@ -1,0 +1,3 @@
+Por resolución exenta Nº 676, de 22 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111432 presentada por SALMONES MULTIEXPORT LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Sin Nombre, entre Isla Palumbo e Isla Quemada, XI Región.
+
+Valparaíso, 22 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
