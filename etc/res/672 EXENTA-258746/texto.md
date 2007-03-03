@@ -1,0 +1,3 @@
+Por resolución exenta Nº 672, de 22 de febrero de 2007, de esta Subsecretaría, recházase la solicitud Nº 203101208 presentada por PRODUCTOS DEL MAR VENTISQUEROS S.A., para modificar la concesión de acuicultura ubicada en canal Llancahué, al sureste de Isla Linguar, X Región, transferida a la peticionaria mediante resolución Nº 2.049 de 2001, de la Subsecretaría de Marina.
+
+Valparaíso, 22 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
