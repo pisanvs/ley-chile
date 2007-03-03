@@ -1,0 +1,3 @@
+Por resolución exenta Nº 257, de 25 de enero de 2007, modifícase la resolución Nº 1.704, de 2006, de esta Subsecretaría, que autorizó al SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES Y RAMOS SIMILARES "SAN ANTONIO" de la localidad de Cholgo, para instalar colectores en el sector de Cholgo, sector A, X Región, en el sentido de ampliar el plazo para la instalación de los colectores hasta el 30 de junio de 2007.
+
+Valparaíso, 25 de enero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
