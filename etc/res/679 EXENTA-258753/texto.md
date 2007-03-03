@@ -1,0 +1,3 @@
+Por resolución exenta Nº 679, de 22 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111543 presentada por SALMONES GAMA LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Carrera del Cuchi, al este de Punta Palumbo, sector 3, XI Región.
+
+Valparaíso, 22 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
