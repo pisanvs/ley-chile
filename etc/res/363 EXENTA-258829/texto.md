@@ -1,0 +1,7 @@
+Por resolución exenta Nº 363, de 2 de febrero de 2007, de esta Subsecretaría, autorízase a la UNIVERSIDAD DE LOS LAGOS para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Formación y conservación de stocks de reproductores salvajes para sustentar la producción de salmonideos en la Región Sur Austral".
+
+El objetivo de la pesca de investigación consiste en identificar las bases técnicas y biológicas para desarrollar una piscicultura, con objeto de sustentar la pesca recreativa en ríos de la X y XI Regiones.
+
+La pesca de investigación se efectuará por el término de un año, en los ríos Gol Gol y Bonito, de la X Región, y los ríos Claro y Simpson, de la XI Región, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos, y en casos extraordinarios redes de un paño y espineles especialmente diseñados, ejemplares de las especies introducidas Trucha café o fario y Trucha arcoiris. Además, podrá trasladar un máximo de 100 ejemplares de cada una de las especies y por cada uno de los cuerpos de agua, con el objeto de mantenerlos en cautiverio en una piscicultura para fines del presente estudio.
+
+Valparaíso, 2 de febrero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
