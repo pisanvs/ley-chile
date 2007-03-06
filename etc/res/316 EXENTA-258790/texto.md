@@ -1,0 +1,7 @@
+Por resolución exenta Nº 316, de 1 de febrero de 2007, de esta Subsecretaría, autorízase a GESAM CONSULTORES LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Análisis de la fauna íctica en la desembocadura del río Copiapó. III Región, 2007".
+
+El objetivo de la pesca de investigación consiste en determinar la riqueza de la fauna íctica en el área de estudio, sistematizar su información, realizar una caracterización limnológica y contrastar estos resultados con campañas de monitoreo anteriores.
+
+La pesca de investigación se efectuará por el término de cuatro meses, en doce estaciones de muestreo ubicadas en la desembocadura del río Copiapó, comuna de Caldera, III Región, individualizadas en la resolución extractada, donde podrá capturar, con devolución, ejemplares de las especies presentes en el área de estudio, en especial de Camarón del río Cryphiops caementarius y Lisa Mugil cephalus. Sin perjuicio de lo anterior, la peticionaria podrá capturar, sin devolución, un máximo de 4 ejemplares de especies distintas al Camarón del río y a la Lisa.
+
+Valparaíso, 1 de febrero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
