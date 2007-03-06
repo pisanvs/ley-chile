@@ -1,0 +1,7 @@
+Por resolución exenta Nº 404, de 6 de febrero de 2007, de esta Subsecretaría, autorízase a la EMPRESA CONSULTORA REGIONAL ABIMAR LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FFPA denominado "Establecimiento de la Línea Base y Excedentes Productivos de la Reserva Marina Isla Chañaral, III Región".
+
+El objetivo de la pesca de investigación consiste en determinar la abundancia y distribución de los recursos Loco, Lapa y Erizo en el área de la Reserva Marina para determinar los excedentes productivos de estas especies.
+
+La pesca de investigación se efectuará por el término de dos meses en la Reserva Marina Isla Chañaral, III Región, donde podrá capturar, con devolución, mediante buceo semiautónomo, Chinguillo o guatero y Chope, ejemplares de las especies principales Loco, Lapa negra, Lapa rosada y Erizo; y de las especies secundarias Caracol tegula, Erizo negro, Estrella de Mar, Estrella, Sol de mar, Jaiba mora, Jaiba peluda, Jaiba panchote, Picoroco chico, Picoroco, Piure, Huiro palo, Chascón, Quitones y/o apretadores y Esponjas.
+
+Valparaíso, 6 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
