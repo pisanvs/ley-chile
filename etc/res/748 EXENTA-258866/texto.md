@@ -1,0 +1,3 @@
+Por resolución exenta Nº 748 de 28 de febrero de 2007, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 41 de 2003, de esta Subsecretaría, sólo en cuanto autorizó a don MARCELINO SIMON GONZALEZ RIVERA para ampliar actividades pesqueras extractivas con la nave "Don Marcelo", entre Punta Liles y el paralelo 47° L.S. sobre el recurso Bacalao de profundidad, y entre la I a III Regiones, y en la V Región, sobre el recurso Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
