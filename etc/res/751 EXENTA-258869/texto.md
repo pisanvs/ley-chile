@@ -1,0 +1,3 @@
+Por resolución exenta Nº 751, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111277, presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Pérez Norte, lado noroeste de Isla Aguayo, XI Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
