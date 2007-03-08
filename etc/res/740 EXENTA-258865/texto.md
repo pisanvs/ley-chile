@@ -1,0 +1,3 @@
+Por resolución exenta Nº 740, de 28 de febrero de 2007, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 284, de 2000, y Nº 52, de 2003, ambas de esta Subsecretaría, sólo en cuanto autorizaron a SOCIEDAD PESQUERA VIENTO SUR S.A. para ampliar actividades pesqueras extractivas con la nave "Doña Mariana", entre la IV a VIII Regiones, sobre el recurso hidrobiológico Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado en informe técnico citado en Visto.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
