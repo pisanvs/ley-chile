@@ -1,0 +1,11 @@
+EXTRACTO DE DECRETO N° 98, DE 2007
+
+Por decreto de Educación N° 98, de fecha 26 de enero de 2007, se ha aprobado convenio de fecha 2 de enero de 2007, celebrado entre el Ministerio de Educación y el Servicio Evangélico para el Desarrollo, SEPADE, en virtud del cual, y de conformidad con lo dispuesto en el DL N° 3.166, de 1980, y su Reglamento, fijado por el decreto supremo de Educación N° 5.077, del mismo año, el Ministerio entrega a SEPADE la administración delegada del Liceo Industrial de Temuco (Ex A-27), obligándose ésta a ejecutarla directamente respecto del establecimiento educacional mencionado con el propósito de obtener un mejoramiento cualitativo de la enseñanza media técnico-profesional y la formación y capacitación de técnicos de nivel medio más eficientes, por un período de 3 (tres) años calendario.
+
+El establecimiento educacional cuya administración se delega cuenta, a la fecha del presente convenio, con 35 cursos, una matrícula de 1.133 alumnos a noviembre de 2006 y las siguientes especialidades: productos de la madera, mecánica industrial, mecánica automotriz, electricidad y electrónica.
+
+En virtud del citado convenio el Ministerio entrega a SEPADE en comodato y concede el uso gratuito a ésta del inmueble en el que se emplaza el Liceo Industrial de Temuco (Ex A-27), ubicado en calle Uruguay s/n°, de la comuna de Temuco, que comprende tanto los edificios y construcciones, como el predio o terreno, así como los bienes muebles que figuran en el inventario levantado al efecto, todos los que estarán destinados al uso exclusivo de la administración que se ha delegado, de conformidad con las cláusulas pertinentes del convenio suscrito y la normativa vigente.
+
+El Ministerio de Educación entregará anualmente recursos a SEPADE para financiar la operación y funcionamiento del establecimiento educacional cuya administración se delega, de conformidad con lo establecido en la cláusula décimo segunda del convenio suscrito al efecto.
+
+Santiago, 1 de marzo de 2007.- Juan Cavada Artigues, Subsecretario de Educación (S).
