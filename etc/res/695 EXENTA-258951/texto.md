@@ -1,0 +1,3 @@
+Por resolución exenta Nº 695, de 23 de febrero de 2007, de esta Subsecretaría, autorízase a CAPMAR S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en parcela 4, lote A4, Parcelación Estrella de San Vicente, Talca, VII Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
