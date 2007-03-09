@@ -1,0 +1,3 @@
+Por resolución exenta Nº 724, de 28 de febrero de 2007, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 38, modificada mediante resolución exenta Nº 151, ambas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Investigación evaluación hidroacústica reclutamiento Anchoveta y Sardina común V-X Regiones, 2006-2007" en el sentido de extender el período de la citada pesca de investigación hasta el día 15 de marzo de 2007, inclusive.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
