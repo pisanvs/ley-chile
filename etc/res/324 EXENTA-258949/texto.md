@@ -1,0 +1,7 @@
+Por resolución exenta Nº 324, de 1 de febrero de 2007, de esta Subsecretaría, autorízase al CENTRO UNIVERSITARIO INTERNACIONAL EUROPA-AMERICA LATINA DE INVESTIGACION Y FORMACION EN CIENCIAS AMBIENTALES DE LA UNIVERSIDAD DE CONCEPCION para efectuar una pesca de investigación de conformidad con el proyecto "Estudio de patrones de desplazamiento de especies ícticas nativas en la cuenca del río San Pedro, X Región".
+
+El objetivo de la pesca de investigación consiste en conocer los patrones de desplazamiento y el grado de estructuración genética de las especies nativas en el área de la cuenca del río San Pedro.
+
+La pesca de investigación se efectuará por el término de un año en la cuenca del río San Pedro, X Región. El peticionario podrá capturar, con devolución, mediante equipos de pesca eléctrica, chinguillos auxiliares, anzuelos "sin barba", redes agalleras y espineles, ejemplares de las especies Lamprea de bolsa, Lamprea de agua dulce, Pocha del sur, Pocha, Bagre o Tollo, Bagrecito, Bagre grande, Puye, Truchita o Coltrao, Puye, Peladilla, Farionela o Peladilla, Farionela listada, Cauque o Pejerrey, Cauque de Valdivia, Cauque del norte, Pejerrey chileno, Perca truca o trucha criolla y Carmelita o coloradita.
+
+Valparaíso, 1 de febrero de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
