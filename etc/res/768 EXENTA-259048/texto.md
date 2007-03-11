@@ -1,0 +1,3 @@
+Por resolución exenta Nº 768, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111270, presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA para instalar y operar un centro de cultivo ubicado en canal Piure, al sureste de isla Garrao Chica, XI Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
