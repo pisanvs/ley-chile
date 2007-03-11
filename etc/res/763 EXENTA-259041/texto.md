@@ -1,0 +1,3 @@
+Por resolución exenta Nº 763, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111267 presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Pihuel, al sureste de isla Serrano, XI Región.
+
+Valparaíso, 28 de febrero de 2007.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
