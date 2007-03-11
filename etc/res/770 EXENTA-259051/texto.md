@@ -1,0 +1,3 @@
+Por resolución exenta Nº 770, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111334 presentada por GONZALO ALEJANDRO GONZALEZ CAMACHO, para instalar y operar un centro de cultivo ubicado en Canal Pichirupa, al noroeste de Isla Victoria, Ensenada sin nombre, XI Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
