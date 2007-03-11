@@ -1,0 +1,3 @@
+Por resolución exenta Nº 760, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205103164, presentada por HUGO CARLOS CHAVEZ CATEPILLAN para instalar y operar un centro de cultivo ubicado en Canal Dalcahue, al este de Banco del Pasaje, Isla Quinchao, X Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
