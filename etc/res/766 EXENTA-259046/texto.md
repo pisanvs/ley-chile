@@ -1,0 +1,3 @@
+Por resolución exenta Nº 766, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111463 presentada por FLORES Y ACEVEDO ABOGADOS Y CONSULTORES LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Ferronave, entre isla Alvarado e isla Vergara, XI Región.
+
+Valparaíso, 28 de febrero de 2007.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
