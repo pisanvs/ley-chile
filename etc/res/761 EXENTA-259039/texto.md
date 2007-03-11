@@ -1,0 +1,3 @@
+Por resolución exenta Nº 761, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111165 presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Moraleda, al sureste de Isla Job, XI Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
