@@ -1,0 +1,3 @@
+Por resolución exenta Nº 777 de 28 de febrero de 2007 de esta Subsecretaría, recházase la solicitud Nº 206111068 presentada por SALMONES MULTIEXPORT LIMITADA, para modificar la concesión de acuicultura ubicada en Islote Sur, Isla Forsyth, XI Región, otorgada por resolución Nº 1.181 de 2004, de la Subsecretaría de Marina.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
