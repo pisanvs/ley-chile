@@ -1,0 +1,3 @@
+Por resolución exenta Nº 758, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111240 presentada por SALMONES MULTIEXPORT LIMITADA, para instalar y operar un centro de cultivo ubicado en Golfillo de La Lobada Quetros, al sur de Isla Marta, XI Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
