@@ -1,0 +1,3 @@
+Por resolución exenta Nº 778, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96106063, presentada por MIGUEL FRANCISCO JARAMILLO SANZ para instalar y operar un centro de cultivo ubicado en Ensenada Pilquín, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
