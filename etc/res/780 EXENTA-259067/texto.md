@@ -1,0 +1,3 @@
+Por resolución exenta Nº 780, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205101127 presentada por ROBINSON CRUSOE Y COMPAÑIA LIMITADA, para instalar y operar un centro de cultivo ubicado en Bahía Huenquillahue, al sureste de Punta Santo Domingo, X Región.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
