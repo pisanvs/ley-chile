@@ -1,0 +1,3 @@
+Por resolución exenta Nº 783, de 28 de febrero de 2007, de esta Subsecretaría, recházase la solicitud Nº 205103214 presentada por COMPAÑIA PESQUERA CAMANCHACA S.A., para modificar la concesión de acuicultura ubicada al sureste de Punta Terao, sector 1, X Región, otorgada por resolución Nº 764 de 1995, de la Subsecretaría de Marina.
+
+Valparaíso, 28 de febrero de 2007.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
