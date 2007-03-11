@@ -1,0 +1,3 @@
+Por resolución exenta Nº 775 de 28 de febrero de 2007 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 2061011077 presentada por SALMONES MULTIEXPORT LIMITADA, para modificar la concesión de acuicultura ubicada en Isla Level, estero Level Sin Nombre, XI Región, otorgada por resolución Nº 208 de 2003, de la Subsecretaría de Marina.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
