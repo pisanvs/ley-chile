@@ -1,0 +1,15 @@
+Por resolución exenta Nº 560, de 15 de febrero de 2007, de esta Subsecretaría, otórgase a GLOBALPESCA S.A. un permiso extraordinario de pesca para la unidad de pesquería del recurso hidrobiológico Bacalao de profundidad, fijada en el artículo 1º del D.S. Nº 328, de 1992, modificado por el D.S. Nº322, de 2001, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Este permiso extraordinario tendrá vigencia para las temporadas de pesca de Bacalao de profundidad que se fijen en los años 2007 a 2013, ambas inclusive, y faculta a su titular para pescar anualmente el 0,5% de la cuota global anual de captura.
+
+El titular deberá pagar, en las fechas que se indica, los montos en dinero expresados en UTM que se señala:
+
+Diciembre 2007 100,00 UTM Diciembre 2010 100,00 UTM
+
+Diciembre 2008 100,00 UTM Diciembre 2011 100,00 UTM
+
+Diciembre 2009 100,00 UTM Diciembre 2012 100,00 UTM
+
+Déjase sin efecto la resolución Nº 3.506, de 2003, de esta Subsecretaría.
+
+Valparaíso, 15 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
