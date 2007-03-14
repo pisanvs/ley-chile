@@ -1,0 +1,7 @@
+Por resolución exenta Nº 662, de 22 de febrero de 2007, de esta Subsecretaría, autorízase al CENTRO UNIVERSITARIO INTERNACIONAL EUROPA-AMERICA LATINA DE INVESTIGACION Y FORMACION EN CIENCIAS AMBIENTALES DE LA UNIVERSIDAD DE CONCEPCION para efectuar una pesca de investigación de conformidad con el proyecto "Estudio de la fauna íctica del Río Itata (sector Cholguán), VIII Región".
+
+El objetivo de la pesca de investigación consiste en determinar la calidad del agua, describir el sistema físico-natural y las características ambientales del sistema terrestre de impacto directo en Río Itata.
+
+La pesca de investigación se efectuará por el término de un año en la cuenca del Río Itata, VIII Región. El peticionario podrá capturar, con devolución, mediante equipos de pesca eléctrica, chinguillos auxiliares, anzuelos "sin barba", redes agalleras y espineles, ejemplares de las especies nativas Lamprea de bolsa, Lamprea de agua dulce, Pocha de los Lagos, Bagre o Tollo, Bagrecito, Bragre grande, Puye, Truchita o Coltrao, Puye, Cauque o Pejerrey, Pirihuelo, Cauque del norte, Cauque de molina, Cauque de itata, Pejerrey chileno, Perca truca o trucha criolla, Trucha negra o trucha criolla, Carmelita o coloradita y carmelita de Concepción; e introducidas Pejerrey argentino, Carpa, Gambusia, Salmón coho o plateado, Salmón cereza, Trucha arcoiris, Salmón rey o chinook, Salmón del Atlántico, Trucha fario y Trucha de arroyo.
+
+Valparaíso, 22 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretario de Pesca.
