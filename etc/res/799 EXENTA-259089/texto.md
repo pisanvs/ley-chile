@@ -1,0 +1,3 @@
+Por resolución exenta Nº 799, de 6 de marzo de 2007, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 3.281 de 2004, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A. para realizar actividades pesqueras extractivas con la nave "Leopardo", en la Isla de Pascua, Archipiélago de Juan Fernández, Islas Sala y Gómez e Islas Desventuradas, con arrastre, sobre el recurso Alfonsino Beryx splendens, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en Visto.
+
+Valparaíso, 6 de marzo de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
