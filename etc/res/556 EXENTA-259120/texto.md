@@ -1,0 +1,7 @@
+Por resolución exenta Nº 556, de 14 de febrero de 2007, de esta Subsecretaría, autorízase a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Colonización e historia de vida del salmón anádromo (Oncorhynchus tshawytscha), en las cuencas de la Patagonia".
+
+El objetivo de la pesca de investigación consiste en caracterizar el proceso de colonización e historias de vida del Salmón chinook en cuencas de la Patagonia.
+
+La pesca de investigación se efectuará por el período comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2007, en las áreas correspondientes a los ríos Futaleufú y Palena de la X Región; Cuenca del Río Cisnes, Cuenca del Río Aysén y Cuenca del Río Baker, todas de la XI Región, y Cuenca del Río Serrano, de la XII Región, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos auxiliares, ejemplares de las especies nativas e introducidas, señaladas en la resolución extractada. Excepcionalmente, la peticionaria podrá utilizar como arte de pesca, por un corto período de tiempo, redes agalleras, de manera de garantizar la sobrevivencia de las especies capturadas. Sin perjuicio de lo anterior, la peticionaria podrá capturar mensualmente, sin devolución, con los artes de pesca antes mencionados, 20 alevines y 5 adultos de la especie Salmón chinook.
+
+Valparaíso, 14 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
