@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.185 de 29 de diciembre de 2006, se modificó el decreto MOP Nº 636 de 31 de julio de 2006, en lo que respecta al Numeral 3º referente al lote Nº 226, además del Informe de Tasación de 2 de noviembre de 2005, existe un acta complementaria de la misma fecha, por la suma de $3.600.000, cantidad que debe adicionarse a la señalada en el numeral 3º del decreto MOP Nº 636 de 31 de julio de 2006, de modo tal que el valor de la indemnización es de $55.708.058.- Se modifica el Numeral 6º en cuanto al monto de la imputación presupuestaria, esta es $145.621.526.
+
+Fiscal del Ministerio de Obras Públicas.
