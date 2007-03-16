@@ -1,0 +1,3 @@
+Por decreto MOP Nº 1.197 de 29 de diciembre de 2006, se expropió para Aguas Andinas S.A., el lote de terreno Nº 1 para la obra: "Planta de Tratamiento de Aguas Servidas de Melipilla", que figura a nombre de Feria de Remate de la Provincia de Melipilla Limitada, rol de avalúo 2023-61, Comuna de Melipilla, Región Metropolitana, superficie 50.000 m² y se acordó el valor de indemnización con su propietario, en la cantidad de $80.000.000.
+
+Fiscal del Ministerio de Obras Públicas.
