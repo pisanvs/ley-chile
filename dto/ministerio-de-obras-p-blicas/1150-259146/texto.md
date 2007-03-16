@@ -1,0 +1,5 @@
+Por decreto MOP Nº 1.150 de 14 de diciembre de 2006, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 34 para la obra: Camino Ruta L-202, Sector Villa Alegre - Putagan, Tramo km. 0,00000 a km.
+
+11,44287, que figura a nombre de Leiva Leiva Josefina del Carme, rol de avalúo 240-61, de la Comuna de Villa Alegre, VII Región, superficie 308 m². La Comisión de Peritos con fecha 18 de enero de 2006, complementada por acta de 31 de octubre de 2006, fijó el monto de la indemnización provisional en la cantidad de $4.835.000.- para el lote Nº 34. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
