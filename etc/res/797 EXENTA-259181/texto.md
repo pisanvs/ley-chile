@@ -1,0 +1,7 @@
+Por resolución exenta Nº 797, de 6 de marzo de 2007, de esta Subsecretaría, autorízase a PESQUERA TUBUL S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Federico Schwager Nº 1109, Parque Industrial, Coronel, VIII Región, donde podrá elaborar en las líneas de proceso de Alga seca, cocido, fresco-enfriado, fresco-refrigerado, Congelado, Seco-salado, ahumado, conserva y deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Déjanse sin efecto las resoluciones Nº 2.446, de 1999, Nº 302, de 2001 y Nº 2.445, de 2003, todas de esta Subsecretaría, en virtud de la carta renuncia citada en Visto, y del contenido de la presente resolución.
+
+Deniégase la solicitud presentada por la peticionaria para procesar en las líneas de proceso de Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco- Salado, Ahumado, Conserva y Deshidratado, el recurso hidrobiológico Lobo marino común, Otaria flavescens, lo anterior en virtud de lo dispuesto por el decreto exento Nº 765, de 2004, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de marzo de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
