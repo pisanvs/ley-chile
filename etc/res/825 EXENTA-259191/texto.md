@@ -1,0 +1,3 @@
+Por resolución exenta Nº 825, de 9 de marzo de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111263 presentada por SOCIEDAD DE ACUICULTURA RIO HUEMULES LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Sin Nombre, entre Isla Level e Isla Izaza, XI Región.
+
+Valparaíso, 9 de marzo de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
