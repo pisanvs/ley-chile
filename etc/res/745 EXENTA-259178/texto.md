@@ -1,0 +1,3 @@
+Por resolución exenta Nº 745, de 28 de febrero de 2007, de esta Subsecretaría, autorízase a PESQUERA PACIFIC FARMER LIMITADA para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas precedentemente, en orden a incorporar a la planta ubicada en Avenida Brasil Nº 710, Calbuco, X Región, en la línea de proceso de Liofilizado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
