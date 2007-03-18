@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS EN LAS CALIDADES QUE INDICA EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA Y DE LA SEGUNDA SERIE, DE LA SERENA
+
+Extracto de la resolución SII Nº 11, de 26 de febrero de 2007, que designa a don Iván Samuel Acevedo Díaz, RUT Nº 5.413.151-8, Fiscalizador, grado 11, como Secretario Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena y a doña Ana María Godoy Díaz, RUT Nº 8.998.922- 1, Fiscalizador, grado 11, como Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie de la misma jurisdicción.
