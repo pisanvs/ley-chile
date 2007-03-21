@@ -1,0 +1,3 @@
+Por resolución exenta Nº 742, de 28 de febrero de 2007, de esta Subsecretaría, autorízase a PESCA Y CULTIVOS DON JORGE S.A. para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Llicaldad Rural s/nº, Panamericana Sur, Castro, Chiloé, X Región, en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
