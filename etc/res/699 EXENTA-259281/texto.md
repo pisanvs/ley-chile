@@ -1,0 +1,3 @@
+Por resolución exenta Nº699, de 26 de febrero de 2007, de esta Subsecretaría, autorízase a DANISCO CHILE S.A., RUT Nº96.627.500-6, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Parcela A-3, Km 7.5, Sector Barranco Amarillo, Punta Arenas, XII Región, donde podrá elaborar en la línea de proceso de Alga seca, el recurso hidrobiológico Luga roja.
+
+Valparaíso, 26 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
