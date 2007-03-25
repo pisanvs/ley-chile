@@ -1,0 +1,289 @@
+MODIFICA DECRETO Nº 195, MODIFICADO POR DECRETO Nº228, AMBOS DE 2005, EN LA FORMA QUE INDICA
+
+Núm. 381.- Santiago, 30 de noviembre de 2006.- Considerando:
+
+Que en el artículo primero del decreto supremo de Educación Nº 195 y modificado por decreto supremo de Educación Nº 228, ambos de 2005, se determinó el número de establecimientos educacionales con derecho a percibir la subvención del inciso 4º del artículo 12º del decreto con fuerza de ley (Ed.) Nº 2, de 1998.
+
+Que esta Secretaría de Estado ha estimado pertinente incluir otros establecimientos educacionales en dicha nómina, y
+
+Visto: Lo dispuesto en la ley Nº 18.956; D.F.L.
+
+(Ed.) Nº 2, de 1998; decreto supremo Nº 195, de 2005; decreto supremo Nº 228, de 2005, ambos de Educación; ley 20.083, de Presupuestos del Sector Público para el año 2006; y demás antecedentes tenidos a la vista y la resolución Nº 520 de 1996, y su modificación, de Contraloría General de la República,
+
+Decreto:
+
+#### Artículo 1º
+
+Modifícase el decreto supremo de Educación Nº 195, de 2005, modificado por decreto supremo de Educación Nº 228, de 2005, en el sentido de agregar en su artículo primero los establecimientos educacionales que se indican a continuación, los cuales cumplen con los requisitos señalados en el inciso 4º del artículo 12º del D.F.L Nº 2, de Educación, de 1998 y que tendrán derecho a percibir la Subvención Mínima a que se refiere el inciso indicado.
+
+NOMINA DE ESTABLECIMIENTOS EDUCACIONALES RURALES QUE TIENEN DERECHO A PERCIBIR LA SUBVENCION MINIMA O PISO RURAL, A PARTIR DEL AÑO 2005
+
+Núm. Cód. Cód. Cód. Nombre RBD Dep. Nombre
+
+Ord. Reg. Prov.Com. Comuna Estable-
+
+cimiento
+
+1 4 2 2 CANELA 1112 PART ESCUELA EL
+
+POTRERO
+
+2 4 3 2 COMBARBALA 890 PART ESCUELA LOS
+
+SAPOS
+
+3 4 3 2 COMBARBALA 893 PART ESCUELA EL
+
+DIVISADERO
+
+4 4 3 2 COMBARBALA 13312 PART ESCUELA
+
+CHEPICA
+
+5 4 2 1 ILLAPEL 994 PART ESCUELA EL
+
+RINCON DEL
+
+ROMERO
+
+6 4 2 1 ILLAPEL 997 PART ESCUELA
+
+QUEBRADA DE
+
+CARCAMO
+
+7 4 2 1 ILLAPEL 1002 PART ESCUELA EL
+
+SOCAVON
+
+8 4 2 1 ILLAPEL 1003 PART ESCUELA SAN
+
+ROMUALDO
+
+9 4 2 1 ILLAPEL 1008 PART ESCUELA
+
+QUILLAICITO
+
+10 4 2 1 ILLAPEL 1011 PART ESCUELA
+
+MACUCO
+
+11 4 2 1 ILLAPEL 13375 PART ESCUELA
+
+BASICA EL
+
+MEMBRILLO
+
+12 4 2 1 ILLAPEL 13379 MUN ESC. BASICA
+
+MUN. CUMBRE
+
+DE LOS ANDES
+
+13 4 1 1 LA SERENA 549 MUN COLEGIO LOS
+
+CORRALES
+
+14 4 1 1 LA SERENA 550 MUN COLEGIO
+
+ALMIRANTE
+
+LATORRE
+
+15 4 1 1 LA SERENA 561 MUN COLEGIO EL
+
+ROMERAL
+
+16 4 2 4 LOS VILOS 13302 PART ESCUELA CERRO
+
+BLANCO
+
+17 4 3 3 MONTE PATRIA 818 MUN ESCUELA LOS
+
+CLONQUIS
+
+18 4 3 3 MONTE PATRIA 825 MUN ESCUELA PABLO
+
+NERUDA
+
+19 4 3 3 MONTE PATRIA 826 MUN ESC. BASICA
+
+HACIENDA
+
+VALDIVIA
+
+20 4 3 3 MONTE PATRIA 841 MUN ESCUELA
+
+PULPICA
+
+21 4 3 1 OVALLE 963 PART ESCUELA EL
+
+TENIENTE
+
+22 4 1 5 PAIHUANO 696 MUN ESCUELA LA
+
+ORTIGA
+
+23 4 1 5 PAIHUANO 697 MUN ESCUELA
+
+ALCOHUAZ
+
+24 4 2 5 SALAMANCA 1025 MUN ESC. BASICA
+
+LA HIGUERILLA
+
+25 4 2 5 SALAMANCA 1047 PART ESCUELA VALLE
+
+CAMISAS
+
+26 4 1 6 VICUÑA 689 MUN ESC. BASICA
+
+DAVID ROJAS
+
+GONZALEZ
+
+27 8 1 17 COBQUECURA 4088 MUN ESCUELA
+
+BASICA LA
+
+ANTENA
+
+28 8 4 6 CONTULMO 5186 PART ESCUELA
+
+PARTICULAR
+
+VILLA HERMOSA
+
+29 8 3 6 HUALQUI 4918 MUN ESCUELA AGUA
+
+CORTA
+
+30 8 1 10 PEMUCO 3965 MUN ESCUELA
+
+BASICA SANTA
+
+JULIA
+
+31 8 3 4 TOME 4849 MUN ESCUELA
+
+BASICA PISSIS
+
+32 8 3 4 TOME 4854 MUN ESCUELA
+
+BASICA SAN
+
+FRANCISCO
+
+33 8 3 4 TOME 11395 MUN ESCUELA
+
+BASICA
+
+LLOICURA
+
+34 8 1 9 YUNGAY 3959 MUN ESCUELA
+
+PALLAHUALA
+
+35 8 1 9 YUNGAY 11404 MUN ESCUELA SAN
+
+LUIS
+
+36 9 1 1 ANGOL 5242 MUN ESC. BASICA
+
+BOLLANCO
+
+37 9 1 1 ANGOL 5263 MUN ESCUELA DE
+
+ITRAQUE
+
+38 9 2 5 CUNCO 6001 PART ESCUELA
+
+PARTICULAR
+
+DICAHUE
+
+39 9 1 4 LONQUIMAY 5331 MUN ESCUELA
+
+BASICA
+
+MARIMENUCO
+
+40 9 1 4 LONQUIMAY 5332 MUN ESCUELA
+
+BASICA LA
+
+ANGOSTURA
+
+41 9 1 11 LOS SAUCES 5556 MUN ESC. BASICA
+
+SAN CARLITOS
+
+42 9 1 11 LOS SAUCES 5557 MUN ESCUELA
+
+VICENTE PEREZ
+
+ROSALES
+
+43 9 1 9 LUMACO 5490 MUN ESC. BASICA
+
+COMUDE
+
+44 9 2 6 MELIPEUCO 6017 MUN ESC. BASICA
+
+HUECHELEPUN
+
+45 10 1 4 LOS LAGOS 6973 PART ESCUELA
+
+PARTICULAR
+
+SANTA JIMENA
+
+46 10 1 4 LOS LAGOS 6978 MUN ESCUELA RURAL
+
+STA. ANA
+
+47 10 1 4 LOS LAGOS 6965 PART ESCUELA
+
+PARTICULAR
+
+HUAIQUIMILLA
+
+48 10 1 10 PAILLACO 7233 PART ESCUELA
+
+PARTICULAR
+
+COTRILLA
+
+CHICO
+
+49 10 1 10 PAILLACO 22194 PART ESCUELA
+
+PARTICULAR
+
+CUFEO ALTO
+
+50 10 2 4 PUERTO
+
+OCTAY 7500 PART ESCUELA
+
+PARTICULAR
+
+JAVIERA
+
+CARRERA
+
+51 10 2 4 PUERTO
+
+OCTAY 7503 PART ESCUELA PART.
+
+RIO BLANCO-
+
+GAVIOTAS
+
+#### Artículo 2º
+
+El gasto que irrogue al Ministerio de Educación el cumplimiento del presente decreto para el presente año se imputará al ítem 09.01.20.24.01.257, del Presupuesto de la Subsecretaría de Educación.
+
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Yasna Provoste Campillay, Ministra de Educación.- Andrés Velasco Brañes, Ministro de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Pilar Romaguera Gracia, Subsecretaria de Educación.
