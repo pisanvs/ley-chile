@@ -1,0 +1,3 @@
+Por resolución exenta Nº 700, de 26 de febrero de 2007, de esta Subsecretaría, autorízase a ESTANISLAO SEGUNDO SALAS DIAZ, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en km. 1, al norte de Caleta Paposo, comuna de Taltal, II Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
