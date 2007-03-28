@@ -15874,13 +15874,15 @@ d) Debe utilizarse un nivel de confianza de 99%, con un intervalo de confianza d
 
 e) La medida de pérdida utilizada para la comparación debe excluir todos los resultados que no estén relacionados con las variables de mercado (honorarios, comisiones o compromisos, etc.) y los resultados de las operaciones que se realicen durante el día.
 
-f) Para calcular los excesos, se deberá comparar, diariamente, la pérdida efectivamente observada con la medición VaR, para cada uno de los últimos 250 días de operación. Se considerará que ocurre un exceso cuando en un día las pérdidas exceden la correspondiente medida de VaR.
+f) Para calcular los excesos, se deberá comparar, diariamente, la pérdida efectivamente observada con la medición VaR, en cada uno de los días de operación considerados en la muestra para realizar la prueba retrospectiva, la que deberá tener un tamaño igual o superior a 250 observaciones. Se computará un exceso cuando en un día las pérdidas excedan la correspondiente medida de VaR.
 
 g) Debe existir una asignación de responsabilidades sobre el proceso de cálculo de la prueba y niveles jerárquicos apropiados para la distribución interna de la información.
 
 h) Deben estar establecidos los procedimientos y responsabilidades para la definición e implementación de las acciones correctivas en caso de que se sobrepase el número o la magnitud de los excesos considerados aceptables.
 
-18. En función del número de excesos computados, para fines de evaluación del modelo VaR y de la aplicación del factor multiplicativo que se menciona en el número ix, del numeral 1 del anexo 2 del Capítulos III.B.2, los bancos que estén autorizados para calcular el límite normativo para riesgo de mercado utilizando modelos VaR, serán clasificados en las tres zonas de permanencia que se muestran en la siguiente tabla:
+18. Para fines de evaluación del modelo VaR y de la aplicación del factor multiplicativo que se menciona en el número ix, del numeral 1 del anexo 2 del Capítulo III.B.2, los bancos que estén autorizados para calcular el límite normativo para riesgo de mercado utilizando modelos VaR deberán construir la tabla de permanencia que resulta de aplicar la metodología propuesta por el Comité de Basilea en el documento "Supervisory Framework for the use of Backtesting in Conjunction with the Internal Models Approach to Market Risk Capital Requirements", publicado en 1996, y clasificar los resultados de las pruebas en las tres zonas que allí se definen.
+
+En la siguiente tabla se presentan, a modo de ejemplo, las zonas de permanencia para una muestra de 250 observaciones:
 
 .
 
@@ -15890,21 +15892,21 @@ La zona amarilla indica que los resultados de las pruebas plantean objeciones so
 
 La zona roja indica que los resultados de las pruebas retrospectivas revelan serias deficiencias del modelo VAR, quedando en tela de juicio el uso del modelo interno para la medición de los límites normativos.
 
-Para la determinación del factor multiplicativo, la Tabla de Permanencia considera un aumento ("factor aditivo") en función de la cantidad de excesos computados. El nuevo factor multiplicativo que se origine al computarse algún exceso, se aplicará a partir del primer día hábil de la semana subsiguiente al día a que se refiere el cómputo y mientras esta Superintendencia no indique lo contrario según lo indicado en el N° 19 siguiente.
+Como se aprecia en el ejemplo, la Tabla de Permanencia considera un aumento ("factor aditivo") del factor multiplicativo en función de la cantidad de excesos computados. Ahora bien, independientemente del tamaño de la muestra de observaciones, el factor multiplicativo que se origine al computarse algún exceso, se aplicará a partir del primer día hábil de la semana subsiguiente al día a que se refiere el cómputo y mientras esta Superintendencia no indique lo contrario según lo indicado en el N° 19 siguiente.
 
-Esta Superintendencia podrá establecer un factor aditivo superior al indicado en la Tabla de Permanencia cuando: i) exista una permanencia por más de un año en la zona amarilla; y, ii) el número y el monto de los excesos registrados en la zona roja justifiquen un factor aditivo mayor que 1. Para acceder a reducciones en el factor aditivo especial que se hubiere impuesto en esos casos, los bancos deberán demostrar a esta Superintendencia que han tomado acciones correctivas que resulten en un mejoramiento sustentable de las estimaciones de riesgo arrojadas por el modelo VaR y que no son necesarias acciones adicionales.
+Esta Superintendencia podrá establecer un factor aditivo superior al que se obtenga de la Tabla de Permanencia cuando: i) la frecuencia y/o el monto de los excesos registrados justifiquen un factor aditivo mayor, independiente de la zona en que permanezca el banco; ii) exista una permanencia por más de un año en la zona amarilla; y, iii) el número de excesos registrados en la zona roja justifiquen un factor aditivo mayor que i. Para acceder a reducciones en el factor aditivo especial que se hubiere impuesto en esos casos, los bancos deberán demostrar a esta Superintendencia que han tomado acciones correctivas que resulten en un mejoramiento sustentable de las estimaciones de riesgo arrojadas por el modelo VaR y que no son necesarias acciones adicionales.
 
 En caso de modificaciones en el modelo VaR en régimen, los excesos anteriores a las modificaciones seguirán siendo computados para efectos de aplicar el factor multiplicativo.
 
-Los factores aditivos que se indican en la Tabla de Permanencia comenzarán a ser aplicados al finalizar el primer año desde la instauración del modelo VaR en que se basa el límite normativo. No obstante, si en ese período inicial se sobrepasan los 10 excesos, este Organismo podrá establecer un factor aditivo o incluso suspender el uso del modelo interno para el cómputo del límite de riesgo de mercado.
+Los factores aditivos de la Tabla de Permanencia comenzarán a ser aplicados al finalizar el primer año desde la instauración del modelo VaR en que se basa el límite normativo. No obstante, si en ese período inicial se sobrepasa el número de excesos que corresponda al umbral de la Zona Roja (que es de 10 para el ejemplo de 250 observaciones) este Organismo podrá establecer un factor aditivo o incluso determinar que el banco utilice la medición estándar para el cómputo del límite de riesgo de mercado.
 
-19. La información sobre las pruebas retrospectivas deberá ser enviada semanalmente a esta Superintendencia, conjuntamente con las mediciones del modelo VaR. Paralelamente y con el mismo plazo, los bancos enviarán un análisis formal del o los excesos que se hayan informado.
+19. La información sobre el resultado de las pruebas retrospectivas deberá ser enviada semanalmente a esta Superintendencia, conjuntamente con las mediciones del modelo VaR. Paralelamente y con el mismo plazo, los bancos enviarán un análisis formal del o los excesos que se hayan informado.
 
 Puesto que las pruebas retrospectivas no son absolutamente confiables desde el punto de vista estadístico, al momento de analizar la precisión del modelo VaR en función de dichas pruebas, esta Superintendencia tomará en cuenta una serie de factores para decidir si determinado exceso debe o no ser registrado para el cómputo. Entre otros, se evaluará la naturaleza, tamaño y frecuencia de los excesos.
 
 Entre las razones que pueden justificar que un exceso no se compute están:
 
-i) La ocurrencia de volatilidades extremas en las variables mercado, que no podría haber sido prevista al momento de calibrar el modelo VaR utilizado. La eventual admisión de esta excepción sobreentiende, en todo caso, que el banco adaptará sus series de datos para que reflejen el nuevo escenario de volatilidades;
+i) La ocurrencia de volatilidades extremas en las variables mercado, que no podrían haber sido previstas al momento de calibrar el modelo VaR utilizado. La eventual admisión de esta excepción sobreentiende, en todo caso, que el banco adaptará sus series de datos para que reflejen el nuevo escenario de volatilidades;
 
 ii) Que el exceso esté explicado por factores que no son considerados en el modelo como, por ejemplo, factores del riesgo específico (de contraparte); o,
 
@@ -15912,25 +15914,23 @@ iii) Cambios regulatorios que afecten el funcionamiento del mercado y que pueden
 
 Por el contrario, no se justifica excluir un exceso del cómputo si éste obedece a problemas en la integridad básica del modelo (como deficiencias en los sistemas o cálculo erróneo de volatilidad y correlaciones) o a una especificación deficiente del modelo VaR (de modo que no mida eficientemente los riesgos), entre otros.
 
-Si como consecuencia de la naturaleza y volumen de los excesos registrados, esta Superintendencia resuelve rechazar el uso del modelo interno para la medición de los límites normativos, la institución debe corregir los errores presentados por el modelo y probar su confiabilidad con pruebas retrospectivas, que cuenten con información de al menos un año, a fin de poder utilizar nuevamente el modelo interno para esos efectos.
+Si como consecuencia de la naturaleza y volumen de los excesos registrados, esta Superintendencia resuelve suspender el uso del modelo interno para la medición de los límites normativos, la institución debe corregir los errores presentados por el modelo y probar su confiabilidad con pruebas retrospectivas, que cuenten con información de al menos un año, a fin de poder utilizar nuevamente el modelo interno para esos efectos.
 
-Sobre la autorización para utilizar el modelo intermedio para medir el riesgo de mercado de posiciones en opciones
+Sobre la aplicación del método intermedio para medir el riesgo de mercado de posiciones en opciones.
 
-20. La autorización para adoptar el método intermedio para medir el riesgo de mercado de sus posiciones en opciones, a efectos de realizar la medición normativa de riesgos de mercado conforme a lo señalado en el numeral 4.2 del Anexo N° 1 del Capítulo III.B.2, solamente se otorgará si en su última evaluación a la gestión de riesgos financieros y operaciones de tesorería del banco, realizada según lo previsto en el numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación, esta Superintendencia no ha observado debilidades que deban ser superadas previamente.
+20. En concordancia con lo señalado en el numeral 4.3 del Anexo N° 1 del Capítulo III.B.2, los bancos deberán comunicar a esta Superintendencia la necesidad de utilizar el "método intermedio" de que trata el numeral 4.2 de ese Anexo, en forma previa al lanzamiento de cualquier producto que deba ser incluido en el cómputo del riesgo normativo, sea que se trate de opciones explícitas o de opciones implícitas en instrumentos híbridos. Lo señalado procederá también cuando a un producto ya existente se le introduzcan modificaciones que incidan en los criterios de valoración o medición del riesgo.
 
-Deberá solicitarse autorización en forma previa al lanzamiento de cualquier producto que deba ser incluido en el cómputo del riesgo mediante el "método intermedio", sea que se trate de opciones explícitas o de opciones implícitas en instrumentos híbridos. En caso de que a un producto ya existente se le introduzcan modificaciones que incidan en los criterios de valoración y medición del riesgo, deberá solicitarse una nueva autorización en relación con ese producto.
+Dichas comunicaciones contendrán un informe detallado y se remitirán a esta Superintendencia sólo una vez que el banco cuente con toda la información requerida para una eventual evaluación de este Organismo, según lo indicado en los N°s. 1 y 2 del Anexo N° 2 del presente Capítulo.
 
-Las autorizaciones de que se trata se otorgarán siguiendo el proceso descrito en el Anexo N° 2 de este Capítulo.
+Sobre la medición del riesgo de mercado de posiciones en opciones mediante el método simplificado.
 
-Sobre la medición del riesgo de mercado de posiciones en opciones mediante el método simplificado
+21. El "método simplificado" a que se refiere el numeral 4.1 del Anexo N° 1 del Capítulo III.B.2, sólo puede ser utilizado por las entidades que no emitan opciones, sean ellas explícitas o implícitas en instrumentos híbridos.
 
-21. La aplicación del "método simplificado" a que se refiere el numeral 4.1 del Anexo N° 1 del Capítulo III.B.2, no requiere de autorización por parte de esta Superintendencia. Sin embargo, dicho método sólo puede ser utilizado por las entidades que no emitan opciones, sean ellas explícitas o implícitas en instrumentos híbridos.
+Sobre las metodologías para medir el riesgo de mercado de posiciones en opciones mediante modelos internos
 
-Sobre la aprobación de las metodologías para medir el riesgo de mercado de posiciones en opciones mediante modelos internos
+22. Aquellas entidades que hayan sido autorizadas para utilizar modelos internos VaR y decidan emitir opciones, deberán comunicar a esta Superintendencia, en forma previa a su lanzamiento, la metodología que utilizarán para el cómputo de tales instrumentos en dicho modelo interno. Lo mismo deberá hacerse en caso de que a un tipo de opción ya existente se le introduzcan modificaciones que incidan en los criterios de valoración y medición del riesgo, en relación con esa opción.
 
-22. Aquellas entidades que se encuentren autorizadas para utilizar modelos internos VaR y decidan emitir opciones, deberán solicitar a esta Superintendencia, en forma previa a su lanzamiento, la aprobación de la metodología que desean utilizar para el cómputo de tales instrumentos en dicho modelo interno. En caso de que a un tipo de opción ya existente se le introduzcan modificaciones que incidan en los criterios de valoración y medición del riesgo, deberá solicitarse una nueva aprobación en relación con esa opción.
-
-Las aprobaciones de que se trata se darán siguiendo, en lo que corresponda, el proceso descrito en el Anexo N° 2 de este Capítulo.
+Dichas comunicaciones incluirán un informe detallado y se enviarán a esta Superintendencia sólo una vez que el banco tenga toda la información necesaria para una eventual evaluación de este Organismo, según lo indicado en los N°s. 1 y 2 del Anexo N° 2 de este Capítulo.
 
 Junto con los cambios en los modelos internos que deben efectuarse con motivo de las operaciones con nuevas opciones, deberá ajustarse el modelo estándar para efectos de la información mensual mencionada en el N° 23 de este título.
 
@@ -15944,7 +15944,7 @@ La información de las filiales y de las sucursales en el exterior será enviada
 
 Cada informe de pruebas de tensión que se envíe a esta Superintendencia deberá contar con la aprobación del gerente general o del gerente que sea designado para ello, y se enviará dentro de los quince días siguientes a la fecha a la que se refiere.
 
-25. Los bancos deberán informar oportunamente a esta Superintendencia de cualquier cambio en el modelo VaR, indicando los fundamentos que motivaron las modificaciones. También deberán ser informados los cambios en la metodología y criterios definidos para las pruebas retrospectivas, adjuntando en el informe el impacto en los resultados en las pruebas que se generarán por cada una de esas modificaciones.
+25. Los bancos deberán informar oportunamente a esta Superintendencia de cualquier cambio en el modelo VaR, indicando los fundamentos que motivaron las modificaciones, adjuntando en el informe el cambio en la tabla de permanencia aplicada y el impacto en los resultados en las pruebas retrospectivas que se generarán por cada una de esas modificaciones.
 
 26. En general, los bancos deberán informar a esta Superintendencia de cualquier cambio en sus políticas de administración de riesgos de mercado, para lo cual acompañarán a las actas de las sesiones del Directorio en que se aprobaron los cambios, los nuevos textos del documento único a que se refiere el N° 29 de este título. En el caso de las agencias de bancos extranjeros, se enviará la documentación dentro de los diez días hábiles bancarios contados desde la aprobación de los cambios.
 
@@ -16048,29 +16048,31 @@ II.- LA EVALUACIÓN SBIF
 
 - La evaluación comprenderá:
 
--> El análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y,
++ El análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y,
 
--> La realización de análisis y pruebas que permitan emitir una opinión de la
-
-"consistencia metodológica del modelo", como también de la "solidez de los procesos y procedimientos establecidos por la entidad".
++ La realización de análisis y pruebas que permitan emitir una opinión de la "consistencia metodológica del modelo", de la calidad de las pruebas de retrospectiva realizadas, como también de la "solidez de los procesos y procedimientos establecidos por la entidad".
 
 - Con el propósito de facilitar la evaluación, al momento de la solicitud de aprobación, la entidad solicitante deberá tener a disposición de la SBIF los siguientes elementos:
 
--> Política de riesgo de mercado aprobada por Directorio o quien haga sus veces.
++ Política de riesgo de mercado aprobada por el Directorio o quien haga sus veces.
 
--> Documentación del modelo (metodología y procedimientos).
++ Documentación del modelo (metodología y procedimientos).
 
--> Informes de auditoría (conforme a lo señalado en este Anexo).
++ Informes de auditoría (conforme a lo señalado en este Anexo).
 
--> Informes de eventuales certificaciones independientes realizadas al modelo.
++ Informes de eventuales certificaciones independientes realizadas al modelo.
 
--> Informes de pruebas retrospectivas.
++ Informes de pruebas retrospectivas.
 
--> Informes de pruebas de tensión.
+- Tabla de permanencia utilizada.
 
--> Documento de aprobación del modelo por parte de la alta administración.
+- Resultado de las pruebas.
 
--> Charla descriptiva general del modelo, en formato de presentación, considerando al menos:
++ Informes de pruebas de tensión.
+
++ Documento de aprobación del modelo por parte de la alta administración.
+
++ Charla descriptiva general del modelo, en formato de presentación, considerando al menos:
 
 - Reseña metodológica
 
@@ -16092,13 +16094,13 @@ III.- REQUISITOS QUE DEBEN CUMPLIR LOS BANCOS
 
 - Podrán aplicar esta modalidad, de acuerdo a lo señalado por la normativa, aquellos bancos que:
 
--> Se encuentren clasificados en nivel A de solvencia;
++ Se encuentren clasificados en nivel A de solvencia;
 
--> Reflejen una adecuada clasificación de gestión en la materia "Riesgo financiero y operaciones de tesorería";
++ Reflejen una adecuada clasificación de gestión en la materia "Riesgo financiero y operaciones de tesorería";
 
--> Cuenten con una política de riesgo de mercado vigente y acorde con lo indicado en el Anexo N° 3 del Capítulo 1-13 de esta Recopilación; y,
++ Cuenten con una política de riesgo de mercado vigente y acorde con lo indicado en el Anexo N° 3 del Capítulo 1-13 de esta Recopilación; y,
 
--> Sean previamente autorizados por la SBIF.
++ Sean previamente autorizados por la SBIF.
 
 - Para optar a esta autorización, las instituciones deberán además:
 
@@ -16170,59 +16172,53 @@ Los informes de auditoría referidos al entorno del modelo y procesos relacionad
 
 ANEXO N°2
 
-APROBACION DE MODELOS DE OPCIONES PARA EFECTOS DEL CÓMPUTO NORMATIVO DEL RIESGO DE MERCADO
+1) INFORME DETALLADO.
 
-I.- PROCESO DE APROBACIÓN
+El informe detallado que debe enviarse a esta Superintendencia en relación con la emisión de opciones según lo indicado en los N°s. 20 y 21 del título I de este Capítulo, contendrá la siguiente información:
 
-- Presentación, por parte del banco, de una solicitud formal de aprobación del modelo.
++ Reseña del producto y su relación con la estrategia comercial y financiera del banco.
 
-- Revisión del modelo por parte de la SBIF.
++ Proyección comercial para el producto.
 
-- Comunicación formal al banco del resultado de la revisión.
++ Tipo y cuantía de riesgos identificados en el producto
 
-II.- LA EVALUACIÓN SBIF
++ Estructura de límites asociada al producto.
 
-- La evaluación comprenderá:
++ Reseña de metodologías de valoración y determinación de griegas.
 
--> El análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y,
++ Reseña de aplicaciones tecnológicas que soportarán el producto.
 
--> La realización de análisis y pruebas que permitan emitir una opinión de la "consistencia metodológica del modelo", como también de la "solidez de los procesos y procedimientos establecidos por la entidad" para la administración de los riesgos inherentes a este tipo de instrumentos.
++ Reseña de la forma de incorporar el riesgo del producto en las mediciones globales de riesgo de la entidad, tanto internas como normativas.
 
-- Con el propósito de facilitar la evaluación, al momento de la solicitud de aprobación, la entidad solicitante deberá tener a disposición de la SBIF los siguientes elementos:
++ Reseña del impacto cuantitativo en mediciones de riesgo normativas e internas, conforme a las proyecciones comerciales del producto.
 
--> Política referida a la actividad en derivados, inclusive opciones, aprobada por el Directorio o quien haga sus veces.
+2) EVALUACIÓN DE MODELOS DE OPCIONES.
 
--> Documento de análisis y aprobación del producto.
+La evaluación de la SBIF de modelos de opciones para efectos del cómputo del riesgo de mercado, comprenderá el análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y la realización de análisis y pruebas que permitan obtener una opinión de la consistencia metodológica del modelo, como también de la solidez de los procesos y procedimientos establecidos por la entidad para la administración de los riesgos inherentes a este tipo de instrumentos Con el propósito de facilitar la evaluación, la entidad deberá tener a disposición de la SBIF los siguientes elementos adicionales al informe detallado de que trata el N° 1 de este Anexo:
 
--> Documentos relacionados con la aprobación del modelo de medición de riesgo.
++ Políticas referidas a la actividad en opciones.
 
--> Documentación del modelo de medición de riesgo (metodología y procedimientos).
++ Documento de análisis y aprobación del producto.
 
--> Charla descriptiva general del producto, en formato de presentación, considerando al menos:
++ Documento de análisis y aprobación de límites.
 
-- Reseña del producto y su relación con la estrategia comercial y financiera del banco.
++ Documentos relacionados con la aprobación a alto nivel del modelo de medición de riesgo.
 
-- Riesgos identificados en el producto:
++ Documentos metodológicos del modelo de medición de riesgo.
 
-o Tasa de interés, moneda, liquidez.
++ Documentación de los sistemas que soportarán el producto en las distintas áreas (front, back y middle-office).
 
-o Crédito, operacional, legal.
++ Manual de procedimientos operativos definidos para el producto.
 
-- Metodología de valoración.
++ Documentación relativa a pruebas operativas y de sistemas realizadas.
 
-- Reseña metodológica de los modelos de riesgo de mercado.
++ Ejemplos de cálculos realizados para obtener el valor razonable, griegas y cómputo normativo para el producto.
 
-- Reseña metodológica de los modelos de riesgo de crédito y liquidez.
++ Ejercicio de impacto cuantitativo en mediciones de riesgo normativas e internas, conforme a las proyecciones comerciales para el producto.
 
-- Reseña de soportes operativos y procedimiento contable.
++ Documentación de procedimientos contables.
 
-- Estructura de límites y su fundamento.
-
-- Mecanismos de información y control.
-
-- Impacto cuantitativo en mediciones internas de riesgo.
-
-- Impacto cuantitativo en mediciones normativas.
++ Identificación de las normas que, de acuerdo al análisis del banco, inciden en el producto.
 
 CAPITULO 12-10 (Bancos y Financieras)
 
