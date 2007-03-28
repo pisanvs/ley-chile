@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCION EXENTA N° 1.027, DE 2007
+
+Por resolución exenta de Educación Nº 1.027, de 22 de enero de 2007, se ha modificado, a partir del año escolar 2007, la resolución exenta de Educación Nº 16.275, de 2001, modificada por la resolución exenta de Educación Nº 13.160, de 2003, que aprobó planes y programas especiales de estudio de 1º a 4º año de Enseñanza Media Técnico-Profesional al Liceo Politécnico Ciencia y Tecnología, de la comuna de La Cisterna, provincia de Santiago, Región Metropolitana, en el sentido de sustituir los planes de estudio de 1º a 4º año de las Especialidades de Secretariado, Administración, Laboratorio Químico, Telecomunicaciones y Electrónica, por los que se indican en la presente resolución.
+
+Además, se aprueban programas de estudio del Subsector de Matemática para 3º y 4º año del Plan de Formación General, de los Subsectores Módulos Complementarios Alternativos de 1º a 4º año y Herramientas de Producción para 1º año del Plan de Formación Complementaria, y del Subsector de Laboratorio de Estructuras Lógicas para 1º año en la Especialidad de Telecomunicaciones.
+
+Santiago, 23 de marzo de 2007.- Jaime Veas Sánchez, Jefe División de Educación General (S).
