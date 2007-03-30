@@ -1,0 +1,3 @@
+Por resolución exenta Nº 895, de 20 de marzo de 2007, de esta Subsecretaría, modifícase el numeral 4º de la Resolución Nº 152, modificada mediante resolución Nº 434, ambas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de jurel, I y II Región, año 2007", en el sentido de incorporar a las embarcaciones artesanales "Trinquete" (RPA Nº 25510), "Doña Mercedes" (RPA Nº 01546) y "Juan Pablo II" (RPA 39009) al listado de naves autorizadas para participar en la presente pesca de investigación.
+
+Valparaíso, 20 de marzo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
