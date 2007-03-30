@@ -2280,121 +2280,91 @@ La intermediación, por cuenta propia o ajena, de dinero o de créditos represen
 
 El concepto de captación tiene en la legislación vigente una acepción amplia, de manera que cubre todas las operaciones, a la vista o a plazo, que involucran recibir dinero del público, sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma. Así, por ejemplo, constituyen captaciones la recepción de depósitos en cuentas corrientes bancadas o en cuentas de ahorro, los depósitos a la vista o a plazo en general, la emisión y colocación en el mercado de bonos o letras de crédito y las ventas con pacto de retrocompra de títulos de crédito. Muchas de estas operaciones deben sujetarse a normas legales o reglamentarias especiales como, asimismo, a instrucciones específicas impartidas por esta Superintendencia que se encuentran contenidas en otros capítulos de esta Recopilación Actualizada de Normas.
 
-El N° 1 del artículo 35 de su Ley Orgánica Constitucional, faculta al Banco Central de Chile para dictar las normas y condiciones a que deben sujetarse las captaciones de fondos del público que pueden realizar los bancos y sociedades financieras, como asimismo las cooperativas de ahorro y crédito. Las normas de carácter general que ha impartido el Banco Central de Chile sobre esa materia, se encuentran contenidas en el Capítulo III.B.1 de su Compendio de Normas Financieras, muchas de las cuales se mencionan, precisando en algunos casos su alcance, en el título II del presente Capítulo.
+El N° 1 del artículo 35 de su Ley Orgánica Constitucional, faculta al Banco Central de Chile para dictar las normas y condiciones a que deben sujetarse las captaciones de fondos del público que pueden realizar los bancos. Las normas de carácter general que ha impartido sobre esa materia, se encuentran contenidas en el Capítulo III.B.1 de su Compendio de Normas Financieras.
 
-En lo que concierne a la oferta pública de valores que los bancos y sociedades financieras pueden efectuar por cuenta de terceros, al amparo de los números 20 y 25 del artículo 69 de la Ley General de Bancos, las instituciones financieras quedan sujetas a las disposiciones establecidas en la Ley N° 18.045 para los agentes de valores. Esta materia se trata en el título IV de este Capítulo.
+En lo que concierne a la oferta pública de valores que pueden efectuar por cuenta de terceros al amparo de los números 20 y 25 del artículo 69 de la Ley General de Bancos, las empresas bancarias quedan sujetas a las disposiciones establecidas en la Ley N° 18.045 para los agentes de valores.
 
-### II. NORMAS GENERALES SOBRE CAPTACIONES Y TRANSFERENCIAS DE TITULOS DE CREDITO
+II.- NORMAS GENERALES SOBRE CAPTACIONES.
 
-En las presentes normas se entiende que las operaciones realizadas con el "público" son las efectuadas con cualquier persona natural o jurídica, del país o del exterior, distinta de los bancos y sociedades financieras establecidos en Chile.
+Para el cumplimiento de lo dispuesto en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile (en adelante "Capítulo III.B.1"), se dispone lo siguiente:
 
-### 1. Plazos mínimos para el pago de intereses o reajustes al público
+1.- Plazos mínimos para las captaciones a plazo.
 
-Conforme a lo establecido en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden pagar intereses por sus captaciones del público solamente si se trata de operaciones pactadas a plazo y si los fondos se mantienen depositados a lo menos 30 días.
+De acuerdo con el Capítulo III.B.1, los depósitos y demás captaciones a plazo en cualquier moneda, deben pactarse con un plazo mínimo de 30 días corridos, salvo que se trate de captaciones reajustables por la variación de la UF o del IVP, en que el plazo mínimo es de 90 días, o bien de ventas con pacto de retrocompra, las que pueden acordarse desde un día plazo cualquiera sea su moneda o reajustabilidad.
 
-En el caso de reajustes, su pago sólo puede efectuarse para operaciones a plazo y siempre que los fondos se mantengan 90 días o más, salvo que se trate de captaciones reajustables según la variación del dólar de Estados Unidos de América de acuerdo al sistema autorizado en la letra c) del N° 2 del Capítulo II.B.3 del Compendio de Normas Financieras, en cuyo caso ese plazo mínimo es de 30 días.
+Si se pacta un plazo indefinido, el plazo mínimo de que se trata se aplica al tiempo prefijado para el pago a contar de la fecha de la vista o aviso del cliente.
 
-Quedan excluidas de las condiciones de plazos mínimos señaladas en los párrafos precedentes las siguientes operaciones:
+Las cuentas de ahorro a plazo se rigen por sus propias normas en esta materia.
 
-a) Los intereses que el Banco del Estado de Chile debe pagar por los depósitos a la orden judicial en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales.
+2.- Pago de intereses o reajustes por captaciones a la vista.
 
-b) Los intereses y reajustes que se paguen por las captaciones realizadas mediante la venta con pacto de recompra de los instrumentos que se señalan en el N° 3 del título III de este Capítulo, en cuyo caso el plazo mínimo es de cuatro días hábiles bancarios.
+Los bancos sólo pueden pagar intereses por captaciones a la vista en los casos expresamente autorizados por el Banco Central de Chile, esto es, en cuentas corrientes y cuentas a la vista, según lo establecido en los Capítulos III.G.1 y III.B.1.1 de su Compendio de Normas Financieras.
 
-c) Los intereses que se paguen sobre los saldos en cuentas corrientes y en cuentas a la vista, según lo establecido en los Capítulos III.G.1 y III B.1.1 del Compendio de Normas Financieras del Banco Central de Chile.
+El Banco del Estado de Chile puede además pagar intereses por los depósitos a la orden judicial en virtud de lo dispuesto en el artículo 517 del Código Orgánico de Tribunales.
 
-2. Plazos mínimos para adquirir del público títulos de crédito que hayan sido emitidos o cedidos por alguna institución financiera.
+En ningún caso los bancos pueden pagar reajustes por depósitos y captaciones a la vista.
 
-De acuerdo a lo señalado en el N° 2 del Capítulo III.B.1 del Compendio de Normas Financieras, quedan sujetos a plazos mínimos de 30 y 90 días, iguales a los mencionados en el N° 1 precedente, las adquisiciones de efectos de comercio que las instituciones financieras hagan a personas diferentes a bancos o sociedades financieras establecidos en Chile, en relación con la fecha del endoso o cesión.
+No se consideran a la vista los depósitos en cuentas de ahorro a plazo, que para efectos del pago de intereses y reajustes se rigen por sus propias normas.
 
-Dicha disposición se aplica tanto a las compras definitivas como a las compras con pacto de que trata el título III de este Capítulo y es complementaria de las instrucciones contenidas en el N° 1 precedente, relativas al pago de intereses y reajustes. Por consiguiente, debe entenderse que esa limitación alcanza a todos los títulos de crédito pagaderos a plazo que hayan sido emitidos o cedidos por la misma institución o por otro banco o sociedad financiera establecido en Chile, incluidos los valores mobiliarios.
+3.- Renovaciones automáticas.
 
-En todo caso, en concordancia con la excepción indicada en la letra b) del N° 1 anterior, aquellos plazos mínimos de 30 y 90 días para adquirir títulos de crédito no son aplicables cuando la adquisición corresponda a la recompra de aquellos documentos vendidos con pacto de retrocompra que se señalan en el N° 3 del título III de este Capítulo, ya que en ese caso, como se mencionó anteriormente, el plazo mínimo es de cuatro días hábiles bancarios, tanto para instrumentos reajustables como no reajustables.
+Según lo indicado en el Capítulo III.B.1, las renovaciones automáticas de depósitos o captaciones deben pactarse estableciendo un plazo de tres días hábiles bancarios a contar del vencimiento para su retiro, luego del cual se entenderá renovado desde la fecha de vencimiento y por un plazo idéntico al primitivo.
 
-Por otra parte, se entiende que los plazos deben contarse desde la fecha en que el documento fue emitido o transferido por una institución financiera a un tercero, diferente de un banco o sociedad financiera. Para estos efectos, el Banco Central de Chile dispone que las instituciones financieras que cedan o transfieran un documento de su cartera al público deberán endosarlo y estampar la fecha del endoso correspondiente a la contabilización de la operación. Este procedimiento, que por su naturaleza puede alcanzar solamente a los documentos extendidos a la orden, deberá seguirse aunque el endoso previo haya sido en blanco.
+Para efectos de encaje, durante esos tres días estas operaciones se considerarán a plazo.
 
-De acuerdo con lo anterior, para dar cumplimiento a la norma de que se trata, las instituciones financieras deberán atenerse a lo siguiente:
+Cada vez que las instituciones financieras efectúen la renovación automática de un depósito, deberán enviar un aviso por carta o por correo electrónico, según lo prefiera el depositante, informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
 
-a) Documentos endosados por una Institución financiera.
+4.- Ventas con pacto de retrocompra.
 
-El plazo de los documentos que hayan sido endosados por cualquier institución financiera, pagaderos a plazo, se computará a contar de la fecha de ese endoso. Al existir más de un endoso, se considerará el último efectuado por un banco o sociedad financiera.
+Sólo podrán venderse con pacto de retrocompra los tipos de instrumentos mencionados en el N° 7 del Capítulo III.B.1.
 
-b) Documentos sin endosos o extendidos al portador.
+Las ventas deben efectuarse según el contrato marco a que se refiere el N° 8 de ese Capítulo, con las cláusulas que correspondan al tipo de pacto de uso internacional que se aplique.
 
-Para los documentos pagaderos a plazo suscritos o aceptados por una institución financiera, a falta de endoso por parte de otra entidad financiera, el plazo se computará a contar desde su fecha de emisión, salvo que se trate de un documento que se recompre directamente a la misma persona a la cual se le vendió, en cuyo caso el plazo debe computarse desde la fecha de la venta.
+Cuando se acuerde que los instrumentos vendidos queden bajo la custodia del propio banco cedente, este deberá mantener sistemas de control apropiados para custodiar separadamente, durante la vigencia del pacto, los títulos cedidos.
 
-### 3. Operaciones con títulos al portador
+Las obligaciones de retrocompra están exentas de la obligación de constituir la reserva técnica de que trata el artículo 65 de la Ley General de Bancos y el Capítulo 4-2 de esta Recopilación.
 
-3.1.- Emisión de títulos al portador.
+Por otra parte, según lo dispuesto en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, no quedan sujetas a encaje las captaciones realizadas mediante ventas con pacto de retrocompra, cuando los instrumentos vendidos correspondan a pagarés y bonos emitidos por el Banco Central de Chile o por la Tesorería General de la República. Esa exención de encaje no alcanzará a la parte de los fondos obtenidos que superen el valor razonable de esos instrumentos a la fecha de la venta.
 
-Las instituciones financieras sólo pueden emitir los siguientes títulos al portador:
+5.- Operaciones de préstamos de valores.
 
-a) Letras de crédito y bonos para ser colocados en el país.
+Los bancos sólo podrán participar como cedentes o cesionarios en operaciones de préstamos de valores, cuando se trate de transferencias de los tipos de instrumentos mencionados en el N° 7 del Capítulo III.B.1.
 
-b) Certificados de depósito y bonos para ser colocados en el exterior, en las condiciones establecidas en el Capítulo XIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
+Los derechos a restitución o pago deberán ser computados por el banco cedente para los límites de crédito del artículo 84 de la Ley General de Bancos.
 
-3.2.- Transferencia de títulos al portador emitidos en Chile.
+Las obligaciones de restitución o pago que asume un banco por estas operaciones, quedan sujetas a encaje y reserva técnica de acuerdo con sus plazos. No obstante, si los valores transferidos corresponden a instrumentos emitidos por el Banco Central de Chile, dichas obligaciones quedan exentas de encaje según lo indicado en el Capítulo III.A.1 de su Compendio de Normas Financieras.
 
-Las instituciones financieras sólo podrán transferir los siguientes títulos al portador emitidos en Chile:
+Además, las obligaciones entre bancos del país deben computarse para los límites de que trata el Capítulo 12-7 de esta Recopilación.
 
-a) Los indicados en el numeral 3.1 precedente.
+6.- Información al público sobre depósitos y captaciones.
 
-b) Los siguientes documentos emitidos por el Banco Central de Chile:
+La información al público sobre las tasas de interés que se apliquen a las captaciones, se informarán según lo indicado en el Capítulo 7-1 de esta Recopilación.
 
-- Pagarés descontables (PDBC) y Pagarés reajustables (PRBC), de que tratan los Capítulos IV.B.6, IV.B.7 y IV.B.8 del Compendio de Normas Financieras del Banco Central de Chile.
+De acuerdo con lo señalado en el Capítulo 18-13 de esta Recopilación, los bancos no pueden ofrecer incentivo alguno por las captaciones o cualquiera otra operación que genere un pasivo, que no sea la rentabilidad que es propia de la operación.
 
-- Pagarés reajustables con tasa flotante (PTF), Capítulo IV.B.8.1 del Compendio de Normas Financieras.
+III.- OTRAS NORMAS SOBRE CAPTACIONES.
 
-- Pagarés Dólar Preferencial (PDP).
+1.- Emisión desmaterializada de pagarés o certificados de depósitos a plazo.
 
-- Pagarés y efectos de comercio a que se refería y el Anexo NB 1 del Capítulo XIX del Título I del ex - Compendio de Normas de Cambios Internacionales.
+Las instituciones financieras que acuerden con sus clientes la emisión desmaterializada de los pagarés o certificados de depósitos a plazo, deberán llevar un registro en que se individualice cada uno de los depósitos en que se utilice ese sistema. Dicho registro contendrá al menos los siguientes datos:
 
-- Pagarés reajustables con pago en cupones (PRC), Capítulo IV.B.8.3 del Compendio de Normas Financieras.
+- **a)** número del documento que se ingresa desmaterializadamente a la empresa de depósito y custodia de valores con la cual se haya contratado ese servicio;
 
-- Pagarés Reajustables en Dólares (PRD), Capítulo IV.B.10 del Compendio de Normas Financieras.
+- **b)** nombre completo o razón social del depositante, esto es, del titular original del instrumento a la orden;
 
-- Cupones de emisión reajustables opcionales (C.E.R.O.) en unidades de fomento.
+- **c)** número de RUT y domicilio del depositante;
 
-- Cupones de emisión reajustables opcionales (C.E.R.O.) en dólares.
+- **d)** fecha de emisión;
 
-- Bonos del Banco Central de Chile en Pesos (BCP), en Unidades de Fomento (BCU) y expresados en Dólares de los Estados Unidos de América (BCD).
+- **e)** capital, expresado en la moneda o en la unidad de reajustabilidad que corresponda;
 
-- Bonos del Banco Central de Chile en dólares de los Estados Unidos de América (B.C.X), Pagarés del Banco Central de Chile en dólares de los Estados Unidos de América (P.C.X) y Cupones de Emisión del Banco Central de Chile en dólares de los Estados Unidos de América (X.E.R.O).
+- **f)** tasa de interés; y,
 
-c) Bonos y pagarés emitidos por la Tesorería General de la República, correspondientes a emisiones seriadas de instrumentos de oferta pública.
+- **g)** fecha de vencimiento.
 
-d) Bonos de la deuda interna y cualquiera otra clase de documentos representativos de obligaciones del Estado o de sus instituciones o garantizados por aquél o éstas.
+En el caso de una emisión material posterior de un depósito a plazo, se procederá según lo convenido con la empresa de depósito y custodia de valores, de acuerdo con la reglamentación que le rige para el efecto, debiendo quedar también constancia de tal acto en el registro antes mencionado.
 
-e) Bonos y otros valores de renta fija inscritos en el Registro de Valores de la Superintendencia de Valores y Seguros.
-
-4.- Condiciones generales para la venta o cesión de instrumentos financieros.
-
-En las ventas o cesiones de documentos de la cartera de colocaciones o de instrumentos para negociación o inversión, los bancos deberán cumplir las siguientes condiciones:
-
-a) Deben transferirse los títulos completos, salvo que el fraccionamiento del instrumento de que se trate esté permitido en las normas del Banco Central de Chile como excepción a esta regla general. En todo caso, esta obligación de vender o ceder títulos completos no alcanza al fraccionamiento que, en base a posiciones mínimas trasfenbles, se efectúe con valores depositados en una empresa de depósito y custodia de valores de acuerdo con la Ley N° 18.876;
-
-b) Los títulos de crédito deberán estar extendidos cumpliendo todas las formalidades legales y exigencias tributarias;
-
-c) Los documentos que se vendan o cedan, deben ser de propiedad de la institución vendedora o cedente y encontrarse debidamente registrados en su contabilidad, pudiendo estar al momento de la transacción, físicamente en poder de ella o no estarlos;
-
-d) Las ventas podrán ser: i) definitivas, o, ii) con pacto de retrocompra, con sujeción, en este caso, a las normas del título III de este Capítulo;
-
-e) No podrán transferirse al público documentos cuyo plazo de vencimiento, contado desde la fecha de venta o cesión, sea inferior a los plazos señalados en el N°1 de este título, esto es, cuatro días hábiles bancarios cuando se trate de alguno de los documentos indicados en el N° 3 del título III de este Capítulo, 30 días corridos para otros documentos no reajustables o reajustables por la variación del dólar de Estados Unidos de América y 90 días corridos cuando correspondan a otros documentos reajustables.
-
-f) Las cesiones de cartera a empresas securitizadoras deben sujetarse a los límites y demás condiciones establecidos por el Banco Central de Chile en el Capítulo III.B.4 de su Compendio de Normas Financieras.
-
-g) Además de las condiciones señaladas en los literales precedentes y en las otras disposiciones del presente Capítulo, las instituciones deben ajustarse a las normas específicas referidas a la venta o cesión de cartera de colocaciones tratadas en el Capítulo 8-19 de esta Recopilación.
-
-5. Responsabilidad de la institución financiera en el pago de los documentos que venda o transfiera.
-
-La transferencia de documentos será siempre sin responsabilidad de pago de la institución financiera cedente, salvo que se trate de colocaciones cedidas a empresas bancarias del exterior, excluidas las sucursales y filiales de bancos establecidos en el país, cuando tales colocaciones correspondan a créditos pagaderos en moneda extranjera otorgados a personas domiciliadas y residentes en Chile. En éste caso el banco cedente podrá agregar su responsabilidad de pago, quedando ésta sujeta al límite de avales y fianzas dispuesto en el Capítulo III.1.1 del Compendio de Normas Financieras del Banco Central de Chile, tratado en el Capítulo 8-10 de esta Recopilación.
-
-### 6. Otras disposiciones
-
-6.1. Prohibición de ofrecer a los depositantes beneficios diferentes a las tasas de interés y al reajuste.
-
-Conforme a lo dispuesto en el Capítulo 18-13 de esta Recopilación Actualizada de Normas, a las instituciones financieras no les está permitido ofrecer a sus depositantes ningún otro beneficio apreciable en dinero que no sea el interés y el reajuste en su caso.
-
-6.2. Documentos a nombre de beneficiarios alternativos.
+2.- Documentos a nombre de beneficiarios alternativos.
 
 Las instituciones financieras deberán abstenerse de emitir documentos en que los beneficiarios estén designados en forma alternativa, en consideración a los problemas de índole civil, tributaria y de interpretación del pago mismo, que pueden producirse especialmente en caso de fallecimiento de alguno de los titulares.
 
@@ -2404,139 +2374,63 @@ Lo anterior, evidentemente no impide que un beneficiario conjunto confiera manda
 
 Estas disposiciones no afectan a las cuentas corrientes ni a las cuentas de ahorro, sean a la vista o a plazo, las que pueden abrirse y mantenerse en forma bipersonal o pluripersonal, conjunta o alternativa, por cuanto no existen los peligros que derivan de la circulación en el público de los documentos, como es el caso de los depósitos o captaciones a la vista o a plazo. Por otra parte, la aplicación del impuesto de herencia en relación con cuentas de ahorro bipersonales se encuentra expresamente resuelta en la Ley sobre Impuesto a las Herencias y Donaciones, lo que no ocurre con los certificados de depósito a la vista o a plazo.
 
-### III. OPERACIONES CON PACTO DE RETROCOMPRA
+3.- Retención de depósitos a plazo por orden judicial o por fallecimiento del titular.
 
-### 1. Definición
+Los depósitos a plazo fijo sobre los cuales se haya decretado una retención judicial, pueden ser renovados a su vencimiento por el titular, ya que la retención judicial no les priva del dominio sobre el bien sino sólo limita su facultad de disposición, al no poder cobrarlo para sí, ni desprenderse de él en favor de otra persona.
 
-Para los efectos del cumplimiento de las presentes instrucciones y de las normas del Banco Central de Chile que se refieren a la materia, se entenderá que constituyen operaciones "con pacto de retrocompra" o "con pacto", las compraventas de títulos de crédito o valores en las cuales el vendedor se obliga a recomprar la cosa vendida en una fecha y a un precio determinado y el comprador, a su vez, se obliga a revenderla en las mismas condiciones pactadas.
+Del mismo modo, los depósitos que pasan a una sucesión por fallecimiento del titular pueden ser objeto de renovación durante el período que transcurra entre la concesión de la posesión efectiva de la herencia y hasta que se entere el impuesto de herencia o se declare exenta de ella, ya que nada impide que los herederos tomen las medidas conservativas necesarias para no resultar perjudicados.
 
-### 2. Condiciones que deben cumplirse en las ventas y compras con pacto
+En todo caso, tratándose de depósitos a plazo renovables la renovación periódica operará en forma automática de acuerdo con la respectiva cláusula del contrato.
 
-Las ventas y compras con pacto de retrocompra deberán cumplir las siguientes condiciones:
+IV.- VENTA O CESION DE CREDITOS DE LA CARTERA DECOLOCACIONES.
 
-2.1. Títulos que pueden transferirse con pacto de retrocompra.
+1.- Condiciones para la venta o cesión de los créditos.
 
-Podrán adquirirse o cederse con pacto los mismos documentos que pueden ser adquiridos o cedidos en forma definitiva, según se trate de otra institución financiera o del público. Dichas ventas o compras quedan sujetas, por lo tanto, a las disposiciones establecidas para las ventas y compras de títulos de crédito señaladas en el título II de este Capítulo y en el Capítulo 8-19 de esta Recopilación.
+1.1.- Normas especiales.
 
-Con todo, no podrán venderse con pacto de retrocompra instrumentos de propia emisión.
+En los siguientes casos, la venta o cesión de instrumentos de la cartera de colocaciones queda sujeta a las normas especiales que se indican
 
-2.2. Precio de venta.
+a) Las securitizaciones, que se rigen por las normas del Capítulo III.B.4 del Compendio de Normas Financieras del Banco Central de Chile y del Capítulo 8-40 de esta Recopilación.
 
-Los instrumentos financieros u otros títulos de crédito o valores que se vendan con pacto, deben ser transferidos al mismo valor en que, en condiciones de mercado, se venderían en forma definitiva.
+b) La venta de Mutuos Hipotecarios endosables, en que se aplica lo dispuesto en el N° 7 del artículo 69 de la Ley General de Bancos y en el Capítulo 8-4 de esta Recopilación.
 
-2.3. Forma de pago.
+c) La cesión de préstamos en letras de crédito, que sólo procede en las licitaciones a que se refiere el artículo 125 de la Ley General de Bancos.
 
-Tanto el precio de compra como el de recompra deberá ser pagado íntegramente de contado, esto es, sin que medien saldos de precio ni plazos para cumplir con la obligación que emane de la compra realizada.
+1.2.- Normas generales.
 
-2.4. Plazos de las operaciones.
+En las ventas o cesiones de instrumentos de su cartera de colocaciones distintas de las indicadas en el numeral 1.1 precedente, los bancos deben cumplir las siguientes condiciones:
 
-La obligación de recomprar y revender que asumen las partes, deberá pactarse a una fecha determinada, anterior o igual a la del vencimiento del documento transferido, debiendo considerarse los siguientes plazos mínimos conforme a lo establecido en el Capítulo I1I.B.1 del Compendio de Normas Financieras del Banco Central de Chile:
+a) Deben transferirse títulos completos y extendidos cumpliendo todas las formalidades legales y exigencias tributarias.
 
-a) Operaciones entre instituciones financieras.
+b) Las cesiones serán sin responsabilidad de pago del cedente ni con condiciones que obliguen o permitan al banco readquirir los créditos cedidos.
 
-Las operaciones entre instituciones financieras establecidas en Chile podrán realizarse desde un día hábil bancario cuando se transfieran con pacto los instrumentos mencionados en el N° 3 de este título, de acuerdo con lo indicado en la letra c) del N° 6 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
+c) La cesión de créditos a entidades no sujetas a la fiscalización de esta Superintendencia deberá contar con el consentimiento previo del deudor, salvo que se trate de créditos vencidos o castigados. El deudor dará su consentimiento por escrito y para solicitarlo el banco deberá informarle quien será su nuevo acreedor y dónde tendrá que servir sus créditos en caso de otorgarlo.
 
-Para los demás valores o efectos de comercio que se transfieran, el plazo para la retrocompra no podrá ser inferior a 30 días corridos cuando se vendan documentos no reajustables, ni menor a 90 días cuando se trate de instrumentos reajustables.
+d) Las cesiones de créditos a una parte relacionada requerirá de la autorización previa de esta Superintendencia. La respectiva autorización se solicitará por escrito, acompañando la misma información que se indica en el N° 2 siguiente.
 
-b) Operaciones con el público.
+2.- Envío a esta Superintendencia de información acerca de las transacciones realizadas.
 
-La venta con pacto a compradores distintos a otros bancos o sociedades financieras establecidos en el país de los instrumentos mencionados en el N° 3 de este título, debe contratarse con un plazo no inferior a cuatro días hábiles bancarios.
+Los bancos cedentes deberán enviar a esta Superintendencia, dentro de los primeros diez días de los meses de abril, julio, octubre y enero, los siguientes antecedentes relativos a las operaciones realizadas en el trimestre inmediatamente anterior:
 
-Para la venta con pacto de retrocompra de otros valores, el plazo no podrá ser inferior a 30 días corridos cuando el pacto no incluya una cláusula de reajustabilidad, ni menor a 90 días cuando el pacto la incluya, en concordancia con 10 señalado en el N° 1 del título II de este Capítulo. Por otra parte, sea que se trate o no de operaciones con pacto reajustables, el plazo para la recompra de instrumentos que incluyan una cláusula de reajustabilidad no podrá ser inferior a 90 días, según lo previsto en la letra c) del N° 6 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
+a) Nombre de los compradores o cesionarios.
 
-Las compras con pacto al público pueden efectuarse desde un día hábil bancario.
+b) Fecha de la cesión.
 
-2.5. Intereses y reajustes.
+c) Identificación de los deudores de los documentos cedidos.
 
-Por tratarse de operaciones de crédito de dinero, la tasa de interés que se les aplique a las compras con pacto no podrá exceder a la tasa de interés máxima convencional vigente al momento de efectuarlas.
+d) Valor de los créditos vigentes y vencidos registrados en el activo y monto de las provisiones asociadas a esos créditos, al momento de la cesión.
 
-Los pactos en moneda extranjera con tasa varia- ble deben expresarse con tasa libo o prime.
+e) Valor obtenido por los créditos cedidos.
 
-La reajustabilidad de los pactos, al igual que las demás operaciones de crédito, sólo podrá convenirse en alguno de los sistemas autorizados por las normas generales, cualquiera sea la reajustabilidad que tuviere el instrumento transado.
+3.- Información a los deudores para el servicio de los créditos cedidos.
 
-2.6. Pactos y documentos pagaderos en moneda extranjera.
+En general, se requiera o no la conformidad previa de los deudores y aun cuando no proceda legalmente una notificación a cada deudor, en cualquier transferencia de créditos a otra entidad deberá comunicársele oportunamente y por escrito, el nombre de su nuevo acreedor y el lugar u oficina en la que el crédito debe ser pagado.
 
-Los bancos podrán adquirir o ceder documentos en moneda extranjera mediante pactos que se solucionen en la misma u otra moneda, incluyendo la moneda chilena.
+Los bancos que adquieran créditos de otro banco, deberán procurar que éstos puedan seguir sirviéndose en la misma plaza, a través de alguna institución corresponsal si acaso no tuviera oficinas en ella.
 
-Asimismo, los bancos podrán realizar pactos de compra o venta pagaderos en moneda extranjera, con instrumentos expresados en la misma moneda o en otra distinta, incluida la moneda chilena.
+4.- Subrogaciones voluntarias a personas que pasan los créditos.
 
-Como es natural, los pactos, en tanto créditos otorgados u obtenidos en moneda extranjera, quedan sujetos a las disposiciones sobre operaciones de cambio del Banco Central de Chile, entre ellas las del Capítulo XIII del Compendio de Normas de Cambios Internacionales cuando se trate de ventas con pacto efectuadas con entidades del exterior.
-
-2.7. Contratos y cláusulas.
-
-Para documentar las operaciones con pacto las instituciones financieras deberán atenerse a las siguientes intrucciones:
-
-a) El compromiso de recomprar o de revender inherente a las operaciones deberá constar en el mismo documento en que se deje constancia de la compraventa con pacto realizada.
-
-b) En el caso de las ventas, deberá contemplarse una cláusula que permita a la institución financiera cedente mantener bajo su custodia el título vendido, hasta la fecha fijada para la retrocompra.
-
-c) No podrán pactarse condiciones que permitan a alguna de las partes optar por no recomprar o revender el instrumento transferido, salvo en caso de liquidación o quiebra del vendedor.
-
-d) Al tratarse de documentos que contienen cupones que venzan dentro del plazo pactado o de instrumentos que correspondan a emisiones cuyas condiciones permiten el rescate anticipado por parte del emisor, deberán estipularse las condiciones respecto al cobro de dichos importes, en el caso que éstos fueren pagaderos durante la vigencia del pacto, ya sea a beneficio del adquirente o del cedente.
-
-3. Instrumentos que pueden ser vendidos con pacto de retrocompra con plazos mínimos especiales.
-
-a) Operaciones con bancos y sociedades financieras establecidos en el país.
-
-Los instrumentos que se indican a continuación pueden ser objeto de venta con pacto de retrocompra desde un día hábil bancario cuando el comprador sea otra institución financiera:
-
-i) Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República que se indican en las letras b) y c) del numeral 3.2 del título II de este Capítulo.
-
-ii) Certificados de Depósito Expresados en Dólares de los Estados Unidos de América - Acuerdo 163-05-911010.
-
-iii) Bonos de Reconocimiento, Complementos de Bonos de Reconocimiento y Pagarés Ley 19.980 (bonos de reparación), emitidos por el Instituto de Normalización Previsional.
-
-iv) Pagarés Reajustables de la Tesorería General de la República, emitidos conforme a la Ley N° 19.568.
-
-v) Otros instrumentos, pagaderos, expresados o reajustables en moneda extranjera, emitidos por: el Banco Central de Chile, el Estado de Chile o sus instituciones; Estados o bancos centrales extranjeros de países clasificados, al menos, en primera categoría de riesgo; y, organismos internacionales a los Cuales se encuentre adherido el Estado de Chile.
-
-b) Operaciones con el público.
-
-Podrán venderse con pacto de retrocompra desde cuatro días hábiles bancarios, los instrumentos aludidos en la letra a) precedente, con excepción de los indicados en sus numerales iv) y v).
-
-### 4. Exención de encaje y reserva técnica
-
-Las ventas con pacto de retrocompra correspondientes a instrumentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, como asimismo las ventas de Bonos de Reconocimiento y Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional, están exentas de encaje.
-
-Por otra parte, las obligaciones de retrocompra, cualesquiera sea el documento vendido, están exentas de la obligación de constituir la reserva técnica de que trata el artículo 65 de la Ley General de Bancos.
-
-IV.- VENTAS CORTAS Y PRESTAMO DE VALORES.
-
-De acuerdo con lo establecido en el N° 7 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las ventas cortas que pueden realizar las instituciones financieras corresponden a aquellas que se pueden realizar mediante préstamos de instrumentos financieros obtenidos de personas domiciliadas y residentes en Chile. La adquisición de instrumentos financieros con obligación de restitución debe sujetarse a las siguientes condiciones:
-
-1. - Títulos que pueden ser adquiridos mediante un préstamo de instrumentos financieros.
-
-Sólo pueden ser objeto de un contrato de préstamo de instrumentos financieros los documentos emitidos por el Banco Central de Chile en virtud de operaciones de mercado abierto y los bonos y letras de crédito emitidos por bancos y sociedades financieras establecidos en el país, susceptibles de ser adquiridos por las instituciones financieras.
-
-No podrán efectuarse esas operaciones con instrumentos cuyo valor de mercado en los últimos cinco días hábiles bancarios acumule una caída igual o superior al 5% si se trata de documentos cuya duración sea inferior a dos años, o igual o superior al 10% al tratarse de instrumentos con una duración mayor.
-
-2.- Requisito que debe cumplir la institución financiera que adquiere los títulos.
-
-La institución financiera adquirente debe mantener, mientras esté vigente el pacto, títulos libres de todo gravamen equivalentes en riesgo y liquidez a los obligados a restituir, o derechos sobre los mismos, cuyo valor a precio de mercado sea al menos equivalente a la correspondiente obligación de restitución. Esta regla debe cumplirse tanto en el caso en que se pacte la restitución como en el caso dé que se pacte el pago del precio de mercado y no se refiere a instrumentos que el adquirente se obligue a restituir, sino sólo a los que cumplan las condiciones antes indicadas.
-
-3.- Participación de las instituciones financieras como cedentes.
-
-Las instituciones financieras sólo pueden otorgar préstamos de instrumentos financieros a otras instituciones financieras.
-
-4.-Condiciones que deberán pactarse en el préstamo de instrumentos financieros.
-
-La institución financiera que adquiera un documento bajo esa modalidad, deberá pactar con el cedente lo siguiente:
-
-a) El instrumento financiero objeto de la operación.
-
-b) La obligación de restituir un instrumento de las mismas características, en cuanto a plazo, emisor, tasa de interés y serie, o bien, la obligación de pagar el precio de mercado que tenga el instrumento cedido en la fecha de vencimiento de la operación.
-
-c) Fecha de restitución o de pago del precio, según corresponda.
-
-d) Comisión por la operación. Deberá además dejarse constancia de la forma en que el cedente obtiene el pago de los flujos que deja de percibir del emisor por haber transferido la propiedad del título, cuando en el lapso de vigencia de la operación exista un pago de cupones del instrumento cedido.
-
-e) Demás derechos u obligaciones que acuerden las partes.
-
-5.- Otras disposiciones.
-
-Las operaciones de préstamos de instrumentos financieros realizadas entre instituciones financieras quedan sujetas a los límites de que tratan los Capítulos 12-3 y 12-7 de esta Recopilación.
-
-Las obligaciones por los préstamos de instrumentos que no correspondan a documentos emitidos por el Banco Central de Chile, quedan sujetas al encaje que rige para los depósitos. Dichas obligaciones, cualesquiera sean los documentos transferidos que originen la obligación, no quedan afectos a reserva técnica.
+Las autorizaciones previas de esta Superintendencia a que se refiere la letra d) del numeral 1.2, como asimismo la información sobre créditos cedidos de que trata el N° 2, no se aplicará en el caso de las cesiones de créditos que sólo correspondan a una subrogación voluntaria efectuada por el acreedor a un tercero que lo paga.
 
 ### V. OPERACIONES POR CUENTA DE TERCEROS
 
@@ -2573,16 +2467,6 @@ Las instituciones financieras pueden encargarse de la emisión y colocación de 
 El N° 20 del artículo 69 de la Ley General de Bancos permite garantizar la colocación de valores mobiliarios de renta fija solamente si la institución emisora se ajusta a los márgenes de crédito de que trata el artículo 84 de la Ley General de Bancos, para cuyo efecto debe computarse el total de la emisión por colocar junto con los créditos que tuviere el emisor y los demás obligados al pago.
 
 Por otra parte, el N° 25 del mencionado artículo 69 permite garantizar la colocación de acciones de sociedades anónimas abiertas, debiendo computarse para los límites de crédito del artículo 84 los importes garantizados y las acciones adquiridas, y ajustarse a los límites especiales que se establecen en la ley para estas operaciones, señalados en el Capítulo 10-2 de esta Recopilación Actualizada de Normas.
-
-### 6. Instrucciones contables
-
-6.1. Comisiones.
-
-Las comisiones que perciban las instituciones financieras por las operaciones de que trata este título, serán registradas en la cuenta "Comisiones ganadas por intermediación", de la partida 7525.
-
-6.2.- Garantías de operaciones.
-
-Los importes garantizados de las operaciones de "underwriting" de instrumentos de renta fija se registrarán, mientras no se haga efectiva tal garantía, en la cuenta "Garantía por colocación de instrumentos de renta fija" de la partida 9291.
 
 ANEXO N° 1
 
@@ -4357,144 +4241,6 @@ Las "Cuentas a la Vista" utilizadas para operar tarjetas de débito, quedan suje
 Como es natural, a las cuentas de que trata este título les son aplicables todas las instrucciones generales que afectan a depósitos y captaciones, tales como las relativas al encaje, reserva técnica, prohibición de ofrecer otros beneficios apreciables en dinero a los titulares, distintos al pago de intereses en los casos que corresponda, etc.
 
 Por las razones expresadas en el Capítulo 2-4 de esta Recopilación para las cuentas de ahorro, también resulta aplicable para las "Cuentas a la vista" la recomendación de esta Superintendencia en orden a abstenerse de recibir su saldo en garantía, la que, en todo caso, no es válida para los efectos de los límites de crédito del artículo 84 de la Ley General de Bancos.
-
-CAPITULO 2-7 (Bancos y Financieras)
-
-MATERIA:
-
-DEPOSITOS A PLAZO.
-
-### 1. Consideraciones generales
-
-Quedan comprendidos dentro del concepto de depósitos a plazo de que trata este Capítulo, todos aquellos depósitos de dinero pagaderos por la institución financiera depositaría en los plazos convenidos con los inversionistas, sea que ellos se documenten con certificados de depósito, pagarés o letras de cambio. Si bien al tratarse de operaciones pactadas a más de un año plazo se habla de "captaciones" para referirse a estas operaciones cuando no estén documentadas con certificados de depósito, ello es sólo con el objeto de mantener la concordancia con las normas del Banco Central de Chile relativas al encaje.
-
-En todo caso, se exceptúan de las instrucciones contenidas en el presente Capítulo las captaciones de fondos del público que no corresponden al concepto de depósitos a plazo antes señalado o que se rigen por normas especiales, tales como las cuentas de ahorro a plazo, las captaciones efectuadas mediante ventas con pacto de retrocompra de documentos de la cartera de inversiones, o mediante la emisión de instrumentos de oferta pública inscritos en el Registro de Valores de esta Superintendencia.
-
-Debe tenerse presente, además, que las instrucciones del presente Capítulo se refieren sólo a materias específicas, propias del tipo de operaciones de captación de fondos de que se trata. Por consiguiente, tanto los plazos como las demás condiciones que se pacten o se ofrezcan para los depósitos a plazo, deben ajustarse a las disposiciones generales sobre captaciones e intermediación contenidas en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y a las demás normas que afectan a estas operaciones.
-
-### 2. Tipos de depósitos a plazo
-
-Dependiendo de la forma en que se establezca el derecho a pedir la restitución del depósito con sus correspondientes intereses y reajustes, en su caso, los depósitos a plazo pueden clasificarse en: depósitos a plazo fijo; depósitos a plazo renovable; y, depósitos a plazo indefinido.
-
-En los depósitos a plazo fijo la institución depositaría se obliga a pagar en un día prefijado, debiéndose devengar los reajustes e intereses sólo hasta esa fecha. De acuerdo con las normas generales sobre captaciones, relativas a plazos mínimos para el pago de intereses y reajustes, el plazo que se pacte no puede ser inferior a 30 días para depósitos no reajustables o a 90 días para depósitos reajustables.
-
-Los depósitos a plazo renovable, por su parte, contemplan condiciones similares a los depósitos a plazo fijo, pero con la posibilidad de prorrogar automáticamente el depósito por un nuevo período, de la misma cantidad de días, en caso de que el depositante no retire el dinero. Por consiguiente, en el o los períodos siguientes se seguirán devengando, sobre el nuevo capital, los intereses y reajustes correspondientes a cada período.
-
-Por último, en los depósitos a plazo indefinido no se pacta al momento de constituirlos, una fecha o plazo determinados de vencimiento, sino que la institución depositaría se obliga a la restitución en un plazo prefijado a contar de la vista o aviso de su cliente, de manera que se pagan los intereses y reajustes devengados desde la fecha en que se entera el depósito hasta que se cumpla la fecha avisada para su retiro. En el evento de que se contrate este tipo de depósito, el período que queda sujeto a las normas generales sobre plazos mínimos es aquel que se establezca entre la fecha de la vista o aviso del depositante y la fecha de pago, es decir, ese lapso no puede ser inferior a 30 días para depósitos no reajustables y de 90 días para depósitos reajustables.
-
-Conviene agregar que, independientemente de los inconvenientes de índole financiera y de control, no existe impedimento legal para pactar una forma mixta, vale decir, que un depósito a plazo fijo se transforme en uno de plazo indefinido si éste no se cobra en la época fijada, sin perjuicio del cumplimiento de las normas generales sobre plazos mínimos para operaciones no reajustables y reajustables.
-
-### 3. Retiros anticipados
-
-Los titulares de depósitos a plazo no podrán retirarlos antes del vencimiento pactado. Con todo, las instituciones financieras podrán autorizar su retiro anticipado siempre que el titular lo solicite con una anticipación de a lo menos 5 días hábiles bancarios respecto de la fecha de retiro y siempre que renuncie en forma expresa y por escrito a los intereses, cuando la operación sea no reajustable, y a los reajustes, cuando se trate de operaciones reajustables. En el último caso, sólo se pagarán los intereses hasta la fecha del retiro siempre que el depósito hubiere cumplido un período inicial de no menos de 30 días.
-
-De cualquier modo, será enteramente facultativo para la institución financiera acceder al retiro anticipado o denegarlo.
-
-### 4. Renovaciones automáticas
-
-La renovación automática de los depósitos que contemplen esa modalidad, sólo podrá hacerse efectiva una vez que hayan transcurrido tres días hábiles bancarios contados desde su vencimiento. Sin embargo, para los efectos de computar los nuevos plazos se considerará como fecha de renovación, la misma del vencimiento. Dicho en otras palabras, el titular de un depósito o de un documento pactado con renovación automática, dispondrá para rescatarlo de tres días hábiles bancarios, incluido el día del vencimiento y si no lo hiciere, al cuarto día hábil bancario se cursará la renovación automática en los términos señalados anteriormente, esto es, desde la fecha de su vencimiento y por idéntico plazo al primitivamente pactado.
-
-Estos depósitos a plazo con renovación automática, se seguirán considerando vigentes como tales, hasta su efectivo retiro dentro de los tres días en que está facultado el titular para rescatarlos.
-
-Las renovaciones automáticas se tratarán como nuevas operaciones originadas en la fecha de vencimiento de la respectiva captación, para los efectos de los plazos mínimos de que trata el N° 1 del título II del Capítulo 2-1 de esta Recopilación para la aplicación del encaje que corresponda sobre la base del período de renovación, como también, para los retiros anticipados de que trata el N° 3 precedente.
-
-Cada vez que las instituciones financieras efectúen la renovación automática de un depósito, deberán enviar un aviso por carta o por correo electrónico, según lo prefiera el depositante, informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
-
-5. Retención de depósitos a plazo por orden judicial o por fallecimiento del titular.
-
-Las instituciones financieras deben tener presente que los depósitos a plazo fijo sobre los cuales se haya decretado una retención judicial, pueden ser renovados a su vencimiento por el titular, ya que la retención judicial no les priva del dominio sobre el bien sino sólo limita su facultad de disposición, al no poder cobrarlo para sí, ni desprenderse de él en favor de otra persona.
-
-Del mismo modo, los depósitos que pasan a una sucesión por fallecimiento del titular pueden ser objeto de renovación durante el período que transcurra entre la concesión de la posesión efectiva de la herencia y hasta que se entere el impuesto de herencia o se declare exenta de ella, ya que nada impide que los herederos tomen las medidas conservativas necesarias para no resultar perjudicados.
-
-En todo caso, tratándose de depósitos a plazo renovables la renovación periódica operará en forma automática de acuerdo con la respectiva cláusula del contrato.
-
-### 6. Instrucciones contables
-
-6.1. Contabilización de los depósitos a plazo.
-
-Los depósitos a plazo se registrarán en las siguientes cuentas o subcuentas de las partidas que se señalan en este numeral.
-
-En el caso de depósitos en que se pacten retiros parciales de capital dentro del año y a más de un año, la cuenta que corresponde utilizar se determinará según el plazo promedio ponderado del capital de la operación:
-
-a) Depósitos de 30 días a un año plazo.
-
-Partida: 3020 "Depósitos y captaciones a plazo de 30 a 89 días".
-
-Cuenta: - "Depósitos y captaciones a plazo de 30 a 89 días".
-
-Subcuentas: - "Del público".
-
-- "De instituciones financieras".
-
-Partida: 3025 "Depósitos y captaciones a plazo de 90 días a un año".
-
-Cuenta: - "Depósitos y captaciones a plazo de 90 días a un año".
-
-Subcuentas: - "Del público".
-
-- "De instituciones financieras".
-
-Las subcuentas "De instituciones financieras" de cada cuenta, se utilizarán cuando se trate de depósitos a plazo a favor de otros bancos o sociedades financieras establecidos en el país, en tanto que las subcuentas "Del público" se utilizarán para el resto de los depósitos, sin perjuicio de lo señalado en la letra c) de este numeral.
-
-b) Depósitos a más de un año plazo.
-
-Partida: 3065 "Depósitos y captaciones".
-
-Cuentas: -"Captaciones a más de un año exentas de encaje".
-
--"Captaciones a más de un año con retiros dentro del año".
-
--"Depósitos y captaciones a más de un año afectos a encaje".
-
-En concordancia con las normas de encaje del Banco Central de Chile, la cuenta "Captaciones a más de un año con retiros dentro del año" será utilizada por los bancos y sociedades financieras para registrar aquellas operaciones en las cuales se pacte algún giro dentro del año, aunque se trate sólo del retiro de intereses.
-
-Por otra parte, en la cuenta "Depósitos y captaciones a más de un año afectos a encaje" se reflejarán, en la moneda que corresponda, los saldos de las operaciones en moneda extranjera en general, y de aquellas operaciones en moneda chilena que se documenten con certificados de depósito.
-
-Asimismo, serán registrados en la forma indicada en este literal, los depósitos en moneda extranjera recibidos de bancos y corresponsales del exterior, documentados mediante la emisión en serie de certificados o pagarés negociables solamente fuera del país, a que se refiere el N° 4 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
-
-6.2. Intereses y reajustes.
-
-Los intereses y reajustes que se paguen por las operaciones registradas en las cuentas señaladas en el numeral 6.1 precedente, se contabilizarán de acuerdo con las normas generales sobre la materia, contenidas en el Capítulo 7-1 de esta Recopilación.
-
-Las respectivas cuentas de resultado por los intereses pagados o devengados, se incluirán en las siguientes partidas, según su plazo y reajustabilidad:
-
-a) Partida 5110 "Depósitos y captaciones a plazo de 30 a 89 días";
-
-b) Partida 5115 "Depósitos y captaciones a plazo de 90 días a un año reajustables";
-
-c) Partida 5120 "Depósitos y captaciones a plazo de 90 días a un año no reajustables";
-
-d) Partida 5125 "Depósitos y captaciones a plazo a más de un año reajustables"; o,
-
-e) Partida 5130 "Depósitos y captaciones a plazo a más de un año no reajustables".
-
-Por su parte, las cuentas de resultado por los reajustes se incluirán en las partidas 5305 ó 5310, según se trate de operaciones reajustables pactadas hasta un año (registradas en las partidas 3020 y 3025) o a más de un año (registradas en la partida 3065), respectivamente.
-
-6.3. Depósitos y captaciones vencidas.
-
-Los depósitos y captaciones a plazo fijo que no sean cobrados en la fecha de vencimiento, devengarán intereses y reajustes sólo hasta dicha fecha y serán traspasados, el mismo día de su vencimiento, a la cuenta "Depósitos y captaciones vencidos" de la partida 3010, incluyendo sus intereses y, cuando corresponda, los reajustes devengados. Esta cuenta se dividirá en las subcuentas "Del público" y "De instituciones financieras", con un criterio similar al indicado en la letra a) del numeral 6.1. anterior.
-
-Cuando se trate de depósitos a plazo renovables que hayan cumplido el período pactado para su renovación automática, las instituciones financieras los mantendrán registrados en su cuenta de origen, salvo que sean cobrados por el titular, incorporando en cada renovación los intereses capitalizados en el período.
-
-7.- Emisión desmaterializada de certificados o pagarés de depósitos a plazo.
-
-Las instituciones financieras que acuerden con una empresa de depósito y custodia de valores no emitir físicamente los certificados o pagarés de depósitos a plazo de los clientes que hayan aceptado tal procedimiento, deberán llevar un registro en que se individualice cada uno de los depósitos en que se utilice ese sistema. Dicho registro contendrá al menos los siguientes datos:
-
-- **a)** número del documento que se ingresa desmaterializadamente a la empresa de depósito y custodia de valores;
-
-- **b)** nombre completo o razón social del depositante, esto es, del titular original del instrumento a la orden;
-
-- **c)** número de RUT y domicilio del mismo;
-
-- **d)** fecha de emisión;
-
-- **e)** capital, expresado en la moneda o en la unidad de reajustabilidad que corresponda;
-
-- **f)** tasa de interés; y,
-
-- **g)** fecha de vencimiento.
-
-En el caso de materialización posterior de un depósito a plazo, se procederá según lo convenido con la empresa de depósito y custodia de valores, de acuerdo con la reglamentación que le rige para el efecto, debiendo quedar también constancia de tal acto en el registro antes mencionado.
 
 CAPITULO 2-8 (Bancos y Financieras)
 
@@ -6946,9 +6692,9 @@ Esta unidad empezó a regir el 9 de abril de 1986, fecha en que se le dio un val
 
 De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, el valor del Indice Valor Promedio continúa reajustándose a partir del día diez de cada mes y hasta el día nueve del mes siguiente, de acuerdo al factor diario determinado como se indica en el Anexo N° 2 de este Capítulo.
 
-c) Tipo de cambio del dolar de los Estados Unidos de América.
+c) Valor de los tipos de cambio de monedas extranjeras determinados por el Banco Central de Chile.
 
-El Banco Central de Chile determina diariamente el valor del tipo de cambio del dólar de los Estados Unidos de América, sobre la base de las transacciones realizadas en el día hábil bancario inmediatamente anterior al de su publicación y vigencia.
+Corresponde a los valores publicados por el Banco Central de Chile conforme al inciso 2° del artículo 44 de su Ley Orgánica Constitucional, de los tipos de cambio de monedas extranjeras de general aceptación en los mercados de cambios internacionales.
 
 Además de los sistemas señalados en los literales precedentes, conforme a lo indicado en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden aplicar el sistema de reajustabilidad previsto en el artículo 20 de la Ley N° 18.010, esto es, pactar operaciones expresadas en moneda extranjera, pagaderas por su equivalente en moneda chilena, según el tipo de Cambio vendedor al día del pago.
 
@@ -6958,17 +6704,13 @@ Por otra parte, debe entenderse que las normas generales en materia de reajustes
 
 2.2.2.- Operaciones pagaderas en moneda extranjera.
 
-Las operaciones pagaderas en moneda extranjera no pueden indexarse a otras monedas o unidades de valor, con excepción de aquellas operaciones de financiamiento externo reguladas en el Capítulo XIII del Compendio de Normas de Cambios Internacionales que se señalan a continuación:
-
-a) Los bonos emitidos para ser colocados en el exterior, podrán expresarse en pesos o en Unidades de Fomento.
-
-b) Los créditos obtenidos en el exterior podrán pactarse en las unidades de cuenta que se indican en el Capítulo XIII antes mencionado.
+Las operaciones pagaderas en moneda extranjera no pueden indexarse a otras monedas o unidades de valor, con excepción de aquellas operaciones reguladas en el Capítulo XIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
 2.3- Publicación de valores de los sistemas de reajustabilidad.
 
 El Banco Central de Chile publicará en el Diario Oficial, a más tardar el día 9 de cada mes, los valores diarios que la Unidad de Fomento y el Indice Valor Promedio tendrán durante el período comprendido entre el día 10 del mismo mes y el día 9 del mes siguiente.
 
-Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el tipo de cambio del dólar de los Estados Unidos de América señalado en la letra c) del numeral 2.2.1 anterior.
+Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el tipo de cambio de las monedas extranjeras a que se refiere la letra c) del numeral 2.2.1 anterior.
 
 3.- Cálculo de interés y reajustes.
 
@@ -7018,11 +6760,11 @@ Por otra parte, debe tenerse en cuenta que el artículo transitorio de la Ley N�
 
 Para pactar tasas de interés variables, las instituciones financieras deberán ceñirse a lo siguiente.
 
-a) La tasa de interés variable que se convenga no podrá tener como alternativa una tasa fija que pueda aplicarse a elección del acreedor o al cumplirse cualquier condición relacionada con la variabilidad de aquella. Por lo tanto, con excepción de las operaciones con letras de crédito con tasa flotante a que se refiere el Capítulo 9-1 de esta Recopilación, solo se admitirá la estipulación de una tasa fija alternativa o supletoria cuando tenga por objeto cubrir el evento de que no exista en el futuro el elemento que determine la tasa variable o que se produzca la circunstancia de que el deudor impugne o rechace su aplicación.
+a) Al tratarse de créditos en moneda extranjera otorgados a personas naturales o jurídicas domiciliadas y residentes en Chile, las tasas deberán estar referidas a la tasa Libo, Prime u otra ampliamente conocida y utilizada en los mercados financieros internacionales.
 
-b) Las instituciones financieras deberán cuidar que el título en contra del deudor reuna las condiciones de un título ejecutivo, en especial la indicada en el N° 3 del artículo 438 del Código de Procedimiento Civil.
+b) Las instituciones financieras deberán cuidar que el título en contra del deudor reúna las condiciones de un título ejecutivo, en especial la indicada en el N° 3 del artículo 438 del Código de Procedimiento Civil.
 
-c) Al tratarse de operaciones pagaderas en moneda extranjera que correspondan a créditos otorgados a personas naturales o jurídicas domiciliadas y residentes en Chile, o bien de depósitos y captaciones, sólo podrá pactarse una tasa libo o prime.
+c) En las operaciones efectuadas en el país con personas distintas a otras instituciones financieras, las tasas de interés variable que se convengan no podrán tener una tasa alternativa que pueda ser aplicada a elección del banco, sea que se trate de colocaciones o captaciones.
 
 5.2.- Servicio pactado mediante cuotas por montos preestablecidos.
 
@@ -7160,15 +6902,7 @@ Será requisito para otorgar un crédito que contemple además la venta de cualq
 
 Para el cálculo de intereses de documentos descontados, es improcedente el cargo de días adicionales al vencimiento, aún tratándose de documentos descontados pagaderos fuera de la plaza asiento de la institución descontante y cuya cobranza tenga que encomendarse a otra empresa, toda vez que la demora que esto supone para que la primera pueda disponer efectivamente de su valor, no es imputable, de ninguna manera, al beneficiario del descuento.
 
-9.- Diferencia entre las operaciones reajustables por el dólar de los Estados Unidos de América y las operaciones expresadas en moneda extranjera, pagaderas en moneda nacional.
-
-A fin de prever eventuales confusiones por la similitud financiera entre las operaciones en moneda nacional reajustables por el valor del dólar de los Estados Unidos de América y las operaciones expresadas en dólares y pagaderas en pesos que las instituciones financieras pueden realizar, conviene mencionar las diferencias que existen entre ambas, de acuerdo con las normas vigentes;
-
-Las obligaciones en moneda nacional reajustables por el valor del dólar deben pagarse reajustadas utilizando como unidad referencial de reajuste el tipo de cambio informado por el Banco Central de Chile. El interés máximo convencional aplicable a estas operaciones es el que corresponde a los créditos reajustables en general.
-
-En cambio, las obligaciones expresadas en moneda extranjera deben solucionarse por su equivalente en moneda chilena al tipo de cambio vendedor del día de pago, según lo dispuesto en el artículo 20 de la Ley N° 18.010. El interés máximo convencional aplicable en este caso, es el correspondiente a los créditos en dólares de EE.UU. de América o expresados en moneda extranjera.
-
-Cabe agregar también que el artículo 24 de la Ley 18.010 deja expresamente establecido que en esas obligaciones expresadas en moneda extranjera, pagaderas en pesos, no puede pactarse otra forma de reajuste que la que llevan implícita.
+### 9. Suprimido
 
 10.- Información al público.
 
@@ -8556,8 +8290,6 @@ Los sobregiros en una cuenta corriente bancaria corresponden a todos aquellos gi
 
 Estos sobregiros pueden obedecer a una modalidad de crédito previamente acordada con el titular de la cuenta corriente, o bien, pueden originarse por una contingencia o una operación especial, sin que al comitente le asista un derecho contractual para sobregirar la cuenta.
 
-De acuerdo lo dispuesto en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, cuando se trate de cuentas corrientes en moneda extranjera sólo pueden conceder sobregiros aquellos bancos cuyos Directorios, o agentes en el caso de sucursales de bancos extranjeros, hayan establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
-
 2.- Sobregiro sin pacto previo.
 
 De acuerdo con lo dispuesto por el Banco Central de Chile en el Capítulo III.G.3. del Compendio de Normas Financieras, los bancos están facultados para conceder sobregiros en cuentas corrientes sin que medie un pacto previo.
@@ -8886,7 +8618,7 @@ Los préstamos que otorguen las instituciones financieras bajo esta modalidad, n
 
 En caso de operaciones de compraventa de bienes raíces, dichos préstamos no deberán exceder del mencionado importe o del 80% del precio de venta del respectivo inmueble, si este último precio fuere inferior al valor de tasación.
 
-No obstante lo anterior, cuando se trate de los créditos pagaderos en moneda extranjera, expresados en moneda extranjera pagaderos en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, mencionados en el N°5 de este título, los préstamos no podrán exceder del 65% del valor de tasación del inmueble ni del precio de compraventa.
+No obstante lo anterior, cuando se trate de los créditos pagaderos en moneda extranjera, expresados en moneda extranjera pagaderos en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio de una moneda extranjera, los préstamos no podrán exceder del 65% del valor de tasación del inmueble ni del precio de compraventa.
 
 3.- Garantía hipotecaria.
 
@@ -8896,11 +8628,9 @@ La hipoteca a favor del acreedor, que garantice estos créditos, deberá ser de 
 
 El valor de tasación del inmueble que servirá de garantía será determinado por un perito designado por la institución financiera. En la tasación del inmueble que debe practicarse, sólo se comprenderá el valor de las mejoras permanentes adheridas a éste, cuyo concepto se encuentra definido en las normas generales de derecho. Atendida la importancia de efectuar una tasación que refleje el valor real de la propiedad que se recibirá en garantía, de manera que constituya un resguardo efectivo para el acreedor, la institución deberá cuidar que, en el procedimiento de valuación que se adopte, se consideren y ponderen correctamente todos los factores que incidan en el valor que se le asigne al bien raíz.
 
-5.- Moneda, reajustes y tasa de interés.
+5.- Tasa de interés.
 
-Los créditos deberán otorgarse en moneda chilena, pudiendo expresarse en unidades de fomento o en índice valor promedio para efectos de su reajustabilidad. No obstante, las empresas bancarias podrán también otorgar créditos en moneda extranjera, o en pesos indexados a una moneda extranjera en cualquiera de las modalidades indicadas en el N° 3 del Capítulo III.B.1 del Compendio de Normas Financieras, siempre que el Directorio del banco acreedor, o su agente en el caso de una sucursal de un banco extranjero, haya establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
-
-La tasa de interés que se acuerde puede ser fija o flotante. La tasa de interés variable debe tener por base la tasa TIP, pactada siguiendo las mismas reglas establecidas para los préstamos en letras de crédito, señaladas en la letra c) del numeral 1.1 del título I del Capítulo 9-1 de esta Recopilación. No obstante, al tratarse de créditos otorgados y pagaderos en moneda extranjera, expresados en moneda extranjera y pagaderos en moneda chilena o bien en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, la tasa de interés flotante debe tener por base la tasa Prime o Libo.
+La tasa de interés que se acuerde puede ser fija o flotante. La tasa de interés variable debe tener por base la tasa TIP, pactada siguiendo las mismas reglas establecidas para los préstamos en letras de crédito, señaladas en la letra c) del numeral 1.1 del título I del Capítulo 9-1 de esta Recopilación. No obstante, al tratarse de créditos otorgados y pagaderos en moneda extranjera, expresados en moneda extranjera y pagaderos en moneda chilena o bien en pesos moneda chilena reajustables por la variación del tipo de cambio de una moneda extranjera, la tasa de interés flotante debe tener por base la tasa Prime, Libo u otra ampliamente reconocida y utilizada en los mercados financieros internacionales.
 
 Las instituciones financieras no podrán recargar la tasa de interés pactada en estas operaciones con comisiones, gastos u otras prestaciones, salvo los conceptos a que se refiere el N° 10 siguiente.
 
@@ -9983,226 +9713,6 @@ d) Fecha de vencimiento del dividendo.
 e) Tipos de seguros contratados, nombres de las compañías aseguradoras y números de las pólizas.
 
 En el caso que el monto insoluto del crédito sea servido mediante dividendos afectos a una reprogramación, se recomienda a las instituciones acreedoras enviar a los respectivos deudores, conjuntamente con el primer aviso de vencimiento que se despache conforme a estas instrucciones, una nota explicativa en que se informe que el saldo de la deuda reprogramada que se indica en él, se irá incrementando mensualmente por la parte de cada dividendo pagado que, en virtud de la reprogramación a que esté acogido el crédito, se prorrogue para ser pagado, más los correspondientes intereses, una vez extinguido el préstamo original.
-
-CAPITULO 8-19 (Bancos y Financieras)
-
-MATERIA:
-
-OPERACIONES CON DOCUMENTOS DE LA CARTERA DE COLOCACIONES.
-
-### I. CONSIDERACIONES GENERALES
-
-El presente Capítulo contiene las instrucciones relativas a las adquisiciones o descuentos de documentos de la cartera de colocaciones y a las ventas o cesiones de los mismos, sin perjuicio de las instrucciones generales relativas a las operaciones con títulos de crédito que se señalan en el Capítulo 2-1 de esta Recopilación Actualizada de Normas y que alcanzan tanto a los documentos correspondientes a inversiones como a los de la cartera de colocaciones a que se refiere este Capítulo.
-
-La distinción entre instrumentos de la cartera de inversiones y documentos correspondientes a colocaciones de que trata este Capítulo, debe basarse en las definiciones establecidas en el N° 1 del Capítulo 8-21 de esta Recopilación de Normas.
-
-Por otra parte, para los efectos de las presentes instrucciones y en concordancia con las normas generales de intermediación, se entiende que se efectúa una operación con el público cuando se realiza con una persona diferente de un banco o sociedad financiera establecido en el país.
-
-### II. ADQUISICION DE EFECTOS DE COMERCIO
-
-### 1. Efectos de comercio adquiridos o descontados
-
-En virtud de las disposiciones legales antes señaladas, las instituciones financieras pueden adquirir del público o de otras instituciones financieras, letras de cambio, pagarés u otros documentos representativos de obligaciones de pago.
-
-Las presentes normas alcanzan a cualquier operación mediante la cual la institución financiera adquiere para sí un efecto de comercio. En ese sentido, no corresponde hacer una distinción entre documentos comprados o descontados; lo que importa, para el solo efecto del cómputo de los créditos, es si el vendedor o descontante queda o no como deudor de la institución adquirente del documento, es decir, si asume o no responsabilidad en el pago.
-
-2. Cumplimiento de las normas generales sobre adquisiciones de títulos de crédito.
-
-Las adquisiciones de efectos de comercio deben ajustarse a las instrucciones del N° 2 del título II del Capítulo 2-1 de esta Recopilación, cuando se trate de instrumentos adquiridos del público que hayan sido emitidos o endosados por alguna institución financiera. Se aplicarán también a las compras de efectos de comercio, en lo que corresponda, las reglas que para la venta de títulos de crédito se indican en ese título n del Capítulo 2-1.
-
-### III. VENTAS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES
-
-### 1. Cumplimiento de las normas generales de intermediación
-
-Las ventas o cesiones de créditos de la cartera de colocaciones a otras instituciones financieras o al público, cuando corresponda, deben sujetarse a las condiciones generales establecidas en el Capítulo 2-1 de esta Recopilación.
-
-### 2. Documentos de la cartera de colocaciones que pueden cederse al público
-
-Las instituciones financieras sólo podrán vender o ceder a personas diferentes a bancos o sociedades financieras establecidos en el país, los siguientes créditos de su cartera de colocaciones:
-
-a) Mutuos Hipotecarios endosables de que trata el N° 7 del artículo 69 de la Ley General de Bancos, cedidos a las entidades reguladas por leyes especiales en las condiciones que se señalan en el citado precepto legal y en el Capítulo 8-4 de esta Recopilación.
-
-b) Documentos susceptibles de ser securitizados, vendidos a sociedades securitizadoras o a fondos de inversión de créditos securitizados, de acuerdo con lo previsto en el Capítulo III.B.4 del Compendio de Normas Financieras del Banco Central de Chile y en el Capítulo 8-40 de esta Recopilación.
-
-c) Créditos en moneda extranjera cuyos deudores sean residentes y domiciliados en Chile, que se vendan en forma definitiva a empresas bancarias del exterior y sean pagados de contado.
-
-d) Créditos cuyos deudores estén situados en el exterior, que sean cedidos a bancos u otras personas no residentes ni domiciliados en Chile.
-
-Las ventas o cesiones que no se encuadren en lo indicado en los literales precedentes; que se efectúen a personas distintas de otras instituciones financieras establecidas en Chile, deben ajustarse a lo indicado en el N° 4 de este título.
-
-### 3. Ventas de efectos de comercio a otras instituciones financieras
-
-En general, las instituciones financieras pueden vender o ceder a otra institución financiera cualquier documento de su cartera de colocaciones, sea que se trate de títulos adquiridos de terceros o provenientes de créditos otorgados por la propia institución, con las excepciones o condiciones que se señalan en los numerales siguientes:
-
-3.1. Prohibición de ceder préstamos hipotecarios en letras de crédito.
-
-Por regla general, las instituciones financieras no pueden ceder préstamos hipotecarios en letras de crédito.
-
-Conforme a lo dispuesto en el artículo 125 de la Ley General de Bancos, estos créditos pueden cederse como parte de las medidas para regularizar la situación de la institución cedente, debiendo transferirse la cartera de créditos como una universalidad y el adquirente asumir la obligación correspondiente al servicio de las respectivas letras de crédito en circulación.
-
-3.2. Cesión de Mutuos Hipotecarios Endosables.
-
-Las transferencias de "Mutuos Hipotecarios Endosables" deberán cumplir con los requisitos establecidos en el Capítulo 8-4 de esta Recopilación.
-
-3.3. Conformidad del Banco Central de Chile para transferir créditos financiados con líneas de crédito.
-
-Las instituciones financieras deben tener presente la obligación de solicitar la conformidad previa del Banco Central de Chile para ceder créditos financiados con líneas de crédito del Instituto Emisor o créditos renegociados de conformidad con lo dispuesto en los acuerdos de sesiones N° 1.507 y 1.578, del ex-Comité Ejecutivo de ese Banco.
-
-4. Venta o cesión de activos sujetos a la autorización previa de esta Superintendencia.
-
-En la letra d) del N° 5 del Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile se establece que la transferencia de otros activos de la cartera distintos a los indicados o a otras instituciones facultadas para otorgar créditos, sólo podrá efectuarse con la autorización previa de esta Superintendencia.
-
-Dicha disposición debe entenderse en relación con:
-
-- **a)** operaciones especiales, ajenas a las transacciones normales de las instituciones financieras, tales como reestructuraciones o liquidaciones de activos inherentes al saneamiento financiero, fusión o liquidación de una institución;
-
-- **b)** venta de cartera vencida o castigada; o,
-
-- **c)** consolidación de obligaciones, por solicitud del deudor, en alguna institución de crédito diferente a un banco o sociedad financiera establecida en el país.
-
-No quedan sujetas a las normas precedentes las cesiones de créditos que correspondan a una subrogación voluntaria efectuada por el acreedor a un tercero que lo paga.
-
-La respectiva autorización se solicitará por escrito a esta Superintendencia, acompañando todos los antecedentes para el efecto. Las instituciones financieras deberán obtener el consentimiento del deudor para concretar la transferencia, salvo que en la respectiva autorización se permita proceder de otra forma por tratarse de casos calificados.
-
-No obstante, las instituciones financieras quedan desde ya facultadas para transferir créditos de su cartera vencida o castigada, prescindiendo de la autorización previa de este Organismo y del consentimiento del deudor, siempre que el cesionario sea una persona natural o jurídica no relacionada con la institución cedente. Tratándose de personas relacionadas, la cesión de cartera vencida o castigada requerirá la autorización de esta Superintendencia.
-
-IV.- PROCEDIMIENTOS PARA LA TRANSFERENCIA ENTRE INSTITUCIONES O VENTA A TERCEROS DE DOCUMENTOS DE LA CARTERA DE COLOCACIONES.
-
-1.- Envío a esta Superintendencia de los antecedentes acerca de las transacciones realizadas.
-
-Las instituciones financieras que participen en las transacciones de que trata este título, deberán remitir a esta Superintendencia, dentro de los primeros diez días de los meses de abril, julio, octubre y enero, los siguientes antecedentes relativos a las operaciones realizadas en el trimestre inmediatamente anterior:
-
-a) Identificación de los deudores de los documentos objeto de la transacción y valor económico o comercial de éstos.
-
-b) Provisiones que se liberen por los créditos que se enajenen y provisiones que corresponde constituir por los créditos que se reciben, según sea el caso.
-
-c) Clasificación de riesgo asignada a los créditos por la institución vendedora y por aquella que los adquiere, según corresponda.
-
-### 2. Aviso a deudores
-
-La institución cedente y la cesionaria o ambas en conjunto, enviarán un aviso a los deudores de los créditos que se transfieran, informándoles de la transferencia y el lugar u oficina de la entidad adquirente, en la que el crédito debe ser pagado.
-
-### 3. Cobranza de los créditos traspasados
-
-Cuando el crédito sea pagadero en una plaza distinta de la que corresponda a la institución que lo recibió, la institución adquirente deberá procurar que el deudor pueda continuar sirviéndolo en la misma plaza, sea en las oficinas de la propia institución o, en su defecto, en las de alguna institución corresponsal que deberá ser señalada para el efecto.
-
-Queda, en todo caso, a criterio de las entidades involucradas en estos traspasos, determinar los medios y modalidades que estimen más adecuados y eficientes para facilitar a los deudores el normal cumplimiento de sus obligaciones.
-
-4.- Venta a terceros.
-
-Las normas de los números precedentes se aplicarán también, en lo que toca a las instrucciones que debe cumplir el cedente, cuando se trate de venta de cartera de colocaciones a personas naturales o jurídicas diferentes a una institución financieras establecida en el país.
-
-V.- INSTRUCCIONES CONTABLES.
-
-1.- Compra de efectos de comercio.
-
-1.1.- Tratamiento general.
-
-Los créditos correspondientes a los efectos de comercio adquiridos se ingresarán al activo por su valor de adquisición, debiendo incluirse en la partida de colocaciones que corresponda, según el tipo de crédito de que se trate.
-
-Para efectos de clasificación de cartera e información de deudores, los efectos de comercio adquiridos con responsabilidad del cedente siempre serán considerados créditos comerciales. Aquellos adquiridos sin responsabilidad, corresponderán a créditos comerciales, hipotecarios para vivienda o de consumo, según las características del crédito otorgado al deudor directo.
-
-Los reajustes sobre las operaciones, cuando proceda, serán devengados de acuerdo con el sistema de reajustabilidad que contemple el respectivo documento, en tanto que los intereses serán devengados según la tasa de compra, esto es, la tasa implícita que hace equivalente el precio pagado con el valor actual de los flujos que originará el documento adquirido. Los reajustes e intereses se registrarán en el activo en cuentas complementarias, en la forma prevista en el título II del Capítulo 7-1 de esta Recopilación.
-
-1.2.- Utilización de cuentas especiales de colocaciones.
-
-Sin perjuicio de las instrucciones generales indicadas en el numeral 1.1 precedente, en los siguientes casos se utilizarán cuentas especiales para registrar en el activo los créditos adquiridos:
-
-a) Las operaciones con mutuos hipotecarios endosables deben imputarse a las cuentas previstas en el Capítulo 8-4 de esta Recopilación de Normas.
-
-b) Las adquisiciones o descuentos de documentos en moneda extranjera correspondientes a créditos otorgados a personas residentes en el exterior para financiar operaciones de comercio exterior con Chile, tratados en el Capítulo 13-27 de esta Recopilación, deberán registrarse en las cuentas señaladas en dicho Capítulo.
-
-c) Para las operaciones con cartas de crédito, deben considerarse las cuentas señaladas en el Capítulo 14-9 de esta Recopilación.
-
-2.- Ventas de efectos de comercio.
-
-Debe: - La cuenta que corresponda, por el pago que se recibe.
-
-- "Pérdida por venta de efectos de comercio", de la partida 5605, en caso que el valor obtenido sea menor que el valor contable del crédito registrado en el activo.
-
-Haber: - La cuenta en la que se encuentre registrado el documento que se vende y sus respectivos reajustes e intereses por cobrar.
-
-- "Utilidad por venta de efectos de comercio", de la partida 7605, en caso que el valor percibido sea superior al valor registrado en el activo.
-
-3.- Operaciones con pacto de retrocompra.
-
-En el caso que se efectúe alguna venta con pacto de retrocompra de instrumentos de la cartera de colocaciones, la operación se tratará contablemente como una captación a plazo, debiéndose utilizar para el efecto las cuentas para depósitos a plazo señaladas en el Capítulo 2-7 de esta Recopilación.
-
-La institución que adquiere el documento, por su parte, registrará la operación en forma similar a las adquisiciones de efectos de comercio con responsabilidad, devengando los intereses en función del precio pactado de la venta comprometida. Además, deberá registrar el valor nominal de los documentos adquiridos en la cuenta "Documentos de colocaciones adquiridos con pacto" de la partida 9261.
-
-4.- Tratamientos contables especiales.
-
-No obstante lo señalado en los numerales precedentes, las instituciones financieras deberán aplicar las instrucciones específicas que en cada caso se señalan para las siguientes operaciones:
-
-a) La cartera adquirida a instituciones financieras en liquidación debe registrarse de acuerdo con las instrucciones del Capítulo 8-7 de esta Recopilación.
-
-b) Para el tratamiento contable de la cartera adquirida de la ANAP, las instituciones deben ceñirse a las normas de la Circular N° 2.472-849 de 11 de agosto de 1989, modificada por Circular N° 2.496-867 de 13 de noviembre de 1989, o bien, cuando sea el caso, a las instrucciones específicas que hubiere impartido esta Superintendencia.
-
-c) En la adquisición de créditos a la Corporación de Fomento de la Producción (CORFO) deben considerarse las instrucciones del título VI siguiente.
-
-VI.- CREDITOS ADQUIRIDOS DE CORFO.
-
-Los créditos adquiridos a la Corporación de Fomento de la Producción (CORFO) se registrarán aplicando las instrucciones del Capítulo 8-7. Sin embargo, en el caso de créditos que se adquieran mediante adjudicación en licitación de lotes que comprendan un número importante de operaciones y el precio de adjudicación resulte considerablemente inferior a la suma del valor par de los créditos que conforman el lote adjudicado, podrá aplicarse el siguiente procedimiento.
-
-1.- Contabilización del valor pagado.
-
-El precio que se pague por el conjunto de los créditos que se adquieran en las licitaciones que realice la Corporación de Fomento de la Producción, se registrará, como un solo importe, en la cuenta "Pagos créditos adquiridos de CORFO", de la partida 1205, en tanto que los valores de cada uno de los créditos que conforman la cartera adquirida, se registrarán en cuentas de orden, como se indica en el N° 3 de este titulo.
-
-2.- Reajustes e intereses.
-
-Sobre ese importe registrado en el activo se podrán aplicar reajustes de acuerdo con la variación del valor de la Unidad de Fomento y un interés máximo equivalente a la tasa TIP de captación para operaciones reajustables entre 90 y 365 días, informada por el Banco Central de Chile, más dos puntos porcentuales.
-
-Dichos intereses y reajustes serán registrados en las respectivas cuentas complementarias con abono a las cuentas de resultados "Intereses ganados pagos créditos adquiridos de CORFO" y "Reajustes ganados pagos créditos adquiridos de CORFO", de la partida 7105 y 7305, respectivamente.
-
-El devengo de intereses y reajustes que las instituciones financieras efectúen sobre el valor registrado en el activo, será con prescindencia de las tasas de interés y de los reajustes que pudieran estar pactados en los respectivos préstamos registrados en cuentas de orden.
-
-3.- Registro de los créditos adquiridos.
-
-El valor par de los créditos adquiridos se registrará en la cuenta de orden "Créditos adquiridos de CORFO-vigentes " o "Créditos adquiridos de CORFO vencidos", de la partida 9153, según la situación en que se encuentre cada crédito en relación con lo indicado en el N° 4 del Capítulo 8-26 de esta Recopilación Actualizada de Normas. Dichas cuentas se ajustarán como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito, independientemente de los registros que deban hacerse, cuando corresponda, en las cuentas de activo anteriormente señaladas.
-
-En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones de dicho Capítulo.
-
-4.- Pagos efectuados por los deudores.
-
-Los montos recibidos por el pago de los deudores se imputarán, en primer lugar, a los intereses registrados en la respectiva cuenta complementaria y el saldo, cuando corresponda, se aplicará sobre el capital registrado en la cuenta "Pagos créditos adquiridos a CORFO" y su respectivo reajuste. Una vez extinguido el importe registrado en el activo, dichos pagos serán abonados a la cuenta de ingresos que corresponda de la partida 7910.
-
-5.- Importes vencidos y renegociaciones.
-
-Los importes vencidos de estos créditos, como asimismo las renegociaciones o condonaciones de todo o parte de estas operaciones, no producirán efecto alguno en los saldos del activo, en tanto no afecten su recuperación total, pero sí deberán modificarse en la forma que corresponda, los importes registrados en cuentas de orden.
-
-6.- Clasificación del activo.
-
-Para efectos de clasificación de la cartera, se considerará el monto registrado en el activo, junto con sus respectivos reajustes e intereses por cobrar, como si fuese un solo deudor o crédito. Este monto podrá ser clasificado en categoría "A", salvo que posteriormente se observe un deterioro ostensible en la cobranza que haga presumir que dicho saldo, con sus intereses y reajustes devengados, no alcanzará a ser cubierto con las recuperaciones de los créditos adquiridos dentro de los plazos de pago de éstos.
-
-7.- Limites de crédito.
-
-Los créditos de que se trata, deben ser considerados individualmente, por el importe registrado en cuentas de orden, para los efectos del cumplimiento de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
-
-VII.-CREDITOS RECOMPRADOS AL BANCO CENTRAL DE CHILE.
-
-1.- Registro de los créditos en cuentas de orden.
-
-Los créditos restituidos por el Banco Central de Chile a las instituciones financieras, con motivo de la novación de la obligación de recompra de la cartera cedida al Instituto Emisor, efectuada en el año 1989, se mantendrán registrados en sus respectivas monedas en las cuentas de orden "Créditos recomprados al Banco Central - vigentes" o "Créditos recomprados al Banco Central - vencidos", de la partida 9135. En la segunda cuenta se incluirán aquellos créditos que cumplan las condiciones que obligarían a traspasarlos a cartera vencida si estuviesen registrados en el activo, de acuerdo con lo dispuesto en el Capítulo 8-26 de esta Recopilación.
-
-Las colocaciones registradas en la cuenta "Créditos recomprados al Banco Central - vigentes" incluirán los intereses y reajustes devengados hasta el cierre de cada mes, en tanto que las colocaciones de la cuenta "Créditos recomprados al Banco Central - vencidos" incluirán los intereses y reajustes devengados hasta la fecha de vencimiento.
-
-En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese registrado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones de dicho Capítulo.
-
-2.- Límites de crédito.
-
-Los créditos de que se trata, deben ser considerados individualmente, por el importe registrado en cuentas de orden, para los efectos del cumplimiento de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
-
-### VIII. DISPOSICIONES TRANSITORIAS
-
-### 1. Vigencia de las normas contables
-
-Las instrucciones contables de los números 1, 2, 3 y 4 del título V precedente, regirán a contar del 1° de enero de 1992. Hasta el 31 de diciembre de 1991, las instituciones financieras se atendrán a las normas contables vigentes a la fecha de emisión del presente Capítulo, al momento de entrar en vigor las nuevas normas.
-
-2. Contabilizaciones que deberán efectuarse para ajustarse a los nuevos criterio de contabilización dispuestos en este Capítulo.
-
-Los saldos correspondientes a efectos de comercio adquiridos, con las excepciones que se señalan en el N° 5 del título V anterior, deberá ser traspasados a las nuevas cuentas que se indican en el presente Capítulo, al momento de entrar en vigor las nuevas normas.
-
-Al tratarse de efectos de comercio adquiridos con responsabilidad del cedente, se considerará como valor contable al 1° de enero de 1992 como si fuera el precio de compra a que se refiere el N° 1 del título V, el importe neto del capital, reajustes, intereses y activo transitorio o pasivo transitorio que se mantuviere registrado, sin afectar, en caso alguno, las cuentas de resultado. Sobre la base del nuevo valor contable así determinado, se devengarán, posteriormente, los intereses y reajustes.
 
 CAPITULO 8-26 (Bancos y Financieras)
 
@@ -11479,8 +10989,6 @@ La emisión de letras de crédito y las operaciones que las instituciones financ
 Las instituciones financieras deben tener presente que la emisión de letras de crédito puede tener su origen exclusivamente en el otorgamiento de préstamos en la misma modalidad. En otros términos, el monto de las letras de crédito en circulación emitidas por una institución financiera debe mantener un equilibrio permanente con el saldo de préstamos en letras de crédito, ya sea que la
 
 respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se haya cumplido ese trámite.
-
-De acuerdo a lo establecido en el Capítulo III.B.l del Compendio de Normas Financieras del Banco Central de Chile, las operaciones con emisión de letras de crédito en moneda extranjera sólo pueden realizarlas los bancos cuyos Directorios, o agentes en el caso de sucursales de bancos extranjeros, hayan establecido políticas relativas a la evaluación del riesgo cambiario de sus deudores y comunicado su adopción a esta Superintendencia.
 
 1. - Del prospecto.
 
@@ -18120,21 +17628,19 @@ Se indicará, igualmente, el domicilio de la oficina principal dentro del país,
 
 Esta información deberá estar siempre actualizada, de manera que todo cambio deberá incluirse dentro de un plazo máximo de 10 días a partir de la fecha en que haya ocurrido.
 
-2.3. Antecedentes financieros básicos.
+2.3.- Antecedentes sobre el patrimonio de la institución.
 
-Deberán mantenerse a disposición del público los siguientes antecedentes financieros mínimos, sin perjuicio de lo indicado en el numeral siguiente:
+Deberán mantenerse a disposición del público la siguiente información:
 
-a) Monto del capital pagado y reservas. Corresponderá a la suma de los saldos que deben incluirse en las partidas 4305 a 4405 a la fecha que corresponda;
+a) Monto del capital pagado.
 
-b) Relación del capital básico con los activos totales y del patrimonio efectivo con los activos ponderados por nesgo, de que trata el Capítulo 12-1 de esta Recopilación.
+b) Monto del patrimonio efectivo.
 
-c) Total de compromisos vigentes por avales y fianzas y obligaciones contingentes. Este monto deberá ser igual al total de obligaciones contingentes registradas a la fecha que corresponda;
+c) Relación del capital básico con los activos totales.
 
-d) Monto de operaciones de intermediación vigentes. Se indicará la suma de las partidas 3105 a 3115.
+d) Relación del patrimonio efectivo con los activos ponderados por riesgo.
 
-Los antecedentes deben estar referidos a la fecha del último estado de situación o estado financiero preparado para su publicación conforme a las normas de los Capítulos 18-2 y 18-1 de esta Recopilación, debiendo actualizarse a más tardar el último día del mes siguiente a la fecha a la que esos estados se refieran.
-
-Con la presentación de los antecedentes mencionados en las letras b), c) y d) anteriores, se entenderá cumplida la obligación que, en lo atinente a esa información específica, se exige en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Los antecedentes se actualizarán mensualmente, a más tardar el último día del mes siguiente a aquel a cuyo cierre contable se refieren los montos y relaciones requeridos.
 
 2.4. Estados financieros anuales y Estados de Situación.
 
