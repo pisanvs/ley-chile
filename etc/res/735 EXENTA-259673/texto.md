@@ -1,0 +1,3 @@
+Por resolución exenta Nº 735 de 28 de febrero de 2007 de esta Subsecretaría, autorízase a INDUSTRIAL Y COMERCIAL MARLO LIMITADA para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Parque Industrial Apias Montt, parcela 32, X Región, en las líneas de proceso de cocido, fresco-enfriado, fresco-refrigerado, congelado y ahumado, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 28 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
