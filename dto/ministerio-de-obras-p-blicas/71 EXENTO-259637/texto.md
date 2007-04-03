@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 71, de fecha 28 de febrero de 2007, se expropió el lote de terreno Nº 51, superficie 484,95 m², Rol Nº 557-284, comuna de Linares, para la obra "Camino Conservación Ruta L-45, Sector Escuela Llepo - Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446.", VII Región, y se acordó el valor de la indemnización con su propietario Armando Enrique Canales Bravo, ascendente a la cantidad de $984.462.
+
+- Fiscal del Ministerio de Obras Públicas.
