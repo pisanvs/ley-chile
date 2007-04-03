@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 90, de fecha 28 de febrero de 2007, se expropió el lote de terreno Nº 36, superficie 2.018 m², Rol Nº 238-33, comuna de Nancagua, para la obra "Camino Ruta I-180 Puquillay - Convento Viejo, sector Puquillay - La Cabrería Tramo Km. 0.00000 - Km. 3,36889 (I-180) Km. 0,00000 a Km. 0,26894", VI Región, y se acordó el valor de la indemnización con su propietaria María Paulina Urzúa Urzúa, ascendente a la cantidad de $1.622.161.
+
+- Fiscal del Ministerio de Obras Públicas.
