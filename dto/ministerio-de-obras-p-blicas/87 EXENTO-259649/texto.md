@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 87, de fecha 28 de febrero de 2007, se expropiaron los lotes de terreno Nº 20-C, 21 y 22, superficies: 548,00, 420,00 y 300,00 m², Rol Nº 2203-42, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, Tramo Km. 15,84700 a Km. 40,41746", X Región, y se acordó el valor de la indemnización con su propietario Julio Humberto Oyarzún Velásquez, ascendente a la cantidad de $1.958.756.
+
+- Fiscal del Ministerio de Obras Públicas.
