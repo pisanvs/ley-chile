@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 72 de 28 de febrero de 2007, se expropió el lote de terreno Nº 98, superficie 1.237 m2., Rol Nº 238-15, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, Sector Nueva Toltén-Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo II Km. 80,55700 al Km. 87,50000" y se acordó el valor de indemnización con su propietario Alfonso del Río Mellado, ascendente a la cantidad de $1.367.491.
+
+- Fiscal del Ministerio de Obras Públicas.
