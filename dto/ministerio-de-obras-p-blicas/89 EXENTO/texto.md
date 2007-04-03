@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 89, de fecha 28 de febrero de 2007, se expropiaron los lotes de terreno Nº 3-A y 3- B, superficies: 24,7 y 31 m2, Rol N 27-17, comuna de Paredones, para la obra "Camino Paredones - La Quesera, Sector Puente La Quesera, Tramo Km. 0,00000 a Km. 0,43599", VI Región, y se acordó el valor de las indemnizaciones con su propietario José Guillermo Fuenzalida Silva, ascendente a la cantidad de $1.011.438.
+
+- Fiscal del Ministerio de Obras Públicas.
