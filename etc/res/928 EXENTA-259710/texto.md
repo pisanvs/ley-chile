@@ -1,0 +1,3 @@
+Por resolución exenta Nº 928, de 26 de marzo de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204101184 presentada por ROBINSON CRUSOE Y COMPAÑIA LIMITADA, para instalar y operar un centro de cultivo ubicado en Bahía Huenquillahue, al noreste de Punta Hondable, sector 5, X Región.
+
+Valparaíso, 26 de marzo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
