@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 144 EXENTA, DE 2007
+
+Por resolución exenta Nº 144, de 19 de febrero de 2007, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región de Los Lagos, se autorizó a la Planta Revisora Técnica AB 1004, localizada en Ancud, de la "Sociedad TÜV Rheinland Andino S.A.", para efectuar revisiones técnicas a vehículos motorizados y sus remolques en la comuna de Castro, en la vía lateral de servicio de calle Galvarino Riveros, localizada frente al Cementerio Municipal, desde el 26 de febrero de 2007 hasta el 31 de agosto de 2007 y comprenderá dentro de dicho período, los días martes a viernes de cada semana, salvo la primera semana de atención que incluirá el día lunes 26 de febrero de 2007.
+
+Angela Villarroel Mansilla, Secretaría Regional Ministerial, Transportes y Telecomunicaciones, Región Los Lagos.
