@@ -316,12 +316,6 @@ Villarrica, con dos jueces, con competencia sobre la misma comuna.
 
 Décima Región de Los Lagos:
 
-Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
-
-Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
-
-Los Lagos, con un juez, con competencia sobre las comunas de Máfil, Los Lagos y Futrono.
-
 Osorno, con cuatro jueces, con competencia sobre las comunas de San Juan de la Costa, San Pablo, Osorno y Puyehue.
 
 Río Negro, con un juez, con competencia sobre las comunas de Río Negro, Puerto Octay y Purranque.
@@ -341,6 +335,14 @@ Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río
 Duodécima Región de Magallanes y la Antártica Chilena:
 
 Punta Arenas, con cuatro jueces, con competencia sobre las comunas de Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Navarino y Antártica.
+
+Decimocuarta Región de los Ríos:
+
+Mariquina, con un juez, con competencia sobre las comunas de Mariquina y Lanco.
+
+Valdivia, con tres jueces, con competencia sobre las comunas de Valdivia y Corral.
+
+Los Lagos, con un juez, con competencia sobre las comunas de Máfil, Los Lagos y Futrono.
 
 Región Metropolitana de Santiago:
 
@@ -508,8 +510,6 @@ Villarrica, con tres jueces, con competencia sobre las comunas de Loncoche, Vill
 
 Décima Región de Los Lagos:
 
-Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
-
 Osorno, con seis jueces, con competencia sobre las comunas de San Juan de la Costa, San Pablo, Osorno, Puyehue, Río Negro, Puerto Octay y Purranque.
 
 Puerto Montt, con seis jueces, con competencia sobre las comunas de Fresia, Frutillar, Puerto Varas, Llanquihue, Los Muermos, Puerto Montt, Cochamó, Maullín, Calbuco, Hualaihué, Chaitén, Futaleufú y Palena.
@@ -523,6 +523,10 @@ Coihaique, con tres jueces, con competencia sobre las comunas de Guaitecas, Cisn
 Duodécima Región de Magallanes y la Antártica Chilena:
 
 Punta Arenas, con seis jueces, con competencia sobre las comunas de Natales, Torres del Paine, Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Primavera, Porvenir, Timaukel, Navarino y Antártica.
+
+Decimocuarta Región de los Ríos:
+
+Valdivia, con seis jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
 
 Región Metropolitana de Santiago:
 
@@ -930,20 +934,6 @@ Un juzgado con asiento en la comuna de Carahue, con competencia sobre las comuna
 
 En la Décima Región, de Los Lagos, existirán los siguientes juzgados de letras:
 
-Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
-
-Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
-
-Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
-
-Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
-
-Un juzgado con asiento en la comuna de La Unión, con competencia sobre la misma comuna;
-
-Un juzgado con asiento en la comuna de Paillaco, con competencia sobre la misma comuna;
-
-Un juzgado con asiento en la comuna de Río Bueno, con competencia sobre las comunas de Río Bueno y Lago Ranco;
-
 Tres juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
 
 Un juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
@@ -993,6 +983,24 @@ Tres juzgados con asiento en la comuna de Punta Arenas, con competencia sobre la
 Un juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Ultima Esperanza, y
 
 Un juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
+
+#### Artículo 39 bis
+
+En la Decimocuarta Región, de Los Ríos, existirán los siguientes juzgados de letras:
+
+Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
+
+Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
+
+Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
+
+Un juzgado con asiento en la comuna de Panguipulli, con competencia sobre la misma comuna;
+
+Un juzgado con asiento en la comuna de La Unión, con competencia sobre la misma comuna;
+
+Un juzgado con asiento en la comuna de Paillaco, con jurisdicción sobre la misma comuna, y
+
+Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las comunas de Río Bueno y Lago Ranco.
 
 #### Artículo 40
 
@@ -2276,7 +2284,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.000 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.750 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.200 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.900 pesos.
 
 #### Artículo 199
 
