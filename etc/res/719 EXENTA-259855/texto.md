@@ -1,0 +1,3 @@
+Por resolución exenta Nº 719, de 27 de febrero de 2007, de esta Subsecretaría, autorízase a DORISMAN DEL CARMEN CARVAJAL LEDEZMA, RUT Nº 6.899.226-5, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Avenida Willy Linderman Nº 2427, Local 2, Guanaqueros, comuna de Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de febrero de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
