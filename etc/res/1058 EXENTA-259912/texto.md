@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.058, de 3 de abril de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111090 presentada por SERVICIOS MARITIMOS OXXEAN SOCIEDAD ANONIMA para instalar y operar un centro de cultivo ubicado en canal Tuamapu, sector sur de Isla Larenas (sector 2), XI Región.
+
+Valparaíso, 3 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
