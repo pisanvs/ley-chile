@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION EXENTA NUMERO 2.331, DE 23 DE MARZO DE 2007, QUE RECONOCE COMO LABORATORIO HABILITADO PARA LA REALIZACION DE PRUEBAS PERICIALES DE CARACTER BIOLOGICO, PARA DETERMINACION DE PATERNIDAD Y/O MATERNIDAD, A LA UNIDAD DE BIOLOGIA MOLECULAR, DE SERVICIOS LABORATORIOS CLINICOS DE LA FACULTAD DE MEDICINA DE LA PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE
+
+La Dirección Nacional del Servicio Médico Legal, por resolución exenta Nº 2.331 de fecha 23 de marzo de 2007, en virtud de dar cumplimiento a las intrucciones y Normativa Técnica de este Servicio Público, reconoce como laboratorio habilitado para la realización de pruebas periciales de carácter biológico para determinar la filiación, a la Unidad de Biología Molecular, de Servicios Laboratorios Clínicos de la Facultad de Medicina de la Pontificia Universidad Católica de Chile, ubicado en Avenida Vicuña Mackenna Nº 4686, comuna de Macul, Santiago, y cuya Dirección Técnica será ejercida por la médico cirujano Sonia Marcela Lagos Lucero Rut Nº8.710.540-7.
+
+Alvaro Erazo Latorre, Director Nacional.
