@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A SEGUROS VIDA SECURITY PREVISION S.A.
+
+Certifico: Que por resolución exenta Nº 131 de fecha 5 de abril de 2007, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad denominada Seguros Vida Security Previsión S.A., acordada en la Junta Extraordinaria de Accionistas de fecha 22 de enero de 2007, reducida a escritura pública de fecha 26 de enero de 2007, otorgada ante don Julio García Encina, suplente del notario de Santiago don Jaime Morandé Orrego, domiciliado en calle Amunátegui Nº 361, comuna de Santiago.
+
+La reforma consiste en aumentar el capital social de $416.407.724.- dividido en 20.000.000 de acciones nominativas, de una misma serie, sin valor nominal, íntegramente suscrito y pagado, a $74.773.907.724.- dividido en 195.000.000 de acciones. El aumento de capital de $74.357.500.000 pesos dividido en 175.000.000 acciones, podrá ser pagado en dinero o en otros bienes, en un plazo de tres años contados desde la fecha de la junta. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 5 de abril de 2007.- Carmen Undurraga Martínez, Secretario General.
