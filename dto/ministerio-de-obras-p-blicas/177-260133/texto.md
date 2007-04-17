@@ -1,0 +1,3 @@
+Por decreto MOP Nº 177 de fecha 28 de febrero de 2007, se expropiaron los lotes de terrenos Nos 2 y 2-A, superficie 1.500 y 553,93 m², Rol E/T, comuna de Illapel, IV Región para la obra "Construcción Variante, Cruce Sector Ruta D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,00000 a Km. 6,17679" y se acordó el valor de indemnización con su propietaria doña Milena Cecilia Salinas Godoy, ascendente a la cantidad de $11.427.686.
+
+Fiscal del Ministerio de Obras Públicas.
