@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 205 de 15 de marzo de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 51 para la obra: "Mejoramiento del Cauce del Estero Las Cruces", que figura a nombre de Sánchez Orellana Emeterio, rol de avalúo 117-131, Comuna de Quilicura, Región Metropolitana, superficie 11.303 m2. La Comisión de Peritos fijó, con fecha 31 de agosto de 2006, en la cantidad de $180.928.000.-, para el lote Nº 51. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
