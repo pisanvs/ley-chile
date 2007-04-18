@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.052, de 3 de abril de 2007, de esta Subsecretaría, recházase la solicitud Nº202105009 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS LINAO, para modificar la concesión de acuicultura otorgada por D.S. Nº843 de 1987, del Ministerio de Defensa Nacional, ubicada en Bahía Linao, sector Linao, X Región.
+
+Valparaíso, 3 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
