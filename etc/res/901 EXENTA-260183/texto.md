@@ -1,0 +1,5 @@
+Por resolución exenta Nº 901, de 20 de marzo de 2007, de esta Subsecretaría, modifícase el numeral 6º de la resolución exenta Nº 3.577 de 2006, modificada mediante resoluciones exentas Nº 39 y Nº 126, ambas de 2007, todas de esta Subsecretaría de Pesca, que autorizó a CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico pesquero de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la X Región, subzona Islas de Calbuco", en el sentido de señalar que los límites de captura autorizados para los meses que se indican, serán los siguientes: a) Marzo: 119,983 toneladas; b) Abril: 119,983 toneladas;
+
+c) Junio: 39,995 toneladas; d) Julio: 39,995 toneladas.
+
+Valparaíso, 20 de marzo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
