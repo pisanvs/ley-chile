@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.094, de 4 de abril de 2007, de esta Subsecretaría, recházase la solicitud Nº205111156 presentada por SALMONES ANTARTICA S.A. para modificar la concesión de acuicultura otorgada mediante D.S. Nº857 de 1992, del Ministerio de Defensa Nacional, modificada por resolución Nº880 de 2000, de la Subsecretaría de Marina, ubicada al oeste de ensenada Acantilada, XI Región.
+
+Valparaíso, 4 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
