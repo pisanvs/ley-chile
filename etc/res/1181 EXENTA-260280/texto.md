@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.181, de 16 de abril de 2007, de esta Subsecretaría, rectifícase el numeral Nº 3 de la resolución Nº 410 de 2007, de esta Subsecretaría, que autorizó a PESQUERA ISLADAMAS S.A., para sustituir una nave en construcción por la nave "Cocha", en el sentido de indicar que la autorización para ampliar actividades pesqueras extractivas fue otorgada a la nave "Cocha", individualizada en el numeral 1º de la misma resolución, y no como allí se indica.
+
+Valparaíso, 16 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
