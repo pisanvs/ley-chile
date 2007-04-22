@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.179, de 16 de abril de 2007, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 283, de 2000, y Nº 48, de 2003, ambas de esta Subsecretaría de Pesca, sólo en cuanto autorizaron a SOCIEDAD PESQUERA VIENTO SUR S.A. para operar la nave "Doña Claudina", sobre el recurso hidrobiológico Reineta, en el área marítima correspondiente a las Regiones V, VI y VII, con arrastre y espinel, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 16 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
