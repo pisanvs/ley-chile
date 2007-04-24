@@ -18018,7 +18018,7 @@ c) Las tareas especiales de auditoría se solicitarán en las oportunidades y co
 
 d) Los trabajos especiales de que se trata podrán ser remunerados con cargo a este Organismo y sus resultados se informarán directamente al Superintendente. Los honorarios se establecerán sobre la base de un presupuesto detallado del tiempo necesario para cumplir con los objetivos de la auditoría o trabajo especial que se solicite en cada oportunidad.
 
-ANEXO N°1
+ANEXO N° 1
 
 FIRMAS DE AUDITORES EXTERNOS DE BANCOS INSCRITAS EN EL REGISTRO DE ESTA SUPERINTENDENCIA
 
@@ -18026,9 +18026,9 @@ Número de
 
 Inscripción * Nombre de la empresa.
 
-002 PRICEWATERHOUSECOOPERS, CONSULTORES, AUDITORES Y COMPAÑIA LIMITADA.
+002 PRICEWATERHOUSECOOPERS CONSULTORES, AUDITORES Y COMPAÑIA LIMITADA.
 
-005 DELOITTE & TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA.
+005 DELOITTE Y TOUCHE SOCIEDAD DE AUDITORES Y CONSULTORES LIMITADA.
 
 008 KPMG AUDITORES CONSULTORES LIMITADA.
 
@@ -18040,11 +18040,13 @@ Inscripción * Nombre de la empresa.
 
 022 CONSAUDIT INTERNATIONAL AUDITORES CONSULTORES LIMITADA.
 
-023 ERNST & YOUNG SERVICIOS PROFESIONALES DE AUDITORIA Y ASESORIAS LIMITADA.
+023 ERNST Y YOUNG SERVICIOS PROFESIONALES DE AUDITORIA Y ASESORIAS LIMITADA.
 
 025 LANDA CONSULTORES AUDITORES LIMITADA.
 
-* Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos.
+027 JERIA Y ASOCIADOS AUDITORES CONSULTORES LIMITADA.
+
+Se incluyen sólo las firmas inscritas en el Registro que se encuentran facultadas para prestar sus servicios profesionales a bancos.
 
 CAPITULO 20-1 (Bancos y Financieras)
 
