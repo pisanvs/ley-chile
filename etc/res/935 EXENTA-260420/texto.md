@@ -1,0 +1,3 @@
+Por resolución exenta Nº 935, de 27 de marzo de 2007, de esta Subsecretaría, autorízase a CRISTINA DEL CARMEN BARRIOS TOTO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle Principal s/nº, Pichicuy, comuna de La Ligua, Provincia de Petorca, V Región, donde podrá elaborar, en las líneas de proceso Cocido, Fresco-refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de marzo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
