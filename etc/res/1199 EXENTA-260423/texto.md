@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.199, de 16 de abril de 2007, de esta Subsecretaría, autorízase a INGRID ELISABETH MEEDER MENSCHEL para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Pasaje Nuevo Uno Nº 136, Villa Manuel Bustos Alerce, Puerto Montt, X Región, donde podrá elaborar en las líneas de proceso de Congelado y Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 16 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
