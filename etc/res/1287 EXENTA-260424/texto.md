@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.287 de 19 de abril de 2007, de esta Subsecretaría, déjase sin efecto la resolución Nº 455 de 2005, de esta Subsecretaría, que rechazó la solicitud Nº 203111326, presentada por JUAN BAUTISTA GONZALEZ BLANCO, para un centro de cultivo ubicado en Seno Aysén, lado este de Punta Minna, XI Región, en virtud del artículo 53 de la ley Nº 19.880.
+
+Valparaíso, 19 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
