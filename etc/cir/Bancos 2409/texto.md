@@ -2116,11 +2116,11 @@ Los representantes del Directorio que formen parte del Comité de Auditoría deb
 
 Estos miembros del Comité no deben participar de los ingresos o utilidades de la empresa más allá de los que correspondan a los emolumentos que perciban en su carácter de Directores y de los que el Directorio les pudiere fijar por su desempeño en el Comité de Auditoría.
 
-4.- Duración del mandato de los representantes del Directorio y de los auditores externos.
+4.- Duración del mandato de los representantes del Directorio y participación de los auditores externos.
 
 El Directorio de la institución determinará la duración del mandato de sus representantes en el Comité, el que en ningún caso podrá ser superior a tres años, o hasta el término del período del Directorio, si éste concluyera antes de ese plazo.
 
-El socio representante de la firma auditora, que estará sujeto a todas las limitaciones que se establecen en las Circulares N°s. 1 y 2 para Auditores Externos, participará en las reuniones del Comité a que sea convocado o a las que él solicite asistir con el fin de dar cuenta de las situaciones, hechos o avances propios de su función de auditores externos de la empresa. Si el período por el cual la firma auditora presta sus servicios al banco es superior a tres años, dicho socio deberá ser reemplazado por otro de la misma firma, que también podrá tener una permanencia máxima de tres años como miembro del Comité.
+El socio representante de la firma auditora, que estará sujeto a todas las limitaciones que se establecen en las Circulares N°s. 1 y 2 para Auditores Externos, participará en las reuniones del Comité a que sea convocado o a las que él solicite asistir con el fin de dar cuenta de las situaciones, hechos o avances propios de su función de auditores externos de la empresa.
 
 5.- Instituciones que no mantengan Directorio en Chile.
 
