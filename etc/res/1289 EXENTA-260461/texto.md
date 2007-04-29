@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.289, de 20 de abril de 2007, de esta Subsecretaría, autorízase a FOODCORP CHILE S.A., para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Pedro Aguirre Cerda Nº 995, Lo Rojas, Coronel, VIII Región, en las líneas de proceso de Fresco-Enfriado, Congelado, Seco-Salado, Harina y Aceite, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
