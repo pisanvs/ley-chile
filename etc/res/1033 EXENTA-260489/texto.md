@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.033, de 3 de abril de 2007, de esta Subsecretaría, autorízase a la Ilustre MUNICIPALIDAD DE TOLTEN para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en José María Caro S/Nº, Nueva Toltén, comuna de Toltén, IX Región, donde podrá elaborar en las líneas de proceso de Precocido Congelado, Conservas, Fresco Enfriado, Congelado y Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
