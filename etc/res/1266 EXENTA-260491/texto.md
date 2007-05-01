@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.266, de 17 de abril de 2007, de esta Subsecretaría, autorízase a NANAIMO S.A. para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Camino La Vara Nº2980, San Bernardo, Santiago, Región Metropolitana, en las líneas de proceso de Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 17 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
