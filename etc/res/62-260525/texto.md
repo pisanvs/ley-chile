@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución Nº 62, fecha 27 de marzo de 2007, tramitada Contraloría Regional 29 de marzo de 2007, Dirección Regional Serviu X Región expropió parcialmente el lote de terreno Nº 5 para la obra "Mejoramiento Eje Guillermo Gallardo - Santa Teresa - Sargento Silva, Puerto Montt" en la comuna de Puerto Montt, provincia Llanquihue, Décima Región, aparente dominio Gallegos Vargas Juan, rol de avalúo según SII Nº 39-01, comuna de Puerto Montt, superficie 56,78 metros cuadrados. La comisión de peritos integrada por los señores Leopoldo Ramón Schumacher Guarda, Enrique Hoelck Altmann y Jaime Sanz Bahamonde, designados resolución exenta Nº 2.647, de 26 de diciembre de 2006, fijó con fecha 28 de diciembre de 2006 el valor provisional de la indemnización en la cantidad de $13.943.050, la que ha sido reajustada de acuerdo a la variación del IPC quedando en $13.970.936. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2.186.
+
+Director Regional Serviu X Región (S).
