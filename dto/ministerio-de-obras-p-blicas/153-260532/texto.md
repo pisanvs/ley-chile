@@ -1,0 +1,3 @@
+Por decreto MOP Nº 153, de 16 de febrero de 2007 y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se dejó sin efecto el decreto MOP Nº 595, de 31 de julio de 2006, en lo que se refiere a los lotes Nºs 2 y 5, que figuran a nombre de Puerto Ventanas S.A. y Parra Durán Juan Enrique, para la ejecución del Proyecto: Diseño Conducción Agua Potable, Concón - Zapallar, Tramo Quintero La Laguna, comuna de Puchuncaví, Provincia de Valparaíso, V Región. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
