@@ -1,0 +1,5 @@
+CONCEDE PRORROGA DE PLAZO PARA EL INICIO DE OPERACIONES DEL CASINO DE JUEGO Y EL DESARROLLO DE LAS DEMAS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA MARINA DEL SOL S.A. EN COMUNA DE TALCAHUANO
+
+Por resolución exenta Nº74, de 26 de abril de 2007, la Superintendencia de Casinos de Juego concedió la prórroga de plazo que solicitó la sociedad operadora Marina del Sol S.A. En virtud de la prórroga concedida, el plazo de 729 días tanto para inicio de operaciones del casino de juegos como para desarrollo de las demás obras e instalaciones del proyecto integral autorizado en comuna de Talcahuano, contemplado en resolución exenta Nº176 de 21 de julio de 2006, aclarada por resolución exenta Nº195, de 25 de julio de 2006, de esta Superintendencia, que le otorgó permiso de operación para casino de juego en dicha comuna, se extenderá hasta 970 días contado desde el 29 de julio de 2006.
+
+Santiago, 27 de abril de 2007.- Superintendente de Casinos de Juego.
