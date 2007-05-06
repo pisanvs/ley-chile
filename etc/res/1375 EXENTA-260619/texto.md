@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.375, de 27 de abril de 2007, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 1.177, de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado 'Aspectos Biológico-Pesqueros del Jurel en la Zona Centro Sur, al Interior de las Cinco Millas Náuticas", en el sentido de reemplazar a la nave "Don Alfonso II" por la embarcación artesanal "Don Adolfo II".
+
+Valparaíso, 27 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
