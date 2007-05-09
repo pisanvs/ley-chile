@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.198, de 16 de abril de 2007, de esta Subsecretaría, autorízase a HECTOR SEGUNDO DIAZ GODOY, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Quebrada Los Loros, Km. 5, Taltal, II Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 16 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
