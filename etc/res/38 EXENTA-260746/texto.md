@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº38 EXENTA, DE 2007
+
+Por resolución exenta Nº 38, de 4 de abril de 2007, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región del Bío Bío, y en conformidad a lo dispuesto en el D.S. 156 de 1992 del mismo Ministerio, se autoriza al concesionario de la Planta de Revisión Técnica clase AB, ubicada en Camino a Cayucupil s/n comuna de Cañete, "Augusto Pino Sanhueza", adjudicada por resolución exenta Nº 19 del 30 de junio de 1993, para practicar Revisiones Técnicas fuera del recinto de la Planta Revisora, en el establecimiento ubicado en el Km. 30,6 de la ruta 160 comuna de Coronel, la presente resolución tendrá una vigencia por 90 días corridos, desde su dictación o hasta la fecha en que entre en funcionamiento la Planta de Revisión Técnica Automatizada, en la comuna de Lota, cualquiera de las circunstancias anteriores que ocurra primero.
+
+Claudio Vásquez Fernández, Secretario Regional Ministerial Transportes y Telecomunicaciones VIII Región del Bío Bío.
