@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta N° 3.704, de 8 de mayo de 2007, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en calle Alerces St 6 Mz B, Penco Oriente, Rol de Avalúo N° 139-24, comuna Penco, superficie aproximada 22,50 metros cuadrados de terreno, dentro polígonos y linderos señalados en plano expropiación N° S8R-21.269, de aparente dominio de Zambrano Cabezas, Gastón, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Sector Oriente y Construcción 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor, y Felipe Toledo Quijada y Alvaro Berríos San Martín, arquitectos, según informe de fecha 2 de abril de 2007, fijó monto provisional indemnización en $207.203.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío. Serviu Región del Bío Bío.
