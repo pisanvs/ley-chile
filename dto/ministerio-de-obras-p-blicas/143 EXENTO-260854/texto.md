@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº143 de fecha 30 de marzo del 2007, se expropió el lote de terreno Nº176-B, superficie 576 m², Rol Nº238-88, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 87,50000 a Km. 103,33500, Subtramo IV, Km. 92,33000 a Km. 98,33600" y se acordó el valor de indemnización con su propietaria Coralia Marilaf Cheuque, ascendente a la cantidad de $546.518.- para el lote Nº176-B.
+
+Fiscal del Ministerio de Obras Públicas.
