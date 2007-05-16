@@ -1,0 +1,5 @@
+DERECHO DE AGUA EN COMUNA DE CABILDO
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº2.033 del 9 de mayo de 2007, conforme artículo 5º transitorio Código Aguas, aclaró y complementó resolución exenta Nº 1.555 de 22 de mayo de 1998, que aprobó el Estudio Técnico de División Derechos de Aprovechamiento de Aguas entre el Sector Excluido y el Sector Expropiado del predio 'Hacienda Los Angeles, formada por las Hijuelas Los Angeles, Las Mercedes y Cerrillos' y de Asignación de Derecho de Agua entre las propiedades resultantes de la División de predio expropiado, ubicado en la comuna de Cabildo, provincia de Petorca, V Región, en el sentido de expresar los derechos de aprovechamiento de aguas de los pozos: Cora, Junta de Vecinos Nº15, El Cerro, El Palto, El Culén 2 o El Eucaliptos, El Culén 1 y La Mora El Bajo, en unidad de volumen por unidad de tiempo y que dichos derechos son consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º ley Nº 18.377.- Director Nacional.
