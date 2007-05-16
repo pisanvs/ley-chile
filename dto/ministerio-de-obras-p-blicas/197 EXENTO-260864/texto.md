@@ -1,0 +1,3 @@
+Por decreto NºMOP exento Nº197 de 30 de abril de 2007, se modificó el decreto MOP exento Nº1.136 de 25 de agosto de 2004, en la parte que indica el nombre del propietario y el rol de avalúo de los lotes de terreno Nºs. 15, 16 y 21, todos de la comuna de Coronel, VIII Región, en la forma que a continuación se indica: propietario Agrícola Llaima Ltda., rol de avalúo Nº1272-12. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
