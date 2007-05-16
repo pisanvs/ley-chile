@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº142 de fecha 30 de marzo del 2007, se expropió el lote de terreno Nº48, superficie 235 m², Rol Nº223-154, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario Héctor Pincheira Provoste, ascendente a la cantidad de $2.662.432.
+
+Fiscal del Ministerio de Obras Públicas.
