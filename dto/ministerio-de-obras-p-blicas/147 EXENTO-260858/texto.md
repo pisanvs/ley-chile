@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº147 de fecha 30 de marzo de 2007, se expropió el lote de terreno Nº67, superficie 247,54 m², Rol E/T, comuna de Salamanca IV Región para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietaria María Silvia Valles Guerrero, ascendente a la cantidad de $692.271.- para el lote Nº67.
+
+Fiscal del Ministerio de Obras Públicas.
