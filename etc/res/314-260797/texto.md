@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 314, de 5 de abril de 2007, de Serviu Metropolitano, se ordenó expropiación parcial, conforme D.L. Nº 2.186 de 1978, del inmueble ubicado en Cam. Sta. Marta ST 19, presunto Rol de Avalúo Nº 925-46, comuna de Maipú, de aparente dominio de Cía. de Petróleos de Chile Copec; correspondiente al Lote Nº 21, del Proyecto Vial "Habilitación Corredor Transporte Público Av. Pajaritos Sur - Alberto Llona y Mejoramiento Nudo Ruta 78 - Av. Pajaritos. (Maipú)". Comisión integrada por Ricardo Antonio Strickler Arellano, Arquitecto; Marlene Teresa Ríos Marcuello, Ingeniero Agrónomo; y Manuel Antonio Ponce Hernández, Constructor Civil, según informe de 30 de septiembre de 2006, fijó monto provisional indemnización en $38.819.000.- pagadera al contado.
+
+- Director Serviu Metropolitano.
