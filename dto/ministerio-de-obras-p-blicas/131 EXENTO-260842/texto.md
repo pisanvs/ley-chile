@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº131 de fecha 30 de marzo del 2007, se expropió el lote de terreno Nº25, superficie 175 m², Rol Nº219-51, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario Esteban Uribe Novoa, ascendente a la cantidad de $251.680.
+
+Fiscal del Ministerio de Obras Públicas.
