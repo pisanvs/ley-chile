@@ -1,0 +1,3 @@
+Por decreto MOP Nº231, de fecha 30 de marzo de 2007, se expropió el lote de terreno Nº9, superficie 4.841 m², Rol Nº382-60, comuna de Pitrufquén, IX Región para la obra "Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Proyecto Faja Maisan IX Región, Canal Mapu Quimey, Comuna de Pitrufquén, Provincia de Cautín IX Región", y se acordó el valor de indemnización con su propietario Flavio José Luis Bruna Beltrán, ascendente a la cantidad de $3.756.449.
+
+Fiscal del Ministerio de Obras Públicas.
