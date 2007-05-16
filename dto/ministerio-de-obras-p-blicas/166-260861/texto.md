@@ -1,0 +1,3 @@
+Por decreto MOP Nº166 de fecha 28 de febrero de 2007, se expropió el lote de terreno Nº13, superficie 985 m², Rol Nº139-10, comuna de Penco, VIII Región para la obra "Mejoramiento Ruta 150, Tramo II, Sector By-Pass Penco (Eje Principal)", y se acordó el valor de indemnización con su propietaria Luzmila del Carmen Ulloa González y Otros, ascendente a la cantidad de $6.405.248.
+
+Fiscal del Ministerio de Obras Públicas.
