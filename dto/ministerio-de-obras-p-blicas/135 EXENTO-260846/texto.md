@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº135 de fecha 30 de marzo del 2007, se expropiaron lotes de terreno Nºs. 43-B y 43-C, superficies 424,84 y 197,03 m², Rol E/T, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca Km. 13,14000 a Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario Fernando del Carmen Briceño Maldonado, ascendente a la cantidad de $2.974.557.- para los lotes Nºs. 43-B y 43-C.
+
+Fiscal del Ministerio de Obras Públicas.
