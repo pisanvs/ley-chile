@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 136 de 30 de marzo de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº25 para la obra: "Proyecto Modificación Diseño Definitivo Interceptor de Aguas Lluvias Alameda Rancagua" Obra "Colector Interceptor Alameda", que figura a nombre de Marti Pinsach Gerardo, rol de avalúo 1420-91, Comuna de Rancagua, VI Región, superficie 181 M². La Comisión de Peritos, fijó con fecha 15 de diciembre de 2006, en la cantidad de $837.467.- para el lote Nº25. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
