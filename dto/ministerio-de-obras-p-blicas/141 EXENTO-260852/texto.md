@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº141 de fecha 30 de marzo del 2007, se expropió el lote de terreno Nº39, superficie 331 m², Rol Nº240-5, comuna de Villa Alegre, VII Región para la obra "Camino Ruta L-202, Sector Villa Alegre Putagan, Tramo Km. 0,00000 al Km. 11,44287, y se acordó el valor de indemnización con su propietario Manuel Salvador Castillo Salinas, ascendente a la cantidad de $1.010.568.- para el lote Nº39.
+
+Fiscal del Ministerio de Obras Públicas.
