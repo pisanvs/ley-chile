@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº127 de fecha 30 de marzo del 2007, se expropiaron los lotes de terreno Nºs. 52 y 52-A, superficies 98 y 117 m², Rol Nº223-155, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario Filomeno Concha Paz, ascendente a la cantidad de $301.654.
+
+Fiscal del Ministerio de Obras Públicas.
