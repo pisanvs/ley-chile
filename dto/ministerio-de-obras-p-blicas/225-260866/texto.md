@@ -1,0 +1,3 @@
+Por decreto MOP Nº225, de fecha 30 de marzo de 2007, se expropió el lote de terreno Nº1, superficie 5.468 m², Rol Nº383-34, comuna de Pitrufquén, IX Región para la obra "Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Proyecto Faja Maisan IX Región, Canal Mapu Quimey, Comuna de Pitrufquén, Provincia de Cautín IX Región", y se acordó el valor de indemnización con su propietario Luis Alberto Conrado Sauterel Maisan, ascendente a la cantidad de $5.721.159.
+
+Fiscal del Ministerio de Obras Públicas.
