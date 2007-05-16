@@ -1,0 +1,3 @@
+Por decreto MOP Nº180 de fecha 28 de febrero del 2007, se expropiaron los lotes de terreno Nºs. 25, 26 y 28, superficies 976, 200 y 832 m², Rol Nº201-8 y 201-197, comuna de Toltén, IX Región para la obra "Camino Ruta S-790, Sector Nueva Toltén - Límite Regional (Queule), Tramo Km. 71,46676 al Km. 87,50000, Sub-Tramo I Km. 71,46676 al Km. 80,557000" y se acordó el valor de indemnización con su propietaria Erika Estela Escalona Bustamante y Otros, ascendente a la cantidad de $39.715.166.- para los lotes Nºs. 25, 26 y 28.
+
+Fiscal del Ministerio de Obras Públicas.
