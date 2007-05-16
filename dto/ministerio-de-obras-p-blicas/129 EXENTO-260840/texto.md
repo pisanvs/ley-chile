@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº129 de fecha 30 de marzo del 2007, se expropió el lote de terreno Nº63, superficie 220 m², Rol Nº221-178, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietario Jaime Holdermann Arias, ascendente a la cantidad de $134.144.
+
+Fiscal del Ministerio de Obras Públicas.
