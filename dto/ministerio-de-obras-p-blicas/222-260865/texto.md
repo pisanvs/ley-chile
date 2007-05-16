@@ -1,0 +1,3 @@
+Por decreto MOP Nº222, de fecha 30 de marzo de 2007, se expropio el lote de terreno Nº3, superficie 1.335 m², Rol Nº169-1, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 al Km. 12,80844", y se acordó el valor de indemnización con su propietario Inmobiliaria Jalos Limitada, ascendente a la cantidad de $33.740.064.
+
+Fiscal del Ministerio de Obras Públicas.
