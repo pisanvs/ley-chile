@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº125 de fecha 30 de marzo de 2007, se expropió el lote de terreno Nº67-B, superficie 439,57 m², Rol Nº557-173, comuna de Linares, para la obra "Camino Conservación Ruta L-45, sector Escuela Llepo - Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446" y se acordó el valor de indemnización con su propietario Juan Segundo Vásquez Valenzuela, ascendente a la cantidad de $344.648.
+
+Fiscal del Ministerio de Obras Públicas.
