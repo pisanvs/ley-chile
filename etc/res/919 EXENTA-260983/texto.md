@@ -1,0 +1,33 @@
+APRUEBA ACUERDO MARCO QUE INDICA
+
+Núm. 919 exenta.- Santiago, 11 de mayo de 2007.- Visto: La Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, Nº 18.575, cuyo texto refundido, coordinado y sistematizado fue fijado por D.F.L. N° 1, de 2000, del Ministerio Secretaría General de la Presidencia; el D.F.L. N° 343, de 1953; el D.F.L.
+
+N° 279, de 1960; el D.L. N° 557; la ley N° 18.059; la Ley N° 18.696; la Resolución N° 117, de 2003, del Ministerio de Transportes de Transportes y Telecomunicaciones, en adelante "el Ministerio" que aprobó las Bases de Licitación Pública de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público Mediante Buses, en adelante "Licitación Transantiago 2003"; Resoluciones N°s 31, 58, 59, 66 y 71, todas de 2004, del Ministerio, que aprobaron modificaciones a dichas Bases de Licitación; Resoluciones N°s 70 y 74, de 2004, del Ministerio, que aprobaron las respuestas a las consultas presentadas en dicho proceso de Licitación; la Resolución Exenta N° 331, de 2005, del Ministerio, que aprobó los contratos de concesión, suscritos con fecha 28 de enero de 2005, entre el Ministerio de Transportes y Telecomunicaciones y las empresas Concesionarias de las Unidades de Negocio que en ella se indican; la Resolución Exenta Nº 1715, de 2005, del Ministerio, que postergó la fecha de inicio de la puesta en marcha de los servicios de la Etapa de Implementación; la Resolución Exenta N° 1711, de 2006, que postergó fecha de inicio de la puesta en marcha de los servicios de la Etapa de Régimen; las Resoluciones Exentas N°s 1266, de 07 de julio y Nº 1683, de 5 de septiembre, ambas de 2006 y Nº 238, de 09 de febrero de 2007, que aprobaron modificaciones a los contratos que indica; la Resolución Exenta Nº 349, de 1º de marzo de 2007, que aprobó Addendums a las modificaciones de fecha 09 de febrero de 2007 que en ella se indican; la Resolución Exenta N° 471, de 23 de marzo de 2007, que aprobó Addendum a la modificación de contrato que se indica; la Resolución N° 15, de 2004, del Ministerio, que aprobó las Bases de Licitación Pública del Contrato de Prestación de Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Pasajeros de Santiago "Licitación AFT 2004"; las Resoluciones N°s 24, 29 y 36, todas del 2005, del Ministerio, que aprobaron las modificaciones a las Bases antes referidas, la Resolución Exenta N° 1853, de 2005, del Ministerio, que aprobó contrato que indica; la Resolución Exenta N° 237, de 2007, que aprobó la complementación al contrato que indica, la Resolución Exenta N° 918, de 11 de mayo de 2007, que aprobó modificación a los contratos que indica; Oficio N° 1427, de 20 de abril de 2007 y Oficio N° 1639, de 7 de mayo de 2007, ambos del Ministerio de Transportes y Telecomunicaciones; Oficio N°349, de 20 de abril de 2007, del Ministerio de Hacienda; y, la demás normativa aplicable.
+
+Considerando:
+
+1° Que, a fin de implementar el proyecto Transantiago, mediante la Resolución N° 117, citada en el Visto, se aprobaron las Bases de Licitación Transantiago 2003.
+
+2° Que con fecha 28 de enero de 2005, en conformidad con las Bases de Licitación Transantiago 2003, los adjudicatarios del proceso de licitación referido ("Operadores"), suscribieron -cada uno por separado- con el Ministerio un Contrato de Concesión de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público Remunerado de Pasajeros Mediante Buses (en adelante el "Contrato de Concesión"), los cuales fueron aprobados por la Resolución Exenta N° 331, de 2005, del Ministerio de Transportes y Telecomunicaciones.
+
+3° Que, asimismo, para lograr los objetivos de la Licitación Transantiago, mediante Resolución N° 15 y Resolución Exenta N° 1853, ambas citadas en el Visto, se aprobaron las Bases de Licitación AFT 2004 y el contrato de Prestación de Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Pasajeros de Santiago, respectivamente.
+
+4° Que, a la luz de lo anterior, se suscribó una modificación al contrato antes referido, la cual fue aprobada por Resolución Exenta Nº 1266, de 2006.
+
+5° Que, asimismo, mediante Resolución Exenta Nº 1711, de 08 de septiembre de 2006, se postergó el inicio de la Etapa de Régimen para el 10 de febrero de 2007.
+
+6° Que, el objeto de las licitaciones antes referidas consiste en establecer un sistema de transporte público de pasajeros que permita atender las necesidades de desplazamiento de todos los habitantes del área comprendida en la Licitación Transantiago 2003, a saber, la Provincia de Santiago y las Comunas de Puente Alto y San Bernardo.
+
+7° Que con fecha 9 de febrero de 2007, los Concesionarios suscribieron modificaciones al contrato de concesión de vías, aprobadas por Resolución Exenta N° 238 de la misma fecha, y por Resolución Exenta Nº 349, de 1º de marzo de 2007 y Resolución Exenta N° 471, de 23 de marzo de 2007, todas citadas en el Visto, se aprobaron los Addendums a las modificaciones de contrato de concesión de vías. Con fecha 9 de mayo de 2007, se incorporaron nuevas modificaciones a dichos contratos, aprobadas por Resolución Exenta Nº 918, de 11 de mayo de 2007, las cuales tendrán un carácter transitorio y excepcional, y permitirán la correcta operación de los servicios a fin de lograr el cumplimiento del objeto, antes referido, durante el período que en cada caso se establece, tendientes a permitir una adecuada cobertura de servicios.
+
+8º Que por otra parte, los Concesionarios y el Administrador Financiero de Transantiago S.A., con fecha 9 de mayo de 2007, suscribieron una modificación del Mandato Mercantil de Recaudación y Custodia suscrito entre las partes, el cual obra en conocimiento de este Ministerio.
+
+9° Que, considerando el objeto descrito, es necesario velar por la estabilización financiera del sistema de transporte público,
+
+Resuelvo:
+
+Apruébase el Acuerdo Marco para el Financiamiento Transitorio de Transantiago suscrito entre el Ministerio de Transportes y Telecomunicaciones, la Empresa de Transporte de Pasajeros Metro S.A. y el Administrador Financiero de Transantiago S.A., con fecha 9 de mayo de 2007, mediante escritura pública otorgada en la Notaría de Santiago de don Alberto Mozó Aguilar.
+
+Anótese, comuníquese y publíquese.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda a Ud., Gloria Montecinos L., Jefa Depto. Administrativo.
