@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.482, de 14 de mayo de 2007, de esta Subsecretaría, rectifícase el párrafo 2º del numeral 5º bis de la resolución Nº 152, modificada mediante resoluciones Nº434, Nº 895 y Nº 1.460, todas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de Jurel, I y II Región, año 2007", en el sentido de reemplazar el número "80" por el guarismo "88".
+
+Valparaíso, 14 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
