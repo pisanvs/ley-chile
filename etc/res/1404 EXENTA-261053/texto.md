@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.404, de 4 de mayo de 2007, de esta Subsecretaría, modifícase la resolución Nº 2.934, de 2006, de esta Subsecretaría, que autorizó a FRANCISCO ALBERTO CHAVEZ CATEPILLAN para instalar colectores de semillas de mitílidos en sector norte de Punta Deqio II, X Región, en el sentido de ampliar el plazo para la instalación de colectores por un período de seis meses contados desde el 24 de abril de 2007.
+
+Valparaíso, 4 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
