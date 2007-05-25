@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.276, de 18 de abril de 2007, de esta Subsecretaría, autorízase a MARIA ANTONIETA RIVEROS CABRERA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en el Km. 880, sector Cruce Carretera a Calderilla, Caldera, III Región, donde podrá elaborar en la línea de proceso de Picado de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 18 de abril de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
