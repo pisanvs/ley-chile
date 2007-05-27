@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.405, de 4 de mayo de 2007, de esta Subsecretaría, modifícase la resolución exenta Nº 3.580 de 2006, modificada mediante resoluciones exentas Nº 40, Nº 125 y Nº 441, todas de 2007, de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Implementación de un sistema automatizado de control, verificación y seguimiento en la pesquería artesanal de Merluza del sur (Merluccius australis) de aguas interiores de la Décima Región, subzona de Aguas Azules, año 2007", en el sentido de incorporar el siguiente numeral 6º bis:
+
+"6 bis.- Asimismo, en cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer un máximo total de 5 toneladas de Merluza del sur, en el período mayo- diciembre de 2007, en las fechas señaladas en el numeral 4º de la presente resolución.
+
+Las capturas antes señaladas se imputarán a la fracción autorizada a ser extraída con fines de investigación de la cuota global anual de captura de Merluza del sur establecida para el área de aguas interiores, mediante decreto exento Nº 1.522 de 2006, rectificado mediante decreto exento Nº 5 de 2007, ambos del Ministerio de Economía, Fomento y Reconstrucción".
+
+Valparaíso, 4 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
