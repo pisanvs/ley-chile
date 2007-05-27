@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.596, de 18 de mayo de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201103288 presentada por SOCIEDAD COMERCIAL INVERSIONES LATITUD SUR LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Hudson, al sureste de Punta Coquemcura, Isla Quinchao, X Región.
+
+Valparaíso, 18 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
