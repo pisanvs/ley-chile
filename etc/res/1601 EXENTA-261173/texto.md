@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.601 de 18 de mayo de 2007 de esta Subsecretaría, recházase la solicitud presentada por EDUARDO NARCISO HERNANDEZ VALDERRAMA y GIORGIO STEVE LETCHER PANTOJA, par autorizar la transferencia de la autorización de acuicultura otorgada mediante resolución Nº 411 de 1989, modificada por resolución Nº 1.283 de 1990, ambas de esta Subsecretaría.
+
+Valparaíso, 18 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
