@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.591, de 18 de mayo de 2007, de esta Subsecretaría, recházase la solicitud Nº 205101147 presentada por ROBINSON CRUSOE Y COMPAÑIA LIMITADA, para modificar la concesión de acuicultura otorgada por DS Nº 34 de 1993, del Ministerio de Defensa Nacional, modificada por resolución Nº 1.007 de 1996, de la Subsecretaría de Marina, ubicada en Bahía Huenquillahue, al este de Punta Hondable, X Región.
+
+Valparaíso, 18 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
