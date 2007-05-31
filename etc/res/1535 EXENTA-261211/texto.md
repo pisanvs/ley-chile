@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.535, de 18 de mayo de 2007, de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 698, modificada mediante resoluciones Nº 1.123, Nº 1.351 y Nº 1.399, todas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de incorporar a la embarcación artesanal "Jehosua Maschiaj" (RPA Nº 914149), al listado de naves autorizadas para participar en la presente pesca de investigación.
+
+Valparaíso, 18 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
