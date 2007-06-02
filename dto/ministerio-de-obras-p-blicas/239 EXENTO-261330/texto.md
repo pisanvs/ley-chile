@@ -1,0 +1,5 @@
+Por decreto exento Nº239, de 30 de abril de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 17, 18, 19 y 20, para la obra: Construcción Senda Mañihuales - El Gato, Km. 0,000 a Km.
+
+18,000, que figuran a nombre de Pereda Castillo Atendolfo, rol de avalúo 1024-13, comuna de Aysén, superficies 46.118,00 M2.; 21.597,00 M2.; 21.022,00 M2. y 42.170,89 M2. La Comisión de Peritos fijó con fecha 27 de septiembre de 2005, en las cantidades de $718.388, para el lote Nº17, $475.134, para el lote Nº18, $462.484, para el lote Nº19 y con fecha 14 de octubre de 2005, en la cantidad de $927.760, para el lote Nº20, complementadas por acta de fecha 12 de octubre de 2005, en lo que se refiere al nombre de la obra. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
