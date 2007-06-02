@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 221 de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 19, superficie 2.863 m², rol Nº 113-13, comuna de San Pablo, para la obra "Mejoramiento Camino Ruta U-16, sector Osorno - Bifurcación Quilacahuin, tramo Km. 5,36000 a Km. 12,50000", X Región y se acordó el valor de la indemnización con su propietario Sylvia Cristina Monje Silvestre y Otras, ascendente a la cantidad de $1.416.405.
+
+- Fiscal del Ministerio de Obras Públicas.
