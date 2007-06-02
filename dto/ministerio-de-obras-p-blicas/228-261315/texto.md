@@ -1,0 +1,3 @@
+Por decreto MOP Nº 228, de fecha 30 de marzo de 2007, se expropió el lote de terreno Nº 287, superficie 1.734 m², Rol Nº 997-4, comuna de Llay Llay, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 1: Km. 0.000,00 al Km. 53.779,50. Tramo 3: Km. 46.100,00 al Km. 53.779,50", V Región, y se acordó el valor de la indemnización con su propietario Eugenio Benjamín Pulgar Muñoz, ascendente a la cantidad de $22.603.809.
+
+- Fiscal del Ministerio de Obras Públicas.
