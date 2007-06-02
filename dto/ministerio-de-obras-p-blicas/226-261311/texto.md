@@ -1,0 +1,3 @@
+Por decreto MOP Nº 226 de fecha 30 de marzo de 2007, se expropiaron los lotes de terreno Nºs. 208-A y 211-A, superficies 1.015 y 960 m² respectivamente, rol Nº 430-15, comuna de Buin, para la obra "Camino Ruta G-46, Cruce Long. (Paine) - Talagante, Sector Puente La Puntilla - Cruce Ruta G-40, Puente Sobre Río Maipo Sector La Puntilla" Región Metropolitana y se acordó el valor de la indemnización con su propietario Patricio Marcelo Molina Espinosa, ascendente a la cantidad de $6.563.846.
+
+- Fiscal del Ministerio de Obras Públicas.
