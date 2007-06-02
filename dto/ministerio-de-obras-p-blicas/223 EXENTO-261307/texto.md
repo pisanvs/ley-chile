@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 223, de 30 de abril de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra: "Camino Costero Sur, Sector Tranapuente - Puerto Saavedra - Porma, Tramo Chelle - Hualpín - Puente Peule, Km. 48.292,74 al Km. 68.030,40, correspondiente al Subtramo II Km. 54.260,00, al Km.
+
+59.552,949", que figura a nombre de Tejo Hidalgo Juan Miguel, rol de avalúo Nº 212-38, Comuna de Teodoro Schmidt, IX Región, superficie 3.321,7 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 15 de mayo de 1998, en la cantidad de $1.545.076.- para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
