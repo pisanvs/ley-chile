@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 213 de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 10, superficie 858 m², rol Nº 1502-54, comuna de Los Ángeles, para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara. Km. 0,00000 a Km. 10,35968", VIII Región y se acordó el valor de la indemnización con su propietario Pierino Ferretti Isolabelli, ascendente a la cantidad de $2.010.829.
+
+- Fiscal del Ministerio de Obras Públicas.
