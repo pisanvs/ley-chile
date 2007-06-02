@@ -1,0 +1,3 @@
+Por decreto MOP Nº 224, de fecha 30 de marzo de 2007, se expropió el lote de terreno Nº 9, superficie 4.232,13 m², rol Nº 3706-47, comuna de Talca, para la obra "Habilitación Avda. Circunvalación Río Claro en Talca, comuna de Talca, Provincia de Talca, VII Región" y se acordó el valor de la indemnización con su propietario Juan Segundo Roco Arriagada, ascendente a la cantidad de $69.049.135.
+
+- Fiscal del Ministerio de Obras Públicas.
