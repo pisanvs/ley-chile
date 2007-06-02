@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 217, de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 47, superficie 1.590 m², Rol Nº 65-16, comuna de Lonquimay, IX Región, para la obra "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, sector Lonquimay - Acceso Pedregoso, Km. 119,30000 al Km. 141,00000", correspondiente al tramo II Km. 130,78300 al Km. 141,00000, y se acordó el valor de indemnización con su propietaria Eliana Ester Aravena, ascendente a la cantidad de $632.075.- para el lote Nº 47.
+
+- Fiscal del Ministerio de Obras Públicas.
