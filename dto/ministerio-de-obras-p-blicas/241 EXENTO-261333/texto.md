@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº 241, de 30 de abril de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 112 para la obra: Camino Conservación Ruta L-45, Sector Escuela Llepo-Puente Los Hualles, Tramo Km.
+
+13,14700 a Km. 36,446, que figura a nombre de Guzmán Rosales Pablo de la Cruz, rol de avalúo 554-58, de la Comuna de Linares, VII Región, superficie 10,85 m2. La Comisión de Peritos con fecha 16 de septiembre de 2002 fijó el monto de la indemnización provisional en la cantidad de $42.302.- para el lote Nº 112. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
