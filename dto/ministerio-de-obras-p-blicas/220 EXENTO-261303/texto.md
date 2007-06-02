@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 220, de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 2, superficie 281 m², Rol Nº 1668-14, comuna de Paine, Región Metropolitana, para la obra "Reposición Puente Pintue Sector Pintue", y se acordó el valor de indemnización con su propietario Silvio del Carmen Arce Riveros, ascendente a la cantidad de $2.273.697.
+
+- Fiscal del Ministerio de Obras Públicas.
