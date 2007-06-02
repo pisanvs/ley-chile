@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 205, de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 33, superficie 155 m², Rol Nº 219-50, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 al Km. 12,80844", VIII Región, y se acordó el valor de la indemnización con su propietaria Elba Neira Salgado, ascendente a la cantidad de $342.657.-
+
+- Fiscal del Ministerio de Obras Públicas.
