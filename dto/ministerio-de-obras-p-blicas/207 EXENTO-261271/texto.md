@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 207, de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 80, superficie 393 m², Rol Nº 170-77, comuna de Curarrehue, IX Región, para la obra "Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, Sector Curarrehue - Puesco, Km. 116,88000 al Km. 136,76000, Tramo II, Km. 124,38000 al Km. 130,34000", y se acordó el valor de indemnización con su propietario Gustavo Manríquez Albornoz, ascendente a la cantidad de $904.058.
+
+- Fiscal del Ministerio de Obras Públicas.
