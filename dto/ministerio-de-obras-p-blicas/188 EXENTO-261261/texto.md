@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 188, de 30 de abril de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 5-B y 5-D para la obra:
+
+"Mejoramiento Ruta 150, Tramo I, Sector By-Pass Penco (eje principal)", que figuran a nombre de CBB Bosques Limitada, Rol de avalúo Nº 1280-86, comuna de Penco, VIII Región, superficies 68 m2 y 156 m2. La comisión de peritos fijó el monto provisional de la indemnización el 20 de septiembre de 2006 en la cantidad de $199.680, para el lote Nº5-B, y $425.756, para el lote Nº 5-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
