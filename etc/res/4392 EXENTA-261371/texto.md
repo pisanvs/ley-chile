@@ -1,0 +1,5 @@
+DISPONE EXPROPIACION DE INMUEBLE QUE INDICA NOTIFICACION
+
+Resolución exenta Nº 4.392, de 25 de mayo de 2007, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en calle Los Alerces, St 9 Mz B, Penco Oriente, Rol de Avalúo Nº 139-27, de la comuna de Penco, superficie aproximada 89,25 metros cuadrados de terreno, dentro polígono y linderos señalados en plano expropiación Nº S8R-21.232, de aparente dominio de Contreras Escobar, Víctor, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Sector Oriente y Construcción 83 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Roxana Abarzúa Gajardo, ingeniero constructor; Felipe Toledo Quijada y Alvaro Berríos San Martín, arquitectos, según informe de fecha 28 de febrero de 2007, fijó monto provisional indemnización en $821.903.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
