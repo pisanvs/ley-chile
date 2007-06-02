@@ -1,0 +1,3 @@
+Por decreto exento Nº 211, de 30 de abril de 2007, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto exento Nº 304, de 28 de marzo de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº 87, expropiado a Néstor Pérez Matus, con motivo de la obra Camino Río Bueno - Crucero - rol T-90-U y T-933, Km. 0.00 a Km. 20.900 (II parte). Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 12 de julio de 2000, ascendente a la cantidad de $1.548.000.
+
+- Fiscal del Ministerio de Obras Públicas.
