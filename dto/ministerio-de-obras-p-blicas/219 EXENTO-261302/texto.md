@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 219, de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 66-B, superficie 263,98 m², Rol E/T, comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca Km. 13,14000 a Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario Pedro Antonio Salazar Tapia, ascendente a la cantidad de $442.626.- para el lote Nº 66-B.
+
+- Fiscal del Ministerio de Obras Públicas.
