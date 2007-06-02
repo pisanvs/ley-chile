@@ -1,0 +1,3 @@
+Por decreto MOP Nº 229, de fecha 30 de marzo de 2007, se expropiaron los lotes de terreno Nºs. 28, 28-A y 28-B, superficies 2.761,37, 115,00 y 124,00 m², respectivamente, Rol Nº 3705-1, comuna de Talca, para la obra "Habilitación Avda. Circunvalación Río Claro en Talca, comuna de Talca, Provincia de Talca, VII Región" y se acordó el valor de la indemnización con su propietario Germán Inzulza Quezada, ascendente a la cantidad de $46.902.236.
+
+- Fiscal del Ministerio de Obras Públicas.
