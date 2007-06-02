@@ -1,0 +1,3 @@
+Por decreto MOP (Exento) Nº 214, de fecha 30 de abril de 2007, se expropió el lote de terreno Nº 1, superficie 1.020 m², Rol Nº 600-60, comuna de San Ignacio, para la obra "Fajas Adicionales, Canal Matriz Diguillín Larqui Km. 7,113 a Km. 7,331", IX Región, y se acordó el valor de la indemnización con su propietario Alejo del Carmen Quintana Morales y Otra, ascendente a la cantidad de $956.121.
+
+- Fiscal del Ministerio de Obras Públicas.
