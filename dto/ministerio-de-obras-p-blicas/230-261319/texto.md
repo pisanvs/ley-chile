@@ -1,0 +1,3 @@
+Por decreto MOP Nº 230, de fecha 30 de marzo de 2007, se expropió el lote de terreno Nº 78, superficie 7.028,82 m2, rol Nº 260-56, comuna de Salamanca, IV Región, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario Juan Rivera Orrego, ascendente a la cantidad de $5.487.332.
+
+- Fiscal del Ministerio de Obras Públicas.
