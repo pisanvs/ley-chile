@@ -2050,17 +2050,15 @@ DE LA SOCIEDAD
 
 #### Artículo 348
 
-La ley reconoce tres especies de sociedad:
+Las disposiciones de este Título regulan tres especies de sociedad:
 
-1a Sociedad colectiva;
+1ª. Sociedad colectiva;
 
-2a Sociedad anónima;
+2ª. Sociedad por acciones, y
 
-3a Sociedad en comandita.
+3ª. Sociedad en comandita.
 
-Reconoce también la asociación o cuentas en participación.
-
-> **Nota.** Ver LEY 3918, publicada el 14.03.1923, que dicta normas sobre Sociedades de Responsabilidad Limitada.
+Regulan también la asociación o cuentas en participación.
 
 ### 1. De la formación y prueba de la sociedad
 
@@ -2508,99 +2506,155 @@ La prescripción no tiene lugar cuando los socios verifican por sí mismos la li
 
 Las acciones de los acreedores contra el socio o socios liquidadores, considerados en esta última cualidad, y las que tienen los socios entre sí prescriben por el transcurso de los plazos que señala el Código Civil.
 
-### 8. De las sociedades anónimas
+### 8. De las Sociedades por Acciones
 
 #### Artículo 424
 
-DEROGADO
+La sociedad por acciones, o simplemente la "sociedad" para los efectos de este Párrafo, es una persona jurídica creada por una o más personas mediante un acto de constitución perfeccionado de acuerdo con los preceptos siguientes, cuya participación en el capital es representada por acciones.
+
+La sociedad tendrá un estatuto social en el cual se establecerán los derechos y obligaciones de los accionistas, el régimen de su administración y los demás pactos que, salvo por lo dispuesto en este Párrafo, podrán ser establecidos libremente. En silencio del estatuto social y de las disposiciones de este Párrafo, la sociedad se regirá supletoriamente y sólo en aquello que no se contraponga con su naturaleza, por las normas aplicables a las sociedades anónimas cerradas.
 
 #### Artículo 425
 
-DEROGADO
+La sociedad se forma, existe y prueba por un acto de constitución social escrito, inscrito y publicado en los términos del artículo siguiente, que se perfeccionará mediante escritura pública o por instrumento privado suscrito por sus otorgantes, y cuyas firmas sean autorizadas por notario público, en cuyo registro será protocolizado dicho instrumento. El cumplimiento oportuno de la inscripción y publicación del acto de constitución de la sociedad producirá efectos desde la fecha de la escritura o de la protocolización del instrumento privado, según corresponda.
+
+El acto de constitución de la sociedad irá acompañado de su estatuto, el que deberá expresar, a lo menos, las siguientes materias:
+
+1.- El nombre de la sociedad, que deberá concluir con la expresión "SpA";
+
+2.- El objeto de la sociedad, que será siempre considerado mercantil;
+
+3.- El capital de la sociedad y el número de acciones en que el capital es dividido y representado;
+
+4.- La forma como se ejercerá la administración de la sociedad y se designarán sus representantes; con indicación de quienes la ejercerán provisionalmente, en su caso, y
+
+5.- La duración de la sociedad, la cual podrá ser indefinida y, si nada se dijere, tendrá este carácter.
 
 #### Artículo 426
 
-DEROGADO
+Dentro del plazo de un mes contado desde la fecha del acto de constitución social, un extracto del mismo, autorizado por el notario respectivo, deberá inscribirse en el Registro de Comercio correspondiente al domicilio de la sociedad y publicarse por una sola vez en el Diario Oficial.
+
+El extracto deberá expresar:
+
+1.- El nombre de la sociedad;
+
+2.- El nombre de los accionistas concurrentes al instrumento de constitución;
+
+3.- El objeto social;
+
+4.- El monto a que asciende el capital suscrito y pagado de la sociedad, y
+
+5.- La fecha de otorgamiento, el nombre y domicilio del notario que autorizó la escritura o que protocolizó el instrumento privado de constitución que se extracta, así como el registro y número de rol o folio en que se ha protocolizado dicho documento.
 
 #### Artículo 427
 
-DEROGADO
+Las disposiciones del estatuto social serán modificadas por acuerdo de la junta de accionistas, del que se dejará constancia en un acta que deberá ser protocolizada o reducida a escritura pública. Sin embargo, no se requerirá la celebración de la junta antedicha si la totalidad de los accionistas suscribieren una escritura pública o un instrumento privado protocolizado en que conste tal modificación. Un extracto del documento de modificación o del acta respectiva, según sea el caso, será inscrito y publicado en la misma forma establecida en el artículo precedente. El extracto deberá hacer referencia al contenido de la reforma sólo cuando se haya modificado alguna de las materias señaladas en dicho artículo.
 
 #### Artículo 428
 
-DEROGADO
+Sin perjuicio de lo dispuesto en los artículos anteriores, si se hubiere omitido alguno de los requisitos y menciones en ellos establecidos, se aplicará lo dispuesto en los artículos 6° y 6°A de la ley N° 18.046.
+
+El saneamiento de las nulidades que afecten la constitución y modificaciones de sociedades por acciones regidas por el presente Párrafo se efectuará conforme lo dispuesto por la ley N° 19.499.
+
+Si de acuerdo a lo dispuesto en dichas normas se declara nula la sociedad o no es procedente su saneamiento, los accionistas podrán liquidar por sí mismos la sociedad de hecho o designar uno o más liquidadores.
 
 #### Artículo 429
 
-DEROGADO
+Los accionistas sólo serán responsables hasta el monto de sus respectivos aportes en la sociedad.
 
 #### Artículo 430
 
-DEROGADO
+La sociedad por acciones que durante más de 90 días seguidos reúna los requisitos de los números 1) ó 2) del inciso segundo del artículo 2° de la ley N° 18.046, por el solo ministerio de la ley se transformará en una sociedad anónima abierta, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
 
 #### Artículo 431
 
-DEROGADO
+La sociedad llevará un registro en el que se anotará, a lo menos, el nombre, domicilio y cédula de identidad o rol único tributario de cada accionista, el número de acciones de que sea titular, la fecha en que éstas se hayan inscrito a su nombre y tratándose de acciones suscritas y no pagadas, la forma y oportunidades de pago de ellas. Igualmente, en el Registro deberá inscribirse la constitución de gravámenes y de derechos reales distintos al dominio. En caso de que algún accionista transfiera el todo o parte de sus acciones, deberá anotarse esta circunstancia en el registro de que trata este artículo.
+
+Dicho registro podrá llevarse por cualquier medio, siempre que éste ofrezca seguridad de que no podrá haber intercalaciones, supresiones u otra adulteración que pueda afectar su fidelidad, y que, además, permita el inmediato registro o constancia de las anotaciones que deban hacerse y estará, en todo tiempo, disponible para su examen por cualquier accionista o administrador de la sociedad.
+
+Los administradores y el gerente general de la sociedad serán solidariamente responsables de los perjuicios que causaren a accionistas y a terceros con ocasión de la falta de fidelidad o vigencia de las informaciones contenidas en el registro a que se refiere este artículo.
 
 #### Artículo 432
 
-DEROGADO
+Si el nombre de una sociedad fuere idéntico o semejante a otra ya existente, ésta tendrá derecho a demandar la modificación del nombre de aquélla mediante juicio sumario.
 
 #### Artículo 433
 
-DEROGADO
+La sociedad deberá tener un domicilio, pero si su indicación se hubiere omitido en la escritura social, se entenderá domiciliada en el lugar de otorgamiento de ésta.
 
 #### Artículo 434
 
-DEROGADO
+El capital de la sociedad deberá ser fijado de manera precisa en el estatuto y estará dividido en un número determinado de acciones nominativas. El estatuto podrá establecer que las acciones de la sociedad sean emitidas sin imprimir láminas físicas de dichos títulos.
+
+Los aumentos de capital serán acordados por los accionistas, sin perjuicio que el estatuto podrá facultar a la administración en forma general o limitada, temporal o permanente, para aumentar el capital con el objeto de financiar la gestión ordinaria de la sociedad o para fines específicos.
+
+El capital social y sus posteriores aumentos deberán quedar totalmente suscritos y pagados en el plazo que indiquen los estatutos. Si nada señalaren al respecto, el plazo será de cinco años, contados desde la fecha de constitución de la sociedad o del aumento respectivo, según corresponda. Si no se pagare oportunamente al vencimiento del plazo correspondiente, el capital social quedará reducido al monto efectivamente suscrito y pagado. Salvo disposición en contrario en los estatutos, las acciones cuyo valor no se encuentre totalmente pagado, no gozarán de derecho alguno.
 
 #### Artículo 435
 
-DEROGADO
+El estatuto social podrá establecer porcentajes o montos mínimos o máximos del capital social que podrá ser controlado por uno o más accionistas, en forma directa o indirecta. En caso de existir tales normas, el estatuto deberá contener disposiciones que regulen los efectos y establezcan las obligaciones o limitaciones que nazcan para los accionistas que quebranten dichos límites, según sea el caso. En su defecto, dichas estipulaciones se tendrán por no escritas.
+
+El estatuto también podrá establecer que bajo determinadas circunstancias se pueda exigir la venta de las acciones a todos o parte de los accionistas, sea a favor de otro accionista, de la sociedad o de terceros. En caso de existir tales normas, el estatuto deberá contener disposiciones que regulen los efectos y establezcan las obligaciones y derechos que nazcan para los accionistas. En su defecto, dichas estipulaciones se tendrán asimismo por no escritas.
 
 #### Artículo 436
 
-DEROGADO
+Las acciones pueden ser ordinarias o preferidas. El estatuto social deberá establecer en forma precisa las cargas, obligaciones, privilegios o derechos especiales que afecten o de que gocen una o más series de acciones. No es de la esencia de las preferencias su vinculación a una o más limitaciones en los derechos de que pudieran gozar las demás acciones.
 
 #### Artículo 437
 
-DEROGADO
+Cada accionista dispondrá de un voto por cada acción que posea o represente. Sin embargo, el estatuto podrá contemplar series de acciones sin derecho a voto, con derecho a voto limitado o a más de un voto por acción; en cuyo caso, deberán determinar la forma de computar dichas acciones para el cálculo de los quórum.
 
 #### Artículo 438
 
-DEROGADO
+La sociedad podrá adquirir y poseer acciones de su propia emisión, salvo en cuanto esté prohibido por el estatuto social. Con todo, las acciones de propia emisión que se encuentren bajo el dominio de la sociedad, no se computarán para la constitución del quórum en las asambleas de accionistas o aprobar modificaciones del estatuto social, y no tendrán derecho a voto, dividendo o preferencia en la suscripción de aumentos de capital.
+
+Las acciones adquiridas por la sociedad deberán enajenarse dentro del plazo que establezca el estatuto. Si éste nada señalare al respecto, deberán enajenarse en el plazo de un año a contar de su adquisición. Si dentro del plazo establecido, las acciones no se enajenan, el capital quedará reducido de pleno derecho y las acciones se eliminarán del registro.
 
 #### Artículo 439
 
-DEROGADO
+La sociedad podrá emitir acciones de pago, que se ofrecerán al precio que determinen libremente los accionistas o quien fuere delegado al efecto por ellos. No será obligatorio que dicha oferta se realice preferentemente a los accionistas.
+
+Sin embargo, el estatuto social podrá establecer que las opciones para suscribir acciones de aumento de capital de la sociedad o de valores convertibles en acciones de la sociedad, o de cualesquiera otros valores que confieran derechos futuros sobre éstas, sean de pago o liberadas, deban ser ofrecidos, a lo menos por una vez, preferentemente a los accionistas, a prorrata de las acciones que posean.
+
+Mientras estuviere pendiente una emisión de bonos convertibles en acciones, deberá permanecer vigente un margen no suscrito del aumento de capital por la cantidad de acciones que sea necesaria para cumplir con la opción, cuando ésta sea exigible conforme a las condiciones de la emisión de los bonos respectivos.
 
 #### Artículo 440
 
-DEROGADO
+Todo acuerdo de reducción de capital deberá ser adoptado por la mayoría establecida en el estatuto. En silencio de éste, se requerirá el voto conforme de la unanimidad de los accionistas.
+
+No podrá procederse al reparto o devolución de capital o a la adquisición de acciones con que dicha disminución pretenda llevarse a efecto, sino desde que quede perfeccionada la modificación estatutaria.
 
 #### Artículo 441
 
-DEROGADO
+Las diferencias que ocurran entre los accionistas, los accionistas y la sociedad o sus administradores o liquidadores, y la sociedad y sus administradores o liquidadores, deberán ser resueltas por medio de arbitraje. El estatuto deberá indicar:
+
+1.- El tipo de arbitraje y el número de integrantes del tribunal arbitral. En silencio del estatuto, conocerá de las disputas en única instancia un solo árbitro de carácter mixto, que no obstante actuar como arbitrador en cuanto al procedimiento, resolverá conforme a derecho, y
+
+2.- El nombre o la modalidad de designación de los árbitros y sus reemplazantes. En silencio del estatuto, los árbitros serán designados por el tribunal de justicia del domicilio social.
 
 #### Artículo 442
 
-DEROGADO
+En caso que el estatuto establezca que la sociedad deba pagar un dividendo por un monto fijo, determinado o determinable, a las acciones de una serie específica, éstos se pagarán con preferencia a los dividendos a que pudieren tener derecho las demás acciones. Salvo que el estatuto señale algo distinto, si las utilidades no fueren suficientes para cubrir el dividendo fijo obligatorio, el accionista podrá optar por alguna de las siguientes opciones:
+
+1.- Registrar el saldo insoluto en una cuenta especial de patrimonio creada al efecto y que acumulará los dividendos adeudados y por pagar. La sociedad no podrá pagar dividendos a las demás acciones que no gocen de la preferencia de dividendo fijo obligatorio, hasta que la cuenta de dividendos por pagar no haya sido completamente saldada. En caso de disolución de la sociedad, el entero de la cuenta de dividendos por pagar tendrá preferencia a las distribuciones que deban hacerse, o
+
+2.- Ejercer el derecho a retiro respecto de las acciones preferidas a partir de la fecha en que se declare la imposibilidad de distribuir el dividendo. Si el estatuto no señalare otra cosa, el precio a pagar será el valor de rescate si lo hubiere o en su defecto el valor libros de la acción, más la suma de los dividendos adeudados a la fecha de ejercer el derecho de retiro.
 
 #### Artículo 443
 
-DEROGADO
+En caso que la sociedad deba pagar dividendos provenientes de las utilidades de unidades de negocios o activos específicos de ésta, deberá llevar cuentas separadas respecto de ellos y las utilidades sobre las que se pagarán dichos dividendos serán calculadas exclusivamente sobre la base de esta contabilidad, sin importar los resultados generales de la sociedad. Por su parte, la sociedad no computará las cuentas separadas para el cálculo de sus utilidades generales, en relación con el pago de dividendos ordinarios a los accionistas. Las ganancias provenientes de las unidades de negocios o activos separados que no sean distribuidas como dividendos se integrarán a los resultados generales del ejercicio correspondiente.
 
 #### Artículo 444
 
-DEROGADO
+Salvo que el estatuto disponga lo contrario, la sociedad no se disolverá por reunirse todas las acciones en un mismo accionista.
 
 #### Artículo 445
 
-DEROGADO
+El estatuto establecerá los medios de comunicación entre la sociedad o los accionistas, siempre que den razonable seguridad de su fidelidad. En silencio del estatuto, se utilizará el correo certificado. El envío deficiente no afectará la validez de la citación, pero la administración responderá de los perjuicios que causare a los accionistas.
 
 #### Artículo 446
 
-DEROGADO
+En los traspasos de acciones deberá constar la declaración del cesionario en el sentido que conoce la normativa legal que regula este tipo social, el estatuto de la sociedad y las protecciones que en ellos puedan o no existir respecto del interés de los accionistas. La omisión de esta declaración no invalidará el traspaso, pero hará responsable al cedente de los perjuicios que ello irrogue.
 
 #### Artículo 447
 
@@ -8172,6 +8226,12 @@ Los reajustes y los intereses, en su caso, gozarán de iguales preferencias y pr
 
 La declaración de quiebra impide toda compensación que no hubiere operado antes por el ministerio de la ley, entre las obligaciones recíprocas del fallido y acreedores, salvo que se trate de obligaciones conexas, derivadas de un mismo contrato o de una misma negociación y aunque sean exigibles en diferentes plazos.
 
+Para efectos de lo establecido en el inciso anterior, se entenderá que revisten el carácter de obligaciones conexas aquellas que, aun siendo en distinta moneda, emanen de operaciones de derivados, tales como futuros, opciones, swaps, forwards u otros instrumentos o contratos de derivados suscritos entre las mismas partes, en una o más oportunidades, bajo ley chilena o extranjera, al amparo de un mismo convenio marco de contratación de los reconocidos por el Banco Central de Chile y que incluyan un acuerdo de compensación en caso de quiebra o de liquidación forzosa. El Banco Central de Chile podrá determinar los términos y condiciones generales de los convenios marco de contratación referidos, en que sea parte una empresa bancaria o cualquier otro inversionista institucional, considerando para ello los convenios de general aceptación en los mercados internacionales.
+
+Cada una de las obligaciones que emanen de operaciones de derivados efectuadas en la forma antedicha, se entenderá de plazo vencido, líquida y actualmente exigible a la fecha de la declaración de quiebra y su valor se calculará a dicha fecha de acuerdo a sus términos y condiciones. Luego, las compensaciones que operen por aplicación del inciso precedente, serán calculadas y ejecutadas simultáneamente en dicha fecha.
+
+En caso que una de las partes sea un banco establecido en Chile, sólo procederá dicha compensación tratándose de operaciones con productos derivados cuyos términos y condiciones se encuentren autorizados por el Banco Central de Chile.
+
 #### Artículo 70°
 
 Todos los juicios pendientes contra el fallido ante otros tribunales de cualquiera jurisdicción y que puedan afectar sus bienes, se acumularán al juicio de la quiebra.
@@ -8630,7 +8690,7 @@ La suspensión del servicio en contravención a lo dispuesto en el inciso primer
 
 #### Artículo 133°
 
-En la solicitud que se presente, los acreedores indicarán, para los efectos del artículo 131°, lo que se les deba por concepto de capital e intereses y acompañarán los títulos justificativos de sus créditos, debiendo entregar en secretaría dos copias simples de la solicitud y de sus anexos. Se aplicará, respecto de las copias de la solicitud y de sus anexos, lo preceptuado en los incisos tercero, cuarto y quinto del artículo 31° del Código de Procedimiento Civil.
+En la solicitud que se presente, los acreedores indicarán, para los efectos del artículo 131°, lo que se les deba por concepto de capital e intereses y acompañarán los títulos justificativos de sus créditos así como su subordinación, si ésta existiese, debiendo entregar en secretaría dos copias simples de la solicitud y de sus anexos. Se aplicará, respecto de las copias de la solicitud y de sus anexos, lo preceptuado en los incisos tercero, cuarto y quinto del artículo 31° del Código de Procedimiento Civil.
 
 #### Artículo 134°
 
@@ -8654,7 +8714,7 @@ La declaración se notificará por aviso dentro de quinto día.
 
 El síndico, los acreedores y el fallido podrán interponer demanda de impugnación contra los créditos, desde el momento en que se haya agregado a los autos la respectiva solicitud y hasta quince días después de notificada la resolución que da por cerrado el procedimiento de verificación.
 
-El síndico y los acreedores podrán deducir demanda de impugnación, también dentro del mismo plazo, en contra de las preferencias reclamadas.
+El síndico y los acreedores podrán deducir demanda de impugnación, también dentro del mismo plazo, en contra de las preferencias reclamadas. En el caso de los créditos subordinados, las demandas de impugnación relacionadas con tal subordinación sólo podrán ser deducidas entre los acreedores a quienes afecta la respectiva subordinación. Sin perjuicio de lo anterior, el síndico, los demás acreedores y el fallido, pueden impugnar los créditos y preferencias en conformidad a las reglas generales vigentes. La tramitación de la demanda de impugnación, referida a la subordinación, no impedirá el reparto a los demás acreedores comunes no comprendidos en la subordinación respectiva.
 
 #### Artículo 138°
 
@@ -8710,7 +8770,7 @@ El fiador que haya verificado el pago parcial entrará a la quiebra por la suma 
 
 #### Artículo 147°
 
-Los acreedores serán pagados en la forma y orden de preferencia establecidos en las leyes.
+Los acreedores serán pagados en la forma y orden de preferencia establecidos en las leyes y, en el caso de los acreedores valistas, con pleno respeto a la subordinación de créditos a que se refiere el artículo 2489 del Código Civil. Para su eficacia, la subordinación deberá ser alegada al momento de la verificación del crédito por parte del acreedor beneficiario o bien notificarse al síndico, si se establece en una fecha posterior.
 
 #### Artículo 148°
 
@@ -8753,6 +8813,8 @@ Los concursos especiales de hipotecarios que se formen sin declaración de quieb
 #### Artículo 151°
 
 Toda vez que se reúna la cantidad suficiente para hacer a los acreedores comunes un abono no inferior al cinco por ciento, reservando lo necesario para los gastos de la quiebra, para responder a los créditos impugnados y a los de los acreedores residentes en el extranjero que no hayan alcanzado a comparecer, el síndico hará ese reparto, conforme a la nómina formada con arreglo al artículo 143°. El reparto será anunciado por aviso y por carta certificada a todo acreedor.
+
+En el caso de créditos afectos a subordinación, el o los acreedores subordinados contribuirán al pago de sus respectivos acreedores beneficiarios, a prorrata, con lo que les correspondiere en dicho reparto de su crédito subordinado.
 
 #### Artículo 152°
 
