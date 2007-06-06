@@ -82,7 +82,7 @@ Superintendencia.
 
 Son atribuciones y obligaciones de la Superintendencia:
 
-a) Autorizar la existencia, aprobar los estatutos y sus modificaciones, aprobar la prórroga del plazo de duración y la disolución anticipada de las sociedades anónimas nacionales de seguros y de reaseguros teniendo a la vista los documentos que acrediten que han cumplido y están en condiciones de cumplir las obligaciones de la presente ley;
+a) Autorizar la existencia, aprobar los estatutos y sus modificaciones, aprobar la prórroga del plazo de duración y la disolución anticipada de las sociedades anónimas nacionales de seguros y de reaseguros; autorizar el traspaso de una participación significativa, teniendo a la vista los documentos que acrediten que han cumplido y están en condiciones de cumplir las obligaciones de la presente ley;
 
 b) Fiscalizar las operaciones de las compañías de seguros, hacer arqueos, pedir la ejecución y presentación de balances y otros estados financieros e informes en las fechas que estime conveniente, revisar sus libros y sus carteras y, en general, solicitar todos los datos y antecedentes que le permitan imponerse de su estado, desarrollo y solvencia y de la forma en que cumplen las prescripciones de ésta y de las demás leyes vigentes, y dictar normas generales para los efectos de valorizar sus inversiones pudiendo ordenar para estos efectos las demás medidas que fueren menester;
 
@@ -110,7 +110,7 @@ g) Mantener un registro de los auxiliares del comercio de seguros, en el que deb
 
 h) DEROGADO.
 
-i) Resolver, en casos a su juicio calificados, en el carácter de árbitro arbitrador sin ulterior recurso, las dificultades que se susciten entre compañía y compañía, entre éstas y sus intermediarios o entre éstas o el asegurado o beneficiario en su caso, cuando los interesados de común acuerdo lo soliciten. Sin embargo, el asegurado o el beneficiario podrán por sí solos solicitar al árbitro arbitrador la resolución de las dificultades que se produzcan, cuando el monto de la indemnización reclamada no sea superior a 120 unidades de fomento;
+i) Resolver, en casos a su juicio calificados, en el carácter de árbitro arbitrador sin ulterior recurso, las dificultades que se susciten entre compañía y compañía, entre éstas y sus intermediarios o entre éstas o el asegurado o beneficiario en su caso, cuando los interesados de común acuerdo lo soliciten. Sin embargo, el asegurado o el beneficiario podrán por sí solos solicitar al árbitro arbitrador la resolución de las dificultades que se produzcan, cuando el monto de la indemnización reclamada no sea superior a 120 unidades de fomento o a 500 unidades de fomento cuando se trate de seguros obligatorios;
 
 j) DEROGADO;
 
@@ -132,11 +132,41 @@ Disposiciones generales
 
 El comercio de asegurar riesgos a base de primas, sólo podrá hacerse en Chile por sociedades anónimas nacionales de seguros y reaseguros, que tengan por objeto exclusivo el desarrollo de dicho giro y las actividades que sean afines o complementarias a éste, que autorice la Superintendencia mediante norma de carácter general. Las entidades aseguradoras del segundo grupo podrán constituir filiales Administradoras Generales de Fondos, a que se refiere el Título XXVII de la ley Nº 18.045, sujetándose a las normas generales que establezca la Superintendencia.
 
-Sin perjuicio de lo anterior, cualquier persona natural o jurídica podrá contratar libremente en el extranjero, de conformidad a la normativa sobre operaciones de cambios internacionales, toda clase de seguros, a excepción de los seguros obligatorios establecidos por ley y aquellos contemplados en el decreto ley N° 3.500, de 1980. Asimismo, las entidades aseguradoras y reaseguradoras podrán suscribir riesgos provenientes del extranjero.
+Sin perjuicio de lo anterior, las entidades aseguradoras extranjeras establecidas en el territorio de un país con el cual Chile mantenga vigente un tratado internacional en el que se haya permitido la contratación de seguros de transporte marítimo internacional, aviación comercial internacional y mercancías en tránsito internacional desde ese país, podrán comercializar en Chile tales seguros. En todo caso, las compañías a las que hace referencia este inciso deberán cumplir con los términos y condiciones establecidos en los respectivos tratados y en la legislación nacional.
+
+Cualquier persona natural o jurídica podrá contratar libremente en el extranjero toda clase de seguros, a excepción de los seguros obligatorios establecidos por ley y aquellos contemplados en el decreto ley N° 3.500, de 1980, los que sólo podrán contratarse con compañías establecidas en el territorio nacional. Asimismo, las entidades aseguradoras y reaseguradoras podrán suscribir riesgos provenientes del extranjero.
+
+En los casos señalados en los incisos segundo y tercero precedentes, la contratación de dichos seguros quedará sujeta a la normativa sobre operaciones de cambios internacionales.
 
 La contratación de seguros con compañías no establecidas en el país estará gravada, sin perjuicio de los que se establezcan en otras leyes, con los mismos tributos que puedan afectar a los seguros contratados con compañías nacionales.
 
 Además, las compañías de seguros y reaseguros, podrán tomar sobre sí el riesgo de pérdida patrimonial que, las entidades prestadoras de los beneficios contemplados en las leyes Nºs 16.744, 18.469, 18.833 y 18.933, asuman con motivo de las prestaciones que otorguen.
+
+#### Artículo 4° bis
+
+No obstante lo dispuesto en el artículo anterior, las compañías constituidas en el extranjero podrán establecer una sucursal en el país, para lo cual deberán establecerse como una agencia del Título XI de la ley N° 18.046 y obtener la autorización señalada en el Título XIII de la misma ley.
+
+Para obtener la autorización de establecimiento de una sucursal, la compañía de seguros extranjera deberá acreditar a la Superintendencia que la entidad cumple las disposiciones que esta ley establece para la autorización de compañías de seguros.
+
+La autorización de establecimiento de la sucursal, como cualquier modificación o revocación de la misma, constará en resolución de la Superintendencia, la cual se sujetará a los requisitos de publicidad y registro dispuestos en los artículos 126 y 127 de la ley N° 18.046.
+
+Las compañías de seguros extranjeras autorizadas en los términos de los incisos anteriores gozarán de los mismos derechos y estarán sujetas a las mismas obligaciones que las compañías de seguros nacionales de igual grupo, salvo disposición legal en contrario.
+
+El patrimonio que las compañías de seguros extranjeras asignen a su sucursal en el país, deberá ser efectivamente internado y convertido a moneda de curso legal en conformidad con alguno de los sistemas autorizados por la ley o por el Banco Central de Chile. Los aumentos de capital que no provengan de la capitalización de reservas tendrán el mismo tratamiento que el capital inicial.
+
+Ninguna compañía de seguros extranjera autorizada en los términos de los incisos anteriores podrá invocar derechos o privilegios derivados de su nacionalidad, respecto a las operaciones que efectúe en Chile.
+
+Toda contienda que se suscite en relación con las operaciones de la sucursal en el país, cualquiera que fuere su naturaleza, será resuelta por los tribunales chilenos, en conformidad con las leyes de la República.
+
+Las operaciones entre una sucursal y su casa matriz u otras compañías relacionadas, se considerarán para todos los efectos realizadas entre entidades distintas. Lo anterior es sin perjuicio de la responsabilidad de la compañía de seguros extranjera, de acuerdo a las reglas generales, por las obligaciones que contraiga la sucursal que haya establecido en Chile.
+
+Los acreedores domiciliados en Chile de la sucursal de la compañía de seguros extranjera, por sus créditos convenidos en el país, gozarán de preferencia sobre los bienes y derechos de ésta situados en el territorio nacional.
+
+Para la administración de sus negocios, las compañías de seguros extranjeras autorizadas en los términos de los incisos anteriores no estarán obligadas a mantener un Directorio, pero deberán tener un agente ampliamente autorizado para que las represente con todas las facultades legales.
+
+Las responsabilidades y sanciones que afectan al Directorio de las entidades aseguradoras, o a los miembros de éste, corresponderán y podrán hacerse efectivas sobre el agente de las compañías de seguros extranjeras autorizadas en los términos de los incisos anteriores.
+
+Las remesas de las utilidades líquidas que obtengan las sucursales de las compañías de seguros extranjeras se harán previa autorización de la Superintendencia y con sujeción a las disposiciones legales vigentes y a las normas que imparta el Banco Central de Chile, y siempre que aquéllas cumplan los requerimientos patrimoniales y de solvencia establecidos en esta ley.
 
 #### Artículo 5°
 
@@ -164,9 +194,13 @@ La constitución legal de las sociedades anónimas aseguradoras y reaseguradoras
 
 Tales entidades, estén o no inscritas en el Registro de Valores a que se refiere la ley N° 18.045, de Mercado de Valores, estarán sujetas a las obligaciones de información previstas en el artíuclo 10° de dicha ley.
 
+#### Artículo 9° bis
+
+Las personas naturales o jurídicas que, personalmente o en conjunto, sean, conforme al artículo 97 de la ley N° 18.045, controladoras de una compañía de seguros del segundo grupo o que posean individualmente más del 10% de sus acciones, deberán enviar a la Superintendencia información fidedigna acerca de su situación financiera. La Superintendencia, mediante norma de carácter general, determinará la periodicidad y contenido de esta información, que no podrá exceder de la que exige a las sociedades anónimas abiertas.
+
 #### Artículo 10
 
-El monto de los seguros, de las primas y de las indemnizaciones, se expresará en unidades de fomento, a menos que los contratos respectivos se pacten en moneda extranjera con arreglo a las disposiciones legales vigentes. Sin perjuicio de lo anterior, podrán pactarse otros sistemas de reajustabilidad siempre que hubieren sido autorizados por la Superintendencia.
+El monto de los seguros, de las primas y de las indemnizaciones, se expresará en unidades de fomento, a menos que los contratos respectivos se pacten en moneda extranjera con arreglo a las disposiciones legales vigentes. Sin perjuicio de lo anterior, la Superintendencia podrá autorizar, mediante norma de carácter general, que se pacten en otros sistemas de reajustabilidad o en moneda de curso legal.
 
 El valor de la unidad de fomento que se considerará para el pago de las primas e indemnizaciones será el vigente al momento del pago efectivo de las mismas.
 
@@ -230,7 +264,7 @@ El reaseguro se podrá efectuar con las entidades señaladas precedentemente, di
 
 1) No encontrarse inscritos en el Registro de Corredores de Seguros de la Superintendencia;
 
-2) Acreditar la contratación de una póliza de seguros de garantía del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad de corredor de reaseguro en Chile y, especialmente, por los perjuicios por errores u omisiones que puedan ocasionar a quienes contraten por su intermedio, la que deberá permanecer vigente hasta la extinción de sus obligaciones contraídas como corredor.
+2) Acreditar la contratación de una póliza de seguros para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad de corredor de reaseguro en Chile y, especialmente, por los perjuicios por errores u omisiones que puedan ocasionar a quienes contraten por su intermedio, la que deberá permanecer vigente hasta la extinción de sus obligaciones contraídas como corredor.
 
 El monto asegurado de esta póliza no deberá ser inferior a la suma más alta entre 20.000 unidades de fomento y un tercio de la prima intermediada en Chile en el año inmediatamente anterior.
 
@@ -322,9 +356,13 @@ b) Depósitos a plazo, letras de crédito hipotecarias, bonos y otros títulos d
 
 c) Bonos, pagarés y otros títulos de deuda o crédito, emitidos por empresas públicas o privadas;
 
-d) Participación en convenios de créditos en los que concurran dos o más bancos o instituciones financieras, conforme a las normas de carácter general que dicte la Superintendencia, debiendo contemplarse en éstas el riesgo de crédito del deudor, y
+d) Participación en convenios de créditos en los que concurran dos o más bancos o instituciones financieras, conforme a las normas de carácter general que dicte la Superintendencia, debiendo contemplarse en éstas el riesgo de crédito del deudor;
 
-e) Mutuos hipotecarios endosables, de los señalados en el Título V de esta ley.
+e) Mutuos hipotecarios endosables, de los señalados en el Título V de esta ley, y
+
+f) Contratos de mutuo o préstamo de dinero otorgados a personas naturales o jurídicas, ya sea por la misma compañía, por otras compañías o por bancos o instituciones financieras, que consten en instrumentos que tengan mérito ejecutivo. Los créditos de que trata esta letra no podrán concederse directa o indirectamente a personas relacionadas de la compañía, según este término se define en el artículo 100 de la ley Nº 18.045.
+
+Para los instrumentos señalados en esta letra, la Superintendencia establecerá, mediante una norma de carácter general, la forma en la que las compañías que otorguen los créditos de que trata dicha letra deberán constituir provisiones y la manera de castigar aquellos créditos incobrables y les será aplicable lo establecido en el artículo 31, número 4, de la Ley sobre Impuesto a la Renta, contenida en el decreto ley N° 824, de 1974. De igual forma, la Superintendencia podrá establecer, mediante normas de carácter general, límites, plazos y requisitos que las compañías deberán cumplir al otorgar estos créditos.
 
 2. Inversiones de Renta Variable:
 
@@ -372,11 +410,15 @@ d) Avance a tenedores de sus pólizas de seguros de vida, hasta por el monto del
 
 Además, las compañías aceptantes podrán respaldar sus reservas técnicas con:
 
-e) Crédito no vencido por prima no devengada otorgado a las compañías cedentes del primer grupo en virtud de contratos de reaseguro, para respaldar hasta el total de las reservas de riesgo en curso, y
+e) Préstamos otorgados a asegurados de pólizas de seguro de crédito, a que se refiere el artículo 11, que cumplan con los requisitos, condiciones y límites que establezca la Superintendencia mediante norma de carácter general, hasta por el monto del crédito asegurado.
 
-f) Crédito no vencido por prima devengada otorgado a las compañías cedentes del primer grupo en virtud de contratos de reaseguro, para respaldar hasta el total de las reservas de siniestros.
+f) Crédito no vencido por prima no devengada otorgado a las compañías cedentes del primer grupo en virtud de contratos de reaseguro, para respaldar hasta el total de las reservas de riesgo en curso, y
 
-6. Productos derivados financieros, conforme a los límites y condiciones que establezca la Superintendencia, por norma de carácter general. El límite máximo de inversión que fije la Superintendencia no podrá ser inferior a un 0,5% ni superior a un 3% de las reservas técnicas y patrimonio de riesgo de las compañías,
+g) Crédito no vencido por prima devengada otorgado a las compañías cedentes del primer grupo en virtud de contratos de reaseguro, para respaldar hasta el total de las reservas de siniestros.
+
+6. Productos derivados financieros, conforme a los límites y condiciones que establezca la Superintendencia, por norma de carácter general. El límite máximo de inversión que fije la Superintendencia no podrá ser inferior a un 0,5% ni superior a un 3% de las reservas técnicas y patrimonio de riesgo de las compañías.
+
+7. Otras inversiones que cumplan con los requisitos, condiciones y límites que establezca la Superintendencia mediante norma de carácter general, hasta por un monto máximo de inversión que no podrá exceder del 5% de las reservas técnicas y del patrimonio de riesgo de las compañías.
 
 Las inversiones señaladas precedentemente, para ser representativas de reservas técnicas y patrimonio de riesgo, deberán cumplir los siguientes requisitos:
 
@@ -420,23 +462,25 @@ b) entre un 3% y un 5% del total, según lo establezca la Superintendencia por n
 
 c) 30% del total, en aquellos instrumentos de la letra e) del Nº 1, para compañías del segundo grupo, y 30% sólo el patrimonio de riesgo, para compañías del primer grupo;
 
-d) 40% del total para la suma de la inversión en instrumentos del Nº2;
+d) entre un 1% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en instrumentos de la letra f) del Nº 1. En todo caso, no se podrá otorgar un crédito a una misma persona, directa o indirectamente, por una suma que exceda el 5% del límite antedicho. Con todo, este límite de concentración no podrá exceder del equivalente a 10.000 unidades de fomento. Sin perjuicio de las sanciones que correspondan, los créditos en exceso de los límites fijados en este párrafo, no serán representativos de reservas técnicas y patrimonio de riesgo;
 
-e) 5% del total, en aquellos instrumentos de la letra a) del Nº2, que no cumplan el requisito de presencia bursátil que establezca, por norma de carácter general, la Superintendencia;
+e) 40% del total para la suma de la inversión en instrumentos del Nº2;
 
-f) 10% del total, en aquellos fondos de inversión de la letra c) del Nº2;
+f) 5% del total, en aquellos instrumentos de la letra a) del Nº2, que no cumplan el requisito de presencia bursátil que establezca, por norma de carácter general, la Superintendencia;
 
-g) 20% del total, para la suma de la inversión en aquellos instrumentos del Nº3;
+g) 10% del total, en aquellos fondos de inversión de la letra c) del Nº2;
 
-h) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº3, que presenten clasificación de riesgo internacional, inferior a BBB o N-3, o su equivalente según corresponda a instrumentos de largo y corto plazo, respectivamente;
+h) 20% del total, para la suma de la inversión en aquellos instrumentos del Nº3;
 
-i) 10°% del total, para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº3;
+i) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº3, que presenten clasificación de riesgo internacional, inferior a BBB o N-3, o su equivalente según corresponda a instrumentos de largo y corto plazo, respectivamente;
 
-j) 3% del total en aquellos activos de la letra f) del Nº3, y
+j) 10°% del total, para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº3;
 
-k) 20% del total, en aquellos activos del Nº4, para compañías del segundo grupo, y 30% sólo del patrimonio de riesgo, para compañías del primer grupo.
+k) 3% del total en aquellos activos de la letra f) del Nº3;
 
-Para efectos de los límites de las letras g) e i) precedentes, no se computará la reserva del Nº 6 del artículo 20 y su correspondiente inversión.
+l) 20% del total, en aquellos activos del Nº4, para compañías del segundo grupo, y 30% sólo del patrimonio de riesgo, para compañías del primer grupo, y
+
+m) 20% del total, en aquellos activos de la letra e) del Nº 5.
 
 2. Límites conjuntos.
 
@@ -472,7 +516,7 @@ d) 40% del total, para la suma de la inversión en instrumentos de las letras
 
 - **c)** del Nºl, emitidos por sociedades securitizadoras de las señaladas en el Título XVIII de la ley Nº 18.045, que estén respaldados por títulos de crédito transferibles, relacionados con el sector inmobiliario, para compañías del segundo grupo, y 50% sólo del patrimonio de riesgo, para compañías del primer grupo;
 
-e) 5% del total, para la suma de la inversión en los instrumentos comprendidos, en las letras b) y c) del Nº3, emitidos o garantizados por una misma entidad. Este límite se rebajará a la mitad, cuando el emisor sea persona relacionada a la compañía, y
+e) 5% del total, para la suma de la inversión en los instrumentos comprendidos, en las letras b) y c) del Nº3, emitidos o garantizados por una misma entidad. Este límite se rebajará a la mitad, cuando el emisor sea persona relacionada a la compañía;
 
 f) 10% del total, para la suma de la inversión en fondos señalados en las letras
 
@@ -480,7 +524,39 @@ f) 10% del total, para la suma de la inversión en fondos señalados en las letr
 
 - **c)** del Nº2 y
 
-- **e)** del Nº3, administrados por una misma entidad administradora de fondos mutuos o de inversión.
+- **e)** del Nº3, administrados por una misma entidad administradora de fondos mutuos o de inversión;
+
+g) 1% del total, para la suma de la inversión en instrumentos de las letras
+
+- **c)** del N° 1 y
+
+- **a)** y
+
+- **b)** del N° 3, comprendidos en las letras
+
+- **a)** e
+
+- **i)** del N° 1 de este artículo, según corresponda, emitidos por una misma entidad o sus respectivas filiales, y
+
+h) 10% del total, para la suma de la inversión en los siguientes instrumentos:
+
+i) Instrumentos de la letra f) del Nº 1;
+
+ii) Instrumentos de la letra a) del Nº 2, que no cumplan con el requisito de presencia bursátil que establezca la Superintendencia mediante norma de carácter general;
+
+iii) Instrumentos de los números 6 y 7;
+
+iv) Instrumentos de la letra
+
+- **c)** del N° 1 y
+
+- **a)** y
+
+- **b)** del N° 3, comprendidos en las letras
+
+- **a)** e
+
+- **i)** del N° 1 de este artículo.
 
 #### Artículo 24
 
@@ -506,6 +582,16 @@ e) entre un 20% y un 30% del total de cuotas suscritas de un fondo mutuo o de in
 
 La Superintendencia fijará los límites señalados por períodos mínimos de un año, debiendo informar la modificación de éstos, con tres meses de anticipación a su vigencia.
 
+Tratándose de seguros con cuenta de inversión, la Superintendencia podrá ampliar o excluir, a través de norma de carácter general, de los límites de inversión establecidos en los artículos 23 y 24, las inversiones que respalden la reserva del valor del fondo cuando ésta se invierta en los instrumentos señalados en las letras
+
+- **b)** y
+
+- **c)** del N° 2 y en las letras
+
+- **d)** y
+
+- **e)** del N° 3 del artículo 21, y no será aplicable el límite de inversión establecido en el artículo 12 A del decreto ley Nº 1.328, de 1976.
+
 #### Artículo 24 bis
 
 Si una inversión representativa de reservas técnicas o de patrimonio de riesgo o un conjunto de ellas sobrepasaren alguno de los límites de diversificación establecidos en esta ley, el exceso no será aceptado como respaldo de dichas reservas ni del patrimonio de riesgo. Tampoco serán aceptadas aquellas inversiones que dejaren de cumplir los requisitos señalados en esta ley para ser representativas de reservas técnicas. Sin embargo, si tal hecho se produjere exclusivamente por un cambio de clasificación de riesgo, las inversiones afectadas podrán seguir respaldando reservas técnicas y patrimonio de riesgo por un plazo no superior a seis meses a contar de la fecha del cambio. Sin embargo, el 50% de ellas podrá seguir sirviendo de respaldo por un período adicional de seis meses. En caso de adquirir nuevos instrumentos de éstos durante dicho período, la compañía no podrá usarlos para respaldar sus reservas técnicas y patrimonio de riesgo.
@@ -516,7 +602,7 @@ INCISO DEROGADO.
 
 Las compañías deberán llevar un registro que cumpla con los requisitos que para este efecto señale la Superintendencia, en el cual se anotarán los títulos, documentos y activos representativos del total de las reservas técnicas. Igual registro deberán llevar para las inversiones que respalden el patrimonio.
 
-La Superintendencia estará facultada para dictar, si lo estima procedente para la protección de los intereses de los asegurados, normas de custodia de los títulos y valores mobiliarios que respalden las reservas técnicas.
+La Superintendencia estará facultada para dictar, si lo estima procedente para la protección de los intereses de los asegurados, normas de custodia de los títulos y valores mobiliarios que respalden las reservas técnicas y el patrimonio de riesgo.
 
 #### Artículo 26
 
@@ -594,6 +680,46 @@ c) Acreditar que sus accionistas y sus controladores posean un patrimonio neto c
 
 La Superintendencia podrá negar la autorización por resolución fundada, cuando no se cumplan los requisitos anteriores y los demás que exija la ley.
 
+#### Artículo 37 bis
+
+Los accionistas fundadores de una compañía de seguros del segundo grupo, para obtener la autorización prevista en el artículo 126 de la ley Nº 18.046, deberán cumplir los siguientes requisitos:
+
+a) Contar individualmente o en conjunto con un patrimonio neto consolidado equivalente a la inversión proyectada y, cuando se reduzca a una cifra inferior, informar oportunamente de este hecho.
+
+b) No haber incurrido en conductas graves o reiteradas que puedan poner en riesgo la estabilidad de la entidad aseguradora que se proponen constituir o la seguridad de sus asegurados.
+
+c) No haber tomado parte en actuaciones, negociaciones o actos jurídicos de cualquier clase, contrarios a las leyes, las normas o las sanas prácticas bancarias, financieras o mercantiles que imperan en Chile o en el extranjero.
+
+d) No encontrarse en alguna de las siguientes situaciones:
+
+i) Que se trate de un fallido no rehabilitado;
+
+ii) Que en los últimos quince años, contados desde la fecha de solicitud de la autorización, haya sido director, gerente, ejecutivo principal o accionista mayoritario directamente o a través de terceros, de una entidad bancaria, de una compañía de seguros del segundo grupo o de una Administradora de Fondos de Pensiones que haya sido declarada en liquidación forzosa o quiebra, según corresponda, o sometida a administración provisional, respecto de la cual el Fisco o el Banco Central de Chile hayan incurrido en considerables pérdidas. No se considerará para estos efectos la participación de una persona por un plazo inferior a un año;
+
+iii) Que registre protestos de documentos no aclarados en los últimos cinco años en número o cantidad considerable;
+
+iv) Que haya sido condenado o se encuentre bajo acusación formulada en su contra por cualquiera de los siguientes delitos:
+
+(1) contra la propiedad o contra la fe pública;
+
+(2) contra la probidad administrativa, contra la seguridad nacional, delitos tributarios, aduaneros, y los contemplados en las leyes contra el terrorismo y el lavado o blanqueo de activos;
+
+(3) los contemplados en la ley N° 18.045, ley N° 18.046, decreto con fuerza de ley N° 3, de 1997, decreto ley N° 3.500, de 1980, ley N° 18.092, ley N° 18.840, decreto con fuerza de ley N° 707, de 1982, ley N° 4.702, ley N° 5.687, ley N° 18.175, ley N° 18.690, ley N° 4.097, ley N° 18.112, las leyes sobre Prenda, y en esta ley;
+
+v) Que haya sido condenado a pena aflictiva o de inhabilitación para desempeñar cargos u oficios públicos, y
+
+vi) Que se le haya aplicado, directamente o a través de personas jurídicas, cualquiera de las siguientes medidas, siempre que los plazos de reclamación hubieren vencido o los recursos interpuestos en contra de ellas hubiesen sido rechazados por sentencia ejecutoriada:
+
+(1) que se haya declarado su liquidación forzosa o se hayan sometido sus actividades comerciales a administración provisional, o
+
+(2) que se le haya cancelado su autorización de operación o existencia, o su inscripción en cualquier registro requerido para operar o para realizar oferta pública de valores, por infracción legal.
+
+Tratándose de una persona jurídica, los requisitos establecidos en este artículo se considerarán respecto de sus controladores, socios o accionistas mayoritarios, directores, administradores, gerentes y ejecutivos principales, a la fecha de la solicitud.
+
+La Superintendencia verificará el cumplimiento de estos requisitos, para lo cual podrá solicitar que se le proporcionen los antecedentes que señale; y en caso de rechazo, deberá justificarlo por resolución fundada.
+
+Se considerarán accionistas fundadores de una compañía de seguros del segundo grupo a aquéllos que tengan una participación significativa en su propiedad, según las normas del artículo 38.
+
 #### Artículo 38
 
 Por exigirlo el interés nacional, una vez autorizada la existencia de la entidad aseguradora, ésta deberá informar a la Superintendencia todo cambio de propiedad accionaria que involucre que un accionistas pase a poseer una participación igual o superior al 10% del capital y el accionista deberá acreditar los requisitos indicados en las letras a) y b) de inciso primero del artículo anterior. Antes de acreditarse ante la Superintendencia los requisitos indicados, el accionista no podrá ejercer el derecho a voto por dichas acciones.
@@ -605,6 +731,22 @@ La Superintendencia dispondrá de un plazo de 30 días, contado desde la fecha d
 Subsanados los defectos o atendidas las observaciones formuladas en su caso, y vencido el plazo a que se refiere el inciso precedente, la Superintendencia dará curso a lo solicitado, según corresponda.
 
 Con todo, transcurridos 60 días contados desde la presentación de la solicitud, el peticionario podrá solicitar que ésta se resuelva con los antecedentes que obran en poder de la Superintendencia. En tal circunstancia, la Superintendencia dentro de 5 días hábiles contados desde la petición referida, resolverá aprobando o rechazando la solicitud, en este último caso por resolución fundada. Si no se pronunciare dentro de dicho plazo, se entenderá rechazada la solicitud.
+
+#### Artículo 39 bis
+
+Dentro del plazo de 90 días, la Superintendencia podrá denegar, por resolución fundada, la autorización de una compañía de seguros del segundo grupo si los accionistas fundadores no cumplen con los requisitos del artículo 37 bis.
+
+Si la Superintendencia no dictase una resolución denegatoria dentro del plazo señalado, se podrá requerir la aplicación del silencio administrativo positivo en la forma señalada en la ley N° 19.880.
+
+No obstante, en casos excepcionales y graves relativos a hechos relacionados con circunstancias que, por su naturaleza, sea inconveniente difundir públicamente, la Superintendencia podrá suspender por una vez el pronunciamiento hasta por un plazo de 120 días adicionales al señalado en el inciso primero. La respectiva resolución podrá omitir el todo o parte de su fundamento y, en tal caso, los fundamentos omitidos deberán darse a conocer reservadamente al Ministro de Hacienda y, asimismo, al Banco Central, al Consejo de Defensa del Estado, a la Unidad de Análisis Financiero o al Ministerio Público, cuando corresponda.
+
+Solicitada la autorización de existencia y acompañada copia autorizada de la escritura pública que contenga los estatutos, el Superintendente comprobará la efectividad del capital de la compañía de seguros del segundo grupo. Demostrado lo anterior, dictará una resolución que autorice la existencia de la sociedad y apruebe sus estatutos.
+
+La Superintendencia expedirá un certificado que acredite tal circunstancia y contenga un extracto de los estatutos, el cual deberá ser inscrito por el interesado en el Registro de Comercio del domicilio social y el que deberá publicar en el Diario Oficial dentro del plazo de sesenta días contados desde la fecha de la resolución aprobatoria. Lo mismo deberá hacerse con las reformas que se introduzcan a los estatutos o con las resoluciones que aprueben o decreten la disolución anticipada de la sociedad.
+
+Cumplidos los trámites a que se refiere el inciso anterior, la Superintendencia comprobará, dentro del plazo de 90 días, si la compañía se encuentra preparada para iniciar sus actividades y, especialmente, si cuenta con los recursos profesionales, tecnológicos y con los procedimientos y controles para emprender adecuadamente sus funciones.
+
+Cumplidos dichos requisitos, la Superintendencia, dentro de un plazo de 30 días, concederá la autorización para funcionar. Asimismo, fijará un plazo no superior a un año para que la compañía inicie sus actividades, lo que la habilitará para dar comienzo a sus operaciones, le conferirá las facultades y le impondrá las obligaciones establecidas en esta ley.
 
 #### Artículo 40
 
@@ -662,7 +804,7 @@ La Superintendencia podrá sancionar a los agentes de ventas de las compañías 
 
 #### Artículo 46
 
-Las compañías aseguradoras extranjeras no podrán ofrecer ni contratar seguros en Chile, sea directamente o a través de intermediarios. El que contravenga esta prohibición, actuando como representante de la entidad extranjera o como intermediario de contratos con ésta, será sancionado con presidio menor en su grado mínimo.
+Exceptuadas aquellas compañías comprendidas en el inciso segundo del artículo 4° y únicamente respecto a los seguros allí señalados, las aseguradoras extranjeras no podrán ofrecer ni contratar seguros en Chile, sea directamente o a través de intermediarios. El que contravenga esta prohibición, actuando como representante de la entidad extranjera o como intermediario de contratos con ésta, será sancionado con presidio menor en su grado mínimo.
 
 No obstante lo anterior, cuando una persona haga uso del derecho que le confiere el artículo 4° para contratar seguros en el extranjero, el asegurador podrá inspeccionar el riesgo del bien que se quiere asegurar, liquidar y pagar los siniestros que éste sufra y también cobrar y percibir en Chile la prima convenida.
 
@@ -779,6 +921,10 @@ No podrán tener una participación que suponga directa o indirectamente más de
 - **a)** y
 
 - **b)** del artículo 59, los corredores que se encontraren suspendidos de sus funciones por resolución de la Superintendencia y los administradores y representantes legales de una sociedad corredora que se encontrare en dicha situación. En caso de que se incurra en la inhabilidad una vez adquirida la participación, quedarán privados del ejercicio de los derechos políticos societarios derivados de ella por el tiempo de duración de la inhabilidad.
+
+#### Artículo 58 bis
+
+Sin perjuicio de lo señalado en el artículo anterior, podrán efectuar en Chile la intermediación de los seguros de transporte marítimo internacional, aviación comercial internacional y mercancías en tránsito internacional, las personas naturales o jurídicas establecidas en el territorio de un país con el cual Chile mantenga vigente un tratado internacional en el que se haya permitido la contratación de tales seguros desde ese país. En todo caso, los intermediarios a que hace referencia este inciso deberán cumplir con los términos y condiciones establecidos en los respectivos tratados y en la legislación nacional.
 
 #### Artículo 59
 
@@ -904,7 +1050,13 @@ Si la reducción del patrimonio de una compañía bajo el mínimo establecido en
 
 Si concluido el proceso de regularización una compañía no hubiere logrado superar las situaciones señaladas en el artículo 68, la Superintendencia procederá a su revocación en los términos contemplados en el artículo 3, letra d), de esta ley.
 
-4.- De la liquidación.
+4.- Régimen Especial de Regularización
+
+#### Artículo 73 bis
+
+En caso que la compañía presente déficit de inversiones representativas de reservas técnicas y patrimonio de riesgo igual o superior al 10%, o endeudamiento superior en un 40% al máximo establecido en el artículo 15, la Superintendencia podrá, por resolución fundada y sin sujeción a los plazos previstos en este Título, adoptar una o más de las medidas establecidas en los artículos precedentes o aplicar las sanciones señaladas en el artículo 44.
+
+5.- De la liquidación.
 
 #### Artículo 74
 
@@ -922,7 +1074,7 @@ Los gastos de liquidación serán de cuenta de la compañía.
 
 En la liquidación de una compañía de seguros del segundo grupo que posea en su cartera contratos de seguros del sistema previsional creado por el decreto ley N° 3.500, de 1980, no procederá la autorización mencionada en el inciso segundo de este artículo, miemtras subsistan obligaciones emanadas de dichos contratos.
 
-5.- De los convenios y la quiebra.
+6.- De los convenios y la quiebra.
 
 #### Artículo 76
 
