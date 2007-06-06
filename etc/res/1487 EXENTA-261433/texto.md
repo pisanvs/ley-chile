@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.487, de 17 de mayo de 2007, de esta Subsecretaría, modifícase el numeral 3º de la resolución Nº 47, de 2007, de esta Subsecretaría, que autorizó a la CORPORACION PARA LA EDUCACION, DESARROLLO E INVESTIGACION DE LA PESCA ARTESANAL DE CHILE para efectuar una pesca de investigación de conformidad con los términos técnicos de Referencia del Proyecto denominado, "Pesca de investigación de Juliana Tawera gayi en área libre aledaña a Pargua, X Región", en el sentido de extender el período de ejecución de la citada pesca de investigación por un plazo de 9 meses, contados desde la fecha de la presente resolución.
+
+Valparaíso, 17 de mayo de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
