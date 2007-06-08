@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.617, de 28 de mayo de 2007, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 698, modificada mediante resoluciones Nº 1.123, Nº 1.351 y Nº 1.399, todas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II Regiones", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2007, inclusive.
+
+Valparaíso, 28 de mayo de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
