@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.626, de 30 de mayo de 2007, de esta Subsecretaría, modifícase el numeral 4º de la resolución exenta Nº 1.406 de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Determinación de la Distribución Espacial de Jurel entre la V y X Regiones, Otoño 2007", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 30 de junio de 2007, inclusive.
+
+Valparaíso, 30 de mayo de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
