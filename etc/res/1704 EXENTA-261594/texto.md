@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.704 de 4 de junio de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 205101166 presentada por PEDRO HUMBERTO VARGAS GONZALEZ, para instalar y operar un centro de cultivo ubicado en ribera norte de río Maullín, al noroeste de Punta San Juan, Lote V, parcela 4, X Región.
+
+Valparaíso, 4 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
