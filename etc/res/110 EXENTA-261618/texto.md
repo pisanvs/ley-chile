@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCION Nº 110 EXENTA, DE 2007
+
+Por resolución exenta Nº 110, de 16 de marzo de 2007, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región, autorizó el funcionamiento del Terminal de Taxis Colectivos urbanos ubicado en la ciudad de Copiapó, en calle Venancio Díaz esquina Juncalito, Villa Valle Los Ríos, de propiedad del Sindicato de Dueños Independientes de Taxis Colectivos Línea Nº 24 de Copiapó, RUT Nº 74.819.500-9, recinto clasificado en categoría "A2", con una capacidad máxima de 136 taxis colectivos, dejándose constancia que el funcionamiento del terminal que se autoriza se mantendrá en la medida que el propietario o su representante legal cumpla con las siguientes especificaciones:
+
+Hará uso de este terminal la siguiente línea: Sindicato de Dueños Independientes de Taxis Colectivos Línea Nº 24 de Copiapó, Rut Nº 74.819.500-9, con el servicio de taxis colectivos inscrito a la presente fecha en el Registro Nacional de Servicios de Transporte Público de Pasajeros, Región de Atacama, bajo el folio Nº 60016, con el siguiente servicio prestado con taxis colectivos:
+
+Troncal: Valle Los Ríos - Chacabuco - El Palomar. Variante: Valle Los Ríos - Av. Henríquez - El Palomar. El terminal podrá ser utilizado por una cantidad máxima de 136 taxis colectivos, conforme al cálculo que resulta de la ecuación del artículo 45 bis B del DS 212/92 del Ministerio de Transportes y Telecomunicaciones, y a las Tablas 8 y 9 establecidas en el texto del DS 270/04, del Ministerio de Vivienda y Urbanismo. Encargado de la administración del terminal: Sr. Juan Esteban Castillo, RUT Nº 09.106.407-3, domiciliado en calle Río Salado Nº 1460, de la comuna de Copiapó.
+
+- Karina Vargas Brizuela, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
