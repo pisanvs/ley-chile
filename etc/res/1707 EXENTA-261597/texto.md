@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.707, de 4 de junio de 2007, de esta Subsecretaría, recházase la solicitud N° 206111156 presentada por SALMONES ANTARTICA S.A., para modificación la concesión de acuicultura ubicada en Fiordo Aysén, al este de Punta Morro, XI Región, transferida a la peticionaria mediante resolución N° 1.587 de 2004, de la Subsecretaría de Marina.
+
+Valparaíso, 4 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
