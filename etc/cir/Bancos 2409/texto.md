@@ -14224,57 +14224,35 @@ Lo anteriormente expuesto tiene por fin advertir que la labor de la Superintende
 
 Conforme a la disposición legal citada, los créditos que una institución financiera puede conceder a una misma persona natural o jurídica, no pueden superar el equivalente a un 5% del patrimonio efectivo de la respectiva institución financiera, vigente al momento de otorgar el crédito.
 
-Sin embargo, la ley permite conceder créditos a una misma persona hasta por un 25% del patrimonio efectivo de la institución financiera, si lo que excede del 5% antes mencionado, corresponde a créditos caucionados con garantías de un valor igual o superior a dicho exceso, que cumplan las condiciones que en la misma disposición se establecen y que se indican en el título III del presente capítulo.
+Sin embargo, la ley permite conceder créditos a una misma persona hasta por un 30% del patrimonio efectivo de la institución financiera, si lo que excede del 10% antes mencionado, corresponde a créditos caucionados con garantías de un valor igual o superior a dicho exceso, que cumplan las condiciones que en la misma disposición se establecen y que se indican en el título III del presente capítulo.
 
 Para los efectos de los límites individuales de crédito de que se trata, deben considerarse las obligaciones directas e indirectas de cada deudor según se instruye en el título II y computarse en la oportunidad y forma que se señalan en el título V de este capítulo Por su parte, la valorización de las correspondientes garantías, deberá sujetarse a lo dispuesto en el título IV de las presentes normas.
 
-### 2. Créditos para exportación
-
-Los límites mencionados en el número anterior, del 5% para créditos no caucionados con alguna de las garantías que la ley exige, o del 25% del patrimonio efectivo cuando existen esas cauciones, podrán elevarse al 10% y al 30% respectivamente, si el exceso corresponde a créditos concedidos en moneda extranjera para exportaciones de cualquier naturaleza.
-
-Se entenderá para estos efectos como créditos para exportaciones en moneda extranjera, los siguientes créditos correspondientes a exportaciones chilenas:
-
-a) Préstamos en moneda extranjera que se otorguen a exportadores para financiar exportaciones desde Chile;
-
-b) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos por el importador extranjero, y adquisiciones de facturas cursadas de conformidad con las normas del Capítulo 8-38 de esta Recopilación, originados en exportaciones enviadas en cobranza;
-
-c) Descuentos o adquisiciones, con responsabilidad o sin ella, de letras de cambio o pagarés, aceptadas o suscritos a favor de exportadores por bancos nacionales o extranjeros, con motivo de la negociación de cartas de crédito;
-
-d) La negociación de cartas de crédito a la vista o a plazo por exportaciones chilenas, con aceptación de letra o sin ella, cuando en este último caso se trate de cartas de crédito confirmadas, y los créditos y avances que otorguen las instituciones bancarias establecidas en Chile a bancos del exterior por el financiamiento del pago de tales cartas de crédito, como asimismo, los pagos anticipados a los beneficiarios de cartas de crédito negociadas a plazo no confirmadas.
-
-e) Avales otorgados para responder como garante directo o como contrafiador o avalista de documentos emitidos en el exterior con el objeto de garantizar la calidad de las exportaciones chilenas o la seriedad en el cumplimiento de propuestas abiertas en el extranjero a que concurran exportadores chilenos o por el cumplimiento de contratos de exportación, así como los préstamos cursados para emitir boletas de garantía o cartas de crédito stand by con los mismos propósitos.
-
-f) Avales para responder como garante directo de letras de cambio aceptadas o de pagarés suscritos en el exterior, correspondientes al precio pagadero a plazo de exportaciones chilenas.
-
-g) Créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, señalados en las letras a) y b) del numeral 2.1 del Capítulo 13-27 de esta Recopilación.
-
-Los créditos a que se refiere la letra d) anterior pueden acogerse al límite del 30%, al igual que las obligaciones que se originan de las letras o pagarés señalados en la letra b), cuando dichos documentos provengan de operaciones con países miembros de la ALADI y sean reembolsables a través del Banco Central de Chile por intermedio del respectivo convenio de crédito recíproco.
-
-3.- Créditos para financiar obras públicas ejecutadas por concesión.
+### 2. Créditos para financiar obras públicas ejecutadas por concesión
 
 Los créditos que las instituciones financieras otorguen para financiar obras públicas fiscales ejecutadas por el sistema de concesión contemplado en el D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, pueden alcanzar hasta el 15% del patrimonio efectivo de la institución acreedora, con sujeción a las condiciones exigidas para tal efecto.
 
-De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 5% del patrimonio efectivo de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 42 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
+De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 10% del patrimonio efectivo de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 42 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
 
 a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas en las categorías Al, A2, A3 o B a que se refiere el Capítulo 7-10 de esta Recopilación, por las instituciones financieras que otorguen el financiamiento, o bien, deben calificar para alguna de ellas, entendiéndose para el efecto que así ocurre cuando reúnen los requisitos exigidos para una de esas categorías de riesgo;
 
 b) Las empresas constructoras o concesionarias deberán comprometerse a constituir en garantía de su obligación ante la entidad crediticia, los ingresos mínimos que se generarán en la fase de explotación del proyecto de infraestructura que se encuentren garantizados por el Estado o por un seguro de carácter privado. Esta garantía tiene por único fin amparar el pago del crédito, de modo que dadas sus características, no servirá para la ampliación del margen individual de crédito establecido en el artículo 84 de la Ley General de Bancos; y,
 
-c) Las empresas constructoras o concesionarias del proyecto deberán comprobar mediante un certificado del Ministerio de Obras Públicas o de una firma de auditores externos registrada en esta Superintendencia para auditar bancos o sociedades financieras, que tienen un capital no inferior al que se exige a las empresas registradas en el Ministerio de' Obras Públicas en la más alta categoría, de acuerdo a los artículos 11 y siguientes del Decreto Supremo N° 15, de 1992, de dicho Ministerio.
+c) Las empresas constructoras o concesionarias del proyecto deberán comprobar mediante un certificado del Ministerio de Obras Públicas o de una firma de auditores externos registrada en esta Superintendencia para auditar bancos, que tienen un capital no inferior al que se exige a las empresas registradas en el Ministerio de Obras Públicas en la más alta categoría, de acuerdo a los artículos 11 y siguientes del Decreto Supremo N° 15, de 1992, de dicho Ministerio.
 
-4. Créditos a otra institución financiera regida por la Ley General de Bancos.
+3. Créditos a otra institución financiera regida por la Ley General de Bancos.
 
 Los créditos que una institución financiera otorgue a otra entidad financiera regida por la Ley General de Bancos, pueden alcanzar hasta el 30% del patrimonio efectivo de la institución acreedora, sea que se otorguen con garantía o sin ella.
 
-Este margen especial dispuesto por la ley es aplicable sólo en el caso de que el deudor sea un banco, una sociedad financiera o una sucursal de un banco extranjero establecido en Chile, pero no se aplica a los bancos establecidos en el exterior, aunque la entidad financiera tenga sucursales en el país o cuando se trate de una sucursal o filial de un banco chileno en el extranjero.
+Este margen especial dispuesto por la ley es aplicable sólo en el caso de que el deudor sea un banco o una sucursal de un banco extranjero establecido en Chile, pero no se aplica a los bancos establecidos en el exterior, aunque la entidad financiera tenga sucursales en el país o cuando se trate de una sucursal o filial de un banco chileno en el extranjero.
 
-Este límite de un 30% del patrimonio efectivo debe entenderse referido al conjunto de todos los créditos directos o indirectos, como pueden ser, por ejemplo, préstamos otorgados, compras con pacto de retroventa de instrumentos financieros, compras con responsabilidad de valores mobiliarios o efectos de comercio, adquisición de títulos de crédito aceptados o suscritos por la institución financiera deudora, etc.
+Este límite de un 30% del patrimonio efectivo debe entenderse referido al conjunto de todos los créditos directos o indirectos, como pueden ser, por ejemplo préstamos otorgados, compras con pacto de retroventa de instrumentos financieros, compras con responsabilidad de valores mobiliarios o efectos de comercio, adquisición de títulos de crédito aceptados o suscritos por la institución financiera deudora, etc.
 
-### 5. Aplicación de otros márgenes de crédito
+### 4. Aplicación de otros márgenes de crédito
 
-Los límites señalados en los números precedentes son sin perjuicio de las mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de crédito a personas relacionadas directa o indirectamente a la propiedad o gestión del banco o sociedad financiera y a trabajadores de la empresa, según se dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos.
+Los límites señalados en los números precedentes son sin perjuicio de las mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de crédito a personas relacionadas directa o indirectamente a la propiedad o gestión del banco y a trabajadores de la empresa, según se dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos., según se dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos.
 
-6.- Créditos otorgados por las sucursales y filiales de la institución financiera o que se concedan a esas entidades.
+5. Créditos otorgados por las sucursales y filiales de la institución financiera o que se concedan a esas entidades.
 
 El límite de crédito de que trata el N° 1 del artículo 84 de la Ley General de Bancos y el presente Capítulo, debe cumplirse considerando las operaciones consolidadas de la institución financiera con sus filiales en el país, con excepción de las empresas de apoyo al giro constituidas al amparo del artículo 74 de la Ley, y con sus sucursales y filiales establecidas en países clasificados en primera categoría de riesgo por alguna de las empresas clasificadoras internacionales mencionadas en el Capítulo 1-12 de esta Recopilación.
 
@@ -14288,11 +14266,9 @@ BANCOS.
 
 ### 1. Normas generales
 
-La palabra crédito que utiliza la Ley General de Bancos para limitar los que se otorguen a una misma persona, debe entenderse en su sentido tanto legal como natural y constituye el derecho de un acreedor respecto de su deudor, o la contrapartida de una obligación de dinero que alguien tiene con la institución financiera. Por lo tanto, los límites no se refieren sólo al otorgamiento de préstamos, sino que abarcan todas las operaciones en que la institución
+La palabra crédito que utiliza la Ley General de Bancos para limitar los que se otorguen a una misma persona, debe entenderse en su sentido tanto legal como natural y constituye el derecho de un acreedor respecto de su deudor, o la contrapartida de una obligación de dinero que alguien tiene con la institución financiera. Por lo tanto, los límites no se refieren sólo al otorgamiento de préstamos, sino que abarcan todas las operaciones en que la institución financiera adquiere tal derecho. Por ejemplo, para los efectos de los límites deque se trata, se concede u otorga un crédito cuando la institución financiera adquiere valores mobiliarios o efectos de comercio, cuando vende un activo fijo con saldo de precio, cuando un cliente asume un crédito de otro cliente, etc.
 
-financiera adquiere tal derecho. Por ejemplo, para los efectos de los límites deque se trata, se concede u otorga un crédito cuando la institución financiera adquiere valores mobiliarios o efectos de comercio, cuando vende un activo fijo con saldo de precio, cuando un cliente asume un crédito de otro cliente, etc.
-
-En todo caso, al tratarse de depósitos a plazo mantenidos en un banco o sociedad financiera del país o en bancos del exterior, las instituciones depositarías no se consideran como deudores para los efectos previstos en el artículo 84 de que se trata.
+En todo caso, al tratarse de depósitos a plazo mantenidos en un banco del país o en bancos del exterior, las instituciones depositarías no se consideran como deudores para los efectos previstos en el artículo 84 de que se trata.
 
 Para establecer el total de las obligaciones que una persona natural o jurídica mantiene a favor de una institución financiera, sujeto a los márgenes de endeudamiento individual del artículo 84 de la Ley General de Bancos, se deben considerar todas sus deudas directas y agregarse a éstas sus obligaciones indirectas y, cuando corresponda, se deben imputar también las obligaciones complementarias que se originen por la aplicación de lo dispuesto en el artículo 85 de la Ley General de Bancos, a que se refiere el N° 4 de este título.
 
@@ -14414,7 +14390,7 @@ Por otra parte, en concordancia con lo indicado en el N° 4 del título I de est
 
 Como al socio, por una ficción, se le imputan como propias las deudas de la sociedad, ya sea en el total, ya en la proporción correspondiente, tales deudas lo afectarán en la misma forma que si fueran propias. La incidencia de ese hecho se ilustra en los siguientes ejemplos:
 
-i) Si a un socio que tiene el 51% del capital de una sociedad se le otorga un crédito por el 5% del patrimonio efectivo de la institución financiera, sin garantía, tiene copado dicho límite personal y, por lo tanto, a la sociedad no se le podrá conceder ningún crédito sin garantía, y sí dispondrá de su límite de un 20% adicional con garantía y de los márgenes adicionales en moneda extranjera para exportaciones. Cabe hacer notar que, en este caso, la improcedencia de otorgar un crédito acogido al 5% sin garantía se origina por el cómputo de las
+i) Si a un socio que tiene el 51% del capital de una sociedad se le otorga un crédito por el 10% del patrimonio efectivo de la institución financiera, sin garantía, tiene copado dicho límite personal y, por lo tanto, a la sociedad no se le podrá conceder ningún crédito sin garantía, y sí dispondrá de su límite de un 20% adicional con garantía. Cabe hacer notar que, en este caso, la improcedencia de otorgar un crédito acogido al 10% sin garantía se origina por el cómputo de las
 
 obligaciones del socio y no de las deudas de la sociedad, ya que a ésta no se le computan las obligaciones del primero.
 
@@ -14450,7 +14426,7 @@ Las acciones adquiridas se sumarán según su valor pagado más corrección mone
 
 Las obligaciones de los arrendatarios por contratos de leasing se computarán, para efectos de los límites de que trata este Capítulo, según el valor actual de los respectivos contratos.
 
-No obstante, cuando se trate contratos que se circunscriban exclusivamente al arrendamiento de bienes raíces urbanos correspondientes a viviendas, oficinas, locales comerciales, bodegas y estacionamientos, se computará el 50 % del valor actual del contrato, siempre que el importe resultante se encuadre dentro límite del 5% sin garantía Para todos los demás fines, sea de información, contable, estadística, etc., se debe considerar el 100% del valor actual de esas operaciones. Estas normas rigen tanto para las deudas directas como para las indirectas y complementarias, cuando sea el caso.
+No obstante, cuando se trate contratos que se circunscriban exclusivamente al arrendamiento de bienes raíces urbanos correspondientes a viviendas, oficinas, locales comerciales, bodegas y estacionamientos, se computará el 50 % del valor actual del contrato, siempre que el importe resultante se encuadre dentro límite del 10% sin garantía Para todos los demás fines, sea de información, contable, estadística, etc., se debe considerar el 100% del valor actual de esas operaciones. Estas normas rigen tanto para las deudas directas como para las indirectas y complementarias, cuando sea el caso.
 
 ### III. GARANTIAS VALIDAS PARA AMPLIAR LOS MARGENES DE CREDITO
 
@@ -14758,9 +14734,7 @@ Para verificar el cumplimiento de las disposiciones del artículo 84 N° 1 de la
 
 a) Cuando se desee otorgar un nuevo crédito, directo o indirecto, al mismo deudor, o novar uno existente, con objeto de establecer si cuenta con margen disponible;
 
-b) Cuando se modifiquen las condiciones de un crédito en moneda extranjera para exportaciones acogido a mayor margen, en atención a lo dispuesto en el numeral 3.3 de este título;
-
-c) Cuando se desee liberar una garantía, a fin de establecer si, de acuerdo con el valor actual de los créditos, las garantías que permanecen son
+b) Cuando se desee liberar una garantía, a fin de establecer si, de acuerdo con el valor actual de los créditos, las garantías que permanecen son
 
 suficientes,excepto en el caso en que la liberación de una garantía tenga como propósito la venta del bien gravado y el producto de su venta se destine íntegramente al pago del crédito garantizado, o cuando el bien se reciba en pago o se adjudique en remate judicial.
 
@@ -14790,13 +14764,7 @@ Al respecto, conviene tener presente que, en el evento de que no existiere marge
 
 En todo caso, mientras el margen se mantenga excedido, cualquiera sea la causa de tal exceso, no se podrán celebrar contratos de derivados o cualquier otro tipo de contrato que pueda transformarse en un nuevo crédito, aun cuando al momento de negociarlos tengan un valor razonable negativo o nulo.
 
-3.3. Cambios en las condiciones de créditos en moneda extranjera para exportación.
-
-No obstante que el cambio de moneda de una obligación no implica, por si solo,una novación, al tratarse de créditos otorgados en moneda extranjera para exportaciones, acogidos a los mayores márgenes a que se refiere el N° 2 del título I de este capítulo, cualquier modificación a los dos requisitos copulativos que la ley exige para acogerse a esos límites especiales, esto es, ser en moneda extranjera y tener por finalidad el financiamiento de exportaciones, impide seguir amparando el crédito en ese mayor límite.
-
-En este caso, la forma de determinar el monto de los créditos no difiere de lo indicado en los numerales precedentes, pero ellos no pueden seguir acogidos al margen especial si se cambian las condicione primitivas que sí lo permitían.
-
-3.4.- Avales solidarios.
+3.3.- Avales solidarios.
 
 En el caso que dos o más instituciones avalen en forma solidaria una o más obligaciones a cargo de una misma persona, cada una de ellas deberá imputar el monto total del aval a los márgenes del respectivo deudor, para los efectos de los límites del artículo 84 de la Ley General de Bancos. Solamente en el caso en que una obligación sea avalada con responsabilidad compartida por dos o más entidades financieras en proporción a montos perfectamente limitados, cada una de esas empresas podrá imputar al respectivo deudor la parte correspondiente a la responsabilidad comprometida por ella.
 
@@ -15050,29 +15018,11 @@ El artículo 84 N° 2 de la Ley General de Bancos determina los márgenes a que 
 
 ### 1. Condiciones en que pueden pactarse los créditos a personas relacionadas
 
-Los bancos y sociedades financieras no podrán otorgar créditos a personas
+Los bancos no podrán otorgar créditos a personas relacionadas en términos más favorables en cuanto a plazos, tasas de interés o garantías que los concedidos a terceros en operaciones similares. Cualquier trato preferente en materia crediticia a personas relacionadas dará lugar a las sanciones correspondientes.
 
-relacionadas en términos más favorables en cuanto a plazos, tasas de interés o
+### 2. Límites de crédito a cada grupo de personas relacionadas
 
-garantías que los concedidos a terceros en operaciones similares. Cualquier
-
-trato preferente en materia crediticia a personas relacionadas dará lugar a las
-
-sanciones correspondientes.
-
-### 2. Límite de créditos a cada grupo de personas relacionadas
-
-Cada grupo de personas relacionadas a la institución que estén relacionadas
-
-entre sí, conformado según el N° 2 del título I de este capítulo, debe
-
-considerarse como un solo deudor para los efectos de los límites crediticios
-
-establecidos en el número 1 del artículo 84 de la Ley General de Bancos, de
-
-manera que los créditos que se otorguen a cualquiera de ellos afectarán el
-
-margen individual del grupo.
+El conjunto de los créditos otorgados a un grupo de personas relacionadas conformado según el N° 2 del título I de este Capítulo, no podrá superar el 5% del patrimonio efectivo del banco. Ese límite se incrementará hasta un 25% si lo que excede el 5% corresponde a créditos caucionados por garantías que cumplan las condiciones señaladas en el título III del Capítulo 12-3 de esta Recopilación.
 
 ### 3. Límite global de créditos a personas relacionadas
 
