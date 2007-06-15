@@ -1,0 +1,11 @@
+Por resolución exenta Nº 1.625, de 30 de mayo de 2007, de esta Subsecretaría, autorízase a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico y control de esfuerzo de la flota artesanal en las pesquerías demersales de los recursos Pejegallo (Callorhinchus Callorhynchus) y Tollo (Mustelus mento, Squalus acanthias y Mustelus whitneyi) en aguas marítimas de la costa oeste de la comuna de Ancud, X Región.
+
+El objetivo de la pesca de investigación consiste en registrar el desembarque, monitorear biológicamente y controlar el esfuerzo de la flota artesanal redera de fondo de la comuna de Ancud, aplicado sobre los recursos principales Pejegallo y Tollo, así como de su fauna acompañante y/o especies secundarias, en aguas marítimas exteriores, con el objetivo de identificar la flota activa en la pesquería, pescadores y sus embarcaciones, caracterizar la pesquería y la cadena de distribución.
+
+La pesca de investigación se efectuará en las aguas exteriores de la X Región, en la franja costera de 7 millas náuticas contadas desde las líneas de base comprendida entre Punta Guabun (paralelo 41°46'21" L.S.) y Bahía Matalqui (paralelo 42°12'00" L.S.), por el término de un año contado desde la fecha de la presente resolución.
+
+Podrán participar en la presente pesca de investigación los pescadores artesanales inscritos, y las embarcaciones y sus armadores con certificado de navegabilidad vigente e inscritos, en el Registro Pesquero Artesanal de la X Región, que no se encuentren inscritas para participar en las pescas de investigaciones autorizadas mediante resoluciones exentas Nº 359 y Nº 378, ambas de 2007, de esta Subsecretaría, las que podrán extraer, en el área y período autorizados, mediante red de enmalle de fondo, los recursos Pejegallo, Tollo Mustelus mento, Tollo Squalus acanthias y Tollo Mustelus whitneyi.
+
+Consultora Pupelde Limitada designa como persona responsable de esta pesca de investigación a su representante legal, don Bernardo Luciano Ugalde Muñoz.
+
+Valparaíso, 30 de mayo de 2007.- María Angela Barbieri Bellolio, Subsecretario de Pesca (S).
