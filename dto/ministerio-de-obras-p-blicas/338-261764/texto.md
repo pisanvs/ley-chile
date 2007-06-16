@@ -1,0 +1,5 @@
+Por decreto MOP Nº 338 de 7 de mayo de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 18 para la obra: Camino Reposición Pav. Ruta M-50, Sector Cauquenes - Chanco, Tramo Cauquenes - Tutuven, km.
+
+2,65000 a km. 15,24724, que figura a nombre de Valenzuela León Juan, rol de avalúo 435-17, de la Comuna de Cauquenes, VII Región, superficie 580 m². La Comisión de Peritos con fecha 16 de enero de 2006 fijó el monto de la indemnización provisional en la cantidad de $8.245.000.- para el lote Nº 18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
