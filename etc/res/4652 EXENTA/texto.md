@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº4.652, de 1 de junio de 2007, Serviu Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en Mz. D. St. 9 V. Santa Laura, Rol de Avalúo s/n, comuna Coelemu, superficie aproximada 12,00 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación NºS8R-21.340, de aparente dominio de López Jara, Germán Egardo, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Santa Laura de Ranguelmo y 27 Entornos", Programa Chile Barrio, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Marisa Perrin Costa, arquitecto, y Gabriel Fernández de la Maza, ingeniero civil y Santiago Aptecar Nazer, arquitecto, según informe de fecha 26 de abril de 2007, fijó monto provisional indemnización en $44.200.-, pagadera de contado. Director Serviu Región del Bío Bío.
+
+Serviu Región del Bío Bío.
