@@ -1,0 +1,3 @@
+Por decreto MOP Nº 330, de fecha 30 de abril del 2007, se expropiaron los lotes de terreno Nºs 11 y 11-A, superficies 2.842 y 484 m2, Rol 141-002, comuna de Huasco, III Región, para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, Provincia de Huasco, Región de Atacama, Etapa I", y se acordó el valor de indemnización con su propietaria doña Valentina del Carmen Callejas Araya y Otros, ascendente a la cantidad de $7.618.427.
+
+- Fiscal del Ministerio de Obras Públicas.
