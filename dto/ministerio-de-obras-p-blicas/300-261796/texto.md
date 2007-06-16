@@ -1,0 +1,5 @@
+Por decreto MOP Nº300, de 30 de abril de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs.
+
+4-A y 5-C, para la obra "Mejoramiento Ruta 150, Tramo I, Sector By Pass Penco (Eje Principal), Provincia de Concepción, comuna de Penco, VIII Región, que figuran a nombre de Vaccarezza Bianchetti Elio y CBB Bosques Limitada, roles de avalúo 1280-118 y 1280-86, superficies 644 M2. y 1.030 M2. La Comisión de Peritos fijó con fecha 20 de septiembre de 2006, en las cantidades de $4.735.332, para el lote Nº4-A y $3.049.670, para el lote Nº5-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
