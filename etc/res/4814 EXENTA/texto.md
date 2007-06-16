@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Resolución exenta Nº4.814, de 7 de junio de 2007, SERVIU Región del Bío Bío ordenó expropiación de los atributos de uso y goce sobre una porción del inmueble ubicado en Pje. Uno s/n V Santa Laura, Rol de Avalúo 224-34, comuna Coelemu, superficie aproximada 8,30 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación NºS8R-21.337, de aparente dominio de Alarcón Fuentealba, Cupertina, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Santa Laura de Ranguelmo y 27 Entornos". Programa Chile Barrio, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión peritos integrada por Marisa Perrin Costa, Arquitecta, y Gabriel Fernández de la Maza, Ingeniero Civil y Santiago Aptecar Nazer, Arquitecto, según informe de fecha 26 de abril de 2007, fijó monto provisional indemnización en $62.310, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
