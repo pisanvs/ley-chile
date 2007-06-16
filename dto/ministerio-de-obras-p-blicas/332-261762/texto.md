@@ -1,0 +1,3 @@
+Por decreto MOP Nº 332 de fecha 30 de abril del 2007, se expropió el lote de terreno Nº 404-1, superficie 5.764 m2, Rol Nº 332-419, comuna de Limache, V Región para la obra "Proyecto Camino Internacional Ruta 60 CH. Sector 2: km. 0.000,00 al km. 38.500,00. Tramo 2: km. 21.000,00 al km. 38.500,00" y se acordó el valor de indemnización con su propietario Heriberto Vicente Fuentes Vargas, ascendente a la cantidad de $4.440.086.
+
+- Fiscal del Ministerio de Obras Públicas.
