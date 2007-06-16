@@ -1,0 +1,3 @@
+Por decreto MOP Nº 339, de 7 de mayo de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 129, para la ejecución del proyecto: Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca, Km. 13,14000 a Km. 23,49783, III Etapa, que figura a nombre de Rivera Frez Olga de Mercedes, rol de avalúo 260-63, comuna de Salamanca, superficie 430,63 m2. La comisión de peritos fijó con fecha 22 de noviembre de 2005, en la cantidad de $10.098.378. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
