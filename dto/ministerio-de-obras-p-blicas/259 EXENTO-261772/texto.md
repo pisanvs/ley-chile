@@ -1,0 +1,3 @@
+Por decreto exento Nº 259, de 30 de mayo de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se dejó sin efecto el decreto exento Nº 1.090, de 13 de agosto de 2004, en la parte que se refiere a la expropiación del lote de terreno Nº 39A, en consideración a que fue eliminado por medio de resolución exenta S.R.M. X Región Nº 866, de 6 de junio de 2006. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
