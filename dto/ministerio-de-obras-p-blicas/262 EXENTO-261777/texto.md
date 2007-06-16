@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 262 de 30 de mayo de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1; para la obra: Reposición Puente Pintue, Sector Pintue, que figura a nombre de Salinas Núñez Juan, rol de avalúo 1668-1, Comuna de Paine, Región Metropolitana, superficie 56 m². La Comisión de Peritos, con fecha 25 de agosto de 2005 fijó el monto de la indemnización provisional en la cantidad de $1.114.800.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
