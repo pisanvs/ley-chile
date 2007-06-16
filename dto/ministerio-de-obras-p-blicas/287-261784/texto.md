@@ -1,0 +1,5 @@
+Por decreto MOP. Nº 287, de 30 de abril de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 4-A, 5-A, 9-A, 10-A y 11-C, para la ejecución del Proyecto: Reposición Ruta E-30-F, sector Zapallar - La Laguna, Km. 22,80733 a Km.
+
+36,23097, Provincia de Petorca, V Región, que figuran a nombre de García-Huidobro Rivas Constanza, Banco Santander Chile y Cortés Cirer Vicente, roles de avalúo 55-10, 51-06 y 3-02, comuna de Zapallar, superficies 154,07 M2.; 171,13 M2., 32,21 M2., 324,35 M2. y 205,09 M2. La Comisión de Peritos, fijó con fecha 2 de octubre de 2006, en las cantidades de $5.632.520, para el lote Nº4-A, $7.640.180, para el lote Nº5-A, $1.288.560, para el lote Nº9-A, $11.976.600, para el lote Nº10-A y $9.093.290, para el lote Nº11-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
