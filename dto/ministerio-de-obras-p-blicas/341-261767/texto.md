@@ -1,0 +1,5 @@
+Por decreto MOP Nº 341 de 7 de mayo de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº 32-B y 37-B para la obra: "Habilitación Avda. Circunvalación Río Claro en Talca", que figuran a nombre de Servicios y Eventos Limitada, Rojas Rojas Eduardo, roles de avalúo 851-9 y 731-4 de la Comuna de Talca, VII Región, superficies 276 y 291 m². respectivamente. La Comisión de Peritos con fecha 30 de noviembre de 2005, complementada por acta de la misma fecha el monto de la indemnización provisional en la cantidad de
+
+$16.561.000.- lote Nº37-B y el 28 de noviembre de 2006 en la cantidad de $6.676.000.- lote Nº32-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
