@@ -1,0 +1,3 @@
+Por decreto MOP Nº 328 de fecha 30 de abril del 2007, se expropió el lote de terreno Nº12-1, superficie 187 m², Rol Nº9034-2, comuna de San Antonio, V Región para la obra "Acceso al Puerto de San Antonio Ruta 78. Sector: Agua Buena - Puerto San Antonio. Km. 1.200,00 a Km. 7.840,00" y se acordó el valor de indemnización con su propietario Inmobiliaria del Inca S.A. ascendente a la cantidad de $4.573.272.
+
+- Fiscal del Ministerio de Obras Públicas.
