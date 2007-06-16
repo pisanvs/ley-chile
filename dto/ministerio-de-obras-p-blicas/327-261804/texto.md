@@ -1,0 +1,3 @@
+Por decreto MOP Nº 327, de fecha 30 de abril de 2007, se expropiaron los lotes de terrenos Nºs. 2-A y 2-C, superficies 33,00 y 124,50 m² respectivamente, Rol Nº 2284-15, comuna de Viña del Mar, V Región, para la obra "Mejoramiento Ruta 60 CH, Sector Villa Dulce - Torquemada, tramo Km. 0,00000 al Km. 10,47641", y se acordó el valor de indemnización con su propietario Juan Gastón López Contreras, ascendente a la cantidad de $14.394.592.
+
+- Fiscal del Ministerio de Obras Públicas.
