@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.649, de 1 de junio de 2007, de esta Subsecretaría, autorízase a SALMONES AUCAR LIMITADA, para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Aucar s/nº, comuna de Quemchi, Provincia de Chiloé, X Región, en las líneas de proceso de Cocido y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 1 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
