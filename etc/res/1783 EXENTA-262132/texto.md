@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.783, de 12 de junio de 2007 de esta Subsecretaría, modifícase el numeral 5º de la resolución Nº 698, modificada mediante resoluciones Nº 1.123, Nº 1.351, Nº 1.399, Nº 1.535 y Nº 1.617, todas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, I y II regiones", en el sentido de incorporar a la embarcación artesanal "Desiderio Rojas" (RPA Nº 923247), al listado de naves autorizadas para participar en la presente pesca de investigación.
+
+Valparaíso, 12 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
