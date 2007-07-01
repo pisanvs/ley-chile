@@ -20,6 +20,10 @@ Fíjanse las siguientes exigencias sanitarias para la internación a Chile, de l
 
 2.3. Lavado industrial consistente en inmersión en baños seriados, de agua, jabón y soda o potasa.
 
+2.4 Lavado industrial con detergente soluble en agua a 60 a 70°C.
+
+2.5 Almacenamiento de la lana a 18°C por cuatro semanas, a 4°C durante cuatro meses o a 37°C durante ocho días.
+
 3. En caso que la lana proceda de un país o zona reconocidos por Chile como libre de Fiebre aftosa, no se exigirá lo establecido en el punto 2, debiéndose señalar dicha condición en el certificado sanitario de exportación.
 
 ### 4. No debe presentar Melophagus ovino, ni efectos de sarna
