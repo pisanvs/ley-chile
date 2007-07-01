@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.681, de 4 de junio de 2007, de esta Subsecretaría, autorízase a SOCIEDAD CONSERVERA SACRAMENTO LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Eulogio Goycolea Nº 720, Calbuco, X Región, donde podrá elaborar en las líneas de proceso de fresco-enfriado, fresco-refrigerado, congelado, conserva, alga seca y deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Déjanse sin efecto las resoluciones Nº 151 de 1990, Nº 651 de 1991, Nº 1.266 de 1992, 1.841 de 1996, Nº 83 de 1998, Nº 121 de 1999, Nº 2.192 de 2003, Nº 340, Nº 1.361, Nº 4.017, todas de 2005 y Nº 897 de 2007, todas de esta Subsecretaría, en virtud del contenido de la presente resolución.
+
+Valparaíso, 4 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
