@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCION Nº 1.022 EXENTA, DE 22 DE ENERO DE 2007
+
+Por resolución exenta de Educación Nº 1.022, de 22 de enero del 2007, se ha complementado, a partir del año escolar 2007, la resolución exenta de Educación Nº 5.939, de 2002, que aprobó plan y programas especiales de estudio para 1º a 4º año de Enseñanza Media al Instituto de Humanidades Luis Campino, comuna de Providencia, de Santiago, en el sentido de incorporar los Subsectores de "Precálculo" e "Introducción al Cálculo", del Plan Matemático-Físico, para 3º y 4º año de Enseñanza Media y el de "Actualidad Nacional e Internacional", del Plan Humanista, para 3º y 4ºaño de Enseñanza Media, ambos del Plan de Formación Diferenciada, con dos horas de clases semanales, cuyos programas se aprueban en la presente resolución.
+
+- Jaime Veas Sánchez, Jefe División de Educación General (S).
