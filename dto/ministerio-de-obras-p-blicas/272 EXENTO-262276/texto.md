@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 272, de fecha 30 de mayo de 2007, se expropió el lote de terreno N° 10, superficie 5.287 m2, Rol N° 144-35, comuna de Huasco, III Región, para la obra 'Construcción Camino Costero, Tramo Huasco - Carrizal, Provincia de Huasco, Región de Atacama, Etapa II', y se acordó el valor de indemnización con su propietaria Antonella Anastasia Giglio von Mayenberger y otros, ascendente a la cantidad de $437.044.
+
+Fiscal del Ministerio de Obras Públicas.
