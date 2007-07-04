@@ -1,0 +1,5 @@
+Por decreto MOP N° 336, de 30 de abril de 2007 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y D.F.L. MOP N° 206, de 1960, se expropió el lote de terreno N° 2 para la obra: 'Camino Autopista Santiago - San Antonio. Sector: Segmento 3 Malloco - San Antonio. Tramo: Km.
+
+34.480,00 al Km. 34.860,00' Región Metropolitana, que figura a nombre de Rosales Arancibia Marco y otros, rol de avalúo 507-212, comuna de Talagante, superficie 965 m2. La comisión de peritos integrada por las señoras María Cristina Camus Palacios, Marlene Teresa Ríos Marcuello y María Pilar Quiroga González, fijó con fecha 14 de noviembre de 2003, el valor provisional de la indemnización en la cantidad de $22.615.250.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
