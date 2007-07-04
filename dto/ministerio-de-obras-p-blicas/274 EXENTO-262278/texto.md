@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 274 de fecha 30 de mayo de 2007, se expropió el lote de terreno N° 32, superficie 118 m2, rol N° 436-81, comuna de Cauquenes, para la obra 'Camino Reposición Pav. Ruta M-50, Sector Cauquenes - Chanco, Tramo Cauquenes Tutuven, Km. 2,65000 a Km. 15,24724', X Región y se acordó el valor de la indemnización con su propietario Ana María Bustos Osores, ascendente a la cantidad de $241.662.
+
+Fiscal del Ministerio de Obras Públicas.
