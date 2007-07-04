@@ -1,0 +1,3 @@
+Por decreto MOP Nº 373, de 30 de mayo de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra: Camino Ruta G-562, Sector Puente Rosario, Tramo Km. 1,70000 a Km. 2,14000, que figura a nombre de Quintanilla Flores Leontina, rol de avalúo 137-717, comuna de Paine, Región Metropolitana, superficie 1.318 m2. La comisión de peritos con fecha 7 de agosto de 2005 fijó el monto de la indemnización provisional en la cantidad de $7.191.000.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
