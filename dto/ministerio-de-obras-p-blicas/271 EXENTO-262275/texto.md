@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 271, de fecha 30 de mayo de 2007, se expropiaron los lotes de terreno Nºs 133 y 134, superficies 350,74 y 121,48 m2, respectivamente, rol Nº 554-51, comuna de Linares, VII Región, para la obra: 'Camino Conservación L-45, Sector Escuela Llepo - Puente Los Hualles, Tramo Km. 13,14700 a Km. 36,446', X Región, y se acordó el valor de indemnización con su propietario Enrique Angel Sanjuanes Ruz, ascendente a la cantidad de $916.671.
+
+Fiscal del Ministerio de Obras Públicas.
