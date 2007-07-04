@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 268, de fecha 30 de mayo de 2007, se expropiaron los lotes de terreno Nºs 13-A-1, 13-A-2, 13-A-3 y 13-A-4, superficies 720,00, 396,00, 323,00 y 455,00 m2, respectivamente, Rol Nº50-15, comuna de Til Til, para la obra 'Mejoramiento Ruta G-16, Camino Lampa - Til Til - Runge, I Etapa, Sector Til Til - Runge, Km. 44,12800 al Km. 54,64412', Región Metropolitana, y se acordó el valor de la indemnización con su propietario Eduardo Angel Antonio del Carmen Errázuriz Cañas, ascendente a la cantidad de $265.976.
+
+Fiscal del Ministerio de Obras Públicas.
