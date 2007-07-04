@@ -1,0 +1,3 @@
+Por decreto MOP Nº 334, de fecha 30 de abril de 2007, se expropió el lote de terreno Nº1, superficie 1.385 m2, Rol Nº137-429, comuna de Paine, Región Metropolitana, para la obra 'Camino Ruta G-562, Sector Puente Rosario Tramo Km. 1,70000 al Km. 2,14000', y se acordó el valor de indemnización con su propietaria Elena Núñez Cuevas, ascendente a la cantidad de $13.281.320.
+
+Fiscal del Ministerio de Obras Públicas.
