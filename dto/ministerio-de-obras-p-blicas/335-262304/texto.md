@@ -1,0 +1,3 @@
+Por decreto MOP Nº 335, de fecha 30 de abril de 2007, se expropiaron los lotes de terrenos Nºs 23 y 24-A, superficie 269 y 4.244 m2, respectivamente, Rol Nº218-27, comuna de Cañete, VIII Región, para la obra 'Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 al Km. 12,80844', y se acordó el valor de indemnización con su propietario José Manuel Gajardo Cáceres, ascendente a la cantidad de $6.889.333.
+
+Fiscal del Ministerio de Obras Públicas.
