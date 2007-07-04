@@ -1,0 +1,3 @@
+Por decreto MOP N° 267 de fecha 30 de mayo de 2007, se expropió el lote de terreno N° 19, superficie 1.341 m2, rol N° 381-280, comuna de Pitrufquén, para la obra 'Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Proyecto Faja Maisan IX Región', Canal Mapu Quimey, IX Región y se acordó el valor de la indemnización con su propietaria Juana Ordoñez, ascendente a la cantidad de $1.185.626.
+
+Fiscal del Ministerio de Obras Públicas.
