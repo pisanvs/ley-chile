@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 275, de fecha 30 de mayo de 2007, se expropió el lote de terreno Nº 82-D, superficie 271 m2, Rol Nº409-87, comuna de Los Muermos, para la obra 'Camino Ruta V-60, Sector El Tepual-Las Quemas-Los Muermos, Km. 0,00000 a Km. 32,27442', X Región, y se acordó el valor de la indemnización con su propietario Luis Augusto Berner Rehbein, ascendente a la cantidad de $381.462.
+
+Fiscal del Ministerio de Obras Públicas.
