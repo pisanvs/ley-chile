@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 276, de fecha 30 de mayo de 2007, se expropió el lote de terreno Nº 43-A, superficie 127,08 m2, Rol en trámite, comuna de Salamanca, para la obra 'Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 a Km. 23,49783, II Etapa', IV Región, y se acordó el valor de la indemnización con su propietario Mateo Alejandro Briceño Suárez, ascendente a la cantidad de $1.497.948.
+
+Fiscal del Ministerio de Obras Públicas.
