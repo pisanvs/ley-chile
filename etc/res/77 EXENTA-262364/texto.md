@@ -1,0 +1,5 @@
+AUTORIZA EMISORES ELECTRONICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 77 de 28 de junio de 2007, que autoriza a contribuyentes como emisores electrónicos. Se autoriza como emisores de documentos tributarios RUT 99.585.960-2, RUT 77.716.980-7, RUT 96.575.060-6, RUT 96.562.520-8, RUT 77.717.030-9, RUT 77.716.960-2, RUT 76.489.260-7, RUT 77.716.660-3, RUT 96.575.030-4, RUT 96.519.000-7, RUT 76.401.090-6, RUT 06.491.669-6, RUT 77.612.020-0, RUT 77.324.370-0 y RUT 77.627.940-4 a contar del mes de julio 2007. En la Oficina Virtual del SII en Internet se podrá consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de Junio, de 2007.
