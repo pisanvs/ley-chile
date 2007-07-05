@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.929, de 26 de junio de 2007, de esta Subsecretaría, autorízase a COMERCIALIZADORA Y EXPORTADORA DE PRODUCTOS DEL MAR SEA FISH LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Ruta 68, Nº 1240, sala 3, Placilla de Peñuelas, Valparaíso, V Región, donde podrá elaborar en las líneas de proceso de Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
