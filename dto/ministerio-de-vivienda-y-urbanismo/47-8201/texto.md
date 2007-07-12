@@ -674,6 +674,10 @@ El Director de Obras Municipales concederá el permiso de urbanización o edific
 
 En cada caso el cumplimiento de las disposiciones señaladas en el inciso anterior se verificará sobre la base de los antecedentes que bajo su responsabilidad hubiere acompañado el interesado y los profesionales competentes que suscriben la solicitud.
 
+Las solicitudes y trámites para la obtención de certificados, autorizaciones y permisos de que trata esta Ordenanza, y los actos y demás documentos de las Direcciones de Obras Municipales, podrán ser efectuados o expedidos mediante medios electrónicos. En tal caso la Dirección de Obras Municipales respectiva y los interesados deberán cumplir con lo dispuesto en la Ley Nº 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, su reglamento y las normas técnicas vigentes sobre la materia, sin perjuicio del cumplimiento de todos los requisitos que para cada actuación establece esta Ordenanza.
+
+Para los efectos de lo dispuesto en el inciso anterior, los expedientes y documentos ingresados por medios electrónicos deberán almacenarse en un repositorio o archivo electrónico especialmente habilitado para la seguridad y permanencia de dicha documentación, cuya conservación e integridad será resguardada conforme a las normas técnicas sobre seguridad y confidencialidad del documento electrónico.
+
 #### Artículo 1
 
 4.2. Los documentos y requisitos exigidos en la Ley General de Urbanismo y Construcciones y en esta Ordenanza para la obtención de permisos, recepciones, aprobación de anteproyectos y demás solicitudes ante las Direcciones de Obras Municipales, constituyen las únicas exigencias que deben cumplirse, sin perjuicio de requisitos que, en forma explícita y para los mismos efectos, exijan otras leyes.
@@ -972,11 +976,9 @@ Las áreas no reguladas por Instrumentos de Planificación Territorial se regir�
 
 #### Artículo 2
 
-1.3. La confección y aplicación de los Instrumentos de Planificación Territorial deberá realizarse, según el ámbito de acción propio de cada nivel, conforme a las disposiciones de este Capítulo.
+1.3. La elaboración y aplicación de los instrumentos de planificación territorial deberá realizarse, según el ámbito de acción propio de cada nivel, conforme a las disposiciones de este Capítulo.
 
-Sin embargo, los Planes Reguladores Intercomunales o Comunales, a falta del Instrumento de Planificación Territorial inmediatamente inferior o superior, respectivamente, podrán hacer las veces de tal, mientras éste no exista, incorporando normas provisorias sobre las materias propias del nivel faltante.
-
-A partir de la fecha de entrada en vigencia del instrumento del nivel faltante, sus disposiciones reemplazarán automáticamente a aquellas que subsidiariamente se encontraren en el nivel inmediatamente inferior o superior, respectivamente.
+Sin perjuicio de lo anterior, los Planes Reguladores Intercomunales o Comunales podrán establecer, sólo para territorios no planificados, disposiciones transitorias con carácter supletorio sobre las materias propias del otro nivel, las que quedarán sin efecto al momento de entrar en vigencia el instrumento de planificación territorial que contenga las normas correspondientes a su propio nivel. Estas disposiciones transitorias no serán imperativas para el nuevo instrumento.
 
 #### Artículo 2
 
@@ -2668,9 +2670,25 @@ Con todo, para asegurar la absorción de aguas lluvia al interior del predio y l
 
 Cuando los subterráneos se adosen se deberá presentar a la Dirección de Obras Municipales un informe de un profesional competente respecto de las medidas de seguridad y de estabilidad estructural correspondientes.
 
-2. En caso de Planes Reguladores Comunales que contemplen distanciamientos o zonas inexcavadas aplicables a los subterráneos, excepcionalmente se podrá permitir construcciones adosadas al deslinde, cuando exista un proyecto que asegure la absorción de aguas lluvia al interior del terreno y se redistribuyan las áreas inexcavadas consultadas en los Planes Reguladores o cuando existan subterráneos en los deslindes de predios vecinos, pudiendo adosarse a éstos en la misma extensión de los existentes.
+2. Con las disposiciones de distanciamientos o zonas inexcavadas aplicables a los subterráneos, establecidas para edificaciones subterráneas en los Planes Reguladores Comunales.
 
-En estos casos, se deberá dar cumplimiento a lo dispuesto en el párrafo tercero del numeral 1 de este inciso.
+En estos casos, el Director de Obras Municipales podrá, excepcionalmente y en casos calificados, autorizar construcciones adosadas al deslinde, debiendo requerir los siguientes antecedentes mínimos:
+
+a) Informe de un profesional competente
+
+respecto de las medidas de seguridad y de
+
+estabilidad estructural correspondientes.
+
+b) Un proyecto que asegure la absorción de
+
+aguas lluvias al interior del terreno y se
+
+redistribuyan las áreas inexcavadas
+
+consultadas en los Planes Reguladores
+
+Comunales.
 
 3. En caso de conexión de construcciones subterráneas de predios contiguos que cuenten con servidumbres de tránsito, no les serán aplicables las disposiciones de los Planes Reguladores Comunales que establezcan inexcavaciones, distanciamientos u otras normas similares aplicables a los subterráneos, siempre que la conexión cuente con un informe de un profesional competente respecto del cumplimiento de las normas de seguridad y de estabilidad estructural correspondientes.
 
@@ -2700,21 +2718,37 @@ b) Estar emplazado en un terreno que constituya en sí una manzana existente, re
 
 c) Estar emplazado en un terreno resultante de una fusión predial, conforme al artículo 63 del D.F.L. N° 458, de Vivienda y Urbanismo, de 1975, siempre que su superficie no sea inferior a 2.500 m2.
 
-En los casos a que se refieren las letras a), b) y c) precedentes, los terrenos deberán deslindar, al menos por uno de sus costados, con una calle existente o consultada en el Plan Regulador respectivo, de un ancho mínimo de 20 m., con calzada de un ancho total mínimo de 14 m.
+PÁRRAFO ELIMINADO.
 
 2.- Condición de uso:
 
-Estar destinado a equipamiento y emplazado en un terreno en que el Plan Regulador respectivo consulte el equipamiento como uso de suelo, de una superficie total no inferior a 2.500 m2, que deslinde, al menos por uno de sus costados, con una calle existente o consultada en el Plan Regulador respectivo, de un ancho mínimo de 30 m., con calzada de un ancho total mínimo de 14 m.
+Estar destinado a equipamiento y emplazado en un terreno en que el Plan Regulador respectivo consulte el equipamiento como uso de suelo, que tenga una superficie total no inferior a 2.500 m2 y cumpla con lo preceptuado en el artículo 2.1.36. de esta Ordenanza.
 
 El distanciamiento entre los edificios que contempla el proyecto y los deslindes con los predios vecinos, no podrá ser inferior a 10 m., aunque se emplace en áreas de construcción continua obligatoria.
 
 3.- Condición de localización y ampliación:
 
-Estar localizados en el mismo terreno en que estén emplazados inmuebles declarados Monumentos Nacionales o Históricos, y proyectados como ampliación, restauración o reciclaje de los mismos, debiendo contar con autorización previa del Consejo de Monumentos Nacionales, conforme a la Ley N° 17.288.
+a) Estar localizados en el mismo terreno en que estén emplazados inmuebles declarados Monumentos Nacionales o definidos por el Plan Regulador como inmuebles de conservación histórica y que el proyecto contemple su ampliación, restauración, remodelación, reparación o rehabilitación.
+
+En el primer caso deberán contar con autorización previa del Consejo de Monumentos Nacionales, conforme a la Ley Nº 17.288, y en el segundo, con autorización de la Secretaría Regional Ministerial de Vivienda y Urbanismo.
+
+b) Estar emplazados en un predio contiguo a un inmueble declarado Monumento Nacional o definido por el Plan Regulador como inmueble de conservación histórica y que el proyecto contemple la ampliación, restauración, remodelación, reparación o rehabilitación del respectivo Monumento Nacional o inmueble de conservación histórica.
+
+En estos casos, la ampliación, restauración, remodelación, reparación o rehabilitación del inmueble declarado Monumento Nacional deberá contar con autorización previa del Consejo de Monumentos Nacionales, conforme a la Ley Nº 17.288, y cuando dichas obras se realicen en un inmueble de conservación histórica, con la autorización previa de la Secretaría Regional Ministerial de Vivienda y Urbanismo.
+
+Los proyectos que cumplan con alguna de las condiciones señaladas en el inciso anterior deberán, además, cumplir copulativamente con los siguientes requisitos:
+
+a) Que el terreno enfrente en al menos 20 metros a una vía existente o proyectada en el Plan Regulador respectivo, de un ancho mínimo de 20 m., con calzada de no menos de 14 m.
+
+En el caso que la calzada no se encuentre materializada con las características señaladas, deberá ser ensanchada por el proyecto, hasta encontrarse o empalmarse con una calzada existente de al menos el mismo ancho.
+
+b) Que se ejecute un proyecto de mejoramiento en el espacio público que enfrenta el terreno, en toda el área comprendida entre la línea oficial y la solera, de acuerdo al diseño y características establecidos en el respectivo plan seccional.
+
+Las obras que se deban realizar en conformidad al presente artículo deberán contar con recepción final previa o conjuntamente con las obras de edificación.
 
 #### Artículo 2
 
-6.5. Los proyectos que cumplan con la condición de dimensión a que se refieren las letras a) y b) del número 1, del artículo 2.6.4., podrán exceder hasta en un 50% el coeficiente de constructibilidad establecido por el Plan Regulador respectivo.
+6.5. Los proyectos que cumplan con la condición de dimensión a que se refieren las letras a) o b) del número 1, del artículo 2.6.4., podrán exceder hasta en un 50% el coeficiente de constructibilidad establecido por el Plan Regulador respectivo.
 
 Los proyectos que cumplan con la condición de dimensión a que se refiere la letra c) del número 1. del artículo 2.6.4., podrán exceder hasta en un 30% el coeficiente de constructibilidad establecido por el Plan Regulador respectivo.
 
@@ -2724,11 +2758,11 @@ Los proyectos que cumplan con la condición de dimensión a que se refiere la le
 
 #### Artículo 2
 
-6.7. Los proyectos que cumplan con la condición de localización y ampliación, podrán exceder hasta en un 100% el coeficiente de constructibilidad establecido en el Plan Regulador respectivo.
+6.7. Los proyectos que cumplan con la condición de localización y ampliación a que se refieren las letras a) o b) del númeral 3. del artículo 2.6.4. de esta Ordenanza, podrán aumentar hasta en un 50% el coeficiente de constructibilidad establecido en el Plan Regulador respectivo.
 
 #### Artículo 2
 
-6.8. Tratándose de fusión de terrenos, en los porcentajes de exceso de los coeficientes de constructibilidad señalados en los artículos 2.6.5., 2.6.6. y 2.6.7. se entiende incluido el 30% de aumento de dicho coeficiente que otorga el artículo 63 del D.F.L. N° 458, de Vivienda y Urbanismo, de 1975.
+6.8. Tratándose de fusión de terrenos, en los porcentajes de incremento de los coeficientes de constructibilidad señalados en los artículos 2.6.5., 2.6.6. y 2.6.7. se entiende incluido el 30% de aumento de dicho coeficiente que otorga el artículo 63 del D.F.L. N° 458, de Vivienda y Urbanismo, de 1975.
 
 #### Artículo 2
 
@@ -2810,9 +2844,17 @@ Sobre el trazado resultante se calculará la superficie de cada una de las tres 
 
 #### Artículo 2
 
-6.15. Un proyecto acogido a Conjunto Armónico podrá dividirse en partes, siempre que los predios resultantes de cada parte no sean inferiores a 2.500 m2 y que cada parte cumpla individualmente con las normas de esta Ordenanza, sin perjuicio de lo dispuesto en el artículo 2.6.16.
+6.15. Un proyecto acogido a Conjunto Armónico podrá dividirse en partes, siempre que los predios resultantes de la subdivisión no sean inferiores a 2.500 m2 y que cada parte cumpla individualmente con las normas del Título 4 de esta Ordenanza.
 
-Asimismo, podrán aprobarse proyectos acogidos a Conjunto Armónico emplazados en 2 o más predios colindantes, siempre que cada uno de ellos cumpla las condiciones indicadas en el inciso anterior.
+Asimismo, podrán aprobarse proyectos acogidos a Conjunto Armónico emplazados en 2 o más predios colindantes, siempre que el terreno total involucrado cumpla las disposiciones del artículo 2.6.4. de esta Ordenanza y la solicitud de permiso sea suscrita por los propietarios de los predios involucrados.
+
+En el expediente se deberá acompañar un plano de emplazamiento en que se grafiquen, a una escala adecuada, los predios y las edificaciones a desarrollar en cada una de las partes del proyecto y las normas urbanísticas de cada predio.
+
+En caso que se contemplen servidumbres de paso entre los distintos predios, éstas deberán señalarse en el proyecto.
+
+Las normas urbanísticas se aplicarán a los proyectos de que trata este artículo como si se tratara de un solo predio, y en el caso que el predio o los predios queden afectos a dos o más zonas o subzonas del instrumento de planificación territorial, se aplicará lo preceptuado en el artículo 2.1.21. de esta Ordenanza.
+
+En caso de aprobarse un proyecto acogido a Conjunto Armónico emplazado en dos o más predios, el Director de Obras Municipales dictará la resolución del permiso de edificación acogiendo dicho proyecto a Conjunto Armónico. En estos casos, para efectos del control de las normas urbanísticas utilizadas por el total del proyecto, la Dirección de Obras Municipales deberá llevar un registro separado de los proyectos que se aprueben en conformidad al presente artículo.
 
 #### Artículo 2
 
@@ -2835,6 +2877,14 @@ Las obras de pavimentación señaladas no requerirán permisos especiales o la a
 #### Artículo 2
 
 6.18. En la tramitación de solicitudes de proyectos acogidos a Conjunto Armónico, sólo le corresponde intervenir al Director de Obras Municipales, quien verificará como parte del proceso normal de revisión que el proyecto cumple las condiciones para acogerse a tales disposiciones, todo ello sin perjuicio de las revisiones que, en su caso, correspondan a los revisores independientes.
+
+#### Artículo 2
+
+6.19. El incremento de altura señalado en el artículo 2.6.9. de esta Ordenanza para los proyectos acogidos a Conjunto Armónico, podrá ser disminuido en un 50% por los planes reguladores comunales, de acuerdo a las características de las zonas o subzonas de la comuna.
+
+Asimismo, el plan regulador comunal podrá determinar zonas o subzonas en las que se rebajen hasta en un 50% los porcentajes de mayor constructibilidad señalados en los artículos 2.6.5., 2.6.6. y 2.6.7.
+
+> **Nota.** El artículo transitorio del Decreto 103, Vivienda, publicado el 11.07.2007, establece que la facultad conferida por este artículo podrá ser ejercida hasta por el plazo de dos años, contado desde su fecha de publicación.
 
 ## Capítulo 7.
 
@@ -8848,7 +8898,9 @@ El porcentaje de adosamiento y la altura máxima de adosamiento podrá excederse
 
 El adosamiento deberá inscribirse dentro de un ángulo no superior a 45 grados sexagesimales, aplicado en el deslinde, desde la altura máxima de adosamiento permitida.
 
-La tramitación del permiso y la recepción definitiva de las edificaciones como también la regularización de la primera vivienda a que se refiere este artículo, se efectuará conforme al procedimiento dispuesto para las obras menores de esta Ordenanza.
+La tramitación del permiso para las viviendas a que se refiere este artículo y la recepción definitiva de sus edificaciones, como también la regularización de la primera vivienda y sus ampliaciones, que se emplacen en el área urbana o rural, se efectuará conforme al procedimiento dispuesto en esta Ordenanza para las obras menores, sin que les sean aplicables las normas de los instrumentos de planificación territorial respectivos.
+
+Lo señalado en el inciso precedente será aplicable también a los casos que se establecen en el inciso segundo del artículo 6.2.4. de esta Ordenanza.
 
 ## Capítulo 3
 
