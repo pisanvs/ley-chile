@@ -2118,7 +2118,7 @@ Estos miembros del Comité no deben participar de los ingresos o utilidades de l
 
 4.- Duración del mandato de los representantes del Directorio y participación de los auditores externos.
 
-El Directorio de la institución determinará la duración del mandato de sus representantes en el Comité, el que en ningún caso podrá ser superior a tres años, o hasta el término del período del Directorio, si éste concluyera antes de ese plazo.
+El Directorio de la institución determinará la duración del mandato de sus representantes en el Comité, el que no podrá exceder del término del período para el cual fue elegido el Directorio. No obstante, los mismos representantes podrán continuar por nuevos períodos si son reelegidos como Directores de la institución, siempre que así lo acuerde el Directorio.
 
 El socio representante de la firma auditora, que estará sujeto a todas las limitaciones que se establecen en las Circulares N°s. 1 y 2 para Auditores Externos, participará en las reuniones del Comité a que sea convocado o a las que él solicite asistir con el fin de dar cuenta de las situaciones, hechos o avances propios de su función de auditores externos de la empresa.
 
