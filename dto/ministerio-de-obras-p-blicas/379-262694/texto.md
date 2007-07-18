@@ -1,0 +1,3 @@
+Por decreto MOP Nº 379, de fecha 30 de mayo del 2007, se expropiaron los lotes de terrenos Nºs. 4-A y 4-B, superficies 7.240 y 5.920 m² respectivamente, Rol Nº 276-95, comuna de Putaendo, V Región, para la obra "Camino Cabildo - Putaendo, Ruta E-41, Sector El Tártaro - Putaendo, Tramo Km. 58,86000 al Km. 65,13300", y se acordó el valor de indemnización con su propietario Carlos Alfredo Estay Lobos, ascendente a la cantidad de $11.382.959.-
+
+Fiscal del Ministerio de Obras Públicas.
