@@ -1,0 +1,3 @@
+Por decreto MOP Nº 301, de 30 de abril de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 75, para la ejecución del Proyecto: Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca, Km. 13,14000 a Km. 23,49783, II Etapa, que figura a nombre de Vargas Pastén Juan Bautista, rol de avalúo 260-124, comuna de Salamanca, superficie 1.215,70 M2. La Comisión de Peritos, fijó con fecha 14 de noviembre de 2005, en la cantidad de $4.292.560. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
