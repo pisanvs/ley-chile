@@ -1,0 +1,3 @@
+Por decreto MOP Nº 378, de fecha 30 de mayo del 2007, se expropiaron los lotes de terrenos Nºs. 16 y 18, superficies 12.362,30 y 11.651,70 m² respectivamente, Rol Nº 167-80, comuna de Maule, VII Región, para la obra: "Camino Ruta K-630 Sector: Culenar - Chacarilla, Km. 0,00000 al Km. 4,74100", y se acordó el valor de indemnización con su propietaria María Dolores del Tránsito Lillo Bustamante, ascendente a la cantidad de $16.423.360.-
+
+Fiscal del Ministerio de Obras Públicas.
