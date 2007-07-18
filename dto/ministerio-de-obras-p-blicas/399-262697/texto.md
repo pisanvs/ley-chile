@@ -1,0 +1,5 @@
+Por decreto MOP Nº 399 de 13 de junio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron para la Empresa de Servicios Sanitarios del Bío Bío S.A. los lotes de terreno Nºs. 1, 2 y 3 para la obra: "Colector Villa Nonguén", que figuran a nombre de Inmob. e Inv. Lomas de Nonguén Limitada y Villarroel Muñoz Francisco, Roles de avalúo Nºs. 4001-2 y 4048-4, Comuna de Concepción, VIII Región, superficies: 275,37 m², 28,16 m² y 57,93 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 19 de enero de 2007, en la cantidad de $3.765.128.- para el lote Nº 1;
+
+$608.650.- para el lote Nº 2 y $645.267.- para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
