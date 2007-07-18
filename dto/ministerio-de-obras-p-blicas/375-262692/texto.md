@@ -1,0 +1,3 @@
+Por decreto MOP Nº 375, de fecha 30 de mayo de 2007, se expropió el lote de terreno Nº 39, superficie 23.724 m2, Rol Nº 110-20, comuna de Quilicura, Región Metropolitana para la obra "Mejoramiento del Cauce del Estero Las Cruces", y se acordó el valor de indemnización con su propietario Inmobiliaria Queylen S.A. e Inmobiliaria Don Benjamín Limitada, ascendente a la cantidad de $468.285.171.-
+
+Fiscal del Ministerio de Obras Públicas.
