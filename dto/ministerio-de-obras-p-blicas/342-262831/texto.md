@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 342 de 7 de mayo de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº 16 y 17 para la obra: Camino Ruta M-
+
+24-K Quivolgo - Puente Lautaro, Sector E: Conexión La Trinchera Tramo 0,000 a km. 2,560, que figura a nombre de Letelier Letelier María Oriana, rol de avalúo 171- 114, de la Comuna de Curepto, VII Región, superficies 4.200 y 16.000 m² respectivamente. La Comisión de Peritos con fecha 30 de junio de 2006, fijó el monto de la indemnización provisional en la cantidad de $7.560.000.- para el lote Nº 16 y $28.800.000.- para el lote Nº 17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
