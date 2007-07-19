@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.741, de 7 de junio de 2007, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES, PESCADORES ARTESANALES Y AYUDANTES DE CALETA CHANAVAYA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Caleta Chanavaya, comuna y provincia de Iquique, I Región, donde podrá elaborar en la línea de proceso de ALGA SECA, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
