@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.957, de 3 de julio de 2007, de esta Subsecretaría, autorízase a YANET SOLEDAD TABILO TABILO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Salala s/nº, Ovalle, IV Región, donde podrá elaborar en las líneas de proceso de Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de julio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
