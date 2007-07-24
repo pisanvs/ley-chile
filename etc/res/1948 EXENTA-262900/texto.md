@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.948, de 28 de junio de 2007, de esta Subsecretaría, modifícase el númeral 5º de la resolución exenta Nº 1.815, de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACION PESQUERA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Distribución y estructura de los recursos Anchoveta y Sardina común entre los límites regionales de la VIII Región" en el sentido de incrementar en 213 toneladas de Anchoveta y 201 toneladas de Sardina común la cuota máxima total autorizada a extraer al conjunto de embarcaciones artesanales autorizadas a participar en la presente pesca de investigación.
+
+Valparaíso, 28 de junio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
