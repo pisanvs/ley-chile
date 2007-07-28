@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.013, de 9 de julio de 2007, de esta Subsecretaría, autorízase a PESQUERA COSTA MAR LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en kilómetro 15.5, camino Concepción a Coronel, VIII Región, donde podrá elaborar en las líneas de proceso Fresco-Refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de julio de 2007.- Carlos Hernández Salas, Subsecretario de Pesca.
