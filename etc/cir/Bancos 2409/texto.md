@@ -8150,13 +8150,15 @@ El objetivo de determinar el valor de mercado para un instrumento financiero, es
 
 Se considera que un instrumento tiene cotización en un mercado activo si se cuenta permanentemente con cotizaciones actualizadas provenientes de bolsas, corredores, operadores, agencias de información o reguladoras y esos precios: (i) reflejan transacciones voluntarias que se efectúan regularmente en los mercados; y, (ii) pueden ser obtenidos de forma sistemática y expedita.
 
-Si al momento de la valoración de un instrumento se cumple lo anterior, las cotizaciones obtenidas de fuentes independientes (como precios efectivos de operaciones realizadas en el mercado o cotizaciones de intermediarios autorizados) siempre serán consideradas como la mejor medida de su valor razonable.
+Si al momento de la valoración de un instrumento se cumple lo anterior, las cotizaciones obtenidas de fuentes independientes siempre serán consideradas como la mejor medida de su valor razonable.
 
-Para considerar las cotizaciones de mercado se deberá utilizar el precio de compra o el precio de venta vigente, según corresponda.
+Para considerar las cotizaciones de mercado se deberá utilizar el precio de compra o el precio de venta vigente, según corresponda. No obstante, cuando una entidad mantenga posiciones en activos y pasivos cuyos riesgos de mercado se compensan entre sí, podrá utilizar el precio medio como una base para la valoración de tales posiciones.
+
+Cuando no se disponga de cotizaciones que satisfagan las condiciones señaladas en el segundo párrafo de este numeral, las entidades podrán considerar la evidencia que suministran las transacciones más recientes para obtener el valor razonable actual, siempre y cuando no haya habido un cambio significativo en las circunstancias económicas desde el momento en que se materializó la operación.
 
 Las posiciones deberán valorarse utilizando información de mercado para un mismo momento del tiempo. Por ejemplo, si se trata de una cartera cubierta con instrumentos derivados, los instrumentos cubiertos y los derivados deberán ser valorados utilizando las respectivas cotizaciones en el mismo momento, aun cuando difieran los horarios de cierre de los mercados en que ellos se transan. Del mismo modo, todos los instrumentos de una misma cartera deberán ser valorados utilizando las cotizaciones existentes para un determinado momento, aunque sean transados en mercados distintos. Por otra parte, las cotizaciones de precios para valorar un instrumento, necesariamente deberán guardar relación con las usadas en aquellas transacciones con el mismo instrumento que eventualmente hayan sido efectuadas en ese momento.
 
-Si las transacciones para un instrumento financiero no tienen la suficiente frecuencia o se transan volúmenes muy pequeños en relación con la cartera que la entidad mantiene, las cotizaciones de precios pueden no ser un buen indicativo del valor razonable. En ese caso, la valoración se efectuará mediante modelación, siguiendo los criterios que se indican en el N° 5 siguiente.
+Si las transacciones para un instrumento financiero no tienen la suficiente frecuencia o se transan volúmenes muy pequeños en relación con la cartera que la entidad mantiene, las cotizaciones de mercado o precios de transacciones recientes pueden no ser un buen indicativo del valor razonable. En ese caso, la valoración se efectuará mediante modelación, siguiendo los criterios que se indican en el N° 5 siguiente.
 
 5.- Valoración por modelación.
 
