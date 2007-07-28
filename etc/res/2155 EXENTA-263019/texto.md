@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.155, de 20 de julio de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205104057 presentada por JORGE ARTURO CAMPODONICO PELUCHONNEAU y Alfonso Gutiérrez Venegas, para instalar y operar un centro de cultivo ubicado Ensenada Codihué, al sur de Punta Colaco, X Región.
+
+Valparaíso, 20 de julio de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
