@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.152, de 20 de julio de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111833 presentada por JUAN BAUTISTA GONZALEZ BLANCO, para instalar y operar un centro de cultivo ubicado canal Errázuriz, al norte de Punta Harchy, Isla Humos, XI Región.
+
+Valparaíso, 20 de julio de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
