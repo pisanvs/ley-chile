@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.189, de 20 de julio de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111848 presentada por JUAN BAUTISTA GONZALEZ BLANCO, para instalar y operar un centro de cultivo ubicado en Canal Errázuriz, lado este de Isla Humos, sector B, XI Región.
+
+Valparaíso, 20 de julio de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
