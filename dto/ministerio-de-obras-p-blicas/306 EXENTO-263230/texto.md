@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 306, de 13 de junio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 1 y 3, para la obra: "Proyecto Construcción Puente Añihuarraqui, Camino Carén -
+
+Añihuarraqui, Sector Km. 0,40000 a Km. 0,76000", que figuran a nombre de Jara Mora Nélida del Carmen y Sicuto Conoequir Domingo, roles de avalúo Nºs. 170-45 y 166-38, Comuna de Curarrehue, IX Región, superficies 738 m² y 75 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 30 de mayo de 2006, en la cantidad de $816.600.- para el lote Nº1 y $52.500.- para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
