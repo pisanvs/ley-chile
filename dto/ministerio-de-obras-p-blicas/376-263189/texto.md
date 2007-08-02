@@ -1,0 +1,3 @@
+Por decreto MOP Nº 376, de 30 de mayo de 2007, se expropiaron los lotes de terrenos Nºs. 10 y 12, superficies 600 y 9.779 m², rol de Avalúo 218-21, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", VIII Región y se acordó el valor de la indemnización con su propietaria Claudia Agurto Martínez y Otra, ascendente a la cantidad de $11.621.890.-
+
+Fiscal del Ministerio de Obras Públicas.
