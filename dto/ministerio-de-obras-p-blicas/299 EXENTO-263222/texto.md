@@ -1,0 +1,5 @@
+Por decreto exento Nº 299, de 13 de junio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 2-A, 3, 4, 5 y 7, para la ejecución de la obra: Mejoramiento Ruta C-495. Camino Alto del Carmen - Conay, Provincia de Huasco, Región de Atacama, Etapa I, comuna de Alto del Carmen, que figuran a nombre de Omar Alberto Campillay Rojas, Campillay Rojas Omar A, Campillay Rojas Omar Alberto y Munoz Pérez Vicente, roles de avalúo 856-07, 856-11, 856-17 y 860-3, superficies 1.032 M2.;
+
+2.519 M2.; 2.291 M2.; 2.936 M2. y 2.676 M2. La Comisión de Peritos fijó con fecha 1 de octubre de 2003, en las cantidades de $361.200, para el lote Nº2-A, $881.650, para el lote Nº3, $801.850, para el lote Nº4, $1.027.600, para el lote Nº5 y $936.600, para el lote Nº7. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
