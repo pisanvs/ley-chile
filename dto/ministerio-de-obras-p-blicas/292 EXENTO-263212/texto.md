@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 292, de 13 de junio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1, para el Proyecto Laja Diguillín. Obra:
+
+"Faja Adicional, Canal Matriz Diguillín Larqui Km. 7,869 a Km. 7,903", que figura a nombre de Sandoval Otárola Elena y Otros, rol de avalúo Nº 603-8, Comuna de San Ignacio, VIII Región, superficie 1.215 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 27 noviembre de 2005, en la cantidad de $1.272.000.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
