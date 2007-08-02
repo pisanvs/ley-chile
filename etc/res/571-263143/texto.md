@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 571, de 12 de junio de 2007 SERVIU Metropolitano, se ordenó modificar la Resolución Nº 703 de 27 de octubre de 2007, conforme D.L. Nº 2.186 de 1978, reemplácese la letra f) de los vistos por la siguientes:"f) El informe de fecha 10 de octubre de 2006, de los peritos señores Mónica Conejeros R., Ingeniero; Douglas Herrera Flores, Constructor Civil y Mario Zamorano Villablanca, arquitecto, que fijó como monto provisional de la indemnización la suma de $111.846.900", reemplácese el segundo párrafo del punto 1º de la Resolución por "El lote que se ordena expropiar tiene una superficie aproximada de 1.711 metros cuadrados conforme al plano antes individualizado en el considerando d) y los siguientes deslindes: Note, en línea quebrada de 55,9 y 7,5 metros con resto de la propiedad; Sur, en línea quebrada de 2,5 y 70,7 metros con Av. Jaime Guzmán; Oriente, en línea quebrada de 13,0 y 19,7 metros con Camino Lo Ruiz; Poniente, en 25,4 metros con Lote 23-A Rol 451-3. En lo no modificado rige íntegramente lo dispuesto en la Resolución Nº 703 de 27 de octubre de 2006 de esta Dirección.-
+
+Director Serviu Metropolitano.
