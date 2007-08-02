@@ -1,0 +1,11 @@
+EXPROPIA INMUEBLES QUE INDICA
+
+La Ilustre Municipalidad de Tomé, en base a: Acuerdo Nº 846, Concejo Municipal Tomé, adoptado sesión ordinaria Nº 62, de 5 diciembre 2006, que acuerda expropiar inmuebles calle Maipú, entre Nogueira y Sotomayor, individualizados en proyecto pavimentación aprobado Serviu, denominado CP-1000 "proyecto de pavimentación calle Maipú entre Nogueira y Brasil", comuna Tomé; decreto alcaldicio Nº 1.132 de 30 abril 2007, que nombra Comisión Peritos; Constitución de Comisión Peritos 5 mayo 2007; Informe comisión peritos 5 junio 2007; El decreto ley 2.186, de 1978, Ley Orgánica de Procedimientos Expropiaciones; y facultad confiere ley 18.695, Orgánica Constitucional Municipalidades, cuyo texto refundido, coordinado, sistematizado y actualizado fue fijado mediante D.F.L. Nº 1-19.704, año 2002; expropia los siguientes lotes comuna Tomé, VIII Región, cuyos decretos alcaldicios expropiatorios, roles avalúos, superficie y montos provisionales indemnización son: 1) decreto alcaldicio Nº 1.772, de 10 julio 2007, Rol avalúo 104-17, Reyes Catalán Víctor Roberto y otro, superficie 176,4 m2, más edificación: $15.333.410; 2) decreto alcaldicio Nº 1.777, de 10 julio 2007; rol avalúo 104-16, Mora Cambe Berta, 96,5 m2 más edificación: $15.988.518; 3) decreto alcaldicio Nº 1.775, de 10 julio 2007; rol avalúo 104-15; Koch Stuvig Enrique Sucesión, 177,5 m2 más edificación: $27.659.070;
+
+4) decreto alcaldicio Nº 1.773 de 10 julio 2007; rol avalúo 104-14, Pérez Fierro, Edinson Elías, 53,3 m2:
+
+$3.457.152; 5) decreto alcaldicio Nº 1.774, de 10 julio 2007; rol avalúo 104-13, Pedreros Palma Roberto Manuel, 106,8 m2: $6.927.277; 6) decreto alcaldicio Nº 1.776, de 10 julio 2007; rol avalúo 104-1, Pedreros Palma Manuel Roberto; 95,3 m2 más edificación: $15.910.683. Las indemnizaciones señaladas se pagarán de contado mediante depósito en la cuenta corriente Tribunal competente si no existe acuerdo, o vale vista a nombre del propietario cuando exista acuerdo. La publicación se efectuará en cumplimiento dispuesto artículo 7º D.L. 2.186, de 1978.
+
+Nota: Los más abajo firmantes certifican que el extracto es fiel a los decretos alcaldicios ya mencionados.
+
+Tomé, 13 de julio de 2007.- Eduardo Aguilera Aguilera, Alcalde.- Eduardo Henríquez Salinas, Abogado, Secretario Municipal.
