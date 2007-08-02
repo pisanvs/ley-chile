@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 338, de 27 de junio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 33-C, 34-B y 37-B, para la obra:
+
+"Mejoramiento Ruta 150, Tramo III, Sector By-Pass Penco (Eje Principal), VIII Región", que figuran a nombre de Forestal Celco S.A., Rol de avalúo Nº 1281-55, Comuna de Penco, VIII Región, superficies 224 m², 13 m² y 332 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 20 de septiembre de 2006 en las cantidades de $496.372 para el lote Nº 33-C, $59.748 para el lote Nº 34-B y $528.702 para el lote Nº 37-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
