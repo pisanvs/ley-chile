@@ -1,0 +1,3 @@
+Por decreto MOP Nº 377, de 30 de mayo de 2007, se expropió el lote de terreno Nº 28, superficie 630 m², rol de Avalúo 219-150, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", VIII Región y se acordó el valor de la indemnización con su propietaria Elia Acevedo Barrientos, ascendente a la cantidad de $18.947.205.-
+
+Fiscal del Ministerio de Obras Públicas.
