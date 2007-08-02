@@ -1,0 +1,7 @@
+RECTIFICA, MODIFICA Y ORDENA EXPROPIACIONES DE INMUEBLES QUE SEÑALA
+
+NOTIFICACION
+
+Por resolución Nº 560 de 5 de junio de 2007, de Serviu Metropolitano, se ordenó rectificar la resolución Nº 160 de 19 de febrero de 2007 que ordenó la expropiación conforme D.L. Nº 2.186 de 1978, del lote Nº 43, correspondiente a parte del inmueble ubicado en Lira 639 641, rol de avalúo Nº 685-7, comuna de Santiago, aparente dominio de Anfra S.A. en el sentido que los deslindes del lote expropiado son los siguientes: Norte Tramos A-E, en 7 metros con propiedad Rol Nº 685-6; Sur tramos B-C, en 5 metros con calle Antonio Ricaurte; Oriente tramos D-E, en 12 metros 10 centímetros con calle Lira, solera existente de por medio; Poniente A-B, en 13 metros 80 centímetros con resto de la propiedad; Sur Oriente Tramos C-D, con 2 metros 30 centímetros intersección de calles Lira y Antonio Ricaurte. Comisión integrada por peritos señores María Isabel Ríos Marcuello, Arquitecto; Miguel Juan Fernández Cádiz, Constructor Civil; y Francisco Emilio Recabarren Solar, Ingeniero Civil. Según informe de 12 de octubre de 2006, fijó monto provisional indemnización en $26.733.800, pagadera al contado.-
+
+Director Serviu Metropolitano.
