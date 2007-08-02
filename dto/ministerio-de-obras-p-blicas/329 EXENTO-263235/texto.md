@@ -1,0 +1,5 @@
+Por decreto exento Nº 329, de 27 de junio de 2007, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento Nº592, de 31 de agosto de 2006, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, de los lotes de terreno Nºs. 11, 13, 14, 15 y 17, expropiados a Carmen Laura Romero Paz y Otros, con motivo de la obra Construcción Variante, Sector Cruce D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km.
+
+0,00000 a Km. 6,17679. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 24 de mayo de 2005, complementada por acta de fecha 29 de julio de 2005, ascendente a las cantidades de $64.640, para el lote Nº11, $774.250, para el lote Nº13, $872.500, para el lote Nº14, $460.500, para el lote Nº15 y $1.241.350, para el lote Nº17.
+
+- Fiscal del Ministerio de Obras Públicas.
