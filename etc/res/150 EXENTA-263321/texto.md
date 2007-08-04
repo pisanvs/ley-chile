@@ -1,0 +1,5 @@
+CONCEDE PRORROGA DE PLAZO PARA EL INICIO DE OPERACIONES DEL CASINO DE JUEGO Y EL DESARROLLO DE LAS DEMAS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA LATIN GAMING OSORNO S.A. EN COMUNA DE OSORNO
+
+Por resolución exenta Nº 150, de 24 de julio de 2007, la Superintendencia de Casinos de Juego concedió prórroga de plazo que solicitó la sociedad operadora Latin Gaming Osorno S.A. tanto para inicio de operaciones del casino de juegos como para desarrollo de las demás obras e instalaciones del proyecto integral autorizado en comuna de Osorno. En virtud de la prórroga concedida, el plazo de 24 meses contemplado en resolución exenta Nº 171 de 21 de julio de 2006, que le otorgó permiso de operación para casino de juego en dicha comuna, se extenderá hasta 32 meses contado desde el 29 de julio de 2006.
+
+Santiago, 30 de julio de 2007.- Superintendente de Casinos de Juego.
