@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.108, de 20 de julio de 2007, de esta Subsecretaría, autorízase a PESBASA S.A. para iniciar actividades pesqueras de transformación en orden a operar una planta ubicada en Avenida Chinquihue 9000, Km. 11, Chinquihue, Puerto Montt, X Región, donde podrá elaborar en la línea de proceso de Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de julio de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
