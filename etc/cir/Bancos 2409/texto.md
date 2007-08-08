@@ -1206,9 +1206,39 @@ Los pagos que diariamente deban efectuarse como consecuencia del uso de tales si
 
 En ningún caso el sistema de transferencia electrónica de fondos al cual esté adherida una institución, podrá incorporar el canje de documentos, puesto que éste sólo puede realizarse a través de la Cámara de Compensación.
 
-4.- Contabilización de las operaciones efectuadas en horario especial.
+4.- Transferencias electrónicas de fondos entre clientes de distintos bancos, mediante redes públicas de comunicaciones.
+
+4.1 Generalidades.
+
+Con el objeto de proveer mayor seguridad y un mejor servicio a sus clientes, los bancos deberán disponer que las transferencias que se realicen a través de canales electrónicos se cumplan de forma inmediata, en la medida que exista la correspondiente provisión de fondos. Así, los respectivos cargos y abonos o puesta a disposición de los respectivos beneficiarios del importe de estas transferencias deben efectuarse simultáneamente y de inmediato, en el mismo día en que se ordena y curse la transferencia. Esta simultaneidad debe cumplirse tanto en aquellas transferencias que se realicen entre cuentas dentro del mismo banco, como en aquellas en que el abono en cuenta o pago al respectivo beneficiario deba efectuarse en otro banco. Sin perjuicio de que el beneficiario pueda hacer hacer uso de inmediato de los importes transferidos, aquellas transferencias que se ordenen en día hábil bancario después de la hora de cierre del banco (14 ó 16 horas) o en día no hábil bancario, se registrarán, tanto el débito como el crédito, con fecha del día hábil bancario inmediatamente siguiente.
+
+Los canales electrónicos que ofrezcan las instituciones bancarias para realizar estas transferencias deberán contar con apropiados privilegios de autorización y medidas de autentificación, controles de acceso lógico y físicos, adecuada infraestructura de seguridad para observar el cumplimiento de las restricciones y límites que se establezcan para las actividades internas y externas, así como para cuidar la integridad de los datos de cada transacción y la adecuada privacidad de los registros e información de los clientes. Para esos efectos deberán:
+
+a) contar con una plataforma tecnológica que comprenda una encriptación sólida;
+
+b) disponer de a lo menos dos factores de autentificación distintos para cada transacción, debiendo ser uno de ellos de generación o asignación dinámica;
+
+c) establecer la exigencia de firma digital avanzada para las transferencias superiores a un monto que el banco determine.
+
+Lo anterior, sin perjuicio de incorporar en sus procesos las mejores prácticas para la administración del riesgo operacional, de banca electrónica y los estándares internacionales que existen sobre la materia.
+
+4.2. Prevención de fraudes.
+
+Los bancos deberán contar con sistemas o procedimientos que permitan identificar, evaluar, monitorear y detectar en el menor tiempo posible aquellas operaciones con patrones de fraude, de modo de marcar o abortar actividades u operaciones potencialmente fraudulentas, para lo cual deberán establecer y mantener, de acuerdo a la dinámica de los fraudes, patrones conocidos de estos y comportamientos que no estén asociados al cliente.
+
+Estos sistemas o mecanismos deberán permitir tener una vista integral y oportuna de las operaciones del cliente, del no cliente (por ejemplo en los intentos de acceso), de los puntos de acceso (por ejemplo direcciones IP, Cajero Automático u otros), hacer el seguimiento y correlacionar eventos y/o fraudes a objeto de detectar otros fraudes, puntos en que estos se cometen, modus operandi, y puntos de compromisos, entre otros.
+
+4.3. Detección de Lavado de activos.
+
+Las transferencias electrónicas de fondos dentro del mercado financiero pueden ser utilizadas como una herramienta más para realizar el lavado de activos. Para mitigar el riesgo de dicha práctica por esta vía, es necesario que las instituciones bancarias, complementando los esquemas de autentificación robusta, cuenten con mecanismos o herramientas de identificación, evaluación de riesgos, monitoreo y detección de lavado de activos, para facilitar dos aspectos principales: la detección de patrones predefinidos en la operación de lavado de activo y el rastreo transaccional para la detección de formas o prácticas emergentes mediante el análisis de las desviaciones de comportamiento respecto a los estándares de cada uno de los clientes.
+
+5.- Contabilización de las operaciones efectuadas en horario especial.
 
 Para efectos de su contabilización, los giros, depósitos, pagos y toda otra transferencia electrónica de fondos efectuada con posterioridad a la hora de cierre del horario normal de atención de público (14:00 ó 16:00 horas) de la respectiva institución, como asimismo aquellas realizadas en días sábado, domingo y festivos, deberán quedar registradas en el día hábil bancario siguiente, sin perjuicio de las prelaciones que deben seguirse en las imputaciones a las cuentas de los clientes de las cuales se giran o a las cuales se transfieren fondos. En todo caso, al tratarse de giros de cargo de otras instituciones financieras efectuados a través de cajeros automáticos, la contabilización considerará el horario de corte para la compensación de esas transacciones, según lo previsto en el Capítulo 5-1 de esta Recopilación.
+
+### 6. Disposición Transitoria
+
+Los bancos deberán adecuar sus sistemas y procedimientos, para que lo dispuesto en el N° 4 de este Capítulo, en lo relativo a la inmediatez y simultaneidad de estas transferencias, se aplique a más tardar a contar del 1 de enero de 2008.
 
 CAPITULO 1-8 (Bancos y Financieras)
 
