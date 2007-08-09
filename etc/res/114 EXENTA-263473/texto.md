@@ -1,0 +1,5 @@
+AUTORIZA A CONCESIONARIO "AUGUSTO PINO SANHUEZA" PARA PRACTICAR REVISIONES TECNICAS QUE INDICA
+
+Por resolución exenta Nº 114, de 4 de julio de 2007, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, y en conformidad a lo dispuesto en el D.S. 156, de 1990, del Ministerio, se autoriza al concesionario de la Planta de Revisión Técnica Clase AB, ubicada en Camino a Cayucupil s/n, comuna de Cañete, "Augusto Pino Sanhueza", adjudicada por resolución exenta Nº 19, del 30 de junio de 1993, para practicar revisiones técnicas fuera del recinto de la planta revisora, en el establecimiento ubicado en el Km. 30,6 de la Ruta 160 comuna de Coronel. La presente resolución tendrá vigencia 35 días corridos desde su dictación o hasta la fecha en que entre en funcionamiento la Planta de Revisión Técnica Automatizada en la comuna de Lota, cualquiera de las circunstancias anteriores que ocurra primero.
+
+- Claudio Vásquez Fernández, Secretario Regional Ministerial Transportes y Telecomunicaciones Región del Bío Bío.
