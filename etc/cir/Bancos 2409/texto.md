@@ -13042,39 +13042,37 @@ Código
 
 2305 110 00 Provisiones exigidas sobre bienes del activo fijo
 
-CAPITULO 11-6 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 11-6
 
 INVERSIONES EN SOCIEDADES EN EL PAIS.
 
-I.- INVERSIONES EN SOCIEDADES EN EL PAIS QUE PUEDEN MANTENER LAS INSTITUCIONES FINANCIARAS.
+### I. INVERSIONES EN SOCIEDADES EN EL PAIS QUE PUEDEN MANTENER LOS BANCOS
 
-1.- Sociedades en que las instituciones pueden participar.
+### 1. Sociedades en que los bancos pueden participar
 
-Los bancos y sociedades financieras pueden participar en las siguientes sociedades constituidas en el país, con la autorización previa de esta Superintendencia:
+Los bancos pueden participar en las siguientes sociedades constituidas en el país, con la autorización previa de esta Superintendencia:
 
 a) Sociedades filiales según lo establecido en el artículo 70 de la Ley General de Bancos y en el artículo 23 bis del D.L. N° 3.500, tratadas en el título II de este Capítulo;
 
-b) Sociedades de apoyo al giro según lo dispuesto en el artículo 74 de la Ley General de Bancos y a lo instruido en el título III de este Capítulo; y,
+b) Sociedades de apoyo al giro según lo dispuesto en el artículo 74 de la Ley General de Bancos y lo instruido en el título III de este Capítulo; y,
 
 c) Inversiones minoritarias en sociedades, mantenidas de conformidad con lo dispuesto en el inciso segundo del artículo 72 de la Ley General de Bancos, cuyo objeto sea alguno de los indicados en su artículo 70, tratadas en el título IV de este Capítulo.
 
 2.- Límite de inversiones.
 
-Las inversiones que se realicen en las sociedades mencionadas en el N° 1 precedente, se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación.
+Las inversiones que se realicen en las sociedades mencionadas en el N° 1 precedente, se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación, salvo aquellas a que se refiere la letra c) del N° 1 del Título II de este Capítulo. Estas, conforme a lo establecido en el artículo 14 de la Ley N° 18.815, quedarán exceptuadas de ese límite en tanto el monto de la inversión que el banco efectúe en ellas no exceda del uno por ciento de los activos totales del banco. Los excesos por sobre ese porcentaje quedarán afectos a la sanción prevista en el inciso tercero del referido artículo 69. Dada esa excepción al límite antedicho, las inversiones que se hagan en estas filiales deben tratarse independientemente, de manera que no podrán incorporarse a una Administradora General de Fondos que posea el banco.
 
-3.- Límites de crédito sobre activos consolidados.
+### 3. Limites de crédito sobre activos consolidados
 
-Las disposiciones de los N°s 1, 2 y 4 del artículo 84 de la Ley General de Bancos, deben cumplirse computando los activos consolidados de la institución financiera con sus filiales y sucursales en el país y en el exterior que participan en la consolidación según lo previsto en el Capítulo 12-1 de esta Recopilación.
+Las disposiciones de los N°s. 1, 2 y 4 del artículo 84 de la Ley General de Bancos, deben cumplirse computando los activos consolidados del banco con sus filiales y sucursales en el país y en el exterior que participan en la consolidación según lo previsto en el Capítulo 12-1 de esta Recopilación.
 
-Por consiguiente, las sociedades filiales de una institución financiera, además de atenerse a las disposiciones que les rigen, deben sujetar sus operaciones de crédito a las instrucciones que les imparta la institución financiera matriz para cumplir con las disposiciones de la Ley General de Bancos antes indicadas.
+Por consiguiente, las sociedades filiales de un banco, además de atenerse a las disposiciones que las rigen, deben sujetar sus operaciones de crédito a las instrucciones que les imparta el banco matriz para cumplir con las disposiciones de la Ley General de Bancos antes indicadas.
 
-II.- SOCIEDADES FILIALES QUE COMPLEMENTAN EL GIRO.
+### II. SOCIEDADES FILIALES QUE COMPLEMENTAN EL GIRO
 
-1.- Negocios que pueden efectuar las filiales.
+### 1. Negocios que pueden efectuar las filiales
 
-En concordancia con las disposiciones del artículo 70 de la Ley General de Bancos, las instituciones financieras sólo podrán tener participación en sociedades filiales que complementan su giro, constituidas como se indica a continuación:
+En concordancia con las disposiciones del artículo 70 de la Ley General de Bancos, los bancos sólo podrán tener participación en sociedades filiales que complementan su giro, constituidas como se indica a continuación:
 
 - Según la letra a) del artículo 70:
 
@@ -13088,13 +13086,17 @@ d) Administradoras de fondos de capital extranjero según las normas establecida
 
 e) Sociedades securitizadoras de títulos según las normas del Título XVIII de la Ley N° 18.045.
 
-f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con una institución financiera. Al respecto la ley prohíbe expresamente a las instituciones financieras condicionar el otorgamiento de créditos a la contratación de seguros a través de un corredor de seguros relacionado con ellas, como es el caso de las filiales de que se trata.
+f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con un banco. Al respecto la ley prohíbe expresamente a los bancos condicionar el otorgamiento de créditos a la contratación de seguros a través de un corredor de seguros relacionado con ellas, como es el caso de las filiales de que se trata.
+
+g) Sociedades administradoras generales de fondos según las normas del Título XXVII de la Ley N° 18.045.
 
 - Según la letra b) del artículo 70:
 
-g) Sociedades administradoras generales de fondos según las normas del Titulo XXVII de la Ley N° 18.045.
-
 h) Compañías de leasing, las cuales deben encuadrarse dentro de las condiciones establecidas por esta Superintendencia. Bajo esas condiciones, estas empresas podrán efectuar operaciones de leasing tanto de bienes muebles como inmuebles, incluidos los arrendamientos de viviendas con compromiso de compraventa efectuados al amparo de la Ley N° 19.281.
+
+## Capítulo 11-6
+
+Hoja 3
 
 i) Compañías de factoraje, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
 
@@ -13104,17 +13106,17 @@ k) Empresas de custodia o transporte de valores, las que deberán operar bajo la
 
 l) Empresas de cobranza de créditos, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
 
-m) Operadoras de tarjetas de crédito, las que deben actuar de acuerdo con las normas que se establecen en el Capítulo III.J.l del Compendio de Normas Financieras del Banco Central de Chile y según las normas dictadas por esta Superintendencia.
+m) Operadoras de tarjetas de crédito, las que deben actuar de acuerdo con las normas que se establecen en el Capítulo III.J.1 del Compendio de Normas Financieras del Banco Central de Chile y según las normas dictadas por esta Superintendencia.
 
 - Según el inciso segundo del artículo 70:
 
-n) Sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y que se denominarán "sociedades de leasing inmobiliario". Estas empresas, a diferencia de las señaladas en la letra g) de este número, podrán construir o adquirir viviendas para futuros arrendamientos.
+n) Sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y que se denominarán "sociedades de leasing inmobiliario". Estas empresas, a diferencia de las señaladas en la letra h) de este número, podrán construir o adquirir viviendas para futuros arrendamientos.
 
 ñ) Administradoras de fondos de vivienda (AFV) a que se refiere el artículo 55 de la Ley N° 19.281.
 
-Según el D.L. N° 3.500:
+- Según el D.L. N° 3.500:
 
-o) Sociedades administradoras de carteras de recursos previsionales, a que se refiere artículo 23 bis del D.L. N° 3.500.
+o) Sociedades administradoras de carteras de recursos previsionales, a que se refiere el artículo 23 bis del D.L. N° 3.500.
 
 Además de las sociedades antes mencionadas, la ley permite la constitución de filiales que presten servicios financieros con el giro específico que sea determinado por esta Superintendencia por norma de carácter general.
 
@@ -13124,7 +13126,7 @@ Las sociedades filiales podrán estar constituidas como sociedades anónimas abi
 
 La razón social de las sociedades de que trata este título deberá indicar claramente el giro de la empresa y no contener expresiones que puedan inducir a error en cuanto a su objeto.
 
-2.- Carácter de sociedad filial.
+### 2. Carácter de sociedad filial
 
 La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en la que ésta controla directamente o a través de otra persona natural o jurídica, más del 50 por ciento del capital con derecho a voto, o simplemente del capital si se tratare de una sociedad no constituida por acciones, o bien, si puede elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores.
 
@@ -13132,9 +13134,9 @@ Las filiales a que se refiere el artículo 70 de la Ley General de Bancos deben 
 
 En todo caso, los socios que participen directa o indirectamente en el capital con un porcentaje igual o superior al 10%, deben cumplir con los requisitos que exige el artículo 36 de la Ley General de Bancos.
 
-3.- Requisitos para constituir filiales.
+### 3. Requisitos para constituir filiales
 
-Las instituciones financieras que deseen constituir una sociedad filial de acuerdo con lo establecido en el articulo 70 de la Ley General de Bancos o en el artículo 23 bis del D.L N° 3.500, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
+Los bancos que deseen constituir una sociedad filial de acuerdo con lo establecido en el artículo 70 de la Ley General de Bancos o en el artículo 23 bis del D.L. N° 3.500, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
 
 a) Mantener el capital básico y patrimonio efectivo mínimos que exige el artículo 66 de la Ley General de Bancos, tratados en el Capítulo 12-1 de esta Recopilación.
 
@@ -13142,205 +13144,209 @@ b) Estar calificadas por esta Superintendencia, en categoría I o II según la c
 
 c) Entregar a esta Superintendencia un estudio de factibilidad económico-financiero, en el que se considere el mercado, las características de la sociedad, la actividad proyectada y las condiciones en las que realizará sus actividades, de acuerdo a diversos escenarios de contingencia.
 
-Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, las instituciones financieras interesadas deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
+Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, los bancos interesados deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
 
-4.- Tramitación de la solicitud.
+### 4. Tramitación de la solicitud
 
 De acuerdo con el artículo 73 de la Ley General de Bancos, esta Superintendencia dispone de un plazo de 90 días para aceptar o rechazar la constitución de una sociedad filial, a contar de la fecha de la solicitud.
 
-Para rechazarla, este Organismo debe dictar una resolución fundada en que no se han cumplido los requisitos establecidos por la ley, o en la circunstancia de que existen deficiencias en su gestión cuando se trate una entidad que se encuentre clasificada en categoría III según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes.
+Para rechazarla, este Organismo debe dictar una resolución fundada en que no se han cumplido los requisitos establecidos por la ley, o en la circunstancia de que existen deficiencias en su gestión cuando se trate de una entidad que se encuentre clasificada en categoría III según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes.
 
 La ley prevé la posibilidad de que esta Superintendencia pida antecedentes adicionales, en cuyo caso el plazo señalado anteriormente se extiende a 120 días.
 
-Si la institución financiera solicitante se encuentra en categoría I según la clasificación de gestión y solvencia antes mencionada y su solicitud de autorización no hubiere sido rechazada dentro de los 60 días siguientes a la fecha de presentación, podrá solicitar a esta Superintendencia un certificado que acredite que no se ha dictado una resolución denegatoria, el que, conforme a la ley, hará las veces de autorización.
+Si el banco solicitante se encuentra en categoría I según la clasificación de gestión y solvencia antes mencionada y su solicitud de autorización no hubiere sido rechazada dentro de los 60 días siguientes a la fecha de presentación, podrá solicitar a esta Superintendencia un certificado que acredite que no se ha dictado una resolución denegatoria, el que, conforme a la ley, hará las veces de autorización.
 
-5.- Estatutos.
+### 5. Estatutos
 
 Para otorgar la autorización correspondiente, este Organismo deberá dar su aprobación a los estatutos de la sociedad filial. Cualquier modificación de tales estatutos requerirá también la aprobación de esta Superintendencia. Sin embargo, cuando se trate de empresas filiales cuya fiscalización corresponda a otra superintendencia, sólo se requerirá que dichos estatutos y sus eventuales modificaciones sean puestos en conocimiento previo de esta Superintendencia. En este último caso, si las modificaciones consisten en aumentos o disminuciones de capital o significan alteraciones en el porcentaje de participación del banco en su filial, se deberá obtener la conformidad previa de este Organismo para efectuarlas.
 
-6.- Cambios en la participación en una sociedad filial.
+### 6. Cambios en la participación en una sociedad filial
 
-Para la enajenación total o parcial de la participación que una institución financiera mantenga en una filial, deberá solicitarse autorización de esta Superintendencia antes de asumir cualquier compromiso. Igual procedimiento deberá seguirse ante cualquier evento que disminuya el porcentaje de participación de la institución financiera en una filial.
+Para la enajenación total o parcial de la participación que un banco mantenga en una filial, deberá solicitarse autorización de esta Superintendencia antes de asumir cualquier compromiso. Igual procedimiento deberá seguirse ante cualquier evento que disminuya el porcentaje de participación del banco en una filial.
 
-Los cambios en la participación de terceros en el capital de las filiales deberán ser objeto de una calificación previa de esta Superintendencia en relación con el cumplimiento de las exigencias del artículo 3 6 de la Ley General de Bancos, esto es, en aquellos casos en que un socio o accionista pasa a tener una participación igual o superior al 10%.
+Los cambios en la participación de terceros en el capital de las filiales deberán ser objeto de una calificación previa de esta Superintendencia en relación con el cumplimiento de las exigencias del artículo 36 de la Ley General de Bancos, esto es, en aquellos casos en que un socio o accionista pasa a tener una participación igual o superior al 10%.
 
-7.- Fiscalización de las sociedades filiales.
+### 7. Fiscalización de las sociedades filiales
 
-Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. Por su parte, las sociedades administradoras de carteras de recursos previsionales son fiscalizadas por la Superintendencia de Administradoras de Fondos de Pensiones. Todas estas sociedades deben regirse por las normas dictadas por sus respectivos organismos fiscalizadores, dentro de las condiciones generales establecidas por esta Superintendencia para desarrollo del giro de las filiales de instituciones financieras.
+Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. Por su parte, las sociedades administradoras de carteras de recursos previsionales son fiscalizadas por la Superintendencia de Administradoras de Fondos de Pensiones. Todas estas sociedades deben regirse por las normas dictadas por sus respectivos organismos fiscalizadores, dentro de las condiciones generales establecidas por esta Superintendencia para desarrollo del giro de las filiales de bancos.
 
 Todas las sociedades filiales distintas de las mencionadas en el párrafo precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del Título I de la Ley General de Bancos y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
 
-Esta Superintendencia podrá requerir a las instituciones financieras cualquier información relativa a sus sociedades filiales que estime pertinente. Las sociedades filiales que quedan sujetas a su fiscalización, deberán cumplir con los requerimientos de información de este Organismo desde el momento en que se autorice su constitución.
+Esta Superintendencia podrá requerir a los bancos cualquier información relativa a sus sociedades filiales que estime pertinente. Las sociedades filiales que quedan sujetas a su fiscalización, deberán cumplir con los requerimientos de información de este Organismo desde el momento en que se autorice su constitución.
 
-8.- Aplicación de la Ley de Mercado de Valores.
+### 8. Aplicación de la Ley de Mercado de Valores
 
 Los valores de oferta pública que pudieren emitir las empresas filiales sujetas a la fiscalización de esta Superintendencia, así como ellas mismas en su calidad de emisoras, deben inscribirse en el Registro de Valores de este Organismo.
 
 Asimismo, esos valores deberán ser clasificados por evaluadores privados inscritos en esta Superintendencia, de acuerdo con las normas dictadas para tal efecto.
 
-9.- Dirección, administración y funcionamiento de las sociedades filiales.
+### 9. Dirección, administración y funcionamiento de las sociedades filiales
 
-9.1.- Directores.
+9.1. Directores.
 
-No existe inconveniente para que un director de una sociedad filial fiscalizada por esta Superintendencia sea, a la vez, director de la institución financiera matriz, de otra sociedad filial fiscalizada por este Organismo o de una empresa de apoyo al giro. En general, el cargo de director de cualquiera de las entidades es incompatible con el de empleado de ellas, salvo que se trate de un empleado de la institución financiera matriz que ejerza el cargo de director de una filial fiscalizada por esta Superintendencia o de una sociedad de apoyo al giro.
+No existe inconveniente para que un director de una sociedad filial fiscalizada por esta Superintendencia sea, a la vez, director del banco matriz, de
+
+otra sociedad filial fiscalizada por este Organismo o de una empresa de apoyo al giro. En general, el cargo de director de cualquiera de las entidades es incompatible con el de empleado de ellas, salvo que se trate de un empleado del banco matriz que ejerza el cargo de director de una filial fiscalizada por esta Superintendencia o de una sociedad de apoyo al giro.
 
 En todo caso, el ejercicio del cargo de director, gerente o empleado en las sociedades filiales fiscalizadas por la Superintendencia de Valores y Seguros o de la Superintendencia de AFP, se sujetará a las normas legales o reglamentarias que rigen a esas sociedades.
 
-9.2.- Gerente y personal.
+9.2. Gerente y personal.
 
 La matriz con sus filiales, o éstas entre sí, podrán compartir gerente y personal, siempre que se trate de filiales fiscalizadas por este Organismo.
 
-Las sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de AFP, deberán tener gerente y personal independiente de la institución financiera matriz y de las filiales fiscalizadas por esta Superintendencia de Bancos e Instituciones Financieras.
+Las sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de AFP, deberán tener gerente y personal independiente del banco matriz y de las filiales fiscalizadas por esta Superintendencia de Bancos e Instituciones Financieras.
 
-9.3.- Locales y equipamiento.
+9.3. Locales y equipamiento.
 
 La matriz, sus sociedades filiales sujetas a la fiscalización de esta Superintendencia y las sociedades de apoyo al giro en que participe la matriz, podrán compartir y utilizar los mismos locales y equipamiento.
 
 Si a una sociedad filial fiscalizada por otra Superintendencia se le permite hacer lo mismo de acuerdo con las normas que la rigen, no existe inconveniente en que las entidades fiscalizadas por este Organismo compartan con ella locales y equipamiento. No obstante, cuando se trate de utilizar un mismo local, deberá en ese caso mantenerse una clara separación material respecto de las dependencias en que opera cada entidad, de manera que no tengan responsabilidad por las operaciones que no sean las propias, ni el público pueda confundirse y entender que la asumen.
 
-9.4.- Promoción de los productos o servicios de una entidad distinta.
+9.4. Promoción de los productos o servicios de una entidad distinta.
 
-La sociedad filial podrá promover sus servicios a través de la institución financiera matriz o de otras filiales o sociedades de apoyo al giro fiscalizadas por este Organismo, o viceversa, pudiendo canalizarse a través de cualquiera de esas entidades la documentación que se genera entre las demás sociedades y sus respectivos clientes.
+La sociedad filial podrá promover sus servicios a través del banco matriz o de otras filiales o sociedades de apoyo al giro fiscalizadas por este Organismo, o viceversa, pudiendo canalizarse a través de cualquiera de esas entidades la documentación que se genera entre las demás sociedades y sus respectivos clientes.
 
 En caso de que una sociedad filial sujeta a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de AFP estuviere facultada para actuar de igual modo, no existe impedimento para que las entidades fiscalizadas por esta Superintendencia actúen de la misma forma con ellas, siempre que la evaluación y la decisión final de la operación que se geste a través de una entidad, así como la determinación de sus características y condiciones, se realice siempre en la sociedad que la contrata, no pudiendo ser delegadas tales funciones.
 
-9.5.- Información reservada.
+9.5. Información reservada.
 
-Lo indicado en los numerales precedentes es sin perjuicio, claro está, de las normas sobre secreto o reserva bancarios Por consiguiente, la institución financiera matriz no puede compartir la información reservada de sus clientes, salvo que cuenten con autorización de los mismos.
+Lo indicado en los numerales precedentes es sin perjuicio, claro está, de las normas sobre secreto o reserva bancarios. Por consiguiente, el banco matriz no puede compartir la información reservada de sus clientes, salvo que cuenten con autorización de los mismos.
 
-10. - Participación de la sociedad filial en otras sociedades.
+### 10. Participación de la sociedad filial en otras sociedades
 
-El artículo 71 de la Ley General de Bancos establece, en general, una prohibición para que las sociedades filiales de instituciones financieras puedan adquirir acciones o tomar participación en otras sociedades.
+El artículo 71 de la Ley General de Bancos establece, en general, una prohibición para que las sociedades filiales de bancos puedan adquirir acciones o tomar participación en otras sociedades.
 
 La misma disposición establece una excepción para el caso de que la inversión sea imprescindible para el desarrollo de su giro y siempre que no exceda en momento alguno del 5% del capital pagado de la sociedad en que se efectúe dicha inversión.
 
-Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco o sociedad financiera efectúe en otra sociedad deberá contar con la autorización previa de esta Superintendencia. En la solicitud que se presente con este objeto, deberán informarse las razones por las cuales la inversión se estima imprescindible para el desarrollo del giro.
+Para dar cumplimiento a lo anterior, toda inversión que una empresa filial de un banco efectúe en otra sociedad deberá contar con la autorización previa de esta Superintendencia. En la solicitud que se presente con este objeto, deberán informarse las razones por las cuales la inversión se estima imprescindible para el desarrollo del giro.
 
 En todo caso, las sociedades cuyo giro sea el de corredor de bolsa o de agente de valores, quedan autorizadas para invertir en las acciones que puedan adquirir para sí, hasta el límite del 5% del capital pagado de las respectivas sociedades emisoras, conforme a las normas de la Ley sobre Mercado de Valores y las instrucciones de la Superintendencia de Valores y Seguros a cuya fiscalización se encuentran sometidas. Además, los corredores de bolsa pueden adquirir, dentro de ese límite, las acciones de bolsas de valores que requieran para cumplir su función.
 
-Finalmente, una sociedad filial podrá tener participación en otra sociedad filial del mismo banco o sociedad financiera, siempre que el porcentaje de participación en el capital y en las utilidades no exceda del 1%.
+Asimismo, las sociedades filiales administradoras de fondos de inversión, podrán adquirir cuotas de fondos de inversión constituidos por acciones y demás instrumentos que la ley establece, con las características, límites y condiciones que la misma ley indica.
 
-11.- Inversiones que pueden efectuar las sociedades filiales.
+Finalmente, una sociedad filial podrá tener participación en otra sociedad filial del mismo banco, siempre que el porcentaje de participación en el capital y en las utilidades no exceda del 1%.
 
-Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en: documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras; y cuotas de fondos mutuos de renta fija.
+### 11. Inversiones que pueden efectuar las sociedades filiales
 
-12.- Información de la situación financiera de las sociedades filiales.
+Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en: documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos; y cuotas de fondos mutuos de renta fija.
 
-12.1.- Estados financieros anuales.
+### 12. Información de la situación financiera de las sociedades filiales
 
-Los estados financieros anuales de empresas filiales de instituciones financieras deberán ser auditados por la misma firma dé auditores externos que audita los estados financieros de su matriz.
+12.1. Estados financieros anuales.
 
-La entidades sujetas a la fiscalización de esta Superintendencia entregarán dichos estados financieros a este Organismo de acuerdo con las instrucciones impartidas a esas sociedades filiales. Cuando se trate de sociedades que no estén sujetas a la fiscalización de esta Superintendencia, sus estados financieros serán entregados a este Organismo por la institución matriz, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales.
+Los estados financieros anuales de empresas filiales de bancos deberán ser auditados por la misma firma de auditores externos que audita los estados financieros de su matriz.
 
-La institución financiera matriz publicará sus estados financieros consolidados junto con los estados financieros de sus filiales, de la forma prevista en el Capítulo 18-1 de esta Recopilación.
+Las entidades sujetas a la fiscalización de esta Superintendencia entregarán dichos estados financieros a este Organismo de acuerdo con las instrucciones impartidas a esas sociedades filiales. Cuando se trate de sociedades que no estén sujetas a la fiscalización de esta Superintendencia, sus estados financieros serán entregados a este Organismo por el banco matriz, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales.
 
-12.2.- Presentación de estados de situación trimestrales a esta Superintendencia.
+El banco matriz publicará sus estados financieros consolidados junto con los estados financieros de sus filiales, de la forma prevista en el Capítulo 18-1 de esta Recopilación.
+
+12.2. Presentación de estados de situación trimestrales a esta Superintendencia.
 
 Además de los estados financieros anuales auditados, las sociedades filiales deberán enviar periódicamente a esta Superintendencia los estados de situación que este Organismo les exija.
 
-Cuando se trate de sociedades fiscalizadas por otra superintendencia, las instituciones financieras matrices deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige la Superintendencia de Valores y Seguros.
+Cuando se trate de sociedades fiscalizadas por otra superintendencia, los bancos matrices deberán hacer llegar a este Organismo, además de los estados financieros auditados de que trata el numeral precedente, estados de situación trimestrales referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año. Esta información se entregará a más tardar el duodécimo día hábil bancario siguiente a la fecha a que se refiere el respectivo balance, debiéndose utilizar para el efecto el formato de la Ficha Estadística Codificada Uniforme (FECU) que exige la Superintendencia de Valores y Seguros.
 
-13.- Realización directa de las actividades permitidas a las filiales de que trata la letra b) del artículo 70 de la Ley General de Bancos.
+13. Realización directa de las actividades permitidas a las filiales de que trata la letra b) del artículo 70 de la Ley General de Bancos.
 
-El último inciso del artículo 71 de la Ley General de Bancos, faculta a esta Superintendencia para autorizar a las instituciones financieras la realización directa de algunas de las actividades permitidas a las filiales de que trata la letra b) del artículo 70 de dicha ley. Para este efecto, su artículo 72 establece los requisitos que deben cumplir las instituciones financieras y que son los mismos que la ley exige para constituir una sociedad filial.
+El último inciso del artículo 71 de la Ley General de Bancos, faculta a esta Superintendencia para autorizar a los bancos la realización directa de algunas de las actividades permitidas a las filiales de que trata la letra b) del artículo 70 de dicha ley. Para este efecto, su artículo 72 establece los requisitos que deben cumplir los bancos y que son los mismos que la ley exige para constituir una sociedad filial.
 
-Las actividades que deben ser objeto de una solicitud para desarrollarlas directamente, corresponderán a aquellas que esta Superintendencia, por norma general, haya establecido previamente como susceptibles de incorporarse al giro de las instituciones financieras.
+Las actividades que deben ser objeto de una solicitud para desarrollarlas directamente, corresponderán a aquellas que esta Superintendencia, por norma general, haya establecido previamente como susceptibles de incorporarse al giro de los bancos.
 
-En ese sentido, no se requiere autorización de esta Superintendencia cuando alguna institución financiera desee disolver una sociedad filial de cobranza de créditos a fin de efectuar ella misma esa actividad, puesto que en ese caso la institución ya se encuentra facultada para realizar tales operaciones por el N° 8 del artículo 69 de la Ley General de Bancos. Lo mismo ocurre con las empresas bancarias en relación con el giro de asesoría financiera, previsto en el N° 17 del mencionado artículo 69. En estos casos, en que los giros ya se encuentran autorizados en la propia ley, sólo se deberá solicitar a esta Superintendencia la autorización para la disolución de la sociedad filial de que se trate.
+En ese sentido, no se requiere autorización de esta Superintendencia cuando algún banco desee disolver una sociedad filial de cobranza de créditos a fin de efectuar ella misma esa actividad, puesto que en ese caso la institución ya se encuentra facultada para realizar tales operaciones por el N° 8 del artículo 69 de la Ley General de Bancos. Lo mismo ocurre en relación con el giro de asesoría financiera, previsto en el N° 17 del mencionado artículo 69. En estos casos, en que los giros ya se encuentran autorizados en la propia ley, sólo se deberá solicitar a esta Superintendencia la autorización para la disolución de la sociedad filial de que se trate.
 
-III.- SOCIEDADES DE APOYO AL GIRO.
+### III. SOCIEDADES DE APOYO AL GIRO
 
-1.- Sociedades de apoyo al giro de las instituciones financieras.
+### 1. Sociedades de apoyo al giro de los bancos
 
-Para los efectos de las presentes normas y de acuerdo con lo dispuesto en el artículo 74 de la Ley General de Bancos, se entenderá que constituyen empresas de apoyo al giro las sociedades que presten servicios destinados a facilitar el cumplimiento de los fines de las entidades financieras que participen en ellas, como asimismo aquellas en que, por su intermedio, las instituciones financieras puedan efectuar determinadas operaciones de su giro.
+Para los efectos de las presentes normas y de acuerdo con lo dispuesto en el artículo 74 de la Ley General de Bancos, se entenderá que constituyen empresas de apoyo al giro las sociedades que presten servicios destinados a facilitar el cumplimiento de los fines de los bancos que participen en ellas, como asimismo aquellas en que, por su intermedio, los bancos puedan efectuar determinadas operaciones de su giro.
 
-Los servicios destinados a facilitar el cumplimiento de los fines de las entidades financieras que pueden prestar las sociedades de apoyo al giro, comprenden: las prestaciones directas a sus socios o accionistas; los servicios contratados por las sociedades filiales constituidas al amparo del artículo 70 de la Ley General de Bancos; y, las prestaciones a otras sociedades de apoyo al giro.
+Los servicios destinados a facilitar el cumplimiento de los fines de los bancos que pueden prestar las sociedades de apoyo al giro, comprenden: las prestaciones directas a sus socios o accionistas; los servicios contratados por las sociedades filiales constituidas al amparo del artículo 70 de la Ley General de Bancos; y, las prestaciones a otras sociedades de apoyo al giro.
 
 El giro específico de estas sociedades es materia de autorización por parte de la Superintendencia y en todo caso, de acuerdo con la ley, ese giro no puede incluir la captación de dinero del público. Las actividades que ha autorizado este Organismo para empresas de apoyo al giro se describen en el Anexo N° 2 de este Capítulo.
 
 De acuerdo a sus funciones, las sociedades de apoyo al giro pueden dividirse entre aquellas que tienen relación o se encuentran vinculadas al sistema de pagos y aquellas cuyo giro no se relaciona con dicho sistema.
 
-2.- Constitución y participación en sociedades de apoyo al giro.
+### 2. Constitución y participación en sociedades de apoyo al giro
 
-Para constituir una sociedad de apoyo al giro, las que podrán ser sociedades anónimas o de responsabilidad limitada, los bancos y sociedades financieras requerirán de la autorización expresa de este Organismo, el que dará su aprobación a los estatutos de dicha sociedad. Igualmente, cada modificación de los estatutos de la sociedad requerirá de la aprobación de esta Superintendencia.
+Para constituir una sociedad de apoyo al giro, las que podrán ser sociedades anónimas o de responsabilidad limitada, los bancos requerirán de la autorización expresa de este Organismo, el que dará su aprobación a los estatutos de dicha sociedad. Igualmente, cada modificación de los estatutos de la sociedad requerirá de la aprobación de esta Superintendencia.
 
-Para solicitar la autorización correspondiente, las instituciones financieras interesadas deberán entregar a esta Superintendencia los antecedentes que se detallan en los Anexos N° 3 ó 4 de este Capítulo, según corresponda de este Capítulo.
+Para solicitar la autorización correspondiente, los bancos interesados deberán entregar a esta Superintendencia los antecedentes que se detallan en los Anexos N° 3 ó 4 de este Capítulo, según corresponda.
 
-Las sociedades de apoyo al giro podrán ser constituidas con la participación de una o más instituciones financieras. En cualquier caso, excepcionalmente podrá autorizarse la participación como socios a entidades que no sean bancos, sociedades financieras ni filiales de los mismos, si se demuestra a este Organismo que ello resultará ventajoso para las instituciones financieras que participan.
+Las sociedades de apoyo al giro podrán ser constituidas con la participación de uno o más bancos. En cualquier caso, excepcionalmente podrá autorizarse la participación como socios a entidades que no sean bancos ni filiales de los mismos, si se demuestra a este Organismo que ello resultará ventajoso para los bancos que participan.
 
 Cada vez que se desee incorporar un nuevo socio o accionista, la sociedad deberá solicitar autorización a esta Superintendencia.
 
-3.- Disminución de la participación en una empresa de apoyo.
+### 3. Disminución de la participación en una empresa de apoyo
 
-Para la enajenación total o parcial de la participación que una institución financiera mantenga en una empresa de apoyo, deberá solicitarse autorización de esta Superintendencia en forma previa a la adquisición de cualquier compromiso en ese sentido. Igual procedimiento deberá seguirse ante cualquier evento que disminuya el porcentaje de participación de una institución financiera en una empresa de apoyo.
+Para la enajenación total o parcial de la participación que un banco mantenga en una empresa de apoyo, deberá solicitarse autorización de esta Superintendencia en forma previa a la adquisición de cualquier compromiso en ese sentido. Igual procedimiento deberá seguirse ante cualquier evento que disminuya el porcentaje de participación de un banco en una empresa de apoyo.
 
-4.- Entidades cuyos giros se aluden en otras disposiciones y que pueden constituirse como sociedades de apoyo al giro.
+4. Entidades cuyos giros se aluden en otras disposiciones y que pueden constituirse como sociedades de apoyo al giro.
 
-Si bien la letra b) del artículo 70 de la Ley General de Bancos permite la constitución de sociedades filiales cuyo giro consista en la custodia o transporte de valores, o en la cobranza de créditos, ello no es óbice para constituir sociedades de apoyo al giro con esos objetos sociales, al amparo del artículo 74. Asimismo, la opción de constituir una filial operadora de tarjetas de crédito no resulta incompatible con la posibilidad de que las instituciones financieras constituyan una sociedad de apoyo al giro que realice esa actividad.
+Si bien la letra b) del artículo 70 de la Ley General de Bancos permite la constitución de sociedades filiales cuyo giro consista en la custodia o transporte de valores, o en la cobranza de créditos, ello no es óbice para constituir sociedades de apoyo al giro con esos objetos sociales, al amparo del artículo 74. Asimismo, la opción de constituir una filial operadora de tapetas de crédito no resulta incompatible con la posibilidad de que los bancos constituyan una sociedad de apoyo al giro que realice esa actividad.
 
-El artículo 51 de la Ley N° 18.876 faculta a los bancos y sociedades financieras para invertir en sociedades anónimas constituidas como empresas de depósito de valores al amparo de esa ley. Para ese efecto, esta Superintendencia ha autorizado la participación en la propiedad a través de una empresa de apoyo al giro.
+El artículo 51 de la Ley N° 18.876 faculta a los bancos para invertir en sociedades anónimas constituidas como empresas de depósito de valores al amparo de esa ley. Para ese efecto, esta Superintendencia ha autorizado la participación en la propiedad a través de una empresa de apoyo al giro.
 
-5.- Fiscalización de las sociedades de apoyo.
+### 5. Fiscalización de las sociedades de apoyo
 
 Las sociedades a que se refiere el artículo 74 de la Ley General de Bancos quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, deben ceñirse a las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
 
 Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efectos de fiscalización, la información establecida en las normas generales o instrucciones específicas impartidas a dichas sociedades, las que comprenden, entre otras, la exigencia de remitir estados de situación en forma periódica.
 
-6.- Dirección, administración y funcionamiento de las sociedades de apoyo al giro.
+6. Dirección, administración y funcionamiento de las sociedades de apoyo al giro.
 
-Las sociedades de apoyo al giro se atendrán a lo dispuesto en el N° 9 del título II de este Capítulo, en lo que se refiere a la relación con sus instituciones financieras socias o accionistas, las filiales de éstas y las demás sociedades de apoyo al giro en que sus dueños participen.
+Las sociedades de apoyo al giro se atendrán a lo dispuesto en el N° 9 del título II de este Capítulo, en lo que se refiere a la relación con sus bancos socios o accionistas, las filiales de éstos y las demás sociedades de apoyo al giro en que sus dueños participen.
 
-Sin embargo, no podrán ser directores de una sociedad de apoyo al giro cuyas funciones consistan en la administración y operación de Cámaras de Compensación de Alto Valor, los gerentes o empleados de una institución financiera que sea accionista o socia de aquella.
+Sin embargo, no podrán ser directores de una sociedad de apoyo al giro cuyas funciones consistan en la administración y operación de Cámaras de Compensación de Alto Valor, los gerentes o empleados de un banco que sea accionista o socio de aquella.
 
-7.- Restricciones en las inversiones de las sociedades de apoyo al giro.
+### 7. Restricciones en las inversiones de las sociedades de apoyo al giro
 
-Por tratarse de sociedades con giro exclusivo, las empresas de apoyo de bancos y sociedades financieras no podrán tener entre sus activos acciones o derechos en otras sociedades, salvo que ello sea imprescindible para el desarrollo de su giro. En este caso la sociedad deberá contar con la autorización previa de esta Superintendencia, para cuyo efecto se presentará una solicitud informando de las razones por las cuales la inversión es imprescindible.
+Por tratarse de sociedades con giro exclusivo, las empresas de apoyo de bancos no podrán tener entre sus activos acciones o derechos en otras sociedades, salvo que ello sea imprescindible para el desarrollo de su giro. En este caso la sociedad deberá contar con la autorización previa de esta Superintendencia, para cuyo efecto se presentará una solicitud informando de las razones por las cuales la inversión es imprescindible.
 
-Por otra parte, sin perjuicio de las inversiones que les fueren propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en: documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos o sociedades financieras; y cuotas de fondos mutuos de renta fija.
+Por otra parte, sin perjuicio de las inversiones que les fueren propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en: documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos; y cuotas de fondos mutuos de renta fija.
 
-8.- Estados financieros anuales.
+### 8. Estados financieros anuales
 
 Los estados financieros anuales de las empresas de apoyo deberán ser auditados por una firma de auditores externos inscrita en esta Superintendencia.
 
-IV.- INVERSIONES MINORITARIAS EN SOCIEDADES.
+### IV. INVERSIONES MINORITARIAS EN SOCIEDADES
 
-El inciso segundo del artículo 72 de la Ley General de Bancos, permite a las instituciones financieras participar en forma minoritaria en una sociedad que tenga alguno de los objetos indicados en el artículo 70, esto es, aquellos que la ley permite a las filiales que complementan el giro, tratadas en el título II del presente Capítulo.
+El inciso segundo del artículo 72 de la Ley General de Bancos, permite a los bancos participar en forma minoritaria en una sociedad que tenga alguno de los objetos indicados en el artículo 70, esto es, aquellos que la ley permite a las filiales que complementan el giro, tratadas en el título II del presente Capítulo.
 
 La participación minoritaria en una de esas sociedades al amparo de lo dispuesto en esa disposición legal, requiere del cumplimiento de las siguientes condiciones básicas:
 
 a) Que se trate de una sociedad fiscalizada por esta Superintendencia, o bien, por la Superintendencia de Valores y Seguros.
 
-b) Que la participación tenga el carácter de una inversión permanente, permitiendo a la institución financiera elegir directamente al menos un miembro del directorio o de la administración.
+b) Que la participación tenga el carácter de una inversión permanente, permitiendo al banco elegir directamente al menos un miembro del directorio o de la administración.
 
 c) Que los demás socios o accionistas que posean un 10% o más de participación en el capital de la sociedad, cumplan las condiciones que exige el artículo 36 de la Ley General de Bancos.
 
-d) Que la institución financiera obtenga la autorización previa de esta Superintendencia, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en los literales del N° 3 del título II de este Capítulo.
+d) Que el banco obtenga la autorización previa de esta Superintendencia, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en los literales del N° 3 del título II de este Capítulo.
 
-Como es natural, los propósitos que la institución financiera persigue con una inversión en una sociedad que no controlará, deberán explicarse en la solicitud que se presente a esta Superintendencia.
+Como es natural, los propósitos que el banco persigue con una inversión en una sociedad que no controlará, deberán explicarse en la solicitud que se presente a esta Superintendencia
 
-V.- OPERACIONES ENTRE PARTES RELACIONADAS.
+### V. OPERACIONES ENTRE PARTES RELACIONADAS
 
-1.- Condiciones que deben cumplir las operaciones.
+### 1. Condiciones que deben cumplir las operaciones
 
-Los actos, contratos, negocios y operaciones entre una institución financiera y sus sociedades filiales y de apoyo al giro, de éstas entre sí y con personas relacionadas al banco o sociedad financiera, deberán observar condiciones de equidad, equivalentes a las que habitualmente prevalecen en el mercado.
+Los actos, contratos, negocios y operaciones entre un banco y sus sociedades filiales y de apoyo al giro, de éstas entre sí y con personas relacionadas al banco, deberán observar condiciones de equidad, equivalentes a las que habitualmente prevalecen en el mercado.
 
-Todas las transacciones efectuadas entre la institución financiera y las sociedades en la cuales participe, como asimismo las realizadas entre estas últimas, deberán quedar debidamente identificadas en las empresas participantes, a fin de permitir la obtención de cualquier información que esta Superintendencia les pueda requerir acerca de operaciones entre ellas y, cuando corresponda, la consolidación de los estados financieros de la matriz.
+Todas las transacciones efectuadas entre el banco y las sociedades en la cuales participe, como asimismo las realizadas entre estas últimas, deberán quedar debidamente identificadas en las empresas participantes, a fin de permitir la obtención de cualquier información que esta Superintendencia les pueda requerir acerca de operaciones entre ellas y, cuando corresponda, la consolidación de los estados financieros de la matriz.
 
-2.- Prohibición de adquirir acciones de la sociedad matriz o coligante.
+### 2. Prohibición de adquirir acciones de la sociedad matriz o coligante
 
-Las sociedades a que se refieren los títulos II, III y IV de este Capítulo, no podrán adquirir acciones de los bancos o sociedades financieras que sean accionistas o socios de ellas. Esta prohibición alcanza también a la recepción en pago, como asimismo impide recibirlas en garantía por el cumplimiento de una obligación que un tercero tenga en favor de la sociedad filial, coligada o de apoyo al giro.
+Las sociedades a que se refieren los títulos II, III y IV de este Capítulo, no podrán adquirir acciones de los bancos que sean accionistas o socios de ellas. Esta prohibición alcanza también a la recepción en pago, como asimismo impide recibirlas en garantía por el cumplimiento de una obligación que un tercero tenga en favor de la sociedad filial, coligada o de apoyo al giro.
 
-3.- Créditos otorgados a las sociedades en que participe la institución financiera o sus filiales.
+3. Créditos otorgados a las sociedades en que participe el banco o sus filiales.
 
-De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades constituidas en el país o en el exterior en que la institución financiera o sus filiales tengan participación y cuyas operaciones no se consolidan para efecto de los límites de crédito del artículo 84 de la Ley General de Bancos, conformarán un solo grupo de empresas vinculadas para las limitaciones establecidas en el N° 2 de ese artículo.
+De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades constituidas en el país o en el exterior en que el banco o sus filiales tengan participación y cuyas operaciones no se consolidan para efecto de los límites de crédito del artículo 84 de la Ley General de Bancos, conformarán un solo grupo de empresas vinculadas para las limitaciones establecidas en el N° 2 de ese artículo.
 
-VI.- NORMAS CONTABLES.
+### VI. NORMAS CONTABLES
 
-1.- Inversiones en sociedades filiales y coligadas.
+### 1. Inversiones en sociedades filiales y coligadas
 
-Cuando la institución financiera tenga una participación igual o superior al 10% en una sociedad, o cuando pueda elegir o designar por lo menos un miembro del directorio o de la administración de la misma, de acuerdo con los estatutos de la empresa, la inversión se registrará de la siguiente forma:
+Cuando el banco tenga una participación igual o superior al 10% en una sociedad, o cuando pueda elegir o designar por lo menos un miembro del directorio o de la administración de la misma, de acuerdo con los estatutos de la empresa, la inversión se registrará de la siguiente forma:
 
-1.1.- Valorización de las inversiones y resultados.
+1.1. Valorización de las inversiones y resultados.
 
 Las acciones o derechos en las sociedades filiales o coligadas de que se trata, sean éstas filiales que complementan el giro o sociedades de apoyo al giro que tengan el carácter de filiales o coligadas, se registrarán en el activo a su valor patrimonial proporcional (VPP).
 
@@ -13354,7 +13360,7 @@ Las utilidades reconocidas proporcionalmente se registrarán en las siguientes c
 
 Las utilidades no realizadas se abonarán a la cuenta "Utilidades no realizadas" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 8350. Para reconocer posteriormente los ingresos se efectuará la contabilización inversa.
 
-1.2.- Mayor o menor valor pagado en inversiones en sociedades ya constituidas.
+1.2. Mayor o menor valor pagado en inversiones en sociedades ya constituidas.
 
 En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
 
@@ -13364,39 +13370,39 @@ b) Valor pagado menor que el VPP: Si el valor pagado fuere menor que el valor pa
 
 El saldo de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Menor valor pagado en inversiones en sociedades" antes señaladas, deberá ajustarse proporcionalmente en caso de enajenaciones parciales o cambios en los porcentajes de participación en las sociedades por cuya inversión se originaron.
 
-2.- Inversiones minoritarias en sociedades de apoyo al giro.
+### 2. Inversiones minoritarias en sociedades de apoyo al giro
 
-Las inversiones en sociedades de apoyo al giro en que la institución financiera tenga una participación inferior al 10% o no pueda elegir a lo menos un director o administrador, se registrarán en la cuenta "Inversiones en sociedades de apoyo al giro" de la partida 2320, a su valor de costo más corrección monetaria. Las utilidades se reconocerán contablemente sólo al momento de recibir los dividendos o beneficios que la sociedad reparta y sus importes se registrarán con abono a la cuenta "Utilidades de sociedades de apoyo al giro" de la partida 8350.
+Las inversiones en sociedades de apoyo al giro en que el banco tenga una participación inferior al 10% o no pueda elegir a lo menos un director o administrador, se registrarán en la cuenta "Inversiones en sociedades de apoyo al giro" de la partida 2320, a su valor de costo más corrección monetaria. Las utilidades se reconocerán contablemente sólo al momento de recibir los dividendos o beneficios que la sociedad reparta y sus importes se registrarán con abono a la cuenta "Utilidades de sociedades de apoyo al giro" de la partida 8350.
 
-La institución financiera deberá, sin embargo, constituir provisiones para cubrir las pérdidas en que haya incurrido una sociedad. Para ese efecto calculará el importe de la provisión tomando como valor mínimo de referencia de la inversión, el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren sus estados financieros.
+El banco deberá, sin embargo, constituir provisiones para cubrir las pérdidas en que haya incurrido una sociedad. Para ese efecto calculará el importe de la provisión tomando como valor mínimo de referencia de la inversión, el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren sus estados financieros.
 
 Las provisiones de que se trata se abonarán a la cuenta "Provisiones sobre inversiones en sociedades" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 6350.
 
-VII.- OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LAS INSTITUCIONES FINANCIERAS.
+### VII. OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LOS BANCOS
 
-1.- Tenencia transitoria de acciones o derechos en sociedades.
+### 1. Tenencia transitoria de acciones o derechos en sociedades
 
-Además de las inversiones en sociedades tratadas en los títulos precedentes, los bancos y sociedades financieras pueden mantener transitoriamente y dentro de los límites establecidos en la ley: a) Acciones o derechos en sociedades recibidos en pago o adjudicados en remate judicial por deudas previamente contraídas a favor de la institución financiera, según lo previsto en el N° 5 del artículo 84 de la Ley General de Bancos; y b) Acciones de primera emisión adquiridas en virtud de la garantía otorgada como agente colocador, según lo dispuesto en el artículo 69 N° 25 de la misma ley.
+Además de las inversiones en sociedades tratadas en los títulos precedentes, los bancos pueden mantener transitoriamente y dentro de los límites establecidos en la ley: a) Acciones o derechos en sociedades recibidos en pago o adjudicados en remate judicial por deudas previamente contraídas a favor del banco, según lo previsto en el N° 5 del artículo 84 de la Ley General de Bancos; y b) Acciones de primera emisión adquiridas en virtud de la garantía otorgada como agente colocador, según lo dispuesto en el artículo 69 N° 25 de la misma ley.
 
 Las acciones o derechos antes mencionados deben ser enajenados en los plazos y forma señalados en la ley y en las normas de esta Superintendencia sobre la materia, y se registrarán contablemente de acuerdo con las normas específicas que las tratan.
 
-2.- Acciones de empresas de utilidad pública.
+### 2. Acciones de empresas de utilidad pública
 
-Las instituciones financieras también pueden poseer acciones de empresas de suministro de servicios de utilidad pública correspondientes al reembolso de aportes por instalaciones o ampliaciones de los respectivos servicios, en la medida que su adquisición sea la única forma de acceder a ellos y de obtener el reembolso de los aportes efectuados en conformidad con las disposiciones pertinentes. Estas acciones no serán consideradas como inversiones en sociedades para los efectos legales y reglamentarios mencionados en este Capítulo.
+Los bancos también pueden poseer acciones de empresas de suministro de servicios de utilidad pública correspondientes al reembolso de aportes por instalaciones o ampliaciones de los respectivos servicios, en la medida que su adquisición sea la única forma de acceder a ellos y de obtener el reembolso de los aportes efectuados en conformidad con las disposiciones pertinentes. Estas acciones no serán consideradas como inversiones en sociedades para los efectos legales y reglamentarios mencionados en este Capítulo.
 
 Las acciones de que se trata se registrarán en la cuenta "Acciones de empresas de utilidad pública" de la partida 1775 y quedarán valorizadas en el activo al menor valor entre su costo corregido monetariamente y su valor de mercado. Los resultados por los dividendos percibidos o por los ajustes a valor de mercado que procedan, se registrarán en cuentas de las partidas 8315 ó 6315, según corresponda.
 
-3.- Alcance de estas disposiciones.
+### 3. Alcance de estas disposiciones
 
-Los bancos y las sociedades financieras, no podrán adquirir para sí acciones o derechos en sociedades en el país que no se ajusten a lo indicado en los títulos anteriores y en los números precedentes. Sin embargo, eso no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria. Esto no se aplica a las sociedades financieras, por cuanto el artículo 116 de la Ley General de Bancos les prohibe actuar como mandatarias a nombre propio.
+Los bancos no podrán adquirir para sí acciones o derechos en sociedades en el país que no se ajusten a lo indicado en los títulos anteriores y en los números precedentes. Sin embargo, eso no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria.
 
-ANEXO N°l
+Anexo N° 1
 
-ANTECEDENTES PARA AUTORIZACION DE FILIALES.
+ANTECEDENTES PARA AUTORIZACIÓN DE FILIALES.
 
-Junto con el estudio de factibilidad, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
+Junto con el estudio de factibilidad, los bancos solicitantes acompañarán los siguientes antecedentes:
 
-1.- Para la apertura de una filial:
+### 1. Para la apertura de una filial
 
 a) Participación accionaria que tendrá la matriz en la filial.
 
@@ -13414,7 +13420,7 @@ g) Explicación acerca de los controles internos que se prevén para manejar o p
 
 h) Equipamientos y servicios contemplados para desarrollar el giro.
 
-2.- Para adquirir como filial una sociedad que ya existe.
+### 2. Para adquirir como filial una sociedad que ya existe
 
 a) La misma información mencionada en el N° 1.
 
@@ -13422,11 +13428,11 @@ b) Estados financieros auditados de los tres últimos años.
 
 c) Informes relevantes de riesgo y de auditorías realizadas por la entidad o por profesionales externos.
 
-d) Resultados de la Due-Dilligence efectuada por la institución solicitante y criterios de valoración de la inversión.
+d) Resultados de la Due-Diligence efectuada por el banco solicitante y criterios de valoración de la inversión.
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
-ANEXO N° 2
+Anexo N° 2
 
 ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
 
@@ -13456,19 +13462,17 @@ B) OTROS SERVICIOS
 
 - Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones previsionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
 
-- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
-
-- Recopilación y preevaluación de antecedentes de potenciales clientes de una institución financiera.
+- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc. Recopilación y preevaluación de antecedentes de potenciales clientes de un banco.
 
 - Prestación de servicios legales al banco y sus filiales.
 
-ANEXO N° 3
+Anexo N° 3
 
-ANTECEDENTES PARA AUTORIZACION DE SOCIEDADES DE APOYO AL GIRO RELACIONADAS CON SISTEMAS DE PAGOS.
+ANTECEDENTES PARA AUTORIZACIÓN DE SOCIEDADES DE APOYO AL GIRO RELACIONADAS CON SISTEMAS DE PAGOS
 
-Para constituir una sociedad de apoyo al giro relacionada con el sistema de pagos, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
+Para constituir una sociedad de apoyo al giro relacionada con el sistema de pagos, los bancos solicitantes acompañarán los siguientes antecedentes:
 
-1.- Antecedentes Generales.
+### 1. Antecedentes Generales:
 
 a) Participación que tendrán los socios en la propiedad y gestión.
 
@@ -13488,7 +13492,7 @@ h) Acceso de los usuarios a los servicios ofrecidos.
 
 i) Constitución y funcionamiento del Directorio y de otras instancias de decisión.
 
-2.- Socios Incorporación a la sociedad y participación en la misma y en otras sociedades similares.
+2. Socios. Incorporación a la sociedad y participación en la misma y en otras sociedades similares:
 
 a) Condiciones para la incorporación de nuevos socios.
 
@@ -13496,11 +13500,11 @@ b) Factores que inciden para determinar la participación accionaria de los soci
 
 c) Limitación a los socios de participar en otras sociedades que ofrecen servicios similares.
 
-3.- Seguridad y confiabilidad de las actividades de la sociedad.
+### 3. Seguridad y confiabilidad de las actividades de la sociedad
 
 Deberán definirse las políticas relativas a los estándares de seguridad y confiabilidad de los procedimientos y de los servicios que prestará la sociedad, sea directamente o externalizados y los procedimientos para la verificación de su cumplimiento.
 
-4.- Tarificación de los servicios.
+### 4. Tarificación de los servicios
 
 Exponer: a) los principios en los que se basa la fijación de las tarifas aplicadas a los servicios que prestará la sociedad y esquemas o modelos de determinación de precios que se desprenden de esos principios.
 
@@ -13510,15 +13514,15 @@ c) la política de difusión de tarifas al público, si éste tuviera acceso a l
 
 d) tarifas por conexión o acceso, cargos fijos por período y cobros en función del volumen de transacciones por períodos determinados.
 
-5.- Interconexión con otras redes.
+### 5. Interconexión con otras redes
 
 Explicar las definiciones y políticas respecto de la compatibilidad y cumplimiento de las normas de estandarización en los aspectos tecnológicos que posibiliten la interconexión con otras redes o infraestructuras del sistema de pagos.
 
-6.- Evaluaciones adicionales.
+### 6. Evaluaciones adicionales
 
 Esta Superintendencia podrá recurrir a empresas y consultores externos calificados con el objeto de disponer de evaluaciones adicionales, como asimismo, solicitar el punto de vista de la Asociación de Bancos e Instituciones Financieras de Chile A.G., cuando tenga dudas acerca del proyecto que se presenta. Además, si se estimara que aquél puede afectar la competencia, podrá también solicitar la opinión del organismo que regula dicha materia.
 
-7.- Sociedad Operadora de Cámara de Compensación de Pagos de Alto Valor.
+### 7. Sociedad Operadora de Cámara de Compensación de Pagos de Alto Valor
 
 Para la constitución de una sociedad cuyo giro sea el de operador de Cámaras de Compensación de Pagos de Alto Valor, según lo previsto en el Capítulo III.H.5 del Compendio de Normas Financieras del Banco Central de Chile, deberá solicitarse la autorización previa de esta Superintendencia, acompañando a la solicitud correspondiente los antecedentes que se indican en los números precedentes de este Anexo. Una vez aprobada esa solicitud, los interesados deberán, acorde con lo dispuesto en el Capítulo III.H.5 antes referido, presentar a la aprobación del Banco Central de Chile el respectivo Reglamento Operativo. Luego de aprobado por el Banco Central de Chile, deberán presentarlo a esta Superintendencia, para obtener la autorización de funcionamiento de la sociedad, previa comprobación por parte de este organismo de las condiciones técnicas y de seguridad de las instalaciones, de la preparación del personal directivo y operativo, como también de los procedimientos y controles que aseguren su buen funcionamiento.
 
@@ -13526,11 +13530,11 @@ Por otra parte, en concordancia con lo indicado en el N° 21 del Capítulo III.H
 
 Además, en relación con lo dispuesto en el N° 35 del mencionado Capítulo III.H.5, se establece que la sociedad operadora deberá contratar anualmente una auditoría externa para que realice una evaluación de los procedimientos para la solución de contingencias operativas y del cumplimiento del Reglamento Operativo.
 
-ANEXO N°4
+Anexo N° 4
 
-ANTECEDENTES PARA AUTORIZACION DE SOCIEDADES DE APOYO AL GIRO NO VINCULADAS A SISTEMAS DE PAGOS.
+ANTECEDENTES PARA AUTORIZACIÓN DE SOCIEDADES DE APOYO AL GIRO NO VINCULADAS A SISTEMAS DE PAGOS.
 
-Para constituir una sociedad de apoyo al giro, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
+Para constituir una sociedad de apoyo al giro, los bancos solicitantes acompañarán los siguientes antecedentes:
 
 a) Participación que tendrán los socios en la propiedad y gestión.
 
@@ -13540,13 +13544,13 @@ c) Estudio técnico-económico de la rentabilidad de la inversión.
 
 d) Estructura organizacional prevista para la empresa.
 
-b) Análisis de los principales riesgos del negocio y de las operaciones.
+e) Análisis de los principales riesgos del negocio y de las operaciones.
 
-c) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones, su seguridad y confiabilidad.
+f) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones, su seguridad y confiabilidad.
 
-d) Equipamientos y servicios contemplados para desarrollar el giro.
+g) Equipamientos y servicios contemplados para desarrollar el giro.
 
-Esta Superintendencia podrá requerir información adicional relativa al giro específico que se solicita, como asimismo antecedentes que muestren la incidencia del proyecto para cada institución financiera participante, cuando sea el caso.
+Esta Superintendencia podrá requerir información adicional relativa al giro específico que se solicita, como asimismo antecedentes que muestren la incidencia del proyecto para cada banco participante, cuando sea el caso.
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
@@ -14850,21 +14854,15 @@ b) la prenda se haya constituido sobre la totalidad de las maquinarias que confo
 
 c) en el financiamiento participan a lo menos dos instituciones financieras del país y, a su vez, existe un convenio de acreedores que impide la enajenación de la garantía por partes, es decir, que obligue a su enajenación como unidad económica.
 
-CAPITULO 12-4 (Bancos y Financieras)
+## Capítulo 12-4
 
-MATERIA:
+LÍMITES DE CRÉDITOS OTORGADO A PERSONAS RELACIONADAS ARTÍCULO 84 N° 2 DE LA LEY GENERAL DE BANCOS.
 
-LIMITE DE CREDITOS OTORGADOS A PERSONAS RELACIONADAS ARTICULO 84 N° 2 DE LA LEY
-
-GENERAL DE BANCOS.
-
-### I. PERSONAS RELACIONADAS CON LA PROPIEDAD O GESTION DE UNA INSTITUCION
-
-FINANCIERA.
+I.- PERSONAS RELACIONADAS CON LA PROPIEDAD O GESTIÓN DE UN BANCO.
 
 ### 1. Definición de deudores relacionados
 
-La relación de una persona determinada con una institución financiera se produce cuando:
+La relación de una persona determinada con un banco se produce cuando:
 
 a) Posee una participación directa, indirecta o a través de terceros, en la propiedad de la institución;
 
@@ -14872,41 +14870,37 @@ b) Participa en la gestión de la entidad; o,
 
 c) Según normas generales, establecidas directamente en la Ley o dictadas por esta Superintendencia en uso de las facultades que la misma ley le otorga, aparecen situaciones que hacen presumir esa relación mientras no se presenten antecedentes suficientes que permitan eliminar esa presunción.
 
-Estas relaciones afectan tanto a las personas naturales como a las personas jurídicas, sean éstas sociedades de cualquiera clase, incluidas las cooperativas y mutuales, como asimismo las corporaciones y fundaciones, sindicatos, asociaciones gremiales, etc.
+Estas relaciones afectan tanto a las personas naturales como a las personas jurídicas, sean éstas sociedades de cualquier clase, incluidas las cooperativas y mutuales, como asimismo las corporaciones y fundaciones, sindicatos, asociaciones gremiales, etc.
 
-1.1. Personas relacionadas a una institución financiera a través de la propiedad.
+1.1. Personas relacionadas a un banco a través de la propiedad.
 
-Una persona se encuentra relacionada a una institución financiera a través de la propiedad, cuando es accionista de ella o es socia o accionista de sociedades que, a su vez, poseen acciones de la institución directamente o a través de otras sociedades. Esta relación, de acuerdo con la Ley, puede ser directa o a través de terceros. Puede también producirse una relación indirecta a través del cónyuge, separado o no de bienes, o de los hijos menores.
+Una persona se encuentra relacionada a un banco a través de la propiedad, cuando es accionista de ella o es socia o accionista de sociedades que, a su vez, poseen acciones de la institución directamente o a través de otras sociedades. Esta relación, de acuerdo con la Ley, puede ser directa o a través de terceros. Puede también producirse una relación indirecta a través del cónyuge, separado o no de bienes, o de los hijos menores.
 
-Sin embargo, la ley establece que una persona natural no se considerará relacionada por el solo hecho de poseer hasta un 1% de las acciones de una institución financiera. Igualmente, no se considerará relacionada una persona jurídica por el solo hecho de poseer directamente, a través de terceros o en conjunto con otras sociedades con las cuales conforma una unidad de intereses
-
-económicos, hasta un 1% de las acciones de la institución financiera.
+Sin embargo, la Ley establece que una persona natural no se considerará relacionada por el solo hecho de poseer hasta un 1% de las acciones de un banco. Igualmente, no se considerará relacionada una persona jurídica por el solo hecho de poseer directamente, a través de terceros o en conjunto con otras sociedades con las cuales conforma una unidad de intereses económicos, hasta un 1% de las acciones del banco.
 
 Los porcentajes anteriores se elevarán a un 5%, en el caso de accionistas, personas naturales o jurídicas, de un banco cuyas acciones tengan presencia bursátil.
 
-Una sociedad no se considerará relacionada por el solo hecho que personas naturales o jurídicas relacionadas por la vía de la propiedad a la institución financiera tengan, por sí, a través de terceros, o en conjunto, una participación igual o inferior al 5% en el capital o en las utilidades de la respectiva sociedad. Los accionistas o socios de personas jurídicas relacionadas
+Una sociedad no se considerará relacionada por el solo hecho que personas naturales o jurídicas relacionadas por la vía de la propiedad al banco tengan, por sí, a través de terceros, o en conjunto, una participación igual o inferior al 5% en el capital o en las utilidades de la respectiva sociedad. Los accionistas o socios de personas jurídicas relacionadas a un banco no se considerarán relacionados cuando su participación sea irrelevante y resulte evidente que esos accionistas o socios y quienes controlan la sociedad no conforman una unidad de intereses económicos.
 
-a una institución financiera no se considerarán relacionados cuando su participación sea irrelevante y resulte evidente que esos accionistas o socios y quienes controlan la sociedad no conforman una unidad de intereses económicos.
+1.2. Personas relacionadas con un banco a través de la gestión.
 
-1.2. Personas relacionadas con una institución financiera a través de la gestión.
+Están relacionadas a través de la gestión de un banco aquellas personas que, sin tener necesariamente participación en la propiedad, ejercen algún grado de control sobre las decisiones de la entidad o de cualquiera de sus sociedades filiales, por el cargo que ocupan en ella o en alguna de sus filiales. Se considera que ejercen esta influencia los directores, el gerente general, el subgerente general, los gerentes y subgerentes, los agentes y las personas que son apoderados generales o se desempeñan como asesores del directorio, de un comité de directores o de la gerencia, como también el fiscal, el abogado jefe y el contralor. Si en un banco prestan servicios personas que desempeñan funciones similares a los cargos descritos, quedarán sujetas a la condición de relacionadas por gestión, aunque se les haya asignado otro nombre.
 
-Están relacionadas a través de la gestión de una institución financiera aquellas personas que, sin tener necesariamente participación en la propiedad, ejercen algún grado de control sobre las decisiones de la entidad o de cualquiera de sus sociedades filiales, por el cargo que ocupan en ella o en alguna de sus filiales. Se considera que ejercen esta influencia los directores, el gerente general, el subgerente general, los gerentes y subgerentes, los agentes y las personas que son apoderados generales o se desempeñan como asesores del directorio, de un comité de directores o de la gerencia, como también el fiscal,el abogado jefe y el contralor. Si en una institución prestan servicios personas que desempeñan funciones similares a los cargos descritos, quedarán sujetas a la condición de relacionadas por gestión, aunque se les haya asignado otro nombre.
+Se considerarán también relacionadas al banco las sociedades en que cualquiera de los recién mencionados tenga, directamente o a través de otras sociedades, su cónyuge, separado o no de bienes, o sus hijos menores, una participación en la propiedad igual o superior a un 5%.
 
-Se considerarán también relacionadas a la entidad financiera las sociedades en que cualquiera de los recién mencionados tenga, directamente o a través de otras sociedades, su cónyuge, separado o no de bienes, o sus hijos menores, una participación en la propiedad igual o superior a un 5%.
-
-También se considerarán relacionadas las sociedades en las que alguna de las personas naturales relacionadas con la institución financiera a través de la gestión, ocupe el cargo de director, gerente general u otro equivalente.
+También se considerarán relacionadas las sociedades en las que alguna de las personas naturales relacionadas con el banco a través de la gestión, ocupe el cargo de director, gerente general u otro equivalente.
 
 De acuerdo con lo anterior, si un director de un banco o de una de sus filiales es a la vez director de otra sociedad, esta última debe considerarse relacionada al banco. Sin embargo, en este caso y para el solo efecto de conformar los grupos de entidades relacionadas al banco y vinculadas entre sí a que se refiere el N° 2 de este título, dicha sociedad se considerará como un grupo aparte si ese director común no tiene otro tipo de relaciones a través de la gestión o de la propiedad en los términos indicados en este Capítulo, con esa empresa, el banco o las empresas de sus respectivos controladores.
 
-Debe tenerse presente que las personas que se desempeñen como directores o apoderados generales, así como sus cónyuges, hijos menores bajo patria potestad y las sociedades en que estas personas sean socios o accionistas, están sujetas a la prohibición de otorgarles crédito según lo establecido en el artículo 84 N°4 de la Ley General de Bancos y tratado en el Capítulo 12-12 de esta Recopilación Actualizada de Normas, precepto que prevalece respecto de los que se señalan en el presente Capítulo.
+Debe tenerse presente que las personas que se desempeñen como directores o apoderados generales, así como sus cónyuges, hijos menores bajo patria potestad y las sociedades en que estas personas sean socios o accionistas, están sujetas a la prohibición de otorgarles crédito según lo establecido en el artículo 84 N° 4 de la Ley General de Bancos y tratado en el Capítulo 12-12 de esta Recopilación Actualizada de Normas, precepto que prevalece respecto de los que se señalan en el presente Capítulo.
 
 1.3. Presunciones de relación.
 
-La ley encarga a esta Superintendencia el establecimiento de normas generales para determinar las personas naturales o jurídicas que deban considerarse relacionadas a la propiedad o gestión de la institución financiera, lo que no esotra cosa que establecer las circunstancias o situaciones generales que harán suponer que existe una relación entre una persona y una entidad financiera por vínculos de propiedad o gestión.
+La Ley encarga a esta Superintendencia el establecimiento de normas generales para determinar las personas naturales o jurídicas que deban considerarse relacionadas a la propiedad o gestión del banco, lo que no es otra cosa que establecer las circunstancias o situaciones generales que harán suponer que existe una relación entre una persona y un banco por vínculos de propiedad o gestión.
 
-En todo caso, la Ley establece que el hecho de que sea deudora de una institución financiera una sociedad constituida en el extranjero, entre cuyos socios o accionistas figuren otras sociedades o cuyas acciones sean al portador, hará presumir que se encuentra relacionada a aquélla.
+En todo caso, la Ley establece que el hecho de que sea deudora de un banco una sociedad constituida en el extranjero, entre cuyos socios o accionistas figuren otras sociedades o cuyas acciones sean al portador, hará presumir que se encuentra relacionada a aquélla.
 
-Por otra parte, y sin perjuicio de otras presunciones que puedan establecerse en el futuro, se presumirá que un deudor está relacionado a la institución financiera acreedora si se encuentra en una o más de las siguientes situaciones:
+Por otra parte, y sin perjuicio de otras presunciones que puedan establecerse en el futuro, se presumirá que un deudor está relacionado al banco acreedor si se encuentra en una o más de las siguientes situaciones:
 
 a) Cuando el deudor sea una sociedad constituida en el país o el extranjero, cuyo patrimonio e ingresos sean insuficientes en relación al monto de los créditos concedidos o cuyos principales socios o accionistas no acrediten patrimonio suficiente o no existan antecedentes respecto de las actividades que desarrollan.
 
@@ -14914,25 +14908,25 @@ b) Cuando el deudor sea una sociedad constituida en Chile cuyos socios o accioni
 
 c) Cuando el deudor sea una sociedad que forma parte de un conjunto de sociedades con socios o accionistas comunes, que constituyan un grupo de intereses económicos y que no muestren un giro individual efectivo o un patrimonio e ingresos suficientes para justificar los créditos concedidos.
 
-d) Cuando el deudor sea considerado persona relacionada a otra institución financiera y ésta haya concedido, en carácter recíproco, créditos a sociedades relacionadas con la institución acreedora o haya habilitado a una tercera institución financiera para hacerlo.
+d) Cuando el deudor sea considerado persona relacionada a otra institución financiera y ésta haya concedido, en carácter recíproco, créditos a sociedades relacionadas con el banco acreedor o haya habilitado a una tercera institución financiera para hacerlo.
 
-e) Cuando el deudor haya recibido créditos en condiciones notoriamente más favorables que la mayoría de los deudores, sin que exista alguna situación financiera que lo justifique desde el punto de vista de los intereses de la institución. También se aplicará la presunción cuando tales personas hayan obtenido condiciones notoriamente más favorables en los depósitos y captaciones o en servicios que la institución les preste.
+e) Cuando el deudor haya recibido créditos en condiciones notoriamente más favorables que la mayoría de los deudores, sin que exista alguna situación financiera que lo justifique desde el punto de vista de los intereses del banco. También se aplicará la presunción cuando tales personas hayan obtenido condiciones notoriamente más favorables en los depósitos y captaciones o en servicios que la institución les preste.
 
-f) Cuando los créditos del deudor se encuentren caucionados con garantías otorgadas por una persona natural o jurídica relacionada con la institución acreedora.
+f) Cuando los créditos del deudor se encuentren caucionados con garantías otorgadas por una persona natural o jurídica relacionada con el banco acreedor.
 
-g) Cuando el deudor haya garantizado créditos o asumido obligaciones de una sociedad relacionada a la institución financiera respectiva.
+g) Cuando el deudor haya garantizado créditos o asumido obligaciones de una sociedad relacionada al banco respetivo.
 
-h) Cuando el representante legal de la empresa deudora, sea a la vez, representante legal de una empresa relacionada a la institución acreedora y no existan antecedentes respecto de los propietarios de la deudora, de la situación patrimonial de éstos o de su giro efectivo.
+h) Cuando el representante legal de la empresa deudora sea, a la vez, representante legal de una empresa relacionada al banco acreedor y no existan antecedentes respecto de los propietarios de la deudora, de la situación patrimonial de éstos o de su giro efectivo.
 
-i) Cuando las obligaciones del deudor sean servidas con recursos de una persona natural o jurídica relacionada con la institución financiera acreedora.
+i) Cuando las obligaciones del deudor sean servidas con recursos de una persona natural o jurídica relacionada con el banco acreedor.
 
-j) Cuando el deudor mantenga cuentas, que representen un porcentaje importante de su activo o pasivo, con sociedades relacionadas a la institución financiera acreedora y no tenga un giro acreedora y no tenga un giro productivo que justifique la existencia de dichas cuentas.
+j) Cuando el deudor mantenga cuentas, que representen un porcentaje importante de su activo o pasivo, con sociedades relacionadas al banco acreedor y no tenga un giro productivo que justifique la existencia de dichas cuentas.
 
 k) Cuando se trate de una sociedad deudora, previamente considerada relacionada, cuya propiedad sea traspasada a terceros sin que existan antecedentes fidedignos de que se permitió la presentación de otras ofertas; cuando las condiciones de venta difieren significativamente de las que prevalecen en el mercado o cuando los adquirentes no hayan demostrado un patrimonio que guarde relación con la magnitud de la operación antes de efectuarla.
 
-2. Entidades relacionadas a una institución y que conforman un grupo de personas vinculadas entre sí.
+2. Entidades relacionadas a un banco y que conforman un grupo de personas vinculadas entre sí.
 
-Se entenderá que conforman un mismo grupo de personas relacionadas a una institución financiera todas aquellas personas naturales y jurídicas entre las cuales se dé una o más de las siguientes circunstancias de vinculación entre ellas:
+Se entenderá que conforman un mismo grupo de personas relacionadas a un banco todas aquellas personas naturales y jurídicas entre las cuales se dé una o más de las siguientes circunstancias de vinculación entre ellas:
 
 a) vinculaciones de negocios, de capitales o de administración que permitan a una o más personas naturales o jurídicas ejercer una influencia significativa y permanente en las decisiones de las demás;
 
@@ -14940,13 +14934,15 @@ b) presunciones fundadas de que los créditos otorgados a una persona serán usa
 
 c) presunciones fundadas de que diversas personas mantienen relaciones de tal naturaleza que conforman de hecho una unidad de intereses económicos.
 
-Adicionalmente, cuando en una institución financiera participen como accionistas, con un porcentaje superior al uno por ciento, corredores de bolsa u otros agentes institucionales, nacionales o extranjeros, que en el ejercicio de su giro mantengan a nombre propio por cuenta de terceros títulos accionarios, se entenderá que ellos representan a los accionistas mayoritarios de la institución financiera y serán considerados para todos los efectos como parte del grupo mayoritario de ella, a menos que demuestren que sus representados son personas independientes de los demás accionistas de la institución financiera.
+Adicionalmente, cuando en un banco participen como accionistas, con un porcentaje superior al uno por ciento, corredores de bolsa u otros agentes institucionales, nacionales o extranjeros, que en el ejercicio de su giro mantengan a nombre propio por cuenta de terceros títulos accionarios, se entenderá que ellos representan a los accionistas mayoritarios del banco y serán considerados para todos los efectos como parte del grupo mayoritario de él, a menos que demuestren que sus representados son personas independientes de los demás accionistas de la institución.
 
-Con respecto a las personas para las cuales se presume relación, la Superintendencia establecerá a cuál o cuáles de los grupos relacionados a la institución deberá ser agregada cada una de ellas, lo que será informado a la institución oportunamente.
+Con respecto a las personas para las cuales se presume relación, la Superintendencia establecerá a cuál o cuáles de los grupos relacionados al banco deberá ser agregada cada una de ellas, lo que será informado a la institución oportunamente.
 
 3. Relaciones que se originan por la participación o la adquisición de acciones o derechos en otras sociedades.
 
-Constituyen empresas relacionadas a una institución financiera las sociedades filiales, de apoyo al giro y coligadas a que se refieren los títulos II, III y IV del Capítulo 11-6 de esta Recopilación, al igual que las empresas filiales y demás sociedades establecidas en el exterior de que tratan los títulos IV y y del Capítulo 11-7. No obstante, para el cumplimiento de los límites de crédito del artículo 84 N° 2 de la Ley General de Bancos, las entidades que consolidan con la institución financiera de acuerdo con lo indicado en el Capítulo 12-1 de esta Recopilación, no se consideran en el cómputo de las deudas, puesto que deben tomarse las operaciones consolidadas Las demás sociedades en que participa la institución financiera, como asimismo aquellas en que participan sus filiales, si fuere el caso, conformarán un solo grupo para los efectos señalados en el N° 2 del título III de este Capítulo.
+Constituyen empresas relacionadas a un banco las sociedades filiales, de apoyo al giro y coligadas a que se refieren los títulos II, III y IV del Capítulo 11-6 de esta Recopilación, al igual que las empresas filiales y demás sociedades establecidas en el exterior de que tratan los títulos IV y y del Capítulo 11-7. No obstante, para el cumplimiento de los límites de crédito del artículo 84 N° 2 de la Ley General de Bancos, las entidades que consolidan con el banco de acuerdo con lo indicado en el Capítulo 12-1 de esta Recopilación, no se consideran en el cómputo de las deudas, puesto que deben tomarse las operaciones consolidadas. Las demás sociedades en que participa el banco, como asimismo aquellas en que participan sus filiales, si fuere el caso, conformarán un solo grupo para los efectos señalados en el N° 2 del título III de este Capítulo.
+
+Igualmente, de acuerdo con lo dispuesto en el artículo 14 de la Ley N° 18.815, se consideran vinculadas a la propiedad del banco, las sociedades de las cuales la filial administradora de fondos de inversión sea poseedora a través de las cuotas de inversión adquiridas, de acciones que superen el equivalente del cinco por ciento del capital de la respectiva sociedad emisora.
 
 Las sociedades cuyas acciones o derechos han sido adquiridos por la institución, ya sea en pago o por adjudicación en subasta pública en conformidad con el artículo 84 N° 5 de la Ley General de Bancos, como asimismo aquellos emisores cuyas acciones de primera emisión se adquieran en virtud de la garantía otorgada como agente colocador de acuerdo con el artículo 69 N° 25, no se incluirán, por ese solo hecho, en la nómina de deudores relacionados.
 
@@ -14960,29 +14956,29 @@ Tampoco se incluirán en la nómina de empresas relacionadas, los emisores de la
 
 4. Nómina de las personas relacionadas y constitución de los grupos de personas relacionadas vinculadas entre sí.
 
-Esta Superintendencia dispone, para efectos de control, de la nómina de las personas relacionadas con cada institución financiera y de la composición de los grupos de personas vinculadas entre sí.
+Esta Superintendencia dispone, para efectos de control, de la nómina de las personas relacionadas con cada banco y de la composición de los grupos de personas vinculadas entre sí.
 
-Es responsabilidad de cada institución financiera la actualización periódica de la respectiva nómina en la forma establecida en el Manual del Sistema de Información, incluyendo, en cada oportunidad, a aquellas personas que pasaron a ser consideradas relacionadas de acuerdo con los antecedentes de que dispone la institución y las comunicaciones que esta Superintendencia le haya enviado para la inclusión en el o los grupos de personas vinculadas entre sí.
+Es responsabilidad de cada banco la actualización periódica de la respectiva nómina en la forma establecida en el Manual del Sistema de Información, incluyendo, en cada oportunidad, a aquellas personas que pasaron a ser consideradas relacionadas de acuerdo con los antecedentes de que dispone la institución y las comunicaciones que esta Superintendencia le haya enviado para la inclusión en el o los grupos de personas vinculadas entre sí.
 
-Cuando, a juicio de una institución financiera, una persona natural o jurídica relacionada haya perdido las características que llevaron a considerarla como tal, la entidad correspondiente deberá comunicarlo a esta Superintendencia mediante una carta y hacer llegar los antecedentes que justifiquen su eliminación de la respectiva nómina. Sólo una vez que este Organismo haya manifestado su conformidad por escrito, se podrá considerar que la persona de que se trata ha dejado de ser relacionada. Lo anterior es sin perjuicio de las excepciones que esta Superintendencia pueda establecer al respecto para un determinado grupo o persona, mediante instrucciones de aplicación general incluidas en el Manual del Sistema de Información.
+Cuando, a juicio de un banco, una persona natural o jurídica relacionada haya perdido las características que llevaron a considerarla como tal, la entidad correspondiente deberá comunicarlo a esta Superintendencia mediante una carta y hacer llegar los antecedentes que justifiquen su eliminación de la respectiva nómina. Sólo una vez que este Organismo haya manifestado su conformidad por escrito, se podrá considerar que la persona de que se trata ha dejado de ser relacionada. Lo anterior es sin perjuicio de las excepciones que esta Superintendencia pueda establecer al respecto para un determinado grupo o persona, mediante instrucciones de aplicación general incluidas en el Manual del Sistema de Información.
 
 ### 5. Información a esta Superintendencia
 
-Las instituciones financieras deberán entregar a este Organismo la información relativa a las personas relacionadas de que trata el N° 4 precedente y, cuando corresponda, los antecedentes sobre las operaciones que esas personas realicen con la institución, en la forma y dentro de los plazos establecidos en el Manual del Sistema de Información.
+Los bancos deberán entregar a este Organismo la información relativa a las personas relacionadas de que trata el N° 4 precedente y, cuando corresponda, los antecedentes sobre las operaciones que esas personas realicen con la institución, en la forma y dentro de los plazos establecidos en el Manual del Sistema de Información.
 
-### II. MEDICION DE LA CONCENTRACION DE CREDITOS
+### II. MEDICIÓN DE LA CONCENTRACIÓN DE CRÉDITOS
 
 ### 1. Cómputo de los créditos
 
 Para computar los créditos otorgados a personas relacionadas con el objeto de determinar el grado de concentración crediticia y el cumplimiento de los límites de que trata el título III de este Capítulo, se considerarán todos los montos adeudados por las personas y sociedades clasificadas en la categoría de relacionadas de acuerdo a los criterios establecidos en el título I, que tengan la calidad de deudores directos según lo indicado en el N° 4 del título II del Capítulo 12-3 de esta Recopilación.
 
-La medición incluye, en consecuencia, los créditos otorgados por la institución financiera y por sus filiales y sucursales cuyas operaciones se consolidan para este efecto, que corresponden a:
+La medición incluye, en consecuencia, los créditos otorgados por el banco y por sus filiales y sucursales cuyas operaciones se consolidan para este efecto, que corresponden a:
 
 a) Colocaciones efectivas o contingentes.
 
 b) Operaciones de compra de valores mobiliarios o efectos de comercio, cuando hayan sido vendidos con pacto de retrocompra por una persona relacionada.
 
-c) Inversiones en instrumentos emitidos por empresas relacionadas adquiridos para negociación o inversión. Al tratarse de bonos provenientes de una securitización, el correspondiente patrimonio separado no se considerará como entidad relacionada aun cuando lo sea la sociedad securitizadora que lo administra, debiendo computarse esos bonos para efectos del artículo 84 N° 2 sólo cuando sus subyacentes sean flujos futuros originados por una empresa relacionada y junto con las demás deudas que ella tuviere.
+c) Inversiones en instrumentos emitidos por empresas relacionadas adquiridos para negociación o inversión. Al tratarse de bonos provenientes de una securitización, el correspondiente patrimonio separado no se considerará como entidad relacionada aun cuando lo sea la sociedad Securitizadora que lo administra, debiendo computarse esos bonos para efectos del artículo 84 N° 2 sólo cuando sus subyacentes sean flujos futuros originados por una empresa relacionada y junto con las demás deudas que ella tuviere.
 
 d) Operaciones con instrumentos derivados.
 
@@ -14994,25 +14990,25 @@ Si se hubieren castigado créditos otorgados a personas relacionadas, éstos se 
 
 2.1. Cómputo de créditos castigados.
 
-Los créditos a personas relacionadas con la institución financiera que se castiguen, se incluirán durante un período de cuatro años en el monto de la deuda relacionada, de acuerdo a su valor al momento del castigo.
+Los créditos a personas relacionadas con el banco que se castiguen, se incluirán durante un período de cuatro años en el monto de la deuda relacionada, de acuerdo a su valor al momento del castigo.
 
 2.2. Remisiones o ventas de créditos.
 
-Las instituciones financieras no podrán remitir o vender bajo la par obligaciones de personas relacionadas.
+Los bancos no podrán remitir o vender bajo la par obligaciones de personas relacionadas.
 
 2.3. Excepciones en casos calificados.
 
-Atendido lo estipulado en la primera parte del N° 2 del artículo 84 de la Ley General de Bancos, las instituciones financieras quedarán eximidas de las disposiciones de los numerales 2.1 y 2.2 precedentes, en la medida en que obtengan una aprobación expresa de esta Superintendencia. Esta se otorgará siempre que la institución demuestre que se cumplen los siguientes requisitos:
+Atendido lo estipulado en la primera parte del N°2 del artículo 84 de la Ley General de Bancos, los bancos quedarán eximidos de las disposiciones de los numerales 2.1 y 2.2 precedentes, en la medida en que obtengan una aprobación expresa de esta Superintendencia. Esta se otorgará siempre que la institución demuestre que se cumplen los siguientes requisitos:
 
-i) que los porcentajes de castigo y remisión, según el caso, para deudores relacionados son, sobre bases comparables, iguales o inferiores a los correspondientes porcentajes para el resto de la cartera en poder de la institución.
+i) que los porcentajes de castigo y remisión, según el caso, para deudores relacionados son, sobre bases comparables, iguales o inferiores a los correspondientes porcentajes para el resto de la cartera en poder del banco.
 
-ii) que la institución ha realizado todos los esfuerzos de cobranza de esos créditos incluyendo las instancias judiciales correspondientes, con un celo similar al aplicado en la cobranza del resto de la cartera de créditos. Asimismo, se deberá acreditar, mediante certificado visado por la fiscalía de la institución, que el deudor no tiene capacidad económica para servir sus obligaciones y que carece de bienes en los cuales hacer efectivas las mismas.
+ii) que el banco ha realizado todos los esfuerzos de cobranza de esos créditos incluyendo las instancias judiciales correspondientes, con un celo similar al aplicado en la cobranza del resto de la cartera de créditos. Asimismo, se deberá acreditar, mediante certificado visado por la fiscalía de la institución, que el deudor no tiene capacidad económica para servir sus obligaciones y que carece de bienes en los cuales hacer efectivas las mismas.
 
 3. Créditos de menos de 3.000 U.F. otorgados a personas naturales relacionadas.
 
-No obstante lo señalado en los numerales precedentes, no se incluirán en el cómputo de los créditos otorgados a personas relacionadas las deudas de personas naturales vinculadas a la institución cuyo valor total respecto de un mismo deudor, incluyendo capital, intereses y reajustes, no supere el equivalente a 3.000 unidades de fomento.".
+No obstante lo señalado en los numerales precedentes, no se incluirán en el cómputo de los créditos otorgados a personas relacionadas las deudas de personas naturales vinculadas al banco cuyo valor total respecto de un mismo deudor, incluyendo capital, intereses y reajustes, no supere el equivalente a 3.000 unidades de fomento.
 
-### III. LIMITES DE CREDITO A DEUDORES RELACIONADOS
+### III. LÍMITES DE CRÉDITO A DEUDORES RELACIONADOS
 
 El artículo 84 N° 2 de la Ley General de Bancos determina los márgenes a que están afectos los créditos que se otorguen a deudores relacionados con la propiedad o gestión de la empresa. A la vez, se refiere a condiciones bajo las cuales pueden concederse préstamos a estos deudores. Quedan comprendidos en esos límites los créditos que se señalan en el título II de este Capítulo, otorgados a las personas a que se refiere el título I.
 
@@ -15020,31 +15016,21 @@ El artículo 84 N° 2 de la Ley General de Bancos determina los márgenes a que 
 
 Los bancos no podrán otorgar créditos a personas relacionadas en términos más favorables en cuanto a plazos, tasas de interés o garantías que los concedidos a terceros en operaciones similares. Cualquier trato preferente en materia crediticia a personas relacionadas dará lugar a las sanciones correspondientes.
 
-### 2. Límites de crédito a cada grupo de personas relacionadas
+### 2. Límites de créditos a cada grupo de personas relacionadas
 
 El conjunto de los créditos otorgados a un grupo de personas relacionadas conformado según el N° 2 del título I de este Capítulo, no podrá superar el 5% del patrimonio efectivo del banco. Ese límite se incrementará hasta un 25% si lo que excede el 5% corresponde a créditos caucionados por garantías que cumplan las condiciones señaladas en el título III del Capítulo 12-3 de esta Recopilación.
 
 ### 3. Límite global de créditos a personas relacionadas
 
-Además del límite por grupo de personas vinculadas a que se refiere el número anterior, la Ley señala que el total de créditos otorgados a personas relacionadas a una institución financiera no puede exceder el monto de su patrimonio efectivo.
+Además del límite por grupo de personas vinculadas a que se refiere el número anterior, la Ley señala que el total de créditos otorgados a personas relacionadas a un banco no puede exceder el monto de su patrimonio efectivo.
 
-Quedan afectos a este limite global tanto los créditos que se indican en el título II de este Capítulo, como las obligaciones de pago de los documentos que, en las operaciones de factoraje, hayan sido cedidos al banco con responsabilidad del cedente. Las deudas indirectas correspondientes a los obligados al pago de las facturas, se sumarán siempre que los cedentes no sean, a su vez, personas relacionadas con la institución financiera.
+Quedan afectos a este límite global tanto los créditos que se indican en el título II de este Capítulo, como las obligaciones de pago de los documentos que, en las operaciones de factoraje, hayan sido cedidos al banco con responsabilidad del cedente. Las deudas indirectas correspondientes a los obligados al pago de las facturas, se sumarán siempre que los cedentes no sean, a su vez, personas relacionadas con el banco.
 
 ### 4. Sanción
 
-En todo momento las instituciones deberán respetar, tanto las condiciones en que
+En todo momento los bancos deberán respetar, tanto las condiciones en que pueden pactarse los créditos a personas relacionadas, según lo establecido en el N° 1 precedente, como el límite de créditos a cada grupo de personas relacionadas y también el límite global de créditos a personas relacionadas a que se refieren los N°s. 2 y 3 de este título.
 
-pueden pactarse los créditos a personas relacionadas, según lo establecido en el
-
-N° 1 precedente, como el límite de créditos a cada grupo de personas
-
-relacionadas y también el límite global de créditos a personas relacionadas a
-
-que se refieren los N°s. 2 y 3 de este título.
-
-Cualquiera infracción a estas disposiciones será castigada con una multa del 20%
-
-sobre el monto del crédito concedido.
+Cualquiera infracción a estas disposiciones será castigada con una multa del 20% sobre el monto del crédito concedido.
 
 CAPITULO 12-5 (Bancos y Financieras)
 
@@ -15678,21 +15664,19 @@ La evaluación de la SBIF de modelos de opciones para efectos del cómputo del r
 
 + Identificación de las normas que, de acuerdo al análisis del banco, inciden en el producto.
 
-CAPITULO 12-10 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 12-10
 
 LIMITE DE INVERSIONES ARTICULO 69 LEY GENERAL DE BANCOS.
 
-1.- Limite de inversiones.
+### 1. Límite de inversiones
 
-Conforme a lo dispuesto en el inciso 2 a del artículo 69 de la Ley General de Bancos, el conjunto de las inversiones que las instituciones financieras efectúen al amparo de las disposiciones de los N°s 15, 21, 22 y 23 del mismo artículo, no pueden exceder del total de su capital pagado y reservas. El N° 18 de ese artículo deja sujeto también a este mismo límite general, la tenencia de oro amonedado o en pastas.
+Conforme a lo dispuesto en el inciso 2° del artículo 69 de la Ley General de Bancos, el conjunto de las inversiones que las instituciones financieras efectúen al amparo de las disposiciones de los N°s. 15, 21, 22 y 23 del mismo artículo, no pueden exceder del total de su capital pagado y reservas. El N° 18 de ese artículo deja sujeto también a este mismo límite general, la tenencia de oro amonedado o en pastas.
 
-2.- Bienes que se incluyen.
+### 2. Bienes que se incluyen
 
 Las inversiones sujetas al límite de que se trata son las siguientes:
 
-a) Inversiones en acciones o derechos en sociedades en el país, señaladas en el N° 1 del título I del Capítulo 11-6 de esta Recopilación Actualizada de Normas.
+a) Inversiones en acciones o derechos en sociedades en el país, señaladas en el N° 1 del título I del Capítulo 11-6 de esta Recopilación Actualizada de Normas, exceptuadas las inversiones a que se refiere la letra c) del mismo N° 1, hasta por un monto equivalente al uno por ciento de los activos totales del banco.
 
 b) Inversiones en bancos u otras sociedades en el exterior, señaladas en el N° 1 del título II del Capítulo 11-7 de esta Recopilación.
 
@@ -15700,11 +15684,15 @@ c) Los bienes que componen el activo fijo físico, conforme a lo señalado en el
 
 d) Inversiones en oro amonedado o en pastas.
 
-3.- Cumplimiento del límite de inversiones.
+### 3. Cumplimiento del límite de inversiones
 
-Las instituciones financieras no podrán efectuar inversiones en los bienes señalados en el N° 2, cuando el monto de la adquisición sumado al valor contable de aquellas inversiones que ya se mantienen, exceda una vez el importe de su capital pagado y reservas.
+Los bancos no podrán efectuar inversiones en los bienes señalados en el N° 2, cuando el monto de la adquisición sumado al valor contable de aquellas inversiones que ya se mantienen, exceda una vez el importe de su capital pagado y reservas.
 
-Para este efecto se considerará el valor contable, a la fecha del cómputo, de los activos correspondientes a inversiones en sociedades, incluido el saldo del "goodwill" que se mantuviere por ellas, al activo fijo físico neto de depreciaciones, y a las inversiones en oro.
+Para este efecto se considerará el valor contable, a la fecha del cómputo, de los activos correspondientes a inversiones en sociedades, incluid el saldo del "goodwill" que se mantuviere por ellas, al activo fijo físico neto de depreciaciones, y a las inversiones en oro.
+
+### 4. Sanciones
+
+El último inciso del artículo 69 antes mencionado dispone que los bancos que adquieran bienes por sobre el límite establecido, incurrirán en una multa equivalente al 10% sobre el exceso de la inversión realizada, por cada mes calendario que mantengan dicho exceso.
 
 CAPITULO 12-12 (Bancos y Financieras) MATERIA:
 
