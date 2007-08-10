@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.241, de 26 de julio de 2007, de esta Subsecretaría, autorízase a POCH AMBIENTAL S.A. para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la fauna íctica del Río Gómez, comuna de Maullín, X Región".
+
+El objetivo de la pesca de investigación consiste en desarrollar un monitoreo de la riqueza íctica del río Gómez, ubicado en la comuna de Maullín, X Región. La pesca de investigación se efectuará por el período comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2007, en el río Gómez, X Región, donde la peticionaria podrá capturar con devolución, mediante pesca eléctrica y chinguillos, las especies individualizadas en la resolución extractada.
+
+Valparaíso, 26 de julio de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
