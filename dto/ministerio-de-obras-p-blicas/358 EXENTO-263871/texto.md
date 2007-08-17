@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 358, de fecha 29 de junio del 2007, se expropiaron los lotes de terreno Nºs. 95-B y 95-D, superficies 89 y 118 m², Rol Nº 260-44, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca Km. 13,14000 a Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietario Miguel Leoncio Barraza Barraza, ascendente a la cantidad de $529.982, para los lotes Nºs. 95-B y 95-C.
+
+- Fiscal del Ministerio de Obras Públicas.
