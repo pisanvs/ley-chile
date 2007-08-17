@@ -1,0 +1,5 @@
+Por decreto MOP Nº 450, de 27 de junio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 8 y 17, para la ejecución del Proyecto: Mejoramiento Ruta 7 Longitudinal Austral, Sector Pozos de Empréstitos-El Amarillo, Tramo Km. 13,000 a Km.
+
+26,700, que figuran a nombre de Mayorga Mayorga José Alfonso y Millapinda López Ramón, Roles de avalúo: 204-45 y 204-52, comuna de Chaitén, superficies 23.820 M² y 9.867 M². La Comisión de Peritos, fijó con fecha 30 de septiembre de 2004, en las cantidades de $7.454.000, para el lote Nº 8 y $3.483.400, para el lote Nº 17. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
