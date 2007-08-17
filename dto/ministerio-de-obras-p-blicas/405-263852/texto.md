@@ -1,0 +1,5 @@
+Por decreto MOP Nº 405, de 13 de junio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 11-B y 25, para la ejecución del Proyecto: Reposición Ruta E-30-F, sector Zapallar-La Laguna, Km.
+
+22,80733 a Km. 36,23097, que figuran a nombre de Municipalidad de Zapallar y Altamirano Celis Carlos y Otras, Roles de avalúo: 3-03 y 50-296, comuna de Zapallar, superficies 71,91 M² y 154,92 M². La Comisión de Peritos, fijó con fecha 25 de agosto de 2006, en las cantidades de $3.269.310, para el lote Nº11-B y $9.890.000, para el lote Nº25. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
