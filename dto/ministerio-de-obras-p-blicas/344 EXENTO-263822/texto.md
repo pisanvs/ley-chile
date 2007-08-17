@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 344, de 29 de junio de 2007, se expropiaron los lotes de terrenos Nºs. 49 y 50, superficies 1.677 y 370 m², rol de Avalúo 171-25, comuna de Curarrehue, para la obra "Mejoramiento Ruta 199 - CH, Curarrehue - Paso Mamuil Malal, Sector Curarrehue - Puesco. Km. 116,88000 a Km. 136,76000, Tramo II Km. 124,38000 a Km. 130,34000", IX Región y se acordó el valor de la indemnización con su propietario, ascendente a la cantidad de $1.917.980.
+
+- Fiscal del Ministerio de Obras Públicas.
