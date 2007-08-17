@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 360, de fecha 29 de junio del 2007, se expropió el lote de terreno Nº 65, superficie 846 m², Rol Nº 543-53, comuna de Saavedra, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo II Km. 7,34893 al Km. 16,04700, provincia de Cautín, comunas de Carahue y Saavedra, IX Región" y se acordó el valor de indemnización con su propietaria Julia Billiard Bustos, ascendente a la cantidad de $526.261.- para el lote Nº 65.
+
+- Fiscal del Ministerio de Obras Públicas.
