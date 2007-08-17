@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 378, de 19 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 100 A para la obra: Camino Ruta J-55 Guaico 3-P. Vergara, Sector Guaico 3-La Unión, Tramo km.
+
+0,00000 a km. 7,60000, que figura a nombre de Garrido Orellana Pedro, rol de avalúo 59-27, de la Comuna de Romeral, VII Región, superficie 596 m². La Comisión de Peritos con fecha 15 de octubre de 2002, fijó el monto de la indemnización provisional en la cantidad de $860.840.- para el lote Nº 100 A complementada por Acta de fecha 23 de junio de 2003. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
