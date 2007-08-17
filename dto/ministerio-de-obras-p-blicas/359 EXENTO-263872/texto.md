@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 359, de fecha 29 de junio del 2007, se expropiaron los lotes de terreno Nºs. 5 y 5-A, superficies 446 y 110 m², Rol Nº 293-3, comuna de Frutillar, X Región para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur, tramo Temuco-Río Bueno-Puerto Montt, camino La Vega (Sector La Huacha Norte), Comuna de Frutillar, Provincia de Llanquihue, X Región" y se acordó el valor de indemnización con su propietario Moisés Aguila González, ascendente a la cantidad de $553.356, para los lotes Nºs. 5 y 5-A.
+
+- Fiscal del Ministerio de Obras Públicas.
