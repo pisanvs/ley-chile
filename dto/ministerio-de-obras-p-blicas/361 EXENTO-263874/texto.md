@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 361, de fecha 29 de junio del 2007, se expropiaron los lotes de terreno Nºs. 21 y 22, superficies 524,00 y 72,00 m², Rol Nº 2219-366, comuna de San Juan de la Costa, X Región para la obra "Reposición Puentes: Sin Nombre, Purrehuin, Cunamo, Purralhue y Negro, Camino Trinidad Puaucho, Ruta U-30, Km. 0.000 al Km. 29.060, y se acordó el valor de indemnización con su propietario Dionisio Segundo Cancino Hernández, ascendente a la cantidad de $3.174.125.- para los lotes Nºs. 21 y 22.
+
+- Fiscal del Ministerio de Obras Públicas.
