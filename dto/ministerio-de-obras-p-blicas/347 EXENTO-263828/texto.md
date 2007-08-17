@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 347, de fecha 29 de junio del 2007, se expropiaron los lotes de terreno Nºs. 9 y 10, superficie 28 y 1.219 m² respectivamente, Rol Nº 145-40, comuna de Cochamó, X Región para la obra "Construcción Puentes Cuarteles 1, Sin Nombre, Cascajal 1 y Cascajal 3, Ruta V-69, Cochamó - Puelo, provincia de Llanquihue, X Región.", y se acordó el valor de indemnización con su propietaria María Cruz del Pilar Morales Sánchez, ascendente a la cantidad de $617.578.
+
+- Fiscal del Ministerio de Obras Públicas.
