@@ -1,0 +1,3 @@
+Por decreto exento Nº 365, de 29 de junio de 2007, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento Nº656, de 29 de septiembre de 2006, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº 47, expropiado a Ana Luisa González Quiroz, con motivo de la obra Mejoramiento Ruta D-825, Limahuida-Almendrillo, sector Tahuinco-Salamanca Km. 13,14000 a Km. 23,49783, II Etapa. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 14 de noviembre de 2005, ascendente a la cantidad de $1.354.502.
+
+- Fiscal del Ministerio de Obras Públicas.
