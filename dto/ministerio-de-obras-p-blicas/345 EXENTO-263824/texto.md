@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 345, de fecha 29 de junio del 2007, se expropió el lote de terreno Nº1, superficie 2.363,9 m², Rol Nº 383-3, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Obra Canal California" y se acordó el valor de indemnización con su propietario Ricardo Brun Frey, ascendente a la cantidad de $1.620.180.
+
+- Fiscal del Ministerio de Obras Públicas.
