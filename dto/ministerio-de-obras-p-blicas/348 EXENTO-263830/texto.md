@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº348 de fecha 29 de junio del 2007, se expropiaron los lotes de terreno Nºs. 102 y 127, superficies 1.354,47 y 126,93 m² respectivamente, Rol Nº 554-625 y 554-626 respectivamente, comuna de Linares, VII Región para la obra: "Camino Conservación L-45, Sector Escuela Llepo - Puente Los Hualles, Tramo Km. 13,14700 al Km. 36,446", y se acordó el valor de indemnización con su propietario Oscar Antonio Guzmán Rosales, ascendente a la cantidad de $3.452.173.
+
+- Fiscal del Ministerio de Obras Públicas.
