@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 364, de fecha 29 de junio del 2007, se expropió el lote de terreno Nº 12, superficie 356,00 m², Rol Nº 3300-201, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, Tramo Km. 7, Sector Quillaipe-La Arena, Tramo Km. 15,84700 al Km. 40,41746" y se acordó el valor de indemnización con su propietario Gonzalo Alejandro Valencia Astroza, ascendente a la cantidad de $835.011, para el lote N 12.
+
+Fiscal del Ministerio de Obras Públicas.
