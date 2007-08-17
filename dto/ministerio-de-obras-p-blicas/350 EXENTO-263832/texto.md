@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 350, de fecha 29 de junio del 2007, se expropió el lote de terreno Nº5, superficie 924,9 m², Rol Nº 381-72, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Obra Canal California" y se acordó el valor de indemnización con su propietario Luis Eusebio Muñoz Bravo, ascendente a la cantidad de $608.160.
+
+-. Fiscal del Ministerio de Obras Públicas.
