@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 379, de 19 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 26 y 42, para la obra:
+
+"Mejoramiento Pasadas Urbanas Villarrica - Pucón, Variante Camino Internacional", que figuran a nombre de Cifuentes Osses Segundo y Pardo Suazo José Segundo, roles de avalúo Nºs. 95-17 y 78-2, Comuna de Pucón, IX Región, superficies 17 m² y 12 m². La Comisión de Peritos, fijó los montos provisionales de las indemnizaciones el 6 de febrero de 2006, complementada por acta de 25 de abril de 2007, en lo que dice relación con el lote Nº 42, en la cantidad de $1.036.500.- para el lote Nº 26 y $1.453.000.- para el lote Nº42. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
