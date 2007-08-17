@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 384, de 19 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nº 27-A, 27-B, 28-A, para la obra: Camino Ruta I-512 Sector La Capilla-Lo Valdivia-Boyeruca, Tramo: km. 0,0000 a km. 7,00499, que figuran a nombre de Azúa Valenzuela Silverio, Maldonado Castillo América, roles de avalúo 35-32, 35-35, Comuna de Paredones, VI Región, superficies 20, 160 y 102 m², respectivamente. La Comisión de Peritos fijó con fecha 31 de agosto de 2006 el monto de la indemnización provisional en la cantidad de $56.300.- lote Nº 27-A;
+
+$98.400.- para el lote Nº27-B y $67.830.- para el lote Nº28-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
