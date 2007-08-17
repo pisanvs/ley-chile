@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 343, de 29 de junio de 2007, se expropió el lote de terreno Nº 33-B, superficie 397 m², rol de Avalúo 2202-71, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, Tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietario Juan Celestino Giovannini Mansilla, ascendente a la cantidad de $880.638.
+
+- Fiscal del Ministerio de Obras Públicas.
