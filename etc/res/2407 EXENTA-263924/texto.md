@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.407, de 10 de agosto de 2007, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 284 de 2001, de esta Subsecretaría, sólo en cuanto autorizó a DAVID CRUZ LOPEZ para realizar actividades pesqueras extractivas con la nave "Marleen", en el área marítima de la XII Región, sobre los recursos Pez espada, Atún aleta larga, Atún ojos grandes y Atún aleta amarilla, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 10 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
