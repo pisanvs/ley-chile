@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.317, de 2 de agosto de 2007, de esta Subsecretaría, autorízase a FOODCORP CHILE S.A., para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Pedro Aguirre Cerda Nº 995, Lo Rojas, Coronel, VIII Región, en la línea de proceso de Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 2 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
