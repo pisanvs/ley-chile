@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.246, de 27 de julio de 2007, de esta Subsecretaría, autorízase a SEA GARDEN S.A., para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en parcela Nº 26, La Laja, Puerto Varas, X Región, donde podrá elaborar en las líneas de proceso de cocido, fresco-enfriado, fresco-refrigerado, congelado, seco salado, ahumado y conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de julio de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
