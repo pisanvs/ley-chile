@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.300, de 31 de julio de 2007, de esta Subsecretaría, autorízase a MARCELO ERNESTO MANSILLA MENDOZA para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Eleuterio Ramírez Nº 940, Puerto Montt, X Región, en las líneas de proceso de Congelado, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 31 de julio de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
