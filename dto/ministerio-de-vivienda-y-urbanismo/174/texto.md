@@ -8,15 +8,27 @@ Decreto:
 
 Apruébase el siguiente reglamento:
 
-CAPÍTULO PRIMERO: DEL PROGRAMA FONDO SOLIDARIO DE VIVIENDA I
+CAPÍTULO PRELIMINAR
 
-## Título I — DEFINICIONES
+## Título I — DE LOS SUBSIDIOS
 
-#### Artículo 1º
+#### Artículo 1°
+
+El programa regulado por el presente reglamento está destinado a dar una solución habitacional preferentemente a las familias del primer quintil de vulnerabilidad. Tratándose del Programa Fondo Solidario de Vivienda II, regulado por el Capítulo Segundo, y de Proyectos de Construcción Colectiva en Zonas Rurales, estará destinado preferentemente a la atención de familias del primer y segundo quintil de vulnerabilidad.
+
+El MINVU, directamente o a través del SERVIU, otorgará mediante este sistema de atención, un subsidio destinado a financiar la adquisición o construcción de una vivienda, cuya tasación no exceda de 650 Unidades de Fomento, de acuerdo a la metodología de cálculo que se señala en la letra d) del inciso primero del artículo 32 del presente reglamento.
+
+Mediante resoluciones del Ministro de Vivienda y Urbanismo, se podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este reglamento.
+
+## Título II — DEFINICIONES
+
+#### Artículo 2º
 
 Para los efectos de este reglamento se entenderá por:
 
 Aportes Adicionales: recursos provenientes de fuentes públicas o privadas que tienen por objeto complementar el financiamiento del proyecto.
+
+Asistencia Técnica y Social: prestación de servicios que comprende la organización de la demanda, la elaboración del proyecto habitacional, plan de habilitación social y la gestión para la ejecución de las obras.
 
 Banco de Proyectos, en adelante Banco: sistema de información para preparar y recibir los proyectos a que se refiere el presente reglamento.
 
@@ -32,8 +44,6 @@ Familia: conjunto de personas identificadas en una misma Ficha CAS o en el instr
 
 Fondo de Iniciativas: recursos de carácter opcional, adicionales al subsidio, destinados a complementar el financiamiento de obras de mejoramiento del entorno urbano y/o de equipamiento comunitario.
 
-Fondo Solidario de Vivienda I o FSV I : el programa que regula el presente Capítulo, destinado a prestar atención habitacional a familias que viven en condiciones de pobreza o indigencia de acuerdo al Instrumento de Caracterización Socioeconómica, en el cual el Ministerio de Vivienda y Urbanismo participará otorgando subsidios habitacionales para su financiamiento y en el caso de proyectos de construcción efectuando la Inspección Técnica de Obras o contratándola por su cuenta y cargo.
-
 Jurado Regional: órgano a cuyo cargo estará la calificación de las prioridades preestablecidas regionalmente, presidido por el Intendente Regional, e integrado además por el SEREMI de Vivienda y Urbanismo, el Director de SERVIU, el SEREMI de Planificación, un representante del Capítulo Regional de la Asociación Chilena de Municipalidades y un Consejero Regional.
 
 Instrumento de Caracterización Socioeconómica: la Ficha CAS o el instrumento que la reemplace.
@@ -48,13 +58,17 @@ Postulación colectiva: aquélla que se realiza en forma grupal, con proyecto ha
 
 Postulación individual: aquélla que realiza un interesado a través de una EGIS, a la cual le otorga mandato para la adquisición de una vivienda construida.
 
-Postulante: persona inscrita en el Registro y en el caso de postulación colectiva, además integrante del grupo adscrito a un proyecto habitacional.
+Postulante: persona integrante de un grupo adscrito a un proyecto habitacional, y tratándose de postulación individual, persona que hubiere suscrito la respectiva escritura de promesa de compraventa.
 
 Postulante hábil: aquél que cumple con los requisitos y condiciones exigidos para acceder al programa al que opte conforme este reglamento.
 
-Proyecto Habitacional: conjunto de antecedentes técnicos, económicos y legales del proyecto a desarrollar que considera, además de las viviendas a construir o adquirir, el equipamiento comunitario y espacios públicos asociados a las mismas, si corresponde. Este puede consistir en un proyecto propio de arquitectura y urbanización, o formar parte de uno mayor, a los que se acompaña la información y los antecedentes relativos a cada uno de los postulantes y sus familias, debiendo incluir un proyecto de asistencia técnica y un Plan de Habilitación Social.
+Programa Fondo Solidario de Vivienda I o FSV I: el programa que regula el Capítulo Primero, destinado a prestar atención habitacional a familias que viven en condiciones de pobreza o indigencia de acuerdo al Instrumento de Caracterización Socioeconómica, en el cual el Ministerio de Vivienda y Urbanismo participará otorgando subsidios habitacionales para su financiamiento y en el caso de proyectos de construcción efectuando la Inspección Técnica de Obras o contratándola por su cuenta y cargo.
 
-Registro: el regulado por el D.S. N°62, (V. y U.), de 1984.
+Programa Fondo Solidario de Vivienda II o FSV II: el programa que regula el Capítulo Segundo del presente reglamento, destinado preferentemente a la atención habitacional de familias comprendidas dentro del 40% de los hogares con mayor vulnerabilidad.
+
+Proyecto de Integración Social: proyecto habitacional de construcción simultánea con un máximo de 150 viviendas, que incluye un mínimo de 30% de viviendas destinadas al Programa Fondo Solidario de Vivienda y además un mínimo de 30% de viviendas destinadas al Sistema de Subsidio Habitacional regulado por el D.S N° 40 (V. y U.), de 2004.
+
+Proyecto Habitacional: conjunto de antecedentes técnicos, económicos, legales y de las familias para las cuales se desarrolla el proyecto, que considera las viviendas a construir, el equipamiento comunitario y espacios públicos asociados a las mismas, si corresponde. Este puede formar parte de un proyecto mayor.
 
 Proyecto Postulante: proyecto habitacional ingresado al Banco de Proyectos y calificado como Definitivo o Condicionado por la Comisión Técnica Evaluadora.
 
@@ -62,63 +76,63 @@ SEREMI: la Secretaría Regional Ministerial de Vivienda y Urbanismo o el Secreta
 
 SERVIU: el Servicio de Vivienda y Urbanización respectivo.
 
-Subsidio Habitacional o Subsidio: ayuda estatal directa, que se otorga por una sola vez al beneficiario, sin cargo de restitución por parte de éste, y que constituye un complemento del ahorro que necesariamente deberá tener el beneficiario, destinado a proporcionar una solución habitacional a familias que viven en condiciones de pobreza e indigencia.
+Subsidio Habitacional o Subsidio: ayuda estatal directa, que se otorga por una sola vez al beneficiario sin cargo de restitución por parte de éste y que constituye un complemento del ahorro que necesariamente deberá tener el beneficiario, destinado a proporcionar una solución habitacional a familias que viven en condiciones de vulnerabilidad.
 
 Subsidio para Equipamiento: recursos adicionales al Subsidio, destinados a financiar obras de equipamiento y/o mejoramiento del entorno urbano.
 
-Vivienda Construida: vivienda nueva o usada, cuya recepción definitiva, acreditada mediante certificado de la Dirección de Obras Municipales correspondiente, se haya efectuado con no menos de dos años de anterioridad a la fecha de su ingreso al Banco de Proyectos, sea vivienda social o aquélla que cumpla con los requisitos para ser calificada como tal.
+Vivienda Construida: vivienda que cuenta con recepción definitiva, acreditada mediante certificado de la Dirección de Obras Municipales correspondiente.
 
-## Título II — DE LOS SUBSIDIOS
-
-#### Artículo 2º
-
-El MINVU, directamente o a través del SERVIU, otorgará mediante el sistema regulado por el presente reglamento, un subsidio destinado a financiar la adquisición o construcción de una vivienda social para proporcionar una solución habitacional a familias que viven en condiciones de pobreza e indigencia.
-
-Mediante resoluciones del Ministro de Vivienda y Urbanismo, publicadas en el Diario Oficial, se señalarán las condiciones, datos, menciones, operaciones o actos que incidan en la aplicación práctica de este reglamento.
+Vivienda Existente: Vivienda cuya recepción definitiva por la Dirección de Obras Municipales correspondiente se haya efectuado con dos o más años de anterioridad a la fecha de su ingreso al Banco de Proyectos.
 
 #### Artículo 3°
 
-El monto máximo del subsidio podrá alcanzar hasta el equivalente a la cantidad que para cada caso se señala en la tabla siguiente, expresada en unidades de fomento, según la comuna de emplazamiento del respectivo proyecto habitacional y su modalidad:
+El monto del subsidio en los Programas regulados por los Capítulos Primero y Segundo, respectivamente, de este reglamento, se señala en las tablas siguientes, expresado en Unidades de Fomento, según la comuna o localidad de emplazamiento del respectivo proyecto habitacional y su modalidad:
 
-VER DIARIO OFICIAL DE 22.11.2006, PÁGINA 3.
+VER DIARIO OFICIAL DE 18.08.2007, PÁGINAS 5, 6 y 7.
 
-Respecto de los Proyectos de Construcción, para la aplicación de estos montos de subsidio se exigirá que la superficie mínima de las viviendas cumpla con el Cuadro Normativo descrito en el artículo 19.
+Respecto de los Proyectos de Construcción, para la aplicación de estos montos de subsidio se exigirá que la superficie mínima de las viviendas cumpla con el Cuadro Normativo inserto en el artículo 19.
 
-Tratándose de Proyectos de Adquisición de Viviendas Construidas, se exigirá un Programa arquitectónico que cuente a lo menos con 3 recintos: un dormitorio, una sala de estar-comedor-cocina y un baño con inodoro, lavamano y ducha. El monto de subsidio señalado en la tabla anterior se adicionará con 4 Unidades de Fomento por cada metro cuadrado de superficie que exceda los 37,5 m2, hasta un máximo de 50 Unidades de Fomento. En todo caso el subsidio no podrá ser superior a la diferencia que resulte entre el precio de venta de la vivienda y el ahorro.
+Tratándose de postulaciones para Adquisición de Viviendas Existentes, se exigirá un Programa Arquitectónico que cuente a lo menos con 3 recintos: un dormitorio, una sala de estar-comedor-cocina y un baño con inodoro, lavamano y ducha. Para postulaciones de Adquisición de Viviendas Construidas se exigirá cumplir con el Cuadro Normativo inserto en el artículo 19, exceptuando las postulaciones para el Fondo Solidario de Vivienda II, en cuyo caso se exigirá cumplir con lo señalado para la Adquisición de Viviendas Existentes. Excepcionalmente, tratándose de postulaciones para el Fondo Solidario de Vivienda I, y sólo para el caso de Proyectos de Adquisición de Viviendas, el monto de subsidio señalado en la tabla anterior se adicionará con 2 Unidades de Fomento por cada medio metro cuadrado de superficie que exceda los 37,5 m2, hasta un máximo de 50 Unidades de Fomento. En todo caso el monto total del subsidio no podrá ser superior a la diferencia que resulte entre el precio de venta de la vivienda y el ahorro.
 
-En cada programa anual, el Ministerio de Vivienda y Urbanismo podrá destinar hasta el 30% de los recursos dispuestos para cada año, a proyectos que se desarrollen en comunas incluidas en Planes Reguladores Intercomunales o Metropolitanos, en cuyo caso el monto máximo de subsidio señalado en la tabla anterior podrá alcanzar en el caso de Proyectos de Construcción hasta el equivalente a 370 Unidades de Fomento, y para Proyectos de Adquisición de Viviendas Construidas, hasta 320 Unidades de Fomento.
+Adicionalmente para los Proyectos de Construcción, se dispondrá de la cantidad de 5 Unidades de Fomento para el financiamiento del subsidio señalado en la letra c) del artículo 17 y de la cantidad de 7 Unidades de Fomento para el financiamiento del Fondo indicado en la letra d) del artículo 17, cuando corresponda. Para los Proyectos de Construcción Colectiva en Zonas Rurales, se podrá otorgar adicionalmente un subsidio de hasta 20 Unidades de Fomento por familia en el caso que el proyecto incluya la ejecución de planta de tratamiento de aguas.
 
-Adicionalmente, se dispondrá de la cantidad de 5 Unidades de Fomento para el financiamiento del subsidio señalado en la letra c) del artículo 17 y de la cantidad de 7 Unidades de Fomento para el financiamiento del Fondo indicado en la letra d) del artículo 17, cuando corresponda.
+Estos subsidios serán complementados con aquellos destinados al pago de la EGIS, según los montos que se señalan en la resolución Nº 533 (V. y U.), de 1997.
 
-Estos subsidios serán complementados con aquéllos destinados al pago de la EGIS, según los montos que se señalan en la Resolución Nº 533, (V. y U.), de 1997.
+Mediante resoluciones del Ministro de Vivienda y Urbanismo, visadas por el Ministerio de Hacienda, se fijará anualmente la cantidad de recursos que se destinarán a financiar los subsidios de este programa, en las que podrán establecerse, además, montos máximos de subsidio inferiores a los fijados en la tabla anterior, para determinadas regiones, provincias o comunas del país.
 
-Mediante resoluciones del Ministro de Vivienda y Urbanismo, visadas por el Ministerio de Hacienda, se fijará anualmente la cantidad de recursos que se destinarán a financiar los subsidios de este programa, en las que podrán establecerse, además, montos máximos de subsidio inferiores a los fijados en la tabla anterior, para determinadas regiones, provincias o comunas del país. De la cantidad de recursos dispuesta a nivel nacional, podrá reservarse hasta un 10% para la atención de personas que vivan en condiciones de extrema marginalidad habitacional, ya sea en campamentos, conventillos, cités, operaciones sitio o en otras situaciones especiales de urgente necesidad habitacional, debidamente calificadas por el Ministro de Vivienda y Urbanismo. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones del Ministro de Vivienda y Urbanismo.
+De la cantidad de recursos dispuesta a nivel nacional, podrá reservarse hasta un 30% para la atención de personas que vivan en condiciones de extrema marginalidad habitacional, ya sea en campamentos, conventillos, cités, operaciones sitio o en otras situaciones especiales de urgente necesidad habitacional, debidamente calificadas por el Ministro de Vivienda y Urbanismo. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones del Ministro de Vivienda y Urbanismo. En estas resoluciones podrá eximirse a los beneficiarios del cumplimiento de uno o más de los requisitos establecidos en los Títulos III, IV y V del presente reglamento. En estos casos, el SERVIU podrá disponer de recursos adicionales para atender los gastos que pudiere irrogar su traslado o erradicación a fin de emplazar el proyecto en los terrenos que ocupan, lo cual se aplicará asimismo cuando el SERVIU actúe como EGIS.
 
-En caso que el beneficiario o uno o más integrantes del grupo familiar acreditado por éste estuviere inscrito en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en la tabla precedente y en el inciso cuarto de este artículo, se adicionarán hasta 20 Unidades de Fomento, siempre que al momento del pago del subsidio, se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante. Las obras adicionales que financiará este mayor monto de subsidio, deberán estar consideradas en el proyecto ingresado al Banco de Proyectos, cuando corresponda.
+En caso que el beneficiario o uno o más integrantes del grupo familiar estuviere afectado por discapacidad acreditada mediante certificado expedido por la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN), de conformidad al artículo 7° de la Ley N°19.284, Ley de Integración Social de las Personas con Discapacidad, los montos de subsidio indicados en la tabla precedente se adicionarán hasta con 20 Unidades de Fomento, siempre que al momento del pago del subsidio se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante. Las obras adicionales que financiará este mayor monto de subsidio deberán estar consideradas en el proyecto habitacional.
+
+CAPÍTULO PRIMERO:
+
+DEL PROGRAMA FONDO SOLIDARIO DE VIVIENDA I
 
 ## Título III — DE LOS POSTULANTES
 
 #### Artículo 4°
 
-Los postulantes deberán estar inscritos en el Registro. Por cada familia sólo se aceptará la postulación de uno de sus integrantes, que será el titular de la inscripción en el Registro, quien sólo puede tener en la correspondiente ficha CAS, la calidad de jefe de familia, su cónyuge o su conviviente.
+Podrá postular más de un núcleo familiar perteneciente a un mismo hogar, con la misma Ficha CAS o instrumento que la reemplace. Por cada núcleo familiar sólo se aceptará la postulación de uno de sus integrantes, el que deberá identificarse como jefe de familia, su cónyuge o conviviente.
 
-Los postulantes deberán formar parte de un grupo organizado, con personalidad jurídica, excepto aquellos que postulen a proyectos de adquisición de vivienda, para los cuales no se exigirá este requisito. El grupo deberá estar integrado a lo menos por 10 familias, con un máximo de 300. No obstante, en proyectos de rehabilitación de inmuebles, se podrán presentar grupos integrados por menos de 10 familias, siempre que su número coincida con las viviendas que se obtendrán con la ejecución del proyecto.
+Los postulantes deberán formar parte de un grupo organizado, con personalidad jurídica, excepto aquellos que postulen a proyectos de adquisición de vivienda existente o construida, para los cuales no se exigirá este requisito. El grupo deberá estar integrado a lo menos por 10 familias, con un máximo de 300.
 
-Cada familia del grupo deberá tener Ficha CAS vigente a la fecha en que el SERVIU emita el Certificado de Proyecto Ingresado en el Banco.
+Excepcionalmente, en casos calificados, el SEREMI de Vivienda y Urbanismo respectivo podrá autorizar Proyectos para un número menor a 10 familias. Tratándose de proyectos de alteración y reparación de inmuebles, se podrán presentar grupos integrados por menos de 10 familias, siempre que su número coincida con las viviendas que se obtendrán con la ejecución del proyecto.
+
+Cada familia del grupo deberá tener Ficha CAS o el instrumento que la reemplace, al momento en que el SERVIU emita el Certificado de Proyecto Ingresado en el Banco.
 
 Tratándose de indígenas, para acreditar tal calidad se estará a las disposiciones de la Ley Nº19.253, sobre Protección, Fomento y Desarrollo de los Indígenas.
 
-El puntaje CAS del grupo, de conformidad con la Ficha CAS de sus integrantes, deberá ser igual o inferior al puntaje de corte nacional o regional, según se determine mediante resoluciones del MINVU.
+El puntaje CAS, o del instrumento que la reemplace, del grupo, deberá ser igual o inferior al puntaje de corte establecido mediante resoluciones del Ministro de Vivienda y Urbanismo.
 
-Para los efectos del cálculo del puntaje CAS del grupo, éste se determinará como un promedio, sumando el puntaje CAS de todas las familias del respectivo grupo y dividiendo el resultado por el número de familias. El puntaje individual de cada uno de los integrantes del grupo no podrá exceder en más de 25 puntos el puntaje límite establecido. El puntaje de corte será el equivalente a la línea de pobreza, nacional o regional, que resulte de la homologación vigente de la Ficha CAS y la Encuesta CASEN, efectuada por el Ministerio de Planificación Nacional.
+Para los efectos del cálculo del puntaje CAS, o del instrumento que la reemplace, del grupo, éste se determinará como un promedio, sumando el puntaje de todas las familias del respectivo grupo y dividiendo el resultado por el número de familias. El puntaje individual de cada uno de los integrantes del grupo no podrá exceder en más de un 5% el puntaje de corte establecido en el inciso anterior.
 
-Los proyectos de adquisición de Viviendas Construidas no participarán en los llamados a concurso, ni en los procesos de postulación y selección de los Proyectos de Construcción, efectuándose su selección en la forma dispuesta en el Título XV de este reglamento.
+Las postulaciones de Adquisición de Viviendas Existentes no participarán en los llamados a concurso, ni en los procesos de postulación y selección de los Proyectos de Construcción, efectuándose su selección en la forma dispuesta en el Título XV de este reglamento.
 
 ## Título IV — DEL AHORRO
 
 #### Artículo 5°
 
-Cada postulante deberá acreditar un ahorro mínimo de 10 Unidades de Fomento, enterado al último día del mes anterior al de la fecha del ingreso del proyecto al Banco.
+Cada postulante deberá acreditar el monto de ahorro declarado en el formulario de ingreso del proyecto al Banco, enterado al último día del mes anterior al de la fecha de dicho ingreso, el cual no podrá ser inferior a 10 Unidades de Fomento.
 
 Si el proyecto contempla recursos del Fondo de Iniciativas, cada postulante deberá acreditar en la misma oportunidad, un ahorro adicional de 0,5 Unidad de Fomento.
 
@@ -140,7 +154,7 @@ Para los efectos del presente reglamento todos los instrumentos señalados prece
 
 La certificación que acredite el ahorro, emitida por la entidad captadora, deberá ser extendida con la información referida al último día del mes anterior al de la fecha de ingreso del proyecto al Banco, en formato proporcionado por el MINVU.
 
-Una vez que la entidad captadora extienda la certificación señalada, la facultad de girar los ahorros quedará suspendida. No quedarán incluidos en esta suspensión los giros destinados a:
+Una vez que la entidad captadora extienda la certificación señalada, la facultad de girar los ahorros quedará suspendida y le corresponderá a la EGIS verificar que esta condición sea cumplida. No quedarán incluidos en esta suspensión los giros destinados a:
 
 1.- El pago del precio de la vivienda, el que se efectuará al momento de ser pagado el subsidio.
 
@@ -154,11 +168,11 @@ Una vez que la entidad captadora extienda la certificación señalada, la facult
 
 No podrán postular a este subsidio las personas que se encuentren en alguna de las siguientes situaciones:
 
-1. Si el postulante, su cónyuge o conviviente, u otro miembro de la familia acreditado en la Ficha CAS con la cual postula, se encuentra postulando a éste o a otro programa habitacional.
+1. Si el postulante, su cónyuge o conviviente, u otro miembro del núcleo familiar identificado en la Ficha CAS o en el instrumento que la reemplace con la cual postula, se encuentra postulando a éste o a otro programa habitacional.
 
 2. El postulante que presente las características de familia unipersonal. Se exceptúan de esta limitante:
 
-a) Las personas con discapacidad que acrediten tal condición mediante inscripción en el Registro Nacional de la Discapacidad.
+a) Las personas con discapacidad que acrediten tal condición mediante certificado expedido por la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN) de conformidad al artículo 7° de la ley 19.284, Ley de Integración Social de las personas con discapacidad.
 
 b) Los adultos mayores de 60 años de edad, considerando para estos efectos a las personas que cumplan esa edad durante el año calendario en el curso del cual se hubiere ingresado el proyecto al Banco o a la fecha de prórroga de la vigencia del Certificado de Calificación.
 
@@ -166,7 +180,11 @@ c) Las personas que tengan la calidad de indígenas conforme a la Ley N°19.253.
 
 d) Las personas reconocidas como víctimas en el Informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por D.S. N° 1.040, de Interior, de 2004.
 
-En todo caso, los postulantes unipersonales no podrán superar, en conjunto, el 30% del total de integrantes del grupo.
+e) Las personas que postulen a Proyectos de Construcción Colectiva en Zonas Rurales.
+
+f) Las personas en condición de viudez, acreditada con certificado de defunción del cónyuge.
+
+En todo caso, tratándose de Proyectos de Construcción los postulantes unipersonales no podrán superar, en conjunto, el 30% del total de integrantes del grupo.
 
 3. Si el postulante o su cónyuge fuesen propietarios o asignatarios de una vivienda o de una infraestructura sanitaria, aún cuando la asignación provenga de una cooperativa; si hubiesen obtenido del SERVIU, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, una vivienda, o una infraestructura sanitaria, o un sitio, salvo que ese sitio sea parte del proyecto que se desarrollará; como tampoco si hubiesen adquirido o construido una vivienda con aplicación de un subsidio habitacional o de una subvención municipal, a través de cualesquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del SERVIU o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda. Todas estas prohibiciones regirán aunque la vivienda hubiere sido transferida. No regirán estas prohibiciones en los siguientes casos:
 
@@ -202,11 +220,11 @@ El Banco se encontrará permanentemente abierto para recibir proyectos, los que 
 
 #### Artículo 8°
 
-Los proyectos serán clasificados en el Banco con la nomenclatura que se señala a continuación, dependiendo del estado de avance en que se encuentren:
+Antes de su ingreso al Banco de Proyectos, mientras sus antecedentes están siendo registrados y revisados por la EGIS en el Sistema Computacional, se denominan "Proyectos en Preparación".
 
-En Preparación: Los ingresados al módulo Preparación de Proyectos del Banco, a través del sistema computacional, pero que aún no han obtenido un certificado de proyecto ingresado por parte del SERVIU.
+Una vez ingresados al Banco, los proyectos serán clasificados dependiendo del estado de avance en que se encuentren:
 
-Ingresados: Los que habiendo completado su etapa de preparación y entregado sus antecedentes completos y conformes, de acuerdo a lo exigido por este reglamento, han obtenido del SERVIU un Certificado de Proyecto Ingresado.
+Ingresados: Los que habiendo completado su etapa de preparación, habilitando totalmente a las familias y entregado los antecedentes completos y conformes del proyecto habitacional, de acuerdo a lo exigido por este reglamento, han obtenido del SERVIU un Certificado de Proyecto Ingresado.
 
 En Estudio: Los ingresados y en revisión por la Comisión Técnica Evaluadora del SERVIU.
 
@@ -214,17 +232,17 @@ Con Observaciones: Los ingresados a los cuales el SERVIU les ha formulado observ
 
 Eliminados: Los que habiendo sido evaluados por segunda vez por la Comisión Técnica Evaluadora, son rechazados por no cumplir los requisitos y exigencias contemplados en el presente reglamento.
 
-Con Precalificación Condicionada: Los ingresados que cumplen con los requisitos, pero se encuentra pendiente la entrega de algunos antecedentes.
+Con Calificación Condicionada: Los ingresados que cumplen con los requisitos, pero se encuentra pendiente la entrega de algunos antecedentes.
 
-Con Precalificación Definitiva: Los ingresados que cumplen con todos los requisitos, sin que exista a su respecto condiciones pendientes.
+Con Calificación Definitiva: Los ingresados que cumplen con todos los requisitos, sin que exista a su respecto condiciones pendientes.
 
 ### Párrafo 2° — . Módulo de Preparación de Proyectos
 
 #### Artículo 9°
 
-Este módulo permite que los proyectos puedan ser registrados en el Banco, aún cuando no tengan sus antecedentes completos. Para estos efectos, la EGIS deberá suscribir previamente un convenio con el SERVIU, en el que se dejará constancia de las condiciones para acceder al sistema y se fijarán las responsabilidades, obligaciones y sanciones que procedan. Si una misma EGIS patrocina proyectos en distintas regiones, deberá suscribir un convenio con cada SERVIU para operar en la región respectiva.
+Este módulo permite que los proyectos puedan ser registrados y revisados en el sistema computacional, aun cuando no tengan sus antecedentes completos. Para estos efectos, la EGIS deberá suscribir previamente el convenio señalado en el artículo 43, en el que se dejará constancia de las condiciones para acceder al sistema como usuario y se fijarán las responsabilidades, obligaciones y sanciones que procedan.
 
-La EGIS, a través del módulo preparación de proyectos, ingresará al sistema computacional la información del proyecto, de los postulantes y su grupo familiar. El SERVIU realizará los chequeos para determinar la habilidad de éstos de acuerdo a lo establecido por este reglamento, cotejando los datos con la información del Registro del D.S. N°62, (V. y U.), de 1984, del Registro de Beneficiarios del MINVU, del Registro Civil y de la Ficha CAS entregada por la Municipalidad al SERVIU.
+La EGIS, a través del módulo preparación de proyectos, ingresará al sistema computacional la información del proyecto, de los postulantes y su grupo familiar. La EGIS realizará los chequeos para determinar la habilidad de éstos de acuerdo a lo establecido por este reglamento, cotejando los datos proporcionados con la información del sistema computacional del Registro de Beneficiarios del MINVU, del Registro Civil y de la Ficha CAS o del instrumento que la reemplace entregada por la Municipalidad al SERVIU.
 
 Esta etapa finaliza con el ingreso al Banco de todos los antecedentes completos y conformes del proyecto.
 
@@ -246,17 +264,17 @@ El estudio de los antecedentes del proyecto estará a cargo de la Comisión Téc
 
 La Comisión Técnica Evaluadora será presidida por el Director del SERVIU o por quien éste designe y actuará como Secretario Técnico el Coordinador Regional del Programa. La Comisión estará integrada por los jefes de las siguientes unidades: de la SEREMI, de Planes y Programas y del SERVIU, de Operaciones Habitacionales, Técnica y Jurídica, quienes podrán delegar estas funciones mediante acto formal. El funcionamiento de la Comisión estará regulado por un reglamento aprobado por Resolución del Director del SERVIU, y sus actas serán públicas.
 
-En relación a su funcionamiento, esta Comisión deberá, antes de emitir el Certificado de Observaciones y el de Calificación, según corresponda, sesionar al menos en una oportunidad con la mayoría de sus integrantes, a fin de evaluar de forma global e integral los proyectos habitacionales.
+En relación a su funcionamiento, esta Comisión deberá, antes de emitir el Certificado de Observaciones o el de Calificación, según corresponda, sesionar al menos en una oportunidad con la mayoría de sus integrantes, a fin de evaluar de forma global e integral los proyectos habitacionales.
 
 #### Artículo 12
 
 A contar de la fecha de emisión del Certificado de Proyecto Ingresado, la Comisión Técnica Evaluadora dispondrá de un plazo máximo de 35 días corridos para verificar la existencia de los antecedentes que respalden la factibilidad técnica, económica, legal y social del proyecto. Si cumplido dicho plazo la Comisión Técnica Evaluadora no hubiese efectuado observaciones al proyecto presentado por la EGIS, éste se entenderá aprobado, debiéndose otorgar el correspondiente Certificado de Precalificación Definitivo.
 
-Las observaciones que se formulen al proyecto podrán referirse a los antecedentes presentados y/o a la suficiencia de éstos para asegurar su ejecución. La Comisión Técnica Evaluadora podrá solicitar información adicional a la EGIS para adoptar una decisión.
+Las observaciones que se formulen al proyecto podrán referirse a los antecedentes presentados y/o a la suficiencia de éstos para asegurar su ejecución.
 
 Las observaciones a los proyectos deberán formularse por escrito a la EGIS, en un solo acto, en documento suscrito por el Presidente de la Comisión Técnica Evaluadora. La EGIS deberá subsanar las observaciones y/o completar los antecedentes, también en un solo acto.
 
-Los proyectos podrán permanecer en el Banco "Con Observaciones" hasta por 180 días corridos contados desde la fecha de emisión del documento de observaciones. Pasado dicho plazo, la Comisión Técnica Evaluadora podrá disponer la eliminación del proyecto del Banco, lo que será informado por escrito a la EGIS, haciendo devolución de la totalidad de los antecedentes del proyecto.
+Los proyectos podrán permanecer en el Banco "Con Observaciones" hasta por 90 días corridos contados desde la fecha de emisión del documento de observaciones. Pasado dicho plazo, la Comisión Técnica Evaluadora podrá disponer la eliminación del proyecto del Banco, lo que será informado por escrito a la EGIS, haciendo devolución de la totalidad de los antecedentes del proyecto.
 
 A contar de la fecha en que la EGIS ingrese al SERVIU los antecedentes y documentos requeridos por la Comisión Técnica Evaluadora, ésta dispondrá como máximo de otros 14 días corridos para adoptar alguna de las siguientes medidas:
 
@@ -272,15 +290,11 @@ La información contenida en la base de datos y en el archivo físico del Banco,
 
 #### Artículo 13
 
-Si el proyecto habitacional cumple con todos los requisitos especificados en este reglamento y se hubieren presentado los documentos exigidos para el respectivo tipo de proyecto, se le otorgará un Certificado de Calificación Definitiva, el que tendrá una vigencia de 12 meses. Antes del vencimiento de dicho plazo, la EGIS deberá actualizar sólo los antecedentes señalados en el artículo 4º de este decreto que hubieren sufrido modificaciones y verificar que en estos 12 meses los integrantes no hubiesen incurrido en alguna de las prohibiciones señaladas en el artículo 6º de este reglamento. En base a esta presentación el SERVIU podrá otorgar prórroga de la vigencia del Certificado de Calificación Definitiva hasta por otros 12 meses. Si la Ficha CAS del grupo familiar de algún postulante se encuentra vencida al momento de la actualización de los antecedentes, deberá acreditarse su renovación, debiéndose cumplir, en todo caso, con los límites de puntaje CAS exigidos en este reglamento. Si al vencimiento del plazo de 12 meses el SERVIU no recibe antecedentes para prorrogar nuevamente su vigencia, el proyecto será eliminado del Banco.
+Si el proyecto habitacional cumple con todos los requisitos especificados en este reglamento y se hubieren presentado los documentos exigidos para el respectivo tipo de proyecto, se le otorgará un Certificado de Calificación Definitiva, el que tendrá una vigencia de 12 meses. Una vez cumplido este plazo, el proyecto deberá reingresar al SERVIU todos los antecedentes actualizados.
 
-Si el proyecto no cuenta con Permiso de Edificación, la EGIS deberá presentar un anteproyecto aprobado por la DOM. En tal caso, se le otorgará un Certificado de Calificación Condicionada. Sin embargo, para el ingreso del proyecto se deberán acompañar los antecedentes exigidos por la OGUC para la aprobación de permisos de urbanización y construcción, de tal forma que sólo quede pendiente el pago de los derechos correspondientes a la Municipalidad respectiva. Del mismo modo, si la EGIS no acredita la propiedad del terreno en alguno de los términos dispuestos en este reglamento, también se le otorgará un Certificado de Calificación Condicionada. Los Certificados de Calificación Condicionada tendrán una vigencia de 12 meses, contados desde la fecha de su emisión.
-
-Si los proyectos con Certificado de Calificación Condicionada no hubiesen sido seleccionados, deberán presentar los antecedentes faltantes dentro del plazo de 12 meses. Cumplido este plazo, si no se presentaren los antecedentes faltantes serán eliminados del Banco, lo que el SERVIU informará por escrito a la EGIS haciéndole devolución de todos los antecedentes.
+Si el proyecto no cuenta con Permiso de Edificación, la EGIS deberá presentar un anteproyecto aprobado por la Dirección de Obras Municipales. En tal caso, se le otorgará un Certificado de Calificación Condicionada. Sin embargo, para el ingreso del proyecto se deberán acompañar los antecedentes exigidos por la OGUC para la aprobación de permisos de urbanización y construcción, de tal forma que sólo quede pendiente el pago de los derechos correspondientes a la Municipalidad respectiva. Del mismo modo, si la EGIS no acredita la propiedad del terreno en alguno de los términos dispuestos en este reglamento, también se le otorgará un Certificado de Calificación Condicionada. Los proyectos con Certificados de Calificación Condicionada permitirán participar en los concursos y sus selecciones, pero quedarán en calidad de preseleccionados por lo que no se emitirá el Certificado de Subsidio, sino una vez solucionado su estado de condicionalidad.
 
 Si durante el período de Calificación Condicionada o Definitiva, la EGIS quisiera hacer modificaciones al proyecto, deberá retirarlo del Banco y presentarlo nuevamente para el estudio de la Comisión Técnica Evaluadora, con lo cual se entenderá que el proyecto pierde la antigüedad que pueda tener en el Banco. Lo anterior no se aplicará en caso de reemplazos de postulantes.
-
-Si los proyectos cuentan con Certificado de Calificación Definitiva, durante el plazo de 12 meses de vigencia de dicho certificado se entenderán cumplidos los requisitos para participar en un llamado a concurso y no se solicitarán antecedentes adicionales a los presentados para obtener la calificación.
 
 ### Párrafo 6° — . Clasificación y Tipologías de Proyectos
 
@@ -300,6 +314,8 @@ a) Proyectos de construcción:
 
 . Alteración o reparación de inmuebles, entendido en los términos señalados en el artículo 162 de la LGUC y siempre que del resultado de la alteración o reparación se generen a lo menos dos viviendas.
 
+. Construcción Colectiva en Zonas Rurales (CZR).
+
 b) Proyectos de Adquisición de Viviendas Construidas.
 
 ### Párrafo 7° — . Acreditación del Terreno
@@ -308,13 +324,13 @@ b) Proyectos de Adquisición de Viviendas Construidas.
 
 Deberá especificarse la ubicación del proyecto en un plano de emplazamiento.
 
-Si el proyecto requiere suelo para su ejecución, deberá contarse con sitio propio apto, el que podrá estar:
+En los Proyectos de Construcción se deberá acreditar, al momento de la postulación, que se cuenta con sitio propio apto. Se entenderá por sitio propio aquél que se encuentre inscrito en el Registro de Propiedad del Conservador de Bienes Raíces respectivo a nombre del grupo organizado como persona jurídica, o a nombre de cada uno de los integrantes del grupo, o de su cónyuge, o de ambos cónyuges en comunidad o de la comunidad integrada por el cónyuge sobreviviente y sus hijos menores. También se entenderá por sitio propio, salvo en el caso de Proyectos de Construcción Colectiva en Zonas Rurales, el inscrito a nombre de la EGIS, o a nombre de la empresa constructora con la cual se suscriba el contrato de construcción.
 
-. Totalmente pagado, o
+El sitio podrá estar:
 
-. Ser pagado con cargo al Presupuesto Financiado a que se refiere este reglamento.
+a) Totalmente pagado; o
 
-Se entenderá por sitio propio aquél que se encuentre inscrito en el Registro de Propiedad del Conservador de Bienes Raíces respectivo a nombre del grupo organizado como persona jurídica, o a nombre de la EGIS, o a nombre de la empresa constructora con la cual se suscriba el contrato de construcción conforme al artículo 25. También se entenderá por sitio propio el inscrito a nombre de cada uno de los integrantes del grupo, o de su cónyuge, o de ambos cónyuges en comunidad o de la comunidad integrada por el cónyuge sobreviviente y sus hijos menores.
+b) Ser pagado con cargo al Presupuesto Financiado a que se refiere este reglamento.
 
 El sitio deberá estar libre de todo gravamen, exceptuadas las servidumbres y sin prohibiciones ni embargos, salvo aquellas prohibiciones o gravámenes que pudieren extinguirse con ocasión de la aplicación del subsidio habitacional. Tratándose de proyectos de densificación predial, si el sitio estuviere gravado con hipoteca y/o prohibición a favor del SERVIU, éste podrá autorizar su alzamiento para el solo efecto de la subdivisión o la cesión de derechos correspondiente.
 
@@ -330,11 +346,11 @@ El derecho real de uso se acreditará con un certificado de la CONADI que acredi
 
 Los derechos en comunidades agrícolas señalados en el DFL Nº5 del Ministerio de Agricultura, deberán estar inscritos en el Conservador de Bienes Raíces.
 
-Previa autorización escrita del Subsecretario de Vivienda y Urbanismo, el SERVIU podrá enajenar a título oneroso terrenos propios a la EGIS o al grupo organizado, suscribiendo al efecto una promesa de compraventa en la cual deberá estipularse expresamente, como condición para la celebración del contrato de compraventa prometido, que el grupo postulante resulte seleccionado en un concurso, en cuyo caso podrá obtener Certificado de Calificación Definitiva.
+El SERVIU, conforme a las normas e instrucciones vigentes en la materia, podrá enajenar a título oneroso terrenos propios a la EGIS o al grupo organizado, suscribiendo al efecto una promesa de compraventa en la cual deberá estipularse expresamente, como condición para la celebración del contrato de compraventa prometido, que el grupo postulante resulte seleccionado en un concurso, en cuyo caso podrá obtener Certificado de Calificación Definitiva.
 
 Además, se podrá ingresar al Banco con promesa de compraventa de un terreno, suscrita conforme a los términos de la Promesa de Compraventa Tipo que proporcionará el SERVIU, en cuyo caso el proyecto podrá obtener un Certificado de Calificación Condicionada.
 
-También se podrán presentar proyectos a emplazarse en terrenos fiscales, acreditando la manifestación de voluntad del SEREMI de Bienes Nacionales, mediante el correspondiente acto administrativo, de vender ese terreno a la entidad solicitante, sea ésta la EGIS o el grupo organizado, siempre que éste resulte seleccionado, en cuyo caso el proyecto podrá obtener un Certificado de Calificación Condicionada.
+También se podrán presentar proyectos a emplazarse en terrenos fiscales, para lo cual deberá acompañarse documento emitido por el SEREMI de Bienes Nacionales respectivo en que conste la decisión de dicho Ministerio de vender ese terreno a la EGIS o a la empresa constructora con la cual se suscriba el contrato de construcción conforme al artículo 25, en cuyo caso el proyecto podrá obtener Certificado de Calificación Definitiva si cumple con los demás requisitos exigidos para ello, sin perjuicio del posterior acto administrativo del citado Ministerio, si procede.
 
 ### Párrafo 8° — . Financiamiento de los Proyectos
 
@@ -352,7 +368,7 @@ a) Subsidio Habitacional. Este subsidio no podrá exceder del monto máximo fija
 
 b) Ahorro. Se deberá contar con un mínimo de 10 UF por familia. Si se solicita subsidio adicional con cargo al Fondo de Iniciativas a que se refiere la letra d) de este artículo, se deberá acreditar un ahorro adicional de 0,5 Unidad de Fomento por cada familia, el que deberá estar enterado al momento del ingreso del proyecto al Banco.
 
-c) Subsidio para Equipamiento. Los proyectos de construcción dispondrán, adicionalmente al subsidio señalado en la letra a) precedente, de financiamiento para obras de equipamiento y/o mejoramiento del entorno urbano. En el caso de proyectos de construcción en nuevos terrenos, el financiamiento adicional se destinará a la ejecución de equipamiento y áreas verdes, en cumplimiento de lo establecido en la OGUC. El financiamiento adicional consistirá en 5 Unidades de Fomento por cada familia integrante del grupo que postule el proyecto habitacional, que serán financiadas con los recursos dispuestos al efecto por la Ley de Presupuestos.
+c) Subsidio para Equipamiento. Los proyectos de construcción en nuevos terrenos tendrán, adicionalmente al subsidio señalado en la letra a) precedente, financiamiento para la ejecución de equipamiento y áreas verdes, en cumplimiento de lo establecido en la OGUC. El financiamiento adicional consistirá en 5 Unidades de Fomento por cada familia integrante del grupo que postule el proyecto habitacional. Para Proyectos de Construcción Colectiva en Zonas Rurales, en Sitio del Residente y de Densificación Predial, se podrá optar a este financiamiento adicional para obras de mejoramiento urbano, justificando en el presupuesto su utilización.
 
 d) Fondo de Iniciativas. Para complementar el financiamiento de las obras de equipamiento y/o mejoramiento del entorno urbano mencionadas en la letra anterior, se podrá postular al Fondo de Iniciativas, con cargo al cual se otorgará hasta 7 Unidades de Fomento por cada familia integrante del grupo postulante. Para postular a esta fuente de financiamiento adicional cada familia deberá enterar el ahorro adicional señalado en la letra b) de este artículo.
 
@@ -376,251 +392,113 @@ En la sección del Presupuesto Financiado correspondiente al Proyecto de Asisten
 
 #### Artículo 19
 
-La vivienda inicial deberá cumplir con los estándares mínimos que señala el presente artículo y con las dimensiones y espacios de separación mínimos indicados en el Cuadro Normativo que se inserta a continuación, debiendo contemplar una ampliación proyectada que, al ser sumada a la superficie inicial, alcance una superficie total no inferior a 55 m2:
+La vivienda inicial deberá cumplir con el estándar mínimo que señala el presente artículo y con las dimensiones y espacios de separación mínimos indicados en el Cuadro Normativo que se inserta a continuación, debiendo contemplar una ampliación proyectada que, al ser sumada a la superficie inicial, alcance una superficie total no inferior a 55 m2. Los proyectos de Densificación Predial y de Construcción en Sitio del Residente cuya superficie inicial resultante de la aplicación del Cuadro Normativo no sea inferior a 45 m2, quedarán eximidas de presentar un proyecto de ampliación. En este último caso, el SEREMI podrá autorizar proyectos de estas modalidades con una superficie menor a la anteriormente señalada, la que no podrá ser inferior a la que resulte de la aplicación del Cuadro Normativo, siempre que la aplicación de las normas de edificación técnicas y urbanísticas, contenidas en la OGUC y en el Instrumento de Planificación Territorial correspondiente, impidan alcanzar la superficie de 45 m2 en función de las características del terreno.
+
+En el caso de construcción en altura acogida a la Ley N°19.537, de Copropiedad Inmobiliaria, en áreas que cumplan los requisitos para obtener el Subsidio Diferenciado a la Localización señalados en el Titulo XVI, podrán obtener hasta 90 Unidades de Fomento adicionales al subsidio, siempre que las unidades de vivienda tengan una superficie inicial construida no inferior a 55 m2, incluyendo un tercer dormitorio. La obtención de este beneficio inhabilitará para postular al Titulo III del programa regulado por el D.S N°255, de 2006, sobre Protección del Patrimonio Familiar.
 
 CUADRO NORMATIVO
 
-VER DIARIO OFICIAL DE 22.11.2006, PÁGINA 4.
+VER DIARIO OFICIAL DE 18.08.2007, PÁGINA 9.
 
-1 Mobiliario incluido en el cuadro tiene sólo carácter referencial.
+* Mobiliario incluido en el cuadro tiene sólo carácter referencial
 
-a) Programa Arquitectónico: La vivienda en su fase inicial deberá precisar una zona de estar - comedor - cocina, dos dormitorios proyectados como recintos conformados y un baño, considerando además áreas de circulación. Las áreas de circulación podrán superponerse a áreas de uso. Todos los recintos deberán contar con ventilación y luz natural.
+VER DIARIO OFICIAL DE 18.08.2007, PÁGINA 9.
+
+* Mobiliario incluido en el cuadro tiene sólo carácter referencial
+
+a) Programa Arquitectónico: La vivienda en su fase inicial deberá precisar una zona de estar - comedor - cocina, dos dormitorios proyectados como recintos conformados y un baño, considerando además áreas de circulación. Las áreas de circulación podrán superponerse a áreas de uso. Todos los recintos deberán contar con ventilación y a excepción del baño, todos deberán contar con luz natural.
 
 b) Proyecto de Ampliación de la Vivienda: Los proyectos de ampliación deberán contar con permisos de edificación y pagar los derechos municipales por este concepto, con el fin que la ampliación que se ejecute posteriormente se ajuste al proyecto aprobado. En proyectos en que la ampliación planificada implique adosamientos a un muro medianero común con el vecino, se deberá incorporar la ejecución de ese muro en la fase inicial de la vivienda, cumpliendo las normas vigentes.
 
 c) Materialidad Constructiva: El proyecto, según el tipo correspondiente, deberá cumplir con las especificaciones técnicas determinadas en el Itemizado Técnico de Construcción, aprobado por Resolución del MINVU.
 
-d) Si el equipamiento incluye una sala multiuso, se deberá presentar un proyecto completo con sus especificaciones y permiso de edificación correspondiente para la construcción. El cálculo de la superficie mínima de la sala multiuso resulta de la división por dos del número de viviendas del proyecto seleccionado. En todo caso, la superficie mínima de la sala multiuso no podrá ser inferior a 35 m². El programa arquitectónico debe contemplar al menos tres recintos: un espacio multifuncional y dos baños: con inodoro y lavamanos cada uno. Para los baños se considerarán las dimensiones que establece el cuadro normativo.
+d) Si el equipamiento incluye una sala multiuso, se deberá presentar un proyecto completo con sus especificaciones y permiso de edificación correspondiente para la construcción. El cálculo de la superficie mínima de la sala multiuso resulta de la división por dos del número de viviendas del proyecto seleccionado. En todo caso, la superficie mínima de la sala multiuso no podrá ser inferior a 35 m². El programa arquitectónico debe contemplar al menos tres recintos: un espacio multifuncional y dos baños, con inodoro y lavamanos cada uno. Para los baños se considerarán las dimensiones que establece el Cuadro Normativo.
 
-e) Los equipamientos podrán localizarse en los terrenos cedidos conforme a los artículos 2.2.5 y 6.2.2. de la OGUC, si para ello se cuenta con autorización municipal que permita el destino señalado así como el uso de los recintos por parte de las familias que conforman el proyecto.
+e) Los equipamientos podrán localizarse en los terrenos cedidos conforme a los artículos 2.2.5 y 6.2.2. de la OGUC, si para ello se cuenta con autorización municipal que permita el destino señalado, así como el uso de los recintos por parte de las familias que conforman el proyecto.
 
-## Título VIII — PLAN DE HABILITACIÓN SOCIAL
+## Título VIII — PROYECTO DE ASISTENCIA TECNICA Y SOCIAL
 
 #### Artículo 20
 
-El Plan de Habilitación Social, en adelante el Plan, deberá ser parte integrante del proyecto habitacional.
+Para el ingreso del Proyecto al Banco, se deberá acompañar un Proyecto de Asistencia Técnica el cual comprende la organización de la demanda, la elaboración del proyecto habitacional, el plan de habilitación social y la gestión para la ejecución de las obras. La elaboración y ejecución de este Proyecto deberá realizarse en conformidad con la Resolución N°533, (V. y U.), de 1997 y sus modificaciones. Este Proyecto deberá contemplar, entre otras, las áreas a desarrollar, los servicios que se prestarán, los profesionales que desempeñarán funciones en el Proyecto y los recursos involucrados en él, ciñéndose a la normativa que regula la asistencia técnica para este programa.
 
-Para el diseño del Plan, la EGIS deberá hacer un diagnóstico de las familias que conforman el grupo, identificando los principales problemas que les afectan, considerando además la situación social que tendrán las familias en la futura localización del proyecto, en ámbitos tales como vivienda, salud, educación y trabajo. Dicho diagnóstico deberá considerar los casos vulnerables que existan en el grupo, tales como discapacitados y adultos mayores, entre otros, para quienes se deberán desarrollar acciones específicas de intervención. Además, con tal propósito, la EGIS deberá llenar la ficha de diagnóstico de cada familia postulante.
-
-El Plan será diferente según el tipo de proyecto de que se trate.
-
-### Párrafo 1° — . Plan para Proyectos de Construcción.
-
-#### Artículo 21
-
-Para los proyectos de construcción, el Plan indicará las acciones y/o actividades ejecutadas, aquéllas que están en desarrollo y las que se realizarán durante la ejecución del proyecto, destinadas a contribuir a superar la situación de pobreza y/o marginación social y a mejorar las condiciones de vida de las familias que componen el grupo desde un enfoque habitacional. La presentación del Plan se hará conforme a la pauta que será entregada por el SERVIU respectivo.
-
-El Plan deberá indicar los objetivos, el programa de trabajo, las acciones que se desarrollarán, metodología, indicadores, metas y medios de verificación, de acuerdo a las definiciones conceptuales sugeridas por el SERVIU. Todos estos elementos deberán ser pertinentes y coherentes con los requerimientos del grupo.
-
-#### Artículo 22
-
-Para este tipo de proyectos, las actividades incluidas en el Plan se clasifican en tres secciones o áreas, cada una de las cuales contempla la ejecución tanto de actividades mínimas u obligatorias como de actividades a elección. Estas áreas corresponden a áreas de autodiagnóstico, de acompañamiento y de vínculos de cooperación:
-
-1. Área de Autodiagnóstico. La EGIS deberá considerar en el diseño del Plan las siguientes actividades mínimas obligatorias:
-
-1.1. Efectuar reuniones con las familias para
-
-informarles acerca de:
-
-. La operatoria y funcionamiento de este
-
-Programa, tales como requisitos de
-
-postulación, tipos de proyectos, plazos de
-
-postulación, tipos de equipamiento a que
-
-pueden acceder, ahorro exigido y rol de
-
-cada actor involucrado.
-
-. Proyecto Habitacional al cual postularán:
-
-tipo de vivienda, especificaciones
-
-técnicas, condiciones del terreno,
-
-características del lote que corresponderá
-
-a cada familia, entre otros aspectos.
-
-. En el caso de proyectos de Densificación
-
-Predial, se deberá hacer una reunión
-
-especial para aclarar los aspectos legales
-
-y técnicos de la misma.
-
-1.2. Realizar al menos una jornada con las
-
-familias, para que ellas informen de sus
-
-principales problemas y áreas de interés como
-
-integrantes del grupo.
-
-1.3. Presentar e informar, para la aprobación de
-
-las familias, los objetivos, actividades,
-
-recursos y plazos para la ejecución del Plan.
-
-2 . Área de Acompañamiento. Desde que el proyecto es seleccionado y hasta la entrega material de la vivienda, la EGIS deberá realizar las siguientes actividades mínimas:
-
-2.1. Dos reuniones informativas sobre el proceso
-
-de avance y estado del proyecto.
-
-2.2. Un taller sobre organizaciones y/o servicios
-
-que existen en la comunidad, tales como
-
-Municipalidad, consultorios, escuelas,
-
-jardines infantiles. La EGIS debe definir
-
-la metodología del taller.
-
-2.3. La EGIS deberá realizar al menos un taller
-
-y/o actividad del ámbito socio-comunitario
-
-de los que se señalan a continuación:
-
-a) Taller de información e identificación
-
-de formas de financiamiento y proyectos
-
-concursables de instituciones públicas o
-
-privadas.
-
-b) Capacitación para la formulación de
-
-proyectos de interés común.
-
-c) Taller para mejorar la adaptación de las
-
-familias a su nueva condición de
-
-propietarias, en materia de presupuesto
-
-del hogar, planificación de los gastos,
-
-cuentas de servicios y otros.
-
-d) Taller de inserción en la vida
-
-comunitaria realizado por profesionales
-
-de servicios y entidades locales que den
-
-información y orientación a las familias
-
-acerca de los programas sociales
-
-existentes en la comuna.
-
-2.4. La EGIS deberá realizar a lo menos un taller
-
-y/o actividad del ámbito técnico-legal, de
-
-los que se señalan a continuación:
-
-a) Taller sobre derechos y deberes como
-
-nuevos propietarios de vivienda y normas
-
-básicas de convivencia y organización
-
-entre vecinos.
-
-b) Taller para el mejoramiento, optimización
-
-y mantención del espacio público, tales
-
-como organización de espacios
-
-comunitarios, diseño y planificación del
-
-equipamiento u otros.
-
-c) Taller sobre uso, cuidado, mantención y
-
-ampliación de la vivienda.
-
-2.5. La EGIS deberá realizar obligatoriamente los
-
-siguientes talleres para la totalidad de las
-
-familias, según los tipos de proyecto que se
-
-señalan:
-
-a) Proyectos de Construcción en Nuevos
-
-Terrenos: taller sobre uso y ampliación
-
-de la vivienda y taller sobre la Ley de
-
-Copropiedad Inmobiliaria, si corresponde.
-
-En caso de proyectos de loteo, se deberá
-
-efectuar un taller sobre organización
-
-comunitaria.
-
-b) Proyectos de Construcción en Sitio del
-
-Residente: taller sobre uso y ampliación
-
-de la vivienda.
-
-c) Proyectos de Densificación Predial:
-
-taller sobre la Ley de Copropiedad
-
-Inmobiliaria o sobre subdivisión predial.
-
-Los talleres sobre la Ley de Copropiedad Inmobiliaria para los proyectos a que se refiere la letra a) precedente, tienen por objeto la elaboración del Reglamento de Copropiedad respectivo. Sin perjuicio de lo anterior, la inscripción de dicho reglamento en el Conservador de Bienes Raíces será de responsabilidad de la EGIS.
-
-3.- Área de Vínculos de Cooperación. Para que la EGIS pueda dar respuesta a las inquietudes y necesidades del grupo de familias, expresadas en la etapa de auto-diagnóstico, deberá identificar y articular acciones en conjunto con otras entidades u organismos que tengan en ejecución programas que aborden temáticas pertinentes a los intereses o problemas de las familias
-
-La EGIS, en atención a las necesidades detectadas por las mismas familias, deberá identificar al momento de presentar el Plan, los programas, proyectos, instituciones o servicios de mayor pertinencia con las inquietudes y necesidades del grupo de familias.
-
-### Párrafo 2° — . Plan para Proyectos de Adquisición de Viviendas Construidas
-
-#### Artículo 23
-
-Tratándose de Proyectos de Adquisición de Viviendas Construidas, el Plan de Habilitación Social consistirá en la entrega de una cartilla informativa sobre las redes sociales del entorno correspondiente a su localización, y cuando se trate de la adquisición de una vivienda acogida la Ley N° 19.537 Sobre Copropiedad Inmobiliaria, deberá entregarse un texto resumido de los derechos y deberes que dicha ley les confiere a los copropietarios. Para estos efectos se entenderá por redes sociales servicios tales como los de atención de salud, de educación, de justicia, de servicios básicos, u otros.
-
-## Título IX — PROYECTO DE ASISTENCIA TÉCNICA
-
-#### Artículo 24
-
-Para el ingreso del proyecto al Banco, se deberá acompañar un Proyecto de Asistencia Técnica. La elaboración y ejecución de dicho proyecto deberá realizarse en conformidad con la Resolución N°533, (V. y U.), de 1997 y sus modificaciones. Este Proyecto deberá contemplar, entre otras, las áreas a desarrollar, los servicios que se prestarán, los profesionales que desempeñarán funciones en el Proyecto, los recursos involucrados en él, ciñéndose a la normativa que regula la asistencia técnica para este programa.
-
-En forma complementaría al Proyecto de Asistencia Técnica, la EGIS deberá incluir en el Presupuesto Financiado el detalle de los costos asociados a la ejecución de cada una de las áreas del Proyecto de Asistencia Técnica.
+La EGIS deberá acompañar junto con este Proyecto el Presupuesto Financiado en el cual deberá incluir el detalle de los costos asociados a la ejecución de cada una de las áreas del Proyecto de Asistencia Técnica.
 
 El Proyecto de Asistencia Técnica ingresado al Banco será revisado por el SERVIU, el cual podrá formularle las observaciones que estime conveniente durante la etapa de estudio.
 
-El SERVIU realizará un seguimiento selectivo a la ejecución del Proyecto de Asistencia Técnica, haciendo llegar a la EGIS correspondiente una evaluación de los servicios prestados.
+El SERVIU realizará un seguimiento a la ejecución del Proyecto de Asistencia Técnica, haciendo llegar a la EGIS correspondiente una evaluación de los servicios prestados.
 
 Será de responsabilidad de la EGIS la prestación de los Servicios de Asistencia Técnica, aun cuando subcontrate dicha tarea con terceros. La EGIS tendrá derecho a percibir los montos señalados en la Resolución Nº 533, (V. y U.), de 1997, por las tareas que desempeñe en el cumplimiento de estas funciones.
+
+## Título IX — PLAN DE HABILITACIÓN SOCIAL
+
+#### Artículo 21
+
+El Plan de Habilitación Social, en adelante el Plan, formará parte integrante del Proyecto Habitacional.
+
+Este Plan tiene como objetivo contribuir a superar las condiciones de pobreza y/o marginación social desde un enfoque habitacional y participativo, promoviendo el involucramiento de las familias en el proyecto habitacional a desarrollar, favoreciendo la integración en el barrio y en la red social.
+
+El diseño y la implementación de este Plan deberá facilitar la participación de las familias, incorporando sus requerimientos y aportes al plan.
+
+Se distinguirán 2 etapas del Plan de Habilitación Social: Etapa previa a la selección de un proyecto y Etapa posterior a su selección.
+
+#### Artículo 22
+
+En la etapa previa a la selección de un proyecto, para el diseño y presentación de este Plan, la EGIS deberá realizar tres tipos de actividades:
+
+a) Diagnóstico: en el que se señalarán las características de las familias que conforman el proyecto de construcción, entre ellas: grupos etáreos, grupos vulnerables (jefaturas de hogar monoparentales, adultos mayores, discapacitados, enfermos crónicos, problemáticas sociales, etc.); según estas características, se identificarán los requerimientos del grupo, asociados al proyecto habitacional, es decir a la vivienda y a su entorno; y las problemáticas sociales relevantes, especialmente aquellas que afecten la integración en el barrio.
+
+b) Actividades que acrediten conocimiento de las familias acerca del programa al que se postula: operatoria, funcionamiento y financiamiento, deberes y derechos de las familias, del grupo, de la EGIS y del SERVIU.
+
+c) Actividades que acrediten involucramiento y conformidad de las familias con el proyecto que se postula, es decir aspectos técnicos de la vivienda, del loteo y su entorno, según corresponda, y con el Plan de Habilitación Social programado para la etapa posterior a la selección.
+
+#### Artículo 23
+
+En la etapa posterior a la selección de un proyecto, en base a los elementos obtenidos en el diagnóstico grupal, este Plan deberá señalar los objetivos, actividades, metodologías, recursos, productos, metas, indicadores, plazos y medios de verificación, para cada una de las siguientes áreas de intervención:
+
+a. Área de seguimiento del proyecto habitacional:
+
+La que tiene como propósito involucrar a las familias en el desarrollo y avance del proyecto de construcción.
+
+b. Área de formación de futuros propietarios:
+
+La que tiene como propósitos:
+
+b.1.Capacitar a las familias en el uso, cuidado y mantención de la vivienda; en el proyecto de ampliación de la vivienda aprobado, y en la solución sanitaria, según corresponda.
+
+b.2.Capacitar a las familias en la protección del patrimonio familiar, en las facultades y responsabilidades como propietario y en la Ley N° 19.537 sobre Copropiedad Inmobiliaria, cuando corresponda.
+
+b.3.Apoyar el sistema de asignación de las viviendas, cuando corresponda.
+
+b.4.Asesorar a las familias en la organización de la mudanza.
+
+b.5.Coordinar servicio de post venta.
+
+c. Área de redes comunitarias:
+
+La que tiene como propósitos:
+
+c.1.Favorecer la inserción de las familias en el barrio que los acoge; la convivencia y seguridad vecinal; y la conformación de organización comunitaria. Para los proyectos con Subsidio de Localización, coordinar acciones específicas para facilitar su inserción en el entorno.
+
+c.2.Facilitar el vínculo de los grupos vulnerables con las redes sociales, asistenciales y de protección social, en función del diagnóstico elaborado.
+
+#### Artículo 24
+
+Para la modalidad de Adquisición de Vivienda Construida, corresponderá la entrega de una cartilla informativa sobre las redes sociales del entorno correspondiente a la localización, y cuando se trate de la adquisición de una vivienda acogida la Ley N°19.537 sobre Copropiedad Inmobiliaria, deberá entregarse un texto resumido de los derechos y deberes que dicha ley les confiere a los copropietarios. Para estos efectos se entenderá por redes sociales servicios tales como los de atención de salud, de educación, de justicia, de servicios básicos, u otros.
 
 ## Título X — CONSTRUCCIÓN DE LAS VIVIENDAS
 
 #### Artículo 25
 
-El contrato de construcción suscrito entre el grupo organizado, la EGIS y la empresa responsable de la construcción de las viviendas, deberá ajustarse a las características y especificaciones aprobadas por la Comisión Técnica Evaluadora. Si con posterioridad a la presentación del contrato de construcción fuese necesario realizar modificaciones al proyecto, éstas deberán ser aprobadas tanto por las familias como por el SERVIU.
+El contrato de construcción suscrito entre el grupo organizado, la EGIS y la empresa responsable de la construcción de las viviendas, deberá ajustarse a las características y especificaciones aprobadas del proyecto por la Comisión Técnica Evaluadora. Si con posterioridad a la presentación del contrato de construcción fuese necesario realizar modificaciones al proyecto, éstas deberán ser aprobadas tanto por las familias como por el SERVIU.
 
-El contratista o constructor de las obras del Proyecto, deberá entregar boleta bancaria de garantía destinada a garantizar el fiel cumplimiento del contrato y la buena calidad de las obras ejecutadas, extendida a favor del SERVIU, pagadera a la vista a su sola presentación, de plazo indefinido o en su defecto por un plazo que exceda a lo menos en un año la fecha de la recepción municipal de las obras, por un valor igual al 5% del monto del o de los respectivos subsidios, expresada en Unidades de Fomento, o en pesos, moneda nacional, en cuyo caso deberá incluir, además, un monto adicional correspondiente a una proyección de reajuste calculado de acuerdo a un coeficiente que se fijará mediante resoluciones del Ministro de Vivienda y Urbanismo. Esta boleta de garantía será devuelta al contratista o al constructor siempre que hubiere dado fiel cumplimiento al contrato y que durante su vigencia no se hubieren presentado reclamos por la calidad de las obras ejecutadas o que, habiéndose presentado, éstos hubieren sido debidamente solucionados por el contratista o constructor, a satisfacción del respectivo beneficiario. Por el contrario, si dentro del plazo indicado se presentaren reclamos que no fueren debidamente solucionados por el contratista o constructor, el SERVIU hará efectiva dicha boleta de garantía, por la parte que de ella le corresponda a el o los beneficiarios afectados.
+El contrato a que se refiere el inciso anterior deberá incluir entre sus cláusulas que la EGIS o el grupo organizado se reservan el derecho de poner término a dicho contrato en caso que la obra estuviere paralizada por un período de 15 días o más.
+
+El contratista o constructor de las obras del Proyecto, deberá entregar boleta bancaria de garantía destinada a garantizar el fiel cumplimiento del contrato y la buena calidad de las obras ejecutadas, extendida a favor del SERVIU, pagadera a la vista a su sola presentación, de plazo indefinido o en su defecto por un plazo que exceda a lo menos en un año la fecha de la recepción municipal de las obras, por un valor igual al 3% del monto del o de los respectivos subsidios, expresada en Unidades de Fomento, o en pesos, moneda nacional, en cuyo caso deberá incluir, además, un monto adicional correspondiente a una proyección de reajuste calculado de acuerdo a un coeficiente que se fijará mediante resoluciones del Ministro de Vivienda y Urbanismo. Esta boleta de garantía será devuelta al contratista o al constructor siempre que hubiere dado fiel cumplimiento al contrato y que durante su vigencia no se hubieren presentado reclamos por la calidad de las obras ejecutadas o que, habiéndose presentado, éstos hubieren sido debidamente solucionados por el contratista o constructor, a satisfacción del respectivo beneficiario. Por el contrario, si dentro del plazo indicado se presentaren reclamos que no fueren debidamente solucionados por el contratista o constructor, el SERVIU hará efectiva dicha boleta de garantía, por la parte que de ella le corresponda a el o los beneficiarios afectados.
 
 #### Artículo 26
 
-En caso de detectarse graves fallas constructivas, el SERVIU podrá adoptar, entre otras, las siguientes medidas para resguardar la calidad constructiva del proyecto:
+En caso de detectarse graves fallas constructivas, o la paralización de las obras por 15 días o más, el SERVIU podrá adoptar, entre otras, las siguientes medidas para resguardar la calidad constructiva del proyecto:
 
 a) Envío a la EGIS de un informe oficial que de cuenta del estado de construcción, de deficiencias en la calidad constructiva y/o de eventuales riesgos asociados a la ejecución del proyecto.
 
@@ -628,7 +506,9 @@ b) Ordenarle a la EGIS que requiera la paralización de las obras mientras no se
 
 c) Ordenarle a la EGIS que requiera la reparación o demolición y posterior construcción de las partidas que presenten deficiencias constructivas o problemas de calidad de materiales.
 
-De las facultades del SERVIU antes mencionadas, se dejará constancia tanto en el convenio suscrito entre el SERVIU y la EGIS, como en el contrato de construcción firmado entre la EGIS, el grupo y la empresa constructora del proyecto.
+d) Ordenarle a la EGIS que ponga término al contrato con el contratista o constructor interponiendo las acciones judiciales correspondientes, en su caso, y que proceda a contratar la terminación de las obras.
+
+De las facultades del SERVIU antes mencionadas, se dejará constancia tanto en el convenio suscrito entre el MINVU y la EGIS, señalado en artículo 43, como en el contrato de construcción firmado entre la EGIS, el grupo y la empresa constructora del proyecto.
 
 ## Título XI — DOCUMENTOS QUE SE DEBEN ADJUNTAR A LA PRESENTACIÓN DE UN PROYECTO
 
@@ -640,421 +520,127 @@ Cualquiera sea el tipo de proyecto que se presente, deberán adjuntarse los sigu
 
 a) Formulario de Incorporación al Banco, tanto del proyecto como de cada una de las familias que integran el grupo, que contenga toda la información solicitada, firmado por el representante legal de la EGIS, por el representante del grupo y por el representante de cada familia del grupo.
 
-b) Certificado de inscripción en el Registro Nacional de la Discapacidad, si corresponde.
+b) Certificado que acredite la discapacidad expedido por el COMPIN (Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud), de conformidad al artículo 7° de la ley 19.284, Ley de Integración Social de las Personas con Discapacidad.
 
 c) Certificado que acredite la condición de indígena, en su caso, emitido por la CONADI, salvo que la persona tenga, a lo menos, un apellido indígena.
 
-d) Carta compromiso suscrita por el o los representantes legales de la EGIS y por los representantes del grupo, en que se exprese la voluntad de llevar adelante el proyecto que se presenta y las obligaciones que asumen, salvo en los casos de Proyectos de Adquisición de Viviendas construidas.
+d) Certificado de ahorro mínimo enterado en los términos señalados en este reglamento. Dicho certificado no será necesario cuando exista convenio de traspaso electrónico entre el MINVU y la entidad financiera captadora de los ahorros de los postulantes, en cuyo caso se requerirá mandato otorgado al SERVIU respectivo para que solicite el saldo existente en la cuenta.
 
-e) Acta de la o las asambleas realizadas por el grupo, en la que debe constar el nombre, Cédula Nacional de Identidad y firma de cada uno de los integrantes del grupo organizado, en la que se apruebe el proyecto que se presenta. Tratándose de Proyectos de Adquisición de Viviendas construidas, deberán acompañar, además, una carta de cada integrante del grupo, en que conste que conoce la vivienda que adquirirá y que acepta las condiciones de la transferencia.
+e) Certificación que acredite los aportes enterados por terceros o promesa de donación en dinero, si corresponde, extendida ante Notario.
 
-f) Formulario de Presupuesto Financiado del Proyecto, de acuerdo a lo señalado en este reglamento.
+f) En caso que sea una Municipalidad la que compromete aportes adicionales, deberá acompañarse copia del acta de la sesión del Concejo en que conste tal compromiso.
 
-g) Certificado de ahorro mínimo enterado en los términos señalados en este reglamento. Dicho certificado no será necesario cuando exista convenio de traspaso electrónico entre el MINVU y la entidad financiera captadora de los ahorros de los postulantes, en cuyo caso se requerirá mandato otorgado al SERVIU respectivo para que solicite el saldo existente en la cuenta.
+g) Proyecto de Asistencia Técnica y Social.
 
-h) Certificación que acredite los aportes enterados por terceros o promesa de donación en dinero, si corresponde, extendida ante Notario.
-
-i) Compromiso de ejecución de obras complementarias al proyecto,si lo hubiere, suscrito por el representante legal de la entidad que las ofrece, indicando el monto de los recursos financieros comprometidos.
-
-j) En caso que sea una Municipalidad la que compromete aportes adicionales, deberá acompañarse copia del acta de la sesión del Concejo en que conste tal compromiso.
-
-k) Plan de Habilitación Social propuesto por la EGIS, incorporando un Formulario de Diagnóstico por cada una de las familias que integran el proyecto.
-
-l) Proyecto de Asistencia Técnica, de acuerdo a lo señalado en este reglamento.
-
-m) Carta Gantt del proyecto.
-
-### Párrafo 2° — . Antecedentes para Proyectos de Construcción en Nuevos Terrenos
+### Párrafo 2° — . Antecedentes para Proyectos de Construcción
 
 #### Artículo 28
 
-Los Proyectos de Construcción en Nuevos Terrenos deberán acompañar, además de los antecedentes señalados en el artículo anterior y del Estudio o Declaración de Impacto Ambiental, si corresponde, los siguientes:
+Los Proyectos de Construcción deberán acompañar, además de los antecedentes señalados en el Artículo anterior y del Estudio o Declaración de Impacto Ambiental, si corresponde, los siguientes:
 
-a) Permiso de Edificación del proyecto completo de la vivienda, otorgado por la DOM correspondiente, reducido a escritura pública para los efectos del DFL. N°2, de 1959 y certificado del Director de Obras Municipales en que conste su calificación como viviendas sociales. En su defecto, se podrá presentar anteproyecto aprobado por la DOM.
+a) Permiso de Edificación del proyecto completo de la vivienda y de la urbanización, otorgado por la Dirección de Obras Municipales correspondiente. En su defecto, se podrá presentar anteproyecto aprobado por la Dirección de Obras Municipales.
 
-b) Contrato de construcción suscrito entre la EGIS, la empresa constructora y los representantes del grupo organizado. En su defecto, podrá acompañarse oferta de una empresa constructora, en que se comprometa a participar posteriormente en la licitación a la cual se convoque para contratar la ejecución del proyecto.
+b) Contrato de construcción suscrito entre la EGIS, la empresa constructora y los representantes del grupo organizado, en los términos señalados en el artículo 25. En su defecto, tratándose de EGIS que de acuerdo a la legislación que las rige requieran llamar a licitación, deberán acompañar oferta de una empresa constructora, en que se comprometa a participar posteriormente en la licitación a la cual se convoque para contratar la ejecución del proyecto.
 
-c) La propiedad del terreno se deberá acreditar mediante alguno de los siguientes documentos:
+c) Certificado de factibilidad de dación de servicios emitido por las entidades correspondientes.
 
-c)1. Copia de la inscripción de dominio con
+Tratándose de proyectos emplazados en sectores rurales, que no se encuentren dentro del área de concesión de una empresa sanitaria, la factibilidad de agua potable y alcantarillado deberá ser certificada por el Servicio de Salud correspondiente. En el caso que el proyecto se encuentre emplazado dentro de un área en que opera un Comité de Agua Potable Rural, éste podrá certificar la factibilidad de agua potable, si corresponde.
 
-certificado de vigencia y certificado de
+d) Plano de loteo con cuadro de superficies o anteproyecto de loteo, en su caso, identificando emplazamiento de las viviendas y áreas y/o edificaciones que se destinarán a equipamiento.
 
-hipotecas y gravámenes, de interdicciones y
+e) Planos de arquitectura y estructuras incluyendo plantas, elevaciones, cortes y detalles constructivos para cada tipología de edificación incluida en el proyecto, indicando en los planos la ampliación proyectada de las viviendas, con superficie inicial y final.
 
-prohibiciones y litigios pendientes, de 30
+f) Especificaciones técnicas de las edificaciones.
 
-años.
+g) La disponibilidad de terreno se deberá acreditar mediante alguno de los siguientes documentos:
 
-c)2. Contrato de promesa de compraventa suscrito
+g)1. Copia de la inscripción de dominio con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes, de 30 años.
 
-ante Notario, cuyos términos sean
+g)2. Contrato de promesa de compraventa suscrito ante Notario, cuyos términos sean coincidentes y no se contrapongan con el Contrato de Promesa de Compraventa Tipo entregado por el SERVIU, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes, de 30 años.
 
-coincidentes o no se contrapongan con el
+g)3. Si el promitente vendedor es el SERVIU, se requiere contrato de promesa de compraventa sujeto a la condición para la celebración del contrato prometido, que el grupo resulte seleccionado en un concurso del programa que regula este reglamento.
 
-Contrato de Promesa de Compraventa Tipo,
+g)4. Tratándose de terrenos fiscales, deberá acompañarse documento emitido por el SEREMI de Bienes Nacionales respectivo en que conste la decisión de dicho Ministerio de vender ese terreno a la EGIS o a la empresa constructora con la cual se suscriba el contrato de construcción conforme al artículo 25, en el cual se especificará la localización y superficie del terreno, así como el plazo para formalizar la venta.
 
-entregado por el SERVIU, acompañado de copia
+g)5. Si se postula acreditando dominio en tierras indígenas deberá acompañarse certificado de la CONADI que acredite su inscripción en el Registro de Tierras Indígenas.
 
-de la inscripción de dominio a nombre del
+g)6. Si se postula acreditando goce en tierras indígenas, deberá acompañarse copia autorizada de la Resolución de la CONADI que certifique la constitución del goce, que está autorizado por la respectiva comunidad, que singularice la parte del terreno en que está constituido y su inscripción en el Registro de Tierras Indígenas.
 
-promitente vendedor, con certificado de
+g)7. Si se postula acreditando derecho real de uso sobre determinada superficie de la propiedad, deberá acompañarse un certificado de la CONADI que acredite que se ha cumplido con los trámites para su constitución a favor del postulante, no obstante lo cual al momento de la entrega del certificado de subsidio deberá acompañarse copia de la inscripción en el Conservador de Bienes Raíces del instrumento público mediante el cual se constituyó el derecho real de uso, conforme a los artículos 812 y 767 del Código Civil.
 
-vigencia y certificado de hipotecas y
+g)8. Si se postula acreditando derechos en comunidades agrícolas a las que se refiere el DFL Nº 5, (Agricultura), de 1968, deberá acompañarse copia de la inscripción de dominio o de la cesión de derechos a favor de comuneros agrícolas, otorgado por el Conservador de Bienes Raíces, con certificado de vigencia.
 
-gravámenes, de interdicciones y prohibiciones
+h) Mandato otorgado por los integrantes del grupo a la EGIS, para que en su representación, llame a licitación pública o privada para la contratación de las obras del proyecto, si corresponde.
 
-y litigios pendientes, de 30 años.
+i) Autorización del Municipio para el uso y construcción por parte de las familias que integran el proyecto, de los terrenos cedidos para edificaciones destinadas a equipamiento, conforme a los artículos 2.2.5. y 6.2.2. de la OGUC .
 
-c)3. Si el promitente vendedor es el SERVIU, se
+j) Carta compromiso suscrita por el o los representantes legales de la EGIS y por los representantes del grupo, en que se exprese la voluntad de llevar adelante el proyecto que se presenta y las obligaciones que asumen.
 
-requiere contrato de promesa de compraventa
+k) Acta de la o las asambleas realizadas por el grupo, en la que debe constar el nombre, Cédula Nacional de Identidad y firma de cada uno de los integrantes del grupo organizado, en la que se apruebe el proyecto que se presenta.
 
-sujeto a la condición para la celebración
+l) Formulario de Presupuesto Financiado del Proyecto, de acuerdo a lo señalado en este reglamento.
 
-del contrato prometido, que el grupo resulte
+m) Compromiso de ejecución de obras complementarias al proyecto, si las hubiere, suscrito por el representante legal de la entidad que las ofrece, indicando el monto de los recursos financieros comprometidos.
 
-seleccionado en un concurso del programa que
-
-regula este reglamento, y autorización para
-
-enajenarlo al grupo, otorgada por el
-
-Subsecretario de Vivienda y Urbanismo.
-
-c)4. Manifestación de voluntad del SEREMI de
-
-Bienes Nacionales, de vender ese terreno a la
-
-entidad solicitante, sea ésta la EGIS o el
-
-grupo organizado, siempre que éste resulte
-
-seleccionado, mediante el correspondiente
-
-acto administrativo, en el cual se
-
-especificará la localización y superficie del
-
-terreno, así como el plazo para formalizar la
-
-venta.
-
-c)5. Si se postula acreditando dominio en tierras
-
-indígenas deberá acompañarse certificado de
-
-la CONADI que acredite su inscripción en el
-
-Registro de Tierras Indígenas.
-
-c)6. Si se postula acreditando goce en tierras
-
-indígenas, deberá acompañarse copia
-
-autorizada de la Resolución de la CONADI que
-
-certifique la constitución del goce, que está
-
-autorizado por la respectiva comunidad, que
-
-singularice la parte del terreno en que está
-
-constituido y su inscripción en el Registro
-
-de Tierras Indígenas.
-
-c)7. Si se postula acreditando derecho real de uso
-
-sobre determinada superficie de la propiedad,
-
-deberá acompañarse un certificado de la
-
-CONADI que acredite que se ha cumplido con
-
-los trámites para su constitución a favor del
-
-postulante, no obstante lo cual al momento
-
-de la entrega del certificado de subsidio
-
-deberá acompañarse copia de la inscripción en
-
-el Conservador de Bienes Raíces del
-
-instrumento público mediante el cual se
-
-constituyó el derecho real de uso, conforme
-
-a los artículos 812 y 767 del Código Civil.
-
-c)8. Si se postula acreditando derechos en
-
-comunidades agrícolas a las que se refiere el
-
-DFL Nº 5, (Agricultura), de 1968, deberá
-
-acompañarse copia de la inscripción de
-
-dominio o de la cesión de derechos a favor
-
-de comuneros agrícolas, otorgado por el
-
-Conservador de Bienes Raíces, con certificado
-
-de vigencia.
-
-d) Autorización de la SEREMI de Agricultura, en el caso previsto en el inciso tercero del artículo 55 de la LGUC.
-
-e) Certificado de factibilidad de dación de servicios emitido por las entidades correspondientes.
-
-Tratándose de proyectos emplazados en sectores rurales, que no se encuentren dentro del área de la concesión de una empresa sanitaria, la factibilidad de agua potable y alcantarillado deberá ser otorgada por el Servicio de Salud correspondiente. En el caso que el proyecto se encuentre emplazado dentro de un área en que opera un Comité de Agua Potable Rural, éste podrá certificar la factibilidad de agua potable, si corresponde.
-
-f) Plano de loteo con cuadro de superficies o anteproyecto de loteo, en su caso, identificando áreas y/o edificaciones que se destinarán a equipamiento.
-
-g) Plano de plantas, elevaciones, cortes y detalles constructivos para cada tipología de edificación incluida en el proyecto, indicando en los planos la ampliación proyectada de las viviendas, con superficie inicial y final.
-
-h) Especificaciones técnicas de las edificaciones.
-
-i) Mandato otorgado por los integrantes del grupo a la EGIS, para que en su representación, llame a licitación pública o privada para la contratación de las obras del proyecto.
-
-j) Autorización del Municipio para el uso por parte de las familias que integran el proyecto, de los recintos destinados a equipamiento en los terrenos cedidos conforme a los artículos 2.2.5. y 6.2.2. de la OGUC .
-
-k) Certificado de Informaciones previas emitido por la DOM respectiva.
+n) Carta Gantt del proyecto.
 
 ### Párrafo 3° — . Antecedentes para Proyectos de Densificación Predial
 
 #### Artículo 29
 
-Los Proyectos de Densificación Predial deberán acompañar, además de los antecedentes señalados en el artículo 27, los siguientes:
-
-a) Permiso de Edificación del proyecto completo de la vivienda, otorgado por la DOM, reducido a escritura pública para los efectos del DFL. N°2, de 1959 y certificado del Director de Obras Municipales en que conste su calificación como viviendas sociales. En su defecto, se podrá presentar anteproyecto aprobado por la DOM.
-
-b) Contrato de construcción suscrito entre la EGIS, la empresa constructora y el representante del grupo organizado. En su defecto, podrá acompañarse oferta de una empresa constructora, en que se comprometa a participar posteriormente en la licitación a la cual se convoque para contratar la ejecución del proyecto.
-
-c) Contrato de promesa de compraventa o de promesa de cesión de derechos de cada uno de los predios incluidos en el proyecto, para verificar la factibilidad de la subdivisión o de la constitución de una copropiedad y copia de la inscripción de dominio a nombre del promitente vendedor o cedente, con certificado de vigencia y certificados de hipotecas y gravámenes, de interdicciones, prohibiciones y litigios pendientes, de 30 años.
-
-d) En caso de personas reconocidas como indígenas por la Ley N°19.253 que postulen conforme al artículo 17 de dicha ley, deberán acompañar lo siguiente:
-
-d)1. Si se postula acreditando dominio en tierras
-
-indígenas deberá acompañarse certificado de
-
-la CONADI que acredite su inscripción en el
-
-Registro de Tierras Indígenas.
-
-d)2. Si se postula acreditando goce en tierras
-
-indígenas, deberá acompañarse copia
-
-autorizada de la Resolución de la CONADI que
-
-certifique la constitución del goce, que está
-
-autorizado por la respectiva comunidad, que
-
-singularice la parte del terreno en que está
-
-constituido y su inscripción en el Registro
-
-de Tierras Indígenas.
-
-d)3. Si se postula acreditando derecho real de uso
-
-sobre determinada superficie de la propiedad,
-
-deberá acompañarse un certificado de la
-
-CONADI que acredite que se ha cumplido con
-
-los trámites para su constitución a favor del
-
-postulante, no obstante lo cual al momento
-
-de la entrega del certificado de subsidio
-
-deberá acompañarse copia de la inscripción
-
-en el Conservador de Bienes Raíces del
-
-instrumento público mediante el cual se
-
-constituyó el derecho real de uso, conforme
-
-a los artículos 812 y 767 del Código Civil.
-
-d)4. Si se postula acreditando derechos en
-
-comunidades agrícolas a las que se refiere
-
-el DFL Nº 5, (Agricultura), de 1968, deberá
-
-acompañarse copia de la inscripción de
-
-dominio o de la cesión de derechos a favor
-
-de comuneros agrícolas, otorgado por el
-
-Conservador de Bienes Raíces, con certificado
-
-de vigencia.
-
-e) Planos de plantas, elevaciones y cortes de las viviendas para cada tipología de edificación.
-
-f) Plano de emplazamiento de cada vivienda en el lote. Sólo de silueta.
-
-g) Cuadro de superficies edificadas.
-
-h) Especificaciones técnicas de las edificaciones.
-
-i) Certificado de Informaciones previas emitido por la DOM.
+Los Proyectos de Densificación Predial deberán acompañar, además de los antecedentes señalados en el artículo 27 o en los artículos 27 y 28, según corresponda, contrato de promesa de compraventa o de promesa de cesión de derechos de cada uno de los predios incluidos en el proyecto, para verificar la factibilidad de la subdivisión o de la constitución de una copropiedad y copia de la inscripción de dominio a nombre del promitente vendedor o cedente, con certificado de vigencia y certificados de hipotecas y gravámenes, de interdicciones, prohibiciones y litigios pendientes, de 30 años.
 
 ### Párrafo 4° — . Antecedentes para Proyectos de Construcción en Sitio del Residente
 
 #### Artículo 30
 
-Los Proyectos de Construcción en Sitio del Residente deberán acompañar, además de los antecedentes señalados en el artículo 27, los siguientes:
-
-a) Permiso de Edificación del proyecto completo de la vivienda, otorgado por la DOM, reducido a escritura pública para los efectos del DFL. N°2, de 1959 y certificado del Director de Obras Municipales en que conste su calificación como viviendas sociales.
-
-En su defecto, se podrá presentar anteproyecto aprobado por la DOM.
-
-b) Contrato de construcción suscrito entre la EGIS, la empresa constructora y los representantes del grupo organizado. En su defecto, podrá acompañarse oferta de una empresa constructora, en que se comprometa a participar posteriormente en la licitación a la cual se convoque para contratar la ejecución del proyecto.
-
-c) Copia de la inscripción de dominio a nombre del promitente vendedor o cedente, con certificado de vigencia y certificados de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes, de 30 años.
-
-d) En caso de personas reconocidas como indígenas por la Ley N°19.253 que postulen conforme al artículo 17 de dicha ley, deberán acompañar lo siguiente:
-
-d)1. Si se postula acreditando dominio en tierras
-
-indígenas deberá acompañarse certificado de
-
-la CONADI que acredite su inscripción en el
-
-Registro de Tierras Indígenas.
-
-d)2. Si se postula acreditando goce en tierras
-
-indígenas, deberá acompañarse copia
-
-autorizada de la Resolución de la CONADI que
-
-certifique la constitución del goce, que está
-
-autorizado por la respectiva comunidad, que
-
-singularice la parte del terreno en que está
-
-constituido y su inscripción en el Registro
-
-de Tierras Indígenas.
-
-d)3. Si se postula acreditando derecho real de uso
-
-sobre determinada superficie de la propiedad,
-
-deberá acompañarse un certificado de la
-
-CONADI que acredite que se ha cumplido con
-
-los trámites para su constitución a favor del
-
-postulante, no obstante lo cual al momento de
-
-la entrega del certificado de subsidio deberá
-
-acompañarse copia de la inscripción en el
-
-Conservador de Bienes Raíces del instrumento
-
-público mediante el cual se constituyó el
-
-derecho real de uso, conforme a los artículos
-
-812 y 767 del Código Civil.
-
-d)4. Si se postula acreditando derechos en
-
-comunidades agrícolas a las que se refiere el
-
-DFL Nº 5, (Agricultura), de 1968, deberá
-
-acompañarse copia de la inscripción de
-
-dominio o de la cesión de derechos a favor
-
-de comuneros agrícolas, otorgado por el
-
-Conservador de Bienes Raíces, con certificado
-
-de vigencia.
-
-e) Planos de plantas, elevaciones y cortes de las viviendas para cada tipología de edificación.
-
-f) Plano de emplazamiento de cada vivienda en el lote.
-
-Sólo su silueta.
-
-g) Cuadro de superficies edificadas.
-
-h) Especificaciones técnicas de las edificaciones.
-
-i) Certificado de Informaciones Previas emitido por la DOM.
+Los Proyectos de Construcción en Sitio del Residente deberán acompañar, además de los antecedentes señalados en el artículo 27 o en los artículos 27 y 28, según corresponda, copia de la inscripción de dominio a nombre del postulante, con certificado de vigencia y certificados de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes, de 30 años.
 
 ### Párrafo 5° — . Antecedentes para Proyectos de Adquisición y Rehabilitación de Inmuebles
 
 #### Artículo 31
 
-Los Proyectos de Adquisición y Rehabilitación de Inmuebles deberán acompañar, además de los antecedentes señalados en el artículo 27, los siguientes:
+Los Proyectos de Adquisición y Rehabilitación de Inmuebles deberán acompañar, además de los antecedentes señalados en el artículo 27 o en los artículos 27 y 28, según corresponda, los siguientes:
 
-a) Permiso de Reparación o Alteración, otorgado por la DOM, reducido a escritura pública para los efectos del DFL N°2, de 1959, en que conste que será acogido a la Ley de Copropiedad Inmobiliaria y certificado del Director de Obras Municipales en que conste su calificación como viviendas sociales.
+a) Permiso de Reparación o Alteración, otorgado por la Dirección de Obras Municipales, reducido a escritura pública para los efectos del DFL N° 2, de 1959, en que conste que será acogido a la Ley de Copropiedad Inmobiliaria y certificado del Director de Obras Municipales en que conste su calificación como viviendas sociales.
 
-b) Contrato de construcción suscrito entre la EGIS, la empresa constructora y el representante del grupo organizado. En su defecto, podrá acompañarse oferta de una empresa constructora, en que se comprometa a participar posteriormente en la licitación a la cual se convoque para contratar la ejecución del proyecto.
+b) Informe de Tasación según el Manual de Tasaciones para el Subsidio Habitacional, aprobado por Resolución N° 347 (V. y U.), de 2004.
 
-c) El dominio se acreditará con alguno de los siguientes documentos
+c) Informe técnico, suscrito por un arquitecto y un ingeniero estructural, que certifique la factibilidad de la rehabilitación de el o de los inmuebles objeto del proyecto.
 
-1. Copia de la inscripción de dominio con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes, de 30 años.
+d) Planos y especificaciones técnicas del o de los proyectos de reparación o alteración, en los que conste además el incremento de viviendas que se originan de la intervención.
 
-2. Contrato de promesa de compraventa suscrito ante Notario, cuyos términos sean coincidentes o no se contrapongan con el Contrato de Promesa de Compraventa Tipo, entregado por el SERVIU, acompañado de la copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años.
-
-d) Informe de Tasación según el Manual de Tasaciones para el Subsidio Habitacional, aprobado por Resolución N° 347, (V. y U.), de 2004.
-
-e) Informe técnico, suscrito por un arquitecto y un ingeniero estructural, que certifique la factibilidad de la rehabilitación de el o de los inmuebles objeto del proyecto.
-
-f) Planos y especificaciones técnicas del o de los proyectos de reparación o alteración, en los que conste además el incremento de viviendas que se originan de la intervención.
-
-g) Certificado de Informaciones previas emitido por la DOM.
-
-### Párrafo 6° — . Antecedentes para Proyectos de Adquisición de Viviendas Construidas
+### Párrafo 6° — . Antecedentes para Proyectos de Adquisición de Vivienda
 
 #### Artículo 32
 
-La solicitud para adquirir una Vivienda Construida deberá ser presentada por una EGIS y acompañar, además de los antecedentes a que se refiere el artículo 27, los siguientes:
+La solicitud para adquirir una Vivienda Existente o Construida deberá ser presentada por una EGIS y acompañar, además de los antecedentes a que se refiere el artículo 27, los siguientes:
 
 a) Contrato de promesa de compraventa suscrito con el promitente vendedor.
 
-b) Suprimida
+b) Certificado de recepción municipal definitiva, la que para el caso de adquisición de Vivienda Existente debe tener una antigüedad no inferior a dos años.
 
-c) Certificado de recepción municipal definitiva que acredite que la vivienda tiene una antigüedad no inferior a dos años.
+c) En postulaciones al Fondo Solidario de Vivienda I para la adquisición de Viviendas Construidas, plano correspondiente a la recepción final de la vivienda, aprobado por la Dirección de Obras Municipales respectiva.
 
-d) Certificado que acredite la calidad de
+d) Tasación de la vivienda practicada por la EGIS considerando la suma de los siguientes factores:
 
-Vivienda Social, en su caso.
+1.- El valor del terreno, que será el del avalúo fiscal del inmueble.
+
+2.- El valor de la construcción de la vivienda según el proyecto presentado, que se determinará conforme a la Tabla de Costos Unitarios a que se refiere el artículo 127 de la Ley General de Urbanismo y Construcciones.
 
 e) Estudio de Títulos.
 
-f) Informe de Tasación según el Manual de Tasaciones para el Subsidio Habitacional aprobado por Resolución Nº 347 (V y U), de 2004.
+En caso de tratarse de operaciones que correspondan a un mismo conjunto habitacional, podrá presentarse un solo ejemplar de los documentos a que se refieren las letras b), c) y e) precedentes.
 
-En caso de tratarse de operaciones que correspondan a un mismo conjunto habitacional podrá presentarse un solo ejemplar de los certificados a que se refieren las letras c) y d) precedentes.
+### Párrafo 7° — . Antecedentes para Proyectos de Construcción Colectiva en Zonas Rurales
 
-### Párrafo 7º — . Derogado
+#### Artículo 33
 
-Antecedentes para Proyectos de Adquisición de Viviendas Nuevas
+Los Proyectos de Construcción Colectiva en Zonas Rurales deberán acompañar los antecedentes exigidos en el artículo 27 y en el artículo 28 salvo los señalados en las letras c), g)2., g)3. y g)4 de este último precepto.
 
-#### Artículo 33°
+En reemplazo del exigido en la letra c) del artículo 28, deberán acompañar programa de operación y mantención de servicios sanitarios, cuando se proyecten soluciones particulares colectivas o particulares de agua potable y aguas servidas.
 
-(DEROGADO)
+El sitio deberá estar libre de todo gravamen, exceptuadas las servidumbres y sin prohibiciones ni embargos, salvo aquellas prohibiciones o gravámenes que pudieren extinguirse con ocasión de la aplicación del subsidio habitacional.
 
 ## Título XII — DEL PROCESO DE POSTULACIÓN Y SELECCIÓN PARA PROYECTOS DE CONSTRUCCIÓN
 
@@ -1068,11 +654,11 @@ Extraordinariamente, previa autorización escrita del Ministro de Vivienda y Urb
 
 En ambos casos los llamados se efectuarán mediante resoluciones en que se disponga el llamado, las que deberán ser publicadas en el Diario Oficial con 30 días de anterioridad, a lo menos, al inicio del período de postulación determinado en la misma resolución. La resolución que disponga el llamado a postulación del concurso, indicará el puntaje de corte de la ficha CAS, la fecha máxima de presentación de las respuestas a las observaciones, la fecha límite de postulación, la ponderación asignada a los criterios de selección y los recursos dispuestos para el llamado a postulación correspondiente. Sin embargo, con anterioridad al llamado a postulación se podrán fijar mediante resoluciones, los recursos destinados a la respectiva postulación.
 
-La resolución que disponga el llamado a postulación del concurso, indicará el puntaje de corte de la ficha CAS o del instrumento que la reemplace, la fecha máxima de presentación de las respuestas a las observaciones, la fecha límite de postulación y los recursos dispuestos para el llamado a postulación correspondiente. Sin embargo, con anterioridad al llamado a postulación se podrán fijar mediante resoluciones, los recursos destinados a la respectiva postulación.
+La resolución que disponga el llamado a concurso, indicará el puntaje de corte de la ficha CAS o del instrumento que la reemplace, la fecha máxima del Certificado de Calificación que habilite al proyecto a participar en el concurso y los recursos dispuestos para la selección correspondiente.
 
-Sin perjuicio de lo anterior, el Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a postulación en condiciones especiales. Dicha resolución establecerá cuales de los requisitos, condiciones y exigencias señaladas en este reglamento serán obligatorias de satisfacer para participar en dichos llamados. Sin embargo, en ningún caso se podrán modificar los requisitos establecidos en los Títulos III, IV y V de este reglamento.
+En las selecciones podrán participar los proyectos que a la fecha del último día de postulación de cada concurso cuenten con Certificado de Calificación.
 
-Los recursos que se destinen a los llamados especiales a que se refiere el inciso anterior, no podrán exceder del 25% de los recursos del respectivo programa anual.
+Sin perjuicio de lo anterior, el Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a concurso en condiciones especiales. Dicha resolución establecerá cuales de los requisitos, condiciones y exigencias señaladas en este reglamento serán obligatorias de satisfacer para participar en dicho concurso.
 
 ### Párrafo 2° — . De los Factores de Selección
 
@@ -1084,23 +670,21 @@ Los proyectos serán seleccionados en los llamados a concurso evaluando los sigu
 
 a) Porcentaje de familias monoparentales.
 
-b) Porcentaje de familias en que cualquiera de sus miembros esté afectado por alguna discapacidad y se encuentre inscrito en el Registro Nacional de la Discapacidad.
+b) Porcentaje de personas integrantes del proyecto afectadas por alguna discapacidad debidamente acreditada con certificado del COMPIN.
 
-c) Porcentaje de familias en que cualquiera de sus miembros se encuentre aquejado por una enfermedad catastrófica, certificada por la Comisión de Medicina Preventiva e Invalidez, COMPIN.
+c) Porcentaje de personas integrantes del proyecto aquejadas por enfermedad catastrófica, certificada por la Comisión de Medicina Preventiva e Invalidez, COMPIN.
 
-d) Porcentaje de personas adultas mayores integrantes del grupo, considerando para tales efectos como adultos mayores a hombres y mujeres de 60 años o más, incluidos los que cumplan esa edad durante el año calendario en que se efectúe el llamado a concurso.
+d) Porcentaje de personas adultos mayores integrantes del proyecto, considerando para tales efectos como adultos mayores a hombres y mujeres de 60 años o más, incluidos los que cumplan esa edad durante el año calendario en que se efectúe el llamado a concurso.
 
-e) Porcentaje de menores de 15 años, considerando entre ellos los que cumplen los 15 años durante el año calendario del llamado a concurso.
+e) Porcentaje de personas menores de 15 años integrantes del proyecto, considerando entre ellos los que cumplen los 15 años durante el año calendario del llamado a concurso.
 
-f) Porcentaje de familias en que cualquiera de sus integrantes esté reconocido como víctima en el Informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por D.S. N° 1040, de Interior, de 2004.
+f) Porcentaje de personas integrantes del proyectos reconocidas como víctimas en el Informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por D.S. N° 1040, de Interior, de 2004.
 
-2) Condición de pobreza: reflejada en el puntaje Ficha CAS.
+2) Condición de Vulnerabilidad: reflejada en el puntaje de Ficha CAS o del instrumento que la reemplace.
 
-3) Mayor monto promedio de aportes adicionales: por cada postulante integrante del grupo, expresado en Unidades de Fomento.
+3) Mayor monto promedio de aportes adicionales: por cada postulante integrante del grupo, expresado en Unidades de Fomento o su equivalente en aportes no monetarios provenientes de asociación o apoyo de otros programas o instituciones de la Administración del Estado.
 
-4) Plan de habilitación social:
-
-Tratándose de Proyectos de Construcción de Viviendas, la evaluación se realizará en base a tres factores, considerando fundamental la coherencia, integralidad y metodología del conjunto de acciones en relación al diagnóstico establecido para el grupo de familias:
+4) Plan de Habilitación Social: Tratándose de Proyectos de Construcción de Viviendas, la evaluación se realizará en base a tres factores, considerando fundamental la coherencia, integralidad y metodología del conjunto de acciones en relación al diagnóstico establecido para el grupo de familias:
 
 a) Coherencia: Relación entre el diagnóstico de las familias del grupo, establecido en la Ficha de Diagnóstico y los objetivos, actividades y recursos que componen el Plan de Habilitación Social.
 
@@ -1108,53 +692,53 @@ b) Integralidad: Articulación de un conjunto de acciones planificadas para las 
 
 c) Metodología: Método destinado a asegurar el mayor número de participantes en cada una de las actividades y la mayor pertinencia de las mismas.
 
-Dependiendo de la tipología de proyectos, las ponderaciones de los factores antes señalados que se utilizarán para evaluar el Plan de Habilitación Social se medirán de acuerdo a lo establecido en la tabla siguiente:
+La evaluación del Plan de Habilitación Social se realizará conforme a la tabla siguiente:
 
-NOTA: VER DIARIO OFICIAL DE 21.08.2006, PAGINA 4
+VER DIARIO OFICIAL DE 18.08.2007, PÁGINA 11.
 
 5) Calidad del Proyecto: Este factor se aplicará sólo a los proyectos de construcción de viviendas y se evaluará la funcionalidad y habitabilidad en relación con la vivienda y con el conjunto, cuando corresponda:
 
-5.1.- Factores de Evaluación de la Vivienda:
+5.1.- Factores de Evaluación de la Vivienda: Aplicable a Proyectos de Densificación Predial, de Construcción en Sitio del Residente y de Construcción en Nuevos Terrenos:
 
-Aplicable a Proyectos de Densificación Predial, Construcción en Sitio del Residente y Construcción en Nuevos Terrenos:
+A. Respecto de la Vivienda Inicial se evaluará:
 
-* Respecto de la Vivienda Inicial se evaluará:
-
-a) Circulación: Se evalúa en planta de arquitectura las áreas destinadas a la circulación, incluyendo las que se superponen a otros usos. Se calificará como BUENO, cuando el porcentaje de circulación que distribuye a todos los recintos corresponda al 15% o menos, de la superficie inicial de la vivienda.
+a) Circulación: Se evaluará en planta de arquitectura las áreas destinadas a la circulación, incluyendo las que se superponen a otros usos.
 
 b) Distribución a Recintos: Se evaluará con mayor puntaje a los proyectos, en la medida que la circulación interior de la vivienda no se interponga a los recintos ni perjudique el funcionamiento de éstos.
 
 c) Superficie: Se calificará con mayor puntaje a los proyectos que tengan una superficie inicial mayor que la exigida, cumpliendo obviamente con los recintos mínimos conformados según lo indicado en el Cuadro Normativo.
 
-d) Iluminación y Asoleamiento: Se evaluará con mayor puntaje a los proyectos que tengan un mayor porcentaje de dormitorios con orientación hacia el nor-oriente.
+d) Iluminación y Asoleamiento: Se evaluará con mayor puntaje a los proyectos que tengan un mayor porcentaje de dormitorios con orientación hacia el nororiente.
 
-e) Factores de identidad del grupo: Se evaluarán con mayor puntaje los proyectos que respondan a la diversidad del grupo descrito en el autodiagnóstico y en el Plan de Habilitación Social, lo que podrá reflejarse en diferentes tipologías de vivienda según sus usuarios, tales como adulto mayor, discapacitados, viviendas taller, tipo de equipamiento comunitario u otro aspecto.
+e) Factores de identidad del grupo: Se evaluarán con mayor puntaje los proyectos que respondan a la diversidad del grupo descrito en el autodiagnóstico y en el Plan de Habilitación Social, lo que podrá reflejarse en diferentes tipologías de vivienda según sus usuarios, tales como adulto mayor, infantes, discapacitados, viviendas taller, tipo de equipamiento comunitario u otro aspecto.
 
-f) Instalación de Agua Caliente: se evaluará con mayor puntaje los proyectos que contemplen la instalación de calefont.
+f) Instalación de agua caliente: Se evaluará con mayor puntaje los proyectos que contemplen la instalación de calefont.
 
-* Respecto de la ampliación de la vivienda se evaluará:
+B. Respecto de la ampliación de la vivienda se evaluará:
 
 a) Ampliación: Se calificará con mayor puntaje a aquellas viviendas que contemplen la estructura de la ampliación proyectada, de manera que el usuario sólo asuma la instalación de cerramientos no estructurales, acondicionamiento y terminaciones.
 
-b) Iluminación y Asoleamiento: Se evaluará con mayor puntaje si con la ampliación proyectada, el proyecto logra que la mayoría de los dormitorios posean una buena iluminación y asoleamiento.
+b) Iluminación y asoleamiento: Se evaluará con mayor puntaje si con la ampliación proyectada, el proyecto logra que la mayoría de los dormitorios posean una buena iluminación y asoleamiento.
 
-c) Superficie a Ampliar: Se calificarán con mayor puntaje aquellos proyectos que superen en su etapa final la superficie mínima exigida de 55 m2. Esta ampliación deberá contar con Permiso de Edificación.
+c) Superficie a ampliar: Se calificarán con mayor puntaje aquellos proyectos que superen en su etapa final la superficie mínima exigida de 55 m2. Esta ampliación deberá contar con Permiso de Edificación.
 
-5.2.- Factores de Evaluación de Localización:
+5.2.- Factores de Evaluación de Localización y Espacio Público:
 
 a) Ubicación según Instrumento de Planificación Territorial: Se calificará con mayor puntaje aquellos conjuntos que se ubiquen dentro de áreas urbanas de las ciudades, respecto de aquellos que se ubiquen en áreas rurales o de extensión urbana, dada la facilidad de acceso a servicios en estas áreas.
 
-b) Factibilidad Sanitaria: Se evaluarán con mayor puntaje los proyectos que se ubiquen dentro del territorio operacional de la empresa sanitaria correspondiente.
+b) Factibilidad sanitaria: Se evaluarán con mayor puntaje los proyectos que se ubiquen dentro del territorio operacional de la empresa sanitaria correspondiente.
 
-c) Red Vial: Se calificarán con mayor puntaje los proyectos que cuenten con acceso a una vía local o de mayor rango ya existente, como por ejemplo una vía troncal, colectora o de servicio, según el artículo 2.3.2. de la Ordenanza General de Urbanismo y Construcciones.
+c) Red vial: Se calificarán con mayor puntaje los proyectos que cuenten con acceso a una vía local o de mayor rango ya existente, como por ejemplo una vía troncal, colectora o de servicio, según el artículo 2.3.2. de la Ordenanza General de Urbanismo y Construcciones.
 
-d) Acceso a Servicios y Transporte Público: Se calificarán con mayor puntaje los proyectos que estén próximos a servicios de transporte público o a establecimientos educacionales básicos y pre-básicos y a establecimientos de salud primaria.
+d) Acceso a servicios y transporte público: Se calificarán con mayor puntaje los proyectos que estén próximos a servicios de transporte público o a establecimientos educacionales básicos y pre-básicos y a establecimientos de salud primaria.
 
 e) Diseño del espacio público: Se calificará con mayor puntaje los proyectos que incluyan factores de diseño de seguridad ciudadana, tendientes a lograr el control visual del espacio público, de muros ciegos, de iluminación u otros.
 
-Pauta de Evaluación de la Vivienda y Localización
+f) Equipamiento y/o entorno comunitario: se calificará con mayor puntaje aquellos proyectos de equipamiento y/o entorno comunitario que respondan a más de una de las necesidades del grupo, identificadas en el diagnóstico, como asimismo aquellos proyectos que incluyan una construcción destinada a Infocentro.
 
-VER DIARIO OFICIAL DE 22.11.2006, PÁGINA 5.
+PAUTA DE EVALUACION DE LA VIVIENDA Y LOCALIZACION
+
+VER DIARIO OFICIAL DE 18.08.2007, PÁGINA 12.
 
 ### Párrafo 3° — . Del Cálculo de Puntaje
 
@@ -1166,7 +750,7 @@ Nº Factores de Puntaje
 
 I Vulnerabilidad del grupo
 
-II Condición de Pobreza
+II Condición de Vulnerabilidad
 
 III Aportes adicionales
 
@@ -1228,13 +812,13 @@ Prisión Política y Tortura integrantes del
 
 grupo.
 
-### II. Condición de Pobreza:
+### II. Condición de Vulnerabilidad:
 
-5 puntos por cada punto de diferencia entre el puntaje CAS o del instrumento que la reemplace, promedio del grupo, y el puntaje de corte nacional o regional, según corresponda.
+Corresponderá a la diferencia entre el puntaje de corte y el puntaje de la Ficha CAS o del instrumento que la reemplace, promedio del grupo, dividido por 10.
 
-### III. Aportes Adicionales:
+III Aportes Adicionales:
 
-1 punto por cada Unidad de Fomento correspondiente al promedio de aporte adicional por familia, con un tope máximo de 100 puntos.
+Corresponderá 1 punto por cada Unidad de Fomento que represente el promedio de aporte adicional por familia, con un tope máximo de 100 puntos. En el caso de aportes provenientes de asociación o apoyo de otros programas o instituciones del de la Administración del Estado, se obtendrá 1,5 punto por cada Unidad de Fomento correspondiente al promedio de aporte adicional por familia con un tope máximo de 150 puntos.
 
 ### IV. Plan de Habilitación Social - PHS:
 
@@ -1254,19 +838,17 @@ Tratándose de proyectos con Calificación Definitiva que no resultaron seleccio
 
 #### Artículo 40
 
-La selección se efectuará por estricto orden de puntaje, seleccionando primeramente aquellos proyectos que cuenten con Certificado de Calificación Definitiva y aquellos que no obstante contar con Certificado de Calificación Condicionada reúnan los requisitos para acceder al subsidio que regula el Título XVI. De quedar recursos disponibles se elegirá también, por estricto orden de puntaje, entre aquellos que cuenten con Certificado de Calificación Condicionada pero que no se encuentren en la situación antes indicada.
-
-La selección se efectuará hasta agotar los recursos disponibles para el otorgamiento de subsidios en el llamado en cada región, provincia o comuna según corresponda, para el correspondiente llamado, o hasta agotar los recursos disponibles para la prestación de los Servicios de Asistencia Técnica en cada región, provincia o comuna si éstos se agotaren antes. Los recursos excedentes serán destinados a incrementar la disponibilidad correspondiente para los futuros concursos, en la misma región.
+La selección se efectuará por estricto orden de puntaje, seleccionando aquellos proyectos que cuenten con Certificado de Calificación Definitiva. Si quedaren recursos disponibles, se preseleccionarán, por estricto orden de puntaje, aquellos proyectos que cuenten con Certificado de Calificación Condicionada, a los cuales sin embargo no se les otorgará certificado de subsidio hasta que hayan subsanado su condicionalidad. No obstante lo anterior, en el caso de los proyectos con Calificación Condicionada debido a la no acreditación de la inscripción de dominio sobre el terreno en los términos señalados por el artículo 15, podrá obtener anticipos, para proceder al pago del terreno según lo establece el Artículo 52 y con ello resolver el problema de su condicionalidad, sin embargo no se le entregará el certificado de subsidio hasta obtener la calificación definitiva.
 
 No obstante lo anterior, el Ministro de Vivienda y Urbanismo podrá, mediante resoluciones, redestinar los recursos para atender a los proyectos que continúen en la lista de prelación de una o más regiones y, en tal caso, sólo podrán ser seleccionados proyectos con Certificado de Calificación Definitiva.
 
-En cualquier caso, si los recursos fueren insuficientes para seleccionar un proyecto en su totalidad, se seguirá con los siguientes proyectos por estricto orden de prelación hasta completar los recursos disponibles para el llamado.
-
-Si se declarare caducado el certificado de subsidio, conforme a los artículos 45, 46 y 49 del presente reglamento, mediante resoluciones del Ministro de Vivienda y Urbanismo o del SEREMI, según corresponda, se podrá seleccionar un proyecto postulante correspondiente a la misma Región que el proyecto eliminado, que siga en el orden de puntaje obtenido por la totalidad de proyectos de Calificación Definitiva no seleccionados en el último llamado a concurso. El proyecto reemplazante sólo podrá comprometer un monto total de subsidios igual o menor a los recursos disponibles.
-
 #### Artículo 41
 
-Las nóminas de los postulantes seleccionados y los respectivos proyectos serán aprobadas por resoluciones del Ministro de Vivienda y Urbanismo. Tratándose de llamados extraordinarios a que alude el artículo 34, las nóminas serán aprobadas por resoluciones del SEREMI respectivo. Ambas resoluciones serán publicadas en el Diario Oficial. Sin perjuicio de lo anterior, el MINVU o la respectiva SEREMI, según corresponda, dispondrán la publicación de las nóminas de los proyectos seleccionados en un diario de circulación nacional o regional, respectivamente, excepto tratándose de la modalidad Proyectos de Adquisición de Viviendas Construidas.
+Los proyectos seleccionados con Calificación Definitiva serán aprobados y asignados sus recursos por resoluciones del Ministro de Vivienda y Urbanismo. Tratándose de llamados extraordinarios a que alude el artículo 34, las nóminas de los proyectos serán aprobadas por resoluciones del SEREMI respectivo. Ambas resoluciones serán publicadas en el Diario Oficial.
+
+La resolución señalada en el inciso anterior también aprobará y comprometerá los recursos para los proyectos con Calificación Condicionada, los cuales quedarán en calidad de preseleccionados, pero no se les otorgará Certificado de Subsidio ni podrán obtener anticipos a cuenta de éste hasta que mediante resolución del SEREMI respectivo se declare su calidad de proyecto seleccionado por haber obtenido Calificación Definitiva.
+
+El MINVU o la respectiva SEREMI, según corresponda, dispondrán la publicación de las nóminas de los proyectos seleccionados con Calificación Definitiva, en un diario de circulación nacional o regional, respectivamente, excepto de los Proyectos de Adquisición de Viviendas Existentes.
 
 #### Artículo 42
 
@@ -1292,29 +874,29 @@ a. Nombre del Proyecto Habitacional;
 
 b. Nombre de la EGIS;
 
-c. Tipología de Proyecto;
+c. Nombre y Cédula Nacional de Identidad del beneficiario;
 
-d. Nombre y Cédula Nacional de Identidad del beneficiario y de su cónyuge;
+d. Fecha de emisión;
 
-e. Fecha de emisión;
+e. Monto del ahorro acreditado y del subsidio obtenido;
 
-f. Monto del ahorro acreditado y del subsidio obtenido;
+f. Región y comuna en que se aplicará el subsidio;
 
-g. Región y comuna en que se aplicará el subsidio;
+g. Fecha de vencimiento del certificado.
 
-h. Fecha de vencimiento del certificado;
-
-i. Singularización del Permiso de Edificación, en su caso.
-
-j. Identificación del terreno.
+En el caso de Proyectos con Calificación Condicionada se les otorgará un Certificado de Preselección, el cual señalará la razón de su condicionalidad y el plazo de que disponen para subsanarla conforme al artículo 45 o al artículo 46, según corresponda. Una vez subsanada la razón de la condicionalidad y sancionada por resolución del SEREMI respectivo su condición de proyecto seleccionado, se le entregará el Certificado de Subsidio.
 
 #### Artículo 45
 
-Tratándose de proyectos que cuenten con Certificado de Calificación Condicionada por no tener a la fecha de su ingreso al Banco, inscripción de dominio sobre el terreno a nombre de las entidades o personas a que se refiere este reglamento, la EGIS dispondrá de 45 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución que aprueba la selección del proyecto respectivo, para acreditar la inscripción de dominio correspondiente. De lo contrario el SERVIU, mediante resolución, declarará caducados los Certificados de Subsidio extendidos a favor de los integrantes del grupo seleccionado, haciendo devolución a la EGIS del proyecto con todos sus antecedentes.
+Tratándose de proyectos que cuenten con Certificado de Calificación Condicionada por no tener a la fecha de su ingreso al Banco, inscripción de dominio sobre el terreno a nombre de las entidades o personas a que se refiere este reglamento, la EGIS dispondrá de 60 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución que aprueba la selección del proyecto respectivo, para acreditar la inscripción de dominio correspondiente. De lo contrario el SERVIU, mediante resolución, declarará caducados los Certificados de Subsidio extendidos a favor de los integrantes del grupo seleccionado, haciendo devolución a la EGIS del proyecto con todos sus antecedentes.
+
+En casos justificados, mediante resoluciones fundadas del SEREMI respectivo, podrá prorrogarse el plazo a que se refiere el inciso anterior, hasta por 30 días más. Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo, a solicitud del SEREMI respectivo, podrá otorgarse una nueva prórroga.
 
 #### Artículo 46
 
-Tratándose de proyectos que cuenten con Certificado de Calificación Condicionada por no haber presentado el Permiso de Edificación y que resulten seleccionados en un llamado a concurso, la EGIS dispondrá de 45 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución que aprueba la selección de los proyectos, para presentar al SERVIU el Permiso de Edificación con el objeto de obtener el Certificado de Calificación Definitiva y que se entreguen a los beneficiarios los Certificados de Subsidio señalados en el artículo 44. Si la EGIS no acompaña el Permiso de Edificación dentro de dicho plazo, el SERVIU, mediante resolución, declarará caducados los Certificados de Subsidio, devolviendo a la EGIS el proyecto con todos sus antecedentes.
+Tratándose de proyectos que cuenten con Certificado de Calificación Condicionada por no haber presentado el Permiso de Edificación y que resulten seleccionados en un llamado a concurso, la EGIS dispondrá de 60 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución que aprueba la selección de los proyectos, para presentar al SERVIU el Permiso de Edificación con el objeto de obtener el Certificado de Calificación Definitiva y que se entreguen a los beneficiarios los Certificados de Subsidio señalados en el artículo 44. Si la EGIS no acompaña el Permiso de Edificación dentro de dicho plazo, el SERVIU, mediante resolución, declarará caducados los Certificados de Subsidio, devolviendo a la EGIS el proyecto con todos sus antecedentes.
+
+En casos justificados, mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo, a solicitud del SEREMI respectivo, se podrá prorrogar el plazo mencionado en el inciso anterior.
 
 #### Artículo 47
 
@@ -1328,25 +910,23 @@ El periodo de vigencia de los Certificados de Subsidio será de 21 meses, contad
 
 No obstante lo anterior, por causas justificadas no imputables a la empresa constructora ni a la EGIS, se podrá prorrogar, por una sola vez, la vigencia de los Certificados de Subsidio, mediante resoluciones fundadas del SEREMI respectivo.
 
-### Párrafo 7º — . Inicio de obras
-
 #### Artículo 49
 
-Si al cabo de 60 días corridos, contados desde la publicación en el Diario Oficial de la resolución que aprueba la nómina que incluye el proyecto seleccionado, no se ha acreditado el inicio de obras, el SERVIU, mediante resolución fundada notificada a la EGIS mediante carta certificada, declarará caducados los Certificados de Subsidio correspondientes, devolviendo a la EGIS el proyecto con todos sus antecedentes y si se hubiere pagado el subsidio a que se refiere el Título XVI, deberá devolverse éste al valor de la Unidad de Fomento vigente a la fecha de su devolución; en caso contrario se podrá hacer efectiva la hipoteca que lo cauciona. El SERVIU podrá prorrogar el plazo a que se refiere este artículo hasta por 30 días más.
+Si al cabo de 90 días corridos, desde la fecha de emisión del Certificado de Subsidio, consignada en el mismo documento, no se ha acreditado el inicio de obras, el SERVIU, mediante resolución fundada notificada a la EGIS mediante carta certificada, declarará caducados los Certificados de Subsidio correspondientes, devolviendo a la EGIS el proyecto con todos sus antecedentes, y si se hubiere pagado el subsidio a que se refiere el Título XVI o se hubiere otorgado anticipos a cuenta del pago del subsidio, deberán devolverse éstos al valor de la Unidad de Fomento vigente a la fecha de su devolución; en caso contrario se hará efectiva la hipoteca y la boleta bancaria de garantía que los caucionan, respectivamente. El SEREMI podrá prorrogar el plazo a que se refiere este artículo hasta por 30 días más. Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo, a solicitud del SEREMI respectivo, podrá otorgarse una nueva prórroga.
 
 ### Párrafo 8° — . Reemplazo de postulantes
 
 #### Artículo 50
 
-Desde el ingreso del proyecto al Banco y hasta antes de la selección, la EGIS podrá reemplazar a los postulantes que renuncien o sean excluidos del proyecto habitacional, pudiendo en esta etapa reemplazar hasta un 10% del número total de postulantes que integran el proyecto. Para estos efectos, hará devolución del respectivo Certificado de Subsidio adjuntando al mismo la carta de renuncia en la que conste la firma del renunciante y la firma del o de los representantes legales de la EGIS aceptando la renuncia, o copia autorizada del Acta de la Asamblea, debidamente aprobada de acuerdo a sus estatutos, en que conste la exclusión.
+Desde la calificación del proyecto en el Banco y hasta la dictación de la resolución a que se refiere el artículo 41 que sanciona la selección, la EGIS no podrá reemplazar a los postulantes que renuncien o sean excluidos del proyecto habitacional.
 
-Con posterioridad a la selección y hasta antes del pago del último subsidio, se podrá reemplazar hasta el 5% del número total de postulantes que integran el grupo. En la modalidad Adquisición de Viviendas Construidas no se podrán realizar reemplazos.
+Con posterioridad a la selección y hasta antes del pago del último subsidio, se podrá reemplazar hasta el 10% del número total de postulantes que integran el grupo, debiendo hacerse devolución al SERVIU del respectivo Certificado de Subsidio acompañando carta de renuncia suscrita por el renunciante y con la firma del o de los representantes legales de la EGIS aceptando la renuncia, o copia autorizada del Acta de la Asamblea, debidamente aprobada de acuerdo a sus estatutos, en que conste la exclusión. En el caso de Adquisición de Viviendas Construidas no se podrán realizar reemplazos.
 
 En casos calificados, a petición del Director del SERVIU, el SEREMI podrá, mediante resoluciones fundadas, autorizar que el reemplazo de postulantes y/o viviendas exceda dichos porcentajes.
 
 Si la EGIS se negare a acoger la renuncia voluntaria de un postulante a un grupo, éste podrá reclamar de esta decisión ante el SERVIU, quien podrá exigir a la EGIS que proceda al reemplazo, quien deberá cumplir con esta exigencia dentro de los 30 días siguientes de esa comunicación. Si no lo hiciere, el SERVIU podrá designar un reemplazante siempre que este cumpla con los requisitos definidos en los Títulos III, IV y V de este reglamento.
 
-En cualquier situación de reemplazo el puntaje de Ficha CAS del reemplazante deberá ser igual o inferior al puntaje de corte regional definido en el Título III de este reglamento.
+En cualquier situación de reemplazo el puntaje de Ficha CAS o el instrumento que la reemplace del reemplazante deberá ser igual o inferior al puntaje de corte regional definido en el Título III de este reglamento.
 
 ### Párrafo 9º — . Reemplazo de postulantes
 
@@ -1354,13 +934,13 @@ En cualquier situación de reemplazo el puntaje de Ficha CAS del reemplazante de
 
 En caso de fallecer el postulante o beneficiario, se designará un sustituto, mediante resolución del Director de SERVIU, quién se considerará beneficiario para todos los efectos. Para dicha designación se tendrá presente lo siguiente:
 
-. Se considerará como sustituto, en primer lugar, al cónyuge o conviviente, siempre que éste haya sido declarado por el causante en su solicitud de inscripción y que no esté afecto a los impedimentos o prohibiciones señalados en el artículo 6º de este reglamento.
+. Se considerará como sustituto, en primer lugar, al cónyuge o conviviente, siempre que esté incluido en su ficha CAS o en el instrumento que la reemplace y que no esté afecto a los impedimentos o prohibiciones señalados en el artículo 6º de este reglamento.
 
-. Si el cónyuge o conviviente no hubiere sido declarado por el postulante o estuviere afecto a los impedimentos o prohibiciones antes señalados, se podrá designar como sustituto a aquel ascendiente o descendiente del causante que tuviere, a juicio del SERVIU, el mejor derecho para obtener la vivienda, siempre que acredite que a la fecha del fallecimiento vivía con el postulante y a sus expensas. En caso que se opte por un descendiente y éste fuese menor de edad, para estos efectos se estará a las normas del Código Civil.
+. Si el cónyuge o conviviente no estuviere incluido en su ficha CAS o en el instrumento que la reemplace o estuviere afecto a los impedimentos o prohibiciones antes señalados, se podrá designar como sustituto a aquel ascendiente o descendiente del causante que tuviere, a juicio del SERVIU, el mejor derecho para obtener la vivienda, siempre que acredite que a la fecha del fallecimiento vivía con el postulante y a sus expensas. En caso que se opte por un descendiente y éste fuese menor de edad, para estos efectos se estará a las normas del Código Civil.
 
 . El SERVIU atenderá, además, para efectuar esta designación, a que el sustituto esté en condiciones de cumplir con todas las obligaciones asumidas por el causante al postular o al momento en que pueda hacerse efectivo el subsidio, según corresponda.
 
-. De los requisitos del postulante señalados en el artículo 4º de este reglamento sólo se exigirá al sustituto que acredite formar parte de un grupo familiar cuyo puntaje Ficha CAS se encuentre dentro del máximo definido por la región, aun cuando no integre el grupo familiar declarado por el causante.
+. De los requisitos del postulante señalados en el artículo 4º de este reglamento sólo se exigirá al sustituto que acredite formar parte de un grupo familiar cuyo puntaje Ficha CAS o el instrumento que la reemplace se encuentre dentro del máximo definido por la región, aun cuando no integre el grupo familiar declarado por el causante.
 
 El fallecimiento que dé origen a esta sustitución se acreditará mediante el respectivo certificado de defunción.
 
@@ -1372,7 +952,7 @@ Tratándose de Proyectos de Construcción en Nuevos Terrenos, si las disponibili
 
 Para estos efectos se podrá solicitar el giro de hasta dos cuotas, cada una no superior al 15% del monto total del subsidio, las que serán pagadas directamente al vendedor del terreno señalado como tal en la escritura de compraventa. Para el primer giro será necesario presentar los siguientes antecedentes:
 
-. Copia de la inscripción de dominio con certificado de vigencia extendido con no más de 30 días de anterioridad a la fecha de su presentación, a nombre de la EGIS o del grupo organizado.
+. Copia de la inscripción de dominio con certificado de vigencia extendido con no más de 30 días de anterioridad a la fecha de su presentación, a nombre de la EGIS.
 
 . Prohibición de enajenar a favor del SERVIU inscrita en el Conservador de Bienes Raíces. Esta prohibición será alzada respecto de cada una de las viviendas del proyecto al constituirse la prohibición a que se refiere en artículo 55 de este reglamento.
 
@@ -1384,11 +964,11 @@ Para estos efectos se podrá solicitar el giro de hasta dos cuotas, cada una no 
 
 No se exigirá boleta bancaria de garantía para caucionar los giros destinados al pago del terreno, no obstante lo cual deberá acreditarse la inscripción en el Conservador de Bienes Raíces al favor del SERVIU, de la prohibición de enajenar exigida en el inciso anterior.
 
-En caso que el terreno no hubiese sido pagado en su totalidad con el primer giro, para el pago del saldo se efectuará un segundo giro, contra presentación de informe de avance físico de obras de a lo menos un 30%, certificado por el Prestador de Servicios de Asistencia Técnica. Este avance será por partidas terminadas de acuerdo a presupuesto compensado, el que deberá ser verificado por el SERVIU.
+En caso que el terreno no hubiese sido pagado en su totalidad con el primer giro, para el pago del saldo se efectuará un segundo giro, contra presentación de informe de avance físico de obras de a lo menos un 30%, certificado por el Inspector Técnico de Obras (ITO). Este avance será por partidas terminadas de acuerdo a presupuesto compensado, el que deberá ser verificado por el SERVIU.
 
 #### Artículo 53
 
-Tratándose de Proyectos de Construcción, si las disponibilidades de caja lo permiten, el SERVIU podrá efectuar anticipos a cuenta del pago del subsidio, destinados a financiar la ejecución física de las obras.
+Tratándose de Proyectos de Construcción con Certificado de Calificación Definitiva, si las disponibilidades de caja lo permiten, el SERVIU podrá efectuar anticipos a cuenta del pago del subsidio, destinados a financiar la ejecución física de las obras.
 
 Para estos efectos, la empresa a cargo de la construcción del proyecto podrá solicitar al SERVIU como anticipo un máximo de cinco giros a cuenta del pago del subsidio, contra avance de obras. Para determinar el monto máximo de recursos que podrá girarse a la empresa constructora por concepto de anticipos por avance de obras, deberá descontarse del monto total del subsidio la parte correspondiente al pago del terreno, en su caso y, a lo menos, un 10% del saldo, el que será girado conforme a lo señalado en el artículo 55 de este reglamento. Este monto máximo podrá ser pagado como anticipo en un máximo de 5 giros, no pudiendo ninguno de los giros exceder el 25% del monto total del subsidio.
 
@@ -1404,9 +984,9 @@ a) Acompañar copia del contrato de construcción firmado entre la EGIS, el o lo
 
 b) Acreditar que el constructor se encuentra inscrito en el Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, o en el Registro Nacional de Contratistas del Ministerio de Vivienda y Urbanismo, y que su inscripción se mantiene vigente para la región respectiva, lo que será verificado por el SERVIU directamente en el Registro respectivo. Este requisito no será exigible a los constructores personas jurídicas integradas por sociedades en que a lo menos uno de sus socios cuente con inscripción vigente en alguno de esos Registros, lo que deberá acreditarse por los interesados con copia de los instrumentos públicos correspondientes.
 
-c) Acompañar informe emitido por el Prestador de Servicios de Asistencia Técnica que señale el valor del avance de las obras ejecutado conforme, expresado en su equivalente en Unidades de Fomento, excepto cuando se trate del primer anticipo.
+c) Acompañar informe emitido por el Inspector Técnico de Obras (ITO) que señale el valor del avance de las obras ejecutado conforme, expresado en su equivalente en Unidades de Fomento, excepto cuando se trate del primer anticipo.
 
-d) Entregar boleta bancaria de garantía por un monto no inferior al del anticipo que cauciona, extendida a favor del SERVIU, pagadera a la vista a su sola presentación, de plazo indefinido o en su defecto por un plazo que exceda a lo menos en 90 días al de la vigencia del respectivo convenio suscrito entre la EGIS y el SERVIU, expresada en Unidades de Fomento, o en pesos, moneda nacional. En este último caso deberá incluir, además, un monto adicional correspondiente a una proyección de reajuste calculado de acuerdo al coeficiente fijado mediante resoluciones del Ministro de Vivienda y Urbanismo. Sea que la boleta de garantía estuviese expresada en Unidades de Fomento o en pesos, moneda nacional, deberá incluir, además, una cantidad adicional correspondiente a una proyección de intereses, calculada de acuerdo a una tasa porcentual que se fijará por resoluciones del Ministro de Vivienda y Urbanismo en base al promedio de los intereses pagados por los Bancos e Instituciones Financieras para los depósitos en Cuenta de Ahorro a Plazo para la Vivienda.
+d) Entregar boleta bancaria de garantía por un monto no inferior al del anticipo que cauciona, extendida a favor del SERVIU, pagadera a la vista a su sola presentación, de plazo indefinido o en su defecto por un plazo que exceda a lo menos en 90 días al de la vigencia del subsidio, expresada en Unidades de Fomento, o en pesos, moneda nacional. En este último caso deberá incluir, además, un monto adicional correspondiente a una proyección de reajuste calculado de acuerdo al coeficiente fijado mediante resoluciones del Ministro de Vivienda y Urbanismo. Sea que la boleta de garantía estuviese expresada en Unidades de Fomento o en pesos, moneda nacional, deberá incluir, además, una cantidad adicional correspondiente a una proyección de intereses, calculada de acuerdo a una tasa porcentual que se fijará por resoluciones del Ministro de Vivienda y Urbanismo en base al promedio de los intereses pagados por los Bancos e Instituciones Financieras para los depósitos en Cuenta de Ahorro a Plazo para la Vivienda.
 
 En caso de existir una variación en el monto del anticipo solicitado, la boleta bancaria de garantía podrá complementarse o reemplazarse hasta caucionar el monto total del anticipo solicitado.
 
@@ -1434,11 +1014,11 @@ Para acceder a estos anticipos se deberán presentar los siguientes antecedentes
 
 . Programación física y financiera de las obras.
 
-Tratándose de Proyectos de Densificación Predial o de Construcción en Sitio del Residente, el SERVIU podrá otorgar como anticipo por avance de obra el monto del subsidio correspondiente a cada vivienda terminada, descontando el 10% del monto total del respectivo subsidio y el subsidio destinado a equipamiento comunitario, si lo hubiere. En todo caso, para hacer efectivo este pago por avance, se solicitarán los mismos antecedentes señalados en el inciso anterior.
+Tratándose de viviendas terminadas de un proyecto, que puedan habilitarse independientemente, siempre que cuenten con recepción de la Dirección de Obras Municipales y se hayan practicado las inscripciones correspondientes en el Conservador de Bienes Raíces, el SERVIU podrá pagar el subsidio correspondiente a estas viviendas. En todo caso, para hacer efectivo este pago, se solicitarán los mismos antecedentes exigidos para el pago del subsidio en el artículo 55.
 
 #### Artículo 55
 
-El SERVIU pagará el subsidio, descontado el monto de los giros efectuados por concepto de anticipos, contra la presentación de un informe emitido por el Prestador de Servicios de Asistencia Técnica, en pesos, moneda nacional, al valor que tenga la Unidad de Fomento a la fecha de su pago efectivo.
+El SERVIU pagará el subsidio, descontado el monto de los giros efectuados por concepto de anticipos, contra la presentación de un informe emitido por el Inspector Técnico de Obras (ITO), en pesos, moneda nacional, al valor que tenga la Unidad de Fomento a la fecha de su pago efectivo.
 
 Para proceder al pago el SERVIU exigirá la presentación de los documentos que para cada caso se señala, según la operación en la cual se hubiere aplicado el certificado de subsidio:
 
@@ -1474,7 +1054,7 @@ La prohibición a que se refieren los números 1. y 2. del inciso segundo de est
 
 #### Artículo 56
 
-La EGIS deberá acreditar domicilio en la región en la que presente un proyecto habitacional. Para operar como EGIS en este programa habitacional, la entidad deberá suscribir, además del convenio señalado en el artículo 43 de este reglamento, un convenio de usuario SIPvi con el SERVIU. Las EGIS que debido a la localización geográfica de sus oficinas no cuente con acceso apropiado a Internet, estará exenta de cumplir los requisitos anteriores.
+Podrán desarrollar las labores de EGIS las personas jurídicas de derecho público o privado que suscriban el convenio señalado en el artículo 43 y que además hubieren acreditado que cuentan con oficinas adecuadas para la atención personalizada de público en cada una de las regiones en que operarán.
 
 #### Artículo 57
 
@@ -1482,7 +1062,9 @@ El SERVIU podrá actuar como EGIS, en los siguientes casos:
 
 a) En el caso que luego de ingresado un proyecto al Banco la EGIS patrocinante del proyecto esté impedida o se desista de continuar con su desarrollo, siempre que no hubiere otras EGIS interesadas que operen en la región.
 
-b) Cuando no existan EGIS dispuestas a patrocinar un proyecto habitacional.
+b) Cuando no existan EGIS dispuestas a patrocinar un proyecto habitacional, previa autorización de la Subsecretaria de Vivienda y Urbanismo, a petición fundada del Director SERVIU respectivo.
+
+c) En el caso señalado en el inciso final del Artículo 53.
 
 #### Artículo 58
 
@@ -1538,19 +1120,19 @@ d) Diseñar y ejecutar el Plan de Habilitación Social:
 
 La elaboración de este plan se desarrollará a partir del diagnóstico individual y colectivo realizado por la EGIS con las familias integrantes del proyecto habitacional y su posterior implementación.
 
-e) Contratar las obras, previa elaboración de las bases, haciendo el correspondiente llamado a licitación para su contratación, efectuar la evaluación técnica de las ofertas y posterior selección, adjudicación y suscripción del contrato de construcción correspondiente.
+e) La contratación de las obras. Tratándose de EGIS que por la legislación que las rige estén obligadas a llamar a licitación para la contratación de las obras, previa elaboración de las bases deberán efectuar el correspondiente llamado a licitación, efectuando la evaluación técnica de las ofertas y posterior selección, adjudicación y suscripción del contrato de construcción correspondiente.
 
 El contrato de construcción deberá incluir, a lo menos, las cláusulas que se establezcan en el Contrato Tipo que proporcionará el SERVIU.
 
 Lo dispuesto en este artículo no se aplicará en casos calificados en que el SERVIU actúe o asuma la función de EGIS.
 
-## Título XV — DE LA ADQUISICIÓN DE VIVIENDAS CONSTRUIDAS
+## Título XV — DE LA ADQUISICION DE VIVIENDAS EXISTENTES
 
 #### Artículo 60
 
-Las EGIS que deseen actuar en esta tipología de proyectos, al solicitar el respectivo certificado de subsidio deberán entregar los antecedentes indicados en el artículo 32 de este reglamento. Una vez evaluados positivamente los antecedentes por el SERVIU, se emitirá un certificado de subsidio que tendrá vigencia de 90 días corridos, contados desde la fecha de su emisión.
+Las EGIS que deseen actuar en esta modalidad, deberán entregar la totalidad de los antecedentes indicados en el Artículo 32 de este reglamento. Una vez evaluados positivamente los antecedentes por el SERVIU, se emitirá un certificado de subsidio que tendrá vigencia de 180 días corridos, contados desde la fecha de su emisión.
 
-Dicho plazo de vigencia se podrá prorrogar por una sola vez hasta por 30 días corridos, en el caso que la EGIS acredite mediante presentación al SERVIU, efectuada antes del vencimiento del plazo a que se refiere el inciso anterior, que la respectiva escritura ingresó al Conservador de Bienes Raíces para practicar sus inscripciones.
+El Ministro de Vivienda y Urbanismo podrá mediante resoluciones prorrogar el plazo mencionado en el inciso anterior.
 
 #### Artículo 61
 
@@ -1558,7 +1140,7 @@ El orden de prelación para efectuar la reserva de cupos de subsidio en la tipol
 
 #### Artículo 62
 
-La cantidad de subsidios a otorgar se sujetará a las disponibilidades presupuestarias anuales y de acuerdo a la programación operativa anual correspondiente a este Programa. Una vez que los recursos destinados para este efecto se agoten, no se recibirán más solicitudes de reservas.
+La cantidad de subsidios a otorgar se sujetará a las disponibilidades presupuestarias anuales y de acuerdo a la programación operativa anual correspondiente a este Programa. Una vez que los recursos destinados para este efecto se agoten, no se recibirán más ingresos de antecedentes.
 
 #### Artículo 63
 
@@ -1568,15 +1150,23 @@ Si la EGIS no perfeccionare la operación correspondiente dentro del plazo previ
 
 #### Artículo 64
 
-El subsidio diferenciado a la localización es una subvención adicional a la que podrán acceder los grupos postulantes, destinada al financiamiento de la adquisición del terreno en el cual se emplazará el proyecto de construcción, siempre que cumplan con los requisitos y condiciones exigidos en el presente Título.
+El subsidio diferenciado a la localización es una subvención adicional a la que podrán acceder los grupos postulantes, destinada al financiamiento de la adquisición y habilitación del terreno en el cual se emplazará el proyecto de construcción, siempre que cumplan con los requisitos y condiciones exigidos en el presente Título.
+
+Los Proyectos de Adquisición de Viviendas, a que se refiere el Titulo XV del presente reglamento, obtendrán el subsidio diferenciado a la localización conforme a lo señalado en el artículo 65 bis.
 
 #### Artículo 65
 
-Para obtener el subsidio diferenciado a la localización los proyectos de construcción deberán considerar un tamaño máximo de 150 viviendas, estar ubicados en ciudades de 30.000 o más habitantes, de acuerdo al último Censo de Población de que se disponga con anterioridad a la respectiva postulación, y reunir las condiciones y requisitos que más adelante se señalan. Mediante resoluciones del Ministro de Vivienda y Urbanismo, visadas por la Dirección de Presupuestos del Ministerio de Hacienda, se aprobará el listado de ciudades de 30.000 o más habitantes, el monto máximo de subsidio diferenciado a la localización para cada una de ellas y el "factor corrector de avalúo" para los efectos de lo dispuesto en el inciso primero del artículo 68. Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo, lictadas a petición del respectivo SEREMI, se podrá disponer la aplicación de este subsidio en ciudades con menor número de habitantes.
+Para obtener el subsidio diferenciado a la localización, los Proyectos de Construcción en nuevos terrenos y densificación predial deberán considerar un tamaño máximo de 150 viviendas, estar ubicados en una ciudad de 5.000 o más habitantes, de acuerdo al último Censo de Población de que se disponga con anterioridad a la respectiva postulación, y reunir las condiciones y requisitos que más adelante se señalan. El monto máximo de subsidio diferenciado a la localización será de 200 Unidades de Fomento por beneficiario. Mediante resoluciones del Ministro de Vivienda y Urbanismo se establecerá el "factor corrector de avalúo" para los efectos de lo dispuesto en el inciso primero del artículo 68, como asimismo el que se utilizará en el subsidio diferenciado a la localización para postulaciones de Adquisición de Viviendas, para los efectos de lo dispuesto en el Artículo siguiente.
+
+#### Artículo 65 bis
+
+Para obtener el subsidio diferenciado a la localización, los Proyectos de Adquisición de Viviendas Construidas y de Adquisición de Viviendas Existentes deberán cumplir, en cuanto a su ubicación, con la calificación máxima en los factores de localización signados con las letras a), b), c) y d) del número 5.2., del artículo 35, conforme a la Pauta de Evaluación y Localización inserta en dicho Artículo, correspondiendo a la EGIS acreditar el factor acceso a servicios y transporte público signado con la letra d), no siendo necesaria la certificación exigida para este factor en dicha Pauta.
+
+El monto de este subsidio corresponderá al valor que resulte de multiplicar el "factor corrector de avalúo" fijado mediante la resolución a que se refiere el Artículo anterior, por el avalúo fiscal de la propiedad. El monto máximo para este subsidio para el caso de adquisición de viviendas existentes será de 200 Unidades de Fomento y para el caso de adquisición de viviendas construidas a que se refiere el Capitulo II del presente reglamento será de 100 Unidades de Fomento. En ambos casos este subsidio sumado con el que corresponda conforme al artículo 3°, no podrá exceder, en conjunto, el precio de venta de la vivienda estipulado en la escritura respectiva.
 
 #### Artículo 66
 
-Para acceder al subsidio que regula este Título, el terreno destinado al emplazamiento del proyecto deberá haber obtenido el máximo de puntaje contemplado en la Pauta de Evaluación de Localización contenida en el artículo 35. El cumplimiento de las condiciones para dicha calificación será verificado en terreno por el SERVIU durante el proceso de calificación del proyecto.
+Para acceder al subsidio de adquisición de terreno en los proyectos de construcción en nuevos terrenos y de densificación predial, el terreno destinado al emplazamiento del proyecto deberá haber obtenido los máximos de puntaje contemplados en la Pauta de Evaluación de Localización contenida en el artículo 35. El cumplimiento de las condiciones para dicha calificación será verificado en terreno por el SERVIU durante el proceso de calificación del proyecto. Excepcionalmente, en casos calificados, el SEREMI podrá, mediante resoluciones fundadas, eximir a un terreno de cumplir el puntaje máximo por concepto de acceso a servicios y transporte público de dicha Pauta de Evaluación, para obtener el subsidio a la localización que regula el presente Título.
 
 #### Artículo 67
 
@@ -1584,13 +1174,23 @@ A lo menos un 60% de los integrantes del grupo postulante deberá provenir de la
 
 #### Artículo 68
 
-El monto de este subsidio corresponderá al valor que resulte de multiplicar el "factor corrector de avalúo" por el monto del avalúo fiscal del terreno, resultado que, dividido por el numero de postulantes, no podrá exceder el máximo de subsidio a la localización por beneficiario definido para cada ciudad en las resoluciones a que se refiere el artículo 65 de este Título. El total del subsidio a la localización que obtendrá el grupo no podrá ser superior al precio de venta del terreno. El subsidio a la localización podrá complementarse con el porcentaje del subsidio destinado al pago de terreno, de acuerdo a la letra a) del articulo 17 de este reglamento y/o con aportes de terceros.
+El monto de este subsidio para la adquisición del terreno corresponderá al valor que resulte de multiplicar el "factor corrector de avalúo" por el monto del avalúo fiscal del terreno, resultado que, dividido por el numero de postulantes, no podrá exceder el máximo de subsidio a la localización por beneficiario definido en el Artículo 65 de este Título. El total del subsidio a la localización que obtendrá el grupo no podrá ser superior al precio de venta del terreno. El subsidio a la localización podrá complementarse con el porcentaje del subsidio destinado al pago de terreno, de acuerdo a la letra a) del articulo 17 de este reglamento y/o con aportes de terceros.
 
 Si el terreno a adquirir, no obstante estar emplazado en el área urbana, estuviere calificado como agrícola conforme a la Ley N°17.235, sobre Impuesto Territorial, para la aplicación de la fórmula definida en el inciso anterior, se tomará como referencia el avalúo fiscal de las propiedades colindantes.
 
+#### Artículo 68 bis
+
+El subsidio diferenciado a la localización destinado a la habilitación del terreno, sólo podrá ser aplicado a terrenos que cumplan los criterios de localización señalados en el artículo 66, pudiendo destinarse al pago de las siguientes obras: mejoramiento estructural del suelo, rellenos estructurales compactados, muros de contención, estabilización de taludes, defensas fluviales, canalización de quebradas, pilotajes profundos (u otro tipo de fundaciones especiales), pavimentación cuando la vía tenga una pendiente superior al 10% y plantas elevadoras de aguas servidas u otra solución sanitaria especial.
+
+Para los efectos de lo dispuesto en el inciso anterior, la EGIS deberá presentar para la evaluación y aprobación del SERVIU respectivo, un presupuesto fundamentado y detallado de las obras de habilitación que se realizarán.
+
+El monto de subsidio a otorgar para la habilitación del terreno corresponderá al del presupuesto aprobado por el SERVIU y no podrá exceder de 100 Unidades de Fomento por cada familia, no obstante lo cual el total de este subsidio cederá en favor de todo el grupo postulante en conjunto.
+
+La suma del subsidio para la adquisición del terreno y para la habilitación del mismo no podrá exceder de 200 Unidades de Fomento por beneficiario, conforme al Artículo 65.
+
 #### Artículo 69
 
-El subsidio diferenciado a la localización será pagado directamente al vendedor del terreno en una cuota. Para el pago de este subsidio será necesario presentar los siguientes antecedentes:
+El subsidio diferenciado a la localización para la adquisición del terreno será pagado directamente al vendedor del terreno en una cuota. Si las disponibilidades de caja no lo permiten, el SERVIU podrá pagar este subsidio en cuotas. Para el pago del subsidio a la adquisición del terreno, o de la primera cuota del mismo, en su caso, será necesario presentar los siguientes antecedentes:
 
 * Copia de la inscripción de dominio con certificado de vigencia, a nombre de la EGIS o del grupo organizado, extendido con no más de 30 días de anterioridad a la fecha de su presentación.
 
@@ -1600,9 +1200,11 @@ El subsidio diferenciado a la localización será pagado directamente al vendedo
 
 * Copia del acta de entrega material del terreno.
 
+El subsidio para la habilitación del terreno se entenderá como parte integrante del subsidio para proyectos de construcción señalado en el artículo 3°, por lo que se aplicará a su respecto lo establecido en los artículos 53 y 54 del presente reglamento.
+
 #### Artículo 70
 
-En razón del subsidio diferenciado a la localización recibido, la vivienda construida estará sujeta, además de la prohibición de 5 años a que se refiere el artículo 55, a la prohibición de enajenar durante 15 años, contados desde la fecha de su inscripción en el Conservador de Bienes Raíces.
+En razón del subsidio diferenciado a la localización recibido, la vivienda construida estará sujeta, en vez de la prohibición de 5 años a que se refiere el artículo 55, a la prohibición de enajenar durante 15 años, contados desde la fecha de su inscripción en el Conservador de Bienes Raíces.
 
 Transcurrido el plazo de 15 años, la prohibición caducará automáticamente de pleno derecho. El beneficiario que deseare enajenarla antes del cumplimiento de dicho plazo, deberá obtener del SERVIU la autorización correspondiente, la que se otorgará bajo la condición que se le restituya el monto del subsidio a la localización recibido, al valor de la Unidad de Fomento vigente a la fecha de la restitución, salvo que el beneficiario adquiera una nueva vivienda con el producto de la venta de la vivienda anterior y siempre que la nueva vivienda cumpla con los requisitos exigidos en este Título para la obtención del subsidio a la localización.
 
@@ -1636,73 +1238,25 @@ CAPITULO SEGUNDO: DEL PROGRAMA FONDO SOLIDARIO DE VIVIENDA II
 
 #### Artículo 75
 
-Para los efectos de este Capítulo se estará a los siguientes vocablos y su definición:
-
-"Programa Fondo Solidario de Vivienda II o FSV II : el programa que regula el presente Capítulo, destinado a prestar atención habitacional a familias que están comprendidas dentro del 40% de los hogares más pobres según el Instrumento de Caracterización Socioeconómica.".
-
-"Subsidio Habitacional o Subsidio: ayuda estatal directa, que se otorga por una sola vez al beneficiario, sin cargo de restitución por parte de éste, y que constituye un complemento del ahorro que necesariamente deberá tener el beneficiario, y del crédito en su caso, destinado a proporcionar una solución habitacional a las familias a cuya atención está destinado este programa.".
-
-"Vivienda Construida: vivienda nueva, o vivienda usada calificada conforme al Manual de Tasaciones aprobado por Resolución N° 347, (V. y U.), de 2004, que cuente con recepción definitiva acreditada mediante certificado de la Dirección de Obras Municipales correspondiente.
+El programa que regula el presente Capítulo, está destinado preferentemente a prestar atención habitacional a familias comprendidas dentro del 40% de los hogares con mayor vulnerabilidad.
 
 #### Artículo 76
 
-Las normas del Capítulo Primero del presente reglamento y específicamente las que regulan los Proyectos de Adquisición de Viviendas Construidas, se aplicarán supletoriamente a este Programa, en todo aquello que no aparezca expresamente normado en este Capítulo y siempre que aquéllas no se contrapongan con éstas.
+Las normas del Capítulo Primero del presente reglamento y específicamente las que regulan los Proyectos de Adquisición de Viviendas Existentes, se aplicarán supletoriamente a este Programa, en todo aquello que no aparezca expresamente normado en este Capítulo y siempre que aquéllas no se contrapongan con éstas.
 
 #### Artículo 77
 
-Podrán acceder a este programa los postulantes cuya caracterización socioeconómica, de conformidad con la Ficha CAS, sea igual o inferior al puntaje de corte nacional o regional para el segundo quintil, según se determine mediante resoluciones del MINVU.
-
-En caso de postulación colectiva, para los efectos del cálculo del puntaje CAS éste se determinará como un promedio, sumando el puntaje CAS de todas las familias del respectivo grupo y dividiendo el resultado por el número de familias.
+Podrán acceder a este programa los postulantes cuya caracterización socioeconómica, de conformidad con la Ficha. CAS o el instrumento que la reemplace, sea igual o inferior al puntaje de corte nacional o regional para el segundo quintil, según se determine mediante resoluciones del MINVU.
 
 #### Artículo 78
 
-El MINVU participará en este programa otorgando al postulante un subsidio habitacional para financiar la adquisición de una vivienda construida.
+El MINVU participará en este programa otorgando al postulante un subsidio habitacional para financiar la adquisición de una vivienda construida. No obstante lo anterior, tratándose de Proyectos de Integración Social o de Construcción Colectiva en Zonas Rurales, podrán postular proyectos de construcción con familias a cuya atención está destinado este Título, en cuyo caso la Comisión Técnica Evaluadora a que se refiere el artículo 11 será la encargada de evaluar los antecedentes técnicos, legales y económicos del Proyecto. En este último caso, las viviendas a construir deberán cumplir con el Cuadro Normativo inserto en el artículo 19 del presente reglamento.
 
-El monto máximo de subsidio podrá alcanzar hasta el equivalente a la cantidad que para cada caso se señala en la tabla siguiente, expresada en Unidades de Fomento, según la comuna de emplazamiento de la vivienda:
+El monto del subsidio será el establecido para el Capítulo Segundo en el cuadro inserto en el artículo 3°. Para las postulaciones a la Adquisición de Viviendas Construidas no regirá el incremento de 2 Unidades de Fomento por cada medio metro cuadrado que exceda la superficie indicada en dicho precepto, establecido en el inciso tercero del artículo 3°.
 
-Comuna de Emplazamiento Monto Máximo
+Las postulaciones a la Adquisición de Viviendas Construidas o Proyectos de Construcción insertos en Proyectos de Integración Social, podrán obtener subsidio diferenciado a la localización conforme al Título XVI del presente reglamento.
 
-del Proyecto de Subsidio
-
-Habitacional (en UF)
-
-Todas las comunas de la XII Región
-
-con excepción de Punta Arenas. 420
-
-Comuna de Punta Arenas, de la XII Región 360
-
-Todas las comunas de la XI Región y
-
-comunas de la Provincia de Palena de la
-
-X Región 420
-
-Comunas de la Provincia de Chiloé, de la
-
-X Región 360
-
-Áreas de desarrollo indígena (ADI) 360
-
-Isla Mocha de la Comuna de Lebu e Isla
-
-Santa María de la Comuna de Coronel, de
-
-la VIII Región 360
-
-Comunas de Isla de Pascua y Juan
-
-Fernández, de la V Región 420
-
-Resto de las comunas del país 280
-
-En cada programa anual, el Ministerio de Vivienda y Urbanismo podrá destinar hasta el 30% de los recursos dispuestos para cada año, a proyectos que se desarrollen en comunas incluidas en Planes Reguladores Intercomunales o Metropolitanos, en cuyo caso el monto máximo de subsidio señalado en la tabla contenida en el inciso segundo podrá alcanzar hasta 320 Unidades de Fomento.
-
-Este subsidio se adicionará con los montos que le corresponda percibir a la EGIS de acuerdo a la Resolución Nº 533, (V. y U.), de 1997, por las tareas que desempeñe en el cumplimiento de estas funciones.
-
-Mediante resoluciones del Ministro de Vivienda y Urbanismo, visadas por el Ministerio de Hacienda, se fijará anualmente la cantidad de recursos que se destinarán a financiar los subsidios de este programa, en las que podrán establecerse, además, montos máximos de subsidio inferiores a los fijados en la tabla inserta en el inciso segundo, para determinadas regiones, provincias o comunas del país.
-
-En caso que el beneficiario o uno o más integrantes del grupo familiar acreditado por éste estuviere inscrito en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en la tabla precedente y en el inciso tercero de este artículo, se adicionarán hasta 20 Unidades de Fomento, siempre que se acredite al momento del pago del subsidio, que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante.
+El subsidio a que se refiere este artículo se adicionará con los montos que le corresponda percibir a la EGIS de acuerdo a la Resolución Nº 533 (V. y U.), de 1997, por las tareas que desempeñe en el cumplimiento de estas funciones y, cuando corresponda, con los establecidos en los incisos cuarto y octavo del artículo 3°.
 
 #### Artículo 79
 
@@ -1710,7 +1264,7 @@ Cada postulante deberá acreditar un ahorro mínimo de 30 Unidades de Fomento, e
 
 #### Artículo 80
 
-El interesado en optar al programa habitacional que regula el presente Capítulo podrá solicitar un crédito complementario para el financiamiento de la vivienda, sea éste hipotecario o sin garantía hipotecaria. Estos créditos se regirán, en lo que fuere procedente, por las normas del Párrafo 2º del Capítulo II del D.S. Nº 40, (V. y U.), de 2004. En los convenios que se suscriban al efecto con entidades crediticias conforme al inciso final del artículo 31 del reglamento antes citado, podrán pactarse beneficios similares a los contemplados en él para otro tipo de créditos destinados al mismo objeto.
+Los postulantes del programa habitacional FSV II o de Proyectos de Construcción Colectiva en Zonas Rurales, podrán solicitar un crédito complementario para el financiamiento de la vivienda, sea éste hipotecario o sin garantía hipotecaria. Estos créditos se regirán, en lo que fuere procedente, por las normas del Párrafo 2º del Capítulo II del D.S. Nº 40, (V. y U.), de 2004. En los convenios que se suscriban al efecto con entidades crediticias conforme al inciso final del artículo 31 del reglamento antes citado, podrán pactarse beneficios similares a los contemplados en él para otro tipo de créditos destinados al mismo objeto.
 
 Para los créditos sin garantía hipotecaria regirá lo dispuesto en el inciso final del artículo 33 del D.S. Nº 40, (V. y U.), de 2004.
 
