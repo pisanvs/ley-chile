@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.301, de 31 de julio de 2007, de esta Subsecretaría, autorízase a HUGO SEGUNDO DIAZ MARIN para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en calle 3 s/n esquina calle 1, sector Isla Santa María, Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 31 de julio de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
