@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCION EXENTA DEL SERVICIO DE IMPUESTOS INTERNOS Nº 93, DEL 16 DE AGOSTO DE 2007, QUE ACTUALIZA NORMAS SOBRE OBLIGACION DE PRESENTAR DECLARACION JURADA SOBRE OPERACIONES DE CREDITO DE DINERO ACOGIDAS A LA EXENCION DEL IMPUESTO DE TIMBRES Y ESTAMPILLAS ESTABLECIDA EN EL Nº 11 DEL ARTICULO 24º DEL DL Nº 3.475, DE 1980, QUE BENEFICIA A DICHAS OPERACIONES CUANDO ESTEN DESTINADAS AL FINANCIAMIENTO DE EXPORTACIONES, Y REEMPLAZA RESOLUCION EXENTA Nº 02, DE 14.01.2003
+
+1. Los contribuyentes otorgantes de créditos de dinero que se hayan acogido a la exención establecida en el Nº 11 del artículo 24º del DL Nº 3.475, que beneficia a las operaciones de crédito de dinero destinadas al financiamiento de exportaciones, deberán informar al Servicio de Impuestos Internos mediante Declaración Jurada Anual Nº 1855 en las condiciones que establece la presente resolución, hasta el 30 de junio de cada año, respecto de todas aquellas operaciones acogidas a la mencionada exención, cuya fecha de emisión o suscripción de los documentos gravados, otorgamiento o fecha de desembolso o de utilización en el caso de líneas de crédito, esté comprendida dentro del Año Calendario inmediatamente anterior.
+
+Igual obligación de informar corresponderá a los bancos o entidades que tramiten las operaciones de crédito de dinero acogidas al mencionado beneficio cuando el acreedor sea una persona sin domicilio ni residencia en Chile. En los casos en que las operaciones de crédito del exterior sean intermediadas por una persona con domicilio o residencia en Chile, la obligación de informar corresponderá al deudor, a excepción que éste se encuentre obligado a informar la operación de crédito de acuerdo a lo establecido en la resolución exenta Nº 28, de 09.02.2004, que obliga a presentar Declaración Jurada Anual Nº 1857, caso en el cual quedará eximido de informar dichas operaciones, mediante Declaración Jurada Anual Nº 1855.
+
+2. Deróguese la resolución exenta Nº 02, de 14.01.2003.
+
+3. La presente resolución regirá a partir de su publicación en extracto en el Diario Oficial. El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto de 2007.
+
+- Ricardo Escobar Calderón, Director.
