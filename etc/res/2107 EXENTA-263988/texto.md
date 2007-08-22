@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.107, de 20 de julio de 2007, de esta Subsecretaría, autorízase a COMERCIAL ANDROC Y CIA. LTDA., para ampliar las actividades pesqueras de transformación autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Camino Sur Nº 6403, Km. 6,5 Punta Arenas, XII Región, en las líneas de proceso de Fresco-Enfriado, Congelado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de julio de 2007.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
