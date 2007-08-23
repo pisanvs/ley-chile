@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.245 de 27 de julio de 2007 de esta Subsecretaría, autorízase a RIGOBERTO FRANCISCO VARNET BARRIENTOS para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en la localidad de Piruquina Rural, Panamericana Norte Km 10, Castro, Chiloé, X Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado, Seco salado, Ahumado, Conserva y Alga seca, los recursos hidrobiológicos indicados en la resolución extractada. Valparaíso, 27 de julio de 2007.
+
+- Jorge Chocair Santibáñez, Subsecretario de Pesca.
