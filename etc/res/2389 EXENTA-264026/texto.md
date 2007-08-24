@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.389, de 09 de agosto de 2007, de esta Subsecretaría, autorízase a GESAM CONSULTORES LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la fauna íctica presente en el río Diguillín, Cuenca del Río Itata, VIII Región".
+
+El objetivo de la pesca de investigación consiste en recopilar la información histórica de la flora y fauna local y describir la fauna íctica.
+
+La pesca de investigación se efectuará por el término de doce meses, en 6 puntos de muestreo ubicados en el Río Diguillín, VIII Región, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos auxiliares, ejemplares de las especies nativas Lamprea de bolsa, Lamprea de agua dulce, Pocha de Los Lagos, Bagre o Tollo, Bagrecito, Bagre grande, Puye, Truchita o Coltrao, Puye, Cauque o Pejerrey, Pirihuelo, Cauque del norte, Cauque de molina, Cauque de itata, Pejerrey chileno, Perca trucha o Trucha criolla, Trucha negra o Trucha criolla, Carmelita o Coloradita y Carmelita de Concepción; e introducidas Pejerrey argentino, Carpa, Trucha arcoiris, Trucha fario, Trucha de arroyo y Dorado.
+
+Valparaíso, 9 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
