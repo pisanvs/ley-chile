@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.439, de 16 de agosto de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111193, presentada por SALMONES MULTIEXPORT LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Chaffers, al oeste de Isla Bolados, Ensenada sin nombre, XI Región.
+
+Valparaíso, 16 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
