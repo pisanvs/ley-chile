@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.236, de 26 de julio de 2007, de esta Subsecretaría, autorízase a GESAM CONSULTORES LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la fauna íctica presente en el río Maule y Claro de la comuna de San Clemente, VII Región".
+
+El objetivo de la pesca de investigación consiste en recopilar la información histórica de la flora y fauna local y describir la fauna íctica.
+
+La pesca de investigación se efectuará por el término de doce meses, en 8 puntos de muestreo ubicados en los ríos Maule y Claro, VII Región, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos auxiliares, ejemplares de las especies nativas Lamprea de bolsa, Lamprea de agua dulce, Pocha de Los Lagos, Pocha, Bagre o Tollo, Bagrecito, Bagre grande, Puye, Truchita o Coltrao, Puye, Cauque o Pejerrey, Cauque del norte, Pejerrey chileno, Perca trucha o Trucha criolla, Trucha negra o Trucha criolla y Carmelita o Coloradita; e introducidas Pejerrey argentino, Carpa, Gambusia, Salmón Coho o plateado, Salmón cereza, Trucha arcoiris, Salmón rey o Chinook, Salmón del Atlántico, Trucha fario, Trucha de arroyo, Dorado y Camarón de río.
+
+Valparaíso, 26 de julio de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
