@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.343, de 8 de agosto de 2007, de esta Subsecretaría, modifícase el numeral 4º de la resolución exenta Nº 1.534 de 2007, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATOLICA DEL NORTE, Sede Coquimbo, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2007-19 denominado "Evaluación directa de langostino colorado y langostino amarillo entre la II y la VIII Región, año 2007", en el sentido de reemplazar a la embarcación artesanal "Punta Talca" por la embarcación "Isabel S".
+
+Valparaíso, 8 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
