@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.391, de 9 de agosto de 2007, de esta Subsecretaría, autorízase al CENTRO UNIVERSITARIO INTERNACIONAL EUROPA - AMERICA LATINA DE INVESTIGACION Y FORMACION EN CIENCIAS AMBIENTALES DE LA UNIVERSIDAD DE CONCEPCION para efectuar una pesca de investigación de conformidad con el proyecto "Estudio biológico y ecológico de las poblaciones ícticas nativas e introducidas en la cuenca del río Mataquito, VII Región".
+
+El objetivo de la pesca de investigación consiste en analizar la calidad del agua en la zona potamal del río Mataquito, utilizando indicadores biológicos.
+
+La pesca de investigación se efectuará por el término de doce meses, contados desde la fecha de la presente resolución, en las estaciones de muestreo ubicadas en los ríos Mataquito y Huenchullami y en el Parque Nacional Laguna Torca, VII Región. El peticionario podrá capturar, mediante equipos de pesca eléctrica y redes agalleras, ejemplares de las especies primarias nativas: Lisa, Perca trucha y Bagre; e introducidas Carpa, Gambusia y Trucha arcoiris; y de las especies secundarias nativas: Pejerrey chileno, Pocha, Bagrecito, Carmelita y Perca negra. Sin perjuicio de lo anterior, podrá capturar, sin devolución, 5 ejemplares de las especies indicadas en la resolución extractada.
+
+Valparaíso, 9 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
