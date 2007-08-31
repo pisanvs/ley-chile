@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.473, 21 de agosto de 2007, de esta Subsecretaría, modifícase la resolución exenta Nº 1.453 de 2007, de esta Subsecretaría, que autorizó a la FUNDACION CHINQUIHUE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación del recurso Juliana (Tawera gayi) en Canal Desertores, X Región", aprobados por esta Subsecretaría mediante memorándum técnico citados en Visto, que se entienden formar parte integrante de la presente resolución, en los siguientes términos:
+
+1.- En su numeral 3º, en el sentido de indicar que la pesca de investigación se efectuará en bancos ubicados en las islas pertenecientes al Grupo Desertores, provincia de Palena, X Región; y
+
+2.- En su numeral 6.-, en el sentido de incrementar en 7.000 toneladas el límite máximo del recurso Juliana autorizado a extraer en el marco de la presente pesca de investigación, las que se fraccionarán en cuotas máximas de 1.000 toneladas mensuales. En el evento que la fracción mensual sea extraída antes del término del respectivo período, se deberán suspender las actividades autorizadas al amparo de la presente pesca de investigación hasta la fecha de inicio del mes siguiente.
+
+Valparaíso, 21 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
