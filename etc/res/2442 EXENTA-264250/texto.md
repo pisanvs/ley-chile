@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.442, de 17 de agosto de 2007, de esta Subsecretaría, autorízase a DEL CENTRO S.A., para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en camino Bulnes-Concepción Km. 16, Quillón, VIII Región, en las líneas de proceso de Cocido y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 17 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
