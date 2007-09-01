@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.505, de 27 de agosto de 2007, de esta Subsecretaría, declárase la caducidad parcial de las resoluciones Nº 700 de 1995, y Nº 65 de 1997, de esta Subsecretaría, sólo en cuanto autorizaron a PESQUERA FRIOSUR S.A., hoy Pesquera Friosur VIII S.A., para realizar actividades pesqueras extractivas con la nave "Friosur VIII", en el área marítima comprendida entre el límite norte de la IX Región y el 41º28,6' L.S., sobre el recurso Raya, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 27 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
