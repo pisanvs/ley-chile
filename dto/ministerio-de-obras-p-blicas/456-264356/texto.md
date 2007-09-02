@@ -1,0 +1,3 @@
+Por decreto MOP Nº 456, de fecha 29 de junio del 2007, se expropió el lote de terreno Nº 9, superficie 687,82 m2, Rol Nº 1535-1, comuna de Talca, VII Región para la obra: "Habilitación Avda. Circunvalación Río Claro en Talca, Avenida Lircay, Comuna de Talca, Provincia de Talca, VII Región", y se acordó el valor de indemnización con su propietaria Elba Mirella Muñoz Valenzuela, ascendente a la cantidad de $41.355.896.
+
+- Fiscal del Ministerio de Obras Públicas.
