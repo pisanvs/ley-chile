@@ -1,0 +1,3 @@
+Por decreto MOP Nº 455, de fecha 29 de junio de 2007, se expropió el lote de terreno Nº 67, superficie 59 m2, Rol Nº 543-57, comuna de Saavedra, IX Región para la obra: "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo II Km. 7,34893 al Km. 16,04700, provincia de Cautín, Comunas de Carahue y Saavedra, IX Región", y se acordó el valor de indemnización con su propietario Pedro Blas Peñailillo Núñez, ascendente a la cantidad de $7.158.774.
+
+- Fiscal del Ministerio de Obras Públicas.
