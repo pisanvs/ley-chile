@@ -1,0 +1,3 @@
+Por decreto MOP Nº 490, de 19 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 6, para la obra: "Mejoramiento Ruta 150, Tramo II, sector By - Pass Penco (Eje Principal)", que figura a nombre de Ulloa Novoa Delicia, rol de avalúo Nº 139-2, Comuna de Penco, VIII Región, superficie 155 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 8 de agosto de 2005, en la cantidad de $8.379.395.- para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
