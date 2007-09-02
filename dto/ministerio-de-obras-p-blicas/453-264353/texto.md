@@ -1,0 +1,3 @@
+Por decreto MOP Nº453, de fecha 29 de junio del 2007, se expropió el lote de terreno Nº5-B, superficie 801,00 m2, Rol Nº3706-109, comuna de Talca, VII Región para la obra: "Habilitación Avda. Circunvalación Río Claro en Talca, Comuna de Talca, Provincia de Talca, VII Región", y se acordó el valor de indemnización con su propietario José Alberto Garrido Garrido, ascendente a la cantidad de $9.456.180.
+
+- Fiscal del Ministerio de Obras Públicas.
