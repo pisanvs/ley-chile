@@ -1,0 +1,5 @@
+Por decreto MOP Nº 444, de 27 de junio de 2007 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3-B para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Rotonda Puerto Montt. Km.
+
+1.020,000 a 1.020,400, Décima Región, que figura a nombre de Suc. Hitschfeld Kinzel Matilde A, rol de avalúo 2141-39, comuna de Puerto Montt, superficie 987 m2. La comisión de peritos integrada por los señores Leopoldo Ramón Schumacher Guarda, Enrique Edgardo Hoelck Altmann y Patricio Fernando Casagrande Ulloa, fijó con fecha 15 de mayo de 2007, el valor provisional de la indemnización en la cantidad de $18.259.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
