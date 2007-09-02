@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución Nº 652 de 24 de julio de 2007 de Serviu Metropolitano, se ordenó expropiación parcial, conforme DL Nº 2.186 de 1978, del inmueble ubicado en calle Altamira 20 BL B Rosenblutt; Altamira 20 DP A; V. Mackenna 10710 L 1 Rosemblutt; V. Mackenna 10710 L 2 Rosemblutt; V. Mackenna 10710 LC 5 Rosenblutt; V. Mackenna 10716; V. Mackenna 10710 LC 3, presunto Rol de avalúo Nº 3500-59 al 64 y 75, comuna de La Florida, aparente dominio de Muñoz Bartsch Fresia de Lourdes y otros; correspondiente al Lote Nº 9, del Proyecto Vial "Habilitación Corredor de Transporte Público Avda. Vicuña Mackenna". Comisión integrada por peritos Verónica Olivier Valdebenito, arquitecto; Miguel Fernández Cádiz, constructor civil; e Ingrid von Osten Yáñez, ingeniero civil, según informe de 20 de septiembre de 2006, fijó monto provisional indemnización en $56.247.520.-, pagadera al contado.
+
+- Director Serviu Metropolitano.
