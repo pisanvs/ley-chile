@@ -1,0 +1,3 @@
+Por decreto MOP Nº 457, de fecha 29 de junio de 2007, se expropió el lote de terreno Nº 22, superficie 223.4 m2, Rol Nº 182-6, comuna de Quilicura, Región Metropolitana para la obra: "Mejoramiento del Cauce del Estero Las Cruces". Comunas de Quilicura y Pudahuel, Provincia de Santiago, Región Metropolitana, y se acordó el valor de indemnización con su propietario Mackenna y Mackenna S.A., ascendente a la cantidad de $8.159.015.
+
+- Fiscal del Ministerio de Obras Públicas.
