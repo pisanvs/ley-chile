@@ -30,7 +30,7 @@ Los funcionarios citados a declarar ante el investigador deberán fijar, en su p
 
 El funcionario se entenderá notificado cumplidos tres días desde que la carta haya sido despachada.
 
-d) El sumario administrativo será reservado hasta la fecha de formulación de cargos, oportunidad en la cual dejará de serlo para el inculpado y para el abogado que asumiere su defensa.
+d) DEROGADO.
 
 e) En el curso de una investigación sumaria, tratándose de personal de Secretaría, como medida preventiva y sin afectar las remuneraciones de el o los sumariados, el investigador podrá suspenderlos de sus labores o destinarlos transitoriamente a otro Tribunal del mismo tipo, con el acuerdo de los Jueces respectivos.
 
