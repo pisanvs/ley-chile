@@ -166,9 +166,11 @@ d) Conocer y fallar las faltas penales de conformidad con el procedimiento conte
 
 e) Conocer y fallar, conforme a los procedimientos regulados en el Título I del Libro IV del Código Procesal Penal, las faltas e infracciones contempladas en la Ley de Alcoholes, cualquiera sea la pena que ella les asigne;
 
-f) Hacer ejecutar las condenas criminales y las medidas de seguridad, y resolver las solicitudes y reclamos relativos a dicha ejecución, de conformidad a la ley procesal penal, y
+f) Hacer ejecutar las condenas criminales y las medidas de seguridad, y resolver las solicitudes y reclamos relativos a dicha ejecución, de conformidad a la ley procesal penal;
 
-g) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
+g) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
+
+h) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
 
 #### Artículo 15
 
@@ -224,7 +226,7 @@ Quillota, con dos jueces, con competencia sobre la misma comuna.
 
 Limache, con un juez, con competencia sobre las comunas de Limache y Olmué.
 
-Viña del Mar, con seis jueces, con competencia sobre las comunas de Viña del Mar y Concón.
+Viña del Mar, con siete jueces, con competencia sobre las comunas de Viña del Mar y Concón.
 
 Valparaíso, con nueve jueces, con competencia sobre las comunas de Valparaíso y Juan Fernández.
 
@@ -286,7 +288,7 @@ San Pedro de la Paz, con tres jueces, con competencia sobre la misma comuna.
 
 Chiguayante, con dos jueces, con competencia sobre las comunas de Chiguayante y Hualqui.
 
-Coronel, con un juez, con competencia sobre la misma comuna.
+Coronel, con dos jueces, con competencia sobre la misma comuna.
 
 Los Angeles, con cuatro jueces, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco.
 
@@ -324,7 +326,7 @@ Puerto Montt, con cuatro jueces, con competencia sobre las comunas de Puerto Mon
 
 Ancud, con un juez, con competencia sobre las comunas de Ancud y Quemchi.
 
-Castro, con un juez, con competencia sobre las comunas de Dalcahue, Castro, Chonchi, Puqueldón y Queilén.
+Castro, con dos jueces, con competencia sobre las comunas de Dalcahue, Castro, Chonchi, Puqueldón y Queilén.
 
 Undécima Región de Aisén del General Carlos Ibáñez del Campo:
 
@@ -350,7 +352,7 @@ Región Metropolitana de Santiago:
 
 Colina, con cuatro jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
 
-Puente Alto, con siete jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
+Puente Alto, con ocho jueces, con competencia sobre las comunas de Puente Alto, San José de Maipo y Pirque.
 
 San Bernardo, con diez jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
 
@@ -368,17 +370,17 @@ Segundo Juzgado de Garantía de Santiago, con quince jueces, con competencia sob
 
 Tercer Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Independencia y Recoleta.
 
-Cuarto Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
+Cuarto Juzgado de Garantía de Santiago, con dieciocho jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes y La Reina.
 
 Quinto Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Cerro Navia y Lo Prado.
 
 Sexto Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre las comunas de Estación Central y Quinta Normal.
 
-Séptimo Juzgado de Garantía de Santiago, con ocho jueces, con competencia sobre la comuna de Santiago.
+Séptimo Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre la comuna de Santiago.
 
-Octavo Juzgado de Garantía de Santiago, con nueve jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
+Octavo Juzgado de Garantía de Santiago, con diez jueces, con competencia sobre las comunas de Providencia y Ñuñoa.
 
-Noveno Juzgado de Garantía de Santiago, con diecisiete jueces, con competencia sobre las comunas de Maipú y Cerrillos.
+Noveno Juzgado de Garantía de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
 
 Décimo Juzgado de Garantía de Santiago, con cinco jueces, con competencia sobre las comunas de Lo Espejo y Pedro Aguirre Cerda.
 
@@ -414,9 +416,11 @@ a) Conocer y juzgar las causas por crimen o simple delito, salvo aquellas relati
 
 b) Resolver, en su caso, sobre la libertad o prisión preventiva de los acusados puestos a su disposición;
 
-c) Resolver todos los incidentes que se promuevan durante el juicio oral, y
+c) Resolver todos los incidentes que se promuevan durante el juicio oral;
 
-d) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
+d) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
+
+e) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
 
 #### Artículo 19
 
@@ -552,7 +556,7 @@ Segundo Tribunal de Juicio Oral en lo Penal de Santiago, con veintiún jueces, c
 
 Tercer Tribunal de Juicio Oral en lo Penal de Santiago, con veinticuatro jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
 
-Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con quince jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
+Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
 
 Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Maipú y Cerrillos.
 
@@ -1111,6 +1115,10 @@ Quien debiere cumplir las funciones del secretario del tribunal, de acuerdo a la
 #### Artículo 47
 
 B. Las atribuciones de las Cortes de Apelaciones previstas en el artículo 47 serán ejercidas por una sala integrada solamente por Ministros titulares.
+
+#### Artículo 47
+
+C. Tratándose de los tribunales de juicio oral en lo penal, las Cortes de Apelaciones podrán ejercer las potestades señaladas en el artículo 47, ordenando que uno o más de los jueces del tribunal se aboquen en forma exclusiva al conocimiento de las infracciones de los adolescentes a la ley penal, en calidad de jueces de garantía, cuando el mejor servicio judicial así lo exigiere.
 
 #### Artículo 48
 
@@ -5130,7 +5138,7 @@ Derogado.
 
 #### Artículo 526
 
-Sólo los chilenos podrán ejercer la profesión de abogado. Lo dicho se entenderá sin perjuicio de lo que dispongan los tratados internacionales vigentes.
+Los chilenos, y los extranjeros residentes que hayan cursado la totalidad de sus estudios de derecho en Chile, podrán ejercer la profesión de abogado. Lo anterior se entenderá sin perjuicio de lo que dispongan los tratados internacionales vigentes.
 
 #### Artículo 527
 
@@ -5564,7 +5572,7 @@ El jefe del establecimiento es responsable del cumplimiento de cuanto ordenare l
 
 #### Artículo 585 bis
 
-Derogado.
+Lo dispuesto en los artículos 567, 578, 580 y 581 será aplicable a los recintos en que se ejecuten las medidas de internación provisoria y de internación en régimen cerrado establecidas en la ley que regula la responsabilidad penal de los adolescentes.
 
 ### 3. Estados y publicaciones
 
