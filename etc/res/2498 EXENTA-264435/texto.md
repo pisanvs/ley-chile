@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.498, de 24 de agosto de 2007, de esta Subsecretaría, modifícase el numeral 4º de la resolución exenta Nº 2.418 de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FIP 2007-01 denominado "Evaluación del stock desovante de Anchoveta en la I y II regiones, año 2007", en el sentido de reemplazar a la nave industrial "Camiña" por la nave "Don Gino", ambas del armador Corpesca S.A.
+
+Valparaíso, 24 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
