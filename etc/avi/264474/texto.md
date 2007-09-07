@@ -1,0 +1,3 @@
+ACLARACION
+
+En el Diario Oficial de 4 de septiembre del presente año, aparece publicada una aclaración a la sentencia dictada por el Tribunal Constitucional recaída en el rol 783-07, sobre acción de inconstitucionalidad en contra del Auto Acordado que indica. En la parte que dice "Auto Acordado Relativo al Procedimiento a Utilizarse para ser Efectiva la Responsabilidad" debe sustituirse la expresión verbal "ser" por "hacer".
