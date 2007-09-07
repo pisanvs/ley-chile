@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.566, de 28 de agosto de 2007, de esta Subsecretaría, modifícase el numeral 5º inciso 1º de la resolución exenta Nº 2.035 de 2007, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2007-16 denominado "Evaluación hidroacústica de Merluza común, año 2007", en el sentido de señalar que la nave participante en la pesca de investigación podrá extraer una cuota total de 125 toneladas de Merluza común, en calidad de especie objetivo.
+
+Valparaíso, 28 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
