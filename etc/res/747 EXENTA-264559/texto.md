@@ -1,0 +1,5 @@
+RESOLUCIÓN DE CLAUSURA
+
+Por resolución exenta Nº 747, de 8 de agosto de 2007, se resolvió la clausura, a partir de esta fecha, de Estancia Segunda Angostura, del propietario Américo Vicente Blokker, roles 5101-020 y 5101-021. En consecuencia, queda prohibida la entrada o salida de animales fuera de los límites de los predios clausurados. Cualquier movimiento transporte o traslado proveniente de los predios clausurados, dentro territorio XII Región Magallanes y Antártica Chilena, deberá ser autorizado previamente por el SAG. El propietario debe realizar tratamiento antiparasitario a todos sus animales ovinos, mediante baño de inmersión con producto de reconocida efectividad, dentro de un plazo de 30 días corridos, a contar desde fecha de notificación de esta resolución. Deberá comunicar a oficina SAG la fecha exacta de aplicación del tratamiento antiparasitario, para visita inspectiva que permita comprobar el cumplimiento de la medida. Todos los gastos de aplicación de medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 8 de agosto 2007.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
