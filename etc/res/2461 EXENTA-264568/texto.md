@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.461, de 20 de agosto de 2007, de esta Subsecretaría, autorízase a BRAULIO ANTONIO ARAYA ROBLES para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Caleta San Marcos, Manzana C, Sitio Nº 8, Iquique, I Región, en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
