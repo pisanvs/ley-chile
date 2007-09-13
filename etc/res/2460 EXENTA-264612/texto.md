@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.460, de 20 de agosto de 2007, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES Y RAMOS SIMILARES DE CALETA CIFUNCHO para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Caleta Cifuncho, comuna de Tal Tal, II Región, donde podrá elaborar en la línea de proceso de Alga seca los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
