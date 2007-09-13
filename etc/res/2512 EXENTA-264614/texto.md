@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.512, de 27 de agosto de 2007, de esta Subsecretaría, autorízase a NOELFA DEL CARMEN AGUILAR ROBLEDO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Sitio 8, Manzana C, Caleta Río Seco, comuna y Provincia de Iquique, I Región, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
