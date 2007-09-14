@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.589, de 30 de agosto de 2007, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A. para ampliar las actividades pesqueras de transformación, autorizadas por las resoluciones citadas en Visto, en orden a incorporar a la planta ubicada en Gabriela Mistral Nº 453, Chonchi, Chiloé, X Región, en la línea de proceso de Congelado el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 30 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
