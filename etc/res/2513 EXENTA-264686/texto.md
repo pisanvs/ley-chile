@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.513, de 27 de agosto de 2007, de esta Subsecretaría, autorízase a VIVIANA ANDREA BUGUEÑO GALLARDO, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sitio 11, manzana 4, La Chimba, Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
