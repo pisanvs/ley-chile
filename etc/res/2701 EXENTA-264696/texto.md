@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.701, de 5 de septiembre de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 94101073, presentada por JORGE SIGIFREDO ERNESTO SCHADEBRODT PINUER, para instalar y operar un centro de cultivo ubicado en Estero Reloncaví, al norte de Farallones Marimeli, X Región.
+
+Valparaíso, 5 de septiembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
