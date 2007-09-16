@@ -1,0 +1,3 @@
+Por decreto MOP Nº496, de 19 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº61, para la obra: "Mejoramiento Pasadas Urbanas Villarrica - Pucón, Variante Camino Internacional", que figura a nombre de Matus Castillo Juan Elías, Rol de avalúo Nº114-55, Comuna de Pucón, IX Región, superficie 3.389 m². La Comisión de peritos fijó el monto provisional de la indemnización el 6 de febrero de 2006 en la cantidad de $137.947.000 para el lote Nº61. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
