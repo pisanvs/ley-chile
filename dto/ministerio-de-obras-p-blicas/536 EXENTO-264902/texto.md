@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº536 de 31 de julio de 2007, se expropió el lote de terreno Nº67, superficie 5.331 m², rol de Avalúo 237-96, comuna de Coelemu, para la obra "Camino Ruta 126, sector Coelemu - Rafael - Tomé, Tramo I, Km. 0,00000 a Km. 20,30000", VIII Región y se acordó el valor de la indemnización con su propietaria Dina Leonor Monsalvez Bascur y Otro, ascendente a la cantidad de $26.766.424.
+
+- Fiscal del Ministerio de Obras Públicas.
