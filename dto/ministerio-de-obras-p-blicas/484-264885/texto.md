@@ -1,0 +1,3 @@
+Por decreto MOP Nº484, de 19 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº17-A, para la obra: Camino Diagonal, Provincia de Chacabuco, Comuna de Colina, que figura a nombre de Sociedad Agrícola Bellavista L, Rol de avalúo 164-697, Comuna de Colina, Región Metropolitana, superficie 6.877 m². La Comisión de peritos fijó con fecha 18 de octubre de 2006 el monto de la indemnización provisional en la cantidad de $49.429.085 para el lote Nº17-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
