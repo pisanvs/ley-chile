@@ -1,0 +1,3 @@
+Por decreto MOP Nº529 de fecha 31 de julio de 2007, se expropiaron los lotes de terrenos Nºs. 40-B y 42-A, superficies 212,12 y 460,88 m², Rol Nº251-299, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 a Km. 23,49783, II Etapa" y se acordó el valor de indemnización con su propietaria Rosa Amelia Godoy Rojas, ascendente a la cantidad de $24.322.628.
+
+- Fiscal del Ministerio de Obras Públicas.
