@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Exento Nº 412 de 31 de julio de 2007, se expropió el lote de terreno Nº 1-A, superficie 122 m2, rol de Avalúo E/T, comuna de Vicuña, para la obra Camino Ruta 41-CH, Sector Huanta - Juntas del Toro, Tramo Km. 106,50000 a Km. 147,24220", IV Región y se acordó el valor de la indemnización con su propietaria Adelina Rita Aguirre Díaz, ascendente a la cantidad de $496.827.
+
+- Fiscal del Ministerio de Obras Públicas.
