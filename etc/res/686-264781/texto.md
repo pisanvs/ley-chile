@@ -1,0 +1,3 @@
+Por Resolución Nº 686 de 25 de julio de 2007 de Serviu Metropolitano, se ordenó expropiación total, conforme DL Nº 2.186 de 1978, del inmueble ubicado en Avda. 5 de Abril s/n, presunto Rol de Avalúo Nº 2009-8, comuna de Maipú, de aparente dominio de Cía. CIC S.A. y Comerc e Industrial; correspondiente al Lote Nº7-A, del Proyecto Vial "Habilitación de Corredor de Transporte Público Pedro Aguirre Cerda-Estación Central-Cerrillos-Maipú". Comisión integrada por Ricardo Strickler Arellano, arquitecto; Patricia Zabala Contreras, constructor civil; Gastón Bravo Hurtado, ingeniero civil; según informe de 20 de noviembre de 2006, fijó monto provisional indemnización en $18.411.000.- pagadera al contado.
+
+- Director Serviu Metropolitano.
