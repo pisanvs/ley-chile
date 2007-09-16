@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº 407 de 31 de julio de 2007, se expropió el lote de terreno Nº. 403-1, superficie 2.048 m2., rol de avalúo 332-418, comuna de Limache, para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 2: Km. 21.000,00 al Km. 38.500,00". Quinta Región, se acordó el valor de la indemnización con su propietario José del Rosario Durán Pérez, ascendente a la cantidad de $1.710.822.-.
+
+Fiscal del Ministerio de Obras Públicas.
