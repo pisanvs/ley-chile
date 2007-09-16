@@ -1,0 +1,3 @@
+Por decreto MOP Nº 543, de fecha 31 de julio del 2007, se expropiaron los lotes de terrenos Nºs 29 y 30, superficie 125 y 1.644 m2, respectivamente, Rol Nº 1524-235, comuna de Los Ángeles, VIII Región para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara, Km. 0,00000 al Km. 10,35968", y se acordó el valor de indemnización con su propietario Juan Acuña Sandoval, ascendente a la cantidad de $4.016.850.
+
+- Fiscal del Ministerio de Obras Públicas.
