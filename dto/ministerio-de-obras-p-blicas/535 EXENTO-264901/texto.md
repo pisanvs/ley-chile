@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº535 de 31 de julio de 2007, se expropió el lote de terreno Nº9, superficie 501 m², rol de Avalúo 139-49, comuna de Penco, para la obra "Mejoramiento Ruta 150, Tramo II, sector By - Pass Penco (Eje Principal)", VIII Región y se acordó el valor de la indemnización con su propietaria Rosa Ulloa Romero, ascendente a la cantidad de $3.570.337.
+
+- Fiscal del Ministerio de Obras Públicas.
