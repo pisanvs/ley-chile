@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 462, de fecha 30 de agosto del 2007, se expropió el lote de terreno Nº 2, superficie 412 m2, Rol Nº 8010-06, comuna de Alto del Carmen, III Región, para la obra "Conservación Periódica Ruta C-499, Variante Los Perales, Km. 0,00 al Km. 8,70, Provincia de Huasco, Región de Atacama Etapa III", y se acordó el valor de indemnización con su propietario David Danilo Rojas Villegas y Otros, ascendente a la cantidad de $661.023.
+
+- Fiscal del Ministerio de Obras Públicas.
