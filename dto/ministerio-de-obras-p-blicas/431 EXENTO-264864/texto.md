@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº431, de 31 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº90-D, para la ejecución de la obra Camino Ruta V-60, sector El Tepual - Las Quemas - Los Muermos, Km.
+
+0,00000 a Km. 32,27442, que figura a nombre de Juan Vargas Eirl, Rol de avalúo: 407-13, comuna de Los Muermos, superficie 4.512 M². La Comisión de Peritos, fijó con fecha 15 de septiembre de 2005, modificada por acta de fecha 23 de mayo de 2007, en la cantidad de $2.249.130, para el lote Nº90-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
