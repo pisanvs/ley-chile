@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 413 de 31 de julio de 2007, se expropiaron los lotes de terrenos Nºs. 2 y 2-A, superficies 45 y 12 m2, Rol Nº 141-009, comuna de Huasco, III Región para la obra "Construcción Camino Costero, Tramo Huasco-Carrizal, Provincia de Huasco, Región Atacama Etapa I" y se acordó el valor de indemnización con su propietaria Gladys Ernestina Barraza Galleguillos, ascendente a la cantidad de $458.152.
+
+- Fiscal del Ministerio de Obras Públicas.
