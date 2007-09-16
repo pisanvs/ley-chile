@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº468 de 30 de agosto de 2007, se expropiaron los lotes de terrenos Nºs. 98 y 99, superficies 180,00 y 183,00 m², rol de Avalúo 2206-207, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, Tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietario Hugo del Carmen Gutiérrez Contreras, ascendente a la cantidad de $1.875.335.
+
+- Fiscal del Ministerio de Obras Públicas.
