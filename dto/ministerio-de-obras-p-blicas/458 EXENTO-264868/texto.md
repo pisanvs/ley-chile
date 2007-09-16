@@ -1,0 +1,3 @@
+Por decreto exento MOP exento Nº458 de 30 de agosto de 2007, se expropió el lote de terreno Nº13, superficie 227 m², rol de Avalúo 46-148, comuna de Monte Patria, para la obra "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", IV Región y se acordó el valor de la indemnización con su propietario Víctor Luis Cortés Julio, ascendente a la cantidad de $2.148.353.
+
+- Fiscal del Ministerio de Obras Públicas.
