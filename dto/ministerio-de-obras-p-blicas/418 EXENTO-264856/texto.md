@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº418, de 31 de julio de 2007, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto exento MOP Nº1.083, de 31 de julio de 2001, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº40-A, expropiado a María Carlota Mittelmann Olguín, con motivo de la obra Camino Ruta V-505, Sector Puerto Varas - Los Alerces - Puerto Montt, Km. 0,000 a Km. 16,340. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de peritos, con fecha 22 de febrero de 2000, ascendente a la cantidad de $160.000.
+
+- Fiscal del Ministerio de Obras Públicas.
