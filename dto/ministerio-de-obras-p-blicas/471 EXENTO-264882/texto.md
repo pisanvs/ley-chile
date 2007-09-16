@@ -1,0 +1,3 @@
+Por decreto exento MOP, Nº471 de 30 de agosto de 2007, se expropió el lote de terreno Nº7, superficie 40 m², rol de Avalúo 46-123, comuna de Monte Patria, para la obra "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", IV Región y se acordó el valor de la indemnización con su propietario Felipe Artemio Ángel Fernández, ascendente a la cantidad de $1.299.144.
+
+- Fiscal del Ministerio de Obras Públicas.
