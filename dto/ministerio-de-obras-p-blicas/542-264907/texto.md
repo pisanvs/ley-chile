@@ -1,0 +1,3 @@
+Por decreto MOP Nº542, de fecha 31 de julio de 2007, se expropiaron los lotes de terreno Nºs. 31 y 32-A, superficies 282,88 y 12.369,00 m², respectivamente, Rol Nº851-2, comuna de Talca, para la obra "Habilitación Avda. Circunvalación Río Claro en Talca", VII Región, y se acordó el valor de la indemnización con su propietario, Asociación Gremial Agrícola Central, ascendente a la cantidad de $271.158.272.
+
+- Fiscal del Ministerio de Obras Públicas.
