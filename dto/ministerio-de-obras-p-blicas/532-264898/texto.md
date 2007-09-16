@@ -1,0 +1,3 @@
+Por decreto MOP Nº532 de fecha 31 de julio del 2007, se expropió el lote de terreno Nº13, superficie 1.031 m², Rol Nº864-7, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 - Km. 19,500, Provincia de Huasco, III Región, Etapa II", y se acordó el valor de indemnización con su propietario Ramiro Omar Arancibia Espinoza, ascendente a la cantidad de $3.869.823.
+
+- Fiscal del Ministerio de Obras Públicas.
