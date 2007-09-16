@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº470 de 30 de agosto de 2007, se expropió el lote de terreno Nº5, superficie 146 m², rol de Avalúo 46-125, comuna de Monte Patria, para la obra "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", IV Región y se acordó el valor de la indemnización con su propietario Luis Ovidio Angel Angel, ascendente a la cantidad de $772.027.
+
+- Fiscal del Ministerio Obras Públicas.
