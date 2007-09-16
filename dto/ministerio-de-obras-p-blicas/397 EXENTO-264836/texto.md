@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº397, de fecha 31 de julio de 2007, se expropió el lote de terreno Nº11, superficie 722 m², Rol Nº1502-181, comuna de Los Ángeles, para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara. Km. 0,00000 a Km. 10,35968", VIII Región, y se acordó el valor de la indemnización con su propietario Carmen Ramos Fernández y Otras, ascendente a la cantidad de $1.714.124.
+
+- Fiscal del Ministerio de Obras Públicas.
