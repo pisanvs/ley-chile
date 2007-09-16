@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº428, de 31 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nº17-A, 31-A1, 45-A, 45-B, 45-C y 45-D, para la ejecución de la obra Camino Ruta T-80, Sector La Unión - Las Trancas, tramo Km. 0,900 al Km. 10,99034, que figuran a nombre de Boettcher Ziegler Ingrid Helda, Suc. Fernández Hernández José, Briceno Carrasco Beraldo Segun, Nayen Soto Celin y Otra y Arriagada Miranda Paola, Roles de avalúo:524-301, 524-154, 524-548, 524-549, y 524-358, comuna de La Unión, superficies 140 m², 400 m², 1.197 m², 521 m², 472 m² y 1.072 m². La Comisión de Peritos, fijó con fecha 27 de junio de 2006, en las cantidades de $66.000, para el lote Nº17-A;
+
+$120.000, para lote Nº31-A1; $359.100, para el lote Nº45-A; $156.300, para el lote Nº45-B; $141.600, para el lote Nº45-C y $421.600, para el lote Nº45-D. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
