@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº398 de fecha 31 de julio de 2007, se expropió el lote de terreno Nº31, superficie 390 m², rol Nº244-2, comuna de Villa Alegre, para la obra "Camino Ruta L-202, Sector Villa Alegre - Putagan, Tramo Km. 0,00000 a Km. 11,44287", VII Región y se acordó el valor de la indemnización con su propietario Hismelda de Las Mercedes Durán Ibáñez, ascendente a la cantidad de $1.188.912.
+
+- Fiscal del Ministerio de Obras Públicas.
