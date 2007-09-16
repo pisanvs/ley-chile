@@ -1,0 +1,3 @@
+Por decreto (exento) Nº405, de fecha 31 de julio de 2007, se expropió el lote de terreno Nº13, superficie 539 m², Rol Nº 2510-20, comuna de Los Ángeles, VIII Región, para la obra "Camino Ruta Q-15, sector Los Ángeles - Santa Clara, Km. 0,0000 a Km. 10,35968" y se acordó el valor de indemnización con su propietario Jaime Gatica Villa, ascendente a la cantidad de $1.797.386 para el lote Nº13.
+
+- Fiscal del Ministerio de Obras Públicas.
