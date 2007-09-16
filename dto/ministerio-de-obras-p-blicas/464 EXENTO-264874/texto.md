@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº464 de fecha 30 de agosto de 2007, se expropió el lote de terreno Nº1, superficie 24 m², Rol Nº46-163, comuna de Monte Patria, IV Región, para la obra "Reposición Varios Puentes IV Región, Sector Puentes Ponio I y II" y se acordó el valor de indemnización con su propietario Carlos Mario Jaime Ardiles, ascendente a la cantidad de $321.574.
+
+- Fiscal del Ministerio de Obras Públicas.
