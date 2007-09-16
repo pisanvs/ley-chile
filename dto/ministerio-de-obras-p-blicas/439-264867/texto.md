@@ -1,0 +1,3 @@
+Por decreto MOP Nº 439, de fecha 27 de junio del 2007, se expropió el lote de terreno Nº 20-B, superficie 108,00 m2, Rol Nº 5005-20, comuna de Talca, VII Región para la obra "Habilitación Avda. Circunvalación Río Claro en Talca, Comuna de Talca, Provincia de Talca, VII Región", y se acordó el valor de indemnización con su propietario Juan Carlos Díaz Díaz, ascendente a la cantidad de $10.271.529.
+
+- Fiscal del Ministerio de Obras Públicas.
