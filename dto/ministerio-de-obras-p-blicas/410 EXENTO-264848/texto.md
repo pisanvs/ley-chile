@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 410 de 31 de julio de 2007, se expropió el lote de terreno Nº 11-A, superficie 45,23 m2., rol de avalúo Nº 3-03, comuna de Zapallar, para la obra "Reposición Ruta E-30-F, Sector Zapallar - La Laguna, Km. 22,80733 al Km. 36,23097", V Region", y se acordó el valor de la indemnización con la Ilustre Municipalidad de Zapallar, ascendente a la cantidad de $2.332.142.
+
+- Fiscal del Ministerio de Obras Públicas.
