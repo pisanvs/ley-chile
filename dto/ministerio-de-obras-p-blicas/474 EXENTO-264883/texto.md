@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº474 de 30 agosto de 2007 se dejó sin efecto el decreto exento Nº965 de 29 de septiembre de 2005, por cuanto la expropiación ordenada por dicho decreto respecto del lote de terreno Nº20, no es necesario para la ejecución de la obra "Camino Mejoramiento Ruta F-864-G y F-870, Sector Santa Inés - Las Rosas - Tapihuita - La Vinilla. DM 0.000,00 a DM 12.414,17" comuna de Casa Blanca, V Región.
+
+- Fiscal del Ministerio de Obras Públicas.
