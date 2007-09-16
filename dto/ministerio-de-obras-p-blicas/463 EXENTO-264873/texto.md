@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP Nº 463, de fecha 30 de agosto de 2007, se expropió el lote de terreno Nº 1, superficie 458,00 m2, Rol Nº 2218-386, comuna de San Juan de la Costa, X Región para la obra "Reposición Puentes: Sin Nombre, Purrehuin, Cunamo, Purralhue y Negro, Camino Trinidad - Puaucho, Ruta U-30, Km. 0,000 al Km. 29,060", y se acordó el valor de indemnización con su propietaria Teresa Elinor Peters Las Casas, ascendente a la cantidad de $1.349.541.
+
+- Fiscal del Ministerio de Obras Públicas.
