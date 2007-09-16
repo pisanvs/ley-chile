@@ -1,0 +1,3 @@
+Por decreto MOP Nº 541, de fecha 31 de julio del 2007, se expropió el lote de terreno Nº 19-A, superficie 108,00 m2, Rol Nº 5005-22, comuna de Talca, VII Región para la obra: "Habilitación Avda. Circunvalación Río Claro en Talca, Comuna de Talca, Provincia de Talca, VII Región", y se acordó el valor de indemnización con su propietario Gabriel Edwins Emeterio Rodríguez Bustos, ascendente a la cantidad de $10.192.848.
+
+- Fiscal del Ministerio de Obras Públicas.
