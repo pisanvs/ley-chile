@@ -1,0 +1,3 @@
+Por decreto MOP Nº540 de fecha 31 de julio de 2007, se expropió el lote de terreno Nº14, superficie 14.270 m², rol Nº392-93, comuna de Mariquina, para la obra "Mejoramiento Ruta Rol T-270, Sector Mehuin - Límite Regional IX Región, Km. 0,00000 a Km. 4,64602" X Región y se acordó el valor de la indemnización con su propietario Manuel Collipal Cañuqueo, ascendente a la cantidad de $21.664.225.
+
+- Fiscal del Ministerio de Obras Públicas.
