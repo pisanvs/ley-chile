@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº492 de 31 de agosto de 2007, se expropió el lote de terreno Nº1, superficie 3.994 m², Rol Nº 608-165, comuna de San Ignacio, VIII Región para la obra "Proyecto Laja Diguillín. Faja Adicional Km. 10,640 a Km. 10,780, Canal Matriz Diguillín Larqui" y se acordó el valor de indemnización con su propietario Gabriel Antonio Aedo Aedo, ascendente a la cantidad de $3.094.971.
+
+- Fiscal del Ministerio de Obras Públicas.
