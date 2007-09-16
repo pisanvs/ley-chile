@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº460 de fecha 30 de agosto del 2007, se expropió el lote de terreno Nº6, superficie 21 m², Rol Nº46-124, comuna de Monte Patria, IV Región, para la obra "Reposición Varios Puentes IV Región, Sector Puentes Ponio I y II" y se acordó el valor de indemnización con su propietario Oscar José Ángel Ángel, ascendente a la cantidad de $103.704.
+
+- Fiscal del Ministerio de Obras Públicas.
