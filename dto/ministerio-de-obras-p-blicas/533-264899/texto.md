@@ -1,0 +1,3 @@
+Por decreto MOP Nº 533, de fecha 31 de julio de 2007, se expropió el lote de terreno Nº 1, superficie 59.214 m2, Rol Nº 264-61, comuna de Tucapel, VIII Región para la obra "Proyecto Laja Diguillín, Area de Inundación Cota 4,000 m, Bocatoma Tucapel", y se acordó el valor de indemnización con su propietario Eduardo Enrique Ramón Krumm Valencia, ascendente a la cantidad de $21.088.408.
+
+- Fiscal del Ministerio de Obras Públicas.
