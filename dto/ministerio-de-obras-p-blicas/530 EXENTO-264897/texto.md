@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº530 de 31 de julio de 2007, se expropió el lote de terreno Nº2-A, superficie 2.819 m², rol de Avalúo 1241-46, comuna de Yumbel, para la obra "Camino Ruta O-50, sector Cabrero - Copiulemu Km. 0,00000 a Km. 46,33803", VIII Región y se acordó el valor de la indemnización con su propietaria Pabla del Carmen Jara Moreno y Otro, ascendente a la cantidad de $3.607.002.
+
+- Fiscal del Ministerio de Obras Públicas.
