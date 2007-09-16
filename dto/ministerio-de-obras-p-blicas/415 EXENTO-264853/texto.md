@@ -1,0 +1,3 @@
+Por decreto MOP Exento Nº 415 de 31 de julio de 2007, se expropió el lote de terreno Nº 32, superficie 1.811 m2, rol de Avalúo 301-308, comuna de Laja, para la obra "Camino Ruta Q-90-O, Sector Cruce - Longitudinal - Laja, Tramo Km. 0,00000 a Km. 35,53000", VIII Región y se acordó el valor de la indemnización con su propietario Hugo Flores Muñoz, ascendente a la cantidad de $2.953.547.
+
+- Fiscal del Ministerio de Obras Públicas.
