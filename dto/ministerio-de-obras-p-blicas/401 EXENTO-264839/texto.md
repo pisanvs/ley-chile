@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº401, de fecha 31 de julio de 2007, se expropió el lote de terreno Nº14, superficie 476 m², Rol Nº2510-21, comuna de Los Ángeles, para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara. Km. 0,00000 a Km. 10,35968", VIII Región, y se acordó el valor de la indemnización con su propietario Ramona Riquelme Ríos y Otra, ascendente a la cantidad de $1.738.002.
+
+- Fiscal del Ministerio de Obras Públicas.
