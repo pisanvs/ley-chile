@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº465 de fecha 30 de agosto del 2007, se expropió el lote de terreno Nº5, superficie 21 m², Rol Nº332-13, comuna de Limache, V Región para la obra "Proyecto Camino Internacional Ruta 60 Ch Sector 2: Km. 0.000,00 al Km. 38.500,00 Ruta F-610", y se acordó el valor de indemnización con su propietario Inversiones Santa Lucía S.A. ascendente a la cantidad de $1.565.939.
+
+- Fiscal del Ministerio de Obras Públicas.
