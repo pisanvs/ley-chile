@@ -1,0 +1,3 @@
+Por decreto MOP Nº 534 de fecha 31 de julio de 2007, se expropió el lote de terreno Nº 1, superficie 4.588 m2, rol Nº 223-121, comuna de Santa Bárbara, para la obra "Obras de Emergencia Ruta Q-61-R, sector Rapa Km. 50", VIII Región y se acordó el valor de la indemnización con su propietario Nelson Herminio Labrín Gangas, ascendente a la cantidad de $6.257.194.
+
+- Fiscal del Ministerio de Obras Públicas.
