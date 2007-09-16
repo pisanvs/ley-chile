@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº 409 de 31 de julio de 2007, se expropió el lote de terreno Nº. 528-1, superficie 117 m2., rol de avalúo 5410-33, comuna de San Bernardo, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Talca. Sector B: Acceso Sur a Santiago Km. 10.986,00 al Km. 17.700,00". Región Metropolitana, se acordó el valor de la indemnización con su propietario Inmobiliaria Bajos de Mena S.A., ascendente a la cantidad de $1.893.362.-.
+
+Fiscal del Ministerio de Obras Públicas.
