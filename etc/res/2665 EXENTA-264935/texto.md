@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.665, de 3 de septiembre de 2007, de esta Subsecretaría, autorízase a HUGO FELIPE ALMONACID VILLARROEL para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Rivera Sur Nº 8, Ancud, Chiloé, X Región, donde podrá elaborar en las líneas de proceso de Fresco-enfriado, Fresco-refrigerado, Congelado y Reenvasado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de septiembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
