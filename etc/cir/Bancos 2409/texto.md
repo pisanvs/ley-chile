@@ -8146,15 +8146,13 @@ Las presentes normas se refieren a la determinación del valor razonable para in
 
 En general, se entiende por "valor razonable" (fair value) el precio que alcanzaría un instrumento financiero, en un determinado momento, en una transacción libre y voluntaria entre partes interesadas, debidamente informadas e independientes entre sí.
 
-Por lo tanto, el valor razonable de un instrumento financiero debe estar debidamente fundado y reflejar el valor que la entidad recibiría o pagaría al transarlo en el mercado.
-
-El valor razonable no incluye los costos en que se incurriría para vender o transferir los instrumentos de que se trate.
+Por lo tanto, el valor razonable de un instrumento financiero debe estar debidamente fundado y reflejar el valor que la entidad recibiría o pagaría al transarlo en el mercado, sin incluir los costos de venta o transferencia".
 
 2.- Políticas para la valoración de instrumentos financieros al valor razonable.
 
 Los bancos deberán tener políticas y procedimientos documentados para la valoración permanente de todos los instrumentos financieros constitutivos de posiciones que deban ser valoradas a su valor razonable.
 
-Las políticas de que se trata deberán ser aprobadas por el Directorio y quedar claramente definidas en un documento único, que contenga al menos los aspectos reseñados en el presente Capítulo, en relación con modelos, metodologías, controles y segregación de funciones. Dichas políticas serán revaluadas a lo menos una vez al año.
+Las políticas de que se trata deberán ser aprobadas por el Directorio y quedar claramente definidas en un documento único, que contenga al menos los aspectos reseñados en el presente Capítulo, en relación con modelos, metodologías, controles y segregación de funciones. Dichas políticas deberán ser revaluadas a lo menos una vez al año.
 
 3.- Criterios generales para calcular el valor razonable.
 
@@ -8162,7 +8160,7 @@ Para calcular el valor razonable a precios de mercado o por modelación, según 
 
 a) El valor que se obtenga deberá reflejar fielmente los precios y tasas vigentes en los mercados, las condiciones de liquidez y profundidad de mercado, el riesgo de crédito involucrado y demás variables relevantes.
 
-b) Los precios y tasas utilizados deberán ser obtenidos siempre con independencia de las cotizaciones realizadas por las unidades negociadoras del banco o de sus filiales.
+b) En ningún caso los precios y tasas utilizados podrán corresponder a cotizaciones de las unidades negociadoras del banco o de sus filiales.
 
 c) La responsabilidad de asegurar permanentemente una correcta valoración de las carteras a su valor razonable, deberá recaer siempre en unidades o áreas independientes de las unidades negociadoras.
 
@@ -13168,7 +13166,7 @@ Los cambios en la participación de terceros en el capital de las filiales deber
 
 ### 7. Fiscalización de las sociedades filiales
 
-Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. Por su parte, las sociedades administradoras de carteras de recursos previsionales son fiscalizadas por la Superintendencia de Administradoras de Fondos de Pensiones. Todas estas sociedades deben regirse por las normas dictadas por sus respectivos organismos fiscalizadores, dentro de las condiciones generales establecidas por esta Superintendencia para desarrollo del giro de las filiales de bancos.
+Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. Por su parte, las sociedades administradoras de carteras de recursos previsionales son fiscalizadas por la Superintendencia de Administradoras de Fondos de Pensiones. Todas estas sociedades deben regirse por las normas dictadas por sus respectivos organismos fiscalizadores, dentro de las condiciones generales establecidas por esta Superintendencia para desarrollo del giro de las filiales de bancos. No obstante lo anterior, de conformidad con lo dispuesto en el artículo 70 de la Ley General de Bancos y para los efectos de su consolidación con el banco matriz, esta Superintendencia podrá requerir directamente de las sociedades filiales no sometidas a su fiscalización sus estados financieros, así como solicitar, con el objeto de conocer su solvencia, la información que estime necesaria para ese fin y revisar, con esa misma finalidad, todas las operaciones, libros, registros, cuentas y documentos que sean del caso.
 
 Todas las sociedades filiales distintas de las mencionadas en el párrafo precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del Título I de la Ley General de Bancos y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
 
@@ -13229,6 +13227,8 @@ Finalmente, una sociedad filial podrá tener participación en otra sociedad fil
 ### 11. Inversiones que pueden efectuar las sociedades filiales
 
 Aparte de las inversiones propias de su giro, los recursos disponibles que puedan mantener estas sociedades sólo podrán ser invertidos en: documentos emitidos por el Banco Central de Chile o por el Estado y sus Organismos; instrumentos financieros de renta fija emitidos por bancos; y cuotas de fondos mutuos de renta fija.
+
+Sin embargo, las sociedades administradoras de fondos de inversión filiales de bancos, constituidas al amparo de la Ley N° 18.815 y sus modificaciones, mantendrán sus recursos invertidos en los valores e instrumentos que la misma ley les señala.
 
 ### 12. Información de la situación financiera de las sociedades filiales
 
