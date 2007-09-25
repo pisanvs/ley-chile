@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.509, de 27 de agosto de 2007, de esta Subsecretaría, autorízase a SOCIEDAD VÁSQUEZ Y SÁNCHEZ LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Phillippi Nº 497, Sector Portales, Valparaíso, V Región, donde podrá elaborar en las líneas de proceso de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Seco-salado, Ahumado, Alga seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
