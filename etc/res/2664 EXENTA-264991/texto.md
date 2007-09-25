@@ -1,0 +1,11 @@
+Por resolución exenta Nº 2.664, de 3 de septiembre de 2007, de esta Subsecretaría, autorízase a la UNIVERSIDAD DEL MAR para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Seguimiento de la pesquería artesanal de Anchoveta desarrollada por la flota artesanal, en sus áreas de pesca y en la primera milla de la IV Región, 2007".
+
+El objetivo de la pesca de investigación consiste en caracterizar la captura de Anchoveta, realizada por la flota artesanal de la IV Región, durante 2007, y en forma especial en la primera milla náutica por fuera de las bahías protegidas por el D.S. Nº 408 de 1986, incorporando tecnología digital para el registro, almacenamiento y procesamiento de datos, que permita mantener un flujo de información eficiente y oportuna, en tiempo real (on-line), que permita la toma de decisiones de los pescadores y de la autoridad pesquera.
+
+La pesca de investigación se efectuará en la IV Región, incluida la primera milla náutica, por fuera de las bahías protegidas por el D.S. Nº 408 de 1986, modificado por los D.S. Nº 319 de 1998, Nº 145 de 2001 y Nº 218 de 2003, todos del Ministerio de Economía, Fomento y Reconstrucción, en el período comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2007, ambas fechas inclusive.
+
+Podrán participar en la presente pesca de investigación las siguientes embarcaciones artesanales, inscritas en el Registro Artesanal de la III Región, sección pesquería de la especie Anchoveta: "Jepe I", "Julio Iglesias", "María Sofía", "María Soledad", "Marimar", "Nerón", "Atlántico III", "Niebla", "Puerto Edén II", "Trauwun I", "Tsunami", "Xyphias", "Anita II", "Don Tomás", "Lorena I", "Marina Bernarda II", "2001", "Delfín 2000", "Doña Olga", "Anyelina", "Jennifer I", "Garota", "Nidia II", "Caren Rocío", "Garota I" y "Santa Verónica", las que podrán extraer, en el área marítima y durante el período indicado en el numeral 3º de la resolución extractada, con red de cerco con malla anchovetera, una cuota máxima total ascendente a 5.000 toneladas de Anchoveta.
+
+La Universidad del Mar designa como persona responsable de esta pesca de investigación a su representante legal, don Héctor Zúñiga Salinas.
+
+Valparaíso, 3 de septiembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
