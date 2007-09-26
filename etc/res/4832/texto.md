@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.832, DE 06.09.07, DE LA DIRECCIÓN NACIONAL DE ADUANAS QUE MODIFICA DISPOSICIONES DEL COMPENDIO DE NORMAS ADUANERAS, RELATIVAS AL PLAZO DE PRESENTACIÓN DEL "INFORME DE FALTAS Y SOBRAS", Y ASIMISMO, FIJA UN PROCEDIMIENTO ALTERNATIVO PARA LA DECLARACIÓN DE TRÁNSITO, CUANDO LA NAVE ES DESVIADA POR MOTIVOS OPERACIONALES A UNA ADUANA DISTINTA A LA DE TRAMITACIÓN
+
+1.- El "Informe de Faltas y Sobras" deberá presentarse ante la unidad encargada y dentro de los siete días siguientes contado desde la fecha de vencimiento del plazo de entrega de mercancías.
+
+2.- Cuando por motivos operacionales la mercancía amparada por una Declaración de Tránsito arribare a una Aduana distinta a la de tramitación, el despachador podrá requerir el retiro ante la Aduana de llegada efectiva mediante la presentación de una solicitud simple, a la que deberá acompañar los antecedentes que le sirvan de respaldo.
