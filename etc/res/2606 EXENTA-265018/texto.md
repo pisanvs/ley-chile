@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.606, de 30 de agosto de 2007, de esta Subsecretaría, autorízase a JUAN ELIEZER ÁVILA ESPINOZA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Sitio 25, Ribera Norte, Puerto Edén, XII Región, donde podrá elaborar en las líneas de Cocido, Fresco-enfriado, Congelado, Ahumado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
