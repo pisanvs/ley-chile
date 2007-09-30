@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.577, de 30 de agosto de 2007, de esta Subsecretaría, modifícase la resolución exenta Nº 41, modificada mediante resoluciones exentas Nº 124, Nº 996, Nº 1.488, Nº1.755 y Nº 2.036, todas de 2007, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Control y monitoreo biológico pesquero de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la XII Región", en el sentido de incorporar el siguiente numeral 5º bis:
+
+"5º bis.- En el marco de las actividades de investigación orientadas a Reineta durante el mes de agosto, se permitirá la captura de Merluza del sur, en calidad de acompañante, en un porcentaje máximo de un 1%, medido en peso, respecto de la captura total de Reineta, obtenida en cada viaje de pesca.
+
+Las capturas de Merluza del sur efectuadas durante el mes de agosto se imputarán a la cuota autorizada en el numeral 5º inciso final, incorporado por la resolución exenta Nº 1.755, de 2007, de esta Subsecretaría de Pesca.".
+
+Valparaíso, 30 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
