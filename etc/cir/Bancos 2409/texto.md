@@ -9002,59 +9002,31 @@ Atendido lo anterior, para celebrar contratos de crédito con alguna empresa en 
 
 Por otra parte, las corporaciones, fundaciones o asociaciones municipales están impedidas de contratar préstamos de conformidad con lo dispuesto en el artículo 140 de la Ley Orgánica Constitucional de Municipalidades. Esta prohibición no comprende la contratación de líneas de crédito en cuenta corriente o en otra modalidad.
 
-CAPITULO 8-9 (Bancos y Financieras)
+## Capítulo 8-9
 
-MATERIA:
+FONDO DE GARANTÍA PARA PEQUEÑOS EMPRESARIOS.
 
-FONDO DE GARANTIA PARA PEQUEÑOS EMPRESARIOS.
+El Fondo de Garantía para Pequeños Empresarios se encuentra regulado en el D.L. N° 3.472 y sus modificaciones, y en el "Reglamento de Administración del Fondo de Garantía para Pequeños Empresarios" cuyo texto se incluye en el sitio web de esta Superintendencia.
 
-El Fondo de Garantía para Pequeños Empresarios, creado por el D.L. N° 3.472 modificado por las Leyes N°s. 18.280, 18.437, 18.840, 19.498 y 19.677, está formado por un aporte fiscal equivalente a 500.000 U.F. y es administrado por el Banco del Estado de Chile quien lo representa legalmente.
+Pueden otorgar financiamientos con la garantía de ese Fondo, que es administrado por el Banco del Estado de Chile que lo representa legalmente, las instituciones que señala el Reglamento, entre las que se encuentran los bancos.
 
-La finalidad del Fondo es garantizar a las instituciones financieras públicas o privadas los préstamos que otorguen a los pequeños empresarios en la forma y condiciones que se señalan en el referido cuerpo legal y en el "Reglamento de Administración del Fondo de Garantía para Pequeños Empresarios" establecido por esta Superintendencia, cuyo texto se incluye en el Anexo de este Capítulo.
+Las operaciones que realicen los bancos deberán ceñirse, por lo tanto, a las disposiciones de las normas antes mencionadas y sujetarse, además, a las siguientes instrucciones en las materias específicas que se indican:
 
-De acuerdo con lo dispuesto en el citado D.L. N° 3.472 y sus modificaciones, corresponde a esta Superintendencia la fiscalización del Fondo.
+### 1. Solicitudes de financiamiento
 
-Las operaciones que realicen los bancos y sociedades financieras deberán ceñirse, por lo tanto, a las disposiciones del D.L. N° 3.472 y sus modificaciones, a las normas contenidas en el Reglamento incluido en el Anexo de este Capítulo y a las siguientes instrucciones específicas relativas al otorgamiento, administración y contabilización de los créditos de que se trata:
+A fin de precaver eventuales rechazos por la superación de los límites individuales de que trata el artículo 16 del Reglamento, los bancos deberán exigir a los solicitantes de financiamientos con garantía del Fondo una declaración jurada en la que dejen constancia de no mantener créditos efectivos o contingentes ni contratos de leasing con la garantía del Fondo o, en caso contrario, del monto de los financiamientos de esta especie que mantengan vigentes y el nombre de las respectivas instituciones acreedoras. Asimismo, deberán dejar establecido en dicha declaración que no están postulando a otro financiamiento garantizado por el Fondo o, si lo estuvieran, declarar el tipo de financiamiento, monto y nombre de la institución que lo otorgará.
 
-1.- Instituciones financieras que pueden otorgar créditos con la caución del Fondo de Garantía.
+### 2. Registro exigido por la Ley
 
-Pueden otorgar créditos con la garantía del Fondo, las instituciones que señala el Reglamento, entre las que se encuentran los bancos y las sociedades financieras, salvo los créditos caucionados a exportadores, que sólo pueden ser cursados por las entidades bancarias.
+El artículo 6° del Decreto Ley N° 3.472 establece que las entidades participantes llevarán un registro de las operaciones que cursen con garantía del Fondo.
 
-En todo caso, para operar con dicha garantía, la institución financiera deberá haberse adjudicado los derechos a ella en las licitaciones que, de acuerdo con el Reglamento, realiza periódicamente el Administrador del Fondo.
+Los bancos podrán mantener dicho registro en un libro o en medios informáticos, debiendo registrar los datos que se indican a continuación, sin perjuicio de incluir, además, otros antecedentes que pueda requerir el Administrador del Fondo para la información que debe proporcionársele mensualmente, según lo indicado en ese mismo artículo 6°:
 
-2.- Créditos que pueden caucionarse con la garantía del Fondo.
-
-2.1. Garantía del Fondo sobre nuevos créditos.
-
-Podrán ser caucionados por el Fondo de Garantía para Pequeños Empresarios los créditos que se destinen a satisfacer requerimientos de capital de trabajo del deudor, incluidos en este concepto los desembolsos para capacitación de trabajadores y asesorías especializadas a deudores que califiquen para la garantía del Fondo, a proyectos de inversión o aportes en sociedades que se constituyan o ya constituidas, cuyo giro sea la explotación de la misma actividad del deudor o conexa con ésta Quedan, asimismo, comprendidos entre los créditos susceptibles de ser amparados por la garantía del Fondo, la compra o descuento de efectos de comercio y de facturas (factoring), como también los créditos correspondientes a líneas de crédito otorgadas y no desembolsadas, los préstamos para boletas de garantía u otros de carácter contingente que sean elegibles a juicio del Administrador En estos casos, la garantía se otorgará en función del monto total del contrato u operación, haciéndose efectiva sobre los montos realmente desembolsados y no recuperados. Igualmente podrán acogerse a la garantía del Fondo aquellos créditos que tengan por finalidad el refinanciamiento de pasivos, siempre que dichos pasivos correspondan a créditos que originalmente hubieren sido garantizados por el Fondo.
-
-Los montos y plazos de estos créditos, incluidos los contingentes, deberán limitarse a los que establezca el Reglamento y el Administrador, según corresponda.
-
-2.2. Renegociación de créditos caucionados por el Fondo.
-
-Las instituciones financieras podrán renegociar créditos vencidos o en cobro judicial, que se encuentren amparados por la garantía del Fondo, siempre que ésta no se hubiere hecho efectiva y el nuevo plazo de pago, como consecuencia de la renegociación, no exceda del establecido en el reglamento, contado desde la fecha original del crédito.
-
-Cuando la renegociación se refiera a créditos cuya garantía haya sido pagada por el Fondo, sólo podrá efectuarse previo acuerdo del Administrador y con arreglo a las condiciones generales o especiales que éste determine, las cuales, en su caso, deberán informarse a las instituciones participantes.
-
-3.- Requisitos que deben cumplir los deudores.
-
-Los beneficiarios de los créditos de que trata este Capítulo deben ser a) personas naturales o jurídicas que tengan el carácter de pequeños empresarios, entendiendo por tales, para estos efectos, a los que cumplan los requisitos señalados en el Decreto Ley N° 3 472 y sus modificaciones y en el Reglamento del Fondo, o, b) exportadores que requieran capital de trabajo, cuyo monto de exportación en los dos años precedentes no hubiere excedido del importe que se indica en la ley, incluidos aquellos que no hubieren registrado exportaciones en alguno de esos años Con todo, el Administrador podrá considerar elegibles a los exportadores, aunque hayan interrumpido sus exportaciones en forma transitoria, siempre que los montos exportados en los dos períodos anuales previos a esa interrupción, no sobrepasen, en promedio, la cantidad máxima que establece el Reglamento.
-
-Estas personas, para solicitar y tener acceso a un crédito con la garantía del Fondo, deben presentar a la institución financiera una declaración jurada en la que dejen constancia de no tener créditos, efectivos o contingentes, en vigencia con la garantía del Fondo o, en caso contrario, indicar el monto de los créditos de esta especie que mantengan vigentes y el nombre de las respectivas instituciones financieras acreedoras. Asimismo, deberá dejarse establecido en dicha declaración si se está postulando a otro crédito garantizado por el Fondo, en la misma o en otra institución financiera, con indicación del tipo de crédito, monto y del nombre de la entidad financiera.
-
-4.- Documentación de los créditos otorgados con la Garantía del Fondo.
-
-En el documento que suscriba el deudor, que dé cuenta del crédito recibido, deberá dejarse constancia de su finalidad, monto, plazo y porcentaje cubierto por la garantía, además de otras cláusulas que la empresa otorgante estime necesario agregar.
-
-5.- Registro de los créditos cursados.
-
-El artículo 6° del Decreto Ley N° 3.472 establece que las entidades participantes llevarán un registro de las operaciones que cursen con garantía el Fondo. Dicho registro deberá llevarse en un libro, en el que se anotará a lo menos la siguiente información:
-
-a) La fecha en que se cursó el crédito garantizado.
+a) Fecha en que se cursó el financiamiento garantizado.
 
 b) Tipo de operación.
 
-c) El número correlativo que identificará la operación.
+c) Número correlativo que identificará la operación.
 
 d) Nombre completo y RUT del deudor.
 
@@ -9064,107 +9036,33 @@ f) Monto total de la operación.
 
 g) Importe amparado por la garantía del Fondo.
 
-h) Finalidad del crédito.
+h) Finalidad del financiamiento.
 
 i) Garantías adicionales.
 
-En "Tipo de operación" se informará si se trata de un crédito efectivo o contingente En este último caso deberá especificarse si corresponde a líneas de crédito pactadas, factoring, boletas de garantía u otra clase de financiamiento En "Monto total de la operación" se anotará el importe otorgado para cada clase de financiamiento.
+En el "Tipo de operación" se especificará si se trata de un crédito efectivo, una operación de leasing o un crédito contingente, indicando además el tipo de crédito efectivo o contingente de que se trate, tales como operación de factoraje, líneas de crédito pactadas o boletas de garantía. El "Monto total de la operación" corresponde al importe total del financiamiento otorgado.
 
-En el caso de créditos cedidos a una sociedad securitizadora, se deberá dejar constancia de la fecha de la cesión y del nombre de la cesionaria.
+En aquellos casos en que los instrumentos se cedan a una sociedad securitizadora, se deberá dejar constancia de la fecha de la cesión y del nombre de la cesionaria.
 
-6.- Información que debe enviarse al Administrador.
+REGLAMENTO DE ADMINISTRACIÓN DEL FONDO DE GARANTÍA PARA PEQUEÑOS EMPRESARIOS
 
-Las entidades financieras que se adjudiquen garantías del Fondo, están obligadas a remitir mensualmente al Banco del Estado de Chile, en su calidad de Administrador del Fondo, una nómina de los créditos que cursen, sean éstos efectivos o contingentes. Esta nomina deberá contener la misma información que debe anotarse en el registro señalado en el número precedente, además de la que adicionalmente pudiere requerir la entidad bancaria estatal.
+De acuerdo con lo dispuesto en el artículo 1° del Decreto Ley N° 3.472 (en adelante "la Ley"), modificado por las Leyes N°s. 18.280, 18.437, 18.840, 19.498, 19.677 y 20.202, la Superintendencia de Bancos e Instituciones Financieras (en adelante "la Superintendencia") establece la siguiente reglamentación para el Fondo de Garantía para Pequeños Empresarios:
 
-7.- Comisión a favor del Fondo de Garantía.
-
-La empresa financiera otorgante del crédito deberá recaudar la comisión a favor del Fondo de que trata el artículo 26 del Reglamento y entregarla al Banco del Estado de Chile, de acuerdo con las instrucciones que reciba de dicha institución en su calidad de Administrador del Fondo.
-
-8.- Contrato con el Administrador.
-
-Las instituciones financieras que se adjudiquen las licitaciones de garantía del Fondo deberán celebrar un contrato con el Administrador de éste, en que consten las obligaciones que asume la institución adjudicataria y el procedimiento que debe seguirse para hacer efectiva la garantía.
-
-Especial cuidado deben prestar las entidades que se adjudiquen estas garantías en el sentido de cumplir todas las condiciones establecidas tanto en la ley, como en la reglamentación vigente y en el propio contrato suscrito con el Administrador del Fondo, para obtener el reembolso de los montos garantizados. sea por cuenta propia o de su mandante, cuando actúen como mandatario de una sociedad securitizadora por los créditos que le hayan vendido o cedido a ésta.
-
-9.- Instrucciones contables.
-
-9.1.- Monto de las garantías adjudicadas.
-
-La institución financiera que se adjudique una garantía del Fondo, registrará el importe total adjudicado en la cuenta de orden "Garantías adjudicadas por cursar del Fondo para Pequeños Empresarios" de la partida 9230.
-
-9.2.- Utilización de la garantía.
-
-Cada vez que la empresa curse un crédito al amparo de la garantía del Fondo, registrará el monto de la garantía comprometida en la operación en la cuenta de orden "Garantías cursadas con cargo al Fondo para Pequeños Empresarios", de la partida 9230. Simultáneamente, se efectuará el asiento para rebajar el mismo monto de la cuenta "Garantías adjudicadas por cursar del Fondo para Pequeños Empresarios" señalada en el numeral 9.1 precedente.
-
-9.3.- Liberación de la garantía.
-
-Si la liberación parcial o total de la garantía licitada se origina por la no utilización de ella dentro del plazo de seis meses transcurrido desde la fecha de su licitación, se deberá revertir el valor correspondiente de las cuentas indicadas en el numeral 9.1.
-
-En el caso de que esa liberación ocurra por la devolución del préstamo amparado por esa garantía, se revertirá el asiento efectuado en las cuentas mencionadas en el numeral 9.2, con motivo de la utilización de la garantía.
-
-9.4.- Créditos garantizados por el Fondo.
-
-Los créditos amparados por el Fondo de Garantía que cursen las instituciones financieras, así como los respectivos reajustes, intereses, traspasos a cartera vencida, provisiones y castigos, deben contabilizarse de conformidad con las instrucciones generales impartidas por esta Superintendencia.
-
-En todo caso, las instituciones financieras deberán mantener identificados todos los créditos que se otorguen caucionados por el Fondo de Garantía de que trata este Capítulo.
-
-9.5.- Recaudación de la comisión a favor del Fondo.
-
-La comisión que los usuarios de estos créditos deben pagar al Fondo, y que tienen que recaudar las instituciones financieras adjudicatarias de las respectivas garantías, se abonarán por el período que medie entre su recepción y la fecha en que deben ponerse a disposición del Banco del Estado de Chile, en la cuenta "Comisiones recaudadas a favor del Administrador del Fondo de Garantía D.L. N°3.472", de la partida 3010 "Otros saldos acreedores a la vista".
-
-9.6.- Recuperación de créditos vencidos a favor del Fondo.
-
-Los importes provenientes de recuperaciones de créditos vencidos que corresponda entregar al Administrador del Fondo, en reembolso parcial o total de la garantía pagada, se acreditarán a la cuenta "Recuperación Garantías D.L. N°3.472 por entregar al Fondo", de la partida 3010, "Otros saldos acreedores a la vista", en la que permanecerán hasta el instante en que deban entregarse al Banco del Estado de Chile, en su calidad de Administrador del Fondo.
-
-Las sumas recuperadas y abonadas a esta cuenta deberán remitirse al Fondo a lo menos semanalmente.
-
-9.7.- Securitización de créditos garantizados.
-
-Los créditos cubiertos con la garantía del Fondo, con excepción de los créditos contingentes, podrán ser vendidos a una sociedad Securitizadora, observando las disposiciones del Capítulo 8-40 de esta Recopilación Actualizada de Normas. Los créditos vendidos deberán registrarse en una cuenta de orden, en consideración a que el banco cedente debe hacerse cargo de su cobranza por cuenta del Administrador del Fondo.
-
-10.- Información de las deudas subrogadas.
-
-Para dar cumplimiento a lo dispuesto en el inciso segundo del artículo 27 del Reglamento, el Administrador del Fondo informará mensualmente las deudas correspondientes a la parte subrogada de acuerdo con las instrucciones sobre información de deudas vencidas o castigadas contenidas en el Capítulo 18-5 de la Recopilación Actualizada de Normas y con las demás instrucciones específicas que para el efecto le imparta esta Superintendencia.
-
-11.- Inversión de los recursos del fondo.
-
-Conforme a lo establecido en el Capítulo III.K.1 del Compendio de Normas Financieras del Banco Central de Chile, el Administrador del Fondo deberá invertir la totalidad de los recursos y excedentes del Fondo de Garantía para Pequeños Empresarios en los siguientes instrumentos financieros:
-
-a) Instrumentos financieros emitidos o garantizados por el Estado, entre los cuales se cuentan los títulos emitidos por la Tesorería General de la República y letras de crédito emitidas por Servicios Regionales y Metropolitanos de Vivienda y Urbanización;
-
-b) Títulos emitidos por el Banco Central de Chile;
-
-c) Instrumentos financieros emitidos por CORFO y ENAMI;
-
-d) Depósitos a plazo y otros títulos representativos de captaciones de empresas bancarias y sociedades financieras;
-
-e) Títulos garantizados por empresas bancarias y sociedades financieras; y,
-
-f) Letras de crédito emitidas por empresas bancarias y sociedades financieras.
-
-Los instrumentos a que se refieren las letras c), d), e) y f) deberán estar clasificados, a lo menos, en categoría A de acuerdo con la clasificación que publique la Comisión Clasificadora de Riesgo, conforme a lo establecido en el Artículo 104 del Título XI del D.L. N° 3.500 y sus modificaciones.
-
-ANEXO N°1
-
-REGLAMENTO DE ADMINISTRACION DEL FONDO DE GARANTIA PARA PEQUEÑOS EMPRESARIOS.
-
-De acuerdo con lo dispuesto en el artículo 1° del Decreto Ley N° 3.472, modificado por las Leyes N°s. 18.280 y 18.437, por el N° III del ARTICULO SEGUNDO de la Ley N° 18.840, por la Ley N° 19.498 y por la Ley N° 19.677, la Superintendencia de Bancos e Instituciones Financieras establece la siguiente reglamentación para el Fondo de Garantía para Pequeños Empresarios:
-
-I.- BENEFICIARIOS
+### I. BENEFICIARIOS
 
 #### Artículo 1°
 
-Sólo podrán optar a la garantía del Fondo las personas naturales y jurídicas que sean pequeños empresarios y las entidades integradas por éstos, que cumplan con las disposiciones establecidas en el Decreto Ley N° 3.472 de 28 de agosto de 1980 y sus modificaciones y en el presente Reglamento.
+Podrán optar a la garantía del Fondo las personas naturales y jurídicas que sean pequeños empresarios, las entidades integradas por éstos y los exportadores, que cumplan con las disposiciones establecidas en la Ley y en el presente Reglamento.
 
 #### Artículo 2°
 
-Podrán postular a la garantía del Fondo los pequeños empresarios agrícolas cuyas ventas netas anuales no excedan de 14.000 Unidades de Fomento y los pequeños empresarios no agrícolas, productores de bienes o servicios, cuyas ventas netas anuales no excedan de 25.000 Unidades de Fomento.
+Podrán postular a la garantía del Fondo los pequeños empresarios que tengan necesidades de capital de trabajo o proyectos de inversión y cuyas ventas netas anuales no excedan de 25.000 Unidades de Fomento.
 
-Para estos efectos se entenderá por empresario tanto a los postulantes que tengan esa calidad al momento de solicitar un crédito con garantía del Fondo, como a los que requieran de un crédito de esta naturaleza, para iniciar con sus recursos una actividad empresarial, sea para producir bienes o servicios.
+Para estos efectos se entenderá por empresario tanto a los postulantes que tengan esa calidad al momento de solicitar un financiamiento con garantía del Fondo, como a los que requieran de un financiamiento de esta naturaleza, para iniciar con sus recursos una actividad empresarial, sea para producir bienes o servicios.
 
-Asimismo, podrán optar a esa garantía los exportadores que requieran capital de trabajo y hayan efectuado exportaciones en los dos años calendario anteriores por un valor promedio FOB igual o inferior a US$16.700.000 anuales, reajustado en la forma que señala la ley.
+Asimismo, podrán optar a esa garantía los exportadores que requieran capital de trabajo o financiamiento de proyectos de inversión y que hayan efectuado exportaciones en los dos años calendario anteriores por un valor promedio FOB igual o inferior a US$ 16.700.000 anuales, reajustado en la forma que señala la ley.
 
-También podrán postular a la garantía del Fondo las personas jurídicas sin fines de lucro, las sociedades de personas y las organizaciones a que se refiere el artículo 2° de la Ley N° 18.450, para financiar proyectos de riego, de drenaje, de infraestructura productiva o equipamiento, siempre que a lo menos las dos terceras partes de las personas naturales que las integren cumplan con los requisitos señalados en el inciso primero.
+También podrán postular a la garantía del Fondo las personas jurídicas sin fines de lucro, las sociedades de personas y las organizaciones a que se refiere el artículo 2° de la Ley N° 18.450, para financiar proyectos de riego, de drenaje, de infraestructura productiva o equipamiento, siempre que a lo menos las dos terceras partes de las personas naturales que las integren cumplan con los requisitos señalados en el inciso primero de este artículo.
 
 #### Artículo 3°
 
@@ -9172,29 +9070,37 @@ Las ventas anuales a que se refiere el inciso primero del artículo 2°, corresp
 
 La suma de esas ventas no debe exceder el respectivo límite señalado en el mencionado inciso primero del artículo 2°.
 
-En el caso de los exportadores a que se refiere el inciso tercero del artículo 2° de este Reglamento, se considerará el promedio de las ventas netas de los dos años calendario anteriores, previo su reajuste en la forma determinada en el artículo 3° de la ley.
+En el caso de los exportadores a que se refiere el inciso tercero del artículo 2° de este Reglamento, se considerará el promedio de las exportaciones netas de los dos años calendario anteriores, previo su reajuste en la forma determinada en el artículo 3° de la Ley.
+
+Al tratarse de postulantes distintos de los exportadores a que se refiere el inciso tercero del artículo 2° que no hayan iniciado sus actividades o, si entre el comienzo de éstas y la presentación de la solicitud de garantía del Fondo hubiere transcurrido un período inferior a seis meses, las ventas netas anuales se determinarán sobre la base de una estimación fundada del importe máximo de ventas anuales posible de obtener en plena actividad.
+
+Si la iniciación de ventas del postulante es anterior en más de seis meses a la fecha de la solicitud, pero no ha alcanzado a cubrir un período de 12 meses, se considerará para los meses faltantes el promedio mensual de las ventas ya declaradas. No obstante, si se trata de una actividad cuyos ciclos de producción y venta son estacionales, se estimarán las ventas según lo indicado en el inciso anterior.
 
 #### Artículo 4°
 
 Las instituciones autorizadas deberán verificar que los solicitantes cumplan con las disposiciones establecidas en los artículos precedentes.
 
-II.- INVERSIÓN DE LOS RECURSOS DEL FONDO.
+### II. INVERSIÓN DE LOS RECURSOS DEL FONDO
 
 #### Artículo 5°
 
-El Administrador del Fondo deberá invertir la totalidad de los recursos y excedentes en instrumentos financieros, de fácil liquidación en la forma que determine el Banco Central de Chile.
+El Administrador del Fondo deberá invertir la totalidad de los recursos y excedentes en instrumentos financieros de fácil liquidación en la forma que determine el Banco Central de Chile. No obstante, tratándose del aporte establecido en la letra f) del artículo 2° de la Ley, el Ministerio de Hacienda establecerá la proporción o parte de dicho aporte que deberá mantenerse en moneda extranjera y la forma, instrumentos y proporción de éste que deberá invertirse en el exterior.
+
+#### Artículo 5°
+
+bis. El Administrador del Fondo, previa autorización de la Superintendencia y del Ministerio de Hacienda, podrá contratar mecanismos de reafianzamiento o de seguros, con instituciones públicas o privadas, nacionales o extranjeras, con respecto a las garantías presentes o futuras que otorgue, y pagar las comisiones o primas, en las condiciones que se le indiquen.
 
 #### Artículo 6°
 
 El Administrador no podrá endeudar al Fondo a ningún título.
 
-III.- PROCEDIMIENTO DE LICITACION Y UTILIZACION DE LA GARANTIA.
+### III. PROCEDIMIENTO DE LICITACIÓN Y UTILIZACIÓN DE LA GARANTIA
 
 #### Artículo 7°
 
-El Administrador del Fondo licitará, total o parcialmente con cargo a los recursos del Fondo, la garantía que podrá otorgar a los créditos concedidos por las instituciones participantes.
+El Administrador del Fondo licitará, total o parcialmente con cargo a los recursos del Fondo, la garantía que podrá otorgar a los financiamientos concedidos por las instituciones participantes.
 
-Conforme a lo establecido en la Ley, el Administrador del Fondo deberá especificar en las bases de cada licitación, el sector o sectores económicos que podrá hacer uso de los recursos que se comprometen y demás condiciones exigidas para tener acceso a la garantía del Fondo.
+El Administrador del Fondo deberá especificar en las bases de cada licitación conforme a lo establecido en la Ley, las condiciones generales para tener acceso a la garantía del Fondo y hacer uso de los recursos que se comprometen.
 
 #### Artículo 8°
 
@@ -9208,53 +9114,73 @@ Se entenderá por tasa de utilización global, el porcentaje máximo del total d
 
 #### Artículo 10
 
-Las instituciones participantes sólo podrán presentar una oferta en cada licitación.
+Las instituciones participantes podrán presentar una o más ofertas en cada licitación, según lo indique el Administrador en las respectivas bases de licitación.
 
 #### Artículo 11
 
-Las instituciones que se hubieren adjudicado la garantía, deberán comunicar al Fondo los créditos otorgados y garantizados con estos recursos. La exigibilidad de la garantía del Fondo estará condicionada a que se hubieren cumplido todos los requisitos establecidos en la Ley, en este Reglamento y en las bases de la respectiva licitación.
+Las instituciones que se hubieren adjudicado la garantía, deberán comunicar al Administrador del Fondo los financiamientos otorgados y garantizados con estos recursos. La exigibilidad de la garantía del Fondo estará condicionada a que se hubieren cumplido todos los requisitos establecidos en la Ley, en este Reglamento y en las bases de la respectiva licitación.
 
 #### Artículo 12
 
-Las instituciones participantes deberán otorgar y poner a disposición del interesado los créditos garantizados por el Fondo en un plazo no superior a seis meses contados desde la fecha de adjudicación. Transcurrido este plazo, se entenderán liberados los derechos de garantía adjudicados y no utilizados.
+Las instituciones participantes deberán otorgar y poner a disposición del interesado los financiamientos garantizados por el Fondo en el plazo que haya establecido el Administrador en las bases de la licitación correspondiente. Transcurrido ese plazo, se entenderán liberados los derechos de garantía adjudicados y no utilizados.
 
 #### Artículo 13
 
-- La garantía se libera al momento del pago del crédito.
+La garantía se libera al momento del pago del financiamiento o al cumplirse el plazo de vigencia señalado en el artículo 17 de este Reglamento.
 
-En caso que el pago del préstamo caucionado se realice antes del plazo de seis meses contado desde la fecha de la adjudicación de la garantía, la entidad financiera podrá utilizarla nuevamente para caucionar otro crédito que cumpla con las condiciones para ello.
+En caso que el pago del financiamiento caucionado se realice antes de concluir el plazo a que se refiere el artículo 12 anterior de este Reglamento, la entidad financiera podrá utilizarla nuevamente para caucionar otro financiamiento que cumpla con las condiciones para ello.
+
+#### Artículo 13
+
+bis Las instituciones participantes podrán vender o ceder a sociedades securitizadoras los títulos de crédito o contratos de leasing garantizados por el Fondo, con excepción de los créditos contingentes. La cesión de estos instrumentos comprenderá la correspondiente garantía del Fondo y el compromiso del cedente de encargarse de su cobranza, incluidos sus intereses y la comisión a que se refiere el artículo 26 de este Reglamento. La institución cedente actuará para el efecto como representante del Fondo.
 
 #### Artículo 14
 
 El Administrador del Fondo efectuará nuevas licitaciones producto de las liberaciones a que se refieren los artículos 12 y 13 precedentes y los excedentes que genere la operación del Fondo.
 
-El Administrador podrá marginar de futuras licitaciones a las instituciones que no hubieren otorgado y desembolsado los créditos en el plazo indicado en el artículo 12 anterior, o que no cumplan con las condiciones que se establezcan en las respectivas bases de licitación.
+El Administrador podrá marginar de futuras licitaciones o limitar su participación en ellas, a las instituciones que no hubieren otorgado y desembolsado los financiamientos en el plazo indicado en el artículo 12 anterior, o que no cumplan con las condiciones que se establezcan en las respectivas bases de licitación.
 
 #### Artículo 15
 
-El Administrador deberá celebrar contratos con las instituciones participantes en los cuales deberá establecerse a lo menos la tasa de garantía global adjudicada a la institución participante y el procedimiento para hacer efectiva la garantía.
+El Administrador deberá celebrar contratos con las instituciones participantes en los cuales deberá establecerse a lo menos la tasa de garantía global adjudicada a la institución y el procedimiento para hacer efectiva la garantía.
 
-IV.- CREDITOS GARANTIZADOS POR EL FONDO.
+IV.- FINANCIAMIENTOS GARANTIZADOS POR EL FONDO.
 
 #### Artículo 16
 
-Los créditos afectos a la Garantía que se otorguen a pequeños empresarios, no podrán exceder, en total, de 5.000 unidades de fomento para cada empresario.
+El total de los financiamientos efectivos o contingentes afectos a la Garantía que se otorguen a un pequeño empresario que cumpla el requisito señalado en el artículo 2° de este Reglamento y a los exportadores a que se refiere el tercer inciso del mismo artículo, no podrá exceder el equivalente de 5.000 unidades de fomento, sea que se otorguen en moneda nacional o extranjera.
 
-Los créditos otorgados a los exportadores que cumplan el requisito señalado en el artículo 2° ya citado, que se acojan a la Garantía del Fondo, no podrán exceder del equivalente de 4.810 unidades de fomento, sea que se expresen en moneda nacional o en dólares de los Estados Unidos de América.
+Los financiamientos afectos a la Garantía que se otorguen a las personas jurídicas u organizaciones a que se hace referencia en el último inciso del artículo 2° de este Reglamento, no podrán ser superiores, en total, a 24.000 unidades de fomento para cada prestatario.
 
-Los créditos afectos a la Garantía que se otorguen a las personas jurídicas u organizaciones a que se hace referencia en el último inciso del artículo 2° de este Reglamento, no podrán ser superiores, en total, a 24.000 unidades de fomento para cada prestatario.
+El Fondo no podrá garantizar más del 80% del saldo deudor de los financiamientos otorgados a pequeños empresarios cuyo importe no exceda de 3.000 unidades de fomento o su equivalente en monedas extranjeras, y del 50% de dicho saldo cuando su importe sea superior a ese monto. Al tratarse de financiamientos a exportadores y a las entidades a que se refiere el inciso segundo precedente, la garantía podrá alcanzar hasta el 80% del monto del financiamiento.
 
-El Fondo no podrá garantizar más del 80% del saldo deudor de los créditos señalados en el primer inciso de este artículo, cuyo importe no exceda de 3.000 unidades de fomento y del 50% de dicho saldo cuando su importe sea superior a ese monto, en tanto que para los créditos a que se refieren los incisos segundo y tercero precedentes la garantía podrá alcanzar hasta el 80% del monto del crédito.
+#### Artículo 16
+
+bis Pueden acogerse a la garantía del Fondo:
+
+a) los créditos efectivos, incluida la compra de efectos de comercio y operaciones de factoraje.
+
+b) las operaciones de leasing.
+
+c) los créditos contingentes tales como líneas de crédito aprobadas y no desembolsadas, boletas de garantía u otros que sean elegibles a juicio del Administrador.
+
+Entre los financiamientos de proyectos de inversión garantizados por el Fondo podrán incluirse créditos destinados a aportes o participación en sociedades, siempre que su giro sea la explotación de la misma actividad del deudor o conexa con ésta.
+
+Los créditos para capital de trabajo podrán comprender los destinados a la capacitación de trabajadores y la contratación de asesorías especializadas.
+
+La garantía del Fondo podrá alcanzar los créditos destinados al pago de pasivos, siempre que correspondan a financiamientos garantizados por el Fondo, respetando el plazo de vigencia indicado en el artículo 17 de este Reglamento.
 
 #### Artículo 17
 
-- El plazo de los créditos a pequeños empresarios agrícolas y no agrícolas, así como a las personas jurídicas a que se refiere el inciso 2° del artículo 3° de la ley garantizados por el Fondo, no podrá exceder de 10 años. Las instituciones participantes podrán renovar las deudas con los usuarios del crédito siempre que el plazo que medie entre el otorgamiento de éste y el nuevo vencimiento convenido, no exceda de diez años.
+La garantía del Fondo no podrá tener un plazo superior a diez años, sin perjuicio del plazo a que se encuentren extendidos los financiamientos que se garanticen.
 
-El plazo de los créditos a exportadores garantizados por el Fondo no podrá ser superior a un año, pudiendo renovarse hasta por una vez por un período que no exceda de un año.
+Si se renegocian deudas amparadas por las garantías del Fondo o se acogen a esa garantía créditos otorgados para el refinanciamiento de pasivos garantizados por el Fondo, el plazo de diez años de vigencia de la garantía se contará desde la fecha de la deuda originalmente garantizada.
+
+La renegociación de financiamientos cuya garantía haya sido pagada por el Fondo sólo podrá efectuarse previo acuerdo del Administrador y con arreglo a las condiciones generales o especiales que éste determine, las cuales, en su caso, deberán ser informadas a las entidades participantes.
 
 #### Artículo 18
 
-El crédito podrá ser otorgado por parcialidades, no pudiendo existir un período superior a 180 días entre el primer giro y el último. En estos casos la comisión que cobre el Fondo se regirá por lo dispuesto en el artículo 26 del presente Reglamento.
+La garantía del Fondo podrá otorgarse para financiamientos efectivos cursados por parcialidades, no pudiendo existir un período superior a 180 días entre el primer giro y el último. En esos casos la comisión que cobre el Fondo se regirá por lo dispuesto en el artículo 26 del presente Reglamento.
 
 #### Artículo 19
 
@@ -9262,35 +9188,39 @@ La garantía del Fondo no cubrirá los intereses.
 
 #### Artículo 20
 
-Las instituciones participantes que otorguen créditos garantizados por el Fondo, deberán establecer los procedimientos que sean necesarios para verificar que estos recursos han sido destinados a los fines para los que fueron otorgados, conforme a lo establecido en el artículo 4° del Decreto Ley N° 3.472.
+Las instituciones participantes que otorguen financiamientos garantizados por el Fondo, deberán establecer los procedimientos que sean necesarios para verificar que estos recursos han sido destinados a los fines para los que fueron otorgados, conforme a lo establecido en el artículo 4° de la Ley.
 
 #### Artículo 21
 
-En el título representativo del crédito otorgado con garantía del Fondo, se deberán señalar, a lo menos, las condiciones del crédito y el porcentaje sujeto a la garantía del Fondo.
+En el título representativo del financiamiento otorgado con garantía del Fondo, se deberán señalar, a lo menos, las condiciones del financiamiento, el porcentaje sujeto a la garantía del Fondo y el plazo de vigencia de la garantía, cuando este sea inferior al plazo del financiamiento.
 
 #### Artículo 22
 
-En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 425 días siguientes a la fecha de vencimiento del respectivo crédito, para cuyo efecto deberá demostrar que ha iniciado las correspondientes acciones de cobro. Se podrán exceptuar de estas acciones de cobro los créditos cuyo monto total no exceda del equivalente de 60 unidades de fomento.
+En caso de mora del deudor, la institución acreedora podrá solicitar al Administrador del Fondo el reembolso del importe caucionado dentro de los 425 días siguientes a la fecha en que el deudor debió pagar, para cuyo efecto el acreedor deberá demostrar que ha iniciado las correspondientes acciones de cobro. Se podrán exceptuar de estas acciones de cobro los financiamientos cuyo monto total de capital demandado no exceda del equivalente de 60 unidades de fomento.
+
+Se entenderá como inicio de las acciones de cobro, la debida presentación de la demanda y notificación al deudor, dentro de los plazos legales establecidos para estos efectos.
 
 Cuando le sea requerido el pago de la garantía, el Administrador del Fondo procederá a reembolsar los montos garantizados dentro de un plazo máximo de 15 días hábiles contados desde la fecha del requerimiento fundamentado de la institución participante. Si a juicio del Administrador no procediera el pago de la garantía, éste deberá rechazar el requerimiento del referido pago dentro del mismo plazo de 15 días antes señalado.
 
-La negativa del Administrador a efectuar el pago de la garantía, habilitará a la institución participante para recurrir a la Superintendencia de Bancos e Instituciones Financieras en conformidad a lo dispuesto en el artículo 8° del Decreto Ley N° 3.472.
+La negativa del Administrador a efectuar el pago de la garantía, habilitará a la institución participante para recurrir a la Superintendencia en conformidad a lo dispuesto en el artículo 8° de la Ley.
+
+En el caso de financiamientos cedidos a una sociedad securitizadora, la institución cedente deberá actuar como mandataria de la cesionaria ante la Administración del Fondo, para los efectos de que trata el presente artículo.
 
 #### Artículo 23
 
-Se permite al Fondo garantizar préstamos hasta por un máximo equivalente a diez veces el valor de su patrimonio.
+El monto de las garantías comprometidas por el Fondo más los derechos de garantías adjudicados, deducidos los importes de las garantías correspondientes a financiamientos reafianzados o asegurados no podrá exceder de diez veces el valor de su patrimonio.
 
-V.- COMISIONES Y GASTOS DE OPERACION.
+### V. COMISIONES Y GASTOS DE OPERACIÓN
 
 #### Artículo 24
 
-El producto de la cobranza de los créditos garantizados y pagados por el Fondo, será distribuido en el siguiente orden de preferencia:
+El producto de la cobranza de los financiamientos garantizados y pagados por el Fondo, será distribuido en el siguiente orden de preferencia:
 
-a) Los capitales no garantizados por el Fondo y los gastos de la cobranza judicial y/o extrajudicial en que incurra la institución otorgante del crédito, tanto en relación con la parte garantizada como no garantizada del mismo.
+a) Los capitales no garantizados por el Fondo y los gastos de la cobranza judicial y/o extrajudicial en que incurra la institución otorgante del financiamiento, tanto en relación con la parte garantizada como no garantizada del mismo.
 
 b) La suma desembolsada por el Fondo en cumplimiento de la garantía otorgada.
 
-c) Los intereses compensatorios y moratorios a que tenga derecho la institución otorgante del crédito, tanto en relación con la parte garantizada, sólo hasta la fecha en que pagó el Fondo, como de aquella parte no garantizada del crédito.
+c) Los intereses compensatorios y moratorios a que tenga derecho la institución otorgante del financiamiento, tanto en relación con la parte garantizada, sólo hasta la fecha en que pagó el Fondo, como de aquella parte no garantizada del financiamiento.
 
 d) Las comisiones y cualquier otra suma a que tenga derecho el Fondo.
 
@@ -9302,35 +9232,23 @@ Adicionalmente, tendrá derecho a una comisión del 10% sobre el resultado del F
 
 #### Artículo 26
 
-El Administrador del Fondo fijará la comisión que pagarán al Fondo los usuarios de los créditos garantizados, la que no podrá exceder de un 2% anual sobre el saldo de capital caucionado.
+El Administrador del Fondo fijará la comisión que pagarán al Fondo los usuarios de los financiamientos, la que no podrá exceder de un 2% anual sobre el saldo del capital caucionado. Tratándose de créditos contingentes con la garantía del Fondo, se entenderá por capital caucionado el cupo o monto máximo que la institución haya establecido para la respectiva modalidad de financiamiento, ajustado a la respectiva tasa de garantía.
 
-El Administrador del Fondo fijará la oportunidad y forma para el pago de esta comisión. El monto que se cobre anualmente por ese concepto no podrá exceder, en ningún caso, cualquiera que sea la forma que se determine para su pago, de aquel que resulte de aplicar la tasa indicada en el párrafo precedente, en forma anticipada, sobre el saldo del crédito al comienzo del respectivo período anual. Asimismo, el Administrador determinará la forma y plazo en que los pagos de la comisión serán traspasados de la institución otorgante del crédito al Fondo de Garantía. No obstante, cuando se trate de créditos que sean securitizados, la totalidad de la comisión a favor del Fondo devengada por esos créditos hasta la fecha de cesión, deberá estar traspasada al Fondo.
+El Administrador del Fondo establecerá la oportunidad y forma para el pago de esta comisión. El monto que se cobre anualmente por ese concepto no podrá exceder, en ningún caso, cualquiera que sea la forma que se determine para su pago, de aquel que resulte de aplicar la tasa indicada en el párrafo precedente, en forma anticipada, sobre el saldo del financiamiento al comienzo del respectivo período anual. Asimismo, el Administrador determinará la forma y plazo en que los pagos de la comisión serán traspasados de la institución otorgante del financiamiento al Fondo de Garantía. No obstante, cuando se trate de financiamientos cuyos instrumentos sean securitizados, la totalidad de la comisión a favor del Fondo devengada por esos financiamientos hasta la fecha de cesión, deberá estar traspasada al Fondo.
 
-VI.- ADMINISTRACION.
+### VI. ADMINISTRACIÓN
 
 #### Artículo 27
 
-El Administrador del Fondo establecerá las normas operativas necesarias para el normal desarrollo del Fondo de Garantía con sujeción a lo señalado en el Decreto Ley N° 3.472 y sus modificaciones, y a las normas establecidas en el presente Reglamento.
+El Administrador del Fondo establecerá las normas operativas necesarias para el normal desarrollo del Fondo de Garantía con sujeción a lo señalado en la Ley, en las normas del presente Reglamento y en las instrucciones impartidas por la Superintendencia.
 
-Para los fines previstos en el artículo 14 de la Ley General de Bancos, le corresponderá al Administrador del Fondo informar a la Superintendencia de Bancos e Instituciones Financieras los importes impagos de los créditos correspondientes a la subrogación pagada por el Fondo.
+Para los fines previstos en el artículo 14 de la Ley General de Bancos, le corresponderá al Administrador del Fondo informar a la Superintendencia los importes impagos de los financiamientos correspondientes a la subrogación pagada por el Fondo, la que deberá ser entregada de la manera y dentro de los plazos exigidos a los bancos.
 
-VII.- FISCALIZACION.
+### VII. FISCALIZACIÓN
 
 #### Artículo 28
 
-La Superintendencia de Bancos e Instituciones Financieras tendrá a su cargo la fiscalización del Fondo, como asimismo del cumplimiento de las disposiciones de este Reglamento.
-
-DISPOSICIONES TRANSITORIAS.
-
-Artículo I. Las personas a que se refiere el Título I de este Reglamento, podrán optar a la garantía del Fondo para la repactación o renegociación de aquellos créditos y contratos de leasing financiero, que mantengan con bancos o sus filiales, siempre que se trate de operaciones que cuenten con los requisitos de elegibilidad a que se refiere el Título IV de este Reglamento.
-
-El Fondo garantizará hasta el 20% del saldo adeudado de esos créditos a la fecha de la renegociación o repactación incluidos sus intereses y reajustes
-
-La opción a que se refiere este artículo podrán ejercerla los interesados hasta el 30 de diciembre de 2000.
-
-#### Artículo 2°
-
-Las garantías otorgadas por el Fondo de Garantía para Exportadores no Tradicionales que se encuentren vigentes al 20 de Mayo de 2000 se regirán, hasta su extinción, por las disposiciones de la ley N° 18.645, su reglamento e instrucciones que les eran aplicables.
+La Superintendencia tendrá a su cargo la fiscalización del Fondo, como asimismo del cumplimiento de las disposiciones de este Reglamento.
 
 CAPITULO 8-10 (Bancos y Financieras)
 
