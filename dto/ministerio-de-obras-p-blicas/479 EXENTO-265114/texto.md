@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 479, de 30 de agosto de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 8, para la ejecución de la obra "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", que figura a nombre de bienes comunes generales, Rol de avalúo: 46-6, Comuna de Montepatria, superficie 1.130 m2. La Comisión de Peritos, fijó con fecha 12 de febrero de 2007, en la cantidad de $3.161.000, para el lote Nº 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
