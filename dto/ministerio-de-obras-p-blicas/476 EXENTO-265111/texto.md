@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 476, de 30 de agosto de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: "Camino Ruta O-274, Sector Tomé - Cocholhue, Km. 0,00000 a Km. 2,00000", que figura a nombre de Pinto Molina Suc., rol de avalúo Nº 412-94, Comuna de Tomé, VIII Región, superficie 8.510 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 14 de noviembre de 2005, en la cantidad de $2.553.000.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
