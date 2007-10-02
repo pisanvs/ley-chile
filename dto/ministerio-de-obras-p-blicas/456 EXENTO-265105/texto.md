@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 456, de 30 de agosto de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 18-F y 18-H, para la obra: "Camino Ruta Q-90-O, Sector Cruce Longitudinal - Laja Tramo Km.
+
+0,00000 a Km. 35,53000", que figuran a nombre de Sepúlveda Viveros Wenceslao y Jara Jara María G., roles de avalúo Nºs. 308-29 y 308-6, comuna de Laja, VIII Región, superficies 2.542 m2 y 2.794 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 10 de julio de 2006, en la cantidad de $1.438.204.- para el lote Nº 18-F y $2.000.189.- para el lote Nº 18-H. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
