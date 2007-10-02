@@ -1,0 +1,3 @@
+Por decreto MOP Nº 610, de 30 de agosto de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para el proyecto Sistema de Agua Potable Rural El Bosque de Panimávida, que figura a nombre de Banco del Estado de Chile, rol de avalúo 32-11, superficie 3.150 m2, de la comuna de Colbún. La Comisión de Peritos fijó la indemnización provisional, con fecha 18 de abril de 2007, en la cantidad de $4.428.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
