@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 457 de 30 de agosto de 2007, se dejó sin efecto el decreto MOP (exento) Nº 236 de 30 de abril de 2007, en la parte que se refiere al Lote Nº 70 expropiado para la obra Camino Reposición Pav. Ruta M-50, Sector Cauquenes - Chanco, Tramo Cauquenes - Tutuven, Km. 2,65000 a Km. 15,24724, rol de avalúo Nº 437-25 de la comuna de Cauquenes, superficie 2.208 m2. y que figura a nombre de Urrutia Michelson Luis.
+
+- Fiscal del Ministerio de Obras Públicas.
