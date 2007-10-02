@@ -1,0 +1,3 @@
+Por decreto MOP Nº 545, de 31 de julio de 2007, se expropiaron los lotes de terrenos Nºs. 33 y 34, superficie 62 y 5.214 m2, rol de avalúo 1524-206, comuna de Los Ángeles, para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara Km. 0,00000 a Km. 10,35968", VIII Región y se acordó el valor de la indemnización con su propietario Luis Veloso González, ascendente a la cantidad de $12.065.800.
+
+- Fiscal del Ministerio de Obras Públicas.
