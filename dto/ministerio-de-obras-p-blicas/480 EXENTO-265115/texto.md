@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 480, de 30 de agosto de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 4, para la ejecución de la obra "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", que figura a nombre de Cortés Cortés Pedro Pascual, Rol de avalúo: 46-35, comuna de Montepatria, superficie 59 m2. La Comisión de Peritos fijó con fecha 12 de febrero de 2007, en la cantidad de $137.900, para el lote Nº 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
