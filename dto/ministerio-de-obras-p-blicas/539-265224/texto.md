@@ -1,0 +1,3 @@
+Por decreto MOP Nº 539 de 31 de julio de 2007, se expropiaron los lotes de terrenos Nos 1 y 3-A, superficies 90 y 24.503 m², rol de avalúo Nº 276-96, comuna de Putaendo, para la obra "Camino Cabildo - Putaendo, Ruta E-41, sector El Tártaro - Putaendo, Tramo km. 58,86000 a Km. 65,13300, comuna de Putaendo, provincia de San Felipe, V Región", y se acordó el valor de la indemnización con su propietario Alejandro del Carmen González Leris y otros, ascendente a la cantidad de $33.272.886.
+
+- Fiscal del Ministerio de Obras Públicas.
