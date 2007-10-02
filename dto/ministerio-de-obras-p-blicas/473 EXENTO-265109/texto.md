@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 473, de 30 de agosto de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1-A, para la ejecución de la obra "Reposición Ruta E-30-F, Sector Zapallar-La Laguna, Km. 22,80733 a Km. 36,23097", que figura a nombre de Saxton Von Essen Carlos Christia, Rol de avalúo: 55-01, Comuna de Zapallar, superficie 53,19 m2. La Comisión de Peritos, fijó con fecha 25 de agosto de 2006, en la cantidad de $2.529.800.- para el lote Nº 1-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
