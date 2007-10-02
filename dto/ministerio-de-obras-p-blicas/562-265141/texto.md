@@ -1,0 +1,3 @@
+Por decreto MOP Nº 562 de 31 de julio de 2007, se expropió el lote de terreno Nº 31, superficie 228,51 m², rol de avalúo Nº 179-14, comuna de Zapallar, para la obra "Reposición Ruta E-30-F, sector Zapallar - La Laguna, Km. 22,80733 al Km. 36,23097", V Región, y se acordó el valor de la indemnización con María Mercedes Ruiz-Tagle Irarrázabal, ascendente a la cantidad de $10.537.683.
+
+- Fiscal del Ministerio de Obras Públicas.
