@@ -1,0 +1,5 @@
+Por decreto MOP Nº 560, de 31 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 3, 4-A y 5-A, para la ejecución de la obra "Construcción Puente San Enrique, Ruta G-80-I, Tramo Km.
+
+26,40000 a Km. 27,01600", que figuran a nombre de Beltrán Mira Natacha, Castillo Ruiz Tagle Rosa Victoria y Castillo Ruiz Tagle Carmen, Roles de avalúo: 1603-23, 1603-01 y 1603-134, comuna de Santo Domingo, superficies 839 m2, 1.927 m2 y 974 m2. La Comisión de Peritos, fijó con fecha 6 de octubre de 2006, cantidad de $11.517.000, para el lote Nº 3, y con fecha 15 de enero de 2007, las cantidades de $8.750.000, para el lote Nº 4-A y $3.322.000, para lote Nº 5-A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
