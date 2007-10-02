@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 475, de 30 de agosto de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº48-B, para la obra: "Mejoramiento Pasadas Urbanas Villarrica-Pucón, Variante Camino Internacional", que figura a nombre de Jiménez Retamal Juan, rol de avalúo Nº 79-8, Comuna de Pucón, IX Región, superficie 30 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 6 de febrero de 2006, en la cantidad de $1.776.500.- para el lote Nº 48-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley N 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
