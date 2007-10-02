@@ -1,0 +1,3 @@
+Por decreto MOP Nº 544 de 31 de julio de 2007, se expropió el lote de terreno Nº 33, superficie 407,81 m², rol de avalúo Nº 350-08, comuna de Zapallar, para la obra "Reposición Ruta E-30-F, Sector Zapallar - La Laguna, Km. 22,80733 al Km. 36,23097", V Región, y se acordó el valor de la indemnización con Carmen Gloria Vicuña Ureta y otro, ascendente a la cantidad de $23.354.481.
+
+- Fiscal del Ministerio de Obras Públicas.
