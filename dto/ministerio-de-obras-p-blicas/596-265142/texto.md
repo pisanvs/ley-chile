@@ -1,0 +1,5 @@
+Por decreto MOP Nº 596 de 30 de agosto 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 1 y 2, para la obra: "Camino Nacimiento - Trongol, Sector Conexión Baden Trongol - Trongol Alto, Km. 0,00000 a Km.
+
+8,52593", que figuran a nombre de Forestal Mininco S.A., rol de avalúo Nº 504-49, comuna de Curani-lahue, VIII Región, superficies 18.166 m2 y 151.894 m2. La comisión de peritos fijó el monto provisional de la indemnización el 20 de noviembre de 2006, en las cantidades de $4.343.200.- para el lote Nº 1 y $114.718.800.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
