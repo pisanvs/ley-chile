@@ -1,0 +1,573 @@
+FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DEL DECRETO CON FUERZA DE LEY Nº 153, DE 1981, QUE ESTABLECE LOS ESTATUTOS DE LA UNIVERSIDAD DE CHILE
+
+D.F.L. Núm. 3.- Santiago, 10 de marzo de 2006.- Visto: Lo dispuesto en el artículo 64 de la Constitución Política del Estado, dicto el siguiente:
+
+Decreto con fuerza de ley:
+
+## Título I
+
+Disposiciones Fundamentales
+
+#### Artículo 1°
+
+La Universidad de Chile, Persona Jurídica de Derecho Público Autónoma, es una Institución de Educación Superior del Estado de carácter nacional y público, con personalidad jurídica, patrimonio propio, y plena autonomía académica, económica y administrativa, dedicada a la enseñanza superior, investigación, creación y extensión en las ciencias, las humanidades, las artes y las técnicas, al servicio del país en el contexto universal de la cultura.
+
+#### Artículo 2º
+
+La generación, desarrollo, integración y comunicación del saber en todas las áreas del conocimiento y dominios de la cultura, constituyen la misión y el fundamento de las actividades de la Universidad, conforman la complejidad de su quehacer y orientan la educación que ella imparte.
+
+La Universidad asume con vocación de excelencia la formación de personas y la contribución al desarrollo espiritual y material de la Nación. Cumple su misión a través de las funciones de docencia, investigación y creación en las ciencias y las tecnologías, las humanidades y las artes, y de extensión del conocimiento y la cultura en toda su amplitud. Procura ejercer estas funciones con el más alto nivel de exigencia.
+
+#### Artículo 3º
+
+Asimismo, corresponde a la Universidad contribuir con el desarrollo del patrimonio cultural y la identidad nacionales y con el perfeccionamiento del sistema educacional del país. En cumplimiento de su labor, la Universidad responde a los requerimientos de la Nación constituyéndose como reserva intelectual caracterizada por una conciencia social, crítica y éticamente responsable y reconociendo como parte de su misión la atención de los problemas y necesidades del país. Con ese fin, se obliga al más completo conocimiento de la realidad nacional y a su desarrollo por medio de la investigación y la creación; postula el desarrollo integral, equilibrado y sostenible del país, aportando a la solución de sus problemas desde la perspectiva universitaria, y propende al bien común y a la formación de una ciudadanía inspirada en valores democráticos, procurando el resguardo y enriquecimiento del acervo cultural nacional y universal.
+
+#### Artículo 4º
+
+Los principios orientadores que guían a la Universidad en el cumplimiento de su misión, inspiran la actividad académica y fundamentan la pertenencia de sus miembros a la vida universitaria, son: la libertad de pensamiento y de expresión; el pluralismo; y la participación de sus miembros en la vida institucional, con resguardo de las jerarquías inherentes al quehacer universitario. Forman parte también de estos principios orientadores: la actitud reflexiva, dialogante y crítica en el ejercicio de las tareas intelectuales; la equidad y la valoración del mérito en el ingreso a la Institución, en su promoción y egreso; la formación de personas con sentido ético, cívico y de solidaridad social; el respeto a personas y bienes; el compromiso con la institución; la integración y desarrollo equilibrado de sus funciones universitarias, y el fomento del diálogo y la interacción entre las disciplinas que cultiva.
+
+#### Artículo 5º
+
+Son emblemas oficiales de la Universidad de Chile el escudo distintivo y la bandera.
+
+Tiene asimismo un himno oficial.
+
+#### Artículo 6º
+
+A la Universidad de Chile le corresponde la atribución de reconocer, revalidar y convalidar títulos profesionales obtenidos en el extranjero, sin perjuicio de lo dispuesto en los tratados internacionales.
+
+También le compete pronunciarse sobre convenios o tratados internacionales relativos a la educación superior que el Gobierno de Chile tenga interés en suscribir con otros gobiernos o entidades internacionales y extranjeras.
+
+#### Artículo 7º
+
+Corresponde a la Universidad de Chile, en virtud de su autonomía, la potestad para determinar la forma y condiciones en que deben cumplirse sus funciones de docencia, de investigación, de creación o de extensión, así como la aprobación de los planes de estudio que imparta.
+
+Asimismo, está facultada para organizar su funcionamiento y administración del modo que mejor convenga a sus intereses.
+
+De la misma manera, le corresponde determinar la forma en que distribuye su presupuesto para satisfacer los fines que le son propios, conforme a la planificación de su acción y desarrollo.
+
+#### Artículo 8º
+
+El patrimonio de la Universidad de Chile está constituido por sus bienes y por los ingresos que le corresponda percibir, entre otros conceptos, por los siguientes:
+
+a) Los aportes que se le concedan anualmente en virtud de la Ley de Presupuestos de la Nación y que otras leyes especiales le otorguen;
+
+b) Los montos que perciba por concepto de derechos de matrícula, aranceles, certificados y solicitudes a la Universidad, y toda clase de cuotas extraordinarias que deban pagar sus alumnos;
+
+c) Los ingresos que perciba por prestación de servicios, de conformidad a la ley;
+
+d) Los bienes muebles o inmuebles de que sea propietaria y los que adquiera en el futuro a cualquier título;
+
+e) Los frutos de sus bienes;
+
+f) La propiedad intelectual e industrial que le corresponda de conformidad con la ley; y
+
+g) Las donaciones, herencias o legados o cualquier tipo de ingresos que reciba de personas naturales o jurídicas.
+
+#### Artículo 9º
+
+El Presidente de la República es el Patrono de la Universidad de Chile.
+
+#### Artículo 10º
+
+Las disposiciones del presente Estatuto y de los reglamentos universitarios dictados en su virtud prevalecerán sobre las leyes generales, a menos que éstas se refieran expresamente a la Universidad de Chile en particular, a las universidades chilenas en general, o al sistema universitario del país.
+
+#### Artículo 11º
+
+La Universidad podrá establecer relaciones institucionales de colaboración con otras entidades nacionales, interna-cionales o extranjeras, en el ámbito de sus funciones universitarias.
+
+#### Artículo 12º
+
+La comunidad universitaria está constituida por académicos, estudiantes y personal de colaboración, quienes ejercen de manera regular los quehaceres que se desprenden de su misión y funciones.
+
+Además, se considerarán integrantes de la misma aquellas personas a quienes, por sus méritos excepcionales, se les haya otorgado pertenencia honorífica, los que poseerán los derechos que la normativa universitaria les reconozca.
+
+El ingreso, permanencia, promoción y desvinculación de los integrantes de la comunidad universitaria obedecerá únicamente a méritos o causales objetivas, con arreglo a la ley, y sin sujeción a discriminaciones de carácter arbitrario.
+
+Residirá en la comunidad universitaria la facultad de decidir respecto del funcionamiento, organización, gobierno y administración de la institución, la que ejercerá mediante los órganos y procedimientos establecidos en el presente Estatuto.
+
+#### Artículo 13°
+
+Son académicos quienes tienen un nombramiento vigente y una jerarquía académica en la Universidad de Chile, conforme a las normas del Título IV de este Estatuto.
+
+Sin perjuicio de las tareas y responsabilidades de los órganos internos de la Universidad y del resto de la comunidad universitaria, el estamento de académicos tiene un rol primordial en el cumplimiento de las funciones fundamentales de la Universidad de Chile y, por lo tanto, en la deliberación, diseño y aplicación en las políticas institucionales, con arreglo a los mecanismos y procedimientos previstos en este Estatuto.
+
+#### Artículo 14º
+
+Son estudiantes quienes han formalizado su matrícula en carreras y programas académicos regulares y sistemáticos y cumplen los requisitos establecidos por la Universidad para su ingreso, permanencia y promoción. El Reglamento de los Estudiantes fijará sus deberes y derechos como miembros de la comunidad universitaria.
+
+#### Artículo 15º
+
+Son funcionarios, que constituyen el personal de colaboración, quienes desempeñan las labores de apoyo directivo, profesional, técnico, administrativo y auxiliar, a las tareas que requiere la marcha de la Institución.
+
+## Título II — Órganos Superiores de la Universidad
+
+Párrafos 1º al 5º
+
+#### Artículo 16º
+
+Los órganos superiores de la Universidad constituyen las instancias encargadas de dirigir y gestionar, impulsando el desarrollo académico institucional y de sus miembros; también se encargarán de normar y proyectar la Universidad, estableciendo las políticas generales, en procura del cumplimiento de su misión y de su desarrollo coherente, transversal y de excelencia.Residen estas funciones en el Rector, en el Consejo Universitario y en el Senado Universitario.
+
+Las funciones ejecutivas serán ejercidas por el Rector y por el Consejo Universitario, de conformidad con las normas de este Título.
+
+El Decano es la máxima Autoridad de la respectiva Facultad y le corresponde la dirección de ésta, dentro de las políticas universitarias que al efecto determinen los órganos superiores ya señalados.
+
+### Párrafo 1º
+
+Del Rector de la Universidad de Chile
+
+#### Artículo 17
+
+El Rector de la Universidad de Chile es su máxima autoridad y su representante legal. Preside el Consejo Universitario y el Senado Universitario. Le corresponde adoptar todas las medidas conducentes a dirigir y administrar las actividades académicas, administrativas y financieras de la Universidad al más alto nivel, las que podrá delegar.
+
+Deberá ser Profesor Titular de la Universidad de Chile o una personalidad académica de una jerarquía que la Institución, a través del Consejo de Evaluación, reconozca equivalente de conformidad a lo previsto en el Reglamento contemplado en el artículo siguiente.
+
+#### Artículo 18
+
+El Consejo Universitario convocará a elecciones de rector, las que se realizarán de conformidad con las normas siguientes.
+
+En la elección de rector participarán los académicos pertenecientes a las tres más altas jerarquías de la universidad que tengan, a lo menos, un año de antigüedad en la misma. Con todo, el organismo colegiado superior respectivo, con el voto conforme de la mayoría de sus miembros en ejercicio, podrá permitir la participación de los académicos pertenecientes a otras jerarquías, siempre que tengan la calidad de profesor y cumplan con el requisito de antigüedad antes señalado. El voto de los académicos será personal, secreto e informado y podrá ser ponderado, de acuerdo con el reglamento que dicte el organismo colegiado superior de la universidad, atendidas su jerarquía y jornada. Ed.1981
+
+El candidato a rector será elegido en votación directa y por mayoría absoluta de los votos válidamente emitidos. La elección se realizará, en la forma que determine el reglamento, a lo menos treinta días antes de aquel en que deba cesar en el cargo el que esté en funciones.
+
+Si a la elección de rector se presentaren más de dos candidatos y ninguno de ellos obtuviere más de la mitad de los sufragios válidamente emitidos, se procederá a una nueva elección, la que se circunscribirá a los dos candidatos que hubieren obtenido las más altas mayorías relativas.
+
+El rector será nombrado por el Presidente de la República, mediante decreto supremo del Ministerio de Educación. Durará cuatro años en sus funciones y podrá ser reelegido por una vez para el período inmediatamente siguiente.
+
+#### Artículo 19
+
+Al Rector le corresponde especialmente:
+
+a) Presidir el Consejo Universitario y el Senado Universitario;
+
+b) Dictar los reglamentos, decretos y resoluciones de la Universidad;
+
+c) Resolver sobre las modificaciones de estructuras que propongan las Facultades;
+
+d) Ejercer la jurisdicción disciplinaria respecto a los académicos, los estudiantes y los funcionarios de la Universidad, de conformidad al Reglamento que al efecto dicte;
+
+e) Representar y regular las relaciones de la Universidad de Chile con otros organismos nacionales, extranjeros e internacionales;
+
+f) Conferir las distinciones y calidades honoríficas, de acuerdo a los respectivos reglamentos;
+
+g) Conferir los grados y títulos profesionales;
+
+h) Nombrar al personal académico y administrativo de la Universidad conforme a la planta que apruebe previamente;
+
+i) Proponer al Senado Universitario la nominación de los cinco académicos integrantes del Consejo de Evaluación, según lo dispuesto en el presente Estatuto y en la reglamentación correspondiente;
+
+j) Fijar los aranceles y derechos de matrículas con acuerdo del Consejo Universitario;
+
+k) Resolver conflictos de autoridad que se sometan a su decisión;
+
+l) Proponer al Consejo Universitario, para su aprobación, la designación del Prorrector de la Universidad;
+
+m) Resolver, con acuerdo del Consejo Universitario, las políticas conforme a las que ejercerán las funciones ejecutivas que les competen conjuntamente;
+
+n) Crear, modificar y suprimir las Unidades Ejecutivas Centrales y dictar sus reglamentaciones internas de funcionamiento;
+
+ñ) Suscribir y contratar directamente, con cargo al patrimonio universitario y en conformidad con la ley, empréstitos y obligaciones financieras que, de acuerdo con las pautas de endeudamiento que se establezcan anualmente, no requieran la autorización previa del Consejo Universitario o la opinión del Senado Universitario; y, en los casos en que exista uno u otro de tales requisitos, solicitar la aprobación u opinión respectiva y contratar aquellos que sean autori-zados;
+
+o) Elaborar el proyecto de presupuesto anual de la Universidad, y la propuesta de modificaciones que eventualmente exija su ejecución, y presentarlos al Consejo Universitario para su aprobación y posterior ratificación por el Senado Universitario, todo ello de conformidad con el Reglamento de Presupuesto. Conjuntamente con el proyecto de presupuesto y sujeto al mismo trámite de éste, el Rector propondrá las pautas anuales de endeudamiento, señalando las obligaciones que durante el correspondiente ejercicio podrá suscribir directamente y aquéllas para las cuales requerirá la autorización del Consejo Universitario o el pronunciamiento del Senado Universitario;
+
+p) Informar anualmente de la ejecución del presupuesto al Consejo Universitario y al Senado Universitario;
+
+q) Presentar la cuenta anual sobre el funcionamiento de la Universidad;
+
+r) Proponer al Consejo Universitario la enajenación o gravamen de aquellos bienes respecto de los cuales se requiere la aprobación de dicho órgano y el pronunciamiento del Senado Universitario;
+
+s) Proponer al Senado Universitario, de iniciativa propia o a propuesta del Consejo Universitario, la estructura orgánica de la Universidad y sus modificaciones;
+
+t) Proponer al Senado Universitario, de iniciativa propia o a propuesta del Consejo Universitario, la creación, modificación o supresión de títulos profesionales o grados académicos;
+
+u) Proponer al Senado Universitario, por iniciativa suya o a propuesta del Consejo de facultad respectivo, la remoción anticipada de un Decano, por incumplimiento grave de sus obligaciones, previo pronunciamiento del Consejo Universitario, y
+
+v) Las demás que establezcan las leyes y reglamentos.
+
+#### Artículo 20
+
+Dependerán del Rector, como Unidades Ejecutivas Centrales, la Prorrectoría, las Vicerrectorías y las demás unidades requeridas para la administración superior de la Universidad que sean creadas con ese carácter. Dichas Unidades Ejecutivas Centrales son las encargadas de orientar, coordinar, apoyar y desarrollar la labor universitaria.
+
+#### Artículo 21
+
+El Rector será subrogado en caso de ausencia o impedimento por el Prorector y en su ausencia o impedimento por el Decano designado expresamente por el Rector.
+
+### Párrafo 2º — Del Consejo Universitario
+
+#### Artículo 22º
+
+El Consejo Universitario es el órgano colegiado de carácter ejecutivo de la Universidad de Chile. Cumplirá su labor atendiendo las necesidades de la Universidad, ocupándose de su desarrollo, de acuerdo con las políticas y estrategias establecidas por el Senado Universitario.
+
+Será integrado por el Rector, quien lo presidirá, y por el Prorrector, los Decanos y dos representantes del Presidente de la República. Los integrantes de designación presidencial, serán de la exclusiva confianza de esa autoridad.
+
+Asistirán a las sesiones, con derecho a voz, un delegado de los académicos, uno de los estudiantes y uno del personal de colaboración, designados por las asociaciones de los respectivos estamentos, conforme al procedimiento y plazos que establezca el Reglamento previsto en la letra j) del artículo siguiente.
+
+Las materias no reguladas en el presente artículo se establecerán en el Reglamento citado en el inciso anterior, entre las que se incluirán los procedimientos mediante los cuales se invitará a participar en sus sesiones a personas distintas a las establecidas en los incisos anteriores.
+
+Los integrantes de designación presidencial ejercerán sus funciones por un período de tres años, y podrán cesar con anterioridad si el Presidente de la República así lo dispone. El desempeño del cargo de Consejero será ad-honorem.
+
+El quórum para sesionar será el de la mayoría de sus integrantes.
+
+Los acuerdos se adoptarán por simple mayoría de los asistentes, salvo que este Estatuto o un Reglamento establezca una mayoría superior.
+
+Para el caso de nombramiento del Prorrector se requerirá la aprobación por la mayoría absoluta de los integrantes del Consejo Universitario.
+
+Se desempeñará como Secretario del Consejo la persona que se designe al efecto.
+
+#### Artículo 23º
+
+Son funciones y atribuciones del Consejo Universitario de la Universidad de Chile las siguientes:
+
+a) Aprobar, con el Rector, las políticas conforme a las que se ejercerán las funciones ejecutivas que les competen conjuntamente, y tomar conocimiento acerca de la creación, modificación y supresión de las Unidades Ejecutivas Centrales y de sus reglamentaciones internas de funcionamiento;
+
+b) Aprobar, dentro del plazo de diez días hábiles, a contar de su presentación, el proyecto de presupuesto anual elaborado por el Rector, sus modificaciones y las pautas anuales de endeudamiento, para su posterior ratificación por el Senado Universitario. Si transcurre el término antes señalado sin que sean despachados, o no se formulasen observaciones, se entenderán por aprobados. En caso de formularse observaciones fundadas en el plazo ya indicado, se constituirá una comisión presidida por el Rector e integrada por tres miembros del Consejo que, en un término de 5 días hábiles a contar de la presentación de las indicaciones, resolverá sobre ellas y, a falta de acuerdo o transcurrido el plazo establecido sin que exista decisión, resolverá el Rector refiriéndose únicamente a aquellas observaciones en que la comisión no haya logrado acuerdo o no se haya pronunciado;
+
+c) Aprobar, a propuesta del Rector, la enajenación o gravamen de bienes cuando se requiera para ello la ratificación del Senado Universitario;
+
+d) Autorizar al Rector la contratación y suscripción de empréstitos y obligaciones financieras, cuando corresponda, de acuerdo con las pautas anuales de endeudamiento aprobadas conforme a lo dispuesto en el artículo 19 letra o);
+
+e) Pronunciarse respecto de la estructura orgánica general de la Universidad y sus modificaciones;
+
+f) Pronunciarse respecto de las contrataciones de empréstitos con cargo a fondos de la Universidad;
+
+g) Pronunciarse respecto de la
+
+creación, modificación y supresión de grados y los títulos profesionales que correspondan;
+
+h) Aprobar los reglamentos que no estén sometidos al Senado Universitario, de acuerdo con lo establecido en la letra a) del artículo 25, pudiendo delegar esta atribución en el Rector;
+
+i) Acordar las medidas generales que se requieran para el adecuado uso de la infraestructura universitaria;
+
+j) Aprobar el reglamento interno del Consejo Universitario;
+
+k) Requerir del Rector, o a través de él, los antecedentes que se estime necesarios para el ejercicio de sus atribuciones;
+
+l) Resolver en última instancia las apelaciones a las medidas disciplinarias de exoneración, expulsión y cancelación de matrícula aplicadas a académicos, funcionarios y estudiantes, conforme a Reglamento;
+
+m) Proponer al Presidente de la República la remoción del Rector. El acuerdo respectivo deberá adoptarse por los dos tercios de sus miembros;
+
+n) Aprobar la propuesta del Rector sobre designación del Prorrector, y
+
+ñ) Ejercer las demás funciones y atribuciones que le confieran las leyes.
+
+### Párrafo 3º — Del Senado Universitario
+
+#### Artículo 24º
+
+El Senado Universitario es el órgano colegiado encargado de ejercer la función normativa de la Universidad. Tendrá como tarea fundamental establecer las políticas y estrategias de desarrollo institucional, así como los objetivos y metas que conduzcan al cumplimiento de aquellas.
+
+El Senado Universitario será presidido por el Rector. De entre los miembros académicos, el Senado elegirá un Vicepresidente, quien lo presidirá en ausencia del Rector, y un Secretario que actuará como Ministro de Fe.
+
+El Senado Universitario, en cuanto órgano representativo de la comunidad universitaria, estará integrado, además del Rector que lo preside, por 36 miembros, de los cuales 27 serán académicos, 7 estudiantes y 2 representantes del personal de colaboración. Los integrantes del Senado Universitario serán elegidos por sus respectivos pares, en la forma que establezca el Reglamento que se señala en el siguiente inciso. En todo caso, a lo menos un tercio de los miembros académicos deberá ser elegido por todo el cuerpo académico de la Universidad y los otros dos tercios por los académicos de las respectivas unidades académicas, según establezca el Reglamento.
+
+El Reglamento General de Elecciones y Consultas establecerá la forma y condiciones para elegir a los miembros del Senado Universitario. El mandato de los académicos y personal de colaboración será de cuatro años y el de los estudiantes de dos años, todos ellos con posibilidad de reelección por una vez. Su permanencia se encuentra condicionada a mantener la calidad que los habilitó para ser elegidos.
+
+El quórum para sesionar será el de la mayoría de sus integrantes. Los acuerdos se adoptarán por simple mayoría de los asistentes, salvo en los casos para los que este Estatuto o las normas dictadas conforme a él, establezcan mayorías superiores.
+
+#### Artículo 25
+
+Corresponderá al Senado Universitario: a) Aprobar, a proposición del Rector o por iniciativa de al menos un tercio de sus integrantes, los reglamentos referidos en el Estatuto institucional y sus modificaciones, toda norma de carácter general relativa a las políticas y planes de desarrollo de la Universidad y las propuestas de modificación al Estatuto que deban someterse al Presidente de la República para su trámite respectivo.
+
+Las propuestas de modificación de los Estatutos deberán presentarse por escrito ante el Secretario del Senado, suscritas por el Rector o por un tercio de los integrantes del Senado, y contener proposiciones concretas. En lo demás, estas propuestas deberán ajustarse a lo que establezca el Reglamento Interno del Senado.
+
+b) Interpretar el sentido y alcance de las normas del presente Estatuto, a solicitud del Rector, lo que debe entenderse sin perjuicio de las atribuciones de los órganos contralores competentes;
+
+c) Ratificar el proyecto de presupuesto anual de la Universidad, sus modificaciones y las pautas anuales de endeudamiento aprobados previamente por el Consejo Universitario. Si el Senado Universitario estima que dicho proyecto no está en concordancia con las políticas de desarrollo que hubiere establecido previamente, dispondrá de un término de 10 días hábiles, a contar de su presentación, para formular observaciones fundadas, que no podrán implicar un aumento del presupuesto. Si no se presentaren observaciones dentro de ese plazo, el presupuesto se tendrá por aprobado. En caso contrario, se constituirá una comisión presidida por el Rector e integrada por tres miembros del Senado y tres del Consejo que, en un término de 5 días hábiles a contar de la presentación de las indicaciones, resolverá sobre los puntos controvertidos. Si no lo hiciera dentro del plazo establecido, resolverá el Rector refiriéndose únicamente a aquellas observaciones en que la comisión no haya logrado acuerdo;
+
+d) Pronunciarse, de conformidad con este Estatuto, sobre la propuesta del Rector aprobada por el Consejo Universitario, relativa a enajenación o gravamen de activos de la Universidad cuando corresponda a bienes raíces o a bienes que, sin ser inmuebles, hayan sido previamente declarados de especial interés institucional, de acuerdo a reglamento;
+
+e) Pronunciarse, de conformidad con este Estatuto, acerca de la contratación y suscripción de empréstitos y obligaciones financieras, cuando corresponda, de acuerdo con las pautas anuales de endeudamiento. En todo caso, se requerirá la opinión previa del Senado Universitario cuando el plazo de la deuda sobrepase el período del Rector en ejercicio;
+
+f) Aprobar la estructura orgánica de la Universidad y sus modificaciones, que le proponga el Rector, previo pronunciamiento del Consejo Universitario. En caso que el Rector considere que existen diferencias sustantivas entre el pronunciamiento del Consejo y lo aprobado por el Senado Universitario, deberá convocar una comisión, que integrará y presidirá, compuesta además por tres miembros del Consejo y tres del Senado, designados por dichas instancias, respectivamente, la cual resolverá. Si dicha comisión no lograre acuerdo en el plazo de 10 días hábiles, resolverá el Rector. Si la proposición en definitiva fuere rechazada, no podrá presentarse nuevamente sino una vez transcurrido un año desde que tal resolución fuere adoptada;
+
+g) Aprobar las propuestas de creación, modificación o supresión de títulos profesionales o grados académicos que le presente el Rector, previo pronunciamiento del Consejo Universitario. En caso que el Rector considere que existen diferencias sustantivas entre el pronunciamiento del Consejo y lo aprobado por el Senado Universitario, se resolverá de acuerdo al procedimiento establecido en la letra precedente;
+
+h) Requerir de las autoridades a que se refiere el artículo 20, información acerca del estado de la gestión universitaria, con respecto a las políticas y estrategias generales de desarrollo institucional existentes;
+
+i) Aprobar, a proposición del Rector o por petición de a lo menos 1/3 de sus miembros, con el voto conforme de 2/3 de sus integrantes, la convocatoria a consultas sobre materias de competencia del Senado, y conferirles, en forma previa a su realización y con el mismo quórum señalado, carácter vinculante. Con todo, la consulta a la comunidad universitaria será obligatoria respecto de las propuestas de modificación a los Títulos I y II del presente Estatuto, que se sometan a su decisión de acuerdo con la letra a) de este artículo.
+
+j) Aprobar, a proposición del Rector o por petición de a lo menos 1/3 de sus miembros, con el voto conforme de 2/3 de sus integrantes, la convocatoria a eventos de discusión, reflexión y propuestas en materias de competencia del Senado, debidamente informados, para lo cual deberá establecer los mecanismos y las reglamentaciones que correspondan;
+
+k) Aprobar su reglamento interno de funcionamiento;
+
+l) Aprobar, por 2/3 de sus integrantes, la remoción anticipada de un Decano, a propuesta del Rector, por iniciativa suya o del Consejo de Facultad respectivo, por incumplimiento grave de sus obligaciones, previo pronunciamiento del Consejo Universitario, y
+
+m) Ejercer las demás funciones y atribuciones que le confieran las leyes.
+
+### Párrafo 4º — Del Prorrector de la Universidad de Chile
+
+#### Artículo 26
+
+El Prorrector es el DFL Nº153,Ed.1981 Ministro de Fe de la Universidad Art. 14º de Chile y el subrogante legal del D.O. 19.01.1982 Rector para todos los efectos.
+
+Corresponde al Prorrector ejercer la asesoría integral del Rector y la coordinación de la gestión administrativa y financiera de la Universidad, además de aquellas funciones y atribuciones que el Rector le delegue.
+
+#### Artículo 27
+
+El Prorrector será nombrado por el Rector previa aprobación del Consejo Universitario.
+
+#### Artículo 28
+
+El Prorrector permanecerá en sus funciones mientras cuente con la confianza del Rector.
+
+#### Artículo 29
+
+El Prorrector será subrogado, en caso de ausencia o impedimento por la autoridad universitaria designada expresamente por el Rector.
+
+### Párrafo 5º — Del Contralor de la Universidad de Chile
+
+#### Artículo 30
+
+El Contralor de la Universidad de Chile ejercerá el control de la legalidad de los actos de las Autoridades de la Universidad, fiscalizará el ingreso y uso de sus fondos y desempeñará las demás funciones que se señalen en un Reglamento Orgánico de la Contraloría Interna y demás normas aplicables, sin perjuicio de las facultades que conforme a las leyes le correspondan a la Contraloría General de la República.
+
+#### Artículo 31
+
+El Contralor será nombrado por el Rector previa aprobación del Senado Universitario.
+
+Será inamovible en su cargo y cesará en sus funciones sólo por renuncia, fallecimiento, jubilación o remoción.
+
+#### Artículo 32
+
+La remoción del Contralor sólo procederá a solicitud del Rector por haber incurrido en notable abandono de sus deberes. El Senado Universitario deberá aprobarla por los dos tercios de sus miembros.
+
+#### Artículo 33
+
+El Contralor será subrogado, en caso de ausencia o impedimento por el funcionario de la Contraloría designado expresamente por el Rector.
+
+#### Artículo 34
+
+En el ejercicio de sus funciones el Contralor de la Universidad de Chile deberá representar, por escrito, aquellos actos que él estime contravengan la Ley o la Constitución, debiendo darles curso si el Rector insiste, en cuyo caso se entenderá salvada su responsabilidad.
+
+## Título III — De la Estructura Académica
+
+#### Artículo 35º
+
+La estructura académica de la Universidad estará conformada por Facultades, Departamentos, Institutos, Centros y Escuelas, que cumplen labores de cultivo disciplinal, de integración multidisciplinaria y de gestión académica en diversos niveles. Estas unidades deberán contar con un cuerpo académico que garantice una labor creativa y eficiente. Asimismo, y sin perjuicio de su dependencia orgánica, gozarán de autonomía en el desempeño de las funciones que les competen y conforme a lo dispuesto en el inciso final del artículo 36, en lo pertinente.
+
+La estructura académica de la Universidad de Chile deberá facilitar el ejercicio de las funciones universitarias, debiendo organizar el conjunto de actividades y sus niveles en concordancia con su misión y principios. Deberá, especialmente, promover la integración funcional y territorial de la Universidad, la transdisciplinaridad y la transferencia entre conocimiento básico y aplicado, así como el desarrollo y perfeccionamiento de sus integrantes.
+
+#### Artículo 36º
+
+Las Facultades son organismos académicos encargados de la realización de una tarea permanente en una o más áreas del conocimiento, para lo cual desarrollan integradamente la docencia, la investigación, la creación, la extensión y la prestación de servicios en el campo que les es propio, de conformidad a la ley.
+
+A la Facultad le corresponde elaborar y coordinar políticas específicas de desarrollo para las unidades académicas que la integran y organizar, dirigir y fomentar el quehacer multi e interdisciplinario y profesional, estableciendo las relaciones y actividades que convengan a estos fines.
+
+Serán dirigidas por un Decano y contarán con un Consejo de Facultad.
+
+El Decano deberá ser Profesor Titular y será elegido por los académicos de la Facultad en la forma que fije el Reglamento General de Elecciones y Consultas.
+
+Durará cuatro años en el ejercicio de sus funciones, pudiendo ser elegido por un segundo período consecutivo. Al Consejo de Facultad, presidido por el Decano, le corresponderá definir las políticas de desarrollo académico e institucional en el contexto de los lineamientos y estrategias emanados del Senado Universitario. Además del Decano, lo integrarán los Directores de los Departamentos y Escuelas, y cuando corresponda, de los Institutos y Centros, y académicos de libre elección de acuerdo al reglamento dictado en virtud de la letra a) del artículo 25, quienes durarán dos años en sus funciones. Además, asistirán al Consejo, con derecho a voz, representantes de las organizaciones gremiales más representativas de académicos, estudiantes y personal de colaboración, respectivamente, de la correspondiente facultad, nombrados mediante los procedimientos que dichas organizaciones acuerden. El Reglamento General de Elecciones y Consultas establecerá las demás normas necesarias para la participación de estos representantes.
+
+#### Artículo 37º
+
+El Decano tendrá las siguientes atribuciones:
+
+a) Presidir el Consejo de Facultad;
+
+b) Presidir las comisiones examinadoras de títulos y grados y designar sus integrantes;
+
+c) Dictar, modificar y derogar las instrucciones de funcionamiento interno de la Facultad;
+
+d) Celebrar contratos de prestación de servicios y de honorarios;
+
+- **e)** Ejecutar los programas de docencia, de investigación, de creación y extensión que hayan sido aprobados de acuerdo al presente Estatuto;
+
+- **f)** Someter a consideración del Rector una cuenta sobre el funcionamiento de la Facultad en el año precedente;
+
+- **g)** Proponer al Rector los planes de estudio de la Facultad, con su respectiva reglamentación;
+
+h) Ejercer la potestad disciplinaria sobre las personas que integren la Facultad, conforme a Reglamento; e,
+
+i) Las demás que le fije el Reglamento respectivo.
+
+#### Artículo 38°
+
+Un Reglamento de funcionamiento del Consejo de Facultad fijará sus funciones y atribuciones debiendo considerar necesariamente las siguientes:
+
+a. Proponer al Rector, a través del Decano, los planes de Estudio de la Facultad, con su respectiva reglamentación;
+
+b. Proponer al Rector, a través del Decano, el nombramiento de los Profesores de la Facultad, conforme a reglamentación; y,
+
+c. Proponer al Rector, a través del Decano, todas las iniciativas que estime de utilidad para la Facultad.
+
+#### Artículo 39º
+
+Las Facultades tendrán organismos de asesoría integral al Decano dependientes del Vicedecano, quien será el Ministro de Fe de la Facultad, y subrogará al Decano en caso de ausencia o impedimento de éste.
+
+El Reglamento respectivo determinará sus atribuciones, nombramiento, subrogación y remoción.
+
+#### Artículo 40º
+
+Las Facultades podrán estar constituidas por Departamentos, Escuelas, Institutos o Centros, sin perjuicio que las Escuelas podrán depender de la Rectoría, directamente o a través de uno de sus institutos.
+
+Las funciones de estos organismos se determinarán en el Reglamento respectivo. Los Departamentos son unidades académicas básicas, pertenecientes a una Facultad, que generan, desarrollan y comunican el conocimiento científico, intelectual o artístico, en el ámbito de una disciplina.
+
+Los Institutos son unidades Académicas que generan, desarrollan, comunican y transfieren el conocimiento o prestan servicios en conformidad a la ley en un tema o área temática multi o interdisciplinaria, que participan en el desempeño de las funciones universitarias y, en particular, en la docencia requerida por las Escuelas. Dependerán de una Facultad; excepcionalmente podrán existir Institutos dependientes de Rectoría.
+
+Los Centros son unidades universitarias, temporales o permanentes, que cumplen tareas académicas, de investigación y de extensión en ámbitos específicos o estratégicos y podrán prestar servicios en áreas de su competencia en conformidad a la ley. Se constituirán por acuerdo del Consejo Universitario, a propuesta de una Facultad o del Rector.
+
+Las Escuelas son unidades académicas que organizan, administran e imparten los estudios conducentes a la obtención de grados académicos y títulos profesionales. Constituyen los órganos de adscripción de los estudiantes. Deberán propiciar medidas que conduzcan al perfeccionamiento de sus docentes, a la renovación permanente de los planes y programas de estudio a su cargo y al bienestar de sus estudiantes mediante acciones que no tengan el carácter de prestaciones de seguridad social.
+
+En el caso de las Escuelas, existirá un Consejo que colaborará con el Director y estará integrado, según el reglamento señalado en el inciso primero del artículo 44, por académicos que participen en el desarrollo del plan de estudios de pregrado o programas de postgrado y por representantes de los estudiantes adscritos a la respectiva Escuela.
+
+#### Artículo 41º
+
+Los Institutos tendrán un Director y contarán con un Consejo que colaborará con el Director, integrado por académicos adscritos a la unidad, de acuerdo al reglamento que dictará el Senado en el ejercicio de la facultad contenida en la letra a) del artículo 25. La función de Director de Instituto será ejercida por un académico de las dos más altas jerarquías académicas de la Universidad, nombrado por el Rector o el Decano, según corresponda, de acuerdo a reglamento.
+
+Durará cuatro años en sus funciones, pudiendo ser nombrado por un segundo período consecutivo. Un Reglamento General establecerá las normas de funcionamiento de los mismos, incluyendo las funciones y atribuciones de su Director y Consejo.
+
+#### Artículo 42º
+
+En aquellas unidades académicas en que, de conformidad con las disposiciones del presente Título, se exija determinada jerarquía para ejercer funciones directivas y académicas, el Rector podrá autorizar excepcional, transitoriamente y de acuerdo a reglamento, que cumpla dicha función un académico de la jerarquía inmediatamente inferior.
+
+#### Artículo 43º
+
+Las unidades académicas podrán conformar campus de administración compartida, como unidades funcionales de carácter territorial, que constituirán mecanismos e instancias de coordinación, designando un administrador común. El objetivo primordial de los campus será compartir y optimizar el uso de los recursos académicos, técnicos y administrativos de las unidades que lo integran, en procura del mejor cumplimiento de la misión institucional y en el marco de los lineamientos generales estratégicos de desarrollo emanados del Senado Universitario.
+
+#### Artículo 44º
+
+Un Reglamento dictado al efecto regulará la existencia de otras autoridades universitarias y su ámbito de competencia en las respectivas estructuras.
+
+En él se incluirán los Directores de Departamentos, Centros, Escuelas, Institutos, de Organismos de Asesoría Central y de Facultad y de Unidades Académicas.
+
+## Título IV — De los Académicos
+
+#### Artículo 45º
+
+Son Académicos quienes realizan docencia superior, investigación, creación o extensión, integrados a los programas de trabajo de las unidades académicas de la Universidad.
+
+Los Académicos que conjuntamente con su función académica desempeñen funciones directivas en la Corporación, mantendrán su calidad y jerarquía durante el desarrollo de sus funciones directivas.
+
+#### Artículo 46º
+
+En el desempeño de sus funciones, los académicos se deberán ceñir a los programas establecidos por la Facultad o Instituto Interdisciplinario y deberán desarrollarlos dentro de los métodos de las ciencias, de manera de asegurar la excelencia académica y la necesaria y adecuada libertad de expresión que es consustancial con la búsqueda de la verdad.
+
+#### Artículo 47
+
+Un Reglamento General regulará el ordenamiento jerárquico académico y las formas de ingreso, promoción, evaluación y egreso que se requieran para cada uno de los niveles que conforman la carrera académica.
+
+#### Artículo 48º
+
+La labor académica de la Universidad de Chile será complementada por organismos académicos, técnicos, administrativos y de servicios, los que podrán depender del gobierno central de la Universidad o de las Facultades.
+
+Su creación, organización, modalidad de operación, supresión, descentralización y definición de objetivos será determinada por el Rector, quien, en caso de descentralizar un organismo, señalará su adscripción a un determinado nivel de la estructura académica.
+
+## Título V — De la Organización de los Estudios
+
+#### Artículo 49
+
+Los estudios se organizan en planes y programas conducentes a grados académicos y a títulos profesionales. Dichos estudios se llevarán a cabo a través del ejercicio de la docencia y se basarán en la transmisión del conocimiento, la investigación, la creación y la extensión, garantizando la formación integral del estudiante. Los planes de estudios y programas conducentes a grados académicos y títulos profesionales especificarán la secuencia de las asignaturas y otras exigencias que deban cumplirse.
+
+Habrá reglamentos especiales para cada grado académico y título profesional, los cuales necesariamente deberán ceñirse a la reglamentación general de la Universidad sobre la materia.
+
+#### Artículo 50
+
+Los planes y programas de estudios conducentes a grados académicos y títulos profesionales serán propuestos al Rector por la respectiva unidad académica para su tramitación y aprobación conforme a las normas del presente Estatuto.
+
+#### Artículo 51
+
+Las unidades académicas de la Universidad podrán ofrecer cursos de especialización o perfeccionamiento que conducirán a certificados de aprobación. Deberán tener un plan de estudios propuestos por ellas y aprobados por el Rector, el que se regirá por los respectivos reglamentos, dictados en conformidad al presente Estatuto. DFL Nº1,Ed.2006
+
+#### Artículo 52
+
+Las unidades académicas de la Universidad podrán aprobar y ofrecer, además, cursos de extensión y de actualización, los que conducirán exclusivamente a la obtención de certificados de asistencia y/o de aprobación, cuando proceda. Asimismo, podrán impartir cursos de capacitación de conformidad con las leyes vigentes.
+
+## Título VI — Del Consejo de Evaluación
+
+#### Artículo 53°
+
+El Consejo de Evaluación es el organismo colegiado que ejercerá la superintendencia de la función evaluadora, que consiste en examinar, ponderar e informar sobre la calidad y cumplimiento de las tareas universitarias. La función evaluadora se aplica tanto a las estructuras como a los académicos que las integran, mediante normas, procesos y criterios debidamente reglamentados, y resguardando la especificidad, características y diversidad de las actividades.
+
+Competerá a dicho organismo impulsar y coordinar los procesos de evaluación, calificación y acreditación a nivel institucional e individual, y la constitución de comisiones generales y locales, conforme a los reglamentos aplicables a los procesos enunciados. Le corresponderá, asimismo, proponer la dictación y modificación de dichos reglamentos, rendir informes periódicos sobre las conclusiones obtenidas de su aplicación y declarar la equivalencia a que se refiere el inciso final del artículo 17.
+
+Lo integrarán cinco académicos de la jerarquía de profesor titular, nombrados por el Senado Universitario a propuesta del Rector. El Reglamento del Consejo de Evaluación establecerá la duración y requisitos de sus integrantes, sus atribuciones y las normas de funcionamiento.
+
+## Título VII — Disposiciones Varias
+
+#### Artículo 54º
+
+Los recursos que integran el patrimonio de la Universidad de Chile serán administrados por ésta con plena autonomía, pudiendo celebrar a su respecto todo tipo de actos y contratos.
+
+#### Artículo 55º
+
+Sin perjuicio de lo dispuesto en el artículo anterior, la Universidad de Chile estará facultada para:
+
+a) Emitir estampillas y fijar aranceles por los servicios que preste a través de sus distintos organismos;
+
+b) Crear y organizar con otras personas naturales o jurídicas nacionales, extranjeras o internacionales, asociaciones, sociedades, corporaciones o fundaciones cuyos objetivos correspondan o se complementen con los de la Universidad, aportando a ellas fondos provenientes de su patrimonio;
+
+c) Otorgar las subvenciones que determinen los Reglamentos;
+
+d) Contratar empréstitos, emitir bonos, pagarés y demás documentos de crédito con cargo a su patrimonio; e) Otorgar garantías a las obligaciones de sus Corporaciones dependientes, y f) Crear fondos específicos para el desarrollo institucional y solicitar las patentes que se deriven de su trabajo de investigación y creación.
+
+Las donaciones que la Universidad de Chile reciba no podrán interferir con su autonomía y se encontrarán exentas del trámite de insinuación. Al ser aceptada una donación, la Universidad respetará la voluntad del donante. De no ser ello posible, deberá consultarse al donante sobre el cambio de destino de la misma y a falta de éste resolverá el Consejo Universitario o el Senado Universitario, según corresponda de acuerdo a reglamento.
+
+#### Artículo 56º
+
+Las personas encargadas de la inversión de los fondos asignados al presupuesto de las estructuras o Servicios a su cargo, serán responsables directamente de esta inversión y deberán rendir cuenta.
+
+#### Artículo 57º
+
+Las autoridades a que se refiere este Estatuto podrán delegar funciones, bajo su responsabilidad.
+
+La delegación se hará por resolución que señale, en forma precisa, las funciones o atribuciones que se deleguen, los límites o condiciones de la delegación y la persona del delegatario.
+
+Podrá ser revocada en cualquier tiempo, sin expresión de causa.
+
+#### Artículo 58º
+
+Habrá un fondo destinado a fomentar la investigación científica, la creación artística y la extensión universitaria.
+
+#### Artículo 59º
+
+Los académicos y funcionarios de la Universidad de Chile cualquiera que sea la tarea que desempeñen, tendrán la calidad de empleados públicos y se regirán por los Reglamentos que a su respecto dicte la Universidad.
+
+Un Reglamento General fijará los derechos y deberes de dicho personal, regulará la carrera funcionaria y las normas con arreglo a las cuales se fijarán las remuneraciones.
+
+Con todo, la Universidad de Chile podrá celebrar convenios a honorarios para la realización de determinadas tareas, pero quienes se desempeñen bajo este régimen no tendrán la calidad de funcionarios.
+
+No regirá para el personal académico de la Universidad de Chile la limitación contenida en el inciso segundo del artículo 10 del D.F.L. N° 29 de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.834, sobre Estatuto Administrativo.
+
+#### Artículo 60º
+
+La carrera académica estará basada en criterios objetivos de mérito.
+
+El ingreso a los cargos académicos de planta se hará mediante concurso de antecedentes o concurso de antecedentes y oposición. La selección se basará en criterios objetivos y técnicos sobre el mérito de los postulantes.
+
+La promoción se hará de conformidad con los procedimientos de calificación y evaluación académicas, que se fijen de acuerdo con la jerarquía de que se trate.
+
+Serán causales de remoción el incumplimiento de las obligaciones académicas, demostrado en los procesos de evaluación o de calificación académica, así como la infracción grave a los deberes funcionarios, establecida mediante sumario administrativo.
+
+#### Artículo 61º
+
+La Universidad de Chile gozará de la exención de cualquier impuesto, contribución, tasa, tarifa, patente y otras cargas o tributos de los cuales estaba exenta a la fecha de publicación del decreto con fuerza de ley Nº 153, de 1981, del Ministerio de Educación.
+
+#### Artículo 62º
+
+Para todos los efectos la Universidad de Chile tiene domicilio legal en Santiago de Chile, sin perjuicio del establecimiento de las dependencias necesarias para el ejercicio de sus funciones en otras localidades del país o del extranjero.
+
+#### Artículo 63º
+
+La Universidad de Chile cautelará su prestigio en forma integral.
+
+#### Artículo 64º
+
+La representación de los estudiantes ante las diversas autoridades de la Universidad será establecida por los Reglamentos que ésta determine.
+
+#### Artículo 65º
+
+Sin perjuicio de los artículos 3º y 5º transitorios, derógase el decreto con fuerza de ley Nº1 de 1971 del Ministerio de Educación y sus modificaciones.
+
+ARTÍCULOS TRANSITORIOS DEL DFL Nº 1 de 2006
+
+#### Artículo PRIMERO
+
+TRANSITORIO.- Las unidades académicas existentes a la fecha de publicación del presente decreto con fuerza de ley mantendrán su composición, dependencia, jerarquía, funciones y características, y se ajustarán a las nuevas disposiciones aprobadas por éste en la medida que se lleven a cabo las modificaciones reglamentarias pertinentes.
+
+#### Artículo SEGUNDO
+
+TRANSITORIO.- Dentro de los 120 días siguientes a la publicación del presente cuerpo legal, la Universidad deberá elegir, de acuerdo a las normas permanentes de este Estatuto, a sus autoridades y constituir el Senado Universitario y el Consejo de Evaluación. Para tal efecto, el Rector con acuerdo del Consejo Universitario estará facultado para dictar las normas que permitan la constitución de los órganos contemplados en este Estatuto. Una vez constituidos éstos, la Universidad dispondrá del plazo de un año para dictar los reglamentos necesarios para el adecuado funcionamiento de la Universidad de acuerdo con las disposiciones que establece este decreto con fuerza de ley.
+
+Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Marigen Hornkohl Venegas, Ministra de Educación.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente, Pedro Montt Leiva, Subsecretario de Educación.
