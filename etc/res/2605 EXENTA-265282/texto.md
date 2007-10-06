@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.605, de 30 de agosto de 2007, de esta Subsecretaría autorízase a ALIMENTOS DEL NORTE LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Gerónimo Méndez Nº 1851, Galpón 2, Barrio Industrial Peñuelas, Coquimbo, IV Región, donde podrá elaborar en las líneas de proceso de Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco-Salado, Ahumado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
