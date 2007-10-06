@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.714, de 5 de septiembre de 2007, de esta Subsecretaría, autorízase a EXPORTADORA LONAGRO SOCIEDAD ANÓNIMA para ampliar actividades pesqueras transformación autorizadas Por resolución Nº 2.063-05 Subpesca, para incorporar a planta ubicada Del Aserradero Nº 024, lote Nº 15, Parque Industrial, Lota, en líneas proceso Fresco Enfriado y Congelado, Merluza del sur o austral.
+
+Valparaíso, 5 de septiembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
