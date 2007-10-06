@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.583, de 30 de agosto de 2007, de esta Subsecretaría, autorízase a PATRICIA IVONNE MELLA BAHAMONDE, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Manzana G, sitio 15, Caleta Constitución, Isla Santa María, Antofagasta, II Región, donde podrá elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
