@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.715, de 5 de septiembre de 2007, de esta Subsecretaría, autorízase a VICTORINO DEL ROSARIO GIL ARAYA para iniciar actividades pesqueras transformación, para instalar y operar planta ubicada Flamenquito Km. 43, Chañaral, línea de proceso de Picado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 5 de septiembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
