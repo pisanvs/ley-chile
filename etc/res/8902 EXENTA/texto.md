@@ -1,0 +1,5 @@
+ESTUDIO EXPROPIACIÓN INMUEBLE
+
+Resolución exenta Nº 8.902, dictada por Director del Serviu Región del Bío Bío, en Concepción el 27 septiembre 2007, conforme artículo 2º decreto ley Nº 2.186 de 1978, ordenando estudio expropiación inmueble, ubicado en esta comuna, denominado Lote Cuatro de calle Arrau Méndez 346, de aparente propiedad de "Otárola Vigouroux Sandra María Soledad, Otárola Vigouroux Rosa Iberia del Carmen y Otárola González José Joaquín, Sucesión de Joaquín Otárola Fuentealba", según inscripción a su nombre, en fojas 23721 número 9057 del Registro de Propiedad del Conservador de Bienes Raíces de Concepción correspondiente al año 1996, para ejecución Programa "Recuperación de Barrios". Y que dispuso: su publicación, en extracto, en Diario Oficial; requerir Conservador de Bienes Raíces de Concepción su anotación al margen de inscripción de dominio de precitada; e inscribirla en Registro de Interdicciones y Prohibiciones de Enajenar, a su cargo.
+
+- Jaime Arévalo Núñez, Director Serviu Región del Bío Bío.
