@@ -3352,20 +3352,6 @@ El instrumento con las condiciones generales que rijan para los contratos de cue
 
 - Establecer que el banco se reserva el derecho de poner fin a la cuenta cuando lo estime conveniente.
 
-CAPITULO 2-3 (Bancos y Financieras)
-
-MATERIA:
-
-CHEQUES EN GARANTIA. PROHIBICION DE RECIBIRLOS.
-
-El cheque es un instrumento de pago y, como tal, es inadmisible que se le dé un uso diferente concediéndole la calidad de documento que sirva de caución o garantía.
-
-Las instituciones financieras no deben recibir ni mucho menos exigir, bajo ningún pretexto, que se le entreguen cheques para caucionar obligaciones para con la empresa o para con terceros.
-
-Es igualmente inaceptable, el hecho de que una empresa reciba cheques girados con fecha futura o sin fecha, sea que lo haga a título de garantía o en cualquiera otra forma.
-
-La inobservancia de estas normas motivará la aplicación de las sanciones previstas en el artículo 19 de la Ley General de Bancos.
-
 CAPITULO 2-4 (Bancos y Financieras)
 
 MATERIA:
@@ -14154,7 +14140,7 @@ Para los efectos de los límites individuales de crédito de que se trata, deben
 
 Los créditos que las instituciones financieras otorguen para financiar obras públicas fiscales ejecutadas por el sistema de concesión contemplado en el D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, pueden alcanzar hasta el 15% del patrimonio efectivo de la institución acreedora, con sujeción a las condiciones exigidas para tal efecto.
 
-De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 10% del patrimonio efectivo de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 42 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
+De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 10% del patrimonio efectivo de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 43 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
 
 a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas en las categorías Al, A2, A3 o B a que se refiere el Capítulo 7-10 de esta Recopilación, por las instituciones financieras que otorguen el financiamiento, o bien, deben calificar para alguna de ellas, entendiéndose para el efecto que así ocurre cuando reúnen los requisitos exigidos para una de esas categorías de riesgo;
 
@@ -15594,7 +15580,7 @@ Conforme a lo dispuesto en el inciso 2° del artículo 69 de la Ley General de B
 
 Las inversiones sujetas al límite de que se trata son las siguientes:
 
-a) Inversiones en acciones o derechos en sociedades en el país, señaladas en el N° 1 del título I del Capítulo 11-6 de esta Recopilación Actualizada de Normas, exceptuadas las inversiones a que se refiere la letra c) del mismo N° 1, hasta por un monto equivalente al uno por ciento de los activos totales del banco.
+a) Inversiones en acciones o derechos en sociedades en el país, señaladas en el N° 1 del título I del Capítulo 11-6 de esta Recopilación Actualizada de Normas, exceptuadas las inversiones a que se refiere la letra c) del N° 1 del título II de dicho Capítulo, hasta por un monto equivalente al uno por ciento de los activos totales del banco.
 
 b) Inversiones en bancos u otras sociedades en el exterior, señaladas en el N° 1 del título II del Capítulo 11-7 de esta Recopilación.
 
