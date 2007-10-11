@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.587, de 30 de agosto de 2007, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL MUÑOZ, ESPEJO Y OTRO LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Km. 12, Altos de Playa Blanca, Iquique, I Región, en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Santibáñez, Subsecretario de Pesca.
