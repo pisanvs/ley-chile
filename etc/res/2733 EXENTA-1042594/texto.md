@@ -20,7 +20,7 @@ Fíjanse las siguientes exigencias sanitarias para internación a Chile de cuero
 
 3.- No presentan restos de huesos, cartílagos, elementos cárneos, sangre, tierra, estiércol, ni otros elementos ajenos al cuero o a los productos utilizados en su preparación.
 
-4.- Los cueros curtidos, semicurtidos, wet-blue, o piquelados sólo deberán cumplir lo establecido en el punto 6 de esta Resolución.
+4.- Los cueros curtidos, semicurtidos, wet-blue, o piquelados sólo deberán cumplir lo establecido en el punto 5 de esta resolución.
 
 5.- El transporte de estos cueros desde el establecimiento de procedencia hasta su destino en Chile, se debe realizar en vehículos o compartimentos que aseguren la mantención de sus condiciones higiénico sanitarias.
 
