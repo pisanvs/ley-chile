@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.850, de 1 de octubre de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº203111028 presentada por SOCIEDAD DE ACUICULTURA RÍO HUEMULES LIMITADA para instalar y operar un centro de cultivo ubicado en canal Renjifo, lado weste Isla Mc Pherson, sector 1, XI Región.
+
+Valparaíso, 1 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
