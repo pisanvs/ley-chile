@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.854, de 3 de octubre de 2007, de esta Subsecretaría, autorízase a ALEJANDRO AUGUSTO PÉREZ MATUS, para efectuar una pesca de investigación, por el período comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2007, en las Islas Robinson Crusoe y Alejandro Selkirk e Islote Santa Clara, donde podrá capturar, sin devolución, mediante línea de mano, arpón de mano, buceo o red agallera, de conformidad con lo señalado en Informe Técnico citado en Visto, un máximo de 10 ejemplares de cada una de las especies indicadas en la resolución extractada.
+
+El objetivo de la pesca de investigación consiste en identificar la relación hábitat-dieta de los peces en el Archipiélago Juan Fernández.
+
+Valparaíso, 3 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
