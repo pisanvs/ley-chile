@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.907, de 9 de octubre de 2007, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº 411, de 2007, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA SUNRISE S.A. para realizar actividades pesqueras extractivas con la nave "Isla Orcas", en el área marítima de la III Región, con arrastre, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 9 de octubre de 2007.- Jorge Chocair Santibáñez, SubsecretarioFIN NORMA>
