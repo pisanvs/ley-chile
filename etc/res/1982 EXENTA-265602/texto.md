@@ -1,0 +1,5 @@
+APRUEBA PROGRAMA DE ENSEÑANZA DE LA ESCUELA DE CONDUCTORES NO PROFESIONALES O CLASE B "SOCIEDAD DE CAPACITACIÓN AMERICAN CHILE LIMITADA"
+
+Por resolución exenta Nº 1.982, de fecha 5 de octubre de 2007, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza de la Escuela de Conductores No Profesionales o Clase B "Sociedad de Capacitación American Chile Limitada", cuyo representante legal es el señor Jorge Antonio Brunet Deaibis y su Director el señor Carlos Raúl Aguilera Mendoza, para impartir cursos conducentes a la obtención de licencia de conductor no profesional o clase B, la que tendrá su lugar de funcionamiento en José Manuel Infante Nº 919, oficina 203, comuna de Providencia.
+
+- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
