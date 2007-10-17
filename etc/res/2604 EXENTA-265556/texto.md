@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.604, de 30 de agosto de 2007, de esta Subsecretaría, autorízase a AQUILES ALTAMIRO FONFACH BASTIDAS, para ampliar las actividades pesqueras de transformación autorizadas por la resolución citada en Visto, en orden a incorporar a la planta ubicada en Km. 10 de ruta Villarrica a Freire, Villarrica, IX Región, en las líneas de proceso de Congelado, Fresco-enfriado, Fresco-refrigerado, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
