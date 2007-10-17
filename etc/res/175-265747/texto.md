@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 175 de fecha 13 de septiembre de 2007, tramitada por Contraloría con fecha 25 de septiembre de 2007, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº F1 para la ejecución del Proyecto "Habilitación Adquisición Terrenos en Provincia de Chiloé", ubicado en Castro, Provincia de Chiloé, Región de Los Lagos, que figura a nombre de Garay Garay Ana Eugenia, rol de avalúos según SII Nº 1105-123, comuna de Castro, superficie 5.500,132 metros cuadrados. La comisión de Peritos integrada por los Sres. Juan Samuel Barrientos Bahamonde, Carlos Eugenio Mera Santibáñez y Christian Emil Rauch Yáñez, designados por resolución exenta Nº 1.040 de fecha 20 de julio de 2007, fijó con fecha 25 de julio de 2007, el valor provisional de la indemnización en la suma de $16.180.370. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional (S) Serviu Región de Los Lagos.
