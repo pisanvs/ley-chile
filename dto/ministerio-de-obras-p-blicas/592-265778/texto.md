@@ -1,0 +1,3 @@
+Por decreto MOP Nº 592 de 30 de agosto de 2007, se expropió el lote de terreno Nº 54, superficie 1.199 m², rol de avalúo 1524-406, comuna de Los Ángeles, para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara Km. 0,00000 a Km. 10,35968", VIII Región y se acordó el valor de la indemnización con su propietario Nelson Escobar Sáez, ascendente a la cantidad de $3.427.773.
+
+- Fiscal del Ministerio de Obras Públicas.
