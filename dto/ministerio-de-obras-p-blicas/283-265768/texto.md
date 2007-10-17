@@ -1,0 +1,3 @@
+Por decreto MOP Nº 283 de 27 de abril de 2007, se modificó el decreto MOP 778 de 31 de agosto de 2004, en la parte que indica el nombre propietario y rol de avalúo del lote de terreno Nº 18, de la comuna de Coronel, en la forma que a continuación se indica: Lote Nº 18, propietario Agrícola Llaima Ltda, rol de avalúo Nº 1272-12, superficie 9.789 m². La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
