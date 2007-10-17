@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 178 de fecha 24 de septiembre de 2007, tramitada por Contraloría con fecha 27 de septiembre de 2007, Dirección Regional Serviu Región de los Lagos, ordenó expropiación lote de terreno Nº 1 para la ejecución del Proyecto "Habilitación Adquisición Terrenos en Provincia de Chiloé", ubicado en Quellón, Provincia de Chiloé, Región de los Lagos, que figura inscrito a fs. 2912 vta. Nº 317 en el Registro de Propiedad del Conservador de Bienes Raíces de Quellón del año 1997 a nombre de Nayda Yanet Haro Uribe, Rudy Juvenal Haro Uribe y Osvaldo Haro Uribe, rol de avalúos según SII Nº 168-1, comuna de Quellón, superficie 97,400 metros cuadrados. La Comisión de Peritos integrada por los Sres. Juan Samuel Barrientos Bahamonde, Carlos Eugenio Mera Santibáñez y Christian Emil Rauch Yáñez, designados por resolución exenta Nº 1.216 de fecha 17 de agosto de 2007, fijó con fecha 27 de agosto de 2007 el valor provisional de la indemnización en la suma de $345.623.364. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional (S) Serviu Región de los Lagos. Servicio de Vivienda y Urbanización
