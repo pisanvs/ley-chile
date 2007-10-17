@@ -1,0 +1,3 @@
+Por decreto MOP Nº624 de 31 de agosto de 2007, se expropió el lote de terreno Nº116, superficie 1.659,00 m², rol de Avalúo 2206-46, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, Tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietario José Hernán Chávez Olavarría, ascendente a la cantidad de $4.484.534.
+
+- Fiscal del Ministerio de Obras Públicas.
