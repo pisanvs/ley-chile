@@ -1,0 +1,3 @@
+Por decreto MOP Nº591 de 30 de agosto de 2007, se expropiaron los lotes de terrenos Nºs. 15 y 15-A, superficies 1.764,70 y 3.762,00 m², rol de Avalúo Nº3706-40, comuna de Talca, para la obra "Habilitación Avda. Circunvalación Río Claro en Talca, Comuna de Talca Provincia de Talca VII Región", y se acordó el valor de la indemnización con su propietario Luis Samuel Antonio Vergara Fuentes y Otros, ascendente a la cantidad de $87.368.337.
+
+- Fiscal del Ministerio de Obras Públicas.
