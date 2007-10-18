@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.929, de 9 de octubre de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 97103154 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES DE ALGAS MARINAS DE PUYAO RILÁN, para instalar y operar un centro de cultivo ubicado en Estero Rilán, X Región.
+
+Valparaíso, 9 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
