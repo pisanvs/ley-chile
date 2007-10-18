@@ -1,0 +1,27 @@
+AUTORIZA A ENTIDAD EXTRANJERA "OCEANA, INC." PARA DESARROLLAR ACTIVIDADES EN EL PAÍS
+
+Santiago, 26 de septiembre de 2007.- Hoy se decretó lo que sigue:
+
+Núm. 2.874 exento.- Vistos: estos antecedentes, lo dispuesto en el artículo 34 del Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones, decreto supremo Nº 110, de Justicia, de 1979, publicado en el Diario Oficial de 20 de marzo de 1979, modificado por decreto supremo de Justicia Nº 679, de 2003, publicado en el Diario Oficial de 13 de febrero de 2004; resolución Nº 520, de 1996, modificada por resolución Nº 661, de 2002, publicada en el Diario Oficial de 31 de octubre de 2002, ambas de la Contraloría General de la República; y lo informado por el Consejo de Defensa del Estado,
+
+Decreto:
+
+1.- Autorízase a la entidad actualmente denominada "Oceana, Inc.", con sede en la ciudad de Washington, Distrito de Columbia, Estados Unidos de América, cuyos antecedentes se encuentran debidamente legalizados, para que desarrolle actividades en Chile, de acuerdo a los objetivos señalados en sus estatutos protocolizados bajo el Nº 4.278, con fecha 14 de noviembre de 2003, ante el Notario Público de Santiago, don Cosme Fernando Gomila Gatica, siempre que se ajusten a las leyes chilenas y no contraríe las buenas costumbres y el orden público.
+
+2.- La entidad autorizada por el presente decreto fue constituida, organizada y existe conforme a las leyes del Distrito de Columbia, Estados Unidos de América, clasificada como persona jurídica sin fines de lucro, bajo la denominación, en la época, de "Poseidon, Inc.", desde el 17 de abril del año 2000, en la que se recibió y aceptó su registro en el Departamento de Asuntos del Consumidor y de Fiscalización, División Sociedades, según consta en certificado de fecha 29 de agosto de 2006, debidamente traducido y legalizado, que acredita que la entidad solicitante se encuentra debidamente inscrita y vigente conforme a la Ley de Sociedades sin Fines de Lucro del Distrito de Columbia, instrumento protocolizado bajo el Nº 593, con fecha 9 de mayo de 2007, en la Notaría Pública de Santiago de don Cosme Fernando Gomila Gatica.
+
+3.- Que, la entidad denominada "Poseidon, Inc.", dando cumplimiento a todas las disposiciones de la Ley de Sociedades sin Fines de Lucro del Distrito de Columbia, Estados Unidos de América, cambió su razón social a "Oceana, Inc.", según consta en certificado otorgado con fecha 6 de agosto de 2001, por el Gobierno del Distrito de Columbia, Estados Unidos, Departamento de Asuntos del Consumidor y de Fiscalización, y escritura pública de modificación de Poseidon, Inc. a Oceana, Inc., ambos instrumentos debidamente traducidos, legalizados, y protocolizados bajo el Nº 594 de fecha 9 de mayo de 2007, ante el Notario Público de Santiago don Cosme Fernando Gomila Gatica.
+
+4.- Los estatutos modificados y refundidos de Oceana, Inc., adoptados el 18 de junio de 2002, extendidos en idioma en inglés en el Distrito de Columbia, Estados Unidos de América, debidamente traducidos, legalizados en el Ministerio de Relaciones Exteriores de Chile, bajo la rúbrica de Mónica Bidirinis C., Oficial de Legalizaciones, con fecha 14 de noviembre de 2003, se encuentran protocolizados bajo el Nº 4.278, con fecha 14 de noviembre de 2003, en la Notaría Pública de Santiago de don Cosme Fernando Gomila Gatica.
+
+5.- El término durante el cual desarrollará sus actividades en el país será indefinido, a contar de la fecha de la publicación del presente decreto en el Diario Oficial.
+
+6.- El domicilio en Chile de la citada entidad será Avda. Bustamante Nº 24, oficina 2 C, comuna de Providencia, Provincia de Santiago, Región Metropolitana de Santiago.
+
+7.- El representante de la entidad en Chile será don Jorge Luis Varela del Solar, con domicilio en Avda. Apoquindo Nº 3891, Departamento 62, comuna de Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, quien en su carácter de mandatario de la entidad tendrá su administración y representación con las más amplias facultades y atribuciones en la forma en que se acredita en el mandato otorgado por Andrew Freancis Sharpless, en representación de la entidad, documento extendido en idioma español y legalizado en el Ministerio de Relaciones Exteriores de Chile, con fecha 5 de abril de 2007, rubricado por el Oficial de Legalizaciones don Miguel Reyes Vargas, protocolizado bajo el Nº 4931 de 2007, con fecha 9 de abril del mismo año, ante el Notario Público de Santiago, don Emilio Pomar Carrasco, suplente del titular don José Musalem Saffie, en cuya cláusula Primero, numeral quince, se facultó al mandatario para obrar bajo la responsabilidad jurídica y patrimonial de "Oceana, Inc.".
+
+8.- El mandatario de la mencionada entidad deberá poner en conocimiento del Presidente de la República toda modificación que en ella opere, especialmente relacionada con sus actividades en el país, como asimismo, el cambio de representante o cualquiera alteración en sus facultades o cambio de su sede.
+
+Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Carlos Maldonado Curti, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Verónica Baraona del Pedregal, Subsecretaria de Justicia.
