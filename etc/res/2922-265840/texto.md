@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.922, de 9 de octubre de 2007, de esta Subsecretaría, modifícase el número 1º de la resolución exenta Nº 3.572, de 2006, de esta Subsecretaría, que autorizó a PESCA CHILE S.A. para realizar operaciones pesqueras de conformidad con lo dispuesto en el artículo 12 Transitorio de la ley Nº 18.892, en el sentido de incorporar a la nave fábrica "Isla Camila", la que podrá operar en aguas exteriores, por fuera de las líneas de base recta, en el área marítima comprendida entre los paralelos 47° L.S. y 57° L.S., respecto de los recursos y con las obligaciones establecidas en la resolución exenta Nº 2.833, de 2007, de esta Subsecretaría.
+
+Déjase sin efecto la resolución exenta Nº 3.570, de 2006, de esta Subsecretaría.
+
+Valparaíso, 9 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
