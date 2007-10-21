@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZO PARA EL INICIO DE OPERACIONES DEL CASINO DE JUEGO Y EL DESARROLLO DE LAS DEMÁS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA CASINO DE JUEGOS TEMUCO S.A.
+
+Por resolución exenta Nº 224, de 12 de octubre de 2007, la Superintendencia de Casinos de Juego concedió la prórroga de plazo que solicitó la sociedad operadora Casino de Juegos Temuco S.A. En virtud de la prórroga concedida, el plazo de 712 días, tanto para el inicio de operaciones del casino de juego como para el desarrollo de las demás obras e instalaciones del proyecto integral, autorizado en comuna de Temuco, contemplado en resolución exenta Nº 174, de 21 de julio de 2006, aclarada por resolución exenta Nº 196, de 26 de julio de 2006, de la Superintendencia, que le otorgó un permiso de operación para casino de juego en dicha comuna, se extenderá hasta 832 días contado desde el 29 de julio de 2006.
+
+Santiago, 16 de octubre de 2007.- Superintendente de Casinos de Juego.
