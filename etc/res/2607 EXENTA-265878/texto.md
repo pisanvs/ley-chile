@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.607, de 30 de agosto de 2007, de esta Subsecretaría, autorízase a PRO PESCA LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Bellavista de Caren s/n, Montepatria, Ovalle, IV Región, donde podrá elaborar en la línea de proceso de Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada
+
+Valparaíso, 30 de agosto de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
