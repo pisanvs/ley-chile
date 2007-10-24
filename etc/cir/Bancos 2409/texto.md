@@ -2770,6 +2770,10 @@ Dicha disposición legal sólo autoriza la "exhibición" de tales partidas, de m
 
 Las instrucciones contenidas en este número se impartieron en su tiempo mediante la Circular N° 313 de 26 de noviembre de 1943.
 
+### 10. Cierre de cuentas corrientes
+
+La cuenta corriente podrá ser cerrada unilateralmente por el banco, como también puede ser a petición del cliente, quien para el efecto debe presentar una solicitud formal en tal sentido. No debe ser impedimento para dar curso al cierre, el que deberá hacerse efectivo a más tardar dentro de los dos días hábiles siguientes a la fecha de presentada la solicitud, el hecho de que el titular de la cuenta que se cierra mantenga deudas con el banco. En todo caso, será responsabilidad del cliente dejar en la cuenta cuyo cierre se dispone, la necesaria provisión de fondos para la cobertura de los cheques girados que a la fecha del cierre no hubieren sido cobrados, así como para el pago de las eventuales comisiones y gastos que a dicha fecha se adeudaren al banco, siempre que este los hubiera comunicado a más tardar en esa oportunidad.
+
 ### III. EL CHEQUE
 
 ### 1. Menciones esenciales que debe contener el cheque
