@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.835, de 1 de octubre de 2007, de esta Subsecretaría, autorízase a DANISCO CHILE S.A., ampliar actividades pesqueras de transformación, en orden a incorporar a la planta ubicada en Longitudinal 5 Sur, Km. 1078.6, Pargua, comuna de Calbuco, X Región, en la línea de proceso de Carragenina, el recurso hidrobiológico indicado en la resolución extractada.
+
+Valparaíso, 1 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
