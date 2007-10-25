@@ -1,0 +1,5 @@
+Por resolución Nº 2.915, de 9 de octubre de 2007, de esta Subsecretaría, modifícase la resolución Nº 1.758 de 2007, de esta Subsecretaría, en el sentido de agregar, en el numeral 4º de dicha resolución, el siguiente inciso tercero:
+
+"Sin perjuicio de lo anterior, autorízase a Sarpesca S.A., hoy Antarctic Sea Fisheries S.A., ya individualizada, para realizar actividades de investigación con la nave "Antarctic Bay", en el Área de Ordenación A de la Subárea estadística 48.3, durante la temporada 2006-2007, con un límite de 10 toneladas de Bacalao de profundidad Dissostichus eleginoides, todo ello según lo dispuesto en el numeral 15 de la Medida de Conservación 41-02 (2006) y en la Medida de Conservación 24-01 (2005) de la Convención para la Conservación de los Recursos Vivos Marinos Antárticos (CCRVMA)".
+
+Valparaíso, 9 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
