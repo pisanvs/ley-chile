@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.834, de 1 de octubre de 2007, de esta Subsecretaría, autorízase a ABELARDO DEL ROSARIO SANTANDER VERGARA para ampliar actividades pesqueras transformación autorizadas por resolución Nº 443-02 Subpesca, para incorporar a planta ubicada caleta Los Verdes s/n, Iquique, en línea proceso Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 1 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
