@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A ABN AMRO SECURITIZADORA S.A.
+
+Certifico: Que por resolución exenta Nº 465 de 12 de octubre de 2007 de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "ABN AMRO Securitizadora S.A." acordada en la Junta Extraordinaria de Accionistas celebrada el 8 de agosto del año 2007 y reducida a escritura pública con fecha 20 de agosto de 2007, en la Notaría de Santiago de don Patricio Raby Benavente, domiciliado en Moneda Nº 920, oficina 205, Santiago; consistente en aumentar el capital social de $1.207.806.607, según su revalorización legal, dividido en 1.047.854.457 acciones sin valor nominal, íntegramente suscritas y pagadas, a $1.407.806.607 dividido en 1.221.368.387 acciones nominativas, de una misma serie y sin valor nominal, que deberán ser suscritas y pagadas dentro del plazo de 3 años contado desde el 8 de agosto de 2007. Con motivo de dicha modificación fueron reformados los artículos 5º y 1º transitorio de los estatutos sociales.
+
+- Carmen Undurraga Martínez, Secretaria General. Ministerio de Justicia
