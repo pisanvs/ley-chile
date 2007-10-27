@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CHILLÁN
+
+Por resolución SII Nº 30, de 20 de septiembre de 2007, se designó a don Ricardo Dörner Hausdorf, RUT Nº 9.463.769-4, como Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Chillán.
