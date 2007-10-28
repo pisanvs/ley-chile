@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.941, de 10 de octubre de 2007, de esta Subsecretaría, autorízase a ALIMENTOS MULTIEXPORT SOCIEDAD ANÓNIMA para ampliar actividades pesqueras de transformación autorizadas por resolución Nº 3.613, 2004, Subpesca, para incorporar a planta ubicada Km 20, camino Concepción Coronel, en líneas proceso Deshidratado, Ahumado, Conserva, Fresco enfriado y Congelado, Panopea.
+
+Valparaíso, 10 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
