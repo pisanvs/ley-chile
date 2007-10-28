@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.806, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 2.573 de 2007, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto FIP Nº 2007-06, denominado "Evaluación del stock desovante de Anchoveta y Sardina común entre la V y X Regiones, año 2007", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 10 de noviembre de 2007, inclusive.
+
+Valparaíso, 28 de septiembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
