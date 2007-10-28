@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 1.718 EXENTO, DE 2007
+
+Por decreto exento Nº 1.718 de fecha 31 de agosto de 2007 del Ministerio de Educación, se revoca el reconocimiento oficial del Centro de Formación Técnica John F. Kennedy de la ciudad de Santiago, con sede en la ciudad de Viña del Mar y Rancagua, organizado por la Sociedad Centro de Formación Técnica John F. Kennedy Limitada, representada legalmente por don Idilio Soto Aravena y elimínase a dicho Centro del Registro correspondiente en que se encuentra inscrito con el Nº 165. Ello a solicitud de la Sociedad Organizadora. Asimismo se derogan los decretos exentos de Educación que autorizaron el funcionamiento del Centro de Formación Técnica John F. Kennedy y las resoluciones exentas de Educación y decretos exentos de Educación que aprobaron los planes programas de estudios de la institución.
+
+Santiago, 24 de octubre de 2007.- Pilar Romaguera Gracia, Subsecretaria de Educación.
