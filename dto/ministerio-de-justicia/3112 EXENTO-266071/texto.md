@@ -1,0 +1,15 @@
+CONCEDE PERSONALIDAD JURÍDICA Y APRUEBA ESTATUTOS A "CORPORACIÓN ADMINISTRADORA DEL PUERTO PESQUERO ARTESANAL DE COQUIMBO"
+
+Santiago, 17 de octubre de 2007.- Hoy se decretó lo que sigue:
+
+Núm. 3.112 exento.- Vistos: estos antecedentes, lo dispuesto en el decreto supremo de Justicia Nº 110, de 1979, y sus modificaciones, Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones, publicado en el Diario Oficial de 20 de marzo de 1979, en la resolución Nº 520, de 1996, modificada por resolución Nº 661, de 2002, publicada en el Diario Oficial de 31 de octubre de 2002, ambas de la Contraloría General de la República; lo informado por el Servicio Nacional de Capacitación y Empleo, por el Ministerio de Economía, Fomento y Reconstrucción y por el Consejo de Defensa del Estado,
+
+Decreto:
+
+1.- Concédese personalidad jurídica a la entidad denominada "Corporación Administradora del Puerto Pesquero Artesanal de Coquimbo", que también podrá usar el nombre de "Corporación Bahía Coquimbo", con domicilio en la provincia del Elqui, Cuarta Región de Coquimbo.
+
+2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos que dan testimonio las escrituras públicas de fechas 10 de enero y 28 de agosto de 2006, 18 de enero y 19 de abril de 2007, otorgadas ante los Notarios Públicos de Coquimbo, don Sergio Yáber Lozano, la primera, don Edgardo Opazo Camposano, suplente del titular don Sergio Yáber Lozano, la segunda, y don Sergio Yáber Lozano, las últimas.
+
+Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Carlos Maldonado Curti, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Verónica Baraona del Pedregal, Subsecretaria de Justicia.
