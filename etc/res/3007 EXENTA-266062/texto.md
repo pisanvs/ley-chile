@@ -1,0 +1,45 @@
+Por resolución exenta Nº 3.007, de 22 de octubre de
+
+2007, de esta Subsecretaría, otórgase a SOCIEDAD
+
+PESQUERA ISLADAMAS S.A. un permiso extraordinario de
+
+pesca para la unidad de pesquería del recurso
+
+hidrobiológico Langostino amarillo, fijada en el
+
+#### Artículo 1º
+
+del DS Nº 787 de 1996, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Este permiso extraordinario tendrá una vigencia de 6 años calendario, y faculta a su titular para pescar anualmente los porcentajes que a continuación se indican de la cuota global anual de captura que se establezca:
+
+Año 1: 0,90%
+
+Año 2: 0,75%
+
+Año 3: 0,60%
+
+Año 4: 0,45%
+
+Año 5: 0,30%
+
+Año 6: 0,15%.
+
+El titular del presente permiso extraordinario deberá pagar, en el mes de diciembre del año calendario anterior, los montos en dinero expresados en UTM que se señalan:
+
+Año 1: 21,27 UTM
+
+Año 2: 17,73 UTM
+
+Año 3: 14,18 UTM
+
+Año 4: 10,64 UTM
+
+Año 5: 7,09 UTM
+
+Año 6: 3,55 UTM
+
+Déjase sin efecto la resolución Nº 597 de 1997, de esta Subsecretaría.
+
+Valparaíso, 22 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
