@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.981, de 12 de octubre de 2007, de esta Subsecretaría, autorízase a GEOMAR S.A. para ampliar actividades pesqueras transformación autorizadas por las resoluciones citadas en Visto, para incorporar a planta ubicada Avenida Forestal Nº 1108, Parque Industrial Coronel, Coronel, líneas proceso Fresco enfriado, Fresco refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
