@@ -1,0 +1,5 @@
+Por decreto MOP N° 487, de 19 de julio de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Mejoramiento Ruta H-409 Tramo Requínoa - Rosario, que figura a nombre de Agrícola El Delirio Ltda., rol de avalúo 233-80, comuna de Requínoa, VI Región, superficie 40.410 m2. La Comisión de Peritos fijó con fecha 31 de octubre de 2003 complementada por acta de fecha 20 de abril de 2007 el monto de la indemnización provisional en la cantidad de
+
+$122.085.050.- para el lote N° 1. Se hace presente que el decreto antes mencionado fue rectificado Por decreto MOP N° 669 de 4 de octubre de 2007, en la parte que se refiere a la Subasignación. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
