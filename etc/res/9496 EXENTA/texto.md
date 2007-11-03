@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 9.496, de 17 de octubre de 2007, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle O'Higgins 1254, rol de avalúo Nº 2591-9, comuna Chiguayante, superficie 11,2 metros cuadrados de terreno y 0 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R 21.424, de aparente dominio de sucesión Rolando Gacitúa Gacitúa, para ejecución proyecto "Mejoramiento Eje Vial O'Higgins de Chiguayante", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por María Alejandra Gutiérrez Flores, arquitecta, Fernando Iván Cerda Espinoza, ingeniero civil, y Héctor Alejandro Peña Ríos, constructor civil, según informe de fecha 21 de agosto de 2007, fijó monto provisional indemnización en $1.277.814.- Reajuste del artículo 5º D.L. Nº 2.186 $43.318.-, lo que hace un total a pagar de $1.321.132.- pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
