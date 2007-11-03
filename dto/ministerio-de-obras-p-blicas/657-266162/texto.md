@@ -1,0 +1,3 @@
+Por decreto MOP Nº 657, de 21 de septiembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 10, para la ejecución de la obra "Construcción Colector de Aguas Lluvias Estero Lobos Poniente", que figura a nombre de Diharce Navarro Iván, Rol de avalúo; 2130-26, comuna de Puerto Montt, superficie 1.635 m2. La Comisión de Peritos fijó con fecha 2 de mayo de 2007, en la cantidad de $30.093.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
