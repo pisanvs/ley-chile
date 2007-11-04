@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.886, de 3 de octubre de 2007, de esta Subsecretaría, autorízase a SAÚL EDUARDO VEGA ZAMBRA para ampliar actividades pesqueras transformación autorizadas por resolución Nº 263-05 Subpesca, para incorporar a planta ubicada Avenida Guanaqueros 677, Tongoy, en líneas proceso cocido, fresco enfriado, fresco refrigerado y congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 03 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
