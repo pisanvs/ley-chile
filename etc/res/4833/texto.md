@@ -1,0 +1,3 @@
+EXTRACTO RESOLUCIÓN Nº 4.833, DE 06.09.07, QUE MODIFICA DISPOSICIONES DEL COMPENDIO DE NORMAS ADUANERAS, RELATIVAS A LA SALIDA TEMPORAL DEL PAÍS DE LAS MÁQUINAS POWER PACK
+
+Califica a las máquinas Power Pack dentro de la categoría de aquellas mercancías comprendidas en la letra i) del Artículo 114º de la Ordenanza de Aduanas y en la letra i) del numeral 15.1 del Capítulo IV del Compendio de Normas Aduaneras, a efectos de acogerse al régimen de Salida Temporal, sin que pierdan su calidad de nacionales o nacionalizadas y sin pagar a su retorno los derechos e impuestos que cause la importación.
