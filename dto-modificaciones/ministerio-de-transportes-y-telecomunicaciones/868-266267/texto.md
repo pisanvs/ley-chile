@@ -1,0 +1,45 @@
+MODIFICA CONCESIÓN DE SERVICIO PÚBLICO TELEFÓNICO A LA EMPRESA TELEFÓNICA DEL SUR S.A.
+
+Santiago, 14 de septiembre de 2007.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 868.- Vistos:
+
+a) El decreto ley Nº 1.762 de 1977, que creó la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
+
+b) La ley Nº 18.168, General de Telecomunicaciones, en adelante la ley.
+
+c) El Nº 1 del artículo 3º del párrafo III de la resolución Nº 55 de 1992, cuyo texto refundido, coordinado y sistematizado fue fijado por la resolución Nº 520, de 1996, ambas de la Contraloría General de la República.
+
+d) El decreto supremo Nº 216 de 1990, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión, y sus modificaciones posteriores.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante Ingreso Subtel Nº 30.784 de 22.05.2007.
+
+b) Que no se presentaron oposiciones a la publicación en extracto de la solicitud de modificación de concesión.
+
+Decreto:
+
+Modifícase la concesión de Servicio Público Telefónico, otorgada a la empresa Telefónica del Sur S.A., RUT Nº 90.299.000-3, con domicilio en calle San Carlos Nº 107, comuna de Valdivia, X Región, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.
+
+1. Autorízase a la concesionaria a instalar, operar y explotar un (1) radioenlace, cuyas características se indican a continuación:
+
+VER DIARIO OFICIAL 06.11.2007 PÁGINA 8
+
+Características Técnicas:
+
+VER DIARIO OFICIAL 06.11.2007 PÁGINA 8 Ubicación:
+
+VER DIARIO OFICIAL 06.11.2007 PÁGINA 8
+
+### 2. Los plazos serán los que se indican a continuación:
+
+VER DIARIO OFICIAL 06.11.2007 PÁGINA 8
+
+3. Apruébase el proyecto técnico base de la solicitud presentada por la concesionaria, conforme a las disposiciones técnico legales que rigen el servicio de telecomunicaciones concedido. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones.
+
+4. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, tómese razón, comuníquese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden de la Presidenta de la República, René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Víctor Garay Silva, Jefe División Concesiones.
