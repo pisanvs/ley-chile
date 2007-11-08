@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº1.080 EXENTA, DE 2006
+
+Por resolución exenta Nº1.080, de 28 de diciembre de 2006, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región de Los Lagos, se extendió la autorización a la Planta Revisora Técnica AB 1004, localizada en Ancud, de la "Sociedad Tüv Rheinland Andino S.A." para efectuar revisiones técnicas a vehículos motorizados y sus remolques en la comuna de Castro, en la vía lateral de servicio de calle Galvarino Riveros, localizada frente al Cementerio Municipal, hasta el 31 de enero de 2007, manteniéndose las mismas exigencias fijadas en la resolución exenta Nº731, de 14.09.2006, de la Secretaría Regional Ministerial antes citada
+
+- Ángela Villarroel Mansilla, Secretaria Regional Ministerial Transportes y Telecomunicaciones, Región de Los Lagos.
