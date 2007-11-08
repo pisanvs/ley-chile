@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 607 EXENTA, DE 2007
+
+Por resolución exenta Nº607, de 31 de agosto de 2007, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la X Región de Los Lagos, se prorrogó la autorización concedida a la Planta Revisora Técnica AB 1004, localizada en Ancud, de la "Sociedad Tüv Rheinland Andino S.A." para efectuar revisiones técnicas a vehículos motorizados y sus remolques en la comuna de Castro, en la vía lateral de servicio de calle Galvarino Riveros, localizada frente al Cementerio Municipal, hasta el 3 de diciembre de 2007, manteniéndose las mismas condiciones establecidas en la resolución exenta Nº144, de fecha 19.02.2007, de la mencionada Secretaría Regional Ministerial.
+
+- Ángela Villarroel Mansilla, Secretaria Regional Ministerial Transportes y Telecomunicaciones, Región de Los Lagos.
