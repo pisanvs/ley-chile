@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.041, de 22 de octubre de 2007, de esta Subsecretaría, autorízase a COMERCIAL POSEIDÓN LIMITADA, para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en fundo Santa Eloísa s/n, Hualpén, Talcahuano, donde podrá elaborar en las líneas de proceso de Cocido, Congelado, Seco salado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 22 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
