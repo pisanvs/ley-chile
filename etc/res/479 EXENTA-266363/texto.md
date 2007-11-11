@@ -1,0 +1,5 @@
+APRUEBA REFORMAS DE ESTATUTOS DE "CORP BANCA ADMINISTRADORA GENERAL DE FONDOS S.A."
+
+Certifico: que por resolución exenta Nº 479 de 31 de octubre de 2007, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Corp Banca Administradora General de Fondos S.A.", acordada en la Junta Extraordinaria de Accionistas celebrada el 10 de septiembre de 2007, y reducida a escritura pública el 21 de septiembre del mismo año, en la 43ª Notaría de Santiago de don Juan Ricardo San Martín Urrejola, domiciliado en Morandé Nº 261, Santiago; consistente en el cambio del nombre de la sociedad administradora, la que en adelante se denominará "Corp Capital Administradora General de Fondos S.A.".
+
+Santiago, 31 de octubre de 2007.- Nelson Torres Morgado, Secretario General Subrogante.
