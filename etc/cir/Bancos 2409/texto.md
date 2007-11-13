@@ -7482,264 +7482,6 @@ XI.- INVERSIONES EN ORO.
 
 Las inversiones en oro que las empresas bancarias mantengan de conformidad con lo dispuesto en el N° 18 del artículo 69 de la Ley General de Bancos, serán registradas en pesos oro sellado chileno en la cuenta "Inversiones en oro" de la partida 1775.
 
-CAPITULO 7-6 (Bancos)
-
-MATERIA:
-
-PROVISIONES POR RIESGO-PAIS.
-
-I.- ASPECTOS GENERALES.
-
-1.- "Riesgo-país".
-
-Para los efectos de las presentes normas, se entiende como "riesgo-país" el riesgo que se asume al mantener o comprometer recursos en algún país extranjero, por los eventuales impedimentos para obtener su recuperación debido a factores que afectan globalmente al país respectivo, distintos del riesgo de crédito u otros riesgos propios de las operaciones realizadas con sus residentes, cuyo análisis y reconocimiento contable se realiza con prescindencia de las consideraciones relativas a eventuales dificultades en la repatriación de los recursos y que son ajenas a la liquidez, solvencia o comportamiento de las contrapartes.
-
-El riesgo-país comprende el "riesgo soberano" y el "riesgo de transferencia". En el caso de las operaciones de crédito, el primero corresponde a las dificultades que podrían presentarse para ejercer acciones contra el prestatario o último obligado al pago por razones de soberanía, en tanto que el segundo se refiere a la incapacidad general de los deudores de un país para hacer frente a sus obligaciones con acreedores extranjeros, por carecer de divisas.
-
-Por consiguiente, los bancos que inviertan recursos en el exterior, deben mantener permanentemente evaluada la situación del respectivo país, mediante un análisis integral que contemple tanto los aspectos económicos como políticos y sociales.
-
-Frente a la necesidad de que esas evaluaciones se realicen siguiendo criterios prudenciales y uniformes, en el presente Capítulo se establece la metodología que deberán utilizar los bancos para determinar el riesgo-país y se disponen los niveles de provisión que consecuentemente deben mantener para cubrir eventuales pérdidas por los activos o derechos cuya recuperación está supeditada a una transferencia o giro desde el exterior.
-
-2.- Asunción del riesgo-país.
-
-El uso de los recursos en otros países exige la fijación de políticas eficaces para acotar y manejar el riesgo que se asume, aplicando el máximo de cuidado y rigurosidad en el análisis y seguimiento del riesgo-país.
-
-Por esa razón, corresponderá al Directorio de cada banco:
-
-a) Establecer las políticas con respecto al uso de los recursos para créditos, depósitos e inversiones en el exterior, fijando una adecuada diversificación e imponiendo, sin perjuicio de los límites legales y reglamentarios, límites crediticios y de inversiones por país.
-
-b) Establecer, al menos una vez en cada semestre calendario, la categoría de riesgo que, según la metodología establecida en el presente Capítulo, la institución le asigna a cada país con el cual se operará.
-
-c) Velar por una evaluación rigurosa y continua del riesgo de cada país, efectuada por profesionales idóneos y calificados para su análisis y seguimiento permanente.
-
-Las directrices y acuerdos tomados por el Directorio sobre la materia, deberán quedar debidamente expresados en el acta de la sesión.
-
-Para efectos de los acuerdos que periódicamente debe tomar el Directorio según lo indicado en la letra b), como asimismo para las eventuales revisiones de esta Superintendencia señaladas en el N° 3 siguiente, el análisis de cada país evaluado debe quedar reflejado en un informe razonado, que contenga toda la información relevante y las conclusiones que determinan la categoría de riesgo asignada al respectivo país.
-
-3.- Supervisión de este Organismo.
-
-Esta Superintendencia, dentro de su política de supervisión preventiva que requiere de una evaluación integral de las instituciones financieras y, además, para los efectos de la calificación de gestión a que se refiere el artículo 59 y siguientes de la Ley General de Bancos, examinará la forma en que cada banco enfrenta el riesgo-país, analizando los fundamentos de las políticas fijadas por el directorio y la eficacia de los controles establecidos para su cumplimiento.
-
-Asimismo, este Organismo revisará el cumplimiento de las instrucciones del presente Capítulo, pudiendo exigir, en el evento de observarse algún país deficientemente evaluado o sin un seguimiento oportuno de su riesgo, su reclasificación y el consiguiente ajuste en el nivel de provisiones.
-
-II.- METODOLOGIA DE CLASIFICACION.
-
-La evaluación del riesgo-país incluirá dos tipos de análisis: a) el "análisis base", que corresponde a una primera aproximación fundada, principalmente, en las cifras o indicadores macroeconómicos y en la información de hechos relevantes en relación con los compromisos financieros de un país; y, b) el "análisis complementario", que considerará los demás aspectos relevantes para la evaluación de un país, como es el caso de los factores políticos y sociales cuya información normalmente no se traduce en antecedentes de orden cuantitativo.
-
-Ambos análisis deberán reflejarse en los informes como fundamento de la categoría de riesgo que se le asigna al país evaluado, según lo que se indica a continuación:
-
-1.- Análisis base.
-
-En general, en este análisis se debe examinar cada país en relación con su capacidad de enfrentar compromisos financieros, su acceso al mercado de crédito y el grado de estabilidad macroeconómica.
-
-Este estudio debe concentrarse en la información de al menos los últimos cinco años, sobre los tres aspectos que se describen a continuación:
-
-i) Capacidad para enfrentar compromisos financieros. Una de las variables más importantes en cualquier evaluación, la constituye la capacidad del país para responder a sus compromisos con el exterior. Para examinarla, es básico analizar la evolución de su deuda externa y su comportamiento de pago, en cuanto a renegociaciones y postergaciones o interrupciones, transitorias o permanentes, del servicio de sus deudas.
-
-ii) Acceso a financiamiento. Se debe considerar si el país tiene o no acceso al mercado de crédito voluntario y, en el caso de créditos condicionados de organismos multilaterales, cómo ha sido el cumplimiento de los acuerdos que condicionan los mismos.
-
-iii) Equilibrios macroeconómicos. Es necesario efectuar un análisis riguroso de los equilibrios macroeconómicos del país, observando los indicadores claves tales como el crecimiento del Producto Interno Bruto (PIB), la tasa de inflación, el ahorro, la inversión y la situación fiscal. Asimismo, debe analizarse: el comportamiento de las cuentas externas, en especial, la composición y saldo de la balanza de pagos (estructura de la cuenta corriente y de capitales) y la estabilidad de las fuentes permanentes de ingreso de divisas; la capacidad o permeabilidad, originada por el grado de compromiso del capital del país con sus acreedores, para enfrentar con éxito períodos de liquidez; la información relativa a la cuantía y estructura de la deuda externa y su evolución con respecto a variables tales como el PIB, las reservas internacionales, las exportaciones, el nivel de reservas en relación con las importaciones; y, los demás aspectos específicos que sean necesarios de acuerdo con el buen juicio profesional del analista y las peculiaridades de cada país evaluado.
-
-2.- Análisis complementario.
-
-A partir del análisis base de que trata el N° 1 precedente, se categorizará preliminarmente el país evaluado en alguno de los niveles de riesgo definidos en el numeral 3.1 de este título.
-
-El nivel de riesgo definitivo que le corresponderá al país, dependerá del resultado del análisis complementario, el cual alcanzará todos aquellos aspectos que no son cubiertos en el análisis base, pero que son significativos para una evaluación completa del país según lo indicado en el numeral 3.2 de este título.
-
-Si de este análisis complementario se desprenden factores negativos, la categoría definitiva en la que corresponde clasificar al país será aquella inmediatamente inferior, es decir, la de mayor riesgo que le sigue.
-
-3.- Categorías de riesgo.
-
-3.1.- Clasificación según el análisis base.
-
-Los países se clasificarán en alguno de los siguientes grupos, considerando el comportamiento de las variables mencionadas en el N° 1:
-
-Grupo 1: Países con bajo riesgo.
-
-Los países que merecen esta clasificación son aquellos que no presentan dudas acerca de la capacidad de pago de sus obligaciones con el exterior, como tampoco problemas en la financiación de sus actividades de comercio exterior, ni restricciones significativas en las transacciones financieras internacionales.
-
-Además, el país deberá cumplir las dos condiciones siguientes:
-
-a) Que aparezca clasificado como país "industrializado", por el Fondo Monetario Internacional (FMI); y,
-
-b) Que su moneda nacional sea de general aceptación en los mercados internacionales de cambios.
-
-Grupo 2: Países con riesgo normal.
-
-Se incluirán en este grupo todos aquellos países que no deban incorporarse en otro de mayor riesgo de acuerdo con los criterios establecidos en las presentes normas.
-
-Grupo 3: Países con riesgo superior al normal.
-
-En esta categoría se incluyen aquellos países que no presentan desequilibrios macroeconómicos de importancia, es decir, que sus desbalances internos y externos son controlables, pero existen dudas de que esa situación se mantenga en el mediano plazo.
-
-Esta categoría es la máxima en la que puede incluirse un país que presente una o más de las siguientes situaciones:
-
-a) Existen dudas razonables en cuanto a que el país logre mantener en el mediano plazo sus equilibrios macroeconómicos.
-
-b) Su nivel de endeudamiento dificulta la contratación de nuevos créditos en condiciones normales.
-
-c) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Interrumpió en los últimos 5 años, total o parcialmente, la amortización de sus deudas, pero el servicio de intereses lo efectuó normalmente;
-
-ii) Ha renegociado su deuda en los últimos 5 años, de modo total o parcial, alargando su plazo de vencimiento.
-
-Grupo 4: Países con dificultades.
-
-Se incluyen en esta categoría los países cuyos desequilibrios internos y externos son continuos o recurrentes. Sus economías presentan, por lo general, una base exportadora poco diversificada que los expone a frecuentes fluctuaciones en sus ingresos de exportación, con los consiguientes atrasos en sus compromisos financieros internacionales, constituyendo una característica común de estos países la necesidad de cumplir programas asociados al financiamiento de organismos internacionales de crédito (FMI, Banco Mundial u otros similares).
-
-Esta categoría es la máxima en la que puede incluirse un país que presente una o más de las siguientes situaciones:
-
-a) Incumplimiento de las metas asociadas a créditos de organismos multilaterales otorgados con el compromiso de saneamiento de la economía.
-
-b) No existe claridad en cuanto a que las renegociaciones pactadas obedezcan a una adecuación definitiva a su capacidad de pago.
-
-c) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Interrumpió en los últimos dos años, total o parcialmente, la amortización de sus deudas, aunque el servicio de intereses lo efectuó normalmente; ii) En los últimos dos años ha renegociado su deuda, alargando su plazo de vencimiento, o bien, demuestra interés en efectuar tales renegociaciones; o, iii) Ha refinanciado en los últimos dos años una parte sustancial de sus intereses con nuevos créditos
-
-Grupo 5 Países dudosos.
-
-Esta categoría incluye a los países que exhiben significativos desequilibrios internos y externos, lo que se traduce en altas tasas de inflación y crecimiento del producto muy bajo o incluso negativo, y dificultades de financiamiento de la balanza de pagos. Dicho escenario conduce a niveles crecientes de reprogramaciones de sus compromisos externos, siendo escasa la posibilidad de pago.
-
-Debe clasificarse en esta categoría el país que, sin estar en el caso descrito para el Grupo 6, presenta una o más de las siguientes situaciones:
-
-a) No ha aceptado convenir los programas de ajuste de organismos internacionales de crédito.
-
-b) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Ha interrumpido en los últimos dos años, total o parcialmente, el pago de intereses; ii) Ha impuesto una reprogramación unilateral de sus deudas en los últimos dos años.
-
-Grupo 6 Países con problemas graves.
-
-Deben clasificarse en esta categoría los países que han desconocido sus deudas o no han atendido la amortización de las mismas durante los últimos dos años.
-
-3.2.- Clasificación definitiva.
-
-Los países clasificados preliminarmente según lo señalado en el numeral 3.1 precedente, deberán ser rebajados a la categoría inmediatamente inferior a la que resulte del análisis base, cuando existan debilidades o factores perturbadores importantes que no se contemplan en dicho análisis.
-
-En este análisis complementario deben considerarse todos los demás aspectos que son de interés para examinar la situación de cada país evaluado, los cuales, por lo general, no se pueden traducir a reglas rígidas, sino que quedan sujetos a la idoneidad y buen juicio de los analistas.
-
-Sin perjuicio de los demás factores que la rigurosidad del análisis exige considerar adicionalmente y de los que son propios de la situación particular del país evaluado, en el respectivo informe deberán quedar reflejadas, al menos, las conclusiones positivas o negativas acerca de los siguientes aspectos:
-
-a) Oportunidad, confiabilidad y suficiencia de la información económica y financiera disponible. Este factor es importante puesto que, aun cuando un país esté sirviendo su deuda en forma total o parcial, si la información en que se apoya el análisis fuera insuficiente o de difícil comprobación, al punto de que no permite determinar con un grado razonable de seguridad cuál es el origen de los recursos y la real capacidad de pago del país, corresponderá bajarlo de categoría según la metodología establecida en las presentes normas.
-
-b) Estabilidad política y social. Debe examinarse la estabilidad analizando la fragmentación de las corrientes y los desórdenes internos, tanto políticos como sociales. Así por ejemplo, puede ser necesario un cambio en la categoría del riesgo-país frente a una razonable incertidumbre acerca de interrupciones a la vigencia del estado de derecho, problemas de gobernabilidad dentro de los cauces legales, o cambios radicales en la orientación de sus políticas económicas que pongan en riesgo los equilibrios macroeconómicos existentes o el cumplimiento de sus compromisos con el exterior.
-
-c) Cumplimiento de regulaciones. Debe evaluarse la importancia relativa de hechos que muestran un relajo en el cumplimiento de las regulaciones establecidas para el sistema financiero, o situaciones de corrupción o de demoras burocráticas asociadas a operaciones cambiarias o crediticias.
-
-d) Conflictos con otros países. Es básico considerar la existencia o la posibilidad de conflictos con otros países, que puedan poner en peligro la estabilidad de la economía del país, o bien que puedan afectar o afecten directamente el retorno de los recursos invertidos en él.
-
-e) Clasificaciones de evaluadoras de riesgo. En este aspecto deberá tomarse en cuenta si en los últimos 12 meses más de una evaluadora internacional incluida en la nómina del Capítulo 1-12 de esta Recopilación, ha rebajado significativamente al país de categoría.
-
-III.- PROVISIONES POR RIESGO-PAIS.
-
-1.- Porcentajes según categorías de riesgo.
-
-1.1.- Regla general.
-
-Para constituir las provisiones por riesgo-país, los porcentajes que deben aplicarse a los importes de los activos que se indican más adelante, serán los siguientes:
-
-Grupo Porcentaje
-
-1 0%
-
-2 0,75%
-
-3 5%
-
-4 20%
-
-5 80%
-
-6 100%
-
-Cualquier operación efectuada con un país no clasificado deberá ser provisionada en un 100%. Un país se considerará no clasificado mientras el Directorio del banco, o quien haga sus veces, no acuerde su categoría de riesgo según lo indicado en la letra b) del N° 2 del título I de este Capítulo.
-
-1.2.- Regla de excepción.
-
-No obstante lo indicado en el numeral precedente, para los activos sujetos al riesgo de un mismo país que se encuentre clasificado en categorías 3, 4 ó 5, los bancos pueden aplicar la tabla que se indica a continuación y que fija esas provisiones en función de la relación entre el total de activos en un mismo país y el patrimonio efectivo del banco:
-
-GRUPO Activos como porcentaje del patrimonio efectivo
-
-Hasta el 10% Entre 10% y 20%
-
-3 1,5% 3,0%
-
-4 3,0% 10,0%
-
-5 30,0% 40,0%.
-
-Se entiende que los activos sujetos a la menor tasa corresponden a operaciones en un mismo país que en su conjunto no superan el 10% del patrimonio efectivo. Las tasas de la segunda columna se aplican a aquellas operaciones que sumadas superan ese 10% pero no exceden el 20%.
-
-2.- Imputación de riesgo.
-
-El riesgo-país es imputable a aquel país en que esté domiciliado el prestatario o último obligado al pago y desde el cual se debe obtener el retorno de los recursos invertidos.
-
-No obstante, en los siguientes casos se podrá considerar el riesgo de un país distinto al del deudor original:
-
-a) Cuando el crédito se otorgue a una sucursal en el extranjero de una persona jurídica, pudiendo en ese caso imputarse el riesgo al país de domicilio de la casa matriz de esa sucursal.
-
-b) Cuando el garante del crédito sea una entidad calificada en grado de inversión por alguna de las firmas evaluadoras señaladas en el Capítulo 1-12 de esta Recopilación, el crédito o la parte de éste cubierta por el garante, según sea el caso, podrá imputarse al riesgo del país en que aquél tenga su domicilio. Se consideran como garantes, para estos efectos, los avalistas, fiadores, deudores solidarios y emisores de cartas de crédito stand by. Esta regla podrá aplicarse también para las operaciones protegidas con seguros o derivados de crédito que cubran los efectos del riesgo país, considerando el país de domicilio y la clasificación de la compañía de seguro o del obligado al pago del instrumento derivado.
-
-c) Si el garante de un crédito tiene domicilio en Chile, la parte garantizada no será objeto de provisión por riesgo país. Asimismo, cuando un crédito tenga una garantía real que se encuentre y sea realizable en Chile, quedará exenta aquella parte cubierta por la garantía.
-
-3.- Operaciones sujetas a provisiones.
-
-Quedan sujetos a la constitución de provisiones los siguientes activos u operaciones, debiendo aplicarse los porcentajes a que se refiere el N° 1, sobre los saldos que correspondan, según lo dispuesto en el N° 5 de este título:
-
-3.1.- Depósitos e instrumentos financieros.
-
-Incluye los depósitos en cuenta corriente u otros depósitos a la vista mantenidos en el exterior, como asimismo los instrumentos financieros tales como depósitos a plazo, bonos o instrumentos de deuda adquiridos cuyo deudor directo esté domiciliado en el extranjero. Comprende también los instrumentos derivados cuya contraparte esté situada en el exterior y los instrumentos de capital emitidos en el extranjero que no correspondan a inversiones permanentes en sociedades.
-
-No obstante, quedarán libres de provisión por riesgo-país aquellos títulos que se coticen en bolsas oficiales de países clasificados a lo menos en categoría BB- o su equivalente, por alguna de las firmas evaluadoras mencionadas en el Capítulo 1-12 de la Recopilación Actualizada de Normas.
-
-3.2.- Colocaciones.
-
-Comprende las colocaciones cuyos deudores directos sean personas naturales o jurídicas domiciliadas en el exterior.
-
-Con acuerdo del Directorio de la institución en relación con tipos o grupos de operaciones específicas y países con los que se opera, podrán dejarse libres de provisiones por riesgo-país las operaciones pagaderas en moneda extranjera que se encuadren en las definiciones generales que a continuación se indican:
-
-a) Colocaciones hasta un año, correspondientes a créditos de comercio exterior. Para este efecto se entiende que corresponden a "créditos de comercio exterior", comprendiendo tanto el comercio exterior chileno como el realizado entre terceros países, lo siguiente:
-
-i) Las operaciones amparadas por cartas de crédito documentarías irrevocables que se encuentren en su etapa contingente.
-
-ii) Los financiamientos de operaciones de comercio exterior realizadas con Chile o entre terceros países, asociados al pago del valor de mercadería que haya sido embarcada. Cumplen esta condición, por ejemplo, la negociación de cartas de crédito o la adquisición o descuento de los documentos provenientes de su negociación; el financiamiento a bancos emisores para pagar cartas de crédito negociadas; el pago anticipado de cartas de crédito negociadas a plazo; la adquisición de letras de cambio o pagarés provenientes del pago de operaciones de comercio exterior efectuadas bajo la forma de cobranza; los préstamos otorgados a importadores o exportadores contra presentación de copias de los documentos de embarque, etc.
-
-iii) Los avales, fianzas y cartas de crédito stand by a menos de un año, relacionados directamente con las operaciones de comercio exterior a que se refieren los literales anteriores.
-
-b) Créditos contingentes hasta un año. Incluye avales y fianzas, cartas de crédito stand by y boletas de garantía, siempre que se trate de deudores establecidos en países clasificados al menos en categoría 4 según las reglas de este Capítulo.
-
-c) Créditos hasta 180 días, de cualquier tipo, otorgados a bancos que cuenten con una clasificación internacional efectuada por alguna de las firmas señaladas en el Capítulo 1-12 de esta Recopilación, cualquiera sea la categoría de riesgo que éstas le hayan asignado, y que se encuentren situados en países clasificados al menos en categoría 4 según las reglas de este Capítulo.
-
-Los plazos de hasta un año o 180 días a que se refieren los literales precedentes, se refieren al plazo residual para el vencimiento o reembolso de acuerdo con la fecha pactada en el origen de la obligación.
-
-La clasificación internacional indicada en la letra c) , como asimismo la clasificación del país puede referirse a la casa matriz en caso de que el deudor sea una sucursal de un banco situado en otro país.
-
-3.3.- Otros Activos.
-
-Asimismo, queda afecto a la provisión de que se trata, cualquier otro activo cuya liquidación esté sujeta a un retorno desde el extranjero, tales como bienes recibidos en pago que deban ser enajenados en el exterior, con la sola excepción de los activos correspondientes a inversiones permanentes en sociedades y aportes de capital a sucursales en el exterior, incluido el mayor valor pagado en inversiones en sociedades ("goodwill"), cuando corresponda.
-
-4.- Cambios posteriores en la clasificación de un país.
-
-Cuando un país sea reclasificado en una nueva categoría, sea ésta de mayor o menor riesgo, las colocaciones vigentes al momento del cambio mantendrán la exigencia de provisiones correspondiente a la clasificación anterior, hasta la fecha de vencimiento en que se encuentren pactados.
-
-Los demás activos sujetos a provisión por riesgo-país, esto es, aquellos que no correspondan a colocaciones, se provisionarán de acuerdo con el porcentaje que le corresponda a la nueva clasificación del país, a partir de la fecha del cambio de categoría.
-
-5.- Importes sobre los cuales se aplica la provisión por riesgo-país.
-
-Las provisiones por riesgo-país constituyen provisiones individuales, adicionales a las constituidas por los riesgos de crédito y otros riesgos propios de cada operación.
-
-Por consiguiente, los porcentajes para constituir las provisiones por riesgo-país deben aplicarse sobre el valor contable de los activos expresado en pesos, netos de las demás provisiones por riesgo.
-
-6.- Otras disposiciones contables.
-
-Para efectos de información a esta Superintendencia, las provisiones por riesgo-país que se mantengan constituidas se incluirán en la cuenta "Provisiones por riesgo-país" de la partida 4241, en tanto que el resultado originado por estas provisiones se incluirá en la cuenta "Provisiones por riesgo-país" de la partida6140.
-
-Las provisiones de que se trata no serán utilizables para el castigo de operaciones, sino que se constituirán y liberarán con cargo o abono a resultados según corresponda, para mantener el nivel exigido al cierre de cada mes. La cuenta de resultado antes mencionada podrá arrojar saldo deudor o acreedor, según el movimiento neto de los ajustes en el período o ejercicio.
-
-Los bancos deberán mantener perfectamente identificadas todas las operaciones que requieren ser provisionadas de acuerdo con estas normas, debiendo asociar cada una de ellas con el país al cual se imputa el riesgo y con las demás provisiones constituidas. Por una parte, se necesitará deducir de los respectivos activos la provisión por riesgo-país para los efectos de la preparación de los estados financieros y, por otra, esa deducción es necesaria para la determinación de los activos ponderados por riesgo.
-
-Debe tenerse en cuenta, además, que las provisiones por riesgo país se constituirán, cuando corresponda, aun cuando se trate de depósitos o créditos otorgados a sucursales o filiales de la institución financiera en el exterior. Consecuentemente, estas provisiones no deben anularse en la consolidación de estados financieros.
-
-Para efectos de la homologación de criterios contables con las sucursales y filiales en el cálculo del VPP, los créditos que esas entidades otorguen a personas con residencia en Chile no quedan sujetos a provisión por riesgo-país.
-
-### IV. Derogado
-
 CAPITULO 7-7 (Bancos y Financieras)
 
 MATERIA:
@@ -8265,6 +8007,146 @@ La tarea de revisión y las responsabilidades se asignarán respetando la necesa
 Si en alguna revisión se encuentran diferencias significativas entre el valor registrado y el que debió utilizarse, deberán identificarse sus causas y determinar si es necesario ajustar los informes contables o efectuar cambios en los procesos o en los modelos de determinación de precios, según sea cual sea la magnitud o el origen de las diferencias.
 
 Los informes que emanen del proceso de revisión deberán contener detalles suficientes para proporcionar una visión completa de dicho proceso, tanto en lo que se refiere al método y cobertura empleados como a los resultados obtenidos, debiendo revelar toda discrepancia significativa e informar acerca de las medidas tomadas frente a ellas.
+
+## Capítulo 7-13
+
+RIESGO PAÍS Y CLASIFICACIÓN DE PAÍSES.
+
+### I. ASUNCION DEL RIESGO-PAIS
+
+1. "Riesgo-país".
+
+Para los efectos de las presentes normas, se entiende como "riesgo-país" el riesgo que se asume al mantener o comprometer recursos en algún país extranjero, por los eventuales impedimentos para obtener su recuperación debido a factores que afectan globalmente al país respectivo.
+
+El riesgo-país comprende el "riesgo soberano" y el "riesgo de transferencia". En el caso de las operaciones de crédito, el primero corresponde a las dificultades que podrían presentarse para ejercer acciones contra el prestatario o último obligado al pago por razones de soberanía, en tanto que el segundo se refiere a la incapacidad general de los deudores de un país para hacer frente a sus obligaciones con acreedores extranjeros, por carecer ese país de suficientes divisas.
+
+### 2. Políticas y procedimientos para la asunción del riesgo-país
+
+El uso de los recursos en otros países exige la fijación de políticas eficaces para acotar y manejar el riesgo que se asume, aplicando el máximo de cuidado y rigurosidad en el análisis y seguimiento del riesgo-país.
+
+Por esa razón, corresponderá al Directorio de cada banco:
+
+a) Establecer las políticas con respecto al uso de los recursos para créditos, depósitos e inversiones en el exterior, fijando una adecuada diversificación e imponiendo, sin perjuicio de los límites legales y reglamentarios, límites crediticios y de inversiones por país.
+
+b) Establecer, al menos una vez en cada semestre calendario, la categoría de riesgo que, según la metodología establecida en el título II del presente Capítulo, la institución le asigna a cada país con el cual se operará.
+
+c) Velar por una evaluación rigurosa y continua del riesgo de cada país, efectuada por profesionales idóneos y calificados para su análisis y seguimiento permanente.
+
+Las directrices y acuerdos tomados por el Directorio sobre la materia, deberán debidamente expresados en el acta de la sesión.
+
+Para efectos de los acuerdos que periódicamente debe tomar el Directorio según lo indicado en la letra b), como asimismo para la constitución de las provisiones y las eventuales revisiones de esta Superintendencia señaladas en los N° 3 y 4 siguientes, el análisis de cada país evaluado debe quedar reflejado en un informe razonado, que contenga toda la información relevante y las conclusiones que determinan la categoría de riesgo asignada al respectivo país.
+
+### 3. Constitución de provisiones por riesgo-país
+
+Los bancos deberán constituir las provisiones necesarias para cubrir eventuales pérdidas por los activos o derechos cuya recuperación está supeditada a una transferencia o giro desde el exterior, de acuerdo con lo indicado en el Capítulo B-6 del Compendio de Normas Contables.
+
+### 4. Supervisión de este Organismo
+
+Esta Superintendencia, dentro de su política de supervisión preventiva que requiere de una evaluación integral de las instituciones financieras y, además, para los efectos de la calificación de gestión a que se refiere el artículo 59 y siguientes de la Ley General de Bancos, examinará la forma en que cada banco enfrenta el riesgo-país, analizando los fundamentos de las políticas fijadas por el Directorio y la eficacia de los controles establecidos para su cumplimiento.
+
+Asimismo, este Organismo revisará el cumplimiento de las instrucciones del presente Capítulo, pudiendo exigir, en el evento de observarse algún país deficientemente evaluado o sin un seguimiento oportuno de su riesgo, su reclasificación y el consiguiente ajuste en el nivel de provisiones.
+
+### II. METODOLOGIA DE CLASIFICACION
+
+La evaluación del riesgo-país incluirá dos tipos de análisis: a) el "análisis base", que corresponde a una primera aproximación fundada, principalmente, en las cifras o indicadores macroeconómicos y en la información de hechos relevantes en relación con los compromisos financieros de un país; y, b) el "análisis complementario", que considerará los demás aspectos relevantes para la evaluación de un país, como es el caso de los factores políticos y sociales cuya información normalmente no se traduce en antecedentes de orden cuantitativo.
+
+Ambos análisis deberán reflejarse en los informes como fundamento de la categoría de riesgo que se le asigna al país evaluado, según lo que se indica a continuación:
+
+### 1. Análisis base
+
+En general, en este análisis se debe examinar cada país en relación con su capacidad de enfrentar compromisos financieros, su acceso al mercado de crédito y el grado de estabilidad macroeconómica.
+
+Este estudio debe concentrarse en la información de al menos los últimos cinco años, sobre los tres aspectos que se describen a continuación:
+
+i) Capacidad para enfrentar compromisos financieros. Una de las variables más importantes en cualquier evaluación, la constituye la capacidad del país para responder a sus compromisos con el exterior. Para examinarla, es básico analizar la evolución de su deuda externa y su comportamiento de pago, en cuanto a renegociaciones y postergaciones o interrupciones, transitorias o permanentes, del servicio de sus deudas.
+
+ii) Acceso a financiamiento. Se debe considerar si el país tiene o no acceso al mercado de crédito voluntario y, en el caso de créditos condicionados de organismos multilaterales, cómo ha sido el cumplimiento de los acuerdos que condicionan los mismos.
+
+iii) Equilibrios macroeconómicos. Es necesario efectuar un análisis riguroso de los equilibrios macroeconómicos del país, observando los indicadores claves tales como el crecimiento del Producto Interno Bruto (PIB), la tasa de inflación, el ahorro, la inversión y la situación fiscal. Asimismo, debe analizarse: el comportamiento de las cuentas externas, en especial, la composición y saldo de la balanza de pagos (estructura de la cuenta corriente y de capitales) y la estabilidad de las fuentes permanentes de ingreso de divisas; la capacidad o permeabilidad, originada por el grado de compromiso del capital del país con sus acreedores, para enfrentar con éxito períodos de iliquidez; la información relativa a la cuantía y estructura de la deuda externa y su evolución con respecto a variables tales como el PIB, las reservas internacionales, las exportaciones, el nivel de reservas en relación con las importaciones; y, los demás aspectos específicos que sean necesarios de acuerdo con el buen juicio profesional del analista y las peculiaridades de cada país evaluado.
+
+### 2. Análisis complementario
+
+A partir del análisis base de que trata el N° 1 precedente, se categorizará preliminarmente el país evaluado en alguno de los niveles de riesgo definidos en el numeral 3.1 de este título.
+
+El nivel de riesgo definitivo que le corresponderá al país, dependerá del resultado del análisis complementario, el cual alcanzará todos aquellos aspectos que no son cubiertos en el análisis base, pero que son significativos para una evaluación completa del país según lo indicado en el numeral 3.2 de este título.
+
+Si de este análisis complementario se desprenden factores negativos, la categoría definitiva en la que corresponde clasificar al país será aquella inmediatamente inferior, es decir, la de mayor riesgo que le sigue.
+
+### 3. Categorías de riesgo
+
+3.1. Clasificación según el análisis base.
+
+Los países se clasificarán en alguno de los siguientes grupos, considerando el comportamiento de las variables mencionadas en el N° 1:
+
+GRUPO 1: Países con bajo riesgo.
+
+Los países que merecen esta clasificación son aquellos que no presentan dudas acerca de la capacidad de pago de sus obligaciones con el exterior, como tampoco problemas en la financiación de sus actividades de comercio exterior, ni restricciones significativas en las transacciones financieras internacionales.
+
+Además, el país deberá cumplir las dos condiciones siguientes:
+
+a) Que aparezca clasificado como país "industrializado", por el Fondo Monetario Internacional (FMI); y,
+
+b) Que su moneda nacional sea de general aceptación en los mercados internacionales de cambios.
+
+GRUPO 2: Países con riesgo normal.
+
+Se incluirán en este grupo todos aquellos países que no deban incorporarse en otro de mayor riesgo de acuerdo con los criterios establecidos en las presentes normas.
+
+GRUPO 3: Países con riesgo superior al normal.
+
+En esta categoría se incluyen aquellos países que no presentan desequilibrios macroeconómicos de importancia, es decir, que sus desbalances internos y externos son controlables, pero existen dudas de que esa situación se mantenga en el mediano plazo.
+
+Esta categoría es la máxima en la que puede incluirse un país que presente una o más de las siguientes situaciones:
+
+a) Existen dudas razonables en cuanto a que el país logre mantener en el mediano plazo sus equilibrios macroeconómicos.
+
+b) Su nivel de endeudamiento dificulta la contratación de nuevos créditos en condiciones normales.
+
+c) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Interrumpió en los últimos 5 años, total o parcialmente, la amortización de sus deudas, pero el servicio de intereses lo efectuó normalmente; ii) Ha renegociado su deuda en los últimos 5 años, de modo total o parcial, alargando su plazo de vencimiento.
+
+GRUPO 4: Países con dificultades.
+
+Se incluyen en esta categoría los países cuyos desequilibrios internos y externos son continuos o recurrentes. Sus economías presentan, por lo general, una base exportadora poco diversificada que los expone a frecuentes fluctuaciones en sus ingresos de exportación, con los consiguientes atrasos en sus compromisos financieros internacionales, constituyendo una característica común de estos países la necesidad de cumplir programas asociados al financiamiento de organismos internacionales de crédito (FMI, Banco Mundial u otros similares).
+
+Esta categoría es la máxima en la que puede incluirse un país que presente una o más de las siguientes situaciones:
+
+a) Incumplimiento de las metas asociadas a créditos de organismos multilaterales otorgados con el compromiso de saneamiento de la economía.
+
+b) No existe claridad en cuanto a que las renegociaciones pactadas obedezcan a una adecuación definitiva a su capacidad de pago.
+
+c) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Interrumpió en los últimos dos años, total o parcialmente, la amortización de sus deudas, aunque el servicio de intereses lo efectuó normalmente; ii) En los últimos dos años ha renegociado su deuda, alargando su plazo de vencimiento, o bien, demuestra interés en efectuar tales renegociaciones; o, iii) Ha refinanciado en los últimos dos años una parte sustancial de sus intereses con nuevos créditos
+
+GRUPO 5: Países dudosos.
+
+Esta categoría incluye a los países que exhiben significativos desequilibrios internos y externos, lo que se traduce en altas tasas de inflación y crecimiento del producto muy bajo o incluso negativo, y dificultades de financiamiento de la balanza de pagos. Dicho escenario conduce a niveles crecientes de reprogramaciones de sus compromisos externos, siendo escasa la posibilidad de pago.
+
+Debe clasificarse en esta categoría el país que, sin estar en el caso descrito para el Grupo 6, presenta una o más de las siguientes situaciones:
+
+a) No ha aceptado convenir los programas de ajuste de organismos internacionales de crédito.
+
+b) En su comportamiento de pago se observa alguna de las siguientes circunstancias: i) Ha interrumpido en los últimos dos años, total o parcialmente, el pago de intereses; ii) Ha impuesto una reprogramación unilateral de sus deudas en los últimos dos años.
+
+GRUPO 6: Países con problemas graves.
+
+Deben clasificarse en esta categoría los países que han desconocido sus deudas o no han atendido la amortización de las mismas durante los últimos dos años.
+
+3.2. Clasificación definitiva.
+
+Los países clasificados preliminarmente según lo señalado en el numeral 3.1 precedente, deberán ser rebajados a la categoría inmediatamente inferior a la que resulte del análisis base, cuando existan debilidades o factores perturbadores importantes que no se contemplan en dicho análisis.
+
+En este análisis complementario deben considerarse todos los demás aspectos que son de interés para examinar la situación de cada país evaluado, los cuales, por lo general, no se pueden traducir a reglas rígidas, sino que quedan sujetos a la idoneidad y buen juicio de los analistas.
+
+Sin perjuicio de los demás factores que la rigurosidad del análisis exige considerar adicionalmente y de los que son propios de la situación particular del país evaluado, en el respectivo informe deberán quedar reflejadas, al menos, las conclusiones positivas o negativas acerca de los siguientes aspectos:
+
+a) Oportunidad, confiabilidad y suficiencia de la información económica y financiera disponible. Este factor es importante puesto que, aun cuando un país esté sirviendo su deuda en forma total o parcial, si la información en que se apoya el análisis fuera insuficiente o de difícil comprobación, al punto de que no permite determinar con un grado razonable de seguridad cuál es el origen de los recursos y la real capacidad de pago del país, corresponderá bajarlo de categoría según la metodología establecida en las presentes normas.
+
+b) Estabilidad política y social. Debe examinarse la estabilidad analizando la fragmentación de las corrientes y los desórdenes internos, tanto políticos como sociales. Así por ejemplo, puede ser necesario un cambio en la categoría del riesgo-país frente a una razonable incertidumbre acerca de interrupciones a la vigencia del estado de derecho, problemas de gobernabilidad dentro de los cauces legales, o cambios radicales en la orientación de sus políticas económicas que pongan en riesgo los equilibrios macroeconómicos existentes o el cumplimiento de sus compromisos con el exterior.
+
+c) Cumplimiento de regulaciones. Debe evaluarse la importancia relativa de hechos que muestran un relajo en el cumplimiento de las regulaciones establecidas para el sistema financiero, o situaciones de corrupción o de demoras burocráticas asociadas a operaciones cambiarías o crediticias.
+
+d) Conflictos con otros países. Es básico considerar la existencia o la posibilidad de conflictos con otros países, que puedan poner en peligro la estabilidad de la economía del país, o bien que puedan afectar o afecten directamente el retorno de los recursos invertidos en él.
+
+e) Clasificaciones de evaluadoras de riesgo. En este aspecto deberá tomarse en cuenta si en los últimos 12 meses más de una evaluadora internacional incluida en la nómina del Capítulo 1-12 de esta Recopilación, ha rebajado significativamente al país de categoría.
 
 CAPITULO 8-1 (Bancos)
 
@@ -15638,132 +15520,6 @@ Los directores y apoderados generales de una institución financiera, como asimi
 
 Conforme a lo establecido en la ley, la contravención al precepto que prohíbe el otorgamiento de crédito hace incurrir a la institución infractora en una multa igual al valor del crédito.
 
-CAPITULO 12-13 (Bancos)
-
-MATERIA:
-
-REQUERIMIENTOS PATRIMONIALES Y PROVISIONES PARA CREDITOS HACIA EL EXTERIOR.
-
-De acuerdo con lo dispuesto en el artículo 83 de la Ley General de Bancos, esta Superintendencia está facultada para dictar normas de carácter general, fijando requerimientos patrimoniales, provisiones, límites o márgenes y otras medidas, que regulen las operaciones de crédito que realicen las entidades sujetas a su fiscalización desde Chile hacia el exterior. En uso de tales facultades y con el informe favorable del Banco Central de Chile, en el presente Capítulo se imparten las instrucciones pertinentes.
-
-I.- PROVISIONES DEL ARTICULO 83 DE LA LEY GENERAL DE BANCOS.
-
-Las provisiones de que trata este título son independientes de aquellas que esta Superintendencia ha establecido para cubrir los riesgos de pérdida de los activos y que también alcanzan a los créditos en el exterior, como es el caso de las provisiones por riesgo de crédito tratadas en el Capítulo 7-10 de esta Recopilación y las provisiones por riesgo-país a que se refiere el Capítulo 7-6.
-
-1. Definiciones para los efectos de las provisiones exigidas en este Capítulo.
-
-Para los efectos de que trata este Capítulo, se entenderá que constituyen "créditos de comercio exterior" aquellos definidos en la letra a) del numeral 3.2, título III del Capítulo 7-6 de esta Recopilación.
-
-Por otra parte, se entiende como "créditos comerciales" aquellos definidos como tales en el Anexo N° 2 del Capítulo 7-10 de esta Recopilación, con excepción de los créditos de comercio exterior mencionados en el párrafo precedente.
-
-Por último, las inversiones financieras" que se aluden en este Capítulo, corresponden a los instrumentos financieros no derivados adquiridos tanto para inversión como para negociación.
-
-En general, los "créditos hacia el exterior" a que se refiere este Capítulo comprenden todas las colocaciones e inversiones financieras en que el deudor directo es una persona natural o jurídica con residencia y domicilio en el exterior.
-
-Teniendo en cuenta estas definiciones previas, se establecen los siguientes grupos de colocaciones e inversiones financieras en el exterior, los que se circunscriben a operaciones pagaderas en moneda extranjera:
-
-A) Créditos de comercio exterior para financiar exportaciones o importaciones chilenas.
-
-B) Créditos de comercio exterior para financiar operaciones entre terceros países.
-
-C) Créditos comerciales cuyos deudores directos sean; i) sociedades filiales o agencias de empresas chilenas establecidas en el exterior; o, ii) empresas que coticen en las bolsas localizadas en países que cuenten con una clasificación de riesgo no inferior a BB- o su equivalente, incluidas las sucursales o agencias cuya matriz cumpla ese requisito.
-
-D) Créditos comerciales cuyos deudores sean otras personas distintas a las indicadas en la letra C).
-
-E) Inversiones financieras en instrumentos que cumplan al menos con las condiciones indicadas en la Tabla N° 1 del Anexo N° 1 de este Capítulo.
-
-F) Inversiones financieras en instrumentos que cumplan al menos con las condiciones indicadas en la Tabla N° 2 del Anexo N° 1 de este Capítulo.
-
-G) Instrumentos de la cartera de inversiones financieras distintos a los indicados en las letras E) y F) precedentes, cuyos emisores estén situados en países clasificados a lo menos en categoría 4 según lo dispuesto en el Capítulo 7-6 de esta Recopilación.
-
-2.- Exigencia de provisiones.
-
-2.1.- Provisiones individuales.
-
-Las colocaciones o inversiones financieras que no correspondan a las señaladas en los literales del N° 1, quedarán sujetas a una provisión individual del 100% sobre el monto no cubierto por provisiones por riesgo de crédito y riesgo-país, previstas en los Capítulos 7-10 y 7-6 de esta Recopilación.
-
-2.2.- Provisiones globales.
-
-Deberá constituirse una provisión global equivalente al 100% del exceso, cuando la suma de las colocaciones e inversiones señaladas en los literales B), C), D), E), F) y G) del N° 1, exceda el 70% del patrimonio efectivo de la institución financiera. No obstante, podrá excederse ese límite sin constituir provisiones por ese motivo, cuando el exceso, hasta por un 70% del patrimonio efectivo, corresponda a inversiones financieras que cuenten con una clasificación igual o superior a las indicadas en la Tabla N° 3 del Anexo N° 1 de este Capítulo.
-
-Por otra parte, se constituirá una provisión global equivalente al 100% del exceso, cuando la suma de las operaciones señaladas en los literales D), F) y G) del N° 1, exceda el 20% del patrimonio efectivo. No obstante, si la institución mantiene un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10% según las normas del Capítulo 12-1 de esta Recopilación, esta provisión se constituirá por lo que exceda del 30% del patrimonio efectivo.
-
-Por último, también se constituirá una provisión global por el 100% del exceso, si las inversiones financieras señaladas en la letra G) superan el 10% del patrimonio efectivo. No obstante, ese porcentaje será del 15 % para las instituciones que mantengan un índice de relación entre activos ponderados por riesgo y patrimonio efectivo igual o superior a un 10%.
-
-Para el cómputo de los excesos antes mencionados, se considerara el valor contable de las colocaciones o inversiones financieras, sin deducir las provisiones por riesgo de crédito y riesgo-país que las afectan, ni su ajuste a valor de mercado. En cambio, para la constitución de las provisiones globales de que se trata, las provisiones podrán aplicarse solamente sobre el valor neto de las colocaciones o inversiones que originan los excesos. Para este efecto, se considerará que esos créditos corresponden a las colocaciones e inversiones financieras más recientes.
-
-3.- Imputación contable.
-
-Las provisiones que deban constituirse en cumplimiento de las normas del presente Capítulo se registrarán en la cuenta "Provisiones por exigencias patrimoniales de operaciones en el exterior", de la partida 4120, con cargo a la cuenta del mismo nombre de la partida 5900.
-
-II.- MARGENES PARA OPERACIONES QUE NO SE ENCUENTRAN SUJETAS A LOS LIMITES INDIVIDUALES DE CREDITO DEL ARTICULO 84 DE LA LEY GENERAL DE BANCOS.
-
-Sin perjuicio de los cómputos que para efectos de provisiones deben efectuarse en relación con las inversiones financieras en general, según lo previsto en el título I de este Capítulo, las siguientes inversiones quedan sujetas a los márgenes individuales que se indican:
-
-1.- Depósitos a plazo en bancos del exterior.
-
-Los depósitos a plazo tomados en un mismo banco del exterior, no podrán superar el 5% del patrimonio efectivo dél banco depositante. No obstante, al tratarse de bancos depositarios clasificados en una categoría de igual o menor riesgo que las indicadas en la Tabla N° 3 del Anexo N° 1 de este Capítulo, los depósitos en un mismo banco podrán alcanzar hasta el 30% del patrimonio efectivo.
-
-2.- Títulos emitidos o garantizados por Estados o Bancos Centrales de países extranjeros o por organismos financieros internacionales.
-
-Las inversiones en títulos emitidos o garantizados por un mismo Estado o Banco Central de un país extranjero, como asimismo los emitidos o garantizados por instituciones internacionales a las que se encuentre adherido el Estado de Chile, no podrán superar el 5% del patrimonio efectivo del banco inversionista. No obstante, al tratarse de títulos clasificados en una categoría de igual o menor riesgo que las indicadas en la Tabla N° 3 del Anexo N° 1 de este Capítulo, la inversión en esos instrumentos a cargo de un mismo deudor directo o indirecto que sea alguna de las entidades antes indicadas, podrá alcanzar hasta el 50% del patrimonio efectivo. Si los títulos de que se trata no estuvieren clasificados, se considerará para este efecto la clasificación internacional del respectivo país.
-
-ANEXO N°1
-
-TABLA N°1
-
-Agencia clasificadora Categoría de riesgo
-
-Corto plazo Largo plazo
-
-Moody's P2 Baa3
-
-Standard & Poor's A3 BBB-
-
-Duff & Phelps D2 BBB-
-
-Thomson BankWatch TBW2 BBB
-
-Fitch IBCA F2 BBB-
-
-Si un instrumento de corto plazo no tiene clasificación, se considerará que cumple el requisito exigido en las normas si el mismo emisor mantiene vigente instrumentos de largo plazo que cumplan la condición del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
-
-TABLA N° 2
-
-Agencia clasificadora Categoría de riesgo
-
-Corto plazo Largo plazo
-
-Moody's P2 Ba3
-
-Standard & Poor's A3 BB-
-
-Duff & Phelps D2 BB-
-
-Thomson BankWatch TBW2 BB
-
-Fitch IBCA F2 BB-
-
-Si un instrumento de corto plazo no se encuentra clasificado, o si su clasificación es P3, B, D3, TBW3 o F3, se considerará que cumple el requisito exigido en las normas si el emisor mantiene vigente instrumentos de largo plazo que cumplan la condición del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
-
-TABLA N° 3
-
-Agenda clasificadora Categoría de riesgo
-
-Corto plazo Largo plazo
-
-Moody's P1 Aa3
-
-Standard & Poor's A-1+ AA-
-
-Duff & Phelps D1+ AA-
-
-Thomson BankWatch TBW-1 AA
-
-Fitch IBCA F1+ AA-
-
-Si un instrumento de corto plazo no tiene clasificación, se considerará que cumple el requisito exigido en las normas si el mismo emisor mantiene vigente instrumentos de largo plazo que cumplan la condición del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
-
 CAPITULO 12-14 (Bancos y Financieras)
 
 MATERIA:
@@ -15825,6 +15581,50 @@ Como lo establece la ley, esta Superintendencia sólo podrá rechazar una solici
 8.- Plazo para pronunciarse.
 
 Esta superintendencia cuenta con 60 días para emitir su pronunciamiento.
+
+## Capítulo 12-15
+
+NORMAS SOBRE CRÉDITOS HACIA EL EXTERIOR. ARTÍCULO 83 DE LA LEY GENERAL DE BANCOS.
+
+De acuerdo con lo dispuesto en el artículo 83 de la Ley General de Bancos, esta Superintendencia está facultada para dictar, con el informe favorable del Banco Central de Chile, normas de carácter general que fijen requerimientos patrimoniales, provisiones, límites o márgenes u otras medidas relacionadas con las operaciones de crédito que realicen las entidades sujetas a su fiscalización desde Chile hacia el exterior. En uso de tales facultades, se imparten las siguientes instrucciones:
+
+1. Márgenes para operaciones exentas de los límites de crédito del artículo 84 de la Ley General de Bancos.
+
+Las siguientes inversiones quedan sujetas a los márgenes individuales que se indican:
+
+1.1. Depósitos a plazo en bancos del exterior.
+
+Los depósitos a plazo tomados en un mismo banco del exterior, no podrán superar el 5% del patrimonio efectivo del banco depositante. No obstante, al tratarse de bancos depositarios clasificados en una categoría de igual o menor riesgo que las indicadas en el numeral 1.3 de este Capítulo, los depósitos en un mismo banco podrán alcanzar hasta el 30% del patrimonio efectivo.
+
+1.2 Títulos emitidos o garantizados por Estados o Bancos Centrales de países extranjeros o por organismos financieros internacionales.
+
+Las inversiones en títulos emitidos o garantizados por un mismo Estado o Banco Central de un país extranjero, como asimismo los emitidos o garantizados por instituciones internacionales a las que se encuentre adherido el Estado de Chile, no podrán superar el 5% del patrimonio efectivo del banco inversionista. No obstante, al tratarse de títulos clasificados en una categoría de igual o menor riesgo que las indicadas en el numeral 1.3 siguiente, la inversión en esos instrumentos a cargo de un mismo deudor directo o indirecto que sea alguna de las entidades antes indicadas, podrá alcanzar hasta el 50% del patrimonio efectivo. Si los títulos de que se trata no estuvieren clasificados, se considerará para este efecto la clasificación internacional del respectivo país.
+
+1.3. Categorías de riesgo que permiten ampliar el margen.
+
+De acuerdo con lo indicado en los números precedentes, puede superarse el margen del 5% hasta los porcentajes que en cada caso se indican, cuando se trate de instrumentos que al menos se encuentren clasificados en las siguientes categorías:
+
+Categoría de de riesgo
+
+Agencia clasificadora Corto Plazo Largo Plazo
+
+Moody's P1 Aa3
+
+Standard & Poor's A-1+ AA-
+
+Duff & Phelps D1+ AA-
+
+Thomson Bank Watch TBW-1 AA
+
+Fitch IBCA F1+ AA-
+
+Si un instrumento de corto plazo no tiene clasificación, se considerará que cumple el requisito exigido en estas normas si el mismo emisor mantiene vigente instrumentos de largo plazo que cumplan la condición indicada del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
+
+### 2. Créditos sobre el exterior
+
+Para las operaciones de crédito hacia o en el exterior en general, no se establecen márgenes para operar, sino que ellas se limitan indirectamente por la vía de exigir provisiones especiales, adicionales a las que deben constituirse para cubrir el riesgo de crédito o el riesgo-país.
+
+Esas provisiones especiales se constituirán, cuando fuere del caso, de acuerdo con lo indicado en el Capítulo B-7 del Compendio de Normas Contables.
 
 CAPITULO 13-3 (Bancos)
 
