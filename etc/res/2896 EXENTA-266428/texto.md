@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.896, de 4 de octubre de 2007, de esta Subsecretaría, modifícase la resolución Nº 1.947 de 2006, de esta Subsecretaría, que autorizó al CENTRO GENERAL DE PADRES Y APODERADOS DEL LICEO MANUEL BLANCO ENCALADA para efectuar una siembra de especies de Camarón de río del norte, III Región, en el sentido de ampliar el plazo señalado en el numeral 2.- hasta el 31 de octubre de 2007.
+
+Valparaíso, 4 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
