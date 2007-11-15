@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.952, de 10 de octubre de 2007, de esta Subsecretaría, autorízase a RIGOBERTO FRANCISCO VARNET BARRIENTOS para ampliar actividades pesqueras de transformación, autorizadas por resolución Nº 2.245-07 Subpesca, para incorporar a planta ubicada Piruquina rural, Castro, en línea proceso Ahumado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 10 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
