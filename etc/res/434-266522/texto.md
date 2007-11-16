@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 434, 17 octubre 2007, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Avenida Sor Vicenta Los Castaños, Rol de avalúo Nº 55-80, comuna Los Ángeles, superficie 1.408 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-21519 B, de aparente dominio de Labsa S.A., para ejecución programa "Mejoramiento Accesos a la ciudad de Santa María de Los Ángeles", de la comuna de Los Ángeles, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión peritos integrada por María Alejandra Gutiérrez Flores, arquitecta; Fernando Iván Cerda Espinoza, ingeniero civil, y Héctor Alejandro Peña Ríos, constructor civil, según informe de fecha 21 de agosto de 2007, fijó monto provisional indemnización en $34.873.416. Reajuste del artículo 5º D.L. 2.186 $1.182.209, lo que hace el total de $36.055.625, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
