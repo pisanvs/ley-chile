@@ -1,0 +1,3 @@
+Por decreto exento MOP. Nº 640, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº B, para la ejecución de la obra "Sondaje Cabuza 2, Valle de Azapa - Arica", que figura a nombre de Cid Laurin Eliazar, Rol de avalúo: 3431-129, comuna de Arica, superficie 384 M2. La Comisión de Peritos, fijó con fecha 24 de julio de 2007 en la cantidad de $1.835.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a los dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
