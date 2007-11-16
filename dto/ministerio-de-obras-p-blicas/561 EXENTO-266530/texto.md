@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 561 de 28 de septiembre de 2007, se expropió el lote de terreno Nº 3, superficie 226,69 m2, Rol Nº 314-58, comuna de Pitrufquén, IX Región, para la obra "Regadío Faja Maisan, Red Terciaria, Sector Huallizada, Canal FM3-7" y se acordó el valor de indemnización con su propietario Carlos Nelson Lefin Lefin, ascendente a la cantidad de $631.862.-
+
+Fiscal del Miniserio de Obras Públicas.
