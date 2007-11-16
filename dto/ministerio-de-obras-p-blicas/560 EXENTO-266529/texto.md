@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 560 de 28 de septiembre de 2007, se expropió el lote de terreno Nº 10, superficie 3.466 m2, Rol Nº 381-202, comuna de Pitrufquén, IX Región, para la obra "Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Proyectos Faja Maisan IX Región, Canal Mapu Quimey" y se acordó el valor de indemnización con su propietaria María Luisa Reyes Huaraleo, ascendente a la cantidad de $2.278.553.-
+
+Fiscal del Ministerio de Obras Públicas.
