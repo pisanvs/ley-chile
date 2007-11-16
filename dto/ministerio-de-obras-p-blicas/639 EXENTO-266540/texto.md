@@ -1,0 +1,3 @@
+Por decreto exento MOP. Nº 639, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº A, para la ejecución de la obra "Pozo San Miguel 2, Valle de Azapa - Arica", que figura a nombre de Universidad de Tarapacá, Rol de avalúo: 3420-67, comuna de Arica, superficie 110,24 M2. La Comisión de Peritos, fijó el 24 de julio de 2007, en la cantidad de $2.279.700. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
