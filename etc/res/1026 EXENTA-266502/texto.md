@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN CLAUSURA DE ESTANCIA SANTA MARÍA
+
+Resolución exenta Nº 1.026, de 7 de noviembre de 2007, resolvió clausura, a partir esta fecha, de Estancia Santa María, del propietario Ejército de Chile, rol 5101-19. Queda prohibida entrada o salida de animales fuera de límites del predio clausurado. Cualquier movimiento debe ser autorizado por SAG. Propietario debe realizar tratamiento antiparasitario a animales ovinos, mediante baño inmersión con producto efectivo, en plazo de 30 días corridos, desde fecha notificación esta resolución. Deberá comunicar a SAG fecha exacta aplicación del tratamiento, para visita inspectiva que permita comprobar cumplimiento de medida. Gastos aplicación medidas sanitarias de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 7 de noviembre de 2007.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
