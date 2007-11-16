@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN CLAUSURA DE PREDIOS QUE SEÑALA
+
+Resolución exenta Nº 1.027, de 7 de noviembre de 2007, resolvió clausura, a partir esta fecha, de predios Carmen Mercedes, Rol 05106-028; Parque Josefina, Roles 0511-008 y 05106-040; Pinto, Rol 05106-027; Ribera, Rol 0511-090, y Cisne, Rol 05106-078, del propietario Sociedad Ganadera Carmen Mercedes Limitada y Carmen Mercedes Vidal Zamorano. Queda prohibida entrada o salida de animales fuera de límites de predios clausurados. Cualquier movimiento debe ser autorizado por SAG. Propietario debe realizar tratamiento antiparasitario a animales ovinos, mediante baño inmersión con producto efectivo, en plazo de 30 días corridos, desde fecha notificación esta resolución. Deberá comunicar al SAG fecha exacta aplicación del tratamiento, para visita inspectiva que permita comprobar cumplimiento de medida. Gastos aplicación medidas sanitarias de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 7 de noviembre de 2007.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
