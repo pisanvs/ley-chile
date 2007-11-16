@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 439, 19 de octubre de 2007, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Camino Parque Lantaño Nº 100, Rol de avalúo Nº 2099-1, comuna Chillán, superficie 477,3 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R 21.120, de aparente dominio de Frutícola Olmué S.A., para ejecución proyecto "Habilitación Av. Mariscal Ruiz de Gamboa, Chillán", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por María Alejandra Gutiérrez Flores, arquitecta, Fernando Iván Cerda Espinoza, ingeniero civil y Héctor Alejandro Peña Ríos, constructor civil, según informe de fecha 10 de septiembre 2007, fijó monto provisional indemnización en $10.942.579.- Reajuste del artículo 5º DL Nº 2.186 $244.019.-, lo que hace un total a pagar de $11.186.598.
+
+- Director Serviu Región del Bío Bío pagadera de contado.
