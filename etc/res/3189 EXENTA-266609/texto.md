@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.189, de 12 de noviembre de 2007, de esta Subsecretaría, recházase solicitud concesión de acuicultura Nº 205111278 presentada por SOCIEDAD DE ACUICULTURA RÍO HUEMULES LIMITADA, para instalar y operar centro de cultivo ubicado en Canal Ninualac, al norweste de Isla Melchor, sector 1, XI Región.
+
+Valparaíso, 12 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
