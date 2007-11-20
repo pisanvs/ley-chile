@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.195, de 12 de noviembre de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206111106, presentada por COMPAÑÍA PESQUERA CAMANCHACA S.A. para instalar y operar un centro de cultivo, ubicado en Canal Chaffers, sector islote costa este de isla May, XI Región.
+
+Valparaíso, 12 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
