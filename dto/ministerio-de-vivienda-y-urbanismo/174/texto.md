@@ -82,7 +82,9 @@ Subsidio para Equipamiento: recursos adicionales al Subsidio, destinados a finan
 
 Vivienda Construida: vivienda que cuenta con recepción definitiva, acreditada mediante certificado de la Dirección de Obras Municipales correspondiente.
 
-Vivienda Existente: Vivienda cuya recepción definitiva por la Dirección de Obras Municipales correspondiente se haya efectuado con dos o más años de anterioridad a la fecha de su ingreso al Banco de Proyectos.
+Vivienda Existente: Vivienda construida cuya recepción definitiva por la Dirección de Obras Municipales correspondiente se haya efectuado con dos o más años de anterioridad a la fecha de su ingreso al Banco de Proyectos.
+
+Vivienda Nueva: Vivienda construida cuya recepción definitiva por la Dirección de Obras Municipales correspondiente se haya efectuado con menos de dos años de anterioridad a la fecha de su ingreso al Banco de Proyectos.
 
 #### Artículo 3°
 
@@ -92,7 +94,7 @@ VER DIARIO OFICIAL DE 18.08.2007, PÁGINAS 5, 6 y 7.
 
 Respecto de los Proyectos de Construcción, para la aplicación de estos montos de subsidio se exigirá que la superficie mínima de las viviendas cumpla con el Cuadro Normativo inserto en el artículo 19.
 
-Tratándose de postulaciones para Adquisición de Viviendas Existentes, se exigirá un Programa Arquitectónico que cuente a lo menos con 3 recintos: un dormitorio, una sala de estar-comedor-cocina y un baño con inodoro, lavamano y ducha. Para postulaciones de Adquisición de Viviendas Construidas se exigirá cumplir con el Cuadro Normativo inserto en el artículo 19, exceptuando las postulaciones para el Fondo Solidario de Vivienda II, en cuyo caso se exigirá cumplir con lo señalado para la Adquisición de Viviendas Existentes. Excepcionalmente, tratándose de postulaciones para el Fondo Solidario de Vivienda I, y sólo para el caso de Proyectos de Adquisición de Viviendas, el monto de subsidio señalado en la tabla anterior se adicionará con 2 Unidades de Fomento por cada medio metro cuadrado de superficie que exceda los 37,5 m2, hasta un máximo de 50 Unidades de Fomento. En todo caso el monto total del subsidio no podrá ser superior a la diferencia que resulte entre el precio de venta de la vivienda y el ahorro.
+Tratándose de postulaciones para Adquisición de Viviendas Existentes, se exigirá un Programa Arquitectónico que cuente a lo menos con 3 recintos: un dormitorio, una sala de estar-comedor-cocina y un baño con inodoro, lavamano y ducha. Para postulaciones de Adquisición de Viviendas Nuevas se exigirá cumplir con el Cuadro Normativo inserto en el artículo 19, exceptuando las postulaciones para el Fondo Solidario de Vivienda II, en cuyo caso se exigirá cumplir con lo señalado para la Adquisición de Viviendas Existentes. Excepcionalmente, tratándose de postulaciones para el Fondo Solidario de Vivienda I, y sólo para el caso de Proyectos de Adquisición de Viviendas, el monto de subsidio señalado en la tabla anterior se adicionará con 2 Unidades de Fomento por cada medio metro cuadrado de superficie que exceda los 37,5 m2, hasta un máximo de 50 Unidades de Fomento. En todo caso el monto total del subsidio no podrá ser superior a la diferencia que resulte entre el precio de venta de la vivienda y el ahorro.
 
 Adicionalmente para los Proyectos de Construcción, se dispondrá de la cantidad de 5 Unidades de Fomento para el financiamiento del subsidio señalado en la letra c) del artículo 17 y de la cantidad de 7 Unidades de Fomento para el financiamiento del Fondo indicado en la letra d) del artículo 17, cuando corresponda. Para los Proyectos de Construcción Colectiva en Zonas Rurales, se podrá otorgar adicionalmente un subsidio de hasta 20 Unidades de Fomento por familia en el caso que el proyecto incluya la ejecución de planta de tratamiento de aguas.
 
@@ -114,7 +116,7 @@ DEL PROGRAMA FONDO SOLIDARIO DE VIVIENDA I
 
 Podrá postular más de un núcleo familiar perteneciente a un mismo hogar, con la misma Ficha CAS o instrumento que la reemplace. Por cada núcleo familiar sólo se aceptará la postulación de uno de sus integrantes, el que deberá identificarse como jefe de familia, su cónyuge o conviviente.
 
-Los postulantes deberán formar parte de un grupo organizado, con personalidad jurídica, excepto aquellos que postulen a proyectos de adquisición de vivienda existente o construida, para los cuales no se exigirá este requisito. El grupo deberá estar integrado a lo menos por 10 familias, con un máximo de 300.
+Los postulantes deberán formar parte de un grupo organizado, con personalidad jurídica, excepto aquellos que postulen a proyectos de adquisición de vivienda construida, para los cuales no se exigirá este requisito. El grupo deberá estar integrado a lo menos por 10 familias, con un máximo de 300.
 
 Excepcionalmente, en casos calificados, el SEREMI de Vivienda y Urbanismo respectivo podrá autorizar Proyectos para un número menor a 10 familias. Tratándose de proyectos de alteración y reparación de inmuebles, se podrán presentar grupos integrados por menos de 10 familias, siempre que su número coincida con las viviendas que se obtendrán con la ejecución del proyecto.
 
@@ -126,7 +128,7 @@ El puntaje CAS, o del instrumento que la reemplace, del grupo, deberá ser igual
 
 Para los efectos del cálculo del puntaje CAS, o del instrumento que la reemplace, del grupo, éste se determinará como un promedio, sumando el puntaje de todas las familias del respectivo grupo y dividiendo el resultado por el número de familias. El puntaje individual de cada uno de los integrantes del grupo no podrá exceder en más de un 5% el puntaje de corte establecido en el inciso anterior.
 
-Las postulaciones de Adquisición de Viviendas Existentes no participarán en los llamados a concurso, ni en los procesos de postulación y selección de los Proyectos de Construcción, efectuándose su selección en la forma dispuesta en el Título XV de este reglamento.
+Las postulaciones de Adquisición de Viviendas Construidas no participarán en los llamados a concurso, ni en los procesos de postulación y selección de los Proyectos de Construcción, efectuándose su selección en la forma dispuesta en el Título XV de este reglamento.
 
 ## Título IV — DEL AHORRO
 
@@ -612,25 +614,9 @@ d) Planos y especificaciones técnicas del o de los proyectos de reparación o a
 
 ### Párrafo 6° — . Antecedentes para Proyectos de Adquisición de Vivienda
 
-#### Artículo 32
+#### Artículo 32°
 
-La solicitud para adquirir una Vivienda Existente o Construida deberá ser presentada por una EGIS y acompañar, además de los antecedentes a que se refiere el artículo 27, los siguientes:
-
-a) Contrato de promesa de compraventa suscrito con el promitente vendedor.
-
-b) Certificado de recepción municipal definitiva, la que para el caso de adquisición de Vivienda Existente debe tener una antigüedad no inferior a dos años.
-
-c) En postulaciones al Fondo Solidario de Vivienda I para la adquisición de Viviendas Construidas, plano correspondiente a la recepción final de la vivienda, aprobado por la Dirección de Obras Municipales respectiva.
-
-d) Tasación de la vivienda practicada por la EGIS considerando la suma de los siguientes factores:
-
-1.- El valor del terreno, que será el del avalúo fiscal del inmueble.
-
-2.- El valor de la construcción de la vivienda según el proyecto presentado, que se determinará conforme a la Tabla de Costos Unitarios a que se refiere el artículo 127 de la Ley General de Urbanismo y Construcciones.
-
-e) Estudio de Títulos.
-
-En caso de tratarse de operaciones que correspondan a un mismo conjunto habitacional, podrá presentarse un solo ejemplar de los documentos a que se refieren las letras b), c) y e) precedentes.
+Derogado.
 
 ### Párrafo 7° — . Antecedentes para Proyectos de Construcción Colectiva en Zonas Rurales
 
@@ -848,7 +834,7 @@ Los proyectos seleccionados con Calificación Definitiva serán aprobados y asig
 
 La resolución señalada en el inciso anterior también aprobará y comprometerá los recursos para los proyectos con Calificación Condicionada, los cuales quedarán en calidad de preseleccionados, pero no se les otorgará Certificado de Subsidio ni podrán obtener anticipos a cuenta de éste hasta que mediante resolución del SEREMI respectivo se declare su calidad de proyecto seleccionado por haber obtenido Calificación Definitiva.
 
-El MINVU o la respectiva SEREMI, según corresponda, dispondrán la publicación de las nóminas de los proyectos seleccionados con Calificación Definitiva, en un diario de circulación nacional o regional, respectivamente, excepto de los Proyectos de Adquisición de Viviendas Existentes.
+El MINVU o la respectiva SEREMI, según corresponda, dispondrán la publicación de las nóminas de los proyectos seleccionados con Calificación Definitiva, en un diario de circulación nacional o regional, respectivamente, excepto de los Proyectos de Adquisición de Viviendas Construidas.
 
 #### Artículo 42
 
@@ -906,9 +892,7 @@ Derogado
 
 #### Artículo 48
 
-El periodo de vigencia de los Certificados de Subsidio será de 21 meses, contados a partir del día primero del mes subsiguiente a la fecha de su emisión consignada en el respectivo certificado.
-
-No obstante lo anterior, por causas justificadas no imputables a la empresa constructora ni a la EGIS, se podrá prorrogar, por una sola vez, la vigencia de los Certificados de Subsidio, mediante resoluciones fundadas del SEREMI respectivo.
+El período de vigencia de los certificados de subsidio será de 21 meses contados desde la fecha de emisión del Certificado de Subsidio consignada en el respectivo Certificado. Sin embargo, por causas justificadas no imputables a la empresa constructora ni a la EGIS, se podrá prorrogar, por una sola vez, la vigencia de los Certificados de Subsidio, mediante resoluciones fundadas del SEREMI respectivo.
 
 #### Artículo 49
 
@@ -952,7 +936,7 @@ Tratándose de Proyectos de Construcción en Nuevos Terrenos, si las disponibili
 
 Para estos efectos se podrá solicitar el giro de hasta dos cuotas, cada una no superior al 15% del monto total del subsidio, las que serán pagadas directamente al vendedor del terreno señalado como tal en la escritura de compraventa. Para el primer giro será necesario presentar los siguientes antecedentes:
 
-. Copia de la inscripción de dominio con certificado de vigencia extendido con no más de 30 días de anterioridad a la fecha de su presentación, a nombre de la EGIS.
+. Copia de la inscripción de dominio con certificado de vigencia extendido con no más de 30 días de anterioridad a la fecha de su presentación, a nombre de la EGIS o de la empresa constructora con la cual se hubiere suscrito el contrato de construcción.
 
 . Prohibición de enajenar a favor del SERVIU inscrita en el Conservador de Bienes Raíces. Esta prohibición será alzada respecto de cada una de las viviendas del proyecto al constituirse la prohibición a que se refiere en artículo 55 de este reglamento.
 
@@ -1004,7 +988,7 @@ Para acceder a estos anticipos se deberán presentar los siguientes antecedentes
 
 . La boleta bancaria de garantía a que se refiere el artículo 25 de este reglamento.
 
-. Copia de la inscripción de dominio del terreno en el Conservador de Bienes Raíces a nombre de la EGIS o del grupo organizado, con certificado de vigencia.
+. Copia de la inscripción de dominio del terreno en el Conservador de Bienes Raíces a nombre de la EGIS, del grupo organizado o de la empresa constructora con la cual se hubiere suscrito el contrato de construcción, con certificado de vigencia.
 
 . Prohibición de enajenar a favor del SERVIU inscrita en el Conservador de Bienes Raíces, la que será alzada respecto de cada una de las viviendas del proyecto al constituirse la prohibición a que se refiere en artículo 55 de este reglamento.
 
@@ -1068,25 +1052,7 @@ c) En el caso señalado en el inciso final del Artículo 53.
 
 #### Artículo 58
 
-Dependiendo de la tipología del proyecto, las funciones que deberá asumir la EGIS serán:
-
-1. Para proyectos de construcción de viviendas:
-
-. Organización de la demanda habitacional.
-
-. Diseño y elaboración de proyectos de arquitectura e ingeniería.
-
-. Diseño y Ejecución del Plan de Habilitación Social
-
-. Contratación de las Obras
-
-2. Para proyectos de adquisición de viviendas:
-
-. Organización de la demanda habitacional.
-
-. Asesoría para la adquisición de viviendas construidas.
-
-. Diseño y Ejecución del Plan de Habilitación Social.
+Derogado.
 
 #### Artículo 59
 
@@ -1126,7 +1092,7 @@ El contrato de construcción deberá incluir, a lo menos, las cláusulas que se 
 
 Lo dispuesto en este artículo no se aplicará en casos calificados en que el SERVIU actúe o asuma la función de EGIS.
 
-## Título XV — DE LA ADQUISICION DE VIVIENDAS EXISTENTES
+## Título XV — DE LA ADQUISICION DE VIVIENDAS CONSTRUIDAS
 
 #### Artículo 60
 
@@ -1160,7 +1126,7 @@ Para obtener el subsidio diferenciado a la localización, los Proyectos de Const
 
 #### Artículo 65 bis
 
-Para obtener el subsidio diferenciado a la localización, los Proyectos de Adquisición de Viviendas Construidas y de Adquisición de Viviendas Existentes deberán cumplir, en cuanto a su ubicación, con la calificación máxima en los factores de localización signados con las letras a), b), c) y d) del número 5.2., del artículo 35, conforme a la Pauta de Evaluación y Localización inserta en dicho Artículo, correspondiendo a la EGIS acreditar el factor acceso a servicios y transporte público signado con la letra d), no siendo necesaria la certificación exigida para este factor en dicha Pauta.
+Para obtener el subsidio diferenciado a la localización, en las postulaciones para la Adquisición de Viviendas Construidas se deberá cumplir, en cuanto a su ubicación, con la calificación máxima en los factores de localización signados con las letras a), b), c) y d) del número 5.2., del artículo 35, conforme a la Pauta de Evaluación y Localización inserta en dicho Artículo, correspondiendo a la EGIS acreditar el factor acceso a servicios y transporte público signado con la letra d), no siendo necesaria la certificación exigida para este factor en dicha Pauta.
 
 El monto de este subsidio corresponderá al valor que resulte de multiplicar el "factor corrector de avalúo" fijado mediante la resolución a que se refiere el Artículo anterior, por el avalúo fiscal de la propiedad. El monto máximo para este subsidio para el caso de adquisición de viviendas existentes será de 200 Unidades de Fomento y para el caso de adquisición de viviendas construidas a que se refiere el Capitulo II del presente reglamento será de 100 Unidades de Fomento. En ambos casos este subsidio sumado con el que corresponda conforme al artículo 3°, no podrá exceder, en conjunto, el precio de venta de la vivienda estipulado en la escritura respectiva.
 
@@ -1192,7 +1158,7 @@ La suma del subsidio para la adquisición del terreno y para la habilitación de
 
 El subsidio diferenciado a la localización para la adquisición del terreno será pagado directamente al vendedor del terreno en una cuota. Si las disponibilidades de caja no lo permiten, el SERVIU podrá pagar este subsidio en cuotas. Para el pago del subsidio a la adquisición del terreno, o de la primera cuota del mismo, en su caso, será necesario presentar los siguientes antecedentes:
 
-* Copia de la inscripción de dominio con certificado de vigencia, a nombre de la EGIS o del grupo organizado, extendido con no más de 30 días de anterioridad a la fecha de su presentación.
+* Copia de la inscripción de dominio con certificado de vigencia, a nombre de la EGIS, del grupo organizado o de la empresa constructora con la cual se hubiere suscrito el contrato de construcción, extendido con no más de 30 días de anterioridad a la fecha de su presentación.
 
 * Hipoteca y prohibición de enajenar a favor del SERVIU, inscritas en el Conservador de Bienes Raíces. La hipoteca y la prohibición serán alzadas respecto de cada una de las viviendas del proyecto al constituirse las prohibiciones a que se refieren los artículos 55 y 70 de este reglamento.
 
@@ -1242,7 +1208,7 @@ El programa que regula el presente Capítulo, está destinado preferentemente a 
 
 #### Artículo 76
 
-Las normas del Capítulo Primero del presente reglamento y específicamente las que regulan los Proyectos de Adquisición de Viviendas Existentes, se aplicarán supletoriamente a este Programa, en todo aquello que no aparezca expresamente normado en este Capítulo y siempre que aquéllas no se contrapongan con éstas.
+Las normas del Capítulo Primero del presente reglamento y específicamente las que regulan las postulaciones para Adquisición de Viviendas Construidas, se aplicarán supletoriamente a este Programa, en todo aquello que no aparezca expresamente normado en este Capítulo y siempre que aquéllas no se contrapongan con éstas.
 
 #### Artículo 77
 
