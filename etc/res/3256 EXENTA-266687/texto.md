@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.256, de 13 de noviembre de 2007, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111795, presentada por GRIEG SEAFOOD CHILE S.A., hoy Chile Seafood S.A., para instalar y operar un centro de cultivo ubicado en Canal Vicuña, al sureste de Isla Luz, XI Región.
+
+Valparaíso, 13 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
