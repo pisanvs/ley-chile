@@ -1,0 +1,7 @@
+CONSULTA DE COMERCIAL AMÉRICA LTDA. SOBRE LEGITIMIDAD DE IMPORTACIÓN DE PRODUCTOS ORIGINALES
+
+En los autos Rol NC Nº 224-07, caratulados "Consulta de Comercial América Ltda. sobre legitimidad de importación de productos originales", el Tribunal de Defensa de la Libre Competencia, con fecha seis de noviembre de dos mil siete, ha ordenado publicar en extracto la siguiente resolución, de igual fecha:
+
+Téngase por presentada la consulta de Comercial Chena América Ltda. sobre la importación de productos con la marca comercial "Duracell". Dése inicio al procedimiento contemplado en el artículo 31º del decreto ley Nº 211, y publíquese la presente resolución en el Diario Oficial y, además, en un diario de circulación nacional, para los efectos de lo dispuesto en el artículo 31º, númeral 1) del citado DL Nº 211, a costa de la consultante. Quienes tengan interés legítimo podrán aportar antecedentes dentro del plazo de 15 día hábiles contados desde la publicación del aviso en el Diario Oficial.
+
+Pronunciada por los Ministros Sr. Eduardo Jara Miranda, Presidente, Sra. Andrea Butelmann Peisajoff, Sr. Radoslav Depolo Razmilic y Sr. Tomás Menchaca Olivares.- Javier Velozo Alcaide, Secretario Abogado.
