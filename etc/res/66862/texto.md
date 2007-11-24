@@ -1,0 +1,21 @@
+CLASIFICA COMO ESTACIÓN DE MONITOREO DE CALIDAD DE AIRE CON REPRESENTACIÓN POBLACIONAL PARA MATERIAL PARTICULADO RESPIRABLE MP10
+
+Núm. 66.862.- Santiago, 26 de octubre de 2007.- Vistos: Lo dispuesto en el decreto supremo Nº 59, de 1998, del Ministerio Secretaría General de la Presidencia (Minsegpres), que aprueba la Norma de Calidad Primaria para Material Particulado Respirable MP10, en especial de los valores que definen situaciones de emergencia; la resolución Nº 369, de 1988, del Ministerio de Salud, que establece los índices de calidad del aire para la Región Metropolitana; la resolución Nº 1.215, de 1979, del Ministerio de Salud, en lo relativo a normas de calidad del aire; el decreto supremo 131, de 1996, del Minsegpres, que declara zona saturada de Material Particulado a la Región Metropolitana; el decreto supremo Nº 58, de 2003, del Minsegpres, que aprueba la reformulación y actualización del Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana (PPDA); la resolución exenta Nº 12.612, del 26 de junio de 1998, del Servicio de Salud del Ambiente de la Región Metropolitana, que aprueba la Forma de Implementar la Metodología de Pronóstico de Calidad del Aire para Material Particulado Respirable MP10, en la Región Metropolitana; el informe emitido por el Jefe de la Red de Monitoreo de Calidad del Aire de esta Secretaría de Salud, de fecha 27 de septiembre de 2007; lo dispuesto en los artículos 3 y 9, letra b), del D.F.L. Nº 725, de 1967, que aprobó el Código Sanitario; las atribuciones que me confiere el decreto con fuerza de ley Nº 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763; el decreto supremo Nº 136, de 2004, del Ministerio de Salud, que aprueba el Reglamento Orgánico de esa Secretaría de Estado.
+
+Considerando:
+
+Que, de conformidad con el decreto que aprueba la norma de calidad del aire para Material Particulado MP10, corresponde a esta Autoridad Sanitaria, en la Región Metropolitana, fiscalizar que esta norma de calidad de aire se cumpla.
+
+Que esta misma disposición reglamentaria establece que para medir y constatar la calidad del aire, se requiere contar con Estaciones de Monitoreo con Representatividad Poblacional para Material Particulado, EMRPMP, las que, para ser tales, deben cumplir con los requisitos señalados en el decreto supremo que aprueba la norma de calidad del aire ya señalada, debiendo dictar esta Autoridad Sanitaria una resolución fundada que determine qué estación de monitoreo de calidad del aire se considera EMRPMP.
+
+Que, de conformidad con el informe técnico del Jefe de la Red de Monitoreo y Vigilancia de Calidad del Aire de esta Secretaría Regional Ministerial de Salud, la estación que se señalará en la parte resolutiva de este instrumento, no cumple con el criterio iii), establecido en el artículo 1º, letra f), del D.S. Nº 59, de 1998, del Minsegpres, no obstante, dicho incumplimiento no genera interferencias en la calidad de la información aportada por el monitoreo, por lo tanto, de conformidad con este mismo artículo, párrafo 3º será considerada como Estaciones de Monitoreo con Representatividad Poblacional para Material Particulado MP10.
+
+Que, por lo antes señalado, dicto la siguiente:
+
+Resolución:
+
+1º Clasifícase como Estación de Monitoreo con Representatividad Poblacional para Material Particulado EMRPMP, en la Región Metropolitana, la siguiente: Estación "EMR": Av. Las Torres 1204, comuna de Cerro Navia, con una población expuesta de 143.033 habitantes, con un porcentaje de 2,36%, del total de la población de la Región Metropolitana.
+
+2º El porcentaje poblacional referido en el párrafo precedente, corresponde a la población censada en el radio de dos kilómetros, contados desde la ubicación de la estación. Sin embargo, la medición de esta estación es una muestra representativa de la calidad del aire de la Región Metropolitana al que está expuesta el total de su población.
+
+Anótese, publíquese y archívese.- Mauricio Osorio Ulloa, Secretario Regional Ministerial de Salud Región Metropolitana.
