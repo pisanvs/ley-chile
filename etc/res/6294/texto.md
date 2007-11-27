@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCIÓN Nº 6.294, DE 12.11.07, DE LA DIRECCIÓN NACIONAL DE ADUANAS, QUE MODIFICA DISPOSICIONES RELATIVAS A LA TRANSMISIÓN ELECTRÓNICA DEL MANIFIESTO DE CARGA POR VÍA AÉREA
+
+Modifica la resolución Nº 428, de 30.01.2004, exceptuando a los vuelos cargueros de cumplir el plazo establecido para la transmisión electrónica del encabezado del manifiesto de carga por parte de la compañía transportista, y fija como condición para aceptar el envío de los datos asociados a las guías aéreas "hijas", el que previamente se haya enviado el mensaje de la guía aérea de la cual derivan.
