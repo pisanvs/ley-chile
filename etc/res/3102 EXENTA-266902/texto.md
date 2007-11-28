@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.102 de 29 de octubre de 2007 de esta Subsecretaría, modifícase el numeral 5º de la resolución exenta Nº 3.576 de 2006, modificada mediante resoluciones exentas Nº 123 y Nº 829, ambas de 2007, todas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico-pesquero de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la X Región, Zona Chiloé", en el sentido de incrementar la cuota de investigación autorizada en 6.200 kilogramos de Merluza del sur, a ser extraídas en el período octubre-diciembre de 2007.
+
+Las actividades de investigación autorizadas conforne el numeral anterior, se regirán por las reglas señaladas en el numeral 2º de la resolución extractada.
+
+Valparaíso, 29 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
