@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.103 de 29 de octubre de 2007 de esta Subsecretaría, modifícase el numeral 4.- de la resolución Nº 433 de 2007, de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Control y monitoreo de las pesquerías de Centolla y Centollón, XII Región de Magallanes y Antártica Chilena", en el sentido de incorporar, en su inciso primero, el siguiente literal d), nuevo:
+
+"d) las embarcaciones artesanales que se encuentran inscritas en el Registro Pesquero Artesanal de la XII Región con posterioridad al 30 de noviembre de 2004, siempre que el armador de la misma se encuentre inscrito en dicho Registro, en cualquier categoría, con anterioridad al 31 de diciembre de 2003".
+
+Valparaíso, 29 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
