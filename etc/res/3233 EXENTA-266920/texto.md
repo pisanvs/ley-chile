@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.233, de 13 de noviembre de 2007, de esta Subsecretaría, autorízase a WILLY RODOLFO RIEDEL BARRÍA, para iniciar actividades pesqueras transformación, para instalar y operar planta en lote 40, manzana K, Panitao Alto, Puerto Montt, para elaborar en líneas proceso Cocido y Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 13 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
