@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.132, de 31 de octubre de 2007, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº1.815 de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACIÓN PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Distribución y estructura de los recursos Anchoveta y Sardina común entre los límites regionales de la VIII Región", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 9 de diciembre de 2007, inclusive.
+
+Valparaíso, 31 de octubre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
