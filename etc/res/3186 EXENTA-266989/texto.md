@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.186, de 12 de noviembre de 2007, de esta Subsecretaría, autorízase a VERÓNICA DEL CARMEN VEGA JIMÉNEZ, para ampliar actividades pesqueras transformación autorizadas Por resolución Nº 2819-2005 Subpesca, para incorporar a planta ubicada Punta Colorada, Piragua, Huara, Iquique, en línea proceso Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
