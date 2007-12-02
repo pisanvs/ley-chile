@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 649, de 29 de octubre de 2007, se expropió el lote de terreno Nº 3, superficie 191 m², rol de avalúo 2527-156, comuna de Monte Patria, para la obra: "Reposición Varios Puentes IV Región, sector Puente Cárcamo", IV Región y se acordó el valor de la indemnización con su propietario Emilio Segundo Castillo Olivares, ascendente a la cantidad de $510.915.
+
+- Fiscal del Ministerio de Obras Públicas.
