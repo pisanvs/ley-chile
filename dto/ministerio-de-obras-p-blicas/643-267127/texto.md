@@ -1,0 +1,3 @@
+Por decreto MOP Nº 643, de fecha 29 de octubre de 2007, se expropiaron los lotes de terreno Nº 1 (FM3-6D2) y Nº 2 (FM3-6D), superficies 368,94 y 194,55 m² respectivamente, rol Nº 314-80, comuna de Pitrufquén, para la obra "Regadío Faja Maisan, Red Terciaria, Sector Huallizada, Obras Canales FM3-A, FM3-A1, FM3-B, FM3-5, FM3-6C, FM3-6C1 FM3-6D, FM3-6D1, FM3-6D2, FM3-6E y FM3-7, comuna de Pitrufquén, provincia de Cautín, IX Región de la Araucania", y se acordó el valor de la indemnización con su propietario Juan Millacán Burgos, ascendente a la cantidad de $876.411.
+
+- Fiscal del Ministerio de Obras Públicas.
