@@ -1,0 +1,5 @@
+Por decreto MOP Nº 763 de 24 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 233 (sin rol de avalúo) y 240, para la obra: "Camino Ruta S-790, sector Nueva Toltén -
+
+Límite Regional (Queule), tramo Km. 87,50000 a Km. 103,33500, Subtramo V, Km. 98,29000 a Km. 103,33500", que figuran a nombre de Aguilera Elías y Machuca Flores Ricardo, rol de avalúo Nº 228-116, Comuna de Toltén, IX Región, superficies 200 m² y 5.467 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 27 de diciembre de 2003, en la cantidad de $6.902.200.- para el lote Nº 233 y $3.536.800.- para el lote Nº 240. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
