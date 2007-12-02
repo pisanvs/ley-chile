@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 678, de 29 de octubre de 2007, se expropió el lote de terreno Nº 2, superficie 657 m2, rol Nº 576-559, comuna de Saavedra, IX Región, para la obra "Acceso Embarcadero Isla Llepo (Lago Budi) Km. 0,00000 a Km. 0,18100", y se acordó el valor de indemnización con su propietaria Rosalía del Carmen Saavedra Pavez, ascendente a la cantidad de $446.387.
+
+- Fiscal del Ministerio de Obras Públicas.
