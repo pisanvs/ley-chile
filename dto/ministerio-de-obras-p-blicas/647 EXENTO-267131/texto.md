@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 647, de 29 de octubre de 2007, se expropió el lote de terreno Nº 1, superficie 712 m2, rol Nº 3218-298, comuna de San Juan de la Costa, X Región, para la obra: "Reposición Puente El Negro, Ruta U-52, Camino Contaco Loma de la Piedra", y se acordó el valor de indemnización con su propietaria Joanna Mercedes Morrison Romero, ascendente a la cantidad de $1.730.102.
+
+- Fiscal del Ministerio de Obras Públicas.
