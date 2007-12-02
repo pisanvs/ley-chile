@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 176 de 14.11.2007, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez LT 4,5 y acceso, Rol de Avalúo Nº 690-110 de la comuna de Rancagua, superficie aproximada de 7,3 m2 de terreno, delimitada en polígono K-M-N-L-K, conforme al Plano elaborado por Consultora Cristian Michell Vergara, Ingeniero Civil, "Mejoramiento Eje Vial Miguel Ramírez Camino Machalí Tramo Poniente" Comuna de Rancagua, de aparente dominio de Jaime Villanueva Lozano, a fojas 2409 Nº 3233, el año 1992 "Proyecto Mejoramiento Eje Miguel Ramírez Poniente, Tramo Bombero Villalobos Ruta 5 Sur, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sr. Sergio Shipley Rubio, Eduardo Alberto O'Ryan Morchio y Edmundo Gómez Lagos, Ingeniero, Arquitecto y Constructor Civil, respectivamente, según informe de fecha septiembre de 2007, monto provisional en $1.066.500.
+
+- Director Serviu VI Región.
