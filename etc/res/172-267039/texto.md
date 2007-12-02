@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 172, de 14.11.2007, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez Nº 91, Rol de avalúo Nº 690-1, de la comuna de Rancagua, superficie aproximada de 69,8 m2 de terreno, delimitada en polígono M-O-P-N-M conforme al Piano elaborado por Consultora Cristián Michell Vergara, Ingeniero Civil, "Mejoramiento Eje Vial Miguel Ramírez Camino Machalí Tramo Poniente", comuna de Rancagua, modificado por Comisión Tasadora de aparente dominio de Sucesión Juan Rubén Vergara Castro, a fojas 2.682 vta. Nº 3.680 del año 1992 "Proyecto Mejoramiento Eje Miguel Ramírez Poniente, Tramo Bombero Villalobos Ruta 5 Sur, conforme al art. 51 ley 16.391 y DL 2.186. Comisión Tasadora, peritos Sr. Sergio Shipley Rubio, Eduardo Alberto O'Ryan Morchio y Edmundo Gómez Lagos, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha septiembre de 2007, monto provisional en $7.568.500.
+
+- Director Serviu VI Región.
