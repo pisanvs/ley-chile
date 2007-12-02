@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 694, de 31 de octubre de 2007, se expropió el lote de terreno Nº 24, superficie 842 m2, inscripción de dominio fs. 583 vta. Nº 614 año 2004, C.B.R. de Toltén, comuna de Toltén, para la obra "Mejoramiento Ruta Rol T-270, Sector Mehuín - Límite Regional IX Región Km. 0,00000 a Km. 4,64602", X Región y se acordó el valor de la indemnización con Juan Benito Hualme Pulquillanca, ascendente a la cantidad de $2.070.353.
+
+- Fiscal del Ministerio de Obras Públicas.
