@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 650, de 29 de octubre de 2007, se expropió el lote de terreno Nº 7-A, superficie 566 m2, rol de avalúo 264-2, comuna de La Florida, para la obra "Camino Ruta O-50, Sector Cabrero - Copiulemu, Km. 0,00000 a Km. 46,33803", VIII Región, y se acordó el valor de la indemnización con su propietaria Marcia Jeannette Cruzat Vidal, ascendente a la cantidad de $1.488.870.
+
+- Fiscal del Ministerio de Obras Públicas.
