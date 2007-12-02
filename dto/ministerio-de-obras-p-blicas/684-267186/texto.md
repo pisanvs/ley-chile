@@ -1,0 +1,3 @@
+Por decreto MOP Nº 684 de 29 de octubre de 2007, se expropiaron los lotes de terreno Nºs 76 y 77, superficies 452 y 359 m2, rol de avalúo 543-22, comuna de Saavedra, para la obra "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo II Km. 7,34893 al Km. 16.04700", IX Región, y se acordó el valor de la indemnización con su propietario Luis Osvaldo Garrido Aburto, ascendente a la cantidad de $1.040.344.
+
+- Fiscal del Ministerio de Obras Públicas.
