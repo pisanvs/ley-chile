@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 671 de 29 de octubre de 2007, se expropió el lote de terreno Nº 3, superficie 52 m², rol de avalúo 46-126, comuna de Monte Patria, para la obra: "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", IV Región y se acordó el valor de la indemnización con su propietario Rodolfo del Carmen Monardes Monardes, ascendente a la cantidad de $928.955.
+
+- Fiscal del Ministerio de Obras Públicas.
