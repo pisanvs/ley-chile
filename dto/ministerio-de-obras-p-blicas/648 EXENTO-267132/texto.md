@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 648 de 29 de octubre de 2007, se expropió el lote de terreno Nº 13, superficie 5.111 m2, rol Nº 144-38, comuna de Huasco, III Región para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, Provincia de Huasco, Región Atacama, Etapa II" y se acordó el valor de indemnización con Agrícola Quebrada Honda S.A., ascendente a la cantidad de $451.937.
+
+- Fiscal del Ministerio de Obras Públicas.
