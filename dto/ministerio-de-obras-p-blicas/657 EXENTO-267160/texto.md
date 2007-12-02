@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 657 de fecha 29 de octubre de 2007, se expropió el lote de terreno Nº 53-B, superficie 546 m2, rol Nº 184-4, comuna de Fresia, para la obra "Mejoramiento Ruta V-46, Sector Tegualda - Fresia, tramo 2, Km. 1,90990 al Km. 15,88000", X Región y se acordó el valor de la indemnización con su propietario Pablo Coronado Aicon, ascendente a la cantidad de $632.698.
+
+- Fiscal del Ministerio de Obras Públicas.
