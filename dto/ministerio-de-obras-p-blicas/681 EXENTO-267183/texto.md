@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 681 de 29 de octubre de 2007, se expropió el lote de terreno Nº 2, superficie 41 m2, rol de avalúo 46-46, comuna de Monte Patria, para la obra: "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", IV Región y se acordó el valor de la indemnización con su propietario Bladimiro Antonio González Chávez, ascendente a la cantidad de $241.558.
+
+- Fiscal del Ministerio de Obras Públicas.
