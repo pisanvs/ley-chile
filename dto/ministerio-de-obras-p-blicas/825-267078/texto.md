@@ -1,0 +1,3 @@
+Por decreto MOP Nº 825 de 14 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 18 para el proyecto: "Mejoramiento del Cauce del Estero Las Cruces", que figura a nombre de Abengoa Chile SA, rol de avalúo 182-11, Comuna de Quilicura, Región Metropolitana, superficie 84,4 m². La Comisión de Peritos, fijó con fecha 26 de septiembre de 2006, en la cantidad de $3.376.000.- para el lote Nº 18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
