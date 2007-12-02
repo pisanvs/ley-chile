@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 680 de 29 de octubre de 2007, se expropiaron los lotes de terrenos Nºs 11 y 12, superficies 490 y 419 m2, rol Nº 172-24, comuna de Curarrehue, IX Región, para la obra "Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, Sector Currehue - Puesco, Km. 116,88000 a Km. 136,7600, tramo I km. 116,88000 a km. 124,38000", y se acordó el valor de indemnización con su propietario Justo Joel Catriquir Llancapi, ascendente a la cantidad de $1.352.038.
+
+- Fiscal del Ministerio de Obras Públicas.
