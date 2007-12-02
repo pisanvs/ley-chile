@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 660, de fecha 29 de octubre de 2007, se expropió el lote de terreno Nº 185-1, superficie 1.486 m2, rol Nº 1093-529, comuna de Quillón, para la obra "Camino Acceso Norte a Concepción VIII Región. Sector Km. 35.080,00 al Km. 35.400,00", y se acordó el valor de la indemnización con su propietario Germán Alfredo Burboa Peñailillo, ascendente a la cantidad de $1.519.956.
+
+- Fiscal del Ministerio de Obras Públicas.
