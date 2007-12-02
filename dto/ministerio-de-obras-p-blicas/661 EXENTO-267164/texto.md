@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 661, de fecha 29 de octubre del 2007, se expropió el lote de terreno Nº 14, superficie 12.365 m2, rol Nº 63-435, comuna de Lonquimay, IX Región, para la obra: "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Liucura - Paso Pino Hachado, Km. 158,54000 al Km. 179,59862 Tramo II Km. 164,75450 al Km. 179,59862", y se acordó el valor de indemnización con su propietario Christian Elías Almendras Espinoza, ascendente a la cantidad de $3.206.331.
+
+- Fiscal del Ministerio de Obras Públicas.
