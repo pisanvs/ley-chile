@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 701, de 31 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 29, 71 y 74, para la ejecución de la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo-Petorca, Sector III, Tramo Km. 40,40000 a Km.
+
+57,65500", que figuran a nombre de Echazu Aguilera Pedro H. y Fisco Estación Petorca, Roles de avalúo: 154-182 y 136-6, comuna de Petorca, superficies 349 m², 404 m² y 505 m². La Comisión de Peritos, fijó con fecha 18 de junio de 2007, en la cantidad de $1.538.200, para el lote Nº 29; $2.191.056, para el lote Nº 71 y $252.500, para lote Nº 74. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
