@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 642, de fecha 29 de octubre de 2007, se expropió el lote de terreno Nº 2, superficie 852 m2, rol Nº 3218-88, comuna de San Juan de la Costa, X Región, para la obra: "Reposición Puente El Negro, Ruta U-52, Camino Contaco Loma de la Piedra, provincia de Osorno", y se acordó el valor de indemnización con su propietaria Yessenia del Carmen Jaramillo Gualaman, ascendente a la cantidad de $1.876.106.
+
+- Fiscal del Ministerio de Obras Públicas.
