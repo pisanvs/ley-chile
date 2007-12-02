@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 654, de fecha 29 de octubre de 2007, se expropiaron los lotes de terreno Nºs 176-A y 183-A, superficie 359 y 271 m2, rol Nº 202-267, comuna de Longaví, VIII Región, para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, tramo Km. 0,00000 al Km. 19,41782", y se acordó el valor de indemnización con su propietario José Fernando Muñoz Ulloa y Otros, ascendente a la cantidad de $1.596.256.
+
+- Fiscal del Ministerio de Obras Públicas.
