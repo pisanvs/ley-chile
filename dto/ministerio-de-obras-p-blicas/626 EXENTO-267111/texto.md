@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 626, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 85, para la obra: "Camino Ruta S-61, Sector Cunco - Melipeuco, Tramo Km. 55,000 al Km. 87,46783, correspondiente al sub tramo II Km. 62,784 al Km.
+
+75,035", que figura a nombre de Hernández Vásquez Sergio René, rol de avalúo Nº 305-77, Comuna de Melipeuco, IX Región, superficie 2.487 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 12 de febrero de 2001, en la cantidad de $2.995.060.- para el lote Nº 85. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
