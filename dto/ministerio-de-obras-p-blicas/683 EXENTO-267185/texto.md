@@ -1,0 +1,3 @@
+Por decreto MOP Nº 683, de 29 de octubre de 2007, se expropió el lote de terreno Nº 73, superficie 318 m², rol de avalúo 543-20, comuna de Saavedra, para la obra "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo II Km. 7,34893 al Km. 16,04700", IX Región, y se acordó el valor de la indemnización con su propietario José Antonio Meza Meza, ascendente a la cantidad de $323.719.
+
+- Fiscal del Ministerio de Obras Públicas.
