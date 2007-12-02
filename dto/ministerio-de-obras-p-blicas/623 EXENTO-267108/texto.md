@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 623, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 118, para la ejecución de la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 a Km.
+
+23,49783, III Etapa", que figura a nombre de Villalobos Rivera Exequiel del, Rol de avalúo: 260-20, comuna de Salamanca, superficie 472,39 M². La Comisión de Peritos, fijó con fecha 22 de noviembre de 2005, complementada por acta de 16 de marzo de 2006, en la cantidad de $330.673, para el lote Nº 118. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
