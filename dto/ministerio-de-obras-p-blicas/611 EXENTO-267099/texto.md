@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 611, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 47 y 48, para la obra
+
+"Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo II Km. 7,34893 al Km. 16,04700", que figuran a nombre de Paillalef Valencia Bernardino, rol de avalúo Nº 269-53, Comuna de Carahue, IX Región, superficies 3.996 m² y 1.430 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 12 de octubre de 2006, complementada por actas de 11 de mayo de 2007, en la cantidad de $1.658.480.- para el lote Nº 47 y $573.400.- para el lote Nº 48. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
