@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 624, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 14, para la ejecución de la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 a Km. 19,500, etapa II", que figura a nombre de Herrera Marín Vicente del Rosari, Rol de avalúo: 8004-2, comuna de Alto del Carmen, superficie 72 M². La Comisión de Peritos, fijó con fecha 18 de junio de 2005, en la cantidad de $276.800, para el lote Nº 14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
