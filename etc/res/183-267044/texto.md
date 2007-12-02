@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 183, de 21.11.2007, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Miguel Ramírez Nº 525, Río Cachapoal, Rol de Avalúo Nº 10090-1, de la comuna de Rancagua, superficie aproximada de 316,0 m2 de terreno, delimitada en polígono A-B-C-D-A conforme al Plano elaborado por Consultora Cristián Michel Vergara, Ingeniero Civil, "Mejoramiento Eje Vial Miguel Ramírez Camino Machalí Tramo Poniente", Comuna de Rancagua. Modificado por Comisión Tasadora de aparente dominio de Administradoras de Inmuebles Arte-Sano Ltda. a fojas 6660 Nº 6101, del año 1999" Proyecto Mejoramiento Eje Miguel Ramírez Poniente, Tramo Bombero Villalobos Ruta 5 Sur, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sr. Sergio Shipley Rubio, Eduardo Alberto O'Ryan Morchio y Edmundo Gómez Lagos, Ingeniero, Arquitecto y Contructor Civil, respectivamente, según informe de fecha septiembre de 2007, monto provisional en $37.807.000.
+
+Director Serviu VI Región.
