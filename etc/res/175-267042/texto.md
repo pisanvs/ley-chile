@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº175 de 14.11.2007, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Manuel Montt esquina Miguel Ramírez Nº 304, Rol de Avalúo Nº 690-24, de la comuna de Rancagua, superficie aproximada de 31,1 m2 de terreno, delimitada en polígono I-K-L-J-I conforme al Plano elaborado por Consultora Cristian Michell Vergara, Ingeniero Civil, "Mejoramiento Eje Vial Miguel Ramírez Camino Machalí Tramo Poniente" Comuna de Rancagua de aparente dominio de Juan Rubén Vergara Castro, a fojas 2683 Nº 3681, del año 1992 "Proyecto Mejoramiento Eje Miguel Ramírez Poniente, Tramo Bombero Villalobos Ruta 5 Sur", conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sr. Sergio Shipley Rubio, Eduardo Alberto O'Ryan Morchio y Edmundo Gómez Lagos, ingeniero, Arquitecto y Constructor Civil, respectivamente, según informe de fecha Septiembre de 2007, monto provisional en $3.089.500.
+
+Director Serviu VI Región.
