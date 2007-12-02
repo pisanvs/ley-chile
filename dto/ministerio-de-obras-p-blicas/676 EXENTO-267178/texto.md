@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 676 de 29 de octubre del 2007, se expropió el lote de terreno Nº 10, superficie 158 m2, rol de avalúo E/T, comuna de Los Vilos, para la obra: "Mejoramiento Ruta D-875, Sector Quilimarí - Guangualí, Tramo Km. 1,79200 al Km. 16,00000", IV Región y se acordó el valor de la indemnización con su propietario Medardo Ernesto Astudillo Valencia, ascendente a la cantidad de $1.089.435.
+
+- Fiscal del Ministerio de Obras Públicas.
