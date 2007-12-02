@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 693 de 31 de octubre de 2007, se expropiaron los lotes de terrenos Nºs 90-A, 90-B y 90-C, superficies 149, 1.602 y 2.201 m2, rol Nº 407-9, comuna de Los Muermos, X Región para la obra "Camino Ruta V-60. Sector El Tepual - Las Quemas - Los Muermos, Km. 0,00000 al Km. 32,27442" y se acordó el valor de indemnización con su propietario Juan Fernando Ojeda Téllez, ascendente a la cantidad de $2.391.083.
+
+- Fiscal del Ministerio de Obras Públicas.
