@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 645 de 29 de octubre de 2007, se expropió el lote de terreno Nº 47, superficie 100 m2, rol de avalúo Nº 223-151, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 al Km. 12,80844", VIII Región y se acordó el valor de la indemnización con su propietario Arsenio Sáez Martínez, ascendente a la cantidad de $452.254.
+
+- Fiscal del Ministerio de Obras Públicas.
