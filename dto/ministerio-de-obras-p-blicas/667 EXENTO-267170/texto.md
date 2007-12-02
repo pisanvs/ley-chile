@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 667 de fecha 29 de octubre de 2007, se expropió el lote de terreno Nº 31-B, superficie 77,91 m2, rol E/T, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, II Etapa" y se acordó el valor de indemnización con su propietario Manuel Estenio Barraza Salinas, ascendente a la cantidad de $149.619.
+
+- Fiscal del Ministerio de Obras Públicas.
