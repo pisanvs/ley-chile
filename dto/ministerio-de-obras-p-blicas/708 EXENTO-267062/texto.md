@@ -1,0 +1,7 @@
+Por decreto exento MOP Nº 708, de 31 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 72, 75, 78, 79, 80, 81, 99, 101 y 102, para la ejecución de la obra "Camino Ruta W-853, Teupa-Queilen, sector Teupa-Santa María, Tramo Km.
+
+6,80000 a Km. 25,95773", que figuran a nombre de Chacón Macías Margarita, Nancul Nancul Luis Mauricio, Nancul Gamin Lucinda y Correa Walker Enrique Federico, Roles de avalúo: 144-22, 146-11, 146-51 y 146-50, comuna de Chonchi, superficies 830 m², 453 m², 110 m², 117 m², 26 m², 57 m², 743 m², 1.979 m² y 166 m². La Comisión de Peritos, fijó con fecha 12 de julio de 2004, en las cantidades de $249.000, para el lote Nº72; $135.900, para lote Nº75; $22.000, para el lote Nº78; $35.100, para el lote 79; $7.800, para el lote Nº80; $17.100, para el lote Nº 81; $148.600, para el lote Nº99;
+
+$593.700, para el lote Nº 101 y $41.500, para el lote Nº102. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
