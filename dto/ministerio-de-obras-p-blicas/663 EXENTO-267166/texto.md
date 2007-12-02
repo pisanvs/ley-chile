@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 663, de fecha 29 de octubre de 2007, se expropiaron los lotes de terreno Nºs. 15, 16, 17, 18 y 19, superficies 361, 370, 355, 241 y 76 m2, rol Nº 1502-53, comuna de Los Ángeles, VIII Región, para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara, Km. 0,00000 al Km. 10,35968", y se acordó el valor de indemnización con su propietario Néstor Hugo Hermosilla Catalán y Otros, ascendente a la cantidad de $4.407.448.- para los lotes Nºs 15, 16, 17, 18 y 19.
+
+- Fiscal del Ministerio de Obras Públicas.
