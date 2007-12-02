@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 697, de 31 de octubre de 2007, se expropió el lote de terreno Nº 98-A, superficie 443 m2, rol de avalúo Nº 59-135, comuna de Romeral, para la obra "Camino Ruta J-55, Guaico 3 - P. Vergara, Sector Guaico 3 - La Unión, Km. 0,00000 al Km. 7,60000", VII Región, y se acordó el valor de la indemnización con su propietario José Albino Brito Marchant, ascendente a la cantidad de $811.434.
+
+- Fiscal del Ministerio de Obras Públicas.
