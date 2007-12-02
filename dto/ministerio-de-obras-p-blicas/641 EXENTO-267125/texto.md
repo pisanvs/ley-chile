@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 641, de fecha 29 de octubre de 2007, se expropió el lote de terreno Nº 1, superficie 269,64 m², rol Nº 314-59, comuna de Pitrufquén, IX Región, para la obra: "Regadío Faja Maisan, Red Terciaria, Sector Huallizada. Obra: Canal FM3-7", y se acordó el valor de indemnización con su propietario Floriano Painen Ñancufil, ascendente a la cantidad de $264.989.
+
+- Fiscal del Ministerio de Obras Públicas.
