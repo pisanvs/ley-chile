@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 621, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 54-A, para la ejecución de la obra "Mejoramiento Av. Salvador Allende, tramo Avda. Sarmiento - Avda. Costanera", que figura a nombre de Rivera Emilia Estrella, Rol de avalúo: 1403-7, comuna de Antofagasta, superficie 42,33 M². La Comisión de Peritos fijó con fecha 28 de agosto de 2006, en la cantidad de $2.912.810, para el lote Nº 54-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
