@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 632, de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 12A y 13A, para la ejecución de la obra "Camino Estancia Vicuña - Yendegaia, Sector Km.
+
+51,96160 al Km. 66,21010, 8ª Etapa", que figuran a nombre de Genskowski Middleton Germán FL y RWY LLC Uno Limitada, Roles de avalúo: 671-33 y 671-37, comuna de Timaukel, superficies 54.619 M² y 35.219 M². La Comisión de Peritos fijó con fecha 7 de febrero de 2007, en la cantidad de $983.142, para el lote Nº 12A y con fecha 24 de julio de 2007, en la cantidad de $739.599, para el lote Nº 13A. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
