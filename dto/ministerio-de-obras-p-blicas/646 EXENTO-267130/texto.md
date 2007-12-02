@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 646, de 29 de octubre de 2007, se expropió el lote de terreno Nº 629-B1, superficie 544,07 m², rol Nº 307-18, comuna de Pitrufquén, IX Región, para la obra: "Proyecto Sistema de Regadío Faja Maisan, obras: Fajas Adicionales Canal Matriz" y se acordó el valor de indemnización con su propietaria María Inés Astudillo Jara, ascendente a la cantidad de $1.042.210.
+
+- Fiscal del Ministerio de Obras Públicas.
