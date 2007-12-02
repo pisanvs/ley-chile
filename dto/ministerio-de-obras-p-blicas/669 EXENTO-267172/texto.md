@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 669, de fecha 29 de octubre del 2007, se expropió el lote de terreno Nº 7-A, superficie 1.134 m2, rol Nº 63-300, comuna de Lonquimay, IX Región para la obra: "Camino Malalcahuello - Paso Pino Hachado Rutas R-891, R-955 y R-89, Sector Liucura - Paso Pino Hachado, Km. 158,54000 al Km. 179,59862 Tramo II Km. 164,75450 al Km. 179,59862" y se acordó el valor de indemnización con su propietario Celedonio Meliqueo Quirichi, ascendente a la cantidad de $650.997.
+
+- Fiscal del Ministerio de Obras Públicas.
