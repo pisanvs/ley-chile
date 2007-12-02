@@ -1,0 +1,5 @@
+Por decreto MOP exento Nº 635 de 25 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron el lote de terreno Nº 53, para la obra: "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara, Km. 0,00000 a Km.
+
+10,35968", que figura a nombre de Soc. Educacional Schooltaav Ltda., rol de avalúo Nº 1524-401, Comuna de Los Ángeles, VIII Región, superficie 905 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 20 de noviembre de 2006, en la cantidad de $2.806.500.- para el lote Nº53. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
