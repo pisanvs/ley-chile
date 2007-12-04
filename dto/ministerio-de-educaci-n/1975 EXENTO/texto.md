@@ -1,0 +1,29 @@
+DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE MONUMENTO HISTÓRICO LA PARROQUIA SAN LUIS DE GONZAGA, UBICADA EN EL PUEBLO DEL SAUZAL, COMUNA DE CAUQUENES, PROVINCIA DE CAUQUENES, VII REGIÓN DEL MAULE
+
+Núm. 1.975 exento.- Santiago, 11 de octubre de 2007.- Considerando:
+
+Que, el 28 de febrero de 1835, por Instrucción del Obispo de Concepción José Ignacio Cienfuegos Arteaga, fue creada la Parroquia de San Luis de Gonzaga de Sauzal y junto a ella se construirá la historia del poblado. Su primer párroco fue el presbítero don José Márquez. Se termina hacia fines del siglo XIX. Desde la creación de la misma, sus párrocos avanzaron en la obra gruesa de la Iglesia, destacándose la labor efectuada por el párroco Pedro José León (1845-1866). Con posterioridad a él, otros párrocos trabajaron en los detalles interiores y exteriores del inmueble, tales como el enladrillado, el encielado, la decoración del cielo con guirnaldas de flores, las cinco puertas y las ventanas.
+
+Que, además, la devoción y religiosidad de los habitantes del pueblo del Sauzal, aportando mano de obra y dinero, posibilitó que la Iglesia se construyera y se mantenga hoy en pie como un innegable patrimonio de significación comunitaria. Actualmente es un bien comunitario administrado por el Obispado de Linares.
+
+Que, con la edificación de la Parroquia de San Luis de Gonzaga de Sauzal se diseña la traza urbana del poblado del Sauzal, dispuesta en un relativo orden, tomando a la Iglesia como punto de partida, sinónimo de vida organizada y desde ese momento, en los libros de la Parroquia de Sauzal quedaron registrados los nombres de las familias de la época, como los principales acontecimientos en los dos siglos de vida de los sauzalinos. En torno a esta parroquia converge la vida urbana y las principales manifestaciones de la actividad oficial, religiosa y social.
+
+Que, a partir de la Parroquia de San Luis de Gonzaga de Sauzal, surge la expresión popular de la devoción colectiva de la festividad religiosa de "Nuestra Señora del Rosario", el primer domingo de octubre con la procesión de la Virgen del Rosario, espectáculo masivo y colorido, manifestación de fe espontánea que, por su vigor, ha perdurado hasta la actualidad. Esta festividad constituye el acontecimiento más importante para los sauzalinos, quienes junto a los peregrinos que provienen de distintas localidades vecinas (Empedrado, Nirivilo, Huerta del Maule, Pocillas, Ninhue, Coronel del Maule, etc.) dan muestras de fe y fervor popular. Esta fiesta se complementa con diversas actividades folklóricas.
+
+Que, desde el punto de vista de sus valores arquitectónicos, la Parroquia es de una arquitectura sencilla y exenta de artificios, pero de una gran solidez, que ha sido puesta a prueba en numerosos terremotos. (1906-1928-1939-1960). La planta mide 30 mt. de largo por 13.4 de ancho y los muros son de 1 metro de espesor. Predominan los medios puntos y las líneas rectas. Su espacialidad está organizada en 3 naves, una nave central y dos laterales, los pilares originales están cubiertos con una armadura de madera imitando el mármol, éstas ordenan los arcos de medio punto a lo largo de la Parroquia. Un coro y una escalera de caracol superpuestas se montan sobre el acceso. Los envigados de madera de roble sostienen la cubierta y amarran la estructura de adobe, además, sostienen el entramado de cielo liso en los laterales y abovedado en la nave central, confeccionado en madera machihembrada, sin tirantes y pintado con decoraciones florales, se presenta como un agregado posterior a su construcción original, evocando la ingenua y sencilla decoración de las Iglesias de Chiloé.
+
+Que, el Patrimonio Religioso en la Zona del Maule es un referente muy importante a nivel cultural e identitario, ya que la vida rural en torno a lo campesino se vincula fuertemente a la religiosidad que se origina en los albores fundacionales, donde la presencia de la Iglesia Católica tuvo un rol preponderante, y
+
+Visto: Lo dispuesto en la Ley Nº 17.288 de 1970; decreto supremo Nº 19 de 2001, del Ministerio Secretaría General de la Presidencia; acuerdo de sesión de 11 de julio del 2007, del Consejo de Monumentos Nacionales; Ord. Nº 4672 de 10 de septiembre de 2007, del Secretario del Consejo de Monumentos Nacionales; Ord. Nº 315 de Coordinador del Consejo de Monumentos Nacionales de la VII Región del Maule, de 25 de noviembre de 2005; carta del Obispo de Linares don Tomislav Koljatic Maroevic, de 02 de agosto de 2006; Expediente técnico para la declaratoria de la Parroquia San Luis Gonzaga de Sauzal, elaborado por el Consejo Regional de Monumentos Nacionales de la Región del Maule y la I. Municipalidad de Cauquenes, de 2004; resolución Nº 520, de 1996, de la Contraloría General de la República y en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile,
+
+Decreto:
+
+#### Artículo único
+
+Declárase Monumento Nacional en la categoría de Monumento Histórico la Parroquia San Luis de Gonzaga de Sauzal, ubicada en la comuna de Cauquenes, provincia de Cauquenes, VII Región del Maule.
+
+El área protegida posee una superficie de 1.490 m² que corresponde al predio donde se emplaza la Parroquia, la Casa Parroquial y un entorno de media calzada hacia cada calle del frente y costado de dicha Parroquia, como se indica en el polígono señalado en el plano que forma parte del presente decreto.
+
+Anótese y publíquese.- Por orden de la Presidenta de la República, Yasna Provoste Campillay, Ministra de Educación.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Pilar Romaguera Gracia, Subsecretaria de Educación.
