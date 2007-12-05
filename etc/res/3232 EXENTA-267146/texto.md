@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.232, de 13 de noviembre de 2007, de esta Subsecretaría, autorízase a ROBERTO ANTONIO VELÁSQUEZ VELÁSQUEZ para iniciar actividades pesqueras transformación, para instalar y operar planta ubicada en quinta Los Olivos, calle Bilbao, camino Basural, Tal Tal, línea proceso de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 13 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
