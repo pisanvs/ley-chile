@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.369, de 27 de noviembre de 2007, de esta Subsecretaría, autorízase a FOODCORP S.A., para ampliar actividades pesqueras de transformación autorizadas por resoluciones citadas en Visto, para incorporar a la planta ubicada en Pedro Aguirre Cerda Nº 995, Lo Rojas, Coronel, VIII Región, en las líneas de proceso de Fresco, Fresco enfriado, Fresco refrigerado, Conserva, Congelado y Seco salado, el recurso Pejerrey de mar.
+
+Valparaíso, 27 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
