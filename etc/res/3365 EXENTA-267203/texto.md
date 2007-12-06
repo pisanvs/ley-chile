@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.365, de 27 de noviembre de 2007, de esta Subsecretaría, autorízase a PESQUERA LA PORTADA S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta en cruce El Empalme Km. 3 s/n, Salto Grande, Puerto Montt, donde podrá elaborar en las líneas proceso de Harina y Aceite, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
