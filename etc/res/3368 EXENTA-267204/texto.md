@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.368, de 27 de noviembre de 2007, de esta Subsecretaría, autorízase a AQUAMONT S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en sector Huito, Ruta V 85, camino Puerto Montt a Calbuco, Calbuco, para elaborar en las líneas de proceso fresco refrigerado, congelado y conserva, el recurso Abalón rojo.
+
+Valparaíso, 27 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
