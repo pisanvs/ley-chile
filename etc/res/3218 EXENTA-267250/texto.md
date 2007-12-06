@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.218, de 12 de noviembre de 2007, de esta Subsecretaría, modifícase la Resolución Nº 1.629 de 2007, de esta Subsecretaría, que autorizó a ROSA ALEJANDRA AMPUERO VARGAS para instalar colectores de semillas de mitílidos en Canal Llanchid, sector noreste de Isla Llanchid, X Región, en el sentido de ampliar el plazo en ella otorgado por un período de seis meses contados desde el 1 de diciembre de 2007.
+
+Valparaso, 12 de noviembre de 2007.- Jorge Chocair Santibez, Subsecretario de Pesca.
