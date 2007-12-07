@@ -1,0 +1,9 @@
+Por resolución exenta Nº 3.321, de 21 de noviembre de 2007, de esta Subsecretaría, autorízase a Sociedad de Desarrollo de la Pesca Artesanal S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de las especies Sardina común y Anchoveta explotados por embarcaciones artesanales de la VIII Región".
+
+El objetivo de la pesca de investigación consiste en monitorear las capturas y desembarques de los recursos Sardina común y Anchoveta extraídos por la flota artesanal de cerco sardinera y anchovetera de la VIII Región.
+
+La pesca de investigación se efectuará en la VIII Región, entre la fecha de la presente resolución y el día 9 de diciembre de 2007, ambas fechas inclusive. Podrán participar en la presente pesca de investigación las embarcaciones artesanales "Águila Real II", "Andrea C", "Don Humberto M", "Don Miguel", "Don Feña", "Don Leonel", "Don Patricio", "Don Miguel II", "Don Nene", "Don Pedro M", "Don Pepe", "Don Rubén", "Don Tito R", "Don Valentín", "Doña Laura Rosa II", "Emelinda", "Galleguita III", "Graciela Nicole", "Josué", "Lidia C", "María Isabel", "Matías", "Mesana", "Miyasaki", "Nagasaki", "Paula Estefany", "Poseidón II", "Rainier Alejandro", "Rodrigo I", "Tío Chito", "Tsunami", "Yenny", "Yurimagua", inscritas en el Registro Pesquero Artesanal de la VIII Región, secciones de Pesquería de Anchoveta y Sardina común, las que en conjunto podrán extraer, con red de cerco con malla anchovetera, los remanentes no capturados de la cuota de tales recursos autorizados a extraer a Sociedad de Desarrollo de la Pesca Artesanal S.A. mediante resolución exenta Nº 1.739 de 2007, de esta Subsecretaría.
+
+La peticionaria designa como persona responsable a su representante legal, don Héctor Hugo Arancibia Zamorano.
+
+Valparaíso, 21 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
