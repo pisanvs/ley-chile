@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.234, de 13 de noviembre de 2007, de esta Subsecretaría, autorízase a MARCELO ALBERTO VARELA FIGUEROA para iniciar actividades pesqueras de transformación, para instalar y operar una planta ubicada en manzana 57, sitio 17, La Chimba, Antofagasta, línea proceso de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 13 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
