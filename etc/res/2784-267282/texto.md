@@ -1,0 +1,9 @@
+SOLICITUD EN PROCEDIMIENTO DE INSCRIPCIÓN EN EL REGISTRO DE PARTIDOS POLÍTICOS DEL "PARTIDO ECOLOGISTA", EN FORMACIÓN
+
+Por resolución O-Nº 2.784 de fecha 30 de noviembre de 2007, se dispuso publicar en el Diario Oficial, la solicitud de tener por subsanados los reparos formulados por el Servicio Electoral a su inscripción como partido político del "Partido Ecologista", en formación, formulada por los señores Félix Marcelo González Gatica, Bernardo Juan José Reyes Ortiz y Felipe Demián Arancibia Labraña, Presidente, Secretario y Tesorero, respectivamente, de la Directiva Central provisional. La inscripción solicitada se refiere a las Regiones I de Tarapacá, II de Antofagasta y III de Atacama. Su sigla es "PE", su símbolo se compone del ícono de una araucaria, dibujadas sus ramas con líneas curvas de espesor regular y su tronco con una línea vertical, ambas en color blanco sobre un fondo circular negro, en la parte inferior de la araucaria se ubican dos ondas horizontales que asemejan el agua de un río en color blanco; y su lema es "El Partido Verde de Chile". La escritura pública de fecha 22 de diciembre de 2006, otorgada ante don Julio Kuncar Silhi, Notario Público y Conservador de Minas, suplente del Titular de Concepción, Octava Región, don Francisco Molina Valdés. El extracto de la escritura de constitución se publicó en el Diario Oficial de fecha 29 de enero de 2007.
+
+La solicitud subsana las deficiencias en que se fundó la resolución O-Nº 2.211 de fecha 17 de octubre de 2007, publicada en el Diario Oficial de fecha 20 de octubre del mismo año en la Región I de Tarapacá.
+
+Publicación que se ordena para los efectos contemplados en el artículo 9º de la ley Nº 18.603 por resolución O-Nº 2.784 de fecha 30 de noviembre de 2007.
+
+- Juan Ignacio García Rodríguez, Director.
