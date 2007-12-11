@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE "COMPAÑÍA DE SEGUROS VIDA CORP S.A."
+
+Certifico: Que por resolución exenta Nº 551 de fecha 26 de noviembre de 2007, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de "Compañía de Seguros Vida Corp S.A.", acordada en junta extraordinaria de accionistas celebrada el 7 de noviembre de 2007 y reducida a escritura pública el 8 de noviembre de 2007 en la Notaría de Santiago de don José Musalem Saffie, domiciliado en Huérfanos 770 piso 3. La reforma consiste en cambiar el nombre de la sociedad que pasa a llamarse "Compañía de Seguros Corpvida S.A", pudiendo usar para fines publicitarios y de propaganda la sigla "CORPVIDA", reemplazando al efecto el artículo primero de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 26 de noviembre de 2007.- Carmen Undurraga Martínez, Secretaria General.
