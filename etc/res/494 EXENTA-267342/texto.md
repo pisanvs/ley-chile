@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 494 EXENTA, DE 2007
+
+Por resolución exenta Nº 494, de 10 de octubre de 2007, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región modificó la resolución exenta Nº 334/2007, y su extracto, en el sentido de sustituir la frase "100 taxis colectivos" por "165 taxis colectivos". Además, se agrega como nuevo Nº 5 del resuelvo de dicha resolución, así como nuevo párrafo final de su extracto, la siguiente frase: "La presente autorización se otorga por el plazo de 3 años, según lo dispuesto en la resolución de recepción definitiva de obras de edificación Nº 189 citada en el Visto, vencido el cual se deberán efectuar las inspecciones pertinentes, con miras a su renovación".
+
+- Karina Vargas Brizuela, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
