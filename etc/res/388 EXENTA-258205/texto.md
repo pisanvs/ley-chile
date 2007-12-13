@@ -16,37 +16,65 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécense, como medida de gestión de tránsito en la ciudad de Santiago, vías exclusivas para el transporte público.
+1.- Establécense, de lunes a viernes, excepto festivos, entre las 7:30 hrs. y las 10:00 hrs. y entre las 17:00 hrs. y las 21:00 hrs., como medidas de gestión de tránsito en la ciudad de Santiago, vías exclusivas para el transporte público, en los tramos y sentidos de circulación que se describen en los siguientes cuadros:
 
-Dichas vías, cuyos tramos y sentidos de circulación de exclusividad se describen en los siguientes cuadros, funcionarán de lunes a viernes, excepto festivos, entre las 7:30 hrs. y las 10:00 hrs., y entre las 17:00 y las 21:00 hrs., con excepción de los ejes correspondientes a San Pablo, Av. José Joaquín Pérez e Irarrázaval, que sólo operarán entre las 7:30 hrs. y las 10:00 hrs.
-
-a) AV. SANTA ROSA
+a) EJE SANTA ROSA - MAC IVER
 
 Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-Av. Santa Rosa Placer Amazonas Habitual S-N
+Av. Santa Rosa Lo Ovalle Placer Ambos sentidos
 
-Av. Santa Rosa Padre Av. Libertador Habitual S-N
+Av. Santa Rosa Placer Av. Libertador Habitual S-N
 
-Alonso Bernardo
+Bernardo
 
-de O'Higgins
+O'Higgins
 
-Ovalle (Alameda)
+(Alameda)
+
+Mac Iver Av. Ismael Valdés Habitual S-N
+
+Libertador Vergara
+
+Bernardo
+
+O'Higgins
+
+(Alameda)
 
 b) EJE SAN DIEGO - BANDERA
 
-Eliminado.
+VÍA DESDE HASTA SENTIDO VÍA
 
-c) SAN FRANCISCO
+EXCLUSIVA
+
+SAN DIEGO Tarapacá Paso Bajo Habitual S-N
+
+nivel
+
+(Alameda)
+
+BANDERA Paso Bajo Av. General
+
+nivel Mackenna Habitual S-N
+
+(Alameda)
+
+c) EJE SAN ANTONIO - SAN FRANCISCO
 
 Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-Eliminado.
+San Antonio Ismael Av. Libertador Habitual N-S
+
+Valdés Bernardo
+
+Vergara O'Higgins
+
+(Alameda)
 
 San Francisco Av. Placer Habitual N-S
 
@@ -58,15 +86,33 @@ O'Higgins
 
 (Alameda)
 
-EJE COMPAÑÍA - MERCED
+d) EJE COMPAÑÍA - MERCED
 
-Eliminado.
+VÍA DESDE HASTA SENTIDO VÍA
 
-SANTO DOMINGO
+EXCLUSIVA
 
-Eliminado.
+COMPAÑÍA Manuel Plaza de Habitual P-O
 
-d) AV. JOSÉ JOAQUÍN PÉREZ
+MERCED Rodríguez Armas
+
+Plaza de Santa Habitual P-O
+
+Armas Lucía
+
+e) SANTO DOMINGO
+
+VÍA DESDE HASTA SENTIDO VÍA
+
+EXCLUSIVA
+
+SANTO DOMINGO Ismael Manuel Habitual
+
+Valdés Rodríguez O-P
+
+Vergara
+
+f) AV. JOSÉ JOAQUÍN PÉREZ
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -76,9 +122,17 @@ AV. JOSÉ Av. Teniente Av. Walker Sólo calzada
 
 JOAQUÍN PÉREZ Cruz Martínez P-O
 
-e) SAN PABLO
+g) SAN PABLO
 
-f) IRARRÁZAVAL
+VÍA DESDE HASTA SENTIDO VÍA
+
+EXCLUSIVA
+
+SAN PABLO Av. La Barros Sólo calzada
+
+Estrella Arana P-O
+
+h) IRARRÁZAVAL
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -90,296 +144,112 @@ Bustamante norte de
 
 O-P
 
-g) SAN MARTÍN
+i) SAN MARTÍN
 
 Vía Desde Hasta Sentido Vía
 
 Exclusiva
 
-San Martín Catedral Av. N-S
+San Martín Balmaceda Av. Libertador Habitual N-S
 
-Libertador
-
-Bernardo
-
-O'Higgins
+Bernardo O'Higgins
 
 (Alameda)
 
-Si durante el período de aplicación del plan operacional de gestión de episodios críticos (GEC), conforme el DS N° 31, de 11 de octubre de 2016, del Ministerio del Medio Ambiente, que Establece Plan de Prevención y Descontaminación Atmosférica para la Región Metropolitana de Santiago, se declara, por la autoridad competente, condición de emergencia ambiental, operaran también como vías exclusivas de transporte público, las señaladas en el cuadro siguiente, conforme los tramos, sentidos de tránsito y horarios que allí se indican:
+2.- Los vehículos que podrán circular por estas
 
-Las referidas vías exclusivas funcionarán sólo mientras persista la declaración ambiental correspondiente, de lunes a viernes, excepto festivos.
+vías exclusivas serán los siguientes:
 
-Sin perjuicio de lo anterior, el Secretario Regional, en la misma resolución que disponga la restricción vehicular que corresponda, según último dígito de placa patente, durante el aludido episodio de emergencia ambiental, podrá disponer que sólo parte de las vías y tramos indicados en el cuadro anterior, funcionen como vías exclusivas, como asimismo, podrá asignarles horarios de funcionamiento distintos a los establecidos.
+a) Buses de servicios de transporte público urbano
 
-2.- Los vehículos que podrán circular por estas vías exclusivas serán los siguientes:
+de pasajeros;
 
-a) Buses de servicios de transporte público
+b) Taxis en cualquiera de sus modalidades, incluida
 
-urbano de pasajeros;
+la submodalidad de taxi ejecutivo;
 
-b) Taxis en cualquiera de sus modalidades,
+c) Buses de servicios rurales de transporte público
 
-incluida la submodalidad de taxi ejecutivo;
+de pasajeros, cuyo ruteo incluya algún tramo de
 
-c) Buses de servicios rurales de
+las vías exclusivas señaladas, de acuerdo a lo
 
-transporte público de pasajeros, cuyo
+dispuesto en la resolución exenta Nº 81/2001, de
 
-ruteo incluya algún tramo de las vías
+esta Secretaría Regional Ministerial;
 
-exclusivas señaladas, de acuerdo a lo
+d) Buses de servicios interurbanos de transporte
 
-dispuesto en la resolución exenta
+público de pasajeros, cuyo ruteo incluya algún
 
-Nº 81/2001, de esta Secretaría
+tramo de las vías exclusivas señaladas, de
 
-Regional Ministerial;
-
-d) Buses de servicios interurbanos
-
-de transporte público de pasajeros,
-
-cuyo ruteo incluya algún
-
-tramo de las vías exclusivas
-
-señaladas, de acuerdo a lo dispuesto
-
-en la resolución exenta
+acuerdo a lo dispuesto en la resolución exenta
 
 Nº 82/2001, de esta Secretaría Regional
 
 Ministerial;
 
-e) Vehículos de emergencia, del
+e) Vehículos de emergencia, del Programa de
 
-Programa de Fiscalización de la
+Fiscalización de la Subsecretaría de Transportes
 
-Subsecretaría de Transportes
+y de los municipios, destinados a cumplir
 
-y de los municipios, destinados
-
-a cumplir funciones de seguridad
-
-ciudadana, debidamente
+funciones de seguridad ciudadana, debidamente
 
 identificados como tales;
 
-f) Vehículos de transporte
+f) Vehículos de transporte remunerado de escolares;
 
-remunerado de escolares;
+g) Vehículos acondicionados para personas
 
-g) Vehículos importados de conformidad con el artículo 48 de la ley Nº 20.422.
+discapacitadas a que se refiere el artículo 60
 
-h) Vehículos que circulen por Av. Santa Rosa
+de la ley Nº 17.238;
 
-y calle San Francisco, entre Av. Libertador
+Los vehículos no contemplados en las letras
 
-Bernardo O' Higgins (Alameda) y calle Placer,
+precedentes y que deban necesariamente utilizar estas
 
-utilizados por la inspección fiscal del
+vías exclusivas con el único objetivo de ingresar o
 
-"contrato de Concesión Habilitación Corredor
+egresar desde sus lugares de residencia o
 
-de Transporte Público Av. Santa Rosa Sector
+estacionamiento habitual, podrán hacerlo
 
-Alameda - A.Vespucio" y por el concesionario
+restringidamente siempre y cuando acrediten dicha
 
-de dicha obra para labores de
+circunstancia. Para tal efecto, deberán ingresar y salir
 
-mantención de las vías señaladas;
+de la vía exclusiva de que se trate en los cruces más
 
-siempre que éstos se encuentren
+próximos al lugar en que se ubique la respectiva
 
-debidamente identificados como tales.
+residencia o estacionamiento.
 
-i) Vehículos que con ocasión de programas,
+3.- Carabineros de Chile, inspectores municipales e
 
-estudios o actividades que se realicen
+inspectores del Ministerio de Transportes y
 
-en todo o parte de dichas vías o que
+Telecomunicaciones, son los encargados de fiscalizar el
 
-se relacionen directamente con el
+estricto cumplimiento de la medida precedentemente
 
-uso de aquellas, deban
+descrita, de conformidad a lo dispuesto en la ley
 
-necesariamente circular por las
+N°18.290.
 
-mismas.
+4.- La vigencia de la presente medida será
 
-j) Vehículos asignados a las autoridades
+reevaluada en atención a los resultados que arroje sobre
 
-señaladas en el inciso tercero del
+los tiempos de viaje de los usuarios del transporte
 
-#### Artículo 3º
+público.
 
-del DL Nº 799, de 1974,
+5.- El presente acto administrativo entrará en
 
-para ser usados en actividades propias
-
-del cargo y, aquellos vehículos que
-
-escolten a los primeros por motivos
-
-de seguridad, cuando corresponda.
-
-Para acreditar la condición de los
-
-señalados vehículos las instituciones
-
-a las cuales pertenezcan dichas
-
-autoridades deberán remitir a esta
-
-Secretaría Regional una nómina con
-
-el detalle de dichos vehículos,
-
-la que deberá renovarse cada vez
-
-que exista una modificación
-
-de la misma.
-
-k) vehículos destinados o
-
-autorizados exclusivamente por
-
-las municipalidades para realizar
-
-labores de aseo de bienes
-
-nacionales de uso público
-
-y/o extracción y transporte
-
-de residuos sólidos domiciliarios.
-
-l) vehículos destinados a prestar
-
-servicios de transporte para los
-
-XIX Juegos Panamericanos y
-
-VII Parapanamericanos Santiago 2023,
-
-debidamente identificados como tales
-
-por el Comité Organizador, entre
-
-los días 20 de octubre y 30 de
-
-noviembre de 2023.
-
-Tratándose de las letras g) e i)
-
-precedentes, el interesado deberá
-
-obtener autorización previa de la
-
-Secretaría Regional Ministerial
-
-Metropolitana de Transportes y
-
-Telecomunicaciones, la que se
-
-otorgará mediante resolución,
-
-siempre que se acredite, con la
-
-documentación respectiva, que
-
-el o los vehículos presentados
-
-se comprenden en alguna de las
-
-situaciones allí descritas.
-
-En dicha resolución deberán
-
-establecerse en forma
-
-determinada los vehículos que
-
-se autoricen, el plazo, horario,
-
-tramos y demás condiciones
-
-de circulación vial que se
-
-estimen necesarias. El documento
-
-en que conste dicha autorización
-
-o su copia autorizada, deberá
-
-portarse siempre en el vehículo.
-
-Los vehículos no contemplados
-
-en las letras precedentes y que
-
-deban necesariamente utilizar
-
-estas vías exclusivas con el único
-
-objetivo de ingresar o egresar
-
-desde sus lugares de residencia
-
-o estacionamiento habitual,
-
-podrán hacerlo restringidamente
-
-siempre y cuando acrediten
-
-dicha circunstancia. Para tal
-
-efecto, deberán ingresar y salir
-
-de la vía exclusiva de que se
-
-trate en los cruces más próximos
-
-al lugar en que se ubique la
-
-respectiva residencia o
-
-estacionamiento.
-
-3.- Carabineros de Chile,
-
-inspectores municipales e inspectores
-
-del Ministerio de Transportes
-
-y Telecomunicaciones, son
-
-los encargados de fiscalizar el
-
-estricto cumplimiento de la
-
-medida precedentemente descrita,
-
-de conformidad a lo dispuesto en
-
-la ley N°18.290.
-
-4.- La vigencia de la presente
-
-medida será reevaluada en atención a
-
-los resultados que arroje sobre los
-
-tiempos de viaje de los usuarios del
-
-transporte público.
-
-5.- El presente acto administrativo
-
-entrará en vigencia a contar del 10 de
-
-febrero de 2007.
+vigencia a contar del 10 de febrero de 2007.
 
 Anótese y publíquese.- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
