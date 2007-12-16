@@ -1,0 +1,3 @@
+Por decreto MOP Nº789 de 29 de octubre de 2007, se expropió el lote de terreno Nº3-A, superficie 977,00 m2, rol de avalúo Nº1668-13, comuna de Paine, para la obra "Reposición Puente Pintue. Sector Pintue, Provincia de Maipo, Comuna de Paine", Región Metropolitana y se acordó el valor de la indemnización con su propietario Jaime Antonio Arce Riveros y Otros, ascendente a la cantidad de $6.468.638.
+
+- Fiscal del Ministerio de Obras Públicas.
