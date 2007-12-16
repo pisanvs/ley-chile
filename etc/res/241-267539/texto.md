@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 241, de fecha 26 de noviembre de 2007, tramitada por Contraloría con fecha 28 de noviembre de 2007, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 90 para la ejecución del Proyecto "Mejoramiento Avenida Manuel Rodríguez de Osorno", ubicado en Osorno, provincia de Osorno, Región de Los Lagos, que figura a nombre de Vargas Muñoz Luis Humberto, rol de avalúos según SII Nº 237-02, comuna de Osorno, superficie 46,10 metros cuadrados. La comisión de Peritos integrada por los Sres. Juan Samuel Barrientos Bahamonde, Nelson Bernardo Turra Turra y Leopoldo Schumacher Guarda, designados por resolución exenta Nº 1.687 de fecha 9 de noviembre de 2007, fijó con fecha 16 de noviembre de 2007, el valor provisional de la indemnización en la suma de $17.477.740. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional (S) Serviu Región de Los Lagos.
