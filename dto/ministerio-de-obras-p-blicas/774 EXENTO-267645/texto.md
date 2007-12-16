@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº774, de 20 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la ejecución de la obra Camino Cavilolén - Fundo El Mauro, Ruta D-865, Sector Las Vacas - Caimanes, Tramo Km. 0,0000 a Km. 25,14000, que figura a nombre de Suc. Ricardo Schoenfelder Khele, Rol de avalúo 249-2, comuna de Los Vilos, superficie 320 m2. La Comisión de Peritos fijó, con fecha 31 de marzo de 2006, en la cantidad de $96.000 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
