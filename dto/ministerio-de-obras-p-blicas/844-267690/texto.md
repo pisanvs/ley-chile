@@ -1,0 +1,5 @@
+Por decreto MOP Nº 844, de 20 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 10, para la obra "Proyecto Modificación Diseño Definitivo Interceptor de Aguas Lluvia Alameda Rancagua" obra:
+
+"Colector Interceptor Alameda", que figura a nombre de Agrícola La Quinta Ltda, rol de avalúo 1419-17, Comuna de Rancagua, VI Región, superficie 4.180,98 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 15 de diciembre de 2006, en la cantidad de $15.806.244.- para el lote Nº 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
