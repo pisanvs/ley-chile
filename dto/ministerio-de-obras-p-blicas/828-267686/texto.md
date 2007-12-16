@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 828 de 14 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 33 para la obra "Mejoramiento del Cauce del Estero Las Cruces", que figura a nombre de South West S.A, rol de avalúo 118-150, comuna de Quilicura, Región Metropolitana, superficie 1.100 M2. La Comisión de Peritos, fijó con fecha 29 de agosto de 2006, en la cantidad de $32.372.000.- para el lote Nº 33. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
