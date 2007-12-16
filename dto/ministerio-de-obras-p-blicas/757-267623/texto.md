@@ -1,0 +1,3 @@
+Por decreto MOP Nº 757, de 24 de octubre de 2007, y de conformidad a la facultad otorgada por el DL Nº 2.186, de 1978, se modificó el decreto MOP Nº 1.970, de 16 de mayo de 2000, sólo en cuanto a dejar sin efecto la expropiación del lote de terreno Nº 26-2, de 631 m2, rol de avalúo 329-116, comuna de Purranque, de propiedad de Gimpel Nannig Alfredo C., para la obra Concesión Internacional Ruta 5. Tramo: Río Bueno - Puerto Montt. Sector: Cuatro Vientos Km. 959,840 al Km. 961,200, Décima Región, por no ser necesario para la obra.
+
+- Fiscal del Ministerio de Obras Públicas.
