@@ -1,0 +1,3 @@
+Por decreto MOP Nº774, de 29 de octubre de 2007, se expropió el lote de terreno Nº31, superficie 4.196 m2, Rol de avalúo 1535-444, comuna de Los Ángeles, para la obra "Mejoramiento Ruta Q-503, Los Ángeles - El Peral", VIII Región, y se acordó el valor de la indemnización con su propietaria Raquel Fica Pinto y Otra, ascendente a la cantidad de $12.103.554.
+
+- Fiscal del Ministerio de Obras Públicas.
