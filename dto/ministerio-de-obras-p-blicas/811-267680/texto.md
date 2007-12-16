@@ -1,0 +1,3 @@
+Por decreto MOP Nº 811, de 8 de noviembre de 2007, y en base a la facultade otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 21, para la obra "Mejoramiento del Cauce del Estero Las Cruces", que figura a nombre de Inmobiliaria Magan, rol de avalúo Nº 182-8, Comuna de Quilicura, Región Metropolitana, superficie 175,2 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 26 de septiembre de 2006, en la cantidad de $6.307.200.- para el lote Nº 21. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
