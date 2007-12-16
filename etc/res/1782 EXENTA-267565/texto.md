@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.782, de fecha 26 de noviembre del 2007, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 96 para ejecución de la obra "Mejoramiento Avenida Manuel Rodríguez, Osorno", Provincia de Osorno, Región de Los Lagos, que figura a nombre de Gajardo Acuña Abraham, rol de avalúos según SII Nº 237-7, comuna de Osorno, superficie 28,90 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Nelson Bernardo Turra Turra y Juan Samuel Barrientos Bahamonde designados por resolución exenta Nº 1.687 de fecha 9 de noviembre del 2007, fijó con fecha 16 de noviembre del 2007, el valor provisional de la indemnización en la suma de $2.157.740. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional (S) Serviu Región de Los Lagos.
