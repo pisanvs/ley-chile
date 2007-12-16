@@ -1,0 +1,3 @@
+Por decreto MOP Nº 785 de 29 de octubre de 2007, se expropiaron los lotes de terrenos Nº 2 y 3, superficies 730 y 830 m2, Rol Nº 603-72, comuna San Ignacio, VIII Región, para la obra Proyecto Sistema de Riego, Laja Diguillín. "Fajas Adicionales, Canal Matriz Diguillín Larqui Km. 7,113 a Km. 7,331" y se acordó el valor de indemnización con su propietaria Laura del Carmen Lara, ascendente a la cantidad de $6.991.889.
+
+- Fiscal del Ministerio de Obras Públicas.
