@@ -1,0 +1,5 @@
+Por decreto MOP Nº 875 de 28 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 3, 3-A y 3-B, para la obra "Proyecto Construccón Sistema de Regadío Ancoa", VII Región, que figura a nombre de Piemonte Miani Humberto, rol de avalúo Nº 18-10, 18-85, comuna de Colbún, VII Región, superficies 929.728, 14.892, 4.775 m2s, respectivamente. La Comisión de Peritos fijó el monto provisional de la indemnización el 30 de octubre de 2007, en la cantidad de
+
+$73.796.912.- para el lote Nº 3; $19.675.844.- para el lote Nº 3-A y $338.025.-, para el lote Nº 3-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
