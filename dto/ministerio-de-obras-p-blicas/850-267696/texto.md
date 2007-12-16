@@ -1,0 +1,5 @@
+Por decreto MOP Nº 850, de 20 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6, para la obra "Proyecto Modificación Diseño Definitivo Interceptor de Aguas Lluvia Alameda Rancagua" obra:
+
+"Colector Interceptor Alameda", que figura a nombre de Rodríguez Verdejo Máximo, rol de avalúo 500-61, comuna de Rancagua, VI Región, superficie 1.640 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 15 de diciembre de 2006, en la cantidad de $33.301.900.- para el lote Nº 6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
