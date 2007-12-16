@@ -1,0 +1,3 @@
+Por decreto MOP. Nº797, de 31 de octubre de 2007, se expropiaron los lotes de terrenos Nºs. 26 y 28, superficies 18.1 y 186 m2, Rol Nº 118-244 y 118-245, comuna de Quilicura, Región Metropolitana, para la obra "Mejoramiento del Cauce del Estero Las Cruces" lotes 13 al 30 y se acordó el valor de indemnización con su propietario Sociedad Inmobiliaria La Huerta Limitada, ascendente a la cantidad de $7.814.370.
+
+- Fiscal del Ministerio de Obras Públicas.
