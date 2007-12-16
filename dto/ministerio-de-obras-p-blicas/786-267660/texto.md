@@ -1,0 +1,3 @@
+Por decreto MOP Nº 786, de fecha 28 de noviembre de 2007, se autorizó Servidumbre de Acueducto relativo al lote Nº 1, superficie 1.464 m2, sin rol de avalúo, comuna de Salamanca, para la obra "Readecuación Entrega Final Canal Panguesillo, Sistema de Regadío Valle del Choapa", obra: "Segunda Entrega ", y se acordó el valor de la indemnización con su propietario Luis Roberto Gálvez Merino, ascendente a la cantidad de $3.268.922.
+
+- Fiscal del Ministerio de Obras Públicas.
