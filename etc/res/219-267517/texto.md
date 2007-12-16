@@ -1,0 +1,7 @@
+ORDENA EXPORPIACIONES DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 219, de fecha 21 de noviembre de 2007, tramitada por Contraloría con fecha 23 de noviembre de 2007, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 23 para la ejecución Proyecto "Mejoramiento Eje Guillermo Gallardo-Sargento Silva, Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Stuardo Barría Alma Eliana y otros, rol de avalúos según SII Nº 68-1, comuna de Puerto Montt, superficie 141,96 metros cuadrados. La comisión de Peritos integrada por los Sres. Leopoldo Schumacher Guarda, Carlos Mera Santibáñez y Christian Emil Rauch Yáñez designados por resolución exenta Nº 1.288 de fecha 28 de agosto de 2007, fijó con fecha 5 de octubre de 2007, el valor provisional de la indemnización en la suma de $66.463.400. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+- Director Regional (S), Serviu Región de Los Lagos.
