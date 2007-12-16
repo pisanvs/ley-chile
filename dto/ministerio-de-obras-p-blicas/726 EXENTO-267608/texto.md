@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº726, de 9 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 33-A para la ejecución de la obra Camino Ruta 7 Chamiza - Quillaipe, Km. 4,83687 a Km. 15,84700, que figura a nombre de Uribe Oyarzún Luis Javier, Rol de avalúo 2204-49, comuna de Ancud, superficie 280 m2. La Comisión de Peritos fijó, con fecha 28 de julio de 1999, en la cantidad de $714.000 para el lote Nº 33-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
