@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº722, de 8 de noviembre de 2007, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto exento MOP Nº302, de 28 de marzo de 2002, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº85, expropiado a Néstor Pérez Matus, con motivo de la obra Camino Río Bueno - Crucero, Rol T-90-U y T-933, Km. 0,00 a Km. 20,900 (II Parte). Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos con fecha 12 de julio de 2000, ascendente a la cantidad de $864.960 para lote Nº 85.
+
+- Fiscal del Ministerio de Obras Públicas.
