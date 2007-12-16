@@ -1,0 +1,3 @@
+Por decreto MOP Nº798 de 31 de octubre de 2007, se expropió el lote de terreno Nº2, superficie 8.436 m2, rol de avalúo 597-196, comuna de San Ignacio, para la obra "Proyecto Laja Diguillín Faja Adicional Cota 204,52 M, Bocatoma Diguillín", VIII Región y se acordó el valor de la indemnización con su propietaria Magdalena del Carmen Cárdenas Moncada, ascendente a la cantidad de $5.704.090.
+
+- Fiscal del Ministerio de Obras Públicas.
