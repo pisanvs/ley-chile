@@ -1,0 +1,3 @@
+Por decreto MOP. Nº780, de 29 de octubre de 2007, se expropió el lote de terreno Nº 7, superficie 653,20 m2., rol de avalúo Nº 3707-12, comuna de Talca, para la obra "Habilitación Avda. Circunvalación Río Claro en Talca, Avenida Lircay, Comuna de Talca, Provincia de Talca, VII Región", y se acordó el valor de la indemnización con su propietaria María Dolores Palma Altamirano y Otros, ascendente a la cantidad de $51.530.075.
+
+- Fiscal del Ministerio de Obras Públicas.
