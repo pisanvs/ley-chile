@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº766, de 20 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nºs 83-A1 y 83-A2 para la ejecución de la obra Camino Río Bueno - Crucero, Rol T-90-U y T-933, Km.
+
+0,000 a Km. 20,900 II Parte, que figuran a nombre de Márquez Barriga Rosa y Vidal Viveros Carmen Gloria, Roles de avalúo: 536-236 y 536-249, comuna de Río Bueno, superficies 411 m2 y 278 m2. La Comisión de Peritos fijó, con fecha 23 de noviembre de 2005, complementada por acta de 14 de julio de 2006, en la cantidad de $320.250 para el lote Nº83-A1 y $208.500 para el lote Nº83-A2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
