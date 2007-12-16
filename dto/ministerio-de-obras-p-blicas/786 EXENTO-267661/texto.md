@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº786, de 28 de noviembre de 2007, se autorizó la constitución de una servidumbre de acueducto continua, inaparente perpetua y onerosa sobre el lote Nº 1, superficie 1.464 m2, Rol S/Nº, comuna de Salamanca, IV Región, para la obra "Proyecto Readecuación entrega final canal Panguesillo, Sistema de Regadío Valle del Choapa", obra "Segunda Entrega" y se acordó el valor de indemnización con su propietario Luis Roberto Gálvez Merino, ascendente a la cantidad de $3.268.922.
+
+- Fiscal del Ministerio de Obras Públicas.
