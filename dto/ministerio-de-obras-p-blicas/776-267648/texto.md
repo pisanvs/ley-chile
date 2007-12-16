@@ -1,0 +1,3 @@
+Por decreto MOP. Nº776 de 29 de octubre de 2007, se expropió para Aguas Andinas S.A., los lotes de terrenos Nºs. 1 y 2, superficies 1.386,15 y 125,06 m2 rol de avalúo 1195-103, comuna de Maipú, para la obra "Colector Interceptor Mapocho", Región Metropolitana y se acordó el valor de la indemnización con su propietario Fabián Segundo Rocco Celpa, ascendente a la cantidad de $15.671.633.
+
+- Fiscal del Ministerio de Obras Públicas.
