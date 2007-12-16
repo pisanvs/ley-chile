@@ -1,0 +1,3 @@
+Por decreto MOP Nº784, de 29 de octubre de 2007, se expropió el lote de terreno Nº 29, superficie 10.689,17 m2, Rol Nº1420-17, comuna de Rancagua, VI Región, para la obra "Proyecto Modificación Diseño Definitivo Interceptor de Aguas Lluvias Alameda Rancagua", obra "Colector Interceptor Alameda" y se acordó el valor de indemnización con su propietario Alfonso Márquez de la Plata Cortés y Otra, ascendente a la cantidad de $19.810.269.
+
+- Fiscal del Ministerio de Obras Públicas.
