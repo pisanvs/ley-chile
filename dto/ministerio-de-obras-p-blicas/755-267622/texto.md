@@ -1,0 +1,5 @@
+Por decreto MOP Nº 755, de 24 de octubre de 2007, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 7, para la obra: "Camino Costero Sur, Tramo Tranapuente - Pto. Saavedra - Chelle, By Pass Puerto Saavedra, Km.
+
+67,691 al Km. 70,001", que figura a nombre de Elgueta Mela Margarita, rol de avalúo Nº 502-40, Comuna de Saavedra, IX Región, superficie 35.099,4 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 03 de julio de 2001, en la cantidad de $22.814.610.- para el lote Nº 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
