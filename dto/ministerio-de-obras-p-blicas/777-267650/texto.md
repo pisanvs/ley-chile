@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 777 de 29 de octubre de 2007, se expropió el lote de terreno Nº 115-T, superficie 1.061,00 m2., rol Nº 2206-69, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, Tramo Km. 15,84700 al Km. 40,41746" y se acordó el valor de la indemnización con su propietaria María Virginia Casanova Mancilla, ascendente a la cantidad de $6.322.381.
+
+- Fiscal del Ministerio de Obras Públicas.
