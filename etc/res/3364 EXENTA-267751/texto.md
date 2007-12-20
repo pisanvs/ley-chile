@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.364, de 27 de noviembre de 2007, de esta Subsecretaría, autorízase a TERRA NATUR S.A. para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta en Fundo Santa Inés, sitios A1 y A2, Quilimarí, Los Vilos, donde podrá elaborar en las líneas de proceso de Alga seca y Picado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
