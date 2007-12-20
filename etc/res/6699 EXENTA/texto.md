@@ -1,0 +1,7 @@
+DISPONE EXCLUSIÓN DE DON BERNARDO EFRAÍN ESPINOZA ARÉVALO DE LAS NÓMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL CORRESPONDIENTE AL SEGUNDO LLAMADO NACIONAL 2006, TÍTULO I, DEL SISTEMA DE SUBSIDIO HABITACIONAL, Y DEJA SIN EFECTO CERTIFICADO QUE INDICA
+
+Resolución exenta Nº 6.699, de fecha 12 de diciembre de 2007 dispone la exclusión de don Bernardo Efraín Espinoza Arévalo, de las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al Segundo Llamado Nacional 2006, Título I, del Sistema de Subsidio Habitacional, y deja sin efecto Certificado de Subsidio Habitacional Serie A-2006 F02-15563 (Región del Libertador Bernardo O'Higgins), por las razones que en dicha resolución se expresan.
+
+Como consecuencia de lo anterior, se disminuye en uno el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al Segundo Llamado Nacional 2006, Título I, del Sistema de Subsidio Habitacional, disminuyéndose en 106 Unidades de Fomento (UF), el monto de recursos destinados a la atención de los postulantes seleccionados en ese llamado.-
+
+Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
