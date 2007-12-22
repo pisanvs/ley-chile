@@ -1,0 +1,7 @@
+Por resolución exenta Nº3.504, de 11 de diciembre de 2007, de esta Subsecretaría, modifícase la resolución exenta N°150 de 2007, modificada por resoluciones exentas Nº349, Nº408, Nº545, Nº969, Nº1.354, Nº1.489, Nº1.667, Nº2.268, Nº2.682, Nº3.101, Nº3.367 y Nº3.370, todas de 2007, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformmidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardinas en aguas interiores de la X Región", elaborados por el peticionario y aprobados por esta Subsecretaría, en el sentido de reemplazar su numeral 6º por el siguiente:
+
+"6.- Para los efectos de la presente pesca de investigación, se exceptúa a las naves participantes del cumplimiento de la veda biológica establecida mediante decreto exento Nº 239 de 1996, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores.
+
+Asimismo las capturas del recurso Sardina austral se entenderán exceptuadas del cumplimiento de las normas sobre reducción de recursos hidrobiológicos establecidas mediante D.S. Nº316 de 1985, Nº423 de 2001, Nº120 de 2003 y Nº169 de 2004, todos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
