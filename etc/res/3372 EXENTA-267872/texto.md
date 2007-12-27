@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.372, de 27 de noviembre de 2007, de esta Subsecretaría, autorízase a INDUSTRIA SEA CHANCE Y COMPAÑÍA LIMITADA para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta en camino El Águila Nº 1405, Hualqui, donde podrá elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 27 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
