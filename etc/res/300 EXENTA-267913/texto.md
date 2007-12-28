@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZO PARA INICIO DE OPERACIONES DEL CASINO DE JUEGO AUTORIZADO A SOCIEDAD OPERADORA CASINO GRAN LOS ÁNGELES S.A. EN COMUNA DE LOS ÁNGELES
+
+Por resolución exenta Nº 300, de 19 de diciembre de 2007, Superintendencia de Casinos de Juego concedió prórroga de plazo que solicitó sociedad operadora Casino Gran Los Ángeles S.A. para inicio de operaciones del casino de juegos autorizado en comuna de Los Ángeles. En virtud de prórroga concedida, plazo de 18 meses, contemplado en resolución exenta Nº 169, de 21 de julio de 2006, aclarada por resolución exenta Nº 199, de 26 de julio de 2006, y enmendada por resolución exenta Nº 29, de 2 de febrero de 2007, que le otorgó permiso de operación para casino de juego en dicha comuna, se extenderá hasta 24 meses, contado desde 29 de julio de 2006.
+
+Santiago, 20 de diciembre de 2007.- Superintendente de Casinos de Juego.
