@@ -1,0 +1,5 @@
+Por resolución exenta Nº3.209, de 12 de noviembre de 2007, de esta Subsecretaría, modifícase la resolución exenta Nº 176 de 2007, de esta Subsecretaría de Pesca que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Control y monitoreo biológico pesquero de la pesquería de congrio dorado (Genyp-terus blacodes) y raya (Dipturus sp) en aguas interiores de la XII Región de Magallanes y Antártica Chilena", en el sentido de incorporar en el numeral 5º, el siguiente inciso final:
+
+"Asimismo, autorízase una cuota de captura, a ser extraída en el marco de la presente pesca de investigación, ascendente a 30 toneladas de Congrio dorado la que se imputará a la fracción reservada para fines de investigación de la cuota global anual de captura de dicha especie, año 2007, establecida en el artículo 1º inciso 2º del decreto exento Nº 1.520 de 2006, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 12 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
