@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.279, de 15 de noviembre de 2007, de esta Subsecretaría, modifícase la resolución exenta Nº 854 de 2007, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico pesquero y bases para un plan de manejo de la pesquería de erizo, en la XII Región de Magallanes y Antártica Chilena", en el sentido que a continuación se indica:
+
+En el numeral 2º inciso 2º, en el sentido de señalar que las actividades extractivas sobre erizo podrán ser realizadas hasta el 15 de septiembre de 2007, inclusive entre el 20 de noviembre y el 20 de diciembre de 2007, ambas fechas inclusive; o en su defecto hasta completar un total de 1.000 toneladas de producto desembarcado, exceptuándose durante dicho período de la aplicación de la veda biológica del recurso erizo (Loxechinus albus), establecida en el decreto exento Nº 275 de 1999 del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 15 de noviembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
