@@ -16,7 +16,9 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécense, de lunes a viernes, excepto festivos, entre las 7:30 hrs. y las 10:00 hrs. y entre las 17:00 hrs. y las 21:00 hrs., como medidas de gestión de tránsito en la ciudad de Santiago, vías exclusivas para el transporte público, en los tramos y sentidos de circulación que se describen en los siguientes cuadros:
+1.- Establécense, como medida de gestión de tránsito en la ciudad de Santiago, vías exclusivas para el transporte público.
+
+Dichas vías, cuyos tramos y sentidos de circulación de exclusividad se describen en los siguientes cuadros, funcionarán de lunes a viernes, excepto festivos, entre las 7:30 hrs. y las 10:00 hrs., y entre las 17:00 y las 21:00 hrs., con excepción de los ejes correspondientes a San Pablo, Av. José Joaquín Pérez e Irarrázaval, que sólo operarán entre las 7:30 hrs. y las 10:00 hrs.
 
 a) EJE SANTA ROSA - MAC IVER
 
