@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.565, de 13 de diciembre de 2007, de esta Subsecretaría, amplíase por 12 meses, a contar del 1 de abril de 2007, el plazo otorgado por el numeral 5º de la resolución Nº855 de 1989, de esta Subsecretaría, a PESQUERA EL GOLFO S.A., el plazo para reiniciar actividades extractivas con la nave "Pelikan", respecto de los recursos Besugo Epigonus Crassicaudus y Reineta Brama Brama, en el área marítima comprendida entre la V Región y el paralelo 41° L.S., todo ello en virtud de haberse configurado la causal de fuerza mayor establecida en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura
+
+Valparaíso, 13 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
