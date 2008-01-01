@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA PALERMO
+
+Resolución exenta Nº 850 del 6 de septiembre del 2007, resolvió la clausura a partir de esta fecha de Estancia Palermo de propiedad de Morrison y Compañía Limitada, Roles 5111-127, 5111-128, 5111-129 y 5111-067 ubicados en la provincia de Magallanes. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 11 de diciembre 2007. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
