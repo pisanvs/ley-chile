@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIAS LAS CHARAS, VERANADA LAS CHARAS Y ADELA
+
+Resolución exenta Nº 765 del 16 de agosto del 2007, resolvió la clausura a partir de esta fecha de Estancias Las Charas, Veranada Las Charas y Adela de propiedad de Rodrigo Maclean Boyd, Roles 5121-0027, 5111-0007 y 5126-0030 ubicados en la provincia de Magallanes. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 11 de diciembre 2007. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
