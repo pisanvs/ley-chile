@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIAS SOLO SUR, LA VEGA, EL FARO Y LAS MERCEDES
+
+Resolución exenta Nº 322, del 22 de marzo de 2007, resolvió la clausura a partir de esta fecha de Estancias Solo Sur, La Vega, El Faro y Las Mercedes de propiedad de Eddie Vargas Macías, Roles 5106-049, 5106-067, 5106-68 y 5106-63, ubicados en la provincia de Magallanes. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+- Punta Arenas, 11 de diciembre de 2007.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
