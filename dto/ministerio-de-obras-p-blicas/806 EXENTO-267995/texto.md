@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 806, de fecha 30 de noviembre del 2007, se expropió el lote de terreno Nº 2, superficie 552,48 m2, Rol Nº 314-102, comuna de Pitrufquén, IX Región para la obra "Regadío Faja Maisan, Red Terciaria, Sector Huallizada. Obra Canal FM3-5", y se acordó el valor de indemnización con su propietaria Margarita del Carmen Sepúlveda Sepúlveda, ascendente a la cantidad de $410.779.
+
+Fiscal del Ministerio de Obras Públicas.
