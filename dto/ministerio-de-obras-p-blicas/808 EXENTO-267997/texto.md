@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 808, de 30 de noviembre de 2007, se expropiaron los lotes de terrenos Nºs. 2-A, 2-B y 2-C, superficies 46,00, 158,00 y 143,00 m2, Rol Nº 153-11, comuna de Chonchi, X Región para la obra "Reposición Puentes El Negro 1 y Pudú" Camino Huillinco-Cucao, Rol W-850 y se acordó el valor de indemnización con su propietario Álvaro Luis Flores Espinoza, ascendente a la cantidad de $1.756.961.
+
+Fiscal del Ministerio de Obras Públicas.
