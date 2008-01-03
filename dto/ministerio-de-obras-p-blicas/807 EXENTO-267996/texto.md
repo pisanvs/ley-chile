@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 807, de fecha 30 de noviembre del 2007, se expropió el lote de terreno Nº 5, superficie 115 m2, Rol Nº 301-88, comuna de Monte Patria, IV Región para la obra "Reposición Varios Puentes IV Región, Sector Puente Cárcamo", y se acordó el valor de indemnización con su propietaria María Magdalena Castillo Araya, ascendente a la cantidad de $471.794.
+
+Fiscal del Ministerio de Obras Públicas.
