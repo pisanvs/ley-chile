@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCION Nº 7.248, DE 14.12.07, QUE MODIFICA DISPOSICIONES DEL CAPÍTULO IV DEL COMPENDIO DE NORMAS ADUANERAS, RELATIVAS A LA TRANSMISIÓN ELECTRÓNICA DE LAS ACLARACIONES AL DOCUMENTO ÚNICO DE SALIDA
+
+Reemplaza instrucciones relativas a errores y márgenes de tolerancia por diferencias de peso de las mercancías registradas en los controles de ingreso a zona primaria y el efectivamente embarcado, estableciéndose un procedimiento para declarar y subsanar dichas diferencias y errores.
