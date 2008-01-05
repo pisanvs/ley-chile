@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.693, de 27 de diciembre de 2007, de esta Subsecretaría, deniégase la solicitud presentada por COMPAÑÍA PESQUERA CAMANCHACA S.A., para otorgar un permiso extraordinario de pesca del recurso Langostino amarillo, por transferencia de la resolución Nº 1.258 de 2000, de esta Subsecretaría.
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
