@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.594, de 19 de diciembre de 2007, de esta Subsecretaría, autorízase a PESQUERA GRIMAR S.A. para ampliar actividades pesqueras de transformación autorizadas por resoluciones citadas en Visto, para incorporar a la planta ubicada en camino a Parque Industrial Escuadrón Sur, manzana A, lote 10, Coronel, en las líneas de proceso de Fresco Enfriado y Congelado, el recurso Krill.
+
+Valparaíso, 19 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
