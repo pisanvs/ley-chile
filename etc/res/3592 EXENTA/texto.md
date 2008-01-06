@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.592, de 19 de diciembre de 2007, de esta Subsecretaría, autorízase a GEOMAR S.A., para ampliar actividades pesqueras de transformación autorizadas por resoluciones citadas en visto, para incorporar a la planta ubicada en Avenida Forestal Nº 1108, Parque Industrial Coronel, Coronel, en las líneas de proceso de Fresco Enfriado, Fresco Refrigerado, Congelado y Conserva, el recurso Channeled Wheel.
+
+Valparaíso, 19 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
