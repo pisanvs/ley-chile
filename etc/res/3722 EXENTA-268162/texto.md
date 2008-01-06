@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.722, de 27 de diciembre de 2007, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 205111420 presentada por SALMONES MULTIEXPORT LIMITADA, para modificar la concesión de acuicultura, otorgada por resolución Nº 1.706 de 2004, de la Subsecretaría de Marina, al sureste de Isla Level, XI Región.
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
