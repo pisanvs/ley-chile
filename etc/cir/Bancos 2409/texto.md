@@ -5428,491 +5428,237 @@ No obstante lo anterior, excepcionalmente, con el previo visto bueno de uno de s
 
 Las instituciones financieras que reciban cheques y documentos girados sobre bancos que no tengan presencia en la misma plaza de la oficina depositaria ni en plazas que concurran a la misma localidad de cámara a la que ella concurre, y realicen el cobro por intermedio de un banco corresponsal, operarán a través de una cuenta corriente que mantendrán con dicho corresponsal y que se utilizará exclusivamente para ese fin.
 
-CAPITULO 4-1 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 4-1
 
 ENCAJE.
 
-I.- DISPOSICIONES GENERALES.
-
-De conformidad con las disposiciones contenidas en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, las empresas bancarias y sociedades financieras deben cumplir con las exigencias de encaje sobre sus depósitos, captaciones y otras obligaciones, que se indican en los títulos siguientes.
-
-Para el cumplimiento de la exigencia señalada, las instituciones financieras deberán atenerse a los siguientes criterios generales:
+Para el cumplimiento del encaje dispuesto en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, los bancos deberán atenerse a los siguientes criterios generales:
 
 ### 1. Períodos de encaje
 
-El encaje de que trata el presente Capítulo será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, ambos días inclusive.
+El encaje será calculado por "períodos mensuales", que corresponderán al lapso comprendido entre el día 9 de un mes y el día 8 del mes siguiente, ambos días inclusive.
 
 La exigencia de encaje se calculará sobre la base de los saldos promedios que registren en un "período mensual" los depósitos, captaciones y otras obligaciones que se consideran para el efecto. El encaje exigido así determinado, deberá ser mantenido como promedio en el "período mensual" inmediatamente siguiente.
 
-Los promedios antes señalados se determinarán considerando los saldos vigentes durante los días corridos del respectivo "período mensual".
+Los promedios antes señalados se determinarán considerando los saldos al cierre de cada uno de los días corridos del respectivo "período mensual"."
 
-2.- Equivalencia en dólares de los saldos en otras monedas extranjeras.
+### 2. Monto de una operación afecta a encaje
 
-Para determinar la equivalencia en dólares de los Estados Unidos de América de los saldos en monedas extranjeras, se convertirán los respectivos saldos diarios a dólares, de acuerdo con las paridades publicadas por el Banco Central de Chile de conformidad con lo dispuesto en el N° 6 del Capítulo I del Compendio de Normas de Cambios Internacionales, el último día hábil bancario del mes calendario inmediatamente precedente.
+Para computar las obligaciones afectas a encaje no se considerarán los intereses o reajustes devengados que no hayan sido capitalizados o que no se hayan imputado aún a las cuentas de depósito que los originen.
 
-### 3. Intereses y reajustes
+En el caso de las obligaciones por préstamos de valores, se computará el monto del pasivo por ese concepto.
 
-Para los efectos de computar las obligaciones afectas a encaje de que trata este Capítulo, no se considerarán los reajustes e intereses por pagar que deben registrarse en cuentas complementarias de conformidad con las disposiciones vigentes. Por consiguiente, las menciones que más adelante se hacen a partidas o cuentas, deben entenderse referidas a los saldos sin incluir los de esas cuentas complementarias.
+3. Depósitos y otras obligaciones a la vista en moneda chilena y extranjera afectos a encaje.
 
-### 4. Plazo de vencimiento de los documentos de depósitos o captación
+Se entiende que al término de un día constituyen obligaciones la vista para efectos de encaje, aquellas cuyo pago pudo ser requerido legalmente ese día, con excepción de las cuentas de ahorro a plazo con giro incondicional y con giro diferido y los depósitos por consignaciones judiciales, que para efectos de encaje se consideran como operaciones a plazo.
 
-Los plazos de vencimiento de los depósitos o documentos de captación, que determinarán la tasa de encaje a que la obligación quedará afecta, se refieren al lapso que debe transcurrir entre la constitución del depósito o suscripción del documento de captación o su renovación, según sea el caso, y la fecha en que el acreedor de la institución financiera tiene derecho a recuperar el total o parte del capital o intereses, en el caso de operaciones no reajustables y del total o parte del capital o reajustes, si se trata de operaciones reajustables
+Por consiguiente, para determinar la exigencia de encaje para operaciones a la vista, corresponde computar solamente los tipos de obligaciones que deben mostrarse en el rubro "Depósitos y otras obligaciones a la vista" según las instrucciones del Capítulo C-3 del Compendio de Normas Contables, salvo los depósitos por consignaciones judiciales.
 
-En el caso de la obtención de recursos mediante venta de documentos con pacto de retrocompra, el plazo de que se trata será el que medie entre la fecha de venta del documento y la fecha fijada para su retrocompra
+Dado que los depósitos y otras obligaciones de plazo vencido que no se hayan pagado, deben ser computados como obligaciones a la vista hasta la fecha en que dichos valores sean restituidos a sus beneficiarios, los bancos no deben dar de baja las captaciones a su vencimiento mediante el giro de cheques u otros documentos similares, antes de que el pago de dichos valores sea requerido por los interesados.
 
-5.- Excedentes de encaje.
+En el caso de las renovaciones automáticas de captaciones, las operaciones se seguirán considerando a plazo durante los tres días hábiles bancarios de que dispone el titular para su retiro.
+
+Del monto total de los depósitos y otras obligaciones a la vista podrán deducirse los valores en cobro registrados en las cuentas "canje de la plaza" y "canje de otras plazas" según lo indicado en el Capítulo D-4 del Compendio de Normas Contables.
+
+### 4. Depósitos y otras obligaciones a plazo en moneda chilena y extranjera
+
+4.1. Cómputo de los plazos.
+
+Los plazos a que se refieren las normas de encaje corresponden al lapso entre la constitución del depósito o suscripción del documento de captación o su renovación, según sea el caso, y la fecha en que el acreedor del banco tiene derecho a recuperar el total o parte del capital o intereses, en el caso de operaciones no reajustables y del total o parte del capital o reajustes, si se trata de operaciones reajustables.
+
+En el caso de la obtención de recursos mediante venta de documentos con pacto de retrocompra, los plazos de que se trata son los que medien entre la fecha de venta y la fijada para su recompra. Por otra parte, al tratarse de fondos obtenidos por ventas cortas, los plazos se computan desde las fechas de venta de los instrumentos financieros hasta el vencimiento de las operaciones de préstamo de valores.
+
+4.2. Operaciones a plazo afectas a encaje.
+
+Quedan afectos a encaje todos los depósitos a plazo y las cuentas de ahorro a plazo, cualquiera sea su plazo y quien quiera sea el depositante.
+
+Además, quedan afectas a encaje las obligaciones contraídas por una obtención de recursos o financiamientos, en el país o en el exterior, salvo que se trate de:
+
+a) Captaciones de fondos a más de un año plazo.
+
+b) Obligaciones con otros bancos del país o con el Banco Central de Chile.
+
+c) Captaciones en moneda chilena realizadas mediante ventas con pacto de retrocompra de pagarés o bonos emitidos por el Banco Central de Chile o por la Tesorería General de la República. La exención de encaje no alcanzará a la parte de los fondos obtenidos que superen el valor razonable de esos instrumentos a la fecha de la venta.
+
+d) Obligaciones contraídas por ventas cortas de instrumentos emitidos por el Banco Central de Chile en virtud de operaciones de mercado abierto.
+
+e) Obligaciones contraídas con personas situadas en el país por financiamientos tales como negociación de cartas de crédito a plazo confirmadas.
+
+5. Obligaciones afectas a reserva técnica, artículo 65 Ley General de Bancos.
+
+De acuerdo con lo indicado en el artículo 65 de la Ley General de Bancos, las obligaciones afectas a la reserva técnica no están afectas a la exigencia de encaje de que trata este Capítulo.
+
+Por consiguiente, los bancos que deban constituir reserva técnica por los pasivos que mantengan al cierre del respectivo día, deducirán del importe neto de canje de las obligaciones a la vista de que trata el N° 3 de este Capítulo, el monto neto que de las mismas obligaciones se computa para constituir dicha reserva técnica según lo indicado en el Capítulo 4-2 de esta Recopilación, excepto el importe de las cuentas de ahorro a plazo con giro incondicional, el que será deducido de las obligaciones a plazo a que se refiere el N° 4 precedente. Esta última deducción quedará sujeta a la condición de que el monto de la reserva técnica constituida sea superior al importe de las cuentas de ahorro a plazo que se deduce. En caso contrario, se deducirá sólo la parte por la que se haya constituido reserva técnica.
+
+### 6. Excedentes de encaje
 
 Los excedentes de encaje en moneda nacional no pueden utilizarse para cubrir déficit de encaje en dólares de los Estados Unidos de América. A su vez, los excedentes de encaje en dólares de los Estados Unidos de América, no se pueden emplear para cubrir déficit de encaje en moneda chilena.
 
-6. Obligaciones afectas a reserva técnica, art. 65 Ley General de Bancos.
+### 7. Encaje sobre depósitos y otras obligaciones en moneda chilena
 
-El monto de las obligaciones afectas a la reserva técnica de que tratan el Capítulo III.A.4 del Compendio de Normas Financieras del Banco Central de Chile y el Capítulo 4-2 de esta Recopilación, no estarán afectos a la exigencia de encaje de que trata este Capítulo.
+7.1. Tasas de encaje.
 
-II.-ENCAJE SOBRE DEPOSITOS, CAPTACIONES Y OTRAS OBLIGACIONES EN MONEDA CHILENA.
+Los depósitos y otras captaciones u obligaciones en moneda nacional sujetos a encaje estarán afectos a las siguientes tasas:
 
-Las empresas bancarias y las sociedades financieras conformarán la exigencia de encaje sobre depósitos, captaciones y otras obligaciones en moneda chilena, con sujeción a las siguientes instrucciones:
+Tipo de obligación Tasa
 
-### 1. Tasas de encaje
+Depósitos a la orden judicial (artículo 515 Código 3,6%
 
-Los depósitos, captaciones y otras obligaciones en moneda nacional, que mantengan las empresas bancarias y las sociedades financieras, estarán afectos a las siguientes tasas de encaje:
+Orgánico de Tribunales)
 
-1.1.1. Depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial.
+Otros depósitos y obligaciones a la vista 9%
 
-Los depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial efectuados conforme al artículo 517 del Código Orgánico de Tribunales, estarán afectos a una tasa de encaje de 9%.
+Depósitos desde un día plazo y cuentas de ahorro a plazo 3,6%
 
-1.1.2. Depósitos a la orden judicial.
+Otras captaciones desde un día hasta un año plazo 3,6%
 
-Los depósitos a la orden judicial estarán afectos al 3,6 de encaje.
+7.2 Encaje mantenido.
 
-1.2. Depósitos, captaciones y obligaciones a plazo.
+El encaje mantenido deberá estar compuesto sólo por los siguientes fondos en moneda chilena:
 
-Los depósitos, captaciones y obligaciones a plazo, desde 30 días y hasta un año y los depósitos a más de un año plazo, estarán afectos a una tasa de 3,6%.
+a) Billetes y monedas de curso legal del país de propiedad del banco, con excepción de los que se encontraren en custodia en otro banco.
 
-Las demás captaciones a más de un año no estarán afectas a encaje.
+## Capítulo 4-1
 
-2. Cuentas de depósitos, captaciones y obligaciones en moneda nacional afectas a encaje.
-
-2.1. Cuentas de depósitos, captaciones y obligaciones a la vista.
-
-2.1.1. Depósitos, captaciones y obligaciones a la vista, distintos de los depósitos a la orden judicial.
-
-Estarán afectos a encaje a la tasa señalada en el numeral 1.1.1 anterior, los saldos de las cuentas que se demuestren en las siguientes partidas del MB1:
-
-N° 3005 "Acreedores en cuentas corrientes.
-
-N° 3010 "Otros saldos acreedores a la vista (exceptuados los depósitos por consignaciones judiciales artículo 517).
-
-N° 3015 "Cuentas de depósito a la vista"
-
-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista.
-
-2.1.2. Depósitos a la orden judicial
-
-Estará afecto a encaje a la tasa señalada en el numeral 1.1.2 anterior, el saldo de la cuenta "Depósitos por consignaciones judiciales artículo 517", de la partida 3010.
-
-La nueva tasa de encaje para los depósitos a la orden judicial será aplicable a contar del "período mensual" de encaje que finaliza el 8 de enero en curso.
-
-2.2. Cuentas de depósitos, captaciones y obligaciones a Plazo.
-
-Estarán afectos a encaje, a la tasa indicada en el numeral 1.2 anterior, las cuentas de las partidas que se indican a continuación:
-
-- N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días";
-
-- N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
-
-- N° 3030 "Otros saldos acreedores a plazo";
-
-- N° 3035 "Depósitos de ahorro a plazo";
-
-- N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" de que trata el Capítulo 2-7 de esta Recopilación.
-
--N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo.
-
-2.3. Contenido de la partida 3010 " Otros saldos acreedores a la vista"
-
-Las instituciones financieras deberán cumplir fielmente las instrucciones contenidas en el Manual del MB1, en el sentido de registrar en las cuentas que integran la partida 3010, todos los conceptos que en la parte pertinente del referido manual se detallan y, en general, todos los compromisos propios del giro de la empresa, a menos de 30 días, para los cuales no se haya establecido específicamente una partida.
-
-En consecuencia, todos los depósitos, captaciones y obligaciones de plazo vencido deberán registrarse como "Otros saldos acreedores a la vista" hasta la fecha en que dichos valores sean restituidos a sus beneficiarios.
-
-Conforme con lo anteriormente expresado, las referidas instituciones no deben dar de baja las captaciones a su vencimiento, mediante el giro de cheques u otros documentos similares, antes de que el pago de dichos valores sea requerido por los interesados.
-
-### 3. Importes que pueden deducirse de las obligaciones afectas a encaje
-
-3.1.- Canje deducible.
-
-Las instituciones financieras podrán deducir diariamente de los depósitos y obligaciones a la vista afectos a encaje, la suma de los saldos de las cuentas que conforman la partida 1015, con excepción de la cuenta "Canje no deducible".
-
-Las sociedades financieras podrán deducir de sus obligaciones a plazo afectas a encaje, el excedente diario que se produzca cuando el saldo de las cuentas antes señaladas sea superior a sus depósitos y obligaciones a la vista sujetas a encaje.
-
-3.2 Compensación por pago de Ordenes de Pago.
-
-Los bancos distintos al banco librado, podrán deducir de sus depósitos y captaciones, cuando corresponda, una compensación por los desembolsos efectuados para pagar las Ordenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley N° 17.671, tratadas en el Capítulo 5-2 de esta Recopilación. El monto de este deducible se determinará según lo indicado por el Banco Central de Chile en el Capítulo III.A.1.1 del Compendio de Normas Financieras y se registrará en la cuenta de orden "Compensación Ordenes de Pago Ley 17.671", de la partida 9160.
-
-3.3 Obligaciones por las cuales deben constituir reserva técnica.
-
-Los bancos y sociedades financieras podrán deducir diariamente de sus obligaciones a la vista netas afectas a encaje, las obligaciones por las cuales deban constituir la reserva técnica de que trata el Capítulo 4-2 de esta Recopilación. En caso de que las obligaciones a la vista netas fueran inferiores al monto deducible, el remanente podrá ser rebajado de las obligaciones a plazo afectas a encaje.
-
-3.4. Período de deducción.
-
-Los importes deducibles de que tratan los numerales precedentes podrán detraerse de las obligaciones afectas a encaje sólo por un día hábil bancario, salvo en el caso de los documentos registrados en la cuenta "Canje de otras plazas", en el que la deducción podrá hacerse hasta por dos días hábiles bancarios, conforme al tratamiento contable establecido en el Capítulo 5-1 de esta Recopilación.
-
-### 4. Encaje exigido y mantenido
-
-4.1. Encaje exigido.
-
-El encaje exigido considerará el promedio en el "período mensual" de las respectivas obligaciones mencionadas en el N° 2 de este título, previa deducción de los importes que diariamente correspondan, según lo indicado en el N° 3 precedente.
-
-4.2 .Encaje mantenido.
-
-El encaje mantenido deberá estar compuesto solo por los siguientes fondos en moneda chilena:
-
-a) Billetes y monedas de curso legal del país, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en tránsito al Banco Central de Chile o en custodia en empresas transportadoras de valores.
+Hoja 4
 
 b) Depósitos en cuenta corriente en el Banco Central de Chile.
 
-c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capitulo 4-2 de esta Recopilación Actualizada de Normas.
-
-Por consiguiente, son computables como encaje mantenido todos los saldos en moneda chilena que se incluyan, conforme a las normas vigentes, en las siguientes cuentas: i) las de la partida 1005, con excepción de la cuenta "Depósitos en custodia en otras instituciones financieras", y, ii) las cuentas "Depósitos en cuenta corriente en el Banco Central de Chile" y "Remesa de efectivo en tránsito al Banco Central", ambas de la partida 1010.
+c) Otros depósitos a la vista en el Instituto Emisor, con excepción de aquellos efectuados con el solo objeto de constituir la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación.
 
 Con todo, no pueden ser empleados para constituir encaje aquellos fondos que se hayan utilizado, a la vez, para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación.
 
-4.3 Depósitos en el Banco Central de Chile.
+7.3. Compensación por pago de Órdenes de Pago.
+
+Los bancos distintos al banco librado, podrán deducir de sus obligaciones a la vista, siempre que no hayan obtenido el pago de tales documentos por el banco librado, una compensación por los desembolsos efectuados para pagar las Órdenes de Pago emitidas por las instituciones de previsión al amparo del artículo 15 de la Ley N° 17.671, tratadas en el Capítulo 5-2 de esta Recopilación. El monto de este deducible se determinará según lo indicado por el Banco Central de Chile.
+
+7.4. Depósitos en el Banco Central de Chile.
 
 Los depósitos en el Banco Central de Chile sólo podrán efectuarse en dinero efectivo o en cheques girados contra las cuentas corrientes que se mantengan en el Banco Central de Chile. El valor de estos cheques se excluirá del canje y será cargado en la cuenta corriente del girador el mismo día en que se efectúe el depósito.
 
-En el caso que una institución financiera le solicite a otra el giro de cheques sobre el Banco Central de Chile, no se considerarán fondos disponibles los que provengan de depósitos en cuenta corriente efectuados con vales vista u otros documentos de otras empresas bancarias o sociedades financieras, aun cuando sean de la misma plaza. Por lo tanto, cuando esta situación se presente, la institución financiera requerida no estará obligada a entregar el cheque sobre el Banco Central de Chile hasta tanto no haya recibido efectivamente el pago de tales documentos.
+En el caso que una institución financiera le solicite a otra el giro de cheques sobre el Banco Central de Chile, no se considerarán fondos disponibles los que provengan de depósitos en cuenta corriente efectuados con vales vista u otros documentos de otras empresas bancarias, aun cuando sean de la misma plaza. Por lo tanto, cuando esta situación se presente, la institución financiera requerida no estará obligada a entregar el cheque sobre el Banco Central de Chile hasta tanto no haya recibido efectivamente el pago de tales documentos.
 
-### 5. Pago de intereses por encaje
+### 8. Encaje sobre depósitos y otras obligaciones en monedas extranjeras
 
-El Banco Central de Chile pagará intereses sobre el encaje exigido por los depósitos a plazo en moneda chilena, en las condiciones y plazos dispuestos en el Capitulo III.A.2 del Compendio de Normas Financieras del Instituto Emisor.
+8.1. Tasas de encaje.
 
-Los bancos y sociedades financieras abonarán los intereses devengados por el concepto anteriormente indicado en la cuenta "Intereses ganados sobre encaje exigido", de la partida 7200.
+Los depósitos y otras captaciones u obligaciones en moneda extranjera sujetos a encaje estarán afectos a las siguientes tasas:
 
-III.- ENCAJE SOBRE DEPOSITOS, CAPTACIONES Y OTRAS OBLIGACIONES EN MONEDAS EXTRANJERAS.
+Tipo de obligación Tasa
 
-Las empresas bancarias conformarán la exigencia de encaje sobre depósitos, captaciones y otras obligaciones en monedas extranjeras, con sujeción a las siguientes instrucciones:
+Depósitos y otras obligaciones a la vista 9%
 
-### 1. Tasas de encaje
+Depósitos desde un día plazo y cuentas de ahorro a plazo 3,6%
 
-Los depósitos, captaciones y otras obligaciones en monedas extranjeras estarán afectos a las siguientes rasas de encaje:
+Otras captaciones desde un día hasta un año plazo 3,6%
 
-1.1. Depósitos, captaciones y obligaciones a la vista
+Obligaciones con el exterior pactadas hasta un año plazo 3,6%
 
-Los depósitos, captaciones y obligaciones a la vista estarán afectos a una tasa de encaje de 9%.
+8.2. Encaje mantenido.
 
-1.2. Depósitos, captaciones y obligaciones hasta un año plazo.
+El encaje mantenido deberá estar compuesto sólo por los siguientes fondos en dólares de los Estados Unidos de América:
 
-Los depósitos, captaciones y obligaciones a plazo, cualquiera que sea su naturaleza, estarán afectos a una tasa de encaje de 3,6%.
+a) Billetes y monedas de propiedad del banco, salvo que se encuentren en custodia en otro banco o en empresas transportadoras de valores. No obstante, podrán computarse los dólares custodiados por estas últimas si se trata de billetes o monedas que se encuentren en tránsito desde o hacia oficinas del banco.
 
-2. Cuentas de depósitos, captaciones y obligaciones en monedas extranjeras afectas a encaje.
+b) Depósitos mantenidos en cuenta corriente en el Banco Central de Chile. Aquellos fondos de las cuentas corrientes que se utilicen para efectuar depósitos del tipo "overnight" no pueden ser computados como encaje mantenido.
 
-Quedarán sujetos a encaje, a las tasas precedentemente indicadas, los saldos de las cuentas que se incluyen en las siguientes partidas:
+c) Depósitos mantenidos en la "Cuenta Especial de Encaje en Moneda Extranjera" en el Banco Central de Chile.
 
-a) Obligaciones a la vista.
+Con todo, los fondos en dólares que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación no pueden, a su vez, ser empleados para constituir el encaje mantenido.
 
-N° 3005 "Acreedores en cuentas corrientes"
+8.3. Equivalencia en dólares de los saldos en otras monedas extranjeras.
 
-N° 3010 "Otros saldos acreedores a la vista"
+Para determinar la equivalencia en dólares de los Estados Unidos de América de las obligaciones en otras monedas extranjeras, los respectivos saldos diarios se convertirán de acuerdo con las paridades publicadas por el Banco Central de Chile según lo dispuesto en el N° 6 del Capítulo I del Compendio de Normas de Cambios Internacionales, el último día hábil bancario del mes calendario inmediatamente precedente.
 
-N° 3015 "Cuentas de depósito a la vista"
+Por consiguiente, en un período de encaje regirán dos tipos de paridades fijas: las que deben usarse desde el día 9 hasta el último día de un mes y las que deben utilizarse desde el primer día de un mes hasta el día 8 de ese mismo mes.
 
-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a la vista.
+## Capítulo 4-2
 
-b) Obligaciones a plazo.
-
-N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días"
-
-N° 3025 "Depósitos y captaciones a plazo de 90 días a un año"
-
-N° 3030 "Otros saldos acreedores a plazo"
-
-N° 3035 "Depósitos de ahorro a plazo"
-
-N° 3065 "Depósitos y captaciones", con excepción de la cuenta "Captaciones a más de un año exentas de encaje" de que trata el Capítulo 2-7 de esta Recopilación.
-
-N°s. 3110 y 3115: sólo las cuentas correspondientes a las obligaciones afectas al encaje para operaciones a plazo.
-
-3.- Deducción del canje de las obligaciones afectas a encaje.
-
-Los bancos podrán deducir diariamente de sus depósitos, captaciones y obligaciones a la vista afectos a encaje, el saldo de las cuentas "Canje de la plaza" y "Canje de otras plazas", en la respectiva moneda extranjera La permanencia de los importes registrados en la cuenta "Canje de la plaza" será de un día hábil bancario, en tanto que para los contabilizados en la cuenta "Canje de otras plazas", será de dos días hábiles bancarios.
-
-### 4. Encaje exigido y mantenido
-
-4.1. Encaje exigido.
-
-El encaje exigido correspondiente a los depósitos y captaciones en moneda extranjera de que trata el N° 2 de este título, se determinará en dólares de los Estados Unidos de América, considerando las paridades señaladas en el N° 2 del título I y las deducciones de que trata el N° 3 precedente.
-
-4.2. Encaje mantenido.
-
-El encaje mantenido deberá estar compuesto sólo por los siguientes fondos:
-
-a) Billetes y monedas correspondientes a dólares de los Estados Unidos de América, ya sea que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa o en tránsito al Banco Central de Chile; y,
-
-b) Depósitos en dólares de los Estados Unidos de América mantenidos en cuenta corriente en el Banco Central de Chile.
-
-c)Depósitos en dólares de los Estados Unidos de América mantenidos en la cuenta" "Cuenta especial de encaje en moneda extranjera" en el Banco Central de Chile.
-
-Con todo, los fondos en dólares de los Estados Unidos de América que hayan sido utilizados para enterar la reserva técnica a que se refiere el Capítulo 4-2 de esta Recopilación no pueden, a su vez, ser empleados para constituir el encaje mantenido.
-
-4.3.- Depósitos "overnight" en el Banco Central de Chile.
-
-Aquellos fondos de las cuentas corrientes que se utilicen para efectuar depósitos del tipo "overnight", deberán traspasarse a la cuenta "Depósitos "overnight" en el Banco Central de Chile", tanto para los efectos de control como para excluir dichos fondos del cómputo del encaje mantenido.
-
-IV.- ENCAJE SOBRE OBLIGACIONES CON EL EXTERIOR.
-
-Los bancos darán cumplimiento a la exigencia de encaje sobre las obligaciones con el exterior, de acuerdo con las siguientes instrucciones:
-
-1.- Tasa de encaje.
-
-Las obligaciones contraídas con el exterior hasta un año plazo, estarán afectas a una tasa de encaje del 3,6%.
-
-2.- Obligaciones afectas a encaje.
-
-Quedan sujetas al encaje de que trata este titulo, las obligaciones con el exterior hasta un año plazo y que se demuestran en las siguientes partidas:
-
-N° 3505 "Adeudado a bancos del exterior por financiamiento de importaciones y
-
-exportaciones".
-
-N° 3510 "Adeudado a bancos del exterior por otras obligaciones".
-
-N° 3515 "Adeudado a oficinas del mismo banco".
-
-N° 3520 "Corresponsables ALADI-Banco Central".
-
-N° 3525 "Otros préstamos y obligaciones".
-
-3.- Encaje exigido y mantenido.
-
-3.1.- Encaje exigido.
-
-El encaje exigido por las obligaciones de que trata este título IV se determinará en dólares de los Estados Unidos de América, considerando las paridades señaladas en el N° 2 del título I.
-
-3.2.- Encaje mantenido.
-
-El encaje mantenido deberá estar compuesto sólo por los fondos señalados en el numeral 4.2 del título III de este Capítulo.
-
-VI.- ELIMINADA.
-
-ANEXO N°1
-
-PARTIDAS Y CUENTAS DEL SISTEMA CONTABLE QUE PARTICIPAN EN LA DETERMINACION Y MANTENCION DE ENCAJE Y RESERVA TECNICA
-
-A continuación se señalan los principales indicadores que guardan relación con el control del cumplimiento de las normas del presente Capítulo 4-1 y del Capítulo 4-2 de esta Recopilación Actualizada de Normas y que esta Superintendencia obtiene del cómputo de los saldos de las partidas, cuentas y subcuentas informadas en el archivo C03 del Sistema Contable que en cada caso se indican:
-
-.
-
-CAPITULO 4-2 (Bancos y Financieras)
-
-MATERIA:
-
-RESERVA TECNICA ARTICULO 65 DE LA LEY GENERAL DE BANCOS.
-
-### I. OBLIGACIONES AFECTAS A RESERVA TECNICA Y FORMA DE CONSTITUIRLA
+RESERVA TÉCNICA ARTÍCULO 65 DE LA LEY GENERAL DE BANCOS.
 
 ### 1. Obligación de constituir reserva técnica
 
-De conformidad con las disposiciones contenidas en el artículo 65 de la Ley General de Bancos, las instituciones financieras cuyas obligaciones a la vista en moneda chilena y extranjera indicadas en el número 2 siguiente que, en conjunto y previa deducción de los valores señalados en el número 4 de este título, superen el monto equivalente a dos y media veces su capital pagado y reservas, deberán mantener el 100% del importe que corresponda a ese exceso, en alguna de las formas que se establecen en este capítulo.
+De conformidad con las disposiciones contenidas en el artículo 65 de la Ley General de Bancos, los bancos cuyas obligaciones a la vista, en los términos establecidos en ese artículo, superen el monto equivalente a dos y medía veces su patrimonio efectivo, deberán mantener el 100% del importe que corresponda a ese exceso, en caja o en una reserva técnica.
 
-Para los efectos de las presentes instrucciones, se denominará "reserva técnica" a la suma de los recursos que las entidades financieras mantengan con la finalidad de dar cumplimiento a lo dispuesto en el artículo 65 de la Ley General de Bancos.
+Para los efectos de las presentes instrucciones, se de nominará "reserva técnica" a la suma de los recursos que los bancos deben mantener para dar cumplimiento a lo dispuesto en el artículo 65 antes mencionado.
 
-### 2. Obligaciones a la vista afectas a reserva técnica
+### 2. Obligaciones afectas a reserva técnica
 
-Las obligaciones en moneda chilena y extranjera que se considerarán para determinar el importe que estará afecto a reserva técnica, serán las que se incluyen en las siguientes partidas:
+Lo exigido en el artículo 65 de la Ley General de Bancos debe cumplirse diariamente, de manera que los bancos deben llevar día a día el cómputo de sus obligaciones afectas, a fin de determinar el monto por las que deben enterar reserva técnica.
 
-- N° 3005 "Acreedores en cuentas corrientes";
+De acuerdo con la Ley, están afectas a reserva técnica todas las obligaciones a la vista, en moneda chilena o extranjera, contraídas dentro del giro financiero de los bancos y que no correspondan a pasivos con otras empresas bancarias del país o del exterior.
 
-- N° 3010 "Otros saldos acreedores a la vista";
+La exigibilidad de reserva técnica debe determinarse al cierre de cada día. Se entiende que al término de un día constituyen obligaciones a la vista, aquellas cuyo pago pudo ser requerido legalmente ese día.
 
-- N° 3015 "Cuentas de depósito a la vista";
+Por consiguiente, para determinar la exigencia diaria de reserva técnica se computarán los tipos de obligaciones con personas distintas a otros bancos que deben mostrarse en el rubro "Depósitos y otras obligaciones a la vista", según las instrucciones del Capítulo C-3 del Compendio de Normas Contables, y los saldos de las cuentas de ahorro a plazo con giro incondicional.
 
-- N° 3035 "Depósitos de ahorro a plazo" (sólo las cuentas de ahorro a plazo con giro incondicional);
+de los montos totales de esos pasivos podrán deducirse los valores en cobro registrados en las cuentas "canje de la plaza" y "canje de otras plazas" de que trata el Capítulo D-4 del Compendio de Normas Contables.
 
-- N° 3425 "Otras obligaciones" (sólo la cuenta "Obligaciones con establecimientos afiliados por el uso de tarjetas de crédito").
+Para determinar el equivalente en pesos de las obligaciones en moneda extranjera, se aplicará el tipo de cambio indicado en el N° 8 del presente Capítulo.
 
-Además, de acuerdo a lo señalado en la ley, se entenderán también como obligaciones a la vista para estos efectos, los depósitos y captaciones a plazo en moneda chilena y extranjera, incluidos los depósitos renovables, desde el décimo día que preceda al de su vencimiento. Para ese efecto, deben considerarse las obligaciones que se reflejan en las partidas que se indican a continuación y que cumplan tales condiciones, incluyendo sus respectivos reajustes e intereses por pagar:
+### 3. Constitución de la reserva técnica
 
-- N° 3020 "Depósitos y captaciones a plazo de 30 a 89 días";
+3.1. Reserva técnica mantenida.
 
-- N° 3025 "Depósitos y captaciones a plazo de 90 días a un año";
+La reserva técnica debe constituirse el mismo día en que se genere su exigencia o a más tardar el día hábil bancario siguiente a aquel sobre cuyos saldos de cierre se determina su exigibilidad.
 
-- N° 3030 "Otros saldos acreedores a plazo";
+3.2. Recursos que pueden utilizarse.
 
-- N° 3035 "Depósitos de ahorro a plazo" (sólo las cuentas de ahorro a plazo con giro diferido);
+La reserva técnica puede enterarse con los siguientes recursos, sin perjuicio de lo indicado en los N°s 4 y 5 de este Capítulo:
 
-- N° 3065 "Depósitos y captaciones";
+a) Billetes y monedas de curso legal en el país o monedas extranjeras que sean de propiedad del banco, mantenidos en el país, con excepción de los que se encontraren en custodia en otro banco.
 
-- N° 3305 "Letras de crédito en circulación con amortización indirecta";
+b) Depósitos mantenidos en el Banco Central de Chile en la "Cuenta Depósito para Reserva Técnica".
 
-- N° 3310 "Letras de crédito en circulación con amortización directa"; y,
+c) Depósitos en moneda extranjera mantenidos en cuenta corriente en el Banco Central de Chile y depósitos "overnight" en el Banco Central de Chile pagaderos al día siguiente.
 
-- N° 3315 "Cupones por vencer".
+d) Documentos emitidos por el Banco Central de Chile o la Tesorería General de la República, siempre que:
 
-También quedan comprendidos en estas obligaciones los depósitos a plazo cuyos titulares hayan requerido el retiro anticipado y la entidad depositaria haya consentido en restituirlos antes del vencimiento.
+i. Se trate de instrumentos transables en el mercado;
 
-Para determinar el equivalente en pesos de las obligaciones en moneda extranjera comprendidas en las citadas partidas, se aplicará el tipo de cambio señalado en el N° 11 de este título.
+ii. El banco esté en posesión material de los respectivos instrumentos o estos se encuentren depositados en custodia en el Banco Central de Chile o en una empresa de depósito y custodia de valores a que se refiere la Ley N° 18.876; y
 
-Debe tenerse presente que la obligación impuesta en el artículo 65 de la Ley General de Bancos debe cumplirse diariamente, de manera que los bancas y sociedades financieras deben llevar día a día el cómputo de sus obligaciones afectas, a fin de determinar el monto de éstas por las que deben enterar reserva técnica.
+iii. Correspondan a instrumentos adquiridos en forma pura y simple, sin pactos de cualquier naturaleza, y cuyo valor de compra ya haya sido pagado o trasferido al vendedor.
 
-3. Tratamiento de los intereses y reajustes por pagar de depósitos y captaciones a plazo.
+Mientras esos instrumentos formen parte de la reserva técnica, el banco no podrá gravarlos ni pactar operación alguna con ellos.
 
-Tal como se indicó en el número precedente, las entidades financieras deben considerar para determinar su exigibilidad de reserva técnica, los intereses y reajustes por pagar de las obligaciones a plazo a las cuales les falten diez días o menos para que se cumpla la fecha en que deban hacerse efectivas.
+3.4. Valoración de la reserva técnica enterada.
 
-En estricto sentido, el cómputo adecuado de éstos consiste en agregarlos día a día, a las obligaciones afectas, en la medida que se devenguen. Sin embargo, atendido que no todas las entidades financieras llevan el cálculo diario de tales devengos y considerando las dificultades que encierra establecer un procedimiento para esa finalidad, las instituciones financieras podrán considerar los intereses por pagar y reajustes por pagar que se hayan devengado hasta el último día del mes inmediatamente anterior a la fecha en que las respectivas obligaciones deban computarse como sujetas a reserva técnica, sin perjuicio de que, aquellas instituciones que lleven un cómputo diario de esos devengos, puedan ajustar también diariamente los montos de los intereses y reajustes computables para determinar la exigencia de reserva técnica.
+Para determinar el equivalente en pesos de la moneda extranjera, sea tanto del dinero en efectivo como de los depósitos en moneda extranjera utilizados para enterar la reserva técnica, se aplicará el tipo de cambio indicado en el N° 8 de este Capítulo.
 
-4. Importes que las instituciones financieras pueden deducir de sus obligaciones afectas a reserva técnica.
+Los instrumentos del Banco Central de Chile y la Tesorería General de la República se computarán por su valor razonable, de acuerdo con lo indicado en el Capítulo 7-12 de esta Recopilación.
 
-Las instituciones financieras podrán deducir diariamente de las obligaciones señaladas en el N° 1 de este título, la suma de los saldos de las cuentas que conforman la partida 1015, con excepción de la cuenta "Canje no deducible".
+4. Inembargabilidad y prohibición de gravar los títulos y depósitos de reserva técnica.
 
-### 5. Forma y oportunidad de constituir la reserva técnica
+Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República con los cuales las instituciones financieras cumplan la reserva técnica de que se trata, no podrán ser gravados en forma alguna mientras sean constitutivos de esa reserva. Asimismo, los referidos títulos y los depósitos constituidos en el Banco Central de Chile con la finalidad de enterar la reserva técnica, no podrán ser objeto de embargo ni de medidas precautorias, en tanto se encuentren formando parte de ella.
 
-Las instituciones financieras que deban constituir reserva técnica podrán hacerlo el mismo día en que se origina su exigibilidad o bien al cierre de las operaciones del día hábil bancario inmediatamente siguiente.
+### 5. Relación de la reserva técnica con el encaje
 
-En todo caso, cuando una institución financiera opte por constituir su reserva técnica en forma diferida de conformidad con lo señalado en el párrafo precedente, deberá mantener esa modalidad, sin perjuicio de lo dispuesto en el numeral 10.2 de este título, y sólo podrá cambiarla con autorización previa de esta Superintendencia.
+Los saldos de dinero efectivo disponibles en caja, en moneda chilena o extranjera, que se computen para enterar la reserva técnica, así como los depósitos en moneda extranjera utilizados para ese efecto y los depósitos en la "Cuenta Depósito para Reserva Técnica" mantenidos en el Banco Central de Chile, no servirán para dar cumplimiento a la obligación de encaje establecida en el artículo 63 de la Ley General de Bancos, en la fecha en que se imputen a la reserva técnica y mientras se mantengan con esa finalidad.
 
-Dicha reserva técnica podrá enterarse con los siguientes recursos registrados, conforme a las normas vigentes, en cuentas de las partidas 1005 y 1010:
+Por su parte, los pasivos que estén sujetos a reserva técnica quedan exentos de encaje.
 
-a) Billetes y monedas de curso legal en el país o monedas extranjeras, que estén disponibles en caja en las respectivas instituciones financieras, en tránsito entre oficinas de la misma empresa, en transito al Banco Central de Chile o en custodia en empresas transportadoras de valores, con excepción de los importes que se mantengan como "Caja en custodia en otras entidades financieras.
+En consecuencia, cuando un banco deba constituir reserva técnica, la determinación de su posición de encaje en un día requiere determinar previamente su posición de reserva técnica.
 
-b) Depósitos mantenidos en el Banco Central de Chile en la "Cuenta Depósito de Reserva Técnica".
+### 6. Información de respaldo
 
-c) Depósitos en moneda extranjera, en cuenta corriente y depósitos "overnight" en el Banco Central de Chile.
+La constitución de reserva técnica exige mantener la información necesaria para controlar y verificar el cumplimiento de las disposiciones del artículo 65 de la Ley General de Bancos.
 
-Asimismo, la reserva técnica podrá enterarse con documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, para cuyo vencimiento no falten más de 90 días, según lo indicado en el numeral 5.3 de este título.
+Cuando un banco deba constituir reserva técnica, deberá mantener la información que permita verificar el monto de los pasivos afectos, las deducciones efectuadas por el canje y su aplicación en relación con la determinación del encaje exigido.
 
-Los saldos de dinero efectivo disponibles en caja, en moneda chilena o extranjera, que se computen para enterar la reserva técnica, así como los depósitos en moneda extranjera mantenidos en el Banco Central de Chile, no servirán para dar cumplimiento a la obligación de encaje establecida en el artículo 63 de la Ley General de Bancos, en la fecha en que se imputen a la reserva técnica y mientras se mantengan con esa finalidad.
+Cada uno de los instrumentos del Banco Central de Chile o de la Tesorería General de la República que se utilicen en un día para conformar la reserva técnica, deberán quedar perfectamente individualizados.
 
-5.1. Saldos en moneda extranjera de caja y de cuentas corrientes mantenidas en el Banco Central de Chile.
+En caso de que la reserva técnica sea conformada con efectivo o depósitos que podrían computarse para el encaje, deberán quedar claramente establecidos los importes que se computaron para reserva técnica y encaje.
 
-Los saldos en billetes y monedas extranjeras, mantenidos en caja, así como los saldos de las cuentas corrientes con el Banco Central de Chile en esas monedas,que las entidades financieras computen para la reserva técnica, serán considerados por su equivalente en moneda chilena calculado al tipo de cambio indicado en el N° 11 de este título.
-
-5.2.-Documentos emitidos por el Banco Central de Chile y la Tesorería General de la República.
-
-La reserva técnica podrá constituirse con los documentos emitidos por el Banco Central de Chile, para cuyo vencimiento total o parcial no falten más de noventa días. También podrán mantener como reserva técnica los pagarés ordinarios, descontables o reajustables, emitidos por la Tesorería General de la República, cuando cumplan esas mismas condiciones relativas a su vencimiento.
-
-Cuando los documentos sean pagaderos en cuotas, sólo se considerará como reserva técnica mantenida el importe de capital de dichos documentos, que se percibirá dentro de los 90 días siguientes a la fecha en que se realice el cómputo de esa reserva, sin perjuicio de agregar los intereses efectivamente devengados hasta esta última fecha.
-
-Las instituciones financieras que declaren mantener el total o parte de la reserva técnica constituida en documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, deberán estar en posesión material de los respectivos instrumentos, a menos que se encuentren depositados en custodia en el Instituto Emisor o en una empresa de depósito y custodia de valores a que se refiere la Ley N° 18.876.
-
-La adquisición de los instrumentos que se destinen a reserva técnica deberá hacerse en forma pura y simple, por documentos completos o por traspaso a la posición mantenida en una empresa de depósito y custodia de valores, no siendo admisible que se realice su compra con pactos de cualquier naturaleza. Mientras los documentos de que se trata se computen como reserva técnica, las instituciones financieras no podrán realizar transacción alguna sobre esos valores.
-
-### 6. Exención de encaje de las obligaciones afectas a reserva técnica
-
-Las obligaciones por las cuales las instituciones financieras deban enterar la reserva técnica de que se trata, están exentas de constituir encaje. Al respecto las instituciones financieras deben tener presente lo señalado en el N° 1 del título III del presente capítulo.
-
-7. Inembargabilidad y prohibición de gravar los títulos y depósitos de reserva técnica.
-
-Los documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República con los que las instituciones financieras cumplan la reserva técnica de que se trata, no podrán ser gravados en forma alguna mientras sean constitutivos de esa reserva. Asimismo, los referidos títulos y los depósitos constituidos en el Banco Central de Chile con la finalidad de enterar la reserva técnica, no podrán ser objeto de embargo ni de medidas precautorias, en tanto se encuentren formando parte de ella.
-
-### 8. Exigencia diaria de cumplir con la reserva técnica
-
-La obligación de mantener la reserva técnica, ya sea que se constituya con el desfase que se indicó en el N° 5 precedente o en el mismo día en que se produce la exigibilidad, deberá cumplirse por cada día hábil bancario en que las obligaciones a que se refiere el número 2 de este título I, deducidos los importes que se indican en el número 4 del mismo título, excedan de 2,5 veces el capital pagado y reservas de la institución.
-
-En consecuencia, todas las entidades financieras deberán llevar en forma diaria el cómputo de sus obligaciones a la vista y aquéllas a plazo a las que les falten diez días o menos para hacerse efectivas, según lo establecido en el número 2 del presente título.
-
-### 9. Cobro de los documentos emitidos por el Banco Central de Chile
-
-El rescate de los documentos emitidos por el Banco Central de Chile con que se constituya el total o parte de la reserva técnica,se efectuará por el valor del saldo del capital adeudado, más los intereses y reajustes calculados hasta la fecha de cobro y serán pagados al solo requerimiento de la institución financiera titular de esos instrumentos, cuando ésta se encuentre en alguna de las situaciones previstas en los párrafos 2° y 3°del título XV de la Ley General de Bancos, estos es, que se presenten proposiciones de convenio a los acreedores o se decrete la liquidación forzosa de la institución.
-
-### 10. Déficit de reserva técnica
-
-10.1. Obligación de informar el déficit de reserva técnica.
+### 7. Déficit de reserva técnica
 
 Cuando una institución financiera registre un déficit de reserva técnica, el Gerente General deberá comunicar este hecho, por escrito, a esta Superintendencia, dentro del día hábil bancario siguiente a aquél en que se hubiere registrado el déficit. En la misma comunicación deberá indicar las medidas adoptadas para dar cumplimiento a la reserva técnica exigida.
 
-10.2. Suspensión de la facultad de constituir reserva técnica con desfase.
-
-Cuando una institución financiera, en un día determinado, incurra en déficit de reserva técnica, no podrá diferir para el día hábil bancario siguiente la constitución de la reserva técnica exigida, debiendo proceder, a partir de ese día y hasta que normalice su situación, a constituir la reserva técnica en el curso del mismo día en que se ha producido su exigibilidad.
-
 En caso que el déficit subsista por más de quince días, el directorio de la institución financiera estará obligado a presentar proposiciones de convenio a sus acreedores, de conformidad con lo previsto en el artículo 122 de la Ley General de Bancos. Todo esto sin perjuicio de las facultades de que dispone el Superintendente para designar administrador provisional en la respectiva empresa o para resolver su liquidación.
 
-11.- Tipo de cambio para el cómputo de las obligaciones afectas a encaje y reserva técnica mantenida en moneda extranjera.
+8. Tipo de cambio para el cómputo de las obligaciones y la reserva técnica mantenida en moneda extranjera.
 
-En concordancia con lo indicado en el N° 2 del título I del Capítulo 4-1 de esta Recopilación en relación con lo dispuesto en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, el tipo de cambio que debe utilizarse para computar en pesos chilenos las obligaciones en moneda extranjera y los saldos en moneda extranjera que constituyan el encaje mantenido, corresponderá al obtenido de las paridades que, según lo previsto en el N° 6 del Capítulo I de su Compendio de Normas de Cambios Internacionales, publique el Instituto Emisor el último día hábil del mes calendario inmediatamente precedente.
-
-### II. NORMAS CONTABLES
-
-Las instituciones financieras registrarán los saldos de caja utilizados, los depósitos constituidos en el Banco Central de Chile y los instrumentos para enterar la reserva técnica, así como las obligaciones a plazo desde el décimo día corrido anterior a su vencimiento, incluidos sus intereses y reajustes de la forma que a continuación se señala:
-
-### 1. Saldos de caja utilizados para enterar reserva técnica
-
-Los importes de caja que las instituciones financieras apliquen para enterar la reserva técnica exigida, deberán registrarse, además, en la cuenta de orden "Caja aplicada en reserva técnica", de la partida 9165. Cuando lo recursos de que se trata dejen de constituir reserva técnica, deberán revertirse los importes registrados en esa cuenta de orden.
-
-2.- Depósitos en el Banco Central de Chile.
-
-2.1.- Depósitos especiales para reserva técnica.
-
-Los depósitos especiales en moneda chilena constituidos en el Banco Central de Chile con la finalidad exclusiva de enterar reserva técnica, serán registrados en la cuenta "Depósitos de reserva técnica en el Banco Central de Chile", de la partida 1010.
-
-2.2.- Control de asignación de depósitos en moneda extranjera que pueden destinarse tanto a reserva técnica como a encaje.
-
-En el caso de depósitos en moneda extranjera que pueden destinarse tanto a reserva técnica como a encaje, los montos que efectivamente se utilicen para constituirla se demostrarán diariamente en las cuentas de orden "Depósitos en cuenta corriente en el Banco Central de Chile aplicados en la reserva técnica" o "Remesas en tránsito al Banco Central aplicadas en reserva técnica", según corresponda, de la partida 9165.
-
-3. Reserva técnica en documentos emitidos por el Banco Central de Chile y por la Tesorería General de la República
-
-3.1. Registro de la inversión.
-
-Los documentos emitidos por el Banco Central de Chile o por la Tesorería General de la República, que mantengan o a dquieran las instituciones financieras con el objeto de constituir la reserva técnica, serán registrados, de acuerdo con las instrucciones generales sobre la materia, de la misma forma que aquellos que no se destinen a ese efecto.
-
-3.2. Control del monto de los documentos computados como reserva técnica.
-
-Cada vez que los documentos de que se trata se utilicen efectivamente para enterar la reserva técnica, deberá registrarse además, el importe correspondiente al total o parte del valor par de los documentos que se aplican a enterar la reserva, en las cuentas de orden "Documentos emitidos por el Banco Central de Chile aplicados en reserva técnica" o "Documentos emitidos por la Tesorería General de la República aplicados en reserva técnica", según corresponda, ambas de la partida 9165. Cuando se trate de instrumentos pagaderos en cuotas, sólo se registrará en estas cuentas el importe de capital correspondiente a la cuota que se percibirá dentro de los 90 días inmediatamente siguientes y los intereses efectivamente devengados hasta la fecha, según la tasa expresada en el documento.
-
-Las entidades financieras dejarán constancia en los respectivos registros que efectúen en estas cuentas de orden, de las características que permitan la individualización de cada documento contabilizado en ellas, tales como N° de orden, serie, fecha de emisión, fecha de vencimiento, o cualquier otro dato mediante el cual pueda identificarse el instrumento de que se trata.
-
-Cuando los documentos a que se refiere este numeral dejen de constituir reserva técnica deberán revertirse de las cuentas antes mencionadas, dejando de estar amparados por las excepciones de que trata el N° 7 del título I de este capítulo.
-
-Los registros en estas cuentas deberán efectuarse rigurosamente en las fechas en que los respectivos documentos pasan a integrar la reserva técnica o dejen de formar parte de ella, según corresponda.
-
-4. Depósitos, captaciones y otros compromisos a plazo computables como obligaciones a la vista.
-
-En concordancia con lo dispuesto en la letra a) del artículo 65 ya citado, las instituciones financieras deberán distinguir en sus obligaciones a plazo, aquéllas cuyo pago deba efectuarse en los próximos diez días corridos, sea porque se cumple la fecha de vencimiento pactada o porque a pedido del depositante, de conformidad con las disposiciones vigentes, la entidad depositaria ha aceptado efectuar el pago antes de esa fecha. Como lo señala el precepto legal antes indicado, estas obligaciones se considerarán a la vista,para los efectos previstos en esa misma disposición.
-
-Con el fin de hacer la separación indicada, las obligaciones a plazo reflejadas en las partidas 3020, 3025 3030, 3065 y 3315, serán registradas, además, a partir del décimo día anterior a su vencimiento, en la cuenta de orden "Documentos a plazo afectos a reserva técnica" de la partida 9162. El registro de las obligaciones respectivas en la referida cuenta se mantendrá hasta la fecha de su pago o de los vencimientos correspondientes, oportunidad en que se efectuará su reversión. Igualmente se registrarán en la cuenta indicada, los importes de los depósitos y captaciones cuyo pago fuere requerido y aceptado para efectuarlo antes del vencimiento pactado.Este registro se hará al momento que la entidad reciba la correspondiente petición escrita del titular y si ésta es formulada con una anticipación mayor a diez días corridos de la fecha prevista para el pago, la anotación deberá hacerse en esas cuentas a más tardar el décimo día anterior a la fecha en que se materializará el pago anticipado.
-
-### 5. Cuentas de ahorro a plazo
-
-De conformidad con las disposiciones vigentes, existen dos tipos de cuentas de ahorro a plazo, según sea la modalidad pactada para girar de ellas, demostrándose ambas en sendas cuentas que se representan en la partida 3035 del formulario MB1:
-
-a) Cuentas de ahorro a plazo incondicionales.
-
-Los saldos que se demuestran en esta cuenta corresponden a aquellas libretas de ahorro a plazo, incluidas las del sistema de ahorro y financiamiento de la vivienda, cuyos titulares pueden girar libremente de ellas, sin estar sujetos a la condición de un aviso previo con una determinada anticipación. Sobre la base de esa característica, de exigibilidad inmediata, estas cuentas se considerarán, como se señaló en el número 2 del título I, entre las obligaciones a la vista,afectas a reserva técnica.
-
-b) Cuentas de ahorro a plazo con giros diferidos.
-
-En el caso de las cuentas de ahorro a plazo con giros diferidos, incluidas las que bajo esta modalidad correspondan al sistema de ahorro y financiamiento de la vivienda, cuyos saldos se incluyen también en la partida 3035 del formulario MB1, las entidades financieras registrarán en la cuenta de orden "Documentos a plazo afectos a reserva técnica" de la partida 9162, todos aquellos giros a plazo que hayan solicitado sus titulares, a los que les falten diez días para la fecha en que deban hacerse efectivos, dándoles en consecuencia, un tratamiento similar a los depósitos y captaciones a plazo que se registran en esta cuenta de orden.
-
-En el caso que los giros solicitados no se hicieran efectivos dentro del plazo establecido, se procederá a revertir el asiento en la referida cuenta de orden, desafectando en consecuencia los importes correspondientes de la eventual exigencia de reserva técnica.
-
-### 6. Letras de crédito y cupones por vencer
-
-Las instituciones financieras que mantengan letras de crédito en circulación, registrarán en la cuenta de orden "Letras de crédito y cupones por vencer" de la partida 9162, respectivamente, las letras de crédito que deban ser pagadas como consecuencia de una amortización ordinaria o extraordinaria, cuando les falten diez días corridos para que se cumpla la fecha en que se harán exigibles.
-
-De la misma forma se procederá con los cupones por vencer, desde el momento en que el plazo para que su pago se haga exigible, sea de diez días corridos.
-
-En la fecha en que tales documentos -las letras de crédito y sus cupones- se hacen exigibles, se revertirá el respectivo cargo a esta cuenta de orden, ya que, si no son cobrados en esa oportunidad por los respectivos tenedores, pasarán a ser registrados como obligaciones exigibles a la vista, según las normas que rigen para estas operaciones.
-
-### 7. Intereses y reajustes por pagar de depósitos y captaciones a plazo
-
-Los reajustes e intereses por pagar de las obligaciones que han sido traspasadas a las cuentas de orden de que tratan los números 4, 5 y 6 de este título de este título, se registrarán conjuntamente con la obligación a que correspondan, en las referidas cuentas de orden. Estos reajustes e intereses se actualizarán día a día en la medida en que se devenguen, salvo que, como ya se expresó en el N° 3 del título I, la institución financiera no esté en condiciones de efectuar el cálculo diario y, en tal caso, deba considerar solamente los intereses y reajustes por pagar que se hayan devengado hasta el último día del mes inmediatamente anterior a la fecha en que las respectivas obligaciones deban computarse como sujetas a reserva técnica.
-
-### III. OTRAS DISPOSICIONES
-
-### 1. Relación de la reserva técnica con el encaje
-
-Los importes sujetos a reserva técnica según el artículo 65 de la Ley General de Bancos, no están afectos a encaje y los saldos de caja, así como los depósitos "overnight" y en cuenta corriente en moneda extranjera en el Banco Central de Chile, que se utilicen para enterar la reserva técnica y los importes depositados en la "Cuenta Depósito de Reserva Técnica" no podrán, a su vez, ser empleados para enterar el encaje mantenido.
-
-Las obligaciones por las cuales la institución deba constituir reserva técnica se deducirán de las obligaciones a la vista netas afectas a encaje y, en caso deque dichas obligaciones fueren inferiores al monto deducible, el remanente podrá ser rebajado de las obligaciones a plazo afectas a encaje.
-
-De acuerdo con lo anterior, las instituciones financieras deberán determinar diariamente, al cierre de sus operaciones, en primer lugar su posición de reserva técnica y después su posición de encaje.
-
-### 2. Información a esta Superintendencia
-
-Las instituciones financieras deberán enviar a esta Superintendencia la información sobre la reserva técnica de que se trata, de conformidad con las instrucciones del Manual del Sistema de Información.
-
-Además de la información que debe enviarse normalmente para el Sistema de Información de este Organismo, en caso de que la institución financiera registre un déficit de reserva técnica, el Gerente General deberá dar cumplimiento a lo dispuesto en el penúltimo inciso del artículo 65 de la Ley General de Bancos, comunicando esa situación dentro del día hábil bancario siguiente a aquél en que haya ocurrido, tal como se instruye en el numeral 10.1 del título I de este Capítulo.
+En concordancia con lo indicado en el Capítulo 4-1 de esta Recopilación en relación con lo dispuesto en el Capítnulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, el tipo de cambio que debe utilizarse para computar en pesos chilenos las obligaciones en moneda extranjera y los saldos en moneda extranjera que constituyan la reserva técnica, corresponderá al mismo que se aplica para los efectos del encaje, obtenido de las paridades que, según lo previsto en el N° 6 del Capíntulo I de su Compendio de Normas de Cambios Internacionales, publique el Instituto Emisor el último día hábil del mes calendario inmediatamente precedente.
 
 CAPITULO 5-1 (Bancos y Financieras)
 
