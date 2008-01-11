@@ -2328,9 +2328,7 @@ No se consideran a la vista los depósitos en cuentas de ahorro a plazo, que par
 
 Según lo indicado en el Capítulo III.B.1, las renovaciones automáticas de depósitos o captaciones deben pactarse estableciendo un plazo de tres días hábiles bancarios a contar del vencimiento para su retiro, luego del cual se entenderá renovado desde la fecha de vencimiento y por un plazo idéntico al primitivo.
 
-Para efectos de encaje, durante esos tres días estas operaciones se considerarán a plazo.
-
-Cada vez que las instituciones financieras efectúen la renovación automática de un depósito, deberán enviar un aviso por carta o por correo electrónico, según lo prefiera el depositante, informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
+Cada vez que los bancos efectúen la renovación automática de un depósito, deberán enviar un aviso por carta o por correo electrónico, según lo prefiera el depositante, informándole, a lo menos, el monto a la fecha de renovación, la tasa de interés y el vencimiento para el nuevo período.
 
 4.- Ventas con pacto de retrocompra.
 
@@ -2340,17 +2338,11 @@ Las ventas deben efectuarse según el contrato marco a que se refiere el N° 8 d
 
 Cuando se acuerde que los instrumentos vendidos queden bajo la custodia del propio banco cedente, este deberá mantener sistemas de control apropiados para custodiar separadamente, durante la vigencia del pacto, los títulos cedidos.
 
-Las obligaciones de retrocompra están exentas de la obligación de constituir la reserva técnica de que trata el artículo 65 de la Ley General de Bancos y el Capítulo 4-2 de esta Recopilación.
-
-Por otra parte, según lo dispuesto en el Capítulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, no quedan sujetas a encaje las captaciones realizadas mediante ventas con pacto de retrocompra, cuando los instrumentos vendidos correspondan a pagarés y bonos emitidos por el Banco Central de Chile o por la Tesorería General de la República. Esa exención de encaje no alcanzará a la parte de los fondos obtenidos que superen el valor razonable de esos instrumentos a la fecha de la venta.
-
 5.- Operaciones de préstamos de valores.
 
 Los bancos sólo podrán participar como cedentes o cesionarios en operaciones de préstamos de valores, cuando se trate de transferencias de los tipos de instrumentos mencionados en el N° 7 del Capítulo III.B.1.
 
 Los derechos a restitución o pago deberán ser computados por el banco cedente para los límites de crédito del artículo 84 de la Ley General de Bancos.
-
-Las obligaciones de restitución o pago que asume un banco por estas operaciones, quedan sujetas a encaje y reserva técnica de acuerdo con sus plazos. No obstante, si los valores transferidos corresponden a instrumentos emitidos por el Banco Central de Chile, dichas obligaciones quedan exentas de encaje según lo indicado en el Capítulo III.A.1 de su Compendio de Normas Financieras.
 
 Además, las obligaciones entre bancos del país deben computarse para los límites de que trata el Capítulo 12-7 de esta Recopilación.
 
@@ -2362,9 +2354,9 @@ De acuerdo con lo señalado en el Capítulo 18-13 de esta Recopilación, los ban
 
 III.- OTRAS NORMAS SOBRE CAPTACIONES.
 
-1.- Emisión desmaterializada de pagarés o certificados de depósitos a plazo.
+### 1. Emisión desmaterializada de pagarés o certificados de depósitos a plazo
 
-Las instituciones financieras que acuerden con sus clientes la emisión desmaterializada de los pagarés o certificados de depósitos a plazo, deberán llevar un registro en que se individualice cada uno de los depósitos en que se utilice ese sistema. Dicho registro contendrá al menos los siguientes datos:
+Los bancos que acuerden con sus clientes la emisión desmaterializada de los pagarés o certificados de depósitos a plazo, deberán llevar un registro en que se individualice cada uno de los depósitos en que se utilice ese sistema. Dicho registro contendrá al menos los siguientes datos:
 
 - **a)** número del documento que se ingresa desmaterializadamente a la empresa de depósito y custodia de valores con la cual se haya contratado ese servicio;
 
@@ -2382,9 +2374,9 @@ Las instituciones financieras que acuerden con sus clientes la emisión desmater
 
 En el caso de una emisión material posterior de un depósito a plazo, se procederá según lo convenido con la empresa de depósito y custodia de valores, de acuerdo con la reglamentación que le rige para el efecto, debiendo quedar también constancia de tal acto en el registro antes mencionado.
 
-2.- Documentos a nombre de beneficiarios alternativos.
+### 2. Documentos a nombre de beneficiarios alternativos
 
-Las instituciones financieras deberán abstenerse de emitir documentos en que los beneficiarios estén designados en forma alternativa, en consideración a los problemas de índole civil, tributaria y de interpretación del pago mismo, que pueden producirse especialmente en caso de fallecimiento de alguno de los titulares.
+Los bancos deberán abstenerse de emitir documentos en que los beneficiarios estén designados en forma alternativa, en consideración a los problemas de índole civil, tributaria y de interpretación del pago mismo, que pueden producirse especialmente en caso de fallecimiento de alguno de los titulares.
 
 En consecuencia, cuando se deban emitir documentos a nombre de más de un beneficiario, éstos se consignarán en forma conjunta, intercalando la conjunción "y" entre los nombres de los titulares, con el objeto de que deban cobrarlos en esa forma.
 
@@ -2454,35 +2446,35 @@ Las autorizaciones previas de esta Superintendencia a que se refiere la letra d)
 
 ### 1. Disposiciones legales
 
-El artículo 25 de la Ley N° 18.045 sobre Mercado de Valores señala que los bancos y las sociedades financieras situados en el país, no están obligados a inscribirse en el Registro de Corredores de Bolsa y Agentes de Valores para efectuar las funciones de intermediación que les faculta realizar la Ley General de Bancos.
+El artículo 25 de la Ley N° 18.045 sobre Mercado de Valores señala que los bancos situados en el país, no están obligados a inscribirse en el Registro de Corredores de Bolsa y Agentes de Valores para efectuar las funciones de intermediación que les faculta realizar la Ley General de Bancos.
 
 No obstante, agrega el artículo 25 antes mencionado, que las referidas instituciones financieras quedarán sujetas a todas las otras disposiciones de la Ley N° 18.045 en sus actividades de intermediación de valores.
 
-Por otra parte, de conformidad con lo dispuesto en el artículo 88 de la Ley General de Bancos, las instituciones financieras pueden comprar o vender acciones, bonos y demás valores mobiliarios, percibir dividendos o intereses y representar a los dueños de acciones, bonos y valores en lo que a éstos se refiera, como efectuar la cobranza de créditos o documentos, sin que esas operaciones constituyan comisiones de confianza.
+Por otra parte, de conformidad con lo dispuesto en el artículo 88 de la Ley General de Bancos, los bancos pueden comprar o vender acciones, bonos y demás valores mobiliarlos, percibir dividendos o intereses y representar a los dueños de acciones, bonos y valores en lo que a éstos se refiera, como efectuar la cobranza de créditos o documentos, sin que esas operaciones constituyan comisiones de confianza.
 
 ### 2. Valores que se pueden intermediar por cuenta de terceros
 
-En virtud de las disposiciones antes mencionadas, las instituciones pueden intermediar por cuenta de terceros, solamente títulos transferibles que se encuentren inscritos en el Registro de Valores que lleva la Superintendencia de Valores y Seguros o en el Registro de Valores que lleva esta Superintendencia, siempre que, tanto dichos instrumentos como sus emisores, cumplan con los demás requisitos contemplados en la Ley N° 18.045. Sin embargo, cuando se trate de acciones, los bancos y las sociedades financieras sólo podrán cumplir por intermedio de un corredor de bolsa las órdenes que reciban de sus clientes.
+En virtud de las disposiciones antes mencionadas, las instituciones pueden intermediar por cuenta de terceros, solamente títulos transferibles que se encuentren inscritos en el Registro de Valores que lleva la Superintendencia de Valores y Seguros o en el Registro de Valores que lleva esta Superintendencia, siempre que, tanto dichos instrumentos como sus emisores, cumplan con los demás requisitos contemplados en la Ley N° 18.045. Sin embargo, cuando se trate de acciones, los bancos sólo podrán cumplir por intermedio de un corredor de bolsa las órdenes que reciban de sus clientes
 
 En todo caso, según lo dispuesto en el artículo 3° de la Ley N° 18.045 antes citada, no se les aplican las disposiciones de dicha ley a los valores emitidos o garantizados por el Estado, por las instituciones públicas centralizadas o descentralizadas y por el Banco Central de Chile.
 
-Asimismo, en virtud de lo establecido en el artículo 69 de la Ley ya mencionada y en el Capítulo Capítulo 2-11 de esta Recopilación Actualizada de Normas, no es necesario registrar en esta Superintendencia los títulos de crédito emitidos por los bancos y sociedades financieras que operan en el país, salvo cuando se trate de acciones y bonos y, además, por instrucciones de este Organismo, de letras de crédito.
+Asimismo, en virtud de lo establecido en el artículo 69 de la Ley ya mencionada y en el Capítulo 2-11 de esta Recopilación Actualizada de normas, no es necesario registrar en esta Superintendencia los títulos de crédito emitidos por los bancos que operan en el país, salvo cuando se trate de acciones y bonos y, además, por instrucciones de este Organismo, de letras de crédito.
 
-### 3. Responsabilidad de las instituciones financieras en la intermediación
+### 3. Responsabilidad de los bancos en la intermediación
 
-Las instituciones financieras están obligadas a pagar el precio convenido por los títulos que se adquieran por su intermedio y a entregar los instrumentos cuya venta hayan efectuado en su calidad de intermediarios, sin que puedan eximirse de esta responsabilidad basados en el argumento de que sus clientes no les han proporcionado los fondos o entregado los títulos o traspasos respectivos.
+Los bancos están obligados a pagar el precio convenido por los títulos que se adquieran por su intermedio y a entregar los instrumentos cuya venta hayan efectuado en su calidad de intermediarios, sin que puedan eximirse de esta responsabilidad basados en el argumento de que sus clientes no les han proporcionado los fondos o entregado los títulos o traspasos respectivos.
 
-Los bancos y sociedades financieras intermediarios son responsables de la identidad y de la capacidad legal de las personas que contraten por su intermedio, de la autenticidad e integridad de los valores que intermedien, de la inscripción de su último titular en los registros del emisor cuando sea necesario y de la autenticidad del último endoso del instrumento, cuando proceda.
+Los bancos intermediarios son responsables de la identidad y de la capacidad legal de las personas que contraten por su intermedio, de la autenticidad e integridad de los valores que intermedien, de la inscripción de su último titular en los registros del emisor cuando sea necesario y de la autenticidad del último endoso del instrumento, cuando proceda.
 
 4. Cumplimiento de órdenes de compra o de venta mediante operaciones propias.
 
-Las instituciones financieras no podrán comprar para sí los instrumentos que sus clientes les hayan encargado vender ni cumplir las órdenes de compra que éstos les encomienden mediante la cesión de documentos de su propia cartera, salvo en los casos en que el cliente las haya autorizado expresamente, por escrito, para tal efecto, y siempre que se trate, naturalmente, de documentos que pueden ser adquiridos o cedidos por la institución.
+Los bancos no podrán comprar para sí los instrumentos que sus clientes les hayan encargado vender ni cumplir las órdenes de compra que éstos les encomienden mediante la cesión de documentos de su propia cartera, salvo en los casos en que el clientelas haya autorizado expresamente, por escrito, para tal efecto, y siempre que se trate, naturalmente, de documentos que pueden ser adquiridos o cedidos por la institución.
 
-### 5. Colocación de emisiones de valores mobiliarios
+### 5. Colocación de emisiones de valores mobiliarlos
 
-Las instituciones financieras pueden encargarse de la emisión y colocación de valores mobiliarios por cuenta de terceros, siempre que se trate de los instrumentos de esa naturaleza señalados en el N° 2 de este título.
+Los bancos pueden encargarse de la emisión y colocación de valores mobiliarlos por cuenta de terceros, siempre que se trate de los instrumentos de esa naturaleza señalados en el N° 2 de este título.
 
-El N° 20 del artículo 69 de la Ley General de Bancos permite garantizar la colocación de valores mobiliarios de renta fija solamente si la institución emisora se ajusta a los márgenes de crédito de que trata el artículo 84 de la Ley General de Bancos, para cuyo efecto debe computarse el total de la emisión por colocar junto con los créditos que tuviere el emisor y los demás obligados al pago.
+El N° 20 del artículo 69 de la Ley General de Bancos permite garantizar la colocación de valores mobiliarlos de renta fija solamente si la institución emisora se ajusta a los márgenes de crédito de que trata el artículo 84 de la Ley General de Bancos, para cuyo efecto debe computarse el total de la emisión por colocar junto con los créditos que tuviere el emisor y los demás obligados al pago.
 
 Por otra parte, el N° 25 del mencionado artículo 69 permite garantizar la colocación de acciones de sociedades anónimas abiertas, debiendo computarse para los límites de crédito del artículo 84 los importes garantizados y las acciones adquiridas, y ajustarse a los límites especiales que se establecen en la ley para estas operaciones, señalados en el Capítulo 10-2 de esta Recopilación Actualizada de Normas.
 
@@ -3344,9 +3336,7 @@ El instrumento con las condiciones generales que rijan para los contratos de cue
 
 - Establecer que el banco se reserva el derecho de poner fin a la cuenta cuando lo estime conveniente.
 
-CAPITULO 2-4 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 2-4
 
 CUENTAS DE AHORRO.
 
@@ -3368,11 +3358,11 @@ a) Son en moneda nacional y no devengan reajustes ni intereses. Cuando sean abie
 
 b) Pueden ser unipersonales o pluripersonales y a nombre de personas naturales o jurídicas.
 
-c) Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas.
+c) Los bancos pueden cobrar comisiones por el manejo de las cuentas.
 
 2.2. Cuentas de ahorro a plazo.
 
-2.2.1. Cuentas de ahorro a plazo con giro incondicional
+2.2.1. Cuentas de ahorro a plazo con giro incondicional.
 
 Las cuentas de ahorro a plazo con giro incondicional tienen las siguientes características:
 
@@ -3386,7 +3376,7 @@ d) Los intereses y reajustes se abonan cada doce meses.
 
 e) Los giros son pagaderos a la vista.
 
-f) Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas.
+f) Los bancos pueden cobrar comisiones por el manejo de las cuentas.
 
 g) Los bancos no podrán hacer cargos a estas cuentas de ahorro a plazo relativos a cobro de cheques u otros conceptos relacionados con cuentas corrientes.
 
@@ -3402,15 +3392,15 @@ c) El titular puede realizar hasta seis giros en cada período de doce meses, si
 
 d) Los intereses y reajustes se abonan cada doce meses.
 
-e) El ahorrante puede girar de estas cuentas solamente con aviso previo a la entidad depositaría, mediante la presentación de una solicitud con una anticipación mínima de treinta días corridos.
+e) El ahorrante puede girar de estas cuentas solamente con aviso previo a la entidad depositaria, mediante la presentación de una solicitud con una anticipación mínima de treinta días corridos.
 
-f) Las entidades depositarías, no obstante lo señalado en el literal anterior, pueden permitir a los titulares que sean personas naturales, giros a la vista hasta por el equivalente a treinta unidades de fomento, en cada oportunidad, siempre que cada uno de ellos se efectúe en días distintos.
+f) Las entidades depositarias, no obstante lo señalado en el literal anterior, pueden permitir a los titulares que sean personas naturales, giros a la vista hasta por el equivalente a treinta unidades de fomento, en cada oportunidad, siempre que cada uno de ellos se efectúe en días distintos.
 
-g) Las instituciones financieras pueden cobrar comisiones por el manejo de las cuentas.
+g) Los bancos pueden cobrar comisiones por el manejo de las cuentas.
 
 2.3. Cuentas de ahorro con y sin libreta.
 
-Tanto las cuentas de ahorro a la vista como las cuentas de ahorro a plazo que se mencionan en los numerales precedentes, pueden operarse con o sin libreta, de manera que las instituciones financieras pueden establecer y ofrecer al público la apertura de "cuentas de ahorro con libreta" y "cuentas de ahorro sin libreta".
+Tanto las cuentas de ahorro a la vista como las cuentas de ahorro a plazo que se mencionan en los numerales precedentes, pueden operarse con o sin libreta, de manera que los bancos pueden establecer y ofrecer al público la apertura de "cuentas de ahorro con libreta" y "cuentas de ahorro sin libreta".
 
 Las cuentas de ahorro que se pueden operar sin libreta tienen las mismas características que las cuentas que se operan con libreta, salvo en las modalidades de depósitos y giros y en lo relativo a la información que debe proporcionarse a los titulares, sin perjuicio de las diferencias que se pueden establecer en cuanto a las tasas de interés que se paguen o a las comisiones que se cobren según la modalidad.
 
@@ -3422,15 +3412,15 @@ En las cuentas de ahorro sin libreta, en cambio, los giros deben efectuarse pref
 
 3.1. Contrato de apertura.
 
-Para la apertura de cuentas de ahorro a la vista y a plazo, con o sin libreta, se deberá suscribir un contrato entre la institución financiera y el cliente, en el que consten las condiciones a las que estarán sujetas dichas cuentas. Copia de ese contrato debe ser entregado al titular de la cuenta.
+Para la apertura de cuentas de ahorro a la vista y a plazo, con o sin libreta, se deberá suscribir un contrato entre el banco y el cliente, en el que consten las condiciones a las que estarán sujetas dichas cuentas. Copia de ese contrato debe ser entregado al titular de la cuenta.
 
 Entre las condiciones que constarán en el contrato, deberán incluirse las siguientes:
 
 a) La especificación de que se trata de una cuenta de ahorro con libreta o sin ella.
 
-b) La facultad de la institución financiera de poner término a la cuenta, así como la manera en que los fondos quedarán a disposición del titular si se ejerciera dicha facultad y la forma en que se avisará a este último del cierre de la cuenta.
+b) La facultad del banco de poner término a la cuenta, así como la manera en que los fondos quedarán a disposición del titular si se ejerciera dicha facultad y la forma en que se avisará a este último del cierre de la cuenta.
 
-c) La manera en que la institución financiera comunicará los cambios en el cobro de comisiones.
+c) La manera en que el banco comunicará los cambios en el cobro de comisiones.
 
 d) La condición de presentar la libreta para efectuar cualquier giro, en el caso de cuentas con libreta en que no se utilice un sistema automatizado.
 
@@ -3438,7 +3428,7 @@ e) Los procedimientos que debe seguir el titular en caso de extravío de la libr
 
 f) La cantidad de giros que puede realizar el titular sin perder el derecho a reajustes o intereses, cuando corresponda, y los requisitos exigidos para efectuar giros a la vista.
 
-g) La oportunidad en que se abonan los intereses y reajustes, cuando sea el caso y la forma en que la institución comunicará los cambios en las tasas de interés.
+g) La oportunidad en que se abonan los intereses y reajustes, cuando sea el caso, y la forma en que el banco comunicará los cambios en las tasas de interés.
 
 3.2. Registro y verificación de los antecedentes básicos.
 
@@ -3456,15 +3446,15 @@ e) Profesión u ocupación y edad, al tratarse de personas naturales; y,
 
 f) Firma del depositante o, si se trata de una persona jurídica, de los apoderados o representantes de ésta, facultados para girar. En las cuentas pluripersonales deberán registrarse todas las firmas de los titulares.
 
-Los antecedentes que debe presentar el cliente o las verificaciones que eventualmente puedan efectuarse, quedan a criterio de la institución financiera, sin perjuicio de obtener los datos ya señalados desde documentación confiable, cuando corresponda.
+Los antecedentes que debe presentar el cliente o las verificaciones que eventualmente puedan efectuarse, quedan a criterio del banco, sin perjuicio de obtener los datos ya señalados desde documentación confiable, cuando corresponda.
 
-Para abrir una cuenta de ahorro no es requisito la exhibición del Rol Unico Tributario, aunque para las personas jurídicas es conveniente anotarlo para precaver errores derivados de razones sociales semejantes.
+Para abrir una cuenta de ahorro no es requisito la exhibición del Rol Único Tributario, aunque para las personas jurídicas es conveniente anotarlo para precaver errores derivados de razones sociales semejantes.
 
-En todo caso, cuando se trate de cuentas abiertas a nombre de personas jurídicas, deben exigirse las escrituras que den fe de la existencia legal de la sociedad y de la calidad de representantes legales de las personas que se registren como tales.
+En todo caso, cuando se trate de cuentas abiertas a nombre de personas jurídicas, deben exigírselas escrituras que den fe de la existencia legal de la sociedad y de la calidad de representantes legales de las personas que se registren como tales.
 
 3.3. Número de la cuenta de ahorro.
 
-Las instituciones financieras deben adoptar un sistema de numeración de cuentas que impida cualquier tipo de confusión o error en la identificación de las mismas y, en especial, la repetición de números previamente asignados, aun considerando el caso de las cuentas que hayan sido canceladas.
+Los bancos deben adoptar un sistema de numeración de cuentas que impida cualquier tipo de confusión o error en la identificación de las mismas y, en especial, la repetición de números previamente asignados, aun considerando el caso de las cuentas que hayan sido canceladas.
 
 3.4. Depósito inicial.
 
@@ -3472,13 +3462,13 @@ Simultáneamente con la apertura de la cuenta debe efectuarse el depósito inici
 
 Al tratarse de una cuenta de ahorro con libreta, dicho depósito quedará registrado en la libreta que debe entregársele en el acto al titular.
 
-3.5- Modificaciones a las condiciones pactadas con el titular.
+3.5. Modificaciones a las condiciones pactadas con el titular.
 
 Para efectuar cualquier cambio a las condiciones por las que se rige una cuenta de ahorro, el banco deberá informar debidamente al interesado acerca de las características y costos de las nuevas condiciones.
 
-Las modificaciones a las condiciones se tratarán igual que el cierre y apertura de una nueva cuenta de ahorro, salvo en los siguientes casos en que podrán seguirse los procedimientos que se indican.
+Las modificaciones a las condiciones se tratarán igual que el cierre y apertura de una nueva cuenta de ahorro, salvo en los siguientes casos en que podrán seguirse los procedimientos que se indican:
 
-a) Si no hay cambios en la condición de giro diferido, giro incondicional o de cuenta a la vista, no será necesario suscribir un nuevo contrato, sino que basta un anexo en que conste la conformidad del titular con las nuevas condiciones por las que se regirá la cuenta a partir de la fecha que se indique. En estos casos podrá también seguir utilizándose la misma libreta, dejando constancia en ella, mediante un timbre u otro medio, del cambio en las condiciones pactadas.
+a) Si no hay cambios en la condición de giro diferido, giro incondicional o de cuenta a la vista, no será necesario suscribir un nuevo contrato, sino que basta un anexo en que conste la conformidad del titular con las nuevas condiciones por las que se regirá la cuenta a partir de la fecha que se indique. En estos casos podrá también seguir utilizándosela misma libreta, dejando constancia en ella, mediante un timbre u otro medio, del cambio en las condiciones pactadas.
 
 b) Cuando se trate de un cambio de cuenta con libreta a una cuenta sin libreta se conservará la antigüedad para efectos del pago de reajustes e intereses, con el consiguiente cómputo de la cantidad de giros para ese efecto.
 
@@ -3486,21 +3476,21 @@ c) Al cambiarse una cuenta con reajuste por una sin cláusula de reajustabilidad
 
 ### 4. Libretas de ahorro
 
-4.1 Formato de las libretas.
+4.1. Formato de las libretas.
 
 Atendida la diferencia que existe entre las cuentas de ahorro a la vista, las cuentas de ahorro a plazo con giro incondicional y las cuentas de ahorro a plazo con giro diferido, los bancos deben darle a las respectivas libretas una característica que las distinga claramente unas de otras, como por ejemplo, un color distinto. Además, en las libretas de giro diferido debe imprimirse el nombre "Cuenta de Ahorro a Plazo de Giro Diferido" en forma suficientemente destacada.
 
 4.2. Pérdida de las libretas.
 
-En caso de extravío de la libreta, el depositante debe dar inmediatamente aviso por escrito a la institución financiera. En tal caso, no existe inconveniente en que se traspase el saldo existente a una nueva cuenta, siempre que, al tratarse de cuentas de ahorro a plazo, se mantenga la antigüedad y el cómputo de los giros efectuados en la cuenta original para efectos del pago de intereses y reajustes y, además, que dicho traspaso no se considere como un giro. En otros términos, en caso de extravío de una libreta la institución puede cambiar el número de identificación de la cuenta por razones de control o de seguridad del ahorrante, pero se entenderá que la cuenta sigue siendo la misma para los demás efectos.
+En caso de extravío de la libreta, el depositante debe dar inmediatamente aviso por escrito al banco. En tal caso, no existe inconveniente en que se traspase el saldo existente a una nueva cuenta, siempre que, al tratarse de cuentas de ahorro a plazo, se mantenga la antigüedad y el cómputo de los giros efectuados en la cuenta original para efectos del pago de intereses y reajustes y, además, que dicho traspaso no se considere como un giro. En otros términos, en caso de extravío de una libreta el banco puede cambiar el número de identificación de la cuenta por razones de control o de seguridad del ahorrante, pero se entenderá que la cuenta sigue siendo la misma para los demás efectos.
 
-4.3. Remplazo de las libretas.
+4.3. Reemplazo de las libretas.
 
-Cuando las instituciones financieras deban sustituir alguna libreta de ahorro porque en ella se ha agotado la capacidad para anotar transacciones, porque se ha registrado erróneamente el nombre del titular o por otras razones similares, procederán a traspasar el saldo correspondiente a la nueva libreta, manteniendo el número de cuenta, su antigüedad y el cómputo de los giros efectuados en la libreta que se sustituye.
+Cuando los bancos deban sustituir alguna libreta de ahorro porque en ella se ha agotado la capacidad para anotar transacciones, porque se ha registrado erróneamente el nombre del titular o por otras razones similares, procederán a traspasar el saldo correspondiente a la nueva libreta, manteniendo el número de cuenta, su antigüedad y el cómputo de los giros efectuados en la libreta que se sustituye.
 
 4.4. Registro en la libreta de los abonos y cargos a la cuenta.
 
-La institución financiera deberá registrar las transacciones en la libreta de tal forma que el orden de las anotaciones concuerde con la secuencia de las operaciones.
+El banco deberá registrar las transacciones en la libreta de tal forma que el orden de las anotaciones concuerde con la secuencia de las operaciones.
 
 La actualización de las anotaciones en la libreta se hará, por lo menos, en las siguientes oportunidades:
 
@@ -3512,9 +3502,9 @@ c) Cuando el titular así lo requiera.
 
 ### 5. Utilización de sistemas automatizados
 
-Los sistemas de cajeros automáticos y otros sistemas electrónicos que permitan depositar o girar automáticamente en las cuentas de ahorro deberán comprender los controles o procedimientos necesarios para que en este último caso ninguna cuenta de ahorro se sobregire y, además, se dé cumplimiento a las disposiciones generales del Capítulo 1-7 de esta Recopilación Actualizada de Normas y a las instrucciones específicas del numeral 7.1.3 del presente Capítulo.
+Los sistemas de cajeros automáticos u otros sistemas electrónicos que permitan depositar o girar automáticamente en las cuentas de ahorro deberán comprender los controles o procedimientos necesarios para que en este último caso ninguna cuenta de ahorro se sobregire y, además, se dé cumplimiento a las disposiciones generales del Capítulo 1-7 de esta Recopilación Actualizada de Normas y a las instrucciones específicas del numeral 7.1.3 del presente Capítulo.
 
-Las instituciones financieras pueden habilitar sistemas de transferencia electrónica de fondos que permitan a los titulares de cuentas de ahorro con libreta operar sus cuentas sin presentar la libreta, siempre que el uso del sistema por parte del titular sea optativo, tanto en lo que se refiere a la posibilidad de no incorporarse al sistema, como en lo relativo a la facultad de no utilizarlo, quedando a criterio de cada institución financiera la calificación de los titulares de cuentas de ahorro con libreta que pueden tener acceso a algún sistema automatizado para girar de su cuenta de ahorro. Para el efecto, deberá establecerse un número máximo de transacciones posibles de realizar sin la presentación de la libreta, después del cual el titular deberá estar obligado a actualizarla para poder seguir utilizando el sistema.
+Los bancos pueden habilitar sistemas de transferencia electrónica de fondos que permitan a los titulares de cuentas de ahorro con libreta operar sus cuentas sin presentar la libreta, siempre que el uso del sistema por parte del titular sea optativo, tanto en lo que se refiere a la posibilidad de no incorporarse al sistema, como en lo relativo a la facultad de no utilizarlo, quedando a criterio de cada banco la calificación de los titulares de cuentas de ahorro con libreta que pueden tener acceso a algún sistema automatizado para girar de su cuenta de ahorro. Para el efecto, deberá establecerse un número máximo de transacciones posibles de realizar sin la presentación de la libreta, después del cual el titular deberá estar obligado a actualizarla para poder seguir utilizando el sistema.
 
 ### 6. Depósitos
 
@@ -3522,17 +3512,17 @@ Las instituciones financieras pueden habilitar sistemas de transferencia electr�
 
 Los depósitos en una cuenta de ahorro podrán efectuarse por ventanilla, mediante comprobantes de depósito, o a través de cajeros automáticos u otros dispositivos electrónicos.
 
-Al tratarse de cuentas de ahorro con libreta, los depósitos deben quedar registrados en la respectiva libreta. Sin embargo, podrán aceptarse depósitos sin la presentación de la libreta, pero en tal caso la institución financiera deberá registrar esas transacciones posteriormente, de acuerdo con lo dispuesto en el numeral 4.4 anterior.
+Al tratarse de cuentas de ahorro con libreta, los depósitos deben quedar registrados en la respectiva libreta. Sin embargo, podrán aceptarse depósitos sin la presentación de la libreta, pero en tal caso el banco deberá registrar esas transacciones posteriormente, de acuerdo con lo dispuesto en el numeral 4.4 anterior.
 
 6.2. Depósitos constituidos por documentos.
 
 En las cuentas de ahorro pueden depositarse, además de dinero efectivo, cheques u otros valores a la vista y, en general, cualquier tipo de documentos de los que habitualmente se aceptan en depósito en cuenta corriente bancaria en moneda nacional.
 
-Se recomienda, sin embargo, a las instituciones financieras que, con el fin de prevenir hechos delictuosos, se abstengan de aceptar depósitos en cuentas de ahorro de personas naturales, constituidos por cheques u otros documentos extendidos a la orden de personas diferentes del titular de la cuenta, y en caso alguno aceptar tales depósitos cuando los beneficiarios de los documentos sean personas jurídicas. No obstante lo expuesto, siempre será admisible que el propio girador de un cheque extendido a su nombre, a su orden o al portador, lo endose para depositarlo en alguna cuenta de ahorro ajena.
+Se recomienda, sin embargo, a los bancos que, con el fin de prevenir hechos delictuosos, se abstengan de aceptar depósitos en cuentas de ahorro de personas naturales, constituidos por cheques u otros documentos extendidos a la orden de personas diferentes del titular de la cuenta, y en caso alguno aceptar tales depósitos cuando los beneficiarios de los documentos sean personas jurídicas. No obstante lo expuesto, siempre será admisible que el propio girador de un cheque extendido a su nombre, a su orden o al portador, lo endose para depositarlo en alguna cuenta de ahorro ajena.
 
 Con el mismo objeto antes expresado, conviene que los bancos tampoco acepten depósitos en cheques u otros documentos extendidos a nombre del propio titular de la cuenta o a su orden, cuando su importe exceda de UF 100, salvo que se trate de abonos originados en convenios de pago de remuneraciones. Esta recomendación deriva de la circunstancia de que la apertura de cuentas de ahorro no está sujeta a los requisitos establecidos para la cuenta corriente y, por lo tanto, se presta a un mal uso de ellas por personas inescrupulosas.
 
-A los depósitos constituidos por documentos les son aplicables las disposiciones sobre valores en cobro, contenidas en el Capituló 3-1 de esta Recopilación.
+A los depósitos constituidos por documentos les son aplicables las disposiciones sobre valores en cobro, contenidas en el Capítulo 3-1 de esta Recopilación.
 
 ### 7. Giros
 
@@ -3540,21 +3530,21 @@ A los depósitos constituidos por documentos les son aplicables las disposicione
 
 7.1.1. Cuentas de ahorro con libreta.
 
-Para girar de una cuenta de ahorro con libreta deberá utilizarse una papeleta de giro que debe proporcionarle la institución financiera y presentarse la respectiva libreta para que se registre en ella el importe girado, salvo en los siguientes casos:
+Para girar de una cuenta de ahorro con libreta deberá utilizarse una papeleta de giro que debe proporcionarle el banco y presentarse la respectiva libreta para que se registre en ella el importe girado, salvo en los siguientes casos:
 
-i) cuando el titular utilice un cajero automático u otro dispositivo al que tuviere acceso según lo convenido con la institución financiera;
+i) cuando el titular utilice un cajero automático u otro dispositivo al que tuviere acceso según lo convenido con el banco;
 
-ii) cuando el titular solicite por escrito a la institución depositaría el traspaso de fondos disponibles desde la cuenta de ahorro a una cuenta corriente suya en el mismo banco, siempre que dicho procedimiento se hubiere convenido previamente.
+ii) cuando el titular solicite por escrito al banco depositario el traspaso de fondos disponibles desde la cuenta de ahorro a una cuenta corriente suya en el mismo banco, siempre que dicho procedimiento se hubiere convenido previamente.
 
 7.1.2. Cuentas de ahorro sin libreta.
 
-Los giros de una cuenta de ahorro sin libreta deberán efectuarse mediante cajeros automáticos u otros dispositivos electrónicos, salvo que el titular no pueda tener acceso a un cajero automático o a un dispositivo de transferencia electrónica de fondos que le permita girar el monto deseado, en cuyo caso podrá efectuar los giros por ventanilla, utilizando una papeleta de giro que debe proporcionarle la institución financiera.
+Los giros de una cuenta de ahorro sin libreta deberán efectuarse mediante cajeros automáticos u otros dispositivos electrónicos, salvo que el titular no pueda tener acceso a un cajero automático o a un dispositivo de transferencia electrónica de fondos que le permita girar el monto deseado, en cuyo caso podrá efectuar los giros por ventanilla, utilizando una papeleta de giro que debe proporcionarle el banco.
 
-Cuando los giros se realicen por caja, las instituciones financieras deberán comprobar, además de la identidad y la existencia de fondos disponibles, que la firma de la papeleta esté conforme con la del registro de firmas que deberá mantenerse para el efecto.
+Cuando los giros se realicen por caja, los bancos deberán comprobar, además de la identidad y la existencia de fondos disponibles, que la firma de la papeleta esté conforme con la del registro de firmas que deberá mantenerse para el efecto.
 
 7.1.3. Requisitos para los giros mediante sistemas automatizados.
 
-Las instituciones financieras deben ceñirse a las siguientes instrucciones respecto de los giros que se realicen mediante sistemas automatizados, ya sea que se trate de cuentas de ahorro sin libreta o con libreta:
+Los bancos deben ceñirse a las siguientes instrucciones respecto de los giros que se realicen mediante sistemas automatizados, ya sea que se trate de cuentas de ahorro sin libreta o con libreta:
 
 a) Los giros mediante cajeros automáticos podrán estar limitados por el monto máximo diario que permita el sistema para expender dinero efectivo y, cuando se utilicen sistemas de transferencia electrónica de fondos, el titular podrá transferir hasta la totalidad del saldo disponible. Con todo, cuando se trate de cuentas de ahorro con giro diferido, los sistemas deberán contemplar las limitaciones en la cantidad o monto de los giros en concordancia con lo señalado en el numeral 7.2 siguiente.
 
@@ -3562,13 +3552,13 @@ b) A través del terminal desde donde opere el titular, se deberá originar una 
 
 7.2. Aviso previo para efectuar giros en cuentas de ahorro a plazo con giro diferido.
 
-Para girar de las cuentas de ahorro a plazo con giro diferido, los respectivos titulares deben presentar un aviso o solicitud de giro con una anticipación mínima de treinta días corridos respecto de la fecha en que éste se hará efectivo. No obstante, las entidades depositarías pueden aceptar giros a la vista en estas cuentas cuando sean por montos no superiores al equivalente de 30 unidades de fomento en cada oportunidad y siempre que cada uno de ellos se efectúe en días distintos y se trate de cuentas de personas naturales.
+Para girar de las cuentas de ahorro a plazo con giro diferido, los respectivos titulares deben presentar un aviso o solicitud de giro con una anticipación mínima de treinta días corridos respecto de la fecha en que éste se hará efectivo. No obstante, las entidades depositarias pueden aceptar giros a la vista en estas cuentas cuando sean por montos no superiores al equivalente de 30 unidades de fomento en cada oportunidad y siempre que cada uno de ellos se efectúe en días distintos y se trate de cuentas de personas naturales.
 
-Las instituciones depositarías deben tener a disposición de los ahorrantes el formulario de solicitud antes indicado, el que se confeccionará en duplicado, de manera que una vez llenado por el girador, el original quede en poder de la entidad financiera y el duplicado se entregue al solicitante.
+Los bancos depositarios deben tener a disposición de los ahorrantes el formulario de solicitud antes indicado, el que se confeccionará en duplicado, de manera que una vez llenado por el girador, el original quede en poder de la entidad financiera y el duplicado se entregue al solicitante.
 
-La solicitud debe ser firmada por el titular y deberá indicar el nombre de éste, el número de la cuenta contra la cual se solicita el giro y el monto que se girará. Tanto en el original como en la copia o duplicado de la solicitud, debe quedar constancia de la fecha en que ella fue recibida por la entidad financiera y del día en que se hará el pago, el cual podrá llevarse a efecto, como ya se indicó, no antes de treinta días corridos a contar desde la fecha de recepción de la solicitud por parte de la institución financiera.
+La solicitud debe ser firmada por el titular y deberá indicar el nombre de éste, el número de la cuenta contra la cual se solicita el giro y el monto que se girará. Tanto en el original como en la copia o duplicado de la solicitud, debe quedar constancia de la fecha en que ella fue recibida por el banco y del día en que se hará el pago, el cual podrá llevarse a efecto, como ya se indicó, no antes de treinta días corridos a contar desde la fecha de recepción de la solicitud por parte del banco.
 
-Los avisos antes mencionados también se podrán transmitir a la respectiva institución financiera mediante alguno de los dispositivos electrónicos señalados en el Capítulo 1-7 de esta Recopilación, debiendo el sistema utilizado originar las constancias escritas de la solicitud de giro efectuada, tanto para el cliente como para la propia institución financiera.
+Los avisos antes mencionados también se podrán transmitir al respectivo banco mediante alguno de los dispositivos electrónicos señalados en el Capítulo 1-7 de esta Recopilación, debiendo el sistema utilizado originar las constancias escritas de la solicitud de giro efectuada, tanto para el cliente como para el propia banco.
 
 Si el solicitante no se presenta a cobrar el giro dentro del tercer día hábil bancario siguiente de cumplido el plazo fijado, la solicitud quedará anulada.
 
@@ -3578,9 +3568,9 @@ a) Cuentas de ahorro a la vista.
 
 Las cuentas de ahorro a la vista no tienen limitación alguna en relación al número de giros que pueden efectuarse.
 
-b) Cuentas de ahorro a plazo con giro Incondicional. Asimismo se podrán efectuar hasta seis giros en el período de doce meses, sin perder los intereses del período.
+b) Cuentas de ahorro a plazo con giro incondicional.
 
-En las cuentas de ahorro a plazo con giro incondicional se puede girar hasta cuatro veces durante el período de doce meses, sin perder los reajustes del período respectivo, salvo que para esos efectos se pacte una cantidad de giros inferior, según se señala en la letra d) de este numeral.
+En las cuentas de ahorro a plazo con giro incondicional, sean reajustables o no reajustables, se puede girar hasta seis veces en el período de doce meses, sin perder los intereses del período. Al tratarse de cuentas con cláusula de reajustabilidad, se podrá girar hasta cuatro veces en ese período sin perder el derecho a reajustes.
 
 c) Cuentas de ahorro a plazo con giro diferido.
 
@@ -3588,101 +3578,101 @@ En las cuentas de ahorro a plazo con giro diferido y con cláusula de reajustabi
 
 d) Mayores limitaciones para el número de giros.
 
-Las instituciones financieras pueden pactar con los titulares de cuentas de ahorro a plazo que así lo deseen, un número máximo de giros que sea menor que los indicados en los numerales precedentes, en cuyo caso les pueden pagar más intereses, condición ésta que deberá quedar expresamente estipulada en los respectivos contratos y, cuando corresponda, en las libretas.
+Los bancos pueden pactar con los titulares de cuentas de ahorro a plazo que así lo deseen, un número máximo de giros que sea menor que los indicados en los numerales precedentes, en cuyo caso les pueden pagar más intereses, condición ésta que deberá quedar expresamente estipulada en los respectivos contratos y, cuando corresponda, en las libretas.
 
-Para los efectos indicados en los literales precedentes, deben computarse como giros todos los retiros de fondos, con excepción de los cargos efectuados por el banco para el pago de las comisiones de la respectiva cuenta y los que correspondan al pago de primas de seguro que cumplan las condiciones que se indican en los Capítulos III.E.l y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
+Para los efectos indicados en los literales precedentes, deben computarse como giros todos los retiros de fondos, con excepción de los cargos efectuados por el banco para el pago de las comisiones de la respectiva cuenta y los que correspondan al pago de primas de seguro que cumplan las condiciones que se indican en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
 
 ### 8. Reajuste de las cuentas de ahorro a plazo
 
 Al pactarse cuentas de ahorro a plazo con cláusula de reajustabilidad, el reajuste sólo puede aplicarse a los depósitos que permanezcan en las cuentas por un plazo igual o superior a 90 días. Para los efectos del cálculo y pago del reajuste, los giros se considerarán como depósitos con signo negativo y deberán imputarse a el o los depósitos efectuados, en orden inverso a su antigüedad. El mismo procedimiento se seguirá con los cargos por concepto de comisiones y primas de seguros, cuando corresponda.
 
-Los reajustes deberán abonarse a las respectivas cuentas de acuerdo con la periodicidad establecida en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile. Los depósitos que no hubieren aún cumplido 90 días a la fecha en que debe efectuarse el abono de los reajustes en la cuenta, deberán ser reajustados con posterioridad, considerando el importe que se mantenga al menos por 90 días.
+Los reajustes deberán abonarse a las respectivas cuentas de acuerdo con la periodicidad establecida en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile. Los depósitos que no hubieren aún cumplido 90 días a la fecha en que debe efectuarse el abono de los reajustes en la cuenta, deberán ser reajustados con posterioridad, considerando el importe que se mantenga al menos por 90 días
 
-Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 7.3, según sea el caso, los fondos depositados devengarán solamente el interés correspondiente a dicho período y por motivo alguno.
+Cuando el número de giros efectuados en una cuenta de ahorro a plazo, en el período de doce meses, sea superior al que el depositante podía realizar de conformidad con lo señalado en las letras b), c) o d) del numeral 7.3, según sea el caso, no se aplicará reajuste alguno.
 
 ### 9. Intereses de las cuentas de ahorro a plazo
 
 9.1. Interés autorizado.
 
-Los intereses que acuerden pagar las instituciones financieras a las cuentas de ahorro a plazo deben ser de aplicación general, sin que medien otras discriminaciones que no sean las provenientes del tipo de cuenta de que se trate, es decir, si es con o sin reajustabilidad, con giro incondicional o con giro diferido, con o sin libreta; del saldo medio mantenido, en tanto ello se establezca como condición para el pago de una mayor tasa de interés; o del número de giros pactado, según lo indicado en la letra d) del numeral 7.3 de este Capítulo.
+Los intereses que acuerden pagar los bancos a las cuentas de ahorro a plazo deben ser de aplicación general, sin que medien otras discriminaciones que no sean las provenientes del tipo de cuenta de que se trate, es decir, si es con o sin reajustabilidad, con giro incondicional o con giro diferido, con o sin libreta; del saldo medio mantenido, en tanto ello se establezca como condición para el pago de una mayor tasa de interés; o del número de giros pactado, según lo indicado en la letra d) del numeral 7.3 de este Capítulo.
 
-Las instituciones financieras pueden fijar libremente la tasa de interés anual, la que sólo se podrá cambiar dentro de los diez primeros días de cada mes calendario y la nueva tasa regirá, a lo menos, por el lapso que reste de dicho mes.
+Los bancos pueden fijar libremente la tasa de interés anual, la que sólo se podrá cambiar dentro de los diez primeros días de cada mes calendario y la nueva tasa regirá, a lo menos, por el lapso que reste de dicho mes.
 
 No obstante, la tasa de interés podrá ser modificada sin esperar el inicio de un nuevo mes calendario, cuando la nueva tasa sea superior a la que esté vigente. Esta mayor tasa no podrá ser disminuida en lo que resta del mes y en todo el mes siguiente.
 
 En todo caso, sólo podrá disminuirse la tasa de interés de un mes a otro, si la nueva tasa es informada a los clientes en la forma y con la oportunidad debidas, según lo indicado en el numeral 14.2 de este Capítulo.
 
-9.2.- Abono de los intereses.
+9.2. Abono de los intereses.
 
-Los intereses se abonarán en la respectiva cuenta con la frecuencia y oportunidad establecida en los Capítulos III E.l y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
+Los intereses se abonarán en la respectiva cuenta con la frecuencia y oportunidad establecida en los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
 
 ### 10. Cobro de comisiones
 
 10.1. Sistema de cobro.
 
-Las comisiones que las instituciones financieras decidan cobrar por el manejo de cuentas de ahorro, serán debitadas en la misma cuenta que las origine. No se podrá, en caso alguno, cobrar comisiones por montos que no sean determinados por condiciones de aplicación general previamente fijadas y anunciadas de acuerdo a lo señalado en el numeral 14.2.2 de este Capítulo, ni podrá utilizarse para su cobro un procedimiento diferente al cargo en la respectiva cuenta.
+Las comisiones que los bancos decidan cobrar por el manejo de cuentas de ahorro, serán debitadas en la misma cuenta que las origine. No se podrá, en caso alguno, cobrar comisiones por montos que no sean determinados por condiciones de aplicación general, previamente fijadas y anunciadas de acuerdo a lo señalado en el numeral 14.2.2 de este Capítulo, ni podrá utilizarse para su cobro un procedimiento diferente al cargo en la respectiva cuenta.
 
 El monto de las comisiones y las condiciones para su cobro sólo se podrán cambiar el primer día de cada trimestre calendario y regirán, a lo menos, para ese trimestre. Sin embargo, si con el cambio se disminuye o se suprime el monto de la comisión, la modificación puede tener aplicación inmediata y la nueva comisión que se acuerde o la supresión de su cobro puede regir por lo que resta del trimestre calendario en que se produzca el cambio y, en todo caso, por el trimestre siguiente completo.
 
 Los cobros por concepto de comisiones deberán efectuarse con una frecuencia que debe determinarse y expresarse en términos de trimestres calendario y se cargarán siempre el último día del mes en que finalice el período fijado.
 
-10.2.- Cuentas con saldo inferior al monto de la comisión o sin saldo.
+10.2. Cuentas con saldo inferior al monto de la comisión o sin saldo.
 
-En caso de que el monto de la comisión fuere superior al saldo de una cuenta al momento en que corresponda cargarla, se podrá imputar a ella sólo un importe que no exceda al saldo que registre en la oportunidad, dado que las cuentas de ahorro no admiten sobregiros. La diferencia no recuperada por exceder el saldo de la cuenta, se podrá cargar posteriormente, una vez que la cuenta registre el saldo suficiente para ello. En caso contrario, la institución podrá cobrar directamente al titular la diferencia adeudada y proceder al cierre de la cuenta si esta se mantuviere inactiva, según lo previsto en los numerales 11 y 14.6 de este Capítulo.
+En caso de que el monto de la comisión fuere superior al saldo de una cuenta al momento en que corresponda cargarla, se podrá imputar a ella sólo un importe que no exceda al saldo que registre en la oportunidad, dado que las cuentas de ahorro no admiten sobregiros. La diferencia no recuperada por exceder el saldo de la cuenta, se podrá cargar posteriormente, una vez que la cuenta registre el saldo suficiente para ello. En caso contrario, el banco podrá cobrar directamente al titular la diferencia adeudada y proceder al cierre de la cuenta si esta se mantuviere inactiva, según lo previsto en los numerales 11 y 14.6 de este Capítulo.
 
 En ningún caso se cobrarán comisiones correspondientes a períodos posteriores a aquél en el que la cuenta de ahorro quedó sin saldo, si en tales períodos permanece en esa condición.
 
 ### 11. Desahucio o cierre de una cuenta de ahorro
 
-Las cuentas de ahorro son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad. Por consiguiente, aunque una cuenta de ahorro a plazo no tenga movimiento, se seguirán abonando a ella los intereses y, cuando corresponda,los reajustes.
+Las cuentas de ahorro son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad. Por consiguiente, aunque una cuenta de ahorro a plazo no tenga movimiento, se seguirán abonando a ella los intereses y, cuando corresponda, los reajustes.
 
-No podrá considerarse cerrada una cuenta de ahorro por el solo hecho de haber quedado sin saldo, ya sea como consecuencia de haberse retirado la totalidad de los fondos depositados o por el cargo de comisiones.
+No podrá considerarse cerrada una cuenta de ahorro por el sólo hecho de haber quedado sin saldo, ya sea como consecuencia de haberse retirado la totalidad de los fondos depositados o por el cargo de comisiones.
 
-Lo anterior no obsta para que las instituciones financieras pongan término a una cuenta de ahorro, enviando un aviso al titular según lo instruido en el numeral 14.6 de estas normas o para que soliciten al titular, en cualquier momento, su conformidad para cerrar una cuenta.
+Lo anterior no obsta para que los bancos pongan término a una cuenta de ahorro, enviando un aviso al titular según lo instruido en el numeral 14.6 de estas normas o para que soliciten al titular, en cualquier momento, su conformidad para cerrar una cuenta.
 
-Al tratarse de una cuenta de ahorro a plazo, solamente se podrá poner término a la cuenta por la sola voluntad de la institución financiera, en la fecha en que corresponda abonar los intereses, cuando proceda. En consecuencia, para cerrar una cuenta con anterioridad a esa fecha, se requiere de una conformidad expresa del titular.
+Al tratarse de una cuenta de ahorro a plazo, solamente se podrá poner término a la cuenta por la sola voluntad del banco, en la fecha en que corresponda abonar los intereses, cuando proceda. En consecuencia, para cerrar una cuenta con anterioridad a esa fecha, se requiere de una conformidad expresa del titular.
 
-El titular de una cuenta de ahorro a plazo que cierre voluntariamente su cuenta antes de la fecha en que corresponda abonar los reajustes o los intereses, sea por propia iniciativa o por otorgar su conformidad escrita a requerimiento de la institución depositaría, pierde el derecho a percibir los beneficios aún no abonados. Las instituciones financieras deberán advertir esa situación a la persona que desee cerrar su cuenta.
+El titular de una cuenta de ahorro a plazo que cierre voluntariamente su cuenta antes de la fecha en que corresponda abonar los reajustes o los intereses, sea por propia iniciativa o por otorgar su conformidad escrita a requerimiento del banco depositario, pierde el derecho a percibir los beneficios aún no abonados. Los bancos deberán advertir esa situación a la persona que desee cerrar su cuenta.
 
-Cuando se ponga término a una cuenta de ahorro, sea por voluntad del titular o de la institución depositaría, no se podrá cobrar comisiones si no ha llegado aún la fecha prevista para su cobro. Por lo tanto, no corresponde aplicar proporciones de lo que se habría cobrado en caso de mantener la cuenta hasta esa fecha.
+Cuando se ponga término a una cuenta de ahorro, sea por voluntad del titular o del banco depositario, no se podrá cobrar comisiones si no ha llegado aún la fecha prevista para su cobro. Por lo tanto, no corresponde aplicar proporciones de lo que se habría cobrado en caso de mantener la cuenta hasta esa fecha.
 
 ### 12. Prohibición de ofrecer otros beneficios a los titulares
 
-Las instituciones financieras no pueden convenir pagos de intereses o reajustes por la mantención de saldos en cuentas de ahorro a la vista, a diferencia de las cuentas de ahorro a plazo en que, por el contrario, es obligatorio pactar intereses, como asimismo la modalidad de reajuste en el caso de las cuentas reajustables.
+Los bancos no pueden convenir pagos de intereses o reajustes por la mantención de saldos en cuentas de ahorro a la vista, a diferencia de las cuentas de ahorro a plazo en que, por el contrario, es obligatorio pactar intereses, como asimismo la modalidad de reajuste en el caso de las cuentas reajustables.
 
-Con excepción de los intereses y reajustes para las cuentas de ahorro a plazo, las instituciones depositarías no pueden ofrecer ningún beneficio apreciable en dinero por la apertura o por la mantención de cuentas de ahorro.
+Con excepción de los intereses y reajustes para las cuentas de ahorro a plazo, los bancos depositarios no pueden ofrecer ningún beneficio apreciable en dinero por la apertura o por la mantención de cuentas de ahorro.
 
 ### 13. Otras condiciones
 
-En los contratos de cuentas de ahorro las instituciones financieras pueden convenir con los titulares las condiciones que estimen pertinentes, siempre que ellas no se opongan a lo dispuesto en los Capítulos III.E.1 "Cuentas de Ahorro a Plazo", III.E.2 "Cuentas de Ahorro a la Vista" y III.E.4 "Cuentas de Ahorro a Plazo con Giros Diferidos", del Compendio de Normas Financieras del Banco Central de Chile, ni a las normas del presente Capítulo.
+En los contratos de cuentas de ahorro los bancos pueden convenir con los titulares las condiciones que estimen pertinentes, siempre que ellas no se opongan a lo dispuesto en los Capítulos III.E.1 "Cuentas de Ahorro a Plazo", III.E.2 "Cuentas de Ahorro a la Vista" y III.E.4 "Cuentas de Ahorro a Plazo con Giros Diferidos", del Compendio de Normas Financieras del Banco Central de Chile, ni a las normas del presente Capítulo.
 
 ### 14. Información a los clientes de ahorro y al público
 
 14.1. Información a los titulares acerca de las condiciones de sus cuentas de ahorro.
 
-Además de las condiciones generales que deben señalarse en el contrato de que trata el numeral 3.1 de este Capítulo, las instituciones financieras deberán informar a los titulares, al momento de la apertura de la cuenta, la situación que la afecta en caso de fallecimiento del titular y los límites de garantía estatal de los depósitos, lo que también podrá quedar señalado, a modo de información, en los respectivos contratos.
+Además de las condiciones generales que deben señalarse en el contrato de que trata el numeral 3.1 de este Capítulo, los bancos deberán informar a los titulares, al momento de la apertura de la cuenta, la situación que la afecta en caso de fallecimiento del titular y los límites de garantía estatal de los depósitos, lo que también podrá quedar señalado, a modo de información, en los respectivos contratos.
 
 En todo caso, tanto en la libreta de ahorro como en los estados de saldos que se entreguen a los titulares, se imprimirá la leyenda relativa al límite de garantía estatal de los depósitos, dispuesta en el Capítulo 18-8 de esta Recopilación.
 
 Por otra parte, en caso de que el titular desee contratar seguros asociados a la cuenta de ahorro, se le informará en forma previa a su contratación acerca del costo de las primas, los riesgos y montos cubiertos, el plazo de vigencia de la póliza, los montos deducibles en caso de haberlos, el plazo y forma para denunciar los siniestros y la compañía de seguros con la cual se contrata.
 
-14.2.- Información al público sobre tasas de interés, montos mínimos de depósitos y comisiones.
+14.2. Información al público sobre tasas de interés, montos mínimos de depósitos y comisiones.
 
-14.2.1.- Información sobre las condiciones vigentes.
+14.2.1. Información sobre las condiciones vigentes.
 
 Los bancos deberán informar las tasas de interés vigentes sobre las cuentas de ahorro a plazo, mediante avisos destacados que se colocarán a lo menos en su sitio web y en los locales en que atiendan a los titulares de dichas cuentas. Junto con esta información deberá indicarse en la misma forma, cuando corresponda, el sistema de comisiones vigentes con suficiente detalle para que el interesado pueda calcularlas y, si es el caso, las restricciones relativas a los montos mínimos de depósitos que se aceptan.
 
 Igualmente deberá informarse del número de giros que se pueden realizar en cada período de doce meses sin perder el derecho a reajustes como también de los intereses, en el caso de las cuentas con giro incondicional.
 
-14.2.2.- Aviso anticipado de cambios en los intereses y comisiones.
+14.2.2. Aviso anticipado de cambios en los intereses y comisiones.
 
 Cuando el banco resuelva disminuir la tasa de interés que pagará a las cuentas de ahorro a plazo, deberá anunciar la nueva tasa con una anticipación mínima de cinco días a la fecha de inicio del mes en que comenzará a regir.
 
 Del mismo modo, si el banco resuelve aumentar las comisiones, anunciará las nuevas condiciones en un plazo no menor a diez días de anticipación al inicio del trimestre en que se aplicará la nueva modalidad de cobro.
 
-Los anuncios de disminución de tasas de interés o aumentos de comisiones de que se trata, se harán a lo menos mediante un aviso en la página principal del sitio web del banco y en carteles destacados en los lugares de atención al público".
+Los anuncios de disminución de tasas de interés o aumentos de comisiones de que se trata, se harán a lo menos mediante un aviso en la página principal del sitio web del banco y en carteles destacados en los lugares de atención al público.
 
-14.3.- Publicidad de cuentas de ahorro a plazo.
+14.3. Publicidad de cuentas de ahorro a plazo.
 
 Los bancos que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
 
@@ -3690,19 +3680,19 @@ En toda publicidad que comprenda cuentas de ahorro con pago de reajustes, se ind
 
 Si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta".
 
-En caso de que la institución financiera ofrezca cuentas de ahorro con seguros asociados, se indicará que la contratación de tales seguros es completamente voluntaria".
+En caso de que el banco ofrezca cuentas de ahorro con seguros asociados, se indicará que la contratación de tales seguros es completamente voluntaria.
 
 14.4. Documentos en cobro rechazados.
 
-De acuerdo con las disposiciones generales sobre valores en cobro, la institución depositaría deberá informar al respectivo titular acerca de cualquier cargo que se efectúe en su cuenta con motivo de un documento que hubiere sido depositado en ella y que resultare rechazado.
+De acuerdo con las disposiciones generales sobre valores en cobro, el banco depositario deberá informar al respectivo titular acerca de cualquier cargo que se efectúe en su cuenta con motivo de un documento que hubiere sido depositado en ella y que resultare rechazado.
 
-14.5.- Envío de estados de movimiento y saldos.
+14.5. Envío de estados de movimiento y saldos.
 
 Una vez año, inmediatamente después de abonados los intereses en el caso de las cuentas de ahorro a plazo, los bancos enviarán un estado de cuenta a los titulares de cuentas de ahorro con libreta que hayan mantenido un saldo promedio mensual no inferior a 10 UF.
 
 El mismo estado se enviará a todos los titulares de cuentas de ahorro sin libreta, cualquiera sea el saldo promedio mantenido. A estos titulares se les enviará además estados de cuenta numerados correlativamente, cada vez que hayan efectuado 30 operaciones desde el envío del estado inmediatamente anterior.
 
-Los estados de que se trata se enviarán en papel o en archivos magnéticos por correo electrónico, según lo prefiera el titular de la cuenta, debiendo contener la siguiente información.
+Los estados de que se trata se enviarán en papel o en archivos magnéticos por correo electrónico, según lo prefiera el titular de la cuenta, debiendo contener la siguiente información:
 
 a) Nombre completo del titular, dirección y número de cuenta.
 
@@ -3712,65 +3702,19 @@ c) Importe de cada partida, identificando el concepto por el cual se acreditó o
 
 d) Saldo inicial y final de la cuenta en el período informado.
 
-Si la institución calcula los intereses y/o reajustes, en su caso, sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
+Si el banco calcula los intereses y/o reajustes, en su caso, sobre la base de los saldos efectivos, los depósitos efectuados con valores sujetos a retención deben identificarse con una clave o código.
 
 14.6. Aviso de desahucio de una cuenta de ahorro.
 
-Las instituciones financieras que deseen hacer efectiva la facultad de cerrar una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, informándole de las razones que motivan esa medida, las que podrán omitirse en el caso de las cuentas de ahorro a la vista.
+Los bancos que deseen hacer efectiva la facultad de cerrar una cuenta de ahorro, deberán remitir al titular un aviso en tal sentido, informándole de las razones que motivan esa medida, las que podrán omitirse en el caso de las cuentas de ahorro a la vista.
 
 En esa comunicación se le señalará al titular la oportunidad en que deberá retirar el saldo y los intereses y reajustes devengados, cuando corresponda.
 
-### 15. Normas contables
+### 15. Garantía prendaria sobre saldo en cuenta de ahorro
 
-15.1. Saldos de los depósitos de ahorro.
+Debido a que el saldo depositado en una cuenta de ahorro a plazo o a la vista sólo podría ser cedido conforme a las normas que rigen la cesión de créditos nominativos, resulta recomendable que los bancos se abstengan de recibirlos en garantía.
 
-Los saldos de las cuentas de ahorro a la vista que contraten las instituciones financieras deben acreditarse en la cuenta "Cuentas de ahorro a la vista", de la partida 3015.
-
-Las cuentas de ahorro a plazo, por su parte, deben registrarse en la cuenta "Cuentas de ahorro a plazo con giro incondicional" o "Cuentas de ahorro a plazo con giro diferido", según corresponda, de la partida 3035.
-
-15.2. Reajustes e Intereses.
-
-Los reajustes que devenguen los saldos de las cuentas de ahorro a plazo deben contabilizarse con cargo a las cuentas "Reajustes pagados sobre cuentas de ahorro a plazo con giro incondicional" o "Reajustes pagados sobre cuentas de ahorro a plazo con giro diferido", según sea el caso, de la partida 5315.
-
-Los intereses que devenguen los depósitos de ahorro a plazo deben debitarse a las cuentas "Intereses pagados sobre cuentas de ahorro a plazo con giro incondicional" o "Intereses pagados sobre cuentas de ahorro a plazo con giro diferido", de la partida 5135.
-
-Tanto los reajustes como los intereses devengados que aún no se hayan imputado a las respectivas cuentas de ahorro, deben abonarse en cuentas complementarias de las indicadas en el numeral 15.1 anterior, formando parte también de la partida 3035, de acuerdo con lo señalado en el Capítulo 7-1 de esta Recopilación Actualizada de Normas.
-
-Para el cálculo de los reajustes y de los intereses deben seguirse los procedimientos indicados en los numerales 8 y 9.2 de este Capítulo, respectivamente.
-
-15.3. Comisiones.
-
-Las comisiones que las instituciones depositarías cobren por el manejo de las cuentas de ahorro, deben acreditarse a las cuentas "Comisiones percibidas sobre cuentas de ahorro a la vista", "Comisiones percibidas sobre cuentas de ahorro a plazo con giro incondicional" o "Comisiones percibidas sobre cuentas de ahorro a plazo con giro diferido", según corresponda, de la partida 7530.
-
-15.4. Solicitudes de giro de cuentas de ahorro a plazo con giro diferido.
-
-Para mantener un control sobre las solicitudes de giro recibidas que se encuentren en espera del cumplimiento del plazo para hacerse efectivas, según lo dispuesto en el numeral 7.2 de este Capítulo, las entidades financieras deben registrar los montos de los giros solicitados en la cuenta de orden "Solicitudes de giro de cuentas de ahorro por cumplir", de la partida 9570.
-
-Una vez que la solicitud de giro se haya hecho efectiva o caduque por haberse cumplido su plazo, debe revertirse el correspondiente asiento efectuado en esas cuentas de orden.
-
-Los importes registrados en estas cuentas deberán permitir determinar el monto de las solicitudes que pudiera quedar afecto a reserva técnica, según lo indicado en el numeral 17.2 de este Capítulo.
-
-### 16. Encaje
-
-Los saldos por cuentas de ahorro están afectos a las tasas de encaje previstas para depósitos a plazo o para obligaciones a la vista, según corresponda.
-
-### 17. Reserva técnica
-
-17.1. Cuentas de ahorro a la vista o cuentas de ahorro a plazo con giro incondicional
-
-Las cuentas de ahorro a la vista y las cuentas de ahorro a plazo con giro incondicional, quedan sometidas enteramente a las regulaciones sobre reserva técnica, de conformidad con lo dispuesto en el artículo 65 de la Ley General de Bancos y las instrucciones impartidas al respecto en el Capítulo 4-2 de esta Recopilación de Normas.
-
-Los reajustes e intereses de las cuentas de ahorro a plazo están a disposición del titular solamente cuando se abonan en la cuenta. Para los efectos de determinar la reserva técnica, por lo tanto, no corresponde considerar los montos devengados contablemente por esos conceptos hasta tanto no hayan sido efectivamente abonados en las respectivas cuentas.
-
-17.2. Cuentas con giro diferido.
-
-En el caso de las cuentas de ahorro a plazo con giro diferido, las instituciones financieras deben computar para los efectos de la reserva técnica, solamente las solicitudes de giro a las cuales les falten diez días o menos para que cumplan la fecha en que deban pagarse.
-
-### 18. Garantía prendaria sobre saldo en cuenta de ahorro
-
-Debido a que el saldo depositado en una cuenta de ahorro a plazo o a la vista sólo podría ser cedido conforme a las normas que rigen la cesión de créditos nominativos, resulta recomendable que las instituciones financieras se abstengan de recibirlos en garantía.
-
-En todo caso, la libreta en que consta el saldo de una cuenta de ahorro no es un título de crédito y, por lo tanto, no constituye una garantía valida para los efectos de los límites individuales de crédito dispuestos en el artículo 84 N° 1 de la Ley General de Bancos.
+En todo caso, la libreta en que consta el saldo de una cuenta de ahorro no es un título de crédito y, por lo tanto, no constituye una garantía válida para los efectos de los límites individuales de crédito dispuestos en el artículo 84 N° 1 de la Ley General de Bancos.
 
 CAPITULO 2-5 (Bancos)
 
@@ -5660,61 +5604,59 @@ En caso que el déficit subsista por más de quince días, el directorio de la i
 
 En concordancia con lo indicado en el Capítulo 4-1 de esta Recopilación en relación con lo dispuesto en el Capítnulo III.A.1 del Compendio de Normas Financieras del Banco Central de Chile, el tipo de cambio que debe utilizarse para computar en pesos chilenos las obligaciones en moneda extranjera y los saldos en moneda extranjera que constituyan la reserva técnica, corresponderá al mismo que se aplica para los efectos del encaje, obtenido de las paridades que, según lo previsto en el N° 6 del Capíntulo I de su Compendio de Normas de Cambios Internacionales, publique el Instituto Emisor el último día hábil del mes calendario inmediatamente precedente.
 
-CAPITULO 5-1 (Bancos y Financieras)
+## Capítulo 5-1
 
-MATERIA:
+CANJE Y CÁMARA DE COMPENSACIÓN
 
-CANJE Y CAMARA DE COMPENSACION.
+### I. DISPOSICIONES GENERALES
 
-I.- DISPOSICIONES GENERALES.
+### 1. Normas que rigen el canje y las cámaras de compensación
 
-1.- Normas que rigen el canje y las cámaras de compensación.
+Para el canje de documentos y el funcionamiento de las cámaras de compensación, los bancos deben atenerse a las disposiciones impartidas por el Banco Central de Chile que se mencionan en este Capítulo.
 
-Para el canje de documentos y el funcionamiento de las cámaras de compensación, las instituciones financieras deben atenerse a las disposiciones impartidas por el Banco Central de Chile que se mencionan en este Capítulo.
-
-2.- Plazas y localidades de cámara.
+### 2. Plazas y localidades de cámara
 
 En el Anexo N° 1 se indican todas las plazas bancarias y su relación con las localidades de cámara dispuestas por esta Superintendencia en concordancia con las normas del Banco Central de Chile, a las que deben concurrir los bancos situados en ellas.
 
-3.- Información que debe enviarse a esta Superintendencia.
+### 3. Información que debe enviarse a esta Superintendencia
 
-La información que, según lo previsto en las disposiciones del Banco Central de Chile, debe enviarse a esta Superintendencia en relación con el funcionamiento de las cámaras de compensación en el país, deberá ser centralizada en las oficinas matrices de las respectivas instituciones y comunicada a este Organismo mediante carta firmada por el gerente general o por quien haga sus veces o lo reemplace.
+La información que, según lo previsto en las disposiciones del Banco Central de Chile, debe enviarse a esta Superintendencia en relación con el funcionamiento de las cámaras de compensación en el país, deberá ser centralizada en las oficinas matrices de los respectivos bancos y comunicada a este Organismo mediante carta firmada por el gerente general o por quien haga sus veces o lo reemplace.
 
-II.- CANJE DE DOCUMENTOS Y COMPENSACIÓN DE OBLIGACIONES EN MONEDA CHILENA.
+### II. CANJE DE DOCUMENTOS Y COMPENSACIÓN DE OBLIGACIONES EN MONEDA CHILENA
 
-1.- Cámaras de Compensación de cheques y otros documentos en moneda chilena.
+### 1. Cámaras de Compensación de cheques y otros documentos en moneda chilena
 
-El canje de documentos en moneda chilena entre instituciones financieras, se rige por las disposiciones del Capítulo III.H.1 del Compendio de Normas Financieras del Banco Central de Chile.
+El canje de documentos en moneda chilena entre bancos, se rige por las disposiciones del Capítulo III.H.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-La primera reunión de la cámara debe incluir todos los documentos recibidos por las instituciones financieras participantes, en ese mismo día dentro de su horario de atención normal a público autorizado por esta Superintendencia. Por lo tanto, el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva localidad de cámara (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir a esa reunión.
+La primera reunión de la cámara debe incluir todos los documentos recibidos por los bancos participantes, en ese mismo día dentro de su horario de atención norma la público autorizado por esta Superintendencia. Por lo tanto, el horario para la reunión se acordará considerando la hora de cierre de atención al público de cada uno de los participantes en la respectiva localidad de cámara (14 ó 16 hrs.) y las dificultades propias de las distancias que deben recorrerse para concurrir a esa reunión.
 
-2.- Compensación de operaciones efectuadas a través de cajeros automáticos.
+### 2. Compensación de operaciones efectuadas a través de cajeros automáticos
 
 La compensación de los importes en moneda nacional originados en operaciones efectuadas mediante cajeros automáticos en el país, se rige por las disposiciones del Capítulo III.H.3 del Compendio de Normas Financieras del Banco Central de Chile.
 
-Dicha compensación operará todos los días hábiles bancarios y considerará todas las transacciones de cargo de otras instituciones financieras realizadas hasta las 14 hrs.
+Dicha compensación operará todos los días hábiles bancarios y considerará todas las transacciones de cargo de otros bancos realizadas hasta las 14 hrs.
 
-3.- Cámara de compensación de operaciones interfinancieras en moneda nacional.
+3. Cámara de compensación de operaciones interfinancieras en moneda nacional.
 
 Esta cámara de compensación en moneda nacional se rige por las disposiciones del Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
-Dicha cámara, a nivel nacional, tiene como propósito operar como sistema de apoyo para administrar las contingencias que puedan producirse en alguno de los otros sistemas de pagos en moneda chilena, para compensar las obligaciones que las instituciones financieras tengan entre sí o por cuenta de sus clientes, y cuyo pago tenga validez ese mismo día.
+Dicha cámara, a nivel nacional, tiene como propósito operar como sistema de apoyo para administrar las contingencias que puedan producirse en alguno de los otros sistemas de pagos en moneda chilena, para compensar las obligaciones que los bancos tengan entre sí o por cuenta de sus clientes, y cuyo pago tenga validez ese mismo día.
 
 Esta cámara operará sólo cuando así lo resuelva el Banco Central de Chile.
 
-4.- Vales de cámara.
+### 4. Vales de cámara
 
 El vale de cámara es un documento cuya principal característica radica en que su compensación puede realizarse en el mismo día de su emisión, a través de la Cámara de Compensación de Operaciones Interfinancieras en Moneda Nacional.
 
-Los vales de cámara deben ser emitidos por las entidades financieras a nombre de otras instituciones financieras y sólo pueden utilizarse para efectuar el pago de obligaciones interfinancieras en moneda chilena o para ser depositados en una cuenta corriente que la institución emisora mantenga en cualquier banco.
+Los vales de cámara deben ser emitidos por los bancos a nombre de otros bancos y sólo pueden utilizarse para efectuar el pago de obligaciones interfinancieras en moneda chilena o para ser depositados en una cuenta corriente que el banco emisor mantenga en cualquier banco.
 
-En ningún caso se admite el uso de un vale de cámara para efectuar pagos a personas distintas de las instituciones financieras, como tampoco pueden ser endosados a otras entidades o personas por la institución a cuyo favor se encuentren extendidos. Esta última institución no puede destinarlos a ninguna otra finalidad que no sea su cobro en la correspondiente reunión de la cámara de compensación antes mencionada.
+En ningún caso se admite el uso de un vale de cámara para efectuar pagos a personas distintas de los bancos, como tampoco puede ser endosado a otras entidades o personas por el banco a cuyo favor se encuentre extendido. Esta última institución no puede destinarlos a ninguna otra finalidad que no sea su cobro en la correspondiente reunión de la cámara de compensación antes mencionada.
 
-Es conveniente que las entidades financieras utilicen el vale de cámara como único documento para pagar sus obligaciones en moneda chilena a favor de otras instituciones financieras.
+Es conveniente que los bancos utilicen el vale de cámara como único documento para pagar sus obligaciones en moneda chilena a favor de otros bancos.
 
 Los documentos deben ser impresos de acuerdo con las instrucciones generales que se indican en el N° 2 del Capítulo 6-1 de esta Recopilación de Normas y deben contener, sin perjuicio de otras indicaciones que se estimen convenientes, los siguientes datos mínimos:
 
-- **a)** Nombre de la institución emisora;
+- **a)** Nombre del banco emisor;
 
 - **b)** Nombre de la entidad a cuyo favor se extiende;
 
@@ -5724,13 +5666,13 @@ Los documentos deben ser impresos de acuerdo con las instrucciones generales que
 
 - **e)** Cantidad girada, expresada en cifras y en palabras; y
 
-- **f)** Firma autorizada de la institución que lo emite.
+- **f)** Firma autorizada del banco que lo emite.
 
-III.- CANJE DE DOCUMENTOS EN MONEDA EXTRANJERA ENTRE INSTITUCIONES BANCARIAS.
+### III. CANJE DE DOCUMENTOS EN MONEDA EXTRANJERA
 
-El canje de documentos en moneda extranjera de la misma plaza entre instituciones bancarias, se rige por el "Reglamento de Cámara de Compensación de Cheques y Otros Documentos Emitidos en Moneda Extranjera Contra Cuentas en el País", establecido por el Banco Central de Chile.
+El canje de documentos en moneda extranjera de la misma plaza entre instituciones bancarias, se rige por el "Reglamento de Cámara de Compensación de Cheques y Otros Documentos Emitidos en Moneda Extranjera Contra Cuentas en el país", establecido por el Banco Central de Chile.
 
-El texto de dicho reglamento se transcribe en el Anexo N° 2 de este Capítulo.
+El texto de dicho reglamento se transcribe en el anexo N° 2 de este Capítulo.
 
 De acuerdo con la reglamentación establecida por el Banco Central de Chile, para el funcionamiento de la referida Cámara de Compensación se incluyen como participantes en ella a todos los bancos, casas matrices o sucursales, que concurran a una localidad de cámara en la que la mayoría absoluta de los bancos concurrentes acuerden ese procedimiento para el cobro recíproco de documentos.
 
@@ -5738,83 +5680,65 @@ Con el acuerdo de la mayoría de los bancos participantes, en la localidad de Sa
 
 Entre los documentos en moneda extranjera que se presenten para ser pagados por cámara, podrán incluirse las órdenes de pago emitidas en el exterior contra bancos situados en Chile, en formato tipo cheque y expresadas en dólares de los Estados Unidos de América. En atención a las características particulares de estos documentos, los bancos librados que decidan no pagarlos se limitarán a devolverlos dejando constancia en los mismos de la razón por la cual proceden a su devolución, toda vez que tales instrumentos no son susceptibles de ser protestados.
 
-IV.- DISPOSICIONES COMPLEMENTARIAS.
+### IV. DISPOSICIONES COMPLEMENTARIAS
 
-1.- Pago de documentos fuera de Cámara de Compensación.
+### 1. Pago de documentos fuera de Cámara de Compensación
 
-Si una institución financiera opta por no cobrar por intermedio de la Cámara de Compensación los documentos que posea a cargo de otras entidades financieras, como asimismo si una institución financiera, por circunstancias excepcionales, no concurre a alguna de las reuniones teniendo valores por cobrar de otras entidades financieras, los reembolsos correspondientes puede hacerlos la institución obligada al pago, a su elección, ya sea mediante vale vista, vale de cámara, cheque contra su cuenta corriente bancaria o bien en dinero efectivo.
+Si un banco opta por no cobrar por intermedio de la Cámara de Compensación los documentos que posea a cargo de otros bancos, como asimismo si un banco, por circunstancias excepcionales, no concurre a alguna de las reuniones teniendo valores por cobrar de otros bancos, los reembolsos correspondientes puede hacerlos el banco obligado al pago, a su elección, ya sea mediante vale vista, vale de cámara, cheque contra su cuenta corriente bancaria o bien en dinero efectivo.
 
-2.- Retención sobre depósitos efectuados con documentos a cargo de otras instituciones financieras.
+2. Retención sobre depósitos efectuados con documentos a cargo de otros bancos.
 
-Las instituciones financieras no podrán extender más allá del término del proceso de la segunda reunión los plazos de retención sobre los depósitos efectuados con los documentos presentados para su procesamiento en el correspondiente ciclo de cámara, lo que determina los plazos de retención para los documentos a cargo de otras instituciones, señalados en el Capítulo 3-1 de esta Recopilación, que se cobren por intermedio de las Cámaras de Compensación.
+Los bancos no podrán extender más allá del término del proceso de la segunda reunión los plazos de retención sobre los depósitos efectuados con los documentos presentados para su procesamiento en el correspondiente ciclo de cámara, lo que determina los plazos de retención para los documentos a cargo de otros bancos, señalados en el Capítulo 3-1 de esta Recopilación, que se cobren por intermedio de las Cámaras de Compensación.
 
-3.- Documentos a cargo de instituciones que no tienen presencia en las plazas concurrentes. Servicio de corresponsalía.
+3. Documentos a cargo de bancos que no tienen presencia en las plazas concurrentes. Servicio de corresponsalía.
 
 Los bancos que tengan oficinas en alguna plaza que no concurre a una localidad de cámara, podrán convenir un servicio de corresponsalía con un banco que tenga presencia en una de esas localidades o una plaza concurrente y que los represente en las reuniones de las cámaras de compensación.
 
-4.- Pago o devoluciones de cheques recibidos en el canje.
+### 4. Pago o devoluciones de cheques recibidos en el canje
 
 Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos, que se encuentren disponibles, desde otras cuentas en el mismo banco o correspondientes a créditos que este haya otorgado, acreditadas en la cuenta corriente antes de cargar los cheques recibidos en canje.
 
 Los bancos deberán dejar constancia de la hora en que se registre en las cuentas corrientes cada uno de esos movimientos efectuados después de la hora de cierre.
 
-5.- Aviso a los clientes.
+### 5. Aviso a los clientes
 
-Las instituciones que reciban documentos rechazados deberán avisar de inmediato al cliente afectado, por vía postal o por los medios escritos que hubieren convenido para dejar constancia de tal aviso.
+Los bancos que reciban documentos rechazados deberán avisar de inmediato al cliente afectado, por vía postal o por los medios escritos que hubieren convenido para dejar constancia de tal aviso.
 
-6.- Información de pago de cheques por canje recibidos de otras instituciones.
+### 6. Información de pago de cheques por canje recibidos de otros bancos
 
 Todos los cheques compensados en la cámara deberán asentarse en las cuentas de los clientes con un código que permita identificar fácilmente su procedencia.
 
-7.- Timbre de Caja y de Cámara.
+### 7. Timbre de Caja y de Cámara
 
 Según lo previsto en las disposiciones del Banco Central de Chile, los documentos que se presenten a cobro a través de las Cámaras de Compensación, tanto en moneda chilena como extranjera, deben llevar en su anverso el correspondiente timbre de caja y en su reverso debe estamparse el timbre de Cámara Compensadora. Ambos timbres deben colocarse nuevamente cuando se trate de documentos cuya presentación se repita debido a rechazos anteriores.
 
-Para la confección de tales timbres, las instituciones deberán ceñirse a las instrucciones contenidas en los numerales 4.1 y 4.2 del Capítulo 6-1 de esta Recopilación.
+Para la confección de tales timbres, los bancos deberán ceñirse a las instrucciones contenidas en los numerales 4.1 y 4.2 del Capítulo 6-1 de esta Recopilación.
 
-V.- INSTRUCCIONES CONTABLES.
-
-1.- Canje de documentos.
-
-Los documentos a cargo de otras instituciones financieras se cargarán a la cuenta "Canje de la Plaza" o "Canje de otras plazas", de la partida 1015, según lo que se indica a continuación.
-
-La cuenta "Canje de la plaza" incluirá el valor de los documentos que se presenten a cobro en la primera reunión de la cámara para el canje de documentos en moneda chilena a que se refiere el título II de este Capítulo, como asimismo el importe de los documentos en moneda extranjera pagaderos en otras plazas que sean presentados en la cámara de la plaza de Santiago, según lo indicado en el título III de este Capítulo.
-
-La cuenta "Canje de otras plazas", por su parte, incluirá los documentos que la oficina depositaria debe enviar a otra oficina de la institución para que los presente a cobro, o bien entregarlos en comisión de cobranza a la entidad librada o a otro banco, debido a que el banco librado no tiene presencia en la plaza en que está situada la oficina depositaria ni en una plaza concurrente a la localidad de cámara en que participa dicha oficina depositaria. Para este efecto, los depósitos que se efectúen con estos documentos en una cuenta corriente de un banco corresponsal, pueden registrarse en la cuenta "Canje de otras plazas", pero sólo por dos días hábiles bancarios, en concordancia con lo indicado en el N° 2 siguiente.
-
-Los cargos que se efectúen a las cuentas "Canje de la Plaza" o "Canje de otras plazas" no pueden comprender en ningún caso, valores girados por la propia institución contra sus corresponsales.
-
-2.- Importes deducibles para encaje.
-
-Los saldos de las cuentas "Canje de la plaza" y "Canje de otras plazas" son deducibles de las obligaciones afectas a encaje según lo indicado en el Capítulo 4-1 de esta Recopilación.
-
-Dicha deducción sólo podrá efectuarse por un día hábil bancario para los documentos registrados en la cuenta "Canje de la plaza" y durante dos días hábiles bancarios para los documentos registrados en la cuenta "Canje de otras plazas" Por consiguiente, los importes de los documentos que no hayan sido solucionados dentro de esos plazos, se traspasarán a la cuenta "Canje no deducible" de la partida 1015.
-
-3.- Resultados del Canje.
-
-Los importes registrados en las cuentas de Canje antes mencionadas, deberán quedar saldados el día del término del respectivo ciclo de la cámara de compensación.
-
-Los documentos que haya recibido una institución financiera en la primera reunión se cargarán a las respectivas cuentas del pasivo con abono a la cuenta "Canje de la Plaza.
-
-Los documentos que le sean devueltos a la institución en la segunda reunión, originarán un abono a la cuenta "Canje de la plaza" o "Canje de otras plazas", o bien, "Canje no deducible", según corresponda, debiendo cargarse las cuentas de las personas a quienes hubieren sido antes acreditadas las respectivas cantidades, la cuenta de origen cuando hayan sido recibidos por la institución financiera en pago de obligaciones, o bien, transitoriamente a "Varios Deudores", cuando corresponda.
-
-El resultado a favor o en contra del canje de documentos en moneda chilena de un ciclo de cámara se saldará, en definitiva, con abono o cargo a la cuenta corriente de la entidad en el Banco Central de Chile, en tanto que el saldo deudor o acreedor por el proceso de canje de documentos en moneda extranjera corresponderá al monto neto a recibir o pagar por la institución, que se soluciona con los pagos de los respectivos bancos deudores en la misma fecha.
-
-4.- Control contable sobre el canje.
-
-Los tratamientos contables señalados en los numerales precedentes corresponden a la descripción de los criterios generales que deben aplicarse, en cuanto a los efectos en los deducibles de encaje y oportunidad de registro. Como es natural, ese esquema no es óbice para una apertura contable amplia que considere el uso de subcuentas, cuentas complementarias o la utilización de auxiliares que permitan un adecuado control sobre el canje, siempre que se encuadren en los criterios descritos y se informen correctamente los saldos en el sistema de información de esta Superintendencia, el cual considera las cuentas mencionadas en estas normas.
-
-Por otra parte, debe tenerse en cuenta que las contabilizaciones descritas en los numerales anteriores se refieren a la situación consolidada de la institución financiera. Por consiguiente, cualquier sistema que habiliten las instituciones financieras para el control de los documentos que sus oficinas se envíen entre sí para ser cobrados en la plaza en que tenga presencia el banco librado, debe garantizar que la deducción de los importes para efectos de encaje no supere dos días hábiles bancarios, según sea la cámara a la cual estos se presenten. La exigencia de encaje de la institución no puede ser afectada, en caso alguno, por la transferencia de los valores en cobro entre oficinas.
-
-ANEXO N°1
+ANEXO N° l
 
 PLAZAS Y LOCALIDADES DE CAMARA.
 
 .
 
-ANEXO N°2
+Anexo N° 1- Hoja 2
 
-A continuación se transcribe el Reglamento del Banco Central de Chile que regula el funcionamiento dé la cámara de compensación de documentos en moneda extranjera:
+.
+
+Anexo N° 1- Hoja 3
+
+.
+
+Anexo N° 1- Hoja 4
+
+.
+
+Anexo N° 1- Hoja 5
+
+.
+
+ANEXO N° 2
+
+A continuación se transcribe el Reglamento del Banco Central de Chile que regula el funcionamiento de la cámara de compensación de documentos en moneda extranjera:
 
 REGLAMENTO DE CAMARA DE COMPENSACIÓN DE CHEQUES Y OTROS DOCUMENTOS EMITIDOS EN MONEDA EXTRANJERA CONTRA CUENTAS EN EL PAIS
 
@@ -5828,11 +5752,11 @@ La Cámara de Compensación de Cheques y otros documentos emitidos en moneda ext
 
 El funcionamiento de la Cámara de Compensación de Cheques y otros documentos emitidos en moneda extranjera, se regirá por las normas del presente Reglamento. Le corresponderá a la Superintendencia de Bancos e Instituciones Financieras impartir las instrucciones que sean necesarias para su debida aplicación.
 
-Las empresas bancarias, en adelante - las instituciones-, estarán representadas en la Cámara por delegados idóneos del área internacional de cada una de ellas, designados para el efecto, que deben ser acreditados ante la Institución de Turno por medio de carta firmada por sus Gerentes Generales confiriéndoles poder suficiente para que representen a la institución en todas las operaciones de la Cámara en las que dichos delegados deban intervenir. Dichos poderes serán traspasados al término de cada período de turno, por la institución que finaliza su cometido a aquella que inicia el nuevo lapso de turno. La carencia del mencionado poder determinará que el delegado no sea considerado como tal.
+Las empresas bancadas, en adelante - las instituciones -, estarán representadas en la Cámara por delegados idóneos del área internacional de cada una de ellas, designados para el efecto, que deben ser acreditados ante la Institución de Turno por medio de carta firmada por sus Gerentes Generales confiriéndoles poder suficiente para que representen a la institución en todas las operaciones de la Cámara en las que dichos delegados deban intervenir. Dichos poderes serán traspasados al término de cada período de turno, por la institución que finaliza su cometido a aquella que inicia el nuevo lapso de turno. La carencia del mencionado poder determinará que el delegado no sea considerado como tal.
 
 2.1. Lugar físico del funcionamiento.
 
-Esta Cámara de Compensación operará en Santiago, físicamente en él mismo local de la Cámara de Compensación de instrumentos en moneda nacional, habilitado para dicho efecto por la Asociación de Bancos e Instituciones Financieras A.G., y será administrada al igual que su congénere de común acuerdo por las entidades participantes en turnos mensuales, que deben ser informados a la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio que cuenten para el efecto con un sistema de transmisión y procesamiento electrónico de datos, autorizado por el mencionado Organismo Contralor y por el Banco Central de Chile. En otras plazas funcionará en la sede del Banco de Turno ó en el local que, de común acuerdo, determinen las instituciones partícipes.
+Esta Cámara de Compensación operará en Santiago, físicamente en el mismo local de la Cámara de Compensación de instrumentos en moneda nacional, habilitado para dicho efecto por la Asociación de Bancos e Instituciones Financieras A.G., y será administrada al igual que su congénere de común acuerdo por las entidades participantes en turnos mensuales, que deben ser informados a la Superintendencia de Bancos e Instituciones Financieras, sin perjuicio que cuenten para el efecto con un sistema de transmisión y procesamiento electrónico de datos, autorizado por el mencionado Organismo Contralor y por el Banco Central de Chile. En otras plazas funcionará en la sede del Banco de Turno o en el local que, de común acuerdo, determinen las instituciones partícipes.
 
 2.2. Institución de Turno y Jefe de Cámara.
 
@@ -5870,7 +5794,7 @@ Para la aplicación del presente Reglamento, se entenderá por jurisdicción a a
 
 En todas las plazas financieras del país en que las instituciones financieras de la misma acuerden, por mayoría absoluta, el intercambio de documentos en moneda extranjera afectos a este Reglamento, se celebrarán con la participación obligatoria de todas las instituciones que deben concurrir a esta Cámara las reuniones que se detallan a continuación:
 
-### 1. Primera reunión (Cámara inician
+### 1. Primera reunión (Cámara inician)
 
 1.1 Horario.
 
@@ -5878,7 +5802,7 @@ Esta reunión se iniciará todos los días hábiles en las horas que se indican:
 
 Lunes : 17:15 horas
 
-Martes a viernes : 16:45 horas
+Martes a viernes: 16:45 horas
 
 Si el día lunes no fuera día hábil bancario, la primera Cámara del día siguiente hábil bancario se celebrará a partir de las 17:15 horas.
 
@@ -5886,7 +5810,7 @@ Si el día lunes no fuera día hábil bancario, la primera Cámara del día sigu
 
 El objetivo de esta reunión es efectuar el canje, compensación y cobro de los cheques en moneda extranjera girados contra cuentas corrientes abiertas en bancos que operan en el país, y demás documentos emitidos en moneda extranjera, en Chile o en el exterior, de cargo de esos bancos, con arreglo a las disposiciones legales y a las normas de cambios internacionales impartidas por el Banco Central de Chile. Sin embargo, tal propósito no inhibe el derecho que toda institución tiene de cobrar en forma directa cualquier documento que tenga contra otra, sin pasar por la Cámara.
 
-1.3 Requisitos básicos.
+1.3 Requisitos básicos
 
 Los requisitos básicos que deben cumplir los documentos aludidos para su presentación a esta reunión de la primera Cámara, serán los relativos a su cancelación. Para tal efecto, será necesario que se estampe: a) en el anverso de ellos el timbre de caja y, b) en reverso, el timbre de Cámara que indique el nombre de la institución que los presenta, el número que a ella le haya correspondido en la Cámara y la fecha de recepción del documento, con lo cual dicha institución se responsabiliza del último endoso que contenga.
 
@@ -5926,7 +5850,7 @@ Los requisitos básicos que deben cumplir los documentos que se devuelvan en est
 
 2.4 Formalidades de presentación y resultado de la Cámara.
 
-En esta reunión, cada banco que devuelva cheques y otros documentos protestados u objetados deberá confeccionar una planilla, en la que indicará el total del valor de los documentos qué devuelve a cada una de las otras entidades bancarias. En la misma planilla anotará también el valor de los documentos que a su vez reciba devueltos de cada institución concurrente. La diferencia que resulte individualmente determinará el saldo a favor o en contra que las devoluciones generan a cada una de ellas.
+En esta reunión, cada banco que devuelva cheques y otros documentos protestados u objetados deberá confeccionar una planilla, en la que indicará el total del valor de los documentos que devuelve a cada una de las otras entidades bancarias En la misma planilla anotará también el valor de los documentos que a su vez reciba devueltos de cada institución concurrente. La diferencia que resulte individualmente determinará el saldo a favor o en contra que las devoluciones generan a cada una de ellas.
 
 Una vez que cada delegado complete su planilla parcial en la forma antes descrita entregará copia de ésta debidamente cuadrada y firmada al Jefe de Cámara.
 
@@ -5934,7 +5858,7 @@ El Jefe de Cámara confeccionará una planilla general, referencial, refundiendo
 
 Concluido el proceso de esta Cámara, quedará establecida la conformidad de todos aquellos documentos que no sean devueltos por su intermedio, salvo que por acuerdo directo entre la institución receptora y la obligada al pago, se resuelva que esta última pague el documento fuera de Cámara.
 
-### 3. Tercera reunión (Cámara de cancelación del canje diario)
+### 3. Tercera reunión (Cámara de cancelación del canje Diario)
 
 3.1 Horario.
 
@@ -5942,7 +5866,7 @@ Esta reunión se efectuará todos los días hábiles bancarios a las horas que s
 
 Martes : 11:15 horas
 
-Miércoles a lunes : 10:45 horas
+Miércoles a lunes: 10:45 horas
 
 Si el día martes no fuere día hábil bancario la tercera Cámara del día siguiente hábil bancario se celebrará a las 11:15 horas.
 
@@ -5966,9 +5890,9 @@ No obstante lo señalado en el presente Título II, podrá fijarse en forma perm
 
 III.- ARCHIVO OFICIAL.
 
-### 1. Responsabilidad de la Institución de Tumo
+### 1. Responsabilidad de la Institución de Turno
 
-Cada Institución de Turno mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el lapso que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en medios magnéticos. El plazo de mantención de estos archivos, será el que se establece en el Art. 19 de la Ley General de Bancos.
+Cada Institución de Turno mantendrá en sus propios archivos las planillas o mensajes correspondientes a todas las reuniones de la Cámara Compensadora, efectuadas durante el lapso que haya ejercido el turno. La información que se origine por la utilización de un sistema de transmisión y procesamiento electrónico de datos, podrá conservarse en medios magnéticos. El plazo de mantención de estos archivos, será el que se establece en el art. 19 de la Ley General de Bancos.
 
 CAPITULO 5-2 (Bancos)
 
@@ -5998,11 +5922,7 @@ Si el documento es presentado por un apoderado cuyo nombre no aparece en la resp
 
 Los bancos que paguen estos documentos, obtendrán el rembolso de los importes pagados ya sea a través de la respectiva Cámara de Compensación o mediante la presentación directa de los documentos pagados al banco girado, el que, si así le es solicitado, está obligado a atender su pago mediante la emisión de un Vale de Cámara.
 
-5.- Compensación por egreso de caja.
-
-Las instituciones bancarias que efectúen el pago de los documentos a los beneficiarios podrán hacer efectiva la compensación por egreso de caja de que trata el numeral 3 2 del título II del Capítulo 4-1 de esta Recopilación, siempre que no hayan obtenido el pago de tales documentos mediante la emisión de Vales de Cámara del banco librado.
-
-6.- Formato de las órdenes de pago.
+5.- Formato de las órdenes de pago.
 
 El formato de las órdenes de pago de pensiones deberá ajustarse a las instrucciones generales establecidas en el Capítulo 6-1 de esta Recopilación.
 
@@ -15302,7 +15222,7 @@ Cuando la participación de mercado supere el 20%, esta Superintendencia resolve
 
 a) Que el patrimonio efectivo deba ser superior al 8% de sus activos ponderados por riesgo, con un límite de un 14%.
 
-b) Que la reserva técnica que establece el artículo 65 sea aplicable desde que los depósitos y demás sumas a que se refiere esa norma excedan de una vez y media su capital pagado y reservas.
+b) Que la reserva técnica que establece el artículo 65 sea aplicable desde que los depósitos y demás sumas a que se refiere esa norma excedan de una vez y media su patrimonio efectivo.
 
 c) Que el margen de préstamos interbancarios establecido en el artículo 84, N° 1, inciso penúltimo, se rebaje al 20% del patrimonio efectivo.
 
@@ -15754,123 +15674,33 @@ Los importes que los bancos reciban en moneda chilena para destinarlos a la cobe
 
 En la misma cuenta antes señalada se deberán contabilizar los importes que los bancos reciban, ya sea como resultado de la cobranza de letras u otros efectos de comercio constituidos en garantía o de cualquier otro origen, con el objeto de aplicarlos al pago de créditos para importación o de cualquiera otra naturaleza.
 
-CAPITULO 16-1 (Bancos y Financieras)
-
-MATERIA:
-
-REMESAS DE DINERO ENTRE OFICINAS DEL MISMO BANCO O AL BANCO CENTRAL DE CHILE.
-
-### 1. Remesas entre oficinas
-
-Las remesas de dinero que una oficina envíe a otra de la misma institución
-
-financiera, serán registradas en la cuenta "Remesas de efectivo en tránsito
-
-entre oficinas", la que será demostrada en la partida 1005 del formulario MB1.
-
-Al día hábil bancario siguiente, el respectivo importe será debitado en la
-
-cuenta que corresponda de la partida 2105 del formulario MB1, con abono a la
-
-cuenta "Remesas de efectivo en tránsito entre oficinas".
-
-La oficina receptora de tales remesas, registrará dichos importes sólo el día en
-
-que efectivamente los reciba, con cargo a la cuenta "Caja" y con abono a la
-
-cuenta que corresponda de la partida 4105 del formulario MB1.
-
-### 2. Remesas al Banco Central de Chile
-
-Los importes que las instituciones financieras remitan al Banco Central de Chile
-
-para que sean acreditados en sus respectivas cuentas, serán registrados en la
-
-cuenta "Remesas de efectivo en tránsito al Banco Central", la que se demostrará
-
-en la partida 1010 del formulario MB1, con abono a la cuenta "Caja".
-
-Tan pronto como dicho importe quede depositado en el Banco Central de Chile, las
-
-instituciones financieras debitarán la cuenta corriente en que se efectúe el
-
-depósito, con abono a la cuenta "Remesas de efectivo en tránsito al Banco
-
-Central".
-
-### 3. Documentación de las remesas
-
-Las oficinas que remitan dinero en efectivo a otras oficinas de la misma
-
-institución financiera o al Banco Central de Chile, deberán mantener en su
-
-poderlos documentos en que consten dichas remesas, para cualquiera revisión que
-
-seles pueda efectuar.
-
-### 4. Remesas afectas a estas normas
-
-El tratamiento contable antes señalado, deberá aplicarse en todas aquellas
-
-remesas de dinero en que transcurra a lo menos un día hábil bancario entre su
-
-despacho por la oficina o entidad emisora y su recepción por la oficina o
-
-entidad receptora.
-
-Cuando el despacho de una remesa y la correspondiente recepción por el
-
-destinatario se efectúe en el mismo día, las instituciones financieras podrán
-
-registrar los respectivos importes directamente, sin necesidad de utilizar las
-
-cuentas "Remesas de efectivo en tránsito entre oficinas" o "Remesas de efectivo
-
-en tránsito al Banco Central".
-
-### 5. Cómputo para efectos de encaje o de reserva técnica
-
-Los saldos de las cuentas "Remesas de efectivo en tránsito entre oficinas" y
-
-"Remesas de efectivo en tránsito al Banco Central", serán computados como encaje
-
-mantenido o como reserva técnica.
-
 CAPITULO 16-2 (Bancos) Derogado.
 
 Artículo .- Derogado.
 
-CAPITULO 16-3 (Bancos y Financieras)
+## Capítulo 16-3
 
-MATERIA:
+CAJA. DINERO EN TRÁNSITO O EN CUSTODIA.
 
-CAJA. DINERO EN TRANSITO O EN CUSTODIA.
+### 1. Remesas en tránsito a cargo de empresas transportadoras de valores
 
-1.- Remesas en tránsito a cargo de empresas transportadoras de valores.
-
-Se considerarán como remesas en tránsito de una institución financiera, los importes que se entreguen a una empresa transportadora de valores con el fin de que ésta los transporte a otra oficina de la misma institución que encarga el traslado en virtud de un contrato de prestación de tal servicio que se haya suscrito entre ambas partes, o que, de acuerdo con lo establecido en el mismo contrato, la empresa transportadora guarde en custodia en sus bóvedas, sujetos a las instrucciones que le imparta la institución depositante.
+Se considerarán como remesas en tránsito de un banco, los importes que se entreguen a una empresa transportadora de valores con el fin de que ésta los transporte a otra oficina del mismo banco que encarga el traslado en virtud de un contrato de prestación de tal servicio que se haya suscrito entre ambas partes, o que, de acuerdo con lo establecido en el mismo contrato, la empresa transportadora guarde en custodia en sus bóvedas, sujetos a las instrucciones que le imparta el banco depositante.
 
 El hecho de que los valores se encuentren bajo resguardo de una empresa transportadora de valores, no impide computarlos para encaje o reserva técnica.
 
-2.- Dinero en efectivo mantenido en custodia en otra institución financiera.
+2. Dinero en efectivo mantenido en custodia en otras instituciones financieras.
 
 Los bancos podrán mantener en custodia en otras entidades similares, fondos disponibles representados por dinero efectivo, sea que éste provenga de créditos otorgados por la entidad depositaría o simplemente de depósitos entregados en calidad de custodia por el banco depositante.
 
 Los depósitos en custodia de que trata este número no pueden ser computados para constituir encaje o reserva técnica.
 
-3.- Certificados de custodia.
+### 3. Certificados de custodia
 
 Corresponderá a los bancos que contraten los servicios de que trata este Capítulo, comprobar y exigir los resguardos necesarios y precisar las responsabilidades de la empresa encargada de la custodia de los valores.
 
-La entidad receptora de los valores en tránsito o en custodia en otros bancos,entregará certificados de custodia emitidos físicamente en duplicado -original y copia-, o bien certificaciones electrónicas cursadas por intermedio de un sistema de mensajería cuyas características garanticen su seguridad, confidencialidad, autenticidad y no repudio.
+La entidad receptora de los valores en tránsito o en custodia en otros bancos, entregará certificados de custodia emitidos físicamente en duplicado -original y copia-, o bien certificaciones electrónicas cursadas por intermedio de un sistema de mensajería cuyas características garanticen su seguridad, confidencialidad, autenticidad y no repudio.
 
 Al recibirse los valores que se encontraban en tránsito o al girarse los montos en custodia en otro banco, se procederá a la devolución de los originales de los certificados de custodia emitidos físicamente o a la emisión de los correspondientes mensajes de acuerdo con el sistema convenido, según corresponda.
-
-4.- Normas contables.
-
-Los valores del banco que se encuentren en poder de una empresa encargada de su transporte según lo indicado en el N° 1 de este Capítulo, se informarán en la cuenta "Caja en custodia en empresas transportadoras de valores", de la partida 1005.
-
-La institución que mantenga en otro banco dinero efectivo en custodia según lo señalado en el N° 2 de este Capítulo, incluirá los importes correspondientes en la cuenta "Caja en custodia en otras entidades financieras", de la partida 1005 El banco depositario, por su parte, informará los valores que mantiene en custodia en la cuenta de orden "Depósitos en efectivo mantenidos en custodia por cuenta de entidades financieras", de la partida 9260.
 
 CAPITULO 16-4 (Bancos y Financieras)
 
