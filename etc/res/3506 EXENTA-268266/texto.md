@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.506, de 11 de diciembre de 2007, de esta Subsecretaría, modifícase la resolución Nº2.995 de 2007, de esta Subsecretaría, que autorizó a CONSULTORES PESQUEROS MARACTIVO LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Dinámica operacional de la actividad extractiva de Anchoveta (Engraulis ringens) y Sardina común (Strangomera bentincki) de la flota cerquera artesanal de la X Región Norte", en el sentido de incorporar el siguiente numeral 5º Bis, nuevo:
+
+"5º Bis.- Para los efectos de la presente pesca de investigación, se exceptúa a las naves participantes del cumplimiento de la veda biológica establecida mediante decreto exento Nº239 de 1996, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores".
+
+Valparaíso, 11 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
