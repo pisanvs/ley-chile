@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.770, de 28 de diciembre de 2007, de esta Subsecretaría, autorízase a PESCA CISNE S.A. para ampliar actividades extractivas con la nave fábrica "Cisne Blanco", en el área marítima que a continuación se indica, donde podrá capturar, en calidad de fauna acompañante de los recursos Merluza del sur y Congrio dorado, el siguiente recurso: a) Área marítima comprendida entre los paralelos 44°30' y 47° L.S., con palangre, por fuera de las líneas de base recta y hasta el límite oeste correspondiente a la línea imaginaria trazada a una distancia de 60 millas marinas: Pejerrata;
+
+b) Área marítima comprendida entre los paralelos 47° y 57° L.S., con palangre, por fuera de las líneas de base recta y hasta el límite oeste correspondiente a la línea imaginaria trazada a una distancia de 80 millas marinas, medidas desde las líneas de base recta: Pejerrata.
+
+Valparaíso, 28 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
