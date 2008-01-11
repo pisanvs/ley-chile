@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.771, de 28 de diciembre de 2007, de esta Subsecretaría, autorízase a PESCA CISNE S.A. para ampliar actividades extractivas con la nave fábrica "Cisne Verde", en el área marítima comprendida entre los paralelos 47° y 57° L.S., por fuera de las líneas de base recta y hasta el límite oeste correspondiente a la línea imaginaria trazada a una distancia de 80 millas marinas, con palangre, sobre el recurso Pejerrata Coelorhynchus fasciatus, en calidad de fauna acompañante de los recursos Merluza del sur y Congrio dorado.
+
+Valparaíso, 28 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
