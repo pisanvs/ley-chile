@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.477, de 6 de diciembre de 2007, de esta Subsecretaría, autorízase a ROBERTO GERMÁN CALLEJAS ÁNGEL para iniciar actividades pesqueras de transformación, en orden a instalar y operar una planta ubicada en Argandeña Nº 845, Parte Alta, Coquimbo, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado y congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 6 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
