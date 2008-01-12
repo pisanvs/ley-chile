@@ -1,0 +1,3 @@
+Por resolución exenta Nº 49, de 4 de enero de 2008, de esta Subsecretaría, recházase la solicitud Nº 207111061 presentada por SALMONES MULTIEXPORT S.A. para modificar la concesión de acuicultura ubicada en Bahía Anna Pink, al sur de Isla Larga, XI Región, otorgada por resolución Nº1.203, de 2003, de la Subsecretaría de Marina.
+
+Valparaíso, 4 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
