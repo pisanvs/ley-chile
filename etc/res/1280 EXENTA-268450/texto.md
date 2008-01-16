@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE LA ESTANCIA LAS COLES
+
+Resolución exenta Nº1.280, del 28 de diciembre de 2007, resolvió la clausura a partir de esta fecha de Estancia Las Coles de propiedad de Eduardo Doberti Guic, Rol 5121-57, ubicada en la provincia de Magallanes. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales. Punta Arenas, 28 de diciembre del 2007.
+
+Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
