@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DEL PLANTEL ANGELITA
+
+Resolución exenta Nº 388, del 9 de abril de 2007, resolvió la clausura a partir de esta fecha del Plantel Angelita, de propiedad Sergio Cvitanic Mekjavic. Roles 646-035/671-018/641-002/671-010/641-001, ubicados en la provincia de Tierra del Fuego. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparásito a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Porvenir, 9 de abril 2007. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
