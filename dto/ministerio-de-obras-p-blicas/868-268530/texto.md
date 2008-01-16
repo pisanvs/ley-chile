@@ -1,0 +1,3 @@
+Por decreto MOP Nº 868, de fecha 28 de noviembre del 2007, se expropió el lote de terreno Nº 103, superficie 1.391,40 m2, Rol Nº 260-39, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, III Etapa", y se acordó el valor de indemnización con su propietario Rubén del Carmen Barahona Hidalgo y otros, ascendente a la cantidad de $8.166.894.
+
+- Fiscal del Ministerio de Obras Públicas.
