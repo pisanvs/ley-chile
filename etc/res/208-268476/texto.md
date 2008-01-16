@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 208, de 24.12.2007, Serviu VI Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Manso de Velasco Nº 1126, Rol de Avalúo Nº 260-08, de la comuna de San Fernando, superficie aproximada de 105,19 m² de terreno, delimitada en polígono R-S-T-U-V conforme al plano elaborado por Pamela Acuña Illanes, ingeniero, "Mejoramiento Eje Vial Manso de Velasco y Avenida O'Higgins" comuna de San Fernando. De aparente dominio de Mercedes Muñoz Espinoza, a fojas 157 Nº 240, del año 1951 "Proyecto Mejoramiento Eje Vial Manso de Velasco y Avenida O'Higgins" conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sra. Carmen Ríos Marcuello, María Isabel Ríos Marcuello y Patricia Morales, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha noviembre de 2007, monto provisional en $25.634.950.
+
+Director Serviu VI Región.
