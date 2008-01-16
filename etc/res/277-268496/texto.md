@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 277, de 28 de diciembre de 2007, tramitada Contraloría General de la República, fecha 31 de diciembre de 2007, Dirección Regional Serviu X Región de Los Lagos, expropió una franja de terreno ubicada en la continuación de Avenida Ricardo Boettcher, comuna de La Unión, provincia de Valdivia, Región de Los Ríos, Rol de avalúo 168-6, aparente dominio de Iansa, de superficie 221 metros cuadrados, aproximadamente, plano elaborado por Serviu Región de Los Ríos. Indemnización provisional $14.503.301. La indemnización provisional se pagará al contado, fijado por Comisión Peritos Luis Collarte Concha, María José Freire Allende y Gustavo Lacrampe Holtheuer, designados resolución exenta 1.776, de 26 de noviembre de 2007, más reajuste correspondiente, conforme lo establecido en el artículo 5º del DL 2.186. La publicación se efectúa conforme lo establecido en artículo 7º del decreto ley Nº 2.186.
+
+Director Regional Serviu X Región.
