@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 199, de 28.11.2007, Serviu VI Región del Libertador Bernardo O.Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Manso de Velasco Nº 1030, Rol de Avalúo Nº 140-20, de la Comuna de San Fernando, superficie aproximada de 64,00 m² de terreno, delimitada en polígono E-F-G-H conforme al plano elaborado por Pamela Acuña Illanes, ingeniero, "Mejoramiento Eje Vial Manso de Velasco y Avenida O.Higgins" comuna de San Fernando. De aparente dominio de Arcadio Segundo Santibáñez Pezoa, a fojas 255 Nº 428 del año 1954 "Proyecto Mejoramiento Eje Manso de Velasco y Avenida O.Higgins", conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sra. Carmen Ríos Marcuello, Sra. María Isabel Ríos Marcuello y Sra. Patricia Morales Rivera, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha noviembre de 2007, monto provisional en $16.689.800.
+
+Director Serviu VI Región.
