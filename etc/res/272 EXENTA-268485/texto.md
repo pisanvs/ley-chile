@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA CERRO HUELÉN
+
+Resolución exenta Nº 272 del 16 de Marzo de 2007, resolvió la clausura a partir de esta fecha de Estancia Cerro Huelén, de propiedad de Dn. Arturo Godoy, Roles 1018-05 ubicados en la provincia de Última Esperanza. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Puerto Natales, 10 diciembre 2007. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
