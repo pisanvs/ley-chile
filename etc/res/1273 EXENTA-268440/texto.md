@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIA LA PUNTILLA
+
+Resolución exenta Nº 1.273 de 28 de diciembre de 2007, resolvió la Clausura a partir de esta fecha de Estancia La Puntilla de propiedad de la Sucesión Abraham Vargas Castro, roles 5106-0025 y 5106-0034, ubicada en la provincia de Magallanes. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una vista inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales. Punta Arenas, 28 de diciembre de 2007.
+
+Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
