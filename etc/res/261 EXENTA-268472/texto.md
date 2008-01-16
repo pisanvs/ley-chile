@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIA LOS LEONES
+
+Resolución exenta Nº 261 del 16 de marzo de 2007, resolvió la clausura a partir de esta fecha de Estancia Los Leones, de propiedad de Suc. Víctor Fernández Villa, Roles: 1022-015 ubicada en la provincia de Última Esperanza. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en el plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Puerto Natales, 16 marzo 2007. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
