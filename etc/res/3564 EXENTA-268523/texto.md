@@ -1,0 +1,15 @@
+Por resolución exenta Nº 3.564 de 13 de diciembre de 2007 de esta Subsecretaría, autorízase a UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2007-36 denominado "Edad, crecimiento y mortalidad natural de Besugo".
+
+El objetivo de la pesca de investigación consiste en determinar la edad, crecimiento y mortalidad natural de Besugo en el área de su unidad de pesquería.
+
+La pesca de investigación se efectuará entre el límite norte de la II Región y el límite sur de la III Región, por dentro y fuera del área de reserva artesanal, abarcando principalmente entre los veriles entre los 200 y 500 metros de profundidad, entre la fecha de la presente resolución y el 31 de diciembre de 2007, ambas fechas inclusive. La operación de las naves en las zonas de perforación establecidas de conformidad con la resolución Nº 1030 de 2004, de esta Subsecretaría, se efectuará sólo en relación con los recursos que la citada resolución indica, y de conformidad con lo dispuesto en el artículo 3º del D.S.
+
+Nº 200 de 2003, del Ministerio de Economía, Fomento y Reconstrucción.
+
+En la pesca de investigación que se autoriza participarán las naves industriales "Foche", en calidad de titular, y la nave "Lonquimay", en calidad de suplente, ambas del armador Pesquera Isladamas S.A., las que utilizarán, redes de arrastre de fondo, de tipo langostinera, de conformidad con lo dispuesto en el artículo 3º del D.S. Nº 200 de 2003, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Las naves participantes podrán extraer una cuota máxima total de 60 toneladas del recurso hidrobiológico Besugo, en calidad de especie objetivo. La nave "Foche" podrá capturar, como especie objetivo y/o en calidad de fauna acompañante de la especie objetivo del estudio, los recursos hidrobiológicos Camarón nailon, Langostino colorado y Langostino amarillo, mientras que la nave "Lonquimay" podrá capturar, como especie objetivo y/o en calidad de fauna acompañante de la especie objetivo del estudio, los recursos hidrobiológicos Camarón nailon y Langostino colorado. Asimismo, la nave "Lonquimay" podrá extraer, en calidad de fauna acompañante de los recursos Camarón nailon y Langostino colorado en el área marítima de la II y III Región, el recurso Langostino amarillo, en los términos indicados en la Resolución extractada.
+
+La Universidad designa como persona responsable de esta pesca de investigación a su Rector, don Sergio Lavanchy Merino.
+
+Valparaíso, 13 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
