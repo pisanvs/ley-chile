@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.666, de 27 de diciembre de 2007, de esta Subsecretaría, modifícase la resolución Nº 1.158, de 2003, de esta Subsecretaría de Pesca, que autorizó a SOCIEDAD COMERCIAL FRIGORÍFICO LOTA LIMITADA para iniciar actividades pesqueras de transformación, en el sentido de reemplazar la expresión "El Aserradero Nº 024, Lota, VIII Región" por "Carriel Norte s/n, Parcela Nº 1C, Talcahuano, VIII Región".
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
