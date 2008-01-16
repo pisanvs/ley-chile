@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 12.368, de 31 de diciembre de 2007, Serviu Región del Bío Bío ordenó expropiación atributos de uso y goce sobre una porción del inmueble ubicado en calle Los Alerces St. 3 Mz B, Villa Penco Camino, Rol de avalúo 139-21, comuna Penco, superficie aproximada 3,63 metros cuadrados de terreno, dentro polígono y linderos señalados en plano expropiación Nº S8R-21.429, de aparente dominio de Muñoz Villa, Margarita del Carmen, para ejecución proyecto "Urbanización Chile Barrio Asentamiento Sector Oriente y Construcción 83 Entornos, comuna de Penco", Programa Chile Barrio, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por Iván Cerda Espinoza, ingeniero civil, Héctor Peña Ríos, constructor civil y María Alejandra Gutiérrez F., arquitecta, según informe de fecha 26 de diciembre de 2007, fijó monto provisional indemnización en $21.573.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
