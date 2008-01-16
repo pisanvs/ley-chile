@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 198, de 28.11.2007, Serviu VI Región del Libertador Bernardo O.Higgins, ordenó expropiación parte de un inmueble ubicado en Avenida Manso de Velasco Nº 1080, Rol de Avalúo Nº 140-26, de la Comuna de San Fernando, superficie aproximada de 84,40 m² de terreno, delimitada en polígono R-S-T-U-V conforme al plano elaborado por Pamela Acuña Illanes, ingeniero, "Mejoramiento Eje Vial Manso de Velasco y Avenida O.Higgins" comuna de San Fernando. De aparente dominio de Compañía Agropecuaria Copeval S.A., a fojas 153 Nº 236 del año 1999. "Proyecto Mejoramiento Eje Manso de Velasco y Avenida O.Higgins", conforme al Art. 51, ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sra. Carmen Ríos Marcuello, Sra. María Isabel Ríos Marcuello y Sra. Patricia Morales Rivera, ingeniero, arquitecto y constructor civil, respectivamente, según informe de fecha noviembre de 2007, monto provisional en $16.256.800.
+
+Director Serviu VI Región.
