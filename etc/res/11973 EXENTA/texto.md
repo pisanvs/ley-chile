@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 11.973, 24 de diciembre de 2007, Serviu Región del Bío Bío ordenó expropiación total del inmueble ubicado en Avenida Ruiz de Gamboa Nº 121, comuna Chillán, Rol de avalúo Nº 305-11, comuna Chillán, superficie aproximada 52,7 metros cuadrados de terreno, y 0,0 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R-21.760, de aparente dominio de Suazo Caro, Juan Segundo, para ejecución obras pavimentación, proyecto "Habilitación Av. Ruiz de Gamboa Etapa 1-b", conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por Cecilia Carrasco Verdugo, Claudia Marzullo García y Mario Bellolio Bostica, todos arquitectos, según informe de fecha 7 de diciembre de 2007, fijó monto provisional indemnización en $1.028.072.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
