@@ -1,0 +1,3 @@
+Por resolución exenta Nº 103 , de 8 de enero de 2008 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207122030 presentada por SERVICIOS DE ACUICULTURA ACUIMAG S.A., para instalar y operar un centro de cultivo ubicado en Estero Poca Esperanza, al sur de Punta Entrada, Península Vicuña Mackenna, XII Región.
+
+Valparaíso, 8 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
