@@ -96,9 +96,21 @@ Corresponde al ordenamiento, mediante asignaciones especiales, de los estudios, 
 
 Dichas asignaciones especiales corresponderán al código y nombre que se le asigne en el Banco Integrado de Proyectos (BIP).
 
+### V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA
+
+Corresponde a las instancias previas al devengamiento en la ejecución del presupuesto, que las entidades públicas deberán utilizar e informar con el objeto de conocer el avance en la aplicación de los recursos presupuestarios.
+
+PREAFECTACION: Corresponde a las decisiones que dan cuenta de intenciones de gasto y sus montos y que no originan obligaciones con terceros, tales como la identificación de iniciativas de inversión, distribución regional de gastos, procesos de selección, solicitud de cotizaciones directas o a través de los sistemas de la Dirección de Compras y Contratación Pública, llamados a licitación y similares.
+
+AFECTACION: Corresponde a las decisiones que importan el establecimiento de obligaciones con terceros sujetos a los procedimientos de perfeccionamiento que, en cada caso, correspondan, tales como adjudicaciones de contratos o selección de proveedores de bienes y servicios comprendidos en convenios marco suscritos por la Dirección de Compras y Contrataciones Públicas.
+
+COMPROMISO CIERTO: Corresponde a las decisiones de gasto que, por el avance en su concreción, dan origen a obligaciones recíprocas con terceros contratantes, tales como la emisión de órdenes de compra por la contratación del suministro de bienes o servicios o la ejecución de obras, según corresponda. Se incluyen en esta etapa las obligaciones de carácter legal y contractual asociadas al personal de planta y a contrata.
+
+COMPROMISO IMPLICITO: Corresponde a aquellos gastos que por su naturaleza o convención, no pasan previamente por alguna de las etapas de afectación antes establecidas y se originan en forma simultánea al devengamiento, como es el caso de los servicios básicos, peajes, permisos de circulación de vehículos y similares.
+
 CLASIFICADOR DE INGRESOS Y GASTOS
 
-2.Apruébase el siguiente Clasificador de Ingresos y Gastos, que para los efectos de la ejecución presupuestaria e información mensual pertinente, deberán utilizar todos los organismos del sector público, a que se refiere el decreto ley N° 1.263, de 1975.
+2. Apruébase el siguiente Clasificador de Ingresos y Gastos, que para los efectos de la ejecución presupuestaria e información mensual pertinente, deberán utilizar todos los organismos del sector público, a que se refiere el decreto ley N° 1.263, de 1975.
 
 Subt. Item Asig.
 
@@ -147,6 +159,8 @@ Subt. Item Asig.
 002 Derechos de Explotación ENAP
 
 003 Gasolinas, Petróleo Diesel y Otros
+
+01 03 004 Derechos de Extracción Ley de Pesca
 
 04 Impuestos a los Actos Jurídicos
 
@@ -560,6 +574,10 @@ el Código del Trabajo
 
 y Comisiones
 
+004 Prestaciones de Servicios
+
+en Programas Comunitarios.
+
 22 BIENES Y SERVICIOS DE CONSUMO
 
 01 Alimentos y Bebidas
@@ -748,6 +766,10 @@ Infantiles
 
 Similares.
 
+011 Servicios de Producción y
+
+Desarrollo de Eventos.
+
 999 Otros
 
 09 Arriendos
@@ -880,6 +902,8 @@ Cuidado del Niño
 
 006 Subsidio de Cesantía
 
+012 Aporte Familiar Permanente de marzo
+
 03 Prestaciones Sociales del
 
 Empleador
@@ -891,6 +915,10 @@ Empleador
 003 Fondo Retiro Funcionarios
 
 Públicos Ley Nº 19.882
+
+004 Otras indemnizaciones
+
+012 Aporte Familiar Permanente de marzo
 
 24 TRANSFERENCIAS CORRIENTES
 
@@ -1660,7 +1688,9 @@ participación que se determine del "Fondo
 
 Común Municipal", en conformidad a lo
 
-dispuesto en el artículo 38 del DL. N° 3.063, de 1979.
+dispuesto en el artículo 38 del DL.
+
+N° 3.063, de 1979.
 
 Comprende las siguientes asignaciones:
 
@@ -2435,6 +2465,40 @@ sesiones, y la entrega de fondos para
 fines específicos, de acuerdo con las
 
 disposiciones legales vigentes
+
+004 Prestaciones de Servicios en
+
+Programas Comunitarios
+
+Comprende la contratación de
+
+personas naturales sobre la
+
+base de honorarios, para la
+
+prestación de servicios
+
+ocasionales y/o transitorios,
+
+ajenos a la gestión administrativa
+
+interna de las respectivas
+
+municipalidades, que estén
+
+directamente asociados al
+
+desarrollo de programas en
+
+beneficio de la comunidad, en
+
+materias de carácter social,
+
+cultural, deportivo, de
+
+rehabilitación o para enfrentar
+
+situaciones de emergencia
 
 22 BIENES Y SERVICIOS DE CONSUMO
 
@@ -3578,6 +3642,22 @@ electrónicos de transmisión de datos,
 
 textos o similares.
 
+011 Servicios de Producción y Desarrollo
+
+de Eventos
+
+Son los gastos por concepto de
+
+contratación de personas jurídicas,
+
+para la producción y desarrollo integral
+
+de eventos sociales, culturales
+
+y deportivos, que realizan en beneficio
+
+de la comunidad las municipalidades.
+
 999 Otros
 
 Son los gastos por concepto de otros
@@ -4101,6 +4181,8 @@ Considera las siguientes asignaciones:
 003 Fondo Retiro Funcionarios Públicos
 
 Ley Nº 19.882.
+
+004 Otras indemnizaciones
 
 24 TRANSFERENCIAS CORRIENTES
 
@@ -5614,7 +5696,25 @@ el Código del Trabajo
 
 6. Declárese que no obstante las asignaciones generales fijadas expresamente en el clasificador de ingresos y gastos del presente decreto, las Municipalidades y servicios incorporados a la gestión municipal, por aplicación del D.F.L. (I) N° 1-3.063, de 1980 y Ley N° 18.096, continuarán utilizando, para los efectos de ejecución e información presupuestaria, las clasificaciones establecidas en el D. (H) N° 1.256, del 28 de diciembre de 1990 con sus modificaciones, hasta el 31 de diciembre de 2007.
 
-> **Nota.** El DTO 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
+7.- Sin perjuicio de lo anterior, las municipalidades, para efectos de la formulación, ejecución e información del presupuesto, deberán, a contar del ejercicio 2010, desagregarlo distinguiendo las siguientes áreas de gestión: 01 Gestión Interna; 02 Servicios a la Comunidad; 03 Actividades Municipales; 04 Programas Sociales; 05 Programas Recreacionales y 06 Programas Culturales. Lo anterior, con estricta sujeción al presente clasificador y al presupuesto aprobado.
+
+Para realizar la referida desagregación, se considerarán las siguientes distinciones de gastos por área:
+
+01 Gestión Interna: comprende todo el gasto relativo a la operación y funcionamiento del municipio, incluidas las adquisiciones de activos no financieros y las iniciativas de inversión requeridas para su operación y funcionamiento. Además, se incluirán las transferencias al Fondo Común Municipal y otras a que esté obligada legalmente la entidad, como también los aportes destinados a cubrir la operación de los servicios incorporados a la gestión municipal.
+
+02 Servicios a la Comunidad: comprende todos los gastos relacionados con el funcionamiento y la mantención de los bienes y servicios directamente vinculados con la administración de los bienes nacionales de uso público, de cargo del municipio. Incluye también los gastos relativos a dichos bienes por concepto de iniciativas de inversión de beneficio municipal; los aportes a los servicios incorporados y las subvenciones que decidan otorgar a entidades públicas o privadas.
+
+03 Actividades Municipales: comprende los gastos en bienes y servicios que, incluidos dentro de la función municipal, se efectúan con motivo de la celebración y/o realización de festividades, aniversarios, inauguraciones y similares que el municipio defina como de interés común en el ámbito local.
+
+04 Programas Sociales: comprende todo gasto ocasionado por el desarrollo de acciones realizadas directamente por el municipio con el objeto de mejorar las condiciones materiales de vida y el bienestar social de los habitantes de la respectiva comuna. Incluye las subvenciones que, con igual finalidad, acuerde entregar a entidades públicas o privadas, como también las iniciativas que resuelva llevar a cabo en fomento productivo y desarrollo económico local.
+
+05 Programas Recreacionales: comprende todo gasto vinculado con las actividades y/o iniciativas ejecutadas directamente por el municipio, con la finalidad de fomentar las disciplinas deportivas, de recreación, turismo y entretenimiento de la comunidad local. Incluye las subvenciones a entidades públicas o privadas que otorgue con igual propósito.
+
+06 Programas Culturales: comprende todo gasto relacionado con el desarrollo de iniciativas que ejecute directamente el municipio, orientadas al fomento y difusión de la cultura y de las artes entre los habitantes de la comuna. Incluye las subvenciones a entidades públicas o privadas que conceda con la misma finalidad.
+
+> **Nota.** El Decreto 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
+
+> **Nota.** NOTA 1 El Decreto 1403, Hacienda, promulgado el 02.12.2005, modifica la presente norma, en el sentido de agregar al N° 1, una nueva clasificación: "V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA", la que ha sido incorporada a este texto actualizado. Sin embargo, la norma modificatoria no ha sido publicada en el Diario Oficial.
 
 Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
