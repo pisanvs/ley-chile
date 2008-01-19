@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.664, de 27 de diciembre de 2007, de esta Subsecretaría, autorízase a THOMAS CAMPBELL Y COMPAÑÍA LIMITADA, para ampliar actividades pesqueras de transformación autorizadas por resoluciones citadas en visto, para incorporar a la planta ubicada en Avenida Forestal Nº 1101, Parque Industrial Coronel, Coronel, en las líneas de proceso de fresco enfriado, fresco refrigerado, y congelado, el recurso Trucha alpina.
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
