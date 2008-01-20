@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.621, de 21 de diciembre de 2007, de esta Subsecretaría, modifícase la resolución Nº 1.760, de 2007, de esta Subsecretaría, que autorizó a JOSÉ VÍCTOR MALDONADO SCHWENCKE para instalar colectores de semillas de mitílidos en sector costa Pucheguín, Estero Reloncaví, X Región, en el sentido de ampliar el plazo para la instalación de los colectores por un período de seis meses a contar del 11 de diciembre de 2007.
+
+Valparaíso, 21 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
