@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.582, de 18 de diciembre de 2007, de esta Subsecretaría, modifícase la resolución exenta Nº 3.575, de 2006, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo biológico pesquero de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la X Región, Zona de Palena", en el sentido que a continuación se indica:
+
+a) En el numeral 1º, aprobar el addendum a los términos técnicos de referencia denominado "Complemento monitoreo biológico-pesquero de la pesquería de Merluza austral (Merluccius australis), en aguas interiores de la X Región, Zona Palena Etapa II".
+
+b) En el numeral 5º, incrementar la fracción autorizada para el mes de diciembre en 85.262 kilogramos de Merluza del sur, los que se imputarán a la cuota global anual de captura autorizada a ser extraída por el sector artesanal mediante decreto exento Nº 1.522, de 2006, rectificado mediante decreto exento Nº 5, de 2007, ambos del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
