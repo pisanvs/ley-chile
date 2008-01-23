@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.659, de 27 de diciembre de 2007, de esta Subsecretaría, modifícase el numeral 4º de la resolución exenta Nº 153, de 2007, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las agregaciones de Jurel (Trachurus murphyi) en la III Región, temporada 2007", en el sentido de reemplazar a la nave "Chelita I" por la embarcación artesanal "El Cid", RPA 950657, del listado de embarcaciones artesanales autorizadas a participar en la presente pesca de investigación.
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
