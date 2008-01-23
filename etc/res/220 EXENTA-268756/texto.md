@@ -1,0 +1,3 @@
+Por resolución exenta Nº 220, de 16 de enero de 2008, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 207111058 presentada por SALMONES MULTIEXPORT S.A. para el centro cultivo ubicado al sur de Isla Marcacci, XI Región, otorgado por resolución Nº 135 de 2004, de la Subsecretaría de Marina.
+
+Valparaíso, 16 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
