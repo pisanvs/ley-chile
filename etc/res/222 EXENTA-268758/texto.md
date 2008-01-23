@@ -1,0 +1,3 @@
+Por resolución exenta Nº 222, de 16 de enero de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206105028, presentada por Dagoberto Segundo Orellana Moraga para instalar y operar un centro de cultivo ubicado en estero Quetalmahue, ensenada Melonhue, al oeste de Punta Melohue, X Región.
+
+Valparaíso, 16 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
