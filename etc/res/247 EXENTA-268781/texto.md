@@ -1,0 +1,3 @@
+Por resolución exenta Nº247, de 16 de enero de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207111164 presentada por SOCIEDAD PESQUERA Y COMERCIAL SALMONES EXTREMO SUR LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Chacabuco, caleta Harchy, Isla Humos, XI Región.
+
+Valparaíso, 16 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
