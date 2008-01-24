@@ -1,0 +1,3 @@
+Por resolución exenta Nº 237, de 16 de enero de 2008, de esta Subsecretaría, recházase la solicitud Nº 207111060 presentada por SALMONES MULTIEXPORT S.A. para modificar la concesión de acuicultura ubicada en canal Pichirupa, al oeste de Isla Victoria, XI Región, otorgada por Resolución Nº 900 de 2004, de la Subsecretaría de Marina.
+
+Valparaíso, 16 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
