@@ -1,0 +1,3 @@
+Por resolución exenta Nº 234, de 16 de enero de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206101186 presentada por FEDERACIÓN DE SINDICATO DE TRABAJADORES INDEPENDIENTE, PESCADORES ARTESANALES, BUZOS MARISCADORES, ASISTENTE DE BUZOS, RECOLECTORES DE ORILLA, CULTIVADORES ACUICULTORES Y ACUICULTORES RAMOS AFINES "RIBERA NORTE DEL RÍO MAULLÍN" de la Comuna de Maullín, para instalar y operar un centro de cultivo ubicado en ribera norte de río Maullín, al este de Morro Chanhué, X Región.
+
+Valparaíso, 16 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
