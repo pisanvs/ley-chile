@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.667, de 27 de diciembre de 2007, de esta Subsecretaría, autorízase a RICHARD MAURICIO VARAS MERCADO, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Juan Martínez Nº 222, Caldera, para elaborar en las líneas de proceso Cocido, Fresco Enfriado, Congelado y Fileteado Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
