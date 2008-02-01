@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.665, de 27 de diciembre de 2007, de esta Subsecretaría, autorízase a JUAN SEGUNDO SILVA ROJAS para iniciar actividades pesqueras de transformación, para instalar y operar planta en Quinta Los Olivos, camino al Basural por calle Bilbao, Tal Tal, línea proceso Aceite, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
