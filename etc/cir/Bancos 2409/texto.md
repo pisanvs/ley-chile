@@ -1064,6 +1064,16 @@ C) Asegurar la atención al público en el horario que para el efecto haya fijad
 
 Cualquier situación que no se ajuste a alguna de las condiciones anteriormente señaladas, debe ser consultada previamente a esta Superintendencia.
 
+### 5. Oficinas bancarias para atención exclusiva de determinados clientes
+
+Toda oficina bancaria a la que el público tenga acceso directo desde la calle y se identifique como banco o sucursal de una entidad bancaria, sea por su nombre o mediante un logotipo que lo caracterice, debe atender a todas las personas que ingresen al local, sin discriminar si se trata de un cliente habitual, ocasional o bien sólo de personas que solicitan información. Por consiguiente, no procede que en esas oficinas se niegue la atención a determinado público, o se límite el acceso al local, sea por parte de personal destinado al efecto o con carteles o avisos de advertencia colocados a la entrada, o en cualquiera otra forma, que indiquen que la atención en ese recinto es únicamente para ciertos clientes.
+
+Lo anterior no impide que al interior de una oficina se destinen sectores separados para la atención exclusiva de clientes que cumplan con las características que el banco determine para acceder a esa atención, o los tenga calificados, por ejemplo, como clientes "prime", "preferentes", de "banca preferencial" u otras de nominaciones similares. Tal como ocurre en varias instituciones esa atención exclusiva puede darse, por ejemplo, por la existencia de cajas separadas para atender a los titulares de cuentas corrientes del banco, de aquellas destinadas al público en general, o por otros servicios que ofrezca la institución.
+
+En general, son clientes habituales de un banco las personas que, en su carácter de personas naturales o representantes de una persona jurídica, mantienen una relación contractual con el banco como, por ejemplo, las que contratan cuentas corrientes, cuentas de ahorro, depósitos a la vista o a plazo, servicios de custodia, cajas de seguridad, etc. Se consideran clientes ocasionales, las personas, distintas del titular de una cuenta o que no mantienen una relación contractual, que acuden al banco en busca de alguna información o para realizar una operación esporádica, como aquellas que utilizan los servicios de cajas, ya sea para cobrar cheques, o efectuar depósitos, pagar cuentas o realizar otros actos propios de la función de cajas.
+
+No quedan comprendidos en la atención exclusiva a que se refiere este número y por consiguiente a estas instrucciones, las oficinas, locales o dependencias especializadas destinadas a atender cierto tipo de operaciones o de servicios, como los llamados centros que mantienen algunas instituciones para la recepción de pagos o de recaudaciones, según convenios suscritos por el banco con empresas o entidades que solicitan esos servicios, o las dependencias que atienden determinados créditos de carácter más masivo, como lo son los préstamos de consumo, los hipotecarios o los créditos para estudiantes y otros servicios de carácter especial o específico, en la medida que en su exterior se anuncie claramente el o los servicios que allí se ofrecen."
+
 ANEXO N°1
 
 ANTECEDENTES PARA REGISTRAR OFICINAS QUE NO REQUIEREN AUTORIZACION DE APERTURA
@@ -6231,8 +6241,6 @@ Bancos
 028 BANCO BICE
 
 031 HSBC BANK (CHILE)
-
-033 CITIBANK CHILE
 
 037 BANCO SANTANDER-CHILE
 
