@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 841, de fecha 31 de diciembre de 2007, se expropiaron los lotes de terreno Nºs 23, 24 y 25, superficies 149, 479 y 561 m2, respectivamente, rol Nº 167-140 para los lotes Nºs 23 y 25, y rol Nº 167-139 para el lote Nº 24, comuna de Arauco, para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 0,00000 al Km. 15,96000, VIII Región" y se acordó el valor de la indemnización con su propietario Lidia García Muñoz, ascendente a la cantidad de $1.197.389.
+
+- Fiscal del Ministerio de Obras Públicas.
