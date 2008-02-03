@@ -1,0 +1,7 @@
+AUTORIZA EMISORES ELECTRÓNICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 14, de 30 de enero de 2008, que autoriza a contribuyentes como emisores electrónicos
+
+Se autoriza como emisores de documentos tributarios: RUT 89.530.600-2, RUT 96.982.0900, RUT 76.000.605-K, RUT 76.684.350-6, RUT 96.834.870-1, RUT 76.368.330-3, RUT 90.320.000-6, RUT 76.747.650-7, RUT 86.361.000-1, RUT 79.995.000-6, RUT 77.106.230K, RUT 86.898.100-8, RUT 99.551.270-K, RUT 77.662.100-5, RUT 76.451.180-8, RUT 99.595.300-5, RUT 96.611.930-6, RUT 78.203.100-7, RUT 96.985.460-0, RUT 78.297.2200, RUT 96.596.420-7, RUT 96.656.660-4, RUT 76.921.450-K, RUT 96.830.710-K, RUT 96.540.140-7, RUT 77.593.260-0, RUT 76.003.014-7, RUT 76.523.610-K, RUT 77.916.7305, RUT 78.509.960-5, RUT 78.503.810-K, RUT 77.934.270-0, RUT 77.060.220-3, RUT 96.943.640-K, RUT 77.637.240-4, RUT 77.339.220-K, RUT 76.876.990-7 y RUT 76.856.640-2 a contar del mes de febrero 2008. En la Oficina Virtual del SII en Internet se podrá consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de enero de 2008.
