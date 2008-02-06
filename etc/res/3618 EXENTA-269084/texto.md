@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.618, de 21 de diciembre de 2007, de esta Subsecretaría, autorízase a FISH MARKET LIMITADA para ampliar actividades pesqueras de transformación autorizadas por resoluciones citadas en Visto, para incorporar a la planta ubicada en Las Flores Nº 2985, Boca del Maipú, Llo Lleo, San Antonio, en las líneas de proceso de Fresco enfriado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 21 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
