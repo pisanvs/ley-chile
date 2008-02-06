@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.705, de 27 de diciembre de 2007, de esta Subsecretaría, autorízase a PATRICIO BERNARDO VARAS HERRERA para iniciar actividades pesqueras transformación, para operar planta ubicada sector Astilleros, Dalcahue, Chiloé, para elaborar en línea de proceso Cocido, Fresco enfriado y Congelado los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 27 de diciembre de 2007.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
