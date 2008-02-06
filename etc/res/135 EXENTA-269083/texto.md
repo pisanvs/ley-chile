@@ -1,0 +1,11 @@
+Por resolución exenta Nº 135, de 11 de enero de 2008, de esta Subsecretaría, autorízase a CELULOSA ARAUCO Y CONSTITUCIÓN S.A., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Plan de Vigilancia ambiental en el ecosistema marino costero en Constitución, VII Región".
+
+El objetivo de la pesca de investigación que por la presente resolución se autoriza consiste en efectuar el monitoreo del ecosistema marino costero en Constitución, VII Región, con el propósito de dar cumplimiento a las exigencias del estudio de Impacto Ambiental del proyecto "Mejoramiento ambiental del actual sistema de descarga de efluentes tratados de Planta de Constitución", que calificó favorablemente según lo dispuesto en la resolución exenta Nº 34/06, de la Comisión Regional del Medio Ambiente de la VII Región del Maule, citada en Visto de la resolución extractada.
+
+La pesca de investigación que se aprueba por la presente resolución se desarrollará durante el período de vigencia de permiso ambiental otorgado mediante resolución exenta Nº 34/06, de la Comisión Regional del Medio Ambiente de la VII Región del Maule, citada en Visto de la resolución extractada, en el área de influencia de la boca del Río Maule, Constitución, VII Región.
+
+El peticionario podrá realizar dos campañas de muestreo anuales, una en invierno y una en verano, en el sector individualizado en el numeral anterior, sobre ejemplares del recurso Taquilla. Las tareas de toma de datos y muestreo antes indicadas se ejecutarán mediante recolección manual o asistida por chinguillos, a través de buceo semi-autónomo, en las que podrán participar un máximo de 2 buzos científicos. Los ejemplares que se recolecten deberán ser devueltos vivos y en buenas condiciones al medio del cual sean extraídos.
+
+La peticionaria designa como persona responsable de esta pesca de investigación a su representante legal, don Fernando Herrera Reyes.
+
+Valparaíso, 11 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
