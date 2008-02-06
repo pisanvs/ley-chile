@@ -1,0 +1,3 @@
+Por resolución exenta Nº 94, de 8 de enero de 2008, de esta Subsecretaría, autorízase a INVERSIONES Y COMERCIAL EL CAÑADÓN S.A., para iniciar actividades pesqueras de transformación, para operar planta ubicada en Avenida Esmeralda 1183, sitio Industrial 8, Loteo Ruze Cañadón, Porvenir, Tierra del Fuego, para elaborar en línea de proceso Fresco enfriado, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 8 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
