@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A DRAGADOS S.A. AGENCIA EN CHILE
+
+La Dirección de Grandes Contribuyentes del SII, por resolución Ex. Nº 02, de 24 de enero de 2008, otorga, a contar del 1º del mes siguiente al de esta publicación y con vigencia indefinida, a Dragados S.A. Agencia en Chile, RUT Nº 59.073.330-K, la calidad de agente retenedor del Impuesto al Valor Agregado en los contratos de instalación o confección de especialidades que contraten, establecido en la res. ex. Nº 142/2005, de 26.12.2005, modificada por la resolución ex. Nº 138/2006, de 14.11.2006, ambas de la Dirección Nacional y publicadas en el Diario Oficial.
