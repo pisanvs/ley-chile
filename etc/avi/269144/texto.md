@@ -1,0 +1,5 @@
+RECTIFICACIÓN
+
+Con fecha 15 de diciembre de 2007, se publicaron en el Diario Oficial y en el Diario Austral de la Araucanía, extractos relativos a nueve solicitudes de ampliación de concesión de servicios públicos sanitarios de producción y distribución de agua potable y de recolección y disposición de aguas servidas solicitadas por la Empresa de Servicios Sanitarios de Antofagasta S.A., domiciliada en Monjitas Nº 392, piso 10º, oficina 1003, Santiago, correspondiente a las siguientes comunas: Lastarria, Ercilla, Lumaco, Collipulli, Nueva Toltén, Padre Las Casas, Purén, Temuco y Chol-Chol, todas de la IX Región. Por medio de la presente publicación se viene en hacer la siguiente rectificación: en las referencias que se hacen de los vértices de las áreas geográficas sobre las cuales se solicitan las respectivas ampliaciones de concesión, específicamente en lo referente a las coordenadas UTM, donde dice "Norte" debe decir "Este" y donde dice "Este" debe decir "Norte".
+
+- Santiago, enero de 2008.- Magaly Espinosa Sarria, Superintendenta de Servicios Sanitarios.
