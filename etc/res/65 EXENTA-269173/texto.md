@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE MAPFRE COMPAÑÍA DE SEGUROS GENERALES DE CHILE S.A.
+
+Certifico: Que por resolución exenta Nº 65 de fecha 5 de febrero de 2008, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad anónima Mapfre Compañía de Seguros Generales de Chile S.A., acordada en junta extraordinaria de accionistas celebrada el 26 de noviembre de 2007 y reducida a escritura pública el 26 de noviembre de 2007, en la Notaría de Santiago de don René Benavente Cash, domiciliado en calle Huérfanos 979, piso 7, Santiago, la cual fue rectificada mediante escritura pública de fecha 15 de enero de 2008, otorgada ante el mismo notario.
+
+La reforma consiste en aumentar el capital social de $17.416.841.089 dividido en 3.731.061 acciones de una misma serie, sin valor nominal íntegramente suscrito y pagado a $22.416.841.089 dividido en 4.802.168 acciones de una misma serie, sin valor nominal. El aumento de 5.000.000.000, dividido en 1.071.107 acciones de pago, deberá ser suscrito y pagado en el plazo de tres años contados desde el 26 de noviembre de 2007. Se modifica artículo quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 5 de febrero de 2008.- Carmen Undurraga Martínez, Secretaria General.
