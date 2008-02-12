@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZOS PARA EL INICIO DE OPERACIONES DEL CASINO DE JUEGO Y EL DESARROLLO DE LAS DEMÁS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA CASINO DE JUEGOS DEL PACÍFICO S.A., EN COMUNA DE SAN ANTONIO
+
+Por resolución exenta Nº 46 de 1 de febrero de 2008, Superintendencia de Casinos de Juego concedió prórroga de plazos que solicitó sociedad operadora Casino de Juegos del Pacífico S.A. tanto para inicio de operaciones del casino de juegos como para desarrollo de obras e instalaciones del proyecto integral autorizado en comuna de San Antonio. En virtud de prórroga concedida, plazo de 24 meses para inicio operaciones del casino de juegos y 36 meses para desarrollo de obras e instalaciones que comprenden proyecto integral, contemplados en resolución exenta Nº 342 de 26 de diciembre de 2006, que le otorgó permiso de operación para casino de juego en dicha comuna, se extenderá hasta 32 y 40 meses, respectivamente, contado desde 29 de diciembre de 2006.
+
+Santiago, 5 de febrero de 2008.- Superintendente de Casinos de Juego.
