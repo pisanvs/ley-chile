@@ -1,0 +1,9 @@
+Por resolución Nº 321 exenta, de 31 de enero de 2008, de esta Subsecretaría, modifícase la resolución Nº 301 de 2008, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA, RUT Nº 70.791.800-4, domiciliada en Avenida Angamos Nº 601, Antofagasta, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio - temporal de las agregaciones de Jurel (Trachurus murphyi) en la III Región, temporada 2008" en el sentido de incorporar el siguiente numeral 5 bis, nuevo:
+
+"5 bis-. Sin perjuicio de lo dispuesto en el numeral anterior, las embarcaciones artesanales autorizadas a participar en la presente pesca de investigación, podrán extraer, con red de cerco, una cuota total de 1.500 toneladas del recurso Jurel (Trachurus murphyi). La operación de las embarcaciones artesanales sobre la cuota antes indicada sólo se hará efectiva una vez agotada la respectiva fracción artesanal de la cuota global anual de captura del recurso Jurel asignada a la III Región para el período enero-octubre de 2008, establecida conforme al decreto exento Nº 1.788 de 2007, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Las capturas efectuadas, autorizadas en el presente artículo, por las embarcaciones artesanales participantes de la presente pesca de investigación se imputarán a la fracción autorizada para ser extraída con fines de investigación establecida mediante decreto exento Nº 1.788 de 2007, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Los excesos en que se incurra, respecto de la cuota autorizada en virtud de este artículo, se imputarán a la cuota global anual de captura del recurso Jurel asignada a la III Región para el período noviembre-diciembre de 2008, establecida conforme al decreto exento Nº 1.788 de 2007, del Ministerio de Economía, Fomento y Reconstrucción."
+
+Valparaíso, 31 de enero de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
