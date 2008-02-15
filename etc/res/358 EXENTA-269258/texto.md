@@ -1,0 +1,5 @@
+Por resolución exenta Nº 358, de 6 de febrero de 2008, de esta Subsecretaría, modifícase el numeral 4.- de la resolución exenta Nº 109, de 2008, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de Jurel, Región Arica y Parinacota, Tarapacá y Antofagasta, año 2008", en los siguientes términos:
+
+a) En el sentido de incorporar al listado de naves autorizadas a participar en la citada pesca de investigación a la nave industrial "Atacama IV", del armador Compañía Pesquera Camanchaca S.A., y a las embarcaciones artesanales "Don Matías" (RPA 25587), "San Sebastián III" (RPA 1570), "Dominic" (RPA 1571), "San Genaro" (RPA 25677) y "Javiera Selmira" (RPA 1519), y b) En el sentido de eliminar del listado de naves antes indicado a la embarcación artesanal "Doña Mercedes" (RPA 1546).
+
+Valparaíso, 6 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
