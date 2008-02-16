@@ -1,0 +1,3 @@
+Por decreto MOP Nº 817, de 9 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 10, para la obra: "Mejoramiento Pasadas Urbanas Villarrica - Pucón, Variante Camino Internacional", que figura a nombre de Valdivia Córdova Elda, Rol de avalúo Nº 51-3, comuna de Pucón, IX Región, superficie 2.427,50 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 6 febrero de 2006 en la cantidad de $183.395.000 para el lote Nº 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
