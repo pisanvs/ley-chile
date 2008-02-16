@@ -1,0 +1,3 @@
+Por decreto M.O.P Nº 955 de 31 de diciembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para Aguas Manquehue S.A., el lote de terreno Nº 1 para la obra Proyecto Infraestructura Sanitaria Sector Norte, que figura a nombre de Textil Chafik Nallar e Hijos, Rol de avalúo 2000-40, Comuna de Colina, Región Metropolitana, superficie 1.604 m2. La Comisión de Peritos, fijó el 25 de octubre de 2007, en la cantidad de $46.558.385.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
