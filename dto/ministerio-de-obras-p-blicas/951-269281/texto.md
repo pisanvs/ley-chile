@@ -1,0 +1,5 @@
+Por decreto MOP Nº 951, de 31 de diciembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y artículo 10 de la ley 18.772, se expropió para la Empresa de Transportes de Pasajeros Metro S.A. el lote de terreno Nº 43LM, necesario para la obra: "Proyecto Línea Maipú, Sector Av. Pajaritos", que figura a nombre de DYS S.A. que corresponde a la propiedad de Avda. Pajaritos Nº 4444, Rol de avalúo Nº 1195-391, Comuna de Maipú, Región Metropolitana, superficie: 936 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 5 de noviembre de 2007, en la cantidad de
+
+$130.291.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
