@@ -1,0 +1,5 @@
+Por decreto MOP Nº 814, de 9 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 1 y 3 para la obra Reposición Pav. Ruta 45 Cruce Long. (Socos) - Ovalle, Km. 0,50730 a Km.
+
+34,26924, que figuran a nombre de Agrícola Don Arturo S.A. y Rivera Campusano Aníbal, roles de avalúo 485-2 y 485-4, comuna de Ovalle, superficies 7.151 m² y 1.200 m². La Comisión de Peritos fijó con fecha 5 de marzo de 2007 en las cantidades de $18.803.400 para el lote Nº 1 y con esta misma fecha, complementada por acta de 28 de junio de 2007, en la cantidad de $15.288.000 para el lote Nº 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
