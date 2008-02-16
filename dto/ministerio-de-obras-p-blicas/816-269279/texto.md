@@ -1,0 +1,5 @@
+Por decreto MOP Nº 816, de 9 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 1 y 2 para la obra Construcción Puente Contaco, Camino Costero Sur, tramo Bahía Mansa -
+
+Río Choroy, que figuran a nombre de Com. Indig. Purretrun Pucatrihue, Rol de avalúo 2219-266, comuna de San Juan de la Costa, superficies 874 m² y 7.415 m². La Comisión de Peritos fijó con fecha 7 de febrero de 2005 en las cantidades de $874.000 para el lote Nº1 y $9.165.000 para el lote Nº 2. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
