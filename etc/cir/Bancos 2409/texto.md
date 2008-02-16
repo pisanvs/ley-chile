@@ -2318,7 +2318,7 @@ Para el cumplimiento de lo dispuesto en el Capítulo III.B.1 del Compendio de No
 
 1.- Plazos mínimos para las captaciones a plazo.
 
-De acuerdo con el Capítulo III.B.1, los depósitos y demás captaciones a plazo en cualquier moneda, deben pactarse con un plazo mínimo de 30 días corridos, salvo que se trate de captaciones reajustables por la variación de la UF o del IVP, en que el plazo mínimo es de 90 días, o bien de ventas con pacto de retrocompra, las que pueden acordarse desde un día plazo cualquiera sea su moneda o reajustabilidad.
+De acuerdo con el Capítulo III.B.1, los depósitos y demás captaciones a plazo en cualquier moneda, deben pactarse con un plazo mínimo de 7 días corridos, salvo que se trate de captaciones reajustables por la variación de la UF o del IVP, en que el plazo mínimo es de 90 días, o bien de ventas con pacto de retrocompra, las que pueden acordarse desde un día plazo cualquiera sea su moneda o reajustabilidad.
 
 Si se pacta un plazo indefinido, el plazo mínimo de que se trata se aplica al tiempo prefijado para el pago a contar de la fecha de la vista o aviso del cliente.
 
