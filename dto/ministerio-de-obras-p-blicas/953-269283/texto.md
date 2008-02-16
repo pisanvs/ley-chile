@@ -1,0 +1,3 @@
+Por decreto MOP Nº 953, de 31 de diciembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para Aguas Manquehue S.A., el lote de terreno Nº 1 para la obra Proyecto Infraestructura Sanitaria Sector Norte, que figura a nombre de Antena Fondo de Inversión Privad, rol de avalúo 110-161, comuna de Quilicura, Región Metropolitana, superficie 3.026 m². La comisión de peritos fijó con 6 de noviembre de 2007, en la cantidad de $44.103.352.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
