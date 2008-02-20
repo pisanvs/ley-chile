@@ -1,0 +1,3 @@
+Por resolución exenta Nº 387, de 7 de febrero de 2008, de esta Subsecretaría, autorízase a NIBALDO ENRIQUE GONZÁLEZ ASTORGA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en pasaje Playa Mansa Nº 1355, Caldera, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado, congelado, alga seca y maquilado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
