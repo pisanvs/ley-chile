@@ -1,0 +1,343 @@
+APRUEBA REGLAMENTO DE LA LEY Nº 20.000 QUE SANCIONA EL TRÁFICO ILÍCITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTRÓPICAS Y SUSTITUYE LA LEY Nº 19.366.
+
+Santiago, 8 de agosto de 2007.- Hoy se decretó lo que sigue:
+
+Núm. 867.- Vistos: Los artículos 32 Nº 6 y 35 de la Constitución Política de la República, y lo dispuesto en los artículos 1º, 2º, 5º, 8º, 9º y 63º de la ley Nº 20.000.
+
+Considerando: Que la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, establece en el artículo 63 que un reglamento señalará las sustancias y especies vegetales a que se refieren los artículos 1º, 2º, 5º y 8º; los requisitos, obligaciones y demás exigencias que deberán cumplirse para el otorgamiento de las autorizaciones a que se refiere el artículo 9º, y las normas relativas al control y fiscalización de dichas plantaciones.
+
+Decreto:
+
+Apruébase el siguiente Reglamento de la ley Nº 20.000 que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas y sustituye la ley Nº 19.366.
+
+## Título I
+
+De las sustancias o drogas estupefacientes o
+
+Sicotrópicas
+
+#### Artículo 1
+
+Califícase como sustancias o drogas estupefacientes o sicotrópicas, productoras de dependencia física o síquica, capaces de provocar graves efectos tóxicos o daños considerables a la salud, a que se refiere el inciso primero del artículo 1º de la ley Nº 20.000, a las siguientes:
+
+(+)-Lisergida (LSD, LSD-25)
+
+4-bromo-2,5-dimetoxifenetilamina (2-CB)
+
+3-metilfentanilo
+
+3-metiltiofentanilo
+
+4-metilaminorex
+
+4-metiltioanfetamina (4-MTA)
+
+Acetil-alfa-metilfentanilo Acetorfina
+
+Alfacetilmetadol
+
+Alfa-metilfentanilo
+
+Alfa-metiltiofentanilo
+
+Amineptina
+
+Anfetamina
+
+Beta-hidroxifentanilo
+
+Beta-hidroxi-3-metilfentanilo
+
+Brolanfetamina (DOB)
+
+Cannabis, resina de
+
+Cannabis (cáñamo índico) sumidades floridas o con
+
+frutos de la planta del género cannabis de las cuales
+
+no se ha extraído la resina, cualquiera que sea el
+
+nombre con que se designe.
+
+Cannabis, extractos y tinturas de
+
+Catinona
+
+Cetobemidona
+
+Cocaína
+
+Concentrado de paja de adormidera (el material que se
+
+obtiene cuando la paja de adormidera ha entrado en un
+
+proceso de concentración de sus alcaloides, en el
+
+momento en que pasa al comercio).
+
+Desomorfina
+
+N,N-dietiltriptamina (DET)
+
+Dexanfetamina
+
+dl-2,5-dimetoxi-alfa-metilfenetilamina (DMA)
+
+3-(1,2-dimetilheptil)-1-hidroxi-7,8,9,10-tetrahidro-
+
+6,6,9-trimetil-6H
+
+dibenzo[b,d]pirano (DMHP)
+
+N,N-dimetiltriptamina (DMT)
+
+dl-2,5-dimetoxi-4-etil-alfa-metil-feniletilamina
+
+(DOET)
+
+Dihidroetorfina
+
+Dronabinol (variante estereoquímica: (-)-trans-delta-
+
+9-tetrahidrocannabinol)
+
+Eticiclidina (PCE)
+
+Etorfina
+
+Etriptamina
+
+Fenciclidina (PCP)
+
+Fenetilina
+
+Fenmetracina
+
+Flunitrazepam
+
+Glutetimida
+
+Heroína
+
+Ketamina
+
+Lefetamina (SPA)
+
+Levanfetamina
+
+Levometanfetamina
+
+N-etil-MDA (MDE)
+
+dl-3,4-metilenedioxi-N,alfa-dimetilfeniletilamina
+
+(MDMA)
+
+Meclocualona
+
+Mescalina
+
+Metacualona
+
+Metanfetamina
+
+Metcatinona
+
+Metilfenidato
+
+dl-5-metoxi-3,4-metilenedioxi-alfa-metil-fenil-
+
+etilamina. (MMDA)
+
+1-metil-4-fenil-4-propionato de piperidina(ester)
+
+(MPPP)
+
+N-hidroxi-3,4-metileno dioxi anfetamina
+
+Opio
+
+Para-fluorofentanilo
+
+Parahexilo
+
+1-fenetil-4-fenil-4-acetato de
+
+piperidina(ester)(PEPAP)
+
+4-metoxi-alfa-metilfeniletilamina (PMA)
+
+Psilocibina
+
+Psilocina, psilotsina
+
+Metanfetamina, racemato de
+
+Roliciclidina (PHP, PCPY)
+
+Secobarbital
+
+2-amino-1-(2,5-dimetoxi-4-metil)-fenilpropano (STP,
+
+DOM)
+
+Tenanfetamina (MDA)
+
+Tenociclidina (TCP)
+
+Tetrahidrocannabinol(7,8,9,10-tetrahidro-6,6,9-
+
+trimetil-3-pentil-6H-
+
+dibenzo[b,d]pirano-1-ol (9R,10aR)-8,9,10,10a-
+
+tetrahidro-6,6,9-trimetil-3-pentil-6Hdibenzo
+
+[b,d]pirano-1-ol
+
+(6aR,9R,10aR)-6ª,9,10,10a-tetrahidro-6,6,9-trimetil-
+
+3-pentil-6H-dibenzo[b,d]pirano-1
+
+1-ol(6aR,10aR)-6a,7,10,10a-tetrahidro-6,6,9-trimetil-
+
+3-pentil-6Hdibenzo [b,d]pirano-
+
+1-ol6a,7,8,9-tetrahidro-6,6,9-trimetil-3-pentil-6H-
+
+dibenzo[b,d]pirano-1-ol
+
+(6aR,10aR)-6a,7,8,9,10,10a-hexahidro-6,6-dimetil-9-
+
+metileno-3-pentil-6H-
+
+dibenzo[b,d]pirano-1-ol), isómeros y variantes
+
+estereoquímicas de
+
+Tiofentanilo
+
+dl-3,4,5-trimetoxi-alfa-metilfeniletilamina (TMA)
+
+Zipeprol
+
+Los isómeros, ésteres y éteres de las sustancias de esta lista, a menos que estén expresamente exceptuados,
+
+Las sales de las sustancias de esta lista, incluidas las sales de los ésteres, éteres e isómeros, a menos que estén expresamente exceptuadas.
+
+#### Artículo 2
+
+Califícase como sustancias o drogas estupefacientes o sicotrópicas, productoras de dependencia física o síquica, a que se refiere el inciso segundo del artículo 1º de la Ley Nº 20.000, que no producen los efectos indicados en su inciso primero, a las siguientes:
+
+Acetildihidrocodeína Acetilmetadol Alfameprodina Alfametadol Alfaprodina Alfentanilo Alilprodina Alobarbital Alprazolam Aminores Amobarbital Anfepramona (Dietilpropión) Anileridina Barbital Becitramida Bencilmorfina Bencetidina Benzfetamina Betacetilmetadol Betameprodina Betametadol Betaprodina Bromazepam Brotizolam Buprenorfina Butalbital Butirato de dioxafetilo Butobarbital Camazepam Catina ((+)-norpseudoefedrina) Ciclobarbital Clobazam Clonazepam Clonitaceno Clorazepato Clordiazepóxido Clotiazepam Cloxazolam Coca, hoja de Codeína Codoxima Delorazepam Dextrometorfano Dextromoramida Dextropropoxifeno Diampromida Diazepam Dietiltiambuteno Difenoxilato Difenoxina Dihidrocodeína Dihidromorfina Dimefeptanol Dimenoxadol Dimetiltiambuteno Dipipanona Drotebanol Ecgonina (sus ésteres y derivados que sean convertibles en ecgonina y cocaína) Estazolam Etclorvinol Etilanfetamina (N-etilanfetamina) Etilmetiltiambuteno Etilmorfina Etinamato Etonitaceno Etoxeridina Fenadoxona Fenampromida Fenazocina Fencamfamina Fendimetracina Fenobarbital Fenomorfán Fenoperidina Fenproporex Fentanilo Fentermina Fludiazepam Flurazepam Folcodina Furetidina Gamahidroxibutirato (GHB) Halazepam Haloxazolam Hidrato de Cloral Hidrocodona Hidromorfinol Hidromorfona Hidroxipetidina Isometadona Ketazolam Levofenacilmorfán Levometorfán Levomoramida Levorfanol Loflazepato de etilo Loprazolam Lorazepam Lormetazepam Mazindol Medazepam Mefenorex Meprobamato Mesocarbo Metadona Metadona, intermediario de la Metazocina Metildesorfina Metildihidromorfina Metilfenobarbital Metiprilona Metopón Midazolam Nimetazepam Mirofina Moramida, intermediario de la Morferidina Morfina Morfina, bromometilato de (y otros derivados de la morfina con nitrógeno pentavalente, incluidos en particular los derivados de la N-oximorfina, unos de los cuales es la N-oxicodeína) Nicocodina Nicodicodina Nicomorfina Nitrazepam Noracimetadol Norcodeína Nordazepam Norlevorfanol Normetadona Normorfina Norpipanona
+
+N-oximorfina Oxazepam Oxazolam Oxicodona Oximorfona Pemolina Pentazocina Pentobarbital Petidina Petidina, intermediario A de la Petidina, intermediario B de la Petidina, intermediario C de la Piminodina Pinazepam Pipradrol Piritramida Pirovalerona Prazepam Proheptacina Properidina Propiramo Racemetorfán Racemoramida Racemorfán Remifentanilo Secbutabarbital Sibutramina Sufentanil Tebacón Tebaína Temazepam Tetrazepam Tilidina Triazolam Trimeperidina Vinilbital Zolpidem
+
+Los isómeros, ésteres y éteres de las sustancias de esta lista, a menos que estén expresamente exceptuados;
+
+Las sales de las sustancias de esta lista, incluidas las sales de los ésteres, éteres e isómeros, a menos que estén expresamente exceptuadas.
+
+#### Artículo 3
+
+Para los efectos de lo dispuesto en el artículo 2º de la ley Nº 20.000, se considerarán como precursores o sustancias químicas esenciales las sustancias químicas controladas a que se refiere el artículo segundo del decreto supremo Nº 1.358, de Interior, de 22 de diciembre de 2006, o el texto que lo reemplace.
+
+#### Artículo 4
+
+Califícase como sustancias a las que se refiere el artículo 5º de la Ley Nº 20.000, a las siguientes:
+
+Acetato de Amilo Acetato de Butilo Acetato de Etilo Acetato de Metilo Acetato de Propilo Acetona Alcohol Amílico Alcohol Butílico Alcohol Isopropílico Alcohol Metílico Benceno Ciclohexano Ciclohexanoma Ciclohexeno Cloroformo Cloruro de Metileno Dicloruro de Etileno Dicloruro de Propileno Estireno Eter Etílico Eter Isopropílico Formiato de Etilo Metiletilcetona Metilbutilcetona Metilpropilcetona Sulfuro de Carbono Tetracloroetileno Tetracloruro de Carbono Tolueno Trementina Tricloroetano Tricloroetileno Xileno
+
+#### Artículo 5
+
+Califícase como especies vegetales productoras de sustancias estupefacientes o sicotrópicas, a que se refiere el artículo 8º de la ley Nº 20.000, las siguientes:
+
+Cannabis Sativa L Cacto Peyote Catha Edulis (Khat) Datura Estramonium L Hongo Psilocide Eritroxylon Coca Papaver Somniferum L Salvia divinorum (salvinorina A)
+
+## Título II
+
+De la autorización, control y fiscalización de las
+
+siembras, plantaciones, cultivos y cosecha de
+
+especies vegetales productoras de sustancias
+
+estupefacientes o sicotrópicas
+
+#### Artículo 6
+
+Para obtener la autorización a que se refiere el artículo 8º de la ley Nº 20.000, los interesados deberán presentar una solicitud en la Dirección Regional del Servicio Agrícola y Ganadero con jurisdicción en el territorio en que está ubicado el predio en que se efectuará la siembra, plantación, cultivo o cosecha de las especies vegetales a que se refiere la disposición legal citada. En el caso en que el predio respectivo abarque dos o más jurisdicciones, se podrá solicitar la autorización en cualquiera de ellas.
+
+#### Artículo 7
+
+La solicitud deberá presentarse con una antelación mínima de cuatro meses al inicio de la siembra, plantación, cultivo o cosecha y deberá contener la siguiente información:
+
+a.- La completa individualización del solicitante, esto es, nombres y apellidos, nacionalidad, estado civil, profesión o actividad, domicilio, lugar y fecha de nacimiento, número de la cédula de identidad y del Rol Único Tributario, si fuere distinto a aquélla;
+
+b.- Ubicación y denominación del predio, si la tuviere; superficie y deslindes del mismo; rol de avalúo para el pago de contribuciones territoriales; inscripción en el Registro de Propiedad del Conservador de Bienes Raíces;
+
+c.- Exacta ubicación del terreno y superficie en que se proyecta efectuar el cultivo;
+
+d.- Fecha en que se efectuará la siembra; género, especie y variedad del cultivo; cantidad del material de reproducción que se propone emplear y proveedor del mismo; período y cantidad estimados de cosecha;
+
+e.- Destino que se pretende dar al producto
+
+cosechado y antecedentes del contrato respectivo, si ya se hubiere celebrado.
+
+#### Artículo 8
+
+La solicitud a que se refieren los artículos anteriores deberá ser acompañada de los siguientes documentos:
+
+a.- Certificado de dominio vigente y de pago de contribuciones al día;
+
+b.- Autorización otorgada por el dueño del predio y copia del título en virtud del cual el solicitante lo explota, los que deberán ser suscritos ante Notario;
+
+c.- Plano en que aparezca debidamente delimitado el terreno en que se desea efectuar el cultivo;
+
+d.- Declaración jurada acerca del cierro que se utilizará y de la forma en que se procederá a la destrucción de rastrojos una vez concluida la cosecha;
+
+e.- Si se tratare de sociedades deberá acompañarse copia de sus títulos, con certificado de vigencia;
+
+f.- En el caso de comunidades hereditarias deberá acompañarse copia autorizada de la inscripción del decreto judicial o resolución administrativa que concede la posesión efectiva y de la especial de herencia con certificado de vigencia;
+
+g.- Tratándose de asociaciones distintas de las anteriores, se acompañará el título que la origine y la individualización de sus integrantes. Si careciere de pacto escrito, la individualización completa de los asociados deberá hacerse por medio de una declaración jurada ante Notario;
+
+h.- En los tres casos anteriores deberá agregarse una relación completa de los socios, directores, administradores o de los miembros de las asociaciones o comunidades, salvo el caso de las sociedades anónimas, en la que se incluirá, además, a las personas encargadas directamente del cultivo, con expresa mención de este hecho.
+
+#### Artículo 9
+
+Recibida la solicitud en el Servicio Agrícola y Ganadero, con toda la documentación antes descrita, se remitirá el expediente a la Intendencia Regional correspondiente, la que ordenará agregar los certificados de antecedentes del solicitante, del propietario del predio, de los socios directores, administradores o de los miembros o integrantes de las sociedades, comunidades u otras asociaciones y de los encargados del cultivo. Si lo estimare pertinente, la Intendencia pedirá informe a los organismos policiales respectivos.
+
+#### Artículo 10
+
+Concluidas las gestiones anteriores, la Intendencia informará sobre el particular al Servicio Agrícola y Ganadero, y éste, una vez recibido el informe, podrá otorgar la autorización solicitada, la que comunicará, remitiendo una copia de ella, a las jefaturas de Carabineros de Chile y de la Policía de Investigaciones con jurisdicción en el territorio en que está ubicado el predio. El rechazo de la solicitud deberá ser fundado, con arreglo a la ley y este Reglamento.
+
+En la autorización se establecerán las características de los cierros que deberán utilizarse, como asimismo, la forma en que se efectuará la destrucción de las especies a que se refiere el inciso 2º del artículo 10º de la ley Nº 20.000.
+
+#### Artículo 11
+
+Concedida la autorización, el interesado deberá comunicar a la Dirección Regional del Servicio Agrícola y Ganadero con jurisdicción en el territorio en que está ubicado el predio y con una anticipación mínima de 30 días, la fecha exacta de la siembra, plantación o cultivo. Igualmente, deberá comunicarse a dicha Dirección Regional la fecha en que se iniciará la cosecha, con una antelación no inferior a sesenta días, contados desde la fecha indicada para el inicio de la misma.
+
+Con todo, si el predio respectivo abarca dos o más jurisdicciones del Servicio Agrícola y Ganadero, las comunicaciones a que se refiere el párrafo anterior, se podrán enviar a cualquiera de ellas.
+
+#### Artículo 12
+
+Concluida la cosecha y para los efectos del transporte de los productos obtenidos, el interesado deberá requerir, previamente, una guía de libre tránsito que otorgará el Servicio Agrícola y Ganadero, en la que se individualizará el medio de transporte, cantidad de los productos, destino y ruta a ser utilizada. Dicha guía deberá ser visada por alguna de las Unidades de Carabineros más próxima al predio y también por aquella correspondiente al lugar de destino de los productos.
+
+#### Artículo 13
+
+Los predios en que se realicen alguno de los cultivos a que se refieren los artículos anteriores deberán estar del todo cerrados mediante algún sistema que impida el acceso de cualquier persona que no esté directamente encargada del cultivo.
+
+#### Artículo 14
+
+Finalizada la cosecha y separado el producto, las plantas, sus rastrojos, florescencias, semillas u otras partes activas deberán ser destruidas por el interesado en presencia de un funcionario del Servicio Agrícola y Ganadero y de un funcionario de la Policía de Investigaciones o de Carabineros de Chile, de la Oficina o Unidad más próxima al predio, debiendo levantarse un acta de la diligencia, la que suscribirán los funcionarios asistentes y el interesado, copia de la cual se remitirá al mencionado Servicio Agrícola.
+
+TÍTULO FINAL
+
+#### Artículo 15
+
+Derógase el decreto Nº 565, de 9 de junio de 1995, del Ministerio de Justicia, que aprobó el Reglamento de la ley Nº 19.366.
+
+Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Belisario Velasco Baraona, Ministro del Interior.- Carlos Maldonado Curti, Ministro de Justicia.- María Soledad Barría Iroumé, Ministra de Salud.- Álvaro Rojas Marín, Ministro de Agricultura.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Felipe Harboe Bascuñán, Subsecretario del Interior.
