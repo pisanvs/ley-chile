@@ -1,0 +1,3 @@
+Por resolución exenta Nº 451 de 14 de febrero de 2008, de esta Subsecretaría, modifícase la resolución Nº 415 de 2008, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación, en el sentido de reemplazar en su numeral 5.- la frase "embarcaciones menores con motores fuera de borda, equipadas con compresores de 2 a 3 boquillas" por la expresión "las embarcaciones artesanales citadas en el numeral anterior".
+
+Valparaíso, 14 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
