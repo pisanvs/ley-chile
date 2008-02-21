@@ -1,0 +1,3 @@
+Por resolución exenta Nº 448, de 14 de febrero de 2008, elimínese el numeral Nº 6 de la resolución exenta Nº 366 de 2008 que autorizó los programas de administración de capturas presentados por SIPACERVAL, Registro Sindical Único 10.02.0409, y por ACERVAL A.G., Registro de Asociaciones Gremiales 207-10.
+
+Valparaíso, 14 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
