@@ -1,0 +1,9 @@
+Por resolución exenta Nº 369, de 6 de febrero de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 115 de 2008, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la X Región, Zona Palena", en el sentido de reemplazar el inciso 1º del numeral 5.- por el siguiente:
+
+"En cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer, en la Zona Palena, que comprende las áreas de operación de Los Toros, Poyo, Hueque, Ayacara, Isla Ica, Buill, Reldehue, Chumelden y Chaitén, un límite de captura de Merluza del sur ascendente a 753,066 toneladas, fraccionadas de la siguiente manera:
+
+68,442 toneladas para enero: 102,663 toneladas para febrero; 85,553 toneladas para marzo; 85,553 toneladas para abril; 68,442 toneladas para mayo; 34,221 toneladas para junio; 34,221 toneladas para julio; 68,442 toneladas para septiembre; 68,442 toneladas para octubre; 68,442 toneladas para noviembre; 68,646 toneladas para diciembre.
+
+En caso que las cuotas de los meses de febrero, marzo y abril no sean completadas y si el remanente no capturado es superior al 50% de la cuota mensual promedio anual, se podrán realizar faenas de pesca con cargo a dicho excedente para los meses de junio y julio, a petición de parte y por escrito, lo que deberá ser informado por el Director Regional de Pesca, quien comunicará a las partes."
+
+Valparaíso, 6 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
