@@ -5792,25 +5792,17 @@ Los bancos que paguen estos documentos, obtendrán el rembolso de los importes p
 
 El formato de las órdenes de pago de pensiones deberá ajustarse a las instrucciones generales establecidas en el Capítulo 6-1 de esta Recopilación.
 
-CAPITULO 6-1 (Bancos y Financieras)
+## Capítulo 6-1
 
-MATERIA:
+DOCUMENTOS Y TIMBRES DE USO CORRIENTE EN LOS BANCOS. REQUISITOS QUE DEBEN CUMPLIR.
 
-DOCUMENTOS Y TIMBRES DE USO CORRIENTE EN LAS INSTITUCIONES FINANCIERAS.
-
-REQUISITOS QUE DEBEN CUMPLIR.
-
-En la impresión de formularios y en la confección y uso de timbres las
-
-instituciones financieras deberán ceñirse estrictamente a las normas que se
-
-imparten a continuación.
+En la impresión de formularios y en la confección y uso de timbres, los bancos deberán ceñirse estrictamente a las normas que se imparten a continuación.
 
 ### 1. Cheques
 
-1.1. Tamaño de los cheques.
+1.1. Tamaño de los cheque.
 
-Los formularios de cheque que confeccionen los bancos deben ser rectangulares y ajustarse a las siguientes medidas:
+Los formularios de cheque que confeccionen los bancos deben ser rectangulares y ajustarse a las siguientes medidas referidas exclusivamente al cuerpo del documento:
 
 largo : 160 mm.
 
@@ -5820,25 +5812,25 @@ tolerancia : 0,9 mm.
 
 1.2. Ubicación de los antecedentes inherentes a un cheque.
 
-Los antecedentes de los cheques deben incluirse de acuerdo con las instrucciones que se indican a continuación y de conformidad con lo dispuesto en los anexos N°s. 1 y 2 de este capítulo.
+Los antecedentes de los cheques deben incluirse de acuerdo con las instrucciones que se indican a continuación y de conformidad con lo dispuesto en los anexos N°s 1 y 2 de este capítulo.
 
 1.2.1. Localizaciones de antecedentes y dimensiones obligatorias.
 
 Los siguientes antecedentes no pueden sufrir modificaciones en cuanto al lugar de colocación y dimensiones que, en cada caso, se señalan:
 
-a) Serie y número: Debe ubicarse a 8 mm del borde superior del cheque y a una distancia de entre 10 y 25 mm. de su borde izquierdo. El largo máximo para indicar este antecedente será de 50 mm.;
+a) Serie y número: Debe ubicarse a 8 mm. del borde superior del cheque y a una distancia de entre 10 y 25 mm. de su borde izquierdo. El largo máximo para indicar este antecedente será de 50 mm.;
 
-b) Número de la cuenta corriente: Debe estar localizado en la parte central del extremo superior del cheque. Toda información que se imprima debajo del número de cuenta, como nombre del titular de la cuenta corriente, nombre del banco, logotipo de éste, etc., debe cubrir un espacio que no exceda de 12 mm de ancho contados desde el borde superior;
+b) Número de la cuenta corriente: Debe estar localizado en la parte central del extremo superior del cheque. Toda información que se imprima debajo del número de cuenta, como nombre del titular de la cuenta corriente, nombre del banco, logotipo de éste, etc., debe cubrir un espacio que no exceda de 12 mm. de ancho contados desde el borde superior;
 
-c) Importe numérico en pesos: Debe ubicarse a 10 mm del borde superior del cheque y a 5 mm de su lado derecho. Debe tener 3 mm para el signo pesos, ubicado a 47 mm del lado derecho y 42 mm de largo para indicar el importe numérico;
+c) Importe numérico en pesos: Debe ubicarse a 10 mm. del borde superior del cheque y a 5 mm. de su lado derecho. Debe tener 3 mm. para el signo pesos, ubicado a 47 mm. del lado derecho y 42 mm. de largo para indicar el importe numérico;
 
-d) Nombre de la institución bancaria y plaza: Este antecedente debe ubicarse en la parte central, inmediatamente debajo del espacio asignado al número de la cuenta y nombre del titular, o bien en la parte baja izquierda del cheque, a no menos de 16 mm del borde inferior. Se recomienda que la indicación escrita de la plaza vaya inmediatamente debajo del nombre del banco;
+d) Nombre de la institución bancaria y plaza: Este antecedente debe ubicarse en la parte central, inmediatamente debajo del espacio asignado al número de la cuenta y nombre del titular, o bien en la parte baja izquierda del cheque, a no menos de 16 mm. del borde inferior. Se recomienda que la indicación escrita de la plaza vaya inmediatamente debajo del nombre del banco;
 
 e) Número de codificación del banco, plaza y oficina: Debe ser impreso en el lugar y con las dimensiones que se indican en el numeral 3.2 de este título;
 
-f) Sector para la firma del cliente: Debe ubicarse a 20 mm del borde inferior del cheque y a 5 mm del lado derecho del cheque, con 70 mm del largo total de la línea para colocar la firma y 6 mm de espacio entre la última línea en que se indica el importe en pesos y el comienzo de la línea para firmar; y,
+f) Sector para la firma del cliente: Debe ubicarse a 20 mm. del borde inferior del cheque y a 5 mm. del lado derecho del cheque, con 70 mm. del largo total de la línea para colocar la firma y 6 mm. de espacio entre la última línea en que se indica el importe en pesos y el comienzo de la línea para firmar; y,
 
-g) Espacio para caracteres magnéticos: Desde el borde inferior el cheque debe contener un espacio de 16 mm a lo largo de todo el documento, sector que no puede llevar ningún tipo de impresión por estar destinado a los caracteres magnéticos, de acuerdo con lo indicado en el numeral 3.3 de este capítulo.
+g) Espacio para caracteres magnéticos. Desde el borde inferior el cheque debe contener un espacio de 16 mm. a lo largo de todo el documento, sector que no puede llevar ningún tipo de impresión por estar destinado a los caracteres magnéticos, de acuerdo con lo indicado en el numeral 3.3 de este capítulo.
 
 1.2.2. Localizaciones optativas.
 
@@ -5850,47 +5842,43 @@ En todo caso, la ubicación que elijan los bancos para anotar esos datos debe ar
 
 2.1. Tamaño.
 
-Las medidas uniformes de los demás documentos pagaderos por intermedio de Cámaras Compensadoras, tales como depósitos a plazo fijo, boletas de garantía,letras bancarias, depósitos o vales vista, vales bancarios, vales de cámara y otros documentos cuyos códigos se indican en el anexo N° 3, deben ser:
+Las medidas uniformes de los demás documentos pagaderos por intermedio de Cámaras Compensadoras, tales como depósitos a plazo fijo, boletas de garantía, letras bancarias, depósitos o vales vista, vales bancarios, vales de cámara y otros documentos cuyos códigos se indican en el anexo N° 3, deben ser:
 
-largo : 187 mm
+largo : 187 mm.
 
-ancho : 93 ó 103 mm
+ancho : 93 ó 103 mm.
 
-tolerancia : ± 0,9 mm
+tolerancia : ± 0,9 mm.
 
-Queda a criterio de las propias instituciones financieras establecer el ancho que se dará a esos formularios, el que puede ser de 93 ó de 103 mm con una tolerancia para ambos, de más o de menos 0,9 mm.
+Queda a criterio de los propios bancos establecer el ancho que se dará a esos formularios, el que puede ser de 93 ó de 103 mm. con una tolerancia para ambos, de más o de menos 0,9 mm.
 
 2.2. Ubicación de antecedentes.
 
-Los antecedentes de los documentos de que se trata deben incluirse de acuerdo con las instrucciones que a continuación se señalan y que se ilustran en el Anexo N° 4 de este capítulo:
+Los antecedentes de los documentos de que se trata deben incluirse de acuerdo con las instrucciones que a continuación se señalan y que se ilustran en el anexo N° 4 de este capítulo:
 
 2.2.1. Localizaciones y dimensiones obligatorias.
 
 Los siguientes antecedentes no podrán sufrir modificaciones en cuanto a su lugar de colocación y dimensiones:
 
-a) Número del documento: Debe colocarse en el extremo superior izquierdo. El conjunto numérico no debe exceder de 8 dígitos. En caso de requerirse una complementación para establecer serie o prefijo, ésta no puede exceder de 3 posiciones alfa numéricas, diferenciadas de la numeración correlativa por un recuadro. La línea de impresión de estos caracteres no debe exceder de 50 mm y
+a) Número del documento: Debe colocarse en el extremo superior izquierdo. El conjunto numérico no debe exceder de 8 dígitos. En caso de requerirse una complementación para establecer serie o prefijo, ésta no puede exceder de 3 posiciones alfa numéricas, diferenciadas de la numeración correlativa por un recuadro. La línea de impresión de estos caracteres no debe exceder de 50 mm. Y debe ubicarse a 10 mm. del borde superior del documento y a una distancia de entre 10 y 25 mm. de su borde izquierdo;
 
-debe ubicarse a 10 mm del borde superior del documento y a un a distancia de entre 10 y 25 mm. de su borde izquierdo;
+b) Denominación y código de tipo de documento: Su ubicación debe estar en el centro de la parte superior del documento, entre el número correlativo y el importe numérico en pesos, pudiendo cubrir una extensión lineal de 70 mm.;
 
-b) Denominación y código de tipo de documento: Su ubicación debe estar en el centro de la parte superior del documento, entre el número correlativo y el importe numérico en pesos, pudiendo cubrir una extensión lineal de 70 mm;
-
-c) Importe numérico en pesos: Debe ubicarse a 7 mm del lado derecho del documento y a 10 mm de su borde superior derecho. El signo pesos se imprimirá a 54 mm del borde derecho del documento. En los casos que corresponda se anotará en esta linea el valor final que debe pagarse;
+c) Importe numérico en pesos: Debe ubicarse a 7 mm. del lado derecho del documento y a 10 mm. de su borde superior derecho. El signo pesos se imprimirá a 54 mm. del borde derecho del documento. En los casos que corresponda se anotará en esta línea el valor final que debe pagarse;
 
 d) Códigos de institución, plaza y oficina: Debe localizarse inmediatamente bajo el importe numérico en pesos, en la forma que se indica en el numeral 3.2 de este capítulo;
 
-e) Firma giradora: Debe estar ubicada en la parte inferior derecha a no menos de 16 mm del borde inferior. Si se imprime una línea de referencia, su largo no será mayor de 80 mm; y,
+e) Firma giradora. Debe estar ubicada en la parte inferior derecha a no menos de 16 mm. del borde inferior. Si se imprime una línea de referencia, su largo no será mayor de 80 mm; y,
 
-f) Espacio para caracteres magnéticos: Esta franja debe extenderse a todo lo largo del documento con un ancho de 16 mm desde la parte inferior del documento, para permitir la impresión de caracteres magnéticos según lo dispuesto en el numeral 3.3 de este capítulo.
+f) Espacio para caracteres magnéticos: Esta franja debe extenderse a todo lo largo del documento con un ancho de 16 mm. desde la parte inferior del documento, para permitir la impresión de caracteres magnéticos según lo dispuesto en el numeral 3.3 de este capítulo.
 
 2.2.2. Localizaciones optativas.
 
 Es optativo el lugar de colocación para incluir la época de pago (si se trata de un documento pagadero a la vista, a plazo o a determinada fecha); nombre de la institución; lugar de giro y fecha de emisión; beneficiario; importe en letras y otros datos.
 
-En todo caso, junto al nombre de la entidad financiera debe aparecer el nombre y dirección de la sucursal u oficina girada.
+En todo caso, junto al nombre del banco debe aparecer el nombre y dirección de la sucursal u oficina girada.
 
-Se recomienda mantener la distribución utilizada de manera que se conserve una cierta uniformidad que haga fácil la lectura y manejo de estos documentos.Cualquiera que sea la ubicación que se les dé, deberá procurarse, que ella no interfiera con los espacios destinados a la información que debe colocarse en lugares expresamente señalados en el numeral anterior y que no
-
-admiten modificaciones.
+Se recomienda mantener la distribución utilizada, de manera que se conserve una cierta uniformidad que haga fácil la lectura y manejo de estos documentos. Cualquiera que sea la ubicación que se les dé, deberá procurarse, que ella no interfiera con los espacios destinados a la información que debe colocarse en lugares expresamente señalados en el numeral anterior y que no admiten modificaciones.
 
 ### 3. Otros requisitos que deben cumplir los documentos
 
@@ -5900,33 +5888,31 @@ El papel que se utilice para la confección de los documentos debe tener las car
 
 3.2. Codificación de institución, plaza y oficina.
 
-Los documentos a cargo de las instituciones financieras, susceptibles de cobrarse por intermedio de la Cámara de Compensación, deben llevar impreso en su extremo superior derecho, a 14 mm del borde superior y a 5 mm del lado derecho, los números de codificación de la institución, plaza y oficina.
+Los documentos a cargo de los bancos, susceptibles de cobrarse por intermedio de la Cámara de Compensación, deben llevar impreso en su extremo superior derecho, a 14 mm. del borde superior y a 5 mm. del lado derecho, los números de codificación de la institución, plaza y oficina.
 
-Estos números deben imprimirse con tipos notorios, en la forma señalada en la figura 2 del Anexo N° 5 de este capítulo. La línea de impresión debe tener 30 mm de largo y el ancho total de impresión de los caracteres numéricos de indicación debe ser de 7 mm.
+Estos números deben imprimirse con tipos notorios, en la forma señalada en la figura 2 de la anexo N° 5 de este Capítulo. La línea de impresión debe tener 30 mm. de largo y el ancho total de impresión de los caracteres numéricos de indicación debe ser de 7 mm.
 
-Los números de identificación de cada entidad aparecen en el Anexo N° 6 del presente capítulo. Este número identificará a la entidad financiera en la Cámara Compensadora a través del país y rige para todas las sucursales de la misma institución. Los códigos numéricos correspondientes a las distintas plazas seindican en el Anexo N° 1 del Capítulo 5-1 de esta Recopilación de Normas.
+Los números de identificación de cada entidad aparecen en el anexo N° 6 del presente Capítulo. Este número identificará al banco en la Cámara Compensadora a través del país y rige para todas las sucursales de la misma institución. Los códigos numéricos correspondientes a las distintas plazas se indican en el anexo N° 1 del Capítulo 5-1 de esta Recopilación de Normas.
 
-Los números que individualizan a cada oficina deben ser asignados por las respectivas instituciones en la forma que lo estimen conveniente. Sin embargo,una vez asignadas, dichos números no pueden ser modificados.
+Los números que individualizan a cada oficina deben ser asignados por los respectivos bancos en la forma que lo estimen conveniente. Sin embargo, una vez asignados, dichos números no pueden ser modificados.
 
 3.3. Impresión magnética en los cheques y otros documentos.
 
-La franja inferior de los cheques y demás documentos quedará destinada al proceso de impresión magnética de los antecedentes que se muestran en el Anexo N° 7 de este capítulo.
+La franja inferior de los cheques y demás documentos quedará destinada al proceso de impresión magnética de los antecedentes que se muestran en el anexo N° 7 de este Capítulo.
 
 Corresponde a la institución girada o emisora del instrumento, imprimir los siguientes antecedentes, ordenados de derecha a izquierda, a continuación del primer espacio destinado a anotar el valor del documento:
 
-a) Código del tipo de documento, que permite la identificación según lo indicado en el Anexo N° 7 antes citado;
+a) Código del tipo de documento, que permite la identificación según lo indicado en el anexo N° 7 antes citado;
 
 b) Número de cuenta corriente en el caso de los cheques; para los demás documentos esta área queda a libre disposición del banco emisor;
 
 c) Código de plaza (plaza sobre la cual se gira el documento);
 
-d) Código entidad (código que le corresponde a la entidad librada o emisora, según sea el caso, obligada al pago); y,
+d) Código entidad (código que le corresponda a la entidad librada o emisora, según sea el caso, obligada al pago); y,
 
 e) Número de serie (número de serie que corresponda al documento).
 
 El valor del documento puede registrarlo la entidad girada o emisora, o bien la institución que lo reciba y cobre, según sea el caso.
-
-Las entidades bancarias deben instruir especialmente a sus clientes de cuentas corrientes, para que en los cheques no se utilice la franja de los caracteres magnéticos.
 
 ### 4. Timbres
 
@@ -5934,39 +5920,39 @@ Las entidades bancarias deben instruir especialmente a sus clientes de cuentas c
 
 4.1.1. Timbres de cancelación mecánica.
 
-Las instituciones financieras podrán utilizar timbres de cancelación mecánica de cheques siempre que la impresión no entorpezca la lectura de información esencial del documento cancelado o la lectura de la propia impresión del timbre en documentos microfilmados, cuando corresponda.
+Los bancos podrán utilizar timbres de cancelación mecánica de cheques siempre que la impresión no entorpezca la lectura de información esencial del documento cancelado o la lectura de la propia impresión del timbre en documentos microfilmados, cuando corresponda.
 
 4.1.2. Timbres manuales.
 
 Los timbres de cajero manuales deben tener las siguientes características:
 
-a) La placa de impresión debe ser de hasta 3,5 cm de diámetro o de largo, respectivamente, según sean de forma circular o rectangular, y los rasgos de tipos finos;
+a) La placa de impresión debe ser de hasta 3,5 cm. de diámetro o de largo, respectivamente, según sean de forma circular o rectangular, y los rasgos de tipos finos;
 
 b) Deben ser metálicos, de goma o de otros materiales que cumplan con las especificaciones técnicas requeridas y con pañete interior para tinta. En todo caso deben asegurar una impresión nítida y durable mediante tintas de seguridad con secado instantáneo;
 
-d) Las tintas deben ser de buena calidad y de colores claros, excluyéndose el uso de azules oscuros, negros, rojos fuertes, etc.; y,
+c) Las tintas deben ser de buena calidad y de colores claros, excluyéndose el uso de azules oscuros, negros, rojos fuertes, etc.; y,
 
 d) La aplicación del timbre de cajero debe hacerse al centro del cheque, recomendándose, en todo caso, no cubrir información esencial del documento.
 
 4.2. Timbres de Cámara Compensadora.
 
-Para la utilización del timbre de Cámara Compensadora a que se refiere el Capítulo 5-1 de esta Recopilación, las instituciones deben ceñirse a las siguientes instrucciones:
+Para la utilización del timbre de Cámara Compensadora a que se refiere el Capítulo 5-1 de esta Recopilación, los bancos deben ceñirse a las siguientes instrucciones.
 
 4.2.1. Características del timbre.
 
 Los timbres de cámara, tanto de aplicación manual como mecánica, tendrán las siguientes dimensiones máximas:
 
-largo : 50 mm
+largo : 50 mm.
 
-ancho : 50 mm
+ancho : 50 mm.
 
 Los rasgos de los timbres deben ser finos y de números vaciados y la calidad de la tinta y su color deben tener las mismas características indicadas para los timbres de los cajeros.
 
-La ubicación de la fecha, nombre de la institución y número de identificación que le ha sido asignado para la cámara, será como se señala en la figura N° 1 del Anexo N° 5 de este capítulo.
+La ubicación de la fecha, nombre del banco y número de identificación que le ha sido asignado para la cámara, será como se señala en la figura N° 1 de la Anexo N° 5 de este capítulo.
 
-Las entidades financieras pueden incorporar equipos de procesamiento automático de documentos, con máquinas que les impriman en su reverso los datos indispensables para la identificación de la entidad que presenta a canje el documento de que se trate, en remplazo del timbre de uso manual y mecánico descrito precedentemente.
+Los bancos pueden incorporar equipos de procesamiento automático de documentos, con máquinas que les impriman en su reverso los datos indispensables para la identificación de la entidad que presenta a canje el documento de que se trate, en reemplazo del timbre de uso manual y mecánico descrito precedentemente.
 
-Las instituciones financieras deben incluir en los timbres de cámara el código de identificación que les corresponda, según lo señalado en el Anexo N° 6 del presente capítulo.
+Los bancos deben incluir en los timbres de cámara el código de identificación que les corresponda, según lo señalado en el Anexo N° 6 del presente capítulo.
 
 4.2.2. Fecha que debe consignarse en el timbre.
 
@@ -5974,15 +5960,15 @@ El timbre de cámara debe consignar la fecha en que los documentos deben present
 
 4.3. Timbres protectores.
 
-Las instituciones que utilicen timbres protectores para imprimir y resguardar el valor del documento, procurarán colocarlos de manera que no interfieran con los demás datos del documento.
+Los bancos que utilicen timbres protectores para imprimir y resguardar el valor del documento, procurarán colocarlos de manera que no interfieran con los demás datos del documento.
 
-Los timbres de protección de firmas (timbres secos o de presión) se colocarán sobre las firmas de manera que no ocupen ninguna parte de la franja inferior de 16 mm que debe quedar totalmente libre para la impresión de los caracteres magnéticos.
+Los timbres de protección de firmas (timbres secos o de presión) se colocarán sobre las firmas de manera que no ocupen ninguna parte de la franja inferior de 16 mm. que debe quedar totalmente libre para la impresión de los caracteres magnéticos.
 
-4.4. Timbres de endoso de entidades financieras.
+4.4. Timbres de endoso de bancos.
 
-El endoso de cheques de otras plazas que las empresas financieras entreguen en depósito, debe hacerse de acuerdo a las siguientes normas:
+El endoso de cheques de otras plazas que las empresas bancarias entreguen en depósito, debe hacerse de acuerdo a las siguientes normas:
 
-a) Aplicación en el reverso del cheque de un timbre rectangular de 50 mm por 30 mm que contendrá la siguiente leyenda:
+a) Aplicación en el reverso del cheque de un timbre rectangular de 50 mm. por 30 mm. que contendrá la siguiente leyenda;
 
 PARA DEPOSITAR EN CUENTA CORRIENTE
 
@@ -5992,7 +5978,7 @@ NOMBRE DE LA INSTITUCION
 
 PLAZA
 
-b) Este timbre debe ser siempre estampado por la entidad financiera en los cheques de otras plazas que deposite en una cuenta corriente bancaria, ya que será la única forma de distinguirlos de los documentos que provienen de la Cámara de Compensación; y,
+b) Este timbre debe ser siempre estampado por el banco en los cheques de otras otras plazas que deposite en una cuenta corriente bancaria, ya que será la única forma de distinguirlos de los documentos que provienen de la Cámara de Compensación; y,
 
 c) El timbre de que se trata deberá contener además el facsímil de la firma del o de los apoderados de la entidad depositante, según lo previsto en el D.S. N° 276, de 1991, del Ministerio de Justicia, salvo que se opte por estamparla en forma manuscrita.
 
@@ -6002,19 +5988,19 @@ ANEXO N° 1
 
 ### 1. Serie y N° del cheque
 
-### 2. N° de Cuenta y Nombre
+### 2. N° de cuenta y nombre
 
 ### 3. Importe en pesos (Numérico)
 
-### 4. Nombre de la Institución Financiera
+### 4. Nombre del banco
 
-5. Códigos Inst. - Plaza - Oficina.
+### 5. Códigos institución - plaza - oficina
 
-### 6. Lugar de Giro y Fecha
+### 6. Lugar de giro y fecha
 
-### 7. Beneficiario e Importe en pesos (Alfa numérico)
+### 7. Beneficiario e importe en pesos (Alfa numérico)
 
-### 8. Firma(s) Giradora(s)
+### 8. Firma (s) giradora (s)
 
 ### 9. Franja libre reservada para la impresión de los caracteres CMC-7
 
@@ -6028,37 +6014,31 @@ ANEXO N° 2
 
 ### 3. Importe en pesos (Numérico)
 
-### 4. Nombre de la Institución Financiera,
+### 4. Nombre del banco
 
-5. Códigos Inst. - Plaza - Oficina.
+5. Códigos Inst.- Plaza - Oficina.
 
 ### 6. Lugar de Giro y Fecha
 
 ### 7. Beneficiario e Importe en pesos (Alfa numérico)
 
-### 8. Firma(s) Giradora(s)
+### 8. Firma (s) Giradora (s)
 
 ### 9. Franja libre reservada para la impresión de los caracteres CMC-7
 
 ANEXO N° 3
 
-CODIGOS DE TIPO DE DOCUMENTO
-
 .
 
-ANEXO N° 4
-
-.
-
-### 1. Numero del documento
+### 1. Número del documento
 
 ### 2. Clase de Documento y Código de Transacción
 
-### 3. Importe en pesos (Numérico)
+3- Importe en pesos (Numérico).
 
 ### 4. Oportunidad de Pago
 
-### 5. Nombre de la Institución Financiera
+### 5. Nombre del banco
 
 ### 6. Códigos Entidad - Plaza - Oficina
 
@@ -6066,7 +6046,7 @@ ANEXO N° 4
 
 ### 8. Beneficiario, Importe en letras y otros datos
 
-### 9. Firma(s) Giradora(s)
+### 9. Firma (s) Giradora (s)
 
 ### 10. Franja libre reservada para la impresión de los caracteres CMC-7
 
@@ -6076,9 +6056,9 @@ ANEXO N° 5
 
 ANEXO N° 6
 
-CODIGO DE IDENTIFICACION DE LAS INSTITUCIONES FINANCIERAS
+CODIGO DE IDENTIFICACION DE LOS BANCOS
 
-Bancos
+BANCOS
 
 001 BANCO DE CHILE
 
@@ -6134,17 +6114,7 @@ Bancos
 
 ANEXO N° 7
 
-DISEÑO DE LINEA MICR.
-
 .
-
-SI,SII,SIIII, o SV = Símbolo MICR correspondiente obligado.
-
-N = Carácter numérico, según especificaciones.
-
-B = Espacio en blanco, obligado.
-
-- = Código verificador recuperador, según especificaciones.
 
 CAPITULO 7-1 (Bancos y Financieras)
 
@@ -6598,34 +6568,6 @@ k = Numero de días transcurridos en el semestre móvil correspondiente.
 
 EI valor del Indice de Valor Promedio al 9 de enero de 1990, fue de $ 5.389,14.
 
-CAPITULO 7-2 (Bancos y Financieras)
-
-MATERIA:
-
-NORMAS CONTABLES DE CARACTER GENERAL.
-
-### 1. Criterios contables
-
-Las instituciones financieras deben llevar su contabilidad de acuerdo con las instrucciones impartidas por esta Superintendencia en conformidad con las facultades que le confiere al respecto el artículo 15 de la Ley General de Bancos y, en todos aquellos aspectos que no se encuentren regulados por instrucciones expresas de este Organismo, deben sujetarse a criterios contables prudenciales de aceptación general.
-
-### 2. Forma de llevar la contabilidad
-
-Las transacciones que realice la empresa darán origen a la emisión de comprobantes de contabilización, que deben ser firmados o visados por quien los autorice o apruebe y, cuando corresponda, por la persona que los confeccione.
-
-El sistema contable que se utilice debe permitir el registro con la suficiente pormenorización, a nivel de libro mayor o de auxiliares, de las diferentes transacciones, de tal modo que sea posible conocer la composición y el origen de cualquier saldo en todo momento.
-
-La contabilidad deberá operarse diariamente, de modo que se cuente siempre con la información actualizada acerca de las operaciones. Por lo tanto, al finalizar cada día, todas las transacciones realizadas por la empresa deberán quedar asentadas en sus libros de contabilidad y el corte diario de las partidas asentadas en los registros deberá ser verificable a través de la secuencia numérica de los comprobantes emitidos.
-
-Las contabilizaciones que correspondan al devengo de intereses o reajustes, provisiones y castigos, corrección monetaria de saldos, amortizaciones de gastos diferidos, depreciaciones del activo fijo u otras que no involucran nuevas transacciones o movimiento de fondos, deberán efectuarse, a lo menos, al cierre de cada mes.
-
-Los estados financieros que se publiquen, al igual que la demás información de carácter contable que se envíe a esta Superintendencia, deben concordar con agrupaciones de todos los saldos del libro mayor al cierre del mes que corresponda y en ningún caso su preparación podrá incluir ajustes extracontables.
-
-### 3. Mantención de la documentación
-
-Las instituciones financieras deberán conservar en sus archivos permanentes toda la documentación comprobatoria de las operaciones realizadas, ordenada de tal forma que su consulta sea fácil y expedita.
-
-Dichos archivos deberán mantenerse durante el tiempo que corresponda, de acuerdo con lo establecido en el artículo 155 de la Ley General de Bancos y en el Capítulo 1-10 de esta Recopilación de Normas.
-
 CAPITULO 7-3 (Bancos y Financieras)
 
 MATERIA:
@@ -6813,192 +6755,6 @@ Las empresas que pacten con su personal el pago de indemnizaciones por años de 
 Los saldos no amortizados de los activos intangibles y gastos diferidos de que tratan los números precedentes, se incluirán en las siguientes cuentas de la partida 2120: "Gastos de organización y puesta en marcha", "Inversiones en Software", "Sobreprecio en adquisición de negocios", "Marcas registradas", "Otros activos intangibles" y "Reconocimiento de indemnizaciones por años de servicio".
 
 Los resultados por las amortizaciones se incluirán en las siguientes cuentas de la partida 6265: "Amortización de gastos de organización y puesta en marcha", "Amortización de inversiones en Software", "Amortización de sobreprecio en adquisición de negocios", "Amortización de marcas registradas", "Amortización de otros activos intangibles" y "Amortización de reconocimiento de indemnizaciones por años de servicio".
-
-CAPITULO 7-5 (Bancos y Financieras)
-
-MATERIA:
-
-NORMAS CONTABLES VARIAS.
-
-### I. OPERACIONES ENTRE OFICINAS DE LA PROPIA INSTITUCION
-
-### 1. Correspondencia de débitos y créditos entre oficinas
-
-Las instituciones financieras deben ceñirse a las siguientes instrucciones para corresponder a los cargos y abonos entre oficinas situadas en Chile de la misma entidad:
-
-a) Las oficinas de las entidades financieras ubicadas en una misma plaza, deberán corresponder los cargos o abonos inherentes a las operaciones cursadas entre ellas, el mismo día en que se realicen en la oficina de origen, de tal modo que al finalizar el día no queden partidas pendientes de contabilización.
-
-b) El movimiento de las oficinas ubicadas en plazas diferentes, cuya correspondencia no sea posible realizar el mismo día, deberá quedar cursado, indefectiblemente, en la fecha de recepción del estado de cuentas en la oficina de destino o el día hábil bancario siguiente si el aviso de débitos o créditos se recibió en la tarde, una vez cerrada la contabilidad. En ningún caso las partidas de un día determinado pueden ser correspondidas en forma parcial, es decir, deben cursarse todos los cargos y abonos del estado de cuentas sin dejar ninguno pendiente de los que corresponda confirmar.
-
-c) Las empresas deberán tomar las medidas necesarias para que, en lo posible, al cierre de cada ejercicio anual no queden partidas pendientes de ser correspondidas.
-
-### 2. Demostración de los saldos
-
-Las operaciones que realicen las oficinas de las instituciones financieras entre sí y con su oficina matriz, situadas en Chile, serán registradas en cuentas de las partidas 2105 ó 4105.
-
-Sin embargo, para los efectos de información a esta Superintendencia, se incluirá en la partida 2105 o en la partida 4105, según corresponda, solamente el importe neto de los saldos deudores y acreedores.
-
-### II. CORRESPONDENCIA DE LOS CARGOS Y ABONOS ANUNCIADOS POR BANCOS CORRESPONSALES
-
-Todo cargo o abono comunicado por los bancos corresponsales del exterior deberá ser correspondido dentro de las 48 horas siguientes a la recepción del respectivo aviso
-
-Al tratarse de cargos o abonos anunciados por bancos corresponsales del país, ese plazo máximo será de 24 horas.
-
-Excepciones a lo antes señalado sólo serán admitidas por esta Superintendencia en el evento de que la operación cuya correspondencia se deje en suspenso por un plazo superior al indicado, implique un cargo o abono indebido de parte del corresponsal del país o del exterior que lo haya cursado, y esto siempre, naturalmente, que tal circunstancia sea comprobada a su satisfacción.
-
-### III. CUENTAS CORRIENTES CON BANCOS DEL PAIS O DEL EXTERIOR
-
-### 1. Conciliaciones
-
-Las cuentas corrientes bancarias que mantengan las instituciones en bancos del país o del exterior se deberán tener permanentemente concilladas, cuidando que las revisiones y cotejos de movimientos de débitos y créditos se realicen tan pronto como se reciban los correspondientes extractos o estados de cuentas y, en lo posible, con una periodicidad no mayor de treinta días.
-
-### 2. Registro contable
-
-2.1. Cuentas corrientes en el país.
-
-Las cuentas del activo que correspondan a cuentas corrientes mantenidas con el Banco Central de Chile deben incluirse en la partida 1010, en tanto que aquellas que correspondan a cuentas corrientes con los demás bancos situados en Chile, deben formar parte de la partida 1020.
-
-De conformidad con lo dispuesto en el N° 5 del Capítulo 3-1 de esta Recopilación Actualizada de Normas, las instituciones deben mantener una cuenta corriente especial con sus bancos corresponsales, para registrar en ella exclusivamente el movimiento de depósitos con cheques de otros bancos confiados en gestión de cobro al corresponsal en la plaza sobre la cual están girados.
-
-Las instituciones podrán optar por registrar transitoriamente en la cuenta "Canje de otras plazas" de la partida 1015, para considerarlos como deducible de encaje durante dos días, los depósitos efectuados en las cuentas corrientes señaladas en el párrafo precedente. En todo caso, los cheques y otros documentos a la vista a cargo de empresas bancarias de otras plazas donde la institución no tenga oficina, que no alcancen a ser depositados el día que se reciben, deberán ser imputados a la cuenta de la partida 1015 antes mencionada, en la que no podrán permanecer, en ningún caso, por más de dos días, de acuerdo con lo antes expresado.
-
-2.2. Cuentas corrientes en el exterior.
-
-Las cuentas del activo que correspondan a cuentas corrientes que las instituciones financieras mantengan con bancos del exterior, deben formar parte de la partida 1025.
-
-Los depósitos con cheques u otros documentos a la vista que se envíen al exterior podrán, optativamente, mantenerse registrados transitoriamente en la cuenta "Canje de otras plazas" de la partida 1015, para considerarlos como deducible de encaje durante dos días, o registrarse de inmediato en las cuentas de la partida 1025 antes mencionada.
-
-### 3. Sobregiros en cuentas corrientes
-
-Cuando alguna cuenta corriente se encuentre sobregirada, sea con un banco del país o con un corresponsal del exterior, su saldo no podrá ser compensado con el de otras cuentas corrientes aunque se mantengan con la misma entidad, de manera que los saldos acreedores de esas cuentas deberán incluirse, para los efectos de la información que debe remitirse a esta Superintendencia, en las partidas 3405, 3410, 3415, 3510 ó 3515, según corresponda.
-
-### IV. OPERACIONES PENDIENTES
-
-Se registrarán transitoriamente como operaciones pendientes todos aquellos importes respecto a los cuales no se disponga de los antecedentes necesarios para su imputación definitiva. Estos importes deben ser registrados en cuentas de la partidas 2110 ó 4110, según se trate de saldos deudores o acreedores.
-
-Dada la transitoriedad de estas operaciones, los montos registrados como operaciones pendientes no podrán permanecer como tales una vez que se cuente con los antecedentes que permitan efectuar su imputación definitiva, los que deberán ser obtenidos a la mayor brevedad, no pudiendo mantenerse operaciones pendientes deudoras o acreedoras por más de 90 días, salvo que previamente se haya obtenido una autorización de esta Superintendencia. Con todo, ese plazo de 90 días no se aplicará a los sobrantes de caja, los que deberán solucionarse de acuerdo con las normas contables para caducidad de acreencias establecidas en el Capítulo 2-13 de esta Recopilación.
-
-En todo caso, las instituciones fiscalizadas deberán adoptar las medidas necesarias para que en los estados financieros no se incluyan cuentas por aclarar o sujetas a confirmaciones, cuya aclaración o regularización dependa de una mera cuestión de desfase en la información pertinente o de la agilidad administrativa de la propia empresa. Por otra parte, cuando existan antecedentes que hagan suponer que la solución de una operación pendiente deudora se traducirá en el reconocimiento de un gasto para la institución y no en la aplicación del importe a determinadas cuentas del activo o del pasivo, se deberá constituir una provisión especial para imputar al ejercicio la pérdida estimada.
-
-### V. PROVISIONES PARA RECONOCER OBLIGACIONES
-
-### 1. Indemnizaciones por años de servicio
-
-Las empresas que tengan pactado con el personal el pago de indemnizaciones por años de servicio, ya sea en contratos de trabajo, actas de avenimiento, contratos colectivos u otros, deberán constituir una provisión por este concepto siempre que, contractualmente, se contemple un pago a todo evento.
-
-La provisión deberá constituirse reflejando el valor actual de la obligación de acuerdo con los criterios señalados en los Boletines Técnicos N°s 8 y 18 del Colegio de Contadores A.G.
-
-La provisión se registrará en la cuenta "Provisión para indemnizaciones por años de servicio" de la Partida 4115 y se constituirá con cargo a la cuenta "Indemnizaciones por años de servicio" de la Partida 6210.
-
-Cuando al pactar un beneficio se reconozca su efecto respecto a períodos anteriores, las instituciones financieras podrán diferir el cargo a resultados de acuerdo con lo establecido en el Capítulo 7-4 de esta Recopilación Actualizada de Normas.
-
-### 2. Otras provisiones
-
-Al cierre de cada mes las instituciones financieras deberán constituir provisiones por todas las obligaciones correspondientes a gastos que se encuentren pendientes de pago, con abono a una o más cuentas abiertas para tal efecto en la partida 3040.
-
-VI.- IMPUESTO A LA RENTA.
-
-1.- Provisión de impuesto a la renta.
-
-Al cierre del ejercicio anual y provisionalmente
-
-al término de cada mes (enero a noviembre), las instituciones financieras deberán determinar el correspondiente resultado tributario y registrar, cuando corresponda, la respectiva provisión de impuesto a la renta.
-
-Para cumplir con las disposiciones de la Ley sobre Impuesto a la Renta, las empresas deberán hacer todos los agregados y deducciones pertinentes a partir de la información que registre la contabilidad, manteniendo todos los antecedentes en archivos debidamente ordenados.
-
-La provisión para impuesto a la renta se informará en la cuenta "Provisión para impuesto a la renta" de la partida 4115, o bien en la cuenta con el mismo nombre de la partida 2115 en caso de que el monto de los Pagos
-
-Provisionales Mensuales correspondientes al ejercicio fuere mayor que el importe de la provisión.
-
-Los pagos provisionales de impuestos se informarán en la cuenta "Pagos provisionales mensuales (PPM)" de la partida 4115 cuando la provisión de impuesto a la renta sea superior al monto de los PPM pagados, o en la cuenta con el mismo nombre de la partida 2115, en caso contrario.
-
-2.- Impuestos diferidos.
-
-Las instituciones financieras registrarán al cierre del ejercicio y provisionalmente al término de cada mes, los impuestos diferidos que se originen en las diferencias temporales que correspondan, de conformidad con lo señalado en el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
-
-Los impuestos diferidos que corresponda contabilizar en el activo serán informados en la cuenta "Impuestos diferidos por cobrar", de la partida 2115, en tanto que los impuestos diferidos que corresponda contabilizar en el pasivo serán informados en la cuenta "Impuestos diferidos por pagar", de la partida 4115. Los saldos acreedores o deudores por amortizar de las diferencias de impuestos diferidos originadas en el primer ejercicio de aplicación del Boletín Técnico N° 60, se incluirán, respectivamente, en las cuentas "Cuenta complementaria de impuestos diferidos por cobrar" de la partida 2115 y "Cuenta complementaria de impuestos diferidos por pagar" de la partida 4115. La provisión que se constituya en caso de incertidumbre respecto a la realización del activo, se reflejará en la cuenta "Provisión sobre impuestos diferidos por cobrar" de la partida 2115.
-
-La pérdida o utilidad neta por impuestos se mostrará en la cuenta "Impuesto a la renta", de la partida 6605.
-
-### VII. UTILIZACION DE CUENTAS DE ORDEN
-
-1. Cuentas que no corresponden a las partidas específicas instruidas por esta Superintendencia.
-
-Las partidas específicas instruidas por esta Superintendencia, correspondientes a las cuentas de orden deudoras, no son óbice, como es natural, para que las instituciones financieras mantengan en su contabilidad, con los fines que estimen conveniente, cuentas de orden que no tienen cabida en aquellas partidas.
-
-Para efectos de cuadratura entre los saldos que registre la contabilidad y los informados a esta Superintendencia, esas cuentas de orden se incluirán, como un solo saldo, en la partida 9899 "Otras cuentas de orden".
-
-### 2. Cuentas acreedoras
-
-Las instrucciones contables impartidas por esta Superintendencia sobre el uso de cuentas de orden, señalan solamente la cuenta deudora que debe utilizarse, quedando a criterio de cada institución financiera la elección de la nominación y estructura de las cuentas de orden acreedoras que reciben la contrapartida de cada contabilización. En todo caso, todas las cuentas acreedoras conformarán el saldo de la partida 9900 y se informarán a esta Superintendencia como una sola cuenta.
-
-VIII.- OBLIGACIONES POR COLOCACION DE BONOS.
-
-Las obligaciones por bonos en circulación se reflejarán en el pasivo por el monto del financiamiento real obtenido, esto es, por su valor par menos el importe de los descuentos o más el monto de las primas que se obtengan en la colocación, según corresponda, debiendo reconocerse en los resultados los reajustes e intereses en función del tipo de reajustabilidad de los instrumentos y de la tasa de interés implícita.
-
-Para ese efecto, se utilizarán cuentas complementarias para el registro de las primas o descuentos, debiéndose contabilizar las operaciones de la forma que se describe a continuación:
-
-a) Colocación de los bonos.
-
-Debe: - La cuenta que corresponda por los recursos obtenidos en la colocación de los bonos.
-
-- "Descuentos por colocación de bonos en el país", de la partida 3075, por la diferencia entre el valor par y el menor valor obtenido en la colocación.
-
-Haber: - "Bonos colocados en el país", de la partida 3075, por el valor par de los instrumentos.
-
-- "Primas por colocación de bonos en el país", de la partida 3075, por la diferencia entre el valor par y el mayor valor obtenido en la colocación.
-
-b) Reajustes.
-
-Debe: - "Reajustes pagados por bonos colocados en el país", de la partida 5315, por el reajuste calculado según el financiamiento obtenido.
-
-- "Descuentos por colocación de bonos en el país", en caso de descuentos.
-
-Haber: - "Bonos colocados en el país".
-
-- "Primas por colocación de bonos en el país", en caso de primas.
-
-c) Intereses.
-
-Debe: - "Intereses pagados por bonos colocados en el país", de la partida 5140, por los intereses calculados según el financiamiento obtenido.
-
-- "Primas por colocación de bonos en el país", por la diferencia entre los mayores intereses que se determinan según el valor par y los intereses calculados según el financiamiento obtenido, en caso de colocaciones con primas.
-
-Haber: - "Bonos colocados en el país".
-
-- "Descuentos por colocación de bonos en el país", por la diferencia entre los menores intereses que se determinan según el valor par y los intereses calculados según el financiamiento obtenido, en caso de colocaciones con descuentos.
-
-Conforme a la contabilización descrita, los saldos de las cuentas complementarias correspondientes a los descuentos o las primas se reajustarán y se extinguirán mediante el traspaso de los importes que permiten reflejar el interés implícito en la captación de fondos mediante la colocación de bonos.
-
-d) Vencimiento de los bonos.
-
-Debe: "Bonos colocados en el país".
-
-Haber: "Bonos vencidos por pagar", de la partida 3010.
-
-e) Bonos subordinados y bonos colocados en el exterior.
-
-Cuando se trate de bonos subordinados, las instituciones financieras deberán atenerse a las instrucciones complementarias o específicas contenidas en el Capítulo 9-6 de esta Recopilación Actualizada de Normas.
-
-Asimismo, en el evento de que se coloquen bonos en el exterior, deberán considerarse las normas del Capítulo 13-34 de esta Recopilación.
-
-IX.- LINEAS DE CREDITO DEL EXTERIOR.
-
-Los bancos registrarán las líneas de crédito que obtengan en el extranjero en la cuenta "Líneas de crédito del exterior", de la partida 9380.
-
-Los gastos por comisiones de estas líneas de crédito se imputarán a la cuenta "Comisiones pagadas por financiamientos del exterior", de la partida 5510.
-
-X.- TRANSFERENCIAS SUJETAS A COMPENSACION POR INTERMEDIO DE UNA SOCIEDAD DE APOYO AL GIRO.
-
-Las instituciones financieras que reciban, por intermedio de una sociedad de apoyo al giro que realice la compensación de pagos y recaudaciones, instrucciones para efectuar pagos a favor de terceros, cursarán los abonos correspondientes con cargo a la cuenta "Operaciones cursadas sujetas a compensación".
-
-Por otra parte, las instituciones financieras que reciban, por intermedio de la sociedad de apoyo que realice la compensación, instrucciones para efectuar recaudaciones de cargo de terceros, cursarán los respectivos débitos con abono a la cuenta "Operaciones cursadas sujetas a compensación". Igual procedimiento aplicarán las instituciones financieras que reciban instrucciones de sus clientes para efectuar pagos a terceros que deban cumplirse por intermedio de otras instituciones financieras, cuyas instrucciones sean canalizadas por la sociedad de apoyo que realice la compensación.
-
-La cuenta antes mencionada será habilitada en la partida 1015, la que reflejará el saldo deudor correspondiente al importe de los vales de cámara que deba recibir la institución financiera como resultado de la compensación, y en la partida 3010, la que reflejará el saldo acreedor correspondiente a los vales de cámara que deba emitir la institución financiera por los importes adeudados con motivo de la compensación.
-
-XI.- INVERSIONES EN ORO.
-
-Las inversiones en oro que las empresas bancarias mantengan de conformidad con lo dispuesto en el N° 18 del artículo 69 de la Ley General de Bancos, serán registradas en pesos oro sellado chileno en la cuenta "Inversiones en oro" de la partida 1775.
 
 CAPITULO 7-7 (Bancos y Financieras)
 
@@ -8246,138 +8002,6 @@ d) Comisiones.
 
 Las comisiones que las instituciones financieras cobren a las compañías de seguros por actuar en calidad de agentes administradores de éstas, serán acreditadas en la cuenta "Comisiones ganadas por administración de M.H.E.", de la partida 7525.
 
-CAPITULO 8-7 (Bancos y Financieras)
-
-MATERIA:
-
-COMPRA DE CARTERA DE COLOCACIONES A INSTITUCIONES FINANCIERAS EN LIQUIDACION.
-
-### 1. Generalidades
-
-Las instituciones financieras pueden adquirir efectos de comercio e instrumentos
-
-de la cartera de colocaciones, vigentes o vencidos, de las entidades financieras
-
-que se encuentran en liquidación, a los precios y en las condiciones que
-
-libremente acuerden las partes.
-
-En todo caso, las referidas compras deben ser definitivas, por documentos
-
-completos y sin responsabilidad para la entidad en liquidación vendedora.
-
-La cesión de esos títulos comprenderá todas las garantías y privilegios
-
-inherentes o accesorios a la obligación principal.
-
-### 2. Valor y moneda para registrar las colocaciones adquiridas
-
-Las instituciones financieras deben registrar en las cuentas de colocaciones que corresponda y en la moneda en que se encuentren expresados cada uno de los créditos adquiridos, sea que se trate de créditos vigentes o vencidos, salvo aquellos que deban ser castigados, según lo señalado en el N° 4 de este capítulo y aquellos cuyo precio de adquisición haya resultado igual o inferior al 5% de su valor par, de acuerdo con lo expresado en el N° 6 de las presentes normas.Mientras los referidos créditos no sean clasificados, como se dispone en el N° 5 de estas instrucciones, su contabilización se hará al valor de adquisición, ya sea que el precio al cual se compraron haya sido pagado efectivamente o que se haya contraído la obligación de pagarlo en un plazo
-
-determinado. Dicho valor deberá constar en la correspondiente documentación de la compra de cartera.
-
-La diferencia entre el valor de adquisición y el valor del documento debe registrarse también en forma provisional en las cuentas de orden dispuestas para ese efecto.
-
-Cuando se trate de adquisiciones cuyo precio incluya varios créditos, el valor de adquisición de cada uno de ellos será proporcional al precio pagado por el total de la operación.
-
-### 3. Diferencias entre el valor par y el precio de adquisición
-
-Las diferencias entre el precio a que se adquieren los créditos y el valor par de los respectivos documentos, deben registrarse transitoriamente en cuentas de orden. Una vez que dichos créditos se encuentren clasificados de acuerdo con lo señalado en el N° 5 de este Capítulo, los créditos registrados en el activo se ajustarán a su valor par, reconociendo como ingresos el mayor valor.
-
-### 4. Tratamiento de los créditos vencidos
-
-Los créditos vencidos que se adquieran de las instituciones financieras en
-
-liquidación, se castigarán a los 24 ó 36 meses contados desde los 90 días
-
-posteriores a la fecha de su vencimiento, según se trate de créditos sin
-
-garantía o amparados por alguna garantía real, respectivamente. Estos plazos se
-
-aplicarán a todos los créditos vencidos que se reciban de instituciones
-
-financieras en liquidación, de modo que si se adquieren créditos cuyo plazo para
-
-castigo de veinticuatro o de treinta y seis meses se encontrare cumplido, el
-
-castigo deberá efectuarlo la entidad compradora, en el momento de la adquisición.
-
-### 5. Clasificación de los créditos adquiridos
-
-Los créditos que se adquieran a una institución en liquidación tanto vigentes como vencidos cuyo precio de adquisición hubiera sido superior al 5% de su valor par, deben clasificarse de conformidad con las normas establecidas en el Capítulo 8-28 de esa Recopilación Actualizada de Normas.
-
-Una vez efectuada la clasificación, los créditos que quedaron registrados en el activo se ajustarán a su valor par, reconociendo en resultados el ingreso por las diferencias de precio. Dicha clasificación afectará de inmediato la constitución de las provisiones, considerando ese valor par. Al tratarse de créditos hipotecarios para la vivienda o créditos de consumo pagaderos en cuotas que, conforme a las normas del citado Capítulo 8-28, deben clasificarse de acuerdo con su morosidad, ese procedimiento se efectuará dentro del mismo mes en que se reciban de la entidad vendedora. Los demás créditos podrán ajustarse a su valor par a medida que se vayan clasificando, o bien, una vez concluido el análisis de todos los créditos comerciales adquiridos.
-
-No obstante lo anterior, al tratarse de créditos comerciales las instituciones financieras que no estén clasificadas por dos o más veces consecutivas en categoría I según la calidad de sus procesos de clasificación, podrán registrar el valor par de esos créditos y los correspondientes ingresos sólo una vez que esta Superintendencia haya revisado y dado su conformidad a la clasificación de la cartera adquirida.
-
-### 6. Créditos exceptuados de clasificación
-
-Los créditos adquiridos a instituciones financieras en liquidación, en un precio
-
-que resulte igual o inferior al cinco por ciento de su valor par, calculado a la
-
-fecha de adquisición, se registrarán exclusivamente en cuentas de orden por su
-
-valor nominal, quedando por consiguiente exceptuados del trámite de
-
-clasificación y de su ingreso a la cartera de colocaciones en el activo de la
-
-entidad compradora.
-
-Cuando se trate de créditos que forman parte de un lote y que, por consiguiente,
-
-no cuenten con un precio de adquisición determinado individualmente para los
-
-efectos de lo dispuesto en el párrafo precedente, la institución adquirente
-
-deberá asignarle sólo para esos fines a cada uno, el precio que estime le
-
-corresponde, hasta completar el precio efectivamente pagado por el conjunto.
-
-### 7. Instrucciones contables
-
-Las colocaciones que se adquieran a instituciones financieras en liquidación quedan sometidas a las siguientes instrucciones contables:
-
-7.1. Adquisición de documentos de la cartera de colocaciones.
-
-Debe:- La cuenta de colocaciones vigentes o de cartera vencida que corresponda, según el crédito de que se trate, por el valor de adquisición del respectivo documento.
-
-- "Diferencias de precio de créditos vigentes" o "Diferencias de precio de créditos vencidos", de la partida 9150, por la diferencia entre el valor par del documento y su valor de adquisición, según se trate de un crédito vigente o vencido.
-
-Haber: - Las cuentas que correspondan, por el importe pagado o adeudado a la entidad vendedora.
-
-- La cuenta de orden de la partida 9900.
-
-7.2. Abono a resultados de las diferencias de precio obtenidas.
-
-El ajuste al valor par de los créditos se registrará, conforme a lo señalado en los N°s 3 y 5 de estas normas, cargando la cuenta de colocaciones que corresponda, con abono a la cuenta "Beneficios por activación de créditos adquiridos a instituciones en liquidación", de la partida 7605. Simultáneamente deben revertirse las diferencias registradas en la cuenta de orden a que se refiere el numeral 7.1 precedente.
-
-7.3. Préstamos para vivienda en letras de crédito y préstamos pagaderos en cuotas.
-
-Para contabilizar la adquisición de préstamos hipotecarios en letras de crédito y sus correspondientes obligaciones por letras de crédito en circulación, cuando sea el caso, se utilizan las mismas cuentas habilitadas para el registro de estas operaciones de conformidad con lo dispuesto en el Capítulo 9-1 de esta Recopilación de Normas, tanto para créditos vigentes como vencidos. La cartera vigente se registrará con sus correspondientes reajustes devengados hasta la fecha de compra, en tanto que los créditos o dividendos de éstos que se encuentren vencidos se registrarán por su valor en pesos a la fecha de vencimiento.". Además, en el segundo párrafo de este numeral se remplaza la frase "cuyo saldo se incluye en la partida 7605 del formulario MR1", por "de la partida 7605".
-
-Las diferencias entre el valor nominal remanente de estos créditos y el valor de adquisición, deben acreditarse en la cuenta "Beneficios por activación de créditos adquiridos a instituciones en liquidación", cuyo saldo se incluye en la partida 7605 del formulario MR1, previa en todo caso, la clasificación del respectivo crédito de acuerdo a su morosidad, según las normas dadas a conocer en el Capítulo 8-28 de esa Recopilación Actualizada de Normas.
-
-Conjuntamente con el abono a la citada cuenta de resultados, deben constituirse las provisiones correspondientes al incremento del riesgo de la cartera de colocaciones originado por la incorporación de estos créditos a la cartera clasificada.
-
-7.4.- Devengo de Intereses y reajustes de créditos registrados transitoriamente en el activo por su valor de compra.
-
-Mientras las colocaciones no sean ajustadas en el activo a su valor par según lo previsto en los N°s. 3 y 5 de este Capítulo, no se reconocerán en los resultados los intereses y reajustes devengados por los respectivos créditos, debiendo registrarse éstos en las cuentas "Diferencias de precio de créditos vigentes" o "Diferencias de precio de créditos vencidos" señaladas en el numeral 7.1 anterior. Estas cuentas de orden deberán reflejar, al cierre de cada mes, el complemento de lo registrado en el activo como cartera vigente o vencida, respectivamente, adquirida a instituciones financieras en liquidación.
-
-7.5. Créditos adquiridos por un valor igual o inferior al equivalente del cinco por ciento de su valor par.
-
-Los créditos cuyo valor de adquisición resulte igual o inferior al cinco por ciento de su valor par, determinado a la fecha de adquisición, serán contabilizados por su valor nominal en las cuentas de orden "Créditos adquiridos a instituciones en liquidación - vigentes" o "Créditos adquiridos a instituciones en liquidación - vencidos", de la partida 9150, según la situación en que se encuentre cada crédito en relación con lo indicado en el N° 4 del Capítulo 8-26 de esta Recopilación Actualizada de Normas. Dichas cuentas se ajustarán como consecuencia de los pagos recibidos y por el devengo de reajustes e intereses, de acuerdo con las condiciones de cada crédito.
-
-En todo caso, si un crédito cumple alguna de las condiciones que determinaría su castigo contable si estuviese ingresado en el activo, se registrará en la cuenta "Créditos comerciales castigados" de la partida 9600, de que trata el Capítulo 8-29 de esta Recopilación, debiéndose aplicar las instrucciones del numeral 4.1 del título IV de dicho Capítulo.
-
-7.6.- Créditos adquiridos a CORFO.
-
-Las instituciones financieras que apliquen las instrucciones contables del presente Capítulo para la cartera adquirida de la Corporación de Fomento de la Producción (CORFO), deberán utilizar las siguientes cuentas:
-
-a) En vez de las cuentas de orden de la partida 9150 señaladas en el numeral 7.1, se utilizarán las cuentas "Diferencias de precio de créditos vigentes" y "Diferencias de precio de créditos vencidos" correspondientes a la partida 9153. Lo indicado en el numeral 7.4 debe entenderse referido, en este caso, a las cuentas de orden de la partida 9153.
-
-b) Para registrar los créditos en cuentas de orden según lo indicado en el numeral 7.5 precedente, en vez de las cuentas "Créditos adquiridos a instituciones en liquidación - vigentes" o "Créditos adquiridos a instituciones en liquidación - vencidos", de la partida 9150, se utilizarán las cuentas "Créditos adquiridos de CORFO - vigentes" y "Créditos adquiridos de CORFO - vencidos" de la partida 9153.
-
 CAPITULO 8-8 (Bancos y Financieras)
 
 MATERIA:
@@ -9205,556 +8829,6 @@ Para efecto de control, los totales de los créditos directos castigados que deb
 No obstante, si se trata de créditos o cuotas castigados antes de su vencimiento, los respectivos importes se incluirán en las cuentas "Créditos comerciales vigentes castigados", "Créditos de consumo vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la misma partida.
 
 En la cuenta "Créditos comerciales castigados" deben incluirse también los créditos directos provenientes de la cartera restituida por el Banco Central de Chile que se mantiene registrada en cuentas de orden de acuerdo con lo dispuesto en el título VII del Capítulo 8-19 de esta Recopilación, cuando ellos cumplan las condiciones que obligarían a castigarlos si estuviesen registrados en el activo.
-
-CAPITULO 8-30 (Bancos y Financieras)
-
-MATERIA:
-
-REPROMAGRACIONES CON FINANCIAMIENTO DEL BANCO CENTRAL DE CHILE.
-
-I.- REPROGRAMACIONES DE CREDITOS AL SECTOR PRODUCTIVO.
-
-A) DEUDAS REPROGRAMADAS AL SECTOR PRODUCTIVO SEGUN ACUERDO 1507.
-
-1. Podían acogerse a la reprogramación de que se trata, las personas que tenían obligaciones elegibles y que cumplieron los requisitos que se exigieron para tal efecto, de conformidad con lo establecido en el acuerdo de sesión N° 1.507 del ex-Comité Ejecutivo del Banco Central de Chile.
-
-Los créditos reprogramados fueron refinanciados por el Banco Central de Chile con cargo a lineas de crédito establecidas con ese objeto, cuyos recursos fueron invertidos por las respectivas entidades financieras en pagarés emitidos por el Instituto Emisor con esa finalidad.
-
-2.- Refinanciamiento del Banco Central de Chile.
-
-2.1.- Colocaciones.
-
-Los créditos reprogramados vigentes deben encontrarse registrados en las siguientes cuentas de la partida 1235, según el caso: "Créditos para Importación reprogramados a diez años-Acuerdo 1507"; "Préstamos contra pagarés reprogramados a diez años-Acuerdo 1507"; u, "Otros créditos reprogramados-Acuerdo 1507".
-
-2.2.- Refinanciamiento del Banco Central de Chile.
-
-Los refinanciamientos cursados por el Banco Central de Chile, deben mantenerse registrados en la cuenta "Línea de crédito para reprogramación de deudas", de la partida 3470.
-
-Los refinanciamientos expresados en moneda extranjera y pagaderos en pesos, fueron registrados en esas monedas, razón por la cual se habilitaron las cuentas "Conversión Acuerdo 1507" y "Cambio Acuerdo 1507", de las partidas 2510 y 4510.
-
-La referida cuenta "Cambio Acuerdo 1507", debe ser ajustada al término de cada mes, en la forma prevista en el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
-
-2.3. Intereses.
-
-2.3.1.- Intereses sobre créditos reprogramados
-
-Debe: - La cuenta complementaria de intereses por cobrar, de la partida 1235.
-
-Haber: - "Intereses ganados por prestamos contra pagararés reprogramados a 10 años- Acuerdo 1507", partida 7130 ó 7135;
-
-- "Intereses ganados por otros créditos reprogramados-Acuerdo 1507", partida 7130 ó 7135; o,
-
-- "Intereses ganados por créditos para importación reprogramados a 10 años Acuerdo 1507", partida 7135.
-
-2.3.2.- Intereses pagados por refinanciamiento.
-
-Debe: - "Intereses pagados por línea de crédito para reprogramación de deudas", de la partida 5160.
-
-Haber: La cuenta complementaria de intereses por pagar, de la partida 3470.
-
-2.4.1.- Reajustes sobre créditos reprogramados.
-
-Debe: - La cuenta complementaria de reajustes por cobrar, de la partida 1235.
-
-Haber: - "Reajustes ganados por préstamos contra pagarés reprogramados a 10 años - Acuerdo 1507" de la partida 7320; o,
-
-- "Reajustes ganados por otros créditos reprogramados - Acuerdo 1507", de la misma partida.
-
-2.4.2.- Reajustes pagados por refinanciamiento.
-
-Debe: "Reajustes pagados por linea de crédito para reprogramación de deudas", de la partida 5365.
-
-Haber: La cuenta complementaria de reajustes por pagar, de la partida 3470.
-
-B) DEUDAS REPROGRAMADAS AL SECTOR PRODUCTIVO SEGUN ACUERDO 1578.
-
-1.- Generalidades.
-
-Tuvieron derecho a acogerse a esta reprogramación, las personas que tenían obligaciones elegibles y que cumplían los requisitos que se exigieron para tal efecto, de conformidad con lo establecido en el acuerdo de sesión N° 1.578 del ex-Comité Ejecutivo del Banco Central de Chile.
-
-Los créditos reprogramados fueron refinanciados por el Banco Central de Chile y el producto del refinanciamiento fue invertido en pagarés emitidos con ese objeto por el Instituto Emisor.
-
-2.- Pago de los créditos reprogramados.
-
-El pago de los créditos acogidos a la reprogramación de que se trata, se debe efectuar en las condiciones acordadas en su oportunidad.
-
-En todo caso, los deudores acogidos a este sistema pueden pagar anticipadamente total o parcialmente las deudas reprogramadas. Estos prepagos están condicionados a que, además del capital que se pague antes del vencimiento pactado, el deudor pague también los intereses por devengar correspondientes al monto de capital que se paga anticipadamente, por el periodo comprendido desde la fecha en que se realice ese pago, hasta la fecha de vencimiento más próxima de su crédito reprogramado. En consecuencia, las instituciones financieras acreedoras deben renunciar, por su parte, a los intereses no devengados que hubieren correspondido al monto pagado anticipadamente, que sean posteriores a la fecha de vencimiento indicada.
-
-También se consideran prepagos y, por lo tanto, sujetos a las condiciones señaladas precedentemente los montos que las instituciones financieras reciban anticipadamente por la recuperación de los saldos de precio correspondientes a ventas de acciones Ley N° 18.439 hechas a plazo, las recuperaciones anticipadas de créditos consolidados provenientes de deudas reprogramadas; las recuperaciones anticipadas de los préstamos reprogramados destinados a mejorar las condiciones de tasa y plazo de créditos correspondientes a deudores del sector productivo con obligaciones totales en el sistema financiero, al 31 de octubre de 1985, exceptuados los créditos de consumo, para vivienda y contingentes, de hasta 10 millones de pesos.
-
-3.- Periodo de vigencia de las obligaciones y prohibiciones que afectan a los deudores.
-
-Mientras existan saldos pendientes de pago de las deudas reprogramadas, subsisten los compromisos que firmaron los deudores ante sus respectivas instituciones financieras acreedoras respecto del cumplimiento de las obligaciones y prohibiciones que les afectan con motivo de la renegociación.
-
-Para tal efecto, se consideran también como saldos pendientes de deuda reprogramada, además de los mencionados anteriormente el saldo de créditos reprogramados que hubieren sido consolidados en conformidad a la Ley 18.439 y el saldo de los prestamos concedidos a deudores de obligaciones totales en el sistema financiero, exceptuados los créditos de consumo, para vivienda y contingentes, al 31 de octubre de 1985, de hasta $ 10.000 000 con el objeto de mejorar las condiciones de pago de los créditos reprogramados.
-
-No obstante las prohibiciones aludidas precedentemente, los referidos deudores pueden mantener inversiones en acciones de Administradoras de Fondos de Pensiones y de bancos comerciales, cuando ellas se hayan adquirido bajo las disposiciones de la Ley N° 18.401, siempre que den cumplimiento al compromiso de destinar al pago anticipado de los servicios de la deuda reprogramada, a lo menos el 30% de las utilidades liquidas de cada ejercicio, una vez absorbidas las pérdidas de ejercicios anteriores.
-
-El documento en que consten las referidas obligaciones y prohibiciones, debe ser mantenido junto con los correspondientes pagarés.
-
-4.- Incumplimiento de las obligaciones y prohibiciones.
-
-El incumplimiento de cualquiera obligación o prohibición que se haya comprometido a observar el respectivo deudor, como requisito previo para la reprogramación de sus deudas, de acuerdo a lo exigido por las normas del Banco Central de Chile, da derecho a la respectiva institución acreedora para hacer exigible el pago de los saldos pendientes de la deuda reprogramada y considerarla, en consecuencia, como de plazo vencido.
-
-La calificación de incumplimiento de alguna de las obligaciones y prohibiciones a que se comprometieron los respectivos deudores, debe ser hecha por un árbitro o amigable componedor designado de común acuerdo entre el deudor y la respectiva institución acreedora, de acuerdo con lo convenido al momento de la reprogramación.
-
-El árbitro o amigable componedor actuará a requerimiento de cualquiera de las partes y fallará en única instancia y sin ulterior recurso, incluidos los de casación y de queja.
-
-5.- Incumplimiento en el pago de cuotas de intereses o capital.
-
-Las instituciones financieras acreedoras están facultadas para hacer exigibles de inmediato la totalidad de los saldos pendientes de la deuda reprogramada, si el deudor no pagare oportunamente una cuota cualquiera de amortización de capital o de intereses.
-
-6.- Instrucciones contables.
-
-6.1.- Colocaciones.
-
-Los créditos reprogramados vigentes deben encontrarse registrados en las siguientes cuentas de la partida 1235, según el caso:
-
-- "Créditos para importación reprogramados Acuerdo 1578";
-
-- "Otros créditos reprogramados - Acuerdo 1578";
-
-- "Préstamos contra pagaré reprogramados Acuerdo 1578";
-
-- "Préstamos para pago anticipado de deudas elegibles en moneda extranjera- Acuerdos 1578-1600";
-
-- "Préstamos para pago de deudas elegibles en moneda extranjera Acuerdo 1466 reprogramadas -Acuerdo 1578-1600";
-
-- "Préstamos para pago de deudas elegibles en moneda extranjera- Acuerdo 1578- 1600";,
-
-- "Préstamos para prepagos deudas Acuerdo 1466-reprogramados - Acuerdo 1578";o,
-
-- "Préstamos a deudores sector productivo hasta 10 millones de pesos reprogramados con financiamiento de prepagos-Acuerdo 1705".
-
-6.2.- Refinanciamientos del Banco Central de Chile.
-
-Los refinanciamientos del Banco Central de Chile deben encontrarse registrados en las siguientes cuentas de la partida 3470, según corresponda
-
-- "Linea de crédito para reprogramación de deudas intereses rebajados - Acuerdo 1578",
-
-- "Linea de crédito para reprogramación Acuerdo 1578 Reprogramación deudores hasta 27.000 UF"; o,
-
-- "Linea de crédito para reprogramación Acuerdo 1578: Reprogramación deudores sobre 27.000 UF"
-
-Los refinanciamientos expresados en moneda extranjera y pagaderos en pesos, fueron registrados en esas monedas, razón por la cual se habilitaron las cuentas "Conversión Acuerdo 1578" y "Cambio Acuerdo 1578", de las partidas 2510 y 4510.
-
-La cuenta "Cambio Acuerdo 1578", debe ser ajustada al término de cada mes, en la forma prevista en el Capítulo 13-30 de esta Recopilación Actualizada de Normas.
-
-6.3.- Intereses.
-
-6.3.1.- Intereses sobre montos reprogramados.
-
-La cuenta complementaria de intereses por cobrar que corresponda, de la partida 1235.
-
-Haber: - "Intereses ganados por préstamos para pago anticipado de deudas elegibles en moneda extranjera -Acuerdo 1578 - 1600", partida 7130,
-
-- "Intereses ganados por préstamos para pago de deudas elegibles en moneda extranjera Acuerdo 1466
-
-- Reprogramados Acuerdo 1578 - 1600", partida 7130;
-
-- "Intereses ganados por préstamos para pago de deudas elegibles en moneda extranjera Acuerdo 157 8 -1600", partida 7130;
-
-- "Intereses ganados por préstamos para prepagos deudas - Acuerdo 1466 - Reprogramados Acuerdo 1578", partida 7130;
-
-- "Intereses ganados por otros créditos reprogramados - Acuerdo 1578", partida 7130 ó 7135;
-
-- "Intereses ganados por préstamos contra pagaré reprogramados - Acuerdo 1578", partida 7130 ó 7135;
-
-- "Intereses ganados por préstamos a deudores sector productivo hasta 10 millones de pesos reprogramados con financiamiento de prepagos - Acuerdo 1705", partida 7130; o,
-
-- "Intereses ganados por créditos para importación reprogramados - Acuerdo 1578", partida 7135.
-
-6.3.2.- Intereses por el refinanciamiento.
-
-Debe: - "Intereses pagados por linea de crédito para reprogramación de deudas intereses rebajados Acuerdo 1578",
-
-- "Intereses pagados por línea de crédito para reprogramación - Acuerdo 1578: Reprogramación deudores hasta 27000 UF" o,
-
-- "Intereses pagados por línea de crédito para reprogramación - Acuerdo 1578: Reprogramación deudores sobre 27000 UF".
-
-Estas cuentas se incluyen en la partida 5160.
-
-Haber: La cuenta complementaria de intereses por pagar que corresponda, de la partida 3470.
-
-6.4.- Reajustes.
-
-6.4.1.- Reajustes sobre impuestos reprogramados.
-
-Debe: La cuenta complementaria de reajustes por cobrar que corresponda, de la partida 1235.
-
-Haber: - "Reajustes ganados por otros créditos reprogramados-Acuerdo 1578",
-
-- "Reajustes ganados por préstamos contra pagare reprogramados-Acuerdo 1578",
-
-- "Reajustes ganados por préstamos para pago anticipado de deudas elegibles en moneda extranjera -Acuerdo 1578 - 1600",
-
-- "Reajustes ganados por préstamos para pago de deudas elegibles en moneda extranjera 1466-Reprogramados Acuerdo 1578-1600",
-
-- "Reajustes ganados por préstamos para pago de deudas elegibles en moneda extranjera 1578-1600",
-
-- "Reajustes ganados por préstamos para prepagos deudas Acuerdo 1466- Reprogramados-Acuerdo 1578" o,
-
-- "Reajustes ganados por préstamos a deudores sector productivo hasta 10 millones de pesos reprogramados con financiamiento de prepagos-Acuerdo 1705"
-
-Estas cuentas se incluyen en la partida 7320
-
-6.4.2.- Reajustes pagados por el refinanciamiento.
-
-Debe: - "Reajustes pagados por línea de crédito para reprogramación de deudas intereses rebajados-Acuerdo 1578",
-
-- "Reajustes pagados por línea de crédito para reprogramación-Acuerdo 1578 Reprogramación deudores hasta 27000 UF" o,
-
-- "Reajustes pagados por línea de crédito para reprogramación-Acuerdo 1578 : Reprogramación deudores sobre 27000 UF".
-
-Estas cuentas se incluyen en la partida 53 65.
-
-Haber: La cuenta complementaria de reajustes por pagar que corresponda, de la partida 3470.
-
-C) EQUILIBRIO ENTRE EL REFINANCIAMIENTO Y LOS CREDITOS AL SECTOR PRODUCTIVO REPROGRAMADOS.
-
-Trimestralmente las instituciones financieras deben informar al Banco Central de Chile, el saldo de los montos reprogramados que ellas tengan; los saldos de precio que se mantengan adeudados por los adquirentes de acciones originadas en la capitalización de créditos de acuerdo a lo dispuesto por la Ley N° 18.439; el saldo de los créditos reprogramados que hubieren sido consolidados de conformidad con la ley aludida; el saldo de los créditos reprogramados a deudores con obligaciones totales en el sistema financiero, exceptuados los créditos de consumo, para vivienda y contingentes, al 31 de octubre de 1985, de hasta 10 millones de pesos, cuyas condiciones de tasa y plazo se hubieren mejorado, incluyendo el saldo de este último tipo de créditos que hubiere sido financiado con las diferencias a prepagar al Banco Central de Chile, según se señala en los párrafos siguientes.
-
-Si la suma de los saldos informados fuera inferior al saldo de las líneas de crédito con el Banco Central de Chile, vigentes a la misma fecha, las instituciones financieras deben prepagar la diferencia respectiva al Instituto Emisor.
-
-Las instituciones financieras que hayan procedido a vender a plazo las acciones provenientes de la capitalización de créditos en conformidad a la Ley N° 18.439, deben aplicar los dividendos que perciban por esas acciones recibidas en prenda, al pago del saldo de precio de acuerdo al orden inverso de vencimiento de las cuotas en que pueda encontrarse dividido. Si no se cumpliere con lo anterior, la institución financiera está obligada a restituir el total del refinanciamiento correspondiente a los créditos capitalizados. En este caso, el Banco Central de Chile podrá debitar tal importe contra el saldo de la cuenta corriente que la respectiva institución financiera mantiene en el Instituto Emisor.
-
-II.- REPROGRAMACIONES DE PRESTAMOS HIPOTECARIOS.
-
-A) PRESTAMOS EN LETRAS DE CREDITO ACOGIDOS A AMPLIACION DE PLAZO SEGUN ACUERDO DE SESION N° 1.517.
-
-1.- Importes acogidos a ampliación de Plazo.
-
-El importe de estos créditos que pudo acogerse a ampliación de plazo, de conformidad con lo dispuesto por el ex-Comité Ejecutivo del Banco Central de Chile, correspondía a los dividendos impagos con vencimiento entre el 1° de junio de 1981 y el 31 de mayo de 1983 y sus intereses de mora, más un porcentaje decreciente de los dividendos por vencer hasta el 30 de junio de 1987.
-
-2.- Condiciones aplicables a los importes prorrogados.
-
-Los importes de los préstamos en letras de crédito que fueron prorrogados, se mantienen expresados en Unidades de Fomento y devengan intereses a la tasa del 8% anual, salvo en el caso en que se hubiere pactado una tasa inferior en el mutuo hipotecario, considerando para estos efectos interés más comisión, caso en que debe aplicarse este porcentaje menor.
-
-3.- Pago de los montos prorrogados.
-
-Los montos cuyo vencimiento se ha diferido, deben comenzar a pagarse a contar del periodo siguiente a la fecha en la que haya vencido el plazo estipulado en el mutuo hipotecario original, conservándose la periodicidad pactada en dicho mutuo.
-
-El importe de las cuotas debe ser equivalente al monto en Unidades de Fomento del dividendo rebajado, en caso que el plazo haya terminado a más tardar el 30 de junio de 1987. En los casos en que el plazo del crédito haya tenido o tenga término después del 30 de junio de 1987, el importe en Unidades de Fomento de las cuotas debe ser igual o inferior al valor en Unidades de Fomento del dividendo correspondiente a junio de 1983, o al último que hubiere vencido antes de esa fecha, si en ella no hubiere correspondido ningún vencimiento. La última de las referidas cuotas podrá ser diferente por razones de ajuste.
-
-Las instituciones financieras pueden incorporar a dichas cuotas las primas de los seguros de incendio y desgravamen.
-
-4.- Refinanciamiento.
-
-Las instituciones financieras cuentan con refinanciamiento del Banco Central de Chile por los importes acogidos a ampliación de plazo, bajo las condiciones establecidas para el efecto por el Instituto Emisor. Este refinanciamiento se hace efectivo solamente por los dividendos que los deudores paguen en sus respectivas fechas de vencimiento.
-
-5.- Amortización anticipada.
-
-En el evento que el deudor de un préstamo en letras de crédito acogido a este sistema pague una parte o el total de su deuda, antes de los plazos convenidos para ello, las instituciones financieras deben amortizar el correspondiente refinanciamiento obtenido del Banco Central de Chile, por una suma igual al pago recibido anticipadamente, dentro de los cinco días hábiles bancarios siguientes de recibido el pago del deudor.
-
-6.- Normas contables.
-
-6.1.- Dividendos prorrogados.
-
-Los importes prorrogados deben mantenerse registrados en la cuenta "Dividendos prorrogados-Acuerdo 1517", de la partida 1245.
-
-6.2.- Constitución de los dividendos prorrogados.
-
-El primer día hábil de cada mes o de aquel en que corresponda servir el dividendo, cuando la periodicidad no sea mensual, las instituciones financieras deben contabilizar el importe de los dividendos prorrogados que corresponda percibir en dicho mes, de la siguiente forma:
-
-Debe: "Dividendos reprogramados por percibir-Acuerdo 1517", de la partida 1245.
-
-Haber: "Dividendos prorrogados-Acuerdo 1517" y las cuentas complementarias de reajustes e intereses de la partida 1245.
-
-6.3 - Dividendos no pagados a su vencimiento.
-
-Los dividendos no pagados a su vencimiento deben traspasarse a cartera vencida de acuerdo con las normas del Capítulo 8-26 de esta Recopilación.
-
-En todo caso, las instituciones financieras deberán mantener permanentemente identificados los importes correspondientes a dividendos reprogramados con recursos del Banco Central de Chile, según Acuerdo 1517.
-
-6.4.- Refinanciamiento del Banco Central de Chile.
-
-Los importes del refinanciamiento, deben encontrarse registrados en las cuentas "Adeudado al Banco Central de Chile por dividendos vencidos refinanciados-Acuerdo 1517" o "Adeudado al Banco Central de Chile por dividendos vigentes refinanciados-Acuerdo 1517", según corresponda, ambas de la partida 3470.
-
-6.5.- Intereses.
-
-6.5.1.- Intereses devengados sobre montos prorrogados.
-
-Debe: La cuenta complementaria de intereses que corresponda de la partida 1245.
-
-Haber: "Intereses ganados por dividendos prorrogados-Acuerdo 1517", de la partida 7130.
-
-6.5.2.- Intereses pagados por refinanciamientos.
-
-Debe: - "Intereses pagados por adeudado al Banco Central de Chile por dividendos vencidos refinanciados-Acuerdo 1517" de la partida 5160; o,
-
-- "Intereses pagados por adeudado al Banco Central de Chile por dividendos vigentes refinanciados-Acuerdo 1517", de la misma partida.
-
-Haber: Las cuentas complementarias de intereses que correspondan, de la partida 3470.
-
-6.6.- Reajustes.
-
-6.6.1.- Reajustes devengados sobre montos prorrogados.
-
-Debe: La respectiva cuenta complementaria de reajustes por cobrar, de la partida 1245.
-
-Haber: "Reajustes ganados por dividendos prorrogados-Acuerdo 1517", de la partida 7320.
-
-6.6.2.- Reajustes pagados por refinanciamiento.
-
-Debe: - "Reajustes pagados por adeudado al Banco Central de Chile por dividendos vencidos refinanciados-Acuerdo 1517" de la partida 5365, o,
-
-- "Reajustes pagados por adeudado al Banco Central de Chile por dividendos vigentes refinanciados -Acuerdo 1517", de la misma partida.
-
-Haber: Las respectivas cuentas complementarias de reajustes por pagar, de la partida 3470.
-
-B) PRESTAMOS HIPOTECARIOS PRORROGADOS SEGUN ACUERDO DE SESION N° 1.583. INCLUIDOS AQUELLOS PREPAGADOS EN VIRTUD DE LOS ACUERDOS DE SESIONES N°s. 1.719 Y 1734.
-
-1.- Importes acogidos a ampliación de plazo.
-
-El importe acogido a ampliación de plazo, de conformidad con lo dispuesto por el ex-Comité Ejecutivo del Banco Central de Chile, comprendía el monto de hasta dos años de dividendos vencidos más un porcentaje que decrece hasta el 30 de junio de 1996, de los dividendos por vencer.
-
-A partir del 1° de julio de 1996 y hasta la extinción del plazo primitivo del préstamo, el monto que se puede prorrogar es equivalente a un 15% del dividendo del crédito original o del nuevo crédito cursado para extinguir anticipadamente el préstamo original, de conformidad con lo dispuesto en el Acuerdo 1719-02-860321 del ex-Comité Ejecutivo del Banco Central de Chile.
-
-2.- Condiciones que se aplican a los importes prorrogados.
-
-Los montos acogidos a ampliación de plazo se mantienen expresados en Unidades de Fomento o Indice Valor Promedio, según corresponda, y devengan una tasa de interés del 6% ó del 4% anual, según se haya convenido en concordancia con las disposiciones acordadas por el Banco Central de Chile.
-
-3.- Pago de los montos cuyo plazo se amplía.
-
-Los montos prorrogados deben comenzar a pagarse a partir del período siguiente a la fecha en que termine el plazo estipulado en el mutuo hipotecario original o en el nuevo mutuo que se haya cursado para pagar anticipadamente dicho crédito.
-
-El referido pago debe efectuarse en cuotas iguales y sucesivas, con la misma periodicidad pactada en el mutuo original o en el nuevo crédito.
-
-El monto de las cuotas, cuando se trate de créditos originales acogidos al acuerdo de sesión 1.583, sera un porcentaje del "dividendo base", entendiéndose por tal el monto promedio que resulte de la suma de los dividendos originales con vencimiento entre el 1° de julio de 1982 y el 30 de junio de 1984, del respectivo mutuo, dividida por el número de dividendos sumados. El importe de las cuotas es el siguiente:
-
-a) 63% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo hubiera vencido entre el 1° de julio de 1984 y el 30 de junio de 1988;
-
-b) 71% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo vencía entre el 1° de julio de 1988 y el 30 de junio de 1992;
-
-c) 80% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo venza entre el 1° de julio de 1992 y el 30 de junio de 1996; y,
-
-d) 85% del "dividendo base" para aquellos préstamos cuya primera cuota de los importes acogidos a ampliación de plazo venza después del 30 de junio de 1996.
-
-En los casos en que, de conformidad con lo dispuesto en el acuerdo de sesión 1719, se haya cursado un nuevo crédito con dividendos mensuales, iguales y sucesivos, manteniendo el beneficio de ampliación de plazo a que hubiere estado acogido el crédito original, el importe de la cuota para el pago de los montos prorrogados se determina aplicando el porcentaje señalado en las letras a), b), c) o d), según corresponda, sobre el primer dividendo correspondiente a la tabla de desarrollo de este nuevo mutuo hipotecario.
-
-Cuando el servicio del nuevo crédito cursado según las normas del acuerdo de sesión N° 1.719, no tenga vencimientos mensuales, el importe de las cuotas para el pago de los montos prorrogados se determina sobre la base del valor promedio de los dividendos que venzan en los últimos 24 meses de vigencia del nuevo mutuo hipotecario y tendrán la misma periodicidad que las del respectivo crédito.
-
-En todo caso, los referidos importes deben ser pagados en un plazo máximo de diez años contados desde la fecha de término del plazo del mutuo hipotecario original, o de quince años desde la fecha de término del plazo del nuevo crédito, según se trate de créditos acogidos a las disposiciones de los acuerdos N°s. 1583-01-840705 ó 1719-02-860321, respectivamente.
-
-4.- Refinanciamiento del Banco Central de Chile.
-
-Las instituciones financieras cuentan con refinanciamiento del Banco Central de Chile por los importes acogidos a ampliación de plazo, bajo las condiciones establecidas para el efecto por el Instituto Emisor.
-
-5.- Deudores que se excluyen por incumplimiento en los pagos.
-
-Los deudores que se han acogido a la ampliación de plazo de que se trata, que mantuvieren moroso uno o más dividendos, por más de nueve meses, serán excluidos de los beneficios de este sistema. Para estos efectos, se considerarán tanto las cuotas prorrogadas, como la parte de los dividendos pagaderos en sus vencimientos originales.
-
-En estos casos, las instituciones financieras deberán restituir al Banco Central de Chile los refinanciamientos que hayan recibido, correspondientes a los créditos que se excluyan de este sistema, incluidos los intereses.
-
-6.- Pago anticipado de deudas reprogramadas.
-
-6.- Pagos en dinero.
-
-En el caso que un deudor pague anticipadamente parte de su préstamo, se puede rebajar, a opción del deudor, la totalidad de los dividendos por pagar, tanto los que correspondan a una obligación correlativa por letras de crédito en circulación, como los originados por el plazo ampliado.
-
-La institución efectuará, de conformidad con las disposiciones vigentes sobre la materia, una amortización extraordinaria de letras de crédito por las sumas que correspondan y de los refinanciamientos obtenidos del Banco Central de Chile, cuando sea el caso.
-
-6.2.- Pago en letras de crédito.
-
-La facultad de que gozan los deudores de préstamos en letras de crédito, en el sentido de que pueden rembolsar anticipadamente todo o parte del capital no amortizado de su deuda, mediante letras de crédito, sólo puede ser ejercida hasta un monto no superior a la parte del préstamo que mantenga una obligación correlativa por letras de crédito.
-
-7.- Renuncia a la ampliación de plazo.
-
-Los deudores de créditos hipotecarios acogidos a la ampliación de plazo de que se trata, pueden convenir con las respectivas instituciones financieras acreedoras, el termino de dicho beneficio para los futuros dividendos.
-
-Puede ponerse término al referido beneficio cuando el deudor mantenga vigente el crédito original, como asimismo en los casos en que éste hubiere sido pagado anticipadamente mediante un nuevo crédito hipotecario.
-
-7.1.- Declaración de renuncia de ampliación de plazo.
-
-Para renunciar al beneficio de ampliación de plazo, el deudor debe presentar a la institución financiera acreedora una declaración en tal sentido, indicando expresamente que la renuncia tiene el carácter de irrevocable.
-
-En la misma declaración, el deudor se debe comprometer a restituir los montos adeudados que correspondan a las ampliaciones de plazo ya cursadas, más los respectivos intereses, en la forma señalada en el numeral 7.2 de esta letra B), a contar del mes siguiente a aquel en que se extinga el plazo pactado para el correspondiente mutuo.
-
-7.2.- Pago del importe prorrogado.
-
-El importe correspondiente al total o parte de los dividendos que se hubieren prorrogado, debe ser pagado por el deudor una vez que se extinga el plazo pactado para el respectivo crédito, en dividendos mensuales iguales y sucesivos, cuyo valor será equivalente al 100% del dividendo convenido en el mutuo.
-
-En caso que los dividendos pactados en el mutuo no tengan vencimientos mensuales, el pago del importe prorrogado debe efectuarse mediante dividendos que tengan la misma periodicidad de los del respectivo crédito. El valor de éstos debe ser equivalente al 100% del monto promedio de los dividendos que venzan durante los últimos 24 meses de vigencia del mutuo hipotecario.
-
-En todo caso, el monto prorrogado debe ser pagado en un plazo máximo de 10 años, cuando se trate de créditos originales acogidos a ampliación de plazo, o de 15 años, en los casos en que corresponda a créditos cursados para el pago anticipado de aquéllos.
-
-7.3.- Dividendo que debe pagar el deudor una vez que renuncie a la ampliación de plazo.
-
-El deudor que renuncie al beneficio de la ampliación de plazo de que se trata, debe pagar el 100% del dividendo pactado en el respectivo mutuo, a partir del mes siguiente a aquél en que haya presentado la correspondiente declaración a que se refiere el numeral 7.1 de esta letra B).
-
-7.4.- Deudores que incurran en atrasos superiores a nueve meses.
-
-Los deudores de que se trata que se atrasen más de nueve meses en el pago de cualquiera de los dividendos que deben servir, serán excluidos del sistema de ampliación de plazo, de conformidad con lo señalado en el 5 precedente.
-
-7.5.- Renuncia al refinanciamiento del Banco Central de Chile.
-
-La institución financiera cuyos deudores pongan término anticipado al beneficio de la ampliación de plazo para futuros dividendos debe remitir, a su vez, al Banco Central de Chile, una carta en la que renuncie a continuar percibiendo el refinanciamiento de dichos dividendos, a contar de la fecha en que el deudor inicie el pago del 100% de éstos.
-
-En la misma comunicación debe comprometerse a pagar al Instituto Emisor el monto del refinanciamiento recibido para el respectivo crédito más sus intereses, a partir de la fecha en que se extinga el plazo del correspondiente mutuo, sobre la base del mismo perfil de vencimientos, que resulte de aplicar la modalidad señalada en el numeral 7.2 de esta letra B).
-
-En la referida carta se debe comprometer, además, a restituir al Banco Central de Chile el total del refinanciamiento recibido por el respectivo préstamo más sus intereses, en el primer día hábil bancario posterior al día 5 del mes siguiente a aquél en que se hubiere cumplido el plazo de nueve meses, a que se refiere el numeral 7.4 de esta letra B), en los casos en que el deudor incurra en atraso en el servicio de su crédito.
-
-8.- Equilibrio entre importes prorrogados y refinanciamientos.
-
-Las instituciones financieras deben mantener un equilibrio entre los importes prorrogados de los dividendos acogidos a la ampliación de plazo de que se trata y los refinanciamientos obtenidos por este concepto del Banco Central de Chile Para tal efecto, el último día de cada mes se determinarán las diferencias que pudieren existir entre los refinanciamientos cursados y vigentes y el saldo de los montos de los dividendos por los cuales se otorgó la ampliación de plazo y que hubieren vencido hasta ese mismo mes. Si el saldo de los refinanciamientos cursados resultare mayor, la diferencia por ese mayor saldo deberá ser rembolsada al Banco Central de Chile el primer día hábil bancario posterior al día cinco del mes siguiente a aquel en que se haya determinado.
-
-9.- Instrucciones contables.
-
-9.1.- Importes prorrogados.
-
-Los montos acogidos a ampliación de plazo, deben encontrarse registrados en las siguientes cuentas de la partida 1245, según el caso: "Dividendos prorrogados-Acuerdo 1583"; "Dividendos prorrogados-Acuerdo 1719"; o, "Dividendos reprogramados créditos financiados con bonos-Acuerdo 1719".
-
-9.2.- Parte del dividendo se debe pagar en la fecha de vencimiento.
-
-La parte del dividendo que el deudor debe pagar en la fecha de vencimiento, debe registrarse en la cuenta "Dividendos parciales por cobrar", de la partida 1315, o bien, en la cuenta "Dividendos parciales financiados con bonos-Acuerdo 1719", de la partida 1246.
-
-9.3.- Constitución de dividendos prorrogados.
-
-El primer día hábil bancario de cada mes, las instituciones financieras deben contabilizar, en la forma que a continuación se indica, el importe de los dividendos que corresponda percibir en dicho mes, ya sea que se trate de la parte acogida a ampliación de plazo o del servicio del nuevo préstamo cursado para el pago anticipado del crédito original, en letras de crédito o con el producto de la emisión de bonos.
-
-9.3.1.- Desde la extinción del crédito original.
-
-Debe: "Dividendos reprogramados por percibir-Acuerdo 1583", de la partida 1245.
-
-Haber: - "Dividendos prorrogados-Acuerdo 1583" y las cuentas complementarias de reajustes e intereses.
-
-9.3.2.- Desde la extinción de los nuevos préstamos en letras de crédito.
-
-Debe: "Dividendos reprogramados por percibir-Acuerdo 1719", de la partida 1245.
-
-Haber: "Dividendos prorrogados-Acuerdo 1719" y las cuentas complementarias de intereses y reajustes.
-
-9.3.3.- Desde la extinción de los nuevos préstamos cursados con el producto de la emisión de bonos.
-
-Debe: "Dividendos reprogramados créditos financiados con bonos por percibir-Acuerdo 1719", de la partida 1245.
-
-Haber: - "Dividendos reprogramados créditos financiados con bonos-Acuerdo 1719" y las cuentas complementarias de intereses y reajustes.
-
-9.4.- Dividendos no pagados a su vencimiento.
-
-Los dividendos parciales o prorrogados no pagados a su vencimiento deben traspasarse a cartera vencida de acuerdo con las normas del Capítulo 8-26 de esta Recopilación.
-
-En todo caso, las instituciones financieras deberán mantener permanentemente identificados los importes correspondientes a dividendos reprogramados con recursos del Banco Central de Chile, según Acuerdos 1583 y 1719.
-
-9.5.- Refinanciamiento del Banco Central de Chile.
-
-El importe del refinanciamiento obtenido del Banco Central de Chile, debe encontrarse registrado en las siguientes cuentas de la partida 3470, según el caso:
-
-"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vencidos-Acuerdo 1583";
-
-"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1583";,
-
-"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1719"; o,
-
-"Adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1734"
-
-9.6.- Intereses.
-
-9.6.1.- Intereses devengados sobre los importes prorrogados.
-
-Debe: - La respectiva cuenta complementaria de intereses por cobrar, de la partida 1245.
-
-Haber: - "Intereses ganados por dividendos prorrogados-Acuerdo 1583",
-
-- "Intereses ganados por dividendos prorrogados-Acuerdo 1719" o,
-
-- "Intereses ganados por dividendos reprogramados créditos financiados con bonos-Acuerdo 1719"
-
-Estas cuentas se incluyen en la partida 7130.
-
-9.6.2.- Intereses pagados por los refinanciamientos.
-
-Debe: - "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vencidos-Acuerdo 1583",
-
-- "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1583",
-
-- "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1719" o,
-
-- "Intereses pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1734".
-
-Estas cuentas se incluyen en la partida 5160.
-
-Haber: La respectiva cuenta complementaria de intereses por pagar, de la partida 3470.
-
-9.7.- Reajustes.
-
-9.7.1.- Reajustes devengados sobre montos prorrogados.
-
-Debe: - La respectiva cuenta complementaria de reajustes por cobrar, de la partida 1245.
-
-Haber: - "Reajustes ganados por dividendos prorrogados-Acuerdo 1583",
-
-- "Reajustes ganados por dividendos prorrogados-Acuerdo 1719" o,
-
-- "Reajustes ganados por dividendos reprogramados créditos financiados con bonos-Acuerdo 1719".
-
-Estas cuentas se incluyen en la partida 7320
-
-9.7.2.- Reajustes pagados por refinanciamiento.
-
-Debe: - "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vencidos-Acuerdo 1583",
-
-- "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1583",
-
-- "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1719" o,
-
-- "Reajustes pagados por adeudado al Banco Central de Chile por refinanciamiento de dividendos vigentes-Acuerdo 1734".
-
-Estas cuentas se incluyen en la partida 5365.
-
-Haber: La respectiva cuenta complementaria de reajustes por pagar, de la partida 3470.
-
-9.8.- Préstamos cursados según acuerdos de sesiones N°s. 1719 y 1734 para pagar anticipadamente créditos acogidos a ampliación de plazo según acuerdos de sesiones N°s. 1.583 y 1594.
-
-9.8.1.- En letras de crédito.
-
-Los préstamos cursados en letras de crédito para pagar anticipadamente otros préstamos acogidos al beneficio de ampliación de plazo establecido por acuerdo de sesión N° 1.583, deben encontrarse registrados en la forma prevista en el Capítulo 9-1 de esta Recopilación Actualizada de Normas.
-
-9.8.2.- Con el producto de la emisión de bonos.
-
-Los préstamos cursados con el producto de la emisión de bonos, se encuentran registrados en la cuenta "Préstamos hipotecarios financiados con bonos-Acuerdo 1719", de la partida 1246.
-
-La parte de los dividendos que debe ser pagada cada mes por el deudor, se registra el primer día hábil de ese mes en la cuenta "Dividendos parciales financiados con bonos-Acuerdo 1719", de la partida 1246.
-
-Los intereses devengados sobre estos créditos se registran en la cuenta complementaria de intereses por cobrar, con abono a la cuenta "Intereses ganados por préstamos hipotecarios financiados con bonos-Acuerdo 1719", de la partida 7105.
-
-Por otra parte, los reajustes devengados se registran en la cuenta complementaria de reajustes por cobrar, con abono a la cuenta "Reajustes ganados por préstamos hipotecarios financiados con bonos-Acuerdo 1719", de la partida 7305.
-
-### III. Suprimido
-
-1.- Importes acogidos a ampliación de plazo.
-
-El importe acogido a ampliación de plazo de los créditos de consumo que reunieron los requisitos para tal efecto, de conformidad con lo establecido por el ex-Comité Ejecutivo del Banco Central de Chile en su Acuerdo de sesión N° 1581, fue el 100% de las cuotas atrasadas que vencieron entre el 1° de enero y el 30 de junio de 1984, y un 40% de las cuotas con vencimiento a partir del 1° de agosto de 1984. Eliminado.
-
-2.- Condiciones que se aplican a los montos prorrogados.
-
-Los montos prorrogados se mantienen expresados en Unidades de Fomento o en moneda extranjera, según corresponda, y devengan intereses a una tasa máxima de 8% anual. Eliminado.
-
-3.- Pago de los montos prorrogados.
-
-Los importes acogidos a ampliación de plazo, deben comenzar a pagarse a contar del periodo siguiente al término del plazo estipulado en el crédito de consumo original, mediante servicios de la misma periodicidad establecida en dicho crédito de consumo e iguales entre si No obstante lo anterior, el último de dichos servicios puede ser diferente por razones de ajuste. Eliminado.
-
-4.- Deudores que se excluyen por incumplimiento.
-
-Los deudores que se han acogido a la ampliación de plazo de que trata este título, que mantuvieren servicios impagos por más de tres meses, cuando se trate de servicios mensuales, o por más de seis meses, en aquéllos que contemplen una periodicidad más amplia, quedarán excluidos de los beneficios de este sistema. En este evento, la entidad financiera podrá anular la respectiva reprogramación y la deuda volverá a sus condiciones originales. Eliminado.
-
-5.- Instrucciones contables.
-
-5.1.- Importes acogidos a ampliación de Plazo.
-
-Estos importes deben mantenerse registrados en la cuenta "Cuotas de crédito de consumo prorrogadas-Acuerdo 1581" de la partida 1240.
-
-5.2.- Intereses.
-
-Debe: La cuenta complementaria de intereses por cobrar que corresponda, de la partida 1240.
-
-Haber: - "Intereses ganados por cuotas de créditos de consumo prorrogadas-Acuerdo 1581", de la partida 7130.
-
-5.3.- Reajustes.
-
-Debe: La cuenta complementaria de reajustes por cobrar que corresponda, de la partida 1240.
-
-Haber: "Reajustes ganados por cuotas de créditos de consumo prorrogadas-Acuerdo 1581" de la partida 7320. Eliminado.
 
 CAPITULO 8-33 (Bancos y Financieras)
 
@@ -11985,260 +11059,6 @@ a) La venta de las acciones debe realizarse en un mercado secundario formal, est
 b) Las acciones que no sean enajenadas dentro del plazo previsto en la ley, deberán ser castigadas contablemente.
 
 c) La institución financiera que aún mantenga acciones después de vencido el plazo, incurrirá en una multa equivalente al 10% del valor de adquisición actualizado de las mismas, por cada mes calendario que transcurra después de vencido el plazo, sin que se hayan enajenado. Ese valor de adquisición actualizado corresponderá al que se obtenga de aplicar, al valor de adquisición el porcentaje de variación del índice de precios al consumidor entre el primer día del mes anterior al de la adquisición y el último día del mes anterior al que corresponde dicho valor actualizado.
-
-CAPITULO 11-1 (Bancos y Financieras)
-
-MATERIA:
-
-ADQUISICION DE BIENES DE ACTIVO FIJO MEDIANTE OPERACIONES DE "LEASING".
-
-### I. GENERALIDADES
-
-### 1. Características generales de estas operaciones
-
-De acuerdo con convenciones contables, algunos contratos de arrendamiento se
-
-contabilizan en el balance general del arrendatario incluyendo un activo y un
-
-pasivo correspondiente. Esta modalidad de contabilización se presenta
-
-normalmente cuando, ante las opciones de adquirir un bien o de arrendarlo, se
-
-prefiere la alternativa de arrendamiento por las ventajas que representa, entre
-
-otras, el no efectuar de inmediato importantes inversiones de capital; vale
-
-decir, cuando la finalidad de la operación se identifica con una financiación y
-
-no con la prestación de un servicio.
-
-En la práctica, el contrato de arrendamiento que con mayor habitualidad reúne
-
-las características antes indicadas, en cuanto a la identificación de la
-
-finalidad perseguida en la operación, es aquel que contempla el pago periódico
-
-de cuotas en un tiempo determinado, al término del cual el arrendatario tiene la
-
-opción de comprar el bien por un precio substancialmente inferior al valor de
-
-mercado de éste. Estas transacciones normalmente se identifican como operaciones
-
-de "leasing" o, más apropiadamente, de "leasing financiero" para distinguirlas
-
-de un "leasing operativo", cuya finalidad no difiere mayormente de un verdadero
-
-arrendamiento.
-
-Se han convenido, como criterios contables de general aceptación, algunas
-
-condiciones para calificar un contrato como leasing financiero, o más
-
-exactamente, ciertas características que deben observarse para distinguir entre
-
-la esencia y la forma de una operación o para decidir acerca de la manera de
-
-contabilizar un contrato de arrendamiento en particular.
-
-Habida consideración que las definiciones que se han establecido en esta materia
-
-en nuestro país son de carácter muy general y pueden dar lugar a
-
-interpretaciones objetivas o a registros contables, que se apartan del propósito
-
-de reflejar en la contabilidad algunos contratos de arrendamiento con mayor
-
-propiedad desde el punto de vista financiero, esta Superintendencia ha decidido
-
-impartir instrucciones destinadas a regular los procedimientos de
-
-contabilización que deberán seguir las empresas fiscalizadas.
-
-### 2. Requisitos que deben reunir los contratos de arrendamiento para su
-
-tratamiento contable como "leasing financiero".
-
-Con el objeto de establecer si una operación debe contabilizarse como "leasing
-
-financiero", las instituciones deberán verificar si los arrendamientos cumplen
-
-con las siguientes condiciones:
-
-2.1. Los compromisos asumidos, tanto por el arrendador como por el arrendatario,
-
-son irrevocables durante el período de vigencia del contrato;
-
-2.2. El contrato estipula diversos pagos periódicos y sucesivos, distribuidos
-
-uniformemente durante su vigencia, determinados a la fecha del contrato; y,
-
-2.3. Los bienes arrendados se destinan a las actividades propias del giro de la
-
-empresa y corresponden a bienes de capital que, al ser de propiedad de la
-
-empresa, se contabilizarían como "Activo fijo físico" de acuerdo con las
-
-disposiciones de esta Superintendencia. Los contratos no contemplan el
-
-arrendamiento de terrenos o de activos intangibles.
-
-Si los contratos cumplen copulativamente con las tres condiciones antes
-
-indicadas, se procederá a contabilizarlos bajo la modalidad de "leasing
-
-financiero", indicada en el título II de este capítulo, siempre y cuando
-
-presenten, además, al menos una de las características que se señalan a
-
-continuación:
-
-a) El contrato estipula que se transfiere la propiedad al final del período de
-
-arrendamiento;
-
-b) El arrendamiento incluye una opción de compra a un precio significativamente
-
-inferior al valor que el bien tendría en el mercado al final del período de
-
-arrendamiento; o,
-
-c) La duración del período de arrendamiento cubre un 75% o más de la vida útil
-
-originalmente estimada para la propiedad arrendada, incluido el período eventual
-
-de uso anterior que pudiera haber tenido.
-
-### 3. Situaciones especiales
-
-Los contratos que cumplan sólo algunas de las condiciones señaladas en el número anterior y que no correspondan a simples contratos de arrendamiento, deberán someterse a la consideración de este Organismo para determinar el tratamiento contable que corresponde darles.
-
-Las operaciones a que se refiere el párrafo precedente se contabilizarán, mientras se reciban las instrucciones específicas de esta Superintendencia, en la forma dispuesta en el N° 2 del título II del presente Capítulo.
-
-En ningún caso las instituciones financieras podrán celebrar contratos de "leasing" sobre bienes del activo físico que sean de su propiedad, sea que tales contratos adopten la forma de "lease back" u otra cualquiera que, de algún modo, signifique vender un bien para recibirlo luego en arriendo con opción de compra que se pueda ejercer al término del contrato de arrendamiento o antes de que éste concluya.
-
-### II. NORMAS CONTABLES
-
-### 1. Leasing financiero
-
-Las instituciones financieras que adquieran bienes mediante la concertación de operaciones que posean las características indicadas en el N° 2 del título I precedente, registrarán los valores respectivos, de acuerdo a las instrucciones que se indican a continuación:
-
-1.1. Determinación del valor de bien y de la tasa de devengo de interés de la obligación.
-
-a) Determinación del valor del bien.
-
-Para los efectos de estas normas se considerará el valor contado del bien objeto del contrato. Si ese valor no fuere conocido, se procederá a contabilizar el valor actual del contrato, calculado sobre la base de la tasa promedio imperante en el mercado para colocaciones a largo plazo en condiciones de plazo, moneda y reajustabilidad semejantes, vigente a la fecha de la firma del contrato.
-
-b) Tasa de devengo de interés de la obligación.
-
-La tasa de interés que se utilizará para calcular el devengo de la obligación,corresponderá a la tasa de descuento que resulte de igualar los flujos futuros señalados en el contrato de leasing con el valor asignado al bien a la fecha en que el contrato sea firmado, de acuerdo a lo señalado en la letra a) precedente.
-
-1.2. Por el contrato.
-
-Debe: "Activos físicos por leasing". Esta cuenta se demostrará en la partida 2305, del formulario MB1. Se debitará a esta cuenta el valor del bien, según lo determinado en el numeral 1.1 anterior.
-
-Haber: "Contratos de leasing por pagar", cuenta cuyo saldo se incluirá en la partida 3070, del formulario MB1. En esta cuenta se demostrará el valor del bien contabilizado en el activo, deducido el pago que se hubiere efectuado al contado.
-
-1.3.- Intereses y Reajustes.
-
-Los importes correspondientes a los intereses y reajustes devengados se abonarán a la cuenta "Contratos de leasing por pagar" antes mencionada.
-
-Los intereses se cargaran a la cuenta "Intereses pagados sobre contratos de leasing" de la partida 5140, en tanto que los reajustes se debitarán en la cuenta "Reajustes pagados sobre contratos de leasing" de la partida 5315.
-
-1.4. Por el pago de los contratos.
-
-Cada vez que se realice un pago en abono de la obligación contraída en el contrato de leasing, se procederá a rebajar en lo que corresponda, el monto de la obligación registrada por ese contrato:
-
-Debe: "Contratos de leasing por pagar".
-
-Haber: "Caja" o la cuenta pertinente por el giro para efectuar el pago correspondiente.
-
-1.5. Término del contrato.
-
-Al término del contrato y producida la transferencia del bien, se procederá a traspasar éste al Activo Fijo de la empresa, desde la cuenta "Activos físicos por leasing. Consecuente con ello se realizará el siguiente registro contable:
-
-Debe: La cuenta del Activo fijo físico en que quedará contabilizado el bien de que se trata.
-
-Haber: "Activos físicos por leasing".
-
-El traspaso se hará por el valor registrado en esta cuenta, neto de depreciaciones y corrección monetaria.
-
-### 2. Leasing operativo
-
-Cuando el contrato firmado por la entidad financiera corresponda a un compromiso
-
-que no contenga ninguna de las características señaladas en el N° 2 del título I
-
-de este capítulo, el registro contable se efectuará de la misma forma en que se
-
-procedería con un contrato de arrendamiento, esto es, se llevarán a gastos cada
-
-una de las cuotas pagadas de conformidad con el compromiso pactado.
-
-En consecuencia, se procederá de la siguiente forma:
-
-Debe: "Arriendos pagados por contratos de leasing". El saldo de esta cuenta se
-
-demostrará en la partida 6240 del formulario MR1.
-
-Haber: "Caja" o la cuenta de la cual se giren los recursos para efectuar el pago
-
-del arriendo.
-
-### 3. Depreciación, amortización y corrección monetaria
-
-3.1. Depreciaciones y amortizaciones.
-
-Los bienes que se registren en la cuenta "Activos físicos por leasing" se
-
-depreciarán linealmente, de acuerdo a su vida útil remanente.
-
-Para calcular el tiempo máximo de vida útil del respectivo bien se deberá
-
-computar el período de uso anterior que pudo haber tenido el bien arrendado; de
-
-acuerdo con esto, el período de depreciación podría ser inferior al de la
-
-vigencia del contrato.
-
-Las instituciones financieras podrán solicitar autorización expresa a este
-
-Organismo Contralor para considerar estimaciones fundadas de años de vida útil,
-
-superiores a las fijadas por el Servicio de Impuestos Internos para los efectos
-
-de una depreciación tributaria normal.
-
-Los bienes que no cumplan con una de las condiciones indicadas en las letras a)o
-
-b) del N° 2 del título I de este capítulo, deberán amortizarse linealmente,
-
-durante el período de arrendamiento, salvo que la vida útil del bien requiera
-
-una amortización en un tiempo menor que éste, en cuyo caso se amortizará en
-
-función de su vida útil remanente.
-
-3.2. Corrección monetaria y reajustes.
-
-Los saldos registrados en las cuentas "Activos físicos por leasing" quedarán
-
-afectos a corrección monetaria de acuerdo con las disposiciones generales sobre
-
-la materia.
-
-Los pasivos registrados por los contratos de leasing se reajustarán de acuerdo
-
-con la cláusula que se hubiera pactado.
-
-### III. OTRAS DISPOSICIONES
-
-1.- Límite.
-
-El saldo que la institución financiera registre en la cuenta "Activos físicos por leasing" queda también incluido dentro del activo fijo para efectos del límite general de inversiones del inciso segundo del artículo 69 de la Ley General de Bancos, tratado en el Capítulo 12-10 de esta Recopilación.
-
-2. Contratos celebrados con personas relacionadas con la institución financiera.
-
-Las instituciones financieras que celebren contratos de leasing con personas relacionadas con la propiedad o gestión de la empresa, deben informar los importes pagados a dichas personas en virtud de los contratos de leasing que hayan convenido con ellas, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información, relativas a gastos a favor de personas relacionadas.
 
 ## Capítulo 11-5
 
@@ -15050,184 +13870,6 @@ Para las operaciones de crédito hacia o en el exterior en general, no se establ
 
 Esas provisiones especiales se constituirán, cuando fuere del caso, de acuerdo con lo indicado en el Capítulo B-7 del Compendio de Normas Contables.
 
-CAPITULO 13-3 (Bancos)
-
-MATERIA:
-
-ORDENES DE PAGO DEL EXTERIOR Y CHEQUES VIAJEROS.
-
-### 1. Ordenes de pago del exterior
-
-1.1. Generalidades.
-
-Los bancos habitualmente reciben de sus corresponsales instrucciones en el sentido de pagar a personas domiciliadas en Chile determinadas sumas de dinero,para cuyo efecto les acreditan dichos importes en sus cuentas comentes en el exterior o bien, cuando dichas instrucciones u órdenes de pago provienen de bancos situados en países miembros de la Asociación Latinoamericana de
-
-Integración, los autorizan para rembolsarse con cargo al Convenio de Pagos y Créditos Recíprocos existente entre el Banco Central de Chile y el Banco Central del país miembro remitente.
-
-En este último caso, los bancos pueden obtener el rembolso del Banco Central de Chile, sólo a partir de la fecha en que efectúen el pago al beneficiario del respectivo documento.
-
-1.2.- Aviso al beneficiario.
-
-Los bancos que reciban las órdenes de pago de que se trata, deberán enviar una comunicación a los beneficiarios, dentro de dos días contados desde la fecha de su recepción, la que deberá contener como mínimo, los siguientes datos:
-
-a) Nombre del ordenante o remitente;
-
-b) Monto, debiendo indicar además la respectiva moneda;
-
-c) Nombre del beneficiario; y,
-
-d) Fecha en que el banco la recibió.
-
-1.3. Instrucciones contables.
-
-1.3.1. Ordenes de pago con abono directo en cuenta corriente.
-
-a) Recepción.
-
-Debe: La cuenta que corresponda para registrar el importe de la orden de pago acreditado por el corresponsal.
-
-Haber: "Ordenes de pago pendientes", la que se demostrará en la partida 3010 del formulario MB1.
-
-b) Pago.
-
-Debe: "Ordenes de pago pendientes".
-
-Haber: La cuenta que corresponda por el desembolso del importe respectivo.
-
-En caso que la orden de pago se liquide a moneda chilena, corresponderá registrar la adquisición del respectivo importe de conformidad con lo dispuesto por esta Superintendencia en las instrucciones sobre compras de moneda extranjera.
-
-1.3.2. Ordenes de pago con rembolso a través de un Convenio de Pagos y Créditos Recíprocos.
-
-a) Recepción.
-
-Debe: "Ordenes de pago recibidas y pendientes de rembolso" de la partida 2525 del formulario MB1.
-
-Haber: "Obligaciones por órdenes de pago-ALADI", la que será demostrada en la partida 4525 del formulario MB1.
-
-b) Pago.
-
-Se debitará la cuenta que corresponda por la obtención del rembolso y se acreditará la cuenta que proceda por el desembolso del importe respectivo.
-
-En caso que la orden de pago se liquide a moneda chilena, corresponderá registrar la adquisición de las divisas de conformidad con las instrucciones impartidas por esta Superintendencia para tales operaciones.
-
-Simultáneamente se deberá revertir el asiento contable señalado en la letra a) de este numeral.
-
-### 2. Cheques viajeros en consignación
-
-2.1. Generalidades.
-
-Algunas empresas bancarias reciben en consignación cheques viajeros (Travelers Checks) emitidos por empresas extranjeras, con el objeto de ponerlos en circulación mediante su venta o canje, debiendo remitir el importe correspondiente en moneda extranjera a la institución emisora de tales documentos.
-
-Al recibir estos documentos, las empresas bancarias contraen una responsabilidad con la empresa que se los ha confiado, a la cual deben informar las transacciones que realicen con ellos.
-
-2.2. Instrucciones contables.
-
-a) Recepción de los cheques.
-
-Las instituciones bancarias deben registrar la recepción y existencia de estos cheques como sigue:
-
-Debe: "Cheques viajeros en consignación", de la partida 9260.
-
-Haber: "La cuenta de orden de la partida 9900.
-
-Al efectuar la venta o canje de los referidos cheques, se deberá revertir el asiento contable antes indicado por el importe que corresponda.
-
-b) Comisión.
-
-Las comisiones que cobren los bancos por ventas o canjes de cheques viajeros, las que deben ser informadas al público en la forma prevista en las normas de esta Superintendencia sobre compra y venta de divisas, serán acreditadas en la cuenta"Comisiones ganadas cheques viajeros", de la partida 7530.
-
-CAPITULO 13-27 (Bancos)
-
-MATERIA:
-
-COLOCACIONES EN EL EXTERIOR.
-
-1.- Créditos correspondientes a colocaciones en el exterior.
-
-Las normas del presente Capítulo contienen definiciones de los distintos tipos de colocaciones en el exterior y su respectivo tratamiento contable, con excepción de los créditos contingentes que corresponden a avales y fianzas, boletas de garantía y cartas de crédito stand by, tratados en los Capítulos 8-10 y 8-11 de esta Recopilación.
-
-2.- Operaciones de comercio exterior con Chile.
-
-2.1.- Tipos de crédito que financian exportaciones o importaciones chilenas.
-
-Para los efectos señalados en el numeral 2.2, corresponden a créditos para operaciones de comercio exterior con Chile los siguientes:
-
-a) Créditos a bancos del exterior para financiar cartas de crédito emitidas por éstos, a la vista o con pago diferido, a favor de exportadores chilenos, que sean negociadas por intermedio de bancos situados en Chile. Este tipo de crédito se encuentra regulado en el Capítulo 14-9 de esta Recopilación.
-
-b) Créditos a personas naturales o jurídicas residentes en el exterior distintas de bancos, que tengan por objeto pagar a los exportadores chilenos el precio de mercaderías importadas desde Chile, otorgados previa presentación de copia de los documentos de embarque de las exportaciones que se financian.
-
-c) Préstamos a exportadores extranjeros o a bancos del exterior, cursados contra recepción, en calidad de garantía, de las letras de cambio aceptadas o de los pagarés suscritos por los importadores chilenos.
-
-d) Descuento con responsabilidad, a exportadores extranjeros o a bancos del exterior, de letras de cambio o pagarés, aceptadas o suscritos por importadores chilenos. Al respecto debe tenerse presente lo indicado en el numeral 5.2 de este Capítulo.
-
-e) Cualquier otro crédito, efectivo o contingente, distinto de los señalados en las letras precedentes, que tenga por objeto financiar operaciones de comercio exterior con Chile, otorgado a bancos u otras personas naturales o jurídicas residentes en el exterior.
-
-2.2 - Registro contable.
-
-a) Financiamiento de exportaciones.
-
-Los préstamos que se cursen a bancos y a otras personas situados en el exterior para financiar las importaciones de mercaderías procedentes de Chile, serán registrados en la cuenta "Préstamos al exterior para financiar exportaciones chilenas", de la partida 1130 ó 1225. No obstante, los financiamientos de cartas de crédito tratados en el Capítulo 14-9 de esta Recopilación, se registrarán de acuerdo con las instrucciones de ese Capítulo.
-
-b) Financiamiento de importaciones.
-
-Para contabilizar los créditos otorgados a beneficiarios en el exterior con el objeto de financiar exportaciones de mercaderías a Chile, se utilizará la cuenta "Préstamos al exterior para financiar exportaciones destinadas a Chile", de la partida 1125 ó 1220.
-
-3.- Operaciones de comercio exterior entre terceros países.
-
-3.1.- Tipos de crédito.
-
-Constituyen créditos para financiar operaciones de comercio exterior entre terceros países, para los fines señalados en el numeral 3.2, los siguientes:
-
-a) Emisión de cartas de crédito a la vista o a plazo para operaciones de comercio exterior entre terceros países, o el pago anticipado a beneficiarios de tales cartas de crédito negociadas y pagaderas a plazo o contra aceptación de letra, debiendo rescatar en este último caso simultáneamente la letra de cambio que hubieren aceptado.
-
-b) Financiamiento del pago de las cartas de crédito negociadas a que se refiere la letra a), por el plazo que se convenga, contando con copia de los documentos de embarque.
-
-c) Financiamiento, a petición de los bancos emisores y por el plazo que se convenga, del reembolso de cartas de crédito emitidas por bancos situados en el extranjero a favor de beneficiarios ubicados en otros países, contando para tal efecto, con copia de los documentos de embarque.
-
-d) Adquisición o descuento de letras de cambio aceptadas y pagarés suscritos por otros bancos, originados en la negociación de cartas de crédito a plazo, previa presentación de copia de los respectivos documentos de embarque y de las cartas de crédito.
-
-e) Adquisición, a los beneficiarios, de los derechos sobre cartas de crédito negociadas a plazo, siempre que se cuente con la conformidad del banco emisor y su autorización para reembolsarse al vencimiento.
-
-f) Adquisición o descuento de letras de cambio aceptadas y pagarés suscritos por importadores, incluidos aquellos con aval de bancos situados en el extranjero, originados en operaciones de comercio exterior entre terceros países bajo la modalidad de cobranza, acompañados de copia de los respectivos documentos de embarque.
-
-g) Financiamiento, a petición de bancos corresponsales y por el plazo que se convenga, de operaciones de comercio exterior entre terceros países, contando para tal efecto con copia de los respectivos conocimientos de embarque y facturas.
-
-h) Cualquier otro crédito, efectivo o contingente, distinto de los señalados en las letras precedentes, que tenga por objeto financiar operaciones de comercio exterior entre terceros países.
-
-3.2.- Registro contable.
-
-a) Operaciones con cartas de crédito.
-
-Las cartas de crédito que los bancos emitan por las operaciones de comercio exterior entre terceros países, serán registradas en las cuentas "Deudores por cartas de crédito emitidas terceros países", de la partida 1615 y "Obligaciones por cartas de crédito emitidas terceros países", de la partida 3615.
-
-Las cartas de crédito que los bancos confirmen para estas operaciones, serán registradas en las cuentas "Deudores por créditos del exterior terceros países", de la partida 1620, y "Obligaciones por cartas de crédito confirmadas terceros países", de la partida 3620.
-
-Cuando las mencionadas cartas de crédito sean negociadas a plazo, con aceptación de letra o sin ella, serán registradas en las cuentas "Deudores por cartas de crédito negociadas a plazo terceros países", de la partida 1110, y "Obligaciones por cartas de crédito negociadas a plazo terceros países", de la partida 3510 ó 3515, según corresponda.
-
-b) Otras operaciones de comercio exterior.
-
-Las demás colocaciones para financiar operaciones de comercio exterior entre terceros países, distintas de las señaladas en la letra a) precedente, serán registradas en la cuenta "Créditos comercio exterior terceros países", de la partida 1110 ó 1205, según sea su plazo.
-
-4.- Colocaciones que no correspondan a operaciones de comercio exterior.
-
-Los colocaciones en el exterior que no correspondan al financiamiento de operaciones de comercio exterior a que se refieren los N° 2 y 3, serán registradas en la cuenta "Créditos otorgados al exterior" de las partidas 1110 ó 1205 según sea su plazo.
-
-5.- Precisiones respecto a la aplicación de otras normas.
-
-5.1.-Provisiones de que tratan los Capítulos 7-6 y 12-13.
-
-La definición de "créditos de comercio exterior" establecida en el Capítulo 7-6 y aludida en el Capítulo 12-13 de esta Recopilación, tiene efecto solamente para el cálculo y constitución de las provisiones establecidas en esas normas. El registro contable de esos créditos se efectuará sobre la base de las clasificaciones señaladas en el presente Capítulo.
-
-5.2.- Adquisición o descuento de documentos.
-
-En concordancia con lo establecido en el Capítulo 12-3 de esta Recopilación, cualquier operación de descuento sin responsabilidad del cedente, de letras de cambio o pagarés aceptados o suscritos por personas naturales o jurídicas residentes en Chile, no constituyen colocaciones al exterior, puesto que el deudor directo, en ese caso, es el aceptante o suscriptor con residencia en Chile, aun en el caso en que estén avalados por personas residentes en el extranjero. Por lo tanto, estas operaciones no corresponden a las tratadas en el presente Capítulo. Lo que prima siempre es la calidad de deudor directo, según lo dispuesto en el Capítulo 12-3.
-
-Respecto a la presencia de deudores indirectos, conviene tener presente también que, de acuerdo con las normas del Banco Central de Chile sobre la materia y con lo previsto en el Capítulo 8-10 de esta Recopilación, los bancos no pueden adquirir o descontar documentos avalados o afianzados por bancos situados en Chile.
-
-5.3.- Interés máximo convencional.
-
-De acuerdo con la Ley N° 18.010, cuyas disposiciones se tratan en el Capítulo 7-1 de esta Recopilación, no quedan sujetas al límite del interés máximo convencional las colocaciones en el exterior que correspondan a operaciones pactadas con instituciones o empresas bancarias o financieras extranjeras o internacionales, como tampoco las pactadas o expresadas en moneda extranjera para operaciones de comercio exterior, cualesquiera sea el deudor.
-
 ## Capítulo 13-34
 
 EMISIÓN DE TÍTULOS PAGADEROS EN MONEDA EXTRANJERA PARA SER COLOCADOS O NEGOCIADOS EN EL EXTERIOR.
@@ -15252,13 +13894,11 @@ d) Información que el emisor debe proporcionar a los tenedores de bonos y al re
 
 e) Autorización del organismo extranjero regulador de los mercados bursátiles en los que se transarán los bonos.
 
-CAPITULO 14-8 (Bancos)
+## Capítulo 14-8
 
-MATERIA:
+EXENCIÓN DE IMPUESTO DE TIMBRES Y ESTAMPILLAS. DOCUMENTOS DE EXPORTACIONES Y DE CRÉDITOS AL EXTERIOR.
 
-EXENCION DE IMPUESTO DE TIMBRES Y ESTAMPILLAS. DOCUMENTOS DE EXPORTACIONES Y DE CREDITOS AL EXTERIOR.
-
-1.- Documentos necesarios para operaciones destinadas al financiamiento de exportaciones.
+1. Documentos necesarios para operaciones destinadas al financiamiento de exportaciones.
 
 De conformidad con lo dispuesto en el N° 11 del artículo 24 del Decreto Ley N° 3.475, modificado por el artículo 5° de la Ley N° 18.970, publicada en el Diario Oficial del 10 de marzo de 1990, corresponde a esta Superintendencia determinar, para los efectos de la exención del impuesto de timbres y estampillas, los documentos que tienen el carácter de necesarios para efectuar operaciones de crédito de dinero destinadas al financiamiento de exportaciones desde Chile.
 
@@ -15276,159 +13916,19 @@ e) Los documentos en los que consten los anticipos de compradores del exterior y
 
 f) Los documentos que den cuenta de financiamientos externos obtenidos por las empresas bancarias con el único fin de cursar los créditos señalados en las letras a), b), c) y d) precedentes.
 
+## Capítulo 14-8
+
+Hoja 2
+
 g) Los pagarés con que se documenten los préstamos cursados para emitir las Boletas de Garantía o cartas de crédito stand by para responder por las garantías de calidad de exportaciones chilenas; de seriedad en el cumplimiento de propuestas abiertas en el exterior a que concurran exportadores chilenos; o por el cumplimiento de contratos de exportación firmados por exportadores establecidos en Chile.
 
-h) Las letras de cambio y los pagarés con los que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile, de conformidad con lo dispuesto en el N° 2 del Capítulo 13-27 de esta Recopilación.
+h) Las letras de cambio y los pagarés con los que se documenten los créditos otorgados a personas naturales o jurídicas residentes en el exterior, que tengan por objeto pagar a exportadores chilenos el precio de mercaderías importadas desde Chile.
 
-2.- Créditos al exterior.
+### 2. Créditos al exterior
 
 De conformidad con lo dispuesto por el N° 16 del artículo 24 del D.L. N° 3.475, incorporado por la Ley N° 19.155 y modificado por las leyes N°s. 19.506 y 19.578, están exentos del impuesto de timbres y estampillas los documentos necesarios para el otorgamiento de créditos de dinero desde Chile hacia otros países, cuyas características determine esta Superintendencia.
 
 En concordancia con la disposición citada, se establece que los documentos que se beneficiarán de dicha exención, serán aquellos en moneda chilena o extranjera, que correspondan a créditos otorgados desde Chile al exterior a sociedades filiales o agencias de empresas chilenas establecidas en el exterior; a empresas residentes y domiciliadas en el exterior; y a otras personas naturales o jurídicas residentes y domiciliadas en el extranjero. Quedan igualmente comprendidos en esta exención los instrumentos que adquieran las entidades bancarias correspondientes a créditos cuyos deudores directos residan en el exterior.
-
-CAPITULO 14-9 (Bancos)
-
-MATERIA:
-
-EXPORTACIONES E IMPORTACIONES.
-
-El presente Capítulo contiene las instrucciones contables para el registro de operaciones relativas a cartas de crédito, cobranzas y financiamientos de exportaciones e importaciones chilenas, excluidos los créditos otorgados a personas situadas en el exterior de que trata el Capítulo 13-27 de esta Recopilación.
-
-I.- EXPORTACIONES.
-
-1.- Cartas de crédito.
-
-1.1.- Recepción de cartas de crédito.
-
-Las cartas de crédito que reciban los bancos, sin agregar su confirmación, serán registradas en la cuenta "Cartas de crédito de exportación por negociar", de la partida 9360, por el importe en moneda extranjera de la respectiva carta de crédito.
-
-Cuando las empresas bancarias reciban tales instrumentos a los que les agreguen su confirmación, registrarán su importe con cargo a la cuenta "Deudores de cartas de crédito de exportación por negociar" de la partida 1620, con abono a la cuenta "Beneficiarios de cartas de crédito de exportación por negociar" de la partida 3620.
-
-En los casos en que se haya constituido la provisión de fondos para la confirmación de cartas de crédito, tales operaciones serán registradas en la cuenta "Cartas de crédito de exportación enteradas en efectivo por negociar", de la partida 3010.
-
-1.2.- Negociación de cartas de crédito a la vista.
-
-a) Cartas de crédito no confirmadas.
-
-Las cartas de crédito negociadas, no confirmadas, cuyo pago no se ha recibido, serán registradas en la cuenta "Deudores de cartas de crédito de exportación negociadas a la vista en espera de reembolso", de la partida 9360.
-
-El importe que se reciba por el pago de la carta de crédito a la vista, será acreditado en la cuenta "Retornos de exportación por liquidar", de la partida 3010, salvo que el beneficiario hubiere indicado anticipadamente el destino para tales fondos.
-
-b) Cartas de crédito confirmadas.
-
-El importe de estas operaciones, salvo que el beneficiario haya indicado otro destino, será registrado en la cuenta "Retornos de exportación por liquidar".
-
-Cuando la carta de crédito sea negociada bajo reserva, será registrada en la cuenta "Deudores de cartas de crédito de exportación negociadas bajo reserva", de la partida 1130.
-
-Por otra parte, cuando la carta de crédito no sea negociada por existir discrepancias, será registrada en la cuenta de orden "Cartas de crédito de exportaciones documentos pendientes de aprobación", de la partida 9360.
-
-1.3.- Negociación de cartas de crédito con pago diferido.
-
-a) Cartas de crédito no confirmadas.
-
-Estas cartas de crédito serán registradas en la cuenta de orden "Deudores de cartas de crédito de exportación negociadas a plazo", de la partida 9360.
-
-b) Cartas de crédito confirmadas.
-
-Estas cartas de crédito serán registradas en la cuenta "Deudores de cartas de crédito de exportación negociadas a plazo", de la partida 1130 ó 1225, con abono a la cuenta "Obligaciones por cartas de crédito de exportación negociadas", de la partida 3425 ó 3480.
-
-En caso que la carta de crédito se negocie bajo reserva, será registrada en la cuenta "Deudores de cartas de crédito de exportación negociadas bajo reserva", de la partida 1130.
-
-Si la carta de crédito no fuera negociada, será registrada en la cuenta de orden "Cartas de crédito de exportación documentos pendientes de aprobación", de la partida 9360.
-
-1.4.- Financiamiento de cartas de crédito.
-
-Cuando los bancos financien el pago de la carta de crédito, registrarán dicha operación en la cuenta "Avances otorgados al exterior Exportaciones", de la partida 1130 ó 1225.
-
-2.- Cobranzas sobre el exterior.
-
-Los bancos que reciban documentos de exportaciones para su cobro en el exterior, registrarán tales operaciones en la cuenta de orden "Cobranzas documentarias sobre el exterior", de la partida 9280.
-
-Cuando reciban el pago de la cobranza, el importe respectivo se abonará en la cuenta "Retornos de exportación por liquidar" de la partida 3010, salvo que el beneficiario haya indicado otro destino.
-
-3.- Financiamiento de exportaciones no amparadas por cartas de crédito.
-
-Los créditos a los exportadores chilenos se incluirán en la cuenta "Préstamos para exportadores", de la partida 1130 ó 1225, según sea el plazo pactado, en tanto que los créditos a bancos u otras personas en el exterior deben registrarse según lo previsto en el Capítulo 13-27 de esta Recopilación.
-
-En el caso de descuentos de letras de cambio o pagarés aceptados o suscritos por los respectivos importadores extranjeros, corresponde también utilizar la cuenta "Préstamos para exportadores" si se trata de descuentos con responsabilidad del cedente. En el caso contrario, se registrarán esas operaciones en la cuenta "Préstamos al exterior para financiar exportaciones chilenas", mencionada en el Capítulo 13-27.
-
-4.- Intereses.
-
-Los intereses por los financiamientos que se otorguen, relacionados con las operaciones de que trata este título I, serán acreditados en la cuenta que en cada caso corresponda, de la partida 7115.
-
-5.- Comisiones.
-
-Las comisiones que los bancos cobren sobre las cartas de crédito de exportación a que se refiere este título I, serán acreditadas en la cuenta "Comisiones ganadas sobre cartas de crédito de exportación", de la partida 7515.
-
-Asimismo, las comisiones que cobren sobre las cobranzas antes mencionadas, se registrarán en la cuenta "Comisiones ganadas por cobranzas sobre el exterior", de la partida 7520.
-
-6.- Gastos de franqueo y otros.
-
-Los importes que los bancos perciban por concepto de recuperación de gastos de franqueo, télex, teléfono y otros similares, serán acreditados en las cuentas que correspondan, de la partida 8315.
-
-II.- IMPORTACIONES.
-
-1.- Cartas de crédito por cuenta de clientes.
-
-1.1.- Apertura.
-
-Cuando la carta de crédito sea financiada por el banco emisor, será registrada en la cuenta "Deudores por cartas de crédito de importación por negociar", de la partida 1615, con abono a "Cartas de crédito para importación por negociar", de la partida 3615.
-
-Las cartas de crédito pagadas en moneda chilena o extranjera por el ordenante, serán registradas en la cuenta "Cartas de crédito de importación por negociar enteradas en efectivo", de la partida 3010.
-
-1.2.- Negociación.
-
-a) Cartas de crédito financiadas por el Banco.
-
-Las cartas de crédito financiadas por el banco serán registradas en "Anticipos para importación" si son a la vista y en "Deudores por cartas crédito de importación negociadas a plazo" si son pagaderas a plazo, ambas de la partida 1125, o bien, "Créditos para importación", de la partida 1220, cuando su plazo de pago sea más de un año.
-
-En caso que la carta de crédito se haya negociado bajo reserva, su importe será registrado en la cuenta "Deudores por cartas de crédito de importación negociadas bajo reserva", de la partida 1125.
-
-El importe adeudado por las cartas de crédito negociadas a plazo será acreditado en la cuenta "Obligaciones por cartas de crédito de importación negociadas a plazo", de la partida 3505, 3515, 3520, 3555, 3560 ó 3565.
-
-b) Cartas de crédito pagadas por el ordenante.
-
-En caso que la carta de crédito se haya negociado bajo reserva y aún no se hubiere recibido la conformidad del ordenante, su importe se deberá registrar en la cuenta "Créditos para importación enterados en efectivo negociados bajo reserva", de la partida 3010.
-
-1.3.- Pago al exterior de las cartas de crédito negociadas a plazo.
-
-Al efectuar el pago de las cartas de crédito negociadas a plazo, estas serán registradas, cuando proceda, en "Anticipos para importación", o bien, en "Créditos para importación", según sea su plazo a menos o más de un año.
-
-2.- Cobranzas del exterior.
-
-Las cobranzas que reciban los bancos serán registradas en la cuenta de orden "Cobranzas del exterior", de la partida 9340.
-
-3.- Financiamiento a importadores.
-
-Los bancos que otorguen créditos en moneda extranjera a los importadores para pagar operaciones de importación no amparadas por cartas de crédito, registrarán tales importes en la cuenta "Anticipos para importación", de la partida 1125, o bien, "Créditos para importación", de la partida 1220, según sea el plazo pactado.
-
-4.- Gastos en moneda extranjera.
-
-Los desembolsos en moneda extranjera que realice el banco emisor de una carta de crédito, por concepto de comisiones y gastos que le cobre su corresponsal, cuyo importe sea de cargo del ordenante, serán debitados en la cuenta "Anticipos para importación".
-
-5.- Intereses.
-
-Los intereses en moneda chilena o extranjera que cobren los bancos sobre las cartas de crédito, serán acreditados en la cuenta que corresponda de la partida 7115.
-
-Por otra parte, los intereses que los bancos paguen por los financiamientos del exterior, serán registrados en la cuenta que proceda de la partida 5180 ó 5185, con excepción de aquellos a cargo del importador que cobre el proveedor sobre cartas de crédito negociadas a plazo, los que se registrarán en la cuenta "Anticipos para importación".
-
-6.- Comisiones.
-
-Las comisiones que se cobren sobre las cartas de crédito de importación, serán registradas en la cuenta "Comisiones ganadas-Cartas de crédito", de la partida 7515.
-
-Las comisiones que los bancos cobren sobre cobranzas, serán acreditadas en la cuenta "Comisiones ganadas-Cobranzas extranjeras", de la partida 7520.
-
-7.- Cartas de crédito por cuenta del propio banco emisor.
-
-Estas cartas de crédito serán registradas en "Importaciones por cuenta propia", de la partida 2115, con abono a "Cartas de crédito por negociar por cuenta propia", de la partida 3615.
-
-Al efectuar la negociación se registrará en "Importaciones en tránsito" de la partida 2305 si los bienes que se importan se integran al activo fijo, o de la partida 2120 si la importación corresponde a materiales fungibles. La deuda contraída directamente con el proveedor extranjero se registrará en la cuenta "Adeudado al exterior por importaciones por cuenta propia", de la partida 3040 ó 3070, según corresponda.
-
-8.- Pagos a cuenta de créditos.
-
-Los importes que los bancos reciban en moneda chilena para destinarlos a la cobertura de importaciones, serán acreditados en la cuenta "Pagos a cuenta de créditos por liquidar" de la partida 3010.
-
-En la misma cuenta antes señalada se deberán contabilizar los importes que los bancos reciban, ya sea como resultado de la cobranza de letras u otros efectos de comercio constituidos en garantía o de cualquier otro origen, con el objeto de aplicarlos al pago de créditos para importación o de cualquiera otra naturaleza.
 
 CAPITULO 16-2 (Bancos) Derogado.
 
@@ -15481,46 +13981,6 @@ sea procedente exigirle la testificación de personas o la firma a ruego, medida
 que la ley exige cuando no se acredita identidad o para determinados actos
 
 solemnes.
-
-CAPITULO 16-6 (Bancos)
-
-MATERIA:
-
-CAMBIO DE BILLETES EN MAL ESTADO Y DE MONEDA DIVISIONARIA.
-
-De acuerdo con disposiciones legales vigentes, el Banco Central de Chile debe
-
-facilitar el canje de los billetes mutilados y/o en mal estado de conservación,
-
-lo que realiza a través de todas sus Sucursales en el país.
-
-Sin embargo, el desempeño de esa función en la Oficina de Santiago del Instituto
-
-Emisor ha acarreado la presión diaria del comercio del centro de la capital, que
-
-requiere el cambio de billetes de cortes mayores por otros de baja denominación,
-
-para el desenvolvimiento de sus negocios. Se produce así un traspaso innecesario
-
-de billetes entre el sistema bancario, que obliga a los bancos a acumularlos y,
-
-posteriormente, a depositarios en el Banco Central con las consiguientes
-
-molestias y gastos de remesas.
-
-En presencia de lo antedicho, esta Superintendencia estima necesario que las
-
-empresas bancarias efectúen directamente los cambios de moneda y billetes que su
-
-clientela requiere, para lo cual el Banco Central de Chile las proveerá con
-
-oportunidad de la moneda corriente que sea necesaria. Se recomienda, por lo
-
-tanto, a los bancos llevar a efecto dicho servicio, publicitario y adoptar las
-
-medidas internas que permitan brindar en la materia una adecuada atención, que
-
-pudiera hacerse extensiva al público en general.
 
 CAPITULO 17-5 (Bancos y Financieras)
 
@@ -16225,40 +14685,6 @@ INSTRUCCIONES:
 (2) Los ingresos incluirán comisiones ganadas por cobranza de documentos y por recaudaciones por cuenta de empresas de servicios.
 
 (3) En "Otros" podrán incluirse las comisiones percibidas o pagadas por conceptos distintos a los especificados. Sin embargo, en caso que el importe de alguno de ellos sea igual o superior al 10% del total de las comisiones percibidas o pagadas, deberá agregarse al listado especificando el concepto y el o los montos correspondientes.
-
-CAPITULO 18-2 (Bancos y Financieras)
-
-MATERIA:
-
-PUBLICACION DE ESTADOS DE SITUACION.
-
-De conformidad con lo dispuesto en el artículo 16 de la Ley General de Bancos, las entidades bancarias y las sociedades financieras deben publicar, en un periódico de circulación nacional, sus estados de situación referidos al 31 de marzo, 30 de junio y 30 de septiembre de cada año, o en cualquier otra fecha que esta Superintendencia lo exija en casos especiales.
-
-Dicha publicación debe efectuarse dentro de la segunda quincena del mes siguiente a la fecha a que se refieran los respectivos estados.
-
-Sin perjuicio de la incorporación de otros antecedentes adicionales que pudiera exigir este Organismo, según las circunstancias, el estado de situación incluirá en cada oportunidad un balance y un estado de resultados comparativos con el mismo período del año anterior, según los modelos incluidos en el Anexo de este Capítulo.
-
-Una vez efectuada la publicación, las instituciones financieras deberán hacer llegar a este Organismo un ejemplar de ella, dentro del plazo de tres días hábiles contados desde la fecha de la publicación.
-
-ANEXO
-
-MODELOS DEL ESTADO DE SITUACION.
-
-1.- BALANCE.
-
-El balance deberá presentarse en un formato semejante al de los estados financieros anuales, pero cuyo encabezamiento será el siguiente:
-
-.
-
-En todo lo demás, las instituciones se ceñirán a las instrucciones para el Balance General, según el modelo incluido en el Anexo N° 1 del Capítulo 18-1 para la presentación de los estados financieros consolidados. Las instituciones que no tengan filiales, adecuarán el formato y se basarán en el modelo de balance individual incluido en dicho Anexo.
-
-2.- ESTADO DE RESULTADOS.
-
-El estado de resultados deberá presentarse en un formato semejante al de los estados financieros anuales, con el siguiente encabezamiento:
-
-.
-
-En todo lo demás deberán seguirse las instrucciones para el estado de resultados consolidado, según el modelo incluido en el Anexo N° 1 del Capítulo 18-1. Las instituciones que no tengan filiales, adecuarán el formato y se basarán en el modelo de estados financieros individuales incluido en dicho Anexo.
 
 ## Capítulo 18-3
 
@@ -23246,19 +21672,17 @@ CAPITULO 20-4. Derogado.
 
 Artículo .- Derogado.
 
-CAPITULO 20-6 (Bancos y Financieras)
+## Capítulo 20-6
 
-MATERIA:
+PUBLICACIONES EN EL BOLETÍN DE INFORMACIONES COMERCIALES.
 
-PUBLICACIONES EN EL BOLETIN DE INFORMACIONES COMERCIALES.
-
-I.- ENVIO DE INFORMACION AL BOLETIN DE INFORMACION COMERCIALES.
+### I. ENVIO DE INFORMACIÓN AL BOLETÍN DE INFORMACIONES COMERCIALES
 
 1.- Envío de nómina de cheques protestados.
 
 El D.S. N° 1.971 del Ministerio de Hacienda, del 9 de abril de 1945, modificado por el D.S. N° 414, de 24 de junio de 1978, ordena enviar semanalmente, para su publicación en el Boletín de Informaciones Comerciales, los cheques protestados por falta de fondos o por haber sido girados contra cuenta corriente cerrada. El D.S. N° 4.368 del Ministerio de Hacienda, de 25 de octubre de 1946, autoriza al Boletín de Informaciones Comerciales para publicar, a costa de los interesados y a requerimiento de éstos, los cheques que han sido pagados con posterioridad a su protesto.
 
-De conformidad con la disposición citada, los bancos que protesten cheques por falta de fondos o por cuenta cerrada, deben enviar semanalmente a la Cámara de Comercio de Santiago, o a las instituciones en que la Cámara de Comercio de Chile haya delegado sus funciones, una nómina de los cheques protestados por las referidas causales en la semana inmediatamente anterior, con la siguiente información: Nombre completo del girador y número del Rol Unico Tributario de este; suma por la cual se emitió el cheque; Oficina del banco que hizo el protesto y, cuando corresponda, observaciones acerca de algún cheque.
+De conformidad con la disposición citada, los bancos que protesten cheques por falta de fondos o por cuenta cerrada, deben enviar semanalmente a la Cámara de Comercio de Santiago, o a las instituciones en que la Cámara de Comercio de Chile haya delegado sus funciones, una nómina de los cheques protestados por las referidas causales en la semana inmediatamente anterior, con la siguiente información: Nombre completo del girador y número del Rol Único Tributario de éste; suma por la cual se emitió el cheque; Oficina del banco que hizo el protesto y, cuando corresponda, observaciones acerca de algún cheque.
 
 Todos los cheques que figuren en la nómina, se entenderán protestados por falta de fondos, sin necesidad de que dicha circunstancia se anote expresamente. En el caso que el protesto se deba al motivo de haberse girado contra cuenta corriente cerrada, será preciso indicar este hecho.
 
@@ -23266,59 +21690,59 @@ Con el fin de favorecer el pago del cheque con posterioridad a su protesto e inf
 
 Los cheques en moneda extranjera que sean protestados por falta de fondos o cuenta cerrada, también deben ser informados, de la misma manera, al Boletín de Informaciones Comerciales.
 
-2.- Envío de nóminas de letras y pagarés no pagados a su vencimiento.
+### 2. Envío de nóminas de letras y pagarés no pagados a su vencimiento
 
-2.1.- Documentos no protestados.
+2.1. Documentos no protestados.
 
-De conformidad con lo dispuesto en la letra a) del N° 6 del D.S. N° 950, del Ministerio de Hacienda, del 22 de marzo de 1928, según la modificación introducida por el D.S. N° 625, publicado en el Diario Oficial de fecha 29 de septiembre de 1982, los bancos y sociedades financieras deben enviar semanalmente al Boletín de Informaciones Comerciales una nómina de las letras de cambio y pagarés, aceptados o suscritos con la firma autorizada por un Notario, a la orden del respectivo banco o sociedad financiera, no pagados a su vencimiento y que no hayan sido protestados por falta de pago por Notario u Oficial del Registro Civil en su caso.
+De conformidad con lo dispuesto en la letra a) del N° 6 del D.S. N° 950, del Ministerio de Hacienda, del 22 de marzo de 1928, según la modificación introducida por el D.S. N° 625, publicado en el Diario Oficial de fecha 29 de septiembre de 1982, los bancos deben enviar semanalmente al Boletín de Informaciones Comerciales una nómina de las letras de cambio y pagarés, aceptados o suscritos con la firma autorizada por un Notario, a la orden del respectivo banco, no pagados a su vencimiento y que no hayan sido protestados por falta de pago por Notario u Oficial del Registro Civil en su caso.
 
 De acuerdo con lo señalado precedentemente, se deben reunir las siguientes exigencias copulativas para el envío de la mencionada información:
 
 i) Que se trate de letras de cambio o pagarés cuya aceptación o suscripción haya sido autorizada por un Notario.
 
-ii) Que el respectivo documento haya sido otorgado a la orden de un banco o de una sociedad financiera. Por lo tanto, quedan excluidos de esta disposición las letras de cambio y pagarés que una institución pueda haber adquirido mediante su compra o descuento o aquellos que le hayan sido entregados en cobranza o a cualquier otro título.
+ii) Que el respectivo documento haya sido otorgado a la orden de un banco. Por lo tanto, quedan excluidos de esta disposición las letras de cambio y pagarés que una institución pueda haber adquirido mediante su compra o descuento o aquellos que le hayan sido entregados en cobranza o a cualquier otro título.
 
-III) Que el documento no haya sido protestado por falta de pago por Notario u Oficial del Registro Civil en su caso. De lo anterior queda en claro que la obligación de las instituciones financieras de informar al Boletín los documentos no pagados a su vencimiento, sólo existe si resuelven no enviar dichos documentos para su protesto a Notaría y como alternativa de esta actuación.
+iii) Que el documento no haya sido protestado por falta de pago por Notario u Oficial del Registro Civil en su caso. De lo anterior queda en claro que la obligación de los bancos de informar al Boletín los documentos no pagados a su vencimiento, sólo existe si resuelven no enviar dichos documentos para su protesto a Notaría y como alternativa de esta actuación.
 
-En concordancia con lo expuesto, cabe señalar que las instituciones financieras tienen la obligación de enviar a Notaría para su protesto, todos los documentos que, en la fecha de su pertinente vencimiento, no hayan sido debidamente pagados o prorrogados, con la única excepción de aquellos que informan directamente al Boletín de Informaciones Comerciales de conformidad con lo dispuesto precedentemente y de los que estuviesen en el caso contemplado en el numeral 2.2 siguiente.
+En concordancia con lo expuesto, cabe señalar que los bancos tienen la obligación de enviar a Notaría para su protesto, todos los documentos que, en la fecha de su pertinente vencimiento, no hayan sido debidamente pagados o prorrogados, con la única excepción de aquellos que informan directamente al Boletín de Informaciones Comerciales de conformidad con lo dispuesto precedentemente y de los que estuviesen en el caso contemplado en el numeral 2.2 siguiente.
 
 La nómina de letras y pagarés debe enviarse semanalmente a la Cámara de Comercio de Santiago con la información de la semana inmediatamente anterior. Dichas nóminas deberán contener la siguiente información:
 
 a) el monto de la letra de cambio o del pagaré;
 
-b) el nombre, Rol Unico Tributario y domicilio del aceptante o del suscriptor, según se trate de letra de cambio o pagaré; y
+b) el nombre, Rol Único Tributario y domicilio del aceptante o del suscriptor, según se trate de letra de cambio o pagaré; y
 
 c) nombre del girador, en el caso de las letras de cambio, o del suscriptor si se trata de pagarés.
 
-En caso que los obligados al pago de estos documentos efectúen su cancelación antes del despacho de la nómina, las instituciones financieras excluirán de ella esa información.
+En caso que los obligados al pago de estos documentos efectúen su cancelación antes del despacho de la nómina, los bancos excluirán de ella esa información.
 
-2.2.- Nómina de documentos protestados por la propia institución financiera de acuerdo con la Ley 18.092.
+2.2. Nómina de documentos protestados por el propio banco de acuerdo con la Ley 18.092.
 
-De conformidad con lo dispuesto en la letra b) del N° 6 del D.S. N° 950 antes mencionado, modificado por el D.S. N° 625, de 1982, las instituciones financieras que establezcan el sistema de protesto de letras de cambio de que trata el artículo 71 de la Ley 18.092, quedan obligadas a enviar semanalmente al Boletín de Informaciones Comerciales una nómina de las letras de cambio y pagarés que hubieran protestado a su vencimiento.
+De conformidad con lo dispuesto en la letra b) del N° 6 del D.S. N° 950 antes mencionado, modificado por el D.S. N° 625, de 1982, los bancos que establezcan el sistema de protesto de letras de cambio de que trata el artículo 71 de la Ley 18.092, quedan obligadas a enviar semanalmente al Boletín de Informaciones Comerciales una nómina de las letras de cambio y pagarés que hubieran protestado a su vencimiento.
 
-3.- Envió de nóminas de deudores morosos.
+### 3. Envío de nóminas de deudores morosos
 
-De acuerdo con lo dispuesto por el D.S. N° 950, de 1928, del Ministerio de Hacienda, modificado por el D S. N° 883, publicado en el Diario Oficial del 26 de octubre de 1992, los bancos y sociedades financieras pueden enviar al Boletín de Informaciones Comerciales de la Cámara de Comercio de Chile, una nómina de los deudores que hayan incurrido en mora en el servicio de sus préstamos o créditos a favor del respectivo banco o sociedad financiera, excluidas aquellas deudas morosas que obligatoriamente deben informarse según lo señalado en el N° 2 precedente, como asimismo aquellas correspondientes a documentos enviados a notarla para su protesto.
+De acuerdo con lo dispuesto por el D.S. N° 950, de 1928, del Ministerio de Hacienda, modificado por el D.S. N° 883, publicado en el Diario Oficial del 26 de octubre de 1992, los bancos pueden enviar al Boletín de Informaciones Comerciales de la Cámara de Comercio de Chile, una nómina de los deudores que hayan incurrido en mora en el servicio de sus préstamos o créditos a favor del respectivo banco, excluidas aquellas deudas morosas que obligatoriamente deben informarse según lo señalado en el N° 2 precedente, como asimismo aquellas correspondientes a documentos enviados a notaría para su protesto.
 
-Las instituciones financieras que decidan hacer uso de dicha facultad enviarán las referidas nóminas dentro de los quince primeros días hábiles de cada mes con los siguientes datos;
+Los bancos que decidan hacer uso de dicha facultad enviarán las referidas nóminas dentro de los quince primeros días hábiles de cada mes con los siguientes datos:
 
 a) Nombre completo y RUT del deudor.
 
 b) Importe de la deuda directa que no fue pagada por el deudor en el mes precedente.
 
-En ningún caso podrán incluirse como morosas las deudas cuyos créditos no consten de un titulo ejecutivo, por las mismas razones dadas en el numeral 2.3, letra a), del Capitulo 18-5 de esta Recopilación.
+En ningún caso podrán incluirse como morosas las deudas cuyos créditos no consten de un título ejecutivo, por las mismas razones dadas en el Capítulo 18-5 de esta Recopilación.
 
-Las instituciones financieras que opten por enviar estas nóminas quedan obligadas a: a) mantener siempre el envío mensual de la nómina; y, b) incluir en cada nómina todos los deudores que cumplan las condiciones anteriormente señaladas, sin discriminar entre ellos. Con todo, se excluirán de las nóminas los deudores que hayan solucionado su morosidad antes del envío de la respectiva nómina.
+Los bancos que opten por enviar estas nóminas quedan obligadas a: a) mantener siempre el envío mensual de la nómina; y, b) incluir en cada nómina todos los deudores que cumplan las condiciones anteriormente señaladas, sin discriminar entre ellos. Con todo, se excluirán de las nóminas los deudores que hayan solucionado su morosidad antes del envío de la respectiva nómina.
 
-4.- Forma de enviar la información.
+### 4. Forma de enviar la información
 
 Las nóminas que envíe cada oficina bancaria deben numerarse correlativamente y entregarse con la información ordenada de la forma que requiera el Boletín para su mejor procesamiento.
 
-Las instituciones financieras deberán enviar las nóminas antes mencionadas en medios magnéticos, sin perjuicio de adjuntar, como instrumento de prueba, el respectivo listado impreso con dicha información.
+Los bancos deberán enviar las nóminas antes mencionadas en medios magnéticos, sin perjuicio de adjuntar, como instrumento de prueba, el respectivo listado impreso con dicha información.
 
-En todo caso, las instituciones financieras deberán mantener en su poder una copia de las nóminas enviadas, sea en forma impresa o en medios magnéticos.
+En todo caso, los bancos deberán mantener en su poder una copia de las nóminas enviadas, sea en forma impresa o en medios magnéticos.
 
-II. PERDIDA DE VIGENCIA DE LA INFORMACION PUBLICADA EN EL BOLETIN DE INFORMACIONES COMERCIALES. ACTUACION DE LAS INSTITUCIONES FINANCIERAS.
+II. PÉRDIDA DE VIGENCIA DE LA INFORMACIÓN PUBLICADA EN EL BOLETÍN DE INFORMACIONES COMERCIALES. ACTUACIÓN DE LOS BANCOS.
 
 El artículo 10 del Decreto Supremo N° 950, de 1928, ya citado, introducido por el Decreto Supremo N° 516, publicado en el Diario Oficial del 11 de junio de 1988, establece lo siguiente:
 
@@ -23330,11 +21754,11 @@ a) Si se ha publicado la respectiva aclaración de acuerdo con el artículo 4° 
 
 b) Si han transcurrido más de 5 años de la respectiva publicación en el referido Boletín.".
 
-Del texto transcrito se desprende claramente que, al dejar de tener vigencia estas publicaciones, el efecto que se produce es el mismo que si no existieran. Por lo tanto, si una institución financiera tiene que resolver el otorgamiento de un crédito o la apertura de una cuenta corriente a una persona que registra un protesto aclarado o uno que lleve más de cinco años publicado, debe pura y simplemente abstraerse de la existencia de esos protestos y proceder como si no hubiesen existido jamás.
+Del texto transcrito se desprende claramente que, al dejar de tener vigencia estas publicaciones, el efecto que se produce es el mismo que si no existieran. Por lo tanto, si un banco tiene que resolver el otorgamiento de un crédito o la apertura de una cuenta corriente a una persona que registra un protesto aclarado o uno que lleve más de cinco años publicado, debe pura y simplemente abstraerse de la existencia de esos protestos y proceder como si no hubiesen existido jamás.
 
 Por la misma razón, es improcedente que la institución invoque tales protestos para justificar su negativa a conceder un crédito o abrir una cuenta corriente. Nadie discute que todo banco es libre de otorgar o no un crédito o de aceptar abrir una cuenta corriente o negarse a ello, pero no puede justificar su negativa en la existencia de un protesto que la normativa legal ha dejado fuera de vigencia.
 
-Lo señalado en los párrafos precedentes deberá estar en conocimiento de todos los funcionarios de la institución financiera que sean responsables del otorgamiento de operaciones de crédito, de aperturas de cuentas corrientes o de informes bancarios internos o externos, debiendo tenerse presente que, de infringirse sus disposiciones, podrán aplicarse las sanciones que resulten procedentes, tanto a la institución como al funcionario.
+Lo señalado en los párrafos precedentes deberá estar en conocimiento de todos los funcionarios del banco que sean responsables del otorgamiento de operaciones de crédito, de aperturas de cuentas corrientes o de informes bancarios internos o externos, debiendo tenerse presente que, de infringirse sus disposiciones, podrán aplicarse las sanciones que resulten procedentes, tanto al banco como al funcionario.
 
 CAPITULO 20-7 (Bancos y Financieras)
 
