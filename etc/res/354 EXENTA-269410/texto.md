@@ -1,0 +1,29 @@
+ESTABLECE DÍA DE LA ATENCIÓN PRIMARIA DE SALUD
+
+Núm. 354 exenta.- Santiago, 7 de febrero de 2008.- Visto: Lo dispuesto en los artículos 6º, 8º, 9º y 14 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2763/79 y de las leyes Nº 18.469 y Nº 18.933; en el decreto con fuerza de ley Nº1/19.653, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, en el artículo 25 letra a), 26, 27, 28 y 30 del decreto supremo Nº 136 de 2004, de Salud, Reglamento Orgánico del Ministerio de Salud, y en la resolución Nº 520, de 1996, de la Contraloría General de la República y sus modificaciones; y
+
+Considerando:
+
+1º Que, la Reforma del Sector Salud busca consolidar un sistema que dé una adecuada respuesta a las necesidades sanitarias de la población, mediante acciones de calidad, que permitan asegurar mejores y más satisfactorios resultados de salud. Este desafío sectorial entrega relevancia a la Atención Primaria de Salud, que es donde en mayor medida se recoge y contribuye al cambio cultural y de modelo de atención de salud que se requiere.
+
+2º Que, asimismo el Modelo de Salud Integral, se orienta a la mejoría de la calidad de vida de las personas, las familias y las comunidades, y se constituye en uno de los pilares fundamentales para el logro de los objetivos de la reforma del sector salud. La atención integral -biopsicosocial- centrada en la familia, necesita ser complementada con el enfoque multidisciplinario, para así responder de la manera más efectiva a las necesidades de los individuos, ya que toma en consideración su historia vital, su entorno familiar, ambiental y desarrolla acciones en los ámbitos de la promoción, prevención, curación, rehabilitación y cuidados domiciliarios.
+
+3º Que, para los efectos indicados anteriormente, se ha estimado necesario reforzar la necesidad de transformación de los consultorios y centros de salud a Centros de Salud Familiar como un paso necesario, al poner en los equipos de cabecera la responsabilidad del cuidado continuo de la población. Así, el proceso de transformación de la APS contempla el reconocimiento de los Centros de Salud Familiar (Cesfam), esto es, centros de salud que cumplen con una serie de requisitos de motivación, capacitación, mejora de calidad progresiva e incorporación de la familia como unidad de atención, asumiendo la responsabilidad del cuidado continuo de su población adscrita a través de un conjunto de prestaciones, denominado Plan de Salud Familiar, que además de las prestaciones tradicionales incorpora otras en el ámbito de la salud de las familias.
+
+4º Que un antecedente de primer orden lo constituye la Conferencia Internacional sobre Atención Primaria de Salud, reunida en Alma-Ata, Kazajstán, entre el 6 y el 12 de septiembre de 1978, que mediante la Declaración de Alma-Ata, exhortó a todos los gobiernos, a la OMS y al UNICEF y a otras organizaciones internacionales, así como a los organismos internacionales, multilaterales y bilaterales, a las organizaciones no gubernamentales, a todo el personal de salud y al conjunto de la comunidad mundial, a que apoyen en el plano nacional e internacional el compromiso de promover la atención primaria de salud y de dedicarle mayor apoyo técnico y financiero, sobre todo en países en desarrollo.
+
+5º Que, como menciona el párrafo 6 de la Declaración Alma-Ata, "la Atención Primaria de Salud es la asistencia sanitaria esencial basada en métodos y tecnologías prácticos, científicamente fundados y socialmente aceptables, puesta al alcance de todos los individuos y familias de la comunidad mediante su plena participación y a un costo que la comunidad y el país puedan soportar, en todas y cada una de las etapas de su desarrollo con un espíritu de autorresponsabilidad y autodeterminación; representa el primer nivel de contacto de los individuos, la familia y la comunidad con el Sistema Nacional de Servicios de Salud, llevando lo más cerca posible la atención de salud al lugar donde residen y trabajan las personas, y constituye el primer elemento de un proceso permanente de asistencia sanitaria.".
+
+6º Que, en virtud de dichas transformaciones y considerando la imprescindible y abnegada labor de miles de funcionarios de la Atención Primaria de Salud, que a lo largo y ancho del país entregan sus mejores y mayores esfuerzos y voluntades en aras del beneficio de la población del país, y específicamente de la salud de ésta, se ha estimado necesario señalar un día en el año como el Día de la Atención Primaria de Salud, con el fin de reconocer el trabajo y entrega de los equipos que integran esta base del sistema sanitario nacional.
+
+7º Que, en razón de lo indicado precedentemente vengo en dictar la siguiente
+
+Resolución:
+
+1º. Establécese el día 6 de septiembre de cada año, como Día de la Atención Primaria de Salud.
+
+2º. Comuníquese la presente resolución a los Servicios de Salud, Establecimientos Experimentales de Salud y a las Secretarías Regionales Ministeriales de Salud de todo el país, a las Municipalidades y Corporaciones Municipales de Salud del país, y a los organismos e instituciones que integran la Red Asistencial del Sistema Nacional de Servicios de Salud, para su conocimiento y cumplimiento, debiendo además darle amplia difusión de ella a los funcionarios y usuarios de la Atención Primaria de Salud del país.
+
+Anótese, comuníquese y publíquese.- María Soledad Barría Iroume, Ministra de Salud.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud, Pedro Crocco Abalos, Subsecretario de Salud Pública (S).
