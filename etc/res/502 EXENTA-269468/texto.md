@@ -1,0 +1,3 @@
+Por resolución exenta Nº 502, de 20 de febrero de 2008, de esta Subsecretaría, autorízase a ALGAS CRUZ ALTA S.A., para iniciar actividades pesqueras de transformación, para operar planta ubicada Lotes Nº 10 y 11, Subdivisión Retazo Nº 4, Estancia Tambillos, Coquimbo, para elaborar en líneas de procesos Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 20 de febrero de 2008.- Hiram Villagra Castro, Subsecretario de Pesca (S).
