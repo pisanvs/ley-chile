@@ -1,0 +1,3 @@
+Por resolución exenta Nº 371, de 7 de febrero de 2008, de esta Subsecretaría, autorízase a JORGE PATRICIO ALFARO PEREIRA, para iniciar actividades pesqueras de transformación, en una planta ubicada en Vía 1 Sitio 2, Manzana K, Km 10, Bajo Molle, Iquique, donde podrá elaborar en las líneas de proceso de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
