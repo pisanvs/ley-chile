@@ -1,0 +1,3 @@
+Por resolución exenta Nº474, de 15 de febrero de 2008, de esta Subsecretaría, autorízase a PROCESADORA DE ALIMENTOS OMEGA SEAFOODS LIMITADA, para ampliar actividades de transformación autorizadas por resolución citada en visto, para incorporar a planta ubicada en Avenida Gerónimo Méndez Nº2089, Coquimbo, en líneas de proceso Fresco Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de febrero de 2008.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
