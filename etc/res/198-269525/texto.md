@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMERCIAL E INDUSTRIAL INDUGAN LIMITADA
+
+DRE07 Nº198.- Certifico que Comercial e Industrial Indugan Limitada, RUT 78.750.920-7, domiciliada en Fundo El Manzano s/n, comuna de Pelarco, cuyo representante legal es Rivera Rivera Gustavo Adolfo, RUT 7.453.616-6, cumple todos los requisitos y exigencias establecidas en resolución Nº Ex. 3.722, de 28.07.2000, publicada en el Diario Oficial el 01.08.2000, y que en consecuencia tiene la calidad de agente retenedor del Impuesto al Valor Agregado, por las ventas de carne y servicios de faenamiento de ganado que efectúe durante el período comprendido entre el día 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial y tendrá vigencia indefinida.
+
+Talca, 25 de febrero de 2008.- Mirtha Barra Paredes, Directora Regional.
