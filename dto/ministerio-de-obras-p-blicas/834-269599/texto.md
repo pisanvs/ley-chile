@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 834, de 14 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 1, 2 y 6, para la obra Camino Costero Sur, Sector Bahía Mansa-Estero Quilpue (Río Llesquehue-Caleta El Manzano), tramo Km. 0,00000 a Km.
+
+10,42000, que figuran a nombre de Melillanca Aucapan Susana Ivonne Y. y Melillanca Guaiquimilla Juan M., roles de avalúo 3219-804 y 3219-795, comuna de San Juan de la Costa, provincia de Osorno, superficies 7.392 m2; 367 m2. y 13.711 m2. La Comisión de Peritos, fijó con fecha 22 de marzo de 2006, en las cantidades de $29.568.000, para el lote Nº 1, $1.468.000, para el lote Nº 2 y $16.211.000, para el lote Nº 6. Las indemnizaciones se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
