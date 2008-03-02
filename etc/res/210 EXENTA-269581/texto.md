@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA EUGENIA
+
+Resolución exenta Nº 210, del 8 de febrero de 2008, resolvió clausura a partir esta fecha de estancia Eugenia, roles 5106-014 y 5106-013 de propiedad de Comunidad Fernández Solo de Zaldívar, ubicada comuna San Gregorio. Queda prohibida entrada o salida animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en plazo 30 días corridos desde fecha de la notificación esta resolución. Deberá comunicar al SAG fecha exacta de la aplicación del tratamiento, para visita inspectiva que permita comprobar cumplimiento medida. Gastos aplicación medidas sanitarias son cargo de dueño, tenedor o internador animales.
+
+- Punta Arenas, 8 de febrero de 2008.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
