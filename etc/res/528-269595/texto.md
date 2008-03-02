@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN PARCIAL DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución Nº 528 de 12 diciembre 2007, rectificada por resolución Nº 564 de 26 diciembre 2007 y ambas rectificadas y complementadas por resolución Nº 016 de 24 enero 2008, SERVIU Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Sector Pedro de Valdivia Bajo, calle Arrau Méndez Nº 480, rol de avalúo Nº 1128-17, comuna Concepción, superficie 7.911,13 metros cuadrados de terreno y 53,92 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-21.601, de aparente dominio de CGE Transmisiones S.A., para ejecución de obras de construcción, vinculadas al proyecto de construcción solución habitacional y equipamiento Pedro de Valdivia, del programa "Recuperación de Barrios Región del Bío Bío", conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Luis Abarzúa Ceballos, constructor civil, María Pamela Mac-Guire Acevedo, arquitecta y Miguel Luis Bonifetti Dall'Orso, arquitecto, según informe de fecha 23 noviembre 2007, complementado por informe de fecha 21 diciembre 2007, fijó monto provisional indemnización en $414.109.370.-, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
