@@ -1,0 +1,3 @@
+Por decreto MOP Nº 908, de 30 de noviembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra Construcción Camino Costero, Carrizal - Bahía Salada, Provincia de Copiapó y Huasco, Región de Atacama, Etapa III, que figura a nombre de Comunidad Hacienda Castilla, Rol de avalúo 516-4, comuna de Copiapó, superficie 277.687 m2. La Comisión de Peritos fijó con fecha 18 de julio de 2006, en la cantidad de $9.719.045 para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
