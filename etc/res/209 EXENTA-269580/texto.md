@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIAS QUE SEÑALA
+
+Resolución exenta Nº 209 del 8 de febrero de 2008, resolvió clausura a partir esta fecha de Estancias Hijuela Nº 2 de subdivisión de parcela Nº 59 (pv) del proyecto parcelación "Los Pioneros", parcela Nº 59 (i) proyecto parcelación "Los Pioneros" e Hijuela Nº 1 de la subdivisión de la parcela Nº 59 (pv), parcela Nº 57 (v) del proyecto parcelación "Los Pioneros", lote Nº 79 PV-
+
+A, parcela 35 V del proyecto parcelación "Los Pioneros", Hijuela A sector Verano -V- de la parcela Nº58 del proyecto parcelación "Los Pioneros", sector Primavera Verano de la parcela Nº 19 proyecto de parcelación Gobernador Phillipi, parcela Nº 62-I-proyecto parcelación "Los Pioneros", lote Nº 6-PV-A de propiedad de Ganadera Guic Ltda. Queda prohibida entrada o salida animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en plazo 30 días corridos, desde fecha de la notificación esta resolución. Deberá comunicar al SAG fecha exacta de la aplicación del tratamiento, para visita inspectiva que permita comprobar cumplimiento medida. Gastos aplicación medidas sanitarias son cargo de dueño, tenedor o internador animales.
+
+- Punta Arenas, 8 de febrero de 2008.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
