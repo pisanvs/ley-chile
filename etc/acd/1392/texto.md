@@ -1,0 +1,17 @@
+ACUERDO ADOPTADO POR EL CONSEJO EN SU SESIÓN Nº 1392
+
+Certifico que el Consejo del Banco Central de Chile en su Sesión Ordinaria Nº 1392, celebrada el 28 de febrero de 2008, adoptó el siguiente Acuerdo:
+
+1392-02-080228 - Nuevas Directrices de Ejecución para la Agencia Fiscal establecida en la Ley sobre Responsabilidad Fiscal, relacionadas con la administración de los recursos del Fondo de Reserva de Pensiones y el Fondo de Estabilización Económico y Social, así como a la retribución anual a que tendrá derecho el Agente Fiscal.
+
+El Consejo adoptó el siguiente Acuerdo:
+
+1. Aceptar las nuevas Directrices de Ejecución impartidas por el señor Ministro de Hacienda mediante sus Oficios N°s 204, 205 y 206, de fecha 26 de febrero de 2008, cuyas funciones encomendadas al Banco Central de Chile en su carácter de Agente Fiscal corresponden a la Agencia Fiscal aceptada mediante Acuerdo N° 1321-01-070222, adoptado en Sesión de Consejo de fecha 22 de febrero de 2007, la cual fuera encomendada mediante Decreto Supremo N° 1.383 del Ministerio de Hacienda (el "Decreto de Agencia Fiscal"), de 2006, publicado en el Diario Oficial de fecha 17 de febrero de 2007, para que actúe en nombre y por cuenta del Fisco, en el desempeño de todas o algunas de las funciones señaladas en el artículo 4° del Decreto de Agencia Fiscal, y las instrucciones específicas para la Agencia Fiscal impartidas en las Directrices de Ejecución propuestas en su oportunidad. Las referidas nuevas Directrices se refieren a la Inversión de los recursos fiscales administrados por el Agente Fiscal conforme al Acuerdo N° 1321-01-070222 y, asimismo, a la retribución anual pagadera a éste por concepto de lo dispuesto en el artículo 9° letra a) del Decreto Supremo mencionado.
+
+2. Dejar constancia que la retribución para el Agente Fiscal acordada para el período comprendido entre el día 1° de marzo de 2008 y el día 28 de febrero de 2009, se determinó en conformidad con lo previsto en el artículo 9° letra a) del Decreto Supremo antes citado, lo dispuesto en las pertinentes Directrices de Ejecución a que se refiere el mismo, y los valores máximos que autorizó el señor Ministro de Hacienda mediante Oficio N° 136 del 8 de febrero de 2007, conforme al señalado artículo y que será complementado al autorizar dicho Ministerio la contratación de los Administradores Externos que hayan sido seleccionados por el Banco conforme a las nuevas Directrices de Inversión.
+
+3. Facultar al Gerente de División Operaciones Financieras para establecer los procedimientos internos destinados a reglamentar la ejecución de las funciones encomendadas al Banco Central de Chile en su carácter de Agente Fiscal de conformidad con el Decreto de Agencia respectivo y las Directrices de Ejecución aceptadas o que acepte el Banco, considerando el adecuado control y vigilancia de los riesgos operativos involucrados en ello para el Banco Central de Chile. En cuanto a la celebración de los demás actos, contratos u operaciones necesarios para dar cumplimiento a la Agencia Fiscal, regirá el sistema de poderes del Banco, en lo no reglamentado especialmente.
+
+Asimismo, se deja constancia que, el Banco Central de Chile podrá disponer la contratación de asesoría externa para evaluar y efectuar el seguimiento de la gestión y procesos empleados en la administración de los recursos fiscales por parte del Agente Fiscal y/o de los Administradores Externos.
+
+Santiago, 28 de febrero de 2008.- Miguel Ángel Nacrur Gazali, Ministro de Fe.
