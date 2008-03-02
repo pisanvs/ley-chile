@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 552, de 26 diciembre 2007, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Sector Pedro de Valdivia Bajo, rol de avalúo Nº 1194-1, comuna Concepción, superficie 1.084 metros cuadrados de terreno, 18,08 metros cuadrados de edificación y 32 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-21.772, rectificado por plano S8R-21.772 R, de aparente dominio de Essbio S.A., para ejecución programa "Recuperación de Barrios", de la comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Luis Abarzúa Ceballos, constructor civil, María Pamela Mac-Guire Acevedo, arquitecta y Miguel Luis Bonifetti Dall'Orso, arquitecto, según informe de fecha 18 de diciembre de 2007, fijó monto provisional indemnización en $64.223.071.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
