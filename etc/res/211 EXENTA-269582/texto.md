@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA LAGUNA TORO
+
+Resolución exenta Nº 211 del 8 de febrero de 2008, resolvió clausura a partir esta fecha de estancia Laguna Toro, roles 5111-89 y 5111-85, propiedad de Sociedad Ganadera de la Patagonia Ltda. Queda prohibida entrada o salida animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en plazo 30 días corridos, desde fecha de la notificación esta resolución. Deberá comunicar al SAG fecha exacta de la aplicación del tratamiento para visita inspectiva que permita comprobar cumplimiento medida. Gastos aplicación medidas sanitarias son cargo de dueño, tenedor o internador animales.
+
+- Punta Arenas, 8 de febrero de 2008.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
