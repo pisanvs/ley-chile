@@ -1,0 +1,13 @@
+Por resolución exenta Nº 464, de 15 de febrero de 2008, de esta Subsecretaría, modifícase la resolución Nº 301, modificada por resolución Nº 321 ambas de 2008 y de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA, RUT Nº 70.791.800-4, domiciliada en Avenida Angamos Nº 601, Antofagasta, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las agregaciones de Jurel (Trachurus murphyi) en la III Región, temporada 2008" en el sentido de incorporar el siguiente numeral 5 ter, nuevo:
+
+"5 ter.- Sin perjuicio de lo dispuesto en el numeral anterior, las embarcaciones artesanales autorizadas a participar en la presente pesca de investigación, podrán extraer, con red de cerco, una cuota total de 5.000 toneladas del recurso Jurel, la cual será imputada a los límites máximos de captura autorizados a ser extraídos por el grupo de armadores cuya asociatividad se estableció mediante resolución Nº 59 de 2008, de esta Subsecretaría, correspondientes a la unidad de pesquería de Jurel V-IX regiones, para el período enero-marzo de 2007, según corresponda, establecidos mediante decreto exento Nº 1.789 de 2007, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La operación de las embarcaciones artesanales sobre la cuota antes indicada sólo se hará efectiva una vez agotada la respectiva fracción artesanal de la cuota global anual de captura del recurso Jurel asignada a la III Región para el período enero-octubre de 2008, establecida conforme al decreto exento Nº 1.788 de 2007, del Ministerio de Economía, Fomento y Reconstrucción.
+
+En el evento que la cuota antes señalada sea extraída antes del período autorizado, se deberán suspender las actividades autorizadas al amparo de la presente pesca de investigación.
+
+Los excesos en que se incurra, respecto de la cuota autorizada en virtud de este artículo, se imputarán a la cuota global anual de captura del recurso Jurel asignada a la III Región para el período noviembre-diciembre de 2008, establecida conforme al decreto exento Nº 1.788 de 2007, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La totalidad de las capturas efectuadas en el marco de la presente pesca de investigación deberán ser certificadas por una entidad auditora acreditada ante el Servicio Nacional de Pesca, de conformidad con lo dispuesto en el artículo 10 de la ley Nº 19.713, responsabilidad que deberá ser cumplida por el grupo de armadores cuya participación fue reconocida mediante resolución Nº 59 de 2008, antes individualizada."
+
+Valparaíso, 15 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
