@@ -1,0 +1,3 @@
+Por resolución exenta Nº 362, de 6 de febrero de 2008, modifícase el numeral 1º de la resolución exenta Nº 2.384 de 2001, de esta Subsecretaría, que autorizó a ALIMENTOS MARINOS S.A. para desarrollar actividades pesqueras un barco en construcción, en el sentido de señalar que el nombre de dicha nave es Génesis II.
+
+Valparaíso, 6 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
