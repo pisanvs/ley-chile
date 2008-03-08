@@ -1,0 +1,3 @@
+Por resolución exenta Nº 455, de 15 de febrero de 2008, de esta Subsecretaría, autorízase a LOS GLACIARES S.A. para ampliar actividades de transformación autorizadas por resolución citada en Visto, para incorporar a planta ubicada en Ruta V-815 kilómetro 5.2, Panitao, Puerto Montt, en líneas de proceso Harina y Aceite, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
