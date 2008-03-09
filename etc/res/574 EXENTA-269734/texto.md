@@ -1,0 +1,3 @@
+Por resolución exenta Nº 574, de 3 de marzo de 2008, de esta Subsecretaría, déjase sin efecto la resolución Nº 539, de 2004, de esta Subsecretaría, en virtud del artículo 59 de la Ley Nº 19.880. Recházase la solicitud de concesión de acuicultura Nº 202111022, presentada por SALMOCONCESIONES S.A., para un centro de cultivo ubicado en Seno Miller, Canal Jacaf, XI Región.
+
+Valparaíso, 3 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
