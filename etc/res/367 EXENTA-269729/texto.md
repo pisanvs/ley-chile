@@ -1,0 +1,9 @@
+Por resolución exenta Nº 367, de 6 de febrero de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 184, de 2008, de esta Subsecretaría que autorizó al CENTRO DE INVESTIGACIÓN, DESARROLLO Y CAPACITACIÓN EN CIENCIAS DEL MAR, MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la X Región, Subzona Islas de Calbuco", en el sentido de reemplazar el inciso 1º del numeral 5.- por el siguiente:
+
+"En cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer, en la subzona Islas de Calbuco, que comprende las áreas de operación de La Vega, Pollollo, Perhue, Isla Tabón, Isla Queullín, Isla Los Toros, San Agustín, Isla Huar, un límite de captura de Merluza del sur, ascendente a 847,286 toneladas, fraccionadas de la siguiente manera:
+
+77,005 toneladas para enero; 115,508 toneladas para febrero; 96,256 toneladas para marzo; 96,256 toneladas para abril; 77,005 toneladas para mayo; 38,503 toneladas para junio; 38,503 toneladas para julio; 77,005 toneladas para septiembre; 77,005 toneladas para octubre; 77,005 toneladas para noviembre; 77,235 toneladas para diciembre.
+
+En caso que las cuotas de los meses de febrero, marzo y abril no sean completadas y si el remanente no capturado es superior al 50% de la cuota mensual promedio anual, se podrán realizar faenas de pesca con cargo a dicho excedente para los meses de junio y julio, a petición de parte y por escrito, lo que deberá ser informado por el Director Regional de Pesca, quien comunicará a las partes".
+
+Valparaíso, 6 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
