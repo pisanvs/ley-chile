@@ -1,0 +1,3 @@
+Por resolución exenta Nº 593, de 3 de marzo de 2008, de esta Subsecretaría, autorízase a PESQUERA PACÍFICO SUR S.A. para continuar desarrollando las actividades pesqueras autorizadas a Pesquera Costa Afuera S.A. con las naves en construcción autorizadas mediante resoluciones exentas Nº 2.568, de 2001, y Nº 3.015, de 2003, ambas de esta Subsecretaría, en virtud de escritura pública y demás disposiciones legales citadas en la resolución extractada.
+
+Valparaíso, 3 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
