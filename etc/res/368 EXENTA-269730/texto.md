@@ -1,0 +1,9 @@
+Por resolución exenta Nº368, de 6 de febrero de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº116, de 2008, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la X Región, Zona Chiloé", en el sentido de reemplazar el inciso 1º del numeral 5.- por el siguiente:
+
+"En cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones participantes podrán extraer, en la Zona Chiloé, que comprende las áreas de operación de Los Toros, Coñimo, Linao, Llingua, Manao, Mechuque, Meulin, Tenaun, Teuquelin, Lliuco, Hueihue, Huelden, Aucho, Huite, Dalcahue, Isla Butachauques, Isla Tac, un límite de captura de Merluza del sur, ascendente a 1.461,834 toneladas, fraccionadas de la siguiente manera:
+
+132,858 toneladas para enero; 199,287 toneladas para febrero; 199,287 toneladas para marzo; 199,287 toneladas para abril; 66,429 toneladas para mayo; 66,429 toneladas para junio; 66,429 toneladas para julio; 132,858 toneladas para septiembre; 132,858 toneladas para octubre; 132,858 toneladas para noviembre; 133,254 toneladas para diciembre.
+
+En caso que las cuotas de los meses de febrero, marzo y abril no sean completadas y si el remanente no capturado es superior al 50% de la cuota mensual promedio anual, se podrán realizar faenas de pesca con cargo a dicho excedente para los meses de junio y julio, a petición de parte y por escrito, lo que deberá ser informado por el Director Regional de Pesca, quien comunicará a las partes".
+
+Valparaíso, 6 de febrero de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
