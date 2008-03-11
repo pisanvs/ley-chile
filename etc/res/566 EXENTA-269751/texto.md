@@ -1,0 +1,3 @@
+Por resolución exenta Nº566, de 3 de marzo de 2008, de esta Subsecretaría, autorízase a SANTANA Y COMPAÑÍA LIMITADA, para ampliar actividades de transformación autorizada por resolución citada en visto, para incorporar en planta ubicada Serrano Nº365, Mejillones, en líneas proceso de Cocido, Fresco, Enfriado, Fresco Refrigerado, Congelado, Conserva, Deshidratado, Seco Salado y Ahumado, recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 3 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
