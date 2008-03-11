@@ -1,0 +1,7 @@
+Por resolución exenta Nº 509, de 21 de febrero de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 3.787 de 2007, modificada mediante resolución exenta Nº 266 de 2008, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2007-04 denominado "Evaluación hidroacústica de reclutamiento Anchoveta y Sardina común entre la V y X Regiones, 2008", elaborados por el Fondo de Investigación Pesquera y aprobados por esta Subsecretaría, en los siguientes términos:
+
+a) En su numeral 4.-, en el sentido de indicar que el RPA de la embarcación "Samaritano", autorizada a operar en calidad de titular en faenas de pesca de identificación en el marco de la presente pesca de identificación, es el Nº11983, y no como allí se indica; y
+
+b) En sus numerales 4.- y 5.-, en el sentido de indicar que las embarcaciones artesanales autorizadas a participar en la presente pesca de investigación podrán operar en el área marítima de la Región a la que corresponda su inscripción en el Registro Pesquero Artesanal hasta el día 30 de marzo de 2008, inclusive.
+
+Valparaíso, 21 de febrero de 2008.- Hiram Villagra Castro, Subsecretario de Pesca (S).
