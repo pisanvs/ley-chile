@@ -1,0 +1,3 @@
+Por resolución exenta Nº614, de 3 de marzo de 2008, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 206101134 presentada por LESLIE EDITH STEVENSON CASTRO para el centro cultivo ubicado en Bahía Huenquillahue, al norte de Punta Ilque, X Región, otorgada por resolución Nº1.245 de 2005, de la Subsecretaría de Marina.
+
+Valparaíso, 3 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
