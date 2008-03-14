@@ -1,0 +1,3 @@
+Por resolución exenta Nº 491, de 19 de febrero de 2008, de esta Subsecretaría, autorízase a INVERSIONES COIHUIN LIMITADA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en camino rural Huelmo - Huatral, Km. 3, Puerto Montt, para elaborar en las líneas de proceso de Cocido, Fresco Refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 19 de febrero de 2008.- Hiram Villagra Castro, Subsecretario de Pesca (S).
