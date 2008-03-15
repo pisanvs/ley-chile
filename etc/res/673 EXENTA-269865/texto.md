@@ -1,0 +1,3 @@
+Por resolución exenta Nº 673, de 7 de marzo de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204022003 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS Y ASISTENTES MARISCADORES COMUNA DE MEJILLONES para instalar y operar un centro de cultivo ubicado en Bahía Mejillones, al sur de Punta Choros, II Región.
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
