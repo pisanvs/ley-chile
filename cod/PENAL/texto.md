@@ -108,7 +108,7 @@ Inciso Derogado.
 
 6.° El que obra en defensa de la persona y derechos de un extraño, siempre que concurran las circunstancias expresadas en el número anterior y la de que el defensor no sea impulsado por venganza, resentimiento u otro motivo ilegítimo.
 
-Se presumirá legalmente que concurren las circunstancias previstas en este número y en los números 4° y 5° precedentes, cualquiera que sea el daño que se ocasione al agresor, respecto de aquel que rechaza el escalamiento en los términos indicados en el número 1° del artículo 440 de este Código, en una casa, departamento u oficina habitados, o en sus dependencias o, si es de noche, en un local comercial o industrial y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 141, 142, 361, 365, inciso segundo, 390, 391, 433 y 436 de este Código.
+Se presumirá legalmente que concurren las circunstancias previstas en este número y en los números 4° y 5° precedentes, cualquiera que sea el daño que se ocasione al agresor, respecto de aquel que rechaza el escalamiento en los términos indicados en el número 1° del artículo 440 de este Código, en una casa, departamento u oficina habitados, o en sus dependencias o, si es de noche, en un local comercial o industrial y del que impida o trate de impedir la consumación de los delitos señalados en los artículos 141, 142, 361, 362, 365 bis, 390, 391, 433 y 436 de este Código.
 
 7.° El que para evitar un mal ejecuta un hecho, que produzca daño en la propiedad ajena, siempre que concurran las circunstancias siguientes:
 
@@ -192,9 +192,9 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 
 14.° Cometer el delito mientras cumple una condena o después de haberla quebrantado y dentro del plazo en que puede ser castigado por el quebrantamiento.
 
-15.° Haber sido castigado el culpable anteriormente por delitos a que la ley señale igual o mayor pena.
+15.° Haber sido condenado el culpable anteriormente por delitos a que la ley señale igual o mayor pena.
 
-16.° Ser reincidente en delito de la misma especie.
+16 ª Haber sido condenado el culpable anteriormente por delito de la misma especie.
 
 17.° Cometer el delito en lugar destinado al ejercicio de un culto permitido en la República.
 
@@ -984,15 +984,15 @@ Cuando la pena que mereciere el nuevo crimen o simple delito fuere otra menor, s
 
 #### Artículo 92
 
-Si el nuevo delito se cometiere después de haber cumplido una condena, habrá que distinguir tres casos:
+Si el nuevo delito se cometiere después de haberse impuesto una condena, habrá que distinguir tres casos:
 
 1.° Cuando es de la misma especie que el anterior.
 
-2.° Cuando es de distinta especie y el culpable ha sido castigado ya por dos o más delitos a que la ley señala igual o mayor pena.
+2.° Cuando es de distinta especie y el culpable ha sido condenado ya por dos o más delitos a que la ley señala igual o mayor pena.
 
-3.° Cuando siendo de distinta especie, el delincuente sólo ha sido castigado una vez por delito a que la ley señala igual o mayor pena, o más de una vez por delito cuya pena sea menor.
+3.° Cuando siendo de distinta especie, el delincuente sólo ha sido condenado una vez por delito a que la ley señala igual o mayor pena, o más de una vez por delito cuya pena sea menor.
 
-En los dos primeros casos el hecho se considera revestido de circunstancia agravante, atendido a lo que disponen los núms. 14 y 15 del art. 12, y en el último no se tomarán en cuenta para aumentar la pena los delitos anteriores.
+En los dos primeros casos el hecho se considera revestido de circunstancia agravante, atendido a lo que disponen los núms. 15 y 16 del art. 12, y en el último no se tomarán en cuenta para aumentar la pena los delitos anteriores.
 
 ## Título Quinto
 
@@ -2280,7 +2280,7 @@ Estarán exentas de las penas que establece este artículo las personas a que se
 
 #### Artículo 269 ter
 
-El fiscal del Ministerio Público que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
+El fiscal del Ministerio Público, o el abogado asistente del fiscal, en su caso, que a sabiendas ocultare, alterare o destruyere cualquier antecedente, objeto o documento que permita establecer la existencia o inexistencia de un delito, la participación punible en él de alguna persona o su inocencia, o que pueda servir para la determinación de la pena, será castigado con presidio menor en cualquiera de sus grados e inhabilitación especial perpetua para el cargo.
 
 ### III. De la rotura de sellos
 
@@ -3616,7 +3616,7 @@ En estos delitos no podrá estimarse que concurre la circunstancia atenuante del
 
 A.
 
-El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato, o las compre, venda o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a veinte unidades tributarias mensuales.
+El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder, a cualquier título, especies hurtadas, robadas u objeto de abigeato, de receptación o de apropiación indebida del artículo 470, número 1°, las transporte, compre, venda, transforme o comercialice en cualquier forma, aun cuando ya hubiese dispuesto de ellas, sufrirá la pena de presidio menor en cualquiera de sus grados y multa de cinco a cien unidades tributarias mensuales.
 
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
 
