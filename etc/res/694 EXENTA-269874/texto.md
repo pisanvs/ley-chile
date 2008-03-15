@@ -1,0 +1,3 @@
+Por resolución exenta Nº 694, de 7 de marzo de 2008, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 206104017 presentada por TRUSAL S.A. el centro de cultivo ubicado al sur de Punta Caicaén, Isla Calbuco, X Región, transferido a la peticionaria por resolución Nº 2.153, de 2001, rectificada por resolución Nº1.688, de 2003, ambas de la Subsecretaría de Marina.
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
