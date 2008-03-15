@@ -1,0 +1,3 @@
+Por resolución exenta Nº 693, de 7 de marzo de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206101078 presentada por JUAN CARLOS GONZÁLEZ MANCILLA, Arturo Segisfredo Vera Alvear, Edesio Salvador González Sánchez, José Leonidas González Mansilla, Jimena del Pilar González Vera y Ana Arsenia González Vera, para instalar y operar un centro de cultivo ubicado en río Cululil, al este de Banco de Las Nutrias, X Región.
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
