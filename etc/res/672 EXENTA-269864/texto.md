@@ -1,0 +1,3 @@
+Por resolución exenta Nº 672, de 7 de marzo de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111120 presentada por Inversiones Concoto Limitada, hoy PESQUERA LOS FIORDOS LIMITADA para instalar y operar un centro de cultivo ubicado en Canal Sin Nombre, Isla Chaffers, sector costa noreste, X Región.
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
