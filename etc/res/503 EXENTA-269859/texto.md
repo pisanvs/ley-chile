@@ -1,0 +1,3 @@
+Por resolución exenta Nº 503, de 20 de febrero de 2008, de esta Subsecretaría, autorízase a ALIMENTOS CUISINE SOLUTIONS CHILE S.A. para ampliar actividades de transformación autorizadas por resolución citada en visto, para incorporar a planta ubicada en camino Puerto Montt, Pargua, Ruta 5 Sur, Km. 1029, Puerto Montt, en líneas de proceso Cocido, Fresco Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en resolución extrac-tada.
+
+Valparaíso, 20 de febrero de 2008.- Hiram Villagra Castro, Subsecretario de Pesca (S).
