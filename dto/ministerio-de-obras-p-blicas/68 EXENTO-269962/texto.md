@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº 68 de 26 de febrero de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para Servilampa S.A., los lotes de terreno Nº 1 y 2 para la obra: "Construcción Agua Potable de Lampa, Pozo Nº 6", que figuran a nombre de Sala Srradell Joaquín Enrique, rol de avalúo 61-753, Comuna de Lampa, Región Metropolitana, superficies 173,6 y 174,1 M2.
+
+respectivamente. La Comisión de Peritos, fijó con fecha 26 de octubre de 2007, en la cantidad de $739.312.- para el lote N1 1 y $741.442.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
