@@ -1,0 +1,5 @@
+Por decreto MOP Nº 958 de 31 de diciembre de 2007, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió los lotes de terreno Nº s 1, 2, 3 y 4, para la obra: Camino Diagonal, Sector Nudo San José de Lo Arcaya, que figuran a nombre de Vallejos Benítez Rafael, Vallejos Benítes Rafael, Lira Moyano María, roles de avalúo 164-363, 164- 362, 164-18, Comuna de Colina, Región Metropolitana, superficies 43, 1.515, 1.338, 2.170 m2., respectivamente. La Comisión de Peritos, fijó con fecha 15 de abril de 2006 en la cantidad de $984.100.- para el lote Nº 1; $19.247.500.- para el lote Nº 2;
+
+$11.988.600.- para el lote Nº 3 y $19.970.000.- para el lote Nº 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
