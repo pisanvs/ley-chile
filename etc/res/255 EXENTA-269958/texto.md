@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE PLANTEL PARCELA Nº 5, GENTE GRANDE
+
+Resolución exenta Nº 255, de 28 de febrero de 2008, resolvió la clausura a partir de esta fecha del Plantel Parcela Nº 5, Gente Grande de propiedad de Sucesión María Edita Barbour Nielsen, Rol 620-020, ubicado en la provincia de Tierra del Fuego. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparásito a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
