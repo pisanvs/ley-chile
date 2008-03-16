@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA MARÍA OLVIDO
+
+Resolución Nº 245 exenta del 26 de febrero de 2008, resolvió la Clausura a partir de esta fecha de Estancia María Olvido de propiedad de Suc. Bartolomé González, Roles 5126-17, ubicada en la provincia de Magallanes. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una vista inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales. Punta Arenas, 22 de febrero de 2008.
+
+Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
