@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA LOLITA
+
+Resolución exenta Nº 249, de 26 de febrero de 2008, resolvió la clausura a partir de esta fecha de Estancia Lolita de propiedad de la Sra. Rosemarie Dübrock W., Rol 5106-02 ubicado en la provincia de Magallanes. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una vista inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales. Punta Arenas, 25 de febrero de 2008.
+
+Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
