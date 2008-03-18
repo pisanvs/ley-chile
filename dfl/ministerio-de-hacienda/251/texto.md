@@ -142,6 +142,12 @@ La contratación de seguros con compañías no establecidas en el país estará 
 
 Además, las compañías de seguros y reaseguros, podrán tomar sobre sí el riesgo de pérdida patrimonial que, las entidades prestadoras de los beneficios contemplados en las leyes Nºs 16.744, 18.469, 18.833 y 18.933, asuman con motivo de las prestaciones que otorguen.
 
+Las entidades aseguradoras podrán constituir filiales como sociedades Administradoras de Fondos de Pensiones, las que se sujetarán en todo a las normas establecidas en el decreto ley Nº 3.500, de 1980. En este sentido, se constituirán como sociedades anónimas especiales a las que se refiere el Título XIII de la ley Nº 18.046, de Sociedades Anónimas, y quedarán sujetas a la fiscalización de la Superintendencia de Pensiones.
+
+Las filiales de compañía de seguros constituidas como Administradoras de Fondos de Pensiones deberán observar estrictamente el giro exclusivo al cual se refiere el artículo 23 del decreto ley Nº 3.500, de 1980, quedándoles prohibido ofrecer u otorgar bajo circunstancia alguna, ya sea directa o indirectamente, ni aun a título gratuito, cualquier otro servicio o producto que resulte ajeno a su giro exclusivo.
+
+La compañía de seguros matriz de una Administradora de Fondos de Pensiones no podrá subordinar el otorgamiento de los servicios o productos propios de su giro a la afiliación, incorporación o permanencia de una persona en la sociedad Administradora de Fondos de Pensiones de la cual es matriz. Igualmente, no podrá supeditar el otorgamiento de condiciones más favorables en razón de tales circunstancias.
+
 #### Artículo 4° bis
 
 No obstante lo dispuesto en el artículo anterior, las compañías constituidas en el extranjero podrán establecer una sucursal en el país, para lo cual deberán establecerse como una agencia del Título XI de la ley N° 18.046 y obtener la autorización señalada en el Título XIII de la misma ley.
@@ -886,7 +892,9 @@ Los corredores de seguros son auxiliares del comercio de seguros, que deben ases
 
 Los corredores deberán entregar a todos sus clientes información respecto de la diversificación de sus negocios y de las compañías con que trabajen, en la forma que determine la Superintendencia.
 
-Queda prohibido a las compañías de seguros entregar, directa o indirectamente, a los corredores que intermedien contratos de seguros previsionales a que se refiere el decreto ley N° 3.500, de 1980, incentivos que se determinen en función del volumen intermediado de dicho tipo de seguros con cada una de ellas.
+Para la intermediación de seguros previsionales se requerirá la inscripción en el registro de Asesores Previsionales a que se refiere el Título XVII del decreto ley N° 3.500, de 1980. Dichos intermediarios quedarán sujetos a las exigencias y requisitos que para los Asesores Previsionales se establecen en el mencionado decreto ley.
+
+Queda prohibido a las compañías de seguros entregar, directa o indirectamente, a los asesores previsionales que intermedien contratos de seguros previsionales a que se refiere el decreto ley N° 3.500, de 1980, incentivos que se determinen en función del volumen intermediado de dicho tipo de seguros con cada una de ellas.
 
 Las compañías de seguros podrán ofrecer, cotizar y convenir contratos de seguro, utilizando los mecanismos continuos de subasta pública de las entidades que autorice la Superintendencia y que se regirán por las normas que ésta determine.
 
@@ -900,9 +908,9 @@ a) ser chileno o extranjero radicado en Chile con carnet de extranjería al día
 
 b) tener intachables antecedentes comerciales;
 
-c) acreditar los conocimientos suficientes sobre el comercio de seguros, en la forma y periodicidad +++++que disponga la Superintendencia mediante norma general y, además, estar en posesión de licencia de educación media o estudios equivalentes;
+c) acreditar los conocimientos suficientes sobre el comercio de seguros, en la forma y periodicidad que disponga la Superintendencia mediante norma general y, además, estar en posesión de licencia de educación media o estudios equivalentes;
 
-d) constituir una garantía, mediante boleta bancaria o la contratación de una póliza de seguro que determine la Superintendencia por un monto no inferior a la suma más alta entre 500 unidades de fomento o el 30% de la prima neta de los contratos de seguros intermediados en el año inmediatamente anterior, con un máximo de 60.000 unidades de fomento, para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad y, especialmente, de los perjuicios que puedan ocasionar a los asegurados que contraten por su intermedio. Sin embargo, tratándose de primas provenientes de seguros de renta vitalicia, el porcentaje que se usará para determinar la suma señalada será de un 30% de las primeras 15.000 unidades de fomento de prima por dichas rentas y sólo de un 10% por el exceso sobre esta cifra, y
+d) constituir una garantía, mediante boleta bancaria o la contratación de una póliza de seguro que determine la Superintendencia por un monto no inferior a la suma más alta entre 500 unidades de fomento o el 30% de la prima neta de los contratos de seguros intermediados en el año inmediatamente anterior, con un máximo de 60.000 unidades de fomento, para responder del correcto y cabal cumplimiento de todas las obligaciones emanadas de su actividad y, especialmente, de los perjuicios que puedan ocasionar a los asegurados que contraten por su intermedio.
 
 e) En el caso de las personas jurídicas, haberse constituido legalmente en Chile con este objeto específico y acreditar la contratación de la garantía a que se refiere la letra precedente. Además, sus administradores y representantes legales deberán reunir los requisitos exigidos precedentemente, salvo el de la letra anterior, y no registrar las inhabilidades previstas en esta ley. Los administradores, representantes legales o empleados de la persona jurídica no podrán ejercer en forma independiente el corretaje de seguros, ni trabajar para una compañía de seguros ni para otra persona dedicada al corretaje de seguros.
 
