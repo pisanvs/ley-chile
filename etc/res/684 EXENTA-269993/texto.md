@@ -1,0 +1,3 @@
+Por resolución exenta Nº 684, de 7 de marzo de 2008, de esta Subsecretaría, autorízase a PESQUERA SAN JOSÉ S.A. para ampliar actividades extractivas con la nave "San José", en el área marítima correspondiente a islas de Pascua, Sala y Gómez, Desventuradas y Archipiélago de Juan Fernández, con el arte de cerco, sobre el recurso hidrobiológico Jurel de Juan Fernández.
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
