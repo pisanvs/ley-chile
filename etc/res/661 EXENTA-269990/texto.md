@@ -1,0 +1,3 @@
+Por resolución exenta Nº 661, de 7 de marzo de 2008, de esta Subsecretaría, modifícase el numeral 5.- de la resolución Nº 470 de 2008, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, región Arica - Parinacota, Tarapacá y Antofagasta 2008", en el sentido de incorporar a la embarcación artesanal "Mary Paz II".
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
