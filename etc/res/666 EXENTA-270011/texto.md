@@ -1,0 +1,3 @@
+Por resolución exenta Nº 666, de 7 de marzo de 2008, de esta Subsecretaría, autorízase a COMPAÑÍA PESQUERA CAMANCHACA S.A. para ampliar actividades de transformación autorizadas por resoluciones citadas en Visto, para incorporar a planta ubicada en Diego de Almeyda Nº 1003, Caldera, III Región, en línea de proceso Conserva, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
