@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.778, DE 19.02.2008, DE LA DIRECCIÓN NACIONAL DE ADUANAS, QUE MODIFICA DISPOSICIONES DEL CAPÍTULO III DEL COMPENDIO DE NORMAS ADUANERAS, RELATIVAS AL TRÁMITE DE LAS DECLARACIONES QUE AMPAREN MERCANCÍAS QUE SE ENCUENTRAN EN PRESUNCIÓN DE ABANDONO
+
+No procederá aceptar a trámite una declaración que ampare mercancías que se encuentran en presunción de abandono por vencimiento del plazo de depósito, y en el evento de haber sido aceptada a trámite, se debe proceder a su invalidación de conformidad al artículo 92 de la Ordenanza de Aduanas. Esta limitación no será exigible para aceptar a trámite una declaración de redestinación a zona franca para mercancías en presunción de abandono, previo pago del recargo establecido en el artículo 154 de la Ordenanza de Aduanas, efectuado el cálculo hasta la fecha en que se procederá al retiro de las mercancías. Esta mercancía no puede continuar su almacenamiento en la Aduana de redestino.
+
+Texto íntegro de la resolución citada se encuentra en la página web del Servicio Nacional de Aduanas (www.aduana.cl).
