@@ -8,7 +8,7 @@ Decreto:
 
 #### Artículo 1º
 
-El régimen de prestaciones de crédito social, en adelante el régimen, que podrán establecer las Cajas de Compensación de Asignación Familiar, en adelante las Cajas, en conformidad a lo dispuesto en el artículo 30º del decreto con fuerza de ley Nº 42, de la Subsecretaría de Previsión Social del Ministerio del Trabajo y Previsión Social, publicado el 24 de Julio de 1978, se regirá por las disposiciones de éste, por el presente reglamento y por el reglamento particular de cada una de las Cajas que establezca el régimen.
+El régimen de prestaciones de crédito social, en adelante el régimen, que podrán establecer las Cajas de Compensación de Asignación Familiar, en adelante las Cajas, en conformidad a lo dispuesto en la ley Nº 18.833 y el artículo 16 de la ley Nº 19.539, se regirá por las disposiciones de dichos cuerpos legales, por el presente reglamento y por el reglamento particular de cada una de las Cajas que establezca el régimen.
 
 #### Artículo 2º
 
@@ -20,13 +20,17 @@ Las prestaciones del régimen consistirán en préstamos en dinero.
 
 #### Artículo 4º
 
-Los préstamos podrán ser otorgados para finalidades relacionadas con necesidades del trabajador afiliado y de sus causantes de asignación familiar relativas a viviendas, bienes de consumo durables, trabajo, educación, salud, recreación, contingencias familiares y otras necesidades de análoga naturaleza.
+Los préstamos podrán ser otorgados para las finalidades relacionadas con las necesidades del trabajador y del pensionado afiliados, y de sus causantes de asignación familiar, relativas a:
 
-No obstante, las Cajas no podrán otorgar préstamos para la adquisición de inmuebles, salvo para la complementación de ahorro previo.
+a) Bienes de consumo durables, trabajo, educación, salud, recreación, ahorro previo para la adquisición de viviendas, contingencias familiares y otras necesidades de análoga naturaleza, como asimismo para la reparación de viviendas. El plazo de restitución de estos préstamos no podrá exceder de siete años.
+
+b) Préstamos destinados a la adquisición de viviendas. El plazo de restitución de estos préstamos no podrá exceder de treinta años.
+
+Corresponderá a la Superintendencia de Seguridad Social impartir las instrucciones para el otorgamiento de los préstamos del régimen.
 
 #### Artículo 5º
 
-Podrán ser beneficiarios del régimen los trabajadores afiliados a una Caja de Compensación de Asignación Familiar.
+Podrán ser beneficiarios del régimen los trabajadores y pensionados afiliados a una Caja de Compensación de Asignación Familiar.
 
 #### Artículo 6º
 
@@ -40,9 +44,11 @@ empresa para su obtención;
 
 3.- Capacidad económica del solicitante para su restitución;
 
-4.- Plazos y cauciones, y
+4.- Plazos, períodos de gracia y cauciones. Tratándose de los préstamos de la letra b) del artículo 4º de este Reglamento, se deberá contemplar la obligación de contar con una garantía hipotecaria de la vivienda que se adquiere;
 
-5.- Criterios para la fijación de las tasas de interés.
+5.- Criterios para la fijación de las tasas de interés de acuerdo con los tipos de crédito establecidos en el artículo 4º, y
+
+6. Los seguros que correspondan conforme a los tipos de crédito señalados en el artículo 4º.
 
 #### Artículo 7º
 
@@ -50,9 +56,9 @@ DEROGADO
 
 #### Artículo 8º
 
-Los préstamos que se otorguen en virtud de este reglamento estarán afectos a reajustes e intereses, según proceda, conforme a las normas contenidas en el D.L. Nº 455, de 1974, y sus modificaciones posteriores.
+Los préstamos que se otorguen en virtud de este reglamento estarán afectos a reajustes e intereses, según proceda, conforme a las normas contenidas en la ley Nº 18.010.
 
-Los plazos de restitución de los préstamos no podrán exceder de cinco años.
+INCISO DEROGADO.
 
 #### Artículo 9º
 
@@ -66,13 +72,15 @@ El otorgamiento de las prestaciones del régimen corresponde al gerente general 
 
 Lo adeudado por prestaciones de crédito social a una Caja por un trabajador afiliado, deberá ser deducido de la remuneración por la empresa afiliada, retenido y remesado a la Caja acreedora, y se regirá por las mismas normas de pago y de cobro que las cotizaciones.
 
+Las entidades pagadoras de pensiones deberán descontar de las pensiones de los pensionados afiliados a una Caja de Compensación lo adeudado por éstos, por concepto de crédito social, y enterarlo en aquélla dentro de los diez primeros días del mes siguiente al de su descuento. Al respecto, regirán las mismas normas de pago y de cobro de las cotizaciones previsionales.
+
 #### Artículo 12º
 
 Las prestaciones del régimen se financiarán con cargo al Fondo Social de la correspondiente Caja.
 
 #### Artículo 13º
 
-Desde la publicación del presente Reglamento, las Cajas sólo podrán conceder prestaciones de crédito social, en conformidad a las normas en él contenidas, y a las que establezcan en el Reglamento particular de cada Caja.
+Desde la publicación del presente Reglamento, las Cajas sólo podrán conceder prestaciones de crédito social, en conformidad a las normas en él contenidas, a las que establezcan en el Reglamento particular de cada Caja y a las instrucciones de la Superintendencia de Seguridad Social.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda, de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Vasco Costa Ramírez, Ministro del Trabajo y Previsión Social.
 
