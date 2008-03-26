@@ -1532,7 +1532,7 @@ Serán también materia de examen la suficiencia y eficacia de las segregaciones
 
 En lo que toca a la administración del riesgo de crédito, se evaluarán los mecanismos y técnicas de detección, acotamiento y reconocimiento oportuno de los riesgos que a sume la entidad en el desarrollo de sus actividades de crédito. En este ámbito, es clave la capacidad de la entidad para mantener permanentemente bien clasificada su cartera, su dominio sobre los factores de riesgo asociados a sus operaciones y su disposición para reconocer en forma oportuna en sus resultados los riesgos individuales de crédito a que está expuesta, como también su capacidad para limitar los riesgos de concentración de la cartera en general.
 
-Asociado a lo anterior, constituye también un aspecto relevante de la evaluación, el examen de la cobertura y profundidad de la información acerca de los deudores, tanto aquella referida a su comportamiento de pago como a sus condiciones financieras generales.
+Asociado a lo anterior, constituye también un aspecto relevante de la evaluación, el examen de la cobertura y profundidad de la información acerca de los deudores, tanto aquella referida a su comportamiento de pago incluyendo la adecuada administración de su cuenta corriente en el banco, como a sus condiciones financieras generales.
 
 En relación con lo descrito precedentemente, una buena gestión puede manifestarse, por ejemplo, en circunstancias tales como:
 
@@ -1553,6 +1553,8 @@ En relación con lo descrito precedentemente, una buena gestión puede manifesta
 - Los sistemas de información permiten hacer un seguimiento continuo de la exposición a los riesgos. Poseen la cobertura y profundidad necesarias para servir en forma eficiente al proceso de toma de decisiones.
 
 - Las auditorías internas cubren con una adecuada identificación, cuantificación y priorización, los distintos riesgos relacionados con las colocaciones.
+
+- La entidad mantiene sanas prácticas de administración financiera que comprenden la plena identificación, medición y control de todos los riesgos de sus clientes y de los productos que estos contratan y de aquellos que unilateralmente entrega el banco como, por ejemplo, en el caso de la aprobación de sobregiros no pactados. Estos se documentan adecuadamente, se constituyen los resguardos necesarios y se evalúa la continuidad del contrato de cuenta corriente cuando un cliente los ocasiona en forma reiterada.
 
 3.2. Gestión del riesgo financiero y operaciones de tesorería.
 
@@ -1690,7 +1692,9 @@ Es también parte de este examen, comprobar si la función de auditoría es sufi
 
 A modo de ejemplo, revelan una buena gestión sobre la materia, los siguientes aspectos:
 
-- Políticas y procedimientos formalmente establecidos, que consideren aspectos tales como la gestión de los reclamos, la existencia de canales formales de recepción de reclamos, la atención de consultas y solicitudes del público, la existencia de código de buenas prácticas comerciales, la capacitación al personal, la entrega de normas y procedimientos para la administración de los fraudes y de otros hechos delictuosos, como asimismo la política de divulgación de la información, especialmente de aquella referida a los productos y sus tarifas.
+- Políticas y procedimientos formalmente establecidos de transparencia de la información referida a los atributos de los productos y sus tarifas, de modo que cumplan las condiciones necesarias para una adecuada toma de decisiones por parte de los clientes. Lo anterior comprende la información entregada tanto al inicio de la relación comercial con el cliente, como durante todo el período que dure la relación contractual con este.
+
+- Políticas y procedimientos formalmente establecidos, que consideren aspectos tales como la gestión de los reclamos, la existencia de canales formales de recepción de reclamos, la atención de consultas y solicitudes del público, la existencia de código de buenas prácticas comerciales, la capacitación al personal, la entrega de normas y procedimientos para la administración de los fraudes y de otros hechos delictuosos.
 
 - La existencia y funcionamiento de unidades especializadas que cuenten con las herramientas y los recursos humanos y tecnológicos adecuados al tamaño del banco para administrar eficientemente las consultas y los reclamos del público.
 
@@ -2204,9 +2208,15 @@ Los principios generales para la fijación de las tarifas por los productos o se
 
 a) Las instituciones disponen en general de libertad para fijar el monto de las comisiones e intereses que cobran por las operaciones y servicios bancarios, con las excepciones consignadas en la normativa, entre las que se incluyen: el límite a los intereses contemplado en la Ley 18.010; el límite a los gastos por cobranza extrajudicial contemplado en la Ley N° 19.659 que modificó la Ley del Consumidor; y las costas procesales y personales fijadas en juicio por un tribunal contra el deudor.
 
-b) Las instituciones deben ser plenamente transparentes frente a sus clientes. Las exigencias mínimas sobre información al público están contenidas en la Circular N°3.267 del 13 de abril de 2004.
+b) Las instituciones deben ser plenamente transparentes frente a sus clientes. Las exigencias mínimas sobre información al público están contenidas en la Circular N°3.267 del 13 de abril de 2004 y en el Capítulo 18-14 de esta Recopilación Actualizada de Normas.
 
 c) Las comisiones y gastos que se cobren deben corresponder a servicios reales efectivamente acordados y prestados.
+
+d) El cliente debe ser informado de todos los costos por concepto de comisiones y gastos que se asocian al producto o servicio contratado. Asimismo, debe ser informado si determinados productos están asociados al producto principal (cuenta corriente, cuenta vista, tarjeta de crédito, etc.) a fin de que exprese su consentimiento explícito al contratarlo como es el caso, por ejemplo, de la línea de crédito asociada a la cuenta corriente.
+
+e) Los servicios de la esencia del producto como norma general, sólo podrán remunerarse por medio de la comisión de administración anual. A modo de ejemplo, tratándose de un producto que opera a través de giros y/o depósitos, el banco no podrá cobrar por dichos giros o depósitos una comisión distinta de la de administración anual, aun cuando esas operaciones se efectúen por medios electrónicos. Lo anterior, sin perjuicio de la segmentación de clientes que cada entidad resuelva efectuar, y su consecuente tarificación.
+
+Los servicios adicionales que faciliten las prestaciones de una cuenta corriente pueden ser remunerados con comisiones, siempre que ellos sean aceptados voluntariamente por el cliente y el cobro de esas comisiones se asocie a la mantención de los sistemas utilizados para proveer esos servicios y no a las transacciones.
 
 2.- Operaciones de los bancos que generan el cobro de intereses o comisiones.
 
@@ -2242,15 +2252,15 @@ En las cuentas corrientes bancarias, como se indica en el Capítulo 2-2 de esta 
 
 Sin perjuicio de la comisión mencionada en el párrafo precedente, en las operaciones de crédito que efectúen los clientes en sus cuentas corrientes, es claro que se puede cobrar comisión por la apertura de crédito que el banco realiza en beneficio del cliente y a su pedido. Pero esta comisión también debe ser por períodos no inferiores a aquellos pactados para la vigencia de la línea de crédito, ya que el estudio que le significa al banco la conducta y situación patrimonial del cliente no varía todos los días.
 
-En lo que se refiere al cobro de comisiones por el pago de cheques por sobregiros no contratados, los bancos librados pueden aplicar una comisión por un determinado número de sobregiros en cada mes, o bien una comisión por incidente con un máximo por mes u otro procedimiento o modalidad similar que el Directorio del banco establezca, de manera de regular con la debida prudencia los montos que resulten.
-
-En general, tratándose de servicios propios del manejo de una cuenta corriente, no corresponde el cobro de comisión por la entrega del estado de saldo a que se refiere el artículo 4° de la Ley sobre Cuentas Corrientes Bancarias y Cheques, la entrega de talonarios de cheques, el protesto de cheques, como tampoco es procedente hacerlo por su aclaración y por otros actos que sean propios de la cuenta corriente y que deban realizarse en cumplimiento de las disposiciones legales que la rigen.
+En general, tratándose de servicios propios del manejo de una cuenta corriente, no procederá el cobro de comisiones distintas a la comisión de administración anual como, por ejemplo, por efectuar depósitos y giros de cheques o por el uso de cualquier otro medio, incluidos los electrónicos; por la entrega del estado de saldo a que se refiere el artículo 40 de la Ley sobre Cuentas Corrientes Bancarias y Cheques; por la entrega de talonarios de cheques; por el número de cheques presentados a cobro, por las órdenes de no pago o por el protesto de cheques, como tampoco es procedente hacerlo por su aclaración y por otros actos que sean propios de la cuenta corriente y que deban realizarse en cumplimiento de las disposiciones legales que la rigen. Para las demás operaciones que no sean propias o normales de la cuenta, las partes podrán pactarlos o excluirlos del producto contratado y su remuneración podrá ser pactada por cada evento, tales como la remisión de talonarios a domicilio.
 
 5.- Comisiones sobre tarjetas de crédito, de débito y de cajero automático.
 
 El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija se ha calculado, determinado y comunicado al cliente, considerando todos los costos que son propios del servicio ofrecido.
 
-Lo indicado en el párrafo anterior no es óbice para cobrar los montos variables que se originen por las transacciones realizadas en el exterior.
+La comisión deberá fijarse por períodos no inferiores a un semestre y su plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará el cambio de tarifa o la nueva base para su cálculo.
+
+Lo indicado en este número no es óbice para cobrar los montos variables que se originen por las transacciones realizadas en el exterior.
 
 6.- Gastos por otros conceptos ligados a operaciones bancarias.
 
@@ -2260,7 +2270,7 @@ En cambio, no procede el cobro de gastos de franqueo o de despacho de la corresp
 
 7.- Rol del Directorio.
 
-El Directorio del banco deberá fijar las orientaciones y políticas de la institución, para el cumplimiento de los principios y criterios enunciados en estas normas y establecer las instancias en las que se radicarán las responsabilidades atingentes a la debida observancia de ellas.
+El Directorio del banco deberá fijar las orientaciones y políticas de la institución, para el cumplimiento de los principios y criterios enunciados en estas normas y establecer las instancias en las que se radicarán las responsabilidades atingentes a la debida observancia de ellas. Se entiende que es parte de las funciones del Directorio estar informado por parte del Comité de Auditoría del debido cumplimiento de las normas contenidas en este Capítulo.
 
 8.- Cumplimiento de estas normas.
 
@@ -2670,13 +2680,19 @@ Cada vez que se realice un cargo a una cuenta corriente por cualquier causa dist
 
 Los bancos que decidan cobrar comisiones por el manejo de cuentas corrientes, deberán atenerse a las siguientes instrucciones:
 
-a) Cada banco podrá fijar libremente tanto la modalidad que aplicará en el cobro de comisiones por el manejo de cuentas corrientes, como el monto que por ese concepto cobrará a los respectivos titulares de cuentas corrientes; y,
+a) Cada banco podrá fijar libremente, tanto la oportunidad en que aplicará el cobro de comisiones por la mantención de cuentas corrientes, como el monto que por ese concepto cobrará a los respectivos titulares de cuentas corrientes;
 
-b) El plan de cobro de comisiones que los bancos establezcan, no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación y sólo podrá ser aplicado después de haber dado cumplimiento a lo dispuesto en el numeral 5.2 siguiente.
+b) La comisión deberá fijarse por períodos no inferiores a un semestre y comprenderá todos los cobros necesarios para la mantención operativa de la cuenta corriente en sus distintas modalidades de uso. Para los efectos de dar una adecuada transparencia al público, los bancos deberán indicar los servicios comprendidos dentro de la señalada comisión de mantención, como se indica en la letra e) de este numeral;
+
+c) El banco deberá informar por escrito a cada cliente, a lo menos una vez al año, de las comisiones cobradas mensualmente por cada servicio que haya utilizado. La comunicación deberá ser auto-explicativa a fin de que haya completa claridad de cada concepto de cobro efectuado;
+
+d) El plan de cobro de comisiones que los bancos establezcan, no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación y sólo podrá ser aplicado después de haber dado cumplimiento a lo dispuesto en el numeral 5.2 siguiente; y,
+
+e) Acorde con lo dispuesto en el Capítulo 18-14 de esta Recopilación la información que se entregue sobre la comisión que se cobre por la administración de cuentas corrientes debe especificar también los servicios que se incluyen en esa comisión, pudiendo contemplarse al respecto distintas combinaciones o composiciones de productos, recomendándose, en todo caso, establecer siempre un plan básico que incluya a lo menos los servicios esenciales inherentes al manejo de una cuenta corriente.
 
 5.2. Aviso a los cuentacorrentistas.
 
-El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos quince días antes de que comience a operar. La comunicación podrá enviarse en papel o por correo electrónico, según lo prefiera el cuentacorrentista. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
+El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos dos meses antes de que comience a operar. La comunicación podrá enviarse en papel o por correo electrónico, según lo prefiera el cuentacorrentista. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
 
 ### 6. Pago de intereses en cuenta corriente
 
@@ -7414,7 +7430,9 @@ Estos sobregiros pueden obedecer a una modalidad de crédito previamente acordad
 
 De acuerdo con lo dispuesto por el Banco Central de Chile en el Capítulo III.G.3 del Compendio de Normas Financieras, los bancos están facultados para conceder sobregiros en cuentas corrientes sin que medie un pacto previo.
 
-La concesión de esos sobregiros se sujetará al cumplimiento de las disposiciones generales relativas al otorgamiento de créditos, como asimismo a las políticas y procedimientos internos que permitan una adecuada administración de los riesgos de crédito que se asumen.
+Esta Superintendencia considera que una adecuada administración de la cuenta corriente po*r parte de su titular no debería generar estos sobregiros, por lo que los bancos deben darle el carácter de situaciones de excepción y no de un producto que genere comisiones, y ejercer una estrecha vigilancia sobre la frecuencia con la que el cuentacorrentista incurre en ellos y los montos envueltos en los respectivos eventos.
+
+La concesión de esos sobregiros se sujetará al cumplimiento de políticas específicas de prudencia que debe adoptar el banco, sin perjuicio de las disposiciones generales relativas al otorgamiento de créditos, como asimismo a procedimientos internos que permitan una adecuada administración de los riesgos de crédito que se a sumen en conjunto con las demás obligaciones del respectivo deudor. En todo caso, es preciso recordar que el registro contable de estas operaciones debe ser concordante con la suficiencia del respaldo documentario que el banco debe tener como acreedor para exigir su cobro judicial.
 
 3. Sobregiros pactados. Condiciones que debe cumplir el pacto.
 
@@ -7431,6 +7449,8 @@ d) garantías que respaldan la operación; y,
 e) interés pactado y períodos en que se cobrará.
 
 Además el beneficiario de un crédito de esta naturaleza deberá suscribir un pagaré en favor de la entidad bancaria.
+
+Si, como consecuencia de la modificación de las comisiones por la administración de la cuenta corriente, el titular cierra la cuenta, el banco deberá otorgarle las facilidades de pago necesarias, como por ejemplo un crédito por el monto correspondiente al saldo utilizado de la línea de sobregiro pactado, a fin de permitir al titular de la cuenta optar por su permanencia o retiro como cliente del banco.
 
 ### 4. Intereses
 
@@ -7449,6 +7469,10 @@ En todo caso, los intereses que se cobren por los sobregiros en cuentas corrient
 Al acordar los montos de las líneas de crédito o márgenes para sobregiros, los bancos deben prevenir que su posterior utilización por la sola voluntad del titular de la cuenta, no produzca excesos con respecto a los límites del artículo 84 de la Ley General de Bancos. Si bien esa disposición legal se infringe, en el caso de las cuentas corrientes, al momento en que se origina un giro sin existir fondos disponibles que, sumado a los créditos ya otorgados, supera el límite, es conveniente, para evitar esa situación, considerar siempre el importe pactado como si fuese un monto ya utilizado, puesto que el solo cumplimiento del pacto podría originar una infracción por el exceso, especialmente si con posterioridad se otorgan otros créditos o se liberan garantías.
 
 Por otra parte, debe tenerse presente que los sobregiros que se cubren dentro del mismo día en que se originan, también quedan sujetos al cumplimiento del artículo 84 de la Ley General de Bancos, desde el momento en que se paga un cheque o giro con cargo a una cuenta que carece de fondos disponibles.
+
+### 6. Disposición transitoria
+
+Los bancos dispondrán de un plazo no superior al 1 de enero de 2009 para encuadrarse completamente en las disposiciones del N° 2 de este Capítulo.
 
 CAPITULO 8-3 (Bancos)
 
@@ -21253,6 +21277,74 @@ c) La entidad bancaria no podrá participar en la entrega de bienes o servicios 
 d) En las promociones que realicen las empresas bancarias y en cualquier información relativa a los incentivos ofrecidos que dirijan a sus clientes como al público en general, deberá señalarse en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole a la entidad financiera intervención alguna en su entrega o en la ulterior atención que ellos demanden.
 
 e) La institución financiera no podrá exhibir en ninguno de sus locales ni en los de sus filiales, los premios que, ya sea por acumulación de puntaje, sorteos o cualquiera otra modalidad, ofrezca a sus clientes por los servicios que contraten, susceptibles de esos beneficios, de acuerdo con estas normas.
+
+## Capítulo 18-14
+
+TRANSPARENCIA DE LA INFORMACIÓN AL PÚBLICO.
+
+### 1. Marco general
+
+El mayor acceso que amplios segmentos de la población han tenido a los productos financieros trae aparejada una creciente relevancia de la información que los bancos deben poner a disposición de los usuarios a fin de que puedan decidir sobre su contratación, teniendo el debido conocimiento de las características de los servicios que les son ofrecidos y el importe que deben pagar por ellos. Además, el importante dinamismo de la oferta de productos y la alta competitividad del sector bancario introducen elementos de mayor complejidad para el suministro de información idónea a los clientes actuales y potenciales
+
+de las entidades.
+
+Por otra parte, las normas sobre transparencia de mercado han ganado creciente importancia en el ámbito de la regulación de los bancos. En diversos países desarrollados, como asimismo en varios países con mercados financieros emergentes, su importancia ha llegado a situarse a la par con la que se otorga a la regulación prudencial de esas entidades.
+
+Conviene indicar que, si bien esta Superintendencia ha emitido normas que tratan de la materia, ha estimado necesario dar a conocer un marco regulador general sobre principios que dan cuenta de una debida transparencia, a fin de promover una mayor homogeneidad y claridad en la información que las entidades ponen a disposición de los usuarios de los servicios bancarios que facilite a estos la comparación de las diversas ofertas del mercado.
+
+Los factores arriba mencionados dan contenido a los siguientes objetivos de las normas dirigidas a la transparencia de la información proporcionada a los clientes y público en general por parte de los bancos:
+
+- Reducir asimetrías de información, proporcionando una adecuada difusión de aquella considerada suficiente para tomar decisiones fundadas.
+
+- Fomentar en adecuadas condiciones el acceso del público a los servicios financieros.
+
+- Asegurar el desarrollo de buenas prácticas comerciales.
+
+El logro de esos objetivos forma parte de la infraestructura de mercados informados y transparentes que, como tales, juegan un importante rol en la confianza del público en el sistema financiero y en la competencia entre los bancos.
+
+Las disposiciones contenidas en este Capítulo establecen los lineamientos generales y pautas mínimas que deben observar los bancos en la información que entreguen a su clientela y al público en general, para así alcanzar un nivel satisfactorio de transparencia bancaria.
+
+### 2. Calidad de la información
+
+Los bancos deben velar porque la información que suministran al mercado sobre los productos financieros permita que los usuarios tengan la posibilidad de adquirir un conocimiento cabal sobre la materia y así puedan tomar las decisiones que consideren más adecuadas sobre la utilización de los servicios que les son ofrecidos.
+
+Los clientes deben contar con la información suficiente respecto de la tarifa o precio (tasa de interés, comisiones, primas), condiciones y características relevantes de los productos y/o servicios que desean contratar, como también con aquella que les permita identificar claramente qué servicios y productos están comprendidos en cada cobro. Asimismo, deben ser informados sobre qué productos pueden o no ser otorgados de forma independiente y sobre cuales el cliente debería declarar su expreso consentimiento.
+
+La entrega de información debe ocurrir no sólo en el momento de la contratación de un producto y/o servicio, sino también durante todo el tiempo que dure la relación contractual de la institución financiera con el cliente.
+
+Entre las condiciones necesarias para que la entrega de información cumpla con la propiedad de transparencia, se pueden mencionar:
+
+a) Claridad. Una información es clara si permite al público en general comprender su significado. Para ese efecto se debe usar palabras simples y de común entendimiento.
+
+b) Debe ser completa, de manera que abarque todos los precios, condiciones y características relevantes relacionados con la contratación de un producto y/o servicio, de manera que el cliente pueda conocer el valor final de la prestación. No se cumple con esto último si faltan datos que permitan la realización de un cálculo relacionado.
+
+c) Debe ser relevante, esto es, que sea importante y necesaria para comprender el tema de que se trata en su cabal dimensión. Relevante implica especificar todos los aspectos necesarios para la toma de decisiones.
+
+d) Debe ser fiable, es decir, que sea una representación fiel de la realidad, que no contenga errores, ni que lleve a confusión o duda respecto de su veracidad.
+
+e) Debe ser comparable, de forma de poder cotejar productos similares ofrecidos por el mismo banco u otros. No será comparable si la forma en que la información se presenta impide o dificulta en forma importante la confrontación con otras opciones.
+
+Esta Superintendencia considera altamente conveniente que cada empresa tenga disponible un plan básico del respectivo producto con su correspondiente precio, a fin de permitir a los clientes su comparación con los similares que ofrezca la competencia.
+
+f) Debe ser oportuna en el sentido de estar presente en el momento de la toma de decisiones, es decir, que el cliente pueda conocer todas las condiciones con la debida antelación para celebrar un contrato.
+
+g) Debe ser de fácil acceso y gratuita a través de distintos medios tales como folletería y pizarras.
+
+### 3. Información a entregar a los clientes
+
+Los bancos deben enviar a cada cliente, a lo menos una vez al año, el mapa completo de tarifas asociadas a los productos contratados por éste y los correspondientes montos cobrados.
+
+En el caso que el cobro de tarifas como las comisiones esté relacionado con ciertos promedios, tales como promedio saldo cuentas corrientes, cuentas vista, compras con tarjetas de crédito u otros, éstos deben ser informados en el estado de cuenta (mensual, trimestral, anual), dependiendo de la estructura y periodicidad de cobro de las comisiones.
+
+### 4. Información a enviar a esta Superintendencia
+
+Las entidades bancarias deben enviar a la Superintendencia, para su mero conocimiento, los modelos de contrato de los productos ofrecidos al público y el mapa completo de tarifas asociadas a los productos ofrecidos.
+
+Todo nuevo modelo de contrato, así como las modificaciones a los contratos existentes y los cambios de tarifas deben ser remitidos a esta Superintendencia en la misma oportunidad en que sean aplicados.
+
+### 5. Disposiciones transitorias
+
+La información a que se refiere el N° 4 anterior, deberá enviarse por primera vez dentro de los sesenta días siguientes de promulgadas las normas del presente Capítulo. De igual forma, en la misma oportunidad y por única vez, se deberán enviar los documentos en que se describan las políticas y procedimientos establecidos a que se refiere el numeral 3.6 del título II del Capítulo 1-13 de la Recopilación Actualizada de Normas.
 
 ## Capítulo 19-1
 
