@@ -1,0 +1,3 @@
+Por resolución exenta Nº 660, de 7 de marzo de 2008, de esta Subsecretaría, autorízase a COMERCIAL PANAMERICANA S.A. para iniciar actividades perqueras de transformacion, para iniciar y operar planta ubicada en parcela C-56 Panul, comunidad La Herradura, Coquimbo, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado, congelado, seco salado, conserva y deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
