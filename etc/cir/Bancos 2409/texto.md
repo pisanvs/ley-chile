@@ -21646,60 +21646,242 @@ Por la misma razón, es improcedente que la institución invoque tales protestos
 
 Lo señalado en los párrafos precedentes deberá estar en conocimiento de todos los funcionarios del banco que sean responsables del otorgamiento de operaciones de crédito, de aperturas de cuentas corrientes o de informes bancarios internos o externos, debiendo tenerse presente que, de infringirse sus disposiciones, podrán aplicarse las sanciones que resulten procedentes, tanto al banco como al funcionario.
 
-CAPITULO 20-7 (Bancos y Financieras)
+## Capítulo 20-7
 
-MATERIA:
+EXTERNALIZACIÓN DE SERVICIOS.
 
-PROCESAMIENTO DE DATOS. SERVICIOS PRESTADOS O RECIBIDOS.
+### I. ÁMBITO DE APLICACIÓN
 
-I.- SERVICIO DE PROCESAMIENTO DE DATOS PRESTADO POR UNA INSTITUCION FINANCIERA ESTABLECIDA EN CHILE.
+El presente Capítulo trata de las contrataciones por parte de las instituciones bancarias de proveedores de servicios externos para que realicen una o más actividades, funciones o procesos operativos, que podrían ser también efectuados internamente por la entidad, con sus propios recursos, tanto humanos como tecnológicos.
 
-1.- Entidades a las que se puede prestar el servicio.
+Quedan igualmente comprendidos en estas disposiciones los servicios que puedan ofrecer los bancos a terceros de acuerdo a lo estipulado en el Capítulo 11-6 de esta Recopilación Actualizada de Normas.
 
-Las instituciones financieras podrán prestar el servicio de procesamiento de datos a las siguientes empresas, bajo las condiciones que se indican:
+Para los efectos de esta normativa se deberán considerar las siguientes definiciones:
 
-a) Empresas filiales o de apoyo al giro, de acuerdo con las condiciones establecidas para el efecto en el Capítulo 11-6 de esta Recopilación;
+Procesamiento Externo (Outsourcing): es la ejecución por un proveedor externo de servicios o actividades en forma continua u ocasional, las que normalmente podrían ser realizadas por la entidad contratante.
 
-b) Sucursales y filiales en el exterior. En este último caso serán aplicables las disposiciones establecidas en el Capítulo 11-6 antes mencionado; y,
+Proveedor de servicios: entidad relacionada o no al banco contratante, que preste servicios o provea bienes e instalaciones a éste.
 
-c) Empresas bancarias o financieras del país o del exterior, relacionadas por propiedad con una institución financiera establecida en Chile. En este caso, se requerirá una autorización previa de esta Superintendencia, según lo indicado en el número siguiente.
+Cadenas de procesamiento externo: las formadas por terceros subcontratados por el proveedor inicial de servicios para realizar parte importante de las actividades contratadas con este (subcontrato de otros proveedores).
 
-2.- Autorización de esta Superintendencia.
+Actividades significativas o estratégicas:
 
-Para obtener la autorización a que se refiere la letra c) del N° 1 precedente, las instituciones deberán presentar una solicitud acompañada de lo siguiente:
+i. actividades de importancia o críticas en las que cualquier debilidad o falla en la provisión o ejecución del servicio tiene un efecto significativo sobre el cumplimiento normativo, continuidad del negocio, seguridad de la información (propia o de sus clientes) y la calidad de los servicios, productos, información e imagen del banco contratante.
 
-a) Identificación de la empresa a la que se le prestará el servicio de procesamiento de datos y su relación de propiedad con una institución financiera establecida en Chile; y,
+ii. cualquier actividad que tenga impacto significativo en la gestión de riesgos.
 
-b) Procesamiento que se desea prestar y período por el que se entregará el servicio.
+iii. aquellas actividades de alta interacción sistémica en el mercado o que incorporan riesgos significativos a la entidad bancaria.
 
-II.- PROCESAMIENTO DE DATOS FUERA DE LA INSTITUCION.
+### II. PRINCIPALES RIESGOS QUE SE ASUMEN CON EL PROCESAMIENTO EXTERNO DE ACTIVIDADES
 
-1.- Condiciones generales.
+Aun cuando el riesgo operacional es el que se presenta en forma más frecuente, el procesamiento externo también se ve afectado por los riesgos estratégico, reputacional, de cumplimiento, de país, de concentración y contractual, entre otros.
 
-Para encargar a otra empresa situada en Chile o en el exterior, de preferencia relacionada, el procesamiento parcial o total de sus datos, las instituciones financieras deberán obtener una autorización de esta Superintendencia, salvo que se contrate con una sociedad de apoyo al giro, autorizada para el efecto de acuerdo con lo previsto en el artículo 74 de la Ley General de Bancos.
+Una sólida administración de riesgos lleva incorporado el establecimiento de políticas, normas y procedimientos para gestionar los riesgos más relevantes asociados al outsourcing de actividades, proceso que en el caso del riesgo operacional debe cumplirse en concordancia con lo dispuesto en el numeral 3.3 del Título II del Capítulo 1-13 de la Recopilación Actualizada de Normas.
 
-Para ese efecto, la institución financiera solicitante deberá asegurarse de que la empresa cuente con la necesaria solidez financiera, una organización y personal adecuados, con conocimiento y experiencia en el procesamiento de datos o en servicios bancarios, como asimismo de que sus sistemas de control interno responden a las características del servicio que se desea contratar.
+Especial análisis se debe realizar al contratar un proveedor de servicio que concentre un número importante de entidades financieras, ya que ante una eventual falla de dicho proveedor se podría generar una crisis a nivel de la industria.
 
-Por otra parte, la institución financiera deberá comprobar que la infraestructura tecnológica y los sistemas que se utilizarán para la comunicación, almacenamiento y procesamiento de datos, ofrecen suficiente seguridad para resguardar permanentemente la continuidad operacional y la confidencialidad, integridad, exactitud y calidad de la información y los datos. Asimismo, la institución deberá verificar que las condiciones garantizan la obtención oportuna de cualquier dato o información que necesite, sea para sus propios fines o para cumplir con los requerimientos de las autoridades competentes, como es el caso de la información que en cualquier momento puede solicitarle esta Superintendencia.
+Adicionalmente, cada banco deberá considerar medidas mitigantes adicionales para la gestión del riesgo, cuando entregue diversas actividades críticas a un mismo proveedor.
 
-A fin de permitir una adecuada administración de sus riesgos operativos y tecnológicos, en el contrato respectivo deberá contemplarse la facultad de la institución financiera para practicar evaluaciones periódicas en la empresa proveedora del servicio, directamente o mediante auditorías independientes. Asimismo, con el objeto posibilitar la evaluación de aquellos riesgos según lo previsto en el Capítulo 1-13 de esta Recopilación, en el mencionado contrato deberá quedar establecida una autorización permanente que permita a esta Superintendencia examinar in situ todos los aspectos relacionados con el procesamiento de datos de la institución financiera.
+### III. CONDICIONES QUE DEBEN CUMPLIRSE EN LOS PROCESAMIENTOS EXTERNOS
 
-Los costos en que incurra esta Superintendencia por la supervisión del procesamiento de datos en otro lugar, serán de cargo de la institución financiera que utilice el servicio externo de que se trata.
+El banco que decida procesar externamente alguna actividad, debe dar cumplimiento a las siguientes condiciones:
 
-2.- Solicitud a esta Superintendencia.
+### 1. Condiciones generales
 
-La solicitud que una institución financiera debe presentar para obtener la autorización, tendrá que acompañarse de la siguiente información:
+a) Mantener una política debidamente aprobada por el directorio, que regule las actividades asociadas al procesamiento externo. Esta política debe contemplar la necesidad de evaluar los riesgos que significa procesar externamente determinadas actividades, así como también especificar aquellas que en ningún caso deben procesarse fuera de la institución, como, por ejemplo, las inherentes a la captación de dineros de terceros fuera de las oficinas del banco; la apertura de cuentas corrientes y el procesamiento o registro de sus movimientos, entre otras. Además deberá definir temas como el tipo de servicios a procesar externamente, su nivel de criticidad, así como las consideraciones a tener en cuenta cuando el proveedor sea una sociedad relacionada.
 
-a) Procesamiento que se desea contratar.
+b) La administración debe establecer procedimientos para la contratación y monitoreo de proveedores. Para estos efectos, se deberán considerar al menos los elementos detallados en el anexo N°1 de este Capítulo.
 
-b) Declaración de la entidad financiera acerca del conocimiento que tiene de la empresa a la que se le encargará el procesamiento, considerando los aspectos mencionados en el N° 1 precedente.
+c) El banco debe mantener un catastro actualizado de todos los servicios contratados con empresas externas, determinando claramente aquellos que, a su juicio, son estratégicos y de alto riesgo, de manera de establecer procedimientos de control y seguimiento en forma permanente de acuerdo a los niveles de criticidad que les asigne.
 
-c) Responsabilidad que asume la empresa para mantener políticas y procedimientos que garanticen la confidencialidad de la información, en conformidad con la legislación chilena, como asimismo para precaver pérdidas, atrasos o deterioros de la misma.
+d) Establecer procedimientos que aseguren el cumplimiento oportuno y cabal de los compromisos que tiene con sus clientes.
 
-d) Planes de contingencia previstos para mantener la continuidad operacional de la institución financiera contratante en caso que se produzcan fallas en la comunicación, almacenamiento o procesamiento de los datos.
+e) El banco debe asegurarse que existan auditorías independientes al proceso de selección, contratación y seguimiento de los proveedores, así como también que se cumpla con la normativa tanto interna como externa. Asimismo, deberá exigir a los proveedores de servicios, que los procedimientos operacionales, administrativos y tecnológicos propios del servicio contratado, se encuentren debidamente documentados.
 
-3.- Alcance de la autorización otorgada.
+f) La institución bancaria debe considerar los riesgos que provienen de las cadenas de procesamientos externos, lo que debe quedar reflejado en el contrato respectivo en forma previa, señalándose que en caso de subcontratación, la empresa subcontratada debe cumplir también con las condiciones pactadas entre el banco y el proveedor de servicios inicial.
 
-La autorización que se otorgue se referirá sólo al proyecto específico objeto de la solicitud. Cualquier cambio posterior a las condiciones sobre cuya base se otorgó la autorización, debe ser objeto de una nueva solicitud.
+g) El banco debe incorporar en sus reportes de riesgo operacional que realiza para el Directorio, o para quien haga sus veces, información respecto del funcionamiento de aquellos servicios de procesamiento externo considerados críticos.
 
-La autorización podrá ser revocada en caso de observarse desviaciones de lo indicado en el N° 1 de este título, sin perjuicio de otras sanciones que pudieren aplicarse a la institución financiera por el incumplimiento de las instrucciones impartidas por esta Superintendencia.
+### 2. Continuidad del negocio
+
+La institución bancaria debe verificar que sus proveedores de servicios críticos cuenten con planes apropiados que aseguren la continuidad de los procesamientos contratados. Esos planes deben ser probados periódicamente al igual que sus sitios de contingencia, debiendo el banco tomar conocimiento de dicha actividad. No obstante, la entidad bancaria también debe disponer de planes para asegurar la continuidad operacional ante la contingencia de no contar con dicho servicio externo.
+
+3. Seguridad de la información propia y de sus clientes, en los casos que corresponda.
+
+El banco debe cerciorarse que el proveedor de servicio pueda mantener la confidencialidad, integridad y disponibilidad de los activos de información de la institución financiera y de sus clientes. Estas condiciones deben ser consistentes con las políticas de la entidad financiera y quedar incorporadas en el contrato de prestación de servicios.
+
+La información una vez procesada, debe ser almacenada y transportada en forma encriptada, manteniéndoselas llaves de desencriptación en poder del banco. Asimismo, se deben definir los procedimientos de intercambio de claves entre el proveedor de servicios y el banco, además de establecerse los roles y responsabilidades de las personas involucradas en la administración de la seguridad.
+
+En el caso de procesamiento de documentación física, el banco deberá contar con procedimientos de control que velen por el debido cumplimiento de las condiciones señaladas en este número.
+
+### 4. Acceso a la información por parte del supervisor
+
+La institución bancaria contratante debe asegurarse que esta Superintendencia tenga acceso permanente sea mediante visitas a los lugares de procesamiento o por vía remota a todos los datos e información que se procesen, mantengan y generen a través de un proveedor externo ya sea establecido en el país o en el exterior.
+
+En el caso de tratarse de un proveedor de servicios establecido en el exterior, el banco debe prestar especial atención a las restricciones legales del país anfitrión que pudieren impedir la visita de esta Superintendencia al proveedor o el acceso a la información y a los datos mencionados en el párrafo anterior.
+
+### 5. Riesgo país
+
+No se podrán externalizar servicios en jurisdicciones que no cuenten con calificación de riesgo país en grado de inversión. Aquellos bancos que contraten servicios con empresas ubicadas en países cuya clasificación de riesgo internacional sea inferior a la otorgada a Chile, deberán tomar resguardos adicionales para mitigar el mayor riesgo asumido, lo que será evaluado caso a caso por esta Superintendencia. Asimismo, aquellas sucursales de bancos internacionales a las que se les encargue el procesamiento de datos que no califiquen en la categoría de relevancia sistémica de acuerdo al numeral 2.1. del Título IV de este Capítulo, podrán quedar exceptuadas de la exigencia de grado de inversión para el país, lo que deberá ser evaluado caso a caso por esta Superintendencia.
+
+En el caso de entidades que se encuentren autorizadas a procesar en países que pierdan su grado de inversión, deberán informar a esta Superintendencia sobre el efecto que puede producir, o bien producirá este hecho, en la calidad e idoneidad de los servicios contratados.
+
+### 6. Responsabilidad por la gestión
+
+La responsabilidad por la gestión global de los riesgos y funciones de control deberá mantenerla la institución bancaria en el país. Lo anterior es sin perjuicio que en algunas instituciones bancarias internacionales existan para efectos de administración consolidada de sus casas matrices, coordinaciones matriciales de personal establecido en el extranjero y personal local.
+
+### IV. SERVICIOS DE PROCESAMIENTO EXTERNO
+
+### 1. Servicios que pueden prestar los bancos establecidos en el país
+
+Los bancos podrán prestar servicios, bajo las condiciones que se indican en el Capítulo 11-6 de esta Recopilación, a las siguientes empresas:
+
+- **a)** Empresas filiales o de apoyo al giro;
+
+- **b)** Sucursales y filiales en el exterior de que trata el Capítulo 11-7 y,
+
+- **c)** Empresas bancarias del país o del exterior, relacionadas por propiedad con una institución financiera establecida en Chile. En este último caso, se requerirá una autorización previa de esta Superintendencia.
+
+### 2. Servicios que pueden contratar las instituciones bancarias
+
+2.1 Servicios de procesamiento de datos.
+
+Para la contratación de servicios externos de procesamiento de datos, los bancos deberán presentar una solicitud de autorización a esta Superintendencia. Esa solicitud deberá incluir los antecedentes que se detallan en el anexo N° 2 de este Capítulo.
+
+Para efectos de evaluación de la solicitud se deben considerar los siguientes tipos de servicios:
+
+a) Servicios realizados en el país
+
+Cuando el servicio de procesamiento de datos, total o parcial, se realice por una empresa situada en el país, la institución bancaria deberá comprobar que la infraestructura tecnológica y los sistemas que se utilizarán para la comunicación, almacenamiento y procesamiento de datos, ofrecen suficiente seguridad para resguardar permanentemente la continuidad del negocio, confidencialidad, integridad, exactitud y calidad de la información y los datos. Asimismo, deberá verificar que las condiciones del servicio garantizan la obtención oportuna de cualquier dato o información que necesite, sea para sus propios fines o para cumplir con los requerimientos de las autoridades competentes, como es el caso de la información que en cualquier momento puede solicitarle esta Superintendencia.
+
+En cuanto al Centro de Procesamiento de Datos de contingencia, este deberá cumplir con condiciones de ubicación y distancia del Centro de Procesamiento de Datos principal, que garanticen su operación.
+
+b) Servicios realizados en el extranjero
+
+En el caso que el banco pretenda contratar fuera del país, el procesamiento de datos, deberá remitir en su solicitud todos los antecedentes necesarios de la empresa a contratar, que respalden la suficiente solidez financiera, organización y personal que cuente con adecuados conocimientos y experiencia en el servicio contratado, certificaciones de calidad, seguridad y apropiados sistemas de control. Adicionalmente, se deben incluir antecedentes del proyecto y el borrador del contrato de servicios y, en el caso de existir subcontratos con terceros, también deben ser incorporados.
+
+El ejemplar de los contratos y sub-contratos en idioma español, que se envíen a esta Superintendencia debe estar debidamente rubricado por las partes.
+
+Para la evaluación de solicitudes de autorización presentadas con el objeto de contratar los servicios de procesamiento de datos, esta Superintendencia con el fin de resguardar el adecuado funcionamiento del mercado financiero con todos sus participantes institucionales, incluidos los clientes, considerará la importancia de la institución financiera y evaluará si corresponde calificarla como sistémicamente relevante. Para lo anterior, se tomará en cuenta la naturaleza y características del procesamiento externo, así como el nivel de criticidad que tienen las funciones a externalizar para el normal desarrollo de actividades de la institución y su impacto en el funcionamiento del sistema financiero.
+
+En el caso de los bancos que sean calificados como sistémicamente relevantes se considerarán las siguientes condiciones, para la autorización:
+
+i) El Centro de Procesamiento de Datos de contingencia debe estar ubicado en Chile y demostrar un tiempo de recuperación que será evaluado por esta Superintendencia en forma previa a la puesta en producción del servicio externo contratado. Para cumplir con lo anterior deben estar desarrollados las políticas y procedimientos correspondientes.
+
+ii) El banco debe estar en condiciones de efectuar desde Chile el control y monitoreo del Centro de Procesamiento de Datos en el Exterior.
+
+2.2 Otros servicios.
+
+Cuando la entidad bancaria contrate proveedores locales de servicios para realizar actividades significativas propias del giro, requerirá previamente la autorización de esta Superintendencia. Dicha autorización también será requisito cuando se trate de la externalización de cualquier actividad fuera del país.
+
+No obstante lo anterior, se podrán procesar externamente servicios sin necesidad de requerir autorización de esta Superintendencia, cuando las actividades o servicios se realicen localmente y sean, por ejemplo, las siguientes:
+
+i) servicios Generales: tales como vigilancia, limpieza, seguridad, mantenimiento y reparaciones, mensajería, servicios públicos, entre otros.
+
+ii) Actividades de apoyo administrativo: pago de sueldos, compras, facturación, capacitación, selección de personal, entre otros.
+
+iii) Actividades de investigación de mercado y marketing: encuestas de productos y servicios bancarios, antecedentes de clientes y publicidad, entre otros.
+
+iv) Otros: Transportes de valores, servicios de arrendamiento, centros de llamados.
+
+Sin perjuicio de lo señalado, para estas actividades la entidad deberá velar por el debido cumplimiento de cualquier aspecto regulatorio y/o legal como, por ejemplo, las leyes laborales.
+
+### V. ALCANCE DE LA AUTORIZACIÓN OTORGADA
+
+La autorización que se otorgue se referirá sólo a lo especificado en la solicitud, pudiendo ser limitada a períodos de tiempo de revisión definidos por esta Superintendencia. Cualquier cambio significativo de las condiciones sobre cuya base se otorgó la autorización, debe ser objeto de una nueva solicitud.
+
+La autorización podrá ser revocada en caso de observarse desviaciones respecto de lo solicitado, sin perjuicio de otras sanciones que pudieren aplicarse por el incumplimiento de las instrucciones impartidas.
+
+ANEXO N° 1
+
+ASPECTOS MÍNIMOS A CONSIDERAR PARA LA CONTRATACION DE PROCESAMIENTOS EXTERNOS
+
+### 1. Evaluación del riesgo
+
+Antes de decidir el procesamiento externo de una actividad, se debe efectuar una evaluación, que considere a todos los agentes involucrados respecto de los riesgos que esta decisión incorpora a la institución, así como la cantidad de riesgo comprometido en razón de los montos pagados a la empresa externa, volumen de transacciones que se procesará, criticidad del servicio contratado, concentración de servicios con el mismo proveedor, concentración del sector financiero en un proveedor específico, entre otros.
+
+En esta evaluación se debe considerar la opinión del área encargada de la gestión del riesgo operacional del banco.
+
+2. selección del proveedor de servicios.
+
+La institución debe evaluar las propuestas recibidas de acuerdo a sus requerimientos y llevar a cabo un due diligence que sustente la información recibida de los posibles proveedores.
+
+En el caso que los servicios contratados se realicen con un proveedor relacionado al banco, las condiciones económicas de aquellos deben cumplir con principios de transparencia y equidad.
+
+### 3. Contrato
+
+La entidad financiera debe asegurarse que el contrato defina claramente los derechos y obligaciones de ambas partes, conteniendo acuerdos de niveles claros y medibles de los servicios contratados, así como también un método de fijación de precios adecuado para el contrato específico. En caso que se adquiera más de un servicio por un precio único debe tenerse el detalle del cobro por cada uno de tales servicios.
+
+También se deben incluir cláusulas de continuidad del negocio y de seguridad de la información, especialmente aquella que se refiere a la confidencialidad de la información, tanto propia como de sus clientes, además de establecer una autorización permanente que permita a esta Superintendencia como al banco examinar in situ, en cualquier momento, todos los aspectos relacionados con el servicio contratado. Los costos en que incurra esta Superintendencia por la supervisión del procesamiento de datos en el lugar dispuesto por el proveedor de servicios, serán de cargo de la respectiva institución bancaria.
+
+Adicionalmente, la institución deberá considerar cláusulas de veto en la selección de subcontratación de terceros por parte del proveedor principal.
+
+Por último, contractualmente debe quedar claramente establecido todo lo relacionado con la idoneidad y responsabilidad del personal de la empresa proveedora del servicio, así como también todos los aspectos legales y laborales que imperen en el país o en el extranjero, aplicables a estas contrataciones.
+
+### 4. Control permanente
+
+Del proveedor: La institución debe controlar el desempeño del proveedor y los posibles cambios en los requerimientos de la institución durante la vigencia del contrato. El control debe comprender como mínimo: el conocimiento y análisis del último estado financiero del proveedor y aspectos tales como la observación del entorno de control general de la empresa externa.
+
+Del servicio: La institución debe contar con procedimientos que le permitan controlar el cumplimiento de las cláusulas estipuladas en los contratos. El monitoreo debe comprender al menos: acuerdos de niveles de servicios, disposiciones contractuales, gestión del riesgo operacional asociado al servicio contratado y posibles cambios a causa del entorno externo.
+
+El control ejercido sobre los proveedores y sus servicios puede realizarse directamente por el banco o bien, a través de la opinión de terceros especialistas en evaluaciones de control interno.
+
+ANEXO N° 2
+
+ANTECEDENTES ADICIONALES
+
+### I. Información general
+
+1. Flujo actualizado de la cadena de producción del banco (detalle de inicio y término actual de la producción de todas las aplicaciones e interfases).
+
+### 2. Informe de errores o fallas en TI
+
+### 3. Informe de errores o fallas de Procedimientos
+
+4. Informes de gestión detallado respecto de uptime de la infraestructura tecnológica y de comunicaciones.
+
+5. Informe de gestión detallado de uptime, errores y fallas de las aplicaciones de negocios que se van a externalizar y de aquellas que son interfases de éstas.
+
+6. Estructura detallada de costos del procesamiento de datos actual y posterior al procesamiento externo (para los mismos ítems considerados).
+
+7. Nómina detallada por línea de negocios de proyectos que impacten el volumen de transacciones que se procesarán fuera de la institución.
+
+### II. Información del proyecto
+
+### 1. Alcance detallado del servicio de procesamiento externo
+
+2. Identificación detallada de las plataformas y aplicaciones de negocios que se procesarán externamente y aquellas que se quedarán en el banco.
+
+### 3. Documentos de respaldo del proyecto de procesamiento externo
+
+4. Detalle de los ítems que se considerarán en el respectivo acuerdo tarifario.
+
+5. Informe de análisis y evaluación de riesgo efectuado por una entidad independiente. Se debe incorporar la matriz de riesgos del proyecto y sus respectivos controles o mitigadores.
+
+### 6. Evaluación técnica y financiera del proyecto
+
+### 7. Evaluaciones efectuadas para la selección de proveedores
+
+8. Detalle de la metodología de traslado utilizada en caso que corresponda (hardware, software y telecomunicaciones).
+
+### 9. Metodología de certificación de pruebas y simulacros
+
+10. Borrador del contrato de servicios (incluyendo todos los anexos) y en el caso de existir subcontratos con terceros estos también deben ser incorporados. Estos documentos deben estar en idioma español.
+
+### 11. Políticas de seguridad de la información del proveedor del servicio
+
+12. Descripción, antecedentes y características técnicas detalladas del sitio de producción y contingencia del proveedor de servicios y las certificaciones con que cuenta.
+
+### 13. Carta GANTT detallada del proyecto de externalización
+
+14. Proceso y herramientas que le permitan a la institución financiera controlar la aplicación de sus políticas y buenas prácticas, en la empresa prestadora del servicio.
+
+15. Proceso y herramientas que le permitirán controlar el cumplimiento de los niveles de servicios comprometidos en el contrato suscrito.
+
+16. Estructura organizacional que estará encargada de las mantenciones de hardware, software y comunicaciones, especialmente al inicio del proceso externo.
+
+17. Políticas y procedimientos que se utilizarán para la mantención de software operativo y comercial, tanto para aquellos que son de índole evolutivo y correctivo.
+
+18. Plan de continuidad del negocio que adoptará el banco ante el evento de una contingencia que impida el procesamiento por parte del proveedor o los subcontratados por éste.
+
+19. Planes de contingencia previstos para mantener la continuidad operacional de la institución contratante en caso que se produzcan fallas en la comunicación o almacenamiento de la información.
