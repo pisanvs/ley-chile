@@ -30,25 +30,17 @@ Los trabajadores que presten servicios en los oficios de notarías, archiveros o
 
 Art.2.o Reconócese la función social que cumple el trabajo y la libertad de las personas para contratar y dedicar su esfuerzo a la labor lícita que elijan.
 
-Las relaciones laborales deberán siempre fundarse en un trato libre de violencia, compatible con la dignidad de la persona y con perspectiva de género, lo que, para efectos de este Código, implica la adopción de medidas tendientes a promover la igualdad y a erradicar la discriminación basada en dicho motivo. Son contrarias a lo anterior, entre otras conductas, las siguientes:
-
-a) El acoso sexual, entendiéndose por tal el que una persona realice, en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo.
-
-b) El acoso laboral, entendiéndose por tal toda conducta que constituya agresión u hostigamiento ejercida por el empleador o por uno o más trabajadores, en contra de otro u otros trabajadores, por cualquier medio, ya sea que se manifieste una sola vez o de manera reiterada, y que tenga como resultado para el o los afectados su menoscabo, maltrato o humillación, o bien que amenace o perjudique su situación laboral o sus oportunidades en el empleo.
-
-c) La violencia en el trabajo ejercida por terceros ajenos a la relación laboral, entendiéndose por tal aquellas conductas que afecten a las trabajadoras y a los trabajadores, con ocasión de la prestación de servicios, por parte de clientes, proveedores o usuarios, entre otros.
+Las relaciones laborales deberán siempre fundarse en un trato compatible con la dignidad de la persona. Es contrario a ella, entre otras conductas, el acoso sexual, entendiéndose por tal el que una persona realice en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo.
 
 Son contrarios a los principios de las leyes laborales los actos de discriminación.
 
-Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, género, maternidad, lactancia materna, amamantamiento, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional, situación socioeconómica, idioma, creencias, participación en organizaciones gremiales, orientación sexual, identidad de género, filiación, apariencia personal, enfermedad o discapacidad, origen social o cualquier otro motivo, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
+Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
 
 Con todo, las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
 
 Por lo anterior y sin perjuicio de otras disposiciones de este Código, son actos de discriminación las ofertas de trabajo efectuadas por un empleador, directamente o a través de terceros y por cualquier medio, que señalen como un requisito para postular a ellas cualquiera de las condiciones referidas en el inciso cuarto.
 
 Ningún empleador podrá condicionar la contratación de trabajadores a la ausencia de obligaciones de carácter económico, financiero, bancario o comercial que, conforme a la ley, puedan ser comunicadas por los responsables de registros o bancos de datos personales; ni exigir para dicho fin declaración ni certificado alguno. Exceptúanse solamente los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados, siempre que, en todos estos casos, estén dotados, a lo menos, de facultades generales de administración; y los trabajadores que tengan a su cargo la recaudación, administración o custodia de fondos o valores de cualquier naturaleza.
-
-Ningún empleador podrá condicionar la contratación de un trabajador o trabajadora, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, al hecho de no padecer o no haber padecido cáncer, ni exigir para dichos fines certificado o examen alguno.
 
 Lo dispuesto en los incisos tercero y cuarto de este artículo y las obligaciones que de ellos emanan para los empleadores, se entenderán incorporadas en los contratos de trabajo que se celebren.
 
@@ -66,17 +58,9 @@ c) trabajador independiente: aquel que en el ejercicio de la actividad de que se
 
 El empleador se considerará trabajador independiente para los efectos previsionales.
 
-Para los efectos de la legislación laboral y de seguridad social, se entiende por empresa toda organización de medios personales, materiales e inmateriales, ordenados bajo la dirección de un empleador, para el logro de fines económicos, sociales, culturales o benéficos, dotada de una individualidad legal determinada.
+Para los efectos de la legislación laboral y de seguridad social, se entiende por empresa toda organización de medios personales, materiales e inmateriales, ordenados bajo una dirección, para el logro de fines económicos, sociales, culturales o benéficos, dotada de una individualidad legal determinada.
 
-Dos o más empresas serán consideradas como un solo empleador para efectos laborales y previsionales, cuando tengan una dirección laboral común, y concurran a su respecto condiciones tales como la similitud o necesaria complementariedad de los productos o servicios que elaboren o presten, o la existencia entre ellas de un controlador común.
-
-La mera circunstancia de participación en la propiedad de las empresas no configura por sí sola alguno de los elementos o condiciones señalados en el inciso anterior.
-
-Las empresas que cumplan lo dispuesto en el inciso cuarto serán solidariamente responsables del cumplimiento de las obligaciones laborales y previsionales emanadas de la ley, de los contratos individuales o de instrumentos colectivos.
-
-Las cuestiones suscitadas por la aplicación de los incisos anteriores se sustanciarán por el juez del trabajo, conforme al Párrafo 3° del Capítulo II del Título I del Libro V de este Código, quien para resolver el asunto podrá solicitar informe de la Dirección del Trabajo o de otros órganos de la Administración del Estado, la que procederá siempre a petición del trabajador. El ejercicio de las acciones judiciales derivadas de la aplicación del inciso cuarto, así como la sentencia definitiva respectiva, deberán, además, considerar lo dispuesto en el artículo 507 de este Código.
-
-Los trabajadores de todas las empresas consideradas como un solo empleador podrán constituir uno o más sindicatos que los agrupen, o mantener sus organizaciones existentes; podrán, asimismo, negociar colectivamente con todas las empresas que han sido consideradas como un empleador, o bien con cada una de ellas. Los sindicatos interempresa que agrupen exclusivamente a trabajadores dependientes de empresas que hayan sido declaradas como un solo empleador podrán presentar proyectos de contrato colectivo, siendo obligatorio para el empleador negociar con dichos sindicatos. En todos estos casos, la presentación y tramitación de los proyectos de contrato colectivo se regirán por las normas establecidas en el Título IV del Libro IV de este Código.
+Las infracciones a las normas que regulan las entidades a que se refiere este artículo se sancionarán de conformidad con lo dispuesto en el artículo 478 de este Código.
 
 #### Artículo 4
 
@@ -84,15 +68,13 @@ o Para los efectos previstos en este Código, se presume de derecho que represen
 
 Las modificaciones totales o parciales relativas al dominio, posesión o mera tenencia de la empresa no alterarán los derechos y obligaciones de los trabajadores emanados de sus contratos individuales o de los instrumentos colectivos de trabajo, que mantendrán su vigencia y continuidad con el o los nuevos empleadores.
 
-De igual forma, en el caso de los trabajadores mencionados en el inciso final del artículo 1º, no se alterarán los derechos y obligaciones emanados de sus contratos individuales o de los instrumentos colectivos de trabajo, en el caso de cambio de la titularidad en la respectiva notaría, archivo y conservador.
-
 #### Artículo 5
 
 o El ejercicio de las facultades que la ley le reconoce al empleador, tiene como límite el respeto a las garantías constitucionales de los trabajadores, en especial cuando pudieran afectar la intimidad, la vida privada o la honra de éstos.
 
 Los derechos establecidos por las leyes laborales son irrenunciables, mientras subsista el contrato de trabajo.
 
-Los contratos individuales y los instrumentos colectivos de trabajo podrán ser modificados, por mutuo consentimiento, en aquellas materias en que las partes hayan podido convenir libremente.
+Los contratos individuales y colectivos de trabajo podrán ser modificados, por mutuo consentimiento, en aquellas materias en que las partes hayan podido convenir libremente.
 
 #### Artículo 6
 
@@ -138,19 +120,7 @@ Si el trabajador se negare a firmar, el empleador enviará el contrato a la resp
 
 Si el empleador no hiciere uso del derecho que se le confiere en el inciso anterior, dentro del respectivo plazo que se indica en el inciso segundo, la falta de contrato escrito hará presumir legalmente que son estipulaciones del contrato las que declare el trabajador.
 
-El empleador, en todo caso, estará obligado a mantener en el lugar de trabajo, o en un lugar fijado con anterioridad y que deberá haber sido autorizado previamente por la Inspección del Trabajo, un ejemplar del contrato, y, en su caso, uno del finiquito en que conste el término de la relación laboral, firmado por las partes.
-
-Conforme a lo señalado en el inciso anterior, cuando exista la necesidad de centralizar la documentación laboral y previsional, en razón de tener organizado su giro económico en diversos establecimientos, sucursales o lugares de trabajo o por razones de administración, control, operatividad o seguridad o que sus trabajadores presten servicios en instalaciones de terceros, o lugares de difícil ubicación específica, o carentes de condiciones materiales en las cuales mantener adecuadamente la referida documentación, como labores agrícolas, mineras o forestales y de vigilancia entre otras, las empresas podrán solicitar a la Dirección del Trabajo autorización para centralizar los documentos antes señalados y ofrecer mantener copias digitalizadas de dichos documentos laborales y previsionales. Para estos efectos, el Director del Trabajo, mediante resolución fundada, fijará las condiciones y modalidades para dicha centralización. La Dirección del Trabajo deberá resolver la solicitud de que trata este inciso en un plazo de treinta días, no siendo exigible la obligación establecida en el inciso quinto, en tanto no se notifique dicha respuesta al peticionario.
-
-La autorización de centralización podrá extenderse a toda la documentación laboral y previsional que se deriva de las relaciones de trabajo, salvo en lo referido al registro control de asistencia a que se refiere el inciso primero del artículo 33 de este Código.
-
-#### Artículo 9 bis
-
-En conformidad a lo dispuesto en el artículo 515, el empleador deberá registrar en el sitio electrónico de la Dirección del Trabajo los contratos de trabajo, dentro de los quince días siguientes a su celebración. Asimismo, deberá registrar las terminaciones de contrato, dentro de los plazos establecidos en los artículos 162 y 163 bis para el envío de las copias de las comunicaciones de terminación de contrato a la Inspección del Trabajo, y dentro de los diez días hábiles siguientes a la separación del trabajador en los casos de los números 1, 2 y 3 del artículo 159.
-
-En el momento del registro del contrato de trabajo el empleador deberá indicar las estipulaciones pactadas, y al término de los servicios deberá informar la fecha de éste y la causal invocada. Asimismo, deberá registrar la información relativa a la imputación de saldos a que se refiere el artículo 13 de la ley N°19.728, dentro de los cinco días posteriores a la suscripción del respectivo finiquito.
-
-Esta información será utilizada para el ejercicio de las facultades legales propias de la Dirección del Trabajo, tales como fiscalizaciones, conciliaciones, mediaciones y ratificación de finiquitos. También podrá ser utilizada para fines estadísticos, de estudios y difusión que efectúe el Servicio sobre el cumplimiento de la normativa laboral y de salud y seguridad en el trabajo, sin perjuicio de lo dispuesto en la ley Nº 19.628, sobre protección de la vida privada. Además, la Dirección del Trabajo deberá proporcionar esta información a los tribunales de justicia, previo requerimiento.
+El empleador, en todo caso, estará obligado a mantener en el lugar de trabajo, un ejemplar del contrato, y, en su caso, uno del finiquito en que conste el término de la relación laboral, firmado por las partes.
 
 #### Artículo 10
 
@@ -158,7 +128,7 @@ El contrato de trabajo debe contener, a lo menos, las siguientes estipulaciones:
 
 1.- lugar y fecha del contrato;
 
-2.- individualización de las partes con indicación de la nacionalidad, domicilio y dirección de correo electrónico de ambas partes, si la tuvieren y fechas de nacimiento e ingreso del trabajador;
+2.- individualización de las partes con indicación de la nacionalidad y fechas de nacimiento e ingreso del trabajador;
 
 3.- determinación de la naturaleza de los servicios y del lugar o ciudad en que hayan de prestarse. El contrato podrá señalar dos o más funciones específicas, sean éstas alternativas o complementarias;
 
@@ -176,19 +146,11 @@ Cuando para la contratación de un trabajador se le haga cambiar de domicilio, d
 
 Si por la naturaleza de los servicios se precisare el desplazamiento del trabajador, se entenderá por lugar de trabajo toda la zona geográfica que comprenda la actividad de la empresa. Esta norma se aplicará especialmente a los viajantes y a los trabajadores de empresas de transportes.
 
-#### Artículo 10 bis
-
-Sin perjuicio de lo dispuesto en el número 6 del artículo 10, las partes podrán celebrar un contrato por una obra o faena determinada.
-
-El contrato por obra o faena es aquella convención por la que el trabajador se obliga con el respectivo empleador a ejecutar una obra material o intelectual específica y determinada, en su inicio y en su término, cuya vigencia se encuentra circunscrita o limitada a la duración de aquélla. Las diferentes tareas o etapas de una obra o faena no podrán por sí solas ser objeto de dos o más contratos de este tipo en forma sucesiva, caso en el cual se entenderá que el contrato es de plazo indefinido.
-
-No revestirán el carácter de contratos por obra o faena aquellos que implican la realización de labores o servicios de carácter permanente y que, como tales, no cesan o concluyen conforme a su naturaleza, lo cual se determinará en cada caso específico por la Inspección del Trabajo respectiva, sin perjuicio de las facultades de los tribunales de justicia en caso de controversia.
-
 #### Artículo 11
 
 Las modificaciones del contrato de trabajo se consignarán por escrito y serán firmadas por las partes al dorso de los ejemplares del mismo o en documento anexo.
 
-No será necesario modificar los contratos para consignar por escrito en ellos los aumentos derivados de reajustes de remuneraciones, ya sean legales o establecidos en contratos o convenios colectivos del trabajo o en fallos arbitrales o en acuerdos de grupo negociador. Sin embargo, aún en este caso, la remuneración del trabajador deberá aparecer actualizada en los contratos por lo menos una vez al año, incluyendo los referidos reajustes.
+No será necesario modificar los contratos para consignar por escrito en ellos los aumentos derivados de reajustes de remuneraciones, ya sean legales o establecidos en contratos o convenios colectivos del trabajo o en fallos arbitrales. Sin embargo, aún en este caso, la remuneración del trabajador deberá aparecer actualizada en los contratos por lo menos una vez al año, incluyendo los referidos reajustes.
 
 #### Artículo 12
 
@@ -200,133 +162,57 @@ El trabajador afectado podrá reclamar en el plazo de treinta días hábiles a c
 
 ## Capítulo II
 
-DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS A LA PROTECCIÓN DEL TRABAJO DE NIÑOS, NIÑAS Y ADOLESCENTES
+DE LA CAPACIDAD PARA CONTRATAR Y OTRAS NORMAS RELATIVAS AL TRABAJO DE LOS MENORES
 
 #### Artículo 13
 
-Para los efectos de las leyes laborales se entiende por:
+Para los efectos de las leyes laborales, se considerarán mayores de edad y pueden contratar libremente la prestación de sus servicios los mayores de dieciocho años.
 
-a) Mayor de edad: toda persona que ha cumplido dieciocho años. Estas personas podrán contratar libremente la prestación de sus servicios.
+Los menores de dieciocho años y mayores de quince podrán celebrar contratos de trabajo sólo para realizar trabajos ligeros que no perjudiquen su salud y desarrollo, siempre que cuenten con autorización expresa del padre o madre; a falta de ellos, del abuelo o abuela paterno o materno; o a falta de éstos, de los guardadores, personas o instituciones que hayan tomado a su cargo al menor, o a falta de todos los anteriores, del inspector del trabajo respectivo. Además, previamente, deberán acreditar haber culminado su Educación Media o encontrarse actualmente cursando ésta o la Educación Básica. En estos casos, las labores no deberán dificultar su asistencia regular a clases y su participación en programas educativos o de formación. Los menores de dieciocho años que se encuentren actualmente cursando su Enseñanza Básica o Media no podrán desarrollar labores por más de treinta horas semanales durante el período escolar. En ningún caso los menores de dieciocho años podrán trabajar más de ocho horas diarias. A petición de parte, la Dirección Provincial de Educación o la respectiva Municipalidad, deberá certificar las condiciones geográficas y de transporte en que un menor trabajador debe acceder a su educación básica o media.
 
-b) Adolescente con edad para trabajar: toda persona que ha cumplido quince años y que sea menor de dieciocho años. Estas personas pueden ser contratadas para la prestación de sus servicios, previo cumplimiento de los requisitos y condiciones establecidos en este Código.
+Lo establecido en el inciso anterior se aplicará respecto de los menores de quince años, en las situaciones calificadas en que se permite su contratación en los espectáculos y actividades artísticas a que hacen referencia los artículos 15, inciso segundo y 16.
 
-c) Adolescente sin edad para trabajar: toda persona que ha cumplido catorce años y que sea menor de quince años.
+El inspector del trabajo que hubiere autorizado al menor en los casos de los incisos anteriores, pondrá los antecedentes en conocimiento del Tribunal de Familia que corresponda, el que podrá dejar sin efecto la autorización si lo estimare inconveniente para el trabajador.
 
-d) Niño o niña: toda persona que no ha cumplido catorce años.
+Otorgada la autorización, se aplicarán al menor las normas del artículo 246 del Código Civil y será considerado plenamente capaz para ejercitar las acciones correspondientes.
 
-Queda prohibida la contratación de niños, niñas y adolescentes sin edad para trabajar, sin perjuicio de lo señalado en el artículo 16.
+La autorización exigida en el inciso segundo no se aplicará a la mujer casada, quien se regirá al respecto por lo previsto en el artículo 150 del Código Civil.
+
+Un reglamento del Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, determinará las actividades consideradas como peligrosas para la salud y el desarrollo de los menores de dieciocho años que impidan, en consecuencia, celebrar contratos de trabajo en conformidad a los incisos anteriores, debiendo actualizarse dicho listado cada dos años.
+
+Las empresas que contraten los servicios de menores de dieciocho años, deberán registrar dichos contratos en la respectiva Inspección Comunal del Trabajo.
 
 #### Artículo 14
 
-Es trabajo adolescente protegido aquel realizado por adolescentes con edad para trabajar, que no sea considerado trabajo peligroso y que, por su naturaleza, no perjudique su asistencia regular a clases y/o su participación en programas de orientación o formación profesional, según corresponda.
+Los menores de dieciocho años de edad no serán admitidos en trabajos ni en faenas que requieran fuerzas excesivas, ni en actividades que puedan resultar peligrosas para su salud, seguridad o moralidad.
 
-La contratación de un adolescente con edad para trabajar se deberá sujetar a las siguientes reglas especiales:
+Los menores de veintiún años no podrán ser contratados para trabajos mineros subterráneos sin someterse previamente a un examen de aptitud.
 
-a) Que los servicios que sean prestados por el adolescente con edad para trabajar sean de aquellos que puedan ser calificados como trabajo adolescente protegido.
-
-b) Contar con autorización por escrito del padre, madre o de ambos que tengan el cuidado personal; o a falta de ellos, de quien tenga el cuidado personal; a falta de éstos, de quien tenga la representación legal del adolescente con edad para trabajar; o a falta de los anteriores, del Inspector del Trabajo respectivo.
-
-En el último caso, previamente a otorgar la autorización, el Inspector del Trabajo requerirá informe sobre la conveniencia de la misma a la Oficina Local de la Niñez o al órgano de protección administrativa de la niñez que corresponda.
-
-En caso de que la autorización haya sido otorgada por el Inspector del Trabajo, éste deberá poner los antecedentes en conocimiento del Tribunal de Familia competente, el que podrá dejar sin efecto la autorización si la estimare inconveniente para el adolescente con edad para trabajar.
-
-La autorización exigida no se aplicará a la mujer casada en sociedad conyugal, quien se regirá al respecto por lo previsto en el artículo 150 del Código Civil.
-
-En cualquier caso, se aplicará al adolescente con edad para trabajar lo dispuesto en el artículo 251 del Código Civil y será considerado plenamente capaz para ejercer las acciones correspondientes.
-
-c) El adolescente con edad para trabajar deberá acreditar haber concluido su Educación Media o encontrarse actualmente cursando ésta o la Educación Básica. En el primer caso, el adolescente con edad para trabajar deberá acompañar el Certificado de Licencia de Enseñanza Media. En caso de estar cursando la Educación Básica o Media, el adolescente con edad para trabajar deberá acreditar al empleador su calidad de alumno regular, mediante certificado vigente para el respectivo año académico emitido por la respectiva institución educacional. El referido certificado deberá actualizarse cada seis meses, debiendo anexarse al contrato de trabajo, el cual deberá ser registrado por el empleador a través del sitio electrónico de la Dirección del Trabajo, dentro de los cinco días siguientes a su suscripción o a la recepción de la actualización del certificado, según corresponda.
-
-d) La jornada laboral del adolescente con edad para trabajar no podrá ser superior a treinta horas semanales, distribuidas en un máximo de seis horas diarias en el año escolar y hasta ocho horas diarias durante la interrupción del año escolar y en el período de vacaciones, de conformidad con lo dispuesto en la normativa del Ministerio de Educación que fije normas generales sobre calendario escolar. En todo caso, durante el año escolar, la suma total del tiempo diario destinado a actividades educativas y jornada de trabajo no podrá ser superior a doce horas. En ningún caso será procedente el trabajo en jornada extraordinaria.
-
-Para efectos de determinar las épocas en que podrá aplicarse una u otra jornada máxima diaria, se deberá adjuntar al contrato de trabajo el calendario regional aprobado por la Secretaría Regional Ministerial o, en su caso, las modificaciones a dicho calendario solicitadas por los sostenedores y autorizadas por la autoridad competente, de conformidad con lo dispuesto en la normativa antes mencionada.
-
-El empleador deberá garantizar siempre y en todo caso condiciones de seguridad y salud en el trabajo para los adolescentes con edad para trabajar, así como los mismos derechos de alimentación y transporte a que accedan los demás trabajadores, según corresponda.
-
-e) Informar por parte del empleador a la Oficina Local de la Niñez o al órgano de protección administrativa de la niñez que corresponda de la contratación respectiva, dejando constancia del cumplimiento de los requisitos legales.
+El empleador que contratare a un menor de veintiún años sin haber cumplido el requisito establecido en el inciso precedente incurrirá en una multa de tres a ocho unidades tributarias mensuales, la que se duplicará en caso de reincidencia.
 
 #### Artículo 15
 
-Los niños, niñas, adolescentes sin edad para trabajar y adolescentes con edad para trabajar no serán admitidos en trabajos ni faenas que requieran fuerzas excesivas, ni en actividades que puedan resultar peligrosas para su salud, seguridad o moralidad.
+Queda prohibido el trabajo de menores de dieciocho años en cabarets y otros establecimientos análogos que presenten espectáculos vivos, como también en los que expendan bebidas alcohólicas que deban consumirse en el mismo establecimiento.
 
-Sin perjuicio de lo señalado en el artículo 185 de este Código, y para efectos del presente capítulo, se entiende también como trabajo peligroso aquel trabajo realizado por niños, niñas y adolescentes que participan en cualquier actividad u ocupación que, por su naturaleza o por las condiciones en que se lleva a cabo, es probable que dañe o afecte su salud, seguridad o desarrollo físico y/o psicológico.
-
-Queda prohibido el trabajo de niños, niñas, adolescentes sin edad para trabajar y adolescentes con edad para trabajar en cabarets y otros establecimientos análogos que presenten espectáculos en vivo, como también en los que expendan bebidas alcohólicas que deban consumirse en el mismo establecimiento o en aquellos en que se consuma tabaco.
-
-En ningún caso se podrá autorizar a niños, niñas, adolescentes sin edad para trabajar y adolescentes con edad para trabajar, para prestar servicios en recintos o lugares donde se realicen o exhiban espectáculos de significación sexual.
-
-Un reglamento dictado por el Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, la Subsecretaría de la Niñez y la Defensoría de los Derechos de la Niñez, y suscrito además por el Ministerio de Salud, determinará las actividades consideradas como trabajo peligroso conforme lo señalado precedentemente, e incluirá directrices destinadas a evitar este tipo de trabajo, dirigidas a los empleadores y establecimientos educacionales, de tal manera de proteger los derechos de las y los adolescentes con edad para trabajar. Este reglamento deberá ser evaluado cada cuatro años.
-
-#### Artículo 15 bis
-
-Los adolescentes con edad para trabajar podrán actuar en espectáculos vivos que no se desarrollen en cabarets u otros establecimientos similares o en aquellos en que se expendan bebidas alcohólicas que deban ser consumidas en el mismo establecimiento, siempre que cuenten con autorización de su representante legal y del respectivo Tribunal de Familia. Esta última autorización se otorgará previa verificación del cumplimiento de los requisitos previstos en el artículo 14 y cuando dicha actuación no sea peligrosa para la salud, seguridad o moralidad del adolescente con edad para trabajar.
-
-La contravención de lo señalado en el inciso anterior se sancionará según las reglas del artículo 18 bis o 18 quáter, según corresponda.
+Podrán, sin embargo, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, actuar en aquellos espectáculos los menores de edad que tengan expresa autorización de su representante legal y del respectivo Tribunal de Familia.
 
 #### Artículo 16
 
-En casos debidamente calificados, cumpliendo con los requisitos del artículo 14 y con la autorización del Tribunal de Familia competente, podrá permitirse a los niños, niñas, y a los adolescentes sin edad para trabajar, que celebren contratos para participar en espectáculos de teatro, cine, radio, televisión, circo u otras actividades similares, debiendo el empleador adoptar las medidas de protección eficaz para proteger su vida y salud física y mental. En este caso, la jornada de trabajo deberá acordarse teniendo en consideración el interés superior del niño, niña o adolescente sin edad para trabajar, y la edad, madurez y grado de desarrollo en que se encuentre.
-
-El empleador deberá costear o proveer el traslado y alimentación en condiciones adecuadas de higiene y seguridad.
+En casos debidamente calificados, cumpliendo con lo dispuesto en el inciso segundo del artículo 13, y con la autorización de su representante legal o del respectivo Tribunal de Familia, podrá permitirse a los menores de quince años que celebren contrato de trabajo con personas o entidades dedicadas al teatro, cine, radio, televisión, circo u otras actividades similares.
 
 #### Artículo 17
 
-Si se contratare a un niño, niña o adolescente sin sujeción a lo dispuesto en los artículos precedentes, el empleador estará sujeto a todas las obligaciones inherentes al contrato mientras se aplicare; pero el inspector del trabajo, de oficio o a petición de parte, deberá ordenar la cesación de la relación y aplicar al empleador las sanciones que correspondan.
+Si se contratare a un menor sin sujeción a lo dispuesto en los artículos precedentes, el empleador estará sujeto a todas las obligaciones inherentes al contrato mientras se aplicare; pero el inspector del trabajo, de oficio o a petición de parte, deberá ordenar la cesación de la relación y aplicar al empleador las sanciones que correspondan.
 
-Cualquier persona podrá denunciar ante los organismos competentes las infracciones relativas al trabajo de niños, niñas y adolescentes de que tuviere conocimiento.
-
-#### Artículo 18
-
-Queda prohibido a los adolescentes con edad para trabajar realizar labores en horario nocturno en establecimientos industriales y comerciales. El período durante el cual el adolescente con edad para trabajar no puede trabajar de noche será de trece horas consecutivas, que comprenderá, al menos, el intervalo que media entre las veintiuna y las ocho horas.
-
-#### Artículo 18 bis
-
-El empleador que incumpliere cualquiera de los requisitos establecidos en el artículo 14 será sancionado con una multa de:
-
-a) 2 a 5 unidades tributarias mensuales, en el caso de las microempresas.
-
-b) 3 a 10 unidades tributarias mensuales, en el caso de las pequeñas empresas.
-
-c) 6 a 40 unidades tributarias mensuales, en el caso de las medianas empresas.
-
-d) 8 a 60 unidades tributarias mensuales, en el caso de las grandes empresas.
-
-La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción, su reiteración y el número de personas involucradas.
-
-#### Artículo 18 ter
-
-El empleador que contrate niños, niñas o adolescentes sin edad para trabajar para la prestación de servicios personales bajo dependencia y subordinación, salvo lo dispuesto en el artículo 16, será sancionado con una multa de:
-
-a) 10 a 50 unidades tributarias mensuales, en el caso de las microempresas.
-
-b) 20 a 100 unidades tributarias mensuales, en el caso de las pequeñas empresas.
-
-c) 50 a 200 unidades tributarias mensuales, en el caso de las medianas empresas.
-
-d) 100 a 300 unidades tributarias mensuales, en el caso de las grandes empresas.
-
-La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción, su reiteración y el número de personas involucradas.
-
-Si la contratación de niños, niñas o adolescentes sin edad para trabajar lo fuere para realizar trabajos calificados como peligrosos, de acuerdo al reglamento establecido en el artículo 15, la multa se incrementará hasta en el 50 por ciento.
-
-#### Artículo 18 quáter
-
-El empleador que contrate el servicio de adolescentes con edad para trabajar bajo dependencia y subordinación para la realización de actividades consideradas como trabajos peligrosos, de acuerdo al reglamento a que hace referencia el artículo 15, será sancionado con una multa de:
-
-a) 5 a 20 unidades tributarias mensuales, en el caso de las microempresas.
-
-b) 10 a 50 unidades tributarias mensuales, en el caso de las pequeñas empresas.
-
-c) 15 a 80 unidades tributarias mensuales, en el caso de las medianas empresas.
-
-d) 20 a 100 unidades tributarias mensuales, en el caso de las grandes empresas.
-
-La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción, su reiteración y el número de personas involucradas.
+Cualquier persona podrá denunciar ante los organismos competentes las infracciones relativas al trabajo infantil de que tuviere conocimiento.
 
 #### Artículo 18
 
-quinquies.- El monto de la multa interpuesta se duplicará en caso de que el empleador hubiere sido sancionado más de tres veces por infracción de los artículos 18 bis, 18 ter o 18 quáter. En estos últimos dos casos, además, si las infracciones se hubieren dado dentro de un período de cinco años, el empleador quedará imposibilitado de contratar adolescentes con edad para trabajar bajo las normas de este capítulo.
+Queda prohibido a los menores de dieciocho años todo trabajo nocturno en establecimientos industriales y comerciales, que se ejecuten entre las veintidós y las siete horas, con excepción de aquellos en que únicamente trabajen miembros de la familia, bajo la autoridad de uno de ellos.
 
-La Dirección del Trabajo deberá llevar un registro de las empresas que hubieren sido sancionadas por infracción de lo dispuesto en los artículos 18 ter y 18 quáter, por resolución administrativa o sentencia judicial, firmes, y deberá publicar semestralmente en su página web la nómina de las empresas infractoras. Para el caso correspondiente, el tribunal enviará a la Dirección del Trabajo copia de los fallos respectivos.
+Exceptúase de esta prohibición a los varones mayores de dieciséis años, en las industrias y comercios que determine el reglamento, tratándose de trabajos que, en razón de su naturaleza, deban necesariamente continuarse de día y de noche.
+
+A los menores mencionados en este artículo, les será aplicable lo dispuesto en el inciso segundo del artículo 13.
 
 ## Capítulo III
 
@@ -344,9 +230,9 @@ Para computar la proporción a que se refiere el artículo anterior, se seguirá
 
 1.- se tomará en cuenta el número total de trabajadores que un empleador ocupe dentro del territorio nacional y no el de las distintas sucursales separadamente;
 
-2.- se excluirá al personal técnico especialista;
+2.- se excluirá al personal técnico especialista que no pueda ser reemplazado por personal nacional;
 
-3.- se tendrá como chileno al extranjero cuyo cónyuge o conviviente civil o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
+3.- se tendrá como chileno al extranjero cuyo cónyuge o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
 
 4.- se considerará también como chilenos a los extranjeros residentes por más de cinco años en el país, sin tomarse en cuenta las ausencias accidentales.
 
@@ -366,33 +252,21 @@ Jornada ordinaria de trabajo
 
 #### Artículo 22
 
-La duración de la jornada ordinaria de trabajo no excederá de cuarenta horas semanales y su distribución se podrá efectuar en cada semana calendario o sobre la base de promedios semanales en lapsos de hasta cuatro semanas, con los límites y requisitos señalados en este capítulo.
+La duración de la jornada ordinaria de trabajo no excederá de cuarenta y cinco horas semanales.
 
-Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que presten servicios como gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata en razón de la naturaleza de las labores desempeñadas. En caso de controversia y a petición de cualquiera de las partes, el Inspector del Trabajo respectivo resolverá si esa determinada labor se encuentra en alguna de las situaciones descritas. De su resolución podrá recurrirse ante el juez competente dentro de quinto día de notificada, quien resolverá en única instancia, sin forma de juicio, oyendo a las partes.
+Quedarán excluidos de la limitación de jornada de trabajo los trabajadores que presten servicios a distintos empleadores; los gerentes, administradores, apoderados con facultades de administración y todos aquellos que trabajen sin fiscalización superior inmediata; los contratados de acuerdo con este Código para prestar servicios en su propio hogar o en un lugar libremente elegido por ellos; los agentes comisionistas y de seguros, vendedores viajantes, cobradores y demás similares que no ejerzan sus funciones en el local del establecimiento.
 
 También quedarán excluidos de la limitación de jornada de trabajo los trabajadores que se desempeñen a bordo de naves pesqueras.
 
-La jornada de trabajo de los y las deportistas profesionales y de los trabajadores y las trabajadoras que desempeñan actividades conexas se organizará por el cuerpo técnico y la entidad deportiva profesional correspondiente, de acuerdo a la naturaleza de la actividad deportiva y a límites compatibles con la salud de los y las deportistas, y no les será aplicable lo establecido en el inciso primero de este artículo.
+Asimismo, quedan excluidos de la limitación de jornada, los trabajadores contratados para que presten sus servicios preferentemente fuera del lugar o sitio de funcionamiento de la empresa, mediante la utilización de medios informáticos o de telecomunicaciones.
 
-> **Nota.** NOTA 1 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso primero del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
+La jornada de trabajo de los deportistas profesionales y de los trabajadores que desempeñan actividades conexas se organizará por el cuerpo técnico y la entidad deportiva profesional correspondiente, de acuerdo a la naturaleza de la actividad deportiva y a límites compatibles con la salud de los deportistas, y no les será aplicable lo establecido en el inciso primero de este artículo.
 
-#### Artículo 22 bis
-
-Si las partes acuerdan que la jornada señalada en el inciso primero del artículo anterior pueda distribuirse en base a un promedio semanal de cuarenta horas en un ciclo de hasta cuatro semanas, ella no podrá exceder de cuarenta y cinco horas ordinarias en cada semana, ni extenderse con este límite por más de dos semanas continuas en el ciclo.
-
-A efectos del inciso anterior, se deberá fijar de común acuerdo un calendario con la distribución diaria y semanal de las horas de trabajo en el ciclo. Con todo, las partes podrán acordar diferentes alternativas de distribución de la jornada en un ciclo. El empleador comunicará al trabajador la alternativa que se aplicará en el ciclo siguiente, con al menos una semana de antelación al inicio de éste.
-
-En caso de que el trabajador al que se aplique el sistema se encuentre sindicalizado, se requerirá, además, el acuerdo previo de la organización sindical a la que se encuentre afiliado.
-
-Si al término de la relación laboral el trabajador hubiere prestado servicios por más horas que el promedio legal en el ciclo respectivo, calculadas de forma proporcional, deberán pagarse todas aquellas horas necesarias para completar el promedio de cuarenta horas semanales.
-
-Mediante negociación colectiva o pactos directos con sindicatos, y sólo respecto de sus afiliados, se podrá acordar que el tope semanal contemplado en el inciso primero se amplíe a cincuenta y dos horas en cada semana, aplicándose los demás requisitos y criterios contenidos en los incisos anteriores.
-
-> **Nota.** NOTA 2 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
+> **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
 #### Artículo 23
 
-Sin perjuicio de lo señalado en el artículo 22, los trabajadores que se desempeñen a bordo de naves pesqueras tendrán derecho a uno o varios descansos, los cuales, en conjunto, no podrán ser inferiores a doce horas dentro de cada veinticuatro horas.
+Sin perjuicio de lo señalado en el artículo anterior, los trabajadores que se desempeñen a bordo de naves pesqueras tendrán derecho a uno o varios descansos, los cuales, en conjunto, no podrán ser inferiores a doce horas dentro de cada veinticuatro horas.
 
 Cuando las necesidades de las faenas lo permitan, los descansos deberán cumplirse preferentemente en tierra. En caso de que se cumplan total o parcialmente a bordo de la nave, ésta deberá contar con las acomodaciones necesarias para ello.
 
@@ -434,67 +308,35 @@ Las infracciones a lo dispuesto en este artículo serán sancionadas con multa a
 
 #### Artículo 25
 
-La jornada ordinaria de trabajo del personal de choferes y auxiliares de la locomoción colectiva interurbana, y de servicios interurbanos de transporte de pasajeros, será de cuarenta horas semanales promedio en cómputo mensual. En el caso de los choferes y auxiliares de la locomoción colectiva interurbana y de los servicios interurbanos de transporte de pasajeros, el tiempo de los descansos a bordo o en tierra y de las esperas que les corresponda cumplir entre turnos laborales sin realizar labor, no será imputable a la jornada y su retribución o compensación se ajustará al acuerdo de las partes.
+La jornada ordinaria de trabajo del personal de choferes y auxiliares de la locomoción colectiva interurbana, de servicios interurbanos de transporte de pasajeros, de choferes de vehículos de carga terrestre interurbana y del que se desempeña a bordo de ferrocarriles, será de 180 horas mensuales. En el caso de los choferes y auxiliares de la locomoción colectiva interurbana y de los servicios interurbanos de pasajeros, el tiempo de los descansos a bordo o en tierra y de las esperas que les corresponda cumplir entre turnos laborales sin realizar labor, no será imputable a la jornada y su retribución o compensación se ajustará al acuerdo de las partes. Tratándose de los choferes de vehículos de carga terrestre interurbana, el mencionado tiempo de descanso tampoco será imputable a la jornada y su retribución o compensación se ajustará de igual modo. No obstante, en el caso de estos últimos, los tiempos de espera se imputarán a la jornada.
 
 Todos los trabajadores aludidos en el inciso precedente deberán tener un descanso mínimo ininterrumpido de ocho horas dentro de cada veinticuatro horas.
 
-Cuando los choferes y auxiliares de la locomoción colectiva interurbana arriben a un terminal, después de cumplir en la ruta o en la vía, respectivamente, una jornada de ocho o más horas, deberán tener un descanso mínimo en tierra de ocho horas.
+Cuando los choferes y auxiliares de la locomoción colectiva interurbana y el personal que se desempeña a bordo de ferrocarriles arriben a un terminal, después de cumplir en la ruta o en la vía, respectivamente, una jornada de ocho o más horas, deberán tener un descanso mínimo en tierra de ocho horas.
 
-En ningún caso el chofer de la locomoción colectiva interurbana podrá manejar más de cinco horas continuas, después de las cuales deberá tener un descanso cuya duración mínima será de dos horas.
+En ningún caso el chofer de la locomoción colectiva interurbana o el de vehículos de carga terrestre interurbana podrá manejar más de cinco horas continuas, después de las cuales deberá tener un descanso cuya duración mínima será de dos horas.
 
-El bus deberá contar con una litera adecuada para el descanso, siempre que éste se realice total o parcialmente a bordo de aquél.
-
-#### Artículo 25 bis
-
-La jornada ordinaria de trabajo de choferes de vehículos de carga terrestre interurbana no excederá de ciento ochenta horas mensuales con un descanso anual adicional de seis días, la que no podrá distribuirse en menos de veintiún días. El tiempo de los descansos a bordo o en tierra y de las esperas a bordo o en el lugar de trabajo que les corresponda no será imputable a la jornada, y su retribución o compensación se ajustará al acuerdo de las partes. La base de cálculo para el pago de los tiempos de espera no podrá ser inferior a la proporción respectiva de 1,5 ingresos mínimos mensuales, en base a un denominador correspondiente a la jornada de ciento ochenta horas mensuales. Con todo, los tiempos de espera no podrán exceder de un límite máximo de ochenta y ocho horas mensuales.
-
-El trabajador deberá tener un descanso mínimo ininterrumpido de ocho horas dentro de cada veinticuatro horas.
-
-En ningún caso el trabajador podrá manejar más de cinco horas continuas, después de las cuales deberá tener un descanso cuya duración mínima será de dos horas. En los casos de conducción continua inferior a cinco horas el conductor tendrá derecho, al término de ella, a un descanso cuya duración mínima será de veinticuatro minutos por hora conducida. En todo caso, esta obligación se cumplirá en el lugar habilitado más próximo en que el vehículo pueda ser detenido, sin obstaculizar la vía pública. El camión deberá contar con una litera adecuada para el descanso, siempre que éste se realice total o parcialmente a bordo de aquél.
-
-#### Artículo 25 ter
-
-La jornada de trabajo y descansos de los trabajadores que se desempeñen como parte de la tripulación a bordo de ferrocarriles, se regirá por las siguientes reglas:
-
-1.- La jornada ordinaria de trabajo no podrá superar las cuarenta horas semanales promedio en cómputo mensual. La jornada diaria no podrá superar las siete horas treinta minutos continuas en el caso del transporte de pasajeros, ni las nueve horas continuas en el caso de transporte de carga, ambos períodos dentro de un lapso de veinticuatro horas.
-
-En el caso de que circunstancias tales como el tiempo de cruzamiento de trenes, accidentes, u otras difíciles de prever y que impliquen interrumpir el servicio ferroviario de pasajeros o de carga, superando los tiempos máximos establecidos en el párrafo anterior, el empleador deberá pagar las horas en exceso con el mismo recargo que establece el artículo 32. Con todo, si las contingencias descritas implicaren una demora tal que se deban sobrepasar las once horas de trabajo, el empleador deberá proveer una tripulación de relevo para la continuación del servicio.
-
-2.- La programación mensual de los servicios a realizar deberá ser entregada al trabajador con a lo menos quince días de anticipación.
-
-3.- Tratándose de trenes de pasajeros, el maquinista no podrá conducir más de cinco horas continuas, tras lo cual tendrá derecho a una hora de descanso imputable a la jornada diaria.
-
-4.- Finalizada la jornada ordinaria diaria el trabajador tendrá derecho a un descanso mínimo de diez horas continuas, al que se agregará el tiempo necesario para traslado del trabajador al lugar en que pernocte o descanse.
-
-5.- Las partes podrán programar turnos de espera o llamado de hasta siete horas treinta minutos continuas dentro de un lapso de veinticuatro horas para la realización de un servicio; con todo, luego de transcurridas las horas del referido turno, el trabajador tendrá derecho a un descanso mínimo igual al indicado en el número 4. Las horas correspondientes a los turnos de llamado no serán imputables a la jornada mensual y deberán remunerarse de común acuerdo entre las partes. Esta retribución no podrá ser inferior al valor de la hora correspondiente a uno y medio ingreso mínimo mensual, en base a un denominador correspondiente a la jornada respectiva.
-
-6.- Las reglas anteriores se aplicarán sin perjuicio de lo dispuesto en el inciso séptimo del artículo 38.
+El bus o camión deberá contar con una litera adecuada para el descanso, siempre que éste se realice total o parcialmente a bordo de aquéllos.
 
 #### Artículo 26
 
 Si en el servicio de transporte urbano colectivo de pasajeros, las partes acordaren cumplir en turnos la jornada ordinaria semanal, éstos no excederán de ocho horas de trabajo, con un descanso mínimo de diez horas entre turno y turno. En todo caso, los choferes no podrán manejar más de cuatro horas continuas.
 
-#### Artículo 26 bis
-
-El personal que se desempeñe como chofer o auxiliar de los servicios de transporte rural colectivo de pasajeros se regirá por el artículo precedente. Sin perjuicio de ello, podrán pactar con su empleador una jornada ordinaria de trabajo de cuarenta horas semanales promedio en cómputo mensual distribuidas en no menos de veinte días al mes. En ambos casos, los tiempos de descanso a bordo o en tierra y de las esperas que les corresponda cumplir entre turnos laborales sin realizar labor, no será imputable a la jornada, y su retribución o compensación se ajustará al acuerdo de las partes. En ningún caso los trabajadores podrán conducir por más de cinco horas continuas.
-
-Se entenderá como servicios de transporte rural colectivo de pasajeros, aquellos que cumplan con los requisitos que determine reglamentariamente el Ministerio de Transportes y Telecomunicaciones.
-
 #### Artículo 27
 
-Los trabajadores madres y padres de niños y niñas de hasta doce años, y las personas que tengan el cuidado personal de éstos, tendrán derecho a una banda de dos horas en total, dentro de la que podrán anticipar o retrasar hasta en una hora el comienzo de sus labores, lo que determinará también el horario de salida al final de la jornada.
+Lo dispuesto en el inciso primero del artículo 22 no es aplicable al personal que trabaje en hoteles, restaurantes o clubes - exceptuado el personal administrativo, el de lavandería, lencería y cocina-, cuando, en todos estos casos, el movimiento diario sea notoriamente escaso, y los trabajadores deban mantenerse constantemente a disposición del público.
 
-Para ejercer este derecho el trabajador deberá entregar al empleador el respectivo certificado de nacimiento o la sentencia que le otorgue el cuidado personal de un niño o niña. El empleador no podrá negarse sino cuando la empresa funcione en un horario que no permita anticipar o postergar la jornada de trabajo, o por la naturaleza de los servicios prestados por el trabajador, como en el caso de funciones o labores de atención de público, o que sean necesarias para la realización de los servicios de otros trabajadores, o de atención de servicios de urgencia, trabajo por turnos, guardias, o similares, en tanto requieran que el trabajador efectivamente se encuentre en su puesto a la hora específica señalada en el contrato de trabajo o en el reglamento interno.
+El desempeño de la jornada que establece este artículo sólo se podrá distribuir hasta por un máximo de cinco días a la semana.
 
-Si ambos padres son trabajadores, cualquiera de ellos, a elección de la madre, podrá hacer uso de este derecho.
+Con todo, los trabajadores a que se refiere este artículo no podrán permanecer más de 12 horas diarias en el lugar de trabajo y tendrán, dentro de esta jornada, un descanso no inferior a una hora, imputable a dicha jornada.
 
-En caso de controversia, y a petición de cualquiera de las partes, el inspector del trabajo respectivo resolverá si esa determinada labor se encuentra en alguna de las situaciones descritas.
+En caso de duda y a petición del interesado, el Director del Trabajo resolverá si una determinada labor o actividad se encuentra en alguna de las situaciones descritas en este artículo. De su resolución podrá recurrirse ante el juez competente dentro de quinto día de notificada, quien resolverá en única instancia, sin forma de juicio, oyendo a las partes.
 
 #### Artículo 28
 
-El máximo semanal establecido en el inciso primero del artículo 22 no podrá distribuirse en más de seis ni en menos de cuatro días.
+El máximo semanal establecido en el inciso primero del artículo 22 no podrá distribuirse en más de seis ni en menos de cinco días.
 
-En ningún caso la jornada ordinaria podrá exceder de diez horas por día, sin perjuicio de lo dispuesto en el inciso séptimo del artículo 38.
+En ningún caso la jornada ordinaria podrá exceder de diez horas por día, sin perjuicio de lo dispuesto en el inciso final del artículo 38.
 
 #### Artículo 29
 
@@ -512,11 +354,9 @@ Se entiende por jornada extraordinaria la que excede del máximo legal o de la p
 
 #### Artículo 31
 
-En las faenas que, por su naturaleza, no perjudiquen la salud del trabajador, podrán pactarse horas extraordinarias hasta un máximo de dos por día, las que se pagarán con el recargo señalado en el artículo siguiente. Tratándose de la modalidad dispuesta en el artículo 22 bis, en ningún caso la suma de la jornada ordinaria y extraordinaria podrá superar las cincuenta y dos horas semanales.
+En las faenas que, por su naturaleza, no perjudiquen la salud del trabajador, podrán pactarse horas extraordinarias hasta un máximo de dos por día, las que se pagarán con el recargo señalado en el artículo siguiente.
 
 La respectiva Inspección del Trabajo, actuando de oficio o a petición de parte, prohibirá el trabajo en horas extraordinarias en aquellas faenas que no cumplan la exigencia señalada en el inciso primero de este artículo y de su resolución podrá reclamarse al Juzgado de Letras del Trabajo que corresponda, dentro de los treinta días siguientes a la notificación.
-
-> **Nota.** NOTA 3 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso primero del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 #### Artículo 32
 
@@ -526,17 +366,13 @@ No obstante la falta de pacto escrito, se considerarán extraordinarias las que 
 
 Las horas extraordinarias se pagarán con un recargo del cincuenta por ciento sobre el sueldo convenido para la jornada ordinaria y deberán liquidarse y pagarse conjuntamente con las remuneraciones ordinarias del respectivo período. En caso de que no exista sueldo convenido, o éste sea inferior al ingreso mínimo mensual que determina la ley, éste constituirá la base de cálculo para el respectivo recargo.
 
-Con todo, las partes podrán acordar por escrito que las horas extraordinarias se compensen por días adicionales de feriado. En tal caso, podrán pactarse hasta cinco días hábiles de descanso adicional al año, los cuales deberán ser utilizados por el trabajador dentro de los seis meses siguientes al ciclo en que se originaron las horas extraordinarias, para lo cual el trabajador deberá dar aviso al empleador con cuarenta y ocho horas de anticipación. Si no los solicita en la oportunidad indicada corresponderá su pago dentro de la remuneración del respectivo periodo. La compensación de horas extraordinarias por días adicionales de feriado se regirá por el mismo recargo que corresponde a su pago, es decir, por cada hora extraordinaria corresponderá una hora y media de feriado. En caso de que existan días pendientes de utilizar al término de la relación laboral, éstos se compensarán en conformidad a lo establecido en el artículo 73.
-
 No serán horas extraordinarias las trabajadas en compensación de un permiso, siempre que dicha compensación haya sido solicitada por escrito por el trabajador y autorizada por el empleador.
 
 #### Artículo 33
 
-El empleador tiene el deber de controlar la asistencia y determinar las horas de trabajo, sean ordinarias o extraordinarias. Estará obligado a llevar un libro de asistencia del personal, un reloj control con tarjetas de registro o un sistema electrónico de registro.
+Para los efectos de controlar la asistencia y determinar las horas de trabajo, sean ordinarias o extraordinarias, el empleador llevará un registro que consistirá en un libro de asistencia del personal o en un reloj control con tarjetas de registro.
 
-Una resolución del Director del Trabajo, que se publicará en el Diario Oficial, establecerá y regulará las condiciones y requisitos que deberán cumplir los sistemas electrónicos de registro y control de asistencia y horas de trabajo correspondientes al servicio prestado, el que será uniforme para una misma actividad.
-
-La Dirección del Trabajo, a petición de parte, se pronunciará respecto de si un determinado sistema electrónico se ajusta a las condiciones establecidas en la referida resolución, lo que habilitará su utilización.
+Cuando no fuere posible aplicar las normas previstas en el inciso precedente, o cuando su aplicación importare una difícil fiscalización, la Dirección del Trabajo, de oficio o a petición de parte, podrá establecer y regular, mediante resolución fundada, un sistema especial de control de las horas de trabajo y de la determinación de las remuneraciones correspondientes al servicio prestado. Este sistema será uniforme para una misma actividad.
 
 ### Párrafo 3º
 
@@ -547,26 +383,6 @@ Descanso dentro de la jornada
 La jornada de trabajo se dividirá en dos partes, dejándose entre ellas, a lo menos, el tiempo de media hora para la colación. Este período intermedio no se considerará trabajado para computar la duración de la jornada diaria.
 
 Se exceptúan de lo dispuesto en el inciso anterior los trabajos de proceso continuo. En caso de duda de si una determinada labor está o no sujeta a esta excepción, decidirá la Dirección del Trabajo mediante resolución de la cual podrá reclamarse ante el Juzgado de Letras del Trabajo en los términos previstos en el artículo 31.
-
-#### Artículo 34 bis
-
-Sin perjuicio de lo dispuesto en el artículo precedente, los trabajadores de restaurantes, hoteles o clubes que atiendan directamente al público podrán pactar la interrupción de la jornada diaria por más de media y hasta por cuatro horas, en tanto la suma de las horas efectivamente trabajadas no sobrepase los límites semanales y diarios señalados en los artículos 22 y 28. Cada trabajador podrá optar por permanecer en el lugar de trabajo, pero el empleador no podrá requerir de su parte, en este lapso, la prestación de servicios de ninguna naturaleza; la infracción de esta obligación será sancionada con una multa de 60 unidades tributarias mensuales.
-
-Las referidas horas de interrupción no serán imputables a la jornada diaria, pero su exceso sobre media hora deberá remunerarse de común acuerdo entre las partes en el pacto referido, sin que pueda acordarse un monto inferior al valor por hora correspondiente a uno y medio ingreso mínimo mensual en base a una jornada de cuarenta horas semanales. En caso que el período de colación fuere imputable a la jornada de trabajo, no corresponderá remunerar conforme a esta disposición el tiempo que ya estuviese imputado a la jornada. El empleador deberá costear el transporte de ida y regreso del trabajador a otro lugar, dentro del radio urbano respectivo, durante las horas de interrupción.
-
-El pacto deberá incluir a todos los trabajadores que atienden público y constar por escrito. El empleador deberá remitir a la Dirección del Trabajo copia del respectivo pacto.
-
-Se podrá incorporar en el pacto a trabajadores de los establecimientos señalados que, sin atender directamente al público, sean de difícil reemplazo, en atención a su condición técnica, profesional o a su experiencia en una determinada especialidad y a las características de la prestación de sus servicios. Al efecto, el empleador deberá remitir a la Dirección del Trabajo copia del respectivo pacto y de los antecedentes que acrediten las circunstancias señaladas en este inciso.
-
-El pacto deberá ser acordado con la o las organizaciones sindicales a las que pertenezcan los trabajadores involucrados y podrá extenderse hasta por seis meses, renovables de común acuerdo. En caso de no existir aquellas, el acuerdo deberá celebrarse en forma colectiva con dichos trabajadores, ante un ministro de fe. Para aplicar estos pactos a los trabajadores de la empresa sin afiliación sindical, se requerirá de su consentimiento expreso, manifestado por escrito.
-
-La distribución de la jornada pactada conforme al presente artículo no será compatible con aquella señalada en el artículo 27.
-
-Durante las interrupciones de la jornada de trabajo a que se refieren los incisos precedentes, el trabajador se encontrará bajo la cobertura del seguro a que se refiere el Título III del Libro II.
-
-La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso segundo del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
-
-> **Nota.** NOTA 4 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso segundo del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 ### Párrafo 4º
 
@@ -592,13 +408,11 @@ En cada año calendario que los días 18 y 19 de septiembre sean días martes y 
 
 El descanso y las obligaciones y prohibiciones establecidas al respecto en los dos artículos anteriores empezarán a más tardar a las 21 horas del día anterior al domingo o festivo y terminarán a las 6 horas del día siguiente de éstos, salvo las alteraciones horarias que se produzcan con motivo de la rotación en los turnos de trabajo.
 
-En el caso de los trabajadores de hoteles, restaurantes, pubs, bares, discotecas y similares, las labores realizadas en el día anterior a un día de descanso deberán finalizar, a más tardar, a las 00:00 horas. En casos justificados, se podrá traspasar dicho límite hasta en tres horas, las que deberán pagarse con un recargo del cien por ciento sobre el valor de la hora ordinaria correspondiente al sueldo convenido. Con todo, el trabajador deberá tener un descanso no inferior a treinta y tres horas continuas, a partir del término de los servicios en la jornada que antecede a un día de descanso.
-
 #### Artículo 37
 
 Las empresas o faenas no exceptuadas del descanso dominical no podrán distribuir la jornada ordinaria de trabajo en forma que incluya el día domingo o festivo, salvo en caso de fuerza mayor.
 
-Si la Dirección del Trabajo estableciere fundadamente que no hubo fuerza mayor, el empleador deberá pagar las horas como extraordinarias y se le aplicará una multa con arreglo a lo previsto en el artículo 506.
+Si la Dirección del Trabajo estableciere fundadamente que no hubo fuerza mayor, el empleador deberá pagar las horas como extraordinarias y se le aplicará una multa con arreglo a lo previsto en el artículo 477.
 
 #### Artículo 38
 
@@ -616,43 +430,23 @@ Exceptúanse de lo ordenado en los artículos anteriores los trabajadores que se
 
 6.- en las faenas portuarias;
 
-7.- en los establecimientos de comercio y de servicios que atiendan directamente al público, respecto de los trabajadores que realicen dicha atención y según las modalidades del establecimiento respectivo. Con todo, esta excepción no será aplicable a los trabajadores de centros o complejos comerciales administrados bajo una misma razón social o personalidad jurídica, en lo relativo al feriado legal establecido en el artículo 169 de la ley Nº 18.700 y en el artículo 106 de la Ley Orgánica Constitucional de Municipalidades;
+7.- en los establecimientos de comercio y de servicios que atiendan directamente al público, respecto de los trabajadores que realicen dicha atención y según las modalidades del establecimiento respectivo. Con todo, esta excepción no será aplicable a los trabajadores de centros o complejos comerciales administrados bajo una misma razón social o personalidad jurídica, en lo relativo al feriado legal establecido en el artículo 169 de la ley Nº 18.700 y en el artículo 106 de la Ley Orgánica Constitucional de Municipalidades, y
 
-8.- en calidad de deportistas profesionales o de trabajadores o trabajadoras que desempeñan actividades conexas, y
+8.- en calidad de deportistas profesionales o de trabajadores que desempeñan actividades conexas.
 
-9.- como dependientes en las empresas de plataformas digitales de servicios, reguladas en el Capítulo X del Título II del Libro I del presente Código.
-
-Las empresas exceptuadas de este descanso podrán distribuir la jornada normal de trabajo, en forma que incluya los días domingo y festivos. Las horas trabajadas en dichos días se pagarán como extraordinarias siempre que excedan de la jornada ordinaria semanal. En el caso de los trabajadores a que se refiere el número 7 del inciso anterior, sea cual fuere la jornada de trabajo en la que se desempeñen, las horas ordinarias trabajadas en día domingo deberán ser remuneradas con un recargo de, a lo menos, un 30%, calculado sobre el sueldo convenido para la jornada ordinaria. Dicho recargo deberá liquidarse y pagarse conjuntamente con las remuneraciones del respectivo período. El valor de la hora ordinaria y el recargo señalado serán la base de cálculo a efectos de la determinación, en su caso, del valor de la hora extraordinaria trabajada en dichos días domingo.
+Las empresas exceptuadas de este descanso podrán distribuir la jornada normal de trabajo, en forma que incluya los días domingo y festivos. Las horas trabajadas en dichos días se pagarán como extraordinarias siempre que excedan de la jornada ordinaria semanal.
 
 Las empresas exceptuadas del descanso dominical deberán otorgar un día de descanso a la semana en compensación a las actividades desarrolladas en día domingo, y otro por cada festivo en que los trabajadores debieron prestar servicios, aplicándose la norma del artículo 36. Estos descansos podrán ser comunes para todos los trabajadores, o por turnos para no paralizar el curso de las labores.
 
-No obstante, en los casos a que se refieren los números 2 y 7 del inciso primero, al menos dos de los días de descanso en el respectivo mes calendario deberán necesariamente otorgarse en día domingo. Esta norma no se aplicará respecto de los trabajadores que se contraten por un plazo de treinta días o menos, y de aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos. Tampoco se aplicará a las trabajadoras y a los trabajadores contratados en los servicios de transporte público urbano o rural durante los meses en que se desarrollen elecciones populares o plebiscitos. En estos casos, las empresas deberán otorgarles descansos compensatorios en uno o más domingos del mes calendario anterior o siguiente a aquél en que se verifiquen las referidas elecciones o plebiscitos.
+No obstante, en los casos a que se refieren los números 2 y 7 del inciso primero, al menos dos de los días de descanso en el respectivo mes calendario deberán necesariamente otorgarse en día domingo. Esta norma no se aplicará respecto de los trabajadores que se contraten por un plazo de treinta días o menos, y de aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
 
-En el caso de los trabajadores de casinos de juego, hoteles, pubs, discotecas, restaurantes, clubes, bares y similares, y de los operadores de turismo, la distribución de la jornada ordinaria semanal deberá sujetarse a lo dispuesto en los incisos tercero y cuarto, salvo que las partes acuerden distribuir la jornada semanal de tal forma que el trabajador cuente con, a lo menos, veintinueve domingos de descanso en el lapso de un año o, alternativamente, con quince domingos de descanso en el lapso de seis meses. La distribución de los días domingos deberá ser acordada por escrito en el contrato de trabajo o en un anexo del mismo y no podrá considerar la prestación de servicios por más de tres domingos en forma consecutiva. Con todo, en el caso de pacto anual, las partes podrán acordar alternativamente que, una vez al año, ocho domingos o, en tres oportunidades discontinuas al año, cuatro domingos, puedan ser considerados en forma consecutiva. Si a la fecha de terminación del contrato, el trabajador no hubiere hecho uso de los descansos en día domingo a que tiene derecho conforme la proporción que establece este inciso, el empleador deberá pagar dichos días en el respectivo finiquito. Este pago deberá efectuarse con el recargo contemplado en el inciso tercero del artículo 32 y no podrá ser imputado al pago del feriado proporcional, en su caso.
+Cuando se acumule más de un día de descanso en la semana por aplicación de lo dispuesto en los incisos tercero y cuarto, las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32.
 
-Cuando se acumule más de un día de descanso en la semana por aplicación de lo dispuesto en los incisos tercero, cuarto y quinto las partes podrán acordar una especial forma de distribución o de remuneración de los días de descanso que excedan de uno semanal. En este último caso, la remuneración no podrá ser inferior a la prevista en el artículo 32.
+Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo acuerdo de los trabajadores involucrados, si los hubiere, y mediante resolución fundada, el establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, cuando lo dispuesto en este artículo no pudiere aplicarse, atendidas las especiales características de la prestación de servicios y se hubiere constatado, mediante fiscalización, que las condiciones de higiene y seguridad son compatibles con el referido sistema.
 
-Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo acuerdo de los trabajadores involucrados, si los hubiere, y mediante resolución fundada que deberá emitirse dentro de los treinta días hábiles siguientes a la solicitud, el establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, cuando lo dispuesto en este artículo no pudiere aplicarse, atendidas las especiales características de la prestación de servicios y se hubiere constatado, mediante fiscalización, que las condiciones de seguridad y salud en el trabajo son compatibles con el referido sistema.
-
-Sin perjuicio de lo anterior, se podrán autorizar sistemas excepcionales cuyo promedio máximo de horas semanales de trabajo, en el ciclo respectivo, no superen las cuarenta y dos horas promedio semanal. En estos casos, los trabajadores tendrán derecho a la cantidad de días de descanso anual adicional que corresponda en razón de la diferencia que se produzca en cada caso con la jornada establecida en el inciso primero del artículo 22, en promedio, los que, por acuerdo de las partes, podrán ser compensados en dinero. En caso de que al término de la relación laboral existan días pendientes de utilizar, éstos se compensarán en conformidad con lo dispuesto en el artículo 73.
-
-La vigencia de la resolución será por el plazo de hasta tres años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de hasta tres años.
-
-Un reglamento dictado por intermedio del Ministro del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, determinará los límites y parámetros de distribución de los sistemas excepcionales de jornada de trabajo y descanso.
-
-Iguales compensaciones a las señaladas en el inciso octavo podrán ser acordadas tratándose de los procesos de trabajo continuos contemplados en el numeral 2 del inciso primero, en tanto, no superen las cuarenta y dos horas semanales, y se registren en la Inspección del Trabajo.
+La vigencia de la resolución será por el plazo de cuatro años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de cuatro años.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
-
-#### Artículo 38 bis
-
-Sin perjuicio de lo señalado en el inciso cuarto del artículo anterior, los trabajadores a que se refiere el número 7 del inciso primero del mismo artículo gozarán, adicionalmente a ello, de siete días domingo de descanso semanal durante cada año de vigencia del contrato de trabajo. Solo mediante acuerdo escrito entre el empleador y los trabajadores, o con el o los sindicatos existentes, hasta tres de dichos domingos podrán ser reemplazados por días sábado, siempre que se distribuyan junto a un domingo también de descanso semanal. Este derecho al descanso dominical no podrá ser compensado en dinero, ni acumulado de un año a otro.
-
-Este artículo no se aplicará a los trabajadores contratados por un plazo de treinta días o menos, ni a aquellos cuya jornada ordinaria no sea superior a veinte horas semanales o se contraten exclusivamente para trabajar los días sábado, domingo o festivos.
-
-#### Artículo 38 ter
-
-En el caso de los trabajadores señalados en el número 7 del artículo 38, los días de descanso semanal no podrán coincidir con los días feriados establecidos en la ley Nº19.973.
 
 #### Artículo 39
 
@@ -668,7 +462,7 @@ Jornada Parcial
 
 #### Artículo 40 bis
 
-Se podrán pactar contratos de trabajo con jornada a tiempo parcial, considerándose afectos a la normativa del presente párrafo, aquéllos en que se ha convenido una jornada de trabajo no superior a treinta horas semanales.
+Se podrán pactar contratos de trabajo con jornada a tiempo parcial, considerándose afectos a la normativa del presente párrafo, aquéllos en que se ha convenido una jornada de trabajo no superior a dos tercios de la jornada ordinaria, a que se refiere el artículo 22.
 
 #### Artículo 40 bis
 
@@ -692,44 +486,6 @@ C. Las partes podrán pactar alternativas de distribución de jornada. En este c
 
 D. Para los efectos del cálculo de la indemnización que pudiere corresponderle al trabajador al momento del término de sus servicios, se entenderá por última remuneración el promedio de las remuneraciones percibidas por el trabajador durante la vigencia de su contrato o de los últimos once años del mismo. Para este fin, cada una de las remuneraciones que abarque el período de cálculo deberá ser reajustada por la variación experimentada por el índice de precios al consumidor, entre el mes anterior al pago de la remuneración respectiva y el mes anterior al término del contrato. Con todo, si la indemnización que le correspondiere por aplicación del artículo 163 fuere superior, se le aplicará ésta.
 
-#### Artículo 40 bis
-
-E.- Sin perjuicio de lo dispuesto en los artículos anteriores, las partes podrán acordar una jornada parcial alternativa de trabajo y descansos para estudiantes trabajadores, de conformidad con las reglas precedentes y las siguientes reglas especiales:
-
-a) Se entenderá para estos efectos como estudiante trabajador a toda persona que tenga entre 18 y 24 años de edad inclusive, que se encuentre cursando estudios regulares o en proceso de titulación en una institución de educación superior universitaria, profesional o técnica reconocida por el Estado o en entidades ejecutoras de programas de nivelación de estudios.
-
-b) La calidad de alumno regular o en proceso de titulación deberá acreditarse dentro del plazo para hacer constar por escrito el contrato de trabajo, en conformidad a lo dispuesto en el artículo 9, mediante certificado emitido por la institución educacional respectiva. Ésta tendrá la obligación de emitir el certificado para dicho fin, de manera gratuita, dentro del plazo de tres días hábiles de solicitado, sin que pueda excusarse de ello ni aun por encontrarse el estudiante en mora o por cualquier otro motivo. El certificado deberá anexarse al contrato individual de trabajo, se considerará como parte integrante del mismo y deberá mantenerse en un registro especial que, para estos efectos, llevará el empleador. Igual certificación deberá acompañarse cada seis meses, mientras subsista la relación laboral.
-
-c) En caso de que el estudiante trabajador deje de cumplir con los requisitos señalados en la letra a), se aplicarán las normas generales de este Código.
-
-Con todo, el estudiante trabajador deberá informar de inmediato al empleador sobre los cambios en su calidad de estudiante.
-
-d) Tratándose de estudiantes trabajadores, la jornada ordinaria diaria será continua. Con todo, las partes podrán pactar sólo una interrupción diaria, la que en ningún caso podrá afectar el derecho a colación del cual goza el trabajador. La interrupción deberá ser concordante con el horario académico lectivo vigente del estudiante y se justificará anexando éste en el respectivo contrato de trabajo.
-
-Entre el inicio y el término de la jornada diaria no podrán transcurrir más de doce horas, sumados los períodos trabajados, en jornada ordinaria y extraordinaria, más la interrupción señalada en el párrafo anterior. Las horas efectivamente trabajadas no podrán ser superiores a diez horas diarias.
-
-Lo anterior, sin perjuicio de lo establecido en el inciso quinto del artículo 34 bis, en lo que corresponda.
-
-De conformidad con lo dispuesto en la ley N° 16.744, y tratándose de estudiantes trabajadores regidos por la presente jornada, se entenderá que son accidentes del trabajo los ocurridos en el trayecto directo, de ida o regreso, entre el establecimiento educacional y el lugar de trabajo.
-
-e) El estudiante trabajador tendrá derecho a un permiso sin goce de remuneración con ocasión de rendir sus exámenes académicos. Para ejercer este derecho, el estudiante trabajador deberá informar al empleador, por escrito, con al menos siete días corridos de anticipación, la forma en que hará uso del permiso para efectos de rendir dichos exámenes.
-
-f) Durante los períodos en los que el estudiante trabajador se encuentre en receso por vacaciones académicas, las partes podrán acordar por escrito alguna de las siguientes alternativas:
-
-i. Mantener la prestación de servicios de acuerdo a las disposiciones del presente artículo.
-
-ii. Suspender el contrato de trabajo. En este caso, se entenderá vigente la relación laboral, pero suspendida la obligación del trabajador de prestar servicios y la obligación del empleador de pagar cualquier remuneración que tenga su origen en el contrato de trabajo, salvo aquellas devengadas con anterioridad a la suspensión.
-
-iii. Pactar una jornada de trabajo ordinaria.
-
-g) Los estudiantes trabajadores que sean beneficiarios del régimen de prestaciones de salud conforme a lo dispuesto en las letras b) y c) del artículo 136 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, podrán optar por:
-
-i. Adquirir la calidad de cotizantes del régimen de prestaciones de salud conforme a la letra a) del artículo 135 del decreto con fuerza de ley antes indicado, en cuyo caso el empleador deberá enterar las cotizaciones de salud del estudiante trabajador conforme a las reglas generales.
-
-ii. Mantener la calidad de beneficiario con aporte en la institución de salud previsional en la cual sea carga. En este caso, el empleador deberá enterar las cotizaciones de salud del estudiante trabajador a la institución de salud previsional respectiva, conforme a lo dispuesto en el inciso tercero del artículo 202 del decreto con fuerza de ley antes indicado. La institución de salud previsional deberá reconocer y mantener la calidad de beneficiario con aporte del estudiante trabajador.
-
-h) No podrán pactar esta jornada de trabajo especial aquellas empresas que durante el año calendario anterior registren accidentes graves o fatales en los que el empleador hubiere sido condenado por culpa o negligencia.
-
 ## Capítulo V
 
 DE LAS REMUNERACIONES
@@ -738,13 +494,13 @@ DE LAS REMUNERACIONES
 
 Se entiende por remuneración las contraprestaciones en dinero y las adicionales en especie avaluables en dinero que debe percibir el trabajador del empleador por causa del contrato de trabajo.
 
-No constituyen remuneración las asignaciones de movilización, de pérdida de caja, de desgaste de herramientas y de colación, los viáticos, las prestaciones familiares otorgadas en conformidad a la ley, las indemnizaciones establecidas en el artículo 163 y las demás que proceda pagar al extinguirse la relación contractual ni, en general, las devoluciones de gastos en que se incurra por causa del trabajo.
+No constituyen remuneración las asignaciones de movilización, de pérdida de caja, de desgaste de herramientas y de colación, los viáticos, las prestaciones familiares otorgadas en conformidad a la ley, la indemnización por años de servicios establecida en el artículo 163 y las demás que proceda pagar al extinguirse la relación contractual ni, en general, las devoluciones de gastos en que se incurra por causa del trabajo.
 
 #### Artículo 42
 
 Constituyen remuneración, entre otras, las siguientes:
 
-a) sueldo, o sueldo base, que es el estipendio obligatorio y fijo, en dinero, pagado por períodos iguales, determinados en el contrato, que recibe el trabajador por la prestación de sus servicios en una jornada ordinaria de trabajo, sin perjuicio de lo señalado en el inciso segundo del artículo 10. El sueldo, no podrá ser inferior a un ingreso mínimo mensual. Se exceptúan de esta norma aquellos trabajadores exentos del cumplimiento de jornada. Sin perjuicio de lo dispuesto en el inciso segundo del artículo 22, se presumirá que el trabajador está afecto a cumplimiento de jornada cuando debiere registrar por cualquier medio y en cualquier momento del día el ingreso o egreso a sus labores, o bien cuando el empleador efectuare descuentos por atrasos en que incurriere el trabajador. Asimismo, se presumirá que el trabajador está afecto a la jornada ordinaria, cuando el empleador, por intermedio de un superior jerárquico, ejerciere una supervisión o control funcional y directo sobre la forma y oportunidad en que se desarrollen las labores, entendiéndose que no existe tal funcionalidad cuando el trabajador sólo entrega resultados de sus gestiones y se reporta esporádicamente, especialmente en el caso de desarrollar sus labores en Regiones diferentes de la del domicilio del empleador.
+a) sueldo, que es el estipendio fijo, en dinero, pagado por períodos iguales, determinados en el contrato, que recibe el trabajador por la prestación de sus servicios, sin perjuicio de lo dispuesto en el inciso segundo del artículo 10;
 
 b) sobresueldo, que consiste en la remuneración de horas extraordinarias de trabajo;
 
@@ -756,27 +512,21 @@ e) gratificación, que corresponde a la parte de utilidades con que el empleador
 
 #### Artículo 43
 
-Los reajustes legales no se aplicarán a las remuneraciones y beneficios estipulados en contratos y convenios colectivos de trabajo, en acuerdos de grupo negociador o en fallos arbitrales recaídos en una negociación colectiva.
+Los reajustes legales no se aplicarán a las remuneraciones y beneficios estipulados en contratos y convenios colectivos de trabajo o en fallos arbitrales recaídos en una negociación colectiva.
 
 #### Artículo 44
 
-La remuneración podrá fijarse por unidad de tiempo, día, semana, quincena o mes o bien por pieza, medida u obra, sin perjuicio de lo señalado en la letra a) del artículo 42.
-
-En ningún caso la unidad de tiempo podrá exceder de un mes.
-
-El monto mensual del sueldo no podrá ser inferior al ingreso mínimo mensual. Si se convinieren jornadas parciales de trabajo, el sueldo no podrá ser inferior al mínimo vigente, proporcionalmente calculada en relación con la jornada ordinaria de trabajo.
+La remuneración podrá fijarse por unidad de tiempo, día, semana, quincena o mes o bien por pieza, medida u obra. En ningún caso la unidad de tiempo podrá exceder de un mes. El monto mensual de la remuneración no podrá ser inferior al ingreso mínimo mensual. Si se convinieren jornadas parciales de trabajo, la remuneración no podrá ser inferior a la mínima vigente, proporcionalmente calculada en relación con la jornada ordinaria de trabajo.
 
 En los contratos que tengan una duración de treinta días o menos, se entenderá incluida en la remuneración que se convenga con el trabajador todo lo que a éste debe pagarse por feriado y demás derechos que se devenguen en proporción al tiempo servido.
 
 Lo dispuesto en el inciso anterior no regirá respecto de aquellas prórrogas que, sumadas al período inicial del contrato, excedan de sesenta días.
 
-INCISO DEROGADO.
-
-> **Nota.** NOTA 1 El Nº 2 del artículo único de la Ley 20281, publicada el 21.07.2008, reemplaza la expresión "la remuneración" por "el sueldo",y omite cambiar la expresión "calculada" por "calculado", produciendo la inconsistencia en el presente texto.
+Las infracciones a lo dispuesto en el inciso tercero del presente artículo, serán sancionadas con una multa a beneficio fiscal de 1 a 20 Unidades Tributarias Mensuales más el incremento a que alude el inciso primero del artículo 477, en su caso.
 
 #### Artículo 45
 
-El trabajador remunerado exclusivamente por día tendrá derecho a la remuneración en dinero por los días domingo y festivos, la que equivaldrá al promedio de lo devengado en el respectivo período de pago, el que se determinará dividiendo la suma total de las remuneraciones diarias devengadas por el número de días en que legalmente debió laborar en la semana. Igual derecho tendrá el trabajador remunerado por sueldo mensual y remuneraciones variables, tales como comisiones o tratos, pero, en este caso, el promedio se calculará sólo en relación a la parte variable de sus remuneraciones.
+El trabajador remunerado exclusivamente por día tendrá derecho a la remuneración en dinero por los días domingo y festivos, la que equivaldrá al promedio de lo devengado en el respectivo período de pago, el que se determinará dividiendo la suma total de las remuneraciones diarias devengadas por el número de días en que legalmente debió laborar en la semana.
 
 No se considerarán para los efectos indicados en el inciso anterior las remuneraciones que tengan carácter accesorio o extraordinario, tales como gratificaciones, aguinaldos, bonificaciones u otras.
 
@@ -792,9 +542,7 @@ Si las partes convinieren un sistema de gratificaciones, éstas no podrán ser i
 
 Los establecimientos mineros, industriales, comerciales o agrícolas, empresas y cualesquiera otros que persigan fines de lucro, y las cooperativas, que estén obligados a llevar libros de contabilidad y que obtengan utilidades o excedentes líquidos en sus giros, tendrán la obligación de gratificar anualmente a sus trabajadores en proporción no inferior al treinta por ciento de dichas utilidades o excedentes. La gratificación de cada trabajador con derecho a ella será determinada en forma proporcional a lo devengado por cada trabajador en el respectivo período anual, incluidos los que no tengan derecho.
 
-#### Artículo 48
-
-Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, aplicando el régimen de depreciación normal que establece el número 5 del artículo 31 de la ley sobre Impuesto a la Renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.
+Art.48. Para estos efectos se considerará utilidad la que resulte de la liquidación que practique el Servicio de Impuestos Internos para la determinación del impuesto a la renta, sin deducir las pérdidas de ejercicios anteriores; y por utilidad líquida se entenderá la que arroje dicha liquidación deducido el diez por ciento del valor del capital propio del empleador, por interés de dicho capital.
 
 Respecto de los empleadores exceptuados del impuesto a la renta, el Servicio de Impuestos Internos practicará, también, la liquidación a que se refiere este artículo para los efectos del otorgamiento de gratificaciones.
 
@@ -802,7 +550,7 @@ Los empleadores estarán obligados a pagar las gratificaciones al personal con e
 
 #### Artículo 49
 
-Para los efectos del pago de gratificaciones, el Servicio de Impuestos Internos determinará, en la liquidación, el capital propio del empleador invertido en la empresa y calculará el monto de la utilidad líquida que deberá servir de base para el pago de gratificaciones. El referido Servicio comunicará este antecedente al Juzgado de Letras del Trabajo o a la Dirección del Trabajo, cuando éstos lo soliciten. Asimismo, deberá otorgar certificaciones en igual sentido a los empleadores o sindicatos de trabajadores cuando ellos lo requieran, dentro del plazo de treinta días hábiles, contado desde el momento en que el empleador haya entregado todos los antecedentes necesarios y suficientes para la determinación de la utilidad conforme al artículo precedente.
+Para los efectos del pago de gratificaciones, el Servicio de Impuestos Internos determinará, en la liquidación, el capital propio del empleador invertido en la empresa y calculará el monto de la utilidad líquida que deberá servir de base para el pago de gratificaciones. El referido Servicio comunicará este antecedente al Juzgado de Letras del Trabajo o a la Dirección del Trabajo, cuando éstos lo soliciten. Asimismo, deberá otorgar certificaciones en igual sentido a los empleadores, sindicatos de trabajadores o delegados del personal cuando ellos lo requieran, dentro del plazo de treinta días hábiles, contado desde el momento en que el empleador haya entregado todos los antecedentes necesarios y suficientes para la determinación de la utilidad conforme al artículo precedente.
 
 #### Artículo 50
 
@@ -826,25 +574,15 @@ DE LA PROTECCION A LAS REMUNERACIONES
 
 #### Artículo 54
 
-Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio de lo establecido en el inciso segundo del artículo 10 y de lo preceptuado para los trabajadores agrícolas.
+Las remuneraciones se pagarán en moneda de curso legal, sin perjuicio de lo establecido en el inciso segundo del artículo 10 y de lo preceptuado para los trabajadores agrícolas y los de casa particular.
 
-A solicitud del trabajador, podrá pagarse con cheque o vale vista bancario a su nombre, o transferencia electrónica a la cuenta bancaria del trabajador, sin que ello importe costo alguno para él.
+A solicitud del trabajador, podrá pagarse con cheque o vale vista bancario a su nombre.
 
 Junto con el pago, el empleador deberá entregar al trabajador un comprobante con indicación del monto pagado, de la forma como se determinó y de las deducciones efectuadas.
 
-#### Artículo 54 bis
-
-Las remuneraciones devengadas se incorporan al patrimonio del trabajador, teniéndose por no escrita cualquier cláusula que implique su devolución, reintegro o compensación por parte del trabajador al empleador, ante la ocurrencia de hechos posteriores a la oportunidad en que la remuneración se devengó, salvo que dichos hechos posteriores se originen en el incumplimiento por parte del trabajador de las obligaciones contenidas en su contrato de trabajo.
-
-Con todo, se podrán pactar premios o bonos por hechos futuros, tales como la permanencia durante un tiempo determinado del cliente que ha contratado un servicio o producto a la empresa o bien la puntualidad del mismo en los pagos del referido servicio u otros, siempre que la ocurrencia de estos hechos dependa del cumplimiento por parte del trabajador de las obligaciones contenidas en su contrato de trabajo.
-
-Sin perjuicio de lo dispuesto en el artículo anterior, y conforme a lo señalado en los incisos precedentes, las liquidaciones de remuneraciones deberán contener en un anexo, que constituye parte integrante de las mismas, los montos de cada comisión, bono, premio u otro incentivo que recibe el trabajador, junto al detalle de cada operación que le dio origen y la forma empleada para su cálculo.
-
-El empleador no podrá condicionar la contratación de un trabajador, su permanencia, la renovación de su contrato, o la promoción o movilidad en su empleo, a la suscripción de instrumentos representativos de obligaciones, tales como pagarés en cualquiera de sus formas, letras de cambios o compromisos de pago de cualquier naturaleza, para responder de remuneraciones ya devengadas.
-
 #### Artículo 55
 
-Las remuneraciones se pagarán con la periodicidad estipulada en el contrato, pero los períodos que se convengan no podrán exceder de un mes. En caso que la remuneración del trabajador se componga total o parcialmente de comisiones e independientemente de las condiciones de pago que la empresa pacte con el cliente, aquéllas se entenderán devengadas y deberán ser liquidadas y pagadas conjuntamente con las demás remuneraciones ordinarias del período en que se efectuaron las operaciones u ocurrieron los hechos que les dieron origen, salvo que, por razones técnicas ello no sea posible, caso en el cual deberán ser liquidadas y pagadas conjuntamente con las remuneraciones del mes siguiente. La cláusula que difiera el pago de comisiones al trabajador, infringiendo los límites establecidos en este artículo, se tendrá por no escrita.
+Las remuneraciones se pagarán con la periodicidad estipulada en el contrato, pero los períodos que se convengan no podrán exceder de un mes.
 
 Si nada se dijere en el contrato, deberán darse anticipos quincenales en los trabajos por pieza, obra o medida y en los de temporada.
 
@@ -860,29 +598,17 @@ Con todo, tratándose de pensiones alimenticias debidas por ley y decretadas jud
 
 #### Artículo 58
 
-El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos.
-
-Asimismo, con acuerdo del empleador y del trabajador, que deberá constar por escrito, el empleador podrá descontar de las remuneraciones cuotas destinadas al pago de la adquisición de viviendas, cantidades para ser depositadas en una cuenta de ahorro para la vivienda y sumas destinadas a la educación del trabajador, su cónyuge, conviviente civil o alguno de sus hijos. Para estos efectos, se autoriza al empleador a otorgar mutuos o créditos sin interés, respecto de los cuales el empleador podrá hacerse pago deduciendo hasta el 30% del total de la remuneración mensual del trabajador. Sin embargo, el empleador sólo podrá realizar tal deducción si paga directamente la cuota del mutuo o crédito a la institución financiera o servicio educacional respectivo.
+El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos. Igualmente, a solicitud escrita del trabajador, el empleador deberá descontar de las remuneraciones las cuotas correspondientes a dividendos hipotecarios por adquisición de viviendas y las cantidades que el trabajador haya indicado para que sean depositadas en una cuenta de ahorro para la vivienda abierta a su nombre en una institución financiera o en una cooperativa de vivienda. Estas últimas no podrán exceder de un monto equivalente al 30% de la remuneración total del trabajador.
 
 Sólo con acuerdo del empleador y del trabajador que deberá constar por escrito, podrán deducirse de las remuneraciones sumas o porcentajes determinados, destinados a efectuar pagos de cualquier naturaleza. Con todo, las deducciones a que se refiere este inciso, no podrán exceder del quince por ciento de la remuneración total del trabajador.
 
-Cualquiera sea el fundamento de las deducciones realizadas a las remuneraciones por parte del empleador, o el origen de los préstamos otorgados, en ningún caso aquéllas podrán exceder, en conjunto, del 45% de la remuneración total del trabajador.
-
 El empleador no podrá deducir, retener o compensar suma alguna que rebaje el monto de las remuneraciones por arriendo de habitación, luz, entrega de agua, uso de herramientas, entrega de medicinas, atención médica u otras prestaciones en especie, o por concepto de multas que no estén autorizadas en el reglamento interno de la empresa.
-
-Asimismo, no podrá deducir, retener o compensar suma alguna por el no pago de efectos de comercio que el empleador hubiera autorizado recibir como medio de pago por los bienes suministrados o servicios prestados a terceros en su establecimiento.
-
-La autorización del empleador, señalada en el inciso anterior, deberá constar por escrito, así como también los procedimientos que el trabajador debe cumplir para recibir como forma de pago los respectivos efectos de comercio.
-
-En caso de robo, hurto, pérdida o destrucción por parte de terceros de bienes de la empresa sin que haya mediado responsabilidad del trabajador, el empleador no podrá descontar de la remuneración del o de los trabajadores el monto de lo robado, hurtado, perdido o dañado.
-
-La infracción a esta prohibición será sancionada con la restitución obligatoria, por parte del empleador, de la cifra descontada, debidamente reajustada, sin perjuicio de las multas que procedan de conformidad a este Código.
 
 #### Artículo 59
 
 En el contrato podrá establecerse la cantidad que el trabajador asigne para la mantención de su familia.
 
-El cónyuge puede percibir hasta el cincuenta por ciento de la remuneración del otro cónyuge, declarado vicioso por el respectivo Juez de Letras del Trabajo.
+La mujer casada puede percibir hasta el cincuenta por ciento de la remuneración de su marido, declarado vicioso por el respectivo Juez de Letras del Trabajo.
 
 En los casos de los incisos anteriores, el empleador estará obligado a efectuar los descuentos respectivos y pagar las sumas al asignatario.
 
@@ -890,7 +616,7 @@ En los casos de los incisos anteriores, el empleador estará obligado a efectuar
 
 En caso de fallecimiento del trabajador, las remuneraciones que se adeudaren serán pagadas por el empleador a la persona que se hizo cargo de sus funerales, hasta concurrencia del costo de los mismos.
 
-El saldo, si lo hubiere, y las demás prestaciones pendientes a la fecha del fallecimiento se pagarán, en orden de precedencia, al cónyuge o conviviente civil, a los hijos o a los padres del fallecido.
+El saldo, si lo hubiere, y las demás prestaciones pendientes a la fecha del fallecimiento se pagarán al cónyuge, a los hijos legítimos o naturales o a los padres legítimos o naturales del fallecido, unos a falta de los otros, en el orden indicado, bastando acreditar el estado civil respectivo.
 
 Lo dispuesto en el inciso precedente sólo operará tratándose de sumas no superiores a cinco unidades tributarias anuales.
 
@@ -902,7 +628,7 @@ Estos privilegios cubrirán los reajustes, intereses y multas que correspondan a
 
 Para los efectos de lo dispuesto en el número 5 del artículo 2472 del Código Civil, se entiende por remuneraciones, además de las señaladas en el inciso primero del artículo 41, las compensaciones en dinero que corresponda hacer a los trabajadores por feriado anual o descansos no otorgados.
 
-El privilegio por las indemnizaciones legales y convencionales previsto en el número 8 del artículo 2472 del Código Civil, se regirá por lo establecido en dicha norma. Si hubiere pagos parciales, éstos se imputarán al máximo referido.
+El privilegio por las indemnizaciones legales y convencionales previsto en el número 8 del artículo 2472 del Código Civil, no excederá, respecto de cada beneficiario, de un monto igual a tres ingresos mínimos mensuales por cada año de servicio y fracción superior a seis meses, con un límite de diez años; el saldo, si lo hubiere, será considerado crédito valista. Si hubiere pagos parciales, éstos se imputarán al máximo referido.
 
 Sólo gozarán de privilegio estos créditos de los trabajadores que estén devengados a la fecha en que se hagan valer.
 
@@ -913,12 +639,6 @@ Los tribunales apreciarán en conciencia la prueba que se rinda acerca de los cr
 Todo empleador con cinco o más trabajadores deberá llevar un libro auxiliar de remuneraciones, el que deberá ser timbrado por el Servicio de Impuestos Internos.
 
 Las remuneraciones que figuren en el libro a que se refiere el inciso anterior serán las únicas que podrán considerarse como gastos por remuneraciones en la contabilidad de la empresa.
-
-#### Artículo 62 bis
-
-El empleador deberá dar cumplimiento al principio de igualdad de remuneraciones entre hombres y mujeres que presten un mismo trabajo, no siendo consideradas arbitrarias las diferencias objetivas en las remuneraciones que se funden, entre otras razones, en las capacidades, calificaciones, idoneidad, responsabilidad o productividad.
-
-Las denuncias que se realicen invocando el presente artículo, se sustanciarán en conformidad al Párrafo 6º del Capítulo II del Título I del Libro V de este Código, una vez que se encuentre concluido el procedimiento de reclamación previsto para estos efectos en el reglamento interno de la empresa.
 
 #### Artículo 63
 
@@ -934,15 +654,9 @@ En caso de término del contrato de trabajo, el empleador estará obligado a pag
 
 #### Artículo 64
 
-En los establecimientos que atiendan público a través de garzones, como restaurantes, pubs, bares, cafeterías, discotecas, fondas y similares, el empleador deberá sugerir, en cada cuenta de consumo, el monto correspondiente a una propina de a lo menos el 10% del mismo, la que deberá pagarse por el cliente, salvo que éste manifieste su voluntad en contrario.
+DEROGADO
 
-Los trabajadores tendrán derecho a percibir todas aquellas sumas que por concepto de propinas entreguen los clientes de dichos establecimientos, sea en forma directa y en dinero en efectivo al trabajador, como también y a su elección a través de los medios de pago aceptados por el empleador, tales como tarjetas de crédito, de débito, cheques u otros títulos de crédito. El empleador no podrá disponer de ellas, deberá entregarlas íntegramente a los trabajadores y no podrá efectuar descuentos de ninguna naturaleza sobre las mismas. Tampoco podrá distribuir las propinas, facultad que sólo recae en los trabajadores que las reciben del cliente, las que se entenderán de su propiedad.
-
-Tratándose de pagos con tarjetas de crédito u otros títulos de crédito, el empleador deberá liquidar y enterar dichas sumas en la fecha en que acuerde con sus trabajadores, plazo que no podrá exceder de siete días hábiles desde que se recibieron del cliente. En estos casos, el empleador deberá entregar al trabajador copia del vale o comprobante en que conste la cantidad total pagada y el valor del servicio o producto adquirido. Tratándose de eventos especiales organizados por el empleador y que sean pagados con posterioridad a su celebración, este plazo se extenderá hasta la fecha de pago de la respectiva factura, cuando la propina esté incorporada a ella.
-
-Si las propinas no son pagadas en efectivo, los plazos contenidos en el inciso anterior podrán extenderse excepcionalmente cuando, producto del aislamiento geográfico de la zona en que se encuentre el establecimiento, unido ello a la falta de medios electrónicos de pago, no sea posible entregar las propinas en el tiempo establecido.
-
-Las normas contenidas en los incisos segundo, tercero y cuarto de este artículo serán también aplicables, en lo pertinente, en aquellos establecimientos de atención al público en los que se deje propina, como las estaciones de expendio de combustibles u otros. Los establecimientos que acepten medios electrónicos de pago deberán permitir que la propina también pueda ser pagada por los mismos medios.
+> **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la derogación del presente artículo regirá a contar de 90 días después de su publicación.
 
 #### Artículo 64 Bis
 
@@ -962,59 +676,23 @@ DEL FERIADO ANUAL Y DE LOS PERMISOS
 
 #### Artículo 66
 
-En caso de muerte de un hijo, todo trabajador tendrá derecho a diez días corridos de permiso pagado. En caso de la muerte del cónyuge o conviviente civil, todo trabajador tendrá derecho a un permiso similar, por siete días corridos. En ambos casos, este permiso será adicional al feriado anual, independientemente del tiempo de servicio.
+En el caso de muerte de un hijo así como en el de muerte del cónyuge, todo trabajador tendrá derecho a siete días corridos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
 
-Igual permiso se aplicará, por siete días hábiles, en el caso de muerte de un hijo en período de gestación. En el caso de muerte de un hermano, del padre o de la madre del trabajador, dicho permiso se extenderá por cuatro días hábiles.
+Igual permiso se aplicará por tres días hábiles en el caso de muerte de un hijo en período de gestación así como en el de muerte del padre o de la madre del trabajador.
 
 Estos permisos deberán hacerse efectivos a partir del día del respectivo fallecimiento. No obstante, tratándose de una defunción fetal, el permiso se hará efectivo desde el momento de acreditarse la muerte, con el respectivo certificado de defunción fetal.
 
-El trabajador al que se refiere el inciso primero gozará de fuero laboral por el periodo de un mes a partir del día del respectivo fallecimiento. Si se trata de trabajadores cuyos contratos de trabajo sean a plazo fijo, o por obra o servicio determinado, el fuero establecido en el presente artículo se mantendrá vigente por el mismo periodo o hasta el término de dicho contrato.
+El trabajador al que se refiere el inciso primero gozará de fuero laboral por un mes, a contar del respectivo fallecimiento. Sin embargo, tratándose de trabajadores cuyos contratos de trabajo sean a plazo fijo o por obra o servicio determinado, el fuero los amparará sólo durante la vigencia del respectivo contrato si éste fuera menor a un mes, sin que se requiera solicitar su desafuero al término de cada uno de ellos.
 
 Los días de permiso consagrados en este artículo no podrán ser compensados en dinero.
-
-#### Artículo 66 bis
-
-Las trabajadoras y los trabajadores, cuyos contratos de trabajo sean por un plazo superior a treinta días, tendrán derecho a medio día de permiso, una vez al año durante la vigencia de la relación laboral, para someterse a los exámenes de mamografía y próstata, respectivamente, pudiendo incluir otras prestaciones de medicina preventiva, tales como el examen de papanicolau, en las instituciones de salud públicas o privadas que corresponda. En el caso de los contratos celebrados por un plazo fijo, o para la realización de una obra o faena determinada, este derecho podrá ejercerse a partir de los treinta días de celebrado el contrato de trabajo, y en cualquier momento durante la vigencia de éste.
-
-El tiempo para realizar los exámenes, señalado en el inciso anterior, será complementado, en su caso, con el tiempo suficiente para los traslados hacia y desde la institución médica, considerando las condiciones geográficas, de transporte y la disponibilidad de equipamiento médico necesario.
-
-Para el ejercicio de este derecho, los trabajadores deberán dar aviso al empleador con una semana de anticipación a la realización de los exámenes; asimismo, deberán presentar con posterioridad a éstos, los comprobantes suficientes que acrediten que se los realizaron en la fecha estipulada.
-
-El tiempo en el que los trabajadores se realicen los exámenes, será considerado como trabajado para todos los efectos legales; asimismo, este permiso no podrá ser compensado en dinero, ni durante ni al término de la relación laboral, entendiéndose por no escrita cualquier estipulación en contrario.
-
-Si los trabajadores estuvieren afectos a un instrumento colectivo que considerare un permiso análogo, se entenderá cumplida la obligación legal por parte del empleador.
-
-#### Artículo 66 ter
-
-En los casos de programas o campañas públicas de inmunización a través de vacunas u otros medios, para el control y prevención de enfermedades transmisibles, todo trabajador o toda trabajadora que se encuentre dentro de la población objetivo de dichas campañas tendrá derecho a medio día de permiso laboral para su vacunación. A este derecho le serán aplicables las reglas de los incisos segundo y siguientes del artículo anterior, salvo que el aviso al empleador deberá darse con al menos dos días de anticipación.
-
-#### Artículo 66 quáter
-
-Los trabajadores dependientes regidos por el Código del Trabajo y aquellos regidos por el Estatuto Administrativo contenido en la ley Nº18.834, y por el Estatuto Administrativo para Funcionarios Municipales contenido en la ley Nº 18.883, que se desempeñen adicionalmente como voluntarios del Cuerpo de Bomberos estarán facultados para acudir a llamados de emergencia ante accidentes, incendios u otros siniestros que ocurran durante su jornada laboral.
-
-El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en ningún caso, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en el artículo 160, número 4, letra a), de este Código, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
-
-El empleador podrá solicitar a la Comandancia de Bomberos respectiva la acreditación de la circunstancia señalada en este artículo.
-
-#### Artículo 66
-
-quinquies.- Los trabajadores dependientes regidos por el Código del Trabajo, aquellos regidos por la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda y por la ley N° 18.883, que aprueba Estatuto Administrativo para Funcionarios Municipales, que sean padres, madres o tutores legales de menores de edad debidamente diagnosticados con trastorno del espectro autista, estarán facultados para acudir a emergencias respecto a su integridad en los establecimientos educacionales en los cuales cursen su enseñanza parvularia, básica o media.
-
-El tiempo que estos trabajadores destinen a la atención de estas emergencias será considerado como trabajado para todos los efectos legales. El empleador no podrá, en caso alguno, calificar esta salida como intempestiva e injustificada para configurar la causal de abandono de trabajo establecida en la letra a) del número 4 del artículo 160, o como fundamento de una investigación sumaria o de un sumario administrativo, en su caso.
-
-El trabajador deberá dar aviso a la Inspección del Trabajo del territorio respectivo respecto a la circunstancia de tener un hijo, hija o menor bajo su tutela legal, diagnosticado con trastorno del espectro autista.
 
 #### Artículo 67
 
 Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
 
-Igual derecho asistirá al trabajador que preste servicios continuos al mismo empleador en virtud de dos o más contratos celebrados por obra o faena determinada y que sobrepasen el año. Con todo, y sólo para estos efectos, el trabajador podrá optar por que el pago de su feriado proporcional se difiera al momento de hacerlo efectivo en las condiciones señaladas en este inciso, debiendo dejar constancia expresa de ello en el respectivo finiquito. En caso de que los contratos no sobrepasen el año y el trabajador hubiere diferido el pago de los feriados conforme lo señala este inciso, el empleador deberá pagar en el último finiquito la totalidad de los feriados adeudados.
-
 Los trabajadores que presten servicios en la Duodécima Región de Magallanes y de la Antártica Chilena, en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, y en la Provincia de Palena, tendrán derecho a un feriado anual de veinte días hábiles.
 
 El feriado se concederá de preferencia en primavera o verano, considerándose las necesidades del servicio.
-
-Del mismo modo, el feriado se concederá preferentemente durante el periodo de vacaciones definidas por el Ministerio de Educación, conforme al calendario del año escolar respectivo, a las personas trabajadoras que tengan el cuidado personal de un niño o niña menor de catorce años o adolescente menor de dieciocho años con discapacidad o en situación de dependencia severa o moderada, por sobre otros trabajadores sin tales obligaciones. Para estos efectos, la persona trabajadora hará la solicitud, al menos, con treinta días de anticipación, y deberá acompañar el certificado de nacimiento que acredite la filiación respecto de un niño o niña; o la resolución judicial de un tribunal que otorga el cuidado personal de éstos o éstas; o el certificado de inscripción en el Registro Nacional de la Discapacidad, conforme a lo dispuesto en la letra b) del artículo 56 de la ley N° 20.422; o el documento emitido por el Ministerio de Desarrollo Social y Familia, conforme a la información contenida en el instrumento establecido en el artículo 5° de la ley N° 20.379, o a través del instrumento que lo reemplace, que dé cuenta de la calidad de cuidador o cuidadora, según corresponda.
 
 #### Artículo 68
 
@@ -1044,8 +722,6 @@ Se entenderá por remuneraciones variables los tratos, comisiones, primas y otra
 
 Si el trabajador estuviere remunerado con sueldo y estipendios variables, la remuneración íntegra estará constituida por la suma de aquél y el promedio de las restantes.
 
-Asimismo, la remuneración íntegra durante el feriado deberá incluir la remuneración establecida en el inciso primero del artículo 45, según corresponda.
-
 Sin perjuicio de lo dispuesto en los incisos anteriores, durante el feriado deberá pagarse también toda otra remuneración o beneficio cuya cancelación corresponda efectuar durante el mismo y que no haya sido considerado para el cálculo de la remuneración íntegra.
 
 #### Artículo 72
@@ -1068,27 +744,13 @@ No tendrán derecho a feriado los trabajadores de las empresas o establecimiento
 
 #### Artículo 75
 
-Cualquiera sea el sistema de contratación del personal docente de los establecimientos de educación básica, parvularia y media o su equivalente, los contratos de trabajo vigentes al mes de diciembre se entenderán prorrogados por los meses de enero y febrero, siempre que el docente tenga más de seis meses continuos de servicio en el mismo establecimiento.
-
-#### Artículo 75 bis
-
-La regla dispuesta en el artículo anterior será igualmente aplicable por los meses de diciembre, enero y febrero a los trabajadores que se hayan desempeñado a lo menos durante seis meses en forma continua como manipuladores de alimentos para empresas que presten los servicios de alimentación en establecimientos de educación parvularia, escolar y preescolar de conformidad con la ley Nº 19.886, y cuyos contratos de trabajo se encontraren vigentes al mes de noviembre.
-
-Asimismo, si el contrato de los trabajadores señalados en el inciso anterior terminare por aplicación de la causal contenida en el inciso primero del artículo 161, el trabajador tendrá derecho, además de la indemnización por años de servicio respectiva, a las remuneraciones correspondientes a la totalidad del plazo que va entre la fecha de terminación y el día anterior al mes de inicio del siguiente año escolar, siempre que el contrato hubiere estado vigente a lo menos por seis meses en forma continua dentro del respectivo año escolar.
+Cualquiera sea el sistema de contratación del personal docente de los establecimientos de educación básica y media o su equivalente, los contratos de trabajo vigentes al mes de diciembre se entenderán prorrogados por los meses de enero y febrero, siempre que el docente tenga más de seis meses continuos de servicio en el mismo establecimiento.
 
 #### Artículo 76
 
 Los empleadores podrán determinar que en sus empresas o establecimientos, o en parte de ellos, se proceda anualmente a su cierre por un mínimo de quince días hábiles para que el personal respectivo haga uso del feriado en forma colectiva.
 
 En este caso, deberá concederse el feriado a todos los trabajadores de la respectiva empresa o sección, aun cuando individualmente no cumplan con los requisitos para tener derecho a él, entendiéndose que a éstos se les anticipa.
-
-#### Artículo 76 bis
-
-Durante el periodo de vacaciones definidas por el Ministerio de Educación, conforme al calendario escolar respectivo, y cuando la naturaleza de sus funciones lo permita y la empresa funcione en un horario que sea compatible, las personas trabajadoras señaladas en el inciso final del artículo 67 tendrán derecho a que se modifiquen transitoriamente los turnos o la distribución de la jornada diaria y semanal.
-
-La persona trabajadora deberá acompañar los documentos señalados en el inciso final del artículo 67, según corresponda, y efectuará una propuesta al empleador con treinta días de anticipación, a lo menos, a fin de que se pronuncie respecto de dicha circunstancia. El empleador dará su respuesta dentro de los diez días siguientes a su presentación, pudiendo ofrecer una fórmula alternativa o rechazar la propuesta, en cuyo caso, deberá acreditar la o las circunstancias que la justifican.
-
-El empleador deberá dejar constancia en un documento anexo al contrato de trabajo, de la modificación transitoria, la que en ningún caso implicará una alteración en la duración de la jornada de trabajo semanal, la naturaleza de los servicios prestados y en la remuneración de la persona trabajadora, o que el empleador tenga que disponer de un reemplazo o cambios de horarios o funciones de otros trabajadores.
 
 ## Título II
 
@@ -1120,7 +782,7 @@ La remuneración del aprendiz no estará sujeta a lo dispuesto en el inciso terc
 
 #### Artículo 82
 
-En ningún caso las remuneraciones de los aprendices podrán ser reguladas a través de convenios o contratos colectivos, acuerdos de grupo negociador o fallos arbitrales recaídos en una negociación colectiva.
+En ningún caso las remuneraciones de los aprendices podrán ser reguladas a través de convenios o contratos colectivos o fallos arbitrales recaídos en una negociación colectiva.
 
 #### Artículo 83
 
@@ -1142,7 +804,7 @@ El porcentaje de aprendices no podrá exceder del diez por ciento del total de t
 
 #### Artículo 86
 
-Las infracciones a las disposiciones del presente capítulo serán sancionadas con las multas a que se refiere el artículo 506.
+Las infracciones a las disposiciones del presente capítulo serán sancionadas con las multas a que se refiere el artículo 477.
 
 ## Capítulo II
 
@@ -1168,7 +830,7 @@ La calificación, en caso de duda, se hará por el inspector del trabajo de la l
 
 Las normas sobre limitación de la jornada de trabajo que se establecen en otras disposiciones de este Código, se aplicarán a los trabajadores agrícolas a que se refiere este capítulo, con las modalidades que señale el reglamento, de acuerdo a las características de la zona o región, condiciones climáticas y demás circunstancias propias de la agricultura.
 
-El reglamento deberá considerar las modalidades que, dentro de un promedio anual que no exceda de seis horas y cuarenta minutos diarios permitan la variación diaria o semanal, según alguna de las causas a que se hace referencia en el inciso precedente. Asimismo, señalará la forma y procedencia del pago de las horas extraordinarias con el respectivo recargo legal.
+El reglamento deberá considerar las modalidades que, dentro de un promedio anual que no exceda de ocho horas diarias permitan la variación diaria o semanal, según alguna de las causas a que se hace referencia en el inciso precedente. Asimismo, señalará la forma y procedencia del pago de las horas extraordinarias con el respectivo recargo legal.
 
 #### Artículo 89
 
@@ -1197,8 +859,6 @@ Por resolución del Ministerio del Trabajo y Previsión Social, se fijará el va
 #### Artículo 92
 
 En el contrato de los trabajadores permanentes, se entenderá siempre incluida la obligación del empleador de proporcionar al trabajador y su familia habitación higiénica y adecuada, salvo que éste ocupe o puede ocupar una casa habitación en un lugar que, atendida la distancia y medios de comunicación, le permita desempeñar sus labores.
-
-El empleador deberá, en todo caso, prestar al trabajador que realice labores en las que tenga contacto con pesticidas, plaguicidas o productos fitosanitarios tóxicos, según clasificación de la Organización Mundial de la Salud contenida en resolución del Ministerio de Salud, información suficiente sobre su correcto uso y manipulación, eliminación de residuos y envases vacíos, riesgos derivados de su exposición y acerca de los síntomas que pudiere presentar y que revelen su inadecuada utilización. Asimismo, deberá proporcionar al trabajador los implementos y medidas de seguridad necesarios para protegerse de ellos, como también los productos de aseo indispensables para su completa remoción y que no fueren los de uso corriente.
 
 #### Artículo 92 bis
 
@@ -1232,8 +892,6 @@ En el contrato de los trabajadores transitorios o de temporada, se entenderá si
 
 En las faenas de temporada, el empleador deberá proporcionar a los trabajadores, las condiciones higiénicas y adecuadas que les permitan mantener, preparar y consumir los alimentos. En el caso que, por la distancia o las dificultades de transporte no sea posible a los trabajadores adquirir sus alimentos, el empleador deberá, además, proporcionárselos.
 
-Asimismo, el empleador deberá prestar al trabajador que realice labores en las que tenga contacto con pesticidas, plaguicidas o productos fitosanitarios tóxicos, según clasificación de la Organización Mundial de la Salud contenida en resolución del Ministerio de Salud, información suficiente sobre su correcto uso y manipulación, eliminación de residuos y envases vacíos, riesgos derivados de su exposición y acerca de los síntomas que pudiere presentar y que revelen su inadecuada utilización. Deberá proporcionar al trabajador, además, los implementos y medidas de seguridad necesarios para protegerse de ellos, como también los productos de aseo indispensables para su completa remoción y que no fueren los de uso corriente.
-
 En el caso que entre la ubicación de las faenas y el lugar donde el trabajador aloje o pueda alojar de conformidad al inciso primero de este artículo, medie una distancia igual o superior a tres kilómetros y no existiesen medios de transporte público, el empleador deberá proporcionar entre ambos puntos los medios de movilización necesarios, que reúnan los requisitos de seguridad que determine el reglamento.
 
 Las obligaciones que establece este artículo son de costo del empleador y no serán compensables en dinero ni constituirán en ningún caso remuneración.
@@ -1244,7 +902,7 @@ Para dar cumplimiento a la obligación contenida en el artículo 203, los emplea
 
 ## Capítulo III
 
-DEL CONTRATO DE LAS TRABAJADORAS Y LOS TRABAJADORES EMBARCADOS O GENTE DE MAR, DE LAS TRABAJADORAS Y LOS TRABAJADORES PORTUARIOS EVENTUALES Y DEL BUCEO Y ACTIVIDADES CONEXAS
+DEL CONTRATO DE LOS TRABAJADORES EMBARCADOS O GENTE DE MAR Y DE LOS TRABAJADORES PORTUARIOS EVENTUALES
 
 ### Párrafo 1º
 
@@ -1257,8 +915,6 @@ Se entiende por personal embarcado o gente de mar el que, mediando contrato de e
 #### Artículo 97
 
 La gente de mar, para desempeñarse a bordo, deberá estar en posesión de un título y una licencia o una matrícula, según corresponda, documentos todos de vigencia nacional, otorgados por la Dirección General del Territorio Marítimo y de Marina Mercante, de acuerdo a normas reglamentarias que permitan calificar los conocimientos e idoneidad profesional del interesado. Los documentos mencionados en este inciso se otorgarán a toda persona que los solicite y que reúna los requisitos reglamentarios.
-
-La gente de mar que firme un contrato de trabajo deberá tener la oportunidad de examinar el acuerdo y pedir asesoramiento al respecto antes de firmarlo, y disponer de todas las facilidades necesarias para garantizar que ha concertado libremente un acuerdo habiendo comprendido cabalmente sus derechos y responsabilidades.
 
 El ingreso a las naves y su permanencia en ellas será controlado por la autoridad marítima, la cual por razones de orden y seguridad podrá impedir el acceso de cualquier persona.
 
@@ -1292,25 +948,13 @@ Es empleador, para los efectos de este párrafo, todo dueño o armador u operado
 
 #### Artículo 103
 
-El contrato de embarco deberá contener las cláusulas señaladas en el artículo 10 y, adicionalmente, las siguientes:
+El contrato de embarco, además de lo expresado en el artículo 10, deberá indicar:
 
-a) Lugar de nacimiento del trabajador.
+a) nombre y matrícula de la nave o naves;
 
-b) Número de días de feriado anual al que tiene derecho la gente de mar conforme a lo dispuesto en los artículos 67 y siguientes y, en el caso de que se les deba aplicar el Convenio Marítimo, MLC, 2006, se deberá garantizar un número de días en base de un mínimo de 2,5 días corridos por mes de empleo.
+b) asignaciones y viáticos que se pactaren, y
 
-c) Las prestaciones de protección de la salud y de seguridad social que el armador ha de proporcionar al trabajador.
-
-d) Nombre y matrícula de la nave o naves en la que el trabajador prestará servicios.
-
-e) Asignaciones y viáticos que se pactaren entre las partes.
-
-f) Puerto donde el trabajador deberá ser restituido y, en su caso, demás condiciones de repatriación pactadas.
-
-El armador siempre deberá mantener un ejemplar del contrato de trabajo y del contrato de embarco a bordo de la nave en que el trabajador preste servicios, inclusive en aquellos casos en que el empleador haya sido autorizado por la Dirección del Trabajo a centralizar la documentación laboral y previsional, conforme lo dispuesto en el inciso sexto del artículo 9.
-
-Asimismo, el armador deberá mantener a bordo de la nave un modelo de contrato de trabajo y un modelo de contrato de embarco en lengua inglesa. En caso de existir convenio colectivo vigente, se deberá, además, mantener a bordo un ejemplar de dicho instrumento junto a una copia en lengua inglesa de las partes del documento que traten materias que puedan ser objeto de inspecciones por parte del Estado rector del puerto respectivo. Lo regulado en este inciso no regirá para naves que naveguen exclusivamente entre puertos nacionales.
-
-Adicionalmente, el empleador deberá proporcionar al trabajador, junto con el contrato de trabajo, una descripción de los servicios con que contará a bordo de la nave.
+c) puerto donde el contratado debe ser restituido.
 
 #### Artículo 104
 
@@ -1326,11 +970,9 @@ Si por falta de convenio provisional escrito entre el hombre de mar embarcado en
 
 La jornada semanal de la gente de mar será de cincuenta y seis horas distribuidas en ocho horas diarias.
 
-Las partes podrán pactar horas extraordinarias sin sujeción al máximo establecido en el artículo 31. No obstante lo anterior, siempre se deberán respetar los descansos mínimos establecidos en el artículo 116.
+Las partes podrán pactar horas extraordinarias sin sujeción al máximo establecido en el artículo 31.
 
-Sin perjuicio de lo señalado en el inciso primero y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
-
-> **Nota.** NOTA 5 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso tercero del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
+Sin perjuicio de lo señalado en el inciso primero y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta y cinco horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
 
 #### Artículo 107
 
@@ -1344,11 +986,7 @@ Tampoco se aplicará dicha disposición al ingeniero jefe, al comisario, al méd
 
 #### Artículo 109
 
-No será obligatorio el trabajo en días domingo o festivos cuando la nave se encuentre fondeada en puerto. La duración del trabajo en la semana correspondiente no podrá en este caso exceder de cuarenta y ocho horas, la que se calculará de forma proporcional por los días en que la nave esté fondeada en puerto.
-
-Sin perjuicio de lo señalado precedentemente y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
-
-> **Nota.** NOTA 6 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso segundo del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
+No será obligatorio el trabajo en días domingo o festivos cuando la nave se encuentre fondeada en puerto. La duración del trabajo en la semana correspondiente no podrá en este caso exceder de cuarenta y ocho horas.
 
 #### Artículo 110
 
@@ -1386,21 +1024,11 @@ Los trabajadores que se encuentren cumpliendo turnos de guardia de puerto estar�
 
 El cuadro regulador de trabajo, tanto en la mar como en puerto, dentro de los límites de la jornada legal y de acuerdo con las modalidades del presente artículo, será preparado y firmado por el capitán, visado por la autoridad marítima para establecer su concordancia con el reglamento del trabajo a bordo, y fijado en un lugar de la nave, de libre y fácil acceso.
 
-En el caso de naves que realicen viajes entre puertos nacionales e internacionales, deberán, además, llevar un ejemplar en lengua inglesa del cuadro regulador, que se deberá fijar junto a la versión en castellano.
-
-El empleador deberá registrar las horas diarias de trabajo y descanso a través de un formato entregado por la Dirección del Trabajo.
-
 Las modificaciones a este cuadro, que fuere indispensable introducir durante el viaje, serán anotadas en el diario de la nave y comunicadas a la autoridad marítima para su aprobación o sanción de las alteraciones injustificadas que se hubieren hecho.
-
-La Dirección del Trabajo, mediante resolución fundada, en coordinación con la respectiva autoridad marítima, establecerá un sistema especial de control de las horas de trabajo y de descanso y de la determinación de las remuneraciones correspondientes al servicio prestado. Asimismo, establecerá el mecanismo por el cual los trabajadores podrán presentar sus reclamos y quejas a bordo y en tierra respecto de estas materias. En todo caso, el empleador deberá poner a disposición de los trabajadores los medios electrónicos que permitan la presentación de dichos reclamos y quejas, según corresponda.
 
 #### Artículo 116
 
-El descanso mínimo de los trabajadores a que se refiere este párrafo no podrá ser inferior a diez horas dentro de cada período de veinticuatro horas.
-
-Las horas de descanso podrán agruparse, previo acuerdo de las partes, en dos períodos como máximo, uno de los cuales deberá ser de, al menos, ocho horas ininterrumpidas, y el intervalo entre dos períodos consecutivos de descanso no podrá exceder de catorce horas.
-
-En caso de suspensión del período de descanso necesario para garantizar la seguridad inmediata del buque, de las personas a bordo o de la carga o para socorrer a otros buques o personas que corran peligro en el mar, tan pronto como sea factible, una vez establecida la normalidad, el capitán o quien lo reemplace deberá velar por que se conceda un período adecuado de descanso a todo marino que haya trabajado durante su horario normal de descanso. A su vez, los ejercicios de lucha contra incendios y salvamento y otros ejercicios similares deberán realizarse de forma que perturben lo menos posible los períodos de descansos y que no provoquen fatiga u otra afectación al trabajador.
+El descanso mínimo de los trabajadores a que se refiere este párrafo será de ocho horas continuas dentro de cada día calendario.
 
 #### Artículo 117
 
@@ -1472,9 +1100,9 @@ No perderán la continuidad de sus servicios aquellos oficiales o tripulantes qu
 
 Los sueldos de los oficiales y tripulantes serán pagados en moneda nacional o en su equivalente en moneda extranjera.
 
-Los pagos de las remuneraciones se efectuarán conforme a lo establecido en el artículo 44.
+Los pagos se efectuarán por mensualidades vencidas, si se tratare de oficiales y si el contrato se hubiere pactado por tiempo determinado; en el caso de tripulantes, se estará a lo que se hubiere estipulado.
 
-En el caso de aquellas naves que realicen viajes que contemplen en su ruta un puerto o puertos extranjeros, el armador deberá asegurar medios pertinentes para que el personal a bordo pueda realizar transferencias de toda o parte de su remuneración en el momento y a quien estime pertinente.
+En los contratos firmados por viaje redondo, los sueldos se pagarán a su terminación. No obstante, los oficiales y tripulantes tendrán derecho a solicitar anticipos hasta de un cincuenta por ciento de sueldos devengados.
 
 #### Artículo 129
 
@@ -1500,17 +1128,11 @@ Del contrato de los trabajadores portuarios eventuales
 
 Se entiende por trabajador portuario, todo aquel que realiza funciones de carga y descarga de mercancías y demás faenas propias de la actividad portuaria, tanto a bordo de naves y artefactos navales que se encuentren en los puertos de la República, como en los recintos portuarios.
 
-Las funciones y faenas a que se refiere el inciso anterior sólo podrán ser realizadas por trabajadores portuarios permanentes, por trabajadores afectos a un convenio de provisión de puestos de trabajo y por otros trabajadores eventuales.
+Las funciones y faenas a que se refiere el inciso anterior podrán ser realizadas por trabajadores portuarios permanentes, por trabajadores afectos a un convenio de provisión de puestos de trabajo y por otros trabajadores eventuales.
 
 El trabajador portuario, para desempeñar las funciones a que se refiere el inciso primero, deberá efectuar un curso básico de seguridad en faenas portuarias en un Organismo Técnico de Ejecución autorizado por el Servicio Nacional de Capacitación y Empleo, el que deberá tener los requisitos y la duración que fije el reglamento.
 
 El ingreso a los recintos portuarios y su permanencia en ellos será controlado por la autoridad marítima, la cual, por razones fundadas de orden y seguridad, podrá impedir el acceso de cualquier persona.
-
-Sin perjuicio de las facultades a que se refiere el inciso anterior, las empresas concesionarias de frentes de atraque que administren terminales portuarios y las empresas de muellaje que operen en puertos privados deberán cumplir las obligaciones que le imponga el Sistema de Control de Cumplimiento de la Normativa Laboral Portuaria, a que se refiere el artículo siguiente.
-
-#### Artículo 133 bis
-
-La Dirección del Trabajo coordinará con la autoridad marítima un Sistema de Control de Cumplimiento de la Normativa Laboral Portuaria, destinado a controlar el acceso y permanencia de los trabajadores a que se refiere este párrafo a los recintos portuarios, velando porque la prestación de los servicios que realicen se efectúe de manera segura y lo sea en virtud de alguna de las modalidades contractuales previstas en el inciso segundo del artículo anterior.
 
 #### Artículo 134
 
@@ -1542,12 +1164,6 @@ En el contrato deberá dejarse constancia de la hora de su celebración;
 
 b) la jornada ordinaria de trabajo se realizará por turno, tendrá la duración que las partes convengan y no podrá ser superior a ocho ni inferior a cuatro horas diarias.
 
-Tratándose de turnos de más de cuatro horas, los trabajadores portuarios, independientemente de su modalidad contractual, tendrán derecho a un descanso de media hora, irrenunciable, conforme a lo señalado en el inciso primero del artículo 34. Sin perjuicio de lo anterior, no se podrá extender la duración de los turnos definidos de conformidad con la normativa vigente.
-
-El descanso deberá otorgarse simultánea o alternadamente a todos los trabajadores, permitiéndoles empezar el descanso para colación en el período de tiempo comprendido entre las 3,5 y 5 horas de iniciado el turno, resguardando la seguridad de los trabajadores y de las faenas en el recinto portuario. Los empleadores deberán concordar cualquiera de estas modalidades con las organizaciones representativas de los trabajadores a quienes afecten. En todo caso, las dotaciones asignadas en una nave deberán tomar el descanso en forma que se garantice siempre la seguridad y salud de los trabajadores.
-
-Será responsabilidad del concesionario del frente de atraque, de las empresas de muellaje en aquellos frentes multioperados y, en el caso de los puertos privados, de las empresas de muellaje que operen dicho puerto, mantener instalaciones adecuadas para que los trabajadores portuarios puedan hacer uso efectivo del descanso señalado en el párrafo segundo. Las empresas mencionadas deberán registrar el otorgamiento del descanso mediante el sistema a que se refiere el artículo 33.
-
 El empleador podrá extender la jornada ordinaria sobre lo pactado siempre que deban terminarse las faenas de carga y descarga, sin que, en ningún caso, ésta pueda exceder de diez horas diarias.
 
 Las horas trabajadas en exceso sobre la jornada pactada se considerarán extraordinarias, se pagarán con un recargo del cincuenta por ciento de la remuneración convenida y deberán liquidarse y pagarse conjuntamente con la remuneración ordinaria del respectivo turno;
@@ -1576,9 +1192,7 @@ Si el empleador pusiere término al respectivo contrato de trabajo en cualquier 
 
 #### Artículo 142
 
-Los convenios de provisión de puestos de trabajo a que se refiere el artículo 134, se regirán por las siguientes normas:
-
-a) Deberán contener, por parte del o de los empleadores que lo suscriban, la garantía de un número de ofertas de acceso al puesto de trabajo suficientes para asegurar mensualmente, al menos, el equivalente al valor del ingreso mínimo mensual, para cada uno de los trabajadores que formen parte del convenio.
+Los convenios de provisión de puestos de trabajo a que se refiere el artículo 134, se regirán por las siguientes normas: a) Deberán contener, por parte del o de los empleadores que lo suscriban, la garantía de un número de ofertas de acceso al puesto de trabajo suficientes para asegurar al menos, el equivalente al valor del ingreso mínimo de un mes en cada trimestre calendario, para cada uno de los trabajadores que formen parte del convenio.
 
 b) Un empleador y un trabajador podrán suscribir los convenios de provisión de puestos de trabajo que estimen conveniente.
 
@@ -1613,72 +1227,6 @@ El empleador deberá mantener en su oficina o en otro lugar habilitado expresame
 #### Artículo 145
 
 La infracción a lo dispuesto en el artículo 136 se sancionará con una multa a beneficio fiscal de cinco a veinticinco unidades tributarias mensuales, que se duplicará en caso de reincidencia.
-
-### Párrafo 3°
-
-Del contrato de buceo y actividades conexas
-
-DEL CONTRATO DE TRABAJO DE BUCEO Y ACTIVIDADES CONEXAS
-
-#### Artículo 145 bis
-
-A.- El contrato de trabajo de buceo es aquel que regula la relación de trabajo, bajo dependencia o subordinación, entre un empleador y una trabajadora o un trabajador que desempeña actividades de extracción, cultivo o procesamiento de recursos hidrobiológicos, en el ámbito de la acuicultura, tales como la salmonicultura y la mantención industrial, entre otras, mediante buceo con aire, abastecido desde superficie o en forma autónoma. El ejercicio de esta actividad considerará los riesgos en la seguridad ocupacional de los buzos, y aquellas labores subacuáticas que se realicen sin el auxilio de dichos aparatos, medios o sistemas, incluyéndose las actividades conexas a las labores de buceo.
-
-El contrato de trabajo de buceo regula todas las actividades que requieran de personal para buceo, como aquellas que se realizan en tranques, piscinas y otras dependencias industriales.
-
-Se excluyen del contrato regulado en este Párrafo las labores realizadas por el personal de las Fuerzas Armadas y de Orden y Seguridad Pública, y aquellas realizadas en forma recreativa, deportiva o para la subsistencia personal.
-
-#### Artículo 145 bis
-
-B.- Un reglamento expedido por el Ministerio del Trabajo y Previsión Social, suscrito por el Ministro de Defensa Nacional, establecerá, entre otros aspectos, un registro de servicios de buzos; la exigencia de licencia para la labor de buceo; los elementos asociados a los métodos de trabajo seguro; los elementos de protección personal; la determinación de actividades conexas mínimas necesarias para la labor de buceo regulada en este contrato; los requerimientos técnicos para la implementación de las dotaciones de seguridad para distintos tipos de faena; la forma de funcionamiento de la dotación de seguridad y su idoneidad técnica; las condiciones técnicas necesarias previo, durante y con posterioridad a la inmersión, especialmente en relación con el tiempo necesario para el desarrollo de las operaciones y el descanso por parte de las personas trabajadoras; un protocolo de procedimientos de actuación ante la ocurrencia de accidentes por descompresión que coordine a las instituciones pertinentes y a las empresas para el oportuno acceso a cámaras hiperbáricas, y los elementos de protección personal que el empleador pondrá a disposición de la trabajadora o del trabajador para el ejercicio de sus labores. La elaboración del reglamento se realizará en consulta con la Dirección del Trabajo, la Superintendencia de Seguridad Social y la Dirección General del Territorio Marítimo y Marina Mercante.
-
-Con todo, la normativa técnica de la actividad submarina sujeta a la fiscalización del Ministerio de Defensa Nacional, a través de la Dirección General del Territorio Marítimo y de Marina Mercante, será regulada por la referida entidad y su cumplimiento tendrá carácter obligatorio para las relaciones laborales regidas por el presente Código.
-
-#### Artículo 145 bis
-
-C.- La dotación de seguridad del buceo es el conjunto de personas trabajadoras que componen el equipo necesario para propiciar una operación segura de labores subacuáticas.
-
-Ésta tendrá las funciones y composición que se determinen según las condiciones en que se ejecute la actividad, en consideración a los perfiles técnicos que establezca el reglamento a que se refiere el artículo 145 bis B. Deberá especificarse en dicho instrumento la integración mínima de la dotación de seguridad de acuerdo con el tipo de faena y las competencias requeridas, las que incluirán siempre al menos un supervisor de buceo y personal de apoyo en superficie.
-
-Para los efectos del contrato regulado en este Párrafo, cuando la dotación de seguridad deba ser trasladada por vía marítima, fluvial o lacustre para el desarrollo de sus labores, no será considerada como parte de la dotación mínima de seguridad o de la tripulación que deben mantener las embarcaciones o naves que la transporte.
-
-DE LA SALUD Y SEGURIDAD EN LAS LABORES DE BUCEO
-
-#### Artículo 145 bis
-
-D.- Sin perjuicio de lo establecido en el artículo 184 que, entre otras obligaciones, consagra que el empleador debe adoptar las medidas necesarias y oportunas para proteger eficazmente la vida y salud de los trabajadores, éste deberá proporcionar los medios técnicos y mantener la dotación de seguridad requerida para que las personas trabajadoras desempeñen las labores de buceo en forma segura, de conformidad con el reglamento establecido en el artículo 145 bis B.
-
-Adicionalmente, el empleador deberá contar siempre con las labores de asistencia y supervisión sobre las actividades de buceo, incluidas aquellas previas y posteriores a la inmersión. El debido cumplimiento de estas obligaciones no podrá afectar los tiempos de descanso de quienes realizan labores de buceo.
-
-#### Artículo 145 bis
-
-E.- En el caso de que la prestación de servicios de buceo y actividades conexas se realice bajo régimen de subcontratación o servicios transitorios, sin perjuicio de las obligaciones de la empresa principal, contratista y subcontratista respecto de sus propios trabajadores y de lo dispuesto en el artículo 183-E, la empresa principal o usuaria deberá adoptar todas las medidas necesarias para proteger eficazmente la vida y la salud de dichos trabajadores.
-
-Las empresas que contraten servicios de buceo bajo los referidos regímenes estarán obligadas a supervisar que las personas trabajadoras cuenten con los equipamientos de trabajo adecuados y necesarios para ejercer las labores de buceo dentro de sus faenas u obras, y verificarán que éstos se encuentren debidamente certificados y en las condiciones necesarias para su correcta operación, especialmente en lo que respecta al reloj de buceo y al profundímetro, instrumentos de precisión destinados a controlar el tiempo y la profundidad, respectivamente. Con todo, la empresa principal o usuaria podrá proveer directamente los equipos y herramientas de trabajo referidas precedentemente.
-
-La empresa principal o usuaria deberá contar con dispositivos de salvamento; procedimientos de control de infraestructura de artefactos navales, tales como balsas, jaulas, plataformas y bodegas flotantes; procedimiento y equipamiento mínimo de primeros auxilios aplicables a las labores de buceo; procedimiento de actuación ante la ocurrencia de accidentes por descompresión que asegure el oportuno acceso al tratamiento médico requerido; procedimientos de control de tiempos y maniobras respecto a los efectos de presión en el cuerpo en el contexto de las labores de buceo y del buceo repetitivo; procedimiento de control de aparatos, sistemas o medios utilizados en las labores de buceo, sin perjuicio de otras obligaciones que disponga el reglamento a que hace referencia el artículo 145 bis B.
-
-En el marco de los servicios que regula el contrato de trabajo de buceo, el dueño de la obra, faena o empresa que encarga ejecutar las labores será responsable de la adopción de las medidas por parte de la o las empresas contratistas para el cumplimiento de la gestión de los riesgos según lo establecido en la ley.
-
-Se presumirá legalmente que toda actividad de buceo que se desarrolle en concesiones marítimas, instalaciones, dependencias de una empresa dueña o usuaria a cualquier título de un centro de cultivo, artefacto naval o nave de todo tipo es una actividad en régimen de subcontratación y estas empresas serán solidariamente responsables de las indemnizaciones que sean procedentes por daño moral y lucro cesante en caso de lesiones o muerte de un buzo.
-
-#### Artículo 145 bis
-
-F.- Los organismos administradores de la ley Nº 16.744, que establece normas sobre accidentes del trabajo y enfermedades profesionales, deberán poner a disposición de las entidades empleadoras una guía de buceo seguro, que contenga métodos de trabajo correctos, medidas preventivas y los lineamientos para la elaboración de procedimientos de actuación en casos de accidentes, incluidos aquellos que requieran el uso de cámaras hiperbáricas. Se garantizará un oportuno y rápido acceso a éstas, tanto en caso de accidentes como en su uso preventivo, y se considerará especialmente la localización geográfica de la faena.
-
-La Superintendencia de Seguridad Social, mediante una norma de carácter general, entregará las directrices que los organismos administradores de la ley Nº 16.744 deberán considerar en la asistencia técnica que otorguen conforme a este artículo.
-
-#### Artículo 145 bis
-
-G.- Los empleadores deberán controlar el cumplimiento de los tiempos de inmersión, de acuerdo con la profundidad de la labor de buceo, y el periodo de descanso necesario tras dicha operación. Estos datos serán ingresados en el registro de sistema de documentación electrónico que se deberá implementar al efecto.
-
-Adicionalmente, los empleadores deberán mantener en el referido registro la información relativa a los equipamientos y herramientas utilizadas en cada inmersión; la identidad y matrícula vigente del buzo involucrado en la inmersión, así como el tiempo y profundidad de ésta; la información asociada al cumplimiento de la dotación de seguridad y todos aquellos antecedentes necesarios conforme a lo establecido en el reglamento al que hace referencia el artículo 145 bis B.
-
-El sistema referido en el inciso primero deberá mantenerse siempre a disposición de los fiscalizadores de la Dirección del Trabajo u otra autoridad competente, con propósitos de fiscalización de forma remota o presencial.
-
-Con todo, conforme a lo establecido en el artículo precedente, en el caso de que las labores se desarrollen bajo régimen de subcontratación o servicios transitorios, el dueño de la obra, faena o empresa deberá acceder al registro referido en el inciso primero, para la supervisión del cumplimiento de las obligaciones establecidas en este artículo, con resguardo de los datos personales de las personas involucradas. Adicionalmente, deberá dejar constancia de la supervisión para la fiscalización por parte de la Dirección del Trabajo en su propio registro de documentación electrónica.
-
-La Dirección del Trabajo, mediante resolución, fijará las condiciones que deberá cumplir el registro electrónico establecido en el presente artículo. Adicionalmente, para efectos del cumplimiento de lo dispuesto en el artículo 33, los empleadores deberán mantener un sistema de registro electrónico.
 
 ## Capítulo IV
 
@@ -1758,7 +1306,9 @@ K.- Los derechos de propiedad intelectual de los autores y compositores, artista
 
 #### Artículo 145
 
-L. Eliminado.
+L. Las remuneraciones percibidas por los trabajadores de artes y espectáculos con motivo de la celebración de los contratos laborales que regula este Capítulo, quedarán sujetas a la tributación aplicable a las rentas señaladas en el artículo 42, número 2°, de la ley sobre Impuesto a la Renta, contenida en el artículo 1° del decreto ley N° 824, de 1974. Para estos efectos, dichos trabajadores deberán emitir la correspondiente boleta de honorarios por el valor bruto de la remuneración percibida, sin deducción alguna por concepto de las cotizaciones previsionales que deban ser efectuadas por sus respectivos empleadores.
+
+> **Nota.** NOTA 8: El Art. 1º Transitorio de la LEY 20219, publicada el 03.10.2007, dispuso que la modificación introducida en el presente artículo rige a contar del primer día del mes subsiguiente al de su publicación.
 
 ## Capítulo V
 
@@ -1778,16 +1328,6 @@ Se aplicarán también las disposiciones de este capítulo a los choferes de cas
 
 > **Nota.** El artículo 1º transitorio de la LEY 19889, publicada el 24.09.2003, dispone que la modificación de la presente artículo rige a contar del día 1 del mes subsiguiente al de su publicación.
 
-#### Artículo 146 bis
-
-Sin perjuicio de lo dispuesto en el número 3 del artículo 10, el contrato de los trabajadores de casa particular deberá indicar el tipo de labor a realizar y el domicilio específico donde deberán prestarse los servicios, así como también, en su caso, la obligación de asistencia a personas que requieran atención o cuidados especiales.
-
-#### Artículo 146 ter
-
-El empleador deberá entregar una copia del contrato de trabajo debidamente firmado al trabajador. Asimismo, deberá registrarlo dentro de los quince días siguientes a su celebración en la sede o en el sitio electrónico de la respectiva Inspección del Trabajo, con indicación de las mismas estipulaciones pactadas, a fin de facilitar la fiscalización de la existencia de la relación laboral y de las condiciones de empleo. La Inspección del Trabajo mantendrá la reserva de la identidad de las partes y del domicilio en que se prestan los servicios y sólo podrá utilizar la información disponible para la finalidad de fiscalización o para proporcionarla a los tribunales de justicia, previo requerimiento.
-
-El empleador que sea requerido en el domicilio indicado por un inspector del trabajo en ejercicio de sus facultades de fiscalización, relativas a las condiciones laborales de los trabajadores de casa particular, podrá aceptar su ingreso a este domicilio o solicitar la fijación de otro día y hora para acudir a las dependencias de la Inspección del Trabajo con la documentación que le sea requerida.
-
 #### Artículo 147
 
 Las dos primeras semanas de trabajo se estimarán como período de prueba y durante ese lapso podrá resolverse el contrato a voluntad de cualquiera de las partes siempre que se dé un aviso con tres días de anticipación, a lo menos, y se pague el tiempo servido.
@@ -1798,47 +1338,31 @@ Al fallecimiento del jefe de hogar, el contrato subsistirá con los parientes qu
 
 #### Artículo 149
 
-La jornada de los trabajadores de casa particular que no vivan en la casa del empleador estará sujeta a las siguientes reglas:
-
-a) No podrá exceder de cuarenta horas semanales, sin perjuicio de lo establecido en la letra d).
-
-b) Se podrá distribuir hasta en un máximo de seis días.
-
-c) Le será aplicable lo dispuesto en el inciso primero del artículo 34.
-
-d) Si la jornada semanal se extiende hasta por treinta horas, las partes podrán acordar por escrito hasta un máximo de doce horas semanales adicionales de trabajo, no acumulables a otras semanas, las que serán pagadas con un recargo no inferior al señalado en el inciso tercero del artículo 32.
-
-e) El período que medie entre el inicio y el término de las labores en ningún caso podrá exceder de doce horas continuas, considerando tanto la jornada como el descanso dentro de ella.
+La jornada de los trabajadores de casa particular que no vivan en la casa del empleador, no podrá exceder en ningún caso de 12 horas diarias y tendrán, dentro de esta jornada, un descanso no inferior a una hora imputable a ella.
 
 Cuando vivan en la casa del empleador no estarán sujetos a horario, sino que éste será determinado por la naturaleza de su labor, debiendo tener normalmente un descanso absoluto mínimo de 12 horas diarias. Entre el término de la jornada diaria y el inicio de la siguiente, el descanso será ininterrumpido y, normalmente, de un mínimo de 9 horas. El exceso podrá fraccionarse durante la jornada y en él se entenderá incluido el lapso destinado a las comidas del trabajador.
-
-> **Nota.** NOTA 7 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en la letra a) del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
 
 #### Artículo 150
 
 El descanso semanal de los trabajadores de casa particular que no vivan en la casa del empleador, se regirá por las normas generales del párrafo 4, Capítulo IV, Título I, de este Libro.
 
-Tratándose de trabajadores que vivan en la casa del empleador se aplicarán las siguientes normas:
-
-a) Tendrán derecho a descanso semanal los días domingo.
-
-b) Tendrán derecho a descanso los días sábado, los cuales, de común acuerdo, podrán acumularse, fraccionarse o intercambiarse por otros días de la semana. En caso de acumularse, dichos días deberán ser otorgados por el empleador dentro del respectivo mes calendario. Estos descansos no podrán ser compensados en dinero mientras la relación laboral se encuentre vigente.
-
-c) Tendrán derecho a descanso todos los días que la ley declare festivos. No obstante, las partes, con anterioridad a ellos, podrán pactar por escrito que el descanso se efectúe en un día distinto que no podrá fijarse más allá de los noventa días siguientes al respectivo festivo. Este derecho caducará si no se ejerce dentro de dicho plazo y no podrá compensarse en dinero, salvo que el contrato de trabajo termine antes de haberse ejercido el descanso.
-
-d) Tendrán derecho a dos días de libre disposición en cada mes calendario, los que serán remunerados, les permitirán ausentarse de sus labores y no podrán compensarse en dinero. De común acuerdo estos días libres podrán acumularse dentro de un periodo de tres meses. Al término de la relación laboral, en caso de existir días pendientes de utilizar en el respectivo mes, se compensarán en conformidad a lo establecido en el artículo 73.
+Los trabajadores que vivan en la casa del empleador tendrán derecho a un día completo de descanso a la semana, el cual podrá ser fraccionado en dos medios, a petición del trabajador.
 
 Los días de descanso facultan a los trabajadores a no reiniciar sus labores hasta el comienzo de la jornada diaria siguiente.
 
 #### Artículo 151
 
-La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes y en moneda de curso legal, sin que pueda comprender los alimentos y la habitación, los cuales siempre serán de cargo del empleador.
+La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes, comprendiéndose además del pago en dinero efectivo, los alimentos y la habitación cuando los servicios requeridos exijan que el trabajador viva en la casa del empleador.
 
-> **Nota.** El numeral 5° b) del artículo único de la ley 20786, publicada el 27.10.2014, suprimió los incisos segundo, tercero y cuarto de la presente norma.
+Con todo, la remuneración mínima en dinero de los trabajadores de casa particular será equivalente al 75% del ingreso mínimo mensual.
 
-#### Artículo 151 bis
+Los trabajadores que no vivan en la casa del empleador y se desempeñen a jornadas parciales o presten servicios sólo algunos días a la semana, tendrán derecho a una remuneración mínima no inferior a la referida en el inciso anterior, proporcionalmente calculada en relación con la jornada o con los días de trabajo.
 
-Ningún empleador podrá condicionar la contratación de trabajadores de casa particular, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, al uso de uniformes, delantales o cualquier otro distintivo o vestimenta identificadores en espacios, lugares o establecimientos públicos como parques, plazas, playas, restaurantes, hoteles, locales comerciales, clubes sociales y otros de similar naturaleza.
+Las prestaciones de casa habitación y alimentación de los trabajadores de casa particular no serán imponibles para efectos previsionales.
+
+> **Nota.** El artículo transitorio de la Ley 20279, publicada el 01.07.2008, establece que a contar del 1 de marzo de 2009 y hasta el 28 de febrero de 2010, el ingreso mínimo mensual para los trabajadores de casa particular será equivalente a 83% del ingreso mínimo mensual.
+
+> **Nota.** NOTA 1 El artículo transitorio de la Ley 20279, publicada el 01.07.2008, establece que a contar del 1 de marzo de 2010 y hasta el 28 de febrero de 2011, el ingreso mínimo mensual para los trabajadores de casa particular será equivalente a el 92% del ingreso mínimo mensual.
 
 #### Artículo 152
 
@@ -1856,11 +1380,11 @@ Tratándose de los cuarteleros conductores de los Cuerpos de Bomberos que no viv
 
 ## Capítulo VI
 
-Del contrato de los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas
+Del contrato de los deportistas profesionales y trabajadores que desempeñan actividades conexas
 
 #### Artículo 152 bis
 
-A.- El presente Capítulo regula la relación de trabajo, bajo dependencia o subordinación, entre los trabajadores y las trabajadoras que se dedican a la práctica del fútbol profesional y aquellos que desempeñan actividades conexas, con su empleador.
+A.- El presente Capítulo regula la relación de trabajo, bajo dependencia o subordinación, entre los trabajadores que se dedican a la práctica del fútbol profesional y aquellos que desempeñan actividades conexas, con su empleador.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -1874,9 +1398,9 @@ B.- Para los efectos de la aplicación del presente Capítulo, las expresiones q
 
 a) Deportista profesional, es toda persona natural que, en virtud de un contrato de trabajo, se dedica a la práctica de un deporte, bajo dependencia y subordinación de una entidad deportiva, recibiendo por ello una remuneración.
 
-b) Trabajador o trabajadora que desempeña actividades conexas, es aquel que en forma remunerada ejerce como entrenador, auxiliar técnico, o cualquier otra calidad directamente vinculada a la práctica del deporte profesional.
+b) Trabajador que desempeña actividades conexas, es aquel que en forma remunerada ejerce como entrenador, auxiliar técnico, o cualquier otra calidad directamente vinculada a la práctica del deporte profesional.
 
-c) Entidad deportiva, es la persona natural o jurídica que utiliza los servicios de un o una deportista profesional, o de un trabajador o trabajadora que desempeña actividades conexas, en virtud de un contrato de trabajo.
+c) Entidad deportiva, es la persona natural o jurídica que utiliza los servicios de un deportista profesional, o de un trabajador que desempeña actividades conexas, en virtud de un contrato de trabajo.
 
 d) Entidad superior de la respectiva disciplina deportiva chilena, son aquellas entidades que organizan las competencias deportivas profesionales de carácter internacional, nacional, regional o local.
 
@@ -1890,33 +1414,33 @@ Forma, contenido y duración del contrato de trabajo
 
 #### Artículo 152 bis
 
-C.- Sin perjuicio de lo dispuesto en el artículo 9°, el contrato de trabajo se firmará en triplicado, entregándose un ejemplar al o la deportista profesional o trabajador o trabajadora que desempeñe actividades conexas, en el acto de la firma; otro quedará en poder del empleador y el tercero se registrará, dentro del plazo de 10 días hábiles de suscrito el contrato, ante la entidad superior correspondiente.
+C.- Sin perjuicio de lo dispuesto en el artículo 9°, el contrato de trabajo se firmará en triplicado, entregándose un ejemplar al deportista profesional o trabajador que desempeñe actividades conexas, en el acto de la firma; otro quedará en poder del empleador y el tercero se registrará, dentro del plazo de 10 días hábiles de suscrito el contrato, ante la entidad superior correspondiente.
 
-Dicho contrato mencionará todo beneficio o prestación que reciba el o la deportista profesional, y que tenga como causa el contrato de trabajo.
-
-> **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
-
-#### Artículo 152 bis
-
-D.- El contrato de trabajo de los o las deportistas profesionales y trabajadores o trabajadoras que desempeñen actividades conexas se celebrará por tiempo determinado. La duración del primer contrato de trabajo que se celebre con una entidad deportiva no podrá ser inferior a una temporada, o lo que reste de ésta, si se ha iniciado, ni superior a cinco años.
-
-La renovación de dicho contrato deberá contar con el acuerdo expreso y por escrito del trabajador o trabajadora, en cada oportunidad, y tendrá una duración mínima de seis meses.
+Dicho contrato mencionará todo beneficio o prestación que reciba el deportista profesional, y que tenga como causa el contrato de trabajo.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
 #### Artículo 152 bis
 
-E.- Cuando un o una deportista celebre su primer contrato de trabajo en calidad de profesional con una entidad deportiva distinta a la o las participantes en su formación y educación, aquélla deberá pagar a estas últimas una indemnización en razón de la labor formativa realizada, de acuerdo a las normas fijadas por la entidad superior de la respectiva disciplina deportiva.
+D.- El contrato de trabajo de los deportistas profesionales y trabajadores que desempeñen actividades conexas se celebrará por tiempo determinado. La duración del primer contrato de trabajo que se celebre con una entidad deportiva no podrá ser inferior a una temporada, o lo que reste de ésta, si se ha iniciado, ni superior a cinco años.
 
-Dicho pago estará dirigido únicamente a compensar la formación del o la deportista, y deberá tener en cuenta, al fijar la referida indemnización, la participación proporcional entre las distintas entidades deportivas participantes en la formación y educación de estos deportistas.
+La renovación de dicho contrato deberá contar con el acuerdo expreso y por escrito del trabajador, en cada oportunidad, y tendrá una duración mínima de seis meses.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
 #### Artículo 152 bis
 
-F.- El uso y explotación comercial de la imagen de los o las deportistas profesionales y de los trabajadores y trabajadoras que desempeñan actividades conexas, por parte de sus empleadores, para fines distintos al objeto principal de la prestación de servicios, y en cada caso en que ésta deba ser utilizada, requerirá de su autorización expresa.
+E.- Cuando un deportista celebre su primer contrato de trabajo en calidad de profesional con una entidad deportiva distinta a la o las participantes en su formación y educación, aquélla deberá pagar a estas últimas una indemnización en razón de la labor formativa realizada, de acuerdo a las normas fijadas por la entidad superior de la respectiva disciplina deportiva.
 
-En cuanto a los beneficios pecuniarios para el trabajador o trabajadora, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda.
+Dicho pago estará dirigido únicamente a compensar la formación del deportista, y deberá tener en cuenta, al fijar la referida indemnización, la participación proporcional entre las distintas entidades deportivas participantes en la formación y educación de estos deportistas.
+
+> **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
+
+#### Artículo 152 bis
+
+F.- El uso y explotación comercial de la imagen de los deportistas profesionales y de los trabajadores que desempeñan actividades conexas, por parte de sus empleadores, para fines distintos al objeto principal de la prestación de servicios, y en cada caso en que ésta deba ser utilizada, requerirá de su autorización expresa.
+
+En cuanto a los beneficios pecuniarios para el trabajador, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -1944,17 +1468,19 @@ Cesiones temporales y definitivas
 
 #### Artículo 152 bis
 
-I.- Durante la vigencia del contrato, la entidad deportiva podrá convenir con otra la cesión temporal de los servicios del o la deportista profesional o una indemnización por terminación anticipada del contrato de trabajo, para cuyos efectos deberá contar con la aceptación expresa de éste. El contrato respectivo deberá otorgarse por escrito.
+I.- Durante la vigencia del contrato, la entidad deportiva podrá convenir con otra la cesión temporal de los servicios del deportista profesional o una indemnización por terminación anticipada del contrato de trabajo, para cuyos efectos deberá contar con la aceptación expresa de éste. El contrato respectivo deberá otorgarse por escrito.
 
-La cesión temporal suspende los efectos del contrato de trabajo entre la cedente y el trabajador o trabajadora, pero no interrumpe ni suspende el tiempo de duración pactado en dicho contrato. Cumplido el plazo de la cesión temporal, el o la deportista profesional se reincorporará al servicio de la entidad deportiva cedente.
+La cesión temporal suspende los efectos del contrato de trabajo entre la cedente y el trabajador, pero no interrumpe ni suspende el tiempo de duración pactado en dicho contrato.
+
+Cumplido el plazo de la cesión temporal, el deportista profesional se reincorporará al servicio de la entidad deportiva cedente.
 
 En virtud del contrato de cesión temporal, la entidad cedente responderá subsidiariamente por el cumplimiento de las obligaciones económicas del cesionario, hasta el monto de lo pactado en el contrato original.
 
-Se entiende por indemnización por terminación anticipada del contrato de trabajo, el monto de dinero que una entidad deportiva paga a otra para que ésta acceda a terminar anticipadamente el contrato de trabajo que la vincula con un o una deportista profesional, y que, por tanto, pone fin a dicho contrato.
+Se entiende por indemnización por terminación anticipada del contrato de trabajo, el monto de dinero que una entidad deportiva paga a otra para que ésta acceda a terminar anticipadamente el contrato de trabajo que la vincula con un deportista profesional, y que, por tanto, pone fin a dicho contrato.
 
-A lo menos un diez por ciento del monto de esta indemnización le corresponderá al o la deportista profesional.
+A lo menos un diez por ciento del monto de esta indemnización le corresponderá al deportista profesional.
 
-La terminación del contrato de trabajo produce la libertad de acción del o la deportista profesional.
+La terminación del contrato de trabajo produce la libertad de acción del deportista profesional.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -1964,9 +1490,9 @@ Del derecho de información y pago por subrogación
 
 #### Artículo 152 bis
 
-J.- La entidad superior de la respectiva disciplina deportiva chilena deberá ser informada, por las entidades deportivas que participan en las competencias que organiza, sobre el monto y estado de cumplimiento de las obligaciones laborales y previsionales que a éstos correspondan respecto de los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas que laboren para ellas.
+J.- La entidad superior de la respectiva disciplina deportiva chilena deberá ser informada, por las entidades deportivas que participan en las competencias que organiza, sobre el monto y estado de cumplimiento de las obligaciones laborales y previsionales que a éstos correspondan respecto de los deportistas profesionales y trabajadores que desempeñan actividades conexas que laboren para ellas.
 
-En el caso que la entidad deportiva no acredite oportunamente el cumplimiento íntegro de esas obligaciones, la entidad superior de la respectiva disciplina deportiva, a requerimiento del o los trabajadores o trabajadoras afectados, deberá retener de las obligaciones que tenga a favor de aquélla las sumas que se adeuden y pagar por subrogación al o la deportista profesional o trabajador o trabajadora que desempeña actividades conexas o institución previsional acreedora.
+En el caso que la entidad deportiva no acredite oportunamente el cumplimiento íntegro de esas obligaciones, la entidad superior de la respectiva disciplina deportiva, a requerimiento del o los trabajadores afectados, deberá retener de las obligaciones que tenga a favor de aquélla las sumas que se adeuden y pagar por subrogación al deportista profesional o trabajador que desempeña actividades conexas o institución previsional acreedora.
 
 El monto y estado de cumplimiento de las obligaciones laborales y previsionales a que se refiere el inciso primero de este artículo, será acreditado en la forma establecida en el inciso segundo del artículo 183-C de este Código.
 
@@ -1978,741 +1504,23 @@ Del reglamento interno de orden, higiene y seguridad
 
 #### Artículo 152 bis
 
-K.- Las entidades deportivas estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los y las deportistas profesionales y los trabajadores y trabajadoras que desempeñan actividades conexas, en los términos establecidos en el Título III, del Libro I.
+K.- Las entidades deportivas estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los deportistas profesionales y los trabajadores que desempeñan actividades conexas, en los términos establecidos en el Título III, del Libro I.
 
 En ningún caso podrán imponerse sanciones por situaciones o conductas extradeportivas. Tampoco podrán imponerse sanciones que consistan en la reducción de las vacaciones o cualquier descanso, así como la exclusión de los entrenamientos con el plantel profesional.
 
-Los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas tendrán derecho a manifestar libremente sus opiniones sobre temas relacionados con su profesión.
+Los deportistas profesionales y trabajadores que desempeñan actividades conexas tendrán derecho a manifestar libremente sus opiniones sobre temas relacionados con su profesión.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
 #### Artículo 152 bis
 
-L.- Las infracciones a lo dispuesto en el presente Capítulo serán sancionadas con las multas señaladas en el inciso segundo del artículo 506 de este Código.
+L.- Las infracciones a lo dispuesto en el presente Capítulo serán sancionadas con las multas señaladas en el inciso segundo del artículo 478 de este Código.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
-## Capítulo VII
-
-Del Contrato de Tripulantes de Vuelo y de Tripulantes de Cabina de Aeronaves Comerciales de Pasajeros y Carga
-
-#### Artículo 152 ter
-
-Las normas del presente Capítulo, se aplicarán al personal tripulante de vuelo y de cabina de las empresas que presten servicios de transporte de pasajeros o carga, sin perjuicio de su sujeción a normas de seguridad en los vuelos, diferentes a las impartidas por la Dirección General de Aeronáutica Civil.
-
-Asimismo, les serán aplicables todas las normas del presente Código, en tanto no sean incompatibles o contradictorias con las normas de este Capítulo.
-
-#### Artículo 152 ter
-
-A.- Para efectos del presente Capítulo, se entenderá por:
-
-a) Tripulación de Vuelo: Son aquellos trabajadores poseedores de licencia que permita asignarles obligaciones esenciales para la operación de una aeronave durante el tiempo de vuelo. No perderá su condición laboral de tripulante de vuelo, el trabajador que, contratado como tal, le sean asignadas funciones en tierra. En caso de que la mantención de la respectiva licencia requiera un número mínimo de horas de vuelo, el empleador estará obligado a planificar los Roles de Vuelo de tal forma que se cumpla a lo menos con dichas horas;
-
-b) Tripulación de Cabina: Son aquellos trabajadores que, contando con su respectiva licencia, participan de las labores de servicio y atención de pasajeros, así como del cuidado y seguridad de las personas o cosas que se transporten en la aeronave. No perderá su condición laboral de tripulante de cabina, el trabajador que contratado como tal, le sean asignadas funciones en tierra;
-
-c) Período de Servicio de Vuelo: Corresponde al tiempo transcurrido, dentro de un período de 24 horas consecutivas, desde el momento que el tripulante de vuelo y de cabina se presenta en las dependencias aeroportuarias o lugar asignado por el operador, con el objeto de preparar, realizar y finalizar operacional y administrativamente un vuelo, hasta que el tripulante es liberado de toda función.
-
-También se comprenderán como Período de Servicio de Vuelo las horas destinadas a reentrenamientos periódicos en avión y entrenadores sintéticos de vuelo, prácticas periódicas de evacuación en tierra o en el mar (ditching), como asimismo traslado en vuelo por conveniencia del operador;
-
-d) Período de Servicio: Es el tiempo correspondiente a cualquier actividad asignada por el Operador a un tripulante, ajena al vuelo mismo;
-
-e) Tiempo de Vuelo: Tiempo total transcurrido desde que el avión inicia su movimiento con el propósito de despegar, hasta que se detiene completamente al finalizar el vuelo, y
-
-f) Rol de Vuelo: Es el instrumento de planificación de vuelos que corresponde a la jornada en turnos de trabajo de los tripulantes, y que cumple las funciones señaladas en el numeral 5 del artículo 10 del presente Código.
-
-#### Artículo 152 ter
-
-B.- La jornada mensual de trabajo de los tripulantes de vuelo y de cabina podrá ser ordinaria o especial, en su caso.
-
-#### Artículo 152 ter
-
-C.- El empleador o el operador, en su caso, deberá entregar con una anticipación de a lo menos cinco días el Rol de Vuelo que regirá la jornada de los trabajadores durante el mes siguiente. El empleador podrá modificar, por cualquier causa, dicho Rol de Vuelo dentro de su período de vigencia, en tanto no se afecten con ello los días libres programados del trabajador.
-
-Si el cambio de un Rol de Vuelo implica un número menor de horas de vuelo, el trabajador tendrá derecho a que se le remunere en conformidad a las horas originalmente programadas; si implica un número superior de horas de vuelo, éstas deberán ser pagadas en su totalidad. Esta norma se aplicará sólo a los trabajadores cuyas remuneraciones se calculan total o parcialmente sobre la base de horas efectivas de vuelo.
-
-Si en caso de fuerza mayor o caso fortuito los días libres programados fueran afectados estando el trabajador fuera de su lugar de residencia, estos deberán ser compensados de común acuerdo.
-
-No será considerado cambio de Rol de Vuelo aquella alteración producto de la solicitud del propio trabajador.
-
-#### Artículo 152 ter
-
-D.- La jornada mensual de trabajo de los tripulantes de vuelo y de cabina no excederá de ciento sesenta horas, salvo que la Dirección General de Aeronáutica Civil, por razones de seguridad, determine establecer una jornada menor. Su distribución se efectuará por medio de los Roles de Vuelo. Si las labores de período de servicio en tierra se desarrollan por siete días o más en el mes calendario, la jornada mensual no podrá superar las cuarenta horas promedio semanal.
-
-La jornada ordinaria no podrá superar las doce horas continuas de labores. Sin perjuicio de ello, la jornada ordinaria podrá extenderse hasta catorce horas ante la ocurrencia, en el respectivo vuelo, de contingencias metereológicas, emergencias médicas o necesidades calificadas de mantenimiento de la aeronave, las cuales se entiende que tienen el carácter de tales al encontrarse consignadas en el Minimun Equipment List (MEL), actualizado por la Dirección General de Aeronáutica Civil o la entidad a la cual la empresa se encuentre sujeta en cuanto a la seguridad de vuelo.
-
-Las horas que por estas circunstancias extiendan la jornada ordinaria, deberán ser pagadas a lo menos con el recargo señalado en el artículo 32 de este Código.
-
-Los sistemas de descanso compensatorio después de servicios de vuelo en la jornada ordinaria, serán los siguientes:
-
-Tripulantes de Vuelo
-
-Período de Servicio Horas de
-
-Descanso Descanso
-
-7 10
-
-8 12
-
-9 13
-
-10 14
-
-11 15
-
-12 15
-
-Tripulantes de Cabina
-
-Período de Servicio Horas de
-
-de Vuelo Descanso
-
-7 10
-
-8 11
-
-9 12
-
-10 13
-
-11 14
-
-12 15
-
-Con todo, si un Período de Servicio de Vuelo se desarrolla en siete horas o menos, no se podrá llevar a cabo otro vuelo dentro de las veinticuatro horas de iniciado el primero, salvo que entre el inicio del primero y el término del segundo no se excedan las doce horas.
-
-Si la jornada ordinaria se desarrolla en tierra, sólo en labores relativas a Período de Servicio, la jornada diaria no podrá superar las ocho horas continuas, imputándose este período al límite mensual señalado en el inciso primero, y para iniciar un Período de Servicio de Vuelo, deberá mediar previamente un descanso mínimo de once horas. Si las labores en tierra se extienden por un mes calendario, el promedio de horas ordinarias efectivas trabajadas no podrá exceder de cuarenta semanales.
-
-> **Nota.** NOTA 8 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso final del presente artículo, se implementará de forma gradual, reduciéndose de cuarenta y cinco horas semanales a cuarenta y cuatro horas al primer año; cuarenta y dos horas al tercer año y cuarenta horas al quinto año, contados desde la publicación de la ley en el Diario Oficial.
-
-#### Artículo 152 ter
-
-E.- Toda prestación de servicios en tierra que no se encuentre comprendida en las labores propias del Período de Servicio de Vuelo, será considerada como Período de Servicio y deberá ser remunerada conforme al promedio correspondiente a los tres últimos meses de la remuneración del trabajador. Esta norma se aplicará sólo a los trabajadores cuyas remuneraciones se calculan total o parcialmente sobre la base de horas efectivas de vuelo.
-
-Asimismo, sin perjuicio de los viáticos y traslados que el empleador deba proveer para la prestación de servicios en tierra, pero en el extranjero, con motivo de la realización de eventos tales como ferias, promociones o congresos, el trabajador tendrá derecho a que ese período sea remunerado en la forma señalada en el inciso anterior.
-
-#### Artículo 152 ter
-
-F.- La jornada especial es aquella que se desarrolla por más de doce horas para alcanzar destinos más lejanos, no pudiendo exceder en caso alguno de veinte horas en un lapso de veinticuatro horas, requiriéndose adicionar a la tripulación mínima, un número determinado de tripulantes. En estos vuelos, las Tripulaciones de Cabina deberán descansar a bordo en forma rotativa a lo menos una hora cuando el Período de Servicio de Vuelo supere las doce horas, no pudiendo en tal caso el trabajador desarrollar labores efectivas por un lapso superior a las catorce horas. Asimismo, en esta jornada, se deberán otorgar descansos a bordo de la aeronave en condiciones confortables, según las normas técnicas impartidas por la Dirección General de Aeronáutica Civil. Adicionalmente a las condiciones que determine dicha norma técnica, las partes podrán pactar mejoramientos físicos para este descanso, así como otro tipo de compensaciones acordes con la naturaleza de esta jornada.
-
-El empleador podrá programar vuelos o rutas de largo alcance que, excepcionalmente, consideren la ida y el regreso al mismo lugar con una misma tripulación en una jornada especial, concurriendo los siguientes requisitos:
-
-a) Que no existan reparos a la seguridad de vuelo por parte de la Dirección General de Aeronáutica Civil, y
-
-b) Que exista acuerdo con los trabajadores involucrados y que dicho acuerdo sea registrado en la Dirección del Trabajo, el cual tendrá una vigencia de dos años.
-
-#### Artículo 152 ter
-
-G.- A los Tripulantes de Vuelo, cuando sean relevados de sus funciones en los controles de vuelo, deberá otorgárseles reposo a bordo con el objeto de no sobrepasar los límites establecidos para el Tiempo de Vuelo y Período de Servicio de Vuelo que, por razones de seguridad, imparta la Dirección General de Aeronáutica Civil. Los Tripulantes de Vuelo no podrán estar al mando de los controles por más de ocho horas, continuas o discontinuas, dentro de un Período de Servicio de Vuelo, sin perjuicio de que la Dirección de Aeronáutica Civil establezca un número inferior de horas.
-
-Los períodos de descanso después de una jornada especial se regirán por la siguiente Tabla:
-
-Tripulantes de Vuelo
-
-Período de Horas
-
-Servicio de Vuelo de Descanso
-
-12 15
-
-13 16
-
-14 17
-
-15 17
-
-16 18
-
-17 19
-
-18 20
-
-19 22
-
-20 24
-
-Tripulantes de Cabina
-
-Período de Horas
-
-Servicio de Vuelo de Descanso
-
-12 15
-
-13 16
-
-14 17
-
-15 18
-
-16 19
-
-17 20
-
-18 21
-
-19 22
-
-20 24.
-
-#### Artículo 152 ter
-
-H.- En ningún caso, la distribución de la jornada ordinaria y especial podrá implicar que mensualmente el trabajador permanezca más de dieciocho noches fuera de su lugar de residencia, salvo el caso de comisiones especiales u ocasionales en el extranjero.
-
-Si las labores de un tripulante se desarrollan por espacio de hasta cinco días continuos, tendrá derecho a un descanso mínimo de dos días. Asimismo, tendrá derecho a un descanso de cuatro días en caso de que las labores se desarrollen por espacio de seis y hasta diez días en forma continua. Con todo, ningún trabajador podrá prestar servicios por más de diez días en forma continuada.
-
-Excepcionalmente, no será aplicable lo dispuesto en el inciso anterior, a los trabajadores que tengan pactadas en sus contratos de trabajo cláusulas que determinen su libertad de elegir mensualmente la distribución de sus Roles de Vuelo y con ello la distribución de días de trabajo y de descanso.
-
-#### Artículo 152 ter
-
-I.- El empleador podrá establecer turnos de llamada o período de retén, por el cual el trabajador estará obligado a encontrarse disponible para un vuelo en caso de que deba reemplazar a otro miembro de la tripulación o se presente una emergencia similar. Dicho período no podrá exceder de doce horas continuas ni ser consecutivo con otro, y no podrá establecerse dentro del período de descanso. El período de retén deberá ser compensado, de común acuerdo entre las partes o bien por acuerdo colectivo, salvo que se encuentre expresamente incluido en la remuneración del trabajador.
-
-#### Artículo 152 ter
-
-J.- Tanto en la jornada ordinaria, como en la jornada especial, o en el período de retén, no procederá pactar horas extraordinarias. Esta limitación no regirá para los tripulantes de cabina y de vuelo cuando desarrollen sus labores en tierra.
-
-Asimismo, los días de descanso y las horas de retén, no podrán imputarse al feriado anual del trabajador ni aun con consentimiento de éste.
-
-#### Artículo 152 ter
-
-K.- Los trabajadores cuyos contratos se rigen por el presente Capítulo, gozarán del derecho a descanso dominical, bajo la modalidad que se señala en el inciso siguiente.
-
-El trabajador tendrá derecho, a lo menos por una vez en cada mes calendario, a un descanso de 106 horas, las que deben comprender cuatro días íntegros y consecutivos e incluir días sábado y domingo, en la base de su residencia habitual. Dichos descansos no podrán iniciarse después de las cero horas del primer día.
-
-Excepcionalmente, no será aplicable lo dispuesto en el inciso anterior, a los trabajadores que tengan pactadas en sus contratos de trabajo cláusulas que determinen su libertad de elegir mensualmente la distribución de sus Roles de Vuelo y con ello la distribución de días de trabajo y de descanso.
-
-#### Artículo 152 ter
-
-L.- Si los Roles de Vuelo implicaren la prestación de servicios durante días feriados, el empleador deberá otorgar los respectivos descansos compensatorios adicionales dentro de los siguientes sesenta días, pudiendo, con todo, acordarse su compensación en dinero, pero con un recargo no inferior al señalado en el artículo 32 del presente Código y sin afectar las disposiciones de seguridad que imparte la Dirección General de Aeronáutica Civil al respecto.
-
-#### Artículo 152 ter
-
-M.- Las trabajadoras cuyos contratos se rijan por este Capítulo, al retomar sus funciones después de hacer uso de su permiso de maternidad, gozarán de los derechos de alimentación en los términos del Título II del Libro II de este Código. Para ello, se deberán pactar individual o colectivamente con ocho trabajadoras o más, las condiciones de trabajo que permitan ejercer dichos derechos hasta que el menor cumpla dos años, pudiendo con ello variarse las alternativas que señala el artículo 206 de este Código incluyendo el lapso de una hora consignado en dicha disposición. El empleador podrá hacer extensivas las condiciones pactadas colectivamente a las trabajadoras que se integren a la empresa con posterioridad a dicho acuerdo.
-
-En ningún caso las alternativas que se pacten, en uno u otro evento, podrán implicar una disminución de las remuneraciones de la trabajadora.
-
-## Capítulo VIII
-
-Del contrato de los teleoperadores
-
-#### Artículo 152 quáter
-
-Se regirán por las normas del presente Capítulo los contratos de trabajo cuyo objeto sea la prestación de servicios para contactar o ser contactados con terceros, sea por la vía telefónica, medios telemáticos, aplicación de tecnología digital o cualquier otro medio electrónico, para la atención, información o asesoramiento de soporte técnico, comerciales o administrativos, venta o promoción de productos o servicios, en un lugar habilitado por el empleador, denominado centro de contacto o llamadas.
-
-#### Artículo 152 quáter
-
-A.- El contrato de los trabajadores regidos por este Capítulo deberá contener las estipulaciones que señala el artículo 10.
-
-Todas las operaciones por las cuales el trabajador perciba remuneraciones fijas o variables deberán ser acordadas por las partes y estar contenidas en el contrato de trabajo. Las remuneraciones variables deberán construirse sobre la base de parámetros individuales, objetivos y verificables, sin perjuicio de las metas colectivas que se puedan pactar. No se podrá imponer al trabajador el cumplimiento de metas, servicios o tareas que no reúnan tales condiciones, ni aun bajo promesa de la entrega de bonos o premios especiales. Tampoco se podrán efectuar descuentos arbitrarios o perjudicar cualquier clase de calificación del trabajador por el incumplimiento de obligaciones objetivas que no se encuentren acordadas en conformidad a este inciso.
-
-Toda modificación de la remuneración variable y de su base de cálculo deberá quedar establecida en un anexo al contrato de trabajo, la que empezará a regir al mes siguiente de suscrito dicho anexo.
-
-Para la aplicación de lo dispuesto en el inciso tercero del artículo 54 bis, el empleador deberá detallar en la respectiva liquidación de remuneraciones, todas y cada una de las operaciones por las que el trabajador percibe remuneraciones fijas y variables, en especial las horas de conexión o el número de contactos efectuados, las ventas de productos tangibles o intangibles y el detalle de cualquier acción que, estando consignada en el contrato de trabajo, deba ser remunerada conforme a la ley.
-
-#### Artículo 152 quáter
-
-B.- Las empresas que desarrollen sus procesos conforme lo señalado en el numeral 2 del inciso primero del artículo 38 deberán fijar los turnos respectivos con a lo menos una semana de anticipación, de manera que comenzarán a regir en la semana o período siguiente. Se entenderán exceptuados aquellos trabajadores que sean contratados expresamente para desempeñarse en horario nocturno.
-
-#### Artículo 152 quáter
-
-C.- Los trabajadores de un centro de contacto o llamadas que estén sujetos a conexión continua tendrán derecho a una interrupción de diez segundos entre cada atención. Asimismo, tendrán derecho a descansos en la jornada de trabajo por un total de treinta minutos durante el día, los que serán planificados en acuerdo con el empleador. Estos descansos no podrán acordarse en fracciones inferiores a diez minutos ni por la totalidad de su duración.
-
-Las interrupciones y descansos señalados en el inciso anterior, así como aquellos destinados para que los trabajadores acudan a los servicios higiénicos, no podrán significar en ningún caso un menoscabo a sus remuneraciones y se considerarán trabajados para todos los efectos legales.
-
-Lo anterior, sin perjuicio del derecho a colación consagrado en el artículo 34.
-
-#### Artículo 152 quáter
-
-D.- Las claves para la utilización de los sistemas de conexión constituyen una herramienta de trabajo, siendo secretas y personales del trabajador de un centro de contacto o llamadas. Cualquier contravención a lo anterior se sujetará a las normas del procedimiento de tutela de derechos fundamentales regulado en el Párrafo 6° del Capítulo II del Título I del Libro V de este Código.
-
-#### Artículo 152 quáter
-
-E.- Un reglamento conjunto de los Ministerios de Salud y del Trabajo y Previsión Social establecerá las condiciones ambientales, de seguridad y salud en el trabajo que deberán cumplir los establecimientos destinados a prestar servicios como centros de contacto o llamadas.
-
-#### Artículo 152 quáter
-
-F.- Los trabajadores de un centro de contacto o llamadas, que lleven seis meses prestando servicios al empleador de forma continua, tendrán derecho a realizarse exámenes médicos preventivos anuales cuyo objetivo será detectar de forma temprana enfermedades profesionales asociadas a la actividad en la cual se desempeñan. Dichos exámenes médicos serán efectuados por el respectivo organismo administrador del seguro de accidentes del trabajo y enfermedades profesionales de la ley N° 16.744.
-
-Un reglamento dictado por el Ministerio del Trabajo y Previsión Social determinará las condiciones físicas y ergonómicas en que deberán prestar servicios los trabajadores regidos por este Capítulo, así como los exámenes preventivos que deberán realizarse periódicamente.
-
-El tiempo que el trabajador emplee en la realización de los exámenes señalados en el inciso anterior será considerado como trabajado para todos los efectos legales. Asimismo, el empleador deberá pagar el valor de los pasajes por el transporte que deba utilizar el trabajador para concurrir al centro asistencial donde se le efectuarán los exámenes.
-
-## Capítulo IX
-
-DEL TRABAJO A DISTANCIA Y
-
-TELETRABAJO
-
-#### Artículo 152 quáter
-
-G.- Las partes
-
-podrán pactar, al inicio o durante la
-
-vigencia de la relación laboral, en el
-
-contrato de trabajo o en documento
-
-anexo al mismo, la modalidad de trabajo a
-
-distancia o teletrabajo, la que se sujetará a
-
-las normas del presente Capítulo. En
-
-ningún caso dichos pactos podrán implicar
-
-un menoscabo de los derechos que este
-
-Código reconoce al trabajador, en
-
-especial, en su remuneración.
-
-Es trabajo a distancia aquel en el que el
-
-trabajador presta sus servicios, total o
-
-parcialmente, desde su domicilio u otro
-
-lugar o lugares distintos de los
-
-establecimientos, instalaciones o faenas
-
-de la empresa.
-
-Se denominará teletrabajo si los
-
-servicios son prestados mediante la
-
-utilización de medios tecnológicos,
-
-informáticos o de telecomunicaciones o si
-
-tales servicios deben reportarse mediante
-
-estos medios.
-
-Los trabajadores que prestan servicios a
-
-distancia o teletrabajo gozarán de todos
-
-los derechos individuales y colectivos
-
-contenidos en este Código, cuyas normas
-
-les serán aplicables en tanto no sean
-
-incompatibles con las contenidas en el
-
-presente Capítulo.
-
-#### Artículo 152 quáter
-
-H.- Las partes
-
-deberán determinar el lugar donde el
-
-trabajador prestará los servicios, que
-
-podrá ser el domicilio del trabajador u
-
-otro sitio determinado. Con todo, si los
-
-servicios, por su naturaleza, fueran
-
-susceptibles de prestarse en distintos
-
-lugares, podrán acordar que el trabajador
-
-elija libremente dónde ejercerá sus
-
-funciones.
-
-No se considerará trabajo a distancia o
-
-teletrabajo si el trabajador presta servicios
-
-en lugares designados y habilitados por el
-
-empleador, aun cuando se encuentren
-
-ubicados fuera de las dependencias de la
-
-empresa.
-
-#### Artículo 152 quáter
-
-I.- En caso de que la modalidad de trabajo a distancia o teletrabajo se acuerde con posterioridad al inicio de la relación laboral, cualquiera de las partes podrá unilateralmente volver a las condiciones originalmente pactadas en el contrato de trabajo, previo aviso por escrito a la otra con una anticipación mínima de treinta días.
-
-Si la relación laboral se inició conforme a las normas de este Capítulo, será siempre necesario el acuerdo de ambas partes para adoptar la modalidad de trabajo presencial.
-
-#### Artículo 152 quáter
-
-J.- La modalidad de trabajo a distancia o teletrabajo podrá abarcar todo o parte de la jornada laboral, combinando tiempos de trabajo de forma presencial en establecimientos, instalaciones o faenas de la empresa con tiempos de trabajo fuera de ella.
-
-El trabajo a distancia estará sujeto a las reglas generales de jornada de trabajo contenidas en el Capítulo IV del Libro I, con las excepciones y modalidades establecidas en el presente artículo. El empleador, cuando corresponda, deberá implementar a su costo un mecanismo fidedigno de registro de cumplimiento de jornada de trabajo a distancia, conforme a lo prescrito en el artículo 33.
-
-Si la naturaleza de las funciones del trabajador a distancia lo permite, las partes podrán pactar que el trabajador distribuya libremente su jornada en los horarios que mejor se adapten a sus necesidades, respetando siempre los límites máximos de la jornada diaria y semanal, sujetándose a las normas sobre duración de la jornada de los artículos 22 y 28 y las relativas al descanso semanal del Párrafo 4° del Capítulo IV del Libro Primero.
-
-Con todo, en el caso del teletrabajo las partes podrán acordar que el trabajador quede excluido de la limitación de jornada de trabajo en tanto se ajuste a lo dispuesto en el inciso segundo del artículo 22. Sin embargo, se presumirá que el trabajador está afecto a la jornada ordinaria cuando el empleador ejerciere una supervisión o control funcional sobre la forma y oportunidad en que se desarrollen las labores.
-
-En aquellos casos en que se pacte la combinación de tiempos de trabajo de forma presencial en establecimientos, instalaciones o faenas de la empresa con tiempos de trabajo fuera de ella, podrán acordarse alternativas de combinación de dichos tiempos por los que podrá optar el trabajador, quien deberá comunicar la alternativa escogida con a lo menos una semana de anticipación.
-
-Tratándose de trabajadores a distancia que distribuyan libremente su horario o de teletrabajadores excluidos de la limitación de jornada de trabajo, el empleador deberá respetar su derecho a desconexión, garantizando el tiempo en el cual ellos no estarán obligados a responder sus comunicaciones, órdenes u otros requerimientos. El tiempo de desconexión deberá ser de, al menos, doce horas continuas en un periodo de veinticuatro horas. Igualmente, en ningún caso el empleador podrá establecer comunicaciones ni formular órdenes u otros requerimientos en días de descanso, permisos o feriado anual de los trabajadores.
-
-#### Artículo 152 quáter
-
-K.- Además de las estipulaciones previstas en el artículo 10, el contrato de trabajo de los trabajadores regidos por este Capítulo deberá contener lo siguiente:
-
-1. Indicación expresa de que las partes han acordado la modalidad de trabajo a distancia o teletrabajo, especificando si será de forma total o parcial y, en este último caso, la fórmula de combinación entre trabajo presencial y trabajo a distancia o teletrabajo.
-
-2. El lugar o los lugares donde se prestarán los servicios, salvo que las partes hayan acordado que el trabajador elegirá libremente dónde ejercerá sus funciones, en conformidad a lo prescrito
-
-en el inciso primero del artículo 152 quáter H, lo que deberá expresarse.
-
-3. El período de duración del acuerdo de trabajo a distancia o teletrabajo, el cual podrá ser indefinido o por un tiempo determinado, sin perjuicio de lo establecido en el artículo 152 quáter I.
-
-4. Los mecanismos de supervisión o control que utilizará el empleador respecto de los servicios convenidos con el trabajador.
-
-5. La circunstancia de haberse acordado que el trabajador a distancia podrá distribuir su jornada en el horario que mejor se adapte a sus necesidades o que el teletrabajador se encuentra excluido de la limitación de jornada de trabajo.
-
-6. El tiempo de desconexión.
-
-#### Artículo 152 quáter
-
-L.- Los equipos, las herramientas y los materiales para el trabajo a distancia o para el teletrabajo, incluidos los elementos de protección personal, deberán ser proporcionados por el empleador al trabajador, y este último no podrá ser obligado a utilizar elementos de su propiedad. Igualmente, los costos de operación, funcionamiento, mantenimiento y reparación de equipos serán siempre de cargo del empleador.
-
-#### Artículo 152 quáter
-
-M.- Las condiciones específicas de seguridad y salud a que deben sujetarse los trabajadores regidos por este Capítulo serán reguladas por un reglamento que dictará el Ministerio del Trabajo y Previsión Social.
-
-En aquellos casos en que las partes estipulen que los servicios se prestarán desde el domicilio del trabajador u otro lugar previamente determinado, el empleador comunicará al trabajador las condiciones de seguridad y salud que el puesto de trabajo debe cumplir de acuerdo al inciso anterior, debiendo, en todo caso, velar por el cumplimiento de dichas condiciones, conforme al deber de protección consagrado en el artículo 184.
-
-En caso de que la prestación de los servicios se realice en el domicilio del trabajador o de un tercero, el empleador no podrá ingresar a él sin previa autorización de uno u otro, en su caso.
-
-En todo caso, el empleador podrá siempre requerir al respectivo organismo administrador del seguro de la ley N° 16.744 que, previa autorización del trabajador, acceda al domicilio de éste e informe acerca de si el puesto de trabajo cumple con todas las condiciones de seguridad y salud reguladas en el
-
-reglamento señalado en el inciso primero y demás normas vigentes sobre la materia.
-
-Sin perjuicio de lo anterior, en cualquier tiempo, la Dirección del Trabajo, previa autorización del trabajador, podrá fiscalizar el debido cumplimiento de la normativa laboral en el puesto de
-
-trabajo a distancia o teletrabajo.
-
-#### Artículo 152 quáter
-
-N.- Conforme al deber de protección que tiene el empleador, siempre deberá informar por escrito al trabajador a distancia o teletrabajador acerca de los riesgos que entrañan sus labores, de las medidas preventivas y de los medios de trabajo correctos según cada caso en particular,
-
-de conformidad a la normativa vigente.
-
-Adicionalmente, en forma previa al inicio de las labores a distancia o teletrabajo, el empleador deberá efectuar una capacitación al trabajador acerca de las principales medidas de seguridad y
-
-salud que debe tener presente para desempeñar dichas labores. Esta capacitación podrá realizarla directamente el empleador o a través del organismo administrador del seguro de la ley N°
-
-16.744, según estime conveniente.
-
-El empleador deberá, además, informar por escrito al trabajador de la existencia o no de indicatos legalmente constituidos en la empresa en el momento del inicio de las labores. Asimismo, en caso de que se constituya un sindicato con posterioridad al inicio de las labores, el empleador deberá informar ste hecho a los trabajadores sometidos a este contrato dentro de los diez días siguientes de recibida la comunicación establecida en el artículo 225.
-
-#### Artículo 152 quáter
-
-Ñ.- El trabajador sujeto a las normas de este Capítulo siempre podrá acceder a las instalaciones de la empresa y, en cualquier caso, el empleador deberá garantizar que pueda participar en las actividades colectivas que se realicen, siendo de cargo del empleador los gastos de traslado de los trabajadores.
-
-#### Artículo 152 quáter
-
-O.- Dentro de los quince días siguientes a que las partes acuerden la modalidad de trabajo a distancia o teletrabajo, el empleador deberá registrar dicho pacto de manera
-
-electrónica en la Dirección del Trabajo. A su vez, la Dirección del Trabajo remitirá copia de dicho registro a la Superintendencia de Seguridad Social y al organismo administrador del seguro de la
-
-ley N° 16.744 al que se encuentre adherido la entidad empleadora.
-
-El Director del Trabajo determinará la forma, condiciones y características del registro de dichos acuerdos y las demás normas necesarias para verificar el cumplimiento de los requisitos
-
-contemplados en los artículos anteriores.
-
-La fiscalización del cumplimiento de los acuerdos de trabajo a distancia o teletrabajo corresponderá a la Dirección del Trabajo, sin perjuicio de las facultades conferidas a otros servicios del Estado en virtud de las leyes que los rijan.
-
-Del derecho al trabajo a distancia o teletrabajo de las personas trabajadoras que desempeñan labores de cuidado no remunerado
-
-#### Artículo 152 quáter
-
-O bis.- El empleador deberá ofrecer a la persona trabajadora que, durante la vigencia de la relación laboral, tenga el cuidado personal de un niño o niña menor de catorce años o que tenga a su cargo el cuidado de una persona con discapacidad o en situación de dependencia severa o moderada, no importando la edad de quien se cuida, sin recibir remuneración por dicha actividad, que todo o parte de su jornada diaria o semanal pueda ser desarrollada bajo modalidad de trabajo a distancia o teletrabajo, en la medida que la naturaleza de sus funciones lo permita.
-
-La circunstancia de encontrarse en alguna de las situaciones señaladas precedentemente deberá acreditarse mediante certificado de nacimiento que acredite la filiación respecto de un niño o niña; o la resolución judicial de un tribunal que otorga el cuidado personal de éstos o éstas; o el certificado de inscripción en el Registro Nacional de la Discapacidad, conforme a lo dispuesto en la letra b) del artículo 56 de la ley N° 20.422; o el documento emitido por el Ministerio de Desarrollo Social y Familia, conforme a la información contenida en el instrumento establecido en el artículo 5° de la ley N° 20.379, o a través del instrumento que lo reemplace, que dé cuenta de la calidad de cuidador o cuidadora, según corresponda.
-
-Lo dispuesto en este artículo no se aplicará a los trabajadores que tengan poder para representar al empleador, tales como gerentes, subgerentes, agentes o apoderados.
-
-#### Artículo 152 quáter
-
-O ter.- La obligación del empleador señalada en el artículo anterior, se regirá por las siguientes reglas:
-
-1.- La persona trabajadora deberá presentar su requerimiento por escrito, acompañando los documentos señalados en el artículo precedente, y formulando una propuesta en la que se contenga la combinación fija de tiempos de trabajo presencial en el establecimiento, instalación o faena de la empresa, y de tiempos de trabajo fuera de ellas, pudiendo distribuir tiempos presenciales y a distancia durante la jornada diaria o semanal, los que no podrán superar los límites diarios y semanales de trabajo.
-
-El empleador deberá dar su respuesta dentro de los quince días siguientes a dicha presentación, pudiendo ofrecer una fórmula alternativa o rechazar la propuesta, en cuyo evento deberá acreditar que la naturaleza de las funciones de la persona trabajadora no permite la modalidad de trabajo a distancia o teletrabajo, como en el caso de labores que requieran que la persona trabajadora se encuentre presencialmente en su puesto de trabajo, o la atención presencial de público, o que por necesidades organizativas sean requeridas para la realización de los servicios de otros trabajadores, o de atención de servicios de urgencia, guardias o similares. Igualmente, el empleador podrá negarse cuando no existan condiciones de conectividad en el lugar en el que se desarrollarán las labores, o el organismo administrador del seguro determine que dicho lugar no cumple con condiciones de seguridad y salud en el trabajo adecuadas, de conformidad a lo previsto en el inciso cuarto del artículo 152 quáter M.
-
-En ningún caso, el ejercicio de este derecho por parte de la persona trabajadora implicará una alteración en las condiciones pactadas, o que el empleador tenga que disponer de un reemplazo o cambios de horarios o funciones de otros trabajadores.
-
-2.- Si la persona trabajadora requiere realizar una modificación a la distribución establecida, deberá dar aviso por escrito al empleador con una anticipación mínima de treinta días, quien deberá pronunciarse de conformidad al procedimiento establecido precedentemente.
-
-3.- Por causa sobreviniente, la persona trabajadora podrá volver unilateralmente a las condiciones originalmente pactadas en el contrato de trabajo. Igual derecho le corresponde al empleador cuando concurra alguna de las circunstancias contempladas en el párrafo segundo del numeral 1. Para estos efectos, deberán dar aviso por escrito con una anticipación mínima de treinta días.
-
-4.- El empleador deberá consignar en un documento anexo al contrato de trabajo, lo siguiente:
-
-a) La identificación del trabajo de cuidado no remunerado de la persona trabajadora y el medio de acreditación de los señalados en el artículo 152 quáter O bis que habilita el ejercicio del presente derecho, y
-
-b) La fórmula de combinación de tiempos de trabajo presencial en establecimientos, instalaciones o faenas de la empresa, y de tiempos de trabajo fuera de ellas.
-
-En todo lo demás que sea compatible se aplicarán las normas establecidas en el presente Capítulo.
-
-## Capítulo X
-
-Del trabajo mediante plataformas digitales de servicios
-
-### Párrafo I
-
-Definiciones
-
-#### Artículo 152 quáter
-
-P.- Ámbito de aplicación. El presente Capítulo regula las relaciones entre trabajadores de plataformas digitales, dependientes e independientes, y empresas de plataformas digitales de servicios prestados en el territorio.
-
-#### Artículo 152 quáter
-
-Q.- Definiciones. Para los efectos de este Capítulo, se entenderá por:
-
-a) Empresa de plataforma digital de servicios: Aquella organización que, a título oneroso, administra o gestiona un sistema informático o de tecnología ejecutable en aplicaciones de dispositivos móviles o fijos que permite que un trabajador de plataformas digitales ejecute servicios, para los usuarios de dicho sistema informático o tecnológico, en un territorio geográfico específico, tales como el retiro, distribución y/o reparto de bienes o mercaderías, el transporte menor de pasajeros, u otros.
-
-No se considerarán como empresas de plataformas digitales de servicios para los efectos de este Capítulo, aquellas plataformas que se limiten a publicar anuncios de prestación de servicios de personas naturales o jurídicas, o bien anuncios de venta o arriendo de bienes muebles o inmuebles, aun cuando la contratación de dichos servicios pueda hacerse a través de la plataforma.
-
-b) Trabajador de plataformas digitales: Aquel que ejecuta servicios personales, sea a cuenta propia o ajena, solicitados por usuarios de una aplicación administrada o gestionada por una empresa de plataforma digital de servicios.
-
-El trabajador de plataformas digitales será considerado como trabajador dependiente o trabajador independiente, según concurran o no los requisitos establecidos en el artículo 7º del presente Código.
-
-### Párrafo II
-
-Del Contrato de Trabajo de los trabajadores de plataformas digitales dependientes
-
-#### Artículo 152 quáter
-
-R.- De los servicios prestados por trabajadores de plataformas digitales dependientes. Los trabajadores de plataformas digitales que, en conformidad al artículo 7º, presten servicios personales para una empresa de plataforma digital de servicios bajo vínculo de subordinación y dependencia, se regirán por las normas de los Párrafos I, II y IV de este Capítulo y también les serán aplicables las normas generales del presente Código, en tanto no sean incompatibles o contradictorias con las normas de los mencionados Párrafos.
-
-#### Artículo 152 quáter
-
-S.- Estipulaciones del contrato de trabajo. Sin perjuicio de lo dispuesto en el artículo 10 del presente Código, el contrato de trabajo de los trabajadores de plataformas digitales dependientes deberá indicar:
-
-a) La determinación de la naturaleza de los servicios y los términos y condiciones bajo los cuales deben prestarse, lo que deberá incluir, entre otros, el tratamiento de los datos personales del trabajador y el impacto que tienen las calificaciones que le asignen los usuarios.
-
-b) El método de cálculo para la determinación de la remuneración, forma y período de pago.
-
-c) La designación de un canal oficial donde el trabajador pueda presentar sus objeciones, reclamos o requerimientos respecto de los pagos recibidos, el registro de sus labores, la asignación de las mismas y la evaluación que los clientes realizan acerca de su labor, el que siempre deberá ser atendido por una persona si el trabajador lo requiere. El canal indicado deberá contar con un lugar físico de atención, un teléfono local y un representante de la empresa asignado como responsable de atender los fines descritos.
-
-d) La determinación de la zona geográfica en que debe prestar servicios el trabajador, o bien la forma en que dicha zona se determinará. En caso de que dicha determinación quede a libre voluntad del trabajador, deberá consignarse en el contrato la forma y momento en que se deba notificar el territorio en donde se prestarán los servicios.
-
-e) Los criterios utilizados para establecer el contacto y coordinación entre el trabajador y los usuarios de la plataforma, los que deberán ser transparentes y objetivos.
-
-Para los efectos de lo dispuesto en el número 3 del artículo 10 del presente Código, se entenderá por lugar de trabajo la zona determinada en el contrato individual, conforme a la letra d) precedente.
-
-Por su parte, para los efectos de lo dispuesto en el número 5 del artículo 10 del presente Código, el contrato deberá señalar si el trabajador de plataformas digitales dependiente podrá distribuir su jornada en el horario que mejor se adapte a sus necesidades o quedará sujeto a las reglas generales de jornada. En el primer caso, el contrato deberá indicar, además, las obligaciones que deberá cumplir el trabajador una vez conectado a la plataforma, así como también la antelación con que éste deberá informar a la empresa de plataforma digital de servicios el momento en que se desconectará de la misma, a efectos de permitir la adecuada organización de los servicios prestados a los usuarios.
-
-#### Artículo 152 quáter
-
-T.- Deber de protección. Conforme al deber de protección que tiene el empleador, la empresa de plataforma digital de servicios deberá informar por escrito al trabajador de plataformas digitales dependiente acerca de los riesgos que entrañan sus labores, de las medidas preventivas y de los medios de trabajo correctos según cada caso en particular de conformidad a la normativa vigente.
-
-#### Artículo 152 quáter
-
-U.- Jornada de trabajo. Para los fines de este Capítulo, se considera jornada de trabajo todo el tiempo durante el cual el trabajador se encuentre a disposición de la empresa de plataforma digital de servicios, a partir del acceso a la infraestructura digital y hasta que se desconecte voluntariamente.
-
-Los y las trabajadoras podrán distribuir libremente su jornada en los horarios que mejor se adapten a sus necesidades. Se deberá respetar siempre el límite máximo de la jornada ordinaria semanal y diaria, y las normas relativas al descanso semanal establecidas en este Código.
-
-Las plataformas digitales deberán implementar a su costo un mecanismo fidedigno de registro de la jornada de los trabajadores de plataformas digitales de servicios prestados en el territorio, que cumpla con lo dispuesto en el artículo 33.
-
-El registro a que se refiere el inciso anterior deberá, asimismo, identificar claramente entre las horas de jornada pasiva, esto es, el tiempo en que el trabajador o la trabajadora se encuentra a disposición de la empresa de plataforma digital de servicios sin realizar labores por causas que no le son imputables, de las horas de trabajo efectivamente realizado, es decir, aquellas que median entre el inicio del servicio asignado y su conclusión en los términos pactados.
-
-#### Artículo 152 quáter
-
-V.- De la remuneración. Tratándose de trabajadores de plataformas digitales dependientes que distribuyan libremente su jornada en los horarios que mejor se adapten a sus necesidades, las partes podrán pactar remuneraciones conforme a lo dispuesto en el artículo 44 de este Código o bien por los servicios efectivamente prestados, tales como un porcentaje de la tarifa que cobra la empresa de plataforma digital de servicios a sus usuarios u otro parámetro objetivo asimilable.
-
-En cualquier caso, la remuneración por hora efectivamente trabajada no podrá ser inferior a la proporción del ingreso mínimo mensual determinado por ley, incrementado en un veinte por ciento, el que tendrá por objeto remunerar los tiempos de espera, así como cualquier otro tiempo de trabajo no efectivo a los que pueda estar sujeto el trabajador de plataformas digitales dependiente. Para estos efectos, se dividirá el valor del ingreso mínimo mensual por el número resultante de la multiplicación por cuatro del máximo de jornada semanal ordinaria establecido en el artículo 22 del presente Código. La empresa, en el respectivo período de pago, deberá verificar que las remuneraciones devengadas por los servicios efectivamente prestados cumplan con estos valores mínimos y, en caso de no alcanzarlos, deberá pagar al trabajador la diferencia.
-
-Si se remunera en razón de los servicios efectivamente prestados a los usuarios de la plataforma, la liquidación de remuneraciones se deberá contener en un anexo, que constituye parte integrante de la misma, el detalle de cada operación que le dio origen y la forma empleada para su cálculo.
-
-Las remuneraciones se pagarán con la periodicidad estipulada en el contrato. A falta de estipulación, la remuneración se pagará semanalmente.
-
-### Párrafo III
-
-Del Contrato de los trabajadores de plataformas digitales independientes
-
-#### Artículo 152 quáter
-
-W.- De los servicios prestados por trabajadores de plataformas digitales independientes. Se regirán por las disposiciones del presente Párrafo y de los Párrafos I y IV de este Capítulo, los servicios que se presten a través de una empresa de plataforma digital por trabajadores de plataformas digitales independientes, es decir, aquellos que no se realicen en los términos señalados en el artículo 7º del presente Código.
-
-Para estos efectos, la empresa de plataforma digital de servicios deberá limitarse a coordinar el contacto entre el trabajador de plataformas digitales independiente y los usuarios de ésta, sin perjuicio de establecer los términos y condiciones generales que permitan operar a través de sus sistemas informáticos o tecnológicos.
-
-#### Artículo 152 quáter
-
-X.- Del contrato de prestación de servicios de trabajadores de plataformas digitales independientes. El contrato de prestación de servicios que une al trabajador de plataformas digitales independiente con la empresa de plataforma digital de servicios deberá constar por escrito e indicar, en un lenguaje claro, sencillo y en idioma castellano, a lo menos, lo siguiente:
-
-a) La individualización de las partes.
-
-b) Los términos y condiciones para determinar el precio o tarifa de los servicios del trabajador de plataformas digitales independiente y de los demás incentivos pecuniarios que se apliquen, expresando su valor en pesos chilenos y detallando todas las variables que se considerarán para su determinación.
-
-c) Los criterios utilizados para establecer el contacto y coordinación entre el trabajador independiente y los usuarios, los que deberán ser transparentes y objetivos.
-
-d) La determinación de la zona geográfica en que debe prestar servicios el trabajador independiente, o bien la forma en que dicha zona se determinará. A falta de estipulación, se entiende que queda a libre voluntad del trabajador independiente.
-
-e) Las reglas de protección de datos personales del trabajador de plataformas digitales independiente a que tiene acceso la empresa de plataforma digital de servicios de conformidad con la legislación vigente.
-
-f) Los tiempos máximos de conexión continua y la obligación de desconexión por parte de la empresa de plataforma digital de servicios.
-
-g) La designación de un domicilio en el país solo para efectos de comunicaciones y notificaciones judiciales, administrativas o de naturaleza análoga.
-
-h) La designación de un canal oficial donde el trabajador independiente pueda presentar sus objeciones, reclamos o requerimientos respecto de los pagos recibidos, el registro de sus labores, la oferta de las mismas y la evaluación que los clientes realizan acerca de su labor. El mencionado canal deberá contar con un lugar físico de atención, un teléfono local y un representante de la empresa asignado como responsable de atender los fines descritos.
-
-i) Las causales de terminación del contrato, la forma de comunicación, los plazos y mecanismos dispuestos en la plataforma digital para reclamar este término.
-
-j) Las condiciones generales de prestación de los servicios a través de la plataforma digital de servicios y demás pactos que acuerden las partes.
-
-La empresa de plataforma digital de servicios solo podrá habilitar al trabajador de plataformas digitales independiente en sus sistemas, una vez que éste haya declarado expresamente su conformidad con los términos y condiciones del contrato. Cualquier modificación del contrato deberá ser informada y aceptada por el trabajador de plataformas digitales independiente, para ser aplicable.
-
-Una copia del contrato deberá ser entregada, física o electrónicamente, al trabajador de plataformas digitales independiente y otra deberá mantenerse a disposición de las partes en el sistema informático de la empresa de plataforma digital de servicios para que el trabajador independiente pueda leerla mediante la aplicación o descargarla para su archivo y uso personal en el dispositivo que estime conveniente en cualquier momento.
-
-#### Artículo 152 quáter
-
-Y.- De los honorarios de los trabajadores de plataformas digitales independientes y el acceso al sistema de seguridad social. Dentro del respectivo período de pago, el que no podrá exceder de un mes, la empresa de plataforma digital de servicios deberá pagar al trabajador de plataformas digitales independiente los honorarios que correspondan por los servicios efectivamente prestados a sus usuarios. Para estos efectos, la empresa de plataforma digital de servicios deberá otorgar todas las facilidades de registro de información, sistemas de transferencias de pago y otros aspectos operativos necesarios.
-
-Para efectos de determinar el tratamiento tributario que corresponda al trabajador independiente, se estará a lo dispuesto en el artículo 42, número 2, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974 y, según corresponda, a las restantes disposiciones aplicables de dicha ley. Por su parte, respecto de la obligación de retención aplicable a la empresa de plataforma digital de servicios constituida, domiciliada o residente en Chile, se estará a lo que establece el artículo 74, número 2, de la Ley sobre Impuesto a la Renta, o si corresponde, a las otras disposiciones de dicha ley.
-
-Las empresas de plataforma digital de servicios deberán exigir que el trabajador de plataformas digitales independiente extienda la documentación tributaria que corresponde, tal como la respectiva boleta de honorarios por los servicios prestados a los usuarios, salvo que el Servicio de Impuestos Internos establezca, mediante resolución, otra forma de documentar la operación.
-
-Los honorarios por cada hora de servicios efectivamente realizados no podrán ser inferiores a la proporción del ingreso mínimo mensual determinado por ley, aumentado en un veinte por ciento. Para su cálculo se dividirá el valor del ingreso mínimo mensual en ciento setenta y dos horas. La empresa, en el respectivo período de pago, deberá verificar que los honorarios devengados por los servicios efectivamente prestados cumplan con estos valores mínimos y, en caso de no alcanzarlos, deberá pagar al trabajador la diferencia.
-
-El trabajador de plataformas digitales independiente tendrá derecho a acceder a cobertura de seguridad social, cotizando según resulte aplicable. Para tal efecto, se estará a lo señalado en el artículo 92 del decreto ley Nº 3.500, de 1980, sin perjuicio del derecho a cotizar mensualmente de conformidad al inciso tercero de la citada norma, u otras normas que resulten aplicables de dicho decreto ley. Por consiguiente, tendrá derecho a cobertura de salud, de pensiones de vejez, de reconocimiento de cargas familiares, para el seguro de accidentes del trabajo y enfermedades profesionales, seguro de invalidez y sobrevivencia, y para el seguro de acompañamiento de niños y niñas afectados por una condición grave de salud, y las demás aplicables conforme a la normativa vigente.
-
-> **Nota.** NOTA 9 La modificación introducida por la ley 21561, publicada el 26.04.2023, a la jornada de trabajo referida en el inciso cuarto del presente artículo, se implementará de forma gradual, reduciéndose de 180 horas a 176 horas al primer año; 174 horas al tercer año y 172 al quinto año, contados desde la publicación de la ley en el Diario Oficial.
-
-#### Artículo 152 quáter
-
-Z.- De la obligación de desconectar al trabajador de plataformas digitales independiente. La empresa de plataforma digital de servicios deberá resguardar el cumplimiento de un tiempo de desconexión mínimo del trabajador de plataformas digitales independiente de doce horas continuas dentro de un período de veinticuatro horas.
-
-La empresa de plataforma digital de servicios sólo podrá desconectar temporalmente al trabajador de plataforma digital independiente para hacer efectivo este derecho y no podrá efectuar desconexiones temporales u otras medidas de sanción basadas en hechos como el rechazo del trabajador independiente del servicio ofrecido o la no conexión a la plataforma digital de servicios en un determinado período de tiempo.
-
-#### Artículo 152
-
-quinquies A.- Del aviso previo por terminación del contrato del trabajador de plataformas digitales independiente. La empresa de plataforma digital de servicios deberá comunicar por escrito el término del contrato al trabajador de plataformas digitales independiente que ha prestado servicios continuos por seis meses o más a través de su plataforma, con al menos treinta días de anticipación. No será exigible tal anticipación cuando el término del contrato se deba a conductas descritas en el mismo que constituyan un incumplimiento grave por parte del trabajador independiente.
-
-En cualquier caso, el trabajador de plataformas digitales independiente podrá reclamar de dicha terminación de acuerdo con el procedimiento establecido en el contrato, en conformidad a la letra i) del artículo 152 quáter X, sin perjuicio de las demás acciones que sean procedentes.
-
-#### Artículo 152
-
-quinquies B.- De los derechos fundamentales de los trabajadores de plataformas digitales independientes. La empresa de plataforma digital deberá respetar las garantías constitucionales del trabajador de plataformas digitales independiente.
-
-Sin perjuicio de las reglas generales en la materia, en el caso de trabajadores de plataformas digitales independientes que, durante los últimos tres meses hayan prestado servicios a través de una determinada plataforma por, a lo menos, 30 horas promedio cada semana, será aplicable el procedimiento contenido en el Párrafo 6º del Capítulo II del Título I del Libro V del presente Código respecto de las cuestiones que afecten los derechos fundamentales a los que se refiere el artículo 485 de dicho cuerpo legal, cuando aquellos resulten lesionados por la empresa de plataforma digital de servicios, o en caso de terminación del contrato del trabajador en represalia por afiliarse a un sindicato, participar de actividades sindicales o de negociación colectiva.
-
-Para efectos de determinar la cantidad de horas por semana en que el trabajador de plataformas digitales independiente ha prestado servicios, se considerará el tiempo por los servicios efectivamente realizados, en los términos del inciso cuarto del artículo 152 quáter Y.
-
-### Párrafo IV
-
-De las normas comunes aplicables a los trabajadores de plataformas digitales dependientes e independientes
-
-#### Artículo 152
-
-quinquies C.- De la obligación de informar sobre el servicio ofrecido. La empresa de plataforma digital de servicios deberá informar al trabajador de plataforma digital, al momento de ofrecer un servicio y previo a su aceptación, del lugar de realización, la identidad del usuario del servicio y el medio de pago que se utilizará. Tratándose de entregas, deberá indicar el domicilio donde se realizará y, en el caso de los servicios de transporte, los domicilios de origen y destino.
-
-#### Artículo 152
-
-quinquies D.- Transparencia y derecho a la información. Los datos del trabajador o la trabajadora son de carácter estrictamente reservado y sólo podrán ser utilizados por la empresa de plataforma digital de servicios en el contexto de los servicios que la misma empresa presta. Podrán ser liberados, en todo caso y exclusivamente para los fines solicitados, por medio de una resolución judicial.
-
-No obstante lo anterior, el trabajador o la trabajadora tendrá derecho a solicitar a la empresa de plataforma digital de servicios, en cualquier momento, el acceso a sus datos personales, en particular a aquellos relacionados con su calificación e impacten en el desempeño de su trabajo. Los datos deberán ser entregados por la plataforma en el plazo de quince días hábiles contado desde la fecha de la solicitud.
-
-El trabajador o trabajadora tendrán derecho a solicitar la portabilidad de sus datos en un formato estructurado, genérico y de uso común, que permita ser operado por distintos sistemas informáticos.
-
-Para efectos de una correcta fiscalización de las autoridades competentes, las empresas de plataformas digitales de servicios si fuere requerido, deberán permitir el acceso a la programación del algoritmo, a explicaciones completas y suficientes sobre la forma en que toma sus decisiones, los datos con los que fue entrenado y todo otro factor relevante para el cumplimiento íntegro de la ley.
-
-#### Artículo 152
-
-quinquies E.- Prohibición de discriminación por mecanismos automatizados de toma de decisiones. En la implementación de los algoritmos, la empresa de plataforma digital de servicios deberá respetar el principio de igualdad y el de no discriminación. Para ello, tomará todas las medidas y resguardos que sean necesarios con el fin de evitar cualquier tipo de discriminación entre los trabajadores, particularmente en la asignación de trabajo, oferta de bonos e incentivos, cálculo de remuneraciones, entre otros.
-
-También será considerada discriminación la conducta del empleador aparentemente neutra, y cuyo resultado afecte desproporcionadamente a uno o más trabajadores.
-
-La empresa de plataforma digital de servicios deberá informar a sus trabajadores sobre los mecanismos y procedimientos que adopte con el fin de dar cumplimiento a esta norma.
-
-#### Artículo 152
-
-quinquies F.- De la capacitación y los elementos de protección a los trabajadores de plataformas digitales. La empresa de plataforma digital de servicios deberá proporcionar al trabajador:
-
-a) Una capacitación adecuada y oportuna que considere los criterios de seguridad y salud definidos por la autoridad competente para la actividad que se realiza.
-
-b) Un casco de protección, rodilleras y coderas para el trabajador de plataformas digitales que utilice una bicicleta o motocicleta para prestar sus servicios, los que deberán cumplir con las certificaciones y normativa vigente, conforme a la Ley de Tránsito. Al término de los servicios, el trabajador deberá devolver a la empresa de plataforma digital de servicios los elementos proporcionados conforme sea acordado.
-
-c) Un seguro de daños que asegure los bienes personales que utiliza el trabajador de plataformas digitales en la prestación del servicio, con una cobertura mínima anual de 50 unidades de fomento.
-
-El cumplimiento de estas obligaciones no constituirá un indicio de subordinación y dependencia respecto de los trabajadores de plataformas digitales independientes.
-
-#### Artículo 152
-
-quinquies G.- Base de cálculo de indemnizaciones legales. Para la determinación de las indemnizaciones legales que correspondan con ocasión del término del contrato de trabajo, se considerará como base de cálculo la remuneración promedio del último año trabajado, se excluirán aquellos meses no trabajados y se tendrán en consideración los años de servicio. Con todo, si la indemnización que correspondiere por aplicación del artículo 163 fuere superior, se aplicará ésta.
-
-#### Artículo 152
-
-quinquies H.- Derechos colectivos de los trabajadores de plataformas digitales. Los trabajadores de plataformas digitales de servicios, en conformidad a lo preceptuado en el artículo 216, tendrán el derecho de constituir, sin autorización previa, las organizaciones sindicales que estimen convenientes, con la sola condición de sujetarse a la ley y a los estatutos de las mismas y gozarán de todos los derechos y deberes consagrados para ellas en este Código.
-
-Sin perjuicio de las demás normas establecidas en el Libro IV del presente Código, las organizaciones sindicales que afilien a trabajadores dependientes e independientes de plataformas digitales o únicamente a estos últimos, podrán negociar conforme a lo dispuesto en el artículo 314 con las empresas de plataformas digitales. En el caso de que el proyecto de convenio colectivo se presente a dos o más empresas y cada una de éstas acceda a negociar, cada empresa deberá decidir si negocia en forma conjunta o separada, y comunicará su decisión a la comisión negociadora sindical en su respuesta al proyecto de convenio colectivo.
-
-#### Artículo 152
-
-quinquies I.- La Dirección del Trabajo fiscalizará, dentro del ámbito de su competencia, el cumplimiento de las normas de este Capítulo, especialmente, las obligaciones establecidas en los artículos 152 quáter Z y 152 quinquies E. Las infracciones a este respecto se sancionarán con las multas a que se refiere el artículo 506, las que se duplicarán en caso de reincidencia.
-
-## Capítulo XI
-
-Del contrato del trabajador adulto mayor
-
-#### Artículo 152
-
-quinquies J.- Ámbito de aplicación. Se podrá regir por las normas de este Capítulo el contrato individual que el trabajador adulto mayor celebre con el empleador. Para estos efectos, se considerará trabajador adulto mayor a toda persona que cumpla el requisito de edad establecido en el inciso segundo del artículo 1° de la ley N° 19.828, que crea el Servicio Nacional del Adulto Mayor.
-
-#### Artículo 152
-
-quinquies K.- Compatibilidad de las funciones con la salud del trabajador adulto mayor. Las funciones del trabajador adulto mayor pactadas en el contrato de trabajo deberán ser compatibles con su condición física y sus capacidades, considerando los requerimientos de dichas funciones, de conformidad a lo dispuesto en el artículo 184.
-
-#### Artículo 152
-
-quinquies L.- Duración y distribución de la jornada de trabajo. Bajo esta modalidad de contratación, la jornada de trabajo estará sujeta al límite semanal establecido en el inciso primero del artículo 22 y al límite diario establecido en el inciso segundo del artículo 28, ambos de este Código.
-
-Las partes podrán distribuir la jornada ordinaria señalada en el inciso anterior, de acuerdo a una de las siguientes alternativas:
-
-a) Jornada con bandas horarias. El contrato podrá contener una o más bandas horarias, con horarios diferidos de entrada y de salida.
-
-Si las partes acordaren diferentes bandas horarias, el trabajador adulto mayor tendrá la facultad de optar, unilateralmente, por cualquiera de aquéllas, indicándose en el contrato la anticipación del aviso del cambio de banda y la cantidad de veces en el mes que el trabajador adulto mayor podrá hacer uso de esta facultad. En caso que nada se señale en el contrato, se entenderá que el trabajador adulto mayor no requerirá de anticipación del aviso, ni tendrá limitación en la cantidad de veces al mes que podrá hacer uso de esta facultad.
-
-b) Jornada de libre elección horaria. La jornada convenida por las partes se podrá distribuir como libremente escoja el trabajador adulto mayor, pero considerando que el cumplimiento de sus obligaciones deberá realizarse dentro del horario de funcionamiento de la empresa o establecimiento, o dentro del rango horario que libremente elijan las partes, y conforme a la naturaleza de sus funciones.
-
-La elección de la alternativa de distribución de jornada, ya sea con bandas horarias o de libre elección, deberá constar por escrito y estará vigente mientras no se pacte una nueva opción. Esta elección podrá fundarse, entre otras, en la naturaleza de las funciones, la condición física o de salud del trabajador adulto mayor, su situación familiar, la distancia de su domicilio, o bien, diferentes jornadas en invierno o verano.
-
-Por su parte, cuando la naturaleza de las funciones a desarrollar o la condición física del trabajador adulto mayor lo aconsejen, éste podrá regirse por lo dispuesto en el inciso segundo del artículo 22, lo que deberá consignarse en el contrato de trabajo.
-
-En cualquier caso, la prestación de servicios deberá considerar las reglas generales de descansos diario y semanal establecidas en este Código.
-
-#### Artículo 152
-
-quinquies M.- Suspensión de los efectos del contrato. Se entiende por suspensión de los efectos del contrato de trabajo, el cese temporal de la obligación de prestar servicios por parte del trabajador adulto mayor y de la obligación de pagar la remuneración y demás asignaciones que no constituyan remuneración, señaladas en el inciso segundo del artículo 41 de este Código, por parte del empleador.
-
-Las partes podrán pactar la suspensión de los efectos del contrato de trabajo en cualquier momento de la relación laboral, debiendo constar dicho acuerdo por escrito, en el que establezcan las condiciones en las que se producirá tal suspensión, la que no afectará la antigüedad del trabajador adulto mayor ni los derechos que emanen de la relación laboral.
-
-Durante el período de suspensión, el trabajador adulto mayor tendrá derecho a prestar servicios a otros empleadores. Con todo, transcurrido el plazo de suspensión acordado, el trabajador adulto mayor deberá reintegrarse a sus funciones en condiciones laborales no inferiores a las vigentes con anterioridad a la misma.
-
-#### Artículo 152
-
-quinquies N.- Feriado anual. El trabajador adulto mayor podrá hacer uso anticipado de su feriado anual y de forma proporcional a los días devengados, a partir del séptimo mes contado desde el inicio de la prestación de servicios. En estos casos, no se aplicará la regla del fraccionamiento establecida en el inciso primero del artículo 70 de este Código.
-
-#### Artículo 152
-
-quinquies Ñ.- Contratación previa a tener la calidad de trabajador adulto mayor. Los trabajadores que adquieran la calidad de trabajador adulto mayor durante la vigencia del contrato de trabajo continuarán rigiéndose por los términos y condiciones del contrato de trabajo que se encontrare vigente con anterioridad a adquirir la mencionada calidad, salvo que las partes acuerden acogerse a las normas de este Capítulo.
-
 ## Título III
 
-Del Reglamento Interno y la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
-
-## Capítulo I
-
-Del Reglamento Interno
+DEL REGLAMENTO INTERNO
 
 #### Artículo 153
 
@@ -2722,7 +1530,7 @@ Especialmente, se deberán estipular las normas que se deben observar para garan
 
 Una copia del reglamento deberá remitirse al Ministerio de Salud y a la Dirección del Trabajo dentro de los cinco días siguientes a la vigencia del mismo.
 
-Cualquier trabajador o las organizaciones sindicales de la empresa respectiva podrán impugnar las disposiciones del reglamento interno que estimaren ilegales, mediante presentación efectuada ante la autoridad de salud o ante la Dirección del Trabajo, según corresponda. De igual modo, esa autoridad o esa Dirección podrán, de oficio, exigir modificaciones al referido reglamento en razón de ilegalidad. Asimismo, podrán exigir que se incorporen las disposiciones que le son obligatorias de conformidad al artículo siguiente.
+El delegado del personal, cualquier trabajador o las organizaciones sindicales de la empresa respectiva podrán impugnar las disposiciones del reglamento interno que estimaren ilegales, mediante presentación efectuada ante la autoridad de salud o ante la Dirección del Trabajo, según corresponda. De igual modo, esa autoridad o esa Dirección podrán, de oficio, exigir modificaciones al referido reglamento en razón de ilegalidad. Asimismo, podrán exigir que se incorporen las disposiciones que le son obligatorias de conformidad al artículo siguiente.
 
 #### Artículo 154
 
@@ -2738,9 +1546,9 @@ El reglamento interno deberá contener, a lo menos, las siguientes disposiciones
 
 5.- las obligaciones y prohibiciones a que estén sujetos los trabajadores;
 
-6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
+6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias;
 
-7.- las normas especiales que correspondan a las diversas clases de faenas o actividades, de acuerdo con la edad, sexo, género o ubicación geográfica de los trabajadores y trabajadoras; y las medidas de accesibilidad, realización de ajustes necesarios y prevención de conductas de acoso hacia los trabajadores o trabajadoras con discapacidad y/o asignatarios de una pensión de invalidez;
+7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores;
 
 8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
 
@@ -2748,21 +1556,15 @@ El reglamento interno deberá contener, a lo menos, las siguientes disposiciones
 
 10.- las sanciones que podrán aplicarse por infracción a las obligaciones que señale este reglamento, las que sólo podrán consistir en amonestación verbal o escrita y multa de hasta el veinticinco por ciento de la remuneración diaria;
 
-11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior;
+11.- el procedimiento a que se someterá la aplicación de las sanciones referidas en el número anterior, y
 
-12.- El protocolo de prevención respecto del acoso sexual, laboral y la violencia en el trabajo, y el procedimiento al que se someterán las trabajadoras y los trabajadores, en conformidad a lo dispuesto en el Título IV del Libro II, el que considerará las medidas de resguardo que se adopten respecto de los involucrados y las sanciones que se aplicarán.
+12.- El procedimiento al que se someterán y las medidas de resguardo y sanciones que se aplicarán en caso de denuncias por acoso sexual.
 
-En el caso de las denuncias sobre acoso sexual, laboral o violencia en el trabajo, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168, y
-
-13.- El procedimiento a que se someterán los reclamos que se deduzcan por infracción al artículo 62 bis. En todo caso, el reclamo y la respuesta del empleador deberán constar por escrito y estar debidamente fundados. La respuesta del empleador deberá ser entregada dentro de un plazo no mayor a treinta días de efectuado el reclamo por parte del trabajador.
+En el caso de las denuncias sobre acoso sexual, el empleador que, ante una denuncia del trabajador afectado, cumpla íntegramente con el procedimiento establecido en el Título IV del Libro II, no estará afecto al aumento señalado en la letra c) del inciso primero del artículo 168.
 
 Las obligaciones y prohibiciones a que hace referencia el número 5 de este artículo, y, en general, toda medida de control, sólo podrán efectuarse por medios idóneos y concordantes con la naturaleza de la relación laboral y, en todo caso, su aplicación deberá ser general, garantizándose la impersonalidad de la medida, para respetar la dignidad del trabajador.
 
 #### Artículo 154 bis
-
-El empleador que no se encuentre obligado a confeccionar el Reglamento Interno al que se refiere el presente Capítulo deberá poner en conocimiento de las trabajadoras y de los trabajadores el protocolo de prevención respecto del acoso sexual, laboral y la violencia en el trabajo y el procedimiento de investigación y sanción al que se someterán dichas conductas, al momento de la suscripción del contrato de trabajo, en conformidad a lo dispuesto en el Título IV del Libro II, el que considerará las medidas de resguardo que se adopten respecto de los involucrados y las sanciones que se aplicarán. Lo anterior deberá constar por escrito y se incorporará en el Reglamento a que se refiere el artículo 67 de la ley N° 16.744. Para efectos de la elaboración del procedimiento de investigación y sanción, el empleador podrá contar con la asistencia técnica del organismo administrador de la ley referida al que se encuentre afiliado.
-
-#### Artículo 154 ter
 
 El empleador deberá mantener reserva de toda la información y datos privados del trabajador a que tenga acceso con ocasión de la relación laboral.
 
@@ -2772,7 +1574,7 @@ Las respuestas que dé el empleador a las cuestiones planteadas en conformidad a
 
 #### Artículo 156
 
-Los reglamentos internos y sus modificaciones deberán ponerse en conocimiento de los trabajadores treinta días antes de la fecha en que comiencen a regir, y fijarse, a lo menos, en dos sitios visibles del lugar de las faenas con la misma anticipación. Deberá también entregarse una copia a los sindicatos y a los Comités Paritarios existentes en la empresa.
+Los reglamentos internos y sus modificaciones deberán ponerse en conocimiento de los trabajadores treinta días antes de la fecha en que comiencen a regir, y fijarse, a lo menos, en dos sitios visibles del lugar de las faenas con la misma anticipación. Deberá también entregarse una copia a los sindicatos, al delegado del personal y a los Comités Paritarios existentes en la empresa.
 
 Además, el empleador deberá entregar gratuitamente a los trabajadores un ejemplar impreso que contenga en un texto el reglamento interno de la empresa y el reglamento a que se refiere la Ley N° 16.744.
 
@@ -2781,86 +1583,6 @@ Además, el empleador deberá entregar gratuitamente a los trabajadores un ejemp
 En los casos en que las infracciones por parte de los trabajadores a las normas de los reglamentos internos se sancionen con multa, ésta no podrá exceder de la cuarta parte de la remuneración diaria del infractor, y de su aplicación podrá reclamarse ante la Inspección del Trabajo que corresponda.
 
 Las multas serán destinadas a incrementar los fondos de bienestar que la empresa respectiva tenga para los trabajadores o de los servicios de bienestar social de las organizaciones sindicales cuyos afiliados laboren en la empresa, a prorrata de la afiliación y en el orden señalado. A falta de esos fondos o entidades, el producto de las multas pasará al Servicio Nacional de Capacitación y Empleo, y se le entregará tan pronto como hayan sido aplicadas.
-
-## Capítulo II
-
-De la Inclusión Laboral de Personas con Discapacidad y/o Asignatarias de una Pensión de Invalidez
-
-#### Artículo 157 bis
-
-Las empresas de 100 o más trabajadores deberán contratar o mantener contratados, según corresponda, al menos el 1% de personas con discapacidad o que sean asignatarias de una pensión de invalidez de cualquier régimen previsional, en relación al total de sus trabajadores.
-
-Las personas con discapacidad deberán contar con la calificación y certificación señaladas en el artículo 13 de la ley N° 20.422.
-
-El empleador deberá registrar los contratos de trabajo celebrados con personas con discapacidad o asignatarios de una pensión de invalidez de cualquier régimen previsional, así como sus modificaciones o términos, dentro de los quince días siguientes a su celebración a través del sitio electrónico de la Dirección del Trabajo, la que llevará un registro actualizado de lo anterior, debiendo mantener reserva de dicha información.
-
-La fiscalización de lo dispuesto en este capítulo corresponderá a la Dirección del Trabajo, salvo lo dispuesto en el inciso cuarto del artículo siguiente, en lo relativo a la reglamentación de la letra b) de ese mismo artículo.
-
-Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por los ministros de Hacienda y de Desarrollo Social, establecerá los parámetros, procedimientos y demás elementos necesarios para dar cumplimiento a lo establecido en este capítulo.
-
-#### Artículo 157 ter
-
-Las empresas que, por razones fundadas, no puedan cumplir total o parcialmente la obligación establecida en el inciso primero del artículo anterior, deberán darle cumplimiento en forma subsidiaria, ejecutando alguna de las siguientes medidas:
-
-a) Celebrar contratos de prestación de servicios con empresas que tengan contratadas personas con discapacidad y/o asignatarios de una pensión de invalidez.
-
-Para cumplir la obligación legal de contratación se requiere que las personas con discapacidad y/o asignatarios de una pensión de invalidez contratadas, de cualquier régimen previsional, presten servicios de manera efectiva para la empresa principal. De esta forma, para determinar el cumplimiento de la obligación de contratación que tiene la empresa principal se deberá sumar el número de personas con discapacidad y/o asignatarios de una pensión de invalidez, que presten servicios de forma efectiva, a través de esta alternativa, y las contratadas de forma directa.
-
-Las empresas que presten servicios a las empresas obligadas deberán registrar los contratos de las personas con discapacidad y/o asignatarias de una pensión de invalidez, en el registro establecido en el artículo 157 bis.
-
-Las personas con discapacidad y/o asignatarias de una pensión de invalidez, de cualquier régimen previsional, contratadas por empresas que presten servicios y que sean, a su vez, empresas obligadas al cumplimiento de la reserva establecida en el artículo 157 bis, sólo podrán ser consideradas para el cumplimiento subsidiario de otras empresas obligadas por los contratos que excedan del número de trabajadores exigido para su propio cumplimiento.
-
-b) Efectuar donaciones en dinero a proyectos o programas de asociaciones, corporaciones o fundaciones a las que se refiere el artículo 2 de la ley N° 19.885.
-
-Sólo se considerarán razones fundadas aquellas derivadas de la naturaleza de las funciones que desarrolla la empresa o la falta de personas interesadas en las ofertas de trabajo que se hayan formulado. No se considerará que existe razón fundada derivada de la naturaleza de las funciones que desarrolla la empresa, la sola invocación de su giro.
-
-El monto anual de los contratos celebrados de conformidad a la letra a) de este artículo no podrá ser inferior al equivalente a veinticuatro ingresos mínimos mensuales respecto de cada trabajador que debía ser contratado por la empresa.
-
-Las donaciones establecidas en la letra b) de este artículo deberán sujetarse a lo dispuesto en la ley N° 19.885, en lo que resulte aplicable, y con las excepciones que se señalan a continuación:
-
-1.- Estas donaciones no darán derecho a los créditos y beneficios tributarios establecidos en los artículos 1 y 1 bis. Sin embargo, para efectos de lo establecido en la Ley sobre Impuesto a la Renta, contenida en el artículo 1 del decreto ley N° 824, de 1974, tendrán la calidad de gasto necesario para producir la renta de acuerdo a lo establecido en el artículo 31 del referido cuerpo legal.
-
-2.- Las donaciones deberán dirigirse a proyectos o programas que tengan por objeto la inclusión laboral, la intermediación laboral, la capacitación, rehabilitación, promoción y fomento para la creación de empleos, la contratación o inserción laboral de las personas con discapacidad, presentados por asociaciones, corporaciones o fundaciones que establezcan uno o más de dichos fines en su objeto social. Asimismo, las donaciones podrán dirigirse a proyectos o programas presentados por iguales organizaciones, que tengan por objeto alguno de los señalados anteriormente y busquen mejorar la calidad u oportunidades de vida de personas con discapacidad, con inclusión de aquellas con discapacidad severa o profunda, así como el apoyo para mejorar las condiciones de empleabilidad, el desarrollo de ocupaciones u oficios o el ejercicio de actividades como trabajadores independientes.
-
-3.- Las donaciones no podrán efectuarse a instituciones en cuyo directorio participe el donante, su cónyuge, su conviviente civil o sus parientes ascendientes o descendientes hasta el tercer grado de consanguinidad o afinidad. En caso de que el donante sea una persona jurídica, no podrá efectuar donaciones a instituciones en cuyo directorio participen sus socios, directores, administradores, gerentes, ejecutivos principales o los accionistas que posean el 10% o más del capital social, o los cónyuges, convivientes civiles o parientes ascendientes o descendientes hasta el tercer grado de consanguinidad o afinidad de dichos socios, directores administradores, gerentes, ejecutivos principales o accionistas.
-
-4.- El monto anual de las donaciones efectuadas no podrá ser inferior al equivalente a veinticuatro ingresos mínimos mensuales ni superior a doce veces el límite máximo imponible establecido en el artículo 16 del decreto ley Nº 3.500, de 1980, respecto de cada trabajador que debía ser contratado por la empresa.
-
-5.- No se aplicará a las donaciones a que se refiere esta ley el límite global absoluto establecido en el artículo 10.
-
-6.- Las empresas obligadas no podrán destinar más del 50% de los recursos que deban donar a una única organización de aquellas inscritas en el Registro de Donatarios a las que se refiere el artículo 2° de la ley N° 19.885. Adicionalmente, los recursos que donen deberán destinarse, al menos, a un proyecto o programa a ejecutar en una región distinta de la Región Metropolitana, en la cual, la institución ejecutora deberá tener domicilio acreditable.
-
-A efectos de acreditar el cumplimiento de dicha última obligación, las instituciones donatarias que reciban recursos para ejecutar proyectos o programas fuera de la Región Metropolitana, deberán extender el certificado N° 60 dispuesto por el Servicio de Impuestos Internos o el documento que lo reemplace, y entregarlo al empleador donante, precisando en este documento el nombre del proyecto o programa al que se destinarán los recursos, región y plazo en que se ejecutará y domicilio de la donataria en dicha región. En todo caso, el domicilio consignado por la institución donataria en el certificado N° 60 o el documento que lo reemplace, deberá concordar con el que figura inscrito en el Registro de Donatarios de la ley N° 19.885.
-
-Las empresas obligadas que utilicen esta medida subsidiaria deberán adjuntar el certificado N° 60 o el documento que lo reemplace a la comunicación electrónica referida en el inciso final de este artículo.
-
-Las empresas que ejecuten alguna de las medidas de cumplimiento subsidiario señaladas en las letras a) y b) de este artículo deberán remitir una comunicación electrónica a la Dirección del Trabajo, con copia a la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social, al Servicio Nacional de la Discapacidad y al Servicio de Impuestos Internos. La empresa deberá indicar en esta comunicación la razón invocada y la medida adoptada. Esta comunicación deberá ser efectuada durante el mes de enero de cada año y tendrá una vigencia de doce meses.
-
-El reglamento a que hace referencia el inciso final del artículo 157 bis determinará el contenido de la comunicación electrónica que deberán remitir las empresas de conformidad al inciso anterior. Asimismo, establecerá los objetivos, requisitos y características que deberán cumplir los proyectos y programas de asociaciones, corporaciones o fundaciones para percibir las donaciones conforme a lo establecido en el literal b) del inciso primero.
-
-#### Artículo 157 quáter
-
-Al menos uno de los trabajadores que se desempeñe en funciones relacionadas con recursos humanos dentro de las empresas contempladas en el supuesto del artículo 157 bis deberá contar con conocimientos específicos en materias que fomenten la inclusión laboral de las personas con discapacidad. Se entenderá que tienen estos conocimientos los trabajadores que cuenten con una certificación al respecto, otorgada por el Sistema Nacional de Certificación de Competencias Laborales establecido en la ley N° 20.267.
-
-Las empresas señaladas en el inciso anterior deberán promover en su interior políticas en materias de inclusión, las que serán informadas anualmente a la Dirección del Trabajo, de conformidad al reglamento a que se refiere el inciso final del artículo 157 bis. También deberán elaborar y ejecutar anualmente programas de capacitación de su personal, con el objeto de otorgarles herramientas para una efectiva inclusión laboral dentro de la empresa, y proporcionar un protocolo de ambientes laborales acordes a los parámetros establecidos en la ley N° 20.422, el que deberá ser entregado anualmente a las personas trabajadoras.
-
-Las actividades realizadas durante la jornada de trabajo o fuera de ella deberán considerar las normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad a que se refiere la ley N° 20.422, como también los principios generales contenidos en las demás normas vigentes sobre la materia.
-
-#### Artículo 157
-
-quinquies.- Las empresas sujetas a la obligación establecida en el artículo 157 bis deberán realizar los ajustes necesarios para adecuar sus mecanismos, procedimientos y prácticas de reclutamiento y selección de personal, en todo cuanto se requiera, para resguardar la igualdad de oportunidades de las personas con discapacidad que participen en ellos, de conformidad a lo dispuesto en el artículo 24 de la ley N° 20.422.
-
-#### Artículo 157
-
-sexies.- La infracción a la obligación establecida en el inciso primero del artículo 157 bis se sancionará con multa equivalente a veinte unidades tributarias mensuales en el caso de medianas empresas y a treinta unidades tributarias mensuales en el caso de grandes empresas, de conformidad a la clasificación establecida en el artículo 505 bis. La multa será aplicada por cada mes en el que el empleador incurra en dicha infracción y respecto de cada persona con discapacidad y/o asignataria de una pensión de invalidez que, en virtud del número de trabajadores de la empresa, debió estar contratada.
-
-Si el empleador optó por cumplir mediante alguna de las medidas establecidas en el artículo 157 ter y la Dirección del Trabajo rechaza las razones invocadas como fundamento, de acuerdo con el inciso segundo de dicho artículo, aplicará la misma sanción establecida en el inciso anterior respecto a cada persona con discapacidad y/o asignataria de una pensión de invalidez que, en virtud del número de trabajadores de la empresa, debió estar contratada.
-
-Igual sanción se aplicará en caso de que el empleador, habiendo optado por las medidas establecidas en el artículo 157 ter, no cumple con las condiciones establecidas en dicha disposición. Para efectos de determinar la multa a aplicar, se tendrá por cumplida la obligación del inciso primero del artículo 157 bis en la proporción que representan las donaciones efectuadas o los contratos celebrados, en su caso, en relación con el monto anual exigido.
-
-Para el resto de las infracciones a las obligaciones del presente Capítulo no reguladas en este artículo, se aplicarán las reglas generales establecidas en el Libro V, Título Final, sobre fiscalización, sanciones y prescripción.
-
-> **Nota.** El Dictamen N° 693/26 de fecha 23.10.2024 de la Dirección del Trabajo, que fija el sentido y alcance de la ley N° 21.690, establece en su literal b) del numeral IX, que el presente artículo entrará en vigor el 01.01.2025, de conformidad con el artículo cuarto transitorio de la citada ley. En cuanto a los procedimientos sancionadores iniciados por dicha Dirección con anterioridad al 01.01.2025 continuarán hasta su término conforme a las disposiciones vigentes al momento de su inicio, es decir, se sancionará conforme a las reglas establecidas en el Título final del Libro V del Código del Trabajo.
 
 ## Título IV
 
@@ -2916,11 +1638,9 @@ b) Conductas de acoso sexual;
 
 c) Vías de hecho ejercidas por el trabajador en contra del empleador o de cualquier trabajador que se desempeñe en la misma empresa;
 
-d) Injurias proferidas por el trabajador al empleador;
+d) Injurias proferidas por el trabajador al empleador, y
 
-e) Conducta inmoral del trabajador que afecte a la empresa donde se desempeña, y
-
-f) Conductas de acoso laboral.
+e) Conducta inmoral del trabajador que afecte a la empresa donde se desempeña.
 
 2.- Negociaciones que ejecute el trabajador dentro del giro del negocio y que hubieren sido prohibidas por escrito en el respectivo contrato por el empleador.
 
@@ -2958,7 +1678,7 @@ Esta comunicación se entregará o deberá enviarse, dentro de los tres días h�
 
 Deberá enviarse copia del aviso mencionado en el inciso anterior a la respectiva Inspección del Trabajo, dentro del mismo plazo. Las Inspecciones del Trabajo, tendrán un registro de las comunicaciones de terminación de contrato que se les envíen, el que se mantendrá actualizado con los avisos recibidos en los últimos treinta días hábiles.
 
-Cuando el empleador invoque la causal señalada en el inciso primero del artículo 161, el aviso deberá darse al trabajador, con copia a la Inspección del Trabajo respectiva, a lo menos con treinta días de anticipación. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador una indemnización en dinero efectivo sustitutiva del aviso previo, equivalente a la última remuneración mensual devengada. La comunicación al trabajador deberá, además, indicar, precisamente, el monto total a pagar de conformidad con lo dispuesto en el artículo siguiente. Igual indicación deberá contener la comunicación de la terminación del contrato celebrado para una obra o faena determinada, cuando corresponda el pago de indemnización por el tiempo servido, en conformidad a lo dispuesto en el artículo 163.
+Cuando el empleador invoque la causal señalada en el inciso primero del artículo 161, el aviso deberá darse al trabajador, con copia a la Inspección del Trabajo respectiva, a lo menos con treinta días de anticipación. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador una indemnización en dinero efectivo sustitutiva del aviso previo, equivalente a la última remuneración mensual devengada. La comunicación al trabajador deberá, además, indicar, precisamente, el monto total a pagar de conformidad con lo dispuesto en el artículo siguiente.
 
 Para proceder al despido de un trabajador por alguna de las causales a que se refieren los incisos precedentes o el artículo anterior, el empleador le deberá informar por escrito el estado de pago de las cotizaciones previsionales devengadas hasta el último día del mes anterior al del despido, adjuntando los comprobantes que lo justifiquen. Si el empleador no hubiere efectuado el integro de dichas cotizaciones previsionales al momento del despido, éste no producirá el efecto de poner término al contrato de trabajo.
 
@@ -2966,63 +1686,25 @@ Con todo, el empleador podrá convalidar el despido mediante el pago de las impo
 
 Sin perjuicio de lo anterior, el empleador deberá pagar al trabajador las remuneraciones y demás prestaciones consignadas en el contrato de trabajo durante el período comprendido entre la fecha del despido y la fecha de envío o entrega de la referida comunicación al trabajador. No será exigible esta obligación del empleador cuando el monto adeudado por concepto de imposiciones morosas no exceda de la cantidad menor entre el 10% del total de la deuda previsional o 2 unidades tributarias mensuales, y siempre que dicho monto sea pagado por el empleador dentro del plazo de 15 días hábiles contado desde la notificación de la respectiva demanda.
 
-El empleador deberá informar en el aviso de término del contrato si otorgará y pagará el finiquito laboral en forma presencial o electrónica, indicando expresamente que es voluntario para el trabajador aceptar, firmar y recibir el pago en forma electrónica y que siempre podrá optar por la actuación presencial ante un ministro de fe. En dicho aviso, el empleador deberá informar al trabajador que, al momento de suscribir el finiquito, si lo estima necesario podrá formular reserva de derechos.
-
-Los errores u omisiones en que se incurra con ocasión de estas comunicaciones que no tengan relación con la obligación de pago íntegro de las imposiciones previsionales, no invalidarán la terminación del contrato, sin perjuicio de las sanciones administrativas que establece el artículo 506 de este Código.
+Los errores u omisiones en que se incurra con ocasión de estas comunicaciones que no tengan relación con la obligación de pago íntegro de las imposiciones previsionales, no invalidarán la terminación del contrato, sin perjuicio de las sanciones administrativas que establece el artículo 477 de este Código.
 
 La Inspección del Trabajo, de oficio o a petición de parte, estará especialmente facultada para exigir al empleador la acreditación del pago de cotizaciones previsionales al momento del despido, en los casos a que se refieren los incisos precedentes. Asimismo, estará facultada para exigir el pago de las cotizaciones devengadas durante el lapso a que se refiere el inciso séptimo. Las infracciones a este inciso se sancionarán con multa de 2 a 20 UTM.
 
-> **Nota.** El artículo 1º de la LEY 20194, publicada el 07.07.2007, interpreta el inciso séptimo de la presente norma, en el sentido que debe interpretarse y aplicarse de forma tal que el pago al cual está obligado el empleador moroso en el pago de las cotizaciones previsionales comprende la totalidad del período de tiempo que media entre la fecha del despido y la fecha de envío o entrega de la comunicación mediante la cual el empleador le comunica al trabajador que ha pagado las cotizaciones morosas, con las formalidades indicadas en el inciso sexto de dicha disposición legal, sin perjuicio del plazo de prescripción señalado en el inciso tercero del artículo 510, del mismo Código, el que sólo se considerará para los efectos de la interposición de la respectiva demanda.
+> **Nota.** El artículo 1º de la LEY 20194, publicada el 07.07.2007, interpreta el inciso séptimo de la presente norma, en el sentido que debe interpretarse y aplicarse de forma tal que el pago al cual está obligado el empleador moroso en el pago de las cotizaciones previsionales comprende la totalidad del período de tiempo que media entre la fecha del despido y la fecha de envío o entrega de la comunicación mediante la cual el empleador le comunica al trabajador que ha pagado las cotizaciones morosas, con las formalidades indicadas en el inciso sexto de dicha disposición legal, sin perjuicio del plazo de prescripción señalado en el inciso tercero del artículo 480, del mismo Código, el que sólo se considerará para los efectos de la interposición de la respectiva demanda.
 
 #### Artículo 163
 
-Si el contrato hubiere estado vigente un año o más y el empleador le pusiere término en conformidad al artículo 161, deberá pagar al trabajador, la indemnización por años de servicio que las partes hayan convenido individual o colectivamente, siempre que ésta fuere de un monto superior a la establecida en el inciso siguiente.
+Si el contrato hubiere estado vigente un año o más y el empleador le pusiere término en conformidad al artículo 161, deberá pagar al trabajador, al momento de la terminación, la indemnización por años de servicio que las partes hayan convenido individual o colectivamente, siempre que ésta fuere de un monto superior a la establecida en el inciso siguiente.
 
 A falta de esta estipulación, entendiéndose además por tal la que no cumpla con el requisito señalado en el inciso precedente, el empleador deberá pagar al trabajador una indemnización equivalente a treinta días de la última remuneración mensual devengada por cada año de servicio y fracción superior a seis meses, prestados continuamente a dicho empleador. Esta indemnización tendrá un límite máximo de trescientos treinta días de remuneración.
-
-Si el contrato celebrado para una obra o faena determinada hubiere estado vigente por un mes o más, el empleador podrá ponerle término en forma justificada en tanto pague al trabajador, en el momento de su terminación, una indemnización equivalente a dos y medio días de remuneración por cada mes trabajado y fracción superior a quince días, en la forma y modalidad señalada en el artículo 23 transitorio de este Código. Esta indemnización será calculada en conformidad a lo establecido en el artículo 172, y le será aplicable lo dispuesto en el inciso segundo del artículo 13 de la ley N° 19.728. Sólo corresponderá el pago de la prestación antes señalada, si se pusiere término al contrato por la causal contemplada en el número 5 del artículo 159. El ejercicio del derecho establecido en este inciso por parte del trabajador es incompatible con las acciones derivadas de la aplicación del inciso primero del artículo 168, sin perjuicio de las acciones señaladas en el artículo 485 de este Código.
 
 La indemnización a que se refiere este artículo será compatible con la sustitutiva del aviso previo que corresponda al trabajador, según lo establecido en el inciso segundo del artículo 161 y en el inciso cuarto del artículo 162 de este Código.
 
 Lo dispuesto en los incisos anteriores no se aplicará en el caso de terminación del contrato de los trabajadores de casa particular, respecto de los cuales regirán las siguientes normas:
 
-a) Tendrán derecho, cualquiera que sea la causa que origine la terminación del contrato, a una indemnización a todo evento que se financiará con un aporte del empleador, equivalente al 1,11% de la remuneración mensual imponible, la que se regirá, en cuanto corresponda, por las disposiciones de los artículos 165 y 166 de este Código, y
+a) Tendrán derecho, cualquiera que sea la causa que origine la terminación del contrato, a una indemnización a todo evento que se financiará con un aporte del empleador, equivalente al 4,11% de la remuneración mensual imponible, la que se regirá, en cuanto corresponda, por las disposiciones de los artículos 165 y 166 de este Código, y
 
 b) La obligación de efectuar el aporte tendrá una duración de once años en relación con cada trabajador, plazo que se contará desde el 1º de enero de 1991, o desde la fecha de inicio de la relación laboral, si ésta fuere posterior. El monto de la indemnización quedará determinado por los aportes correspondientes al período respectivo, más la rentabilidad que se haya obtenido de ellos.
-
-#### Artículo 163 bis
-
-El contrato de trabajo terminará en caso que el empleador fuere sometido a un procedimiento concursal de liquidación. Para todos los efectos legales, la fecha de término del contrato de trabajo será la fecha de dictación de la resolución de liquidación. En este caso, se aplicarán las siguientes reglas:
-
-1.- El liquidador deberá comunicar al trabajador, personalmente o por carta certificada enviada al domicilio señalado en el contrato de trabajo, el término de la relación laboral en virtud de la causal señalada en este artículo, adjuntando a dicha comunicación un certificado emitido por la Superintendencia de Insolvencia y Reemprendimiento que deberá indicar el inicio de un procedimiento concursal de liquidación respecto del empleador, así como el tribunal competente, la individualización del proceso y la fecha en que se dictó la resolución de liquidación correspondiente. El liquidador deberá realizar esta comunicación dentro de un plazo no superior a seis días hábiles contado desde la fecha de notificación de la resolución de liquidación por el tribunal que conoce el procedimiento concursal de liquidación. El error u omisión en que se incurra con ocasión de esta comunicación no invalidará el término de la relación laboral en virtud de la causal señalada en este artículo.
-
-Dentro del mismo plazo, el liquidador deberá enviar copia de la comunicación mencionada en el inciso anterior a la respectiva Inspección del Trabajo. Las Inspecciones del Trabajo tendrán un registro de las comunicaciones de término de contrato de trabajo que se les envíen, el que se mantendrá actualizado con las comunicaciones recibidas en los últimos treinta días hábiles.
-
-La Inspección del Trabajo, de oficio o a petición de parte, constatará el cumplimiento de lo establecido en este número. En caso de incumplimiento por parte del liquidador, la Inspección del Trabajo deberá informar a la Superintendencia de Insolvencia y Reemprendimiento, la que podrá sancionar los hechos imputables al liquidador, de conformidad con lo establecido en el artículo 338 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, sin perjuicio de la responsabilidad que le pueda corresponder en virtud del Párrafo 7 del Título IX del Libro Segundo del Código Penal.
-
-Estas normas se aplicarán de forma preferente a lo establecido en el artículo 162 y en ningún caso se producirá el efecto establecido en el inciso quinto de dicho artículo.
-
-2.- El liquidador, en representación del deudor, deberá pagar al trabajador una indemnización en dinero, sustitutiva del aviso previo, equivalente al promedio de las tres últimas remuneraciones mensuales devengadas, si es que las hubiere. En el caso de que existan menos de tres remuneraciones mensuales devengadas, se indemnizará por un monto equivalente al promedio de las últimas dos o, en defecto de lo anterior, el monto a indemnizar equivaldrá a la última remuneración mensual devengada.
-
-3.- Si el contrato de trabajo hubiere estado vigente un año o más, el liquidador, en representación del deudor, deberá pagar al trabajador una indemnización por años de servicio equivalente a aquélla que el empleador estaría obligado a pagar en caso que el contrato terminare por alguna de las causales señaladas en el artículo 161. El monto de esta indemnización se determinará de conformidad a lo establecido en los incisos primero y segundo del artículo 163. Esta indemnización será compatible con la establecida en el número 2 anterior.
-
-4.- No se requerirá solicitar la autorización previa del juez competente respecto de los trabajadores que al momento del término del contrato de trabajo tuvieren fuero.
-
-Con todo, tratándose de trabajadores que estuvieren gozando del fuero maternal señalado en el artículo 201, el liquidador, en representación del deudor, deberá pagar una indemnización equivalente a la última remuneración mensual devengada por cada uno de los meses que restare de fuero. Si el término de contrato ocurriere en virtud de este artículo, mientras el trabajador se encontrare haciendo uso de los descansos y permisos a que se refiere el artículo 198, no se considerarán para el cálculo de esta indemnización las semanas durante las cuales el trabajador tenga derecho a los subsidios derivados de aquéllos. Esta indemnización será compatible con la indemnización por años de servicio que deba pagarse en conformidad al número 3 anterior, y no lo será respecto de aquella indemnización regulada en el número 2 precedente.
-
-5.- El liquidador deberá poner a disposición del trabajador el respectivo finiquito a lo menos diez días antes de la expiración del período de verificación ordinaria de créditos que establece la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
-
-El finiquito suscrito por el trabajador se entenderá como antecedente documentario suficiente para justificar un pago administrativo, sin perjuicio de los otros documentos que sirven de fundamento para su pago conforme al artículo 244 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
-
-El finiquito suscrito por el trabajador deberá ser autorizado por un Ministro de Fe, sea éste Notario Público o Inspector del Trabajo, aun cuando las cotizaciones previsionales se encuentren impagas. Deberá, además, ser acompañado por el liquidador al Tribunal que conoce del procedimiento concursal de liquidación, dentro de los dos días siguientes a su suscripción. Este finiquito se regirá por las siguientes reglas:
-
-a) Se entenderá como suficiente verificación de los créditos por remuneraciones, asignaciones compensatorias e indemnizaciones que consten en dicho instrumento;
-
-b) Si el trabajador hiciere reserva de acciones al suscribir el finiquito, la verificación o pago administrativo estará limitada a las cantidades aceptadas por el trabajador, y
-
-c) Cualquier estipulación que haga entender que el trabajador renuncia total o parcialmente a sus cotizaciones previsionales se tendrá por no escrita.
-
-Con todo, el liquidador deberá reservar fondos, si los hubiere, respecto de aquellos finiquitos no suscritos por los trabajadores o no acompañados por el liquidador al tribunal que conoce del procedimiento concursal de liquidación dentro del plazo señalado en el párrafo tercero de este número, por un período de treinta días contado desde la fecha en que el correspondiente finiquito fue puesto a disposición del respectivo trabajador.
 
 #### Artículo 164
 
@@ -3088,11 +1770,9 @@ El empleador estará obligado a pagar las indemnizaciones a que se refiere el in
 
 Sin perjuicio de lo establecido en el inciso anterior, las partes podrán acordar el fraccionamiento del pago de las indemnizaciones; en este caso, las cuotas deberán consignar los intereses y reajustes del período. Dicho pacto deberá ser ratificado ante la Inspección del Trabajo. El simple incumplimiento del pacto hará inmediatamente exigible el total de la deuda y será sancionado con multa administrativa.
 
-Si tales indemnizaciones no se pagaren al trabajador, éste podrá recurrir al tribunal que corresponda, para que en procedimiento ejecutivo se cumpla dicho pago, pudiendo el juez en este caso incrementarlas hasta en un 150%, sirviendo para tal efecto de correspondiente título, la carta aviso a que alude el inciso cuarto del artículo 162, y
+Si tales indemnizaciones no se pagaren al trabajador, éste podrá recurrir al mismo tribunal señalado en el artículo anterior, en el mismo plazo allí indicado, para que se ordene y cumpla dicho pago, pudiendo el juez en este caso incrementarlas hasta en un 150%, y
 
 b) Si el trabajador estima que la aplicación de esta causal es improcedente, y no ha hecho aceptación de ella del modo previsto en la letra anterior, podrá recurrir al tribunal mencionado en el artículo precedente, en los mismos términos y con el mismo objeto allí indicado. Si el Tribunal rechazare la reclamación del trabajador, éste sólo tendrá derecho a las indemnizaciones señaladas en los artículos 162, inciso cuarto, y 163 incisos primero o segundo, según corresponda, con el reajuste indicado en el artículo 173, sin intereses.
-
-Lo dispuesto en la letra a) de este artículo se aplicará a la indemnización que el empleador está obligado a pagar al trabajador por causa de la terminación del contrato celebrado para una obra o faena determinada, de conformidad a lo establecido en el inciso tercero del artículo 163.
 
 #### Artículo 170
 
@@ -3102,7 +1782,7 @@ Los trabajadores cuyos contratos terminaren en virtud de lo dispuesto en el inci
 
 Si quien incurriere en las causales de los números 1, 5 ó 7 del artículo 160 fuere el empleador, el trabajador podrá poner término al contrato y recurrir al juzgado respectivo, dentro del plazo de sesenta días hábiles, contado desde la terminación, para que éste ordene el pago de las indemnizaciones establecidas en el inciso cuarto del artículo 162, y en los incisos primero o segundo del artículo 163, según corresponda, aumentada en un cincuenta por ciento en el caso de la causal del número 7; en el caso de las causales de los números 1 y 5, la indemnización podrá ser aumentada hasta en un ochenta por ciento.
 
-Tratándose de la aplicación de las causales de las letras a), b) y f) del número 1 del artículo 160, el trabajador afectado podrá reclamar del empleador, simultáneamente con el ejercicio de la acción que concede el inciso anterior, las otras indemnizaciones a que tenga derecho.
+Tratándose de la aplicación de las causales de las letras a) y b) del número 1 del artículo 160, el trabajador afectado podrá reclamar del empleador, simultáneamente con el ejercicio de la acción que concede el inciso anterior, las otras indemnizaciones a que tenga derecho.
 
 Cuando el empleador no hubiera observado el procedimiento establecido en el Título IV del Libro II, responderá en conformidad a los incisos primero y segundo precedentes.
 
@@ -3110,11 +1790,11 @@ El trabajador deberá dar los avisos a que se refiere el artículo 162 en la for
 
 Si el Tribunal rechazare el reclamo del trabajador, se entenderá que el contrato ha terminado por renuncia de éste.
 
-Si el trabajador hubiese invocado la causal de la letra b) o f) del número 1 del artículo 160, falsamente o con el propósito de lesionar la honra de la persona demandada y el tribunal hubiese declarado su demanda carente de motivo plausible, estará obligado a indemnizar los perjuicios que cause al afectado. En el evento que la causal haya sido invocada maliciosamente, además de la indemnización de los perjuicios, quedará sujeto a las otras acciones legales que procedan.
+Si el trabajador hubiese invocado la causal de la letra b) del número 1 del artículo 160, falsamente o con el propósito de lesionar la honra de la persona demandada y el tribunal hubiese declarado su demanda carente de motivo plausible, estará obligado a indemnizar los perjuicios que cause al afectado. En el evento que la causal haya sido invocada maliciosamente, además de la indemnización de los perjuicios, quedará sujeto a las otras acciones legales que procedan.
 
 #### Artículo 172
 
-Para los efectos del pago de las indemnizaciones a que se refieren los artículos 163, 163 bis, 168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
+Para los efectos del pago de las indemnizaciones a que se refieren los artículos 168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
 
 Si se tratare de remuneraciones variables, la indemnización se calculará sobre la base del promedio percibido por el trabajador en los últimos tres meses calendario.
 
@@ -3122,7 +1802,7 @@ Con todo, para los efectos de las indemnizaciones establecidas en este título, 
 
 #### Artículo 173
 
-Las indemnizaciones a que se refieren los artículos 163, 168, 169, 170 y 171 se reajustarán conforme a la variación que experimente el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que se puso término al contrato y el que antecede a aquel en que se efectúe el pago. Desde el término del contrato, la indemnización así reajustada devengará también el máximo interés permitido para operaciones reajustables.
+Las indemnizaciones a que se refieren los artículos 168, 169, 170 y 171 se reajustarán conforme a la variación que experimente el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que se puso término al contrato y el que antecede a aquel en que se efectúe el pago. Desde el término del contrato, la indemnización así reajustada devengará también el máximo interés permitido para operaciones reajustables.
 
 #### Artículo 174
 
@@ -3142,19 +1822,9 @@ En caso de incompatibilidad, deberá pagarse al trabajador la indemnización por
 
 #### Artículo 177
 
-El finiquito, la renuncia y el mutuo acuerdo deberán constar por escrito. El instrumento respectivo que no fuere firmado por el interesado y por el presidente del sindicato o el delegado sindical respectivos, o que no fuere ratificado por el trabajador ante el inspector del trabajo, no podrá ser invocado por el empleador. El finiquito deberá ser otorgado por el empleador y puesto su pago a disposición del trabajador dentro de diez días hábiles, contados desde la separación del trabajador. Las partes podrán pactar el pago en cuotas de conformidad con los artículos 63 bis y 169.
+El finiquito, la renuncia y el mutuo acuerdo deberán constar por escrito. El instrumento respectivo que no fuere firmado por el interesado y por el presidente del sindicato o el delegado del personal o sindical respectivos, o que no fuere ratificado por el trabajador ante el inspector del trabajo, no podrá ser invocado por el empleador.
 
 Para estos efectos, podrán actuar también como ministros de fe, un notario público de la localidad, el oficial del registro civil de la respectiva comuna o sección de comuna o el secretario municipal correspondiente.
-
-Se considerará como ratificado ante el inspector del trabajo el finiquito que sea otorgado por el empleador en el sitio electrónico de la Dirección del Trabajo, que cumpla la normativa legal correspondiente y sea firmado electrónicamente por el trabajador en el mismo sitio. Este finiquito deberá dar cuenta, a lo menos, de la causal de terminación invocada, los pagos a que hubiere dado lugar y, en su caso, las sumas que hubieren quedado pendientes y la reserva de derechos que el trabajador hubiere formulado. Igual consideración tendrá la renuncia y el mutuo acuerdo firmados electrónicamente por el trabajador en el sitio electrónico de la Dirección del Trabajo.
-
-El Director del Trabajo, mediante resolución, establecerá el procedimiento aplicable para el adecuado funcionamiento de la ratificación del finiquito, la renuncia y el mutuo acuerdo en el portal electrónico de la Dirección del Trabajo; asimismo, deberá señalar el procedimiento por el que se deberá exigir al empleador el pago y cumplimiento oportuno e íntegro de las obligaciones que de éstos emanen, así como también la regulación aplicable en caso de reserva de derechos por parte del trabajador en el finiquito electrónico. Para estos efectos, la recepción, recaudación y, en su caso, el resguardo, de los pagos correspondientes hasta hacer entrega de los mismos al respectivo trabajador, corresponderá al Servicio de Tesorerías, o a otras entidades que se dediquen a estas actividades de acuerdo a la normativa vigente. Asimismo, dicho servicio o entidades deberán habilitar los medios electrónicos que sean necesarios para asegurar la correcta ejecución de la transacción, sin que ello irrogue un costo para el trabajador. La formulación de reserva de derechos por el trabajador al suscribir el finiquito no impedirá en ningún caso el pago de las sumas no disputadas, lo que deberá exigirse al empleador por la Dirección del Trabajo.
-
-La suscripción del finiquito de la forma establecida en el inciso tercero será siempre facultativa para el trabajador. En caso que éste rechace el finiquito electrónico otorgado por el empleador, este último se encontrará obligado a poner a disposición del trabajador el respectivo finiquito de manera presencial, dentro del plazo establecido en el inciso primero o, si hubiese expirado dicho plazo estando pendiente la suscripción electrónica del trabajador, en el plazo máximo de tres días hábiles contado desde el rechazo del trabajador.
-
-El trabajador que haya aceptado la suscripción del finiquito podrá consignar que se reserva el derecho a accionar judicialmente contra su exempleador.
-
-El trabajador que, habiendo firmado la renuncia, el mutuo acuerdo o el finiquito, considere que ha existido a su respecto error, fuerza o dolo, podrá reclamarlo judicialmente, dentro del plazo establecido en el inciso primero del artículo 168, el que se suspenderá en la forma a que se refiere el inciso final del mismo artículo.
 
 En el despido de un trabajador por alguna de las causales a que se refiere el inciso quinto del artículo 162, los ministros de fe, previo a la ratificación del finiquito por parte del trabajador, deberán requerir al empleador que les acredite, mediante certificados de los organismos competentes o con las copias de las respectivas planillas de pago, que se ha dado cumplimiento íntegro al pago de todas las cotizaciones para fondos de pensiones, de salud y de seguro de desempleo si correspondiera, hasta el último día del mes anterior al del despido. Con todo, deberán dejar constancia de que el finiquito no producirá el efecto de poner término al contrato de trabajo si el empleador no hubiera efectuado el integro de dichas cotizaciones previsionales.
 
@@ -3168,11 +1838,9 @@ No tendrá lugar lo dispuesto en el inciso primero en el caso de contratos de du
 
 El finiquito ratificado por el trabajador ante el inspector del trabajo o ante alguno de los funcionarios a que se refiere el inciso segundo, así como sus copias autorizadas, tendrá mérito ejecutivo respecto de las obligaciones pendientes que se hubieren consignado en él.
 
-El poder liberatorio del finiquito se restringirá sólo a aquello en que las partes concuerden expresamente y no se extenderá a los aspectos en que el consentimiento no se forme.
-
 #### Artículo 178
 
-Las indemnizaciones por término de funciones o de contratos de trabajo establecidas por ley, las pactadas en contratos colectivos de trabajo o en convenios colectivos o en acuerdos de grupo negociador que complementen, modifiquen o reemplacen estipulaciones de contratos colectivos, no constituirán renta para ningún efecto tributario.
+Las indemnizaciones por término de funciones o de contratos de trabajo establecidas por ley, las pactadas en contratos colectivos de trabajo o en convenios colectivos que complementen, modifiquen o reemplacen estipulaciones de contratos colectivos, no constituirán renta para ningún efecto tributario.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, cuando por terminación de funciones o de contrato de trabajo, se pagaren además otras indemnizaciones a las precitadas, deberán sumarse éstas a aquéllas con el único objeto de aplicarles lo dispuesto en el Nº 13 del artículo 17 de la ley sobre Impuesto a la Renta a las indemnizaciones que no estén mencionadas en el inciso primero de este artículo.
 
@@ -3226,7 +1894,7 @@ Del trabajo en régimen de subcontratación
 
 A.- Es trabajo en régimen de subcontratación, aquél realizado en virtud de un contrato de trabajo por un trabajador para un empleador, denominado contratista o subcontratista, cuando éste, en razón de un acuerdo contractual, se encarga de ejecutar obras o servicios, por su cuenta y riesgo y con trabajadores bajo su dependencia, para una tercera persona natural o jurídica dueña de la obra, empresa o faena, denominada la empresa principal, en la que se desarrollan los servicios o ejecutan las obras contratadas. Con todo, no quedarán sujetos a las normas de este Párrafo las obras o los servicios que se ejecutan o prestan de manera discontinua o esporádica.
 
-Si los servicios prestados se realizan sin sujeción a los requisitos señalados en el inciso anterior o se limitan sólo a la intermediación de trabajadores a una faena, se entenderá que el empleador es el dueño de la obra, empresa o faena, sin perjuicio de las sanciones que correspondan por aplicación del artículo 506.
+Si los servicios prestados se realizan sin sujeción a los requisitos señalados en el inciso anterior o se limitan sólo a la intermediación de trabajadores a una faena, se entenderá que el empleador es el dueño de la obra, empresa o faena, sin perjuicio de las sanciones que correspondan por aplicación del artículo 478.
 
 > **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
 
@@ -3360,7 +2028,7 @@ M.- El Director del Trabajo podrá, por resolución fundada, ordenar la cancelac
 
 a) por incumplimientos reiterados y graves de la legislación laboral o previsional, o
 
-b) por tener la empresa de servicios transitorios la calidad de deudora en un procedimiento concursal de liquidación, salvo que se decrete la continuidad de sus actividades económicas.
+b) por quiebra de la empresa de servicios transitorios, salvo que se decrete la continuidad de su giro.
 
 Para los efectos de la letra a) precedente, se entenderá que una empresa incurre en infracciones reiteradas cuando ha sido objeto de tres o más sanciones aplicadas por la autoridad administrativa o judicial, como consecuencia del incumplimiento de una o más obligaciones legales, en el plazo de un año. Se considerarán graves todas aquellas infracciones que, atendidos la materia involucrada y el número de trabajadores afectados, perjudiquen notablemente el ejercicio de los derechos establecidos en las leyes laborales, especialmente las infracciones a las normas contenidas en los Capítulos II, V y VI del Título I del LIBRO I de este Código, como asimismo las cometidas a las normas del Título II del LIBRO II del mismo texto legal.
 
@@ -3570,11 +2238,9 @@ NORMAS GENERALES
 
 #### Artículo 184
 
-El empleador estará obligado a tomar todas las medidas necesarias para proteger eficazmente la vida y salud de los trabajadores, informando de los posibles riesgos y manteniendo las condiciones adecuadas de higiene y seguridad en las faenas, como también los implementos necesarios para prevenir accidentes y enfermedades profesionales.
+El empleador estará obligado a tomar todas las medidas necesarias para proteger eficazmente la vida y salud de los trabajadores, manteniendo las condiciones adecuadas de higiene y seguridad en las faenas, como también los implementos necesarios para prevenir accidentes y enfermedades profesionales.
 
 Deberá asimismo prestar o garantizar los elementos necesarios para que los trabajadores en caso de accidente o emergencia puedan acceder a una oportuna y adecuada atención médica, hospitalaria y farmacéutica.
-
-Los organismos administradores del seguro de la ley Nº 16.744, deberán informar a sus empresas afiliadas sobre los riesgos asociados al uso de pesticidas, plaguicidas y, en general, de productos fitosanitarios.
 
 Corresponderá también a la Dirección del Trabajo fiscalizar el cumplimiento de normas de higiene y seguridad en el trabajo, en los términos señalados en el artículo 191, sin perjuicio de las facultades conferidas a otros servicios del Estado en virtud de las leyes que los rigen.
 
@@ -3583,22 +2249,6 @@ La Dirección del Trabajo deberá poner en conocimiento del respectivo Organismo
 El referido Organismo Administrador deberá, en el plazo de 30 días contado desde la notificación, informar a la Dirección del Trabajo y a la Superintendencia de Seguridad Social, acerca de las medidas de seguridad específicas que hubiere prescrito a la empresa infractora para corregir tales infracciones o deficiencias. Corresponderá a la Superintendencia de Seguridad Social velar por el cumplimiento de esta obligación por parte de los Organismos Administradores.
 
 > **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que las modificaciones introducidas por la citada ley regirán a contar de 90 días después de su publicación.
-
-#### Artículo 184 bis
-
-Sin perjuicio de lo establecido en el artículo precedente, cuando en el lugar de trabajo sobrevenga un riesgo grave e inminente para la vida o salud de los trabajadores, el empleador deberá:
-
-a) Informar inmediatamente a todos los trabajadores afectados sobre la existencia del mencionado riesgo, así como las medidas adoptadas para eliminarlo o atenuarlo.
-
-b) Adoptar medidas para la suspensión inmediata de las faenas afectadas y la evacuación de los trabajadores, en caso que el riesgo no se pueda eliminar o atenuar.
-
-Con todo, el trabajador tendrá derecho a interrumpir sus labores y, de ser necesario, abandonar el lugar de trabajo cuando considere, por motivos razonables, que continuar con ellas implica un riesgo grave e inminente para su vida o salud. El trabajador que interrumpa sus labores deberá dar cuenta de ese hecho al empleador dentro del más breve plazo, el que deberá informar de la suspensión de las mismas a la Inspección del Trabajo respectiva.
-
-Los trabajadores no podrán sufrir perjuicio o menoscabo alguno derivado de la adopción de las medidas señaladas en este artículo, y podrán siempre ejercer la acción contenida en el Párrafo 6° del Capítulo II del Título I del Libro V del Código del Trabajo.
-
-En caso que la autoridad competente ordene la evacuación de los lugares afectados por una emergencia, catástrofe o desastre, el empleador deberá suspender las labores de forma inmediata y proceder a la evacuación de los trabajadores. La reanudación de las labores sólo podrá efectuarse cuando se garanticen condiciones seguras y adecuadas para la prestación de los servicios.
-
-Corresponderá a la Dirección del Trabajo fiscalizar el cumplimiento de lo dispuesto en este artículo.
 
 #### Artículo 185
 
@@ -3624,9 +2274,7 @@ Los trabajos subterráneos que se efectúen en terrenos compuestos de capas filt
 
 #### Artículo 190
 
-Los Servicios de Salud fijarán en cada caso las reformas o medidas mínimas de higiene y seguridad que los trabajos y la salud de los trabajadores aconsejen. Para este efecto podrán disponer que funcionarios competentes visiten los establecimientos y faenas respectivos en las horas y oportunidades que estimen conveniente, y fijarán el plazo dentro del cual deben efectuarse esas reformas o medidas.
-
-Dicha visita podrá motivarse, también, en una denuncia realizada por cualquier persona que informe de la existencia de un hecho o circunstancia que ponga en grave riesgo la salud de los trabajadores.
+Los Servicios de Salud fijarán en cada caso las reformas o medidas mínimas de higiene y seguridad que los trabajos y la salud de los trabajadores aconsejen. Para este efecto podrán disponer que funcionarios competentes visiten los establecimientos respectivos en las horas y oportunidades que estimen conveniente, y fijarán el plazo dentro del cual deben efectuarse esas reformas o medidas.
 
 #### Artículo 191
 
@@ -3656,35 +2304,29 @@ Será aplicable en este caso lo dispuesto en el artículo 40.
 
 ## Título II
 
-De la protección a la maternidad y la paternidad y la conciliación de la vida personal, familiar y laboral
+DE LA PROTECCION A LA MATERNIDAD
 
 #### Artículo 194
 
-El presente Título se regirá por el principio de parentalidad positiva, que incluye las capacidades prácticas y funciones propias de las y los adultos responsables para cuidar, proteger, educar y asegurar el sano desarrollo a sus hijos e hijas; el principio de corresponsabilidad social, que comprende la promoción en la sociedad de la conciliación de la vida personal, familiar y laboral, especialmente de las personas trabajadoras que ejercen labores de cuidado no remunerado, y el principio de protección a la maternidad y la paternidad, promoviendo la igualdad de oportunidades y de trato entre las mujeres y los hombres, buscando preservar tanto la salud y bienestar de los niños y niñas, como el de sus progenitores y progenitoras. Dichos principios deberán aplicarse siempre en concordancia con las responsabilidades y facultades de administración que este Código reconoce al empleador.
-
-Los empleadores, teniendo en consideración, en cada caso, la naturaleza de la relación laboral y los servicios prestados, deberán promover el equilibrio entre el trabajo y la vida privada, realizando acciones destinadas a informar, educar y sensibilizar sobre la importancia de la conciliación de la vida personal, familiar y laboral, por medio de campañas de sensibilización y difusión realizadas directamente por el empleador o a través de los organismos administradores de la ley N° 16.744. La Superintendencia de Seguridad Social, mediante una norma de carácter general, entregará las directrices para la ejecución de estas acciones y para la entrega de información por parte de las entidades administradoras de la ley N° 16.744.
-
-La protección a la maternidad y la paternidad y la conciliación de la vida personal, familiar y laboral se regirá por las disposiciones del presente título y quedan sujetos a ellas los servicios de la administración pública, los servicios semifiscales, de administración autónoma, de las municipalidades y todos los servicios y establecimientos, cooperativas o empresas industriales, extractivas, agrícolas o comerciales, sean de propiedad fiscal, semifiscal, de administración autónoma o independiente, municipal o particular o perteneciente a una corporación de derecho público o privado.
+La protección a la maternidad se regirá por las disposiciones del presente título y quedan sujetos a ellas los servicios de la administración pública, los servicios semifiscales, de administración autónoma, de las municipalidades y todos los servicios y establecimientos, cooperativas o empresas industriales, extractivas, agrícolas o comerciales, sean de propiedad fiscal, semifiscal, de administración autónoma o independiente, municipal o particular o perteneciente a una corporación de derecho público o privado.
 
 Las disposiciones anteriores comprenden las sucursales o dependencias de los establecimientos, empresas o servicios indicados.
 
-Estas disposiciones beneficiarán a todos los trabajadores que dependan de cualquier empleador, comprendidos aquellos que trabajan en su domicilio y, en general, a todos los que estén acogidos a algún sistema previsional.
+Estas disposiciones beneficiarán a todas las trabajadoras que dependan de cualquier empleador, comprendidas aquellas que trabajan en su domicilio y, en general, a todas las mujeres que estén acogidas a algún sistema previsional.
 
 Ningún empleador podrá condicionar la contratación de trabajadoras, su permanencia o renovación de contrato, o la promoción o movilidad en su empleo, a la ausencia o existencia de embarazo, ni exigir para dichos fines certificado o examen alguno para verificar si se encuentra o no en estado de gravidez.
 
 #### Artículo 195
 
-Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él.
+Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él. El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de días corridos, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
 
-El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de forma continua, excluyendo el descanso semanal, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre que se encuentre en proceso de adopción, y se contará a partir de la notificación de la resolución que otorgue el cuidado personal o acoja la adopción del menor, en conformidad a los artículos 19 y 24 de la ley Nº 19.620. Este derecho es irrenunciable.
+Si la madre muriera en el parto o durante el período del permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo, corresponderá al padre, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
 
-Si la madre muriera en el parto o durante el período de permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo corresponderá al padre o a quien le fuere otorgada la custodia del menor, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
-
-El padre que sea privado por sentencia judicial del cuidado personal del menor perderá el derecho a fuero y subsidio establecidos en el inciso anterior.
+El padre que sea privado por sentencia judicial del cuidado personal del menor, perderá el derecho a fuero establecido en el inciso anterior.
 
 Los derechos referidos en el inciso primero no podrán renunciarse y durante los períodos de descanso queda prohibido el trabajo de las mujeres embarazadas y puérperas.
 
-Asimismo, no obstante cualquier estipulación en contrario, deberán conservárseles sus empleos o puestos durante dichos períodos, incluido el período establecido en el artículo 197 bis.
+Asimismo, no obstante cualquiera estipulación en contrario, deberán conservárseles sus empleos o puestos durante dichos períodos.
 
 #### Artículo 196
 
@@ -3693,12 +2335,6 @@ Si durante el embarazo se produjere enfermedad como consecuencia de éste, compr
 Si el parto se produjere después de las seis semanas siguientes a la fecha en que la mujer hubiere comenzado el descanso de maternidad, el descanso prenatal se entenderá prorrogado hasta el alumbramiento y desde la fecha de éste se contará el descanso puerperal, lo que deberá ser comprobado, antes de expirar el plazo, con el correspondiente certificado médico o de la matrona.
 
 Si como consecuencia del alumbramiento se produjere enfermedad comprobada con certificado médico, que impidiere regresar al trabajo por un plazo superior al descanso postnatal, el descanso puerperal será prolongado por el tiempo que fije, en su caso, el servicio encargado de la atención médica preventiva o curativa.
-
-Cuando el parto se produjere antes de iniciada la trigésimo tercera semana de gestación, o si el niño al nacer pesare menos de 1.500 gramos, el descanso postnatal del inciso primero del artículo 195 será de dieciocho semanas.
-
-En caso de partos de dos o más niños, el período de descanso postnatal establecido en el inciso primero del artículo 195 se incrementará en siete días corridos por cada niño nacido a partir del segundo.
-
-Cuando concurrieren simultáneamente las circunstancias establecidas en los incisos cuarto y quinto de este artículo, la duración del descanso postnatal será la de aquel que posea una mayor extensión.
 
 Los certificados a que se refiere este artículo serán expedidos gratuitamente, cuando sean solicitados a médicos o matronas que por cualquier concepto perciban remuneraciones del Estado.
 
@@ -3710,87 +2346,47 @@ El descanso se concederá de acuerdo con las formalidades que especifique el reg
 
 Estos certificados serán expedidos gratuitamente por los médicos o matronas a que se refiere el inciso final del artículo anterior.
 
-#### Artículo 197 bis
-
-Las trabajadoras tendrán derecho a un permiso postnatal parental de doce semanas a continuación del período postnatal, durante el cual recibirán un subsidio cuya base de cálculo será la misma del subsidio por descanso de maternidad a que se refiere el inciso primero del artículo 195.
-
-Con todo, la trabajadora podrá reincorporarse a sus labores una vez terminado el permiso postnatal, por la mitad de su jornada, en cuyo caso el permiso postnatal parental se extenderá a dieciocho semanas. En este caso, percibirá el cincuenta por ciento del subsidio que le hubiere correspondido conforme al inciso anterior y, a lo menos, el cincuenta por ciento de los estipendios fijos establecidos en el contrato de trabajo, sin perjuicio de las demás remuneraciones de carácter variable a que tenga derecho.
-
-Las trabajadoras exentas del límite de jornada de trabajo, de conformidad a lo establecido en el inciso segundo del artículo 22, podrán ejercer el derecho establecido en el inciso anterior, en los términos de dicho precepto y conforme a lo acordado con su empleador.
-
-Para ejercer los derechos establecidos en los incisos segundo, tercero y octavo, la trabajadora deberá dar aviso a su empleador mediante carta certificada, enviada con a lo menos treinta días de anticipación al término del período postnatal, con copia a la Inspección del Trabajo. De no efectuar esta comunicación, la trabajadora deberá ejercer su permiso postnatal parental de acuerdo a lo establecido en el inciso primero.
-
-El empleador estará obligado a reincorporar a la trabajadora salvo que, por la naturaleza de sus labores y las condiciones en que aquella las desempeña, estas últimas sólo puedan desarrollarse ejerciendo la jornada que la trabajadora cumplía antes de su permiso prenatal. La negativa del empleador a la reincorporación parcial deberá ser fundamentada e informada a la trabajadora, dentro de los tres días de recibida la comunicación de ésta, mediante carta certificada, con copia a la Inspección del Trabajo en el mismo acto. La trabajadora podrá reclamar de dicha negativa ante la referida entidad, dentro de tres días hábiles contados desde que tome conocimiento de la comunicación de su empleador. La Inspección del Trabajo resolverá si la naturaleza de las labores y condiciones en las que éstas son desempeñadas justifican o no la negativa del empleador.
-
-En caso de que la trabajadora opte por reincorporarse a sus labores de conformidad a lo establecido en este artículo, el empleador deberá dar aviso a la entidad pagadora del subsidio antes del inicio del permiso postnatal parental.
-
-Con todo, cuando la madre hubiere fallecido o el padre tuviere el cuidado personal del menor por sentencia judicial, le corresponderá a éste el permiso y subsidio establecidos en los incisos primero y segundo.
-
-Si ambos padres son trabajadores, cualquiera de ellos, a elección de la madre, podrá gozar del permiso postnatal parental, a partir de la séptima semana del mismo, por el número de semanas que ésta indique. Las semanas utilizadas por el padre deberán ubicarse en el período final del permiso y darán derecho al subsidio establecido en este artículo, calculado en base a sus remuneraciones. Le será aplicable al trabajador lo dispuesto en el inciso quinto.
-
-En caso de que el padre haga uso del permiso postnatal parental, deberá dar aviso a su empleador mediante carta certificada enviada, a lo menos, con diez días de anticipación a la fecha en que hará uso del mencionado permiso, con copia a la Inspección del Trabajo. Copia de dicha comunicación deberá ser remitida, dentro del mismo plazo, al empleador de la trabajadora. A su vez, el empleador del padre deberá dar aviso a las entidades pagadoras del subsidio que correspondan, antes del inicio del permiso postnatal parental que aquél utilice.
-
-El subsidio derivado del permiso postnatal parental se financiará con cargo al Fondo Único de Prestaciones Familiares y Subsidio de Cesantía del decreto con fuerza de ley Nº150, del Ministerio del Trabajo y Previsión Social, de 1982.
-
-El empleador que impida el uso del permiso postnatal parental o realice cualquier práctica arbitraria o abusiva con el objeto de dificultar o hacer imposible el uso del permiso establecido en los incisos precedentes, será sancionado con multa a beneficio fiscal de 14 a 150 unidades tributarias mensuales. Cualquier infracción a lo dispuesto en este inciso podrá ser denunciada a la Inspección del Trabajo, entidad que también podrá proceder de oficio a este respecto.
-
-> **Nota.** El artículo 8 de la ley 21474 publicada el 27.07.2022, dispone que las trabajadoras y los trabajadores que se encuentren haciendo uso del permiso postnatal parental para el cuidado del niño o niña, de que trata el presente artículo, cuyo vencimiento ocurra entre el 1 de mayo y el 30 de septiembre del año 2022, tendrán derecho a solicitar su extensión, cumpliendo los demás requisitos que la citada ley indica.
-
-> **Nota.** NOTA 1 El artículo 1 de la ley 21510 publicada el 24.11.2022, dispone que las trabajadoras y los trabajadores que se encuentren haciendo uso del permiso postnatal parental para el cuidado del niño o niña, de que trata el presente artículo, cuyo vencimiento ocurra entre el 1 de octubre y el 30 de diciembre del año 2022, tendrán derecho a solicitar su extensión, cumpliendo los demás requisitos que la citada ley indica.
-
 #### Artículo 198
 
-La mujer que se encuentre en el período de descanso de maternidad a que se refiere el artículo 195, de descansos suplementarios y de plazo ampliado señalados en el artículo 196, como también los trabajadores que hagan uso del permiso postnatal parental, recibirán un subsidio calculado conforme a lo dispuesto en el decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978, y en el artículo 197 bis.
+La mujer que se encuentre en el período de descanso de maternidad a que se refiere el artículo 195, o de descansos suplementarios y de plazo ampliado señalados en el artículo 196, recibirá un subsidio equivalente a la totalidad de las remuneraciones y asignaciones que perciba, del cual sólo se deducirán las imposiciones de previsión y descuentos legales que correspondan.
 
 #### Artículo 199
 
 Cuando la salud de un niño menor de un año requiera de atención en el hogar con motivo de enfermedad grave, circunstancia que deberá ser acreditada mediante certificado médico otorgado o ratificado por los servicios que tengan a su cargo la atención médica de los menores, la madre trabajadora tendrá derecho al permiso y subsidio que establece el artículo anterior por el período que el respectivo servicio determine. En el caso que ambos padres sean trabajadores, cualquiera de ellos y a elección de la madre, podrá gozar del permiso y subsidio referidos. Con todo, gozará de ellos el padre, cuando la madre hubiere fallecido o él tuviere la tuición del menor por sentencia judicial.
 
-Tendrá también derecho a este permiso y subsidio, la trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a un año, respecto de quien se le haya otorgado judicialmente la tuición o el cuidado personal como medida de protección. Este derecho se extenderá al cónyuge o conviviente civil, en los mismos términos señalados en el inciso anterior.
+Tendrá también derecho a este permiso y subsidio, la trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a un año, respecto de quien se le haya otorgado judicialmente la tuición o el cuidado personal como medida de protección. Este derecho se extenderá al cónyuge, en los mismos términos señalados en el inciso anterior.
 
 Si los beneficios precedentes fueren obtenidos en forma indebida, los trabajadores involucrados serán solidariamente responsables de la restitución de las prestaciones pecuniarias percibidas, sin perjuicio de las sanciones penales que por este hecho les pudiere corresponder.
 
 #### Artículo 199 bis
 
-Cuando la salud de un niño o niña mayor de un año y menor de dieciocho años de edad requiera el cuidado personal de su padre o madre con motivo de un accidente grave o de una enfermedad grave, aguda y con riesgo de muerte, tanto el padre como la madre trabajadores tendrán derecho a un permiso para ausentarse de su trabajo por el número de horas equivalentes a diez jornadas ordinarias de trabajo al año, distribuidas a elección del trabajador o trabajadora en jornadas completas, parciales o combinación de ambas, las que se considerarán como trabajadas para todos los efectos legales. El accidente o la enfermedad deberán ser acreditados mediante certificado otorgado por el médico que tenga a su cargo la atención del niño o niña.
+Cuando la salud de un menor de 18 años requiera la atención personal de sus padres con motivo de un accidente grave o de una enfermedad terminal en su fase final o enfermedad grave, aguda y con probable riesgo de muerte, la madre trabajadora tendrá derecho a un permiso para ausentarse de su trabajo por el número de horas equivalentes a diez jornadas ordinarias de trabajo al año, distribuidas a elección de ella en jornadas completas, parciales o combinación de ambas, las que se considerarán como trabajadas para todos los efectos legales. Dichas circunstancias del accidente o enfermedad deberán ser acreditadas mediante certificado otorgado por el médico que tenga a su cargo la atención del menor.
 
-Si el padre y la madre son trabajadores podrán usar este permiso conjunta o separadamente.
+Si ambos padres son trabajadores dependientes, cualquiera de ellos, a elección de la madre, podrá gozar del referido permiso. Con todo, dicho permiso se otorgará al padre que tuviere la tuición del menor por sentencia judicial o cuando la madre hubiere fallecido o estuviese imposibilitada de hacer uso de él por cualquier causa. A falta de ambos, a quien acredite su tuición o cuidado.
 
-Cuando el cuidado personal del niño o niña lo tenga un tercero distinto del padre o la madre, otorgado por resolución judicial, sólo éste podrá hacer uso del permiso, en los mismos términos que el padre o la madre.
+El tiempo no trabajado deberá ser restituido por el trabajador mediante imputación a su próximo feriado anual o laborando horas extraordinarias o a través de cualquier forma que convengan libremente las partes. Sin embargo, tratándose de trabajadores regidos por estatutos que contemplen la concesión de días administrativos, primeramente el trabajador deberá hacer uso de ellos, luego podrá imputar el tiempo que debe reponer a su próximo feriado anual o a días administrativos del año siguiente al uso del permiso a que se refiere este artículo, o a horas extraordinarias.
 
-Cuando el o la cónyuge, el o la conviviente civil o el padre o la madre del trabajador o trabajadora estén desahuciados o en estado terminal, el trabajador o la trabajadora podrá ejercer el derecho establecido en el inciso primero de este artículo, debiendo acreditarse esta circunstancia mediante certificado médico.
-
-El tiempo no trabajado deberá ser restituido por el trabajador o trabajadora mediante imputación a su próximo feriado anual o laborando horas extraordinarias o a través de cualquier forma que convengan libremente las partes. En estos casos se aplicará lo dispuesto en el inciso final del artículo 32. Sin embargo, tratándose de trabajadores regidos por estatutos que contemplen la concesión de días administrativos, en primer lugar, el trabajador deberá hacer uso de ellos, luego podrá imputar el tiempo que debe reponer a su próximo feriado anual o a días administrativos del año siguiente al uso del permiso a que se refiere este artículo o a horas extraordinarias.
-
-Asimismo, el trabajador y el empleador podrán utilizar y convenir directamente los mecanismos señalados en el artículo 375 y 376 de este Código para restituir y compensar el tiempo no trabajado.
-
-En el evento de no ser posible aplicar los mecanismos señalados en los incisos anteriores se podrá descontar el tiempo equivalente al permiso obtenido de las remuneraciones mensuales del trabajador, en forma de un día por mes, lo que podrá fraccionarse según sea el sistema de pago, o en forma íntegra si el trabajador cesare en su trabajo por cualquier causa.
-
-Iguales derechos y mecanismos de restitución serán aplicables a los padres, a la persona que tenga su cuidado personal o sea cuidador en los términos establecidos en la letra d) del artículo 6° de la ley N° 20.422, de un menor con discapacidad, debidamente inscrito en el Registro Nacional de la Discapacidad, o siendo menor de seis años, con la determinación diagnóstica del médico tratante.
-
-Lo dispuesto en el inciso precedente se aplicará, en iguales términos, tratándose de personas mayores de dieciocho años con discapacidad mental, por causa psíquica o intelectual, multidéficit, o bien, presenten dependencia severa.
-
-La solicitud del permiso deberá formalizarse mediante cualquier medio escrito de comunicación interna de la empresa, ya sea físico o electrónico, acompañando el certificado médico correspondiente. Cumpliéndose los requisitos establecidos en este artículo, el empleador no podrá negarse a otorgar el permiso.
-
-En todo caso, de la ausencia al trabajo se deberá dar aviso al empleador dentro de las 24 horas siguientes al ejercicio del derecho.
+En el evento de no ser posible aplicar dichos mecanismos, se podrá descontar el tiempo equivalente al permiso obtenido de las remuneraciones mensuales del trabajador, en forma de un día por mes, lo que podrá fraccionarse según sea el sistema de pago, o en forma íntegra si el trabajador cesare en su trabajo por cualquier causa.
 
 #### Artículo 200
 
-La trabajadora o el trabajador que tenga a su cuidado un menor de edad, por habérsele otorgado judicialmente la tuición o el cuidado personal como medida de protección, o en virtud de lo previsto en los artículos 19 o 24 de la ley Nº 19.620, tendrá derecho al permiso postnatal parental establecido en el artículo 197 bis. Además, cuando el menor tuviere menos de seis meses, previamente tendrá derecho a un permiso y subsidio por doce semanas.
+La trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a seis meses, por habérsele otorgado judicialmente la tuición o el cuidado personal del menor como medida de protección, tendrá derecho a permiso y subsidio hasta por doce semanas.
 
-A la correspondiente solicitud de permiso, el trabajador o la trabajadora, según corresponda, deberá acompañar necesariamente una declaración jurada de tener bajo su tuición o cuidado personal al causante del beneficio, así como un certificado del tribunal que haya otorgado la tuición o cuidado personal del menor como medida de protección, o en virtud de lo previsto en los artículos 19 o 24 de la ley Nº19.620.
+A la correspondiente solicitud de permiso deberá acompañarse necesariamente una declaración jurada suya de tener bajo su cuidado personal al causante del beneficio y un certificado del tribunal que haya otorgado la tuición o cuidado personal del menor como medida de protección.
 
 #### Artículo 201
 
-Durante el período de embarazo y hasta un año después de expirado el descanso de maternidad, excluido el permiso postnatal parental establecido en el artículo 197 bis, la trabajadora gozará de fuero laboral y estará sujeta a lo dispuesto en el artículo 174. En caso de que el padre haga uso del permiso postnatal parental del artículo 197 bis también gozará de fuero laboral, por un período equivalente al doble de la duración de su permiso, a contar de los diez días anteriores al comienzo del uso del mismo. Con todo, este fuero del padre no podrá exceder de tres meses.
+Durante el período de embarazo y hasta un año después de expirado el descanso de maternidad, la trabajadora estará sujeta a lo dispuesto en el artículo 174.
 
-Tratándose de mujeres o de hombres solteros o viudos que manifiesten al tribunal su voluntad de adoptar un hijo en conformidad a las disposiciones de la ley Nº 19.620, el plazo de un año establecido en el inciso primero se contará desde la fecha en que el juez, mediante resolución dictada al efecto, confíe a estos trabajadores el cuidado personal del menor en conformidad al artículo 19 de la ley Nº 19.620 o bien le otorgue la tuición en los términos del inciso tercero del artículo 24 de la misma ley.
+Tratándose de mujeres o de hombres solteros o viudos que manifiesten al tribunal su voluntad de adoptar un hijo en conformidad a las disposiciones de la Ley de Adopción, el plazo de un año establecido en el inciso precedente se contará desde la fecha en que el juez, mediante resolución dictada al efecto, confíe a estos trabajadores el cuidado personal del menor en conformidad al artículo 19 de la Ley de Adopción o bien le otorgue la tuición en los términos del inciso tercero del artículo 24 de la misma ley.
 
 Sin perjuicio de lo antes indicado, cesará de pleno derecho el fuero establecido en el inciso precedente desde que se encuentre ejecutoriada la resolución del juez que decide poner término al cuidado personal del menor o bien aquella que deniegue la solicitud de adopción. Cesará también el fuero en el caso de que la sentencia que acoja la adopción sea dejada sin efecto en virtud de otra resolución judicial.
 
-Si por ignorancia del estado de embarazo o del cuidado personal o tuición de un menor en el plazo y condiciones indicados en el inciso segundo se hubiere dispuesto el término del contrato, en contravención a lo dispuesto en el artículo 174, la medida quedará sin efecto y la trabajadora volverá a su trabajo, para lo cual bastará la sola presentación del correspondiente certificado médico o de matrona, o bien de una copia autorizada de la resolución del tribunal que haya otorgado la tuición o cuidado personal del menor, en los términos del inciso segundo, según sea el caso, sin perjuicio del derecho a remuneración por el tiempo en que haya permanecido indebidamente fuera del trabajo, si durante ese tiempo no tuviere derecho a subsidio. La afectada deberá hacer efectivo este derecho dentro del plazo de 60 días hábiles contados desde el despido.
+Si por ignorancia del estado de embarazo o del cuidado personal o tuición de un menor en el plazo y condiciones indicados en el inciso segundo precedente, se hubiere dispuesto el término del contrato en contravención a lo dispuesto en el artículo 174, la medida quedará sin efecto, y la trabajadora volverá a su trabajo, para lo cual bastará la sola presentación del correspondiente certificado médico o de matrona, o bien de una copia autorizada de la resolución del tribunal que haya otorgado la tuición o cuidado personal del menor, en los términos del inciso segundo, según sea el caso, sin perjuicio del derecho a remuneración por el tiempo en que haya permanecido indebidamente fuera del trabajo, si durante ese tiempo no tuviere derecho a subsidio. La afectada deberá hacer efectivo este derecho dentro del plazo de 60 días hábiles contados desde el despido.
 
-No obstante lo dispuesto en el inciso primero, si el término del fuero se produjere mientras la mujer estuviere gozando del descanso maternal o permiso parental a que aluden los artículos 195, 196 y 197 bis, continuará percibiendo el subsidio mencionado en el artículo 198 hasta la conclusión del período de descanso o permiso. Para los efectos del subsidio de cesantía, si hubiere lugar a él, se entenderá que el contrato de trabajo expira en el momento en que dejó de percibir el subsidio maternal.
+No obstante lo dispuesto en el inciso primero, si el desafuero se produjere mientras la mujer estuviere gozando del descanso maternal a que aluden los artículos 195 y 196, aquélla continuará percibiendo el subsidio del artículo 198 hasta la conclusión del período de descanso. Para los efectos del subsidio de cesantía, si hubiere lugar a él, se entenderá que el contrato de trabajo expira en el momento en que dejó de percibir el subsidio maternal.
+
+Inciso suprimido.
 
 #### Artículo 202
 
@@ -3806,37 +2402,31 @@ d) se realice en horas extraordinarias de trabajo, y
 
 e) la autoridad competente declare inconveniente para el estado de gravidez.
 
-Igualmente, si durante el período de embarazo la autoridad declarara el estado de excepción constitucional de catástrofe, por calamidad pública, o una alerta sanitaria, con ocasión de una epidemia o pandemia a causa de una enfermedad contagiosa, el empleador deberá ofrecer a la trabajadora, durante el tiempo que dure el referido estado de excepción constitucional o la referida alerta sanitaria, la modalidad de trabajo a distancia o teletrabajo, de conformidad con el Capítulo IX del Título II del Libro I de este Código, sin reducción de remuneraciones, en la medida que la naturaleza de sus funciones lo permita y la trabajadora consienta en ello. Si la naturaleza de las funciones de la trabajadora no es compatible con la modalidad de trabajo a distancia o teletrabajo, el empleador, con acuerdo de ella y sin reducir sus remuneraciones, la destinará a labores que no requieran contacto con público o con terceros que no desempeñen funciones en el lugar de trabajo, siempre que ello sea posible y no importe menoscabo para la trabajadora. La obligación señalada será exigible por el tiempo que se extienda el estado de excepción constitucional de catástrofe, por calamidad pública, o la alerta sanitaria y en el territorio en el que la autoridad haya determinado su aplicación.
-
 #### Artículo 203
 
 Las empresas que ocupan veinte o más trabajadoras de cualquier edad o estado civil, deberán tener salas anexas e independientes del local de trabajo, en donde las mujeres puedan dar alimento a sus hijos menores de dos años y dejarlos mientras estén en el trabajo. Igual obligación corresponderá a los centros o complejos comerciales e industriales y de servicios administrados bajo una misma razón social o personalidad jurídica, cuyos establecimientos ocupen entre todos, veinte o más trabajadoras. El mayor gasto que signifique la sala cuna se entenderá común y deberán concurrir a él todos los establecimientos en la misma proporción de los demás gastos de ese carácter.
 
-Las salas cunas señaladas en el inciso anterior deberán contar con autorización de funcionamiento o reconocimiento oficial del Estado, ambos otorgados por el Ministerio de Educación.
+Las salas cunas deberán reunir las condiciones de higiene y seguridad que determine el reglamento.
 
-Con todo, los establecimientos de las empresas a que se refiere el inciso primero, y que se encuentren en una misma área geográfica, podrán, previa autorización del Ministerio de Educación, construir o habilitar y mantener servicios comunes de salas cunas para la atención de los niños de las trabajadoras de todos ellos.
+Con todo, los establecimientos de las empresas a que se refiere el inciso primero, y que se encuentren en una misma área geográfica, podrán, previo informe favorable de la Junta Nacional de Jardines Infantiles, construir o habilitar y mantener servicios comunes de salas cunas para la atención de los niños de las trabajadoras de todos ellos.
 
 En los períodos de vacaciones determinados por el Ministerio de Educación, los establecimientos educacionales podrán ser facilitados para ejercer las funciones de salas cunas. Para estos efectos, la Junta Nacional de Jardines Infantiles podrá celebrar convenios con el Servicio Nacional de la Mujer, las municipalidades u otras entidades públicas o privadas.
 
 Se entenderá que el empleador cumple con la obligación señalada en este artículo si paga los gastos de sala cuna directamente al establecimiento al que la mujer trabajadora lleve sus hijos menores de dos años.
 
-El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de funcionamiento o reconocimiento oficial del Ministerio de Educación.
+El empleador designará la sala cuna a que se refiere el inciso anterior, de entre aquellas que cuenten con la autorización de la Junta Nacional de Jardines Infantiles.
 
 INCISO SUPRIMIDO
 
 El empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso del menor al respectivo establecimiento.
 
-El trabajador o trabajadora a quienes, por sentencia judicial, se le haya confiado el cuidado personal del menor de dos años, tendrá los derechos establecidos en este artículo si éstos ya fueran exigibles a su empleador.
-
-Lo anterior se aplicará, además, si la madre fallece, salvo que el padre haya sido privado del cuidado personal por sentencia judicial.
-
 #### Artículo 204
 
-Derogado
+Cuando se trate de construir o transformar salas cunas, los propietarios de los establecimientos respectivos deberán someter previamente los planos a la aprobación de la comisión técnica del plan nacional de edificaciones escolares del Ministerio de Educación Pública.
 
 #### Artículo 205
 
-El mantenimiento de las salas cunas será de costo exclusivo del o los empleadores, quienes deberán tener una persona competente a cargo de la atención y cuidado de los niños, en los términos establecidos en las normas sobre autorización de funcionamiento o reconocimiento oficial, según corresponda.
+El mantenimiento de las salas cunas será de costo exclusivo del empleador, quien deberá tener una persona competente a cargo de la atención y cuidado de los niños, la que deberá estar, preferentemente, en posesión del certificado de auxiliar de enfermería otorgado por la autoridad competente.
 
 #### Artículo 206
 
@@ -3856,41 +2446,13 @@ El derecho a alimentar consagrado en el inciso primero, no podrá ser renunciado
 
 Tratándose de empresas que estén obligadas a lo preceptuado en el artículo 203, el período de tiempo a que se refiere el inciso primero se ampliará al necesario para el viaje de ida y vuelta de la madre para dar alimentos a sus hijos. En este caso, el empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso de la madre.
 
-En caso que el padre y la madre sean trabajadores, ambos podrán acordar que sea el padre quien ejerza el derecho. Esta decisión y cualquier modificación de la misma deberán ser comunicadas por escrito a ambos empleadores con a lo menos treinta días de anticipación, mediante instrumento firmado por el padre y la madre, con copia a la respectiva Inspección del Trabajo.
-
-Con todo, el padre trabajador ejercerá el referido derecho cuando tuviere la tuición del menor por sentencia judicial ejecutoriada, cuando la madre hubiere fallecido o estuviere imposibilitada de hacer uso de él.
-
-Asimismo, ejercerá este derecho la trabajadora o el trabajador al que se le haya otorgado judicialmente la tuición o el cuidado personal de conformidad con la ley Nº19.620 o como medida de protección de acuerdo con el número 2 del artículo 30 de la Ley de Menores. Este derecho se extenderá al cónyuge, en los mismos términos señalados en los incisos anteriores.
-
-#### Artículo 206 bis
-
-Si la autoridad declarare estado de excepción constitucional de catástrofe, por calamidad pública o una alerta sanitaria con ocasión de una epidemia o pandemia a causa de una enfermedad contagiosa, el empleador deberá ofrecer al trabajador que tenga el cuidado personal de al menos un niño o niña en etapa preescolar, la modalidad de trabajo a distancia o teletrabajo, regulada en el Capítulo IX del Título II del Libro I del presente Código, en la medida que la naturaleza de sus funciones lo permitiere, sin reducción de remuneraciones. Si ambos padres son trabajadores y tienen el cuidado personal de un niño o niña, cualquiera de ellos, a elección de la madre, podrá hacer uso de esta prerrogativa.
-
-Si la autoridad declarare estado de excepción constitucional de catástrofe, por calamidad pública, o una alerta sanitaria con ocasión de una epidemia o pandemia a causa de una enfermedad contagiosa, y adoptare medidas que impliquen el cierre de establecimientos de educación básica o impidan la asistencia a los mismos, el empleador deberá ofrecer al trabajador que tenga el cuidado personal de al menos un niño o niña menor de doce años, que se vea afectado por dichas circunstancias, la modalidad de trabajo a distancia o teletrabajo, en la medida que la naturaleza de sus funciones lo permitiere, sin reducción de remuneraciones. En este caso, el trabajador deberá entregar al empleador una declaración jurada de que dicho cuidado lo ejerce sin ayuda o concurrencia de otra persona adulta.
-
-Esta modalidad de trabajo se mantendrá vigente durante el período de tiempo en que se mantengan las circunstancias descritas anteriormente, salvo acuerdo de las partes.
-
-La misma regla del inciso primero se aplicará para aquellos trabajadores que tengan a su cuidado personas con discapacidad. Esta circunstancia deberá ser acreditada a través del respectivo certificado de inscripción en el Registro Nacional de la Discapacidad, conforme a lo dispuesto en la letra b) del artículo 56 de la ley N° 20.422, al que deberá acompañarse además la correspondiente copia del certificado, credencial o inscripción de discapacidad en el referido registro, emitido por la autoridad competente en los términos de los artículos 13 y 17, ambos de la citada ley, correspondientes a la persona cuyo cuidado tengan. Podrá asimismo acreditarse la discapacidad de esta última a través de la calidad de asignatario de pensión de invalidez de cualquier régimen previsional, conforme a los registros disponibles en el Sistema Nacional de Información de Seguridad y Salud en el Trabajo de la Superintendencia de Seguridad Social.
-
 #### Artículo 207
 
-Corresponde a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este Título, sin perjuicio de las atribuciones que en materia de fiscalización de establecimientos de educación parvularia le competen a la Superintendencia de Educación.
+Corresponde a la Junta Nacional de Jardines Infantiles y a la Dirección del Trabajo velar por el cumplimiento de las disposiciones de este título.
 
 Cualquiera persona puede denunciar ante estos organismos las infracciones de que tuviere conocimiento.
 
-Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refieren los respectivos derechos.
-
-#### Artículo 207 bis
-
-En el caso de contraer matrimonio o celebrar un acuerdo de unión civil, de conformidad con lo previsto en la ley Nº 20.830, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
-
-Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio o del acuerdo de unión civil y en los días inmediatamente anteriores o posteriores al de su celebración.
-
-El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio o de acuerdo de unión civil del Servicio de Registro Civil e Identificación.
-
-#### Artículo 207 ter
-
-Los derechos que correspondan a la madre trabajadora referidos a la protección a la maternidad regulados en este Título, serán aplicables a la madre o persona gestante, con independencia de su sexo registral por identidad de género. A su vez, los derechos que se otorgan al padre en el presente Título, también serán aplicables al progenitor no gestante.
+Las acciones y derechos provenientes de este título se extinguirán en el término de sesenta días contados desde la fecha de expiración del período a que se refiere el artículo 201.
 
 #### Artículo 208
 
@@ -3900,9 +2462,9 @@ En igual sanción incurrirán los empleadores por cuya culpa las instituciones q
 
 Sin perjuicio de la sanción anterior, será de cargo directo de dichos empleadores el pago de los subsidios que correspondieren a sus trabajadoras.
 
-La fiscalización del cumplimiento de las disposiciones de este artículo corresponderá a la Dirección del Trabajo , sin perjuicio de las atribuciones que en materia de fiscalización de establecimientos de educación parvularia le competen a la Superintendencia de Educación.
+Los recursos que se obtengan por la aplicación de este artículo, deberán ser traspasados por el Fisco a la Junta Nacional de Jardines Infantiles, dentro de los treinta días siguientes al respectivo ingreso.
 
-> **Nota.** El numeral 5 letra a, de la Ley 20832, Educación, publicada el 05.05.2015, eliminó el inciso penúltimo de este artículo.
+La fiscalización del cumplimiento de las disposiciones de este artículo corresponderá a la Dirección del Trabajo y a la Junta Nacional de Jardines Infantiles.
 
 ## Título III
 
@@ -3922,89 +2484,33 @@ Las empresas o entidades a que se refiere la ley N° 16.744, están obligadas a 
 
 El seguro de accidentes del trabajo y enfermedades profesionales se financia, en la forma que prescribe la ley N° 16.744, con una cotización básica general y una cotización adicional diferenciada en función de la actividad y riesgo de la empresa o entidad empleadora, ambas de cargo del empleador; y con el producto de las multas que apliquen los organismos administradores, las utilidades o rentas que produzcan la inversión de los fondos de reserva y con las cantidades que estos organismos obtengan por el ejercicio del derecho a repetir contra el empleador.
 
-## Título IV
-
-DE LA PREVENCIÓN, INVESTIGACIÓN Y SANCIÓN DEL ACOSO SEXUAL, LABORAL Y LA VIOLENCIA EN EL TRABAJO
-
-### Párrafo 1°
-
-De la prevención del acoso sexual, laboral y la violencia en el trabajo
+## Título IV — DE LA INVESTIGACION Y SANCION DEL ACOSO SEXUAL
 
 #### Artículo 211
 
-A.- Las trabajadoras y los trabajadores tienen derecho a que el empleador adopte e implemente las medidas destinadas a prevenir, investigar y sancionar las conductas de acoso sexual, laboral y la violencia en el lugar de trabajo.
-
-Los empleadores deberán elaborar y poner a disposición de las trabajadoras y de los trabajadores un protocolo de prevención del acoso sexual, laboral y violencia en el trabajo, a través de los organismos administradores de la ley N° 16.744.
-
-El protocolo al que hace referencia el inciso anterior incorporará, a lo menos, lo siguiente:
-
-a) La identificación de los peligros y la evaluación de los riesgos psicosociales asociados con el acoso sexual, laboral y violencia en el trabajo, con perspectiva de género.
-
-b) Las medidas para prevenir y controlar tales riesgos, con objetivos medibles, para controlar la eficacia de dichas medidas y velar por su mejoramiento y corrección continua.
-
-c) Las medidas para informar y capacitar adecuadamente a los trabajadores y a las trabajadoras sobre los riesgos identificados y evaluados, así como de las medidas de prevención y protección que deban adoptarse, con inclusión de los derechos y responsabilidades de los trabajadores y las trabajadoras y los de la propia empresa.
-
-d) Las medidas para prevenir el acoso sexual, laboral y violencia en el trabajo, conforme a la naturaleza de los servicios prestados y al funcionamiento del establecimiento o empresa.
-
-e) Las medidas de resguardo de la privacidad y la honra de todos los involucrados en los procedimientos de investigación de acoso sexual o laboral, y las medidas frente a denuncias inconsistentes en estas materias. Asimismo, deberá contener mecanismos de prevención, formación, educación y protección destinados a resguardar la debida actuación de las trabajadoras y de los trabajadores, independiente del resultado de la investigación en estos procedimientos.
-
-Con todo, las empleadoras y los empleadores tendrán el deber de informar semestralmente los canales que mantiene la empresa para la recepción de denuncias sobre incumplimientos relativos a la prevención, investigación y sanción del acoso sexual, laboral y la violencia en el trabajo, así como las instancias estatales para denunciar cualquier incumplimiento a la normativa laboral y para acceder a las prestaciones en materia de seguridad social.
-
-La Superintendencia de Seguridad Social, mediante una norma de carácter general, entregará las directrices que deberán contemplarse por parte de las entidades administradoras de la ley N° 16.744 en el ejercicio de la asistencia técnica a los empleadores en todas las materias contempladas en este artículo.
-
-### Párrafo 2°
-
-De la investigación y sanción del acoso sexual, laboral y la violencia en el trabajo
+A.- En caso de acoso sexual, la persona afectada deberá hacer llegar su reclamo por escrito a la dirección de la empresa, establecimiento o servicio o a la respectiva Inspección del Trabajo.
 
 #### Artículo 211
 
-B.- Los procedimientos de investigación regulados en este párrafo deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
+B.- Recibida la denuncia, el empleador deberá adoptar las medidas de resguardo necesarias respecto de los involucrados, tales como la separación de los espacios físicos o la redistribución del tiempo de jornada, considerando la gravedad de los hechos imputados y las posibilidades derivadas de las condiciones de trabajo.
 
-Un Reglamento dictado por el Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, establecerá las directrices a las que deberán ajustarse las investigaciones.
-
-#### Artículo 211
-
-B bis.- En caso de acoso sexual, laboral o violencia en el trabajo, la persona afectada deberá hacer llegar su denuncia por escrito o de manera verbal a la empresa, establecimiento o servicio, o a la respectiva Inspección del Trabajo. Si la denuncia es realizada verbalmente, la persona que la reciba deberá levantar un acta, la que será firmada por la persona denunciante. Una copia de ella deberá entregarse a la persona denunciante.
-
-Recibida la denuncia, el empleador deberá adoptar de manera inmediata las medidas de resguardo necesarias respecto de los involucrados. Para ello deberá considerar la gravedad de los hechos imputados, la seguridad de la persona denunciante y las posibilidades derivadas de las condiciones de trabajo. Entre otras, las medidas a adoptar considerarán la separación de los espacios físicos, la redistribución del tiempo de la jornada y proporcionar a la persona denunciante atención psicológica temprana, a través de los programas que dispone el organismo administrador respectivo de la ley N° 16.744.
-
-Si la denuncia es realizada ante la Inspección del Trabajo, ésta solicitará al empleador la adopción de una o más medidas de resguardo de las señaladas en el inciso anterior, en el plazo máximo de dos días hábiles, las que se deberán adoptar de manera inmediata, una vez que se notifiquen de conformidad con el artículo 508.
+En caso que la denuncia sea realizada ante la Inspección del Trabajo, ésta sugerirá a la brevedad la adopción de aquellas medidas al empleador.
 
 #### Artículo 211
 
-C.- Si la denuncia es presentada en la empresa, establecimiento o servicio, el empleador dispondrá la realización de una investigación interna de los hechos o, en el plazo de tres días, remitirá los antecedentes a la Inspección del Trabajo respectiva.
+C.- El empleador dispondrá la realización de una investigación interna de los hechos o, en el plazo de cinco días, remitirá los antecedentes a la Inspección del Trabajo respectiva.
 
-En cualquier caso, la investigación deberá concluirse en el plazo de treinta días.
+En cualquier caso la investigación deberá concluirse en el plazo de treinta días.
 
-Si se opta por una investigación interna, ésta deberá constar por escrito, ser llevada en estricta reserva y garantizar que ambas partes sean oídas y puedan fundamentar sus dichos. Una vez finalizada será remitida junto a las conclusiones a la Inspección del Trabajo respectiva, la cual tendrá un plazo de treinta días para pronunciarse sobre ésta. En caso de cumplirse el plazo referido y de no existir tal pronunciamiento, se considerarán válidas las conclusiones del informe, especialmente para efectos de adoptar medidas respecto de las personas afectadas.
-
-En el caso de las conductas establecidas en la letra c) del inciso segundo del artículo 2, las conclusiones contendrán las medidas correctivas que adoptará el empleador en relación con la causa que generó la denuncia.
-
-Las investigaciones a las que hace referencia el presente artículo deberán ajustarse siempre a las directrices establecidas en el Reglamento al que alude el artículo 211-B. Cuando éstas se realicen por el empleador deberá designar preferentemente a un trabajador o trabajadora que cuente con formación en materias de acoso, género o derechos fundamentales.
+Si se optare por una investigación interna, ésta deberá constar por escrito, ser llevada en estricta reserva, garantizando que ambas partes sean oídas y puedan fundamentar sus dichos, y las conclusiones deberán enviarse a la Inspección del Trabajo respectiva.
 
 #### Artículo 211
 
 D.- Las conclusiones de la investigación realizada por la Inspección del Trabajo o las observaciones de ésta a aquélla practicada en forma interna, serán puestas en conocimiento del empleador, el denunciante y el denunciado.
 
-Con todo, si la Inspección del Trabajo competente en el ejercicio de sus facultades toma conocimiento de una vulneración de derechos fundamentales deberá dar cumplimiento a lo dispuesto en el artículo 486, con excepción de lo consagrado en el inciso sexto respecto a las conductas establecidas en la letra a) del artículo 2.
-
 #### Artículo 211
 
-E.- En conformidad al mérito del informe de investigación en los casos de acoso sexual y laboral, el empleador deberá disponer y aplicar las medidas o sanciones que correspondan, dentro de los siguientes quince días contados desde su recepción.
-
-Las medidas o sanciones adoptadas serán informadas dentro del plazo anteriormente referido, tanto a la persona denunciante como a la denunciada.
-
-El empleador deberá, en los casos que corresponda, aplicar las sanciones conforme a lo establecido en las letras
-
-- **b)** o
-
-- **f)** del N° 1 del artículo 160. Con todo, en el caso de lo dispuesto en la letra
-
-- **f)** del N° 1 deberá evaluar la gravedad de los hechos investigados, lo que consignará en las conclusiones del informe.
-
-El trabajador despedido o la trabajadora despedida podrá impugnar dicha decisión ante el tribunal competente. Para ello deberá rendir en juicio las pruebas necesarias para desvirtuar los hechos o antecedentes contenidos en el informe del empleador o de la Inspección del Trabajo que motivaron el despido.
-
-Adicionalmente, el empleador estará obligado a entregar información a la persona denunciante respecto de los canales de denuncias de hechos que puedan constituir eventuales delitos en el contexto del acoso sexual, laboral o la violencia en el trabajo.
+E.- En conformidad al mérito del informe, el empleador deberá, dentro de los siguientes quince días, contados desde la recepción del mismo, disponer y aplicar las medidas o sanciones que correspondan.
 
 ## Título V
 
@@ -4024,7 +2530,7 @@ Asimismo, el empleador procurará que el trabajador que se ocupe en la manipulac
 
 #### Artículo 211
 
-H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 25 kilogramos. Esta carga será modificada en la medida que existan otros factores agravantes, caso en el cual, la manipulación deberá efectuarse en conformidad a lo dispuesto en el decreto supremo Nº 63, del Ministerio del Trabajo y Previsión Social, del año 2005, que aprueba reglamento para la aplicación de la ley Nº 20.001, que regula el peso máximo de carga humana, y en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
+H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 50 kilogramos.
 
 #### Artículo 211
 
@@ -4032,11 +2538,11 @@ I.- Se prohíbe las operaciones de carga y descarga manual para la mujer embaraz
 
 #### Artículo 211
 
-J.- Los menores de 18 años y las mujeres no podrán llevar, transportar, cargar, arrastrar ni empujar manualmente, y sin ayuda mecánica, cargas superiores a 20 kilogramos. Para estos trabajadores, el empleador deberá implementar medidas de seguridad y mitigación, tales como rotación de trabajadores, disminución de las alturas de levantamiento o aumento de la frecuencia con que se manipula la carga. El detalle de la implementación de dichas medidas estará contenido en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
+J.- Los menores de 18 años y mujeres no podrán llevar, transportar, cargar, arrastrar o empujar manualmente, y sin ayuda mecánica, cargas superiores a los 20 kilogramos.
 
 # Libro III
 
-DE LAS ORGANIZACIONES SINDICALES
+DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL
 
 ## Título I
 
@@ -4090,7 +2596,7 @@ Los funcionarios de las empresas del Estado dependientes del Ministerio de Defen
 
 #### Artículo 218
 
-Para los efectos de este Libro III serán ministros de fe, además de los inspectores del trabajo, los notarios públicos, los oficiales del Registro Civil y los funcionarios de la Administración del Estado que sean designados en calidad de tales por la Dirección del Trabajo y los secretarios municipales en localidades en que no existan otros ministros de fe disponibles.
+Para los efectos de este Libro III serán ministros de fe, además de los inspectores del trabajo, los notarios públicos, los oficiales del Registro Civil y los funcionarios de la Administración del Estado que sean designados en calidad de tales por la Dirección del Trabajo.
 
 Respecto al acto de constitución del sindicato, los trabajadores deberán decidir quién será el ministro de fe, eligiendo alguno de los señalados en el inciso anterior. En los demás casos en que la ley requiera genéricamente un ministro de fe, tendrán tal calidad los señalados en el inciso primero, y si ésta nada dispusiere, serán ministros de fe quienes el estatuto del sindicato determine.
 
@@ -4132,17 +2638,15 @@ DE LA CONSTITUCION DE LOS SINDICATOS
 
 #### Artículo 221
 
-La constitución de los sindicatos se efectuará en una asamblea que reúna los quórum a que se refieren los artículos 227 y 228 y deberá celebrarse ante un ministro de fe. Tratándose de la constitución de un sindicato interempresa, sólo podrán actuar como ministros de fe los inspectores del trabajo.
+La constitución de los sindicatos se efectuará en una asamblea que reúna los quórum a que se refieren los artículos 227 y 228 y deberá celebrarse ante un ministro de fe.
 
 En tal asamblea y en votación secreta se aprobarán los estatutos del sindicato y se procederá a elegir su directorio. De la asamblea se levantará acta, en la cual constarán las actuaciones indicadas en el inciso precedente, la nómina de los asistentes, y los nombres y apellidos de los miembros del directorio.
 
-Los trabajadores que concurran a la constitución de un sindicato de empresa o de establecimiento de empresa gozarán de fuero laboral desde los diez días anteriores a la celebración de la respectiva asamblea constitutiva y hasta treinta días de realizada. Este fuero no podrá exceder de cuarenta días.
+Los trabajadores que concurran a la constitución de un sindicato de empresa, de establecimiento de empresa o de un sindicato interempresa, gozan de fuero laboral desde los diez días anteriores a la celebración de la respectiva asamblea constitutiva y hasta treinta días de realizada. Este fuero no podrá exceder de 40 días.
 
-Los trabajadores que concurran a la constitución de un sindicato interempresa gozarán de fuero laboral desde que se formule la solicitud reservada de ministro de fe para la asamblea constitutiva y hasta treinta días después de realizada esta. La asamblea deberá verificarse dentro de los diez días siguientes a la solicitud de ministro de fe.
+Los trabajadores que constituyan un sindicato de trabajadores transitorios o eventuales, gozan del fuero a que se refiere el inciso anterior, hasta el día siguiente de la asamblea constitutiva y se les aplicará a su respecto, lo dispuesto en el inciso final del artículo 243. Este fuero no excederá de 15 días.
 
-Los trabajadores que constituyan un sindicato de trabajadores transitorios o eventuales, gozan del fuero a que se refiere el inciso tercero, hasta el día siguiente de la asamblea constitutiva y se les aplicará a su respecto, lo dispuesto en el inciso final del artículo 243. Este fuero no excederá de 15 días.
-
-Se aplicará a lo establecido en los incisos tercero, cuarto y quinto precedentes, lo dispuesto en el inciso tercero del artículo 238.
+Se aplicará a lo establecido en los dos incisos precedentes, lo dispuesto en el inciso tercero del artículo 238.
 
 #### Artículo 222
 
@@ -4190,7 +2694,7 @@ La constitución de un sindicato en una empresa que tenga más de cincuenta trab
 
 No obstante lo anterior, para constituir dicha organización sindical en aquellas empresas en las cuales no exista un sindicato vigente, se requerirá al menos de ocho trabajadores, debiendo completarse el quórum exigido en el inciso anterior, en el plazo máximo de un año, transcurrido el cual caducará su personalidad jurídica, por el solo ministerio de la ley, en el evento de no cumplirse con dicho requisito.
 
-Si la empresa tiene cincuenta trabajadores o menos, podrán constituir sindicato ocho de ellos, siempre que representen como mínimo el 50% del total de trabajadores. Si la empresa tiene un número impar de trabajadores, el porcentaje señalado se calculará sobre el número par inmediatamente anterior a aquel. En las empresas donde no exista sindicato, será aplicable lo dispuesto en el inciso anterior. Para efectos del cómputo del número total de trabajadores de la empresa, se descontarán aquellos impedidos de negociar colectivamente de acuerdo al artículo 305, sin perjuicio del derecho de estos trabajadores a afiliarse a una organización sindical.
+Si la empresa tiene cincuenta trabajadores o menos, podrán constituir sindicato ocho de ellos.
 
 Si la empresa tuviere más de un establecimiento, podrán también constituir sindicato los trabajadores de cada uno de ellos, con un mínimo de veinticinco trabajadores que representen, a lo menos, el treinta por ciento de los trabajadores de dicho establecimiento.
 
@@ -4202,17 +2706,7 @@ Para constituir un sindicato que no sea de aquellos a que se refiere el artícul
 
 #### Artículo 229
 
-Los trabajadores de una empresa que estén afiliados a un sindicato interempresa o de trabajadores eventuales o transitorios, elegirán uno o más delegados sindicales de acuerdo a las siguientes reglas: de ocho a cincuenta trabajadores elegirán un delegado sindical; de cincuenta y uno a setenta y cinco elegirán dos delegados sindicales, y si fueran setenta y seis o más trabajadores, elegirán tres delegados.
-
-Si entre los trabajadores de la empresa se hubieren elegido uno o más directores sindicales, estos cargos se rebajarán en igual proporción del número total de delegados sindicales que corresponda elegir en la respectiva empresa.
-
-Los delegados sindicales gozarán del fuero a que se refiere el artículo 243.
-
-Las elecciones de los delegados sindicales se realizarán en presencia de un ministro de fe y respecto de ellas se deberá hacer la comunicación a que se refiere el artículo 225, con copia a la Inspección del Trabajo respectiva.
-
-La alteración en el número de afiliados no modificará el número de delegados, el que deberá adecuarse en la próxima elección, sin perjuicio de informar a la Dirección del Trabajo sobre este hecho, a más tardar dentro del quinto día hábil de haberse producido la alteración.
-
-El mandato de los delegados durará el tiempo que señalen los estatutos, y si estos no lo regulan, tendrá la misma duración que el establecido para los directores sindicales.
+Los trabajadores de una empresa que estén afiliados a un sindicato interempresa o de trabajadores eventuales o transitorios, siempre que sean ocho o más y que no se hubiere elegido a uno de ellos como director del sindicato respectivo, podrán designar de entre ellos a un delegado sindical, el que gozará del fuero a que se refiere el artículo 243; si fueren veinticinco o más trabajadores, elegirán tres delegados sindicales. Con todo, si fueren 25 o más trabajadores y de entre ellos se hubiere elegido como director sindical a dos o uno de ellos, podrán elegir, respectivamente, uno o dos delegados sindicales. Los delegados sindicales gozarán del fuero a que se refiere el artículo 243.
 
 #### Artículo 230
 
@@ -4227,8 +2721,6 @@ DE LOS ESTATUTOS
 El estatuto del sindicato deberá contemplar los requisitos de afiliación, de desafiliación y los derechos y obligaciones de sus miembros, los requisitos para ser elegido dirigente sindical, los mecanismos de modificación del estatuto o de fusión del sindicato, el régimen disciplinario interno y la clase y denominación de sindicato que lo identifique, que no podrá sugerir el carácter de único o exclusivo.
 
 Las asambleas de socios serán ordinarias y extraordinarias. Las asambleas ordinarias se celebrarán con la frecuencia y en la oportunidad establecidas en los estatutos, y serán citadas por el presidente o quien los estatutos determinen. Las asambleas extraordinarias serán convocadas por el presidente o por el veinte por ciento de los socios.
-
-El estatuto deberá incorporar un mecanismo destinado a resguardar que el directorio esté integrado por directoras en una proporción no inferior a un tercio del total de sus integrantes con derecho al fuero y a las demás prerrogativas que establece este Código, o por la proporción de directoras que corresponda al porcentaje de afiliación de trabajadoras en el total de afiliados, en el caso de ser menor.
 
 El estatuto deberá disponer los resguardos para que los socios puedan ejercer su libertad de opinión y su derecho a votar. Podrá el estatuto, además, contener normas de ponderación del voto, cuando afilie a trabajadores no permanentes.
 
@@ -4324,7 +2816,7 @@ Derogado.
 
 #### Artículo 243
 
-Los directores sindicales gozarán del fuero laboral establecido en la legislación vigente desde la fecha de su elección y hasta seis meses después de haber cesado en el cargo, siempre que la cesación en él no se hubiere producido por censura de la asamblea sindical, por sanción aplicada por el tribunal competente en cuya virtud deba hacer abandono del cargo, por renuncia al sindicato o por término de la empresa. Asimismo, el fuero de los directores sindicales terminará cuando caduque la personalidad jurídica del sindicato por aplicación de lo dispuesto en el inciso tercero del artículo 223 o en el inciso segundo del artículo 227.
+Los directores sindicales gozarán del fuero laboral establecido en la legislación vigente, desde la fecha de su elección y hasta seis meses después de haber cesado en el cargo, siempre que la cesación en él no se hubiere producido por censura de la asamblea sindical, por sanción aplicada por el tribunal competente en cuya virtud deban hacer abandono del mismo, o por término de la empresa.
 
 Asimismo, durante el lapso a que se refiere el inciso precedente, el empleador no podrá, salvo caso fortuito o fuerza mayor, ejercer respecto de los directores sindicales las facultades que establece el artículo 12 de este Código.
 
@@ -4364,29 +2856,29 @@ Derogado.
 
 #### Artículo 249
 
-Los empleadores deberán conceder a los directores y delegados sindicales las horas de trabajo sindical necesarias para ausentarse de sus labores con el objeto de cumplir sus funciones fuera del lugar de trabajo, las que no podrán ser inferiores a seis horas semanales por cada director, ni a ocho tratándose de directores de organizaciones sindicales con 250 o más trabajadores.
+Los empleadores deberán conceder a los directores y delegados sindicales los permisos necesarios para ausentarse de sus labores con el objeto de cumplir sus funciones fuera del lugar de trabajo, los que no podrán ser inferiores a seis horas semanales por cada director, ni a ocho tratándose de directores de organizaciones sindicales con 250 o más trabajadores.
 
-El tiempo de las horas semanales de trabajo sindical será acumulable por cada director dentro del mes calendario correspondiente y cada director podrá ceder a uno o más de los restantes la totalidad o parte del tiempo que le correspondiere, previo aviso escrito al empleador.
+El tiempo de los permisos semanales será acumulable por cada director dentro del mes calendario correspondiente y cada director podrá ceder a uno o más de los restantes la totalidad o parte del tiempo que le correspondiere, previo aviso escrito al empleador.
 
 Con todo, podrá excederse el límite indicado en los incisos anteriores cuando se trate de citaciones practicadas a los directores o delegados sindicales, en su carácter de tales, por las autoridades públicas, las que deberán acreditarse debidamente si así lo exigiere el empleador. Tales horas no se considerarán dentro de aquellas a que se refieren los incisos anteriores.
 
-El tiempo que abarquen las horas de trabajo sindical otorgadas a directores o delegados para cumplir labores sindicales se entenderá trabajado para todos los efectos, siendo de cargo del sindicato respectivo el pago de las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador que puedan corresponder a aquéllos durante el tiempo de permiso.
+El tiempo que abarquen los permisos otorgados a directores o delegados para cumplir labores sindicales se entenderá trabajado para todos los efectos, siendo de cargo del sindicato respectivo el pago de las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador que puedan corresponder a aquéllos durante el tiempo de permiso.
 
-Las normas sobre horas de trabajo sindical y pago de remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador podrán ser objeto de negociación de las partes.
+Las normas sobre permiso y pago de remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador podrán ser objeto de negociación de las partes.
 
 #### Artículo 250
 
-Habrá derecho a las siguientes horas de trabajo sindical adicionales a las señaladas en el artículo anterior:
+Habrá derecho a los siguientes permisos sindicales adicionales a los señalados en el artículo anterior:
 
 a) Los directores sindicales, con acuerdo de la asamblea respectiva, adoptado en conformidad a sus estatutos, podrán, conservando su empleo, excusarse enteramente de su obligación de prestar servicios a su empleador siempre que sea por un lapso no inferior a seis meses y hasta la totalidad del tiempo que dure su mandato. Asimismo, el dirigente de un sindicato interempresa podrá excusarse por un lapso no superior a un mes con motivo de la negociación colectiva que tal sindicato efectúe.
 
-b) Los directores y delegados sindicales podrán también hacer uso de hasta tres semanas de horas de trabajo sindical en el año calendario para asistir a actividades destinadas a formación y capacitación sindical, en conformidad a los estatutos del sindicato.
+b) Podrán también, en conformidad a los estatutos del sindicato, los dirigentes y delegados sindicales hacer uso hasta de una semana de permiso en el año calendario, a fin de realizar actividades que sean necesarias o estimen indispensables para el cumplimiento de sus funciones de dirigentes, o para el perfeccionamiento en su calidad de tales.
 
 En los casos señalados en las letras precedentes, los directores o delegados sindicales comunicarán por escrito al empleador, con diez días de anticipación a lo menos, la circunstancia de que harán uso de estas franquicias.
 
 La obligación de conservar el empleo se entenderá cumplida si el empleador asigna al trabajador otro cargo de igual grado y remuneración al que anteriormente desempeñaba.
 
-Las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador, durante las horas de trabajo sindical a que se refiere este artículo y el siguiente, serán pagadas por la respectiva organización sindical, sin perjuicio del acuerdo a que puedan llegar las partes.
+Las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador, durante los permisos a que se refiere este artículo y el siguiente, serán pagadas por la respectiva organización sindical, sin perjuicio del acuerdo a que puedan llegar las partes.
 
 #### Artículo 251
 
@@ -4394,7 +2886,7 @@ No obstante lo dispuesto en el artículo anterior, los empleadores podrán conve
 
 #### Artículo 252
 
-El tiempo empleado en licencias y horas de trabajo sindical se entenderá como efectivamente trabajado para todos los efectos.
+El tiempo empleado en licencias y permisos sindicales se entenderá como efectivamente trabajado para todos los efectos.
 
 ## Capítulo V
 
@@ -4426,7 +2918,7 @@ Del patrimonio sindical
 
 #### Artículo 256
 
-El patrimonio del sindicato estarácompuesto por las cuotas o aportes ordinarios o extraordinarios que la asamblea imponga a sus asociados, con arreglo a los estatutos; por el aporte o cuota sindical ordinaria del exafiliado que se mantenga afecto al instrumento colectivo negociado por la organización, en los términos del inciso segundo del artículo 323; por la cuota sindical ordinaria de los no afiliados que hayan aceptado que se les aplique la extensión de beneficios de conformidad al inciso segundo del artículo 322; por las donaciones entre vivos o asignaciones por causa de muerte que se le hicieren; por el producto de sus bienes; por el producto de la venta de sus activos; por las multas cobradas a los asociados de conformidad a los estatutos, y por las demás fuentes que prevean los estatutos.
+El patrimonio del sindicato estará compuesto por las cuotas o aportes ordinarios o extraordinarios que la asamblea imponga a sus asociados, con arreglo a los estatutos; por el aporte de los adherentes a un instrumento colectivo y de aquellos a quienes se les hizo extensivo éste; por las donaciones entre vivos o asignaciones por causa de muerte que se le hicieren; por el producto de sus bienes; por el producto de la venta de sus activos; por las multas cobradas a los asociados de conformidad a los estatutos, y por las demás fuentes que prevean los estatutos.
 
 #### Artículo 257
 
@@ -4548,8 +3040,6 @@ Derogado.
 
 El número de directores de las federaciones y confederaciones, y las funciones asignadas a los respectivos cargos se establecerán en sus estatutos.
 
-Los estatutos de las federaciones y confederaciones deberán incorporar un mecanismo destinado a resguardar que sus directorios estén integrados por un número de directoras no inferior a un tercio del total de sus integrantes con derecho al fuero, horas de trabajo sindical y licencia del artículo 274, o por el número de directoras que corresponda al porcentaje de dirigentas que puedan ser electas de conformidad al artículo 273, en caso de ser menor.
-
 #### Artículo 273
 
 Para ser elegido director de una federación o confederación se requiere estar en posesión del cargo de director de alguna de las organizaciones afiliadas.
@@ -4560,9 +3050,9 @@ Todos los miembros del directorio de una federación o confederación mantendrá
 
 Los directores de las federaciones o confederaciones podrán excusarse de su obligación de prestar servicios a su empleador por todo o parte del período que dure su mandato y hasta un mes después de expirado éste, en cuyo caso se aplicará lo dispuesto en los incisos segundo y tercero del artículo 250.
 
-El director de una federación o confederación que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda diez horas semanales de horas de trabajo sindical para efectuar su labor sindical, acumulables dentro del mes calendario.
+El director de una federación o confederación que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda diez horas semanales de permiso para efectuar su labor sindical, acumulables dentro del mes calendario.
 
-El tiempo que abarquen las horas de trabajo sindical antes señaladas se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador por tales períodos serán de cuenta de la federación o confederación, sin perjuicio del acuerdo a que puedan llegar las partes.
+El tiempo que abarquen los permisos antes señalados se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador por tales períodos serán de cuenta de la federación o confederación, sin perjuicio del acuerdo a que puedan llegar las partes.
 
 #### Artículo 275
 
@@ -4591,8 +3081,6 @@ Los objetivos, estructura, funcionamiento y administración de las centrales sin
 Con todo, los estatutos deberán contemplar que la aprobación y reforma de los mismos, así como la elección del cuerpo directivo, deberán hacerse ante un ministro de fe, en votación secreta, garantizando la adecuada participación de las minorías. Los representantes de las organizaciones afiliadas votarán en proporción al número de sus asociados. La duración del directorio no podrá exceder de cuatro años.
 
 Los estatutos deberán, también, contemplar un mecanismo que permita la remoción de todos los miembros del directorio de la central, en los términos señalados en el artículo 244.
-
-Asimismo, los estatutos deberán incorporar un mecanismo destinado a resguardar que su cuerpo directivo esté integrado por un número de directoras no inferior al 30% del total de integrantes del directorio con derecho al fuero, inamovilidad funcionaria, horas de trabajo sindical y licencia del artículo 283.
 
 #### Artículo 279
 
@@ -4630,11 +3118,11 @@ Los integrantes del directorio de una central sindical que, al momento de su ele
 
 Los directores de las centrales sindicales podrán excusarse de su obligación de prestar servicios a su empleador por todo el período que dure su mandato y hasta un mes después de expirado éste, sin derecho a remuneración. Este período se considerará como efectivamente trabajado para todos los efectos legales y contractuales.
 
-El director de una central sindical que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda hasta veinticuatro horas semanales, acumulables dentro del mes calendario, de horas de trabajo sindical para efectuar su labor.
+El director de una central sindical que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda hasta veinticuatro horas semanales, acumulables dentro del mes calendario, de permisos para efectuar su labor sindical.
 
-El tiempo que abarquen las horas de trabajo sindical antes señaladas se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones por ese período serán de cargo de la central sindical.
+El tiempo que abarquen los permisos antes señalados se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones por ese período serán de cargo de la central sindical.
 
-Las normas sobre horas de trabajo sindical y remuneraciones podrán ser modificadas de común acuerdo por las partes, sólo en cuanto excedan de los montos establecidos en los incisos precedentes.
+Las normas sobre permisos y remuneraciones podrán ser modificadas de común acuerdo por las partes, sólo en cuanto excedan de los montos establecidos en los incisos precedentes.
 
 #### Artículo 284
 
@@ -4666,61 +3154,45 @@ En todo lo que no sea contrario a las normas especiales que las rigen, se aplica
 
 ## Capítulo IX
 
-DE LAS PRACTICAS ANTISINDICALES Y DE SU SANCION
+DE LAS PRACTICAS DESLEALES O ANTISINDICALES Y DE SU SANCION
 
 #### Artículo 289
 
-Serán consideradas prácticas antisindicales del empleador, las acciones que atenten contra la libertad sindical, entendiéndose por tales, entre otras, las siguientes:
+Serán consideradas prácticas desleales del empleador, las acciones que atenten contra la libertad sindical.
 
-a) Obstaculizar la formación o funcionamiento de sindicatos de trabajadores negándose injustificadamente a recibir a sus dirigentes, ejerciendo presiones mediante amenazas de pérdida del empleo o de beneficios, o del cierre de la empresa, establecimiento o faena, en caso de acordarse la constitución de un sindicato; ejecutar maliciosamente actos tendientes a alterar el quórum de un sindicato o despedir a trabajadores por haber manifestado su intención de sindicalizarse.
+Incurre especialmente en esta infracción:
 
-Las conductas a que alude esta letra se considerarán también prácticas desleales cuando se refieran a los Comités Paritarios de Higiene
+a) El que obstaculice la formación o funcionamiento de sindicatos de trabajadores negándose injustificadamente a recibir a sus dirigentes, ejerciendo presiones mediante amenazas de pérdida del empleo o de beneficios, o del cierre de la empresa, establecimiento o faena, en caso de acordarse la constitución de un sindicato; el que maliciosamente ejecutare actos tendientes a alterar el quórum de un sindicato.
 
-y Seguridad o a sus integrantes;
+Las conductas a que alude esta letra se considerarán también prácticas desleales cuando se refieran a los Comités Paritarios de Higiene y Seguridad o a sus integrantes;
 
-b) Negarse a proporcionar a los dirigentes del o de los sindicatos base la información a que se refieren los artículos 315 y 317;
+b) El que se niegue a proporcionar a los dirigentes del o de los sindicatos base la información a que se refieren los incisos quinto y sexto del artículo 315;
 
-c) Ofrecer u otorgar beneficios especiales que signifiquen desestimular la formación de un sindicato;
+c) El que ofrezca u otorgue beneficios especiales con el fin exclusivo de desestimular la formación de un sindicato;
 
-d) Realizar alguna de las acciones indicadas en las letras precedentes, a fin de evitar la afiliación de un trabajador a un sindicato ya existente;
+d) El que realice alguna de las acciones indicadas en las letras precedentes, a fin de evitar la afiliación de un trabajador a un sindicato ya existente;
 
-e) Ejecutar actos de injerencia sindical, tales como intervenir activamente en la organización de un sindicato; ejercer presiones conducentes a que los trabajadores ingresen a un sindicato determinado; discriminar entre los
+e) El que ejecute actos de injerencia sindical, tales como intervenir activamente en la organización de un sindicato; ejercer presiones conducentes a que los trabajadores ingresen a un sindicato determinado; discriminar entre los diversos sindicatos existentes otorgando a unos y no a otros, injusta y arbitrariamente, facilidades o concesiones extracontractuales; o condicionar la contratación de un trabajador a la firma de una solicitud de afiliación a un sindicato o de una autorización de descuento de cuotas sindicales por planillas de remuneraciones;
 
-diversos sindicatos existentes otorgando a unos y no a otros, injusta y arbitrariamente, facilidades o concesiones extracontractuales; o
+f) El que ejerza discriminaciones indebidas entre trabajadores con el fin exclusivo de incentivar o desestimular la afiliación o desafiliación sindical, y
 
-condicionar la contratación de un trabajador a la firma de una solicitud de afiliación a un sindicato o de una autorización de descuento de
-
-cuotas sindicales por planillas de remuneraciones;
-
-f) Negarse a reincorporar en sus funciones a un dirigente sindical aforado, frente al requerimiento de un fiscalizador de la Inspección del Trabajo, salvo que el tribunal respectivo haya decretado la separación provisional del trabajador de conformidad a lo establecido en el inciso segundo del artículo 174;
-
-g) Ejercer discriminaciones indebidas entre trabajadores que signifiquen incentivar o desestimular la afiliación o desafiliación sindical;
-
-h) Otorgar o convenir con trabajadores no afiliados a la organización u organizaciones que los hubieren negociado, los mismos beneficios pactados en un instrumento colectivo, salvo lo dispuesto en el inciso final del artículo 322 de este Código.
-
-No constituye práctica antisindical el o los acuerdos individuales entre el trabajador y el empleador sobre remuneraciones o sus incrementos que se funden en las capacidades, calificaciones, idoneidad, responsabilidad o productividad del trabajador, e
-
-i) No descontar o no integrar a la organización sindical respectiva las cuotas o aportes sindicales, ordinarios o extraordinarios, que corresponda pagar por los afiliados, o la cuota o aporte convenido en un acuerdo de extensión de conformidad al artículo 322, cuando este proceda.
+g) El que aplique las estipulaciones de un contrato o convenio colectivo a los trabajadores a que se refiere el artículo 346, sin efectuar el descuento o la entrega al sindicato de lo descontado según dicha norma dispone.
 
 #### Artículo 290
 
-Serán consideradas prácticas antisindicales del trabajador, de las organizaciones sindicales, o de éstos y del empleador en su caso, las acciones que atenten contra la libertad sindical, entendiéndose por tales, entre otras, las siguientes:
+Serán consideradas prácticas desleales del trabajador, de las organizaciones sindicales, o de éstos y del empleador en su caso, las acciones que atenten contra la libertad sindical.
 
-a) Acordar con el empleador la ejecución por parte de éste de alguna de las prácticas antisindicales atentatorias contra la libertad sindical en conformidad al artículo precedente y el que presione indebidamente al empleador para inducirlo a ejecutar tales actos;
+Incurre especialmente en esta infracción:
 
-b) Acordar con el empleador el despido de un trabajador u otra medida o discriminación indebida por no haber éste pagado multas, cuotas o deudas a un sindicato y el que de cualquier modo presione al empleador en tal sentido;
+a) El que acuerde con el empleador la ejecución por parte de éste de alguna de las prácticas desleales atentatorias contra la libertad sindical en conformidad al artículo precedente y el que presione indebidamente al empleador para inducirlo a ejecutar tales actos;
 
-c) Aplicar sanciones de multas o de expulsión de un afiliado por no haber acatado éste una decisión ilegal o por haber presentado
+b) El que acuerde con el empleador el despido de un trabajador u otra medida o discriminación indebida por no haber éste pagado multas, cuotas o deudas a un sindicato y el que de cualquier modo presione al empleador en tal sentido;
 
-cargos o dado testimonio en juicio, y los directores sindicales que se nieguen a dar curso a una queja o reclamo de un afiliado en represalia por sus críticas a la gestión de aquélla;
+c) Los que apliquen sanciones de multas o de expulsión de un afiliado por no haber acatado éste una decisión ilegal o por haber presentado cargos o dado testimonio en juicio, y los directores sindicales que se nieguen a dar curso a una queja o reclamo de un afiliado en represalia por sus críticas a la gestión de aquélla;
 
-d) Presionar al empleador a fin de imponerle la designación de un determinado representante, de un directivo u otro nombramiento importante para el procedimiento de negociación y el que se niegue a negociar con los representantes del empleador exigiendo su reemplazo o la
+d) El que de cualquier modo presione al empleador a fin de imponerle la designación de un determinado representante, de un directivo u otro nombramiento importante para el procedimiento de negociación y el que se niegue a negociar con los representantes del empleador exigiendo su reemplazo o la intervención personal de éste, y
 
-intervención personal de éste;
-
-e) Divulgar a terceros ajenos a la organización sindical los documentos o la información que hayan recibido del empleador y que tengan el carácter de confidencial o reservados, y
-
-f) Ejercer los derechos sindicales o fueros que establece este Código de mala fe o con abuso del derecho.
+e) Los miembros del directorio de la organización sindical que divulguen a terceros ajenos a éste los documentos o la información que hayan recibido del empleador y que tengan el carácter de confidencial o reservados.
 
 #### Artículo 291
 
@@ -4728,35 +3200,33 @@ Incurren, especialmente, en infracción que atenta contra la libertad sindical:
 
 a) Los que ejerzan fuerza física o moral en los trabajadores a fin de obtener su afiliación o desafiliación sindical o para que un trabajador se abstenga de pertenecer a un sindicato, y los que en igual forma impidan u obliguen a un trabajador a promover la formación de una organización sindical, y
 
-b) Los que por cualquier medio entorpezcan o impidan la libertad de opinión de los miembros de un sindicato, impidan el ingreso de los trabajadores a las asambleas o el ejercicio de su derecho a sufragio.
+b) Los que por cualquier medio entorpezcan o impidan la libertad de opinión de los miembros de un sindicato.
 
 #### Artículo 292
 
-- Las prácticas antisindicales serán sancionadas de la siguiente forma:
+Las prácticas antisindicales o desleales serán sancionadas con multas de diez a ciento cincuenta unidades tributarias mensuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción y la circunstancia de tratarse o no de una reiteración.
 
-1. En la micro empresa con multa de cinco a veinticinco unidades tributarias mensuales.
+Las multas a que se refiere el inciso anterior serán a beneficio del Servicio Nacional de Capacitación y Empleo.
 
-2. En la pequeña empresa con multa de diez a cincuenta unidades tributarias mensuales.
+El conocimiento y resolución de las infracciones por prácticas desleales o antisindicales corresponderá a los Juzgados de Letras del Trabajo.
 
-3. En la mediana empresa con multa de quince a ciento cincuenta unidades tributarias mensuales.
+La Inspección del Trabajo deberá denunciar al tribunal competente, los hechos que estime constitutivos de prácticas antisindicales o desleales de los cuales tome conocimiento, y acompañará a dicha denuncia, el informe de fiscalización correspondiente. Los hechos constatados de que dé cuenta dicho informe, constituirán presunción legal de veracidad, con arreglo al inciso final del artículo 23 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social.
 
-4. En la gran empresa con multa de veinte a trescientas unidades tributarias mensuales.
+Asimismo, la Inspección podrá hacerse parte en el juicio que por esta causa se entable.
 
-La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción y el número de trabajadores involucrados o afiliados a la organización sindical. En caso de reincidencia en las medianas y grandes empresas, se aplicará lo dispuesto en el inciso sexto del artículo 506 de este Código.
+Sin perjuicio de lo anterior, cualquier interesado podrá denunciar conductas antisindicales o desleales y hacerse parte en el proceso. Las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado.
 
-Las multas a que se refiere el inciso anterior serán a beneficio del Fondo de Formación Sindical y Relaciones Laborales Colaborativas, administrado por el Ministerio del Trabajo y Previsión Social.
+Recibida la denuncia, el juez citará a declarar al denunciado, ordenándole acompañar todos los antecedentes que estime necesarios para resolver. Citará también a la misma audiencia al denunciante y a los presuntamente afectados, para que expongan lo que estimen conveniente acerca de los hechos denunciados.
 
-El conocimiento y resolución de las infracciones por prácticas desleales o antisindicales se sustanciará conforme las normas establecidas en el Párrafo 6º, del Capítulo II, del Título I, del Libro V, del presente Código.
+La citación se efectuará por carta certificada, dirigida a los domicilios que figuren en el informe de fiscalización y se entenderá practicada en el plazo a que se refiere el artículo 478 bis.
 
-La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas antisindicales o desleales, de los cuales tome conocimiento.
+La referida audiencia deberá realizarse en una fecha no anterior al quinto ni posterior al décimo día siguiente a la fecha de la citación. Con el mérito del informe de fiscalización, de lo expuesto por los citados y de las demás pruebas acompañadas al proceso, las que apreciará en conciencia, el juez dictará sentencia en la misma audiencia o dentro de tercero día.
 
-Si la práctica antisindical hubiere implicado el despido de un trabajador respecto de quien se haya acreditado que se encuentra amparado por el fuero establecido en los artículos 221, 224, 229, 238, 243 y 309, el juez, en su primera resolución deberá disponer, de oficio o a petición de parte, la inmediata reincorporación del trabajador a sus labores y el pago de las remuneraciones y demás prestaciones derivadas de la relación laboral durante el período comprendido entre la fecha del despido y aquélla en que se materialice la reincorporación, todo ello, bajo apercibimiento de multa de cincuenta a cien unidades tributarias mensuales.
+Si la práctica antisindical hubiere implicado el despido de un trabajador respecto de quien se haya acreditado que se encuentra amparado por el fuero establecido en los artículos 221, 224, 229, 238, 243 y 309, el Juez, en su primera resolución dispondrá, de oficio o a petición de parte, la inmediata reincorporación del trabajador a sus labores, sin perjuicio de lo dispuesto en el inciso segundo del artículo 174, en lo pertinente.
 
-Para los efectos de dar cumplimiento a lo dispuesto en el inciso precedente, el tribunal señalará en la resolución que decrete la reincorporación el día y la hora en que ésta se deberá cumplir y el funcionario que la practicará, pudiendo encargar dicha diligencia a un funcionario de la Inspección del Trabajo designado por ésta. Asimismo, dispondrá que se acredite dentro de los cinco días siguientes a la reincorporación el pago de las remuneraciones y demás prestaciones adeudadas, aplicándose a este respecto la forma de establecer las remuneraciones a que se refiere el artículo 71.
+Si la sentencia da por establecida la práctica antisindical o desleal, además, dispondrá que se subsanen o enmienden los actos que constituyen dicha práctica; el pago de la multa a que se refiere este artículo, fijando su monto, y que se reincorpore en forma inmediata a los trabajadores sujetos a fuero laboral separados de sus funciones, si esto no se hubiere efectuado antes.
 
-En caso de negativa del empleador a dar cumplimiento cabal a la orden de reincorporación o ante una nueva separación o no pago oportuno y debido de las remuneraciones y demás prestaciones laborales, el tribunal, de oficio, hará efectivos los apercibimientos con que se hubiese decretado la medida de reincorporación, sin perjuicio de sustituir o repetir el apremio hasta obtener el cumplimiento íntegro de la medida decretada.
-
-Contra estas resoluciones no procederá recurso alguno.
+Copia de esta sentencia, deberá remitirse a la Dirección del Trabajo, para su registro.
 
 #### Artículo 293
 
@@ -4764,7 +3234,15 @@ Lo dispuesto en el artículo anterior es sin perjuicio de la responsabilidad pen
 
 #### Artículo 294
 
-- Si el despido o el término de la relación laboral de trabajadores no amparados por fuero laboral se realiza en represalia de su afiliación sindical, participación en actividades sindicales o negociación colectiva, el despido o el término de la relación laboral no producirá efecto alguno, aplicándose el artículo 489, con excepción de lo dispuesto en sus incisos tercero, cuarto y quinto.
+Si una o más de las prácticas antisindicales o desleales establecidas en este Libro o en el Título VIII del Libro IV, han implicado el despido de trabajadores no amparados por fuero laboral, éste no producirá efecto alguno.
+
+El trabajador deberá intentar la acción correspondiente dentro del plazo a que se refiere el artículo 168.
+
+El trabajador podrá optar entre la reincorporación decretada por el tribunal o el derecho a la indemnización establecida en el artículo 163, con el correspondiente recargo y, adicionalmente, a una indemnización que fijará el juez de la causa, la que no podrá ser inferior a tres meses ni superior a once meses de la última remuneración mensual.
+
+En caso de optar por la indemnización a que se refiere el inciso anterior, ésta será fijada incidentalmente por el tribunal que conozca de la causa.
+
+El juez de la causa, en estos procesos, deberá requerir el informe de fiscalización a que se refiere el inciso cuarto del artículo 292.
 
 #### Artículo 294 bis
 
@@ -4787,8 +3265,6 @@ La disolución de una organización sindical procederá por el acuerdo de la may
 #### Artículo 297
 
 También procederá la disolución de una organización sindical, por incumplimiento grave de las obligaciones que le impone la ley o por haber dejado de cumplir con los requisitos necesarios para su constitución, declarado por sentencia del Tribunal del Trabajo de la jurisdicción en que tenga su domicilio la respectiva organización, a solicitud fundada de la Dirección del Trabajo o por cualquiera de sus socios.
-
-El empleador podrá solicitar fundadamente a la Dirección del Trabajo que ejerza la acción señalada en el inciso primero.
 
 El Juez conocerá y fallará en única instancia, sin forma de juicio, con los antecedentes que proporcione en su presentación el solicitante, oyendo al directorio de la organización respectiva, o en su rebeldía. Si lo estima necesario abrirá un período de prueba de diez días, la que apreciará en conciencia. La sentencia deberá dictarse dentro de quince días desde que se haya notificado al presidente de la organización o a quien estatutariamente lo reemplace o desde el término del período probatorio.
 
@@ -4822,15 +3298,23 @@ Derogado.
 
 ## Título II
 
-DEL DELEGADO DEL PERSONAL Derogado.
+DEL DELEGADO DEL PERSONAL
 
 #### Artículo 302
 
-Derogado.
+En las empresas o establecimientos en que sea posible constituir uno o más sindicatos en conformidad a lo dispuesto en el artículo 227, podrán elegir un delegado del personal los trabajadores que no estuvieren afiliados a ningún sindicato, siempre que su número y porcentaje de representatividad les permita constituirlo de acuerdo con la disposición legal citada. En consecuencia, podrán existir uno o más delegados del personal, según determinen agruparse los propios trabajadores, y conforme al número y porcentaje de representatividad señalados.
+
+La función del delegado del personal será la de servir de nexo de comunicación entre el grupo de trabajadores que lo haya elegido y el empleador, como asimismo, con las personas que se desempeñen en los diversos niveles jerárquicos de la empresa o establecimiento. Podrá también representar a dichos trabajadores ante las autoridades del trabajo.
+
+El delegado del personal deberá reunir los requisitos que se exigen para ser director sindical; durará dos años en sus funciones; podrá ser reelegido indefinidamente y gozará del fuero a que se refiere el artículo 243.
+
+Los trabajadores que elijan un delegado del personal lo comunicarán por escrito al empleador y a la Inspección del Trabajo, acompañando una nómina con sus nombres completos y sus respectivas firmas. Dicha comunicación deberá hacerse en la forma y plazos establecidos en el artículo 225.
+
+Respecto del fuero de los delegados del personal contratados por plazo fijo o por obra o servicio determinado regirá la misma norma del artículo 243 inciso final.
 
 # Libro IV
 
-DE LA NEGOCIACIÓN COLECTIVA
+DE LA NEGOCIACION COLECTIVA
 
 ## Título I
 
@@ -4838,1115 +3322,1127 @@ NORMAS GENERALES
 
 #### Artículo 303
 
-Partes. Las partes deben negociar de buena fe, cumpliendo con las obligaciones y plazos previstos en las disposiciones siguientes, sin poner obstáculos que limiten las opciones de entendimiento entre ambas.
+Negociación colectiva es el procedimiento a través del cual uno o más empleadores se relacionan con una o más organizaciones sindicales o con trabajadores que se unan para tal efecto, o con unos y otros, con el objeto de establecer condiciones comunes de trabajo y de remuneraciones por un tiempo determinado, de acuerdo con las normas contenidas en los artículos siguientes.
 
-Para determinar si dos o más empresas deben ser consideradas como un solo empleador para efectos de la negociación colectiva, se estará a lo dispuesto en los incisos cuarto y siguientes del artículo 3°.
+La negociación colectiva que afecte a más de una empresa requerirá siempre acuerdo previo de las partes.
 
 #### Artículo 304
 
-Ámbito de aplicación. La negociación colectiva podrá tener lugar en las empresas del sector privado y en aquellas en las que el Estado tenga aportes, participación y representación.
+La negociación colectiva podrá tener lugar en las empresas del sector privado y en aquellas en las que el Estado tenga aportes, participación o representación.
 
-No existirá negociación colectiva en las empresas del Estado dependientes del Ministerio de Defensa Nacional o que se relacionen con el Gobierno a través de dicho Ministerio y en aquellas en que leyes especiales la prohíban.
+No existirá negociación colectiva en las empresas del Estado dependientes del Ministerio de Defensa Nacional o que se relacionen con el Supremo Gobierno a través de este Ministerio y en aquellas en que leyes especiales la prohíban.
 
-Tampoco podrá existir negociación colectiva en las empresas o instituciones públicas o privadas cuyos presupuestos, en cualquiera de los dos últimos años calendario, hayan sido financiadas en más del 50% por el Estado, directamente o a través de derechos o impuestos.
+Tampoco podrá existir negociación colectiva en las empresas o instituciones públicas o privadas cuyos presupuestos, en cualquiera de los dos últimos años calendario, hayan sido financiadas en más de un 50% por el Estado, directamente, o a través de derechos o impuestos.
 
-Lo dispuesto en el inciso anterior no tendrá lugar, sin embargo, respecto de los establecimientos educacionales particulares subvencionados en conformidad al decreto ley N°3.476, de 1980, y sus modificaciones, ni a los establecimientos de educación técnico-profesional administrados por corporaciones privadas conforme al decreto ley N° 3.166, de 1980.
+Lo dispuesto en el inciso anterior no tendrá lugar, sin embargo, respecto de los establecimientos educacionales particulares subvencionados en conformidad al decreto ley N.° 3.476, de 1980, y sus modificaciones, ni a los establecimientos educacionales técnico-profesional administrados por Corporaciones Privadas conforme al decreto ley N.° 3.166, de 1980.
 
-El Ministerio de Economía, Fomento y Turismo determinará las empresas en las que el Estado tenga aporte, participación o representación mayoritarios en que se deberá negociar por establecimiento, entendiéndose que dichas unidades tendrán el carácter de empresas para todos los efectos de este Código.
+El Ministerio de Economía, Fomento y Reconstrucción determinará las empresas en las que el Estado tenga aporte, participación o representación mayoritarios en que se deberá negociar por establecimiento, entendiéndose que dichas unidades tendrán el carácter de empresas para todos los efectos de este Código.
 
 #### Artículo 305
 
-Trabajadores impedidos de ejercer el derecho a negociar colectivamente, forma y reclamo de esta condición. No podrán negociar colectivamente los trabajadores que tengan facultades de representación del empleador y que estén dotados de facultades generales de administración, tales como gerentes y subgerentes. En la micro y pequeña empresa esta prohibición se aplicará también al personal de confianza que ejerza cargos superiores de mando.
+No podrán negociar colectivamente:
 
-De la circunstancia a que se refiere el inciso anterior deberá además dejarse constancia escrita en el contrato de trabajo y, a falta de esta estipulación, se entenderá que el trabajador está habilitado para negociar colectivamente.
+1. los trabajadores sujetos a contrato de aprendizaje y aquellos que se contraten exclusivamente para el desempeño en una determinada obra o faena transitoria o de temporada;
 
-El trabajador o el sindicato al que se encuentre afiliado podrán reclamar a la Inspección del Trabajo de la circunstancia hecha constar en su contrato, de no poder negociar colectivamente. La resolución de la Inspección del Trabajo podrá reclamarse judicialmente a través del procedimiento establecido en el artículo 504, dentro del plazo de quince días contado desde su notificación.
+2. los gerentes, subgerentes, agentes y apoderados, siempre que en todos estos casos estén dotados, a lo menos, de facultades generales de administración;
 
-Las micro, pequeñas y medianas empresas podrán excusarse de negociar colectivamente con los trabajadores sujetos a contrato de aprendizaje.
+3. las personas autorizadas para contratar o despedir trabajadores, y
+
+4. los trabajadores que de acuerdo con la organización interna de la empresa, ejerzan dentro de ella un cargo superior de mando e inspección, siempre que estén dotados de atribuciones decisorias sobre políticas y procesos productivos o de comercialización.
+
+De la circunstancia de no poder negociar colectivamente por encontrarse el trabajador en alguno de los casos señalados en los números 2, 3 y 4 deberá dejarse constancia escrita en el contrato de trabajo y, a falta de esta estipulación, se entenderá que el trabajador está habilitado para negociar colectivamente.
+
+Dentro del plazo de seis meses contados desde la suscripción del contrato, o de su modificación, cualquier trabajador de la empresa podrá reclamar a la Inspección del Trabajo de la atribución a un trabajador de algunas de las calidades señaladas en este artículo, con el fin de que se declare cuál es su exacta situación jurídica. De la resolución que dicho organismo dicte, podrá recurrirse ante el juez competente en el plazo de cinco días contados desde su notificación. El tribunal resolverá en única instancia, sin forma de juicio y previa audiencia de las partes.
+
+Los trabajadores a que se refiere este artículo, no podrán, asimismo, integrar comisiones negociadoras a menos que tengan la calidad de dirigentes sindicales.
 
 #### Artículo 306
 
-Materias de la negociación colectiva. Son materia de la negociación colectiva aquellas de interés común de las partes que afecten las relaciones mutuas entre trabajadores y empleadores, especialmente las que se refieran a remuneraciones u otros beneficios en especie o en dinero y, en general, a las condiciones comunes de trabajo.
+Son materias de negociación colectiva todas aquellas que se refieran a remuneraciones, u otros beneficios en especie o en dinero, y en general a las condiciones comunes de trabajo.
 
-Las negociaciones podrán incluir acuerdos para la conciliación del trabajo con las responsabilidades familiares, el ejercicio de la corresponsabilidad parental, planes de igualdad de oportunidades y equidad de género en la empresa, acciones positivas para corregir situaciones de desigualdad, acuerdos para la capacitación y reconversión productiva de los trabajadores, constitución y mantenimiento de servicios de bienestar, mecanismos de solución de controversias, entre otros.
-
-Adicionalmente, se podrán negociar los acuerdos de extensión previstos en el artículo 322 y los pactos sobre condiciones especiales de trabajo de que trata el Título VI de este Libro.
-
-No serán objeto de la negociación colectiva aquellas materias que restrinjan o limiten la facultad del empleador de organizar, dirigir y administrar la empresa y aquellas ajenas a la misma.
-
-La negociación colectiva en una empresa contratista o subcontratista no afectará las facultades de administración de la empresa principal, la que podrá ejecutar directamente o a través de un tercero la provisión de la obra o el servicio subcontratado que haya dejado de prestarse en caso de huelga.
+No serán objeto de negociación colectiva aquellas materias que restrinjan o limiten la facultad del empleador de organizar, dirigir y administrar la empresa y aquellas ajenas a la misma.
 
 #### Artículo 307
 
-Relación del trabajador con el contrato colectivo. Ningún trabajador podrá estar afecto a más de un contrato colectivo de trabajo celebrado con el mismo empleador de conformidad a las normas de este Código.
+Ningún trabajador podrá estar afecto a más de un contrato colectivo de trabajo celebrado con el mismo empleador de conformidad a las normas de este Código.
 
 #### Artículo 308
 
-Plazo mínimo para negociar colectivamente. Para negociar colectivamente en una micro y pequeña empresa, en una mediana empresa o en una gran empresa, se requerirá que hayan transcurrido, a lo menos, dieciocho, doce y seis meses, respectivamente, desde el inicio de sus actividades.
+Para negociar colectivamente dentro de una empresa, se requerirá que haya transcurrido a lo menos un año desde el inicio de sus actividades.
 
 #### Artículo 309
 
-Fuero de negociación colectiva. Los trabajadores afiliados a la organización nsindical involucrada en una negociación colectiva reglada gozarán del fuero establecido en la legislación vigente desde los diez días anteriores a la presentación de un proyecto de contrato colectivo hasta treinta días después de la suscripción de este último, o de la fecha de notificación a las partes del fallo arbitral que se hubiere dictado.
+Los trabajadores involucrados en una negociación colectiva gozarán del fuero establecido en la legislación vigente, desde los diez días anteriores a la presentación de un proyecto de contrato colectivo hasta treinta días después de la suscripción de este último, o de la fecha de notificación a las partes del fallo arbitral que se hubiere dictado.
 
-Igualmente, gozarán del fuero antes señalado los trabajadores que se afilien a la organización sindical durante el proceso de negociación colectiva a que se refiere el inciso anterior, a partir de la fecha en que se comunique la afiliación al empleador y hasta treinta días después de la suscripción del contrato colectivo o de la notificación del fallo arbitral, en su caso.
-
-Sin embargo, no se requerirá solicitar el desafuero de aquellos trabajadores con contrato a plazo fijo o por obra o faena, cuando dicho plazo, obra o faena expirare dentro del período a que se refieren los incisos anteriores.
+Sin embargo, no se requerirá solicitar el desafuero de aquellos trabajadores sujetos a plazo fijo, cuando dicho plazo expirare dentro del período a que se refiere el inciso anterior.
 
 #### Artículo 310
 
-Beneficios y afiliación sindical. Los trabajadores se regirán por el instrumento colectivo suscrito entre su empleador y la organización sindical a la que se encuentren afiliados mientras este se encuentre vigente, accediendo a los beneficios en él contemplados.
+El fuero a que se refiere el artículo anterior se extenderá por treinta días adicionales contados desde la terminación del procedimiento de negociación, respecto de los integrantes de la comisión negociadora que no estén acogidos al fuero sindical.
+
+Sin embargo, no se requerirá solicitar el desafuero de aquellos trabajadores sujetos a contrato a plazo fijo, cuando dicho plazo expirare dentro del período comprendido en el inciso anterior.
 
 #### Artículo 311
 
-Relación y efectos del instrumento colectivo con el contrato individual de trabajo y forma de modificación del instrumento colectivo. Las estipulaciones de un contrato individual de trabajo no podrán significar disminución de las remuneraciones, beneficios y derechos que correspondan al trabajador por aplicación del instrumento colectivo por el que esté regido.
-
-Las estipulaciones de los instrumentos colectivos reemplazarán en lo pertinente a las contenidas en los contratos individuales de los trabajadores que sean parte de aquellos.
-
-Las estipulaciones de un instrumento colectivo vigente sólo podrán modificarse mediante acuerdo entre el empleador y la o las organizaciones sindicales que lo hubieren suscrito.
+Las estipulaciones de un contrato individual de trabajo no podrán significar disminución de las remuneraciones, beneficios y derechos que correspondan al trabajador por aplicación del contrato, convenio colectivo o del fallo arbitral por el que esté regido.
 
 #### Artículo 312
 
-Plazos y su cómputo. Todos los plazos establecidos en este Libro son de días corridos, salvo los previstos para la mediación obligatoria del artículo 351.
-
-Con todo, cuando un plazo venciere en día sábado, domingo o festivo, se entenderá prorrogado hasta el día hábil siguiente.
+Cuando un plazo de días previsto en este Libro venciere en sábado, domingo o festivo, se entenderá prorrogado hasta el día siguiente hábil.
 
 #### Artículo 313
 
-Ministros de fe. Para los efectos previstos en este Libro IV, además de los inspectores del trabajo, serán ministros de fe los notarios públicos, los oficiales del registro Civil, los funcionarios de la Administración del Estado que sean designados en esa calidad por la Dirección del Trabajo y los secretarios municipales en localidades en que no existan otros ministros de fe disponibles.
+Para los efectos previstos en este Libro IV serán ministros de fe los inspectores del Trabajo, los notarios públicos, los oficiales del Registro Civil y los funcionarios de la Administración del Estado que sean designados en calidad de tales por la Dirección del Trabajo.
 
 #### Artículo 314
 
-Negociación no reglada. En cualquier momento y sin restricciones de ninguna naturaleza, podrán iniciarse entre uno o más empleadores y una o más organizaciones sindicales, negociaciones voluntarias, directas y sin sujeción a normas de procedimiento, para convenir condiciones comunes de trabajo y remuneraciones, por un tiempo determinado.
+Sin perjuicio del procedimiento de negociación colectiva reglada, en cualquier momento y sin restricciones de ninguna naturaleza, podrán iniciarse entre uno o más empleadores y una o más organizaciones sindicales, negociaciones directas y sin sujeción a normas de procedimiento para convenir condiciones comunes de trabajo y remuneraciones, por un tiempo determinado.
+
+Los sindicatos de trabajadores transitorios o eventuales podrán pactar con uno o más empleadores, condiciones comunes de trabajo y remuneraciones para determinadas obras o faenas transitorias o de temporada.
+
+#### Artículo 314 bis
+
+Sin perjuicio de lo dispuesto en el artículo anterior, tratándose de grupos de trabajadores que se unan para negociar, deberán observarse las siguientes normas mínimas de procedimiento:
+
+a) Deberá tratarse de grupos de ocho o más trabajadores.
+
+b) Los trabajadores serán representados por una comisión negociadora, de no menos de tres integrantes ni más de cinco, elegida por los involucrados en votación secreta celebrada ante un Inspector del Trabajo.
+
+c) El empleador estará obligado a dar respuesta a la presentación hecha por los trabajadores dentro del plazo de 15 días. Si así no lo hiciere, se aplicará la multa prevista en el artículo 477.
+
+d) La aprobación de la propuesta final del empleador deberá ser prestada por los trabajadores involucrados en votación secreta celebrada ante un inspector del Trabajo.
+
+Si se suscribiere un instrumento sin sujeción a estas normas mínimas de procedimiento, éste tendrá la naturaleza de contrato individual de trabajo y no producirá el efecto de un convenio colectivo.
+
+Con todo, si en una empresa se ha suscrito un convenio colectivo, ello no obstará para que los restantes trabajadores puedan presentar proyectos de contrato colectivo, de conformidad al artículo 317.
+
+#### Artículo 314 bis
+
+A. El sindicato que agrupe a trabajadores agrícolas de temporada, tendrá la facultad de presentar a el o a los respectivos empleadores, un proyecto de convenio colectivo al que deberán dar respuesta dentro del plazo de 15 días desde la recepción del respectivo proyecto de convenio.
+
+Si la respuesta antes indicada no se verifica, la Inspección del Trabajo a solicitud del sindicato, podrá apercibirlo dentro de los 5 días siguientes a la fecha de esta solicitud, a fin de que la respuesta sea entregada, bajo apercibimiento de la sanción prevista en el artículo 506. La respuesta negativa del empleador, sólo habilita al sindicato para presentar un nuevo proyecto en la siguiente temporada.
+
+La negociación directa deberá finalizar, con una antelación no inferior a 30 días al de inicio de las labores agrícolas de temporada.
+
+#### Artículo 314 bis
+
+B. Se podrán convenir en la negociación a que se refiere el artículo anterior, normas comunes de trabajo y remuneraciones incluyéndose especialmente entre aquéllas, las relativas a prevención de riesgos, higiene y seguridad; distribución de la jornada de trabajo; normas sobre alimentación, traslado, habitación y salas cunas.
+
+Será también objeto especial de esta negociación:
+
+a) Acordar normas sobre remuneraciones mínimas, que regirán para los trabajadores afiliados al sindicato, y
+
+b) Pactar las formas y modalidades bajo las cuales se cumplirán las condiciones de trabajo y empleo convenidas.
+
+Podrá también, si lo acordaren las partes, pactarse la contratación futura de un número o porcentaje de los trabajadores involucrados en la negociación.
+
+Las estipulaciones de estos convenios, se tendrán como parte integrante de los contratos individuales que se celebren durante su vigencia con quienes se encuentren afiliados al sindicato y tendrán el plazo de duración que le fijen las partes, que no podrá ser inferior a la respectiva temporada.
+
+#### Artículo 314 bis
+
+C. Las negociaciones de que tratan los artículos 314, 314 bis, 314 bis A y 314 bis B no se sujetarán a las normas procesales previstas para la negociación colectiva reglada, ni darán lugar a los derechos, prerrogativas y obligaciones que para ésta se señalan en este Código.
+
+Los instrumentos colectivos que se suscriban se denominarán convenios colectivos y tendrán los mismos efectos que los contratos colectivos, sin perjuicio de las normas especiales a que se refiere el artículo 351.
 
 ## Título II
 
-DERECHO A INFORMACIÓN DE LAS ORGANIZACIONES SINDICALES
+DE LA PRESENTACION Y TRAMITACION DEL PROYECTO DE CONTRATO COLECTIVO
+
+## Capítulo I
+
+DE LA PRESENTACION HECHA POR SINDICATOS DE EMPRESA O GRUPOS DE TRABAJADORES
 
 #### Artículo 315
 
-Derecho de información periódica en las grandes empresas. Las grandes empresas deberán entregar anualmente a los sindicatos de empresa constituidos en ellas, el balance general, el estado de resultados y los estados financieros auditados, si los tuvieren, dentro del plazo de treinta días contado desde que estos documentos se encuentren disponibles.
+La negociación colectiva se iniciará con la presentación de un proyecto de contrato colectivo por parte del o los sindicatos o grupos negociadores de la respectiva empresa.
 
-Asimismo, deberán entregar toda otra información de carácter público que conforme a la legislación vigente estén obligadas a poner a disposición de la Superintendencia de Valores y Seguros. Esta información deberá ser entregada dentro del plazo de treinta días contado desde que se haya puesto a disposición de la referida Superintendencia.
+Todo sindicato de empresa o de un establecimiento de ella, podrá presentar un proyecto de contrato colectivo.
 
-Respecto de los nuevos sindicatos de empresa que se constituyan, la información indicada en este artículo será entregada dentro del plazo de treinta días contado a partir de la comunicación señalada en el inciso primero del artículo 225 de este Código.
+Podrán presentar proyectos de contrato colectivo en una empresa o en un establecimiento de ella, los grupos de trabajadores que reúnan, a lo menos, los mismos quórum y porcentajes requeridos para la constitución de un sindicato de empresa o el de un establecimiento de ella. Estos quórum y porcentajes se entenderán referidos al total de los trabajadores facultados para negociar colectivamente, que laboren en la empresa o predio o en el establecimiento, según el caso.
+
+Todas las negociaciones entre un empleador y los distintos sindicatos de empresa o grupos de trabajadores, deberán tener lugar durante un mismo período, salvo acuerdo de las partes. Se entenderá que lo hay si el empleador no hiciese uso de la facultad señalada en el artículo 318.
+
+Todo sindicato o grupo negociador de empresa podrá solicitar del empleador dentro de los tres meses anteriores a la fecha de vencimiento del contrato colectivo vigente, los antecedentes indispensables para preparar el proyecto de contrato colectivo. Para el empleador será obligatorio entregar, a lo menos, los balances de los dos años inmediatamente anteriores, salvo que la empresa tuviere una existencia menor, en cuyo caso la obligación se reducirá al tiempo de existencia de ella; la información financiera necesaria para la confección del proyecto referida a los meses del año en ejercicio y los costos globales de mano de obra del mismo período. Asimismo, el empleador entregará la información pertinente que incida en la política futura de inversiones de la empresa, siempre que no sea considerada por aquél como confidencial.
+
+Si en la empresa no existiere contrato colectivo vigente, tales antecedentes pueden ser solicitados en cualquier momento.
 
 #### Artículo 316
 
-Derecho de información específica para la negociación colectiva. Las empresas estarán obligadas a proporcionar a los sindicatos que tengan derecho a negociar en ellas, la información específica y necesaria para preparar sus negociaciones colectivas.
+Cada predio agrícola se considerará como una empresa para los efectos de este Libro. También se considerarán como una sola empresa los predios colindantes explotados por un mismo empleador.
 
-A requerimiento de las organizaciones sindicales que lo soliciten, dentro de los noventa días previos al vencimiento del instrumento colectivo vigente, las grandes y medianas empresas deberán entregar, a lo menos, la siguiente información:
+Tratándose de empleadores que sean personas jurídicas y que dentro de su giro comprendan la explotación de predios agrícolas, los trabajadores de los predios comprendidos en ella podrán negociar conjuntamente con los otros trabajadores de la empresa.
 
-a) Planilla de remuneraciones pagadas a los trabajadores afiliados a la organización requirente, desagregada por haberes y con el detalle de fecha de ingreso a la empresa y cargo o función desempeñada.
-
-b) Valor actualizado de todos los beneficios que forman parte del instrumento colectivo vigente.
-
-c) Los costos globales de mano de obra de la empresa de los dos últimos años. Si existiere contrato colectivo vigente y éste hubiere sido celebrado con duración superior a dos años, se
-
-deberán entregar los costos globales del período de duración del contrato.
-
-d) Toda la información periódica referida en los artículos 315 y 318 que no haya sido entregada oportunamente a los sindicatos de empresa, cuando corresponda.
-
-e) Información que incida en la política futura de inversiones de la empresa que no tenga, a juicio del empleador, carácter de confidencial.
-
-Los sindicatos con derecho a negociar en las micro y pequeñas empresas sólo podrán solicitar, dentro de los noventa días previos al vencimiento del instrumento colectivo vigente,
-
-las planillas de remuneraciones pagadas a sus socios, desagregadas por haberes y la información específica señalada en los literales b) y c) del inciso segundo de este artículo.
-
-La información relativa a la planilla de remuneraciones de los trabajadores involucrados
-
-en la negociación podrá ser solicitada por las organizaciones sindicales que hayan sido autorizadas expresamente en sus estatutos o cuando su entrega haya sido autorizada expresamente por cada trabajador.
-
-En el evento de que no exista instrumento colectivo vigente, el requerimiento de información podrá hacerse en cualquier época.
-
-Las empresas señaladas en este artículo dispondrán del plazo de treinta días para hacer entrega de la información solicitada por el sindicato, contado desde su requerimiento.
-
-La comisión negociadora que represente a un grupo negociador tendrá derecho a solicitar al
-
-empleador la información específica para la negociación establecida en las letras a) y b) de
-
-este artículo, respecto de los trabajadores que represente y previa autorización de estos. Esta
-
-información deberá entregarse en el plazo de cinco días.
+Para los efectos de este artículo, se entiende por predios agrícolas tanto los destinados a las actividades agrícolas en general, como los forestales, frutícolas, ganaderos u otros análogos.
 
 #### Artículo 317
 
-Derecho de información por cargos o funciones de los trabajadores en las grandes y medianas empresas. Los sindicatos de empresa podrán una vez en cada año calendario solicitar a las grandes empresas, información sobre remuneraciones asignadas a trabajadores de los diversos cargos o funciones de la empresa que se encuentren contenidas en el registro a que se refiere el numeral 6) del artículo 154 de este Código.
+En las empresas en que no existiere contrato colectivo anterior, los trabajadores podrán presentar al empleador un proyecto de contrato colectivo en el momento que lo estimen conveniente.
 
-La información deberá entregarse innominadamente, dentro de los treinta días siguientes a la fecha en que haya sido requerida.
+No podrán, sin embargo, presentarlo en uno o más períodos que, cubriendo en su conjunto un plazo máximo de sesenta días en el año calendario, el empleador haya declarado no aptos para iniciar negociaciones.
 
-En el caso de las empresas medianas, sus sindicatos podrán hacer este requerimiento sólo como información previa a la negociación.
+Dicha declaración deberá hacerse en el mes de junio, antes de la presentación de un proyecto de contrato y cubrirá el período comprendido por los doce meses calendario siguientes a aquél.
 
-La información deberá ser entregada por la empresa siempre que cuente con cinco o más trabajadores en cada cargo o función, se asegure la reserva de la información individual de cada trabajador y no infrinja lo dispuesto en el artículo 154 bis de este Código.
+La declaración deberá comunicarse por escrito a la Inspección del Trabajo y a los trabajadores.
 
 #### Artículo 318
 
-Derecho de información periódica en la micro, pequeña y mediana empresa. Las micro, pequeñas y medianas empresas proporcionarán anualmente a los sindicatos de empresa constituidos en ellas, la información sobre sus ingresos y egresos que, de acuerdo al régimen tributario al que se encuentren acogidas, declaren ante el Servicio de Impuestos Internos para efectos del impuesto a la renta. Esta información deberá ser entregada dentro de los treinta días siguientes a la declaración anual de impuesto a la renta que efectúe la empresa.
+Dentro de los cinco días siguientes de recibido el proyecto de contrato colectivo, el empleador podrá comunicar tal circunstancia a todos los demás trabajadores de la empresa y a la Inspección del Trabajo.
 
 #### Artículo 319
 
-Derecho a requerir información por vía administrativa y judicial. Si el empleador no cumple con entregar la información en la forma y plazos previstos en los artículos anteriores, el o los sindicatos afectados podrán solicitar a la Inspección del Trabajo que requiera al empleador para su entrega.
+Si el empleador no efectuare Tal comunicación, deberá negociar con quienes hubieren presentado el proyecto.
 
-En caso de no prosperar la gestión administrativa, el o los sindicatos afectados podrán recurrir al tribunal laboral de conformidad a lo establecido en el artículo 504 de este Código.
+En este evento, los demás trabajadores mantendrán su derecho a presentar proyectos de contratos colectivos en cualquier tiempo, en las condiciones establecidas en este Código.
 
-El tribunal, previa revisión de los antecedentes, ordenará en la primera resolución que el empleador haga entrega de la información, bajo apercibimiento legal.
-
-## Título III
-
-DE LOS INSTRUMENTOS COLECTIVOS Y DE LA TITULARIDAD SINDICAL
+En este caso, regirá lo dispuesto en este artículo y en el precedente.
 
 #### Artículo 320
 
-Instrumento colectivo. Instrumento colectivo es la convención celebrada entre empleadores y trabajadores con el objeto de establecer condiciones comunes de trabajo y remuneraciones u otros beneficios en especie o en dinero, por un tiempo determinado, de conformidad a las reglas previstas en este Libro.
+El empleador deberá comunicar a todos los demás trabajadores de la empresa la circunstancia de haberse presentado un proyecto de contrato colectivo y éstos tendrán un plazo de treinta días contados desde la fecha de la comunicación para presentar proyectos en la forma y condiciones establecidas en este Libro o adherir al proyecto presentado.
 
-El laudo o fallo arbitral dictado según las normas de los artículos 385 y siguientes de
-
-este Código también constituye un instrumento colectivo.
-
-Los instrumentos colectivos deberán constar por escrito y registrarse en la Inspección del Trabajo dentro de los cinco días siguientes a su suscripción.
+El último día del plazo establecido en el inciso anterior se entenderá como fecha de presentación de todos los proyectos, para los efectos del cómputo de los plazos que establece este Libro, destinados a dar respuesta e iniciar las negociaciones.
 
 #### Artículo 321
 
-Instrumentos colectivos y su contenido. Todo instrumento colectivo deberá contener, a lo menos, las siguientes menciones:
-
-1. La determinación precisa de las partes a quienes afecte.
-
-2. Las normas sobre remuneraciones, beneficios, condiciones de trabajo y demás estipulaciones que se hayan acordado, especificándolas detalladamente.
-
-3. El período de vigencia.
-
-4. El acuerdo de extensión de beneficios o la referencia de no haberse alcanzado dicho acuerdo.
-
-Adicionalmente, podrá contener la constitución de una comisión bipartita para la implementación y seguimiento del cumplimiento del instrumento colectivo o mecanismos de resolución de las controversias.
+Los trabajadores de aquellas empresas que señala el artículo 317 que no hubieren presentado un proyecto de contrato colectivo, no obstante habérseles practicado la comunicación señalada en el artículo 318, sólo podrán presentar proyectos de contrato de acuerdo con las normas del artículo siguiente.
 
 #### Artículo 322
 
-Aplicación de las estipulaciones de un instrumento colectivo. La comunicación al empleador deberá realizarse por escrito al correo electrónico designado por este y enviarse copia de la misma a la Inspección del Trabajo.
+En las empresas en que existiere contrato colectivo vigente, la presentación del proyecto deberá efectuarse no antes de cuarenta y cinco días ni después de cuarenta días anteriores a la fecha de vencimiento de dicho contrato.
 
-Las partes de un instrumento colectivo podrán acordar la aplicación general o parcial de sus estipulaciones a todos o parte de los trabajadores de la empresa o establecimiento de empresa sin afiliación sindical. En el caso antes señalado, para acceder a los beneficios dichos trabajadores deberán aceptar la extensión y obligarse a pagar todo o parte de la cuota ordinaria de la organización sindical, según lo establezca el acuerdo.
+Los trabajadores que ingresen a la empresa donde hubiere contrato colectivo vigente y que tengan derecho a negociar colectivamente, podrán presentar un proyecto de contrato después de transcurridos seis meses desde la fecha de su ingreso, a menos que el empleador les hubiere extendido, en su totalidad, las estipulaciones del contrato colectivo respectivo. La duración de estos contratos, será lo que reste al plazo de dos años contados desde la fecha de celebración del último contrato colectivo que se encuentre vigente en la empresa, cualquiera que sea la duración efectiva de éste. No obstante, los trabajadores podrán elegir como fecha de inicio de dicha duración el de la celebración de un contrato colectivo anterior, con tal que éste se encuentre vigente.
 
-El acuerdo de extensión de que trata el inciso anterior deberá fijar criterios objetivos, generales y no arbitrarios para extender los beneficios a trabajadores sin afiliación sindical.
+Los trabajadores que no participaren en los contratos colectivos que se celebren y aquellos a los que, habiendo ingresado a la empresa con posterioridad a su celebración, el empleador les hubiere extendido en su totalidad el contrato respectivo, podrán presentar proyectos de contrato colectivo al vencimiento del plazo de dos años de celebrado el último contrato colectivo, cualquiera que sea la duración efectiva de éste y, en todo caso, con la antelación indicada en el inciso primero, salvo acuerdo de las partes de negociar antes de esa oportunidad, entendiéndose que lo hay cuando el empleador dé respuesta al proyecto respectivo, de acuerdo con el artículo 329.
 
-Sin perjuicio de lo anterior, el empleador podrá aplicar a todos los trabajadores de la empresa las cláusulas pactadas de reajuste de remuneraciones conforme a la variación del Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el que haga sus veces, siempre que dicho reajuste se haya contemplado en su respuesta al proyecto de contrato colectivo.
+No obstante lo dispuesto en el inciso primero, las partes de común acuerdo podrán postergar hasta por sesenta días, y por una sola vez en cada período, la fecha en que les corresponda negociar colectivamente y deberán al mismo tiempo fijar la fecha de la futura negociación. De todo ello deberá dejarse constancia escrita y remitirse copia del acuerdo a la Inspección del Trabajo respectiva. La negociación que así se postergare se sujetará íntegramente al procedimiento señalado en este Libro y habilitará a las partes para el ejercicio de todos los derechos, prerrogativas e instancias que en éste se contemplan.
 
 #### Artículo 323
 
-Derecho a la libre afiliación y vinculación del trabajador con el instrumento colectivo. El trabajador podrá afiliarse y desafiliarse libremente de cualquier sindicato.
+Los sindicatos podrán admitir, por acuerdo de su directiva, que trabajadores no afiliados adhieran a la presentación del proyecto de contrato colectivo que realice la respectiva organización.
 
-No obstante el cambio de afiliación sindical o desafiliación, el trabajador se mantendrá afecto al instrumento colectivo negociado por el sindicato al que pertenecía y que estuviere vigente, debiendo pagar el total de la cuota mensual ordinaria de ese sindicato durante toda la vigencia de dicho instrumento colectivo. Al término de la vigencia del instrumento colectivo del sindicato al que estaba afiliado, el trabajador pasará a estar afecto al instrumento colectivo del sindicato al que se hubiere afiliado, de existir este.
-
-Una vez iniciada la negociación colectiva, los trabajadores involucrados permanecerán afectos a esta, así como al instrumento colectivo a que dicha negociación diere lugar.
+La adhesión del trabajador al proyecto de contrato colectivo lo habilitará para ejercer todos los derechos y lo sujetará a todas las obligaciones que la ley reconoce a los socios del sindicato, dentro del procedimiento de negociación colectiva. En caso alguno podrá establecerse discriminación entre los socios del sindicato y los trabajadores adherentes.
 
 #### Artículo 324
 
-Duración y vigencia de los instrumentos colectivos. Los contratos colectivos, los acuerdos de grupo negociador y los fallos arbitrales tendrán una duración no inferior a dos años ni superior a tres.
+Copia del proyecto de contrato colectivo presentado por los trabajadores, firmada por el empleador para acreditar que ha sido recibido por éste, deberá entregarse a la Inspección del Trabajo respectiva, dentro de los cinco días siguientes a su presentación.
 
-La vigencia de los contratos colectivos se contará a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o fallo arbitral anterior. De no existir instrumento colectivo anterior, la vigencia se contará a partir del día siguiente al de su suscripción.
-
-Con todo, si se hubiere hecho efectiva la huelga, el contrato que se celebre con posterioridad o el fallo arbitral que se dicte, en su caso, sólo tendrán vigencia a contar de la fecha de suscripción del contrato, de constitución del compromiso o de la notificación de la resolución que ordena la reanudación de faenas, sin perjuicio de que su duración se cuente a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o del fallo arbitral anterior, o del cuadragésimo quinto día contado desde la presentación del respectivo proyecto, según corresponda.
-
-Por su parte, los convenios colectivos podrán tener la duración que las partes definan, pero en ningún caso podrá ser superior a tres años.
+Si el empleador se negare a firmar dicha copia, los trabajadores podrán requerir a la Inspección del Trabajo, dentro de los tres días siguientes al vencimiento del plazo señalado en el inciso anterior, para que le notifique el proyecto de contrato. Se entenderá para estos efectos por empleador a las personas a quienes se refiere el artículo 4.° de este Código.
 
 #### Artículo 325
 
-Ultraactividad de un instrumento colectivo. Extinguido el instrumento colectivo, sus cláusulas subsistirán como integrantes de los contratos individuales de los respectivos trabajadores afectos, salvo las que se refieren a la reajustabilidad pactada tanto de las remuneraciones como de los demás beneficios convenidos en dinero, los incrementos reales pactados, así como los derechos y obligaciones que sólo pueden ejercerse o cumplirse colectivamente y los pactos sobre condiciones especiales de trabajo.
+El proyecto de contrato colectivo deberá contener, a lo menos, las siguientes menciones:
+
+1.- las partes a quienes haya de involucrar la negociación, acompañándose una nómina de los socios del sindicato o de los miembros del grupo comprendidos en la negociación. En el caso previsto en el artículo 323, deberá acompañarse además la nómina y rúbrica de los trabajadores adherentes a la presentación;
+
+2.- las cláusulas que se proponen;
+
+3.- el plazo de vigencia del contrato, y
+
+4.- la individualización de los integrantes de la comisión negociadora.
+
+El proyecto llevará, además, la firma o impresión digital de todos los trabajadores involucrados en la negociación cuando se trate de trabajadores que se unen para el solo efecto de negociar. En todo caso, deberá también ser firmado por los miembros de la comisión negociadora.
 
 #### Artículo 326
 
-Mérito ejecutivo de los instrumentos colectivos y sanciones en caso de incumplimiento. Las copias originales de los instrumentos colectivos, así como las copias auténticas de dichos instrumentos, autorizadas por la Inspección del Trabajo, respecto de aquellas cláusulas que contengan obligaciones líquidas y actualmente exigibles, tendrán mérito ejecutivo y los Juzgados de Cobranza Laboral y Previsional conocerán de estas ejecuciones conforme al procedimiento señalado en los artículos 463 y siguientes.
+La representación de los trabajadores en la negociación colectiva estará a cargo de una comisión negociadora integrada en la forma que a continuación se indica.
 
-No obstante lo dispuesto en el inciso precedente, el incumplimiento de las estipulaciones contenidas en los instrumentos colectivos será sancionado por la Inspección del Trabajo de conformidad al artículo 506. La aplicación, cobro y reclamo de esta multa se efectuará con arreglo a las disposiciones de los artículos 503 y siguientes de este Código.
+Si el proyecto de contrato colectivo fuere presentado por un sindicato, la comisión negociadora será el directorio sindical respectivo, y si varios sindicatos hicieren una presentación conjunta, la comisión indicada estará integrada por los directores de todos ellos.
 
-## Título IV
+Si presentare el proyecto de contrato colectivo un grupo de trabajadores que se unen para el solo efecto de negociar, deberá designarse una comisión negociadora conforme a las reglas siguientes:
 
-EL PROCEDIMIENTO DE NEGOCIACIÓN COLECTIVA REGLADA
+a) Para ser elegido miembro de la comisión negociadora será necesario cumplir con los mismos requisitos que se exigen para ser director sindical;
 
-## Capítulo I
+b) La comisión negociadora estará compuesta por tres miembros. Sin embargo, si el grupo negociador estuviere formado por doscientos cincuenta trabajadores o más, podrán nombrarse cinco, si estuviere formado por mil o más trabajadores podrán nombrarse siete, y si estuviere formado por tres mil trabajadores o más, podrán nombrarse nueve;
 
-REGLAS GENERALES
+c) La elección de los miembros de la comisión negociadora se efectuará por votación secreta, la que deberá practicarse ante un ministro de fe, si los trabajadores fueren doscientos cincuenta o más, y
+
+d) Cada trabajador tendrá derecho a dos, tres, cuatro o cinco votos no acumulativos, según si la comisión negociadora esté integrada por tres, cinco, siete o nueve miembros, respectivamente.
+
+El empleador, a su vez, tendrá derecho a ser representado en la negociación hasta por tres apoderados que formen parte de la empresa, entendiéndose también como tales a los miembros de su respectivo directorio y a los socios con facultad de administración.
 
 #### Artículo 327
 
-Inicio de la negociación colectiva reglada. La negociación colectiva se inicia con la presentación del proyecto de contrato colectivo por parte de el o los sindicatos al empleador.
+Además de los miembros de la comisión negociadora y de los apoderados del empleador, podrán asistir al desarrollo de las negociaciones los asesores que designen las partes, los que no podrán exceder de tres por cada una de ellas.
+
+En las negociaciones en que la comisión negociadora laboral sean las directivas de uno o más sindicatos, podrá asistir como asesor de éstas, y por derecho propio, un dirigente de la federación o confederación a que se encuentren adheridas, sin que su participación se compute para los efectos del límite establecido en el inciso precedente.
+
+Tratándose de un grupo negociador de trabajadores que pertenezcan a un sindicato interempresa, podrá asistir a las negociaciones como asesor de aquéllos, y por derecho propio, un dirigente del sindicato, también sin que su participación sea computable para el límite establecido en el inciso primero del presente artículo.
 
 #### Artículo 328
 
-Contenido del proyecto de contrato colectivo. En la presentación del proyecto de contrato colectivo se deberán explicitar, a lo menos, las cláusulas que se proponen, la vigencia ofrecida, la comisión negociadora sindical y el domicilio físico y electrónico de el o los sindicatos respectivos. En esta misma oportunidad deberán presentar la nómina de los trabajadores que hasta ese momento se encuentren afiliados.
+Una vez presentado el proyecto de contrato colectivo, el trabajador deberá permanecer afecto a la negociación durante todo el proceso, sin perjuicio de lo señalado en los artículos 381, 382 y 383.
 
-El sindicato podrá explicar los fundamentos de su propuesta de contrato y acompañar los antecedentes que sustenten su presentación.
+El trabajador que tenga un contrato colectivo vigente no podrá participar en otras negociaciones colectivas, en fechas anteriores a las del vencimiento de su contrato, salvo acuerdo con el empleador. Se entenderá que hay acuerdo del empleador si no rechaza la inclusión del trabajador en la respuesta que dé al proyecto de contrato colectivo, siempre que en éste se haya mencionado expresamente dicha circunstancia.
 
 #### Artículo 329
 
-Presentación del proyecto de contrato colectivo y negativa del empleador a recibirlo. Copia del proyecto de contrato colectivo presentado por el o los sindicatos, firmada por el empleador para acreditar que ha sido recibido por este, con la fecha de recepción estampada en él, deberá entregarse a la Inspección del Trabajo respectiva, dentro de los cinco días siguientes a su presentación.
+El empleador deberá dar respuesta por escrito a la comisión negociadora, en forma de un proyecto de contrato colectivo que deberá contener todas las cláusulas de su proposición. En esta respuesta el empleador podrá formular las observaciones que le merezca el proyecto y deberá pronunciarse sobre todas las proposiciones de los trabajadores así como señalar el fundamento de su respuesta. Acompañará, además, los antecedentes necesarios para justificar las circunstancias económicas y demás pertinentes que invoque, siendo obligatorio como mínimo adjuntar copia de los documentos señalados en el inciso quinto del artículo 315, cuando dichos antecedentes no se hubieren entregado anteriormente.
 
-Si el empleador se negare a recibir o certificar la recepción del proyecto, el sindicato deberá requerir a la Inspección del Trabajo, dentro de los tres días siguientes a la negativa, para que notifique el proyecto de contrato al empleador en el más breve plazo.
+El empleador dará respuesta al proyecto de contrato colectivo dentro de los quince días siguientes a su presentación. Las partes, de común acuerdo, podrán prorrogar este plazo por el término que estimen necesario.
 
 #### Artículo 330
 
-Comisión negociadora sindical. La representación del sindicato en la negociación colectiva corresponderá a la comisión negociadora sindical, integrada por el directorio sindical respectivo. Si se trata de una negociación colectiva iniciada por más de un sindicato, la comisión negociadora sindical estará integrada por los directores que sean designados en el proyecto de contrato colectivo.
+Copia de la respuesta del empleador, firmada por uno o más miembros de la comisión negociadora para acreditar que ha sido recibida por ésta, deberá acompañarse a la Inspección del Trabajo dentro de los cinco días siguientes a la fecha de su entrega a dicha comisión.
 
-Además de los miembros de la comisión negociadora sindical, podrán asistir al desarrollo de las negociaciones los asesores que designen la o las organizaciones sindicales, los que no podrán exceder de tres.
-
-En caso que el o los sindicatos que negocien tengan afiliación femenina y la respectiva comisión negociadora sindical no esté integrada por ninguna trabajadora, se deberá integrar a una representante elegida por el o los sindicatos de conformidad a sus estatutos. En el evento que los estatutos nada establecieran, esta trabajadora deberá ser elegida en asamblea convocada al efecto, en votación universal.
-
-En la micro y pequeña empresa, la trabajadora que deba integrar la comisión negociadora de conformidad a lo dispuesto en el inciso anterior sustituirá a uno de los miembros que deban integrarla por derecho propio.
-
-Respecto de la trabajadora que integre la comisión negociadora sindical de conformidad a lo dispuesto en el inciso tercero, el fuero señalado en el artículo 309 se extenderá hasta noventa días, contados desde la suscripción del contrato colectivo o, en su caso, desde la fecha de notificación a las partes del fallo arbitral que se hubiere dictado.
+En caso de negativa de los integrantes a suscribir dicha copia, se estará a lo dispuesto en el inciso segundo del artículo 324.
 
 #### Artículo 331
 
-Afiliación sindical durante la negociación colectiva. Iniciado un proceso de negociación colectiva reglada, los trabajadores no afiliados al sindicato tendrán derecho a afiliarse a él, incorporándose de pleno derecho a la negociación en curso, salvo lo dispuesto en el inciso segundo del artículo 323.
+Recibida la respuesta del empleador, la comisión negociadora podrá reclamar de las observaciones formuladas por éste, y de las que le merezca la respuesta, por no ajustarse éstas a las disposiciones del presente Código.
 
-Con todo, sólo se incorporarán a la negociación en curso los trabajadores que se afilien hasta el quinto día de presentado el proyecto de contrato colectivo.
+La reclamación deberá formularse ante la Inspección del Trabajo dentro del plazo de cinco días contados desde la fecha de recepción de la respuesta. La Inspección del Trabajo tendrá igual plazo para pronunciarse, contado desde la fecha de presentación de la reclamación.
 
-El sindicato deberá informar al empleador la afiliación de nuevos trabajadores dentro del plazo de dos días contado desde la respectiva incorporación.
+No obstante, si la negociación involucra a más de mil trabajadores, la reclamación deberá ser resuelta por el Director del Trabajo.
 
-## Capítulo II
+La resolución que acoja las observaciones formuladas ordenará a la parte que corresponda su enmienda dentro de un plazo no inferior a cinco ni superior a ocho días contados desde la fecha de notificación de la resolución respectiva, bajo apercibimiento de tenerse por no presentada la cláusula o el proyecto de contrato, o de no haber respondido oportunamente el proyecto, según el caso.
 
-OPORTUNIDAD PARA PRESENTAR EL PROYECTO Y PLAZO DE LA NEGOCIACIÓN
+La interposición del reclamo no suspenderá el curso de la negociación colectiva.
+
+No será materia de este procedimiento de objeción de legalidad la circunstancia de estimar alguna de las partes que la otra, en el proyecto de contrato colectivo o en la correspondiente respuesta, según el caso, ha infringido lo dispuesto en el inciso segundo del artículo 306.
 
 #### Artículo 332
 
-Oportunidad de presentación del proyecto de contrato colectivo por el sindicato cuando no tiene instrumento colectivo vigente. La presentación de un proyecto de contrato colectivo realizada por un sindicato que no tiene instrumento colectivo vigente podrá hacerse en cualquier tiempo, sin perjuicio de lo establecido en el artículo 308.
+Si el empleador no diere respuesta oportunamente al proyecto de contrato, será sancionado con una multa ascendente al veinte por ciento de las remuneraciones del último mes de todos los trabajadores comprendidos en el proyecto de contrato colectivo.
 
-Las empresas en que no exista un instrumento colectivo vigente podrán fijar un período, de hasta sesenta días al año, durante el cual no será posible iniciar un proceso de negociación colectiva.
+La multa será aplicada administrativamente por la Inspección del Trabajo respectiva, en conformidad con lo previsto en el Título II del Libro V de este Código.
 
-La declaración a que se refiere el inciso anterior deberá comunicarse por medios idóneos a la Inspección del Trabajo y a los trabajadores. Su vigencia será de doce meses.
+Llegado el vigésimo día de presentado el proyecto de contrato colectivo, sin que el empleador le haya dado respuesta, se entenderá que lo acepta, salvo prórroga acordada por las partes de conformidad con el inciso segundo del artículo 329.
 
 #### Artículo 333
 
-Oportunidad de presentación del proyecto de contrato colectivo por el sindicato cuando tiene instrumento colectivo vigente. La presentación de un proyecto de contrato colectivo realizada por un sindicato que tiene instrumento colectivo vigente deberá hacerse no antes de sesenta ni después de cuarenta y cinco días anteriores a la fecha de término de la vigencia de dicho instrumento.
+A partir de la respuesta del empleador las partes se reunirán el número de veces que estimen conveniente, con el objeto de obtener directamente un acuerdo, sin sujeción a ningún tipo de formalidades.
 
-Si el proyecto de contrato colectivo se presenta antes del plazo señalado en el inciso precedente, se entenderá, para todos los efectos legales, que fue presentado sesenta días antes de la fecha de vencimiento del instrumento colectivo anterior.
+## Capítulo II
+
+DE LA PRESENTACION HECHA POR OTRAS ORGANIZACIONES SINDICALES
 
 #### Artículo 334
 
-Consecuencias de la no presentación o presentación tardía del proyecto de contrato colectivo. Si el sindicato no presenta el proyecto de contrato colectivo o lo presenta luego de vencido el plazo, llegada la fecha de término del instrumento colectivo vigente se extinguirán sus efectos y sus cláusulas subsistirán como parte de los contratos individuales de los trabajadores afectos a él, salvo las que se refieren a la reajustabilidad pactada tanto de las remuneraciones como de los demás beneficios convenidos en dinero, el incremento real pactado, así como los derechos y obligaciones que sólo pueden ejercerse o cumplirse colectivamente.
+Dos o más sindicatos de distintas empresas, un sindicato interempresa, o una federación o confederación, podrán presentar proyectos de contrato colectivo de trabajo, en representación de sus afiliados y de los trabajadores que adhieran a él, a los empleadores respectivos.
 
-## Capítulo III
+Para que las organizaciones sindicales referidas en este artículo puedan presentar proyectos de contrato colectivo será necesario:
 
-DE LA RESPUESTA DEL EMPLEADOR
+a) Que la o las organizaciones sindicales respectivas lo acuerden en forma previa con él o los empleadores respectivos, por escrito y ante ministro de fe;
+
+b) Que en la empresa respectiva, la mayoría absoluta de los trabajadores afiliados que tengan derecho a negociar colectivamente, acuerden conferir en votación secreta, tal representación a la organización sindical de que se trate, en asamblea celebrada ante ministro de fe.
+
+La presentación del correspondiente proyecto se hará en forma conjunta a todos los empleadores que hayan suscrito el acuerdo.
+
+#### Artículo 334 bis
+
+No obstante lo dispuesto en el inciso segundo del artículo 303, el sindicato interempresa podrá presentar un proyecto de contrato colectivo de trabajo, en representación de sus afiliados y de los trabajadores que adhieran a él, a empleadores que ocupen trabajadores que sean socios de tal sindicato, el que estará, en su caso, facultado para suscribir los respectivos contratos colectivos.
+
+Para efectuar esta presentación, se requerirá que lo haga en representación de un mínimo de cuatro trabajadores de cada empresa.
+
+#### Artículo 334 bis
+
+A. Para el empleador será voluntario o facultativo negociar con el sindicato interempresa. Su decisión negativa deberá manifestarla expresamente dentro del plazo de diez días hábiles después de notificado.
+
+Si su decisión es negativa, los trabajadores de la empresa afiliados al sindicato interempresa podrán presentar proyectos de contrato colectivo conforme a las reglas generales de este Libro IV.
+
+En este caso, los trabajadores deberán designar una comisión negociadora en los términos del artículo 326.
+
+En todo caso, el o los delegados sindicales existentes en la empresa integrarán, por derecho propio, la comisión negociadora laboral.
+
+#### Artículo 334 bis
+
+B. Si los empleadores a quienes se presentó el proyecto de contrato colectivo, manifiestan su intención de negociar en forma conjunta, dentro del plazo establecido en el inciso primero del artículo anterior, deberán integrar una comisión negociadora común, la que estará compuesta por un apoderado de cada empresa. Si éstos fueren más de cinco podrán delegar tal representación en una comisión de hasta cinco miembros, la que deberá extenderse ante ministro de fe.
+
+En el caso previsto en el inciso anterior, la comisión negociadora laboral se integrará por la directiva sindical o por el número de sus miembros que ésta designe. Cuando hayan de discutirse estipulaciones aplicables a una empresa en particular, deberá integrarse además por el o los delegados sindicales respectivos y, en caso de no existir éstos, por un delegado elegido por los trabajadores de la empresa involucrada.
+
+La comisión negociadora conjunta, deberá dar una respuesta común al proyecto, la que podrá contener estipulaciones generales para todas las empresas como diferenciadas para cada una de ellas.
+
+La respuesta deberá darse dentro del plazo de 25 días siguientes al de expiración del plazo de diez días previsto en el inciso primero del artículo 334 bis A.
+
+#### Artículo 334 bis
+
+C. La presentación y tramitación de los proyectos de contratos colectivos contemplados en los artículos 334 bis A y 334 bis B, en lo no previsto en estos preceptos, se ajustará a lo dispuesto en el Capítulo I del Título II del Libro IV y, en lo que corresponda, a las restantes normas especiales de este Capítulo II.
 
 #### Artículo 335
 
-Respuesta del empleador y comisión negociadora de empresa. La respuesta del empleador al proyecto de contrato colectivo deberá ser entregada a alguno de los integrantes de la comisión negociadora sindical y remitida a la dirección de correo electrónico designada por el sindicato, dentro de los diez días siguientes a la presentación del proyecto. Las partes de común acuerdo podrán prorrogar este plazo hasta por diez días adicionales.
-
-El empleador deberá dar respuesta a todas las cláusulas propuestas en el proyecto presentado por el sindicato y señalar una dirección de correo electrónico. Asimismo, podrá explicar los fundamentos y contenidos de su proposición, acompañando los antecedentes que la sustenten.
-
-El empleador deberá designar una comisión negociadora de empresa, constituida por un máximo de tres apoderados que formen parte de la empresa, entendiéndose también como tales a los miembros de su respectivo directorio y a los socios con facultad de administración. Podrá además designar a los asesores, conforme a lo dispuesto en el inciso segundo del artículo 330 de este Código.
+La presentación y tramitación del proyecto de contrato colectivo se ajustará a lo prescrito en el Capítulo I del Título II de este Libro, sin perjuicio de las normas especiales que se señalan en los artículos siguientes.
 
 #### Artículo 336
 
-Piso de la negociación. La respuesta del empleador deberá contener, a lo menos, el piso de la negociación. En el caso de existir instrumento colectivo vigente, se entenderá por piso de la negociación idénticas estipulaciones a las establecidas en el instrumento colectivo vigente, con los valores que corresponda pagar a la fecha de término del contrato. Se entenderán excluidos del piso de la negociación la reajustabilidad pactada, los incrementos reales pactados, los pactos sobre condiciones especiales de trabajo y los beneficios que se otorgan sólo por motivo de la firma del instrumento colectivo. El acuerdo de extensión de beneficios que forme parte de un instrumento colectivo tampoco constituye piso de la negociación.
-
-En el caso de no existir instrumento colectivo vigente, la respuesta del empleador constituirá el piso de la negociación. La propuesta del empleador no podrá contener beneficios inferiores a los que de manera regular y periódica haya otorgado a los trabajadores que represente el sindicato.
+En las empresas en que existiere un contrato colectivo vigente, las partes podrán adelantar o diferir hasta un máximo de sesenta días el término de su vigencia, con el objeto de negociar colectivamente de acuerdo con las normas de este Capítulo.
 
 #### Artículo 337
 
-Efectos de la falta de respuesta y de aquella que no contenga las estipulaciones del piso de la negociación. Si el empleador no diere respuesta oportunamente al proyecto de contrato, será sancionado con una multa establecida de conformidad al inciso primero del artículo 406.
-
-Llegado el vigésimo día de presentado el proyecto de contrato colectivo sin que el empleador le haya dado respuesta, se entenderá que lo acepta, salvo que las partes hayan acordado la prórroga del inciso primero del artículo 335, en cuyo caso la sanción operará a partir del día siguiente al vencimiento de la prórroga.
-
-En caso que la respuesta del empleador no contenga las estipulaciones del piso de la negociación, aquellas se entenderán incorporadas para todos los efectos legales.
+La negociación se iniciará con la presentación de un proyecto de contrato colectivo a una comisión negociadora, conformada por todos los empleadores o sus representantes que hayan suscrito el respectivo acuerdo de negociar colectivamente bajo las normas de este Capítulo. El proyecto deberá ser presentado dentro de los treinta días siguientes a la suscripción del referido acuerdo y se estará a lo dispuesto en el artículo 324.
 
 #### Artículo 338
 
-Registro de la respuesta. El empleador deberá remitir a la Inspección del Trabajo copia de la respuesta dentro de los cinco días siguientes a la fecha en que esta haya sido entregada a la comisión negociadora sindical, adjuntando comprobante de su recepción por el sindicato.
+El proyecto de contrato colectivo deberá contener, a lo menos, las siguientes menciones:
 
-## Capítulo IV
+1.- las partes a quienes haya de involucrar la negociación, individualizándose la o las empresas con sus respectivos domicilios y los trabajadores involucrados en cada una de ellas, acompañándose una nómina de los socios del sindicato respectivo y de los trabajadores que adhieren a la presentación, así como una copia autorizada del acta de la asamblea a que se refiere la letra b) del inciso segundo del artículo 334;
 
-IMPUGNACIONES Y RECLAMACIONES
+2.- la rúbrica de los adherentes si correspondiere;
+
+3.- las cláusulas que se proponen. El proyecto podrá contener proposiciones especiales para una o más de las empresas involucradas;
+
+4.- el plazo de vigencia del contrato, y
+
+5.- los integrantes de la comisión negociadora.
+
+El proyecto llevará, además, la firma de los miembros de la comisión negociadora.
 
 #### Artículo 339
 
-Impugnación de la nómina, quórum y otras reclamaciones. El empleador tendrá derecho a impugnar la inclusión de uno o más trabajadores incorporados en la nómina del proyecto de contrato colectivo, por no ajustarse a las disposiciones de este Código.
+La representación de los trabajadores en la negociación colectiva estará a cargo de la directiva de la o las organizaciones sindicales respectivas. Cuando haya de discutirse estipulaciones contractuales aplicables a una empresa en particular, la comisión negociadora deberá integrarse con la directiva del sindicato base o el delegado sindical respectivo. En el caso de no existir este último, deberá integrarse con un representante de los trabajadores de la empresa afiliado al sindicato respectivo.
 
-Las partes podrán, además, formular reclamaciones respecto del proyecto de contrato colectivo o de su respuesta, por no ajustarse a las normas del presente Libro.
+En tal caso, el representante deberá cumplir con los requisitos que se exigen para ser director sindical y ser elegido por los trabajadores de la empresa respectiva afiliados al sindicato, en votación secreta.
 
-No será materia de reclamación la circunstancia de estimar alguna de las partes que la otra, en el proyecto de contrato colectivo o en la correspondiente respuesta, según el caso, ha infringido lo dispuesto en el inciso cuarto del artículo 306 de este Código.
+Dicha elección se verificará en la misma asamblea a que se refiere la letra b) del inciso segundo del artículo 334.
 
 #### Artículo 340
 
-Reglas de procedimiento. Las impugnaciones y reclamaciones señaladas en el artículo anterior se tramitarán ante la Inspección del Trabajo respectiva, conforme a las siguientes reglas:
+Los empleadores que formen parte del procedimiento, deberán constituir una comisión negociadora que estará integrada por un apoderado de cada una de las empresas.
 
-a) El empleador deberá formular todas sus impugnaciones y reclamaciones en la respuesta al proyecto de contrato colectivo, acompañando los antecedentes en que se funden.
+Dicha comisión deberá constituirse en el momento de la suscripción del acuerdo a que se refiere el artículo 334, o a más tardar, dentro de los dos días siguientes a éste. En este último caso, deberá comunicarse dicha circunstancia a la directiva de la o las organizaciones sindicales respectivas, dentro del mismo plazo indicado precedentemente.
 
-b) La comisión negociadora sindical deberá formular todas sus reclamaciones en una misma presentación ante la Inspección del Trabajo, acompañando los antecedentes en que se funden, dentro de los cinco días siguientes de recibida la respuesta del empleador.
+Los apoderados podrán delegar la representación en una comisión de hasta cinco personas. Esta delegación deberá constar por escrito y extenderse ante Ministro de fe.
 
-c) Recibida la respuesta del empleador que contenga impugnaciones o reclamaciones y recibidas las reclamaciones del sindicato, según sea el caso, la Inspección del Trabajo deberá citar a las partes a una audiencia que tendrá lugar dentro de los cinco días siguientes. Dicha citación deberá ser enviada a la dirección de correo electrónico de las partes.
-
-d) A esta audiencia las partes deberán asistir con todos los antecedentes necesarios y la documentación adicional que le haya sido requerida por la Inspección del Trabajo, la que instará a las partes a alcanzar un acuerdo.
-
-e) La resolución deberá dictarse por el Inspector del Trabajo dentro del plazo de cinco días de concluida la audiencia. Si las impugnaciones o reclamaciones involucran a más de mil trabajadores, serán resueltas por el Director del Trabajo.
-
-f) En contra de esta resolución sólo procederá el recurso de reposición que deberá ser interpuesto dentro de tercero día. La resolución que resuelva el recurso de reposición deberá dictarse en el plazo de tres días y será reclamable judicialmente dentro del plazo de cinco días, a través del procedimiento establecido en el artículo 504 de este Código.
-
-g) La interposición de las impugnaciones o reclamaciones no suspenderá el curso de la negociación colectiva.
-
-## Capítulo V
-
-PERÍODO DE NEGOCIACIÓN
+El empleador podrá, en todo caso y en cualquier momento, suscribir un contrato colectivo en conformidad a lo dispuesto en los incisos segundo y tercero del artículo 343.
 
 #### Artículo 341
 
-Período de negociación. A partir de la respuesta del empleador, las partes se reunirán el número de veces que estimen conveniente con el objeto de obtener directamente un acuerdo, sin sujeción a ningún tipo de formalidades.
-
-Las partes podrán negociar todas las materias comprendidas en el proyecto y la respuesta, como aquellas que de común acuerdo definan, incluyendo modificaciones al piso de la negociación.
-
-Igualmente podrán convenir rebajar el piso de la negociación a que se refiere el artículo 336, cuando las condiciones económicas de la empresa así lo justifiquen.
+Los empleadores que formen parte del procedimiento deberán dar una respuesta única al proyecto. No obstante, la respuesta podrá contener estipulaciones especiales para una o más de las empresas involucradas.
 
 #### Artículo 342
 
-Derecho a la suscripción del piso de la negociación. Durante todo el período de negociación, e incluso después de votada y hecha efectiva la huelga, la comisión negociadora sindical podrá poner término al proceso de negociación comunicándole al empleador, por escrito, su decisión de suscribir un contrato colectivo sujeto a las estipulaciones del piso de la negociación.
+La comisión negociadora de los empleadores dará respuesta al proyecto de contrato colectivo dentro de los quince días siguientes al de su presentación. Este plazo será de veinte días, contados del mismo modo, en caso que la comisión negociadora estuviese integrada por representantes de más de diez empresas.
 
-El empleador no podrá negarse a esta exigencia, salvo en el caso a que se refiere el inciso final del artículo anterior. El contrato que se celebre conforme a las disposiciones de este artículo tendrá una duración de dieciocho meses y se entenderá suscrito desde la fecha en que la comisión negociadora sindical comunique su decisión al empleador.
+Para los efectos de lo dispuesto en el inciso anterior, se estará a lo señalado en el artículo 330.
+
+Las respectivas comisiones negociadoras podrán prorrogar este plazo por el término que estimen necesario. La prórroga que se acuerde será general para las empresas que integren la misma comisión negociadora.
+
+Si la comisión negociadora de los empleadores no diere respuesta en la forma y plazos señalados en el inciso primero, se entenderá que acepta el proyecto, salvo la prórroga a que se refiere el inciso anterior. El mismo efecto se producirá respecto del o de los empleadores que no concurrieren a la respuesta de la comisión negociadora.
 
 #### Artículo 343
 
-Derecho a solicitar reunión de asistencia técnica. En las micro y pequeñas empresas, cualquiera de las partes podrá solicitar a la Dirección del Trabajo que las convoque a la reunión de asistencia técnica para llevar a cabo el proceso de negociación colectiva. La misma regla se aplicará a las empresas medianas cuando negocien por primera vez.
+Las respectivas comisiones negociadoras podrán, en cualquier momento, acordar la suscripción de un contrato colectivo que ponga término a la negociación, el que podrá ser igual para todas las empresas involucradas, como contener estipulaciones específicas para alguna o algunas de ellas.
 
-En esta oportunidad la Dirección del Trabajo informará a las partes sobre el procedimiento, los plazos, los derechos y las obligaciones derivados de la negociación. La asistencia a esta reunión será obligatoria para ambas partes.
+Con todo, el instrumento respectivo será suscrito separadamente en cada una de las empresas por el empleador y la comisión negociadora, debiendo concurrir además a su firma la directiva del sindicato respectivo o el delegado sindical o el representante de los trabajadores, según corresponda de conformidad al artículo 339.
+
+Asimismo, en cualquier momento, los trabajadores de cualquiera de las empresas comprendidas en la negociación, por acuerdo adoptado por la mayoría absoluta de los trabajadores involucrados, podrán instruir a la comisión negociadora para que celebre con su empleador un contrato colectivo de trabajo relativo a dicha empresa, quedando ésta excluida de la negociación.
+
+Si transcurridos dos días de la instrucción a que se refiere el inciso anterior, los integrantes de la comisión negociadora no concurrieren a la firma del contrato colectivo o se negaren a hacerlo, el instrumento respectivo será suscrito por el sindicato base o el delegado sindical o el representante de los trabajadores, según sea el caso.
+
+Copia de dicho contrato colectivo deberá enviarse a la Inspección del Trabajo dentro de los tres días siguientes.
+
+## Título III
+
+DEL CONTRATO COLECTIVO
 
 #### Artículo 344
 
-Mediación voluntaria. Una vez vencido el plazo de respuesta del empleador, y durante todo el proceso de negociación colectiva, las partes podrán solicitar, de común acuerdo, la mediación de la Dirección del Trabajo.
+Si producto de la negociación directa entre las partes, se produjere acuerdo, sus estipulaciones constituirán el contrato colectivo.
 
-## Capítulo VI
+Contrato colectivo es el celebrado por uno o más empleadores con una o más organizaciones sindicales o con trabajadores que se unan para negociar colectivamente, o con unos y otros, con el objeto de establecer condiciones comunes de trabajo y de remuneraciones por un tiempo determinado.
 
-DERECHO A HUELGA
+El contrato colectivo deberá constar por escrito.
+
+Copia de este contrato deberá enviarse a la Inspección del Trabajo dentro de los cinco días siguientes a su suscripción.
 
 #### Artículo 345
 
-Derecho a huelga. La huelga es un derecho que debe ser ejercido colectivamente por los trabajadores.
+Todo contrato colectivo deberá contener, a lo menos, las siguientes menciones:
 
-Se prohíbe el reemplazo de los trabajadores en huelga.
+1.- La determinación precisa de las partes a quienes afecte;
 
-La huelga no afectará la libertad de trabajo de los trabajadores no involucrados en ella, ni la ejecución de las funciones convenidas en sus contratos de trabajo.
+2.- Las normas sobre remuneraciones, beneficios y condiciones de trabajo que se hayan acordado. En consecuencia, no podrán válidamente contener estipulaciones que hagan referencias a la existencia de otros beneficios o condiciones incluidos en contratos anteriores, sin entrar a especificarlos, y
 
-La infracción de la prohibición señalada en el inciso segundo constituye una práctica desleal grave, la que habilitará a la Inspección del Trabajo para requerir el retiro inmediato de los trabajadores reemplazantes.
+3.- El período de vigencia del contrato.
 
-En el caso de negativa del empleador para retirar a los reemplazantes, la Inspección del Trabajo deberá denunciar al empleador al Juzgado de Letras del Trabajo conforme a las normas establecidas en los artículos 485 y siguientes, con excepción de lo dispuesto en el inciso sexto del artículo 486. El sindicato podrá iniciar esta acción o hacerse parte de la denuncia presentada por la Inspección del Trabajo. El Tribunal, revisados los antecedentes de la denuncia, ordenará al empleador el retiro inmediato de los reemplazantes en la primera resolución, bajo el apercibimiento señalado en el artículo 492.
+Si lo acordaren las partes, contendrá además la designación de un árbitro encargado de interpretar las cláusulas y de resolver las controversias a que dé origen el contrato.
 
 #### Artículo 346
 
-Última oferta del empleador. El empleador, con a lo menos dos días de anticipación al inicio del período en que se puede hacer efectiva la votación de la huelga, podrá presentar a la comisión negociadora sindical una propuesta formal de contrato colectivo denominada "última oferta". Esta propuesta deberá estar contenida en un documento suscrito por la comisión negociadora de la empresa. En la micro y pequeña empresa bastará que la última oferta sea firmada por uno de los miembros de la comisión negociadora de la empresa.
+Los trabajadores a quienes el empleador les hiciere extensivos los beneficios estipulados en el instrumento colectivo respectivo, para aquéllos que ocupen cargos o desempeñen funciones similares, deberán aportar al sindicato que hubiere obtenido dichos beneficios, un setenta y cinco por ciento de la cotización mensual ordinaria, durante toda la vigencia del contrato y los pactos modificatorios del mismo, a contar de la fecha en que éste se les aplique. Si éstos los hubiere obtenido más de un sindicato, el aporte irá a aquel que el trabajador indique; si no lo hiciere se entenderá que opta por la organización más representativa.
 
-A falta de última oferta, aquella estará constituida por la propuesta formal más próxima al vencimiento del plazo señalado en el inciso anterior. De no existir propuestas formales, se tendrá por última oferta la respuesta del empleador.
+El monto del aporte al que se refiere el inciso precedente, deberá ser descontado por el empleador y entregado al sindicato respectivo del mismo modo previsto por la ley para las cuotas sindicales ordinarias y se reajustará de la misma forma que éstas.
 
-La última oferta podrá ser informada por el empleador por escrito a todos los trabajadores involucrados en la negociación a través de mecanismos generales de comunicación.
+El trabajador que se desafilie de la organización sindical, estará obligado a cotizar en favor de ésta el setenta y cinco por ciento de la cotización mensual ordinaria, durante toda la vigencia del contrato colectivo y los pactos modificatorios del mismo.
+
+También se aplicará lo dispuesto en este artículo a los trabajadores que, habiendo sido contratados en la empresa con posterioridad a la suscripción del instrumento colectivo, pacten los beneficios a que se hizo referencia.
 
 #### Artículo 347
 
-Art. 347.- Convocatoria a la votación de la huelga. La comisión negociadora sindical deberá convocar a la votación de la huelga con a lo menos cinco días de anticipación a la fecha en que esta deba realizarse.
+Los contratos colectivos y los fallos arbitrales tendrán una duración no inferior a dos años ni superior a cuatro años. La vigencia de los contratos colectivos se contará a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o fallo arbitral anterior. Si no existiese contrato colectivo o fallo arbitral anterior, la vigencia se contará a partir del día siguiente al de su suscripción.
 
-Cuando la votación no se hubiere llevado a efecto por causas ajenas al sindicato, este tendrá un plazo de cinco días adicionales para proceder a ella.
+No obstante, la duración de los contratos colectivos que se suscriban con arreglo al Capítulo II del Título II de este Libro, se contará para todos éstos, a partir del día siguiente al sexagésimo de la presentación del respectivo proyecto, cuando no exista contrato colectivo anterior.
+
+Con todo, si se hubiere hecho efectiva la huelga, el contrato que se celebre con posterioridad o el fallo arbitral que se dicte, sólo tendrán vigencia a contar de la fecha de suscripción del contrato o de constitución del compromiso, sin perjuicio de que su duración se cuente a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o fallo arbitral anterior o del cuadragésimo quinto o sexagésimo día contado desde la presentación del respectivo proyecto, según corresponda.
 
 #### Artículo 348
 
-Oportunidad de votación de la huelga. Si existe instrumento colectivo vigente, la huelga deberá ser votada dentro de los últimos cinco días de vigencia del instrumento.
+Las estipulaciones de los contratos colectivos reemplazarán en lo pertinente a las contenidas en los contratos individuales de los trabajadores que sean parte de aquéllos y a quienes se les apliquen sus normas de conformidad al artículo 346.
 
-En el caso de no existir instrumento colectivo vigente, la huelga deberá ser votada dentro de los últimos cinco días de un total de cuarenta y cinco contados desde la fecha de presentación del proyecto de contrato colectivo.
-
-Las partes de común acuerdo podrán ampliar el plazo de la negociación y postergar la oportunidad para la votación de la huelga. En este caso, si existiere contrato colectivo se entenderá prorrogada su vigencia por el tiempo que las partes determinen. Este acuerdo deberá constar por escrito, suscribirse por las comisiones negociadoras de ambas partes y remitirse copia a la Inspección del Trabajo.
+Extinguido el contrato colectivo, sus cláusulas subsistirán como integrantes de los contratos individuales de los respectivos trabajadores, salvo las que se refieren a la reajustabilidad tanto de las remuneraciones como de los demás beneficios pactados en dinero, y a los derechos y obligaciones que sólo pueden ejercerse o cumplirse colectivamente.
 
 #### Artículo 349
 
-Medios para votación de la huelga. El empleador deberá facilitar que la votación de la huelga se realice con normalidad, otorgando los permisos necesarios para que los trabajadores puedan concurrir al acto de votación. El acto de votación podrá realizarse en la sede sindical, según lo dispuesto en el artículo 255.
+El original de dicho contrato colectivo, así como las copias auténticas de este instrumento autorizadas por la Inspección del Trabajo, tendrán mérito ejecutivo y los Juzgados de Letras del Trabajo conocerán de estas ejecuciones, conforme al procedimiento señalado en el artículo 461 de este Código.
 
-La comisión negociadora sindical deberá organizar el proceso de votación evitando alteraciones en el normal funcionamiento de la empresa.
+No obstante lo dispuesto en el inciso precedente, el incumplimiento de las estipulaciones contenidas en contratos y convenios colectivos y fallos arbitrales, será sancionado con multa a beneficio fiscal de hasta diez unidades tributarias mensuales. La aplicación, cobro y reclamo de esta multa se efectuarán con arreglo a las disposiciones del Título II del Libro V de este Código.
 
-El día que se lleve a efecto la votación de la huelga el sindicato podrá realizar asambleas.
+Lo dispuesto en el inciso anterior es sin perjuicio de las facultades de fiscalización que sobre el cumplimiento de los contratos y convenios colectivos y fallos arbitrales corresponden a la Dirección del Trabajo.
 
 #### Artículo 350
 
-Votación de la huelga. La votación de la huelga se realizará en forma personal, secreta y ante un ministro de fe. Los votos serán impresos y deberán emitirse con las expresiones "última oferta del empleador" o "huelga".
-
-La última oferta o la huelga deberán ser acordadas por la mayoría absoluta de los trabajadores representados por el sindicato. Del quórum de votación se descontarán aquellos trabajadores que no se encuentren actualmente prestando servicios en la empresa por licencia médica, feriado legal o aquellos que, por requerimientos de la empresa, se encuentren fuera del lugar habitual donde prestan servicios.
-
-De aprobarse la huelga, esta se hará efectiva a partir del inicio de la respectiva jornada el quinto día siguiente a su aprobación.
+Lo dispuesto en este Título se aplicará también a los fallos arbitrales que pongan término a un proceso de negociación colectiva y a los convenios colectivos que se celebren de conformidad al artículo 314.
 
 #### Artículo 351
 
-Mediación obligatoria. Dentro de los cuatro días siguientes de acordada la huelga, cualquiera de las partes podrá solicitar la mediación obligatoria del Inspector del Trabajo competente, para facilitar el acuerdo entre ellas.
+Convenio colectivo es el suscrito entre uno o más empleadores con una o más organizaciones sindicales o con trabajadores unidos para tal efecto, o con unos y otros, con el fin de establecer condiciones comunes de trabajo y remuneraciones por un tiempo determinado, sin sujeción a las normas de procedimiento de la negociación colectiva reglada ni a los derechos, prerrogativas y obligaciones propias de tal procedimiento.
 
-En el desempeño de su cometido, el Inspector del Trabajo podrá citar a las partes, en forma conjunta o separada, cuantas veces estime necesario, con el objeto de acercar posiciones y facilitar el establecimiento de bases de acuerdo para la suscripción del contrato colectivo.
+No obstante lo señalado en el artículo anterior, lo dispuesto en el inciso segundo del artículo 348 sólo se aplicará tratándose de convenios colectivos de empresa.
 
-Transcurridos cinco días hábiles desde que fuere solicitada su intervención sin que las partes hubieren llegado a un acuerdo, el Inspector del Trabajo dará por terminada su labor, debiendo hacerse efectiva la huelga al inicio del día siguiente hábil. Sin perjuicio de lo anterior, las partes podrán acordar que el
+Asimismo, no se les aplicará lo dispuesto en el artículo 347 e inciso primero del artículo 348, cuando en los respectivos convenios se deje expresa constancia de su carácter parcial o así aparezca de manifiesto en el respectivo instrumento.
 
-Inspector del Trabajo continúe desarrollando su gestión por un lapso de hasta cinco días, prorrogándose por ese hecho la fecha en que la huelga deba hacerse efectiva.
+Los convenios colectivos que afecten a más de una empresa, ya sea porque los suscriban sindicatos o trabajadores de distintas empresas con sus respectivos empleadores o federaciones y confederaciones en representación de las organizaciones afiliadas a ellas con los respectivos empleadores, podrán regir conjuntamente con los instrumentos colectivos que tengan vigencia en una empresa, en cuanto ello no implique disminución de las remuneraciones, beneficios y derechos que correspondan a los trabajadores por aplicación del respectivo instrumento colectivo de empresa.
 
-De las audiencias que se realicen ante el Inspector del Trabajo deberá levantarse acta firmada por los comparecientes y el funcionario referido.
+## Título IV
+
+DE LA MEDIACION
 
 #### Artículo 352
 
-Votación que no alcanza los quórum necesarios. En los casos en que no se alcancen los quórum de votación necesarios para que la asamblea acuerde la huelga, el sindicato tendrá la facultad de impetrar la suscripción de un contrato colectivo con las estipulaciones establecidas en el piso de la negociación, conforme al artículo 342, facultad que deberá ejercerse dentro del plazo de tres días contado desde la votación.
-
-En caso de no ejercer la facultad señalada en el inciso anterior, se entenderá que el sindicato ha optado por aceptar la última oferta del empleador.
+En cualquier momento de la negociación, las partes podrán acordar la designación de un mediador. Este deberá ajustarse al procedimiento que le señalen las partes o, en subsidio, al que se establece en los artículos siguientes.
 
 #### Artículo 353
 
-El cierre temporal de la empresa o lock-out. Acordada la huelga y una vez que esta se hubiere hecho efectiva, el empleador podrá declarar el lock-out o cierre temporal de la empresa, el que podrá ser total o parcial.
-
-Se entenderá por cierre temporal de la empresa el derecho del empleador, iniciada la huelga, a impedir temporalmente el acceso a todos los trabajadores a la empresa, predio o establecimiento.
-
-El cierre temporal es total cuando afecta a todos los trabajadores de la empresa o predio, y es parcial cuando afecta a todos los trabajadores de uno o más establecimientos de una empresa. Para declarar el cierre temporal parcial será necesario que en el establecimiento respectivo haya trabajadores involucrados en el proceso de negociación que lo origine.
-
-Los establecimientos no afectados por el cierre temporal parcial continuarán funcionando normalmente.
-
-En todo caso, el cierre temporal no afectará a los trabajadores a que se refiere el inciso primero del artículo 305.
-
-El cierre temporal no podrá extenderse más allá de los treinta días contados de la fecha en que se hizo efectiva la huelga o del día de su término, cualquiera sea el hecho que ocurra primero.
+El mediador estará dotado de las facultades indicadas en el artículo 362, salvo acuerdo en contrario de las partes.
 
 #### Artículo 354
 
-Declaración de cierre temporal o lock-out. El cierre temporal, sea total o parcial, sólo podrá ser declarado por el empleador si la huelga afectare a más del 50% del total de trabajadores de la empresa o del establecimiento en su caso, o significare la paralización de actividades imprescindibles para su funcionamiento, cualquiera fuere en este caso el porcentaje de trabajadores en huelga.
+El mediador tendrá un plazo máximo de diez días, o el que determinen las partes, contados desde la notificación de su designación, para desarrollar su gestión.
 
-En caso de reclamo, la calificación de las circunstancias de hecho señaladas en el inciso anterior la efectuará la Inspección del Trabajo, dentro de los tres días siguientes de formulada la reclamación. La resolución de la Inspección del Trabajo será reclamable judicialmente en los términos del artículo 504.
+Al término de dicho plazo, si no se hubiere logrado acuerdo, convocará a las partes a una audiencia en la que éstas deberán formalizar su última proposición de contrato colectivo.
 
-#### Artículo 355
+El mediador les presentará a las partes una propuesta de solución, a la que éstas deberán dar respuesta dentro de un plazo de tres días.
 
-Suspensión del contrato de trabajo y efectos de la huelga y del cierre temporal. Durante la huelga o el cierre temporal, se entenderá suspendido el contrato de trabajo respecto de los trabajadores que se encuentren involucrados en ella o a quienes afecte el cierre temporal. En consecuencia, los trabajadores no estarán obligados a prestar sus servicios, ni el empleador al pago de las remuneraciones, beneficios y regalías derivadas de dicho contrato.
-
-En el caso del inciso anterior, los trabajadores podrán efectuar trabajos temporales, fuera de la empresa, sin que ello signifique el término del contrato de trabajo con el empleador.
-
-Durante la huelga, los trabajadores involucrados en la negociación podrán pagar voluntariamente las cotizaciones previsionales o de seguridad social en los organismos respectivos. Sin embargo, en el caso del cierre temporal, el empleador deberá pagar las cotizaciones previsionales o de seguridad social de aquellos trabajadores afectados por esta medida y que no se encuentren en huelga.
-
-Asimismo, durante la huelga el recinto o local de la empresa no constituirá sede sindical.
-
-#### Artículo 356
-
-Nueva oferta del empleador y su votación. Iniciada la huelga, la comisión negociadora de empresa podrá presentar una nueva oferta, con las mismas formalidades y publicidad del artículo 346, la que deberá ser votada por los trabajadores involucrados en la negociación, en votación secreta y ante un ministro de fe dentro de los cinco días siguientes a la presentación de la nueva oferta. En este caso, los trabajadores deberán pronunciarse sobre la mantención de la huelga o la aceptación de la nueva oferta del empleador. La aceptación de la nueva oferta deberá ser aprobada por la mayoría absoluta de los trabajadores involucrados en la negociación.
-
-En el caso de la micro y pequeña empresa, la votación a que se refiere el inciso anterior se realizará dentro de los dos días siguientes de presentada la nueva oferta.
-
-Si la nueva oferta a que se refiere el inciso primero es rechazada, el empleador podrá presentar otra transcurridos cinco días desde su votación, la que deberá ser sometida a votación en los términos y plazos previstos en los incisos anteriores, en la medida que cumpla con las formalidades y publicidad previstas en el artículo 346. Este derecho podrá ejercerse en forma sucesiva hasta la aprobación de una nueva oferta.
-
-Para el cómputo de los quórum de que trata este artículo se aplicará lo dispuesto en el inciso segundo del artículo 350.
-
-#### Artículo 357
-
-Derecho a reincorporación individual del trabajador. Estará prohibido al empleador ofrecer o aceptar la reincorporación individual de los trabajadores en huelga, salvo en las condiciones establecidas en este artículo.
-
-En la gran y mediana empresa, los trabajadores involucrados en la negociación podrán ejercer el derecho a reincorporarse individualmente a sus funciones a partir del decimosexto día de iniciada la huelga, siempre que la última oferta formulada en la forma y con la anticipación señalada en el artículo 346 contemple, a lo menos, lo siguiente:
-
-a) Idénticas estipulaciones que las contenidas en el contrato, convenio o fallo arbitral vigente, reajustadas en el porcentaje de variación del Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el que haga sus veces, habido en el período comprendido entre la fecha del último reajuste y la fecha de término de vigencia del respectivo instrumento.
-
-b) Una reajustabilidad mínima anual según la variación del Índice de Precios al Consumidor para el período del contrato, a partir de la suscripción del mismo.
-
-En la micro y pequeña empresa, si la última oferta cumple las condiciones señaladas en el inciso anterior, los trabajadores involucrados en la negociación podrán ejercer el derecho a reincorporarse individualmente a sus funciones a partir del sexto día de iniciada la huelga.
-
-Si el empleador no hace una oferta de las características y en la oportunidad señalada en los incisos anteriores, los trabajadores de la gran y mediana empresa involucrados en la negociación podrán ejercer el derecho a reincorporarse individualmente a partir del trigésimo día de iniciada la huelga. En la micro y pequeña empresa, este derecho podrá ejercerse a partir del día décimo sexto.
-
-Los trabajadores que opten por reincorporarse individualmente de acuerdo a lo señalado en este artículo, lo harán en las condiciones contendidas en la última oferta del empleador y a partir de ese momento no les será aplicable lo dispuesto en el inciso final del artículo 323.
-
-El ejercicio del derecho a reincorporación individual no afectará la huelga de los demás trabajadores.
-
-#### Artículo 358
-
-De la reanudación de las negociaciones, de la suspensión y del término de la huelga. Durante la huelga las partes podrán reanudar las negociaciones las veces que estimen conveniente, sin sujeción a ninguna restricción o regla especial.
-
-Las partes podrán acordar la suspensión temporal de la huelga por el plazo que estimen pertinente. El acuerdo deberá ser suscrito por las comisiones negociadoras y depositado en la Inspección del Trabajo. En este caso, también se entenderá suspendido el cierre temporal de la empresa.
-
-La suscripción del contrato colectivo hará cesar de pleno derecho los efectos de la huelga.
-
-## Capítulo VII
-
-LIMITACIONES AL EJERCICIO DEL DERECHO A HUELGA
-
-#### Artículo 359
-
-Servicios mínimos y equipos de emergencia. Sin afectar el derecho a huelga en su esencia, durante esta la comisión negociadora sindical estará obligada a proveer el personal destinado a atender los servicios mínimos estrictamente necesarios para proteger los bienes corporales e instalaciones de la empresa y prevenir accidentes, así como garantizar la prestación de servicios de utilidad pública, la atención de necesidades básicas de la población, incluidas las relacionadas con la vida, la seguridad o la salud de las personas, y para garantizar la prevención de daños ambientales o sanitarios. En esta determinación se deberán considerar los requerimientos vinculados con el tamaño y características de la empresa, establecimiento o faena.
-
-El personal destinado por el sindicato a atender los servicios mínimos se conformará con trabajadores involucrados en el proceso de negociación y recibirá el nombre de equipo de emergencia. Sus integrantes deberán percibir remuneraciones por el tiempo trabajado.
-
-Los servicios mínimos deberán proveerse durante el tiempo que sea necesario y para los fines que fueron determinados.
-
-En el caso que el sindicato no provea el equipo de emergencia, la empresa podrá adoptar las medidas necesarias para atender los servicios mínimos, incluyendo la contratación de estos servicios, debiendo informar de ello inmediatamente a la Inspección del Trabajo, con el objeto que constate este incumplimiento. Las medidas adoptadas por el empleador no podrán involucrar a un número superior de trabajadores del equipo de emergencia que no hayan sido proveídos por el sindicato, salvo que la Inspección del Trabajo autorice fundadamente un número distinto.
-
-#### Artículo 360
-
-Calificación de los servicios mínimos y de los equipos de emergencia. Los servicios mínimos y los equipos de emergencia deberán ser calificados antes del inicio de la negociación colectiva.
-
-La calificación deberá identificar los servicios mínimos de la empresa, así como el número y las competencias profesionales o técnicas de los trabajadores que deberán conformar los equipos de emergencia.
-
-El empleador deberá proponer por escrito a todos los sindicatos existentes en la empresa, con una anticipación de, a lo menos, ciento ochenta días al vencimiento del instrumento colectivo vigente, su propuesta de calificación de servicios mínimos y equipos de emergencia para la empresa, remitiendo copia de la propuesta a la Inspección del Trabajo. En el caso de haber más de un instrumento colectivo vigente en la empresa, los referidos ciento ochenta días se considerarán respecto del instrumento colectivo más próximo a vencer.
-
-En caso que no exista sindicato en la empresa, el empleador deberá formular su propuesta dentro de los quince días siguientes a la comunicación de la constitución del sindicato efectuada de conformidad al artículo 225 de este Código, plazo durante el cual no se podrá iniciar la negociación colectiva. Habiéndose formulado el requerimiento por parte del empleador, tampoco se podrá iniciar la negociación colectiva en tanto no estén calificados los servicios mínimos y equipos de emergencia.
-
-Recibida la propuesta del empleador, los sindicatos tendrán un plazo de quince días para responder, en forma conjunta o separada.
-
-Las partes tendrán un plazo de treinta días desde formulada la propuesta para alcanzar un acuerdo.
-
-En caso de acuerdo, se levantará un acta que consigne los servicios mínimos y los equipos de emergencia concordados, la que deberá ser suscrita por el empleador y por todos los sindicatos que concurrieron a la calificación. Copia del acta deberá depositarse en la Inspección del Trabajo dentro de los cinco días siguientes a su suscripción.
-
-Si las partes no logran acuerdo o este no involucra a todos los sindicatos, cualquiera de ellas podrá requerir la intervención de la Dirección Regional del Trabajo, dentro de los cinco días siguientes.
-
-En caso que la empresa tenga establecimientos o faenas en dos o más regiones del país, el requerimiento deberá formularse ante la Dirección Regional del Trabajo del domicilio del requirente. En caso que haya sido requerida la intervención de dos o más Direcciones Regionales, la Dirección Nacional del Trabajo determinará cuál de ellas resolverá todos los requerimientos.
-
-Recibido el requerimiento, la Dirección Regional del Trabajo deberá oír a las partes y solicitar un informe técnico al organismo regulador o fiscalizador que corresponda. Cualquiera de las partes podrá acompañar informes técnicos de organismos públicos o privados. Asimismo, a requerimiento de parte o de oficio, la Dirección Regional del Trabajo podrá realizar visitas inspectivas.
-
-La resolución que emita la Dirección Regional del Trabajo calificando los servicios mínimos y los equipos de emergencia de la empresa deberá ser fundada y emitida dentro de los cuarenta y cinco días siguientes al requerimiento. Esta resolución deberá ser notificada a las partes dentro de los cinco días siguientes a su emisión y sólo será reclamable ante el Director Nacional del Trabajo.
-
-La Dirección del Trabajo, en el mes de abril de cada año, publicará los estándares técnicos de carácter general que han servido de base para la calificación de los servicios mínimos y los equipos de emergencia.
-
-Por circunstancias sobrevinientes, la calificación podrá ser revisada si cambian las condiciones que motivaron su determinación, de acuerdo al procedimiento previsto en los incisos anteriores. La solicitud de revisión deberá ser siempre fundada por el requirente.
-
-#### Artículo 361
-
-Conformación de los equipos de emergencia. El empleador, en su respuesta al proyecto de contrato colectivo, deberá proponer a la comisión negociadora sindical los trabajadores afiliados al sindicato que conformarán los equipos de emergencia, cuando corresponda.
-
-La comisión negociadora sindical tendrá un plazo de cuarenta y ocho horas para responder la propuesta del empleador. Si no contesta dentro del plazo señalado, se entenderá aceptada esta propuesta.
-
-En caso de negativa expresa de la comisión negociadora sindical o discrepancia en el número o identidad de los trabajadores del sindicato respectivo que deben conformar los equipos de emergencia, el empleador deberá solicitar a la Inspección del Trabajo que se pronuncie dentro del plazo de cinco días contados desde la respuesta. La Inspección del Trabajo tendrá un plazo de diez días para resolver el requerimiento. La resolución será notificada al correo electrónico designado por las partes y en contra de ella sólo procederá el recurso de reposición.
-
-#### Artículo 362
-
-Determinación de las empresas en las que no se podrá ejercer el derecho a huelga. No podrán declarar la huelga los trabajadores que presten servicios en corporaciones o empresas, cualquiera sea su naturaleza, finalidad o función, que atiendan servicios de utilidad pública o cuya paralización cause grave daño a la salud, a la economía del país, al abastecimiento de la población o a la seguridad nacional.
-
-La calificación de encontrarse la empresa en alguna de las situaciones señaladas en este artículo será efectuada cada dos años, dentro del mes de julio, por resolución conjunta de los Ministros del Trabajo y Previsión Social, Defensa Nacional y Economía, Fomento y Turismo, previa solicitud fundada de parte, la que deberá presentarse hasta el 31 de mayo del año respectivo.
-
-Promovida la solicitud, se pondrá en conocimiento de la contraparte empleadora o trabajadora para que formule las observaciones que estime pertinentes, dentro del plazo de quince días.
-
-Efectuada la calificación de una empresa e incorporada en la resolución conjunta respectiva, sólo por causa sobreviniente y a solicitud de parte, se podrá revisar su permanencia.
-
-La resolución deberá publicarse en el Diario Oficial y podrá ser reclamada ante la Corte de Apelaciones de acuerdo a las reglas establecidas en el artículo 402.
-
-#### Artículo 363
-
-Reanudación de faenas. En caso de producirse una huelga o el cierre temporal de la empresa, que por sus características, oportunidad o duración causare grave daño a la salud, al medio ambiente, al abastecimiento de bienes o servicios de la población, a la economía del país o a la seguridad nacional, el Tribunal de Letras del Trabajo respectivo podrá decretar la reanudación de faenas, previa solicitud de parte.
-
-La solicitud se tramitará a través del procedimiento monitorio de los artículos 496 y siguientes, con excepción de lo señalado en el
-
-inciso primero del artículo 497. Podrán ejercer la acción de que trata este artículo tanto la o las empresas, como la Dirección del Trabajo o el o los sindicatos, según corresponda.
-
-La reanudación de faenas se hará en las mismas condiciones vigentes en el momento de presentar el proyecto de contrato colectivo.
-
-Una vez que esté ejecutoriada, la sentencia definitiva deberá notificarse a la Dirección del Trabajo para los efectos de lo dispuesto en el artículo 387.
+Si ambas partes o una de ellas no aceptase dicha proposición o no diese respuesta dentro del plazo indicado precedentemente, pondrá término a su gestión, presentando a las partes un informe sobre el particular, en el cual dejará constancia de su proposición y de la última proposición de cada una de ellas, o sólo de la que la hubiese hecho.
 
 ## Título V
 
-REGLAS ESPECIALES PARA LA NEGOCIACIÓN COLECTIVA DE LOS TRABAJADORES AFILIADOS A SINDICATOS INTEREMPRESA, Y DE LA NEGOCIACIÓN COLECTIVA DE LOS TRABAJADORES EVENTUALES, DE TEMPORADA Y DE OBRA O FAENA TRANSITORIA
+DEL ARBITRAJE LABORAL
 
-## Capítulo I
+#### Artículo 355
 
-DE LA NEGOCIACIÓN COLECTIVA DEL SINDICATO INTEREMPRESA Y DE LOS TRABAJADORES AFILIADOS A SINDICATOS INTEREMPRESA
+Las partes podrán someter la negociación a arbitraje en cualquier momento, sea durante la negociación misma o incluso durante la huelga o el cierre temporal de empresa o lock-out.
 
-#### Artículo 364
+Sin embargo, el arbitraje será obligatorio en aquellos casos en que estén prohibidos la huelga y cierre temporal de empresa o lock-out, y en el de reanudación de faenas previsto en el artículo 385.
 
-Negociación colectiva de los trabajadores afiliados a un sindicato interempresa. Los trabajadores afiliados a un sindicato interempresa podrán negociar con su empleador conforme al procedimiento de la negociación colectiva reglada del Título IV de este Libro, con las modificaciones señaladas en este artículo.
+#### Artículo 356
 
-Para los efectos de la negociación colectiva, los sindicatos interempresa deberán agrupar a trabajadores que se desempeñen en empresas del mismo rubro o actividad económica. Asimismo, para negociar colectivamente en una empresa, el sindicato interempresa deberá contar con un total de afiliados no inferior a los quórum señalados en el artículo 227, respecto de los trabajadores que represente en esa empresa.
+En los casos de arbitraje voluntario el compromiso deberá constar por escrito, y en él se consignará el nombre del árbitro laboral o el procedimiento para designarlo. Copia de este acuerdo deberá enviarse a la Inspección del Trabajo dentro del plazo de cinco días contados desde su suscripción.
 
-El sindicato interempresa podrá negociar conforme a lo dispuesto en el artículo 314.
+El procedimiento será fijado libremente por las partes o por el árbitro laboral, en subsidio.
 
-En la micro y pequeña empresa será voluntario o facultativo negociar con el sindicato interempresa. Si el empleador acepta la negociación, deberá responder el proyecto de contrato colectivo dentro del plazo de diez días de presentado. Si la rechaza, deberá manifestarlo por escrito dentro del mismo plazo de diez días.
+#### Artículo 357
 
-En caso de negativa del empleador a negociar directamente con el sindicato interempresa, los trabajadores afiliados a él podrán presentar un proyecto de contrato colectivo e iniciar una negociación colectiva reglada con su empleador, entendiéndose para el solo efecto de este procedimiento que constituyen un sindicato de empresa, debiendo cumplir con el quórum señalado en el inciso segundo de este artículo.
+En los arbitrajes obligatorios a que se refiere el artículo 384, si hubiere vencido el contrato colectivo o fallo arbitral anterior o, en caso de no existir algunos de estos instrumentos, si hubieren transcurrido cuarenta y cinco días desde la presentación del proyecto de contrato en el caso de la negociación sujeta al procedimiento del Capítulo I del Título II, o sesenta en el caso de la negociación sujeta al procedimiento establecido en el Capítulo II del mismo título, sin que se hubiere suscrito el nuevo instrumento colectivo, la Inspección del Trabajo citará a las partes a un comparendo para dentro de tercero día, con el objeto de proceder a la designación del árbitro laboral. Esta audiencia se celebrará con cualquiera de las partes que asista, o aún en su ausencia, y de ella se levantará acta en la cual se dejará constancia de tal designación y de las últimas proposiciones de las partes.
 
-En la mediana y gran empresa, la negociación colectiva de los trabajadores afiliados a un sindicato interempresa se realizará a través del sindicato interempresa.
+Lo dispuesto en el inciso precedente se entenderá sin perjuicio de la prórroga a que se refiere el inciso primero del artículo 369, y del derecho de las partes para concurrir en cualquier tiempo a la Inspección del Trabajo para solicitar que se proceda a la designación del árbitro laboral. En caso de que ninguna de las partes asista, tal designación la hará el Inspector del Trabajo.
 
-La comisión negociadora sindical en la negociación colectiva reglada del sindicato interempresa estará integrada por los directores y los delegados sindicales que trabajen en la empresa en la que se negocia.
+En los arbitrajes señalados en el artículo 385, el plazo de la citación que deberá practicar la Inspección del Trabajo se contará a partir de la fecha del decreto respectivo.
 
-Podrán participar de las negociaciones los asesores de ambas partes, de conformidad a lo dispuesto en el artículo 330 de este Código.
+#### Artículo 358
 
-## Capítulo II
+El arbitraje obligatorio se regirá, en cuanto a la constitución del tribunal arbitral, al procedimiento a que debe ajustarse y al cumplimiento de sus resoluciones, por lo dispuesto en este Título y, en lo que fuere compatible, por lo establecido para los árbitros arbitradores en el párrafo 2.° del Título VIII del Libro III del Código de Procedimiento Civil.
 
-DE LA NEGOCIACIÓN COLECTIVA DE LOS TRABAJADORES EVENTUALES, DE TEMPORADA Y DE OBRA O FAENA TRANSITORIA
+#### Artículo 359
 
-#### Artículo 365
+Las negociaciones sometidas a arbitrajes obligatorios serán resueltas en primera instancia por un tribunal arbitral unipersonal, que será designado de entre la nómina de árbitros laborales confeccionada en conformidad a las disposiciones del Título X de este Libro.
 
-Procedimiento especial de negociación. Los trabajadores eventuales, de temporada y de obra o faena transitoria, sólo podrán negociar colectivamente conforme a lo dispuesto en el artículo 314 o a las disposiciones previstas en este Capítulo.
+Para designar el árbitro laboral, las partes podrán elegir de común acuerdo a uno de los indicados en la referida nómina, y a falta de dicho acuerdo, deberán proceder a enumerar en un orden de preferencia los distintos árbitros laborales incluidos en la nómina. La Inspección del Trabajo designará a aquel que más se aproxime a las preferencias de ambas partes; si se produjere igualdad de preferencias, el árbitro laboral será elegido por sorteo de entre aquellos que obtuvieron la igualdad.
 
-Las empresas estarán obligadas a negociar conforme al procedimiento regulado en este Capítulo sólo en el caso que la obra o faena transitoria tenga una duración superior a doce meses. Con todo, los trabajadores sujetos a esta negociación no gozarán de las prerrogativas de los artículos 309 y 345.
+Si a la audiencia no asistieren las partes o una de ellas, el árbitro laboral será designado por sorteo.
 
-#### Artículo 366
+#### Artículo 360
 
-Inicio de la negociación y contenido del proyecto. La negociación deberá iniciarse con la presentación de un proyecto de convenio colectivo con las condiciones comunes de trabajo y remuneraciones para un período de tiempo, temporada u obra o faena transitoria determinada.
+Serán aplicables a los árbitros laborales las causales de implicancia y recusación señaladas en los artículos 195 y 196 del Código Orgánico de Tribunales, declarándose que la mención que en dichas normas se hace a los abogados de las partes debe entenderse referida a los asesores de las mismas en el respectivo procedimiento de negociación colectiva.
 
-El proyecto de convenio colectivo deberá contener, a lo menos, las siguientes menciones:
+Para los efectos de las implicancias o recusaciones, solamente se entenderán como parte el empleador, sus representantes legales, sus apoderados en el procedimiento de negociación colectiva, los directores de los sindicatos interesados en la misma, y los integrantes de la respectiva comisión negociadora de los trabajadores, en su caso.
 
-1. La identificación de la organización que presenta el proyecto y la individualización de los miembros de la comisión negociadora sindical de conformidad a las reglas del artículo 330, con indicación de un domicilio y correo electrónico.
-
-2. Las cláusulas que se proponen a la empresa.
-
-3. El ámbito de la negociación.
-
-4. La determinación de la obra o faena o período de tiempo comprendido en la negociación.
-
-#### Artículo 367
-
-Oportunidad, formalidades y comunicación del proyecto. El sindicato podrá presentar el proyecto de convenio colectivo a una o más empresas, una vez iniciada la obra o faena transitoria.
-
-Copia del proyecto de convenio colectivo firmada por un representante de la o las empresas, para acreditar que ha sido recibido, deberá entregarse a la Inspección del Trabajo respectiva, dentro de los cinco días siguientes a su presentación.
-
-Si el representante de la empresa se negare a firmar dicha copia, la organización sindical podrá requerir a la Inspección del Trabajo, dentro de los tres días siguientes al vencimiento del plazo señalado en el inciso anterior, para que le notifique el proyecto de convenio.
-
-#### Artículo 368
-
-Respuesta del empleador. La empresa deberá dar respuesta al proyecto de convenio colectivo dentro del plazo de cinco días contado desde la presentación del mismo, enviándola a la comisión negociadora sindical, con copia a la Inspección del Trabajo. En la respuesta deberá consignar la individualización de la empresa, la comisión negociadora y una dirección de correo electrónico para las comunicaciones que deban producirse durante la negociación. Deberá también señalar las cláusulas que se proponen celebrar, pudiendo incluir entre ellas los pactos sobre condiciones especiales de trabajo a los que se refiere el artículo 372.
-
-En el caso que el proyecto de convenio colectivo se presente a dos o más empresas, cada una de ellas deberá decidir si negocia en forma conjunta o separada, y comunicará su decisión a la comisión negociadora sindical en su respuesta al proyecto de convenio colectivo.
-
-#### Artículo 369
-
-Reuniones durante la negociación. Durante la negociación y con el objeto de lograr un acuerdo, las partes se reunirán el número de veces que estimen necesario. Las partes podrán asistir a estas reuniones con sus asesores.
-
-#### Artículo 370
-
-Mediación. Cualquiera de las partes podrá solicitar la mediación de la Inspección del Trabajo, la que estará dotada de amplias facultades para instarlas a lograr un acuerdo. La asistencia de las partes a las audiencias de mediación será obligatoria.
-
-Este procedimiento de mediación durará cinco días hábiles, prorrogable por mutuo acuerdo de las partes por el plazo que estimen pertinente.
-
-#### Artículo 371
-
-Relación del convenio colectivo con el contrato individual y registro del instrumento. Las estipulaciones de los convenios colectivos celebrados en virtud de las normas de este Capítulo se tendrán como parte integrante de los contratos individuales de los trabajadores afiliados a la o las organizaciones sindicales que los hubieren negociado, incluidos aquellos que se afilien con posterioridad.
-
-Los convenios colectivos deberán ser registrados en la Inspección del Trabajo respectiva, dentro del plazo de cinco días contado desde su suscripción.
-
-#### Artículo 372
-
-Pactos sobre condiciones especiales de trabajo. Los convenios colectivos suscritos de acuerdo a las reglas precedentes podrán incluir pactos sobre condiciones especiales de trabajo de conformidad a lo dispuesto en el Título VI de este Libro.
-
-#### Artículo 373
-
-Convenio de provisión de puestos de trabajo. Los convenios de provisión de puestos de trabajo de que trata el artículo 142 podrán negociarse conforme a las reglas del presente Capítulo.
-
-Durante la vigencia de un convenio de provisión de puestos de trabajo, sus estipulaciones beneficiarán a todos los afiliados a la organización que los negocie, que sean expresamente considerados en la nómina del convenio. Las estipulaciones del convenio referidas al monto de la remuneración acordada para el respectivo turno se harán extensivas a los trabajadores no considerados en la nómina antes señalada cada vez que sean contratados por el empleador. A estos últimos trabajadores no se les extenderán los demás beneficios del convenio, ni la garantía de ofertas de trabajo de la letra a) del artículo 142, salvo que medie acuerdo expreso del empleador.
-
-En cuanto a su contenido, los convenios de provisión de puestos de trabajo quedarán enteramente sujetos a lo dispuesto en el artículo 142.
-
-## Título VI
-
-DE LOS PACTOS SOBRE CONDICIONES ESPECIALES DE TRABAJO
-
-#### Artículo 374
-
-Requisitos, procedimiento y ámbito de aplicación de los pactos sobre condiciones especiales de trabajo. En aquellas empresas que tengan una afiliación sindical igual o superior al 30% del total de sus trabajadores, la o las organizaciones sindicales, conjunta o separadamente, podrán acordar con el empleador los pactos sobre condiciones especiales de trabajo de que trata este Título.
-
-Estos pactos sólo podrán acordarse en forma directa y sin sujeción a las normas de la negociación colectiva reglada. Su aprobación por parte del sindicato se sujetará a las disposiciones que establezcan sus estatutos y si estos nada dicen, se aprobarán por mayoría absoluta, en asamblea convocada al efecto y ante un ministro de fe.
-
-La duración máxima de estos pactos será de tres años.
-
-Los pactos serán aplicables a los trabajadores representados por las organizaciones sindicales que los hayan celebrado, salvo que las partes excluyan
-
-expresamente de su aplicación a los trabajadores que lo hubieren solicitado.
-
-Para aplicar estos pactos a los trabajadores de la empresa sin afiliación sindical se requerirá de su consentimiento expreso, manifestado por escrito.
-
-#### Artículo 375
-
-Derogado.
-
-#### Artículo 376
-
-Pactos para trabajadores con responsabilidades familiares. Las organizaciones sindicales podrán celebrar con el empleador, pactos con el objeto que trabajadores con responsabilidades familiares puedan acceder a sistemas de jornada que combinen tiempos de trabajo presencial en la empresa y fuera de ella.
-
-Para acogerse a este pacto, el trabajador deberá solicitarlo por escrito al empleador quien deberá responder de igual forma en el plazo de treinta días. El empleador tendrá la facultad de aceptar o rechazar la solicitud.
-
-Aceptada la solicitud del trabajador, deberá suscribirse un anexo al contrato individual de trabajo que deberá contener las siguientes menciones:
-
-1. El lugar o lugares alternativos a la empresa en que el trabajador prestará los servicios, pudiendo ser el hogar del trabajador u otro lugar convenido con el empleador.
-
-2. Las adecuaciones a la jornada de trabajo, si fuere necesario.
-
-3. Los sistemas de control y gestión que utilizará el empleador respecto de los servicios convenidos con el trabajador.
-
-4. El tiempo de duración del acuerdo.
-
-El trabajador podrá unilateralmente volver a las condiciones originalmente pactadas en su contrato de trabajo, previo aviso por escrito al empleador con una anticipación mínima de treinta días.
-
-Estos pactos también podrán ser convenidos para aplicarse a trabajadores jóvenes que cursen estudios regulares, mujeres, personas con discapacidad u otras categorías de trabajadores que definan de común acuerdo el empleador y la organización sindical.
-
-Asimismo, las organizaciones sindicales podrán acordar con su empleador que, durante el periodo de vacaciones definido por el Ministerio de Educación, conforme al calendario del año escolar respectivo, las personas trabajadoras que, durante la vigencia de la relación laboral, tengan el cuidado personal de un niño o niña menor de catorce años o que tengan a su cargo el cuidado de una persona con discapacidad o en situación de dependencia severa o moderada, no importando la edad de quien se cuida, sin recibir remuneración por dicha actividad, puedan solicitar la reducción transitoria de su jornada laboral durante todo o parte de dicho periodo, volviendo a las condiciones originalmente pactadas una vez finalizado.
-
-#### Artículo 377
-
-Registro y fiscalización de los pactos. Dentro de los cinco días siguientes a la suscripción del pacto, el empleador deberá registrar dicho instrumento de manera electrónica ante la Dirección del Trabajo.
-
-El Director del Trabajo, mediante resolución exenta, determinará la forma, condiciones y características del registro de los pactos y las demás normas necesarias para verificar el cumplimiento de los requisitos contemplados en los artículos anteriores.
-
-La Dirección del Trabajo pondrá a disposición del público modelos tipo de pactos sobre condiciones especiales de trabajo, que se ajusten a las disposiciones de este Título.
-
-La fiscalización del cumplimiento de los pactos corresponderá a la Dirección del Trabajo.
-
-En caso de incumplimiento de los requisitos contemplados en los artículos anteriores o si sus estipulaciones infringen gravemente el cumplimiento de normas de higiene y seguridad en el trabajo, el Director del Trabajo podrá, mediante resolución fundada, dejar sin efecto los pactos de que trata este Título. Esta resolución será reclamable ante el tribunal respectivo de conformidad al procedimiento de aplicación general contemplado en el Párrafo 3° del Capítulo II del Título I del Libro V de este Código.
-
-## Título VII
-
-DE LA MEDIACIÓN, LA MEDIACIÓN LABORAL DE CONFLICTOS COLECTIVOS Y EL ARBITRAJE
-
-## Capítulo I
-
-DE LA MEDIACIÓN
-
-#### Artículo 377 bis
-
-Concepto. Se entenderá por mediación laboral el sistema de resolución de conflictos en el que un tercero imparcial llamado mediador, sin poder decisorio, colabora con las partes, y les facilita la búsqueda, por sí mismas, de una solución al conflicto y sus efectos, mediante acuerdos.
-
-#### Artículo 378
-
-Tipos de mediación. Conforme a lo previsto en este Libro, habrá mediación voluntaria cuando las partes de común acuerdo soliciten la designación de un mediador a la Dirección del Trabajo, o bien cuando ésta de oficio cite o convoque a las partes a una mediación voluntaria, para los fines y el ejercicio de sus facultades establecidas en el artículo 29 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social.
-
-La mediación voluntaria tendrá un plazo máximo de diez días contado desde la notificación de la designación del mediador.
-
-#### Artículo 379
-
-Facultades del mediador. En el cumplimiento de sus funciones, el mediador podrá requerir los antecedentes que juzgue necesarios, efectuar las visitas que estime procedentes a los lugares de trabajo, hacerse asesorar por organismos públicos o por expertos y requerir aquellos antecedentes documentales, laborales, tributarios, contables o de cualquier otra índole que las leyes respectivas permitan exigir a las empresas involucradas en la mediación y a las autoridades.
-
-En casos calificados y con acuerdo de las partes, el mediador podrá ser asesorado por un experto a costo del Servicio, para lo cual deberá ser autorizado por el Director Nacional del Trabajo. La designación de dicho asesor será de consuno por las partes, de entre aquellos que se encuentren previamente registrados en una nómina que llevará la Dirección del Trabajo. A falta de acuerdo, será el Director del Trabajo quien lo designará. De todo lo anterior se dejará constancia en el informe respectivo. El asesor colaborará con el mediador, quien será siempre el responsable del proceso.
-
-#### Artículo 380
-
-Informe de mediación. Si no se produce acuerdo dentro del plazo, el mediador pondrá término a su gestión, presentando a las partes un informe sobre lo realizado.
-
-## Capítulo II
-
-DE LA MEDIACIÓN LABORAL DE CONFLICTOS COLECTIVOS
-
-#### Artículo 381
-
-Mediación laboral de conflictos colectivos. Los conflictos colectivos que no tengan un procedimiento especial previsto en este Libro para su resolución podrán sujetarse a las disposiciones de este Capítulo.
-
-#### Artículo 382
-
-Forma de inicio de la mediación de conflictos colectivos. Cualquiera de las partes podrá recurrir a la Inspección del Trabajo para solicitarle una instancia de mediación laboral de conflictos colectivos. Asimismo, la Inspección del Trabajo podrá intervenir de oficio.
-
-#### Artículo 383
-
-Facultades de la Inspección del Trabajo. La Inspección del Trabajo estará facultada para disponer la celebración de las audiencias que estime necesarias para llegar a un acuerdo.
-
-Para el logro del objeto de la mediación, la Inspección del Trabajo podrá solicitar asesoramiento e información a entidades públicas y privadas y ordenar medidas destinadas a contar con la mayor información necesaria para contribuir a resolver el conflicto.
-
-#### Artículo 384
-
-Informe de mediación. En caso de no prosperar la mediación, la Inspección del
-
-Trabajo levantará un informe que detallará las características del conflicto, la posición de
-
-las partes, las fórmulas de mediación analizadas y las posturas de las partes respecto de aquellas. Este informe será público.
-
-## Capítulo III
-
-DEL ARBITRAJE
-
-#### Artículo 385
-
-Definición de arbitraje. El arbitraje es un procedimiento a través del cual la organización sindical y el empleador, en los supuestos y al amparo de las reglas que señala este Capítulo, someten la negociación colectiva a un tribunal arbitral para decidir el asunto. La resolución del tribunal arbitral se denominará indistintamente laudo o fallo arbitral.
-
-Sin perjuicio de lo dispuesto en los artículos siguientes, un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Hacienda determinará las condiciones, plazos y formas por las cuales se llevará a cabo la designación del tribunal arbitral, la contratación de los árbitros, la supervigilancia del Registro Nacional de Árbitros Laborales y demás normas necesarias para el funcionamiento del arbitraje de que trata este Capítulo.
-
-#### Artículo 386
-
-Arbitraje voluntario y obligatorio. Las partes en cualquier momento podrán voluntariamente someter la negociación colectiva a arbitraje.
-
-El arbitraje será obligatorio para las partes en los casos en que esté prohibida la huelga y cuando se determine la reanudación de faenas, según lo dispuesto en el artículo 363.
-
-#### Artículo 387
-
-Del tribunal arbitral, de la nómina de árbitros y su designación. El tribunal arbitral será colegiado y estará integrado por tres árbitros.
-
-Suscrito el compromiso entre las partes, llegada la fecha de término de vigencia del instrumento colectivo o a partir del día siguiente de la notificación de la resolución que ordena la reanudación de faenas, la Dirección Regional del Trabajo correspondiente al domicilio de la empresa deberá citar a las partes a una audiencia dentro de quinto día para la designación del tribunal arbitral, la que se llevará a cabo con cualquiera de las partes que asista o en ausencia de ambas.
-
-En esta audiencia se procederá a designar a los árbitros que conformarán el tribunal arbitral, nombrando a tres titulares y dos suplentes entre los inscritos en la Nómina Nacional de Árbitros Laborales. Las designaciones serán de común acuerdo y, en ausencia de las partes, la Dirección Regional del Trabajo designará aquellos que más se aproximen a las preferencias de las mismas. Si las partes no manifestaren preferencias, la designación se hará por sorteo. El Director Regional del Trabajo procurará que al menos uno de los árbitros tenga domicilio en la Región respectiva.
-
-#### Artículo 388
-
-Notificación de los árbitros, audiencia de constitución y procedimientos de arbitraje. Los árbitros designados serán notificados por la Dirección Regional del Trabajo al correo electrónico que tengan registrado, quedando citados a una audiencia de constitución del tribunal arbitral dentro de quinto día. A esta audiencia también serán convocadas las partes.
-
-En la audiencia de constitución, el Director Regional del Trabajo tomará juramento o promesa a los árbitros designados, partiendo por los titulares y siguiendo por los suplentes. En caso de ausencia de un árbitro titular, tomará su lugar uno de los suplentes. Los árbitros deberán jurar o prometer dar fiel e íntegro cumplimiento a su cometido. En esta audiencia el tribunal arbitral definirá el procedimiento que seguirá para su funcionamiento.
-
-Una vez verificada la audiencia de constitución, el tribunal arbitral convocará a las partes a una audiencia dentro de los cinco días siguientes. En esta oportunidad las partes presentarán su última propuesta y realizarán las observaciones que estimen pertinentes. El tribunal levantará acta resumida de lo obrado.
-
-Al tribunal arbitral les serán aplicables los artículos 75, 76, 77, 78, 79, 80, 83, 85 y 89, inciso primero, del Código Orgánico de Tribunales, en todo aquello que no sea incompatible con las normas de este Capítulo.
-
-#### Artículo 389
-
-Facultades del tribunal. El tribunal arbitral podrá requerir los antecedentes que juzgue necesarios, efectuar las visitas que estime procedentes a los locales de trabajo, hacerse asesorar por organismos públicos o por expertos, sobre las diversas materias sometidas a su resolución, citar a audiencia a las partes, y exigir aquellos antecedentes documentales, laborales, tributarios, contables o de cualquier otra índole a las partes, que le permitan emitir su fallo de manera fundada.
-
-#### Artículo 390
-
-Del fallo y del derecho de las partes a celebrar un contrato colectivo antes de su dictación. El tribunal arbitral estará obligado a fallar en favor de la proposición de alguna de las partes.
-
-Mientras no se notifique el fallo a las partes, estas mantendrán la facultad de celebrar directamente un contrato colectivo.
-
-#### Artículo 391
-
-Plazo para fallar. El tribunal arbitral deberá fallar dentro de los treinta días hábiles siguientes a la celebración de la audiencia constitutiva, plazo que podrá prorrogarse fundadamente hasta por otros diez días hábiles. El fallo deberá resolver los asuntos sometidos a su decisión y no será objeto de recurso alguno.
-
-#### Artículo 392
-
-De la remuneración de los árbitros. La remuneración de los árbitros será determinada por el arancel que anualmente fije la Dirección del Trabajo para el año siguiente, la que será de costo fiscal, salvo cuando el procedimiento arbitral afecte a una gran empresa, caso en el cual el costo deberá ser asumido por esta.
-
-#### Artículo 393
-
-Secretaría del cuerpo arbitral. La Secretaría del cuerpo arbitral se radicará en la Dirección del Trabajo, la que será responsable de llevar el registro de árbitros.
-
-#### Artículo 394
-
-Registro Nacional de Árbitros Laborales y requisitos para incorporarse. Existirá un Registro Nacional de Árbitros Laborales en el cual podrán inscribirse las personas naturales que acrediten el cumplimiento de los siguientes requisitos:
-
-1. Poseer un título profesional de una carrera que tenga al menos ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por este.
-
-2. Experiencia no menor a cinco años en el ejercicio profesional o en la docencia universitaria en legislación laboral, relaciones laborales, recursos humanos o administración de empresas.
-
-3. No encontrarse inhabilitado para prestar servicios en el Estado o ejercer la función pública.
-
-4. No haber sido condenado por delito que merezca pena aflictiva.
-
-5. No tener la calidad de funcionario o servidor público de la Administración del Estado, centralizada o descentralizada.
-
-Los árbitros laborales permanecerán en el Registro mientras mantengan los requisitos legales para su inscripción en el mismo.
-
-#### Artículo 395
-
-Reglas generales. Corresponderá a la Dirección del Trabajo:
-
-1. La revisión del cumplimiento y mantención de los requisitos de quienes postulen a incorporarse en el Registro Nacional de Árbitros Laborales.
-
-2. El pago de los honorarios correspondientes a las remuneraciones de los integrantes del tribunal arbitral, cuando proceda.
-
-#### Artículo 396
-
-Contrato del árbitro. Constituido el tribunal arbitral, la Dirección del Trabajo suscribirá con cada uno de sus integrantes un contrato de prestación de servicios a honorarios, en el cual se especificará que estos se pagarán contra la entrega del fallo arbitral correspondiente, dentro del plazo máximo permitido.
-
-#### Artículo 397
-
-Causales de implicancia y recusación. Serán aplicables a los árbitros laborales las causales de implicancia y recusación señaladas en los artículos 195 y 196 del Código Orgánico de Tribunales, considerándose que la mención que en dichas normas se hace a los abogados de las partes deberá entenderse referida a los asesores de las mismas en el respectivo procedimiento de negociación colectiva.
-
-Para los efectos de las implicancias o recusaciones, solamente se entenderán como parte el empleador, sus representantes legales, sus apoderados en el procedimiento de negociación colectiva, los directores de los sindicatos interesados en la misma y los integrantes de la respectiva comisión negociadora sindical, en su caso.
-
-Las implicancias o recusaciones serán declaradas de oficio o a petición de parte por el tribunal arbitral, con exclusión del miembro afectado por estas.
+Las implicancias o recusaciones serán declaradas de oficio o a petición de parte por el árbitro laboral designado.
 
 En caso de implicancia, la declaración podrá formularse en cualquier tiempo.
 
-En caso de recusación, el tribunal deberá declararla dentro del plazo de cinco días hábiles desde su constitución. Dentro del mismo plazo, la parte interesada podrá también deducir las causales de recusación que fueren pertinentes.
+En caso de recusación, el tribunal deberá declararla dentro del plazo de cinco días hábiles de haberse constituido. Dentro del mismo plazo, la parte interesada podrá también deducir las causales de recusación que fueren pertinentes.
 
 Si la causal de recusación sobreviniere con posterioridad a la constitución del tribunal arbitral, el plazo a que se refiere el inciso anterior se contará desde que se tuvo conocimiento de la misma.
 
-Si el tribunal no diere lugar a la declaración de la implicancia o recusación, la parte afectada podrá apelar, dentro del plazo de cinco días hábiles, ante el Director del Trabajo, el que resolverá en el más breve plazo posible.
+Si el tribunal no diere lugar a la declaración de la implicancia o recusación, la parte afectada podrá apelar, dentro del plazo de cinco días hábiles, ante el Consejo Directivo del Cuerpo Arbitral, el que resolverá de acuerdo al procedimiento que se determine en conformidad a lo dispuesto en la letra g) del artículo 406. En uso de la facultad señalada, el Consejo podrá encomendar la resolución del asunto a dos o más de sus miembros y la decisión de éstos será la del Consejo Directivo del Cuerpo Arbitral.
 
 La interposición de este recurso no suspenderá el procedimiento de arbitraje. Con todo, no podrá procederse a la dictación del fallo arbitral sin que previamente se haya resuelto la implicancia o recusación.
 
-La resolución que se pronuncie acerca de la implicancia o recusación se notificará a las partes por carta certificada.
+La resolución que se pronuncie acerca de la implicancia o recusación se notificará a las partes en la forma dispuesta por el inciso final del artículo 411.
 
-#### Artículo 398
+#### Artículo 361
 
-Características del Registro Nacional de Árbitros Laborales. El Registro Nacional de Árbitros Laborales será de carácter público. Contendrá el nombre del árbitro, región o regiones de desempeño, los casos asignados y terminados y el monto de los honorarios percibidos.
+El tribunal a que se refiere el artículo 359, deberá constituirse dentro de los cinco días hábiles siguientes a la notificación de su designación.
+
+La notificación al árbitro laboral o a los árbitros laborales designados será practicada por el Secretario del Cuerpo Arbitral, para cuyo efecto el Inspector del Trabajo pondrá en su conocimiento, dentro de los tres días siguientes a esta designación, el nombre de aquél o aquéllos, y le remitirá el expediente de la negociación.
+
+El procedimiento arbitral será fijado por las partes o, en caso de desacuerdo, por el tribunal.
+
+El tribunal deberá fallar dentro de los treinta días hábiles siguientes a su constitución, plazo que podrá prorrogar fundadamente por otros diez días hábiles.
+
+Si el tribunal no se constituyere dentro del plazo establecido, deberá procederse a la designación de uno nuevo, ajustándose el procedimiento en lo demás a lo dispuesto en los artículos precedentes.
+
+Lo señalado en el inciso anterior se entenderá sin perjuicio de lo dispuesto en la letra c) del artículo 411.
+
+#### Artículo 362
+
+El tribunal podrá requerir los antecedentes que juzgue necesarios, efectuar las visitas que estime procedentes a los locales de trabajo, hacerse asesorar por organismos públicos o por expertos sobre las diversas materias sometidas a su resolución, y exigir aquellos antecedentes documentales, laborales, tributarios, contables o de cualquier otra índole que las leyes respectivas permitan exigir a las autoridades de los diversos servicios inspectivos.
+
+Al hacerse cargo de su gestión, el tribunal recibirá de la Inspección del Trabajo toda la documentación que constituye el expediente de negociación existente en dicha repartición.
+
+#### Artículo 363
+
+El tribunal arbitral, en los arbitrajes obligatorios previstos en los artículos 384 y 385, estará obligado a fallar en favor de una de las dos proposiciones de las partes, vigentes en el momento de someterse el caso a arbitraje, debiendo aceptarla en su integridad. En consecuencia, no podrá fallar por una alternativa distinta ni contener en su fallo proposiciones de una y otra parte.
+
+Para emitir su fallo, el árbitro laboral deberá tomar en consideración, entre otros, los siguientes elementos:
+
+a) El nivel de remuneraciones vigente en plaza para los distintos cargos o trabajos sometidos a negociación;
+
+b) El grado de especialización y experiencia de los trabajadores que les permite aportar una mayor productividad a la empresa en relación a otras de esa actividad u otra similar;
+
+c) Los aumentos de productividad obtenidos por los distintos grupos de trabajadores, y
+
+d) El nivel de empleo en la actividad de la empresa objeto de arbitraje.
+
+El fallo será fundado y deberá contener iguales menciones que las especificadas para el contrato colectivo y la regulación de los honorarios del tribunal arbitral.
+
+Las costas del arbitraje serán de cargo de ambas partes, por mitades.
+
+#### Artículo 364
+
+El fallo arbitral será apelable ante una Corte Arbitral integrada por tres miembros, designados en cada caso por sorteo, ante la Inspección del Trabajo, de entre la nómina de árbitros.
+
+Si en una misma empresa hubiere lugar a varios arbitrajes en la misma época de negociación, el tribunal arbitral de segunda instancia deberá estar integrado por las mismas personas.
+
+El recurso de apelación deberá interponerse ante el propio tribunal apelado, dentro del plazo de cinco días hábiles contados desde la notificación del fallo arbitral, para ante el tribunal de apelación respectivo; será fundado y deberá contener las peticiones concretas que se sometan al fallo de dicho tribunal.
+
+Deducido el recurso de apelación, el tribunal de primera instancia hará llegar los autos respectivos a la Inspección del Trabajo correspondiente, con el objeto de proceder a la designación de los integrantes del tribunal de apelaciones.
+
+La Corte Arbitral o el tribunal de segunda instancia funcionará con asistencia de la mayoría de sus miembros, bajo la presidencia de quien hubiere sido designado por mayoría de votos, o a falta de la misma, por sorteo.
+
+Las disposiciones de los artículos 361, 362 y 363 se aplicarán a la Corte Arbitral en lo que fueren pertinentes.
+
+#### Artículo 365
+
+La Corte Arbitral deberá emitir su fallo dentro de los treinta días siguientes al de notificación de su designación.
+
+El acuerdo que al efecto deba adoptar el tribunal respectivo se regirá por las disposiciones contenidas en los artículos 83 a 86 del Código Orgánico de Tribunales.
+
+Si para llegar a dicho acuerdo fuere necesario el concurso de otros árbitros laborales, en conformidad a las normas a que se refiere el inciso precedente, su integración al tribunal arbitral respectivo se hará llamando en cada oportunidad al que corresponda por orden alfabético.
+
+Las costas de la apelación serán de cargo de la parte vencida.
+
+#### Artículo 366
+
+En los casos en que proceda arbitraje obligatorio, si éste afecta a tres mil o más trabajadores el tribunal arbitral de primera instancia estará integrado por tres árbitros laborales. Dos de ellos serán elegidos de la nómina de árbitros laborales, y el tercero será designado discrecionalmente por el Ministerio de Hacienda. Sus fallos serán apelables para ante un tribunal de cinco miembros, tres de los cuales serán elegidos de entre la nómina de árbitros laborales, uno será designado por dicho Ministerio y otro por la Corte Suprema, en ambos casos discrecionalmente.
+
+Para la designación de los árbitros laborales de primera instancia, se aplicará lo dispuesto en el artículo 359 y si se tratare del tribunal de segunda instancia, dichos árbitros laborales se designarán por sorteo.
+
+#### Artículo 367
+
+Será aplicable a los fallos arbitrales lo establecido en los artículos 345, 346 y 349.
+
+Sin perjuicio de lo dispuesto en el inciso cuarto del artículo 347, el fallo tendrá vigencia a contar de la suscripción del compromiso.
+
+#### Artículo 368
+
+En cualquier estado del proceso arbitral, las partes podrán poner fin a la negociación y celebrar el respectivo contrato colectivo, sin perjuicio de pagar las costas ocasionadas por el arbitraje, de acuerdo al inciso segundo del artículo 400.
+
+## Título VI
+
+DE LA HUELGA Y DEL CIERRE TEMPORAL DE LA EMPRESA
+
+#### Artículo 369
+
+Si llegada la fecha de término del contrato, o transcurridos más de cuarenta y cinco días desde la presentación del respectivo proyecto si la negociación se ajusta al procedimiento del Capítulo I del Título II, o más de sesenta si la negociación se ajusta al procedimiento del Capítulo II del Título II, las partes aún no hubieren logrado un acuerdo, podrán prorrogar la vigencia del contrato anterior y continuar las negociaciones.
+
+La comisión negociadora podrá exigir al empleador, en cualquier oportunidad, durante el proceso de negociación, la suscripción de un nuevo contrato colectivo con iguales estipulaciones a las contenidas en los respectivos contratos vigentes al momento de presentarse el proyecto. El empleador no podrá negarse a esta exigencia y el contrato deberá celebrarse por el plazo de dieciocho meses.
+
+Con todo, no se incluirán en el nuevo contrato las estipulaciones relativas a reajustabilidad tanto de las remuneraciones como de los demás beneficios pactados en dinero.
+
+Para todos los efectos legales, el contrato se entenderá suscrito en la fecha en que la comisión negociadora comunique, por escrito, su decisión al empleador.
+
+#### Artículo 370
+
+Los trabajadores deberán resolver si aceptan la última oferta del empleador o si declaran la huelga, cuando concurran los siguientes requisitos:
+
+a) Que la negociación no esté sujeta a arbitraje obligatorio;
+
+b) Que el día de la votación esté comprendido dentro de los cinco últimos días de vigencia del contrato colectivo o del fallo anterior, o en el caso de no existir éstos, dentro de los cinco últimos días de un total de cuarenta y cinco o sesenta días contados desde la presentación del proyecto, según si la negociación se ajusta al procedimiento señalado en el Capítulo I o II del Título II, respectivamente, y
+
+c) Que las partes no hubieren convenido en someter el asunto a arbitraje.
+
+Para estos efectos, la comisión negociadora deberá convocar a una votación a lo menos con cinco días de anticipación.
+
+Si la votación no se efectuare en la oportunidad en que corresponda, se entenderá que los trabajadores aceptan la última proposición del empleador. Lo anterior es sin perjuicio de lo dispuesto en el inciso segundo del artículo 369, facultad que deberá ejercerse dentro del plazo de cinco días contados desde el último día en que debió procederse a la votación.
+
+Cuando la votación no se hubiere llevado a efecto por causas ajenas a los trabajadores éstos tendrán un plazo de cinco días para proceder a ella.
+
+Para los efectos de este Libro se entiende por última oferta u oferta vigente del empleador, la última que conste por escrito de haber sido recibida por la comisión negociadora y cuya copia se encuentre en poder de la Inspección del Trabajo respectiva.
+
+#### Artículo 371
+
+En las negociaciones colectivas a que se refiere el Capítulo II del Título II de este Libro, los trabajadores de cada empresa involucrados en la negociación deberán pronunciarse por aceptar la última oferta del empleador que le fuere aplicable o declarar la huelga, la que de aprobarse y hacerse efectiva sólo afectará a los trabajadores involucrados en la negociación en dicha empresa.
+
+#### Artículo 372
+
+La votación deberá efectuarse en forma personal, secreta y en presencia de un ministro de fe.
+
+Tendrán derecho a participar en la votación todos los trabajadores de la empresa respectiva involucrados en la negociación.
+
+El empleador deberá informar a todos los trabajadores interesados su última oferta y acompañar una copia de ella a la Inspección del Trabajo, con una anticipación de a lo menos dos días al plazo de cinco días indicado en la letra b) del artículo 370. Para este efecto, entregará un ejemplar a cada trabajador o exhibirá dicha proposición en lugares visibles de la empresa. Todos los gastos correspondientes a esta información serán de cargo del empleador.
+
+No será necesario enviar un ejemplar de la última oferta del empleador a la Inspección del Trabajo, si fuere coincidente con la respuesta dada al proyecto de contrato colectivo.
+
+Los votos serán impresos y deberán emitirse con la expresión "última oferta del empleador", o con la expresión "huelga", según sea la decisión de cada trabajador.
+
+El día que corresponda proceder a la votación a que se refiere este artículo no podrá realizarse asamblea alguna en la empresa involucrada en la votación.
+
+#### Artículo 373
+
+La huelga deberá ser acordada por la mayoría absoluta de los trabajadores de la respectiva empresa involucrados en la negociación. Si no obtuvieren dicho quórum se entenderá que los trabajadores aceptan la última oferta del empleador.
+
+Lo anterior se entiende sin perjuicio de lo dispuesto en el inciso segundo del artículo 369, facultad que deberá ejercerse dentro del plazo de tres días contados desde el día en que se efectuó la votación.
+
+#### Artículo 374
+
+Acordada la huelga, ésta deberá hacerse efectiva al inicio de la respectiva jornada del tercer día siguiente a la fecha de su aprobación. Este plazo podrá prorrogarse, por acuerdo entre las partes, por otros diez días.
+
+Si la huelga no se hiciere efectiva en la oportunidad indicada, se entenderá que los trabajadores de la empresa respectiva han desistido de ella y, en consecuencia, que aceptan la última oferta del empleador. Lo anterior se entiende sin perjuicio de lo dispuesto en el inciso segundo del artículo 369, facultad esta última que deberá ejercerse dentro del plazo de cinco días contados desde la fecha en que debió hacerse efectiva la huelga.
+
+Se entenderá que no se ha hecho efectiva la huelga en la empresa si más de la mitad de los trabajadores de ésta, involucrados en la negociación, continuaren laborando en ella.
+
+Para los efectos de lo dispuesto en este artículo, en aquellas empresas en que el trabajo se realiza mediante el sistema de turnos, el quórum necesario para hacer efectiva la huelga se calculará sobre la totalidad de los trabajadores involucrados en la negociación y cuyos turnos se inicien al tercer día siguiente al de la aprobación de la huelga.
+
+#### Artículo 374 bis
+
+Dentro de las cuarenta y ocho horas siguientes de acordada la huelga, sin que se haya recurrido a mediación o arbitraje voluntario, cualquiera de las partes podrá solicitar al Inspector del Trabajo competente la interposición de sus buenos oficios, para facilitar el acuerdo entre ellas.
+
+En el desempeño de su cometido, el Inspector del Trabajo podrá citar a las partes, en forma conjunta o separada, cuantas veces estime necesario, con el objeto de acercar posiciones y facilitar el establecimiento de bases de acuerdo para la suscripción del contrato colectivo.
+
+Transcurridos cinco días hábiles desde que fuere solicitada su intervención, sin que las partes hubieren llegado a un acuerdo, el Inspector del Trabajo dará por terminada su labor, debiendo hacerse efectiva la huelga al inicio del día siguiente hábil. Sin perjuicio de lo anterior, las partes podrán acordar que el Inspector del Trabajo continúe desarrollando su gestión por un lapso de hasta cinco días, prorrogándose por ese hecho la fecha en que la huelga deba hacerse efectiva.
+
+De las audiencias que se realicen ante el Inspector del Trabajo deberá levantarse acta firmada por los comparecientes y el funcionario referido.
+
+#### Artículo 375
+
+Acordada la huelga y una vez que ésta se hubiere hecho efectiva, el empleador podrá declarar el lock-out o cierre temporal de la empresa, el que podrá ser total o parcial.
+
+Se entenderá por lock-out el derecho del empleador, iniciada la huelga, a impedir temporalmente el acceso a todos los trabajadores a la empresa o predio o al establecimiento.
+
+El lock-out es total si afecta a todos los trabajadores de la empresa o predio, y es parcial cuando afecta a todos los trabajadores de uno o más establecimientos de una empresa. Para declarar lock-out parcial será necesario que en el establecimiento respectivo haya trabajadores involucrados en el proceso de negociación que lo origine.
+
+Los establecimientos no afectados por el lock-out parcial continuarán funcionando normalmente.
+
+En todo caso, el lock-out no afectará a los trabajadores a que se refieren los números 2, 3 y 4 del artículo 305.
+
+El lock-out no podrá extenderse más allá del trigésimo día, a contar de la fecha en que se hizo efectiva la huelga o del día del término de la huelga, cualquiera ocurra primero.
+
+#### Artículo 376
+
+El lock-out, sea total o parcial, sólo podrá ser declarado por el empleador si la huelga afectare a más del cincuenta por ciento del total de trabajadores de la empresa o del establecimiento en su caso, o significare la paralización de actividades imprescindibles para su funcionamiento, cualquiera fuere en este caso el porcentaje de trabajadores en huelga.
+
+En caso de reclamo, la calificación de las circunstancias de hecho señaladas en el inciso anterior la efectuará la Inspección del Trabajo, dentro de tercero día de formulada la reclamación, sin perjuicio de reclamarse judicialmente de lo resuelto conforme a lo dispuesto en el último inciso del artículo 380.
+
+#### Artículo 377
+
+Durante la huelga o el cierre temporal o lock-out se entenderá suspendido el contrato de trabajo, respecto de los trabajadores y del empleador que se encuentren involucrados o a quienes afecte, en su caso.
+
+En consecuencia, los trabajadores no estarán obligados a prestar sus servicios ni el empleador al pago de sus remuneraciones, beneficios y regalías derivadas de dicho contrato.
+
+Durante la huelga o durante el cierre temporal o lock-out, los trabajadores podrán efectuar trabajos temporales, fuera de la empresa, sin que ello signifique el término del contrato de trabajo con el empleador.
+
+Durante la huelga los trabajadores podrán efectuar voluntariamente las cotizaciones previsionales o de seguridad social en los organismos respectivos. Sin embargo, en caso de lock-out, el empleador deberá efectuarlas respecto de aquellos trabajadores afectados por éste que no se encuentren en huelga.
+
+#### Artículo 378
+
+Una vez declarada la huelga, o durante su transcurso, la comisión negociadora podrá convocar a otra votación a fin de pronunciarse sobre la posibilidad de someter el asunto a mediación o arbitraje, respecto de un nuevo ofrecimiento del empleador o, a falta de éste, sobre su última oferta. El nuevo ofrecimiento deberá formularse por escrito, darse a conocer a los trabajadores antes de la votación y si fuere rechazado por éstos no tendrá valor alguno.
+
+Las decisiones que al respecto adopten los trabajadores deberán ser acordadas por la mayoría absoluta de los involucrados en la negociación.
+
+Sin perjuicio de lo dispuesto en los artículos 370, 373 y 374, la última oferta del empleador se entenderá subsistente, mientras éste no la retire con las mismas formalidades establecidas en el inciso final del artículo 370.
+
+Constituido el compromiso, cesará la huelga y los trabajadores deberán reintegrarse a sus labores en las mismas condiciones vigentes al momento de presentarse el proyecto de contrato colectivo.
+
+Será aplicable en estos casos lo dispuesto en los artículos 370 y 372, en lo que corresponda, pero no será obligatoria la presencia de un ministro de fe si el número de trabajadores involucrados fuere inferior a doscientos cincuenta.
+
+#### Artículo 379
+
+En cualquier momento podrá convocarse a votación al grupo de trabajadores involucrados en la negociación, por el veinte por ciento a lo menos de ellos, con el fin de pronunciarse sobre la censura a la comisión negociadora, la que deberá ser acordada por la mayoría absoluta de los involucrados en la negociación, en cuyo caso se procederá a la elección de una nueva comisión en el mismo acto.
+
+La votación será siempre secreta y deberá ser anunciada con veinticuatro horas de anticipación, a lo menos. En caso de tratarse de una negociación que involucre a doscientos cincuenta o más trabajadores, se efectuará ante un ministro de fe.
+
+Planteada la censura y notificada a la Inspección del Trabajo y al empleador, la comisión negociadora no podrá suscribir contrato colectivo ni acordar arbitraje sino una vez conocido el resultado de la votación.
+
+#### Artículo 380
+
+Si se produjere una huelga en una empresa o predio, o en un establecimiento cuya paralización provoque un daño actual e irreparable en sus bienes materiales o un daño a la salud de los usuarios de un establecimiento asistencial o de salud o que preste servicios esenciales, el sindicato o grupo negociador estará obligado a proporcionar el personal indispensable para la ejecución de las operaciones cuya paralización pueda causar este daño.
+
+La comisión negociadora deberá señalar al empleador, a requerimiento escrito de éste, los trabajadores que compondrán el equipo de emergencia, dentro de las veinticuatro horas siguientes a dicho requerimiento.
+
+Si así no lo hiciere, el empleador podrá reclamar a la Inspección del Trabajo a fin de que se pronuncie sobre la obligación de los trabajadores de proporcionar dicho equipo.
+
+Lo dispuesto en los incisos anteriores se aplicará cuando hubiere negativa expresa de los trabajadores, o si existiere discrepancia en cuanto a la composición del equipo.
+
+La reclamación deberá ser interpuesta por el empleador dentro del plazo de cinco días contados desde la fecha de la negativa de los trabajadores o de la falta de acuerdo, en su caso, y deberá ser resuelta dentro de las cuarenta y ocho horas siguientes a su presentación.
+
+De la resolución de la Inspección del Trabajo podrá reclamarse ante el Juzgado de Letras del Trabajo dentro de los cinco días siguientes a la fecha de la resolución o de la expiración del plazo señalado en el inciso anterior.
+
+#### Artículo 381
+
+Estará prohibido el reemplazo de los trabajadores en huelga, salvo que la última oferta formulada, en la forma y con la anticipación indicada en el inciso tercero del artículo 372, contemple a lo menos:
+
+a) Idénticas estipulaciones que las contenidas en el contrato, convenio o fallo arbitral vigente, reajustadas en el porcentaje de variación del Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el que haga sus veces, habido en el período comprendido entre la fecha del último reajuste y la fecha de término de vigencia del respectivo instrumento;
+
+b) Una reajustabilidad mínima anual según la variación del Indice de Precios al Consumidor para el período del contrato, excluidos los doce últimos meses;
+
+c) Un bono de reemplazo, que ascenderá a la cifra equivalente a cuatro unidades de fomento por cada trabajador contratado como reemplazante. La suma total a que ascienda dicho bono se pagará por partes iguales a los trabajadores involucrados en la huelga, dentro de los 5 días siguientes a la fecha en que ésta haya finalizado.
+
+En este caso, el empleador podrá contratar a los trabajadores que considere necesarios para el desempeño de las funciones de los involucrados en la huelga, a partir del primer día de haberse hecho ésta efectiva.
+
+Además, en dicho caso, los trabajadores podrán optar por reintegrarse individualmente a sus labores, a partir del décimo quinto día de haberse hecho efectiva la huelga.
+
+Si el empleador no hiciese una oferta de las características señaladas en el inciso primero, y en la oportunidad que allí se señala, podrá contratar los trabajadores que considere necesarios para el efecto ya indicado, a partir del décimo quinto día de hecha efectiva la huelga, siempre y cuando ofrezca el bono a que se refiere la letra c) del inciso primero de este artículo. En dicho caso, los trabajadores podrán optar por reintegrarse individualmente a sus labores, a partir del trigésimo día de haberse hecho efectiva la huelga.
+
+Si la oferta a que se refiere el inciso primero de este artículo fuese hecha por el empleador después de la oportunidad que allí se señala, los trabajadores podrán optar por reintegrarse individualmente a sus labores, a partir del décimo quinto día de materializada tal oferta, o del trigésimo día de haberse hecho efectiva la huelga, cualquiera de estos sea el primero. Con todo, el empleador podrá contratar a los trabajadores que considere necesarios para el desempeño de las funciones de los trabajadores involucrados en la huelga, a partir del décimo quinto día de hecha ésta efectiva.
+
+En el caso de no existir instrumento colectivo vigente, la oferta a que se refiere el inciso primero se entenderá materializada si el empleador ofreciere, a lo menos, una reajustabilidad mínima anual, según la variación del Indice de Precios al Consumidor para el período del contrato, excluidos los últimos doce meses.
+
+Para los efectos de lo dispuesto en este artículo, el empleador podrá formular más de una oferta, con tal que al menos una de las proposiciones cumpla con los requisitos que en él se señalan, según sea el caso, y el bono a que se refiere la letra c) del inciso primero de este artículo.
+
+Si los trabajadores optasen por reintegrarse individualmente a sus labores de conformidad a lo dispuesto en este artículo, lo harán, al menos, en las condiciones contenidas en la última oferta del empleador.
+
+Una vez que el empleador haya hecho uso de los derechos señalados en este artículo, no podrá retirar las ofertas a que en él se hace referencia.
+
+#### Artículo 382
+
+Mientras los trabajadores permanezcan involucrados en la negociación colectiva, quedará prohibido al empleador ofrecerles individualmente su reintegro en cualquier condición, salvo en las circunstancias y condiciones señaladas en el artículo anterior.
+
+#### Artículo 383
+
+El empleador podrá oponerse a que los trabajadores se reincorporen en los términos a que se refieren los artículos anteriores, siempre que el uso de tal prerrogativa afecte a todos éstos, no pudiendo discriminar entre ellos.
+
+Si, de conformidad con lo señalado en los artículos anteriores, se hubiere reintegrado más de la mitad de los trabajadores involucrados en la negociación, la huelga llegará a su término al final del mismo día en que tal situación se produzca. En dicho caso, los restantes trabajadores deberán reintegrarse dentro de los dos días siguientes al del término de la huelga, en las condiciones contenidas en la última oferta del empleador.
+
+#### Artículo 384
+
+No podrán declarar la huelga los trabajadores de aquellas empresas que:
+
+a) Atiendan servicios de utilidad pública, o
+
+b) Cuya paralización por su naturaleza cause grave daño a la salud, al abastecimiento de la población, a la economía del país o a la seguridad nacional.
+
+Para que se produzca el efecto a que se refiere la letra b), será necesario que la empresa de que se trate comprenda parte significativa de la actividad respectiva del país, o que su paralización implique la imposibilidad total de recibir un servicio para un sector de la población.
+
+En los casos a que se refiere este artículo, si no se logra acuerdo directo entre las partes en el proceso de negociación colectiva, procederá el arbitraje obligatorio en los términos establecidos en esta ley.
+
+La calificación de encontrarse la empresa en alguna de las situaciones señaladas en este artículo, será efectuada dentro del mes de julio de cada año, por resolución conjunta de los Ministros del Trabajo y Previsión Social, Defensa Nacional y Economía, Fomento y Reconstrucción.
+
+#### Artículo 385
+
+Sin perjuicio de lo dispuesto en el artículo anterior, en caso de producirse una huelga o lock-out que por sus características, oportunidad o duración causare grave daño a la salud, al abastecimiento de bienes o servicios de la población, a la economía del país o a la seguridad nacional, el Presidente de la República podrá decretar la reanudación de faenas.
+
+El decreto que disponga la reanudación de faenas será suscrito, además, por los Ministros del Trabajo y Previsión Social, Defensa Nacional y Economía, Fomento y Reconstrucción y deberá designar a un miembro del Cuerpo Arbitral, que actuará como árbitro laboral, conforme a las normas del Título V.
+
+La reanudación de faenas se hará en las mismas condiciones vigentes al momento de presentar el proyecto de contrato colectivo.
+
+Los honorarios de los miembros del Cuerpo Arbitral serán de cargo del Fisco, y regulados por el arancel que para el efecto dicte el Ministerio de Economía, Fomento y Reconstrucción.
+
+## Título VII
+
+DE LA NEGOCIACION COLECTIVA DE LA GENTE DE MAR
+
+#### Artículo 386
+
+La negociación colectiva de la gente de mar se sujetará a las reglas generales y además, a las siguientes normas especiales:
+
+a) No será aplicable en este caso el artículo 374.
+
+b) Las votaciones a que se refiere el Título VI de este Libro podrán realizarse, además, en cada una de las naves que se encuentren embarcados los trabajadores involucrados en la negociación, siempre que se lleven a efecto en la misma fecha y que los votantes hayan recibido la información que establece el artículo 372.
+
+El ministro de fe hará constar la fecha y resultado de la votación y el hecho de haberse recibido la información a que se refiere el inciso anterior, en certificado que remitirá de inmediato a la comisión negociadora.
+
+Para adoptar acuerdos y computar los votos emitidos se considerarán los sufragios de todas las votaciones cuyos resultados conozca la comisión negociadora dentro de los dos días siguientes a la fecha de efectuadas, aún cuando no hubiere recibido el certificado a que se refiere el inciso anterior. La comisión comunicará estos resultados a la Inspección del Trabajo dentro de los cuatro días siguientes a la fecha de la votación, para los efectos previstos en la letra c) siguiente y en el artículo 373.
+
+En caso de disconformidad entre las cifras que comunicare la comisión negociadora y las contenidas en el certificado emitido por el ministro de fe, se estará a estas últimas.
+
+c) Acordada la huelga deberá hacerse efectiva a partir del sexto día contado desde dicho acuerdo, o vencido este plazo, en el primer puerto a que arribe la nave, siempre que, encontrándose en el extranjero, exista en él cónsul de Chile.
+
+Este plazo podrá prorrogarse por otros seis días, de común acuerdo por la comisión negociadora y el empleador.
+
+A contar de este sexto día o de su prórroga, se computarán los plazos a que se refiere el artículo 381.
+
+d) Las facultades que confieren a los trabajadores y empleadores los artículos 377 y 381, respectivamente, podrán ejercerse mediante la contratación temporal de la gente de mar involucrada en la negociación siempre que la nave se encuentre en el extranjero durante la huelga.
+
+Estos contratos subsistirán por el tiempo que acordaren las partes y en todo caso, concluirán al término de la suspensión de los contratos de trabajo previsto en el artículo 377 o al arribo de la nave a puerto chileno de destino, cualquiera de estas circunstancias ocurra primero.
+
+Iniciada la huelga en puerto extranjero y siempre que dentro de los tres días siguientes no se efectuare la contratación temporal a que se refiere esta letra, el personal embarcado que lo solicitare deberá ser restituido al puerto que se hubiere señalado en el contrato de embarco.
+
+No se aplicará el inciso anterior al personal embarcado que rehusare la contratación temporal en condiciones a lo menos iguales a las convenidas en los contratos vigentes, circunstancia que certificará el respectivo cónsul de Chile.
+
+e) El personal de emergencia a que se refiere el inciso primero del artículo 380 será designado por el capitán de la nave dentro de los seis días siguientes a la presentación del proyecto de contrato colectivo. De esta designación podrá reclamar la comisión negociadora ante el Tribunal competente si no estuviere de acuerdo con su número o composición. Dicha reclamación deberá interponerse dentro de los cinco días siguientes a la designación del personal de emergencia y se aplicará en este caso lo dispuesto en el artículo 392, y
+
+f) Sin perjuicio de la calidad de ministro de fe que la ley asigna al capitán de la nave, tendrán también este carácter los correspondientes cónsules de Chile en el extranjero, para todas las actuaciones a que se refiere este Libro. Dichos cónsules tendrán facultad para calificar las circunstancias que hacen posible o no llevar a efecto la huelga en el respectivo puerto, la que ejercerán a solicitud de la mayoría de los trabajadores de la nave involucrados en la negociación.
+
+Un reglamento fijará las normas que sean necesarias para la aplicación de lo dispuesto en las letras precedentes de este artículo.
 
 ## Título VIII
 
-DE LOS PROCEDIMIENTOS JUDICIALES EN LA
+DE LAS PRACTICAS DESLEALES EN LA NEGOCIACION COLECTIVA Y DE SU SANCION
 
-NEGOCIACIÓN COLECTIVA
+#### Artículo 387
 
-#### Artículo 399
+Serán consideradas prácticas desleales del empleador las acciones que entorpezcan la negociación colectiva y sus procedimientos.
 
-Competencia. Será competente para conocer de las cuestiones a que dé origen la aplicación de este Libro el Juzgado de Letras del Trabajo del domicilio del demandado o el del lugar donde se presten o se hayan prestado los servicios, a elección del demandante.
+Especialmente incurren en esta infracción:
 
-#### Artículo 400
+a) El que se niegue a recibir a los representantes de los trabajadores o a negociar con ellos en los plazos y condiciones que establece este Libro y el que ejerza presiones para obtener el reemplazo de los mismos;
 
-Medidas de reparación. En el caso de la denuncia del artículo 345, el tribunal competente podrá disponer, como medida de reparación, una indemnización del daño causado a los afectados por la infracción a la prohibición de reemplazar trabajadores en huelga, además de la multa establecida en el artículo 406.
+b) El que se niegue a suministrar la información necesaria para la justificación de sus argumentaciones;
 
-#### Artículo 401
+c) El que ejecute durante el proceso de la negociación colectiva acciones que revelen una manifiesta mala fe que impida el normal desarrollo de la misma;
 
-Efecto de la interposición de acciones judiciales. En los procedimientos
+d) El que ejerza fuerza física en las cosas, o física o moral en las personas, durante el procedimiento de negociación colectiva, y
 
-judiciales a que dé lugar el ejercicio de las acciones previstas en este Libro, el tribunal podrá, mediante resolución fundada, disponer la suspensión de la negociación colectiva en curso. La resolución será apelable conforme a lo dispuesto en el artículo 476.
+e) El que haga uso indebido o abusivo de las facultades que concede el inciso segundo del artículo 317 o realice cualquier práctica arbitraria o abusiva con el objeto de dificultar o hacer imposible la negociación colectiva.
 
-#### Artículo 402
+#### Artículo 388
 
-Reclamación de la determinación de las empresas sin derecho a huelga. El reclamo se deducirá por la empresa o los afectados, ante la Corte de Apelaciones de Santiago o la del lugar donde se encuentre domiciliado el reclamante, a elección de este último. El reclamo deberá interponerse dentro de los quince días siguientes a la publicación en el Diario Oficial de la resolución respectiva, según las siguientes reglas:
+Serán también consideradas prácticas desleales del trabajador, de las organizaciones sindicales o de éstos y del empleador en su caso, las acciones que entorpezcan la negociación colectiva o sus procedimientos.
 
-a) El reclamante señalará en su escrito, con precisión, la resolución objeto del reclamo, la o las normas legales que se suponen infringidas, la forma como se ha producido la infracción y, finalmente, cuando procediere, las razones por las cuales el acto le perjudica.
+Especialmente incurren en esta infracción:
 
-b) La empresa y el o los sindicatos, según corresponda, podrán hacerse parte en el respectivo reclamo de conformidad a las normas generales.
+a) Los que ejecuten durante el proceso de la negociación colectiva acciones que revelen una manifiesta mala fe que impida el normal desarrollo de la misma;
 
-c) La Corte podrá decretar orden de no innovar cuando la ejecución del acto impugnado le produzca un daño irreparable al recurrente. Asimismo, podrá declarar inadmisible la reclamación si el escrito no cumple con las condiciones señaladas en la letra a) anterior.
+b) Los que ejerzan fuerza física en las cosas, o física o moral en las personas durante el procedimiento de negociación colectiva;
 
-d) Recibida la reclamación, la Corte requerirá de informe conjunto a los ministros que suscribieron el acto reclamado, concediéndole un plazo de diez días al efecto.
+c) Los que acuerden con el empleador la ejecución por parte de éste de prácticas atentatorias contra la negociación colectiva y sus procedimientos, en conformidad a las disposiciones precedentes, y los que presionen física o moralmente al empleador para inducirlo a ejecutar tales actos, y
 
-e) Evacuado el traslado o teniéndosele por evacuado en rebeldía, la Corte podrá abrir un término de prueba, si así lo estima necesario, el que se regirá por las reglas de los incidentes que contempla el Código de Procedimiento Civil.
+d) Los miembros de la comisión negociadora que divulguen a terceros ajenos a ésta los documentos o la información que hayan recibido del empleador y que tengan el carácter de confidencial o reservados.
 
-f) Vencido el término de prueba, se ordenará traer los autos en relación. La vista de esta causa gozará de preferencia para su inclusión en la tabla.
+#### Artículo 389
 
-g) La Corte, en su sentencia, si da lugar al reclamo, decidirá u ordenará, según sea procedente, la rectificación del acto impugnado y la dictación de la respectiva resolución, incluyendo o excluyendo a la empresa, según corresponda.
+Las infracciones señaladas en los artículos precedentes serán sancionadas con multas de una unidad tributaria mensual a diez unidades tributarias anuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción y la circunstancia de tratarse o no de una reiteración.
 
-h) En todo aquello que no estuviere regulado por el presente artículo, regirán las normas establecidas en el Código Orgánico de Tribunales y en el Código de Procedimiento Civil, según corresponda.
+Las multas a que se refiere el inciso anterior serán a beneficio del Servicio Nacional de Capacitación y Empleo.
+
+El conocimiento y resolución de las infracciones por prácticas desleales corresponderá a los Juzgados de Letras del Trabajo con sujeción a las normas establecidas en el artículo 292, quedando facultadas las partes interesadas para formular la respectiva denuncia directamente ante el Tribunal. Las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado.
+
+El juzgado respectivo ordenará el cese de la conducta o medida constitutiva de práctica desleal y podrá reiterar las multas hasta el cese de la misma.
+
+#### Artículo 390
+
+Lo dispuesto en el artículo anterior es sin perjuicio de la responsabilidad penal en los casos en que las conductas sancionadas como prácticas desleales configuren faltas, simples delitos o crímenes.
 
 ## Título IX
 
-DE LAS PRÁCTICAS DESLEALES Y OTRAS INFRACCIONES
+DEL PROCEDIMIENTO JUDICIAL EN LA NEGOCIACION COLECTIVA
 
-EN LA NEGOCIACIÓN COLECTIVA Y SU SANCIÓN
+#### Artículo 391
 
-#### Artículo 403
+Será competente para conocer de las cuestiones a que dé origen la aplicación de este Libro el Juzgado de Letras del Trabajo del lugar en que se encuentre la empresa, predio o establecimiento sujetos al procedimiento de negociación colectiva, sin perjuicio de las excepciones legales que entreguen el conocimiento de estos asuntos a otros tribunales.
 
-Art. 403.- Prácticas desleales del empleador. Serán consideradas prácticas desleales del empleador las acciones que entorpezcan la negociación colectiva y sus procedimientos. Entre otras, se considerarán las siguientes:
+#### Artículo 392
 
-a) La ejecución durante el proceso de la negociación colectiva de acciones que impliquen una vulneración al principio de buena fe que afecte el normal desarrollo de la misma.
+La reclamación a que se refiere el artículo 380 deberá interponerse dentro del plazo señalado en esa disposición, y se sujetará a la tramitación dispuesta para los incidentes por el Código de Procedimiento Civil, no pudiendo resolverse de plano.
 
-b) La negativa a recibir a la comisión negociadora de el o los sindicatos negociantes o a negociar con ellos en los plazos y condiciones que establece este Libro.
+La confesión en juicio sólo podrá solicitarse una vez por cada una de las partes, en el plazo prescrito en el inciso segundo del artículo 90 del Código de Procedimiento Civil.
 
-c) El incumplimiento de la obligación de suministrar la información señalada en los términos de los artículos 315 y siguientes, tanto en la oportunidad como en la autenticidad de la información entregada.
+En el mismo plazo deberá solicitarse la prueba de informe de peritos.
 
-d) El reemplazo de los trabajadores que hubieren hecho efectiva la huelga dentro del procedimiento de negociación colectiva reglada del Título IV de este Libro.
+Cuando la reclamación se dirigiere en contra de los trabajadores sujetos a la negociación, la notificación se hará a la comisión negociadora, la que se entenderá emplazada cuando a lo menos dos de sus integrantes hubieren sido notificados legalmente.
 
-El empleador, en el ejercicio de sus facultades legales, podrá modificar los turnos u horarios de trabajo, y efectuar las adecuaciones necesarias con el objeto de asegurar que los trabajadores no involucrados en la huelga puedan ejecutar las funciones convenidas en sus contratos de trabajo, sin que constituya práctica desleal ni importe una infracción a la prohibición de reemplazo.
+La sentencia que se dicte será apelable en el solo efecto devolutivo.
 
-e) El cambio de establecimiento en que deben prestar servicios los trabajadores no involucrados en la huelga para reemplazar a los trabajadores que participan en ella.
+#### Artículo 393
 
-f) Ofrecer, otorgar o convenir individualmente aumentos de remuneraciones o beneficios a los trabajadores sindicalizados, durante el período en que se desarrolla la negociación colectiva de su sindicato.
+Si la gravedad de las circunstancias lo requiere, el tribunal podrá, en el caso de la reclamación a que se refiere el artículo 380, disponer provisoriamente como medida precautoria el establecimiento de un equipo de emergencia.
 
-g) El ejercicio de fuerza física en las cosas, o física o moral en las personas, durante la negociación colectiva.
+#### Artículo 394
 
-#### Artículo 404
+Si las partes designaren un árbitro en conformidad a lo dispuesto en el inciso segundo del artículo 345, el juicio arbitral se ajustará preferentemente a las siguientes normas:
 
-Prácticas desleales de los trabajadores, de las organizaciones sindicales y del empleador. Serán también consideradas prácticas desleales del trabajador, de las organizaciones sindicales o de estos y del empleador, en su caso, las acciones que entorpezcan la negociación colectiva o sus procedimientos. Entre otras, se considerarán las siguientes:
+a) El tribunal será unipersonal;
 
-a) La ejecución durante el proceso de la negociación colectiva de acciones que impliquen una vulneración al principio de buena fe que afecte el normal desarrollo de la misma.
+b) La tramitación de la causa se ajustará a lo dispuesto para los árbitros arbitradores por los párrafos 2.° y 3.° del Título VIII del Libro III del Código de Procedimiento Civil, sin perjuicio de las excepciones contempladas en el presente artículo;
 
-b) El acuerdo para la ejecución de prácticas atentatorias contra la negociación colectiva y sus procedimientos, en conformidad a las disposiciones precedentes, y los que presionen física o moralmente al empleador para inducirlo a ejecutar tales actos.
+c) El árbitro apreciará la prueba en conciencia y fallará la causa conforme a derecho, y
 
-c) La divulgación a terceros ajenos a la negociación de los documentos o la información recibida del empleador y que tengan el carácter de confidencial o reservada.
+d) La sentencia arbitral será siempre apelable ante la Corte respectiva, en conformidad con las normas del Título I del Libro V de este Código.
 
-d) El incumplimiento del deber de proveer el o los equipos de emergencia que fueron concordados por las partes o dispuestos por la autoridad competente, según corresponda.
+#### Artículo 395
 
-e) El ejercicio de fuerza física en las cosas, o física o moral en las personas, durante la negociación colectiva.
+Si en el contrato colectivo las partes no hubieren sometido a compromiso la solución de las controversias que él pudiera originar, conocerá de ellas el Juzgado de Letras del Trabajo.
 
-f) Impedir durante la huelga, por medio de la fuerza, el ingreso a la empresa del personal directivo o de trabajadores no involucrados en ella.
+#### Artículo 396
 
-#### Artículo 405
-
-Práctica desleal de la empresa principal. La contratación directa o indirecta de los trabajadores en huelga de una empresa contratista o subcontratista por parte de la empresa principal será considerada práctica desleal.
-
-#### Artículo 406
-
-Régimen sancionatorio. Las
-
-prácticas desleales serán sancionadas de la
-
-siguiente forma:
-
-1. En la micro empresa con multa de cinco a
-
-veinticinco unidades tributarias mensuales.
-
-2. En la pequeña empresa con multa de diez
-
-a cincuenta unidades tributarias mensuales.
-
-3. En la mediana empresa con multa de
-
-quince a ciento cincuenta unidades tributarias
-
-mensuales.
-
-4. En la gran empresa con multa de veinte a
-
-trescientas unidades tributarias mensuales.
-
-La cuantía de la multa, dentro del rango
-
-respectivo, será determinada teniendo en cuenta
-
-la gravedad de la infracción y el número de
-
-trabajadores involucrados o afiliados a la
-
-organización sindical.
-
-El incumplimiento de las estipulaciones
-
-contenidas en un instrumento colectivo y las
-
-prácticas desleales de la letra d) de los
-
-artículos 403 y 404 serán sancionados con una
-
-multa por cada trabajador involucrado de acuerdo
-
-a las siguientes reglas:
-
-1. En la micro y pequeña empresa con multa
-
-de una a diez unidades tributarias mensuales.
-
-2. En la mediana empresa con multa de cinco
-
-a cincuenta unidades tributarias mensuales.
-
-3. En la gran empresa con multa de diez a
-
-cien unidades tributarias mensuales.
-
-En caso de reincidencia en las medianas y
-
-grandes empresas, esta será sancionada de
-
-conformidad a lo dispuesto en el inciso sexto
-
-del artículo 506 de este Código.
-
-Las multas a que se refieren los incisos
-
-anteriores serán a beneficio del Fondo de
-
-Formación Sindical y Relaciones Laborales
-
-Colaborativas, administrado por el Ministerio
-
-del Trabajo y Previsión Social.
-
-Lo dispuesto en los incisos anteriores es
-
-sin perjuicio de la responsabilidad penal en los
-
-casos en que las conductas sancionadas como
-
-prácticas desleales configuren faltas, simples
-
-delitos o crímenes.
-
-#### Artículo 407
-
-Procedimiento aplicable. El conocimiento y resolución de las infracciones por prácticas desleales en la negociación colectiva se sustanciará conforme a las normas establecidas en el Párrafo 6° del Capítulo II del Título I del Libro V del presente Código.
-
-Las acciones judiciales destinadas a declarar y sancionar las conductas descritas en los artículos anteriores podrán ser ejercidas por la o las organizaciones sindicales o el empleador, según el caso. La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas desleales en la negociación colectiva, de los cuales tome conocimiento.
-
-La Dirección del Trabajo deberá llevar un registro de las sentencias condenatorias por prácticas desleales en la negociación colectiva, y publicar semestralmente la nómina de empresas y organizaciones sindicales infractoras. Para este efecto, el tribunal enviará a la Dirección del Trabajo copia de los respectivos fallos.
+Las causas cuyo conocimiento corresponda a los Juzgados de Letras del Trabajo en conformidad con lo dispuesto en este Libro y respecto de las cuales no se hubieren establecido normas especiales, se regirán por el procedimiento general establecido en el Título I del Libro V de este Código.
 
 ## Título X
 
-DE LA PRESENTACIÓN EFECTUADA POR FEDERACIONES Y CONFEDERACIONES
+DE LA NOMINA NACIONAL DE ARBITROS LABORALES O CUERPO ARBITRAL
+
+#### Artículo 397
+
+Existirá una nómina nacional de árbitros laborales o Cuerpo Arbitral, cuyos miembros serán llamados a integrar los tribunales que deben conocer de los casos de arbitraje obligatorio en conformidad al Título V de este Libro.
+
+#### Artículo 398
+
+El número de los integrantes del Cuerpo Arbitral será veinticinco. El Presidente de la República sólo podrá aumentarlo.
+
+Corresponderá al Presidente de la República el nombramiento de los árbitros laborales, a proposición del propio Cuerpo Arbitral, en terna por cada cargo a llenar.
+
+#### Artículo 399
+
+El decreto supremo que aumente el número de integrantes del Cuerpo Arbitral, y los decretos supremos que designen a sus miembros, deberán ser publicados en el Diario Oficial.
+
+#### Artículo 400
+
+Para ser miembro del Cuerpo Arbitral será necesario estar en posesión de un título profesional de la educación superior y contar con experiencia calificada en el área de la actividad económica y laboral.
+
+Los aranceles de los árbitros laborales serán fijados por el Ministerio de Economía, Fomento y Reconstrucción.
+
+#### Artículo 401
+
+No podrán integrar la nómina nacional de árbitros laborales las siguientes personas:
+
+a) Las que sean funcionarios de la Administración del Estado, con excepción de aquellas que se encuentren en tal situación por el solo hecho de ser docente académico aunque se desempeñen en cualquiera actividad universitaria;
+
+b) Las que sean dirigentes sindicales o de asociaciones gremiales;
+
+c) Las que tengan la calidad de miembro de una comisión negociadora, o de apoderado de un empleador, o de asesor de aquélla o éste, en procedimiento de negociación colectiva, al momento de la designación, y
+
+d) Las que hayan sido condenadas o se encuentren procesadas por crimen o simple delito.
+
+El interesado deberá acompañar una declaración jurada notarial en la que exprese no estar afecto a las inhabilidades señaladas en las letras precedentes.
+
+#### Artículo 402
+
+Los árbitros laborales permanecerán en sus cargos mientras mantengan su buen comportamiento, y cesarán en los mismos en los casos previstos en el artículo 411.
+
+#### Artículo 403
+
+Corresponderá al Cuerpo Arbitral la designación y remoción de los integrantes del Consejo Directivo.
+
+Igualmente le corresponderá proponer al Presidente de la República las ternas para la designación de los integrantes de la nómina nacional de árbitros laborales.
+
+#### Artículo 404
+
+El Cuerpo Arbitral tendrá un Consejo Directivo compuesto por cinco miembros titulares y tres suplentes, elegidos por aquél en votación secreta y unipersonal.
+
+Serán designados consejeros titulares quienes obtengan las cinco más altas mayorías relativas, y suplentes, los que obtengan las tres restantes.
+
+Si se produjere igualdad de votos para designar consejero, se estará a la preferencia que resulte de la antigüedad en la fecha de otorgamiento del título profesional, y si ésta fuere coincidente, a la del orden alfabético de los apellidos de los miembros que hayan obtenido dicha igualdad.
+
+Los miembros suplentes reemplazarán a los titulares cuando éstos por cualquier causa no pudieren asistir a sesiones.
+
+El Consejo Directivo se renovará cada tres años y será presidido por el miembro que internamente se designe.
+
+La designación del Consejo Directivo y de su presidente deberá ser publicada en el Diario Oficial.
+
+#### Artículo 405
+
+La remoción del cargo de consejero deberá ser acordada por los dos tercios del Cuerpo Arbitral, en votación secreta y unipersonal, llevada a cabo en sesión especialmente citada al efecto por el presidente del Consejo Directivo o por el veinticinco por ciento, a lo menos, de los miembros del Cuerpo Arbitral.
+
+El acuerdo del Cuerpo Arbitral no será susceptible de recurso alguno.
+
+#### Artículo 406
+
+Corresponderá al Consejo Directivo del Cuerpo Arbitral:
+
+a) Velar por el progreso, prestigio y prerrogativas de la actividad del arbitraje obligatorio en la negociación colectiva y por su regular y correcto ejercicio, pudiendo al efecto dictar las normas internas que estime procedentes;
+
+b) Representar al Cuerpo Arbitral ante las autoridades del Estado;
+
+c) Pronunciarse sobre el cumplimiento del requisito de experiencia calificada en el área económica y laboral de los postulantes a integrar la nómina nacional;
+
+d) Pronunciarse sobre las inhabilidades sobrevinientes de los miembros del Cuerpo Arbitral;
+
+e) Remover a los miembros del Cuerpo Arbitral en los casos señalados en el artículo 411;
+
+f) Designar un secretario ejecutivo, con título de abogado, que tendrá la calidad de ministro de fe de las actuaciones del Cuerpo Arbitral y de su Consejo Directivo y la responsabilidad de la materialización de sus acuerdos, y removerlo cuando así lo estimare procedente, y
+
+g) En general, ejercer las demás funciones que sean necesarias para el cumplimiento de su cometido y, especialmente, dictar las normas relativas a su funcionamiento.
+
+#### Artículo 407
+
+Salvo disposición expresa en contrario, el quórum para sesionar y adoptar acuerdos será de tres consejeros.
 
 #### Artículo 408
 
-Presentación efectuada por federaciones y confederaciones, contenido y reglas generales. Las federaciones y confederaciones podrán, en cualquier momento y sin sujeción a reglas de procedimiento, previo acuerdo con uno o más empleadores, o con una o más asociaciones gremiales de empleadores, suscribir convenios colectivos y,o pactos sobre condiciones especiales de trabajo de que trata este Código. Con todo, las federaciones o confederaciones que definan negociar conforme a las disposiciones de este Título deberán presentar su propuesta por escrito a los empleadores o a las asociaciones gremiales respectivas, para quienes siempre será voluntario negociar. También podrá iniciarse el procedimiento a que se refiere este Título a solicitud escrita de uno o más empleadores o de una o más asociaciones gremiales de empleadores. El plazo para manifestar la decisión de negociar será de treinta días contado desde la presentación de la propuesta. En caso de ser afirmativa, dentro de este mismo plazo se deberá dar respuesta a la proposición de convenio o pacto. En todo caso, la respuesta deberá darse siempre por escrito.
+El Consejo Directivo funcionará en la capital de la República.
 
-Los convenios colectivos podrán referirse a cualquiera de las materias señaladas en el artículo 306. Los pactos sobre condiciones especiales de trabajo deberán ajustarse a las regulaciones previstas en el Título VI de este Libro, sin que les sea aplicable el quórum de afiliación sindical señalado en el inciso primero del artículo 374. Los convenios colectivos o los pactos tendrán la duración que dispongan las partes.
+El Ministerio del Trabajo y Previsión Social habilitará las dependencias que fueren necesarias para dicho funcionamiento.
 
-A los empleadores sólo les serán aplicables aquellos convenios y,o pactos concordados directamente por sus representantes legales o que concurran a aceptar una vez concordados.
-
-Los convenios colectivos y pactos sobre condiciones especiales de trabajo de que trata este Título se deberán depositar en la Dirección del Trabajo dentro de los cinco días siguientes a su suscripción. Este organismo deberá llevar un registro público de estos instrumentos colectivos.
+Las publicaciones que deban efectuarse por mandato de este Título serán con cargo al presupuesto del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo.
 
 #### Artículo 409
 
-Regla de aplicación de instrumentos colectivos a organizaciones afiliadas. Los convenios colectivos y pactos sobre condiciones especiales de trabajo de que trata este Título serán aplicables a los trabajadores afiliados a las organizaciones sindicales de base, previa aprobación de estos en asamblea de socios, de conformidad a lo dispuesto en sus estatutos. En caso de no existir regulación estatutaria aplicable, deberán ser aprobados en asamblea, por mayoría absoluta de los socios, en votación secreta celebrada ante un ministro de fe.
+Para la confección de las ternas a que se refieren los artículos 398 y 403, el Consejo Directivo procederá a llamar a concurso de antecedentes para proveer los respectivos cargos, dentro del plazo de diez días contados desde que se haya producido una vacante en la nómina nacional de árbitros laborales o desde que el Presidente de la República haya dispuesto el aumento de sus integrantes. Las personas interesadas tendrán un plazo de treinta días para la presentación de sus postulaciones.
+
+Vencido este último plazo, el Consejo Directivo calificará el mérito de dichos antecedentes y citará al Cuerpo Arbitral, con el objeto de que éste se pronuncie sobre la integración de las ternas.
+
+La inclusión de cada interesado en la terna respectiva deberá ser aprobada por la mayoría absoluta del Cuerpo Arbitral.
+
+Aprobada la terna pertinente, será remitida al Presidente de la República para la designación del integrante que corresponda.
 
 #### Artículo 410
 
-Regla de aplicación de convenios en la micro y pequeña empresa, sin sindicatos. En la micro y pequeña empresa en que no exista sindicato con derecho a negociar, los convenios podrán ser extendidos a los trabajadores sin afiliación sindical, previa aceptación escrita de la extensión y del compromiso de pago de la cuota sindical ordinaria de la respectiva organización sindical.
+Notificado que sea al interesado el decreto supremo de su designación, deberá éste prestar juramento ante el Presidente del Consejo Directivo al tenor de la siguiente fórmula:
+
+"¿Juráis por Dios desempeñar fielmente los encargos que se os entreguen en el ejercicio de vuestro ministerio con estricta lealtad e imparcialidad, conforme a los principios de la buena fe y de la equidad, a las leyes de la República y a las normas de este Cuerpo Arbitral?"
+
+El afectado responderá: "Sí. Juro".
+
+De lo anterior se dejará constancia escrita.
 
 #### Artículo 411
 
-Regla de aplicación de pactos sobre condiciones especiales de trabajo en la micro y pequeña empresa, sin sindicatos. Podrán aplicarse los pactos sobre condiciones especiales de trabajo concordados conforme a las reglas de este Título en las empresas señaladas en el artículo anterior, siempre y cuando concurran los siguientes requisitos:
+Los árbitros laborales cesarán en sus cargos en los casos siguientes:
 
-a) Que exista un convenio colectivo sobre condiciones comunes de trabajo y remuneración, suscrito entre las mismas partes para toda la vigencia del pacto sobre condiciones especiales de trabajo.
+a) Por inhabilidad sobreviniente de acuerdo con las causales previstas en el artículo 401.
 
-b) Que el convenio colectivo señalado se haya extendido a los trabajadores de la respectiva empresa, de conformidad a lo previsto en el artículo anterior.
+La inhabilidad sobreviniente será declarada por el Consejo Directivo del Cuerpo Arbitral de oficio o a petición de parte;
 
-c) Que la aplicación del pacto sobre condiciones especiales de trabajo sea aprobada por la mayoría absoluta de los trabajadores de la respectiva empresa, ante un ministro de fe.
+b) Por renuncia presentada ante el Consejo Directivo;
 
-> **Nota.** El N° 36 del Art. 1° de la Ley 20940, publicada el 08.09.2016, al sustituir el Libro IV "De la Negociación Colectiva" del presente Código, eliminó los artículos 412, 413 y 414, así como el Título XI "Normas Especiales" en que se encontraba este último.
+c) Por remoción acordada por el Consejo Directivo con el voto conforme de los dos tercios de sus miembros en ejercicio, cuando el afectado hubiere incurrido en notable abandono de sus deberes.
+
+Se entenderá que existe dicho abandono cuando el árbitro laboral no aceptare integrar el respectivo tribunal por más de una vez en el año calendario, no teniendo compromisos pendientes que resolver y siempre que a la fecha de la negativa no haya sido designado para conocer de a lo menos tres arbitrajes distintos en el mismo año calendario. Lo mismo sucederá cuando el árbitro laboral no constituyere el respectivo tribunal, abandonare culpablemente un procedimiento ya iniciado o no diere curso progresivo a los autos o trámites en los plazos que la ley o el compromiso señalen, y
+
+d) Por remoción acordada por el Consejo Directivo, en caso de incapacidad física permanente del árbitro para el ejercicio de la función o declaración de haber incurrido éste en mal comportamiento. Dicho acuerdo deberá adoptarse con el quórum indicado en la letra precedente.
+
+Los acuerdos que se pronuncien acerca de la inhabilidad o remoción de los árbitros laborales en conformidad a las letras a), c) y d) del presente artículo, serán notificados por el secretario ejecutivo del Consejo Directivo del Cuerpo Arbitral, o por el Inspector del Trabajo que éste designe, en conformidad al artículo 48 del Código de Procedimiento Civil y de su adopción podrá reclamarse ante la Corte Suprema.
+
+#### Artículo 412
+
+La reclamación a que se refiere el artículo anterior deberá ser interpuesta directamente ante la Corte Suprema, dentro del plazo de cinco días hábiles contados desde la notificación de la medida en contra de la cual se reclama. Este plazo se aumentará en conformidad a la tabla de emplazamiento que señala el artículo 259 del Código de Procedimiento Civil.
+
+La reclamación será conocida por la Corte Suprema, previo informe del reclamado, en el plazo de ocho días y de ello deberá darse cuenta en la Sala que designe el Presidente.
+
+#### Artículo 413
+
+En los casos señalados en el artículo 411, el árbitro laboral respectivo será eliminado de la nómina nacional de árbitros laborales, debiendo comunicarse esta circunstancia mediante una publicación en el Diario Oficial. En ella sólo se indicará el hecho de la eliminación, sin hacer mención a ningún otro antecedente.
+
+La misma publicación deberá efectuarse en caso de fallecimiento de un árbitro laboral.
+
+## Título XI
+
+NORMAS ESPECIALES
+
+#### Artículo 414
+
+En el caso de las empresas monopólicas, calificadas así por la Comisión Resolutiva establecida en el decreto ley N.° 211, de 1973, si la autoridad fijare los precios de venta de sus productos o servicios, lo hará considerando como costos las remuneraciones vigentes en el mercado, tomando en cuenta los niveles de especialización y experiencia de los trabajadores en las labores que desempeñan y no aquellas que rijan en la respectiva empresa.
 
 # Libro V
 
@@ -5966,11 +4462,11 @@ Existirá un Juzgado de Letras del Trabajo, con asiento en cada una de las sigui
 
 a) Primera Región de Tarapacá:
 
-Iquique, con tres jueces,con competencia sobre la comuna de Iquique;
+Iquique, con tres jueces, con competencia sobre las comunas de Iquique y Alto Hospicio;
 
 b) Segunda Región de Antofagasta:
 
-Antofagasta, con cinco jueces, con competencia sobre las comunas de Antofagasta y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
+Antofagasta, con tres jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
 
 c) Tercera Región, de Atacama:
 
@@ -5978,25 +4474,27 @@ Copiapó, con dos jueces, con competencia sobre las comunas de Copiapó y Tierra
 
 d) Cuarta Región, de Coquimbo:
 
-La Serena, con cuatro jueces, con competencia sobre las comunas de Coquimbo, La Serena y La Higuera;
+La Serena, con tres jueces, con competencia sobre las comunas de Coquimbo, La Serena y La Higuera;
 
 e) Quinta Región, de Valparaíso:
 
-Valparaíso, con seis jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón; San Felipe, con dos jueces, con competencia en las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay Llay;
+Valparaíso, con tres jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón; San Felipe, con dos jueces, con competencia en las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay Llay;
 
 f) Sexta Región, del Libertador General Bernardo O'Higgins:
 
-Rancagua, con cuatro jueces, con competencia sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar;
+Rancagua, con tres jueces, con competencia sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar;
 
 g) Séptima Región, del Maule:
 
-Curicó, con dos jueces, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco,
+Curicó, con dos jueces, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco, y
 
-y Talca, con tres jueces, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
+Talca, con dos jueces, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
 
 h) Octava Región, del Bío-Bío:
 
-Concepción, con seis jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
+Chillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo, y Concepción, con tres jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los
+
+Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
 
 i) Novena Región, de la Araucanía:
 
@@ -6010,15 +4508,13 @@ k) Décimo Primera Región, de Aisén del General Carlos Ibáñez del Campo: Coy
 
 l) Décimo Segunda Región, de Magallanes y Antártica Chilena:
 
-Punta Arenas, con un juez, con competencia sobre las comunas de la provincia de Magallanes;
+Punta Arenas, con un juez, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
 
-m) Santiago con treinta y ocho jueces, agrupados en dos juzgados, con diecinueve jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
+m) Santiago con veintiséis jueces, agrupados en dos juzgados, con trece jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
 San Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
-San Bernardo, con tres jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y
-
-Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.
+San Bernardo, con dos jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.".
 
 n) Decimocuarta Región de los Ríos:
 
@@ -6028,21 +4524,17 @@ o) Décima Quinta Región, de Arica y Parinacota:
 
 Arica, con dos jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.
 
-p) Decimosexta Región de Ñuble:
-
-Chillán, con tres jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo.
-
 #### Artículo 416
 
 Existirá un Juzgado de Cobranza Laboral y Previsional, con asiento en cada una de las siguientes comunas del territorio de la República, con el número de jueces y con la competencia que en cada caso se indica:
 
-a) Valparaíso, con dos jueces, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;
+a) Valparaíso, con un juez, con competencia sobre las comunas de Valparaíso, Juan Fernández, Viña del Mar y Concón;
 
-b) Concepción, con dos jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén;
+b) Concepción, con un juez, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén;
 
-c) San Miguel, con dos jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y
+c) San Miguel, con un juez, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y
 
-d) Santiago, con nueve jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
+d) Santiago, con seis jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
 
 #### Artículo 417
 
@@ -6066,13 +4558,13 @@ a) las cuestiones suscitadas entre empleadores y trabajadores por aplicación de
 
 b) las cuestiones derivadas de la aplicación de las normas sobre organización sindical y negociación colectiva que la ley entrega al conocimiento de los juzgados de letras con competencia en materia del trabajo;
 
-c) las cuestiones derivadas de la aplicación de las normas de previsión o de seguridad social, planteadas por pensionados, trabajadores activos o empleadores, salvo en lo referido a la revisión de las resoluciones sobre declaración de invalidez o del pronunciamiento sobre otorgamiento de licencias médicas;
+c) las cuestiones y reclamaciones derivadas de la aplicación o interpretación de las normas sobre previsión o seguridad social, cualquiera que fuere su naturaleza, época u origen, y que fueren planteadas por los trabajadores o empleadores referidos en la letra a);
 
 d) los juicios en que se demande el cumplimiento de obligaciones que emanen de títulos a los cuales las leyes laborales y de previsión o seguridad social otorguen mérito ejecutivo;
 
 e) las reclamaciones que procedan contra resoluciones dictadas por autoridades administrativas en materias laborales, previsionales o de seguridad social;
 
-f) los juicios iniciados por el propio trabajador o sus causahabientes, en que se pretenda hacer efectiva la responsabilidad contractual del empleador por los daños producidos como consecuencia de accidentes del trabajo o enfermedades profesionales. Respecto de la responsabilidad extracontractual se seguirán las reglas del artículo 69 de la ley Nº 16.744, y
+f) los juicios en que se pretenda hacer efectiva la responsabilidad del empleador derivada de accidentes del trabajo o enfermedades profesionales, con excepción de la responsabilidad extracontractual a la cual le será aplicable lo dispuesto en el artículo 69 de la ley N.° 16.744, y
 
 g) todas aquellas materias que las leyes entreguen a juzgados de letras con competencia laboral.
 
@@ -6100,85 +4592,111 @@ Las referencias que las leyes o reglamentos hagan a las Cortes del Trabajo o a l
 
 ## Capítulo II
 
-De los principios formativos del proceso y del procedimiento en juicio del trabajo
+DEL PROCEDIMIENTO
 
-### Párrafo 1º
+### Párrafo 1°
 
-De los principios formativos del proceso
+Reglas Comunes
 
 #### Artículo 425
 
-- Los procedimientos del trabajo serán orales, públicos y concentrados. Primarán en ellos los principios de la inmediación, impulso procesal de oficio, celeridad, buena fe, bilateralidad de la audiencia y gratuidad.
+Las causas laborales se substanciarán de acuerdo con el procedimiento que establece este título, el que será aplicable en todas aquellas cuestiones, trámites o actuaciones que no se encuentren sometidas a una regla especial diversa, cualquiera que sea su naturaleza.
 
-Todas las actuaciones procesales serán orales, salvo las excepciones expresamente contenidas en esta ley.
-
-Las actuaciones realizadas oralmente, por o ante el juez de la causa, serán registradas por cualquier medio apto para producir fe y que permita garantizar la fidelidad, conservación y reproducción de su contenido. Se considerarán válidos, para estos efectos, la grabación en medios de reproducción fonográfica, audiovisual o electrónica. La audiencia deberá ser registrada íntegramente, como asimismo todas las resoluciones, incluyendo la sentencia que dicte el juez fuera de ella.
+Las causas laborales en que se invoque una acusación de acoso sexual, deberán ser mantenidas en custodia por el secretario del tribunal, y sólo tendrán acceso a ellas las partes y sus apoderados judiciales.
 
 #### Artículo 426
 
-En las citaciones a las audiencias, se hará constar que se celebrarán con las partes que asistan, afectándole a la que no concurra todas las resoluciones que se dicten en ella, sin necesidad de ulterior notificación.
-
-Las partes podrán concurrir a estas audiencias por intermedio de mandatario, el que se entenderá de pleno derecho facultado para transigir, sin perjuicio de la asistencia de sus apoderados y abogados.
-
-Iniciada la audiencia, ésta no podrá suspenderse. Excepcionalmente, y sólo en el evento de caso fortuito o fuerza mayor, el juez podrá, mediante resolución fundada, suspender la audiencia. En el mismo acto deberá fijar nuevo día y hora para su realización.
-
-El tribunal deberá habilitar horarios especiales en caso de que el desarrollo de la audiencia exceda al horario normal de su funcionamiento.
+Sólo a falta de norma expresa establecida en este texto o en leyes especiales, se aplicarán supletoriamente las disposiciones de los Libros I y II del Código de Procedimiento Civil.
 
 #### Artículo 427
 
-Las audiencias se desarrollarán en su totalidad ante el juez de la causa, el que las presidirá y no podrá delegar su ministerio. El incumplimiento de este deber será sancionado con la nulidad insaneable de las actuaciones y de la audiencia, la que deberá declarar el juez de oficio o a petición de parte.
+Las partes deberán comparecer con patrocinio de abogado y representadas por persona legalmente habilitada para actuar en juicio, todo ello conforme a lo dispuesto en la ley N.° 18.120, sobre comparecencia en juicio.
 
-Sin embargo, en los juzgados de letras que cuenten con un juez y un secretario, y sólo cuando la Corte de Apelaciones respectiva no ejerza la atribución que le confiere el artículo 47 del Código Orgánico de Tribunales, el juez, cuando hubiere retardo en el despacho de los asuntos sometidos al conocimiento del tribunal o cuando el mejor servicio judicial así lo exigiere, podrá autorizar al secretario abogado, para que, en calidad de suplente, asuma en todo el curso del juicio. En este caso, se entenderá para todos los efectos legales que el juez falta en su despacho, y sólo aquél podrá presidir la audiencia, dictar el fallo y llevar a cabo todas las actuaciones que correspondan, aplicándose a su respecto lo señalado en el inciso primero.
+Los Consultorios Jurídicos de las Corporaciones de Asistencia Judicial, o los abogados de turno, en su caso, representarán y asesorarán gratuitamente a los trabajadores que tengan derecho al privilegio de pobreza.
 
-#### Artículo 427 bis
-
-Sin perjuicio de lo dispuesto en el artículo anterior, el juez podrá autorizar la comparecencia remota por videoconferencia de cualquiera de las partes que así lo solicite, a una o varias de las audiencias judiciales de su competencia que se verifiquen presencialmente en el tribunal, si cuentan con los medios idóneos para ello y si, en su opinión, dicha forma de comparecencia resultare suficientemente eficaz y no causare indefensión.
-
-La parte interesada deberá solicitar comparecer por esta vía hasta dos días antes de la realización de la audiencia, ofreciendo algún medio de contacto oportuno, tales como número de teléfono o correo electrónico, a efectos de que el tribunal coordine la realización de la audiencia. Si no fuere posible contactar a la parte interesada a través de los medios ofrecidos tras tres intentos, de lo cual se deberá dejar constancia, se entenderá que no ha comparecido a la audiencia.
-
-La comparecencia remota de la parte se realizará desde cualquier lugar, con auxilio de algún medio tecnológico compatible con los utilizados por el Poder Judicial e informados por su Corporación Administrativa. Adicionalmente, para el caso en que la parte se encontrare fuera de la región en que se sitúa el tribunal, la comparecencia remota también podrá realizarse en dependencias de cualquier otro tribunal, si éste contare con disponibilidad de medios electrónicos y dependencias habilitadas. La Corte Suprema deberá regular mediante auto acordado la forma en que se coordinará y se hará uso de dichas dependencias.
-
-La constatación de la identidad de la parte que comparece de forma remota se deberá efectuar inmediatamente antes de la audiencia, de manera remota ante el ministro de fe o el funcionario que determine el tribunal respectivo, mediante la exhibición de su cédula de identidad o pasaporte, de lo que se dejará registro.
-
-Con todo, la absolución de posiciones y las declaraciones de peritos y testigos y otras actuaciones que el juez determine, sólo podrán rendirse en dependencias del tribunal.
-
-La disponibilidad y correcto funcionamiento de los medios tecnológicos de las partes que comparezcan remotamente en dependencias ajenas al Poder Judicial será de responsabilidad de aquellas. Con todo, la parte podrá alegar entorpecimiento si el mal funcionamiento de los medios tecnológicos no fuera atribuible a ella. En caso de acoger dicho incidente, el tribunal fijará un nuevo día y hora para la continuación de la audiencia, sin que se pierda lo obrado con anterioridad a dicho mal funcionamiento. En la nueva audiencia que se fije, el tribunal velará por la igualdad de las partes en el ejercicio de sus derechos.
-
-Será también aplicable a los Juzgados de Letras del Trabajo y a los Juzgados de Cobranza Laboral y Previsional, el funcionamiento extraordinario del artículo 47 D del Código Orgánico de Tribunales.
-
-> **Nota.** El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el presente artículo regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme a dicho artículo disponga la Corte Suprema.
+Si el trabajador obtuviere en el juicio, las costas personales a cuyo pago fuere condenada la contraparte pertenecerán a la Corporación de Asistencia Judicial o al abogado de turno que lo hubiere defendido.
 
 #### Artículo 428
 
-Los actos procesales serán públicos y deberán realizarse con la celeridad necesaria, procurando concentrar en un solo acto aquellas diligencias en que esto sea posible.
+En las causas laborales, los Juzgados de Letras del Trabajo de Santiago podrán decretar diligencias para cumplirse directamente en las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, La Cisterna, El Bosque, Pedro Aguirre Cerda, Lo Espejo, San Bernardo, Calera de Tango, Puente Alto, San José de Maipo y Pirque sin necesidad de exhorto.
+
+Lo dispuesto en el inciso anterior, se aplicará también a los juzgados de San Miguel y a los juzgados con competencia en materia laboral de las comunas de San Bernardo y Puente Alto, respecto de actuaciones que deban practicarse en Santiago o en cualquiera de ellos.
+
+La facultad establecida en el inciso primero regirá asimismo, para los Juzgados de La Serena y Coquimbo; de Concepción y Talcahuano; de Osorno y Río Negro, y de Puerto Montt, Puerto Varas y Calbuco.
 
 #### Artículo 429
 
-El tribunal, una vez reclamada su intervención en forma legal, actuará de oficio. Decretará las pruebas que estime necesarias, aun cuando no las hayan ofrecido las partes y rechazará mediante resolución fundada aquellas que considere inconducentes. De esta resolución se podrá deducir recurso de reposición en la misma audiencia. Adoptará, asimismo, las medidas tendientes a evitar la paralización del proceso y su prolongación indebida y, en consecuencia, no será aplicable el abandono del procedimiento.
+Los plazos que se establecen en este Título son fatales, cualesquiera sea la forma en que se expresen, salvo aquellos establecidos para la realización de actuaciones propias del tribunal. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar el acto se extingue por el solo ministerio de la ley al vencimiento del plazo. En estos casos el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
 
-El tribunal corregirá de oficio los errores que observe en la tramitación del juicio y adoptará las medidas que tiendan a evitar la nulidad del procedimiento. La nulidad procesal sólo podrá ser decretada si el vicio hubiese ocasionado perjuicio al litigante que la reclama y si no fuese susceptible de ser subsanado por otro medio. En el caso previsto en el artículo 427, el tribunal no podrá excusarse de decretar la nulidad.
+Los términos de días que establece este título, se entenderán suspendidos durante los días feriados salvo que el tribunal, por motivos justificados y en resolución fundada, haya dispuesto expresamente lo contrario.
 
-No podrá solicitar la declaración de nulidad la parte que ha originado el vicio o concurrido a su materialización.
+Durante el feriado de vacaciones, se aplicará a los asuntos laborales lo dispuesto en el artículo 314 del Código Orgánico de Tribunales.
 
 #### Artículo 430
 
-Los actos procesales deberán ejecutarse de buena fe, facultándose al tribunal para adoptar las medidas necesarias para impedir el fraude, la colusión, el abuso del derecho y las actuaciones dilatorias.
+La primera notificación al demandado deberá hacerse personalmente, entregándosele copia íntegra de la resolución y de la solicitud en que haya recaído. Al demandante se le notificará por el estado diario.
 
-El juez podrá rechazar de plano aquellas actuaciones que considere dilatorias.
+Esta notificación se practicará por un receptor o por un empleado del respectivo tribunal, designado para ello por el juez, de oficio o a petición de parte.
 
-Se entenderá por actuaciones dilatorias todas aquellas que con el sólo objeto de demorar la prosecución del juicio sean intentadas por alguna de las partes. De la resolución que declare como tal alguna actuación, la parte afectada podrá reponer para que sea resuelta en la misma audiencia.
+En los lugares y recintos de libre acceso público, la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia al notificado. En los juicios ejecutivos, no podrá efectuarse el requerimiento de pago en público y, de haberse notificado la demanda en un lugar o recinto de libre acceso público, se estará a lo establecido en el N.° 1.° del artículo 443 del Código de Procedimiento Civil.
+
+Además, la notificación podrá hacerse en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado o en el lugar donde éste ordinariamente ejerce su industria, profesión o empleo, o en cualquier recinto privado en que éste se encuentre y al cual se permita el libre acceso del ministro de fe.
+
+Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente. Los plazos se aumentarán en la forma establecida en el artículo 259 del Código de Procedimiento Civil.
+
+Igualmente, son lugares hábiles para practicar la notificación el oficio del secretario, la casa que sirva para despacho del tribunal y la oficina o despacho del ministro de fe que practique la notificación. Los jueces no podrán, sin embargo, ser notificados en el local en que desempeñan sus funciones.
 
 #### Artículo 431
 
-En las causas laborales, toda actuación, trámite o diligencia del juicio, realizada por funcionarios del tribunal será gratuita para las partes. El encargado de la gestión administrativa del tribunal será responsable de la estricta observancia tanto de esta gratuidad como del oportuno cumplimiento de las diligencias.
+Si buscada en dos días distintos en su habitación, o en el lugar donde habitualmente ejerce su industria, profesión o empleo, no es habida la persona a quien debe notificarse, se acreditará que ella se encuentra en el lugar del juicio y cuál es su morada o lugar donde ejerce su industria, profesión o empleo, bastando para comprobar estas circunstancias la debida certificación del ministro de fe.
 
-Las partes que gocen de privilegio de pobreza tendrán derecho a defensa letrada gratuita por parte de las respectivas Corporaciones de Asistencia Judicial o, en su defecto, por un abogado de turno, o del sistema de defensa gratuita que disponga la ley. Asimismo, tendrán derecho, a que todas las actuaciones en que deban intervenir auxiliares de la administración de justicia se cumplan oportuna y gratuitamente.
+Establecidos ambos hechos, el tribunal ordenará que la notificación se haga entregando las copias a que se refiere el inciso primero del artículo 430 a cualquiera persona adulta que se encuentre en la morada o en el lugar donde la persona que se va a notificar ejerce su industria, profesión o empleo. Si nadie hay allí, o si por cualquier otra causa no es posible entregar dichas copias a las personas que se encuentren en esos lugares, se fijará en la puerta un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce en ella y de las resoluciones que se notifican. En caso que la morada o el lugar donde pernocta o el lugar donde habitualmente ejerce su industria, profesión o empleo, se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio o recinto, dejándose testimonio expreso de esta circunstancia. El ministro de fe dará aviso de esta notificación, a ambas partes, el mismo día en que se efectúe o a más tardar el día hábil siguiente, dirigiéndoles carta certificada.
 
-Las defensas orales sólo podrán ser efectuadas por abogados habilitados.
+Lo dispuesto en este artículo no se aplicará al caso de notificación contemplado en el artículo 432.
 
-### Párrafo 2º
+#### Artículo 433
 
-Reglas Comunes
+Cuando la demanda deba notificarse a persona cuya individualización o domicilio sean difíciles de determinar, o que por su número dificulten considerablemente la práctica de la diligencia, el juez podrá, con conocimiento de causa, autorizar que la notificación se efectúe por medio de un aviso publicado en el Diario Oficial conforme a un extracto redactado por el secretario del tribunal, que contendrá un resumen de la demanda y copia íntegra de la resolución recaída en ella. El aviso se insertará en los números del Diario Oficial correspondientes a los días primero o quince de cualquier mes o al día siguiente hábil si dicho diario no se publicare en las fechas indicadas.
+
+El mismo aviso se publicará, además, en un diario o periódico del lugar donde se sigue la causa o de la cabecera de la provincia si allí no los hay.
+
+Si la notificación a que se refiere este artículo fuere solicitada por el o los trabajadores, la publicación en el Diario Oficial será gratuita.
+
+#### Artículo 434
+
+La sentencia definitiva de primera instancia, la resolución que recibe la causa a prueba y las resoluciones que ordenen la comparecencia personal de las partes se notificarán por cédula.
+
+Para estos efectos, todo litigante deberá designar un lugar conocido dentro de los límites urbanos de la ciudad en que funcione el tribunal respectivo y esta designación se considerará subsistente mientras no haga otra la parte interesada.
+
+La notificación por cédula se practicará por los funcionarios a que se refiere el inciso segundo del artículo 430, dejándose copia íntegra de la resolución y de los datos necesarios para su acertada inteligencia.
+
+#### Artículo 435
+
+Las demás resoluciones se notificarán por el estado diario, en la forma que establece el artículo 50 del Código de Procedimiento Civil. En este estado deberá dejarse constancia del hecho de haberse dictado sentencia.
+
+Esta forma de notificación se hará extensiva a las resoluciones a que se refiere el inciso primero del artículo anterior, respecto de las partes que no hayan hecho la designación a que se refiere el inciso segundo del mismo artículo y esta notificación se producirá sin necesidad de petición de parte y sin previa orden del tribunal.
+
+Si la primera resolución hubiese sido notificada por aviso y los notificados no hubieren comparecido en el juicio, las demás resoluciones que se dicten se notificarán por el estado diario con excepción de la sentencia definitiva, que deberá notificarse conforme a lo dispuesto en el artículo 433.
+
+El tribunal, en casos calificados, podrá disponer que cualquiera resolución sea notificada personalmente o por cédula.
+
+#### Artículo 436
+
+Las notificaciones que se practiquen por los receptores o por un empleado del tribunal serán gratuitas para las partes que gocen del privilegio de pobreza.
+
+Asimismo, serán gratuitas para aquellos trabajadores cuyos ingresos mensuales sean inferiores a cinco ingresos mínimos mensuales.
+
+DEROGADO
+
+> **Nota.** El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
+
+#### Artículo 437
+
+El juez podrá corregir de oficio los errores que observe en la tramitación del proceso. Podrá, asimismo, tomar las medidas que tiendan a evitar la nulidad de los actos de procedimiento.
+
+### Párrafo 2°
+
+Del procedimiento de aplicación general
 
 #### Artículo 432
 
@@ -6186,839 +4704,397 @@ En todo lo no regulado en este Código o en leyes especiales, serán aplicables 
 
 No obstante, respecto de los procedimientos especiales establecidos en los Párrafos 6° y 7° de este Capítulo II, se aplicarán supletoriamente, en primer lugar, las normas del procedimiento de aplicación general contenidas en su Párrafo 3°.
 
-#### Artículo 433
-
-Siempre que alguna de las partes lo solicite para sí, y el tribunal acceda a ello, las actuaciones procesales, a excepción de las audiencias, podrán realizarse por medios electrónicos que permitan su adecuada recepción, registro y control. En este caso el administrador del tribunal deberá dejar constancia escrita de la forma en que se realizó dicha actuación.
-
-#### Artículo 434
-
-Las partes deberán comparecer con patrocinio de abogado y representadas por persona legalmente habilitada para actuar en juicio.
-
-El mandato judicial y el patrocinio constituido en el Tribunal de Letras del Trabajo, se entenderá constituido para toda la prosecución del juicio en el Tribunal de Cobranza Laboral y Previsional, a menos que exista constancia en contrario.
-
-#### Artículo 435
-
-Los plazos que se establecen en este Libro son fatales, salvo aquellos establecidos para la realización de actuaciones propias del tribunal, cualquiera que sea la forma en que se expresen. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar un acto se extingue, por el solo ministerio de la ley, con el vencimiento del plazo.
-
-En estos casos, el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
-
-Los términos de días que establece este Título se entenderán suspendidos durante los días feriados.
-
-#### Artículo 436
-
-La primera notificación a la parte demandada deberá hacerse personalmente, entregándosele copia íntegra de la resolución y de la solicitud en que haya recaído. Al demandante se le notificará por el estado diario.
-
-Esta notificación se practicará por el funcionario que el juez determine, atendiendo a las circunstancias del lugar en que funcione el tribunal y restantes consideraciones que miren a la eficacia de la actuación. La parte interesada podrá siempre encargar a su costa la práctica de la notificación a un receptor judicial.
-
-En los lugares y recintos de libre acceso público la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia al notificado.
-
-Además, la notificación personal se podrá efectuar en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado, en el lugar donde ordinariamente ejerce su industria, profesión o empleo, o en el recinto del tribunal.
-
-El juez podrá, por motivos fundados, ordenar que la notificación se practique en horas diferentes a las indicadas en el inciso anterior.
-
-Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente.
-
-#### Artículo 437
-
-En los casos en que no resulte posible practicar la notificación personal, por no ser habida la persona a quien debe notificarse y siempre que el ministro de fe encargado de la diligencia establezca cuál es su habitación o el lugar donde habitualmente ejerce su industria, profesión o empleo y, tratándose de persona natural, que se encuentra en el lugar del juicio, de lo que dejará constancia, se procederá a su notificación en el mismo acto y sin necesidad de nueva orden del tribunal, entregándose las copias a que se refiere el inciso primero del artículo precedente a cualquier persona adulta que se encuentre en la morada o en el lugar donde la persona a quien debe notificarse habitualmente ejerce su industria, profesión o empleo. Si, por cualquier causa, ello no fuere posible, la notificación se hará fijando, en lugar visible, un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce de ella y resoluciones que se notifican. En caso que la habitación o el lugar en que pernocta la persona a quien debe notificarse, o aquel donde habitualmente ejerce su industria, profesión o empleo, se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio, dejándose testimonio expreso de esta circunstancia.
-
-El ministro de fe dará aviso de esta notificación a ambas partes, el mismo día en que se efectúe o a más tardar el día hábil siguiente, dirigiéndoles carta certificada. La omisión en el envío de la carta no invalidará la notificación, pero hará responsable al infractor de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales.
-
 #### Artículo 438
 
 Cuando se notifique la demanda a un trabajador en el lugar donde ordinariamente preste sus servicios, deberá efectuarse siempre en persona, si dicho lugar corresponde a la empresa, establecimiento o faena que dependa del empleador con el cual litigue.
 
 #### Artículo 439
 
-Cuando la demanda deba notificarse a persona cuya individualización o domicilio sean difíciles de determinar o que por su número dificulten considerablemente la práctica de la diligencia, el juez podrá disponer que la notificación se efectúe mediante la publicación de un aviso o por cualquier medio idóneo que garantice el derecho a la defensa y los principios de igualdad y de bilateralidad de la audiencia.
+La demanda se interpondrá por escrito y deberá contener:
 
-Si se dispone que la notificación se practique por aviso, éste se publicará por una sola vez en el Diario Oficial u otro diario de circulación nacional o regional, conforme a un extracto emanado del tribunal, el que contendrá un resumen de la demanda y copia íntegra de la resolución recaída en ella. Si el aviso se publicara en el Diario Oficial, ello será gratuito para los trabajadores.
+1.- la designación del tribunal ante quien se entabla;
 
-#### Artículo 439 bis
+2.- el nombre, apellidos, domicilio y profesión u oficio del demandante y de las personas que lo representen, y naturaleza de la representación;
 
-En las causas laborales, los juzgados de letras del trabajo de Santiago podrán decretar diligencias para cumplirse directamente en las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, La Cisterna, El Bosque, Pedro Aguirre Cerda, Lo Espejo, San Bernardo, Calera de Tango, Puente Alto, San José de Maipo y Pirque sin necesidad de exhorto.
+3.- el nombre, apellidos, domicilio y profesión u oficio del demandado;
 
-Lo dispuesto en el inciso anterior, se aplicará también en los juzgados de San Miguel y en los juzgados con competencia laboral de las comunas de San Bernardo y Puente Alto, respecto de las actuaciones que deban practicarse en Santiago o en cualquiera de ellos.
+4.- la exposición clara de los hechos y fundamentos de derecho en que se apoya, y
 
-La facultad establecida en el inciso primero regirá, asimismo, entre los juzgados de La Serena y Coquimbo; de Valparaíso y Viña del Mar; de Concepción y Talcahuano; de Osorno y Río Negro, y de Puerto Montt, Puerto Varas y Calbuco.
-
-Con todo, si en cualquier región del país la cercanía y conectividad de las comunas lo hace aconsejable, se podrán decretar diligencias para ser realizadas sin necesidad de exhorto.
+5.- la enunciación precisa y clara de las peticiones que se someten a la resolución del tribunal.
 
 #### Artículo 440
 
-Las resoluciones en que se ordene la comparecencia personal de las partes, que no hayan sido expedidas en el curso de una audiencia, se notificarán conforme a lo dispuesto en el artículo 442. Con todo, si el demandado no hubiere realizado ninguna actuación en juicio, estas resoluciones le serán notificadas por carta certificada al domicilio en que hubiere sido emplazado de conformidad a los artículos 436 o 437, según corresponda.
+Admitida la demanda a tramitación, se conferirá traslado de ella al demandado para que la conteste por escrito.
 
-Las notificaciones por carta certificada se entenderán practicadas al quinto día siguiente a la fecha de entrega de la carta en la oficina de correos, de lo que se dejará constancia.
+El término para contestarla será de diez días fatales, el que se aumentará con la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil.
 
-Para los efectos de practicar las notificaciones por carta certificada a que hubiere lugar, todo litigante deberá designar, en su primera actuación, un lugar conocido dentro de los límites urbanos de la ciudad en que funcione el tribunal respectivo y esta designación se considerará subsistente mientras no haga otra la parte interesada.
+La contestación a la demanda deberá contener:
 
-Respecto de las partes que no hayan efectuado la designación a que se refiere el inciso precedente, las resoluciones que debieron notificarse por carta certificada lo serán por el estado diario, sin necesidad de petición de parte y sin previa orden del tribunal.
+1.- la designación del tribunal ante quien se entabla;
+
+2.- el nombre, apellidos, domicilio, profesión u oficio del demandado;
+
+3.- todas las excepciones dilatorias y perentorias y los hechos en que se fundan. Con posterioridad no podrá hacerse valer excepción alguna, y
+
+4.- la enunciación precisa y clara, consignada en la conclusión de las peticiones que se sometan a la resolución del tribunal.
+
+En el escrito de contestación el demandado podrá deducir reconvención cuando el tribunal sea competente para conocer de ella como demanda y siempre que tenga por objeto enervar la acción deducida o esté íntimamente ligada con ella. En caso contrario, no se admitirá a tramitación. La reconvención se sujetará a las normas señaladas en el artículo 439 y se tramitará conjuntamente con la demanda.
+
+Todas las excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva, pero el tribunal podrá acoger las dilatorias de incompetencia, de falta de capacidad o de personería del demandante, o aquella en que se reclame el procedimiento siempre que aparezcan manifiestamente admisibles, una vez contestado el traslado respectivo o vencido el término que establece el artículo 441.
+
+Cuando se demanden períodos de cotizaciones de seguridad social impagas, el juez de la causa al conferir traslado de la demanda, deberá ordenar la notificación de ella a la o las instituciones de seguridad social a las que corresponda percibir la respectiva cotización.
+
+Dicha notificación se efectuará por el ministro de fe del tribunal a través de carta certificada, conteniendo copia íntegra de la demanda y de la resolución recaída en ella o un extracto si fueren muy extensas y equivaldrá al reclamo a que hace referencia el artículo 4º de la ley Nº 17.322, debiendo aquéllas hacerse parte en la causa en los plazos y bajo las condiciones a que se refieren dicho precepto y el artículo 4º bis del mismo cuerpo legal.
+
+Estas notificaciones se entenderán practicadas desde el tercer día a aquél en que sea expedida la carta, debiendo el ministro de fe dejar constancia en el expediente de la fecha del envío.
+
+> **Nota.** El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que la modificación introducida al presente artículo regirá a contar del primer día del tercer mes siguiente al de inicio de funcionamiento de los juzgados de cobranza laboral y previsional, la que se inició 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005, y se aplicará a las demandas que se interpongan a contar de dicha fecha.
 
 #### Artículo 441
 
-Las restantes resoluciones se entenderán notificadas a las partes desde que se incluyan en el estado diario.
+Deducida reconvención o interpuestas excepciones dilatorias, el tribunal dará el traslado respectivo. El demandante tendrá cinco días para contestar unas y otras. La contestación a la reconvención deberá cumplir con lo establecido en el artículo 440.
 
 #### Artículo 442
 
-Salvo la primera notificación al demandado, las restantes deberán ser efectuadas al medio de notificación electrónico que el abogado patrocinante y el mandatario judicial establezcan en su primera presentación en juicio, siempre que el juez lo califique como expedito y eficaz, bajo apercibimiento de serles notificadas por el estado diario todas las resoluciones que se dicten en lo sucesivo en el proceso. En este caso, se dejará debida constancia de haberse practicado la notificación en la forma solicitada.
+Contestada que sea la demanda, de no interponerse reconvención o excepciones dilatorias, o evacuado el traslado conferido, de haberse interpuesto éstas, o vencido el término legal para ello sin haberlas contestado, el tribunal recibirá de inmediato la causa a prueba y fijará los puntos sobre los cuales ésta deberá recaer.
+
+De no haber hechos sustanciales, pertinentes y controvertidos, citará a las partes a oír sentencia y, además, a una audiencia de conciliación, en el plazo y conforme a las disposiciones del inciso siguiente.
+
+En la misma resolución y sin más trámites, citará a las partes a una audiencia de conciliación y prueba para un día no anterior al octavo ni posterior al décimo quinto día siguientes a la fecha de notificación de la resolución. Si el tribunal lo estimare conveniente, podrá disponer la comparecencia personal de las partes a esta audiencia, las que podrán hacerlo en dicha forma o bien mediante mandatario especialmente facultado para transigir, sin perjuicio de la asistencia de sus apoderados y abogados.
+
+La resolución a que se refiere este artículo se notificará por cédula y, en su contra, sólo procederá el recurso de reposición, el que deberá interponerse dentro de tercero día de notificada que sea ésta, y fallarse antes de la celebración del comparendo.
 
 #### Artículo 443
 
-Los incidentes de cualquier naturaleza deberán promoverse preferentemente en la audiencia respectiva y resolverse de inmediato. Excepcionalmente, el tribunal podrá dejar su resolución para la sentencia definitiva.
+La parte que desee rendir prueba testimonial deberá presentar, dentro de los tres días siguientes a la notificación de la resolución que recibe la causa a prueba, una lista que expresará el nombre y apellidos, profesión u oficio y domicilio de los testigos.
+
+Asimismo, y sólo en el mismo escrito, podrá solicitar la citación de todos o algunos de los testigos. El tribunal, por una sola vez, decretará la citación solicitada. Esta se hará, bajo apercibimiento de arresto, mediante carta certificada enviada al domicilio indicado en la respectiva lista de testigos. La citación se entenderá practicada al tercer día hábil siguiente a la fecha de entrega de la carta a la oficina de correos, de lo cual el secretario dejará constancia en el expediente. La parte podrá efectuar la notificación por cédula, a su costa. La citación implica la concurrencia a la audiencia de prueba y a toda continuación de ésta, hasta que el testigo haya prestado su declaración.
+
+De igual manera, en el mismo escrito deberá solicitarse la absolución de posiciones, y acompañarse o solicitarse la exhibición de toda la prueba documental que no se hubiese presentado con anterioridad.
+
+La remisión de oficios, informes de peritos y la inspección personal del juez, podrán solicitarse en el escrito a que se refieren los incisos anteriores o en la audiencia de prueba, a elección de la parte interesada.
 
 #### Artículo 444
 
-En el ejercicio de su función cautelar, el juez decretará todas las medidas que estime necesarias para asegurar el resultado de la acción, así como para la protección de un derecho o la identificación de los obligados y la singularización de su patrimonio en términos suficientes para garantizar el monto de lo demandado.
+La audiencia se celebrará con las partes que asistan. El tribunal someterá a éstas las bases sobre las cuales estima posible una conciliación y el juez personalmente las instará a ello. Las opiniones que el tribunal emita al efecto no serán causal de inhabilitación.
 
-Con todo, las medidas cautelares que el juez decrete deberán ser proporcionales a la cuantía del juicio.
+De producirse la conciliación, se estará a lo que se establece en el artículo 267 del Código de Procedimiento Civil.
 
-Las medidas cautelares podrán llevarse a efecto antes de notificarse a la persona contra quien se dicten, siempre que existan razones graves para ello y el tribunal así lo ordene. Transcurridos cinco días sin que la notificación se efectúe, quedarán sin valor las diligencias practicadas.
+De no producirse la conciliación y haberse recibido la causa a prueba, se procederá a recibir de inmediato la prueba ofrecida por las partes, como también cualquier otro elemento de convicción que, a juicio del tribunal, fuere pertinente y que las partes hubiesen ofrecido con anterioridad. El orden de recepción de las pruebas será el siguiente: documental, confesional y testimonial, sin perjuicio de que el tribunal pueda modificarlo por causa justificada. La prueba documental a que se refiere este inciso es la ordenada exhibir de acuerdo a lo dispuesto en el inciso tercero del artículo 443.
 
-Las medidas precautorias se podrán disponer en cualquier estado de tramitación de la causa aun cuando no esté contestada la demanda o incluso antes de su presentación, como prejudiciales. En ambos casos se deberá siempre acreditar razonablemente el fundamento y la necesidad del derecho que se reclama. Si presentada la demanda al tribunal respectivo persistieran las circunstancias que motivaron su adopción, se mantendrán como precautorias. Si no se presentare la demanda en el término de diez días contados desde la fecha en que la medida se hizo efectiva, ésta caducará de pleno derecho y sin necesidad de resolución judicial, quedando el solicitante por este solo hecho responsable de los perjuicios que se hubiere causado. Con todo, por motivos fundados y cuando se acredite por el demandante el inminente término de la empresa o su manifiesta insolvencia, el juez podrá prorrogar las medidas prejudiciales precautorias por el plazo prudencial que estime necesario para asegurar el resultado de la litis.
+Siempre que no alcanzare a rendirse la prueba el día fijado para la audiencia, el tribunal continuará recibiéndola al día siguiente hábil, y si ello no fuere posible en los días hábiles más próximos hasta su conclusión.
 
-Habiendo sido notificada la demanda, la función cautelar del tribunal comprenderá la de requerir información de organismos públicos, empresas u otras personas jurídicas o naturales, sobre cualquier antecedente que a criterio del juez contribuya al objetivo perseguido.
+De no haber conciliación ni hechos sustanciales, pertinentes y controvertidos, el tribunal dictará sentencia de inmediato o, a más tardar, dentro del décimo quinto día.
 
 #### Artículo 445
 
-En toda resolución que ponga término a la causa o resuelva un incidente, el juez deberá pronunciarse sobre el pago de las costas del procedimiento, tasando las procesales y regulando las personales, según proceda.
+La confesión judicial sólo podrá pedirse una vez por cada parte y las posiciones deberán absolverse en la audiencia de prueba. El pliego de posiciones respectivo deberá entregarse al tribunal al momento de iniciarse la audiencia.
 
-Cuando el trabajador ha litigado con privilegio de pobreza, las costas personales a cuyo pago sea condenada la contraparte pertenecerán a la respectiva Corporación de Asistencia Judicial, al abogado de turno, o a quien la ley señale.
+Las posiciones deberán ser atingentes a los hechos materia de prueba y redactarse en términos claros y precisos, de manera de permitir su fácil comprensión. El tribunal, de oficio o a petición de parte, podrá modificar, aclarar o declarar improcedentes las preguntas.
 
-### Párrafo 3º
+La resolución que cite a absolver posiciones se notificará por cédula, lo que deberá haberse realizado con una anticipación no menor a tres días hábiles de la fecha fijada para la audiencia. La parte que no haya designado domicilio de conformidad a lo establecido en el inciso segundo del artículo 434, será notificada por el estado.
 
-Del procedimiento de aplicación general
+La persona citada a absolver posiciones está obligada a concurrir personalmente a la audiencia, a menos que designe especialmente a un mandatario para tal objeto. La designación de dicha persona deberá constar por escrito y hacerse con anticipación a la fecha fijada para la comparecencia. La absolución de posiciones de este mandatario se considerará, para todos los efectos legales, como si hubiese sido hecha personalmente por la persona cuya comparecencia se decretó. No habrá lugar a delegación cuando se trate de absolver posiciones sobre hechos propios.
+
+Si no se comparece a la audiencia o compareciendo se negase a declarar o se diese respuestas evasivas, se presumirán efectivos los hechos categóricamente afirmados en el pliego. En ningún caso, habrá lugar a lo establecido en el inciso segundo del artículo 394 del Código de Procedimiento Civil.
 
 #### Artículo 446
 
-La demanda se interpondrá por escrito y deberá contener:
+Los instrumentos deberán acompañarse en parte de prueba y bajo los apercibimientos legales que, según su naturaleza, se establecen en el Código de Procedimiento Civil. Ello no obstante, los instrumentos acompañados en el escrito de demanda y en la demanda reconvencional, deberán impugnarse en la respectiva contestación o en el plazo conferido para ésta. En ningún caso el plazo para impugnar la prueba instrumental podrá exceder de la audiencia de prueba, y si estuviere pendiente a la fecha de su realización, la impugnación deberá hacerse precisamente en la audiencia.
 
-1. La designación del tribunal ante quien se entabla;
-
-2. El nombre, apellidos, domicilio y profesión u oficio del demandante y en su caso de las personas que lo representen, y naturaleza de la representación;
-
-3. El nombre, apellidos, domicilio y profesión u oficio del demandado;
-
-4. La exposición clara y circunstanciada de los hechos y consideraciones de derecho en que se fundamenta, y
-
-5. La enunciación precisa y concreta de las peticiones que se someten a la resolución del tribunal.
-
-La prueba documental sólo se podrá presentar en la audiencia preparatoria. Sin embargo, deberá presentarse conjuntamente con la demanda, aquella que dé cuenta de las actuaciones administrativas que se refieren a los hechos contenidos en esa.
-
-En materias de seguridad social, cuando se demande a una institución de previsión o seguridad social, deberá acompañarse la resolución final de la respectiva entidad o de la entidad fiscalizadora según corresponda, que se pronuncia sobre la materia que se demanda.
-
-Cuando se demanden períodos de cotizaciones de seguridad social impagas, el juez de la causa al conferir el traslado de la demanda, deberá ordenar la notificación de ella a la o las instituciones de seguridad social a las que corresponda percibir la respectiva cotización. Dicha notificación se efectuará a través de carta certificada, la que contendrá copia íntegra de la demanda y de la resolución recaída en ella o un extracto si fueren muy extensas.
+En la audiencia de prueba, excepcionalmente y por causa muy justificada, el tribunal podrá admitir prueba instrumental adicional o complementaria a la ya acompañada. En este evento la impugnación de los nuevos instrumentos deberá hacerse en la misma audiencia o, a petición fundada de parte, dentro de tercero día. Las resoluciones que dicte el tribunal en virtud de lo dispuesto en este inciso, son inapelables.
 
 #### Artículo 447
 
-El juez deberá declarar de oficio cuando se estime incompetente para conocer de la demanda, en cuyo caso así lo declarará, señalará el tribunal competente, y le enviará los antecedentes.
-
-Si de los datos aportados en la demanda se desprendiere claramente la caducidad de la acción, el tribunal deberá declararlo de oficio y no admitirá a tramitación la demanda respecto de esa acción.
-
-En materias de previsión o seguridad social, el juez admitirá la demanda a tramitación, sólo si el actor ha dado cumplimiento a lo dispuesto en el inciso cuarto del artículo precedente, de lo contrario, deberá rechazar de plano dicha demanda.
+Se podrá solicitar la exhibición de instrumentos que existan en poder de la otra parte o de un tercero, en los términos de los incisos primero, segundo y cuarto del artículo 349 del Código de Procedimiento Civil. El tribunal, de acceder a tal petición, junto con determinar el día, la hora y el lugar en que esta diligencia deba llevarse a efecto, apercibirá con arresto a la persona obligada a efectuar la exhibición, para el caso de negativa o dilación injustificadas. En todo caso, el tribunal deberá cuidar la celeridad del procedimiento.
 
 #### Artículo 448
 
-El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado.
+El Tribunal sólo dará lugar a la petición de oficios, cuando se trate de requerir información objetiva sobre los hechos materia del juicio y se solicite respecto de autoridades públicas o representantes de instituciones o empresas públicas o privadas. El oficio deberá señalar específicamente el o los hechos sobre los cuales se pide el informe.
 
-En el caso de aquellas acciones que corresponda tramitar de acuerdo a procedimientos distintos, se deberán deducir de conformidad a las normas respectivas, y si una dependiere de la otra, no correrá el plazo para ejercer aquella hasta ejecutoriado que sea el fallo de ésta.
+Tratándose de solicitudes de oficios a las que acceda el Tribunal, éste deberá disponer su despacho inmediato a las personas o entidades públicas o privadas requeridas, quienes estarán obligadas a evacuar la respuesta dentro del plazo que al efecto fije el Tribunal, el que en todo caso no podrá exceder de 30 días. A petición de la parte que lo solicita o de la persona o entidad requerida, el plazo para evacuar el oficio podrá ser ampliado por el Tribunal cuando existan antecedentes fundados que lo aconsejen. Si vencido el término indicado el oficio no hubiere sido evacuado, el Tribunal fijará un plazo de cinco días para su entrega, bajo apercibimiento de arresto.
+
+El mismo plazo, la posibilidad de su ampliación y el apercibimiento indicados en el inciso anterior regirán para los peritos, en relación a sus informes, desde la aceptación de su cometido.
 
 #### Artículo 449
 
-Si ante el mismo tribunal se tramitan varias demandas contra un mismo demandado y las acciones son idénticas, aunque los actores sean distintos, el juez de oficio o a petición de parte podrá decretar la acumulación de las causas, siempre que se encuentren en un mismo estado de tramitación y no implique retardo para una o más de ellas.
+Los testigos podrán declarar únicamente ante el tribunal que conozca de la causa.
 
-Solicitada la acumulación, se concederá un plazo de tres días a la parte no peticionaria para que exponga lo conveniente sobre ella. Transcurrido este plazo, haya o no respuesta, el tribunal resolverá.
+Serán admitidos a declarar sólo hasta dos testigos, por cada parte, sobre cada uno de los puntos de prueba fijados en la resolución respectiva.
 
-Con todo, el juez tendrá siempre la facultad de desacumular las causas.
+Las declaraciones se regirán por las normas de los artículos 363, 364, 365, 366, 367, 368, 370, 373 excluida la referencia al artículo 372, 374 y 375 del Código de Procedimiento Civil, con la salvedad que las resoluciones que adopte el tribunal en virtud de estas disposiciones, son inapelables.
 
 #### Artículo 450
 
-El procedimiento regulado en este Párrafo se desarrollará en dos audiencias, la primera preparatoria y la segunda de juicio, conforme a las reglas que se señalan en los artículos siguientes.
+Las tachas que se deduzcan se resolverán en la sentencia definitiva y, a su respecto, no se admitirá prueba testimonial. Las partes podrán acompañar los antecedentes que las justifiquen hasta la citación para oír sentencia.
+
+El hecho de ser el testigo dependiente de la parte que lo presenta o de litigar o haber litigado en juicio de la misma naturaleza con la parte contraria, no invalida su testimonio. Asimismo, el tribunal podrá otorgar el valor de presunción judicial a los dichos de los testigos inhabilitados por alguna de las causales que establece el artículo 358 del Código de Procedimiento Civil.
 
 #### Artículo 451
 
-Admitida la demanda a tramitación, el tribunal deberá, de inmediato y sin más trámite, citar a las partes a una audiencia preparatoria, fijando para tal efecto, dentro de los treinta y cinco días siguientes a la fecha de la resolución, el día y la hora para su celebración, debiendo mediar entre la notificación de la demanda y citación, y la celebración de la audiencia, a lo menos, quince días.
-
-En la citación se hará constar que la audiencia preparatoria se celebrará con las partes que asistan, afectándole a aquella que no concurra todas las resoluciones que se dicten en ella, sin necesidad de ulterior notificación. Asimismo, deberá indicarse en la citación que las partes, en dicha audiencia, deberán señalar al tribunal todos los medios de prueba que pretendan hacer valer en la audiencia oral de juicio, como así también requerir las diligencias de prueba atinentes a sus alegaciones, para que el tribunal examine su admisibilidad.
+Se levantará acta de todo lo obrado en la audiencia, dejándose constancia clara y precisa de lo expuesto por las partes, de la prueba recibida y de las diligencias de prueba realizadas en ella.
 
 #### Artículo 452
 
-El demandado deberá contestar la demanda por escrito con a lo menos cinco días de antelación a la fecha de celebración de la audiencia preparatoria.
+Vencido el término de prueba, y dentro de los cinco días siguientes, las partes podrán hacer por escrito las observaciones que el examen de la prueba les sugiera. Expirado este plazo, se haya o no presentado escrito y existan o no diligencias pendientes, el tribunal citará para oír sentencia, la que se dictará dentro de los quince días siguientes.
 
-La contestación deberá contener una exposición clara y circunstanciada de los hechos y fundamentos de derecho en los que se sustenta, las excepciones y/o demanda reconvencional que se deduzca, así como también deberá pronunciarse sobre los hechos contenidos en la demanda, aceptándolos o negándolos en forma expresa y concreta.
-
-La reconvención sólo será procedente cuando el tribunal sea competente para conocer de ella como demanda y siempre que esté íntimamente ligada a ella.
-
-La reconvención deberá contener las menciones a que se refiere el artículo 446 y se tramitará conjuntamente con la demanda.
+Citadas las partes para oír sentencia, no se admitirán escritos ni pruebas de ningún género.
 
 #### Artículo 453
 
-- En la audiencia preparatoria se aplicarán las siguientes reglas:
+No será motivo para suspender el curso del juicio ni será obstáculo para la dictación del fallo el hecho de existir alguna diligencia de prueba pendiente, a menos que el tribunal, por resolución fundada, la estime estrictamente necesaria para la acertada resolución de la causa. En este caso, la reiterará como medida para mejor resolver.
 
-1) La audiencia preparatoria comenzará con la relación somera que hará el juez de los contenidos de la demanda, así como de la contestación y, en su caso, de la demanda reconvencional y de las excepciones, si éstas hubieren sido deducidas por el demandado en los plazos establecidos en el artículo 452.
-
-Si ninguna de las partes asistiere a la audiencia preparatoria, éstas tendrán el derecho de solicitar, por una sola vez, conjunta o separadamente, dentro de quinto día contados desde la fecha en que debió efectuarse, nuevo día y hora para su realización.
-
-A continuación, el juez procederá a conferir traslado para la contestación de la demanda reconvencional y de las excepciones, en su caso.
-
-Una vez evacuado el traslado por la parte demandante, el tribunal deberá pronunciarse de inmediato respecto de las excepciones de incompetencia, de falta de capacidad o de personería del demandante, de ineptitud del libelo, de caducidad, de prescripción o aquélla en que se reclame del procedimiento, siempre que su fallo pueda fundarse en antecedentes que consten en el proceso o que sean de pública notoriedad. En los casos en que ello sea procedente, se suspenderá la audiencia por el plazo más breve posible, a fin de que se subsanen los defectos u omisiones, en el plazo de cinco días, bajo el apercibimiento de no continuarse adelante con el juicio.
-
-Las restantes excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva.
-
-La resolución que se pronuncie sobre las excepciones de incompetencia del tribunal, caducidad y prescripción, deberá ser fundada y sólo será susceptible de apelación aquella que las acoja. Dicho recurso deberá interponerse en la audiencia. De concederse el recurso, se hará en ambos efectos y será conocido en cuenta por la Corte.
-
-Cuando el demandado no contestare la demanda, o de hacerlo no negare en ella algunos de los hechos contenidos en la demanda, el juez, en la sentencia definitiva, podrá estimarlos como tácitamente admitidos.
-
-Si el demandado se allanare a una parte de la demanda y se opusiera a otras, se continuará con el curso de la demanda sólo en la parte en que hubo oposición. Para estos efectos, el tribunal deberá establecer los hechos sobre los cuales hubo conformidad, estimándose esta resolución como sentencia ejecutoriada para todos los efectos legales, procediendo el tribunal respecto de ella conforme a lo dispuesto en el artículo 462.
-
-2) Terminada la etapa de discusión, el juez llamará a las partes a conciliación, a cuyo objeto deberá proponerles las bases para un posible acuerdo, sin que las opiniones que emita al efecto sean causal de inhabilitación.
-
-Producida la conciliación, sea ésta total o parcial, deberá dejarse constancia de ella en el acta respectiva, la que suscribirán el juez y las partes, estimándose lo conciliado como sentencia ejecutoriada para todos los efectos legales.
-
-Se tramitará separadamente, si fuere necesario, el cobro de las sumas resultantes de la conciliación parcial.
-
-3) Contestada la demanda, sin que se haya opuesto reconvención o excepciones dilatorias, o evacuado el traslado conferido de haberse interpuesto éstas, el tribunal recibirá de inmediato la causa a prueba, cuando ello fuere procedente, fijándose los hechos a ser probados. En contra de esta resolución y de la que no diere lugar a ella, sólo procederá el recurso de reposición, el que deberá interponerse y fallarse de inmediato.
-
-De no haber hechos sustanciales, pertinentes y controvertidos, el tribunal dará por concluida la audiencia y procederá a dictar sentencia.
-
-4) El juez resolverá fundadamente en el acto sobre la pertinencia de la prueba ofrecida por las partes, pudiendo valerse de todas aquellas reguladas en la ley. Las partes podrán también ofrecer cualquier otro elemento de convicción que, a juicio del tribunal, fuese pertinente.
-
-Sólo se admitirán las pruebas que tengan relación directa con el asunto sometido al conocimiento del tribunal y siempre que sean necesarias para su resolución.
-
-Con todo, carecerán de valor probatorio y, en consecuencia, no podrán ser apreciadas por el tribunal las pruebas que las partes aporten y que se hubieren obtenido directa o indirectamente por medios ilícitos o a través de actos que impliquen violación de derechos fundamentales.
-
-5) La exhibición de instrumentos que hubiere sido ordenada por el tribunal se verificará en la audiencia de juicio. Cuando, sin causa justificada, se omita la presentación de aquellos que legalmente deban obrar en poder de una de las partes, podrán estimarse probadas las alegaciones hechas por la parte contraria en relación con la prueba decretada.
-
-6) Se fijará la fecha para la audiencia de juicio, la que deberá llevarse a cabo en un plazo no superior a treinta días. Las partes se entenderán citadas a esta audiencia por el solo ministerio de la ley.
-
-7) Se decretarán las medidas cautelares que procedan, a menos que se hubieren decretado con anterioridad, en cuyo caso se resolverá si se mantienen.
-
-8) El tribunal despachará todas las citaciones y oficios que correspondan cuando se haya ordenado la práctica de prueba que, debiendo verificarse en la audiencia de juicio, requieran citación o requerimiento.
-
-La resolución que cite a absolver posiciones se notificará en el acto al absolvente. La absolución de posiciones sólo podrá pedirse una vez por cada parte.
-
-La citación de los testigos deberá practicarse por carta certificada, la que deberá despacharse con al menos ocho días de anticipación a la audiencia, al domicilio señalado por cada una de las partes que presenta la testimonial.
-
-Sin perjuicio de lo anterior, cuando se decrete la remisión de oficios o el informe de peritos, el juez podrá recurrir a cualquier medio idóneo de comunicación o de transmisión de datos que permita la pronta práctica de las diligencias, debiendo adoptar las medidas necesarias para asegurar su debida recepción por el requerido, dejándose constancia de ello.
-
-Cuando se rinda prueba pericial, el informe respectivo deberá ser puesto a disposición de las partes en el tribunal al menos tres días antes de la celebración de la audiencia de juicio. El juez podrá, con el acuerdo de las partes, eximir al perito de la obligación de concurrir a prestar declaración, admitiendo en dicho caso el informe pericial como prueba. La declaración de los peritos se desarrollará de acuerdo a las normas establecidas para los testigos.
-
-El tribunal sólo dará lugar a la petición de oficios cuando se trate de requerir información objetiva, pertinente y específica sobre los hechos materia del juicio. Cuando la información se solicite respecto de entidades públicas, el oficio deberá dirigirse a la oficina o repartición en cuya jurisdicción hubieren ocurrido los hechos o deban constar los antecedentes sobre los cuales se pide informe. Las personas o entidades públicas o privadas a quienes se dirija el oficio estarán obligadas a evacuarlo dentro del plazo que fije el tribunal, el que en todo caso no podrá exceder a los tres días anteriores al fijado para la audiencia de juicio, y en la forma que éste lo determine, pudiendo disponer al efecto cualquier medio idóneo de comunicación o de transmisión de datos.
-
-9) En esta audiencia, el juez de la causa podrá decretar diligencias probatorias, las que deberán llevarse a cabo en la audiencia de juicio.
-
-10) Se levantará una breve acta de la audiencia que sólo contendrá la indicación del lugar, fecha y tribunal, los comparecientes que concurren a ella, la hora de inicio y término de la audiencia, la resolución que recae sobre las excepciones opuestas, los hechos que deberán acreditarse e individualización de los testigos que depondrán respecto a ésos, y, en su caso, la resolución a que se refieren el párrafo final del número 1) y el número 2) de este artículo.
+En caso que la medida para mejor resolver consista en reiterar un oficio, el tribunal fijará un plazo prudencial para su respuesta bajo apercibimiento de multa de hasta 10 unidades tributarias mensuales, la que podrá reiterar hasta el debido cumplimiento de lo ordenado.
 
 #### Artículo 454
 
-En la audiencia de juicio se aplicarán las siguientes reglas:
+El tribunal podrá de oficio, a partir de la recepción de la causa a prueba, decretar para mejor resolver cualquiera de las medidas a que se refiere el artículo 159 del Código de Procedimiento Civil u otras diligencias encaminadas a comprobar los hechos controvertidos.
 
-1) La audiencia de juicio se iniciará con la rendición de las pruebas decretadas por el tribunal, comenzando con la ofrecida por el demandante y luego con la del demandado.
+Toda medida para mejor resolver deberá cumplirse dentro del plazo de diez días contados desde la fecha de la resolución que la decreta. El tribunal, por resolución fundada, podrá ampliar este plazo prudencialmente, pero sin exceder de diez días contados desde la citación para oír sentencia.
 
-No obstante lo anterior, en los juicios sobre despido corresponderá en primer lugar al demandado la rendición de la prueba, debiendo acreditar la veracidad de los hechos imputados en las comunicaciones a que se refieren los incisos primero y cuarto del artículo 162, sin que pueda alegar en el juicio hechos distintos como justificativos del despido.
-
-El orden de recepción de las pruebas será el siguiente: documental, confesional, testimonial y los otros medios ofrecidos, sin perjuicio de que el tribunal pueda modificarlo por causa justificada.
-
-2) La impugnación de la prueba instrumental acompañada deberá formularse en forma oral en la audiencia preparatoria o en la de juicio.
-
-3) Si el llamado a confesar no compareciese a la audiencia sin causa justificada, o compareciendo se negase a declarar o diere respuestas evasivas, podrán presumirse efectivas, en relación a los hechos objeto de prueba, las alegaciones de la parte contraria en la demanda o contestación, según corresponda.
-
-La persona citada a absolver posiciones estará obligada a concurrir personalmente a la audiencia, a menos que designe especialmente un mandatario para tal objeto, el que si representa al empleador, deberá tratarse de una de las personas a que se refiere el artículo 4º de este Código. La designación del mandatario deberá constar por escrito y entregarse al inicio de la audiencia, considerándose sus declaraciones para todos los efectos legales como si hubieren sido hechas personalmente por aquél cuya comparecencia se solicitó.
-
-Si los demandantes fueren varios y se solicitare la citación a confesar en juicio de muchos o de todos ellos, el juez podrá reducir el número de quienes habrán de comparecer, en especial cuando estime que sus declaraciones puedan resultar una reiteración inútil sobre los mismos hechos.
-
-4) Las posiciones para la prueba confesional se formularán verbalmente, sin admisión de pliegos, y deberán ser pertinentes a los hechos sobre los cuales debe versar la prueba y expresarse en términos claros y precisos, de manera que puedan ser entendidas sin dificultad. El tribunal, de oficio o a petición de parte, podrá rechazar las preguntas que no cumplan con dichas exigencias.
-
-El juez podrá formular a los absolventes las preguntas que estime pertinente, así como ordenarles que precisen o aclaren sus respuestas.
-
-5) Los testigos podrán declarar únicamente ante el tribunal que conozca de la causa. Serán admitidos a declarar sólo hasta cuatro testigos por cada parte. En caso de que se haya ordenado la acumulación de autos, el número de testigos admitidos a declarar será determinado por el tribunal, no pudiendo en ningún caso ser superior a cuatro por cada causa acumulada.
-
-Excepcionalmente, y por resolución fundada, el tribunal podrá ampliar el número de testigos cuando, de acuerdo a la naturaleza de los hechos a ser probados, ello se considere indispensable para una adecuada resolución del juicio.
-
-El juez podrá reducir el número de testigos de cada parte, e incluso prescindir de la prueba testimonial cuando sus manifestaciones pudieren constituir inútil reiteración sobre hechos suficientemente esclarecidos.
-
-Los testigos declararán bajo juramento o promesa de decir verdad en juicio. El juez, en forma expresa y previa a su declaración, deberá poner en conocimiento del testigo las sanciones contempladas en el artículo 209 del Código Penal, por incurrir en falso testimonio.
-
-No se podrá formular tachas a los testigos. Únicamente en la oportunidad a que se refiere el número 9 de este artículo, las partes podrán hacer las observaciones que estimen oportunas respecto de sus circunstancias personales y de la veracidad de sus manifestaciones.
-
-La comparecencia del testigo a la audiencia de juicio, constituirá siempre suficiente justificación cuando su presencia fuere requerida simultáneamente para dar cumplimiento a obligaciones laborales, educativas o de otra naturaleza, y no le ocasionará consecuencias jurídicas adversas bajo circunstancia alguna.
-
-6) El tribunal y las partes podrán formular a los testigos las preguntas que estimen necesarias para el esclarecimiento de los hechos sobre los que versa el juicio. Podrán, asimismo, exigir que los testigos aclaren o precisen sus dichos.
-
-Estas preguntas no podrán formularse en forma asertiva, ni contener elementos de juicio que determinen la respuesta, ni referirse a hechos o circunstancias ajenas al objeto de la prueba, lo que calificará el tribunal sin más trámite.
-
-7) Si el oficio, informe del perito o el informe de la Dirección del Trabajo al que se refiere el inciso séptimo del artículo 3 no fuere evacuado antes de la audiencia y su contenido fuere relevante para la resolución del asunto, el juez deberá, dentro de la misma audiencia, tomar las medidas inmediatas que fueren necesarias para su aportación en ella. Si al término de esta audiencia dichas diligencias no se hubieren cumplido, el Tribunal fijará para ese solo efecto una nueva audiencia que deberá llevarse a cabo dentro del más breve plazo.
-
-8) Cuando se rinda prueba que no esté expresamente regulada en la ley, el tribunal determinará la forma de su incorporación al juicio, adecuándola, en lo posible, al medio de prueba más análogo.
-
-9) Practicada la prueba, las partes formularán, oralmente, en forma breve y precisa, las observaciones que les merezcan las pruebas rendidas y sus conclusiones.
-
-Con todo, si a juicio del juez hubiere puntos no suficientemente esclarecidos, podrá ordenar a las partes que los aclaren.
-
-10) Si una de las partes alegare entorpecimiento en el caso de la imposibilidad de comparecencia de quien fuere citado a la diligencia de confesión, deberá acreditarlo al invocarla, debiendo resolverse el incidente en la misma audiencia. Sólo podrá aceptarse cuando se invocaren hechos sobrevinientes y de carácter grave, en cuyo caso, deberá el juez adoptar las medidas inmediatas que fueren necesarias para su realización a la mayor brevedad, notificándose a las partes en el acto.
+En ningún caso el tribunal podrá decretar estas medidas transcurridos diez días desde que se citó a las partes a oír sentencia.
 
 #### Artículo 455
 
-Al finalizar la audiencia se extenderá el acta correspondiente, en la que constará el lugar, fecha e individualización del tribunal, de las partes comparecientes, de sus apoderados y abogados, y de toda otra circunstancia que el tribunal estime necesario incorporar.
+El tribunal apreciará la prueba conforme a las reglas de la sana crítica. Las presunciones simplemente legales se apreciarán también en la misma forma.
 
 #### Artículo 456
 
-El tribunal apreciará la prueba conforme a las reglas de la sana crítica.
-
-Al hacerlo, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+Al apreciar las pruebas según la sana crítica, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia en cuya virtud les designe valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
 
 #### Artículo 457
 
-El juez podrá pronunciar el fallo al término de la audiencia de juicio o, en todo caso, dictarlo dentro del plazo de décimo quinto día, contado desde la realización de ésta, en cuyo caso citará a las partes para notificarlas del fallo, fijando día y hora al efecto, dentro del mismo plazo.
-
-Las partes se entenderán notificadas de la sentencia, sea en la audiencia de juicio o en la actuación prevista al efecto, hayan o no asistido a ellas.
+Los incidentes de cualquiera naturaleza que se promuevan en el juicio no suspenderán el curso de éste y se substanciarán en ramo separado. La sentencia definitiva se pronunciará sobre las acciones y excepciones deducidas y sobre los incidentes, o sólo sobre éstos cuando sean previos o incompatibles con aquéllas.
 
 #### Artículo 458
 
-La sentencia definitiva se pronunciará sobre las acciones y excepciones deducidas que no se hubieren resuelto con anterioridad y sobre los incidentes, en su caso, o sólo sobre éstos cuando sean previos e incompatibles con aquéllas.
+La sentencia definitiva deberá contener:
+
+1. el lugar y fecha en que se expida;
+
+2. la individualización completa de las partes litigantes;
+
+3. una síntesis de los hechos y de las alegaciones de las partes;
+
+4. el análisis de toda la prueba rendida;
+
+5. las consideraciones de hecho y de derecho que sirvan de fundamento al fallo;
+
+6. los preceptos legales o, a falta de éstos, los principios de equidad en que el fallo se funda;
+
+7. la resolución de las cuestiones sometidas a la decisión del tribunal con expresa determinación de las sumas que ordene pagar, si ello fuere procedente, y
+
+8. el pronunciamiento sobre el pago de costas y, en su caso, los motivos que tuviere el tribunal para absolver de su pago a la parte vencida.
+
+La sentencia que se dicte en la audiencia, de conformidad a lo establecido en el inciso final del artículo 444, sólo deberá cumplir con los requisitos de los números 2, 5, 6, 7 y 8.
+
+### Párrafo 3° — Del juicio laboral de menor cuantía
+
+#### Artículo 448
+
+El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado, aunque procedan de distintos títulos.
+
+En el caso de aquellas acciones que corresponda tramitar de acuerdo a procedimientos distintos, se deberán deducir de conformidad a las normas respectivas, y si una dependiere de la otra, no correrá el plazo para ejercer aquella hasta ejecutoriado que sea el fallo de ésta.
 
 #### Artículo 459
 
-La sentencia definitiva deberá contener:
+En caso de que la cuantía de lo disputado no exceda de cuatro ingresos mínimos, el demandante deberá señalar en su demanda si opta porque ésta se tramite conforme al procedimiento establecido en los artículos precedentes o por el de este artículo. Si nada dijere, se entenderá que opta por el procedimiento ordinario que se contiene en el párrafo anterior.
 
-1.- El lugar y fecha en que se expida;
+De optarse por el procedimiento a que se refiere este párrafo las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado y en conformidad a las reglas siguientes:
 
-2.- La individualización completa de las partes litigantes;
+a) Presentada la demanda, el tribunal citará a las partes a una audiencia de discusión, conciliación y prueba, a la cual éstas deberán concurrir con todos sus medios de prueba, dentro de los diez días siguientes;
 
-3.- Una síntesis de los hechos y de las alegaciones de las partes;
+b) La notificación de la demanda se hará de conformidad a lo establecido en el inciso segundo del artículo 430. Esta deberá realizarse con no menos de cinco días de anticipación a la fecha fijada para la audiencia y, en lo posible, deberá hacerse personalmente. De no encontrarse al demandado en su domicilio, se le dejará copia íntegra de la demanda y de la resolución recaída en ella, que se entregará a persona adulta que se encuentre en dicho domicilio. Además, se enviará al demandado carta certificada comunicándole el hecho de la demanda y la fecha en que debe comparecer ante el tribunal. El secretario deberá certificar el cumplimiento de esta disposición;
 
-4.- El análisis de toda la prueba rendida, los hechos que estime probados y el razonamiento que conduce a esta estimación;
+c) La audiencia se celebrará con las partes que asistan.
 
-5.- Los preceptos constitucionales, legales o los contenidos en tratados internacionales ratificados por Chile y que se encuentren vigentes, las consideraciones jurídicas y los principios de derecho o de equidad en que el fallo se funda;
+En esta audiencia, el tribunal escuchará a las partes, las instará a una conciliación y, de no producirse ésta, recibirá en el mismo acto todas las pruebas que las partes le ofrezcan y que sean atingentes con el asunto en discusión. Terminada la recepción de la prueba, el tribunal citará a las partes para oír sentencia, la que dictará en el acto o dentro de tercero día.
 
-6.- La resolución de las cuestiones sometidas a la decisión del tribunal, con expresa determinación de las sumas que ordene pagar o las bases necesarias para su liquidación, si ello fuere procedente, y
+En caso que toda la prueba no alcance a recibirse en la audiencia, se estará a lo dispuesto en el inciso cuarto del artículo 444;
 
-7.- El pronunciamiento sobre el pago de costas y, en su caso, los motivos que tuviere el tribunal para absolver de su pago a la parte vencida.
+d) La prueba se apreciará en conciencia;
 
-La sentencia que se dicte en la audiencia preparatoria, sólo deberá cumplir con los requisitos de los números 1, 2, 5, 6 y 7.
+e) La sentencia que se dicte sólo contendrá las indicaciones que se establecen en los números 1, 2, 6, 7 y 8 del artículo 458 y será notificada en la forma que se señala en la letra b) precedente, y
+
+f) La sentencia definitiva sólo será susceptible del recurso de apelación, el cual, una vez ingresado a la Corte de Apelaciones respectiva y sin esperar comparecencia alguna de las partes, se conocerá en cuenta y gozará de preferencia para su resolución.
+
+### Párrafo 4°
+
+De la ejecución de las resoluciones y del juicio ejecutivo
 
 #### Artículo 460
 
-Si el juez que presidió la audiencia de juicio no pudiere dictar sentencia, aquélla deberá celebrarse nuevamente.
+En las causas del trabajo, la ejecución de las resoluciones se sujetará a las normas del título XIX del libro I del Código de Procedimiento Civil, con las modificaciones siguientes:
+
+a) el procedimiento incidental de que tratan los artículos 233 y siguientes del Código de Procedimiento Civil, tendrá lugar siempre que se solicite el cumplimiento de una sentencia ante el tribunal que la dictó, dentro de los sesenta días contados desde que la ejecución se hizo exigible.
+
+b) la notificación de las resoluciones se practicará por los funcionarios que se señalan en el inciso segundo del artículo 430, salvo aquellas que corresponda notificar por el estado diario;
+
+c) al proceder a trabar embargo sobre bienes muebles, el funcionario respectivo deberá efectuar una tasación prudencial de los mismos, que consignará en el acta de la diligencia.
+
+Tales bienes no podrán ser vendidos, en una primera subasta, en un valor inferior al setenta y cinco por ciento de la respectiva tasación. Si los bienes embargados no se vendieren serán rematados, sin mínimo, en una segunda subasta. El ejecutante podrá participar en la subasta en las condiciones antes señaladas e incluso adjudicarse en pago el bien embargado, y
+
+d) los receptores y el empleado del mismo tribunal que el juez designe en cada caso, serán los funcionarios habilitados para practicar el embargo y demás diligencias de la ejecución.
 
 #### Artículo 461
 
-En caso de ser procedente, la sentencia de término será notificada a los entes administradores de los respectivos sistemas de seguridad social, con el objeto de que éstos hagan efectivas las acciones contempladas en la ley Nº 17.322 o en el decreto ley Nº 3.500, de 1980, según corresponda.
+El juicio ejecutivo derivado de asuntos laborales, se regirá, en lo pertinente, por las disposiciones de los Títulos I y II del Libro III del Código de Procedimiento Civil con las modificaciones señaladas en las letras b), c) y d) del artículo anterior.
 
 #### Artículo 462
 
-Una vez firme la sentencia, lo que deberá certificar de oficio el tribunal, y siempre que no se acredite su cumplimiento dentro del término de cinco días, se dará inicio a su ejecución de oficio por el tribunal, de conformidad a lo dispuesto en los artículos siguientes.
+Tendrán mérito ejecutivo ante los Juzgados de Letras del Trabajo y ante los Juzgados de Cobranza Laboral y Previsional las actas que den constancia de acuerdos producidos ante los inspectores del trabajo, firmadas por las partes y autorizadas por éstos y que contengan la existencia de una obligación laboral o sus copias certificadas por la respectiva Inspección del Trabajo.
 
-### Párrafo 4º
+> **Nota.** El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
 
-Del cumplimiento de la sentencia y de la ejecución de los títulos ejecutivos laborales
-
-#### Artículo 463
-
-La tramitación de los títulos ejecutivos laborales se desarrollará de oficio y por escrito por el tribunal, dictándose al efecto las resoluciones y ordenándose las diligencias que sean necesarias para ello.
-
-#### Artículo 464
-
-Son títulos ejecutivos laborales:
-
-1.- Las sentencias ejecutoriadas;
-
-2.- La transacción, conciliación y avenimiento que cumplan con las formalidades establecidas en la ley;
-
-3.- Los finiquitos suscritos por el trabajador y el empleador y autorizados por el Inspector del Trabajo o por funcionarios a los cuales la ley faculta para actuar como ministros de fe en el ámbito laboral;
-
-4.- Las actas firmadas por las partes, y autorizadas por los Inspectores del Trabajo y que den constancia de acuerdos producidos ante éstos o que contengan el reconocimiento de una obligación laboral o de cotizaciones de seguridad social, o sus copias certificadas por la respectiva Inspección del Trabajo;
-
-5.- Los originales de los instrumentos colectivos del trabajo, respecto de aquellas cláusulas que contengan obligaciones líquidas y actualmente exigibles, y las copias auténticas de los mismos autorizadas por la Inspección del Trabajo, y
-
-6.- Cualquier otro título a que las leyes laborales o de seguridad social otorguen fuerza ejecutiva.
-
-#### Artículo 465
-
-En las causas laborales el cumplimiento de la sentencia se sujetará a las normas del presente Párrafo, y a falta de disposición expresa en este texto o en leyes especiales, se aplicarán supletoriamente las normas del Título XIX del Libro Primero del Código de Procedimiento Civil, siempre que dicha aplicación no vulnere los principios que informan el procedimiento laboral.
-
-#### Artículo 466
-
-Una vez ejecutoriada la sentencia y transcurrido el plazo señalado en el artículo 462, el tribunal ordenará el cumplimiento del fallo y lo remitirá, junto a sus antecedentes, dentro de quinto día al Juzgado de Cobranza Laboral y Previsional, cuando ello fuere procedente, a fin de que éste continúe con la ejecución, de conformidad a las reglas de este Párrafo.
-
-Recibidos los antecedentes por el Juzgado de Cobranza Laboral y Previsional, o certificado por el tribunal que dictó la sentencia que ésta se encuentra ejecutoriada, según sea el caso, se deberán remitir sin más trámite a la unidad de liquidación o al funcionario encargado para que se proceda a la liquidación del crédito, ya sea determinando los montos que reflejen los rubros a que se ha condenado u obligado el ejecutado y, en su caso, se actualicen los mismos, aplicando los reajustes e intereses legales.
-
-La liquidación deberá practicarse dentro de tercero día y será notificada por carta certificada a las partes, junto con el requerimiento al ejecutado para que pague dentro de los cinco días siguientes. En caso que la ejecución haya quedado a cargo de un tercero, la notificación deberá practicarse a éste en forma personal.
-
-#### Artículo 467
-
-Iniciada la ejecución, el tribunal, de oficio o a petición de parte, podrá ordenar a la Tesorería General de la República que retenga de las sumas que por concepto de devolución de impuestos a la renta corresponda restituir al ejecutado, el monto objeto de la ejecución, con sus reajustes, intereses y multas. Esta medida tendrá el carácter de cautelar.
-
-#### Artículo 468
-
-En el caso que las partes acordaren una forma de pago del crédito perseguido en la causa, el pacto correspondiente deberá ser ratificado ante el juez de la causa y la o las cuotas acordadas deberán consignar los reajustes e intereses del período. El pacto así ratificado, tendrá mérito ejecutivo para todos los efectos legales.
-
-El no pago de una o más cuotas hará inmediatamente exigible el total de la deuda, facultándose al acreedor para que concurra ante el mismo tribunal, dentro del plazo de sesenta días contado desde el incumplimiento, para que se ordene el pago, pudiendo el juez incrementar el saldo de la deuda hasta en un ciento cincuenta por ciento.
-
-La resolución que establece el incremento se tramitará incidentalmente. Lo mismo se aplicará al incremento fijado por el juez en conformidad al artículo 169 de este Código.
-
-#### Artículo 469
-
-Notificada la liquidación, las partes tendrán el plazo de cinco días para objetarla, sólo si de ella apareciere que hay errores de cálculo numérico, alteración en las bases de cálculo o elementos o incorrecta aplicación de los índices de reajustabilidad o de intereses emanados de los órganos competentes.
-
-El tribunal resolverá de plano la objeción planteada, pudiendo oír a la contraria si estima que los antecedentes agregados a la causa no son suficientes para emitir pronunciamiento.
-
-#### Artículo 470
-
-La parte ejecutada sólo podrá oponer, dentro del mismo plazo a que se refiere el artículo anterior, acompañando antecedentes escritos de debida consistencia, alguna de las siguientes excepciones: pago de la deuda, remisión, novación y transacción.
-
-De la oposición se dará un traslado por tres días a la contraria y con o sin su contestación se resolverá sin más trámites, siendo la sentencia apelable en el solo efecto devolutivo.
-
-#### Artículo 471
-
-Si no se ha pagado dentro del plazo señalado para ello en el inciso tercero del artículo 466, sin perjuicio de lo señalado en el artículo 468, el ministro de fe designado por el tribunal procederá a trabar embargo sobre bienes muebles o inmuebles suficientes para el cumplimiento íntegro de la ejecución y sus costas, tasando prudencialmente los mismos, consignándolo así en el acta de la diligencia, todo ello sin que sea necesaria orden previa del tribunal.
-
-Si no ha habido oposición oportuna o existiendo ha sido desechada, se ordenará sin más trámite hacer debido pago al ejecutante con los fondos retenidos, embargados o cautelados. En su caso, los bienes embargados serán rematados por cifras no menores al setenta y cinco por ciento de la tasación en primera subasta; en la segunda el mínimo será del cincuenta por ciento del valor de la tasación, y en la tercera no habrá mínimo. El ejecutante podrá participar en el remate y adjudicarse los bienes con cargo al monto de su crédito.
-
-Los trámites y diligencias del procedimiento de apremio ya indicados, serán fijados por el tribunal consecuentemente con los principios propios de la judicatura laboral y teniendo como referencia las reglas de la ejecución civil, en lo que sean conciliables con dichos principios.
-
-#### Artículo 472
-
-Las resoluciones que se dicten en los procedimientos regulados por este Párrafo serán inapelables, salvo lo dispuesto en el artículo 470.
-
-#### Artículo 473
-
-Tratándose de títulos ejecutivos laborales distintos a los señalados en el número 1 del artículo 464, su ejecución se regirá por las disposiciones que a continuación se señalan y a falta de norma expresa, le serán aplicables las disposiciones de los Títulos I y II del Libro Tercero del Código de Procedimiento Civil, siempre que dicha aplicación no vulnere los principios que informan el procedimiento laboral.
-
-Una vez despachada la ejecución, el juez deberá remitir sin más trámite la causa a la unidad de liquidación o al funcionario encargado, según corresponda, para que se proceda a la liquidación del crédito, lo que deberá hacerse dentro de tercer día.
-
-En los juicios ejecutivos se practicará personalmente el requerimiento de pago al deudor y la notificación de la liquidación, pero si no es habido se procederá en la forma establecida en el artículo 437, expresándose en la copia a que este mismo se refiere, a más del mandamiento, la designación del día, hora y lugar que fije el ministro de fe para practicar el requerimiento. No concurriendo a esta citación el deudor, se trabará el embargo inmediatamente y sin más trámite.
-
-En lo demás, se aplicarán las reglas contenidas en los artículos 467, 468, 469; inciso primero del artículo 470, e incisos segundo y tercero del artículo 471.
-
-### Párrafo 5º
+### Párrafo 5°
 
 De los recursos
 
-#### Artículo 474
+#### Artículo 463
 
-Los recursos se regirán por las normas establecidas en este Párrafo, y supletoriamente por las normas establecidas en el Libro Primero del Código de Procedimiento Civil.
+En los juicios laborales tendrán lugar los mismos recursos que proceden en los juicios ordinarios en lo civil y se les aplicarán las mismas reglas en todo cuanto no se encuentre modificado por las normas de este párrafo.
 
-#### Artículo 475
+#### Artículo 464
 
-La reposición será procedente en contra de los autos, decretos, y de las sentencias interlocutorias que no pongan término al juicio o hagan imposible su continuación.
+La solicitud de reposición de una resolución pronunciada en un comparendo deberá interponerse y resolverse en el acto.
 
-En contra de la resolución dictada en audiencia, la reposición deberá interponerse en forma verbal, inmediatamente de pronunciada la resolución que se impugna, y se resolverá en el acto.
+#### Artículo 465
 
-La reposición en contra de la resolución dictada fuera de audiencia, deberá presentarse dentro de tercero día de notificada la resolución correspondiente, a menos que dentro de dicho término tenga lugar una audiencia, en cuyo caso deberá interponerse a su inicio, y será resuelta en el acto.
+Sólo serán apelables las sentencias definitivas de primera instancia, las resoluciones que pongan término al juicio o hagan imposible su continuación y las que se pronuncien sobre medidas precautorias.
 
-#### Artículo 476
+Tratándose de precautorias, la apelación de la resolución que otorgue una medida o que rechace su alzamiento se concederá en el sólo efecto devolutivo.
 
-Sólo serán susceptibles de apelación las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación, las que se pronuncien sobre medidas cautelares y las que fijen el monto de las liquidaciones o reliquidaciones de beneficios de seguridad social.
+#### Artículo 466
 
-Tratándose de medidas cautelares, la apelación de la resolución que la otorgue o que rechace su alzamiento, se concederá en el solo efecto devolutivo.
+El recurso de apelación deberá interponerse en el plazo de cinco días contados desde la notificación de la respectiva resolución a la parte que lo entabla.
 
-De la misma manera se concederá la apelación de las resoluciones que fijen las liquidaciones o reliquidaciones de beneficios de seguridad social.
+Al deducir el recurso, deberá el apelante fundarlo someramente, exponiendo las peticiones concretas que formula respecto de la resolución apelada.
 
-#### Artículo 477
+El apelado podrá hacer observaciones a la apelación hasta antes de la vista de la causa.
 
-Tratándose de las sentencias definitivas, sólo será procedente el recurso de nulidad, cuando en la tramitación del procedimiento o en la dictación de la sentencia definitiva se hubieren infringido sustancialmente derechos o garantías constitucionales, o aquélla se hubiere dictado con infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo. En contra de las sentencias definitivas no procederán más recursos.
+#### Artículo 467
 
-El recurso de nulidad tendrá por finalidad invalidar el procedimiento total o parcialmente junto con la sentencia definitiva, o sólo esta última, según corresponda.
+Los autos se enviarán a la Corte de Apelaciones al tercer día de notificada la resolución que concede el último recurso de apelación.
 
-#### Artículo 478
+Las partes se considerarán emplazadas en segunda instancia por el hecho de notificárseles la concesión del recurso de apelación.
 
-El recurso de nulidad procederá, además:
+#### Artículo 468
 
-a) Cuando la sentencia haya sido pronunciada por juez incompetente, legalmente implicado, o cuya recusación se encuentre pendiente o haya sido declarada por tribunal competente;
+En lo demás, la apelación se regirá por las normas que establece el Código de Procedimiento Civil, con la salvedad que no será necesaria la comparecencia de las partes en segunda instancia.
 
-b) Cuando haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica;
+#### Artículo 469
 
-c) Cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior;
+En segunda instancia no será admisible prueba alguna. Ello no obstante, el tribunal de alzada podrá admitir prueba documental, siempre que la parte que la presente justifique haber estado imposibilitada de presentarla en primera instancia.
 
-d) Cuando en el juicio hubieren sido violadas las disposiciones establecidas por la ley sobre inmediación o cualquier otro requisito para los cuales la ley haya previsto expresamente la nulidad o lo haya declarado como esencial expresamente;
+#### Artículo 470
 
-e) Cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos en los artículos 459, 495 ó 501, inciso final, de este Código, según corresponda; contuviese decisiones contradictorias; otorgare más allá de lo pedido por las partes, o se extendiere a puntos no sometidos a la decisión del tribunal, sin perjuicio de las facultades para fallar de oficio que la ley expresamente otorgue, y
+El tribunal de segunda instancia podrá decretar como medidas para mejor resolver, las diligencias probatorias que estime indispensables para el acertado fallo del recurso. Estas diligencias podrán ser practicadas por uno de sus miembros designado para este efecto.
 
-f) Cuando la sentencia haya sido dictada contra otra pasada en autoridad de cosa juzgada y hubiere sido ello alegado oportunamente en el juicio.
+La dictación de estas medidas no se extenderá a la prueba testimonial ni a la confesión en juicio.
 
-El tribunal ad quem, al acoger el recurso de nulidad fundado en las causales previstas en las letras b), c), e), y f), deberá dictar la sentencia de reemplazo correspondiente con arreglo a la ley. En los demás casos, el tribunal ad quem, en la misma resolución, determinará el estado en que queda el proceso y ordenará la remisión de sus antecedentes para su conocimiento al tribunal correspondiente.
+#### Artículo 471
 
-No producirán nulidad aquellos defectos que no influyan en lo dispositivo del fallo, sin perjuicio de las facultades de corregir de oficio que tiene la Corte durante el conocimiento del recurso. Tampoco la producirán los vicios que, conocidos, no hayan sido reclamados oportunamente por todos los medios de impugnación existentes.
+Las causas laborales gozarán de preferencia para su vista y su conocimiento se ajustará estrictamente al orden de su ingreso al tribunal. Sin perjuicio de lo dispuesto en el inciso tercero del artículo 69 del Código Orgánico de Tribunales, deberá designarse un día a la semana, a lo menos, para conocer de ellas, completándose las tablas si no hubiere número suficiente, en la forma que determine el Presidente de la Corte de Apelaciones, quien será responsable disciplinariamente del estricto cumplimiento de esta preferencia.
 
-Si un recurso se fundare en distintas causales, deberá señalarse si se invocan conjunta o subsidiariamente.
+Si el número de causas en apelación hiciese imposible su vista y fallo en un plazo no superior a dos meses, contado desde su ingreso a la Secretaría, el Presidente de las Cortes de Apelaciones que funcionen divididas en más de dos salas, determinará que una de ellas, a lo menos, se aboque exclusivamente al conocimiento de estas causas por el lapso que se estime necesario para superar el atraso.
 
-#### Artículo 479
+#### Artículo 472
 
-El recurso de nulidad deberá interponerse por escrito, ante el tribunal que hubiere dictado la resolución que se impugna, dentro del plazo de diez días contados desde la notificación respectiva a la parte que lo entabla.
+Si de los antecedentes de la causa apareciere que el tribunal de primera instancia ha omitido pronunciarse sobre alguna acción o excepción hecha valer en el juicio, la Corte se pronunciará sobre ella.
 
-Deberá expresar el vicio que se reclama, la infracción de garantías constitucionales o de ley de que adolece, según corresponda, y en este caso, además, señalar de qué modo dichas infracciones de ley influyen sustancialmente en lo dispositivo del fallo.
+Podrá, asimismo, fallar las cuestiones tratadas en primera instancia y sobre las cuales no se haya pronunciado la sentencia por ser incompatibles con lo resuelto.
 
-Una vez interpuesto el recurso, no podrá invocarse nuevas causales. Con todo, la Corte, de oficio, podrá acoger el recurso deducido por un motivo distinto del invocado por el recurrente, cuando aquél corresponda a alguno de los señalados en el artículo 478.
+Deberá la Corte, en todo caso, invalidar de oficio la sentencia apelada, cuando aparezca de manifiesto que se ha faltado a un trámite o diligencia que tenga el carácter esencial o que influya en lo dispositivo del fallo. En el mismo fallo señalará el estado en que debe quedar el proceso y devolverá la causa dentro de segundo día de pronunciada la resolución, salvo que el vicio que diere lugar a la invalidación de la sentencia fuere alguno de los contemplados en las causales números 4a, 6a y 7a del artículo 768 del Código de Procedimiento Civil y en haber sido pronunciada con omisión de cualquiera de los requisitos enumerados en el artículo 458, en cuyo caso el mismo tribunal deberá, acto continuo y sin nueva vista, pero separadamente, dictar la sentencia que corresponde con arreglo a la ley.
 
-#### Artículo 480
+#### Artículo 473
 
-Interpuesto el recurso el tribunal a quo se pronunciará sobre su admisibilidad, declarándolo admisible si reúne los requisitos establecidos en el inciso primero del artículo 479.
+La sentencia deberá pronunciarse dentro del plazo de cinco días contados desde el término de la vista de la causa.
 
-Los antecedentes se enviarán a la Corte correspondiente dentro de tercero día de notificada la resolución que concede el último recurso, remitiendo copia de la resolución que se impugna, del registro de audio y de los escritos relativos al recurso deducido.
+La Corte de Apelaciones se hará cargo en su fallo de las argumentaciones formuladas por las partes en los escritos que al efecto le presenten.
 
-La interposición del recurso de nulidad suspende los efectos de la sentencia recurrida.
+Dictado el fallo, el expediente será devuelto, dentro del segundo día, al tribunal de origen para el cumplimiento de la sentencia.
 
-Si una o más de varias partes entablare el recurso de nulidad, la decisión favorable que se dictare aprovechará a los demás, a menos que los fundamentos fueren exclusivamente personales del recurrente, debiendo el tribunal declararlo así expresamente.
+#### Artículo 473 bis
 
-Ingresado el recurso al tribunal ad quem, éste se pronunciará en cuenta acerca de su admisibilidad, declarándolo inadmisible si no concurrieren los requisitos del inciso primero del artículo 479, careciere de fundamentos de hecho o de derecho o de peticiones concretas, o, en los casos que corresponda, el recurso no se hubiere preparado oportunamente.
-
-#### Artículo 481
-
-En la audiencia, las partes efectuarán sus alegaciones sin previa relación.
-
-El alegato de cada parte no podrá exceder de treinta minutos.
-
-No será admisible prueba alguna, salvo las necesarias para probar la causal de nulidad alegada.
-
-La falta de comparecencia de uno o más recurrentes a la audiencia dará lugar a que se declare el abandono del recurso respecto de los ausentes.
-
-#### Artículo 482
-
-El fallo del recurso deberá pronunciarse dentro del plazo de cinco días contado desde el término de la vista de la causa.
-
-Cuando no sea procedente la dictación de sentencia de reemplazo, la Corte, al acoger el recurso, junto con señalar el estado en que quedará el proceso, deberá devolver la causa dentro de segundo día de pronunciada la resolución.
-
-Si los errores de la sentencia no influyeren en su parte dispositiva, la Corte podrá corregir los que advirtiere durante el conocimiento del recurso.
-
-No procederá recurso alguno en contra de la resolución que falle un recurso de nulidad. Tampoco, en contra de la sentencia que se dictare en el nuevo juicio realizado como consecuencia de la resolución que hubiere acogido el recurso de nulidad.
-
-#### Artículo 483
-
-Excepcionalmente, contra la resolución que falle el recurso de nulidad, podrá interponerse recurso de unificación de jurisprudencia.
-
-Procederá el recurso de unificación de jurisprudencia cuando respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia.
-
-#### Artículo 483
-
-A.- El recurso de que trata el artículo precedente, deberá interponerse ante la Corte de Apelaciones correspondiente en el plazo de quince días desde la notificación de la sentencia que se recurre, para que sea conocido por la Corte Suprema.
-
-El escrito que lo contenga deberá ser fundado e incluirá una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los Tribunales Superiores de Justicia. Asimismo, deberá acompañarse copia del o los fallos que se invocan como fundamento. Interpuesto el recurso, no podrá hacerse en él variación alguna.
-
-Sólo si el recurso se interpone fuera de plazo, el tribunal a quo lo declarará inadmisible de plano. Contra dicha resolución únicamente podrá interponerse reposición dentro de quinto día, fundado en error de hecho. La resolución que resuelva dicho recurso será inapelable.
-
-La interposición del recurso no suspende la ejecución de la resolución recurrida, salvo cuando su cumplimiento haga imposible llevar a efecto la que se dicte si se acoge el recurso. La parte vencida podrá exigir que no se lleve a efecto tal resolución mientras la parte vencedora no rinda fianza de resultas a satisfacción del tribunal. El recurrente deberá ejercer este derecho conjuntamente con la interposición del recurso y en solicitud separada.
-
-El tribunal a quo, al declarar admisible el recurso, deberá pronunciarse de plano sobre la petición a que se refiere el inciso anterior. En contra de tal resolución no procederá recurso alguno.
-
-La Corte de Apelaciones correspondiente remitirá a la Corte Suprema copia de la resolución que resuelve la nulidad, del escrito en que se hubiere interpuesto el recurso, y los demás antecedentes necesarios para la resolución del mismo.
-
-La sala especializada de la Corte Suprema sólo podrá declarar inadmisible el recurso por la unanimidad de sus miembros, mediante resolución fundada en la falta de los requisitos de los incisos primero y segundo de este artículo. Dicha resolución sólo podrá ser objeto de recurso de reposición dentro de quinto día.
-
-Declarado admisible el recurso por el tribunal ad quem, el recurrido, en el plazo de diez días, podrá hacerse parte y presentar las observaciones que estime convenientes.
-
-#### Artículo 483
-
-B.- En la vista de la causa se observarán las reglas establecidas para las apelaciones. Con todo, la duración de las alegaciones de cada parte, se limitarán a treinta minutos.
-
-#### Artículo 483
-
-C.- El fallo que se pronuncie sobre el recurso sólo tendrá efecto respecto de la causa respectiva, y en ningún caso afectará a las situaciones jurídicas fijadas en las sentencias que le sirven de antecedente.
-
-Al acoger el recurso, la Corte Suprema dictará acto continuo y sin nueva vista, pero separadamente, la sentencia de reemplazo en unificación de jurisprudencia.
-
-La sentencia que falle el recurso así como la eventual sentencia de reemplazo, no serán susceptibles de recurso alguno, salvo el de aclaración, rectificación o enmienda.
-
-#### Artículo 484
-
-Las causas laborales gozarán de preferencia para su vista y su conocimiento se ajustará estrictamente al orden de su ingreso al tribunal.
-
-Sin perjuicio de lo dispuesto en el inciso tercero del artículo 69 del Código Orgánico de Tribunales, deberá designarse un día a la semana, a lo menos, para conocer de ellas, completándose las tablas si no hubiere número suficiente, en la forma que determine el Presidente de la Corte de Apelaciones, quien será responsable disciplinariamente del estricto cumplimiento de esta preferencia.
-
-Si el número de causas pendientes hiciese imposible su vista y fallo en un plazo inferior a dos meses, contado desde su ingreso a la Secretaría, el Presidente de la Corte de Apelaciones que funcione dividida en más de dos salas, determinará que una de ellas, a lo menos, se aboque exclusivamente al conocimiento de estas causas por el lapso que estime necesario para superar el atraso.
-
-### Párrafo 6º
-
-Del Procedimiento de Tutela Laboral
-
-#### Artículo 485
-
-El procedimiento contenido en este Párrafo se aplicará respecto de las cuestiones suscitadas en la relación laboral por aplicación de las normas laborales, que afecten los derechos fundamentales de los trabajadores, entendiéndose por éstos los consagrados en la Constitución Política de la República en su artículo 19, números 1º, inciso primero, siempre que su vulneración sea consecuencia directa de actos ocurridos en la relación laboral, 4º, 5º, en lo relativo a la inviolabilidad de toda forma de comunicación privada, 6º, inciso primero, 12º, inciso primero, y 16º, en lo relativo a la libertad de trabajo, al derecho a su libre elección y a lo establecido en su inciso cuarto, cuando aquellos derechos resulten lesionados en el ejercicio de las facultades del empleador.
-
-También se aplicará este procedimiento para conocer de los actos discriminatorios a que se refiere el artículo 2° de este Código, con excepción de los contemplados en su inciso sexto.
-
-Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por la interposición de denuncias o por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad, o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.
-
-Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos.
-
-> **Nota.** El artículo 1 de la ley 21280, publicada el 09.11.2020, declara interpretado el inciso primero del presente artículo en el sentido de señalar que las normas de los artículos 485 y siguientes, contenidas en el Párrafo 6° del Capítulo II del Título I del Libro V del Código del Trabajo, son aplicables a todos los trabajadores, incluidos aquellos a los que hace referencia el inciso segundo del artículo 1° del Código del Trabajo, en virtud de lo dispuesto en los incisos primero y tercero de ese mismo artículo. Asimismo, declara que también serán aplicables a los trabajadores que se desempeñen en los órganos señalados en los Capítulos VII, VIII, IX, X y XIII de la Constitución Política de la República y a aquellos que sus propias leyes declaren como autónomos.
-
-#### Artículo 486
-
-Cualquier trabajador u organización sindical que, invocando un derecho o interés legítimo, considere lesionados derechos fundamentales en el ámbito de las relaciones jurídicas cuyo conocimiento corresponde a la jurisdicción laboral, podrá requerir su tutela por la vía de este procedimiento.
-
-Cuando el trabajador afectado por una lesión de derechos fundamentales haya incoado una acción conforme a las normas de este Párrafo, la organización sindical a la cual se encuentre afiliado, directamente o por intermedio de su organización de grado superior, podrá hacerse parte en el juicio como tercero coadyuvante.
-
-Sin perjuicio de lo anterior, la organización sindical a la cual se encuentre afiliado el trabajador cuyos derechos fundamentales han sido vulnerados, podrá interponer denuncia, y actuará en tal caso como parte principal.
-
-La Inspección del Trabajo, a requerimiento del tribunal, deberá emitir un informe acerca de los hechos denunciados. Podrá, asimismo, hacerse parte en el proceso.
-
-Si actuando dentro del ámbito de sus atribuciones, señaladas en el decreto con fuerza de ley Nº 2, del Ministerio del Trabajo y Previsión Social, de 1967, y de acuerdo a sus facultades fiscalizadoras e interpretativas a las que se refiere el artículo 505 de este Código, la Inspección del Trabajo toma conocimiento de una vulneración de derechos fundamentales, deberá denunciar los hechos al tribunal competente y acompañar a dicha denuncia el informe de fiscalización correspondiente. Esta denuncia servirá de suficiente requerimiento para dar inicio a la tramitación de un proceso conforme a las normas de este Párrafo. La Inspección del Trabajo podrá hacerse parte en el juicio que por esta causa se entable.
-
-No obstante lo dispuesto en el inciso anterior, la Inspección del Trabajo deberá llevar a cabo, en forma previa a la denuncia, una mediación entre las partes a fin de agotar las posibilidades de corrección de las infracciones constatadas.
-
-La denuncia a que se refieren los incisos anteriores deberá interponerse dentro de sesenta días contados desde que se produzca la vulneración de derechos fundamentales alegada. Este plazo se suspenderá en la forma a que se refiere el artículo 168.
-
-#### Artículo 487
-
-Este procedimiento queda limitado a la tutela de derechos fundamentales a que se refiere el artículo 485.
-
-No cabe, en consecuencia, su acumulación con acciones de otra naturaleza o con idéntica pretensión basada en fundamentos diversos.
-
-#### Artículo 488
-
-La tramitación de estos procesos gozará de preferencia respecto de todas las demás causas que se tramiten ante el mismo tribunal.
-
-Con igual preferencia se resolverán los recursos que se interpongan.
-
-#### Artículo 489
-
-Si la vulneración de derechos fundamentales a que se refieren los incisos primero y segundo del artículo 485, se hubiere producido con ocasión del despido, la legitimación activa para recabar su tutela, por la vía del procedimiento regulado en este Párrafo, corresponderá exclusivamente al trabajador afectado.
-
-La denuncia deberá interponerse dentro del plazo de sesenta días contado desde la separación, el que se suspenderá en la forma a que se refiere el inciso final del artículo 168.
-
-En caso de acogerse la denuncia el juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la establecida en el artículo 163, con el correspondiente recargo de conformidad a lo dispuesto en el artículo 168 y, adicionalmente, a una indemnización que fijará el juez de la causa, la que no podrá ser inferior a seis meses ni superior a once meses de la última remuneración mensual.
-
-Con todo, cuando el juez declare que el despido es discriminatorio por haber infringido lo dispuesto en el inciso cuarto del artículo 2° de este Código, y además ello sea calificado como grave, mediante resolución fundada, el trabajador podrá optar entre la reincorporación o las indemnizaciones a que se refiere el inciso anterior.
-
-En caso de optar por la indemnización a que se refiere el inciso anterior, ésta será fijada incidentalmente por el tribunal que conozca de la causa.
-
-El juez de la causa, en estos procesos, podrá requerir el informe de fiscalización a que se refiere el inciso cuarto del artículo 486.
-
-Si de los mismos hechos emanaren dos o más acciones de naturaleza laboral, y una de ellas fuese la de tutela laboral de que trata este Párrafo, dichas acciones deberán ser ejercidas conjuntamente en un mismo juicio, salvo si se tratare de la acción por despido injustificado, indebido o improcedente, la que deberá interponerse subsidiariamente. En este caso no será aplicable lo dispuesto en el inciso primero del artículo 488. El no ejercicio de alguna de estas acciones en la forma señalada importará su renuncia.
-
-Tratándose de los funcionarios o trabajadores a los que se refiere el inciso segundo del artículo 1º de este Código, en caso de acogerse la denuncia, no procederá el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la establecida en el artículo 163, en cuyo caso el juez ordenará el pago de una indemnización, la que no podrá ser inferior a seis meses ni superior a once meses de la última remuneración mensual. Asimismo, cuando el juez declare que el despido es discriminatorio por haber infringido lo dispuesto en el inciso cuarto del artículo 2 de este Código, y además ello sea calificado como grave, el trabajador podrá optar entre la indemnización que corresponda o bien su reincorporación al cargo.
-
-#### Artículo 489 bis
-
-El despido de un trabajador, declarado como discriminatorio por basarse en el padecimiento de cáncer, será siempre considerado grave para los efectos de lo señalado en el inciso cuarto del artículo anterior.
-
-#### Artículo 490
-
-La denuncia deberá contener, además de los requisitos generales que establece el artículo 446, la enunciación clara y precisa de los hechos constitutivos de la vulneración alegada acompañándose todos los antecedentes en los que se fundamente.
-
-En el caso que no los contenga, se concederá un plazo fatal de cinco días para su incorporación.
-
-#### Artículo 491
-
-Admitida la denuncia a tramitación, su substanciación se regirá por el procedimiento de aplicación general contenido en el Párrafo 3°.
-
-#### Artículo 492
-
-El juez, de oficio o a petición de parte, dispondrá, en la primera resolución que dicte, la suspensión de los efectos del acto impugnado, cuando aparezca de los antecedentes acompañados al proceso que se trata de lesiones de especial gravedad o cuando la vulneración denunciada pueda causar efectos irreversibles, ello, bajo apercibimiento de multa de cincuenta a cien unidades tributarias mensuales, la que podrá repetirse hasta obtener el debido cumplimiento de la medida decretada. Deberá también hacerlo en cualquier tiempo, desde que cuente con dichos antecedentes.
-
-Contra estas resoluciones no procederá recurso alguno.
-
-#### Artículo 493
-
-Cuando de los antecedentes aportados por la parte denunciante resulten indicios suficientes de que se ha producido la vulneración de derechos fundamentales, corresponderá al denunciado explicar los fundamentos de las medidas adoptadas y de su proporcionalidad.
-
-#### Artículo 494
-
-Con el mérito del informe de fiscalización, cuando corresponda, de lo expuesto por las partes y de las demás pruebas acompañadas al proceso, el juez dictará sentencia en la misma audiencia o dentro de décimo día. Se aplicará en estos casos, lo dispuesto en el artículo 457.
-
-#### Artículo 495
-
-La sentencia deberá contener, en su parte resolutiva:
-
-1. La declaración de existencia o no de la lesión de derechos fundamentales denunciada;
-
-2. En caso afirmativo, deberá ordenar, de persistir el comportamiento antijurídico a la fecha de dictación del fallo, su cese inmediato, bajo el apercibimiento señalado en el inciso primero del artículo 492;
-
-3. La indicación concreta de las medidas a que se encuentra obligado el infractor dirigidas a obtener la reparación de las consecuencias derivadas de la vulneración de derechos fundamentales, bajo el apercibimiento señalado en el inciso primero del artículo 492, incluidas las indemnizaciones que procedan, y
-
-4. La aplicación de las multas a que hubiere lugar, de conformidad a las normas de este Código.
-
-En cualquier caso, el juez deberá velar para que la situación se retrotraiga al estado inmediatamente anterior a producirse la vulneración denunciada y se abstendrá de autorizar cualquier tipo de acuerdo que mantenga indemne la conducta lesiva de derechos fundamentales.
-
-Copia de esta sentencia deberá remitirse a la Dirección del Trabajo para su registro.
-
-### Párrafo 7°
-
-Del procedimiento monitorio
-
-#### Artículo 496
-
-Respecto de las contiendas cuya cuantía sea igual o inferior a quince ingresos mínimos mensuales, sin considerar, en su caso, los aumentos a que hubiere lugar por aplicación de los incisos quinto y séptimo del artículo 162; y de las contiendas a que se refiere el artículo 201 de este Código, se aplicará el procedimiento que a continuación se señala.
-
-#### Artículo 497
-
-Será necesario que previo al inicio de la acción judicial se haya deducido reclamo ante la Inspección del Trabajo que corresponda, la que deberá fijar día y hora para la realización del comparendo respectivo, al momento de ingresarse dicha reclamación.
-
-Se exceptúan de esta exigencia las acciones referentes a las materias reguladas por el artículo 201 de este Código.
-
-La citación al comparendo de conciliación ante la Inspección del Trabajo se hará mediante carta certificada, en los términos del artículo 508, o por funcionario de dicho organismo, quien actuará en calidad de ministro de fe, para todos los efectos legales. En este caso, deberá entregarse personalmente dicha citación al empleador o, en caso de no ser posible, a persona adulta que se encuentre en el domicilio del reclamado.
-
-Las partes deberán concurrir al comparendo de conciliación con los instrumentos probatorios de que dispongan, tales como contrato de trabajo, balances, comprobantes de remuneraciones, registros de asistencia y cualesquier otros que estimen pertinentes.
-
-Se levantará acta de todo lo obrado en el comparendo, entregándose copia autorizada a las partes que asistan.
-
-#### Artículo 498
-
-En caso que el reclamante no se presentare al comparendo, estando legalmente citado, se pondrá término a dicha instancia, archivándose los antecedentes.
-
-Sin perjuicio de lo señalado en el inciso anterior, el trabajador podrá accionar judicialmente conforme a las reglas del procedimiento de aplicación general regulado en el Párrafo 3° del presente Título.
-
-#### Artículo 499
-
-Si no se produjere conciliación entre las partes o ésta fuere parcial, como asimismo en el caso que el reclamado no concurra al comparendo, el trabajador podrá interponer demanda ante el juez del trabajo competente, dentro del plazo establecido en los artículos 168 y 201 de este Código, según corresponda.
-
-La demanda deberá interponerse por escrito y contener las menciones a que se refiere el artículo 446 de este Código.
-
-Deberá acompañarse a ella el acta levantada en el comparendo celebrado ante la Inspección del Trabajo y los documentos presentados en éste. Esta exigencia no regirá en el caso de la acción emanada del artículo 201.
-
-#### Artículo 500
-
-En caso que el juez estime fundadas las pretensiones del demandante, las acogerá inmediatamente; en caso contrario las rechazará de plano. Para pronunciarse, deberá considerar, entre otros antecedentes, la complejidad del asunto que se somete a su decisión, la comparecencia de las partes en la etapa administrativa y la existencia de pagos efectuados por el demandado. En caso de no existir antecedentes suficientes para este pronunciamiento, el tribunal deberá citar a la audiencia establecida en el inciso quinto del presente artículo.
-
-Las partes sólo podrán reclamar de esta resolución dentro del plazo de diez días hábiles contado desde su notificación, sin que proceda en contra de ella ningún otro recurso.
-
-La notificación al demandado se practicará conforme a las reglas generales.
-
-En todo caso, en la notificación se hará constar los efectos que producirá la falta de reclamo o su presentación extemporánea.
-
-Presentada la reclamación dentro de plazo, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes a su presentación. En el evento de citarse a la audiencia única por no existir antecedentes suficientes para el pronunciamiento a que se refiere el inciso primero, el tribunal fijará dentro de los veinte días siguientes a la fecha de la resolución, el día y la hora para su celebración, debiendo mediar entre la notificación y la celebración de la audiencia, a lo menos, cinco días.
-
-Si el empleador reclama parcialmente de la resolución que acoge las pretensiones del trabajador, se aplicará lo establecido en el artículo 462.
-
-#### Artículo 501
-
-Las partes deberán asistir a la audiencia con todos sus medios de prueba y, en caso de comparecer a través de mandatario, éste deberá estar expresamente revestido de la facultad de transigir.
-
-La audiencia tendrá lugar con sólo la parte que asista.
-
-El juez deberá dictar sentencia al término de la audiencia, la que deberá contener las menciones señaladas en los números 1, 2, 5, 6 y 7 del artículo 459.
-
-Sin perjuicio de lo dispuesto en el inciso anterior, siempre que se trate de causas de interés colectivo o causas que presenten mayor complejidad, el juez podrá, mediante resolución fundada, dictar la sentencia respectiva hasta en un plazo de tres días de terminada la audiencia, la que deberá notificarse en la forma prevista en el inciso primero del artículo 457.
-
-#### Artículo 502
-
-Las resoluciones dictadas en el procedimiento monitorio serán susceptibles de ser impugnadas por medio de todos los recursos establecidos en este Código, con excepción del recurso de unificación de jurisprudencia contenido en los artículos 483 y siguientes.
+Las causas laborales gozarán de preferencia para su vista y conocimiento en la Corte Suprema.
 
 ## Título II
 
-Del procedimiento de reclamación de multas y demás resoluciones administrativas
+DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES
 
-#### Artículo 503
+#### Artículo 474
 
-Las sanciones por infracciones a la legislación laboral y de seguridad social y a sus reglamentos, se aplicarán administrativamente por los respectivos inspectores del trabajo o por los funcionarios que se determinen en el reglamento correspondiente. Dichos funcionarios actuarán como ministros de fe.
+Las sanciones por infracciones a las legislaciones laboral y de seguridad social como a sus reglamentos se aplicarán administrativamente por los respectivos inspectores o funcionarios que se determinen en el reglamento correspondiente. Dichos funcionarios actuarán como ministros de fe.
 
-En todos los trámites a que dé lugar la aplicación de sanciones, regirá la norma del artículo 4° de este Código.
+En todos los trámites a que dé lugar la aplicación de sanciones, regirá la norma del artículo 4.°
 
-La resolución que aplique la multa administrativa será reclamable ante el Juez de Letras del Trabajo, dentro de quince días hábiles contados desde su notificación. Dicha reclamación deberá dirigirse en contra del Jefe de la Inspección Provincial o Comunal a la que pertenezca el funcionario que aplicó la sanción.
+La resolución que aplique la multa administrativa será reclamable ante el Juez de Letras del Trabajo, dentro de quince días de notificada por un funcionario de la Dirección del Trabajo o de Carabineros de Chile, previa consignación de la tercera parte de la multa.
 
-Admitida la reclamación a tramitación, previa verificación de los requisitos señalados en el inciso anterior, su substanciación se regirá por el procedimiento de aplicación general contenido en el Párrafo 3°, del Capítulo II, del Título I del presente Código, a menos que la cuantía de la multa, al momento de la dictación de la resolución que la impone o de la que resuelve la reconsideración administrativa respecto de ella, sea igual o inferior a 10 Ingresos Mínimos Mensuales, caso en el cual, se sustanciará de acuerdo a las reglas del procedimiento monitorio, contenidas en los artículos 500 y siguientes del presente Código.
+Una vez ejecutoriada la resolución que aplique la multa administrativa, tendrá mérito ejecutivo, persiguiéndose su cumplimiento de oficio por el Juzgado de Letras del Trabajo o el Juzgado de Cobranza Laboral y Previsional, según corresponda.
 
-En contra de la sentencia que resuelva una reclamación se podrá recurrir conforme a lo establecido en el artículo 502 del presente Código.
+Serán responsables del pago de la multa la persona natural o jurídica propietaria de la empresa, predio o establecimiento.
 
-#### Artículo 504
+Subsidiariamente responderán de ellas los directores, gerentes o jefes de la empresa, predio o establecimiento donde se haya cometido la falta.
 
-En todos aquellos casos en que en virtud de este Código u otro cuerpo legal, se establezca reclamación judicial en contra de resoluciones pronunciadas por la Dirección del Trabajo, distintas de la multa administrativa o de la que se pronuncie acerca de una reconsideración administrativa de multa, se sustanciará de acuerdo a las reglas del procedimiento monitorio, contenidas en los artículos 500 y siguientes del presente Código.
+> **Nota.** El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
+
+#### Artículo 475
+
+Los funcionarios a quienes se acredite que han aplicado sanciones injustas o arbitrarias y que así se califique por el jefe superior del Servicio, serán sancionados con alguna de las medidas disciplinarias del artículo 116 del Estatuto Administrativo, atendido el mérito de los antecedentes que se reúnan en el sumario correspondiente.
 
 Título Final
 
 DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION
 
-#### Artículo 505
+#### Artículo 476
 
 La fiscalización del cumplimiento de la legislación laboral y su interpretación corresponde a la Dirección del Trabajo, sin perjuicio de las facultades conferidas a otros servicios administrativos en virtud de las leyes que los rigen.
 
 Los funcionarios públicos deberán informar a la Inspección del Trabajo respectiva, las infracciones a la legislación laboral de que tomen conocimiento en el ejercicio de su cargo.
 
-El Director del Trabajo podrá disponer consulta pública sobre las instrucciones, pronunciamientos y demás normas de carácter general que en el ejercicio de sus facultades dicte para la interpretación y aplicación de las leyes laborales y de seguridad y salud en el trabajo, a fin de que los interesados opinen y formulen propuestas sobre ellas. En todos aquellos casos en que la Dirección del Trabajo disponga de dicha consulta pública, deberá remitirla, además, al Consejo Superior Laboral.
+#### Artículo 477
 
-La Dirección del Trabajo establecerá y publicará el procedimiento para efectuar esta consulta, en el cual contemplará que las opiniones y propuestas sean de carácter público, formuladas a través de medios electrónicos, las que no tendrán carácter vinculante respecto de la autoridad.
+Las infracciones a este Código y a sus leyes complementarias, que no tengan señalada una sanción especial, serán sancionadas con multa de una a veinte unidades tributarias mensuales, según la gravedad de la infracción.
 
-Esta consulta pública se entenderá sin perjuicio de lo dispuesto en la ley Nº 20.500, sobre asociaciones y participación ciudadana en la gestión pública.
+Asimismo, si el empleador tuviere contratados cincuenta o más trabajadores, las multas aplicables ascenderán de dos a cuarenta unidades tributarias mensuales.
 
-#### Artículo 505 bis
+Con todo, si el empleador tuviere contratados 200 o más trabajadores, las multas aplicables ascenderán de tres a sesenta unidades tributarias mensuales.
 
-Para los efectos de este Código y sus leyes complementarias, los empleadores se clasificarán en micro, pequeña, mediana y gran empresa, en función del número de trabajadores.
+En el caso de las multas especiales que establece este Código, su rango se duplicará o triplicará, según corresponda, si se dan las condiciones establecidas en los incisos segundo y tercero de este artículo.
 
-Se entenderá por micro empresa aquella que tuviere contratados de 1 a 9 trabajadores, pequeña empresa aquella que tuviere contratados de 10 a 49 trabajadores, mediana empresa aquella que tuviere contratados de 50 a 199 trabajadores y gran empresa aquella que tuviere contratados 200 trabajadores o más.
+No obstante lo anterior, si un empleador tuviere contratados nueve o menos trabajadores, el Inspector del Trabajo respectivo podrá, si lo estima pertinente, autorizar, a solicitud del afectado, y sólo por una vez en el año, la sustitución de la multa impuesta por la asistencia obligatoria a programas de capacitación dictados por la Dirección del Trabajo, los que, en todo caso, no podrán tener una duración superior a dos semanas.
 
-#### Artículo 505
+Autorizada la sustitución, si el empleador no cumpliere con su obligación de asistir a dichos programas dentro del plazo de dos meses, procederá la aplicación de la multa originalmente impuesta, aumentada en un ciento por ciento.
 
-A.- Sin perjuicio de las normas especiales que se establecen en este Título y en el decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social, que dispone la reestructuración y fija funciones de la Dirección del Trabajo, el procedimiento de fiscalización del cumplimiento de la legislación laboral, previsional y de seguridad y salud en el trabajo deberá ajustarse, especialmente, a los principios de responsabilidad, gratuidad, eficiencia, eficacia, coordinación, impugnabilidad de los actos administrativos, control, probidad administrativa, transparencia y publicidad que rigen la actuación de los órganos de la Administración del Estado. Lo anterior se hará en conformidad a las disposiciones del decreto con fuerza de ley Nº 1-19.653, del 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, y de la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
+Tratándose de empresas de veinticinco trabajadores o menos, la Dirección del Trabajo podrá autorizar, a solicitud del afectado, y sólo por una vez en el año, la sustitución de la multa impuesta por infracción a normas de higiene y seguridad, por la incorporación en un programa de asistencia al cumplimiento, en el que se acredite la corrección de la o las infracciones que dieron origen a la sanción y la puesta en marcha de un sistema de gestión de seguridad y salud en el trabajo. Dicho programa deberá implementarse con la asistencia técnica del Organismo Administrador de la ley Nº 16.744, al que se encuentre afiliada o adherida la empresa infractora y deberá ser presentado para su aprobación por la Dirección del Trabajo, debiendo mantenerse permanentemente a su disposición en los lugares de trabajo.
 
-El procedimiento de fiscalización que emplee la Dirección del Trabajo se regirá por una resolución dictada por el Jefe Superior del Servicio, en la cual se contemplará una enunciación de los derechos y deberes de los intervinientes e interesados en él, conforme a las normas mencionadas en el inciso anterior.
+Las infracciones a las normas sobre fuero sindical se sancionarán con multa a beneficio fiscal, de 14 a 70 unidades tributarias mensuales.
 
-#### Artículo 506
+> **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
-Las infracciones a este Código y sus leyes complementarias, que no tengan señalada una sanción especial, serán sancionadas de conformidad a lo dispuesto en los incisos siguientes, según la gravedad de la infracción.
+#### Artículo 478
 
-Para la micro empresa de 1 a 5 unidades tributarias mensuales.
+Se sancionará con una multa a beneficio fiscal de 5 a 100 unidades tributarias mensuales, al empleador que simule la contratación de trabajadores a través de terceros, cuyo reclamo se regirá por lo dispuesto en el artículo 474. En este caso, el empleador quedará sujeto al cumplimiento de todas las obligaciones laborales y previsionales y al pago de todas las prestaciones que correspondieren respecto de los trabajadores objetos de la simulación.
 
-Para la pequeña empresa de 1 a 10 unidades tributarias mensuales
+El que utilice cualquier subterfugio, ocultando, disfrazando o alterando su individualización o patrimonio y que tenga como resultado eludir el cumplimiento de las obligaciones laborales y previsionales que establece la ley o la convención, será sancionado con una multa a beneficio fiscal de 10 a 150 unidades tributarias mensuales, aumentándose en media unidad tributaria mensual por cada trabajador afectado por la infracción, cuyo conocimiento corresponderá a los Juzgados de Letras del Trabajo, con sujeción a las normas establecidas en el Título I de este Libro.
 
-Tratándose de medianas empresas, la sanción ascenderá de 2 a 40 unidades tributarias mensuales.
+Quedan comprendidos dentro del concepto de subterfugio, a que se refiere el inciso anterior, cualquier alteración realizada a través del establecimiento de razones sociales distintas, la creación de identidades legales, la división de la empresa, u otras que signifiquen para los trabajadores disminución o pérdida de derechos laborales individuales o colectivos, en especial entre los primeros las gratificaciones o las indemnizaciones por años de servicios y entre los segundos el derecho a sindicalización o a negociar colectivamente.
 
-Tratándose de grandes empresas, la sanción ascenderá de 3 a 60 unidades tributarias mensuales.
+El empleador quedará obligado al pago de todas las prestaciones laborales que correspondieren a los trabajadores quienes podrán demandarlas, en juicio ordinario del trabajo, junto con la acción judicial que interpongan para hacer efectiva la responsabilidad a que se refiere el inciso segundo.
 
-En el caso de las multas especiales que establece este Código, su rango se podrá duplicar y triplicar, según corresponda, si se dan las condiciones establecidas en los incisos cuarto y quinto de este artículo, respectivamente y de acuerdo a la normativa aplicable por la Dirección del Trabajo.
+El plazo de prescripción que extinga las acciones y derechos a que se refieren los incisos precedentes, será de cinco años contados desde que las obligaciones se hicieron exigibles.
 
-La infracción a las normas sobre fuero sindical se sancionará con multa de 14 a 70 unidades tributarias mensuales.
+> **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
-#### Artículo 506 bis
+#### Artículo 478 bis
 
-El inspector del trabajo que constate en una micro o pequeña empresa una infracción legal o reglamentaria que no ponga en riesgo inminente la seguridad o la salud de los trabajadores podrá conceder un plazo de, a lo menos, cinco días hábiles para dar cumplimiento a las normas respectivas.
+Las notificaciones que realice la Dirección del Trabajo se podrán efectuar por carta certificada, dirigida al domicilio que las partes hayan fijado en el contrato de trabajo, en el instrumento colectivo o proyecto de instrumento cuando se trate de actuaciones relativas a la negociación colectiva, al que aparezca de los antecedentes propios de la actuación de que se trate o que conste en los registros propios de la mencionada Dirección. La notificación se entenderá practicada al sexto día hábil contado desde la fecha de su recepción por la oficina de Correos respectiva, de lo que deberá dejarse constancia por escrito.
 
-#### Artículo 506 ter
-
-Tratándose de micro y pequeñas empresas, y en los casos en que el afectado no hubiere recurrido de conformidad a los artículos 503 y 511 de este Código, el inspector del trabajo respectivo autorizará, a solicitud del sancionado, y sólo por una vez en el año respecto de la misma infracción, la sustitución de la multa impuesta por alguna de las modalidades siguientes:
-
-1. Si la multa impuesta es por infracción a normas de higiene y seguridad, por la incorporación en un programa de asistencia al cumplimiento, en el que se acredite la corrección de la o las infracciones que dieron origen a la sanción y la puesta en marcha de un sistema de gestión de seguridad y salud en el trabajo. Dicho programa deberá implementarse con la asistencia técnica del organismo administrador de la ley Nº 16.744, al que se encuentre afiliada o adherida la empresa infractora y deberá ser presentado para su aprobación por la Dirección del Trabajo, debiendo mantenerse permanentemente a su disposición en los lugares de trabajo. La presente disposición será igualmente aplicada por la autoridad sanitaria que corresponda, en aquellos casos en que sea ésta quien aplique la sanción.
-
-2. En el caso de multas no comprendidas en el número anterior, y previa acreditación de la corrección, de la o las infracciones que dieron origen a la sanción, por la asistencia obligatoria del titular o representante legal de la empresa de menor tamaño, o de los trabajadores vinculados a las funciones de administración de recursos humanos que él designe a programas de capacitación dictados por la Dirección del Trabajo, los que tendrán una duración máxima de dos semanas.
-
-La solicitud de sustitución deberá presentarse dentro del plazo de treinta días de notificada la resolución de multa administrativa.
-
-Autorizada la sustitución de la multa de conformidad a lo dispuesto precedentemente, si el empleador no cumpliere con su obligación de incorporarse en un programa de asistencia al cumplimiento o de asistencia a programas de capacitación, según corresponda, en el plazo de 60 días, procederá al aumento de la multa original, el que no podrá exceder de un 25% de su valor.
-
-#### Artículo 506 quáter
-
-Para la determinación del monto de la sanción, dentro de los rangos a que se refiere el artículo 506, la resolución indicada en el artículo 505-A incluirá una categorización de ellas, y las clasificará en leves, graves y gravísimas, para lo cual se considerarán como criterios la naturaleza de la infracción, la afectación de derechos laborales, el número de trabajadores afectados y la conducta del empleador.
-
-#### Artículo 507
-
-Las acciones judiciales derivadas de la aplicación del inciso cuarto del artículo 3° de este Código podrán ser ejercidas por las organizaciones sindicales o trabajadores de las respectivas empresas que consideren que sus derechos laborales o previsionales han sido afectados.
-
-Estas acciones podrán interponerse en cualquier momento, salvo durante el período de negociación colectiva a que se refiere el Capítulo I del Título II del Libro IV de este Código; si el procedimiento judicial iniciado sobrepasa la fecha de presentación del proyecto de contrato colectivo, los plazos y efectos del proceso de negociación deberán suspenderse mientras se resuelve, entendiéndose para todos los efectos legales prorrogada la vigencia del instrumento colectivo vigente hasta 30 días después de ejecutoriada la sentencia, día en que se reanudará la negociación en la forma que determine el tribunal, de acuerdo con lo dispuesto en la ley.
-
-La sentencia definitiva que dé lugar total o parcialmente a las acciones entabladas deberá contener en su parte resolutiva:
-
-1. El pronunciamiento e individualización de las empresas que son consideradas como un solo empleador para efectos laborales y previsionales, conforme a lo señalado en el inciso cuarto del artículo 3° de este Código.
-
-2. La indicación concreta de las medidas a que se encuentra obligado el empleador dirigidas a materializar su calidad de tal, así como aquellas destinadas al cumplimiento de todas las obligaciones laborales y previsionales y al pago de todas las prestaciones que correspondieren; bajo apercibimiento de multa de 50 a 100 unidades tributarias mensuales, la que podrá repetirse hasta obtener el debido cumplimiento de lo ordenado.
-
-3. La determinación acerca de si la alteración de la individualidad del empleador se debe o no a la simulación de contratación de trabajadores a través de terceros, o bien a la utilización de cualquier subterfugio, ocultando, disfrazando o alterando su individualización o patrimonio, y si ello ha tenido como resultado eludir el cumplimiento de las obligaciones laborales y previsionales que establece la ley o la convención. Si así lo determina, deberá señalar de manera precisa las conductas que constituyen dicha simulación o subterfugio y los derechos laborales y previsionales que por esta vía se hubieren vulnerado, debiendo aplicar al infractor una multa de 20 a 300 unidades tributarias mensuales. En estos casos, será aplicable a las multas señaladas lo dispuesto en el inciso sexto del artículo 506 de este Código.
-
-Quedan comprendidos dentro del concepto de subterfugio referido en el párrafo anterior, cualquier alteración de mala fe realizada a través del establecimiento de razones sociales distintas, la creación de identidades legales, la división de la empresa, u otras que signifiquen para los trabajadores disminución o pérdida de derechos laborales individuales o colectivos, en especial entre los primeros las gratificaciones o las indemnizaciones por años de servicios y entre los segundos el derecho a sindicalización o a negociar colectivamente.
-
-La sentencia definitiva se aplicará respecto de todos los trabajadores de las empresas que son consideradas como un solo empleador para efectos laborales y previsionales.
-
-Las acciones a que se refieren los incisos precedentes podrán ejercerse mientras perdure la situación descrita en el inciso cuarto del artículo 3° de este Código, sin perjuicio de lo dispuesto en el inciso segundo del presente artículo.
-
-En caso de que las situaciones descritas en el inciso cuarto del artículo 3 de este Código hayan sido modificadas sustancialmente con posterioridad a la declaración de único empleador, y siempre que hayan transcurrido a lo menos dos años desde que quedó firme la sentencia que efectuó tal declaración, se podrá solicitar, ante el Juzgado de Letras del Trabajo correspondiente, el término de la calificación de las empresas como un solo empleador, por aquellas que hubieren sido consideradas en tal calificación. Con todo, podrá efectuarse la solicitud antes de dicho plazo si ésta se basa en el hecho de que una de las empresas comprendidas en la declaración ha cambiado de dueño y no existe entre ellas un controlador común.
-
-Promovida la solicitud, deberá notificarse a quien haya sido parte del juicio en el cual se realizó declaración de único empleador, siempre que mantenga relación laboral vigente con éste, y a las organizaciones sindicales existentes y vigentes en las empresas comprendidas en la declaración, quienes podrán oponerse a la solicitud y hacerse parte dentro del plazo de quince días. Presentada una o más oposiciones, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes al vencimiento del plazo para oponerse y hacerse parte, y se sustanciará de acuerdo a las reglas del procedimiento monitorio. En caso de no presentarse oposición alguna, el juez resolverá con los antecedentes aportados por el solicitante. Si el tribunal acoge la solicitud, deberá señalar en su sentencia las medidas concretas dirigidas a materializar dicha situación.
-
-#### Artículo 508
-
-Las notificaciones, citaciones y comunicaciones legales que realice la Dirección del Trabajo se deberán efectuar mediante correo electrónico, sin perjuicio de lo señalado en el inciso siguiente. Para estos efectos, cada empleador, trabajador, organización sindical, director sindical o cualquier otra persona o entidad que se relacione con la Dirección del Trabajo, deberá registrar un correo electrónico u otro medio digital definido por la ley, donde deberán practicarse las notificaciones, citaciones y comunicaciones, el que se considerará vigente para todos los efectos legales mientras no sea modificado en el portal electrónico de la mencionada Dirección. Las notificaciones, citaciones y comunicaciones a través de correo electrónico u otro medio digital definido por la ley, producirán pleno efecto legal y se entenderán practicadas al tercer día hábil siguiente contado desde la fecha de la emisión del referido correo.
-
-Con todo, la Dirección del Trabajo podrá notificar a los usuarios:
-
-a) Personalmente o por carta certificada, cuando el usuario no tenga registrado en el portal de la Dirección del Trabajo un correo electrónico; o
-
-b) De una forma diversa, en cuanto así haya sido solicitado de acuerdo al procedimiento establecido en el inciso primero del artículo 516.
-
-En cualquier caso, cuando la notificación sea realizada por carta certificada, ésta deberá ser dirigida al domicilio que las partes hayan fijado en el contrato de trabajo, en el instrumento colectivo o proyecto de instrumento, cuando se trate de actuaciones relativas a la negociación colectiva, al que aparezca de los antecedentes propios de la actuación de que se trate, o que conste en los registros propios de la mencionada Dirección, y se entenderá practicada al sexto día hábil contado desde la fecha de su recepción por la oficina de Correos respectiva, de lo que se dejará constancia por escrito.
-
-#### Artículo 509
+#### Artículo 479
 
 Las personas que incurran en falsedad en el otorgamiento de certificados, permisos o estado de salud, en falsificación de éstos, o en uso malicioso de ellos, serán sancionadas con las penas previstas en el artículo 202 del Código Penal.
 
-#### Artículo 510
+#### Artículo 480
 
 Los derechos regidos por este Código prescribirán en el plazo de dos años contados desde la fecha en que se hicieron exigibles.
 
@@ -7032,67 +5108,25 @@ Los plazos de prescripción establecidos en este Código no se suspenderán, y s
 
 Con todo, la interposición de un reclamo administrativo debidamente notificado ante la Inspección del Trabajo respectiva, dentro de los plazos indicados en los incisos primero, segundo, tercero y cuarto suspenderá también la prescripción, cuando la pretensión manifestada en dicho reclamo sea igual a la que se deduzca en la acción judicial correspondiente, emane de los mismos hechos y esté referida a las mismas personas. En estos casos, el plazo de prescripción seguirá corriendo concluido que sea el trámite ante dicha Inspección y en ningún caso podrá exceder de un año contado desde el término de los servicios.
 
-#### Artículo 511
+#### Artículo 481
 
-Facúltase al Director del Trabajo, en los casos en que el afectado no hubiere recurrido de conformidad al artículo 503 y no hubiere solicitado la sustitución del artículo 506 ter de este Código, para reconsiderar las multas administrativas impuestas por funcionarios de su dependencia en la forma siguiente:
+Facúltase al Director del Trabajo, en los casos en que el afectado no haya reclamado de conformidad con el artículo 474 de este Código, para dejar sin efecto o rebajar, en su caso, las multas administrativas impuestas por funcionarios de su dependencia y renunciar o desistirse de la acción ejecutiva para su cobro siempre que concurra alguna de las circunstancias siguientes:
 
-1. Dejando sin efecto la multa, cuando aparezca de manifiesto que se ha incurrido en un error de hecho al aplicar la sanción.
+1) Que se acredite fehacientemente haber dado íntegro cumplimiento a las disposiciones legales, convencionales o arbitrales cuya infracción motivó la sanción;
 
-2. Rebajando la multa, cuando se acredite fehacientemente haber dado íntegro cumplimiento, a las disposiciones legales, convencionales o arbitrales cuya infracción motivó la sanción.
+2) Que aparezca de manifiesto que se ha incurrido en un error de hecho al imponerse la multa.
 
-Si dentro de los quince días hábiles siguientes de notificada la multa, el empleador corrigiere la infracción, el monto de la multa se rebajará, a lo menos, en un cincuenta por ciento. Tratándose de la micro y pequeña empresa, la multa se rebajará, a lo menos, en un ochenta por ciento.
+Si dentro de quince días de notificada la multa, el empleador corrigiere la infracción a satisfacción de la Dirección del Trabajo, el monto de la multa se rebajará en un cincuenta por ciento, sin perjuicio del derecho de solicitar una reconsideración por el monto total de la multa, a la misma Dirección.
 
-Todos los plazos de días establecidos en este Título son de días hábiles y se computarán de acuerdo a lo dispuesto en el artículo 25 de la ley Nº 19.880.
-
-#### Artículo 512
+#### Artículo 482
 
 El Director del Trabajo hará uso de esta facultad mediante resolución fundada, a solicitud escrita del interesado, la que deberá presentarse dentro del plazo de treinta días de notificada la resolución que aplicó la multa administrativa.
 
-Esta resolución será reclamable ante el Juez de Letras del Trabajo dentro de quince días de notificada y en conformidad al artículo 503 de este Código.
+Esta resolución será reclamable ante el Juez de Letras del Trabajo dentro de quince días de notificada y en conformidad al artículo 474 de este Código.
 
-#### Artículo 513
+#### Artículo 483
 
 Toda persona que contrate los servicios intelectuales o materiales de terceros, que esté sujeta a la fiscalización de la Dirección del Trabajo, deberá dar cuenta a la Inspección del Trabajo correspondiente dentro de los tres días hábiles siguientes a que conoció o debió conocer del robo o hurto de los instrumentos determinados en el artículo 31 del decreto con fuerza de ley N.° 2, de 1967, del Ministerio del Trabajo y Previsión Social, que el empleador está obligado a mantener en el lugar de trabajo. El empleador sólo podrá invocar la pérdida de los referidos documentos si hubiere cumplido con el trámite previsto anteriormente y hubiese, además, efectuado la denuncia policial respectiva.
-
-#### Artículo 514
-
-La Dirección del Trabajo, para hacer efectivas sus competencias y facultades podrá acceder en forma electrónica a toda la documentación obligatoria laboral y de seguridad social de los empleadores y empresas que conste en su sitio electrónico.
-
-La Dirección del Trabajo se deberá relacionar y comunicar legalmente, incluyendo las notificaciones, citaciones y comunicaciones, con los empleadores, trabajadores, organizaciones y directores sindicales y usuarios en general, mediante medios electrónicos y, en ese caso, todos los usuarios podrán realizar sus trámites, actuaciones, requerimientos y solicitudes, por los mismos medios electrónicos, cumpliendo las modalidades y procedimientos que establezca para tal efecto, mediante resolución.
-
-La Dirección deberá disponer de un sistema electrónico para la tramitación y seguimiento de las denuncias, procesos de fiscalización, solicitudes de pronunciamiento y consultas que tengan los usuarios respecto de trámites o procesos en curso, de los cuales sean parte.
-
-Todas las actuaciones que se realicen en forma electrónica de conformidad a este artículo, producirán los mismos efectos legales que aquellas realizadas en forma presencial o documental.
-
-#### Artículo 515
-
-Todo empleador deberá mantener registrado en el sitio electrónico de la Dirección del Trabajo una dirección de correo electrónico, la cual se considerará vigente para todos los efectos legales, mientras no sea modificado en el mismo sitio.
-
-Un reglamento del Ministerio del Trabajo y Previsión Social, previo informe de la Dirección del Trabajo, determinará los datos y la documentación, de aquellos a los que se refiere el artículo 31 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social, que los empleadores deberán mantener obligatoriamente en el referido sitio. Incorporada dicha información en este registro electrónico laboral, los empleadores podrán centralizar tales documentos en un solo lugar, el que deberá ser informado previamente a la Dirección del Trabajo. El reglamento establecerá las modalidades y procedimientos mediante los cuales se implementará y mantendrá actualizado el mencionado registro.
-
-La Dirección del Trabajo, previo requerimiento, deberá proporcionar a los tribunales de justicia la información contenida en el registro electrónico laboral.
-
-#### Artículo 516
-
-No obstante lo señalado en los artículos 514 y 515, los empleadores, trabajadores, organizaciones, directores sindicales y usuarios en general que carezcan de medios electrónicos, no tengan acceso a ellos o sólo actuaren excepcionalmente a través de tales medios, podrán solicitar por escrito y de forma fundada, ante la Dirección del Trabajo, que la relación y comunicación con ésta se realice mediante forma diversa, debiendo ella pronunciarse dentro del tercer día, según lo establezca la resolución a la que se refiere el inciso segundo del artículo 514. Las relaciones y comunicaciones se realizarán en la forma solicitada si fuere posible o mediante carta certificada dirigida al domicilio que debiere designar al presentar esta solicitud.
-
-Asimismo, las comunicaciones podrán hacerse en la oficina de la Inspección del Trabajo, si el interesado se apersonare a recibirlas, dejándose constancia de ello en la plataforma electrónica o firmando en el expediente la debida recepción, según corresponda, consignándose la fecha y hora de la comunicación en ambos casos. Si el interesado requiriere copia del acto o resolución que se le comunica o notifica, se le dará, sin más trámite, en el mismo momento, en el formato que se tramite el procedimiento o en que pueda obtenerse del portal electrónico de la Dirección del Trabajo.
-
-#### Artículo 517
-
-La Dirección del Trabajo podrá celebrar convenios con entidades públicas y privadas que administren registros de datos referidos a empleadores, empresas, trabajadores y organizaciones sindicales para la obtención, tratamiento y mantención de datos exclusivamente vinculados con obligaciones laborales, de seguridad social y de seguridad y salud en el trabajo.
-
-La Dirección del Trabajo tendrá la responsabilidad de efectuar el tratamiento de los datos personales de los trabajadores y empleadores sólo para el cumplimiento de sus funciones legales y con sujeción a las normas de la ley Nº 19.628, sobre protección de la vida privada. Se entenderá como tratamiento de datos lo dispuesto en la letra o) del artículo 2 de la referida ley.
-
-La Dirección del Trabajo y su personal deberán guardar absoluta reserva y secreto de la información y de los datos personales que tomen conocimiento, sin perjuicio de las informaciones y certificaciones que deban proporcionar de conformidad a la ley. Asimismo, deberán abstenerse de usar los datos recopilados en beneficio propio o de terceros. Para efectos de lo dispuesto en el inciso segundo del artículo 125 del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, se estimará que los hechos que configuren infracciones a esta disposición vulneran gravemente el principio de probidad administrativa, sin perjuicio de las demás sanciones y responsabilidades que procedan y de lo dispuesto en el artículo 40 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social.
-
-#### Artículo 518
-
-Para el ejercicio de la labor fiscalizadora la Dirección del Trabajo podrá disponer el uso de vehículos fiscales en días inhábiles y en horario nocturno.
-
-#### Artículo 519
-
-La Dirección del Trabajo podrá hacerse parte o querellarse en los procesos a que diere lugar un hecho que revista caracteres de delito, en relación a los trámites que se desarrollen ante ella, o que se hubiere cometido en contra de alguno de sus funcionarios en el ejercicio de sus deberes.
 
 ARTICULOS TRANSITORIOS
 
@@ -7217,22 +5251,6 @@ La modalidad de fomento a la capacitación de jóvenes consagrada en el artícul
 #### Artículo 22
 
 No obstante lo dispuesto en el artículo 266 del Código del Trabajo, en la forma modificada por la Ley Nº 19.759, los sindicatos afiliados a confederaciones sindicales a la fecha de publicación de la referida ley, podrán mantener su afiliación a ellas.
-
-#### Artículo 23
-
-La norma señalada en el inciso tercero del artículo 163 se aplicará de la siguiente manera:
-
-a) En los contratos celebrados durante los primeros dieciocho meses de vigencia de dicha norma, los trabajadores tendrán derecho al pago de una indemnización equivalente a un día de remuneración por cada mes trabajado y fracción superior a quince días.
-
-b) En los contratos celebrados a partir del primer día del decimonoveno mes de vigencia de dicha norma y por los siguientes doce meses, los trabajadores tendrán derecho al pago de una indemnización equivalente a un día y medio de remuneración por cada mes trabajado y fracción superior a quince días.
-
-c) En los contratos celebrados a partir del primer día del trigésimo primer mes de vigencia de dicha norma y por los siguientes seis meses, los trabajadores tendrán derecho al pago de una indemnización equivalente a dos días de remuneración por cada mes trabajado y fracción superior a quince días.
-
-d) En los contratos celebrados con posterioridad al último día del tramo anterior, los trabajadores tendrán derecho al pago de la indemnización en los mismos términos que se señalan en la norma permanente.
-
-Si el contrato por obra o faena determinada es celebrado durante alguno de los períodos señalados en las letras a), b) o c), y termina durante un período distinto, el trabajador tendrá derecho al pago de la indemnización que corresponde por los meses trabajados en cada uno de dichos períodos.
-
-Con todo, si en los meses de inicio y término de un contrato por obra o faena se produce el cambio de tramo, conforme a los literales del inciso primero, la indemnización corresponderá en dichos meses al tramo vigente el primer día del mes de inicio y primer día del mes de término, respectivamente.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Ricardo Solari Saavedra, Ministro del Trabajo y Previsión Social.
 
