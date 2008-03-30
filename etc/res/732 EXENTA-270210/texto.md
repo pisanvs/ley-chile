@@ -1,0 +1,5 @@
+APRUEBA PROGRAMA DE ENSEÑANZA PARA OBTENCIÓN DE LICENCIA DE CONDUCIR A LA ESCUELA DE CONDUCTORES NO PROFESIONALES O CLASE B "GABRIELA"
+
+Por resolución exenta Nº 732, de fecha 12 de marzo de 2008, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Gabriela", cuyo propietario es el señor Arturo Nicasio Santi Mariñán, y director, el señor Carlos Denis D'Appollonio Poblete, la que tendrá su lugar de funcionamiento en el local ubicado en Av. Gabriela Oriente Nº 01304, comuna de Puente Alto.
+
+Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
