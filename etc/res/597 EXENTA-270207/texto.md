@@ -1,0 +1,3 @@
+Por resolución exenta Nº 597, de 3 de marzo de 2008, de esta Subsecretaría, modifícase la resolución Nº 2.367 de 2007, de esta Subsecretaría, que autorizó a JORGE OMAR PARANCÁN MAÑADO para instalar colectores de semillas de mitílidos en el sector de costa este de estero Pichicolo, X Región, en el sentido de ampliar el plazo para la instalación de los colectores por un período de seis meses contados desde el 1 de abril de 2008.
+
+Valparaíso, 3 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
