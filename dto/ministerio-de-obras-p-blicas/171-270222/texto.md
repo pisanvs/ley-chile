@@ -1,0 +1,3 @@
+Por decreto MOP Nº 171 de 26 de febrero de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para Aguas Manquehue S.A., el lote de terreno Nº 1 para la obra Infraestructrura Sanitaria Sector Norte, que figura a nombre de Palma Irazzazaval Joaquín, rol de avalúo 166-3, comuna de Colina, Región Metropolitana, superficie 692 M2. La Comisión de Peritos, fijó el 26 de octubre de 2007, en la cantidad de $16.074.700.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
