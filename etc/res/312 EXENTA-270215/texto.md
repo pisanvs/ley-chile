@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIAS CERRO INDIO Y OSIANA
+
+Resolución exenta Nº 312, del 18 de marzo de 2008, resolvió la clausura a partir de esta fecha de Estancia Cerro Indio rol 5111-086 y Estancia Osiana roles 5111-014 y 5111-015, ambas propiedad de Comunidad Agrícola Mihovilovic Hermanos. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una vista inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 14 de marzo de 2008. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
