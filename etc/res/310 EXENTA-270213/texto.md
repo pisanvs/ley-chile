@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA LOS PIONEROS
+
+Resolución exenta Nº 310, del 18 de marzo de 2008, resolvió la clausura a partir de esta fecha de Estancia Los Pioneros Rol 5101-40 propiedad de Ganadera Isla Isabel Ltda. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una vista inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 14 de marzo del 2008. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
