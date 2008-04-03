@@ -1,0 +1,7 @@
+Por resolución exenta Nº 715, de 14 de marzo de 2008, de esta Subsecretaría, autorízase a JAIME ILLANES Y ASOCIADOS CONSULTORES S.A., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la biota acuática presente en sectores de influencia de CMPC Celulosa S.A. en el río Bío Bío".
+
+El objetivo de la pesca de investigación consiste en realizar una caracterización limnológica y en particular de la fauna íctica presente en el área de interés, en un sector en que CMPC Celulosa S.A. tiene sus instalaciones industriales.
+
+La pesca de investigación se efectuará por el período comprendido entre la fecha de la presente resolución y el 30 de abril de 2008, en la cuenca del río Bío Bío, en catorce estaciones de muestreo ubicadas en el área comprendida entre el Puente Coigüe hasta la localidad de Buenuraqui, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos auxiliares, ejemplares de las especies nativas e introducidas señaladas en la resolución extractada. Sin perjuicio de lo anterior podrá capturar, sin devolución, dos ejemplares de alguna de las especies introducidas.
+
+Valparaíso, 14 de marzo de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
