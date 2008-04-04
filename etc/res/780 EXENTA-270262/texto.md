@@ -1,0 +1,3 @@
+Por resolución exenta Nº 780, de 24 de marzo de 2008, de esta Subsecretaría, autorízase a COMPAÑÍA PESQUERA CAMANCHACA S.A. para ampliar actividades de transformación autorizadas por resolución citada en Visto, para incorporar a planta ubicada en sector Caleta Lo Rojas, Coronel, VIII Región, en línea proceso Conserva los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 24 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
