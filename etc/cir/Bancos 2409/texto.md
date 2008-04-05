@@ -13714,15 +13714,13 @@ Categoría de de riesgo
 
 Agencia clasificadora Corto Plazo Largo Plazo
 
-Moody's P1 Aa3
+Moody's Inversores Service P1 Aa3
 
-Standard & Poor's A-1+ AA-
+Standard & Poor's (S&P) A-1+ AA-
 
-Duff & Phelps D1+ AA-
+Fitch Ratings F1+ AA-
 
-Thomson Bank Watch TBW-1 AA
-
-Fitch IBCA F1+ AA-
+Dominion Bond Rating Sevice (DBRS) R-1(high) AA(low)
 
 Si un instrumento de corto plazo no tiene clasificación, se considerará que cumple el requisito exigido en estas normas si el mismo emisor mantiene vigente instrumentos de largo plazo que cumplan la condición indicada del cuadro precedente y siempre que los referidos títulos de corto y largo plazo tengan similares garantías u otras preferencias, privilegios de cualquier naturaleza u otro tratamiento legal que incidan favorablemente en el pago de la obligación.
 
