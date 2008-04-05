@@ -1,0 +1,3 @@
+Por resolución exenta Nº 773, de 24 de marzo de 2008 de esta Subsecretaría, modifícase el numeral 4º de la resolución exenta Nº 442 de 2008, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardina en aguas interiores de la X Región de Los Lagos-Sur, 2008", en el sentido de reemplazar a la embarcación "Rodialfa II" por la embarcación "Rodialfa III", en el listado de embarcaciones artesanales autorizadas a participar en la presente pesca de investigación.
+
+Valparaíso, 24 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
