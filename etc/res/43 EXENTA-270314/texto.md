@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN EXENTA Nº43, DEL 3 DE ABRIL DE 2008, QUE INCORPORA AL ÁMBITO DE LAS OBLIGACIONES ESTABLECIDAS POR LA RESOLUCIÓN EXENTA Nº 2, DE 04.01.2005, SOBRE "AUXILIAR DE REGISTRO DE IMPUESTO DE TIMBRES Y ESTAMPILLAS", A NOTARIOS Y OFICIALES DEL REGISTRO CIVIL
+
+1. Se incorpora como sujetos pasivos afectos a las obligaciones establecidas por la resolución exenta Nº2, de 2005, de llevar el Auxiliar de Registro de Impuesto de Timbres y Estampillas y de remitir la información en él contenida al Servicio, en los términos y usando los mecanismos señalados en dicha resolución y sus modificaciones posteriores, a los Notarios y Oficiales del Registro Civil que autoricen o protocolicen escrituras públicas o privadas o documentos afectos a los impuestos establecidos por el decreto ley Nº3.475.
+
+2. Los funcionarios señalados deberán consignar en dicho Auxiliar de Registro los datos relativos a actuaciones y documentos que den cuenta de los actos jurídicos, contratos y otras convenciones que autoricen o protocolicen, gravadas con el Impuesto de Timbres y Estampillas, respecto de los cuales les corresponde, conforme a la ley, la obligación de vigilar, solicitar acreditación y/o retener y pagar el mencionado tributo. Sin embargo, estarán exceptuados de incorporar en el Auxiliar de Registro de Impuesto de Timbres y Estampillas los documentos exentos y aquellos cuyo impuesto deba ser enterado en la forma dispuesta en el artículo 15, Nºs 2 o 3, del decreto ley Nº3.475.
+
+3. La obligación de llevar el Auxiliar de Registro establecida en la presente resolución respecto de los Notarios y Oficiales del Registro Civil, regirá a contar del 01.01.2009.
+
+Asimismo, dichos funcionarios estarán obligados a remitir la información a que se refiere esta resolución al Servicio a contar del 01.07.2009, por las operaciones efectuadas en el período enero a junio de 2009.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de abril de 2008.
