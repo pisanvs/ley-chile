@@ -1,0 +1,5 @@
+TRATAMIENTO TRIBUTARIO FRENTE A LAS NORMAS DE LA LEY DE LA RENTA DE LAS COMPENSACIONES ECONÓMICAS PAGADAS A LOS CÓNYUGES, CONFORME A LAS DISPOSICIONES DE LA LEY Nº 19.947, DE 2003, SOBRE NUEVA LEY DE MATRIMONIO CIVIL
+
+a) Extracto de Circular del Servicio de Impuestos Internos Nº 18 de fecha 3 de abril de 2008, que imparte instrucciones sobre incorporación de un nuevo número al artículo 17 de la ley de la Renta, signado con el Nº 31, por la ley Nº 20.239, publicada en el Diario Oficial de 08.02.2008, en el que se establece el tratamiento tributario que tendrán frente a las normas de la ley del ramo las compensaciones económicas que se paguen a los cónyuges en virtud de las disposiciones de la ley Nº 19.947, de 2003, sobre Nueva Ley de Matrimonio Civil.
+
+b) El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en abril, de 2008.
