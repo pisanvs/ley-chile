@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE "LEGG MASON (CHILE) ADMINISTRADORA GENERAL DE FONDOS S.A."
+
+Certifico: Que por resolución exenta Nº 187 de 1 de abril de 2008 de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Legg Mason (Chile) Administradora General de Fondos S.A.", acordada en la Junta Extraordinaria de Accionistas celebrada el 4 de marzo de 2008, y reducida a escritura pública el 10 de marzo del mismo año, en la 45ª Notaría de Santiago de don René Benavente Cash, domiciliado en Huérfanos Nº 979, séptimo piso, Santiago; consistente en el cambio de nombre de la sociedad administradora, la que en adelante se denominará "Banedwards Administradora General de Fondos S.A.".
+
+Santiago, 1 de abril de 2008.- Carmen Undurraga Martínez, Secretaria General.
