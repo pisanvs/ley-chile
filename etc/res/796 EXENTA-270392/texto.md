@@ -1,0 +1,3 @@
+Por resolución exenta Nº 796, de 26 de marzo de 2008, de esta Subsecretaría, autorízase a ALGAS, CULTIVOS, EXPORTACIONES ACEX S.A., para iniciar actividades pesqueras de transformación, para operar planta ubicada en Asentamiento parcela Nº 20, Pan de Azúcar, San Rafael, Coquimbo, IV Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
