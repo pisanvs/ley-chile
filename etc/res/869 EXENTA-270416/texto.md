@@ -1,0 +1,3 @@
+Por resolución exenta Nº 869, de 7 de abril de 2008, de esta Subsecrataría, declárese la caducidad parcial de la resolución Nº 781, de 2001, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A. para realizar actividades pesqueras extractivas con la nave "Pelikan", sobre el recurso Alfonsino, en el área marítima comprendida entre la V Región al paralelo 41º L.S., en el área marítima correspondiente a la I Región, y en el área marítima del Archipiélago Juan Fernández, Islas Desventuradas e Isla de Pascua y su Z.E.E., todo ello en virtud de lo dispuesto en el artículo 143, letra b) de la Ley General de Pesca y Acuicultura y de lo señalado en la presente resolución.
+
+Valparaíso, 7 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
