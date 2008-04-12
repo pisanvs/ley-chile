@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZOS PARA INICIO DE OPERACIONES DEL CASINO DE JUEGO Y DESARROLLO DE LAS DEMÁS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERACIONES EL ESCORIAL S.A. EN COMUNA DE ANTOFAGASTA
+
+Por resolución exenta Nº100, de 7 de abril de 2008, Superintendencia de Casinos de Juego concedió prórroga de plazos que solicitó sociedad Operaciones El Escorial S.A., tanto para inicio de operaciones del casino de juego como para desarrollo de obras e instalaciones del proyecto integral autorizado en comuna de Antofagasta. En virtud de prórroga concedida, plazo de 720 días corridos para inicio operaciones del casino de juego y desarrollo de obras e instalaciones que comprenden proyecto integral, contemplados en resolución exenta Nº 175, del 21 de julio de 2006, que le otorgó permiso de operación para casino de juego en dicha comuna, se extenderán hasta 823 días corridos y 884 días corridos, respectivamente, contados desde 29 de diciembre de 2006.
+
+Santiago, 7 de abril de 2008.- Superintendente de Casinos de Juego.
