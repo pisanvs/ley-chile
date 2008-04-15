@@ -1,0 +1,7 @@
+EXTRACTO DE LA RESOLUCIÓN Nº 2.750, DE FECHA 28.03.2008, DE LA DIRECCIÓN NACIONAL DE ADUANAS, QUE ESTABLECE LAS NORMAS Y REQUISITOS QUE SE DEBE CUMPLIR PARA LA AUTORIZACIÓN Y REGISTRO DE LOS AGENTES DE CARGA Y AGENTES TRANSITARIOS O FREIGHT FORWARDER. DETERMINA LAS OPERACIONES QUE PUEDEN REALIZAR, SUS OBLIGACIONES, LAS RESPONSABILIDADES Y LA JURISDICCIÓN DISCIPLINARIA A QUE QUEDAN SOMETIDOS, CONFORME LO ESTABLECE EL ARTÍCULO 202 DE LA ORDENANZA DE ADUANAS. DEROGA RESOLUCIÓN Nº 4.706/1998 (D.N.A.), SOBRE ESTA MISMA MATERIA
+
+Los Agentes de Carga y los Agentes Transitarios o Freight Forwarder, a que se refiere el artículo 24, inciso 2º, de la ordenanza de aduanas, sólo podrán actuar ante el Servicio de Aduanas una vez que hayan sido autorizados como tales, rendido la garantía efectiva que se les haya determinado y estén inscritos en el Registro Nacional establecido al efecto. Se fijan los requisitos y antecedentes que deben cumplir, las operaciones que pueden realizar, sus obligaciones y responsabilidades, señala la jurisdicción disciplinaria a la que quedan sometidos, en los términos establecidos en el artículo 202 de la Ordenanza de Aduanas.
+
+Texto íntegro de la resolución citada se encuentra en la página web del Servicio Nacional de Aduanas (www.aduana.cl).
+
+- Sergio Mujica Montes, Director Nacional de Aduanas.
