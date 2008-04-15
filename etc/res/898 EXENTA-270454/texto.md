@@ -1,0 +1,7 @@
+Por resolución exenta Nº 898, de 9 de abril, de 2008, de esta Subsecretaría, autorízase a PESCA CHILE S.A., R.U.T. Nº 76.015.307-9, para continuar desarrollando las actividades pesqueras extractivas autorizadas a Pesca Chile S.A., R.U.T. Nº 95.023.000-2, del mismo domicilio, con las naves "Cabo de Hornos", "Diego Ramírez", "Tierra del Fuego", "Magallanes III", "Puerto Ballena", "Faro de Hércules", "Pedrosa", "Chomapi Maru", "Cote Saint Jacques", "Puerto Williams" (ex Isla Camila), "BEC Nº 2271/01", "BEC Nº 2764/04", "BEC Nº 4333/05" y "BEC Nº 328/06", autorizadas mediante resoluciones citadas en Visto, en virtud de la escritura pública y demás disposiciones legales citadas en la resolución extractada.
+
+Asimismo autorízase a Pesca Chile S.A., R.U.T.
+
+Nº76.015.307-9, para continuar desarrollando actividades extractivas respecto de todos los permisos extraordinarios de pesca autorizados a Pesca Chile S.A., R.U.T. Nº 95.023.000-2, del mismo domicilio, en las unidades de pesquerías de los recursos hidrobiológicos Bacalao de profundidad Dissostichus eleginoides y Orange roughy Hoplostethus atlanticus, fijados por los decretos supremos citados en Vistos.
+
+Valparaíso, 9 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
