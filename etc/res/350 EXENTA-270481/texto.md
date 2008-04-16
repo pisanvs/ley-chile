@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DEL PLANTEL FLORIDA
+
+Resolución exenta Nº 350, del 7 de abril de 2008, resolvió la clausura a partir de esta fecha del Plantel Florida de propiedad de Luz Marcela Fernández Muñoz y René Nicolás Milicevic Marusic, roles 666-050, 656-021, 656-003, 655-005, 652-016, 655-003, ubicado en la provincia de Tierra del Fuego. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparásito a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Porvenir, 7 de abril de 2008.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
