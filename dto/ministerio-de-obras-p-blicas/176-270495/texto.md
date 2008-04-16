@@ -1,0 +1,5 @@
+Por decreto MOP Nº 176, de 26 de febrero de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se modificó el decreto MOP Nº 697, de 4 de octubre de 2007, relativo a la expropiación del lote de terreno Nº 15, para la obra "Concesión Embalse Convento Viejo. II Etapa VI Región. Canal Matriz Nilahue Tramo II", Sexta Región, como a continuación se indica:
+
+1.- El propietario según Rol de avalúo del lote Nº 15 es Moreno Carreno Clodomiro, y no aquel señalado en el decreto modificado; 2.- El Rol de avalúo de la propiedad es de 546-196 de la comuna de Santa Cruz, y no el que refiere el decreto modificado. Por el mismo decreto modificatorio se aprobó el Plano y Cuadro de Expropiación elaborados por la D.G.O.P. respecto del citado lote Nº 15. Se ratifican todas las otras cláusulas del decreto modificado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
