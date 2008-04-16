@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DEL PLANTEL PARCELA Nº3 ESTER DEL MILAGRO
+
+Resolución exenta Nº 366 del 09-04 de 2008, resolvió la Clausura a partir de esta fecha del Plantel Parcela Nº 3. Ester del Milagro de propiedad de Sucesión Ramón Vera Vera y Mario Vera Vera, Roles 620-022, 620-028, ubicado en la provincia de Tierra del Fuego. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparásito a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Porvenir, 09-04-2008.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
