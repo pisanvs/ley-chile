@@ -1,0 +1,3 @@
+Por resolución Nº 904 exenta, de fecha 10 de abril de 2008, de esta Subsecretaría, prorrógase por 30 días hábiles, contados desde la fecha de la presente resolución, el plazo para publicar en el Diario Oficial el extracto de la resolución Nº 269 de 2008, que autorizó a MARES CHILE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de la pesquería de congrio dorado (Genypterus blacodes) y raya (Dipturus sp) en aguas interiores de la XII Región de Magallanes y Antártica Chilena".
+
+Valparaíso, 10 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
