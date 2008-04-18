@@ -1,0 +1,3 @@
+Por resolución exenta Nº 795, 26 de marzo de 2008, de esta Subsecretaría, autorízase a GEOMAR S.A., para ampliar actividades de transformación autorizadas por resoluciones citadas en visto, para incorporar a planta ubicada en avenida Forestal Nº 1108, Parque Industrial Coronel, VIII Región, en líneas proceso Fresco Enfriado, Fresco Refrigerado, Congelado y Conserva, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
