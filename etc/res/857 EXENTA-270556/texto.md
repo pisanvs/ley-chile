@@ -1,0 +1,5 @@
+Por resolución exenta Nº857, de 3 de abril de 2008, de esta Subsecretaría, autorízase a JAIME ILLANES Y ASOCIADOS CONSULTORES S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la fauna íctica presente en sectores del río Bureo, comuna de Mulchén, VIII Región del Bío Bío". El objetivo de la pesca de investigación consiste en realizar una caracterización limnológica y particular de la fauna íctica presente en el río Bureo, VIII Región.
+
+La pesca de investigación se efectuará por el período comprendido entre la fecha de la presente resolución y el 31 de mayo de 2008, en el río Bureo, en diecinueve estaciones de muestreo, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos auxiliares, ejemplares de las especies señaladas en la resolución extractada.
+
+Valparaíso, 3 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
