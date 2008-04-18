@@ -1,0 +1,3 @@
+Por resolución Nº 850 exenta, de 2 de abril de 2008, de esta Subsecretaría, autorízase a ALIMENTOS MAR PROFUNDO SOCIEDAD ANÓNIMA, para ampliar actividades de transformación autorizadas por Resoluciones citadas en visto, para incorporar a planta ubicada en avenida Océano Pacífico Nº 3679, Parque Industrial Coronel, VIII Región, en líneas proceso Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Seco Salado, Ahumado, Conserva, Deshidratado y Seco, los recursos hidrobiológicos indicados en Resolución extractada.
+
+Valparaíso, 2 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
