@@ -1,0 +1,3 @@
+Por resolución exenta Nº 870, de 7 de abril de 2008, de esta Subsecretaría, autorízase a CARMELO AURELIANO MAYORGA MUÑOZ para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Km. 10 camino a Yungay, Chillán Viejo, VIII Región, para elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
