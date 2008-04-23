@@ -1,0 +1,3 @@
+Por resolución exenta Nº 741, de 20 de marzo de 2008, de esta Subsecretaría, autorízase a FELICITA DEL CARMEN VARGAS CARRASCO, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en calle Diego Portales Nº 630, población Bellavista, Quellón, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado, congelado, seco salado, ahumado y embutido, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 20 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
