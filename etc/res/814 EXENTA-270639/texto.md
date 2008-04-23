@@ -1,0 +1,3 @@
+Por resolución exenta Nº 814, de 31 de marzo de 2008, de esta Subsecretaría, autorízase a PEDRO RAMÓN CHAMORRO MUENA, para iniciar actividades pesqueras de transformación, en planta ubicada calle El Yunque 181, Isla Robinson Crusoe, V Región, para elborar en líneas de proceso cocido, fresco refrigerado, congelado, seco salado y ahumado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 31 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
