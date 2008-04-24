@@ -1,0 +1,3 @@
+Por resolución exenta Nº 849, de 2 de abril de 2008, de esta Subsecretaría, autorízase a ELABORADORA DE ALIMENTOS PORVENIR SOCIEDAD ANÓNIMA, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en lote 66, Ruze Cañadon, XII Región, para elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado, Seco salado, Ahumado, Alga seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 2 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
