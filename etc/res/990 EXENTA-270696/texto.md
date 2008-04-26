@@ -1,0 +1,3 @@
+Por resolución exenta Nº 990, de 17 de abril de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203103172, presentada por ESTERLINA DEL CARMEN SUBIABRE GUTIÉRREZ, para instalar y operar un centro de cultivo ubicado en sector Conchas Blancas, sureste de Punta Tanecuhe, Isla Quinchao, X Región.
+
+Valparaíso, 17 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
