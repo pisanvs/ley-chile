@@ -1,0 +1,3 @@
+Por resolución exenta Nº 968, de 17 de abril de 2008, de esta Subsecretaría, modifícase la resolución N° 503, de 2008, de esta Subsecretaría, que autorizó a ALIMENTOS CUISINE SOLUTIONS CHILE S.A., para ampliar actividades pesqueras de transformación, en el sentido de incorporar los recursos hidrobiológicos señalados en resolución extractada.
+
+Valparaíso, 17 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
