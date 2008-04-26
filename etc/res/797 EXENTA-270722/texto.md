@@ -1,0 +1,3 @@
+Por resolución exenta N° 797, de 26 de marzo de 2008, de esta Subsecretaría, autorízase a CARLOS JOSÉ LEÓN BÓRQUEZ para ampliar actividades de transformación, autorizadas por resolución citada en Visto, para incorporar a planta ubicada en sector rural Auchac s/n, Quellón, Chiloé, X Región, en líneas de proceso Cocido, Fresco enfriado, Fresco refrigerado, Congelado, Seco salado, Ahumado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
