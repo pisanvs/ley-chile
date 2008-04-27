@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.056, de 21 de abril de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203111338, presentada por SERVICIOS MARÍTIMOS OXXEAN SOCIEDAD ANÓNIMA, para instalar y operar un centro de cultivo ubicado en estero Elefantes, lado norte Ventisqueros San Rafael (sector 6), XI Región.
+
+Valparaíso, 21 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
