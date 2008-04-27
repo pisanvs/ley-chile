@@ -1,0 +1,3 @@
+Por resolución exenta Nº798, de 26 de marzo de 2008, de esta Subsecretaría, autorízase a CECILIA AURORA RAIN ÑANCUPEL para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector rural de Santa Rosa s/n, Quellón, X Región, para elaborar en las líneas de proceso de Cocido, Fresco, Enfriado, Congelado, Seco Salado, Ahumado, Conserva, Alga Seca, Deshidratado y Cocido Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de marzo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
