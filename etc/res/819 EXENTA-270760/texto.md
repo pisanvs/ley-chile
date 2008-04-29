@@ -1,0 +1,5 @@
+APRUEBA PROGRAMA DE ENSEÑANZA DE ESCUELA DE CONDUCTORES QUE INDICA
+
+Por resolución exenta Nº 819, de fecha 26 de marzo de 2008, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza de la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Mario Segundo Palacios Villalobos Empresa Individual de Responsabilidad Limitada" o "Escuela de Conductores Metropolitana Norte E.I.R.L.", cuyo representante legal es el señor Mario Segundo Palacios Villalobos, y director el señor Helmuth Edgardo Crema Sandoval, la que tendrá su lugar de funcionamiento en el local ubicado en Av. Einstein Nº 806, comuna de Recoleta.
+
+- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
