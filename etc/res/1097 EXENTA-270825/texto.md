@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.097, de 23 de abril de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 96102049, presentada por JUVENAL ANTONIO TORRES RISCO, para instalar y operar un centro de cultivo ubicado en ribera este de ensenada San Juan, entre Punta Pobleta y Punta Barro Nuevo, XIV Región.
+
+Valparaíso, 23 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
