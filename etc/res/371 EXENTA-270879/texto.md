@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIAS PIRÁMIDE Y MARÍA ALEJANDRA
+
+Resolución exenta Nº 371, del 11-04-08, resolvió Clausura a partir esta fecha de Estancia Pirámide roles 5101-30 y 5101-156 y la Estancia María Alejandra roles 5101-55 y 5101-42, ambas de propiedad de Marcos Santiago Nikovic Yaksic, ubicadas provincia Magallanes. Queda prohibida entrada o salida animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en plazo 30 días corridos desde fecha de la notificación esta resolución. Deberá comunicar al SAG fecha exacta de la aplicación del tratamiento, para visita inspectiva que permita comprobar cumplimiento medida. Gastos aplicación medidas sanitarias son cargo de dueño, tenedor o internador animales.
+
+Punta Arenas, 8 de febrero de 2008. Carlos Rowland Ovando, Director SAG XII Región de Magallanes y Antártica Chilena.
