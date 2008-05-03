@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 85 de fecha 29 de febrero de 2008, se expropió el lote de terreno Nº 3, superficie 687,14 m2, rol en trámite, comuna de Alto del Carmen, para la obra 'Conservación Periódica Ruta C-499, Variante Los Perales, Km. 0,00 a Km. 8,70, Provincia de Huasco, Región de Atacama Etapa III', y se acordó el valor de la indemnización con su propietario Valentín del Rosario Fritis Rojas, ascendente a la cantidad de $741.037.
+
+Fiscal del Ministerio de Obras Públicas.
