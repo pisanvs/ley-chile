@@ -1,0 +1,5 @@
+DELEGA EN EL JEFE DEL DEPARTAMENTO SUBDIRECCIÓN DIRECCIÓN DE GRANDES CONTRIBUYENTES FACULTAD ATRIBUCIÓN QUE INDICA
+
+Extracto de la resolución exenta SII Nº 51, de 25 de abril de 2008, que delega en el Jefe del Departamento Subdirección Dirección de Grandes Contribuyentes las facultades de resolver las solicitudes de devolución de remanente de crédito fiscal IVA, originado en la adquisicón de petróleo diesel, presentadas en conformidad a lo dispuesto por la ley Nº 20.258 y de emitir las certificaciones a que se refiere el artículo 3º de la misma ley. Además modifica la Res. Ex. Nº 47, de 11 de abril de 2008.
+
+El texto íntegro de la resolución está publicado en la oficina virtual del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de abril de 2008.
