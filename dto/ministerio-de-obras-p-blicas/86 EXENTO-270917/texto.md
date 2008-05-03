@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 86 de fecha 29 de febrero de 2008, se expropió el lote de terreno Nº 27, superficie 34 m2, rol Nº 294-17, comuna de Los Vilos, para la obra 'Mejoramiento Ruta D-875, Sector Quilimarí - Guangualí Tramo Km. 1,79200 a Km. 16,0000', IV Región, y se acordó el valor de la indemnización con su propietaria Margarita Crescencia del Carmen Césped Césped, ascendente a la cantidad de $3573.447.
+
+Fiscal del Ministerio de Obras Públicas.
