@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 98 de 14 de marzo de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 187-1, para la obra 'Camino Acceso Norte a Concepción, VIII Región. Sector Km. 36.760,00 al Km.
+
+37.080,00'; Octava Región, que figura a nombre de Forestal Celco SA, rol de avalúo 613-12, comuna de Tomé, superficie 1.459 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, Mónica del Carmen Conejeros Rudloff y Alicia Bárbara Flores Pacheco, fijó con fecha 24 de octubre de 2007, el valor provisional de la indemnización en la cantidad de $517.945.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
