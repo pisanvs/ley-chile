@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 109 de 14 de marzo de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 271-1, para la obra 'Camino Acceso Norte a Concepción, VIII Región. Sector Km. 68.640,00 al Km.
+
+68.960,00'; Octava Región, que figura a nombre de Forestal Celco S.A., rol de avalúo 21281-2, comuna de Concepción, superficie 1.673 m2. La comisión de peritos integrada por las señoras Silvana de los Angeles Sánchez Budin, Loreto Isabel Hernández Ríos y Mirna Deyanira del Carmen Luna Moraga, fijó con fecha 23 de noviembre de 2007, el valor provisional de la indemnización en la cantidad de $1.048.720.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
