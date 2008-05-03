@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 136 de fecha 31 de marzo de 2008, se expropió el lote de terreno Nº 161-1, superficie 593 m2, rol Nº 161-24, comuna de Ranquil, para la obra 'Camino Acceso Norte a Concepción, VIII Región, Sector Km. 28.460,00 a Km. 28.660,00', y se acordó el valor de la indemnización con su propietario Jorge Alejandro Ortega Segura, ascendente a la cantidad de $219.714.
+
+Fiscal del Ministerio de Obras Públicas.
