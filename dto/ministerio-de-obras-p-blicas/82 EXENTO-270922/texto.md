@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 82, de fecha 29 de febrero del 2008, se expropiaron los lotes de terreno Nºs. 20, 21, 22, 23, 24, 25, 26 y 31, superficies 960, 2.384, 2.232, 203, 495, 2.731, 235 y 1.129 m2, respectivamente, Rol Nº 223-9, comuna de Coelemu, VIII Región, para la obra 'Camino Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo I, Km. 0,00000 al Km. 20,30000', y se acordó el valor de indemnización con su propietario Rómulo Eduardo Melo Monsalve, ascendente a la cantidad de $7.639.358.
+
+Fiscal del Ministerio de Obras Públicas.
