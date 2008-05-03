@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 84 de fecha 29 de febrero de 2008, se expropió el lote de terreno Nº 1, superficie 3.597 m2, rol Nº 167-77, comuna de Arauco, para la obra 'Camino Ruta P-40, Sector Arauco - Quiapo, Km. 0,00000 a Km. 15,96000', VIII Región, y se acordó el valor de la indemnización con su propietario Héctor Urra Alvial, ascendente a la cantidad de $2.018.266.
+
+Fiscal del Ministerio de Obras Públicas.
