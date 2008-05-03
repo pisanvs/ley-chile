@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 107 de 14 de marzo de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 249-2, para la obra 'Camino Acceso Norte a Concepción, VIII Región. Sector Km. 61.740,00 al Km.
+
+62.260,00'; Octava Región, que figura a nombre de Ramos Vásquez Miguel y Otros, rol de avalúo 622-25, comuna de Tomé, superficie 1.810 m2. La comisión de peritos integrada por los señores Carlos Gerardo Ruiz Sánchez, Susana Claudia Conejeros Rudloff y Juan Pablo Cuevas Castillo, fijó con fecha 13 de noviembre de 2007, el valor provisional de la indemnización en la cantidad de $807.260.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
