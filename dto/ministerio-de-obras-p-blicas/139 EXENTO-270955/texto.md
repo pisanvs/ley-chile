@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 139 de fecha 31 de marzo del 2008, se expropió el lote de terreno Nº 64-A, superficie 300,00 m2, Rol Nº 411-56, comuna de Los Muermos, X Región, para la obra 'Camino Ruta V-60, Sector El Tepual - Las Quemas - Los Muermos, Km. 0,00000 al Km. 32,27442' y se acordó el valor de indemnización con su propietaria Nora Elizabet Redlich Redlich, ascendente a la cantidad de $405.655.- para el lote Nº 64-A.
+
+Fiscal del Ministerio de Obras Públicas.
