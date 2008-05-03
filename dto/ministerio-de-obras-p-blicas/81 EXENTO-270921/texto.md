@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 81, de fecha 29 de febrero del 2008, se expropiaron los lotes de terrenos Nºs. 27 y 28, superficies 1.888 y 1.644 m2, respectivamente, rol Nº 167-142, (lote Nº 27), y rol Nº 167-141, (lote Nº 28), comuna de Arauco, VIII Región, para la obra 'Camino Ruta P-40, Sector Arauco - Quiapo, Km. 0,00000 al Km. 15,96000', y se acordó el valor de indemnización con su propietario Leonel García Muñoz, ascendente a la cantidad de $3.280.349.
+
+Fiscal del Ministerio de Obras Públicas.
