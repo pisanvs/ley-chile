@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 143 de 31 de marzo de 2008, se expropió el lote de terreno Nº 4-A, superficie 6 m2, rol Nº 881-4, comuna de Alto del Carmen, III Región, para la obra 'Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 al Km. 19,500, Provincia de Huasco, III Región, Etapa III', y se acordó el valor de indemnización con su propietaria Texeis Medeli Carvajal Campillay, ascendente a la cantidad de $320.187.
+
+Fiscal del Ministerio de Obras Públicas.
