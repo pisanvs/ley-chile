@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 140 de 31 de marzo de 2008, se expropió el lote de terreno Nº 1-A, superficie 275,00 m2, rol de Avalúo Nº 137-660, comuna de Paine, para la obra 'Camino Ruta G-562, Sector Puente Rosario, Tramo Km. 1,70000 a Km. 2,14000', Región Metropolitana, y se acordó el valor de la indemnización con su propietaria Elena Núñez Cuevas, ascendente a la cantidad de $1.771.050.
+
+Fiscal del Ministerio de Obras Públicas.
