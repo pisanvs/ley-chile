@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 141 de 31 de marzo de 2008, se expropió el lote de terreno Nº 10, superficie 230 m2, rol de avalúo 273-175, comuna de Tucapel, para la obra 'Mejoramiento Ruta Q-965, Huépil - Trupán - Polcura, Tramo I Km. 0,00000 a Km. 12,54000', VIII Región, y se acordó el valor de la indemnización con su propietario Leoncio Segundo Valenzuela Pizarro, ascendente a la cantidad de $409.114.
+
+Fiscal del Ministerio de Obras Públicas.
