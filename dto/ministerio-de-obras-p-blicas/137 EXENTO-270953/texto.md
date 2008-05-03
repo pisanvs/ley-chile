@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº137 de fecha 31 de marzo de 2008, se expropió el lote de terreno Nº 233-1, superficie 1.095 m2, Rol Nº 614-26, comuna de Tomé, VIII Región para la obra 'Camino Acceso Norte a Concepción, VIII Región. Sector Km 51.480,00 a Km. 52.120,00' y se acordó el valor de indemnización con su propietario Jorge del Carmen Chávez Sánchez, ascendente a la cantidad de $487.592.
+
+Fiscal del Ministerio de Obras Públicas.
