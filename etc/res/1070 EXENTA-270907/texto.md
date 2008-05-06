@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.070, de 23 de abril de 2008, de esta Subsecretaría, autorízase a DAVID ENRIQUE VÉLIZ BAEZA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado 'Estudio genético comunitario de diferentes ríos y de la zona centro-norte de Chile'.
+
+El objetivo de la pesca de investigación consiste en determinar el efecto del caudal en la variabilidad genética de los componentes de las comunidades presentes en los ríos más importantes de la zona centro norte de Chile.
+
+La pesca de investigación se efectuará entre la fecha de la presente resolución y el 31 de marzo de 2009, en 8 estaciones de muestreo ubicadas en los ríos Limarí y Choapa y sus afluentes, IV Región, Aconcagua y sus afluentes, V Región, Maipo, y sus afluentes, Región Metropolitana, y Maule y sus afluentes, VII Región, donde podrá capturar, con devolución, mediante equipos de pesca eléctrica y chinguillos auxiliares, ejemplares de especies nativas e introducidas señaladas en la resolución extractada. Sin perjuicio el peticionario podrá capturar sin devolución, ejemplares de Basilichthys microlepidotus y Trichomycterus areolatus, en los términos señalados en la resolución extractada.
+
+Valparaíso, 23 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
