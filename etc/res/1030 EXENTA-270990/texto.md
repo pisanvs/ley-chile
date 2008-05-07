@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.030, de 21 de abril de 2008, de esta Subsecretaría, autorízase a CONSERVAS CASTILLO LIMITADA para ampliar actividades de transformación autorizadas por resoluciones citadas en Visto, para incorporar a planta ubicada en Quinta Lo Mery s/n, Los Angeles, VIII Región, en líneas proceso Conserva, el recurso hidrobiológico Anchoveta.
+
+Valparaíso, 21 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
