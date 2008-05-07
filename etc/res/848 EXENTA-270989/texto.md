@@ -1,0 +1,3 @@
+Por resolución exenta Nº 848, de 2 de abril de 2008, de esta Subsecretaría, autorízase a SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES Y ACTIVIDADES CONEXAS CALETA CERRO VERDE para ampliar actividades de transformación autorizadas por resoluciones citadas en Visto, para incorporar planta ubicada en calle El Faro, Pasaje Nº 2 s/n, Cerro Verde Bajo, comuna de Penco, VIII Región, en líneas proceso Alga seca y Alga fresca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 2 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
