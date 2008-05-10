@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.069 EXENTA, DE 2008
+
+Por resolución exenta Nº 1.069, de 5 de mayo de 2008, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana, se han prorrogado los contratos de concesión para la operación de Plantas de Revisión Técnica de Buses en la Región Metropolitana, celebrados con concesionarios A. Denham y Cía. Ltda., Sociedad de Revisiones Técnicas Limitada y Servicios Técnicos Motrices S.A., aprobados mediante resoluciones exentas Nºs. 131/2001, 132/2001 y 162/2001, de la citada Secretaría Regional; hasta la fecha en que comiencen a operar todos o parte de los nuevos establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de buses en la Región Metropolitana, que se concesionen y siempre que hubieren cesado las condiciones que han motivado la presente prórroga.
+
+Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
