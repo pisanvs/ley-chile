@@ -1,0 +1,25 @@
+DECLARA PARCIALMENTE DESIERTA LA LICITACIÓN PARA ADJUDICAR EL SERVICIO DE FINANCIAMIENTO Y ADMINISTRACIÓN DE CRÉDITOS PARA ESTUDIOS DE EDUCACIÓN SUPERIOR, ESTABLECIDOS POR LA LEY 20.027
+
+Núm. 37 exenta.- Santiago, 6 de mayo de 2008.- Visto: Lo dispuesto en la ley 20.027; en el decreto supremo 182, de 2005, del Ministerio de Educación; la resolución Nº 520, de 1996, que fijó el texto refundido, coordinado y sistematizado de la resolución Nº 55, de 1992, de la Contraloría General de la República, y sus modificaciones; la resolución Nº 1/08, de fecha 25 de enero de 2008, de la Comisión Administradora del Sistema de Créditos para Estudios Superiores, que aprueba Bases y Anexos Llamado a Licitación Pública para la Adjudicación del Servicio de Financiamiento y Administración de Créditos para Estudios de Educación Superior, establecidos por la ley 20.027; el llamado a Licitación Pública para la Adjudicación del Servicio de Financiamiento y Administración de Créditos para Estudios de Educación Superior, publicado en el diario La Nación, de fecha 31 de marzo de 2008, y publicado a su vez en el Sistema de Información de la Dirección de Compras y Contratación Pública; la circular aclaratoria de fecha 18 de abril de 2008; el acta de recepción de ofertas, de fecha 25 de abril de 2008; la apertura del Registro de Oferentes, de fecha 29 de abril de 2008; el acta de apertura de las ofertas, de fecha 30 de abril de 2008; el aviso informando la fecha y hora de la sesión de la Comisión Administradora del Sistema de Créditos para Estudios Superiores, publicado en el diario El Mercurio de Santiago, de fecha 2 de mayo de 2008, carta que prorroga el plazo para realizar la sesión extraordinaria de fecha 29 de abril de 2008, y el acta de la 7ª sesión extraordinaria de la Comisión Administradora del Sistema de Créditos para Estudios Superiores, celebrada con fecha 6 de mayo de 2008.
+
+Considerando:
+
+1. Que con fecha 25 de abril de 2008 la Comisión Administradora del Sistema de Créditos para Estudios Superiores recibió las ofertas presentadas por las entidades financieras interesadas en la adjudicación de la Licitación del Servicio de Financiamiento y Administración de Créditos para Estudios Superiores regulados por la ley 20.027. En dicha ocasión se recibieron un total de cinco ofertas por parte de tres entidades financieras distintas.
+
+2. Que cada una de las ofertas se realiza para la adjudicación de una de las seis nóminas de estudiantes, que en su conjunto constituyen el total de beneficiarios correspondientes al año 2008.
+
+3. Que en su 7ª sesión extraordinaria, celebrada con fecha 6 de mayo de 2008, la Comisión Administradora del Sistema de Créditos para Estudios Superiores resolvió la licitación mencionada, adjudicando cinco de las seis nóminas que se encontraban en licitación, en las condiciones establecidas en las cinco ofertas presentadas. Como consecuencia de lo anterior, una de las nóminas de estudiantes resultó sin adjudicar.
+
+4. Que la Comisión Administradora del Sistema de Créditos para Estudios Superiores tiene la atribución de declarar parcialmente desierta la licitación, en conformidad con lo establecido en los numerales 6.4.1 y 6.4.2 de las Bases de Licitación del presente año, cuando la cantidad de ofertas no fuese suficiente para adjudicar la totalidad de las nóminas de estudiantes a licitar,
+
+Se Resuelve:
+
+1.- Declarar parcialmente desierta la licitación para adjudicar el Servicio de Financiamiento y Administración de Créditos para Estudios de Educación Superior, establecidos en la ley 20.027, respecto de la nómina de estudiantes signada con el Nº 6, que no fue adjudicada en el presente proceso de licitación, por cuanto la cantidad de ofertas recibidas no fue suficiente para asignar la totalidad de las nóminas de estudiantes a licitar.
+
+2.- Declarar que forman parte integrante de esta resolución, que declara parcialmente desierta la licitación, las Bases de Licitación Pública para la Adjudicación del Servicio de Financiamiento y Administración de Créditos para Estudios de Educación Superior, establecidos en la ley 20.027, aprobadas por resolución Nº 1/08, de 25 de enero de 2008, de la Comisión Administradora del Sistema de Créditos para Estudios Superiores.
+
+3.- Publíquese la presente resolución en el Diario Oficial y notifíquese a los oferentes.
+
+Anótese, comuníquese y publíquese.- Alonso Núñez Campusano, Ministerio de Educación.- Pamela Cuzmar Poblete, Tesorera General de la República.- Juan Antonio Rock, Rep. Universidades Consejo de Rectores.- José Julio León Reyes, Rep. Universidades Privadas.- Jaime Alcalde C., Rep. Institutos Profesionales y Centros de Formación Técnica.- Paula Darville, Rep. Dirección de Presupuestos Ministerio de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Alejandra Contreras Altmann, Directora Ejecutiva Comisión Administradora del Sistema de Créditos para Estudios Superiores.
