@@ -1,0 +1,3 @@
+Por resolución exenta Nº 967, de 17 de abril de 2008, de esta Subsecretaría, modifícase resolución Nº 2.583 de 2007, de esta Subsecretaría de Pesca, que autorizó a PATRICIA IVONNE MELLA BAHAMONDE, para iniciar actividades pesqueras de transformación, en el sentido de reemplazar en numeral 2 la ubicación de planta de proceso por la siguiente "Caleta Constitución s/n, Antofagasta, II Región".
+
+Valparaíso, 17 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
