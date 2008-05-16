@@ -1,0 +1,3 @@
+Por decreto MOP Nº248, de fecha 31 de marzo de 2008, se expropió el lote de terreno Nº6-1, superficie 80 m², Rol Nº8085-25, comuna de San Rafael, VII Región para la obra: "Concesión Internacional Ruta 5. Tramo: Talca-Chillán. Sector: Km. 238.240,00 al Km. 242.260,00" y se acordó el valor de indemnización con su propietario Benito Enrique Corvalán Ponce y otros, ascendente a la cantidad de $18.373.949.
+
+Fiscal del Ministerio de Obras Públicas.
