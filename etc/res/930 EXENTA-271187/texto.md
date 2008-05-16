@@ -1,0 +1,3 @@
+Por resolución exenta Nº 930 de 16 de abril de 2008, de esta Subsecretaría, autorízase a JOSÉ DAVID CHIRINO MIRANDA, para iniciar actividades pesqueras de transformación para iniciar y operar planta ubicada en Ignacio Carrera Pinto Nº 658, Caldera, III Región, para elaborar en las líneas de proceso de cocido, fresco enfriado y congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 16 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
