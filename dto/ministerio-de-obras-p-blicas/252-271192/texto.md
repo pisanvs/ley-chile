@@ -1,0 +1,5 @@
+Por decreto MOP Nº252 de 31 de marzo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropiaron los lotes de terreno Nos 6, 9 y 87, para la obra: "Camino Ruta P-40, Sector Arauco-Quiapo, Km. 0,00000 a Km. 15,96000", que figuran a nombre de Puga Galindo Domingo; Soc. Colectiva Juan Zurita e Hj y Lorca Pavez Roberto Enrique y otros, roles de avalúo Nos 167-6; 167-5 y 184-24, Comuna de Arauco, Región del Biobío, superficies 11.684 m²; 7.004 m² y 8.076 m². La Comisión de Peritos, fijó el monto provisional de la indemnización el 20 de abril de 2007, en la cantidad de $6.588.149.- para el lote Nº6;
+
+$4.964.000.- para el lote Nº9 y $6.002.101.- para el lote Nº87. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
