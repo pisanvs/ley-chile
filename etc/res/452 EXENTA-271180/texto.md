@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DEL PLANTEL DOÑA LAURA
+
+Resolución exenta Nº 452, del 06-05-08, resolvió la clausura a partir de esta fecha del Plantel Doña Laura, de propiedad de Lucía Yercic Soto, Rol 640-005, ubicado en la provincia de Tierra del Fuego. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparásito a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corrido desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Porvenir, 06 de mayo de 2008. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
