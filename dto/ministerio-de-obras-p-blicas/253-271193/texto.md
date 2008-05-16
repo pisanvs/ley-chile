@@ -1,0 +1,3 @@
+Por decreto MOP, Nº253, de 31 de marzo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840, se expropió el lote de terreno Nº2, para la obra Construcción Camino Costero, Carrizal-Bahía Salada, Provincia de Copiapó y Huasco, Región de Atacama, Etapa II, que figura a nombre de Comunidad Agrícola de Totoral, rol de avalúo 516-18, Comuna de Copiapó, superficie 460.623 m². La Comisión de Peritos, fijó con fecha 5 de diciembre de 2006, en la cantidad de $17.964.297.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
