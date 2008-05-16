@@ -1,0 +1,3 @@
+Por decreto MOP Nº 820, de 14 de noviembre de 2007, se modificó el decreto MOP Nº 250, de 16 de abril de 2007, que ordenó la expropiación del lote de terreno Nº 33LM, ubicado en la comuna de Pudahuel, necesario para la obra "Proyecto Línea Maipú, Sector Avenida. San Pablo", en el sentido que se modificó el numeral segundo, en cuanto a que la superficie a expropiar se ajustó en 1.612 m² y no 2.243 m², como se indicó inicialmente. Asimismo, se modificaron los numerales tercero y sexto, en lo que se refiere a la indemnización provisional quedando en la suma de $113.527.800. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
