@@ -1,0 +1,3 @@
+Por resolución exenta Nº 970, de 17 de abril de 2008, de esta Subsecretaría, autorízase a CLAUDIO ANTONIO GUERRA CAÑOLES para iniciar actividades pesqueras transformación, en planta ubicada a 1 Km al Sur de caleta Constitución, Antofagasta, II Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 17 de abril de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
