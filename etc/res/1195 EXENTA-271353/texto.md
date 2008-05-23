@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.195, de 8 de mayo de 2008 de esta Subsecretaría, autorízase a PESCA CHILE S.A., RUT Nº 76.015.307-9, para continuar desarrollando las actividades pesqueras de transformación, en la Planta de Procesamiento ubicada en el kilómetro 5,5 Norte, sector Tres Puentes, Punta Arenas, XII Región, autorizadas mediante resoluciones exentas Nº 886 de 1989, Nº 102 de 1990, Nº 104 de 1992, Nº 814 de 1992, Nº 1.392 de 1995 y Nº 1.383 de 1998, todas de esta Subsecretaría, a Pesca Chile S.A., RUT Nº 95.023.000-2, del mismo domicilio, en virtud de las escrituras públicas y demás normas citadas en la resolución extractada.
+
+Valparaíso, 8 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
