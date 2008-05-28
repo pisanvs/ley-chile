@@ -1,0 +1,5 @@
+APRUEBA PROGRAMA DE ENSEÑANZA PARA LA OBTENCIÓN DE LICENCIA DE CONDUCTOR CLASE C, A ESCUELA DE CONDUCTORES NO PROFESIONALES QUE INDICA
+
+Por resolución exenta Nº1.094, de fecha 7 de mayo de 2008, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase C, a la Escuela de Conductores No Profesionales "Sociedad Rodríguez y Pérez Limitada" o "Motoacademia Chile Ltda.", cuyos representantes legales son la señora Camila Andrea Pérez Artigas y el señor Franco Iván Rodríguez Villegas, y este último, su Director, la que tendrá su lugar de funcionamiento en Valenzuela Castillo Nº1280-A, comuna de Providencia.
+
+Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
