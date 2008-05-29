@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.198, de esta Subsecretaría, modifícase el numeral 5º Cuater de la resolución exenta Nº 301, modificada por las resoluciones exentas Nº 321, Nº 468, Nº 512 y Nº 837, todas de 2008, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto, denominado "Distribución espacio - temporal de las agregaciones de Jurel (Trachurus murphyi) en la III Región, Temporada 2008", en el sentido de incrementar en 800 toneladas la cuota del recurso Jurel autorizada a extraer por las embarcaciones indicadas en el citado numeral.
+
+Las embarcaciones autorizadas a capturar la cuota antes indicada podrán efectuar el desembarque de las capturas en cualquier puerto de desembarque de la III Región.
+
+Valparaíso, 9 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
