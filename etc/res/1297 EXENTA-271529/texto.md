@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.297, de 20 de mayo de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207111258, presentada por SOCIEDAD OCEÁNICA AUSTRAL LIMITADA, para instalar y operar un centro de cultivo ubicado en Canal Utarupa, al este del Estero Fernández, Isla Rivero, Sector 2, XI Región.
+
+Valparaíso, 20 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
