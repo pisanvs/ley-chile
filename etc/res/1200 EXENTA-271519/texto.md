@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.200, de esta Subsecretaría, modifícase el numeral 6º de la resolución exenta Nº 1, de 2008, modificada mediante resolución exenta Nº 377, de 2008, ambas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Implementación de un sistema automatizado de control, verificación y seguimiento en la pesquería de Merluza del sur (Merluccius australis) de aguas interiores de la Décima Región, Zona Hualaihué, año 2008, utilizando como base el SELID", en el sentido de señalar que los límites de captura autorizados para la zona de Hualaihué, en los meses que se indica, serán los siguientes:
+
+Enero: 221,43 toneladas; febrero: 332,145 toneladas; marzo: 332,145 toneladas; abril: 221,43 toneladas; mayo: 342,86 toneladas; junio: 50 toneladas; julio: 50 toneladas; septiembre: 221,43 toneladas; octubre: 221,43 toneladas; noviembre: 221,43; diciembre: 222,09 toneladas.
+
+Valparaíso, 9 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
