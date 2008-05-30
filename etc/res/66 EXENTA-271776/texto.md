@@ -1,0 +1,5 @@
+TRASLADA SEDE DE X DIRECCIÓN REGIONAL PUERTO MONTT Y DETERMINA SU TERRITORIO JURISDICCIONAL
+
+Extracto de la resolución exenta del Servicio de Impuestos Internos Nº 66, de 23 de mayo de 2008, que traslada la sede de la X Dirección Regional Puerto Montt a la ciudad de Puerto Montt, capital de la X Región de Los Lagos; determina que el territorio jurisdiccional de la mencionada Dirección Regional comprende las comunas de Puerto Montt, Calbuco, Cochamó, Fresia, Frutillar, Los Muermos, Llanquihue, Maullín, Puerto Varas, Castro, Ancud, Chonchi, Curaco de Vélez, Dalcahue, Puqueldón, Queilén, Quellón, Quemchi, Quinchao, Osorno, Puerto Octay, Purranque, Puyehue, Río Negro, San Juan de la Costa, San Pablo, Chaitén, Futaleufú, Hualalhue, Palena y Guaitecas; declara que pertenecen a la X Dirección Regional Puerto Montt las Unidades de Osorno, Puerto Varas, Ancud, Castro y Chaitén y establece que esta resolución regirá a contar del 26 de mayo del año en curso.
+
+El texto íntegro de la resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl), y además, aparecerá en el Boletín del SII del mes de mayo de 2008.
