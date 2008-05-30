@@ -1,0 +1,5 @@
+INSTALA LA DIRECCIÓN REGIONAL DE LA REGIÓN DE LOS RÍOS, FIJA SU SEDE Y DETERMINA SU TERRITORIO JURISDICCIONAL
+
+Extracto de la resolución exenta del Servicio de Impuestos Internos Nº 67, de 23 de mayo de 2008, que instala la Dirección Regional de la Región de Los Ríos, con sede en la ciudad de Valdivia, estableciendo que su territorio jurisdiccional comprenderá las comunas de Valdivia, Mariquina, Lanco, Los Lagos, Corral, Máfil, Panguipulli, Paillaco, La Unión, Futrono, Río Bueno y Lago Ranco; declara que pertenecen a la Dirección Regional Valdivia las Unidades de Lanco y La Unión y determina que esta resolución regirá a contar del 26 de mayo del año en curso.
+
+El texto íntegro de la resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl), y además, aparecerá en el Boletín del SII del mes de mayo de 2008.
