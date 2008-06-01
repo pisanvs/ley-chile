@@ -1,0 +1,5 @@
+AUTORIZA A LOS DIRECTORES REGIONALES DE LAS DIRECCIONES REGIONALES DE LA REGIÓN DE LOS RÍOS Y DE LA REGIÓN DE ARICA Y DE PARINACOTA PARA DELEGAR LAS FUNCIONES QUE SEÑALA EN LOS FUNCIONARIOS QUE INDICA
+
+Extracto de la resolución exenta del Servicio de Impuestos Internos Nº 70, del 27 de mayo de 2008, que autoriza a los Directores Regionales de las Direcciones Regionales de la Región de Los Ríos y de la Región de Arica y Parinacota para delegar en el Jefe del Departamento Jurídico Regional y en el funcionario abogado ubicado en la Oficina Jurídica de la sede de la Dirección Regional, respectivamente, las facultades a que se refieren los dispositivos primero, segundo, tercero y cuarto de esta resolución.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en mayo de 2008.
