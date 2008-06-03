@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución afecta Nº 21, de seis de febrero de 2008, del Serviu Región de Aysén, con toma de razón por parte de la Contraloría Regional Aysén, de fecha diez de abril de 2008, se ordenó la expropiación parcial, conforme D.L. Nº 2.186 de 1978, de los inmuebles denominados: lote Nº 1-C, inmueble ubicado en Avenida Ogana s/n, de esta ciudad, rol de avalúo Nº359-83, de la comuna de Coyhaique; lote Nº 6, inmueble ubicado en Avenida Ogana s/n, de esta ciudad, rol de avalúo Nº359-78, de la comuna de Coyhaique; lote Nº 7, inmueble ubicado en Avenida Ogana s/n, de esta ciudad, rol de avalúo Nº359-79, de la comuna de Coyhaique, todos de aparente dominio de la Sociedad de Rentas Inmobiliarias Limitada, del proyecto vial "Prolongación calle Lillo, Coyhaique". Comisión integrada por don Patricio Javier Eusebio Bopp Latham, ingeniero agrónomo; don Carlos Guillermo Fernando Hennicke Correa, ingeniero agrónomo, y don Germán Aurelio Enrique Wulf Andrade, ingeniero agrónomo, según informe de tasación de cuatro de diciembre de 2007, fijó monto provisional indemnización en $86.600.000.- pagadera al contado.
+
+Ismael Infante Morales, Arquitecto, Director (S) Serviu Región de Aysén.
