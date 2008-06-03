@@ -1,0 +1,3 @@
+Por decreto MOP Nº 250 de fecha 31 de marzo de 2008, se expropiaron los lotes de terreno Nºs 1-A y 1-B, superficies 267 y 479 m2 respectivamente, rol Nº 3209-514, comuna de Padre Las Casas, para la obra "Camino Ruta 5 Vialidad Complementaria, Sector Camino La Cantera - Metrenco, tramo Km. 0,00000 al Km. 2,26188, Provincia de Cautín, Comuna de Padre Las Casas", IX Región y se acordó el valor de la indemnización con su propietaria Elvira Jineo Antinao, ascendente a la cantidad de $13.692.687.
+
+Fiscal del Ministerio de Obras Públicas.
