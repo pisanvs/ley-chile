@@ -1,0 +1,5 @@
+Por decreto MOP Nº 258 de 31 de marzo de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropió el lote de terreno Nº 17-1, para el "Proyecto: Acceso Nor - Oriente a Santiago. Sector Oriente Enlace Centenario - Enlace Av. Del Valle. Tramo 3: Enlace El Llano; Región Metropolitana, que figura a nombre de El Chamisero Inmobiliaria S A, rol de avalúo 165-2, comuna de Colina, superficie 998 m2. La comisión de peritos integrada por los señores Cristián Larraín Arnolds, Sonia Catalina Gallegos Blanch y Carolina Ramírez Bustamante, fijó con fecha 26 de octubre de 2007, el valor provisional de la indemnización en la cantidad de $3.518.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
