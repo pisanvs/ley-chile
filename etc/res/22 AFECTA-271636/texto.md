@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución afecta Nº 22, de seis de febrero de 2008, del Serviu Región de Aysén, con toma de razón por parte de la Contraloría Regional Aysén, de fecha diez de abril de 2008, se ordenó la expropiación parcial, conforme D.L. Nº 2.186 de 1978, del inmueble ubicado en Avenida Almirante Simpson Nº499, rol de avalúo Nº 359-8, comuna de Coyhaique, de dominio de don César Gutiérrez Alonso, correspondiente a lote Nº 9, del proyecto vial "Prolongación calle Lillo, Coyhaique". Comisión integrada por don Patricio Javier Eusebio Bopp Latham, ingeniero agrónomo; don Carlos Guillermo Fernando Hennicke Correa, ingeniero agrónomo, y don Germán Aurelio Enrique Wulf Andrade, ingeniero agrónomo, según informe de tasación de cuatro de diciembre de 2007, fijó monto provisional indemnización en $97.000.000.- pagadera al contado.
+
+Ismael Infante Morales, Arquitecto, Director (S) Serviu Región de Aysén.
