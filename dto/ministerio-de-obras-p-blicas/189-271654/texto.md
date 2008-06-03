@@ -1,0 +1,3 @@
+Por decreto MOP Nº 189, de fecha 29 de febrero del 2008, se expropió el lote de terreno Nº 66, superficie 6.142 m², rol Nº 214-73, comuna de Coelemu, VIII Región para la obra "Camino Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo I, Km. 0,00000 a Km. 20,30000" y se acordó el valor de indemnización con su propietaria Eugenia de Lourdes Alegría Benavente, ascendente a la cantidad de $8.439.104.- para el lote Nº 66.
+
+Fiscal del Ministerio de Obras Públicas.
