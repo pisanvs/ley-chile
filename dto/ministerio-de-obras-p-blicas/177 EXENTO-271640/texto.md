@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 177 de 15 de abril de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 231-1, para la obra "Camino Acceso Norte a Concepción, VIII Región. Sector Km. 51.480,00 al Km.
+
+52.120,00"; Octava Región, que figura a nombre de Ruiz Pardo José del Carmen, rol de avalúo 614-25, comuna de Tomé, superficie 2.573 m2. La comisión de peritos integrada por los señores Omar Andrés Aspé Neira, Susana Claudia Conejeros Rudloff y Carlos Gerardo Ruiz Sánchez, fijó con fecha 24 de octubre de 2007, el valor provisional de la indemnización en la cantidad de $900.550.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
