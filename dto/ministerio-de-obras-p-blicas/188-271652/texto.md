@@ -1,0 +1,3 @@
+Por decreto MOP Nº 188, de 29 de febrero de 2008, se expropió el lote de terreno Nº 277-2, superficie 5.804 m², rol de avalúo 1281-64, comuna de Penco, para la obra "Camino Acceso Norte a Concepción, VIII Región, Sector Km. 71.280,00 al Km. 71.960,00", Octava Región, se acordó el valor de la indemnización con su propietario José Raúl Contreras Cariaga, ascendente a la cantidad de $4.867.107.
+
+Fiscal del Ministerio de Obras Públicas.
