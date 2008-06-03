@@ -1,0 +1,3 @@
+Por decreto MOP Nº 190 de fecha 29 de febrero de 2008, se expropió el lote de terreno Nº 25, superficie 2.583 m², rol Nº 1502-145, comuna de Los Ángeles, VIII Región para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara, Km. 0,00000 a Km. 10,35968, VIII Región", y se acordó el valor de indemnización con su propietario Heriberto Jara González, ascendente a la cantidad de $57.786.964.- para el lote Nº 25.
+
+Fiscal del Ministerio de Obras Públicas.
