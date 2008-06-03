@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 396 de 31 de julio de 2007, se expropió el lote de terreno Nº 5-A, superficie 8.622 m2., rol de avalúo Nº 1064-1, comuna de Vucuña, para la obra "Camino ruta 41-Ch, Sector Huanta-Juntas del Toro Tramo Km. 106,50000 a Km. 147,24220", IV Región, y se acordó el valor de la indemnización con su propietario Víctor Hugo Rojas Núñez, ascendente a la cantidad de $2.179.672.
+
+Fiscal del Ministerio de Obras Públicas.
