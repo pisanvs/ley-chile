@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 231 de 30 de abril de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 4, para la obra: Mejoramiento Rotonda General Bonilla, que figuran a nombre de Torres Utreras Guillermo Octavio, rol de avalúo 358-14 de la comuna de Concepción, VIII Región, superficie 18 m2. La Comisión de Peritos fijó con fecha 20 de agosto de 2007 el monto de la indemnización provisional en la cantidad de $1.605.500.- para el lote Nº 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
