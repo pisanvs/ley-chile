@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 222, de fecha 30 de abril del 2008, se expropió el lote de terreno Nº 2, superficie 626 m², rol Nº 37-1, comuna de Pumanque, VI Región para la obra "Camino Ruta I-60, Sector Pumanque-Cruce I-72, tramo Km. 20,34083 al Km. 38,49623 VI Región", y se acordó el valor de indemnización con su propietario Rodrigo Federico Hernández Montes, ascendente a la cantidad de $2.833.740.
+
+Fiscal del Ministerio de Obras Públicas.
