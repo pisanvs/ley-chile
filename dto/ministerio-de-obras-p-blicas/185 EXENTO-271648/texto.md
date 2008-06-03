@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº 185 de 15 de abril de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió los lotes de terreno Nº 71 y 72 para la obra: Camino Mejoramiento Ruta K-175, Sector Tres Esquinas - Las Trancas, km.
+
+8,306.62 a km. 25,735.24, que figuran a nombre de Rojas Canales Ana Luisa, roles de avalúo 640-10, de la comuna de Molina, VII Región, superficies 2.179 y 2.284 m2. respectivamente. La Comisión de Peritos con fecha 3 de julio de 2000, fijó el monto de la indemnización provisional en la cantidad de $1.383.700.- para el lote Nº71 y $1.617.000.- para el lote Nº 72. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
