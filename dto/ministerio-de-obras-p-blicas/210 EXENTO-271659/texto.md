@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 210 de 30 de abril de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP. Nº 206, de 1960, se expropió el lote de terreno Nº 227-1, para la obra "Camino Acceso Norte a Concepción, VIII Región. Sector Km. 50.080,00 al Km.
+
+50.400,00"; Octava Región, que figura a nombre de Chávez Munoz José Orlando, rol de avalúo 614-30, comuna de Tomé, superficie 1.241 m2. La comisión de peritos integrada por los señores Patricio Fernando Casagrande Ulloa, Mónica del Carmen Conejeros Rudloff y Alicia Bárbara Flores Pacheco, fijó con fecha 24 de octubre de 2007, el valor provisional de la indemnización en la cantidad de $412.300.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
