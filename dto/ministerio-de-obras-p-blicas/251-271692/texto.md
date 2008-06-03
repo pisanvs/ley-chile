@@ -1,0 +1,3 @@
+Por decreto MOP Nº 251 de 31 de marzo de 2008, se expropió el lote de terreno Nº 20, superficie 5.918 m², rol de avalúo 1529-3, comuna de Los Ángeles, para la obra "Camino Ruta Q-15, Sector Los Ángeles - Santa Clara, Km. 0,00000 a Km. 10,35968", VIII Región y se acordó el valor de indemnización con su propietario Abraham Selaive Carrillo, ascendente a la cantidad de $13.282.622.
+
+Fiscal del Ministerio de Obras Públicas.
