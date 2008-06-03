@@ -1,0 +1,3 @@
+Por decreto MOP Nº 186 de fecha 29 de febrero de 2008, se expropió el lote de terreno Nº 15, superficie 98,28 m2, rol Nº 3-25, comuna de Zapallar, para la obra "Reposición Ruta E-30-F, Sector Zapallar - La Laguna de Km. 22,80733 a Km. 36,23097", V Región y se acordó el valor de la indemnización con su propietario Ramón Teodoro Fernando Aubert Rayo o Ramón Aubert Rayo, ascendente a la cantidad de $5.461.423.
+
+Fiscal del Ministerio de Obras Públicas.
