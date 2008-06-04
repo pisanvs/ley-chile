@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.273, de 19 de mayo de 2008, de esta Subsecretaría, autorízase a GRACIELA DEL CARMEN DÍAZ ARAYA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Sitio 16, Manzana 9, sector Nº 3, Parte Alta de Coquimbo, IV Región, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado y congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 19 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
