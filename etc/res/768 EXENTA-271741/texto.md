@@ -1,0 +1,31 @@
+APRUEBA ADDENDUMS QUE INDICA
+
+Núm. 768 exenta.- Santiago, 15 de mayo de 2008.- Visto: La Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, Nº 18.575, cuyo texto refundido, coordinado y sistematizado fue fijado por D.F.L. N° 1, de 2000, del Ministerio Secretaría General de la Presidencia; el D.F.L. N° 343, de 1953; el D.F.L.
+
+N° 279, de 1960; el D.L. N° 557; la ley N° 18.059; la ley N° 18.696; la resolución N° 117, de 2003, del Ministerio de Transportes y Telecomunicaciones, en adelante "el Ministerio" que aprobó las bases de licitación pública de uso de vías de la ciudad de Santiago para la prestación de servicios urbanos de transporte público mediante buses, en adelante "Licitación Transantiago 2003"; resoluciones N°s 31, 58, 59, 66 y 71, todas de 2004, del Ministerio, que aprobaron modificaciones a dichas bases de licitación; Resoluciones N°s 70 y 74, de 2004, del Ministerio, que aprobaron las respuestas a las consultas presentadas en dicho proceso de licitación; la resolución exenta N° 331, de 2005, del Ministerio, que aprobó los contratos de concesión, suscritos con fecha 28 de enero de 2005, entre el Ministerio de Transportes y Telecomunicaciones y las empresas Concesionarias de las Unidades de Negocio que en ella se indican; la resolución exenta Nº 1715, de 2005, del Ministerio, que postergó la fecha de inicio de la puesta en marcha de los servicios de la etapa de implementación; las resoluciones exentas N°s 1266 y 1683, de 2006, que aprobaron modificaciones de contratos de concesión; la resolución exenta N° 1711, de 2006, que postergó fecha de inicio de la puesta en marcha de los servicios de la etapa de régimen; la resolución exenta N° 238, de 2007, que aprobó modificaciones de contratos que indica; la resolución exenta Nº 349, de 1º de marzo de 2007, que aprobó addendums a las modificaciones de fecha 9 de febrero de 2007 que en ella se indican; la resolución exenta N° 918, de 11 de mayo de 2007, que aprobó las modificaciones de contrato de concesión de vías que indica, suscritas con fecha 9 de mayo de 2007; resolución exenta Nº 1056 de 5 de junio de 2007, que aprobó addendums de 4 de junio de 2007 a las modificaciones de contrato de concesión de vías que indica, suscritas con fecha 9 de mayo de 2007; la resolución exenta Nº 1234 de 4 de julio de 2007, que aprobó modificaciones a contratos y addendums a modificaciones de contratos que indica y la resolución exenta Nº 1506 de 17 de agosto de 2007 que aprueba modificaciones a contratos que indica, todas del Ministerio de Transportes y Telecomunicaciones; el oficio Ord. Nº 2332, de 25 de junio de 2007, del Ministerio de Transportes y Telecomunicaciones; y la demás normativa aplicable.
+
+Considerando:
+
+1° Que, a fin de implementar el proyecto Transantiago, mediante la resolución N° 117, citada en el Visto, se aprobaron las Bases de Licitación Transantiago 2003.
+
+2° Que, con fecha 28 de enero de 2005, en conformidad con las Bases de Licitación Transantiago 2003, los adjudicatarios del proceso de licitación referido ("Operadores"), suscribieron - cada uno por separado - con el Ministerio un contrato de concesión de uso de vías de la ciudad de Santiago para la prestación de servicios urbanos de transporte público remunerado de pasajeros mediante buses (en adelante el "Contrato de Concesión"), los cuales fueron aprobados por la resolución exenta N° 331, de 2005, del Ministerio de Transportes y Telecomunicaciones.
+
+3° Que, con fecha 30 de junio de 2006 y 30 de agosto de 2006, los concesionarios suscribieron una modificación al contrato de concesión, las cuales fueron aprobadas por resoluciones exentas Nºs 1.266 o Nº 1.683, ambas de 2006, respectivamente.
+
+4° Que, asimismo, mediante resolución exenta Nº 1711, de 8 de septiembre de 2006, se postergó el inicio de la etapa de régimen para el 10 de febrero de 2007.
+
+5° Que, el objeto de la licitación antes referida consiste en establecer un sistema de transporte público de pasajeros que permita atender las necesidades de desplazamiento de todos los habitantes del área comprendida en la Licitación Transantiago 2003, a saber, la provincia de Santiago y las comunas de Puente Alto y San Bernardo.
+
+6° Que, mediante resoluciones exentas N°s 238, 771, 918, 1.056, 1.234 y 1.506, todas de la Subsecretaría de Transportes y de 2007, citadas en el Visto, se aprobaron modificaciones y addendums a dichas modificaciones de los contratos de concesión de vías a fin de permitir la correcta operación de los servicios para el logro del cumplimiento del objeto antes referido.
+
+7° Que, mediante oficio Ord. Nº 2332, de 25 de junio de 2007, del Ministerio de Transportes y Telecomunicaciones, se informó a los operadores la posibilidad de incorporar una flota auxiliar que tendrá por objeto asignar buses sólo a los servicios que presenten problemas transitorios de operación en los términos que se indican.
+
+8° Que, en atención a lo antes expuesto, se ha hecho necesario incorporar adecuaciones al contrato de concesión de vías suscrito con la empresa concesionaria de las unidades de negocio alimentadora Nº 2 y N° 4, Servicio de Transporte de Personas de Santiago S.A., que permita al concesionario referido, atender los servicios comprometidos con buses que pertenezcan a la flota auxiliar en caso de fallas o mantenimiento de los buses de su flota, garantizando de esa forma la satisfacción del interés público real y concreto pretendido con el diseño e implementación del Plan Transantiago, sin menoscabo económico o patrimonial alguno para el concesionario,
+
+Resuelvo:
+
+Apruébase los addendums de 28 de abril de 2008 al contrato de concesión de uso de vías de la ciudad de Santiago para la prestación de servicios urbanos de transporte público remunerado de pasajeros mediante buses, suscritos en forma separada entre el Ministerio de Transportes y Telecomunicaciones y la empresa concesionaria Servicio de Transporte de Personas S.A., respectivamente, por las unidades de negocio alimentadoras Nº 2 y N° 4.
+
+Anótese, comuníquese y publíquese.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda a Ud., Roberto Vásquez Díaz, Jefe Depto. Administrativo (S).
