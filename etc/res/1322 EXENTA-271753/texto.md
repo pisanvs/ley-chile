@@ -1,0 +1,11 @@
+Por resolución exenta Nº 1.322, de 23 de mayo de 2008, de esta Subsecretaría, autorízase a la FUNDACIÓN CHINQUIHUE para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Pesca de Investigación del recurso juliana (Tawera gayi) en la zona del mar interior de Chiloé, X Región", elaborados por el peticionario y aprobados por esta Subsecretaría.
+
+El objetivo de la pesca de investigación consiste en contribuir a la formulación de un plan de manejo para el recurso juliana en el área del mar interior de Chiloé, a través de recopilación de información necesaria para el diseño de medidas de administración específicas.
+
+La pesca de investigación se efectuará en bancos ubicados en el mar interior de Chiloé, X Región, por el término de 12 meses contados desde la fecha de la presente resolución, y en ella podrán participar los buzos mariscadores y armadores artesanales inscritos en el Registro Pesquero Artesanal de la X Región, en categorías que correspondan a recursos bentónicos, y que acrediten su caleta de base, y las embarcaciones artesanales y lanchas acopiadoras que cuenten con certificado de navegabilidad vigente otorgado por la autoridad marítima. Asimismo, podrán participar aquellas plantas de transformación de recursos hidrobiológicos que cuenten con autorización vigente para realizar actividades de transformación sobre el recurso Juliana, que cuenten con las autorizaciones sectoriales correspondientes y que cumplan con los requisitos establecidos en la normativa legal y reglamentaria establecida o que se establezca al efecto, y en los Términos Técnicos de Referencia antes indicados.
+
+En cumplimiento del objetivo de la presente investigación, los buzos y las embarcaciones participantes podrán extraer, mediante buceo semi-autónomo, un límite máximo autorizado de 5.000 toneladas del recurso Juliana, de una talla igual o superior a 27 milímetros de longitud. Con todo sólo se podrá extraer un máximo mensual de 1.000 toneladas mensuales de la especie antes señalada.
+
+La Fundación designa como persona responsable a su representante legal, don Nelson Pérez Casas del Valle.
+
+Valparaíso, 23 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
