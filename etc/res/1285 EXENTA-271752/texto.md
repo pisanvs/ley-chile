@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.285, de 20 de mayo de 2008, de esta Subsecretaría, autorízase a IVONNE DEL CARMEN FLORES PUEBLA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Pasaje Janequeo Nº 235, Sitio 32, Manzana 39, sector Nº5, Parte Alta de Coquimbo, IV Región, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado y congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 20 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
