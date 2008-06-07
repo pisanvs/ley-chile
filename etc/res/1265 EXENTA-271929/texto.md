@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.265, de 16 de mayo de 2008, de esta Subsecretaría, modifícase la resolución Nº 2.887, de 2007, de esta Subsecretaría, que autorizó a MANUEL CÉSAR GUERRERO MORALES, para instalar colectores en Estero Reloncaví, sector norte de Baños Sotomó, X Región, en el sentido de ampliar su plazo de vigencia por dos meses contados desde la fecha de la presente resolución.
+
+Valparaíso, 16 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
