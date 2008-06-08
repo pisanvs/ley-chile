@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE DE VALPARAÍSO
+
+Por resolución SII Nº 13, del 14 de mayo de 2008, se designó Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Valparaíso a don Juan Herrera Osorio, RUT Nº 7.927.657-K, en reemplazo de Bernardo Contreras Osorio, y en calidad de Secretario Suplente a doña Susana Soledad Herrera González, RUT Nº7.328.859-2, en reemplazo de Juan Herrera Osorio, RUT Nº7.927.657-K
