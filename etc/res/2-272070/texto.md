@@ -1,0 +1,5 @@
+DELEGAN EN LOS FUNCIONARIOS QUE INDICAN, LAS FACULTADES QUE SEÑALAN
+
+a) Extracto de resolución exenta Nº 2 de 4.6.2008, emitida por el Director de la Dirección Regional de Arica y Parinacota en cumplimiento de lo dispuesto en la resolución exenta Nº 70 de 27.5.2008, del Director del Servicio de Impuestos Internos, publicada en el Diario Oficial el 31.5.2008, que delega facultades que indica en los funcionarios que señala.
+
+b) Extracto de resolución exenta Nº 2.907 de 30.5.2008, emitida por el Director de la X Dirección Regional Puerto Montt, que delega en el funcionario que indica la facultad establecida en el artículo 6º, letra B, Nº 5 del Código Tributario, para resolver administrativamente las peticiones de revisión que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros y resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan para determinarlo y deroga delegaciones anteriores en esta materia.
