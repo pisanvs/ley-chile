@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 287 de 30 de abril de 2008, se expropiaron los lotes de terrenos Nºs 3, 5 y 8, superficies 249, 38 y 371 m2, rol de avalúo 286-20, comuna de Los Vilos, para la obra "Mejoramiento Ruta D-875, sector Quilimarí - Guangualí, tramo Km. 1,79200 al Km. 16,00000", IV Región y se acordó el valor de la indemnización con su propietaria Carmen Patricia Méndez Pérez y Otros, ascendente a la cantidad de $4.221.461.
+
+Fiscal del Ministerio de Obras Públicas.
