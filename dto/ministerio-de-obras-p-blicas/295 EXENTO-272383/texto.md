@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 295 de fecha 30 de abril de 2008, se expropió el lote de terreno Nº 4, superficie 775 m2, rol Nº 445-71, comuna de Gorbea, para la obra "Reposición Construcción y Habilitación de Caminos para Vialidad Complementaria Concesión Internacional Ruta 5 Sur tramo Temuco - Río Bueno - Puerto Montt, Camino Conexión Calle de Servicio 2 (sector Santa Juana), Comuna de Gorbea, Provincia de Cautín, IX Región", y se acordó el valor de la indemnización con su propietaria América del Carmen Vergara Poblete, ascendente a la cantidad de $627.638.
+
+Fiscal del Ministerio de Obras Públicas.
