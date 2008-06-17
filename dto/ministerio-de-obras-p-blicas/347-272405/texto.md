@@ -1,0 +1,3 @@
+Por decreto M.O.P. Nº 347, de 26 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió para la Empresa Essbio S.A. el lote de terreno Nº 1, para la obra: Proyecto Construcción P.E.A.S. 1 de Coltauco, que figura a nombre de Gálvez Medina, Edelmira, Rol de avalúo 119-07, Comuna de Coltauco, VI Región, superficie 807,85 m2. La Comisión de Peritos fijó, con fecha 18 de marzo de 2008, el monto de la indemnización provisional en la cantidad de $7.674.5a75 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
