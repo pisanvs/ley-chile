@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº368 de 7 de mayo de 2008 de Serviu Metropolitano, se ordenó expropiación total, conforme D.L. Nº 2.186 de 1978, del inmueble ubicado en Industria 304, Rol de Avalúo Nº 3533-16, comuna de San Joaquín, de dominio de Juana del Carmen Rojas Carrasco, Eliseo del Carmen Rojas Carrasco, Manuel Jesús Rojas Carrasco, Alfredo Segundo Rojas Carrasco, Rosa María Rojas Carrasco, Gloria Andrea Rojas Carrasco, Sara Margarita Rojas Carrasco, Carlos Francisco Rojas Carrasco, Domingo José Rojas Carrasco y María Magdalena Carrasco González; correspondiente al Lote Nº 310, Tramo Curicó-Vespucio, del Proyecto Vial "Habilitación Corredor de Transporte Público Avda. Las Industrias". Comisión integrada por Manuel Ponce Hernández, Constructor Civil; María Cristina Camus, Arquitecto y María Inés Márquez Gutiérrez, Ingeniero Civil, según informe de 5 de diciembre de 2006, fijó monto provisional indemnización en $23.027.000.- pagadera al contado.
+
+Director (S) Serviu Metropolitano.
