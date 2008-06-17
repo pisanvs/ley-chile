@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 366, de 7 de mayo de 2008, de Serviu Metropolitano, se ordenó expropiación parcial, conforme D.L. Nº 2.186, de 1978, del inmueble ubicado en V. Mackenna Nº 8596, Sta. Julia, Rol de avalúo Nº 2.292-27, comuna de La Florida, de propiedad de Manuel Germán Villanueva Zamorano, Marisol Edulia Villanueva Zamorano, Jorge Eduardo Villanueva Zamorano, María Cecilia Villanueva Zamorano y Edulia de las Mercedes Zamorano Cabello, correspondiente al Lote Nº 25, del proyecto vial "Habilitación Corredor de Transporte Público Av. Vicuña Mackenna". Comisión integrada por Dionisio Rodríguez Astudillo, constructor civil; María Pilar Quiroga González, arquitecto, y Gastón Bravo Hurtado, ingeniero civil, según informe de 6 de septiembre de 2006, fijó monto provisional indemnización en $15.588.750, pagadera al contado.
+
+Director (S) Serviu Metropolitano.
