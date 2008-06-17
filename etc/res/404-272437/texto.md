@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº404 de 16 de mayo de 2008 de Serviu Metropolitano, se ordenó expropiación total, conforme D.L. Nº2.186 de 1978, del inmueble ubicado en Av. Oriente 3261 Aníbal Pinto, hoy Avenida Las Industrias 3261, Rol de Avalúo Nº2112-6, comuna de San Joaquín, de dominio de Irene del Carmen, Oscar Antonio y Daniel Alvaro, todos Santander Venegas y Oscar Antonio Santander Lagos, correspondiente al Lote Nº360, Tramo 4, del Proyecto Vial "Habilitación Corredor de Transporte Público Avda. Las Industrias". Comisión integrada por Ivanka Aliaga Jofré, Constructor Civil; Leonardo Bastías Tessada, Constructor Civil y Sebastián Santa María Cea, Arquitecto, según informe de 12 de enero de 2007, fijó monto provisional indemnización en $41.724.775.- pagadera al contado.
+
+Director (S) Serviu Metropolitano.
