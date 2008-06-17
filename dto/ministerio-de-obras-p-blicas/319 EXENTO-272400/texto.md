@@ -1,0 +1,5 @@
+Por decreto MOP (exento) Nº 319 de 19 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió los lotes de terreno Nº 2 y 21 para la obra: Mejoramiento Ruta J-310/120, sector Cruce Longitudinal (Aurora)-Teno, km.
+
+0,00000 a km. 6,01758, que figuran a nombre de Barrios Domingo e I. Municipalidad de Teno, roles de avalúo en trámite, 47-126, de la comuna de Teno, VII Región, superficies 1.687 y 104 m², respectivamente. La Comisión de Peritos con fecha 20 de julio de 2007 fijó el monto de la indemnización provisional en la cantidad de $1.161.800, para el lote Nº 2 y $162.000, para el lote Nº 21. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
