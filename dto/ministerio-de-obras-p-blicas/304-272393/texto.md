@@ -1,0 +1,3 @@
+Por decreto MOP Nº 304 de 30 de abril de 2008, se expropiaron los lotes de terrenos Nºs. 115-S, 115-S1 y 115-S2, superficies 1.480,00, 512,00 y 158,00 m², rol de avalúo 2207-19, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, Tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietaria Ana María Teodora Vliegenthart Arntz y Otros, ascendente a la cantidad de $7.770.648.
+
+Fiscal del Ministerio de Obras Públicas.
