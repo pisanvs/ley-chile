@@ -1,0 +1,3 @@
+Por decreto MOP Nº 303 de 30 de abril de 2008, se expropió el lote de terreno Nº 2, superficie 1.582,00 m², rol de avalúo Nº 1603-33, comuna de Santo Domingo, para la obra "Construcción Puente San Enrique Ruta G-80-I, Km. 26,40000 a Km. 27,01600", V Región, y se acordó el valor de la indemnización con su propietaria Filomena de las Mercedes Álvarez Cerda, ascendente a la cantidad de $54.656.768.
+
+Fiscal del Ministerio de Obras Públicas.
