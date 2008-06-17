@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 293 de fecha 30 de abril de 2008, se expropiaron los lotes de terreno Nºs 153-A y 154-A superficies 30 y 220 m2 respectivamente, rol Nº 2206-87, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, sector Quillaipe - La Arena, tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietario José Arturo Balcazar Igor, ascendente a la cantidad de $1.434.030.
+
+Fiscal del Ministerio de Obras Públicas.
