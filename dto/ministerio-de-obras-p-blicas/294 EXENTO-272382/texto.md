@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 294 de fecha 30 de abril de 2008, se expropió el lote de terreno Nº 12 superficie 247 m2, rol Nº 308-11, comuna de Purranque, para la obra "Mejoramiento Camino Ruta U-95, sector Coñico - Puerto Octay, Km. 7,10000 a Km. 22,50572, Comuna de Purranque y Puerto Octay, Provincia de Osorno, X Región", y se acordó el valor de la indemnización con su propietario Marcos Patricio Eduardo Meirelles Guizman, ascendente a la cantidad de $514.892.
+
+Fiscal del Ministerio de Obras Públicas.
