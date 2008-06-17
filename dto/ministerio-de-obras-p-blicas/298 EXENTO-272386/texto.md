@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 298, de fecha 30 de abril de 2008, se expropió el lote de terreno Nº 13, superficie 822 m2, rol Nº 2217-414, comuna de San Juan de La Costa, X Región para la obra "Reposición Puentes: Sin Nombre, Purrehuin, Cunamo, Purralhue y Negro, Camino Trinidad Puaucho, Ruta U-30, Km. 0.000 al Km. 29.060, Comuna San Juan de La Costa, Provincia de Osorno, X Región" y se acordó el valor de indemnización con su propietaria Sonia del Carmen Rivera Cárdenas y Otros, ascendente a la cantidad de $2.291.582, para el lote Nº 13.
+
+Fiscal del Ministerio de Obras Públicas.
