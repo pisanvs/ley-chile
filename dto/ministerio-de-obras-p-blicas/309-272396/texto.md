@@ -1,0 +1,5 @@
+Por decreto MOP Nº 309, de 30 de abril de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs 2, 3 y 4, para la obra
+
+"Conservación Camino 64E359, Calingasta - Observatorio Mamalluca, Km. 0,00000 a Km. 4,00000, comuna de Vicuña, Región de Coquimbo, que figuran a nombre de Cortés Araos Ignacio Ernest, roles de avalúo 253-22, comuna de Vicuña, superficies 518 m2., 164 m2. y 409 m2. La Comisión de Peritos fijó con fecha 26 de septiembre de 2007, complementada por acta de fecha 8 de noviembre de 2007, en las cantidades de $4.895.800, para el lote Nº 2, $1.610.400, para el lote Nº 3 y $3.182.100, para el lote Nº 4. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
