@@ -1,0 +1,3 @@
+Por decreto MOP Nº 275, de 15 de abril de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra: "Camino Ruta D-85, D-81, sector By Pass Illapel, Km. 0,00000 a Km.4,05474, que figura a nombre de Aguilera Bustamante Lindor, rol de avalúo 415-22, comuna de Illapel, provincia de Choapa, superficie 7.820 m². La Comisión de Peritos fijó con fecha 27 de noviembre de 2006, en la cantidad de $40.104.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
