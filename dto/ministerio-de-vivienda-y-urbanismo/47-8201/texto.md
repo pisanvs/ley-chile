@@ -242,7 +242,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Monumento Nacional»: edificio, conjunto o área declarada como tal conforme a la ley Nº 17.288 sobre Monumentos Nacionales, mediante decreto del Ministerio de Educación.
 
-«Muro cortafuego»: el que cumple con la resistencia al fuego requerida según el caso, de acuerdo con el artículo 4.3.3. de esta Ordenanza.
+«Muro cortafuego»: »: el que cumple con la resistencia al fuego requerida según el caso, de acuerdo con el artículo 4.3.3. de esta Ordenanza.
 
 «Muro de separación»: el que divide un predio o un edificio de un mismo dueño.
 
@@ -323,6 +323,10 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Proyectista»: profesional competente que tiene a su cargo la confección del proyecto de una obra sometida a las disposiciones de la Ley General de Urbanismo y Construcciones.
 
 «Proyecto»: conjunto de antecedentes de una obra que incluye planos, memorias, especificaciones técnicas y, si correspondiere, presupuestos.
+
+«Proyecto no residencial»: aquel en que el destino de infraestructura, de equipamiento y/o de actividades productivas es superior al 30% de la superficie total edificada y aquel en el cual el destino de vivienda es inferior al 70% de la superficie total edificada.
+
+«Proyecto residencial»: aquel en que el destino habitacional es superior al 70% de la superficie total edificada.
 
 «Publicidad»: acción que se realiza a través de medios de difusión para promover la venta de inmuebles.
 
@@ -428,7 +432,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Vivienda unifamiliar»: la destinada a residencia de una familia con salida independiente a una vía de uso público.
 
-«Volumen de la edificación«: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
+«Volumen de la edificación»: volumen resultante de unir los planos exteriores de una edificación para los efectos de representar la sombra que proyecta sobre los predios vecinos.
 
 «Volumen teórico»: volumen o envolvente máxima, expresado en metros cúbicos, resultante de la aplicación de las disposiciones sobre superficies de rasante, distanciamientos, antejardines y alturas máximas, cuando las hubiere, en un terreno determinado.
 
@@ -440,15 +444,15 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Zona de Protección Costera»: área de tierra firme de ancho variable, de una extensión mínima de 80 metros medidos desde la línea de la playa, en la que se establecen condiciones especiales para el uso del suelo, con el objeto de asegurar el ecosistema de la zona costera y de prevenir y controlar su deterioro.
 
-«Zona norte»: regiones I a IV.
+«Zona norte»: regiones I a IV y XV.
 
-«Zona sur»: regiones VIII a XII.
+«Zona sur»: regiones VIII a XII y XIV.
 
 «Zona vertical de seguridad»: vía vertical de evacuación protegida de los efectos del fuego que, desde cualquier nivel hasta el de salida, permite a los usuarios evacuar el edificio sin ser afectados por el fuego, humo o gases.
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
 
-> **Nota.** NOTA 2 El artículo primero transitorio del decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
+> **Nota.** NOTA 2 El artículo primero transitorio del Decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
@@ -2632,11 +2636,11 @@ El ángulo máximo de las rasantes con respecto al plano horizontal, expresado e
 
 Regiones Angulo de las rasantes
 
-I a III Región 80°
+I a III y XV Región 80°
 
 IV a IX Región y R.M. 70°
 
-X a XII Región 60°
+X a XII y XIV Región 60°
 
 En cualquier caso, los edificios aislados de cinco o más pisos ubicados en zonas sin límite de altura, no podrán ocupar un volumen edificado superior al 90% del volumen teórico.
 
@@ -2704,7 +2708,7 @@ Las instalaciones y equipos que sobrepasen la altura de 2 m, tales como salas de
 
 Las salas de máquinas, chimeneas, estanques, miradores y similares elementos exteriores ubicados en la parte superior de los edificios podrán sobrepasar la altura de edificación máxima permitida, siempre que se encuentren contempladas en el proyecto aprobado, cumplan con las rasantes correspondientes y no ocupen más del 20% de la superficie de la última planta del edificio. El piso mecánico no se contabilizará para la altura máxima permitida siempre que se ubique en la parte superior de los edificios y se contemplen paramentos que impidan la visión de las instalaciones desde el exterior.
 
-Los Planes Reguladores Comunales, según sean las características ambientales, topográficas o de asoleamiento, podrán disponer mayores exigencias que las señaladas en las tablas contenidas en el presente artículo. Excepcionalmente, para las regiones I, II, XI y XII, los Planes Reguladores Comunales podrán disponer menores exigencias.
+Los Planes Reguladores Comunales, según sean las características ambientales, topográficas o de asoleamiento, podrán disponer mayores exigencias que las señaladas en las tablas contenidas en el presente artículo. Excepcionalmente, para las Regiones I, II, XI, XII y XV, los Planes Reguladores Comunales podrán disponer menores exigencias.
 
 #### Artículo 2
 
@@ -2742,7 +2746,9 @@ a) Que el terreno enfrente en al menos 20 metros a una vía existente o proyecta
 
 En el caso que la calzada no se encuentre materializada con las características señaladas, deberá ser ensanchada por el proyecto, hasta encontrarse o empalmarse con una calzada existente de al menos el mismo ancho.
 
-b) Que se ejecute un proyecto de mejoramiento en el espacio público que enfrenta el terreno, en toda el área comprendida entre la línea oficial y la solera, de acuerdo al diseño y características establecidos en el respectivo plan seccional.
+b) Que se ejecute un proyecto de mejoramiento en el espacio público que enfrenta el terreno, en toda el área comprendida entre la línea oficial y la solera, de acuerdo al diseño y características establecidos en el respectivo plano seccional.
+
+Sólo se podrán hacer las exigencias a que alude la letra b) del inciso anterior, cuando las Municipalidades hayan establecido las características y el diseño de los proyectos de mejoramiento del espacio público mediante planos seccionales.
 
 Las obras que se deban realizar en conformidad al presente artículo deberán contar con recepción final previa o conjuntamente con las obras de edificación.
 
@@ -2788,7 +2794,7 @@ No corresponderá a las Direcciones de Obras Municipales, ni al Revisor Independ
 
 En ningún caso el proyecto podrá superar las superficies de sombra parciales que proyecta el volumen teórico hacia las orientaciones, oriente, poniente y sur, ni por ende la superficie de sombra total producida por dicho volumen teórico edificable en el predio, así como tampoco su altura total.
 
-Adicionalmente, sin perjuicio de los distanciamientos mínimos establecidos en el artículo 2.6.3. o en el respectivo Instrumento de Planificación Territorial, las edificaciones aisladas que se acojan al artículo 2.6.11., además deberán cumplir a partir de los 10,5 m. de altura, con un distanciamiento hacia los predios vecinos no inferior a 1/6, 1/5 o 1/4 de la altura total de la edificación, según se trate de edificaciones ubicadas en la zona norte, centro o sur, conforme se definen en la tabla de rasantes del artículo 2.6.3. de esta ordenanza. En el caso de la edificación aislada por sobre la edificación continua, la altura total de la edificación para aplicar dicho distanciamiento, se medirá a partir de la altura máxima permitida para la edificación continua.
+Adicionalmente, sin perjuicio de los distanciamientos mínimos establecidos en el artículo 2.6.3. o en el respectivo Instrumento de Planificación Territorial, las edificaciones aisladas que se acojan al artículo 2.6.11., además deberán cumplir a partir de los 10,5 m. de altura, con un distanciamiento hacia los predios vecinos no inferior a 1/6, 1/5 o 1/4 de la altura total de la edificación, según se trate de edificaciones ubicadas en cada una de las agrupaciones de regiones indicadas en la tabla de rasantes inserta en el inciso sexto del artículo 2.6.3. de esta Ordenanza, respectivamente. En el caso de la edificación aislada por sobre la edificación continua, la altura total de la edificación para aplicar dicho distanciamiento, se medirá a partir de la altura máxima permitida para la edificación continua.
 
 #### Artículo 2
 
@@ -2804,7 +2810,7 @@ El citado nivel medio corresponderá al suelo natural o a la altura máxima de l
 
 4. Las superficies de sombra se trazarán sobre el plano sólo en las orientaciones sur, oriente y poniente, abatiendo los vértices superiores de los volúmenes según el ángulo, con respecto a la horizontal y expresado en grados sexagesimales, que para cada caso señala la siguiente tabla:
 
-Sombra I a III IV a IX X a XII
+Sombra I a III y XV IV a IX X a XII y XIV
 
 proyectada Región Región y R.M. Región
 
@@ -3910,7 +3916,7 @@ Estas instalaciones deberán cumplir sólo con las especificaciones del fabrican
 
 #### Artículo 4
 
-1.13. Los edificios colectivos no contiguos que forman parte de un mismo proyecto, deberán contemplar una distancia mínima libre horizontal frente a las fachadas que contemplen vanos de recintos habitables, equivalente a 1/4, 1/3 o 1/2 de la altura del respectivo piso en relación al suelo natural, según se trate de edificaciones ubicadas en la zona norte, centro o sur, conforme se definen en la tabla de rasantes del artículo 2.6.3. de esta Ordenanza. Dicha distancia libre se medirá en forma perpendicular a la fachada respectiva.
+1.13. Los edificios colectivos no contiguos que forman parte de un mismo proyecto, deberán contemplar una distancia mínima libre horizontal frente a las fachadas que contemplen vanos de recintos habitables, equivalente a 1/4, 1/3 o 1/2 de la altura del respectivo piso en relación al suelo natural, según se trate de edificaciones ubicadas en cada una de las agrupaciones de regiones indicadas en la tabla de rasantes inserta en el inciso sexto del artículo 2.6.3. de esta Ordenanza, respectivamente. Dicha distancia libre se medirá en forma perpendicular a la fachada respectiva.
 
 En el caso de fachadas que contemplen sectores con vanos de recintos habitables y otros sin ellos, la distancia mínima horizontal antes señalada deberá cumplirse sólo en el sector que contempla dichos vanos.
 
@@ -5074,15 +5080,15 @@ ___________|____________________|_____________________|
 
 |==========|=========|==========|==========|==========|
 
-|I a IV | 14 | 6 | 8 | 6 |
+|I a IV y XV 14 | 6 | 8 | 6 |
 
 |V a VII y | | | | |
 
 |RM | 17 | 7 | 8 | 6 |
 
-|VIII a XII| 20 | 8 | 8 | 6 |
+|VIII a XII 20 | 8 | 8 | 6 |
 
-|__________|_________|__________|__________|__________|
+|_y XIV____|_________|__________|__________|__________|
 
 En los locales de Educación Superior y de Adultos se autorizará, como complemento, el uso de sistemas mecánicos de ventilación e iluminación artificial, cuando los niveles mínimos establecidos no se logren con ventilación e iluminación natural.
 
@@ -5150,6 +5156,8 @@ Los recintos nombrados en los incisos primero y segundo del presente artículo d
 
 5.7. Los hogares estudiantiles y los locales escolares, exceptuados los del nivel superior y educación de adultos, deberán consultar superficies destinadas a patio, aptas para el esparcimiento de los alumnos y para el desarrollo de actividades de educación física, deportivas, celebraciones y otras, cuyo tamaño se indica en la tabla siguiente. Una parte de dicha superficie deberá estar cubierta conforme a lo señalado a continuación:
 
+.
+
 Los patios, para los niveles general básico y medio, deberán tener una ancho mínimo de 5,50 m, pudiendo ubicarse en niveles distintos al del terreno natural.
 
 La superficie total de patio exigida, se calculará sumando todas las superficies descubiertas y las cubiertas, más las circulaciones inmediatas lateralmente abiertas.
@@ -5158,7 +5166,7 @@ La superficie total de patio exigible a ser cubierta, podrá cumplirse imputando
 
 La parte cubierta del patio tendrá una superficie máxima exigible de 100 m2, podrá ser abierta por uno a más lados o ser totalmente cerrada y deberá contar con pavimento y con un material de cubierta adecuado a la zona, de acuerdo a las características climáticas del lugar, que garantice una permanencia protegida a los alumnos.
 
-Si la sala cuna se ubica en pisos superiores al del terreno natural, la superficie total de patio será, en todo el país, de 20 m2 hasta 20 alumnos, la que se incrementará en 1 m2 por alumno sobre los 20 alumnos, con un máximo exigible de 100 m2. La superficie resultante podrá ubicarse en una terraza u otro recinto. Desde la VII a la XII Región dicha superficie deberá ser cubierta.
+Si la sala cuna se ubica en pisos superiores al del terreno natural, la superficie total de patio será, en todo el país, de 20 m2 hasta 20 alumnos, la que se incrementará en 1 m2 por alumno sobre los 20 alumnos, con un máximo exigible de 100 m2. La superficie resultante podrá ubicarse en una terraza u otro recinto. Desde la VII a la XII y en la XIV Regiones dicha superficie deberá ser cubierta.
 
 Los locales escolares de niveles generales básico y medio con capacidad igual o superior a 135 alumnos, deberán contar con una superficie mínima de 18 m por 30 m destinada a una multicancha pavimentada, la cual podrá ser imputada a la superficie total de patio exigida. Excepcionalmente, en los locales existentes en que no sea posible emplazar al interior del establecimiento una multicancha de las dimensiones señaladas, se permitirá su localización en otro predio emplazado en la misma comuna o en una comuna adyacente donde exista o se haya aprobado la construcción de una multicancha. En tal caso el propietario deberá acreditar junto a la solicitud del permiso ante la Dirección de Obras Municipales la compra, el arriendo o el título que le permita la ocupación de dicho terreno o instalación.
 
@@ -5167,6 +5175,8 @@ Cuando los locales escolares atiendan además al jardín infantil, deberán cont
 En casos calificados por el Director de Obras Municipales, previo informe favorable de las respectivas Secretarías Regionales Ministeriales de Educación y de Vivienda y Urbanismo, se podrá rebajar hasta en un 50% los estándares mínimos de patios para los niveles de educación general básico y medio y básico especial, cuando se trate de establecimientos existentes al 17 de noviembre de 1997, fecha de publicación en el Diario Oficial de la ley Nº 19.532, que amplíen sus instalaciones para acogerse al régimen de jornada escolar completa diurna.
 
 En los casos señalados en el inciso anterior, el Director de Obras Municipales deberá autorizar la construcción del proyecto, si los patios considerados cumplen con las disposiciones de este artículo y si las respectivas Secretarías Regionales Ministeriales de Educación y de Vivienda y Urbanismo han informado favorablemente la disminución de dicho estándar.
+
+> **Nota.** La letra a) del Nº 7 del Artículo único del Decreto 94, Vivienda, publicado el 18.06.2008, modificó el cuadro contenido en el inciso 1º del presente artículo, en el sentido de reemplazar las locuciones: "I a XII Reg. y RM" por "I a XV Regiones y RM"; "I a VI Reg. y RM" por "I a VI Regiones, RM y XV Región", y "VII a XII Reg." por "VII a XII y XIV Regiones".
 
 #### Artículo 4
 
@@ -8986,7 +8996,7 @@ Con todo, la vivienda social deberá tener a lo menos tres recintos: un dormitor
 
 Sin embargo, cuando se trate de conjuntos de viviendas económicas destinados a comunidades nativas, la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo podrá autorizar soluciones diferentes a las señaladas en el inciso anterior, previo informe favorable de la Corporación Nacional de Desarrollo Indígena.
 
-No obstante que la superficie máxima de una vivienda económica es de 140 m2 edificados, en las viviendas económicas que se construyan en las Regiones IX, X, XI y XII, podrán agregarse construcciones exteriores a la vivienda, que no incluyan instalaciones para servicios higiénicos, y cuya superficie no sobrepase 16 m2. Esta construcción adicional exterior no será computable para los efectos de aplicar a dicha vivienda los beneficios, franquicias y exenciones que contempla el D.F.L. Nº 2, de 1959.
+No obstante que la superficie máxima de una vivienda económica es de 140 m2 edificados, en las viviendas económicas que se construyan en las Regiones IX, X, XI, XII, y XIV, podrán agregarse construcciones exteriores a la vivienda, que no incluyan instalaciones para servicios higiénicos, y cuya superficie no sobrepase 16 m2. Esta construcción adicional exterior no será computable para los efectos de aplicar a dicha vivienda los beneficios, franquicias y exenciones que contempla el D.F.L. Nº 2, de 1959.
 
 ## Capítulo 5
 
