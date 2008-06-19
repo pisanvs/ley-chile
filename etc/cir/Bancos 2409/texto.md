@@ -2398,7 +2398,7 @@ a) Deben transferirse títulos completos y extendidos cumpliendo todas las forma
 
 b) Las cesiones serán sin responsabilidad de pago del cedente ni con condiciones que obliguen o permitan al banco readquirir los créditos cedidos.
 
-c) La cesión de créditos a entidades no sujetas a la fiscalización de esta Superintendencia deberá contar con el consentimiento previo del deudor, salvo que se trate de créditos vencidos o castigados. El deudor dará su consentimiento por escrito y para solicitarlo el banco deberá informarle quien será su nuevo acreedor y dónde tendrá que servir sus créditos en caso de otorgarlo.
+c) La cesión de créditos a entidades no sujetas a la fiscalización de esta Superintendencia deberá contar con el consentimiento previo del deudor, salvo que se trate de créditos vencidos o castigados. Se podrá prescindir de ese consentimiento cuando se trate de créditos pagaderos en cuotas, en que una o más de ellas hayan cumplido 90 días en mora. La cesión podrá comprender todas las cuotas vencidas y también aquellas que no han vencido. En los demás casos el deudor dará su consentimiento por escrito y, para solicitarlo, el banco deberá informarle quien será su nuevo acreedor y dónde tendrá que servir sus créditos en caso de otorgarlo.
 
 d) Las cesiones de créditos a una parte relacionada requerirá de la autorización previa de esta Superintendencia. La respectiva autorización se solicitará por escrito, acompañando la misma información que se indica en el N° 2 siguiente.
 
@@ -7552,7 +7552,7 @@ Lo anterior exige que se especifiquen todos los cobros establecidos por estos co
 
 5.1.- Determinación y cobro de comisiones y/o cargos.
 
-Las comisiones y/o cargos deberán fijarse por períodos no inferiores a un año. Las comisiones y/o cargos constituirán todos los cobros necesarios para la mantención operativa de las tarjetas de crédito en sus distintas modalidades de uso. El plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará la nueva base de cálculo o el cambio de tarifa. Esta información, conjuntamente con aquella sobre el cobro de intereses a que se refiere el numeral siguiente, se informará en el estado de cuenta o en un anexo que, con ese objeto, deberá acompañarse al mismo. Dicho plan no podrá modificarse durante el período de vigencia que se haya establecido, salvo que se trate de cambios que signifiquen una disminución o eliminación de determinados cobros incluidos en él.
+Las comisiones y/o cargos deberán fijarse por períodos no inferiores a un semestre. Las comisiones y/o cargos constituirán todos los cobros necesarios para la mantención operativa de las tarjetas de crédito en sus distintas modalidades de uso. El plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará la nueva base de cálculo o el cambio de tarifa. Esta información, conjuntamente con aquella sobre el cobro de intereses a que se refiere el numeral siguiente, se informará en el estado de cuenta o en un anexo que, con ese objeto, deberá acompañarse al mismo. Dicho plan no podrá modificarse durante el período de vigencia que se haya establecido, salvo que se trate de cambios que signifiquen una disminución o eliminación de determinados cobros incluidos en él.
 
 Al tratarse de comisiones y/o cargos cobrados en forma anticipada, como lo puede ser una comisión por mantención, referida a un período, se dejará constancia de la forma en que se procederá con las eventuales devoluciones en caso de poner término anticipadamente al contrato.
 
@@ -10922,11 +10922,11 @@ INVERSIONES EN SOCIEDADES EN EL PAIS.
 
 Los bancos pueden participar en las siguientes sociedades constituidas en el país, con la autorización previa de esta Superintendencia:
 
-a) Sociedades filiales según lo establecido en el artículo 70 de la Ley General de Bancos y en el artículo 23 bis del D.L. N° 3.500, tratadas en el título II de este Capítulo;
+a) Sociedades filiales según lo establecido en los artículos 70 y 70 bis de la Ley General de Bancos y en el artículo 23 bis del D.L. N° 3.500, tratadas en el título II de este Capítulo;
 
 b) Sociedades de apoyo al giro según lo dispuesto en el artículo 74 de la Ley General de Bancos y lo instruido en el título III de este Capítulo; y,
 
-c) Inversiones minoritarias en sociedades, mantenidas de conformidad con lo dispuesto en el inciso segundo del artículo 72 de la Ley General de Bancos, cuyo objeto sea alguno de los indicados en su artículo 70, tratadas en el título IV de este Capítulo.
+c) Inversiones minoritarias en sociedades, mantenidas de conformidad con lo dispuesto en el inciso segundo del artículo 72 de la Ley General de Bancos, cuyo objeto sea alguno de los indicados en sus artículos 70 y 70 bis, tratadas en el título IV de este Capítulo.
 
 2.- Límite de inversiones.
 
@@ -10942,7 +10942,7 @@ Por consiguiente, las sociedades filiales de un banco, además de atenerse a las
 
 ### 1. Negocios que pueden efectuar las filiales
 
-En concordancia con las disposiciones del artículo 70 de la Ley General de Bancos, los bancos sólo podrán tener participación en sociedades filiales que complementan su giro, constituidas como se indica a continuación:
+En concordancia con las disposiciones de los artículos 70 y 70 bis de la Ley General de Bancos, los bancos sólo podrán tener participación en sociedades filiales que complementan su giro, constituidas como se indica a continuación:
 
 - Según la letra a) del artículo 70:
 
@@ -10986,11 +10986,21 @@ n) Sociedades inmobiliarias en los términos señalados en la Ley N° 19.281 y q
 
 - Según el D.L. N° 3.500:
 
-o) Sociedades administradoras de carteras de recursos previsionales, a que se refiere el artículo 23 bis del D.L. N° 3.500.
+- Según el artículo 70 bis:
+
+o) Empresas de asesoría previsional, de acuerdo con lo indicado en el D.L. N° 3.500 y sujetas a las condiciones indicadas en el artículo 70 bis de la Ley General de Bancos.
+
+p) Sociedades administradoras de carteras de recursos previsionales, a que se refiere el artículo 23 bis del D.L. N° 3.500.
 
 Además de las sociedades antes mencionadas, la ley permite la constitución de filiales que presten servicios financieros con el giro específico que sea determinado por esta Superintendencia por norma de carácter general.
 
-Cada sociedad filial tendrá como objeto exclusivo el giro que le corresponda de acuerdo a la actividad para la cual se crea, según lo señalado en los literales anteriores, salvo en el caso de las sociedades indicadas en la letra a), las que podrán complementar su giro principal con la actividad de asesorías financieras a que se refiere la letra j), siempre que lo admitan las normas pertinentes.
+Cada sociedad filial tendrá como giro exclusivo el que le corresponda de acuerdo con la actividad para la cual se crea, según lo señalado en los literales anteriores, salvo en los siguientes casos y siempre que lo admitan las normas pertinentes:
+
+- **i)** las sociedades indicadas en la letra
+
+- **a)** podrán complementar su giro con la actividad de asesoría financiera señalada en la letra j); y, ii) las sociedades señaladas en la letra
+
+- **f)** podrán ejercer también el giro de asesoría previsional a que se refiere la letra o).
 
 Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras n) y ñ), como asimismo las que se rigen por el D.L. N° 3.500 indicadas en la letra o), deben estar constituidas como sociedades anónimas.
 
@@ -11000,13 +11010,13 @@ La razón social de las sociedades de que trata este título deberá indicar cla
 
 La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en la que ésta controla directamente o a través de otra persona natural o jurídica, más del 50 por ciento del capital con derecho a voto, o simplemente del capital si se tratare de una sociedad no constituida por acciones, o bien, si puede elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores.
 
-Las filiales a que se refiere el artículo 70 de la Ley General de Bancos deben cumplir esas condiciones, pudiendo constituirse una sociedad con ese objeto o bien adquirir tal control en una empresa que ya se encuentre en funcionamiento.
+Las filiales a que se refieren los artículos 70 y 70 bis de la Ley General de Bancos deben cumplir esas condiciones, pudiendo constituirse una sociedad con ese objeto o bien adquirir tal control en una empresa que ya se encuentre en funcionamiento.
 
 En todo caso, los socios que participen directa o indirectamente en el capital con un porcentaje igual o superior al 10%, deben cumplir con los requisitos que exige el artículo 36 de la Ley General de Bancos.
 
 ### 3. Requisitos para constituir filiales
 
-Los bancos que deseen constituir una sociedad filial de acuerdo con lo establecido en el artículo 70 de la Ley General de Bancos o en el artículo 23 bis del D.L. N° 3.500, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
+Los bancos que deseen constituir una sociedad filial de acuerdo con lo establecido en los artículos 70 y 70 bis de la Ley General de Bancos o en el artículo 23 bis del D.L. N° 3.500, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
 
 a) Mantener el capital básico y patrimonio efectivo mínimos que exige el artículo 66 de la Ley General de Bancos, tratados en el Capítulo 12-1 de esta Recopilación.
 
@@ -11038,7 +11048,7 @@ Los cambios en la participación de terceros en el capital de las filiales deber
 
 ### 7. Fiscalización de las sociedades filiales
 
-Las sociedades a que se refiere la letra a) del artículo 70 de la Ley General de Bancos, como asimismo las administradoras de fondos de vivienda (AFV), están sujetas a la fiscalización de la Superintendencia de Valores y Seguros. Por su parte, las sociedades administradoras de carteras de recursos previsionales son fiscalizadas por la Superintendencia de Administradoras de Fondos de Pensiones. Todas estas sociedades deben regirse por las normas dictadas por sus respectivos organismos fiscalizadores, dentro de las condiciones generales establecidas por esta Superintendencia para desarrollo del giro de las filiales de bancos. No obstante lo anterior, de conformidad con lo dispuesto en el artículo 70 de la Ley General de Bancos y para los efectos de su consolidación con el banco matriz, esta Superintendencia podrá requerir directamente de las sociedades filiales no sometidas a su fiscalización sus estados financieros, así como solicitar, con el objeto de conocer su solvencia, la información que estime necesaria para ese fin y revisar, con esa misma finalidad, todas las operaciones, libros, registros, cuentas y documentos que sean del caso.
+Las sociedades a que se refiere la letra a) del artículo 70 y el artículo 70 bis de la Ley General de Bancos, deben regirse por las normas dictadas por sus respectivos organismos fiscalizadores, dentro de las condiciones generales establecidas por esta Superintendencia para desarrollo del giro de las filiales de bancos. No obstante lo anterior, de conformidad con lo dispuesto en el artículo 70 de la Ley General de Bancos y para los efectos de su consolidación con el banco matriz, esta Superintendencia podrá requerir directamente de las sociedades filiales no sometidas a su fiscalización sus estados financieros, así como solicitar, con el objeto de conocer su solvencia, la información que estime necesaria para ese fin y revisar, con esa misma finalidad, todas las operaciones, libros, registros, cuentas y documentos que sean del caso.
 
 Todas las sociedades filiales distintas de las mencionadas en el párrafo precedente quedan sujetas a la fiscalización de esta Superintendencia y, por lo tanto, les son aplicables las disposiciones del Título I de la Ley General de Bancos y las normas que este Organismo les imparta, de acuerdo con las facultades que le confiere la ley.
 
@@ -11182,11 +11192,11 @@ Los estados financieros anuales de las empresas de apoyo deberán ser auditados 
 
 ### IV. INVERSIONES MINORITARIAS EN SOCIEDADES
 
-El inciso segundo del artículo 72 de la Ley General de Bancos, permite a los bancos participar en forma minoritaria en una sociedad que tenga alguno de los objetos indicados en el artículo 70, esto es, aquellos que la ley permite a las filiales que complementan el giro, tratadas en el título II del presente Capítulo.
+El inciso segundo del artículo 72 de la Ley General de Bancos, permite a los bancos participar en forma minoritaria en una sociedad que tenga alguno de los objetos indicados en los artículos 70 y 70 bis, esto es, aquellos que la ley permite a las filiales que complementan el giro, tratadas en el título II del presente Capítulo.
 
 La participación minoritaria en una de esas sociedades al amparo de lo dispuesto en esa disposición legal, requiere del cumplimiento de las siguientes condiciones básicas:
 
-a) Que se trate de una sociedad fiscalizada por esta Superintendencia, o bien, por la Superintendencia de Valores y Seguros.
+a) Que se trate de una sociedad fiscalizada por esta u otras superintendencias.
 
 b) Que la participación tenga el carácter de una inversión permanente, permitiendo al banco elegir directamente al menos un miembro del directorio o de la administración.
 
@@ -11194,7 +11204,7 @@ c) Que los demás socios o accionistas que posean un 10% o más de participació
 
 d) Que el banco obtenga la autorización previa de esta Superintendencia, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en los literales del N° 3 del título II de este Capítulo.
 
-Como es natural, los propósitos que el banco persigue con una inversión en una sociedad que no controlará, deberán explicarse en la solicitud que se presente a esta Superintendencia
+Como es natural, los propósitos que el banco persigue con una inversión en una sociedad que no controlará, deberán explicarse en la solicitud que se presente a esta Superintendencia.
 
 ### V. OPERACIONES ENTRE PARTES RELACIONADAS
 
@@ -20758,7 +20768,7 @@ b) cuando hayan trascurrido seis años a contar de la fecha en que el pago del c
 
 Esta Superintendencia estima que la información que debe mantener sobre esta materia para el uso de las instituciones fiscalizadas, cumple el propósito deseado por el legislador cuando éstas, en su condición de acreedoras, ejercen la diligencia ordinaria y demostrativa de la voluntad de recuperar sus acreencias, como, por lo demás, es su deber hacerlo y que contraviene esa intención incluir, en un registro oficial de deudores del sistema, la información de personas respecto de quienes no aparece demostrado interés en exigírseles el cumplimiento de sus obligaciones eficazmente, o de aquellas cuya condición de deudores no se encuentre establecida de un modo formalmente incuestionable.
 
-Atendido lo anterior, se dispone que las deudas que presenten una morosidad igual o superior a 90 días, sólo se informarán cuando tengan un título ejecutivo válido y vigente y mientras se encuentren siguiendo las ejecuciones correspondientes. Terminado por cualquier motivo el juicio ejecutivo, debe dejarse de informar la deuda y sólo se la podrá incluir nuevamente si se ha obtenido un nuevo título ejecutivo contra el deudor como, por ejemplo, si éste ha reconocido un documento o confesado la deuda.
+Atendido lo anterior, se dispone que las deudas que presenten una morosidad igual o superior a 90 días, sólo se informarán si se tiene un título ejecutivo válido y vigente y siempre que se estén siguiendo las gestiones de cobro correspondientes. En el caso de ejercerse el cobro judicial, si por cualquier motivo el juicio ejecutivo se da por terminado, debe dejarse de informar la deuda y sólo se la podrá incluir nuevamente si se ha obtenido un nuevo título ejecutivo contra el deudor como, por ejemplo, si éste ha reconocido un documento o confesado la deuda.
 
 En virtud de lo anteriormente expuesto, se definen los siguientes principios para la inclusión o exclusión de los créditos morosos por 90 días o más, en la información refundida sobre deudores:
 
