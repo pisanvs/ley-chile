@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.451, de 10 de junio de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 200111623, presentada por Inversiones Concoto Limitada, hoy PESQUERA LOS FIORDOS LIMITADA, para instalar y operar un centro de cultivo ubicado en canal Avellano, al este de Isla Chaffers, sector 1, XI Región.
+
+Valparaíso, 10 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
