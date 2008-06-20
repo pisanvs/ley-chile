@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.226, de 14 de mayo de 2008, de esta Subsecretaría, modifícase la resolución Nº 3.185, de 2007, de esta Subsecretaría, que autorizó a RAÚL FEDERICO CASTRO VILLARROEL para instalar colectores en Llancahué, caleta Los Baños, X Región, en el sentido de ampliar el plazo para la instalación de los colectores, por un período de seis meses, hasta el 12 de noviembre de 2008.
+
+Valparaíso, 14 de mayo de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
