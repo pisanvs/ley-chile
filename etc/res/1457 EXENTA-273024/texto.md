@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.457, de 10 de junio de 2008, de esta Subsecretaría, modifícase el numeral 6º de la resolución exenta Nº 193 de 2008, modificada mediante resolución exenta Nº 740 de 2008, ambas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del Proyecto denominado "Monitoreo y seguimiento de la pesquería artesanal de merluza del sur (Merluccius australis) de aguas interiores de la Décima Región, Zona de Puerto Montt, año 2008", en el sentido de señalar que los límites de captura autorizados, en los meses que se indica, serán los siguientes:
+
+Enero: 136,954 toneladas; Febrero: 136,954 toneladas; Marzo: 136,954 toneladas; Abril: 136,954 toneladas; Mayo: 136,954 toneladas; Junio: 183,908 toneladas; Julio: 90 toneladas; Septiembre: 136,954 toneladas; Octubre: 136,954 toneladas; Noviembre: 136,954 toneladas; Diciembre: 136,961 toneladas.
+
+Déjase sin efecto la resolución exenta Nº 1.429 de 2008, de esta Subsecretaría de Pesca, en virtud del contenido de la presente resolución.
+
+Valparaíso, 10 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
