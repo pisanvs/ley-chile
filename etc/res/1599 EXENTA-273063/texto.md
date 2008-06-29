@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.599 de 23 de junio de 2008 de esta Subsecretaría, recházase la solicitud Nº207106021, presentada por EMPRESAS AQUACHILE S.A., para modificar la concesión de acuicultura ubicada en Bahía Quellón, al noroeste de Punta Paula, Isla Coldita, X Región, transferida a la peticionaria por resolución Nº1212 de 1999, de la Subsecretaría de Marina.
+
+Valparaíso, 23 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
