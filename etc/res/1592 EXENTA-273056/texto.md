@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.592 de 23 de junio de 2008 de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº206101011, presentada por MARÍA RIOLA MARLENE GONZÁLEZ MONTIEL, para instalar y operar un centro de cultivo ubicado en Canal Cholgo, al este de Caleta Los Baños, Isla Llancahué, X Región.
+
+Valparaíso, 23 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
