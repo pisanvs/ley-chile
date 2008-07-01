@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.509, de 17 de junio de 2008 de esta Subsecretaría, modifícase la resolución Nº 31, de 2008, de esta Subsecretaría que autorizó a MARÍA DEL CARMEN ZÚÑIGA HERNÁNDEZ, para instalar colectores en sector suroeste de Punta Iglesia, Estero Reloncaví, X Región, en el sentido de ampliar su plazo de vigencia por seis meses contados de la fecha de la presente resolución.
+
+Valparaíso, 17 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
