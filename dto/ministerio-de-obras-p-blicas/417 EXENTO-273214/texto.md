@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 417 de 30 de mayo de 2008, se expropió el lote de terreno Nº 41-D superficie 765 m², Rol Nº 175-114, comuna de Curepto, VII Región para la obra "Camino Ruta K-16, sector: Curepto - Puente Lautaro, tramo Km. 73,30000 al Km. 81,91430", y se acordó el valor de indemnización con su propietaria Cira Rosa del Rosario Muñoz Guerrero, ascendente a la cantidad de $482.329.
+
+Fiscal del Ministerio de Obras Públicas.
