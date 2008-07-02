@@ -1,0 +1,3 @@
+Por decreto MOP Nº 323 de 30 de abril de 2008, se expropiaron los lotes de terrenos Nº 17 y 18, superficies 3.505,00 y 3.824 m2, Rol Nº 3219-678, comuna de San Juan de la Costa, X Región para la obra "Reposición Puentes: Sin Nombre, Puerrehuin, Cunamo, Purralhue y Negro, Camino Trinidad Puaucho, Ruta U-30, Km. 0.000 al Km. 29.060" y se acordó el valor de indemnización con su propietario Heriberto Catalán Montecinos, ascendentes a la cantidad de $12.050.131.
+
+Fiscal del Ministerio de Obras Públicas.
