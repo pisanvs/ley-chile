@@ -1,0 +1,15 @@
+CONCESIÓN DE SERVICIOS PÚBLICOS SANITARIOS
+
+Por decreto supremo Nº 299, del Ministerio de Obras Públicas, de fecha 25 de abril de 2008, tramitado el 4 de junio de 2008, se otorga a la Empresa de Servicios Sanitarios de San Isidro S.A., RUT Nº 96.889.730-6, domiciliada en Avenida Central Nº 681, comuna de Quilicura, Santiago, las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas que la habilitan para atender los sectores denominados PH1 "Puertas de Padre Hurtado Oriente", y PH2 "Puertas de Padre Hurtado Poniente", comuna de Padre Hurtado, Región Metropolitana.
+
+Las áreas comprendidas en la concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas que se otorgan se encuentran identificadas y delimitadas en los planos codificados con el NºSC-13-49, denominados "ESSSI Empresa de Servicios Sanitarios San Isidro S.A. Solicitud de Concesión Puertas de Padre Hurtado. Territorio Operacional de Agua Potable, Planta General" y "ESSSI Empresa de Servicios Sanitarios San Isidro S.A. Solicitud de Concesión Puertas de Padre Hurtado. Territorio Operacional de Aguas Servidas, Planta General", que forman parte integrante del mismo decreto.
+
+El primer establecimiento (año 2012) la concesionaria consulta dar servicio a 4.981 arranques de agua potable e igual número de uniones domiciliarias de aguas servidas. En tanto, para el final del período (año 2022) dará servicio a 14.125 arranques e igual número de uniones domiciliarias de alcantarillado.
+
+El servicio público de producción de agua potable para los primeros cinco años, será abastecido por las fuentes que se indican en el numeral 3.1 letra a) de la respectiva Ficha de Antecedentes Técnicos sobre las cuales la concesionaria tiene un contrato de promesa de compraventa de derechos de aprovechamiento de aguas, suscrito ante el Notario Público de Santiago, Sr. Juan Ricardo San Martín Urrejola, titular de la Cuadragésima Tercera Notaría de Santiago, con fecha 26 de marzo de 2007, que cumple con lo dispuesto en el D.S. MOP Nº1.199/04, cuyos derechos se individualizan en los informes de títulos respectivos, bienes que serán afectados a la concesión, todos documentos que forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la referida Ficha de Antecedentes Técnicos (F.A.T.) Nº SC-13-49, que forma parte integrante del presente decreto.
+
+Nivel tarifario, cronograma de inversiones, garantías de resguardo y otros en decreto extractado, que se redujo a escritura pública con fecha 18 de junio de 2008 ante el Notario Suplente del Titular de la Cuadragésima Quinta Notaría de Santiago, don René Benavente Cash.
+
+Santiago, junio de 2008.- David Peralta Anabalón, Superintendente de Servicios Sanitarios Subrogante.
