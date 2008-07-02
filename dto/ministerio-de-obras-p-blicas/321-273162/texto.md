@@ -1,0 +1,3 @@
+Por decreto MOP Nº 321, de fecha 30 de abril de 2008, se expropió el lote de terreno Nº 21-A, superficie 162,00 m2, rol Nº 5005-19, comuna de Talca, VII Región, para la obra: "Habilitación Avda. Circunvalación Río Claro en Talca, Comuna de Talca, Provincia de Talca, VII Región", y se acordó el valor de indemnización con su propietaria, Elisa del Carmen Sepúlveda Rojas, ascendente a la cantidad de $13.692.126.
+
+Fiscal del Ministerio de Obras Públicas.
