@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 415, de fecha 30 de mayo del 2008, se expropiaron los lotes de terrenos Nos 158 y 159, superficie 3.422 y 4.108 m² respectivamente, Rol Nº 555-231, comuna de Saavedra, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, subtramo III Km. 16,04700 al Km. 25,59838, provincia de Cautín, comunas de Carahue y Saavedra, Región de La Araucanía", y se acordó el valor de indemnización con su propietario Alejandro Blanco Carmona, ascendente a la cantidad de $5.558.396.
+
+Fiscal del Ministerio de Obras Públicas.
