@@ -1,0 +1,5 @@
+Por decreto MOP Nº 277, de 15 de abril de 2008 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 426-1 para el "Proyecto: Camino Internacional Ruta 60 CH. Sector 2:
+
+Km. 0.000,00 al Km. 38.500,00. Tramo 2: Km. 21.000,00 Al Km. 38.500,00", Quinta Región, que figura a nombre de Alvarado Pinto Sergio Rubén, rol de avalúo 877-1, comuna de Villa Alemana, superficie 4.484 m2. La comisión de peritos integrada por los señores Cristián Larraín Arnolds, Jimena Francisca Asenjo Burgos y Carlos Alberto Montecinos Galleguillos, fijó con fecha 31 de enero de 2008, el valor provisional de la indemnización en la cantidad de $31.141.380.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
