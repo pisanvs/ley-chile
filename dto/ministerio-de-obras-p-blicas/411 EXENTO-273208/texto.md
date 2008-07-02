@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 411 de fecha 30 de mayo de 2008, se expropió el lote de terreno Nº 22, superficie 1.990 m2, rol Nº 219-174, comuna de Cañete, para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, tramo Km. 0,00000 a Km. 12,80844", VIII Región y se acordó el valor de la indemnización con su propietario Manuel Macheo Acuña, ascendente a la cantidad de $1.148.716.
+
+Fiscal del Ministerio de Obras Públicas.
