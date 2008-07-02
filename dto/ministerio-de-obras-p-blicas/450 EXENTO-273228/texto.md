@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 450 de 30 de mayo de 2008, se expropió el lote de terreno Nº 1, superficie 1.346,28 m², Rol Nº 314-55, comuna de Pitrufquén, IX Región, para la obra "Regadío Faja Maisan, Red Terciaria, Sector Huallizada, Canal FM3-B" y se acordó el valor de indemnización con su propietario René Santini Venegas, ascendente a la cantidad de $1.109.028.
+
+Fiscal del Ministerio de Obras Públicas.
