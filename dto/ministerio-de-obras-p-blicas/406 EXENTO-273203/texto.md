@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 406 de 30 de mayo de 2008, se expropiaron los lotes de terrenos Nºs. 113-B, 114-A y 115-A, superficie 618,00, 366,00 y 59,00 m², rol de avalúo 2206-173, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, tramo KM. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietario Luis Armando Cárdenas Fuica, ascendente a la cantidad de $3.025.951.
+
+Fiscal del Ministerio de Obras Públicas.
