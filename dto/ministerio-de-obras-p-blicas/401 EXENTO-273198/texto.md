@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 401 de 30 de mayo de 2008, se expropió el lote de terreno Nº 69, superficie 3.549,00 m2, rol de Avalúo 165-100, comuna de Fresia, para la obra "Mejoramiento Ruta V.46, sector Tegualda - Fresia, tramo 2, Km. 1,90990 15,88000", X Región y se acordó el valor de la indemnización con Rosendo Solís Zumelzu, ascendente a la cantidad de $2.943.054.
+
+Fiscal del Ministerio de Obras Públicas.
