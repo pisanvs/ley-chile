@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº 409, de fecha 30 de mayo del 2008, se expropió el lote de terreno Nº 17, superficie 421 m2, Rol Nº 576-428, comuna de Saavedra, IX Región para la obra "Camino Ruta Lafquenche sector Puente Budi - Puente Chelle, Km. 0,54000 al Km. 8,22000, provincia de Cautín, comuna de Saavedra, IX Región", y se acordó el valor de indemnización con su propietario Manuel Neiculeo Queupán, ascendente a la cantidad de $913.991.
+
+Fiscal del Ministerio de Obras Públicas.
