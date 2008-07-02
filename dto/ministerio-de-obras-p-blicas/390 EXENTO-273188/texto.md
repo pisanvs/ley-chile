@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 390 de fecha 30 de mayo del 2008, se expropió el lote de terreno Nº 32, superficie 968 m2, rol Nº 243-3, comuna de Villa Alegre, VII Región para la obra Camino Ruta L-202, sector Villa Alegre Putagán, tramo Km. 0,00000 al Km. 11,44287, y se acordó el valor de indemnización con su propietaria Selcia Francisca Grandón Grandón, ascendente a la cantidad de $1.666.442.- para el lote Nº 32.
+
+Fiscal del Ministerio de Obras Públicas.
