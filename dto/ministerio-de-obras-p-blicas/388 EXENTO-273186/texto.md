@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 388 de fecha 30 de mayo del 2008, se expropió el lote de terreno Nº 11, superficie 65 m2, rol Nº 15-6, comuna de Victoria, IX Región para la obra Construcción By - Pass Victoria, Comuna de Victoria, Provincia de Malleco, IX Región, y se acordó el valor de indemnización con su propietaria Hilda Rosa Valdés Romero, ascendente a la cantidad de $1.574.230.- para el lote Nº 11.
+
+Fiscal del Ministerio de Obras Públicas.
