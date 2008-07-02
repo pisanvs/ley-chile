@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 420 de 30 de mayo de 2008, se expropió el lote de terreno Nº 35, superficie 317 m², Rol Nº 115-18, comuna de San Pablo, X Región para la obra "Mejoramiento Camino Ruta U-16, Sector Osorno - Bifurcación Quilacahuín, tramo Km. 5,36000 a Km. 12,50000" y se acordó el valor de indemnización con su propietario Carlos Alfonso Scholz Andrade, ascendente a la cantidad de $496.390.
+
+Fiscal del Ministerio de Obras Públicas.
