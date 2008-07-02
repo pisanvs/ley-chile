@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 387 de fecha 30 de mayo de 2008, se expropiaron los lotes de terreno Nos 94, 94-A y 94-B, superficies 801,00, 798,60 y 140,00 m², rol Nº 608-270, comuna de Chol-Chol, IX Región para la obra "Camino Ruta S-16, sector Galvarino - Chol-Chol, tramo Km. 0,00000 al Km. 24,33510 correspondiente al Sub Tramo III Kms. 14,667 al Km. 24,33510, provincia de Cautín, comunas de Galvarino, Nueva Imperial y Cholchol, IX Región" y se acordó el valor de indemnización con su propietario Pedro Guillermo Neira Narváez, ascendente a la cantidad de $913.899.- para los lotes Nos 94, 94-A y 94-B.
+
+Fiscal del Ministerio de Obras Públicas.
