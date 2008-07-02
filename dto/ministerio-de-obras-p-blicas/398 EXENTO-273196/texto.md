@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 398, de fecha 30 de mayo del 2008, se expropió el lote de terreno Nº 15, superficie 85 m2, Rol Nº 137-1, comuna de Victoria, IX Región para la obra "Construcción By-Pass Victoria, comuna de Victoria, Provincia de Malleco, IX Región", y se acordó el valor de indemnización con su propietaria Augusta Victoria Hernández Staub, ascendente a la cantidad de $2.220.250.
+
+Fiscal del Ministerio de Obras Públicas.
