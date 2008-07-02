@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 403 de fecha 30 de mayo de 2008, se expropió el lote de terreno Nº 18, superficie 2.341 m2, rol en trámite, comuna de Illapel, para la obra "Mejoramiento Ruta D-85, D-81, sector By Pass Illapel, Km. 0,00000 a Km. 4,05474", IV Región y se acordó el valor de la indemnización con su propietario Aliro Barrera Barrera, ascendente a la cantidad de $3.404.574.
+
+Fiscal del Ministerio de Obras Públicas.
