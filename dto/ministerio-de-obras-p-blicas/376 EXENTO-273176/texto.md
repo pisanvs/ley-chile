@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 376, de 28 de mayo de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206, de 1960, se expropió el lote de terreno Nº 156-1, para la obra "Camino Acceso Norte a Concepción VIII Región Sector Km. 26.040,00 a Km.
+
+26.560,00", Octava Región, que figura a nombre de Soto Navarrete Rosa Herminda, rol de avalúo 160-28, comuna de Ranquil, superficie 275 m2. La comisión de peritos integrada por las señoras Alicia Bárbara Flores Pacheco, Mirna Deyanira del Carmen Luna Moraga y Loreto Isabel Hernández Ríos, fijó con fecha 23 de noviembre de 2007, el valor provisional de la indemnización en la cantidad de $123.500.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
