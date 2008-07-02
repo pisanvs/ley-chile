@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 421 de 30 de mayo de 2008, se expropió el lote de terreno Nº 95-A, superficie 203 m², rol de avalúo 3350-21, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, sector Quillaipe - La Arena, tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietaria Elizabeth Verónica Muñoz Godoy, ascendente a la cantidad de $1.895.261.
+
+Fiscal del Ministerio de Obras Públicas.
