@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 425 de 30 de mayo de 2008, se expropió el lote de terreno Nº 654-A, superficie 1.336 m², Rol Nº 323-92, comuna de Pitrufquén, IX Región, para la obra "Proyecto Sistema de Regadío Faja Maisan, Obras: Fajas Adicionales Canal Matriz" y se acordó el valor de indemnización con su propietario José Edmundo Velásquez Oyarzo, ascendente a la cantidad de $1.010.442.
+
+Fiscal del Ministerio de Obras Públicas.
