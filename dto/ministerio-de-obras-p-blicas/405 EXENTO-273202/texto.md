@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 405 de 30 de mayo de 2008, se expropiaron los lotes de terrenos Nº 3 y 1, superficie 766,05 y 336,21 m2, Rol Nº 314-82, comuna de Pitrufquén, IX Región, para la obra "Regadío Faja Maisan, Red Terciaria, Sector Huallizada, Canales FM3-6D, FM3-6D1" y se acordó el valor de indemnización con su propietario Víctor Millacán Paineo, ascendente a la cantidad de $2.707.429.
+
+Fiscal del Ministerio de Obras Públicas.
