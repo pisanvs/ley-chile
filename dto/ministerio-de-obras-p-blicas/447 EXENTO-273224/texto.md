@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 447 de 30 de mayo de 2008, se expropió el lote de terreno Nº 8, superficie 1.187,41 m², Rol Nº 385-19, comuna de Pitrufquén, IX Región, para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan", Obra "Canal Monte Canelo" y se acordó el valor de indemnización con su propietario Carlos Ramón Pineda Sanhueza, ascendente a la cantidad de $1.399.792.
+
+Fiscal del Ministerio de Obras Públicas.
