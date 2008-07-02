@@ -1,0 +1,3 @@
+Por decreto MOP Nº 419 de 30 de mayo de 2008, se expropió el lote de terreno Nº 157, superficie 901 m², rol de avalúo 555-329, comuna de Saavedra, para la obra "Mejoramiento Ruta S-46, sector Carahue - Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, subtramo III Km. 16,04700 al Km. 25,59838", IX Región y se acordó el valor de la indemnización con su propietaria Marcelina Rosa Blanco Carmona, ascendente a la cantidad de $1.361.533.
+
+Fiscal del Ministerio de Obras Públicas.
