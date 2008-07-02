@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 381, de 28 de mayo de 2008, se expropió el lote de terreno Nº 8-A, superficie 183 m², rol de Avalúo Nº 2020-259, comuna de Melipilla, para la obra "Camino Ruta G-668, Sector El Molino - Codigua, Tramo Km. 0.000,00 a Km. 9.154,90", Región Metropolitana, y se acordó el valor de la indemnización con su propietario Rubén Miguel Jiménez Castañeda y Otros, ascendente a la cantidad de $1.278.522.
+
+Fiscal del Ministerio de Obras Públicas.
