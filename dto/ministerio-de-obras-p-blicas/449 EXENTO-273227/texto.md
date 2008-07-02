@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 449 de 30 de mayo de 2008, se expropió el lote de terreno Nº 638-A, superficie 1.610,58 m², Rol Nº 309-21, comuna de Pitrufquén, IX Región, para la obra "Proyecto Sistema de Regadío Faja Maisan, Obras: Fajas Adicionales Canal Matriz" y se acordó el valor de indemnización con su propietario Raúl Amador Riquelme Aguilar, ascendente a la cantidad de $1.347.309.
+
+Fiscal del Ministerio de Obras Públicas.
