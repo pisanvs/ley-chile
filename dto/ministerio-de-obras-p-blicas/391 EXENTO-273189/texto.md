@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 391 de fecha 30 de mayo del 2008, se expropió el lote de terreno Nº 10, superficie 126 m2, rol Nº 576-51, comuna de Saavedra, IX Región para la obra "Camino Ruta Lafquenche sector Puente Budi - Puente Chelle, Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región", y se acordó el valor de indemnización con su propietaria María Antonieta Huechacona Panchillo, ascendente a la cantidad de $293.107.- para el lote Nº 10.
+
+Fiscal del Ministerio de Obras Públicas.
