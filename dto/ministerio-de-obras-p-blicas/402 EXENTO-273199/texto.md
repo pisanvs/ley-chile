@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 402 de fecha 30 de mayo de 2008, se expropiaron los lotes de terreno Nºs 42-A y 42-D, superficies 477 y 194 m2 respectivamente, rol Nº 176-87, comuna de Curepto, para la obra "Camino Ruta K-16, sector: Curepto-Puente Lautaro tramo Km. 73,30000 - Km. 81,91430, comuna de Curepto, provincia de Talca, VII Región" y se acordó el valor de la indemnización con su propietario José Agustín Oróstica Morales, ascendente a la cantidad de $448.855.
+
+Fiscal del Ministerio de Obras Públicas.
