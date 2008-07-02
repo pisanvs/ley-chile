@@ -1,0 +1,3 @@
+Por decreto MOP Nº 322, de fecha 30 de abril de 2008, se expropió el lote de terreno Nº 1, superficie 47.160 m2, rol Nº 158-247, comuna de Cochamó, X Región, para la obra "Camino Puelo - Paso El Bolsón, sector Llanada Grande - Segundo Corral, tramo Río Mapocho - Primer Corral", Provincia de Llanquihue, y se acordó el valor de indemnización con su propietaria, Mirta Eliana Delgado Velásquez, ascendente a la cantidad de $17.577.856, para el lote Nº1.
+
+Fiscal del Ministerio de Obras Públicas.
