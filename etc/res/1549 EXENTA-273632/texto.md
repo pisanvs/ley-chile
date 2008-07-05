@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.549, de 23 de junio de 2008, de esta Subsecretaría, autorizase a PESQUERA ISLA QUIHUA S.A. para ampliar actividades extractivas con la nave "Terranova", en el área marítima correspondiente a Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con arte de cerco, sobre el recurso hidrobiológico Jurel de Juan Fernández.
+
+Valparaíso, 23 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
