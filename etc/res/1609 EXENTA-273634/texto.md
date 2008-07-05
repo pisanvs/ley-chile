@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.609, de 23 de junio de 2008, de esta Subsecretaría, autorízase a ALIMENTOS MARINOS S.A. para ampliar actividades extractivas con la nave "Quilpolemu", en el área marítima correspondiente a islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con arte de cerco, sobre el recurso hidrobiológico Jurel de Juan Fernández.
+
+Valparaíso, 23 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
