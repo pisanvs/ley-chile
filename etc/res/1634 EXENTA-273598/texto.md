@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.634, de 25 de junio de 2008, de esta Subsecretaría, autorízase a ROSA MARY TEJADA CARVAJAL, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en caleta Río Seco, Iquique, I Región, para elaborar en la línea de proceso de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 25 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
