@@ -1,0 +1,5 @@
+Por resolucion exenta Nº 1.615, de 25 de junio de 2008, de esta Subsecretaría, modifíquese la resolucion exenta N°903, de 2008, que autoriza al INSTITUTO DE FOMENTO PESQUERO, RUT N° 61.310.000-8, domiciliado en Blanco N° 839, Valparaíso, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la captura de Pez espada (Xiphias gladius) realizada por la flota artesanal de las Regiones Arica Parinacota a Los Lagos (XV a X), año 2008", en los siguientes términos:
+
+a) En su numeral 4°, que establece los requisitos que deberán cumplir las embarcaciones artesanales que participarán en la presente pesca de investigación, en el sentido de extender el período de inscripción hasta el 30 de junio de 2008.
+
+Valparaíso, 25 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
