@@ -1,0 +1,3 @@
+Por resolución N° 1.537 exenta, de 23 de junio de 2008, de esta Subsecretaría, autorízase a ENRICO ROSSO HEYDEL E.I.R.L. para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Gómez Carreño s/n, Puerto Aguirre, comuna de Aysén, XI Región, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado, congelado y seco salado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
