@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.710, de 1 de julio de 2008, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA LANDES S.A. para ampliar actividades pesqueras extractivas con la nave "Don Tito", en el área marítima correspondiente al Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con arte de cerco, sobre el recurso hidrobiológico Jurel de Juan Fernández.
+
+Valparaíso, 1 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
