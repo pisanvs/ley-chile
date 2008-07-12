@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.716, de 1 de julio de 2008, de esta Subsecretaría, autorízase a SOUTHPACIFIC KORP S.A. para ampliar actividades extractivas con la nave "Lonco", en el área marítima correspondiente a Islas de Pascua, Sala y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con arte de cerco, sobre el recurso hidrobiológico Jurel de Juan Fernández.
+
+Valparaíso, 1 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
