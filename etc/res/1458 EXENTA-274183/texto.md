@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.458, de 10 de junio de 2008, de esta Subsecretaría, modifícase el numeral 5º de la resolución exenta Nº 184, de 2008, modificada mediante resoluciones exentas Nº 367 y Nº 873, de 2008, todas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la pesquería de Merluza Austral (Merluccius australis) en aguas interiores de la X Región, Subzona Islas de Calbuco", en el sentido de señalar que los límites de captura autorizados, en los meses que se indica, serán los siguientes:
+
+Enero: 77,005 toneladas; febrero: 115,508 toneladas; marzo: 96,256 toneladas; abril: 96,256 toneladas; mayo: 77,005 toneladas; junio: 96,256 toneladas; julio: 38,502 toneladas; septiembre: 57,754 toneladas; octubre: 38,503 toneladas; noviembre: 77,005 toneladas; diciembre: 77,235 toneladas.
+
+Valparaíso, 10 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
