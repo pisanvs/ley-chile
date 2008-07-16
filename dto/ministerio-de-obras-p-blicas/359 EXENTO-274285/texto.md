@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 359 de 30 de mayo de 2008, se expropió el lote de terreno Nº 1, superficie 6.296 m2, rol de avalúo 597-195, comuna de San Ignacio, para la obra "Proyecto Laja Diguillin Faja Adicional Cota 204,52 M, Bocatoma Diguillín", VIII Región y se acordó el valor de la indemnización con su propietaria María Gumercinda Cofré Cárdenas y Otros, ascendente a la cantidad de $4.702.730.
+
+Fiscal del Ministerio de Obras Públicas.
