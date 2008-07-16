@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 534 de 30 de junio de 2008, se expropió el lote de terreno Nº 2, superficie 248,00 m2, Rol Nº 314-126, comuna de Pitrufquén, IX Región, para la obra "Regadío Faja Maisan, Red Terciaria, sector Huallizada, obra canal FM3-B" y se acordó el valor de indemnización con su propietario Máximo Fernando Silva de la Paz, ascendente a la cantidad de $552.942.
+
+Fiscal del Ministerio de Obras Públicas.
