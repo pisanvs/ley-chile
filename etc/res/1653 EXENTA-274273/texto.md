@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.653, de 26 de junio de 2008, de esta Subsecretaría, autorízase a SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS ORILLEROS Y RAMOS AFINES, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Piedra del Sombrero, Tal Tal, II Región, para elaborar en la línea de proceso de Algas seca, los recursos hibrobiológicos extractados en la presente resolución.
+
+Valparaíso, 26 de junio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
