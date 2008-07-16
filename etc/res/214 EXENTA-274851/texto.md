@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES QUE APRUEBAN MODIFICACIONES AL PROYECTO AUTORIZADO EN LA COMUNA DE MOSTAZAL SOCIEDAD OPERADORA SAN FRANCISCO INVESTMENT S.A.
+
+Por resoluciones exentas N° 214, de 8 de julio de 2008, y N° 199, de 10 de septiembre de 2007, la Superintendencia de Casinos de Juego autorizó modificaciones solicitadas por la sociedad operadora San Francisco Investment S.A., titular de un permiso de operación para un casino de juego en la comuna de Mostazal, al proyecto autorizado mediante resolución exenta N° 347, de 27 de diciembre de 2006, aclarada por resolución exenta N° 7, de 9 de enero de 2007. También se autorizó la ampliación de licencias de juego otorgadas y de servicios anexos autorizados. Demás antecedentes constan en el expediente y en las resoluciones extractadas.
+
+Santiago, 11 de julio de 2008.- Superintendente de Casinos de Juego (S).
