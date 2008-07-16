@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 583, de 30 de junio de 2008, se reemplazó el numeral 3º y modificó el numeral sexto del decreto MOP Exento Nº 809 de fecha 30 de noviembre de 2007, autorizándose el convenio ad-referéndum directo de precio de fecha 7 de marzo de 2007, que fija la indemnización definitiva para el lote Nº 166-A, más su correspondiente reajuste, en la cantidad de $690.488.- Asimismo, modifica el numeral 6º, imputando la cantidad precitada con cargo a la Asignación Presupuestaria 04-3102003. Sub-Asignación 20146957-0.
+
+Fiscal del Ministerio de Obras Públicas.
