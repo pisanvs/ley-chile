@@ -1,0 +1,7 @@
+Por resolución exenta Nº1.724, de 2 de julio de 2008 de esta Subsecretaría, autorízase a OCEANGREEN CHILE SOCIEDAD ANÓNIMA para efectuar una pesca de investigación de conformidad con el proyecto "Loco, lapa y sombrerito para estudio de línea base, sector Totoralillo norte, comuna de La Higuera, IV Región de Coquimbo".
+
+El objetivo de la pesca de investigación consiste en realizar una evaluación estacional del contenido de metales pesados e hidrocarburos en especies representativas de comunidades bentónicas submareales del sector de caleta Totoralillo norte entre las latitudes 29°28'54" L.S. y 29°30'01" L.S.
+
+La pesca de investigación se efectuará por el período de 8 meses contados desde la fecha de la presente resolución en el sector correspondiente a la costa de Totoralillo norte, IV Región, entre las latitudes 29°28'54" L.S. y 29°30'01" L.S., que comprende las áreas de manejo y explotación de recursos bentónicos Totoralillo norte sector A, Totoralillo norte sector B y Totoralillo norte Sector C, todas de la IV Región, donde la peticionaria podrá capturar, mediante extracción manual mediante buceo ejemplares de las especies indicadas en la resolución extractada.
+
+Valparaíso, 2 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
