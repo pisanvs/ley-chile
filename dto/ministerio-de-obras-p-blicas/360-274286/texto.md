@@ -1,0 +1,3 @@
+Por decreto MOP Nº 360 de 30 de mayo de 2008, se expropió el lote de terreno Nº 1, superficie 7.977 m2, rol de Avalúo 415-364, comuna de Illapel, para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, km. 0,00000 al km. 4,05474", IV Región y se acordó el valor de indemnización con su propietario Carlos Esteban Ñiguez Concha, ascendente a la cantidad de $69.218.914.
+
+Fiscal del Ministerio de Obras Públicas
