@@ -1,0 +1,3 @@
+Por decreto MOP Nº 357 de 30 de mayo de 2008, se expropió para Aguas Andinas S.A., el lote de terreno Nº 2, superficie 6.663 m2, rol de Avalúo 1195-104, comuna de Maipú, para la obra "Colector Interceptor Mapocho, sector Poniente", Región Metropolitana y se acordó el valor de la indemnización con su propietario Sociedad Dos Norte S.A., ascendente a la cantidad de $25.123.252.
+
+Fiscal del Ministerio de Obras Públicas.
