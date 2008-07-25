@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.848, de 18 de julio de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 2074111089, presentada por CULTIVOS MARINOS CHILOÉ LIMITADA para instalar y operar un centro de cultivo ubicado en Canal Puyuguapi, al sur de Punta Trigueña, Isla Magdalena, XI Región.
+
+Valparaíso, 18 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
