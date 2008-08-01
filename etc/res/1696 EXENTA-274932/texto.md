@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.696, de 1 de julio de 2008, de esta Subsecretaría, modifícase resolución exenta Nº 799 de 2008, de esta Subsecretaría, que autorizó al CENTRO DE INVESTIGACIÓN, DESARROLLO Y CAPACITACIÓN EN CIENCIAS DEL MAR, MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección para la pesquería de Pejegallo en aguas interiores y exteriores de la X Región", en el sentido de incorporar el siguiente numeral 4 bis:
+
+"4 bis.- No obstante lo señalado en el numeral anterior, las embarcaciones que operen en virtud de la presente pesca de investigación en aguas interiores de la X Región, deberán contar con su certificado de navegabilidad vigente y quedarán eximidas del uso de un sistema de posicionamiento satelital (GPS); sin embargo, será obligatorio la utilización de un mapa de grilla de coordenadas, necesario para el cumplimiento de los objetivos de la presente pesca de investigación.".
+
+Valparaíso, 1 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
