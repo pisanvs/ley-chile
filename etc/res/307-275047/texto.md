@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES PARCIALES Y TOTALES DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución Nº 307, de 23 de abril de 2008, modificada por resolución Nº 439 de 2 de junio de 2008 de Serviu Metropolitano, se ordenó expropiación parcial, conforme al DL Nº 2.186 de 1978, de una porción de terreno en el cual existe propiedad común entre los presuntos propietarios de los inmuebles ubicados en Carmen 461; Carmen 447; Carmen 449; Carmen 451; Carmen 453; Carmen 455; Carmen 457 459, roles de avalúo números 592-30; 592-7; 592-8; 592-26; 592-27; 592-28 y 592-29, comuna de Santiago, de aparente dominio de Aguilo Pagani Sylvia; Cáceres Vines Patricia Cecilia; Aguilo Pagani Jorge; Invers. y Asesorías Los Robles S.A; Numhauser Raya Jaime Carlos; Morales Abarca Fernando Gerardo; Carrasco Peralta Luis, respectivamente, correspondiente al Lote Nº 109-A, del Proyecto Vial "Habilitación Corredor de Transporte Público Avda. Las Industrias". Comisión integrada por María Cristina Camus Palacios, arquitecto, Ramón Rovira Baro, constructor civil, y Soledad Herrera Zúñiga, ingeniero, según informe de 1 de junio de 2007, fijó monto provisional indemnización en $15.495.500.-, pagadera al contado.
+
+Director (S) Serviu Metropolitano.
