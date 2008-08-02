@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Rectifíquese la publicación del Diario Oficial y diario La Nación del día 15 de julio de 2008, que señalan que por resolución exenta Nº 4.123 de 30 de junio de 2008, de Serviu Metropolitano, se tiene por desistida la expropiación de que da cuenta resolución Nº 405 de 13 de abril de 2007, publicada en el Diario Oficial y diario La Nación el día 15 de junio de 2007, que ordenó expropiación parcial, conforme DL Nº 2.186 de 1978, del inmueble ubicado en calle Las Industrias Nº 5381 Mussa, Rol de avalúo Nº 5212-7, comuna de San Joaquín, aparente dominio de Maximo Muñoz Lizama; en el sentido que debe indicar... "correspondiente al Lote Nº 232, del Proyecto Vial "Habilitación Corredor de Transporte Público Avda. Las Industrias", y no Lote Nº 196 como se señaló erróneamente en dichas publicaciones.
+
+Director (S) Serviu Metropolitano.
