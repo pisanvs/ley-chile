@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.903, de 23 de julio de 2008, de esta Subsecretaría, autorízase a GEMMA LUISA POMAROLLI PETRI para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Santiago, Baltra Nº 274, La Serena, IV Región, para elaborar en las líneas de proceso de Cocido, Fresco, Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos jurel y caballa.
+
+Valparaíso, 23 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
