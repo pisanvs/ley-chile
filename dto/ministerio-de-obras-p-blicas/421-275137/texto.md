@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 421 de 30 de junio de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 37, para la ejecución de la obra "Canal Nuevo Cocinera", comuna de Illapel, Provincia de Choapa, Región de Coquimbo, que figura a nombre de Niguez Concha María Gabriela, rol de avalúo 434-11, superficie 29.642 m2. La Comisión de Peritos, fijó con fecha 20 de diciembre de 2007, en la cantidad de $6.889.660. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
