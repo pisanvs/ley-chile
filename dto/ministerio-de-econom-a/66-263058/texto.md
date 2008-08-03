@@ -1194,6 +1194,10 @@ Vía vertical de evacuación protegida de los efectos del fuego que, desde cualq
 
 Para otras definiciones relativas a materias contenidas en este reglamento, se deberá consultar la terminología específica, contenida en las disposiciones dictadas por la Superintendencia, que emanen de este reglamento o en las normas oficiales chilenas (NCh) o normativa relacionada.
 
+> **Nota.** El numeral 1° del artículo primero, del Decreto 20, Economía, publicado 02.08.2008 modifica el punto 10.34.1, Figura 2. Conducto colectivo de evacuación de gases producto de la combustión, donde dice: 'Cenicero', debe decir: 'Receptáculo'.
+
+> **Nota.** NOTA 1 El numeral 1° del artículo primero, del Decreto 20, Economía, publicado 02.08.2008 modifica el punto 10.11.1, Figura 1. Clasificación de artefactos a gas tipo B y C, en la parte de la nomenclatura, bajo la última figura de izquierda a derecha donde dice: 'Cámara de Combustión Abierta', debe decir: 'Cámara de Combustión Estanca'.
+
 CAPITULO IV OBLIGACIONES Y RESPONSABILIDADES
 
 ADMINISTRATIVAS DE LOS QUE PARTICIPAN EN LAS
@@ -1686,7 +1690,7 @@ d) Tubería. Detallar la información concerniente al diámetro de la tubería d
 
 42.4.3 Cuadro de Rotulación.
 
-Se deberá situar un recuadro en el ángulo inferior derecho del plano, el cual deberá estar seccionado de derecha a izquierda según se detalla a continuación. Dicho recuadro, en los planos entregados físicamente, deberá presentar dimensiones interiores de 80 x 320 (mm).
+Se deberá situar un recuadro en el ángulo inferior derecho del plano, el cual deberá estar seccionado de derecha a izquierda según se detalla a continuación. Dicho recuadro, en los planos entregados físicamente, deberá presentar dimensiones interiores de 80 x 265 (mm).
 
 a) Sección 1. Ubicación.
 
@@ -2058,9 +2062,9 @@ Al efectuar trabajos de ejecución o construcción de las instalaciones interior
 
 44.1.2 No efectuar trabajos en presencia de fuegos abiertos o fuentes de ignición.
 
-44.1.3 Verificar, cuando corresponda, la ausencia gas previo a la realización los trabajos.
+44.1.3 Verificar, cuando corresponda, la ausencia de gas previo a la realización de los trabajos.
 
-44.1.4 Manipular las válvulas de corte de instalaciones que se tenga la certeza que no cuenten con abastecimiento de gas, encuentren con suministro suspendido antes de la realización de los trabajos.
+44.1.4 Manipular las válvulas de corte de instalaciones que se tenga la certeza que no cuenten con abastecimiento de gas, o que se encuentren con suministro suspendido antes de la realización de los trabajos.
 
 44.1.5 Cuando sea necesario purgar las instalaciones interiores de gas, se deberá proceder de manera que no quede posibilidad que exista mezcla gas-aire comprendida dentro de los límites de inflamabilidad del gas en cuestión.
 
@@ -2182,17 +2186,13 @@ El tipo de unión utilizado para las tuberías metálicas deberá ser el adecuad
 
 La unión deberá resistir la fuerza máxima extrema producto de la presión interna y de todas las fuerzas adicionales ocasionadas por la expansión o contracción producida por cambios de temperatura, vibración, fatiga o al peso de los tubos y sus contenidos.
 
-a) Tubos rígidos.
-
-Las uniones de este tipo de tubos deberán ser del tipo roscadas, bridadas o soldadas. Las uniones soldadas de los tubos de cobre deberán ser realizadas con aleaciones para soldadura fuerte, cuya composición no deberá contener más de 0,05 (%) de fósforo.
-
-La soldadura deberá ser realizada con equipos apropiados, entre otros, oxipropano, oxiacetileno u otro similar, que permitan alcanzar la temperatura adecuada para obtener una soldadura fuerte y de la calidad requerida y por soldadores calificados por organismos competentes que para tal efecto establezca la Superintendencia.
+a) Las uniones de este tipo de tubos deberán ser del tipo roscadas, bridadas o soldadas. Las uniones soldadas de los tubos de cobre o acero deberán ser realizadas mediante soldadura fuerte, la que en el caso del acero no deberá contener más de 0,05 (%) de fósforo.
 
 b) Tubería Flexible.
 
 Las uniones de estas tuberías deberán ser realizadas con accesorios certificados para soldar tubería de gas.
 
-La soldadura deberá cumplir con lo señalado en el inciso final del literal a) precedente.
+La soldadura deberá cumplir con lo señalado en el literal a) precedente.
 
 c) Juntas abocardadas.
 
@@ -2454,13 +2454,13 @@ por el valor del poder calorífico en
 
 calorífico del gas se encuentra en la Tabla
 
-### VI. Propiedades Físicas de los Gases y
+### VI. Propiedades Físicas Referenciales de
 
-Condiciones de Referencia.
+los Gases y Condiciones de Referencia:
 
 .
 
-Tabla V. Potencia Aproximada de los Artefactos Domésticos para Gas, de Uso Común.
+Tabla VI. Propiedades Físicas Referenciales de los Gases y Condiciones de Referencia.
 
 b.2 Como base, para dimensionar la tubería de
 
@@ -2540,6 +2540,8 @@ Las capacidades de los tubos se pueden calcular utilizando las siguientes fórmu
 
 Tabla IX. Factor de Fricción K.
 
+e.1 Para presiones inferiores a 10 (Kfa):
+
 e.2 Cuando los artefactos a gas estén ubicados
 
 a una altura superior a diez (10) metros
@@ -2558,7 +2560,7 @@ de la siguiente fórmula:
 
 Para el GLP se puede desestimar la pérdida
 
-de presión por altura (?ph), cuando ésta se
+de presión por altura (.ph), cuando ésta se
 
 compense aumentando la presión del
 
@@ -2608,15 +2610,13 @@ b.1 Los montados en fábrica deberán ser recomendados por el fabricante para el
 
 .
 
-Tabla X. D(5) para tubos de acero.
+Tabla X. D5 para tubos de acero.
 
 b.2 Los ensamblados in situ, que incorporen adaptadores de cabezales de servicio, al igual que estos últimos, deberán ser empleados de acuerdo a las recomendaciones del fabricante según el gas a utilizar y su diseño deberá estar certificado de acuerdo a los requisitos dispuestos en las normas complementarias correspondientes.
 
-.
-
 Tabla XI. Dimensiones de Tubos Comerciales.
 
-c) El uso de tuberías y accesorios plásticos en sistemas de tuberías de GLP no diluido (mezcla propano-aire), deberá cumplir los requisitos establecidos en las normas complementarias correspondientes.
+c) El uso de tuberías y accesorios plásticos en sistemas de tuberías de GLP diluido (mezcla propano-aire), deberá cumplir los requisitos establecidos en las normas complementarias correspondientes.
 
 45.3.1 Uniones.
 
@@ -2624,11 +2624,11 @@ Las tuberías y accesorios plásticos se deberán unir de acuerdo con las instru
 
 a) Ser diseñadas e instaladas de forma tal que su resistencia a la tracción longitudinal sea, a lo menos, igual a la resistencia a la tracción del material de la tubería plástica.
 
-b) Las uniones por fusión mediante calor se deberán realizar según los métodos recomendados por el fabricante del tubo y por profesionales calificados por organismos competentes que para tal efecto establezca la Superintendencia, de acuerdo a procedimientos calificados establecidos, probados a través de ensayos para producir uniones herméticas al gas, al menos, tan fuertes como los tubos que se están uniendo.
-
-Los accesorios para la fusión por calor deberán estar marcados según la norma respectiva.
+b) Las uniones realizadas por fusión deberán ser, al menos, tan fuertes como los tubos que se están uniendo. Los accesorios para la fusión por calor deberán estar marcados según la norma respectiva.
 
 c) El material de las empaquetaduras de las uniones mecánicas tipo compresión deberán ser compatibles con la tubería plástica y con el gas distribuido por el sistema. El accesorio se deberá utilizar conjuntamente con un refuerzo interno tubular rígido, el que deberá estar al ras con el extremo del tubo; extendiéndose como mínimo hasta su extremo exterior y hasta el extremo externo del accesorio de compresión, cuando éste se haya instalado. El refuerzo deberá estar libre de bordes filosos o rugosos y sin ajuste forzado en el plástico. No se deberán usar refuerzos tubulares partidos.
+
+> **Nota.** NOTA 1 El numeral 10° del artículo primero, del Decreto 20, Economía, publicado 02.08.2008, modifica el punto 45.2.9, letra e.1, donde dice: 'd = Densidad relativa del gas, según Tabla VI., ya citada.', debe decir:'d = Densidad relativa del gas a distribuir.', y en la letra e.1 y e.3, donde dice:"PCS = Poder Calorífico Superior del gas, en (MJ/m3), según Tabla VI., ya citada.', debe decir: 'PCS = Poder Calorífico Superior del gas a distribuir, en (MJ/m3).
 
 #### Artículo 46
 
@@ -2840,13 +2840,15 @@ Las tuberías instaladas en superficie deberán estar sujetas de forma segura y 
 
 46.5.1 Generalidades.
 
-La instalación de tuberías de gas al interior de edificios se deberá realizar a la vista o en conductos registrables, prohibiéndose las tuberías empotradas. Además se deberá considerar lo siguiente:
+La instalación de tuberías de gas al interior de edificios se deberá realizar a la vista o en conductos registrables, o empotradas en losa o radier. Además se deberá considerar lo siguiente:
 
 a) La instalación de tuberías de gas no deberá provocar tensiones estructurales en los componentes del edificio que excedan los límites de diseño permitidos.
 
 b) Las tuberías de gas a la vista deberán ser aseguradas al muro o pared.
 
 c) Todo corte, ranura u otra intervención en elementos estructurales del edificio para realizar un conducto, deberá ser previamente autorizado, en un informe escrito, por un Ingeniero Calculista.
+
+d) Las tuberías empotradas en losa o radier deberán contar con protección mediante un recubrimiento plástico, y su trazado se deberá efectuar en zonas exclusivas y con elementos aptos para permitir la identificación de su recorrido. Estas zonas se extenderán a no más de 200 (mm) de los muros paralelos a las respectivas tuberías. Para el caso en que el tendido de tuberías se realice en espacios comunes, esta zona podrá extenderse hasta 350 (mm). Sus uniones deberán ser protegidas con un aislante de poliestireno expandido u otro de características similares.
 
 46.5.2 Conexiones.
 
@@ -2915,6 +2917,22 @@ otro sellado a la tubería, de manera
 tal que impida cualquiera eventual
 
 fuga de gas al exterior.
+
+v) Para el caso de tuberías que
+
+atraviesen perpendicularmente paredes,
+
+pisos, muros o divisiones macizas, se
+
+podrá utilizar vaina de acero o de
+
+material plástico no propagador de
+
+llama y con un diámetro interior
+
+superior a lo menos en 10 (mm) al
+
+diámetro exterior de la tubería de gas.
 
 b.2 Conductos.
 
@@ -3030,11 +3048,7 @@ Las aberturas horizontales y verticales del conducto deberán tener la resistenc
 
 46.8.3 Ventilación.
 
-Los conductos deberán ventilar sólo por su parte superior y hacia el exterior. La(s) abertura(s) de ventilación deberá(n) tener un área libre, no obstruida de la sección transversal de ésta, expresada en (cm2), de al menos, el doble del producto entre la presión máxima en la tubería -
-
-expresada en (bar)- y el mayor diámetro nominal de tal tubería -expresada en (mm)- o el área transversal del conducto, la que sea menor. Cuando se encuentre presente más de un sistema de gas, se deberá calcular el área libre para cada sistema y utilizar el área que resultare mayor.
-
-El alcance de esta disposición reconoce únicamente a los conductos verticales. Se considera que para una línea de gas horizontal serían preferibles uniones soldadas en vez de un conducto horizontal.
+Los conductos deberán ventilar sólo por su parte superior y hacia el exterior. La(s) abertura(s) de ventilación deberá(n) tener un área libre, no obstruida de la sección transversal de ésta, expresada en (cm2), de al menos, el doble del producto entre la presión máxima en la tubería expresada en (bar) y el mayor diámetro nominal de tal tubería expresada en (mm) o el área transversal del conducto, la que sea menor. Cuando se encuentre presente más de un sistema de gas, se deberá calcular el área libre para cada sistema y utilizar el área que resultare mayor.
 
 #### Artículo 47
 
@@ -3600,7 +3614,7 @@ Donde sea imperativa la continuidad del flujo de gas, se permite el uso de deriv
 
 55.1.7 Reguladores de Presión para sistemas de GLP.
 
-a) Los reguladores de presión de una sola etapa, destinados exclusivamente a instalaciones con abastecimiento de gas de cilindros tipo 15, deberán tener limitada su presión máxima de salida a 5,0 (kPa) y estar equipados con uno de los siguientes dispositivos, los cuales deberán ser parte integrante de éstos:
+a) Los reguladores de presión de una sola etapa, destinados exclusivamente a instalaciones con abastecimiento de gas de cilindros tipo 15, deberán tener limitada su presión máxima de salida a 5,0 (kPa) y estar equipados con uno de los siguientes dispositivos:
 
 a.1 Válvula de alivio de presión en el lado
 
@@ -3626,7 +3640,7 @@ hasta el momento en que sea repuesta su
 
 operación en forma manual.
 
-b) Los reguladores de presión de segunda etapa y aquellos integrales de doble etapa deberán tener limitada su presión máxima de salida a 5,0 (kPa) y estar equipados con uno de los siguientes dispositivos, los cuales deberán ser parte integrante de éstos:
+b) Los reguladores de presión de segunda etapa y aquellos integrales de doble etapa deberán tener limitada su presión máxima de salida a 5,0 (kPa) y estar equipados con uno de los siguientes dispositivos:
 
 b.1 Válvula de alivio de presión en el lado de
 
@@ -3698,15 +3712,11 @@ c.1 Deberán estar equipados con medios que
 
 permitan determinar la presión a la salida
 
-del regulador de alta presión, el que pasa
+del regulador de alta presión, con excepción
 
-a ser parte integrante del regulador de
+de los reguladores de cambio automático,
 
-dos etapas, con excepción de los
-
-reguladores de cambio automático, que están
-
-liberados de tenerlos.
+que están liberados de tenerlos.
 
 c.2 No deberán incorporar una válvula de alivio
 
@@ -4058,7 +4068,7 @@ En el presente artículo se establecen los requisitos que se deberán cumplir en
 
 59.1.5 Los medidores de gas no se deberán emplazar en sitios donde estén expuestos a daños, temperaturas extremas, a repentinos cambios extremos de temperatura o expuestos a temperaturas fuera del rango recomendado por su fabricante.
 
-59.1.6 Los medidores de gases menos densos que el aire, normalmente Gas Natural y Gas de Ciudad, deberán ser emplazados a un nivel superior al primer subterráneo de un inmueble.
+59.1.6 Los medidores de gases menos densos que el aire, normalmente Gas Natural y Gas de Ciudad, deberán ser emplazados a un nivel igual o superior al primer subterráneo de un inmueble.
 
 59.1.7 Los medidores de gases más densos que el aire y sus respectivos reguladores de servicio, normalmente Gas Licuado de Petróleo (GLP), deberán ser emplazados a un nivel superior al primer piso de un inmueble o sobre la cota cero del terreno circundante, considerando las siguientes limitantes:
 
@@ -4068,7 +4078,7 @@ b) A una distancia de al menos un (1) metro de los límites de sitios que estén
 
 c) En instalaciones construidas en terreno en declive, entre otros, laderas de cerro, se deberán tomar las medidas necesarias para evitar, que ante eventuales fugas de gas, se produzcan acumulaciones de éste y se alcancen concentraciones que superen el límite inferior de explosividad.
 
-59.1.8 Los medidores de gas que se encuentren a menos de tres (3) metros de lugares con tránsito vehicular, además del gabinete, deberán contar con una protección adicional contra impactos, entre otros, jardineras o barreras metálicas.
+59.1.8 Los medidores de gas que se encuentren a menos de tres (3) metros de lugares con tránsito vehicular, además de gabinete, deberán contar con una protección adicional contra impactos.
 
 59.1.9 Los medidores de gas y reguladores de servicio asociados se deberán disponer de manera tal que su distancia a líneas eléctricas, medida entre los puntos más próximos entre las proyecciones verticales, sea como mínimo las establecidas en la Tabla XIII. Distancia a Líneas Eléctricas Aéreas, según corresponda.
 
@@ -4088,7 +4098,7 @@ En esta sección se establecen los requisitos y criterios generales asociados a 
 
 a) Deberán ser para uso exclusivo de los medidores de gas y reguladores de servicio asociados y de dimensiones que aseguren su acceso fácil y expedito para su lectura, y otorguen las condiciones adecuadas para su inspección, mantenimiento, conservación o sustitución.
 
-b) Deberán asegurar hermeticidad hacia el interior de los edificios, para lo cual, deberán contar con una puerta del tipo batiente, metálica o de madera protegida hacia el interior con una plancha metálica o de fibro-cemento, sin aberturas, que deberá estar ajustada al marco, en todo su perímetro, mediante una junta de estanquidad. Dicha puerta deberá abrir hacia el exterior y contar con un dispositivo que, normalmente, las mantenga cerradas, entre otros, brazo mecánico o hidráulico, disponer de cerradura con llave, copia de la cual deberá quedar en posesión del propietario o conserjería del edificio. En caso que dicha puerta sea parte de un conducto técnico, ésta deberá cumplir con el mismo nivel de resistencia al fuego del conducto. Además, cuando se trate de recintos, dichas puertas deberán permitir abrirse desde su interior sin necesidad del uso de llave.
+b) Deberán asegurar hermeticidad hacia el interior de los edificios, para lo cual deberán contar con una puerta del tipo batiente, metálica o de madera protegida hacia el interior con una plancha metálica o de fibro-cemento, sin aberturas, que deberá estar ajustada al marco, en todo su perímetro, mediante una junta de estanquidad. Dicha puerta deberá abrir hacia el exterior y contar con un dispositivo que, normalmente, la mantenga cerrada, entre otros, brazo mecánico o hidráulico, y disponer de cerradura con llave, copia de la cual deberá quedar en posesión del propietario o conserjería del edificio. En caso que dicha puerta sea parte de un conducto técnico, ésta deberá estar construida con material no quebradizo y no combustible, con una resistencia al fuego en conformidad a lo establecido en la Ordenanza General de Urbanismo y Construcciones. Además, cuando se trate de recintos, dichas puertas deberán permitir abrirse desde su interior sin necesidad del uso de llave.
 
 c) En caso de requerirse una instalación eléctrica al interior de un recinto, ésta deberá ser antideflagrante o a prueba de explosión, cuyo interruptor deberá estar al exterior del recinto, todo lo cual deberá cumplir con en "NCh Elec. 4/2003"; o disposición que la reemplace.
 
@@ -4132,31 +4142,7 @@ c) El piso de gabinetes o recintos que contengan medidores de GLP, deberá tener
 
 59.2.4 Conductos técnicos
 
-a) Deberán ser verticales, rectilíneos, sin quiebres o discontinuidades en toda su trayectoria a través del edificio y construidos con material no quebradizo y no combustible, con una resistencia al fuego de al menos:
-
-a.1 Clase F60, determinada según la Norma
-
-Oficial Chilena NCh935/1.Of1997 -
-
-Prevención de Incendios en Edificios -
-
-Ensayo de resistencia al fuego - Parte 1:
-
-Elementos de construcción en general; en
-
-adelante e indistintamente
-
-"NCh935/1.Of1977" o disposición que la
-
-reemplace; para edificios de hasta 4 pisos.
-
-a.2 Clase F90, según"NCh935/1.Of1977", para
-
-edificios de 5 a 6 pisos.
-
-a.3 Clase F120, según "NCh935/1.Of1977", para
-
-edificios de 7 o más pisos.
+a) Deberán ser verticales, rectilíneos, sin quiebres o discontinuidades en toda su trayectoria a través del edificio y construidos con material no quebradizo y no combustible, con una resistencia al fuego en conformidad a lo establecido en la Ordenanza General de Urbanismo y Construcciones.
 
 b) Al atravesar la losa de cada piso deberá tener una superficie libre mínima de 100 (cm2) que asegure el tiro de aire para su ventilación.
 
@@ -4324,11 +4310,11 @@ Una clasificación del nivel de consumo de GLP de los consumidores de una instal
 
 Tabla XVI. Clasificación de los Consumidores según la Superficie Construida de la Vivienda.
 
-63.2 El consumo promedio diario doméstico, expresado en (kW/día), según la clase y cantidad de los artefactos, nivel de consumo y temperatura de cálculo (ºC) del ambiente se entrega en la Tabla XVII. Consumo diario en kW/día según clase de artefactos. Nivel de consumo y temperatura de cálculo.
+63.2 El consumo promedio diario doméstico, expresado en (kW), según la clase y cantidad de los artefactos, nivel de consumo y temperatura de cálculo (ºC) del ambiente se entrega en la Tabla XVII. Consumo diario en kW/día según clase de artefactos. Nivel de consumo y temperatura de cálculo.
 
 .
 
-Tabla XVII. Consumo diario (kW/día) según clase de artefactos. Nivel de consumo y temperatura de cálculo.
+Tabla XVII. Consumo diario (kWh/día) según clase de artefactos. Nivel de consumo y temperatura de cálculo.
 
 63.3 Cálculo de la cantidad de cilindros de GLP para una instalación interior.
 
@@ -4357,6 +4343,8 @@ La cantidad de cilindros se calcula a partir de los consumos diarios domésticos
 63.3.4 Para determinar la cantidad de cilindros del equipo de GLP requeridos para el correcto funcionamiento de la instalación, bajo evaluación, se selecciona aquel resultado, con mayor cantidad de cilindros de GLP, obtenidos según los numerales 63.3.1 y 63.3.2, precedentes.
 
 63.3.5 Con el propósito de contar con una cantidad de cilindros de reposición igual a la cantidad requerida para el funcionamiento de la instalación bajo evaluación, se deberá duplicar el valor seleccionado en el numeral 63.3.4 precedente, determinando la cantidad real de cilindros del equipo de GLP.
+
+> **Nota.** NOTA 2 El numeral 23° del artículo primero, del Decreto 20, Economía, publicado 02.08.2008, modifica punto punto 63.3.1, donde dice: "Pit = Potencia instalada total, (kW/h)", debe decir: "Pit = Potencia instalada total, (kW)" asimismo la Tabla XVIII. Razón de vaporización, citada en el mismo punto, en todas las partes donde dice: "kW/h", debe decir: "kW".
 
 #### Artículo 64
 
@@ -4578,7 +4566,7 @@ El equipo de GLP deberá contar con protección contra las inclemencias climatol
 
 66.1 Gabinete.
 
-Todos los equipos de GLP con más de dos (2) cilindros y aquellos ubicados en lugares con tránsito de público, deberán contar con gabinete, cuya puerta deberá tapar la visibilidad de los cilindros de GLP.
+Todos los equipos de GLP con más de cuatro (4) cilindros y aquellos ubicados en lugares con tránsito de público, deberán contar con gabinete, cuya puerta deberá tapar la visibilidad de los cilindros de GLP.
 
 El gabinete deberá cumplir con los siguientes requisitos:
 
@@ -4658,7 +4646,7 @@ Esta sólo deberá ser efectuada por un Instalador de Gas, de la clase correspon
 
 Aquellos señalados en el literal a) del numeral 10.11.3 precedente, deberán estar adecuadamente asegurados, afianzados o fijados, de modo que ni éstos, ni sus conexiones a las tuberías, sean sometidas a tensiones, fuerzas o esfuerzos indeseables.
 
-69.5 Restricciones de uso de los Artefactos a Gas.
+69.5 Restricciones de uso de los Artefactos a Gas en recintos interiores.
 
 69.5.1 Sólo se deberán instalar los siguientes artefactos tipo A:
 
@@ -4716,7 +4704,7 @@ sea a través de una puerta que comunique con éstos,
 
 no deberán contar con artefactos a gas de circuito
 
-abierto.
+abierto de tiro natural.
 
 70.1.6 Dos recintos se deberán considerar como uno,
 
@@ -5024,6 +5012,8 @@ según se muestra en la Figura 18(a), ya
 
 citada.
 
+> **Nota.** NOTA 3 El numeral 27° del artículo primero, del Decreto 20, Economía, publicado 02.08.2008 modifica punto 70.2.2, en la tabla Tabla XXII. Ventilación de Recintos donde están instalados Artefactos de Circuito Abierto, en la parte dedicada a los Artefactos Tipo A de Potencia mayor a 16 kW, donde dice: 'Una inferior, cuyo extremo inferior deberá estar a una altura de hasta 50 (cm) del suelo del recinto, y podrá ser ventilación indirecta', debe decir: 'Una inferior, cuyo extremo superior deberá estar a una altura de hasta 50 (cm) del suelo del recinto, y podrá ser ventilación indirecta'.
+
 #### Artículo 71
 
 Ubicación de los Artefactos a Gas.
@@ -5218,7 +5208,7 @@ Esta sección abarca la instalación de artefactos a gas, de uso común, entre o
 
 77.1 Sistemas de Calentamiento de Agua - Calentadores de Agua.
 
-Esta sección abarca la instalación de calentadores de agua, entre otros: Calderas de Agua Caliente, ya sean murales o de pie, calefones, termo-tanques y calentadores de agua para piscinas. Se excluyen las instalaciones de calderas a gas de potencia nominal superior a 70 (kW), diseñadas para producir agua caliente a temperaturas de hasta 110 (ºC) (383 (K)) o de vapor cuya presión no exceda de 50 (kPa), destinadas a calefacción y/o agua caliente sanitaria, materia que es tratada en el artículo 78 del presente reglamento.
+Esta sección abarca la instalación de calentadores de agua, entre otros: Calderas de Agua Caliente, ya sean murales o de pie, calefones, termo-tanques y calentadores de agua para piscinas. Se excluyen las instalaciones de calderas a gas de potencia nominal superior a 70 (kW).
 
 77.1.1 Generalidades.
 
@@ -5238,7 +5228,7 @@ e) Los calentadores de agua para piscina deberán estar ubicados o protegidos de
 
 77.1.2 Instalación en compartimentos.
 
-a) Los compartimentos en que se instalen calentadores de agua, entre otros, armario, closet o recintos que no sean grandes, es decir, cuyo volumen es menor a 16 veces el volumen total de una caldera o calentador de agua, de potencia nominal inferior a 70 (kW), deberán ser exclusivos a ese fin y contar con aberturas de ventilación en el nivel inferior y superior, compartimiento que en ningún caso deberá estar al interior de baños o dormitorios. Con el propósito de evitar que se almacenen objetos, el compartimiento bajo el artefacto, deberá tener un plano inclinado con una pendiente de al menos 45º.
+a) Los compartimentos en que se instalen calentadores de agua o caldera de potencia nominal inferior a 70 kW y cuyo volumen es menor a 12 veces el volumen total del artefacto, deberán ser exclusivos para ese fin y contar con aberturas de ventilación en el nivel inferior y superior. Estos compartimentos en ningún caso podrán ser usados para almacenar objetos.
 
 b) Cuando se instale un calentador de agua tipo B en un compartimiento, las aberturas de ventilación, inferior y superior, deberán ser dimensionadas de acuerdo con lo establecido en la Tabla XXIII. Areas libres de ventilación(1) para compartimentos con artefactos tipo B, para cuyo efecto se entiende como recinto exterior, el espacio exterior -intemperie- o toda galería, terraza, balcón o logia que dispone de una abertura permanente con una superficie libre de al menos 1,5 (m2) que comunique directamente al exterior, cuyo borde superior esté situado a una distancia de hasta 0,4 (m) del techo de dicho recinto.
 
@@ -5276,9 +5266,9 @@ d) La distancia entre la conexión y la pared deberá ser suficiente para emplea
 
 e) La válvula de paso deberá ser de fácil acceso y estar a la vista.
 
-f) El conducto de evacuación individual o secundario deberá ser de un diámetro con la holgura mínima que permita introducir el collarín, cuya unión se deberá sellar con silicona de alta temperatura o material de equivalentes características.
+f) El conducto de evacuación individual o de enlace deberá ser de un diámetro con la holgura mínima que permita introducir el collarín, cuya unión se deberá sellar con silicona de alta temperatura o material de equivalentes características.
 
-g) Los calentadores de tiro natural deberán contar con un conducto de evacuación directo, o conducto secundario, con un tramo vertical recto desde su conexión, de al menos 30 (cm), antes de presentar algún quiebre o cambio de dirección.
+g) Los calentadores de tiro natural deberán contar con un conducto de evacuación directo, o conducto de enlace, con un tramo vertical recto desde su conexión, de al menos 30 (cm), antes de presentar algún quiebre o cambio de dirección.
 
 77.1.4 Instalaciones sobre Pisos.
 
@@ -5286,7 +5276,7 @@ Deberán ser instaladas sobre un piso soportante y no combustible. Si el piso es
 
 77.1.5 Distancias de seguridad.
 
-La calderas de calefacción central de hasta 70 (kW), instaladas en recintos grandes, es decir, cuyo volumen es de al menos 16 veces el volumen total de la caldera correspondiente, deberán ser instaladas dejando los espacios libres mínimos establecidos en el Manual de Instalación del fabricante y a falta de éstos, lo establecido en la Tabla XXV. Distancias de seguridad mínimas respecto de Materiales Combustibles para Calderas de Calefacción Central instaladas en Recintos Grandes.
+La calderas de calefacción central de hasta 70 (kW), instaladas en recintos grandes, es decir, cuyo volumen es de al menos 12 veces el volumen total de la caldera correspondiente, deberán ser instaladas dejando los espacios libres mínimos establecidos en el Manual de Instalación del fabricante y a falta de éstos, lo establecido en la Tabla XXV. Distancias de seguridad mínimas respecto de Materiales Combustibles para Calderas de Calefacción Central instaladas en Recintos Grandes.
 
 .
 
@@ -5316,7 +5306,7 @@ Los calentadores de agua para piscina fabricados para ser utilizados en exterior
 
 La instalación de estufas de pared del Tipo B conectadas a un conducto de evacuación de gases del Tipo B-W, deberá cumplir con, al menos, los siguientes requisitos:
 
-77.2.1 Sólo en el último piso de un edificio o en casas de un piso.
+77.2.1 Se deberá tener en consideración si el artefacto está diseñado para ser instalado en el último piso de un edificio o en casas de un piso o en edificios colectivos (multipisos).
 
 77.2.2 Los conductos del Tipo B-W se deberán fijar directamente a una placa cabecera maciza que sirva como cortafuegos en ese punto, la que podrá ser parte integral de la estufa, según se muestra en la Figura 20. Instalación de un Conducto de Evacuación de Gases del Tipo B-W para Estufas de Pared.
 
@@ -5614,7 +5604,7 @@ e) Los artefactos empotrados del subtipo 1.2 y tipo 2, están diseñados de mane
 
 77.6 Secadoras de Ropa.
 
-Esta sección abarca la instalación de las secadoras de ropa domésticas y colectivas, señaladas en el numeral 10.113 precedente.
+Esta sección abarca la instalación de las secadoras de ropa domésticas y colectivas, señaladas en el numeral 10.114 precedente.
 
 77.6.1 Distancia de seguridad.
 
@@ -5748,7 +5738,7 @@ Cabe destacar, que las secadoras de ropa instaladas para ser utilizadas por múl
 
 77.7 Refrigeradores.
 
-Corresponden a los artefactos a gas señalados en el numeral 10.107 del presente reglamento.
+Corresponden a los artefactos a gas señalados en el numeral 10.108 del presente reglamento.
 
 77.7.1 Distancias de seguridad.
 
@@ -5770,9 +5760,9 @@ En este artículo se establecen los requisitos específicos para las instalacion
 
 78.1 Recinto.
 
-78.1.1 Cuando el gas utilizado sea más denso que el aire, entre otros, el GLP, el recinto, no deberá estar en un nivel inferior al del terreno circundante ni tener comunicación, a menos de dos (2) metros, con niveles inferiores, entre otros, cámaras, alcantarillado, colectores de aguas lluvias, desagües, sumideros, pozos, subterráneos, piletas, conductos de ventilación a ras de piso o suelo.
+78.1.1 Cuando el gas utilizado sea más denso que el aire, entre otros, el GLP, el recinto, no deberá estar en un nivel inferior al del terreno circundante ni tener comunicación, a menos de dos (2) metros, con niveles inferiores, entre otros, cámaras, alcantarillado, colectores de aguas lluvias, desagües, sumideros, pozos, subterráneos, piletas, conductos de ventilación a ras de piso o suelo. Los artefactos que operen con gases menos densos que el aire, entre otros GN, se deberán instalar en recintos situados desde un nivel mínimo correspondiente a un primer subterráneo o piso zócalo.
 
-78.1.2 El recinto deberá ser cerrado con acceso sólo al personal autorizado y construido de acuerdo a los requisitos establecidos en el numeral 5.9.4 de la "Ordenanza General de Urbanismo y Construcciones" o disposición que la reemplace. En caso que tal recinto se encuentre junto a escaleras o ascensores, deberá estar separado de éstos por un muro del material establecido en el numeral 5.9.4 de la OGUC, citado precedentemente.
+78.1.2 El recinto deberá ser cerrado con acceso sólo al personal autorizado. En caso que tal recinto se encuentre junto a escaleras o ascensores, deberá estar separado de éstos por un muro del material establecido en el numeral 5.9.4 de la Ordenanza General de Urbanismo y Construcciones.
 
 78.1.3 En el caso que se sitúe en zonas de tránsito de personas, se deberá mantener una franja libre alrededor del artefacto, de al menos un (1) metro, que garantice el acceso para el mantenimiento del mismo.
 
@@ -5802,7 +5792,9 @@ c) Se prohíbe el uso de extintores automáticos sobre los quemadores.
 
 a) Potencia instalada total de las calderas inferior a 600 (kW).
 
-Los cerramientos -paredes y techos exteriores- de la sala deberán contar con un elemento o disposición constructiva de baja resistencia mecánica, de una superficie de a lo menos 1 (m2), en comunicación directa a una zona exterior o patio descubierto con dimensiones de a lo menos de 2 x 2 metros.
+Los cerramientos -paredes y techos exteriores- de la sala deberán contar con un elemento o disposición constructiva de baja
+
+resistencia mecánica, de una superficie de a lo menos 1 (m2), en comunicación directa a una zona exterior o patio descubierto con dimensiones de a lo menos de 2 x 2 metros.
 
 b) Potencia instalada total de las calderas de al menos 600 (kW).
 
@@ -5827,10 +5819,6 @@ c) Las dimensiones mínimas de la puerta de acceso a la sala deberán ser 0,8 (m
 Sala de Calderas - Quemador Acoplado, 25. Sala de Calderas - Separadas y 26. Sala de Calderas en Batería; salvo para el caso de modificaciones de instalaciones en uso, en las que se deberán adaptar a la factibilidad constructiva, siendo reducidas hasta 0,6 (m) de ancho y 1,8 (m) de alto.
 
 d) Las puertas de acceso a la(s) sala(s) de caldera(s) deberá(n) ser de fácil apertura desde el interior, abrirse hacia el exterior y estar provistas de cerradura exterior con llave, además de cumplir con lo establecido en el numeral 5.9.4 de la "Ordenanza General de Urbanismo y Construcciones" o disposición que la reemplace. Se deberá asegurar su fácil apertura y el desplazamiento expedito al interior de la Sala de Calderas, eliminando la existencia de eventuales obstáculos, entre otros, herramientas, vestimenta o muebles, los que deberán estar en un lugar establecido para ello.
-
-"CALDERAS A GAS"
-
-"PROHIBIDA LA ENTRADA A TODA PERSONA AJENA AL SERVICIO"
 
 .
 
@@ -5870,6 +5858,8 @@ Figura 26. Sala de Calderas en Batería.
 
 e) Al exterior de la puerta, en un lugar destacado y en forma visible, a simple vista, se deberán disponer advertencias de seguridad, ya sea a través de letreros, autoadhesivos, placas o pintados, inscripción u otro sistema similar, que cumpla con los requisitos generales establecidos en el numeral 60.3 precedente y las siguientes leyendas:
 
+"CALDERAS A GAS" "PROHIBIDA LA ENTRADA A TODA PERSONA AJENA AL SERVICIO"
+
 78.2.4 Dimensiones.
 
 Las dimensiones de la Sala de Calderas deberán permitir el fácil acceso a las partes o componentes internos de la(s) caldera(s) y el desarrollo normal de las actividades asociadas a su operación y control, como asimismo del mantenimiento del sistema.
@@ -5885,8 +5875,6 @@ En el caso que las calderas a instalar sean del tipo mural y/o modular formado p
 78.2.5 Condiciones interiores.
 
 Los niveles acústicos y de iluminación, normal y de emergencia, en caso de falla del suministro eléctrico, deberán cumplir con, al menos, los requisitos que a continuación se indican:
-
-siguientes características:
 
 a) El nivel acústico en los recintos deberá cumplir con la reglamentación nacional, entre otras, D.S. N° 146/1997 del Ministerio Secretaría General de la Presidencia de la República, "Establece Norma de Emisión de Ruidos Molestos Generados por Fuentes Fijas" y "Reglamento sobre condiciones en el lugar de trabajo", o disposiciones que las reemplacen.
 
@@ -5932,9 +5920,7 @@ b) Exterior.
 
 Las tuberías de acero o cobre al exterior, se deberán separar, de conductores eléctricos aéreos, la distancia que se establece a continuación:
 
-b.1 Al menos 15 (cm), de conductores con
-
-aislación con un voltaje superior a 25
+b.1 Al menos 15 (cm), de conductores con aislación con un voltaje superior a 25
 
 (V), distancia que podrá ser reducida
 
@@ -6004,13 +5990,19 @@ bridas, roscadas o de presión, entre
 
 otras.
 
-a.3 La ejecución de los trabajos de soldadura
+a.3 Los trabajos de soldadura deberán ser
 
-deberá ser realizado por soldadores
+realizados de acuerdo a los procedimientos
 
-calificados por organismos competentes
+correspondientes y mediante métodos que
 
-para tal efecto.
+cumplan las normas oficiales chilenas, y
+
+ante la falta de éstas, conforme a normas
+
+extranjeras reconocidas o aceptadas
+
+internacionalmente.
 
 a.4 Las redes enterradas deberán contar con
 
@@ -6142,9 +6134,11 @@ v. Las tuberías de acero ASTM A-53 clase
 
 entre sus soportes una distancia que
 
-sea superior a la establecida en la
+no sea superior a la establecida en
 
-Tabla XXIX. Soporte de las Tuberías.
+la Tabla XXIX. Soporte de las
+
+Tuberías.
 
 vi. El tipo de perfil y abrazadera, según
 
@@ -6230,31 +6224,25 @@ tramos de éstas y sus uniones con otros
 
 componentes de la red, sean metálicas o
 
-de plástico, deberán ser ejecutadas por
+de plástico, deberán ser ejecutadas de
 
-soldadores calificados por organismos
+acuerdo al procedimiento correspondiente
 
-competentes, en el procedimiento
+y mediante métodos que cumplan las normas
 
-correspondiente y mediante métodos que
+oficiales chilenas, o normas extranjeras
 
-cumplan las normas oficiales chilenas,
+reconocidas o aceptadas internacionalmente,
 
-de aplicación obligatoria y ante la falta
+entre otras, para tuberías de acero,
 
-de éstas, a normas extranjeras reconocidas
+Código ASME BPVC-IX - 2001 BPVC Sección
 
-o aceptadas internacionalmente, entre
+IX - Welding and Brazing Qualifications
 
-otras, para tuberías de acero, Código ASME
+y API - 1104. API Standard 1104, "Welding
 
-BPVC-IX - 2001 BPVC Sección IX - Welding
-
-and Brazing Qualifications y API - 1104.
-
-API Standard 1104, "Welding of Pipelines
-
-and Related Facilities".
+of Pipelines and Related Facilities".
 
 d.2 Las soldaduras de las tuberías de acero
 
@@ -6296,15 +6284,7 @@ Figura 28. Tubería Exterior - Uniones Soldadas.
 
 d.5 Tipo de Inspección a soldaduras.
 
-Cuando las uniones son de tipo soldada,
-
-dependiendo del diámetro de las tuberías se
-
-deberán ensayar y evaluar según lo establecido
-
-en la Tabla XXXI. Ensayo y evaluación de
-
-uniones soldadas.
+Cuando las uniones son de tipo soldada, dependiendo del diámetro de las tuberías se deberán ensayar y evaluar según lo establecido en la Tabla XXXI. Ensayo y evaluación de uniones soldadas.
 
 .
 
@@ -6312,7 +6292,11 @@ Tabla XXXI. Ensayo y evaluación de uniones soldadas.
 
 e) Protección contra la corrosión.
 
-Las tuberías expuestas a la intemperie deberán ser protegidas contra la corrosión, aplicando el procedimiento establecido en las normas oficiales chilenas sobre la materia, de aplicación obligatoria, que corresponda, tales como, NCh2588/2.Of2001 - Tuberías y piezas especiales de acero para agua potable - Revestimientos en base a resinas epóxicas - Parte 2: Preparación de superficies y aplicación, para preparación de superficies y aplicación de pinturas epóxicas en el exterior de tuberías de acero, o algún método de protección pasiva mediante el uso de revestimientos adecuados, debidamente justificado de acuerdo al artículo 7° del presente reglamento, o en su defecto aplicar lo siguiente:
+Las tuberías expuestas a la intemperie deberán ser protegidas contra la corrosión, aplicando el procedimiento establecido en las normas oficiales chilenas sobre la materia, tales como, NCh2588/2.Of2001 - Tuberías y piezas especiales de acero para agua potable -
+
+Revestimientos en base a resinas epóxicas -
+
+Parte 2: Preparación de superficies y aplicación, para preparación de superficies y aplicación de pinturas epóxicas en el exterior de tuberías de acero, o algún método de protección pasiva mediante el uso de revestimientos adecuados, debidamente justificado de acuerdo al artículo 7° del presente reglamento, o en su defecto aplicar lo siguiente:
 
 e.1 Tubería Exterior.
 
@@ -6524,13 +6508,13 @@ Una vez finalizada la ejecución de la Red Interior de Gas, se deberá someter a
 
 La Prueba de Hermeticidad tiene el propósito de verificar la estanqueidad o hermeticidad de las tuberías y elementos que componen la red bajo inspección, es decir, que a lo largo de ésta, no se presenten fugas de gas.
 
-La Prueba de Hermeticidad ya citada deberá ser supervisada por un Instalador de Gas de la clase correspondiente o efectuada por una Entidad de Certificación de Instalaciones de Gas, autorizada por la Superintendencia, de acuerdo al procedimiento que a continuación se establece.
+La prueba de hermeticidad que efectúe una entidad de certificación autorizada por la Superintendencia, deberá realizarse de acuerdo al procedimiento que a continuación se establece:
 
-a) La prueba de hermeticidad, se deberá realizar con el tipo de gas a abastecer, aire o gas inerte, entre otros, nitrógeno (N2), prueba que se podrá efectuar por tramos o de forma completa a toda la instalación de gas, bajo inspección.
+a) La prueba de hermeticidad, se deberá realizar con aire o gas inerte, entre otros, nitrógeno (N2), prueba que se podrá efectuar por tramos o de forma completa a toda la instalación de gas, bajo inspección.
 
 b) Previo al inicio de esta prueba, se deberá comprobar que estén cerradas las válvulas o llaves que delimitan la red o el tramo de ésta bajo inspección y que estén abiertas las llaves o válvulas intermedias.
 
-c) La presión mínima de la prueba de hermeticidad es de 1,5 veces la presión de servicio de la red o tramo de ésta, bajo inspección, medida con un manómetro de Bourdon, graduado en un rango de 0 - 1.000 (kPa) y calibrado en divisiones de hasta un (1) (kPa) u otro instrumento de características similares o superior, con calibración vigente para el rango de medición. Aumentar la presión de servicio mediante incrementos de hasta el 10 (%) de ésta e interrumpir el abastecimiento de gas, otorgando el tiempo necesario para la estabilización de ésta, hasta alcanzar la presión de inspección.
+c) La presión mínima de la prueba de hermeticidad es de 3 veces la presión de servicio de la red o tramo de ésta, bajo inspección, medida con un manómetro de características apropiadas para la presión a registrar, con calibración vigente para el rango de medición. La presión se deberá aumentar mediante incrementos de hasta un 10 (%), otorgando el tiempo necesario para la estabilización de ésta, hasta alcanzar la presión de prueba.
 
 d) Esperar por lo menos quince (15) minutos, para permitir la estabilización de la red, ya sea por cambios de temperatura y/o presión ambiente, o bolsas de aire en la tubería. Si se observa un aumento de presión en el manómetro, significa que la temperatura del circuito está aumentando y se deberá esperar un tiempo adicional hasta su estabilización. Una vez confirmada dicha estabilización, se deberá efectuar la lectura inicial de la presión y comenzar el conteo de tiempo de la prueba de hermeticidad.
 
@@ -6542,11 +6526,11 @@ En todo caso, éste deberá ser de al menos quince (15) minutos, con un máximo 
 
 f) Posteriormente, probar todas las válvulas intermedias, dispuestas dentro de la red o tramo bajo inspección, las cuales deberán estar en posición abierta, colocando en el extremo una tapa tornillo para instalaciones roscadas o flanche ciego para instalaciones soldadas.
 
-g) Comprobar que las juntas o uniones de la red o tramo de ésta bajo inspección, no presenten eventuales fugas, para lo cual se deberá recorrer con un detector de gas con alarma auditiva que actúe a una concentración del 20 (%) del límite inferior de explosividad del gas que se trate o mediante la aplicación de agua jabonosa u otro método similar. Dicho recorrido se deberá efectuar teniendo en consideración la densidad del gas abastecido, si es mayor o menor que la del aire y a una velocidad de desplazamiento que permita al detector de gas efectuar lecturas estables y fidedignas.
+g) Comprobar que las juntas o uniones de la red o tramo de ésta bajo inspección, no presenten fugas, lo cual se deberá efectuar mediante la aplicación de agua jabonosa u otro método similar.
 
 h) Observar y registrar la lectura de la presión en el manómetro durante la realización de la prueba, con el propósito de registrar cualquier movimiento perceptible de dicha lectura, desde el momento en que se efectuó la lectura inicial de la presión, según el literal d) precedente hasta transcurrido el tiempo calculado según el literal e) precedente.
 
-i) La prueba de hermeticidad se deberá considerar aprobada, sólo si la lectura de la presión, durante el desarrollo de ésta, presenta una disminución igual o inferior a 1 (kPa).
+i) La prueba de hermeticidad se deberá considerar aprobada, sólo si no se produce variación entre la lectura de la presión inicial y la final.
 
 j) Se deberá elaborar un documento de respaldo de la ejecución de la(s) prueba(s) de hermeticidad dispuesta(s) que registre, a lo menos, las condiciones operacionales empleadas (presión, flujo, temperatura), tiempo empleado y el personal responsable de su ejecución.
 
@@ -6566,11 +6550,7 @@ a.1 Abolladuras.
 
 a.2 Soldaduras defectuosas, entre otras
 
-causas, falta de penetración, hendiduras
-
-o grietas.
-
-a.3 Corrosión generalizada.
+causas, falta de penetración, hendiduras o grietas. a.3 Corrosión generalizada.
 
 a.4 Corrosión puntual o hendiduras con una
 
@@ -6624,7 +6604,7 @@ El suministro de aire necesario para la combustión de la(s) caldera(s), equipos
 
 Las aberturas de ventilación o conductos deberán ser de dimensiones tales que permitan el ingreso del flujo de aire requerido y estar dispuestas de forma que no puedan ser obstruidos o inundados, además de protegidos para evitar la entrada de cuerpos extraños. En tal caso, la superficie libre de las rejillas de protección deberá ser de al menos el tamaño requerido para las aberturas de ventilación.
 
-Las aberturas de ventilación inferiores que desembocan en otros recintos, deberán estar dispuestas de manera que su borde superior quede a lo menos 0,5 (m) del nivel del suelo, piso o losa de edificación de la Sala de Calderas, aberturas que deberán distar, a lo menos 0,5 (m) de cualquier otra abertura distinta de la entrada de aire practicada en la sala. Para facilitar la ventilación se podrán disponer aberturas en lados opuestos de la sala.
+Las aberturas de ventilación inferiores que desembocan en otros recintos, deberán estar dispuestas de manera que su borde superior quede a lo más 0,5 (m) del nivel del suelo, piso o losa de edificación de la Sala de Calderas, aberturas que deberán distar, a lo menos 0,5 (m) de cualquier otra abertura distinta de la entrada de aire practicada en la sala. Para facilitar la ventilación se podrán disponer aberturas en lados opuestos de la sala.
 
 78.5.2 Aberturas en paredes exteriores.
 
@@ -6738,7 +6718,7 @@ control automático u otro sistema similar.
 
 78.5.6 Ventilación superior de la Sala de Calderas.
 
-Las aberturas de ventilación superiores deberán estar dispuestas en la parte superior de las paredes, de manera que su borde superior quede a lo menos a 0,3 (m) del cielorraso o techo de la Sala de Calderas, aberturas que deberán comunicar con el exterior, ya sea directamente o a través de conductos.
+Las aberturas de ventilación superiores deberán estar dispuestas en la parte superior de las paredes, de manera que su borde inferior quede a lo menos a 0,3 (m) del cielorraso o techo de la Sala de Calderas, aberturas que deberán comunicar con el exterior, ya sea directamente o a través de conductos.
 
 a) Ventilación directa al exterior.
 
@@ -6778,33 +6758,11 @@ de Calderas, expresada en (m2).
 
 78.6 Instalación Eléctrica.
 
-78.6.1 Las conexiones eléctricas de los equipos a gas y
+78.6.1 Las conexiones eléctricas de los equipos a gas y la instalación eléctrica del edificio, deberán cumplir con "NCh Elec. 4/2003" o disposición que la reemplace.
 
-la instalación eléctrica del edificio, deberán
+78.6.2 Las conexiones hacia el artefacto quemador, deberán ser realizadas con cable flexible o conductores en tubería flexible.
 
-cumplir con "NCh Elec. 4/2003" o disposición que
-
-la reemplace.
-
-78.6.2 Las conexiones hacia el artefacto quemador,
-
-deberán ser realizadas con cable flexible o
-
-conductores en tubería flexible.
-
-78.6.3 La instalación eléctrica deberá ser canalizada
-
-en tubería plástica rígida o tubería de acero
-
-con accesorios de fijación de tubos y las cajas
-
-de derivación se deberán mantener con tapa. El
-
-tablero eléctrico del recinto deberá contar con
-
-tapa y las lámparas e interruptores del recinto
-
-se deberán mantener en buen estado.
+78.6.3 La instalación eléctrica deberá ser canalizada en tubería plástica rígida o tubería de acero con accesorios de fijación de tubos y las cajas de derivación se deberán mantener con tapa. El tablero eléctrico del recinto deberá contar con tapa y las lámparas e interruptores del recinto se deberán mantener en buen estado.
 
 CAPITULO X DE LA EVACUACIÓN DE GASES PRODUCTO DE LA
 
@@ -6926,9 +6884,7 @@ muro o elemento correspondiente.
 
 Figura 31. Sombrerete aspirador estacionario.
 
-c) Para el caso de conductos individuales, instalados por el interior de un edificio colectivo, cuyo montaje se deberá hacer a través de un conducto técnico, el terminal de tales conductos deberá sobrepasar el extremo de este último, llegando hasta la altura de la base de la primera abertura de la celosía del sombrerete y evacuar directamente los gases producto de la combustión hacia un único sombrerete, según se muestra en la Figura 37.
-
-Alternativa en Extremo de la Salida de Conductos Individuales o Colectivos y Sombrerete en un Sistema de Circuito Abierto de Tiro Natural.
+c) Para el caso de conductos individuales, instalados por el interior de un edificio colectivo, cuyo montaje se deberá hacer a través de un conducto técnico, el terminal de tales conductos deberá sobrepasar el extremo de este último, llegando hasta la altura de la base de la primera abertura de la celosía del sombrerete y evacuar directamente los gases producto de la combustión hacia un único sombrerete, según se muestra en la Figura 37. Alternativa en Extremo de la Salida de Conductos Individuales o Colectivos y Sombrerete en un Sistema de Circuito Abierto de Tiro Natural.
 
 80.2 Conductos técnicos.
 
@@ -6938,53 +6894,29 @@ La envolvente del conducto técnico deberá poseer las características de resis
 
 80.2.2 Clase F90, en edificios de 5 y 6 pisos;
 
-.
+Nota. Los dibujos tienen sólo un carácter ilustrativo.
+
+Figura 32. Techumbre– Ubicación del Terminal del Conducto y Sombrerete a tres (3) metros o menos del Caballete.
 
 Nota. Los dibujos tienen sólo un carácter ilustrativo.
 
-Figura 32. Techumbre- Ubicación del Terminal del Conducto y Sombrerete a tres (3) metros o menos del Caballete.
-
-.
+Figura 33. Techumbre – Ubicación del Terminal del Conducto y Sombrerete a más de tres (3) metros del Caballete.
 
 Nota. Los dibujos tienen sólo un carácter ilustrativo.
 
-Figura 33. Techumbre - Ubicación del Terminal del Conducto y Sombrerete a más de tres (3) metros del Caballete.
+Figura 34. Techumbre – Ubicación del Terminal del Conducto y Sombrerete a tres (3) metros o menos de un Muro o Antepecho.
 
-.
+NOTA. 1.No se requiere una altura sobre el antepecho cuando la distancia desde los muros o antepecho es mayor a tres (3) metros.
 
-Nota. Los dibujos tienen sólo un carácter ilustrativo.
+2.Los dibujos tienen sólo un carácter ilustrativo.
 
-Figura 34. Techumbre - Ubicación del Terminal del Conducto y Sombrerete a tres (3) metros o menos de un Muro o Antepecho.
+Figura 35. Techumbre – Ubicación del Terminal del Conducto y Sombrerete a más de tres (3) metros de un Muro o Antepecho.
 
-.
+NOTA. 1.Cuando la cubierta se utiliza como terraza con acceso de público, esta distancia deberá ser de al menos 1,8 metros.
 
-NOTA. 1. No se requiere una altura sobre el antepecho
+2.Los dibujos tienen sólo un carácter ilustrativo.
 
-cuando la distancia desde los muros o
-
-antepecho es mayor a tres (3) metros.
-
-2. Los dibujos tienen sólo un carácter
-
-ilustrativo.
-
-Figura 35. Techumbre - Ubicación del Terminal del Conducto y Sombrerete a más de tres (3) metros de un Muro o Antepecho.
-
-.
-
-NOTA. 1. Cuando la cubierta se utiliza como terraza
-
-con acceso de público, esta distancia deberá
-
-ser de al menos 1,8 metros.
-
-2. Los dibujos tienen sólo un carácter
-
-ilustrativo.
-
-Figura 36. Techumbre Plana con Muros Circundantes - Ubicación del Terminal del Conducto y Sombrerete.
-
-.
+Figura 36. Techumbre Plana con Muros Circundantes – Ubicación del Terminal del Conducto y Sombrerete.
 
 Nota. Los dibujos tienen sólo un carácter ilustrativo.
 
@@ -6992,7 +6924,7 @@ Figura 37. Alternativa en Extremo de la Salida de Conductos Individuales o Colec
 
 80.2.3 Clase F120, en edificios de 7 y más pisos.
 
-Tales características se deberán determinar según las normas oficiales chilenas "NCh935/1.Of1977" y NCh2423/1.Of2001 Artefactos a gas - Condiciones de instalación - Parte 1: Especificaciones para la evacuación de gases de la combustión en circuito abierto y tiro natural - Anexo A, o las disposiciones que las reemplacen.
+Tales características se deberán determinar según las normas oficiales chilenas “NCh935/1.Of1977” y NCh2423/1.Of2001 Artefactos a gas - Condiciones de instalación - Parte 1: Especificaciones para la evacuación de gases de la combustión en circuito abierto y tiro natural - Anexo A, o las disposiciones que las reemplacen.
 
 80.3 Aislamiento térmico.
 
@@ -7052,7 +6984,7 @@ Los conductos individuales de evacuación de gases producto de la combustión de
 
 b) Los conductos individuales de evacuación de gases producto de la combustión en edificios no colectivos de tres (3) o menos pisos, no requerirán de conducto técnico, siempre que tales conductos estén a una distancia de al menos 15 (cm) de elementos combustibles, distancia que se podrá reducir a 2 (cm) siempre que se interponga un material no combustible.
 
-c) El sistema de evacuación de gases producto de la combustión constituido por conductos individuales se deberá sustentar en normas oficiales chilenas sobre la materia, de aplicación obligatoria y ante la falta de éstas, en normas extranjeras pertinentes y prácticas recomendadas de ingeniería, reconocidas internacionalmente, teniendo en cuenta su compatibilidad con los requisitos de diseño derivados de la arquitectura. Su diseño deberá contemplar la accesibilidad grado 1 para la realización de las actividades para su mantenimiento, reparación o renovación parcial o total del sistema, que, además, garantice un funcionamiento seguro en el largo plazo.
+c) El diseño de los conductos individuales deberá contemplar una accesibilidad grado 1 para la realización de las actividades propias de su mantenimiento y reparación.
 
 d) El conducto individual de evacuación de gases producto de la combustión deberá ser de material no quebradizo y no combustible, interiormente liso, sin rugosidades, rígido, resistente a la corrosión y capaz de soportar temperaturas de trabajo de hasta 300 (ºC) sin presentar señales de deterioro, que comprometan, significativamente, su integridad o funcionamiento seguro.
 
@@ -7170,7 +7102,7 @@ que sirvan a artefactos de condensación.
 
 81.1.3 Tubos y elementos de pared única.
 
-El conducto individual de evacuación de gases producto de la combustión deberá ser estanco, con una fuga máxima de hasta 1,0 (m3/h) por cada metro de longitud.
+El conducto individual de evacuación de gases producto de la combustión deberá ser estanco.
 
 81.1.4 Dimensiones y tolerancias de tubos y elementos de pared única.
 
@@ -7316,11 +7248,15 @@ natural, que evacuen sus gases producto de la
 
 combustión mediante conductos individuales que
 
-descarguen directamente en fachada, deberán tener
+descarguen directamente en fachada, instalados
 
-una potencia útil nominal de hasta 24,4 (kW) (21
+tanto al interior como al exterior del
 
-Mcal/h), cuyo conducto deberá cumplir con, al
+inmueble, deberán tener una potencia útil
+
+nominal de hasta 24,4 (kW) (21 Mcal/h),
+
+cuyo conducto deberá cumplir con, al
 
 menos, los siguientes requisitos:
 
@@ -7386,7 +7322,7 @@ i) Para el diseño del conducto de evacuación de gases producto de la combusti�
 
 Sistema de Evacuación de Artefactos a Gas de Tiro Forzado o Circuito Estanco en fachada o Patio de Ventilación.
 
-La evacuación de gases producto de la combustión de artefactos a gas, de circuito abierto de tiro forzado o sistema de extracción forzada, así como los de cámara estanca, se deberá efectuar, mediante un conducto vertical a cubierta o en fachada, específicamente diseñado para ello. En el caso de tales artefactos, en uso, se permite el acople de un dispositivo de ayuda a la evacuación de gases producto de la combustión.
+La evacuación de gases producto de la combustión de artefactos a gas, de circuito abierto de tiro forzado o sistema de extracción forzada, así como los de cámara estanca, se deberá efectuar, mediante un conducto vertical a cubierta o en fachada, específicamente diseñado para ello.
 
 Cuando la evacuación de gases producto de la combustión de tales artefactos, se realice mediante conductos de evacuación directa en fachada, éstos se deberán instalar de acuerdo a las instrucciones del fabricante, particularmente, en lo que respecta a su diámetro, configuración y longitud máxima.
 
@@ -7480,6 +7416,8 @@ Nota. Los dibujos tienen sólo un carácter ilustrativo.
 
 Figura 51. Distancia de Sombrerete a Pared Frontal sin Ventana o Ventilación.
 
+> **Nota.** NOTA 4 El numeral 47° del artículo primero, del Decreto 20, Economía, publicado 02.08.2008 modifica la Tabla XXXIV. Valoración de Singularidades del Conducto de Evacuación Directa de Gases de Artefactos a Gas de Circuito Abierto y Tiro Natural, en la primera celda de la columna 'Característica', donde dice: "cola', debe decir: 'cota'.
+
 #### Artículo 83
 
 Requisitos adicionales para los Conductos de Evacuación de Gases de Artefactos a Gas.
@@ -7522,7 +7460,7 @@ Los conductos colectivos de evacuación de gases producto de la combustión debe
 
 84.1.9 Se deberá conectar sólo un artefacto a gas por piso.
 
-84.1.10 Sólo se deberán conectar a los conductos secundarios, artefactos o equipos a gas con capacidades térmicas nominales que difieran en hasta un 30 (%) respecto de la capacidad térmica nominal original del artefacto.
+84.1.10 Sólo se deberán conectar a un mismo conducto colectivo artefactos de gas de iguales características. En el caso de reemplazo de artefactos ya conectados, podrán conectarse artefactos de consumos térmicos nominales que difieran en no más de un 30% respecto del consumo térmico nominal original.
 
 84.1.11 El número de pisos que utilizan un conducto de evacuación de gases producto de la combustión deberá estar en relación efectiva con la capacidad de evacuación del colector (primario) y de las entradas provenientes de los correspondientes conductos secundarios. En caso que el último conducto secundario del sistema corresponda también al último piso del edificio que lo utiliza, éste deberá descargar directamente al exterior a través de la chimenea sin introducirse en el colector (primario).
 
@@ -7580,17 +7518,17 @@ Figura 52. Elementos del Conducto Colectivo de Evacuación de Gases.
 
 b) Conducto secundario.
 
-Ducto que permite descargar los gases producto de la combustión, hacia el conducto colectivo (primario), constituido por un tramo de unión (conducto de enlace) y un tramo recto de descarga (Hs).
+Aquel conectado con la salida del conducto de enlace y dispuesto al interior del conducto primario, según se muestra en la figura 52.
 
 c) Conducto primario.
 
-Ducto que evacua los gases producto de la combustión proveniente de los conductos secundarios hacia el exterior recibe, cuyo último tramo posee una altura (Hu).
+Aquel que permite transportar los gases producto de la combustión hacia el exterior del edificio, según se muestra en la figura 52.
 
 d) Sombrerete.
 
 Dispositivo que protege el conducto colectivo de la lluvia y otras inclemencias climáticas, a través del cual salen al exterior los gases producto de la combustión.
 
-e) Cenicero.
+e) Receptáculo.
 
 Dispositivo en la base del conducto colectivo dispuesto para la extracción de elementos desde el fondo del conducto.
 
@@ -7672,11 +7610,17 @@ condiciones generales, tales como, humedad
 
 relativa del 70%, velocidad del viento de
 
-4 (m/s) y temperatura exterior de 0 ºC
+4 (m/s) y temperatura exterior de -5 °C
 
-para las regiones I a la IX y de -5 ºC
+para las regiones XI, XII, o instalaciones
 
-para las regiones XI y XII, según se
+ubicadas sobre 1.000 m de altura, y de
+
+0 °C para las restantes regiones cuyas
+
+instalaciones se encuentren ubicadas
+
+hasta 1.000 m de altura, según se
 
 ilustra en la Tabla XXXVI. Características
 
@@ -7694,9 +7638,9 @@ conducto colectivo a dimensionar, se
 
 considera que lo está en un 50% y que la
 
-composición de sus materiales, utilizando
+composición de sus materiales, se determi-
 
-las siguientes posibilidades:
+nará utilizando las siguientes posibilidades:
 
 - Conducto técnico de concreto con un
 
@@ -7721,6 +7665,8 @@ Composición de materiales para el
 conducto.
 
 .
+
+NOTA. 1. Se debe entender que el conducto secundario se encuentra totalmente adherido al conducto primario. 2. Los dibujos tienen sólo un carácter ilustrativo.
 
 Figura 53. Composición de materiales para el conducto.
 
@@ -7830,7 +7776,7 @@ Tabla XL. a) Sección mínima de conductos colectivos de instalaciones de GLP en
 
 d) Aplicación.
 
-A fin de ilustrar el uso de las diferentes tablas entregadas en la presente sección, se determinará la sección de un conducto de un edificio ubicado en una región a nivel del mar de baja temperatura (0 ºC), equipado con artefactos a gas natural (GN) de una potencia nominal de 21 (kW) y con un conducto técnico construido en ladrillo para 7 pisos y que incluye un espacio de aire.
+A fin de ilustrar el uso de las diferentes tablas entregadas en la presente sección, se determinará la sección de un conducto de un edificio ubicado en una región a nivel del mar de baja temperatura (0 ºC), equipado con artefactos a gas natural (GN) de una potencia nominal de 21 (kW) y con un conducto técnico construido en hormigón para 7 pisos y que incluye un espacio de aire.
 
 .
 
@@ -7853,6 +7799,8 @@ Para determinar la sección de dicho conducto se deberá utilizar la Tabla XXXIX
 seleccionándose la fila correspondiente a la fila de 7 artefactos a gas, es decir uno por piso del edificio y posteriormente, se considera la potencia nominal de tales artefactos, determinándose que la sección del conducto deberá ser de 1350 (cm2). Finalmente, si se considera que el conducto metálico tendrá una geometría rectangular, el valor determinado, presenta el producto de su ancho "a" (cm) por su largo "b" (cm), es decir: a (cm) x b (cm) = 1350 (cm2).
 
 Además, si se considera que la máxima relación de lados es de 1,5, representada por: b/a = 1,5; se llega a la determinación que el ancho del conducto debe ser al menos de 30 (cm) y el largo máximo de 45 (cm).
+
+> **Nota.** El numeral 50° del artículo primero, del Decreto 20, Economía, publicado 02.08.2008 modifica la Figura 52. Elementos del Conducto Colectivo de Evacuación de Gases, citada en el artículo 84, punto 84.3.1, donde dice: 'Cenicero', debe decir: 'Receptáculo'.
 
 CAPITULO XI DE LA DECLARACION Y PUESTA EN SERVICIO DE
 
@@ -8740,7 +8688,7 @@ Dependiendo del rango de presión, se deberá utilizar del tipo manómetro u otr
 
 Red Interior de Gas.
 
-En lo que respecta a las tuberías, válvulas, dispositivos, accesorios e instalación de éstos, desde la Estación de Regulación y Medición hasta los distintos puntos de consumo, deberán cumplir con lo descrito en el numeral 78.3 precedente, en lo que corresponda y adicionalmente, como mínimo, con los siguientes requisitos:
+Las tuberías, válvulas, dispositivos y accesorios, y su instalación, así como la respectiva prueba de hermeticidad, que deberá ser realizada por un Instalador de Gas, deberán cumplir con lo prescrito en el numeral 78.3 precedente, en lo que corresponda, y adicionalmente, como mínimo, con los siguientes requisitos:
 
 102.1 Tuberías, Uniones y Accesorios.
 
@@ -8780,7 +8728,7 @@ b) La presión máxima y el intervalo de temperatura de operación deberá estar
 
 c) La instalación de piezas de transición PE-metal, se deberá efectuar sólo con elementos certificados y según las instrucciones del fabricante, debiendo quedar la unión siempre enterrada y fuera de las edificaciones o construcciones.
 
-d) Todas las uniones de las tuberías de PE deberán ser soldadas y realizadas por soldadores fusionistas calificados, por organismos competentes.
+d) Todas las uniones de las tuberías de PE deberán ser soldadas y realizadas de acuerdo a los procedimientos correspondientes y mediante métodos que cumplan las normas oficiales chilenas, y ante la falta de éstas, conforme a normas extranjeras reconocidas o aceptadas internacionalmente.
 
 102.1.4 Válvulas, uniones y conexiones de tuberías.
 
