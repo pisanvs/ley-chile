@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.853, de 18 de julio de 2008, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 905, de 2008, que autorizó a V & P CONSULTORES EN RECURSOS NATURALES LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Cambios temporales y espaciales en la alternancia de los recursos sardina común y anchoveta, observados durante la temporada de pesca 2008, en la VIII Región: Georeferenciación, estructura de tallas y aspectos biológicos" en el sentido de extender el período de ejecución de la pesca de investigación hasta el 9 de diciembre de 2008.
+
+Valparaíso, 18 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
