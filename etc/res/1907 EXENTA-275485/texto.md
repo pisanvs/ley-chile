@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.907, de 23 de julio de 2008, de esta Subsecretaría, autorízase a ADOLFO SEGUNDO FORMANTEL RUIZ para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Cristóbal Colón Nº 589, Coyhaique, XI Región, para elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado, Seco salado y Ahumado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
