@@ -1,0 +1,3 @@
+Por resolución Nº 2.031 exenta, de 31 de julio de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207124039, presentada por INVERTEC PESQUERA MAR DE CHILOÉ S.A., para instalar y operar un centro de cultivo ubicado en Seno Martínez, ensenada Sin Nombre, Tierra del Fuego, XII Región.
+
+Valparaíso, 31 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
