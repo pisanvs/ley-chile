@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.852, de 18 de julio de 2008, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 1.447 de 2008 de esta Subsecretaría de Pesca, que autorizó a la SOCIEDAD DE DESARROLLO DE LA PESCA ARTESANAL S.A., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Análisis de recursos pelágicos y de la flota artesanal de cerco que opera en la Región del Bío-Bío", en el sentido de extender el período de ejecución de la pesca de investigación hasta el 9 de diciembre de 2008.
+
+Valparaíso, 18 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
