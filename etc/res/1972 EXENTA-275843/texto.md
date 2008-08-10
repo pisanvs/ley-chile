@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.972, de 30 de julio de 2008, de esta Subsecretaría, autorízase a COMPAÑÍA PESQUERA CAMANCHACA S.A. para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en San José, Isla Quihua, Calbuco, X Región, para elaborar en la línea de proceso de Fresco Enfriado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
