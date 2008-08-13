@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.812, de 17 de julio de 2008, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 861, de 2008, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la condición biológica de Sardina común y Anchoveta, explotados por la flota cerquera artesanal de la VIII Región, año 2008", en el sentido de ampliar el período de estudio hasta el 9 de diciembre de 2008.
+
+Valparaíso, 17 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
