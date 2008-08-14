@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.078 de 7 de agosto de 2008, rectifícase el numeral 1.- letra b) de la resolución Nº 1.739, de esta Subsecretaría, que modificó la resolución exenta Nº 1.023 de 2008, que autorizó a la CORPORACIÓN PARA LA EDUCACIÓN, DESARROLLO E INVESTIGACIÓN DE LA PESCA ARTESANAL DE CHILE, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de parámetros biológicos y sociales de la pesquería artesanal de Anchoveta y Sardina común para embarcaciones de Caleta Tumbes en la región del Bío-Bío", en el sentido de indicar que el correcto Nº de RPA de la embarcación "Mar de Galilea" es 923237.
+
+Valparaíso, 7 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
