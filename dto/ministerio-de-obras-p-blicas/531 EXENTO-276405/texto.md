@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 531, de 30 de junio de 2008, se expropiaron los lotes de terrenos Nº 5 y 5-A, superficies 50 y 43,00 m², Rol Nº 1439-19, comuna de Puerto Varas, X Región, para la obra "Reposición Ruta 225 CH, Sector Puerto Varas - Ensenada X Región, tramo Km. 0,00000 al Km. 10,16000" y se acordó el valor de indemnización con su propietario Carlos Guillermo Minte Weisser, ascendente a la cantidad de $926.516.
+
+Fiscal del Ministerio de Obras Públicas.
