@@ -1,0 +1,3 @@
+Por decreto exento Nº 465, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra "Ampliación Ruta 5 Norte, Sector Coquimbo - La Serena, Km. 469,28000 a Km. 470,69103, Enlace Cuatro Esquinas, Provincia de Elqui, Región de Coquimbo, comuna de La Serena, que figura a nombre de Godoy Navea Eduardo y otro, rol de avalúo 963-001, superficie 50 m2. La Comisión de Peritos fijó con fecha 31 de mayo de 2007, en la cantidad de $2.777.126. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
