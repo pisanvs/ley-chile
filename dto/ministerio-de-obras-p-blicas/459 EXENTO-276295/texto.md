@@ -1,0 +1,5 @@
+Por decreto M.O.P. exento Nº 459, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1 para la obra: Camino Reposición Pav. Ruta M-50, Sector Cauquenes - Tutuven, Km. 2,65000 a Km.
+
+15,24724, que figura a nombre de García Molina Hernán Gonzalo, rol de avalúo 440-102 de la Comuna de Cauquenes, VII Región, superficie 354 m². La Comisión de Peritos, con fecha 16 de enero de 2006, fijó el monto de la indemnización provisional en la cantidad de $2.039.000.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
