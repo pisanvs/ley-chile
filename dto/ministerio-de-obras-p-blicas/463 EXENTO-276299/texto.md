@@ -1,0 +1,3 @@
+Por decreto exento Nº 463, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 5, para la obra Camino Ruta 5 Sur, sector Compu - Colonia Yungay, Tramo Km. 1.240,00 al Km. 1.257,445, Provincia de Chiloé, que figura a nombre de Bahamonde Arrizaga Aníbal, rol de avalúo 179-24, comuna de Quellón, superficie 5.231 m2. La Comisión de Peritos fijó con fecha 18 de octubre de 2001 en la cantidad de $1.569.370. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
