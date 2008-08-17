@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 526, de 30 de junio de 2008, se expropió el lote de terreno Nº 7, superficie 99 m², Rol Nº 894-15, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, El Tránsito-Junta Valeriano, Etapa I, Km. 29,00000 al Km. 37,80000" y se acordó el valor de indemnización con su propietario Aurelio Ocayo Rojas, ascendente a la cantidad de $308.737.
+
+Fiscal del Ministerio de Obras Públicas.
