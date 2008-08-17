@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 443, de fecha 30 de mayo de 2007, se expropió el lote de terreno Nº 9, superficie 529 m2, Rol Nº 46-131, comuna de Monte Patria, IV Región para la obra "Reposición Varios Puentes IV Región, Sector Puentes Ponio I y II.", y se acordó el valor de indemnización con su propietario Sociedad Agrícola Cerro Campanario Limitada, ascendente a la cantidad de $1.470.815.
+
+Fiscal del Ministerio de Obras Públicas.
