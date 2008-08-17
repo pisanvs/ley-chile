@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 442, de fecha 30 de mayo de 2007, se expropiaron los lotes de terrenos Nºs. 2 y 4, superficies 175 y 50 m² respectivamente, Rol Nº 2527-30, comuna de Monte Patria, IV Región para la obra "Reposición Varios Puentes IV Región, Sector Puente Cárcamo.", y se acordó el valor de indemnización con su propietario Agrícola Lorenzo Collao e Hijos Limitada, ascendente a la cantidad de $2.287.467.
+
+Fiscal del Ministerio de Obras Públicas.
