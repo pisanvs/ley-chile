@@ -1,0 +1,5 @@
+Por decreto exento Nº 547, de 30 de junio de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 67 y 73-C, para la obra Reposición Ruta E-35, cruce Longitudinal Cabildo - Petorca, sector III, tramo Km.
+
+40,40000 a Km. 57,65500, comuna de Petorca y provincia de Petorca, V Región, que figuran a nombre de JW Agrícola SA y Fuentes Pérez Mario Antonio, roles de avalúo 138-2 y 136-5, comuna de Petorca, superficies 65 m2 y 650 m2. La Comisión de Peritos, fijó con fecha 18 de junio de 2007, en la cantidad de $789.000, para el lote Nº 67 y con fecha 11 de octubre de 2007, en la cantidad de $2.742.000, para el lote Nº 73-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
