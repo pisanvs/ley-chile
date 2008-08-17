@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 533, de 30 de junio de 2008, se expropió el lote de terreno Nº 45-A1, superficie 330 m², Rol Nº 253-2, comuna de Panguipulli, X Región para la obra "Camino CH-203, Sector Bifurcación Coñaripe-Choshuenco, Tramo Km. 56,68000 al Km. 93,28612" y se acordó el valor de indemnización con su propietaria Doralisa del Carmen Manríquez Vega, ascendente a la cantidad de $1.514.249.
+
+Fiscal del Ministerio de Obras Públicas.
