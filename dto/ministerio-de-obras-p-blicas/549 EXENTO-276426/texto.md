@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 549 de 30 de junio de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 34 para la obra: "Camino Reposición de Rutas K-690 y M-20-K, sector Cruce Ruta K-60 (Gualleco) - Coipué - Carrizal, km. 0,00000 - km. 35,99711, Tramo km.
+
+0,00650 a km. 9,77000", que figura a nombre de Escobar Díaz Polidorio, rol de avalúo 362-20, de la comuna de Constitución, VII Región, superficie 4.663 m². La Comisión de Peritos con fecha 5 de marzo de 2001 fijó el monto de la indemnización provisional en la cantidad de $1.736.670.- para el lote Nº 34. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
