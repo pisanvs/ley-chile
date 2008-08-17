@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 546 de 30 de junio de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP Nº 206 de 1960, se expropió el lote de terreno Nº 44, para la obra "Concesión Embalse Convento Viejo II Etapa VI Región Canal Norte Unificado Tramo I.
+
+Km. 0.000,00 al Km. 17.700,00"; Sexta Región, que figura a nombre de González Muñoz Francisco Eusebio, rol de avalúo 17-95, comuna de Lolol, superficie 2.752 m². La comisión de peritos integrada por los señores Andrés Rainer Schulz Villanueva, Mónica del Carmen Conejeros Rudloff y Fernando Javier Espina Oettinger, fijó con fecha 21 de enero de 2008, el valor provisional de la indemnización en la cantidad de $2.730.600.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
