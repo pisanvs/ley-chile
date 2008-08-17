@@ -1,0 +1,3 @@
+Por decreto exento Nº 464, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 6, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 - Km. 19,500, Provincia de Huasco, III Región, Etapa III, que figura a nombre de Portilla Trigo Edilia Aída, rol de avalúo 868-5, superficie 261 m2. La Comisión de Peritos fijó con fecha 14 de septiembre de 2005 en la cantidad de $431.750. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
