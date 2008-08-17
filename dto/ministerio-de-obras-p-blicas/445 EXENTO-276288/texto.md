@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 445 de fecha 30 de mayo de 2008, se expropiaron los lotes de terreno Nºs. 77, 79, 81, 82 y 80-A superficies 531, 509, 227, 39 y 53 m2, Rol Nº 2203-186, comuna de Puerto Montt, X Región, para la obra "Mejoramiento Ruta 7, sector Quillaipe - La Arena, tramo Km. 15,84700 a Km. 40,41746", y se acordó el valor de indemnización con su propietario Manuel Sixto Gutiérrez Hernández, ascendente a la cantidad de $4.245.436.- para los lotes Nºs. 77, 79, 81, 82 y 80-A.
+
+Fiscal del Ministerio de Obras Públicas.
