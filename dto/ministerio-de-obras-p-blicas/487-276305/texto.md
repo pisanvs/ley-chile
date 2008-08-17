@@ -1,0 +1,5 @@
+Por decreto MOP Nº 487, de 11 de julio de 2008 y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y artículo 10 de la ley Nº 18.772, se expropió para la Empresa de Transporte de Pasajeros Metro S.A., el lote de terreno Nº 227L4, necesario para la obra "Proyecto Línea 4, Sector: A. Vespucio - Puente Alto", que figura a nombre de Sánchez Góngora Sara R., que corresponde a la propiedad de Sn.
+
+J. Estrella Nº 20, rol de avalúo 3059-12, comuna de La Florida, Región Metropolitana, superficie 59,00 m2. La comisión de peritos, con fecha 6 de mayo de 2008, fijó el monto de la indemnización provisional en la cantidad de $7.080.000.- para el lote Nº 227L4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
