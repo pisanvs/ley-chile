@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 561, de 30 de junio de 2008, se expropió el lote de terreno Nº 145-1, superficie 3.339 m², rol de avalúo 160-46, comuna de Ranquil, para la obra "Camino Acceso Norte a Concepción, VIII Región. Sector Km. 25.360,00 al Km. 25.760,00", Octava Región, se acordó el valor de la indemnización con su propietaria María Irene Oviedo Fuentes y Otros, ascendente a la cantidad de $1.145.878.
+
+Fiscal del Ministerio de Obras Públicas.
