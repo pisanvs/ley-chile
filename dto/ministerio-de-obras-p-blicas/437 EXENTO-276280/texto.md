@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 437, de fecha 30 de mayo de 2008, se expropiaron los lotes de terrenos Nºs 30 y 30-A, superficie 1.634 y 19 m2 respectivamente, Rol Nº 2205-187, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, Tramo Km. 15,84700 al Km. 40,41746", y se acordó el valor de indemnización con su propietario José Alamiro Soto Olavarría, ascendente a la cantidad de $3.064.274.
+
+Fiscal del Ministerio de Obras Públicas.
