@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.095, de 8 de agosto de 2008, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.564, de 2007, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA BÍO BÍO S.A. para realizar actividades pesqueras extractivas con la nave en construcción en el área marítima comprendida entre la IV y IX Regiones, sobre el recurso Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y lo informado mediante informe técnico citado en la resolución extractada.
+
+Valparaíso, 8 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
