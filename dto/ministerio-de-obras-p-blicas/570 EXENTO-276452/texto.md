@@ -1,0 +1,5 @@
+Por decreto exento Nº 570, de 30 de junio de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 5 y 6, para la obra "Camino Estancia Vicuña - Yendegaia, Sector Ramal Caleta María, Km. 8,64675 al Km.
+
+12,82800, 8º Etapa Tierra del Fuego, Región de Magallanes y la Antártica Chilena", que figuran a nombre de Contreras Muñoz Julio Gastón, rol de avalúo 671-26, comuna de Timaukel, superficies 142.815 m2 y 24.335 m2. La Comisión de Peritos, fijó con fecha 10 de septiembre de 2007, en las cantidades de $3.084.804, para el lote Nº 5 y $730.050, para el lote Nº 6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
