@@ -1,0 +1,5 @@
+Por decreto exento Nº 466, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra "Mejoramiento Ruta 7 Longitudinal Austral, sector Ex Pozos de Empréstitos - El Amarillo, tramo Km.
+
+13,000 al Km. 26,700, provincia de Palena, X Región, que figura a nombre de Venegas Venegas Ezio Ernesto, rol de avalúo 204-40, comuna de Chaitén, supeficie 3.713 m2. La Comisión de Valdivia, la Comisión de Peritos, fijó con fecha 30 de septiembre de 2004, en la cantidad de $1.896.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
