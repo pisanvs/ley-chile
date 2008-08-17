@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 527, de 30 de junio de 2008, se expropió el lote de terreno Nº 7, superficie 417 m², Rol Nº 839-11, comuna de Vallenar, III Región, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sector Puente La Verbena" y se acordó el valor de indemnización con su propietario Oriel Orlando Flores Flores, ascendente a la cantidad de $2.393.113.
+
+Fiscal del Ministerio de Obras Públicas.
