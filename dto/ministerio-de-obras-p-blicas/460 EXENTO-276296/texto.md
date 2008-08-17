@@ -1,0 +1,5 @@
+Por decreto exento MOP Nº 460, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropiaron los lotes de terreno Nºs. 13 y 14, para la obra: "Camino Ruta S-16, Sector Chol Chol - Nueva Imperial tramo Km.
+
+24,30269 al Km. 43,50000, Sub-tramo I Km. 24,30269 al Km. 29,84000", que figura a nombre Levio Neculpán José Marcelino, rol de avalúo Nº 616-57, comuna de Chol Chol, IX Región de La Araucanía, superficies 336 m2 y 27 m2. La Comisión de Peritos fijó el monto provisional de la indemnización el 12 de octubre de 2002, complementada por acta de 18 de octubre de 2005, en la cantidad de $146.400.- para el lote Nº 13 y $22.800.- para el lote Nº 14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
