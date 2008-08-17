@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 446 de fecha 30 de mayo de 2008, se expropiaron los lotes de terreno Nºs. 126, 131 y 132 superficies 2.421, 481 y 1.502 m², Rol Nº 555-201, comuna de Saavedra, IX Región, para la obra "Mejoramiento Ruta S-46, Sector Carahue - Puerto Domínguez Tramo Km. 0,00000 al Km. 25,59838, subtramo III Km. 16,04700 al Km. 25,59838, provincia de Cautín, comunas de Carahue y Saavedra, Región de la Araucanía", y se acordó el valor de indemnización con su propietario Conrado Lavoz Salazar, ascendente a la cantidad de $4.849.634.- para los lotes Nºs. 126, 131 y 132.
+
+Fiscal del Ministerio de Obras Públicas.
