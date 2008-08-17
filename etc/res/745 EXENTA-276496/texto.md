@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIA LA INVERNADA
+
+Resolución exenta Nº 745, del 6 de agosto de 2008, resolvió la clausura a partir de esta fecha de Estancia La Invernada, Roles 5111-0078 y 5121-0038, propiedad de la Sra. María Luisa Solo de Zaldívar Clavel. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una vista inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 4 de agosto de 2008. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
