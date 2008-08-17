@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 436, de fecha 30 de mayo del 2008, se expropió el lote de terreno Nº 213-1, superficie 864 m², Rol Nº 610-1, comuna de Tomé, VIII Región para la obra "Camino Acceso Norte a Concepción, VIII Región. Sector Km. 48.780,00 al Km. 49.080,00", y se acordó el valor de indemnización con su propietario Inés del Rosario Torres Castillo, ascendente a la cantidad de $473.097.
+
+Fiscal del Ministerio de Obras Públicas.
