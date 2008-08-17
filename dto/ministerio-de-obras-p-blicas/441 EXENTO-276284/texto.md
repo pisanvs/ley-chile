@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 441, de fecha 30 de mayo de 2008, se expropió el lote de terreno Nº 62, superficie 756 m2, Rol Nº 576-410, comuna de Saavedra, IX Región para la obra "Camino Ruta Lafquenche sector Puente Budi - Puente Chelle. Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región" y se acordó el valor de indemnización con su propietario José Miguel Malo Pichinual, ascendente a la cantidad de $792.883.
+
+Fiscal del Ministerio de Obras Públicas.
