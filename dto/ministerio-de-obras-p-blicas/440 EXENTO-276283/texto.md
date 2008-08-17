@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 440, de fecha 30 de mayo de 2008, se expropiaron los lotes de terrenos Nºs 36 y 37, superficie 96 y 163 m2 respectivamente, Rol Nº 576-189, comuna de Saavedra, IX Región para la obra "Camino Ruta Lafquenche sector Puente Budi - Puente Chelle. Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región" y se acordó el valor de indemnización con su propietaria María Graciela Fuentes Cartes, ascendente a la cantidad de $1.022.057.
+
+Fiscal del Ministerio de Obras Públicas.
