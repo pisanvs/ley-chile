@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 525, de 30 de junio de 2008, se expropió el lote de terreno Nº 2, superficie 331 m², rol de avalúo 266-32, comuna de Tucapel, para la obra 'Camino Huépil - Trupán - Polcura, Sector Puente El Manco, Km. 18,50000 al Km. 18,80000", VIII Región, y se acordó el valor de la indemnización con su propietaria Brunilda Raquel Ortiz Burgos, ascendente a la cantidad de $1.799.647.
+
+Fiscal del Ministerio de Obras Públicas.
