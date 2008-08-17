@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 518 de fecha 30 de junio de 2008, se expropió el lote de terreno Nº 4, superficie 98 m2, Rol Nº 881-40, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 - Km. 19,500, Provincia de Huasco, III Región, Etapa IV" y se acordó el valor de indemnización con su propietaria Lucinda Benilda Quinzacara Páez y otro, ascendente a la cantidad de $554.936.
+
+Fiscal del Ministerio de Obras Públicas.
