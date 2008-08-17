@@ -1,0 +1,3 @@
+Por decreto M.O.P. exento Nº 455, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 38-A para la obra: Habilitación Avda. Circunvalación Río Claro en Talca, que figura a nombre de Gaete Gaete Luis M., rol de avalúo 731-3 de la Comuna de Talca, VII Región, superficie 56 m². La Comisión de Peritos, con fecha 2 de diciembre de 2007, fijó el monto de la indemnización provisional en la cantidad de $1.338.000.- para el lote Nº 38-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
