@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 535, de 30 de junio de 2008, se expropiaron los lotes de terrenos Nºs. 114-B, 115-B, 115-C y 115-D, superficies 246, 90, 252 y 220 m², Rol Nº 2206-59, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe-La Arena, Tramo Km. 15,84700 al Km. 40,41746" y se acordó el valor de indemnización con su propietario Jorge Bernardo Lavín Carrasco, ascendente a la cantidad de $2.874.608.
+
+Fiscal del Misterio de Obras Públicas.
