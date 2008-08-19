@@ -1,0 +1,7 @@
+APRUEBA REFORMAS DE ESTATUTOS A ISE CHILE COMPAÑÍA DE SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 514, de fecha 12 de agosto de 2008, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos, de la sociedad anónima ISE Chile Compañía de Seguros Generales S.A., acordada en junta extraordinaria de accionistas celebrada el 22 de mayo de 2008 y reducida a escritura pública en la misma fecha, complementada mediante escritura pública de 24 de julio de 2008, ambas otorgadas en la Notaría de Santiago de don Sergio Henríquez Silva, domiciliado en calle Teatinos 331, Santiago.
+
+Se fija el capital social suscrito y pagado, en la suma de $3.445.950.150 pesos dividido en 331.970.448 acciones sin valor nominal. Este capital se aumenta en $2.170.448.489 pesos mediante la emisión de 210.275.366 acciones a suscribir y pagar dentro del plazo de tres años contado desde la fecha de la junta, quedando el capital social en la suma de $5.616.398.639 dividido en 542.245.814 acciones sin valor nominal y de una misma serie. Se modifica artículo quinto y se agrega artículo transitorio en los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Carmen Undurraga Martínez, Secretario General.
