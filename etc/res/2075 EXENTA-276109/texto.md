@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.075 de 7 de agosto de 2008, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta N° 320 de 2008, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado 'Monitoreo de la pesquería de Jaibas extraída por la flota artesanal trampera de Ancud, Región de Los Lagos', en el sentido de ampliar el plazo de autorización de la Pesca de Investigación hasta el 31 de octubre de 2008.
+
+Valparaíso, 7 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
