@@ -1,0 +1,13 @@
+APRUEBA REFORMA DE ESTATUTOS DE ABN AMRO (CHILE) SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº507 de fecha 8 de agosto de 2008 esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de ABN AMRO (Chile) Seguros Generales S.A., acordada en juntas extraordinarias de accionistas celebradas el 22 de marzo de 2006 y 22 de mayo de 2008 y reducidas a escritura pública el 24 de marzo de 2006 y 18 de junio de 2008 respectivamente, en la Notaría de Santiago de don Patricio Raby Benavente, domiciliado en Moneda 920, oficina 205.
+
+La reforma consiste en cambiar el nombre y objeto social, reemplazando el artículo primero del estatuto por el siguiente: Artículo Primero: Se constituye una Sociedad Anónima con el nombre de RBS (Chile) Inversiones Financieras S.A., que se regirá por los presentes estatutos y por las disposiciones legales y reglamentarias actualmente vigentes o por las que modifiquen o reemplacen en el futuro. La Sociedad tiene por objeto el siguiente: (a) Empresas de asesorías financieras, cuando su giro sea asesorar en materias de índole financiera en cualquiera de las siguientes actividades: (i) búsqueda de fuentes alternativas de financiamiento; (ii) reestructuración de sus pasivos;
+
+(iii) negociaciones para adquirir, vender o fusionar empresas; (iv) emisión y colocación de bonos; v) colocación de fondos en el mercado de capitales; (vi) análisis de riesgos crediticios o de mercado; (vii) evaluación de nuevos negocios; (viii) conocimientos de materias bancarias; (b) la inversión, adquisición y compraventa de toda clase de bienes muebles, corporales e incorporales, de toda clase de títulos o valores mobiliarios y de bienes raíces; (c) constituir sociedades de toda índole o incorporarse a otras existentes, adquiriendo derechos o acciones; (d) prestar servicios de consultoría, asesoría y/o planificación a inversionistas nacionales o extranjeros; (e) desempeñar mandatos, comisiones y representaciones de todo tipo;
+
+(f) realizar todo tipo de operaciones de comercio exterior y de cambios internacionales; (g) recibir en depósito toda clase de bienes muebles, corporales o incorporales; (h) efectuar cobranza de facturas, efectos de comercio, documentos bancarios y toda clase de títulos de crédito o de inversión. Se fija su domicilio en la ciudad de Santiago, comuna de Las Condes, pudiendo establecer las sucursales y agencias que considere necesarias para el desarrollo de sus operaciones, tanto en Chile como en el extranjero.
+
+Se modifican también los artículos 27 y 31 de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 8 de agosto de 2008.- Carmen Undurraga Martínez, Secretario General.
