@@ -734,13 +734,23 @@ El que fabricare o hiciere circular objetos cuya forma se asemeje a billetes de 
 
 El Banco deberá comunicar, por escrito, a los respectivos organismos fiscalizadores, las sanciones que se impongan en virtud de este Título a las instituciones sujetas a su control.
 
+#### Artículo 65 bis
+
+El Banco Central se rige por el principio de transparencia en el ejercicio de la función pública, consagrado en el artículo 8° inciso segundo de la Constitución Política de la República y en los artículos 3° y 4° de la Ley de Transparencia de la Función Pública y Acceso a la Información de la Administración del Estado.
+
+La publicidad y el acceso a la información del Banco se regirán, en lo que fuere pertinente, por las siguientes normas de la ley citada en el inciso anterior: Título II; Título III, a excepción del artículo 9°; y los artículos 10 al 22 del Título IV. En todo caso, la prórroga de que trata el inciso segundo del referido artículo 22, se adoptará mediante acuerdo del Consejo que requerirá del voto favorable de, a lo menos, cuatro consejeros y en cuanto a la preservación de documentos de que trata esa misma disposición, se aplicará lo dispuesto en el artículo 86. Las referencias que dichas normas hacen a la autoridad, jefatura o jefe superior, se entenderán hechas al Presidente del Banco.
+
+Vencido el plazo legal para la entrega de la información requerida, o denegada la petición por alguna de las causales autorizadas por la ley, el requirente podrá reclamar ante la Corte de Apelaciones de Santiago, de conformidad con lo dispuesto en el artículo 69. La Corte, en la misma sentencia que acoja el reclamo, sancionará con multa de 20% a 50% de las remuneraciones al infractor.
+
+El Banco, mediante acuerdo del Consejo publicado en el Diario Oficial, establecerá las demás normas e instrucciones necesarias para dar cumplimiento a las disposiciones legales citadas.
+
 ## Título V
 
 Del Procedimiento de Publicidad y Reclamo
 
 #### Artículo 66
 
-El Banco deberá guardar reserva respecto de los antecedentes relativos a las operaciones que efectúe, y no podrá proporcionar información sobre ellas sino a la persona que haya sido parte de las mismas, o a su mandatario o representante legal.
+Además, el Banco deberá guardar reserva respecto de los antecedentes relativos a las operaciones de crédito de dinero que celebre o las inversiones que efectúe en conformidad a los artículos 34, 36, 37, 38, 54, 55 y 56; de los que provengan de la información que requiera en conformidad a los artículos 40, 42 y 49 en materia de operaciones de cambios internacionales o de atribuciones que le otorgan en esa misma materia otras leyes; y de la información que recabe para el cumplimiento de la función contemplada en el artículo 53; y, no podrá proporcionar información sobre ellos sino a la persona que haya sido parte de las mismas, o a su mandatario o representante legal.
 
 No regirá lo dispuesto en el inciso enterior en el caso en que los respectivos antecedentes le sean solicitados por la Superintendencia de Bancos e Intituciones Financieras con ocasión de fiscalizaciones que ésta realice a las entidades sujetas a su control o por el Servicio Nacional de Aduanas, si se trata de los documentos previstos en el artículo 45 o por este Servicio, el de Impuestos Internos o el de Tesorerías, en el caso de fiscalizaciones relacionadas con solicitudes de franquicias aduaneras, tributarias o de fomento a las exportaciones o de la Fiscalía Nacional Económica del decreto ley Nº 211, de 1973, cuando se trate de asuntos de su competencia y previa aprobación de la Comisión Resolutiva. Tampoco regirá la obligación de guardar reserva respecto de los antecedentes que le soliciten la Unidad de Análisis Financiero o el Ministerio Público, tratándose de las operaciones sospechosas o de los delitos contemplados en la ley que crea la referida Unidad.
 

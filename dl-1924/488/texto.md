@@ -60,9 +60,7 @@ e) Pasar anualmente el Archivo Histórico Nacional los volúmenes relativos a lo
 
 o Ningún volúmen ni documento podrá salir del Archivo General de Gobierno, sino para la consulta personal de los Ministros de Estado, manifestada por escrito, debiendo restituírseles al Archivo en el plazo de treinta días.
 
-#### Artículo 8
-
-o Se prohibe a los empleados del Archivo proporcionar dato alguno relativo a los documentos existentes, salvo los indicados en la letra b) del artículo 5.o. Los que contravinieren a esta disposición incurrirán en las penas que señalan los artículos 242 a 246 del Código Penal.
+Artículo.- Derogado
 
 #### Artículo 9
 

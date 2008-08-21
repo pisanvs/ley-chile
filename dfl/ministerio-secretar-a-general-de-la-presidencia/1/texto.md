@@ -82,9 +82,29 @@ Los funcionarios de la Administración del Estado deberán observar el principio
 
 La función pública se ejercerá con transparencia, de manera que permita y promueva el conocimiento de los procedimientos, contenidos y fundamentos de las decisiones que se adopten en ejercicio de ella.
 
-INCISOS DEROGADOS.
+Son públicos los actos administrativos de los órganos de la Administración del Estado y los documentos que les sirvan de sustento o complemento directo y esencial.
 
-> **Nota.** El artículo transitorio de la LEY 20285, publicada el 20.08.2008, dispone que la modificación de la presente norma, entrará en vigencia ocho meses después de su publicación.
+La publicidad a que se refiere el inciso anterior se extiende a los informes y antecedentes que las empresas privadas que presten servicios de utilidad pública y las empresas a que se refieren los incisos tercero y quinto del Artículo 37 de la ley Nº
+
+18.046, sobre Sociedades Anónimas, proporcionen a las entidades estatales encargadas de su fiscalización, en la medida que sean de interés público, que su difusión no afecte el debido funcionamiento de la empresa y que el titular de dicha información no haga uso de su derecho a denegar el acceso a la misma, conforme a lo establecido en los incisos siguientes.
+
+En caso de que la información referida en los incisos anteriores no se encuentre a disposición del público de modo permanente, el interesado tendrá derecho a requerirla por escrito al jefe del servicio respectivo.
+
+Cuando el requerimiento se refiera a documentos o antecedentes que contengan información que pueda afectar los derechos o intereses de terceros, el jefe superior del órgano requerido, dentro del plazo de cuarenta y ocho horas, deberá comunicar mediante carta certificada, a la o las personas a que se refiere o afecta la información correspondiente, la facultad que les asiste para oponerse a la entrega de los documentos solicitados, adjuntando copia del requerimiento respectivo.
+
+Los terceros interesados podrán ejercer su derecho de oposición dentro del plazo de tres días hábiles contado desde la fecha de notificación, la cual se entenderá practicada al tercer día de despachada la correspondiente carta certificada. La oposición deberá presentarse por escrito y no requerirá expresión de causa.
+
+Deducida la oposición en tiempo y forma, el órgano requerido quedará impedido de proporcionar la documentación o antecedentes solicitados, salvo resolución judicial en contrario, dictada conforme al procedimiento que establece el Artículo siguiente. En caso de no deducirse la oposición, se entenderá que el tercero afectado accede a la publicidad de dicha información, a menos que el jefe superior requerido estime fundadamente que la divulgación de la información involucrada afecta sensiblemente los derechos o intereses de los terceros titulares de la misma.
+
+El jefe superior del órgano requerido deberá pronunciarse sobre la petición, sea entregando la documentación solicitada o negándose a ello, dentro del plazo de cuarenta y ocho horas contado desde la formulación del requerimiento, o desde la expiración del plazo concedido al tercero afectado, en el caso previsto en el inciso séptimo.
+
+El jefe superior del órgano requerido deberá proporcionar la documentación que se les solicite, salvo que concurra alguna de las causales que establece el inciso siguiente, que le autorizan a negarse.
+
+En este caso, su negativa a entregar la documentación deberá formularse por escrito y fundadamente, especificando las razones que en cada caso motiven su decisión.
+
+Las únicas causales en cuya virtud se podrá denegar la entrega de los documentos o antecedentes requeridos son la reserva o secreto establecidos en disposiciones legales o reglamentarias; el que la publicidad impida o entorpezca el debido cumplimiento de las funciones del órgano requerido; la oposición deducida en tiempo y forma por los terceros a quienes se refiere o afecta la información contenida en los documentos requeridos; el que la divulgación o entrega de los documentos o antecedentes requeridos afecte sensiblemente los derechos o intereses de terceras personas, según calificación fundada efectuada por el jefe superior del órgano requerido, y el que la publicidad afecte la seguridad de la Nación o el interés nacional.
+
+Uno o más reglamentos establecerán los casos de secreto o reserva de la documentación y antecedentes que obren en poder de los órganos de la Administración del Estado.
 
 #### Artículo 14
 
@@ -132,9 +152,7 @@ De la Organización y Funcionamiento
 
 La organización básica de los Ministerios, las Intendencias, las Gobernaciones y los servicios públicos creados para el cumplimiento de la función administrativa, será la establecida en este Título.
 
-Las normas del presente Título no se aplicarán a la Contraloría General de la República, al Banco Central, a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública, los Gobiernos Regionales, a las Municipalidades, al Consejo Nacional de Televisión, al Consejo para la Transparencia y a las empresas públicas creadas por ley, órganos que se regirán por las normas constitucionales pertinentes y por sus respectivas leyes orgánicas constitucionales o de quórum calificado, según corresponda.
-
-> **Nota.** El artículo transitorio de la LEY 20285, publicada el 20.08.2008, dispone que la modificación de la presente norma, entrará en vigencia ocho meses después de su publicación.
+Las normas del presente Título no se aplicarán a la Contraloría General de la República, al Banco Central, a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública, los Gobiernos Regionales, a las Municipalidades, al Consejo Nacional de Televisión y a las empresas públicas creadas por ley, órganos que se regirán por las normas constitucionales pertinentes y por sus respectivas leyes orgánicas constitucionales o de quórum calificado, según corresponda.
 
 #### Artículo 22
 

@@ -32,9 +32,9 @@ Funciones y atribuciones
 
 Corresponderá a las municipalidades, en el ámbito de su territorio, las siguientes funciones privativas:
 
-a) Elaborar, aprobar y modificar el plan comunal de desarrollo cuya aplicación deberá armonizar con los planes regionales y nacionales y, en lo pertinente, con el respectivo instrumento de planificación territorial de nivel comunal;
+a) Elaborar, aprobar y modificar el plan comunal de desarrollo cuya aplicación deberá armonizar con los planes regionales y nacionales;
 
-b) La planificación y regulación de la comuna y la confección del plan regulador comunal, de acuerdo con las normas legales vigentes y en coherencia con el plan comunal de desarrollo;
+b) La planificación y regulación de la comuna y la confección del plan regulador comunal, de acuerdo con las normas legales vigentes;
 
 c) La promoción del desarrollo comunitario;
 
@@ -42,69 +42,7 @@ d) Aplicar las disposiciones sobre transporte y tránsito públicos, dentro de l
 
 e) Aplicar las disposiciones sobre construcción y urbanización, en la forma que determinen las leyes, sujetándose a las normas técnicas de carácter general que dicte el ministerio respectivo, y
 
-f) El aseo y ornato de la
-
-comuna. Respecto a los residuos
-
-domiciliarios, su recolección,
-
-transporte y/o disposición
-
-final corresponderá a las
-
-municipalidades, con excepción de
-
-las que estén situadas en un área
-
-metropolitana y convengan con el
-
-respectivo gobierno regional que
-
-asuma total o parcialmente estas
-
-tareas. Este último deberá contar
-
-con las respectivas autorizaciones
-
-de las Secretarías Regionales
-
-Ministeriales de Vivienda y
-
-Urbanismo, de Medio Ambiente
-
-y de Salud.
-
-En estos casos, la
-
-municipalidad transferirá
-
-al gobierno regional el total o
-
-la parte proporcional de los
-
-derechos de aseo cobrados que
-
-correspondan a las tareas asumidas
-
-por éste, según se determine en el
-
-acuerdo respectivo. El alcalde que
-
-no cumpla con este deber podrá ser
-
-sancionado por el tribunal electoral
-
-regional competente por notable
-
-abandono de deberes o mediante la
-
-aplicación de alguna de las medidas
-
-disciplinarias dispuestas en las
-
-letras a), b) o c) del artículo 120
-
-de la ley N° 18.883.
+f) El aseo y ornato de la comuna.
 
 #### Artículo 4º
 
@@ -126,17 +64,13 @@ g) La construcción de viviendas sociales e infraestructuras sanitarias;
 
 h) El transporte y tránsito públicos;
 
-i) La Gestión del Riesgo de Desastres en el territorio de la comuna, la que comprenderá especialmente las acciones relativas a las Fases de Mitigación y Preparación de estos eventos, así como las acciones vinculadas a las Fases de Respuesta y Recuperación frente a emergencias.
+i) La prevención de riesgos y la prestación de auxilio en situaciones de emergencia o catástrofes;
 
-j) El desarrollo, implementación, evaluación, promoción, capacitación y apoyo de acciones, planes, medidas y proyectos, así como la celebración de convenios con otras entidades públicas en el ámbito de la seguridad pública, la prevención del delito, la reinserción social y la asistencia a víctimas, a nivel comunal, con el objeto de proteger a las personas y promover la convivencia vecinal. Lo anterior, sin perjuicio de las funciones del Ministerio de Seguridad Pública, de las instituciones policiales o de otros organismos que tengan competencia en estas materias, de conformidad con la ley.
-
-Asimismo, deberá desarrollar un trabajo territorial coordinado con las Fuerzas de Orden y Seguridad Pública, con el Ministerio Público y con las demás instituciones públicas o privadas cuyas funciones se vinculen con la seguridad pública y la prevención del delito en el ámbito local. Deberá procurar la participación activa de las organizaciones sociales y vecinales en estas materias
+j) El apoyo y el fomento de medidas de prevención en materia de seguridad ciudadana y colaborar en su implementación, sin perjuicio de lo dispuesto en el inciso segundo del artículo 101 de la Constitución Política;
 
 k) La promoción de la igualdad de oportunidades entre hombres y mujeres, y
 
 l) El desarrollo de actividades de interés común en el ámbito local.
-
-m) La promoción de los derechos de los niños, niñas y adolescentes, la prevención de vulneraciones de derechos y la protección general de los mismos.
 
 #### Artículo 5º
 
@@ -146,9 +80,7 @@ a) Ejecutar el plan comunal de desarrollo y los programas necesarios para su cum
 
 b) Elaborar, aprobar, modificar y ejecutar el presupuesto municipal;
 
-c) Administrar los bienes municipales y nacionales de uso público, incluido su subsuelo, existentes en la comuna, salvo que, en atención a su naturaleza o fines y de conformidad a la ley, la administración de estos últimos corresponda a otros órganos de la Administración del Estado. En ejercicio de esta atribución, les corresponderá, previo informe del consejo comunal de organizaciones de la sociedad civil, asignar y cambiar la denominación de tales bienes. Asimismo, con el acuerdo de los dos tercios de los concejales en ejercicio, podrá hacer uso de esta atribución respecto de poblaciones, barrios y conjuntos habitacionales, en el territorio bajo su administración.
-
-Las municipalidades podrán autorizar, por un plazo de cinco años, el cierre o la implementación de medidas de control de acceso a calles y pasajes, o a conjuntos habitacionales urbanos o rurales con una misma vía de acceso y salida, con el objeto de garantizar la seguridad de los vecinos. Además, en idénticos términos, se podrá autorizar la implementación de medidas de control de acceso en calles y pasajes que tuvieren un acceso y salida diferentes, y siempre que no se limite ni entorpezca con ello, en forma alguna, el tránsito peatonal y en todo momento se permita el acceso a los vehículos de emergencia, de seguridad pública, de utilidad pública y de beneficio comunitario. Dicha autorización requerirá el acuerdo del concejo respectivo. El plazo se entenderá prorrogado automáticamente por igual período, salvo resolución fundada en contrario de la municipalidad con acuerdo del concejo.
+c) Administrar los bienes municipales y nacionales de uso público, incluido su subsuelo, existentes en la comuna, salvo que, en atención a su naturaleza o fines y de conformidad a la ley, la administración de estos últimos corresponda a otros órganos de la Administración del Estado. En ejercicio de esta atribución, les corresponderá, previo informe del consejo económico y social de la comuna, asignar y cambiar la denominación de tales bienes. Asimismo, con el acuerdo de los dos tercios de los concejales en ejercicio, podrá hacer uso de esta atribución respecto de poblaciones, barrios y conjuntos habitacionales, en el territorio bajo su administración;
 
 d) Dictar resoluciones obligatorias con carácter general o particular;
 
@@ -164,25 +96,9 @@ h) Aplicar tributos que graven actividades o bienes que tengan una clara identif
 
 i) Constituir corporaciones o fundaciones de derecho privado, sin fines de lucro, destinadas a la promoción y difusión del arte y la cultura. La participación municipal en estas corporaciones se regirá por las normas establecidas en el Párrafo 1º del Título VI;
 
-j) Establecer, en el ámbito de las comunas o agrupación de comunas, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana;
+j) Establecer, en el ámbito de las comunas o agrupación de comunas, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana, y
 
-k) Aprobar los planes reguladores comunales y los planes seccionales;
-
-l) Elaborar, aprobar, ejecutar y evaluar el plan comunal de seguridad pública.
-
-Para realizar dichas acciones, las municipalidades tendrán en consideración las observaciones efectuadas por el consejo comunal de seguridad pública y por cada uno de sus consejeros.
-
-m) Aprobarlos planos de detalle de los planes reguladores comunales y de los planes seccionales;
-
-n) Elaborar, aprobar, modificar y materializar los planes de inversiones en infraestructura de movilidad y espacio público.
-
-o) Recaudar, administrar y ejecutar, en una cuenta especial y separada del resto del presupuesto municipal, los aportes al espacio público que se perciban, de conformidad a las disposiciones de la Ley General de Urbanismo y Construcciones, y suscribir los convenios sobre aportes urbanos reembolsables que regula el mismo cuerpo legal.
-
-p) Aprobar la propuesta de normas urbanísticas especiales elaborada por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo para la habilitación normativa de terrenos, conforme con lo dispuesto en la Ley General de Urbanismo y Construcciones.
-
-q) Elaborar y/o aprobar planes maestros de regeneración de barrios o conjuntos habitacionales de viviendas de interés público de acuerdo con lo establecido en la Ley General de Urbanismo y Construcciones.
-
-r) Aprobar los planes seccionales de remodelación de conformidad con las disposiciones de la Ley General de Urbanismo y Construcciones.
+k) Aprobar los planes reguladores comunales y los planes seccionales de comunas que formen parte de un territorio normado por un plan regulador metropolitano o intercomunal, y pronunciarse sobre el proyecto de plan regulador comunal o de plan seccional de comunas que no formen parte de un territorio normado por un plan regulador metropolitano o intercomunal.
 
 Las municipalidades tendrán, además, las atribuciones no esenciales que le confieren las leyes o que versen sobre materias que la Constitución Política de la República expresamente ha encargado sean reguladas por la ley común.
 
@@ -192,27 +108,21 @@ Cualquier nueva función o tarea que se le asigne a los municipios deberá conte
 
 Las municipalidades podrán asociarse entre ellas para el cumplimiento de sus fines propios, de acuerdo con las reglas establecidas en el Párrafo 2º del Título VI.
 
-> **Nota.** La letra a), del N° 1, Artículo 1° de la Ley 20965, publicada el 04.11.2016, ordena reemplazar en la letra j) la expresión ", y" por un punto y coma. Sin embargo, la letra a), del N° 1, Art{iculo, 3° de la Ley 20958, publicada el 15.10.2016, incorporó el mismo cambio. Por otra parte, la letra b, de la Ley 20965, ordena agregar, a continuación de la letra k) del inciso primero, la siguiente letra l), nueva, pasando la actual letra l) a ser m), sin hacer referencia a las letras ya existentes. No obstante lo anterior, se cambio la identificación de las letras.
-
 #### Artículo 6º
 
 La gestión municipal contará, a lo menos, con los siguientes instrumentos:
 
 a) El plan comunal de desarrollo y sus programas;
 
-b) El plan regulador comunal;
+b) El plan regulador comunal, y
 
-c) El presupuesto municipal anual;
-
-d) La política de recursos humanos, y
-
-e) El plan comunal de seguridad pública.
+c) El presupuesto municipal anual.
 
 #### Artículo 7º
 
-El plan comunal de desarrollo, instrumento rector del desarrollo en la comuna, contemplará las acciones destinadas a satisfacer las necesidades de la comunidad local y a promover su avance social, económico y cultural y, en base a ellas, definirá orientaciones estratégicas para la planificación territorial de nivel comunal. Su vigencia mínima será de cuatro años, sin que necesariamente deba coincidir con el período de desempeño de las autoridades municipales electas por la ciudadanía. Su ejecución deberá someterse a evaluación periódica, dando lugar a los ajustes y modificaciones que correspondan.
+El plan comunal de desarrollo, instrumento rector del desarrollo en la comuna, contemplará las acciones orientadas a satisfacer las necesidades de la comunidad local y a promover su avance social, económico y cultural. Su vigencia mínima será de cuatro años, sin que necesariamente deba coincidir con el período de desempeño de las autoridades municipales electas por la ciudadanía. Su ejecución deberá someterse a evaluación periódica, dando lugar a los ajustes y modificaciones que correspondan.
 
-En todo caso, en la elaboración y ejecución del plan comunal de desarrollo, tanto el alcalde como el concejo deberán tener en cuenta la participación ciudadana y la necesaria coordinación con los demás servicios públicos que operen en el ámbito comunal o ejerzan competencias en dicho ámbito, así como la coherencia entre sus acciones y las disposiciones contenidas en el respectivo instrumento de planificación territorial de nivel comunal, en todo aquello que resulte procedente, dentro del ámbito de sus competencias.
+En todo caso, en la elaboración y ejecución del plan comunal de desarrollo, tanto el alcalde como el concejo deberán tener en cuenta la participación ciudadana y la necesaria coordinación con los demás servicios públicos que operen en el ámbito comunal o ejerzan competencias en dicho ámbito.
 
 #### Artículo 8º
 
@@ -232,157 +142,15 @@ El alcalde informará al concejo sobre la adjudicación de las concesiones, de l
 
 Con todo, lo dispuesto en los incisos anteriores no será aplicable a los permisos municipales, los cuales se regirán por lo establecido en los artículos 36 y 63, letra g), de esta ley.
 
-#### Artículo 8º bis
-
-Los gobiernos
-
-regionales podrán celebrar
-
-convenios formales
-
-anuales o plurianuales
-
-de programación de inversión
-
-pública con municipalidades, cuyo
-
-cumplimiento será obligatorio.
-
-La ley orgánica constitucional
-
-sobre gobierno y administración regional
-
-establecerá las normas generales que
-
-regularán la suscripción, ejecución y
-
-exigibilidad de los referidos convenios.
-
-Dichos convenios de programación
-
-definirán las acciones relacionadas con
-
-los proyectos de inversión que se
-
-disponen a realizar dentro de un plazo
-
-determinado. Para lo anterior, deberán
-
-especificar el o los proyectos sobre los
-
-cuales se aplicarán, las responsabilidades
-
-y obligaciones de las partes, las metas
-
-por cumplir, los procedimientos de
-
-evaluación y las normas de
-
-revocabilidad. Asimismo, deberán
-
-incluir, cuando corresponda, cláusulas
-
-que permitan reasignar recursos
-
-entre proyectos.
-
-A los convenios de programación se
-
-podrán incorporar otras entidades públicas
-
-o privadas, nacionales, regionales o
-
-locales, cuyo concurso o aporte se
-
-estime necesario para la mayor
-
-eficiencia en su ejecución.
-
-En caso de tener carácter
-
-plurianual, las municipalidades
-
-deberán contemplar en sus
-
-respectivos presupuestos la
-
-estimación de los recursos
-
-correspondientes al año pertinente
-
-según las obligaciones adquiridas
-
-al momento de la suscripción.
-
-Los convenios a que se refiere
-
-este artículo deberán ser sancionados
-
-mediante decreto supremo expedido bajo
-
-la fórmula establecida en el artículo
-
-70 del decreto ley Nº 1.263, del
-
-Ministerio de Hacienda, de 1975. Los
-
-proyectos que se incluyan en dichos
-
-convenios deberán cumplir con lo
-
-dispuesto en el artículo 19 bis
-
-del mencionado decreto ley.
-
-#### Artículo 8º ter
-
-Los
-
-gobiernos regionales podrán
-
-suscribir convenios de
-
-programación territorial,
-
-con una o más municipalidades,
-
-de carácter anual o plurianual,
-
-destinados a formalizar los acuerdos
-
-para la ejecución de proyectos
-
-de impacto comunal o intercomunal
-
-en los plazos y con los aportes
-
-financieros de las partes que en
-
-cada caso se acuerden. Estos
-
-convenios deberán ser sancionados
-
-mediante resolución del gobierno
-
-regional respectivo.
-
-#### Artículo 8 quáter
-
-Sin perjuicio de lo dispuesto en el artículo 8, las municipalidades podrán celebrar convenios con la Tesorería General de la República para que ésta efectúe el pago a proveedores de servicios concesionados de recolección de residuos sólidos domiciliarios, directamente con cargo a la recaudación de impuesto territorial de beneficio municipal correspondiente a la respectiva comuna y, en caso de ser insuficiente, con cargo a la participación mensual de la respectiva comuna en el fondo a que se refiere el artículo 38 del decreto ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido y sistematizado fue fijado por el decreto N° 2.385, de 1996, del Ministerio del Interior. La Tesorería General de la República deberá informar a la Subsecretaría de Desarrollo Regional y Administrativo dentro de los treinta días siguientes a la suscripción de dicho convenio.
-
-Con todo, en el caso de municipalidades que no hayan suscrito los convenios de conformidad con el inciso anterior, los proveedores de los servicios concesionados podrán solicitar a la Tesorería General de la República el pago de las facturas emitidas y no objetadas por parte del municipio, y que se encuentren impagas por un plazo mayor a treinta días contado desde su aceptación. La Tesorería General de la República deberá comunicar por oficio al municipio la solicitud de pago recibida, con el objeto de que éste pueda suscribir el convenio dentro del plazo de treinta días corridos contado desde la recepción del oficio. Si el municipio no suscribiere el convenio en dicho plazo, la Tesorería General de la República enviará los antecedentes al jefe de la unidad de control de la municipalidad respectiva, y será aplicable lo dispuesto en el inciso segundo del artículo 81. De esta forma, los proveedores recibirán el pago con cargo a los montos pendientes de distribuir para la respectiva municipalidad, según lo señalado en el inciso precedente, con prioridad según la fecha de presentación de la solicitud. En caso de no alcanzar los fondos para pagar el total de las facturas adeudadas, éstas quedarán pendientes para ser pagadas con prioridad al mes siguiente, y así sucesivamente. En ningún caso podrá imputarse responsabilidad alguna al Fisco sobre pagos municipales pendientes.
-
-Las municipalidades podrán subrogarse en los proveedores de servicios concesionados de recolección de residuos sólidos domiciliarios, en aquellos casos en que, por cualquier razón, éstos tuvieren deudas con trabajadores por prestaciones laborales o previsionales impagas.
-
 #### Artículo 9º
 
 Las municipalidades deberán actuar, en todo caso, dentro del marco de los planes nacionales y regionales que regulen la respectiva actividad.
 
-Corresponderá al delegado presidencial regional de la región respectiva, respecto de los planes nacionales, y al gobernador regional, respecto de los planes regionales, velar por el cumplimiento de lo que dispone el inciso anterior.
+Corresponderá al intendente de la región respectiva velar por el cumplimiento de lo que dispone el inciso anterior.
 
 #### Artículo 10
 
-La coordinación entre las municipalidades y entre éstas y los servicios públicos que dependan o se relacionen con el Presidente de la República a través de un ministerio, y que actúen en sus respectivos territorios, se efectuará mediante acuerdos directos entre estos organismos. A falta de acuerdo, el delegado presidencial provincial que corresponda dispondrá de las medidas necesarias para la coordinación requerida, a solicitud de cualquiera de los alcaldes interesados. Asimismo, la coordinación entre las municipalidades y entre éstas y los servicios públicos que dependan o se relacionen con el gobierno regional, y que actúen en sus respectivos territorios, se efectuará mediante acuerdos directos entre estos organismos. A falta de acuerdo, el gobernador regional que corresponda dispondrá de las medidas necesarias para la coordinación requerida, a solicitud de cualquiera de los alcaldes interesados.
+La coordinación entre las municipalidades y entre éstas y los servicios públicos que actúen en sus respectivos territorios, se efectuará mediante acuerdos directos entre estos organismos. A falta de acuerdo, el gobernador provincial que corresponda dispondrá las medidas necesarias para la coordinación requerida, a solicitud de cualquiera de los alcaldes interesados.
 
 En todo caso, la coordinación deberá efectuarse sin alterar las atribuciones y funciones que correspondan a los organismos respectivos.
 
@@ -436,25 +204,19 @@ En el ejercicio de esta autonomía, las municipalidades podrán requerir del Ser
 
 Para garantizar el cumplimiento de los fines de las municipalidades y su adecuado funcionamiento, existirá un mecanismo de redistribución solidaria de recursos financieros entre las municipalidades del país, denominado Fondo Común Municipal, el cual estará integrado por los siguientes recursos:
 
-1.- Un sesenta por ciento del impuesto territorial que resulte de aplicar la tasa a que se refiere el artículo 7º de la Ley sobre Impuesto Territorial; no obstante, tratándose de las Municipalidades de Santiago, Providencia, Las Condes y Vitacura, su aporte por este concepto será de un sesenta y cinco por ciento.
+1.- Un sesenta por ciento del impuesto territorial que resulte de aplicar la tasa a que se refiere el artículo 7º de la Ley sobre Impuesto Territorial; no obstante, tratándose de las Municipalidades de Santiago, Providencia, Las Condes y Vitacura, su aporte por este concepto será de un sesenta y cinco por ciento;
 
-2.- Un sesenta y dos coma cinco por ciento del derecho por el permiso de circulación de vehículos que establece la Ley de Rentas Municipales, sin perjuicio de lo establecido en su artículo 12.
+2.- Un sesenta y dos coma cinco por ciento del derecho por el permiso de circulación de vehículos que establece la Ley de Rentas Municipales, sin perjuicio de lo establecido en su artículo 12;
 
-3.- Un cincuenta y cinco por ciento de lo que recaude la Municipalidad de Santiago y un sesenta y cinco por ciento de lo que recauden las Municipalidades de Providencia, Las Condes y Vitacura, por el pago de las patentes a que se refieren los artículos 23 y 32 de la Ley de Rentas Municipales, y 3º de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas.
+3.- Un cincuenta y cinco por ciento de lo que recaude la Municipalidad de Santiago y un sesenta y cinco por ciento de lo que recauden las Municipalidades de Providencia, Las Condes y Vitacura, por el pago de las patentes a que se refieren los artículos 23 y 32 de la Ley de Rentas Municipales, y 3º de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas;
 
-4.- Un cincuenta por ciento del derecho establecido en el Nº7 del artículo 41 del Decreto Ley Nº 3.063, de 1979, Ley de Rentas Municipales, en la transferencia de vehículos con permisos de circulación.
+4.- Un cincuenta por ciento del derecho establecido en el Nº7 del artículo 41 del Decreto Ley Nº 3.063, de 1979, Ley de Rentas Municipales, en la transferencia de vehículos con permisos de circulación;
 
-5.- El monto total del impuesto territorial que paguen los inmuebles fiscales afectos a dicho impuesto, conforme lo establece la Ley Nº 17.235; y por un aporte fiscal que se considerará anualmente en la Ley de Presupuestos, cuyo monto será equivalente en pesos a 1.052.000 unidades tributarias mensuales, a su valor del mes de agosto del año precedente.
+5.- El monto total del impuesto territorial que paguen los inmuebles fiscales afectos a dicho impuesto, conforme lo establece la Ley Nº 17.235; y por un aporte fiscal que se considerará anualmente en la Ley de Presupuestos, cuyo monto será equivalente en pesos a 218.000 unidades tributarias mensuales, a su valor del mes de agosto del año precedente, y
 
 6.- El cien por ciento de lo recaudado por multas impuestas por los Juzgados de Policía Local, por infracciones o contravenciones a las normas de tránsito, detectadas por medio de equipos de registro de infracciones.
 
-No obstante, tratándose de multas por infracciones o contravenciones al artículo 118 bis de la ley Nº 18.290, sólo el 70% de ellas pasarán a integrar el Fondo Común Municipal, quedando el porcentaje restante a beneficio de la municipalidad en que se hubiere aplicado la multa respectiva. Con todo, tratándose de las multas impuestas por infracción a la prohibición establecida en el inciso primero del artículo 114 del decreto con fuerza de ley N° 1, del Ministerio de Justicia, de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, sólo el cincuenta por ciento de lo recaudado ingresará al Fondo Común Municipal, pasando el cincuenta por ciento restante a beneficio municipal.
-
-7.- Un aporte fiscal adicional que consultará la Ley de Presupuestos del Sector Público a favor de aquellas comunas pertenecientes a regiones mineras donde se ubiquen las siguientes actividades asociadas a explotadores mineros sujetos al Royalty Minero: refinerías; fundiciones; yacimientos y depósitos de relaves activos que puedan generar un impacto significativo sobre la salud de la población, según determine el reglamento del Fondo Común Municipal. Además, será destinado a comunas pertenecientes a regiones mineras donde se ubiquen relaves abandonados de carácter prioritario por encontrarse cercanos a la población y que tengan el potencial de generar un impacto significativo sobre la salud de ésta; o puertos cuya actividad esté asociada mayoritariamente a la actividad minera, ambos según determine el reglamento del Fondo Común Municipal.
-
-Para estos efectos, se entenderá por regiones mineras aquellas cuyo producto interno bruto minero regional, excluyendo la minería de petróleo y gas natural, represente más de un 2,5% del producto interno bruto minero nacional y de su producto interno bruto regional.
-
-8.- Un aporte fiscal cuyo monto será equivalente en pesos a 2.500.000 unidades tributarias mensuales a favor de aquellas comunas que presenten una mayor dependencia del Fondo Común Municipal o pertenezcan al grupo con menos ingresos propios a nivel nacional.
+No obstante, tratándose de multas por infracciones o contravenciones al artículo 118 bis de la ley Nº 18.290, sólo el 70% de ellas pasarán a integrar el Fondo Común Municipal, quedando el porcentaje restante a beneficio de la municipalidad en que se hubiere aplicado la multa respectiva.
 
 La distribución de este Fondo se sujetará a los criterios y normas establecidos en la Ley de Rentas Municipales.
 
@@ -466,35 +228,17 @@ Organización interna
 
 Las funciones y atribuciones de las municipalidades serán ejercidas por el alcalde y por el concejo en los términos que esta ley señala.
 
-Para los efectos anteriores, las municipalidades dispondrán de una Secretaría Municipal, de una Secretaría Comunal de Planificación y de otras unidades encargadas del cumplimiento de funciones de prestación de servicios y de administración interna, relacionadas con el desarrollo comunitario, obras municipales, aseo y ornato, tránsito y transporte públicos, gestión del riesgo de desastres, administración y finanzas, asesoría jurídica y control. Dichas unidades sólo podrán recibir la denominación de Dirección, Departamento, Sección u Oficina.
+Para los efectos anteriores, las municipalidades dispondrán de una Secretaría Municipal, de una Secretaría Comunal de Planificación y de otras unidades encargadas del cumplimiento de funciones de prestación de servicios y de administración interna, relacionadas con el desarrollo comunitario, obras municipales, aseo y ornato, tránsito y transporte públicos, administración y finanzas, asesoría jurídica y control. Dichas unidades sólo podrán recibir la denominación de Dirección, Departamento, Sección u Oficina.
 
 #### Artículo 16
 
-Sin perjuicio de lo dispuesto en el artículo anterior, la organización interna de las municipalidades deberá considerar, a lo menos, las siguientes unidades: Secretaría Municipal, Secretaría Comunal de Planificación, Unidad de Desarrollo Comunitario, Unidad de Administración y Finanzas y Unidad de Control.
-
-Para efectos de lo dispuesto en el inciso anterior, en aquellas municipalidades cuyas plantas funcionarias no consideren en el escalafón directivo los cargos señalados en el inciso precedente, el alcalde estará facultado para crearlos, debiendo, al efecto, sujetarse a las normas sobre selección directiva que la ley dispone.
-
-Dichos cargos tendrán dos grados inmediatamente inferiores a aquel que le corresponde al alcalde en la municipalidad respectiva, y aquellos señalados en el artículo 47 mantendrán la calidad de exclusiva confianza.
-
-En aquellas comunas que tengan más de cien mil habitantes deberán considerarse, también, las unidades encargadas de cada una de las demás funciones genéricas señaladas en el artículo precedente.
-
-#### Artículo 16 bis
-
-Existirá un director de seguridad pública en todas aquellas comunas donde lo decida el concejo municipal, a proposición del alcalde.
-
-Para estos efectos, el alcalde estará facultado para crear dicho cargo y para proveerlo en el momento que decida, de acuerdo a la disponibilidad del presupuesto municipal.
-
-Para desempeñar este cargo se requerirá estar en posesión de un título profesional o técnico de nivel superior otorgado por un establecimiento de educación superior del Estado o reconocidos por éste.
-
-El director de seguridad pública será designado por el alcalde y podrá ser removido por éste, sin perjuicio que rijan a su respecto, además, las causales de cesación de funciones aplicables al personal municipal.
-
-Dicho director será el colaborador directo del alcalde en las tareas de coordinación y gestión de las funciones de la letra j) del artículo 4, en el seguimiento del plan comunal de seguridad pública, y ejercerá las funciones que le delegue el alcalde, siempre que estén vinculadas con la naturaleza de su función.
-
-La designación y remoción del director de seguridad pública deberá ser informada a la Subsecretaría de Prevención del Delito y a la delegación presidencial regional respectiva. Ambos órganos deberán llevar una nómina actualizada de los directores de seguridad pública a niveles nacional y regional, según corresponda.
+En las comunas cuya población sea superior a cien mil habitantes, las municipalidades incluirán en su organización interna la Secretaría Municipal, la Secretaría Comunal de Planificación, y a lo menos, las unidades encargadas de cada una de las funciones genéricas señaladas en el artículo anterior.
 
 #### Artículo 17
 
-Las municipalidades de comunas con menos de cien mil habitantes podrán refundir, en una sola unidad, dos o más funciones genéricas, cuando las necesidades y características de la comuna respectiva así lo requieran. Esta facultad no podrá ejercerse respecto de las unidades mínimas señaladas en el artículo anterior.
+En las comunas cuya población sea igual o inferior a cien mil habitantes, la organización interna de sus municipalidades incluirá la Secretaría Municipal y todas o alguna de las unidades encargadas de las funciones genéricas señaladas en el artículo 15, según las necesidades y características de la comuna respectiva. Asimismo, podrán incluir una Secretaría Comunal de Planificación.
+
+Además de lo señalado en el inciso anterior, dichas municipalidades podrán refundir en una sola unidad, dos o más funciones genéricas, cuando las necesidades y características de la comuna respectiva así lo requieran.
 
 #### Artículo 18
 
@@ -515,16 +259,6 @@ a) Dirigir las actividades de secretaría administrativa del alcalde y del conce
 b) Desempeñarse como ministro de fe en todas las actuaciones municipales, y
 
 c) Recibir, mantener y tramitar, cuando corresponda, la declaración de intereses establecida por la Ley N° 18.575.
-
-d) Llevar el registro municipal
-
-a que se refiere el artículo 6°
-
-de la ley N° 19.418, sobre Juntas
-
-de Vecinos y demás Organizaciones
-
-Comunitarias.
 
 #### Artículo 21
 
@@ -550,7 +284,7 @@ Adscrito a esta unidad existirá el asesor urbanista, quien requerirá estar en 
 
 a) Asesorar al alcalde y al concejo en la promoción del desarrollo urbano;
 
-b) Estudiar y elaborar el plan regulador comunal y mantenerlo actualizado; deberá elaborar los informes de monitoreo que establece la Ley General de Urbanismo y Construcciones y promover las modificaciones que sean necesarias, además de preparar el plan de inversiones en infraestructura de movilidad y espacio público y los planos de detalle y planes seccionales, en su caso.
+b) Estudiar y elaborar el plan regulador comunal, y mantenerlo actualizado, promoviendo las modificaciones que sean necesarias y preparar los planes seccionales para su aplicación, y
 
 c) Informar técnicamente las proposiciones sobre planificación urbana intercomunal, formuladas al municipio por la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
@@ -580,101 +314,41 @@ Cuando exista corporación municipal a cargo de la administración de servicios 
 
 A la unidad encargada de obras municipales le corresponderán las siguientes funciones:
 
-a) Velar por el cumplimiento de las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza General, junto con los instrumentos de planificación territorial correspondientes, en la forma que determine la citada ley. Para dicho efecto, gozará de las siguientes atribuciones específicas:
+a) Velar por el cumplimiento de las disposiciones de la Ley General de Urbanismo y Construcciones, del plan regulador comunal y de las ordenanzas correspondientes, para cuyo efecto gozará de las siguientes atribuciones específicas:
 
-1) Dar aprobación a las fusiones,
+1) Dar aprobación a las subdivisiones de predios urbanos y urbano-rurales;
 
-subdivisiones y modificaciones
+2) Dar aprobación a los proyectos de obras de urbanización y de construcción;
 
-de deslindes de predios en las
+3) Otorgar los permisos de edificación de las obras señaladas en el número anterior;
 
-áreas urbanas, de extensión urbana,
+4) Fiscalizar la ejecución de dichas obras hasta el momento de su recepción, y
 
-o rurales en caso de aplicación
-
-del artículo 55 de la Ley General
-
-de Urbanismo y Construcciones;
-
-2) Dar aprobación a los anteproyectos
-
-y proyectos de subdivisiones
-
-afectas a declaratoria de utilidad
-
-pública, loteos, obras de
-
-urbanización y de edificación y
-
-otorgar los permisos
-
-correspondientes en las áreas
-
-urbanas y de extensión urbana o
-
-rurales, en caso de aplicación
-
-del artículo 55 de la Ley General
-
-de Urbanismo y Construcciones,
-
-previa verificación de que éstos
-
-cumplen con los aspectos a revisar
-
-de acuerdo a la citada ley.
-
-3) Fiscalizar la ejecución de dichas
-
-obras hasta el momento de su
-
-recepción, y
-
-4) Recibirse de las obras y
-
-autorizar su uso, previa
-
-verificación de que éstas
-
-cumplen con los aspectos a
-
-revisar de acuerdo a la Ley
-
-General de Urbanismo y
-
-Construcciones.
+5) Recibirse de las obras ya citadas y autorizar su uso.
 
 b) Fiscalizar las obras en uso, a fin de verificar el cumplimiento de las disposiciones legales y técnicas que las rijan;
 
-c) Aplicar normas ambientales relacionadas con obras de urbanización y edificación en la forma que determine la Ley General de Urbanismo y Construcciones;
+c) Aplicar normas ambientales relacionadas con obras de construcción y urbanización;
 
 d) Confeccionar y mantener actualizado el catastro de las obras de urbanización y edificación realizadas en la comuna;
 
-e) Ejecutar medidas relacionadas con la vialidad urbana y rural y pronunciarse sobre los informes de mitigación de impacto vial presentados en la comuna a petición de la secretaría regional ministerial de Transportes y Telecomunicaciones o de la dirección de Tránsito y Transporte Públicos Municipal respectiva;
+e) Ejecutar medidas relacionadas con la vialidad urbana y rural;
 
 f) Dirigir las construcciones que sean de responsabilidad municipal, sean ejecutadas directamente o a través de terceros, y
 
-g) En general, aplicar las normas legales sobre edificación y urbanización en la comuna, en los términos que disponga la Ley General de Urbanismo y Construcciones y su respectiva Ordenanza General.
+g) En general, aplicar las normas legales sobre construcción y urbanización en la comuna.
 
 Quien ejerza la jefatura de esta unidad deberá poseer indistintamente el título de arquitecto, de ingeniero civil, de constructor civil o de ingeniero constructor civil.
 
-En el ejercicio de las funciones descritas en las letras a), b), c) y g) del inciso primero de este artículo, la unidad encargada de obras municipales deberá dar estricto cumplimiento a las instrucciones que imparta la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva en el marco de su labor de supervigilancia de acuerdo con los artículos 4º y 12 de la Ley General de Urbanismo y Construcciones. Además, deberá entregar la información que le sea solicitada por dicha Secretaría respecto del estado de los procedimientos de otorgamiento de permisos, autorizaciones o certificados seguidos ante ella; la caracterización de dichas unidades, considerando la dotación y antigüedad de funcionarios, perfiles profesionales, acceso y participación en capacitaciones, recursos físicos, entre otros. Lo anterior, en el plazo máximo de veinte días hábiles, contado desde la recepción de la solicitud.
-
 #### Artículo 25
 
-A la unidad encargada de la función de medio ambiente, aseo y ornato corresponderá velar por:
+A la unidad encargada de la función de aseo y ornato corresponderá velar por:
 
 a) El aseo de las vías públicas, parques, plazas, jardines y, en general, de los bienes nacionales de uso público existentes en la comuna;
 
-b) El servicio de extracción de basura;
+b) El servicio de extracción de basura, y
 
-c) La construcción, conservación y administración de las áreas verdes de la comuna;
-
-d) Proponer y ejecutar medidas tendientes a materializar acciones y programas relacionados con medio ambiente;
-
-e) Aplicar las normas ambientales a ejecutarse en la comuna que sean de su competencia, y
-
-f) Elaborar el anteproyecto de ordenanza ambiental. Para la aprobación de la misma, el concejo podrá solicitar siempre un informe técnico al Ministerio del Medio Ambiente.
+c) La construcción, conservación y administración de las áreas verdes de la comuna.
 
 #### Artículo 26
 
@@ -684,39 +358,15 @@ a) Otorgar y renovar licencias para conducir vehículos;
 
 b) Determinar el sentido de circulación de vehículos, en coordinación con los organismos de la Administración del Estado competentes;
 
-c) Señalizar adecuadamente las vías públicas;
+c) Señalizar adecuadamente las vías públicas, y
 
-d) Aprobar, observar o rechazar los informes de mitigación de impacto vial o emitir opinión sobre ellos, a petición de la secretaría regional ministerial de Transportes y Telecomunicaciones, conforme a lo dispuesto en la Ley General de Urbanismo y Construcciones, y
-
-e) En general, aplicar las normas generales sobre tránsito y transporte públicos en la comuna.
-
-#### Artículo 26 bis
-
-En general, corresponderá a la Unidad de Gestión del Riesgo de Desastres:
-
-a) Prestar apoyo al alcalde en todas las materias referentes al Sistema Nacional de Prevención y Respuesta ante Desastres.
-
-b) Elaborar el Plan Comunal para la Reducción del Riesgo de Desastres y el Plan Comunal de Emergencia, en conformidad con lo dispuesto en la ley que establece el Sistema Nacional de Prevención y Respuesta ante Desastres y su reglamento.
-
-c) Confeccionar los informes en aquellas materias de su competencia, referidas a los artículos 28 y 32 de la ley indicada en la letra anterior, cuando las unidades señaladas en dichos artículos soliciten su pronunciamiento.
-
-d) Aportar al funcionario que designe el Director Regional del Servicio Nacional de Prevención y Respuesta ante Desastres, la información referente a su comuna para la elaboración del mapa de riesgo que contempla la ley que establece el Sistema Nacional de Prevención y Respuesta ante Desastres.
-
-e) Coordinar con la Dirección Regional del Servicio Nacional de Prevención y Respuesta ante Desastres, y con los organismos o entidades públicas correspondientes, en el marco de sus competencias, las acciones en materia de Gestión del Riesgo de Desastres en su comuna.
-
-#### Artículo 26 ter
-
-Esta Unidad se podrá asignar o crear a proposición del alcalde y con la aprobación del concejo municipal respectivo. Una vez que el alcalde cuente con la aprobación anterior, estará facultado para crear y proveer el cargo de encargado de la Unidad de Gestión del Riesgo de Desastres, para lo que se considerará la disponibilidad en el presupuesto municipal, lo cual deberá ser certificado por los jefes de las unidades de administración y finanzas, y de control de la municipalidad respectiva.
-
-El cargo aludido corresponderá al escalafón de directivos o jefaturas, y para su acceso se estará a los requisitos exigidos en el artículo 8 de la ley N° 18.883, según corresponda a un cargo de directivo o de jefatura.
-
-Será designado por el alcalde y podrá ser removido por éste, sin perjuicio de que rijan a su respecto, además, las causales de cesación de funciones aplicables al personal municipal.
+d) En general, aplicar las normas generales sobre tránsito y transporte públicos en la comuna.
 
 #### Artículo 27
 
 La unidad encargada de administración y finanzas tendrá las siguientes funciones:
 
-a) Asesorar al alcalde en la administración del personal de la municipalidad. Además, deberá informar trimestralmente al concejo municipal sobre las contrataciones de personal realizadas en el trimestre anterior, individualizando al personal, su calidad jurídica, estamento, grado de remuneración y, respecto del personal a honorarios contratado con cargo al subtítulo 21, ítem 03, del presupuesto municipal, el detalle de los servicios prestados. También, en la primera sesión de cada año del concejo, deberá informar a éste sobre el escalafón de mérito del personal municipal y un reporte sobre el registro del personal enviado y tramitado en la Contraloría General de la República en el año inmediatamente anterior.
+a) Asesorar al alcalde en la administración del personal de la municipalidad.
 
 b) Asesorar al alcalde en la administración financiera de los bienes municipales, para lo cual le corresponderá específicamente:
 
@@ -730,9 +380,7 @@ b) Asesorar al alcalde en la administración financiera de los bienes municipale
 
 5.- Controlar la gestión financiera de las empresas municipales;
 
-6.- Efectuar los pagos municipales, manejar la cuenta bancaria respectiva y rendir cuentas a la Contraloría General de la República.
-
-Tratándose del pago a proveedores de servicios concesionados de recolección de residuos sólidos domiciliarios, se estará a lo dispuesto en el artículo 8 quáter.
+6.- Efectuar los pagos municipales, manejar la cuenta bancaria respectiva y rendir cuentas a la Contraloría General de la República, y
 
 7.- Recaudar y percibir los ingresos municipales y fiscales que correspondan.
 
@@ -762,19 +410,17 @@ Además, cuando lo ordene el alcalde, deberá efectuar las investigaciones y sum
 
 A la unidad encargada del control le corresponderán las siguientes funciones:
 
-a) Realizar la auditoría |operativa interna de la municipalidad, con el objeto de fiscalizar la legalidad de su actuación;
+a) Realizar la auditoría operativa interna de la municipalidad, con el objeto de fiscalizar la legalidad de su actuación;
 
 b) Controlar la ejecución financiera y presupuestaria municipal;
 
-c) Representar al alcalde los actos municipales que estime ilegales, informando de ello al concejo, para cuyo objeto tendrá acceso a toda la información disponible. Dicha representación deberá efectuarse dentro de los diez días siguientes a aquel en que la unidad de control haya tomado conocimiento de los actos. Si el alcalde no tomare medidas administrativas con el objeto de enmendar el acto representado, la unidad de control deberá remitir dicha información a la Contraloría General de la República;
+c) Representar al alcalde los actos municipales que estime ilegales, informando de ello al concejo, para cuyo objeto tendrá acceso a toda la información disponible;
 
-d) Colaborar directamente con el concejo para el ejercicio de sus funciones fiscalizadoras. Para estos efectos, emitirá un informe trimestral acerca del estado de avance del ejercicio programático presupuestario; asimismo, deberá informar, también trimestralmente, sobre el estado de cumplimiento de los pagos por concepto de cotizaciones previsionales de los funcionarios municipales y de los trabajadores que se desempeñan en servicios incorporados a la gestión municipal, administrados directamente por la municipalidad o a través de corporaciones municipales, de los aportes que la municipalidad debe efectuar al Fondo Común Municipal, y del estado de cumplimiento de los pagos por concepto de asignaciones de perfeccionamiento docente. En todo caso, deberá dar respuesta por escrito a las consultas o peticiones de informes que le formule un concejal;
+d) Colaborar directamente con el concejo para el ejercicio de sus funciones fiscalizadoras. Para estos efectos, emitirá un informe trimestral acerca del estado de avance del ejercicio programático presupuestario; asimismo, deberá informar, también trimestralmente, sobre el estado de cumplimiento de los pagos por concepto de cotizaciones previsionales de los funcionarios municipales y de los trabajadores que se desempeñan en servicios incorporados a la gestión municipal, administrados directamente por la municipalidad o a través de corporaciones municipales, de los aportes que la municipalidad debe efectuar al Fondo Común Municipal, y del estado de cumplimiento de los pagos por concepto de asignaciones de perfeccionamiento docente. En todo caso, deberá dar respuesta por escrito a las consultas o peticiones de informes que le formule un concejal, y
 
-e) Asesorar al concejo en la definición y evaluación de la auditoría externa que aquél puede requerir en virtud de esta ley; y
+e) Asesorar al concejo en la definición y evaluación de la auditoría externa que aquél puede requerir en virtud de esta ley.
 
-f) Realizar, con la periodicidad que determine el reglamento señalado en el artículo 92, una presentación en sesión de comisión del concejo, destinada a que sus miembros puedan formular consultas referidas al cumplimiento de las funciones que le competen.
-
-La jefatura de esta unidad se proveerá mediante concurso de oposición y antecedentes y no podrá estar vacante por más de seis meses consecutivos. Las bases del concurso y el nombramiento del funcionario que desempeñe esta jefatura requerirán de la aprobación del concejo. A dicho cargo podrán postular personas que estén en posesión de un título profesional o técnico acorde con la función. El jefe de esta unidad sólo podrá ser removido en virtud de las causales de cese de funciones aplicables a los funcionarios municipales, previa instrucción del respectivo sumario. En el caso de incumplimiento de sus funciones, y especialmente la obligación señalada en el inciso primero del artículo 81, el sumario será instruido por la Contraloría General de la República, a solicitud del concejo.
+La jefatura de esta unidad se proveerá mediante concurso de oposición y antecedentes y no podrá estar vacante por más de seis meses consecutivos. Las bases del concurso y el nombramiento del funcionario que desempeñe esta D.O. 01.07.2005 jefatura requerirán de la aprobación del concejo. A dicho cargo podrán postular personas que estén en posesión de un título profesional o técnico acorde con la función. El jefe de esta unidad sólo podrá ser removido en virtud de las causales de cese de funciones aplicables a los funcionarios municipales, previa instrucción del respectivo sumario. En el caso de incumplimiento de sus funciones, y especialmente la obligación señalada en el inciso primero del artículo 81, el sumario será instruido por la Contraloría General de la República, a solicitud del concejo.
 
 #### Artículo 30
 
@@ -791,12 +437,6 @@ El cargo de administrador municipal será incompatible con todo otro empleo, fun
 #### Artículo 31
 
 La organización interna de la municipalidad, así como las funciones específicas que se asignen a las unidades respectivas, su coordinación o subdivisión, deberán ser reguladas mediante un reglamento municipal dictado por el alcalde, con acuerdo del concejo conforme lo dispone la letra k) del artículo 65.
-
-Asimismo, en este reglamento, las municipalidades podrán crear unidades que estimen necesarias para su funcionamiento, pudiendo asignarle funciones de las unidades designadas en los artículos 21, 22, 23, 25 y 27 de esta ley, las cuales, en dicho caso, no serán ejercidas por aquellas mientras sean asignadas a la nueva unidad.
-
-Para la creación de dichas unidades será necesario contar con el debido financiamiento municipal y con un informe fundado que justifique su necesidad y acredite su debido financiamiento, elaborado por las unidades de Administración Municipal, la Dirección de Administración y Finanzas y la Secretaría Comunal de Planificación. En este caso, el reglamento deberá ser aprobado por los dos tercios de los concejales en ejercicio, debiendo mediar un plazo de, a lo menos, quince días hábiles entre el conocimiento de éste y su aprobación.
-
-La destinación de un funcionario a una nueva unidad deberá considerar su experiencia laboral, su formación técnica y profesional en relación a la nueva unidad, y no podrá significar detrimento en su grado ni en sus remuneraciones.
 
 ### Párrafo 5º
 
@@ -822,7 +462,7 @@ El procedimiento que se seguirá para la enajenación será el remate o la licit
 
 #### Artículo 35
 
-La disposición de los bienes muebles dados de baja se efectuará de conformidad a la ley sobre la economía circular en la adquisición de bienes y servicios de los organismos del Estado.
+La disposición de los bienes muebles dados de baja se efectuará mediante remate público. No obstante, en casos calificados, las municipalidades podrán donar tales bienes a instituciones públicas o privadas de la comuna que no persigan fines de lucro.
 
 #### Artículo 36
 
@@ -867,16 +507,6 @@ Las personas que contraigan obligaciones contractuales con la municipalidad por 
 #### Artículo 39
 
 El alcalde tendrá derecho al uso de vehículo municipal para el desempeño de las actividades propias de su cargo, sin que sean aplicables a su respecto las restricciones que establecen las normas vigentes en cuanto a su circulación y a la obligación de llevar disco distintivo.
-
-#### Artículo 39 bis
-
-Podrán destinarse provisionalmente a las municipalidades, para satisfacer las necesidades de la comunidad local, los inmuebles que se encuentren en la comuna y hayan sido incautados por delitos a los que se refiere la ley Nº 20.000, que sustituye la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, en aplicación de lo dispuesto en el artículo 40 de dicho cuerpo legal.
-
-Para efectos de lo dispuesto en el inciso anterior, el Ministerio Público deberá informar trimestralmente a las municipalidades sobre los inmuebles incautados en la comuna. A su vez, las municipalidades señalarán al Ministerio Público los inmuebles cuya destinación provisional pretendan que éste solicite al juez de garantía, así como los fines a los cuales dichos bienes serían destinados. Para ello, el alcalde requerirá el acuerdo del concejo, y deberá certificarse que existen recursos suficientes para hacerse cargo de los costos de conservación, los que se financiarán con cargo al presupuesto de la municipalidad requirente.
-
-Una vez decretado el comiso de un bien inmueble que le haya sido destinado provisionalmente, la municipalidad podrá solicitar al juez de garantía que le sea transferido su dominio para satisfacer las necesidades de la comunidad local, de conformidad con lo dispuesto en el inciso segundo del artículo 46 de la ley Nº 20.000.
-
-Mientras dure la destinación provisional y hasta tres años después de la transferencia del inmueble de que se trate, la municipalidad deberá informar trimestralmente a la Contraloría General de la República los inmuebles que en virtud de lo dispuesto en este artículo le hayan sido destinados provisionalmente o transferidos, la finalidad para la cual se destinaron o transfirieron y el uso que se les ha dado, con el objeto de que esta última pueda ejercer su labor de fiscalización.
 
 ### Párrafo 6º
 
@@ -928,13 +558,11 @@ La calificación se considerará para el ascenso, cesación en el empleo y para 
 
 La capacitación y el perfeccionamiento en el desempeño de la función municipal se realizarán mediante un sistema que propenda a estos fines a través de programas.
 
-Estas actividades podrán llevarse a cabo mediante convenios con instituciones públicas o privadas. El Ministerio de Vivienda y Urbanismo informará los programas de formación y capacitación en planificación urbana y materias afines y su respectiva certificación disponibles para cada año calendario.
+Estas actividades podrán llevarse a cabo mediante convenios con instituciones públicas o privadas.
 
 La ley podrá exigir como requisito de promoción o ascenso el haber cumplido determinadas actividades de capacitación o perfeccionamiento. La destinación a los cursos de capacitación y perfeccionamiento se efectuará por orden de escalafón o por concurso, según lo determine la ley.
 
 Podrán otorgarse becas a los funcionarios municipales para seguir cursos relacionados con su capacitación y perfeccionamiento.
-
-El Ministerio de Vivienda y Urbanismo informará y ofrecerá anualmente programas de capacitación en planificación territorial y materias afines al personal profesional y técnico de las secretarías comunales de planificación de los municipios vulnerables, tanto del sector urbano como rural, que forman parte del Fondo de Equidad Territorial que creó la ley N° 21.591, sobre Royalty a la Minería.
 
 #### Artículo 47
 
@@ -948,90 +576,6 @@ En el sistema legal de remuneración de las municipalidades se procurará aplica
 
 La municipalidad velará permanentemente por la carrera funcionaria y el cumplimiento de las normas y principios de carácter técnico y profesional establecidos en este párrafo, y asegurará tanto la igualdad de oportunidades de ingreso a ella como la capacitación y el perfeccionamiento de sus integrantes.
 
-#### Artículo 49 bis
-
-Los alcaldes, a través de un reglamento municipal, podrán fijar o modificar las plantas del personal de las municipalidades, estableciendo el número de cargos para cada planta y fijar sus grados, de conformidad al Título II del decreto ley N° 3.551, del Ministerio de Hacienda, promulgado el año 1980 y publicado el año 1981.
-
-Sin perjuicio de lo dispuesto en el artículo 53, el reglamento que se dicte ejerciendo la potestad reconocida en el inciso anterior estará sometido al trámite de toma de razón ante la Contraloría General de la República y se publicará en el Diario Oficial.
-
-Para el ejercicio de esta facultad se deberán considerar los siguientes límites y requisitos:
-
-1. El límite de gasto en personal vigente a la fecha del reglamento respectivo.
-
-2. La disponibilidad presupuestaria. El cálculo de la disponibilidad presupuestaria y su proyección deberán considerar los ingresos propios y el gasto en personal de los tres años precedentes al proceso de fijación o modificación de las plantas; todo lo cual deberá ser certificado previamente por los jefes de las unidades de administración y finanzas y control de la municipalidad respectiva.
-
-3. Disponer de escalafón de mérito del personal actualizado, conforme a lo dispuesto en los artículos 49 y 50 de la ley N° 18.883.
-
-4. En caso que se incremente el número total de cargos en la planta de personal, a lo menos un 75% (setenta y cinco por ciento) de los nuevos cargos que se creen deberán requerir título profesional o técnico.
-
-5. Los alcaldes deberán consultar a las asociaciones de funcionarios regidos por la ley N° 18.883 existentes en la respectiva municipalidad, en el proceso de elaboración de la planta de personal. Para tal efecto, se deberá constituir un comité bipartito, integrado paritariamente por representantes del alcalde y de las asociaciones de funcionarios existentes en la municipalidad.
-
-Su opinión deberá ser presentada al concejo municipal en ejercicio con anterioridad a la readecuación de la planta y no será vinculante.
-
-En las municipalidades donde no existan asociaciones de funcionarios, o éstas no se encuentren vigentes, representarán a los funcionarios aquellos que sean elegidos en votación secreta efectuada para tal efecto, debiendo representar a distintos estamentos.
-
-6. Los alcaldes deberán presentar la propuesta de planta de personal y del reglamento que la contenga al concejo municipal, la que deberá ser aprobada por los dos tercios de sus integrantes en ejercicio.
-
-7. El concejo municipal no podrá aumentar el número de cargos ni modificar los grados que contenga la proposición y sólo podrá reducir o rechazar la proposición de planta.
-
-8. La municipalidad deberá remitir copia del reglamento que determine la planta respectiva y sus antecedentes a la Subsecretaría de Desarrollo Regional y Administrativo, dentro de los sesenta días posteriores a su dictación.
-
-9. Lo dispuesto en el inciso quinto del artículo 5° de la ley N° 15.231, en el artículo 7° de la ley N° 19.602 y en el artículo 16 de esta ley, en lo atingente a la posición de los cargos que allí se indican.
-
-En caso que la fijación de la nueva planta haya considerado una proyección de ingresos y gastos para la municipalidad determinada con negligencia inexcusable, se entenderá que se configurará causal de notable abandono de deberes, tanto de parte del alcalde como del o de los concejales que hayan participado de tal decisión. Para dichos efectos se procederá según lo dispuesto en la letra c) del artículo 60, en la letra f) del artículo 76 y en el artículo 77.
-
-El o los concejales que hubieren votado por rechazar la propuesta de planta podrán recurrir al Tribunal Electoral Regional para solicitar que declare el notable abandono de deberes, según lo dispuesto en el inciso anterior, dentro del plazo de treinta días hábiles contado desde la aprobación de la planta por parte del concejo municipal. Con todo, el alcalde deberá remitir a la Contraloría General de la República el reglamento a que se refiere el inciso primero de este artículo, una vez transcurrido el plazo precedentemente señalado, sin que se haya interpuesto la acción que establece el inciso anterior o una vez que el Tribunal Electoral Regional haya rechazado la acción. Lo dispuesto en este inciso será certificado por el Secretario del Tribunal Electoral Regional.
-
-#### Artículo 49 ter
-
-Para los procesos de encasillamiento del personal que se originen en la fijación o modificación de plantas de personal de conformidad al procedimiento dispuesto en el artículo precedente, se seguirán las normas siguientes:
-
-a) Los funcionarios de las plantas de directivos, profesionales, jefaturas, técnicos, administrativos y auxiliares se encasillarán en cargos de igual grado al que tenían a la fecha del encasillamiento, manteniendo el orden del escalafón de mérito. Si en las nuevas plantas no existieren los grados que tenían los funcionarios, por haber variado los grados de ingreso a ellas, éstos se encasillarán en el último grado que se consulte en la nueva planta.
-
-En el ejercicio de esta facultad, los alcaldes podrán encasillar de acuerdo al escalafón de mérito, a los funcionarios titulares en una planta distinta a la que éstos pertenecen en la medida que hayan quedado vacantes luego de la provisión indicada en el párrafo anterior, siempre que se cumplan los requisitos propios del cargo y, además, los siguientes:
-
-i.- Que el funcionario, a lo menos tres años antes, esté realizando las funciones propias del estamento de la planta en que se encasilla.
-
-ii.- Que el funcionario acepte previamente, por escrito, el traspaso.
-
-b) Una vez encasillado el personal de la letra a) precedente en los cargos que queden vacantes, se encasillará a los funcionarios a contrata asimilados a las referidas plantas, que se encuentren en servicio al 31 de diciembre del año anterior al del inicio del plazo para ejercer la facultad de dictación del reglamento que fija o modifica la planta de personal.
-
-Los funcionarios a contrata señalados en el párrafo anterior sólo podrán ser encasillados siempre que tengan, a lo menos, cinco años de servicios continuos en la respectiva municipalidad anteriores al encasillamiento, cumplan con los requisitos generales y específicos del cargo correspondiente, y se encuentren calificados en lista N° 1, de distinción, o lista N° 2, buena.
-
-El nombramiento deberá realizarse en un cargo vacante que corresponda a la misma planta y grado al cual se encontraban asimilados. Con todo, aquellos funcionarios que hubieren experimentado mejoramiento de grado remuneratorio en los últimos treinta y seis meses anteriores al encasillamiento sólo podrán ser encasillados en el grado que tenían con anterioridad a dicho mejoramiento.
-
-En caso que existan más funcionarios a contrata que cargos vacantes, la provisión de éstos se efectuará, en primer término, de acuerdo al resultado de la última calificación obtenida y, en caso de empate, conforme a la antigüedad de servicio en la respectiva municipalidad y, en el evento de mantenerse la igualdad, decidirá el alcalde.
-
-c) Una vez practicado el procedimiento anterior, los cargos que queden vacantes se proveerán con los funcionarios señalados en la letra a) anterior, de acuerdo a los artículos 51, 52, 53 y 54 de la ley N° 18.883. Si después de este procedimiento quedaren aún cargos vacantes, éstos se proveerán en conformidad a lo estatuido en el Párrafo I del Título II de la citada ley.
-
-d) Lo dispuesto en este artículo quedará sujeto a las siguientes restricciones, respecto del personal al que afecte:
-
-i.- El encasillamiento no podrá tener como consecuencia, ni podrá ser considerado como causal de término de servicios, cesación de funciones o término de la relación laboral del personal.
-
-ii.- No podrá significar pérdida del empleo, disminución de sus remuneraciones, excepto en el caso contemplado en el párrafo tercero del literal b), ni modificación de derechos previsionales.
-
-iii.- Cualquier diferencia de remuneraciones deberá ser pagada por planilla suplementaria, la que se absorberá por los futuros mejoramientos de remuneraciones que correspondan a los funcionarios, excepto los derivados de reajustes generales que se otorguen a los trabajadores del sector público. Dicha planilla mantendrá la misma imponibilidad que aquella de las remuneraciones que compensa. Además, a la planilla suplementaria se le aplicará el reajuste general antes indicado.
-
-iv.- Los funcionarios encasillados conservarán la asignación de antigüedad que tengan reconocida, como también el tiempo computable para dicho reconocimiento.
-
-#### Artículo 49 quáter
-
-La facultad conferida en el artículo 49 bis podrá ejercerse cada ocho años, y dentro de los dos años siguientes a contar del cumplimiento de dicho período, siempre que se cumplan los requisitos y límites que establece esta ley.
-
-En caso de corresponder hacer uso de la citada facultad en un año en el que se realicen elecciones municipales, dicho derecho podrá ejercerse sólo durante el año siguiente a éstas.
-
-El reglamento municipal que modifique o fije la nueva planta entrará en vigencia el 1 de enero del año siguiente al de su publicación en el Diario Oficial.
-
-La facultad establecida en el artículo 49 ter deberá ejercerse dentro de los ciento ochenta días siguientes a la entrada en vigencia del reglamento municipal que modifique o fije la planta respectiva. En el caso que procediere la realización de concursos públicos, éstos deberán efectuarse en el plazo de un año contado desde la citada fecha.
-
-> **Nota.** El artículo único de la Ley 21143, publicada el 27.02.2019, dispone que los reglamentos que fijan las plantas de personal de los municipios, ingresados para su toma de razón a la Contraloría General de la República durante el año 2018, publicados entre el 1 de enero del año 2019 y la fecha de publicación de la citada ley, entrarán en vigencia a partir del 27 de febrero de 2019
-
-> **Nota.** NOTA 1 El artículo 2 de la Ley 21493, publicada el 04.10.2022, dispone que los reglamentos que fijan las plantas de personal de los municipios, ingresados para su toma de razón a la Contraloría General de la República durante el año 2019, y hasta la publicación de esta ley, y que fueron publicados entre el 1 de enero del año 2022 y la fecha de publicación de esta ley, entrarán en vigencia a partir de esta última.
-
-#### Artículo 49
-
-quinquies.- Para todos los efectos legales, la participación de los funcionarios municipales en la determinación de la planta municipal no se entenderá como una vulneración al número 6 del artículo 62 de la ley N° 18.575 y al número 1 del artículo 12 de la ley N° 19.880.
-
 ### Párrafo 7º
 
 Fiscalización
@@ -1043,16 +587,6 @@ Las municipalidades se regirán por las normas sobre administración financiera 
 #### Artículo 51
 
 Las municipalidades serán fiscalizadas por la Contraloría General de la República, de acuerdo con su ley orgánica constitucional, sin perjuicio de las facultades generales de fiscalización interna que correspondan al alcalde, al concejo y a las unidades municipales dentro del ámbito de su competencia.
-
-Si en el ejercicio de tales facultades la Contraloría General de la República determina la existencia de actos u omisiones de carácter ilegal podrá instruir el correspondiente procedimiento disciplinario, según lo dispuesto en el artículo 133 bis y siguientes de la ley Nº 10.336, de Organización y Atribuciones de la Contraloría General de la República.
-
-Si como consecuencia de la investigación practicada, la que deberá respetar las reglas del debido proceso, dicho órgano considerase que se encuentra acreditada la responsabilidad administrativa del alcalde, deberá remitir los antecedentes al concejo municipal, para efectos de lo dispuesto en la letra c) del artículo 60.
-
-#### Artículo 51 bis
-
-El plazo para hacer efectiva la responsabilidad de los alcaldes y concejales, por acciones u omisiones que afecten la probidad administrativa o que impliquen un notable abandono de deberes, se contará desde la fecha de la correspondiente acción u omisión.
-
-Con todo, podrá incoarse dicho procedimiento, dentro de los seis meses posteriores al término de su período edilicio, en contra del alcalde o concejal que ya hubiere cesado en su cargo, para el solo efecto de aplicar la causal de inhabilidad dispuesta en el inciso octavo del artículo 60 y en el inciso segundo del artículo 77.
 
 #### Artículo 52
 
@@ -1074,8 +608,6 @@ Para los efectos de determinar la responsabilidad de los funcionarios municipale
 
 Los informes que emita la Contraloría serán puestos en conocimiento del respectivo concejo.
 
-Serán también puestos en conocimiento del concejo, con la periodicidad que determine el reglamento establecido en el artículo 92, la nómina de todas aquellas solicitudes de información pública recibidas, así como las respectivas respuestas entregadas por la municipalidad, que se realicen en el marco de lo dispuesto por la ley Nº 20.285, sobre Acceso a la Información Pública.
-
 ## Título II
 
 DEL ALCALDE
@@ -1088,7 +620,7 @@ Disposiciones generales
 
 El alcalde es la máxima autoridad de la municipalidad y en tal calidad le corresponderá su dirección y administración superior y la supervigilancia de su funcionamiento.
 
-En la condición antedicha, el alcalde deberá presentar, oportunamente y en forma fundada, a la aprobación del concejo, el plan comunal de desarrollo, el plan comunal de seguridad pública, el presupuesto municipal, el plan regulador, las políticas de la unidad de servicios de salud y educación y demás incorporados a su gestión, y las políticas y normas generales sobre licitaciones, adquisiciones, concesiones y permisos. Además, deberá presentar para aprobación del concejo la política de recursos humanos, la cual deberá contemplar, a lo menos, los mecanismos de reclutamiento y selección; promoción y capacitación, y egreso. En este proceso los alcaldes podrán considerar la opinión de un comité bipartito conformado en los términos del número 5 del artículo 49 bis. Dicha política podrá incluir también diversos planes piloto relacionados con el recurso humano, a fin de permitir un mejor desempeño laboral.
+En la condición antedicha, el alcalde deberá presentar, oportunamente y en forma fundada, a la aprobación del concejo, el plan comunal de desarrollo, el presupuesto municipal, el plan regulador, las políticas de la unidad de servicios de salud y educación y demás incorporados a su gestión, y las políticas y normas generales sobre licitaciones, adquisiciones, concesiones y permisos.
 
 #### Artículo 57
 
@@ -1099,8 +631,6 @@ Para ser candidato a alcalde se deberá acreditar haber cursado la enseñanza me
 #### Artículo 58
 
 El alcalde asumirá sus funciones de acuerdo a lo previsto en el artículo 83.
-
-El alcalde que sea reelegido será responsable por las acciones y omisiones imputables del período alcaldicio inmediatamente precedente, que afecten la probidad administrativa o impliquen un notable abandono de deberes, sin perjuicio de que se aplique, a su respecto, lo previsto en el artículo 51 bis.
 
 #### Artículo 59
 
@@ -1126,25 +656,9 @@ La causal establecida en la letra a) será declarada por el tribunal electoral r
 
 La causal establecida en la letra b) será declarada por el mismo tribunal, a requerimiento de a lo menos dos concejales de la correspondiente municipalidad. El alcalde que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer al concejo tan pronto tenga conocimiento de su existencia.
 
-La causal establecida en la letra
-
-- **c)** será declarada por el tribunal electoral regional respectivo, a requerimiento de, a lo menos, un tercio de los concejales en ejercicio, o por un concejal o concejala cuando el alcalde o la alcaldesa haya sido el denunciado o denunciada y se haya verificado en procedimiento de sumario administrativo instruido por la Contraloría General de la República, la concurrencia de las prohibiciones establecidas en el artículo 82 letras
-
-- **l)** y
-
-- **m)** de la Ley N°18.883, en relación al artículo 126 del mismo cuerpo legal, caso en el cual se entenderá contravención de carácter grave a las normas sobre probidad administrativa, observándose el procedimiento establecido en los artículos 17 y siguientes de la ley Nº 18.593, de los Tribunales Electorales Regionales, para lo cual no se requerirá patrocinio de abogado.
-
-En el requerimiento, los concejales podrán pedir al tribunal electoral regional respectivo la cesación en el cargo o, en subsidio, la aplicación de alguna de las medidas disciplinarias dispuestas en las letras a), b) y c) del artículo 120 de la ley Nº 18.883, que aprueba el Estatuto Administrativo para Funcionarios Municipales.
-
-El tribunal electoral regional competente adoptará las medidas necesarias para acumular los respectivos antecedentes, a fin de evitar un doble pronunciamiento sobre una misma materia.
-
-El mismo procedimiento descrito en los incisos anteriores se utilizará cuando el Tribunal Electoral Regional estime que uno o más concejales han incurrido en una contravención grave de las normas sobre probidad administrativa o en notable abandono de deberes, lo cual se entiende sin perjuicio de lo dispuesto en el artículo 77 de esta ley.
+La causal establecida en la letra c) será declarada por el tribunal electoral regional respectivo, a requerimiento de a lo menos un tercio de los concejales en ejercicio; salvo tratándose del caso previsto en el inciso segundo del artículo 65, en que la remoción sólo podrá promoverla el concejo, observándose en todo caso el procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593, para lo cual no se requerirá el patrocinio de abogado.
 
 Con todo, la cesación en el cargo de alcalde, tratándose de las causales contempladas en las letras a), b) y c), operará sólo una vez ejecutoriada la resolución que declare su existencia. Sin perjuicio de ello, en el caso de notable abandono de deberes o contravención grave a las normas sobre probidad administrativa, el alcalde quedará suspendido en el cargo tan pronto le sea notificada la sentencia de primera instancia que acoja el requerimiento. En tal caso se aplicará lo dispuesto en el inciso tercero del artículo 62. En el evento de quedar a firme dicha resolución, el afectado estará inhabilitado para ejercer cualquier cargo público por el término de cinco años.
-
-Sin perjuicio de lo establecido en el artículo 51, se considerará que existe notable abandono de deberes cuando el alcalde o concejal transgrediere, inexcusablemente y de manera manifiesta o reiterada, las obligaciones que le imponen la Constitución y las demás normas que regulan el funcionamiento municipal; así como en aquellos casos en que una acción u omisión, que le sea imputable, cause grave detrimento al patrimonio de la municipalidad y afecte gravemente la actividad municipal destinada a dar satisfacción a las necesidades básicas de la comunidad local. Se entenderá, asimismo, que se configura un notable abandono de deberes cuando el alcalde, en forma reiterada, no pague íntegra y oportunamente las cotizaciones previsionales correspondientes a sus funcionarios o a trabajadores de los servicios traspasados en virtud de lo dispuesto en el decreto con fuerza de ley Nº 1-3.063, de 1979, del Ministerio del Interior, y de aquellos servicios incorporados a la gestión municipal. El alcalde siempre deberá velar por el cabal y oportuno pago de las cotizaciones previsionales de los funcionarios y trabajadores señalados precedentemente, y trimestralmente deberá rendir cuenta al concejo municipal del estado en que se encuentra el cumplimiento de dicha obligación.
-
-Con todo, cuando un alcalde pagare deudas previsionales originadas en un período alcaldicio anterior en el que no haya ejercido funciones como titular de ese cargo, él y los demás funcionarios que intervinieren en el pago estarán exentos de responsabilidad civil por las multas e intereses que dichas deudas hubieren ocasionado.
 
 #### Artículo 61
 
@@ -1154,23 +668,13 @@ El alcalde o concejal cuyo derecho a sufragio se suspenda por alguna de las caus
 
 El alcalde, en caso de ausencia o impedimento no superior a cuarenta y cinco días, será subrogado en sus funciones por el funcionario en ejercicio que le siga en orden de jerarquía dentro de la municipalidad, con exclusión del juez de policía local. Sin embargo, previa consulta al concejo, el alcalde podrá designar como subrogante a un funcionario que no corresponda a dicho orden. No obstante, si la ausencia o impedimento obedeciere a razones médicas o de salud que imposibiliten temporalmente el ejercicio del cargo, la subrogancia se extenderá hasta 130 días.
 
-La subrogación comprenderá, también, la representación judicial y extrajudicial de la municipalidad y el derecho a asistir a sus sesiones sólo con derecho a voz, con excepción de la representación protocolar. Mientras proceda la subrogancia, la presidencia del concejo la ejercerá el concejal presente que haya obtenido mayor votación ciudadana en la elección municipal respectiva, salvo cuando se verifique lo dispuesto en el inciso tercero del artículo 107. El concejal que presida durante la subrogancia, además, representará protocolarmente a la municipalidad, y convocará al concejo.
+La subrogación comprenderá también la representación del municipio, la atribución de convocar al concejo y el derecho a asistir a sus sesiones sólo con derecho a voz. Mientras opere la subrogancia, la presidencia del concejo la ejercerá el concejal presente que haya obtenido mayor votación ciudadana en la elección municipal respectiva, salvo cuando opere lo dispuesto en el inciso tercero del artículo 107.
 
 Cuando el alcalde se encuentre afecto a una incapacidad temporal superior a cuarenta y cinco días, salvo en la situación prevista en la oración final del inciso primero, el concejo designará de entre sus miembros a un alcalde suplente, en sesión especialmente convocada al efecto, de conformidad a lo dispuesto en el inciso siguiente.
 
 En caso de vacancia del cargo de alcalde, el concejo procederá a elegir un nuevo alcalde, que complete el período, de entre sus propios miembros y por mayoría absoluta de los concejales en ejercicio, en sesión especialmente convocada al efecto. De no reunir ninguno de ellos dicha mayoría, se repetirá la votación, circunscrita sólo a los dos concejales que hubieren obtenido las dos mayorías relativas. En caso de no lograrse nuevamente la mayoría absoluta en esta segunda votación, o produciéndose empate, será considerado alcalde aquél de los dos concejales que hubiere obtenido mayor número de preferencias ciudadanas en la elección municipal respectiva. El mismo mecanismo de las preferencias ciudadanas se aplicará también para resolver los empates en la determinación de las mayorías relativas en la primera votación.
 
-La elección se efectuará en una única sesión extraordinaria que se celebrará dentro de los diez días siguientes a la fecha en que se hubiere producido la vacante. El secretario municipal citará al efecto al concejo con tres días de anticipación a lo menos. El nuevo alcalde así elegido permanecerá en el cargo por el tiempo que faltare para completar el respectivo período, pudiendo ser reelegido. Mientras no sea elegido nuevo alcalde, regirá lo dispuesto en el inciso primero.
-
-En caso que dicha sesión no pudiere realizarse en la fecha convocada, el secretario municipal citará a una nueva, la que deberá celebrarse dentro de los diez días siguientes a la fracasada, en idénticas condiciones que esta.
-
-Si la segunda sesión nuevamente no pudiere realizarse, en la fecha convocada, el secretario municipal citará a una nueva, la que deberá celebrarse dentro de los diez días siguientes a la anterior. Esta nueva sesión extraordinaria, destinada a elegir alcalde, se celebrará con el o los concejales que asistan y resultará elegido alcalde aquel concejal que obtenga la mayor cantidad de votos. En caso de empate, será considerado alcalde aquel de los concejales igualados que hubiere obtenido mayor número de sufragios en la elección municipal respectiva.
-
-Si la tercera sesión extraordinaria convocada tampoco pudiere realizarse, asumirá como alcalde aquel concejal en ejercicio que hubiere obtenido el mayor número de sufragios en la elección municipal correspondiente.
-
-#### Artículo 62 bis
-
-En caso de nulidad del acto eleccionario de alcalde, declarada por sentencia firme o ejecutoriada por el tribunal electoral competente, las funciones correspondientes serán desempeñadas por el secretario municipal, hasta la investidura del nuevo alcalde.
+La elección se efectuará en sesión extraordinaria que se celebrará dentro de los doce días siguientes a la fecha en que se hubiere producido la vacante. El secretario municipal citará al efecto al concejo con tres días de anticipación a lo menos. El nuevo alcalde así elegido permanecerá en el cargo por el tiempo que faltare para completar el respectivo período, pudiendo ser reelegido. Mientras no sea elegido nuevo alcalde, regirá lo dispuesto en el inciso primero.
 
 ### Párrafo 2º
 
@@ -1198,7 +702,7 @@ h) Adquirir y enajenar bienes muebles;
 
 i) Dictar resoluciones obligatorias de carácter general o particular;
 
-j) Delegar el ejercicio de parte de sus atribuciones exclusivas en funcionarios de su dependencia o en los delegados que designe, salvo las contempladas en las letras c) y d) y la presidencia del consejo comunal de seguridad pública. Igualmente podrá delegar la facultad para firmar, bajo la fórmula "por orden del alcalde", sobre materias específicas;
+j) Delegar el ejercicio de parte de sus atribuciones exclusivas en funcionarios de su dependencia o en los delegados que designe, salvo las contempladas en las letras c) y d). Igualmente podrá delegar la facultad para firmar, bajo la fórmula "por orden del alcalde", sobre materias específicas;
 
 k) Coordinar el funcionamiento de la municipalidad con los órganos de la Administración del Estado que corresponda;
 
@@ -1206,27 +710,11 @@ l) Coordinar con los servicios públicos la acción de éstos en el territorio d
 
 ll) Ejecutar los actos y celebrar los contratos necesarios para el adecuado cumplimiento de las funciones de la municipalidad y de lo dispuesto en el artículo 37 de la Ley Nº 18.575;
 
-m) Convocar y presidir, con derecho a voto, el concejo; como asimismo, convocar y presidir el consejo comunal de organizaciones de la sociedad civil y el consejo comunal de seguridad pública;
+m) Convocar y presidir, con derecho a voto, el concejo; como asimismo, convocar y presidir el consejo económico y social comunal;
 
-n) Someter a plebiscito las materias de administración local, de acuerdo a lo establecido en los artículos 99 y siguientes;
+n) Someter a plebiscito las materias de administración local, de acuerdo a lo establecido en los artículos 99 y siguientes, y
 
-ñ) Autorizar la circulación de los vehículos municipales fuera de los días y horas de trabajo, para el cumplimiento de las funciones inherentes a la municipalidad, y
-
-o) Aprobar, observar o rechazar las solicitudes de materializar los aportes al espacio público que contempla la Ley General de Urbanismo y Construcciones a través de la ejecución de estudios, proyectos, obras y medidas de acuerdo a lo que dispone el mismo cuerpo legal.
-
-p) Requerir de la Fiscalía del Ministerio Público y de las Fuerzas de Orden y Seguridad Pública, que ejerzan sus funciones en la comuna respectiva, los datos oficiales que éstas posean en sus sistemas de información, sobre los delitos que hubiesen afectado a la comuna , los servicios policiales disponibles en el territorio, así como cualquier otro que fuere necesario para dar cumplimiento a la función establecida en el literal j) del artículo 4.
-
-La funcionaria o el funcionario policial de más alto rango en la unidad policial requerida y el o la fiscal jefe de la fiscalía local correspondiente, o en quien éstos o éstas hayan delegado su función, deberán enviar dicha información al alcalde o a la funcionaria o al funcionario municipal que éste o ésta designe, a través de un medio electrónico que habilitarán para estos efectos, dentro de los diez días hábiles siguientes a la recepción de la solicitud.
-
-Sin perjuicio de lo señalado en el párrafo anterior, para efectos de colaborar con la seguridad pública y la prevención del delito, el Ministerio Público, Carabineros de Chile y las municipalidades deberán intercambiar los datos correspondientes a la comuna en que se encuentren, respectivamente, en el banco de datos establecido en el artículo 11 de la ley N° 20.931 y en el Sistema Táctico de Operación Policial regulado en la ley N° 21.332. Lo anterior, mediante una plataforma electrónica interconectada, coordinada y administrada por la Subsecretaría de Prevención del Delito, institución que deberá mantenerla unificada y actualizada. La información contenida en esta plataforma podrá ser consultada en todo momento por las instituciones referidas, en el ámbito de sus respectivas competencias.
-
-La información a la que se refiere el presente literal se remitirá en forma anonimizada y en ningún caso podrá ser intercambiada, remitida ni revelada si se trata de una materia que está sujeta a reserva de investigación de conformidad con el artículo 182 del Código Procesal Penal. Asimismo, le serán aplicables las demás normas especiales que se refieran al secreto de las investigaciones penales, las disposiciones referidas a la protección de datos personales de la ley N° 19.628, sobre Protección de la Vida Privada, y lo dispuesto en la ley N° 20.285, sobre acceso a la información pública.
-
-Con todo, la información sobre dotación policial tendrá carácter secreto, y podrá ser conocida únicamente por el alcalde, el director o la directora de seguridad y las funcionarias y los funcionarios que se determine a través de un decreto alcaldicio. La municipalidad adoptará las medidas pertinentes para resguardar la confidencialidad de la información.
-
-Todo personal municipal, en su calidad de empleado público y cualquiera sea su calidad contractual, que tenga acceso a la información contenida en este artículo, deberá guardar secreto de la información referida en los incisos anteriores. El quebrantamiento de este deber supondrá responsabilidades administrativas y penales de conformidad con las leyes pertinentes.
-
-Un reglamento expedido por el Ministerio de Seguridad Pública, suscrito además por el Ministerio de Justicia y Derechos Humanos, señalará en detalle los datos anonimizados que las instituciones participantes deberán intercambiar, el tipo y la manera en que cada institución podrá acceder a la información, de conformidad con sus competencias, así como cualquier otro aspecto necesario para el adecuado funcionamiento de la plataforma establecida en el párrafo tercero del presente literal.
+ñ) Autorizar la circulación de los vehículos municipales fuera de los días y horas de trabajo, para el cumplimiento de las funciones inherentes a la municipalidad.
 
 #### Artículo 64
 
@@ -1238,69 +726,41 @@ El alcalde requerirá el acuerdo del concejo para:
 
 a) Aprobar el plan comunal de desarrollo y el presupuesto municipal, y sus modificaciones, como asimismo los presupuestos de salud y educación, los programas de inversión correspondientes y las políticas de recursos humanos, de prestación de servicios municipales y de concesiones, permisos y licitaciones;
 
-b) Aprobar el plan regulador comunal, el plan seccional de remodelación, los planes seccionales y sus planos de detalle, los planes maestros de regeneración, la propuesta de normas urbanísticas especiales para las habilitaciones normativas de terrenos, el plan de inversiones en infraestructura de movilidad y espacio público y los estudios, proyectos, obras y medidas no incluidos en éstos que sean propuestos por los interesados conforme con el artículo 179 de la Ley General de Urbanismo y Construcciones, en su caso;
+b) Aprobar el plan regulador comunal, los planes seccionales y el proyecto de plan regulador comunal o de plan seccional en los casos a que se refiere la letra k) del artículo 5º;
 
-c) Aprobar el plan comunal de seguridad pública y sus actualizaciones;
+c) Establecer derechos por los servicios municipales y por los permisos y concesiones;
 
-d) Establecer derechos por los servicios municipales y por los permisos y concesiones;
+d) Aplicar, dentro de los marcos que indique la ley, los tributos que graven actividades o bienes que tengan una clara identificación local y estén destinados a obras de desarrollo comunal;
 
-e) Aplicar, dentro de los marcos que indique la ley, los tributos que graven actividades o bienes que tengan una clara identificación local y estén destinados a obras de desarrollo comunal;
+e) Adquirir, enajenar, gravar, arrendar por un plazo superior a cuatro años o traspasar a cualquier título, el dominio o mera tenencia de bienes inmuebles municipales o donar bienes muebles;
 
-f) Adquirir, enajenar, gravar, arrendar por un plazo superior a cuatro años o traspasar a cualquier título, el dominio o mera tenencia de bienes inmuebles municipales o donar bienes muebles;
+f) Expropiar bienes inmuebles para dar cumplimiento al plan regulador comunal;
 
-g) Expropiar bienes inmuebles para dar cumplimiento al plan regulador comunal;
+g) Otorgar subvenciones y aportes, para financiar actividades comprendidas entre las funciones de las municipalidades, a personas jurídicas de carácter público o privado, sin fines de lucro, y ponerles término;
 
-h) Otorgar subvenciones y aportes, para financiar actividades comprendidas entre las funciones de las municipalidades, a personas jurídicas de carácter público o privado, sin fines de lucro, y ponerles término;
+h) Transigir judicial y extrajudicialmente;
 
-i) Transigir judicial y extrajudicialmente;
+i) Celebrar los convenios y contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo;
 
-j) Suscribir los convenios de programación a que se refieren los artículos 8º bis y 8º ter y celebrar los convenios y contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo. Asimismo, suscribir los convenios sobre aportes urbanos reembolsables que regula la Ley General de Urbanismo y Construcciones;
+j) Otorgar concesiones municipales, renovarlas y ponerles término. En todo caso, las renovaciones sólo podrán acordarse dentro de los seis meses que precedan a su expiración, aún cuando se trate de concesiones reguladas en leyes especiales;
 
-k) Otorgar concesiones municipales, renovarlas y ponerles término. En todo caso, las renovaciones sólo podrán acordarse dentro de los seis meses que precedan a su expiración, aún cuando se trate de concesiones reguladas en leyes especiales;
+k) Dictar ordenanzas municipales y el reglamento a que se refiere el artículo 31;
 
-l) Dictar ordenanzas municipales y el reglamento a que se refiere el artículo 31;
+l) Omitir el trámite de licitación pública en los casos de imprevistos urgentes u otras circunstancias debidamente calificadas, en conformidad con lo dispuesto en el artículo 8º de esta ley;
 
-m) Omitir el trámite de licitación pública en los casos de imprevistos urgentes u otras circunstancias debidamente calificadas, en conformidad con lo dispuesto en el artículo 8º de esta ley;
+m) Convocar, de propia iniciativa, a plebiscito comunal, en conformidad con lo dispuesto en el Título IV;
 
-n) Convocar, de propia iniciativa, a plebiscito comunal, en conformidad con lo dispuesto en el Título IV;
+n) Readscribir o destinar a otras unidades al personal municipal que se desempeñe en la unidad de control;
 
-ñ) Readscribir o destinar a otras unidades al personal municipal que se desempeñe en la unidad de control y en los juzgados de policía local;
+ñ) Otorgar, renovar, caducar y trasladar patentes de alcoholes. El otorgamiento, la renovación o el traslado de estas patentes se practicará previa consulta a las juntas de vecinos respectivas;
 
-o) Otorgar, renovar, caducar y trasladar patentes de alcoholes. El otorgamiento, la renovación o el traslado de estas patentes se practicará previa consulta a las juntas de vecinos respectivas;
+o) Fijar el horario de funcionamiento de los establecimientos de expendio de bebidas alcohólicas existentes en la comuna, dentro de los márgenes establecidos en el artículo 21 de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas. En la ordenanza respectiva se podrán fijar horarios diferenciados de acuerdo a las características y necesidades de las distintas zonas de la correspondiente comuna o agrupación de comunas.
 
-p) Fijar el horario de funcionamiento de los establecimientos de expendio de bebidas alcohólicas existentes en la comuna, dentro de los márgenes establecidos en el artículo 21 de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas. En la ordenanza respectiva se podrán fijar horarios diferenciados de acuerdo a las características y necesidades de las distintas zonas de la correspondiente comuna o agrupación de comunas.
+Estos acuerdos del concejo deberán ser fundados, y
 
-Estos acuerdos del concejo deberán ser fundados;
+p) Otorgar patentes a las salas de cine destinadas a la exhibición de producciones cinematográficas de contenido pornográfico. En este caso, el acuerdo deberá adoptarse por la mayoría simple de los miembros del concejo. El alcalde oirá previamente a la junta de vecinos correspondiente.
 
-q) Otorgar patentes a las salas de cine destinadas a la exhibición de producciones cinematográficas de contenido pornográfico. En este caso, el acuerdo deberá adoptarse por la mayoría simple de los miembros del concejo. El alcalde oirá previamente a la junta de vecinos correspondiente;
-
-r) Otorgar la autorización a que se refiere el párrafo segundo de la letra c) del artículo 5º, previo informe de las direcciones o unidades de tránsito y de obras municipales y de la unidad de Carabineros y el Cuerpo de Bomberos de la comuna, siempre que la solicitud sea suscrita por a lo menos el 80 por ciento de los propietarios de los inmuebles o de sus representantes o moradores autorizados cuyos accesos se encuentren ubicados al interior de la calle, pasaje o conjunto habitacional urbano o rural que será objeto de cierre. La solicitud de cierre deberá señalar su forma de administración. La autorización deberá ser fundada, especificar el lugar de instalación de los dispositivos de cierre o control; las restricciones a vehículos, peatones o a ambos, en su caso, y los horarios en que se aplicará. La municipalidad podrá revocarla en cualquier momento cuando así lo solicite, a lo menos, el 50 por ciento de los referidos propietarios o sus representantes.
-
-Con las mismas exigencias dispuestas en el párrafo precedente, y con aquellas que se señalan a continuación, se podrá otorgar autorización para implementar medidas de control de acceso en calles y pasajes que tuvieren un acceso y salida diferentes, con los siguientes requisitos:
-
-i. El ancho de la calzada debe ser inferior a 7 metros.
-
-ii. Podrá implementarse solamente en la entrada y salida de calles y pasajes cuya extensión no sea superior a una cuadra.
-
-iii. Estarán autorizados a funcionar por un lapso no superior a siete horas continuas, las que se deberán indicar en la solicitud a que se refiere el párrafo primero de este literal. Excepcionalmente, el municipio podrá autorizar periodos de cierre que no excedan de diez horas continuas, fundado en especiales motivos de seguridad y siempre que no haya afectación relevante del tránsito.
-
-La facultad señalada en los párrafos anteriores no podrá ser ejercida en barrios o zonas declaradas patrimonio de la humanidad o respecto de barrios, calles, pasajes o lugares que tengan el carácter de patrimonio arquitectónico o sirvan como acceso a ellos o a otros calificados como monumentos nacionales.
-
-Un reglamento expedido por el Ministerio del Interior y Seguridad Pública determinará las características del cierre o de las medidas de control de acceso, según corresponda, velando por que ellas puedan ser desactivadas en caso de emergencia. Dicho reglamento considerará una ordenanza municipal tipo, propuesta por la Subsecretaría de Desarrollo Regional y Administrativo, que deberá contener medidas para garantizar la circulación de las personas y de los vehículos de emergencia, de utilidad pública y de beneficio comunitario, y compatibilizar el objeto de la autorización con el desarrollo de la actividad económica del sector. La autorización nunca podrá comprender alguna vía de la red vial básica. La ordenanza que se dicte sobre la materia deberá ser sometida por el alcalde a la aprobación del concejo.
-
-Toda solicitud de cierre o de implementación de medidas de control de acceso en calles y pasajes que, cumpla con los requisitos establecidos en los párrafos precedentes, y cuente con un ingreso o salida que acceda o enfrente una o más vías de la red vial básica, requerirá de un informe técnico favorable de la secretaría regional ministerial de Transportes y Telecomunicaciones respectiva. Un reglamento expedido por el Ministerio de Transportes y Telecomunicaciones establecerá el procedimiento para solicitar el informe por la respectiva secretaría regional ministerial y las condiciones para otorgarlo.
-
-Si los organismos encargados de evacuar informes para el establecimiento de cierres o la implementación de medidas de control de acceso en los términos precedentes no lo hicieren dentro de los sesenta días siguientes al despacho de la solicitud, se entenderá que se manifiestan a favor de ella, y
-
-s) Aprobar todos aquellos informes que le sean requeridos a la municipalidad en virtud de la Ley Marco Cambio Climático.
-
-Las materias que requieren el acuerdo del concejo serán de iniciativa del alcalde. Sin perjuicio de lo anterior, si el alcalde incurriere en incumplimiento reiterado y negligente de las obligaciones señaladas en el inciso segundo del artículo 56, podrá ser requerido por el concejo para que presente el o los proyectos que correspondan dentro de un tiempo prudencial. En caso de que el alcalde persista en la omisión, su conducta podrá ser considerada como causal de notable abandono de deberes, para los efectos de lo previsto en la letra
-
-- **c)** del artículo 60, salvo en lo que se refiere a la no presentación del plan comunal de seguridad pública, en cuyo caso los concejales sólo podrán solicitar al Tribunal Electoral Regional la aplicación de alguna de las medidas disciplinarias dispuestas en las letras a),
-
-- **b)** o
-
-- **c)** del artículo 120 de la ley N° 18.883. No obstante lo expresado precedentemente, los concejales podrán someter a consideración del concejo las materias señaladas anteriormente, siempre que éstas no incidan en la administración financiera del municipio.
+Las materias que requieren el acuerdo del concejo serán de iniciativa del alcalde. Sin perjuicio de lo anterior, si el alcalde incurriere en incumplimiento reiterado y negligente de las obligaciones señaladas en el inciso segundo del artículo 56, podrá ser requerido por el concejo para que presente el o los proyectos que correspondan dentro de un tiempo prudencial. En caso de que el alcalde persista en la omisión, su conducta podrá ser considerada como causal de notable abandono de deberes, para los efectos de lo previsto en la letra c) del artículo 60.
 
 Al aprobar el presupuesto, el concejo velará porque en él se indiquen los ingresos estimados y los montos de los recursos suficientes para atender los gastos previstos. El concejo no podrá aumentar el presupuesto de gastos presentado por el alcalde, sino sólo disminuirlo, y modificar su distribución, salvo respecto de gastos establecidos por ley o por convenios celebrados por el municipio. Con todo, el presupuesto deberá reflejar las estrategias, políticas, planes, programas y metas aprobados por el concejo a proposición del alcalde.
 
@@ -1322,17 +782,15 @@ b) Cinco concejales en las comunas que cuenten con ocho.
 
 c) Seis concejales en las comunas que cuenten con diez de ellos.
 
-En el caso de las contrataciones reguladas por la ley N° 19.886, de bases sobre contratos administrativos de suministro y prestación de servicios, cuando el alcalde o alcaldesa requiera del acuerdo del Concejo Municipal, según los dispuesto en este artículo, las y los concejales deberán ceñirse al principio de estricta sujeción a las bases, dispuesto en el artículo 10 de dicha ley.
-
 #### Artículo 66
 
 La regulación de los procedimientos administrativos de contratación que realicen las municipalidades se ajustará a la Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y sus reglamentos.
 
-Asimismo, el procedimiento administrativo de otorgamiento de concesiones para la prestación de servicios por las municipalidades se ajustará a las normas de la citada ley y sus reglamentos, salvo lo establecido en los incisos cuarto, quinto y sexto del artículo 8° de la presente ley, disposiciones que serán aplicables en todo caso.
+Sin perjuicio de lo señalado en el inciso anterior, tratándose de la suscripción de convenios marco, deberá estarse a lo establecido en el inciso tercero de la letra d), del artículo 30 de dicha ley.
 
 #### Artículo 67
 
-El alcalde deberá dar cuenta pública al concejo, al consejo comunal de organizaciones de la sociedad civil y al consejo comunal de seguridad pública, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la municipalidad. Deberán ser invitados también a esta sesión del concejo, las principales organizaciones comunitarias y otras relevantes de la comuna; las autoridades locales, regionales, y los parlamentarios que representen al distrito y la circunscripción a que pertenezca la comuna respectiva.
+El alcalde deberá dar cuenta pública al concejo, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la municipalidad.
 
 La cuenta pública se efectuará mediante informe escrito, el cual deberá hacer referencia a lo menos a los siguientes contenidos:
 
@@ -1340,31 +798,17 @@ a) El balance de la ejecución presupuestaria y el estado de situación financie
 
 b) Las acciones realizadas para el cumplimiento del plan comunal de desarrollo, así como los estados de avance de los programas de mediano y largo plazo, las metas cumplidas y los objetivos alcanzados;
 
-c) La gestión anual del municipio respecto del plan comunal de seguridad pública vigente, dando cuenta especialmente del contenido y monitoreo del plan comunal de seguridad pública;
+c) Las inversiones efectuadas en relación con los proyectos concluidos en el período y aquellos en ejecución, señalando específicamente las fuentes de su financiamiento;
 
-d) La gestión anual del consejo comunal de seguridad pública, dando cuenta especialmente del porcentaje de asistencia de sus integrantes, entre otros;
+d) Un resumen de las observaciones más relevantes efectuadas por la Contraloría General de la República, en cumplimiento de sus funciones propias, relacionadas con la administración municipal;
 
-e) Las inversiones efectuadas en relación con los proyectos concluidos en el período y aquellos en ejecución, señalando específicamente las fuentes de su financiamiento;
+e) Los convenios celebrados con otras instituciones, públicas o privadas, así como la constitución de corporaciones o fundaciones, o la incorporación municipal a ese tipo de entidades;
 
-f) Un resumen de las auditorías, sumarios y juicios en que la municipalidad sea parte, las resoluciones que respecto del municipio haya dictado el Consejo para la Transparencia, y de las observaciones más relevantes efectuadas por la Contraloría General de la República, en cumplimiento de sus funciones propias, relacionadas con la administración municipal;
+f) Las modificaciones efectuadas al patrimonio municipal, y
 
-g) Los convenios celebrados con otras instituciones, públicas o privadas, así como la constitución de corporaciones o fundaciones, o la incorporación municipal a ese tipo de entidades;
-
-h) Las modificaciones efectuadas al patrimonio municipal;
-
-i) Los indicadores más relevantes que den cuenta de la gestión en los servicios de educación y salud, cuando estos sean de administración municipal, tales como el número de colegios y alumnos matriculados; de los resultados obtenidos por los alumnos en las evaluaciones oficiales que se efectúen por el Ministerio de Educación; de la situación previsional del personal vinculado a las áreas de educación y salud; del grado de cumplimiento de las metas sanitarias y de salud a nivel comunal;
-
-j) El estado de la aplicación de la política de recursos humanos;
-
-k) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
-
-l) Una relación detallada del uso, situación y movimiento de todos y cada uno de los aportes recibidos para la ejecución del plan de inversiones en infraestructura de movilidad y espacio público a que se refiere la Ley General de Urbanismo y Construcciones, la asignación de aportes en dinero a obras específicas, las obras ejecutadas, los fondos disponibles en la cuenta especial, la programación de obras para el año siguiente y las medidas de mitigación directa, estudios, proyectos, obras y medidas por concepto de aportes al espacio público recepcionadas y garantizadas y las incluidas en los permisos aprobados, consignando, además, las garantías a que alude el artículo 173 de la Ley General de Urbanismo y Construcciones que obren en su poder y la situación de los fondos obtenidos por el cobro de garantías.
-
-m) El estado de la planificación territorial de la comuna, de los procesos de planificación territorial de nivel comunal en curso y/o del estado de actualización del respectivo instrumento, para lo que considerará los informes de monitoreo a que se refiere la Ley General de Urbanismo y Construcciones.
+g) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
 
 Un extracto de la cuenta pública del alcalde deberá ser difundido a la comunidad. Sin perjuicio de lo anterior, la cuenta íntegra efectuada por el alcalde deberá estar a disposición de los ciudadanos para su consulta.
-
-Asimismo, el alcalde deberá hacer entrega, al término de su mandato, de un Acta de Traspaso de Gestión, la que deberá consignar la información consolidada de su período alcaldicio, respecto de los contenidos indicados en el inciso segundo del presente artículo, así como de los contratos y concesiones vigentes. Dicha Acta deberá ser suscrita por el secretario municipal y el jefe de la unidad de control. Sin embargo, podrán no suscribirla si no estuviesen de acuerdo con sus contenidos, debiendo comunicar ello al alcalde que termina su mandato. El Acta de Traspaso de Gestión se entregará tanto al alcalde que asume como a los nuevos concejales que se integrarán, a contar de la sesión de instalación del concejo.
 
 El no cumplimiento de lo establecido en este artículo será considerado causal de notable abandono de sus deberes por parte del alcalde.
 
@@ -1374,9 +818,9 @@ El alcalde podrá designar delegados en localidades distantes de la sede municip
 
 Si la designación recayere en un funcionario de la municipalidad, éste ejercerá su cometido en comisión de servicios; si fuere designada una persona ajena a aquélla, podrá ser contratada a honorarios o se desempeñará ad honórem, según se establezca en la respectiva resolución, quedando afecta a las mismas responsabilidades de los funcionarios municipales.
 
-La delegación deberá ser parcial y recaer sobre materias específicas. En la resolución espectiva el alcalde determinará las facultades que confiere, el plazo y el ámbito territorial de competencia del delegado.
+La delegación deberá ser parcial y recaer sobre materias específicas. En la resolución respectiva el alcalde determinará las facultades que confiere, el plazo y el ámbito territorial de competencia del delegado.
 
-La designación de los delegados deberá ser comunicada por el alcalde al delegado presidencial provincial respectivo.
+La designación de los delegados deberá ser comunicada por el alcalde al gobernador respectivo.
 
 #### Artículo 69
 
@@ -1410,7 +854,7 @@ b) Ocho concejales en las comunas o agrupaciones de comunas de más de setenta m
 
 c) Diez concejales en las comunas o agrupaciones de comunas de más de ciento cincuenta mil electores.
 
-El número de concejales por elegir en cada comuna o agrupación de comunas, en función de sus electores, será determinado mediante resolución del Director del Servicio Electoral. Para estos efectos, se considerará el registro electoral vigente siete meses antes de la fecha de la elección respectiva. La resolución del Director del Servicio deberá ser publicada en el sitio electrónico de ese Servicio dentro de los diez días siguientes al término del referido plazo de siete meses, contado hacia atrás desde la fecha de la elección.
+El número de concejales por elegir en cada comuna o agrupación de comunas, en función de sus electores, será determinado mediante resolución del Director del Servicio Electoral. Para estos efectos, se considerará el registro electoral vigente siete meses antes de la fecha de la elección respectiva. La resolución del Director del Servicio deberá ser publicada en el Diario Oficial dentro de los diez días siguientes al término del referido plazo de siete meses, contado hacia atrás desde la fecha de la elección.
 
 #### Artículo 73
 
@@ -1418,7 +862,7 @@ Para ser elegido concejal se requiere:
 
 a) Ser ciudadano con derecho a sufragio;
 
-b) Haber aprobado la enseñanza media o su equivalente, considerándose también como estudios equivalentes, para estos efectos, los acreditados mediante certificado de cuarto medio laboral;
+b) Saber leer y escribir;
 
 c) Tener residencia en la región a que pertenezca la respectiva comuna o agrupación de comunas, según corresponda, a lo menos durante los últimos dos años anteriores a la elección;
 
@@ -1432,31 +876,25 @@ No podrá ser alcalde ni concejal el que tuviere dependencia de sustancias o dro
 
 No podrán ser candidatos a alcalde o a concejal:
 
-a) Los ministros de Estado, los subsecretarios, los secretarios regionales ministeriales, los gobernadores regionales, los delegados presidenciales regionales, los delegados presidenciales provinciales, los secretarios regionales ministeriales, los consejeros regionales, los parlamentarios, los miembros del consejo del Banco Central y el Contralor General de la República;
+a) Los ministros de Estado, los subsecretarios, los secretarios regionales ministeriales, los intendentes, los gobernadores, los consejeros regionales, los parlamentarios, los miembros del consejo del Banco Central y el Contralor General de la República;
 
-b) Los miembros y funcionarios de los diferentes escalafones del Poder Judicial, del Ministerio Público, de la Contraloría General de la República, así como los del Tribunal Constitucional, del Tribunal de Defensa de la Libre Competencia, del Tribunal de Contratación Pública, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales, los consejeros del Consejo para la Transparencia, y los miembros activos de las Fuerzas Armadas y de Orden y Seguridad Pública, y
+b) Los miembros y funcionarios de los diferentes escalafones del Poder Judicial, del Ministerio Público, así como los del Tribunal Constitucional, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales, los miembros de las Fuerzas Armadas, Carabineros e Investigaciones, y
 
 c) Las personas que a la fecha de inscripción de sus candidaturas tengan vigente o suscriban, por sí o por terceros, contratos o cauciones ascendentes a doscientas unidades tributarias mensuales o más, con la respectiva municipalidad. Tampoco podrán serlo quienes tengan litigios pendientes con la municipalidad, a menos que se refieran al ejercicio de derechos propios, de su cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive.
 
 Igual prohibición regirá respecto de los directores, administradores, representantes y socios titulares del diez por ciento o más de los derechos de cualquier clase de sociedad, cuando ésta tenga contratos o cauciones vigentes ascendentes a doscientas unidades tributarias mensuales o más, o litigios pendientes, con la municipalidad.
 
-Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen condenadas por crimen o simple delito que merezca pena aflictiva, ni las personas que mantengan una inscripción vigente en el Registro Nacional de Deudores de Pensiones de Alimentos, regulado en la ley N° 14.908, sobre abandono de familia y pago de pensiones alimenticias, cuyo texto refundido, coordinado y sistematizado fue fijado por el artículo 7° del decreto con fuerza de ley N° 1, de 2000, del Ministerio de Justicia.
-
-Las inhabilidades establecidas en las letras a) y b) serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección municipal.
-
-> **Nota.** La modificación al Art. 74, letra b), dispuesta por el Art. 1º Nº 13 de la Ley 20742, publicada el 01.04.2014, regirá a contar de la fecha en que deban declararse las candidaturas a las elecciones municipales del año 2016, esto es, 1º de agosto del citado año.
+Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen condenadas por crimen o simple delito que merezca pena aflictiva.
 
 #### Artículo 75
 
-Los cargos de concejales serán incompatibles con los de miembro de los consejos comunales de organizaciones de la sociedad civil, así como con las funciones públicas señaladas en las letras a) y b) del artículo anterior. También lo serán con todo empleo, función o comisión que se desempeñe en la misma municipalidad y en las corporaciones o fundaciones en que ella participe.
+Los cargos de concejales serán incompatibles con los de miembro de los consejos económicos y sociales provinciales y comunales, así como con las funciones públicas señaladas en las letras a) y b) del artículo anterior. También lo serán con todo empleo, función o comisión que se desempeñe en la misma municipalidad y en las corporaciones o fundaciones en que ella participe, con excepción de los cargos profesionales no directivos en educación, salud o servicios municipalizados. En el caso de que estos últimos profesionales desempeñen a su vez el cargo de concejal, el alcalde deberá respetar la autonomía en el ejercicio de las funciones de los concejales, especialmente la facultad de fiscalización.
 
 Tampoco podrán desempeñar el cargo de concejal:
 
-a) Los que durante el ejercicio de tal cargo incurran en alguno de los supuestos a que alude la letra c) del artículo 74;
+a) Los que durante el ejercicio de tal cargo incurran en alguno de los supuestos a que alude la letra c) del artículo 74, y
 
-b) Los que durante su desempeño actuaren como abogados o mandatarios en cualquier clase de juicio contra la respectiva municipalidad; y
-
-c) Los que tengan, respecto del alcalde de la misma municipalidad, la calidad de cónyuge, hijos, adoptados o parientes hasta el segundo grado de consanguinidad o de afinidad inclusive.
+b) Los que durante su desempeño actuaren como abogados o mandatarios en cualquier clase de juicio contra la respectiva municipalidad.
 
 Sin perjuicio de lo establecido en la presente ley, a los concejales no les será aplicable la incompatibilidad establecida en el inciso primero del artículo 86 de la Ley Nº 18.834.
 
@@ -1468,21 +906,17 @@ a) Incapacidad psíquica o física para el desempeño del cargo;
 
 b) Renuncia por motivos justificados, aceptada por el concejo. Con todo, la renuncia que fuere motivada por la postulación a otro cargo de elección popular no requerirá de acuerdo alguno;
 
-c) Inasistencia injustificada a más del veinticinco por ciento de las sesiones ordinarias a que se cite en un año calendario;
+c) Inasistencia injustificada a más del cincuenta por ciento de las sesiones ordinarias a que se cite en un año calendario;
 
 d) Inhabilidad sobreviniente, por alguna de las causales previstas en las letras a) y b) del artículo anterior;
 
-e) Pérdida de alguno de los requisitos exigidos para ser elegido concejal. Sin embargo, la suspensión del derecho de sufragio sólo dará lugar a la incapacitación temporal para el desempeño del cargo.
+e) Pérdida de alguno de los requisitos exigidos para ser elegido concejal. Sin embargo, la suspensión del derecho de sufragio sólo dará lugar a la incapacitación temporal para el desempeño del cargo, y
 
-f) Incurrir en una contravención grave al principio de la probidad administrativa, en notable abandono de deberes o en alguna de las incompatibilidades previstas en el inciso primero del artículo anterior.
-
-g) Determinación de su responsabilidad en procedimiento de sumario administrativo instruido por la Contraloría General de la República, respecto de la concurrencia de las prohibiciones establecidas en el artículo 82 letras l) y m) de la Ley N° 18.883. En estos casos se entenderá que existe contravención de carácter grave a las normas sobre probidad administrativa.
+f) Incurrir en una contravención grave al principio de la probidad administrativa o en alguna de las incompatibilidades previstas en el inciso primero del artículo anterior.
 
 #### Artículo 77
 
-Las causales establecidas en los literales a), c), d), e), f) y g) del artículo anterior serán declaradas por el tribunal electoral regional respectivo. El requerimiento lo podrán realizar, según corresponda, el alcalde o la alcaldesa o cualquier concejal o concejala de la respectiva municipalidad, conforme al procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593. El concejal que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer apenas tenga conocimiento de su existencia. La cesación en el cargo, tratándose de estas causales, operará una vez ejecutoriada la sentencia que declare su existencia.
-
-Al concejal que fuere removido de su cargo, por la causal prevista en la letra f) del artículo precedente, le será aplicable la inhabilidad establecida en el artículo 60.
+Las causales establecidas en las letras a), c), d), e) y f) del artículo anterior serán declaradas por el tribunal electoral regional respectivo, a requerimiento de cualquier concejal de la respectiva municipalidad, conforme al procedimiento establecido en los artículos 17 y siguientes de la Ley Nº 18.593. El concejal que estime estar afectado por alguna causal de inhabilidad deberá darla a conocer apenas tenga conocimiento de su existencia. La cesación en el cargo, tratándose de estas causales, operará una vez ejecutoriada la sentencia que declare su existencia.
 
 #### Artículo 78
 
@@ -1496,19 +930,13 @@ El nuevo concejal permanecerá en funciones el término que le faltaba al que or
 
 En ningún caso procederán elecciones complementarias.
 
-#### Artículo 78 bis
-
-En caso de nulidad del acto eleccionario de concejales, declarada por sentencia firme o ejecutoriada por el tribunal electoral competente, las funciones a que se refieren los artículos 64 y 65 serán desempeñadas, en conjunto y de consuno, por los cuatro funcionarios en ejercicio que sigan al alcalde en orden de jerarquía, con exclusión del juez de policía local, hasta la instalación del nuevo concejo.
-
-Con todo, cuando el tribunal electoral competente hubiese declarado la nulidad de una elección de alcalde y concejales, mediante sentencia firme o ejecutoriada, las atribuciones a que se refiere el inciso anterior serán desempeñadas, en conjunto y de consuno, por los cuatro funcionarios en ejercicio que sigan al alcalde en orden de jerarquía, con exclusión del secretario municipal y del juez de policía local, hasta la instalación del nuevo concejo.
-
 #### Artículo 79
 
 Al concejo le corresponderá:
 
 a) Elegir al alcalde, en caso de vacancia, de acuerdo con lo dispuesto en el artículo 62, para este efecto el concejal deberá acreditar cumplir con los requisitos especificados en el inciso segundo del artículo 57;
 
-b) Pronunciarse sobre las materias que enumera el artículo 65 de esta ley. Los concejales presentes en la votación respectiva deberán expresar su voluntad, favorable o adversa, respecto de las materias sometidas a aprobación del concejo, a menos que les asista algún motivo o causa para inhabilitarse o abstenerse de emitir su voto, debiendo dejarse constancia de ello en el acta respectiva;
+b) Pronunciarse sobre las materias que enumera el artículo 65 de esta ley;
 
 c) Fiscalizar el cumplimiento de los planes y programas de inversión municipales y la ejecución del presupuesto municipal, analizar el registro público mensual de gastos detallados que lleva la Dirección de Administración y Finanzas, como asimismo, la información, y la entrega de la misma, establecida en las letras c) y d) del artículo 27;
 
@@ -1528,27 +956,19 @@ El alcalde estará obligado a responder el informe en un plazo no mayor de quinc
 
 i) Elegir, en un solo acto, a los integrantes del directorio que le corresponda designar a la municipalidad en cada corporación o fundación en que tenga participación, cualquiera sea el carácter de ésta o aquélla. Estos directores informarán al concejo acerca de su gestión, como asimismo acerca de la marcha de la corporación o fundación de cuyo directorio formen parte;
 
-j) Solicitar informe a las empresas, corporaciones, fundaciones o asociaciones municipales, y a las entidades que reciban aportes o subvenciones de la municipalidad. En este último caso, la materia del informe sólo podrá consistir en el destino dado a los aportes o subvenciones municipales percibidos. Los informes requeridos deberán ser remitidos por escrito dentro del plazo de quince días;
+j) Solicitar informe a las empresas, corporaciones o fundaciones municipales, y a las entidades que reciban aportes o subvenciones de la municipalidad. En este último caso, la materia del informe sólo podrá consistir en el destino dado a los aportes o subvenciones municipales percibidos. Los informes requeridos deberán ser remitidos por escrito dentro del plazo de quince días;
 
-k) Otorgar su acuerdo para la asignación y cambio de denominación de los bienes municipales y nacionales de uso público bajo su administración, como asimismo, de poblaciones, barrios y conjuntos habitacionales del territorio comunal previo informe escrito del consejo
+k) Otorgar su acuerdo para la asignación y cambio de denominación de los bienes municipales y nacionales de uso público bajo su administración, como asimismo, de poblaciones, barrios y conjuntos habitacionales del territorio comunal;
 
-comunal de organizaciones de la sociedad civil;
-
-l) Fiscalizar las unidades y servicios municipales. En el ejercicio de su función fiscalizadora, el concejo, con el acuerdo de, al menos, un tercio de sus miembros, podrá citar a cualquier director municipal para que asista a sesiones del concejo con el objeto de formularle preguntas y requerir información en relación con materias propias de su dirección. El reglamento de funcionamiento del concejo establecerá el procedimiento y demás normas necesarias para regular estas citaciones;
+l) Fiscalizar las unidades y servicios municipales;
 
 ll) Autorizar los cometidos del alcalde y de los concejales que signifiquen ausentarse del territorio nacional.
 
 Requerirán también autorización los cometidos del alcalde y de los concejales que se realicen fuera del territorio de la comuna por más de diez días.
 
-Un informe de dichos cometidos y su costo se incluirán en el acta del concejo;
+Un informe de dichos cometidos y su costo se incluirán en el acta del concejo, y
 
-m) Supervisar el cumplimiento del plan comunal de desarrollo;
-
-n) Pronunciarse, a más tardar el 31 de marzo de cada año, a solicitud del consejo comunal de organizaciones de la sociedad civil, sobre las materias de relevancia local que deben ser consultadas a la comunidad por intermedio de esta instancia, como asimismo la forma en que se efectuará dicha consulta, informando de ello a la ciudadanía.
-
-ñ) Informar a las organizaciones comunitarias de carácter territorial y funcional; a las asociaciones sin fines de lucro y demás instituciones relevantes en el desarrollo económico, social y cultural de la comuna, cuando éstas así lo requieran, acerca de la marcha y funcionamiento de la municipalidad, de conformidad con los antecedentes que haya proporcionado el alcalde con arreglo al artículo 87.
-
-o) Aprobar la propuesta de normas urbanísticas especiales elaborada por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo para la habilitación normativa de terrenos.
+m) Supervisar el cumplimiento del plan comunal de desarrollo.
 
 Lo anterior es sin perjuicio de las demás atribuciones y funciones que le otorga la ley.
 
@@ -1558,7 +978,7 @@ La fiscalización que le corresponde ejercer al concejo comprenderá también la
 
 Las diferentes acciones de fiscalización deberán ser acordadas dentro de una sesión ordinaria del concejo y a requerimiento de cualquier concejal.
 
-El concejo, por la mayoría de sus miembros, podrá disponer la contratación de una auditoría externa que evalúe la ejecución presupuestaria y el estado de situación financiera del municipio. Esta facultad podrá ejercerse sólo una vez al año en los municipios cuyos ingresos anuales superen las 6.250 unidades tributarias anuales, y cada dos años en los restantes municipios. No obstante lo anteriormente señalado, el concejo podrá disponer de la contratación de una auditoría externa que evalúe el estado de situación financiera del municipio, cada vez que se inicie un período alcaldicio. Aquella deberá acordarse dentro de los ciento veinte días siguientes a la instalación del concejo, a que se refiere el inciso primero del artículo 83, y el alcalde requerirá, también, el acuerdo del concejo para adjudicar dicha auditoría.
+El concejo, por la mayoría de sus miembros, podrá disponer la contratación de una auditoría externa que evalúe la ejecución presupuestaria y el estado de situación financiera del municipio. Esta facultad podrá ejercerse sólo una vez al año en los municipios cuyos ingresos anuales superen las 6.250 unidades tributarias anuales, y cada dos años en los restantes municipios.
 
 Sin perjuicio de lo anterior, el concejo dispondrá la contratación de una auditoría externa que evalúe la ejecución del plan de desarrollo, la que deberá practicarse cada tres o cuatro años, respectivamente, según la clasificación de los municipios por ingresos señalada en el inciso precedente.
 
@@ -1576,7 +996,7 @@ En todo caso, el concejo sólo resolverá las modificaciones presupuestarias una
 
 El pronunciamiento del concejo sobre las materias consignadas en la letra b) del artículo 79 se realizará de la siguiente manera:
 
-a) El alcalde, en la primera semana de octubre, someterá a consideración del concejo las orientaciones globales del municipio, el presupuesto municipal y el programa anual, con sus metas y líneas de acción. En las orientaciones globales, se incluirán el plan comunal de desarrollo y sus modificaciones, el plan comunal de seguridad pública y sus actualizaciones, las políticas de servicios municipales, como, asimismo, las políticas y proyectos de inversión. El concejo deberá pronunciarse sobre todas estas materias antes del 15 de diciembre, luego de evacuadas las consultas por el consejo comunal de organizaciones de la sociedad civil, cuando corresponda.
+a) El alcalde, en la primera semana de octubre, someterá a consideración del concejo las orientaciones globales del municipio, el presupuesto municipal y el programa anual, con sus metas y líneas de acción. En las orientaciones globales, se incluirán el plan comunal de desarrollo y sus modificaciones, las políticas de servicios municipales, como, asimismo, las políticas y proyectos de inversión. El concejo deberá pronunciarse sobre todas estas materias antes del 15 de diciembre, luego de evacuadas las consultas por el consejo económico y social comunal, cuando corresponda.
 
 b) El proyecto y las modificaciones del plan regulador comunal se regirán por los procedimientos específicos establecidos por las leyes vigentes.
 
@@ -1604,8 +1024,6 @@ Las sesiones del concejo serán públicas. Los dos tercios de los concejales pre
 
 Las actas del concejo se harán públicas una vez aprobadas, y contendrán, a lo menos, la asistencia a la sesión, los acuerdos adoptados en ella y la forma como fueron votadas. La publicación se hará mediante los sistemas electrónicos o digitales que disponga la municipalidad.
 
-Las sesiones públicas deberán ser transmitidas simultáneamente, por cualquier medio electrónico capaz de emitir imagen y voz. Asimismo, deberán publicarse las grabaciones de las sesiones en la página web institucional y/o en alguna plataforma de libre acceso en internet, y se hará constar el enlace a ella en la página institucional o en otras plataformas oficiales de información al público, dentro de las setenta y dos horas siguientes a su celebración, y mantenerse disponibles por el plazo mínimo de tres años.
-
 #### Artículo 85
 
 En ausencia del alcalde, presidirá la sesión el concejal presente que haya obtenido, individualmente, mayor votación ciudadana en la elección respectiva, según lo establecido por el tribunal electoral regional.
@@ -1618,9 +1036,7 @@ El quórum para sesionar será la mayoría de los concejales en ejercicio.
 
 Salvo que la ley exija un quórum distinto, los acuerdos del concejo se adoptarán por la mayoría absoluta de los concejales asistentes a la sesión respectiva.
 
-Si hay empate, se tomará una segunda votación. De persistir el empate, se votará en una nueva sesión, la que deberá verificarse a más tardar dentro de tercero día. Si se mantiene dicho empate, corresponderá a quien presida la sesión el voto dirimente para resolver la materia.
-
-Los alcaldes no serán considerados para el cálculo del quórum exigido para que el concejo pueda sesionar, pero sí en aquel requerido para adoptar acuerdos.
+Si hay empate, se tomará una segunda votación. De persistir el empate, se votará en una nueva sesión, la que deberá verificarse a más tardar dentro de tercero día. Si se mantiene dicho empate, corresponderá al alcalde el voto dirimente para resolver la materia.
 
 #### Artículo 87
 
@@ -1628,7 +1044,7 @@ Todo concejal tiene derecho a ser informado plenamente por el alcalde o quien ha
 
 #### Artículo 88
 
-Los concejales tendrán derecho a percibir una dieta mensual de entre siete coma ocho y quince coma seis unidades tributarias mensuales, según determine anualmente cada concejo por los dos tercios de sus miembros.
+Los concejales tendrán derecho a percibir una dieta mensual de entre seis y doce unidades tributarias mensuales, según determine anualmente cada concejo por los dos tercios de sus miembros.
 
 El alcalde acordará con el concejo el número de sesiones ordinarias a realizar en el mes, debiendo efectuarse a lo menos tres.
 
@@ -1638,13 +1054,13 @@ Asimismo, no se considerarán las inasistencias de concejales motivadas en el cu
 
 La dieta completa sólo se percibirá por la asistencia a la totalidad de las sesiones del concejo celebradas en el mes respectivo, disminuyéndose proporcionalmente aquélla según el número de inasistencias del concejal. Para los efectos anteriores, se considerarán tanto las sesiones ordinarias como las extraordinarias. No obstante, la inasistencia sólo de hasta una sesión podrá ser compensada por la asistencia, en el mismo mes, a dos sesiones de comisión de las referidas en el artículo 92.
 
-Sin perjuicio de lo señalado, cada concejal tendrá derecho anualmente a una asignación adicional, a pagarse en el mes de enero, correspondiente a siete coma ocho unidades tributarias mensuales, siempre que durante el año calendario anterior haya asistido formalmente, a lo menos, al setenta y cinco por ciento de las sesiones celebradas por el concejo en dicho período.
+Sin perjuicio de lo señalado, cada concejal tendrá derecho anualmente a una asignación adicional, a pagarse en el mes de enero, correspondiente a seis unidades tributarias mensuales, siempre que durante el año calendario anterior haya asistido formalmente, a lo menos, al setenta y cinco por ciento de las sesiones celebradas por el concejo en dicho período.
 
 Con todo, cuando un concejal se encuentre en el desempeño de cometidos en representación de la municipalidad, tendrá derecho a percibir fondos con el objeto de cubrir sus gastos de alimentación y alojamiento. Tales fondos no estarán sujetos a rendición y serán equivalentes al monto del viático que corresponda al alcalde respectivo por iguales conceptos.
 
 #### Artículo 89
 
-A los concejales no les serán aplicables las normas que rigen a los funcionarios municipales, salvo en materia de responsabilidad civil y penal, y lo dispuesto en artículo 82 letras l) y m) de la Ley N° 18.883.
+A los concejales no les serán aplicables las normas que rigen a los funcionarios municipales, salvo en materia de responsabilidad civil y penal.
 
 Ningún concejal de la municipalidad podrá tomar parte en la discusión y votación de asuntos en que él o sus parientes, hasta el cuarto grado de consanguinidad o segundo de afinidad, estén interesados, salvo que se trate de nombramientos o designaciones que deban recaer en los propios concejales.
 
@@ -1652,7 +1068,7 @@ Se entiende que existe dicho interés cuando su resolución afecte moral o pecun
 
 #### Artículo 90
 
-Los empleadores de las personas que ejerzan un cargo de concejal deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales hasta por ocho horas semanales, no acumulables, con el objeto de asistir a todas las sesiones del concejo, a las comisiones de trabajo que éste constituya y al programa de formación y capacitación señalado en el artículo 92 bis. Del mismo modo, se deberán conceder permisos laborales para el desempeño de cometidos en representación de la municipalidad, con un máximo, para estos efectos, de tres días durante un año calendario, no acumulables. El tiempo que abarquen los permisos otorgados no será de cargo del empleador, sin perjuicio de lo que acuerden las partes, y se entenderá trabajado para los demás efectos legales, bastando para ello presentar la correspondiente certificación del secretario municipal.
+Los empleadores de las personas que ejerzan un cargo de concejal, deberán conceder a éstas los permisos necesarios para ausentarse de sus labores habituales, con el objeto de asistir a las sesiones del concejo. El tiempo que abarcaren los permisos otorgados se entenderá trabajado para todos los efectos legales.
 
 Asimismo, los concejales, por la actividad que realicen en tal condición, quedarán sujetos al seguro contra riesgo de accidentes del trabajo y enfermedades profesionales establecido en la Ley Nº 16.744, gozando de los beneficios que correspondan a la naturaleza de su cargo. El costo de este beneficio será de cargo municipal.
 
@@ -1666,16 +1082,6 @@ Las obligaciones que las leyes pertinentes sobre seguridad social imponen a los 
 
 El concejo determinará en un reglamento interno las demás normas necesarias para su funcionamiento, regulándose en él las comisiones de trabajo que el concejo podrá constituir para desarrollar sus funciones, las que, en todo caso, serán siempre presididas por concejales, sin perjuicio de la asistencia de terceros cuya opinión se considere relevante a juicio de la propia comisión.
 
-#### Artículo 92 bis
-
-Cada municipalidad, en concordancia con su disponibilidad financiera, deberá dotar al concejo municipal y a los concejales de los medios de apoyo, útiles y apropiados, para desarrollar debida y oportunamente las funciones y atribuciones que esta ley le confiere, atendido el número de concejales de la municipalidad.
-
-Para ello, durante la primera sesión ordinaria, el alcalde someterá a la aprobación del concejo los medios a usar durante el período respectivo, debiendo este acuerdo formar parte del reglamento interno a que hace alusión el artículo 92, y ser publicado en la página web de la municipalidad, en concordancia con lo establecido en los artículos 2º y 7º de la ley Nº20.285, sobre Acceso a la Información Pública.
-
-Asimismo, cada año la municipalidad, en concordancia con su disponibilidad financiera, podrá incorporar en el presupuesto municipal recursos destinados a financiar la capacitación de los concejales en materias relacionadas con gestión municipal.
-
-La capacitación al concejo municipal en planificación urbana y materias afines será llevada a cabo por el Ministerio de Vivienda y Urbanismo, directamente o a través de terceros. Los miembros del concejo municipal podrán cursar el programa de formación y capacitación elaborado para estos efectos. El Ministerio informará en la sesión de instalación del concejo municipal del referido programa y certificará la asistencia a los cursos ofertados en el programa elaborado para estos efectos.
-
 ## Título IV
 
 DE LA PARTICIPACION CIUDADANA
@@ -1688,43 +1094,21 @@ De las instancias de participación
 
 Cada municipalidad deberá establecer en una ordenanza las modalidades de participación de la ciudadanía local, teniendo en consideración las características singulares de cada comuna, tales como la configuración del territorio comunal, la localización de los asentamientos humanos, el tipo de actividades relevantes del quehacer comunal, la conformación etárea de la población y cualquier otro elemento que, en opinión de la municipalidad, requiera una expresión o representación específica dentro de la comuna y que al municipio le interese relevar para efectos de su incorporación en la discusión y definición de las orientaciones que deben regir la administración comunal.
 
-Con todo, la ordenanza deberá contener una mención del tipo de las organizaciones que deben ser consultadas e informadas, como también las fechas o épocas en que habrán de efectuarse tales procesos. Asimismo, describirá los instrumentos y medios a través de los cuales se materializará la participación, entre los que podrán considerarse la elaboración de presupuestos participativos, consultas u otros.
-
 #### Artículo 94
 
-En cada municipalidad existirá un consejo comunal de organizaciones de la sociedad civil.
+En cada municipalidad existirá un consejo económico y social comunal, compuesto por representantes de la comunidad local organizada. Será un órgano asesor de la municipalidad, el cual tendrá por objeto asegurar la participación de las organizaciones comunitarias de carácter territorial y funcional, y de actividades relevantes en el progreso económico, social y cultural de la comuna.
 
-Éste será elegido por las organizaciones comunitarias de carácter territorial y funcional, y por las organizaciones de interés público de la comuna. Asimismo, y en un porcentaje no superior a la tercera parte del total de sus miembros, podrán integrarse a aquellos representantes de asociaciones gremiales y organizaciones sindicales, o de otras actividades relevantes para el desarrollo económico, social y cultural de la comuna.
+La integración, organización, competencias y funcionamiento de estos consejos, serán determinados por cada municipalidad, en un reglamento que el alcalde someterá a la aprobación del concejo.
 
-En ningún caso la cantidad de consejeros titulares podrá ser inferior al doble ni superior al triple de los concejales en ejercicio de la respectiva comuna.
+Los consejeros durarán cuatro años en sus funciones. El consejo será presidido por el alcalde y, en su ausencia, por el vicepresidente que elija el propio consejo de entre sus miembros.
 
-El consejo comunal de organizaciones de la sociedad civil se reunirá a lo menos cuatro veces por año bajo la presidencia del alcalde.
+Con todo, los consejos deberán pronunciarse respecto de la cuenta pública del alcalde, sobre la cobertura y eficiencia de los servicios municipales de la comuna, y podrán además interponer el recurso de reclamación establecido en el Título Final de la presente ley.
 
-Un reglamento, elaborado sobre la base de un reglamento tipo propuesto por la Subsecretaría
-
-de Desarrollo Regional y Administrativo que el alcalde respectivo someterá a la aprobación del concejo, determinará la integración, organización, competencia y funcionamiento del consejo comunal de organizaciones de la sociedad civil, como también la forma en que podrá autoconvocarse, cuando así lo solicite, por escrito, un tercio de sus integrantes. Dicho reglamento podrá ser modificado por
-
-los dos tercios de los miembros del Concejo, previo informe del consejo comunal de organizaciones de la sociedad civil.
-
-Los consejeros durarán cuatro años en sus funciones. En ausencia del alcalde, el consejo será presidido por el vicepresidente que elija el propio consejo de entre sus miembros. El secretario municipal desempeñará la función de ministro de fe de dicho organismo.
-
-Las sesiones del consejo serán públicas, debiendo consignarse en actas los asuntos abordados en sus reuniones y los acuerdos adoptados en las mismas. El secretario municipal mantendrá en archivo tales actas, así como los originales de la ordenanza de participación ciudadana y del reglamento del consejo, documentos que serán de carácter público.
-
-El alcalde deberá informar al consejo acerca de los presupuestos de inversión, del plan comunal de desarrollo y sobre las modificaciones al plan regulador, el que dispondrá de quince días hábiles para formular sus observaciones.
-
-Con todo, en el mes de mayo de cada año, el consejo deberá pronunciarse respecto de la cuenta pública del alcalde, sobre la cobertura y eficiencia de los servicios municipales, así como
-
-sobre las materias de relevancia comunal que hayan sido establecidas por el concejo, y podrá interponer el recurso de reclamación establecido en el Título final de la presente ley.
-
-Asimismo, los consejeros deberán informar a sus respectivas organizaciones, en sesión especialmente convocada al efecto y con la debida anticipación para recibir consultas y opiniones, acerca de la propuesta de presupuesto y del plan comunal de desarrollo, incluyendo el plan de inversiones y las modificaciones al plan regulador, como también sobre cualquier otra materia relevante que les haya presentado el alcalde o el concejo.
-
-Cada municipalidad deberá proporcionar los medios necesarios para el funcionamiento del consejo comunal de organizaciones de la sociedad civil.
+El alcalde deberá informar al consejo acerca de los presupuestos de inversión, del plan comunal de desarrollo y del plan regulador. El consejo dispondrá de quince días para formular sus observaciones a dicho informe.
 
 #### Artículo 95
 
-Para ser miembro del consejo comunal de organizaciones
-
-de la sociedad civil se requerirá:
+Para ser miembro del consejo económico y social comunal se requerirá:
 
 a) Tener 18 años de edad, con excepción de los representantes de organizaciones señalados en la Ley Nº 19.418;
 
@@ -1736,11 +1120,7 @@ d) No haber sido condenado por delito que merezca pena aflictiva.
 
 La inhabilidad contemplada en la letra anterior quedará sin efecto una vez transcurrido el plazo contemplado en el artículo 105 del Código Penal, desde el cumplimiento de la respectiva pena.
 
-Serán aplicables a los miembros del consejo comunal
-
-de organizaciones de la sociedad
-
-civil las inhabilidades e incompatibilidades que esta ley contempla para los miembros de los concejos.
+Serán aplicables a los miembros del consejo económico y social comunal las inhabilidades e incompatibilidades que esta ley contempla para los miembros de los concejos en el artículo 74 y en la letra b) del artículo 75.
 
 Asimismo, serán incompatibles con los cargos de consejeros regionales, concejales y consejeros provinciales.
 
@@ -1760,11 +1140,11 @@ Sin perjuicio de la facultad reguladora del concejo, la solicitud de audiencia p
 
 #### Artículo 98
 
-Sin perjuicio de lo dispuesto en los artículos anteriores, cada municipalidad deberá habilitar y mantener en funcionamiento una oficina de informaciones, reclamos y sugerencias abierta a la comunidad. La ordenanza de participación establecerá un procedimiento público para el tratamiento de las presentaciones o reclamos, como asimismo los plazos en que el municipio deberá dar respuesta a ellos, los que, en ningún caso, serán superiores a treinta días, de acuerdo a las disposiciones contenidas en la ley Nº 19.880.
+Sin perjuicio de lo dispuesto en los artículos anteriores, cada municipalidad deberá habilitar y mantener en funcionamiento una oficina de partes y reclamos abierta a la comunidad en general. La ordenanza de participación establecerá un procedimiento público para el tratamiento de las presentaciones o reclamos, como asimismo los plazos en que el municipio deberá dar respuesta a ellos, los que, en ningún caso, serán superiores a treinta días.
 
 La información y documentos municipales son públicos. En dicha oficina deberán estar disponibles, para quien los solicite, a lo menos los siguientes antecedentes:
 
-a) El plan comunal de desarrollo, el presupuesto municipal, el plan de inversiones en infraestructura de movilidad y espacio público, en su caso, y el plan regulador comunal con sus correspondientes seccionales, incluyendo sus respectivos planos de detalle, y las políticas específicas.
+a) El plan comunal de desarrollo, el presupuesto municipal y el plan regulador comunal con sus correspondientes seccionales, y las políticas específicas.
 
 b) El reglamento interno, el reglamento de contrataciones y adquisiciones, la ordenanza de participación y todas las ordenanzas y resoluciones municipales.
 
@@ -1780,25 +1160,21 @@ De los plebiscitos comunales
 
 #### Artículo 99
 
-El alcalde, con acuerdo del concejo, a requerimiento de los dos tercios de los integrantes en ejercicio del mismo y a solicitud de dos tercios de los integrantes en ejercicio del consejo comunal de organizaciones de la sociedad civil, ratificada por los dos tercios de los concejales en ejercicio, o por iniciativa de los ciudadanos habilitados para votar en la comuna, someterá a plebiscito las materias de administración local relativas a inversiones específicas de desarrollo comunal, a la aprobación o modificación del plan comunal de desarrollo, a la modificación del plan regulador o a otras de interés para la comunidad local, siempre que sean propias de la esfera de competencia municipal, de acuerdo con el procedimiento establecido en los artículos siguientes.
+El alcalde, con acuerdo del concejo, o a requerimiento de los dos tercios del mismo concejo o por iniciativa de los ciudadanos inscritos en los registros electorales de la comuna, someterá a plebiscito las materias de administración local relativas a inversiones específicas de desarrollo comunal, a la aprobación o modificación del plan comunal de desarrollo, a la modificación del plan regulador u otras de interés para la comunidad local, siempre que sean propias de la esfera de competencia municipal, de acuerdo con el procedimiento establecido en los artículos siguientes.
 
 #### Artículo 100
 
-Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos el 10% de los ciudadanos que
-
-sufragaron en la última elección municipal
-
-al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
+Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos el 10% de los ciudadanos inscritos en los registros electorales de la comuna al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
 
 #### Artículo 101
 
 Dentro del décimo día de adoptado el acuerdo del concejo, de recepcionado oficialmente el requerimiento del concejo o de los ciudadanos en los términos del artículo anterior, el alcalde dictará un decreto para convocar a plebiscito. Dicho decreto se publicará, dentro de los quince días siguientes a su dictación, en el Diario Oficial y en un periódico de los de mayor circulación en la comuna. Asimismo, se difundirá mediante avisos fijados en la sede comunal y en otros lugares públicos.
 
-El decreto contendrá la o las cuestiones sometidas a plebiscito. La votación plebiscitaria se celebrará ciento veinte días después de la publicación de dicho decreto si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente.
+El decreto contendrá la o las cuestiones sometidas a plebiscito. Además, señalará la fecha de su realización, debiendo efectuarse, en todo caso, no antes de sesenta ni después de noventa días, contados desde la publicación de dicho decreto en el Diario Oficial.
 
-Los resultados del plebiscito serán vinculantes para la autoridad municipal, siempre que vote en él más del 50% de los ciudadanos habilitados para votar en la comuna.
+Los resultados del plebiscito serán vinculantes para la autoridad municipal, siempre que vote en él más del 50% de los ciudadanos inscritos en los registros electorales de la comuna.
 
-INCISO SUPRIMIDO.-
+Las inscripciones electorales en la comuna respectiva se suspenderán desde el día siguiente a aquel en que se publique en el Diario Oficial el decreto alcaldicio que convoque a plebiscito y se reanudarán desde el primer día hábil del mes subsiguiente a la fecha en que el Tribunal Calificador de Elecciones comunique al Director del Servicio Electoral el término del proceso de calificación del plebiscito.
 
 En materia de plebiscitos municipales, no habrá lugar a propaganda electoral por televisión y no serán aplicables los preceptos contenidos en los artículos 31 y 31 bis de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
 
@@ -1820,226 +1196,6 @@ La realización de los plebiscitos comunales, en lo que sea aplicable, se regula
 
 En todo caso, el costo de los plebiscitos comunales será de cargo de la municipalidad respectiva.
 
-## Título IV — A
-
-DEL CONSEJO COMUNAL DE SEGURIDAD PÚBLICA Y EL PLAN COMUNAL DE SEGURIDAD PÚBLICA
-
-#### Artículo 104
-
-A.- En cada comuna existirá un consejo comunal de seguridad pública. Éste será un órgano consultivo del alcalde en materia de seguridad pública comunal y será, además, una instancia de coordinación interinstitucional a nivel local.
-
-#### Artículo 104
-
-B.- El consejo comunal de seguridad pública será presidido por el alcalde y lo integrarán, a lo menos, las siguientes personas:
-
-a) La o el secretario regional ministerial de seguridad pública o, en subsidio, el director o directora del departamento provincial de seguridad pública y, en defecto de la o el segundo, la o el funcionario que la o el primero designe.
-
-b) Hasta dos concejales elegidos por el concejo municipal, en una votación única.
-
-c) El oficial o suboficial de Fila de Orden y Seguridad de Carabineros de Chile que ostente el más alto grado en la unidad policial territorial de mayor categoría con presencia en la comuna. En el caso de las comunas que tengan más de una comisaría, éste será designado por la prefectura correspondiente.
-
-d) El oficial policial de la Policía de Investigaciones de Chile que ostente la mayor jerarquía de la respectiva unidad o quien éste designe, o el oficial policial designado por el Jefe de la Prefectura correspondiente en aquellas comunas que no sean asiento de unidad policial.
-
-e) El fiscal adjunto de la fiscalía local correspondiente del Ministerio Público y en las comunas donde no tenga asiento una fiscalía local, el fiscal o abogado o asistente de fiscal que designe el respectivo fiscal regional.
-
-f) Hasta dos representantes del consejo comunal de organizaciones de la sociedad civil, elegidos por éste.
-
-g) Un funcionario municipal que será designado por el alcalde como Secretario Ejecutivo del consejo.
-
-En los casos en que exista el director de seguridad pública, de acuerdo a lo dispuesto en el artículo 16 bis, el alcalde deberá designarlo siempre como Secretario Ejecutivo.
-
-h) Un representante de la repartición de Gendarmería de Chile que tenga a su cargo la vigilancia y orientación de las personas sujetas a penas sustitutivas a la reclusión domiciliadas en la comuna respectiva.
-
-i) Un representante de la repartición del Servicio Nacional de Reinserción Social Juvenil que tenga a su cargo la vigilancia y orientación de menores infractores de ley domiciliados en la comuna respectiva.
-
-j) Un representante de la repartición del Servicio Nacional para la Prevención y Rehabilitación de Drogas y Alcohol que tenga injerencia dentro del territorio de la comuna respectiva.
-
-k) Un o una representante de la unión comunal de organizaciones comunitarias funcionales en materia de seguridad pública, en caso de que exista. Si hay más de una unión comunal, la o el representante será designado de común acuerdo entre todas ellas; en caso de que exista una sola será representante quien ésta designe.
-
-l) Un juez o una jueza de policía local de la comuna.
-
-m) La jefa o el jefe del Departamento Provincial de Educación que corresponda a la comuna respectiva.
-
-En aquellas comunas en cuyo territorio existan pasos fronterizos, puertos o aeropuertos, el consejo podrá acordar que en su integración permanente se incluya, además, un o una representante del Servicio Nacional de Aduanas y uno del Servicio Agrícola y Ganadero, designados por los respectivos directores regionales.
-
-En aquellas comunas en que el porcentaje de ruralidad supere el 20% de la población, según los criterios establecidos por el Instituto Nacional de Estadísticas, el consejo podrá acordar que en su integración permanente se incluya, además, un o una representante del Servicio Agrícola y Ganadero, designado en la forma señalada en el inciso anterior.
-
-En aquellas comunas catalogadas como área turística de conformidad a lo dispuesto en el artículo 5 de la ley N° 20.423, el consejo podrá acordar que en su integración permanente se incluya, además, un o una representante del Servicio Nacional de Turismo, designado por el director regional de ese organismo.
-
-Asimismo, la asistencia y participación en el consejo a que se refiere este artículo de los funcionarios públicos y de los concejales mencionados en la letra b) no otorgará derecho a dieta, emolumento o remuneración de ningún tipo o naturaleza.
-
-Sin perjuicio de lo anterior, el consejo podrá invitar, especialmente si se trata del diseño, aprobación, ejecución e implementación de las acciones necesarias para llevar a cabo las estrategias preventivas, a un o una representante del Servicio Local de Educación Pública, de la Dirección de Educación o de la Corporación Municipal de Educación, según corresponda; a la o al coordinador de la Oficina Local de la Niñez de la comuna respectiva; a los jueces y las juezas de garantía o de familia que tengan competencia sobre el territorio de la comuna correspondiente; a otras autoridades; a funcionarias públicas o funcionarios públicos, incluidos un director o una directora, funcionaria o funcionario, asesor o asesora, trabajador o trabajadora del municipio; o a representantes de organizaciones de la sociedad civil cuya opinión considere relevante para las materias que le corresponda abordar en una o más sesiones determinadas del consejo.
-
-La Secretaría Municipal asumirá dentro del consejo el rol de ministro de fe, debiendo en dicho contexto levantar acta de todas las sesiones del consejo en la forma señalada por la ley.
-
-El alcalde deberá informar a la Subsecretaría de Prevención del Delito y a la delegación presidencial regional correspondiente, dentro de los diez días siguientes a su designación, el funcionario que asumirá la Secretaría Ejecutiva del consejo comunal de seguridad pública. La Subsecretaría de Prevención del Delito y la delegación presidencial regional deberán llevar una nómina actualizada de las personas que ejercen dicha función.
-
-El quórum para sesionar será la mayoría de los miembros permanentes.
-
-#### Artículo 104
-
-C.- En los casos de aquellas comunas cuyo número de habitantes no supere los 5.000, dos o más de ellas podrán constituir un consejo intercomunal de seguridad pública, o bien alguna de ellas participar del consejo comunal de una comuna colindante de mayor número de habitantes.
-
-Los consejos intercomunales estarán integrados de la siguiente forma:
-
-a) El presidente del consejo, que será uno de los alcaldes de las comunas participantes, elegido entre éstos.
-
-b) Las o los secretarios regionales ministeriales de seguridad pública o, en subsidio, las directoras o directores de los departamentos provinciales de seguridad pública y, en defecto de las o los segundos, las o los funcionarios que las o los primeros designen, de las respectivas comunas que conforman el consejo.
-
-c) Los alcaldes de las demás comunas que conforman el consejo intercomunal.
-
-d) Dos concejales designados por cada uno de los concejos municipales correspondientes a las comunas participantes.
-
-e) Un o una representante de las uniones comunales de organizaciones comunitarias funcionales en materia de seguridad pública de las comunas participantes, en caso de que existan. Si hay más de una unión comunal, el o la representante será designado o designada de común acuerdo entre todas ellas. En caso de que exista una sola será representante quien designe la propia unión.
-
-f) Un juez o una jueza de policía local correspondiente a alguna de las comunas participantes, elegida o elegido de común acuerdo entre los alcaldes.
-
-g) Un funcionario municipal designado de común acuerdo por los alcaldes participantes como secretario ejecutivo del consejo.
-
-En los casos en que exista en alguna de las comunas participantes un director de seguridad pública, de acuerdo a lo dispuesto en el artículo 16 bis, deberá designarse a éste como Secretario Ejecutivo. Si dos o más comunas participantes tuviesen director de seguridad pública, podrá ser cualquiera de ellos.
-
-h) Un representante de cada una de las demás instituciones referidas en el artículo anterior, en la forma allí dispuesta, incluidos tanto aquellos cuya integración es facultativa como obligatoria.
-
-Sin perjuicio de lo anterior, el consejo intercomunal podrá convocar a los mismos invitados señalados en el artículo precedente, que tengan competencia sobre una o más de las comunas que conforman dicho consejo; y a otras autoridades, funcionarias públicas o funcionarios públicos, incluidos un director o una directora, asesor o asesora, trabajador o trabajadora del municipio; o a representantes de organizaciones de la sociedad civil cuya opinión se considere relevante para las materias que le corresponda abordar en una o más sesiones determinadas.
-
-Actuará como ministro de fe del consejo intercomunal el secretario municipal de la comuna de mayor número de habitantes.
-
-En este caso, el plan comunal de seguridad pública deberá tener el mismo contenido que el señalado en el artículo 104 F, respecto de cada una de las comunas integrantes del consejo, además de señalar específicamente todas aquellas problemáticas que éstas compartan en materia de seguridad pública.
-
-#### Artículo 104
-
-D.- La presidencia del consejo comunal de seguridad pública será indelegable, sin perjuicio de lo dispuesto en el inciso primero del artículo 62.
-
-En su calidad de presidente del consejo comunal de seguridad pública, el alcalde convocará a sesión ordinaria, como mínimo, trimestralmente y, en forma extraordinaria, cada vez que lo estime necesario. En cumplimiento de esta función, se deberá destinar cada semestre al menos una sesión del consejo para recoger la opinión de cada una de las instituciones que la integran acerca de las acciones concretas que las demás instituciones podrían realizar para mejorar la seguridad pública comunal y para dar cumplimiento a lo propuesto en el plan comunal de seguridad pública. De igual forma, al menos semestralmente deberá realizarse una sesión cuya convocatoria sea abierta a representantes de la sociedad civil y de las organizaciones comunitarias, especialmente aquellas dedicadas a materias relacionadas con seguridad pública y prevención del delito.
-
-La asistencia a las sesiones ordinarias y extraordinarias del consejo comunal de seguridad pública será obligatoria. La autoridad respectiva deberá excusarse formal y fundadamente en caso de no poder asistir. Cada municipalidad deberá llevar un registro de la asistencia de las y los integrantes del consejo comunal de seguridad pública, que deberá mantener actualizado y a disposición del público en su sitio web institucional. Lo anterior, sin perjuicio de la cuenta pública dispuesta en el literal d) del artículo 67.
-
-La inasistencia reiterada e injustificada de alguna o alguno de las y los integrantes del consejo deberá ser informada por el secretario municipal a través de correo electrónico o carta certificada al superior jerárquico de la respectiva institución, quien podrá instruir el proceso disciplinario correspondiente, con el objeto de que se establezcan las responsabilidades pertinentes.
-
-De igual forma, quienes concurran en nombre de las instituciones citadas deberán contar con la competencia o poder suficiente, propio o delegado, para adquirir compromisos a nivel comunal en representación de dichas instituciones. En el caso de instituciones públicas, no procede la delegación para adquirir compromisos que les irroguen gasto.
-
-Lo expresado en el inciso primero se aplicará a el o los alcaldes del consejo constituido en los casos señalados en el artículo anterior que no ejerzan la presidencia del mismo.
-
-Tratándose de las comunas de Juan Fernández e Isla de Pascua, territorios especiales según lo dispuesto en el artículo 126 bis de la Constitución Política de la República, las sesiones del consejo comunal de seguridad pública deberán celebrarse con la misma periodicidad indicada en el inciso segundo, pero únicamente con aquellas instituciones u organizaciones indicadas en el artículo 104 B que tengan asiento en la comuna. Sin perjuicio de lo anterior, el alcalde con acuerdo del consejo podrá requerir en casos calificados la presencia del resto de las instituciones u organizaciones, las cuales deberán concurrir cuando la disponibilidad presupuestaria y las condiciones climáticas y de traslado al momento de realizar el viaje lo permitan. En todo caso, las autoridades que no tengan asiento en dichas comunas deberán concurrir a tales consejos en al menos dos oportunidades durante el año, debiendo informar de ello al alcalde con al menos treinta días de anticipación.
-
-Dentro de los diez días hábiles siguientes de celebrada una sesión del consejo comunal de seguridad pública, el alcalde deberá informar, mediante correo electrónico, o por otro medio de comunicación idóneo, expedido a través del ministro de fe del consejo, a la Subsecretaría de Prevención del Delito del Ministerio del Interior y Seguridad Pública y a la secretaría regional ministerial de seguridad pública respectiva, de la convocatoria y celebración de la misma, los temas tratados y los acuerdos adoptados, si los hubiere.
-
-Aquellas materias relativas a la organización del consejo comunal de seguridad pública que no estén expresamente reguladas en este artículo serán acordadas libremente por la mayoría de sus miembros en sesión especialmente convocada a dicho efecto. Los acuerdos quedarán plasmados en un documento suscrito por todos sus integrantes y aprobado mediante decreto alcaldicio. Dicho instrumento podrá regular, entre otras materias, el horario de las sesiones, la posibilidad de trabajar en comisiones o subcomisiones, la asistencia en forma telemática en casos fundados y cualquier otro aspecto necesario para su adecuada organización y funcionamiento.
-
-#### Artículo 104
-
-E.- El consejo comunal de seguridad pública tendrá las siguientes funciones:
-
-a) Efectuar, a petición del alcalde o del concejo municipal, el diagnóstico del estado de situación de la comuna en materia de seguridad pública, para cuyo fin podrá solicitar los antecedentes, datos o cualquier otra información global y pertinente a los organismos públicos o de la Administración del Estado con competencias en la materia, incluidas las Fuerzas de Orden y Seguridad Pública.
-
-En el ejercicio de la función referida en esta letra, el consejo deberá asesorar al alcalde en la priorización de las acciones que deberán realizarse en la comuna, según factores tales como la frecuencia o gravedad de ciertos delitos o problemáticas en materia de seguridad que existan en el territorio del respectivo municipio.
-
-b) Suministrar a través de sus integrantes los antecedentes e información necesarios de las instituciones que éstos representen y entregar opinión al alcalde para la elaboración del plan comunal de seguridad pública y su presentación al concejo municipal.
-
-c) Emitir opinión respecto de las ordenanzas que, de conformidad a los artículos 12 y 65, letra k), se dicten en materias de convivencia vecinal y seguridad pública comunal, para lo cual el alcalde deberá solicitar su pronunciamiento en el plazo que este último establezca, el que no podrá ser menor a treinta días.
-
-En caso que el consejo no se pronuncie respecto a estas ordenanzas, el alcalde citará a una sesión extraordinaria para que cumpla con dicha obligación dentro del plazo que éste determine, el que no podrá ser menor a quince días. Si el consejo nuevamente no se pronuncia en el plazo señalado, se continuará la tramitación de la ordenanza, prescindiendo de su opinión.
-
-d) Efectuar el seguimiento y monitoreo de las medidas contempladas en el plan comunal de seguridad pública.
-
-Siempre que el alcalde constate el incumplimiento reiterado e injustificado de alguno de los compromisos suscritos por los representantes de las instituciones del consejo en el marco del plan comunal de seguridad pública deberá oficiar sobre dicho incumplimiento al superior de su respectiva institución, quien podrá instruir el respectivo proceso disciplinario con el objeto de que se establezcan las responsabilidades pertinentes. Asimismo, deberá informar a la Subsecretaría de Prevención del Delito.
-
-Sin perjuicio de lo anterior, la municipalidad deberá incorporar el estado de avance de los compromisos adquiridos por las instituciones que conforman el consejo al registro señalado en el inciso tercero del artículo anterior, en la forma allí dispuesta, y publicará esta información en su sitio web.
-
-e) Dar su opinión y apoyo técnico al diseño, implementación, ejecución y evaluación de los proyectos y acciones que se desarrollen en el marco del plan comunal de seguridad pública.
-
-f) Constituirse en instancia de coordinación comunal, en materias de seguridad pública, de la municipalidad, el Ministerio del Interior y Seguridad Pública, las Fuerzas de Orden y Seguridad Pública y el Ministerio Público y demás miembros del consejo.
-
-g) Emitir opinión, a petición del alcalde, del concejo municipal o del consejo de organizaciones de la sociedad civil, sobre cualquier materia relativa a su competencia que se someta a su conocimiento.
-
-h) Realizar observaciones al plan comunal de seguridad pública que elabore el alcalde, previo a su presentación ante el concejo municipal.
-
-Con todo, dichas observaciones deberán ser remitidas por el alcalde al concejo municipal, juntamente con el plan comunal de seguridad pública, para que sean conocidas por éste al momento de su aprobación.
-
-El consejo deberá pronunciarse especialmente sobre las metas, objetivos y medios de control de gestión que consten en el plan, y que deberán incorporar en el ejercicio de sus labores cada una de las instituciones participantes, en el ámbito de sus respectivas competencias.
-
-i) Proponer medidas, acciones, objetivos y mecanismos de control de gestión, en el ámbito de sus respectivas competencias, los que en todo caso deberán ser coherentes con las directrices generales de las respectivas instituciones.
-
-Sin perjuicio de lo anterior, los consejeros deberán comprometer acciones concretas que la institución a la cual representan pueda desplegar dentro del territorio comunal durante la vigencia del plan comunal de seguridad pública, y que puedan colaborar a mejorar la seguridad pública municipal.
-
-j) Cumplir las demás funciones determinadas por la ley.
-
-#### Artículo 104
-
-E bis.- En cada consejo existirá un comité de coordinación operativa presidido por el alcalde e integrado por el director o la directora de seguridad, y por quienes representen a las Fuerzas de Orden y Seguridad Pública y al Ministerio Público. En caso de que no haya director o directora de seguridad en la municipalidad, integrará el comité la secretaria ejecutiva o el secretario ejecutivo del referido consejo.
-
-Las funciones de este comité serán:
-
-a) Establecer las directrices para la ejecución de las acciones acordadas por el consejo y la implementación de las medidas del plan comunal de seguridad pública, y para su adecuado monitoreo.
-
-b) Constituir una instancia de coordinación operativa entre las Fuerzas de Orden y Seguridad Pública, el Ministerio Público y la municipalidad.
-
-c) Diseñar estrategias en materia de seguridad pública a nivel comunal, en coherencia con el plan establecido en el artículo 104 F.
-
-d) Acordar la implementación de medidas tendientes a enfrentar cualquier contingencia en materia de seguridad pública y prevención del delito que afecte a la comuna. Estas medidas se aplicarán únicamente respecto de aquellas materias señaladas en la letra j) del artículo 4, y deberán ser coherentes con el Plan Comunal de Seguridad Pública y en el marco de su disponibilidad presupuestaria. Su adopción debe respetar en todo momento tanto la autonomía del Ministerio Público, como la dependencia de las Fuerzas de Orden y Seguridad Pública respecto del Ministerio de Seguridad Pública.
-
-Para el adecuado ejercicio de sus funciones, el comité podrá contar, además, con la colaboración de las otras instituciones representadas en el consejo. Dichas instituciones actuarán de manera concertada en el ámbito de sus respectivas competencias.
-
-El alcalde, o bien, el director o la directora de seguridad deberán convocar a este comité en forma ordinaria, a lo menos, una vez al mes y, en forma extraordinaria, cada vez que sea necesario.
-
-Asimismo, el alcalde deberá informar trimestralmente al concejo municipal y al consejo comunal de seguridad pública de la ejecución de las acciones acordadas por el comité y la implementación de las medidas del plan comunal de seguridad pública. En dicha oportunidad, el comité podrá proponer acciones y presentar sugerencias respecto de su ejecución.
-
-#### Artículo 104
-
-F.- El plan comunal de seguridad pública será el instrumento de gestión que fijará las orientaciones y las medidas que la municipalidad y los órganos y organismos señalados en el artículo 104 B dispongan en materia de seguridad pública a nivel comunal, sin perjuicio de las funciones y facultades que la Constitución y la ley confieren al Ministerio del Interior y Seguridad Pública, a las Fuerzas de Orden y Seguridad Pública y al Ministerio Público. El plan referido deberá estar siempre adaptado a la realidad de cada comuna, en consideración a su presupuesto, cantidad de habitantes, geografía, problemas específicos en materia de seguridad pública, y cualquier otra circunstancia relevante para efectos de su elaboración o implementación.
-
-Este instrumento contendrá un diagnóstico de la situación de seguridad de cada comuna y establecerá objetivos, metas, acciones y mecanismos de control de gestión conforme a los compromisos que cada integrante del consejo comunal de seguridad pública realice, de acuerdo a su disponibilidad presupuestaria y en el ámbito de sus respectivas competencias. Asimismo, en este plan constarán las estrategias de prevención primaria, secundaria y terciaria de tipo social, comunitaria y situacional que adopte cada municipalidad.
-
-Asimismo, en los objetivos y metas de dicho instrumento deberá contemplarse la priorización de ciertos delitos o problemáticas en materia de seguridad que afecten a la comuna sobre la base de factores tales como la frecuencia o gravedad del delito, para lo cual deberá considerarse lo obrado por el respectivo consejo, en virtud de la función señalada en la letra a) del artículo precedente.
-
-Sin perjuicio de lo anterior, el plan comunal deberá considerar, a lo menos, las siguientes materias:
-
-a) Medidas de prevención de conductas infractoras por parte de niñas, niños y adolescentes.
-
-b) Medidas de prevención y resguardo de la seguridad de los establecimientos educacionales y sus entornos. Además, contemplará medidas para la adecuada coordinación interinstitucional en la prevención y detección de conductas de estudiantes con riesgo socio delictual, inasistencia grave o deserción escolar, o respecto de quienes se hayan aplicado medidas de expulsión o cancelación de matrícula, con el objeto de resguardar su seguridad y su adecuada reinserción educativa.
-
-c) Prevención y rehabilitación del consumo de drogas.
-
-d) Fortalecimiento de la convivencia comunitaria.
-
-e) Mejoramiento urbano en barrios vulnerables.
-
-f) Prevención de la violencia intrafamiliar y violencia contra las mujeres.
-
-g) Proyectos específicos para prevenir los delitos de mayor relevancia y ocurrencia en la comuna.
-
-h) Fomento de políticas de prevención del delito dirigidas a las organizaciones comunitarias. Para tal objeto se podrán contemplar cursos y capacitaciones, especialmente para comités de seguridad vecinales y rurales.
-
-i) Medidas de atención y asistencia a víctimas de delito.
-
-j) Medidas de prevención y rehabilitación del consumo de drogas y alcohol, en coherencia con los lineamientos que entregue sobre esta materia el Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol.
-
-k) Medidas de mejoramiento de las condiciones urbanas, semiurbanas y rurales que digan relación con la seguridad pública.
-
-l) Mecanismos alternativos de resolución de conflictos vecinales.
-
-m) Otras materias de interés comunal en el área de la seguridad pública.
-
-Para lo dispuesto en el inciso anterior, el alcalde deberá considerar la opinión que expongan en las sesiones del consejo comunal de seguridad pública los representantes de los organismos públicos o privados que tengan competencia en la materia, en virtud de lo dispuesto en el inciso quinto del artículo 104 B.
-
-Las municipalidades, con el objeto de ejecutar los objetivos y metas relacionados con el plan comunal de seguridad pública, que sean de su competencia y que cuenten con el financiamiento respectivo, deberán llevar a cabo las estrategias, acciones o medidas que correspondan en forma directa, en coordinación con el Ministerio de Seguridad Pública, a través de la Subsecretaría de Prevención del Delito cuando corresponda, o bien, a través de convenios celebrados con órganos públicos o privados, los que deberán adjuntarse al respectivo plan.
-
-Asimismo, los órganos públicos sólo quedarán obligados al cumplimiento de las metas u objetivos a los cuales se hayan comprometido expresamente en el mencionado plan o en un convenio celebrado en virtud de lo establecido en el inciso anterior, y siempre que dichas metas u objetivos se encuentren dentro de la esfera de sus respectivas atribuciones legales.
-
-Por su parte, respecto a las materias o problemáticas incorporadas en el plan comunal de seguridad pública que no sean de competencia de la municipalidad, de los órganos públicos participantes del consejo ni de ninguna otra entidad con la que se haya celebrado un convenio en virtud de lo establecido en el inciso sexto, el secretario regional ministerial de seguridad pública o, en subsidio, el director o directora del departamento provincial de seguridad pública, al momento de recibir el plan comunal, procederá a derivarlo a las instituciones competentes para evaluar su ejecución.
-
-La Subsecretaría de Prevención del Delito, en tanto, deberá dictar orientaciones técnicas y elaborar un formato de plan comunal de seguridad pública.
-
-La vigencia de este último será de cuatro años, sin perjuicio de lo cual el alcalde, asesorado por el consejo comunal de seguridad pública, deberá actualizarlo anualmente o cada vez que sea necesario de acuerdo con el diagnóstico efectuado por el mismo consejo, las recomendaciones que realice el comité de coordinación operativa o el director o la directora de seguridad pública. Las actualizaciones deberán contar con la aprobación del concejo municipal, de acuerdo a lo establecido en el artículo 82.
-
-En todo caso, los planes comunales de seguridad pública deberán ser consistentes y estar debidamente coordinados con los instrumentos emanados del Ministerio del Interior y Seguridad Pública en este ámbito, en particular, con el Plan Nacional de Seguridad Pública y Prevención de la Violencia y el Delito.
-
-Para los efectos señalados en el inciso anterior y de los artículos 13 y 16 de la ley N° 20.502, las municipalidades deberán remitir los respectivos planes comunales de seguridad pública, dentro de los diez días siguientes a su aprobación, a la Subsecretaría de Prevención del Delito del Ministerio de Seguridad Pública, al consejo regional de seguridad pública y a la o al secretario regional ministerial de seguridad pública o, en subsidio, al director o directora del departamento provincial de seguridad pública.
-
-Asimismo, dentro del mismo plazo señalado en el inciso anterior, las municipalidades deberán difundir los planes referidos a través de la página web municipal o por cualquier otro medio que asegure su debido conocimiento por parte de la comunidad.
-
-Los acuerdos, compromisos, acciones y estrategias del Sistema Táctico de Operación Policial que administra Carabineros de Chile deberán encontrarse en concordancia con los lineamientos establecidos en los planes comunales de seguridad pública y los acuerdos adoptados por los consejos comunales de seguridad pública.
-
 ## Título V
 
 DE LAS ELECCIONES MUNICIPALES
@@ -2060,15 +1216,13 @@ De la presentación de candidaturas
 
 Las candidaturas a alcaldes y concejales sólo podrán ser declaradas hasta las veinticuatro horas del nonagésimo día anterior a la fecha de la elección correspondiente. Tales declaraciones sólo podrán incluir hasta tantos candidatos como cargos corresponda elegir en la respectiva comuna o agrupación de comunas. Las candidaturas a alcalde y concejal son excluyentes entre sí. Una misma persona sólo podrá postular al cargo de alcalde o de concejal en una sola comuna.
 
-La falsedad de cualquiera de los hechos aseverados en la declaración mencionada en el artículo 3° de la ley N° 18.700, o su omisión, producen la nulidad de la declaración de ese candidato y la de todos sus efectos legales posteriores, incluyendo su elección.
+Cada declaración debe ir acompañada de un testimonio jurado del respectivo candidato, en el cual éste afirme cumplir con todos los requisitos exigidos por los artículos 73 y 74. Dicha declaración consignará, además, el nombre, cédula de identidad y domicilio del Administrador Electoral y del Administrador Electoral General, en su caso. Esta declaración jurada será hecha ante notario público. También podrá efectuarse ante el oficial del Registro Civil correspondiente a la comuna. La falsedad de cualquiera de los hechos aseverados en la declaración, o su omisión, producen la nulidad de la declaración de ese candidato y la de todos sus efectos legales posteriores, incluyendo su elección.
 
-En el caso que un alcalde postulare a su reelección o a su elección como concejal en su propia comuna, se procederá a su subrogación en conformidad con el inciso primero del artículo 62, desde los treinta días anteriores a la fecha de la elección y hasta el día siguiente de ella. En todo caso, durante el período señalado, el alcalde conservará su remuneración y la atribución de participar en las sesiones del concejo con derecho a voz y voto. Sin embargo, la presidencia del concejo sólo podrá ejercerla un concejal que no estuviere repostulando a dicho cargo o postulando al cargo de alcalde. Si hubiere más de uno en tal situación la presidencia le corresponderá a quien haya obtenido individualmente mayor votación ciudadana en la elección respectiva. Si todos los concejales estuvieren repostulando, la presidencia se decidirá por sorteo entre ellos.
+En el caso que un alcalde postulare a su reelección o a su elección como concejal en su propia comuna, se procederá a su subrogación en conformidad con el inciso primero del artículo 62, desde los treinta días anteriores a la fecha de la elección y hasta el día siguiente de ella. En todo caso, durante el período señalado, la presidencia del concejo sólo podrá ejercerla un concejal que no estuviere repostulando a dicho cargo. Si hubiere más de uno en tal situación la presidencia le corresponderá a quien haya obtenido individualmente mayor votación ciudadana en la elección respectiva. Si todos los concejales estuvieren repostulando, la presidencia se decidirá por sorteo entre ellos.
 
-El pacto electoral regirá en todas las regiones del país en que uno o más de los partidos políticos integrantes del mismo se encuentren legalmente constituidos. Las declaraciones de candidaturas a alcalde y a concejales que presente un pacto electoral y los subpactos comprendidos en él, sólo podrán incluir candidatos de los partidos políticos que se encuentren legalmente constituidos en la respectiva región. Estas declaraciones deberán ser suscritas por los presidentes y secretarios generales de los partidos políticos que integren el pacto o subpacto electoral. El partido político que no suscribiere las declaraciones a las que se refiere este inciso se entenderá que se retira del pacto electoral, y no podrá celebrar otro, salvo con candidatos independientes. Asimismo, el partido político retirado del pacto no podrá declarar candidaturas en los lugares en que el pacto electoral del cual se retira haya celebrado elecciones primarias conforme a la ley Nº 20.640.
+Las declaraciones de candidaturas a alcalde y a concejales que presente un pacto electoral y los subpactos comprendidos en él podrán incluir candidatos de cualquiera de los partidos que los constituyan, independientemente de si éste se encuentra legalmente constituido en la respectiva región, siempre que lo esté en la mayoría de las regiones del país y al menos uno de los partidos suscriptores del pacto se encuentre constituido a nivel nacional.
 
-En lo demás, las declaraciones de candidaturas se regirán por los artículos 3°, con excepción del inciso tercero para el caso de los concejales, 3° bis, con excepción de su inciso tercero, 4°, incisos segundo y siguientes, y 5° de la ley N° 18.700.
-
-Las declaraciones de candidaturas de concejales deberán ser presentadas por los partidos políticos o pactos electorales en un solo acto respecto de cada comuna.
+En lo demás, las declaraciones de candidaturas se regirán por los artículos 3º, 3º bis, con excepción de su inciso tercero, 4º, incisos segundo y siguientes, y 5º de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
 
 #### Artículo 108
 
@@ -2082,17 +1236,13 @@ En las elecciones de concejales un partido político podrá pactar con uno o var
 
 Los partidos políticos que participen en un pacto electoral podrán subpactar entre ellos o con independientes, de acuerdo a las normas que sobre acumulación de votos de los candidatos se establecen en el artículo 124 de la presente ley, pudiendo excepcionalmente excluir en forma expresa, al momento de formalizarlo, la o las comunas en que no regirá dicho subpacto. Los subpactos estarán siempre integrados por los mismos partidos.
 
-Los candidatos independientes que participen en un pacto electoral podrán subpactar entre ellos, con un subpacto de partidos integrantes el mismo o con un partido del pacto que no sea miembro de un subpacto de partidos. Asimismo, podrán subpactar con un partido integrante de un subpacto en la o las comunas expresamente excluidas de dicho subpacto. Para los efectos señalados, como para la declaración de candidaturas, los candidatos independientes actuarán por sí o por medio de mandatario designado especialmente para ello por escritura pública.
+Los candidatos independientes que participen en un pacto electoral podrán subpactar entre ellos, con un subpacto de partidos integrantes del mismo o con un partido del pacto que no sea miembro de un subpacto de partidos. Asimismo, podrán subpactar con un partido integrante de un subpacto en la o las comunas expresamente excluidas de dicho subpacto. Para los efectos señalados, como para la declaración de candidaturas, los candidatos independientes actuarán por sí o por medio de mandatario designado especialmente para ello por escritura pública.
 
 A la formalización de un subpacto electoral le serán aplicables, en lo pertinente, las normas de los incisos cuarto y quinto del artículo 3º bis de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
 
-Los partidos políticos e independientes que así lo prefieran podrán subscribir un pacto electoral para la elección de alcaldes y un pacto electoral distinto para la elección de concejales.
-
-Los pactos para la elección de concejales a que alude el inciso anterior sólo podrán ser conformados por uno o más partidos políticos o independientes que integren un mismo pacto electoral para la elección de alcaldes.
-
 #### Artículo 110
 
-Las declaraciones de pactos electorales, de los subpactos que se acuerden, así como la o las comunas excluidas de los subpactos, deberán constar en un único instrumento y su entrega se formalizará en un solo acto ante el Director del Servicio Electoral, hasta las cuarenta y ocho horas antes de que comience a correr el plazo para declarar candidaturas señalado en el inciso primero del artículo 107.
+Las declaraciones de pactos electorales, de los subpactos que se acuerden, así como la o las comunas excluidas de los subpactos y las candidaturas a alcalde y a concejales que se incluyan, deberán constar en un único instrumento y su entrega se formalizará en un solo acto ante el Director del Servicio Electoral dentro del mismo plazo establecido en el artículo 107 para la declaración de candidaturas.
 
 #### Artículo 111
 
@@ -2110,13 +1260,13 @@ Las declaraciones de candidaturas independientes a alcalde o concejal deberán s
 
 En todo caso, entre los patrocinantes no se contabilizarán los correspondientes a afiliados a partidos políticos que superen el cinco por ciento del porcentaje mínimo que establece el inciso anterior.
 
-La determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el sitio electrónico de ese Servicio con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse la elección.
+La determinación del número mínimo necesario de patrocinantes la hará el Director del Servicio Electoral mediante resolución que se publicará en el Diario Oficial con siete meses de anticipación, a lo menos, a la fecha en que deba realizarse la elección.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, los independientes que postulen integrando pactos o subpactos no requerirán de patrocinio.
 
 #### Artículo 113
 
-El patrocinio de candidaturas independientes a alcalde o concejal deberá suscribirse ante un notario público de la respectiva comuna, por ciudadanos habilitados para votar en la misma. En aquellas comunas en donde no exista notario público, será competente para certificar el patrocinio el oficial del Registro Civil de la jurisdicción respectiva.
+El patrocinio de candidaturas independientes a alcalde o concejal deberá suscribirse ante un notario público de la respectiva comuna, por ciudadanos inscritos en los registros electorales de la misma. En aquellas comunas en donde no exista notario público, será competente para certificar el patrocinio el oficial del Registro Civil de la jurisdicción respectiva.
 
 No podrá figurar el mismo patrocinante en diversas declaraciones de candidaturas independientes. Si ello ocurriere, será válido solamente el patrocinio que figure en la primera declaración hecha ante el Servicio Electoral, y si se presentaren varias simultáneamente, no será válido en ninguna de ellas el patrocinio que se haya repetido.
 
@@ -2132,7 +1282,7 @@ De las inscripciones de candidatos
 
 #### Artículo 115
 
-El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquél en que venza el plazo señalado en el inciso final del artículo 7 de la ley N° 18.700, deberá, mediante resolución que se publicará en un diario de los de mayor circulación en la región o provincia respectiva, aceptar o rechazar las que hubieren sido declaradas.
+El Director Regional del Servicio Electoral, dentro de los diez días siguientes a aquél en que venza el plazo para la declaración de candidaturas, deberá, mediante resolución que se publicará en un diario de los de mayor circulación en la región respectiva, aceptar o rechazar las que hubieren sido declaradas.
 
 Los partidos políticos y los candidatos independientes podrán, dentro de los cinco días siguientes a la publicación de la referida resolución, reclamar de ella ante el tribunal electoral regional respectivo, el que deberá pronunciarse dentro de quinto día.
 
@@ -2148,7 +1298,7 @@ Del escrutinio en las mesas receptoras de sufragio
 
 #### Artículo 117
 
-Derogado.
+Las mesas receptoras de sufragio, en lo relativo a los resultados de la votación, sólo consignarán en el acta de escrutinio, como también en los formularios de acta y en las minutas de resultado, las votaciones individuales obtenidas por cada candidato, los votos nulos y los votos en blanco, dejándose constancia además del total de sufragios emitidos en la respectiva mesa.
 
 #### Artículo 118
 
@@ -2162,13 +1312,17 @@ calificación de las elecciones
 
 #### Artículo 119
 
-El escrutinio general y la calificación de las elecciones municipales serán practicados por los tribunales electorales regionales, en conformidad a los Títulos IV y V de la ley N° 18.700, orgánica constitucional sobre votaciones populares y escrutinios, teniendo, en cuanto les fueren aplicables, todas las facultades que se conceden al Tribunal Calificador de Elecciones.
+El escrutinio general y la calificación de las elecciones municipales serán practicados por los tribunales electorales regionales, que tendrán, en cuanto les fueren aplicables, todas las facultades que se conceden al Tribunal Calificador de Elecciones en los Títulos IV y V de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
 
-Las resoluciones que dicten los Tribunales Electorales Regionales, en el marco de la competencia que se les confiere por la presente ley, serán apelables para ante el Tribunal Calificador de Elecciones.
+Las resoluciones que dicten los tribunales electorales regionales, en el marco de la competencia que se les confiere por la presente ley, serán apelables para ante el Tribunal Calificador de Elecciones.
 
-El plazo para comparecer en segunda instancia será el segundo día contado desde el respectivo certificado de ingreso. La resolución que proclame a los candidatos definitivamente electos no será susceptible de recurso alguno.
+Con todo, las reclamaciones de nulidad y las solicitudes de rectificaciones, se interpondrán directamente ante el tribunal electoral regional del territorio en que se hubieren cometido los hechos que sirvan de fundamento al reclamo, dentro de los tres días siguientes a la fecha de la respectiva elección, acompañándose en el mismo acto los antecedentes en que se funde.
 
-Sin perjuicio de lo establecido en los incisos precedentes, las instancias jurisdiccionales electorales deberán poner en conocimiento del Juzgado de Garantía competente aquellos hechos o circunstancias fundantes de la reclamación que, a su juicio, revistieren características de delito.
+Dentro del plazo de dos días, contado desde el respectivo reclamo, se rendirán ante el tribunal las informaciones y contrainformaciones que se produzcan. El tribunal dictará la sentencia que resuelva las reclamaciones electorales, sean de nulidad o de rectificación de escrutinios, a más tardar al duodécimo día contado desde la fecha de la elección. Esta sentencia se notificará por el estado diario y sólo será susceptible del recurso de apelación, el que deberá deducirse dentro del plazo de segundo día, contado desde la notificación practicada por el estado diario, y será someramente fundado.
+
+El plazo para comparecer en segunda instancia será de segundo día contado desde el respectivo certificado de ingreso. La resolución que proclame a los candidatos definitivamente electos, no será susceptible de recurso alguno.
+
+Sin perjuicio de lo establecido en los incisos precedentes, las instancias jurisdiccionales electorales deberán poner en conocimiento del tribunal del crimen competente, aquellos hechos o circunstancias fundantes de la reclamación, que a su juicio revistieren las características de delito.
 
 #### Artículo 120
 
@@ -2176,19 +1330,13 @@ Para determinar los concejales elegidos, el tribunal electoral regional deberá 
 
 #### Artículo 121
 
-Se considerará que constituyen una lista, los pactos electorales, los partidos que participen en la elección sin formar parte de un pacto electoral y cada una de las candidaturas independientes que no formen parte de un pacto electoral.
-
 Para establecer los votos de lista, el tribunal sumará las preferencias emitidas a favor de cada uno de los candidatos de una misma lista.
 
 #### Artículo 122
 
-Se determinará el cuociente electoral, para lo cual los votos de lista se
+Para determinar el cuociente electoral, los votos de lista se dividirán sucesivamente por uno, dos, tres, cuatro, y así sucesivamente, hasta formar tantos cuocientes por cada lista como concejales corresponda elegir. Todos estos cuocientes se colocarán en orden decreciente hasta tener un número de ellos igual al de cargos por elegir. El cuociente que ocupe el último de estos lugares será el cuociente electoral y permitirá determinar cuántos son los elegidos en cada lista mediante la división del total de votos de la misma por dicho cuociente.
 
-dividirán sucesivamente por uno, dos, tres, cuatro, y así sucesivamente, hasta formar tantos cuocientes por cada lista como concejales corresponda elegir. Todos esos cuocientes se ordenarán en forma decreciente de mayor a menor y el que ocupe la posición ordinal correspondiente al número de concejales a elegir, será el cuociente electoral.
-
-Para determinar cuántos son los elegidos en cada lista se dividirá el total de votos de la
-
-lista por el cuociente electoral. Se considerará la parte entera del resultado de la división, sin aproximar y despreciando cualquiera fracción o decimal.
+Sin embargo, en el caso del Nº 3 del artículo 123, el cuociente electoral pasará a ser el que siga en el orden decreciente a que se refiere el inciso anterior si el cargo sobrante fuera uno, o el que le siga, si fueren dos y así sucesivamente, si fueren más.
 
 #### Artículo 123
 
@@ -2198,9 +1346,7 @@ Para determinar los candidatos a concejales elegidos dentro de cada lista se obs
 
 2) Si el número de candidatos presentados es mayor que el de los concejales que a la lista corresponda, se proclamará elegidos a los que hubieren obtenido las más altas mayorías individuales, a menos que la lista corresponda a un pacto electoral, caso en el cual se aplicará la norma del artículo siguiente.
 
-3) Si el número de candidatos presentados es inferior al de los concejales que a la lista
-
-le corresponde elegir, se proclamará elegidos a todos los candidatos de la lista, debiendo reasignar el cargo sobrante recalculando el número de cargos elegidos por las demás listas. Para ello se repetirá el cálculo del inciso segundo del artículo anterior, utilizando como cuociente electoral al cuociente que ocupe la posición ordinal que siga en el orden decreciente de los cuocientes determinados según el inciso primero del artículo anterior. Si fuesen más de uno los cargos sobrantes, para determinar el cuociente electoral, se avanzará en el orden decreciente de los cuocientes del inciso primero del artículo anterior, tantas posiciones ordinales como cargos sobrantes existan.
+3) Si el número de candidatos de una o más listas es inferior al de concejales que le haya correspondido, el cuociente será reemplazado en la forma señalada en el inciso segundo del artículo precedente.
 
 4) Si, dentro de una misma lista, un cargo correspondiere con igual derecho a dos o más candidatos, resultará elegido aquel que haya obtenido el mayor número de preferencias individuales y, en caso de que persista la igualdad, se procederá por el tribunal electoral regional al sorteo del cargo en audiencia pública.
 
@@ -2208,17 +1354,17 @@ le corresponde elegir, se proclamará elegidos a todos los candidatos de la list
 
 #### Artículo 124
 
-Para determinar los candidatos elegidos en una lista que corresponda a un pacto electoral se procederá a sumar las preferencias de los candidatos incluidos en cada uno de los partidos o de los subpactos, según sea el caso.
+Para determinar los candidatos elegidos en una lista en la cual existan pactos o subpactos, se procederá a sumar las preferencias de los candidatos incluidos en cada uno de los partidos o de los subpactos, según sea el caso.
 
-Posteriormente, se repetirá el procedimiento descrito en el artículo 122, considerando para este efecto como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso, todo ello con el objeto de determinar el número de candidatos que elige cada integrante del pacto.
+El total de votos válidamente obtenidos por cada partido o subpacto se dividirá por uno, dos, tres, cuatro, y así sucesivamente, hasta formar por cada uno de los partidos o subpactos tantos cuocientes como cargos corresponda elegir a la lista. Todos esos cuocientes se ordenarán en forma decreciente y el que ocupe el ordinal correspondiente al último de los cargos por elegir por la lista será el cuociente de los partidos o subpactos de la misma. El total de votos de cada partido o subpacto deberá dividirse por dicho cuociente para determinar cuántos cargos corresponderá elegir al respectivo partido o subpacto.
 
-Determinado el número que elige cada integrante del pacto electoral, se repetirá el procedimiento descrito en el artículo 123, para determinar quiénes son los candidatos electos de cada integrante del pacto, considerando también para este efecto como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso.
+Si el número de candidatos de algún partido o subpacto fuere inferior al de concejales que les correspondiere, o si el candidato independiente que no se hubiere integrado a un subpacto, obtuviere votos suficientes para elegir más de un cargo, el cuociente aplicable pasará a ser el que siga en el orden decreciente a que se refiere el inciso anterior, si el cargo sobrante fuera uno, o, el que le siga, si fueren dos y así sucesivamente.
 
-No obstante lo dispuesto en los incisos precedentes, en el caso de una lista que consista en un pacto electoral suscrito entre un partido político y uno o más independientes, y siempre que en dicho pacto electoral no se incluyan subpactos, los candidatos tendrán igual derecho de preferencia dentro del pacto, proclamándose electos a las más altas mayorías considerando únicamente su votación individual. Asimismo, en el caso de un subpacto que incluya candidatos de uno o más partidos e independientes, los candidatos tendrán igual derecho de preferencia dentro del subpacto, proclamándose electos a las más altas mayorías considerando únicamente su votación individual.
+Dentro de cada partido o subpacto, los candidatos preferirán entre sí según el número de votos que hubieren obtenido.
 
 #### Artículo 125
 
-Las listas que incluyan pactos entre partidos políticos o subpactos podrán incluir una o más candidaturas independientes.
+Las listas que incluyan pactos entre partidos políticos o subpactos podrán incluir una o más candidaturas independientes. Cuando un pacto electoral incluya la postulación de uno o más independientes, para los efectos de determinar los cargos a elegir en la lista los votos de cada candidato independiente, que no forme parte de un subpacto, se considerarán separada o individualmente, como si lo fueran de un partido político integrante del pacto.
 
 #### Artículo 126
 
@@ -2232,7 +1378,7 @@ En caso de empate, el tribunal electoral regional respectivo, en audiencia públ
 
 #### Artículo 128
 
-Dentro de los dos días siguientes a aquél en que su fallo quede a firme, el tribunal electoral regional enviará una copia autorizada de la parte pertinente del mismo y el acta complementaria de proclamación, en lo que se refiera a las respectivas comunas, al delegado presidencial regional y al secretario municipal de cada una de las municipalidades de la provincia. Comunicará, al mismo tiempo, su proclamación a cada uno de los candidatos elegidos.
+Dentro de los dos días siguientes a aquél en que su fallo quede a firme, el tribunal electoral regional enviará una copia autorizada de la parte pertinente del mismo y el acta complementaria de proclamación, en lo que se refiera a las respectivas comunas, al intendente y al secretario municipal de cada una de las municipalidades de la provincia. Comunicará, al mismo tiempo, su proclamación a cada uno de los candidatos elegidos.
 
 Una copia completa del fallo y de su acta complementaria se remitirá, además, por el presidente del tribunal electoral regional respectivo, al Ministro del Interior y al Director del Servicio Electoral, con el objeto de que tomen conocimiento del término del proceso electoral municipal.
 
@@ -2246,7 +1392,7 @@ De las corporaciones y fundaciones municipales
 
 #### Artículo 129
 
-Una o más municipalidades podrán constituir o participar en corporaciones o fundaciones de derecho privado, sin fines de lucro, destinadas a la promoción y difusión del arte, la cultura y el deporte, o el fomento de obras de desarrollo comunal y productivo.
+Una o más municipalidades podrán constituir o participar en corporaciones o fundaciones de derecho privado, sin fines de lucro, destinadas a la promoción y difusión del arte y de la cultura.
 
 Estas personas jurídicas se constituirán y regirán por las normas del Título XXXIII del Libro Primero del Código Civil, sin perjuicio de las disposiciones especiales contenidas en esta ley.
 
@@ -2294,25 +1440,25 @@ De las asociaciones de municipalidades
 
 #### Artículo 137
 
-Dos o más municipalidades, pertenezcan o no a una misma provincia o región, podrán constituir asociaciones municipales, para los efectos de facilitar la solución de problemas que les sean comunes, o lograr el mejoraprovechamiento de los recursos disponibles, pudiendo dichas asociaciones gozar de personalidad jurídica de derecho privado, de acuerdo con las reglas establecidas en el Párrafo 3º del presente Título.
+Dos o más municipalidades, pertenezcan o no a una misma provincia o región, podrán constituir asociaciones municipales para los efectos de facilitar la solución de problemas que les sean comunes o lograr el mejor aprovechamiento de los recursos disponibles.
 
-Las asociaciones podrán tener por objeto:
+Estas asociaciones podrán tener por objeto:
 
-a) La atención de servicios comunes.
+a) La atención de servicios comunes;
 
-b) La ejecución de obras de desarrollo local.
+b) La ejecución de obras de desarrollo local;
 
-c) El fortalecimiento de los instrumentos de gestión.
+c) El fortalecimiento de los instrumentos de gestión;
 
-d) La realización de programas vinculados a la protección del medio ambiente, a la seguridad pública, al turismo, a la salud o a otros fines que les sean propios.
+d) La realización de programas vinculados a la protección del medio ambiente, al turismo, a la salud o a otros fines que les sean propios;
 
-e) La capacitación y el perfeccionamiento del personal municipal, como también de alcaldes y concejales.
+e) La capacitación y el perfeccionamiento del personal municipal, y
 
 f) La coordinación con instituciones nacionales e internacionales, a fin de perfeccionar el régimen municipal.
 
 #### Artículo 138
 
-Del mismo modo, las municipalidades podrán celebrar convenios para asociarse entre ellas sin requerir personalidad jurídica. Tales convenios deberán contemplar, entre otros aspectos, los siguientes:
+Los convenios que celebren las municipalidades para crear asociaciones municipales deberán consultar, entre otros aspectos, los siguientes:
 
 a) La especificación de las obligaciones que asuman los respectivos asociados;
 
@@ -2334,123 +1480,15 @@ Respecto del personal mencionado en la letra c) del artículo anterior, no regir
 
 Ninguna corporación, fundación o asociación municipal, creada o que se cree en virtud de ésta u otras leyes, podrá contratar empréstitos.
 
-### Párrafo 3º
-
-De la personalidad jurídica de las Asociaciones Municipales
-
-#### Artículo 141
-
-La constitución de una asociación será acordada por los alcaldes de las municipalidades interesadas, previo acuerdo de sus respectivos concejos, en asamblea que se celebrará ante un ministro de fe, debiendo actuar como tal el secretario municipal de alguna de tales municipalidades, o un notario público con sede en alguna de las comunas de las mismas.
-
-Las asociaciones municipales constituidas en conformidad a las normas de este párrafo deberán efectuar una solicitud de inscripción en el Registro que se llevará para tales efectos y depositar una copia autorizada reducida a escritura pública del acta de su asamblea constitutiva, de su directorio provisional y de sus estatutos, ante el Ministerio del Interior, a través de la Subsecretaría de Desarrollo Regional y Administrativo, dentro del plazo de treinta días contado desde la fecha de la asamblea.
-
-Dentro del plazo de sesenta días, contado desde la fecha de la recepción de los documentos antes señalados, el Ministerio del Interior, a través de la Subsecretaría de Desarrollo Regional y Administrativo, podrá objetar la constitución de la asociación, si no se hubiere dado cumplimiento a los requisitos que la ley establece para su formación y para la aprobación de sus estatutos, todo lo cual será notificado por carta certificada al presidente del órgano directivo provisional de aquella.
-
-La asociación deberá subsanar las observaciones efectuadas dentro del plazo de treinta días, contado desde su notificación. Si así no lo hiciere, se tendrá por no presentada su solicitud de inscripción en el Registro y los miembros de la directiva provisional responderán solidariamente por las obligaciones que la organización hubiese contraído en ese lapso.
-
-Cumplido el procedimiento anterior, la Subsecretaría de Desarrollo Regional y Administrativo procederá a inscribir la organización en el Registro que llevará para tal efecto.
-
-Transcurrido el plazo establecido en el inciso tercero, sin que la Subsecretaría de Desarrollo Regional y Administrativo hubiere objetado la constitución, la solicitud de inscripción se entenderá aprobada.
-
-Las asociaciones municipales gozarán de personalidad jurídica por el solo hecho de haber efectuado el depósito y registro que se establece en el presente párrafo.
-
-Dentro del plazo máximo de noventa días siguientes a la obtención de la personalidad jurídica, la organización deberá convocar a una asamblea extraordinaria, en la que se elegirá a su órgano directivo definitivo.
-
-El directorio, que podrán integrar alcaldes y concejales, ejercerá la administración de la asociación, estará constituido por un mínimo de cinco miembros y deberá contemplar, a lo menos, los cargos de presidente, secretario y tesorero. La presidencia corresponderá a uno de los alcaldes de las municipalidades que componen la respectiva asociación. El presidente del directorio lo será también de la asociación y tendrá su representación judicial y extrajudicial.
-
-Un reglamento establecerá las normas sobre asambleas, elección del directorio y demás órganos de la asociación, reforma de sus estatutos, derechos y obligaciones de sus miembros, registro de afiliados, aprobación del presupuesto y del plan de trabajo anual, disolución y demás disposiciones relativas a la organización, facultades y funcionamiento de las asociaciones que se constituyan en conformidad a las normas de este párrafo.
-
-#### Artículo 142
-
-Existirá un Registro Único de Asociaciones Municipales con personalidad jurídica de derecho privado, a cargo de la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior.
-
-Cualquiera asociación municipal podrá solicitar de la citada Subsecretaría el otorgamiento de un certificado que dé cuenta de su inscripción en el Registro.
-
-La Subsecretaría de Desarrollo Regional y Administrativo mantendrá el Registro permanentemente actualizado, siendo accesible vía internet, en forma gratuita y sin exigencia de clave para el ingreso de los usuarios.
-
-El reglamento señalará las demás disposiciones relativas a la forma, contenidos y modalidades de la información del Registro que sean indispensables para su correcta y cabal operación.
-
-#### Artículo 143
-
-Los estatutos de las asociaciones municipales deberán contener, a lo menos, las siguientes estipulaciones:
-
-a) Nombre de la asociación.
-
-b) Indicación de la comuna en que tendrá domicilio la asociación.
-
-c) Finalidades y objetivos.
-
-d) Derechos y obligaciones de sus miembros.
-
-e) Órganos de dirección y de representación y sus respectivas atribuciones.
-
-f) Tipo y número de asambleas que se realizarán durante el año, indicando las materias que en ellas podrán tratarse.
-
-g) Procedimiento y quórum para reforma de estatutos y quórum para sesionar y adoptar acuerdos.
-
-h) Normas sobre administración patrimonial y forma de fijar cuotas ordinarias y extraordinarias.
-
-i) Indicación de la Contraloría Regional ante la cual harán entrega de su contabilidad.
-
-j) Normas y procedimientos que regulen la disciplina interna, resguardando el debido proceso.
-
-k) Forma y procedimiento de incorporación y de desafiliación a la asociación, debiendo constar en ambos casos el respectivo acuerdo de concejo municipal correspondiente.
-
-l) Periodicidad con la que deben elegirse sus dirigentes, la que no podrá exceder de cuatro años.
-
-m) Forma de liquidación.
-
-Las asociaciones que se constituyan de conformidad al presente párrafo podrán acogerse a estatutos tipo que establecerá la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior mediante resolución.
-
-No podrá negarse el otorgamiento de la personalidad jurídica a las asociaciones municipales cuyos estatutos cumplan con los requisitos que la presente ley establece al efecto.
-
-#### Artículo 144
-
-Las asociaciones deberán dar cumplimiento permanente a sus estatutos.
-
-El representante de la respectiva asociación deberá comunicar al Ministerio del Interior, a través de la Subsecretaría de Desarrollo Regional y Administrativo, dentro del plazo de 30 días, toda modificación que se introduzca a sus estatutos, domicilio legal o composición de los órganos directivos.
-
-La Subsecretaría de Desarrollo Regional y Administrativo estará facultada para fiscalizar el cumplimiento de lo dispuesto en los incisos anteriores, para lo cual podrá solicitar, tanto a las asociaciones como a las municipalidades que las conformen, toda la información necesaria para verificar el cumplimiento de sus estatutos.
-
-#### Artículo 145
-
-Las asociaciones municipales constituidas conforme a las disposiciones del presente párrafo dispondrán de patrimonio propio, que será gestionado de acuerdo a la voluntad mayoritaria de sus socios, y que estará formado por las cuotas de incorporación, cuotas ordinarias y cuotas extraordinarias, determinadas con arreglo a los estatutos; por donaciones; por el producto de bienes y servicios; por la venta de activos y por erogaciones, subvenciones y aportes provenientes de personas naturales o jurídicas, de las municipalidades, o entidades públicas, nacionales o internacionales; y, demás bienes que adquieran a su nombre.
-
-Con todo, sólo serán sujeto de subvenciones provenientes de entidades públicas nacionales, fondos concursables o todo otro aporte de recursos de esta naturaleza, aquellas asociaciones que se encuentren vigentes en el Registro Único de Asociaciones Municipales, establecido en el artículo 142.
-
-Las municipalidades socias no podrán otorgar garantías reales, ni cauciones de ninguna especie, respecto de las obligaciones que puedan contraer las asociaciones a las que pertenezcan.
-
-#### Artículo 146
-
-La disolución de una asociación de municipalidades deberá ser decidida por la mayoría absoluta de la Asamblea de socios, debiendo constar dicho acuerdo en un acta reducida a escritura pública, de la que deberá notificarse a la Subsecretaría de Desarrollo Regional y Administrativo, en el plazo de 30 días desde su fecha de suscripción.
-
-En este caso los bienes serán destinados al pago de obligaciones pendientes. De existir un remanente, luego de servir tales obligaciones, éste deberá restituirse a las municipalidades socias, a través de un procedimiento de liquidación establecido en el reglamento indicado en el artículo 141.
-
-#### Artículo 147
-
-El personal que labore en las asociaciones municipales de que trata el presente párrafo se regirá por las normas laborales y previsionales del sector privado.
-
-#### Artículo 148
-
-A estas asociaciones les será aplicable, en forma supletoria, lo dispuesto en los artículos 549 a 558 del Código Civil.
-
-#### Artículo 149
-
-A las asociaciones municipales les serán aplicables tanto el principio de publicidad de la función pública, consagrado en el inciso segundo del artículo 8º de la Constitución Política de la República, como las normas de la Ley de Transparencia y de Acceso a la Información de la Administración del Estado, contenidas en el artículo 1º de la ley Nº 20.285.
-
-#### Artículo 150
-
-Sin perjuicio de lo dispuesto en el artículo 136, la Contraloría General de la República podrá ejercer sus facultades de fiscalización y control sobre las asociaciones municipales de que trata este párrafo, respecto de su patrimonio, cualquiera sea su origen.
-
 TITULO FINAL
 
-#### Artículo 151
+#### Artículo 141
 
 Los reclamos que se interpongan en contra de las resoluciones u omisiones ilegales de la municipalidad se sujetarán a las reglas siguientes:
 
 a) Cualquier particular podrá reclamar ante el alcalde contra sus resoluciones u omisiones o las de sus funcionarios, que estime ilegales, cuando éstas afecten el interés general de la comuna. Este reclamo deberá entablarse dentro del plazo de treinta días, contado desde la fecha de publicación del acto impugnado, tratándose de resoluciones, o desde el requerimiento de las omisiones;
 
-b) El mismo reclamo podrán entablar ante el alcalde los particulares agraviados por toda resolución u omisión de funcionarios, que estimen ilegales, dentro del plazo señalado en la letra anterior, contado desde la notificación administrativa de la resolución reclamada o desde el requerimiento, en el caso de las omisiones;
+b) El mismo reclamo podrán entablar ante el alcalde los particulares agraviados por toda resolución u omisión de éste o de otros funcionarios, que estimen ilegales, dentro del plazo señalado en la letra anterior, contado desde la notificación administrativa de la resolución reclamada o desde el requerimiento, en el caso de las omisiones;
 
 c) Se considerará rechazado el reclamo si el alcalde no se pronunciare dentro del término de quince días, contado desde la fecha de su recepción en la municipalidad;
 
@@ -2470,29 +1508,27 @@ h) La corte, en su sentencia, si da lugar al reclamo, decidirá u ordenará, seg
 
 i) Cuando se hubiere dado lugar al reclamo, el interesado podrá presentarse a los tribunales ordinarios de justicia para demandar, conforme a las reglas del juicio sumario, la indemnización de los perjuicios que procedieren y ante el Ministerio Público, la investigación criminal que correspondiere. En ambos casos, no podrá discutirse la ilegalidad ya declarada.
 
-No obstante lo anterior, los reclamos que se interpongan contra las resoluciones que emita la unidad encargada de obras municipales en el ejercicio de las funciones descritas en la letra a) del inciso primero del artículo 24 de la presente ley deberán ajustarse a las reglas que disponga la Ley General de Urbanismo y Construcciones.
-
-#### Artículo 152
+#### Artículo 142
 
 Las municipalidades incurrirán en responsabilidad por los daños que causen, la que procederá principalmente por falta de servicio.
 
 No obstante, las municipalidades tendrán derecho a repetir en contra del funcionario que hubiere incurrido en falta personal.
 
-#### Artículo 153
+#### Artículo 143
 
 Los plazos de días establecidos en esta ley serán de días hábiles.
 
 No obstante, los plazos de días establecidos en los artículos 62 y 82, letra c), así como en el Título V "De las elecciones municipales", serán de días corridos.
 
-#### Artículo 154
+#### Artículo 144
 
 Derógase el Decreto Ley Nº 1.289, de 1975.
 
-#### Artículo 155
+#### Artículo 145
 
 Instalada una nueva municipalidad, el o los municipios originarios le traspasarán en el plazo de seis meses, los servicios municipales y sus establecimientos o sedes, ubicados en el territorio comunal que estén a su cargo en virtud de las normas que estableció el Decreto con Fuerza de Ley Nº 1-3.063, de 1980, del Ministerio del Interior.
 
-#### Artículo 156
+#### Artículo 146
 
 El traspaso de los servicios municipales y sus establecimientos o sedes se efectuará en forma definitiva, mediante la celebración de un convenio entre las respectivas municipalidades, el cual deberá considerar entre otros los siguientes aspectos:
 
@@ -2516,49 +1552,11 @@ Asimismo, seguirán siendo aplicables a dicho personal las normas previsionales 
 
 #### Artículo 2º
 
-Mientras no se dicte la ley a que se refiere el artículo 126, inciso primero, de la Constitución Política, las cuestiones de competencia que se susciten entre municipalidades de una misma provincia serán resueltas por el delegado presidencial provincial respectivo y aquellas que se produzcan entre municipalidades pertenecientes a distintas provincias, por el delegado presidencial regional que corresponda.
+Mientras no se dicte la ley a que se refiere el artículo 126, inciso primero, de la Constitución Política, las cuestiones de competencia que se susciten entre municipalidades de una misma provincia serán resueltas por el gobernador respectivo y aquellas que se produzcan entre municipalidades pertenecientes a distintas provincias, por el intendente que corresponda.
 
 #### Artículo 3º
 
 Para los efectos de lo dispuesto en el artículo 19 de esta ley, en tanto no se apruebe un nuevo censo de habitantes, se aplicará el censo efectuado en 1982, y en el caso de creación de comunas nuevas o traspaso de territorios efectuados con posterioridad a dicho censo, se considerará la población que señale el informe oficial que emita el Instituto Nacional de Estadísticas.
-
-#### Artículo 4°
-
-En aquellas municipalidades pertenecientes a las regiones declaradas zonas de catástrofe, en conformidad al decreto supremo N° 150, de 2010, del Ministerio del Interior, el plazo a que se refiere el inciso primero del artículo 67 de esta ley se extenderá hasta el 31 de agosto de 2010.
-
-#### Artículo 5º
-
-La ordenanza a que alude el artículo 93 y el reglamento señalado en el artículo 94 deberán dictarse dentro del plazo de 180 días siguientes a la fecha de publicación de la presente ley.
-
-Los consejos comunales de organizaciones de la sociedad civil deberán quedar instalados en el plazo de 60 días, contado desde la fecha de publicación del reglamento mencionado en el inciso precedente.
-
-#### Artículo 6º
-
-No obstante lo dispuesto
-
-en el artículo 106, la próxima elección
-
-municipal se realizará el día domingo 23
-
-de octubre de 2016.
-
-#### Artículo 7
-
-El alcalde deberá convocar a la primera sesión del consejo comunal de seguridad pública dentro del plazo de noventa días contado desde la publicación de la presente ley.
-
-Las obligaciones relativas al plan comunal de seguridad pública, en tanto, deberán cumplirse dentro de los ciento ochenta días siguientes a la total tramitación del acto administrativo que apruebe un convenio celebrado entre el municipio y la Subsecretaría de Prevención del Delito, el cual podrá generar transferencias de recursos para dicho plan, conforme a la disponibilidad presupuestaria de esta última institución. Deberá dejarse expresa constancia en este convenio que su aprobación traerá aparejado el cumplimiento de las obligaciones referidas en el presente inciso.
-
-Asimismo, los convenios referidos en el inciso anterior podrán transferir recursos, con el objeto de que el municipio disponga de una persona para que desempeñe las funciones establecidas en el artículo 16 bis, cuando no cuente con disponibilidad presupuestaria inmediata para proveerlo.
-
-Sin perjuicio de lo anterior, las municipalidades podrán someterse voluntariamente a las obligaciones relativas al plan comunal de seguridad pública antes de la celebración del convenio referido en el inciso segundo. Para esto, deberán dictar un decreto alcaldicio que así lo determine, debiendo el alcalde presentar el primer plan comunal de seguridad pública dentro de los ciento ochenta días siguientes a su dictación.
-
-Con todo, sólo se procederá a la suscripción de los convenios referidos en el inciso segundo, o a la incorporación voluntaria mediante decreto alcaldicio señalada en el inciso anterior, una vez que se publique la resolución de la Subsecretaría de Prevención del Delito que aprueba las orientaciones técnicas y el formato de plan comunal de seguridad pública a que hace referencia el artículo 104 F, en el plazo de noventa días siguientes a la publicación de la ley.
-
-La Ley de Presupuestos del Sector Público anualmente indicará los montos a transferir en virtud de los convenios celebrados entre la Subsecretaría de Prevención del Delito y los municipios en el marco de esta ley, en comunas que se seleccionarán en base a criterios objetivos.
-
-#### Artículo octavo
-
-transitorio.- El encargado de la Unidad de Gestión del Riesgo de Desastres a que alude el artículo 26 ter se financiará con recursos municipales o, en caso de no existir el cargo en el municipio, se financiará a profesionales o técnicos de nivel superior para desempeñar labores que fortalezcan la aplicación de los Instrumentos de Gestión del Riesgo de Desastres, que contempla la ley que establece el Sistema Nacional Prevención y Respuesta ante Desastres, como parte del convenio a que se refiere el artículo 41 de dicha ley.
 
 Anótese, tómese razón y publíquese.- Andrés Zaldívar Larraín, Vicepresidente de la República.-
 
