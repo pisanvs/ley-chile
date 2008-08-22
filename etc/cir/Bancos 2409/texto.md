@@ -508,75 +508,75 @@ posteriores que pueden haber derogado, expresa o tácitamente, parte de su
 
 contenido.
 
-CAPITULO 1-1 (Bancos y Financieras)
+## Capítulo 1-1
 
-MATERIA:
+LEY N° 18.046 SOBRE SOCIEDADES ANÓNIMAS Y SU REGLAMENTO, EN RELACIÓN CON LOS BANCOS.
 
-DISPOSICIONES DE LA LEY N° 18.046 SOBRE SOCIEDADES ANONIMAS Y SU REGLAMENTO, EN RELACION CON LAS INSTITUCIONES FINANCIERAS.
+### 1. Explicación previa
 
-1.- Explicación previa.
+La Ley N° 18.046 sobre Sociedades Anónimas, publicada en el Diario Oficial de 22 de Octubre de 1981, tiene especial importancia para los bancos, por cuanto estas instituciones en nuestra legislación deben revestir la forma de sociedad anónima y regirse por las disposiciones aplicables a éstas en todo lo que no se oponga o resulte inconciliable con la Ley General de Bancos (D.F.L N° 3, de 1997).
 
-La Ley N° 18.046 sobre Sociedades Anónimas, publicada en el Diario Oficial de 22 de Octubre de 1981, tiene especial importancia para los bancos y sociedades financieras, por cuanto estas instituciones en nuestra legislación deben revestir la forma de sociedad anónima y regirse por las disposiciones aplicables a éstas en todo lo que no se oponga o resulte inconciliable con la Ley General de Bancos (D F L N° 3, de 1997).
+La Ley N° 18.046 distingue entre sociedades anónimas abiertas y cerradas. Los bancos se rigen siempre por las normas de las sociedades anónimas abiertas.
 
-La Ley N° 18046 distingue entre sociedades anónimas abiertas y cerradas Los bancos y sociedades financieras se rigen siempre por las normas de las sociedades anónimas abiertas.
+Si bien las sociedades anónimas, en general, nacen a la vida jurídica sin intervención del organismo fiscalizador, en el caso de los bancos nacionales o sucursales de bancos extranjeros, la Ley General de Bancos establece una reglamentación para su establecimiento y modificaciones de estatutos en que tiene intervención esta Superintendencia. Esta normativa se encuentra contenida en los artículos 27 a 32 de la Ley General de Bancos que señalan los trámites que deben cumplirse para instalar bancos nacionales o sucursales de bancos extranjeros y para modificar sus estatutos.
 
-Si bien las sociedades anónimas, en general, nacen a la vida jurídica sin intervención del organismo fiscalizador, en el caso de los bancos nacionales o sucursales de bancos extranjeros, la Ley General de Bancos establece una reglamentación para su establecimiento y modificaciones de estatutos en que tiene intervención esta Superintendencia Esta normativa se encuentra contenida los artículos 27 a 32 de la Ley General de Bancos que señalan los trámites que deben cumplirse para instalar bancos nacionales o sucursales de bancos extranjeros y para modificar sus estatutos. Las normas sobre bancos nacionales son también aplicables a las sociedades financieras.
-
-2.- Formas como se aplican las normas de las sociedades anónimas a los bancos y sociedades financieras.
+2. Formas como se aplican las normas de las sociedades anónimas a los bancos.
 
 El artículo 41 de la Ley General de Bancos expresa lo siguiente:
 
 #### Artículo 41
 
-Los bancos se rigen por la presente ley "y, en subsidio por las disposiciones aplicables a las "sociedades anónimas abiertas en cuanto puedan conciliarse o "no se opongan a sus preceptos.
+Los bancos se rigen por la presente ley y, en subsidio por las disposiciones aplicables a las sociedades anónimas abiertas en cuanto puedan conciliarse o no se opongan a sus preceptos.
 
-No se aplicarán a los bancos las normas que la "ley de sociedades anónimas contempla sobre las siguientes "materias:
+No se aplicarán a los bancos las normas que la ley de sociedades anónimas contempla sobre las siguientes materias:
 
-a) Exigencia de acuerdo de junta de accionistas "para prestar avales o fianzas simples y solidarias;
+a) Exigencia de acuerdo de junta de accionistas para prestar avales o fianzas simples y solidarias;
 
-b) Derecho de retiro anticipado de accionistas; Y,
+b) Derecho de retiro anticipado de accionistas; y,
 
 c) Consolidación de balances".
 
-El artículo transcrito es igualmente aplicable a las sociedades financieras en virtud de lo que dispone el artículo 113 de la Ley General de Bancos.
-
-La disposición general establece la plena primacía de la Ley General de Bancos cuando en ella exista un precepto al cual se oponga uno de la ley de sociedades anónimas o con el cual resulte inconciliable A continuación se analiza el articulado de la Ley N° 18.046 conjuntamente con su Reglamento fijado por el DS N° 587 del Ministerio de Hacienda, publicado en el Diario Oficial del 13 de noviembre de 1982. Se examina en cada caso la aplicabilidad a bancos y sociedades financieras de los artículos de la ley y de las disposiciones complementarias del Reglamento.
+La disposición general establece la plena primacía de la Ley General de Bancos cuando en ella exista un precepto al cual se oponga uno de la ley de sociedades anónimas o con el cual resulte inconciliable. A continuación se analiza el articulado de la Ley N° 18.046 conjuntamente con su Reglamento fijado por el D.S. N° 587 del Ministerio de Hacienda, publicado en el Diario Oficial del 13 de noviembre de 1982. Se examina en cada caso la aplicabilidad a bancos de los artículos de la ley y de las disposiciones complementarias del Reglamento:
 
 #### Artículo 1°
 
-Define la sociedad anónima y su carácter mercantil y es aplicable
+Define la sociedad anónima y su carácter mercantil y es aplicable.
 
 #### Artículo 2°
 
-Complementado por el artículo 1° del Reglamento, divide las sociedades anónimas en abiertas y cerradas. Los bancos y sociedades financieras se rigen por las normas de las abiertas, de acuerdo al artículo 41 antes citado. Los incisos cuarto, quinto y sexto no son aplicables, pues los bancos y sociedades financieras están fiscalizados por esta Superintendencia.
+Complementado por el artículo 1° del Reglamento, divide las sociedades anónimas en abiertas y cerradas. Los bancos se rigen por las normas de las abiertas, de acuerdo al artículo 41 antes citado. Los incisos cuarto, quinto y sexto no son aplicables, pues los bancos están fiscalizados por esta Superintendencia.
 
 El inciso séptimo tiene importancia al expresar que cuando la ley se refiere a sociedades sometidas a la fiscalización de la Superintendencia se entienden las sociedades abiertas, lo que servirá para comprender el ámbito de aplicación de algunas normas de la ley.
 
 #### Artículo 3°
 
-Sus incisos segundo y tercero, adicionados por el artículo 5° del Reglamento, son complementarios de los artículos 27 a 31 de la Ley General de Bancos que tratan sobre la constitución y modificación de estatutos de los bancos y sociedades financieras.
+Sus incisos segundo y tercero, adicionados por el artículo 5° del Reglamento, son complementarios de los artículos 27 a 31 de la Ley General de Bancos que tratan sobre la constitución y modificación de estatutos de los bancos.
 
-ARTICULOS 4° a y 5°A. Expresa lo que deben contener los estatutos y se aplica a bancos y sociedades financieras, los que además se rigen en esta materia por el artículo 42 de la Ley General de Bancos.
+Artículos 4° y 5°A
+
+Expresa lo que deben contener los estatutos y se aplica a bancos, los que además se rigen en esta materia por el artículo 42 de la Ley General de Bancos.
 
 #### Artículo 5°
 
-No se aplica a bancos y sociedades financieras ya que en su constitución y modificación el Notario no extracta la escritura, sino que la Superintendencia, una vez aprobada, otorga un certificado sobre el contenido de ella.
+No se aplica a bancos ya que en su constitución y modificación el Notario no extracta la escritura, sino que la Superintendencia, una vez aprobada, otorga un certificado sobre el contenido de ella.
 
-ARTICULOS 6° y 6°A. La nulidad de la sociedad de que tratan estos artículos es aplicable a los bancos y sociedades financieras.
+Artículos 6° y 6°A
 
-Hay que tener presente acerca de esta materia las normas sobre nulidad de las sociedades anónimas especiales que establece el artículo 128 de la Ley N° 18046.
+La nulidad de la sociedad de que tratan estos artículos es aplicable a los bancos.
+
+Hay que tener presente acerca de esta materia las normas sobre nulidad de las sociedades anónimas especiales que establece el artículo 128 de la Ley N° 18.046.
 
 #### Artículo 7°
 
-Este artículo impone la obligación de mantener a disposición de los accionistas, tanto en la sede principal como en las agencias o sucursales, un estatuto certificado y al día, y una lista actualizada de accionistas con indicación del número de acciones de cada uno. Esta disposición es aplicable a bancos y sociedades financieras.
+Este artículo impone la obligación de mantener a disposición de los accionistas, tanto en la sede principal como en las agencias o sucursales, un estatuto certificado y al día, y una lista actualizada de accionistas con indicación del número de acciones de cada uno. Esta disposición es aplicable a bancos.
 
 #### Artículo 8°
 
-Trata del nombre de la sociedad anónima y se aplica a bancos y sociedades financieras, salvo en cuanto en éstos no es obligatorio que el nombre contenga la expresión sociedad anónima o la abreviatura S A., atendida la norma especial del articulo 42 N° 1 de la Ley General de Bancos.
+Trata del nombre de la sociedad anónima y se aplica a bancos, salvo en cuanto en éstos no es obligatorio que el nombre contenga la expresión sociedad anónima o la abreviatura S.A., atendida la norma especial del artículo 42 N° 1 de la Ley General de Bancos.
 
 #### Artículo 9°
 
-No es compatible con la Ley General de bancos que establece un objeto único y exclusivo para las instituciones financieras.
+No es compatible con la Ley General de Bancos que establece un objeto único y exclusivo para los bancos.
 
 #### Artículo 10
 
@@ -584,9 +584,11 @@ Adicionado por los artículos 6°, 7° y 8° del Reglamento, trata del capital d
 
 #### Artículo 11
 
-Este artículo sobre el capital y las acciones, complementado por los artículos 9°, 10 y 11 del Reglamento, es aplicable salvo en cuanto al capital mínimo que se exige a los bancos y sociedades financieras.
+Este artículo sobre el capital y las acciones, complementado por los artículos 9°, 10 y 11 del Reglamento, es aplicable salvo en cuanto al capital mínimo que se exige a los bancos.
 
-ARTICULOS 12 a 14. Estos artículos tienen diversas complementaciones en el Reglamento, todas ellas aplicables a bancos y sociedades financieras, las que se indican a continuación:
+Artículos 12 a 14
+
+Estos artículos tienen diversas complementaciones en el Reglamento, todas ellas aplicables a bancos, las que se indican a continuación:
 
 a) Los artículos 13 y 14 del Reglamento establecen normas sobre el Registro de Accionistas.
 
@@ -600,7 +602,7 @@ Adicionado por el artículo 22 del Reglamento es complementario del artículo 49
 
 #### Artículo 16
 
-Hace reajustables en UF los saldos insolutos de acciones suscritas y no pagadas y da normas acerca de los titulares que no han pagado en su totalidad el precio. Es aplicable a bancos y sociedades financieras, salvo en cuanto se refiere a acciones en moneda extranjera. Tales reajustes pasarán a formar parte de sus reservas, en el caso de los bancos y sociedades financieras.
+Hace reajustables en U.F. los saldos insolutos de acciones suscritas y no pagadas y da normas acerca de los titulares que no han pagado en su totalidad el precio. Es aplicable a bancos, salvo en cuanto se refiere a acciones en moneda extranjera. Tales reajustes pasarán a formar parte de sus reservas, en el caso de los bancos.
 
 #### Artículo 17
 
@@ -608,25 +610,29 @@ Plenamente aplicable.
 
 #### Artículo 18
 
-Complementado por los artículos 23, 24, 25 y 26 del Reglamento, establece un sistema de venta de acciones pertenecientes a personas fallecidas, cuyos herederos no hayan registrado las acciones a su nombre dentro de cinco años contados desde el fallecimiento Aplicable a bancos y sociedades financieras.
+Complementado por los artículos 23, 24, 25 y 26 del Reglamento, establece un sistema de venta de acciones pertenecientes a personas fallecidas, cuyos herederos no hayan registrado las acciones a su nombre dentro de cinco años contados desde el fallecimiento. Aplicable a bancos.
 
 #### Artículo 19
 
 Es aplicable.
 
-ARTICULOS 20 y 21 No se aplican, ya que el artículo 49 N°2 de la Ley General de Bancos prohíbe las acciones preferidas.
+Artículos 20 y 21
 
-ARTICULOS 22 a 26. Son aplicables.
+No se aplican, ya que el artículo 49 N°2 de la Ley General de Bancos prohíbe las acciones preferidas.
+
+ARTICULOS 22 a 26
+
+Son aplicables.
 
 El artículo 28 del Reglamento complementa el artículo 26 de la Ley en lo que respecta a la fijación del precio de las acciones.
 
-El artículo 32 del Reglamento se refiere al destino que debe darse al mayor valor de las acciones en las sociedades anónimas abiertas, caso en que se encuentran los bancos y sociedades financieras.
+El artículo 32 del Reglamento se refiere al destino que debe darse al mayor valor de las acciones en las sociedades anónimas abiertas, caso en que se encuentran los bancos.
 
 Los artículos 29, 30 y 31 del Reglamento complementan el artículo 25 de la Ley en relación con las opciones para suscribir acciones.
 
 #### Artículo 27
 
-En general, no se aplica a bancos y sociedades financieras que nunca han podido adquirir sus propias acciones, salvo que las reciban en pago conforme al artículo 84 N°5 de la Ley General de Bancos Sin embargo, pueden también hacerlo si se cumplen los requisitos contemplados en los artículos 27A, 27B y 27C y los adicionales establecidos para bancos y sociedades financieras en el artículo 27D.
+En general, no se aplica a bancos que nunca han podido adquirir sus propias acciones, salvo que las reciban en pago conforme al artículo 84 N° 5 de la Ley General de Bancos. Sin embargo, pueden también hacerlo si se cumplen los requisitos contemplados en los artículos 27A, 27B y 27C y los adicionales establecidos para bancos en el artículo 27D.
 
 #### Artículo 28
 
@@ -634,39 +640,43 @@ Con el agregado que le hace el artículo 33 del Reglamento, es complementario de
 
 #### Artículo 29
 
-Es concordante con las normas del Título XV de la Ley General de Bancos, que trata de la liquidación forzada de las instituciones financieras, y complementario de ellas.
+Es concordante con las normas del Título XV de la Ley General de Bancos, que trata de la liquidación forzada de los bancos, y complementario de ellas.
 
 #### Artículo 30
 
-Contiene una declaración de principios aplicable a bancos y sociedades financieras.
+Contiene una declaración de principios aplicable a bancos.
 
 #### Artículo 31
 
-Tanto en los bancos como en las sociedades financieras el número de directores, que debe ser fijo, puede consistir en un número impar entre 5 y 11 y su duración es de tres años, por lo que prevalece el artículo 49 N° 4 de la Ley General de Bancos sobre este precepto.
+En los bancos el número de directores, que debe ser fijo, puede consistir en un número impar entre 5 y 11 y su duración es de tres años, por lo que prevalece el artículo 49 N° 4 de la Ley General de Bancos sobre este precepto.
 
 #### Artículo 32
 
-El primer inciso dispone que, si se establecen directores suplentes, debe existir uno por cada titular. Esto no se aplica a los bancos ni a las sociedades financieras que, según el artículo 49 N° 4 de la Ley General de Bancos, no pueden tener sino hasta dos directores suplentes, cualquiera sea el número de titulares.
+El primer inciso dispone que, si se establecen directores suplentes, debe existir uno por cada titular. Esto no se aplica a los bancos que, según el artículo 49 N° 4 de la Ley General de Bancos, no pueden tener sino hasta dos directores suplentes, cualquiera sea el número de titulares.
 
-En virtud de la derogación del antiguo artículo 42 de la Ley General de Bancos, que trataba sobre la forma de reemplazar a los directores cuyo cargo vacara durante el período en que se estaban desempeñando y al no ser compatible el sistema que este artículo 32 contempla para las sociedades anónimas con las normas sobre bancos y sociedades financieras, debe aplicarse lo que establezca el estatuto de cada institución financiera sobre este punto.
+En virtud de la derogación del antiguo artículo 42 de la Ley General de Bancos, que trataba sobre la forma de reemplazar a los directores cuyo cargo vacara durante el período en que se estaban desempeñando y al no ser compatible el sistema que este artículo 32 contempla para las sociedades anónimas con las normas sobre bancos, debe aplicarse lo que establezca el estatuto de cada banco sobre este punto.
 
-Finalmente, este artículo es complementaria de la Ley General de Bancos, tanto para bancos como para -sociedades financieras que tengan directores suplente en cuanto establece el derecho de éstos a participar en las sesiones con derecho a voz y les concede derecho a voto sólo cuando falta el titular, es decir, cuando el suplente reemplaza o entra a ocupar una vacante. En ningún caso podría votar con motivo de la abstención de un titular que asiste a la reunión.
+Finalmente, este artículo es complementario de la Ley General de Bancos, para los bancos que tengan directores suplentes, en cuanto establece el derecho de éstos a participar en las sesiones con derecho a voz y les concede derecho a voto sólo cuando falta el titular, es decir, cuando el suplente reemplaza o entra a ocupar una vacante. En ningún caso podría votar con motivo de la abstención de un titular que asiste a la reunión.
 
 #### Artículo 33
 
-Las normas de este artículo, sobre remuneración de los directores, complementadas por los artículos 35 y 36 del Reglamento, son plenamente aplicables a bancos y sociedades financieras.
+Las normas de este artículo, sobre remuneración de los directores, complementadas por los artículos 35 y 36 del Reglamento, son plenamente aplicables a bancos.
 
 #### Artículo 34
 
 Es plenamente aplicable.
 
-ARTICULOS 35 y 36. Complementados por el artículo 37 del Reglamento, establecen diversas inhabilidades para ser director, algunas de las cuales son complementarias de las que contiene el artículo 49 N°s. 5 y 7 de la Ley General de Bancos. Son aplicables. Se establece que no pueden ser directores los corredores de bolsa y los agentes de valores.
+Artículos 35 y 36
+
+Complementados por el artículo 37 del Reglamento, establecen diversas inhabilidades para ser director, algunas de las cuales son complementarias de las que contiene el artículo 49 N°s. 5 y 7 de la Ley General de Bancos. Son aplicables. Se establece que no pueden ser directores los corredores de bolsa y los agentes de valores.
 
 #### Artículo 37
 
 Es aplicable.
 
-ARTICULOS 38 a 41. Se aplican como complementarios de la Ley General de Bancos.
+Artículos 38 a 41
+
+Se aplican como complementarios de la Ley General de Bancos.
 
 #### Artículo 42
 
@@ -674,37 +684,43 @@ Las siete prohibiciones generales que contiene este artículo son también compl
 
 #### Artículo 43
 
-La reserva que establece este artículo es aplicable a bancos y sociedades financieras, los que, además, están sujetos al secreto o reserva bancaria.
+La reserva que establece este artículo es aplicable a bancos, los que, además, están sujetos al secreto o reserva bancaria.
 
 #### Artículo 44
 
-La Ley General de Bancos establece en su artículo 84 N° 4 una restricción a las operaciones de crédito que una institución financiera puede realizar con sus trabajadores. Asimismo, prohíbe a dichas entidades conceder, directa o indirectamente, créditos a un director o a cualquiera persona que se desempeñe en ella como apoderado general. Las demás operaciones bancarias y financieras no tienen restricción legal para los directores o empleados de un banco o sociedad financiera en la Ley General de Bancos.
+La Ley General de Bancos establece en su artículo 84 N° 4 una restricción a las operaciones de crédito que un banco puede realizar con sus trabajadores.
 
-Por ello, el artículo 44 y sus consecuencias en el artículo 42 N° 5, sólo tienen aplicación en los casos de otros actos o contratos que no son propiamente operaciones bancarias, que los directores del banco o sociedad financiera, sus parientes, sus mandantes, o las sociedades de que formen parte, realicen con la institución financiera. Por ejemplo, se aplicará lo dispuesto en ese precepto a un director que venda una propiedad al banco, a la cónyuge de un director que compre un automóvil a la misma empresa, a una sociedad de la que un director forme parte o tenga participación y que celebre un contrato de construcción con el banco, a una agencia de valores perteneciente a un director o gerente en que éste tenga intereses, que realice operaciones de compra o venta de valores mobiliarios por intermedio o con el agente de valores, etc. Pero, si se trata de que un director o las sociedades de que forme parte depositen o abran cuenta corriente en el banco o para que tales sociedades le encomienden cobranzas o le den mandato de comisiones de confianza, no será necesario cumplir con el artículo 44 de la Ley N° 18046.
+Asimismo, prohíbe a los bancos conceder, directa o indirectamente, créditos a un director o a cualquiera persona que se desempeñe en él como apoderado general.
+
+Las demás operaciones bancarias y financieras no tienen restricción legal para los directores o empleados de un banco en la Ley General de Bancos.
+
+Por ello, el artículo 44 y sus consecuencias en el artículo 42 N° 5, sólo tienen aplicación en los casos de otros actos o contratos que no son propiamente operaciones bancarias, que los directores del banco, sus parientes, sus mandantes, o las sociedades de que formen parte, realicen con el banco. Por ejemplo, se aplicará lo dispuesto en ese precepto a un director que venda una propiedad al banco, a la cónyuge de un director que compre un automóvil a la misma empresa, a una sociedad de la que un director forme parte o tenga participación y que celebre un contrato de construcción con el banco, a una agencia de valores perteneciente a un director o gerente en que éste tenga intereses, que realice operaciones de compra o venta de valores mobiliarios por intermedio o con el agente de valores, etc. Pero, si se trata de que un director o las sociedades de que forme parte depositen o abran cuenta corriente en el banco o para que tales sociedades le encomienden cobranzas o le den mandato de comisiones de confianza, no será necesario cumplir con el artículo 44 de la Ley N° 18.046.
 
 #### Artículo 45
 
-Los casos precisos de responsabilidad solidaria para los directores son aplicables a bancos y sociedades financieras.
+Los casos precisos de responsabilidad solidaria para los directores son aplicables a bancos.
 
 #### Artículo 46
 
-La obligación de información fidedigna a accionistas y público es complementaria de las disposiciones aplicables a bancos y sociedades financieras.
+La obligación de información fidedigna a accionistas y público es complementaria de las disposiciones aplicables a bancos.
 
 #### Artículo 47
 
-Complementado por los artículos 38, 39 y 40 del Reglamento, es aplicable a bancos y sociedades financieras y a esta Superintendencia por efecto del artículo 26 de la Ley General de Bancos.
+Complementado por los artículos 38, 39 y 40 del Reglamento, es aplicable a bancos y a esta Superintendencia por efecto del artículo 26 de la Ley General de Bancos.
 
 #### Artículo 48
 
 Es aplicable. Esta disposición se complementa con el artículo 41 del Reglamento.
 
-ARTICULOS 49 y 50. Adicionados por el artículo 42 del Reglamento, son complementarios de la Ley General de Bancos, sin perjuicio de que, según el artículo 49 N° 8 de dicha ley, el cargo de director es compatible con el de gerente por no más de noventa días.
+Artículos 49 y 50.
+
+Adicionados por el artículo 42 del Reglamento, son complementarios de la Ley General de Bancos, sin perjuicio de que, según el artículo 49 N° 8 de dicha ley, el cargo de director es compatible con el de gerente por no más de noventa días.
 
 #### Artículo 50 bis
 
-Trata del comité de directores Es aplicable, en forma obligatoria, a los bancos y sociedades financieras cuyo patrimonio bursátil sea igual o superior al equivalente de 1.500.000 unidades de fomento Se entiende por patrimonio bursátil, para estos efectos, aquel definido en el N° 1 de la Circular N° 1526 de la Superintendencia de Valores y Seguros, del 19 de febrero de 2001.
+Trata del comité de directores. Es aplicable, en forma obligatoria, a los bancos cuyo patrimonio bursátil sea igual o superior al equivalente de 1.500.000 unidades de fomento. Se entiende por patrimonio bursátil, para estos efectos, aquel definido en el N° 1 de la Circular N° 1.526 de la Superintendencia de Valores y Seguros, del 19 de febrero de 2001.
 
-Los bancos y sociedades financieras cuyo patrimonio bursátil sea inferior a 1500000 unidades de fomento, podrán acogerse voluntariamente a las disposiciones de este artículo.
+Los bancos cuyo patrimonio bursátil sea inferior a 1.500.000 unidades de fomento, podrán acogerse voluntariamente a las disposiciones de este artículo.
 
 #### Artículo 51
 
@@ -712,7 +728,7 @@ No se aplica por tratar sobre sociedades cerradas.
 
 #### Artículo 52
 
-Exige contratar auditores externos y permite la designación de inspectores de cuentas Es complementario del artículo 16 de la Ley General de Bancos Aclara que los auditores externos deben ser designados por la Junta Ordinaria de Accionistas.
+Exige contratar auditores externos y permite la designación de inspectores de cuentas. Es complementario del artículo 16 de la Ley General de Bancos. Aclara que los auditores externos deben ser designados por la Junta Ordinaria de Accionistas.
 
 #### Artículo 53
 
@@ -722,15 +738,17 @@ Es claro que se aplica el inciso segundo que contempla la responsabilidad de los
 
 Complementado por el artículo 61 del Reglamento, es aplicable.
 
-ARTICULOS 55 a 58 Tratan de la Junta de Accionistas Debe tenerse presente que, por expresa disposición del artículo 41 de la Ley General de Bancos, no se requiere junta para que el banco se constituya en aval o fiador simple o solidario. Es evidente que tampoco se requiere aprobación de junta para otorgar boletas de garantía, que es una operación propiamente bancaria. En lo demás, son aplicables.
+Artículos 55 a 58
+
+Tratan de la Junta de Accionistas. Debe tenerse presente que, por expresa disposición del artículo 41 de la Ley General de Bancos, no se requiere junta para que el banco se constituya en aval o fiador simple o solidario. Es evidente que tampoco se requiere aprobación de junta para otorgar boletas de garantía, que es una operación propiamente bancaria. En lo demás, son aplicables.
 
 #### Artículo 59
 
-La citación a junta se rige por el artículo 62 del Reglamento. La junta ordinaria debe designar un periódico del domicilio social para efectuar la citación. Si no se efectúa la designación, hay que publicarla en el Diario Oficial. Rige para bancos y sociedades financieras.
+La citación a junta se rige por el artículo 62 del Reglamento. La junta ordinaria debe designar un periódico del domicilio social para efectuar la citación. Si no se efectúa la designación, hay que publicarla en el Diario Oficial. Rige para bancos.
 
 #### Artículo 60
 
-Es aplicable a bancos y sociedades financieras.
+Es aplicable a bancos.
 
 #### Artículo 61
 
@@ -738,7 +756,7 @@ Complementado por el artículo 62 del Reglamento, es aplicable.
 
 #### Artículo 62
 
-Contiene normas aplicables a bancos y sociedades financieras. El artículo 104 del Reglamento aclara que el plazo que establece este artículo es de días hábiles.
+Contiene normas aplicables a bancos. El artículo 104 del Reglamento aclara que el plazo que establece este artículo es de días hábiles.
 
 #### Artículo 63
 
@@ -748,7 +766,7 @@ Contiene disposiciones complementarias del artículo 48 de la Ley General de Ban
 
 Es plenamente aplicable, como también lo son los artículos 63, 64, 65, 66 y 67 del Reglamento.
 
-Las normas sobre calificación de poderes en sociedades abiertas que contienen los artículos 66 a 70 del Reglamento se aplican a esa actuación en las juntas de bancos o sociedades financieras, cuando la Superintendencia no ejercite la facultad que a ese respecto le confiere el artículo 48 de la Ley General de Bancos. Para ello podrá recurrirse a la Superintendencia de Valores y Seguros, a fin de que designe un abogado calificador con ese objeto.
+Las normas sobre calificación de poderes en sociedades abiertas que contienen los artículos 66 a 70 del Reglamento se aplican a esa actuación en las juntas de bancos, cuando la Superintendencia no ejercite la facultad que a ese respecto le confiere el artículo 48 de la Ley General de Bancos. Para ello podrá recurrirse a la Superintendencia de Valores y Seguros, a fin de que designe un abogado calificador con ese objeto.
 
 #### Artículo 65
 
@@ -756,31 +774,37 @@ Es aplicable.
 
 #### Artículo 66
 
-Adicionado por el artículo 74 del Reglamento, es aplicable a bancos y sociedades financieras.
+Adicionado por el artículo 74 del Reglamento, es aplicable a bancos.
 
 #### Artículo 67
 
-Los quorum generales y especiales para las juntas son aplicables a bancos y sociedades financieras.
+Los quorum generales y especiales para las juntas son aplicables a bancos.
 
-Cabe señalar que el número 11 de este artículo no es aplicable a bancos y sociedades financieras, de acuerdo a lo prevenido en el artículo 41 letra a) de la Ley General de Bancos y en concordancia con lo señalado al tratar los artículos 55 a 58.
+Cabe señalar que el número 11 de este artículo no es aplicable a bancos, de acuerdo a lo prevenido en el artículo 41 letra a) de la Ley General de Bancos y en concordancia con lo señalado al tratar los artículos 55 a 58.
 
 #### Artículo 68
 
-La privación del derecho a voto a las acciones cuyos dueños no hayan cobrado dividendos o asistido a juntas durante un lapso superior a cinco años es aplicable a bancos y sociedades financieras.
+La privación del derecho a voto a las acciones cuyos dueños no hayan cobrado dividendos o asistido a juntas durante un lapso superior a cinco años es aplicable a bancos.
 
-ARTICULOS 69 a 71 No se aplican por expresa disposición del artículo 41 de la Ley General de Bancos, ni tampoco los preceptos del Reglamento sobre esta materia.
+#### Artículo 69
+
+a 71
+
+No se aplican por expresa disposición del artículo 41 de la Ley General de Bancos, ni tampoco los preceptos del Reglamento sobre esta materia.
 
 #### Artículo 72
 
-Es aplicable a bancos y sociedades financieras
+Es aplicable a bancos.
 
-Esta disposición debe complementarse con los artículos 71, 72, 73 y 75 del Reglamento y, cuando se trate de la constitución de un banco o sociedad financiera o de la reforma de sus estatutos, con el artículo 105 del mismo texto.
+Esta disposición debe complementarse con los artículos 71, 72, 73 y 75 del Reglamento y, cuando se trate de la constitución de un banco o de la reforma de sus estatutos, con el artículo 105 del mismo texto.
 
-ARTICULOS 73 a 75 Complementados por los artículos 82, 83 y 84 del Reglamento, son aplicables a bancos y sociedades financieras, sin perjuicio de las facultades que el artículo 15 de la Ley General de Bancos da a esta Superintendencia.
+Artículos 73 a 75
+
+Complementados por los artículos 82, 83 y 84 del Reglamento, son aplicables a bancos, sin perjuicio de las facultades que el artículo 15 de la Ley General de Bancos de a esta Superintendencia.
 
 #### Artículo 76
 
-Fija la fecha de publicación del balance auditado, lo que debe hacerse con no menos de diez días ni más de veinte de anticipación a la fecha de la junta ordinaria Esto es aplicable a bancos y sociedades financieras Sin embargo, la norma que fija el mismo plazo para hacerlo llegar a la Superintendencia no rige para bancos y sociedades financieras, ya que este Organismo ha fijado en uso de sus facultades plazos diferentes de publicación que deben ser respetados. Al respecto, debe tenerse presente que el artículo 49, N°12 de la Ley General de Bancos no obliga a repetir la publicación del balance.
+Fija la fecha de publicación del balance auditado, lo que debe hacerse con no menos de diez días ni más de veinte de anticipación a la fecha de la junta ordinaria. Esto es aplicable a bancos. Sin embargo, la norma que fija el mismo plazo para hacerlo llegar a la Superintendencia no rige para bancos, ya que este Organismo ha fijado en uso de sus facultades plazos diferentes de publicación que deben ser respetados. Al respecto, debe tenerse presente que el artículo 49, N°12 de la Ley General de Bancos no obliga a repetir la publicación del balance.
 
 Las demás normas son plenamente aplicables.
 
@@ -790,45 +814,59 @@ Es aplicable.
 
 #### Artículo 78
 
-Es complementario del artículo 56 de la Ley General de Bancos
+Es complementario del artículo 56 de la Ley General de Bancos.
 
 #### Artículo 79
 
-Establece un reparto mínimo de dividendos y sobre la materia prevalece el artículo 56 de la Ley General de Bancos.
+Establece un reparto mínimo de dividendos y sobre la materia prevalece el artículo
 
-El último inciso de este artículo no rige para bancos y sociedades financieras porque el artículo 57 de la Ley General de Bancos prohíbe el reparto de dividendos provisorios.
+56 de la Ley General de Bancos.
 
-ARTICULOS 80 a 84 Son aplicables a bancos y sociedades financieras.
+El último inciso de este artículo no rige para bancos porque el artículo 57 de la Ley General de Bancos prohíbe el reparto de dividendos provisorios.
+
+Artículos 80 a 84
+
+Son aplicables a bancos.
 
 Las normas sobre dividendos opcionales, contenidas en el artículo 82, se complementan con los artículos 85 a 93 del Reglamento.
 
 #### Artículo 85
 
-Los dividendos no cobrados en bancos y sociedades financieras no se rigen por este artículo sino por el artículo 156 de la Ley General de Bancos.
+Los dividendos no cobrados en bancos no se rigen por este artículo sino por el artículo 156 de la Ley General de Bancos.
 
-ARTICULOS 86 a 93 Se aplican estos artículos a las sociedades filiales que pueden tener los bancos y sociedades financieras, sin perjuicio de las normas especiales que puedan dictarse para ellas en los casos en que la Ley autoriza.
+Artículos 86 a 93
+
+Se aplican estos artículos a las sociedades filiales que pueden tener los bancos sin perjuicio de las normas especiales que puedan dictarse para ellas en los casos en que la Ley autoriza.
 
 En todo caso, en virtud del artículo 41 de la Ley General de Bancos, no son aplicables las normas sobre consolidación de los balances de las filiales, sin perjuicio de la facultad que compete a esta Superintendencia para establecer las normas que estime pertinentes sobre esta materia.
 
-#### Artículo 94
+Artículos 94 a 100
 
-a 100. Las normas sobre divisiones, transformaciones y fusiones de sociedades que contiene este título son aplicables a bancos y sociedades financieras, en la medida que tales operaciones se concilien con la naturaleza, objeto y fines de la institución financiera.
+Las normas sobre divisiones, transformaciones y fusiones de sociedades que contiene este título son aplicables a bancos, en la medida que tales operaciones se concilien con la naturaleza, objeto y fines de la institución financiera.
 
-ARTICULOS 101 a 120. Contienen normas sobre liquidación y quiebra de sociedades que complementan las del título XV de la Ley General de Bancos y que no corresponde analizar en detalle por no pertenecer a la operación de los bancos.
+Artículos 101 a 120
 
-ARTICULOS 121 a 124 Adicionados por el artículo 107 del Reglamento, establecen las normas para las agencias de sociedades anónimas extranjeras y son complementarios del artículo 32 de la Ley General de Bancos.
+Contienen normas sobre liquidación y quiebra de sociedades que complementan las del título XV de la Ley General de Bancos y que no corresponde analizar en detalle por no pertenecer a la operación de los bancos.
+
+Artículos 121 a 124
+
+Adicionados por el artículo 107 del Reglamento, establecen las normas para las agencias de sociedades anónimas extranjeras y son complementarios del artículo 32 de la Ley General de Bancos.
 
 #### Artículo 125
 
-Trata del arbitraje que se pacte en los estatutos de sociedades anónimas y es aplicable a bancos y sociedades financieras.
+Trata del arbitraje que se pacte en los estatutos de sociedades anónimas y es aplicable a bancos.
 
-ARTICULOS 126 a 132. Tratan de sociedades anónimas especiales y no se aplican a bancos y sociedades financieras, salvo el artículo 128 sobre nulidad.
+Artículos 126 a 132
 
-ARTICULOS 133, 133 bis y 134. Son complementarios de disposiciones de la Ley General de Bancos.
+Tratan de sociedades anónimas especiales y no se aplican a bancos, salvo el artículo 128 sobre nulidad.
+
+Artículos 133, 133 bis y 134
+
+Son complementarios de disposiciones de la Ley General de Bancos.
 
 #### Artículo 135
 
-Obliga a las sociedades a llevar un registro público indicativo de sus presidentes, directores, gerentes, ejecutivos principales o liquidadores, con fechas de iniciación y término de su gestión. La certificación del registro hace fe en contra de la sociedad y a favor de accionistas o terceros. Los funcionarios de la sociedad tienen responsabilidad por sus certificaciones. Este artículo, que se complementa con el artículo 106 del Reglamento, es plenamente aplicable a bancos y sociedades financieras.
+Obliga a las sociedades a llevar un registro público indicativo de sus presidentes, directores, gerentes, ejecutivos principales o liquidadores, con fechas de iniciación y término de su gestión. La certificación del registro hace fe en contra de la sociedad y a favor de accionistas o terceros. Los funcionarios de la sociedad tienen responsabilidad por sus certificaciones. Este artículo, que se complementa con el artículo 106 del Reglamento, es plenamente aplicable a bancos.
 
 #### Artículo 136
 
@@ -836,7 +874,7 @@ Define lo que se entiende por condiciones de equidad para efectos de la ley.
 
 #### Artículo 137
 
-Declara la primacía de las disposiciones de la ley sobre cualquiera norma de los estatutos sociales que les sea contraria. En los bancos y sociedades financieras prevalece, en todo caso, como se ha expresado, la Ley General de Bancos.
+Declara la primacía de las disposiciones de la ley sobre cualquiera norma de los estatutos sociales que les sea contraria. En los bancos prevalece, en todo caso, como se ha expresado, la Ley General de Bancos.
 
 ## Capítulo 1-3
 
@@ -1146,19 +1184,19 @@ MATERIA:
 
 TRANSFERENCIA ELECTRONICA DE INFORMACION Y FONDOS.
 
-1.- Aplicación de las presentes normas.
+### 1. Aplicación de las presentes normas
 
 Las presentes normas se refieren a la prestación de servicios bancarios y la realización de operaciones interbancarias que se efectúan mediante transmisiones de mensajes o instrucciones a un computador conectado por redes de comunicación propias o de terceros, efectuadas desde otro computador o mediante el uso de otros dispositivos electrónicos (cajeros automáticos, teléfonos, PINPAD, etc.).
 
-Dichos servicios comprenden tanto las transferencias electrónicas de fondos como cualquier otra operación que se realice utilizando documentos o mensajes electrónicos, o dispositivos que permiten a los clientes de la institución financiera la ejecución automática de operaciones. Además, estas normas alcanzan también a las comunicaciones por vía electrónica que no den origen a una operación propiamente tal, cuando la información transmitida esté sujeta a secreto o reserva de acuerdo con lo establecido por la Ley General de Bancos.
+Dichos servicios comprenden tanto las transferencias electrónicas de fondos como cualquier otra operación que se realice utilizando documentos o mensajes electrónicos, o dispositivos que permiten a los clientes del banco la ejecución automática de operaciones. Además, estas normas alcanzan también a las comunicaciones por vía electrónica que no den origen a una operación propiamente tal, cuando la información transmitida esté sujeta a secreto o reserva de acuerdo con lo establecido por la Ley General de Bancos.
 
-Por transferencias electrónicas de fondos se entienden todas aquellas operaciones realizadas por medios electrónicos que originen cargos o abonos de dinero en cuentas, tales como: traspasos automatizados de fondos efectuados por un cliente de una cuenta a otra; órdenes de pago para abonar cuentas de terceros (proveedores, empleados, accionistas, etc.); utilización de tarjetas de débito en puntos de venta; recaudaciones mediante cargos a cuentas corrientes (impuestos, imposiciones previsionales, servicios, etc.); giros de dinero mediante cajeros automáticos, etc. En general, comprenden las descritas y cualquier otra operación que se efectúe por aquellos medios, en que un usuario habilitado para ello instruye o ejecuta movimientos de dinero en una o más cuentas.
+Por transferencias electrónicas de fondos se entienden todas aquellas operaciones realizadas por medios electrónicos que originen cargos o abonos de dinero en cuentas, tales como: traspasos automatizados de fondos efectuados por un cliente de una cuenta a otra; órdenes de pago para abonar cuentas de terceros (proveedores, empleados, accionistas, etc.); utilización de tarjetas de débito en puntos de venta; recaudaciones mediante cargos a cuentas corrientes (impuestos, imposiciones previsionales, servicios, etc.); giros de dinero mediante cajeros automáticos, etc.. En general, comprenden las descritas y cualquier otra operación que se efectúe por aquellos medios, en que un usuario habilitado para ello instruye o ejecuta movimientos de dinero en una o más cuentas.
 
-2.- Requisitos que deben cumplir los sistemas utilizados.
+### 2. Requisitos que deben cumplir los sistemas utilizados
 
-Para habilitar un sistema de transferencia electrónica de información o de fondos, las instituciones financieras deberán considerar el cumplimiento de los siguientes requisitos básicos:
+Para habilitar un sistema de transferencia electrónica de información o de fondos, los bancos deberán considerar el cumplimiento de los siguientes requisitos básicos:
 
-A) Para la prestación de los servicios deberá celebrarse un contrato entre la entidad financiera y el cliente, en el cual queden claramente establecidos los derechos y responsabilidades de cada una de las partes que intervienen en las operaciones.
+A) Para la prestación de los servicios deberá celebrarse un contrato entre el banco y el cliente, en el cual queden claramente establecidos los derechos y responsabilidades de cada una de las partes que intervienen en las operaciones.
 
 B) Los sistemas utilizados, junto con permitir el registro y seguimiento íntegro de las operaciones realizadas, deberán generar archivos que permitan respaldar los antecedentes de cada operación, necesarios para efectuar cualquier examen o certificación posterior, tales como, fechas y horas en que se realizaron, contenido de los mensajes, identificación de los operadores, emisores y receptores, cuentas y montos involucrados, terminales desde los cuales se operó, etc.
 
@@ -1188,25 +1226,25 @@ G) Las instituciones que contraten los servicios de una empresa de intermediaci�
 
 Dichas empresas deberán estar en condiciones de certificar, a petición de cualquiera de las partes involucradas, la validez y oportunidad de emisión y recepción de los mensajes transmitidos.
 
-En todo caso, debe tenerse presente que la generación de algunos documentos electrónicos que constituyen documentación de carácter oficial para el cumplimiento de disposiciones legales, puede requerir la realización de las correspondientes operaciones de transferencia electrónica de información y fondos a través de una empresa de servicio de intermediación electrónica, de acuerdo con las regulaciones o autorizaciones de los respectivos organismos fiscalizadores. Así ocurre, por ejemplo, con las facturas en relación con las normas del Servicio de Impuestos Internos, con las planillas de imposiciones previsionales según las instrucciones de la Superintendencia de AFP, etcétera.
+En todo caso, debe tenerse presente que la generación de algunos documentos electrónicos que constituyen documentación de carácter oficial para el cumplimiento de disposiciones legales, puede requerir la realización de las correspondientes operaciones de transferencia electrónica de información y fondos a través de una empresa de servicio de intermediación electrónica, de acuerdo con las regulaciones o autorizaciones de los respectivos organismos fiscalizadores. Así ocurre, por ejemplo, con las facturas en relación con las normas del Servicio de Impuestos Internos, con las planillas de imposiciones previsionales según las instrucciones de la Superintendencia de AFP, etc.
 
-H) Las instituciones financieras deberán ponderar la exposición al riesgo financiero y operativo de los sistemas de transferencia de que se trata y considerar, en consecuencia, las instancias internas de revisiones y autorizaciones previas que sean necesarias.
+H) Los bancos deberán ponderar la exposición al riesgo financiero y operativo de los sistemas de transferencia de que se trata y considerar, en consecuencia, las instancias internas de revisiones y autorizaciones previas que sean necesarias.
 
-Para el adecuado control de los riesgos inherentes a la utilización de estos sistemas, es necesario que las entidades financieras cuenten con profesionales capacitados para evaluarlos antes de su liberación y para mantener bajo vigilancia, mediante procedimientos de auditoría acordes con la tecnología utilizada, su funcionamiento, mantención y necesidades de adecuación de los diversos controles computacionales y administrativos que aseguran su confiabilidad.
+Para el adecuado control de los riesgos inherentes a la utilización de estos sistemas, es necesario que los bancos cuenten con profesionales capacitados para evaluarlos antes de su liberación y para mantener bajo vigilancia, mediante procedimientos de auditoría acordes con la tecnología utilizada, su funcionamiento, mantención y necesidades de adecuación de los diversos controles computacionales y administrativos que aseguran su confiabilidad.
 
-3.- Transferencias interbancarias.
+### 3. Transferencias interbancarias
 
-Las instituciones financieras pueden participar, a través de empresas de servicio o con servidores administrados por ellas mismas y con las modalidades de operación convenidas entre las partes, en sistemas de transferencia electrónica de fondos interbancaria.
+Los bancos pueden participar, a través de empresas de servicio o con servidores administrados por ellas mismas y con las modalidades de operación convenidas entre las partes, en sistemas de transferencia electrónica de fondos interbancaria.
 
 Los pagos que diariamente deban efectuarse como consecuencia del uso de tales sistemas, sea que se compensen o no previamente las obligaciones recíprocas, deberán resolverse en definitiva en la cámara de compensación de operaciones interfinancieras de que trata el Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
-En ningún caso el sistema de transferencia electrónica de fondos al cual esté adherida una institución, podrá incorporar el canje de documentos, puesto que éste sólo puede realizarse a través de la Cámara de Compensación.
+En ningún caso el sistema de transferencia electrónica de fondos al cual éste adherida una institución, podrá incorporar el canje de documentos, puesto que éste sólo puede realizarse a través de la Cámara de Compensación.
 
 4.- Transferencias electrónicas de fondos entre clientes de distintos bancos, mediante redes públicas de comunicaciones.
 
 4.1 Generalidades.
 
-Con el objeto de proveer mayor seguridad y un mejor servicio a sus clientes, los bancos deberán disponer que las transferencias que se realicen a través de canales electrónicos se cumplan de forma inmediata, en la medida que exista la correspondiente provisión de fondos. Así, los respectivos cargos y abonos o puesta a disposición de los respectivos beneficiarios del importe de estas transferencias deben efectuarse simultáneamente y de inmediato, en el mismo día en que se ordena y curse la transferencia. Esta simultaneidad debe cumplirse tanto en aquellas transferencias que se realicen entre cuentas dentro del mismo banco, como en aquellas en que el abono en cuenta o pago al respectivo beneficiario deba efectuarse en otro banco. Sin perjuicio de que el beneficiario pueda hacer hacer uso de inmediato de los importes transferidos, aquellas transferencias que se ordenen en día hábil bancario después de la hora de cierre del banco (14 ó 16 horas) o en día no hábil bancario, se registrarán, tanto el débito como el crédito, con fecha del día hábil bancario inmediatamente siguiente.
+Con el objeto de proveer mayor seguridad y un mejor servicio a sus clientes, los bancos deberán disponer que las transferencias que se realicen a través de canales electrónicos se cumplan de forma inmediata, en la medida que exista la correspondiente provisión de fondos. Así, los respectivos cargos y abonos o puesta a disposición de los respectivos beneficiarios del importe de estas transferencias deben efectuarse simultáneamente y de inmediato, en el mismo día en que se ordena y curse la transferencia. Esta simultaneidad debe cumplirse tanto en aquellas transferencias que se realicen entre cuentas dentro del mismo banco, como en aquellas en que el abono en cuenta o pago al respectivo beneficiario deba efectuarse en otro banco.
 
 Los canales electrónicos que ofrezcan las instituciones bancarias para realizar estas transferencias deberán contar con apropiados privilegios de autorización y medidas de autentificación, controles de acceso lógico y físicos, adecuada infraestructura de seguridad para observar el cumplimiento de las restricciones y límites que se establezcan para las actividades internas y externas, así como para cuidar la integridad de los datos de cada transacción y la adecuada privacidad de los registros e información de los clientes. Para esos efectos deberán:
 
@@ -1227,14 +1265,6 @@ Estos sistemas o mecanismos deberán permitir tener una vista integral y oportun
 4.3. Detección de Lavado de activos.
 
 Las transferencias electrónicas de fondos dentro del mercado financiero pueden ser utilizadas como una herramienta más para realizar el lavado de activos. Para mitigar el riesgo de dicha práctica por esta vía, es necesario que las instituciones bancarias, complementando los esquemas de autentificación robusta, cuenten con mecanismos o herramientas de identificación, evaluación de riesgos, monitoreo y detección de lavado de activos, para facilitar dos aspectos principales: la detección de patrones predefinidos en la operación de lavado de activo y el rastreo transaccional para la detección de formas o prácticas emergentes mediante el análisis de las desviaciones de comportamiento respecto a los estándares de cada uno de los clientes.
-
-5.- Contabilización de las operaciones efectuadas en horario especial.
-
-Para efectos de su contabilización, los giros, depósitos, pagos y toda otra transferencia electrónica de fondos efectuada con posterioridad a la hora de cierre del horario normal de atención de público (14:00 ó 16:00 horas) de la respectiva institución, como asimismo aquellas realizadas en días sábado, domingo y festivos, deberán quedar registradas en el día hábil bancario siguiente, sin perjuicio de las prelaciones que deben seguirse en las imputaciones a las cuentas de los clientes de las cuales se giran o a las cuales se transfieren fondos. En todo caso, al tratarse de giros de cargo de otras instituciones financieras efectuados a través de cajeros automáticos, la contabilización considerará el horario de corte para la compensación de esas transacciones, según lo previsto en el Capítulo 5-1 de esta Recopilación.
-
-### 6. Disposición Transitoria
-
-Los bancos deberán adecuar sus sistemas y procedimientos, para que lo dispuesto en el N° 4 de este Capítulo, en lo relativo a la inmediatez y simultaneidad de estas transferencias, se aplique a más tardar a contar del 1 de enero de 2008.
 
 CAPITULO 1-8 (Bancos y Financieras)
 
@@ -1270,13 +1300,7 @@ No obstante lo anterior, cuando un banco participe en actividades de beneficenci
 
 determinada cuenta corriente, podrá atender el recibo de dichos depósitos, en días hábiles o inhábiles, dentro del horario especial que para el efecto determine, siempre que dé aviso a esta Superintendencia con anticipación a la fecha en que ello ocurra.
 
-4.- Fecha y registro de las operaciones cursadas en horario especial.
-
-Las operaciones efectuadas en horario especial según lo previsto en los números 2 y 3 precedentes, deberán llevar la fecha del día en que se cursen en el referido horario.
-
-Por otra parte, los comprobantes de contabilidad a que den origen las mencionadas operaciones deberán llevar la leyenda "HORARIO ESPECIAL", impresa o colocada mediante un timbre, y serán registrados el primer día hábil bancario siguiente a la fecha en que se hayan cursado las operaciones correspondientes, sin perjuicio de que en los comprobantes respectivos se estampe el timbre de caja con la fecha en que efectivamente la operación fue presentada y cursada por caja, dentro del horario especial.
-
-5.- Medidas de seguridad.
+4.- Medidas de seguridad.
 
 Será condición necesaria para acogerse a las autorizaciones a que se refiere este título II, que la institución financiera mantengan las medidas de seguridad necesarias para resguardar el normal desarrollo de las actividades.
 
@@ -6110,101 +6134,101 @@ MATERIA:
 
 INTERESES Y REAJUSTES.
 
-I.- NORMAS GENERALES.
+### 1. Normas que rigen el cobro de reajustes e intereses
 
-1.- Normas que rigen el cobro de reajustes e intereses.
+El N° 9 del artículo 35 de la Ley Orgánica Constitucional del Banco Central de Chile, le confiere a ese Organismo la facultad de autorizar los sistemas de reajuste que utilicen las empresas bancarias y cooperativas de ahorro y crédito, en sus operaciones de crédito de dinero en moneda nacional. Los bancos deben ceñirse, en consecuencia, a los sistemas de reajustes establecidos por el Instituto Emisor en el Capítulo II.B.3 de su Compendio de Normas Financieras, materia que se comenta en el N° 2 siguiente.
 
-El N° 9 del artículo 35 de la Ley Orgánica Constitucional del Banco Central de Chile, le confiere a ese Organismo la facultad de autorizar los sistemas de reajuste que utilicen las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito, en sus operaciones de crédito de dinero en moneda nacional. Las instituciones financieras deben ceñirse, en consecuencia, a los sistemas de reajustes establecidos por el Instituto Emisor en el Capitulo II.B.3 de su Compendio de Normas Financieras, materia que se comenta en el N° 2 siguiente.
+Cabe tener presente que, si bien el referido Capítulo II.B.3 no contiene ninguna limitación en cuanto a los plazos mínimos a los que pueden pactarse las operaciones reajustables, los bancos, en sus operaciones de captación e intermediación de fondos, deben observar también las restricciones de plazos que el Banco Central de Chile ha establecido en el Capítulo III. B.1 del Compendio de Normas Financieras y que afectan tanto a los reajustes como a los intereses.
 
-Cabe tener presente que, si bien el referido Capítulo II.B.3 no contiene ninguna limitación en cuanto a los plazos mínimos a los que pueden pactarse las operaciones reajustables, las instituciones financieras, en sus operaciones de captación e intermediación de fondos, deben observar también las restricciones de plazos que el Banco Central de Chile ha establecido en el Capítulo III.B.1. del Compendio de Normas Financieras y que afectan tanto a los reajustes como a los intereses.
+En lo que concierne a las normas legales que rigen el cobro de intereses en las operaciones de crédito de dinero, en el presente Capítulo se comentan también algunos preceptos de la ley N° 18.010, cuya interpretación se considera necesario uniformar para los bancos.
 
-En lo que concierne a las normas legales que rigen el cobro de intereses en las operaciones de crédito de dinero, en el presente Capítulo se comentan también algunos preceptos de la ley N° 18.010, cuya interpretación se considera necesario uniformar para las instituciones financieras.
+### 2. Sistemas de reajustes autorizados por el Banco Central de Chile
 
-2.- Sistemas de reajustes autorizados por el Banco Central de Chile.
+2.1. Generalidades.
 
-2.1.- Generalidades.
-
-De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, en virtud de la facultad que le confiere el N° 9 del artículo 35 de su Ley Orgánica Constitucional, en las operaciones de crédito de dinero en que sea parte algún banco, sociedad financiera o cooperativa de ahorro y crédito, deben utilizarse sólo los sistemas de reajuste autorizados por el Banco Central de Chile.
+De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, en virtud de la facultad que le confiere el N° 9 del artículo 35 de su Ley Orgánica Constitucional, en las operaciones de crédito de dinero en que sea parte algún banco o cooperativa de ahorro y crédito, deben utilizarse sólo los sistemas de reajuste autorizados por el Banco Central de Chile.
 
 Al respecto debe tenerse presente que, según lo establecido en el citado precepto legal, las estipulaciones de un sistema de reajuste no autorizado se tendrán por no escritas.
 
-Por otra parte, las modificaciones a un sistema de reajuste autorizado o la supresión del mismo, no afectarán a las operaciones de crédito de dinero en que sea parte un banco, una sociedad financiera o una cooperativa de ahorro y crédito, las que seguirán rigiéndose por la modalidad de reajuste que se haya estipulado antes de la modificación o supresión. En todo caso, ello no impide que en tales situaciones las partes convengan la sustitución del sistema de reajuste por otro que se encuentre autorizado.
+Por otra parte, las modificaciones a un sistema de reajuste autorizado o la supresión del mismo, no afectarán a las operaciones de crédito de dinero en que sea parte un banco o una cooperativa de ahorro y crédito, las que seguirán rigiéndose por la modalidad de reajuste que se haya estipulado antes de la modificación o supresión. En todo caso, ello no impide que en tales situaciones las partes convengan la sustitución del sistema de reajuste por otro que se encuentre autorizado.
 
-Por último, en lo que respecta al alcance de estas normas, estima esta Superintendencia que las instituciones financieras quedan impedidas de descontar o adquirir efectos de comercio o valores mobiliarios, cuando ellos contengan cláusulas de reajustabilidad que no correspondan a algún sistema autorizado por el Banco Central de Chile. Ello sin perjuicio de la posibilidad de recibir tales instrumentos en pago de obligaciones, conforme a las disposiciones del N° 5 del artículo 84 de la Ley General de Bancos.
+Por último, en lo que respecta al alcance de estas normas, estima esta Superintendencia que los bancos quedan impedidos de descontar o adquirir efectos de comercio o valores mobiliarios, cuando ellos contengan cláusulas de reajustabilidad que no correspondan a algún sistema autorizado por el Banco Central de Chile. Ello sin perjuicio de la posibilidad de recibir tales instrumentos en pago de obligaciones, conforme a las disposiciones del N° 5 del artículo 84 de la Ley General de Bancos.
 
-2.2.- Sistemas autorizados.
+2.2. Sistemas autorizados.
 
-2.2.1.- Operaciones en moneda chilena.
+2.2.1. Operaciones en moneda chilena.
 
 Los siguientes sistemas de reajustabilidad se encuentran autorizados de acuerdo con lo dispuesto en el Capítulo II.B.3 del Compendio de Normas Financieras del Banco Central de Chile:
 
-a) Unidad de Fomento(U.F)
+a) Unidad de Fomento (U.F.)
 
-La Unidad de Fomento es una unidad de valor que incorpora las variaciones del Indice de Precios al Consumidor (IPC).
+La Unidad de Fomento es una unidad de valor que incorpora las variaciones del Índice de Precios al Consumidor (IPC).
 
-Esta unidad fue creada por el Decreto Supremo del Ministerio de Hacienda N° 40 del 2 de enero de 1967, el que le asignó un valor inicial de E° 100, reajustable el primer día de cada trimestre calendario de acuerdo a la variación experimentada por el Indice de Precios al Consumidor.
+Esta unidad fue creada por el Decreto Supremo del Ministerio de Hacienda N° 40 del 2 de enero de 1967, el que le asignó un valor inicial de E° 100, reajustable el primer día de cada trimestre calendario de acuerdo a la variación experimentada por el Índice de Precios al Consumidor.
 
-Posteriormente, por Decreto Supremo del Ministerio de Hacienda 280 del 12 de mayo de 1975, se estableció el reajuste mensual del valor de dicha unidad y a partir del 1° de agosto de 1977, en virtud de lo dispuesto en el Decreto Supremo del Ministerio de Hacienda N° 613 del 14 de ese mismo año, ese valor se determina para cada día
+Posteriormente, por Decreto Supremo del Ministerio de Hacienda N° 280 del 12 de mayo de 1975, se estableció el reajuste mensual del valor de dicha unidad y a partir del 1° de agosto de 1977, en virtud de lo dispuesto en el Decreto Supremo del Ministerio de Hacienda N° 613 del 27 de julio de ese mismo año, ese valor se determina para cada día.
 
-De conformidad con las normas del Instituto Emisor señaladas en el numeral 2.1 precedente, el valor de esta unidad continúa reajustándose diariamente, a partir del día diez de cada mes y hasta el día 9 del mes siguiente, a la tasa promedio geométrica correspondiente a la variación que haya experimentado el Indice de Precios al Consumidor, determinado por el Instituto Nacional de Estadística, o el Organismo que lo remplace, en el mes calendario inmediatamente anterior al período para el cual dicha unidad se calcule La tasa promedio geométrica antes mencionada, se establece de la forma que se indica en el Anexo N° 1 de este Capítulo
+De conformidad con las normas del Instituto Emisor señaladas en el numeral 2.1 precedente, el valor de esta unidad continúa reajustándose diariamente, a partir del día diez de cada mes y hasta el día 9 del mes siguiente, a la tasa promedio geométrica correspondiente a la variación que haya experimentado el Índice de Precios al Consumidor, determinada por el Instituto Nacional de Estadística, o el Organismo que lo remplace, en el mes calendario inmediatamente anterior al período para el cual dicha unidad se calcule. La tasa promedio geométrica antes mencionada, se establece de la forma que se indica en el Anexo N° 1 de este Capítulo.
 
-b) Indice Valor Promedio (I.V.P)
+b) Índice Valor Promedio (I.V.P.)
 
-La unidad de valor denominada "Indice Valor Promedio", fue creada por Acuerdo N° 1719-01-860321 del ex Comité Ejecutivo del Banco Central de Chile, en uso de la facultad que le otorgaba el artículo 3° de la Ley N° 18.010 y el artículo 40 de la Ley N° 18.482.
+La unidad de valor denominada "Índice Valor Promedio", fue creada por Acuerdo
 
-Esta unidad empezó a regir el 9 de abril de 1986, fecha en que se le dio un valor inicial de $ 2954,06, reajustable diariamente a partir del 10 de abril de 1986, a una tasa equivalente al promedio geométrico diario correspondiente a la variación del Indice de Precios al Consumidor registrada en los últimos seis meses
+N° 1719-01-860321 del ex Comité Ejecutivo del Banco Central de Chile, en uso de la facultad que le otorgaba el artículo 3° de la Ley N° 18.010 y el artículo 40 de la Ley N° 18.482.
 
-De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, el valor del Indice Valor Promedio continúa reajustándose a partir del día diez de cada mes y hasta el día nueve del mes siguiente, de acuerdo al factor diario determinado como se indica en el Anexo N° 2 de este Capítulo.
+Esta unidad empezó a regir el 9 de abril de 1986, fecha en que se le dio un valor inicial de $2.954,06, reajustable diariamente a partir del 10 de abril de 1986, a una tasa equivalente al promedio geométrico diario correspondiente a la variación del Índice de Precios al Consumidor registrada en los últimos seis meses.
+
+De conformidad con lo dispuesto por el Consejo del Banco Central de Chile, el valor del índice Valor Promedio continúa reajustándose a partir del día diez de cada mes y hasta el día nueve del mes siguiente, de acuerdo al factor diario determinado como se indica en el Anexo N° 2 de este Capítulo.
 
 c) Valor de los tipos de cambio de monedas extranjeras determinados por el Banco Central de Chile.
 
 Corresponde a los valores publicados por el Banco Central de Chile conforme al inciso 2° del artículo 44 de su Ley Orgánica Constitucional, de los tipos de cambio de monedas extranjeras de general aceptación en los mercados de cambios internacionales.
 
-Además de los sistemas señalados en los literales precedentes, conforme a lo indicado en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones financieras pueden aplicar el sistema de reajustabilidad previsto en el artículo 20 de la Ley N° 18.010, esto es, pactar operaciones expresadas en moneda extranjera, pagaderas por su equivalente en moneda chilena, según el tipo de Cambio vendedor al día del pago.
+Además de los sistemas señalados en los literales precedentes, conforme a lo indicado en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, los bancos pueden aplicar el sistema de reajustabilidad previsto en el artículo 20 de la Ley N° 18.010, esto es, pactar operaciones expresadas en moneda extranjera, pagaderas por su equivalente en moneda chilena, según el tipo de cambio vendedor al día del pago.
 
-Debe tenerse presente también que en su oportunidad fue autorizada la adquisición, por parte de las instituciones financieras, de los créditos otorgados por la ex-ANAP, los que tienen su propio sistema de reajustabilidad.".
+Debe tenerse presente también que en su oportunidad fue autorizada la adquisición, por parte de los bancos, de los créditos otorgados por la ex-ANAP, los que tienen su propio sistema de reajustabilidad. En el Anexo N° 3 de este Capítulo se indican los porcentajes que debieron aplicarse según ese sistema a contar del 31 de diciembre de 1990.
 
 Por otra parte, debe entenderse que las normas generales en materia de reajustes no impiden adquirir instrumentos expresados en Unidades Tributarias Mensuales u otro tipo de reajustabilidad distinta de las autorizadas para pactar operaciones, cuando se trate de Pagarés Reajustables de la Tesorería General de la República o Bonos de Reconocimiento o Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
 
-2.2.2.- Operaciones pagaderas en moneda extranjera.
+2.2.2. Operaciones pagaderas en moneda extranjera.
 
 Las operaciones pagaderas en moneda extranjera no pueden indexarse a otras monedas o unidades de valor, con excepción de aquellas operaciones reguladas en el Capítulo XIII del Compendio de Normas de Cambios Internacionales del Banco Central de Chile.
 
-2.3- Publicación de valores de los sistemas de reajustabilidad.
+2.3. Publicación de valores de los sistemas de reajustabilidad.
 
-El Banco Central de Chile publicará en el Diario Oficial, a más tardar el día 9 de cada mes, los valores diarios que la Unidad de Fomento y el Indice Valor Promedio tendrán durante el período comprendido entre el día 10 del mismo mes y el día 9 del mes siguiente.
+El Banco Central de Chile publicará en el Diario Oficial, a más tardar el día 9 de cada mes, los valores diarios que la Unidad de Fomento y el Índice Valor Promedio tendrán durante el período comprendido entre el día 10 del mismo mes y el día 9 del mes siguiente.
 
-Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el tipo de cambio de las monedas extranjeras a que se refiere la letra c) del numeral 2.2.1 anterior.
+Por otra parte, el Instituto Emisor publica diariamente en el Diario Oficial el tipo de las monedas extranjeras a que se refiere la letra c) del numeral 2.2.1 anterior.
 
-3.- Cálculo de interés y reajustes.
+### 3. Cálculo de intereses y reajustes
 
-3.1.- Cómputo de intereses.
+3.1. Cómputo de intereses.
 
-El inciso final del artículo 11 de la Ley N° 18.010, establece que para los efectos de ella, en todas las operaciones de crédito de dinero, reajustables o no reajustables, en moneda nacional o en moneda extranjera, los plazos de meses son de 30 días y los de años, de 360 días Por lo tanto, para el solo efecto del cálculo de intereses en una operación con tasas mensuales o anuales, el divisor será siempre de 30 ó 360 y el multiplicador el número de días que efectivamente corresponda al período que comprende la operación.
+El inciso final del artículo 11 de la Ley N° 18.010, establece que para los efectos de ella, en todas las operaciones de crédito de dinero, reajustables o no reajustables, en moneda nacional o en moneda extranjera, los plazos de meses son de 30 días y los de años, de 360 días. Por lo tanto, para el solo efecto del cálculo de intereses en una operación con tasas mensuales o anuales, el divisor será siempre de 30 ó 360 y el multiplicador el número de días que efectivamente corresponda al período que comprende la operación.
 
-En cambio, para el vencimiento de los efectos de comercio o valores mobiliarios con que se documente la operación, los plazos de años o de meses comprenderán los días que indica el artículo 48 del Código Civil, atendido que dichos documentos mercantiles o civiles se rigen en todo caso por las normas de dicho Código, en conformidad con lo dispuesto por el artículo 110 del Código de Comercio
+En cambio, para el vencimiento de los efectos de comercio o valores mobiliarios con que se documente la operación, los plazos de años o de meses comprenderán los días que indica el artículo 48 del Código Civil, atendido que dichos documentos mercantiles o civiles se rigen en todo caso por las normas de dicho Código, en conformidad con lo dispuesto por el artículo 110 del Código de Comercio.
 
 Así, en un préstamo con letra de cambio, en que ésta vence a un año plazo, los intereses se calcularán dividiendo por 360 el producto de la tasa por el capital de la operación y multiplicando el resultado por la cantidad de días efectivamente transcurridos hasta el vencimiento.
 
-3.2.- Computo de intereses y reajustes cuando las obligaciones vencen en día no hábil bancario.
+3.2. Cómputo de reajustes.
 
-Los reajustes deben calcularse de acuerdo con el respectivo valor informado por el Banco Central de Chile según lo indicado en el numeral 2 3 de este título I, que corresponda a la fecha hasta la cual éstos se determinen
+Los reajustes deben calcularse de acuerdo con el respectivo valor informado por el Banco Central de Chile según lo indicado en el numeral 2.3 de este título I, que corresponda a la fecha hasta la cual éstos se determinen.
 
-3.3 - Cómputo de intereses y reajustes cuando las obligaciones vencen en día no hábil bancario.
+3.3. Cómputo de intereses y reajustes cuando las obligaciones vencen en día no hábil bancario.
 
 El artículo 111 del Código de Comercio establece que "la obligación que vence en día domingo o en otro día festivo es pagadera al siguiente".
 
-"La misma regla se aplicará a las obligaciones que venzan los días sábado de cada semana y 31 de diciembre de cada año".
+"La misma regla se aplicará a las obligaciones que venzan los días sábado de cada semana y el 31 de diciembre de cada año".
 
 De acuerdo con la disposición legal transcrita, los intereses y reajustes de las obligaciones cuyo vencimiento sea postergado por esta norma, deben continuar devengándose hasta el día hábil bancario siguiente inclusive.
 
-Este mismo procedimiento se seguirá en el caso de los días que sean declarados feriados, ya sea por leyes generales o especiales.
+Este mismo procedimiento se seguirá en el caso de los días que sean declarados feriados ya sea por leyes generales o especiales.
 
-4.- Pagos anticipados.
+### 4. Pagos anticipados
 
-El artículo 10 de la Ley N° 18.010, modificado por la las Leyes N°s. 19.528 y 19.951, establece que los pagos anticipados de operaciones de crédito de dinero, serán convenidos libremente entre el acreedor y el deudor.
+El artículo 10 de la Ley N° 18.010, modificado por las Leyes N°s. 19.528 y 19.951, establece que los pagos anticipados de operaciones de crédito de dinero, serán convenidos libremente entre el acreedor y el deudor.
 
-No obstante, para las operaciones de crédito de dinero cuyo capital inicial no supere el equivalente de 5.000 unidades de fomento, esa ley le otorga a los deudores el derecho irrenunciable de anticipar su pago aun contra la voluntad del acreedor, siempre que se cumplan las siguientes condiciones:
+No obstante, para las operaciones de crédito de dinero cuyo importe no supere el equivalente de 5.000 unidades de fomento, esa ley le otorga a los deudores el derecho irrenunciable de anticipar su pago aun contra la voluntad del acreedor, siempre que se cumplan las siguientes condiciones:
 
 a) Tratándose de operaciones no reajustables, que el deudor pague el capital que se anticipa y los intereses pactados calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión no podrá exceder el valor de un mes de intereses calculados sobre el capital que se prepaga.
 
@@ -6214,67 +6238,67 @@ Con todo, en los casos en que el importe del pago anticipado sea inferior al 25%
 
 Estas disposiciones que permiten a los deudores pagar anticipadamente prescindiendo de la voluntad del acreedor, no se aplican cuando el deudor sea una institución fiscalizada por esta Superintendencia, el Fisco de Chile o el Banco Central de Chile.
 
-En todo caso, las normas del artículo 10 de la Ley N° 18.010 no se aplican al tratarse de obligaciones contratadas en letras de crédito, puesto que los pagos anticipados, en este caso, se rigen por lo establecido en el artículo 100 de la Ley General de Bancos, que contempla un sistema especial cuyas características se tratan en el N" 8, título II, del Capítulo 9-1 de esta Recopilación Actualizada de Normas.
+En todo caso, las normas del artículo 10 de la Ley N° 18.010 no se aplican al tratarse de obligaciones contratadas en letras de crédito, puesto que los pagos anticipados, en este caso, se rigen por lo establecido en el artículo 100 de la Ley General de Bancos, que contempla un sistema especial cuyas características se tratan en el N° 8, título II, del Capítulo 9-1 de esta Recopilación Actualizada de Normas.
 
-Por otra parte, debe tenerse en cuenta que el artículo transitorio de la Ley N° 19.951 permite aplicar las comisiones de prepago que se hubieren pactado antes del 26 de junio de 2004 (fecha publicación de esa ley), como asimismo que el artículo 3° transitorio de la Ley 19.528 estableció que el pago anticipado de créditos que se hubieren otorgado antes del 4 de noviembre de 1997(fecha en que esa ley entró en vigor) se rige por las disposiciones vigentes en la fecha de su otorgamiento.
+Por otra parte, debe tenerse en cuenta que el artículo transitorio de la Ley N° 19.951 permite aplicar las comisiones de prepago que se hubieren pactado antes del 26 de junio de 2004 (fecha de publicación de esa ley), como asimismo que el artículo 3° transitorio de la Ley 19.528 estableció que el pago anticipado de créditos que se hubieren otorgado antes del 4 de noviembre de 1997 (fecha en que esa ley entró en vigor) se rige por las disposiciones vigentes en la fecha de su otorgamiento.
 
-5.- Normas para la aplicación de tasas de interés variables.
+### 5. Normas para la aplicación de tasas de interés variables
 
-5.1.- Condiciones que deben cumplir las tasas variables que pacten las instituciones financieras.
+5.1 Condiciones que deben cumplir las tasas variables que pacten los bancos.
 
-Para pactar tasas de interés variables, las instituciones financieras deberán ceñirse a lo siguiente.
+Para pactar tasas de interés variables, los bancos deberán ceñirse a lo siguiente:
 
 a) Al tratarse de créditos en moneda extranjera otorgados a personas naturales o jurídicas domiciliadas y residentes en Chile, las tasas deberán estar referidas a la tasa Libo, Prime u otra ampliamente conocida y utilizada en los mercados financieros internacionales.
 
-b) Las instituciones financieras deberán cuidar que el título en contra del deudor reúna las condiciones de un título ejecutivo, en especial la indicada en el N° 3 del artículo 438 del Código de Procedimiento Civil.
+b) Los bancos deberán cuidar que el título en contra del deudor reúna las condiciones de un título ejecutivo, en especial la indicada en el N° 3 del artículo 438 del Código de Procedimiento Civil.
 
 c) En las operaciones efectuadas en el país con personas distintas a otras instituciones financieras, las tasas de interés variable que se convengan no podrán tener una tasa alternativa que pueda ser aplicada a elección del banco, sea que se trate de colocaciones o captaciones.
 
-5.2.- Servicio pactado mediante cuotas por montos preestablecidos.
+5.2. Servicio pactado mediante cuotas por montos preestablecidos.
 
-Las instituciones financieras que otorguen créditos a una tasa de interés variable y pacten con el deudor el pago del crédito mediante cuotas por montos preestablecidos al momento del pacto, quedando sujeta la amortización del mismo a cobros adicionales, devoluciones o recalculo de cuotas, deberán ceñirse a las siguientes instrucciones:
+Los bancos que otorguen créditos a una tasa de interés variable y pacten con el deudor el pago del crédito mediante cuotas por montos preestablecidos al momento del pacto, quedando sujeta la amortización del mismo a cobros adicionales, devoluciones o recálculo de cuotas, deberán ceñirse a las siguientes instrucciones:
 
-5.2.1.- Monto mínimo de las cuotas.
+5.2.1. Monto mínimo de las cuotas.
 
-Los montos de las cuotas que se determinen para pagar un crédito pactado con una tasa variable, deberán ser suficientes para que se amortice la totalidad del crédito al aplicar la tasa variable pactada vigente al momento de la convención.****B*
+Los montos de las cuotas que se determinen para pagar un crédito pactado con una tasa variable, deberán ser suficientes para que se amortice la totalidad del crédito al aplicar la tasa variable pactada vigente al momento de la convención.
 
-5.2.2.- Información a los deudores.
+5.2.2. Información a los deudores.
 
-Cuando la amortización efectiva de capital sea inferior a la prevista en las cuotas precalculadas y no se informe a los deudores en la fecha del pago parcial de sus créditos, el detalle del cálculo de los intereses cobrados, el capital amortizado y el saldo de lo adeudado, las instituciones financieras deberán enviar al domicilio que éstos tengan registrado, a lo menos cada seis meses a contar de la fecha de otorgamiento del respectivo crédito, la información correspondiente a los conceptos antes señalados, referida a cada uno de los pagos realizados.
+Cuando la amortización efectiva de capital sea inferior a la prevista en las cuotas precalculadas y no se informe a los deudores en la fecha del pago parcial de sus créditos, el detalle del cálculo de los intereses cobrados, el capital amortizado y el saldo de lo adeudado, los bancos deberán enviar al domicilio que éstos tengan registrado, a lo menos cada seis meses a contar de la fecha de otorgamiento del respectivo crédito, la información correspondiente a los conceptos antes señalados, referida a cada uno de los pagos realizados.
 
-6.- Interés corriente e interés máximo convencional.
+### 6. Interés corriente e interés máximo convencional
 
-6.1.- Determinación del interés corriente e interés máximo convencional.
+6.1. Determinación del interés corriente e interés máximo convencional.
 
 En cumplimiento de las disposiciones contenidas en el artículo 6° de la Ley N° 18.010, esta Superintendencia publica mensualmente, en el Diario Oficial, las tasas de interés corriente y las tasas de interés máximo convencional que rigen a partir de su fecha de publicación, para los efectos establecidos en la ley.
 
 Esas publicaciones consideran distintos tipos de tasas según las características de los créditos en cuanto a plazos, montos, moneda y reajustabilidad.
 
-6.2.- Tasa máxima que se puede pactar en las operaciones.
+6.2. Tasa máxima que se puede pactar en las operaciones de crédito de dinero.
 
-De acuerdo con la ley, no puede estipularse un interés que exceda el interés máximo convencional, esto es, el interés corriente que corresponda, aumentado en un 50%, salvo que se trate de las siguientes operaciones que quedaron con libertad de intereses por la Ley N° 19.528: i) las que se pacten con instituciones o empresas bancarias o financieras extranjeras o internacionales; ii) las que se pacten o expresen en moneda extranjera para operaciones de comercio exterior; iii) las pactadas entre el Banco Central de Chile y las instituciones financieras; y, iv) todas aquellas en que el deudor sea un banco o sociedad financiera.
+De acuerdo con la ley, no puede estipularse un interés que exceda el interés máximo convencional, esto es, el interés corriente que corresponda, aumentado en un 50%, salvo que se trate de las siguientes operaciones que quedaron con libertad de intereses por la Ley N° 19.528: i) las que se pacten con instituciones o empresas bancarias o financieras extranjeras o internacionales; ii) las que se pacten o expresen en moneda extranjera para operaciones de comercio exterior; iii) las pactadas entre el Banco Central de Chile y los bancos; y, iv) todas aquellas en que el deudor sea un banco.
 
 La tasa de interés máxima convencional aplicable será aquella que corresponda a la operación de que se trate, según lo indicado en la respectiva publicación de esta Superintendencia.
 
-Para determinar si el interés pactado supera o no el máximo convencional, la ley se remite al momento de la convención, sea que se trate de tasas fijas o variables
+Para determinar si el interés pactado supera o no el máximo convencional, la ley se remite al momento de la convención, sea que se trate de tasas fijas o variables.
 
-6.2.1.- fijas y tasas variables
+6.2.1. Tasas fijas y tasas variables.
 
-En las operaciones con interés de tasa fija, no merece duda que los intereses correspondientes a una tasa numérica establecida en el momento de la convención, que no supere el interés máximo convencional vigente a la fecha del pacto para el tipo de operación de que se trate, pueden continuar cobrándose a la tasa pactada durante todo el periodo que comprenda la operación.
+En las operaciones con interés de tasa fija, no merece duda que los intereses correspondientes a una tasa numérica establecida en el momento de la convención, que no supere el interés máximo convencional vigente a la fecha del pacto para el tipo de operación de que se trate, pueden continuar cobrándose a la tasa pactada durante todo el período que comprenda la operación.
 
-En el caso de intereses pactados sobre la base de tasa variable, entendida por tal una tasa construida sobre un factor variable, v. gr.: interés corriente, interés máximo convencional, prime rate, libor, etc , sean o no recargados en uno o mas puntos, la tasa resultante podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al momento de la convención ella tampoco haya superado el interés máximo convencional Es evidente, por ejemplo, que la tasa "interés máximo convencional más uno" nace ilícita
+En el caso de intereses pactados sobre la base de tasa variable, entendida por tal una tasa construida sobre un factor variable, v. gr.: interés corriente, interés máximo convencional, prime rate, libor, etc., sean o no recargados en uno o más puntos, la tasa resultante podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al momento de la convención ella tampoco haya superado el interés máximo convencional. Es evidente, por ejemplo, que la tasa "interés máximo convencional más uno" nace ilícita.
 
-6 2.2 - .tasa pactada para el periodo de mora.
+6.2.2. Tasa pactada para el período de mora.
 
-El limite equivalente a la tasa de interés máxima convencional rige también para las tasas que se pacten para el caso de mora.
+El límite equivalente a la tasa de interés máxima convencional rige también para las tasas que se pacten para el caso de mora.
 
-Asimismo, en concordancia con lo señalado en el numeral 6.2.1 precedente y con lo dispuesto en el artículo 16 de la Ley 18.010, para el período de mora es posible pactar la tasa de interés máxima convencional vigente en la fecha de la convención (tasa fija que, ademas, es conocida numéricamente al momento del pacto) o la que rija durante la mora (tasa variable)
+Asimismo, en concordancia con lo señalado en el numeral 6.2.1 precedente y con lo dispuesto en el artículo 16 de la Ley N° 18.010, para el período de mora es posible pactar la tasa de interés máxima convencional vigente en la fecha de la convención (tasa fija que, además, es conocida numéricamente al momento del pacto) o la que rija durante la mora (tasa variable).
 
 Si para el período de mora no se hubiere pactado en forma precisa la aplicación de la tasa de interés, en el sentido de referirse a la "máxima convencional" sin especificar si se trata de una tasa fija o de una variable (esto es, la que se encuentre vigente durante la convención o la que rija durante el período de mora), deberán cobrarse estos intereses de acuerdo con la tasa máxima convencional que rija durante el período de mora, siguiendo la norma que para un caso similar da el antes citado artículo 16. Se entiende, en este caso, que la tasa variable que rige durante el período de mora puede representar, según la duración de éste, más de una tasa numérica, debiendo utilizarse cada una de ellas para su respectivo lapso de vigencia dentro del período de mora.
 
 Por último, viene al caso recordar que si no se pacta tasa alguna para el período de mora ni se establece estipulación en contrario, corresponde cobrar el interés corriente para la operación de que se trate, desde la fecha del retardo y a las tasas que rijan durante ese retardo, de acuerdo con lo dispuesto en el mencionado artículo 16 de la Ley N° 18.010.
 
-6.2.3.- Aplicación de las tasas para operaciones en moneda chilena no reajustable.
+6.2.3. Aplicación de las tasas para operaciones en moneda chilena no reajustable.
 
 Para establecer cuál es la tasa de interés máximo convencional que rige para las operaciones en moneda chilena no reajustable, de acuerdo con su plazo y monto, deberán seguirse las siguientes reglas:
 
@@ -6290,17 +6314,17 @@ En el caso de operaciones pagaderas en cuotas, en las que una o más de ellas ve
 
 El plazo promedio ponderado se obtendrá multiplicando el importe de cada cuota de amortización de capital por su plazo, expresado en días o meses, según las condiciones que se hubieren pactado. Luego se sumarán los productos obtenidos de esas multiplicaciones y el resultado de esa suma se dividirá por el importe total del préstamo. El cuociente que se obtenga indicará el plazo promedio ponderado del crédito, expresado en días o meses, según cual haya sido el factor utilizado. Para los fines de establecer este plazo, se considerarán solamente los vencimientos en que deba efectuarse una amortización de capital, no tomándose en cuenta, por consiguiente, los servicios de intereses que se hubieren pactado.
 
-c) Lineas de crédito y sobregiros pactados.
+c) Líneas de crédito y sobregiros pactados.
 
 La tasa máxima que se puede cobrar por los créditos que se originen por una línea de crédito previamente pactada, como asimismo por aquellos otorgados en la forma de sobregiros pactados en cuenta corriente, se establecerá en función del tiempo que se hubiere pactado para hacer uso de la línea o sobregirar la cuenta corriente, y del monto máximo autorizado.
 
-7.- Recargo de los intereses pactados con comisiones u otros importes recibidos a cualquier título.
+7. Recargo de los intereses pactados con comisiones u otros importes recibidos a cualquier título.
 
-7.1.- Tasa efectiva de los créditos.
+7.1. Tasa efectiva de los créditos.
 
-7.1.1.- Disposiciones generales.
+7.1.1. Disposiciones generales.
 
-El texto del artículo 2° de la Ley N°18.010 expresa lo que sigue:
+El texto del artículo 2° de la Ley N° 18.010 expresa lo que sigue:
 
 "En las operaciones de crédito de dinero no reajustables, constituye interés toda suma que recibe o tiene derecho a recibir el acreedor, a cualquier título, por sobre el capital.
 
@@ -6308,7 +6332,7 @@ En las operaciones de crédito reajustables, constituye interés toda suma que r
 
 En ningún caso, constituyen intereses las costas personales ni las procesales."
 
-De acuerdo con lo anterior, las instituciones financieras que otorguen créditos que contemplen el pago de importes adicionales a la sola devolución del capital más sus reajustes e intereses devengados, deberán determinar la tasa efectiva del crédito, considerando todos los pagos que el deudor debe realizar, incluyendo aquellos que se pudieren efectuar bajo la forma de comisiones o por otros conceptos, tales como gastos por obtención de informes comerciales, verificación de domicilio, gastos de tramitación u otros cargos que impliquen de hecho pagar un mayor precio por el dinero prestado.
+De acuerdo con lo anterior, los bancos que otorguen créditos que contemplen el pago de importes adicionales a la sola devolución del capital más sus reajustes e intereses devengados, deberán determinar la tasa efectiva del crédito, considerando todos los pagos que el deudor debe realizar, incluyendo aquellos que se pudieren efectuar bajo la forma de comisiones o por otros conceptos, tales como gastos por obtención de informes comerciales, verificación de domicilio, gastos de tramitación u otros cargos que impliquen de hecho pagar un mayor precio por el dinero prestado.
 
 Quedan excluidos del cálculo de la tasa efectiva solamente los siguientes importes de cargo del deudor:
 
@@ -6320,9 +6344,9 @@ c) Gastos inherentes a bienes recibidos en garantía, esto es, los incurridos pa
 
 d) Pagos de las primas de seguros de desgravamen y de cesantía relativos al crédito, cuando se trate de operaciones diferentes a créditos de consumo o similares en que no se pueden exigir tales seguros como condición para el crédito.
 
-La obligación de considerar las comisiones para calcular los intereses efectivos de un crédito, no comprende aquellas comisiones que las instituciones financieras cobren por actos complejos en que se presta un servicio bancario complementario o diferente de la operación de crédito de dinero. En estos casos en que el banco no actúa sólo en calidad de prestamista, las comisiones no constituyen un recargo de la obligación que asume el deudor por un préstamo recibido, sino una remuneración por un servicio que por su naturaleza puede estar ligado a un crédito. Así ocurre, por ejemplo, con las comisiones cobradas por: apertura o mantención de líneas de crédito asociadas a cuentas corrientes; apertura o mantención de líneas de crédito asociadas a cuentas a la vista cuando existe un convenio entre la institución depositaría y un empleador para pagar los sueldos de sus titulares mediante abono a dichas cuentas; apertura y manejo de cartas de crédito; emisión de boletas de garantía; gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos, y otros servicios propios de las entidades bancarias.
+La obligación de considerar las comisiones para calcular los intereses efectivos de un crédito, no comprende aquellas comisiones que los bancos cobren por actos complejos en que se presta un servicio bancario complementario o diferente de la operación de crédito de dinero. En estos casos en que el banco no actúa sólo en calidad de prestamista, las comisiones no constituyen un recargo de la obligación que asume el deudor por un préstamo recibido, sino una remuneración por un servicio que por su naturaleza puede estar ligado a un crédito. Así ocurre, por ejemplo, con las comisiones cobradas por: apertura o mantención de líneas de crédito asociadas a cuentas corrientes; apertura o mantención de líneas de crédito asociadas a cuentas a la vista cuando existe un convenio entre la institución depositaría y un empleador para pagar los sueldos de sus titulares mediante abono a dichas cuentas; apertura y manejo de cartas de crédito; emisión de boletas de garantía; gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos, y otros servicios propios de las entidades bancarias.
 
-7.1.2.- Cálculo y aplicación de las tasas efectivas
+7.1.2. Cálculo y aplicación de las tasas efectivas.
 
 La tasa efectiva del crédito debe obtenerse siempre considerando el interés de cobro vencido, incorporando todos los flujos relacionados con la operación.
 
@@ -6330,193 +6354,69 @@ Para mayor claridad, se entregan los siguientes ejemplos en relación con las ta
 
 Ejemplo 1:
 
-Si se pacta un crédito por $ 100.000 con una tasa de un 2,0% mensual, pagadero en 12 cuotas mensuales de $ 9.456 cada una, y además el cobro de una comisión por $ 12.000 que se paga distribuida en cuotas iguales de $ 1.000 junto con cada cuota del crédito que consta en el instrumento, el crédito efectivo será de $ 100.000, con flujos fijos de $ 10.456, lo que determina una tasa efectiva del 3,7%.
+Si se pacta un crédito por $100.000 con una tasa de un 2,0% mensual, pagadero en 12 cuotas mensuales de $9.456 cada una, y además el cobro de una comisión por $12.000 que se paga distribuida en cuotas iguales de $1.000 junto con cada cuota del crédito que consta en el instrumento, el crédito efectivo será de $100.000, con flujos fijos de $10.456, lo que determina una tasa efectiva del 3,7%.
 
 Ejemplo 2:
 
-Si se pacta un crédito por $ 112.000 con un 2,0 % mensual de interés y pagadero en 12 cuotas mensuales de $ 10.591 cada una, que incluye una comisión por $12.000 que se descuenta al momento de otorgar el crédito, el crédito efectivo será de $ 100.000, con flujos equivalentes a las cuotas pactadas en el instrumento, lo que determina una tasa efectiva del 3,9 %.
+Si se pacta un crédito por $112.000 con un 2,0% mensual de interés y pagadero en 12 cuotas mensuales de $10.591 cada una, que incluye una comisión por $12.000 que se descuenta al momento de otorgar el crédito, el crédito efectivo será de $100.000, con flujos equivalentes a las cuotas pactadas en el instrumento, lo que determina una tasa efectiva del 3,9%.
 
 La posibilidad de efectuar las operaciones en el caso de créditos sujetos al límite del interés máximo convencional, dependerá de la magnitud de su tasa efectiva, no pudiendo ésta en ningún caso superar el interés máximo convencional que sea aplicable.
 
-Las disposiciones relativas a la tasa efectiva de que se trata, se refieren sólo a aquellos casos en que una institución financiera opta por pactar créditos cobrando importes adicionales a los que resultan de las condiciones contractuales relativas a la devolución del capital y el pago de reajustes e intereses. En esos casos, las instituciones deberán considerar los valores efectivos para todos los efectos, debiendo en consecuencia considerar la tasa efectiva para el cumplimiento del interés máximo convencional y para informar al público acerca de las tasas cobradas, y registrar contablemente el valor efectivo de cada colocación y el ingreso por el interés efectivo devengado.
+Las disposiciones relativas a la tasa efectiva de que se trata, se refieren sólo a aquellos casos en que un banco opta por pactar créditos cobrando importes adicionales a los que resultan de las condiciones contractuales relativas a la devolución del capital y el pago de reajustes e intereses. En esos casos, los bancos deberán considerar los valores efectivos para el cumplimiento del interés máximo convencional y para informar al público acerca de las tasas cobradas.
 
 La opción de cobrar aquellos importes adicionales es sin perjuicio de las normas que expresamente los impiden, como ocurre con los préstamos en letras de crédito o con los mutuos hipotecarios endosables, casos en que no procede cobrar al deudor otros conceptos que no sean los que se permiten en las respectivas instrucciones.
 
-7.2.- Situación de los créditos de consumo en relación con la tasa efectiva y el cobro de importes adicionales.
+7.2. Situación de los créditos de consumo en relación con la tasa efectiva y el cobro de importes adicionales.
 
-7.2.1.- Cobros por prestación de servicios conexos.
+7.2.1. Cobros por prestación de servicios conexos.
 
 Cualquier servicio que se asocie a un préstamo de consumo u otros con características o finalidades similares, constituye solamente una modalidad para su otorgamiento y no un servicio bancario distinto, por lo que no procede excluir del cálculo de la tasa efectiva el cobro de comisiones al amparo de lo precisado en el último párrafo del numeral 7.1.1 de este título, salvo que se trate de comisiones por las líneas de crédito que cumplan las condiciones que en ese párrafo se mencionan expresamente.
 
 Las presentes instrucciones no comprenden los créditos de consumo que se originan en el uso de las tarjetas de crédito autorizadas por el Banco Central de Chile, las que, en materia de comisiones, se encuentran reguladas por sus propias normas.
 
-7.2.2.- Importes que por concepto de gastos se pueden cobrar en el caso de los créditos de consumo.
+7.2.2. Importes que por concepto de gastos se pueden cobrar en el caso de los créditos de consumo.
 
-Cuando se trate de créditos de consumo u otros similares, además de las excepciones ya indicadas en el numeral 7.2.1 precedente, las instituciones financieras solamente podrán cobrar sin incorporar los respectivos importes al cálculo de los intereses efectivos de la operación, los conceptos señalados en las letras a), b) y c) del penúltimo párrafo del numeral 7.1 1.
+Cuando se trate de créditos de consumo u otros similares, además de las excepciones ya indicadas en el numeral 7.2.1 precedente, los bancos solamente podrán cobrar sin incorporar los respectivos importes al cálculo de los intereses efectivos de la operación, los conceptos señalados en las letras a), b) y c) del penúltimo párrafo del numeral 7.1.1.
 
-7.2.3.- Seguros asociados a créditos de consumo.
+7.2.3. Seguros asociados a créditos de consumo.
 
-Las instituciones financieras no podrán establecer la contratación de seguros como condición para otorgar los créditos de consumo. Ello no obsta, naturalmente, para que el deudor tome voluntariamente los seguros que desee, financiándolos con el crédito.
+Los bancos no podrán establecer la contratación de seguros como condición para otorgar los créditos de consumo. Ello no obsta, naturalmente, para que el deudor tome voluntariamente los seguros que desee, financiándolos con el crédito.
 
-Las instituciones financieras que decidan resguardar sus créditos contratando seguros destinados a extinguir todo o parte de la deuda en caso de muerte o cesantía de sus deudores, deben hacerlo a costo de la propia institución, es decir, sin cobrar al deudor del crédito, en forma adicional a los intereses pactados, importe alguno a causa de esos seguros
+Los bancos que decidan resguardar sus créditos contratando seguros destinados a extinguir todo o parte de la deuda en caso de muerte o cesantía de sus deudores, deben hacerlo a costo de la propia institución, es decir, sin cobrar al deudor del crédito, en forma adicional a los intereses pactados, importe alguno a causa de esos seguros.
 
-Será requisito para otorgar un crédito que contemple además la venta de cualquier seguro de carácter voluntario, que la institución financiera obtenga del solicitante una declaración en que conste su manifestación de voluntad en orden a que, además del crédito que solicita, desea contratar los seguros que indica, por el precio que señala, y que está en conocimiento de que puede obtener el crédito con la misma tasa y demás condiciones que si no adquiriera tales seguros.
+Será requisito para otorgar un crédito que contemple además la venta de cualquier seguro de carácter voluntario, que el banco obtenga del solicitante una declaración en que conste su manifestación de voluntad en orden a que, además del crédito que solicita, desea contratar los seguros que indica, por el precio que señala, y que está en conocimiento de que puede obtener el crédito con la misma tasa y demás condiciones que si no adquiriera tales seguros.
 
-8.- Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
+8. Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
 Para el cálculo de intereses de documentos descontados, es improcedente el cargo de días adicionales al vencimiento, aún tratándose de documentos descontados pagaderos fuera de la plaza asiento de la institución descontante y cuya cobranza tenga que encomendarse a otra empresa, toda vez que la demora que esto supone para que la primera pueda disponer efectivamente de su valor, no es imputable, de ninguna manera, al beneficiario del descuento.
 
-### 9. Suprimido
+### 10. Información al público
 
-10.- Información al público.
-
-Las entidades financieras informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la siguiente forma:
+Los bancos informarán al público las tasas de interés que apliquen a sus colocaciones y captaciones, de la siguiente forma:
 
 a) La tasa de interés que corresponde a operaciones tanto de colocaciones como de captaciones, reajustables y no reajustables, deberá considerar siempre el interés de cobro vencido y expresarse en términos anuales siendo facultativo indicar la correspondiente al período a que esté referida la operación (30, 40, 60, 90 días, etc.).
 
 Para ese efecto, las tasas por un período se expresarán en términos anuales considerando, linealmente, su equivalente para 360 días; por ejemplo:
 
-.
+Tasa de interés Periodo de la Tasa de interés
+
+por periodo operación Anual (360 días)
+
+3,1% 30 días 37,20%
+
+8,5% 90 días 34,00%
 
 b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras, en que el cobro de interés puede ser vencido o anticipado, o en que debe indicarse la tasa efectiva del crédito según lo previsto en el numeral 7.1 de este título.
 
-c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 200 U.F., las que exceden de 200 U.F. y no superen las 5000 U.F. y las superiores al equivalente de 5000 U.F.
+c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 200 U.F., las que exceden de 200 U.F. y no superen las 5.000 U.F. y las superiores al equivalente de 5.000 U.F.
 
-d) Los bancos y sociedades financieras pondrán especial cuidado en proporcionar al público la información de que se trata en forma clara y completa mediante la colocación de pizarras en lugares visibles y destacados, que contengan solamente esa información, de modo que ella sea fácilmente ubicable para todos.
+d) Los bancos pondrán especial cuidado en proporcionar al público la información de que se trata en forma clara y completa mediante la colocación de pizarras en lugares visibles y destacados, que contengan solamente esa información, de modo que ella sea fácilmente ubicable para todos.
 
 Además, las instituciones deberán mantener a disposición del público un extracto con ejemplos de las modalidades de cobro de intereses, de tal manera que tanto los usuarios de créditos, como los depositantes e inversionistas puedan comparar sin dificultad las tasas de interés vigentes en el mercado.
 
-11.- Información a esta Superintendencia de las tasas de interés cobradas.
+### 11. Información a esta Superintendencia de las tasas de interés cobradas
 
-Para los efectos de la determinación del interés comente, las instituciones financieras deben remitir a esta Superintendencia la información relativa a las tasas de interés cobradas en sus operaciones, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información. Al tratarse de operaciones en que debe calcularse la tasa efectiva según lo previsto en el N° 7 de este Capítulo, deberá informarse dicha tasa efectiva.
-
-II.-NORMAS CONTABLES, CALCULO Y CONTABILIZACION DE REAJUSTES E INTERESES DEVENGADOS.
-
-Para determinar y contabilizar los reajustes e intereses devengados, tanto por pagar como por cobrar, las instituciones financieras deberán atenerse a las siguientes instrucciones
-
-1. - Cálculo de los reajustes e intereses devengados.
-
-1.1.- Reajustes.
-
-Los reajustes devengados de las operaciones activas y pasivas en moneda chilena pactadas con cláusulas de reajustabilidad, deberán calcularse de acuerdo con los valores informados por el Banco Central de Chile según lo indicado en el N° 2 del título I de este Capítulo.
-
-Cuando corresponda registrar el reajuste hasta un día no hábil bancario, como suele ocurrir al cierre de un mes, se utilizará el valor informado de la respectiva unidad de valor (UF o IVP) para ese día. Al tratarse de operaciones reajustables por la variación del valor del dólar de los Estados Unidos de América, se considerará el correspondiente al último día hábil bancario.
-
-1.2.- Intereses.
-
-Para efectos del balance, los intereses de las colocaciones se devengarán según la tasa de compra, de acuerdo con lo previsto en el Capítulo 8-19 de esta Recopilación. Los intereses de los instrumentos financieros adquiridos para negociación o inversión se devengarán por el método de la tasa efectiva.
-
-2.- Contabilización de los reajustes e intereses devengados.
-
-2.1 - Oportunidad de contabilización de los reajustes e intereses.
-
-Los reajustes e intereses devengados de los activos y pasivos se contabilizarán a lo menos al cierre de cada mes.
-
-El devengo de reajustes y de intereses se suspenderá en los casos mencionados en el N° 3 de este título, en que debe seguirse el criterio de reconocer sólo al momento en que sean efectivamente percibidos, los ingresos provenientes de operaciones de cierto nesgo y de las colocaciones vencidas.
-
-2.2. Cuentas de reajustes por cobrar o por pagar.
-
-Los reajustes devengados se contabilizarán en cuentas complementarias de las cuentas en que se encuentren registrados los saldos reajustables que los originen.
-
-Las cuentas complementarias de activo, denominadas "Reajustes por cobrar" se cargarán con abono a las respectivas cuentas de "Reajustes ganados" (Partidas 7305 a 7400). Por su parte, las cuentas complementarias de pasivo. que se denominan "Reajustes por pagar", se acreditarán con cargo a las cuentas "Reajustes pagados" (Partidas 5305 a 5400).
-
-Las mismas cuentas deben ser utilizadas en el caso excepcional en que el reajuste resultare negativo.
-
-2.3. Cuentas de intereses por cobrar o por pagar.
-
-Los importes correspondientes a los intereses devengados se incluirán en cuentas complementarias de las cuentas en que se encuentren registrados los saldos de capital. Este procedimiento se seguirá incluso en aquellos casos en que deben devengarse y registrarse en moneda chilena los intereses de operaciones registradas en moneda extranjera.
-
-Al tratarse de intereses que no tienen una correspondencia directa con los importes de un capital registrado en el activo o en el pasivo y no constituyen, por lo tanto, un complemento de los respectivos derechos u obligaciones, como asimismo en el caso de los intereses devengados sobre saldos que aún no tienen la calidad de disponibles, los importes devengados por cobrar se incluirán en cuentas de la partida 1820 "Intereses por cobrar de otras operaciones". Si existieren intereses por pagar que no tengan una correspondencia directa con un capital registrado en el pasivo, los saldos se incluirán en la partida 3820 "Intereses por pagar de otras operaciones".
-
-Las cuentas de resultado, por su parte, corresponderán a las de "Intereses ganados" (Partidas 7105 a 7200) o de "Intereses Pagados" (Partidas 5105 a 5200)."
-
-2.4. Tratamientos contables especiales.
-
-Los criterios de contabilización señalados en los numerales 2.2 y 2.3 precedentes se utilizarán siempre que no existan instrucciones específicas de esta Superintendencia que establezcan, para determinadas operaciones, un tratamiento diferente.
-
-En todo caso, no se registrarán en las cuentas complementarias de reajustes de que trata el numeral 2.2 precedente, los reajustes de las colocaciones contingentes y de las obligaciones contingentes, los cuales deberán contabilizarse ajustando directamente las respectivas cuentas del activo y del correspondiente pasivo, sin afectar los resultados.
-
-Por otra parte, las cuentas del activo correspondientes a inversiones financieras, como asimismo, las cuentas de las partidas 3040, 3070, 3075 y 4190 del pasivo, no tendrán cuentas complementarias de reajustes ni de intereses, salvo que la institución opte por utilizarlas, caso en el cual deberán refundirse los saldos para los efectos de información a esta Superintendencia.
-
-Debe tenerse presente también, que a las cuentas correspondientes a préstamos en letras de crédito de las partidas 1305 y 1310, como asimismo a las que corresponden a letras de crédito en circulación de las partidas 3305 y 3310, no les son aplicables las instrucciones relativas al uso de cuentas complementarias de intereses, puesto que éstos deben registrarse en cuentas de las partidas 1315 y 3315, respectivamente, en concordancia con las instrucciones del Capitulo 9-1 de esta Recopilación Actualizada de Normas.
-
-3.- Suspensión del devengo de reajustes e intereses de colocaciones.
-
-3.1. Contabilización de intereses y reajustes sólo en cuentas de orden.
-
-3.1.1.- Colocaciones afectas a la suspensión.
-
-Las instituciones financieras suspenderán el devengo de los intereses y reajustes en las cuentas de "Intereses por Cobrar" e "Intereses Ganados", registrandolos solamente en cuentas de orden, en los casos que a continuacion se indican:
-
-a) Colocaciones clasificadas en categorías D1 o D2.
-
-Los intereses y reajustes devengados por colocaciones vigentes que se encuentren clasificadas en categorías D1 o D2, se dejaran de contabilizar en las correspondientes cuentas de intereses y reajustes por cobrar y en las de resultados, a partir de la fecha en que se hubiera efectuado dicha clasificación.
-
-b) Colocaciones clasificadas en categoría C4 por más de un año o reclasificadas desde las categorías D1 ó D2.
-
-Las entidades financieras suspenderán la contabilización del devengo de los intereses y reajustes de créditos vigentes, cuando éstos hayan completado un período superior a un año clasificados en categoría C4. En el caso de créditos que se reclasifiquen de categoría D1 o D2 a categoría C4, se mantendrá la suspensión a que estaban afectos por el hecho de encontrarse en aquellas categorías.
-
-c) Colocaciones vigentes otorgadas bajo condiciones especiales.
-
-Las instituciones financieras también deberán abstenerse de contabilizar en los resultados, los intereses y reajustes devengados sobre créditos vigentes otorgados bajo una o más de las siguientes condiciones, a menos que las características del flujo de ingresos del deudor o de la maduración del proyecto permita estimar que el crédito será servido normalmente:
-
-i) Período de gracia para capital e intereses superior a 24 meses, esto es, que el primer pago se realice después del referido plazo, salvo que se trate de créditos reprogramados en virtud de los Acuerdos N°s. 1.507 y 1.578 del Banco Central de Chile, o de préstamos otorgados a estudiantes chilenos, con recursos de la Corporación de Fomento de la Producción, para financiar gastos de estudios en universidades o en institutos profesionales;
-
-ii) Frecuencia de vencimiento superior a un año de las cuotas posteriores al término del período de gracia; o,
-
-iii) El monto pactado de cada cuota no alcanza a cubrir el importe de los intereses devengados sobre el saldo insoluto del crédito durante el período respectivo, salvo que se trate de préstamos otorgados a estudiantes chilenos, con recursos de la Corporación de Fomento de la Producción, para financiar gastos de estudios en universidades o en institutos profesionales.
-
-Las instituciones financieras que no estén calificadas dos veces consecutivas en categoría I según sus procedimientos de clasificación de cartera y que estimen que un crédito con alguna de las características antes mencionadas será servido normalmente, deberán solicitar la autorización previa de esta Superintendencia para excluirlo de la suspensión del devengo contable de reajustes e intereses.
-
-La suspensión del devengo de intereses y reajustes por las causales señaladas en las letras a) y b) de este numeral 3.1.1, no se aplicara a los créditos de consumo ni a los créditos hipotecarios para vivienda, definidos en el título II del Capítulo 8-28 de esta Recopilación, como tampoco a las colocaciones contingentes, en lo que respecta a la suspensión de reajustes.
-
-Los intereses y reajustes devengados con anterioridad a la fecha en que se cumplan algunas de las condiciones señaladas en las letras precedentes, no serán objeto de reversión; de manera que quedarán registrados en el activo los intereses y reajustes por cobrar devengados hasta esa fecha, en tanto que los devengos posteriores se reflejaran en cuentas de orden.
-
-3.1.2.- Registro de los intereses y reajustes en cuentas de orden.
-
-El devengo de los intereses y reajustes que se origine desde la fecha en que las colocaciones se encuentren en alguna de las situaciones previstas en el numeral 3.1.1 precedente y hasta la fecha en que debe dejar de registrarse según lo previsto en el numeral 3.2 que sigue, se contabilizará en cuentas de orden de acuerdo con lo siguiente:
-
-a) Intereses.
-
-Los intereses no reconocidos en los resultados, sobre las colocaciones que estén vigentes, se registrarán en las siguientes cuentas de la partida 9490, según sea el caso: "Intereses suspendidos créditos comerciales vigentes", "Intereses suspendidos créditos hipotecarios vivienda vigentes" o "Intereses suspendidos créditos de consumo vigentes".
-
-Atendido que estas cuentas de orden son complementarias de las cuentas del activo para efectos de información del monto adeudado, en caso de que alguno de los créditos de que se trata se traspase a cartera vencida, los montos respectivos registrados en esas cuentas se traspasarán, a su vez, a la cuenta que corresponda, de la misma partida 9490, indicada a continuación: "Intereses suspendidos créditos comerciales vencidos", "Intereses suspendidos créditos hipotecarios vivienda vencidos" o "Intereses suspendidos créditos de consumo vencidos".
-
-b) Reajustes.
-
-Los reajustes sobre las colocaciones de que se trata, quedarán registrados en alguna de las siguientes cuentas de la partida 9510, siguiendo el mismo criterio señalado para los intereses en la letra a) precedente: "Reajustes suspendidos créditos comerciales vigentes", "Reajustes suspendidos créditos hipotecarios vivienda vigentes", "Reajustes suspendidos créditos de consumo vigentes", "Reajustes suspendidos créditos comerciales vencidos", "Reajustes suspendidos créditos hipotecarios vivienda vencidos" o "Reajustes suspendidos créditos de consumo vencidos".
-
-3.2. Suspensión de reajustes e intereses de colocaciones vencidas.
-
-3.2.1. Créditos con un solo vencimiento.
-
-A partir de la fecha de vencimiento se suspenderá la contabilización del devengo de intereses y reajustes correspondientes a los créditos que no hayan sido pagados en la fecha de vencimiento convenida, sea que se hayan traspasado a cartera vencida o se encuentren aún registrados como créditos vigentes por no haberse cumplido el plazo máximo de 90 días para efectuar dicho traspaso, según lo dispuesto en el N° 1 del Capítulo 8-26 de esta Recopilación.
-
-3.2.2. Créditos pagaderos en cuotas.
-
-Cuando se trate de préstamos en letras de crédito o de otro tipo de préstamos pagaderos en cuotas, la suspensión del devengo de reajustes e intereses posteriores al vencimiento, a que se refiere el numeral precedente, rige también para la cuota que no haya sido pagada, aplicándose a los intereses o reajustes de ésta que se devengan a contar de la fecha en que ella debió ser pagada.
-
-Para el saldo no vencido se seguirá el criterio de suspender la contabilización de los reajustes e intereses, a contar del momento en que alguna parcialidad o cuota morosa permanezca 90 días impaga, aunque ella se componga solamente de intereses. Dicha suspensión durará desde esa fecha hasta que se paguen o renegocien todas las cuotas o parcialidades que estuvieren en mora, oportunidad en que se reconocerán contablemente los reajustes e intereses devengados y no pagados que se encontraban suspendidos, sin perjuicio de lo dispuesto en el numeral 31 de este título.
-
-3.2.3. Otras instrucciones.
-
-Los reajustes e intereses de colocaciones vencidas a que se refieren los numerales 3.2.1 y 32.2 precedentes, no se reflejarán en cuentas de orden ni se incluirán en la información de deudas a esta Superintendencia.
-
-### 4. Percepción o capitalización de reajustes e intereses suspendidos
-
-Los reajustes e intereses suspendidos se reconocerán en las cuentas de resultados en el momento en que sean efectivamente percibidos o cuando sean capitalizados por renegociación de los respectivos créditos.
-
-Los intereses y reajustes que sean reconocidos en cuentas de resultado con motivo de su pago o capitalización, deberán revertirse de las cuentas de orden en las que se encontraban registrados, a lo menos al termino del mes en que se haya procedido a su pago o capitalización.
-
-### 5. Información sobre las operaciones que generan los respectivos
-
-intereses y reajustes.
-
-Para los fines relacionados con las comprobaciones que esta Superintendencia pueda requerir, las instituciones financieras deberán mantener a disposición de este Organismo, por lo menos durante un plazo de un ano, ya sea en listados, planillas o en medios magnéticos, los antecedentes en que se sustente el calculo y la contabilización de los reajustes e intereses registrados en el activo, en el pasivo, en cuentas de orden y en los resultados.
-
-III.- DISPOSICIONES TRANSITORIAS.
-
-Las comisiones que las instituciones financieras cobren separadamente de los intereses en sus operaciones de crédito y que, conforme a lo previsto en el N° 7 del título I de este Capítulo, deben considerarse para determinar la tasa efectiva, podrán seguir considerándose separadamente para los solos efectos del devengo contable de que trata el numeral 1.2 del título II, para las operaciones contratadas hasta el 31 de diciembre de 1999. Para los demás efectos, esto es, para el cumplimiento del interés máximo convencional y para información al público y a esta Superintendencia, se considerará la tasa efectiva incluyendo dichas comisiones.
+Para los efectos de la determinación del interés corriente, los bancos deben remitir a esta Superintendencia la información relativa a las tasas de interés cobradas en sus operaciones, de acuerdo con las instrucciones contenidas en el Manual del Sistema de Información. Al tratarse de operaciones en que debe calcularse la tasa efectiva según lo previsto en el N° 7 de este Capítulo, deberá informarse dicha tasa efectiva.
 
 ANEXO N° 1
 
@@ -6556,579 +6456,15 @@ k = Numero de días transcurridos en el semestre móvil correspondiente.
 
 EI valor del Indice de Valor Promedio al 9 de enero de 1990, fue de $ 5.389,14.
 
-CAPITULO 7-3 (Bancos y Financieras)
+ANEXO N° 3
 
-MATERIA:
+Reajustes según el artículo 44 la Ley N° 18.591 para los créditos adquiridos a la ex-ANAP
 
-CORRECCION MONETARIA.
+De acuerdo lo dispuesto en el artículo 8° de la Ley N° 18.900, en relación con los artículos 60 y 77 de la Ley N° 16.807 y el artículo 44 de la Ley N° 18.591, le corresponde a esta Superintendencia disponer el reajuste que debe aplicarse a los créditos hipotecarios que los bancos adquirieron de la ex-Asociación Nacional de Ahorro y Préstamo.
 
-### 1. Corrección monetaria financiera
-
-Los procedimientos contables que se disponen en el presente Capítulo, comprenden la metodología de corrección monetaria financiera que deberán utilizar los bancos y sociedades financieras. Por consiguiente, estas instrucciones no afectan las bases de cálculo de ingresos para fines tributarios.
-
-No están comprendidos en los ajustes por corrección monetaria a que se refiere este Capítulo, los resultados por los reajustes de derechos y obligaciones que contienen condiciones de reajustabilidad ni los que se derivan de la mantención de activos y pasivos en monedas extranjeras u otros ajustes que se identifican con el concepto de "corrección monetaria" para efectos tributarios, pero que no se contabilizan bajo ese concepto en los bancos y sociedades financieras.
-
-1.1. Corrección monetaria mensual
-
-Los saldos de activos y pasivos no monetarios deberán ajustarse al cierre de cada mes. En el caso de las cuentas de Capital y Reservas, se utilizará una cuenta complementaria para efectuar los correspondientes ajustes mensuales en forma provisional, sin afectar directamente los saldos que son objeto de la corrección monetaria, lo que se hará sólo al cierre del ejercicio anual.
-
-Para todos los efectos contables, tales como el cálculo y la contabilización de las depreciaciones del activo fijo, amortizaciones mensuales de gastos diferidos, castigos o resultados por ventas de bienes del activo fijo o recibidos en pago, el valor de los activos corresponderá al saldo corregido monetariamente con la periodicidad mensual antes indicada.
-
-1.2. Cálculo de los ajustes.
-
-Para actualizar los saldos sujetos a corrección monetaria se utilizará el porcentaje de variación del Indice de Precios al Consumidor, con desfase de un mes.
-
-La corrección monetaria se aplicará mensualmente a todos los saldos que provienen del mes precedente, utilizando la variación del IPC correspondiente de ese mes inmediatamente anterior. El factor de actualización deberá contener, por lo menos, cuatro decimales.
-
-No obstante lo señalado en el párrafo precedente, cuando la corrección monetaria corresponda a las cuentas de capital y reservas se utilizará el método consistente en aplicar el factor de la variación del IPC que corresponda sobre los saldos que provienen del inicio del ejercicio, sobre los aumentos que éstos experimentaron y sobre las disminuciones de los mismos, estableciéndose el importe neto de la corrección monetaria del "capital propio financiero". En este caso, podrán utilizarse los porcentajes de variación del IPC sólo con un decimal.
-
-### 2. Saldos sujetos a corrección monetaria
-
-Deberán corregirse monetariamente los siguientes saldos no monetarios, cuando estén expresados en moneda chilena:
-
-2.1. Activos y otros saldos deudores.
-
-a) Están sujetos a corrección monetaria los saldos correspondientes al activo fijo físico y a inversiones en sociedades y los bienes físicos, acciones y derechos en sociedades recibidos en pago o adjudicados en remate judicial.
-
-b) Quedan sujetos también a corrección monetaria los saldos de los activos intangibles, gastos diferidos y gastos e ingresos pagados o percibidos por adelantado, tratados en los Capítulos 7-4 y 7-7 de esta Recopilación, como asimismo las existencias de materiales de consumo.
-
-c) También se corregirán monetariamente los pagos provisionales mensuales de impuestos y, con el fin de mantener actualizado el importe a que asciende el impuesto por recuperar, se podrá corregir monetariamente la provisión de impuesto correspondiente.
-
-d) Por último, se tratarán también como corrección monetaria los ajustes de las inversiones en oro aunque éstos deben efectuarse sobre la base de las cotizaciones informadas por esta Superintendencia, de conformidad con lo dispuesto en el Capítulo 8-23 de esta Recopilación Actualizada de Normas.
-
-2.2. Pasivos.
-
-En general, los pasivos están representados principalmente por obligaciones que constituyen saldos monetarios, o bien corresponden a moneda extranjera o son reajustables. Por lo tanto, con excepción de algunos pasivos tales como la provisión de impuestos señalada en la letra c) del numeral 2.1 anterior, la provisión para indemnizaciones por años de servicio a que se refiere el Capítulo 7-4 o los ingresos percibidos por adelantado tratados en el Capítulo 7-7 de esta Recopilación, los pasivos no están sujetos a la corrección monetaria financiera de que trata el presente Capítulo.
-
-2.3. Capital, reservas y resultados.
-
-Las cuentas de capital y reservas deberán ser corregidas monetariamente en forma individual, sin perjuicio de las instrucciones acerca de la forma de contabilizar los ajustes en forma provisional durante el año.
-
-La cuentas de resultado no se corregirán monetariamente.
-
-### 3. Contabilización de la corrección monetaria
-
-3.1. Norma general.
-
-Los saldos afectos a corrección monetaria deberán ajustarse contabilizando ésta directamente en las correspondientes cuentas, salvo, como ya se indicó, en el caso de la corrección monetaria provisional de las cuentas de capital y reservas.
-
-3.2. Capital propio financiero.
-
-La corrección monetaria mensual que corresponde a cada una de las cuentas que componen el capital y reservas, deberá imputarse en la cuenta "Revalorización provisional del capital propio" de la Partida 4405. Esta contabilización provisional deberá revertirse el último día de cada mes, oportunidad en que deberá registrarse el nuevo importe calculado de la corrección monetaria.
-
-Al cierre del ejercicio anual los montos correspondientes a la corrección monetaria de las cuentas de capital y reservas deberán abonarse en forma definitiva directamente en cada una de ellas, en concordancia con lo dispuesto en el artículo 10 de la Ley N° 18.046 y en el artículo 7° del D.S. N° 587 de 1982, del Ministerio de Hacienda. Sin embargo, debido a que el capital autorizado del Banco del Estado de Chile se encuentra fijado en el artículo 4° del D.L. N° 2.079, ese banco deberá registrar el importe que corresponda a la corrección monetaria del capital pagado en una cuenta de la Partida 4310, sin alterar el monto en pesos establecido en su Ley Orgánica.
-
-Para los efectos de determinar el monto de la corrección monetaria que corresponde a cada una de las cuentas de capital y reservas, deberá considerarse que la asignación o absorción de los resultados del ejercicio anterior, proviene del inicio del ejercicio. Por otra parte, los cálculos y la contabilización deberá efectuarse aun cuando una cuenta de reservas no tuviere saldo al cierre de un período, con objeto de reflejar la corrección monetaria que tuvo durante su permanencia. Como forma de asegurarse de la correcta cuantía de la corrección monetaria del capital y reservas, la suma de los montos obtenidos por los cálculos individuales se confrontará con el total que se obtenga de un cálculo global de la corrección monetaria del capital propio financiero.
-
-3.3. Resultado por corrección monetaria.
-
-Los importes correspondientes a los ajustes por corrección monetaria del capital pagado y reservas y de los activos y pasivos afectos a ella, se debitarán o abonarán a las correspondientes cuentas de corrección monetaria. Para efectos de información a esta Superintendencia, el saldo neto de los cargos y abonos a los resultados se incluirá en la partida 6405 u 8405, según sea deudor o acreedor.
-
-CAPITULO 7-4 (Bancos y Financieras)
-
-MATERIA:
-
-ACTIVOS INTANGIBLES Y GASTOS DIFERIDOS.
-
-1.- Activos intangibles y gastos diferidos que pueden registrar las instituciones financieras.
-
-Las instituciones financieras sólo podrán registrar como activos intangibles y gastos diferidos los que se indican en este Capítulo que se refiere a aquellos que se reflejan en los resultados bajo el concepto de "amortizaciones", además del activo intangible que corresponde al mayor valor pagado en inversiones en sociedades (goodwill) tratado en los Capítulos 11-6 y 11-7 de esta Recopilación, y de los gastos diferidos que corresponden a costos incurridos por operaciones o servicios que tienen una clara correlación en el tiempo, materia que se encuentra tratada en el Capítulo 7-7 de esta Recopilación.
-
-2.- Gastos de organización y puesta en marcha.
-
-Podrán diferirse todos los gastos en que incurra una institución financiera, en el período comprendido entre la fecha en que inicie sus actividades y la fecha en que comience a realizar sus operaciones habituales con el público, con excepción de aquellos que pueden diferirse por una causal diferente, al amparo de las disposiciones contenidas en los numerales siguientes de este Capítulo.
-
-Tales gastos de organización y puesta en marcha podrán incrementarse, además, durante un período inicial de hasta seis meses después de comenzadas las operaciones propias del giro, pero sólo con aquellos gastos de desarrollo necesarios para el cumplimiento de sus funciones, distintos de los que correspondan a sus operaciones ordinarias y de los indicados en los numerales siguientes.
-
-Los gastos anteriores a la fecha de inicio de las operaciones deberán comenzar a amortizarse a más tardar a partir de la fecha de apertura de las puertas al público. Los gastos posteriores a esa fecha se comenzarán a amortizar desde el momento en que se incurra en ellos. En ambos casos, se deberán llevar a resultados los montos diferidos, a lo menos linealmente, en un plazo que no exceda de cinco años.
-
-No se consideran como gastos de puesta en marcha aquellos relativos a la apertura de nuevas oficinas o sucursales de instituciones financieras que ya se encuentren en actividad, sin perjuicio de la facultad de diferir aquellos cargos que se encuadren dentro de lo que se dispone en los números siguientes.
-
-3.- Inversiones en programas computacionales.
-
-Los costos por la adquisición o desarrollo de programas computacionales se registrarán en el activo y se amortizarán conforme a lo siguiente:
-
-3.1.- Programas computacionales.
-
-Se entenderá que constituye un programa computacional para los efectos de estas normas, cualquier módulo o componente de un proyecto que se puede utilizar en forma independiente con las interfaces apropiadas, aun cuando su aplicación dependa de la utilización de otros programas.
-
-Al tratarse de ampliaciones o actualizaciones (upgrades) de aplicaciones existentes que le agregan una funcionalidad adicional, esto es, que desde la perspectiva de los usuarios permiten efectuar tareas que antes no se podían realizar, la ampliación o actualización puede tratarse también como un nuevo programa para los efectos de estas normas, siempre que la actividad desarrollada para el efecto y sus respectivos costos se puedan separar claramente de los que corresponden a la mantención o actualización rutinaria y se cumplan las condiciones señaladas en el numeral 3.3.
-
-Las presentes normas son aplicables tanto para aquellos programas que requieren del uso de licencias como para los que no se establece tal condición, del mismo modo que no distinguen entre los programas que se compran, de los que sean arrendados por leasing, debiendo en este último caso seguirse un tratamiento contable similar al establecido en el Capítulo 11-1 de esta Recopilación en lo que sea pertinente. Por otra parte, la activación de los costos alcanza tanto a los programas desarrollados por empleados de la institución o personas contratadas para el efecto, como aquellos cuyo desarrollo se encargue a empresas externas por un precio fijo.
-
-Debe tenerse en cuenta que la adquisición de programas computacionales que incluyen la contratación de servicios de mantención, derechos a actualizaciones, capacitación, costos de reingeniería, ampliaciones, etc., exige que se identifiquen y valoricen los elementos que componen el contrato, para efecto de activar sólo aquellos importes que las presentes instrucciones permiten. En todo caso, si esas prestaciones fueran independientes del valor pagado por los programas, los gastos del período que cubre el contrato se tratarán de acuerdo con lo previsto en el Capítulo 7-7 de esta Recopilación.
-
-3.2.- Importes que se pueden activar.
-
-a) Costos que necesariamente deben reconocerse como gastos.
-
-No podrán ser capitalizados aquellos costos que son propios de la etapa preliminar de un proyecto, tales como los que se originan por la formulación y evaluación de alternativas, análisis de los requisitos tecnológicos o de las exigencias de funcionalidad y utilización de los programas, la selección de proveedores o de consultores que apoyen el desarrollo o instalación, etc., así como los demás gastos en que se incurra por las actividades internas o gestiones externas que de hecho se efectúen con antelación a la autorización para la ejecución del proyecto y la disposición de los recursos para el efecto o la firma de los correspondientes contratos con terceros.
-
-Tampoco podrán ser capitalizados aquellos costos que son propios de una etapa de operación o posteriores a la implantación, los que en general corresponderán sólo a mantenciones, ampliaciones o actualizaciones (upgrades), salvo que se le agregue una funcionalidad adicional a los programas y se cumplan las condiciones señaladas en los numerales 3.1 y 3.3
-
-b) Costos que pueden ser capitalizados.
-
-Pueden ser capitalizados, en cambio, aquellos costos que son propios de una etapa de desarrollo, que normalmente incluirán los relacionados con el diseño, configuración del programa y las interfaces, programación, instalación a los equipos y pruebas hasta el procesamiento en paralelo, todos ellos necesarios para dejar el software en condiciones de ser utilizado para lo que se pretende.
-
-No obstante, no podrán ser registrados en el activo los costos incurridos por la capacitación externa o interna, como tampoco los correspondientes a la conversión, eliminación o ingreso de datos, salvo lo que toca al desarrollo o adquisición de programas para la interfaz de sistemas antiguos y nuevos.
-
-De acuerdo con lo anterior, además del precio pagado por los programas adquiridos a terceros, pueden capitalizarse solamente los costos asociados a las actividades descritas en este numeral y únicamente cuando correspondan a:
-
-i) Materiales y servicios utilizados para desarrollar y obtener el programa, tales como honorarios pagados por su desarrollo, costos para obtenerlo de terceros o gastos de viajes incurridos por empleados en labores directamente relacionadas con el programa en desarrollo.
-
-ii) Sueldos y otros beneficios pagados al personal que desarrolla el programa a tiempo completo, o la parte proporcional de ellos según el tiempo destinado al proyecto en relación con otras actividades o proyectos. En consecuencia, en ningún caso se capitalizarán gastos generales o administrativos, sino sólo los relativos a la planilla de los funcionarios involucrados o a los honorarios pagados a personas contratadas para el desarrollo.
-
-3.3.- Condiciones para registrar los costos en el activo.
-
-La capitalización de los costos de acuerdo con lo señalado anteriormente, se efectuará solamente para aquellos programas mediante los cuales se esperan beneficios significativos en materia de reducciones de costos, operaciones más eficientes, entrega de un mejor servicio a los clientes, mejores controles internos o adquisición de ventajas comparativas.
-
-Por otra parte, es requisito para la activación de sus costos que la probabilidad de utilización de los programas sea incuestionable, en cuanto no existen circunstancias que indiquen lo contrario, tales como cambios en las tecnologías que se utilizan, reestructuraciones de funciones o modificaciones de procedimientos que lleven a desechar el programa, incertidumbres respecto a la posibilidad de financiar totalmente el proyecto en desarrollo, etc.
-
-Cumplidos los requisitos antes indicados, se capitalizarán los costos en que se incurra a partir del momento en que se firmen los respectivos contratos o se autorice el desarrollo y exista un compromiso de la administración para proveer los recursos.
-
-La capitalización de los costos se mantendrá hasta el momento en que, el programa esté concluido para el uso que se pretende, aun cuando no pueda todavía ser utilizado por depender el desarrollo de otros módulos o proyectos.
-
-En todo caso, dicha capitalización deberá suspenderse si deja de ser probable que el proyecto se complete, como puede ocurrir, por ejemplo, si existen nuevas alternativas en el mercado que hacen conveniente abandonar el proyecto o se sobrepasan significativamente sus costos, si se introducen nuevas tecnologías, si aparecen dificultades de programación que no se puedan resolver a tiempo, etc.
-
-Las instituciones deberán evaluar, a lo menos al cierre de cada ejercicio, la situación de sus proyectos computacionales en relación con el cumplimiento de las presentes disposiciones, debiendo suspender la capitalización y traspasar a resultados los importes activados si no existen razones fundadas para mantener el tratamiento contable de que se trata, al amparo de lo que se indica en los dos primeros párrafos de este numeral.
-
-3.4.- Amortizaciones.
-
-Los saldos registrados en el activo por cada uno de los programas computacionales adquiridos o desarrollados, se amortizarán linealmente de acuerdo con su vida útil estimada.
-
-En todo caso, el plazo de amortización de esos programas no podrá exceder de seis años.
-
-La amortización se acelerará si cambian las circunstancias, debiendo reevaluarse al menos al cierre de cada ejercicio los fundamentos del plazo de amortización que se está aplicando para el programa de que se trate. Se comenzará la amortización a contar del momento en que los programas comiencen a ser utilizados, sin perjuicio de lo indicado en el numeral 3.3 precedente.
-
-4.- Sobreprecio pagado por activos inherentes a un negocio con ventajas competitivas.
-
-4.1 -Importe que se puede registrar como activo intangible.
-
-Las instituciones financieras podrán registrar en el activo el importe de la diferencia entre el valor pagado y el valor de los activos adquiridos, deducidos los pasivos que se asuman, cuando la adquisición de tales activos obedezca a la transferencia de un negocio con ventajas competitivas que justifique el sobreprecio pagado, siempre que sea razonable suponer que la institución financiera adquirente generará una mayor utilidad en el futuro como consecuencia de la transacción, sea por el desarrollo del nuevo negocio o por el aumento de sus propias operaciones ya existentes.
-
-El sobreprecio pagado se amortizará a lo menos linealmente dentro de un plazo máximo de diez años, salvo que durante ese lapso exista incertidumbre respecto a la generación de los beneficios futuros previstos, en cuyo caso y en el momento en que se manifieste esa incertidumbre, se disminuirá el plazo de amortización o se cargará a los resultados la totalidad del saldo remanente registrado en el activo, según corresponda Para estos efectos, la institución deberá efectuar una evaluación una vez al año, dejando documentadas las conclusiones al respecto.
-
-4.2.- Deducción para efectos de la determinación del patrimonio efectivo.
-
-El monto no amortizado del sobreprecio de que trata el numeral precedente, deberá ser deducido del capital básico para efectos de la determinación del patrimonio efectivo.
-
-No obstante, con la autorización previa de esta Superintendencia, aquella parte que corresponda a un precio razonable pagado por el potencial de la continuidad del negocio adquirido, podrá considerarse como un activo clasificado en categoría 5, de modo que la deducción se haga sólo por lo que exceda ese precio.
-
-Para solicitar la respectiva autorización, las instituciones financieras acompañarán un informe emitido por un evaluador independiente, que contenga el detalle del precio pagado, el valor presente de los flujos netos y la metodología utilizada en su determinación, considerando la siguiente información:
-
-a) La determinación del valor presente de los flujos futuros que justifican en su conjunto el precio pagado, el cual deberá estar basado en un plan de negocios que dé cuenta de las medidas que implementará la institución financiera para obtener los beneficios futuros y el tiempo que le tomará obtenerlos, y,
-
-b) El valor presente de los flujos futuros asociados a la continuidad del negocio o unidad generadora de flujos adquirido, sin considerar expectativas de crecimiento ni la incorporación de productos distintos a los contratados por los clientes al momento de la compra. El cálculo se basará en el flujo neto inicial del negocio, debidamente depurado de eventuales efectos transitorios o coyunturales, el que se mantendrá constante durante un período razonable, descontándose con la tasa que el evaluador considere más apropiada.
-
-Para otorgar su autorización, esta Superintendencia tomará, a modo de información, otras estimaciones realizadas en Chile o en el extranjero. En el caso de compra de grandes volúmenes de cartera, partirá de la base que normalmente al menos un 20% del valor pagado debiera ser deducido del capital básico para efectos de la determinación del patrimonio efectivo.
-
-5.- Marcas registradas.
-
-Las instituciones financieras podrán contabilizar como activo intangible las marcas registradas de su propiedad, siempre que dichas marcas hayan sido compradas a terceros y con el exclusivo propósito de obtener una ventaja en el mercado que justifique la inversión. En ningún caso puede tratarse de marcas creadas por la propia institución ni adquiridas de una forma distinta a la compra.
-
-El costo de la marca adquirida se amortizará en el plazo que resulte menor entre 10 años y su vida útil estimada según los fines que se persiguen.
-
-En todo caso, la institución financiera deberá evaluar anualmente los beneficios que reporta la propiedad de la marca, debiendo acelerar el traspaso a los resultados si no existen razones fundadas para mantener las condiciones primitivas de amortización.
-
-6.- Otros activos intangibles.
-
-Las instituciones financieras podrán registrar en el activo otros bienes o derechos intangibles no tratados expresamente en los numerales precedentes, ciñéndose a los criterios descritos en el Boletín Técnico N° 55 del Colegio de Contadores de Chile A.G. En todo caso, el período de amortización de estos activos intangibles no podrá ser superior a cinco años.
-
-7.- Reconocimiento de indemnizaciones por años de servicio con efecto retroactivo.
-
-Las empresas que pacten con su personal el pago de indemnizaciones por años de servicio y acuerden reconocer el derecho adquirido por la permanencia del personal en años anteriores, podrán diferir el cargo a los resultados por aquella parte que se reconoce retroactivamente, en concordancia con los criterios señalados en los Boletines Técnicos N°s. 8 y 18 del Colegio de Contadores de Chile A.G.
-
-8.- Información de saldos.
-
-Los saldos no amortizados de los activos intangibles y gastos diferidos de que tratan los números precedentes, se incluirán en las siguientes cuentas de la partida 2120: "Gastos de organización y puesta en marcha", "Inversiones en Software", "Sobreprecio en adquisición de negocios", "Marcas registradas", "Otros activos intangibles" y "Reconocimiento de indemnizaciones por años de servicio".
-
-Los resultados por las amortizaciones se incluirán en las siguientes cuentas de la partida 6265: "Amortización de gastos de organización y puesta en marcha", "Amortización de inversiones en Software", "Amortización de sobreprecio en adquisición de negocios", "Amortización de marcas registradas", "Amortización de otros activos intangibles" y "Amortización de reconocimiento de indemnizaciones por años de servicio".
-
-CAPITULO 7-7 (Bancos y Financieras)
-
-MATERIA:
-
-RECONOCIMIENTO DE INGRESOS Y GASTOS POR PRESTACIONES QUE CUBREN UN PERIODO DETERMINADO.
-
-1.- Ingresos percibidos por adelantado y gastos pagados por anticipado.
-
-Los ingresos y gastos percibidos o pagados por adelantado en relación con el período que cubre el servicio que se presta o se recibe, deben reconocerse en los resultados en función del tiempo de duración de tales servicios, sin perjuicio del reconocimiento contable de las devoluciones o indemnizaciones que se hubieren pactado por la suspensión de los servicios.
-
-Así, por ejemplo, en la medida en que se perciban anticipadamente importes por mantención de líneas de crédito, por administración de tarjetas para operar cajeros automáticos, por uso de cajas de seguridad, etc., los respectivos ingresos deben imputarse linealmente en las cuentas de resultado en el tiempo que contractualmente cubre el pago. Del mismo modo, los importes pagados anticipadamente por conceptos tales como líneas de crédito, arriendos, seguros, uso de marcas, etc. se cargarán linealmente a las respectivas cuentas de gastos en función de la duración de los derechos que se adquieren con esos pagos.
-
-Los derechos de llave que pudieren originarse por bienes arrendados, se considerarán como parte del costo del arriendo, debiendo amortizarse en el plazo máximo de cinco años o en el de la vigencia del contrato de arrendamiento, el que sea menor, a partir de la fecha en que comience a ser utilizado el bien.
-
-Las comisiones por avales y fianzas o emisión de cartas de crédito stand by, por su naturaleza, corresponden a servicios que cubren un período futuro y, por lo tanto, deben diferirse los traspasos a resultados, acorde con el período por el cual se cobran. En el caso de la emisión de Boletas de Garantía, se diferirán los ingresos por comisiones percibidas en el plazo de vigencia de la Boleta.
-
-No se aplica, en cambio, el tratamiento mencionado en este número para aquellos ingresos o gastos en que no media una prestación que cubre un período futuro, aun cuando existan ciertas operaciones ligadas que no se han extinguido. Así por ejemplo, no corresponde seguir este criterio en el caso de comisiones por apertura, aviso, confirmación o negociación de cartas de crédito, emisión de vales vista, certificaciones, etc., en que las comisiones se cobran por la realización de cada uno de esos actos, como tampoco en el caso de comisiones por la apertura de líneas de crédito, cobranza de documentos u otros en que el cobro esté claramente diferenciado de los que se realizan en función del tiempo de permanencia.
-
-El procedimiento contable de que trata este N° 1 se aplicará obligatoriamente sólo cuando tenga un efecto importante en los resultados de la institución, en relación con el que se obtendría al reconocer consistentemente los ingresos y gastos sobre la base de lo percibido o pagado.
-
-Los ingresos percibidos por adelantado y que se reconozcan en forma diferida en resultados, se informarán en las cuentas "Comisiones percibidas por adelantado" u "Otros ingresos percibidos por adelantado" de la partida 4120, en tanto que los gastos pagados por anticipado se incluirán en las cuentas "Comisiones pagadas por anticipado" y "Otros gastos pagados por anticipado" de la partida 2120.
-
-Las presentes normas no se refieren a los pagos anticipados de servicios que se cumplen o completan en diferentes oportunidades o por etapas, como es el caso, por ejemplo, de publicidad contratada y pagada, en que el traspaso a resultados no será en función del tiempo transcurrido sino de la ejecución del servicio o prestación. No obstante, para efectos de información acerca de los anticipos se utilizarán las mismas cuentas señaladas precedentemente.
-
-Las disposiciones de este número se aplican también a cualquier recepción anticipada de intereses en las operaciones de crédito. Al respecto deben tenerse presente las disposiciones del Capítulo 7-1 de esta Recopilación relativas al devengo de intereses de acuerdo con la tasa efectiva, debiendo en consecuencia registrarse como ingresos solamente los intereses devengados, además de los reajustes en caso de operaciones reajustables.
-
-2.- Servicios pagados al vencimiento. Devengo de los importes por cobrar o pagar.
-
-Los ingresos y gastos correspondientes a servicios que se pagan al vencimiento del plazo en que se presten o reciban, se reconocerán sobre base devengada.
-
-Deberán tratarse así, por ejemplo, las comisiones por cobrar o por pagar por mantención de líneas de crédito cuando se haya pactado el pago al término del período en el cual se puede hacer uso de ese servicio financiero, o con las comisiones por cobrar por la mantención o administración de productos bancarios en general, cuando ellas dependan del tiempo en que se utilizan.
-
-No obstante, el reconocimiento de ingresos sobre base devengada se aplicará solamente cuando las condiciones pactadas aseguren el derecho a cobrar y sean conocidos los importes que serán percibidos. En caso de incertidumbre, como es común que ocurra, por ejemplo, con comisiones por mantención de cuentas corrientes o cuentas de ahorro o a la vista, las comisiones cobradas por período vencido se reconocerán sobre base percibida.
-
-La utilización de los criterios señalados en este N° 2 es obligatoria solamente cuando tenga un efecto importante en los resultados, en relación con el que se obtendría al reconocer consistentemente los ingresos y gastos sobre la base de lo percibido o pagado.
-
-Mientras no llegue la oportunidad pactada para su pago, los importes devengados por cobrar se reflejarán en las cuentas "Comisiones devengadas" u "Otros importes devengados por cobrar" de la partida 2115, en tanto que los importes devengado por pagar" se incluirán en las cuentas "Comisiones devengadas u "Otros importes devengados por pagar" de la partida 4115.
-
-Conviene tener presente que en el caso de colocaciones contingentes, el tratamiento a que se refiere este número se encuentra implícito en las instrucciones de esta Superintendencia, al reconocerse ingresos por la vía de un por devengo de intereses, quedando en este caso los importes por cobrar incluidos dentro del concepto de colocaciones
-
-3.- Costos incurridos para la realización de operaciones. Gastos que se pueden diferir.
-
-Los siguientes costos asociados a activos, obligaciones o servicios que cubren un período determinado, podrán reconocerse en los resultados en forma diferida, siempre que se cumplan las condiciones que se indican:
-
-3.1.- Gastos incurridos para el otorgamiento de créditos
-
-Podrá reconocerse como gastos en forma diferida lo siguiente:
-
-a) Las comisiones pagadas por la venta de un producto o la mayor remuneración pagada en razón a su venta.
-
-b) Los honorarios pagados para el otorgamiento de créditos sindicados.
-
-c) Las primas pagadas por seguros de desgravamen o cesantía que sean de cargo de la propia institución financiera.
-
-Los costos mencionados en los literales precedentes son solamente aquellos directamente asociados e identificables con cada uno de los créditos contratados.
-
-Para diferir su imputación a los resultados, será requisito que la institución financiera mantenga sistemas de registro y controles que asocien cada una de las operaciones de crédito con su respectivo costo diferido y permitan efectuar el traspaso a los resultados según lo que se indica a continuación.
-
-Los gastos se reconocerán linealmente en el tiempo de la duración del crédito o en un plazo máximo de cinco años, lo que sea menor, debiendo traspasarse a resultados de inmediato la totalidad de los costos diferidos cuando el respectivo crédito o una de sus cuotas ingresen a cartera vencida, o se suspenda el devengo de sus intereses, de acuerdo con las normas de los Capítulos 8-26 y 7-1 de esta Recopilación
-
-3.2.- Gastos incurridos en otros productos.
-
-Las instituciones financieras también podrán reconocer en forma diferida los gastos en que incurran por el pago de comisiones o mayores remuneraciones que obedezcan a la venta de otros servicios diferentes al otorgamiento de créditos, tales como cuentas corrientes, tarjetas de crédito, depósitos a plazo, etc., siempre que se trate de productos cuya contratación reporte, directa o indirectamente, un beneficio futuro para la institución, y su duración cierta o estimada se encuentre razonablemente demostrada.
-
-Dichos costos podrán diferirse en un plazo máximo de dos años a contar de la fecha de los desembolsos.
-
-3.3.- Costos asociados a financiamientos obtenidos.
-
-Podrá registrarse como gasto en forma diferida lo siguiente:
-
-a) Los costos incurridos por la emisión de bonos colocados en el país o en el exterior, tales como impuestos, gastos de escrituración, comisiones pagadas en relación con la emisión y colocación, honorarios de abogados, auditores externos y clasificadores de riesgo que intervengan.
-
-b) Comisiones e impuestos por obtención de créditos del exterior.
-
-Los gastos se reconocerán linealmente en el tiempo de la duración de los respectivos créditos, o bien, en función de una tasa implícita calculada según los recursos netos obtenidos.
-
-3.4.- Condición para diferir gastos correspondientes a servicios de terceros
-
-Los importes pagados por la institución como comisiones u honorarios, podrán imputarse a los resultados en forma diferida según lo indicado en los numerales precedentes, solamente cuando no excedan los valores de mercado para la prestación de que se trate y los respaldos de sus pagos identifiquen las operaciones involucradas.
-
-3.5.- Información de saldos.
-
-Todos los gastos que se difieran al amparo de lo establecido en este número, cualesquiera sean las operaciones que les dieron origen, se registrarán separadamente en el activo según su naturaleza, debiendo informarse en la cuenta "Gastos de operación diferidos" de la partida 2120.
-
-CAPITULO 7-10 (Bancos y Financieras)
-
-MATERIA:
-
-PROVISIONES POR RIESGO DE CREDITO.
-
-I.- PROVISIONES SOBRE LA CARTERA DE COLOCACIONES.
-
-1.- Evaluación de la cartera.
-
-Las instituciones financieras deben mantener permanentemente evaluada la totalidad de su cartera de colocaciones, a fin de constituir oportunamente las provisiones necesarias y suficientes para cubrir las pérdidas por la eventual irrecuperación de los créditos concedidos.
-
-Para ese efecto, deberán utilizar los modelos o métodos de evaluación que sean más apropiados para el tipo de cartera u operaciones que realicen, ciñéndose a las pautas generales establecidas en los N°s. 2 y 3 siguientes.
-
-Dichos modelos, como asimismo las modificaciones en su diseño o aplicación, deberán ser aprobados por el Directorio de la institución financiera, debiendo quedar constancia de ello en el acta de la respectiva sesión.
-
-Al tratarse de agencias de bancos extranjeros, dicha aprobación deberán obtenerla de su Casa Matriz. En las demás disposiciones del presente Capítulo en que se mencione al Directorio, también se entenderá referido a la autoridad correspondiente de su Casa Matriz.
-
-2.- Modelos basados en el análisis individual de los deudores.
-
-2.1.- Evaluación individual.
-
-La evaluación individual de los deudores es necesaria cuando se trate de empresas que por su tamaño, complejidad o nivel de exposición con la entidad, sea necesario conocerlas integralmente.
-
-Los modelos diseñados sobre la base del análisis individual, contemplarán el uso de categorías de riesgo para los deudores y sus créditos.
-
-Como es natural, el análisis de los deudores debe centrarse en su capacidad para cumplir con sus obligaciones crediticias, mediante información suficiente y confiable, debiendo analizarse también sus créditos en lo que se refiere a garantías, plazos, tasas de interés, moneda, reajustabilidad, etc.
-
-2.2.- Factores de riesgo.
-
-Para los efectos del análisis individual de que se trata, las instituciones financieras deberán considerar al menos lo siguiente:
-
-Industria o sector: Se refiere al análisis del grado de competencia en el mercado en que está inserto el deudor, la sensibilidad del sector a las fluctuaciones cíclicas de la economía y de otros factores de exposición al riesgo que acompañan a la industria de que se trate.
-
-Socios y administración: Se refiere al cono cimiento de los socios o propietarios de la empresa, y en algunos casos también de los administradores. En este sentido, resulta relevante saber si ellos tienen experiencia comprobada en el negocio, su antigüedad, honorabilidad en los negocios y nivel de endeudamiento, como asimismo el grado de compromiso de su patrimonio.
-
-Situación financiera y capacidad de pago: Se refiere al análisis de la situación financiera del deudor, utilizando para el efecto indicadores tales como: liquidez, calidad de los activos, eficiencia operacional, rentabilidad, apalancamiento y capacidad de endeudamiento, etc., debiendo compararse los indicadores pertinentes con aquellos de la industria en que se inserta la empresa.
-
-En relación con la capacidad de pago del deudor, se examinarán las características de su endeudamiento global y se estimaran sus flujos de caja, incorporando para el efecto distintos escenarios en función de las variables de riesgo claves del negocio.
-
-Asimismo, deben considerarse en forma explícita los posibles efectos de los riesgos financieros a que está expuesto el deudor y que pueden repercutir en su capacidad de pago, tanto en lo que concierne a los descalces en monedas, plazos y tasas de interés, como en lo que toca a operaciones con instrumentos derivados y compromisos por avales o cauciones otorgadas.
-
-Comportamiento de pago: Se refiere al análisis de la información acerca del deudor que permite conocer el grado de cumplimiento de sus obligaciones en general, esto es, tanto el comportamiento histórico de pagos en la institución como en el sistema financiero, como asimismo el cumplimiento de sus demás obligaciones, siendo antecedentes relevantes, por ejemplo, las infracciones laborales, previsionales o tributarias.
-
-Las garantías que cubren los créditos, que pasan a constituir un factor importante cuando se trate de deudores que muestren dificultades para el pago de sus obligaciones, deberán considerarse de acuerdo con lo indicado en el N° 4 de este título.
-
-2.3.- Nivel de provisiones.
-
-Cualesquiera sean las categorías de riesgo que la institución financiera utilice en sus modelos de evaluación individual, para efectos de constituir las provisiones deberán clasificarse los deudores con sus créditos, incluidos los respectivos intereses y reajustes devengados, en las categorías de riesgo que se indican en los numerales siguientes.
-
-Los modelos deberán contemplar la homologación con esas categorías, cuando ellos consideren una distinta o cuando se trate de métodos refinados que separen la clasificación de deudores de la clasificación de créditos.
-
-2.3.1.- Cartera de deudores con riesgo normal.
+En cumplimiento de lo anterior, esta Superintendencia ha entregado los porcentajes de reajustabilidad que se indican a continuación, para ser aplicados a las amortizaciones y los saldos de aquellos créditos en las fechas que se señalan:
 
 .
-
-En estas categorías se encasillarán los deudores cuya capacidad de pago es suficiente para cubrir sus obligaciones en las condiciones pactadas.
-
-Las categorías con el rango "A" se refieren a deudores sin riesgos apreciables, cuya capacidad de pago seguiría siendo buena frente a situaciones desfavorables de negocios, económicas o financieras. El encasillamiento en ese rango se efectuará según la fortaleza relativa de los deudores, establecida de acuerdo con los métodos utilizados por la institución financiera. No obstante, por razones estadísticas, la categoría Al de la tabla se utilizará solamente para encasillar a aquellas empresas cuyos títulos en moneda nacional tengan una clasificación privada de riesgo igual o superior a "AA-". En el evento que exista más de una clasificación para los mismos títulos, se tomará en cuenta la más baja.
-
-En la categoría "B" se encasillarán a los deudores que presentan algún riesgo, pero que no muestran señales de deterioro al punto de que frente a situaciones previsibles adversas de negocios, económicas o financieras, el deudor analizado dejaría de pagar alguna de sus obligaciones.
-
-Por tratarse de categorías que reflejan la capacidad de pago del deudor, pueden incluirse en ellas solamente los deudores cuya fortaleza hace innecesario el examen de las recuperaciones de los créditos en relación con las garantías. Por consiguiente, en ningún caso la homologación permite encasillar en estas categorías a deudores que muestran un mal comportamiento de pago (con la institución financiera o con terceros y reflejado, por ejemplo, en la cartera vencida, morosidad recurrente o renegociaciones con capitalización de intereses), aun cuando los créditos se encuentren totalmente cubiertos con garantías.
-
-Para efectos de constituir las provisiones, todos los créditos comerciales y operaciones de leasing comercial de un mismo deudor, quedarán encasillados en la categoría del deudor, debiendo utilizarse los porcentajes aprobados por el Directorio.
-
-2.3 2 - Cartera de deudores con riesgo superior al normal.
-
-En este segmento se ubicarán los deudores con capacidad de pago insuficiente en las situaciones previsibles. Las categorías que se indican corresponden a un encasillamiento basado en el nivel de pérdida esperado de créditos comerciales y operaciones de leasing comercial del cliente en su conjunto, cuantificado de acuerdo a la metodología utilizada por la institución financiera.
-
-Para efectos de constituir las provisiones, se aplicará sobre los créditos el porcentaje asociado al rango de porcentajes de pérdida estimada.
-
-3.- Modelos de evaluación grupal.
-
-3.1.- Evaluaciones qrupales.
-
-Las evaluaciones grupales de deudores o de créditos resultan pertinentes para abordar un alto número de operaciones cuyos montos individuales son bajos, en que se pueden establecer características homogéneas para un grupo de deudores o de créditos.
-
-En general, la evaluación en forma masiva de los deudores se puede aplicar cuando se trate de personas naturales o empresas de tamaño pequeño.
-
-3.1.1.- Modelos basados en los atributos de los deudores y sus créditos.
-
-El método que se utilice (la "matriz de riesgo" o como se le denomine), puede apuntar a una clasificación de deudores en categorías de riesgo o bien a la cuantificación directa de pérdidas por cada crédito o conjunto de créditos, basándose en los atributos del deudor y de los créditos.
-
-La conformación de grupos requiere que la institución financiera especifique los atributos que deben reunir los deudores que lo conforman y las razones para hacerlo, debiendo contar con la evidencia empírica que permita fundamentar los factores de riesgo que se consideran. En estos modelos constituyen factores de riesgo, por ejemplo, el comportamiento de pago interno (amortizaciones al préstamo original y renegociaciones), el nivel de endeudamiento, el comportamiento de pago en otras instituciones financieras, la estabilidad y suficiencia de los ingresos, como asimismo las garantías, según el tipo de operaciones de que se trate.
-
-3.1.2.- Métodos basados en el comportamiento de un grupo de créditos.
-
-Al tratarse de créditos de carácter masivo que tienen características de riesgo comunes, la institución podrá también basar su estimación de pérdidas en los porcentajes que se obtienen del comportamiento histórico de los deterioros, castigos y recuperaciones del grupo de créditos de que se trate.
-
-Este método (análisis de "camadas") se basa en el seguimiento de créditos otorgados bajo condiciones homogéneas a deudores que cumplan ciertas características comunes y sólo se podrá aplicar si existe un historial suficientemente amplio para fundamentar el comportamiento de créditos otorgados bajo las mismas políticas crediticias, como puede ocurrir por ejemplo, con segmentos de créditos hipotecarios para vivienda en letras de crédito o en mutuos hipotecarios endosables.
-
-3.2.- Nivel de provisiones.
-
-Tratándose de las evaluaciones grupales, las provisiones correspondientes a los créditos se constituirán siempre de acuerdo con la pérdida estimada mediante los métodos que se utilicen, es decir, no se aplicarán homologaciones como las previstas en el numeral 2.3.1 y 2.3.2, sin perjuicio de la posibilidad de aplicar criterios similares en esos métodos.
-
-4.- Garantías y bienes entregados en leasing.
-
-4.1.- Garantías.
-
-Una garantía puede considerarse como una segunda fuente de pago sólo si está legalmente bien constituida y no existe incertidumbre respecto a su eventual ejecución y/o liquidación a favor de la institución financiera acreedora.
-
-Al tratarse de garantías reales (hipotecas o prendas), la estimación de pérdidas en los métodos que se apliquen deben considerar el flujo neto que se obtendría en la venta de los bienes. De acuerdo con eso, el monto de recuperación de un crédito por la vía de la garantía, corresponderá al valor actual del importe que se obtendría en la venta de acuerdo con las condiciones actuales del mercado, neto de los gastos estimados en que se incurriría para mantenerlos y/o enajenarlos, todo ello en concordancia con las políticas que al respecto tenga la institución financiera.
-
-La necesidad de retasar los bienes o de reexaminar sus condiciones físicas, dependerá de la posibilidad de que las variaciones de precios o deterioros físicos de los bienes incidan en la recuperación total de los créditos con problemas de pago.
-
-Lo anterior es sin perjuicio de los criterios distintos de valorización de garantías que deben utilizarse para el solo efecto de la ampliación de los límites de crédito, tratados en el Capítulo 12-3 de esta Recopilación.
-
-4.2.- Bienes entregados en leasing.
-
-Las estimaciones de pérdida para efectos de constituir las provisiones de acuerdo con los métodos de evaluación que se apliquen, considerarán el estado de los bienes arrendados y los gastos que implica su rescate y liquidación o eventual recolocación.
-
-5.- Segmentación de la cartera.
-
-Para efectos de la evaluación y constitución de provisiones, las instituciones financieras segmentarán la cartera por tipos de deudores y de créditos hasta los niveles que estimen más apropiados o pertinentes para la aplicación de sus distintos modelos, en concordancia con sus fundamentos metodológicos. Por ejemplo, pueden considerar los créditos otorgados a bancos, a grandes, medianas, pequeñas y micro empresas, mandamientos especializados, créditos hipotecarios de vivienda y consumo.
-
-Para efectos de información contable a esta Superintendencia, se tendrá una agrupación entre créditos comerciales, hipotecarios de vivienda, consumo, leasing y factoraje, considerando lo indicado en el Anexo N° 2 de este Capítulo, sin perjuicio de la información más detallada que puede solicitarse principalmente en relación con el tipo de deudor de los créditos comerciales (grandes, medianas, pequeñas y microempresas) o con la identificación de los créditos otorgados a deudores del exterior.
-
-6.- Pruebas de la eficacia de los métodos de evaluación utilizados.
-
-Los modelos que se utilicen deben ser revisados anualmente con miras a asegurar la mejor cobertura de provisiones al cierre del ejercicio, debiendo comunicarse los resultados de esa evaluación al Directorio para los fines previstos en el numeral 7.1 siguiente.
-
-7.- Supervisión de la suficiencia de las provisiones constituidas.
-
-7.1.- Conformidad del Directorio.
-
-Debido a la importancia que tienen las provisiones por riesgo de crédito en los balances de las instituciones financieras, su Directorio deberá examinar por lo menos una vez al año y en relación con el cierre de cada ejercicio anual, la suficiencia del nivel de provisiones y deberá dar en forma expresa su conformidad, en el sentido de que, en su opinión, ellas son suficientes para cubrir todas las pérdidas que pueden derivarse de los créditos otorgados por la entidad que dirige.
-
-Para ese efecto, junto con todos los antecedentes que estime necesario considerar, deberá obtener también un informe de los auditores externos de la institución financiera.
-
-Además de dejarse constancia en actas de lo anterior, el Directorio comunicara por escrito a esta Superintendencia, a más tardar el último día hábil bancario del mes de enero de cada año, su conformidad con el nivel de provisiones y, cuando sea el caso, las provisiones adicionales que haya exigido constituir como consecuencia de su examen.
-
-7.2.- Revisiones de esta Superintendencia.
-
-En sus visitas de inspección esta Superintendencia examinará el funcionamiento de los métodos utilizados por las instituciones financieras, como parte de la evaluación que hará de la administración del riesgo de crédito para los efectos contemplados en el Capítulo 1-13 de esta Recopilación.
-
-Por otra parte, revisará la suficiencia de las provisiones constituidas examinando, entre otras cosas, la clasificación de deudores en las categorías establecidas en el numeral 2.3 anterior cuando se trate de cartera en que se aplica una metodología de análisis individual de deudores.
-
-La revisión de este Organismo podrá limitarse a cierto tipo de deudores, de créditos o de metodologías utilizadas, es decir, no necesariamente efectuará una estimación de la pérdida esperada para la totalidad de la cartera de colocaciones.
-
-Como resultado de esta revisión, las diferencias que resulten entre las provisiones constituidas y las pérdidas estimadas por esta Superintendencia, por los motivos que en cada caso se darán a conocer, se traducirán en una calificación de la institución financiera, para lo cual se utilizarán las categorías explicadas en el Anexo N° 1 de este Capítulo.
-
-La calificación de la institución financiera puede ser determinante en la clasificación según gestión de que trata el Capítulo 1-13 de esta Recopilación, como también puede derivar en la obligación de mantener un nivel mínimo de provisiones exigido por esta Superintendencia, de acuerdo con lo señalado en el Anexo N° 1.
-
-8.- Tipos de provisiones por riesgo de crédito de la cartera de colocaciones.
-
-Las provisiones necesarias para cubrir adecuadamente la cartera de colocaciones deben ser calculadas y constituidas mensualmente, considerando los siguientes tipos de provisiones:
-
-8.1.- Provisiones determinadas por los métodos de evaluación individual.
-
-8.1.1 - Provisiones sobre cartera con riesgo normal.
-
-Las "provisiones sobre cartera con riesgo normal" serán aquellas que cubren los créditos de los deudores clasificados en las categorías de que trata el numeral 2.3.1 de este título y cuyos porcentajes deben ser aprobados por el Directorio de la institución financiera según lo que se indica en ese numeral.
-
-8 1.2 - Provisiones sobre cartera con riesgo superior al normal.
-
-Se identificarán como "provisiones sobre cartera con riesgo superior al normal", aquellas que se derivan de la aplicación de los métodos de evaluación individual, correspondientes al segmento de la cartera a que se refiere el numeral 2.3.2 de este título.
-
-8.2.- Provisiones determinadas por los métodos de evaluación grupal.
-
-Las provisiones que se derivan de la aplicación de los modelos de evaluación grupal según lo indicado en el numeral 3.2, se identificarán como "provisiones grupales".
-
-8.3.- Provisiones adicionales para la cartera de colocaciones.
-
-Las instituciones financieras pueden constituir también provisiones adicionales a aquellas que se derivan de la aplicación de sus modelos de evaluación de cartera, siempre que su constitución se justifique en el riesgo de la cartera de colocaciones y sea aprobada por su Directorio, como es el caso de las mayores provisiones que podría exigir según lo previsto en el numeral 7.1 anterior.
-
-Resulta recomendable constituir este tipo de provisiones frente a perspectivas macroeconómicas adversas o circunstancias que pueden afectar a un sector, industria o grupos de deudores o proyectos, especialmente si existen concentraciones de créditos.
-
-II.- OTRAS DISPOSICIONES.
-
-1.- Provisiones para los efectos del artículo 66 de la Ley General de Bancos.
-
-Constituyen provisiones para los efectos del artículo 66 de la Ley General de Bancos aquellas que tienen un carácter de provisiones generales y que corresponden a las mencionadas en los numerales 8.1.1 y 8.3 del título I, esto es, las provisiones sobre cartera con riesgo normal y las provisiones adicionales.
-
-Por consiguiente, la suma de esas provisiones, hasta por un monto equivalente al 1,25 % de los activos ponderados por riesgo, se computara como patrimonio efectivo de acuerdo con lo indicado en el artículo 66 de la Ley General de Bancos.
-
-Para efectos de la ponderación por riesgo de la cartera de colocaciones, los montos de las provisiones que se consideran como patrimonio efectivo no se deducirán de las colocaciones que se encuentran protegidas por esas provisiones.
-
-2.- Efectos tributarios de las provisiones sobre colocaciones.
-
-Las provisiones establecidas en este Capítulo se refieren, como es natural, a las que deben constituirse en relación con los estados financieros y, por lo tanto, difieren de las disposiciones tributarias, dando origen a las diferencias temporarias para el cálculo del impuesto diferido.
-
-El N° 4 del artículo 31 de la Ley sobre Impuesto a la Renta establece que son deducibles como gastos tributarios las provisiones sobre créditos vencidos, a las cuales se refieren las instrucciones conjuntas impartidas en su oportunidad mediante la Circular N° 2.002-450, por el Director del Servicio de Impuestos Internos y el Superintendente de Bancos e Instituciones Financieras.
-
-Para esos efectos tributarios, las instituciones financieras pueden mantener en su contabilidad las cuentas necesarias para demostrar las provisiones individuales sobre cartera vencida a que se refiere la Circular antes mencionada, entendiendo que para la información financiero-contable ellas corresponden a una parte de las provisiones sobre cartera con riesgo superior al normal o las provisiones grupales, según sea el caso, cuyos montos totales se determinan por las metodologías de estimación de pérdidas mencionadas en este Capítulo.
-
-3.- Provisiones por riesgo de crédito de otros activos.
-
-Las provisiones sobre otros activos diferentes a las colocaciones, deben ceñirse a las instrucciones que para el caso ha impartido esta Superintendencia. Si no existieren instrucciones específicas, deberán constituirse las provisiones que sean necesarias de acuerdo con criterios contables prudenciales de aceptación general.
-
-4.- Moneda.
-
-Todas las provisiones, sea sobre colocaciones u otros activos, deben constituirse en pesos, moneda chilena, aun cuando cubran créditos en moneda extranjera.
-
-5.- Presentación de los saldos.
-
-Las provisiones constituidas y los resultados por constitución o liberación de provisiones sobre la cartera de colocaciones, se informarán en las cuentas del Sistema de Información de esta Superintendencia que se indican en el Anexo N° 3 de este Capítulo, las que incluyen también los ingresos por recuperación de los créditos castigados.
-
-III.- DISPOSICIONES TRANSITORIAS.
-
-Las normas del presente Capítulo regirán a contar del 1° de enero de 2004, con excepción de la disposición del numeral 7.1 de su título I que rige de inmediato En todo caso, las mayores provisiones que pudiera exigir el Directorio antes del año 2004 de acuerdo con ese numeral, no se computarán como patrimonio efectivo.
-
-ANEXO N° 1
-
-CALIFICACION DE LAS INSTITUCIONES FINANCIERAS SEGUN SUS SISTEMAS DE EVALUACION DE CARTERA.
-
-CALIFICACION.
-
-Para calificar a las instituciones financiera se utilizarán los siguientes indicadores referidos al resultado obtenido en la visita de inspección en que se examine la cartera y sus provisiones.
-
-.
-
-En que
-
-Ps = Perdida estimada por la Superintendencia para la cartera o una parte de la cartera.
-
-Pi = Perdida estimada por la institución financiera para la misma cartera o parte de la cartera.
-
-K = Patrimonio efectivo de la institución financiera.
-
-L = Total provisiones sobre la cartera de colocaciones, excluidas las provisiones adicionales.
-
-Las instituciones financieras serán clasificadas en las categorías 1, 2, 3 y 4, de acuerdo a la siguiente tabla, que resulta de la combinación de ambos indicadores.
-
-.
-
-EFECTOS DE LA CALIFICACION.
-
-Instituciones calificadas en categoría 2.
-
-- La institución financiera que quede clasificada en categoría 2 deberá mantener el o los niveles mínimos de provisiones que indique esta Superintendencia, mientras el Directorio de la institución no tome conocimiento de las situaciones observadas y considere que se encuentran solucionados los problemas que motivaron tal decisión.
-
-- La calificación puede incidir en la clasificación según gestión si no se da una oportuna solución a las deficiencias que haya observado la Superintendencia.
-
-Instituciones calificadas en categorías 3 y 4.
-
-- La institución financiera deberá mantener el o los niveles mínimos de provisiones que indique esta Superintendencia hasta tanto no le autorice lo contrario.
-
-- La categoría será un factor determinante para la clasificación según gestión, de manera que en ningún caso la institución financiera quedará clasificada en categoría A para ese efecto.
-
-ANEXO N°3
-
-INFORMACION DE SALDOS SOBRE CONSTITUCION, USO Y LIBERACION DE PROVISIONES POR RIESGO DE CREDITO DE LA CARTERA DE COLOCACIONES.
-
-Para efecto de informar los saldos en el Sistema de Información de esta Superintendencia, se utilizarán las siguientes cuentas:
-
-PROVISIONES CONSTITUIDAS - PARTIDA 4205
-
-- Provisiones sobre cartera con riesgo normal
-
-- Provisiones sobre cartera con riesgo superior al normal
-
-- Provisiones grupales créditos comerciales
-
-- Provisiones grupales créditos de consumo
-
-- Provisiones grupales créditos vivienda
-
-- Provisiones grupales factoring
-
-- Provisiones adicionales
-
-RESULTADOS - PARTIDA 6110
-
-Gastos por constitución de provisiones
-
-- Provisiones sobre cartera con riesgo normal
-
-- Provisiones sobre cartera con riesgo superior al normal
-
-- Provisiones grupales créditos comerciales
-
-- Provisiones grupales créditos de consumo
-
-- Provisiones grupales créditos vivienda
-
-- Provisiones grupales factoring
-
-- Provisiones adicionales
-
-Ingresos por liberación de provisiones
-
-- Liberación de provisiones sobre créditos comerciales
-
-- Liberación de provisiones sobre créditos consumo
-
-- Liberación de provisiones sobre créditos vivienda
-
-- Liberación de provisiones sobre factoring
-
-- Liberación de provisiones adicionales
-
-Ingresos por recuperación de créditos castigados
-
-- Recuperación de créditos comerciales castigados
-
-- Recuperación de créditos consumo castigados
-
-- Recuperación de créditos de vivienda castigados
-
-- Recuperación de factoring castigados.
 
 Capítulo 7-12 (Bancos)
 
@@ -7661,48 +6997,6 @@ El banco afectado por una suspensión o revocación de la autorización para emi
 En cualquier caso, si a un banco se le suspende la autorización para emitir tarjetas de crédito quedará impedido, mientras dure la suspensión, de entregar nuevas tarjetas, renovar las que haya emitido con anterioridad, afiliar nuevos establecimientos y contraer nuevas obligaciones con las entidades afiliadas, sin perjuicio de dar cumplimiento a las operaciones que se encontraren pendientes.
 
 Por otra parte, si se revocare la autorización, además de suspender la entrega de tarjetas y la afiliación de establecimientos, la entidad afectada deberá adoptar las medidas pertinentes para comunicar a cada uno de los titulares de las tarjetas emitidas y a cada uno de los establecimientos afiliados, que estas quedarán sin efecto en un plazo máximo de 30 días, contados desde la fecha en que se le haya comunicado la revocación. No obstante, los créditos y las obligaciones de pago pendientes de cumplimiento, conservarán las fechas o plazos de vencimiento originalmente previstos para su pago, en los respectivos contratos.
-
-13.- Instrucciones contables.
-
-13.1.- Oportunidad del registro por la utilización de las tarjetas.
-
-Las operaciones que no correspondan a avances en efectivo u otras de cargo inmediato que deben registrarse el día en que se efectúan, se registrarán el día que se reciba la información de las transacciones realizadas.
-
-Si el banco no paga esas transacciones el mismo día en que recibe la información y mientras no lo haga, los respectivos importes adeudados por los titulares de las tarjetas no se incluirán aún dentro de las colocaciones. En todo caso, si la obligación del banco se solucionara con posterioridad a la fecha en que vencen los estados de cuenta que contienen las transacciones, éstas se informarán como colocaciones a partir del vencimiento de esos estados.
-
-13.2.- Información de los activos.
-
-a) Operaciones que aún no se consideran colocaciones.
-
-Las operaciones que se encuentren en la situación descrita en el numeral 13.1 anterior, se informarán a esta Superintendencia en la cuenta "Utilizaciones de tarjetas de crédito por cobrar" de la partida 2115.
-
-b) Colocaciones vigentes.
-
-Salvo por lo indicado en las letras a) y c), las obligaciones de los clientes en su calidad de titulares de tarjetas de crédito se informarán en la cuenta "Créditos a titulares de tarjetas de crédito" de la partida 1115, o bien en la partida 1110 si se trata de deudas de empresas.
-
-c) Cartera vencida.
-
-Para la aplicación de lo dispuesto en el Capítulo 8-26 de esta Recopilación, el no pago de una cuota o del monto mínimo exigido dentro del plazo de 90 días contado desde su vencimiento, determinará el traspaso obligatorio a cartera vencida del total adeudado por el respectivo titular de la tarjeta.
-
-La cartera vencida se informará en las cuentas "Créditos por tarjetas de crédito vencidos", de la partida 1411 si corresponde a deudas de personas naturales, o de la partida 1401 si se trata de deudas de empresas.
-
-13.3.- Información de pasivos.
-
-Los saldos adeudados por las transacciones efectuadas se informarán en la cuenta "Obligaciones con operadores de tarjetas de crédito" de la partida 3425. En caso de que sea el banco el que pague a los establecimientos afiliados, lo adeudado se informará en la cuenta "Obligaciones con establecimientos afiliados por el uso de tarjetas de crédito", de la misma partida.
-
-13.4.- Intereses.
-
-Los intereses se registrarán de acuerdo con las normas generales sobre la materia y los ingresos se informarán en la cuenta "Intereses de créditos a titulares de tarjetas de crédito", de la partida 7110 ó 7115, según corresponda.
-
-13.5.- Resultados por comisiones.
-
-Las comisiones se reconocerán en los resultados de acuerdo con lo previsto en el Capítulo 7-7 de esta Recopilación.
-
-Los ingresos por las comisiones cobradas a los titulares de las tarjetas se informarán en la cuenta "Comisiones por tarjetas cobradas a los titulares", de la partida 7530.
-
-Las comisiones percibidas por las transacciones realizadas se informarán en la cuenta "Comisiones por tarjetas de créditos cobradas a establecimientos afiliados" de la misma partida.
-
-Los gastos por comisiones pagadas a los operadores se incluirán en la cuenta "Comisiones por administración de tarjetas", de la Partida 5530.
 
 ## Capítulo 8-4
 
@@ -8502,192 +7796,6 @@ e) Tipos de seguros contratados, nombres de las compañías aseguradoras y núme
 
 En el caso que el monto insoluto del crédito sea servido mediante dividendos afectos a una reprogramación, se recomienda a las instituciones acreedoras enviar a los respectivos deudores, conjuntamente con el primer aviso de vencimiento que se despache conforme a estas instrucciones, una nota explicativa en que se informe que el saldo de la deuda reprogramada que se indica en él, se irá incrementando mensualmente por la parte de cada dividendo pagado que, en virtud de la reprogramación a que esté acogido el crédito, se prorrogue para ser pagado, más los correspondientes intereses, una vez extinguido el préstamo original.
 
-CAPITULO 8-26 (Bancos y Financieras)
-
-MATERIA:
-
-CARTERA VENCIDA. TRATAMIENTO DE COLOCACIONES VENCIDAS.
-
-### 1. Colocaciones e intereses por cobrar vencidos
-
-1.1. Traspaso a cartera vencida.
-
-Las instituciones financieras deben traspasar a cartera vencida los créditos o porción de éstos que no hayan sido pagados en la fecha convenida, dentro de los 90 días siguientes a su vencimiento.
-
-Al tratarse de importes de la partida 1140 "Varios Deudores", el plazo de 90 días se contará desde la fecha en que aquéllos se registraron en esa partida.
-
-Los traspasos se efectuarán a la cuenta de cartera vencida que corresponda, de las partidas 1401, 1411 ó 1416, considerando las cuentas señaladas en el Anexo N° 1 de este Capítulo para efectos de información a esta Superintendencia.
-
-En el evento de que las condiciones pactadas de un crédito contemplen la posibilidad de demandar al deudor el pago del valor total de un documento pagadero originalmente en cuotas, incluidas por lo tanto las cuotas no vencidas, se traspasará a cartera vencida, desde las respectivas cuentas de colocaciones e intereses por cobrar, el monto de las cuotas cuyo vencimiento no se haya
-
-cumplido pero que pueden hacerse efectivas en virtud de la cláusula de aceleración. El referido traspaso se hará dentro de los 90 días siguientes a la presentación de la demanda judicial. Para este efecto se presumirá que al presentarse la demanda judicial se hace efectiva la cláusula de aceleración.
-
-Los créditos ingresados a cartera vencida y que no se hubieren extinguido totalmente mediante su pago o remisión, podrán salir de ella solamente por castigo o por renegociación.
-
-Con todo, cuando la institución financiera carezca de un título ejecutivo que dé cuenta de la obligación del deudor, deberá castigar los montos que deberían ser traspasados a cartera vencida de acuerdo con las instrucciones precedentes, de manera que en ningún caso se incluirá dentro de la cartera vencida un saldo que no se ampare en un título ejecutivo vigente.
-
-1.2. Contabilización de los traspasos a cartera vencida.
-
-Los traspasos a cartera vencida incluirán el capital y los respectivos reajustes e intereses por cobrar del correspondiente crédito, que se encuentren registrados en el activo.
-
-Al tratarse de créditos sobre los cuales se hubiere suspendido el reconocimiento en cuentas de resultados de los reajustes e intereses devengados, de acuerdo con las instrucciones del Capítulo 7-1 de esta Recopilación, los reajustes e intereses suspendidos sólo originarán un traspaso en las respectivas cuentas de orden, de acuerdo con lo dispuesto en el numeral 3.1.2 del título II del referido Capítulo, sin afectar, por lo tanto, los montos registrados en el activo ni las cuentas de ingresos.
-
-1.3. Reingreso a cartera vigente de créditos vencidos.
-
-Los créditos vencidos pueden ser reingresados a la cartera vigente cuando sean renegociados, de acuerdo con las siguientes instrucciones:
-
-1.3.1. Condiciones mínimas para la renegociación de créditos vencidos.
-
-La renegociación de un crédito registrado en cartera vencida sólo podrá efectuarse cuando la entidad financiera acreedora, visando criterios realistas en la valoración de eventuales garantías y al examinar la capacidad de pago del deudor, pueda establecer, razonablemente, que el nuevo crédito que se otorgue será recuperado en las condiciones de interés, reajustabilidad y plazo que se acuerden.
-
-1.3.2. Avenimientos judiciales o extrajudiciales sobre créditos de la cartera vencida.
-
-Cuando se produzcan avenimientos que versen sobre créditos vencidos, que incluyan cláusulas que signifiquen nuevas condiciones de plazo para el servicio de la deuda, sea que modifiquen o no, a la vez, los términos de tasa de interés y de garantía, los importes comprendidos en el avenimiento se considerarán renegociados y, por lo tanto, se traspasarán de cartera vencida a la
-
-correspondiente cuenta de colocaciones vigentes.
-
-1.3.3. Reingreso a cartera vigente de créditos pagaderos en cuotas traspasados a cartera vencida por contener una cláusula de aceleración.
-
-Los importes correspondientes a los créditos pagaderos en cuotas que se hubieren traspasado a cartera vencida por contener una cláusula de aceleración, podrán considerarse como renegociados cuando se convenga con el deudor que, previo pago o renegociación de las cuotas en mora, continúe sirviendo el préstamo en la forma originalmente pactada. En este caso, los créditos podrán reingresarse a cartera vigente una vez que se paguen o renegocien todas las cuotas morosas.
-
-1.3.4. Registro contable de los créditos vencidos renegociados.
-
-Los créditos registrados en cartera vencida que se renegocien, se reingresarán a la cartera vigente junto con los intereses y reajustes que se hubieren suspendido por las causales señaladas en el N° 3 del título II del Capítulo 7-1 de esta Recopilación, los cuales se reconocerán en las respectivas cuentas de resultados y se considerarán capitalizados.
-
-Cuando ese procedimiento repercuta en una mayor provisión por riesgo de crédito o por riesgo país, al momento de registrar los ingresos por los intereses y reajustes se deberán aumentar las provisiones que correspondan.
-
-En todo caso, las instituciones financieras deberán mantener identificados todos aquellos créditos que hayan reingresado a cartera vigente como consecuencia de una renegociación, como asimismo aquellos que hayan sido otorgados con el objeto de pagar créditos vencidos.
-
-2.- Nómina que debe mantenerse a disposición de este Organismo.
-
-Las instituciones financieras deberán mantener a disposición de esta Superintendencia una nómina referida al último día de cada mes, con el detalle de las colocaciones vencidas que se mantengan registradas en sus cuentas de origen en virtud de no haberse cumplido el plazo máximo de 90 días fijado para su traspaso a cartera vencida.
-
-3.- Relación entre la cartera vencida y los créditos directos vencidos de la información sobre deudores.
-
-Los créditos directos que se incluyen como vencidos en la información de deudores que se envía a esta Superintendencia de acuerdo con las instrucciones del Manual del Sistema de Información, corresponden a los registrados en cartera vencida según las instrucciones del presente Capítulo.
-
-Dentro de las deudas vencidas se incluyen los respectivos intereses y reajustes suspendidos registrados en cuentas de orden de las partidas 9490 y 9510, según lo instruido en las letras a) y b) del numeral 3.1.2 del título II del Capítulo 7-1 de esta Recopilación, debiéndose agregar también, cuando existan las operaciones de que trata el Capítulo 8-7 de esta Recopilación, las diferencias de precio que complementan el valor nominal de esos créditos vencidos y que deben registrarse en las partidas 9150 y 9153.
-
-Se informarán también como créditos vencidos aquellos registrados en cuentas de orden que cumplan las condiciones que obligarían a traspasarlos a cartera vencida si estuviesen registrados en el activo, para cuyo efecto las instrucciones contables de esta Superintendencia contemplan la utilización de cuentas separadas.
-
-Por consiguiente, la diferencia entre el total de los créditos directos que deben informarse en calidad de vencidos de acuerdo con el Manual del Sistema de Información y la suma de los saldos de las cuentas de activo y de orden correspondientes a los créditos vencidos, deberá corresponder sólo a las obligaciones solidarias en que exista pluralidad de deudores.
-
-ANEXO N°1
-
-CUENTAS PARA LA CARTERA VENCIDA
-
-Código
-
-1401 000 00 CREDITOS COMERCIALES VENCIDOS.
-
-1401 001 00 Préstamos en letras de crédito vencidos.
-
-1404 002 00 Préstamos con mutuos hipotecarios endosables vencidos.
-
-1401 003 00 Créditos por tarjetas de crédito vencidos.
-
-1401 999 00 Otros saldos de la partida 1401.
-
-1411 000 00 CREDITOS DE CONSUMO VENCIDOS.
-
-1411 001 00 Créditos por tarjetas de crédito vencidos.
-
-1411 999 00 Otros saldos de la partida 1411.
-
-1416 000 00 CREDITOS HIPOTECARIOS PARA VIVIENDA VENCIDOS.
-
-1416 001 00 Préstamos en letras de crédito vencidos.
-
-1416 002 00 Préstamos con mutuos hipotecarios endosables vencidos.
-
-1416 999 00 Otros saldos de la partida 1416.
-
-CAPITULO 8-29 (Bancos y Financieras)
-
-MATERIA:
-
-CASTIGOS DE COLOCACIONES.
-
-1.- Castigo de las operaciones de crédito.
-
-1.1.- Condiciones que determinan el castigo de los créditos.
-
-El castigo de los créditos, tanto en moneda chilena como extranjera debe realizarse en los siguientes casos:
-
-a) Cuando un crédito vencido carezca de título ejecutivo. En este caso el castigo total o parcial, según corresponda, se efectuará en la oportunidad en que el saldo debería ser traspasado a cartera vencida, de acuerdo con lo instruido en el numeral 1.1 del Capítulo 8-26 de esta Recopilación.
-
-b) Al cumplirse el plazo de prescripción de las acciones para demandar el cobro mediante un juicio ejecutivo o al momento del rechazo o abandono de la ejecución del título por resolución judicial ejecutoriada.
-
-c) Cuando la institución financiera acreedora considere que no existe ninguna posibilidad de recuperación del respectivo crédito.
-
-d) Cuando se cumpla el plazo en que la operación puede mantenerse impaga en cartera vencida, según lo dispuesto en el numeral 1.2 siguiente.
-
-Cuando se castigue un crédito cuyo plazo de vencimiento aún no se haya cumplido, deberá seguir informándose como vigente en la información sobre deudores a que se refiere el Capítulo 18-5 de esta Recopilación, mientras no se cumpla la fecha de vencimiento. El mismo criterio deberá seguirse con las cuotas no vencidas de un crédito pagadero en cuotas, como ocurre, por ejemplo, en el caso de los castigos de créditos de consumo efectuados por la causal prevista en el último párrafo del numeral 1.2.2 de este Capítulo.
-
-1.2.- Plazos para efectuar los castigos de créditos vencidos.
-
-Todas aquellas operaciones vencidas que se mantengan registradas en cartera vencida por no encontrarse dentro de los casos tipificados en las letras a), b) o c) del numeral 1.1 anterior, deberán castigarse dentro de los plazos que se disponen a continuación:
-
-1.2.1.- Norma general.
-
-Los créditos vencidos que no cuenten con garantías o estén amparados sólo por garantías personales, se castigarán dentro de un plazo de 24 meses desde su ingreso a cartera vencida.
-
-Los créditos vencidos amparados por garantías reales, se castigarán dentro de un plazo de 36 meses contado desde su ingreso a cartera vencida.
-
-En el caso en que sólo una parte del crédito se encuentre cubierta con garantías reales, el plazo de 36 meses será aplicable únicamente a la parte del saldo equivalente al valor de dichas garantías, de modo que la proporción no cubierta por ellas deberá castigarse dentro del plazo de 24 meses a que se refiere el primer párrafo de este numeral.
-
-1 2.2.- Créditos pagaderos en cuotas.
-
-Cuando se trate de créditos pagaderos en cuotas diferentes a créditos de consumo, como lo son los préstamos en letras de crédito y otros con modalidades de servicio similares, el plazo para efectuar el castigo será de 36 meses a partir de la fecha en que se traspase a cartera vencida la cuota impaga más antigua. Al momento de cumplirse 36 meses de permanencia de una cuota en cartera vencida, se castigará esa cuota y las demás que estuvieren en situación de mora Las restantes cuotas aún cobrables deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada una de ellas, sin perjuicio de que puede también castigarse el total del saldo del crédito.
-
-En el caso de los créditos de consumo a que se refiere el Anexo N° 2 del Capítulo 7-10 de esta Recopilación, deberá castigarse la totalidad del crédito al momento en que una cuota cumpla 6 meses, a contar de su vencimiento, sin que ella se haya pagado.
-
-2.- Castigo de las operaciones de leasing.
-
-Los contratos de arrendamiento se castigarán cuando se cumpla alguna de las siguientes circunstancias:
-
-a) Al cumplirse el plazo de prescripción de las acciones de cobro o al momento del rechazo de la ejecución del contrato por resolución judicial ejecutoriada,
-
-b) Cuando, por insolvencia del arrendatario u otra causa sobreviniente, la institución considere que no existe ninguna posibilidad de recuperación de las rentas de arrendamiento, y el valor del bien no pueda ser considerado para los efectos de recuperación del contrato, ya sea porque no está en poder del arrendatario, por el estado en que se encuentra, por los gastos que involucraría su recuperación, traslado y mantención, por obsolescencia tecnológica o por no existir antecedentes sobre su ubicación y estado actual,
-
-c) Aun cuando la institución estime que puede lograr la recuperación de los montos adeudados, castigará todas las cuotas vencidas cuando la más antigua de ellas haya cumplido doce meses desde su vencimiento y, posteriormente, deberá castigar las cuotas restantes en la medida que vayan venciendo. Este último procedimiento podrá anticiparse mediante el castigo del saldo total del contrato, lo que en todo caso se hará al presentarse alguna de las circunstancias señaladas en las letras precedentes.
-
-3.- Contabilización de los castigos de colocaciones.
-
-Los castigos de colocaciones deberán efectuarse siempre aplicando las respectivas provisiones constituidas.
-
-Cuando se trate de operaciones en moneda extranjera, para ese efecto se registrará la venta de la respectiva moneda extranjera, debitando la moneda chilena a la correspondiente provisión. Alternativamente, cuando proceda, pueden registrarse los castigos contra la cuenta "Reservas en moneda extranjera", cargando las provisiones constituidas según lo indicado en el párrafo precedente, con abono a la cuenta "Equivalente reservas en moneda extranjera".
-
-4.- Recuperación de créditos castigados.
-
-Las sumas que se recuperen con posterioridad al castigo de un crédito, deben considerarse como ingreso en el momento en que ellas sean percibidas.
-
-Tales ingresos se informarán en las cuentas indicadas en el Anexo N° 3 del Capítulo 7-10 de esta Recopilación.
-
-5.- Renegociación de créditos castigados.
-
-En caso de que un crédito castigado sea objeto de renegociación, podrá reingresarse al activo bajo las mismas condiciones establecidas en el numeral 1.3 del Capítulo 8-26 de esta Recopilación Actualizada de Normas para el reingreso a cartera vigente de créditos vencidos, debiendo considerarse de inmediato su efecto en el nivel de las provisiones constituidas.
-
-En todo caso, las instituciones financieras deberán mantener identificados todos aquellos créditos castigados que se hayan reingresado al activo, como asimismo aquellos que hayan sido otorgados con objeto de pagar créditos castigados.
-
-6.- Información que debe enviarse a esta Superintendencia.
-
-Para informar acerca de los castigos y operaciones castigadas, las instituciones financieras deberán atenerse a las instrucciones contenidas en el Manual del Sistema de Información, considerando lo siguiente.
-
-6.1.- Castigos efectuados en el ejercicio.
-
-Para efectos de informar a esta Superintendencia de los montos de los castigos efectuados a través del archivo C01 del Sistema de Información, se utilizarán las siguientes cuentas de orden de la partida 9602 "Castigos de colocaciones en el ejercicio" "Castigos de créditos comerciales", "Castigos de créditos de consumo" o "Castigos de créditos hipotecarios de vivienda", "Condonaciones de créditos comerciales", "Condonaciones de créditos de consumo" y "Condonaciones de créditos hipotecarios de vivienda".
-
-Dichas cuentas reflejarán los importes acumulados en el ejercicio por los importes en que se rebajó el activo contra las provisiones constituidas, distinguiendo los casos en que el castigo obedece a condonaciones. Para este efecto los créditos comerciales incluirán las operaciones de leasing comercial y de factoraje, y los créditos de vivienda y de consumo las operaciones de leasing de vivienda y de consumo, respectivamente.
-
-6.2.- Control de créditos castigados informados.
-
-Para efecto de control, los totales de los créditos directos castigados que deben informarse a esta Superintendencia en la información de deudores de que trata el Capítulo 18-5 de esta Recopilación, se incluirán en las siguientes cuentas de orden de la partida 9600 del archivo C01 "Créditos comerciales castigados", "Créditos de consumo castigados" o "Créditos hipotecarios para vivienda castigados".
-
-No obstante, si se trata de créditos o cuotas castigados antes de su vencimiento, los respectivos importes se incluirán en las cuentas "Créditos comerciales vigentes castigados", "Créditos de consumo vigentes castigados" o "Créditos hipotecarios para vivienda vigentes castigados", de la misma partida.
-
-En la cuenta "Créditos comerciales castigados" deben incluirse también los créditos directos provenientes de la cartera restituida por el Banco Central de Chile que se mantiene registrada en cuentas de orden de acuerdo con lo dispuesto en el título VII del Capítulo 8-19 de esta Recopilación, cuando ellos cumplan las condiciones que obligarían a castigarlos si estuviesen registrados en el activo.
-
 ## Capítulo 8-33
 
 SISTEMAS DE COMPENSACIÓN DE DIVIDENDOS LEY N° 19.360.
@@ -8822,29 +7930,27 @@ De conformidad con lo dispuesto en el artículo 12 de la Ley N° 19.360, los act
 
 En el registro a que se refiere el inciso final del artículo 10 de la Ley N° 19.360, se deberá mantener información pormenorizada para generar en forma expedita tanto las nóminas para la Tesorería General de la República, como la información que les pueda solicitar esta Superintendencia en relación con los créditos acogidos, refinanciamientos obtenidos y movimientos y saldos de los respectivos créditos y obligaciones.
 
-CAPITULO 8-37 (Bancos y Financieras)
-
-MATERIA:
+CAPÍTULOS 8-37
 
 OPERACIONES DE LEASING.
 
 I.- DISPOSICIONES GENERALES.
 
-1.- Autorización para efectuar operaciones de leasing.
+### 1. Autorización para efectuar operaciones de leasing
 
-1.1 - Requisitos.
+1.1. Requisitos.
 
-Las instituciones financieras que deseen incluir las operaciones de leasing dentro de su giro, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos.
+Los bancos que deseen incluir las operaciones de leasing dentro de su giro, deberán solicitar por escrito la autorización de esta Superintendencia, para cuyo efecto deberán cumplir los siguientes requisitos:
 
 a) Mantener el capital básico y patrimonio efectivo mínimos que exige el artículo 66 de la Ley General de Bancos, tratados en el Capítulo 12-1 de esta Recopilación.
 
-b) Estar calificadas por esta Superintendencia, en categoría I o II según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes de la Ley General de Bancos No obstante, podrán también efectuar operaciones de leasing las entidades calificadas en categoría III, siempre que las deficiencias que existan en su gestión no las inhabiliten a juicio de esta Superintendencia.
+b) Estar calificados por esta Superintendencia, en categoría I o II según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes de la Ley General de Bancos. No obstante, podrán también efectuar operaciones de leasing las entidades calificadas en categoría III, siempre que las deficiencias que existan en su gestión no las inhabiliten a juicio de esta Superintendencia.
 
-c) Entregar a esta Superintendencia un estudio de factibilidad económico-financiero, en el que se considere el mercado y las condiciones en las que se realizará esta nueva actividad, de acuerdo a diversos escenarios de contingencia.
+c) Entregar a esta Superintendencia un estudio de factibilidad económico- financiero, en el que se considere el mercado y las condiciones en las que se realizará esta nueva actividad, de acuerdo a diversos escenarios de contingencia.
 
-Para acreditar el cumplimiento de los requisitos mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, las instituciones financieras interesadas deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
+Para acreditar el cumplimiento de los requisitos mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, los bancos interesados deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
 
-1.2.- Tramitación de la solicitud
+1.2. Tramitación de la solicitud.
 
 De acuerdo con el artículo 73 de la Ley General de Bancos, esta Superintendencia dispone de un plazo de 90 días para aceptar o rechazar la solicitud.
 
@@ -8852,41 +7958,41 @@ Para rechazarla, este Organismo debe dictar una resolución fundada en que no se
 
 La ley prevé la posibilidad de que esta Superintendencia pida antecedentes adicionales, en cuyo caso el plazo señalado anteriormente se extiende a 120 días.
 
-Si la institución financiera solicitante se encuentra en categoría I según la clasificación de gestión y solvencia antes mencionada y su solicitud de autorización no hubiere sido rechazada dentro de los 60 días siguientes a la fecha de presentación, podrá solicitar a esta Superintendencia un certificado que acredite que no se ha dictado una resolución denegatoria, el que, conforme a la ley, hará las veces de autorización.
+Si el banco solicitante se encuentra en categoría I según la clasificación de gestión y solvencia antes mencionada y su solicitud de autorización no hubiere sido rechazada dentro de los 60 días siguientes a la fecha de presentación, podrá solicitar a esta Superintendencia un certificado que acredite que no se ha dictado una resolución denegatoria, el que, conforme a la ley, hará las veces de autorización.
 
-2.- Tipo de operaciones de leasing autorizadas.
+### 2. Tipo de operaciones de leasing autorizadas
 
-Las instituciones financieras podrán celebrar aquellos contratos de leasing que importen la prestación de un servicio financiero equivalente al financiamiento a más de un año plazo para la compra de bienes de capital (bienes raíces, maquinarias, equipos, etc.), viviendas y bienes muebles durables susceptibles de ser arrendados bajo la modalidad de leasing financiero (automóviles, computadores personales, equipos de comunicación y otros bienes similares).
+Los bancos podrán celebrar aquellos contratos de leasing que importen la prestación de un servicio financiero equivalente al financiamiento a más de un año plazo para la compra de bienes de capital (bienes raíces, maquinarias, equipos, etc.), viviendas y bienes muebles durables susceptibles de ser arrendados bajo la modalidad de leasing financiero (automóviles, computadores personales, equipos de comunicación y otros bienes similares).
 
 Los contratos sólo podrán pactarse con personas domiciliadas en Chile y sobre bienes ubicados dentro del territorio nacional.
 
 Los bienes para leasing se adquirirán siempre a solicitud de los clientes, no pudiendo mantenerse inventarios para operaciones futuras.
 
-Las instituciones financieras no podrán contar con instalaciones ni prestar directamente servicios para la mantención y reparación de los bienes que arrienden.
+Los bancos no podrán contar con instalaciones ni prestar directamente servicios para la mantención y reparación de los bienes que arrienden.
 
-En ningún caso las instituciones financieras podrán actuar como sociedades inmobiliarias en los términos señalados en la Ley N° 19281.
+En ningún caso los bancos podrán actuar como sociedades inmobiliarias en los términos señalados en la Ley N° 19.281.
 
-3.- Límites para las operaciones.
+### 3. Límites para las operaciones
 
-La realización directa de las operaciones de leasing que se autorice, quedará sujeta a los siguientes límites.
+La realización directa de las operaciones de leasing que se autoricen, quedará sujeta a los siguientes límites:
 
-3.1.- Límite para operaciones asociadas a un mismo proyecto.
+3.1. Límite para operaciones asociadas a un mismo proyecto.
 
-La suma de los contratos que formen parte de un mismo proyecto o negocio no podrá superar el 5% del patrimonio efectivo de la institución financiera No obstante, podrán excluirse de este límite aquellos contratos celebrados con empresas que sean sujeto de crédito con prescindencia de los resultados del proyecto de que se trate.
+La suma de los contratos que formen parte de un mismo proyecto o negocio no podrá superar el 10% del patrimonio efectivo del banco. No obstante, podrán excluirse de este límite aquellos contratos celebrados con empresas que sean sujeto de crédito con prescindencia de los resultados del proyecto de que se trate.
 
-3.2.- Límites de crédito
+3.2. Límites de crédito.
 
 Las obligaciones que asumen los arrendatarios en un contrato de leasing quedan sujetas a los márgenes y prohibiciones a que se refieren los artículos 84 y 85 de la Ley General de Bancos.
 
-Conforme a lo indicado en el Capítulo 12-3 de esta Recopilación Actualizada de Normas, al tratarse de obligaciones por contratos que se circunscriban al arrendamiento de bienes raíces urbanos correspondientes a viviendas, oficinas, locales comerciales, bodegas y estacionamientos, se computará el 50 % del importe de la respectiva obligación de los arrendatarios, para el solo propósito de afectar las operaciones a los márgenes individuales de crédito del 5% sin garantía.
+Conforme a lo indicado en el Capítulo 12-3 de esta Recopilación Actualizada de Normas, al tratarse de obligaciones por contratos que se circunscriban al arrendamiento de bienes raíces urbanos correspondientes a viviendas, oficinas, locales comerciales, bodegas y estacionamientos, se computará el 50% del importe de la respectiva obligación de los arrendatarios, para el solo propósito de afectar las operaciones a los márgenes individuales de crédito del 10% sin garantía.
 
-4.- Compras de cartera.
+### 4. Compras de cartera
 
 La autorización para efectuar operaciones de leasing comprende también la adquisición de contratos de leasing que cumplan las condiciones y se sujeten a los límites señalados en este Capítulo.
 
-Cuando se trate de la adquisición de algún contrato o cartera de contratos a personas diferentes a una entidad sujeta a la fiscalización de esta Superintendencia, las instituciones financieras deberán contar con un informe previo de sus auditores externos, acerca de la calidad e integridad de el o los contratos, que justifique su precio y certifique el cumplimiento de los requisitos establecidos en este Capítulo, incluida su clasificación.
+Cuando se trate de la adquisición de algún contrato o cartera de contratos a personas diferentes a una entidad sujeta a la fiscalización de esta Superintendencia, los bancos deberán contar con un informe previo de sus auditores externos, acerca de la calidad e integridad de el o los contratos, que justifique su precio y certifique el cumplimiento de los requisitos establecidos en este Capítulo, incluida su clasificación.
 
-5.- Información sobre las operaciones.
+### 5. Información sobre las operaciones
 
 Las obligaciones de pago pactadas en los contratos de leasing no serán informadas como deudas para efectos de lo dispuesto en el artículo 14 de la Ley General de Bancos y en el Capítulo 18-5 de esta Recopilación, como tampoco serán incluidas en la demás información relativa a deudores que se entregue a esta Superintendencia, con excepción de aquella en que se exija expresamente su inclusión, según las instrucciones del Manual del Sistema de Información.
 
@@ -8894,11 +8000,11 @@ Lo anterior es sin perjuicio de las normas de esta Recopilación en que se alude
 
 Por otra parte, al margen de la información que esta Superintendencia pueda solicitar para otros efectos, las tasas implícitas en las cuotas de arrendamiento que se utilizan para propósitos financiero-contables no se incluirán en la información relativa a las tasas de interés para la determinación de la tasa de interés corriente y máxima convencional, puesto que no corresponden a las tasas pactadas en una operación de crédito de dinero a que se refiere la Ley N° 18.010 y el Capítulo 7-1 de esta Recopilación.
 
-6.- Gravámenes y prohibiciones.
+### 6. Gravámenes y prohibiciones
 
 No se considerarán comprendidas dentro de la prohibición del N° 6 del artículo 84 de la Ley General de Bancos, las hipotecas o prendas sobre bienes arrendados en las operaciones de leasing, constituidas a favor de los respectivos arrendatarios.
 
-7.- Monedas y sistemas de reajustabilidad.
+### 7. Monedas y sistemas de reajustabilidad
 
 Las operaciones de leasing reajustables deben pactarse con alguna de las modalidades de reajuste permitidas por el Banco Central de Chile.
 
@@ -8906,15 +8012,17 @@ Los bancos pueden efectuar operaciones de leasing pactando el pago del arrendami
 
 II.- CONTRATOS DE LEASING.
 
-1.- Características de los contratos.
+### 1. Características de los contratos
 
-Los contratos de arriendo que lleven a cabo las instituciones financieras, deberán ajustarse a las definiciones generales de lo que se denomina "leasing financiero", para lo cual deberán contemplar los siguientes elementos.
+Los contratos de arriendo que lleven a cabo los bancos, deberán ajustarse a las definiciones generales de lo que se denomina "leasing financiero", para lo cual deberán contemplar los siguientes elementos:
 
-a) El contrato deberá efectuarse sobre bienes adquiridos a solicitud del cliente
+a) El contrato deberá efectuarse sobre bienes adquiridos a solicitud del cliente.
 
-b) Los compromisos adquiridos tanto por el arrendatario como por la institución financiera, no podrán ser dejados sin efecto unilateralmente durante la vigencia del contrato. Tampoco podrá ponérseles término de mutuo acuerdo sin causa justificada, a menos que se haya cumplido un 50% o más del plazo pactado, salvo que se ejerza la opción de compra.
+b) Los compromisos adquiridos tanto por el arrendatario como por el banco, no podrán ser dejados sin efecto unilateralmente durante la vigencia del contrato.
 
-c) La responsabilidad de la mantención del bien arrendado podrá ser asumida por la institución financiera, pero no podrá efectuarla directamente.
+Tampoco podrá ponérseles término de mutuo acuerdo sin causa justificada, a menos que se haya cumplido un 50% o más del plazo pactado, salvo que se ejerza la opción de compra.
+
+c) La responsabilidad de la mantención del bien arrendado podrá ser asumida por el banco, pero no podrá efectuarla directamente.
 
 d) Los contratos deberán tener una duración mínima de un año.
 
@@ -8926,33 +8034,33 @@ Los elementos antes mencionados corresponden a las reglas generales que deben cu
 
 Las condiciones señaladas en las letras a) y d) no alcanzan a los contratos de leasing financiero que se celebren sobre bienes que hayan sido recuperados de contratos anteriores.
 
-Las instituciones financieras podrán excepcionalmente entregar en arriendo bienes recuperados mientras no se recoloquen en una nueva operación de leasing financiero, siempre que se cumpla la condición establecida en la letra c).
+Los bancos podrán excepcionalmente entregar en arriendo bienes recuperados mientras no se recoloquen en una nueva operación de leasing financiero, siempre que se cumpla la condición establecida en la letra c).
 
-2.- Leasing Inmobiliario.
+### 2. Leasing Inmobiliario
 
-Los contratos de leasing inmobiliario deberán contemplar un plazo mínimo de 5 años y el valor actual de la totalidad de las cuotas no podrá ser inferior al 40% del valor de tasación del correspondiente bien o, cuando se trate de lease-back de un bien usado, del valor de tasación deducido el ajuste de que trata el numeral 3 1 de este título.
+Los contratos de leasing inmobiliario deberán contemplar un plazo mínimo de 5 años y el valor actual de la totalidad de las cuotas no podrá ser inferior al 40% del valor de tasación del correspondiente bien o, cuando se trate de lease-back de un bien usado, del valor de tasación deducido el ajuste de que trata el numeral 3.1 de este título.
 
 No obstante, los contratos de arrendamiento de viviendas podrán pactarse bajo otras condiciones, sin perjuicio de lo indicado en el N° 1 de este título.
 
-3.- Lease-back de bienes usados.
+### 3. Lease-back de bienes usados
 
-Las instituciones financieras podrán efectuar operaciones de lease-back de bienes usados bajo las condiciones señaladas en los números precedentes, debiendo además cumplir con las que se establecen en los numerales siguientes.
+Los bancos podrán efectuar operaciones de lease-back de bienes usados bajo las condiciones señaladas en los números precedentes, debiendo además cumplir con las que se establecen en los numerales siguientes.
 
 Quedan comprendidos dentro de las operaciones de lease-back de bienes usados de que se trata, tanto el arrendamiento de esos bienes adquiridos directamente del arrendatario, como el de bienes que hayan pertenecido a éste y se adquieran de un tercero. Asimismo, se considerarán como lease-back de bienes usados para los efectos de las presentes normas, los arrendamientos de bienes que se adquieran de una persona natural o jurídica que se encuentre vinculada por propiedad o gestión al arrendatario.
 
-3.1.- Valor de los bienes.
+3.1. Valor de los bienes.
 
-Para adquirir los bienes que serán entregados en arriendo, las instituciones financieras deberán contar con una tasación de dichos bienes efectuada sobre la base de criterios estrictamente técnicos que permitan determinar su valor comercial con prescindencia de consideraciones relativas a los flujos del negocio del arrendatario. En la tasación, que deberá realizar una persona idónea e independiente del respectivo vendedor, deberá quedar constancia, entre otras cosas, del estado en que se encuentra el bien, de su vida útil estimada, del grado o riesgo de obsolescencia tecnológica, de las facilidades o dificultades para su mantenimiento futuro o para una eventual venta posterior, como por ejemplo, si se trata o no de una marca conocida en el mercado y si existen o no representantes en Chile que provean repuestos y servicio técnico.
+Para adquirir los bienes que serán entregados en arriendo, los bancos deberán contar con una tasación de dichos bienes efectuada sobre la base de criterios estrictamente técnicos que permitan determinar su valor comercial con prescindencia de consideraciones relativas a los flujos del negocio del arrendatario. En la tasación, que deberá realizar una persona idónea e independiente del respectivo vendedor, deberá quedar constancia, entre otras cosas, del estado en que se encuentra el bien, de su vida útil estimada, del grado o riesgo de obsolescencia tecnológica, de las facilidades o dificultades para su mantenimiento futuro o para una eventual venta posterior, como por ejemplo, si se trata o no de una marca conocida en el mercado y si existen o no representantes en Chile que provean repuestos y servicio técnico.
 
-El valor de los bienes usados que se debe considerar para efectuar operaciones de lease-back de tales,bienes, no podrá ser superior al valor de tasación del correspondiente bien, menos una deducción que deberá aplicar la propia institución financiera para cubrir el menor valor por conceptos tales como depreciación u obsolescencia esperada, otros riesgos de fluctuación de precios y gastos estimados de rescate.
+El valor de los bienes usados que se debe considerar para efectuar operaciones de lease-back de tales bienes, no podrá ser superior al valor de tasación del correspondiente bien, menos una deducción que deberá aplicar el propio banco para cubrir el menor valor por conceptos tales como depreciación u obsolescencia esperada, otros riesgos de fluctuación de precios y gastos estimados de rescate.
 
 Este ajuste o deducción para determinar el valor máximo que debe asignarse al bien para una operación de lease-back de bienes usados, no podrá representar un porcentaje inferior al que se señala en el Anexo N° 2 de este Capítulo, en relación con el valor comercial a la fecha de la respectiva tasación.
 
-3.2.- Gravámenes y prohibiciones
+3.2. Gravámenes y prohibiciones.
 
 Los bienes usados que sean adquiridos para darlos en arrendamiento deberán estar libres de gravámenes y prohibiciones.
 
-4.- Tipos de cartera de contratos.
+### 4. Tipos de cartera de contratos
 
 Para efectos contables y estadísticos, los contratos se agruparán en los siguientes tipos:
 
@@ -8962,117 +8070,39 @@ Corresponderá a todos los contratos de leasing o lease-back suscritos con perso
 
 b) Cartera de consumo.
 
-Corresponderá a los contratos con personas naturales que se limiten al arrendamiento de bienes de consumo durable, tales como automóviles, computadores personales, equipos de comunicación, etc. Se excluyen los contratos sobre bienes de capital, entendiendo por tales aquellos que se destinen a la produccción o a la prestación de algún servicio, cualquiera sea su valor.
+Corresponderá a los contratos con personas naturales que se limiten al arrendamiento de bienes de consumo durable, tales como automóviles, computadores personales, equipos de comunicación, etc. Se excluyen los contratos sobre bienes de capital, entendiendo por tales aquellos que se destinen a la producción o a la prestación de algún servicio, cualquiera sea su valor.
 
 c) Cartera de vivienda.
 
 Comprenderá los contratos celebrados con usuarios finales de las viviendas arrendadas.
 
-5.- Restricciones para los contratos de arriendo con personas relacionadas.
+### 5. Restricciones para los contratos de arriendo con personas relacionadas
 
 a) Sólo podrán arrendarse a personas relacionadas bienes inherentes al giro del arrendatario, salvo que se trate de contratos que correspondan a cartera de consumo o de vivienda.
 
 b) En los contratos de arriendo con personas relacionadas se deberá incluir siempre la opción de compra del bien por parte del arrendatario, aun cuando se trate de bienes recuperados los cuales, en caso de arrendarse a una parte relacionada, deberán ser recolocados en una operación de leasing financiero.
 
-6.- Operaciones con empresas del Estado.
+### 6. Operaciones con empresas del Estado
 
-De conformidad con lo prescrito en el inciso segundo del artículo 24 de la Ley N° 18 482, las empresas en que el Estado, directa o indirectamente, tenga una participación igual o superior al 50% del capital social, pueden suscribir contratos de arrendamiento a largo plazo no renovables sólo cuando cuenten con la autorización previa concedida, mediante decreto exento conjunto, por los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción.
+De conformidad con lo prescrito en el inciso segundo del artículo 24 de la Ley N° 18.482, las empresas en que el Estado, directa o indirectamente, tenga una participación igual o superior al 50% del capital social, pueden suscribir contratos de arrendamiento a largo plazo no renovables sólo cuando cuenten con la autorización previa concedida, mediante decreto exento conjunto, por los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción.
 
-Atendido lo anterior, para celebrar contratos de leasing con alguna empresa en que participe el Estado, las instituciones financieras deberán obtener de su cliente una declaración escrita en el sentido de que la empresa cuenta con la autorización de que se trata, o bien, de que no se encuentra dentro de aquellas sociedades a que se refiere el artículo 24 antes mencionado.
-
-III.- NORMAS CONTABLES.
-
-Las instituciones financieras deberán ceñirse a las siguientes normas en las materias que se indican:
-
-1.- Contabilización de las operaciones de leasing.
-
-1.1.- Suscripción de contratos.
-
-La suscripción de los contratos se reflejará contablemente mediante su registro en cuentas de orden, por su valor nominal. Los respectivos importes se revertirán al momento de registrar en el activo las obligaciones de los arrendatarios, según lo indicado en el numeral 1.3 de este título Para el efecto se utilizará la cuenta "Contratos de leasing suscritos" de la partida 9395.
-
-1.2.- Adquisición de los bienes para leasing.
-
-Los bienes que se adquieran para cumplir con los contratos se registrarán cargando a la cuenta "Activos para leasing", de la partida 1760, todos los costos que se relacionen directamente con su adquisición, en forma similar a la compra de un bien para uso de la propia empresa, incluidos los necesarios para que los bienes queden en condiciones de ser utilizados por el arrendatario. Dentro de los costos podrán considerarse los intereses y reajustes de las obligaciones asumidas por la institución para la adquisición de los bienes, que se hayan pagado o devengado hasta la fecha de su entrega al cliente.
-
-Por consiguiente, la cuenta "Activos para leasing" reflejará los costos acumulados de los bienes que se adquieren para cumplir con los contratos suscritos, registrados sobre la base de las obligaciones de pago efectivas de la institución, esto es, las que derivan de la facturación de los proveedores, de la suscripción de escrituras de compraventa, de cartas de crédito negociadas o de intereses devengados, como también por los importes de anticipos u otros desembolsos para la adquisición, construcción o instalación de los bienes para las operaciones de leasing.
-
-1.3.- Deudores por leasing. Contabilización de los contratos
-
-Los contratos se registrarán en el activo una vez que el bien haya sido recibido por el arrendatario. En caso de que un contrato contemple más de un bien y éstos se entreguen en forma parcializada, el contrato se registrará en el activo cuando el cliente haya recibido todos los bienes en condiciones de ser utilizados.
-
-Para registrar los contratos se contabilizará el valor nominal de éstos en la cuenta "Contratos de leasing comercial", "Contratos de leasing de consumo" o "Contratos de leasing de vivienda", según corresponda, de la partida 1350, abonando la cuenta "Activos para leasing", señalada en el numeral 1.2 precedente, por el monto correspondiente a los bienes entregados, y acreditando la diferencia a la cuenta complementaria "Intereses diferidos leasing comercial", "Intereses diferidos leasing de consumo" o "Intereses diferidos leasing de vivienda", según sea el caso, de la partida 1350. Si para algún bien incluido en el contrato todavía no se contara con documentación relativa a costos menores asociados, dicha contabilización podrá incorporar una estimación de esos costos. En ningún caso podrán registrarse los contratos si el precio de los bienes adquiridos por la institución no se encuentra aún registrado en el activo conforme a lo descrito en el numeral 1.2.
-
-A fin de reflejar el valor nominal incluyendo el impuesto al valor agregado (IVA) que corresponderá incorporar a cada una de las cuotas, la contabilización anterior será complementada cargando la cuenta "Contratos de leasing comercial", "Contratos de leasing de consumo" o "Contratos de leasing de vivienda" por el importe de dicho impuesto, con abono a la cuenta complementaria "IVA diferido leasing comercial", "IVA diferido leasing de consumo" o "IVA diferido leasing de vivienda" de la misma partida 1350, según el tipo de contrato de que se trate.
-
-1.4.- Reajustes e intereses de los contratos.
-
-Los reajustes aplicados a las cuentas correspondientes a los contratos de leasing, intereses diferidos e IVA diferido antes señaladas, se registrarán acreditando el importe neto a las cuentas "Reajustes por leasing comercial", "Reajustes por leasing de consumo" o "Reajustes por leasing de vivienda", de la partida 7315.
-
-Los intereses devengados se reconocerán mediante el traspaso a resultados de los importes registrados en la cuentas de intereses diferidos antes mencionadas, correspondientes a las cuotas que vencen Para calcular el devengo de intereses al cierre de cada mes, deberán efectuarse los traspasos adicionales que correspondan, en proporción a los días transcurridos desde los vencimientos. Los intereses se abonarán a las cuentas "Intereses por leasing comercial", "Intereses por leasing de consumo" o "Intereses por leasing de vivienda", de la partida 7123.
-
-1.5.- Cartera vencida.
-
-Las cuotas de los contratos de leasing que no sean pagadas dentro de los 90 días contados desde su respectivo vencimiento, serán traspasadas a la cuenta "Contratos de leasing comercial vencidos", Contratos de leasing de consumo vencidos" y "Contratos de leasing de vivienda vencidos", de la partida 1421.
-
-16.- Provisiones y castigos de los contratos.
-
-Para constituir las provisiones sobre los contratos y efectuar castigos, los bancos se atendrán a lo dispuesto en los Capítulos 7-10 y 8-29 de esta Recopilación.
-
-2.- Bienes recuperados.
-
-2.1.- Ingreso al activo.
-
-Al momento de producirse la recuperación del o de los bienes entregados en leasing por un contrato resuelto, se traspasará el valor neto del contrato, según los importes registrados a esa fecha, a la cuenta "Bienes recuperados" de la partida 1760. No se reactivarán, por lo tanto, los importes que ya estuviesen contablemente castigados.
-
-La incorporación del importe a esa cuenta podrá originar un ajuste a la provisión señalada en el numeral 2.5 de este título.
-
-Dado que se trata de bienes valorizados en su conjunto, por la vía de una provisión, a un valor probable de venta este activo no queda sujeto a depreciaciones.
-
-2.2.- Recolocación de los bienes.
-
-El nuevo arrendamiento bajo condiciones de leasing financiero de algún bien recuperado, se contabilizará según lo señalado en el numeral 1.3 de este título, considerando como valor neto de los contratos el valor comercial que conste en la respectiva tasación. La diferencia con respecto al valor registrado según lo dispuesto en el numeral precedente, cuando éste sea mayor que el valor comercial, se imputará contra las provisiones constituidas o, si ellas fueran insuficientes, se aumentarán dichas provisiones para absorber la pérdida Si el valor contable fuese inferior al valor comercial, se acreditará la diferencia en la cuenta "Utilidades por recolocación de bienes en leasing", de la partida 7910.
-
-Para registrar las ventas de bienes recuperados, se procederá en forma similar a la señalada en el numeral 2 2 precedente, en el sentido de aplicar las provisiones constituidas para absorber las pérdidas. Por consiguiente, si el precio de venta resulta inferior al valor contable se cargará la diferencia a las provisiones y en el caso contrario se abonará a cuenta "Utilidades por venta de bienes recuperados", de la partida 7910.
-
-2.4.- Arrendamientos de bienes recuperados que no cumplan las condiciones de leasing financiero.
-
-En el evento de entregarse en arriendo un bien recuperado sin cumplir las condiciones de leasing financiero, según lo previsto como excepción en el N° 1 del título II, éste se mantendrá registrado conforme a lo dispuesto en el numeral 2 1 de este título. Los ingresos que se obtengan por dicho arrendamiento se llevarán, al momento de percibirse, a la cuenta "Arrendamiento de bienes recuperados" de la partida 8315.
-
-2.5.- Provisiones y castigos de los bienes recuperados.
-
-Los bancos deberán mantener, en todo momento, una provisión sobre los bienes rescatados que no hayan sido recolocados en nuevas operaciones de leasing financiero, equivalente al menos a la diferencia entre la suma de los valores comerciales actuales y el total de los valores registrados en el activo de estos bienes, cuando este último sea superior. Los saldos correspondientes a estas provisiones se informarán en las cuentas "Provisiones sobre bienes recuperados de leasing", de las partidas 1760 y 6120.
-
-Los valores contables de los bienes que hayan sido recuperados por contratos resueltos, deberán ser castigados al cumplirse doce meses desde su registro en el activo de la institución, en la medida en que no se encuentren arrendados nuevamente bajo las condiciones de leasing financiero señaladas en el N° 1 del título II de este Capítulo. Cuando corresponda efectuar tales castigos, se procederá de la siguiente forma:
-
-a) Al tratarse de bienes cuyo valor contable sea superior a su valor comercial al momento del castigo, se ajustará el primero para dejarlo a su valor comercial aplicando las provisiones constituidas y se traspasará la diferencia, es decir, el importe correspondiente al valor comercial, a la cuenta "Castigo de bienes recuperados de leasing" de la partida 6315.
-
-b) Cuando se trate de bienes cuyo valor contable sea inferior a su valor comercial, se cargará directamente la cuenta antes mencionada.
-
-3.- Garantías otorgadas y recibidas.
-
-Todas las garantías otorgadas o recibidas por la institución financiera deberán ser registradas en las cuentas de orden que correspondan.
-
-IV.- DISPOSICION TRANSITORIA.
-
-No obstante lo indicado en el numeral 2.5 del título III de este Capítulo, al tratarse de bienes recuperados durante los años 1999, 2000, 2001 y 2002 el plazo para su castigo se amplía hasta 30 meses a contar de la fecha de su recuperación.
-
-Asimismo podrá aplicarse un plazo adicional de 12 meses para el castigo de los bienes recuperados durante el año 2003 y de seis meses para aquellos recuperados en el curso del año 2004, sujeto a la presentación a esta Superintendencia de un programa de enajenación de esos bienes, aprobado por el Directorio En ese programa deberán explicarse las razones que, a juicio del Directorio, justifican la prórroga, detallándose los bienes que se acogerán a ella.
+Atendido lo anterior, para celebrar contratos de leasing con alguna empresa en que participe el Estado, los bancos deberán obtener de su cliente una declaración escrita en el sentido de que la empresa cuenta con la autorización de que se trata, o bien, de que no se encuentra dentro de aquellas sociedades a que se refiere el artículo 24 antes mencionado.
 
 ANEXO N° 1
 
 ANTECEDENTES PARA SOLICITAR AUTORIZACION PARA EFECTUAR OPERACIONES DE LEASING
 
-Junto con el estudio de factibilidad, las instituciones financieras solicitantes acompañarán los siguientes antecedentes
+Junto con el estudio de factibilidad, los bancos solicitantes acompañarán los siguientes antecedentes:
 
-a) Estructura organizacional y forma en que se integrará y administrará el nuevo producto, en cuanto a la fijación de políticas y manejo de los riesgos, grado de autonomía de la gestión, flujos de información previstos, etc.
+a) Estructura organizacional y forma en que se integrará y administrará el nuevo producto, en cuanto a la fijación de políticas y manejo de los riesgos; grado de autonomía de la gestión, flujos de información previstos, etc.
 
 c) Explicación acerca de los controles internos que se prevén para manejar o precaver los riesgos, detallando en particular los procedimientos para el control de las operaciones.
 
 d) Equipamientos y servicios contemplados para desarrollar el giro de leasing.
 
-e) En caso de que el desarrollo del giro esté asociado a la adquisición de cartera de alguna entidad distinta a su filial, la institución financiera deberá remitir el informe de los auditores a que se refiere el N° 4 del título I de este Capítulo.
+e) En caso de que el desarrollo del giro esté asociado a la adquisición de cartera de alguna entidad distinta a su filial, el banco deberá remitir el informe de los auditores a que se refiere el N° 4 del título I de este Capítulo.
 
-Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue Es requisito indispensable, por lo tanto, que la información sea completa, verificable y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
+Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verificable y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
 ANEXO N°2
 
@@ -9126,21 +8156,19 @@ d) Equipamientos y servicios contemplados para desarrollar el giro de factoring.
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verificable y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
-CAPITULO 8-40 (Bancos y Financieras)
+## Capítulo 8-40
 
-MATERIA:
+SECURITIZACIÓN DE ACTIVOS.
 
-SECURITIZACION DE ACTIVOS.
+### 1. Activos que se pueden securitizar
 
-1.- Activos que se pueden securitizar.
-
-Los bancos y sociedades financieras sólo pueden vender a sociedades securitizadoras o a fondos de inversión de créditos securitizados, los activos de su cartera de colocaciones y de inversiones financieras que autoriza el Banco Central de Chile y que se indican en el Capítulo III.B.4 de su Compendio de Normas Financieras.
+Los bancos sólo pueden vender a sociedades securitizadoras o a fondos de inversión de créditos securitizados, los activos de su cartera de colocaciones y de inversiones financieras que autoriza el Banco Central de Chile y que se indican en el Capítulo III.B.4 de su Compendio de Normas Financieras.
 
 Los documentos que se pueden vender son sólo aquellos que tengan pagos en cuotas, normalmente iguales y sucesivas, a lo menos una vez al año, salvo que se trate de los créditos comerciales o instrumentos emitidos por el Banco Central de Chile.
 
-2.- Deterioro del índice de riesgo de las colocaciones.
+### 2. Deterioro del índice de riesgo de las colocaciones
 
-De acuerdo con lo indicado en el Capítulo III.B.4 antes mencionado, solamente pueden efectuar una venta de créditos de su cartera de colocaciones que signifique un deterioro del índice de riesgo de ella, las instituciones financieras que, al momento de la operación, cuenten con un indicador de Basilea de al menos 10%, se encuentren clasificadas por esta Superintendencia en Categoría 1 según sus procesos de clasificación de cartera y no presenten pérdidas acumuladas en el ejercicio.
+De acuerdo con lo indicado en el Capítulo III.B.4 antes mencionado, solamente pueden efectuar una venta de créditos de su cartera de colocaciones que signifique un deterioro del índice de riesgo de ella, los bancos que, al momento de la operación, cuenten con un indicador de Basilea de al menos 10%, se encuentren clasificadas por esta Superintendencia en Categoría 1 según sus procesos de clasificación de cartera y no presenten pérdidas acumuladas en el ejercicio.
 
 Para ese efecto, se entenderá como índice de riesgo el porcentaje que representa el total de provisiones mantenidas para colocaciones con respecto al total de colocaciones. Por consiguiente, para determinar si existe un deterioro, ese porcentaje se comparará con el que así se obtiene luego de restar el monto de cartera que se vende y el monto de sus provisiones asociadas, del total de colocaciones y de sus correspondientes provisiones, respectivamente.
 
@@ -9148,35 +8176,19 @@ No obstante lo anterior, en el total de colocaciones no se incluirán los crédi
 
 La información que, de acuerdo con lo exigido en el N° 3 del Capítulo III.B.4 antes mencionado, deben entregar las instituciones que vendan cartera con un detrimento del índice de riesgo, se divulgará con sujeción a las instrucciones del Capítulo 18-10 de esta Recopilación.
 
-3.- Condiciones para la venta de activos.
+### 3. Condiciones para la venta de activos
 
-Los activos que vendan las instituciones financieras deberán ser de su propiedad; estar libres de todo tipo de gravámenes o prohibiciones y los títulos de crédito deben estar extendidos cumpliendo las exigencias legales y tributarias que correspondan.
+Los activos que vendan los bancos deberán ser de su propiedad, estar libres de todo tipo de gravámenes o prohibiciones y los títulos de crédito deben estar extendidos cumpliendo las exigencias legales y tributarias que correspondan.
 
-La venta de documentos se efectuará sin responsabilidad para los bancos o sociedades financieras cedentes, sin perjuicio de mantener su responsabilidad en calidad de emisores cuando sea el caso. La venta de contratos de leasing comprenderá la transferencia del dominio del bien objeto del respectivo contrato.
+La venta de documentos se efectuará sin responsabilidad para los bancos cedentes, sin perjuicio de mantener su responsabilidad en calidad de emisores cuando sea el caso. La venta de contratos de leasing comprenderá la transferencia del dominio del bien objeto del respectivo contrato.
 
 La venta se efectuará por documentos completos y su pago deberá percibirse al contado.
 
-4.- Prohibición de recomprar los activos vendidos.
+### 4. Prohibición de recomprar los activos vendidos
 
-En ningún caso podrán ser recomprados por la institución financiera, los activos correspondientes a su cartera de colocaciones que haya vendido a una sociedad securitizadora o fondo de inversión.
+En ningún caso podrán ser recomprados por el banco, los activos correspondientes a su cartera de colocaciones que haya vendido a una sociedad securitizadora o fondo de inversión.
 
-5.- Disposiciones contables.
-
-5.1.- Baja del Balance.
-
-Para registrar una operación de securitización, los bancos deberán aplicar los criterios del IAS 39, revisado por el IASB en diciembre de 2003, relativos a las bajas de activos del Balance y reconocimiento de un pasivo financiero, cuando la institución no haya transferido substancialmente los riesgos o siga expuesta en algún grado a la variabilidad de los flujos futuros, como ha ocurrido en la práctica con la estructuración de bonos subordinados ("junior").
-
-En el evento de que se pacte una cesión de títulos en la cual no corresponda dar de baja la totalidad del activo, se consultará a esta Superintendencia sobre la inclusión de los saldos de activo y pasivo en los distintos archivos que se remiten a este Organismo.
-
-Lo indicado en este numeral se aplicará para las securitizaciones efectuadas a contar del 1° de enero de 2005, tanto para registrar las operaciones realizadas por el banco como para los efectos de consolidación con sus filiales que las realicen.
-
-5.2.- Valoración de los bonos.
-
-Los bonos provenientes de una securitización que se mantengan en el activo, deberán valorarse a su valor razonable según lo previsto en el Capítulo 7-12 de esta Recopilación.
-
-Las entidades que tengan bonos subordinados adquiridos hasta el 31 de diciembre de 2004, determinarán su valor razonable considerando el flujo de recuperación estimado de los activos cedidos y el comportamiento histórico de prepagos de créditos similares a aquellos que dieron origen a la emisión de esos bonos.
-
-5.3.- Venta de bonos subordinados a partes relacionadas.
+### 5. Venta de bonos subordinados a partes relacionadas
 
 La transferencia a partes relacionadas al banco de bonos subordinados provenientes de activos originados o vendidos por la propia institución, requerirá de la conformidad previa de esta Superintendencia.
 
@@ -9188,25 +8200,25 @@ MATERIA:
 
 OPERACIONES CON LETRAS DE CREDITO.
 
-I.- DE LAS LETRAS DE CREDITO.
+### I. DE LAS LETRAS DE CREDITO
 
-La emisión de letras de crédito y las operaciones que las instituciones financieras pueden realizar con estos instrumentos se rigen por las disposiciones del Título XIII de la Ley General de Bancos, sin perjuicio de los demás preceptos de la misma Ley que les fueran aplicables; por las normas específicas contenidas en los Capítulos II.A.1, II.A.1.1 y II.A.1.2 del Compendio de Normas Financieras y por las instrucciones que se imparten en este capítulo.
+La emisión de letras de crédito y las operaciones que los bancos pueden realizar con estos instrumentos se rigen por las disposiciones del Título XIII de la Ley General de Bancos, sin perjuicio de los demás preceptos de la misma Ley que les fueran aplicables; por las normas específicas contenidas en los Capítulos II.A.1, II.A.1.1 y II.A.1.2 del Compendio de Normas Financieras y por las instrucciones que se imparten en este Capítulo.
 
-Las instituciones financieras deben tener presente que la emisión de letras de crédito puede tener su origen exclusivamente en el otorgamiento de préstamos en la misma modalidad. En otros términos, el monto de las letras de crédito en circulación emitidas por una institución financiera debe mantener un equilibrio permanente con el saldo de préstamos en letras de crédito, ya sea que la
+Los bancos deben tener presente que la emisión de letras de crédito puede tener su origen exclusivamente en el otorgamiento de préstamos en la misma modalidad. En otros términos, el monto de las letras de crédito en circulación emitidas por un banco deben mantener un equilibrio permanente con el saldo de préstamos en letras de crédito, ya sea que la respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se haya cumplido ese trámite.
 
-respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se haya cumplido ese trámite.
+### 1. Del prospecto
 
-1. - Del prospecto.
+El banco que desee otorgar préstamos en letras de crédito para la vivienda u otros fines, deberá presentar a esta Superintendencia un prospecto que habrá de contener las condiciones generales de la emisión. La emisión proyectada deberá ser motivo de un Acuerdo del Directorio de la empresa.
 
-La institución financiera que desee otorgar préstamos en letras de crédito para la vivienda u otros fines, deberá presentar a esta Superintendencia un prospecto que habrá de contener las condiciones generales de la emisión. La emisión proyectada deberá ser motivo de un Acuerdo del Directorio de la empresa.
+1.1. Condiciones generales de la emisión.
 
-1.1.- Condiciones generales de la emisión.
-
-En el prospecto se deberán mencionar y describir las siguientes condiciones de cada emisión que se proyecte;
+En el prospecto se deberán mencionar y describir las siguientes condiciones de cada emisión que se proyecte:
 
 a) Monto de la emisión propuesta, moneda o unidad de valor en que se expresará y si las letras serán al portador o nominativas.
 
-El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales. Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se indicará la moneda o unidad de valor a que se refiere el artículo 3° del Capítulo II.A.1 antes mencionado, en que se expresarán las letras de crédito. El corte delas letras será determinado libremente por la institución emisora.
+El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales.
+
+Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se indicará la moneda o unidad de valor a que se refiere el artículo 30 del Capítulo II.A.1 antes mencionado, en la que se expresarán las letras de crédito. El corte de las letras será determinado libremente por la institución emisora.
 
 b) Plazo de los préstamos.
 
@@ -9218,29 +8230,25 @@ Es preciso tener presente que la tasa de interés es libre y puede ser fija o fl
 
 La tasa de interés variable debe tener por base la tasa TIP a que se refiere el párrafo siguiente, salvo que se trate de letras de crédito emitidas y pagaderas en moneda extranjera, expresadas en moneda extranjera y pagaderas en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, en cuyos casos la tasa de interés flotante debe tener por base la tasa Prime o Libo.
 
-Cuando se establezca una tasa de interés flotante tomando por base la tasa TIP, se deberá señalar expresamente que aquella tasa variará semestralmente considerando la Tasa de Interés Promedio (TIP) establecida en el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada por el Banco Central de Chile y publicada en el Diario Oficial en la segunda quincena de los meses de mayo y noviembre de cada año. Sin embargo, durante el período inicial de vigencia, la tasa de interés será aquella que conste en la respectiva letra y en el mutuo. Las tasas variables calculadas en la forma antedicha, regirán para el segundo semestre del mismo año en que se determine y para el primer semestre del año siguiente,respectivamente.
+Cuando se establezca una tasa de interés flotante tomando por base la tasa TIP, se deberá señalar expresamente que aquella tasa variará semestralmente considerando la Tasa de Interés Promedio (TIP) establecida en el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada por el Banco Central de Chile y publicada en el Diario Oficial en la segunda quincena de los meses de mayo y noviembre de cada año. Sin embargo, durante el período inicial de vigencia, la tasa de interés será aquella que conste en la respectiva letra y en el mutuo. Las tasas variables calculadas en la forma antedicha, regirán para el segundo semestre del mismo año en que se determine y para el primer semestre del año siguiente respectivamente.
 
 En todo caso, cuando se trate de letras de crédito para vivienda la tasa de interés flotante no podrá ser superior en más de tres puntos porcentuales con respecto a la tasa de interés que se aplique en la fecha en que comience la vigencia del crédito. A vía de ejemplo, si la tasa de interés al inicio del crédito fuera de 7% anual, el valor máximo que podría alcanzar dicha tasa sería del 10% anual.
 
-Asimismo, el valor mínimo para la tasa de interés flotante en las letras de crédito para vivienda, no podrá ser inferior a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del crédito, salvo que la institución financiera que lo otorgue opte, al momento de cursarlo, por prescindir del límite inferior de variación de la tasa de interés aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar expresamente indicada en el respectivo contrato de mutuo y en el texto de las letras de crédito.
+Asimismo, el valor mínimo para la tasa de interés flotante en las letras de crédito para vivienda, no podrá ser inferior a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del crédito, salvo que el banco que lo otorgue opte, al momento de cursarlo, por prescindir del límite inferior de variación de la tasa de interés aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar expresamente indicada en el respectivo contrato de mutuo y en el texto de las letras de crédito.
 
 d) Amortización.
 
-En lo relativo a la amortización, deberá especificarse si ésta será ordinaria directa o indirecta. De acuerdo a la definición legal se entiende por amortización ordinaria directa, aquella en que periódicamente el emisor paga parte del capital y de los intereses convenidos, cuyos importes se expresan en el respectivo cupón. La amortización ordinaria indirecta es aquella que se
-
-efectúa por compra o por rescate de las letras de crédito o por sorteo a la par,hasta por un valor nominal igual al fondo de amortización correspondiente al período respectivo.
+En lo relativo a la amortización, deberá especificarse si ésta será ordinaria directa o indirecta. De acuerdo a la definición legal se entiende por amortización ordinaria directa, aquella en que periódicamente el emisor paga parte del capital y de los intereses convenidos, cuyos importes se expresan en el respectivo cupón. La amortización ordinaria indirecta es aquella que se efectúa por compra o por rescate de las letras de crédito o por sorteo a la par, hasta por un valor nominal igual al fondo de amortización correspondiente al período respectivo.
 
 Las letras de crédito destinadas a préstamos para la vivienda, se amortizarán siempre en la modalidad ordinaria directa trimestral, con servicio en los meses de marzo, junio, septiembre y diciembre de cada año. El último servicio ordinario de estas letras deberá recaer siempre en el mes de diciembre.
 
 e) Valor del cupón.
 
-El cupón podrá comprender interés y amortización o sólo el interés, según se trate de letras con amortización ordinaria directa u ordinaria indirecta.
+El cupón podrá comprender interés y amortización o sólo el interés, según se trate de letras con amortización ordinaria directa u ordinaria indirecta. Cuando se trate de letras de crédito con tasa de interés flotante, se indicará en los respectivos cupones, en lugar del monto de intereses, la fórmula que se utilizará para determinar su importe.
 
-Cuando se trate de letras de crédito con tasa de interés flotante, se indicará en los respectivos cupones, en lugar del monto de intereses, la fórmula que se utilizará para determinar su importe.
+1.2. Codificación de las letras de crédito.
 
-1.2.- Codificación de las letras de crédito.
-
-1.2.1.- Código de identificación.
+1.2.1. Código de identificación.
 
 Las distintas series de letras deberán identificarse mediante un sistema alfanumérico que permita conocer las características de la serie a través de ese código de identificación.
 
@@ -9262,7 +8270,7 @@ Al tratarse de letras de crédito con tasa de interés variable, en lugar de los
 
 c) Origen de la letra de crédito y periodicidad de amortización.
 
-La finalidad de la letra de crédito, esto es, si se trata de letras de crédito que tengan su origen en mutuos para financiamiento de vivienda o para fines generales, estará representada por un signo alfabético que se imprimirá a continuación de los signos numéricos señalados en la letra b) precedente. Este signo alfabético indicará, además, la periodicidad de las amortizaciones de las letras de crédito, según se muestra a continuación:
+La finalidad de la letra de crédito, esto es, si se trata de letras de crédito que tengan su origen en mutuos para financiamiento de vivienda o para fines generales, estará representada por un signo alfabético que se imprimirá a continuación de los signos numéricos señalados en la letra b) precedente. Este signo alfabético indicará, además, la periodicidad de las amortizaciones de las letras de crédito, según se muestra a continuación.
 
 V = Vivienda con amortización directa trimestral.
 
@@ -9282,7 +8290,7 @@ Luego del signo alfabético a que se refiere la letra c) precedente, se imprimir
 
 1 = Unidad de Fomento (UF).
 
-2 = Indice Valor Promedio (IVP).
+2 = Índice Valor Promedio (IVP).
 
 3 = Pesos moneda chilena, no reajustable.
 
@@ -9290,11 +8298,11 @@ Luego del signo alfabético a que se refiere la letra c) precedente, se imprimir
 
 5 = Pagadera en moneda extranjera.
 
-La aplicación práctica de las instrucciones contenidas en este numeral se demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito para vivienda, emitida a 20 años plazo, con una tasa de interés del 8,5% anual y expresada en Indice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2. Asimismo, una letra de crédito de iguales características que la señalada pero con tasa de interés flotante basada en la tasa TIP, llevará el siguiente código: ADTIP20V2. No obstante que mediante esta codificación se identifican ahora las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda". Este código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
+La aplicación práctica de las instrucciones contenidas en este numeral se demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito para vivienda, emitida a 20 años plazo, con un tasa de interés del 8,5% anual y expresada en índice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2. Asimismo, una letra de crédito de iguales características que la señalada pero con tasa de interés flotante basada en la tasa TIP, llevará el siguiente código: ADTIP20V2. No obstante que mediante esta codificación se identifican ahora las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda". Este código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
 
-1.2.2.- Código de transacción bursátil.
+1.2.2 Código de transacción bursátil.
 
-Las instituciones financieras están facultadas para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación y custodia de estos títulos.
+Los bancos están facultados para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación y custodia de estos títulos.
 
 Este código se fijará, en cada caso, de común acuerdo con la Bolsa de Comercio de Santiago. La impresión deberá efectuarse en caracteres menos destacados que los empleados por este Organismo para designar los títulos y se ubicará bajo el código alfanumérico establecido por esta Superintendencia, en un espacio que no exceda de las siguientes dimensiones:
 
@@ -9306,27 +8314,29 @@ DIGITOS : 3 caracteres alfabéticos, numéricos o mixtos, como máximo.
 
 Esta codificación podrá agregarse a las letras de crédito en la oportunidad en que cada institución lo estime necesario.
 
-1.3.- Texto de las letras de crédito para la vivienda.
+1.3. Texto de las letras de crédito para la vivienda.
 
-El texto y las menciones que deberán contener las letras de crédito para vivienda se indican en los Anexos N°s. 3, 4, 5 y 6 de este capítulo, según se trate de letras expresadas en Unidades de Fomento, en Indice Valor Promedio, a tasa de interés fija o variable. Las letras de crédito para otros fines que contemplen la misma modalidad de amortización ordinaria directa, podrán incorporar el mismo texto de los Anexos señalados, según corresponda.
+El texto y las menciones que deberán contener las letras de crédito para vivienda se indican en los Anexos N°s. 3, 4, 5 y 6 de este Capítulo, según se trate de letras expresadas en Unidades de Fomento, en índice Valor Promedio, a tasa de interés fija o variable. Las letras de crédito para otros fines que contemplen la misma modalidad de amortización ordinaria directa, podrán incorporar el mismo texto de los Anexos señalados, según corresponda.
 
 El texto de las letras de crédito con amortización ordinaria indirecta se ajustará al que se señala en los Anexos N°s. 7 y 8.
 
 En los anexos N°s. 9 y 10 se muestra el diseño de un cupón de letra de crédito con tasa de interés fija y tasa de interés variable, respectivamente, que como se puede apreciar, incluye la identificación de la letra a que corresponde.
 
-1.4.- Registro del Prospecto.
+1.4. Registro del Prospecto.
 
-Si el prospecto presentado por la institución solicitante cumple con todos los requisitos y exigencias legales y reglamentarios, esta Superintendencia procederá a anotarlo en su Registro, de lo cual se dejará constancia en el respectivo certificado de inscripción que se entregará a la entidad financiera.
+Si el prospecto presentado por la institución solicitante cumple con todos los requisitos y exigencias legales y reglamentarios, esta Superintendencia procederá a anotarlo en su Registro, de lo cual se dejará constancia en el respectivo certificado de inscripción que se entregará al banco.
 
-1.5.- Modificación del Prospecto.
+1.5. Modificación del Prospecto.
 
 En los casos en que se requiera ampliar el monto de emisión de una serie incluida en un prospecto inscrito en el Registro, será necesario obtener un Certificado de este Organismo.
 
-2.- Tablas de Desarrollo.
+### 2. Tablas de Desarrollo
 
-Requisito indispensable para el registro del prospecto, será el envío a esta Superintendencia, para su aprobación, de las tablas de desarrollo correspondientes a las letras de crédito y de la información relativa a las tablas de desarrollo que se utilizarán para los respectivos mutuos hipotecarios. Dichas tablas deben prepararse de acuerdo con las instrucciones de este Capítulo y teniendo presente también, cuando correspondan a créditos para adquisición de viviendas, el Reglamento Financiero contenido en el Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile.
+Requisito indispensable para el registro del prospecto, será el envío a esta Superintendencia, para su aprobación, de las tablas de desarrollo correspondientes a las letras de crédito y de la información relativa a las tablas de desarrollo que se utilizarán para los respectivos mutuos hipotecarios.
 
-2.1.- Tablas de desarrollo de las letras de crédito.
+Dichas tablas deben prepararse de acuerdo con las instrucciones de este Capítulo y teniendo presente también, cuando correspondan a créditos para adquisición de viviendas, el Reglamento Financiero contenido en el Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile.
+
+2.1. Tablas de desarrollo de las letras de crédito.
 
 Las tablas de desarrollo de las letras de crédito deberán contener, como mínimo, los siguientes antecedentes referidos a cada uno de los cupones o períodos de pago:
 
@@ -9342,19 +8352,19 @@ e) Importe de capital adeudado; y,
 
 f) Amortización acumulada del capital.
 
-Sin embargo, cuando se trate de letras de crédito que se emitan con tasa de interés flotante, se omitirá señalar los antecedentes referidos en las letras b) y c),dado que dichas cifras dependerán de la tasa de interés que rija al momento de pago efectivo de cada uno de los cupones, pero la amortización y los demás datos deberán calcularse sobre la base de la tasa de interés anual que regirá en la fecha de emisión material de la letra.
+Sin embargo, cuando se trate de letras de crédito que se emitan con tasa de interés flotante, se omitirá señalar los antecedentes referidos en las letras b) y c), dado que dichas cifras dependerán de la tasa de interés que rija al momento de pago efectivo de cada uno de los cupones, pero la amortización y los demás datos deberán calcularse sobre la base de la tasa de interés anual que regirá en la fecha de emisión material de la letra.
 
 Las tablas de desarrollo deberán estar referidas a una unidad de capital y deberán presentarse con no menos de cuatro decimales.
 
 Para el cálculo de las tasas de interés trimestrales, equivalentes a una tasa de interés anual fija, se emplearán no menos de 7 decimales. El séptimo decimal se aumentará al valor inmediatamente superior sólo cuando el octavo sea igual o superior a cinco.
 
-Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada y los períodos de amortización o pago de intereses. Cuándo se trate de letras de crédito con tasa de interés flotante, se indicará la tasa inicial utilizada para el cálculo de las amortizaciones de capital y, cuando corresponda, la tasa máxima y la tasa mínima.
+Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada y los períodos de amortización o pago de intereses. Cuando se trate de letras de crédito con tasa de interés flotante, se indicará la tasa inicial utilizada para el cálculo de las amortizaciones de capital y, cuando corresponda, la tasa máxima y la tasa mínima.
 
-2.2.- Tablas de desarrollo de los mutuos.
+2.2. Tablas de desarrollo de los mutuos.
 
 Las tablas de desarrollo de los mutuos hipotecarios deberán contener la siguiente información mínima:
 
-a)Número del dividendo;
+a) Número de dividendo;
 
 b) Amortización de capital;
 
@@ -9362,7 +8372,7 @@ c) Intereses;
 
 d) Comisión;
 
-e)Valor del dividendo;
+e) Valor del dividendo;
 
 f) Saldo de capital adeudado; y,
 
@@ -9372,13 +8382,13 @@ Al igual que las tablas de desarrollo de las letras de crédito, estas tablas de
 
 Cuando la tabla corresponda a mutuos con tasa de interés flotante, no se mencionarán los datos señalados en las letras c) y e), ya que el servicio de la deuda dependerá de la tasa de interés que rija en cada oportunidad. En este caso, se dejará constancia, en la respectiva tabla de desarrollo, de la fórmula que se utilizará para el cálculo de los intereses, identificando la tasa base y su forma de certificación o publicación.
 
-A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo dispuesto en el artículo 111 de la Ley General de Bancos, las instituciones financieras deberán protocolizar las tablas de desarrollo en una Notaría, para dejar constancia, posteriormente, en cada una de las escrituras de mutuo, de la tabla que es aplicable a la deuda.
+A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo dispuesto en el artículo 111 de la Ley General de Bancos, los bancos deberán protocolizar las tablas de desarrollo en una Notaría, para dejar constancia, posteriormente, en cada una de las escrituras de mutuo, de la tabla que es aplicable a la deuda.
 
-2.3.- Tablas de desarrollo aplicables a créditos para adquisición de vivienda.
+2.3. Tablas de desarrollo aplicables a los créditos para adquisición de vivienda.
 
-Las instituciones financieras podrán omitir el envío de las tablas de desarrollo de las letras de crédito para vivienda cuando deseen utilizar las tablas de uso general que fueron entregadas por esta Superintendencia a cada institución financiera y que se identifican en el Anexo N° 11 de este capítulo. En tal caso,bastará señalar el código que identifica la tabla y mencionar si las letras estipulan una tasa de interés fija o flotante. Si fueren con tasa flotante, se indicará, también, si la tasa quedará o no sujeta a un límite mínimo.
+Los bancos podrán omitir el envío de las tablas de desarrollo de las letras de crédito para vivienda cuando deseen utilizar las tablas de uso general que fueron entregadas por esta Superintendencia a cada banco y que se identifican en el Anexo N° 11 de este Capítulo. En tal caso, bastará señalar el código que identifica la tabla y mencionar si las letras estipulan una tasa de interés fija o flotante. Si fueren con tasa flotante, se indicará, también, si la tasa quedará o no sujeta a un límite mínimo.
 
-En todo caso, para construir una tabla de desarrollo de letras de crédito para vivienda con tasa fija, en la cual se basan también las amortizaciones de capital de aquéllas que se emiten con tasa variable, debe tenerse presente,además de lo indicado en el numeral 2.1 anterior, que el factor correspondiente al valor del cupón será siempre el mismo, excepto el último que podrá ser diferente por efecto del cálculo.
+En todo caso, para construir una tabla de desarrollo de letras de crédito para vivienda con tasa fija, en la cual se basan también las amortizaciones de capital de aquéllas que se emiten con tasa variable, debe tenerse presente, además de lo indicado en el numeral 2.1 anterior, que el factor correspondiente al valor del cupón será siempre el mismo, excepto el último que podrá ser diferente por efecto del cálculo.
 
 El valor presente que se determine no deberá contener una diferencia superior o inferior a 0,0005 unidades, para una obligación o deuda referida a una unidad de capital.
 
@@ -9386,29 +8396,29 @@ A cada tabla de desarrollo de letras de crédito deberá acompañarse en un anex
 
 Cuando se trate del registro de letras de crédito, correspondientes a series cuyas tablas de desarrollo no sea necesario enviar por encontrarse ya incorporadas al Anexo N° 11 de este Capítulo se remitirá, de todas maneras, junto con la solicitud de registro, la información antedicha relativa a las tablas de desarrollo previstas para los respectivos mutuos.
 
-2.4.- Aprobación de las tablas de desarrollo.
+2.4. Aprobación de las tablas de desarrollo.
 
-Los plazos establecidos en el Reglamento Financiero del Banco Central de Chile para la aprobación por parte de esta Superintendencia de las tablas de desarrollo presentadas por las instituciones financieras, se contarán desde la fecha de presentación a este Organismo de los respectivos prospectos, siempre que éstos no sean objetados por falta de antecedentes, deficiencias en su preparación u otras causas. En el caso de rechazo de un prospecto por alguno delos motivos señalados, el plazo de aprobación de las respectivas tablas de desarrollo, se contará desde la fecha en que dichos reparos hayan sido solucionados.
+Los plazos establecidos en el Reglamento Financiero del Banco Central de Chile para la aprobación por parte de esta Superintendencia de las tablas de desarrollo presentadas por los bancos, se contarán desde la fecha de presentación a este Organismo de los respectivos prospectos, siempre que éstos no sean objetados por falta de antecedentes, deficiencias en su preparación u otras causas. En el caso de rechazo de un prospecto por alguno de los motivos señalados, el plazo de aprobación de las respectivas tablas de desarrollo, se contará desde la fecha en que dichos reparos hayan sido solucionados.
 
-En cualquier caso, las instituciones financieras no podrán comprometer operaciones sobre la base de tablas de desarrollo que aún no hayan sido autorizadas por esta Superintendencia.
+En cualquier caso, los bancos no podrán comprometer operaciones sobre la base de tablas de desarrollo que aún no hayan sido autorizadas por esta Superintendencia.
 
-3.- Confección de las láminas y registro de las medidas de seguridad.
+### 3. Confección de las láminas y registro de las medidas de seguridad
 
-3.1.- Características generales.
+3.1. Características generales.
 
 Las dimensiones de las láminas no excederán de las señaladas en el Anexo N° 1 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile. A la misma disposición deberán atenerse con respecto a la ubicación de los antecedentes de las referidas láminas.
 
 Las letras de crédito para la vivienda deben ser de color azul, en tanto que las letras de crédito para fines generales podrán ser de cualquier otro color, diferente del azul, debiendo procurarse cierta uniformidad y permanencia en su utilización.
 
-Las instituciones financieras procurarán, entre ellas, uniformar el diseño de los caracteres para imprimir las láminas de las letras de crédito, como asimismo la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de crédito de similares características, colores de los caracteres, fondos, etc.
+Los bancos procurarán, entre ellos, uniformar el diseño de los caracteres para imprimir las láminas de las letras de crédito, como asimismo la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de crédito de similares características, colores de los caracteres, fondos, etc.
 
-3.2- Impresión de las letras de crédito.
+3.2. Impresión de las letras de crédito.
 
 La impresión de las letras de crédito se podrá efectuar en láminas separadas y únicas de menciones fijas o en formularios continuos de computación que lleven el texto fijo del instrumento y permitan la inserción de las especificaciones variables del mismo al momento de su emisión material.
 
-Sin perjuicio de las demás instrucciones contenidas en este título, la impresión de las láminas deberá realizarse ciñiéndose a las siguientes disposiciones:
+Sin perjuicio de las demás instrucciones contenidas en este título, la impresión de las láminas deberá realizarse ciñéndose a las siguientes disposiciones:
 
-3.2.1.- Normas de seguridad.
+3.2.1. Normas de seguridad.
 
 Conforme a lo dispuesto en el Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile, las letras de crédito deberán ser confeccionadas considerando al menos dos de las siguientes medidas de seguridad:
 
@@ -9422,153 +8432,161 @@ d) Contemplar el diseño de seguridad para especies valoradas.
 
 Además, el papel debe contener un porcentaje de algodón que garantice la conservación temporal de las letras de crédito, según el plazo de vencimiento al que serán emitidas.
 
-3.2.2.- Selección de Imprenta.
+3.2.2. Selección de imprenta.
 
-Las instituciones financieras que decidan contratar la impresión de sus letras de crédito con entidades distintas de la Casa de Moneda, deberán asegurarse de que la imprenta elegida cuente con los medios técnicos que garanticen una impresión perfecta de estos instrumentos y con las medidas de seguridad suficientes que impidan la consumación de irregularidades o de hechos delictuosos que pudieran afectar la confianza en este tipo de documentos.
+Los bancos que decidan contratar la impresión de sus letras de crédito con entidades distintas de la Casa de Moneda, deberán asegurarse de que la imprenta elegida cuente con los medios técnicos que garanticen una impresión perfecta de estos instrumentos y con las medidas de seguridad suficientes que impidan la consumación de irregularidades o de hechos delictuosos que pudieran afectar la confianza en este tipo de documentos.
 
-A fin de dar cumplimiento a las normas del Banco Central de Chile sobre la materia, antes de ordenar la impresión de los referidos instrumentos a entidades dis4 tintas de la Casa de Moneda, las instituciones financieras deberán verificar que se haya acreditado ante esta Superintendencia que la empresa elegida es capaz de cumplir cabalmente con las normas de seguridad señaladas en el numeral 3.2.1 precedente.
+A fin de dar cumplimiento a las normas del Banco Central de Chile sobre la materia, antes de ordenar la impresión de los referidos instrumentos a entidades distintas de la Casa de Moneda, los bancos deberán verificar que se haya acreditado ante esta Superintendencia que la empresa elegida es capaz de cumplir cabalmente con las normas de seguridad señaladas en el numeral 3.2.1 precedente.
 
-Para los efectos de acreditar ante esta Superintendencia esa capacidad, deberá enviarse a este Organismo por parte de la institución financiera que se proponga encargar el trabajo de impresión, un informe técnico de un perito que designe la propia institución financiera, en el que conste que la imprenta de que se trata cumple con las normas de seguridad y está habilitada para efectuar impresiones con las condiciones técnicas establecidas por el Banco Central de Chile para la confección de documentos valorados. Con el recibo de dicho informe, copia del cual se entregará a la empresa que prestará el servicio de impresión, se entenderá cumplida la acreditación señalada en el párrafo precedente, tanto para ese trabajo en particular como para otros trabajos futuros de la misma especie que la empresa ya evaluada técnicamente, contrate con cualquier institución financiera.
+Para los efectos de acreditar ante esta Superintendencia esa capacidad, deberá enviarse a este Organismo por parte del banco que se proponga encargar el trabajo de impresión, un informe técnico de un perito que designe el propio banco, en el que conste que la imprenta de que se trata cumple con las normas de seguridad y está habilitada para efectuar impresiones con las condiciones técnicas establecidas por el Banco Central de Chile para la confección de documentos valorados. Con el recibo de dicho informe, copia del cual se entregará a la empresa que prestará el servicio de impresión, se entenderá cumplida la acreditación señalada en el párrafo precedente, tanto para ese trabajo en particular como para otros trabajos futuros de la misma especie que la empresa ya evaluada técnicamente, contrate con cualquier banco.
 
-3.3.- Información sobre las características de la letra impresa.
+3.3. Información sobre las características de las letras impresas.
 
 Una vez impresas las letras de crédito y antes de su colocación en el mercado, el emisor enviará a esta Superintendencia y a las bolsas de valores en las que las haya inscrito, un ejemplar debidamente inutilizado de las láminas impresas.
 
 Al iniciar la emisión de letras de crédito, el emisor deberá registrar en esta Superintendencia las medidas de seguridad empleadas en su confección; las características de las letras de crédito tales como el tamaño, la entidad que las imprimió, el peso del papel por unidad de superficie y cualquier otro antecedente que pudiera servir para identificar el título o determinar su autenticidad.
 
-En los casos en que las letras de crédito se impriman por lotes parciales, será de responsabilidad de las instituciones financieras emisoras mantener uniformes las medidas de seguridad empleadas en la confección de esos instrumentos y las características de éstos registradas en esta Superintendencia.
+En los casos en que las letras de crédito se impriman por lotes parciales, será de responsabilidad de los bancos emisores mantener uniformes las medidas de seguridad empleadas en la confección de esos instrumentos y las características de éstos registradas en esta Superintendencia.
 
-Cuando las instituciones emisoras decidan cambiar las medidas de seguridad de las letras de crédito o las características de éstas registradas en esta Superintendencia, para imprimir otros lotes estarán obligadas a enviar un nuevo ejemplar y solicitar su registro, de acuerdo con lo dispuesto en los dos primeros párrafos de este numeral.
+Cuando los bancos emisores decidan cambiar las medidas de seguridad de las letras de crédito o las características de éstas registradas en esta Superintendencia, para imprimir otros lotes estarán obligados a enviar un nuevo ejemplar y solicitar su registro, de acuerdo con lo dispuesto en los dos primeros párrafos de este numeral.
 
-4.- Emisión nominal y material de las letras.
+### 4. Emisión nominal y material de las letras
 
-Cada letra de crédito llevará una fecha de referencia para el cálculo de los
+Cada letra de crédito llevará una fecha de referencia para el cálculo de los cupones, esto es, la fecha en la que se inicia la correspondiente Tabla de Desarrollo de la letra, la que se denominará "fecha de emisión nominal". En las letras de crédito para fines generales, la "fecha de emisión nominal" será el día primero del mes en que se efectúe su emisión material. En tanto que en las letras de crédito para financiamiento de viviendas, la "fecha de emisión nominal" será siempre el primero de enero del año en que se efectúe su emisión material.
 
-cupones, esto es, la fecha en la que se inicia la correspondiente Tabla de
+Por otra parte, la emisión material de las letras de crédito, deberá hacerse en el mes en que se celebre el respectivo contrato de mutuo.
 
-Desarrollo de la letra, la que se denominará "fecha de emisión nominal". En las
+### 5. Uso de las letras de crédito para vivienda y fines generales
 
-letras de crédito para fines generales, la "fecha de emisión nominal" será el
+Los bancos pueden utilizar letras de crédito para vivienda solamente en el otorgamiento de préstamos para adquisición, construcción o ampliación de viviendas, siempre que éstos sean otorgados al usuario final de tales inmuebles.
 
-día primero del mes en que se efectúe su emisión material. En tanto que en las
+En los demás préstamos que otorguen de conformidad con las disposiciones de este Capítulo, tales como los que cursen a empresas constructoras para que edifiquen una o más viviendas, sólo podrán utilizar letras de crédito para fines generales.
 
-letras de crédito para financiamiento de viviendas, la "fecha de emisión
+### 6. Normas sobre destrucción o pérdida de letras de crédito
 
-nominal" será siempre el primero de enero del año en que se efectúe su emisión
+Los bancos podrán reemplazar las letras de crédito destruidas o perdidas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A. 1.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-material.
-
-Por otra parte, la emisión material de las letras de crédito, deberá hacerse en
-
-el mes en que se celebre el respectivo contrato de mutuo.
-
-5.- Uso de las letras de crédito para vivienda y fines generales.
-
-Las instituciones financieras pueden utilizar letras de crédito para vivienda
-
-solamente en el otorgamiento de préstamos para adquisición, construcción o
-
-ampliación de viviendas, siempre que éstos sean otorgados al usuario final de
-
-tales inmuebles.
-
-En los demás préstamos que otorguen de conformidad con las disposiciones de este
-
-capítulo, tales como los que cursen a empresas constructoras para que edifiquen
-
-una o más viviendas, sólo podrán utilizar letras de crédito para fines generales.
-
-6.- Normas sobre destrucción o pérdida de letras de crédito.
-
-Las instituciones financieras podrán reemplazar las letras de crédito destruidas o perdidas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A.1.1 del Compendio de Normas Financieras del Banco Central de Chile.
-
-7.- Letras depositadas en una empresa de depósito y custodia de valores.
+### 7. Letras depositadas en una empresa de depósito y custodia de valores
 
 La Ley N° 18.876 publicada en el Diario Oficial del 21 de diciembre de 1989 y reglamentada por el Decreto Supremo N° 734 del Ministerio de Hacienda, de 1991, permite reemplazar títulos depositados en las sociedades de depósito y custodia de valores autorizadas para operar de acuerdo con dicha ley, como asimismo efectuar el registro de valores sin la emisión física de los respectivos títulos.
 
-En su calidad de emisores de letras de crédito susceptibles de depositarse y registrarse en tales empresas, las instituciones financieras deberán ceñirse a las siguientes instrucciones.
+En su calidad de emisores de letras de crédito susceptibles de depositarse y registrarse en tales empresas, los bancos deberán ceñirse a las siguientes instrucciones:
 
-7.1.- Remplazo de láminas
+7.1. Remplazo de láminas.
 
-El artículo 10 de la Ley N° 18876, permite a una empresa de depósito y custodia de valores solicitar a los emisores el remplazo de uno o más títulos que ella mantenga en depósito, por otros de mayor o menor denominación, quedando obligados los emisores a efectuar el canje cuando la naturaleza del título lo permita.
+El artículo 10 de la Ley N° 18.876, permite a una empresa de depósito y custodia de valores solicitar a los emisores el remplazo de uno o más títulos que ella mantenga en depósito, por otros de mayor o menor denominación, quedando obligados los emisores a efectuar el canje cuando la naturaleza del título lo permita.
 
 En el caso de las letras de crédito, la naturaleza de los títulos permite al emisor efectuar un remplazo solamente cuando la sustitución solicitada no constituya un obstáculo para la aplicación de los fondos de amortización.
 
-El remplazo de las láminas deberá hacerse por otras de igual serie, valor y mes de emisión nominal de aquellas que se remplazan. Las láminas que se emitan para el efecto serán de aquellas que se utilizan normalmente para las operaciones o bien, en caso de que se utilicen láminas con denominación preimpresa y se requieran letras por montos superiores a los habituales, podrán emitirse láminas especiales que cumplan los mismos requisitos que aquellas No obstante, será facultativo de la institución emisora aceptar el canje entregando letras de mayor denominación que las utilizadas para el otorgamiento de créditos.
+El remplazo de las láminas deberá hacerse por otras de igual serie, valor y mes de emisión nominal de aquellas que se reemplazan. Las láminas que se emitan para el efecto serán de aquellas que se utilizan normalmente para las operaciones o bien, en caso de que se utilicen láminas con denominación preimpresa y se requieran letras por montos superiores a los habituales, podrán emitirse láminas especiales que cumplan los mismos requisitos que aquellas. No obstante, será facultativo de la institución emisora aceptar el canje entregando letras de mayor denominación que las utilizadas para el otorgamiento de créditos.
 
 En todo caso, los cortes mínimos y máximos deberán ser convenidos previamente con la empresa de depósito y custodia de valores, dejándose constancia de que la entrega de láminas por montos significativos, en remplazo de otras de menor denominación, quedará sujeta a una decisión del emisor como consecuencia de su evaluación respecto a las futuras aplicaciones de fondos de amortización.
 
-Los sistemas de control de la institución emisora deberán asegurar la inmediata inutilización definitiva de las láminas remplazadas y la anotación de los remplazos en sus registros. Para la destrucción de dichas láminas se seguirá el mismo procedimiento que se utiliza para destruir las letras completamente amortizadas.
+Los sistemas de control de la institución emisora deberán asegurar la inmediata inutilización definitiva de las láminas remplazadas y la anotación de los reemplazos en sus registros. Para la destrucción de dichas láminas se seguirá el mismo procedimiento que se utiliza para destruir las letras completamente amortizadas.
 
-7.2.- Letras de crédito emitidas desmaterializadamente.
+7.2. Letras de crédito emitidas desmaterializadamente.
 
-Según lo previsto en el inciso segundo del artículo 11 de la Ley N° 18.876, modificado por la Ley N° 19.705, los bancos y sociedades financieras pueden acordar con una empresa de depósito y custodia de valores la emisión desmaterializada de sus letras de crédito, entendiéndose satisfecha, de acuerdo con la ley, la entrega material de las letras para la celebración de los respectivos contratos de mutuos hipotecarios mediante la respectiva anotación en cuenta.
+Según lo previsto en el inciso segundo del artículo 11 de la Ley N° 18.876, modificado por la Ley N° 19.705, los bancos pueden acordar con una empresa de depósito y custodia de valores la emisión desmaterializada de sus letras de crédito, entendiéndose satisfecha, de acuerdo con la ley, la entrega material de las letras para la celebración de los respectivos contratos de mutuos hipotecarios mediante la respectiva anotación en cuenta.
 
 Las letras de crédito desmaterializadas deberán tratarse igual que las láminas físicas, en el sentido de considerar distintos cortes para efecto de los eventuales sorteos.
 
 En el evento de que el emisor y la empresa de depósito y custodia de valores convengan el reemplazo de títulos ya emitidos físicamente y mantenidos en custodia en dicha empresa, por el sistema de emisión desmaterializada, deberá procederse a la inutilización definitiva de las respectivas láminas físicas, siguiendo el mismo procedimiento que se utiliza para las completamente amortizadas.
 
-7.3.- Pago de valores registrados en las empresas de depósito y custodia.
+7.3. Pago de valores registrados en las empresas de depósito y custodia.
 
 Para proceder al pago de los cupones de las letras de crédito físicamente emitidas que hayan sido ingresadas a una empresa de depósito y custodia de valores, la presentación de las letras podrá ser suplida por el sistema de información, cobro y liquidación convenido entre la entidad emisora y esa empresa. En ese caso, se podrá también pagar sin la presentación de los respectivos cupones si el emisor confiere un mandato a la empresa de depósito y custodia de valores para que ésta, en su representación, custodie e inutilice los cupones pagados y se los entregue en la oportunidad que se establezca en ese mandato.
 
 Cuando se trate de letras de crédito desmaterializadas, el pago se efectuará de acuerdo con los procedimientos acordados por el emisor con la empresa de depósito y custodia de valores.
 
-7.4.- Sorteos y publicaciones.
+7.4. Sorteos y publicaciones.
 
 Los sorteos de letras de crédito deberán incluir tanto aquellos valores que tengan existencia material como aquellos que no la tengan y que corresponda sortear de acuerdo con los cortes respectivos.
 
-Las instituciones que efectúen sorteos, deberán entregar a la empresa de depósito y custodia de valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Los bancos que efectúen sorteos, deberán entregar a la empresa de depósito y custodia de valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-8.- Registro de letras de crédito.
+### 8. Registro de letras de crédito
 
-8.1.- Registro de las emisiones.
+8.1. Registro de las emisiones.
 
-De acuerdo con lo dispuesto en el artículo 96 de la Ley General de Bancos, las instituciones emisoras deben mantener un registro de las letras de crédito que emitan.
+De acuerdo con lo dispuesto en el artículo 96 de la Ley General de Bancos, los bancos deben mantener un registro de las letras de crédito que emitan.
 
-Este Registro de Letras de Crédito tendrá por objeto mantener un control permanente de las letras de crédito emitidas en relación con los prospectos certificados por esta Superintendencia, como asimismo, demostrar que toda letra de crédito que se haya emitido, corresponde a un préstamo hipotecario cursado por la institución emisora de acuerdo con esta modalidad de crédito.
+Este Registro de Letras de Crédito tendrá por objeto mantener un control permanente de las letras de crédito emitidas en relación con los prospectos certificados por esta Superintendencia, como asimismo, demostrar que toda letra de crédito que se haya emitido, corresponde a un préstamo hipotecario cursado por el banco emisor de acuerdo con esta modalidad de crédito.
 
 Las anotaciones en dicho Registro deberán permitir la obtención, en cualquier momento, al menos de la siguiente información:
 
 a) Fechas y números de los certificados de inscripción del prospecto a que corresponden las letras de crédito emitidas, monto total de éstas por serie y saldo por emitir no registrado de cada serie.
 
-b) Fechas de las anotaciones en el Registro
+b) Fechas de las anotaciones en el Registro.
 
 c) Número y monto de cada mutuo hipotecario asociado a las letras emitidas.
 
-d) Serie, número y monto de cada una de las letras de crédito emitidas por el respectivo mutuo hipotecario.
+d) Serie, número y monto de cada una de las letras de crédito emitidas por el respectivo mutuo hipotecario. Se anotará también en el Registro, cuando corresponda, el pagaré de cancelación parcial del cupón a que se refiere la letra c) del número 5 del Título V del Reglamento Financiero del Banco Central de Chile.
 
-Se anotará también en el Registro, cuando corresponda, el pagaré de cancelación parcial del cupón a que se refiere la letra c) del número 5 del Título V del Reglamento Financiero del Banco Central de Chile.
-
-En el registro deben ingresarse e identificarse según su tipo de emisión, tanto las letras de crédito que sé émiten físicamente como las correspondientes al sistema de emisión desmaterializada.
+En el registro deben ingresarse e identificarse según su tipo de emisión, tanto las letras de crédito que se emiten físicamente como las correspondientes al sistema de emisión desmaterializada.
 
 Es requisito indispensable para el registro de las letras, que el respectivo mutuo hipotecario se encuentre firmado ante Notario. Por lo tanto, dichos valores deberán ser registrados tan pronto como se cumpla ese requisito.
 
-8.2.- Control sobre emisiones desmaterializadas vigentes y láminas en circulación.
+8.2. Control sobre emisiones desmaterializadas vigentes y láminas en circulación.
 
-Dado que el remplazo de láminas por otras de mayor o menor denominación hace imprescindible un control respecto de las láminas vigentes que se encuentren en circulación, considerando las emisiones y anulaciones con motivo del canje, las instituciones financieras que deban remplazar láminas a solicitud de una empresa de depósito y custodia de valores, deberán mantener registros que permitan el control de cada una de las láminas.
+Dado que el reemplazo de láminas por otras de mayor o menor denominación hace imprescindible un control respecto de las láminas vigentes que se encuentren en circulación, considerando las emisiones y anulaciones con motivo del canje, los bancos que deban remplazar láminas a solicitud de una empresa de depósito y custodia de valores, deberán mantener registros que permitan el control de cada una de las láminas.
 
 Cuando se acuerde con una empresa de depósito y custodia de valores el sistema de emisión desmaterializada, el registro deberá también permitir el control permanente de la situación de las letras vigentes, en cuanto si se trata de documentos físicos o corresponden a ese sistema.
 
-8.3.- Modalidades de registros.
+8.3. Modalidades de registros.
 
 Los registros de que tratan los numerales precedentes pueden llevarse separadamente o en forma integrada, mediante libros o en sistemas computarizados que permitan en cualquier momento conocer y listar los datos en forma expedita y conservar, de acuerdo con lo establecido en el Capítulo 1-10 de esta Recopilación Actualizada de Normas, la información histórica de los saldos y movimientos.
 
-Por consiguiente, cada institución financiera adoptará las modalidades que estime más adecuadas en lo que respecta a configuración de los sistemas de registro, debiendo seguir, naturalmente, todos los procedimientos de control necesarios para asegurar la veracidad e integridad de la información.
+Por consiguiente, cada banco adoptará las modalidades que estime más adecuadas en lo que respecta a configuración de los sistemas de registro, debiendo seguir, naturalmente, todos los procedimientos de control necesarios para asegurar la veracidad e integridad de la información.
 
 Conforme a lo establecido en el artículo 96 de la Ley General de Bancos, esta Superintendencia está facultada para hacerse cargo en cualquier momento del registro de las emisiones de letras de crédito, si se detectaren deficiencias o irregularidades en su manejo por parte de alguna entidad emisora.
 
-9.- Información al público.
+### 9. Información al público
 
-Las instituciones financieras deberán atenerse estrictamente a las instrucciones que sobre la materia ha impartido esta Superintendencia, en especial en lo relativo a los antecedentes legales, sociales, financieros y administrativos de la sociedad que debe contener el extracto informativo que éstas mantengan a disposición del público.
+Los bancos deberán atenerse estrictamente a las instrucciones que sobre la materia ha impartido esta Superintendencia, en especial en lo relativo a los antecedentes legales, sociales, financieros y administrativos de la sociedad que debe contener el extracto informativo que éstas mantengan a disposición del público.
 
-Asimismo, las entidades emisoras cuidarán de informar al público inversionista de las características principales de las letras de crédito emitidas, tales como monto de la emisión, senes y numeración de las letras, tasa de interés, sistema de reajuste y amortización, etc.
+Asimismo, los bancos cuidarán de informar al público inversionista de las características principales de las letras de crédito emitidas, tales como monto de la emisión, series y numeración de las letras, tasa de interés, sistema de reajuste y amortización, etc.
 
-10.- Información a las Bolsas de Valores.
+### 10. Información a las Bolsas de Valores
 
-Las instituciones financieras que efectúen amortizaciones de letras de crédito por sorteo, deberán enviar a las Bolsas de Valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Los bancos que efectúen amortizaciones de letras de crédito por sorteo, deberán enviar a las Bolsas de Valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-No obstante lo anterior, en los créditos que se acojan a la exención tributaria de que trata el artículo 41 de la Ley N° 18.482, la comisión sólo se podrá expresar como un monto y su cobro deberá efectuarse por una suma uniforme en el tiempo.
+II.- PRESTAMOS EN LETRAS DE CREDITO.
+
+### 1. Mutuos hipotecarios
+
+De acuerdo con las disposiciones establecidas en el Reglamento Financiero del Banco Central de Chile, los bancos deberán incorporar obligatoriamente en los contratos de compraventa y mutuo hipotecario correspondientes a préstamos para vivienda, las cláusulas indicadas en los anexos N°s. 1 y 2, adjuntos al presente Capítulo, según se trate de operaciones con tasa de interés fija o flotante, respectivamente.
+
+Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, los bancos podrán seguir un procedimiento simplificado de escrituración de los mutuos, mediante el uso de escrituras públicas de cláusulas generales inscritas en el Registro de Hipotecas y Gravámenes del respectivo Conservador de Bienes Raíces. Las escrituras que se inscriban para el efecto deberán contener solamente aquellas cláusulas que son comunes a todos los mutuos de que se trate, es decir, no contendrán aquellas referidas a la individualización de los deudores, garantías, tasas de interés, plazos u otras especificaciones que son propias de un contrato en particular. Las escrituras públicas de cláusulas generales de que se trata, constituirán un contrato de adhesión, debiendo darse a conocer su contenido a la parte que lo acepte y dejarse constancia en cada mutuo de la fecha y notaría en que la respectiva escritura fue otorgada, de su inscripción y de la entrega de una copia simple al mutuario.
+
+### 2. Condiciones generales de los préstamos
+
+2.1. Monto máximo de los préstamos.
+
+Las normas del Banco Central de Chile establecen que los préstamos que se efectúen bajo esta modalidad, no podrán exceder del 75% del valor de tasación del inmueble ofrecido en garantía.
+
+En caso de operaciones de compra venta de bienes raíces, dichos préstamos tampoco podrán exceder del mencionado importe o del 75% del precio de venta del respectivo inmueble si este último precio fuere inferior al valor de tasación.
+
+No obstante lo anterior, cuando se trate de créditos otorgados en moneda extranjera o de operaciones en moneda chilena indexadas a una moneda extranjera, dichos límites serán del 60%.
+
+Además, como es natural, deberán tenerse presente los márgenes individuales de crédito establecidos en el artículo 84 de la Ley General de Bancos.
+
+2.2. Monto máximo del dividendo pactado en préstamos para viviendas cuyo valor de tasación no sea superior a 3.000 U.F.
+
+En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25% de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de un tercero, siempre que éste se constituya en fiador y codeudor solidario del crédito.
+
+### 3. Garantía hipotecaria
+
+La hipoteca a favor del banco, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda, de acuerdo a lo señalado en el numeral 2.1 de este título y según sea el caso, del 60% ó 75% del valor de tasación del inmueble o de su precio de venta.
+
+Si dos bancos participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
+
+### 4. Tasación de la garantía
+
+El valor de tasación del inmueble que servirá de garantía será determinado por un perito designado por el banco y el costo que ello irrogue será de cargo del deudor. En la tasación del inmueble que debe practicarse, sólo se comprenderá el valor de las mejoras permanentes adheridas a éste, cuyo concepto se encuentra definido en las normas generales de derecho. Atendida la importancia de efectuar una tasación que refleje el valor real de la propiedad que se recibirá en garantía, de manera que constituya un resguardo efectivo para la institución, ésta deberá cuidar de que en el procedimiento empleado se consideren y ponderen correctamente los factores que inciden en el valor que se le asigne al bien raíz.
+
+### 5. Comisión
+
+Los bancos pueden pactar libremente con los mutuarios la comisión que cobrarán sobre el mutuo. La comisión acordada deberá indicarse explícitamente en el respectivo contrato, ya sea como un monto o como una proporción del capital insoluto del préstamo, de acuerdo a lo que se haya establecido en la tabla de desarrollo del mutuo que se convenga aplicar, de modo que no se confunda con los intereses, con la amortización del crédito o con cualquier otro gasto de la operación. Esta comisión, en caso que se exprese como una proporción del saldo insoluto del crédito, será decreciente conforme a dicha proporción.
 
 En todo caso, la tasa de la comisión no estará sujeta a fluctuaciones y para su cálculo deben emplearse las fórmulas indicadas por el Banco Central de Chile en el Anexo del Capítulo II.A.2 del Compendio de Normas Financieras.
 
@@ -9576,79 +8594,7 @@ Lo anteriormente expuesto, es sin perjuicio de lo dispuesto en el numeral 2.3 de
 
 El importe de la comisión deberá indicarse explícitamente en cada dividendo, de manera que no se confunda con los intereses, con la amortización o con cualquier otro gasto.
 
-Por otra parte, las entidades financieras deben tener presente que la suma de las tasas de interés y de la comisión, no podrá exceder a la tasa de interés máxima convencional vigente al momento de la convención.
-
-II.- PRESTAMOS EN LETRAS DE CREDITO.
-
-1.- Mutuos hipotecarios.
-
-De acuerdo con las disposiciones establecidas en el Reglamento Financiero del Banco Central de Chile, las instituciones financieras deberán incorporar obligatoriamente en los contratos de compraventa y mutuo hipotecario correspondientes a préstamos para vivienda, las cláusulas indicadas en los anexos N°s. 1 y 2, adjuntos al presente capítulo, según se trate de operaciones
-
-con tasa de interés fija o flotante, respectivamente.
-
-Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, las instituciones financieras podrán seguir un procedimiento simplificado de escrituración de los mutuos, mediante el uso de escrituras públicas de cláusulas generales inscritas en el Registro de Hipotecas y Gravámenes del respectivo Conservador de Bienes Raíces. Las escrituras que se inscriban para el efecto deberán contener solamente aquellas cláusulas que son comunes a todos los mutuos de que se trate, es decir, no contendrán aquellas referidas a la individualización de los deudores, garantías, tasas de interés, plazos u otras especificaciones que son propias de un contrato en particular. Las escrituras públicas de cláusulas generales de que se trata, constituirán un contrato de adhesión, debiendo darse a conocer su contenido a la parte que lo acepte y dejarse constancia en cada mutuo de la fecha y notaría en que la respectiva escritura fue otorgada, de su inscripción y de la entrega de una copia simple al mutuario.
-
-2.- Condiciones generales de los prestamos.
-
-2.1.- Monto máximo de los préstamos.
-
-Las normas del Banco Central de Chile establecen que los préstamos que efectúen las instituciones financieras bajo esta modalidad, no podrán exceder del 75% del valor de tasación del inmueble ofrecido en garantía.
-
-En caso de operaciones de compra venta de bienes raíces, dichos préstamos tampoco podrán exceder del mencionado importe o del 75% del precio de venta del respectivo inmueble si este último precio fuere inferior al valor de tasación.
-
-No obstante lo anterior, cuando se trate de créditos otorgados en moneda extranjera o de operaciones en moneda chilena indexadas a una moneda extranjera, dichos límites serán del 60%.
-
-Además, como es natural, deberán tenerse presente los márgenes individuales de crédito establecidos en el Art. 84 de la Ley General de Bancos.
-
-2.2.- Monto máximo del dividendo pactado en préstamos para viviendas cuyo valor de tasación no sea superior a 3.000 U.F.
-
-En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25 % de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de un tercero, siempre que éste se constituya en fiador y codeudor solidario del crédito.
-
-3.- Garantía hipotecaria.
-
-La hipoteca a favor de la entidad financiera, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda, de acuerdo a lo señalado en el numeral 2.1 de este título y según sea el caso, del 60% ó 75% del valor de tasación del inmueble o de su precio de venta.
-
-Si dos instituciones financieras participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
-
-4.- Tasación de la garantía.
-
-El valor de tasación del inmueble que servirá de garantía será determinado por
-
-un perito designado por la institución financiera y el costo que ello irrogue
-
-será de cargo del deudor. En la tasación del inmueble que debe practicarse, sólo
-
-se comprenderá el valor de las mejoras permanentes adheridas a éste, cuyo
-
-concepto se encuentra definido en las normas generales de derecho. Atendida la
-
-importancia de efectuar una tasación que refleje el valor real de la propiedad
-
-que se recibirá en garantía, de manera que constituya un resguardo efectivo para
-
-la institución, ésta deberá cuidar de que en el procedimiento empleado se
-
-consideren y ponderen correctamente los factores que inciden en el valor que se
-
-le asigne al bien raíz.
-
-### 5. Comisión
-
-Las instituciones financieras pueden pactar libremente con los mutuarios la comisión que cobrarán sobre el mutuo. La comisión acordada deberá indicarse explícitamente en el respectivo contrato, ya sea como un monto o como una proporción del capital insoluto del préstamo, de acuerdo a lo que se haya establecido en la tabla de desarrollo del mutuo que se convenga aplicar, de modo que no se confunda con los intereses, con la amortización del crédito o con cualquier otro gasto de la operación. Esta comisión, en caso que se exprese como una proporción del saldo insoluto del crédito, será decreciente conforme a dicha
-
-proporción.
-
-No obstante lo anterior, en los créditos que se acojan a la exención tributaria de que trata el artículo 41 de la Ley N° 18.482, la comisión sólo se podrá
-
-expresar como un monto y su cobro deberá efectuarse por una suma uniforme en el tiempo.
-
-En todo caso, la tasa de la comisión no estará sujeta a fluctuaciones y para su cálculo deben emplearse las fórmulas indicadas por el Banco Central de Chile en el Anexo del Capítulo II.A.2 del Compendio de Normas Financieras.
-
-Lo anteriormente expuesto, es sin perjuicio de lo dispuesto en el numeral 2.3 del título I de este capítulo.
-
-El importe de la comisión deberá indicarse explícitamente en cada dividendo, de manera que no se confunda con los intereses, con la amortización o con cualquier otro gasto.
-
-Por otra parte, las entidades financieras deben tener presente que la suma delas tasas de interés y de la comisión, no podrá exceder a la tasa de interés máxima convencional vigente al momento de la convención.
+Por otra parte, los bancos deben tener presente que la suma de las tasas de interés y de la comisión, no podrá exceder a la tasa de interés máxima convencional vigente al momento de la convención.
 
 6.- Entrega del importe de los préstamos.
 
@@ -9670,19 +8616,19 @@ El referido pagaré, al igual que el señalado precedentemente, podrá ser a la 
 
 De acuerdo a lo señalado en el párrafo anterior, la fecha de vencimiento debe ser coincidente con la del cupón que hubiere sido desprendido de la letra y su monto será igual al valor de dicho cupón, deducido el importe devengado entre la "fecha de emisión nominal" de las respectivas letras y el día primero del mes subsiguiente a esa fecha.
 
-7.- Dividendos.
+### 7. Dividendos
 
-El artículo 1° del Capítulo II.A.1 del Compendio de Normas Financieras vigente sobre emisión de letras de crédito, dispone que el rembolso de los préstamos otorgados mediante estos instrumentos se hará por medio de dividendos anticipados que comprenderán el interés, la amortización y la comisión.
+El artículo 1° del Capítulo II.A.1 del Compendio de Normas Financieras vigente sobre emisión de letras de crédito, dispone que el reembolso de los préstamos otorgados mediante estos instrumentos se hará por medio de dividendos anticipados que comprenderán el interés, la amortización y la comisión.
 
 Se entenderán como dividendos anticipados en los préstamos para la vivienda, aquéllos cuyo pago deba hacerse al comienzo de cada uno de los intervalos de pago acordados. Este intervalo debe ser mensual, debiendo pagarse los dividendos dentro de los diez primeros días del respectivo período. En los préstamos para vivienda debe tenerse presente que la suma de tres dividendos mensuales debe corresponder al valor del cupón trimestral de las letras de crédito emitidas.
 
 La suma de los dividendos del mutuo, cualquiera sea la periodicidad en que deben ser pagados, debe ser coincidente, en lo que a cuota de capital e intereses se refiere, con la respectiva cuota de amortización de capital e intereses de las correspondientes letras de crédito emitidas.
 
-Cuando se trate de préstamos en letras de crédito para vivienda, el primer dividendo vencerá en el mes subsiguiente a aquél en que se hubiere celebrado el respectivo contrato de mutuo. En el caso de préstamos en letras de crédito para fines generales, los dividendos tendrán la periodicidad y el vencimiento que se hubiere convenido expresamente en el contrato de mutuo. En estos últimos créditos se podrá pactar que el devengo de intereses, comisiones y reajustes a favor de la institución financiera acreedora se inicie el día 1° del mes en que se firme la correspondiente escritura o el día primero del mes subsiguiente a éste.
+Cuando se trate de préstamos en letras de crédito para vivienda, el primer dividendo vencerá en el mes subsiguiente a aquél en que se hubiere celebrado el respectivo contrato de mutuo. En el caso de préstamos en letras de crédito para fines generales, los dividendos tendrán la periodicidad y el vencimiento que se hubiere convenido expresamente en el contrato de mutuo. En estos últimos créditos se podrá pactar que el devengo de intereses, comisiones y reajustes a favor del banco acreedor se inicie el día 1° del mes en que se firme la correspondiente escritura o el día primero del mes subsiguiente a éste.
 
-8.- Amortización extraordinaria de préstamos.
+### 8. Amortización extraordinaria de préstamos
 
-El artículo 100 de la Ley General de Bancos faculta a los deudores de préstamos en letras de crédito para reembolsar anticipadamente todo o parte del capital no amortizado de su deuda, ya sea en dinero o en letras de crédito de la misma serie del préstamo. A este respecto, las normas del Banco Central de Chile agregan que, en el caso del pago mediante letras de crédito, éstas deben ser también del mismo año y del mismo emisor.
+El artículo 100 de la Ley General de Bancos faculta a los deudores de préstamos en letras de crédito para rembolsar anticipadamente todo o parte del capital no amortizado de su deuda, ya sea en dinero o en letras de crédito de la misma serie del préstamo. A este respecto, las normas del Banco Central de Chile agregan que, en el caso del pago mediante letras de crédito, éstas deben ser también del mismo año y del mismo emisor.
 
 Cuando el pago se realice en esta última forma, las letras serán recibidas por el valor nominal del respectivo título, descontadas las amortizaciones parciales ya efectuadas, en el caso de que se trate de letras con amortización directa, o a su valor par cuando lo sean con amortización indirecta.
 
@@ -9692,63 +8638,61 @@ En el caso de una amortización extraordinaria total de la deuda, el deudor debe
 
 Cuando se trate de amortizaciones anticipadas parciales, el pago se aplicará proporcionalmente a los dividendos restantes de la deuda, de modo que el importe de éstos se rebajará sin alterar el plazo pactado de ella. En este caso, el monto pagado por el deudor se aplicará al capital insoluto a la fecha del pago y, sobre la base del saldo resultante y del plazo remanente, se recalcularán los dividendos que deben pagarse a partir del mes siguiente. En caso de operaciones con tasa de interés variable, la amortización de capital que corresponderá incluir en los dividendos remanentes, se calculará según la tasa de interés vigente en la fecha en que se efectúe el pago anticipado.
 
-En conformidad con lo dispuesto en el inciso segundo del artículo 100 de la Ley General de Bancos, el deudor que amortice forma extraordinaria, total o parcialmente el saldo de su deuda, debe pagar a la entidad emisora, adicionalmente, una suma equivalente al interés y comisión correspondiente a un período de amortización de las letras de su préstamo, calculada sobre el monto que se amortice extraordinariamente, cualquiera hubiera sido la cantidad pagada anticipadamente.
+En conformidad con lo dispuesto en el inciso segundo del artículo 100 de la Ley General de Bancos, el deudor que amortice en forma extraordinaria, total o parcialmente el saldo de su deuda, debe pagar a la entidad emisora, adicionalmente, una suma equivalente al interés y comisión correspondiente a un período de amortización de las letras de su préstamo, calculada sobre el monto que se amortice extraordinariamente, cualquiera hubiera sido la cantidad pagada anticipadamente.
 
-Para ese efecto, las instituciones financieras deberán considerar los intereses y comisiones que, según las correspondientes tablas de desarrollo,correspondería cobrar en el período de amortización siguiente a aquél en que se realice el pago anticipado. Al tratarse de operaciones con tasa de interés variable, se utilizará para este efecto, la tasa vigente para los dividendos del período en el cual se paga anticipadamente.
+Para ese efecto, los bancos deberán considerar los intereses y comisiones que, según las correspondientes tablas de desarrollo, correspondería cobrar en el período de amortización siguiente a aquél en que se realice el pago anticipado. Al tratarse de operaciones con tasa de interés variable, se utilizará para este efecto, la tasa vigente para los dividendos del período en el cual se paga anticipadamente.
 
 De cualquier modo, el cobro adicional de dichos intereses y comisiones, es un derecho que la ley confiere a las entidades emisoras y, por lo tanto, es perfectamente renunciable, de manera que su aplicación queda entregada al buen criterio de las instituciones acreedoras.
 
-Al recibir algún pago para amortizar anticipadamente el total o parte de la obligación hipotecaria, las instituciones financieras no podrán cobrar al deudor valores que no correspondan a lo indicado precedentemente. En las liquidaciones que se entreguen a los deudores por pagos extraordinarios totales o parciales que éstos hicieren, deben señalar claramente los conceptos por los cuales se cobra, de tal manera que el deudor pueda constatar la correcta aplicación de lo dispuesto en las presentes instrucciones.
+Al recibir algún pago para amortizar anticipadamente el total o parte de la obligación hipotecaria, los bancos no podrán cobrar al deudor valores que no correspondan a lo indicado precedentemente. En las liquidaciones que se entreguen a los deudores por pagos extraordinarios totales o parciales que éstos hicieren, deben señalar claramente los conceptos por los cuales se cobra, de tal manera que el deudor pueda constatar la correcta aplicación de lo dispuesto en las presentes instrucciones.
 
-No obstante lo señalado precedentemente, las instituciones financieras podrán recibir, a petición del deudor, el pago anticipado de dividendos que comprendan un período máximo de seis meses, sin que se considere amortización extraordinaria del respectivo préstamo.
+No obstante lo señalado precedentemente, los bancos podrán recibir, a petición del deudor, el pago anticipado de dividendos que comprenda un período máximo de seis meses, sin que se considere amortización extraordinaria del respectivo préstamo.
 
 Si la amortización anticipada se realiza como consecuencia de la aplicación del seguro de desgravamen, no procede cobrar a la sucesión del deudor fallecido, la comisión de prepago a que se refiere este número.
 
-9.- Amortización extraordinaria de letras de crédito.
+### 9. Amortización extraordinaria de letras de crédito
 
-Las entidades financieras podrán realizar amortización extraordinaria de letras de crédito, únicamente por alguno de los motivos que se señalan en los numerales siguientes.
+Los bancos podrán realizar amortización extraordinaria de letras de crédito, únicamente por alguno de los motivos que se señalan en los numerales siguientes.
 
 Cada vez que se realice una amortización por sorteo, deberá señalarse en el acta respectiva el motivo por el cual se efectúa.
 
 Las referidas amortizaciones deberán efectuarse en el mismo período de amortización en que se reciba el pago extraordinario del deudor, o bien, a más tardar en el período de amortización siguiente a aquél en que se produzcan cualquiera de los hechos señalados en los numerales 9.2, 9.3 y 9.4 de este título.
 
-9.1.- Por pagos anticipados.
+9.1. Por pagos anticipados.
 
-Las instituciones financieras están obligadas a realizar amortización extraordinaria de letras de crédito mediante compra, rescate o sorteo a la par,cuando un deudor pague anticipadamente en dinero el total o parte de su deuda,hasta por el importe de dicho pago.
+Los bancos están obligados a realizar amortización extraordinaria de letras de crédito mediante compra, rescate o sorteo a la par, cuando un deudor pague anticipadamente en dinero el total o parte de su deuda, hasta por el importe de dicho pago.
 
 También deberán efectuar amortización extraordinaria de estos instrumentos, cuando el deudor pague el total o parte de su deuda mediante letras de crédito en la forma señalada en el N° 8 anterior.
 
-9.2.- Por no registrar la hipoteca dentro del plazo previsto.
+9.2. Por no registrar la hipoteca dentro del plazo previsto.
 
 Se realizará una amortización extraordinaria cuando la garantía hipotecaria que caucione un préstamo de esta naturaleza, no se encontrare inscrita en el Conservador de Bienes Raíces dentro de un plazo de 180 días corridos contados desde la fecha de la escritura de mutuo. En este último caso, una vez efectuada la amortización extraordinaria, el préstamo no se considerará otorgado mediante letras de crédito y no se le aplicarán las disposiciones del Título XIII de la Ley General de Bancos ni las contenidas en el Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
-9.3.- Por ejecución de la garantía o por castigo del crédito.
+9.3. Por ejecución de la garantía o por castigo del crédito.
 
-Cuando una institución financiera ejecute la garantía que caucione un préstamo en letras de crédito, deberá asimismo, efectuar una amortización extraordinaria de letras de crédito por el importe obtenido en el remate del inmueble, de la misma forma señalada precedentemente para el caso en que el deudor pague por adelantado, en dinero, su crédito. Igual procedimiento deberá adoptar cuando castigue el total o parte de un crédito hipotecario.
+Cuando un banco ejecute la garantía que caucione un préstamo en letras de crédito, deberá asimismo, efectuar una amortización extraordinaria de letras de crédito por el importe obtenido en el remate del inmueble, de la misma forma señalada precedentemente para el caso en que el deudor pague por adelantado, en dinero, su crédito. Igual procedimiento deberá adoptar cuando castigue el total o parte de un crédito hipotecario.
 
-9.4.- Por morosidad y desvalorización de la garantía.
+9.4. Por morosidad y desvalorización de la garantía.
 
-La institución financiera emisora podrá amortizar extraordinariamente letras de crédito hasta por un monto igual al de los préstamos de esta naturaleza que se encuentren en mora, siempre que las garantías que caucionen dichos créditos tengan un valor inferior en más de un 60% respecto al valor de tasación o al precio de compraventa del inmueble, previamente actualizados, que se tuvieron en consideración para otorgar los respectivos préstamos.
+El banco emisor podrá amortizar extraordinariamente letras de crédito hasta por un monto igual al de los préstamos de esta naturaleza que se encuentren en mora, siempre que las garantías que caucionen dichos créditos tengan un valor inferior en más de un 60% respecto del valor de tasación o al precio de compraventa del inmueble, previamente actualizados, que se tuvieron en consideración para otorgar los respectivos préstamos.
 
 La actualización del valor de la garantía se hará sobre la base de la variación de la unidad de fomento a contar de la fecha de otorgamiento del crédito. Por otra parte, el valor actual del respectivo inmueble deberá corresponder al obtenido de una tasación con una antigüedad no superior a tres meses y basada en el valor de mercado, realizada por profesionales independientes e idóneos.
 
 Se entenderá por préstamos en mora, para este efecto, aquellos que registren diez o más dividendos impagos o una morosidad de un año o más, en caso de dividendos que tengan una periodicidad mayor a la mensual.
 
-Las amortizaciones extraordinarias por este concepto podrán realizarlas las entidades financieras en el período que corresponda según las características de las letras de crédito de que se trate, esto es, en forma trimestral, semestral, etc.
+Las amortizaciones extraordinarias por este concepto podrán realizarse en el período que corresponda según las características de las letras de crédito de que se trate, esto es, en forma trimestral, semestral, etc.
 
-10.- Información al deudor hipotecario.
+### 10. Información al deudor hipotecario
 
-10.1.- Información anticipada.
+10.1. Información anticipada.
 
-La institución financiera deberá informar al deudor, en forma anticipada, acerca de los gastos globales aproximados que la operación demandará. En el cálculo deberán considerarse los siguientes:
+El banco deberá informar al deudor, en forma anticipada, acerca de los gastos globales aproximados que la operación demandará. En el cálculo deberán considerarse los siguientes:
 
 a) Pago de impuestos de timbres y estampillas;
 
 b) Derechos de inscripción en el Conservador de Bienes Raíces;
 
-c)Gastos notariales necesarios para el perfeccionamiento del (o los) contratos
-
-de mutuo;
+c) Gastos notariales necesarios para el perfeccionamiento del (o los) contratos de mutuo;
 
 d) Prima de Seguro de Incendio;
 
@@ -9760,49 +8704,49 @@ g) Prima de seguro de cesantía involuntaria, en caso que el deudor de crédito 
 
 h) Estudio de Títulos y redacción de escritura.
 
-Asimismo, se deberá informar al deudor sobre el plazo de la operación, la tasa de interés que devengará el crédito y la comisión que cobrará la entidad financiera, cuya tasa no podrá ser variable. Cuando se trate de préstamos en letras de crédito con tasa de interés flotante, se hará notar particularmente la variabilidad de los dividendos.
+Asimismo, se deberá informar al deudor sobre el plazo de la operación, la tasa de interés que devengará el crédito y la comisión que se cobrará, cuya tasa no podrá ser variable. Cuando se trate de préstamos en letras de crédito con tasa de interés flotante, se hará notar particularmente la variabilidad de los dividendos.
 
-Igualmente, deberá explicarse de manera general el sistema de financiamiento a través de la emisión de letras de crédito, con especial mención de las opciones que existen para vender las respectivas letras de crédito en el mercado o para que las adquiera la propia institución financiera emisora, plazo estimado para la venta de las letras de crédito, en caso que ella se le encargue a la entidad emisora, las diferencias que pueden producirse en dicha venta en relación con su valor par y la política de la institución en cuanto a garantizar el precio de la compra de tales instrumentos. También deberá hacerse presente que en la correspondiente escritura de mutuo deberá precisarse la parte contratante que se hará cargo de las diferencias de precio en la venta de las letras.
+Igualmente, deberá explicarse de manera general el sistema de financiamiento a través de la emisión de letras de crédito, con especial mención de las opciones que existen para vender las respectivas letras de crédito en el mercado o para que las adquiera el propio banco emisor; plazo estimado para la venta de las letras de crédito, en caso que ella se le encargue a la entidad emisora; las diferencias que pueden producirse en dicha venta en relación con su valor par y la política de la institución en cuanto a garantizar el precio de compra de tales instrumentos. También deberá hacerse presente que en la correspondiente escritura de mutuo deberá precisarse la parte contratante que se hará cargo de las diferencias de precio en la venta de las letras.
 
-Sin perjuicio de lo indicado precedentemente, las instituciones financieras deberán mantener a disposición de los interesados, folletos u hojas informativas que, junto con explicar las principales características de estos créditos y los requisitos y antecedentes necesarios que deben presentarse para tener acceso a ellos, informen los plazos, tasas de interés y comisión de los préstamos en letras de crédito y cada uno de los gastos señalados precedentemente.
+Sin perjuicio de lo indicado precedentemente, los bancos deberán mantener a disposición de los interesados, folletos u hojas informativas que, junto con explicar las principales características de estos créditos y los requisitos y antecedentes necesarios que deben presentarse para tener acceso a ellos, informen los plazos, tasas de interés y comisión de los préstamos en letras de crédito y cada uno de los gastos señalados precedentemente.
 
-Se recomienda a las instituciones financieras que, en su propio resguardo, obtengan del interesado su confirmación escrita de haber recibido la información antes indicada y de haber tomado debido conocimiento de ella.
+Se recomienda a los bancos que, en su propio resguardo, obtengan del interesado su confirmación escrita de haber recibido la información antes indicada y de haber tomado debido conocimiento de ella.
 
-10.2.- Información que debe incluir la liquidación.
+10.2. Información que debe incluir la liquidación.
 
-Las instituciones financieras deberán entregar al beneficiario de préstamos en letras de crédito, ya sea que se hubieren otorgado para la adquisición,construcción o ampliación de viviendas o para fines generales o que se destinen al pago anticipado de otro préstamo de igual naturaleza, una liquidación en que conste cada uno de los gastos detallados en el numeral 10.1 precedente y los datos que a continuación se indican:
+Los bancos deberán entregar al beneficiario de préstamos en letras de crédito, ya sea que se hubieren otorgado para la adquisición, construcción o ampliación de viviendas o para fines generales o que se destinen al pago anticipado de otro préstamo de igual naturaleza, una liquidación en que conste cada uno de los gastos detallados en el numeral 10.1 precedente y los datos que a continuación se indican:
 
 a) La tasa de interés asociada al mutuo hipotecario. Al tratarse de mutuos con tasa de interés flotante, se informará sobre las tasas de interés máximas y mínimas que se han pactado, como también los montos máximos y mínimos que puede alcanzar el servicio del mutuo según dichas tasas de interés. También se informarán los períodos de vigencia de esas tasas de interés.
 
-b) La comisión cobrada por la institución financiera;
+b) La comisión cobrada por el banco.
 
-c) El plazo a que ha sido concedido el crédito, de acuerdo al mutuo respectivo;
+c) El plazo a que ha sido concedido el crédito, de acuerdo al mutuo respectivo.
 
-d) El calendario de servicios de la deuda contraída, en el cual se señalará el dividendo total a pagar en cada fecha de pago, cuando la tasa de interés sea fija, o bien, sólo el monto de la amortización y de la comisión y la fórmula para calcular los intereses, cuando se trate de créditos con tasa de interés flotante; y,
+d) El calendario de servicios de la deuda contraída, en el cual se señalará el dividendo total a pagar en cada fecha de pago, cuando la tasa de interés sea fija, o bien, sólo el monto de la amortización y de la comisión y la fórmula para calcular los intereses, cuando se trate de créditos con tasa de interés flotante.
 
 e) El precio al cual se vendieron las letras de crédito asociadas al mutuo, en los casos que corresponda, el valor par de las letras de crédito en la fecha de venta y la diferencia entre ambos valores. Esta última expresada en términos numéricos y como porcentaje del valor par. Además deberá acompañarse el respectivo comprobante de la compraventa.
 
 f) Mercado en el que se efectuó la venta de las letras de crédito, esto es, si se vendieron en una bolsa de valores o fuera de ella, o si fueron adquiridas parcial o totalmente por la entidad emisora o por una persona relacionada a ella.
 
-g) Precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de la misma serie, del mismo año de emisión y del mismo emisor que las del respectivo crédito o, en su defecto, el precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de diversas senes del mismo emisor, de características similares a las letras de crédito del respectivo préstamo, en cuanto a su vencimiento, tasa de interés, amortización, garantías y reajustes, debiendo precisarse a qué instrumentos corresponden los antecedentes que se entreguen.
+g) Precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de la misma serie, del mismo año de emisión y del mismo emisor que las del respectivo crédito o, en su defecto, el precio de mercado y los porcentajes de descuento implícitos observados en la venta de letras de crédito de diversas series del mismo emisor, de características similares a las letras de crédito del respectivo préstamo, en cuanto a su vencimiento, tasa de interés, amortización, garantías y reajustes, debiendo precisarse a qué instrumentos corresponden los antecedentes que se entreguen.
 
-10.3.- Información relativa a la contratación de los seguros.
+10.3. Información relativa a la contratación de los seguros.
 
-Las entidades financieras deberán entregar a los deudores la siguiente información relativa a los seguros que se contraten para estos créditos:
+Los bancos deberán entregar a los deudores la siguiente información relativa a los seguros que se contraten para estos créditos:
 
 a) Seguros contratados directamente por el deudor: En el evento que el deudor desee contratar directamente los seguros correspondientes, el banco deberá entregarle un documento que especifique las condiciones que debe contener la correspondiente póliza.
 
 b) Seguros contratados por el banco: Si los seguros son contratados por el banco acreedor, por cuenta de sus clientes, se deberá cumplir con lo establecido en el último párrafo de la letra c) del número 1 de la Circular Conjunta N° 3.321 de esta Superintendencia y N° 1.758 de la Superintendencia de Valores y Seguros.
 
-11.- Garantía de liquidez anticipada.
+### 11. Garantía de liquidez anticipada
 
-Las normas del Banco Central de Chile, si bien no permiten otorgar garantía de liquidez anticipada, facultan a las instituciones financieras para pactar con el deudor un precio de adquisición por el total o parte de las letras de crédito que se emitan, dejándose expresa constancia de dicho pacto en el respectivo contrato de mutuo.
+Las normas del Banco Central de Chile, si bien no permiten otorgar garantía de liquidez anticipada, facultan a los bancos para pactar con el deudor un precio de adquisición por el total o parte de las letras de crédito que se emitan, dejándose expresa constancia de dicho pacto en el respectivo contrato de mutuo.
 
-12. - Pago anticipado de un préstamo en letras de crédito mediante otro de igual naturaleza.
+12. Pago anticipado de un préstamo en letras de crédito mediante otro de igual naturaleza.
 
-12.1.- Condiciones de los nuevos créditos.
+12.1. Condiciones de los nuevos créditos.
 
-Las instituciones financieras están facultadas para otorgar préstamos en letras de crédito que tengan por finalidad pagar anticipadamente otro préstamo de igual naturaleza.
+Los bancos están facultados para otorgar préstamos en letras de crédito que tengan por finalidad pagar anticipadamente otro préstamo de igual naturaleza.
 
 Estos nuevos préstamos pueden cursarse en la misma moneda o modalidad de reajuste que contemplaba el crédito que se paga o en otra distinta, siempre que se encuentre dentro de las autorizadas por el Banco Central de Chile.
 
@@ -9814,509 +8758,55 @@ b) Diferencias de precio estimadas que, eventualmente, pueden producirse al liqu
 
 c) Gastos por pago anticipado pactados en el mutuo original.
 
-12.2.- Garantía de los préstamos.
+12.2. Garantía de los préstamos.
 
-Los préstamos en letras de crédito que tengan por objeto pagar anticipadamente otros créditos de igual naturaleza, pueden ser caucionados por la misma garantía del crédito que se prepaga a que se refiere el N°3 de este título. En tal caso,será suficiente la tasación de los respectivos inmuebles, efectuada al otorgar dicho crédito, a menos que la institución financiera acreedora estime necesario practicar una nueva tasación. En todo caso, si la hipoteca recae en bienes raíces distintos de aquél que cauciona el crédito que se paga anticipadamente, deberá efectuarse la tasación de la nueva garantía.
+Los préstamos en letras de crédito que tengan por objeto pagar anticipadamente otros créditos de igual naturaleza, pueden ser caucionados por la misma garantía del crédito que se prepaga a que se refiere el N° 3 de este título. En tal caso, será suficiente la tasación de los respectivos inmuebles, efectuada al otorgar dicho crédito, a menos que el banco acreedor estime necesario practicar una nueva tasación. En todo caso, si la hipoteca recae en bienes raíces distintos de aquél que cauciona el crédito que se paga anticipadamente, deberá efectuarse la tasación de la nueva garantía.
 
-12.3.- Relación deuda-garantía.
+12.3. Relación deuda-garantía.
 
 El monto del préstamo en letras de crédito no debe exceder del 60% ó 75% del valor de la garantía, según corresponda. Para los fines de determinar el porcentaje que representa la garantía, se considerará el valor de las letras expresado en las láminas, menos la parte de amortización contenida en los cupones trimestrales desprendidos de ellas que correspondan al período comprendido entre la fecha de emisión nominal y el día primero del mes subsiguiente al de emisión material de las letras, cuando éstas sean para vivienda y, en caso que sean para fines generales, cuando se haya pactado esa modalidad en el respectivo mutuo.
 
-En todo caso, las normas del Banco Central de Chile le permiten que los préstamos en letras de crédito otorgados para pagar anticipadamente otro u otros préstamos de igual naturaleza, queden exentos del referido límite, por el período que medie entre la fecha de su otorgamiento y la fecha en que se efectúe dicho prepago".
+En todo caso, las normas del Banco Central de Chile permiten que los préstamos en letras de crédito otorgados para pagar anticipadamente otro u otros préstamos de igual naturaleza, queden exentos del referido límite, por el período que medie entre la fecha de su otorgamiento y la fecha en que se efectúe dicho prepago.
 
-12.4.- Prepaqos de créditos para vivienda.
+12.4. Prepagos de créditos para vivienda.
 
-Si el préstamo que se paga anticipadamente fue cursado en letras de crédito para vivienda, el nuevo crédito que se conceda para el pago de aquél, debe corresponder a letras de crédito para vivienda. En caso que el préstamo que se prepague hubiere sido cursado en letras de crédito para fines generales y su producto destinado a la adquisición, construcción o ampliación de
+Si el préstamo que se paga anticipadamente fue cursado en letras de crédito para vivienda, el nuevo crédito que se conceda para el pago de aquél, debe corresponder a letras de crédito para vivienda. En caso que el préstamo que se prepague hubiere sido cursado en letras de crédito para fines generales y su producto destinado a la adquisición, construcción o ampliación de viviendas, siempre que éstos hayan sido otorgados al usuario final de tales inmuebles, el nuevo préstamo puede ser cursado en letras de crédito para vivienda. En los demás casos, el nuevo crédito deberá ser cursado en letras de crédito para fines generales.
 
-viviendas,siempre que éstos hayan sido otorgados al usuario final de tales inmuebles, el nuevo préstamo puede ser cursado en letras de crédito para vivienda. En los demás casos, el nuevo crédito deberá ser cursado en letras de crédito para fines generales.
+Los bancos también pueden otorgar préstamos en letras de crédito para pagar anticipadamente préstamos hipotecarios que hubieren sido financiados con recursos diferentes de los instrumentos antes indicados, cursados por ellas o por la Asociación Nacional de Ahorro y Préstamo, siempre que las operaciones que se paguen anticipadamente hayan sido otorgadas a largo plazo. Estos nuevos préstamos serán en letras de crédito para vivienda o para fines generales, según haya sido el destino del crédito que se prepague mediante este procedimiento.
 
-Las instituciones financieras también pueden otorgar préstamos en letras de crédito para pagar anticipadamente préstamos hipotecarios que hubieren sido financiados con recursos diferentes de los instrumentos antes indicados,cursados por ellas o por la Asociación Nacional de Ahorro y Préstamo, siempre que las operaciones que se paguen anticipadamente hayan sido otorgadas a largo plazo. Estos nuevos préstamos serán en letras de crédito para vivienda o para fines generales, según haya sido el destino del crédito que se prepague mediante este procedimiento.
+12.5. Procedimiento que deberá seguir el deudor.
 
-12.5.- Procedimiento que deberá seguir el deudor.
+El deudor que acuerde con el banco acreedor el pago anticipado de un préstamo en letras de crédito mediante un nuevo préstamo de igual naturaleza, deberá presentar una solicitud en tal sentido. El banco, si aprueba esa solicitud dejará constancia detallada en la respectiva aprobación, de las condiciones del nuevo préstamo que se otorga, en cuanto a monto, reajustabilidad, tasa de interés, comisión, plazo y aplicación que se le dará.
 
-El deudor que acuerde con la institución financiera acreedora el pago anticipado de un préstamo en letras de crédito mediante un nuevo préstamo de igual naturaleza, deberá presentar una solicitud en tal sentido. La entidad financiera, si aprueba esa solicitud dejará constancia detallada en la respectiva aprobación, de las condiciones del nuevo préstamo que se otorga, en
+El beneficiario del préstamo deberá otorgar un mandato irrevocable al banco acreedor a fin de que proceda a la liquidación de las correspondientes letras de crédito y destine su producto al pago anticipado del crédito que se extingue mediante este procedimiento.
 
-cuanto a monto, reajustabilidad, tasa de interés, comisión, plazo y aplicación que se le dará.
+Para dar cumplimiento a lo anterior, el deudor facultará al banco acreedor para que venda en el mercado las letras de crédito correspondientes al nuevo préstamo que se le otorga, debiendo señalar el precio mínimo al cual desea que las letras de crédito sean enajenadas.
 
-El beneficiario del préstamo deberá otorgar un mandato irrevocable a la institución financiera acreedora a fin de que proceda a la liquidación de las correspondientes letras de crédito y destine su producto al pago anticipado del crédito que se extingue mediante este procedimiento.
+Por otra parte, el deudor deberá comprometerse, en caso que las letras de crédito se vendan a un precio inferior a su valor par, a hacerse cargo de la diferencia. Si las letras de crédito se venden por sobre su valor par, el banco acreedor, destinará la diferencia que pudiere resultar, en primer término a pagar los gastos generados por la operación, que el mutuario pudiera estar adeudando y luego al pago o abono de los dividendos más próximos del nuevo mutuo.
 
-Para dar cumplimiento a lo anterior, el deudor facultará a la institución financiera acreedora para que venda en el mercado las letras de crédito correspondientes al nuevo préstamo que se le otorga, debiendo señalar el precio mínimo al cual desea que las letras de crédito sean enajenadas.
+### III. COMPRA DE LETRAS DE CREDITO DE PROPIA EMISIÓN
 
-Por otra parte, el deudor deberá comprometerse, en caso que las letras de crédito se vendan a un precio inferior a su valor par, a hacerse cargo de la diferencia. Si las letras de crédito se venden por sobre su valor par, la institución financiera acreedora, destinará la diferencia que pudiere resultar, en primer término a pagar los gastos generados por la operación, que el mutuario
-
-pudiera estar adeudando y luego al pago o abono de los dividendos más próximos del nuevo mutuo.
-
-III.- COMPRA DE LETRAS DE CREDITO DE PROPIA EMISION.
-
-Las instituciones financieras pueden adquirir letras de crédito de propia emisión en los casos y bajo las condiciones que se indican a continuación:
+Los bancos pueden adquirir letras de crédito de propia emisión en los casos y bajo las condiciones que se indican a continuación:
 
 1.- Compra para efectuar amortizaciones.
 
 Las letras de crédito emitidas puede adquirirlas el propio emisor para efectuar amortizaciones extraordinarias según lo establecido en la ley y en las normas del Banco Central de Chile, caso en el cual las letras deberán anularse al momento de recibirse, concretando la amortización prevista.
 
-2.- Compra para facilitar las operaciones hipotecarias.
+### 2. Compra para facilitar las operaciones hipotecarias
 
-Las instituciones pueden adquirir las letras de crédito emitidas, cuando así se convenga con el tenedor de las mismas.
+Los bancos pueden adquirir las letras de crédito emitidas, cuando así se convenga con el tenedor de las mismas.
 
-El total de letras de crédito de propia emisión que las instituciones financieras pueden mantener en su poder, debe sujetarse al límite establecido por el Banco Central de Chile en el Capítulo III B 2 de su Compendio de Normas Financieras. Dicho límite se medirá computando el valor par de los instrumentos de propia emisión que se mantengan.
-
-IV.- NORMAS CONTABLES.
-
-Las operaciones de que se trata, se contabilizarán con la misma fecha de la
-
-escritura de mutuo. En las operaciones expresadas en alguna unidad de valor, deberá considerarse el equivalente que ésta tenga el día en que se efectúe su contabilización.
-
-Las referidas operaciones serán registradas en la siguiente forma:
-
-A. PRESTAMOS CONCEDIDOS EN LETRAS DE CREDITO CON AMORTIZACION DIRECTA.
-
-1.- Otorgamiento del préstamo.
-
-Debe: "Préstamos en letras de crédito con amortización directa" por el monto del capital, cuenta que se reflejará en la partida 1310 del MB1, para vivienda y en la partida 1305, para fines generales.
-
-Haber: "Letras de crédito en circulación con amortización directa", de la partida 3310 del MB1 por el valor de las letras de crédito, más el importe de amortización contenido en el pagaré complementario en caso que proceda.
-
-2 . - Reajustes de estas operaciones.
-
-Las instituciones financieras registrarán contablemente los reajustes al menos al cierre de cada, mes, ciñéndose a lo siguiente:
-
-2.1.- Por el activo.
-
-Debe: "Reajustes por cobrar de préstamos en letras de crédito", cuenta que se demostrará en la partida 1305 ó 1310 del MB1, según corresponda.
-
-Haber: "Reajustes ganados", de la partida 7310 del MR1.
-
-Para efectos del cálculo de este reajuste, sólo se tomarán en cuenta los créditos que estén al día en el pago de sus dividendos y aquellos que presenten dividendos en mora por menos de 90 días. En consecuencia, no se reajustarán los créditos que tengan dividendos en mora por 90 días o más.
-
-2.2.- Por el pasivo
-
-Debe: "Reajustes pagados" de la partida 5350 del MR1
-
-Haber: "Reajustes por pagar de obligaciones por letras de crédito", cuenta cuyo saldo se demostrará en la partida 3310 del MB1.
-
-Debe tenerse presente que las cuentas de reajustes por cobrar y reajustes por pagar, aquí mencionadas, se entienden como cuentas complementarias de aquéllas que reflejan las colocaciones y obligaciones que dan origen a esos reajustes.
-
-3 . - Constitución de dividendos.
-
-El primer día hábil de cada mes, se deberán contabilizar todos los dividendos que vencerán en dicho mes, de la siguiente forma:
-
-Debe: "Dividendos por cobrar", cuenta que se demostrará en la partida 1315 de igual nombre, del MB1.
-
-Haber: -"Préstamos en letras de crédito con amortización directa", por el monto de la amortización.
-
--"Intereses ganados" de la partida 7120 del MR1, por el monto de los intereses.
-
--"Comisiones hipotecarias" de la partida 7505 del MR1, por el monto de la comisión.
-
-Como se señala en el numeral 11.2 de esta letra "A", no se contabilizará el devengo de intereses, comisiones Y reajustes por los dividendos que venzan a contar de la fecha en que el primero de ellos que se hubiera mantenido impago ingrese a cartera vencida.
-
-4.- Devengo de intereses de la letra.
-
-Junto con la constitución de los dividendos, se contabilizarán los intereses por pagar de los respectivos cupones de las letras, de la siguiente forma:
-
-Debe: "Intereses pagados" de la partida 5150 del MR1.
-
-Haber: "Intereses por pagar en cupones por vencer", de la partida 3315 del MB1.
-
-Los importes que se registrarán en estas cuentas corresponderán al mismo monto de los intereses devengados en la constitución del dividendo, que se contabilizan en la cuenta de la partida 7120 del MR1. La suspensión del registro de devengo de intereses sobre el mutuo no exime de la obligación de que se continúen contabilizando los intereses mensuales devengados por la letra de crédito.
-
-5.- Constitución del fondo de amortización.
-
-Simultáneamente con los asientos indicados en los números 3 y 4 se deberá registrar en el fondo de amortización el importe que por ese concepto esté incluido en el dividendo:
-
-Debe: "Amortización directa de letras de crédito por efectuar" de la partida 9420 del formulario MB1.
-
-Haber: "La cuenta de orden de la partida 9900.
-
-6.- Recepción del pago de dividendos.
-
-Debe: "Caja" o la cuenta que corresponda.
-
-Haber: "Dividendos por cobrar".
-
-7.- Vencimiento de los cupones.
-
-Al vencimiento de cada cupón, se hará el siguiente asiento:
-
-Debe: -"Intereses por pagar en cupones por vencer", por el importe correspondiente a los intereses.
-
--"Letras de crédito en circulación con amortización directa", por el importe de la amortización.
-
-Haber: "Cupones vencidos por pagar" de la partida 3010 del MB1, que comprenderá, por lo tanto, la parte del capital por pagar, con la de sus respectivos intereses.
-
-8.- Pago de cupones.
-
-Debe: "Cupones vencidos por pagar".
-
-Haber: "Caja" o la cuenta que corresponda.
-
-9.- Amortización ordinaria de las letras de crédito.
-
-Simultáneamente con el asiento indicado en el N° 7, se deberá revertir el asiento que se señala en el N° 5 "Constitución del fondo de amortización".
-
-10.- Pago anticipado.
-
-En caso de que el deudor pague anticipadamente el todo o parte del saldo de su obligación se procederá de la siguiente forma:
-
-10.1.- Pago en dinero.
-
-10.1.1.- Recepción del pago.
-
-Debe: - "Caja" o la cuenta que corresponda.
-
-Haber: - "Préstamos en letras de crédito con amortización directa" por el monto de la amortización.
-
-- "Reajustes ganados", por los reajustes devengados a la fecha del pago y no contabilizados con anterioridad, en la partida 7310, del form. MR1.
-
-- "Intereses ganados", de la partida 7120 del MR1 por los intereses que correspondan.
-
-- "Comisiones hipotecarias" por el monto de la comisión que corresponda.
-
-La institución financiera deberá utilizar el importe recibido en amortizar extraordinariamente letras de crédito, ya sea por sorteo a la par, compra en el mercado o rescate de las que estén en su poder.
-
-Simultáneamente se deberá cargar al fondo de amortización el importe respectivo, registrándolo en la cuenta de orden "Amortización extraordinaria de letras de crédito por efectuar" de la partida 9420.
-
-10.1.2.- Amortización extraordinaria por sorteo a la par.
-
-a) Por las letras sorteadas.
-
-Debe - "Intereses por pagar en cupones por vencer", por los intereses devengados desde el último vencimiento hasta la fecha del sorteo.
-
-- "Letras de crédito en circulación con amortización directa", por el valor nominal o residual, según corresponda, de las letras sorteadas.
-
-Haber: "Letras de crédito amortizadas por pagar", de la partida 3010 del MB1.
-
-B) Por el pago ae las letras sorteadas.
-
-Debe: "Letras de crédito amortizadas por pagar".
-
-Haber: "Caja" o la cuenta que corresponda.
-
-10.1.3.- Amortización extraordinaria por compra.
-
-Debe: - "Intereses por pagar en cupones por vencer", por los intereses devengados desde el último vencimiento hasta la fecha de compra de la letra.
-
-- "Letras de crédito en circulación con amortización directa", por el monto de la amortización.
-
-Haber: - "Caja" o la cuenta que corresponda.
-
-- "Diferencia por compra extraordinaria de letras de crédito", de la partida 7620 del MR1, por la diferencia entre el valor de la letra y el valor pagado por ella.
-
-10.1.4.- Rescate de letras en poder de la institución.
-
-Cuando se amorticen letras que mantiene la institución financiera según lo indicado en el N° 2 del título III de este Capítulo, se rebajará el saldo de la cuenta de orden "Letras de crédito en poder de la institución" de la partida 9419, por los importes que correspondan a las letras que se anulan.
-
-10.1.5.- Utilización del fondo de amortización.
-
-Conjuntamente con las contabilizaciones descritas en los numerales 10.1.2 letra a), 10.1.3 y 10.1.4, el valor amortizado se rebajará del fondo de amortización, acreditando la cuenta de orden "Amortización extraordinaria de letras de crédito por efectuar".
-
-10.2.- Pago con letras de crédito.
-
-Cuando el deudor pague el todo o parte de su deuda con letras de crédito, se hará el siguiente asiento:
-
-Debe: "Letras de crédito en circulación con amortización directa".
-
-Haber: "Préstamos en letras de crédito con amortización directa". En caso que proceda, se deberá acreditar también la cuenta "Dividendos por cobrar".
-
-11.- Dividendos no pagados al vencimiento.
-
-11.1.- Ingreso a cartera vencida.
-
-El plazo para traspasar a cartera vencida cada dividendo que se mantenga impago es de 90 días contados desde el día 1° del mes en que deba efectuarse su pago, que para estos efectos se considera como fecha de vencimiento.
-
-El traspaso a cartera vencida se registrará de acuerdo con lo previsto en el Capítulo 8-26 de esta Recopilación.
-
-En la eventualidad de que un crédito con dividendos en mora o vencidos contenga la llamada "cláusula de aceleración", según la cual, con motivo del no pago de un determinado número de cuotas o dividendos, pueda hacerse exigible la totalidad del crédito, el saldo insoluto de dicho préstamo se registrará en cartera vencida de acuerdo con lo previsto en el Capítulo 8-26 de esta Recopilación, dentro de un plazo de 90 días a contar desde la fecha en que se haya presentado la demanda judicial.
-
-11.2. Suspensión del reconocimiento de reajustes, intereres y comisiones.
-
-De acuerdo con lo dispuesto en el Capítulo 7-1 de esta Recopilación, deberá suspenderse la contabilización de reajuste e intereses de un crédito pagadero en cuotas, a contar del momento en que una de ellas permanezca 90 días impaga. Dicha suspensión durará hasta que se paguen o renegocien todas las cuotas en mora.
-
-En el caso de los préstamos hipotecarios en letras de crédito, corresponde suspender, a contar del momento en que el primero de los dividendos impagos cumpla noventa días en esa situación de mora, el reconocimiento contable de los reajustes, intereses y comisiones que se contabilizan al constituirse los dividendos según las instrucciones del N° 3 de esta letra A), por los dividendos que se constituyan después de esa fecha, como asimismo los reajustes posteriores del saldo total del capital.
-
-Sin embargo, como una manera de facilitar los procedimientos en el caso de la constitución de los dividendos que se encuentren en la situación señalada en el párrafo anterior, las instituciones financieras podrán seguir el procedimiento contable general descrito en el N° 3 de esta letra A), revirtiendo posteriormente, al cierre del mes en que se constituyen esos dividendos, los
-
-correspondientes reajustes, intereses y comisiones.
-
-De esa forma, al término de cada mes los dividendos de que se trata, quedarán registrados en la cuenta "Dividendos por cobrar" solamente por su valor de amortización, importe por el cual se traspasarán en su oportunidad a cartera vencida, en tanto que los constituidos antes de la fecha a contar de la cual debe aplicarse la suspensión quedarán contabilizados con los reajustes,
-
-intereses y comisiones que se incluyeron al constituirse.
-
-### 12. Recuperación o renegociación de créditos impagos
-
-12.1. Reingreso a cartera vigente.
-
-Los créditos que se encuentren registrados en cartera vencida por haberse aplicado la cláusula de aceleración, podrán reingresarse a la cuenta de origen de la cartera vigente cuando se paguen o renegocien todos sus dividendos en mora.
-
-12.2. Reconocimiento de reajustes, intereses y comisiones.
-
-Cuando ocurra la recuperación o renegociación de uno o más dividendos impagos de un determinado crédito, por los que se hubiera suspendido el devengo de reajustes, intereses y comisiones, se procederá a reconocer en las respectivas cuentas de resultados los ingresos correspondientes a esos dividendos.
-
-12.3. Castigos.
-
-De acuerdo con lo dispuesto en el Capítulo 8-29 de esta Recopilación, si algún dividendo permaneciere impago 36 meses a contar de la fecha de su traspaso a cartera vencida, las instituciones acreedoras deberán castigar todos los dividendos vencidos correspondientes al crédito que se encuentre en esa situación. Los restantes dividendos deberán castigarse a medida que se cumpla la fecha original de vencimiento de cada uno de ellos, sin perjuicio de que puede también castigarse el total del saldo del crédito.
-
-13.- Primas de seguro.
-
-Las instituciones financieras que paguen primas de seguro de incendio, de desgravamen y de cesantía involuntaria antes de contar con la provisión de fondos del deudor, registrarán dichos importes con cargo a la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios", de la partida 1140. En caso que estas sumas no sean pagadas dentro de los 90 días siguientes a la fecha de su registro en esta cuenta, deben ser traspasadas a la cuenta de cartera vencida en la que corresponda registrar el crédito que dio origen a la respectiva prima, de conformidad con lo previsto en el Capítulo 8-26 de esta Recopilación, a más tardar al término del plazo antes mencionado.
-
-No obstante lo anterior, cuando las instituciones financieras paguen, en forma anticipada, primas de seguro de incendio correspondientes a todo el período de la cobertura y cobren dichos importes en parcialidades, podrán mantener esos montos registrados en la cuenta "Primas de seguro a cargo de deudores de préstamos hipotecarios" por más de 90 días, siempre que los respectivos deudores se encuentren al día en el servicio de sus créditos.
-
-Cuando las instituciones financieras reciban del deudor la provisión de fondos para efectuar posteriormente el pago de las primas de seguro, registrarán esos importes en la cuenta "Primas de seguro recaudadas por enterar", de la partida 3010.
-
-B. PRESTAMOS CONCEDIDOS EN LETRAS DE CREDITO CON AMORTIZACION INDIRECTA.
-
-1.- Otorgamiento del préstamo.
-
-Debe: "Préstamos en letras de crédito con amortización indirecta", de la partida 1305 del MB1, por el monto del capital.
-
-Haber: "Letras de crédito en circulación con amortización indirecta", de la partida 3305 del MB1.
-
-La recepción de las letras en custodia y la venta de éstas, serán registradas en la forma indicada en los números 1 y 2 de la letra "D" de este título.
-
-2.- Reajustes de estas operaciones.
-
-Los bancos y sociedades financieras contabilizarán los reajustes de estas operaciones de acuerdo con las instrucciones contenidas en los numerales 2.1 y 2.2 de la letra "A" precedente.
-
-3.- Constitución de los dividendos.
-
-El primer día hábil de cada mes, se deberán contabilizar los dividendos que venzan en dicho mes de la siguiente forma:
-
-Debe: -"Dividendos por cobrar" de la partida 1315 del MB1.
-
-Haber: -"Préstamos en letras de crédito con amortización indirecta", por el importe de la amortización, cuando corresponda.
-
--"Intereses ganados" de la partida 7120 del MR1.
-
--"Comisiones hipotecarias" de la partida 7505 del MR1, por el importe de la comisión.
-
-4.- Devengo de intereses de la letra de crédito.
-
-Simultáneamente con la constitución de los dividendos se contabilizarán los intereses por pagar de las respectivas letras, en la forma que se indica a continuación:
-
-Debe: -"Intereses pagados", de la partida 5150, del MR1.
-
-Haber: "Cupones por vencer", de la partida 3315 del MB1, por el monto de los respectivos intereses.
-
-5.- Dividendos en mora o vencidos.
-
-El tratamiento de los créditos con dividendos en mora o vencidos será equivalente al de los préstamos en letras de crédito con amortización directa.
-
-6.- Constitución del fondo de amortización.
-
-Simultáneamente con efectuar la contabilización señalada en el N° 3 de esta letra "B", se registrará el importe que por concepto de amortización se incluye en el dividendo, en la cuenta de orden "Amortización indirecta de letras de crédito por efectuar", de la partida 9420.
-
-7.- Recepción del pago de dividendos.
-
-Debe: "Caja" o la cuenta que corresponda.
-
-Haber: "dividendos por cobrar".
-
-8.- Vencimiento de los cupones
-
-Debe: "Cupones por vencer".
-
-Haber: "Cupones vencidos por pagar", de la partida 3010 del MB1.
-
-9.- Pago de los cupones.
-
-Debe: "Cupones vencidos por pagar".
-
-Haber: "Caja" o la cuenta que corresponda.
-
-10.- Amortización de letras de crédito.
-
-El fondo de amortización deberá ser utilizado para amortizar letras de crédito por sorteo a la par, por compra de letras en el mercado o para rescatar las letras de crédito que mantenga como inversión la propia entidad emisora.
-
-10.1.- Amortización por sorteo a la par.
-
-a) Por las letras sorteadas.
-
-Debe: "Letras de crédito en circulación con amortización indirecta".
-
-Haber: "Letras ae crédito amortizadas por pagar", de la partida 3010 del MB1.
-
-b) Por el pago de las letras sorteadas.
-
-Debe: "Letras de crédito amortizadas por pagar".
-
-Haber: "Caja" o la cuenta que corresponda.
-
-10.2.- Amortización por compra.
-
-Debe: "Letras de crédito en circulación con amortización indirecta".
-
-Haber: -"Caja" o la cuenta que corresponda.
-
--"Diferencias por compra extraordinaria de letras de crédito" de la partida 7620 del MR1, por la diferencia entre el valor de la letra y el valor pagado por ella.
-
-10.3.- Rescate de letras en poder de la institución.
-
-Cuando se amorticen letras que mantiene la institución financiera según lo indicado en el N° 2 del título III de este Capítulo, se rebajará el saldo de la cuenta de orden "Letras de crédito en poder de la institución" de la partida 9419, por los importes que correspondan a las letras que se anulan.
-
-10.4.- Utilización del fondo de amortización.
-
-10.1.4. Documentos mantenidos por cuenta del inversionista.
-
-Los documentos en que consten los depósitos a la vista o a plazo constituidos por el banco mandatario por cuenta del inversionista mientras se formaliza la inversión, como asimismo los instrumentos emitidos por el Banco Central de Chile que se hayan adquirido por cuenta del mandante, serán registrados en la cuenta de orden "Documentos de inversionistas títulos deuda externa" de la partida 9260, debiendo descargar de esa cuenta los respectivos importes cuando se rescaten los depósitos.".
-
-Conjuntamente con las contabilizaciones descritas en los numerales 10.1 letra a), 10.2 y 10.3 precedentes, se deberá descargar la cuenta de orden "Amortización indirecta de letras de crédito por efectuar", por el importe respectivo.
-
-11.- Pago anticipado del todo o parte de un préstamo.
-
-En caso de que el deudor pague anticipadamente el todo o una parte del saldo de su obligación, se procederá de la siguiente forma:
-
-11.1.- Pago en dinero.
-
-11.1.1.- Recepción del pago.
-
-Debe: -"Caja" o la cuenta que corresponda,
-
-Haber: "Préstamos en letras de crédito con amortización indirecta", por el importe de la amortización.
-
--"Intereses ganados", de la partida 7120 del MR1.
-
--"Comisiones hipotecarias", cuando proceda.
-
-11.1.2.- Constitución del fondo extraordinario de amortización.
-
-Simultáneamente con efectuar el asiento indicado en el numeral 11.1.1, se registrará el importe de la respectiva amortización de la siguiente forma:
-
-Debe: "Amortización indirecta extraordinaria de letras de crédito por efectuar", de la partida 9420 del MB1.
-
-Haber: "La cuenta de orden de la partida 9900.
-
-11.1.3.- Utilización del fondo extraordinario de amortización.
-
-Este fondo se utilizará en amortizar letras de crédito en forma extraordinaria,
-
-en alguna de las modalidades indicadas en el número 10 precedente.
-
-11.2.- Pago en letras de crédito.
-
-Cuando el deudor pague con letras de crédito, la operación se registrará como
-
-sigue:
-
-Debe: "Letras de crédito en circulación con amortización indirecta".
-
-Haber: "Préstamos en letras de crédito con amortización indirecta". En caso que proceda, se acreditará también la cuenta "Dividendos por cobrar" por el importe e amortización.
-
-12.- Primas de seguro.
-
-Las primas de seguro de incendio, de desgravamen y de cesantía involuntaria correspondientes a estas operaciones, serán registradas por las instituciones financieras en la forma prevista en el N° 13 de la letra A.- de este título.
-
-C.- ADQUISICION Y VENTA DE LETRAS DE CREDITO DE PROPIA EMISION.
-
-La adquisición y venta de las letras de crédito de propia emisión se registrará de acuerdo con lo que se describe a continuación:
-
-1.- Compra de letras.
-
-Debe - "Letras de crédito en circulación con amortización directa" o "Letras de crédito en circulación con amortización indirecta", según sea el caso.
-
-- "Mayor valor pagado en compra de letras de crédito de propia emisión", de la partida 2120, si el valor pagado fuera superior al valor registrado en el pasivo.
-
-Haber - La cuenta que corresponda por el precio pagado.
-
-- "Menor valor pagado en compra de letras de crédito de propia emisión", de la partida 4120, si el valor pagado fuera inferior al valor registrado en el pasivo.
-
-Junto con lo anterior, las letras de crédito adquiridas se registrarán en la cuenta de orden "Letras de crédito en poder de la institución", de la partida 9419. Esta cuenta deberá reflejar al cierre de cada mes el saldo actualizado de dichas letras, con sus respectivos reajustes e intereses.
-
-Mientras las letras no sean vendidas, el importe registrado en la cuenta "Menor valor pagado en compra de letras de crédito de propia emisión" se traspasará linealmente a la cuenta de ingresos "Diferencia en compra o venta de letras de crédito de propia emisión" de la partida 7620, considerando el plazo remanente de las letras Lo mismo se hará, en su caso, con el importe registrado en la cuenta "Mayor valor pagado en compra de letras de crédito", traspasándolo a la cuenta "Diferencia en compra o venta de letras de créditos de propia emisión", de la partida 5620.
-
-2.- Venta de las letras.
-
-Debe - La cuenta que corresponda por el precio obtenido.
-
-- "Menor valor pagado en compra de letras de crédito de propia emisión", por el saldo remanente que se mantenga por la diferencia en la compra de las respectivas letras.
-
-- "Diferencia en compra o venta de letras de créditos de propia emisión", de la partida 5620, en caso de que la diferencia neta sea negativa.
-
-Haber - "Letras de crédito en circulación con amortización directa" o "Letras de crédito en circulación con amortización indirecta", según sea el caso, y las cuentas de intereses por pagar que correspondan, para reconocer el pasivo al mismo valor que tendría si las letras no se hubieran adquirido, deducidas las eventuales amortizaciones ocurridas.
-
-- "Mayor valor pagado en compra de letras de crédito de propia emisión", por el saldo remanente que se mantenga por la diferencia en la compra de las respectivas letras.
-
-- "Diferencia en compra o venta de letras de crédito de propia emisión" de la partida 7620, en caso que la diferencia neta sea positiva.
-
-Junto con lo anterior, debe rebajarse el importe correspondiente de la cuenta de orden "Letras de crédito en poder de la institución".
-
-D. VENTA DE LAS LETRAS DE CREDITO POR CUENTA DE TERCEROS.
-
-### 1. Recepción de las letras en custodia
-
-En caso que las letras de crédito emitidas sean entregadas a la institución emisora para su custodia y posterior venta, se registrarán en las cuentas:
-
-Debe: "Letras de crédito en custodia", de la partida 9260.
-
-Haber: "La cuenta de orden de la partida 9900.
-
-2.- Venta de las letras de crédito.
-
-La venta que la institución financiera realice por cuenta de terceros de las letras de crédito recibidas en custodia con esa finalidad, se contabilizarán como sigue:
-
-Debe: "Caja" o la cuenta que corresponda por la recepción del importe resultante de la venta de las letras.
-
-Haber: "Pagos por efectuar por venta de letras de crédito", que se incluirá en la partida 3010 del MB1.
-
-Además, se deberá revertir el asiento señalado en el número 1 precedente.
-
-E.- TRATAMIENTO CONTABLE ESPECIAL PARA CREDITOS REPROGRAMADOS SEGUN ACUERDOS DEL BANCO CENTRAL DE CHILE.
-
-Los créditos que se hayan reprogramado en virtud de los Acuerdos N°s 1.517 y 1.583 del Banco Central de Chile, deben registrarse según las instrucciones contables específicas contenidas en el título II del Capítulo 8-30 de esta Recopilación Actualizada de Normas. En todo caso, dichas instrucciones especiales son sin perjuicio de las normas generales sobre intereses y reajustes, traspaso a cartera vencida, y castigos, de que tratan los Capítulos 7-1, 8-26 y 8-29 respectivamente, de esta Recopilación.
+El total de letras de crédito de propia emisión que los bancos pueden mantener en su poder, debe sujetarse al límite establecido por el Banco Central de Chile en el Capítulo III.B.2 de su Compendio de Normas Financieras. Dicho límite se medirá computando el valor par de los instrumentos de propia emisión que se mantengan.
 
 ANEXO N° 1
 
 CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA DE INTERES FIJA E HIPOTECA PARA LA ADQUISICION DE VIVIENDA
 
-Cláusula: El precio de la compraventa es la suma de $------------------ que se entera:
+Cláusula: El precio de la compraventa es la suma de $...............que se entera:
 
-a) Con $---------------que el comprador paga al vendedor en este acto en dinero efectivo.
+a) Con $.................que el comprador paga al vendedor en este acto en dinero efectivo.
 
-b) Con $--------------valor que las partes de común acuerdo asignan a las letras de crédito de la Serie----- de emisión nominal 1° de enero del presente año, por----- Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a------------------ ---Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula----- de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se refiere la cláusula siguiente.
-
-El comprador declara haber recibido materialmente a su entera conformidad la propiedad raíz materia de este contrato
-
-El vendedor declara haber recibido la totalidad del precio y lo declara en consecuencia, íntegramente pagado.
-
-Las partes renuncian expresamente a las acciones resolutorias que pudieran emanar del presente contrato.
-
-Cláusula: Entre el banco --------------------- y don------------------------------------- se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y al Acuerdo del Consejo Monetario adoptado en Sesión N° 23 de 6 de noviembre de 1980,publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N° 1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus
-
-modificaciones.
-
-Cláusula: El Banco------------------------ a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don ---------------- la cantidad de --------------- U.F en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a-------U.F emitidas materialmente por el propio banco al día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie---- ----- que ganan un interés del ----% anual, con una amortización directa trimestral en el plazo de ----- años. La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción Y facultando al Banco para que las entregue al vendedor.
-
-Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de ----------- U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a ------- U.F. en el plazo de ----------- meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devenga el presente contrato será de------% anual, la que incluye el interés propiamente tal y la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. El dividendo mensual a pagar será el que resulte de multiplicar por ---------el número de U.F. que
-
-corresponde a cada uno de los- ---- dividendos, a contar del dividendo N°--------, que constan en la tabla de desarrollo, que se reproduce en la parte pertinente al final de la escritura,elaborada por el Banco a vía ejemplar para un préstamo y obligación de 1 U.F y que se encuentra protocolizada con fecha------------ bajo el N°---- -- en la Notaría de-------------- de don-----------
-
------------ El deudor declara conocer y aceptar la indicada tabla. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, forma parte íntegramente de la presente escritura para todos los efectos legales.
-
-Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresada en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
-
-Clausula: Las letras de crédito que el banco conforme a lo estipulado en este instrumento entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización e interés del cupón respectivo, que se devenguen a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, ascendente a --------------- U.F., obligación que el banco documenta mediante pagaré expresado en Unidades de Fomento por el monto indicado y con el mismo vencimiento del cupón correspondiente de acuerdo a lo dispuesto en la letra c) del N° 5 Título V del Reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme alas normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
-
-La cantidad antes mencionada no devengará intereses de ningún tipo.
-
-Cláusula: El deudor puede rembolsar anticipadamente todo o al menos un----- del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
-
-A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el valor de los dividendos mensuales posteriores a la amortización, sin alteración del plazo de la deuda.
-
-Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula------ del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será
-
-de cargo de -----------.
-
-ANEXO N° 2
-
-CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA DE INTERES FLOTANTE E HIPOTECA PARA LA ADQUISICION DE VIVIENDA
-
-Cláusula: El precio de la compraventa es la suma de $------------que se entera:
-
-a) Con $------------ que el comprador paga al vendedor en este acto en dinero efectivo.
-
-b) Con $------------ valor que las partes de común acuerdo asignan a las letras de crédito de la Serie---- de emisión nominal 1° de enero del presente año, por----- Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a-------------------Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula----- de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se
-
-refiere la cláusula siguiente.
+b) Con $.................valor que las partes de común acuerdo asignan a las letras de crédito de la Serie....de emisión nominal 1° de enero del presente año, por.......Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a................Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula...... de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se refiere la cláusula siguiente.
 
 El comprador declara haber recibido materialmente a su entera conformidad la propiedad raíz materia de este contrato.
 
@@ -10324,83 +8814,101 @@ El vendedor declara haber recibido la totalidad del precio y lo declara en conse
 
 Las partes renuncian expresamente a las acciones resolutorias que pudieran emanar del presente contrato.
 
-Cláusula: Entre el banco------------------ y don--------------------------se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y al Acuerdo del Consejo Monetario adoptado en Sesión N°23 de 6 de noviembre de 1980, publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N°1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus modificaciones.
+Cláusula: Entre el banco.............................y don ..................................................se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y al Acuerdo del Consejo Monetario adoptado en Sesión N°23 de 6 de noviembre de 1980, publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N°1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus modificaciones.
 
-Cláusula: El banco ---------------------------------------------------------a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don ------------------------------------- la cantidad de ---------U.F. en letras de crédito nominales e iniciales,reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a -----------U.F. emitidas materialmente por el propio banco el día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie-------- con una amortización directa trimestral en el plazo de--------años, que ganan intereses variables semestralmente, pagaderos por trimestre vencido, los que se calcularán a la Tasa de Interés Promedio (TIP) de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año, y se aplicará en el año y en el primer semestre del año siguiente, respectivamente. En todo caso, la tasa de interés que se aplique no podrá variar, durante la vigencia en las letras de
+Cláusula: El banco.................................. a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don .......................................................la cantidad de...........................................U.F en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a .....U.F. emitidas materialmente por el propio banco al día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie....... que ganan un interés del ....% anual, con una amortización directa trimestral en el plazo de .... años. La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
 
-crédito, en más de tres puntos porcentuales respecto de la tasa de interés del----- % anual,vigente el día 1°del mes subsiguiente a la fecha del presente contrato. (En caso que la institución financiera opte por prescindir del límite
+Cláusula: El deudor se obliga a pagar al banco la expresada cantidad de .........U.F. nominales e iniciales reducidas al día 1o del mes subsiguiente a la fecha de este contrato a ........ U.F. en el plazo de ...... meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devenga el presente contrato será de ....% anual, la que incluye el interés propiamente tal y la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. El dividendo mensual a pagar será el que resulte de multiplicar por ....... el número de U.F. que corresponde a cada uno de los .....dividendos, a contar del dividendo N° ...... , que constan en la tabla de desarrollo, que se reproduce en la parte pertinente al final de la escritura, elaborada por el Banco a vía ejemplar para un préstamo y obligación de 1 U.F. y que se encuentra protocolizada con fecha ..............bajo el N° ......en la Notaría de ....................... de don ................................... El deudor declara conocer y aceptar la indicada tabla. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, forma parte íntegramente de la presente escritura para todos los efectos legales.
 
-inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
+Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresada en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
 
-Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de -----------U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a -------- ----- U.F. en el plazo de ---------------meses, acontar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devengará el presente contrato, variará semestralmente y corresponderá a la Tasa de Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras,certificada y publicada por el Banco Central de Chile en la segunda quincena delos meses de mayo y noviembre de cada año, la que se aplicaráen el segundo semestre del mismo año y en el primer semestre del año siguiente,respectivamente, más la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. En todo caso, la mencionada tasa de interés no podrá variar en más de tres puntos porcentuales respecto a la tasa del ------------% anual vigente el día 1° del mes subsiguiente a la fecha de este contrato. (En caso quela institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). El dividendo
+Cláusula: Las letras de crédito que el banco conforme a lo estipulado en este instrumento entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización e interés del cupón respectivo, que se devenguen a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, ascendente a ................U.F., obligación que el banco documenta mediante pagaré expresado en Unidades de Fomento por el monto indicado y con el mismo vencimiento del cupón correspondiente de acuerdo a lo dispuesto en la letra c) del N°5 Título V del reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
 
-mensual a pagar será variable e igual a: La amortización que resulte de multiplicar por------ el número de U.F. que corresponde a cada uno de los dividendos, a contar del dividendo N°----- , que constan en la tabla de desarrollo elaborada por el Banco a vía ejemplar para un préstamo u obligación de 1 U.F. la que se reproduce en la parte pertinente al final de la escritura y
+La cantidad antes mencionada no devengará intereses de ningún tipo.
 
-que se encuentra protocolizada con fecha------------bajo el N°----- en la Notaría de --------------------de don -------------------- ; más la comisión correspondiente al dividendo, calculada también sobre la base de la misma tabla de desarrollo y más los intereses que se calcularán en cada oportunidad sobre el saldo insoluto del capital, utilizando la fórmula que se incluye en dicha tabla. El deudor declara conocer y aceptar la indicada tabla de amortización y comisiones y la fórmula para el cálculo de los intereses que en ella se indica. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, incluida la fórmula que en ella se indica, forma parte íntegramente de la presente escritura para todos los efectos legales.
-
-Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresadas en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
-
-Cláusula: Las letras de crédito que el Banco, conforme a lo estipulado en este instrumento, entrega al vendedor, se encuentran con el (o los) cupón(es)correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización ascendente a ----- U.F. más el interés que se devengue a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, obligación que el Banco documenta mediante pagaré expresado en Unidades de Fomento por el monto de la amortización indicado, al que se le agregarán los respectivos intereses, con el mismo vencimiento del cupón correspondiente, de acuerdo a lo dispuesto en la
-
-letra c)del N°5 título V del Reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de
-
-crédito.
-
-Si el pagaré no es cobrado al vencimiento, no devengará intereses de ningún tipo a contar de esa fecha.
-
-Cláusula: El deudor puede rembolsar anticipadamente todo o al menos un----- del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
+Cláusula: El deudor puede reembolsar anticipadamente todo o al menos un ...... del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
 
 A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el valor de los dividendos mensuales posteriores a la amortización, sin alteración del plazo de la deuda.
 
-Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula----- del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de -------------.
+Cláusula:
+
+No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula.....del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de................
+
+ANEXO N° 2
+
+CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA DE INTERES FLOTANTE E HIPOTECA PARA LA ADQUISICION DE VIVIENDA.
+
+Cláusula: El precio de la compraventa es la suma de $........ que se entera:
+
+a) Con $............que el comprador paga al vendedor en este acto en dinero efectivo.
+
+b) Con $............... valor que las partes de común acuerdo asignan a las letras de crédito de la Serie ...... de emisión nominal 1° de enero del presente año, por ..... Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a ...................Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula..... de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se refiere la cláusula siguiente.
+
+El comprador declara haber recibido materialmente a su entera conformidad la propiedad raíz materia de este contrato.
+
+El vendedor declara haber recibido la totalidad del precio y lo declara en consecuencia, íntegramente pagado.
+
+Las partes renuncian ex presamente a las acciones resolutorias que pudieran emanar del presente contrato.
+
+Cláusula: Entre el Banco.................................. y don........................................................ se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos, y al Acuerdo del Consejo Monetario adoptado en Sesión N°23 de 6 de noviembre de 1980, publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N°1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus modificaciones.
+
+Cláusula: El banco.........................................a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don .............................................................la cantidad de .............U.F. en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a .............U.F. emitidas materialmente por el propio banco el día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie......... con una amortización directa trimestral en el plazo de .........años, que ganan intereses variables semestralmente, pagaderos por trimestre vencido, los que se calcularán a la Tasa de Interés Promedio (TIP) de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año, y se aplicará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente. En todo caso, la tasa de interés que se aplique no podrá variar, durante la vigencia de las letras de crédito, en más de tres puntos porcentuales respecto a la tasa de interés del.......% anual, vigente el día 1o del mes subsiguiente a la fecha del presente contrato. (En caso que la institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
+
+Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de ..............U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a ................ U.F. en el plazo de ............ meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devengará el presente contrato, variará semestralmente y corresponderá a la Tasa de Interés Promedio de que trata el Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año, la que se aplicará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, más la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. En todo caso, la mencionada tasa de interés no podrá variar en más de tres puntos porcentuales respecto a la tasa del.............% anual vigente el día 1° del mes subsiguiente a la fecha de este contrato. (En caso que la institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). El dividendo mensual a pagar será variable e igual a: La amortización que resulte de multiplicar por........ el número de U.F. que corresponde a cada uno de los dividendos, a contar del dividendo N°.... , que constan en la tabla de desarrollo elaborada por el Banco a vía ejemplar para un préstamo u obligación de 1 U.F., la que se reproduce en la parte pertinente al final de la escritura y que se encuentra protocolizada con fecha ....... bajo el N° ...........en la Notaría de .............. de don........................................... ; más la comisión correspondiente al dividendo, calculada también sobre la base de la misma tabla de desarrollo y más los intereses que se calcularán en cada oportunidad sobre el saldo insoluto del capital, utilizando la fórmula que se incluye en dicha tabla. El deudor declara conocer y aceptar la indicada tabla de amortización y comisiones y la fórmula para el cálculo de los intereses que en ella se indica. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, incluida la fórmula que en ella se indica, forma parte íntegramente de la presente escritura para todos los efectos legales.
+
+Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresadas en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
+
+Cláusula: Las letras de crédito que el Banco, conforme a lo estipulado en este instrumento, entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización ascendente a ....U.F. más el interés que se devengue a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, obligación que el Banco documenta mediante pagaré expresado en Unidades de Fomento por el monto de la amortización indicado, al que se le agregarán los respectivos intereses, con el mismo vencimiento del cupón correspondiente, de acuerdo a lo dispuesto en la letra c) del N°5 título V del Reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
+
+Si el pagaré no es cobrado al vencimiento, no devengará intereses de ningún tipo a contar de esa fecha.
+
+Cláusula: El deudor puede reembolsar anticipadamente todo o al menos un ..... del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
+
+A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el valor de los dividendos mensuales posteriores a la amortización, sin alteración del plazo de la deuda.
+
+Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula..... del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de ..........................
 
 ANEXO N° 3
 
-TEXTO LETRA DE CREDITO PARA VIVIENDA. (AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
+TEXTO LETRA DE CREDITO PARA VIVIENDA
 
-..
+(AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
 
-Este banco (sociedad financiera) pagará la presente Letra de Crédito.........por........... U.F., que ganará el interés anual del.........% a.......años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos
+.
 
-y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del
-
-Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de
-
-1981 y sus modificaciones.
+Este banco pagará la presente Letra de Crédito........ por............U.F., que ganará el interés anual del ...% a ..... años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° de ............., de la Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° .......... de ..... ...........................,de la Superintendencia de Bancos e Instituciones Financieras.
 
 .
 
-ANEXO N° 4
+ANEXO 4
 
-TEXTO LETRA DE CREDITO PARA VIVIENDA(AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
+TEXTO LETRA DE CREDITO PARA VIVIENDA
+
+(AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
 
 .
 
-Este Banco (sociedad financiera) pagará la presente Letra de Crédito ..........por ................ I.V.P., que ganará el interés anual del .......% a .....años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado encada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de Indice Valor Promedio que corresponda, en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de junio de 1981
-
-y sus modificaciones.
+Este banco pagará la presente Letra de Crédito..............por........I.V.P., que ganará el interés anual del....% a .......... años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de Índice Valor Promedio que corresponda, en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE INDICE VALOR PROMEDIO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°................de.................... de la Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° ................., de ..................., de la Superintendencia de Bancos e Instituciones Financieras.
 
-..
+.
 
-ANEXO N° 5
+NEXO N° 5
 
-TEXTO DE LETRA DE CREDITO PARA VIVIENDA (AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
+TEXTO DE LETRA DE CREDITO PARA VIVIENDA
 
-..
+(AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
 
-Este banco (sociedad financiera) pagará la presente Letra de Crédito por--------U.F., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas
+.
 
-Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente,respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del--------% anual, a -------- años plazo,
-
-pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra, no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+Este banco pagará la presente Letra de Crédito por ....... U.F., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del ... % anual, a ...........años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra, no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
@@ -10408,63 +8916,65 @@ La tasa de interés se determinará según la fórmula:
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
+EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°-----------de---------- de la Superintendencia de Bancos e Instituciones Financieras.
+SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-..
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°.............. de ............. de la Superintendencia de Bancos e Instituciones Financieras.
+
+.
 
 ANEXO N° 6
 
-TEXTO DE LA LETRA DE CREDITO PARA VIVIENDA (AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
+TEXTO DE LA LETRA DE CREDITO PARA VIVIENDA
 
-..
+(AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
 
-Este banco (sociedad financiera) pagará la presente Letra de Crédito-----------por ------ I.V.P., que ganará un interés variables Interés semestralmente, según la Tasa Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central Chile en la segunda quincena de los de meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del----% anual, a ----- años plazo,pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra,no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente del índice valor promedio que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+.
+
+Este banco pagará la presente Letra de Crédito ........ por ......... I.V.P., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N°5 del Capítulo IV. B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa d e l...% anual, a ...... años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra, no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente del índice valor promedio que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
-..
+.
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
 EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN INDICE VALOR PROMEDIO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°-----------de-------- de la Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°--------de -------- de la Superintendencia de Bancos e Instituciones Financieras.
 
-..
+.
 
 ANEXO N° 7
 
 TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES FIJO
 
-..
+.
 
---------------- pagará la presente Letra de Crédito ----- por ---------- U.F./I.V.P/M.E/ que ganará el interés anual del -----, a ---------- años plazo pagadero por ----------------- vencidos contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del ---------- en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de ---------------- que corresponda en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de Junio de 1981 y sus modificaciones.
+-------------- pagará la presente Letra de Crédito----------- por------------U.F./I.V.P./M.E/ que ganará el interés anual del---------- , a ---------------años plazo pagadero por--------------------- vencidos contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del------------------en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de --------------- que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de Junio de 1981 y sus modificaciones.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°----- , de --------dela Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° --------, de ------------------- de la Superintendencia de Bancos e Instituciones Financieras.
 
-..
+.
 
 ANEXO N° 8
 
 TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES VARIABLE
 
-..
+.
 
-Este banco (sociedad financiera) pagará la presente Letra de Crédito----- por------U.F./I.V.P., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente,respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del------% anual, a------años plazo pagadero por--
-
----------- vencidos, contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del------------en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo Monetario y el Comité Ejecutivo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes.El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de------------ que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+Este banco pagará la presente Letra de Crédito....... por......... U.F./I.V.P., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior), en más de tres puntos porcentuales a la tasa del....% anual, a ....... años plazo pagadero por........ vencidos, contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del............en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de ...........que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
-..
+.
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°----- de------------, de esta Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° .....de ........... , de esta Superintendencia de Bancos e Instituciones Financieras.
 
-..
+.
 
 ANEXO N° 9
 
@@ -10472,13 +8982,69 @@ MODELO CUPON DE LA LETRA CON INTERES FIJO
 
 .
 
+NOTA: Cuando el número del cupón se imprima por medios computacionales, tendrá la ubicación y dimensiones que el banco determine, debiendo ser, en todo caso, fácilmente identificable y legible.
+
 ANEXO N° 10
+
+MODELO CUPON DE LA LETRA CON INTERES VARIABLE
 
 .
 
-ANEXO N° 11
+NOTA: Cuando el número del cupón se imprima por medios computacionales, tendrá la ubicación y dimensiones que el banco determine, debiendo ser, en todo caso, fácilmente identificable y legible.
+
+ANTECEDENTES ACERCA DE LA FORMULA MENCIONADA EN EL CUPON
+
+s= Saldo de capital adeudado a la fecha de la última amortización, sobre el cual se determinarán los intereses.
+
+n= Número de períodos de amortización comprendidos en el lapso de un año. A vía de ejemplo, si la amortización es semestral: n = 2.
+
+TIP= Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile, que corresponda aplicar en el respectivo período, sin exceder el límite máximo de dicha tasa ni el límite mínimo, en caso que no se haya prescindido de este último.
+
+X = Monto de los intereses ganados al término del período considerado.
+
+En el pago de los cupones, el factor que se determine sobre la base de la fórmula:
+
+.
+
+deberá comprender a lo menos siete decimales. El séptimo decimal podrá elevarse al número inmediatamente superior sólo en el caso que el octavo sea igual o superior al número 5.
+
+Anexo N° 11
+
+Hoja 1
 
 INDICE DE CODIGOS DE TABLAS DE DESARROLLO DE LETRAS DE CREDITO
+
+.
+
+Hoja 2
+
+.
+
+Hoja 3
+
+.
+
+Hoja 4
+
+.
+
+Hoja 5
+
+.
+
+Hoja 6
+
+.
+
+Hoja 7
+
+.
+
+Hoja 8
+
+.
+
+Hoja 9
 
 .
 
@@ -10542,347 +9108,137 @@ Un año o menos 0%
 
 El monto de los bonos subordinados que pueden computarse como patrimonio efectivo en la forma antes señalada, no podrá exceder del 50% del capital básico de la institución, a la fecha del cómputo.
 
-CAPITULO 10-1 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 10-1
 
 BIENES RECIBIDOS O ADJUDICADOS EN PAGO DE OBLIGACIONES.
 
-### I. RECEPCION O ADJUDICACION DE BIENES EN PAGO
-
 ### 1. Bienes que pueden recibirse o adjudicarse en pago de obligaciones
 
-Conforme al N° 5 del artículo 84 de la Ley General de Bancos, una institución financiera sólo podrá adquirir bienes distintos a los que expresamente autoriza dicha ley, en los siguientes casos:
+Conforme al N° 5 del artículo 84 de la Ley General de Bancos, un banco sólo podrá adquirir bienes distintos a los que expresamente autoriza dicha ley, en los siguientes casos:
 
-a) Cuando los reciba en pago de deudas vencidas y siempre que el conjunto de bienes que mantenga adquiridos en esta forma no supere en ningún momento el 20% de su patrimonio efectivo; y,
+a) Cuando los reciba en pago de deudas vencidas y siempre que el conjunto de bienes que mantenga adquiridos en esta forma no supere en ningún momento el 20% de su patrimonio efectivo; y
 
 b) Cuando los adquiera en remate judicial en pago de deudas previamente contraídas a su favor. Los bienes adquiridos en remate judicial no quedan sujetos a margen.
 
 Si bien la citada norma legal utiliza la expresión "remate judicial", estima esta Superintendencia que ella debe entenderse extendida a todos aquellos procedimientos legales que permitan la realización de bienes del deudor.
 
-Los instrumentos financieros representativos de títulos de crédito de renta fija que las instituciones financieras reciban en pago de obligaciones a su favor,que la Ley General de Bancos expresamente les permite adquirir y conservar, se incorporarán al activo de la institución adquirente y no quedarán sujetos a las disposiciones contenidas en el presente capítulo, sino que deberán ceñirse a las disposiciones legales y a las normas impartidas por esta Superintendencia que les son aplicables, especialmente en lo que se refiere a márgenes y criterios de valorización.
-
-No obstante, si existen impedimentos para registrar títulos de créditos de renta fija recibidos en pago de obligaciones en la forma descrita en el párrafo precedente, porque con ello se sobrepasarían los límites legales o reglamentarios que los afectan, como por ejemplo, los establecidos en el artículo 84 de la Ley General de Bancos, las instituciones financieras pueden contabilizar dichos documentos de acuerdo con las normas de este capítulo, siempre que lo hagan al momento de su recepción. En este caso, los documentos deben ser enajenados dentro del plazo señalado en el N° 4 siguiente.
+Los instrumentos financieros representativos de títulos de crédito de renta fija que los bancos reciban en pago de obligaciones a su favor, que la Ley General de Bancos expresamente les permite adquirir y conservar, no quedarán sujetos a las disposiciones contenidas en el presente Capítulo. No obstante, en caso de existir impedimentos para recibir títulos de crédito de renta fija en pago de obligaciones porque con ello se sobrepasarían los límites legales o reglamentarios que los afectan, los bancos pueden tratar dichos documentos de acuerdo con las normas de este Capítulo, siempre que lo hagan al momento de su recepción. En este caso, los documentos deben ser enajenados dentro del plazo señalado en el N° 3 siguiente.
 
 ### 2. Bienes recibidos en pago de colocaciones relacionadas
 
-Las recepciones en pago provenientes de colocaciones a personas naturales o
+Las recepciones en pago provenientes de colocaciones a personas naturales o jurídicas relacionadas con el banco en los términos del N° 2 del artículo 84 de la Ley General de Bancos y del Capítulo 12-4 de esta Recopilación de Normas, deberán ser consultadas previamente a esta Superintendencia, señalando especialmente la naturaleza y valorización de los bienes. Sin embargo, desde ya se establece que dichas daciones en pago no podrán consistir en acciones de sociedades de inversión o de otras empresas que no tengan un giro dedicado a la producción o comercialización de bienes o servicios.
 
-jurídicas relacionadas con la institución en los términos del N° 2 del artículo
+En la consulta a que se hace referencia en el párrafo anterior, deberá incluirse expresamente el parecer de la administración respecto de la conveniencia para el banco de recibir en pago o adjudicarse los bienes de que se trate. Además, deberá acompañarse la opinión de sus auditores externos, acerca del valor de mercado de esos bienes, determinado sobre la base del estado en que se adquieran.
 
-84 de la Ley General de Bancos y del Capítulo 12-4 de esta Recopilación de
+### 3. Plazos para enajenar los bienes recibidos o adjudicados en pago
 
-Normas, deberán ser consultadas previamente a esta Superintendencia, señalando
-
-especialmente la naturaleza y valorización de los bienes. Sin embargo, desde ya
-
-se establece que dichas daciones en pago no podrán consistir en acciones de
-
-sociedades de inversión o de otras empresas que no tengan un giro dedicado a la
-
-producción o comercialización de bienes o servicios.
-
-En la consulta a que se hace referencia en el párrafo anterior, deberá incluirse
-
-expresamente el parecer de la administración respecto de la conveniencia para la
-
-institución de recibir en pago o adjudicarse los bienes de que se trate.
-
-Además,deberá acompañarse la opinión de sus auditores externos, acerca del valor
-
-de mercado de esos bienes, determinado sobre la base del estado en que se
-
-adquieran.
-
-### 3. Valor de adquisición
-
-El valor de adquisición de un bien corresponderá al convenido con el deudor en
-
-la correspondiente dación en pago o al valor de adjudicación en remate judicial,
-
-según sea el caso.
-
-Al recibirse en pago un conjunto de bienes cuyo valor individual no se detalle
-
-en la escritura correspondiente y que sean susceptibles de venderse
-
-separadamente por la institución adquirente, deberá prorratearse el monto total,
-
-de acuerdo con una base razonable y posible de demostrar, con el objeto de
-
-obtener el valor de adquisición de cada bien.
-
-### 4. Plazos para enajenar los bienes recibidos o adjudicados en pago
+3.1. Plazos.
 
 Los bienes recibidos o adjudicados en pago deben ser enajenados dentro del plazo de un año contado desde la fecha de adquisición, salvo que se trate de acciones, en cuyo caso la ley dispone un plazo de seis meses a contar desde la fecha de adquisición.
 
-Para todos los efectos, se considerará como fecha de adquisición o de enajenación, a fecha en que sea firmada la correspondiente escritura. Sin embargo, en caso de que existan situaciones legales que impidan perfeccionar la adjudicación respectiva como, por ejemplo, embargo o prohibiciones de celebrar actos o contratos, podrá considerarse como fecha de adquisición aquélla en que quede resuelto el problema de que se trate, debiendo mantenerse a disposición de esta Superintendencia los antecedentes que justifiquen tal determinación.
+Para todos los efectos, se considerará como fecha de adquisición o de enajenación, la fecha en que sea firmada la correspondiente escritura. Sin embargo, en caso de que existan situaciones legales que impidan perfeccionar la adjudicación respectiva como, por ejemplo, embargos o prohibiciones de celebrar actos o contratos, podrá considerarse como fecha de adquisición aquélla en que quede resuelto el problema de que se trate, debiendo mantenerse a disposición de esta Superintendencia los antecedentes que justifiquen tal determinación.
 
-4.2.- Plazo adicional.
+3.2. Plazo adicional.
 
-No obstante lo señalado en el numeral 4.1 anterior, las instituciones financieras dispondrán de un plazo adicional de hasta dieciocho meses contados desde el vencimiento del plazo allí indicado, cuando se presenten los siguientes casos justificados:
+No obstante lo señalado en el numeral 3.1 anterior, los bancos dispondrán de un plazo adicional de hasta dieciocho meses contados desde el vencimiento del plazo allí indicado, cuando se presenten los siguientes casos justificados:
 
 i) exista una prohibición judicial para enajenar el bien;
 
-ii) la institución financiera haya entablado un juicio para obtener la restitución o desalojo del bien; o,
+ii) el banco haya entablado un juicio para obtener la restitución o desalojo del bien; o,
 
 iii) sea necesario obtener el alzamiento de un gravamen o efectuar reparaciones o terminaciones para obtener un mejor precio de venta para un bien, siempre que el tiempo necesario al efecto sea superior a doce meses.
 
-En los demás casos no contemplados en el párrafo anterior, la institución podrá hacer uso de un plazo adicional de doce meses, sólo si cuenta con la autorización previa de esta Superintendencia. Para obtener dicha autorización, el banco deberá acompañar a su solicitud un programa para la enajenación de los bienes de que se trate, aprobado por el Directorio. En la información que se entregue se explicarán las razones que, a juicio del Directorio, justifican la prórroga, y se detallarán los bienes a los cuales se les aplicará el mayor plazo.
+En los demás casos no contemplados en el párrafo anterior, el banco podrá hacer uso de un plazo adicional de doce meses, sólo si cuenta con la autorización previa de esta Superintendencia. Para obtener dicha autorización, el banco deberá acompañar a su solicitud un programa para la enajenación de los bienes de que se trate, aprobado por el Directorio. En la información que se entregue se explicarán las razones que, a juicio del Directorio, justifican la prórroga, y se detallarán los bienes a los cuales se les aplicará el mayor plazo.
 
-Para hacer uso de los plazos adicionales de que trata este numeral, las instituciones financieras deberán castigar contablemente los respectivos bienes.
+Para hacer uso de los plazos adicionales de que trata este numeral, los bancos deberán castigar contablemente los respectivos bienes.
 
-4.3. Bienes no liquidables.
+3.3. Bienes no liquidables.
 
-Cuando se trate de bienes, especialmente acciones, derechos en sociedades o instrumentos financieros cuyos emisores u obligados al pago se encuentren declarados en quiebra, como así también de marcas comerciales o de otros bienes y especies que carezcan de valor comercial o que definitivamente no puedan ser enajenados, la entidad financiera tenedora de tales bienes deberá deshacerse de ellos a cualquier título que estime adecuado, como por ejemplo, su donación a instituciones de beneficencia o a otras entidades sin fines de lucro, dentro del plazo señalado en el numeral 4.1 anterior.
+Cuando se trate de bienes, especialmente acciones, derechos en sociedades o instrumentos financieros cuyos emisores u obligados al pago se encuentren declarados en quiebra, como así también de marcas comerciales o de otros bienes y especies que carezcan de valor comercial o que definitivamente no puedan ser enajenados, el banco tenedor de tales bienes deberá deshacerse de ellos a cualquier título que estime adecuado, como por ejemplo, su donación a instituciones de beneficencia o a otras entidades sin fines de lucro, dentro del plazo señalado en el numeral 3.1 anterior.
 
-### 5. Condiciones para la enajenación
+### 4. Condiciones para la enajenación
 
-Los bienes recibidos o adjudicados en pago podrán ser vendidos de la forma que la administración estime más adecuada para el resguardo de los intereses de la institución, sin perjuicio del plazo a que se refiere el numeral 4.1 de este título.
+Los bienes recibidos o adjudicados en pago podrán ser vendidos de la forma que la administración estime más adecuada para el resguardo de los intereses de la institución, sin perjuicio del plazo a que se refiere el numeral 3.1 de este Capítulo.
 
-Cuando se trate de acciones recibidas en pago o adjudicadas, su venta debe realizarse en un mercado secundario formal, esto es actualmente, en rueda o remate en una Bolsa de Valores, a menos que esta Superintendencia autorice su venta a través de licitación pública. Para obtener dicha autorización, las instituciones financieras deben acompañar los antecedentes que justifiquen la venta directa, explicando las razones por las que ella sería más conveniente y la forma en que se garantizará la transparencia de la operación.
+Cuando se trate de acciones recibidas en pago o adjudicadas, su venta debe realizarse en un mercado secundario formal, esto es actualmente, en rueda o remate en una Bolsa de Valores, a menos que esta Superintendencia autorice su venta a través de licitación pública. Para obtener dicha autorización, los bancos deben acompañar los antecedentes que justifiquen la venta directa, explicando las razones por las que ella sería más conveniente y la forma en que se garantizará la transparencia de la operación.
 
-En todo caso, tanto las enajenaciones a personas o empresas relacionadas con la institución, a que se refiere el Capítulo 12-4 ya citado, como las efectuadas a trabajadores, ya sea de la propia institución o de empresas relacionadas, no podrán realizarse en condiciones menos favorables para los intereses de la empresa que aquéllas que se hubieren obtenido en una venta a terceros.
+En todo caso, tanto las enajenaciones a personas o empresas relacionadas con el banco, a que se refiere el Capítulo 12-4 ya citado, como las efectuadas a trabajadores, ya sea de la propia institución o de empresas relacionadas, no podrán realizarse en condiciones menos favorables para los intereses de la empresa que aquéllas que se hubieren obtenido en una venta a terceros.
 
-Para enajenar a entidades relacionadas, bienes recibidos en pago o adjudicados,se requerirá la autorización previa de esta Superintendencia. En la solicitud que para este objeto se presente, deberán informarse los precios, condiciones de pago y demás antecedentes necesarios para evaluar la eventual transacción,acompañada de una opinión de los auditores externos de la
+Para enajenar a entidades relacionadas, bienes recibidos en pago o adjudicados, se requerirá la autorización previa de esta Superintendencia. En la solicitud que para este objeto se presente, deberán informarse los precios, condiciones de pago y demás antecedentes necesarios para evaluar la eventual transacción, acompañada de una opinión de los auditores externos del banco, acerca de la conveniencia de la venta propuesta. En dicha opinión deberán constar las razones por las cuales la opción de vender a una entidad relacionada resulta más adecuada para los intereses del banco.
 
-institución financiera, acerca de la conveniencia de la venta propuesta. En dicha opinión deberán constar las razones por las cuales la opción de vender a una entidad relacionada resulta más adecuada para los intereses de la institución financiera.
+El banco deberá asegurar que en el proceso de enajenación de los bienes recibidos o adjudicados, éstos sean ofrecidos al público siguiendo sanas prácticas de transparencia las que deben contemplar, a modo de ejemplo, políticas que aseguren la publicación en la página web de los bienes ofrecidos, así como también la aplicación de estrictos estándares que regulen los conflictos de intereses en su venta, especialmente si en la compra respectiva se encuentra involucrado personal de la entidad o empresas relacionadas a la misma.
 
-La institución deberá asegurar que en el proceso de enajenación de los bienes recibidos o adjudicados, éstos sean ofrecidos al público siguiendo sanas prácticas de transparencia las que deben contemplar, a modo de ejemplo, políticas que aseguren la publicación en la página web de los bienes ofrecidos, así como también la aplicación de estrictos estándares que regulen los conflictos de intereses en su venta, especialmente si en la compra respectiva se encuentra involucrado personal de la entidad o empresas relacionadas a la misma.
+### 5. Sanciones dispuestas en el artículo 84 N° 5 de la Ley General de Bancos
 
-### 6. Sanciones dispuestas en el artículo 84 N° 5 de la Ley General de Bancos
-
-De acuerdo con las disposiciones legales vigentes, las instituciones financieras están sujetas a la aplicación de las siguientes sanciones, por las infracciones que se indican:
+De acuerdo con las disposiciones legales vigentes, los bancos están sujetos a la aplicación de las siguientes sanciones, por las infracciones que se indican:
 
 a) Por exceder el plazo de enajenación.
 
-La institución financiera que no enajene un bien recibido o adjudicado en pago dentro de los plazos a que se refieren los numerales 4.1 y 4.2 anteriores, incurrirá en una infracción que será sancionada con una multa equivalente al 10% del valor de adquisición actualizado, por cada mes que transcurra, después de vencido el plazo, sin que se haya enajenado el bien. Se entenderá por valor de adquisición actualizado aquel que se presenta en el estado financiero más reciente.
+El banco que no enajene un bien recibido o adjudicado en pago dentro de los plazos a que se refieren los numerales 3.1 y 3.2 anteriores, incurrirá en una infracción que será sancionada con una multa equivalente al 10% del valor de adquisición actualizado, por cada mes que transcurra, después de vencido el plazo, sin que se haya enajenado el bien. Se entenderá por valor de adquisición actualizado aquel que se presenta en el activo del estado financiero más reciente.
 
 b) Por exceder el margen global.
 
-La institución financiera que sobrepase el margen del 20% a que se refiere la letra a) del N° 1 de este título, será sancionada con una multa igual al valor de los bienes adquiridos que exceda dicho margen.
+El banco que sobrepase el margen del 20% a que se refiere la letra a) del N° 1 de este Capítulo, será sancionada con una multa igual al valor de los bienes adquiridos que exceda dicho margen.
 
 La medición para encuadrarse dentro de dicho margen del 20% se efectuará al momento de recibir un bien, sobre la base del valor al que se encuentren contabilizados los demás bienes no castigados que la institución haya recibido en pago y tenga pendientes de enajenar.
 
-### II. DESEMBOLSOS AUTORIZADOS Y EXPLOTACION TRANSITORIA DE BIENES RECIBIDOS O
+### 6. Desembolsos autorizados y explotación transitoria de los bienes
 
-ADJUDICADOS EN PAGO.
+6.1. Explotación comercial de los bienes.
 
-### 1. Explotación comercial de los bienes
+Los bancos deben tener presente que la finalidad de las normas de excepción que contiene el N° 5 del artículo 84 de la Ley General de Bancos, a que se refiere este Capítulo, no es otra que la de permitir la recuperación de créditos mediante la recepción o la adjudicación de bienes, cuando el pago no se obtenga en dinero y, en ningún caso, las habilita para dedicarse a actividades ajenas a su giro.
 
-Las instituciones financieras deben tener presente que la finalidad de las
+En consecuencia, los bancos deben abstenerse de efectuar inversiones destinadas exclusivamente a explotar dichos bienes, salvo cuando ello sea estrictamente necesario para evitar el deterioro de su valor comercial.
 
-normas de excepción que contiene el N° 5 del artículo 84 de la Ley General de
+6.2. Gastos que pueden realizarse.
 
-Bancos, a que se refiere este capítulo, no es otra que la de permitir la
+Los bancos pueden efectuar desembolsos con cargo a sus cuentas de resultados para pagar gastos originados en los bienes recibidos o adjudicados en pago, siempre que tengan por objeto mantener y conservar dichos bienes y obtener su enajenación. Quedan comprendidos en estos gastos: contribuciones, seguros, pago de servicios públicos, cuidadores, reparaciones, aseo, publicidad, transporte, etc.
 
-recuperación de créditos mediante la recepción o la adjudicación de
+6.3. Inversiones destinadas a aumentar el precio de venta de los bienes.
 
-bienes,cuando el pago no se obtenga en dinero y, en ningún caso, las habilita
+Los bancos podrán realizar inversiones en los bienes recibidos o adjudicados en pago, con el objeto de efectuarles terminaciones o reparaciones, siempre que aparezca de manifiesto que con la ejecución de esas obras se podrá obtener un mejor precio de enajenación de los mismos dentro del plazo dispuesto por la ley para su venta.
 
-para dedicarse a actividades ajenas a su giro.
+6.4. Autorización de esta Superintendencia.
 
-En consecuencia, las instituciones financieras deben abstenerse de efectuar
+Cualquier inversión o gasto que, por su monto o naturaleza no cumpla con lo indicado en los números precedentes, requerirá la autorización previa de esta Superintendencia, a la cual deberán enviarse los antecedentes pertinentes. De igual manera, deberá consultarse a este Organismo antes de contraer compromisos, cuando los montos de los desembolsos representan porcentajes anormales en relación con el valor del bien recibido, cuando los servicios o insumos se adquieran en condiciones diferentes a las de mercado, o en el caso que en tales compromisos intervengan personas relacionadas con la propiedad o gestión del banco.
 
-inversiones destinadas exclusivamente a explotar dichos bienes, salvo cuando
+## Capítulo 10-2
 
-ello sea estrictamente necesario para evitar el deterioro de su valor comercial.
+COLOCACIÓN DE ACCIONES DE PRIMERA EMISIÓN POR CUENTA DE TERCEROS.
 
-2. Desembolsos que pueden realizarse y que deben cargarse a los resultados de la
+### 1. Agentes colocadores de acciones
 
-institución.
+De conformidad con lo dispuesto en el N° 25 del artículo 69 de la Ley General de Bancos, los bancos pueden actuar como agentes colocadores de acciones de primera emisión de sociedades anónimas abiertas, encargándose de su colocación sin garantizarla, o bien, comprometiendo su garantía para tal efecto.
 
-Las instituciones financieras pueden efectuar desembolsos con cargo a sus
+### 2. Garantía de colocación y tenencia de acciones
 
-cuentas de resultado para pagar gastos originados en los bienes recibidos o
-
-adjudicados en pago, siempre que tengan por objeto mantener y conservar dichos
-
-bienes y obtener su enajenación. Quedan comprendidos en estos
-
-gastos:contribuciones, seguros, pago de servicios públicos, cuidadores,
-
-reparaciones,aseo, publicidad, transporte, etc.
-
-### 3. Inversiones destinadas a aumentar el precio de venta de los bienes
-
-Los bancos y sociedades financieras podrán realizar inversiones en los bienes
-
-recibidos o adjudicados en pago, con el objeto de efectuarles terminaciones o
-
-reparaciones, siempre que aparezca de manifiesto que con la ejecución de esa
-
-sobras se podrá obtener un mejor precio de enajenación de los mismos dentro del
-
-plazo dispuesto por la ley para su venta.
-
-### 4. Autorización de esta Superintendencia
-
-Cualquier inversión o gasto que, por su monto o naturaleza no cumpla con lo
-
-indicado en los números precedentes, requerirá la autorización previa de esta
-
-Superintendencia, a la cual deberán enviarse los antecedentes pertinentes. De
-
-igual manera, deberá consultarse a este Organismo antes de contraer
-
-compromisos,cuando los montos de los desembolsos representan porcentajes
-
-anormales en relación con el valor del bien recibido, cuando los servicios o
-
-insumos se adquieran en condiciones diferentes a las de mercado, o en el caso
-
-que en tales compromisos intervengan personas relacionadas con la propiedad o
-
-gestión de la Institución financiera.
-
-### III. NORMAS CONTABLES
-
-### 1. Contabilización de los bienes recibidos o adjudicados
-
-Debe: "Bienes recibidos en pago" o "Bienes adjudicados en remate", de la partida 1765, por el valor de adquisición a que se refiere el N° 3 del título I de este Capítulo.
-
-Haber: - La cuenta de colocación que corresponda, por el pago del respectivo crédito.
-
-- "Caja" o la cuenta que corresponda por el valor que se deba entregar al propietario del bien que se remata, en caso que eventualmente el valor de adjudicación supere a la respectiva deuda.
-
-Para los efectos de ajustar la provisión de que trata el N° 2 siguiente, la diferencia entre el valor de adquisición del bien y el valor estimado de realización del mismo, según el estado en que el bien se recibe, debe considerarse a partir del mismo mes en que se ingresa al activo.
-
-2.- Provisión sobre bienes recibidos o adjudicados en pago.
-
-Las instituciones financieras deberán mantener una provisión para cubrir el riesgo de pérdida por venta de los bienes recibidos o adjudicados en pago, de acuerdo con lo siguiente:
-
-2.1.- Provisión mínima y registro contable.
-
-La provisión mínima que debe mantenerse por los bienes recibidos en pago se determinará al cierre de cada mes y será equivalente a la diferencia entre el monto total registrado en el activo por dichos bienes y el total resultante de la suma de los valores estimados de venta de los mismos, obtenidos de acuerdo con lo instruido en el numeral 2.2 siguiente En ningún caso se considerarán dentro de estos cálculos, los valores de los bienes que hubieren sido castigados.
-
-El total de la provisión constituida sobre los activos de que se trata, se informará en la cuenta "Provisión sobre bienes recibidos o adjudicados en pago" de la partida 4220, mostrándose el resultado en la cuenta que, con el mismo nombre, se incluye en la partida 6130.
-
-La provisión será utilizada solamente para cubrir las pérdidas que se produjeren en la enajenación de los bienes recibidos o adjudicados en pago Los excesos de provisión que se determinen con motivo de los ajustes mensuales, deberán liberarse acreditando la cuenta de resultados mencionada en el párrafo precedente.
-
-2.2.- Valor de liquidación.
-
-El valor de liquidación de los bienes recibidos o adjudicados en pago se determinará de acuerdo con las condiciones vigentes de mercado, debiendo corresponder al monto neto que se obtendría en la enajenación del bien de que se trate.
-
-Para ese efecto, las instituciones financieras se atendrán a lo siguiente para la valorización de los bienes que se indican:
-
-2.2.1.- Bienes raíces.
-
-La determinación del valor de liquidación de un bien raíz recibido o adjudicado en pago deberá basarse en una tasación que considere el plazo máximo en que debe procederse a su enajenación y que cumpla a lo menos con los siguientes requisitos:
-
-a) Que sea practicada por profesionales idóneos.
-
-b) Que cuente con suficientes antecedentes de respaldo referidos a los precios utilizados, las fuentes que originaron los cálculos de éstos y las consideraciones que sirvieron de base para determinar el valor final del bien tasado Tales antecedentes habrán de permanecer en archivos de fácil consulta.
-
-c) Que se encuentre actualizada mientras el bien permanezca en poder de la institución En todo caso su máxima antigüedad no podrá exceder de 18 meses.
-
-Estas tasaciones servirán para determinar la diferencia entre el valor registrado en el activo y el valor estimado de realización, siempre que no existan otros antecedentes más exactos, como podrían ser ventas recientes de bienes similares.
-
-2.2.2.- Acciones y derechos en sociedades.
-
-Las principales variables a considerar en la determinación del valor de liquidación de las acciones y derechos en sociedades que se reciban en pago, deben relacionarse con la solvencia y liquidez de la empresa emisora, como también con la cotización de mercado que estos instrumentos tengan, si procede.
-
-2.2.3. - Otros bienes.
-
-Cualquier otro bien distinto a los señalados anteriormente, deberá evaluarse de modo que su valor de liquidación se refleje apropiadamente.
-
-2.3.- Retasaciones exigidas por esta Superintendencia.
-
-En caso de incumplimiento de las exigencias antes mencionadas, o que existan dudas respecto de las evaluaciones efectuadas, esta Superintendencia podrá requerir una retasación total o parcial de los bienes.
-
-### 3. Venta de los bienes
-
-Debe: - La cuenta que corresponda por la recepción del precio de venta o el crédito por el saldo de precio.
-
-- "Provisión sobre bienes recibidos o adjudicados en pago", por la diferencia entre el valor registrado en el activo más sus adiciones, si hubieren, y el precio de venta, cuando este último sea menor.
-
-Haber: - "Bienes recibidos en pago" o "Bienes adjudicados en remate", por el valor al que se encuentre registrado el bien en el activo.
-
-- "Adiciones a bienes recibidos en pago o adjudicados", por el valor de las inversiones efectuadas según lo indicado en el N° 4 siguiente.
-
-- "Utilidad por venta de bienes recibidos o adjudicados en pago" de la partida 7625, por la diferencia entre el precio obtenido por el bien que se vende y el valor al cual estaba contabilizado el activo más sus adiciones.
-
-En el evento de que el saldo de la provisión sea insuficiente para cubrir la totalidad de la pérdida, deberá incrementarse dicha provisión por el faltante, sin perjuicio de ajustarla al cierre del respectivo mes, cuando corresponda.
-
-Al tratarse de la enajenación de un bien que se encuentre contablemente castigado, se abonará la cuenta "Ingresos por venta de bienes castigados" de la partida 8315.
-
-### 4. Adiciones a bienes recibidos en pago
-
-Debe: - "Adiciones a bienes recibidos en pago o adjudicados", de la partida 1765, por los desembolsos efectuados conforme con lo indicado en el número 3 del título II de este capítulo. Los importes que conforman esta cuenta deben considerarse en conjunto con el valor de adjudicación para los efectos de constituir provisiones, ambos corregidos monetariamente según lo
-
-dispuesto en el número siguiente.
-
-Haber: "Caja" o la cuenta que corresponda por el desembolso efectuado o para reconocer la obligación de pago.
-
-5.- Corrección monetaria.
-
-La corrección monetaria se contabilizará de acuerdo con las instrucciones del Capítulo 7-3 de esta Recopilación Actualizada de Normas.
-
-Debe tenerse presente que la corrección monetaria dará origen a un incremento de las provisiones sobre los bienes recibidos o adjudicados en pago de que trata el N° 2 de este título, por el aumento de la diferencia entre el valor contable y el valor de realización, si este último no sufre variaciones que la compensen.
-
-6. Gastos e ingresos originados por la mantención o explotación temporal de
-
-bienes.
-
-Para registrar los gastos e ingresos que se derivan de la mantención temporal delos bienes, se utilizarán las cuentas "Gastos producidos por bienes recibidos en pago" e "Ingresos por explotación de bienes recibidos en pago", de las partidas 5900 y 7910, respectivamente.
-
-### 7. Castigos
-
-Los bienes recibidos o adjudicados en pago no serán objeto de castigos contables, salvo para hacer uso del plazo adicional a que se refiere el numeral 4.2 del título I de este Capítulo, en cuyo caso, conforme a la ley, el castigo es obligatorio.
-
-Los deterioros físicos o desvalorizaciones de cualquier naturaleza que pueda sufrir un bien, serán reconocidos por la vía de incrementar el monto de la provisión por sobrevaloración a que se refiere el N° 2 de este título, lo que en ningún caso exime a la institución financiera de la obligación de enajenar dentro de los plazos establecidos o de mantenerse dentro del margen legal a que se ha hecho referencia anteriormente. Si la institución financiera se deshace de bienes sin valor comercial conforme a lo indicado en el numeral 4.3 del título I de estas normas, procederá a efectuar, en esa oportunidad, la correspondiente rebaja del activo, empleando para el efecto las provisiones constituidas.
-
-Los castigos efectuados en cumplimiento de lo dispuesto en el penúltimo inciso del N° 5 del artículo 84 de la Ley General de Bancos, se harán de acuerdo con lo previsto en el numeral 4.2 del título I de este Capítulo y sus resultados se informarán en la cuenta "Castigo de bienes recibidos o adjudicados en pago" de la partida 6315. Para contabilizar la venta de un bien cuyo valor se encuentre parcialmente castigado, el monto remanente registrado en el activo se tratará como costo de la venta.
-
-IV.- DISPOSICION TRANSITORIA.
-
-Podrá aplicarse un plazo adicional de seis meses para aquellos bienes recibidos en pago o adjudicados en el curso del año 2004, que no correspondan a acciones de sociedades anónimas, siempre que se presente a esta Superintendencia un programa para la enajenación de esos bienes, aprobado por el Directorio.
-
-APITULO 10-2 (Bancos y Financieras)
-
-MATERIA:
-
-COLOCACION DE ACCIONES DE PRIMERA EMISION POR CUENTA DE TERCEROS.
-
-1.- Agentes colocadores de acciones.
-
-De conformidad con lo dispuesto en el N° 25 del artículo 69 de la Ley General de Bancos, las instituciones financieras pueden actuar como agentes colocadores de acciones de primera emisión de sociedades anónimas abiertas, encargándose de su colocación sin garantizarla, o bien, comprometiendo su garantía para tal efecto.
-
-2.- Garantía de colocación y tenencia de acciones.
-
-La garantía de colocación de acciones por cuenta de terceros que otorguen las instituciones financieras, no podrá superar los límites que se indican en el N° 3 siguiente.
+La garantía de colocación de acciones por cuenta de terceros que otorguen los bancos, no podrá superar los límites que se indican en el N° 3 siguiente.
 
 Las acciones que los bancos garantes pueden adquirir en estas operaciones, son solamente aquellas que se obtienen como consecuencia de hacerse efectiva esa garantía, debiendo la institución colocadora enajenarlas dentro de los plazos que se indican en el N° 4 de este Capítulo.
 
-Conforme a lo establecido en la ley, mientras las acciones se encuentren en poder de la institución financiera no gozarán del derecho a voz ni a voto en las juntas de accionistas.
+Conforme a lo establecido en la ley, mientras las acciones se encuentren en poder del banco no gozarán del derecho a voz ni a voto en las juntas de accionistas.
 
-3.- Límites.
+### 3. Límites
 
-3.1.- Límite de garantía e inversión en acciones por emisor.
+3.1. Límite de garantía e inversión en acciones por emisor.
 
-El monto de la garantía de colocación de acciones que otorguen las instituciones financieras, como asimismo el monto de las acciones que adquieran al hacerse ésta efectiva, no puede ser superior al equivalente del 35% del capital suscrito y pagado del respectivo emisor.
+El monto de la garantía de colocación de acciones que otorguen los bancos, como asimismo el monto de las acciones que adquieran al hacerse ésta efectiva, no puede ser superior al equivalente del 35% del capital suscrito y pagado del respectivo emisor.
 
-3.2.- Límite global de inversión en acciones adquiridas por underwriting.
+3.2. Límite global de inversión en acciones adquiridas por underwriting.
 
-El total de las acciones que una institución financiera mantenga por la aplicación de la garantía otorgada al asumir la colocación de tales instrumentos, no podrá tener un valor de mercado superior a su respectivo capital básico.
+El total de las acciones que un banco mantenga por la aplicación de la garantía otorgada al asumir la colocación de tales instrumentos, no podrá tener un valor de mercado superior a su respectivo capital básico.
 
-3.3.- Límites de crédito del artículo 84.
+3.3. Límites de crédito del artículo 84.
 
 Tanto el importe de la garantía otorgada como el de las acciones que se adquieran, deben ser computados dentro de los límites de crédito a que se refiere el artículo 84 de la Ley General de Bancos.
 
-Para este efecto las acciones se sumarán considerando el valor de adquisición actualizado que se menciona en el N° 4 siguiente.
+Para este efecto, las acciones que se mantengan se sumarán considerando el valor en que fueron adquiridas.
 
-4.- Plazo para enajenar las acciones adquiridas.
+### 4. Plazo para enajenar las acciones adquiridas
 
 Las acciones que las instituciones financieras adquieran, deberán ser enajenadas dentro del plazo máximo de dos años contado desde la fecha de su adquisición. No obstante, este plazo será de un año si las acciones se encuentran incluidas, al momento de su adquisición, dentro de aquellas en que pueden invertir los Fondos de Pensiones según lo dispuesto en el artículo N° 106 del D.L. N° 3.500.
 
-Para la enajenación de las acciones la ley establece que debe hacerse en la forma, condiciones y bajo las sanciones contenidas en el artículo 84 N° 5 de la Ley General de Bancos, por lo que:
-
-a) La venta de las acciones debe realizarse en un mercado secundario formal, esto es, en rueda o remate en una Bolsa de Valores, a menos que esta Superintendencia autorice su venta a través de licitación pública. Para obtener dicha autorización, las instituciones financieras deben acompañar los antecedentes que justifiquen la venta directa, explicando las razones para seguir ese procedimiento y la forma en que se garantizará la transparencia de la operación.
-
-b) Las acciones que no sean enajenadas dentro del plazo previsto en la ley, deberán ser castigadas contablemente.
-
-c) La institución financiera que aún mantenga acciones después de vencido el plazo, incurrirá en una multa equivalente al 10% del valor de adquisición actualizado de las mismas, por cada mes calendario que transcurra después de vencido el plazo, sin que se hayan enajenado. Ese valor de adquisición actualizado corresponderá al que se obtenga de aplicar, al valor de adquisición el porcentaje de variación del índice de precios al consumidor entre el primer día del mes anterior al de la adquisición y el último día del mes anterior al que corresponde dicho valor actualizado.
+Para la enajenación de las acciones la ley establece que debe hacerse en la forma, condiciones y bajo las sanciones contenidas en el artículo 84 N° 5 de la Ley General de Bancos, para cuyo cumplimiento se aplicarán las disposiciones contenidas en los números 3, 4 y 5 del Capítulo 10-1 de esta Recopilación.
 
 ## Capítulo 11-5
 
@@ -11126,7 +9482,7 @@ Los estados financieros anuales de empresas filiales de bancos deberán ser audi
 
 Las entidades sujetas a la fiscalización de esta Superintendencia entregarán dichos estados financieros a este Organismo de acuerdo con las instrucciones impartidas a esas sociedades filiales. Cuando se trate de sociedades que no estén sujetas a la fiscalización de esta Superintendencia, sus estados financieros serán entregados a este Organismo por el banco matriz, dentro del mismo plazo establecido para la entrega de sus propios estados financieros anuales.
 
-El banco matriz publicará sus estados financieros consolidados junto con los estados financieros de sus filiales, de la forma prevista en el Capítulo 18-1 de esta Recopilación.
+El banco matriz publicará sus estados financieros anuales en forma conjunta con los estados financieros de sus filiales que tengan la obligación de publicarlos según las normas que las rigen.
 
 12.2. Presentación de estados de situación trimestrales a esta Superintendencia.
 
@@ -11228,57 +9584,17 @@ Las sociedades a que se refieren los títulos II, III y IV de este Capítulo, no
 
 De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades constituidas en el país o en el exterior en que el banco o sus filiales tengan participación y cuyas operaciones no se consolidan para efecto de los límites de crédito del artículo 84 de la Ley General de Bancos, conformarán un solo grupo de empresas vinculadas para las limitaciones establecidas en el N° 2 de ese artículo.
 
-### VI. NORMAS CONTABLES
-
-### 1. Inversiones en sociedades filiales y coligadas
-
-Cuando el banco tenga una participación igual o superior al 10% en una sociedad, o cuando pueda elegir o designar por lo menos un miembro del directorio o de la administración de la misma, de acuerdo con los estatutos de la empresa, la inversión se registrará de la siguiente forma:
-
-1.1. Valorización de las inversiones y resultados.
-
-Las acciones o derechos en las sociedades filiales o coligadas de que se trata, sean éstas filiales que complementan el giro o sociedades de apoyo al giro que tengan el carácter de filiales o coligadas, se registrarán en el activo a su valor patrimonial proporcional (VPP).
-
-Dicho método de contabilización se aplicará siguiendo los criterios señalados en el Boletín Técnico N° 42 del Colegio de Contadores de Chile A.G., debiendo reconocerse proporcionalmente los resultados, las demás variaciones patrimoniales y, cuando proceda, los efectos de las utilidades no realizadas y de la homologación de criterios contables.
-
-El cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión en una sociedad filial o en una sociedad coligada sujeta a la fiscalización de esta Superintendencia, se efectuará al cierre de cada mes, de acuerdo con los resultados de la empresa subsidiaria o relacionada a la misma fecha. Al tratarse de una sociedad coligada sujeta a la fiscalización de otra superintendencia, el ajuste podrá basarse en los resultados obtenidos por la empresa relacionada hasta el mes inmediatamente anterior, salvo cuando se trate del cierre del ejercicio anual, en que se deberán tomar sus resultados definitivos hasta el 31 de diciembre.
-
-Las inversiones se reflejarán en las siguientes cuentas de la partida 2320: "Inversiones en filiales que complementan el giro", "Inversiones en sociedades de apoyo al giro" e "Inversiones en coligadas con giro complementario", según se trate de las sociedades señaladas en los títulos II, III o IV de este Capítulo, respectivamente.
-
-Las utilidades reconocidas proporcionalmente se registrarán en las siguientes cuentas de la partida 8350, según sea el caso: "Utilidades de filiales que complementan el giro"; "Utilidades de sociedades de apoyo al giro"; o bien, "Utilidades de coligadas con giro complementario". En caso de pérdidas, se utilizarán las siguientes cuentas de la partida 6350: "Pérdidas de filiales que complementan el giro"; "Pérdidas de sociedades de apoyo al giro"; o bien, "Pérdidas de coligadas con giro complementario".
-
-Las utilidades no realizadas se abonarán a la cuenta "Utilidades no realizadas" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 8350. Para reconocer posteriormente los ingresos se efectuará la contabilización inversa.
-
-1.2. Mayor o menor valor pagado en inversiones en sociedades ya constituidas.
-
-En el evento de que se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el costo y el valor patrimonial proporcional determinado a la fecha de la adquisición, se tratarán de la siguiente forma:
-
-a) Valor pagado mayor que el VPP ("Goodwill"): Cuando el valor pagado sea mayor que el valor patrimonial proporcional, la diferencia se registrará en la cuenta "Mayor valor pagado en inversiones en sociedades" de la partida 2120 y se amortizará en el período esperado de retorno de la inversión, con cargo a la cuenta "Amortización mayor valor pagado en inversiones en sociedades" de la partida 6315, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. En todo caso, ese período de amortización no podrá exceder de 10 años.
-
-b) Valor pagado menor que el VPP: Si el valor pagado fuere menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Menor valor pagado en inversiones en sociedades" de la partida 4120 y se amortizará con abono a la cuenta "Amortización menor valor pagado en inversiones en sociedades", de la partida 8315, en un plazo de diez años, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. No obstante, si la inversión en la respectiva sociedad filial o coligada origina pérdidas en un ejercicio, el monto que se traspase a resultados podrá ser equivalente a esas pérdidas.
-
-El saldo de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Menor valor pagado en inversiones en sociedades" antes señaladas, deberá ajustarse proporcionalmente en caso de enajenaciones parciales o cambios en los porcentajes de participación en las sociedades por cuya inversión se originaron.
-
-### 2. Inversiones minoritarias en sociedades de apoyo al giro
-
-Las inversiones en sociedades de apoyo al giro en que el banco tenga una participación inferior al 10% o no pueda elegir a lo menos un director o administrador, se registrarán en la cuenta "Inversiones en sociedades de apoyo al giro" de la partida 2320, a su valor de costo más corrección monetaria. Las utilidades se reconocerán contablemente sólo al momento de recibir los dividendos o beneficios que la sociedad reparta y sus importes se registrarán con abono a la cuenta "Utilidades de sociedades de apoyo al giro" de la partida 8350.
-
-El banco deberá, sin embargo, constituir provisiones para cubrir las pérdidas en que haya incurrido una sociedad. Para ese efecto calculará el importe de la provisión tomando como valor mínimo de referencia de la inversión, el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren sus estados financieros.
-
-Las provisiones de que se trata se abonarán a la cuenta "Provisiones sobre inversiones en sociedades" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 6350.
-
-### VII. OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LOS BANCOS
+### VI. OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LOS BANCOS
 
 ### 1. Tenencia transitoria de acciones o derechos en sociedades
 
 Además de las inversiones en sociedades tratadas en los títulos precedentes, los bancos pueden mantener transitoriamente y dentro de los límites establecidos en la ley: a) Acciones o derechos en sociedades recibidos en pago o adjudicados en remate judicial por deudas previamente contraídas a favor del banco, según lo previsto en el N° 5 del artículo 84 de la Ley General de Bancos; y b) Acciones de primera emisión adquiridas en virtud de la garantía otorgada como agente colocador, según lo dispuesto en el artículo 69 N° 25 de la misma ley.
 
-Las acciones o derechos antes mencionados deben ser enajenados en los plazos y forma señalados en la ley y en las normas de esta Superintendencia sobre la materia, y se registrarán contablemente de acuerdo con las normas específicas que las tratan.
+Las acciones o derechos antes mencionados deben ser enajenados en los plazos y forma señalados en la ley y en las normas de esta Superintendencia sobre la materia.
 
 ### 2. Acciones de empresas de utilidad pública
 
 Los bancos también pueden poseer acciones de empresas de suministro de servicios de utilidad pública correspondientes al reembolso de aportes por instalaciones o ampliaciones de los respectivos servicios, en la medida que su adquisición sea la única forma de acceder a ellos y de obtener el reembolso de los aportes efectuados en conformidad con las disposiciones pertinentes. Estas acciones no serán consideradas como inversiones en sociedades para los efectos legales y reglamentarios mencionados en este Capítulo.
-
-Las acciones de que se trata se registrarán en la cuenta "Acciones de empresas de utilidad pública" de la partida 1775 y quedarán valorizadas en el activo al menor valor entre su costo corregido monetariamente y su valor de mercado. Los resultados por los dividendos percibidos o por los ajustes a valor de mercado que procedan, se registrarán en cuentas de las partidas 8315 ó 6315, según corresponda.
 
 ### 3. Alcance de estas disposiciones
 
@@ -11442,25 +9758,21 @@ Esta Superintendencia podrá requerir información adicional relativa al giro es
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
-CAPITULO 11-7 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 11-7
 
 SUCURSALES E INVERSIONES EN BANCOS Y OTRAS SOCIEDADES EN EL EXTERIOR.
 
-I.- AUTORIZACION PARA ABRIR OFICINAS Y SUCURSALES E INVERTIR EN SOCIEDADES EN EL EXTERIOR.
+### I. AUTORIZACIÓN PARA ABRIR OFICINAS Y SUCURSALES E INVERTIR EN SOCIEDADES EN EL EXTERIOR
 
-1.- Facultad de abrir oficinas e invertir en sociedades.
+### 1. Facultad de abrir oficinas e invertir en sociedades
 
-De conformidad con lo dispuesto en el artículo 76 de la Ley General de Bancos, los bancos podrán abrir sucursales y oficinas de representación en el extranjero, efectuar inversiones en acciones de bancos establecidos en el extranjero o de empresas constituidas en el exterior que tengan alguno de los giros autorizados en los artículos 70 y 74 de la Ley General de Bancos.
-
-Por otra parte, de acuerdo con lo dispuesto en el artículo 117 de la Ley General de Bancos, las sociedades financieras podrán abrir sucursales en el extranjero o participar en sociedades establecidas en el exterior que tengan alguno de los giros que autorizan los artículos 70 y 74 antes mencionados. En ningún caso podrán adquirir participación en sociedades del giro bancario, como tampoco están facultadas para abrir oficinas de representación en el exterior.
+De conformidad con lo dispuesto en el artículo 6 de la Ley General de Bancos, los bancos podrán abrir sucursales y oficinas de representación en el extranjero, efectuar inversiones en acciones de bancos establecidos en el extranjero o de empresas constituidas en el exterior que tengan alguno de los giros autorizados en los artículos 70 y 74 de la Ley General de Bancos.
 
 Para abrir sucursales y oficinas de representación en el extranjero, será necesaria la autorización previa de esta Superintendencia y para efectuar las otras inversiones antes señaladas, se requerirá, además, la autorización del Banco Central de Chile.
 
-2.- Requisitos para solicitar autorización.
+### 2. Requisitos para solicitar autorización
 
-Las instituciones financieras que soliciten autorización para abrir oficinas o efectuar las inversiones señaladas precedentemente, deberán reunir los siguientes requisitos:
+Los bancos que soliciten autorización para abrir oficinas o efectuar las inversiones señaladas precedentemente, deberán reunir los siguientes requisitos:
 
 a) Cumplir con los porcentajes mínimos de patrimonio efectivo y de capital básico que exige el artículo 66 de la Ley General de Bancos, tratados en el Capítulo 12-1 de esta Recopilación.
 
@@ -11472,41 +9784,41 @@ d) Que el país en el que se efectuará la inversión o se abrirá la oficina, o
 
 e) Que, si en la empresa establecida en el exterior, participan socios o accionistas con un porcentaje igual o superior al 10% del capital de ella, cumplan con los requisitos establecidos en el artículo 36 de la Ley General de Bancos.
 
-Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, las instituciones financieras interesadas deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
+Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, los bancos interesados deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
 
-3.- Tramitación de la solicitud.
+### 3. Tramitación de la solicitud
 
-3.1.- Procedimiento normal.
+3.1. Procedimiento normal.
 
 De acuerdo con el artículo 78 de la Ley General de Bancos, esta Superintendencia dispone de un plazo de 90 días para aceptar o rechazar la solicitud, a contar de la fecha en que ésta le haya sido presentada.
 
 Por otra parte, la ley establece un plazo de 45 días para que esta Superintendencia pida antecedentes adicionales.
 
-En caso de rechazar la solicitud, este Organismo debe comunicar reservadamente a la institución financiera la causal de su pronunciamiento.
+En caso de rechazar la solicitud, este Organismo debe comunicar reservadamente al banco la causal de su pronunciamiento.
 
-3.2.- Procedimiento especial.
+3.2. Procedimiento especial.
 
-Las instituciones financieras podrán acogerse a un procedimiento de trámite especial para solicitar autorización para abrir sucursales o invertir en el exterior.
+Los bancos podrán acogerse a un procedimiento de trámite especial para solicitar autorización para abrir sucursales o invertir en el exterior.
 
 En este caso, el plazo para requerir antecedentes complementarios será de 22 días y el pronunciamiento definitivo de esta Superintendencia respecto de la solicitud, será de 45 días contados desde su presentación. En caso de ser rechazada, tal decisión debe comunicarse mediante una resolución fundada, la que será susceptible del recurso de reclamación de acuerdo con lo dispuesto en el artículo 22 de la Ley General de Bancos.
 
-Las instituciones financieras sólo podrán acogerse a este procedimiento especial cuando, además de los requisitos señalados en el N° 2 precedente, reúnan en forma copulativa los que se indican a continuación:
+Los bancos sólo podrán acogerse a este procedimiento especial cuando, además de los requisitos señalados en el N° 2 precedente, reúnan en forma copulativa los que se indican a continuación:
 
 i) Exceder en un 25% el porcentaje mínimo de patrimonio efectivo, esto es, que éste no sea inferior al 10% de los activos ponderados por riesgo.
 
 ii) Estar calificadas en categoría I por esta Superintendencia, según la clasificación de gestión y solvencia.
 
-iii)Que la inversión corresponda a la apertura de una sucursal o adquisición de acciones o derechos que representen más del 50% del capital de una empresa extranjera, o bien, que se trate de una inversión con una participación igual o minoritaria siempre que los demás socios participantes residan en Chile. No obstante, podrá también tratarse de inversiones con una participación igual o minoritaria en que participen socios o accionistas no residentes en Chile. En este caso el procedimiento de autorización especial de que trata este numeral 3.2 quedará sujeto al trámite de consulta que, conforme a la ley, debe efectuar esta Superintendencia al organismo de supervisión del respectivo país, respecto de los socios y de los ejecutivos superiores de la empresa, en relación con las exigencias del inciso cuarto del artículo 36 de la Ley General de Bancos.
+iii) Que la inversión corresponda a la apertura de una sucursal o adquisición de acciones o derechos que representen más del 50% del capital de una empresa extranjera, o bien, que se trate de una inversión con una participación igual o minoritaria siempre que los demás socios participantes residan en Chile. No obstante, podrá también tratarse de inversiones con una participación igual o minoritaria en que participen socios o accionistas no residentes en Chile. En este caso el procedimiento de autorización especial de que trata este numeral 3.2 quedará sujeto al trámite de consulta que, conforme a la ley, debe efectuar esta Superintendencia al organismo de supervisión del respectivo país, respecto de los socios y de los ejecutivos superiores de la empresa, en relación con las exigencias del inciso cuarto del artículo 36 de la Ley General de Bancos.
 
 iv) Que el país en el que se efectuará la inversión o instalará la sucursal tenga condiciones de riesgo calificadas en primera categoría por una empresa calificadora internacional que figure en la nómina incluida en el Capítulo 1-12 de esta Recopilación, o bien, que exista un convenio de colaboración recíproca suscrito entre esta Superintendencia y el organismo supervisor del respectivo país.
 
-3.3.- Certificación.
+3.3. Certificación.
 
 El artículo 79 de la Ley General de Bancos establece que si esta Superintendencia no dicta una resolución denegatoria dentro del plazo de que dispone, la institución solicitante puede requerir un certificado que acredite ese hecho y que hará las veces de autorización.
 
-4.- Modificaciones en los estatutos o actividades y cambios en la participación o en el control.
+4. Modificaciones en los estatutos o actividades y cambios en la participación o en el control.
 
-Dado que la autorización para efectuar una inversión en una sociedad en el exterior se otorgará considerando la participación que tendrá la institución financiera en la propiedad o gestión de dicha sociedad, todos los actos posteriores de la entidad financiera inversora que originen una disminución en el porcentaje de su participación o de su influencia en ella en su calidad de socio o accionista, requerirán también de la autorización previa de esta Superintendencia.
+Dado que la autorización para efectuar una inversión en una sociedad en el exterior se otorgará considerando la participación que tendrá el banco en la propiedad o gestión de dicha sociedad, todos los actos posteriores del banco inversor que originen una disminución en el porcentaje de su participación o de su influencia en ella en su calidad de socio o accionista, requerirán también de la autorización previa de esta Superintendencia.
 
 Por otra parte, debido a que el giro de la empresa en la cual se participe debe ajustarse a las funciones propias de un banco o de una sociedad que desarrolle alguna de las actividades de que tratan los artículos 70 y 74 de la Ley General de Bancos, las modificaciones en esta materia de los estatutos, como asimismo de las actividades o de las inversiones permanentes que mantengan las sociedades filiales u otras sociedades que de acuerdo con la ley quedan sujetas a la fiscalización de este Organismo, deberán contar también con la conformidad previa de esta Superintendencia.
 
@@ -11514,89 +9826,83 @@ Por último, los cambios en la participación de terceros en el capital de las s
 
 Lo indicado en los párrafos precedentes es sin perjuicio de la información que deberá enviarse a esta Superintendencia acerca de cambios en los estatutos o en la participación de terceros, cuando se trate de sociedades en que las instituciones participen en forma minoritaria.
 
-II.- NORMAS GENERALES.
+### II. NORMAS GENERALES
 
-1.- Inversiones en sociedades del exterior que pueden mantener las instituciones financieras.
+### 1. Inversiones en sociedades del exterior que pueden mantener los bancos
 
-Las instituciones financieras pueden poseer las siguientes acciones o derechos en sociedades en el exterior, con las autorizaciones previas de que trata el título I de este Capítulo:
+Los bancos pueden poseer las siguientes acciones o derechos en sociedades en el exterior, con las autorizaciones previas de que trata el título I de este Capítulo:
 
 a) Inversiones en sociedades filiales, tratadas en el título IV de este Capítulo.
 
-b) Participación minoritaria en bancos u otras sociedades, tratadas en el título y de este Capítulo.
+b) Participación minoritaria en bancos u otras sociedades, tratadas en el título V de este Capítulo.
 
-En ningún caso las sociedades financieras pueden participar en entidades que ejerzan el giro bancario.
+### 2. Límites de inversiones
 
-2.- Límites de inversiones.
-
-2.1 - Límite global que afecta a las inversiones en sociedades.
+2.1. Límite global que afecta a las inversiones en sociedades.
 
 Las inversiones mencionadas en el N° 1 se encuentran comprendidas dentro del límite general de inversiones de que trata el inciso segundo del artículo 69 de la Ley General de Bancos y el Capítulo 12-10 de esta Recopilación.
 
-2.2.- Límite de inversiones en un mismo país.
+2.2. Límite de inversiones en un mismo país.
 
-De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de Bancos, los bancos constituidos en Chile sólo podrán invertir hasta un 40% de su patrimonio efectivo sin consolidar, en bancos u otras sociedades establecidas en un mismo país. Ese porcentaje incluirá también a las sucursales que mantuvieren en el mismo país Para la aplicación de este límite se tomarán los saldos de los activos de la institución financiera que correspondan a sucursales e inversiones en sociedades en un mismo país, incluido el "goodwill" que exista.
+De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de Bancos, los bancos constituidos en Chile sólo podrán invertir hasta un 40% de su patrimonio efectivo sin consolidar, en bancos u otras sociedades establecidas en un mismo país. Ese porcentaje incluirá también a las sucursales que mantuvieren en el mismo país. Para la aplicación de este límite se tomarán los saldos de los activos del banco que correspondan a sucursales e inversiones en sociedades en un mismo país, incluido el "goodwill" que exista.
 
-La misma limitación afecta a las sociedades financieras constituidas en Chile, con respecto a sus sucursales y a las sociedades en las que inviertan en el exterior.
+### 3. Otras exigencias legales de carácter general
 
-3.- Otras exigencias legales de carácter general.
+a) Las disposiciones de los N°s. 1, 2 y 4 del artículo 84 de la Ley General de Bancos, deben cumplirse computando los activos consolidados del banco con sus filiales y sucursales en el exterior que se encuentren establecidas en países clasificados en primera categoría de riesgo por empresas calificadoras internacionales. Por consiguiente, dichas filiales y sucursales, además de cumplir con las disposiciones del país anfitrión, deben sujetar sus operaciones de crédito a las instrucciones que les imparta el banco matriz para cumplir con las disposiciones de la Ley General de Bancos antes indicadas. Lo mismo se aplica para las filiales y sucursales que no se consolidan para estos efectos, en relación con los créditos otorgados a deudores relacionados con el banco y los otorgados a personas residentes o domiciliadas en Chile.
 
-a) Las disposiciones de los N°s 1, 2 y 4 del artículo 84 de la Ley General de Bancos, deben cumplirse computando los activos consolidados de la institución financiera con sus filiales y sucursales en el exterior que se encuentren establecidas en países clasificados en primera categoría de riesgo por empresas calificadoras internacionales. Por consiguiente, dichas filiales y sucursales, además de cumplir con las disposiciones del país anfitrión, deben sujetar sus operaciones de crédito a las instrucciones que les imparta la institución financiera matriz para cumplir con las disposiciones de la Ley General de Bancos antes indicadas. Lo mismo se aplica para las filiales y sucursales que no se consolidan para estos efectos, en relación con los créditos otorgados a deudores relacionados con la institución financiera y los otorgados a personas residentes o domiciliadas en Chile.
+b) La suma de los depósitos, préstamos y otras acreencias que los bancos chilenos mantengan, ya sea directamente o a través de otras personas, en sociedades del giro bancario de las que sean accionistas, incluidas sus filiales, no podrán exceder del 25% del patrimonio efectivo de la entidad extranjera. Esta disposición del N° 2 del artículo 80 de la Ley General de Bancos alcanza a todos los depósitos a la vista o a plazo y los créditos que otorgue el banco chileno, sus sucursales en el exterior y sus filiales, como asimismo los efectuados por cualquier persona a través de la cual el banco o una sucursal o filial provea de fondos a la entidad extranjera a que se refiere este límite.
 
-b) La suma de los depósitos, préstamos y otras acreencias que los bancos chilenos mantengan, ya sea directamente o a través de otras personas, en sociedades del giro bancario de las que sean accionistas, incluidas sus filiales, no podrán exceder del 25% del patrimonio efectivo de la entidad extranjera. Esta disposición del N° 2 del artículo 80 de la Ley General de Bancos alcanza a todos los depósitos a la vista o a plazo y los créditos que otorgue la institución financiera o una sucursal o filial chilena, sus sucursales en el exterior y sus filiales, como asimismo los efectuados por cualquier persona a través de la cual la institución financiera provea de fondos a la entidad extranjera a que se refiere este límite.
+c) Los bancos chilenos podrán avalar, afianzar o, en cualquier forma, caucionar obligaciones de bancos u otras sociedades en las que participen en el extranjero, con sujeción al límite señalado en la letra a) precedente y dentro de los márgenes generales mencionados en el Capítulo 8-10 de esta Recopilación.
 
-c) Las instituciones financieras chilenas podrán avalar, afianzar o, en cualquier forma, caucionar obligaciones de bancos u otras sociedades en las que participen en el extranjero, con sujeción al límite señalado en la letra a) precedente y dentro de los márgenes generales mencionados en el Capítulo 8-10 de esta Recopilación.
+d) Los bancos chilenos deberán proporcionar a esta Superintendencia información sobre las entidades extranjeras en que participen, sin perjuicio de la obligación que imponen los artículos 9° y 10 de la Ley N° 18.045. Dicha información se entregará conforme a lo previsto en los títulos IV y V de este Capítulo.
 
-d) Las instituciones financieras chilenas deberán proporcionar a esta Superintendencia información sobre las entidades extranjeras en que participen, sin perjuicio de la obligación que imponen los artículos 9° y 10 de la Ley N° 18.045. Dichas información se entregará conforme a lo previsto en los títulos IV y y de este Capítulo.
+e) Los bancos chilenos tendrán la obligación de obtener los resguardos necesarios para que los créditos o garantías que las entidades no sujetas a su control en las que participen en el extranjero concedan a deudores relacionados directamente o a través de otras personas, a la propiedad o gestión del banco chileno participante, se sujeten a los límites que para tal efecto establece la Ley General de Bancos de Chile. Tendrán también la obligación de obtener dichos resguardos para que los créditos a personas domiciliadas o residentes en Chile se sujeten a los límites contemplados en el artículo 84, N° 1 y a las normas del artículo 85 de la ley mencionada.
 
-e) Los bancos o sociedades financieras chilenos tendrán la obligación de obtener los resguardos necesarios para que los créditos o garantías que las entidades no sujetas a su control en las que participen en el extranjero concedan a deudores relacionados directamente o a través de otras personas, a la propiedad o gestión de la institución financiera chilena participante, se sujeten a los límites que para tal efecto establece la Ley General de Bancos de Chile. Tendrán también la obligación de obtener dichos resguardos para que los créditos a personas domiciliadas o residentes en Chile se sujeten a los límites contemplados en el artículo 84 N° 1 y a las normas del artículo 85 de la ley mencionada.
+### 4. Operaciones entre partes relacionadas
 
-4.- Operaciones entre partes relacionadas.
+4.1. Condiciones que deben cumplir las operaciones.
 
-4.1.- Condiciones que deben cumplir las operaciones.
+Los actos, contratos, negocios y operaciones entre un banco y sus sucursales y sociedades filiales, de estas últimas entre sí, y de ellas con personas relacionadas al banco, deberán observar condiciones de equidad, equivalentes a las que habitualmente prevalecen en el mercado.
 
-Los actos, contratos, negocios y operaciones entre una institución financiera y sus sucursales y sociedades filiales, de estas últimas entre sí, y de ellas con personas relacionadas al banco o sociedad financiera, deberán observar condiciones de equidad, equivalentes a las que habitualmente prevalecen en el mercado.
+Todas las transacciones efectuadas entre un banco y una sucursal de él o una sociedad filial, como asimismo las realizadas entre sí, deberán quedar debidamente identificadas en las entidades participantes, a fin de permitir la obtención de la información que esta Superintendencia pueda requerir acerca de las operaciones entre ellas y para efectos de la consolidación de los estados financieros de la matriz en Chile.
 
-Todas las transacciones efectuadas entre la institución financiera y una sucursal de ella o una sociedad filial, como asimismo las realizadas entre sí, deberán quedar debidamente identificadas en las entidades participantes, a fin de permitir la obtención de la información que esta Superintendencia pueda requerir acerca de las operaciones entre ellas y para efectos de la consolidación de los estados financieros de la matriz en Chile.
+4.2. Tenencia de acciones de la matriz.
 
-4.2.- Tenencia de acciones de la matriz.
+Atendidas las disposiciones que rigen para las sociedades filiales constituidas en Chile, los bancos deberán tomar los resguardos necesarios para que sus sucursales o filiales en el exterior no adquieran bajo ningún concepto acciones o títulos representativos de acciones de su matriz.
 
-Atendidas las disposiciones que rigen para las sociedades filiales constituidas en Chile, las instituciones financieras deberán tomar los resguardos necesarios para que sus sucursales o filiales en el exterior no adquieran bajo ningún concepto acciones o títulos representativos de acciones de su matriz.
+4.3. Créditos otorgados a las sociedades en que participe el banco o sus filiales.
 
-4.3.- Créditos otorgados a las sociedades en que participe la institución financiera o sus filiales.
+De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades constituidas en el país o en el exterior en que el banco o sus filiales tengan participación y cuyas operaciones no se consolidan para efecto de los límites de crédito del artículo 84 de la Ley General de Bancos, conformarán un solo grupo de empresas vinculadas para las limitaciones establecidas en el N° 2 de ese artículo.
 
-De acuerdo con lo dispuesto en el Capítulo 12-4 de esta Recopilación, las sociedades constituidas en el país o en el exterior en que la institución financiera o sus filiales tengan participación y cuyas operaciones no se consolidan para efecto de los límites de crédito del artículo 84 de la Ley General de Bancos, conformarán un solo grupo de empresas vinculadas para las limitaciones establecidas en el N° 2 de ese artículo.
+### 5. Fiscalización de las sucursales y filiales en el exterior
 
-5.- Fiscalización de las sucursales y filiales en el exterior.
+Sobre la base de lo dispuesto en los artículos 81 y 82 de la Ley General de Bancos, esta Superintendencia ejercerá la fiscalización de las sucursales que los bancos establezcan en el exterior, como asimismo de las sociedades en las que inviertan en el extranjero, siempre que, de acuerdo con la norma del artículo 86 de la Ley N° 18.046, éstas tengan el carácter de filial del banco.
 
-Sobre la base de lo dispuesto en los artículos 81 y 82 de la Ley General de Bancos, esta Superintendencia ejercerá la fiscalización de las sucursales que los bancos y financieras establezcan en el exterior, como asimismo de las sociedades en las que inviertan en el extranjero, siempre que, de acuerdo con la norma del artículo 86 de la Ley N° 18.046, éstas tengan el carácter de filial del banco o financiera chilenos.
+Para establecer las circunstancias que, para los efectos de su fiscalización, determinen la calidad de filial de una sociedad establecida en el exterior, se considerarán como una sola entidad todos los bancos y sus filiales que tengan participación en esas sociedades.
 
-Para establecer las circunstancias que, para los efectos de su fiscalización, determinen la calidad de filial de una sociedad establecida en el exterior, se considerarán como una sola entidad todos los bancos y sociedades financieras, y sus filiales que tengan participación en esas sociedades.
-
-La fiscalización de las filiales que los bancos y financieras mantengan en el exterior, será ejercida por esta Superintendencia de conformidad con los convenios que se hayan suscrito con el organismo de supervisión del país en el que se establezcan.
+La fiscalización de las filiales que los bancos mantengan en el exterior, será ejercida por esta Superintendencia de conformidad con los convenios que se hayan suscrito con el organismo de supervisión del país en el que se establezcan.
 
 Dichos convenios persiguen una cooperación recíproca que permita al organismo supervisor del país en que reside una sociedad matriz, efectuar un seguimiento oportuno de la actividad de una filial o sucursal en el exterior, mediante la colaboración del organismo supervisor del país anfitrión, y le otorgue a este último un adecuado conocimiento de la situación de la matriz y del grupo económico en su conjunto.
 
 En ese contexto, los convenios deben referirse a aspectos tales como: la necesidad de supervisar, en sus respectivos ámbitos, la organización, gestión, riesgos, controles internos, suficiencia de capital y todos los aspectos que pueden afectar la solvencia y estabilidad de las empresas, debiendo disponerse de información de las entidades que componen el grupo; el intercambio de información relevante acerca de las empresas y de su entorno, en todo lo que pueda repercutir en su estabilidad; la posibilidad de que el supervisor de la matriz realice inspecciones "in-situ" a las subsidiarias en el extranjero, con la anuencia previa o con participación de la entidad supervisora del país anfitrión; el intercambio de información relevante acerca de los resultados de las respectivas inspecciones realizadas; etc. Todo ello, con los correspondientes resguardos de la confidencialidad de la información sujeta a reserva por las disposiciones legales de los respectivos países.
 
-III.- SUCURSALES EN EL EXTERIOR.
+### III. SUCURSALES EN EL EXTERIOR
 
-1.- Facultad para abrir sucursales en el exterior.
+### 1. Facultad para abrir sucursales en el exterior
 
 El artículo 81 de la Ley General de Bancos faculta a las empresas bancarias para abrir sucursales en el exterior, sujetas a las normas de operación que la propia ley establece expresamente y a la fiscalización de esta Superintendencia.
 
-El artículo 117 de la ley faculta también a las sociedades financieras para abrir sucursales fuera del país. En todo caso, las actividades que desarrollen las sucursales que las sociedades financieras puedan mantener en el exterior, deben atenerse a las disposiciones que se aplican a las sucursales bancarias, con observancia de las limitaciones y prohibiciones establecidas en los artículos 115 y 116 de la Ley General de Bancos, todo ello en concordancia con lo que les permita la legislación del país anfitrión.
+### 2. Capital asignado
 
-2.- Capital asignado.
-
-En el caso de que los bancos consoliden con sus sucursales en el exterior, se considerará como capital asignado, para los efectos previstos en el artículo 81 de la Ley General de Bancos, así como para las exigencias de capital de la matriz y para los límites de crédito, el valor de la inversión efectuada en ellas que la casa matriz tenga registrado en su activo, de acuerdo con las normas contables del título VI de este Capítulo, que consideran los aportes efectivos de capital.
+En el caso de que los bancos consoliden con sus sucursales en el exterior, se considerará como capital asignado, para los efectos previstos en el artículo 81 de la Ley General de Bancos, así como para las exigencias de capital de la matriz y para los límites de crédito, el valor de la inversión efectuada en ellas que la casa matriz tenga registrado en su activo, de acuerdo con las normas contables que consideran los aportes efectivos de capital.
 
 Dicho capital asignado será el que se aplique para los requerimientos de capital y límites para las operaciones de sucursales en el exterior mencionados en el N° 3 siguiente.
 
-Si la institución financiera tiene más de una sucursal en un mismo país, se considerará el conjunto de esas sucursales como una sola entidad para estos efectos.
+Si el banco tiene más de una sucursal en un mismo país, se considerará el conjunto de esas sucursales como una sola entidad para estos efectos.
 
-3.- Límites de la Ley General de Bancos que rigen a una sucursal y que no se aplican en forma consolidada con la matriz.
+3. Límites de la Ley General de Bancos que rigen a una sucursal y que no se aplican en forma consolidada con la matriz.
 
-Además de cumplir con las normas del país anfitrión y de lo indicado en el N° 3 del título II de este Capítulo, las sucursales en el exterior deben sujetar sus operaciones a los siguientes límites establecidos en relación con su capital asignado, en concordancia con lo previsto en el N° 2 del artículo 81 de la Ley General de Bancos y lo dispuesto en el N° 2 precedente.
+Además de cumplir con las normas del país anfitrión y de lo indicado en el N° 3 del título II de este Capítulo, las sucursales en el exterior deben sujetar sus operaciones a los siguientes límites establecidos en relación con su capital asignado, en concordancia con lo previsto en el N° 2 del artículo 81 de la Ley General de Bancos y lo dispuesto en el N° 2 precedente:
 
 a) El capital asignado de una sucursal no podrá ser inferior al 3% de su activo total, medido de acuerdo con las reglas del Capítulo 12-1 de esta Recopilación.
 
@@ -11606,85 +9912,75 @@ c) Los bienes recibidos en pago por una sucursal no podrán superar el 20% de su
 
 Cuando exista más de una sucursal en un mismo país, se considerará el capital asignado total y los activos u operaciones consolidadas de las sucursales situadas en ese país.
 
-Si se tratara de una sucursal que no se consolida con su matriz para los efectos indicados en el Capítulo 12-1 de esta Recopilación, la sucursal debe sujetarse, además, a las disposiciones de los N°s 1 y 3 del artículo 81 de la Ley General de Bancos.
+Si se tratara de una sucursal que no se consolida con su matriz para los efectos indicados en el Capítulo 12-1 de esta Recopilación, la sucursal debe sujetarse, además, a las disposiciones de los N°s. 1 y 3 del artículo 81 de la Ley General de Bancos.
 
-4.- Estados financieros de las sucursales según criterios contables chilenos.
+4. Estados financieros de las sucursales según criterios contables chilenos.
 
-Las instituciones financieras deberán presentar mensualmente estados financieros de sus sucursales en el exterior, ajustados a los criterios contables de la matriz y expresados en moneda chilena, siguiendo para el efecto los procedimientos técnicos de homologación y conversión aludidos en el título VI de este Capítulo.
+Para efectos de consolidación y eventuales requerimientos de información de esta Superintendencia, los bancos deberán preparar mensualmente estados financieros de sus sucursales en el exterior, ajustados a los criterios contables de la matriz y expresados en moneda chilena.
 
-Estos estados servirán de base para registrar el valor de la inversión en la contabilidad de la casa matriz.
+5. Información a esta Superintendencia relativa a las operaciones de la sucursal.
 
-Los estados de que se trata serán enviados por la casa matriz a esta Superintendencia de acuerdo con las instrucciones que se incorporen para el efecto en el Manual del Sistema de Información.
+Los bancos deberán enviar periódicamente a esta Superintendencia la información acerca de los créditos y otras operaciones o saldos de sus sucursales, conforme a lo que se establezca para el efecto en las instrucciones del Manual del Sistema de Información, sin perjuicio de otra información no estandarizada o específica que se exija mediante instrucciones generales o por requerimientos especiales.
 
-Sin perjuicio de lo anterior, cuando estos estados financieros se refieran al ejercicio anual, la institución financiera matriz los entregará también, según lo previsto en el Capítulo 18-1 de esta Recopilación, acompañados de sus correspondientes notas, de acuerdo con los criterios contables chilenos, y de un dictamen de los auditores externos que hayan emitido su opinión sobre el balance consolidado de la matriz.
-
-5.- Información a esta Superintendencia relativa a las operaciones de la sucursal.
-
-Las instituciones financieras deberán enviar periódicamente a esta Superintendencia la información acerca de los créditos y otras operaciones o saldos de sus sucursales, conforme a lo que se establezca para el efecto en las instrucciones del Manual del Sistema de Información, sin perjuicio de otra información no estandarizada o específica que se exija mediante instrucciones generales o por requerimientos especiales.
-
-6.- Estados financieros para su presentación o divulgación en el exterior.
+### 6. Estados financieros para su presentación o divulgación en el exterior
 
 A más tardar dentro de los diez días hábiles siguientes a su emisión, deberán entregarse a esta Superintendencia, los estados financieros anuales preparados por las sucursales, destinados a su presentación o divulgación en el país en que estén radicadas.
 
-7.- Auditores externos.
+### 8. Auditores externos
 
 Los estados financieros de las sucursales en el exterior deberán ser auditados por una empresa de auditores externos que representen la misma firma internacional a la que pertenezca la empresa que realiza la auditoría de la casa matriz en Chile, salvo que esa firma no tenga presencia en el país o que ello no fuera posible por aplicación de normas que exijan rotación de auditores, casos en los cuales se designará una empresa de la misma firma a que pertenezca o se encuentre asociado alguno de los auditores inscritos en el registro de esta Superintendencia.
 
-IV.- FILIALES EN EL EXTERIOR.
+### IV. FILIALES EN EL EXTERIOR
 
-1.- Negocios de las filiales.
+### 1. Negocios de las filiales
 
-1.1.- Filiales que desarrollen el giro principal de la matriz.
+1.1. Filiales que desarrollen el giro principal de la matriz.
 
 Los bancos pueden tener participación en bancos del exterior, entendiendo por tales las empresas que desarrollan las actividades genéricamente descritas en el artículo 40 de la Ley General de Bancos.
 
-Las sociedades financieras, en cambio, por lo dispuesto en el artículo 117 de la Ley General de Bancos, no pueden mantener filiales en el exterior que realicen actividades propias de los bancos.
+1.2. Filiales que desarrollen los giros permitidos a filiales en Chile.
 
-1.2.- Filiales que desarrollen los giros permitidos a filiales en Chile. Los bancos, como asimismo las sociedades financieras, pueden tener participación en sociedades filiales en el exterior que tengan alguno de los giros que autoriza el artículo 70 para las filiales en Chile.
+Los bancos pueden tener participación en sociedades filiales en el exterior que tengan alguno de los giros que autoriza el artículo 70 para las filiales en Chile.
 
 Esas filiales que se constituyan en el exterior deben tener como giro exclusivo la actividad que permite la ley chilena a las filiales en el país y, por lo tanto, no podrán tener participación en otras sociedades ni efectuar negocios ajenos a su giro.
 
 La similitud de las operaciones permitidas por la legislación extranjera con respecto a las permitidas en Chile a sociedades que se rigen por disposiciones legales especiales, será objeto, en cada caso, de una calificación de esta Superintendencia.
 
-2.- Carácter de sociedad filial.
+### 2. Carácter de sociedad filial
 
 La Ley N° 18.046 define como sociedad filial de una sociedad anónima aquélla en la que ésta controla directamente o a través de otra persona natural o jurídica, más del 50 por ciento del capital con derecho a voto, o simplemente del capital si se tratare de una sociedad no constituida por acciones, o bien, si puede elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores.
 
 Las filiales a que se refiere este título deben cumplir esas condiciones, pudiendo constituirse una sociedad con ese objeto o bien adquirir tal control en una empresa que ya se encuentre en funcionamiento.
 
-3.- Operaciones de crédito, depósitos y otras acreencias.
+### 3. Operaciones de crédito, depósitos y otras acreencias
 
 Además de cumplir con las normas del país anfitrión, las filiales en el exterior deben sujetar sus operaciones a lo establecido por su matriz para dar cumplimiento a lo indicado en las letras a) y b) del N° 3 del título II de este Capítulo.
 
-4.- Patrimonio efectivo de una filial.
+### 4. Patrimonio efectivo de una filial
 
 Para cumplir con lo establecido en el N° 2 del artículo 80 de la Ley General de Bancos, el patrimonio efectivo de una filial bancaria corresponderá al que se determina de acuerdo con los balances señalados en el N° 5 siguiente.
 
-5.- Estados financieros preparados de acuerdo con las normas chilenas.
+### 5. Estados financieros preparados de acuerdo con las normas chilenas
 
-Las instituciones financieras deberán presentar a lo menos trimestralmente y referidos al 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre de cada año, estados financieros de sus filiales en el exterior, ajustados a los criterios contables de la matriz y expresados en moneda chilena, siguiendo para el efecto los procedimientos técnicos de homologación y conversión aludidos en el título VI de este Capítulo.
+Para efectos de consolidación y eventuales requerimientos de información de esta Superintendencia, los bancos deberán preparar mensualmente estados financieros de sus filiales en el exterior, ajustados a los criterios contables de la matriz y expresados en moneda chilena.
 
-Estos estados servirán de base para ajustar en la contabilidad de la matriz el valor de las inversiones en sus filiales, y serán enviados por ella a esta Superintendencia de acuerdo con las instrucciones que se incorporen para el efecto en el Manual del Sistema de Información.
+6. Información a esta Superintendencia relativa a las operaciones de las filiales.
 
-Sin perjuicio de lo anterior, cuando estos estados financieros se refieran al ejercicio anual, la institución financiera matriz los entregará también, según lo previsto en el Capítulo 18-1 de esta Recopilación, acompañados de sus correspondientes notas de acuerdo con los criterios contables chilenos y de un dictamen de los auditores externos que hayan emitido su opinión sobre el balance consolidado de la matriz.
+Los bancos deberán enviar periódicamente a esta Superintendencia la información acerca de los créditos y otras operaciones o saldos de sus filiales, conforme a lo que se establezca para el efecto en las instrucciones del Manual del Sistema de Información, sin perjuicio de otra información no estandarizada o específica que se exija mediante instrucciones generales o por requerimientos especiales.
 
-6.- Información a esta Superintendencia relativa a las operaciones de las filiales.
-
-Las instituciones financieras deberán enviar periódicamente a esta Superintendencia la información acerca de los créditos y otras operaciones o saldos de sus filiales, conforme a lo que se establezca para el efecto en las instrucciones del Manual del Sistema de Información, sin perjuicio de otra información no estandarizada o específica que se exija mediante instrucciones generales o por requerimientos especiales.
-
-7.- Envío de estados financieros y Memoria de la sociedad.
+### 7. Envío de estados financieros y Memoria de la sociedad
 
 A más tardar dentro de los diez días hábiles siguientes a su emisión, deberán entregarse a esta Superintendencia los estados financieros anuales preparados por las filiales de acuerdo con sus estatutos y las disposiciones del respectivo país. El mismo procedimiento se seguirá con la Memoria que edite la filial en el exterior, a contar de la fecha en que se distribuya.
 
-8.- Auditores externos.
+### 8. Auditores externos
 
 Los estados financieros de las filiales en el exterior deberán ser auditados por una empresa de auditores externos que representen la misma firma internacional a la que pertenezca la empresa que realiza la auditoría de la matriz en Chile, salvo que esa firma no tenga presencia en el país o que ello no fuera posible por aplicación de normas que exijan rotación de auditores, casos en los cuales se designará una empresa de la misma firma a que pertenezca o se encuentre asociado alguno de los auditores inscritos en el registro de esta Superintendencia.
 
-V.- INVERSIONES MINORITARIAS EN BANCOS Y OTRAS SOCIEDADES EN EL EXTERIOR.
+### V. INVERSIONES MINORITARIAS EN BANCOS Y OTRAS SOCIEDADES EN EL EXTERIOR
 
-1.- Inversiones minoritarias.
+### 1. Inversiones minoritarias
 
-Las instituciones financieras pueden mantener participaciones minoritarias en aquellas sociedades que la ley les permite constituir como filiales según lo indicado en el N° 1 del título IV de este Capítulo.
+Los bancos pueden mantener participaciones minoritarias en aquellas sociedades que la ley les permite constituir como filiales según lo indicado en el N°1 del título IV de este Capítulo.
 
 La adquisición de acciones o derechos minoritarios en una sociedad en el exterior requiere del cumplimiento de las siguientes condiciones básicas:
 
@@ -11694,105 +9990,55 @@ b) Que los demás socios o accionistas que posean un 10% o más de participació
 
 c) Que se obtenga la autorización previa de esta Superintendencia y del Banco Central de Chile, cumpliendo con los demás requisitos que exige la ley, esto es, los que se mencionan en el título I de este Capítulo.
 
-2.- Información acerca de la sociedad.
+### 2. Información acerca de la sociedad
 
-Para efectos contables y sin perjuicio de la demás información que se requiera para mantenerse enteradas de la actividad de las sociedades en que participan minoritariamente, las instituciones financieras deberán obtener, a lo menos trimestralmente, estados de situación de dichas sociedades.
+Para efectos contables y sin perjuicio de la demás información que se requiera para mantenerse enterados de la actividad de las sociedades en que participan minoritariamente, los bancos deberán obtener, a lo menos trimestralmente, estados de situación de dichas sociedades.
 
-Estos estados se mantendrán como antecedente en la institución financiera inversionista, sin que sea menester enviar una copia a este Organismo, a menos que sean expresamente solicitados o se trate de los estados financieros anuales a que se refiere el N° 4 de este título.
+Estos estados se mantendrán como antecedente en el banco inversionista, sin que sea menester enviar una copia a este Organismo, a menos que sean expresamente solicitados o se trate de los estados financieros anuales a que se refiere el N° 4 de este título.
 
-3.- Patrimonio efectivo.
+### 3. Patrimonio efectivo
 
-Para efectos del cumplimiento de los límites de la Ley General de Bancos que se refieren al patrimonio efectivo de las sociedades extranjeras en las cuales la institución financiera chilena participa, se considerará como tal el capital pagado y reservas que muestran los balances mencionados en el N° 2 precedente, deducidas las inversiones permanentes en sociedades, si fuere el caso.
+Para efectos del cumplimiento de los límites de la Ley General de Bancos que se refieren al patrimonio efectivo de las sociedades extranjeras en las cuales el banco chileno participa, se considerará como tal el patrimonio que muestran los estados de situación mencionados en el N° 2 precedente, excluido el interés minoritario y deducidas las inversiones permanentes en sociedades, cuando sea el caso.
 
-4.- Estados financieros y Memoria de la sociedad.
+### 4. Estados financieros y Memoria de la sociedad
 
-A más tardar dentro de los diez días hábiles siguientes a su recepción, las entidades financieras deberán entregar a esta Superintendencia los estados financieros anuales emitidos por las sociedades en las cuales participan.
+A más tardar dentro de los diez días hábiles siguientes a su recepción, los bancos deberán entregar a esta Superintendencia los estados financieros anuales emitidos por las sociedades en las cuales participan.
 
-El mismo procedimiento se seguirá con la Memoria que editen esas sociedades, a contar de la fecha en que la institución financiera la reciba.
+El mismo procedimiento se seguirá con la Memoria que editen esas sociedades, a contar de la fecha en que el banco la reciba.
 
-5.- Entidades controladas por instituciones financieras chilenas.
+### 5. Entidades controladas por los bancos chilenos
 
-No obstante lo dispuesto en los numerales precedentes, cuando las inversiones minoritarias de dos o más instituciones chilenas sumadas, permitan que la sociedad se considere filial de acuerdo a lo dicho en el artículo 82, las instituciones participantes se regirán por las instrucciones contenidas en los N°s. 2 y siguientes del título IV de este Capítulo.
+No obstante lo dispuesto en los numerales precedentes, cuando las inversiones minoritarias de dos o más instituciones chilenas sumadas, permitan que la sociedad se considere filial de acuerdo a lo dicho en el artículo 82, los bancos participantes se regirán por las instrucciones contenidas en los N°s. 2 y siguientes del título IV de este Capítulo.
 
-En este caso, las empresas de auditores externos a que se refieren los N°s 5 y 8 del título IV, deberán ser elegidas con el acuerdo de las instituciones financieras participantes.
+En este caso, las empresas de auditores externos a que se refiere el N° 8 del título IV, deberán ser elegidas con el acuerdo de los bancos participantes.
 
-Por otra parte, toda la información relativa a la sociedad deberá ser enviada a esta Superintendencia por aquella institución que tenga el mayor porcentaje de participación o, en caso de participación igualitaria, por la que acuerden y así lo comuniquen a esta Superintendencia, las propias entidades participantes.
+Por otra parte, toda la información relativa a la sociedad deberá ser enviada a esta Superintendencia por aquel banco que tenga el mayor porcentaje de participación o, en caso de participación igualitaria, por el que acuerden y así lo comuniquen a esta Superintendencia, las propias entidades participantes.
 
-VI.- NORMAS CONTABLES.
+### VI. OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LOS BANCOS
 
-1.- Inversiones en sucursales, sociedades filiales y coligadas en el exterior.
+### 1. Tenencia transitoria de acciones o derechos en sociedades
 
-Las inversiones en sucursales en el exterior, como asimismo las realizadas en sociedades filiales y coligadas en el extranjero, se registrarán conforme a lo indicado en este título.
+Además de las inversiones en sociedades tratadas en los títulos precedentes, los bancos pueden mantener transitoriamente y dentro de los límites establecidos en la ley, acciones o derechos en sociedades recibidos en pago o adjudicados en remate judicial por deudas previamente contraídas a favor de la institución financiera, según lo previsto en el N° 5 del artículo 84 de la Ley General de Bancos. Estas acciones o derechos deben ser enajenados en los plazos y forma señalados en la ley y en las normas de esta Superintendencia sobre la materia.
 
-Para los efectos de estas instrucciones se entiende por sociedad filial aquella en que la institución financiera tiene una participación superior al 50% del capital social o puede elegir a la mayoría de los directores o administradores de la sociedad, y coligada, aquella en la que tenga una participación igual o superior al 10% del capital social o pueda elegir, a lo menos, un miembro del directorio o de la administración de la sociedad.
+### 2. Acciones de entidades internacionales de servicios a la banca
 
-1.1.- Valorización de las inversiones y resultados.
+Los bancos también pueden poseer las acciones o derechos que sean necesarios para su incorporación a entidades internacionales de transmisión de información (SWIFT) o de otros servicios a la banca. Estas acciones no serán consideradas como inversiones en sociedades para los efectos legales y reglamentarios mencionados en este Capítulo.
 
-Las inversiones en sucursales en el exterior así como en empresas filiales y coligadas, se registrarán en el activo a valor patrimonial proporcional (VPP).
+### 3. Alcance de estas disposiciones
 
-Dicho método de contabilización se aplicará siguiendo los criterios descritos en los Boletines Técnicos N°s. 42 y 64 del Colegio de Contadores de Chile A.G., debiendo reconocerse proporcionalmente los resultados, las demás variaciones patrimoniales y los efectos de la homologación de criterios contables y conversión de monedas, como asimismo las utilidades no realizadas, cuando proceda.
+Los bancos no podrán adquirir para sí acciones o derechos en sociedades en el exterior que no se ajusten a lo indicado en los títulos anteriores y en los números precedentes. Sin embargo, eso no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria.
 
-En el caso de sucursales y de las sociedades sujetas a la fiscalización de esta Superintendencia, el cálculo del valor patrimonial proporcional y los correspondientes ajustes de la inversión deberán efectuarse mensualmente de acuerdo con los resultados de las entidades al término del mes respectivo. Cuando se trate de sociedades coligadas que no estuvieren sujetas a la fiscalización de este Organismo, los ajustes se harán sobre la base de la última información disponible.
+ANEXO
 
-La homologación de criterios contables que debe efectuarse en el caso de las sucursales y filiales, alcanza a los que, por norma de esta Superintendencia o, en su defecto, por aplicación de principios contables generalmente aceptados en Chile, debe aplicar la matriz, o bien, cuando sea pertinente, las sociedades chilenas sujetas a la fiscalización de esta Superintendencia. En ningún caso la constitución de provisiones voluntarias a que se refiere el artículo 66 de la Ley General de Bancos, puede ser considerada como un criterio contable de la matriz para estos efectos.
+ANTECEDENTES PARA AUTORIZACIÓN DE SUCURSALES E INVERSIONES EN SOCIEDADES EN EL EXTERIOR
 
-Las diferencias que se generen en el valor de la inversión como consecuencia de la conversión a moneda chilena de los estados financieros de las sucursales y filiales en el exterior, serán registradas en la cuenta patrimonial "Ajuste acumulado por diferencia de conversión, de la partida 4350, de conformidad con lo descrito en el Boletín Técnico N° 64 antes mencionado.
+Junto con el estudio de factibilidad económico-financiero a que se refiere la letra c) del N° 2 del título I de este Capítulo, los bancos solicitantes acompañarán los siguientes antecedentes:
 
-El patrimonio contable de una sucursal según criterios contables chilenos, se registrará en la cuenta "Sucursales en el exterior" de la partida 2132. Las utilidades y las pérdidas se registrarán en las cuentas "Utilidades de sucursales en el exterior" de la partida 8320 y "Pérdidas de sucursales en el exterior", de la partida 6320.
+1. Para la apertura de una sucursal o la constitución de una filial bancaria:
 
-Las inversiones en sociedades se registrarán en las cuentas "Inversiones en filiales en el exterior" o "Inversiones en coligadas en el exterior", de la partida 2320, según se trate de las sociedades señaladas en los títulos IV o y de este Capítulo, respectivamente. Las utilidades reconocidas proporcionalmente se registrarán en las siguientes cuentas de la partida 8350, según sea el caso: "Utilidades de filiales en el exterior" o "Utilidades de coligadas en el exterior". En caso de pérdidas, se utilizarán las siguientes cuentas de la partida 6350: "Pérdidas de filiales en el exterior" o "Pérdidas de coligadas en el exterior".
+a) Participación accionaria que tendrá la matriz en la filial.(*)
 
-Las utilidades no realizadas de las operaciones de las sucursales se abonarán a la cuenta "Utilidades no realizadas" de la partida 2132, con cargo a la cuenta del mismo nombre de la partida 8320. Por su parte, las utilidades no realizadas de las operaciones de las filiales y las que provengan de las operaciones de la entidad financiera con alguna sociedad coligada, se abonarán a la cuenta "Utilidades no realizadas" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 8350. Para reconocer posteriormente los ingresos se efectuará la contabilización inversa a las señaladas.
-
-1.2.- Mayor o menor valor pagado en inversiones en sociedades ya constituidas.
-
-Cuando se adquieran acciones o derechos en sociedades ya constituidas, las diferencias entre el valor pagado y el valor patrimonial proporcional determinado a la fecha de la adquisición, se registrarán como se indica a continuación:
-
-Al tratarse de inversiones en una filial, el valor patrimonial proporcional corresponderá a la proporción sobre el patrimonio que se determina considerando el valor tasado de los activos fijos y valorizando los demás activos de acuerdo con los criterios contables de la matriz.
-
-a) Valor pagado mayor que el VPP ("Goodwill"): Cuando el valor pagado sea mayor que el valor patrimonial proporcional, la diferencia se registrará en la cuenta "Mayor valor pagado en inversiones en sociedades" de la partida 2120 y se amortizará en el período esperado de retorno de la inversión, con cargo a la cuenta "Amortización mayor valor pagado en inversiones en sociedades" de la partida 6315, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. En todo caso, ese período de amortización no podrá exceder de 10 años.
-
-b) Valor pagado menor que el VPP: Si al invertir en una sociedad coligada, el valor pagado fuere menor que el valor patrimonial proporcional, la diferencia se abonará a la cuenta "Menor valor pagado en inversiones en sociedades" de la partida 4120 y se amortizará con abono a la cuenta "Amortización menor valor pagado en inversiones en sociedades", de la partida 8315, en un plazo de diez años, en cuotas mensuales iguales y consecutivas, corregidas monetariamente. No obstante, si la inversión en la respectiva sociedad origina pérdidas en un ejercicio, el monto que se traspase a resultados podrá ser equivalente a esas pérdidas.
-
-El saldo de las cuentas "Mayor valor pagado en inversiones en sociedades" y "Menor valor pagado en inversiones en sociedades" antes señaladas, deberá ajustarse proporcionalmente en caso de enajenaciones parciales o cambios en los porcentajes de participación en las sociedades por cuya inversión se originaron.
-
-2.- Inversiones en otras sociedades.
-
-Las inversiones en sociedades en el exterior en que la institución financiera tenga una participación inferior al 10% o no pueda elegir a lo menos un director o administrador, se registrarán en la cuenta "Inversiones en otras sociedades del exterior" de la partida 2320, a su valor de costo más corrección monetaria. Las utilidades se reconocerán contablemente sólo al momento de recibir los dividendos o beneficios que la sociedad reparta y sus importes se registrarán con abono a la cuenta "Utilidades por inversiones en otras sociedades del exterior" de la partida 8350.
-
-La institución financiera deberá, sin embargo, constituir provisiones para cubrir las pérdidas en que haya incurrido una sociedad. Para ese efecto calculará el importe de la provisión tomando como valor mínimo de referencia del activo, el que se obtiene de aplicar el porcentaje de participación en la sociedad al total del patrimonio contable que muestren sus estados financieros.
-
-Las provisiones de que se trata se abonarán a la cuenta "Provisiones sobre inversiones en sociedades" de la partida 2320, con cargo a la cuenta del mismo nombre de la partida 6350.
-
-3.- Tratamiento de la moneda extranjera invertida o repatriada.
-
-De acuerdo con las normas de los números precedentes, las inversiones en sucursales y en sociedades en el exterior deben registrarse en el activo en moneda chilena. La conversión a pesos moneda chilena de los recursos invertidos o recibidos se contabilizará en la cuenta "Conversión posición de cambios.
-
-VII.- OTRAS ACCIONES O DERECHOS EN SOCIEDADES QUE PUEDEN MANTENER LAS INSTITUCIONES FINANCIERAS.
-
-1.- Tenencia transitoria de acciones o derechos en sociedades.
-
-Además de las inversiones en sociedades tratadas en los títulos precedentes, los bancos y sociedades financieras pueden mantener transitoriamente y dentro de los límites establecidos en la ley, acciones o derechos en sociedades recibidos en pago o adjudicados en remate judicial por deudas previamente contraídas a favor de la institución financiera, según lo previsto en el N° 5 del artículo 84 de la Ley General de Bancos. Estas acciones o derechos deben ser enajenados en los plazos y forma señalados en la ley y en las normas de esta Superintendencia sobre la materia, y se registrarán contablemente de acuerdo con las normas específicas que las tratan.
-
-2.- Acciones de entidades internacionales de servicios a la banca.
-
-Los bancos también pueden poseer las acciones o derechos que sean necesarios para su incorporación a entidades internacionales de transmisión de información (SWIFT) o de otros servicios a la banca. Estas acciones no serán consideradas como inversiones en sociedades para los efectos legales y reglamentarios mencionados en este Capítulo. Las acciones o derechos de que se trata se registrarán en la cuenta "Derechos en entidades internacionales de servicios" de la partida 1775.
-
-3.- Alcance de estas disposiciones.
-
-Los bancos y las sociedades financieras, no podrán adquirir para sí acciones o derechos en sociedades en el exterior que no se ajusten a lo indicado en los títulos anteriores y en los números precedentes. Sin embargo, eso no es óbice para que los bancos, en sus operaciones de custodia o de comisiones de confianza, registren a su nombre, cuando así se lo soliciten los respectivos compradores, las acciones adquiridas por orden y cuenta de terceros. Naturalmente que en estos casos, el banco debe tener en su poder los documentos que acrediten el mandato correspondiente, en el que exista constancia de que los títulos de las acciones adquiridas deben quedar a nombre de la institución mandataria. Esto no se aplica a las sociedades financieras, por cuanto el artículo 116 de la Ley General de Bancos les prohíbe actuar como mandatarias a nombre propio.
-
-ANEXO N°1
-
-ANTECEDENTES PARA AUTORIZACION DE SUCURSALES E INVERSIONES EN SOCIEDADES EN EL EXTERIOR.
-
-Junto con el estudio de factibilidad económico-financiero a que se refiere la letra c) del N° 2 del título I de este Capítulo, las instituciones financieras solicitantes acompañarán los siguientes antecedentes:
-
-1.- Para la apertura de una sucursal o la constitución de una filial bancaria:
-
-a) Participación accionaria que tendrá la matriz en la filial. (*)
-
-b) Antecedentes de los socios minoritarios con más del 10% de la propiedad. (*)
+b) Antecedentes de los socios minoritarios con más del 10% de la propiedad.(*)
 
 c) Información sobre las siguientes disposiciones del país en que se operará:
 
@@ -11814,15 +10060,15 @@ d) Características del control ejercido por el organismo de supervisión bancar
 
 e) Evaluación del Riesgo-País efectuada por la institución solicitante.
 
-f) Estatutos de la sociedad. (*)
+f) Estatutos de la sociedad.(*)
 
 g) Estructura organizacional prevista para la empresa.
 
-h) Forma en que la matriz prevé dirigir y controlar la gestión de su subsidiaria en el exterior (Fijación de políticas y manejo de los riesgos; grado de autonomía, flujos de información previstos, etc.)
+h) Forma en que la matriz prevé dirigir y controlar la gestión de su subsidiario en el exterior (Fijación de políticas y manejo de los riesgos; grado de autonomía, flujos de información previstos, etc.)
 
 (*): Antecedentes no aplicables en el caso de una sucursal.
 
-2.- Para adquirir un banco que ya existe.
+### 2. Para adquirir un banco que ya existe
 
 a) La misma información mencionada en el N° 1.
 
@@ -11842,7 +10088,7 @@ h) Clasificación de riesgo realizada por una empresa internacional de prestigio
 
 i) Informes o comunicaciones relevantes acerca de la empresa, emitidos por organismos supervisores.
 
-j) Resultados de la Due-Dilligence efectuada por la institución solicitante y criterios de valoración de la inversión.
+j) Resultados de la Due-Diligence efectuada por la institución solicitante y criterios de valoración de la inversión.
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
@@ -13042,19 +11288,17 @@ Los pasivos correspondientes a instrumentos derivados se computarán según su v
 
 Los documentos entregados en garantía se computarán por su valor razonable.
 
-Capítulo 12-9 (Bancos y Financieras)
+## Capítulo 12-9
 
-MATERIA:
+RELACIÓN DE OPERACIONES ACTIVAS Y PASIVAS.
 
-RELACION DE OPERACIONES ACTIVAS Y PASIVAS.
-
-I.- LIMITES A LA EXPOSICION AL RIESGO DE TASA DE INTERES, MONEDAS Y REAJUSTABILIDAD.
+### I. LÍMITES A LA EXPOSICIÓN AL RIESGO DE TASA DE INTERÉS, MONEDAS Y REAJUSTABILIDAD
 
 Para el cumplimiento de lo establecido en el N°2 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile (en adelante "Capítulo III.B.2"), se dispone lo siguiente:
 
 Sobre las definiciones
 
-- Libro de Negociación y Libro de Banca
+- Libro de Negociación y Libro de Banca.
 
 1. Para los efectos de que trata el numeral 2.1 del Capítulo III.B.2, el Libro de Negociación comprenderá las posiciones en instrumentos financieros no derivados que, de acuerdo con las normas contables, se encuentren clasificados como "instrumentos para negociación", como asimismo todas las posiciones en instrumentos derivados que no hayan sido designados contablemente como instrumentos de cobertura.
 
@@ -13094,9 +11338,7 @@ El menor ingreso por comisiones sensibles a las tasas de interés debe incluir t
 
 7. Para asignar en las bandas temporales señaladas en la Tabla 2 del Anexo 1 del Capítulo III.B.2, los flujos de las operaciones sin plazo de vencimiento o cuyo plazo efectivo de vencimiento pueda diferir de su plazo contractual debido al comportamiento de prepago, los bancos deberán utilizar modelos que permitan obtener una estimación sustentada y confiable de los plazos efectivos de vencimiento.
 
-Los flujos correspondientes a aquellas obligaciones sin fecha de vencimiento que pueden hacerse exigibles sin aviso previo, podrán ser asignados en las bandas temporales de la Tabla 2 del Capítulo III.B.2 de acuerdo a su comportamiento estimado. En todo caso, esos flujos no podrán asignarse más allá del plazo correspondiente a la novena banda temporal de la tabla mencionada.
-
-Los flujos correspondientes a aquellos activos sin fecha de vencimiento (tales como saldos utilizados de líneas de crédito asociadas a cuentas corrientes o tarjetas de crédito), deberán ser asignados en las bandas temporales de la Tabla 2 del Capítulo III.B.2 de acuerdo a su comportamiento de pago estimado.
+Los flujos correspondientes a aquellas obligaciones sin fecha de vencimiento que pueden hacerse exigibles sin aviso previo, podrán ser asignados en las bandas temporales de la Tabla 2 del Capítulo III.B.2 de acuerdo a su comportamiento estimado. En todo caso, esos flujos no podrán asignarse más allá del plazo correspondiente a la novena banda temporal de la tabla mencionada. Los flujos correspondientes a aquellos activos sin fecha de vencimiento (tales como saldos utilizados de líneas de crédito asociadas a cuentas corrientes o tarjetas de crédito), deberán ser asignados en las bandas temporales de la Tabla 2 del Capítulo III.B.2 de acuerdo a su comportamiento de pago estimado.
 
 Al tratarse de operaciones activas y pasivas con plazo de vencimiento establecido, los bancos que identifiquen un comportamiento de prepago establecerán el plazo efectivo de vencimiento a través de modelos sólidamente fundamentados.
 
@@ -13114,7 +11356,7 @@ Mientras los bancos no hayan establecido metodologías robustas para la asignaci
 
 En todo caso, los modelos utilizados para los efectos señalados serán objeto de análisis por parte de la Superintendencia en las evaluaciones regulares de gestión de riesgo financiero y operaciones de tesorería, a que se refiere el numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación.
 
-8. Las partidas sujetas a corrección monetaria que deben ser incluidas en el cálculo de la posición neta en moneda chilena reajustable (el término PNUR en la primera ecuación del numeral 1.2 del Anexo 1 del Capítulo III.B.2) serán solamente las que expresamente se indican en dicho anexo, esto es, las correspondientes a: (i) el activo fijo; (ii) las inversiones en sociedades; y (iii) el capital pagado y reservas.
+8. Las partidas sujetas a corrección monetaria que deben ser incluidas en el cálculo de la posición neta en moneda chilena reajustable (el término PNur en la primera ecuación del numeral 1.2 del Anexo 1 del Capítulo III.B.2) serán solamente las que expresamente se indican en dicho anexo, esto es, las correspondientes a: (i) el activo fijo; (ii) las inversiones en sociedades; y (iii) el capital pagado y reservas.
 
 Sobre las mediciones según modelo interno
 
@@ -13124,7 +11366,7 @@ Tanto los criterios como la metodología utilizada por los bancos autorizados pa
 
 Sobre las pruebas de tensión
 
-10. Las pruebas de tensión, a través de las cuales se identifican eventos o situaciones excepcionales que podrían afectar significativamente la rentabilidad y la posición patrimonial de un banco, constituyen un elemento esencial en la gestión de los riesgos de una entidad. Tratándose del riesgo de mercado, el objetivo de las pruebas de tensión se orienta a estimar el impacto potencial sobre la rentabilidad y la solvencia de la entidad, producto de oscilaciones extremas pero plausibles en el conjunto de variables financieras, con el fin último de evaluar su vulnerabilidad o resistencia a ese tipo de eventos. Conforme a lo anterior, los bancos deberán desarrollar y aplicar periódicamente un programa riguroso de pruebas de tensión, el que deberá observar los criterios y requisitos mínimos señalados en las presentes normas.
+10. Las pruebas de tensión, a través de las cuales se identifican eventos o situaciones excepcionales que podrían afectar significativamente la rentabilidad y la posición patrimonial de un banco, constituyen un elemento esencial en la gestión de los riesgos de una entidad. Tratándose del riesgo de mercado, el objetivo de las pruebas de tensión se orienta a estimar el impacto potencial sobre la rentabilidad y la solvencia de la entidad, producto de oscilacionesextremas pero plausibles en el conjunto de variables financieras, con el fin último de evaluar su vulnerabilidad o resistencia a ese tipo de eventos. Conforme a lo anterior, los bancos deberán desarrollar y aplicar periódicamente un programa riguroso de pruebas de tensión, el que deberá observar los criterios y requisitos mínimos señalados en las presentes normas.
 
 11. Las entidades deberán definir los alcances y los criterios para el desarrollo de sus pruebas de tensión, teniendo presente que los mismos deberán ser de naturaleza cuantitativa y cualitativa. Dichas definiciones deberán estar documentadas y ser parte integrante de la política de administración de riesgos de mercado del banco. Las definiciones de que se trata deberán considerar al menos:
 
@@ -13150,13 +11392,13 @@ d) Las pruebas de tensión deberán cubrir un rango de factores que incluyan eve
 
 Esta Superintendencia podrá establecer la frecuencia con que debieran efectuarse las pruebas si estimara que la establecida por el banco es muy amplia. En cualquier caso, como mínimo las pruebas deberán efectuarse cada tres meses.
 
-14. Las pruebas de tensión deberán quedar reflejadas en un documento estándar que contenga los siguientes elementos mínimos:
+14. Las pruebas de tensión deberán quedar reflejadas en un documento estándar que contenga los siguientes elementos mínimos.
 
 a) Explicación de la metodología adoptada para los análisis de tensión a nivel desagregado (carteras, libros, unidades de negocios y filiales) y para el banco como un todo.
 
 b) Descripción del o de los escenarios y de los factores de riesgo utilizados en el análisis de tensión, tanto a nivel desagregado como para todo el banco, considerando a lo menos:
 
-i) el conjunto de factores de riesgo (jerarquizados según su importancia relativa) que fueron sometidos a tensión, incluyendo una explicación del criterio utilizado para su selección; y
+i) el conjunto de factores de riesgo (jerarquizados según su importancia relativa) que fueron sometidos a tensión, incluyendo una explicación del criterio utilizado para su selección; y,
 
 ii) identificación de las perturbaciones que se aplicaron sobre cada una de las variables analizadas (por ejemplo, nivel de tasas de interés, curvas de rendimiento, tipos de cambio, índices de reajustabilidad, liquidez de mercado, volatilidades, correlaciones, u otros que se hayan considerado) incluyendo una indicación de la magnitud del movimiento, la dirección de cada choque y el horizonte de tiempo considerado para medir los impactos, si corresponde.
 
@@ -13172,15 +11414,15 @@ e) Conclusiones obtenidas de los ejercicios y, cuando corresponda, explicación 
 
 Sobre las pruebas retrospectivas
 
-17. Las pruebas retrospectivas constituyen una herramienta clave para evaluar la calidad de los modelos internos de medición de riesgo, al comparar las mediciones de VaR, calibradas para el movimiento diario en las variables de mercado, con las pérdidas efectivamente observadas en cada uno de los días considerados en la evaluación. Dado que las diferencias pueden indicar la existencia de errores en los modelos VaR que se utilizan, las instituciones que determinen el limite normativo para riesgo de mercado sobre la base de un modelo interno deben aplicar regular y rigurosamente un programa de pruebas restrospectivas y estar en condiciones de evaluar sus resultados, desde el primer día de vigencia del modelo utilizado para ese efecto.
+17. Las pruebas retrospectivas constituyen una herramienta clave para evaluar la calidad de los modelos internos de medición de riesgo, al comparar las mediciones de VaR, calibradas para el movimiento diario en las variables de mercado, con las pérdidas efectivamente observadas en cada uno de los días considerados en la evaluación. Dado que las diferencias pueden indicar la existencia de errores en los modelos VaR que se utilizan, las instituciones que determinen el límite normativo para riesgo de mercado sobre la base de un modelo interno deben aplicar regular y rigurosamente un programa de pruebas retrospectivas y estar en condiciones de evaluar sus resultados, desde el primer día de vigencia del modelo utilizado para ese efecto.
 
-En particular, el desarrollo y la aplicación de las pruebas restrospectivas por parte los bancos autorizados por esta Superintendencia para utilizar modelos VaR para fines de determinar el límite normativo para riesgo de mercado, deberán observar los siguientes criterios o requisitos mínimos:
+En particular, el desarrollo y la aplicación de las pruebas retrospectivas por parte los bancos autorizados por esta Superintendencia para utilizar modelos VaR para fines de determinar el límite normativo para riesgo de mercado, deberán observar los siguientes criterios o requisitos mínimos:
 
 a) Tanto los criterios como la asignación de responsabilidades definidos para las pruebas retrospectivas, deben estar incorporados a las políticas de administración de riesgo de mercado del banco.
 
 b) Las políticas deben contener al menos los siguientes elementos asociados a las pruebas retrospectivas: i) una definición de la medida de pérdidas y ganancias a ser aplicada; ii) estándares cuantitativos para las pruebas retrospectivas; y, iii) el número y magnitud de excesos que son considerados aceptables.
 
-c) La medida del VaR utilizada para propósitos de las pruebas restrospectivas, debe ser calculada con un período de mantención de un día.
+c) La medida del VaR utilizada para propósitos de las pruebas retrospectivas, debe ser calculada con un período de mantención de un día.
 
 d) Debe utilizarse un nivel de confianza de 99%, con un intervalo de confianza de una "cola" concentrada en las pérdidas.
 
@@ -13206,7 +11448,7 @@ La zona roja indica que los resultados de las pruebas retrospectivas revelan ser
 
 Como se aprecia en el ejemplo, la Tabla de Permanencia considera un aumento ("factor aditivo") del factor multiplicativo en función de la cantidad de excesos computados. Ahora bien, independientemente del tamaño de la muestra de observaciones, el factor multiplicativo que se origine al computarse algún exceso, se aplicará a partir del primer día hábil de la semana subsiguiente al día a que se refiere el cómputo y mientras esta Superintendencia no indique lo contrario según lo indicado en el N° 19 siguiente.
 
-Esta Superintendencia podrá establecer un factor aditivo superior al que se obtenga de la Tabla de Permanencia cuando: i) la frecuencia y/o el monto de los excesos registrados justifiquen un factor aditivo mayor, independiente de la zona en que permanezca el banco; ii) exista una permanencia por más de un año en la zona amarilla; y, iii) el número de excesos registrados en la zona roja justifiquen un factor aditivo mayor que i. Para acceder a reducciones en el factor aditivo especial que se hubiere impuesto en esos casos, los bancos deberán demostrar a esta Superintendencia que han tomado acciones correctivas que resulten en un mejoramiento sustentable de las estimaciones de riesgo arrojadas por el modelo VaR y que no son necesarias acciones adicionales.
+Esta Superintendencia podrá establecer un factor aditivo superior al que se obtenga de la Tabla de Permanencia cuando: i) la frecuencia y/o el monto de los excesos registrados justifiquen un factor aditivo mayor, independiente de la zona en que permanezca el banco; ii) exista una permanencia por más de un año en la zona amarilla; y, iii) el número de excesos registrados en la zona roja justifiquen un factor aditivo mayor que 1. Para acceder a reducciones en el factor aditivo especial que se hubiere impuesto en esos casos, los bancos deberán demostrar a esta Superintendencia que han tomado acciones correctivas que resulten en un mejoramiento sustentable de las estimaciones de riesgo arrojadas por el modelo VaR y que no son necesarias acciones adicionales.
 
 En caso de modificaciones en el modelo VaR en régimen, los excesos anteriores a las modificaciones seguirán siendo computados para efectos de aplicar el factor multiplicativo.
 
@@ -13226,7 +11468,7 @@ iii) Cambios regulatorios que afecten el funcionamiento del mercado y que pueden
 
 Por el contrario, no se justifica excluir un exceso del cómputo si éste obedece a problemas en la integridad básica del modelo (como deficiencias en los sistemas o cálculo erróneo de volatilidad y correlaciones) o a una especificación deficiente del modelo VaR (de modo que no mida eficientemente los riesgos), entre otros.
 
-Si como consecuencia de la naturaleza y volumen de los excesos registrados, esta Superintendencia resuelve suspender el uso del modelo interno para la medición de los límites normativos, la institución debe corregir los errores presentados por el modelo y probar su confiabilidad con pruebas retrospectivas, que cuenten con información de al menos un año, a fin de poder utilizar nuevamente el modelo interno para esos efectos.
+Si como consecuencia de la naturaleza y volumen de los excesos registrados, esta Superintendencia resuelve suspender el uso del modelo interno para la medición e los límites normativos, la institución debe corregir los errores presentados por el modelo y probar su confiabilidad con pruebas retrospectivas, que cuenten con información de al menos un año, a fin de poder utilizar nuevamente el modelo interno para esos efectos.
 
 Sobre la aplicación del método intermedio para medir el riesgo de mercado de posiciones en opciones.
 
@@ -13238,13 +11480,13 @@ Sobre la medición del riesgo de mercado de posiciones en opciones mediante el m
 
 21. El "método simplificado" a que se refiere el numeral 4.1 del Anexo N° 1 del Capítulo III.B.2, sólo puede ser utilizado por las entidades que no emitan opciones, sean ellas explícitas o implícitas en instrumentos híbridos.
 
-Sobre las metodologías para medir el riesgo de mercado de posiciones en opciones mediante modelos internos
+Sobre la aprobación de las metodologías para medir el riesgo de mercado deposiciones en opciones mediante modelos internos.
 
 22. Aquellas entidades que hayan sido autorizadas para utilizar modelos internos VaR y decidan emitir opciones, deberán comunicar a esta Superintendencia, en forma previa a su lanzamiento, la metodología que utilizarán para el cómputo de tales instrumentos en dicho modelo interno. Lo mismo deberá hacerse en caso de que a un tipo de opción ya existente se le introduzcan modificaciones que incidan en los criterios de valoración y medición del riesgo, en relación con esa opción.
 
 Dichas comunicaciones incluirán un informe detallado y se enviarán a esta Superintendencia sólo una vez que el banco tenga toda la información necesaria para una eventual evaluación de este Organismo, según lo indicado en los N°s. 1 y 2 del Anexo N° 2 de este Capítulo.
 
-Junto con los cambios en los modelos internos que deben efectuarse con motivo de las operaciones con nuevas opciones, deberá ajustarse el modelo estándar para efectos de la información mensual mencionada en el N° 23 de este título.
+Junto con los cambios en los modelos internos que deben efectuarse con motivo dev las operaciones con nuevas opciones, deberá ajustarse el modelo estándar para efectos de la información mensual mencionada en el N° 23 de este título.
 
 Sobre la información a la Superintendencia
 
@@ -13288,9 +11530,9 @@ Como es natural, cualquier modificación a alguna de las directrices en una opor
 
 Disposición transitoria
 
-30. Para efectos de distinguir entre el Libro de Negociación y el Libro de Banca, en tanto esta Superintendencia no establezca los criterios para tratar las coberturas contables referidas en el N° 1 de este título, todas las posiciones en instrumento financieros derivados deberán incluirse en el Libro de Negociación.
+30. Para efectos de distinguir entre el Libro de Negociación y el Libro de Banca, en tanto esta Superintendencia no establezca los criterios para tratar las coberturas contables referidas en el N° 1 de este título, todas las posiciones en instrumentos financieros derivados deberán incluirse en el Libro de Negociación.
 
-II.- LIMITES DE DESCALCES DE PLAZOS HASTA 30 Y 90 DIAS.
+### II. LÍMITES DE DESCALCES DE PLAZOS HASTA 30 Y 90 DÍAS
 
 Para el cumplimiento de los límites establecidos en el N° 1 del Capítulo III.B.2 del Compendio de Normas Financieras del Banco Central de Chile, se establecen las siguientes precisiones o instrucciones complementarias:
 
@@ -13312,7 +11554,7 @@ Sobre las mediciones
 
 2. Para la medición deben considerarse todos los flujos previstos de efectivo que el banco entregará o recibirá dentro de los plazos antes indicados, con la sola excepción de aquellos que no sean relevantes para determinar la posición de liquidez del banco, siempre que la exclusión de esos flujos menores se encuentre precisada y fundamentada en la política de administración de liquidez de la institución. Por consiguiente, además de las operaciones que se reflejan como activos y pasivos, deben considerarse los compromisos legales o contractuales que aún no se reflejan en el balance, como es el caso de dividendos por pagar por las utilidades de un ejercicio, compromisos de otorgamiento de créditos o contratos de compraventa de activos.
 
-En todo caso, se entiende que no se incluyen para estos efectos los financiamientos futuros (préstamos, depósitos, emisión de títulos o aumentos de capital). Así, por ejemplo, cuando se trate de líneas de crédito obtenidas por el banco, solo deben considerarse los egresos previstos para el pago de los montos ya girados, pero no los ingresos por los giros que pueden realizarse. Del mismo modo, cuando se determinen los flujos sobre base ajustada en las captaciones, sólo pueden considerarse los retiros ajustados considerando las renovaciones de los depósitos a plazo o la permanencia de los saldos en las cuentas de ahorro, pero en ningún caso los nuevos depósitos.
+En todo caso, se entiende que no se incluyen para estos efectos los financiamientos futuros (préstamos, depósitos, emisión de títulos o aumentos de capital). Así, por ejemplo, cuando se trate de líneas de crédito obtenidas por el banco, sólo deben considerarse los egresos previstos para el pago de los montos ya girados, pero no los ingresos por los giros que pueden realizarse. Del mismo modo, cuando se determinen los flujos sobre base ajustada en las captaciones, sólo pueden considerarse los retiros ajustados considerando las renovaciones de los depósitos a plazo o la permanencia de los saldos en las cuentas de ahorro, pero en ningún caso los nuevos depósitos.
 
 3. Las líneas de crédito y de sobregiros, como asimismo los préstamos rotativos, deben asignarse a las bandas temporales que correspondan según el patrón de comportamiento de los saldos disponibles y de los montos utilizados. Lo anterior se aplicará tanto para los descalces sobre base contractual como ajustada y cualquiera sea la contraparte (minoristas y mayoristas).
 
@@ -13323,6 +11565,10 @@ En todo caso, se entiende que no se incluyen para estos efectos los financiamien
 6. Tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados, los flujos correspondientes a los créditos otorgados por el banco considerarán las tasas de renegociación y de mora que normalmente afectan a la cartera.
 
 7. Los instrumentos financieros que no se encuentren entregados en garantía y que correspondan a los clasificados contablemente como instrumentos "para negociación" o "disponibles para la venta", se incluirán en las bandas temporales según los flujos que se obtendrían al venderlos sin pérdidas, considerando la liquidez y profundidad del mercado en que ellos se transan. Así, en la banda temporal hasta 7 días, se incluirá a su valor de mercado a la fecha del cómputo, aquella cartera que pueda ser vendida dentro de ese plazo sin afectar el precio por el hecho de liquidarla en su totalidad.
+
+El mismo criterio se seguirá para asignar los instrumentos en las bandas temporales siguientes, pero su valorización debe considerar los eventuales cambios adversos en las condiciones generales del mercado. Para estos efectos no se consideran entregados en garantía los instrumentos cedidos con pacto, pudiendo por lo tanto incluirse en las bandas temporales en que dichos pactos ya no se encontrarán vigentes.
+
+Lo indicado en este N° 7 se aplicará tanto para los descalces de plazos contractuales como para los descalces de plazos ajustados.
 
 8. Los instrumentos que no cumplan las condiciones para tratarlos como se indica en el N° 7 precedente, se asignarán en las bandas temporales y por los valores que correspondan a los pagos del emisor, tanto en el caso de plazos contractuales como ajustados.
 
@@ -13344,11 +11590,11 @@ Sobre la información al público.
 
 Se recomienda que además de la información exigida por el Banco Central de Chile, en dicha publicación el banco describa los aspectos esenciales de su política de administración de liquidez.
 
-ANEXO N°1
+ANEXO N° 1
 
 AUTORIZACIÓN PARA UTILIZAR MODELOS INTERNOS VaR PARA EFECTOS NORMATIVOS
 
-I.- PROCESO DE APROBACIÓN
+### I. PROCESO DE APROBACIÓN
 
 - Presentación de solicitud formal por parte del banco.
 
@@ -13356,75 +11602,75 @@ I.- PROCESO DE APROBACIÓN
 
 - Comunicación formal al banco del resultado de la evaluación.
 
-II.- LA EVALUACIÓN SBIF
+### II. LA EVALUACIÓN SBIF
 
 - La evaluación comprenderá:
 
-+ El análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y,
+- El análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y,
 
-+ La realización de análisis y pruebas que permitan emitir una opinión de la "consistencia metodológica del modelo", de la calidad de las pruebas de retrospectiva realizadas, como también de la "solidez de los procesos y procedimientos establecidos por la entidad".
+- La realización de análisis y pruebas que permitan emitir una opinión de la "consistencia metodológica del modelo" , de la calidad de las pruebas de retrospectiva realizadas, como también de la "solidez de los procesos procedimientos establecidos,por la entidad" .
 
 - Con el propósito de facilitar la evaluación, al momento de la solicitud de aprobación, la entidad solicitante deberá tener a disposición de la SBIF los siguientes elementos:
 
-+ Política de riesgo de mercado aprobada por el Directorio o quien haga sus veces.
+- Política de riesgo de mercado aprobada por el Directorio o quien haga sus veces.
 
-+ Documentación del modelo (metodología y procedimientos).
+- Documentación del modelo (metodología y procedimientos).
 
-+ Informes de auditoría (conforme a lo señalado en este Anexo).
+- Informes de auditoría (conforme a lo señalado en este Anexo).
 
-+ Informes de eventuales certificaciones independientes realizadas al modelo.
+- Informes de eventuales certificaciones independientes realizadas al modelo.
 
-+ Informes de pruebas retrospectivas.
+- Informes de pruebas retrospectivas.
 
-- Tabla de permanencia utilizada.
+. Tabla de permanencia utilizada.
 
-- Resultado de las pruebas.
+. Resultado de las pruebas.
 
-+ Informes de pruebas de tensión.
+- Informes de pruebas de tensión.
 
-+ Documento de aprobación del modelo por parte de la alta administración.
+- Documento de aprobación del modelo por parte de la alta administración.
 
-+ Charla descriptiva general del modelo, en formato de presentación, considerando al menos:
+- Charla descriptiva general del modelo, en formato de presentación, considerando al menos:
 
-- Reseña metodológica
+. Reseña metodológica
 
-- Reseña de soportes operativos
+. Reseña de soportes operativos
 
-- Integración del modelo a la gestión de la entidad
+. Integración del modelo a la gestión de la entidad
 
-- Cumplimiento de criterios normativos
+. Cumplimiento de criterios normativos
 
-- Estructura de límites y su utilización
+. Estructura de límites y su utilización
 
-- Criterios y resultados de pruebas de tensión
+. Criterios y resultados de pruebas de tensión
 
-- Criterios y resultados de pruebas retrospectivas
+. Criterios y resultados de pruebas retrospectivas
 
-III.- REQUISITOS QUE DEBEN CUMPLIR LOS BANCOS
+### III. REQUISITOS QUE DEBEN CUMPLIR LOS BANCOS
 
 1) ASPECTOS GENERALES.
 
 - Podrán aplicar esta modalidad, de acuerdo a lo señalado por la normativa, aquellos bancos que:
 
-+ Se encuentren clasificados en nivel A de solvencia;
+- Se encuentren clasificados en nivel A de solvencia;
 
-+ Reflejen una adecuada clasificación de gestión en la materia "Riesgo financiero y operaciones de tesorería";
+- Reflejen una adecuada clasificación de gestión en la materia "Riesgo financiero y operaciones de tesorería";
 
-+ Cuenten con una política de riesgo de mercado vigente y acorde con lo indicado en el Anexo N° 3 del Capítulo 1-13 de esta Recopilación; y,
+- Cuenten con una política de riesgo de mercado vigente y acorde con lo indicado en el Anexo N° 3 del Capítulo 1-13 de esta Recopilación; y,
 
-+ Sean previamente autorizados por la SBIF.
+- Sean previamente autorizados por la SBIF.
 
 - Para optar a esta autorización, las instituciones deberán además:
 
--> Presentar un modelo que cumpla con los criterios establecidos normativamente.
+- Presentar un modelo que cumpla con los criterios establecidos normativamente.
 
--> Estar realizando pruebas de tensión, conforme a los criterios establecidos en las normas.
+- Estar realizando pruebas de tensión, conforme a los criterios establecidos en las normas.
 
--> Haber realizado pruebas retrospectivas de acuerdo con los criterios dispuestos en las normas, utilizando como mínimo una base de información de seis meses.
+- Haber realizado pruebas retrospectivas de acuerdo con los criterios dispuestos en las normas, utilizando como mínimo una base de información de seis meses.
 
--> No presentar debilidades en el modelo estándar utilizado al momento de solicitar la aprobación.
+- No presentar debilidades en el modelo estándar utilizado al momento de solicitar la aprobación.
 
--> Contar con informes de auditoría interna respecto del entorno del modelo y procesos relacionados.
+- Contar con informes de auditoría interna respecto del entorno del modelo y procesos relacionados.
 
 2) DE LOS INFORMES DE AUDITORÍA.
 
@@ -13432,105 +11678,107 @@ Los informes de auditoría referidos al entorno del modelo y procesos relacionad
 
 - Opinión respecto del entorno del modelo:
 
--> Cumplimiento del modelo con criterios normativos.
+- Cumplimiento del modelo con criterios normativos.
 
--> Calidad de la documentación (metodología y procedimientos).
+- Calidad de la documentación (metodología y procedimientos).
 
--> Rigurosidad de aplicación (metodología y procedimientos).
+- Rigurosidad de aplicación (metodología y procedimientos).
 
--> Cobertura y calidad de los procesos de validación de inputs y outputs.
+- Cobertura y calidad de los procesos de validación de inputs y outputs.
 
--> Integridad y consistencia de datos de entrada.
+- Integridad y consistencia de datos de entrada.
 
--> Procedimientos para el control de límites.
+- Procedimientos para el control de límites.
 
--> Realización de pruebas retrospectivas.
+- Realización de pruebas retrospectivas.
 
--> Realización de pruebas de tensión.
+- Realización de pruebas de tensión.
 
--> Uso de la herramienta en los procesos de gestión de la entidad.
+- Uso de la herramienta en los procesos de gestión de la entidad.
 
 - Pruebas realizadas al modelo para determinar la integridad y consistencia del cálculo:
 
--> Tipo y extensión de pruebas de cálculo realizadas.
+- Tipo y extensión de pruebas de cálculo realizadas.
 
--> Datos de prueba utilizados y condiciones verificadas.
+- Datos de prueba utilizados y condiciones verificadas.
 
--> Detalle de los resultados obtenidos en las pruebas.
+- Detalle de los resultados obtenidos en las pruebas.
 
--> Reseña de condiciones de default detectadas.
+- Reseña de condiciones de de fa u lt detectadas.
 
--> Reseña de deficiencias detectadas.
+- Reseña de deficiencias detectadas.
 
--> Antecedentes que respalden la ejecución de pruebas.
+- Antecedentes que respalden la ejecución de pruebas.
 
 - Opinión respecto del entorno tecnológico:
 
--> Grado de integración con otros sistemas de la entidad.
+- Grado de integración con otros sistemas de la entidad.
 
--> Replicabilidad, automatización y programación.
+- Replicabilidad, automatización y programación.
 
--> Calidad de documentación técnica existente.
+- Calidad de documentación técnica existente.
 
--> Continuidad y seguridad de la aplicación.
+- Continuidad y seguridad de la aplicación.
 
 - Opinión respecto de otros elementos relacionados:
 
--> Criterios y procedimientos utilizados para la valoración de instrumentos.
+- Criterios y procedimientos utilizados para la valoración de instrumentos.
 
--> Criterios y procedimiento utilizados para el control de instrumentos y libros.
+- Criterios y procedimiento utilizados para el control de instrumentos y libros.
 
--> Situación general de la gestión de "riesgo financiero y operaciones de tesorería".
+- Situación general de la gestión de "riesgo financiero y operaciones de tesorería".
 
-ANEXO N°2
+ANEXO N° 2
 
 1) INFORME DETALLADO.
 
 El informe detallado que debe enviarse a esta Superintendencia en relación con la emisión de opciones según lo indicado en los N°s. 20 y 21 del título I de este Capítulo, contendrá la siguiente información:
 
-+ Reseña del producto y su relación con la estrategia comercial y financiera del banco.
+- Reseña del producto y su relación con la estrategia comercial y financiera del banco.
 
-+ Proyección comercial para el producto.
+- Proyección comercial para el producto.
 
-+ Tipo y cuantía de riesgos identificados en el producto
+- Tipo y cuantía de riesgos identificados en el producto
 
-+ Estructura de límites asociada al producto.
+- Estructura de límites asociada al producto.
 
-+ Reseña de metodologías de valoración y determinación de griegas.
+- Reseña de metodologías de valoración y determinación de griegas.
 
-+ Reseña de aplicaciones tecnológicas que soportarán el producto.
+- Reseña de aplicaciones tecnológicas que soportarán el producto.
 
-+ Reseña de la forma de incorporar el riesgo del producto en las mediciones globales de riesgo de la entidad, tanto internas como normativas.
+- Reseña de la forma de incorporar el riesgo del producto en las mediciones globales de riesgo de la entidad, tanto internas como normativas.
 
-+ Reseña del impacto cuantitativo en mediciones de riesgo normativas e internas, conforme a las proyecciones comerciales del producto.
+- Reseña del impacto cuantitativo en mediciones de riesgo normativas e internas, conforme a las proyecciones comerciales del producto.
 
 2) EVALUACIÓN DE MODELOS DE OPCIONES.
 
-La evaluación de la SBIF de modelos de opciones para efectos del cómputo del riesgo de mercado, comprenderá el análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y la realización de análisis y pruebas que permitan obtener una opinión de la consistencia metodológica del modelo, como también de la solidez de los procesos y procedimientos establecidos por la entidad para la administración de los riesgos inherentes a este tipo de instrumentos Con el propósito de facilitar la evaluación, la entidad deberá tener a disposición de la SBIF los siguientes elementos adicionales al informe detallado de que trata el N° 1 de este Anexo:
+La evaluación de la SBIF de modelos de opciones para efectos del cómputo del riesgo de mercado, comprenderá el análisis de la situación de la entidad en la materia "Riesgo financiero y operaciones de tesorería" y la realización de análisis y pruebas que permitan obtener una opinión de la consistencia metodológica del modelo, como también de la solidez de los procesos y procedimientos establecidos por la entidad para la administración de los riesgos inherentes a este tipo de instrumentos.
 
-+ Políticas referidas a la actividad en opciones.
+Con el propósito de facilitar la evaluación, la entidad deberá tener a disposición de la SBIF los siguientes elementos adicionales al informe detallado de que trata el N° 1 de este Anexo:
 
-+ Documento de análisis y aprobación del producto.
+- Políticas referidas a la actividad en opciones.
 
-+ Documento de análisis y aprobación de límites.
+- Documento de análisis y aprobación del producto.
 
-+ Documentos relacionados con la aprobación a alto nivel del modelo de medición de riesgo.
+- Documento de análisis y aprobación de límites.
 
-+ Documentos metodológicos del modelo de medición de riesgo.
+- Documentos relacionados con la aprobación a alto nivel del modelo de medición de riesgo.
 
-+ Documentación de los sistemas que soportarán el producto en las distintas áreas (front, back y middle-office).
+- Documentos metodológicos del modelo de medición de riesgo.
 
-+ Manual de procedimientos operativos definidos para el producto.
+- Documentación de los sistemas que soportarán el producto en las distintas áreas (front, back y middle-office).
 
-+ Documentación relativa a pruebas operativas y de sistemas realizadas.
+- Manual de procedimientos operativos definidos para el producto.
 
-+ Ejemplos de cálculos realizados para obtener el valor razonable, griegas y cómputo normativo para el producto.
+- Documentación relativa a pruebas operativas y de sistemas realizadas.
 
-+ Ejercicio de impacto cuantitativo en mediciones de riesgo normativas e internas, conforme a las proyecciones comerciales para el producto.
+- Ejemplos de cálculos realizados para obtener el valor razonable, griegas y cómputo normativo para el producto.
 
-+ Documentación de procedimientos contables.
+- Ejercicio de impacto cuantitativo en mediciones de riesgo normativas e internas, conforme a las proyecciones comerciales para el producto.
 
-+ Identificación de las normas que, de acuerdo al análisis del banco, inciden en el producto.
+- Documentación de procedimientos contables.
+
+- Identificación de las normas que, de acuerdo al análisis del banco, inciden en el producto.
 
 ## Capítulo 12-10
 
@@ -13790,29 +12038,11 @@ La entidad receptora de los valores en tránsito o en custodia en otros bancos, 
 
 Al recibirse los valores que se encontraban en tránsito o al girarse los montos en custodia en otro banco, se procederá a la devolución de los originales de los certificados de custodia emitidos físicamente o a la emisión de los correspondientes mensajes de acuerdo con el sistema convenido, según corresponda.
 
-CAPITULO 16-4 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 16-4
 
 PAGO DE DOCUMENTOS A PERSONAS QUE NO SABEN FIRMAR.
 
-El cobro de un documento requiere por lo general de la identificación de la
-
-persona que lo cobra y de su cancelación, mediante su firma en el anverso. Para
-
-probar la identificación, será suficiente la presentación de la cédula de
-
-identidad, debiendo anotarse su número y gabinete de expedición, en el respaldo
-
-del documento. Ahora bien, para que efectúe la cancelación quien no sabe firmar,
-
-basta con que estampe su impresión digital en el anverso del documento, sin que
-
-sea procedente exigirle la testificación de personas o la firma a ruego, medidas
-
-que la ley exige cuando no se acredita identidad o para determinados actos
-
-solemnes.
+El cobro de un documento requiere por lo general de la identificación de la persona que lo cobra y de su cancelación, mediante su firma en el anverso. Para probar la identificación, será suficiente la presentación de la cédula de identidad, debiendo anotarse su número y gabinete de expedición, con el respaldo del documento. Ahora bien, para que efectúe la cancelación quien no sabe firmar, basta con que estampe su impresión digital en el anverso del documento, sin que sea procedente exigirle la testificación e personas o la firma a ruego, medidas que la ley exige cuando no se acredita identidad o para determinados actos solemnes.
 
 ## Capítulo 17-5
 
@@ -13823,698 +12053,6 @@ De conformidad con las normas legales en actual vigencia, los bancos, actuando e
 Los referidos mandatos deberán conferirse en conformidad a lo dispuesto en el artículo 12 del D.L. N° 1.328, de 1976, y en el artículo 34 del Reglamento de dicho cuerpo legal.
 
 Los bancos que realicen las operaciones de colocación de cuotas de fondos mutuos, además de dar cumplimiento a las normas que les son aplicables en la realización de esa actividad, deberán proporcionar a la Superintendencia de Valores y Seguros la información que ella requiere en relación con esas operaciones y atenerse a las instrucciones que haya emitido.
-
-CAPITULO 18-1 (Bancos y Financieras)
-
-MATERIA:
-
-PREPARACION Y PUBLICACION DE ESTADOS FINANCIEROS ANUALES.
-
-I.- DISPOSICIONES GENERALES.
-
-1.- Preparación de los estados financieros.
-
-Los estados financieros anuales incluirán el Balance General, el Estado de Resultados, el Estado de Flujo de Efectivo y las correspondientes Notas.
-
-Las instituciones que tengan participación en sociedades filiales, como asimismo los bancos que mantengan sucursales en el exterior, deberán preparar y publicar estados financieros consolidados con sus filiales y sucursales, sin perjuicio de hacerlo además con sus estados financieros individuales.
-
-Los estados financieros serán comparativos con el ejercicio anterior y se expresarán en millones de pesos con un decimal.
-
-El Balance General, el Estado de Resultados y las Notas se presentarán según las instrucciones contenidas en los títulos II y III de este Capítulo.
-
-El Estado de Flujo de Efectivo se preparará de acuerdo con los Boletines Técnicos N°s. 50 y 65 del Colegio de Contadores de Chile A.G., utilizando el método y formato que la institución estime más adecuado.
-
-En general, en todo aquello que no se encuentre regulado por esta Superintendencia, las instituciones se ceñirán a criterios contables de general aceptación.
-
-2.- Entrega de los estados financieros a esta Superintendencia.
-
-Las instituciones financieras deberán enviar sus estados financieros a esta Superintendencia a lo menos diez días hábiles bancarios antes de su publicación y en todo caso a más tardar el último día hábil bancario del mes de enero.
-
-Para el efecto se enviarán dos ejemplares, debidamente firmados, con el respectivo informe de los auditores externos, de los estados financieros individuales y consolidados, cuando corresponda, como asimismo un ejemplar de los estados financieros de las filiales que se consoliden. Los mismos documentos se acompañarán en medios magnéticos, incluyendo los textos en formato Word o PDF.
-
-3.- Publicación de los estados financieros.
-
-Las instituciones financieras publicarán en el periódico sus estados financieros consolidados e individuales, en forma conjunta con los estados financieros de sus subsidiarias, a más tardar el último día del mes de febrero.
-
-Alternativamente, dicha publicación podrá realizarse en el sitio Web de la institución. La información que se incorpore en el sitio Web se mantendrá accesible para cualquier usuario que desee leerla o imprimirla, al menos hasta la publicación de los estados financieros del ejercicio siguiente.
-
-Las instituciones que opten por divulgar sus estados financieros completos sólo a través de su sitio Web, deberán publicar en el periódico el balance general y el estado de resultados, pudiendo excluir de esa publicación el estado de flujo de fondos, las notas explicativas y el informe de los auditores independientes, caso en que deberá incluirse una inserción cuyo texto aparece en el Anexo N° 3 de este Capítulo. El balance y el estado de resultados que se incluirán en esa publicación serán sólo los consolidados cuando la institución deba prepararlos. No se incluirán los estados de las subsidiarias, salvo el de aquellas filiales que estén obligadas a publicar sus propios estados financieros de acuerdo con las normas que las rigen.
-
-Al respecto, cabe hacer presente que, de conformidad con el N° 12 del artículo 49 de la Ley General de Bancos, las instituciones financieras no están obligadas a efectuar una nueva publicación en el periódico en el plazo que señala el artículo 76 de la Ley de Sociedades Anónimas si lo hubieren hecho con anterioridad, debiendo en ese caso informar en los avisos de citación a Junta, el nombre del periódico y fecha en que se efectuó la publicación.
-
-En la memoria de la sociedad se incluirán los estados financieros consolidados completos o, si la institución no tiene filiales, los estados financieros individuales completos. Ello no obsta para que las instituciones que así lo deseen, incluyan además los estados financieros individuales y los de sus filiales.
-
-Dentro de los cuatro días hábiles desde la publicación en el periódico, se enviarán a esta Superintendencia dos ejemplares de ella o fotocopias de la misma.
-
-Por otra, parte, las instituciones financieras deberán enviar a esta Superintendencia tres ejemplares de la memoria de la sociedad, a más tardar en la fecha del primer aviso de convocatoria a junta ordinaria de accionistas.
-
-II.- ESTADOS FINANCIEROS INDIVIDUALES.
-
-1.- Balance General y Estado de Resultados.
-
-El Balance General y el Estado de Resultados se presentarán según los modelos e instrucciones incluidos en el Anexo N° 1 de este Capítulo.
-
-2.- Notas a los estados financieros.
-
-Los estados financieros individuales incluirán las siguientes notas, en los casos que corresponda, con la información que se establece en este título:
-
-– Principales criterios contables utilizados.
-
-– Cambios contables.
-
-– Hechos relevantes.
-
-– Operaciones con partes relacionadas.
-
-– Inversiones en sociedades.
-
-– Provisiones.
-
-– Patrimonio.
-
-- Instrumentos para negociación.
-
-- Instrumentos de inversión.
-
-- Derivados financieros.
-
-- Vencimientos de activos y pasivos.
-
-- Saldos en moneda extranjera.
-
-– Contingencias, compromisos y responsabilidades.
-
-– Comisiones.
-
-– Otros ingresos de operación.
-
-– Otros gastos de operación.
-
-– Ingresos no operacionales.
-
-– Gastos no operacionales.
-
-– Impuestos diferidos.
-
-– Compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
-
-– Gastos y remuneraciones del Directorio.
-
-Las notas se presentarán siguiendo el orden de prelación en que se han mencionado, debiéndose incluir sólo aquellas que sean aplicables según las instrucciones de los números siguientes.
-
-En caso de que, conforme a criterios contables de general aceptación, sea necesario revelar hechos o situaciones especiales no contempladas en las instrucciones para la preparación de las notas antes mencionadas, se agregará la información pertinente en las mismas o en notas complementarias, según sea el caso.
-
-3.- Notas referidas a los criterios contables.
-
-En la primera nota de los estados financieros se informará brevemente acerca de los principales criterios contables utilizados en su preparación. Para ese efecto se utilizará el modelo incluido en el Anexo N° 4 de este Capítulo, en lo que sea aplicable.
-
-Cuando corresponda, en una segunda nota se indicarán los cambios en los criterios contables que hayan existido en relación con los aplicados en el ejercicio anterior, cuando la adopción de los nuevos criterios tenga un efecto significativo, debiéndose indicar la naturaleza, justificación y efectos de tales cambios en el resultado neto y en los rubros de los estados financieros.
-
-4.- Nota sobre hechos relevantes.
-
-Deberán indicarse en esta nota todos los hechos ocurridos durante el período cubierto por los estados financieros o entre la fecha de cierre y la fecha de preparación de éstos, que hayan tenido durante el ejercicio o puedan tener en lo futuro, una influencia o efecto significativo en el desenvolvimiento de las operaciones de la institución o en los estados financieros.
-
-Para cumplir con lo anterior deberá considerarse la información esencial a que se refiere la Ley Nº 18.045 sobre Mercado de Valores y el Capítulo 18-10 de esta Recopilación Actualizada de Normas, incluyendo todo aquello que sea relevante según lo señalado en el párrafo precedente.
-
-Excepcionalmente, se podrá omitir la revelación de información esencial, cuando ella se refiera a negociaciones pendientes a la fecha de preparación de los estados financieros y sólo si la divulgación de ésta pueda afectar los intereses de la institución. Con todo, esta reserva de información solamente podrá decidirse por acuerdo del Directorio y siempre que se cumpla con lo dispuesto en el Art. 10 de la Ley N° 18.045.
-
-5.- Nota sobre operaciones con partes relacionadas.
-
-Esta nota se presentará con información separada bajo los siguientes títulos: "a) Créditos otorgados a personas relacionadas"; y, "b) Otras operaciones con partes relacionadas", debiendo utilizarse la redacción incluida en el Anexo N° 5 de este Capítulo, cuando corresponda.
-
-Para los efectos de esta nota, se entienden como partes relacionadas a las personas naturales o jurídicas vinculadas con la institución financiera según lo instruido en el Capítulo 12-4 de esta Recopilación Actualizada de Normas.
-
-Esta nota deberá incluirse también en el caso en que no existan operaciones o saldos que deban informarse, siguiendo para el efecto la redacción señalada en el Anexo 5.
-
-5.1.- Información sobre créditos a personas relacionadas.
-
-La primera parte de la nota (letra a) contendrá la información relativa a las colocaciones y demás créditos, incluidos sus intereses por cobrar, otorgados a personas relacionadas con la institución.
-
-La información relativa a los créditos otorgados a personas relacionadas se presentará sobre la base de aquellos que se consideran para efectos de los límites de que trata el Capítulo 12-4 de esta Recopilación.Por consiguiente, en la nota se informarán tanto los créditos que se incluyen en el activo del Balance General,sea que se trate de colocaciones, operaciones con pacto o instrumentos para negociación o inversión, como aquellos créditos vigentes y vencidos que estuvieren registrados solamente en cuentas de orden, debiéndose indicar además,cuando corresponda, el importe total de las operaciones castigadas en los últimos cuatro años que se computan para esos límites, todo ello sin considerar los créditos otorgados a personas naturales que tengan un total de créditos igual o inferior a 3.000 UF.
-
-Junto con las cifras correspondientes a los créditos otorgados, se incluirán los montos a que ascienden sus respectivas garantías, considerando sólo aquellas que cumplan con las características especificadas en el artículo 84 de la Ley General de Bancos. Para este efecto las instituciones deberán atenerse a las disposiciones del Capítulo 12-3 de esta Recopilación Actualizada de Normas, incluidas las instrucciones sobre su valorización.
-
-5.2.- Información sobre otras operaciones con partes relacionadas.
-
-En la segunda parte de la nota (letra b) se revelarán los antecedentes relativos a contratos, prestaciones de servicios y otras operaciones celebrados o realizados con personas naturales o jurídicas relacionadas, con excepción de aquellas transacciones que normalmente originan resultados que deben presentarse en las partidas 5105 a 5720 y 7105 a 7725.
-
-La información acerca de las transacciones con partes relacionadas debe referirse, al menos, a lo siguiente:
-
-– Nombre o razón social de las personas que hayan efectuado operaciones con la institución. Si el nombre de fantasía de una empresa es más conocido por el público, debe incluirse este en paréntesis.
-
-– Descripción de la transacción, incluyendo información de los importes monetarios involucrados, efecto en los resultados, saldos por cobrar o por pagar al cierre del ejercicio, condiciones de cobro o pago y, en general, toda la información necesaria para entender el efecto de dichas transacciones en los estados financieros.
-
-– Se debe mencionar, además, si las condiciones en que se realizaron las transacciones eran las mismas que ofrecía el mercado en esa oportunidad o, de no ser así, indicar las que imperaban en el mercado en ese momento.
-
-Deben considerarse todos los contratos con vigencia en cualquier momento del ejercicio, aun cuando estén extinguidos al cierre de éste y aquéllos que se hayan suscrito con posterioridad, hasta la fecha de preparación de los estados financieros, informándolos, en este último caso, como hechos posteriores.
-
-Será obligatorio incluir las operaciones con un detalle que individualice a cada persona relacionada, solamente cuando el importe total involucrado en el o los contratos o el monto total de las transacciones efectuadas con ella, sea igual o superior al equivalente de 5.000 Unidades de Fomento.Las demás operaciones efectuadas con partes relacionadas se incluirán en forma resumida, totalizando los importes según los tipos de operaciones, mencionando éstas en forma genérica (por ejemplo: "Arriendos", "Asesorías", etc.), pudiendo omitirse todas aquellas transacciones que individualmente no superen el equivalente de 1.000 Unidades de Fomento.
-
-6.- Nota sobre inversiones en sociedades.
-
-Esta nota deberán presentarla las instituciones financieras que tengan una participación igual o superior al 10% en alguna sociedad o puedan elegir o designar a lo menos un miembro en el Directorio o Administración de ella, salvo que hayan dejado de tener esa participación en el curso del ejercicio, caso en el cual podrán adecuar la nota para mencionar esa circunstancia si ello constituye un hecho relevante.
-
-Se mostrará el importe registrado en el activo por cada inversión, el porcentaje de participación en las sociedades y los resultados obtenidos por la aplicación del método del Valor Patrimonial Proporcional (VPP).
-
-La información se presentará de la forma que se señala en el Anexo N° 6 de este Capítulo.
-
-8.- Nota sobre provisiones.
-
-En esta nota se mostrará la composición y movimiento de las provisiones para cubrir riesgos de activos y la información relativa a las provisiones voluntarias, siguiendo para el efecto el modelo incluido en el Anexo N° 7 de este Capítulo.
-
-9.- Nota sobre patrimonio.
-
-Esta nota estará compuesta por dos partes. La primera se referirá al patrimonio contable y la segunda al capital básico y patrimonio efectivo en relación con las exigencias de la Ley General de Bancos sobre patrimonio mínimo. Ambas partes de esta nota deberán redactarse considerando el tipo de información y cuadros demostrativos incluidos en el Anexo N° 8 de este Capítulo.
-
-9.1.- Información sobre el patrimonio contable.
-
-La primera parte de la nota deberá contener todos los antecedentes necesarios para entender la composición y el movimiento del capital pagado, reservas y las demás cuentas patrimoniales de la institución, y el destino de la utilidad del ejercicio de que se trate y del inmediatamente anterior o, si fuere el caso, la forma como se absorberá la pérdida.
-
-En general, con respecto al capital pagado, utilidades retenidas y otras reservas, se demostrará resumidamente el movimiento que tuvieron las cuentas patrimoniales en ambos ejercicios. Asimismo se informará, cuando corresponda, sobre los acuerdos de la junta de accionistas que tengan relación con esos cambios y aquellos acuerdos que incidirán o pueden incidir en el capital pagado y en las reservas que se muestran al cierre de los ejercicios. En lo que se refiere a las utilidades de los ejercicios, se señalarán, cuando proceda, las restricciones en el reparto de utilidades y los importes susceptibles de distribuirse como dividendos o de remesarse, sujetos a la decisión de la junta de accionistas o de la casa matriz, en su caso.
-
-En particular deberá informarse, cuando sea pertinente, sobre las siguientes materias:
-
-a) Acciones suscritas y pagadas;
-
-b) Aumentos de capital enterados en cada ejercicio y autorizaciones y acuerdos de aumentos de capital por enterar;
-
-c) Acuerdos de constitución de reservas y repartos de dividendos con cargo a las utilidades del ejercicio anterior y dividendos repartidos o remesas de utilidades, realizadas o autorizadas durante los ejercicios;
-
-d) Restricciones en el reparto u obligaciones de repartir dividendos;
-
-e) Absorción de pérdidas contra capital y reservas; y,
-
-f) Cualquier otra información importante sobre esta materia.
-
-9.2.- Información sobre el capital básico y patrimonio efectivo.
-
-En la segunda parte de la nota se incluirá información acerca de los indicadores de Basilea, la determinación del capital básico y patrimonio efectivo para estos efectos, como asimismo el cómputo de los activos totales y su clasificación y ponderación por riesgo.
-
-10.- Notas sobre instrumentos de negociación e instrumentos de inversión.
-
-10.1.- Instrumentos para negociación.
-
-En esta nota se mostrará la composición de los instrumentos financieros mantenidos para negociación, separando aquellos títulos emitidos por el Estado y el Banco Central de Chile, respecto a los emitidos por otras entidades del país y del exterior.
-
-Se informarán también los montos que se encuentren vendidos con pacto de recompra a la fecha del balance y los plazos promedios de recompra remanentes.
-
-En el Anexo N° 9 de este Capítulo se muestra un ejemplo de la nota que puede ser tomada como base, efectuando las adecuaciones del caso.
-
-10.2.- Instrumentos de inversión.
-
-En esta nota se informará la composición de los instrumentos de inversión, en forma separada considerando la cartera de inversiones disponibles para la venta y las inversiones mantenidas hasta el vencimiento, distinguiendo aquellos títulos emitidos por el Estado y el Banco Central de Chile y los emitidos por otras entidades del país y del exterior.
-
-Se indicarán también los montos de los instrumentos de inversión que han sido vendidos con pacto de recompra y los plazos promedios de recompra remanentes y, si existen instrumentos cedidos en préstamo, los montos correspondientes y la naturaleza de las operaciones.
-
-Por otra parte, se informarán en esta nota los importes registrados en el patrimonio por los ajustes a valor razonable de los instrumentos disponibles para la venta.
-
-En el Anexo N° 9 de este Capítulo se muestra un ejemplo de la nota que puede ser tomada como base, efectuando las adecuaciones del caso.
-
-Si algún instrumento de inversión disponible para la venta no se presenta a valor razonable debido a que no se puede medir en forma fiable, se debe revelar este hecho, como también una descripción del instrumento, el monto registrado y una explicación del porqué no se puede valorizar confiablemente.
-
-11.- Nota sobre productos derivados.
-
-En esta nota se informarán las operaciones que la institución mantiene al cierre del ejercicio por concepto de contratos de derivados financieros.
-
-Los elementos mínimos que debe contener esta nota se muestran en el ejemplo incluido en el Anexo N° 10 de este Capítulo.
-
-12.- Nota de vencimientos de activos y pasivos.
-
-El objeto de esta nota es mostrar la distribución de los principales activos y pasivos, según sus plazos remanentes a contar de la fecha a que está referido el balance general, incluyendo los intereses devengados hasta esa fecha. La nota se presentará de la forma que se muestra en el Anexo N° 11 de este Capítulo.
-
-13.- Nota sobre saldos en monedas extranjeras.
-
-En esta nota deben incluirse los saldos que se mantienen en moneda extranjera, incluyendo tanto los activos y pasivos pagaderos en monedas extranjeras, como aquellos expresados en moneda extranjera y pagaderos en moneda chilena o reajustables por la variación del tipo de cambio. La información se presentará considerando lo indicado en el Anexo N° 12 de este Capítulo.
-
-14.- Nota de contingencias y compromisos no registrados en pasivos.
-
-En esta nota se incorporará toda la información que se refiere a contingencias de pérdidas significativas, recursos comprometidos, pasivos de carácter contingente no reflejados en el balance general como tales y otras responsabilidades.
-
-Los compromisos y responsabilidades que se encuentren registrados en cuentas de orden de acuerdo con las normas de esta Superintendencia, se presentarán según las instrucciones contenidas en el Anexo N° 13 de este Capítulo.
-
-15.- Nota sobre comisiones.
-
-En esta nota se detallarán los principales conceptos que componen los ingresos y gastos por comisiones que se muestran en el Estado de Resultados, siguiendo al efecto el modelo que se incluye en el Anexo N° 14 de este Capítulo.
-
-16.- Notas referidas a otros ingresos y gastos de operación y resultados no operacionales.
-
-Las notas referidas a "Otros ingresos de operación", "Otros gastos de operación", "Ingresos no operacionales" o "Gastos no operacionales", se relativamente importante, debiéndose indicar los principales componentes del rubro.
-
-Para ese efecto, se incluirá una nota cuando:
-
-a) Los "Otros ingresos de operación" o los "Otros gastos de operación", considerando los valores absolutos, sean iguales o mayores del 5% del "Margen bruto" que se muestra en el Estado de Resultados; y,
-
-b) Los "Ingresos no operacionales" o los "Gastos no operacionales", comparados en sus valores absolutos, sean iguales o superiores al 10% del "Resultado operacional" que se indica en el Estado de Resultados.
-
-En estas notas quedarán desglosados todos los conceptos que superen el 10% del rubro que corresponde detallar, debiendo en todo caso la parte no desglosada que se incluya como "otros", ser inferior al monto a partir del cual se exige la presentación de la respectiva nota.
-
-17.- Nota sobre impuestos diferidos.
-
-Se incluirá en esta nota la información que para este efecto se indica en el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
-
-18.- Nota sobre compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones.
-
-Esta nota deberá presentarse cuando la institución haya efectuado compras, ventas, sustituciones o canjes de créditos de la cartera de colocaciones, que por cualquier motivo hayan tenido un efecto significativo en el resultado de los ejercicios.
-
-La presentación de la nota será obligatoria solamente cuando el resultado de una transacción realizada en el respectivo ejercicio o bien el resultado del conjunto de ellas, sea igual o superior al 5% del "Excedente antes de impuestos" que se muestra en el Estado de Resultados.
-
-La información sobre las operaciones se incluirá de acuerdo con las siguientes pautas:
-
-a) se informarán los montos totales de los créditos objeto de esas transacciones, según el valor par de ellos, sin indicar nombres de los deudores ni de los demás obligados al pago que pudieren existir.
-
-b) se indicarán los efectos de esas transacciones en cuanto al aumento o liberación de provisiones que generen, como asimismo se señalarán las consecuencias de tales operaciones en los resultados de la institución.
-
-19.- Nota de gastos y remuneraciones del Directorio.
-
-En esta nota se deberá indicar el total de los estipendios pagados a los miembros del Directorio, ya sea por su calidad de tales como por servicios prestados o por cualquier otro concepto. Se indicarán todos los valores que fueron cargados a los resultados de los ejercicios, tanto por los desembolsos efectuados como por las provisiones constituidas, así como también aquellos desembolsos que al cierre de los ejercicios no hayan sido reconocidos como gastos.
-
-Se podrá agregar toda la información que se estime necesaria, cuando ésta, presentada como un solo total pueda, a juicio de algún director, afectar sus intereses o cuando se considere conveniente indicar la naturaleza de los principales desembolsos.
-
-III.- ESTADOS FINANCIEROS CONSOLIDADOS.
-
-1.- Bases de preparación.
-
-Los estados financieros consolidados se prepararán de acuerdo con criterios contables generalmente aceptados, cuyos procedimientos se describen en los Boletines Técnicos del Colegio de Contadores de Chile A.G.
-
-La integración de los saldos en el Balance General, Estado de Resultados y Estado de Flujo de Efectivo consolidados, debe hacerse de acuerdo con los criterios de exposición de la matriz. Además se considerará lo indicado en el N° 2 siguiente para el balance y estado de resultados.
-
-2.- Formato del Balance General y Estado de Resultados.
-
-El Balance General y Estado de Resultados consolidados, se prepararán de acuerdo con el modelo incluido en el Anexo N° 2 de este Capítulo, el cual comprende algunas instrucciones conducentes a uniformar la presentación de ciertas operaciones específicas de filiales.
-
-3.- Notas a los estados financieros consolidados.
-
-3.1.- Nota de criterio de consolidación.
-
-Los estados financieros consolidados se presentarán con una primera nota, dentro de la Nota 1, referida a los criterios de consolidación, en la cual se indicará, a lo menos, lo siguiente:
-
-a) Las entidades que participan en la consolidación y el respectivo porcentaje de participación de la matriz.
-
-b) El porcentaje que representan los activos y los ingresos operacionales de las filiales en su conjunto, en los estados consolidados.
-
-c) El hecho de que se han anulado las transacciones entre compañías y sus efectos.
-
-d) El criterio de presentar el interés minoritario en rubros separados en el balance y en el estado de resultados.
-
-3.2.- Demás notas a los estados financieros consolidados.
-
-Las demás notas a los estados financieros consolidados se incluirán de acuerdo con lo establecido en el título II de este Capítulo, debiendo efectuarse las adecuaciones del caso para incorporar los saldos u operaciones de las filiales y eliminar los saldos entre las compañías que se consolidan, cuando corresponda.
-
-ANEXO N°1
-
-I.- MODELO DE ESTADOS FINANCIEROS INDIVIDUALES.
-
-.
-
-La presentación del Balance General y del Estado de Resultados deberá hacerse de acuerdo con los modelos anteriores, aun cuando en algunas líneas no se muestren saldos, lo que se indicará con un guión ("-").
-
-Se exceptúa de lo anterior el resultado de cambio, que debe mostrarse en forma neta y, por lo tanto, se utilizará sólo la línea "UTILIDAD DE CAMBIO NETA" o "PERDIDA DE CAMBIO NETA".
-
-II.- AGRUPACIONES DE SALDOS.
-
-Para obtener las cifras que corresponde presentar en el balance general y en el estado de resultados a partir de los saldos que se informan en los archivos C01 y C02 del Sistema de Información de esta Superintendencia, se sumarán los saldos de las partidas que se indican en la sección III de este Anexo, considerando además lo siguiente:
-
-1.- Cuentas de ajuste y control y saldos con sucursales.
-
-Por tratarse de partidas que no reflejan activos o pasivos de la entidad, no se incluyen en la relación de partidas cuyos saldos deben sumarse, las correspondientes a las cuentas de ajuste y control ni las partidas 2105 y 4105 referidas a saldos con sucursales. Las cuentas de ajuste y control se anulan entre sí, en tanto que las cuentas de enlace entre oficinas deben ser debidamente procesadas para la generación de los estados financieros, de tal manera que las respectivas partidas del archivo CO1 no presenten saldos al cierre.
-
-2.- Ajustes de partidas protegidas en el tratamiento de coberturas contables.
-
-Dado que los ajustes a las partidas protegidas con derivados se incluyen en las partidas 2115 y 4115 del archivo C01, los montos correspondientes a tales ajustes deben ser incorporados en los respectivos activos y pasivos que han sido objeto de protección, a fin de mostrar en el balance su valor debidamente ajustado.
-
-3 .- Resultado de cambio neto.
-
-El resultado neto de cambio incluirá los reajustes por variación del tipo de cambio de los activos y pasivos. Por consiguiente, esos resultados que se incluyen en las partidas de reajustes del archivo C02 determinarán también el saldo que debe mostrarse como utilidad o pérdida de cambio neta, según corresponda.
-
-III.- RELACION CON LAS PARTIDAS DEL SISTEMA DE INFORMACION.
-
-1.- Balance General.
-
-.
-
-NOTAS:
-
-(1): No se incluyen las cuentas de ajuste y control ni las partidas 2105 y 4105 ("Saldos con sucursales en el país") por las razones indicadas anteriormente.
-
-(2): Incluye solamente las provisiones por riesgo de crédito y riesgo-país de las colocaciones. En el evento de que se hubieren constituido provisiones por operaciones interbancarias o con pacto (incluidas en la partida 4205), los importes correspondientes se restarán en las correspondientes líneas del activo. Del mismo modo, las provisiones por riesgo país que no correspondan a colocaciones, deben deducirse de los respectivos activos.
-
-(3): Los saldos de partidas protegidas con derivados deben ser incluidos en los respectivos rubros del activo o pasivo, según lo indicado en la sección II.
-
-(4): En todo caso, esta partida no tendrá saldo al cierre del ejercicio anual por la distribución de la corrección monetaria.
-
-.
-
-NOTAS:
-
-(a): IRT corresponde a los reajustes por variación del tipo de cambio de los activos, los que se incluirán en los resultados de cambio.
-
-(b): GRT corresponde a los reajustes por variación del tipo de cambio de los pasivos, los que se incluirán en los resultados de cambio.
-
-(c): Si el saldo neto fuese deudor, debe usarse la línea P4.
-
-ANEXO N°2
-
-MODELO DE ESTADOS FINANCIEROS CONSOLIDADOS
-
-.
-
-INSTRUCCIONES:
-
-A) El criterio de presentación en el balance de activos y pasivos contingentes, se seguirá sólo para las colocaciones y obligaciones de la matriz y las sucursales y filiales bancarias en el exterior.
-
-B) Los activos y pasivos por intermediación de documentos reflejarán sólo las operaciones de compra y venta con pacto. Para integrar los saldos de corredoras o agentes de valores, deben anularse los saldos de derechos y obligaciones sobre operaciones a futuro, a fin de incluir los saldos de esas operaciones en concordancia con los criterios contables de la matriz.
-
-C) Incluirá también las inversiones en instrumentos de renta variable que mantengan las filiales.
-
-D) Incluye todos los activos y pasivos de las filiales que no tienen una integración natural en los demás activos y pasivos. Los activos y pasivos por intermediación, como asimismo otros saldos que sólo reflejen derechos y compromisos por operaciones a futuro, o de recibir o entregar títulos, contenidos en los balances de las filiales corredores de bolsa o agencias de valores, deberán anularse o ajustarse para seguir los criterios de la matriz, sin perjuicio de la exposición en nota de los respectivos compromisos.
-
-ANEXO N°3
-
-TEXTO DE INSERCION EN EL PERIODICO
-
-Para publicar en un periódico los estados financieros incluyendo solamente el balance general y el estado de resultados por haberse divulgado los estados financieros completos a través de un sitio Web, se incluirá la siguiente inserción a que se refiere el N° 3 del título I de este Capítulo:
-
-INFORMACION PROPORCIONADA
-
-Los estados financieros completos con sus respectivas notas y el correspondiente informe de los auditores independientes, se encuentran a disposición de los interesados en el sitio ...(dirección internet)..., pudiendo consultarse además en las oficinas de la institución.
-
-ANEXO N°4
-
-MODELO DE NOTA SOBRE CRITERIOS CONTABLES APLICADOS.
-
-NOTA N°I - PRINCIPALES CRITERIOS CONTABLES UTILIZADOS.
-
-a) Información proporcionada.
-
-Los presentes estados financieros han sido preparados de acuerdo con las normas contables dispuestas por la Superintendencia de Bancos e Instituciones Financieras, las cuales concuerdan con principios contables generalmente aceptados. Las cifras correspondientes al ejercicio ..... se presentan actualizadas según la variación del Indice de Precios al Consumidor, en un....%.
-
-La preparación de los estados financieros requiere que la administración efectúe algunas estimaciones y supuestos que afectan los saldos informados de activos y pasivos, las revelaciones de contingencias respecto de activos y pasivos a la fecha de los estados financieros, así como los ingresos y gastos durante el período. Los resultados reales pueden diferir de estas estimaciones.
-
-b) Intereses y reajustes.
-
-Los activos y pasivos incluyen los intereses y reajustes devengados hasta la fecha de cierre del ejercicio. Sin embargo, en el caso de las colocaciones vencidas y de las vigentes con alto riesgo de irrecuperabilidad se ha seguido el criterio prudencial de suspender el devengo de intereses y reajustes.
-
-c) Corrección monetaria.
-
-El capital propio financiero, el activo fijo y otros saldos no monetarios, se presentan actualizados de acuerdo con la variación del Indice de Precios al Consumidor (IPC). La aplicación de este mecanismo de ajuste significó un .../cargo/abono/...neto a resultados ascendente a $..............millones ($.............millones en ....).
-
-Las cuentas de resultado no se presentan corregidas monetariamente.
-
-d) Moneda extranjera.
-
-Los activos y pasivos en moneda extranjera se muestran a su valor equivalente en pesos, calculados al tipo de cambio de $........por US$1 ($ .......por US$ 1 en .....).
-
-El saldo de $.............. millones correspondiente a la ... utilidad/pérdida ... de cambio neta que se muestra en el Estado de Resultados (...utilidad/pérdida de $ .......... millones en .....), incluye el reconocimiento de los efectos de la variación del tipo de cambio en los activos y pasivos en moneda extranjera o reajustables por el tipo de cambio, y el resultado realizado por las operaciones de cambio del banco.
-
-e) Instrumentos para negociación.
-
-Los instrumentos para negociación corresponden a valores adquiridos con la intención de generar ganancias por la fluctuación de precios en el corto plazo o a través de márgenes en su intermediación, o que están incluidos en un portafolio en el que existe un patrón de toma de utilidades de corto plazo.
-
-Los instrumentos para negociación se encuentran valorados a su valor razonable de acuerdo con los precios de mercado a la fecha de cierre del balance. Las utilidades o pérdidas provenientes de los ajustes para su valoración a valor razonable, como asimismo los resultados por las actividades de negociación, se incluyen en el rubro "Utilidad (pérdida) por negociación" del Estado de Resultados. Los intereses y reajustes devengados son informados como "Ingresos por intereses y reajustes".
-
-Todas las compras y ventas de instrumentos para negociación que deben ser entregados dentro del plazo establecido por las regulaciones o convenciones del mercado, son reconocidos en la fecha de negociación, la cual es la fecha en que se compromete la compra o venta del activo. Cualquier otra compra o venta es tratada como derivado (forward) hasta que ocurra la liquidación.
-
-f) Contratos de derivados financieros.
-
-Los contratos de derivados financieros, que incluyen forwards de monedas extranjeras y unidades de fomento, futuros de tasa de interés, swaps de monedas y tasa de interés, opciones de monedas y tasa de interés y otros instrumentos de derivados financieros, son reconocidos inicialmente en el balance general a su costo (incluidos los costos de transacción) y posteriormente valorados a su valor razonable. El valor razonable es obtenido de cotizaciones de mercado, modelos de descuento de flujos de caja y modelos de valorización de opciones según corresponda. Los contratos de derivados se informan como un activo cuando su valor razonable es positivo y como un pasivo cuando éste es negativo, en los rubros "Contratos de derivados financieros".
-
-Ciertos derivados incorporados en otros instrumentos financieros, son tratados como derivados separados cuando su riesgo y características no están estrechamente relacionados con las del contrato principal y éste no se registra a su valor razonable con sus utilidades y pérdidas no realizadas incluidas en resultados.
-
-Al momento de suscripción de un contrato de derivado, éste debe ser designado por el Banco como instrumento derivado para negociación o para fines de cobertura contable.
-
-Los cambios en el valor razonable de los contratos de derivados financieros mantenidos para negociación se incluyen en el rubro "Utilidad por diferencias de precio" o "Pérdidas por diferencias de precio", según corresponda, en el Estado de Resultados.
-
-Si el instrumento derivado es clasificado para fines de cobertura contable, éste puede ser: (1) una cobertura del valor razonable de activos o pasivos existentes o compromisos a firme, o bien (2) una cobertura de flujos de caja relacionados a activos o pasivos existentes o transacciones esperadas. Una relación de cobertura para propósitos de contabilidad de cobertura, debe cumplir todas las condiciones siguientes: (a) al momento de iniciar la relación de cobertura, se ha documentado formalmente la relación de cobertura; (b) se espera que la cobertura sea altamente efectiva; (c) la eficacia de la cobertura se puede medir de manera razonable y (d) la cobertura es altamente efectiva en relación con el riesgo cubierto, en forma continua a lo largo de toda la relación de cobertura.
-
-Ciertas transacciones con derivados que no califican para ser contabilizadas como derivados para cobertura son tratadas e informadas como derivados para negociación, aun cuando proporcionan una cobertura efectiva para la gestión de posiciones de riesgo.
-
-Cuando un derivado cubre la exposición a cambios en el valor razonable de una partida existente del activo o del pasivo, esta última se registra a su valor razonable en relación con el riesgo específico cubierto. Las utilidades o pérdidas provenientes de la medición a valor razonable, tanto de la partida cubierta como del derivado de cobertura, son reconocidas con efecto en los resultados del ejercicio.
-
-Si el ítem cubierto en una cobertura de valor razonable es un compromiso a firme, los cambios en el valor razonable del compromiso con respecto al riesgo cubierto son registrados como activo o pasivo con efecto en los resultados del ejercicio. Las utilidades o pérdidas provenientes de la medición a valor razonable del derivado de cobertura, son reconocidas con efecto en los resultados del ejercicio. Cuando se adquiere un activo o pasivo como resultado del compromiso, el reconocimiento inicial del activo o pasivo adquirido se ajusta para incorporar el efecto acumulado de la valorización a valor razonable del compromiso a firme que estaba registrado en el balance general.
-
-Cuando un derivado cubre la exposición a cambios en los flujos de caja de activos o pasivos existentes, o transacciones esperadas, la porción efectiva de los cambios en el valor razonable con respecto al riesgo cubierto es registrada en el patrimonio. Cualquier porción inefectiva se reconoce directamente en los resultados del ejercicio. Los montos registrados directamente en patrimonio son registrados en resultados en los mismos periodos en que activos o pasivos cubiertos afectan los resultados.
-
-Cuando se realiza una cobertura de valor razonable de tasas de interés para una cartera, y el ítem cubierto es un monto de moneda en vez de activos o pasivos individualizados, las utilidades o pérdidas provenientes de la medición a valor razonable, tanto de la cartera cubierta como del derivado de cobertura, son reconocidas con efecto en los resultados del ejercicio, pero la medición a valor razonable de la cartera cubierta se presenta en el balance bajo Otros activos u Otros pasivos, según cual sea la posición de la cartera cubierta en un momento del tiempo.
-
-g) Instrumentos de inversión.
-
-Los instrumentos de inversión son clasificados en dos categorías: Inversiones al vencimiento e Instrumentos disponibles para la venta. La categoría de Inversiones al vencimiento incluye sólo aquellos instrumentos en que el Banco tiene la capacidad e intención de mantenerlos hasta su fecha de vencimiento. Los demás instrumentos de inversión se consideran como disponibles para la venta.
-
-Los instrumentos de inversión son reconocidos inicialmente al costo, el cual incluye los costos de transacción.
-
-Los instrumentos de inversión son inicialmente registrados a su valor de costo. Los instrumentos disponibles para la venta son posteriormente valorados a su valor razonable según los precios de mercado o valorizaciones obtenidas del uso de modelos. Las utilidades o pérdidas no realizadas originadas por el cambio en su valor razonable son reconocidas con cargo o abono a cuentas patrimoniales. Cuando estas inversiones son enajenadas o se deterioran, el monto de los ajustes a valor razonable acumulado en patrimonio es traspasado a resultados y se informa bajo "Utilidad por diferencias de precio" o "Pérdidas por diferencias de precio", según corresponda.
-
-Las Inversiones al vencimiento se registran a su valor de costo más intereses y reajustes devengados, menos las provisiones por deterioro constituidas cuando su monto registrado es superior al monto estimado de recuperación.
-
-Los intereses y reajustes de las Inversiones al vencimiento y de los Instrumentos disponibles para la venta se incluyen en el rubro "Ingresos por intereses y reajustes".
-
-Los instrumentos de inversión que son objeto de coberturas contables son ajustados según las reglas de contabilización de coberturas.
-
-Las compras y ventas de instrumentos de inversión que deben ser entregados dentro del plazo establecido por las regulaciones o convenciones del mercado, se reconocen en la fecha de negociación, en la cual se compromete la compra o venta del activo. Las demás compras o ventas se tratan como derivados (forward) hasta su liquidación.
-
-h) Activo fijo físico.
-
-El activo fijo se presenta valorizado al costo corregido monetariamente y neto de depreciaciones calculadas linealmente sobre la base de los años de vida útil de los respectivos bienes.
-
-i) Inversiones en sociedades.
-
-Las acciones o derechos en sociedades en las cuales la institución tiene una participación igual o superior al 10% o pueda elegir o designar a lo menos un miembro en su Directorio o Administración, se encuentran registradas en el activo a su valor patrimonial proporcional (VPP).
-
-j) Provisiones por activos riesgosos.
-
-Las provisiones exigidas para cubrir los riesgos de pérdida de los activos han sido constituidas de acuerdo con las normas de la Superintendencia de Bancos e Instituciones Financieras. Los activos se presentan netos de tales provisiones o demostrando la rebaja, en el caso de las colocaciones.
-
-k) Impuestos diferidos.
-
-Los efectos de impuestos diferidos por las diferencias temporales entre el balance tributario y el balance financiero, se registran sobre base devengada según el Boletín Técnico N° 60 del Colegio de Contadores de Chile A.G.
-
-l) Vacaciones del personal.
-
-El costo anual de vacaciones y los beneficios del personal se reconocen sobre base devengada.
-
-El modelo de notas antes indicado se utilizará en todo lo que resulte aplicable en el caso de cada institución financiera.
-
-ANEXO N°5
-
-Modelo de nota sobre operaciones con personas relacionadas.
-
-Instituciones que tienen operaciones con partes relacionadas:
-
-NOTA 3 - OPERACIONES CON PARTES RELACIONADAS.
-
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
-
-a) Créditos otorgados a personas relacionadas (1)
-
-Al ... de ............... de ........, los créditos otorgados a personas relacionadas se componen como sigue (cifras en millones de pesos): (2)
-
-.
-
-* Incluye sólo aquellas garantías válidas para el cálculo de límites individuales de crédito de que trata el artículo 84 de la Ley General de Bancos, valorizadas para ese efecto de acuerdo con las instrucciones de la Superintendencia de Bancos e Instituciones Financieras.
-
-** Incluye sólo las obligaciones de personas naturales cuyas deudas son iguales o superiores al equivalente de tres mil Unidades de Fomento.
-
-b) Otras operaciones con partes relacionadas.
-
-.....................................
-
-En esta parte de la nota se incluirá la información señalada en el numeral 5.2 del título II de este Capítulo, señalando que la relación incluye sólo transacciones cuya suma es superior al equivalente de mil Unidades de Fomento.
-
-Si no existiere información que incluir en esta parte de la nota se indicará lo siguiente:
-
-b) Otras operaciones con partes relacionadas.
-
-Durante el año ...... y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas .../por montos superiores a UF 1.000/....
-
-INSTRUCCIONES:
-
-(1): En caso que no haya créditos con partes relacionadas a la fecha de los estados financieros, se indicará en esta parte de la nota lo siguiente:
-
-a) Créditos otorgados a personas relacionadas.
-
-Al ... de .......... de ........ no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/....
-
-(2): Si la agrupación de cifras no justifica la presentación de un cuadro, los datos pertinentes señalados en el modelo podrán mencionarse en otra forma.
-
-Para incorporar el valor de las garantías, debe tenerse presente que aquellas cauciones que no contemplen una cláusula de garantía general no pueden ser asignadas a otros créditos y, por lo tanto, si su valor supera el monto de la respectiva colocación, deberá considerarse aquel sólo hasta la concurrencia de dicho monto. Del mismo modo, si bien una garantía general puede ser considerada para diferentes deudas, su monto distribuido no puede ser superior al valor de todos los créditos cubiertos por ella.
-
-Instituciones que no tienen operaciones con partes relacionadas:
-
-NOTA 3 - OPERACIONES CON PARTES RELACIONADAS.
-
-De conformidad con las disposiciones de la Ley General de Bancos y las instrucciones impartidas por la Superintendencia de Bancos e Instituciones Financieras, se consideran vinculadas a las personas naturales o jurídicas que se relacionan con la propiedad o gestión de la institución, directamente o a través de terceros.
-
-Al ... de .......... de ........no existen créditos otorgados a personas relacionadas con la propiedad o gestión de la empresa ..../con excepción de operaciones con personas naturales por montos inferiores a UF 3.000/.....
-
-Por otra parte, durante el año ..... y hasta la fecha de preparación de los estados financieros, la empresa no ha efectuado otras operaciones ni ha mantenido contratos vigentes con partes relacionadas ..../por montos superiores a UF 1.000/....
-
-ANEXO N°6
-
-MODELO DE NOTA SOBRE INVERSIONES EN SOCIEDADES.
-
-NOTA... - INVERSIONES EN SOCIEDADES.
-
-Al 31 de diciembre de .....
-
-En el Activo Fijo se presentan inversiones en sociedades por $...........millones según el siguiente detalle:
-
-.
-
-(*): Esta línea es para incluir como un total los importes netos de provisiones correspondientes a acciones o derechos en sociedades que no son filiales ni coligadas.
-
-ANEXO N° 7
-
-MODELO DE NOTA SOBRE PROVISIONES.
-
-NOTA...- PROVISIONES.
-
-Al 31 de diciembre de.............. /el banco/la sociedad/... mantiene provisiones por un total de $ ........ millones para cubrir eventuales pérdidas.
-
-El movimiento registrado durante el ejercicio en las provisiones se resume como sigue:
-
-.
-
-A juicio de la administración, las provisiones constituidas cubren todas las eventuales pérdidas que pueden derivarse de la no recuperación de activos, según los antecedentes examinados por la institución.
-
-ANEXO N°8
-
-MODELO DE NOTA SOBRE PATRIMONIO.
-
-NOTA...- PATRIMONIO.
-
-A) Patrimonio contable.
-
-A continuación se resume el movimiento de las cuentas patrimoniales durante el ejercicio:
-
-.
-
-Se incluirán sólo los conceptos en que corresponda consignar algún importe. A continuación se agregará la información relativa a esta primera parte de la nota que se indica en el N° 9 del título II de este Capítulo, debiendo adecuarse el cuadro o la nota para cubrir ambos ejercicios.
-
-La segunda parte de la nota se presentará como sigue:
-
-B) Capital básico y patrimonio efectivo.
-
-De acuerdo con lo dispuesto en la Ley General de Bancos, el capital básico mínimo de una institución financiera no puede ser inferior al 3% de los activos totales, a la vez que el patrimonio efectivo no puede ser inferior al 8% de sus activos ponderados por riesgo. Al cierre de cada ejercicio, esta institución presenta la siguiente situación:
-
-.
-
-El Capital básico es equivalente, para estos efectos, al capital pagado y reservas del banco. El Patrimonio efectivo y los activos se consideran sobre base consolidada con las subsidiarias. El Patrimonio efectivo se determina a partir del Capital básico con los siguientes ajustes: a) se suman los bonos subordinados con tope del 50% de ese Capital Básico y las provisiones adicionales y aquellas constituidas sobre la cartera de riesgo normal, con tope de 1,25% de los activos ponderados por riesgo, b) se deducen, el saldo de los activos correspondientes a goodwill o sobreprecios pagados y a inversiones en sociedades que no participan en la consolidación.
-
-ANEXO N° 9
-
-EJEMPLO DE NOTA SOBRE INSTRUMENTOS PARA NEGOCIACION.
-
-NOTA ... Instrumentos para negociación
-
-El detalle de los instrumentos designados como instrumentos financieros para negociación es el siguiente:
-
-.
-
-Bajo Instrumentos del Estado y del Banco Central de Chile se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............ y MM$.............. al 31 de diciembre de 20YY y 20XX, respectivamente. Bajo Otros Instrumentos Financieros se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............y MM$................ al 31 de diciembre de 20YY y 20XX, respectivamente. Los pactos de recompra tienen un vencimiento promedio de.......días al cierre del ejercicio (.......días en 20XX)
-
-EJEMPLO DE NOTA SOBRE INSTRUMENTOS DE INVERSION.
-
-NOTA .... Instrumentos de inversión
-
-El detalle de los instrumentos que el Banco ha designado como inversiones disponibles para la venta y como inversiones al vencimiento es el siguiente:
-
-Inversiones disponibles para venta
-
-.
-
-Bajo Instrumentos del Estado y del Banco Central de Chile se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............ y MM$.............. al 31 de diciembre de 20YY y 20XX, respectivamente. Bajo Otros Instrumentos Financieros se incluyen instrumentos vendidos con pacto de recompra a clientes e instituciones financieras, por un monto de MM$ ............y MM$................al 31 de diciembre de 20YY y 20XX, respectivamente. Los pactos de recompra tienen un vencimiento promedio d e.......días al cierre del ejercicio (.......días en 20XX):
-
-Al 31 de diciembre de 20YY y 20XX la cartera de instrumentos disponibles para la venta incluye una utilidad (pérdida) neta no realizada de MM$...........y MM $........ , respectivamente, registrada como ajustes de valoración en el patrimonio.
-
-ANEXO N°10
-
-EJEMPLO DE NOTA SOBRE CONTRATOS DE DERIVADOS.
-
-NOTA ....- Contratos de derivados financieros
-
-El Banco utiliza los siguientes instrumentos derivados para propósitos de cobertura contable y negociación:
-
-.
-
-ANEXO N°11
-
-MODELO DE NOTA DE VENCIMIENTO DE ACTIVOS Y PASIVOS.
-
-NOTA ...- VENCIMIENTOS DE ACTIVOS Y PASIVOS
-
-a) Vencimiento de colocaciones y otros activos financieros
-
-A continuación se muestran las colocaciones y otros activos financieros agrupados según sus plazos remanentes, incluyendo los intereses devengados hasta el 31 de diciembre de .... Al tratarse de instrumentos para negociación o disponibles para la venta, estos se incluyen por su valor razonable y dentro del plazo en que pueden ser vendidos.
-
-.
-
-CONTRATOS DE DERIVADOS FINANCIEROS
-
-(*) Considera sólo los créditos efectivos vigentes al cierre del ejercicio. Por consiguiente, se excluyen las colocaciones contingentes, los créditos traspasados a cartera vencida, como asimismo los créditos morosos que no han sido traspasados a cartera vencida que ascendían a $ ..............millones, de los cuales $ ............. millones tenían una morosidad inferior a 30 días.
-
-b) Vencimiento de captaciones, préstamos y otras operaciones de financiamiento
-
-A continuación se muestran las captaciones, préstamos y otras obligaciones, agrupadas según sus plazos remanentes, incluyendo los intereses devengados hasta el 31 de diciembre de.....
-
-.
-
-CONTRATOS DE DERIVADOS FINANCIEROS
-
-(*) Excluye todas las obligaciones a la vista, las cuentas de ahorro a plazo y las obligaciones contingentes.
-
-ANEXO N°12
-
-MODELO DE NOTA SOBRE MONEDA EXTRANJERA.
-
-NOTA ...- SALDOS EN MONEDA EXTRANJERA.
-
-En los Balances Generales se incluyen activos y pasivos en moneda extranjera o reajustables por la variación del tipo de cambio, por los montos que se indican a continuación:
-
-.
-
-* Comprende operaciones expresadas en moneda extranjera y pagaderas en pesos u operaciones reajustables por el tipo de cambio.
-
-ANEXO N°13
-
-MODELO DE NOTA SOBRE CONTINGENCIAS, COMPROMISOS Y OTRAS RESPONSABILIDADES DE LA EMPRESA.
-
-NOTA .... - CONTINGENCIAS, COMPROMISOS Y RESPONSABILIDADES.
-
-........
-
-Compromisos y responsabilidades contabilizados en cuentas de orden.
-
-La institución mantiene registrados en cuentas de orden los siguientes saldos relacionados con compromisos o con responsabilidades propias del giro:
-
-.
-
-La relación anterior incluye sólo los saldos más importantes. ..../Las colocaciones y obligaciones contingentes se muestran en el Balance General.../...
-
-INSTRUCCIONES:
-
-Cuando existan otros saldos importantes y que sea pertinente incorporarlos, deberán agregarse a esa relación que se refiere sólo a lo registrado en cuentas de orden.
-
-La nota incluirá además, cuando proceda, la información acerca de contingencias, compromisos o responsabilidades significativas, según lo previsto en el N° 14 del título II de este Capítulo.
-
-ANEXO N°14
-
-MODELO DE NOTA SOBRE COMISIONES
-
-NOTA...- COMISIONES
-
-El monto de los ingresos y gastos por comisiones que se muestra en el estado de resultados corresponde a los siguientes conceptos: (1)
-
-.
-
-Las comisiones ganadas por operaciones con letras de crédito se presentan en el Estado de Resultados en el rubro "Ingresos por intereses y reajustes".
-
-INSTRUCCIONES:
-
-(1): Incluir sólo los conceptos que resulten aplicables a la situación de la empresa, preferiblemente en orden descendente según los ingresos del último año.
-
-(2) Los ingresos incluirán comisiones ganadas por cobranza de documentos y por recaudaciones por cuenta de empresas de servicios.
-
-(3) En "Otros" podrán incluirse las comisiones percibidas o pagadas por conceptos distintos a los especificados. Sin embargo, en caso que el importe de alguno de ellos sea igual o superior al 10% del total de las comisiones percibidas o pagadas, deberá agregarse al listado especificando el concepto y el o los montos correspondientes.
 
 ## Capítulo 18-3
 
@@ -20888,27 +18426,11 @@ Los funcionarios a quienes se les otorgue acceso a la información, deben ser in
 
 Por su parte, el artículo 14 de la Ley General de Bancos, establece penas corporales para las personas que revelen el contenido de la información sobre deudores de que se trata.
 
-CAPITULO 18-6 (Bancos y Financieras)
+## Capítulo 18-6
 
-MATERIA:
+INFORMACIÓN SOBRE CUENTAS CORRIENTES DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES Y SUS RESPECTIVOS FONDOS
 
-INFORMACION SOBRE CUENTAS CORRIENTES DE LAS ADMINISTRADORAS DE FONDOS DE
-
-PENSIONES Y SUS RESPECTIVOS FONDOS.
-
-A fin de dar cumplimiento a una solicitud del señor Superintendente de
-
-Administradoras de Fondos de Pensiones, las empresas bancarias deberán
-
-informar,mensualmente, a este Organismo, las aperturas y cierres de cuentas
-
-corrientes a nombre de Administradoras de Fondos de Pensiones y de sus
-
-respectivos fondos. Para tal efecto, se indicará, en cada caso, el número de la
-
-cuenta comente, oficina en la que se registra, fecha de apertura o fecha de
-
-cierre, según corresponda, y tipo de cuenta, según la siguiente clasificación:
+Los bancos deberán informar mensualmente a la Superintendencia de Administradoras de Fondos de Pensiones, las aperturas y cierres de cuentas corrientes a nombre de Administradoras de Fondos de Pensiones y de sus respectivos fondos. Para tal efecto, se indicará, en cada caso, el número de la cuenta corriente, oficina en la que se registra, fecha de apertura o fecha de cierre, según corresponda, y tipo de cuenta, según la siguiente clasificación:
 
 a) Del fondo de pensiones:
 
@@ -20918,9 +18440,7 @@ Tipo 2: Depósito de recursos del fondo para su inversión.
 
 b) De la administradora:
 
-Tipo 3: Recaudación y traspaso de las cotizaciones adicionales para seguro de
-
-invalidez y sobrevivencia y de las cotizaciones de salud.
+Tipo 3: Recaudación y traspaso de las cotizaciones adicionales para seguro de invalidez y sobrevivencia y de las cotizaciones de salud.
 
 Tipo 4: Pago de pensiones.
 
@@ -21220,23 +18740,21 @@ Por último, en la chequera de pago, cuando ése sea el sistema utilizado, deber
 
 En todo caso, cuando se produzcan reclamaciones relacionadas con el cobro de honorarios por cobranza de créditos, corresponderá al banco probar que, de acuerdo con estas instrucciones, informó de manera completa y oportuna al cliente sobre el particular.
 
-CAPITULO 18-13 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 18-13
 
 INCENTIVOS DISTINTOS DE INTERESES, REAJUSTES O COMISIONES.
 
-1.- Otorgamiento de incentivos.
+### 1. Otorgamiento de incentivos
 
 Los bancos pueden ofrecer incentivos a las personas naturales, beneficiarias de créditos, de tarjetas de crédito, tarjetas de débito o para cajeros automáticos, o que contraten otros servicios, tales como pagos automáticos o el uso de medios electrónicos de pagos o transferencias. Asimismo pueden ofrecerse para atraer el interés del público hacia los servicios de cajas que ofrecen algunas sociedades de apoyo al giro, para el pago de servicios y recaudaciones.
 
 De ninguna manera podrán brindar incentivo alguno por la captación o mantención de depósitos, cuentas corrientes, cuentas de ahorro o cualquiera otra operación que genere un pasivo para el banco.
 
-2.- Tipo de incentivos.
+### 2. Tipo de incentivos
 
 Los beneficios pueden consistir en descuentos o prestaciones gratuitas ofrecidos por terceros o la entrega de bienes corporales, bajo alguna de las modalidades y condiciones indicadas en el N° 3 de este Capítulo.
 
-3.- Condiciones para el ofrecimiento y entrega de los beneficios.
+### 3. Condiciones para el ofrecimiento y entrega de los beneficios
 
 a) Los beneficios podrán circunscribirse a un sector específico de los usuarios del respectivo servicio o beneficiarios de las operaciones correspondientes, que se encuentren en una misma situación y cumplan las condiciones impuestas para ser acreedores del beneficio. Esas condiciones podrán ser, a manera de ejemplo, la acumulación de determinados puntajes por operaciones realizadas, que dan derecho a un premio o la participación en determinados sorteos.
 
@@ -21244,9 +18762,9 @@ b) No podrá condicionarse la entrega de un beneficio acordado por el uso de un 
 
 c) La entidad bancaria no podrá participar en la entrega de bienes o servicios ajenos a su giro. Esto se refiere tanto a la administración de su entrega como a la responsabilidad que se asume en el proceso.
 
-d) En las promociones que realicen las empresas bancarias y en cualquier información relativa a los incentivos ofrecidos que dirijan a sus clientes como al público en general, deberá señalarse en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole a la entidad financiera intervención alguna en su entrega o en la ulterior atención que ellos demanden.
+d) En las promociones que realicen las empresas bancarias y en cualquier información relativa a los incentivos ofrecidos que dirijan a sus clientes como al público en general, deberá señalarse en forma explícita que la entrega de los bienes y la prestación de servicios no bancarios ofrecidos, como asimismo los descuentos en el comercio, son de exclusiva responsabilidad de la empresa que realiza tal actividad, no cabiéndole al banco intervención alguna en su entrega o en la ulterior atención que ellos demanden.
 
-e) La institución financiera no podrá exhibir en ninguno de sus locales ni en los de sus filiales, los premios que, ya sea por acumulación de puntaje, sorteos o cualquiera otra modalidad, ofrezca a sus clientes por los servicios que contraten, susceptibles de esos beneficios, de acuerdo con estas normas.
+e) El banco no podrá exhibir en ninguno de sus locales ni en los de sus filiales, los premios que, ya sea por acumulación de puntaje, sorteos o cualquiera otra modalidad, ofrezca a sus clientes por los servicios que contraten, susceptibles de esos beneficios, de acuerdo con estas normas.
 
 ## Capítulo 18-14
 
@@ -21496,33 +19014,15 @@ En aquellos casos en que, sin ser exigible la presentación de la cédula del RU
 
 CAPITULO 20-2. Derogado.
 
-CAPITULO 20-3 (Bancos)
+## Capítulo 20-3
 
-MATERIA:
+CERTIFICACIÓN DEL TIPO DE CAMBIO POR LAS ENTIDADES BANCARIAS.
 
-CERTIFICACION DEL TIPO DE CAMBIO POR LAS ENTIDADES BANCARIAS.
+Las empresas bancarias están obligadas, por mandato de la ley, a certificar el tipo de cambio para diversos efectos legales.
 
-Las empresas bancarias están obligadas, por mandato de la ley, a certificar el
+El Art. 20 de la Ley N° 18.010 establece que los bancos en sus certificaciones deberán utilizar solamente el tipo de cambio vendedor, vigente en el día de la solicitud, que tengan informado al público en sus pizarras o carteleras y que debe ser, por lo demás, la cotización a la cual la institución realiza la generalidad de sus operaciones de venta de la respectiva moneda.
 
-tipo de cambio para diversos efectos legales.
-
-El Art. 20 de la Ley N° 18.010 establece que los bancos en sus certificaciones
-
-deberán utilizar solamente el tipo de cambio vendedor, vigente en el día de la
-
-solicitud, que tengan informado al público en sus pizarras o carteleras y que
-
-debe ser, por lo demás, la cotización a la cual la institución realiza la
-
-generalidad de sus operaciones de venta de la respectiva moneda.
-
-Ante la variación que eventualmente puede experimentar en el curso de un mismo
-
-día la moneda que se cotiza, las entidades bancarias pueden dejar constancia en
-
-los certificados que otorguen, de la hora a la que corresponde la certificación
-
-que se entrega.
+Ante la variación que eventualmente puede experimentar en el curso de un mismo día la moneda que se cotiza, las entidades bancarias pueden dejar constancia en los certificados que otorguen, de la hora a la que corresponde la certificación que se entrega.
 
 CAPITULO 20-4. Derogado.
 
