@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.091, de 7 de agosto de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 1.959, de 2008, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2008-11 denominado "Evaluación del stock desovante de Merluza del sur y Merluza de cola en la zona sur austral, año 2008", en el sentido que a continuación se indica:
+
+a) En el numeral 5º, en el sentido de agregar el siguiente inciso final: "Los buques fábrica Unzen y Unionsur podrán operar respecto del recurso Merluza de cola, entre la fecha de la presente resolución y el 31 de diciembre de 2008, ambas fechas inclusive, respetando las limitaciones establecidas precedentemente. Durante el mes de agosto los buques fábrica antes señalados podrán capturar 40 toneladas de Merluza del sur en calidad de fauna acompañante del recurso Merluza de cola, las que se imputarán a la cuota de investigación autorizada en el numeral 6º de la presente resolución.".
+
+b) En el numeral 6º, en el sentido de agregar el siguiente inciso final: "Los remanentes no capturados por la nave hielera Friosur VIII, podrán ser extraídos por los buques fábrica Unzen y Unionsur, respetando las limitaciones establecidas para estas naves en el numeral precedente.".
+
+Valparaíso, 7 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
