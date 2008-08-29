@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.908, de 23 de julio de 2008, de esta Subsecretaría, autorízase a PESCA HIELOS AUSTRALES LIMITADA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en camino Predial, lote 14, parcelación Ruze-Cañadon, Porvenir, XII Región, para elaborar en las líneas de proceso de Cocido, Fresco enfriado, Fresco refrigerado, Congelado y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
