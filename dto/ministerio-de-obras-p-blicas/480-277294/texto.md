@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 480 de 11 de julio de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropió el lote de terreno Nº 24, para la obra 'CONCESION EMBALSE CONVENTO VIEJO II ETAPA VI REGION CANAL LOLOL SUR', Sexta Región, que figura a nombre de AREVALO AREVALO ANA MARIA, rol de avalúo 35-104, comuna de Lolol, superficie 3.222 m2. La comisión de peritos integrada por los señores René Octavio Corvalán Correa, Manuel Hernán Díaz Farfán y José Cristián Larraín Barros, fijó con fecha 15 de enero de 2008, el valor provisional de la indemnización en la cantidad de $3.665.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
