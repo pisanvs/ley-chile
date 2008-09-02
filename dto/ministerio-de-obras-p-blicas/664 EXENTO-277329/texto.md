@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 664 de fecha 31 de julio del 2008, se expropió el lote de terreno Nº 135, superficie 449,52 m2, Rol 250-4, comuna de Salamanca, IV Región para la obra 'Mejoramiento Ruta D-825, Limahuida - Almendrillo, sector Tahuinco - Salamanca, Km. 13,14000 al Km. 23,49783, III Etapa' y se acordó el valor de indemnización con su propietario AGRO INDUSTRIA CHOAPA LTDA., ascendente a la cantidad de $2.425.575.
+
+Fiscal del Ministerio de Obras Públicas.
