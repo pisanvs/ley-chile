@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 655 de fecha 31 de julio de 2008, se expropiaron los lotes de terreno N°s 4 y 4-A, superficies 80 y 279 m2, rol N° 266-42, comuna de Tucapel, para la obra 'Camino Huépil - Trupán - Polcura, Sector Puente El Manco, Km. 18,50000 al Km. 18,80000, VIII Región' y se acordó el valor de la indemnización con su propietario INES GRACIELA VARGAS OLATE, ascendente a la cantidad de $1.572.723.
+
+Fiscal del Ministerio de Obras Públicas.
