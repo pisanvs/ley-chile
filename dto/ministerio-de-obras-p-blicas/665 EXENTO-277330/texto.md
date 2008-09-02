@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 665 de 31 de julio de 2008, se expropiaron los lotes de terrenos Nºs. 50, 53, 55, 56, 57 y 58, superficies 3.782, 1.013, 1.297, 39, 4.108 y 1.058 m2, rol de Avalúo 167-25 y 184-30, comuna de Arauco, para la obra 'CAMINO RUTA P-40, SECTOR ARAUCO - QUIAPO, KM. 0,00000 A KM. 15,96000', VIII Región y se acordó el valor de la indemnización con su propietaria IRMA ROSA ALVIAL ULLOA, ascendente a la cantidad de $10.158.869.
+
+Fiscal del Ministerio de Obras Públicas.
