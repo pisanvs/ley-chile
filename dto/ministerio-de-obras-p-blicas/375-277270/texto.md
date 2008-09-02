@@ -1,0 +1,5 @@
+Por Decreto MOP. Nº 375, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terrenos Nºs 1, 2 y 3, para la obra 'Conservación Red Vial Región de Atacama 2006-2008, Conservación de Caminos Básicos Conservación Periódica Camino Ruta C-391, Cruce Longitudinal - Viñita Azul, Km.
+
+0,000 al Km. 13,113, Provincia de Copiapó, Región de Atacama, Etapa II', que figuran a nombre de SUC REVELLO VALENCIA ANGEL, rol de avalúo 561-4, superficies 14.600 M2., 32.278 M2. y 7.602 M2. La Comisión de Peritos, fijó con fecha 05 de diciembre de 2006, en las cantidades de $14.995.000, para el lote Nº 1, $59.070.260, para el lote Nº 2 y $25.106.340, para el lote Nº 3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
