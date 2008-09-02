@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 660, de fecha 31 de julio del 2008, se expropiaron los lotes de terrenos N°s 52 y 53, superficie 1.425 y 680 m2 respectivamente, Rol N° 576-179, comuna de Saavedra, IX Región para la obra 'Camino Ruta Lafquenche sector Puente Budi - Puente Chelle, Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región.' y se acordó el valor de indemnización con su propietaria IGNACIO CUMINAO SAEZ, ascendente a la cantidad de $1.950.635.
+
+Fiscal del Ministerio de Obras Públicas.
