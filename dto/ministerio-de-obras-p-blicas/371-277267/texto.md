@@ -1,0 +1,3 @@
+Por Decreto MOP N° 371 de fecha 30 de mayo del 2008, se expropió el lote de terreno N° 52 superficie 874 m2, Rol N° 1524-400, comuna de Los Ángeles, VIII Región para la obra 'Camino Ruta Q-15, Sector Los Angeles - Santa Clara, Km 0,00000 al Km. 10,35968' y se acordó el valor de indemnización con su propietaria ELIANA LAVIN QUINTANA, ascendente a la cantidad de $4.604.158.- para el lote N° 52.
+
+Fiscal del Ministerio de Obras Públicas.
