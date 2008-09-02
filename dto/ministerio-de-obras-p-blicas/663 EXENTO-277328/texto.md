@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 663 de 31 de julio de 2008, se expropió el lote de terreno Nº 71, superficie 615 m2, rol de Avalúo 577-486, comuna de Saavedra, para la obra 'Camino Ruta Lafquenche, Sector Puente Budi - Puente Chelle Km. 0,54000 a Km. 8,22000', IX Región y se acordó el valor de la indemnización con su propietario DANIEL EDUARDO PICHIÑUAL PERQUILAF, ascendente a la cantidad de $1.127.529.
+
+Fiscal del Ministerio de Obras Públicas.
