@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 657 de fecha 31 de julio de 2008, se expropió el lote de terreno Nº 4, superficie 2.764 m2, rol Nº 576-35, comuna de Saavedra, para la obra 'Camino Ruta Lafquenche Sector Puente Budi - Puente Chelle, Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región.' y se acordó el valor de la indemnización con su propietario JOSE SEGUNDO CALFULEO MALO, ascendente a la cantidad de $2.977.885.
+
+Fiscal del Ministerio de Obras Públicas.
