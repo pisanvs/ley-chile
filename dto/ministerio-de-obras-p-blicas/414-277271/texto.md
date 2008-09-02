@@ -1,0 +1,3 @@
+Por Decreto MOP N° 414 de fecha 30 de junio del 2008, se expropió el lote de terreno N° 3, superficie 39.300 m2, Rol N° 158-161, comuna de Cochamó, X Región para la obra 'Camino Puelo - Paso El Bolsón, sector Llanada Grande - Segundo Corral, tramo Río Mapocho - Primer Corral' y se acordó el valor de indemnización con su propietario FRANGIO LITIERE DELGADO CARDENAS ascendente a la cantidad de $15.950.225.- para el lote N°3.
+
+Fiscal del Ministerio de Obras Públicas.
