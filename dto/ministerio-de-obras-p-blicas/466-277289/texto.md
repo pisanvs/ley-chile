@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 466 de 30 de junio de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropió el lote de terreno Nº 29, para la obra 'CONCESION EMBALSE CONVENTO VIEJO II ETAPA VI REGION CANAL NORTE UNIFICADO TRAMO I. KM. 0.000,00 AL KM. 17.700,00', Sexta Región, que figura a nombre de SOCIEDDA AGRICOLA CERRO EL PENON, rol de avalúo 18-12, comuna de Lolol, superficie 18.722 m2. La comisión de peritos integrada por los señores José Cristián Larraín Barros, Luis Raúl Gutiérrez Basic y Manuel Hernán Díaz Farfán, fijó con fecha 30 de enero de 2008, el valor provisional de la indemnización en la cantidad de $15.549.200.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
