@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A 'BICE ADMINISTRADORA GENERAL DE FONDOS S.A.'
+
+Certifico: Que por resolución exenta Nº535, de 22 de agosto de 2008, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad 'Bice Administradora General de Fondos S.A.' acordada en la Junta Extraordinaria de Accionistas celebrada el 16 de junio del año 2008 y reducida a escritura pública con fecha 17 de julio de 2008, en la Segunda Notaría de Santiago, Enrique Morgan Torres, domiciliada en calle Agustinas Nº1173, Santiago; consistente en el cambio de nombre de la sociedad administradora general de fondos, la que en adelante se denominará 'Bice Inversiones Administradora General de Fondos S.A.'.
+
+Santiago, 22 de agosto de 2008.- Carmen Undurraga Martínez, Secretaria General.
