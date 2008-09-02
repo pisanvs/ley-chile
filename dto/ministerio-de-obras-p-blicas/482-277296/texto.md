@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 482 de 11 de julio de 2008 y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 84-1 para el 'PROYECTO: CAMINO INTERNACIONAL RUTA 60 CH. SECTOR 2:
+
+KM. 0.000,00 AL KM. 38.500,00. TRAMO 1: KM. 0.000,00 AL KM. 21.000,00', Quinta Región, que figura a nombre de FIGUEROA RAMON, rol de avalúo 115-4, comuna de La Calera, superficie 478 m2. La comisión de peritos integrada por los señores Jesús Fernando Díaz Pasmiño, Jimena Francisca Asenjo Burgos y Cristián Larraín Arnolds, fijó con fecha 23 de abril de 2008, el valor provisional de la indemnización en la cantidad de $7.228.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
