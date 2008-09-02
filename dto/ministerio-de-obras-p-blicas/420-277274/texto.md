@@ -1,0 +1,3 @@
+Por Decreto MOP N° 420 de fecha 30 de junio del 2008, se expropiaron los lotes de terreno N°s. 87, 88 y 89 superficies 838, 871 y 1.621 m2, Rol N° 170-2, comuna de Curarrehue, IX Región para la obra 'Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, sector Curarrehue - Puesco, Km. 116,88000 a Km. 136,76000, tramo III Km. 130,92000 a Km. 136,76000', Provincia de Cautín, Comuna de Curarrehue, IX Región, y se acordó el valor de indemnización con su propietaria ALICIA DEL CARMEN MORALES REYES, ascendente a la cantidad de $6.428.597.- para los lotes N°s. 87, 88 y 89.
+
+Fiscal del Ministerio de Obras Públicas.
