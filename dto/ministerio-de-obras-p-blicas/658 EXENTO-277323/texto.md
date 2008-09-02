@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 658, de fecha 31 de julio del 2008, se expropió el lote de terreno N° 11, superficie 1.304 m2, Rol N° 576-50, comuna de Saavedra, IX Región para la obra 'Camino Ruta Lafquenche sector Puente Budi - Puente Chelle. Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región.' y se acordó el valor de indemnización con su propietario ISIDORO JORGE MALO PAÑEAN Y OTROS, ascendente a la cantidad de $1.768.561.
+
+Fiscal del Ministerio de Obras Públicas.
