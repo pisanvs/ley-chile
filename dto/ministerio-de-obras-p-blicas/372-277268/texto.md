@@ -1,0 +1,3 @@
+Por Decreto MOP N° 372 de fecha 30 de mayo del 2008, se expropiaron los lotes de terreno N°s. 3 y 4, superficies 3.354 y 4.185 m2, Rol N° 156-42, comuna de Curarrehue, IX Región para la obra 'Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, sector Curarrehue - Puesco, Km. 116,88000 al Km. 136,76000, tramo I Km. 116,88000 al Km. 124,72000, Provincia de Cautín, Comuna de Curarrehue, IX Región, y se acordó el valor de indemnización con su propietaria MERCEDES CATRICHEO MUÑOZ Y OTROS, ascendente a la cantidad de $13.465.287.- para los lotes N°s. 3 y 4.
+
+Fiscal del Ministerio de Obras Públicas.
