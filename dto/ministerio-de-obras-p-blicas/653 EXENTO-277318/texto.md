@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 653 de fecha 31 de julio del 2008, se expropió el lote de terreno Nº20, superficie 68 m2, Rol Nº945-17, comuna de Colina, Región Metropolitana para la obra 'Calle de Servicio By Pass Colina, Eje Calle San Luis Km. 0,00240 al Km.0,12000, Eje Caletera Km. 0,0000 a Km. 1,1000, Comuna de Colina, Provincia de Chacabuco, Región Metropolitana', y se acordó el valor de indemnización con su propietario INMOBILIARIA LAS QUILAS S.A. ascendente a la cantidad de $1.685.081.- para el lote Nº20.
+
+Fiscal del Ministerio de Obras Públicas.
