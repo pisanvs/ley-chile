@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 651 de fecha 31 de julio del 2008, se expropió el lote de terreno Nº 7, superficie 504 m2, Rol Nº 400-144, comuna de Pitrufquén, IX Región para la obra 'Proyecto Mejoramiento Trazado Camino Pitrufquen - Ñancul, Sector Tramo Km. 12,20000 al Km. 23,14000', y se acordó el valor de indemnización con su propietario COMITÉ PRO-DESARROLLO TRES ESQUINAS ascendente a la cantidad de $660.236.- para el lote Nº7.
+
+Fiscal del Ministerio de Obras Públicas.
