@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 662, de fecha 31 de julio del 2008, se expropió el lote de terreno N° 35, superficie 1.189 m2, Rol N° 576-190, comuna de Saavedra, IX Región para la obra 'Camino Ruta Lafquenche sector Puente Budi - Puente Chelle. Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región.' y se acordó el valor de indemnización con su propietario DOMINGO HUECHUMPAN LEFIO, ascendente a la cantidad de $1.269.180.
+
+Fiscal del Ministerio de Obras Públicas.
