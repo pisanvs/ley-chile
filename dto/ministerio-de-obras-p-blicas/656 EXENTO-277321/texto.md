@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 656 de fecha 31 de julio de 2008, se expropió el lote de terreno N° 47, superficie 1.419 m2, rol N° 167-72, comuna de Arauco, para la obra 'Camino Ruta P-40, Sector Arauco Quiapo, Km. 0,00000 al Km. 15,96000, VIII Región' y se acordó el valor de la indemnización con su propietario OSCAR MONSALVE NAVARRO, ascendente a la cantidad de $1.820.958.
+
+Fiscal del Ministerio de Obras Públicas.
