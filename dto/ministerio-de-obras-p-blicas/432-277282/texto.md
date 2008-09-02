@@ -1,0 +1,5 @@
+Por Decreto MOP Nº 432 de 30 de junio de 2008, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y del D.F.L. MOP.
+
+Nº 206, de 1960, se expropió el lote de terreno Nº 6, para la obra 'CONCESION EMBALSE CONVENTO VIEJO II ETAPA VI REGION CANAL NORTE UNIFICADO TRAMO I. KM. 0.000,00 AL KM. 17.700,00'; Sexta Región, que figura a nombre de MARIN PARRAGUEZ RAMON ANTONIO, rol de avalúo 16-58, comuna de Lolol, superficie 5.521 m2. La comisión de peritos integrada por los señores Nicolás Fabián Romero Morales, Mufida Viola Abuawad Elias y Eduardo Alejandro Silva Aracena, fijó con fecha 1º de febrero de 2008, el valor provisional de la indemnización en la cantidad de $4.062.700.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
