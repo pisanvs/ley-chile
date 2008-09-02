@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 654 de fecha 31 de julio de 2008, se expropiaron los lotes de terreno N°s 7 y 8, superficies 548 y 400 m2 respectivamente, rol N° 576-47, comuna de Saavedra, para la obra 'Camino Ruta Lafquenche Sector Puente Budi-Puente Chelle, Km. 0,54000 al Km. 8,22000, Provincia de Cautín, Comuna de Saavedra, IX Región.' y se acordó el valor de la indemnización con su propietario JOSE MANUEL FUENTES MALO, ascendente a la cantidad de $1.242.494.
+
+Fiscal del Ministerio de Obras Públicas.
