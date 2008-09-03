@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.906, de 23 de julio de 2008, de esta Subsecretaría, autorízase a MÓNICA GREY CASTILLO ARELLANO para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Las Guaneras, sector Piqueros, Tal Tal, II Región, para elaborar en la línea de proceso de alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
