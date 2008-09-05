@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE DE TEMUCO
+
+Por resolución SII Nº 25, de 25 de julio de 2008, se designó a doña Mónica Loreto Salgado Ureta, Rut Nº 9.082.719-7, como Secretario Titular, y a don Alex Bernard Provost Pérez, Rut Nº 8.412.527-K, como Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Temuco.
