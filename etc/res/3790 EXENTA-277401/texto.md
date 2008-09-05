@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A HANS BOLLINGER SCHOBITZ
+
+La Décima Dirección Regional Puerto Montt del Servicio Impuestos Internos, por resolución Ex. Nº 3.790, de fecha 11 de agosto de 2008, otorga, a contar del 1º del mes siguiente de esta publicación, al contribuyente Hans Bollinger Schobitz, RUT Nº 5.550.051-7, la calidad de agente retenedor del Impuesto al Valor Agregado en la comercialización de ganado vivo, establecido en la resolución exenta Nº 3.721, del 28 de julio de 2000, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1º de agosto de 2000.
