@@ -2114,7 +2114,7 @@ Las superficies a ceder para áreas verdes podrán disponerse de dos formas:
 
 #### Artículo 2
 
-2.7. Los terrenos cedidos para equipamiento deberán inscribirse en el Conservador de Bienes Raíces respectivo a nombre de la Municipalidad correspondiente.
+2.7. Los terrenos cedidos para equipamiento, para el solo efecto de mantener la historia de la propiedad raíz, deberán inscribirse en el Registro de Propiedad del Conservador de Bienes Raíces respectivo a nombre de la Municipalidad correspondiente, presentando para estos efectos el certificado de recepción definitiva parcial o total emitido por el Director de Obras Municipales.
 
 #### Artículo 2
 
@@ -2136,13 +2136,13 @@ En los casos de reposiciones de las veredas o calzadas, se deberán construir di
 
 #### Artículo 2
 
-2.9. Las superficies destinadas a espacio público consultadas en los proyectos de loteo y demás casos contemplados en el artículo 2.2.4. anterior, pasarán a ser parte del Plan Regulador Comunal al cursarse la recepción definitiva de las obras de urbanización, momento en el cual se entenderá aprobado el plano de loteo para efectos de lo indicado en el artículo 69 de la Ley General de Urbanismo y Construcciones.
+2.9. Las superficies destinadas a pasajes, calles, avenidas, áreas verdes y espacios públicos en general, consultadas como tales en los proyectos de loteo y demás casos contemplados en el artículo 2.2.4., pasarán a ser parte del Plan Regulador Comunal al cursarse la recepción definitiva de las obras de urbanización, momento en el cual se entenderá aprobado el plano respectivo para efectos de lo indicado en el artículo 69 de la Ley General de Urbanismo y Construcciones.
 
 En las comunas en que subsidiariamente cumplan la función de Plan Regulador Comunal las disposiciones del Plan Regulador Intercomunal o Metropolitano, los espacios públicos señalados en el inciso anterior pasarán a ser parte de dicho Plan, hasta que entre en vigencia el Plan Regulador Comunal, oportunidad en que se entenderán automáticamente incorporados a este último.
 
 INCISO ELIMINADO.
 
-Los originales de los planos de loteo o de subdivisión deberán archivarse en la Dirección de Obras Municipales y una copia oficial de los mismos en el Conservador de Bienes Raíces respectivo, enviándose además copias del mismo tenor, cuando no exista Plan Regulador Comunal, al Gobierno Regional, a la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y a la respectiva Secretaría Regional Ministerial del mismo Ministerio.
+Los originales de los planos de loteo, de subdivisión y los que correspondan a los demás casos contemplados en el artículo 2.2.4. de esta Ordenanza, deberán archivarse en la Dirección de Obras Municipales y una copia oficial de los mismos en el Conservador de Bienes Raíces respectivo, enviándose además copias del mismo tenor, cuando no exista Plan Regulador Comunal, al Gobierno Regional, a la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, y a la respectiva Secretaría Regional Ministerial del mismo Ministerio.
 
 #### Artículo 2
 
@@ -3090,25 +3090,11 @@ Deberán adjuntarse sus memorias explicativas y sus especificaciones técnicas.
 
 #### Artículo 3
 
-1.6. Cuando se solicite autorización para la apertura de nuevas vías de tránsito público, el Director de Obras Municipales exigirá que se acompañen a la solicitud de permiso los siguientes documentos:
+1.6. Para solicitar al Director de Obras Municipales la aprobación correspondiente en los casos contemplados en los numerales 2 y 3 del artículo 2.2.4. de esta Ordenanza, se deberán presentar los siguientes antecedentes:
 
-1. Solicitud firmada por los propietarios de los terrenos afectados y los profesionales competentes.
+1. En el caso señalado en el numeral 2 del artículo 2.2.4., para solicitar el permiso de ejecución de obras de urbanización de los terrenos afectos a utilidad pública, se deberán presentar los planos de los proyectos de las obras de urbanización definidas por el Director de Obras Municipales, de conformidad al inciso segundo del artículo 2.2.4. de esta Ordenanza, debidamente firmados por los profesionales competentes.
 
-2. Declaración jurada de todos los propietarios de ser titulares del dominio del o de los predios.
-
-3. Certificado de informaciones previas.
-
-4. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, para la densidad propuesta, cuando corresponda.
-
-5. Memoria explicativa que señale los objetivos, los antecedentes esenciales y el impacto que la apertura de la vía significará para el entorno, cuando el Director de Obras Municipales lo exija por escrito.
-
-6. Plano de ubicación de la manzana afectada por la apertura de una vía, a escala no inferior a 1:2.000, pudiendo omitirse si se incorpora esta información en el plano general.
-
-7. Plano general a escala no menor de 1:1.000 con trazado de la nueva vía y sus dimensiones, con curvas de nivel cada 1 m; longitudes máximas con respecto a las vías públicas más próximas; perfiles geométricos debidamente acotados; cuadro con superficies afectadas de cada predio.
-
-8. Planos con los proyectos definitivos de urbanización, debidamente firmados por los profesionales competentes, correspondientes a las redes de agua potable y alcantarillado de aguas servidas y aguas lluvias cuando corresponda; redes de electrificación, alumbrado público y de gas; redes de telecomunicaciones, cuando corresponda; de pavimentación y sus obras complementarias; de las plantaciones y obras de ornato; y de obras de defensa del terreno, cuando corresponda.
-
-Deberán adjuntarse sus memorias explicativas y especificaciones técnicas.
+2. En el caso señalado en el numeral 3 del artículo 2.2.4., para aprobar la división de un predio afecto a utilidad pública, se deberán presentar los documentos que se indican en los artículos 3.1.4. ó 3.1.5. de esta Ordenanza, según corresponda.
 
 Crecimiento urbano por densificación
 
@@ -3374,7 +3360,7 @@ DE LA RECEPCION DE LAS OBRAS, Y SUS TRANSFERENCIAS E INSCRIPCIONES
 
 4.1. Terminadas todas las obras que contempla un permiso de ejecución de obras de urbanización o parte de él que pueda habilitarse independientemente, se solicitará su recepción definitiva total o parcial al Director de Obras Municipales. Para estos efectos, el urbanizador deberá presentar los planos aprobados por los Servicios competentes, y los siguientes antecedentes, según sea el caso:
 
-1. Solicitud de recepción definitiva total o parcial de las obras de urbanización, firmada por el urbanizador de los terrenos y el arquitecto proyectista del loteo.
+1. Solicitud de recepción definitiva total o parcial de las obras de urbanización, firmada por el urbanizador de los terrenos y el arquitecto proyectista del loteo, o demás casos contemplados en el artículo 2.2.4. de esta Ordenanza.
 
 2. Certificado de ejecución de la pavimentación y sus obras complementarias, emitido por el Servicio Regional de Vivienda y Urbanización (SERVIU) o por el Departamento de Pavimentación de la Municipalidad de Santiago, según corresponda.
 
@@ -3392,11 +3378,17 @@ complementarias de electrificación y alumbrado público, emitido por la empresa
 
 8. Certificado de ejecución de las plantaciones y obras de ornato, emitido por la Municipalidad respectiva.
 
-A la solicitud de recepción definitiva deberá adjuntarse además el plano de loteo definitivo, que incluirá todas las modificaciones que se hayan introducido al plano aprobado durante la ejecución de las obras y que incluirá las servidumbres que hayan considerado las obras por recibirse.
+A la solicitud de recepción definitiva deberá adjuntarse, además, el plano de loteo definitivo o de la división afecta a utilidad pública, según corresponda, que incluirá todas las modificaciones que se hayan introducido al plano aprobado durante la ejecución de las obras y que incluirá las servidumbres que hayan considerado las obras por recibirse.
 
 En caso de cumplirse los requisitos exigidos se cursará la recepción definitiva solicitada y se levantará un acta firmada por el Director de Obras Municipales, el propietario y el arquitecto.
 
 Los plazos dispuestos en el artículo 118 de la Ley General de Urbanismo y Construcciones serán aplicables al caso de las recepciones definitivas parciales o totales.
+
+Con todo, en los casos contemplados en el numeral 2 del artículo 2.2.4. de esta Ordenanza, cuando el permiso de ejecución de obras de urbanización de los terrenos afectos a utilidad pública, se solicite conjuntamente con el permiso de edificación acogido a las disposiciones de la ley Nº 19.537, la recepción de las obras de urbanización deberá ser requerida en forma previa o conjunta con la solicitud de recepción definitiva de las obras de edificación respectivas.
+
+#### Artículo 3
+
+4.1. bis.- Tratándose de una solicitud de recepción definitiva total o parcial que comprenda uno o más terrenos cedidos para equipamiento, de conformidad al artículo 70 de la Ley General de Urbanismo y Construcciones, deberá adjuntarse, además de los antecedentes señalados en el artículo 3.4.1. de esta Ordenanza, certificado del Conservador de Bienes Raíces respectivo que acredite que dicho terreno se encuentra libre de prohibiciones, hipotecas y gravámenes y certificado del Servicio de Impuestos Internos, así como de las empresas de servicios de utilidad pública que correspondan, en los que conste que dicho terreno se encuentra sin deudas pendientes en el pago de contribuciones y en el pago de los servicios básicos, respectivamente.
 
 #### Artículo 3
 
@@ -3404,11 +3396,13 @@ Los plazos dispuestos en el artículo 118 de la Ley General de Urbanismo y Const
 
 #### Artículo 3
 
-4.3. Se entenderá por recibido un loteo cuando el Director de Obras Municipales emita el correspondiente certificado de recepción definitiva de las obras de urbanización.
+4.3. Se entenderá por recibido un loteo, cuando el Director de Obras Municipales emita el correspondiente certificado de recepción definitiva de las obras de urbanización. Lo anterior será igualmente aplicable a los demás casos contemplados en el artículo 2.2.4. de esta Ordenanza.
 
-Si el proyecto de loteo permite la recepción por partes, el Director de Obras Municipales emitirá un certificado de recepción definitiva parcial de las obras efectivamente ejecutadas.
+Tratándose de loteos, dicho certificado deberá señalar los deslindes y superficie del predio cedido para equipamiento conforme al artículo 70 de la Ley General de Urbanismo y Construcciones, el número de rol de avalúo asignado en el certificado de preasignación de roles del Servicio de Impuestos Internos correspondiente, número y fojas de inscripción del título anterior y dejar constancia que dichos terrenos se encuentran libres de prohibiciones, hipotecas y gravámenes, de deudas tributarias y de deudas de los servicios básicos que correspondan, haciendo mención a los certificados que acreditan dichos hechos.
 
-Si la ejecución de las obras de urbanización hubiere sido garantizada, el Director de Obras Municipales postergará la emisión del certificado de recepción hasta su ejecución y entretanto emitirá un certificado de urbanización garantizada. Junto con la emisión de cualquiera de los certificados aludidos, el Director de Obras Municipales estampará, en el mismo plano de loteo aprobado, su autorización expresa para transferir el dominio de los lotes resultantes.
+En caso de recepción parcial, el Director de Obras Municipales emitirá un certificado de recepción definitiva parcial de las obras efectivamente ejecutadas. Con todo, los terrenos destinados a equipamiento no podrán constituir, aisladamente, la última de las recepciones parciales.
+
+Si la ejecución de las obras de urbanización hubiere sido garantizada, el Director de Obras Municipales postergará la emisión del certificado de recepción hasta su ejecución y entretanto emitirá un certificado de urbanización garantizada. Junto con la emisión de cualquiera de los certificados aludidos, el Director de Obras Municipales estampará, en el plano de loteo aprobado o en el plano de división del predio afecto a utilidad pública aprobado, su autorización expresa para transferir el dominio de los lotes resultantes.
 
 #### Artículo 3
 
@@ -3416,13 +3410,15 @@ Si la ejecución de las obras de urbanización hubiere sido garantizada, el Dire
 
 #### Artículo 3
 
-4.5. Por el solo hecho de emitirse por parte del Director de Obras Municipales el correspondiente certificado de recepción definitiva total o parcial, quedarán incorporadas al dominio nacional de uso público las superficies cedidas gratuitamente, en conformidad a lo previsto en el artículo 70 de la Ley General de Urbanismo y Construcciones, corespondientes a las vías de tránsito público y áreas verdes de uso público.
+4.5. Por el solo hecho de emitirse por parte del Director de Obras Municipales el correspondiente certificado de recepción definitiva total o parcial de las obras de urbanización, quedarán incorporadas al dominio nacional de uso público las superficies cedidas gratuitamente, en conformidad a lo previsto en el artículo 135 de la Ley General de Urbanismo y Construcciones, correspondientes a pasajes, calles, avenidas, áreas verdes y espacios públicos en general, contempladas como tales en el proyecto.
+
+De igual forma, al emitirse el certificado aludido en el inciso primero de este artículo, los terrenos cedidos para equipamiento quedarán incorporados automáticamente al dominio municipal.
 
 #### Artículo 3
 
 4.6. Los Notarios no autorizarán escrituras de transferencias de dominio de todo o parte de un terreno loteado, ni los Conservadores de Bienes Raíces inscribirán transferencias de dominio de los lotes si en el plano general de loteo aprobado no figura la autorización expresa del Director de Obras Municipales para transferir el dominio de los lotes resultantes por encontrarse ejecutadas o garantizadas las obras de urbanización correspondientes.
 
-En caso de recepción definitiva parcial, la autorización para transferir podrá recaer sobre la parte cuyas obras de urbanización se han ejecutado o garantizado.
+En caso de recepción definitiva parcial, la autorización para transferir sólo podrá recaer sobre la parte cuyas obras de urbanización se han ejecutado o garantizado.
 
 La restricción indicada en el inciso primero de este artículo no afectará el archivo de planos de loteo o subdivisión. Tampoco afectará la inscripción de transferencias de dominio de lotes resultantes de subdivisiones, siempre que el plano aprobado especifique que se trata de una subdivisión y no de un loteo.
 
