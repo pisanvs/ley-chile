@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.979, de 30 de julio de 2008, de esta Subsecretaría, autorízase a JACQUELINE NIEVES FERRADA IRIBARREN para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Norte Ruta 1 Nº 3720 (camino Río Loa a Tocopilla), Tocopilla, II Región, para elaborar en la línea de proceso de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 30 de julio de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
