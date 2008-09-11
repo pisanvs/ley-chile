@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCIÓN EXENTA DEL SERVICIO DE IMPUESTOS INTERNOS Nº 105, DEL 5 DE SEPTIEMBRE DE 2008, QUE IMPARTE INSTRUCCIONES SOBRE EMISIÓN DE CERTIFICADO DE DEUDA QUE DEBEN OTORGAR LOS BANCOS O INSTITUCIONES FINANCIERAS EN CASO DE REPROGRAMACIONES O PRE-PAGOS DE CRÉDITOS, PARA SOLICITAR LA EXENCIÓN DEL IMPUESTO DE TIMBRES Y ESTAMPILLAS, DE CONFORMIDAD CON EL INCISO SÉPTIMO DEL NÚMERO 17 DEL ARTÍCULO 24 DEL DECRETO LEY Nº 3.475, DE 1980
+
+1. Las instituciones financieras que de conformidad a lo dispuesto en el inciso 7º del Nº 17 del artículo 24 del D.L. Nº3.475, de 1980, agregado por el artículo 2º de la Ley Nº20.219, de 2007, deban emitir, a solicitud del requirente, el certificado a que se refiere la ley, con vigencia a una fecha determinada, deberán indicar expresamente en el certificado respectivo, además de las menciones que exige el inciso 5º del numeral 17 de la misma disposición, la referencia específica a la fecha de vigencia determinada, requerida por el interesado, en números y letras. Estos certificados deberán contemplar las demás condiciones que se indican en la resolución.
+
+2. El incumplimiento por parte de la institución responsable de la obligación de otorgar el certificado de deuda o su otorgamiento extemporáneo, o la emisión en forma incompleta de dicho certificado con omisión de alguna de las menciones que debe contener de acuerdo con la ley y a la presente resolución, serán sancionados de acuerdo a lo establecido en el inciso séptimo del Nº 17 del artículo 24 del D.L. Nº 3.475, de 1980, agregado por el artículo 2º de la ley Nº 20.219, de 2007.
+
+3. La presente resolución regirá a contar del mes subsiguiente a aquel de su publicación en extracto en el Diario Oficial.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de septiembre de 2008.
