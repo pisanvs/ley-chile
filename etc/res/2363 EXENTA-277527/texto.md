@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.363, de 4 de septiembre de 2008, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.003, de 2008, de esta Subsecretaría, que rechazó la solicitud Nº 204106010, presentada por TITO AURELIANO DÍAZ CÁRDENAS para un centro de cultivo ubicado en Bahía Huellonquen, Isla Cailín, X Región, en virtud de lo dispuesto en el artículo 59 de la ley Nº 19.880.
+
+Valparaíso, 4 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
