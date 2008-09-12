@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.342, de 29 de agosto de 2008, de esta Subsecretaría, autorízase a BERNARDO DEL TRÁNSITO CORTÉS AHUMADA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Comunidad Agrícola Peral Ojo de Agua s/n, Ovalle, IV Región para elaborar en la línea de proceso Alga Seca y Picado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
