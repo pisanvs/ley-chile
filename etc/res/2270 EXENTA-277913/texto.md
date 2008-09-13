@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.270, de 28 de agosto de 2008, de esta Subsecretaría, modifícase el numeral 6º de la resolución exenta Nº 193, de 2008, modificada mediante resoluciones exentas Nº 740, Nº 1.429, Nº 1.457 y Nº 1.857, todas de 2008, todas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y seguimiento de la pesquería artesanal de Merluza del sur (Merluccius australis) en aguas interiores de la Décima Región, zona de Puerto Montt, año 2008", en el sentido que a continuación se indica:
+
+a) Incrementar la cuota autorizada para el período septiembre-diciembre en 53,001 toneladas de Merluza del sur, las que se subdividirán en fracciones mensuales expresadas en kilos, de acuerdo a la manera señalada en la resolución extractada.
+
+b) El incremento antes señalado se imputará a la cuota de captura de Merluza del sur establecida para el área de aguas interiores, mediante decreto exento Nº 1.785, de 2007, del Ministerio de Economía, Fomento y Reconstrucción, asignada a la X Región.
+
+Valparaíso, 28 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
