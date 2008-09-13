@@ -3736,29 +3736,29 @@ CUENTAS DE AHORRO PARA LA VIVIENDA.
 
 ### 1. Disposiciones generales
 
-De conformidad con lo dispuesto en el Capítulo III.E.3 del Compendio de Normas Financieras del Banco Central de Chile, los bancos pueden abrir cuentas de ahorro para la vivienda con el objeto de postular al sistema de subsidio habitacional. Dicho sistema de subsidio se encuentra regulado en el Decreto Supremo N° 40, de 2004, del Ministerio de Vivienda y Urbanismo, en adelante "el Reglamento".
+De conformidad con lo dispuesto en el Capítulo III.E.3 del Compendio de Normas Financieras del Banco Central de Chile, los bancos pueden abrir cuentas de ahorro para la vivienda con el objeto de postular al sistema de subsidio habitacional de que tratan los Decretos Supremos N° 40 de 2004; N° 149 y N° 174 de 2005; N° 255 de 2006 y N° 145 de 2007 del Ministerio de Vivienda y Urbanismo.
 
-La apertura de estas cuentas implica para un banco asumir la obligación de otorgar en su oportunidad el respectivo certificado de ahorro o de proporcionar directamente al Ministerio de Vivienda y Urbanismo, la información que se requiere para postular al subsidio habitacional establecido en el Reglamento.
+La apertura de estas cuentas implica para un banco asumir la obligación de otorgar en su oportunidad el respectivo certificado de ahorro o de proporcionar directamente al Ministerio de Vivienda y Urbanismo, la información que se requiere para postular al subsidio habitacional establecido en el Reglamento respectivo.
 
-Los sistemas que se utilicen para el manejo de las cuentas de ahorro, deberán permitir llevar los controles y generar la información requerida por las normas contenidas en el Reglamento.
+Los sistemas que se utilicen para el manejo de las cuentas de ahorro, deberán permitir llevar los controles y generar la información requerida por las normas contenidas en el correspondiente Reglamento.
 
-Las cuentas de ahorro a plazo para la vivienda, se rigen en general por las disposiciones sobre cuentas de ahorro de los capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile y por las normas contenidas en el Capítulo 2-4 de esta Recopilación Actualizada de normas, salvo en lo concerniente a sus características especiales y finalidad específica, de que trata el Capítulo III.E.3 antes mencionado y las instrucciones complementarias contenidas en el presente Capítulo.
+Las cuentas de ahorro a plazo para la vivienda, se rigen en general por las disposiciones sobre cuentas de ahorro de los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile y por las normas contenidas en el Capítulo 2-4 de esta Recopilación Actualizada de Normas, salvo en lo concerniente a sus características especiales y finalidad específica, de que trata el Capítulo III.E.3 antes mencionado y las instrucciones complementarias contenidas en el presente Capítulo.
 
 ### 2. Apertura de cuentas de ahorro para la vivienda
 
-Pueden abrir cuentas de ahorro a plazo para la vivienda, ya sean de giro diferido o de giro incondicional, solamente personas naturales que cumplan con las condiciones que señala el Reglamento para acogerse a este sistema. Las cuentas son exclusivamente unipersonales, de modo que no puede aceptarse la apertura de cuentas bi o pluripersonales.
+Pueden abrir cuentas de ahorro a plazo para la vivienda, ya sean de giro diferido o de giro incondicional, solamente personas naturales que cumplan con las condiciones que señala el respectivo Reglamento para acogerse a este sistema. Las cuentas son exclusivamente unipersonales, de modo que no puede aceptarse la apertura de cuentas bi o pluripersonales.
 
 2.1. Declaración jurada.
 
-Debido a que una misma persona no puede tener más de una cuenta para postular al sistema de subsidio antes mencionado, los interesados en abrir una cuenta con esa finalidad deberán suscribir una declaración jurada simple, en el sentido de que no mantienen una "Cuenta de ahorro a plazo para la vivienda" en otra institución, ni un contrato de ahorro que contenga cláusulas que permitan postular a ese subsidio mediante una "Cuenta de ahorro para arrendamiento de viviendas con promesa de compraventa".
+Debido a que una misma persona no puede tener más de una cuenta para postular a alguno de los sistemas de subsidio antes mencionados, los interesados en abrir una cuenta con esa finalidad deberán suscribir una declaración jurada simple, en el sentido de que no mantienen una "Cuenta de ahorro a plazo para la vivienda" en otra institución, ni un contrato de ahorro que contenga cláusulas que permitan postular a ese subsidio mediante una "Cuenta de ahorro para arrendamiento de viviendas con promesa de compraventa".
 
-Además, en dicha declaración jurada el interesado indicará que nunca ha hecho uso de ese sistema de financiamiento fiscal, salvo en los casos de excepción que contempla el Reglamento.
+Además, en dicha declaración jurada el interesado indicará que nunca ha hecho uso de ese sistema de financiamiento fiscal, salvo en los casos de excepción que contempla el Reglamento correspondiente.
 
 2.2. Contrato de apertura.
 
 El contrato de apertura de estas cuentas contendrá las cláusulas de que trata el numeral 3.1 del Capítulo 2-4 de esta Recopilación y las siguientes cláusulas adicionales:
 
-a) Cláusula que señale que la cuenta de ahorro de que se trata, se constituye para optar al subsidio habitacional en los términos y condiciones establecidos en el Reglamento.
+a) Cláusula que señale que la cuenta de ahorro de que se trata, se constituye para optar al subsidio habitacional en los términos y condiciones establecidos en el Reglamento respectivo.
 
 b) La obligación del banco depositario de entregar a solicitud del depositante, dentro de los cinco días hábiles bancarios siguientes a la fecha en que fue solicitado, el certificado de ahorro o proporcionar directamente la respectiva información al Ministerio de Vivienda y Urbanismo, cuando proceda.
 
@@ -3768,7 +3768,7 @@ El banco dejará en su poder el original del contrato, entregándole al ahorrant
 
 ### 3. Registro de las cuentas de ahorro a plazo para la vivienda
 
-La apertura de las cuentas de ahorro a plazo para la vivienda se hará constar en un registro especial de nominado "Registro de cuentas de ahorro a plazo para la vivienda".
+La apertura de las cuentas de ahorro a plazo para la vivienda se hará constar en un registro especial denominado "Registro de cuentas de ahorro a plazo para la vivienda".
 
 En este registro debe quedar estampada la firma del titular de la cuenta de ahorro y los siguientes antecedentes personales:
 
@@ -3800,7 +3800,7 @@ En el cobro de comisiones por la mantención de las cuentas son plenamente aplic
 
 Los estados de cuenta deben contener, además de lo establecido en las normas generales del Capítulo 2-4 de esta Recopilación, la información acerca del promedio mantenido durante el período que exija el Reglamento, en pesos o en unidades de fomento, según corresponda.
 
-Estos estados deberán enviarse también con ocasión del giro que haga un titular, ya sea para abonar al precio de la vivienda que adquiera o construya o con motivo del traspaso de su cuenta a otra institución, aunque ello ocurra antes de cumplirse los plazos que contemplan las disposiciones generales.
+Estos estados deberán enviarse también con ocasión del giro que haga un titular, ya sea para abonar al precio de la vivienda que adquiera o construya, para financiar obras de mejoramiento de la vivienda o con motivo del traspaso de su cuenta a otra institución, aunque ello ocurra antes de cumplirse los plazos que contemplan las disposiciones generales.
 
 7. Normas especiales para el pago de intereses y reajustes en las cuentas de ahorro a plazo.
 
@@ -3810,15 +3810,15 @@ No obstante lo dispuesto en el Capítulo 2-4 de esta Recopilación Actualizada d
 
 a) Cuando, conforme a lo indicado en el numeral 9.5 de este Capítulo, se proceda a efectuar el traspaso del ahorro acumulado a otra institución o cuando en el mismo banco se traspase el ahorro a una cuenta regida por la Ley N° 19.281.
 
-b) Cuando se aplique el ahorro acumulado al pago del precio de compra o construcción de la vivienda, según lo indicado en el numeral 11.2 de este Capítulo.
+b) Cuando se aplique el ahorro acumulado al pago del precio de compra o construcción de la vivienda o a alguno de los otros programas de que trata el antes citado Decreto Supremo N° 255, que requieren mantener un ahorro mínimo, para una próxima postulación o una nueva aplicación o giro, según lo indicado en el numeral 11.2 de este Capítulo.
 
 Deberán abonarse los reajustes e intereses devengados hasta el último día del mes anterior a aquel en que se efectúe el traspaso o giro. En todo caso, el abono de reajustes, cuando sea el caso, procederá sólo si el titular no hubiere perdido tal derecho por exceso de giros, de acuerdo con lo pactado.
 
-La aplicación de los fondos en los casos señalados en este numeral, originará siempre el cierre de la respectiva cuenta de la cual se detraen.
+La aplicación de la totalidad de los fondos en los casos señalados en este numeral, no originará necesariamente el cierre de la respectiva cuenta de la cual se detraen.
 
 7.2. Cómputo de giros para establecer el derecho a reajustes.
 
-Para los efectos de determinar el derecho a reajuste, cuando sea el caso, no se computarán como giro los desembolsos parciales que se realicen para pagar anticipadamente parte del precio de la vivienda con autorización previa del SERVIU.
+Para los efectos de determinar el derecho a reajuste, cuando corresponda, no se computarán como giro los desembolsos parciales que se realicen para pagar anticipadamente, con autorización previa del SERVIU, parte del precio de la vivienda o del financiamiento de obras de mejoramiento de la vivienda ya adquirida, según sea el caso.
 
 Tampoco se computarán como giros para aquel efecto, los cargos efectuados en la cuenta para el pago de la prima del seguro de vida contratado por el titular, asociado a la respectiva cuenta de ahorro, cuando sea el caso.
 
@@ -3826,7 +3826,7 @@ La cuenta de la misma especie abierta en otra institución debe tratarse como cu
 
 ### 8. Suspensión de la facultad de girar
 
-La facultad de girar quedará suspendida con motivo de la postulación al subsidio, a partir del momento y con las excepciones establecidas en el Reglamento.
+La facultad de girar quedará suspendida con motivo de la postulación al subsidio de que se trate, a partir del momento y con las excepciones establecidas en el Reglamento respectivo.
 
 También quedará suspendida la facultad de girar cuando el interesado solicite el traspaso de sus ahorros a otra institución.
 
@@ -3856,13 +3856,13 @@ La apertura de la cuenta en otra institución, proveniente de un traspaso, deber
 
 Si el traspaso no se efectuara en ese plazo, el titular perderá la permanencia o antigüedad de su ahorro para los efectos de la postulación al subsidio, debiendo considerarse el importe traspasado como el depósito inicial.
 
-Los bancos deben verificar que se cumpla lo ante dicho, mediante el cotejo de los datos respectivos del certificado para traspaso de cuenta emitido por la institución en que se encontraba abierta la cuenta motivo del traspaso.
+Los bancos deben verificar que se cumpla lo antedicho, mediante el cotejo de los datos respectivos del certificado para traspaso de cuenta emitido por la institución en que se encontraba abierta la cuenta motivo del traspaso.
 
 9.4. Certificados para el traspaso de la cuenta de ahorro.
 
-El banco que hubiere mantenido la cuenta, debe extender un certificado, dejando constancia, además del nombre completo y el RUT de la ahorrante, de los saldos promedio mantenidos durante el período que exija el Reglamento y del saldo de cierre de la cuenta.
+El banco que hubiere mantenido la cuenta, debe extender un certificado, dejando constancia, además del nombre completo y el RUT del ahorrante, de los saldos promedio mantenidos durante el período que exija el correspondiente Reglamento y del saldo de cierre de la cuenta.
 
-Los bancos emitirán estos certificados de acuerdo con el formato e instrucciones contenidas en el anexo de este Capítulo.
+Los bancos emitirán estos certificados de acuerdo con el formato e instrucciones contenidas en el Anexo de este Capítulo.
 
 En el certificado se deberá indicar en forma destacada que la nueva cuenta debe ser abierta en un plazo máximo de tres días hábiles bancarios, en atención a lo que se indica en el numeral 9.3 precedente.
 
@@ -3872,7 +3872,7 @@ Es obligatorio tanto para el banco que traspasa el ahorro, como para aquel que l
 
 Cuando se proceda a efectuar un traspaso desde una cuenta de ahorro, el banco depositario que mantenía la cuenta procederá a cerrarla, abonando previamente los intereses y reajustes devengados hasta el último día del mes inmediatamente anterior, cuando corresponda, según lo previsto en el numeral 7.1 de este Capítulo.
 
-El traspaso de la cuenta se materializará mediante el giro de su saldo, que debe entregarse al titular de la cuenta, en un vale vista, a su orden, acompañado del certificado de traspaso a que se refiere el numeral 9.4 anterior, salvo que el traspaso lo solicite el ahorrante después de habérsele extendido el certificado de ahorro para postular al subsidio, caso en que el importe debe traspasarse directamente a la institución que señale el ahorrante, lo que se efectuará por medio de un vale vista u otro documento igualmente pagadero a la vista, extendido a la orden de la misma institución que traspasa la cuenta y endosado por ella a favor de la entidad designada por el ahorrante. Para estos casos, el endoso se extenderá en los siguientes términos: "Páguese a favor de (nombre de la institución respectiva) con el exclusivo fin de abonarlo a la cuenta de ahorro para subsidio habitacional abierta a nombre de (nombre del ahorrante) en esa institución. Se deja constancia que esta institución, con fecha............, certificó al SERVIU el ahorro acumulado para los efectos de postulación al subsidio.".
+El traspaso de la cuenta se materializará mediante el giro de su saldo, que debe entregarse al titular de la cuenta, en un vale vista, a su orden, acompañado del certificado de traspaso a que se refiere el numeral 9.4 anterior, salvo que el traspaso lo solicite el ahorrante después de habérsele extendido el certificado de ahorro para postular al subsidio, caso en que el importe debe traspasarse directamente a la institución que señale el ahorrante, lo que se efectuará por medio de un vale vista u otro documento igualmente pagadero a la vista, extendido a la orden de la misma institución que traspasa la cuenta y endosado por ella a favor de la entidad designada por el ahorrante. Para estos casos, el endoso se extenderá en los siguientes términos: "Páguese a favor de (nombre de la institución respectiva) con el exclusivo fin de abonarlo a la cuenta de ahorro para subsidio habitacional abierta a nombre de (nombre del ahorrante) en esa institución. Se deja constancia que esta institución, con fecha........... , certificó al SERVIU el ahorro acumulado para los efectos de postulación al subsidio.".
 
 Si el traspaso es solicitado por varios ahorrantes en conjunto como, por ejemplo, en el caso de los pertenecientes a cooperativas o comunidades, éste podrá efectuarse mediante un solo documento por el monto total de los saldos de las respectivas cuentas, acompañado de una nómina con el detalle de cada una de las cuentas traspasadas.
 
@@ -3880,9 +3880,9 @@ Si el traspaso es solicitado por varios ahorrantes en conjunto como, por ejemplo
 
 10.1. Información directa al Ministerio de Vivienda y Urbanismo.
 
-De conformidad con lo dispuesto en el Reglamento, los titulares de las cuentas de ahorro acogidas al sistema de subsidio, pueden autorizar al Ministerio de Vivienda y Urbanismo para que solicite directamente a las respectivas instituciones financieras, la información relativa a sus ahorros mantenidos.
+De conformidad con lo dispuesto en el Reglamento respectivo, los titulares de las cuentas de ahorro acogidas al sistema de subsidio, pueden autorizar al Ministerio de Vivienda y Urbanismo para que solicite directamente a las respectivas instituciones financieras, la información relativa a sus ahorros mantenidos.
 
-En tales casos, los banco deberán proporcionar, a requerimiento de la mencionada Secretaría de Estado, la información correspondiente a los ahorros de los postulantes al subsidio habitacional, en la forma y por los medios que acuerden, en lugar del certificado de que trata el numeral siguiente.
+En tales casos, los bancos deberán proporcionar, a requerimiento de la mencionada Secretaría de Estado, la información correspondiente a los ahorros de los postulantes al subsidio habitacional, en la forma y por los medios que acuerden, en lugar del certificado de que trata el numeral siguiente.
 
 10.2. Certificados para la postulación.
 
@@ -3898,21 +3898,21 @@ Estos certificados deberán extenderse de acuerdo al formato que proporcione o e
 
 Si el interesado salió beneficiado en el llamado a que postuló, podrá girar de la cuenta de ahorro bajo las condiciones y para los fines fijados en el Reglamento.
 
-11.2. Liquidación y cierre de la cuenta.
+11.2. Giro total o parcial de los fondos.
 
-Cuando deban aplicarse al pago final de la vivienda los fondos acumulados en una "Cuenta de ahorro a plazo para la vivienda", cualesquiera sea su saldo, se abonarán previamente, cuando proceda, los intereses y reajustes devengados hasta el último día del mes inmediatamente anterior, según lo previsto en el numeral 7.1 de este Capítulo.
+Cuando los fondos acumulados en una "Cuenta de ahorro a plazo para la vivienda", cualesquiera sea su saldo, sean girado en su totalidad para aplicarlos a la finalidad para la cual estaban destinados, se abonarán previamente, cuando proceda, los intereses y reajustes devengados hasta el último día del mes inmediatamente anterior, según lo previsto en el numeral 7.1 de este Capítulo.
 
-En caso de que no se aplique la totalidad de los fondos al pago de la vivienda y el titular no haya instruido otro destino para el remanente, éste se traspasará como depósito inicial para una cuenta de ahorro a plazo.
+En caso de que no se aplique la totalidad de los fondos al pago de la vivienda o a alguna de las obras de mejoramiento a que estaban destinados, referidas en el Decreto Supremo N° 255, el titular podrá disponer que el saldo se mantenga en la misma cuenta para una aplicación futura, o bien se traspase como depósito inicial para una cuenta de ahorro a plazo.
 
 ### 12. Información al público y a los ahorrantes
 
 Para informar a los ahorrantes y al público en general acerca de las condiciones de las cuentas de ahorro para la vivienda, como asimismo para el envío periódico del estado de cuenta con los movimientos y saldos de ellas, los bancos deberán ceñirse a las instrucciones contenidas en el Capítulo 2-4, teniendo presente, además, la información específica que debe ser entregada a los clientes de acuerdo con las disposiciones del presente Capítulo.
 
-A fin de evitar, en todo lo posible, que aquellas personas que no reúnan los requisitos o condiciones para obtener el subsidio habitacional antes mencionado, abran estas cuentas que, a la postre, no les servirán para los fines que esperaban, las instituciones depositarias deberán informar a los interesados, en forma amplia y clara acerca de lo siguiente: finalidad de las cuentas de ahorro para la vivienda; condiciones que debe cumplir el ahorrante, de acuerdo con las exigencias del Reglamento; limitación de los beneficios del sistema a las personas naturales que no sean propietarias, ellas ni sus cónyuges, de una vivienda; y, montos máximos de precio o valor de las viviendas que pueden adquirirse o construirse mediante este sistema.
+A fin de evitar, en todo lo posible, que aquellas personas que no reúnan los requisitos o condiciones para obtener alguno de los subsidios mencionados en este Capítulo, abran estas cuentas que, a la postre, no les servirán para los fines que esperaban, las instituciones depositarías deberán informar a los interesados, en forma amplia y clara acerca de lo siguiente: finalidad de las cuentas de ahorro para la vivienda; condiciones que debe cumplir el ahorrante, de acuerdo con las exigencias del correspondiente Reglamento; limitación de los beneficios del sistema a las personas naturales que no sean propietarias, ellas ni sus cónyuges, de una vivienda; y, montos máximos de precio o valor de las viviendas que pueden adquirirse o construirse mediante este sistema.
 
 13. Aplicación de las cuentas de ahorro a otros sistemas de financiamiento para la vivienda.
 
-Las cuentas de ahorro a plazo para la vivienda, también podrán ser utilizadas para otros sistemas de subsidio establecidos por el Ministerio de Vivienda y Urbanismo, en cuyos reglamentos se señale su uso y siempre que dichos sistemas sean compatibles con las normas que las rigen.
+Las cuentas de ahorro a plazo para la vivienda, también podrán ser utilizadas para otros sistemas de subsidio establecidos por el Ministerio de Vivienda y Urbanismo, en cuyos reglamentos se señale su utilización y siempre que dichos sistemas sean compatibles con las normas que las rigen.
 
 14. Garantía prendaria sobre el saldo mantenido en cuenta de ahorro para la vivienda.
 
@@ -3920,29 +3920,29 @@ Atendidas las especiales características de los depósitos en cuentas de ahorro
 
 ANEXO
 
-CERTIFICADO DE MANTENCION DE AHORRO PARA LA VIVIENDA
+CERTIFICADO DE MANTENCION DE AHORRO PARA LA VIVIENDA (Para traspaso a otra institución)
 
-(Para traspaso a otra institución)
+CERTIFICADO N° .......... (Numeración correlativa) FECHA EMISION: ..............
 
-CERTIFICADO N°:........... (Numeración correlativa) FECHA EMISION:..............
-
-INSTITUCION FINANCIERA:........................................................
+INSTITUCION FINANCIERA: ........................................................
 
 PARA SER PRESENTADO A OTRA INSTITUCION DENTRO DE UN PLAZO DE TRES DIAS HABILES BANCARIOS A CONTAR DE LA FECHA DE ESTE CERTIFICADO.
 
-CERTIFICO que don (doña) ....................................................... R.U.T. N°.............................abrió en esta institución financiera el .... de.............d e ...... una cuenta de ahorro a plazo para la vivienda.
+CERTIFICO que don (doña) .......................................................
 
-Los saldos medios mantenidos en los últimos semestres son los siguientes:
+R.U.T. N° ............. abrió en esta institución financiera el .... de ...... de ......una cuenta de ahorro a plazo para la vivienda.
 
-Penúltimo semestre cumplido: $................... U F ..........................
+Los saldos medios mantenidos en los últimos semestres son los siguiente:
 
-Ultimo semestre cumplido : $................... U F ............................
+Penúltimo semestre cumplido: $ ........... UF ...........
 
-El ahorro total acumulado a esta fecha para ser traspasado a otra institución, asciende a la suma de $..................... / U F ................
+Ultimo semestre cumplido: $ ............. UF ...........
 
-Para los efectos de la continuidad del cómputo semestral, se informa que el saldo medio mantenido en los últimos....días que han transcurrido desde el término del último período cumplido informado precedentemente y la fecha del presente certificado fue de ...............
+El ahorro total acumulado a esta fecha para ser traspasado a otra institución, asciende a la suma de $............/UF...........
 
-________________
+Para los efectos de la continuidad del cómputo semestral, se informa que el saldo mantenido en los últimos ...... días que han transcurrido desde el término del último período cumplido informado precedentemente y la fecha del presente certificado fue de ............. U.F/$.
+
+_______________________
 
 GERENTE
 
@@ -4566,15 +4566,17 @@ En caso que el estudiante, titular de la cuenta de ahorro haga abandono de la ca
 
 PLANES DE AHORRO PREVISIONAL VOLUNTARIO.
 
-### 1. Disposiciones Generales
+### I. AHORRO PREVISIONAL VOLUNTARIO
 
-Los Bancos que decidan ofrecer planes de ahorro previsional voluntario en el marco de las disposiciones de la Ley N° 19.768, que modificó en lo pertinente el Decreto Ley N° 3.500 de 1980, deberán presentar previamente dichos planes a esta Superintendencia para su aprobación.
+### 1. Planes de ahorro previsional voluntario
+
+Los bancos que decidan ofrecer planes de ahorro previsional voluntario en el marco de las disposiciones de la Ley N° 19.768 y de la Ley N° 20.255 que modificaron en lo pertinente el Decreto Ley N° 3.500, de 1980, deberán presentar previamente dichos planes a esta Superintendencia para su aprobación.
 
 Para ese efecto, informarán las características del plan que ofrecerán y los instrumentos comprendidos en él, así como la estructura de comisiones e intereses que se aplicarán. Conjuntamente con esa información deberá acompañarse un ejemplar de los contratos que se suscribirán con los depositantes.
 
-Los planes de ahorro previsional voluntario comprenden los depósitos convenidos y los depósitos de ahorro previsional voluntarios, pudiendo ambos conceptos estar incluidos en un mismo plan. Estos planes estarán conformados por instrumentos financieros de oferta pública y cuentas de ahorro. Los citados instrumentos y cuentas no alterarán las características que les son propias cuando sean utilizados en dichos planes de ahorro previsional voluntario.
+Los planes de ahorro previsional voluntario comprenden los depósitos convenidos, los depósitos de ahorro previsional voluntarios y la bonificación fiscal, cuando los trabajadores se hayan acogido a lo dispuesto en la letra a) del N°2 del Título XII de la Circular Conjunta N° 3.445, del 8 de septiembre de 2008, pudiendo todos esos conceptos estar incluidos en un mismo plan. Estos planes estarán conformados por instrumentos financieros de oferta pública y cuentas de ahorro. Los citados instrumentos y cuentas no alterarán las características que les son propias cuando sean utilizados en dichos planes de ahorro previsional voluntario.
 
-La difusión pública de esos planes no podrá hacerse antes de haber obtenido la correspondiente autorización de esta Superintendencia, de acuerdo con lo establecido en el Título III de la Circular Conjunta N° 3.164-1.435 de esta Superintendencia y de las Superintendencias de Valores y Seguros, de Administradoras de Fondos de Pensiones y de Seguridad Social.
+La difusión pública de esos planes no podrá hacerse antes de haber obtenido la correspondiente autorización de esta Superintendencia, de acuerdo con lo establecido en el Título IV de la Circular Conjunta N° 3.445 antes mencionada.
 
 ### 2. Instrumentos de ahorro
 
@@ -4582,37 +4584,41 @@ Los depósitos bajo el plan de ahorro previsional pueden constituirse en las ent
 
 Cualquiera sean los instrumentos que se utilicen, deberá quedar claramente señalado en ellos que corresponden a un plan de ahorro previsional voluntario.
 
-Acorde con las condiciones de ese plan, no pueden utilizarse para estos efectos las cuentas de ahorro destinadas a cumplir un objetivo específico, como lo son las cuentas de ahorro del sistema general unificado de subsidio habitacional, las cuentas de ahorro de vivienda con promesa de compraventa y las cuentas de ahorro a plazo para la educación superior.
+Acorde con las condiciones de ese plan, no pueden utilizarse para estos efectos las cuentas de ahorro destinadas a cumplir un objetivo específico, como lo son, entre otras, las cuentas de ahorro del sistema general unificado de subsidio habitacional, las cuentas de ahorro de vivienda con promesa de compraventa y las cuentas de ahorro a plazo para la educación superior.
 
 ### 3. Comisiones y gastos
 
-Las instituciones depositarias podrán cobrar una comisión única, expresada en términos anuales, por la administración de cada plan. Dicha comisión comprenderá los diversos instrumentos que pueden integrar un mismo plan de ahorro previsional voluntario. En el caso de los planes integrados por cuentas de ahorro se aplicarán en lo pertinente las instrucciones del Capítulo 2-4 de la Recopilación Actualizada de Normas y las de los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
+Las instituciones depositarías podrán cobrar una comisión única, expresada en términos anuales, por la administración de cada plan. Dicha comisión comprenderá los diversos instrumentos que pueden integrar un mismo plan de ahorro previsional voluntario. En el caso de los planes integrados por cuentas de ahorro se aplicarán en lo pertinente las instrucciones del Capítulo 2-4 de la Recopilación Actualizada de Normas y las de los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
 
 No podrán pagarse gastos de cualquier naturaleza, con cargo a los fondos que correspondan a un plan de ahorro previsional, con excepción de los cargos que tengan por objeto revertir un depósito reciente mal efectuado o hecho con un cheque cuyo pago haya sido rechazado. Dentro de esa prohibición quedan comprendidos los cobros por primas de seguros de vida que se hayan contratado, así como por cualquier otro concepto.
 
 ### 4. Intereses y reajustes
 
-El pago de intereses y reajustes a las cuentas de ahorro que conforman el plan de ahorro voluntario previsional, se hará sobre la base de las disposiciones contenidas en los Capítulos 2-1 ó 2-4 de la Recopilación Actualizada de Normas, según corresponda. Los cambios que se efectúen de las tasas de interés vigentes deberán avisarse, cuando se trate de una disminución, con a lo menos cinco días de anticipación a la fecha inicial del mes en que comenzará a aplicarse, en tanto que los aumentos de tasa podrán regir de inmediato y, a lo menos, por lo que resta del mes en que se efectúe y por todo el mes.
+El pago de intereses y reajustes a las cuentas de ahorro que conforman el plan de ahorro voluntario previsional, se hará sobre la base de las disposiciones contenidas en los Capítulos 2-1 ó 2-4 de la Recopilación Actualizada de Normas, según corresponda. Los cambios que se efectúen de las tasas de interés vigentes deberán avisarse, cuando se trate de una disminución, con a lo menos cinco días de anticipación a la fecha inicial del mes en que comenzará a aplicarse, en tanto que los aumentos de tasa podrán regir de inmediato y, a lo menos, por lo que resta del mes en que se efectúe y por todo el mes siguiente.
 
-Debe tenerse presente que, como se estableció en la Circular Conjunta N° 3.164-1.435, los intereses y reajustes que se paguen por los saldos de esas cuentas de ahorro, como también por los depósitos a plazo constituidos con la misma finalidad, deben ser capitalizados en la misma cuenta o agregados al depósito que corresponda.
+Debe tenerse presente que, como se estableció en la Circular Conjunta N° 3.445, los intereses y reajustes que se paguen por los saldos de esas cuentas de ahorro, como también por los depósitos a plazo constituidos con la misma finalidad, deben ser capitalizados en la misma cuenta o agregados al depósito que corresponda.
 
 ### 5. Retiros y traspasos
 
-Las entidades depositarias deben atender las solicitudes de giro o de traspaso que le soliciten los titulares de las respectivas cuentas, siguiendo, cuando se trate de cuentas de ahorro, las pautas establecidas en el mencionado Capítulo 2-4, y en los Títulos VII y IX de la ya citada Circular Conjunta.
+Las entidades depositarías deben atender las solicitudes de traspaso o giro que les presenten los titulares de las respectivas cuentas, siguiendo, cuando se trate de cuentas de ahorro, las pautas establecidas en el mencionado Capítulo 2-4 y en los Títulos VIII y X de la ya citada Circular Conjunta.
 
-La solicitud de retiro o traspaso de fondos de los depósitos de ahorro previsional voluntario deberá cumplirse dentro de los treinta días siguientes a la fecha de su recepción por el banco. En todo caso, deberán observarse los plazos mínimos y condiciones señalados en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile y en las disposiciones del antes referido Capítulo 2-4, según se trate de depósitos a plazo o cuentas de ahorro, respectivamente.
+La solicitud de traspaso o retiro de fondos de los depósitos de ahorro previsional voluntario deberá cumplirse dentro de los treinta días siguientes a la fecha de su recepción por el banco. En todo caso, deberán observarse los plazos mínimos y condiciones señalados en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile y en las disposiciones del antes referido Capítulo 2-4, según se trate de depósitos a plazo o cuentas de ahorro, respectivamente.
 
-Los giros con cargo a los depósitos de ahorro previsional voluntario no podrán efectuarse en cajeros automáticos, sino solamente en las cajas de los bancos depositarlos.
+Las solicitudes de traspaso de fondos podrán ser revocables y en cuyo caso las instituciones bancarias los resguardos apropiados para garantizar la seguridad e integridad de los montos involucrados.
 
-### 6. Cobranza de cotizaciones correspondientes a depósitos convenidos
+Los bancos deberán imputar los importes que les soliciten traspasar, a los depósitos de ahorro previsional voluntario que correspondan de acuerdo con las pautas y condiciones contenidas en la Circular Conjunta.
+
+Los giros con cargo a los depósitos de ahorro previsional voluntario no podrán efectuarse en cajeros automáticos, sino solamente en las cajas de los bancos depositarios o por Internet, con sujeción a lo dispuesto en el citado Título X de la Circular Conjunta N° 3.445.
+
+6. Cobranza de cotizaciones correspondientes a depósitos convenidos y de ahorro previsional voluntario.
 
 El plan de ahorro previsional voluntario comprende también la incorporación de los llamados depósitos convenidos de que trata el artículo 20 del Decreto Ley N°3.500. Estos depósitos, a petición del trabajador pueden traspasarse hacia una institución bancaria como también pueden constituirse en ellas.
 
-Según lo dispuesto en el Título X de la Circular Conjunta N° 3.164-1.435, estará a cargo de la institución depositaria la gestión de cobranza de los depósitos convenidos que debe efectuar en una institución autorizada el empleador, a petición del respectivo trabajador. Esta Superintendencia, en uso de la facultad fiscalizadora que le compete en la materia, podrá requerir de los bancos, todos los antecedentes que demuestren la diligencia empleada en el cumplimiento de la gestión de cobro, la calidad de esa gestión y los resultados obtenidos.
+Según lo dispuesto en el Título XI de la Circular Conjunta N° 3.445, estará a cargo de la institución depositaría la gestión de cobranza de los depósitos convenidos y los depósitos de ahorro previsional voluntario que debe efectuar el empleador en una institución autorizada, a petición del respectivo trabajador. Esta Superintendencia, en uso de la facultad fiscalizadora que le compete en la materia, podrá requerir de los bancos, todos los antecedentes que demuestren la diligencia empleada en el cumplimiento de la gestión de cobro, la calidad de esa gestión y los resultados obtenidos.
 
 Al respecto, las gestiones de cobranza para obtener el pago de estas cotizaciones adicionales deberán realizarse siguiendo las disposiciones del artículo 19 del Decreto Ley N° 3.500.
 
-De las gestiones de cobro que realicen deberán dejar constancia en el Registro Histórico de Información por Trabajador, a que se refiere el Título V de la Circular Conjunta N° 3.164-1.435, o en un anexo al mismo.
+De las gestiones de cobro que realicen deberán dejar constancia en el Registro Histórico de Información por Trabajador, a que se refiere el Título VI de la Circular Conjunta N° 3.445 , o en un anexo al mismo.
 
 ### 7. Información al público
 
@@ -4620,7 +4626,73 @@ Sin perjuicio del cumplimiento de lo instruido en la Circular Conjunta, los banc
 
 Así, la información sobre las comisiones que se cobrarán por cada plan, deberá incluir el importe correspondiente al Impuesto al Valor Agregado a que están afectas. Las tarifas que se establezcan tendrán una vigencia mínima de un trimestre y no podrán ser cambiadas antes del término de ese período. Cualquier modificación deberá hacerse en concordancia con las disposiciones que el Banco Central de Chile ha impartido sobre el particular para las cuentas de ahorro a plazo.
 
-En lo que se refiere a la información sobre la rentabilidad de estos planes, ella deberá entregarse neta de costos, en la forma dispuesta en el Título XII de la citada Circular Conjunta. Esto significa que, a la rentabilidad, calculada de la forma indicada en el número 8 del mencionado Título XII, deben restársele los costos por concepto de comisiones, incluido el Impuesto al Valor Agregado, que se cobran en el mismo período a que se refiere dicha rentabilidad y los demás cobros que eventualmente pudieran permitirse.
+En lo que se refiere a la información sobre la rentabilidad de estos planes, ella deberá entregarse neta de costos, en la forma dispuesta en el Título XIII de la citada Circular Conjunta. Esto significa que, a la rentabilidad, calculada de la forma indicada en el número 8 del mencionado Título XIII, deben restársele los costos por concepto de comisiones, incluido el Impuesto al Valor Agregado, que se cobran en el mismo período a que se refiere dicha rentabilidad y los demás cobros que eventualmente pudieran permitirse.
+
+Los bancos deberán enviar a los titulares de depósitos de ahorro previsional voluntario, a lo menos una vez al año, un estado en el que se incluyan los importes pagados en el período, la rentabilidad, los costos asociados y el saldo.
+
+### II. AHORRO PREVISIONAL VOLUNTARIO COLECTIVO
+
+### 1. Planes de ahorro previsional voluntario colectivo
+
+Los bancos que decidan ofrecer planes de ahorro previsional voluntario colectivo en el marco de las disposiciones de la Ley N° 20.255, que modificó en lo pertinente el Decreto Ley N° 3.500 de 1980, deberán presentar previamente dichos planes a esta Superintendencia para su aprobación.
+
+Para ese efecto, informarán las características del plan que ofrecerán y los instrumentos comprendidos en él, así como la estructura de comisiones e intereses que se aplicarán. Conjuntamente con esa información deberá acompañarse un ejemplar de los contratos que se suscribirán con los empleadores y los formularios de adhesión o traspaso de ahorro previsional voluntario colectivo que deberán suscribir los trabajadores.
+
+Por otra parte, los planes de ahorro previsional voluntario colectivo comprenden los aportes del empleador, los aportes de los trabajadores si los hubiere y la bonificación fiscal, cuando los trabajadores se hayan acogido a lo dispuesto en la letra a) del N° 2 del Título XI de la Circular Conjunta N° 3.446, del 8 de septiembre de 2008, sobre ahorro previsional voluntario colectivo, pudiendo estos conceptos estar incluidos en un mismo plan.
+
+Los planes de ahorro previsional voluntario colectivo estarán conformados por instrumentos financieros de oferta pública y cuentas de ahorro. Los citados instrumentos y cuentas no alterarán las características que les son propias cuando sean utilizados en dichos planes de ahorro previsional voluntario colectivo.
+
+La difusión pública de esos planes no podrá hacerse antes de haber obtenido la correspondiente autorización de esta Superintendencia, de acuerdo con lo establecido en el Título XII de la Circular Conjunta N° 3.446 de esta Superintendencia y de las Superintendencias de Valores y Seguros y de Pensiones.
+
+### 2. Instrumentos de ahorro
+
+Los depósitos bajo el plan de ahorro previsional voluntario colectivo pueden constituirse en las entidades bancarias que hayan obtenido la aprobación del respectivo plan, mediante depósitos a plazo nominativos no endosables o cuentas de ahorro a plazo unipersonales, sean éstas con giro diferido o incondicional o en otros instrumentos de oferta pública, emitidos por el banco receptor del ahorro, que cumplan las condiciones de intransferibilidad que los hagan elegibles para los planes de ahorro previsional voluntario colectivo.
+
+Cualquiera sean los instrumentos que se utilicen, deberá quedar claramente señalado en ellos que corresponden a un plan de ahorro previsional voluntario colectivo.
+
+Acorde con las condiciones de ese plan, no pueden utilizarse para estos efectos las cuentas de ahorro destinadas a cumplir un objetivo específico, como lo son, entre otras, las cuentas de ahorro del sistema general unificado de subsidio habitacional, las cuentas de ahorro de vivienda con promesa de compraventa y las cuentas de ahorro a plazo para la educación superior.
+
+### 3. Comisiones y gastos
+
+Las instituciones depositarías podrán cobrar una comisión única, expresada en términos anuales, por la administración de cada plan. Dicha comisión comprenderá los diversos instrumentos que pueden integrar un mismo plan de ahorro previsional voluntario colectivo. En el caso de los planes integrados por cuentas de ahorro se aplicarán en lo pertinente las instrucciones del Capítulo 2-4 de la Recopilación Actualizada de Normas y las de los Capítulos III.E.1 y III.E.4 del Compendio de Normas Financieras del Banco Central de Chile.
+
+No podrán pagarse gastos de cualquier naturaleza, con cargo a los fondos que correspondan a un plan de ahorro previsional colectivo, con excepción de los cargos que tengan por objeto revertir un depósito reciente mal efectuado o hecho con un cheque cuyo pago haya sido rechazado. Dentro de esa prohibición quedan comprendidos los cobros por primas de seguros de vida que se hayan contratado, así como por cualquier otro concepto.
+
+### 4. Intereses y reajustes
+
+El pago de intereses y reajustes a las cuentas de ahorro que conforman el plan de ahorro voluntario previsional colectivo, se hará sobre la base de las disposiciones contenidas en los Capítulos 2-1 ó 2-4 de la Recopilación Actualizada de Normas, según corresponda. Los cambios que se efectúen de las tasas de interés vigentes deberán avisarse, cuando se trate de una disminución, con a lo menos cinco días de anticipación a la fecha inicial del mes en que comenzará a aplicarse, en tanto que los aumentos de tasa podrán regir de inmediato y, a lo menos, por lo que resta del mes en que se efectúe y por todo el mes siguiente.
+
+Debe tenerse presente que, como se estableció en la Circular Conjunta N° 3.446, los intereses y reajustes que se paguen por los saldos de esas cuentas de ahorro, como también por los depósitos a plazo constituidos con la misma finalidad, deben ser capitalizados en la misma cuenta o agregados al depósito que corresponda.
+
+### 5. Retiros y traspasos
+
+Las entidades depositarías deben atender las solicitudes de traspaso o giro que les presenten los titulares de las respectivas cuentas, siguiendo, cuando se trate de cuentas de ahorro, las pautas establecidas en el mencionado Capítulo 2- 4 y en los Títulos VII y IX de la Circular Conjunta N° 3.446.
+
+La solicitud de traspaso o retiro de fondos de los depósitos de ahorro previsional voluntario colectivo deberá cumplirse dentro de los treinta días siguientes a la fecha de su recepción por el banco. En todo caso, deberán observarse los plazos mínimos y condiciones señalados en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile y en las disposiciones del antes referido Capítulo 2-4, según se trate de depósitos a plazo o cuentas de ahorro, respectivamente.
+
+Los retiros que realice el trabajador deberán corresponder a los aportes efectuados por él y a los aportes del empleador que hayan pasado a ser de su propiedad, de conformidad con lo dispuesto en el Título IX de la Circular Conjunta N° 3.446.
+
+Los aportes del empleador que no hayan pasado a ser parte de la propiedad del trabajador, podrán ser retirados por el empleador de acuerdo con las condiciones del citado Título IX de la Circular Conjunta.
+
+Los giros con cargo a los depósitos de ahorro previsional voluntario colectivo no podrán efectuarse en cajeros automáticos, sino solamente en las cajas de los bancos depositarios o por Internet, con sujeción a lo dispuesto en el Título IX de la Circular Conjunta N° 3.446.
+
+### 6. Cobranza de cotizaciones voluntarias
+
+Según lo dispuesto en el Título X de la Circular Conjunta N° 3.446, estará a cargo de la institución depositaría la gestión de cobranza de los depósitos que debe efectuar el empleador en una institución autorizada, de sus propios aportes como también de aquellos de los trabajadores. Esta Superintendencia, en uso de la facultad fiscalizadora que le compete en la materia, podrá requerir de los bancos, todos los antecedentes que demuestren la diligencia empleada en el cumplimiento de la gestión de cobro, la calidad de esa gestión y los resultados obtenidos.
+
+Al respecto, las gestiones de cobranza para obtener el pago de estas cotizaciones adicionales deberán realizarse siguiendo las disposiciones del artículo 19 del Decreto Ley N° 3.500.
+
+De las gestiones de cobro que realicen deberán dejar constancia en el Registro Histórico de Información por Trabajador, a que se refiere el Título V de la Circular Conjunta N° 3.446, o en un anexo al mismo.
+
+7.- Información al público.
+
+Sin perjuicio del cumplimiento de lo instruido en la Circular Conjunta antes mencionada, los bancos deberán cuidar que la información que entreguen al público por los diversos medios y formas, respecto de los cobros que se harán por los servicios que se presten por estas cuentas de ahorro previsional colectivo, considere el importe o la tasa de cada uno de los conceptos por los cuales se cobra.
+
+Así, la información sobre las comisiones que se cobrarán por cada plan, deberá incluir el importe correspondiente al Impuesto al Valor Agregado a que están afectas. Las tarifas que se establezcan tendrán una vigencia mínima de un trimestre y no podrán ser cambiadas antes del término de ese período. Cualquier modificación deberá hacerse en concordancia con las disposiciones que el Banco Central de Chile ha impartido sobre el particular para las cuentas de ahorro a plazo.
+
+En lo que se refiere a la información sobre la rentabilidad de estos planes, ella deberá entregarse neta de costos, en la forma dispuesta en el Título XII de la citada Circular Conjunta N° 3.446. Esto significa que, a la rentabilidad, calculada de la forma indicada en el número 8 del mencionado Título XII, deben restársele los costos por concepto de comisiones, incluido el Impuesto al Valor Agregado, que se cobran en el mismo período a que se refiere dicha rentabilidad y los demás cobros que eventualmente pudieran permitirse.
+
+Los bancos deberán enviar a los titulares de depósitos de ahorro previsional voluntario colectivo, a lo menos una vez al año, un estado en el que se incluyan los importes pagados en el período, la rentabilidad, los costos asociados y el saldo.
 
 ## Capítulo 2-11
 
