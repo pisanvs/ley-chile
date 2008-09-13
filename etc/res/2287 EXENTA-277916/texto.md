@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.287, de 28 de agosto de 2008, de esta Subsecretaría, autorízase a MICHEL ALEXIS VALENZUELA IBACACHE, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Bilbao Nº 240, Puerto Montt, X Región, para elaborar en la línea de proceso Conserva, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 28 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
