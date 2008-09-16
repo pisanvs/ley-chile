@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 675 de fecha 31 de julio de 2008, se expropió el lote de terreno N° 43, superficie 44 m2, rol N° 171-65, comuna de Cobquecura, para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo II, Km. 10,50000 a Km. 18,60807, VIII Región." y se acordó el valor de la indemnización con su propietario JOSE PRIMITIVO MUÑOZ GONZALEZ, ascendente a la cantidad de $252.069.
+
+Fiscal del Ministerio de Obras Públicas.
