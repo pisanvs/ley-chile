@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 681 de 31 de julio de 2008, se expropió el lote de terreno Nº 55-B, superficie 187 m2., rol de Avalúo Nº E/T, comuna de Longaví, para la obra "Camino Mejoramiento Ruta L- 535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 a Km. 19,41782", y se acordó el valor de la indemnización con su propietario GUSTAVO ADOLFO BRAVO TAPIA, ascendente a la cantidad de $452.790.
+
+Fiscal del Ministerio de Obras Públicas.
