@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 885 de fecha 29 de agosto de 2008, se modificó el Decreto MOP (exento) N° 578 de fecha 30 de junio de 2008, en sus numerales 3° y 7°, en lo que respecta a la cantidad señalada por concepto de indemnización definitiva más su correspondiente reajuste, esto es, donde dice $2.693.120, debe decir $2.740.986.- (DOS MILLONES SETECIENTOS CUARENTA MIL NOVECIENTOS OCHENTA Y SEIS PESOS).
+
+Fiscal del Ministerio de Obras Públicas.
