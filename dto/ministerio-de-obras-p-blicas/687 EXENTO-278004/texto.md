@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 687 de fecha 31 de julio del 2008, se expropiaron los lotes de terreno Nºs. 46 y 47, superficies 1.281 y 478 m2, Rol Nº 576- 181, comuna de Saavedra, IX Región para la obra "Camino Ruta Lafquenche, Sector Puente Budi - Puente Chelle Km. 0,54000 a Km. 8,22000" y se acordó el valor de indemnización con su propietario MANUEL O MANUEL IGNACIO CAYUPAN HUAIQUIAN, ascendente a la cantidad de $1.842.764.- para los lote Nºs. 46 y 47.
+
+Fiscal del Ministerio de Obras Públicas.
