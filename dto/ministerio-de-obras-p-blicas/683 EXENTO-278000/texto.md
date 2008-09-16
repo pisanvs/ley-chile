@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 683 de fecha 31 de julio del 2008, se expropiaron los lotes de terreno Nºs. 21 y 22 superficies 1.425 y 1.000 m2, Rol Nº 167-138 y 167-137, comuna de Arauco, VIII Región para la obra "Camino Ruta P-40, sector Arauco - Quiapo, Km. 0,00000 a Km. 15,96000" y se acordó el valor de indemnización con su propietario LUIS GARCIA MUÑOZ, ascendente a la cantidad de $2.406.287.- para los lotes Nºs. 21 y 22.
+
+Fiscal del Ministerio de Obras Públicas.
