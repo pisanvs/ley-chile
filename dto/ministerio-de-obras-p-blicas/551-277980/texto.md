@@ -1,0 +1,3 @@
+Por Decreto MOP N° 551 de fecha 31 de julio de 2008, se expropió el lote de terreno N° 23, superficie 12.148 m2, rol N° 349-105, para la obra "Camino Ruta S-69, Sector Pedregoso Villarrica Tramo Km. 25,80000 a Km. 38,52500, comuna de Villarrica, Provincia de Cautín, IX Región" y se acordó el valor de la indemnización con su propietario MICHEL ANDRE RAYMOND DURAND QUESNEL, ascendente a la cantidad de $32.460.646.
+
+Fiscal del Ministerio de Obras Públicas.
