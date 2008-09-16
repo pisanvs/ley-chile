@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 684, de fecha 31 de julio del 2008, se expropió el lote de terreno N° 4, superficie 1.265 m2, Rol N° 400-8, comuna de San José de la Mariquina, X Región para la obra "Mejoramiento Ruta Rol T-270, Sector Mehuin - Limite Regional IX Región, Km. 0,00000 al Km. 4,64602", y se acordó el valor de indemnización con su propietario UNIVERSIDAD AUSTRAL DE VALDIVIA, ascendente a la cantidad de $2.766.625.
+
+Fiscal del Ministerio de Obras Públicas.
