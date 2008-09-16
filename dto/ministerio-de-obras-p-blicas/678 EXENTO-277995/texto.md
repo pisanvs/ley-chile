@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 678, de fecha 31 de julio del 2008, se expropió el lote de terreno N° 41, superficie 1.452 m2, Rol N° 17-21, comuna de Lolol, VI Región para la obra "Concesión Embalse Convento Viejo II Etapa, VI Región Canal Norte Unificado Tramo I, Km. 0.000,00 al Km. 17.700,00", y se acordó el valor de indemnización con su propietaria OLIVIA DEL CARMEN RAMIREZ VALENZUELA, ascendente a la cantidad de $1.464.857.
+
+Fiscal del Ministerio de Obras Públicas
