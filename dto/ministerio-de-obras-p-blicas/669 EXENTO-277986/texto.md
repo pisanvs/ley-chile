@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 669 de 31 de julio de 2008, se expropió el lote de terreno Nº 36-C, superficie 1.100 m2., rol de Avalúo Nº 197-734, comuna de Longaví, para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 a Km. 19,41782", y se acordó el valor de la indemnización con su propietaria MYRIAM CAROLINA ASTROZA SEPULVEDA, ascendente a la cantidad de $1.578.616.
+
+Fiscal del Ministerio de Obras Públicas.
