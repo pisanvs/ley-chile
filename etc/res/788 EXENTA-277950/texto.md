@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIAS QUE SEÑALA
+
+Resolución exenta Nº 788, del 25 agosto de 2008, resolvió la clausura a partir de esta fecha de Estancia Río Verde, roles 5121-13, propiedad del Sr. Sergio Santelices Escala; Estancia Mirna del Carmen, rol 5121-50, de propiedad de Ganadera Los Altos y Cía. Ltda., y la Estancia Emiliana, rol 5126-28, en arriendo por el Sr. Sergio Santelices Escala. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo hasta el 31.12.2008. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una vista inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 25 de agosto de 2008.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
