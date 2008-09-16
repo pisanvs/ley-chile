@@ -598,7 +598,7 @@ a) Aprobar el procedimiento objetivo y general a que se refieren los artículos 
 
 b) Designar, de la terna que le presente el juez presidente, al administrador del tribunal;
 
-c) Calificar anualmente al administrador del tribunal;
+c) Suprimida.
 
 d) Resolver acerca de la remoción del administrador;
 
@@ -646,7 +646,7 @@ g) Calificar al personal, teniendo a la vista la evaluación que le presente el 
 
 h) Presentar al comité de jueces una terna para la designación del administrador del tribunal;
 
-i) Evaluar anualmente la gestión del administrador, y
+i) Suprimida.
 
 j) Proponer al comité de jueces la remoción del administrador del tribunal.
 
@@ -936,7 +936,7 @@ Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con c
 
 B.- JUZGADOS CON COMPETENCIA COMUN:
 
-Un juzgado con asiento en la comuna de San Carlos, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
+Un juzgado con asiento en la comuna de San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
 
 Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel;
 
@@ -1006,7 +1006,7 @@ Un juzgado con asiento en la comuna de Loncoche, con competencia sobre la misma 
 
 Un juzgado con asiento en la comuna de Pitrufquén, con competencia sobre las comunas de Pitrufquén y Gorbea;
 
-Un juzgado con asiento en la comuna de Villarrica, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de Villarrica, con dos jueces, con competencia sobre la misma comuna;
 
 Un juzgado con asiento en la comuna de Nueva Imperial, con competencia sobre las comunas de Nueva Imperial, Cholchol y Teodoro Schmidt;
 
@@ -1078,7 +1078,7 @@ En la Decimocuarta Región, de Los Ríos, existirán los siguientes juzgados de 
 
 Dos juzgados con asiento en la comuna de Valdivia, con competencia sobre las comunas de Valdivia y Corral;
 
-Un juzgado con asiento en la comuna de Mariquina, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
+Un juzgado con asiento en la comuna de Mariquina, con dos jueces, con competencia sobre las comunas de Mariquina, Máfil y Lanco;
 
 Un juzgado con asiento en la comuna de Los Lagos, con competencia sobre las comunas de Los Lagos y Futrono;
 
@@ -1094,7 +1094,9 @@ Un juzgado con asiento en la comuna de Río Bueno, con jurisdicción sobre las c
 
 En la Decimoquinta Región, de Arica y Parinacota, existirán los siguientes juzgados de letras:
 
-Cuatro juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+A.- JUZGADOS CIVILES:
+
+Tres juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota.
 
 #### Artículo 40
 
@@ -2382,7 +2384,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.200 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 3.900 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.600 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 4.200 pesos.
 
 #### Artículo 199
 
@@ -3018,9 +3020,11 @@ b) Las Cortes de Apelaciones, en pleno, calificarán a los jueces de letras, a s
 
 c) El fiscal judicial de la Corte Suprema calificará a su secretario abogado, a los empleados de su oficio y a los fiscales de las Cortes de Apelaciones;
 
-d) Los fiscales judiciales de las Cortes de Apelaciones calificarán a los empleados de su oficio, y
+d) Los fiscales judiciales de las Cortes de Apelaciones calificarán a los empleados de su oficio;
 
-e) Los jueces letrados calificarán a los miembros del consejo técnico y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad.
+e) Los jueces letrados calificarán a los miembros del consejo técnico y empleados y a los funcionarios auxiliares de la Administración de Justicia no comprendidos en las letras anteriores que se desempeñen dentro de sus respectivos territorios jurisdiccionales. En este último caso, en los lugares en que existan dos jueces de letras, la calificación la hará el más antiguo, y en aquellos en que existan más de dos se constituirán todos en comisión calificadora. Si fueren más de cinco, la comisión estará constituida por los cinco jueces de mayor antigüedad, y
+
+f) El Presidente de la Corte de Apelaciones respectiva calificará a los administradores de tribunales de la jurisdicción, teniendo a la vista informes que deberán emitir por separado el Comité de Jueces correspondiente y la Corporación Administrativa del Poder Judicial.
 
 Actuará como secretario de estas comisiones, el secretario del tribunal donde se desempeñe su presidente o en su defecto, el secretario más antiguo de cualquiera de los tribunales cuyos jueces integren la comisión, y si hubiere dos o más secretarios, el que éste designe. Si la calificación corresponde hacerla a una sola persona, ésta designará, en el mes de octubre de cada año, un secretario entre sus subordinados o auxiliares de la Administración de Justicia de su territorio jurisdiccional.
 
@@ -3060,7 +3064,7 @@ La calificación deberá ser puesta, privadamente, en conocimiento del respectiv
 
 Las calificaciones que realice la Corte Suprema en única instancia solo serán susceptibles del recurso de reposición, el que deberá ser fundado.
 
-Las demás calificaciones sólo podrán ser objeto del recurso de apelación, igualmente fundado, señalando claramente los hechos que a juicio del apelante deben ser considerados para mejorar la calificación.
+Las demás calificaciones sólo podrán ser objeto del recurso de apelación, igualmente fundado, señalando claramente los hechos que a juicio del apelante deben ser considerados para mejorar la calificación. Las calificaciones a que se refiere la letra f) del artículo 273 serán apelables ante el pleno de la Corte de Apelaciones respectiva.
 
 Estos recursos deberán interponerse en el plazo fatal de cinco días hábiles contados desde la fecha de notificación de la calificación de la que se pide reposición o se apela. Si la notificación se hubiese hecho por carta certificada, se entenderá efectuada transcurridos que sean tres días hábiles desde la fecha de entrega de la carta al Servicio de Correos. Los recursos, dirigidos al órgano calificador que deba conocer de ellos, se presentarán directamente ante el que haya efectuado la evaluación, cuyo secretario deberá remitirlos, dentro de 48 horas, al que deba conocerlos.
 
