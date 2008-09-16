@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 682 de fecha 31 de julio del 2008, se expropió el lote de terreno Nº 45, superficie 3.020 m2, Rol Nº 172-6, comuna de Arauco, VIII Región para la obra "Camino Ruta P-40, sector Arauco - Quiapo, Km. 0,00000 a Km. 15,96000" y se acordó el valor de indemnización con su propietaria IRMA LUISA GONZALEZ MUÑOZ Y OTRAS, ascendente a la cantidad de $2.597.658.- para el lote Nº 45.
+
+Fiscal del Ministerio de Obras Públicas.
