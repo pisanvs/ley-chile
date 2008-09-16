@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 667, de fecha 31 de julio del 2008, se expropiaron los lotes de terreno N°s 20-B y 20-C, superficie 701 y 66 m2 respectivamente, Rol N° 524-302, comuna de La Unión, X Región para la obra "Camino Ruta T-80, Sector La Unión Las Trancas, Tramo Km. 0,900 al Km. 10,99034", y se acordó el valor de indemnización con su propietaria MARIA CAROLINA GROB ANWANDTER, ascendente a la cantidad de $995.701.
+
+Fiscal del Ministerio de Obras Públicas.
