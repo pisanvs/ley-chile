@@ -1,0 +1,3 @@
+Por Decreto MOP N° 550 de fecha 31 de julio de 2008, se expropió el lote de terreno N° 33, superficie 1.589 m2, rol N° 301-322, comuna de Laja, para la obra "Camino Ruta Q-90-O, Sector Cruce Longitudinal Laja, Tramo Km. 0,00000 a Km. 35,53000." VIII Región y se acordó el valor de la indemnización con su propietario COMITÉ DE VIVIENDA VILLA EL CIPRES, ascendente a la cantidad de $3.934.244.
+
+Fiscal del Ministerio de Obras Públicas.
