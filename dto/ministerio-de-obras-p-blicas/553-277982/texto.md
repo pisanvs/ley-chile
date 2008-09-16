@@ -1,0 +1,3 @@
+Por Decreto MOP N° 553 de fecha 31 de julio de 2008, se expropió el lote de terreno N° 1-B, superficie 329 m2, rol N° 172-58, comuna de Cobquecura, para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo II, Km. 10,50000 a Km. 18,60807", VIII Región y se acordó el valor de la indemnización con su propietario ALDA NEIRA VERA, ascendente a la cantidad de $4.234.260.
+
+Fiscal del Ministerio de Obras Públicas.
