@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 539, de fecha 31 de julio del 2008, se expropió el lote de terreno N° 25-A, superficie 6.447 m2, Rol N° 190-134, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N- 102-M, Sector Cobquecura Límite Regional, Tramo II, Km. 10,50000 al Km. 18,60807, VIII Región.", y se acordó el valor de indemnización con su propietaria LUISA DEL CARMEN NEIRA MONTECINOS, ascendente a la cantidad de $6.234.228.
+
+Fiscal del Ministerio de Obras Públicas.
