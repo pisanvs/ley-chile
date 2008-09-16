@@ -1,0 +1,3 @@
+Por Decreto MOP. N° 540, de fecha 31 de julio del 2008, se expropiaron los lotes de terrenos N°s 23, 24, 28, 30, 32, 34 y 35, superficie 728, 717, 65, 1.099, 10.310, 176 y 3.620 m2 respectivamente, Rol N° 190-7, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo II, Km. 10,50000 al Km. 18,60807.", y se acordó el valor de indemnización con su propietario ZENEN HUMBERTO FRIZ ALARCON, ascendente a la cantidad de $11.474.420.
+
+Fiscal del Ministerio de Obras Públicas.
