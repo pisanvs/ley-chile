@@ -1,0 +1,11 @@
+SOLICITUD EN PROCEDIMIENTO DE INSCRIPCIÓN EN EL REGISTRO DE PARTIDOS POLÍTICOS DEL PARTIDO
+
+"CHILEPRIMERO", EN FORMACIÓN
+
+Por resolución O-Nº 2.228, de fecha 10 de septiembre de 2008, se dispuso publicar en el Diario Oficial la solicitud de tener por subsanados los reparos formulados por el Servicio Electoral a su inscripción como partido político del partido "Chileprimero", en formación, formulada por los señores Fernando Flores Labra y Alberto Precht Rorris, Presidente y Vicepresidente, respectivamente, de la Directiva Central provisional. La inscripción solicitada se refiere a las regiones XV, I, II, III, IV, VI, VIII, XIV, XI y XII su sigla es "CHILE", su símbolo corresponde a una frase superior en color gris con el texto "FUERTE Y CLARO", seguido renglón abajo con el texto "CH1" en color azul marino, excepto el número "1" en color rojo, y nuevamente renglón abajo el texto "PRIMERO" en color rojo. Los textos están en mayúsculas, en un fondo cuadricular color blanco, y su lema es "Fuerte y Claro". La escritura pública de fecha 8 de octubre de 2007, fue otorgada ante el Notario Público de Santiago don Juan Facuse Heresi y modificada por escrituras públicas de los días 22 y 31 del mismo mes y año, ante los Notarios Públicos Juan Facuse Heresi y Sergio Carmona Barrales, respectivamente. El extracto de la escritura de constitución se publicó en el Diario Oficial de fecha 7 de noviembre de 2007.
+
+La solicitud tiene por objeto subsanar las deficiencias en que se fundó la resolución O-N° 1236 de fecha 4 de julio de 2008, publicada en el Diario Oficial de fecha 8 de julio del mismo año en las Regiones XV de Arica y Parinacota, II de Antofagasta, IV de Coquimbo, VI del Libertador General Bernardo O.Higgins y XIV de Los Ríos, y que dio por acreditada la afiliación mínima de ciudadanos exigida por el artículo 6° de la ley N° 18.603 en la III Región de Atacama.
+
+Publicación que se ordena para los efetos contemplados en el artículo 9º de la ley Nº 18.603 por resolución O-Nº 2228 de fecha 10 de septiembre de 2008.
+
+Juan Ignacio García Rodríguez, Director.
