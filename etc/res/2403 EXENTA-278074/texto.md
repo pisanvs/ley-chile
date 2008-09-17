@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.403, de 10 de septiembre de 2008, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 64 de 1986, modificada mediante resolución exenta Nº 1.236 de 1992, ambas de esta Subsecretaría, sólo en cuanto autorizaron a PESCA CHILE S.A. para realizar actividades pesqueras extractivas con la nave "Pedrosa", en el área marítima comprendida al sur del paralelo 47°00' L.S., sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante informe técnico citados en Visto de la resolución extractada.
+
+Valparaíso, 10 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
