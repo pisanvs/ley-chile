@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.401, de 10 de septiembre de 2008, de esta Subsecretaría, acógese el Recurso de Reposición interpuesto por el grupo de armadores PESQUERA EL GOLFO S.A., AQUAFISH S.A. y PESQUERA BÍO BÍO S.A. en contra de la resolución exenta Nº 1.794, de 2008, de esta Subsecretaría, que impuso a los armadores antes individualizados la sanción establecida en el artículo 11 inciso 1º de la ley Nº 19.713, respecto de la unidad de pesquería de Anchoveta (Engraulis ringens).
+
+Déjese sin efecto la resolución Nº 1.794, de 2008, de esta Subsecretaría y declárese la absolución del grupo de armadores antes individualizado en el procedimiento sancionatorio seguido en su contra por aplicación del artículo 11º, inciso 1º de la ley 19.713.
+
+Valparaíso, 10 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
