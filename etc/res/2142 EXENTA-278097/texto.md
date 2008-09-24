@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.142, de 14 de agosto de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 1.304 de 2008 que autorizó al CENTRO DE INVESTIGACIÓN, DESARROLLO Y CAPACITACIÓN EN CIENCIAS DEL MAR, MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección y transferencia tecnológica para la pesquería de reineta (Brama australis), en aguas exteriores de la X Región, en el sentido de reemplazar las embarcaciones artesanales que actualmente participan en la presente pesca de investigación y que se individualizan a continuación, por las siguientes:
+
+NOTA: VER DIARIO OFICIAL DE 23.09.2008, PAGINA 5
+
+Valparaíso, 14 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
