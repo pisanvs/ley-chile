@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.362, de 4 de septiembre de 2008, de esta Subsecretaría, autorízase a CRISTIÁN RIGOBERTO ROJAS ORÓSTEGUI, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Bilbao s/n, sector Nº 2, Quintas, Tal Tal, II Región, para elaborar en la línea de proceso Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 4 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
