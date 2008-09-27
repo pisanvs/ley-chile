@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.420, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta N° 2.117 de 2008, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2008-01 denominado "Evaluación del stock desovante de Anchoveta en la I y II Regiones, año 2008", en el sentido de señalar que la pesca de investigación se extenderá hasta el 14 de septiembre de 2008, inclusive.
+
+Valparaíso, 12 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
