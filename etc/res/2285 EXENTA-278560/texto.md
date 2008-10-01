@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.285, de 28 de agosto de 2008, de esta Subsecretaría, autorízase a SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS APNEA, MARISCADORES INTERMAREALES, HOOCKA DE LAS CALETAS DE LA PROVINCIA DE TOCOPILLA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Los Andariveles, Tocopilla, II Región, para elaborar en la línea de proceso Alga seca los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 28 de agosto de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
