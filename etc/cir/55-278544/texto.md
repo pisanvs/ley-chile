@@ -1,0 +1,5 @@
+CRÉDITO FISCAL A RECUPERAR POR LAS AFPs EN CONTRA DE OBLIGACIONES TRIBUTARIAS ESTABLECIDAS EN LA LEY DE LA RENTA, EN VIRTUD DE LO DISPUESTO EN EL ARTÍCULO 23 DEL DL Nº3.500, DE 1980, SEGÚN MODIFICACIONES INCORPORADAS A DICHO ARTÍCULO POR LA LEY Nº 20.255, DE 2008
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 55, de fecha 25 de septiembre de 2008, mediante la cual se imparten instrucciones respecto de las modificaciones introducidas al artículo 23 del D.L. Nº 3.500, de 1980, por el Nº 17 del artículo 91 de la Ley Nº 20.255, publicada en el Diario Oficial el 17.03.2008, que establece que las AFPs tendrán derecho a un crédito en contra del Impuesto de Primera Categoría de la Ley de la Renta por el Impuesto Valor Agregado que soporten por los servicios de subcontratación que contraten en virtud de las normas de dicho decreto ley.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en septiembre de 2008.
