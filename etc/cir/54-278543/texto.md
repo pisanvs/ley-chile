@@ -1,0 +1,5 @@
+INSTRUCCIONES SOBRE MODIFICACIONES INTRODUCIDAS POR LA LEY Nº 20.291, DE 2008, AL DECRETO LEY Nº 3.475, DE 1980, SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS
+
+Extracto de la Circular del Servicio de Impuestos Internos Nº 54 de fecha 25 de septiembre de 2008, que tiene por finalidad impartir las instrucciones y precisar los alcances tributarios relativos a las modificaciones introducidas por la ley Nº 20.291, de 2008, a los artículos 1° N°1, 9° N°1°, 14° inciso tercero, 15° N°3° y 24° N°s 4° y 14° del D.L. N°3.475, de 1980, mediante las cuales se elimina en forma permanente el impuesto de monto fijo que gravaba el giro de cheques en el país, como asimismo cada transacción bancaria, como son las transferencias electrónicas, giros desde cajeros automáticos, y traspaso de fondos de cuenta corriente.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en septiembre, de 2008.
