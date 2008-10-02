@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 597, de 14 de agosto de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra: Proyecto "Construcción Colector Aguas Lluvias Phillipi de Barrios Bajos de Valdivia", que figura a nombre de INMOBILIARIA DOMUS MATER LIMITAD, rol de avalúo 301-16, comuna de Valdivia, Provincia de Valdivia, Región de Los Ríos, superficie 343,08 M2. La Comisión de Peritos, fijó con fecha 2 de noviembre de 2007, en la cantidad de $14.168.040. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
