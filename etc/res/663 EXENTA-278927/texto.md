@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 663 de 12 de septiembre de 2008, Serviu III Región de Atacama, conforme D.L. Nº 2.186 de 1978 y D.S. Nº 104 de V. y U. de 2007, ordenó la expropiación parcial del inmueble denominado Lote 41, ubicado en calle Los Carrera s/n, Pueblo M. Antonio Matta, y que corresponde a la Hijuela Nº 183-B, actualmente calle Los Carrera Nº 5298, Copiapó, rol de avalúo fiscal Nº 598-13, de aparente dominio de don Héctor Amaro Araya González, para proyecto "Mejoramiento Pavimentación Avenida Los Carrera, Copiapó". Comisión tasadora integrada por los arquitectos Marcelo Molina Ross y Manuel Pino Acevedo, y el agrónomo Claudio Concha Grossi, según informe de 04 de agosto de 2008, fijó un monto provisional de indemnización de $215.600.- pagadera al contado.
+
+Director Serviu III Región Atacama.
