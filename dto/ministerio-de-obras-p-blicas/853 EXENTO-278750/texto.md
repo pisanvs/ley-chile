@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 853 de fecha 29 de agosto de 2008, se expropió el lote de terreno N° 13, superficie 4.615 m2, rol N° 423-47, comuna de Illapel, para la obra Proyecto Embalse El Bato "Canal Nuevo Cocinera" Comuna de Illapel, Provincia de Choapa, Región de Coquimbo y se acordó el valor de la indemnización con su propietario JUAN FILOMENO OLIVARES CORTÉS, ascendente a la cantidad de $2.297.790.
+
+Fiscal del Ministerio de Obras Públicas.
