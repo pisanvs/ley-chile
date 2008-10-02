@@ -1,0 +1,5 @@
+Por decreto MOP Nº 624 de 22 de agosto de 2008, en cumplimiento de sentencia ejecutoriada dictada en causa rol C-3246-2006, "Lolas Amar con Fisco", seguida ante el 2º Juzgado Civil de Valparaíso, que condenó al Fisco a expropiar superficie adicional a la ya expropiada Por decreto MOP Nº 810 de 25 de septiembre de 2006, se expropió el lote de terreno Nº 83-14, para la obra "PROYECTO: CAMINO INTERNACIONAL RUTA 60 CH. SECTOR 1:
+
+KM. 0.000,00 AL KM. 53.779,50. TRAMO 1: KM. 0.000,00 AL KM. 19.500,00", Quinta Región, que figura a nombre de LOLAS AMAR JORGE, rol de avalúo 126-23, comuna de Santa María, superficie 15.726 m2. La comisión de peritos integrada por los señores José Cristián Larraín Barros, María Isabel Ríos Marcuello y Patricio Desiderio Aranda Rivillo, fijó con fecha 20 de junio de 2008, el valor provisional de la indemnización en la cantidad de $40.144.440.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
