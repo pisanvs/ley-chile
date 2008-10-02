@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 665 de 12 de septiembre de 2008, Serviu III Región de Atacama, conforme D.L. Nº 2.186 de 1978 y D.S. Nº 104 de V. y U. de 2007, ordenó la expropiación parcial del inmueble denominado Lote 3 ubicado entre las calles Los Carrera y Rafael Torreblanca, del pueblo M. Antonio Matta, actualmente Callejón Rafael Torreblanca Nº 491, Copiapó, rol de avalúo fiscal Nº 586-15, de aparente dominio de doña Georgina Jimena Vallejos Díaz, para proyecto "Mejoramiento Pavimentación Avenida Los Carrera, Copiapó". Comisión tasadora integrada por los arquitectos Marcelo Molina Ross y Manuel Pino Acevedo, y el agrónomo Claudio Concha Grossi, según informe de 4 de agosto de 2008, fijó un monto provisional de indemnización de $1.133.600.- pagadera al contado.
+
+Director Serviu III Región Atacama.
