@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 854 de fecha 29 de agosto de 2008, se expropió el lote de terreno N° 43, superficie 4.925 m2, rol N° 434-256, comuna de Illapel, para la obra Proyecto Embalse El Bato "Canal Nuevo Cocinera" Comuna de Illapel, Provincia de Choapa, Región de Coquimbo y se acordó el valor de la indemnización con su propietario MARÍA ISABEL PACHECO PIZARRO, ascendente a la cantidad de $782.706.
+
+Fiscal del Ministerio de Obras Públicas.
