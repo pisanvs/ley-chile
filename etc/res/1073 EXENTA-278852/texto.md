@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.073 EXENTA, DE 12.09.2008, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público correspondiente al tercer cuatrimestre de 2007, se ha asignado a la Ilustre Municipalidad de Coyhaique, RUT Nº 69.240.300-2, una concesión de Radiodifusión Sonora en Mínima Cobertura, para la comuna de Coyhaique, XI Región, con las características técnicas siguientes: Potencia máxima: 1 watt; Frecuencia: 88,1 MHz.; Ubicación del estudio, planta transmisora y sistema radiante: Valle Simpson, comuna de Coyhaique, XI Región; Coordenadas geográficas:
+
+45°42'40" Latitud Sur y 72°04'35" Longitud Oeste (Datum: PSAD 1956); Sistema radiante: Omnidireccional con polarización Vertical, una (1) antena dipolo de 1/2 onda simple de 0 dBd de ganancia máxima y altura del centro de radiación de 6 m.; Pérdidas en cables y conectores: 0 dB; Pérdidas por lóbulo en todos los radiales: 0 dB.
+
+Sin perjuicio de la potencia máxima de 1 watt autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3º de la ley Nº 18.168, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 1 watt, atendidas la actual ubicación de las instalaciones contenida en su proyecto técnico y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución extractada.
+
+Los plazos serán los que se indican a continuación: Inicio de Obras: 20 días; Término de Obras: 30 días, e Inicio de Servicio: 40 días. Todos estos plazos se computarán a partir de la fecha de publicación en el Diario Ol1cial del decreto que otorgue la concesión.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13º A y 13º B de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, que asignó la concesión, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
