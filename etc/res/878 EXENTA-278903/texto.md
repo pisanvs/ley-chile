@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 878 EXENTA, DE 08.08.2008, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público correspondiente al tercer cuatrimestre de 2007, se ha asignado a Corporación de Desarrollo Cultural, Turístico, Deportivo, Recreativo y Social Robinson Crusoe, RUT Nº 75.936.570-4, una concesión de Radiodifusión Sonora en Mínima Cobertura para la comuna de Juan Fernández, V Región, con las características técnicas siguientes: Potencia máxima: 1 watt; Frecuencia: 92,3 MHz.; Ubicación del estudio, planta transmisora y sistema radiante: Calle El Castillo Nº 197, Población Juan Bautista, Isla Robinson Crusoe, comuna de Juan Fernández, V Región; Coordenadas geográficas: 33°37'15" Latitud Sur y 78º50'00" Longitud Oeste (Datum: PSAD 1956); Sistema radiante: Direccional con polarización vertical, una (1) antena Yagi 2 elementos de 5 dBd de ganancia máxima y altura del centro de radiación de 6 m; Pérdidas en cables, conectores y otras: 5 dB (Proyecto incluye atenuador de 3 dB).
+
+NOTA: VER DIARIO OFICIAL DE 03.10.2008, PAGINA 14
+
+Sin perjuicio de la potencia máxima de 1 watt autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3º de la ley Nº 18.168, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 1 watt, atendidas la actual ubicación de las instalaciones contenida en su proyecto técnico y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución extractada.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13º A y 13º B de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, que asignó la concesión, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
