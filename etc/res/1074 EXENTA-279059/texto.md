@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.074 EXENTA, DE 12.09.2008, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público correspondiente al Tercer Cuatrimestre de 2007, se ha asignado al Centro Cultural Vida y Salud, RUT Nº 74.019.000-8, una concesión de Radiodifusión Sonora en Mínima Cobertura, para la comuna de Puente Alto, Región Metropolitana, con las características técnicas siguientes: Potencia máxima: 1 Watt; Frecuencia: 105,3 MHz.; ubicación del Estudio, Planta Transmisora y Sistema Radiante: Calle Santa Josefina Nº 83, comuna de Puente Alto, Región Metropolitana; Coordenadas Geográficas: 33°36'39" Latitud Sur y 70°35'23" Longitud Oeste (Dátum: PSAD 1956); Sistema Radiante: Direccional con polarización Vertical, una (1) antena Yagi de tres elementos de 4,5 dBd de ganancia máxima y altura del centro de radiación de 6 m.; pérdidas en cables, conectores y otras: 1,5 dB.
+
+NOTA: VER DIARIO OFICIAL DE 07.10.2008, PAGINA 7
+
+Sin perjuicio de la potencia máxima de 1 watt autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3º de la ley Nº 18.168, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 0,04 watts, atendidas la actual ubicación de las instalaciones contenida en su proyecto técnico y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la Resolución extractada.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13º A y 13º B de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, que asignó la concesión, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+Por orden del Subsecretario de Telecomunicaciones.- Jefe Departamento Radiodifusión.
