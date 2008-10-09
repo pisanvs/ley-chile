@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 420 EXENTA, DE 2008
+
+Por resolución exenta Nº 420, de 29 de julio de 2008, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama, modificó las resoluciones exentas Nºs 433/2001, 434/2001, que aprobara planes y programas y otorgara reconocimiento oficial, a la Escuela de Conductores Profesionales "Escuela de Conductores Inacap S.A.", a solicitud de esta misma escuela, ubicada en calle Infante Nº 407, las Salas de Clases en calle Yumbel Nº 811, la Sede y el Laboratorio Psicotécnico y en calle Los Carrera Nº 456, el Taller Mecánico, ambas de la comuna de Copiapó, en el sentido de excluir la Clase A5, quedando autorizada para impartir cursos conducentes para la obtención de la licencia de conductor profesional A2 y A4.
+
+René David Navarro Albiña, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
