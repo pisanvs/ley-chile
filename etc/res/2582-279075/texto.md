@@ -1,0 +1,3 @@
+Por resolución Nº 2.582, de 2 de octubre de 2008, de esta Subsecretaría, rectifícase el numeral 3.- de la resolución Nº 2.178, de 2008, de esta Subsecretaría, que autorizó a HÉCTOR ABEL ZÚÑIGA GALLARDO para instalar colectores de semillas de Choritos en estero Reloncaví, sector de Punta Iglesia, X Región, en el sentido de reemplazar la longitud (W) del Vértice D por 72°22'54,57.
+
+Valparaíso, 2 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
