@@ -1,0 +1,43 @@
+APRUEBA TEXTO OFICIAL DEL CÓDIGO DE COMERCIO
+
+Santiago, 23 de junio de 2008.- Hoy se decretó lo que sigue:
+
+Núm. 438.- Vistos: Estos antecedentes, lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República, cuyo texto refundido, coordinado y sistematizado fue aprobado a través del decreto Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; en la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL Nº 1/19.653, del año 2001, del Ministerio Secretaría General de la Presidencia, en los artículos 7º, 9º, 13, 14 y 24 de la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la Administración del Estado; en el artículo 2º, letra r) del decreto ley Nº 3.346, de 1980, que fija el texto de la Ley Orgánica del Ministerio de Justicia, en el artículo 2 letra r) del decreto supremo Nº 1.597, de 1980, del Ministerio de Justicia, que fija el Reglamento Orgánico del Ministerio de Justicia; en el artículo 2º de la ley Nº 8.828, de 1947; en el decreto supremo Nº 4.862, de 1959, del Ministerio de Justicia, la facultad conferida en el decreto supremo Nº 19, del Ministerio Secretaría General de la Presidencia, del año 2001; la ley Nº 20.236 de 2007, en el oficio ordinario Nº 1 de la "Comisión de Códigos de la Editorial Jurídica de Chile", y en el artículo 3º Nº 25 de la resolución Nº 520, de 1996, de la Contraloría General de la República, y sus posteriores modificaciones, y
+
+Considerando
+
+1.- Que conforme a lo establecido en el artículo 2º letra r), del decreto ley Nº 3.346, que fija el texto de la Ley Orgánica del Ministerio de Justicia, es función de esta Secretaría de Estado aprobar el texto oficial de los Códigos y autorizar sus ediciones oficiales.
+
+2.- Que tomando en cuenta los principios generales de Eficiencia y Eficacia que informan el actuar de los Órganos de la Administración del Estado, contemplados en la ley Nº 18.575, y de Celeridad, Economía, Procedimental y No formalización, consignados en la ley Nº 19.880, y dada la importancia que reviste la edición oficial del Código de Comercio en el ámbito judicial, académico y administrativo, entre otros, resulta necesaria, entonces, su más pronta y oportuna aprobación.
+
+Decreto:
+
+#### Artículo 1º
+
+Apruébase como edición oficial del Código de Comercio el texto actualizado a esta fecha por la Editorial Jurídica de Chile.
+
+#### Artículo 2º
+
+Un ejemplar de dicho texto autorizado por las firmas de la Presidenta de la República y del Ministro de Justicia se depositará en dicha Secretaría de Estado, en cada una de las ramas del Congreso Nacional y en la Contraloría General de la República, respectivamente.
+
+Este texto se tendrá por el auténtico del Código de Comercio y a él deberán conformarse las demás ediciones y publicaciones que del expresado Código se hagan.
+
+#### Artículo 3º
+
+La Editorial Jurídica de Chile procederá a dar cumplimiento a la obligación que le impone el artículo 4º del decreto supremo Nº 4.862, de 1959, del Ministerio de Justicia, con respecto a todas las ediciones del Código que en virtud de dicho Reglamento y del presente decreto tengan carácter de oficial.
+
+Tómese razón, comuníquese y publíquese.- Por orden de la Presidenta de la República, Carlos Maldonado Curti, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Jorge Frei Toledo, Subsecretario de Justicia.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA División Jurídica
+
+Cursa con alcance decreto Nº 438, de 2008, del Ministerio de Justicia
+
+Nº 45.194.- Santiago, 29 de septiembre de 2008.- La Contraloría General ha dado curso al documento de la suma, que aprueba el texto oficial del Código de Comercio, por cuanto se ajusta a derecho, pero cumple con hacer presente que la ley Nº 20.236, invocada en los vistos del decreto en examen, no tiene relación con la materia que se regula en ese acto administrativo, por cuanto dicho texto legal sanciona los delitos cometidos contra fiscales del Ministerio Público y los defensores de la Defensoría Penal Pública, en el ejercicio de sus funciones.
+
+Con el alcance anotado, se ha tomado razón del instrumento de epígrafe.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor Ministro de Justicia Presente.
