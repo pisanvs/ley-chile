@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.607, de 3 de octubre de 2008, de esta Subsecretaría, declárese la caducidad parcial de la resolución exenta Nº 1.133, de 1992, modificada mediante resolución exenta Nº 954, de 2007, ambas de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A. para realizar actividades pesqueras extractivas con la nave "Saint John", sobre el recurso Besugo Epigonus crassicudus, en el área marítima comprendida entre la V Región y el paralelo 41°28,6' L.S., todo ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y de lo señalado en la resolución extractada.
+
+Valparaíso, 3 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
