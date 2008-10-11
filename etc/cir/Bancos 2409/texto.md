@@ -1226,7 +1226,7 @@ G) Las instituciones que contraten los servicios de una empresa de intermediaci�
 
 Dichas empresas deberán estar en condiciones de certificar, a petición de cualquiera de las partes involucradas, la validez y oportunidad de emisión y recepción de los mensajes transmitidos.
 
-En todo caso, debe tenerse presente que la generación de algunos documentos electrónicos que constituyen documentación de carácter oficial para el cumplimiento de disposiciones legales, puede requerir la realización de las correspondientes operaciones de transferencia electrónica de información y fondos a través de una empresa de servicio de intermediación electrónica, de acuerdo con las regulaciones o autorizaciones de los respectivos organismos fiscalizadores. Así ocurre, por ejemplo, con las facturas en relación con las normas del Servicio de Impuestos Internos, con las planillas de imposiciones previsionales según las instrucciones de la Superintendencia de AFP, etc.
+En todo caso, debe tenerse presente que la generación de algunos documentos electrónicos que constituyen documentación de carácter oficial para el cumplimiento de disposiciones legales, puede requerir la realización de las correspondientes operaciones de transferencia electrónica de información y fondos a través de una empresa de servicio de intermediación electrónica, de acuerdo con las regulaciones o autorizaciones de los respectivos organismos fiscalizadores. Así ocurre, por ejemplo, con las facturas en relación con las normas del Servicio de Impuestos Internos, con las planillas de imposiciones provisionales según las instrucciones de la Superintendencia de Pensiones, etc.
 
 H) Los bancos deberán ponderar la exposición al riesgo financiero y operativo de los sistemas de transferencia de que se trata y considerar, en consecuencia, las instancias internas de revisiones y autorizaciones previas que sean necesarias.
 
@@ -4204,13 +4204,13 @@ Los depósitos con documentos quedan sujetos a las disposiciones sobre valores e
 
 4.2. Retenciones de los empleadores.
 
-De acuerdo a lo dispuesto en los artículo 8° y 9° de la Ley, los titulares que sean trabajadores dependientes, podrán comprometerse a efectuar mensualmente los aportes metódicos o el ahorro voluntario, mediante descuentos por planilla de su empleador. Este procedimiento de recaudación se regirá por las normas del artículo 19 del D.L. N° 3.500.
+De acuerdo a lo dispuesto en los artículos 8° y 9° de la Ley, los titulares que sean trabajadores dependientes, podrán comprometerse a efectuar mensualmente los aportes metódicos o el ahorro voluntario, mediante descuentos por planilla de su empleador. Este procedimiento de recaudación se regirá por las normas del artículo 19 del D.L. N° 3.500.
 
-Los depósitos que se hagan bajo esta modalidad se enterarán al valor que la unidad de fomento tenga el día 9 del mes en que corresponda hacer el aporte. El retardo en el entero por parte del empleador queda sujeto a reajustes e intereses, los que deberán aplicarse de acuerdo con lo establecido por la Superintendencia de AFP sobre las imposiciones previsionales.
+Los depósitos que se hagan bajo esta modalidad se enterarán al valor que la unidad de fomento tenga el día 9 del mes en que corresponda hacer el aporte. El retardo en el entero por parte del empleador queda sujeto a reajustes e intereses, los que deberán aplicarse de acuerdo con lo establecido por la Superintendencia de Pensiones sobre las imposiciones previsionales.
 
 Los bancos deberán confeccionar formularios para la declaración y pago, incluyendo en su instructivo, además de las indicaciones relativas a la forma de operar, información relativa a las obligaciones que la ley le impone al empleador y las sanciones que acarrea su incumplimiento.
 
-En caso que el titular no perciba remuneraciones en un mes o las perciba sólo por algunos días, sea porque goce de subsidio por incapacidad laboral, solicite permiso sin goce de sueldo o cualquiera otra causa, el empleador sólo estará obligado a efectuar y enterar una retención proporciona la los días efectivamente remunerados, quedando el importe no cubierto de cargo directo del titular.
+En caso que el titular no perciba remuneraciones en un mes o las perciba sólo por algunos días, sea porque goce de subsidio por incapacidad laboral, solicite permiso sin goce de sueldo o cualquiera otra causa, el empleador sólo estará obligado a efectuar y enterar una retención proporcional a los días efectivamente remunerados, quedando el importe no cubierto de cargo directo del titular.
 
 En caso de incumplimiento por parte del empleador, los bancos, además de las acciones de cobranza que deben emprender según lo indicado en el numeral 4.3 siguiente, deberán dar cumplimiento a las disposiciones que las obligan a comunicar la situación a los interesados, contenidas en los artículos 16 y 17 del Reglamento para el caso de simple morosidad, y en el artículo 9° de la Ley, en el caso de recurrencia.
 
@@ -5465,6 +5465,10 @@ Con todo, los fondos en dólares que hayan sido utilizados para enterar la reser
 Para determinar la equivalencia en dólares de los Estados Unidos de América de las obligaciones en otras monedas extranjeras, los respectivos saldos diarios se convertirán de acuerdo con las paridades publicadas por el Banco Central de Chile según lo dispuesto en el N° 6 del Capítulo I del Compendio de Normas de Cambios Internacionales, el último día hábil bancario del mes calendario inmediatamente precedente.
 
 Por consiguiente, en un período de encaje regirán dos tipos de paridades fijas: las que deben usarse desde el día 9 hasta el último día de un mes y las que deben utilizarse desde el primer día de un mes hasta el día 8 de ese mismo mes.
+
+### 9. Disposición transitoria
+
+No obstante lo dispuesto en numeral 8.2 de este Capítulo, desde el período de encaje que se inicia el 9 de octubre de 2008 hasta el que concluye el 8 de abril de 2009, el encaje en moneda extranjera se podrá constituir también en euros, yenes japoneses o moneda nacional, todas ellas medidas por su equivalente en dólares según las paridades indicadas en el numeral 8.3 precedente."
 
 ## Capítulo 4-2
 
@@ -9436,7 +9440,7 @@ Cada sociedad filial tendrá como giro exclusivo el que le corresponda de acuerd
 
 - **f)** podrán ejercer también el giro de asesoría previsional a que se refiere la letra o).
 
-Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras n) y ñ), como asimismo las que se rigen por el D.L. N° 3.500 indicadas en la letra o), deben estar constituidas como sociedades anónimas.
+Las sociedades filiales podrán estar constituidas como sociedades anónimas abiertas o cerradas, o bien como sociedades de responsabilidad limitada. En todo caso, las sociedades que se rigen por la Ley N° 19.281, mencionadas en las letras n) y ñ), como asimismo las que se rigen por el D.L. N° 3.500 indicadas en la letra p), deben estar constituidas como sociedades anónimas.
 
 La razón social de las sociedades de que trata este título deberá indicar claramente el giro de la empresa y no contener expresiones que puedan inducir a error en cuanto a su objeto.
 
@@ -9456,7 +9460,7 @@ a) Mantener el capital básico y patrimonio efectivo mínimos que exige el artí
 
 b) Estar calificadas por esta Superintendencia, en categoría I o II según la clasificación de gestión y solvencia a que se refiere el artículo 59 y siguientes de la Ley General de Bancos. No obstante, podrán también constituir una filial las entidades calificadas en categoría III, siempre que las deficiencias que existan en su gestión no las inhabiliten a juicio de esta Superintendencia.
 
-c) Entregar a esta Superintendencia un estudio de factibilidad económico-financiero, en el que se considere el mercado, las características de la sociedad, la actividad proyectada y las condiciones en las que realizará sus actividades, de acuerdo a diversos escenarios de contingencia.
+c) Entregar a esta Superintendencia un estudio de factibilidad económico- financiero, en el que se considere el mercado, las características de la sociedad, la actividad proyectada y las condiciones en las que realizará sus actividades, de acuerdo a diversos escenarios de contingencia.
 
 Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, los bancos interesados deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
 
@@ -9502,13 +9506,13 @@ No existe inconveniente para que un director de una sociedad filial fiscalizada 
 
 otra sociedad filial fiscalizada por este Organismo o de una empresa de apoyo al giro. En general, el cargo de director de cualquiera de las entidades es incompatible con el de empleado de ellas, salvo que se trate de un empleado del banco matriz que ejerza el cargo de director de una filial fiscalizada por esta Superintendencia o de una sociedad de apoyo al giro.
 
-En todo caso, el ejercicio del cargo de director, gerente o empleado en las sociedades filiales fiscalizadas por la Superintendencia de Valores y Seguros o de la Superintendencia de AFP, se sujetará a las normas legales o reglamentarias que rigen a esas sociedades.
+En todo caso, el ejercicio del cargo de director, gerente o empleado en las sociedades filiales fiscalizadas por la Superintendencia de Valores y Seguros o de la Superintendencia de Pensiones, se sujetará a las normas legales o reglamentarias que rigen a esas sociedades.
 
 9.2. Gerente y personal.
 
 La matriz con sus filiales, o éstas entre sí, podrán compartir gerente y personal, siempre que se trate de filiales fiscalizadas por este Organismo.
 
-Las sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de AFP, deberán tener gerente y personal independiente del banco matriz y de las filiales fiscalizadas por esta Superintendencia de Bancos e Instituciones Financieras.
+Las sociedades sujetas a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de Pensiones, deberán tener gerente y personal independiente del banco matriz y de las filiales fiscalizadas por esta Superintendencia de Bancos e Instituciones Financieras.
 
 9.3. Locales y equipamiento.
 
@@ -9520,7 +9524,7 @@ Si a una sociedad filial fiscalizada por otra Superintendencia se le permite hac
 
 La sociedad filial podrá promover sus servicios a través del banco matriz o de otras filiales o sociedades de apoyo al giro fiscalizadas por este Organismo, o viceversa, pudiendo canalizarse a través de cualquiera de esas entidades la documentación que se genera entre las demás sociedades y sus respectivos clientes.
 
-En caso de que una sociedad filial sujeta a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de AFP estuviere facultada para actuar de igual modo, no existe impedimento para que las entidades fiscalizadas por esta Superintendencia actúen de la misma forma con ellas, siempre que la evaluación y la decisión final de la operación que se geste a través de una entidad, así como la determinación de sus características y condiciones, se realice siempre en la sociedad que la contrata, no pudiendo ser delegadas tales funciones.
+En caso de que una sociedad filial sujeta a la fiscalización de la Superintendencia de Valores y Seguros o de la Superintendencia de Pensiones estuviere facultada para actuar de igual modo, no existe impedimento para que las entidades fiscalizadas por esta Superintendencia actúen de la misma forma con ellas, siempre que la evaluación y la decisión final de la operación que se geste a través de una entidad, así como la determinación de sus características y condiciones, se realice siempre en la sociedad que la contrata, no pudiendo ser delegadas tales funciones.
 
 9.5. Información reservada.
 
@@ -18502,7 +18506,7 @@ Por su parte, el artículo 14 de la Ley General de Bancos, establece penas corpo
 
 INFORMACIÓN SOBRE CUENTAS CORRIENTES DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES Y SUS RESPECTIVOS FONDOS
 
-Los bancos deberán informar mensualmente a la Superintendencia de Administradoras de Fondos de Pensiones, las aperturas y cierres de cuentas corrientes a nombre de Administradoras de Fondos de Pensiones y de sus respectivos fondos. Para tal efecto, se indicará, en cada caso, el número de la cuenta corriente, oficina en la que se registra, fecha de apertura o fecha de cierre, según corresponda, y tipo de cuenta, según la siguiente clasificación:
+Los bancos deberán informar mensualmente a la Superintendencia de Pensiones, las aperturas y cierres de cuentas corrientes a nombre de Administradoras de Fondos de Pensiones y de sus respectivos fondos. Para tal efecto, se indicará, en cada caso, el número de la cuenta corriente, oficina en la que se registra, fecha de apertura o fecha de cierre, según corresponda, y tipo de cuenta, según la siguiente clasificación:
 
 a) Del fondo de pensiones:
 
