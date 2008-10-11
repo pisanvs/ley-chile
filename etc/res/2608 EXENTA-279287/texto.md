@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.608, de 3 de octubre de 2008 de esta Subsecretaría, declárese la caducidad parcial de la resolución exenta Nº 855 de 1989, modificada mediante resolución exenta Nº 3.565 de 2007, ambas de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO S.A., para realizar actividades pesqueras extractivas con la nave "Pelikan", sobre el recurso Besugo Epigonus crassicaudus, en el área marítima comprendida entre la V Región al paralelo 41° L.S., todo ello en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y de lo señalado en la resolución extractada.
+
+Valparaíso, 3 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
