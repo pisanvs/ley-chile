@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 875 de 29 de agosto de 2008, se expropió el lote de terreno Nº 22, superficie 104 m2, Rol Nº 840-115, comuna de Vallenar, III Región para la obra "CONSERVACION RED VIAL REGION DE ATACAMA 2006-2008 (CONSERVACION DE CAMINOS BASICOS (CONSERVACION CAMINO ACCESO A IMPERIAL BAJO, PROVINCIA DE HUASCO, REGION DE ATACAMA)" y se acordó el valor de indemnización con su propietaria VERONICA ISABEL CAMPILLAY CABALLERO, ascendente a la cantidad de $676.288.
+
+Fiscal del Ministerio de Obras Públicas.
