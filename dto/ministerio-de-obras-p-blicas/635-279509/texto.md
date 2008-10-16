@@ -1,0 +1,3 @@
+Por decreto MOP Nº 635 de 29 de agosto de 2008, se dejó sin efecto el decreto MOP. Nº 418, de fecha 30 de junio de 2008, se ordenó la expropiación, se aprobó el Plano y Cuadro de Expropiación y se autorizó el Convenio Directo de Precio del lote de terreno Nº 2, superficie 1.622.000 m2., rol de avalúo 143-32, comuna de Dalcahue, X Región de Los Lagos, para la obra "Nuevo Aeródromo Isla de Chiloé" y se acordó el valor de indemnización con su propietario EXEQUIEL EDUALIO PEREZ PACHECO, ascendente a la cantidad de $450.116.800.
+
+Fiscal del Ministerio de Obras Públicas.
