@@ -1,0 +1,3 @@
+Por decreto MOP Nº 642 de 29 de agosto de 2008, se dejó sin efecto el decreto MOP. Nº 452, de fecha 30 de junio de 2008, se ordenó la expropiación, se aprobó el Plano y Cuadro de Expropiación y se autorizó el Convenio Directo de Precio del lote de terreno Nº 31, superficie 6.083 m2., rol de avalúo 147-743, comuna de Dalcahue, X Región de Los Lagos, para la obra "Nuevo Aeródromo Isla de Chiloé" y se acordó el valor de indemnización con su propietario ERWIN PATRICIO TORRES MIRANDA, ascendente a la cantidad de $5.658.854.
+
+Fiscal del Ministerio de Obras Públicas.
