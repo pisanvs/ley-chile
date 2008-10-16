@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº 869, de fecha 29 de agosto de 2008, se expropió el lote de terreno Nº 29, superficie 3.295 m2, Rol Nº 167-130, comuna de Arauco, VIII Región para la obra Camino Ruta P-40, Sector Arauco - Quiapo, Km. 0,00000 al Km. 15,96000", y se acordó el valor de indemnización con su propietaria LETICIA VEGA ORDENES, ascendente a la cantidad de $2.800.899.
+
+Fiscal del Ministerio de Obras Públicas.
