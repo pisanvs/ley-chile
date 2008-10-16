@@ -1,0 +1,3 @@
+Por decreto MOP Nº 647, de 29 de agosto de 2008, se dejó sin efecto el decreto MOP. Nº 461, de fecha 30 de junio de 2008, se ordenó la expropiación, se aprobó el Plano y Cuadro de Expropiación y se autorizó el Convenio Directo de Precio del lote de terreno Nº 10, superficie 5.250 m2., rol de avalúo 143-151, comuna de Dalcahue, X Región de Los Lagos, para la obra "Nuevo Aeródromo Isla de Chiloé" y se acordó el valor de indemnización con su propietaria PATRICIA DEL CARMEN ULLOA BARRIENTOS Y OTROS, ascendente a la cantidad de $28.090.677.
+
+Fiscal del Ministerio de Obras Públicas.
