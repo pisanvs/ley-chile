@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIAS EL TRÉBOL Y CALEDONIA
+
+Resolución exenta Nº 879 del 23 de septiembre de 2008, resolvió la Clausura a partir de esta fecha de Estancia El Trébol, Rol Nº 5126-025 y Estancia Caledonia Rol Nº 5126-029, ambas de propiedad de Comunidad Maclean Boyd. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo hasta el 31.12.2008. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales. Punta Arenas, 22 de septiembre del 2008.
+
+Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
