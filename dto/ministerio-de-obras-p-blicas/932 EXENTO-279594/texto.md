@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 932 de 16 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 2-A, para la obra: Camino Ruta G-550, Sector Puente Aguila Norte, Tramo km. 6,10000 a km. 6,80479, que figura a nombre de PHILLIPS TORO JORGE, rol de avalúo 136-492, Comuna de PAINE, Región Metropolitana, superficie 754 m2. La Comisión de Peritos, fijó con fecha 2 de noviembre de 2007 en la cantidad de $2.851.100.- para el lote Nº 2-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
