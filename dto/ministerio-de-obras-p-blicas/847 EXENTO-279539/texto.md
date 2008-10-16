@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 847 de fecha 29 de agosto de 2008, se expropió el lote de terreno Nº 6 superficie 429 m2, Rol Nº 509-327, comuna de Copiapó, III Región para la obra "Concesión Ruta 5 Norte Tramo Vallenar - Caldera Sector: Fin By-Pass a Copiapo Caldera Km. 824.100,00 al Km. 888.700,00" y se acordó el valor de indemnización con su propietaria MARIA CRISTINA CERDA PORCILE, ascendente a la cantidad de $728.799.
+
+Fiscal del Ministerio de Obras Públicas.
