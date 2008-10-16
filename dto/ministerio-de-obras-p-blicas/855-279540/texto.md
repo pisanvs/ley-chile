@@ -1,0 +1,3 @@
+Por decreto MOP Nº 855 de 29 de agosto de 2008, se expropió el lote de terreno Nº 54, superficie 332 m2, rol de Avalúo 18-11, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario LUIS OSCIEL JERALDO Y OTRA, ascendente a la cantidad de $1.136.369.
+
+Fiscal del Ministerio de Obras Públicas.
