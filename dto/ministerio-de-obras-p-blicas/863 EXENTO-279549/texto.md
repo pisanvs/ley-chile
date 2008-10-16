@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 863, de fecha 29 de agosto del 2008, se expropió el lote de terreno N° 266-A, superficie 62 m2, Rol N° 202-331, comuna de Longaví, VII Región para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 al Km. 19,41782.", y se acordó el valor de indemnización con su propietario FRANCISCO EDUARDO MARTÍNEZ ÁLVAREZ, ascendente a la cantidad de $443.546.
+
+Fiscal del Ministerio de Obras Públicas.
