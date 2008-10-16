@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 858 de fecha 29 de agosto de 2008, se expropió el lote de terreno Nº 19, superficie 242 m2, Rol Nº 26-67, comuna de Río Hurtado, IV Región para la obra "Conservación Camino 64E763 San Pedro - Bosque Petrificado de Pichasca" y se acordó el valor de indemnización con su propietario JUAN RAMON JERALDO PIZARRO, ascendente a la cantidad de $236.691.
+
+Fiscal del Ministerio de Obras Públicas.
