@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 862 de fecha 29 de agosto de 2008, se expropió el lote de terreno Nº 189-A, superficie 130 m2, Rol Nº 202-249, comuna de Longaví, VII Región para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 al Km. 19,41782" y se acordó el valor de indemnización con su propietario JOSE MANUEL MARTINEZ GONZALEZ, ascendente a la cantidad de $669.284.
+
+Fiscal del Ministerio de Obras Públicas.
