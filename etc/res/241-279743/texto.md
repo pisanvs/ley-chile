@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DE PUANGUE ALTO, PUANGUE MEDIO, CHOLQUI, POPETA, MELIPILLA Y LA HIGUERA, CORRESPONDIENTES AL ACUÍFERO DE PUANGUE-MELIPILLA LOCALIZADO EN LA PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA DE SANTIAGO
+
+Mediante resolución DGA Nº 241, de fecha 31 de julio de 2008, se ha declarado área de restricción para extracciones de aguas subterráneas, los sectores hidrogeológicos de aprovechamiento común de Puangue Alto, Puangue Medio, Cholqui, Popeta, Melipilla y La Higuera, ubicados en la provincia de Melipilla, Región Metropolitana de Santiago. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región Metropolitana y en la página web de la DGA.
+
+Rodrigo Weisner Lazo, Director General de Aguas.
