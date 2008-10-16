@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº 864, de fecha 29 de agosto de 2008, se expropió el lote de terreno Nº 19, superficie 44 m2, Rol Nº 840-122, comuna de Vallenar, III Región para la obra "Conservación Red Vial Región de Atacama 2006-2008 (Conservación de Caminos Básicos (Conservación Camino Acceso a Imperial Bajo, Provincia de Huasco, Región de Atacama)", y se acordó el valor de indemnización con su propietaria ROSA MARIA MORENO CARPIO, ascendente a la cantidad de $489.251.
+
+Fiscal del Ministerio de Obras Públicas.
