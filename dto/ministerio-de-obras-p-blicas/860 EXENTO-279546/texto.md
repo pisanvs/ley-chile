@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 860 de fecha 29 de agosto de 2008, se expropió el lote de terreno Nº 34, superficie 113 m2, Rol Nº 18-21, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D- 595, Ovalle Hurtado, Sector Samo Alto Pichasca" y se acordó el valor de indemnización con su propietario DICKSON MALEBRAN OLIVARES, ascendente a la cantidad de $312.294.
+
+Fiscal del Ministerio de Obras Públicas.
