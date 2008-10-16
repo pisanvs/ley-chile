@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 868, de fecha 29 de agosto del 2008, se expropió el lote de terreno N° 9, Superficie 245 m2, Rol N° 149-208, comuna de Nancagua, VI Región para la obra "Camino Ruta I-810, Puquillay - Convento Viejo, Sector Puquillay - La Cabrería, Tramo Km. 0,00000 al Km. 3,36889 (I-810) Km. 0,00000 al Km. 0,26894 (I-796).", y se acordó el valor de indemnización con su propietario SOCIEDAD AVIAGRO LIMITADA, ascendente a la cantidad de $2.319.602.
+
+Fiscal del Ministerio de Obras Públicas.
