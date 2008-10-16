@@ -1,0 +1,3 @@
+Por decreto MOP Nº 877 de 29 de agosto de 2008, se expropió el lote de terreno Nº 68, superficie 103 m2, rol de Avalúo E/T, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietaria PAMELA JEANNETTE GONZÁLEZ RIVERA, ascendente a la cantidad de $250.317.
+
+Fiscal del Ministerio de Obras Públicas.
