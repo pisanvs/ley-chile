@@ -1,0 +1,5 @@
+Por decreto MOP exento N° 933 de 16 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 3, para la obra:
+
+"Camino Arauco - Lebu por Curihuillín, sector Puente Los Patos, Km. 0,00000 a Km. 0,20112, VIII Región", que figura a nombre de AGUILAR VIDAL GUSTAVINA Y OTRA, rol de avalúo N° 510-32, Comuna de Arauco, Región del Bío Bío, superficie 162 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 05 de marzo de 2003, en la cantidad de $56.700.- para el lote N°3. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
