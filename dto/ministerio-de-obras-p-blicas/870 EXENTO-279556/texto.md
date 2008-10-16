@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 870, de fecha 29 de agosto del 2008, se expropió el lote de terreno N° 20, superficie 51 m2, Rol N° 840-109, comuna de Vallenar, III Región para la obra "Conservación Red Vial Región de Atacama 2006-2008 (Conservación de Caminos Básicos (Conservación Camino Acceso a Imperial Bajo, Provincia de Huasco, Región de Atacama).", y se acordó el valor de indemnización con su propietaria VIOLETA DEL ROSARIO CAMPILLAY CABALLERO, ascendente a la cantidad de $523.816.
+
+Fiscal del Ministerio de Obras Públicas.
