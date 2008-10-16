@@ -1,0 +1,5 @@
+Por decreto MOP exento N° 946, de 16 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno N°s 33 y 37, para la obra: "Camino Ruta S-69, Sector Pedregoso -
+
+Villarrica Tramo Km. 25,80000 a Km. 38,52500", que figuran a nombre de LAZAL LTDA, roles de avalúo N°s 354-66 y 354-81, Comuna de Villarrica, Región de la Araucanía, superficies 191 m2 y 166 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 20 de marzo de 2007, en la cantidad de $2.180.100.- para el lote N°33 y $1.810.450.- para el lote N°37. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
