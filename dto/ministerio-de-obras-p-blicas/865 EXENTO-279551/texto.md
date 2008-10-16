@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 865, de fecha 29 de agosto del 2008, se expropió el lote de terreno N° 2, superficie 364 m2, Rol N° 395-47, comuna de Pitrufquén, IX Región para la obra "Proyecto Mejoramiento Trazado Camino Pitrufquén - Ñancul, Tramo Km. 12,20000 al Km. 23,14000." y se acordó el valor de indemnización con su propietario FERNANDO ROA FIERRO, ascendente a la cantidad de $621.580.
+
+Fiscal del Ministerio de Obras Públicas.
