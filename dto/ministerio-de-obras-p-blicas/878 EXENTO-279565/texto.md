@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 878 de 29 de agosto de 2008, se expropiaron los lotes de terrenos Nºs. 10 y 15, superficies 11 y 325 m2, Rol Nº 840-106, comuna de Vallenar, III Región para la obra "CONSERVACION RED VIAL REGION DE ATACAMA 2006-2008 (CONSERVACION DE CAMINOS BASICOS (CONSERVACION CAMINO ACCESO A IMPERIAL BAJO, PROVINCIA DE HUASCO, REGION DE ATACAMA)" y se acordó el valor de indemnización con su propietario JUAN BAUTISTA CAMPILLAY CAMPILLAY, ascendente a la cantidad de $1.667.069.
+
+Fiscal del Ministerio de Obras Públicas.
