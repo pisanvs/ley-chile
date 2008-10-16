@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA DE ESTANCIA DOMAIKE
+
+Resolución exenta Nº 904 del 3 de octubre de 2008, resolvió la Clausura a partir de esta fecha de Estancia Domaike Rol 5111-94 de propiedad de David Rodríguez Sánchez. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo hasta el 31.12.2008. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 2 de octubre de 2008.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
