@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.558, de 30 de septiembre de 2008, de esta Subsecretaría, modifícase el numeral 3.- de la resolución Nº 1.216, de 2008, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Indicadores de dinámica poblacional y dinámica de la flota que opera sobre Sardina común y Anchoveta entre la VII y X Región", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 9 de diciembre de 2008, inclusive.
+
+Valparaíso, 30 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
