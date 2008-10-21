@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.544, de 30 de septiembre de 2008, de esta Subsecretaría, autorízase a IMPORTADORA Y EXPORTADORA M.J. CHILE LIMITADA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Vía Uno, sitio 2, manzana K, Km. 10, Bajo Molle, Iquique, I Región, para elaborar en la línea de proceso de alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
