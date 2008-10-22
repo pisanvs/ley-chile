@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.698, de 15 de octubre de 2008, de esta Subsecretaría, autorízase a COMERCIALIZADORA SAN PEDRO LIMITADA, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Paseo del Mar Nº 245, caleta San Pedro, San Antonio V Región, para elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Congelado y Ahumado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 15 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
