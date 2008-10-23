@@ -6596,7 +6596,59 @@ En estos casos, se deberá pagar el derecho municipal establecido en el número 
 
 B. Cuando las obras menores correspondan a modificaciones de edificaciones existentes que no alteren su estructura, con excepción de las señaladas en el artículo 5.1.2. de esta Ordenanza, el permiso será otorgado por el Director de Obras Municipales, en un plazo máximo de 15 días, contra la presentación de una fotocopia del Certificado de Informaciones Previas y una declaración simple del profesional competente que las hubiere proyectado, en cuanto a que éstas cumplen con la normativa vigente, describiendo las obras, indicando el presupuesto y acompañando un croquis de su ubicación, todo lo cual se archivará conjuntamente con el respectivo expediente de edificación. En estos casos, se deberá pagar el derecho municipal establecido en el número 3 del artículo 130º de la Ley General de Urbanismo y Construcciones.
 
-2. Permiso de Alteración, Reparación o Reconstrucción.
+2. Permiso de Obra Menor de ampliaciones de viviendas sociales y de regularización de edificaciones anteriores al 31 de julio de 1959:
+
+A los permisos para ampliar viviendas sociales, viviendas progresivas e infraestructuras sanitarias, así como para regularizar edificaciones destinadas a cualquier uso que hayan sido construidas con anterioridad al 31 de julio de 1959, sólo les serán aplicables las disposiciones de los planes reguladores referidas a uso de suelo, zonas de riesgo o protección y declaratorias de utilidad pública.
+
+Asimismo, en estos casos sólo se deberá cumplir con las normas técnicas de habitabilidad y seguridad, con las normas técnicas de estabilidad y con las de instalaciones interiores de electricidad, y, cuando corresponda, de agua potable, alcantarillado y gas, establecidas por los organismos competentes.
+
+Para dicho efecto, deberán presentarse a la Dirección de Obras Municipales los siguientes antecedentes, según se trate de permiso de ampliación de las edificaciones señaladas o de regularización de las edificaciones construidas con anterioridad al 31 de julio de 1959.
+
+A. Permiso de Obra Menor de Ampliación de Vivienda Social.
+
+Cuando las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, cumplan con las disposiciones contempladas en el artículo 6.1.11. de esta Ordenanza, deberá solicitarse un permiso de obra menor de ampliación de vivienda social, el que será otorgado por el Director de Obras Municipales, dentro del plazo establecido para el Permiso de Obra Menor, previo pago de los derechos municipales contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones, rebajados, a lo menos, en un 50%, con el solo mérito de la presentación de los siguientes antecedentes:
+
+1. Solicitud firmada por el propietario y el arquitecto autor del proyecto y declaración simple del propietario manifestando ser titular del dominio del predio, ambos aspectos contenidos en el Formulario Único Nacional respectivo.
+
+2. Fotocopia del Certificado de Informaciones Previas.
+
+3. Informe del arquitecto que suscribe el proyecto, que certifique la forma en que la ampliación cumple con las normas señaladas en este numeral, según corresponda.
+
+4. Croquis de emplazamiento, a escala, en que se grafique la edificación existente y la ampliación.
+
+5. Plano a escala 1:50, en que se grafique planta general y elevaciones con las cotas mínimas indispensables, que permitan definir los aspectos formales, dimensionales y funcionales de la obra menor con individualización de los recintos y cuadro de superficies.
+
+6. Especificaciones técnicas resumidas, señalando las partidas más relevantes de la obra.
+
+El Director de Obras Municipales deberá verificar el cumplimiento de las normas urbanísticas señaladas en este numeral.
+
+La recepción definitiva de los permisos de obra menor de vivienda social, se tramitará en conformidad a lo dispuesto en el inciso final del artículo 5.2.6. de esta Ordenanza, no pudiendo formularse otras exigencias que las señaladas en dicha disposición.
+
+B. Regularización de edificaciones construidas con anterioridad al 31 de julio de 1959.
+
+1. Solicitud firmada por el propietario y el arquitecto y, declaración simple del propietario manifestando ser titular del dominio del predio, ambos aspectos contenidos en el Formulario Único Nacional respectivo.
+
+2. Fotocopia del Certificado de Informaciones Previas.
+
+3. Informe del arquitecto que suscribe el proyecto, que certifique la forma en que la edificación cumple con las normas señaladas en este numeral, según corresponda. Para efectos del cumplimiento de las normas de estabilidad, podrá adjuntarse un informe complementario de un profesional competente.
+
+4. Croquis de emplazamiento, a escala, en que se grafique la edificación existente y la ampliación.
+
+5. Plano a escala 1:50, en que se grafique planta general y elevaciones con las cotas mínimas indispensables, que permitan definir los aspectos formales, dimensionales y funcionales de la edificación con individualización de los recintos y cuadro de superficies.
+
+6. Especificaciones técnicas resumidas, señalando las partidas más relevantes de la obra.
+
+7. Formulario único de estadísticas de edificación.
+
+8. Certificado de dotación de servicios sanitarios, instalaciones eléctricas interiores y de gas, cuando proceda.
+
+9. Declaración de instalaciones eléctricas de ascensores y montacargas inscrita por el instalador autorizado en la Superintendencia de Electricidad y Combustibles, la cual registrará la inscripción y certificado del fabricante o instalador de ascensores indicando que la instalación está conforme a las normas vigentes, dirigido a la Dirección de Obras Municipales respectiva, cuando proceda.
+
+10 Documentación que demuestre la data de la construcción, pudiendo corresponder a medios de prueba gráficos o escritos, tales como planos aprobados, cuentas de servicios, certificados de contribuciones, catastros municipales o de otros organismos públicos o informe realizado por una empresa u organismo certificador que acredite la antigüedad de la construcción.
+
+Las Direcciones de Obras Municipales con el solo mérito de la presentación de la totalidad de los antecedentes señalados, otorgará, dentro del plazo establecido para el Permiso de Obra Menor, si procediere, el correspondiente certificado de regularización, previo pago de los derechos municipales contemplados en el número 2 del artículo 130 de la Ley General de Urbanismo y Construcciones. El Director de Obras Municipales deberá verificar el cumplimiento de las normas urbanísticas señaladas en este numeral.
+
+3. Permiso de Alteración, Reparación o Reconstrucción.
 
 Se otorgará permiso para alterar, reparar o reconstruir un edificio, si la intervención aisladamente considerada cumple con todas las exigencias de la presente Ordenanza. Para estos efectos se deberá acompañar planos y especificaciones técnicas de aquellas partes del edificio que sufran cambios con respecto a los antecedentes primitivamente aprobados. Dichos planos diferenciarán con líneas convencionales las partes no afectadas, las partes nuevas y las que deben demolerse, a fin de poder verificar las condiciones proyectadas de seguridad y habitabilidad. Se acompañará también presupuesto informativo de las obras correspondientes.
 
@@ -6604,7 +6656,7 @@ Si la intervención afectare la estructura de la edificación, se deberá acompa
 
 Tratándose de alteraciones consistentes en obras de restauración, rehabilitación o remodelación de edificios ligados a Monumentos Nacionales, inmuebles o zonas de conservación histórica, tal circunstancia deberá declararse en la solicitud, debiendo en estos casos, presentarse la autorización del Consejo de Monumentos Nacionales o de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, según corresponda.
 
-3. Autorización de Cambio de Destino.
+4. Autorización de Cambio de Destino.
 
 El propietario deberá acompañar el Certificado de Informaciones Previas e indicar si la solicitud se refiere a toda o parte de una edificación existente, además de señalar el destino requerido y acompañar una declaración simple de dominio.
 
@@ -6612,7 +6664,7 @@ Si para el mencionado cambio de destino de la edificación se requiere alterar o
 
 El Director de Obras Municipales informará favorablemente el cambio de destino, si dicho cambio cumple con el uso de suelo, las normas de seguridad establecidas en los Capítulos 2 y 3 del Título 4 y las demás normas que para el nuevo uso señale la presente Ordenanza y el Instrumento de Planificación Territorial respectivo.
 
-4. Permiso de Demolición.
+5. Permiso de Demolición.
 
 La solicitud respectiva deberá ser firmada por el propietario, acompañando:
 
@@ -8825,6 +8877,14 @@ A estas ampliaciones no les será aplicable lo dispuesto en el artículo 1.4.17.
 #### Artículo 6
 
 1.10. Las viviendas unifamiliares que forman parte de un conjunto a que se refiere el artículo 6.1.8, y las que forman parte de un loteo con construcción simultánea conforme al artículo 6.2.5. cuando se desarrollan en extensión, deberán cumplir, entre ellas, con las distancias mínimas horizontales señaladas en el artículo 4.1.15, sin que les sean aplicables las disposiciones del artículo 2.6.3, todos de esta Ordenanza.
+
+#### Artículo 6
+
+1.11. A las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, emplazadas en el área urbana o rural, sólo les serán aplicables las disposiciones de los planes reguladores referidas a uso de suelo, zonas de riesgo o protección y declaraciones de utilidad pública, y las normas técnicas de habitabilidad, seguridad, estabilidad y de las instalaciones interiores de electricidad y, cuando corresponda, de agua potable, alcantarillado y gas.
+
+No podrán acogerse a esta disposición las ampliaciones de aquellas viviendas sociales que producto de la sumatoria de la superficie original de la vivienda, más la o las ampliaciones, superen los 140 m2.
+
+Los permisos y recepciones de estas obras se tramitarán conforme al procedimiento simplificado establecido en la letra A del numeral 2. del artículo 5.1.4. y en el último inciso del artículo 5.2.6. de esta Ordenanza, respectivamente.
 
 ## Capítulo 2
 
