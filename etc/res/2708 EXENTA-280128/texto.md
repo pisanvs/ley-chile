@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.708, de 15 de octubre de 2008, de esta Subsecretaría, déjese sin efecto la resolución exenta Nº 2.094, de 2008, de esta Subsecretaría, que declaró la caducidad total de las resoluciones exentas Nº 4.030, de 2005, y Nº 820, de 2008, ambas de esta Subsecretaría, que autorizaron a don GIOVANNI ARANCIBIA FUENTES para desarrollar actividades pesqueras extractivas con la nave "Isla Tabón", en virtud de haberse acreditado el pago de la patente única pesquera correspondiente al año 2008.
+
+Valparaíso, 15 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
