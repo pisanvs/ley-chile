@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA A DIRECTV CHILE TELEVISIÓN LIMITADA
+
+La Dirección Grandes Contribuyentes, por resolución exenta Nº 52, de 6 de octubre de 2008, otorga, a contar del día 1º del mes siguiente al de esta publicación, a DIRECTV Chile Televisión Limitada, RUT Nº 87.161.100-9, la calidad de agente retenedor del Impuesto al Valor Agregado sobre márgenes de comercialización en la venta del medio de acceso para la utilización de los servicios de televisión satelital, establecido en la resolución exenta SII Nº 109, de 25 de octubre de 2005, publicada en el Diario Oficial de fecha 29 de octubre de 2005, complementada por la resolución exenta SII Nº 93, de 18 de agosto de 2008, publicada en el Diario Oficial de fecha 21 de agosto de 2008, ambas de la Dirección Nacional del Servicio de Impuestos Internos.
+
+Director Grandes Contribuyentes.
