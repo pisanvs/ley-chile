@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.719, de 15 de octubre de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207111360, presentada por INVERTEC PESQUERA MAR DE CHILOÉ S.A., para instalar y operar un centro de cultivo ubicado en Fiordo Aysén, al noreste de Punta del Medio, Isla Partida, XI Región.
+
+Valparaíso, 15 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
