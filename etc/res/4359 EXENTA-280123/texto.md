@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A MARINE FOOD CHILE LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 4.359, de fecha 6 de octubre de 2008, otorga, a contar del 1º del mes siguiente de esta publicación, al contribuyente Marine Food Chile Limitada, RUT Nº 76.628.160-5, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la comercialización de Productos Hidrobiológicos, establecido en la resolución exenta Nº 3.311, del 30 de junio de 2000, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1º de agosto de 2000.
