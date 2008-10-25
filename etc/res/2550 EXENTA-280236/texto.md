@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.550, de 30 de septiembre de 2008, de esta Subsecretaría, autorízase a SANDRA MARIBEL BARRÍA DELGADO, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Oqueldan Rural s/n, Quellón, Chiloé, X Región, para elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Ahumado, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
