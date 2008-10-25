@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.631, de 7 de octubre de 2008, de esta Subsecretaría, autorízase a ELABORADORA DE PRODUCTOS DEL MAR LIMITADA, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en calle 12 de Febrero N° 168, Coquimbo, IV Región, para elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Conserva y Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 7 de octubre de 2008.- María Angela Barbieri Bellolio, Subsecretario de Pesca (S).
