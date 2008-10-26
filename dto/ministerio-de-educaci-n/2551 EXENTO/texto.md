@@ -1,0 +1,37 @@
+DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE MONUMENTO HISTÓRICO LA CASA BALLIVIÁN, ACTUAL SEDE DE LA CORPORACIÓN CLUB DE DEPORTES SANTIAGO WANDERERS, UBICADA EN LA COMUNA Y PROVINCIA DE VALPARAÍSO, V REGIÓN DE VALPARAÍSO
+
+Núm. 2.551 exento.- Santiago, 14 de agosto de 2008.- Considerando:
+
+Que, el inmueble conocido como "Casa Ballivián" está ubicado en calle Independencia Nº 2053 de la Comuna y Provincia de Valparaíso, la construcción data de 1913, posee una superficie útil construida de 1.332 metros2 aproximados, su estado de conservación es bueno, manteniendo gran parte de sus terminaciones y decoraciones originales. El edificio en su conjunto posee elementos destacables, tanto por su relación con la arquitectura universal como con la propia de la ciudad. Actualmente es la sede de la Corporación Club de Deportes Santiago Wanderers de Valparaíso.
+
+Que, este inmueble, encargado por don Alfredo Ballivián, diplomático boliviano, que llegó a Valparaíso emigrando de su tierra natal por conflictos políticos. El diseño pertenece al destacado ingeniero-arquitecto don Otto Anwandter R.
+
+(1874/1954), autor de otras importantes obras en Valparaíso, como el edificio del Banco de Chile y Alemania, el Edificio Compañía de Tabacos Fernando Rioja, la ex Fábrica Hucke (actual Edificio de Chilquinta), la ampliación del Club Alemán, entre otros.
+
+Que, además de haber sido residencia de la familia Ballivián, fue más tarde propiedad de la doña María Teresa Brown de Ariztía, quien ocupó el inmueble hasta comienzos de la década del cuarenta.
+
+Que, desde 1943 hasta 1970 ocuparon esta casona la Congregación Carmelitas Misioneras Teresianas. Posteriormente, fue adquirida por la Central Única de Trabajadores Provincial, los que estuvieron hasta 1973, fecha en que fue ocupada por la Guarnición Militar hasta 1990. Luego pasó a ser propiedad de diversas entidades, destacando la Defensa Civil y la empresa Isacruz, entre otros, hasta 1994, fecha en que es adquirida por su actual propietario, la Corporación Club de Deportes Santiago Wanderers.
+
+Que, asimismo, se destaca este inmueble por el hecho que ha sido funcional para gran cantidad de personas e instituciones que han desarrollado diversas actividades, lo que hoy en día se ve fortalecido por la ocupación de la Corporación Club Deportivo Santiago Wanderers, reafirmando con su uso, el carácter patrimonial del inmueble asociado, con el alto valor de patrimonio intangible que este Club representa para la ciudad de Valparaíso.
+
+Que sus valores constructivos se estructuran en base a muros de mampostería de albañilería, reforzada con rieles de acero, arriostrando los muros perimetrales del edificio. El entrepiso es de madera, con envigado de pino oregón, vigas maestras y tabiquerías de roble con piezas metálicas. Sus terminaciones son de madera noble, encielados y casetones de lingue, puertas y vanos de madera, escalas de mármol y pisos de parquet originales. Notables son los trabajos de los cerramientos, protecciones y barandas en acero forjado y repujado.
+
+Que, en cuanto a los valores arquitectónicos, estilísticos, artístico y/o urbanísticos, este edificio se destaca porque forma parte de un conjunto armónico que guarda directa relación con la trama de la ciudad, sin antejardín, con alturas de 12 a 14 metros de fachada continua, mantiene similitud en el tratamiento de su fachada principal, relacionándose con el edificio ubicado en su costado oriente de estilo Art-Decó y con el que domina la esquina -calle Freire con Independencia-, además, del colindante por calle Freire, edificio correspondiente a los tradicionales "Baños Turcos", conformando una volumetría única y permanente, parte reconocible del patrimonio urbano de este sector de la ciudad.
+
+Que, se aprecia su relevancia apoyada por el macizo que presenta el cuerpo de fachada, de líneas más sueltas y onduladas, que logra imponerse estilísticamente sobre las demás edificaciones de estilo neoclásico o más racionalista, con líneas más duras y simétricas. Se aprecian detalles muy relacionados con el neobarroco, arcos rebajados y elípticos, simetría en la composición, con resabios del neoclasicismo en fachada, pero con elementos propios de la época de su concepción como las marquesinas de acceso que recuerdan al Art Noveau, francés. El concepto espacial interno es común a la edificación tradicional de la ciudad, con pisos de cuatro metros de altura, corredor-galería como circulación horizontal, grandilocuencia en el acceso con su escala de mármol, grandes vestíbulos y hall de distribución, similitud planimétrica en los tres niveles existentes, etc. Al interior, las influencias se presentan de tipo inglesa de fines del siglo XIX, tanto por las galerías vidriadas, como por los bow- windows al costado sur del patio. Destaca su revestimiento en base a láminas de acero pre- diseñadas, con imitación de aparejos o enchapes de ladrillo, antepechos de madera, entablado vertical, remates de entrepisos y piezas de madera, y
+
+Visto: Lo dispuesto en la Ley Nº 17.288, de 1970; Decreto Supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia; Ord. Nº 4031 del Secretario del Consejo de Monumentos Nacionales, de 09 de agosto de 2008; Acta de Sesión del Consejo de Monumentos Nacionales, de 09 de julio de 2008; propuesta de declaración de Monumento Histórico para Sede de la Corporación "Club de Deportes Santiago Wanderers de Valparaíso" de don Carlos Bombal S., Presidente de la Corporación Club de Deportes Santiago Wanderers de Valparaíso, de diciembre de 2007; carta de don Carlos Bombal S., Presidente de la Corporación Club de Deportes Santiago Wanderers de Valparaíso, de 10 de marzo de 2008; carta de don Aldo Cornejo G., Alcalde de Valparaíso, de 20.04.2007; apoyo de los concejales señoras Marina Huerta R., Katrina Sanguinetti T., Marisol Paniagua S., señores Eugenio González B., Alejandro Navarrete P., Jorge Castro M., Absalon Opazo L.; Máximo Silva H., Eugenio Trincado S., de los Diputados señoras Adriana Muñoz y Marta Isasi, señores Álvaro Escobar, Cristian Mönckeberg, Maximiano Errázuriz, Edmundo Eluchans, Jorge Tarud, Esteban Valenzuela, Francisco Chahuan, Roberto Sepúlveda, Joaquín Godoy, Mario Bertolino; otros 1.000 adherentes, aproximadamente; Resolución Nº 520, de 1996, de la Contraloría General de la República y en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile,
+
+Decreto :
+
+#### Artículo único
+
+Declárase Monumento Nacional en la categoría de Monumento Histórico la "Casa Ballivián", actual sede de la Corporación Club de Deportes Santiago Wanderers de Valparaíso, ubicada en calle Independencia Nº 2053, de la Comuna y Provincia de Valparaíso, V Región de Valparaíso.
+
+El área protegida tiene una superficie aproximada de 547,79 metros2 y se delimita por el polígono A-B-C-D-A, como se indica en el plano adjunto que forma parte del presente decreto.
+
+> **Nota.** El artículo único del Decreto 423, Educación, publicado el 05.12.2009, modifica la presente norma en el sentido de que desde el año 1997 el actual propietario del inmueble señalado en el considerando cuarto es la Inmobiliaria Santiago Wanderers S.A. y no como en dicho decreto se señala.
+
+Anótese y publíquese.- Por orden de la Presidenta de la República, Mónica Jiménez de la Jara, Ministra de Educación.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Cristián Martínez Ahumada, Subsecretario de Educación.
