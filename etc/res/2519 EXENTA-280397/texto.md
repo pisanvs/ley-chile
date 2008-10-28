@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.519, de 26 de septiembre de 2008, de esta Subsecretaría, autorízase a CRISTIAN ERNESTO ESPINOZA GONZÁLEZ, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Paposo, playa La Veleidosa, Tal Tal, II Región, para elaborar en las líneas de proceso Alga Seca, los recursos hidrobiológicos indicados en Resolución extractada.
+
+Valparaíso, 26 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
