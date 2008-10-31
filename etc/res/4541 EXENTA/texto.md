@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMERCIO MAYORISTA CHILE LTDA.
+
+La Décima Dirección Regional Puerto Montt del Servicio Impuestos Internos, por resolución Ex. N° 4.541, de fecha 17 de octubre de 2008, otorga a contar del 1° del mes siguiente de esta publicación, al contribuyente Comercio Mayorista Chile Ltda., RUT N° 76.004.219-6, la calidad de agente Retenedor del Impuesto al Valor Agregado en la comercialización de Carne, establecido en la resolución exenta N° 3.721 del 28 de julio de 2008 de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1° de agosto de 2000.
