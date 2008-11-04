@@ -1,0 +1,3 @@
+Por decreto M.O.P. (exento) Nº 1.017 de 30 de septiembre de 2008, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del decreto MOP. (exento) Nº 1.155 de 30 de septiembre de 2003, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote N° 52-A. Consígnese judicialmente el monto provisional de la indemnización del lote Nº 52-A, fijada por la Comisión de Peritos, con fecha 1 de octubre de 2002, ascendente a la cantidad de $1.897.200.
+
+Fiscal del Ministerio de Obras Públicas.
