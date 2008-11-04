@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.015 de fecha 30 de septiembre del 2008, se expropiaron los lotes de terreno N°s 31 y 32, superficies 148 y 786 m2, Rol N°9704, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-498 y C-489, Sendero Peatonal, Etapa I, y se acordó el valor de indemnización con su propietario OMAR BERNABE ZEPEDA PAEZ, ascendente a la cantidad de $3.634.843.
+
+Fiscal del Ministerio de Obras Públicas.
