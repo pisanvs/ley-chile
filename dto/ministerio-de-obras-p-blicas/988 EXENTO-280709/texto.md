@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº988, de fecha 30 de septiembre del 2008, se expropió el lote de terreno Nº80-1, superficie 458 m2, Rol Nº224-8, comuna de La Calera, V Región para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 2: Km. 0.000,00 al Km. 38.500,00. Tramo 1: Km. 0.000,00 al Km. 21.000,00", y se acordó el valor de indemnización con su propietario ROSALÍA FLORENCIA CASTILLO GODOY Y OTROS, ascendente a la cantidad de $3.245.541.
+
+Fiscal del Ministerio de Obras Públicas.
