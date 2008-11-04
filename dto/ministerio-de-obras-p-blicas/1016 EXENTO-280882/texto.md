@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.016 de fecha 30 de septiembre del 2008, se expropiaron los lotes de terreno N°s 2 y 3, superficies 219,00 y 199,00 m2, Rol N° 153-123 y 153-226, comuna de Chonchi, X Región para la obra "Conservación Camino Básico Huillinco - Cucao, Provincia de Chiloé (Plan Chiloé)" y se acordó el valor de indemnización con su propietario RAUL ENRIQUE ALVAREZ BORQUEZ, ascendente a la cantidad de $1.153.597.- para los lotes N°s 2 y 3.
+
+Fiscal del Ministerio de Obras Públicas.
