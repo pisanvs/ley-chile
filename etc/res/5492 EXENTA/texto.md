@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE MARÍA PINTO
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 5.492 del 10 de octubre de 2008, conforme artículo 5º transitorio Código Aguas, aclaró y complementó resolución exenta Nº 1.476, de 12 de agosto de 1987, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del Proyecto de Parcelación "El Parrón", ubicado en la comuna de María Pinto, Región Metropolitana, en el sentido de establecer la distribución de los derechos de aprovechamiento de aguas subterráneas que se extraen del pozo profundo CORFO 3320-7100 D-2, Coordenadas UTM Datum Sudamericano 1956 Norte: 6.292.970 Este: 307.513, en unidad de volumen por unidad de tiempo y que éstos son consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13 Ley Nº 18.377.- Director Nacional.
