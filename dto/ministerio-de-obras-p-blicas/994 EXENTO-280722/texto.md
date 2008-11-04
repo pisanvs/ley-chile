@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 994, de fecha 30 de septiembre del 2008, se expropió el lote de terreno N° 13, superficie 28 m2, Rol N° 2758-26, comuna de Chiguayante, VIII Región para la obra "Canal Papen Tramo 1 y 2", Comuna de Chiguayante, Provincia de Concepción, Región del Bío Bío, y se acordó el valor de indemnización con su propietario JORGE ISAAC MANOLI NAZAL, ascendente a la cantidad de $1.999.778.
+
+Fiscal del Ministerio de Obras Públicas.
