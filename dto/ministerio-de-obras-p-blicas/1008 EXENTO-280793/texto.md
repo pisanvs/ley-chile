@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.008 de 30 de septiembre de 2008, se expropió el lote de terreno Nº5-B, superficie 433 m2, rol de Avalúo 399-107, comuna de Pitrufquén, para la obra "Proyecto Mejoramiento Trazado Camino Pitrufquén - Ñancul Tramo Km. 12,20000 a Km. 23,14000", IX Región y se acordó el valor de la indemnización con su propietario CARLOS REYES LINCOPI, ascendente a la cantidad de $699.776.
+
+Fiscal del Ministerio de Obras Públicas.
