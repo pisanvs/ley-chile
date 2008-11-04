@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 998 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 46, superficie 86 m2, rol N° 18-14, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario HILDA DEL CARMEN ARAYA, ascendente a la cantidad de $504.654.
+
+Fiscal del Ministerio de Obras Públicas.
