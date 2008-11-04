@@ -1,0 +1,3 @@
+Por decreto MOP Nº1.009 de 30 de septiembre de 2008, se expropió el lote de terreno Nº22, superficie 141 m2., Rol Nº111-51, comuna de San Pablo, X Región para la obra "Mejoramiento Camino Ruta U-16, Sector Osorno - Bifurcación Quilacahuín, Tramo Km. 5,36000 al Km. 12,50000" y se acordó el valor de indemnización con su propietario ENRIQUE SEGUNDO GUALA INAYADO, ascendente a la cantidad de $310.404
+
+Fiscal del Ministerio de Obras Públicas.
