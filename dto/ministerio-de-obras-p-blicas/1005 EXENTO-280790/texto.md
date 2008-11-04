@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1005, de fecha 30 de septiembre del 2008, se expropió el lote de terreno N° 3, superficie 5.436 m2, Rol N° 835-7, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte Tramo: Vallenar - Caldera Sector: Vallenar - Inicio By-Pass a Copiapó Km. 665.000,00 al Km. 783.402,00", y se acordó el valor de indemnización con su propietario FERNANDO VICTOR LARRAIN CONTRERAS, ascendente a la cantidad de $251.598.
+
+Fiscal del Ministerio de Obras Públicas.
