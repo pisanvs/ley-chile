@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº995 de fecha 30 de septiembre de 2008, se expropió el lote de terreno Nº13, superficie 137 m2, rol Nº189-39, comuna de Cobquecura, para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo II, Km. 10,50000 al Km. 18,60807, VIII Región" y se acordó el valor de la indemnización con su propietario RAMÓN ULISES TORRES CHAMORRO, ascendente a la cantidad de $693.657.
+
+Fiscal del Ministerio de Obras Públicas.
