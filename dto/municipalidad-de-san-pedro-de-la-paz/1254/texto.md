@@ -1,0 +1,5 @@
+DISPONE ESTUDIO EXPROPIACIÓN INMUEBLE
+
+Por decreto alcaldicio N° 1.254, de 20.10.2008, de la Municipalidad de San Pedro de la Paz, se dispuso inicio estudio expropiación inmueble denominado Lote X1, ubicado calle Los Claveles N° 30, Huertos Familiares, San Pedro de la Paz, Rol Avalúos N° 12.651-159, comuna San Pedro de la Paz, inscrito a fs. 3656, N° 1766, Registro Propiedad Conservador Bienes Raíces San Pedro de la Paz año 2008. Superficie total inmueble a que se refiere estudio de expropiación: 794 m² aproximadamente. Deslindes: Norte. Lote X2, en 27,50 m.; Sur, Avda. Pedro Aguirre Cerda, en 27,50 m.; Oriente. Lote X5, en 28,85 m.; y Poniente, calle Los Claveles, en 28,85 m. Se dispuso publicar extracto en Diario Oficial e inscribir en Conservador de Bienes Raíces de San Pedro de la Paz.
+
+Remijio Chamorro Rodríguez, Alcalde (S).- Mauricio Araneda Medina, Secretario Municipal (S).
