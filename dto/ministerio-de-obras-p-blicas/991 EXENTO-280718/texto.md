@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 991, de fecha 30 de septiembre del 2008, se expropió el lote de terreno N° 3-B, superficie 149 m2, Rol N° 154-116, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500", y se acordó el valor de indemnización con su propietaria GLORIA CECILIA OLMOS SAAVEDRA, ascendente a la cantidad de $1.072.889.
+
+Fiscal del Ministerio de Obras Públicas.
