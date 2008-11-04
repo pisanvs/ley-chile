@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLE QUE INDICA NOTIFICACIÓN
+
+Resolución Nº 381, 10 octubre 2008, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en calle Daniel Belmar Nº 530, Boca Sur, Rol de Avalúo Nº 15.776-1 (Lt. A 1 B 2), comuna San Pedro de la Paz, superficie 1.000 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R 21.188, de aparente dominio de Ingetal Ingeniería y Construcción S.A., para ejecución proyecto Programa de Recuperación de Barrios, sector Boca Sur, comuna San Pedro de la Paz, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Guillermo Orlando Villafañe Feres, arquitecto, Rubén Carlos Muñoz Vera, arquitecto y Eliseo Eduardo Rivera Gajardo, arquitecto, según informe de fecha 12 septiembre 2008, fijó monto provisional indemnización en $12.525.000.
+
+Director Serviu Región del Bío Bío pagadera de contado.
