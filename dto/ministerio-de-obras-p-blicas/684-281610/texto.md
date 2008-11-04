@@ -1,0 +1,3 @@
+Por decreto MOP N° 684, de 16 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 6-A para la obra: "Mejoramiento Ruta Q-503, Los Ángeles - El Peral", que figura a nombre de CRUZ FERNANDEZ JUAN GUILLERMO, rol de avalúo N° 1535-10, Comuna de Los Ángeles, VIII Región, superficie 3.907 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 25 de septiembre de 2004, en la cantidad de $15.589.390.- para el lote N°6-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
