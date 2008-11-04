@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 996 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 24-B, superficie 150 m2, rol N° 154-163, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500 Comuna de Petorca y Provincia de Petorca, V Región" y se acordó el valor de la indemnización con su propietario ANTONIO MANUEL VILCHES PIZARRO, ascendente a la cantidad de $2.194.733.
+
+Fiscal del Ministerio de Obras Públicas.
