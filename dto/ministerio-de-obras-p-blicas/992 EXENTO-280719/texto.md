@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 992, de fecha 30 de septiembre del 2008, se expropió el lote de terreno N° 60, superficie 961 m2, Rol N° 434-172, comuna de Illapel, IV Región para la obra "Proyecto Embalse El Bato, "Canal Nuevo Cocinera" Comuna de Illapel, Provincia de Choapa, Región de Coquimbo.", y se acordó el valor de indemnización con su propietario JUAN ALBERTO ARAYA JORQUERA, ascendente a la cantidad de $154.154.
+
+Fiscal del Ministerio de Obras Públicas.
