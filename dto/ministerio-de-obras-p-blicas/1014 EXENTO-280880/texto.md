@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.014 de fecha 30 de septiembre del 2008, se expropiaron los lotes de terreno N°s 2 y 3-A, superficies 750 y 1.165 m2, Rol N° 2226-25, comuna de Osorno, X Región para la obra "Mejoramiento Camino Ruta U-16, Sector Osorno - Bifurcación Quilacahuín, Tramo Km. 5,36000 al Km. 12,50000, Provincia de Osorno, X Región", y se acordó el valor de indemnización con su propietario JORGE KEIM BRAEMER, ascendente a la cantidad de $1.793.614.- para los lotes N°s 2 y 3-A.
+
+Fiscal del Ministerio de Obras Públicas.
