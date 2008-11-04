@@ -1,0 +1,5 @@
+DERECHOS DE AGUAS EN COMUNA DE COLINA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 5.775 del 21 de octubre de 2008, conforme artículo 5º transitorio Código Aguas, rectificó, aclaró y complementó resolución exenta Nº 2.737, de 27 de octubre de 1994, que aprobó el estudio técnico de división de los derechos de aprovechamiento de aguas del predio "Fundo Quilapilún", ubicado en la comuna de Colina, Región Metropolitana, en el sentido de establecer la equivalencia en litros por segundo, de los recursos extraídos del estero Quilapilún, quebrada Las Ñipas, galería Las Norias y del pozo profundo CORFO coordenadas 3300-7040 B-17, y que dichos derechos de aprovechamiento de aguas son consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13 Ley Nº 18.377.- Director Nacional.
