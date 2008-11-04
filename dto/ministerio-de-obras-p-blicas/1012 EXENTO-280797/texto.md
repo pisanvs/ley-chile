@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.012 de fecha 30 de septiembre del 2008, se expropió el lote de terreno Nº1, superficie 30 m2, Rol Nº9-77, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca" y se acordó el valor de indemnización con su propietaria ALBINA DE LOURDES GALVEZ MONTALVAN, ascendente a la cantidad de $498.466.
+
+Fiscal del Ministerio de Obras Públicas.
