@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 989, de fecha 30 de septiembre del 2008, se expropió el lote de terreno N° 37, superficie 934 m2, Rol N° 171-30, comuna de Curarrehue, IX Región para la obra "Mejoramiento Ruta 199-CH, Curarrehue - Paso Mamuil Malal, Sector Curarrehue - Puesco, Km. 116,88000 al Km. 136,76000, Tramo I, Km. 116,88000 al Km. 124,38000." y se acordó el valor de indemnización con su propietaria ROSA ESTER PARRA CATRIPAN, ascendente a la cantidad de $2.337.109.
+
+Fiscal del Ministerio de Obras Públicas.
