@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 999 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 33, superficie 360 m2, rol N° 434-71, comuna de Illapel, para la obra Proyecto Embalse El Bato "Canal Nuevo Cocinera" Comuna de Illapel, Provincia de Choapa, Región de Coquimbo y se acordó el valor de la indemnización con su propietario OSCAR ENRIQUE CASTILLO GALLARDO, ascendente a la cantidad de $208.276.
+
+Fiscal del Ministerio de Obras Públicas.
