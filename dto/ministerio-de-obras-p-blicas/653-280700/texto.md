@@ -1,0 +1,3 @@
+Por decreto MOP N° 653 de fecha 29 de agosto de 2008, se expropió el lote de terreno N° 1-A, superficie 84,00 m2, rol N° 1603-190, comuna de Santo Domingo, para la obra "Construcción Puente San Enrique, Ruta G-80-I, Tramo Km. 26,40000 al Km. 27,01600, Comuna de Santo Domingo, Provincia de San Antonio, V Región" y se acordó el valor de la indemnización con su propietario JOSE IGNACIO CASTILLO ERRÁZURIZ, ascendente a la cantidad de $4.223.387.
+
+Fiscal del Ministerio de Obras Públicas.
