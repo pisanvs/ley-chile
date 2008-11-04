@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1007 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 3, superficie 302 m2, rol N° 27-44, comuna de Río Hurtado, para la obra "Conservación Camino 64E763 San Pedro - Bosque Petrificado de Pichasca", IV Región y se acordó el valor de la indemnización con su propietario FELICIANO VELIZ LEON, ascendente a la cantidad de $2.668.340.
+
+Fiscal del Ministerio de Obras Públicas.
