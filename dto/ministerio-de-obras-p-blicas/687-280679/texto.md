@@ -1,0 +1,5 @@
+Por decreto M.O.P. Nº 687 de 16 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nº 53 y 83 para la obra: Camino Mejoramiento Ruta K-175, Sector Tres Esquinas - Las Tranca, km. 8,306.62 a km. 25,735.24, que figuran a nombre de LARRAIN BARROS PEDRO, SAG, roles de avalúo 640-58, 640-24, de la Comuna de Molina, VII Región, superficies 978 y 219, m2. La Comisión de Peritos con fecha 3 de julio de 2000 fijó el monto de la indemnización provisional en la cantidad de
+
+$15.556.800.- para el lote Nº 53 y $4.149.000.- para el lote Nº 83. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
