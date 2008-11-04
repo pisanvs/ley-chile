@@ -1,0 +1,3 @@
+Por decreto MOP N° 659 de fecha 29 de agosto de 2008, se expropió el lote de terreno N° 37, superficie 6.197 m2, rol N° 520-1, comuna de Copiapó, para la obra "Concesión Ruta 5 Norte Tramo: Vallenar Caldera Sector: Fin By-Pass a Copiapó - Caldera Km. 824.100,00 al Km. 888.700,00", y se acordó el valor de la indemnización con su propietario SOCIEDAD AGRÍCOLA AUSTRAL BERRIES LIMITADA, ascendente a la cantidad de $99.825.201.
+
+Fiscal del Ministerio de Obras Públicas.
