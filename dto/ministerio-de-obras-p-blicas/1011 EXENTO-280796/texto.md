@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1.011 de fecha 30 de septiembre del 2008, se expropió el lote de terreno Nº7, superficie 397 m2, Rol Nº423-326, comuna de Illapel, IV Región, para la obra "Proyecto Embalse El Bato, "Canal Nuevo Cocinera" y se acordó el valor de indemnización con su propietario MANUEL DEL MERCEDES CORTÉS CARVAJAL, ascendente a la cantidad de $272.074.
+
+Fiscal del Ministerio de Obras Públicas.
