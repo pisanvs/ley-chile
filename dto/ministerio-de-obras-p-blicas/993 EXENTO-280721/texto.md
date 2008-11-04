@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 993 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 1, superficie 175 m2, rol N° 288-1, comuna de Los Vilos, para la obra "Mejoramiento Ruta D-875, Sector Quilimari - Guanguali Tramo Km. 1,79200 a Km. 16,0000", IV Región y se acordó el valor de la indemnización con su propietario INES RABI RABI, ascendente a la cantidad de $1.482.351
+
+Fiscal del Ministerio de Obras Públicas.
