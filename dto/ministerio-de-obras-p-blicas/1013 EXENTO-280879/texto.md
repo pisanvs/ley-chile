@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.013 de fecha 30 de septiembre del 2008, se expropió el lote de terreno Nº8-A, superficie 111 m2, Rol Nº154-232, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietario FRANCISCO ALEJANDRO VIVAR HERRERA, ascendente a la cantidad de $1.390.828.- para el lote Nº8-A.
+
+Fiscal del Ministerio de Obras Públicas.
