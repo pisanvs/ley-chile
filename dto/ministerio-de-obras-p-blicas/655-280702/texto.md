@@ -1,0 +1,3 @@
+Por decreto MOP Nº 655, de fecha 29 de agosto del 2008, se expropió el lote de terreno Nº 1, superficie 1.970 m2, Rol Nº 136-491, comuna de Paine, Región Metropolitana para la obra "Camino Ruta G-550, Sector Puente Águila Norte, tramo Km. 6.10000 al Km. 6,80479", provincia de Maipo, Comuna de Paine, Región Metropolitana y se acordó el valor de indemnización con su propietario ALFONSO SEBASTIAN AVENDAÑO PHILLIPS, ascendente a la cantidad de $8.207.174.
+
+Fiscal del Ministerio de Obras Públicas.
