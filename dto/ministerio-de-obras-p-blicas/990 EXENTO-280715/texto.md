@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº 990, de fecha 30 de septiembre del 2008, se expropió el lote de terreno Nº 1, superficie 492 m2, Rol Nº 153-257, comuna de Chonchi, X Región para la obra "Conservación Camino Básico Huillinco - Cucao, Provincia de Chiloé (Plan Chiloé)", y se acordó el valor de indemnización con su propietaria MARGARITA LUZ ALTAMIRANO MARQUEZ, ascendente a la cantidad de $924.520.
+
+Fiscal del Ministerio de Obras Públicas.
