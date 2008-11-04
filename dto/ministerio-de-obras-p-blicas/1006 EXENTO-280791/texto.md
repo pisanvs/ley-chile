@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1006 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 1-A, superficie 80,00 m2, rol N° 2109-30, comuna de Puerto Montt, para la obra "Camino Ruta V-815, Sector Bifurcación Angelmó - Calbuco, Km. 3,700 a Km. 16,005, Provincia de Llanquihue, X Región" y se acordó el valor de la indemnización con su propietario LORENZO ELISER SOTO CARCAMO, ascendente a la cantidad de $464.480.
+
+Fiscal del Ministerio de Obras Públicas.
