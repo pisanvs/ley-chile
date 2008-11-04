@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1002 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 21, superficie 115 m2, rol de avalúo N° 840-15, comuna de Vallenar, para la obra "Conservación Red Vial Región de Atacama 2006-2008 (Conservación Camino Acceso a Imperial Bajo, Provincias de Huasco, Región de Atacama)" y se acordó el valor de la indemnización con su propietario ALICIA BANEDIC PASTEN OSSANDON, ascendente a la cantidad de $456.330.
+
+Fiscal del Ministerio de Obras Públicas.
