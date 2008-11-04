@@ -1,0 +1,3 @@
+Por decreto M.O.P. (exento) N° 1.018 de 30 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno N° 94; para la obra: Camino Ruta G-16, Sector Lampa - Polpaico, km. 19,72359 a km. 34,51667, que figura a Nombre de SANDOVAL GALLARDO JOSE LUIS, rol de avalúo 62-26, Comuna de LAMPA; Región Metropolitana, superficie 95 m2. La Comisión de Peritos, fijó con fecha 3 de agosto de 2000 en la cantidad de $237.500.- para el lote N° 94. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
