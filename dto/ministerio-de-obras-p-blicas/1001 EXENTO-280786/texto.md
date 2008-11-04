@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1001 de fecha 30 de septiembre de 2008, se expropió el lote de terreno N° 9, superficie 395 m2, rol N° 423-328, comuna de Illapel, para la obra Proyecto Embalse El Bato "Canal Nuevo Cocinera" Comuna de Illapel, Provincia de Choapa, Región de Coquimbo y se acordó el valor de la indemnización con su propietario MARIA JOSE CORTES CARVAJAL, ascendente a la cantidad de $209.065.
+
+Fiscal del Ministerio de Obras Públicas.
