@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A AGRÍCOLA PACÍFICO SUR LIMITADA
+
+La Décima Dirección Regional Puerto del Servicio de Impuestos Internos, por resolución Ex. Nº 4.361, de fecha 6 de octubre de 2008, otorga a contar del 1º del mes siguiente al de esta publicación, al contribuyente Agrícola Pacífico Sur Limitada, RUT Nº 78.768.910-8, la calidad de agente retenedor del Impuesto al Valor Agregado en la comercialización de ganado vivo, establecido en la resolución exenta Nº 3.721 del 28 de julio de 2008, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1º de agosto de 2000.
