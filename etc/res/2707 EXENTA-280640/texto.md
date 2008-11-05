@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.707, de 15 de octubre de 2008, de esta Subsecretaría, modifícase el numeral 6º de la resolución exenta Nº 193 de 2008, modificada mediante resoluciones exentas Nº 740, Nº 1.429, Nº 1.457, Nº 1.857 y Nº 2.270, todas de 2008, todas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y seguimiento de la pesquería artesanal de Merluza del sur (Merluccius australis) de aguas interiores de la Décima Región, Zona de Puerto Montt, año 2008", en el sentido de señalar que los límites de captura autorizados, en los meses que se indica, serán los siguientes: a) octubre: 173,955 toneladas;
+
+b) noviembre: 105,954 toneladas, c) diciembre: 139,961 toneladas.
+
+Valparaíso, 15 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
