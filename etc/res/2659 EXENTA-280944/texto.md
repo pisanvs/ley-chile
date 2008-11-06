@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.659 de 10 de octubre de 2008, de esta Subsecretaría, autorízase a NIBALDO ANTONIO NAVARRO SALDIVIA, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Yungay Nº 241, Ancud, Chiloé, X Región, para elaborar en las líneas de proceso Cocido, Fresco Enfriado, Congelado, Ahumado y Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 10 de octubre de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
