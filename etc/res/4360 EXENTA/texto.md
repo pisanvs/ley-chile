@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A SALMONES ITATA S.A
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 4.360 de fecha 6 de octubre de 2008, otorga a contar del 1º del mes siguiente de esta publicación, al contribuyente Salmones Itata S.A., RUT Nº 76.653.690-5, la calidad de agente retenedor del Impuesto al Valor Agregado en la comercialización de productos hidrobiológicos, establecido en la resolución exenta Nº 3.311 del 30 de junio de 2000 de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1º de agosto de 2000.
