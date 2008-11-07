@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.838, de 29 de octubre de 2008, de esta Subsecretaría, amplíese hasta el 30 de noviembre de 2008 el plazo otorgado por el numeral 4.- inciso 2º de la resolución Nº 1.995 de 2003 de esta Subsecretaría, a PESQUERA SAN JOSÉ S.A. para reiniciar actividades pesqueras extractivas con la nave "Ventisquero" en el área marítima correspondiente a Isla de Pascua, archipiélago de Juan Fernández, Islas Sala y Gómez e Islas Desventuradas, por fuera del área de reserva artesanal, con arrastre, sobre el recurso Alfonsino Beryx splendens.
+
+Valparaíso, 29 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
