@@ -1,0 +1,5 @@
+RECTIFICACIÓN
+
+Por resolución exenta Nº 1.223, de 16.10.2008, del Ministerio de Transportes y Telecomunicaciones, se rectificó de oficio, de conformidad con lo dispuesto en el artículo 62º de la ley Nº 19.880, el llamado a concurso público para el otorgamiento de concesiones de radiodifusión sonora, correspondiente al tercer cuatrimestre del 2008, publicado en la edición Nº 39.164 del Diario Oficial del día 15 de septiembre de 2008, en el sentido de suprimir de la convocatoria en dicho concurso, en la tabla titulada "Solicitudes de Renovación", para todos los efectos que hubiere lugar y por los motivos indicados en la parte considerativa de la citada resolución, las concesiones de radiodifusión sonora en mínima cobertura para las comunas de Las Condes y Recoleta, Región Metropolitana, y la concesión de radiodifusión sonora en amplitud modulada para Rancagua, VI Región.
+
+Subsecretaría de Telecomunicaciones.
