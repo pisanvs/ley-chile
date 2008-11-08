@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.856, de 30 de octubre de 2008, de esta Subsecretaría, autorízase a AGROTIL S.A. para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en El Litre 2 s/n, Til Til, Santiago, Región Metropolitana, para elaborar en las líneas de proceso de Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
