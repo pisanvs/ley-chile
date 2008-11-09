@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.641, de 8 de octubre de 2008 de esta Subsecretaría, modifícase el numeral 5º de la resolución exenta Nº 116 de 2008, modificada mediante resoluciones exentas Nº 368, Nº 871, Nº 1.277, Nº 1.782 y Nº 2.565, de 2008, todas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de Merluza austral (Merluccius australis) en aguas interiores de la X Región, Zona Chiloé", Subzona Los Lagos, en el sentido de señalar que los límites de captura autorizados, en los meses que se indica, serán los siguientes: a) octubre: 228,912 toneladas;
+
+b) noviembre: 10,912 toneladas; c) diciembre: 120,228 toneladas.
+
+Valparaíso, 8 de octubre de 2008.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
