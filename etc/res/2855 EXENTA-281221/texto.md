@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.855, de 30 de octubre de 2008, de esta Subsecretaría, amplíese por dos meses, a contar del 1º de abril de 2008, el plazo otorgado por el numeral 5.- inciso 2º de la resolución Nº 2.548 de 2003 de esta Subsecretaría, a PESQUERA PACIFICO SUR S.A. para reiniciar actividades pesqueras extractivas con la nave "Don Enrique", en el área marítima correspondiente al Mar Territorial y Zona Económica Exclusiva de la Isla de Pascua, Archipiélago de Juan Fernández, Islas Sala y Gómez e Islas Desventuradas, por fuera del área de reserva artesanal, con arrastre, sobre el recurso Alfonsino Beryx splendens, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 30 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
