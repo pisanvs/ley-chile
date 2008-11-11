@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.859, de 30 de octubre de 2008, de esta Subsecretaría, autorízase a Friosur X S.A. para continuar desarrollando las actividades pesqueras extractivas autorizadas a Pesquera Pacífico Sur S.A. con la nave "Don Enrique" y los barcos en construcción "BEC Nº 2568/01" y "BEC Nº 3015/03", en virtud de las escrituras públicas y demás disposiciones legales citadas en la resolución extractada.
+
+Asimismo, autorízase a Friosur X S.A. para continuar desarrollando las actividades pesqueras extractivas respecto de los permisos extraordinarios de pesca autorizados a Pesquera Pacífico Sur S.A., en las unidades de pesquerías de los recursos hidrobiológicos Langostino amarillo y Orange roughy fijados por los decretos supremos citados en la resolución extractada.
+
+Valparaíso, 30 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
