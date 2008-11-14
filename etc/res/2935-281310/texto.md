@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.935, de 6 de noviembre de 2008, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 28 de 2003, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA BÍO BÍO S.A. para realizar actividades pesqueras extractivas con la nave "Biomar III", respecto del recurso hidrobiológico Reineta Brama australis, en el área marítima comprendida entre la XV Región y el paralelo 41°28,6' L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en Visto.
+
+Valparaíso, 6 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
