@@ -1,0 +1,7 @@
+DESIGNA SECRETARIOS EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE EN LAS JURISDICCIONES DE LAS CORTES DE APELACIONES DE COPIAPÓ, PUERTO MONTT Y SANTIAGO, EN LAS CALIDADES QUE INDICA
+
+Por resolución SII Nº 36, del 22 de octubre de 2008, se designó en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Iltma. Corte de Apelaciones de Copiapó, a doña Lindsay Carolina Barrios Rojas, RUT Nº 14.517.756-1, Fiscalizador Tasador grado 15, como Secretaria Titular, en reemplazo de don Juan Carlos Pesce García; y a doña Mónica Rossana Mondaca Ahumada, RUT 10.826.958-8, Fiscalizador Tasador grado 15, como Secretaria Suplente, en reemplazo de Mafalda Gálvez Palma.
+
+En el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Iltma. Corte de Apelaciones de Puerto Montt, se designó a don Jaime Solís Flández, RUT Nº 12.339.117-9, Fiscalizador Tasador grado 12, como Secretario Titular, en reemplazo de doña Silvia Palominos Meza.
+
+En el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Iltma. Corte de Apelaciones de Santiago, desígnase a doña Magdalena Godoy Ibáñez, RUT Nº 7.487.639-0, Fiscalizador Tasador grado 10, como Secretaria Titular, en reemplazo de doña Anita Maibee Pérez; y a don Carlos Bascur Palacios, RUT 8.748.290-1, Fiscalizador Tasador grado 15, como Secretario Suplente, en reemplazo de María Estela Pérez-Cotapos Concha.
