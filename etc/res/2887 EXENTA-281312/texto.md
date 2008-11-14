@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.887, de 4 de noviembre de 2008, de esta Subsecretaría, modifícase el numeral 3 y 4.- de la resolución exenta Nº 320, de 2008, que autorizó al INSTITUTO DE FOMENTO PESQUERO, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de Jaibas extraída por la flota artesanal trampera de Ancud, Región de Los Lagos", en el sentido de ampliar el plazo de autorización de la Pesca de Investigación hasta el 30 de enero de 2009, e incorporar a la nave "Karen III", RPA Nº 950545.
+
+Valparaíso, 4 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretaria de Pesca.
