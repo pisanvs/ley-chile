@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.729, de 16 de octubre de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 2.427 de 2008, de esta Subsecretaría de Pesca, que autorizó a la SOCIEDAD COMERCIAL Y CONSULTORA, MATAMALA, TRONCOSO Y UGALDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y dimensionamiento de la flota pesquera del recurso pulpo Enteroctupus megalocyathus en aguas interiores de la X Región", en el sentido de incorporar el siguiente numeral 4 bis.-:
+
+"4 bis.- Para los efectos de la presentes pesca de investigación, se exceptúa del cumplimiento de la veda extractiva establecida mediante decreto exento Nº 1.308 de 2008, del Ministerio de Economía, Fomento y Reconstrucción."
+
+Valparaíso, 16 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
