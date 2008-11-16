@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 731 de fecha 30 de septiembre del 2008, se expropiaron los lotes de terreno Nºs 6 y 7, superficies 182 y 1.556 m2, Rol Nº 45-56, comuna de Chépica, VI Región para la obra "Mejoramiento Camino Chimbarongo - Chépica II, sector Convento Viejo - Auquinco, tramo Km. 0,00000 al Km. 7,75554, Sexta Región", y se acordó el valor de indemnización con su propietario OSCAR GUILLERMO MONTERO SOLIS Y OTRA, ascendente a la cantidad de $3.771.586.- para los lotes Nºs 6 y 7.
+
+Fiscal del Ministerio de Obras Públicas.
