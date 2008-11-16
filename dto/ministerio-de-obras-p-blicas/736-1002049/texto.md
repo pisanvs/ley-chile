@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 736 de fecha 30 de septiembre del 2008, se expropiaron los lotes de terreno Nº s. 5-B y 12, superficies 17.152 y 13.180 m2, Rol Nº 421-8, comuna de Illapel, IV Región para la obra "Construcción Variante, Cruce Sector Ruta D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,0000 al Km. 6,17679" y se acordó el valor de indemnización con su propietario SOCIEDAD DE PARCELEROS DE LA HACIENDA DE ILLAPEL LIMITADA, ascendente a la cantidad de $9.073.026.
+
+Fiscal del Ministerio de Obras Públicas.
