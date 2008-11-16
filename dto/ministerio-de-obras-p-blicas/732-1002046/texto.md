@@ -1,0 +1,3 @@
+Por Decreto MOP Nº 732 de fecha 30 de septiembre del 2008, se expropió el lote de terreno Nº 1, superficie 1.182 m2, Rol Nº E/T, comuna de Río Hurtado, IV Región para la obra "Conservación Camino 64E763, San Pedro - Bosque Petrificado de Pichasca", y se acordó el valor de indemnización con su propietario DIAMANTINA DEL CARMEN LEON CORTES, ascendente a la cantidad de $9.530.528.- para el lote Nº 3.
+
+Fiscal del Ministerio de Obras Públicas.
