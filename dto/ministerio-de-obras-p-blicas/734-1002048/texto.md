@@ -1,0 +1,3 @@
+Por decreto MOP Nº 734, de fecha 30 de septiembre de 2008, se expropió el lote de terreno Nº 48, superficie 809 m2, Rol Nº 631-80, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 al Km. 10,40000. Camino Mejoramiento Ruta K-15 Sector Quechereguas, Tramo Km. 5,70000 al Km. 5,90000.", y se acordó el valor de indemnización con su propietario José Ignacio Zúñiga Gajardo, ascendente a la cantidad de $6.217.693.
+
+Fiscal del Ministerio de Obras Públicas.
