@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1173 de fecha 30 de octubre de 2008, se expropió el lote de terreno Nº 12, superficie 25 m2, rol Nº 2758-25, comuna de Chiguayante, para la obra "Canal Papen Tramo 1 y 2", Comuna de Chiguayante, Provincia de Concepción, Región del Bío Bío y se acordó el valor de la indemnización con su propietario PETRONILA DE LAS NIEVES CANTERO HERRERA, ascendente a la cantidad de $1.810.340.
+
+Fiscal del Ministerio de Obras Públicas.
