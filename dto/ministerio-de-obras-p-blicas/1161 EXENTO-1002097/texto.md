@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1161 de fecha 30 de octubre de 2008, se expropió el lote de terreno Nº 9-A, superficie 918,40 m2, rol Nº 387-311, comuna de Pitrufquén, para la obra "Sistema de Regadío Faja Maisan", obra: "Fajas Adicionales Canal Mahuidanche", IX Región y se acordó el valor de la indemnización con su propietario MOISES RODOLFO ALCALDE LEFIMIL, ascendente a la cantidad de $807.969.
+
+Fiscal del Ministerio de Obras Públicas.
