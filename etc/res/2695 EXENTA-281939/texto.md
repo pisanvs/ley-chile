@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.695, de 15 de octubre de 2008, de esta Subsecretaría, autorízase a DANIEL GONZÁLEZ ACUÑA efectuar pesca de investigación conforme Términos Técnicos de Referencia del proyecto .Estudios médicos - ornitológicos para detectar diferentes microorganismos entéricos en Pingüinos de Magallanes.. Objetivo principal consiste en determinar la existencia de patógenos en el Pingüino de Magallanes en la isla Magdalena, XII Región. La pesca de investigación se realizará entre fecha presente resolución y el 31 de marzo de 2009, ambas fechas inclusive, en el área correspondiente a la Isla Magdalena, XII Región.
+
+El peticionario podrá realizar la captura manual de 150 ejemplares de Pingüino de Magallanes con los requisitos señalados en la resolución extractada. Persona responsable Daniel González Acuña.
+
+Valparaíso, 15 de octubre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
