@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.290 EXENTA, DE 29.10.2008, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público correspondiente al primer cuatrimestre de 2008, se ha asignado a Arur Limitada, RUT Nº 77.179.220-0, una concesión de radiodifusión sonora en mínima cobertura, para la comuna de Curacautín, IX Región, con las características técnicas siguientes: Potencia máxima de 1 Watt, frecuencia 107,5 MHz, ubicación del estudio, planta transmisora y sistema radiante en Manuel Rodríguez Nº 885, comuna de Curacautín, IX Región; coordenadas gerográficas 38°25'52", latitud sur y 71°52'55", longitud oeste (datum PSAD 1956); sistema radiante direccional con polarización vertical, una (1) antena Yagi de 3 elementos de 4,5 dBd de ganancia máxima y altura del centro de radiación de 6 m; pérdidas en cables y conectores de -1,5 dB; diagrama de radiación horizontal de acuerdo a la siguiente tabla:
+
+NOTA: VER DIARIO OFICIAL DE 21.11.2008, PAGINA 9
+
+Sin perjuicio de la potencia máxima de 1 watt autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3º de la ley, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 0,5 watts, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características del sistema radiante autorizadas en la presente resolución.
+
+Los plazos serán los que se indican a continuación: Inicio de obras: 15 días; Término de obras: 15 días; e inicio de servicio: 60 días. Todos estos plazos se computarán a partir de la fecha de publicación en el Diario Oficial del decreto que otorgue la concesión.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13°A y 13°B de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, que asignó concesión, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+Por orden del Subsecretario de Telecomunicaciones.- Jefe Departamento Radiodifusión.
