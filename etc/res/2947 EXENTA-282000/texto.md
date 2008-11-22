@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.947, de 11 de noviembre de 2008, de esta Subsecretaría, modifícanse los numerales 4º y 5º de la resolución exenta Nº 442, modificada mediante resoluciones exentas Nº 910 y Nº 2.762, todas de 2008, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de Anchoveta y Sardina en aguas interiores de la X Región de Los Lagos-Sur, 2008", en el sentido de reemplazar a la embarcación artesanal "Oceani I" por la embarcación "Oceani III".
+
+Valparaíso, 11 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
