@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN EXENTA Nº 491/1998
+
+Por resolución exenta Nº 263, de 27 de octubre de 2008, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, se sustituyó el resuelvo Nº 2 letra a) de la Resolución exenta Nº 491/1998 de 6 de octubre de 1998, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, por el siguiente: "a) Hará uso del terminal la Sociedad de Transportes, Comercial y de Servicio Yobilo Ltda. rol único tributario Nº 77.905.390-3, de recorrido troncal Grandfelt - Yobilo - Corcovado, con variante Grandfelt - Yobilo - Nuevo Amanecer - Corcovado." En lo no modificado se mantiene íntegra y vigente la resolución exenta Nº 491/1998 de 6 de octubre de 1998, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío.-
+
+Hugo Cautivo Baltierra, Secretario Regional Ministerial Transportes y Telecomunicaciones Región del Bío Bío.
