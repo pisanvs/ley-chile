@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.946, de 11 de noviembre de 2008, de esta Subsecretaría, autorízase a GESAM CONSULTORES LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia de 3 Proyectos individualizados en la resolución extractada.
+
+El objetivo de la pesca de investigación consiste en realizar un estudio de la línea base para la componente de la fauna acuática en cuerpos y cursos de aguas continentales de la XV, III y IV Regiones. La pesca de investigación se efectuará desde la fecha de la presente resolución y hasta el 30 de septiembre de 2009, en estaciones de muestreo ubicados en cursos y cuerpos de aguas continentales de la XV, III y IV Regiones, donde podrá capturar, con devolución, mediante pesca eléctrica y chinguillos auxiliares, las especies señaladas en la resolución extractada.
+
+Valparaíso, 11 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
