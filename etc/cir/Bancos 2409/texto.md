@@ -2258,7 +2258,7 @@ De lo expuesto debería quedar claro en qué operaciones o servicios se justific
 
 Cuando el banco, con motivo de una obligación legítimamente contraída, que corresponda a una operación, sea activa, pasiva o neutra, tiene que cumplir una gestión derivada directamente de ella y desea obtener una remuneración adicional por esa gestión o servicio, solamente puede cobrarla si se trata de una operación diferente y no de una que sea parte de la operación original o de una obligación que derive directamente de ella.
 
-Así, por ejemplo, en el caso de créditos que se encuentren vencidos y por los que se cobren los intereses de mora y los correspondientes gastos de cobranza, no es admisible que, además, se cobre una comisión por administración de un crédito vencido.
+Así, por ejemplo, en el caso de créditos que se encuentren vencidos y por los que se cobren los intereses de mora y los correspondientes gastos de cobranza, no es admisible que, además, se cobre una comisión por administración de un crédito vencido, como tampoco lo es el cobro por la emisión de certificados que den cuenta del pago de una deuda, por cuanto es una gestión que deriva directamente de una operación de crédito por la que se recibió la remuneración correspondiente.
 
 Otro caso evidente es el del banco acreedor de un cliente a quien éste le paga su crédito, le pide recibo y el alzamiento de su caución, hipoteca, prenda, etc. El banco, en este caso, está simplemente dando cuenta del término de la obligación y no está prestando ningún servicio adicional al cliente. Le podrá cobrar los gastos de escritura, inscripción o anotación, incluso los honorarios de su abogado, pero no se divisa que exista un motivo que justifique una comisión.
 
@@ -2268,7 +2268,7 @@ Lo mismo sucede con el cobro de un depósito a plazo, cuando fallece el deposita
 
 En las cuentas corrientes bancarias, como se indica en el Capítulo 2-2 de esta Recopilación Actualizada de Normas, se prevé el cobro de una comisión por su mantención (Art. 8° de la Ley sobre Cuentas Corrientes Bancarias y Cheques).
 
-Sin perjuicio de la comisión mencionada en el párrafo precedente, en las operaciones de crédito que efectúen los clientes en sus cuentas corrientes, es claro que se puede cobrar comisión por la apertura de crédito que el banco realiza en beneficio del cliente y a su pedido. Pero esta comisión también debe ser por períodos no inferiores a aquellos pactados para la vigencia de la línea de crédito, ya que el estudio que le significa al banco la conducta y situación patrimonial del cliente no varía todos los días.
+Sin perjuicio de la comisión mencionada en el párrafo precedente, en los giros que efectúen los clientes de sus cuentas corrientes contra una línea de crédito, es claro que se puede cobrar comisión por la apertura de la línea, la que se realiza a pedido del cliente y en su beneficio. Esta comisión debe comprender períodos no inferiores a aquellos pactados para la vigencia de la línea, ya que el estudio que le significa al banco, así como la conducta y situación patrimonial del cliente no varían todos los días. En cambio no procede el cobro de una comisión por un sobregiro accidental en la cuenta corriente, no pactado previamente, causado sea por el pago de un cheque o por un cargo efectuado a ella.
 
 En general, tratándose de servicios propios del manejo de una cuenta corriente, no procederá el cobro de comisiones distintas a la comisión de administración anual como, por ejemplo, por efectuar depósitos y giros de cheques o por el uso de cualquier otro medio, incluidos los electrónicos; por la entrega del estado de saldo a que se refiere el artículo 40 de la Ley sobre Cuentas Corrientes Bancarias y Cheques; por la entrega de talonarios de cheques; por el número de cheques presentados a cobro, por las órdenes de no pago o por el protesto de cheques, como tampoco es procedente hacerlo por su aclaración y por otros actos que sean propios de la cuenta corriente y que deban realizarse en cumplimiento de las disposiciones legales que la rigen. Para las demás operaciones que no sean propias o normales de la cuenta, las partes podrán pactarlos o excluirlos del producto contratado y su remuneración podrá ser pactada por cada evento, tales como la remisión de talonarios a domicilio.
 
@@ -2276,7 +2276,9 @@ En general, tratándose de servicios propios del manejo de una cuenta corriente,
 
 El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija se ha calculado, determinado y comunicado al cliente, considerando todos los costos que son propios del servicio ofrecido.
 
-La comisión deberá fijarse por períodos no inferiores a un semestre y su plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará el cambio de tarifa o la nueva base para su cálculo.
+La comisión deberá fijarse por períodos no inferiores a un semestre y su plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará el cambio de tarifa o la nueva base para su cálculo. Debe entenderse que esta comisión de mantención o de administración por el uso del servicio, que normalmente se cobra mensualmente, debe ser parte de la comisión anual única por administración e informada como tal a los clientes.
+
+No procede el cobro de comisiones distintas de la comisión de administración por los servicios asociados al uso de las tarjetas como instrumento de pago para la adquisición de bienes y servicios, como son las compras ya sea al contado o en cuotas, así como tampoco corresponde cobrar por el exceso en que incurra el titular de la tarjeta, respecto del cupo de crédito que tiene asignado ese instrumento.
 
 Lo indicado en este número no es óbice para cobrar los montos variables que se originen por las transacciones realizadas en el exterior.
 
@@ -2292,7 +2294,9 @@ El Directorio del banco deberá fijar las orientaciones y políticas de la insti
 
 8.- Cumplimiento de estas normas.
 
-Las entidades bancarias deberán cumplir rigurosamente las disposiciones contenidas en este Capítulo, particularmente observando los principios que emanan de sus números 1, 2 y 3, absteniéndose de efectuar cobros que no correspondan a comisiones o intereses por los servicios prestados, como asimismo sumas por reembolso de gastos que son inherentes al banco y de su interés, propios de la operación como lo son los que se indican, a título ejemplar, en el N°3 recién mencionado y que no correspondan a recuperación de desembolsos realizados por cuenta del cliente.
+Los principios y las disposiciones señalados en este Capítulo deben cumplirse rigurosamente y entenderse, como norma general, que son aplicables a todos los productos y servicios ofrecidos por un banco y no solamente a aquellos que en algunos casos se citan a manera de ejemplo, salvo cuando las normas se refieren a uno específico, como es el caso de cuentas corrientes o de tarjetas de crédito, de débito y de cajero automático.
+
+De acuerdo con los principios que emanan de los números 1,2 y 3, los bancos sólo pueden efectuar cobros que correspondan a comisiones o intereses por los servicios prestados. Por consiguiente, no deben cobrar sumas por reembolso de gastos que son inherentes a la gestión del banco y de su interés, esto es, que son propios de las operaciones, como lo son los que se indican a título ejemplar, en el N° 3 antes mencionado y que no correspondan a recuperación de desembolsos realizados por cuenta del cliente.
 
 CAPITULO 2-1 (Bancos y Financieras)
 
@@ -18896,9 +18900,9 @@ g) Debe ser de fácil acceso y gratuita a través de distintos medios tales como
 
 ### 3. Información a entregar a los clientes
 
-Los bancos deben enviar a cada cliente, a lo menos una vez al año, el mapa completo de tarifas asociadas a los productos contratados por éste y los correspondientes montos cobrados.
+Los bancos deberán enviar a sus clientes una vez al año, un cuadro con la información completa acerca de las tarifas de las comisiones asociadas a los distintos productos y servicios contratados por éstos y los correspondientes montos efectivamente cobrados en el respectivo período de doce meses. La información que se entregue debe comprender todos los cobros realizados y los conceptos que los justifican, de modo que exista completa claridad sobre su procedencia.
 
-En el caso que el cobro de tarifas como las comisiones esté relacionado con ciertos promedios, tales como promedio saldo cuentas corrientes, cuentas vista, compras con tarjetas de crédito u otros, éstos deben ser informados en el estado de cuenta (mensual, trimestral, anual), dependiendo de la estructura y periodicidad de cobro de las comisiones.
+Podrá prescindirse del envío de la información anual a que se refiere el párrafo precedente cuando en los estados de cuenta periódicos ("cartolas"), sean éstos mensuales, trimestrales, anuales o con cualquiera otra frecuencia, que se entregan a los clientes, relativos a sus movimientos en cuentas corrientes, cuentas vista, cuentas de ahorro, uso de tarjetas de crédito u otros servicios o productos, se incluya la información suficientemente clara sobre las tarifas de comisiones a que está afecto el respectivo producto o servicio y los importes cobrados por ese concepto en el período informado.
 
 ### 4. Información a enviar a esta Superintendencia
 
