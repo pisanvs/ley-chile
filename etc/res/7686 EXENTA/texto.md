@@ -1,0 +1,9 @@
+DECLARA IMPROCEDENTE DEVOLUCIONES QUE INDICA
+
+De acuerdo a lo dispuesto en el inciso final del artículo 45 de la ley Nº 19.880, sobre Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado, se notifica extracto de resoluciones exentas que declaran improcedente devoluciones que indican:
+
+Por resoluciones Ex. Nºs. 7.686 y 7.687, ambas de fecha 30 de octubre de 2008, la suscrita ha declarado improcedente las devoluciones de los montos retenidos por el Servicio de Impuestos Internos, ascendente a los saldos de $672.755 y $677.777, por concepto de excedentes de retenciones de rentas del Art. 42 Nº 2 de la Ley de la Renta, solicitadas por Juan Carlos González Tapia, RUT 15.090.775-6, en sus declaraciones anuales de Impuesto a la Renta folios Nºs. 91159854 y 102103575, correspondientes a los años tributarios 2004 y 2005, respectivamente, toda vez que ambas declaraciones se sustentan en prestaciones de servicios que no se habrían realizado.
+
+Por resolución Ex. Nº 8.033, de fecha 10 de noviembre de 2008, la suscrita ha declarado improcedente la devolución del monto retenido por el Servicio de Impuestos Internos, ascendente al saldo de $675.455, por concepto de excedentes de retenciones de rentas del Art. 42 Nº 2 de la Ley de la Renta, solicitada por Haidee Olivia Tapia Tapia, RUT 5.452.863-9, en su declaración anual de Impuesto a la Renta, folio Nº 91162204, correspondiente al año tributario 2004, toda vez que la declaración se sustenta en prestaciones de servicios que no se habrían realizado.- Erica Morales Lartiga, Directora Regional.
+
+El texto íntegro de estas resoluciones ex. está a disposición de los contribuyentes en el SII V Dirección Regional de Valparaíso.
