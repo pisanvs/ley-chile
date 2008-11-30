@@ -1,0 +1,35 @@
+APRUEBA REGLAMENTO DEL ARTÍCULO 18 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Núm. 1.354.- Santiago, 20 de octubre de 2008.- Vistos: Lo dispuesto en el artículo 18 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974; el artículo 32 Nº 6 de la Constitución Política de la República; el informe de la Superintendencia de Valores y Seguros remitido mediante oficio Ord. Nº 27.752 y el informe del Servicio de Impuestos Internos remitido mediante oficio Ord. Nº 2.990, ambos de fecha 17 de octubre de 2008,
+
+Decreto:
+
+Apruébase el siguiente reglamento del artículo 18 bis de la Ley sobre Impuesto a la Renta, contenido en el artículo 1º del decreto ley Nº 824, de 1974:
+
+#### Artículo primero
+
+Para los efectos de la letra f) del número 2 del referido artículo 18 bis, se entenderá que tienen la calidad de inversionistas institucionales extranjeros los siguientes tipos de inversionistas que cumplan con lo establecido en los números 1, 3, 4 y 5 del mencionado artículo 18 bis y además con los requisitos establecidos en este Reglamento:
+
+1. Las compañías de seguros que no mantengan inversiones en valores, emitidos por compañías de seguros, que califiquen para acogerse a lo dispuesto en el artículo 18 bis, o en valores cuyo precio o resultado dependa o esté condicionado, en todo o en más de un 25%, a la variación o evolución del precio de tales valores, siempre que dichas compañías de seguros se encuentren sometidas en su país de origen a regulación y supervisión por las autoridades reguladoras competentes del giro de seguros, según corresponda, las que deberán ser parte de IAIS, International Association of Insurance Supervisors, o de ASSAL, Asociación de Supervisores de Seguros de América Latina. En el evento que la inversión en Chile se realice a través de una sucursal o agencia de la entidad también domiciliada en el extranjero, ésta también deberá encontrarse sujeta a dicha regulación y supervisión, sea en el país de domicilio de la entidad o en aquel en que la respectiva sucursal o agencia se encuentre domiciliada.
+
+2. Los Estados extranjeros reconocidos por Chile y las divisiones territoriales y políticas con autonomía y competencias legislativas, en el caso de Estados federados u otros Estados no unitarios reconocidos por Chile, en relación con la inversión de sus reservas internacionales, sea que las inviertan a través de su gobierno, banco central, banco emisor o autoridad monetaria correspondiente.
+
+3. Los Estados extranjeros reconocidos por Chile y las divisiones territoriales y políticas con autonomía y competencias legislativas, en el caso de Estados federados u otros Estados no unitarios reconocidos por Chile, en relación con la inversión de sus fondos soberanos, sea que los inviertan a través de su gobierno o Fisco, como a través de cuentas, investment authorities, investment agencies, investment corporations u otras entidades o estructuras organizacionales, siempre que su objeto sea proveer recursos financieros para beneficio exclusivo del Estado extranjero o división territorial extranjera respectiva y, además, que a través del respectivo vehículo de inversión no se canalicen también inversiones o recursos distintos de los del fondo soberano.
+
+4. Los "endowment funds", ya sea que inviertan directa o indirectamente a través de sociedades controladas, entendiendo por tales, para estos efectos, a los fondos creados con el objeto de financiar la realización de investigación científica o labores de educación propias del giro de instituciones académicas u otras personas jurídicas sin fines de lucro, siempre que, en conformidad a sus respectivos estatutos, dicho financiamiento deba realizarse mayoritariamente con cargo a las utilidades que genere la inversión del capital de dichos fondos, de una forma tal que asegure la continuidad de los recursos necesarios para solventar sus fines. Lo dispuesto en este número es sin perjuicio de lo dispuesto en el inciso primero del artículo 18 bis de la Ley sobre Impuesto a la Renta, en especial en la letra c) de su numeral 2.
+
+#### Artículo segundo
+
+Para acceder al tratamiento tributario previsto en el artículo 18 bis, los inversionistas institucionales indicados en el artículo anterior, con excepción de los señalados en los números 2 y 3, deberán además cumplir con los siguientes requisitos copulativos durante todo el tiempo que inviertan en el país:
+
+a) Tratarse de entidades cuyas inversiones en Chile, incluyendo títulos emitidos en el extranjero que sean representativos de valores nacionales, representen menos del 30% de su patrimonio.
+
+b) Tratarse de entidades que no sean propiedad directa o indirecta de residentes en Chile en más del 10% de su capital o del derecho a las utilidades;
+
+c) Tratarse de entidades que no se encuentren constituidas o domiciliadas en países o territorios catalogados como paraísos fiscales o regímenes fiscales preferenciales nocivos en el decreto supremo Nº 628, de 2003, del Ministerio de Hacienda y sus modificaciones posteriores. En el evento que quien invierta sea una sucursal o agencia del inversionista institucional, este requisito deberá ser cumplido tanto por la entidad como por dicha sucursal o agencia.
+
+Con todo, los inversionistas institucionales indicados en el artículo anterior sólo podrán acceder al tratamiento tributario previsto en el artículo 18 bis respecto de las inversiones que efectúen actuando por cuenta propia y como beneficiarios efectivos de las inversiones realizadas, excluyéndose por tanto las inversiones efectuadas por cuenta de terceros o en que el beneficiario efectivo sea un tercero. Este requisito deberá acreditarse mediante declaración jurada efectuada por el representante legal de la entidad, o la agencia o sucursal en su caso, en idioma español o inglés, y remitida al Servicio de Impuestos Internos junto con los antecedentes referidos en el número 5 del artículo 18 bis. A opción del inversionista, dicha declaración podrá señalar que éste actuará por cuenta propia y como beneficiario efectivo de las inversiones realizadas durante todo el tiempo que invierta en Chile, o bien que podrá invertir en Chile tanto en beneficio y cuenta propia como en beneficio o por cuenta de terceros. En caso de optar por la segunda alternativa, el representante legal deberá también declarar que la entidad, agencia o sucursal, se compromete a identificar previamente y por escrito, al agente intermediario, cada operación en que actúe en beneficio y por cuenta propia, además de comprometerse a establecer a través de medios fehacientes la información necesaria para garantizar la veracidad de dicha identificación. El agente intermediario estará obligado a custodiar dichas comunicaciones escritas durante un plazo de 5 años.
+
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Andrés Velasco Brañes, Ministro de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, María Olivia Recart Herrera, Subsecretaria de Hacienda.
