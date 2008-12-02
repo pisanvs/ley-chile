@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1184 de fecha 30 de octubre del 2008, se expropiaron los lotes de terreno Nºs. 51-B y 51-C, superficies 288 y 137 m2, Rol Nº 154-137, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietaria JULIA HAYDEE OLIVARES VEGA, ascendente a la cantidad de $5.683.384.- para los lotes Nºs. 51-B y 51-C.
+
+Fiscal del Ministerio de Obras Públicas.
