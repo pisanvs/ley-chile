@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1165, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 35, superficie 35 m2, Rol N° 154-322, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500 comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietaria TERESA DEL CARMEN SILVA VIVANCO, ascendente a la cantidad de $1.639.092.
+
+Fiscal del Ministerio de Obras Públicas.
