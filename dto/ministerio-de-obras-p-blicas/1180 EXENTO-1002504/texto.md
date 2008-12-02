@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1180 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 46, superficie 339 m2, Rol Nº 2204-15, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, sector Quillaipe - La Arena, tramo Km. 15,84700 a Km. 40,41746, y se acordó el valor de indemnización con su propietaria ROSA ESTER OLAVARRIA OYARZUN, ascendente a la cantidad de $1.963.705.- para el lote Nº46.
+
+Fiscal del Ministerio de Obras Públicas.
