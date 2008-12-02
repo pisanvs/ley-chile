@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1177 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 20, superficie 213 m2, Rol Nº 228-104, comuna de Toltén, X Región para la obra "Mejoramiento Ruta T-270, Sector Mehuin - Límite Regional IX Región, Km. 0,00000 al Km. 4,64602, Provincia de Valdivia, X Región" y se acordó el valor de indemnización con su propietario ANDRES ANTONIO LIEMPI HUENCHUAL, ascendente a la cantidad de $687.186.- para el lote Nº20.
+
+Fiscal del Ministerio de Obras Públicas.
