@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1166, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 99, superficie 1.312 m2, Rol N° 555-339, comuna de Saavedra, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue-Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo III Km. 16,04700 al Km. 25,59838" y se acordó el valor de indemnización con su propietario VICTOR HERNAN BURGOS PAILLALEF, ascendente a la cantidad de $865.613.
+
+Fiscal del Ministerio de Obras Públicas.
