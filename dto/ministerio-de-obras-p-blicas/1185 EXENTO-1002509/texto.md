@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1185 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 111-B superficie 490 m2, rol N° 2010-350, comuna de Melipilla, para la obra "Camino Mejoramiento Ruta G-660, Sector Cruce Ruta G-60 (Culipran)-Lo Chacón, de Km. 12,50000 a Km. 13,00000", Comuna de Melipilla, provincia de Melipilla, Región Metropolitana y se acordó el valor de la indemnización con su propietario SALVADOR DEL CARMEN MORA MURILLO, ascendente a la cantidad de $512.827.
+
+Fiscal del Ministerio de Obras Públicas.
