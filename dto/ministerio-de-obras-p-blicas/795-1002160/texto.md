@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 795, de 21 de octubre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno N° 1, para la obra "Reposición Varios Puentes IV Región, Sector Puente Carcamo", comuna de Monte Patria, Provincia de Limarí, Región de Coquimbo, que figura a nombre de VELIZ PALACIOS AMADIEL DEL R, rol de avalúo 2526-45, superficie 1.095 M2. La Comisión de Peritos, fijó con fecha 7 de febrero de 2007, en la cantidad de $12.081.250. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
