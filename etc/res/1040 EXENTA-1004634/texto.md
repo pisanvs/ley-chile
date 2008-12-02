@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIA VEGA CASTILLO
+
+Resolución exenta Nº 1.040, del de 14 de noviembre del 2008, resolvió la Clausura a partir de esta fecha de Estancia Vega Castillo, de propiedad de Dn. Néstor Gallardo, Rol: 1020-017, ubicado en la provincia de Última Esperanza. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos mediante baño de inmersión con un producto efectivo, en un plazo de 30 días corridos, desde la fecha de la notificación de esta resolución. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita compobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de, cargo del dueño, tenedor o internador de los animales.
+
+Puerto Natales, 2008. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
