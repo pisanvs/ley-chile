@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 689, de 16 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 8-A, para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 - Km. 19,500, Provincia de Huasco, III Región, Etapa III", que figura a nombre de RIVERA VERA ERNESTINA Y OTRO, rol de avalúo 868-7, comuna de Alto del Carmen, superficie 1.015 M2. La Comisión de Peritos, fijó con fecha 11 de abril de 2007, en la cantidad de $5.948.400. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
