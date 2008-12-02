@@ -1,0 +1,3 @@
+Por decreto MOP Nº 841 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 15, superficie 9.161 m2, Rol Nº 190-8, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo II, Km. 10,50000 al Km. 18,60807", VIII Región, y se acordó el valor de indemnización con su propietario RAMON OSVALDO FRIZ MUÑOZ, ascendente a la cantidad de $7.478.811.- para el lote Nº 15.
+
+Fiscal del Ministerio de Obras Públicas.
