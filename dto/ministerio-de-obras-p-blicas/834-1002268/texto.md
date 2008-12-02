@@ -1,0 +1,3 @@
+Por decreto MOP N° 834 de fecha 30 de octubre de 2008, se expropiaron los lotes de terreno N°s 1, 2, 4, 5, 6, 7, 8 y 9, superficies 1.801, 4.193, 1.213, 1.227, 1.228, 1.358, 4.731 y 5.181 m2, respectivamente, rol N° 54-10, comuna de San Fabián, para la obra "Camino San Fabián Coihueco, Sector Km. 0,00000 a Km. 3,10000, VIII Región" y se acordó el valor de la indemnización con su propietario LUCY YESMIN ASSADI LAMA, ascendente a la cantidad de $28.118.078.
+
+Fiscal del Ministerio de Obras Públicas.
