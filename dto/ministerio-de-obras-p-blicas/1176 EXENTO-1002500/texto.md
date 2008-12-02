@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1176 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 45-C, superficie 211 m2, Rol Nº 631-184, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas - Buena Paz, Tramo Km. 0,000000 a Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000", Comuna de Molina, Provincia de Curicó, VII Región Maule" y se acordó el valor de indemnización con su propietario ABEL ALONSO PINCHEIRA PINCHEIRA, ascendente a la cantidad de $1.394.869.- para el lote Nº45-C.
+
+Fiscal del Ministerio de Obras Públicas.
