@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.959, de 11 de noviembre de 2008, de esta Subsecretaría, autorízase a CECILIA DEL CARMEN WAGENKNECHT TORRES para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Estero Quellón, pasaje Alberto Vanz s/n, Quellón, Chiloé, X Región, para elaborar en las líneas de proceso de Cocido, Fresco enfriado, Congelado, Ahumado, Conserva, Deshidratado y Sellado al vacío, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
