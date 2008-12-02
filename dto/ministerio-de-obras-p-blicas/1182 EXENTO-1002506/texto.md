@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1182 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº48, superficie 213 m2, Rol Nº18-90, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca" y se acordó el valor de indemnización con su propietario ROGELIO ANTONIO GONZALEZ YAÑEZ, ascendente a la cantidad de $1.809.763.
+
+Fiscal del Ministerio de Obras Públicas.
