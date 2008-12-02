@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1162, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 16-C, superficie 110 m2, Rol N° 152-50, comuna de Licantén, VII Región para la obra "Camino Ruta J-810, Sector Licantén-Vichuquén, Tramo Km. 0,000000 al Km. 15,372989", y se acordó el valor de indemnización con su propietario MARIANO BRAVO FUENZALIDA, ascendente a la cantidad de $1.037.820.
+
+Fiscal del Ministerio de Obras Públicas.
