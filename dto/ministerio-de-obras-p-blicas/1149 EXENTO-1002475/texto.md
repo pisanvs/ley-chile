@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.149 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 31, superficie 146 m2, rol N° 154-168, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500 Comuna y Provincia de Petorca, V Región" y se acordó el valor de la indemnización con su propietario ELEODORO DEL CARMEN SOLIS REINOSO, ascendente a la cantidad de $1.673.520.
+
+Fiscal del Ministerio de Obras Públicas.
