@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1158, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 131-2, superficie 219 m2, Rol N° 160-69, comuna de Ranquil, VIII Región para la obra "Camino Acceso Norte Concepción, VIII Región. Sector Km. 24.680,00 al Km. 25.060,00", y se acordó el valor de indemnización con su propietario MARIO RICARDO GONZALEZ MALDONADO, ascendente a la cantidad de $370.988.
+
+Fiscal del Ministerio de Obras Públicas.
