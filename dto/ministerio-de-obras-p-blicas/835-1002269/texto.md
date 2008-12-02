@@ -1,0 +1,3 @@
+Por decreto MOP N° 835 de fecha 30 de octubre de 2008, se expropiaron los lotes de terreno N°s 16 y 17 superficies 4.843 y 3.965 m2, respectivamente, rol N° 392-95, comuna de Mariquina, para la obra "Mejoramiento Ruta Rol T-270, Sector Mehuin Límite Regional IX Región, Km. 0,00000 al Km. 4,64602, Provincia de Valdivia, X Región" y se acordó el valor de la indemnización con su propietario ISIDRO SEGUNDO BENAVENTE MELLA, ascendente a la cantidad de $24.289.534.
+
+Fiscal del Ministerio de Obras Públicas.
