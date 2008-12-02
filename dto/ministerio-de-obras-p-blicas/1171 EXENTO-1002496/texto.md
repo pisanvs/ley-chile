@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1171, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 7, superficie 65 m2, Rol N° 189-26, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura-Límite Regional, Tramo II, Km. 10,50000 al Km. 18,60807", y se acordó el valor de indemnización con su propietario SUCESION DE DON JUAN ESTEBAN IRRIBARRA, ascendente a la cantidad de $932.339
+
+Fiscal del Ministerio de Obras Públicas.
