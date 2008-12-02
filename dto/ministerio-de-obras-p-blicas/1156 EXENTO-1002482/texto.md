@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.156 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 107, superficie 694 m2, rol N° 555-360, comuna de Saavedra, para la obra "Mejoramiento Ruta S-46, Sector Curahue Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo III Km. 16,04700 al Km. 25,59838, provincia de Cautín, camunas de Carahue y Saavedra, Región de la Araucanía." y se acordó el valor de la indemnización con su propietario Edilia Jeannette Morales Peña, ascendente a la cantidad de $759.990.
+
+Fiscal del Ministerio de Obras Públicas.
