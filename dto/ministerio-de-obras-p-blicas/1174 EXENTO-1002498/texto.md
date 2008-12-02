@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1174 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 39-E, superficie 292 m2, Rol Nº 132-30, comuna de Vichuquén, VII Región para la obra "Camino Ruta 3-810, Sector Licantén - Vichuquén, Tramo Km. 0,000000 al Km. 15,372989". Comunas de Licantén y Vichuquén, Provincia de Curicó, VII Región, y se acordó el valor de indemnización con su propietaria ADELAIDA DEL ROSARIO CUEVAS MUÑOZ, ascendente a la cantidad de $721.814.- para el lote Nº39-E.
+
+Fiscal del Ministerio de Obras Públicas.
