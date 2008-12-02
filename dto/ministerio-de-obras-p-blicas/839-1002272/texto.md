@@ -1,0 +1,3 @@
+Por decreto MOP N° 839 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 21 superficie 10.173 m2, rol N° 228-100, comuna de Toltén, para la obra "Mejoramiento Ruta Rol T-270, Sector Mehuin Límite Regional IX Región, Km. 0,00000 al Km. 4,64602, Provincia de Valdivia, X Región" y se acordó el valor de la indemnización con su propietario IRENIO DEL CARMEN MIRANDA PAINEÑANCO, ascendente a la cantidad de $46.207.856.
+
+Fiscal del Ministerio de Obras Públicas.
