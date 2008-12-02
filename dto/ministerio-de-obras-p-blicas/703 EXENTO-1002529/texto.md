@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 703 de 14 de agosto de 2008, se dejó sin efecto el decreto exento MOP Nº 216, de 30 de abril de 2008, que ordenó la expropiación del lote Nº 47-1, perteneciente a la obra "CAMINO ACCESO NORTE A CONCEPCIÓN, VIII REGIÓN. RAMAL COLECTOR SECTOR RAFAEL - AGUA AMARILLA. SECTOR KM. 8.240,00 AL KM. 8.900,00", por no ser necesario para la obra.
+
+Fiscal del Ministerio de Obras Públicas.
