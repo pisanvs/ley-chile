@@ -5654,7 +5654,7 @@ Los bancos que tengan oficinas en alguna plaza que no concurre a una localidad d
 
 ### 4. Pago o devoluciones de cheques recibidos en el canje
 
-Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, deducidos los giros efectuados mediante dispositivos electrónicos autosuficientes hasta el momento de cargar dichos cheques y sumadas las transferencias de fondos, que se encuentren disponibles, desde otras cuentas en el mismo banco o correspondientes a créditos que este haya otorgado, acreditadas en la cuenta corriente antes de cargar los cheques recibidos en canje.
+Los cheques recibidos en canje deberán ser pagados o rechazados sobre la base de los saldos con que hayan cerrado las respectivas cuentas corrientes individuales en el día hábil bancario anterior, más los abonos y menos los cargos efectuados hasta el momento de cargar dichos cheques, que correspondan a: giros por transferencias de fondos a otros bancos y otras operaciones realizadas por el cliente mediante dispositivos electrónicos, incluido el uso de cajeros automáticos, y abonos por transferencias automáticas desde otro banco o traspasos desde cuentas del mismo banco e importes correspondientes a créditos que éste haya otorgado.
 
 Los bancos deberán dejar constancia de la hora en que se registre en las cuentas corrientes cada uno de esos movimientos efectuados después de la hora de cierre.
 
