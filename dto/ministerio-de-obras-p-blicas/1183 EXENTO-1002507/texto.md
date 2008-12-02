@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1183 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 32, superficie 11 m2, Rol Nº 154-169, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietario SEGUNDO RAMON FERNANDEZ VIVANCO, ascendente a la cantidad de $383.496.- para el lote Nº32.
+
+Fiscal del Ministerio de Obras Públicas.
