@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1170, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 42, superficie 88 m2, Rol N° 18-105, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca", y se acordó el valor de indemnización con su propietaria MONICA PAULINA GARRIDO ARAYA, ascendente a la cantidad de $3.496.266.
+
+Fiscal del Ministerio de Obras Públicas.
