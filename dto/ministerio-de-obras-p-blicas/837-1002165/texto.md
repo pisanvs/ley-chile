@@ -1,0 +1,3 @@
+Por decreto MOP N° 837 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 3 superficie 158 m2, rol N° 729-48, comuna de Osorno, para la obra "Habilitación Acceso Norte a Osorno, Provincia y Comuna de Osorno X Región" y se acordó el valor de la indemnización con su propietario EVA DEL CARMEN BRAVO BECERRA, ascendente a la cantidad de $31.744.484.
+
+Fiscal del Ministerio de Obras Públicas.
