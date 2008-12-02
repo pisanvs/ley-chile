@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1,189 de fecha 30 de octubre de 2008, se expropiaron los lotes de terreno N°s 164-A y 165-A superficies 36 y 112 m2 respectivamente, rol N° 2207-84, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe La Arena, tramo Km. 15,84700 al Km. 40,41746", provincia de Llanquihue, X Región y se acordó el valor de la indemnización con su propietario Blanca Alicia Munzenmayer Chávez, ascendente a la cantidad de $667.208.
+
+Fiscal del Ministerio de Obras Públicas.
