@@ -1,0 +1,3 @@
+Por decreto MOP Nº 840 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 69, superficie 603 m2, Rol Nº 138-10, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietario JOSE LUIS VILLALOBOS VILLALOBOS o JOSE LUIS VILLALOBOS, ascendente a la cantidad de $13.177.431.- para el lote Nº69.
+
+Fiscal del Ministerio de Obras Públicas.
