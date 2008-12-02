@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1148 de fecha 30 de octubre de 2008, se expropiaron los lotes de terreno N°s 1 y 2, superficies 59 y 117 m2 respectivamente, rol N° 445-77, comuna de Gorbea, para la obra "Reconstrucción Puente Los Mellizos camino Cruce Longitudinal El Prado, Sector Km. 0,38500 al Km. 0,68000" IX Región y se acordó el valor de la indemnización con su propietario MARIA ZAIDA ABARZUA CORTES, ascendente a la cantidad de $312.373.
+
+Fiscal del Ministerio de Obras Públicas.
