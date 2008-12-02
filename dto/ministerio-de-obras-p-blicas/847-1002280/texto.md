@@ -1,0 +1,3 @@
+Por decreto MOP. N° 847, de fecha 30 de octubre del 2008, se expropiaron los lotes de terreno N°s 2 y 2-A, superficie 2.356,00 y 385,00 m2 respectivamente, Rol N° 1602-62, comuna de Santo Domingo, V Región para la obra "Construcción Puentes Yali 1 y Yali 2, Ruta G-80-I, Tramo: 13,40000 al Km. 14,50000, Comuna de Santo Domingo, Provincia de San Antonio, V Región.", y se acordó el valor de indemnización con su propietario MANUEL FRANCISCO ORTEGA LIZAMA Y OTROS, ascendente a la cantidad de $4.851.203.
+
+Fiscal del Ministerio de Obras Públicas.
