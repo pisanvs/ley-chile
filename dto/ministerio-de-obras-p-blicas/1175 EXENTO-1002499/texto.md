@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1175 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 134-A, superficie 695 m2, Rol Nº 2207-91, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, tramo Km. 15,84700 al Km. 40,41746", Provincia de Llanquihue, X Región" y se acordó el valor de indemnización con su propietaria MARIA ALFONSINA HERNANDEZ URIBE, ascendente a la cantidad de $2.655.443.- para el lote Nº134A.
+
+Fiscal del Ministerio de Obras Públicas.
