@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1172 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº111-A, superficie 4.193 m2, Rol Nº2010-349, comuna de Melipilla, Región Metropolitana, para la obra "Camino Mejoramiento Ruta G660, Sector Cruce Ruta G-60 (Culipran) - Lo Chacón, de Km. 12,50000 a Km. 13,00000", Comuna de Melipilla, provincia de Melipilla, Región Metropolitana y se acordó el valor de indemnización con su propietario JUAN GUSTAVO MORA TORRES, ascendente a la cantidad de $2.819.386.
+
+Fiscal del Ministerio de Obras Públicas.
