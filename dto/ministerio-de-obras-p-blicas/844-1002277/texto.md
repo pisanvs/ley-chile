@@ -1,0 +1,3 @@
+Por decreto MOP. N° 844, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 1, superficie 517.431 m2, Rol N° 152-6, comuna de Huasco, III Región para la obra "Construcción Camino Costero, Carrizal Bahía Salada, Provincia de Copiapo y Huasco, Región de Atacama, Etapa II", y se acordó el valor de indemnización con su propietario AGRICOLA QUEBRADA HONDA S.A., ascendente a la cantidad de $23.684.178.
+
+Fiscal del Ministerio de Obras Públicas.
