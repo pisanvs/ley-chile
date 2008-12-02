@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1178 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 59, superficie 904,00 m2, Rol Nº 175-1, comuna de Curepto, VII Región para la obra "Camino Ruta K-16, Sector: Curepto - Puente Lautaro, Tramo: Km. 73,30000 - Km. 81,91430, Comuna de Curepto, Provincia de Talca VII Región" y se acordó el valor de indemnización con su propietario HOMERO ANTONIO HERNANDEZ NUÑEZ, ascendente a la cantidad de $1.055.024.- para el lote Nº 59.
+
+Fiscal del Ministerio de Obras Públicas.
