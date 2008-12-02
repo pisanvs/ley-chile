@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1167, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 34, superficie 51 m2, Rol N° 154-174, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo-Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500 comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietario MARCELINO WILSON SILVA VIVANCO, ascendente a la cantidad de $748.524.
+
+Fiscal del Ministerio de Obras Públicas.
