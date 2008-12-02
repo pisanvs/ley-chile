@@ -1,0 +1,3 @@
+Por decreto exento Nº 1249, de 10 de noviembre de 2008, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento Nº 676, de 29 de octubre de 2007, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº10, con motivo de la obra "Mejoramiento Ruta D-875, Sector Quilimari - Guanguali, Tramo Km. 1,79200 a Km. 16,00000". Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 27 de marzo de 2007, complementada por acta de fecha 16 de abril de 2007, ascendente a la cantidad de $568.800.
+
+Fiscal del Ministerio de Obras Públicas.
