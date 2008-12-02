@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.191 de fecha 30 de octubre de 2008, se expropiaron los lotes de terreno N°s 25-A, 26-A, 31-A, 31-C, 32-B, 33-C y 34-C, superficies 681, 656, 1.309, 1.623, 3.539, 1.167 y 1.332 m2 respectivamente, rol N° 152-9 y rol en trámite, comuna de Licantén, para la obra "Camino Ruta J-810, Sector Licantén Vichuquén, Tramo Km. 0,000000 al Km. 15,372989". VII Región y se acordó el valor de la indemnización con su propietario FILOMENA DEL CARMEN ORMAZABAL CALQUIN Y OTRO, ascendente a la cantidad de $8.198.143.
+
+Fiscal del Ministerio de Obras Públicas.
