@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.186 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 115-I superficie 71 m2, rol N° 3350-13, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe La Arena, tramo Km. 15,84700 al Km. 40,41746", X Región y se acordó el valor de la indemnización con su propietario Alfonso Gutiérrez Venegas, ascendente a la cantidad de $569.849.
+
+Fiscal del Ministerio de Obras Públicas.
