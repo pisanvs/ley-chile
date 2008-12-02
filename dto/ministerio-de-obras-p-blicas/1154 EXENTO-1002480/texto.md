@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.154 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 18, superficie 28 m2, rol en trámite, comuna de Río Hurtado, para la obra "Conservación Camino 64E763 San Pedro Bosque Petrificado de Pichasca", IV Región y se acordó el valor de la indemnización con su propietario Galindo del Rosario Flores Rojas, ascendente a la cantidad de $74.911.
+
+Fiscal del Ministerio de Obras Públicas.
