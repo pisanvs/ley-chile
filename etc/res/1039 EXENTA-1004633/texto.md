@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº1.039 EXENTA, DE 2008
+
+Resolución Exenta Nº 1.039 del 14/11 del 2008, resolvió la Clausura a partir de esta fecha de Parcela Nº 3 C:I:R de 198 hás, de propiedad de Doña Carmen Soto Martínez RUT Nº 7.404.479-1, Rol: 1018-055. Rol Único Predial 12.4.01.0040 ubicado en la provincia de Ultima Esperanza. Por declararse un foco de Tuberculosis bovina. Queda prohibido el ingreso o egreso de animales susceptibles a Tuberculosis bovina al predio clausurado. Identificación de todos los animales con dispositivo oficial. Cualquier movimiento de animales será con destino sólo a matadero debe ser autorizado por el SAG. En un plazo de 30 días corridos, desde la fecha de la notificación de esta Resolución deberá proceder al beneficio de todos los animales declarados como reaccionantes y su descendencia que se encuentren en el predio. Deberá comunicar al SAG la fecha exacta del envío de los animales a matadero. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño tenedor o internador de los animales.
+
+Puerto Natales, 14 de noviembre 2008. Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
