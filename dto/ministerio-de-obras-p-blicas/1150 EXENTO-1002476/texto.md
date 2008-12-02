@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.150 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 52, superficie 28 m2, rol N° 171-24, comuna de Cobquecura, para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo II, Km. 10,50000 al Km. 18,60807". VIII Región y se acordó el valor de la indemnización con su propietario ARNALDO DEL CARMEN SALGADO VEGA, ascendente a la cantidad de $125.884.
+
+Fiscal del Ministerio de Obras Públicas.
