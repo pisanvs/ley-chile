@@ -1,0 +1,3 @@
+Por decreto MOP N° 838 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 5 superficie 518 m2, rol N° 729-60, comuna de Osorno, para la obra "Habilitación Acceso Norte a Osorno, X Región Provincia y Comuna de Osorno X Región" y se acordó el valor de la indemnización con su propietario EUDOLIA NAVARRO BARRIGA, ascendente a la cantidad de $39.788.156.
+
+Fiscal del Ministerio de Obras Públicas.
