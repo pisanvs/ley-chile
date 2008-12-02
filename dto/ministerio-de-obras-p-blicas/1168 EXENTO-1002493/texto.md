@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1168, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 39-B, superficie 268 m2, Rol N° 132-33, comuna de Vichuquén, VII Región para la obra "Camino Ruta J-810, Sector Licantén-Vichuquén, Tramo Km. 0,000000 al Km. 15,372989", y se acordó el valor de indemnización con su propietaria MARGARITA DEL CARMEN CUEVAS MUÑOZ, ascendente a la cantidad de $829.621.
+
+Fiscal del Ministerio de Obras Públicas.
