@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1181 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº83-A, superficie 1.109 m2, Rol Nº197-259, comuna de Longaví, VII Región para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 al Km. 19,41782" y se acordó el valor de indemnización con su propietario FRANCISCO ANTONIO URRUTIA ASCENCIO Y OTROS, ascendente a la cantidad de $1.322.447.
+
+Fiscal del Ministerio de Obras Públicas.
