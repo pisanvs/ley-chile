@@ -1,0 +1,3 @@
+Por decreto MOP. N° 846, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 22, superficie 518 m2, Rol N° 154-142, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500 comuna de Petorca y Provincia de Petorca, V Región.", y se acordó el valor de indemnización con su propietario LUIS ALBERTO MORALES GOMEZ, ascendente a la cantidad de $6.227.478.
+
+Fiscal del Ministerio de Obras Públicas.
