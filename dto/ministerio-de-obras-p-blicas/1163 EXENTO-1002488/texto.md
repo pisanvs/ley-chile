@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1163, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 33-E, superficie 639 m2, Rol N° 133-27, comuna de Vichuquén, VII Región para la obra "Camino Ruta J-810, Sector Licantén-Vichuquén, Tramo Km. 0,000000 al Km. 15,372989", y se acordó el valor de indemnización con su propietario JUAN LUIS ZUÑIGA LABBE, ascendente a la cantidad de $1.300.240.
+
+Fiscal del Ministerio de Obras Públicas.
