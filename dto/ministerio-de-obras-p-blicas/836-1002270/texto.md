@@ -1,0 +1,3 @@
+Por decreto MOP N° 836 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 2 superficie 216 m2, rol N° 729-17, comuna de Osorno, para la obra "Habilitación Acceso Norte a Osorno X Región, Provincia de Osorno", Comuna de Osorno, X Región y se acordó el valor de la indemnización con su propietario VICTOR PATRICIO JARA TORRES, ascendente a la cantidad de $39.469.292.
+
+Fiscal del Ministerio de Obras Públicas.
