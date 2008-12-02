@@ -1,0 +1,3 @@
+Por decreto MOP Nº 851 de 30 de octubre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 1, para la obra Proyecto "Construcción Sistema de Regadío Ancoa" Área de Protección Zona de Inundación Embalse Ancoa, VII Región", que figura a nombre de CENTRAL HIDROELECTRICA EL MELADO SA, superficie 3.000.000 M2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 25 de septiembre de 2008, en la cantidad de $219.690.000.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
