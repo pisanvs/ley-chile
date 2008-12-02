@@ -1,0 +1,3 @@
+Por decreto MOP Nº 843 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 9, superficie 960 m2, Rol Nº 356-33, comuna de Concepción, VIII Región para la obra "Mejoramiento Rotonda General Bonilla, VIII Región del Bío-Bío" y se acordó el valor de indemnización con su propietario JOAQUIN ARANEDA CARRASCO, ascendente a la cantidad de $140.791.881.- para el lote Nº 9.
+
+Fiscal del Ministerio de Obras Públicas.
