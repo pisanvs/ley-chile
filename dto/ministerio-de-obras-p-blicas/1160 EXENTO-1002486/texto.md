@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1160, de fecha 30 de octubre del 2008, se expropió el lote de terreno N° 58-A, superficie 995 m2, Rol N° 138-35, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo-Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500 comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietario JUAN SEGUNDO IBACACHE DONOSO, ascendente a la cantidad de $1.001.910.
+
+Fiscal del Ministerio de Obras Públicas.
