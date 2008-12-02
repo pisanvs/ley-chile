@@ -1,0 +1,3 @@
+Por decreto MOP Nº 842 de fecha 30 de octubre del 2008, se expropió el lote de terreno Nº 10, superficie 280 m2, Rol Nº 356-18, comuna de Concepción, VIII Región para la obra "Mejoramiento Rotonda General Bonilla, VIII Región del Bío-Bío" y se acordó el valor de indemnización con su propietario RODRIGO DEOCARES CABEZA Y OTRAS, ascendente a la cantidad de $56.013.153.- para el lote Nº 10.
+
+Fiscal del Ministerio de Obras Públicas.
