@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.157 de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 63, superficie 104 m2, rol en trámite, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario SILVIA CISTERNAS ZEBALLOS, ascendente a la cantidad de $1.200.552.
+
+Fiscal del Ministerio de Obras Públicas.
