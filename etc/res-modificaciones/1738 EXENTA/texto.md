@@ -160,35 +160,47 @@ f) Agréguese a continuación del artículo 29, el siguiente Numeral VIII:
 
 "VIII.- Departamento de Planeamiento Institucional"
 
-#### Artículo 29 bis
+#### Artículo 29 Bis
 
-Al Departamento de Planeamiento Institucional le corresponderá asesorar a la Dirección y a los demás órganos de la institución en todas aquellas materias que digan relación con la elaboración y seguimiento de proyectos estratégicos que aseguren el cumplimiento de los objetivos institucionales. Para ello deberá coordinar el proceso de la Planificación Estratégica del Fondo, realizar el Control de Gestión Institucional, elaborar los estudios en materia de economía de la salud, confeccionar estadísticas, sistematizar redes de conocimiento inter e intrainstitucionales, e impulsar y gestionar las relaciones internacionales y de cooperación, que permitan cumplir a cabalidad con la misión institucional.
+Al Departamento de Planeamiento Institucional le corresponderá asesorar a la Dirección y a los demás órganos de la institución en todas aquellas materias que digan relación con el desarrollo de los objetivos estratégicos, que aseguren el cumplimiento de la misión y visión institucional.
 
-"En todas y cada una de estas áreas podrán desarrollarse estudios para perfeccionar el desempeño funcional, incluyendo materia de Seguridad Social en Salud."
+Para ello deberá coordinar el proceso de la Planificación Estratégica del Fondo, desde la definición de políticas, valores y objetivos estratégicos, hasta la supervisión, seguimiento y evaluación de la operacionalización de los mismos. Esto requerirá de la implementación de las herramientas e instrumentos de control de gestión más adecuados a las necesidades institucionales y de la generación, sistematización y difusión de la información pertinente para el cumplimiento de su función.
 
-#### Artículo 29 ter
+En su rol asesor de la Dirección, el Departamento se desempeñará en un contexto de cooperación intra e intersectorial, y con las entidades afines a nivel internacional."
 
-Son funciones del Departamento de Planeamiento Institucional:"
+#### Artículo 29 Ter
 
-"1.- Desarrollar y hacer seguimiento al proceso de Planificación Estratégica del Fondo;"
+Son funciones del Departamento de Planeamiento Institucional:
 
-"2.- Asesorar a la Dirección y órganos de la Institución, en temas relacionados con economía de la salud y seguridad social en salud, a fin de potenciar el desarrollo institucional;"
+1. Contribuir al diseño, desarrollo y ejecución de políticas públicas en salud, en el ámbito de competencia del Fondo.
 
-"3.- Contribuir al diseño, desarrollo y ejecución de políticas públicas en salud, que competen al Ministerio del ramo;"
+2. Supervisar y asesorar transversalmente a los distintos órganos de la Institución, en materias de competencia del Departamento.
 
-"4.- Controlar la Gestión Institucional, mediante la evaluación y seguimiento de las metas de gestión comprometidas por los órganos del Fondo, y el monitoreo de los indicadores de desempeño de los procesos institucionales;"
+3. Desarrollar y gestionar el proceso de Planificación Estratégica del Fondo.
 
-"5.- Realizar estudios de interés para el desarrollo institucional, y confeccionar las estadísticas del Fondo;"
+4. Proponer, desarrollar y asesorar sistemas de evaluación y control de la gestión del Fondo, además de coordinar dichas actividades con otras instituciones (Minsal, Dipres, Segpres, etc.).
 
-"6.- Sistematizar la red de conocimiento, especialmente dentro de Fonasa, fomentando y capacitando el acceso a estudios, documentos informativos y de trabajo, institucionales y externos, y referencias bibliográficas;"
+5. Coordinar el Sistema de Excelencia de la Gestión Institucional (SEGI), levantando y gestionando procesos, analizando sus riesgos e implementado la gestión de calidad bajo la norma ISO 9001:2000, con el objeto de obtener la mejora continua del Fondo.
 
-"7.- Impulsar, gestionar y desarrollar las relaciones internacionales y de cooperación;"
+6. Monitorear y evaluar el cumplimiento de las metas e indicadores de gestión comprometidos por la Institución.
 
-"8.- Supervisar y asesorar transversalmente a los distintos órganos de la Institución, en materias de competencia del Departamento, y dar cumplimiento a las demás tareas de carácter estratégico que le encomiende el Director del Fondo."
+7. Contribuir a la cuenta pública institucional, mediante la elaboración y difusión del balance de gestión integral.
 
-#### Artículo 29 quater
+8. Realizar difusión y capacitación en las materias de gestión de competencia del Departamento a los funcionarios del Fondo.
 
-Del Departamento de Planeamiento Institucional dependerán el Subdepartamento de Economía de la Salud; el Subdepartamento de Control de Gestión y Procesos y el Subdepartamento de Estadística y Red de Conocimiento."
+9. Desarrollar y gestionar estudios e investigaciones, desde la perspectiva de la Economía de la Salud, en el ámbito de la Protección Social en Salud.
+
+10. Recopilar, generar y sistematizar información y estadísticas del Fondo o de otras entidades intra o extrasectoriales, relevantes para el FONASA, requeridas por el Director o algún órgano de la institución.
+
+11. Gestionar la cooperación internacional y la asistencia técnica horizontal y vertical en las materias definidas por los objetivos estratégicos y las políticas institucionales.
+
+12. Gestionar el conocimiento y redes de difusión y almacenamiento de información en el ámbito de las tareas del Fondo, especialmente de la Protección Social en Salud
+
+13. Dar cumplimiento a las demás tareas de carácter estratégico que le encomiende el Director del Fondo."
+
+#### Artículo 29 Quater
+
+Del Departamento de Planeamiento Institucional dependerán el Subdepartamento de Estudios y el Subdepartamento de Control de Gestión y Procesos."
 
 2.- Publíquese, por una sola vez, la presente resolución en el Diario Oficial.
 
