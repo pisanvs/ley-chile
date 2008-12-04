@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 710 EXENTA, DE 2008
+
+Por resolución exenta Nº 710 de fecha 2 de septiembre de 2008 de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía, se autoriza el funcionamiento del Terminal de Buses no Urbanos, ubicado en calle Aníbal Pinto Nº 200, de la comuna de Nueva Imperial, de propiedad de Inmobiliaria Inversiones Lily Limitada, cuyo Representante Legal es don Juan Muñoz Canobi. El representante del terminal individualizado, deberá dar cumplimiento a lo establecido en la Ordenanza Local aprobada por decreto exento Nº 11 de fecha 11 de junio de 2008, dictado por la I. Municipalidad de Imperial, conforme a lo señalado en el Art. 3º Transitorio del D.S. 94/84 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes. Temuco, 23 de octubre de 2008.-
+
+Vivianne Fernández Mora, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
