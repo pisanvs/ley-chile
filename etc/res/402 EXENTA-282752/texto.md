@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCIÓN Nº 402 EXENTA, DE 2008
+
+Por resolución exenta Nº 402, de 28 de julio de 2008, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región, autorizó el funcionamiento del Terminal de Buses Urbanos ubicado en calle Juncalito s/n Valle Los Ríos de la comuna de Copiapó, propiedad de la Asociación Gremial Transporte de Pasajeros Buses y Taxibuses Sol de Atacama, RUT 71.837.600-9, con una capacidad máxima de 200 buses, conforme las Tablas 1 y 2 establecidas en el texto del D.S. Nº 47/92, del Ministerio de Vivienda y Urbanismo, vigentes a la fecha del inicio de obras del mencionado terminal, dejándose constancia que el funcionamiento del terminal que se autoriza se mantendrá en la medida que se cumpla con las siguientes especificaciones:
+
+Hará uso de este terminal la siguiente línea: Asociación Gremial Transporte de Pasajeros Buses y Taxibuses "Sol de Atacama", RUT 71.837.600-9, con el servicio de buses inscrito a la presente fecha en el Registro Nacional de Servicios de Transporte Público de Pasajeros, Región de Atacama, bajo el folio Nº 400001, con el siguiente servicio prestado con buses: Troncal: Paipote-Copiapó. Variantes: Valle Los Ríos- Copiapó. El Terminal podrá ser utilizado por una cantidad máxima de 200 buses (estacionados en un ángulo de 45º, respecto de la paralela al eje longitudinal de la calle Juncalito) conforme a las Tablas 1 y 2 establecidas en el texto del D.S. Nº 47/92, del Ministerio de Vivienda y Urbanismo. Encargado de la administración del terminal: el Sr. Ernesto Espinosa Gárate, RUT Nº 07.868.809-2, domiciliado en A. Ignacio Carrera Pinto Nº2, de la comuna de Copiapó.
+
+La presente autorización se otorga por el plazo de tres años a contar de la fecha de su emisión, vencido el cual se deberán efectuar las inspecciones pertinentes, con miras a su renovación.-
+
+René David Navarro Albiña, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
