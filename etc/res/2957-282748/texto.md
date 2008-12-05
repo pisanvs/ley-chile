@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.957, de 11 de noviembre de 2008 de esta Subsecretaría, autorízase a RAÚL ENRIQUE VALERIA JAMETT, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Parcela 12, Carpinteros, Casa Blanca, V Región, para elaborar en las líneas de proceso Harina, Alga Seca y Picado de Algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 11 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
