@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.896, de 4 de noviembre de 2008, de esta Subsecretaría, modifícase resolución exenta Nº799 de 2008, de esta Subsecretaría, que autorizó al CENTRO DE INVESTIGACIÓN, DESARROLLO Y CAPACITACIÓN DE CIENCIAS DEL MAR, MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección para la pesquería de Pejegallo en aguas interiores y exteriores de la X Región", en el sentido de incorporar el siguiente numeral 5 bis.
+
+"5 bis.- En cumplimiento de los objetivos de la presente investigación, los armadores, pescadores y embarcaciones artesanales autorizados a operar en el marco de la presente pesca de investigación podrán extraer, durante el año 2008, en el área autorizada, mediante espinel horizontal y red de enmalle, un total de 150 toneladas del recurso Pejegallo Callorhinchus callorhynchus, capturas que se imputarán a la cuota fijada para fines de investigación, del recurso Pejegallo Callorhinchus callorhynchus, en la X Región, establecida mediante decreto exento Nº 1.385 de 2008, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Para el cumplimiento del objetivo antes señalado, exímase del cumplimiento de la veda extractiva del recurso Pejegallo Callorhinchus callorhynchus, en la X Región, establecida mediante decreto exento Nº 1.385 de 2008, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 4 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
