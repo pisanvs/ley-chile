@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.953, de 11 de noviembre de 2008, de esta Subsecretaría, autorízase a JUVENAL ALEXANDER HERNÁNDEZ HERNÁNDEZ para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en caleta Level, Puerto Edén, Puerto Natales, XII Región, para elaborar en las líneas de proceso de cocido, fresco enfriado, fresco refrigerado, congelado, seco salado, ahumado, conserva, alga seca y deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
