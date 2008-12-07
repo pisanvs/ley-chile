@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.118 de 28 de noviembre de 2008 de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta N° 1.322 de 2003 de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA EL GOLFO para ampliar actividades pesqueras extractivas con la nave "Tricahue" en el área marítima correspondiente al Archipiélago de Juan Fernández, Islas Sala y Gómez, Isla de Pascua e Islas Desventuradas, sobre el recurso Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en resolución extractada.
+
+Valparaíso, 28 de noviembre de 2008. Jorge Chocair Santibáñez, Subsecretario de Pesca.
