@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.886, de 4 de noviembre de 2008, de esta Subsecretaría, autorízase a CRISTIÁN CORREA GUZMÁN para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio de Fauna Íctica Nativa en Chile, 2009, II Parte".
+
+El objetivo de la pesca de investigación consiste en caracterizar los relictos de peces nativos no invadidos por peces introducidos y determinar los efectos en estos últimos dentro de la fauna nativa. La pesca de investigación se efectuará por un período de cinco meses contados desde el 1º de enero de 2009, en estaciones de muestreo ubicadas en al menos 25 cuerpos y cursos de agua situados entre la XI y la XII Región, donde podrá capturar, con devolución, ejemplares de especies señaladas en la resolución extractada. Sin perjuicio de lo anterior, la peticionaria podrá capturar, sin devolución, un máximo de treinta ejemplares, por sitio de muestreo, de cada una de las especies introducidas señaladas en la resolución extractada.
+
+Valparaíso, 4 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
