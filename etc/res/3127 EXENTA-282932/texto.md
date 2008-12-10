@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.127, 1 de diciembre de 2008, de esta Subsecretaría, modifícase el numeral 5.- letra c), de la resolución exenta Nº 2.228 de 2008 que autorizó a la UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación conforme Términos Técnicos de Referencia, Proyecto FIP Nº 2008-09, "Evaluación del stock desovante de Anchoveta y Sardina común en la zona centro sur, año 2008", en el sentido de incorporar a la embarcación artesanal "Don Renato", RPA Nº 951633.
+
+Valparaíso, 1 de diciembre de 2008, Jorge Chocair Santibáñez, Subsecretario de Pesca.
