@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A CHILENA CONSOLIDADA SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 676, de fecha 5 de diciembre de 2008, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Chilena Consolidada Seguros Generales S.A., acordada en junta extraordinaria de accionistas, celebrada y reducida a escritura pública el 14 de noviembre de 2008 en la Notaría de Santiago, de don René Benavente Cash, domiciliado en Huérfanos 979, piso 7.
+
+Se fija el capital social, suscrito y pagado, en la suma de $5.708.006.978 pesos, dividido en 50.000.000 acciones sin valor nominal y de una misma serie. Este capital se aumenta en $7.460.000.000 pesos, mediante la emisión de 21.000.000 acciones a suscribir y pagar dentro del plazo de tres años, contado desde la fecha de la junta, quedando el capital social en la suma de $13.168.006.978 pesos, divido en 71.000.000 acciones sin valor nominal y de una misma serie. Se modifican artículos quinto de los estatutos y artículos primero, segundo y tercero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 5 de diciembre de 2008.- Carmen Undurraga Martínez, Secretario General.
