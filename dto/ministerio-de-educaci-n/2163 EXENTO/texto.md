@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 2.163 EXENTO, DE 2008
+
+Por decreto exento Nº 2.163, de fecha 18 de junio de 2008, del Ministerio de Educación, se revoca el reconocimiento oficial del Centro de Formación Técnica Genoveva Guarniero de la localidad de Hijuelas, Provincia de Quillota, organizado por la Parroquia de San Nicolás de Tolentino (Obispado de Valparaíso), representada legalmente por el Rvdo. Padre Miguel Ángel Ferrari Torres y elimínase a dicho Centro del registro correspondiente en que se encuentra inscrito con el Nº 201. Asimismo se derogan los decretos exentos de Educación, que autorizaron el funcionamiento del Centro y aprobaron los planes y programas de estudios de las carreras para al Centro de Formación Técnica Genoveva Guarniero de la localidad de Hijuelas, Provincia de Quillota.
+
+Santiago, 10 de diciembre de 2008.- Cristián Martínez Ahumada, Subsecretario de Educación.
