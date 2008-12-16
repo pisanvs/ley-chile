@@ -1,0 +1,3 @@
+Por decreto Exento Nº 1310, de 27 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 32, para la ejecución de las obras del Proyecto Embalse El Bato, "Canal Nuevo Cocinera", Comuna de Illapel, Provincia de Choapa, Región de Coquimbo, que figura a nombre de POLANCO ARAYA CIRIA E, rol de avalúo 434-169, superficie 367 m2. La Comisión de Peritos, fijó con fecha 21 de abril de 2008, en la cantidad de $201.150. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
