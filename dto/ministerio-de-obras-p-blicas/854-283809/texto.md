@@ -1,0 +1,3 @@
+Por decreto MOP N° 854, de fecha 30 de octubre de 2008, se expropió el lote de terreno N° 55-A, superficie 7.848 m2, rol N° 139-30, comuna de Vichuquén, para la obra "Camino Ruta J-810, Sector Licantén-Vichuquén, Tramo Km. 0,000000 al Km. 15,372989". VII Región y se acordó el valor de la indemnización con su propietario JOSE DEL CARMEN MUÑOZ MEDINA, ascendente a la cantidad de $6.836.480.
+
+- Fiscal del Ministerio de Obras Públicas.
