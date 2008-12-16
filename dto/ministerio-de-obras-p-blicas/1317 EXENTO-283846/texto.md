@@ -1,0 +1,3 @@
+Por decreto Exento Nº 1317, de 28 de noviembre de 2008, y en base a la facultad otorgada por el artículo 32 del D.L. Nº 2.186, de 1978, Ley Orgánica, se dejó sin efecto los Decretos Exentos Nº1517, de 29 de octubre de 2002 y Nº2063, de 31 de diciembre de 2001, en la parte que se refiere a los lotes Nºs 98, 99 y 100, en consideración a que dichos lotes fueron anulados por medio de la Resolución Exenta SRM. X Región Nº1104, de 14 de julio de 2008, expropiados para la ejecución de la obra Camino Río Bueno - Crucero (II parte), sector, T-90-U y T-933, tramo Km. 0,00000 a Km. 20,90000. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
