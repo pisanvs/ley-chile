@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.129, de 1 de diciembre de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 302 de 2008, modificada mediante resolución exenta Nº2092 de 2008, ambas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado «Monitoreo biológico y control del esfuerzo de la flota artesanal espinelera en las pesquerías demersales de los recursos congrio dorado (Genypterus blacodes) y raya (Dipturus spp) en aguas marítimas de la X Región, temporada 2008», en el sentido de incorporar a la letra a) del numeral 5º, el siguiente inciso segundo:
+
+«Asimismo, las capturas de Congrio dorado se imputarán a la fracción reservada a ser extraída con fines de investigación de la cuota global anual de captura de dicha especie autorizada mediante decreto exento Nº 1.786 de 2007, del Ministerio de Economía, Fomento y Reconstrucción, ascendente a 162 toneladas.».
+
+Valparaíso, 1 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
