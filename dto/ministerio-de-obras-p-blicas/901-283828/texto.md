@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 901, de 10 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 1, para la ejecución del proyecto "Embalse El Bato, Canal Nuevo Cocinera", entrega Km. 25,109". Comuna de Illapel, Provincia de Choapa, Región de Coquimbo, que figura a nombre de TAPIA CODOCEO JAIME ENRIQUE, rol de avalúo 432-29, superficie 12.239 m2. La Comisión de Peritos, fijó con fecha 23 de octubre de 2008, en la cantidad de $3.903.525. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
