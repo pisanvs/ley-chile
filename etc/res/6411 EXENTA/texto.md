@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE PLACILLA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 6.411 del 21 de noviembre de 2008, conforme artículo 5º transitorio Código Aguas, aclaró y complementó resoluciones exentas Nºs. 5 de 4 de enero de 1985 y 225 de 12 de febrero de 1988, que aprobaron Estudios Técnicos de División de los Derechos de Aprovechamiento de Aguas de los predios «La Diana y Los Paltos», «Fundo La Línea hoy San José de Manantiales», «Resto del Fundo Arica», «Parte del Predio que posee en la comuna de Placilla de este departamento que era el Fundo Arica en una mayor extensión» y «Fundo Taulemu» y del Proyecto de Parcelación «Arica», ubicados en la comuna de Placilla, Región del Libertador Bernardo O.Higgins, en el sentido de establecer la equivalencia en unidad de volumen por unidad de tiempo, de los derechos de aprovechamiento de aguas del Canal Los Pérez, derivado del Río Tinguiririca y que dichos derechos son consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13 Ley Nº 18.377.- Director Nacional.
