@@ -1,0 +1,3 @@
+Por resolución Nº 3.226, de 11 de diciembre de 2008, de esta Subsecretaría, autorízase a LUNA Y GALAZ LIMITADA para capturar, en el área marítima de la X Región de Los Lagos, en el plazo de 1 año contado desde la fecha de la presente resolución, la cantidad total de 200 ejemplares de la especie Lobo marino común Otaria flavescens, en la forma y bajo las condiciones señaladas en la resolución extractada. El solicitante designa como persona responsable de esta pesca de investigación a don Claudio Galaz Guerra.
+
+Valparaíso, 11 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
