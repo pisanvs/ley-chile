@@ -1,0 +1,243 @@
+FIJA VALOR DE INVERSIÓN REFERENCIAL PARA NUEVO PROCESO DE LICITACIÓN DE PROYECTO "LÍNEA ALTO JAHUEL - CERRO NAVIA 2X220 kV, TRAMO CHENA - CERRO NAVIA: CAMBIO CONDUCTOR", OBRA CALIFICADA COMO AMPLIACIÓN DEL SISTEMA DE TRANSMISIÓN TRONCAL EN EL PLAN DE EXPANSIÓN DEL SISTEMA DE TRANSMISIÓN TRONCAL DEL SISTEMA INTERCONECTADO CENTRAL PARA EL PERÍODO 2007 - 2008, y FIJA CONDICIONES TÉCNICAS Y ADMINISTRATIVAS
+
+Núm. 357.- Santiago, 8 de octubre de 2008.- Vistos:
+
+1. Lo dispuesto en el artículo 35º de la Constitución Política de la República de Chile;
+
+2. Lo dispuesto en el decreto con fuerza de ley Nº 4, del Ministerio de Economía, Fomento y Reconstrucción, de 2006, Ley General de Servicios Eléctricos, en adelante "DFL Nº 4";
+
+3. Lo dispuesto en el decreto Nº 282, de 10 de septiembre de 2007, modificado por el decreto Nº 312, de 31 de octubre de 2007, ambos del Ministerio de Economía, Fomento y Reconstrucción, en adelante e indistintamente el "Ministerio", que Fija el Plan de Expansión del Sistema de Transmisión Troncal del Sistema Interconectado Central para el Período 2007 - 2008;
+
+### 4. Lo dispuesto en el artículo 94º del DFL Nº 4;
+
+5. Lo informado por Transelec S.A., en adelante e indistintamente la "Empresa", en su carta P-Nº 49 de 5 de marzo de 2008;
+
+6. El estudio contratado por la Empresa, enviado a la Comisión Nacional de Energía, en adelante e indistintamente la "Comisión", por carta P-Nº 77, de 11 de abril de 2008; y
+
+7. Lo informado por la Comisión en su Oficio Nº 1.594 de 2 de septiembre de 2008.
+
+Considerando:
+
+1. Que, de acuerdo a lo previsto en el artículo 99º del DFL Nº 4, el Ministerio, mediante decreto Nº 282, modificado por el decreto Nº 312, y sobre la base de la recomendación efectuada por la Comisión, fijó el Plan de Expansión del Sistema de Transmisión Troncal del Sistema Interconectado Central para el Período 2007 - 2008;
+
+2. Que, de acuerdo a lo establecido en el artículo Nº 94 del DFL Nº 4, el Ministerio, previo informe de la Comisión, mediante decreto supremo expedido bajo la fórmula "por orden del Presidente de la República", podrá fijar nuevos valores de inversión de referencia, para que la empresa responsable de realizar las obras de ampliación señaladas en la norma recién citada, convoque a nuevas licitaciones;
+
+3. Que, de acuerdo a lo informado por la Empresa, en su carta P-Nº 49, en la licitación del proyecto de ampliación "Línea Alto Jahuel - Cerro Navia 2x220 kV, Tramo Chena - Cerro Navia: Cambio Conductor", en adelante e indistintamente el "Proyecto", la propuesta presentada no cumplió con lo exigido en las bases de licitación, razón por la cual la Empresa declaró desierto el referido proceso de licitación;
+
+4. Que en el estudio contratado por la Empresa, enviado a la Comisión por carta P-Nº 77, se recomienda modificar los valores de inversión y los plazos de ejecución del Proyecto, para realizar un nuevo llamado a licitación, previa calificación ambiental favorable; y 5. Que la Comisión, el 2 de septiembre de 2008, informó al Ministerio sobre la necesidad de realizar un nuevo proceso de licitación a fin de llevar a efecto el Proyecto, conforme a lo indicado en dicha comunicación, cumpliéndose de esta forma todas las disposiciones legales y reglamentarias requeridas para realizar la nueva licitación,
+
+Decreto:
+
+#### Artículo primero
+
+Fíjase Valor de Inversión Referencial para nuevo proceso de licitación del proyecto "Línea Alto Jahuel - Cerro Navia 2x220 [kV], Tramo Chena - Cerro Navia: Cambio Conductor" y fíjense las siguientes condiciones técnicas y administrativas:
+
+1 DESCRIPCIÓN DEL PROYECTO
+
+1.1 Descripción general y ubicación de las obras Esta obra consiste en reemplazar conductores actuales de línea doble circuito Cerro Navia -
+
+Chena 220 kV con capacidad máxima, en condiciones normales, de 197 MVA a 25°C de temperatura ambiente (conductor FLINT) por un conductor adecuado al trabajo a mayor temperatura, de modo de lograr una capacidad de transmisión de 400 MVA a 30°C de temperatura ambiente. Las obras deben ejecutarse en los dos circuitos de la línea actual 2x220 [kV] Cerro Navia - Chena.
+
+1.2 Características del conductor de aluminio a utilizar
+
+- Debe utilizarse el conductor GZTACSR o similar en tipo INVAR para funcionamiento continuo a 210°C equivalente al conductor ACSR tipo Hen.
+
+- Capacidad de corriente: 1.129 A a 40°C de
+
+temperatura ambiente.
+
+- Diámetro: 22,6 mm.
+
+- Sección: 308,4 mm2.
+
+- Peso: 1.094 kg/km.
+
+1.3 Longitud del tramo
+
+Este tramo de línea tiene una longitud de 12,1 Km.
+
+1.4 Entrada en operación
+
+El Proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 12 meses siguientes a la fecha de adjudicación de la licitación.
+
+1.5 Valor de inversión y costo de operación, mantenimiento y administración referenciales
+
+El Valor de Inversión, en adelante e indistintamente el "V.I.", referencial del Proyecto, es de 4,33 millones de dólares, moneda de los Estados Unidos de América.
+
+El Costo de Operación, Mantenimiento y Administración, en adelante e indistintamente el "COMA" referencial, se establece en 78,806 miles de dólares (1,82% del V.I. referencial), moneda de los Estados Unidos de América.
+
+2 ACTUALIZACIÓN DE LOS VALORES DE INVERSIÓN BASE
+
+Para determinar el V.I. referencial a considerar en las Bases del proceso de licitación, a que se refiere el número 3.3 del presente decreto, se utilizará la siguiente fórmula:
+
+VER DIARIO OFICIAL DE 17.12.2008, PÁGINA 3.
+
+Para determinar el COMA referencial, a que se refiere el número 3.3 del presente decreto, se utilizará la siguiente fórmula:
+
+VER DIARIO OFICIAL DE 17.12.2008, PÁGINA 3.
+
+Donde, para todas las fórmulas anteriores:
+
+VIn,k : Valor del V.I. de la obra de ampliación n
+
+para el mes k, con n = 1.
+
+IPCk : Valor del Índice de Precios al Consumidor
+
+en el segundo mes anterior al mes k,
+
+publicado por el Instituto Nacional de
+
+Estadísticas (INE).
+
+DOLk : Promedio del Precio Dólar Observado, en el
+
+segundo mes anterior al mes k, publicado
+
+por el Banco Central de Chile.
+
+Palk : Promedio del Precio del Aluminio, del
+
+segundo, tercer y cuarto mes anterior al
+
+mes k, cotizado en la Bolsa de Metales de
+
+Londres (London Metal Exchange, LME),
+
+correspondiente al valor Cash Seller &
+
+Settlement mensual, publicado por el
+
+Boletín Mensual de la Comisión Chilena del
+
+Cobre, expresado en USc/Lb.
+
+Pfek : Valor del índice Iron and Steel, de la
+
+serie Producer Price Index - Commodities,
+
+grupo Metals and Metal Products, en el
+
+sexto mes anterior al mes k, publicado por
+
+el Bureau of Labor Statistics (BLS) del
+
+Gobierno de los Estados Unidos de América
+
+(Código BLS: WPU101)
+
+CPIk : Valor del índice Consumer Price Index (All
+
+Urban Consumers), en el segundo mes
+
+anterior al mes k, publicado por el Bureau
+
+of Labor Statistics (BLS) del Gobierno de
+
+los Estados Unidos de América (Código BLS:
+
+CUUR0000SA0)
+
+Tak : Tasa de Derechos Arancelarios, aplicables
+
+a la importación de bienes de capital,
+
+vigente en el último día del segundo mes
+
+anterior al mes k.
+
+Los valores base para los índices antes definidos, corresponden a los que a continuación se indican:
+
+VER DIARIO OFICIAL DE 17.12.2008, PÁGINA 3.
+
+3 CONDICIONES Y TÉRMINOS PARA LA LICITACIÓN, EJECUCIÓN Y EXPLOTACIÓN DE LA OBRA DE AMPLIACIÓN
+
+3.1 De la calificación ambiental
+
+Transelec S.A. de ser procedente, deberá someter este Proyecto al Sistema de Evaluación de Impacto Ambiental ("SEIA"), a más tardar 4 meses contados desde la publicación del presente decreto en el Diario Oficial, el cual deberá ser aprobado en el proceso correspondiente, antes de iniciar el proceso de licitación.
+
+Si la puesta en marcha del Proyecto sufre retrasos por causas imputables a la Empresa, la Superintendencia, en conformidad al procedimiento de rigor, aplicará las sanciones que correspondan.
+
+3.2 Del Proceso de Licitación
+
+3.2.1 Condiciones Generales del Proceso de Licitación
+
+Transelec S.A. deberá realizar la licitación de la construcción de la obra de ampliación especificada en el presente decreto, a través de un proceso de licitación público, abierto y transparente, auditable por la Superintendencia, de acuerdo a las condiciones establecidas en el artículo 94º del DFL Nº 4.
+
+El proceso de licitación y adjudicación deberá estar finalizado, dentro de los 4 meses contados desde la fecha en que sea aprobado el Proyecto en el SEIA, de conformidad a lo señalado en el numeral 3.1 del presente decreto.
+
+3.2.2 Bases de Licitación
+
+Las bases del proceso de licitación, en adelante e indistintamente las "Bases", deberán considerar los plazos de licitación, construcción y entrada en operación establecidos en el presente decreto, y garantizar que el proceso sea público, transparente y auditable por la Superintendencia.
+
+La Empresa deberá remitir las Bases a la Superintendencia y entregar todos los informes técnicos o auditorías que ésta solicite en la forma y oportunidad que determine, a fin de que esa Superintendencia cumpla con lo establecido en el artículo 94º del DFL Nº 4.
+
+3.2.3 Máxima Cobertura de Riesgos
+
+La Empresa deberá especificar claramente en las Bases que el monto máximo, presentado en la oferta, destinado a cubrir riesgos relacionados con la construcción del Proyecto, la operación del sistema u otros, no podrá ser superior al 25% del V.I. presentado en la correspondiente oferta.
+
+Asimismo, la Empresa no podrá exigir a los oferentes, multas, indemnizaciones ni garantías que superen, en su conjunto, el 25% del V.I, presentado en la oferta. En virtud de lo anterior, al momento de cancelar el contrato, la Empresa no podrá realizar un descuento total a la empresa que construya el Proyecto, cuyo monto supere al 25% del V.I. con que resultó adjudicado.
+
+3.2.4 Exigencias a Proveedores
+
+La Empresa no podrá exigir en las Bases, proveedores específicos de los equipos necesarios para el desarrollo del Proyecto. Con todo, deberá siempre requerir el cumplimiento de las exigencias de seguridad y calidad de servicio que establece la normativa vigente.
+
+3.2.5 Límite Máximo de Garantías
+
+La Empresa podrá exigir en las Bases la presentación de garantías o el sometimiento de multas por parte de los oferentes, a través de boletas u otros instrumentos financieros de uso común para estos efectos, similares o equivalentes a las señaladas a continuación, conforme a los valores máximos y sólo para los casos que seguidamente se indican:
+
+a) Garantía de Seriedad de la Oferta, por un monto menor o igual al 5% del valor del contrato.
+
+b) Garantía de Ejecución, por un monto menor o igual al 10% del valor del contrato.
+
+c) Garantía de Servicio de Prueba, por un monto menor o igual al 5% del valor del contrato por 12 meses.
+
+d) Multa por atraso, con respecto a la fecha en que el contratista deba terminar las obras, por un monto menor o igual al 1,5% del valor del contrato por cada semana de atraso, con un tope del 10% de dicho valor.
+
+e) Multa por incumplimiento de hitos intermedios, hasta por un 0,5% del valor del contrato por cada semana de atraso, con un tope del 5% del referido valor. La multa se condonará si se cumple el plazo final.
+
+f) Multas, por un monto menor o igual al 50% de la multa que le imponga la Autoridad a la Empresa, por infringir la normativa correspondiente.
+
+Se entiende por valor del contrato, el V.I.
+
+definitivo con el cual se adjudique el Proyecto.
+
+El cobro simultáneo de las garantías o multas contractuales que se devenguen con motivo de la verificación de una cualquiera de las hipótesis precedentemente referidas, no podrá exceder en caso alguno el 25% del V.I. definitivo con el cual se adjudique el Proyecto, conforme se establece en el número 3.2.3 del presente decreto.
+
+3.2.6 Valor Pro-forma
+
+El valor pro-forma deberá ser menor o igual al 10% del valor del contrato.
+
+3.2.7 Del derecho a declarar la licitación desierta
+
+Si la licitación es declarada desierta, el informe de los consultores independientes a que se refiere el artículo 94º del DFL Nº 4, deberá ser licitado y adjudicado a través de un proceso transparente, a partir de una lista de empresas consultoras acordadas previamente entre la Comisión y la Empresa.
+
+Si la licitación es declarada desierta, y la Superintendencia determina que dicha situación es imputable a la Empresa, ésta deberá retribuir mensualmente, a los propietarios de las centrales generadoras afectadas, un monto equivalente al mayor costo de despacho de generación en que ellos incurran por congestión debida a la limitación de capacidad en los tramos del sistema troncal que correspondan, a consecuencia del atraso del Proyecto, tomando como referencia los plazos de entrada en operación correspondientes y establecidos en el número 1.4 del presente decreto.
+
+El monto mensual máximo a pagar por la Empresa por este concepto, no podrá ser superior a una suma equivalente a cinco veces el valor mensual del tramo correspondiente. El monto mensual y los propietarios de las centrales generadoras a que se refiere el inciso anterior, serán determinados por el Centro de Despacho Económico de Carga del Sistema Interconectado Central, en adelante e indistintamente el "CDEC-SIC", a través de su Dirección de Peajes.
+
+3.2.8 Antecedentes para la Realización del Proyecto
+
+El CDEC-SIC deberá otorgar en tiempo y forma todas las facilidades y antecedentes que se requieran y se consideren necesarios para la adecuada ejecución y construcción del Proyecto.
+
+3.3 Valor de inversión, costo de operación, mantenimiento y administración, y remuneración de las ampliaciones
+
+Las ampliaciones de instalaciones troncales existentes, serán remuneradas conforme a las disposiciones generales sobre peajes previstas en el DFL Nº 4.
+
+Para efectos de la elaboración de las Bases, el V.I. referencial señalado en el número 1.5 del presente decreto, deberá ser actualizado conforme a la aplicación de las fórmulas señaladas en su número 2, considerando como el mes k, la fecha de publicación de las Bases de Licitación correspondientes.
+
+La Empresa deberá señalar en las Bases, que el V.I. del Proyecto no podrá exceder en más de un 15% del V.I. referencial indicado en ellas. Las ofertas que excedan dicho porcentaje serán declaradas fuera de Bases.
+
+El valor definitivo del V.I. será el que resulte de la licitación efectuada por la empresa propietaria y será fijado para todos sus efectos de acuerdo a lo señalado en el inciso sexto del artículo 94º del DFL Nº 4.
+
+El COMA se determinará utilizando la misma proporción entre los valores de COMA y V.I.
+
+señalados como referenciales en el presente decreto, sobre el valor definitivo del V.I.
+
+fijado para el Proyecto.
+
+La anualidad del valor de inversión (AVI) se determinará utilizando la misma proporción entre los valores base de AVI y VI señalados en el número 1.3.1 del artículo primero del decreto Nº 282, de fecha 10 de septiembre de 2007 del Ministerio, para la obra de ampliación del presente decreto, sobre el valor definitivo del VI fijado para la presente ampliación.
+
+Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Hugo Lavados Montes, Ministro de Economía, Fomento y Reconstrucción.
+
+Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Eduardo Escalona Vásquez, Subsecretario de Economía, Fomento y Reconstrucción (S).
