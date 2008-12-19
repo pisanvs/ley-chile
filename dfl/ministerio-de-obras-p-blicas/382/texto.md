@@ -404,6 +404,8 @@ Normas Generales
 
 El prestador estará obligado a prestar servicio a quien lo solicite, sujeto a las condiciones establecidas en la ley y su reglamentación, y, en su caso, en el respectivo decreto de concesión. En caso de discrepancias entre el prestador y el interesado en lo que se refiere a dichas condiciones, éstas serán resueltas por la entidad normativa, a través de resolución fundada, pudiendo incluso modificar el programa de desarrollo del prestador sin que ello represente daño emergente para éste.
 
+Al prestador no le serán aplicables las disposiciones del Título II del decreto con fuerza de ley N° 70, de 1988, del Ministerio de Obras Publicas, "De los aportes de financiamiento reembolsables", cuando se trate de proyectos habitacionales de viviendas sociales de hasta 750 unidades de fomento, que se financien en todo o en parte con subsidios otorgados por el Ministerio de Vivienda y Urbanismo.
+
 #### Artículo 33º
 
 A.- Sin perjuicio de lo dispuesto en el artículo 22º, cada vez que exista la necesidad de asegurar la provisión del servicio sanitario en determinadas zonas dentro del límite urbano, la Superintendencia deberá efectuar la respectiva licitación pública, no pudiendo excusarse de hacerlo cuando así lo requiera el Ministro de la Vivienda y Urbanismo respecto de las áreas urbanas, fundado en la necesidad de cumplir sus políticas, planes y programas relativos a viviendas sociales o subsidiadas, hasta 750 unidades de fomento.
@@ -427,6 +429,22 @@ En ese caso, la Superintendencia podrá establecer en las respectivas bases que 
 B.- Para efectos de lo dispuesto en el inciso segundo del artículo anterior, las nuevas áreas de concesión deberán ser comunicadas al prestador al inicio del proceso de fijación de tarifas establecido en el decreto con fuerza de ley Nº 70, de 1988, del Ministerio de Obras Públicas, de manera de considerar oportuna y adecuadamente el efecto de la ampliación del área de concesión en las tarifas del servicio.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, la Superintendencia podrá, por causa fundada, exigir la ampliación del área de servicio en una fecha intermedia a los períodos de fijación tarifaria. En este caso, se establecerán tarifas para la nueva área, las que regirán junto con la entrada en operación de la ampliación. Dichas tarifas tendrán vigencia hasta el término del período en curso y deberán permitir al prestador generar los ingresos requeridos para cubrir los costos incrementales de explotación eficiente y de inversión de su proyecto de expansión optimizado para la nueva área de servicio, sin perjuicio de los eventuales aportes de terceros.
+
+#### Artículo 33°
+
+C.- Tratándose de proyectos de viviendas sociales a que se refiere el inciso segundo del artículo 33°, a ejecutarse dentro del límite urbano o de extensión urbana, pero fuera del territorio operacional, cualquier concesionario podrá comprometerse con el urbanizador a cargo de ese proyecto, a presentar, dentro del plazo de 30 días contado desde la fecha del convenio, una solicitud de nueva concesión o ampliación de ella. Celebrado el convenio, el postulante a concesionario que lo suscribió deberá certificar la factibilidad de servicio. La factibilidad otorgada será válida para todos los efectos legales, aun cuando en definitiva sea otro prestador el que se adjudique la concesión. El concesionario que habiendo suscrito el convenio a que se refiere este artículo, no presentare la solicitud de concesión ante la Superintendencia dentro del plazo fijado, incurrirá en una infracción administrativa que será sancionada de acuerdo a los montos que establece la letra e), del inciso primero, del artículo 11 de la ley N° 18.902, sin perjuicio de su responsabilidad contractual.
+
+La suscripción del convenio no puede significar cobros de ninguna especie y su propósito es permitir otorgar la factibilidad de servicio que exigen las normas correspondientes para el desarrollo de los proyectos sociales a que se refiere el inciso segundo del artículo 33°.
+
+Cuando sea necesario para mantener el mismo nivel tarifario del área contigua en el área que se solicita en ampliación, determinadas obras de capacidad podrán ser asumidas por los interesados y se considerarán aportes de terceros. Este aspecto deberá consignarse en los convenios respectivos.
+
+Cualquier discrepancia en relación con la aplicación de este artículo será resuelta por la Superintendencia de Servicios Sanitarios.
+
+#### Artículo 33°
+
+D.- En caso que no sea posible obtener la suscripción de los convenios a que se refiere el artículo 33° C, el Ministerio de Vivienda y Urbanismo, dando cuenta de esta situación, solicitará a la Superintendencia de Servicios Sanitarios la licitación prevista en el artículo 33° A.
+
+En estos casos, el acto público a que se refiere el artículo 14º de esta ley deberá efectuarse dentro del plazo de 60 días contado desde la publicación del llamado a licitación, y los postulantes deberán otorgar la factibilidad de servicio solicitada en dicho acto público. Si no hubiere interesados, la Superintendencia deberá pronunciarse dentro del plazo de 15 días sobre la procedencia de ampliación forzada y, en dicho caso, el concesionario afectado deberá otorgar la factibilidad en un plazo de 15 días contado desde la notificación de la Superintendencia.
 
 #### Artículo 34°
 
