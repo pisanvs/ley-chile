@@ -1,0 +1,9 @@
+CERTIFICA CUMPLIMIENTO DE LAS DEMÁS OBRAS CORRESPONDIENTES AL PROYECTO INTEGRAL DE LA SOCIEDAD OPERADORA CASINO DE COLCHAGUA S.A. EN LA COMUNA DE SANTA CRUZ
+
+El Superintendente de Casinos de Juego, Sr. Francisco Javier Leiva Vega, de conformidad con lo dispuesto en el artículo 28 de la ley Nº 19.995 y el artículo 37 del decreto supremo Nº 211, de 2005, Ministerio de Hacienda, hoy viernes 28 de noviembre de 2008 certifica lo siguiente:
+
+1. Casino de Colchagua S.A. ha dado cumplimiento a las obligaciones que la ley Nº19.995 y sus reglamentos establecen para dar inicio a las operaciones de las demás obras e instalaciones que forman parte del proyecto integral que le fuera autorizado y que ha sido desarrollado conforme a las condiciones establecidas en el permiso de operación otorgado a través del acuerdo Nº3 del acta de la sesión del Consejo Resolutivo de la Región del Libertador General Bernardo O'Higgins el 21 de diciembre de 2006, y de la resolución exenta Nº 346, de fecha 27 de diciembre de 2006, de la Superintendencia de Casinos de Juego, y sus modificaciones posteriores.
+
+2. A contar de la fecha del presente certificado, y sin perjuicio de su posterior publicación en el Diario Oficial, la sociedad Inversiones Colchagua S.A. se encuentra habilitada para dar inicio a la operación del servicio de cafetería/salón de té y el centro comercial; la sociedad Hotel Santa Cruz Plaza S.A. se encuentra habilitada para dar inicio a la operación de las nuevas 28 habitaciones del hotel, el spa, el gimnasio, la guardería infantil y la Oficina de Operador Turístico; y la sociedad Almacruz Comercializadora Limitada se encuentra habilitada para dar inicio a la operación de la tienda temática, obras e instalaciones comprendidas en el proyecto integral de la sociedad operadora Casino de Colchagua S.A.
+
+Francisco Javier Leiva Vega, Superintendente de Casinos de Juego.
