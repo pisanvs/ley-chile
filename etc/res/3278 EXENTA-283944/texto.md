@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.278, de 17 de diciembre de 2008, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº204104019, presentada por JUAN ALFONSO HUENANTE HUIRIMILLA, para instalar y operar un centro de cultivo ubicado en canal Quihua, al sureste de Punta Llaca, Isla Quihua, X Región.
+
+Valparaíso, 17 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
