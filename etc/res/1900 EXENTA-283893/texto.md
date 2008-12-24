@@ -1,0 +1,69 @@
+AMPLÍA AUTORIZACIÓN A INGCER LTDA., COMO LABORATORIO DE ENSAYOS PARA LOS PRODUCTOS ELÉCTRICOS QUE INDICA
+
+Núm. 1.900 exenta.- Santiago, 5 de diciembre de 2008.- Visto: Lo dispuesto en la ley Nº 18.410, Orgánica de esta Superintendencia; el decreto supremo Nº 298, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba el reglamento para la certificación de productos eléctricos y de combustibles; y la resolución Nº 1.600, de 2008, de la Contraloría General de la República, sobre exención del trámite de toma de razón.
+
+Considerando:
+
+1º Que mediante carta SEC-332 de fecha
+
+16.09.2008, la empresa Ingcer Ltda., RUT 78.815.840-8, ingresó a esta Superintendencia una solicitud para ser autorizada como Laboratorio de Ensayos de productos eléctricos.
+
+2º Que mediante documento LE 668 de fecha 24.12.2007, el Instituto Nacional de Normalización, INN, aprobó su acreditación de acuerdo a NCh-ISO 17025 Of2005, como Laboratorio de Ensayos, en el área de productos eléctricos.
+
+3º Que Ingcer Ltda. cumple con los requisitos establecidos en la legislación vigente, tanto del personal y profesionales, como la infraestructura requerida para ser autorizado como Laboratorio de Ensayos de productos eléctricos.
+
+4º Que los antecedentes presentados por Ingcer Ltda., cumplen con lo indicado en el artículo 14º, Capítulo VI, del DS Nº298, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, Resuelvo:
+
+1º Amplíase la autorización a la empresa Ingcer Ltda., RUT: 78.815.840-8, con domicilio en Padre Orellana Nº1298, comuna de Santiago, representada por la Sra. Sandra Rodríguez Lara, como Laboratorio de Ensayos, para efectuar ensayos en sus instalaciones ubicadas en el domicilio precitado, a los productos eléctricos que se indican a continuación:
+
+1.1 Productos Eléctricos:
+
+Electrodomésticos
+
+Producto Protocolo Ensayos
+
+Aparatos para soldar
+
+láminas de uso doméstico PE 1-25 Todos
+
+Encendedores PE 1-25 Todos
+
+Herramientas de cortar
+
+plástico PE 1-25 Todos
+
+Herramientas de soldar
+
+conductos termoplásticos PE 1-25 Todos
+
+Herramientas marcadoras PE 1-25 Todos
+
+Herramientas para
+
+descornar PE 1-25 Todos
+
+Herramientas para
+
+soldar conductos PE 1-25 Todos
+
+Pistola de soldadura PE 1-25 Todos
+
+Pistolas calefactoras PE 1-25 Todos
+
+Pistolas de pegamento PE 1-25 Todos
+
+Planchas desoldadoras PE 1-25 Todos
+
+Puntas incandescentes PE 1-25 Todos
+
+Removedores de pintura PE 1-25 Todos
+
+Tenazas removedoras PE 1-25 Todos
+
+2º Esta resolución será válida para ejercer las funciones de ensayos de los productos precitados, con la infraestructura y los recursos declarados por el solicitante y evaluados por esta Superintendencia.
+
+3º La presente resolución entrará en vigencia una vez que haya sido publicada en el Diario Oficial por cuenta del interesado.
+
+Anótese, notifíquese, publíquese y archívese.- Patricia Chotzen Gutiérrez, Superintendenta de Electricidad y Combustibles.
+
+Lo que comunico a Ud. para su conocimiento.- Saluda atentamente a Ud., Christian Miño Contreras, Jefe Depto. Administración y Finanzas.
