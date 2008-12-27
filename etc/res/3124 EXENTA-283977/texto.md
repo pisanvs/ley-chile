@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.124, de 1 de diciembre de 2008, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 3.613, de 2007 que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE para efectuar una pesca de investigación, conforme Términos Técnicos de Referencia del Proyecto "Caracterización de la pesquería de Algas Pardas de las Regiones XIV a IV", en el siguiente sentido de extender el período de ejecución de la presente pesca de investigación hasta el 30 de abril de 2009.
+
+Valparaíso, 1 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
