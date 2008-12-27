@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.224, de 11 de diciembre de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 3.068, de 2008, de esta Subsecretaría, que autorizó a la CORPORACIÓN PARA LA EDUCACIÓN, DESARROLLO E INVESTIGACIÓN DE LA PESCA ARTESANAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de parámetros biológicos y sociales de la pesquería artesanal de Anchoveta y Sardina común", elaborados por el peticionario y aprobados por esta Subsecretaría, en los siguientes términos:
+
+a) En su numeral 4, en el sentido de incorporar a la embarcación "Isaac" (RPA Nº 910399) en el listado de embarcaciones artesanales autorizadas a participar en la presente pesca de investigación;
+
+b) En su numeral 5, en el sentido de indicar que la embarcación artesanal antes indicada podrá capturar, durante el período y en el área marítima autorizada en la citada pesca de investigación, con red de cerco con malla anchovetera, los remanentes no capturados de las fracciones autorizadas a ser extraídas por la embarcación "Victoria II".
+
+Valparaíso, 11 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
