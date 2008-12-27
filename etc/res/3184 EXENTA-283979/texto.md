@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.184, de 9 de diciembre de 2008, de esta Subsecretaría, modifícase el numeral 3° de la resolución exenta N° 2.354 de 2008, rectificada mediante resolución exenta N° 2.445 de 2008, ambas de esta Subsecretaría de Pesca, que autorizó a la PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAÍSO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto "Evaluación de Langostino colorado en la unidad de pesquería sur, año 2008", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2008, inclusive.
+
+Valparaíso, 9 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
