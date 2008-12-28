@@ -180,7 +180,9 @@ Igual obligación afectará a toda persona que en su casa o establecimiento tuvi
 
 #### Artículo 21°
 
-Un Reglamento determinará las enfermedades transmisibles que deben ser comunicadas obligatoriamente a las autoridades sanitarias, así como la forma y condiciones de la notificación.
+Un reglamento determinará las enfermedades transmisibles que deben ser comunicadas obligatoriamente a las autoridades sanitarias, así como la forma y condiciones de la notificación.
+
+> **Nota.** El Decreto 158, Salud, publicado el 10.05.2005, estableció el Reglamento sobre Notificación de Enfermedades Transmisibles de Declaración Obligatoria.
 
 #### Artículo 22°
 
@@ -684,6 +686,8 @@ El Servicio Nacional de Salud tendrá a su cargo la recopilación y análisis de
 
 Las enfermedades profesionales serán notificadas por el médico que las constate, en la forma y condiciones que el Servicio Nacional de Salud establezca.
 
+También, deberá notificar las afecciones que puedan derivarse de intoxicaciones producidas por el uso de plaguicidas o productos fitosanitarios.
+
 #### Artículo 88°
 
 Corresponde exclusivamente al Servicio Nacional de Salud determinar en cada caso las incapacidades permanentes debidas a accidentes del trabajo o enfermedades profesionales.
@@ -708,7 +712,7 @@ b) la protección de la salud, seguridad y bienestar de los ocupantes de edifici
 
 > **Nota.** Véase el Decreto 32, Salud, D.O. 24.05.1990, que reglamenta el funcionamiento de fuentes emisoras de contaminantes atmosféricos en situaciones de emergencia por contaminación.
 
-> **Nota.** NOTA 1: Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza.
+> **Nota.** NOTA 1: Véanse el Decreto 144, Salud, publicado el 18.05.1961, que establece normas para evitar gases, vapores, polvos y contaminaciones ambientales de cualquiera naturaleza; y el Decreto 61, Salud, publicado el 19.11.2008, que aprueba el Reglamento de estaciones de medición de contaminantes atmosféricos.
 
 > **Nota.** NOTA 2: Véase el Decreto 594, Salud, publicado el 29.04.2000, vigente a contar de 365 días desde su publicación, que establece el Reglamento sobre Condiciones Sanitarias y Ambientales Mínimas en los lugares de trabajo.
 
@@ -728,9 +732,13 @@ El Director General de Salud queda facultado para controlar y prohibir en casos 
 
 Sin perjuicio de lo dispuesto en el artículo anterior, un reglamento establecerá las condiciones en que se podrá realizar la fabricación, importación, almacenamiento, envase, distribución, o expendio a cualquier título, manipulación, formulación, uso o aplicación, de los pesticidas para uso sanitario y doméstico, así como la manipulación de los que puedan afectar la salud del hombre.
 
+Un reglamento establecerá la forma en que tendrán lugar las fumigaciones aéreas; las condiciones y restricciones de seguridad para la salud de las personas; la forma y oportunidad en que deba informarse de su realización a los trabajadores y vecinos, y las medidas de resguardo necesarias para evitar el acceso del público y de los trabajadores al lugar afectado en los plazos que, al efecto, determine la Autoridad Sanitaria.
+
 #### Artículo 92°
 
-Todo producto destinado a ser aplicado en el medio ambiente con el objeto de combatir organismos capaces de producir daños en el hombre, animales, plantas, semillas y objetos inanimados, será considerado pesticida.
+Todo producto destinado a ser aplicado en el medio ambiente con el objeto de combatir organismos capaces de producir daños en el hombre, animales, plantas, semillas y objetos inanimados será considerado pesticida.
+
+Un reglamento establecerá los requisitos y las condiciones de seguridad que deban cumplir los establecimientos de expendio de pesticidas.
 
 #### Artículo 93°
 
@@ -788,7 +796,7 @@ El Ministerio de Salud Pública aprobará, previo informe de sus Unidades Técni
 
 El Director General de Salud dispondrá las medidas necesarias para que la población y los servicios que presten atención médica se encuentren permanentemente abastecidos de los productos farmacéuticos que componen el Formulario Nacional de Medicamentos.
 
-> **Nota.** Véase los siguientes decretos del Ministerio de Salud:1.- Decreto 264, publicado el 16.03.2004, que fija el Reglamento del Formulario Nacional de Medicamentos.2.- Decreto 102, publicado el 09.09.1996, que aprueba el Reglamento del Sistema Nacional de Control de Productos Farmaceúticos.
+> **Nota.** Véase los siguientes decretos del Ministerio de Salud:1.- Decreto 264, publicado el 16.03.2004, que fija el Reglamento del Formulario Nacional de Medicamentos.2.- Decreto 194, publicado el 10.03.2006, que aprueba el Formulario Nacional.3.- Decreto 102, publicado el 09.09.1996, que aprueba el Reglamento del Sistema Nacional de Control de Productos Farmaceúticos.
 
 #### Artículo 101
 
@@ -1005,6 +1013,12 @@ Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza di
 Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas médicas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
 
 > **Nota.** Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Óptica.
+
+#### Artículo 128 bis
+
+Autorízase la fabricación, venta y entrega, sin receta médica, de lentes con fuerza dióptrica sólo esférica e igual en ambos ojos, sin rectificación de astigmatismo, destinados a corregir problemas de presbicia en personas mayores de cuarenta años.
+
+La venta o entrega de dichos lentes deberá acompañarse de una advertencia sobre la conveniencia de una evaluación oftalmológica que permita prevenir riesgos para la salud ocular.
 
 #### Artículo 129°
 
