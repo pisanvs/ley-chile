@@ -19290,7 +19290,9 @@ Los bancos podrán prestar servicios, bajo las condiciones que se indican en el 
 
 - **b)** Sucursales y filiales en el exterior de que trata el Capítulo 11-7 y,
 
-- **c)** Empresas bancarias del país o del exterior, relacionadas por propiedad con una institución financiera establecida en Chile. En este último caso, se requerirá una autorización previa de esta Superintendencia.
+- **c)** Empresas bancarias del país o del exterior, así como empresas establecidas en Chile, relacionadas por propiedad con la institución financiera prestadora del servicio, que desarrollen alguno de los giros autorizados en la letra
+
+- **a)** del artículo 70 de la Ley General de Bancos o el giro de asesoría previsional de conformidad con el artículo 173 del D.L. N° 3.500. En el caso de la prestación de servicios a bancos del exterior, se requerirá una autorización previa de esta Superintendencia.
 
 ### 2. Servicios que pueden contratar las instituciones bancarias
 
