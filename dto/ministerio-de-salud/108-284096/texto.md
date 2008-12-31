@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 108, DE 2008, QUE APRUEBA CONVENIO ENTRE SERVICIO DE SALUD VALPARAÍSO - SAN ANTONIO Y LA I. MUNICIPALIDAD DE SAN ANTONIO, SOBRE TRASPASO DE ESTABLECIMIENTOS ASISTENCIALES QUE INDICA
+
+Por decreto supremo Nº 108, de 15 de diciembre de 2008, del Ministerio de Salud, apruébase el convenio celebrado con fecha 1º de diciembre de 2008, entre el Servicio de Salud Valparaíso - San Antonio y la I. Municipalidad de San Antonio, sobre traspaso de los consultorios generales urbanos "Barrancas" y "San Antonio" a los que hace aplicables, en lo que proceda y mantenga su vigencia, las cláusulas del convenio celebrado entre las mismas partes, aprobado por decreto Nº 694 de 1987, de Salud, y sus modificaciones posteriores. A contar de la fecha de vigencia del convenio se entienden suprimidos los cargos del personal que se desempeña en el establecimiento asistencial que se traspasa, los cuales se individualizan en nómina; personal que se regirá a contar de esa fecha por la ley Nº 19.378 y su normativa complementaria.
+
+El convenio que se aprueba por el presente decreto entrará en vigencia a contar del día primero del mes siguiente a la fecha del decreto que lo apruebe.
+
+Otras disposiciones constan en convenio y decreto que se extracta.- Julio Montt Vidal, Subsecretario de Redes Asistenciales.
