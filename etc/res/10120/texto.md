@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.120, 09 diciembre 2008, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Rancagua Nº 140, Pedro de Valdivia Bajo, Rol de Avalúo Nº 1103-25, comuna de Concepción, superficie 21,50 m2 de terreno, obras complementarias y especies vegetales dentro de polígono y linderos señalados plano de expropiación S8R-22.237, de aparente dominio de Aurora del Carmen Tapia Norambuena, para ejecución del proyecto Programa de Recuperación de Barrios-Pedro de Valdivia, comuna de Concepción, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Rubén Muñoz Vera, arquitecto, Juan Pablo Cuevas, constructor civil y Guillermo Villafañe Feres, arquitecto, según informe de fecha 28 de noviembre 2008, fijó monto provisional indemnización en $698.064.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
