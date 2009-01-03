@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.518, 19 diciembre 2008, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Daniel Belmar 348 B, sector Boca Sur, Rol de avalúo Nº 15095-6, comuna de San Pedro de la Paz, superficie 1.264,24 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-22.277, de aparente dominio de Kehr Duhart Sandra E y Ots, para ejecución del proyecto Programa de Recuperación de Barrios-Barrio Boca Sur, comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión peritos integrada por Rubén Muñoz Vera, arquitecto; Omar Aspé Neira, constructor civil, y María Alejandra Gutiérrez Flores, arquitecta, según informe de fecha 1 de diciembre 2008, fijó monto provisional indemnización en $3.640.022, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
