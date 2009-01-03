@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Exento Nº 1348 de 28 de noviembre de 2008, se expropió el lote de terreno Nº 10, superficie 37 m2, rol de Avalúo E/T, comuna de Monte Patria, para la obra "Reposición Varios Puentes IV Región, sector Puentes Ponio I y II", IV Región y se acordó el valor de la indemnización con su propietario Comité de Agua Potable Rural Flor del Valle - Agua Chica, ascendente a la cantidad de $863.580.
+
+- Fiscal del Ministerio de Obras Públicas.
