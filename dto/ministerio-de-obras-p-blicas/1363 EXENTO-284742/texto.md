@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 1363 de fecha 28 de noviembre del 2008, se expropió el lote de terreno Nº 32, superficie 461,72 m2, Rol Nº 179-01, comuna de Zapallar, V Región para la obra "Reposición Ruta E-30-F, Sector Zapallar-La Laguna de Km. 22,80733 a Km. 36,23097", y se acordó el valor de indemnización con su propietaria Carmen Gloria Vicuña Ureta ascendente a la cantidad de $28.630.966. para el lote Nº 32.
+
+Fiscal del Ministerio de Obras Públicas.
