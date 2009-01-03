@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.329, 15 diciembre 2008, Serviu Región del Bío Bío, ordenó expropiación parcial de facultades de uso y goce de inmueble denominado La Quinta, Rol de Avalúo Nº 1532-40, comuna de Los Ángeles, superficie 659,08 m² de terreno, dentro de polígono y linderos señalados planos de expropiación S8R-22.308, de aparente dominio de Ortiz Ortiz Enrique Suc., para ejecución del proyecto "Mejoramiento Accesos a la ciudad de Santa María de Los Ángeles-Av. Alemania", comuna de Los Ángeles, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Claudia Marzullo García, arquitecta, Cecilia Carrasco Verdugo, arquitecta y Mario Bellolio Bosticca, arquitecto, según informe de fecha 1 de diciembre 2008, fijó monto provisional indemnización en $20.365.572.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
