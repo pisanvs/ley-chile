@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1325 de fecha 28 de noviembre del 2008, se expropió el lote de terreno Nº41 superficie 162 m2, Rol Nº 5010-275, comuna de Copiapó, III Región para la obra "Concesión Ruta 5 Norte Tramo Vallenar - Caldera Sector: Fin By-Pass a Copiapó Caldera Km. 824.100,00 al Km. 888.700,00" y se acordó el valor de indemnización con su propietario GALO HUMBERTO FIGUEROA MIRANDA, ascendente a la cantidad de $316.850.
+
+- Fiscal del Ministerio de Obras Públicas.
