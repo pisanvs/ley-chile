@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución 432, 14 noviembre 2008, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en Rancagua Nº 50, Pedro de Valdivia Bajo, Rol de Avalúo Nº 1103-14, comuna de Concepción, superficie 1.075,10 m² de terreno y 552,2 m² de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-22.226, de aparente dominio de Ferrocarriles del Estado, para ejecución del proyecto Programa de Recuperación de Barrios-Pedro de Valdivia, comuna de Concepción, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Omar Aspé Neira, constructor civil, Rubén Muñoz Vera, arquitecto, y Guillermo Villafañe Feres, arquitecto, según informe de fecha 03 de noviembre 2008, fijó monto provisional indemnización en $86.244.423.-, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
