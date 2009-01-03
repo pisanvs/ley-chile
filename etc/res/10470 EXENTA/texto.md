@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.470, 18 diciembre 2008, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en Esmeralda Nº 157, Pedro de Valdivia Bajo, Rol de avalúo Nº 1103-11, comuna de Concepción, superficie 349,00 m2 de terreno y 122,7 m2 de edificación, obras complementarias y especies vegetales dentro de polígono y linderos señalados plano de expropiación S8R-22.215, de aparente dominio de Suc. Orlando Badilla Muñoz, para ejecución del proyecto Programa de Recuperación de Barrios-Pedro de Valdivia, comuna de Concepción, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión peritos integrada por María Pamela Mac-Guire Acevedo, arquitecta; Omar Aspé Neira, constructor civil, y Guillermo Villafañe Feres, arquitecto, según informe de fecha 9 de diciembre 2008, fijó monto provisional indemnización en $30.299.711, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
