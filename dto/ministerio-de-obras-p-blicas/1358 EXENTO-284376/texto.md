@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.358, de fecha 28 de noviembre del 2008, se expropiaron los lotes de terrenos Nos 18 y 19, superficies 476 y 626 m² respectivamente, Rol N° 432-084, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel-Caren", y se acordó el valor de indemnización con su propietaria María Sonia Gálvez Zárate, ascendente a la cantidad de $1.438.215.
+
+- Fiscal del Ministerio de Obras Públicas.
