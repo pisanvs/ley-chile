@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 1362 de fecha 28 de noviembre del 2008, se expropió el lote de terreno Nº 8, superficie 494,05 m2, Rol Nº 301-130, comuna de Laja, VIII Región para la obra "Camino Hualqui - San Rosendo - Laja, sector Puente Laja y Accesos, Km. 0,00000 al Km. 2,67500" , y se acordó el valor de indemnización con su propietaria Teresa de Jesús Cornes Vásquez, ascendente a la cantidad de $16.844.623.- para el lote Nº 8.
+
+- Fiscal del Ministerio de Obras Públicas.
