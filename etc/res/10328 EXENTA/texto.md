@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.328, 15 diciembre 2008, Serviu Región del Bío Bío, ordenó expropiación parcial de facultades de uso y goce de inmueble ubicado en Av. Alemania Nº 463 Int Villa Montecea, Rol de Avalúo Nº 452-24, comuna de Los Ángeles, superficie 45,14 m² de terreno y 60,42 m² de edificación, dentro de polígono y linderos señalados planos de expropiación S8R-22.311 y S8R-22.311-1, de aparente dominio de Illesca Pincheira Fresia C., para ejecución del proyecto "Mejoramiento Accesos a la ciudad de Santa María de Los Ángeles-Av. Alemania" comuna de Los Ángeles, conforme artículo 51 Ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Claudia Marzullo García, arquitecta, Cecilia Carrasco Verdugo, arquitecta y Mario Bellolio Bosticca, arquitecto, según informe de fecha 1 de diciembre 2008, fijó monto provisional indemnización en $1.534.084, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
