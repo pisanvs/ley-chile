@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.353, de fecha 28 de noviembre del 2008, se expropió el lote de terreno N° 8, superficie 160 m², Rol N° 189-58, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura-Límite Regional, Tramo II, Km. 10,50000 al Km. 18,60807, VIII Región.", y se acordó el valor de indemnización con su propietaria MARCELA ALEJANDRA VERA ESPINOZA, ascendente a la cantidad de $1.670.449.
+
+- Fiscal del Ministerio de Obras Públicas.
