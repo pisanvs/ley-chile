@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº2.111, de fecha 28 de noviembre de 2008, Dirección Regional Serviu Región de Los Lagos ordenó expropiación lote de terreno Nº27 para ejecución de la obra "Mejoramiento Avenida Manuel Rodríguez, Osorno", Provincia de Osorno, Región de Los Lagos, que figura a nombre de Oyarzún Rosas Marcelo y Otros, Rol de avalúos según SII N°229-6, comuna de Osorno, superficie 23,50 metros cuadrados. La comisión de peritos, integrada por los Sres. Carlos Eugenio Mera Santibáñez, Jorge Max Nusser Arend y Raúl Alejandro Palma Larrea, designados por resolución exenta N° 1.672, de fecha 6 de noviembre de 2007, fijó con fecha 14 de noviembre de 2007 el valor provisional de la indemnización, actualizado a octubre de 2008, en la suma de $2.683.554. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.
+
+- Director Regional Serviu Región de Los Lagos.
