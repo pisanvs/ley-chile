@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.356, de fecha 28 de noviembre del 2008, se expropió el lote de terreno N° 22, superficie 47 m², Rol N° 19-16, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle-Hurtado, Sector Samo Alto Pichasca.", y se acordó el valor de indemnización con su propietario Eddy Cecilia Valdivia Cisternas, ascendente a la cantidad de $326.605.
+
+Fiscal del Ministerio de Obras Públicas.
