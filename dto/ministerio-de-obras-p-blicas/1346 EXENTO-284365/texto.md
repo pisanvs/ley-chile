@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº 1346 de 28 de noviembre de 2008, se expropiaron los lotes de terrenos Nºs. 58, 59, 60, 61, 62 y 63, superficies 219, 3.087, 2.660, 1.724, 735 y 69 m2., rol de avalúo 5002-178, comuna de Copiapó, para la obra "CONCESION RUTA 5 NORTE TRAMO: VALLENAR - CALDERA SECTOR: FIN BY-PASS A COPIAPO-CALDERA KM. 824.100,00 AL KM. 888.700,00". III Región, se acordó el valor de la indemnización con su propietario Antonio Gonzalo Cerviño Arévalo, ascendente a la cantidad de $6.537.929.-.
+
+Fiscal del Ministerio de Obras Públicas.
