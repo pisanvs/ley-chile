@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.106 de fecha 28 de noviembre del 2008, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº52 para ejecución de la Obra "Mejoramiento Avenida Manuel Rodríguez, Osorno", Provincia de Osorno, Región de Los Lagos, que figura a nombre de Cuerpo de Bomberos de Osorno, rol de avalúos según SII N°231-9, comuna de Osorno, superficie 44 metros cuadrados. La comisión de Peritos integrada por los Sres. Leopoldo Schumacher Guarda, Nelson Bernardo Turra Turra y Juan Samuel Barrientos Bahamonde designados por resolución exenta N° 1.673 de fecha 06 de noviembre del 2007, fijó con fecha 14 de noviembre del 2007, el valor provisional de la indemnización, actualizado a octubre de 2008 en la suma de $6.426.424. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N°2.186.
+
+Director Regional Serviu Región de Los Lagos.
