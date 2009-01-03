@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1349 de 28 de noviembre de 2008, se expropió el lote de terreno Nº 51, superficie 120 m2, rol de Avalúo 18-200, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietaria Celinda del Rosario Jeraldo Rojas, ascendente a la cantidad de $207.368.
+
+Fiscal del Ministerio de Obras Públicas.
