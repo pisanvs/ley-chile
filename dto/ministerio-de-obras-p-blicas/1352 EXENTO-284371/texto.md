@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1352 de 28 de noviembre de 2008, se expropió el lote de terreno Nº 16, superficie 29 m2, rol de Avalúo E/T, comuna de Río Hurtado, para la obra "CONSERVACION CAMINO 64E763 SAN PEDRO - BOSQUE PETRIFICADO DE PICHASCA", IV Región y se acordó el valor de la indemnización con su propietaria MARIA ISABEL MILLA, ascendente a la cantidad de $178.634.
+
+- Fiscal del Ministerio de Obras Públicas.
