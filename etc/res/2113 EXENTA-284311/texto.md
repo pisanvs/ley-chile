@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº2113 de fecha 28 de noviembre del 2008, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno N° 31 para ejecución de la Obra "Mejoramiento Avenida Manuel Rodríguez, Osorno", Provincia de Osorno, Región de Los Lagos, que figura a nombre de Cooperatica Agrícola y de Servic, rol de avalúos según SII Nº200-22, comuna de Osorno, superficie 53,7 metros cuadrados. La comisión de Peritos integrada por los Sres. Carlos Eugenio Mera Santibáñez, Jorge Max Nusser Arend y Raúl Alejandro Palma Larrea designados por resolución exenta N° 1672 de fecha 06 de noviembre del 2007, fijó con fecha 06 de noviembre del 2007, el valor provisional de la indemnización, actualizado a octubre de 2008 en la suma de $4.289.402. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.
+
+Director Regional Serviu Región de Los Lagos.
