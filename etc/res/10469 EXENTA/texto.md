@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.469, 18 diciembre 2008, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en El Esfuerzo Nº 246 Lt. B Michaihue, sector Boca Sur, Rol de avalúo Nº 15774-3, comuna de San Pedro de la Paz, superficie 484,84 m2 de terreno y 188 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-22.276, de aparente dominio de Dulcedina del Tr Riquelme Castro, para ejecución del proyecto Programa de Recuperación de Barrios-Barrio Boca Sur, comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Rubén Muñoz Vera, arquitecto; Omar Aspé Neira, constructor civil, y Alejandra Gutiérrez Flores, arquitecta, según informe de fecha 1 de diciembre 2008, fijó monto provisional indemnización en $56.692.473, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
