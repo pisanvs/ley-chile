@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1361 de fecha 28 de noviembre del 2008, se expropió el lote de terreno Nº39-A, superficie 1.393 m2, Rol Nº 576-191, comuna de Saavedra, IX Región para la obra "Camino Ruta Lafquenche, Sector Puente Budi - Puente Chelle Km. 0,54000 a Km. 8,22000, Provincia de Cautín, comuna de Saavedra, IX Región" y se acordó el valor de indemnización con su propietario Alfredo Anibal Opazo Robles Y Otros, ascendente a la cantidad de $9.682.310.- para el lote Nº 39-A.
+
+- Fiscal del Ministerio de Obras Públicas.
