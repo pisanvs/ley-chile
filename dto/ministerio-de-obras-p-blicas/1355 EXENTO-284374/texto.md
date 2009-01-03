@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.355, de fecha 28 de noviembre del 2008, se expropió el lote de terreno N° 17, superficie 35 m², Rol N° 102-39, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui-Horcón", y se acordó el valor de indemnización con su propietaria Ilia Violeta del Carmen Pizarro Pizarro, ascendente a la cantidad de $286.174.
+
+- Fiscal del Ministerio de Obras Públicas.
