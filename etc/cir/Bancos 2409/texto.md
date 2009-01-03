@@ -10308,7 +10308,7 @@ c) Exposiciones de créditos contingentes netas de provisiones, con excepción d
 
 2.5. Categoría 5.
 
-En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total a que se refiere el N° 1 de este título II, menos los montos del activo que deben deducirse para determinar el patrimonio efectivo según lo previsto en las letras c), d) y e) del numeral 3.1.1 del título I de este Capítulo y menos los importes de los activos clasificados en las categorías anteriores.
+En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores, con excepción del activo correspondiente a "Documentos a cargo de otros bancos (canje)", el que se asignará a la Categoría 1. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total a que se refiere el N° 1 de este título II, menos los montos del activo que deben deducirse para determinar el patrimonio efectivo según lo previsto en las letras c), d) y e) del numeral 3.1.1 del título I de este Capítulo y menos los importes de los activos clasificados en las categorías anteriores.
 
 3.- Equivalente de crédito de los instrumentos derivados.
 
@@ -10386,7 +10386,7 @@ Mientras no entren en vigor las normas del Capítulo B-1 del Compendio de normas
 
 ### 3. Créditos contingentes
 
-Las normas sobre las exposiciones de los créditos contingentes a que se refiere la letra b) del N° 1 del título II de este Capítulo, también se comenzarán a aplicar una vez que entren en vigor las disposiciones del Capítulo B-1 del Compendio de Normas Contables. Mientras ello no ocurra, se computará dentro de los activos que se ponderarán por riesgo en las distintas categorías, el monto total de los tipos de créditos contingentes que al 31 de diciembre de 2007 aún debían informarse como "colocaciones contingentes", netos de sus respectivas provisiones calculadas de acuerdo al Capítulo 7-10 de esta Recopilación
+Las normas sobre las exposiciones de los créditos contingentes a que se refiere la letra b) del N° 1 del título II de este Capítulo, se aplicarán a contar del 31 de enero de 2009. Antes de esa fecha, se computará dentro de los activos que se ponderarán por riesgo en las distintas categorías, el monto total de los tipos de créditos contingentes que al 31 de diciembre de 2007 aún debían informarse como "colocaciones contingentes", netos de sus respectivas provisiones calculadas de acuerdo al Capítulo 7-10 de esta Recopilación.
 
 CAPITULO 12-3 (Bancos y Financieras)
 
