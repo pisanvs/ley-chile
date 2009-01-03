@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.468, 18 diciembre 2008, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Michaihue Nº 120, Michaihue San Pedro, Rol de avalúo Nº 15774-1, comuna de San Pedro de la Paz, superficie 1.264,24 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-22.273, de aparente dominio de Agrícola y Forestal Chirre Limit, para ejecución del proyecto Programa de Recuperación de Barrios-Barrio Boca Sur, comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión peritos integrada por Rubén Muñoz Vera, arquitecto; Omar Aspé Neira, constructor civil, y Alejandra Gutiérrez Flores, arquitecta, según informe de fecha 1 de diciembre 2008, fijó monto provisional indemnización en $6.319.965, pagadera de contado.
+
+- Director Serviu Región del Bío Bío.
