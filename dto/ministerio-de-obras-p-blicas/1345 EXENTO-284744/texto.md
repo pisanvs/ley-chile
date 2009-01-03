@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº 1.345 de 28 de noviembre de 2008, se expropió el lote de terreno Nº 46, superficie 1.377 m², rol de avalúo 5002-9, comuna de Copiapó, para la obra "CONCESIÓN RUTA 5 NORTE TRAMO: VALLENAR-CALDERA SECTOR: FIN BY-PASS A COPIAPÓ - CALDERA KM. 824.100,00 AL KM. 888.700,00". III Región, se acordó el valor de la indemnización con su propietaria DELCY ERCILIA DEL CARMEN PIAZZOLI CABRERA, ascendente a la cantidad de $3.502.655.
+
+Fiscal del Ministerio de Obras Públicas.
