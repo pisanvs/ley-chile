@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.357, de fecha 28 de noviembre del 2008, se expropió el lote de terreno N° 13, superficie 13 m², Rol N° 20-4, comuna de Río Hurtado, IV Región para la obra "Conservación Camino 64E763, San Pedro Bosque Petrificado de Pichasca", y se acordó el valor de indemnización con su propietario Luis Guillermo Guerrero Zapata, ascendente a la cantidad de $427.962.
+
+- Fiscal del Ministerio de Obras Públicas.
