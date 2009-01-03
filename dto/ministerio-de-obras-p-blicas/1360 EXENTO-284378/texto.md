@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 1360 de fecha 28 de noviembre del 2008, se expropió el lote de terreno Nº31-A, superficie 2.502 m2, Rol Nº 576-84, comuna de Saavedra, IX Región para la obra "Camino Ruta Lafquenche, Sector Puente Budi - Puente Chelle Km. 0,54000 a Km. 8,22000, Provincia de Cautín, comuna de Saavedra, IX Región" y se acordó el valor de indemnización con su propietario VICTOR SERGIO PAVEZ CARIPAN Y OTROS, ascendente a la cantidad de $4.733.050.- para el lote Nº 31-A.-
+
+Fiscal del Ministerio de Obras Públicas.
