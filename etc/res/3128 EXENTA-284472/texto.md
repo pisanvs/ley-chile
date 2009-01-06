@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.128, de 1 de diciembre de 2008, de esta Subsecretaría, modifícase la resolución exenta Nº 269 de 2008, modificada mediante resoluciones exentas Nº 835 y Nº 1.685, ambas de 2008, todas de esta Subsecretaría de Pesca que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de Congrio dorado (Genypterus blacodes) y Raya (Dipturus sp) en aguas interiores de la XII Región de Magallanes y Antártica Chilena, en el sentido de incorporar al numeral 5º, el siguiente inciso cuarto:
+
+"Asimismo, las capturas de Congrio dorado se imputarán a la fracción reservada a ser extraída con fines de investigación de la cuota global anual de captura de dicha especie autorizada mediante decreto exento Nº 1.786 de 2007, del Ministerio de Economía, Fomento y Reconstrucción, ascendente a 162 toneladas.".
+
+Valparaíso, 1 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
