@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.403, de 30 de diciembre de 2008, de esta Subsecretaría, rectificase el numeral 1.- letra a) de la resolución exenta N° 3.252 de 2008, que modificó la pesca de investigación autorizada mediante resolución exenta N° 442 de 2008, y modificaciones posteriores, todas de esta Subsecretaría, en el sentido de indicar que el nombre correcto de la embarcación artesanal allí indicada es "Oceani III", y no "Oceani I", como allí se indica.
+
+Valparaíso, 30 de diciembre de 2008. Jorge Chocair Santibáñez, Subsecretario de Pesca.
