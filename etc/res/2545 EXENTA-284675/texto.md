@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.545, 30 de septiembre de 2008, de esta Subsecretaría, autorízase a BEATRIZ DEL CARMEN MELLA CALDERÓN, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Hernando de Magallanes Nº 1830, Villa La Caleta, comuna de Pichilemu, VI Región, para elaborar en las líneas de proceso de Cocido, fresco enfriado, fresco refrigerado y congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 30 de septiembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
