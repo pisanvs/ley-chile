@@ -1,0 +1,3 @@
+Por resolución Nº 3.410, de 30 de diciembre de 2008, de esta Subsecretaría, declárase que con fecha 20 de octubre de 2008 han quedado sin efecto las resoluciones exentas Nº 2.136 de 1999, Nº 95 de 2001 y Nº 1.657 de 2001, todas de esta Subsecretaría, que autorizaron a PESQUERA PACÍFICO SUR S.A. para desarrollar actividades extractivas con la nave "Pacífico I", matrícula 1913, en virtud de lo dispuesto en el artículo 9º de la ley Nº 19.713 y en la escritura pública citada en Visto de la resolución extractada.
+
+Valparaíso, 30 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
