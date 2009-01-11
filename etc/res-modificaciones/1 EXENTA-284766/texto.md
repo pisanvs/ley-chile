@@ -1,0 +1,5 @@
+MODIFICA INSTRUCCIONES DE LLENADO DE DECLARACIÓN JURADA 1887 COMO SE INDICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 1 del 6 de enero de 2009, que establece obligación a las personas naturales o jurídicas que ejerzan o desarrollen una actividad empresarial, que hayan pagado rentas del artículo 42 Nº 1 de la Ley de la Renta, consistente únicamente en sueldos, sobresueldos, salarios y cualesquiera otras rentas similares; de informar al Servicio de Impuestos Internos la jornada laboral de sus trabajadores, individualizando por trabajador y en forma mensual, si han laborado a tiempo completo o parcial, entendiéndose por ello si supera o no las 30 horas semanales, respectivamente.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de enero, de 2009.
