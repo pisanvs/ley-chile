@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD AGRÍCOLA Y COMERCIAL FUTUROLAC
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. N° 5.080, de fecha 4 de diciembre de 2008, otorga a contar del 1° del mes siguiente de esta publicación, al contribuyente Sociedad Agrícola y Comercial Futurolac, RUT N° 76.658.510-8, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la comercialización de Pequeños Productores Agrícolas, establecido en la resolución exenta N° 3.721, del 28 de julio de 2008, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1° de agosto de 2000.
