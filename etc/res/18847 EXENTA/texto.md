@@ -1,0 +1,7 @@
+DELEGA FACULTAD PARA EFECTUAR CAMBIO DE NOMBRE EN EL ROL DE AVALÚOS, EFECTUAR CAMBIO DE DIRECCIÓN, CAMBIO DE RUT Y CORREGIR SI ÉSTAS ESTUVIERAN ERRADAS O CONFUSAS. ADEMÁS, OTORGAR CERTIFICADO DE AVALÚO EN GENERAL
+
+Por resolución exenta Nº 968, de 11 de marzo de 1992, se autorizó a los Directores Regionales atribuciones para delegar en esta materia. La resolución exenta Nº 2.410 de 25 de junio de 1992 y la resolución exenta Nº 20 de 16 de febrero de 2006, modifican la resolución anterior. Por lo que, se dicta nueva resolución exenta Nº 18.847 de fecha 1 de diciembre de 2008 que complementa y modifica las resoluciones exentas Nº3.024 de fecha 6 de mayo de 1992, de la Regional y la resolución exenta Nº 21 de fecha 1 de marzo de 2006, de la Dirección Nacional.
+
+Dicha resolución exenta complementa y modifica facultades en el Jefe Departamento de Avaluaciones a Delegar a los funcionarios pertenecientes a la Planta de Profesionales, Fiscalizadores, Técnico en Avaluaciones y Administrativos; y en los funcionarios a Contrata asimilados a un cargo de las plantas mencionadas, ubicados en el Departamento Regional de Avaluaciones y las Unidades respectivas, para que realicen labores referidas a la aplicación de la ley Nº 17.235, sobre Impuesto Territorial, a las funciones que se mencionan en dicha resolución.
+
+Concepción, diciembre de 2008.- Ramón Concha Velis, Director Regional (S).
