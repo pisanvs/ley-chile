@@ -11438,7 +11438,7 @@ Mientras los bancos no hayan establecido metodologías robustas para la asignaci
 
 En todo caso, los modelos utilizados para los efectos señalados serán objeto de análisis por parte de la Superintendencia en las evaluaciones regulares de gestión de riesgo financiero y operaciones de tesorería, a que se refiere el numeral 3.2 del título II del Capítulo 1-13 de esta Recopilación.
 
-8. Las partidas sujetas a corrección monetaria que deben ser incluidas en el cálculo de la posición neta en moneda chilena reajustable (el término PNur en la primera ecuación del numeral 1.2 del Anexo 1 del Capítulo III.B.2) serán solamente las que expresamente se indican en dicho anexo, esto es, las correspondientes a: (i) el activo fijo; (ii) las inversiones en sociedades; y (iii) el capital pagado y reservas.
+8. Lo dispuesto en el punto ii) del numeral 1.3 del Anexo N° 1 del Capítulo III.B.2 quedó sin efecto a partir del 1° de enero de 2009, debido a que se refiere a la aplicación de corrección monetaria para los estados financieros.
 
 Sobre las mediciones según modelo interno
 
