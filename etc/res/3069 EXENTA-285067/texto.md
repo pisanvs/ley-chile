@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.069, de 26 de noviembre de 2008, de esta Subsecretaría, autorízase a JOSÉ HERNÁN SEGUNDO LOYOLA OLIVARES, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en camino a Barranquilla C-370 kilómetro 9,5 Caldera, III Región, en la línea de proceso Picado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de noviembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
